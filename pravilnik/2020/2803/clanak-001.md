@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Sadržaj Pravilnika
+# Članak 1.
+Ovim se Pravilnikom određuju uvjeti koje mora ispunjavati pravna osoba za obavljanje poslova oporavilišta, detaljni sadržaj zahtjeva za izdavanje ovlaštenja, način podnošenja zahtjeva za ovlaštenje, poslovi koje obavlja oporavilište, popis ugroženih i rijetkih vrsta životinja koje su prioritetne za zbrinjavanje, razina skrbi o životinjama ovisno o stupnju ugroženosti, slijed postupanja sa životinjama te uvjeti oporavka i skrbi, način financiranja oporavka i skrbi o životinjama i cjenik provođenja skrbi, način vođenja evidencije i sadržaj evidencije o životinjama zbrinutim u oporavilištu, sadržaj obrasca o predaji životinje u oporavilište, postupanje sa životinjama nesposobnim za povratak u prirodu, postupanje s oporavljenim životinjama spremnim za puštanje u prirodu i nadzor rada oporavilišta.

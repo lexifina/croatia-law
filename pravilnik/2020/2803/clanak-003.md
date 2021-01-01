@@ -1,0 +1,15 @@
+## II. POSLOVI OPORAVILIŠTA
+## Smještaj životinja u oporavilištu za divlje životinje
+# Članak 3.
+(1) U oporavilište se privremeno smještaju žive jedinke kralješnjaka iz prirode Republike Hrvatske, osim riba, koje pripadaju strogo zaštićenoj vrsti, a koje su pronađene iscrpljene, bolesne, ozlijeđene ili otrovane, s ciljem njihovog oporavka i povratka u prirodu.
+(2) U oporavilište se privremeno smještaju i živi primjerci divljih vrsta životinja koje su zaplijenjene ili oduzete na temelju odredbi Zakona ili posebnog propisa koji regulira prekogranični promet i trgovinu divljim vrstama, do pravomoćnog okončanja postupka i odluke Ministarstva o daljnjem postupanju s njima.
+(3) U oporavilište se privremeno smještaju i žive jedinke invazivnih stranih vrsta životinja koje su preuzete temeljem posebnog propisa kojim se uređuje sprječavanje unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima, do konačnog postupanja.
+(4) Oporavilišta mogu, temeljem odluke Ministarstva, za jedinke iz stavka 1. ovoga članka vrsta navedenih u Prilogu II. ovoga Pravilnika koje nije moguće vratiti u prirodu, osigurati trajni boravak u svrhu provođenja odobrenih programa ex-situ očuvanja vrste, repopulacije ili reintrodukcije, znanstvenih istraživanja ili edukacije, ako su osigurani svi potrebni preduvjeti za njihov trajni boravak.
+(5) Iznimno, pravne ili fizičke osobe koje nisu ovlaštene za obavljanje poslova oporavilišta za divlje životinje u Republici Hrvatskoj mogu, temeljem suglasnosti Ministarstva, privremeno skrbiti o jedinkama iz stavaka 1., 2., 3. i 4. ovoga članka, ako je to povoljnije za oporavak životinje, ali isključivo u nekomercijalne svrhe.
+(6) Skrb o životinjama iz stavaka 1. i 2. ovoga članka može se u pojedinim fazama provoditi izvan lokacije oporavilišta ako za to na drugoj lokaciji postoje prikladniji uvjeti, ali uz kontinuiran nadzor djelatnika oporavilišta koji posjeduju potrebno znanje i iskustvo u skrbi za tu vrstu.
+(7) Životinje iz stavaka 1., 2. i 3. ovoga članka u trenutku zaprimanja u oporavilište moraju biti smještene u odvojenu smještajnu jedinicu u kojoj je spriječen neposredan dodir s drugim životinjama u oporavilištu, sve dok traje utvrđivanje njihovog zdravstvenog stanja.
+(8) Ako se provjerom zdravstvenog stanja, odnosno kliničkim pregledom životinje iz stavaka 1. i 2. ovoga članka posumnja da ima zaraznu ili nametničku bolest, ista treba boraviti u odvojenoj smještajnoj jedinici do ozdravljenja ili konačnog postupanja.
+(9) Ako se provjerom zdravstvenog stanja, odnosno kliničkim pregledom životinje iz stavka 3. ovoga članka utvrdi da nije dobrog zdravstvenog stanja, ista se usmrćuje.
+(10) Kad se utvrdi da životinje iz stavka 7. ovoga članka nisu nositelji prijenosnih zaraznih i nametničkih bolesti, mogu biti smještene s ostalim jedinkama u oporavilištu.
+(11) U oporavilištima za divlje životinje ne zbrinjavaju se domaće životinje niti druge životinje izuzev onih navedenih u stavcima 1., 2., 3. i 4. ovoga članka.
+(12) Životinje iz stavka 2. ovog članka moraju se u oporavilištu privremeno označiti ili smjestiti na način da se mogu razlikovati jedinke koje pripadaju pojedinoj zaplijeni.

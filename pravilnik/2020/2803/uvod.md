@@ -1,0 +1,1 @@
+Na temelju članka 67. stavka 10. Zakona o zaštiti prirode (»Narodne novine«, broj 80/13, 15/18, 14/19 i 127/19), ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministara nadležnog za poslove veterinarstva i dobrobiti životinja donosi
