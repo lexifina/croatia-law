@@ -1,0 +1,2 @@
+# Članak 6.
+Danom stupanja na snagu ove Odluke prestaje važiti Odluka o utvrđivanju popisa posebno skupih lijekova utvrđenih Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 42/18., 47/18. - ispravak, 63/18., 98/18., 106/18., 15/19., 26/19., 51/19., 69/19., 97/19., 108/19., 122/19., 127/19., 39/20., 46/20., 65/20., 110/20., 115/20. - ispravak, 119/20. - ispravak i 126/20.).
