@@ -1,0 +1,15 @@
+## Stalni boravak
+# Članak 156.
+(1) Stalni boravak može se odobriti državljaninu treće zemlje koji je:
+1. član obitelji ili životni partner hrvatskog državljanina koji do dana podnošenja zahtjeva ima neprekidno četiri godine odobren privremeni boravak u svrhu spajanja obitelji ili životnog partnerstva
+2. pripadnik hrvatskog naroda sa stranim državljanstvom ili bez državljanstva koji svoj status dokazuje potvrdom tijela državne uprave nadležnog za odnose s Hrvatima izvan Republike Hrvatske i za kojeg je utvrđeno da se vratio s namjerom da trajno živi u Republici Hrvatskoj, a do dana podnošenja zahtjeva ima neprekidno tri godine odobren privremeni boravak
+3. do dana podnošenja zahtjeva imao neprekidno tri godine odobren privremeni boravak, a u statusu izbjeglice je bio najmanje deset godina, što se dokazuje potvrdom tijela državne uprave nadležnog za stambeno zbrinjavanje
+4. maloljetno dijete koje do dana podnošenja zahtjeva za stalni boravak ima neprekidno tri godine odobren privremeni boravak u svrhu spajanja obitelji, a jedan od roditelja ima odobren stalni boravak ili dugotrajno boravište
+5. imao prebivalište u Republici Hrvatskoj na dan 8. listopada 1991. te je korisnik programa povratka ili obnove ili stambenog zbrinjavanja, što se dokazuje potvrdom tijela državne uprave nadležnog za stambeno zbrinjavanje i za kojeg je utvrđeno da se vratio s namjerom da trajno živi u Republici Hrvatskoj, uz obvezu da priloži dokaz o nekažnjavanju iz matične države ili države u kojoj je boravio duže od godine dana neposredno prije dolaska u Republiku Hrvatsku
+6. maloljetno dijete koje živi u Republici Hrvatskoj:
+– čiji jedan od roditelja, u trenutku rođenja djeteta, ima odobren stalni boravak ili dugotrajno boravište uz suglasnost drugog roditelja
+– čiji jedan roditelj, u trenutku rođenja djeteta, ima odobren stalni boravak ili dugotrajno boravište u Republici Hrvatskoj, a drugi je roditelj nepoznat, umro, proglašen umrlim, lišen roditeljske skrbi ili potpuno odnosno djelomično lišen poslovne sposobnosti u odnosu na roditeljsku skrb
+7. rođen u Republici Hrvatskoj i od rođenja živi na području Republike Hrvatske, ali zbog opravdanih razloga na koje nije mogao utjecati nije imao reguliran boravak.
+(2) Smatra se da je državljanin treće zemlje iz stavka 1. točaka 1. do 4. ovoga članka neprekidno boravio u Republici Hrvatskoj i ako je u razdoblju od četiri odnosno tri godine izbivao iz Republike Hrvatske višekratno do šest mjeseci ukupno ili jednokratno do četiri mjeseca.
+(3) U trenutku odlučivanja o zahtjevu za odobrenje stalnog boravka državljanin treće zemlje iz stavka 1. točaka 1. do 4. ovoga članka mora imati odobren privremeni boravak, a državljanin treće zemlje iz stavka 1. točaka 5. do 7. ovoga članka može ostati u Republici Hrvatskoj do dana izvršnosti odluke o zahtjevu.
+(4) Ministar pravilnikom iz članka 6. stavka 6. ovoga Zakona propisuje tehničke uvjete izdavanja dozvole boravka državljanima trećih zemalja iz stavka 1. ovoga članka i dokumentaciju koja se prilaže zahtjevu.

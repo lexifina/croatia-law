@@ -1,0 +1,4 @@
+## Ulazak državljanina treće zemlje s dozvolom izdanom u drugoj državi članici EGP-a
+# Članak 124.
+(1) Državljanin treće zemlje koji ima valjanu dozvolu izdanu u svrhu premještaja unutar društva, koju je izdala država članica EGP-a koja ne primjenjuje u potpunosti schengensku pravnu stečevinu, kada uđe u Republiku Hrvatsku za potrebe premještaja unutar društva dužan je policijskoj upravi odnosno policijskoj postaji dostaviti potvrdu trgovačkog društva, podružnice ili predstavništva iz druge države EGP-a u kojoj su navedeni podaci o trajanju mobilnosti te lokacija subjekta ili subjekata u Republici Hrvatskoj.
+(2) Državljanina treće zemlje iz stavka 1. ovoga članka prilikom prelaska granice provjerava se u SIS-u, a ulazak će se odbiti ili uložiti prigovor na mobilnost državljanina treće zemlje za kojeg je u SIS-u izdano upozorenje za potrebe odbijanja ulaska.

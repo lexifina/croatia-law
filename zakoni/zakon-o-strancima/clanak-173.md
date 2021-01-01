@@ -1,0 +1,4 @@
+## Gubitak, nestanak ili krađa dozvole boravka ili putne isprave za državljanina treće zemlje
+# Članak 173.
+(1) Državljanin treće zemlje dužan je u roku od osam dana od dana saznanja prijaviti gubitak, nestanak ili krađu putne isprave iz članka 6. stavka 1. ovoga Zakona ili dozvole boravka policijskoj upravi odnosno policijskoj postaji prema mjestu događaja ili saznanja, o čemu se izdaje potvrda.
+(2) Državljanin treće zemlje koji u inozemstvu izgubi ili na drugi način ostane bez putne isprave za državljanina treće zemlje iz članka 6. stavka 1. ovoga Zakona ili dozvole boravka dužan je u roku od osam dana od dana saznanja prijaviti najbližoj diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske, koji je o tome dužan obavijestiti policijsku upravu odnosno policijsku postaju koja ju je izdala.

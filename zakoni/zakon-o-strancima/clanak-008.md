@@ -1,0 +1,7 @@
+## Posebna putna isprava za državljanina treće zemlje
+# Članak 8.
+(1) Posebna putna isprava za državljanina treće zemlje može se izdati državljaninu treće zemlje koji u Republici Hrvatskoj ima status supsidijarne zaštite sukladno propisu kojim se uređuje međunarodna zaštita, a koji bez svoje krivnje nije u mogućnosti pribaviti stranu putnu ispravu.
+(2) Iznimno od stavka 1. ovoga članka, putna isprava može se izdati i državljaninu treće zemlje koji ima odobren privremeni boravak, dugotrajno boravište ili stalni boravak i kojem je istekao rok važenja strane putne isprave, radi odlaska u diplomatsku misiju odnosno konzularni ured u inozemstvu radi ishođenja nove strane putne isprave ili kojem je prestalo državljanstvo treće zemlje na temelju izdanog zajamčenja za primitak u hrvatsko državljanstvo.
+(3) Državljanin treće zemlje po ishođenju valjane strane putne isprave ili koji je primljen u hrvatsko državljanstvo ili kojem je prestala supsidijarna zaštita ili mu je prestao boravak iz stavka 2. ovoga članka dužan je, nadležnoj policijskoj upravi odnosno postaji, vratiti posebnu putnu ispravu za državljanina treće zemlje u roku od 30 dana od dana nastupa navedenih okolnosti.
+(4) Zahtjev za izdavanje posebne putne isprave podnosi se policijskoj upravi odnosno policijskoj postaji prema boravištu odnosno prebivalištu državljanina treće zemlje, koja odlučuje o zahtjevu.
+(5) Protiv rješenja iz stavka 4. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.

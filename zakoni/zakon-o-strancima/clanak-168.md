@@ -1,0 +1,11 @@
+## Rok važenja dozvole boravka i unos podataka u dozvolu boravka
+# Članak 168.
+(1) Dozvola boravka izdaje se državljaninu treće zemlje kojem je odobren privremeni boravak na rok važenja na koji mu je odobren privremeni boravak.
+(2) Iznimno od stavka 1. ovoga članka, dozvolu boravka nije dužan ishoditi državljanin treće zemlje kojem je izdana dozvola za boravak i rad za sezonski rad do 90 dana.
+(3) Dozvola boravka državljaninu treće zemlje kojemu je odobreno dugotrajno boravište ili stalni boravak izdaje se s rokom važenja od pet godina.
+(4) U dozvolu boravka državljanina treće zemlje iz članka 150. stavka 1. ovoga Zakona kojemu je odobreno dugotrajno boravište na temelju azila ili supsidijarne zaštite unijet će se napomena: »Međunarodnu zaštitu odobrila (država članica) (datum)«.
+(5) Državljaninu treće zemlje kojem je odobreno dugotrajno boravište na temelju članka 150. ovoga Zakona, a kojemu je druga država članica EGP-a izdala dozvolu boravka u koju je unesena napomena da mu je odobrena međunarodna zaštita, policijska uprava odnosno policijska postaja će u dozvolu boravka državljaninu treće zemlje unijeti napomenu iz stavka 4. ovoga članka.
+(6) Prije unošenja napomene iz stavka 5. ovoga članka u dozvolu boravka, od druge države članice EGP-a koja se navodi u napomeni dozvole boravka, zatražit će se informacija ima li državljanin treće zemlje još uvijek odobrenu međunarodnu zaštitu, a ako je međunarodna zaštita prestala, policijska uprava odnosno policijska postaja ne unosi napomenu iz stavka 5. ovoga članka.
+(7) Ako je nadležnost za međunarodnu zaštitu državljanina treće zemlje na dugotrajnom boravištu prešla u nadležnost Republike Hrvatske nakon što mu je izdana dozvola boravka iz stavka 5. ovoga članka, policijska uprava odnosno policijska postaja izmijenit će napomenu u dozvoli boravka u roku od tri mjeseca od dana prelaska nadležnosti tako da će unijeti riječi: »odgovornost za međunarodnu zaštitu prenesena na Republiku Hrvatsku (datum)«.
+(8) Ministarstvo će, na zahtjev druge države članice EGP-a, u roku od mjesec dana od zaprimanja zahtjeva dostaviti podatak ima li državljanin treće zemlje odobrenu međunarodnu zaštitu u Republici Hrvatskoj.
+(9) Ministar pravilnikom iz članka 6. stavka 6. ovoga Zakona propisuje cijenu dozvole boravka za državljane trećih zemalja iz ovoga članka.

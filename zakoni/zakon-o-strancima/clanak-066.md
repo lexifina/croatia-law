@@ -1,0 +1,4 @@
+## Reguliranje privremenog boravka za člana obitelji državljanina treće zemlje koji ima zaštitu sukladno propisu kojim se uređuje međunarodna zaštita
+# Članak 66.
+(1) Član uže obitelji državljanina treće zemlje kojem je odobren azil ili supsidijarna zaštita sukladno propisu kojim se uređuje međunarodna zaštita, za odobrenje privremenog boravka u svrhu spajanja obitelji ne mora pružiti dokaz o zdravstvenom osiguranju i dokaz o osiguranim sredstvima za uzdržavanje.
+(2) Članu uže obitelji iz stavka 1. ovoga članka koji u postupku odobrenja privremenog boravka ne može pružiti dokaz o postojanju određenog obiteljskog odnosa s državljaninom treće zemlje kojem je odobrena zaštita sukladno propisu kojim se uređuje međunarodna zaštita, mogu se uzeti u obzir i drugi dokazi o postojanju takvog odnosa, koji se procjenjuje sukladno propisu kojim se uređuje opći upravni postupak.

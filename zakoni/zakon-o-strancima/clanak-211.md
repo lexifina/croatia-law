@@ -1,0 +1,9 @@
+## Ograničenje slobode kretanja
+# Članak 211.
+(1) Državljanina treće zemlje može se uhititi i zadržati najdulje 48 sati ako je potrebno utvrditi njegov identitet ili je potrebno utvrditi okolnosti nezakonitog prelaska državne granice ili nezakonitog boravka, a postoji opasnost da će državljanin treće zemlje pobjeći.
+(2) Ako se identitet ili okolnosti nezakonitog prelaska državne granice ili nezakonitog boravka ne mogu utvrditi u roku iz stavka 1. ovoga članka, a ograničavanje slobode kretanja državljaninu treće zemlje smještajem u prihvatni centar za strance zbog prostorne udaljenosti ne bi bilo svrhovito, državljanina treće zemlje može se zadržati još najdulje 24 sata ako se opravdano očekuje da će se identitet ili okolnosti nezakonitog prelaska državne granice ili nezakonitog boravka moći utvrditi u tom roku.
+(3) Prilikom uhićenja državljanina treće zemlje će se obavijestiti o razlozima uhićenja, da može odrediti opunomoćenika za zastupanje, da može obavijestiti člana obitelji ili drugu osobu te da može zatražiti da se o uhićenju obavijesti diplomatska misija odnosno konzularni ured države čiji je državljanin ako nije drukčije određeno međunarodnim ugovorom.
+(4) Vrijeme zadržavanja državljanina treće zemlje iz stavaka 1. i 2. ovoga članka računa se od vremena njegova uhićenja sukladno stavcima 1. i 3. ovoga članka.
+(5) O zadržavanju maloljetnog državljanina treće zemlje bez pratnje obavijestit će se centar za socijalnu skrb, i diplomatska misija odnosno konzularni ured države čiji je državljanin.
+(6) Državljanina treće zemlje će se bez odgode pustiti na slobodu kada prestanu razlozi za uhićenje i zadržavanje, a najkasnije do isteka roka iz stavaka 1. i 2. ovoga članka, osim ako je doneseno rješenje o smještaju u centar.
+(7) Tehničke uvjete za zadržavanje državljana trećih zemalja iz stavka 2. ovoga članka propisuje ministar pravilnikom.

@@ -1,0 +1,7 @@
+## Donošenje rješenja o protjerivanju i obveza prihvata
+# Članak 164.
+(1) Ministarstvo, putem policijske uprave odnosno policijske postaje, može donijeti rješenje o protjerivanju s područja EGP-a državljanina treće zemlje koji ima dugotrajno boravište u drugoj državi članici EGP-a i člana njegove obitelji koji imaju reguliran privremeni boravak u Republici Hrvatskoj, ako predstavljaju ozbiljnu opasnost za javni poredak ili nacionalnu sigurnost.
+(2) Pri donošenju rješenja iz stavka 1. ovoga članka policijska uprava odnosno policijska postaja savjetovat će se s nadležnim tijelima države članice EGP-a koja je državljaninu treće zemlje odobrila dugotrajno boravište te će im osigurati podatke glede provođenja postupka protjerivanja.
+(3) Državljanin treće zemlje iz članka 161. ovoga Zakona i član njegove obitelji ne može se protjerati ako se bolest koja ugrožava javno zdravlje pojavila tri mjeseca nakon ulaska u Republiku Hrvatsku.
+(4) Ako postoji ozbiljna sumnja da državljanin treće zemlje i član obitelji boluju od bolesti koja predstavlja opasnost za javno zdravlje, u roku od tri mjeseca od ulaska u Republiku Hrvatsku može se zatražiti da se podvrgnu besplatnom liječničkom pregledu, koji će se provesti na temelju individualne procjene u svakom pojedinačnom slučaju.
+(5) Na zahtjev druge države članice EGP-a, bez odgađanja dopustit će se ponovni ulazak državljaninu treće zemlje kojem je u Republici Hrvatskoj odobreno dugotrajno boravište i članu njegove obitelji ako mu je u drugoj državi članici EGP-a prestao boravak.

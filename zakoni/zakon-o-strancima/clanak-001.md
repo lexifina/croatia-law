@@ -1,0 +1,7 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom propisuju uvjeti ulaska, kretanja, boravka i rada stranaca koji su državljani trećih zemalja (u daljnjem tekstu: državljani trećih zemalja) u Republici Hrvatskoj.
+(2) Odredbe ovoga Zakona koje se odnose na boravak i rad državljana trećih zemalja ne primjenjuju se na članove diplomatskih misija, konzularnih ureda, članove misija organizacija Ujedinjenih naroda i drugih specijaliziranih ustanova Ujedinjenih naroda, zaposlenike institucija Europske unije, članove misija međunarodnih organizacija akreditiranih u Republici Hrvatskoj te članove njihovih obitelji odnosno zajedničkog kućanstva, kojima ministarstvo nadležno za vanjske poslove izdaje posebne osobne iskaznice, te na osobe koje u okviru NATO aktivnosti mogu boraviti u Republici Hrvatskoj kao i članovi njihovih obitelji.
+(3) Odredbe ovoga Zakona ne primjenjuju se na državljane treće zemlje članove posade broda u međunarodnoj plovidbi hrvatske državne pripadnosti dok plovi izvan granica Republike Hrvatske.
+(4) Državljani treće zemlje na privremenom, dugotrajnom boravištu ili stalnom boravku dužni su regulirati obvezno zdravstveno osiguranje sukladno propisima kojima se uređuje obvezno zdravstveno osiguranje i zdravstvena zaštita stranaca u Republici Hrvatskoj, ako tim propisima nije drukčije određeno.
+(5) Osobe koje imaju utvrđen status Hrvata bez hrvatskog državljanstva ne smatraju se strancima u smislu ovoga Zakona te ostvaruju status i prava sukladno posebnom propisu o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske.

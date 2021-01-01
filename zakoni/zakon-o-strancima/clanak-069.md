@@ -1,0 +1,4 @@
+## Autonomni boravak
+# Članak 69.
+(1) Državljaninu treće zemlje koji je imao odobren privremeni boravak u svrhu spajanja obitelji u neprekidnom trajanju od tri godine, kao bračni, izvanbračni, životni ili neformalni životni partner kao i djetetu koje je postalo punoljetno, može se odobriti autonomni boravak ako ispunjava uvjete iz članka 59. stavka 1. točaka 2. do 4. te točaka 6. i 7. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, državljaninu treće zemlje može se odobriti autonomni boravak ako ispunjava uvjete iz članka 59. stavka 1. točaka 2. do 4. te točaka 6. i 7. ovoga Zakona i ako ima odobren privremeni boravak u svrhu spajanja obitelji ili u svrhu životnog partnerstva u neprekidnom trajanju od tri godine u slučaju da je osoba na temelju koje mu je odobren privremeni boravak u svrhu spajanja obitelji umrla.

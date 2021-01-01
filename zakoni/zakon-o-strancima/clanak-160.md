@@ -1,0 +1,6 @@
+## VIII. BORAVAK I RAD DRŽAVLJANA TREĆIH DRŽAVA KOJI IMAJU ODOBRENO DUGOTRAJNO BORAVIŠTE U DRUGOJ DRŽAVI ČLANICI EGP-a I ČLANOVA NJIHOVIH OBITELJI
+## Ulazak i boravak državljanina treće zemlje koji ima odobreno dugotrajno boravište u drugoj državi članici EGP-a
+# Članak 160.
+(1) Državljanin treće zemlje koji u drugoj državi članici EGP-a ima odobreno dugotrajno boravište može boraviti na području Republike Hrvatske do tri mjeseca od dana ulaska u Republiku Hrvatsku odnosno do isteka roka na koji je izdana viza ili boravišna iskaznica koju je izdala druga država članica EGP-a, ako je rok važenja vize ili boravišne iskaznice koju je izdala druga država članica EGP-a kraći od tri mjeseca.
+(2) Državljanin treće zemlje iz stavka 1. ovoga članka koji namjerava boraviti duže od tri mjeseca u Republici Hrvatskoj dužan je prije isteka roka valjanosti vize ili boravišne iskaznice koju je izdala druga država članica EGP-a policijskoj upravi odnosno policijskoj postaji podnijeti zahtjev za odobrenje privremenog boravka, o čemu se izdaje potvrda.
+(3) Državljanin treće zemlje iz stavka 2. ovoga članka na temelju potvrde o podnesenom zahtjevu za privremeni boravak može boraviti u Republici Hrvatskoj do izvršnosti odluke o zahtjevu.
