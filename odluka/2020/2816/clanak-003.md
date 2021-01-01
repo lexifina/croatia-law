@@ -1,0 +1,3 @@
+# Članak 3.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
+O.br: 409-020/12-20/BV
