@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopunama Odluke o dokumentaciji koja se prilaže zahtjevu za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala kreditnih institucija
