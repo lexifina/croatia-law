@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 32. Statuta Općine Brela (»Glasnik - službeno glasilo Općine Brela« broj 01/13), Općinsko vijeće Općine Brela, na svojoj 14. sjednici održanoj 28. svibnja 2020. godine donijelo je
