@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Oslobođenje od PDV-a i trošarine se odnosi na uvoz robe čija ukupna vrijednost ne premašuje svotu od 2.200,00 kuna po putniku. Za putnike u zračnom i pomorskom prometu ova vrijednost iznosi 3.200,00 kuna.
+(2) Za putnike mlađe od 15 godina vrijednosni limit iz stavka 1. ovoga članka iznosi 1.100,00 kuna, neovisno o prijevoznom sredstvu kojim putuju.
+(3) U izračun vrijednosti robe na koju se primjenjuje oslobođenje od PDV-a i trošarine ne uključuje se vrijednost trošarinskih proizvoda koji su količinski oslobođeni od PDV-a i trošarine sukladno članku 7. ovoga Pravilnika.
+(4) Premašuje li vrijednost pojedinoga predmeta koji se uvozi prema stavku 1. ovoga članka utvrđene vrijednosti, u svrhu ostvarivanja oslobođenja podjela vrijednosti takvoga predmeta nije dopuštena, niti se njegova vrijednost može dijeliti na dvije ili više osoba. Isto tako, nije dopuštena kumulacija ukupne vrijednosti robe na koju se može ostvarivati pravo na oslobođenje na dvije ili više osoba.
+(5) U izračun vrijednosti robe na koju se primjenjuje oslobođenje od PDV-a i trošarine ne uključuje se vrijednost osobne prtljage putnika koja se privremeno uvozi ili se nakon privremenog izvoza ponovno uvozi te vrijednost medicinskih proizvoda neophodnih za putnikove osobne potrebe.

@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Vrijednosni limit za primjenu oslobođenja od PDV-a i trošarine iz članka 10. ovoga Pravilnika usklađuju se jednom godišnje s vrijednošću eura. Primjenjuje se tečaj Europske središnje banke (ECB) objavljen u Službenom listu Europske unije, koji vrijedi prvog radnog dana u mjesecu listopadu. Novi vrijednosni limit, usklađen s tečajem eura počinje se primjenjivati 1. siječnja sljedeće kalendarske godine.
+(2) Ako preračunavanjem iznosa vrijednosnog limita iz članka 10. ovoga Pravilnika izraženog u eurima dođe do njegovog porasta izraženog u nacionalnoj valuti za manje od 2 % ili 5 eura, koji god je iznos manji, može se zadržati visina vrijednosnih limita koji su na snazi u vrijeme godišnjeg usklađivanja kako je predviđeno stavkom 1. ovoga članka.
