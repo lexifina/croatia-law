@@ -1,0 +1,12 @@
+# Članak 3.
+DEFINICIJE
+Za potrebe ove Konvencije, pojmovi:
+a »sigurnosne mjere« znači svaku mjeru osmišljenu i provedenu s glavnim ciljem zaštite zdravlja i dobrobiti pojedinaca i skupina koji prisustvuju ili sudjeluju na nogometnoj utakmici ili drugoj sportskoj priredbi, unutar ili izvan stadiona, ili koji žive ili rade u neposrednoj blizini priredbe;
+b »zaštitne mjere« znači svaku mjeru osmišljenu i provedenu s glavnim ciljem sprečavanja, smanjenja rizika i/ili suprotstavljanja svakom nasilju ili drugoj kriminalnoj aktivnosti ili izgredu počinjenih u vezi s nogometnom utakmicom ili nekom drugom sportskom priredbom, unutar ili izvan stadiona;
+c »uslužne mjere« znači svaku mjeru osmišljenu i provedenu s glavnim ciljem da se pojedinci i skupine osjećaju ugodno, cijenjeno i dobrodošlo na nogometnoj utakmici ili drugoj sportskoj priredbi, unutar ili izvan stadiona;
+d »agencija« znači svako javno ili privatno tijelo s ustavnom, zakonskom, regulatornom ili drugom odgovornošću u pogledu pripreme i provedbe bilo koje sigurnosne, zaštitne ili uslužne mjere u vezi s nogometnom utakmicom ili drugom sportskom priredbom, unutar ili izvan stadiona;
+e »dionik« znači gledatelje, lokalne zajednice ili druge zainteresirane strane koje nemaju zakonske ili regulatorne odgovornosti, ali koje mogu igrati važnu ulogu u pomoći da nogometne utakmice ili druge sportske priredbe budu sigurne, zaštićene i dobrodošle, unutar i izvan stadiona;
+f »integrirani pristup« znači prepoznavanje činjenice da se, neovisno o njihovoj prvotnoj svrsi, sigurnosne, zaštitne i uslužne mjere na nogometnim utakmicama i drugim sportskim priredbama redovito preklapaju, da su međuovisne u smislu učinka, da moraju biti uravnotežene te da ne mogu biti osmišljene i ne mogu se provoditi zasebno;
+g »multiagencijski integrirani pristup« znači prepoznavanje činjenice da uloge i aktivnosti svake agencije uključene u nogometne ili druge sportske planske ili operativne aktivnosti trebaju biti usklađene, nadopunjujuće, proporcionalne te osmišljene i provedene kao dio sveobuhvatne strategije sigurnosti, zaštite i usluga;
+h »dobre prakse« znači mjere koje se primjenjuju u jednoj ili više zemalja, a koje su se pokazale vrlo učinkovitima u postizanju zadanih ciljeva ili svrha;
+i »relevantna agencija« znači tijelo (javno ili privatno) uključeno u organizaciju i/ili upravljanje nogometnom utakmicom ili drugom sportskom priredbom koja se održava unutar ili izvan sportskog stadiona.
