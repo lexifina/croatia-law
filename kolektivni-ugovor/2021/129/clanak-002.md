@@ -1,0 +1,10 @@
+## Primjena
+# Članak 2.
+1. Ovaj Kolektivni ugovor primjenjuje se na pomorce državljane Republike Hrvatske koji imaju boravište ili prebivalište u Republici Hrvatskoj, a koji plove na brodovima u međunarodnoj plovidbi upisanim u hrvatski ili neki drugi upisnik brodova.
+2. Lista brodova je navedena u Posebnom dodatku (1) ovog Kolektivnog ugovora, a koji su izravno ili putem svojih ovisnih društava u vlasništvu hrvatskih brodara i u odnosu na koje je zaključen ITF Posebni ugovor.
+3. Ovaj Kolektivni ugovor primjenjuje se i na pomorce državljane ostalih država članica Europske unije vodeći računa o primjeni odredaba Uredbe (EZ) br. 883/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o koordinaciji sustava socijalne sigurnosti.
+4. Ugovorne strane će najmanje jednom godišnje tijekom trajanja Kolektivnog ugovora razmatrati stanje na svjetskom pomorskom tržištu, potrebama hrvatskih brodara za zapošljavanjem pomoraca, raspoloživost i interes hrvatskih pomoraca za zapošljavanje na brodovima u međunarodnoj plovidbi u vlasništvu hrvatskih brodara.
+5. Odredbe Kolektivnog ugovora kojima se uređuju prava pomoraca primjenjuju se kao opće odredbe i na pojedinačne ugovore o zaposlenju zaključene između poslodavca i pomorca. U slučaju proturječja između općih odredaba i pojedinačnog ugovora o zaposlenju primjenjuju se opće odredbe, ako su povoljnije za pomorca. Odredbe Kolektivnog ugovora primjenjuju se i u slučaju kad pojedinačni ugovor o zaposlenju nije zaključen u pisanom obliku.
+6. Ovaj Kolektivni ugovor usuglašen je s odredbama MLC-a.
+7. Prigodom produženja Kolektivnog ugovora ili prijedloga za uključenje pojedinog broda u Kolektivni ugovor, ugovorne stranke su dužne dogovoriti hoće li određeni brod u preostalom razdoblju trajanja Kolektivnog ugovora biti klasificiran za plovidbu u međunarodnoj plovidbi, u kojem slučaju će se takav brod uključiti u Kolektivni ugovor.
+8. Kolektivnom ugovoru mogu pristupiti poslodavci koji nisu članovi Udruge, pod uvjetom da o tome izvijeste stranke ovog Kolektivnog ugovora.
