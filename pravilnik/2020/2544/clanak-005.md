@@ -1,0 +1,2 @@
+# Članak 5.
+Kada funkciju određenog mjerila navedenog u članku 2. ovoga Pravilnika ostvaruje mjerni sustav koji se sastoji od više mjerila za mjerenje različitih fizikalnih veličina ili pretvorbu različitih fizikalnih veličina, ili pretvorbu omjera (mjerila temperature, mjerila tlaka, mjerila gustoće, mjerila viskoznosti i sl.), tada će se razdoblje određeno za ponovno ovjeravanje navedenog mjerila primijeniti na sve elemente toga mjernog sustava osim mjerila koja podliježu samo prvom ovjeravanju.

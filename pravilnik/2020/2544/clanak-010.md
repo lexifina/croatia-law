@@ -1,0 +1,2 @@
+# Članak 10.
+Kad funkciju određenog etalona navedenog u članku 7. ovoga Pravilnika ostvaruje mjerni sustav koji se sastoji od više mjerila za mjerenje različitih fizikalnih veličina ili pretvorbu različitih fizikalnih veličina, ili pretvorbu omjera (mjerila temperature, mjerila tlaka, mjerila gustoće, mjerila viskoznosti i sl.), tada će se razdoblje određeno za ponovno umjeravanje navedenog etalona primijeniti na sve elemente toga mjernog sustava.
