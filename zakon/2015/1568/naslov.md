@@ -1,1 +1,0 @@
-Zakon o osiguranju depozita

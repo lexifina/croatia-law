@@ -1,9 +1,0 @@
-## Posebnosti računa
-# Članak 6.
-(1) Kod obračuna obeštećenja udio svakog deponenta u zajedničkom računu uzima se u obzir kod izračunavanja ograničenja iz članka 7. ovoga Zakona. Ako nije drugačije ugovoreno, tada se sredstva na zajedničkom računu dijele među deponentima na jednake dijelove.
-(2) Svi računi društava bez pravne osobnosti, nasljedničkih i suvlasničkih zajednica smatraju se za potrebe ovoga Zakona depozitom jednog vjerovnika kreditne institucije.
-(3) Ako je izričito ugovoreno da deponent račun vodi u svoje ime, a za račun drugoga (povjerenički račun), gornja granica prava na obeštećenje iz članka 7. ovoga Zakona utvrđuje se s obzirom na stvarnog vlasnika, odnosno na osobu za čiji račun se vodi povjerenički račun, pod uvjetom da je kreditna institucija provjerila i utvrdila identitet stvarnog vlasnika prije dana nastupa osiguranog slučaja te utvrdila pripadajući iznos stvarnog vlasnika prije dana nastupa osiguranog slučaja.
-(4) Ako kreditna institucija nije u mogućnosti utvrditi identitete i pripadajuće iznose stvarnih vlasnika povjereničkih računa, tada se za izračun obeštećenja, u skladu sa ovim Zakonom, povjerenički računi smatraju kao računi društava bez pravne osobnosti.
-(5) Ako je na depozitu zasnovano založno pravo, neovisno o tome je li ono zasnovano dobrovoljno ili u sudskom postupku, Agencija će svoju obvezu ispuniti na račun založnoga dužnika, a založno pravo nastavlja teretiti iznos isplaćenog obeštećenja.
-(6) Pri izračunu iznosa obeštećenja depoziti fizičkih osoba koji se nalaze na računima otvorenim radi obavljanja njihove samostalne djelatnosti ili obrta uključuju se u ukupni iznos obračuna te fizičke osobe do razine pokrića iz članka 7. ovoga Zakona.
-(7) Ministar financija pravilnikom će detaljnije urediti način vođenja evidencija u svrhu utvrđivanja identiteta stvarnog vlasnika i iznosa sredstava iz stavka 3. ovoga članka.
