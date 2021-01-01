@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 29. Statuta Grada Opatije (»Službene novine Primorsko-goranske županije« broj 25/09, 30/09 - ispravak, 7/13, 7/13, 3/18, 5/18 - ispravak i 11/18 - proč. tekst i 3/20) Gradsko vijeće Grada Opatije, na sjednici održanoj 24. srpnja 2020. godine donosi
