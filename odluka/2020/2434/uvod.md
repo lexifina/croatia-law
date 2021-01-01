@@ -1,0 +1,1 @@
+Na temelju članaka 20. i 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16. i 101/17.) i članka 32. Statuta Općine Pirovac (»Službeni vjesnik Šibensko-kninske županije«, broj 5/13., 6/18. i 4/20.), Općinsko vijeće Općine Pirovac, na 23. sjednici, od 27. listopada 2020. godine, donosi
