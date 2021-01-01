@@ -1,0 +1,6 @@
+## IV. NAKNADA ZA OBAVLJANJE DRUGIH POSLOVA HAKOM-a U PODRUČJU ELEKTRONIČKIH KOMUNIKACIJA
+# Članak 24.
+(1) Naknada za obavljanje drugih poslova HAKOM-a, izražena u postotku od ukupnog godišnjeg bruto prihoda koji su u prethodnoj kalendarskoj godini ostvarili operatori u obavljanju djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu, plaća se na dio godišnjeg bruto prihoda operatora od obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu koji prelazi 7.500.000,00 kuna po stopi 0,20 %.
+(2) Naknada iz stavka 1. ovog članka, iznosa većeg od 2.000.000,00 kuna po pojedinom računu, plaća se do najviše četiri jednaka obroka s krajnjim rokom dospijeća zadnjeg obroka do 15. prosinca tekuće godine, odnosno u roku dospijeća navedenom na računu.
+(3) Izvješće o iznosu ukupnog godišnjeg bruto prihoda ostvarenoga od obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga na tržištu, svi operatori obvezni su dostaviti HAKOM-u najkasnije do 31. ožujka tekuće godine.
+(4) U slučaju završetka obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga, operatori su obvezni dostaviti izvješće o iznosu ukupnog godišnjeg bruto prihoda iz tekuće kalendarske godine najkasnije 60 dana nakon završetka obavljanja djelatnosti elektroničkih komunikacijskih mreža i usluga.
