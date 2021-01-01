@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 36. Statuta Grada Novske (»Službeni vjesnik« Grada Novske, broj 24/09, 47/10, 29/11, 3/13, 8/13, 39/14, 4/18, 15/18 - ispravak, 61/20), Gradsko vijeće Grada Novske na 34. sjednici održanoj 15. prosinca 2020. godine donijelo je
