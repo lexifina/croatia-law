@@ -1,0 +1,11 @@
+# Članak 2.
+U članku 6. stavku 1. točka 2. mijenja se i glasi:
+»2. dodatnih pojedinačnih programa aktivnosti stalnog stručnog usavršavanja ovlaštenih revizora koji nisu obuhvaćeni godišnjim planom uslijed određenih obrazloženih okolnosti koje organizator navodi u zahtjevu, u slučaju kada je organizator dobio prethodnu suglasnost na program aktivnosti stalnog stručnog usavršavanja ovlaštenih revizora iz točke 1. ovoga stavka.«
+U stavku 4. točki 5. iza riječi: »skupova« dodaje se zarez i riječi: »uključujući i aktivnosti propisane stavkom 5. ovoga članka«.
+Iza stavka 4. dodaju se novi stavci 5. i 6. koji glase:
+»(5) Aktivnosti koje se održavaju u skladu s godišnjim planom i programom putem webinara (ili drugoga internetskog oblika učenja na daljinu, npr. videokonferencija i slično) smatraju se jednakovrijednim organiziranom klasičnom stručnom skupu te se na njih odgovarajuće primjenjuju odredbe stavaka 1. - 4. te stavaka 7. - 9. ovoga članka i ostali uvjeti propisani odredbama ovoga Pravilnika.
+(6) Na aktivnosti iz stavka 5. ovoga članka odgovarajuće se primjenjuje odredba stavka 4. točke 5. ovoga članka te iste aktivnosti trebaju zadovoljavati sljedeće uvjete:
+1. aktivnosti se prenose internetom u realnom vremenu te omogućuju interakciju predavača i sudionika putem video, audio i tekstualne komunikacije
+2. za navedene aktivnosti trebaju biti uspostavljeni odgovarajući i provjerljivi mehanizmi prijave sudionika i kontrole njihova prisustva i/ili znanja tijekom održavanja aktivnosti koje je organizator dužan dostaviti Ministarstvu financija u okviru zahtjeva iz stavka 1. ovoga članka.«.
+(7) Ako organizator aktivnosti iz stavka 5. ovoga članka određene aktivnosti/sadržaje pripremi kao internetski medijski video sadržaj (engl. webcast) te uspostavi odgovarajuće i provjerljive mehanizme prijave sudionika i kontrole njihova prisustva i znanja tijekom pregleda (eng. e-learning), koje je organizator dužan dostaviti Ministarstvu financija u okviru zahtjeva iz stavka 1. ovoga članka, iste se smatraju jednakovrijednim organiziranom klasičnom stručnom skupu, na koje se odgovarajuće primjenjuju odredbe stavaka 1. - 4. te stavaka 8. - 10. ovoga članka i ostali uvjeti propisani odredbama ovoga Pravilnika.
+Dosadašnji stavci 5., 6. i 7. postaju stavci 8., 9. i 10.
