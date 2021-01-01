@@ -1,0 +1,1 @@
+Na temelju članka 247. stavaka 3. i 6. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016, 126/2019, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 11. prosinca 2020. godine donosi
