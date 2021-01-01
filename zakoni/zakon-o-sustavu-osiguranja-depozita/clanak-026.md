@@ -1,0 +1,9 @@
+## Kontrola nad ispunjavanjem obveza kreditne institucije iz ovoga Zakona
+# Članak 26.
+(1) Agencija kontrolira ispunjava li kreditna institucija obveze iz ovoga Zakona te provodi testove otpornosti na stres sustava osiguranja depozita, i to najmanje jednom u razdoblju od tri godine.
+(2) Agencija je dužna razmjenjivati informacije o rezultatima provedenih testova otpornosti na stres s EBA-om, pri čemu zaposlenik Agencije podliježe zahtjevima u vezi s čuvanjem profesionalne tajne u skladu s člankom 70. Uredbe (EU) br. 1093/2010.
+(3) Kontrolu kreditne institucije obavlja stručni zaposlenik Agencije na temelju ovlaštenja direktora Agencije.
+(4) Kreditna institucija dužna je na zahtjev ovlaštene osobe Agencije omogućiti obavljanje kontrole u prostorijama kreditne institucije. U tu svrhu kreditna institucija dužna je omogućiti ovlaštenoj osobi uvid i pregled poslovnih knjiga, poslovne dokumentacije i evidencije u opsegu potrebnom za obavljanje kontrole i na zahtjev ovlaštene osobe uručiti računalne ispise, preslike poslovnih knjiga, poslovne dokumentacije ili evidencije u papirnatom obliku ili u obliku elektroničkog zapisa na mediju.
+(5) Kreditna institucija dužna je ovlaštenim osobama Agencije osigurati odgovarajuće uvjete za neometano obavljanje kontrole te osobe koje će osigurati pristup dokumentaciji i njezin pregled i koje će surađivati s ovlaštenim osobama Agencije.
+(6) Nakon obavljene kontrole iz stavka 3. ovoga članka ovlaštene osobe Agencije sastavljaju zapisnik o obavljenoj kontroli. U slučaju utvrđenja nepravilnosti ili nezakonitosti Agencija će primjerak nalaza o obavljenoj kontroli osim kreditnoj instituciji dostaviti i Hrvatskoj narodnoj banci.
+(7) Nadzorni odbor Agencije pravilnikom detaljnije propisuje uvjete i način provedbe kontrole iz stavka 1. ovoga članka.

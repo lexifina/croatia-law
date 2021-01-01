@@ -1,0 +1,5 @@
+## Podrška financiranju sanacije kreditnih institucija
+# Članak 23.
+(1) Sredstva Dodatnog fonda osiguranja depozita također se mogu koristiti i za financiranje sanacije kreditnih institucija u skladu sa zakonom kojim se uređuje sanacija kreditnih institucija i investicijskih društava. Agencija određuje iznos koji će se koristiti za financiranje sanacije kreditne institucije.
+(2) Maksimalan iznos sredstava Fonda osiguranja depozita koji se može koristiti za financiranje sanacije kreditne institucije ne može biti veći od iznosa gubitka koji bi fond osiguranja depozita pretrpio u slučaju da je umjesto sanacije nad kreditnom institucijom otvoren postupak prisilne likvidacije.
+(3) Ako je procjenom, uređenom zakonom kojim se uređuje sanacija kreditnih institucija i investicijskih društava, utvrđeno da je doprinos Fonda osiguranja depozita bio veći od netogubitaka koji bi nastali u postupku prisilne likvidacije nad kreditnom institucijom, Fond osiguranja depozita ima pravo na obeštećenje razlike od strane sanacijskog fonda u skladu sa zakonom kojim se uređuje sanacija kreditnih institucija i investicijskih društava.
