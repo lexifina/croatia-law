@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Nadležna ustrojstvena jedinica policije koja provodi kriminalističko istraživanje bez odlaganja obavještava Centar o svakoj promjeni statusa osumnjičene osobe u kaznenom postupku radi pravovremenog ažuriranja statusa osumnjičene osobe u zbirkama iz članka 2. ovog Pravilnika.
+(2) U slučaju naknadne identifikacije tragova, Centar o tome bez odlaganja obavještava nadležnu ustrojstvenu jedinicu policije, a u slučaju da je počinitelj kaznenog djela ili prekršaja otkriven na drugi način, nadležna ustrojstvena jedinica policije o tome bez odlaganja obavještava Centar radi ažuriranja podataka u Zbirci papilarnih linija i signaletičkih fotografija.

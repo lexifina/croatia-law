@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Ako su otisci papilarnih linija osoba prethodno pohranjeni u Zbirci papilarnih linija i signaletičkih fotografija, nadležna ustrojstvena jedinica policije koja provodi kriminalističko istraživanje nije obvezna za svako kazneno djelo daktiloskopirati osobu, ali će bez odlaganja obavijestiti Centar o svakom kaznenom djelu za tu osobu radi ažuriranja podataka u Zbirci.
+(2) Fotografije osumnjičenih osoba koje se pohranjuju u Zbirku papilarnih linija i signaletičkih fotografija potrebno je obnavljati minimalno svakih 5 godina sve dok su ispunjeni zakonski uvjeti za čuvanje podataka u Zbirci.

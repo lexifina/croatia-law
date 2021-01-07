@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Nadležna ustrojstvena jedinica policije dostavlja Izvješće o daktiloskopiranju i fotografiranju osobe uz Zahtjev za obradom daktiloskopskog materijala Centru najkasnije u roku od 30 dana od provedenog daktiloskopiranja i fotografiranja.
+(2) U slučaju da su dostavljeni otisci papilarnih linija i/ili signaletička fotografija neupotrebljivi i/ili nisu dostavljeni uz propisanu dokumentaciju s jasno definiranim razlogom daktiloskopiranja i/ili fotografiranja, Centar će iste vratiti nadležnoj ustrojstvenoj jedinici policije i zatražiti ponavljanje daktiloskopiranja, fotografiranja i/ili nadopunu dokumentacije.
+(3) Centar u roku od 30 dana obrađuje dostavljene otiske papilarnih linija i signaletičke fotografije osoba i ulaže ih u Zbirku papilarnih linija i signaletičkih fotografija.
