@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 15. Zakona o Hrvatskom registru brodova (»Narodne novine«, br. 81/96., 76/13. i 62/20.), Vlada Republike Hrvatske je na sjednici održanoj 7. siječnja 2021. donijela
