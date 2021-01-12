@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 5., a u vezi s člankom 49. stavkom 5. Zakona o zaštiti na radu (»Narodne novine«, br. 71/14, 118/14, 94/2018 i 96/2018) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19), ministar nadležan za rad uz suglasnost ministra zdravstva i prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
