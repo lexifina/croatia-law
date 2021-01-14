@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o uvođenju nužne epidemiološke mjere zabrane posjeta domovima za starije i nemoćne osobe te korisnicima drugih ustanova koje pružaju uslugu smještaja u sustavu socijalne skrbi na području Zadarske županije
