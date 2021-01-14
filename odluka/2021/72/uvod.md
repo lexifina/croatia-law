@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 3. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 3. Zakona o potpomognutim područjima (»Narodne novine«, broj 118/18.), a u skladu s prioritetom 2. Programa Vlade Republike Hrvatske 2020. - 2024., Vlada Republike Hrvatske je na sjednici održanoj 14. siječnja 2021. donijela
