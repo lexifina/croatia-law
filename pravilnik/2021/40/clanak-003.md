@@ -1,0 +1,8 @@
+# Članak 3.
+Članak 21. mijenja se i glasi:
+»(1) Sudionici za vrijeme sudjelovanja u operacijama i drugim aktivnostima u inozemstvu ostvaruju pravo na osnovnu plaću koju su ostvarivali na dužnosti s koje su upućeni.
+(2) Iznimno od stavka 1. ovoga članka, djelatna vojna osoba privremeno raspoređena na dodatnu dužnost u operaciju i drugu aktivnost u inozemstvu zadržava pravo na plaću temeljne dužnosti, ako privremeno dodana dužnost traje do devet mjeseci neprekidno odnosno do 12 mjeseci s prekidima u dvije godine.
+(3) Prava iz stavaka 1. i 2. ovoga članka ostvaruju se i za vrijeme koje sudionik provede na liječenju zbog rane ili ozljede zadobivene u provedbi misije bez svoje krivnje ili u zarobljeništvu, a najdulje do isteka roka na koji je upućen u operaciju potpore miru, operaciju odgovora na krize, humanitarnu operaciju i drugu aktivnost u inozemstvu.
+(4) Sudionici za vrijeme sudjelovanja u operacijama i drugim aktivnostima u inozemstvu, zbog otežanih i rizičnih sigurnosnih, zemljopisnih i klimatskih uvjeta opasnih za život i zdravlje ostvaruju pravo na dnevnicu za rad na terenu u inozemstvu, koju posebnom odlukom propisuje ministar obrane.
+(5) Pravo iz stavka 4. ovoga članka ostvaruje se i za vrijeme provedeno na liječenju zbog rane ili ozljede koju je sudionik u provedbi misije zadobio bez svoje krivnje ili u zarobljeništvu, a najdulje do isteka roka na koji je upućen u operaciju potpore miru, operaciju odgovora na krize, humanitarnu operaciju i drugu aktivnost u inozemstvu.
+(6) Za vrijeme kada sudionici koriste dopust, godišnji odmor ili su zbog nekoga drugog razloga izvan područja operacije i druge aktivnosti u inozemstvu, ne ostvaruju pravo na dnevnicu za rad na terenu u inozemstvu.«
