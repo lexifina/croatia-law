@@ -1,0 +1,8 @@
+## DIO PETI
+## PROVEDBA UPISA
+## Utvrđivanje registarskog prednika i sljednika
+# Članak 31.
+(1) Upis nekog prava i drugih pravno relevantnih činjenica dopušten je samo protiv osobe koja je u trenutku podnošenja prijedloga za upis u Registru upisana kao vlasnik ili nositelj prava u pogledu kojega se upis zahtijeva, ili koja bar istodobno bude kao takva upisana ili predbilježena (registarski prednik).
+(2) Ako se zahtijeva upis prava vlasništva na novom zrakoplovu, koji do tada nije bio upisan niti u jednom registru, upis će se dozvoliti na temelju privatne isprave iz članka 29. stavka 11. ovoga Pravilnika kojom se dokazuje vlasništvo na tom zrakoplovu.
+(3) Ako se zahtijeva upis prava vlasništva ili drugog prava na zrakoplovu koji se po prvi puta upisuje u Registar, a bio je do tada upisan u registar u nekoj drugoj državi ili u vojni registar Republike Hrvatske upis će se dopustiti jedino na temelju javne isprave izdane od nadležnog tijela strane države, odnosno tijela Republike Hrvatske kojom se potvrđuje brisanje zrakoplova iz stranog registra, odnosno vojnog registra, i to u korist osobe koja je u toj ispravi navedena kao vlasnik zrakoplova ili nositelj drugog prava na zrakoplovu, odnosno u korist osobe koja sukladno stavku 4. ovoga članka može dokazati neprekinuti niz stjecanja od vlasnika zrakoplova, odnosno nositelja drugog prava na zrakoplovu upisanog u toj ispravi, do sebe.
+(4) Ako je neko pravo preneseno izvanregistarskim putem na više osoba uzastopno, posljednji stjecatelj može zahtijevati da se registarski prijenos provede neposredno na njega, ako dokaže neprekinuti niz izvanregistarskih stjecanja od registarskog prednika do sebe.

@@ -1,0 +1,6 @@
+## Rješavanje zahtjeva
+# Članak 34.
+(1) Upis zrakoplova, upis podataka i upis promjene podatka i brisanje zrakoplova iz Registra provodi se na temelju rješenja Agencije.
+(2) Iznimno od stavka 1. ovoga članka, Agencija ne donosi rješenje o upisu kad je neki od upisa iz stavka 1. ovoga članka odredio nadležni sud ili drugo tijelo u granicama svoje nadležnosti.
+(3) U rješenju moraju biti označeni registarski uložak u kojem će se provesti upis, registracijska oznaka zrakoplova, osoba u čiju će se korist provesti upis, njezina adresa i OIB, vrsta upisa, predmet u pogledu kojega će se provesti, isprave na kojima se upis temelji, pravo koje treba upisati s njegovim bitnim sadržajem, odnosno osobni odnos, osobno stanje ili drugu pravnu činjenicu koju treba upisati s njezinim bitnim sadržajem.
+(4) U rješenju kojim se određuje upis zrakoplova u Registar, uz podatke navedene u stavku 1. ovoga članka, mora biti naznačen broj registarskog uloška u kojem će zrakoplov biti upisan, zrakoplov u pogledu kojeg se upis određuje, njegova registracijska oznaka, proizvođač, proizvođačeva oznaka zrakoplova, ICAO opis tipa zrakoplova, serijski broj, godina proizvodnje, operator ukoliko je zatraženo da se upiše operator. U tom će se rješenju ujedno odrediti upis prava vlasništva na upisanom zrakoplovu, uz navođenje osobe u čiju se korist to pravo upisuje.
