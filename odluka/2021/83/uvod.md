@@ -1,0 +1,1 @@
+Na temelju članka 144.a stavka 1. točke 6. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013., 19/2015., 102/2015., 15/2018., 70/2019., 47/2020. i 146/2020.) i članka 4. stavka 1. točke 11., članka 43. stavka 2. točke 6. te članka 77.a Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi
