@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Stručni radnik iz članka 2. i članka 3. ovoga Pravilnika dokazuje edukacije, stečena stručna znanja i vještine potrebne za komunikaciju s djetetom i odraslom osobom odnosno stečena dodatna stručna znanja, vještine i kompetencije potvrdom o sudjelovanju u edukacijama ili programima na kojima je stekao potrebna stručna znanja, vještine i kompetencije.
+(2) Edukacije ili programe iz stavka 1. ovoga članka organiziraju ministarstvo nadležno za obitelj i socijalnu politiku, obrazovne institucije, strukovne organizacije i udruge uz podršku/preporuku ministarstva nadležnog za obitelj i socijalnu politiku ili drugih nadležnih tijela.

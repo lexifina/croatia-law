@@ -1,0 +1,1 @@
+Pravilnik o edukacijama, stručnim znanjima i vještinama potrebnim za komunikaciju s djetetom i odraslom osobom pravnika s položenim pravosudnim ispitom te dodatnim stručnim znanjima, vještinama i kompetencijama socijalnog radnika, psihologa i socijalnog pedagoga zaposlenog u centru za posebno skrbništvo
