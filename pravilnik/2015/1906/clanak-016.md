@@ -1,2 +1,0 @@
-# Članak 16.
-U svrhu stjecanja dodatnih znanja, vještina i sposobnosti ovlaštenih osoba, u suradnji s nadležnim tijelima državne uprave, ovlaštenim osobama omogućit će se sudjelovanje i pohađanje seminara, stručnih usavršavanja, tečajeva i ispita iz područja poslova i zadaća Obalne straže, a u skladu s propisanim zakonskim uvjetima za stjecanje ovlasti iz pojedinog područja djelovanja Obalne straže.
