@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti Ministarstvu poljoprivrede za poduzimanje izvanredne mjere pomoći za ublažavanje posljedica šteta od potresa nastalih na području Sisačko-moslavačke, Zagrebačke i Karlovačke županije - nabava stočne hrane za hranidbu stoke
