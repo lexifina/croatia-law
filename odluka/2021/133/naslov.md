@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Portugalskoj Republici i za izvanrednu i opunomoćenu veleposlanicu Republike Hrvatske u Republici Kabo Verde, sa sjedištem u Lisabonu
