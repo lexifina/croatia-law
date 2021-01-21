@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Za izvršenje zadaća, kao i radi razmatranja određenih pitanja, davanja mišljenja i prijedloga o značajnim pitanjima iz djelokruga poslova Hrvatske turističke zajednice, Skupština i Turističko vijeće mogu osnivati stalna i povremena radna tijela (npr. osnivanje radnih tijela za razvoj i unapređenje turističkih proizvoda, za strateško planiranje i unapređenje promocije, nadziranje rada i sl.).
+(2) Sastav, djelokrug i druga pitanja u svezi rada stalnih radnih tijela iz stavka 1. ovoga članka, određuje se odlukom o osnivanju takvog tijela, koju u okviru svojih ovlasti i djelokruga donosi Turističko vijeće ili Skupština.

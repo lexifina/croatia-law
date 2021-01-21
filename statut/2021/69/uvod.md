@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, br. 52/19. i 42/20.), uz prethodnu suglasnost Ministarstva turizma i sporta, Skupština Hrvatske turističke zajednice na svojoj sjednici održanoj 21. prosinca 2020. godine donosi

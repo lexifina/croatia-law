@@ -1,0 +1,4 @@
+# Članak 47.
+(1) Izvješće o izvršenju programa rada obvezno sadržava podatke o izvršenju programom rada pojedinačno utvrđenih zadataka, izdacima njihovog izvršenja, izdacima za poslovanje turističkog ureda i rad tijela Hrvatske turističke zajednice, ostvarenju prihoda po izvorima, financijskom rezultatu poslovanja, usporedbu financijskog plana i njegovog ostvarenja s obrazloženjem odstupanja, analizu i ocjenu izvršenja programa, te procjenu učinka poduzetih aktivnosti na razvoj turizma.
+(2) Osim elemenata iz stavka 1. ovoga članka, izvješće o izvršenju programa rada Hrvatske turističke zajednice sadrži i specificirane izdatke i obveze za promociju hrvatskog turizma koji se financiraju iz državnog proračuna.
+(3) Prijedlog izvješća o izvršenju programa rada za prethodnu godinu Turističko vijeće obvezno dostavlja na razmatranje članovima Skupštine osam dana prije održavanja sjednice na kojoj se on donosi.
