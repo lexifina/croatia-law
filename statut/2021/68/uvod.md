@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o socijalnopedagoškoj djelatnosti (»Narodne novine«, br. 98/19), Osnivačka Skupština Hrvatske komore socijalnih pedagoga, uz prethodnu suglasnost Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike na sjednici održanoj 22. listopada 2020. godine, donijela je
