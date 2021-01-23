@@ -1,0 +1,8 @@
+# Članak 15.
+U članku 30. stavci od 1. do 4. mijenjaju se i glase:
+»(1) Matična kreditna institucija u grupi kreditnih institucija u RH dužna je na konsolidiranoj i potkonsolidiranoj osnovi, u skladu s člancima 97., 97.a i 277. Zakona o kreditnim institucijama, utvrditi radnike koji imaju značajan utjecaj na profil rizičnosti grupe primjenom kriterija iz Delegirane uredbe Komisije (EU) o identificiranim radnicima i na temelju konsolidiranih informacija. Kvalitativni kriteriji iz članka 5. Delegirane uredbe Komisije (EU) o identificiranim radnicima primjenjuju se u postupku utvrđivanja identificiranih radnika u društvu kćeri ako su ti radnici na konsolidiranoj ili potkonsolidiranoj osnovi odgovorni za poslove na koje se ti kriteriji odnose.
+(2) Matična kreditna institucija iz stavka 1. ovoga članka dužna je osigurati da društva kćeri obuhvaćena bonitetnom konsolidacijom, osim društva kćeri iz članka 97.a stavka 1. Zakona o kreditnim institucijama:
+1) provode politiku primitaka grupe i aktivno sudjeluju u postupku utvrđivanja identificiranih radnika na razini grupe i
+2) dostavljaju podatke potrebne za utvrđivanje svih identificiranih radnika na razini grupe.
+(3) Matična kreditna institucija iz stavka 1. ovoga članka provodi postupak utvrđivanja identificiranih radnika za društva kćeri koja nisu institucije ni društva kćeri iz članka 97.a stavka 1. Zakona o kreditnim institucijama na pojedinačnoj osnovi, na temelju informacija koje joj dostavljaju društva kćeri.
+(4) Ako je mala i jednostavna kreditna institucija uključena u postupak utvrđivanja identificiranih radnika na konsolidiranoj osnovi, može postupak utvrđivanja identificiranih radnika na pojedinačnoj osnovi prenijeti na matičnu kreditnu instituciju iz stavka 1. ovoga članka.«

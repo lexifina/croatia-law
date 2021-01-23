@@ -1,0 +1,9 @@
+# Članak 13.
+Naslov iznad članka 28. i članak 28. mijenjaju se i glase:
+»Prethodna suglasnost za isključenje
+Članak 28.
+(1) Za radnike koji su identificirani na osnovi kvantitativnih kriterija iz članka 6. stavka 1. Delegirane uredbe Komisije (EU) o identificiranim radnicima, a za koje je kreditna institucija u skladu s kriterijima iz članka 6. stavka 2. te Uredbe ocijenila da njihove profesionalne aktivnosti nemaju značajan utjecaj na njezin profil rizičnosti, kreditna institucija dužna je najkasnije u roku od šest mjeseci od isteka prethodne poslovne godine podnijeti Hrvatskoj narodnoj banci zahtjev za izdavanje prethodne suglasnosti za isključenje radnika od primjene odredbi članaka od 31. do 41. ove Odluke.
+(2) Zahtjevu za izdavanje prethodne suglasnosti iz stavka 1. ovoga članka potrebno je priložiti ime ili osobni identifikacijski broj za identificirane radnike na koje se isključenja primjenjuju, postotak internoga kapitala koji je dodijeljen poslovnoj jedinici ili društvu kćeri i analizu utjecaja radnika na profil rizičnosti kreditne institucije prema kriterijima iz članka 6. stavka 2. Delegirane uredbe Komisije (EU) o identificiranim radnicima.
+(3) Iznimno od stavaka 1. i 2. ovoga članka odredbe Odluke (EU) 2015/2218 Europske središnje banke od 20. studenoga 2015. o postupku otklanjanja pretpostavke o značajnom utjecaju radnika na profil rizičnosti nadzirane kreditne institucije (SL L 314/66, 1. 12. 2015.) na odgovarajući način primjenjuju se na značajnu kreditnu instituciju iz članka 11.c Zakona o kreditnim institucijama.
+(4) Odluku o isključenju iz stavka 1. ovoga članka donosi uprava uz suglasnost nadzornog odbora.
+(5) Hrvatska narodna banka odlučuje o zahtjevu iz stavka 1. ovoga članka sukladno ovlastima iz članka 6. Delegirane uredbe Komisije (EU) o identificiranim radnicima.«.
