@@ -1,0 +1,4 @@
+## Nedopušteno oglašavanje
+# Članak 5.
+(1) Psihoterapeut i savjetodavni terapeut mogu sudjelovati u emisiji radija ili televizije koja se odnosi na djelatnost psihoterapije uz navođenje svog osobnog imena i stečenog akademskog naziva i akademskog stupnja ili certifikata o završenoj edukaciji, ali ne smije isticati naziv i adresu privatne odnosno grupne prakse, trgovačkog društva ili obrta u kojima tu djelatnost obavlja.
+(2) Psihoterapeut i savjetodavni terapeut mogu objaviti u tisku, stručnom časopisu ili na mrežnim stranicama stručni članak koji se odnosi na djelatnost psihoterapije uz navođenje svog osobnog imena i stečenog akademskog naziva i akademskog stupnja ili certifikata o završenoj edukaciji, ali ne smije isticati naziv i adresu privatne odnosno grupne prakse, trgovačkog društva ili obrta u kojima tu djelatnost obavlja.
