@@ -1,0 +1,2 @@
+# Članak 1.
+(1) Ovim Pravilnikom o vatrogasnoj tehnici (dalje u tekstu: Pravilnik) propisuje se vatrogasna tehnika koja podliježe ispitivanju, rokovi i postupci ispitivanja, sadržaj, oblik i način izdavanja isprave o ispravnosti vatrogasne tehnike, uvjeti koje moraju ispunjavati vatrogasne organizacije ili druge pravne osobe za ispitivanje ispravnosti vatrogasne tehnike (u daljnjem tekstu: ovlaštene osobe), uvjeti za dobivanje ovlasti i zaduženja ovlaštene osobe i uvjeti prestanka važenja isprave o ispravnosti vatrogasne tehnike.
