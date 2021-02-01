@@ -1,0 +1,3 @@
+# Članak 1.
+Zbog obustave rada ugostiteljskih objekata, propisane Odlukama Stožera civilne zaštite Republike Hrvatske radi sprječavanja širenja epidemije bolesti COVID-19 (SARS-CoV-2), privremeno se u 2021. godini stavlja izvan snage odredba stavka 1. u članku 11. Odluke o lokalnim porezima Grada Labina (»Službene novine Grada Labina« broj 14/19, »Narodne novine« broj 123/19) u odnosu na mjesec siječanj, veljaču i ožujak 2021., a koja odredba glasi:
+»Porez na korištenje javne površine za postavu ugostiteljskih terasa koje će se u Planu lokacija označiti oznakama od G1 do G10 plaćat će se za cijelu kalendarsku godinu, neovisno o tome koliko se javna površina koristi.«
