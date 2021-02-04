@@ -1,5 +1,0 @@
-# Članak 2.
-Ovim se Pravilnikom osigurava provedba:
-1) Uredbe Komisije (EU) br. 1408/2013. od 18. prosinca 2013. o primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije na potpore de minimis u poljoprivrednom sektoru (SL L 352, 24. 12. 2013.) (u daljnjem tekstu: Uredba de minimis)
-2) Uredbe Komisije (EU) br. 702/2014. od 25. lipnja 2014. o proglašenju određenih kategorija potpora u sektoru poljoprivrede i šumarstva te u ruralnim područjima spojivim s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (SL L 193, 1. 7. 2014.) (u daljnjem tekstu: Uredba o izuzetoj državnoj potpori)
-3) Uredbe Komisije (EZ) br. 794/2004 od 21. travnja 2004. o provedbi Uredbe Vijeća (EZ) br. 659/1999 o utvrđivanju detaljnih pravila za primjenu članka 93. Ugovora o EZ (SL L 140, 30. 4. 2004.) kako je posljednji put izmijenjena Uredbom Komisije (EU) 2016/246 od 3. veljače 2016. o izmjeni Priloga I. Uredbi (EZ) br. 794/2004 u odnosu na obrasce za prijavu državnih potpora u sektoru poljoprivrede i šumarstva te u ruralnim područjima (SL L 51, 26. 2. 2016.) (u daljnjem tekstu: Uredba Komisije (EZ) br. 794/2004)
