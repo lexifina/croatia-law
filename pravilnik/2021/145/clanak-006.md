@@ -1,0 +1,2 @@
+# Članak 6.
+Mišljenja Ministarstva iz članaka 4. i 5. ovoga Pravilnika o usklađenosti prijedloga državne potpore s pravilima o državnim potporama savjetodavne su prirode i ne dovode u pitanje isključivu nadležnost Europske komisije za odlučivanje o sukladnosti državnih potpora s načelima zajedničkog tržišta pri preispitivanju postojećih državnih potpora, odlučivanju o novim ili izmijenjenim potporama i poduzimanju radnji u vezi s nepoštivanjem njezinih odluka ili neispunjavanjem obveze prijave.
