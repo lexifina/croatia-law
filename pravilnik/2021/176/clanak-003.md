@@ -1,0 +1,4 @@
+# Članak 3.
+Pojedini pojmovi u smislu ovog Pravilnika imaju sljedeće značenje:
+1) »samoposlužni uređaj« se smatra automatizirani uređaj putem kojeg se obavlja neposredna prodaja robe ili usluge na način da se umetne u za to predviđeni otvor na uređaju sredstvo koje se smatra gotovinom pri čemu u naplati robe ili usluge ne sudjeluje osoba odnosno pri čemu ne posreduje u prodaji.
+2) »korisnik« je poljoprivrednik u smislu članka 3. stavka 1. točke a. Zakona o poljoprivredi (»Narodne novine«, br. 118/18, 42/20 i 127/20 - Odluka Ustavnog suda Republike Hrvatske, u daljnjem tekstu: Zakon) upisan u Upisnik poljoprivrednika ili Upisnik obiteljskih poljoprivrednih gospodarstava, čiji su samoposlužni uređaji odobreni i upisani od strane nadležnog tijela u odgovarajući Upisnik registriranih objekata u poslovanju s hranom životinjskog podrijetla i za biljne proizvode u Upisnik subjekata i objekata u poslovanju hranom, kojeg vodi Ministarstvo zdravstva Republike Hrvatske.

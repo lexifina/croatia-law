@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Najviši iznos potpore iz Programa koji se može dodijeliti na temelju Programa po samoposlužnom uređaju iznosi 5.000,00 kn.
+(2) Ukoliko je iznos na prihvatljivom računu manji od iznosa iz stavka 1, odobrit će mu se iznos naveden na prihvatljivom računu, a ukoliko je iznos na prihvatljivom računu veći, odobrit će mu se iznos iz stavka 1 ovoga članka
+(3) U slučaju da se utvrdi da ukupni zatraženi iznos potpore na temelju Programa premašuje iznos novčanih sredstava utvrđenih Odlukom o donošenju Programa pomoći u izravnoj prodaji poljoprivrednih proizvoda putem samoposlužnih uređaja u procesu fiskalizacije, isplata će se vršiti na način da će se svim korisnicima koji su ostvarili pravo na temelju Programa proporcionalno umanjiti iznos potpore, uzimajući u obzir raspoloživi iznos.
