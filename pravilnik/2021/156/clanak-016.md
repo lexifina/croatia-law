@@ -1,0 +1,8 @@
+## Nepodmirena neto novčana obveza
+# Članak 16.
+(1) Sredstva jamstvenog fonda koriste se za podmirenje obveza članova sustava poravnanja - sudionika u sustavu namire kada na njihovim računima nema dovoljno sredstava odnosno kada nisu ispunili neto novčanu obvezu.
+(2) Ako sredstva jamstvenog fonda koja je uplatio član iz stavka 1. ovoga članka nisu dovoljna za ispunjenje neto novčane obveze člana za namiru, dodatni iznosi uzimaju se iz sredstava jamstvenog fonda svih ostalih članova. Operater sustava poravnanja svojim operativnim pravilima propisuje način korištenja jamstvenog fonda te kako se navedeni dodatni iznosi raspoređuju po članovima.
+(3) Ako sredstva iz jamstvenog fonda koji otpadaju na sve ostale članove iz stavka 2. ovoga članka nisu dovoljna za ispunjenje neto novčane obveze za namiru, operater sustava poravnanja, ako je to predviđeno njegovim operativnim pravilima, te ugovoreno sa članovima, utvrđuje dodatne doprinose članova sustava poravnanja - sudionika u sustavu namire, koji sudjeluju svojim doprinosima u jamstvenom fondu, kako bi se pokrile neto novčane obveze člana iz stavka 1. ovoga članka. Operater sustava poravnanja svojim operativnim pravilima određuje maksimalni iznos takvih dodatnih doprinosa.
+(4) Po isplati sredstava iz jamstvenog fonda radi ispunjenja novčane obveze člana iz stavka 1. ovoga članka, nastaje obveza za tog člana na povrat novčanih sredstava u istom iznosu zajedno sa zateznim kamatama računajući od idućeg dana nakon predviđenog datuma namire u jamstveni fond te obveza uplate primjenjivih naknada na račun operatera sustava poravnanja, prema cjeniku.
+Upravljanje jamstvenim fondom i troškovi
+upravljanja

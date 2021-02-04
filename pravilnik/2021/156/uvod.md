@@ -1,0 +1,1 @@
+Na temelju odredbi članka 536. stavka 7. Zakona o tržištu kapitala (»Narodne novine« broj 65/2018 i 17/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 21. siječnja 2021. donosi

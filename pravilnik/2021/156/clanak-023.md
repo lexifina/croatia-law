@@ -1,0 +1,5 @@
+## Periodično preispitivanje mehanizama za kontinuitet poslovanja
+# Članak 23.
+(1) Operater sustava poravnanja periodično, a najmanje jednom godišnje, ispituje mehanizme za kontinuitet poslovanja u smislu sposobnosti informacijskog sustava da se oporavi od incidenta koji uzrokuje prekid u radu i ponovno uspostavi poravnanje kako je utvrđeno u članku 22. stavku 2. ovoga Pravilnika.
+(2) Operater sustava poravnanja osigurava, ako se to smatra potrebnim i uzimajući u obzir rezultate periodičnog preispitivanja iz stavka 1. ovoga članka, da preispitivanje njegovog plana kontinuiteta poslovanja i mehanizama za kontinuitet poslovanja provodi nezavisni procjenitelj ili odjel unutar samog operatera sustava poravnanja koji nije odgovoran za proces koji se preispituje. Rezultati aktivnosti ispitivanja dokumentiraju se u pisanom obliku, pohranjuju i dostavljaju višem rukovodstvu operatera sustava poravnanja kao i poslovnim jedinicama uključenima u plan kontinuiteta poslovanja.
+(3) Operater sustava poravnanja osigurava da se ispitivanjem kontinuiteta poslovanja ne ometa njegova uobičajena aktivnost.
