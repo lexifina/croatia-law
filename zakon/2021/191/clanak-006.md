@@ -1,0 +1,11 @@
+# Članak 6.
+Iza članka 5. dodaju se naslov iznad članka i članak 5.a koji glase:
+»Osiguravanje sredstava za provedbu ovoga Zakona i saniranje posljedica potresa
+Članak 5.a
+(1) Sredstva za provedbu ovoga Zakona i saniranje posljedica potresa mogu se, ako za to postoji mogućnost i sukladno potrebi, tijekom proračunske godine osiguravati preraspodjelom bez ograničenja odnosno u iznosu većem od propisanoga zakonom kojim se uređuje proračun.
+(2) U slučajevima iz stavka 1. ovoga članka moguće je izvršiti preraspodjelu sredstava u državnom proračunu na proračunskim stavkama kod proračunskih korisnika ili između proračunskih korisnika i kod izvanproračunskih korisnika te u proračunima jedinica lokalne i područne (regionalne) samouprave i financijskim planovima proračunskih korisnika jedinica lokalne i područne (regionalne) samouprave.
+(3) Preraspodjela sredstava iz stavaka 1. i 2. ovoga članka može se izvršiti na postojećim, kao i na naknadno utvrđenim proračunskim stavkama, aktivnostima i projektima za koja se sredstva osiguravaju.
+(4) Odluku o preraspodjeli iz ovoga članka donosi Vlada odnosno općinski načelnik, gradonačelnik ili župan.
+(5) Preraspodjelom sredstava iz stavaka 1. i 2. ovoga članka mogu se u državnom proračunu osigurati sredstva pomoći jedinicama lokalne i područne (regionalne) samouprave, o čemu Vlada donosi posebnu odluku.
+(6) O izvršenim preraspodjelama u skladu s odredbama ovoga članka ministar financija dužan je svaki mjesec izvještavati odbor Hrvatskoga sabora nadležan za poslove financija, a općinski načelnik, gradonačelnik ili župan dužan je svaki mjesec izvještavati predstavničko tijelo.
+(7) Sredstva pomoći jedinicama lokalne i područne (regionalne) samouprave iz stavka 5. ovoga članka namjenska su sredstva koja se mogu koristiti za provedbu ovoga Zakona i saniranje posljedica potresa u skladu s odlukom Vlade iz stavka 5. ovoga članka i ne smatraju se tekućom pomoći iz državnog proračuna sukladno propisima kojima su uređena mjerila za određivanje plaća i naknada župana, gradonačelnika i općinskih načelnika i njihovih zamjenika, kao i plaća službenika i namještenika u upravnim odjelima i službama jedinica lokalne i područne (regionalne) samouprave.«.

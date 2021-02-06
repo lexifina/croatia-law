@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 1. stavak 1. mijenja se i glasi:
+»(1) Ovim se Zakonom uređuje način i postupak obnove odnosno uklanjanja zgrada oštećenih odnosno uništenih uslijed prirodne nepogode ili katastrofe proglašene na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije, a koje je pogođeno potresima 22. ožujka 2020. te 28. i 29. prosinca 2020., gradnja zamjenskih obiteljskih kuća i stambeno zbrinjavanje osoba pogođenih tim nepogodama, određuju se nadležna tijela, rokovi za postupanje i druga pitanja s tim u vezi, a radi zaštite života i zdravlja ljudi, zaštite životinja, zaštite imovine, zaštite okoliša, prirode i kulturne baštine te stvaranja uvjeta za uspostavu normalnoga života na pogođenim područjima.«.
+U stavku 2. iza riječi: »22. ožujka 2020.« dodaju se riječi: »te 28. i 29. prosinca 2020.«.

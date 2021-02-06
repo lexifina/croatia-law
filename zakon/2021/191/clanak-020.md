@@ -1,0 +1,2 @@
+# Članak 20.
+U cijelom tekstu Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije (»Narodne novine«, br. 102/20.) riječi: »Krapinsko-zagorske županije i Zagrebačke županije« u određenom padežu zamjenjuju se riječima: »Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije« u odgovarajućem padežu.
