@@ -1,0 +1,5 @@
+# Članak 7.
+Članak 18. mijenja se i glasi:
+»(1) Prostor za smještaj pasa sastoji se od zatvorenog i otvorenog prostora, zatvoreni prostor mora biti primjereno zagrijan i zračan, s ležajem odgovarajuće veličine za svaku životinju koji je prekriven suhom i čistom prostirkom, s dovoljno mjesta za rukovanje, na koji se nastavlja vanjski otvoreni prostor natkriven do najmanje 1/3 propisane korisne podne površine u odnosu na broj pasa u skladu sa stavkom 2. ovoga članka.
+(2) U slučaju pojedinačnog držanja pasa potrebno je osigurati u zatvorenom prostoru korisnu podnu površinu od najmanje 2 m², a u vanjskom otvorenom prostoru korisnu podnu površinu od najmanje 2,80 m², a svaki je najmanje širine 1,2 m. U slučaju skupnog držanja pasa potrebno je osigurati u zatvorenom prostoru korisnu podnu površinu od najmanje 1,5 m² po psu, a u vanjskom otvorenom prostoru korisnu podnu površinu od najmanje 2 m² po psu, a svaki je najmanje širine 1,2 m.
+(3) Vanjski otvoreni prostor i može biti zajednički za više zatvorenih prostora ukoliko odgovara propisanoj površini po psu iz stavka 2. ovoga članka, i ako se u njega ne puštaju nezdružljivi psi.«.
