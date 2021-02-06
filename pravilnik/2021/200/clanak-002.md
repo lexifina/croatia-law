@@ -1,0 +1,5 @@
+## Dodjela potpore
+# Članak 2.
+(1) Potpora iz Programa dodjeljuje se na temelju Komunikacije Europske komisije - Privremeni okvir za mjere državne potpore u svrhu podrške gospodarstvu u aktualnoj pandemiji COVID-a 19, koji je donesen 19. ožujka 2020. (C(2020) 1863) i njegovih izmjena, koje su donesene 3. travnja 2020. (C(2020) 2215), 8. svibnja 2020. (C(2020) 3156), 29. lipnja 2020. (C(2020) 4509) i 13. listopada 2020. (C(2020) 7127), objavljene su u Službenom listu Europske unije (u daljnjem tekstu: Privremeni okvir - COVID 19).
+(2) Potpore iz ovog Programa spojive su s unutarnjim tržištem u smislu članka 107. stavka 3. točke (b) Ugovora o funkcioniranju Europske unije (u daljnjem tekstu: UFEU) te su prijavljene Europskoj komisiji na ocjenu u skladu sa člankom 108. stavkom 3. UFEU.
+(3) Program će se provoditi od datuma primitka odluke Europske komisije o odobrenju dodjele državne potpore. Potpora se, u skladu s točkom 22. d. Privremenog okvira - COVID 19, može dodijeliti najkasnije do 30. lipnja 2021. godine.
