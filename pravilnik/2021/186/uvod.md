@@ -1,0 +1,1 @@
+Na temelju članaka 411., 412. i članka 428. točke 1. i 2. Zakona o osiguranju (»Narodne novine«, broj 30/15, 112/18, 63/20 i 133/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 27. siječnja 2021. donijela je
