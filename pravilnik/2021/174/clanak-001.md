@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuje se iznos, rokovi te način plaćanja naknade u postupku ovrhe na temelju vjerodostojne isprave na koju javni bilježnici kao povjerenici suda imaju pravo za obavljanje poslova u postupku ovrhe na temelju vjerodostojne isprave (članak 14. stavak 9. OZ-a).
+(2) Ovim Pravilnikom utvrđuje se iznos nagrade i naknade troškova javnih bilježnika za obavljanje poslova potvrde: izjave o suglasnosti dužnika po pristanku dužnika radi naplate tražbine vjerovnika na plaći odnosno drugim novčanim primanjima (članak 202. OZ-a), izjave o suglasnosti dužnika radi naplate tražbine određenog vjerovnika zapljenom svih računa kod banaka (zadužnica - članak 214. OZ-a) i izjave o suglasnosti radi naplate tražbine čiji će iznos biti naknadno upisan u ispravi zapljene svih njegovih računa kod banaka (bjanko zadužnica - članak 215. OZ-a), te način njihova obračuna i naplate od strane javnog bilježnika.

@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 10. i članka 216. stavak 5. Ovršnog zakona (»Narodne novine«, br. 112/12., 25/13., 93/14., 55/16., 73/17. i 131/20..; dalje u tekstu: OZ) ministar nadležan za poslove pravosuđa donosi
