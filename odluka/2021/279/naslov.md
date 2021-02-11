@@ -1,0 +1,1 @@
+Odluka o donošenju Programa dodjele potpora male vrijednosti za sanaciju šteta od potresa poduzetnicima koji obavljaju djelatnosti prerade drva i proizvodnje namještaja na području Sisačko-moslavačke, Zagrebačke i Karlovačke županije
