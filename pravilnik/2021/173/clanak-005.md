@@ -1,0 +1,5 @@
+## Rad Povjerenstva
+# Članak 5.
+(1) Povjerenstvo na sjednici iz članka 4. stavka 2. ovoga Pravilnika koja se održava najkasnije u roku od 15 dana od isteka roka za dostavu ponuda iz članka 3. stavka 5. ovoga Pravilnika otvara ponude zaprimljene u tom roku za dostavu ponuda prema redoslijedu zaprimanja i o tome sastavlja zapisnik.
+(2) Zapisnik iz stavka 1. ovoga članka sadrži: podatke o javnoj ustanovi, podatke o djelatnosti, podatke o vremenu na koje se daje koncesijsko odobrenje, podatke o mjestu, datumu i vremenu otvaranja ponuda, popis nazočnih ovlaštenih predstavnika ponuditelja, podatke o svim ponuditeljima čije su ponude zaprimljene u roku za dostavu ponuda iz članka 3. stavka 5. ovoga Pravilnika prema redoslijedu zaprimanja ponuda, podatke o ponudi i podatke o novčanom iznosu ponude bez i s porezom na dodanu vrijednost.
+(3) Zapisnik iz stavka 1. ovoga članka potpisuju svi članovi Povjerenstva, kao i nazočni ovlašteni predstavnici ponuditelja te se svakom od nazočnih ovlaštenih predstavnika ponuditelja uručuje po jedan primjerak zapisnika.

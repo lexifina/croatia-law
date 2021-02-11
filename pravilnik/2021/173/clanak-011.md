@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Ako odabrani najpovoljniji ponuditelj odustane od sklapanja ugovora o koncesijskom odobrenju, upravno vijeće može donijeti novu odluku o koncesijskom odobrenju sa sljedeće rangiranim ponuditeljem kao odabranim, kojem će javna ustanova ponuditi potpisivanje ugovora o koncesijskom odobrenju, pri čemu se na odgovarajući način primjenjuju odredbe članka 10. ovoga Pravilnika.
+(2) Odluku o koncesijskom odobrenju iz stavka 1. ovoga članka javna ustanova dužna je dostaviti bez odgode svakom ponuditelju čija je ponuda zaprimljena u roku za dostavu ponuda iz članka 3. stavka 5. ovoga Pravilnika preporučenom poštom s povratnicom ili na drugi način kojim se dostava može dokazati.

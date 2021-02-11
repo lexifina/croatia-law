@@ -1,0 +1,8 @@
+## III. NOVČANA NAKNADA
+# Članak 17.
+(1) Za obavljanje djelatnosti na zaštićenom području ili speleološkom objektu plaća se novčana naknada.
+(2) Način utvrđivanja novčane naknade određuje upravno vijeće za djelatnosti za koje se koncesijsko odobrenje daje na temelju javnog prikupljanja ponuda, odnosno ravnatelj ili upravno vijeće za djelatnosti za koje se koncesijsko odobrenje daje neposredno na zahtjev, u skladu s Prilogom ovoga Pravilnika.
+(3) Početna visina novčane naknade za davanje koncesijskog odobrenja na temelju javnog prikupljanja ponuda i visina novčane naknade za davanje koncesijskog odobrenja neposredno na zahtjev utvrđuje se sukladno načinu utvrđivanja novčane naknade (obračunskoj jedinici) iz Priloga ovoga Pravilnika.
+(4) Visina novčane naknade kao stalan jednaki iznos i/ili varijabilni iznos utvrđuje se ovisno o namjeni, opsegu i visini potrebnih ulaganja, pogodnostima i materijalnim učincima koji se postižu koncesijskim odobrenjem, ograničenjima kojima je podvrgnut ovlaštenik koncesijskog odobrenja propisanim uvjetima zaštite prirode, dodanoj vrijednosti koju ovlaštenik koncesijskog odobrenja daje vezano za zaštitu prostora, bioraznolikosti, ekološke mreže, krajobraznih vrijednosti te edukaciju i informiranje šire javnosti, te tržišnim uvjetima.
+(5) Za djelatnosti koje se potiču radi njihovog povoljnog utjecaja na zaštitu prirode, a za koje se koncesijsko odobrenje daje neposredno na zahtjev, moguće je odrediti minimalnu novčanu naknadu u visini od 1,00 kn ili 1,00 EUR.
+(6) Djelatnosti za koje je određena mogućnost minimalne novčane naknade iz stavka 5. ovoga članka označene su u Prilogu ovoga Pravilnika.
