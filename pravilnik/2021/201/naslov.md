@@ -1,0 +1,1 @@
+Pravilnik o provedbi Uredbe (EU) 255/2010 o utvrđivanju zajedničkih pravila za upravljanje protokom zračnog prometa i Provedbene uredbe Komisije (EU) 2019/123 o utvrđivanju detaljnih pravila za provedbu mrežnih funkcija za upravljanje zračnim prometom (ATM) i stavljanju izvan snage Uredbe Komisije (EU) br. 677/2011

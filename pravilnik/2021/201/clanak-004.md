@@ -1,0 +1,4 @@
+## Usuglašenost planova leta i slotova zračne luke
+# Članak 4.
+(1) Aerodromska kontrola zračnog prometa odgovorna je za nadzor slotova odlaska na aerodromima odlaska, što uključuje i odbijanje izdavanja odobrenja za pokretanje motora ili uzlijetanje letovima koji značajnije odstupaju od dodijeljenog proračunatog vremena uzlijetanja (CTOT). Za potrebe aerodromske kontrole zračnog prometa, slot odlaska iz članka 3. stavka 3. ovoga Pravilnika iznosi 15 minuta (-5/+10 minuta oko proračunatog vremena uzlijetanja).
+(2) Operator zrakoplova dužan je poznavati i pridržavati se objavljenih ATFM mjera te planirati letove zrakoplova u odlasku tako da se uzlijetanja obavljaju u skladu s proračunatim vremenom uzlijetanja. Ako korisnik zračnog prostora uoči da se iz bilo kojeg razloga ne može pridržavati dodijeljenog slota, mora o tome neodložno i izravno obavijestiti Središnju jedinicu za ATFM shodno propisanoj proceduri slanjem odgovarajućih poruka.
