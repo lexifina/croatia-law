@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 5., članka 72. stavka 7., članka 73. stavka 9., članka 153. stavka 5. i članka 161. stavka 7. Zakona o strancima (»Narodne novine«, broj 133/20.), Vlada Republike Hrvatske je na sjednici održanoj 11. veljače 2021. donijela
