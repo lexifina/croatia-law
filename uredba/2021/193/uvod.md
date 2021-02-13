@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 3. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 73/08., 90/11., 133/12., 80/13., 71/14. i 72/17.), Vlada Republike Hrvatske je na sjednici održanoj 4. veljače 2021. donijela
