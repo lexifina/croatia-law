@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 4. Zakona o poljoprivredi (»Narodne novine«, br. 118/18., 42/20. i 127/20. - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 18. veljače 2021. donijela
