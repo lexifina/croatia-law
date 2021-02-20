@@ -1,0 +1,7 @@
+# Članak 6.
+U članku 9. stavci 1. i 2. mijenjaju se i glase:
+»U postupku izdavanja lokacijske dozvole, posebnih uvjeta, potvrde glavnog projekta, građevinske dozvole ili uporabne dozvole, prema posebnom zakonu kojim se uređuju navedena područja, sanitarni inspektor Državnog inspektorata sudjeluje radi utvrđivanja uvjeta, odnosno potvrđivanja ispunjavanja uvjeta vezanih uz provedbu mjera zaštite od buke.
+Ako za obavljanje djelatnosti nije potrebna građevina, odnosno da se obavlja u građevini, nadležno upravno tijelo županije, odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave za utvrđivanje minimalno-tehničkih uvjeta i drugih propisanih uvjeta za obavljanje djelatnosti, odnosno tijelo državne uprave nadležno za utvrđivanje minimalno-tehničkih uvjeta i drugih propisanih uvjeta za obavljanje djelatnosti ne može izdati rješenje o ispunjavanju tih uvjeta ako Ministarstvo rješenjem ne utvrdi da su provedene mjere zaštite od buke.«.
+Stavak 4. briše se.
+Iza dosadašnjeg stavka 5., koji postaje stavak 4., dodaje se novi stavak 5. koji glasi:
+»Zahvate i djelatnosti za koje je potrebno sudjelovati u postupku iz stavka 1. ovoga članka, odnosno utvrditi rješenjem iz stavka 2. ovoga članka da su provedene mjere zaštite od buke te postupak i način utvrđivanja tih uvjeta pravilnikom će, uz prethodno pribavljenu suglasnost ministra nadležnog za poslove gospodarstva i održivog razvoja i ministra nadležnog za poslove prostornoga uređenja, graditeljstva i državne imovine, propisati ministar.«.

@@ -1,0 +1,10 @@
+# Članak 4.
+Iza članka 7. dodaju se članci 7.a i 7.b koji glase:
+»Članak 7.a
+Obveznici izrade strateških karata buke i akcijskih planova iz članka 7. ovoga Zakona obvezni su Ministarstvu dostaviti:
+- najkasnije do 30. lipnja 2022. i svakih pet godina nakon toga strateške karte buke koje će pokazati stanje u prethodnoj kalendarskoj godini za naseljena područja s više od 100.000 stanovnika, za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje, za glavne ceste s više od 3.000.000 prolaza vozila godišnje i za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje,
+- najkasnije do 18. srpnja 2024. i svakih pet godina nakon toga donesene, odnosno usvojene akcijske planove za naseljena područja s više od 100.000 stanovnika, za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje, za glavne ceste s više od 3.000.000 prolaza vozila godišnje i za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje.
+Članak 7.b
+Ministarstvo će nakon savjetovanja s obveznicima izrade strateških karata buke i akcijskih planova iz članka 7. ovoga Zakona obavijestiti Europsku komisiju najkasnije do:
+- 31. prosinca 2022. i svakih pet godina nakon toga o strateškim kartama buke za naseljena područja s više od 100.000 stanovnika, za glavne ceste s više od 3.000.000 prolaza vozila godišnje, za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje i za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje,
+- 18. siječnja 2025. i svakih pet godina nakon toga o akcijskim planovima i programima zaštite od buke koji su provedeni u prošlom razdoblju te o važećim dopuštenim razinama buke prije donošenja akcijskih planova za naseljena područja s više od 100.000 stanovnika, za glavne ceste s više od 3.000.000 prolaza vozila godišnje, za glavne željezničke pruge s više od 30.000 prolaza vlakova godišnje i za glavne zračne luke s više od 50.000 operacija (uzlijetanja i/ili slijetanja) godišnje.«.

@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 7. stavci 5. i 6. mijenjaju se i glase:
+»Strateške karte buke usklađuju se s izmjenama u prostoru, a obvezno se obnavljaju svakih pet godina od dana izrade, odnosno od dana odobravanja. Akcijski planovi preispituju se i, prema potrebi, revidiraju u slučaju veće promjene koja utječe na postojeće stanje buke, a najmanje svakih pet godina nakon datuma odobrenja tih planova. Strateške karte buke i akcijski planovi izrađuju se i odobravaju sukladno rokovima propisanim ovim Zakonom.
+Strateške karte buke i akcijski planovi u potpunosti moraju biti dostupni javnosti sukladno posebnim propisima koji uređuju informiranje i sudjelovanje javnosti i zainteresirane javnosti u pitanjima zaštite okoliša, posebnim propisima koji uređuju nacionalnu infrastrukturu prostornih podataka, odredbama pravilnika iz stavka 9. ovoga članka, kao i putem dostupnih informacijskih tehnologija.«.
+U stavku 11. iza prve rečenice dodaje se druga rečenica koja glasi: »U slučaju potrebe za ažuriranjem informacija, odnosno prilikom dostavljanja ažuriranih informacija, opisuju se razlike između ažuriranih i izvornih informacija te razlozi za ažuriranjem podataka.«.
+U stavku 14. iza riječi: »Europskoj komisiji« stavlja se zarez i dodaju se riječi: »elektroničkim putem u obvezni repozitorij podataka,«.

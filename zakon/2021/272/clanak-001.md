@@ -1,0 +1,4 @@
+## ZAKONA O ZAŠTITI OD BUKE
+# Članak 1.
+U Zakonu o zaštiti od buke (»Narodne novine«, br. 30/09., 55/13., 153/13., 41/16. i 114/18.) članak 1.a mijenja se i glasi:
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva 2002/49/EZ Europskog parlamenta i Vijeća od 25. lipnja 2002. o procjeni i upravljanju bukom iz okoliša (SL 189, 18. 7. 2002.), kako je posljednji puta izmijenjena Uredbom (EU) 2019/1010 Europskog parlamenta i Vijeća od 5. lipnja 2019. o usklađivanju obveza izvješćivanja u području zakonodavstva povezanoga s okolišem te o izmjeni uredaba (EZ) br. 166/2006 i (EU) br. 995/2010 Europskog parlamenta i Vijeća, direktiva 2002/49/EZ, 2004/35/EZ, 2007/2/EZ, 2009/147/EZ i 2010/63/EU Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 338/97 i (EZ) br. 2173/2005 te Direktive Vijeća 86/278/EEZ (SL L 170, 25. 6. 2019.).«.
