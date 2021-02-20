@@ -1,0 +1,1 @@
+Na temelju članka 53. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine«, br. 102/20. i 10/21.), Vlada Republike Hrvatske je na sjednici održanoj 18. veljače 2021. donijela
