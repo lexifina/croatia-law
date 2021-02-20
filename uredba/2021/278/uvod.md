@@ -1,0 +1,1 @@
+Na temelju članka 10. stavaka 6. i 7. i članka 11. stavka 4. Zakona o sigurnosti pri odobalnom istraživanju i eksploataciji ugljikovodika (»Narodne novine«, br. 78/15. i 50/20.), Vlada Republike Hrvatske je na sjednici održanoj 11. veljače 2021. donijela
