@@ -1,0 +1,6 @@
+## ODGOVORNOST ZA POVREDU SLUŽBENE DUŽNOSTI
+# Članak 43.
+(1) Državni službenik i namještenik zbog povrede službene dužnosti odgovara u skladu s općim propisom iz područja kojim se uređuju prava, obveze i odgovornosti državnih službenika i namještenika. Prijedlog za pokretanje postupka zbog teške povrede službene dužnosti podnosi upravitelj. Ako upravitelj ne podnese prijedlog, takav prijedlog može podnijeti ministar nadležan za poslove pravosuđa ili ravnatelj nadležan za zatvorski sustav.
+(2) Zbog teške povrede službene dužnosti postupak pokreće, vodi i odluku donosi u prvom stupnju poseban službenički sud za državne službenike sustava izvršavanja kazne zatvora u skladu s općim propisima iz područja kojim se uređuju prava, obveze i odgovornosti državnih službenika i namještenika.
+(3) Za rad vježbenika u svezi s obavljanjem stručnih poslova za koje se osposobljava odgovara državni službenik kojemu je osposobljavanje vježbenika povjereno odnosno neposredno nadređeni državni službenik.
+(4) Upravitelj kaznionice odnosno zatvora dužan je obavijestiti tijelo nadležno za kontrolu privremene nesposobnosti za rad odnosno spriječenosti za rad u slučaju sumnje na zlouporabu. Ako upravitelj ne postupi sukladno navedenom, postupak može pokrenuti ministar nadležan za poslove pravosuđa ili ravnatelj nadležan za zatvorski sustav.

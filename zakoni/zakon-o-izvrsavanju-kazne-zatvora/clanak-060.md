@@ -1,0 +1,6 @@
+## UPUĆIVANJE PRIJE PRAVOMOĆNOSTI PRESUDE
+# Članak 60.
+(1) Istražni zatvorenik može podnijeti zahtjev za upućivanje na izdržavanje kazne prije pravomoćnosti presude izjavom danom na zapisnik. Odluku o zahtjevu donosi sudac pojedinac ili predsjednik vijeća koji je donio presudu u prvom stupnju. Prilikom davanja izjave na zapisnik istražnog zatvorenika upozorit će se da će u kaznionici odnosno zatvoru u pravima i obvezama biti izjednačen sa zatvorenicima.
+(2) Predsjednik vijeća koje je donijelo odluku u prvom stupnju prilikom odlučivanja o zahtjevu uzet će u obzir razmjer između vremena provedenog u istražnom zatvoru i duljine izrečene kazne zatvora te procjenu potrebe nazočnosti istražnog zatvorenika na sudu.
+(3) Rješenje o upućivanju prije pravomoćnosti presude, zajedno s pismenima iz članka 55. stavka 1. ovoga Zakona, predsjednik vijeća koji je donio presudu u prvom stupnju dostavit će sucu izvršenja prema sjedištu zatvora u kojem se istražni zatvorenik nalazi.
+(4) Izdržavanje kazne zatvora na temelju rješenja iz stavka 3. ovoga članka može trajati najdulje do isteka roka za istražni zatvor propisanog zakonom kojim se uređuje kazneni postupak odnosno do isteka nepravomoćne kazne zatvora na koju je osuđen.

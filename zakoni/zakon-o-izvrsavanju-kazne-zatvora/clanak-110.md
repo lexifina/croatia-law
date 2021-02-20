@@ -1,0 +1,9 @@
+## Glava XVI. LIJEČENJE I POSTUPAK S BOLESNIM ZATVORENICIMA
+## ZDRAVSTVENA ZAŠTITA
+# Članak 110.
+(1) Zatvoreniku se osigurava liječenje te mjere i aktivnosti zdravstvene zaštite kvalitetom i opsegom određenim u sustavu javnog zdravstva za osigurane osobe iz obveznog zdravstvenog osiguranja.
+(2) Zatvoreniku koji nema zdravstveno osiguranje omogućava se zdravstveno osiguranje na teret ministarstva nadležnog za poslove pravosuđa za vrijeme izdržavanja kazne zatvora. Zatvoreniku koji iz bilo kojeg razloga ne može biti zdravstveno osiguran na području Republike Hrvatske liječenje se osigurava na trošak kaznionice odnosno zatvora.
+(3) Ministarstvo nadležno za poslove pravosuđa posebnim će sporazumom s tijelom nadležnim za zdravstveno osiguranje dogovoriti način financiranja troškova liječenja osoba iz stavka 2. ovoga članka.
+(4) Zatvorenik ima pravo na zdravstvenu zaštitu liječnika obiteljske (opće) medicine i dentalne medicine u kaznionici odnosno zatvoru ili najbližoj ustanovi javnog zdravstva prema sjedištu kaznionice odnosno zatvora.
+(5) Odluku o izboru liječnika obiteljske (opće) medicine i dentalne medicine za zatvorenika tijekom izdržavanja kazne zatvora donosi upravitelj ili osoba koju on ovlasti sukladno organizacijskim mogućnostima kaznionice odnosno zatvora. Iznimno, upravitelj ili osoba koju on ovlasti donosi odluku o izboru liječnika obiteljske (opće) medicine i dentalne medicine u ustanovi javnog zdravstva, uzimajući u obzir najbližu ustanovu javnog zdravstva prema sjedištu kaznionice odnosno zatvora.
+(6) Zatvorenik je dužan držati se uputa liječnika i poduzimati mjere u svrhu liječenja, sprječavanja zaraznih bolesti i zaštite zdravlja te je osobno odgovoran zbog nepridržavanja tih uputa. Radi održavanja higijene zatvorenik je dužan držati se uputa ovlaštene službene osobe medicinske struke ili druge osobe koja pruža zdravstvenu zaštitu zatvoreniku.

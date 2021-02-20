@@ -1,0 +1,5 @@
+## OBVEZE SUCA IZVRŠENJA
+# Članak 58.
+(1) Sudac izvršenja dostavit će zatvoru odnosno Centru za dijagnostiku u Zagrebu prijepise: rješenja o upućivanju, presude, izvatke iz kaznene evidencije, podatke o tome je li u kaznenom postupku izuzet biološki materijal radi obavljanja molekularno-genetičke analize, podatke o žrtvi, kao i druge podatke kojima raspolaže, najmanje tri dana prije dana javljanja osuđenika na izdržavanje kazne.
+(2) Ako se osuđenik koji je uredno upućen na izdržavanje kazne ne javi, sudac izvršenja će na temelju izvješća upravitelja izdati nadležnoj policijskoj upravi nalog za sprovođenje. Troškove sprovođenja snosi zatvor odnosno Centar za dijagnostiku u Zagrebu koji štetu može naknaditi u skladu s odredbama članka 158. ovoga Zakona.
+(3) Kada se na izdržavanje kazne upućuje osuđenik koji samostalno skrbi i uzdržava dijete ili drugog člana obitelji koji je bez prihoda i nije sposoban skrbiti o sebi, sudac izvršenja će o tome obavijestiti nadležni centar za socijalnu skrb, koji je obvezan bez odgode poduzeti potrebne mjere i o tome izvijestiti suca izvršenja.

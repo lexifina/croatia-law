@@ -1,0 +1,6 @@
+## POSTUPAK S OSOBNIM STVARIMA
+# Članak 66.
+(1) Prilikom prijama zatvorenika u kaznionicu odnosno zatvor pregledavaju se osobne stvari.
+(2) Osobne stvari čije zadržavanje nije dopušteno i odjeća koju ne zadržava popisuju se, oduzimaju i pohranjuju na polog stvari ili se na zatvorenikov trošak šalju osobi koju on odredi, o čemu se zatvoreniku daje potvrda. Stvari koje zbog pokvarljivosti nisu prikladne za pohranjivanje ili uručivanje trećim osobama uništavaju se, o čemu se sastavlja zapisnik. Primjerak zapisnika uručuje se zatvoreniku.
+(3) U kaznionicama odnosno zatvorima u kojima nema mogućnosti tehničkog pregleda stvari čije zadržavanje je dopušteno, tehnički pregled stvari moguće je obaviti kod vanjskog pružatelja usluga na trošak zatvorenika, s čime se zatvorenik prethodno upoznaje. O obavljenom pregledu sastavlja se zapisnik. Primjerak zapisnika uručuje se zatvoreniku.
+(4) Stvari za koje se sumnja da su u svezi s počinjenjem nekog kaznenog djela oduzimaju se od zatvorenika i uz zapisnik se predaju nadležnom državnom tijelu. Stvari za koje se sumnja da su namijenjene bijegu zatvorenika, ugrožavanju reda i sigurnosti te stvari za koje se sumnja da mogu narušiti zdravlje oduzimaju se i uništavaju ili se predaju nadležnom državnom tijelu, o čemu se sastavlja zapisnik. Primjerak zapisnika uručuje se zatvoreniku.

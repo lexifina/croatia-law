@@ -1,0 +1,10 @@
+## Glava V. DRŽAVNI SLUŽBENICI I NAMJEŠTENICI ZATVORSKOG SUSTAVA
+## PLAN PRIJMA U DRŽAVNU SLUŽBU, ODNOSNO NA RAD
+# Članak 31.
+(1) Kaznionica, zatvor odnosno centar dostavlja prijedlog za Plan prijma u državnu službu, odnosno na rad u kaznionicu, zatvor odnosno centar (u daljnjem tekstu: Plan prijma) Središnjem uredu, u vrijeme kada se priprema nacrt državnog proračuna za sljedeću kalendarsku godinu. O dostavljenim prijedlozima odlučuje ravnatelj nadležan za zatvorski sustav.
+(2) Plan prijma donosi ministar nadležan za poslove pravosuđa, uz prethodnu suglasnost ministarstva nadležnog za financije, a na prijedlog ravnatelja nadležnog za zatvorski sustav, uzimajući u obzir stvarne potrebe kaznionice, zatvora odnosno centra i raspoloživa financijska sredstva.
+(3) Planom prijma utvrđuje se stvarno stanje popunjenosti ustrojenih radnih mjesta kaznionica, zatvora odnosno centara, stvarno potreban broj državnih službenika i namještenika na neodređeno vrijeme za razdoblje za koje se donosi Plan prijma, planira se broj vježbenika i prijam u državnu službu na određeno vrijeme zbog povećanog opsega posla.
+(4) Planom prijma utvrđuje se i popunjenost ustrojenih radnih mjesta kaznionica, zatvora odnosno centara pripadnicima nacionalnih manjina i planira zapošljavanje potrebnog broja državnih službenika pripadnika nacionalnih manjina radi ostvarivanja zastupljenosti sukladno ustavnom zakonu kojim se uređuju prava nacionalnih manjina i zakonu kojim se uređuje sustav državne uprave.
+(5) Plan prijma iz stavka 2. ovoga članka utvrđuje se u roku od 30 dana od dana stupanja na snagu državnog proračuna za kalendarsku godinu na koju se plan odnosi.
+(6) Osim donošenja Plana prijma za kalendarsku godinu (kratkoročni plan), može se donositi srednjoročni plan (za razdoblje od dvije godine) i dugoročni plan (za razdoblje od četiri godine).
+(7) Plan prijma objavljuje se u »Narodnim novinama«, na mrežnim stranicama tijela državne uprave nadležnog za službeničke odnose i mrežnim stranicama ministarstva nadležnog za poslove pravosuđa.

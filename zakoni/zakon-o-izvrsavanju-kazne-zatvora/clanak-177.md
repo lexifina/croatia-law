@@ -1,0 +1,7 @@
+## Glava XXV. PRIPREMA ZA OTPUST ZATVORENIKA I OTPUŠTANJE
+## PRIPREMA ZA OTPUST
+# Članak 177.
+(1) Pripremanje zatvorenika za otpust započinje nakon dolaska u kaznionicu odnosno zatvor. Zatvorenika se potiče na odgovorno sudjelovanje u pripremi za otpust u kaznionici odnosno zatvoru i izvan kaznionice odnosno zatvora, a posebice na održavanje odnosa s obitelji, kontaktiranje s državnim tijelima, ustanovama i udrugama te osobama koje se organizirano bave uključivanjem zatvorenika u život na slobodi. Program pripreme za otpust zatvorenika dio je programa izvršavanja.
+(2) Kaznionica odnosno zatvor će najkasnije tri mjeseca prije otpusta uključiti zatvorenika u pojedinačni ili skupni savjetodavni rad u vezi s njegovom pripremom za otpust.
+(3) Priprema za otpust po potrebi uključuje i poduzimanje mjera radi organiziranja smještaja i prehrane, organiziranja liječenja, reguliranja prebivališta odnosno boravišta, unaprjeđivanja obiteljskih odnosa, pronalaženja zaposlenja, završavanja obrazovanja, osiguravanja novčane potpore za podmirenje najnužnijih potreba te druge oblike podrške. Radi pomoći zatvoreniku nakon otpusta kaznionica odnosno zatvor može od tijela državne vlasti, institucija i udruga zatražiti poduzimanje mjera iz njihove nadležnosti.
+(4) Kaznionica odnosno zatvor će prije otpusta zatvorenika s izdržavanja kazne zatvora postupiti sukladno pravilniku iz članka 8. stavka 7. ovoga Zakona.

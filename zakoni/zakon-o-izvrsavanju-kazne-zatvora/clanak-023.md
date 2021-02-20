@@ -1,0 +1,6 @@
+## ZATVORSKA BOLNICA U ZAGREBU
+# Članak 23.
+(1) Zatvorska bolnica u Zagrebu je kaznionica sa statusom zdravstvene ustanove koja može obavljati djelatnosti specijalističko- -konzilijarne zdravstvene zaštite, ljekarničku djelatnost, higijensko- -epidemiološku djelatnost u suradnji s nadležnim higijensko-epidemiološkim službama sustava javnog zdravstva, djelatnost bolničkog liječenja i zdravstvene njege osoba lišenih slobode u kaznionicama odnosno zatvorima i izvršavanje sigurnosne mjere obveznog psihijatrijskog liječenja izrečene uz kaznu zatvora.
+(2) Zatvorska bolnica u Zagrebu i odjeli zdravstvene zaštite kaznionica odnosno zatvora kao pružatelji zdravstvene zaštite upisuju se u Nacionalni registar pružatelja zdravstvene zaštite koji vodi Hrvatski zavod za javno zdravstvo.
+(3) Odredbe ovoga Zakona koje se odnose na kaznionicu na odgovarajući način primjenjuju se na Zatvorsku bolnicu u Zagrebu, osim ako ovim Zakonom nije drukčije propisano.
+(4) Normative i standarde u pogledu prostora, medicinsko-tehničke opreme i službenika zdravstvenih struka Zatvorske bolnice u Zagrebu pravilnikom propisuje ministar nadležan za poslove pravosuđa uz prethodnu suglasnost ministra nadležnog za zdravstvo, sukladno odredbama zakona kojim se uređuje zdravstvena zaštita.

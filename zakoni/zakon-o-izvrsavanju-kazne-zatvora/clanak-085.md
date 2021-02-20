@@ -1,0 +1,7 @@
+## PREHRANA
+# Članak 85.
+(1) Zatvoreniku se u pravilnim razmacima osiguravaju odgovarajuće pripremljeni i posluženi obroci koji kakvoćom i količinom zadovoljavaju prehrambene i higijenske standarde, a koji su primjereni dobi, zdravlju, naravi posla koji obavlja, vjerskim zahtjevima, a prema mogućnostima kaznionice odnosno zatvora.
+(2) Trudnoj zatvorenici, dojilji i bolesnom zatvoreniku priprema se hrana po vrsti i količini koju odredi liječnik.
+(3) Zatvoreniku se osiguravaju najmanje tri obroka dnevno. Zatvoreniku se osigurava prehrana primjerena njegovoj dobi, zdravlju, fizičkom stanju, vjeroispovijesti i prirodi posla koji obavlja, a minimalan unos energije te udjela proteina i ostalih prehrambenih tvari propisuje se posebnim propisom iz stavka 5. ovoga članka. Liječnik ili druga osoba medicinske struke može odrediti izmjenu prehrane zatvoreniku kada je to potrebno iz zdravstvenih razloga. Sastav i hranidbenu vrijednost hrane nadzire liječnik ili druga osoba medicinske struke.
+(4) Ako nije moguće udovoljiti zahtjevu zatvorenika za izuzećem nekih vrsta hrane, na vlastiti trošak se zatvoreniku omogućuje opskrba prehrambenim proizvodima u prodavaonici za zatvorenike kaznionice odnosno zatvora.
+(5) Ministar nadležan za poslove pravosuđa, uz prethodnu suglasnost ministra nadležnog za zdravstvo, donosi pravilnik kojim se pobliže propisuju standardi smještaja i prehrane zatvorenika.
