@@ -1,0 +1,2 @@
+# Članak 3.
+Područje Parka prirode »Dinara« važno je zbog očuvanih izvornih prirodnih vrijednosti, bogate georaznolikosti, brojnih divljih vrsta biljnog i životinjskog svijeta, endema te cjelokupne raznolikosti prirodnih i poluprirodnih staništa, vrijednosti proizašlih iz višestoljetne tradicije ljudskog korištenja prostora, autohtonih pasmina i sorata te bogatog kulturnog i povijesnog nasljeđa sačuvanog u brojnim arheološkim nalazima i na kulturno-povijesnim lokalitetima.
