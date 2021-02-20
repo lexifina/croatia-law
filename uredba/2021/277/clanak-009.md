@@ -1,0 +1,2 @@
+# Članak 9.
+Okvirni broj državnih službenika i namještenika Ministarstva znanosti i obrazovanja, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva znanosti i obrazovanja (»Narodne novine«, broj 97/20.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva znanosti i obrazovanja koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
