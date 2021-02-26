@@ -1,0 +1,3 @@
+# Članak 9.
+1. Članica koja je ratificirala ovu Konvenciju može je otkazati po isteku deset godina od datuma kada je Konvencija prvo stupila na snagu, aktom koji dostavlja glavom direktoru Međunarodnog ureda rada radi registracije. Odnosni otkaz ne proizvodi učinak do isteka razdoblja od jedne godine nakon datuma kada je otkaz registriran.
+2. Svaka članica koja je ratificirala ovu Konvenciju i koja ne ostvari pravo otkaza predviđeno ovim člankom, u roku od godinu dana nakon isteka razdoblja od deset godina spomenutog u prethodnom stavku, bit će vezana za još jedno razdoblje od deset godina, i potom može otkazati ovu Konvenciju po isteku svakog razdoblja od deset godine pod uvjetima predviđenim u ovom članku.
