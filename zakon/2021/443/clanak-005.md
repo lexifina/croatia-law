@@ -1,0 +1,2 @@
+# Članak 5.
+Iznimno od odredbe članka 6. stavka 4. Zakona o poticanju ulaganja (»Narodne novine«, br. 102/15., 25/18., 114/18. i 32/20.) vezano uz obveze preuzete prije 31. prosinca 2019., gubitak radnih mjesta u istoj ili sličnoj djelatnosti do kojeg dođe u razdoblju od 1. siječnja 2020. do 30. lipnja 2021. u nekom od objekata - projekata korisnika u zajedničkom europskom gospodarskom prostoru ne smatra se premještanjem u smislu članka 6. stavka 4. toga Zakona.

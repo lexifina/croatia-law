@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Korisnicima i prijaviteljima potpora za ulaganje po Zakonu o poticanju ulaganja (»Narodne novine«, br. 102/15., 25/18., 114/18. i 32/20.) čiji su projekti ulaganja započeli u razdoblju od 12. ožujka 2017. do 30. lipnja 2020. odnosno za one projekte ulaganja čije je trogodišnje razdoblje realizacije unutar razdoblja početka epidemije bolesti COVID-19, trogodišnje razdoblje realizacije projekta ulaganja produljuje se za jednu godinu.
+(2) Za ostvarenje prava iz stavka 1. ovoga članka korisnici i prijavitelji potpore za ulaganje dužni su podnijeti pisani zahtjev nadležnom ministarstvu u roku od 90 dana od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o poticanju ulaganja (»Narodne novine«, br. 102/15., 25/18., 114/18. i 32/20.) u članku 2. stavak 1. mijenja se i glasi:
+»(1) Ovim se Zakonom osigurava provedba Uredbe Komisije (EU) br. 651/2014 od 17. lipnja 2014. o ocjenjivanju određenih kategorija potpora spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora (SL L 187, 26. 6. 2014.) (u daljnjem tekstu: Uredba Komisije (EU) 651/2014), kako je posljednji put izmijenjena Uredbom Komisije (EU) 2020/972 od 2. srpnja 2020. o izmjeni Uredbe (EU) br. 1407/2013 u pogledu njezina produljenja i o izmjeni Uredbe (EU) br. 651/2014 u pogledu njezina produljenja i odgovarajućih prilagodbi (Tekst značajan za EGP) (SL L 215, 7. 7. 2020.).«.
