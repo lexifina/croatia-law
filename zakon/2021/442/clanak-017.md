@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Svi postupci započeti prema Zakonu o Hrvatskom kvalifikacijskom okviru (»Narodne novine«, br. 22/13., 41/16. − Odluka Ustavnog suda Republike Hrvatske, 64/18. i 47/20. − Odluka Ustavnog suda Republike Hrvatske) nastavit će se sukladno ovom Zakonu, uzimajući u obzir preporuke sektorskih vijeća dane do dana stupanja na snagu ovoga Zakona.
+(2) Svi upisi u Registar Hrvatskog kvalifikacijskog okvira upisani sukladno Zakonu o Hrvatskom kvalifikacijskom okviru (»Narodne novine«, br. 22/13., 41/16. − Odluka Ustavnog suda Republike Hrvatske, 64/18. i 47/20. − Odluka Ustavnog suda Republike Hrvatske) ostaju u Registru.
+(3) U roku od 60 dana od dana stupanja na snagu ovoga Zakona ministar nadležan za znanost i obrazovanje, uz prethodnu suglasnost ministra nadležnog za rad, uskladit će Pravilnik o Registru Hrvatskog kvalifikacijskog okvira (»Narodne novine«, br. 62/14.) s odredbama ovoga Zakona.
+(4) U roku od 90 dana od dana stupanja na snagu ovoga Zakona nadležne agencije dužne su uskladiti svoje statute i opće akte s odredbama ovoga Zakona te Pravilnika o Registru Hrvatskog kvalifikacijskog okvira.
