@@ -1,7 +1,0 @@
-# Članak 6.
-NAKNADA ZA ŠTETU ILI GUBITAK
-1. Kada ulaganja ulagatelja jedne od Ugovornih stranaka pretrpe gubitak ili štetu uslijed rata ili drugog oružanog sukoba, građanskih nemira, revolucije, pobune ili sličnih događaja na teritoriju druge Ugovorne stranke, a koji nisu nastali djelovanjem Ugovorne stranke kojoj pripadaju ulagatelji, potonja Ugovorna stranka će im pružiti uvjete glede restitucije, odštete, naknade ili drugačijeg rješenja, ne manje povoljne od onih koje potonja Ugovorna stranka pruža svojim vlastitim ulagateljima ili ulagateljima treće države, što god je od toga povoljnije za ulagatelje.
-2. Bez prejudiciranja stavka 1. ovog članka, ulagatelji jedne Ugovorne stranke koji u bilo kojem od slučajeva koji se spominju u tom stavku pretrpe štetu ili gubitak na teritoriju druge Ugovorne stranke koji su posljedica:
-a) rekviriranja njihovog vlasništva ili dijela vlasništva od strane njenih snaga ili tijela vlasti;
-b) uništenja njihovog vlasništva ili dijela vlasništva od strane njenih snaga ili tijela vlasti koje nije bilo uzrokovano borbenom akcijom ili nije bilo neophodno u datoj situaciji,
-dobiti će od strane druge Ugovorne stranke hitnu restituciju i, gdje je to primjereno, hitnu i adekvatnu naknadu za štetu ili gubitak koji su pretrpjeli tijekom razdoblja rekviriranja ili kao posljedicu uništenja njihovog vlasništva. Proizašla plaćanja bit će izvršena bez odlaganja u slobodno konvertibilnoj valuti.
