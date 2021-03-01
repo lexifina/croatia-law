@@ -1,0 +1,1 @@
+Na temelju članka 23. Društvenog ugovora TD Vodovod Labin d.o.o., čl. 23. st. 1. toč. 4. Zakona o vodnim uslugama (»Narodne novine« 66/2019.) i čl. 52. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17, 66/19) Skupština Društva donosi

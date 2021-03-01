@@ -1,0 +1,2 @@
+# Članak 14.
+Zakonom su propisane prekršajne odredbe ukoliko javni isporučitelj vodnih usluga obračunava i/ili naplaćuje naknadu za razvoj protivno odredbama čl. 52. st. 3. Zakona o financiranju vodnog gospodarstva, odnosno protivno odredbama ove Odluke, ne objavi ovu Odluku u »Narodnim novinama«, sukladno čl. 52. st. 4. Zakona o financiranju vodnog gospodarstva, ne dostavi ovu Odluku sukladno čl. 52. st. 5. Zakona o financiranju vodnog gospodarstva i ne koristi prihode od naknade za razvoj sukladno čl. 57. Zakona o financiranju vodnoga gospodarstva.

@@ -1,0 +1,2 @@
+# Članak 9.
+Naknada za razvoj javne odvodnje koristit će se za financiranje gradnje komunalnih vodnih građevina javne odvodnje koje su od značaja za funkcioniranje sustava, sukladno Planu gradnje komunalnih vodnih građevina, kao i za financiranje otplate zajmova i kredita za gradnju komunalnih vodnih građevina sukladno financijskom planu javnog isporučitelja vodnih usluga, koji se donose u skladu sa zakonom kojim se uređuju vodne usluge.
