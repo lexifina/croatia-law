@@ -1,0 +1,5 @@
+# Članak 344.
+1. Osnovna načela financijske pomoći u skladu su s relevantnim propisima o financijskim instrumentima Europske unije.
+2. Prioritetna područja financijske pomoći Europske unije o kojima su se stranke usuglasile utvrđuju se u godišnjim programima djelovanja temeljenima, kad god je primjenjivo, na višegodišnjim okvirima kojima se odražavaju dogovoreni prioriteti politika. Unutar iznosa pomoći utvrđenih u okviru tih programa uzimaju se u obzir potrebe Republike Armenije, kapaciteti sektora i napredak u reformama, posebno u područjima obuhvaćenima ovim Sporazumom.
+3. Kako bi se dopustila optimalna upotreba dostupnih resursa, stranke nastoje osigurati da se pomoć Europske unije provodi u bliskoj suradnji i koordinaciji s drugim zemljama donatorima, organizacijama donatorima i međunarodnim financijskim institucijama, i u skladu s međunarodnim načelima djelotvornosti pomoći.
+4. Na zahtjev Republike Armenije i podložno primjenjivim uvjetima Europska unija može Republici Armeniji pružiti makrofinancijsku pomoć.

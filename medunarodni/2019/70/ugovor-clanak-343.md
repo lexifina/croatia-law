@@ -1,0 +1,2 @@
+# Članak 343.
+Republika Armenija ostvaruje koristi od financijske pomoći u okviru relevantnih mehanizama i instrumenata Europske unije koji su namijenjeni financiranju. Republika Armenija može ostvariti koristi i od zajmova Europske investicijske banke, Europske banke za obnovu i razvoj i ostalih međunarodnih financijskih institucija. Financijskom pomoći pridonosi se ostvarivanju ciljeva ovog Sporazuma i ona se osigurava u skladu s ovim poglavljem.

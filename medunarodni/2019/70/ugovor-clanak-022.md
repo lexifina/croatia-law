@@ -1,0 +1,3 @@
+# Članak 22.
+1. Europska unija i Republika Armenija olakšavaju postupak gospodarskih reformi boljim zajedničkim razumijevanjem temelja svakog gospodarstva te oblikovanja i provedbe gospodarskih politika.
+2. Republika Armenija poduzima daljnje korake u razvoju tržišnoga gospodarstva koje dobro funkcionira te u postupnom usklađivanju svojih gospodarskih i financijskih propisa i politika s onima Europske unije, kako je utvrđeno ovim Sporazumom. Europska unija podupirat će Republiku Armeniju u osiguravanju dobrih makroekonomskih politika, uključujući neovisnost središnje banke i stabilnost cijena, zdrave javne financije i održivi režim deviznog tečaja i održivu platnu bilancu.

@@ -1,0 +1,15 @@
+# Članak 237.
+PRIJELAZNE ODREDBE
+1. Proizvodi koji su proizvedeni i označeni u skladu s nacionalnim pravom prije stupanja na snagu ovog Sporazuma, ali nisu u skladu s njegovom zahtjevima, mogu se nastaviti prodavati nakon stupanja na snagu ovog Sporazuma do isteka zaliha.
+2. U prijelaznom razdoblju od 24 godine počevši godinu dana nakon stupanja na snagu ovog Sporazuma za »Cognac« i u prijelaznom razdoblju od tri godine nakon stupanja na snagu ovog Sporazuma za »Champagne« zaštitom tih oznaka zemljopisnog podrijetla Europske unije na temelju ovog Sporazuma ne sprječava se upotreba tih naziva na proizvodima koji su podrijetlom iz Republike Armenije i koji se izvoze u treće zemlje, ako je to dopušteno zakonima i propisima predmetne treće zemlje, kako bi se označili i predstavili određeni usporedivi proizvodi podrijetlom iz Republike Armenije pod uvjetom:
+(a) da je naziv naveden na oznaci isključivo nelatiničnim pismom;
+(b) da je pravo podrijetlo proizvoda jasno navedeno na oznaci u istom vidnom polju i
+(c) da se ničime u predstavljanju ne može javnost dovesti u zabludu u pogledu pravog podrijetla proizvoda.
+3. U prijelaznom razdoblju od 13 godina počevši godinu dana nakon stupanja na snagu ovog Sporazuma za »Cognac« i u prijelaznom razdoblju od dvije godine nakon stupanja na snagu ovog Sporazuma za »Champagne« zaštitom tih oznaka zemljopisnog podrijetla Europske unije na temelju ovog Sporazuma ne sprječava se upotreba tih naziva u Republici Armeniji pod uvjetom:
+(a) da je naziv naveden na oznaci isključivo nelatiničnim pismom;
+(b) da je pravo podrijetlo proizvoda jasno navedeno na oznaci u istom vidnom polju i
+(c) da se ničime u predstavljanju ne može potrošače dovesti u zabludu u pogledu pravog podrijetla proizvoda.
+4. Kako bi se olakšao neometan i djelotvoran prestanak upotrebe oznake zemljopisnog podrijetla Europske unije »Cognac« za proizvode podrijetlom iz Republike Armenije i kako bi se pomoglo njezinoj industriji da zadrži svoj konkurentski položaj na izvoznim tržištima, Europska unije pruža tehničku i financijsku pomoć Republici Armeniji. Ta se pomoć pruža u skladu s pravom EU-a i posebno uključuje djelovanja za razvoj novog naziva te promicanje, oglašavanje i stavljanje na tržište novog naziva na domaćim i tradicionalnim izvoznim tržištima.
+5. Konkretni iznosi, vrste, mehanizmi i rokovi pomoći EU-a iz stavka 4. utvrđuju se u okviru paketa financijske i tehničke pomoći koji stranke trebaju konačno dogovoriti u roku od godinu dana nakon stupanja na snagu ovog Sporazuma. Stranke zajednički izrađuju opis takvog paketa pomoći na temelju detaljne procjene potreba koje će biti obuhvaćene takvom pomoći. Procjenu provodi međunarodno konzultantsko društvo koje stranke zajednički odabiru.
+6. Ako Europska unija ne pruži financijsku i tehničku pomoć iz stavka 4., Republika Armenija može primijeniti mehanizam za rješavanje sporova iz poglavlja 13. te, ako uspije u postupku, suspendirati obveze proizišle iz stavaka 2. i 3.
+7. Europska unija pruža financijsku i tehničku pomoć najkasnije osam godina nakon datuma stupanja na snagu ovog Sporazuma.

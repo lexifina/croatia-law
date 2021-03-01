@@ -1,0 +1,9 @@
+# Članak 359.
+POVRAT
+1. Ako je tijelima Republike Armenije povjerena provedba financiranja sredstvima iz fondova EU-a, Europska komisija ima pravo povrata nepropisno isplaćenih sredstava iz fondova EU-a, posebno u okviru financijskih korekcija. Tijela Republike Armenije poduzimaju sve odgovarajuće mjere za povrat nepropisno isplaćenih sredstava iz fondova EU-a. Europska komisija u obzir uzima mjere koje su poduzela tijela Republike Armenije radi sprječavanja gubitka predmetnih sredstava iz fondova EU-a.
+2. U slučajevima iz stavka 1. Europska komisija savjetuje se s Republikom Armenijom o pitanju prije donošenja odluke o povratu. O sporovima u vezi s povratom raspravlja se u okviru Vijeća za partnerstvo.
+3. Odredbe ove glave kojima se određuje novčana obveza osobama osim državama provode se u Republici Armeniji u skladu sa sljedećim načelima:
+(a) provedba je uređena pravilima građanskog postupka na snazi u Republici Armeniji. Nalog za provedbu izdaje se bez ikakvih drugih formalnosti osim što nacionalno tijelo koje je odredila vlada Republike Armenije treba provjeriti vjerodostojnost odluke o provedbi. Vlada Republike Armenije obavješćuje Europsku komisiju i Sud Europske unije o identitetu tog nacionalnog tijela;
+(b) kada su na temelju zahtjeva Europske komisije ispunjene formalnosti iz točke (a), Komisija može nastaviti s provedbom u skladu sa zakonodavstvom Republike Armenije iznošenjem predmeta izravno pred nadležno tijelo;
+(c) zakonitost odluke o provedbi podliježe nadzoru Suda Europske unije. Provedba se može suspendirati samo odlukom Suda Europske unije. Europska komisija obavješćuje tijela Republike Armenije o svakoj odluci Suda Europske unije kojom se suspendira provedba. Pritužbe zbog nepravilnosti u postupku provedbe u nadležnosti su sudova Republike Armenije.
+4. Presude koje Sud Europske unije donese na temelju arbitražne klauzule iz ugovora u okviru područja primjene ovog poglavlja provedive su pod istim uvjetima.

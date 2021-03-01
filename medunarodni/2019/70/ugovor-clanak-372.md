@@ -1,0 +1,5 @@
+# Članak 372.
+PRAĆENJE I OCJENA USKLAĐIVANJA
+1. Praćenje znači kontinuirano ocjenjivanje napretka u provedbi i izvršavanju mjera obuhvaćenih ovim Sporazumom. Stranke surađuju kako bi olakšale postupak praćenja u okviru institucionalnih tijela osnovanih ovim Sporazumom.
+2. Europska unija ocjenjuje usklađivanje zakonodavstva Republike Armenije s pravom EU-a kako se navodi u ovom Sporazumu. Takve ocjene uključuju aspekte provedbe i izvršavanja. Europska unija može provoditi takve ocjene samostalno ili u dogovoru s Republikom Armenijom. Kako bi olakšala postupak ocjenjivanja, Republika Armenija izvješćuje Europsku uniju o napretku u usklađivanju, prema potrebi prije kraja prijelaznih razdoblja utvrđenih ovim Sporazumom. U okviru postupka izvješćivanja i ocjenjivanja, uključujući modalitete i učestalost ocjena, uzimaju se u obzir posebni modaliteti utvrđeni u ovom Sporazumu ili u odlukama institucionalnih tijela osnovanih ovim Sporazumom.
+3. Ocjena usklađivanja može uključivati misije na terenu, uz sudjelovanje institucija, tijela i agencija Europske unije, nevladinih tijela, nadzornih tijela, neovisnih stručnjaka i ostalih, prema potrebi.

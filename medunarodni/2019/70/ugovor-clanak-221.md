@@ -1,0 +1,4 @@
+# Članak 221.
+IZNIMKE I OGRANIČENJA
+1. Svaka stranka može u skladu s konvencijama i međunarodnim ugovorima kojih je stranka predvidjeti ograničenja ili iznimke od prava utvrđenih u člancima od 213. do 218. samo u određenim posebnim slučajevima u kojima se ne ometa uobičajeno iskorištavanje sadržaja i ne nanosi neopravdano šteta legitimnim interesima nositelja prava.
+2. Svaka stranka osigurava da su privremene radnje reproduciranja iz članaka od 213. do 217., koje su prolazne ili popratne, koje čine sastavni i bitni dio tehnološkog postupka, čija je jedina svrha omogućiti: (a) prijenos u mreži među trećim stranama preko posrednika ili (b) zakonitu upotrebu djela ili drugog sadržaja, i koje nemaju samostalan gospodarski značaj, izuzete iz prava reproduciranja predviđenog u člancima od 213. do 217.

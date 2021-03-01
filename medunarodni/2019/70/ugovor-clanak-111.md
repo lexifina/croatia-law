@@ -1,0 +1,2 @@
+# Članak 111.
+Stranke, među ostalim, razmjenjuju informacije i stručna znanja te provode zajedničke aktivnosti na bilateralnoj osnovi i/ili u okviru multilateralnih programa. Suradnja se može odvijati, među ostalim, provođenjem posebnih sporazuma i/ili administrativnih aranžmana sklopljenih između stranaka u području civilne zaštite. Stranke mogu zajednički odlučiti o posebnim smjernicama i/ili radnim planovima za aktivnosti predviđene ovim Sporazumom ili planirane u skladu s njim.

@@ -1,0 +1,8 @@
+# Članak 291.
+DEFINICIJA I PODRUČJE PRIMJENE
+1. Za potrebe ovog poglavlja subvencija je mjera koja ispunjuje uvjete utvrđene člankom 1. stavkom 1. Sporazuma o subvencijama i kompenzacijskim mjerama sadržanog u Prilogu 1.A Sporazumu o Svjetskoj trgovinskoj organizaciji (WTO) (»Sporazum o subvencijama i kompenzacijskim mjerama«) neovisno o tome odobrava li se ona poduzeću koje isporučuje robu ili usluge.
+Prvim se podstavkom ne dovodi u pitanje ishod budućih rasprava u WTO-u o definiciji subvencija za usluge. Ovisno o napretku tih rasprava na razini WTO-a stranke mogu u okviru Odbora za partnerstvo donijeti odluku o ažuriranju ovog Sporazuma u tom smislu.
+2. Ovo se poglavlje primjenjuje na subvenciju samo ako je utvrđeno da je specifična u skladu s člankom 2. Sporazuma o subvencijama i kompenzacijskim mjerama. Smatra se da je specifična svaka subvencija koja je obuhvaćena člankom 295. ovog Sporazuma.
+3. Ovo se poglavlje primjenjuje na subvencije koje se odobravaju svim poduzećima, uključujući javna i privatna poduzeća. Primjenom pravila iz ovog odjeljka ne sprječava se, pravno ili činjenično, pružanje određenih usluga od javnog interesa koje su povjerene predmetnim poduzećima. Izuzeća od primjene pravila iz ovog odjeljka ograničavaju se na zadaće od javnog interesa, razmjerna su ciljevima javne politike koji su im dodijeljeni i transparentna.
+4. Članak 294. ovog Sporazuma ne primjenjuje se na subvencije povezane s trgovinom robom koja je obuhvaćena Sporazumom o poljoprivredi sadržanim u Prilogu 1.A Sporazumu o WTO-u (»Sporazum o poljoprivredi«).
+5. Članci 294. i 295. ne primjenjuju se na audiovizualni sektor.

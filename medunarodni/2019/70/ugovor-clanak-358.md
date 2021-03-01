@@ -1,0 +1,3 @@
+# Članak 358.
+UPRAVNE MJERE I SANKCIJE
+Europska komisija može odrediti upravne mjere i sankcije u skladu s Uredbom Vijeća (EZ, Euratom) br. 2988/95 od 18. prosinca 1995. o zaštiti financijskih interesa Europskih zajednica, Uredbom (EU, Euratom) br. 966/2012 Europskog parlamenta i Vijeća od 25. listopada 2012. o financijskim pravilima koja se primjenjuju na opći proračun Unije i Delegiranom uredbom Komisije (EU) br. 1268/2012 od 29. listopada 2012. o pravilima za primjenu Uredbe (EU, Euratom) br. 966/2012 Europskog parlamenta i Vijeća o financijskim pravilima koja se primjenjuju na opći proračun Unije. Tijela Republike Armenije mogu u skladu s primjenjivim nacionalnim pravom uvesti dodatne mjere i sankcije pored onih navedenih u prvoj rečenici.

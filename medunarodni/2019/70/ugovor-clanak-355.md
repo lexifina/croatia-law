@@ -1,0 +1,4 @@
+# Članak 355.
+PRIOPĆAVANJE PRIJEVARE, KORUPCIJE I NEPRAVILNOSTI
+1. Tijela Republike Armenije bez odgađanja dostavljaju Europskoj komisiji sve informacije koje su zamijetila, a koje se odnose na stvarne slučajeve prijevare, korupcije ili drugih nepravilnosti u vezi s provedbom financiranja sredstvima iz fondova EU-a, uključujući sukob interesa, ili slučajeve u pogledu kojih postoji sumnja na počinjenje tih djela. Ako postoji sumnja na počinjenje prijevare ili korupcije, obavješćuje se i Europski ured za borbu protiv prijevara.
+2. Tijela Republike Armenije izvješćuju i o svim mjerama poduzetima u vezi s činjenicama priopćenima na temelju ovog članka. Ako nema stvarnih slučajeva prijevare, korupcije ili drugih nepravilnosti, uključujući sukob interesa, ili slučajeva u pogledu kojih postoji sumnja, tijela Republike Armenije obavješćuju Europsku komisiju na godišnjoj skupštini relevantnog pododbora.

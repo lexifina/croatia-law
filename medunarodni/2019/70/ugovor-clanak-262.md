@@ -1,0 +1,6 @@
+# Članak 262.
+NAKNADE ŠTETE
+1. Svaka stranka osigurava da pravosudna tijela, na zahtjev oštećene strane, počinitelju povrede koji je znao ili je imao opravdanih razloga znati da sudjeluje u aktivnosti kojom se čini povreda nalože da nositelju prava plati naknadu koja odgovara stvarnoj šteti koju je pretrpio zbog povrede. Pri određivanju naknade štete pravosudna tijela:
+(a) uzimaju u obzir sve odgovarajuće aspekte, kao što su negativne gospodarske posljedice, uključujući izgubljenu dobit, koje je oštećena strana pretrpjela, bilo kakvu nepošteno stečenu dobit počinitelja povrede i, u odgovarajućim slučajevima, elemente koji nisu gospodarski čimbenici, kao što je nematerijalna šteta koja je nositelju prava prouzročena povredom ili
+(b) kao alternativu točki (a), mogu u odgovarajućim slučajevima odrediti naknadu štete kao paušalni iznos na temelju elemenata kao što je najmanji iznos tantijema ili naknada koje bi počinitelj povrede bio morao platiti da je zatražio odobrenje za upotrebu predmetnog prava intelektualnog vlasništva.
+2. Ako počinitelj povrede nije znao ili nije imao opravdanih razloga znati da sudjeluje u aktivnosti kojom se čini povreda, stranka može propisati da pravosudna tijela mogu u korist oštećene strane naložiti povrat dobiti ili plaćanje naknade štete čija se visina može unaprijed utvrditi.

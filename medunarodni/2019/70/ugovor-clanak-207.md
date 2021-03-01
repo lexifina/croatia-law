@@ -1,0 +1,3 @@
+# Članak 207.
+ZAŠTITNE MJERE
+Ako u izvanrednim okolnostima dođe do ozbiljnih poteškoća u provedbi monetarne ili tečajne politike, kada je riječ o Republici Armeniji, ili u funkcioniranju ekonomske i monetarne unije, kada je riječ o Europskoj uniji, ili ako je stranka suočena s ozbiljnim poteškoćama u vezi s platnim bilancama ili vanjskim financiranjem, ili ako postoji opasnost od tih poteškoća, dotična stranka može, tijekom razdoblja koje ne premašuje jednu godinu, poduzeti neophodne zaštitne mjere u odnosu na kretanja kapitala, plaćanja ili prijenose između Europske unije i Republike Armenije. Stranka koja donosi ili provodi zaštitne mjere odmah obavješćuje drugu stranku o donošenju mjere te, što je prije moguće, predstavlja vremenski raspored za njezino ukidanje.

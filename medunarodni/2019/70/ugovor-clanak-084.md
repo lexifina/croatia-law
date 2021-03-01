@@ -1,0 +1,2 @@
+# Članak 84.
+Stranke jačaju dijalog i suradnju na promicanju programa za dostojanstven rad Međunarodne organizacije rada (»MOR«), politike zapošljavanja, zdravlja i sigurnosti na radu, socijalnog dijaloga, socijalne zaštite, socijalne uključenosti, rodne ravnopravnosti i borbe protiv diskriminacije, čime pridonose promicanju brojnijih i boljih radnih mjesta, smanjenju siromaštva, boljoj socijalnoj koheziji, održivom razvoju i poboljšanoj kvaliteti života.

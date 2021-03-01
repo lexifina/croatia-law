@@ -1,0 +1,3 @@
+# Članak 217.
+RADIODIFUZIJSKO EMITIRANJE I PRIOPĆAVANJE JAVNOSTI
+Svaka stranka propisuje pravo kako bi se osiguralo da korisnik plaća jedinstvenu primjerenu naknadu umjetnicima izvođačima i proizvođačima fonograma ako se fonogram objavljen u komercijalne svrhe ili umnoženi primjerak takva fonograma upotrebljava za bežično radiodifuzijsko emitiranje ili za bilo kakvo priopćavanje javnosti. Svaka stranka osigurava raspodjelu takve naknade između relevantnih umjetnika izvođača i proizvođača fonograma. U nedostatku sporazuma između umjetnika izvođača i proizvođača fonograma svaka stranka može utvrditi uvjete pod kojima oni dijele tu naknadu.

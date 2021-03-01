@@ -1,0 +1,3 @@
+# Članak 261.
+ALTERNATIVNE MJERE
+Stranka može propisati da, u odgovarajućim slučajevima i na zahtjev osobe protiv koje se mogu odrediti mjere iz članka 259. ili članka 260., nadležna pravosudna tijela mogu umjesto primjene mjera predviđenih navedenim člancima naložiti da se oštećenoj stranci plati novčana naknada. Takva se novčana naknada plaća ako osoba protiv koje se mogu odrediti te mjere nije postupala ni s namjerom ni iz nehaja, ako bi se provedbom mjera iz članaka 259. i 260. toj osobi prouzročila nerazmjerna šteta i ako se plaćanje novčane naknade oštećenoj stranci čini, prema razumnoj procjeni, primjerenim.

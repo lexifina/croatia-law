@@ -1,0 +1,6 @@
+# Članak 294.
+SAVJETOVANJA
+1. Ako stranka smatra da bi se subvencijom koju je odobrila druga stranka, a koja nije obuhvaćena člankom 295., moglo negativno utjecati na njezine interese, ta stranka može izraziti svoju zabrinutost stranci koja je odobrila subvenciju i zatražiti savjetovanja o tom pitanju. Stranka kojoj je zahtjev upućen razmatra takav zahtjev u cijelosti i u dobroj namjeri.
+2. Ne dovodeći u pitanje zahtjeve u pogledu transparentnosti utvrđene člankom 293., a kako bi se riješio problem, savjetovanja su posebno usmjerena prema utvrđivanju cilja politike ili svrhe u koju se odobravaju subvencije, iznosa predmetne subvencije i podataka na temelju kojih je moguće ocijeniti negativne učinke subvencije na trgovinu i ulaganja.
+3. Kako bi omogućila provedbu savjetovanja, stranka kojoj je zahtjev upućen dostavlja informacije o predmetnoj subvenciji u roku od 60 dana od dana primitka zahtjeva.
+4. Ako stranka koja upućuje zahtjev, nakon primitka informacija o predmetnoj subvenciji, smatra da se predmetnom subvencijom na nerazmjeran način negativno utječe ili može negativno utjecati na njezine trgovinske ili ulagačke interese, stranka kojoj je zahtjev upućen poduzima sve što je u njezinoj moći da ukloni ili umanji negativne učinke te subvencije na trgovinske i ulagačke interese stranke koja upućuje zahtjev.

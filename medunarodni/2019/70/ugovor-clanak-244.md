@@ -1,0 +1,4 @@
+# Članak 244.
+IZNIMKE I ISKLJUČENJA
+1. Svaka stranka može propisati ograničene iznimke od zaštite dizajna, pod uvjetom da takve iznimke nisu neopravdano u suprotnosti s uobičajenim iskorištavanjem zaštićenih dizajna i da se njima ne dovode neopravdano u pitanje legitimni interesi nositelja zaštićenog dizajna, uzimajući u obzir legitimne interese trećih strana.
+2. Zaštita dizajna ne odnosi se na dizajne na koje utječu isključivo tehničke ili funkcionalne potrebe. Pravom dizajna posebno se ne štite obilježja izgleda proizvoda koja je nužno reproducirati u potpuno istom obliku i dimenzijama da bi se proizvod u koji je dizajn ugrađen ili na koji je dizajn primijenjen mogao mehanički spojiti s drugim proizvodom, biti smješten u drugi proizvod ili oko njega ili na njega kako bi svaki od tih proizvoda mogao obavljati svoju funkciju.

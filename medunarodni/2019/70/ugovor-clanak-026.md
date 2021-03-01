@@ -1,0 +1,2 @@
+# Članak 26.
+Upućujući na članak 25., stranke priznaju i obvezuju se na provedbu načela dobrog upravljanja u području poreza, odnosno načela transparentnosti, razmjene informacija i poštenog poreznog natjecanja, koja su države članice prihvatile na razini Europske unije. U tu svrhu, ne dovodeći u pitanje nadležnosti Europske unije i država članica, stranke poboljšavaju međunarodnu suradnju u području poreza, olakšavaju naplatu zakonitih poreznih prihoda i razvijaju mjere za djelotvornu primjenu tih načela dobrog upravljanja.

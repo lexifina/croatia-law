@@ -1,0 +1,4 @@
+# Članak 18.
+PRANJE NOVCA I FINANCIRANJE TERORIZMA
+1. Stranke surađuju kako bi spriječile upotrebu svojih financijskih i odgovarajućih nefinancijskih sustava za pranje prihoda od kriminalnih aktivnosti općenito, a posebno od kaznenih djela povezanih s drogom, kao i za potrebe financiranja terorizma. Ta se suradnja proširuje na povrat imovine ili sredstava koji potječu od prihoda ostvarenih kriminalom.
+2. Suradnjom u tom području omogućavaju se razmjene relevantnih informacija u okviru nacionalnih zakonodavstava stranaka i relevantnih međunarodnih instrumenata, kao i donošenje odgovarajućih normi za sprječavanje i suzbijanje pranja novca i financiranja terorizma koje su jednake onima koje donose relevantna međunarodna tijela koja djeluju u tom području, kao što je Radna skupina za financijske aktivnosti u području pranja novca.

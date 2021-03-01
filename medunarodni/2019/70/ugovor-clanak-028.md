@@ -1,0 +1,2 @@
+# Članak 28.
+Stranke razvijaju suradnju u cilju ostvarivanja zajedničkih politika za sprječavanje prijevara i krijumčarenja proizvoda koji podliježu trošarinama i borbu protiv tih pojava. Ta suradnja uključuje razmjenu informacija. Stranke u tu svrhu nastoje ojačati svoju suradnju u regionalnom kontekstu te u skladu s Okvirnom konvencijom Svjetske zdravstvene organizacije o nadzoru nad duhanom iz 2003.

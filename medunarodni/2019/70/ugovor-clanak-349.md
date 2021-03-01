@@ -1,0 +1,3 @@
+# Članak 349.
+PODRUČJE PRIMJENE
+Ovo se poglavlje primjenjuje na svaki daljnji sporazum koji će stranke sklopiti ili instrument financiranja koji će dogovoriti i na svaki drugi instrument Europske unije namijenjen financiranju kojemu se tijela Republike Armenije ili drugi subjekti ili osobe u nadležnosti Republike Armenije mogu pridružiti, ne dovodeći u pitanje ni jednu drugu dodatnu klauzulu kojom su obuhvaćene revizije, provjere na terenu, inspekcije, nadzor i mjere za sprječavanje prijevara, uključujući one koje provode Europski revizorski sud i Europski ured za borbu protiv prijevara (OLAF).

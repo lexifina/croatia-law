@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sveobuhvatni i pojačani sporazum o partnerstvu između Europske unije i Europske zajednice za atomsku energiju i njihovih država članica, s jedne strane, i Republike Armenije, s druge strane, sastavljen u Bruxellesu 24. studenoga 2017. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom, talijanskom i armenskom jeziku.

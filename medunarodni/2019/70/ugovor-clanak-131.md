@@ -1,0 +1,6 @@
+# Članak 131.
+OBILJEŽAVANJE I OZNAČIVANJE
+1. Ne dovodeći u pitanje članak 129. ovog Sporazuma, a u vezi s tehničkim propisima koji se odnose na zahtjeve u pogledu označivanja ili obilježavanja, stranke ponovno potvrđuju načela članka 2.2. Sporazuma o TBT-u u skladu s kojima se takvi zahtjevi ne pripremaju, ne donose niti primjenjuju radi stvaranja ili izazivanja nepotrebnih prepreka u međunarodnoj trgovini. U tu svrhu takvi zahtjevi u pogledu označivanja ili obilježavanja ne ograničavaju trgovinu više nego što je to potrebno za ispunjenje legitimnog cilja, uzimajući u obzir rizike koji bi nastali neispunjenjem tog cilja. Stranke promiču upotrebu međunarodno usklađenih zahtjeva u pogledu obilježavanja. Prema potrebi, stranke nastoje prihvatiti odstranjivo ili privremeno označivanje.
+2. Kad je riječ o zahtjevima u pogledu obveznog označivanja ili obilježavanja, stranke:
+(a) nastoje svesti na najmanju moguću mjeru svoje potrebe u pogledu označivanja ili obilježavanja u međusobnoj trgovini, osim za potrebe zaštite zdravlja, sigurnosti ili okoliša, ili zbog drugih opravdanih ciljeva javnog poretka; i
+(b) zadržavaju pravo zahtijevati da informacije na etiketi ili oznakama budu na jeziku koji odredi stranka.

@@ -1,0 +1,3 @@
+# Članak 360.
+POVJERLJIVOST
+Informacije priopćene ili pribavljene u bilo kojem obliku na temelju ovog poglavlja obuhvaćene su poslovnom tajnom i zaštićene na isti način na koji su slične informacije zaštićene pravom Republike Armenije te odgovarajućim odredbama primjenjivima na institucije Europske unije. Takve se informacije ne smiju priopćiti osobama osim onima u institucijama Europske unije, državama članicama ili Republici Armeniji kojima su one potrebne za obnašanje njihove službene dužnosti i ne smiju se upotrebljavati u druge svrhe osim kako bi se osigurala djelotvorna zaštita financijskih interesa stranaka.

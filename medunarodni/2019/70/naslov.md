@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sveobuhvatnog i pojačanog sporazuma o partnerstvu između Europske unije i Europske zajednice za atomsku energiju i njihovih država članica, s jedne strane, i Republike Armenije, s druge strane

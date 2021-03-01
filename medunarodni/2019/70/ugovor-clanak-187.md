@@ -1,0 +1,3 @@
+# Članak 187.
+SAMOREGULATORNE ORGANIZACIJE
+Ako stranka zahtijeva članstvo ili sudjelovanje u samoregulatornom tijelu, burzi ili tržištu vrijednosnih papira ili budućnosnica, klirinškoj agenciji ili bilo kakvoj drugoj organizaciji ili udruženju, ili pristup njima za pružatelje financijskih usluga druge stranke, a da bi oni mogli pružati financijske usluge na jednakoj osnovi kao i pružatelji financijskih usluga te stranke, ili ako stranka tim subjektima izravno ili neizravno pruža povlastice ili pogodnosti u pružanju financijskih usluga, stranka osigurava poštovanje obveza iz članaka 144. i 150.

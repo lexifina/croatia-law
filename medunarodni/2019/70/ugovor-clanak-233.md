@@ -1,0 +1,15 @@
+# Članak 233.
+PODRUČJE PRIMJENE ZAŠTITE OZNAKA ZEMLJOPISNOG PODRIJETLA
+1. Svaka stranka zaštićuje oznake zemljopisnog podrijetla iz Priloga X. od:
+(a) svake izravne ili neizravne komercijalne upotrebe zaštićenog naziva za usporedive proizvode koji nisu u skladu sa specifikacijama proizvoda zaštićenog naziva ili kojom se iskorištava ugled oznake zemljopisnog podrijetla;
+(b) svake zloupotrebe, oponašanja ili podsjećanja, čak i ako je naznačeno pravo podrijetlo proizvoda ili ako je zaštićeni naziv proizvoda preveden, transkribiran, transliteriran ili ako mu je dodan izraz kao što su »stil«, »tip«, »metoda«, »kako se proizvodi u«, »imitacija«, »aroma« »kao« ili slično;
+(c) svake druge lažne oznake ili oznake koja dovodi u zabludu u pogledu izvora, podrijetla, prirode ili bitnih svojstava proizvoda i koja može stvoriti pogrešnu predodžbu o njegovu podrijetlu te koja se nalazi na unutarnjoj ili vanjskoj ambalaži, na promidžbenim materijalima, dokumentima koji se odnose na predmetni proizvod ili pakiranju proizvoda u spremnik i
+(d) svakog drugog postupka koji potrošača može dovesti u zabludu u pogledu pravog podrijetla proizvoda.
+2. Zaštićene oznake zemljopisnog podrijetla ne postaju generičke na područjima stranaka.
+3. Ako su oznake zemljopisnog podrijetla u cijelosti ili djelomično homonimi, zaštita se odobrava svakoj oznaci zemljopisnog podrijetla, pod uvjetom da se upotrebljava u dobroj vjeri i uz odgovarajuće uzimanje u obzir lokalne i tradicionalne upotrebe te stvarnog rizika od stvaranja zabune.
+Ne dovodeći u pitanje članak 23. Sporazuma o TRIPS-u, stranke zajednički utvrđuju praktične uvjete upotrebe u okviru kojih će razlikovati homonimne oznake zemljopisnog podrijetla, uzimajući u obzir potrebu da se osigura ravnopravan tretman predmetnih proizvođača te da se potrošači ne dovode u zabludu.
+Ne registriraju se homonimi koji potrošače dovode u zabludu o tome da proizvod dolazi s nekog drugog područja, čak i ako je naziv točan s obzirom na stvarno područje, regiju ili mjesto podrijetla predmetnog proizvoda.
+4. Ako stranka u okviru pregovora s trećom zemljom predloži zaštitu oznake zemljopisnog podrijetla te treće zemlje, a taj je naziv homonim oznake zemljopisnog podrijetla druge stranke koja je zaštićena u skladu s ovim pododjeljkom, potonju se o tome obavješćuje i ima mogućnost očitovanja prije nego što oznaka zemljopisnog podrijetla treće zemlje postane zaštićena.
+5. Ničime se u ovom pododjeljku ne obvezuje stranku da zaštiti oznaku zemljopisnog podrijetla druge stranke koja nije zaštićena ili je prestala biti zaštićena u svojoj zemlji podrijetla.
+Svaka stranka obavješćuje drugu stranku ako oznaka zemljopisnog podrijetla prestane biti zaštićena u svojoj državi podrijetla. To se obavješćivanje obavlja u skladu s postupcima iz članka 240. stavka 3.
+6. Ničime se u ovom Sporazumu ne dovodi u pitanje pravo osobe da se u trgovačkom prometu koristi svojim imenom ili imenom svojeg prethodnika u poslovanju, osim ako se to ime upotrebljava tako da se potrošače dovodi u zabludu.

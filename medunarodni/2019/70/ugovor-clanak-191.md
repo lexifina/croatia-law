@@ -1,0 +1,26 @@
+# Članak 191.
+DEFINICIJE
+1. Za potrebe ovog pododjeljka i odjeljaka B, C i D:
+(a) »međunarodni pomorski promet« znači prijevoz od vrata do vrata i multimodalni prijevoz, koji znače prijevoz robe na više od jednog načina prijevoza i uključuju pomorsku dionicu, s jedinstvenom prijevoznom ispravom i u tu svrhu uključuje pravo na neposredno sklapanje ugovora s pružateljima drugih načina prijevoza;
+(b) »usluge pretovara tereta u pomorstvu« znači djelatnosti koje obavljaju trgovačka društva za utovar i istovar, uključujući poduzeća koja upravljaju terminalima, ali isključujući neposrednu djelatnost lučkih radnika, ako je ta radna snaga organizirana neovisno o trgovačkim društvima za utovar i istovar ili trgovačkim društvima za upravljanje terminalima. Obuhvaćene djelatnosti uključuju organizaciju i nadzor:
+i. utovara tereta na brod ili istovara tereta s broda;
+ii. privezivanja ili odvezivanja tereta;
+iii. prihvata ili isporuke i čuvanja tereta prije otpreme ili nakon istovara;
+(c) »usluge carinjenja« ili »usluge carinskog posredovanja« znači djelatnosti koje se sastoje od obavljanja carinskih formalnosti za drugu stranku u vezi s uvozom, izvozom ili prijevozom tereta, bez obzira na to pruža li tu uslugu pružatelj usluga u okviru svoje osnovne ili sporedne djelatnosti;
+(d) »usluge kontejnerske stanice i terminala« znači djelatnosti koje se sastoje od skladištenja kontejnera, u luci ili na kopnu, radi njihova punjenja/pražnjenja, popravka ili pripreme za prijevoz;
+(e) »usluge pomorskih agencija« znači djelatnosti koje se sastoje od zastupanja u svojstvu agenta, na određenom zemljopisnom području, poslovnih interesa jednog ili više brodara ili brodarskih društava za sljedeće potrebe:
+i. stavljanje na tržište i prodaju usluga pomorskog prometa i srodnih usluga, od izrade ponude do izdavanja računa i teretnica u ime trgovačkih društava, dobavu i preprodaju potrebnih srodnih usluga, pripremu dokumentacije i pružanje poslovnih informacija i
+ii. organiziranje, u ime trgovačkih društava, pristanka brodova ili preuzimanja tereta kada je to potrebno;
+(f) »usluge otpreme tereta« znači djelatnosti koje se sastoje od organiziranja i praćenja operacija otpreme u ime otpremnika, osiguranjem usluga prijevoza i povezanih usluga, pripremom dokumentacije i pružanjem poslovnih informacija i
+(g) »usluge razvoza« znači prethodni i daljnji prijevoz međunarodnog tereta morskim putem, a posebno prijevoz robe u kontejnerima, između luka koje se nalaze u stranci.
+2. U odnosu na međunarodni pomorski promet, stranke osiguravaju djelotvornu primjenu načela neograničenog pristupa teretu na komercijalnoj osnovi, slobodu pružanja međunarodnih pomorskih usluga te nacionalni tretman u okviru pružanja takvih usluga.
+3. S obzirom na postojeće razine liberalizacije između stranaka u međunarodnom pomorskom prometu, svaka stranka:
+(a) djelotvorno primjenjuje načelo neograničenog pristupa međunarodnim pomorskim tržištima i trgovini na komercijalnoj i nediskriminirajućoj osnovi i
+(b) brodovima koji plove pod zastavom druge stranke ili kojima upravljaju pružatelji usluga druge stranke odobrava tretman koji nije nepovoljniji od onoga koji odobrava svojim brodovima ili brodovima trećih zemalja, ovisno o tome koji je tretman povoljniji, s obzirom na, među ostalim, pristup lukama, upotrebu infrastrukture i lučkih usluga te pomoćnih pomorskih usluga kao i s tim povezane naknade i davanja, carinske objekte i dodjeljivanje vezova i uređaja za utovar i istovar.
+4. Primjenjujući načela iz stavka 3. svaka stranka:
+(a) ne uključuje dogovore o raspodjeli tereta u buduće sporazume s trećim zemljama o uslugama u međunarodnom pomorskom prometu, uključujući prijevoz suhog i tekućeg rasutog tereta i linijski promet, a takve dogovore o raspodjeli tereta koji postoje u prethodnim sporazumima otkazuje u razumnom roku i
+(b) nakon stupanja na snagu ovog Sporazuma, ukida i suzdržava se od uvođenja jednostranih mjera i upravnih, tehničkih i drugih prepreka koje bi mogle činiti prikriveno ograničenje ili imati diskriminirajuće učinke na slobodno pružanje usluga u međunarodnom pomorskom prometu.
+5. Svaka stranka pružateljima usluga u međunarodnom pomorskom prometu druge stranke dopušta da imaju poslovne jedinice na njezinu području pod uvjetima poslovnog nastana i poslovanja koji nisu nepovoljniji od onih koje odobravaju vlastitim pružateljima usluga ili onima iz trećih zemalja, ovisno o tome koji su povoljniji.
+6. Svaka stranka pružateljima usluga u međunarodnom pomorskom prometu druge stranke pod razumnim i nediskriminirajućim uvjetima u luci osigurava sljedeće usluge: peljarenje, tegljenje i pomoć pri tegljenju, opskrbu hranom, gorivom i vodom, prikupljanje otpada i zbrinjavanje balastnih voda, usluge lučke kapetanije, pomoć pri navigaciji, usluge hitnih popravaka, sidrenje, privez i usluge priveza te operativne obalne usluge nužne za operativnost broda, uključujući komunikacije, opskrbu vodom i električnom energijom.
+7. Svaka stranka dopušta prijevoz opreme kao što su prazni kontejneri, koji se ne prevoze kao teret uz plaćanje, između luka Republike Armenije ili između luka države članice.
+8. Svaka stranka, uz odobrenje nadležnog tijela, dopušta pružateljima usluga u međunarodnom pomorskom prometu druge stranke pružanje usluga razvoza između njihovih nacionalnih luka.

@@ -1,0 +1,13 @@
+# Članak 250.
+GRAĐANSKI SUDSKI POSTUPCI I PRAVNA SREDSTVA ZA POSLOVNE TAJNE
+1. Svaka stranka osigurava da nijednoj osobi koja sudjeluje u građanskim sudskim postupcima iz članka 249. ili ima pristup dokumentima koji čine dio tih pravnih postupaka nije dopuštena upotreba ili otkrivanje nijedne poslovne tajne ili navodne poslovne tajne koju su nadležna pravosudna tijela, u odgovoru na propisno obrazložen zahtjev zainteresirane strane, utvrdila kao povjerljivu i za koju je osoba saznala na temelju takvog sudjelovanja ili pristupa.
+2. U građanskim sudskim postupcima iz članka 249. svaka stranka osigurava da njezina pravosudna tijela imaju barem sljedeće ovlasti:
+(a) naložiti privremene mjere za sprječavanje pribavljanja, upotrebe ili otkrivanja poslovne tajne na način koji je u suprotnosti s poštenim poslovnim praksama;
+(b) naložiti sudsku zabranu kako bi se spriječilo pribavljanje, upotreba ili otkrivanje poslovne tajne na način koji je u suprotnosti s poštenim poslovnim praksama;
+(c) naložiti osobi koja je znala ili trebala znati da pribavlja, upotrebljava ili otkriva poslovnu tajnu na način koji je u suprotnosti s poštenim poslovnim praksama da nositelju poslovne tajne plati naknadu štete koja odgovara stvarnoj šteti pretrpljenoj zbog takvog pribavljanja, upotrebe ili otkrivanja poslovne tajne;
+(d) poduzeti posebne mjere za očuvanje povjerljivosti svake poslovne tajne ili navodne poslovne tajne predočene u građanskim postupcima koji se odnose na navodno pribavljanje, upotrebu ili otkrivanje poslovne tajne na način koji je u suprotnosti s poštenim poslovnim praksama; takve posebne mjere mogu, u skladu s domaćim pravom relevantne stranke, uključivati mogućnost:
+i. ograničavanja pristupa određenim dokumentima u cijelosti ili djelomično;
+ii. ograničavanja pristupa raspravama i zapisniku ili transkriptu s tih rasprava i
+iii. stavljanja na raspolaganje verzije sudske odluke koja nije povjerljiva i u kojoj su odlomci koji sadržavaju poslovne tajne uklonjeni ili redigirani i
+(e) izreći sankcije protiv stranaka ili drugih osoba koje podliježu sudskoj nadležnosti zbog povrede pravnih sredstava ili mjera koje je sud donio u skladu sa stavkom 1. ili točkom (d) ovog stavka u pogledu zaštite poslovne tajne ili navodne poslovne tajne predočene u tim postupcima.
+3. Od stranaka se ne zahtijeva da propišu sudske postupke i pravna sredstva iz članka 249. za slučaj postupanja koje je u suprotnosti s poštenim poslovnim praksama, u skladu s mjerodavnim domaćim pravom, radi otkrivanja propusta, prijestupa ili nezakonite aktivnosti ili u svrhu zaštite legitimnog interesa priznatog pravom.

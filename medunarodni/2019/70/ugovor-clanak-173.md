@@ -1,0 +1,5 @@
+# Članak 173.
+OGRANIČENI RESURSI
+1. Dodjela i davanje prava korištenja ograničenih resursa, uključujući radiofrekvencijski spektar, brojeve i pravo puta, provode se na otvoren, objektivan, pravodoban, transparentan, nediskriminirajući i razmjeran način. Svaka stranka temelji svoje postupke na objektivnim, transparentnim, nediskriminirajućim i razmjernim kriterijima.
+2. Trenutačno stanje dodijeljenih frekvencijskih pojaseva se objavljuje, ali nije potrebno dati detaljan opis radiofrekvencijskog spektra dodijeljenog za određene državne potrebe.
+3. Svaka stranka zadržava pravo na uspostavu i primjenu mjera upravljanja spektrom i frekvencijama koje mogu dovesti do ograničenja broja pružatelja elektroničkih komunikacijskih usluga, pod uvjetom da to čini na način koji je u skladu s ovim Sporazumom. To pravo uključuje mogućnost dodjele frekvencijskih pojaseva uzimajući u obzir postojeće i buduće potrebe i dostupnost spektra. Mjere kojima stranka dodjeljuje spektar i upravlja frekvencijama same se po sebi ne smatraju mjerama koje nisu u skladu s člancima 144., 149. i 150.

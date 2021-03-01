@@ -1,0 +1,13 @@
+# Članak 123.
+CARINSKA SURADNJA
+1. Stranke jačaju suradnju u području carine kako bi olakšale trgovinu, osigurale transparentno trgovinsko okruženje, poboljšale sigurnost lanca opskrbe, promicale zaštitu potrošača, zaustavile tokove robe kojom se povređuju prava intelektualnog vlasništva i kako bi se borile protiv krijumčarenja i prijevare.
+2. U svrhu provedbe ciljeva iz stavka 1. i u granicama raspoloživih resursa, stranke surađuju, među ostalim, radi:
+(a) poboljšanja carinskog zakonodavstva, propisa, praksi i povezanih obvezujućih odluka te pojednostavnjenja carinskih postupaka u skladu s međunarodnim konvencijama i normama primjenjivima u području carine i olakšavanja trgovine, uključujući one koje su razvile Svjetska trgovinska organizacija i Svjetska carinska organizacija, posebno Međunarodnu konvenciju o pojednostavnjenju i usklađivanju carinskih postupaka, kako je izmijenjena (»Revidirana konvencija iz Kyota«), i uzimajući u obzir instrumente i najbolje prakse koje je razvila Europska unija, uključujući carinske sheme (customs blueprints);
+(b) uspostave modernih carinskih sustava, uključujući moderne tehnologije za carinjenje, odredbi za ovlaštene gospodarske subjekte, automatske analize i kontrola koji su utemeljeni na riziku, pojednostavnjenih postupaka puštanja robe u promet, kontrola nakon carinjenja, transparentnog utvrđivanja carinske vrijednosti i odredaba za partnerstvo između carinskih tijela i poduzeća;
+(c) poticanja najviših standarda u pogledu integriteta u području carine, posebno na granici, primjenjujući mjere koje su odraz načela utvrđenih u Deklaraciji Vijeća za carinsku suradnju o dobrom upravljanju i integritetu u području carine, kako je zadnje izmijenjena u lipnju 2003. (»Revidirana deklaracija iz Arushe Svjetske carinske organizacije«);
+(d) razmjene najbolje prakse, kao i osiguravanja osposobljavanja i tehničke podrške za planiranje i izgradnju kapaciteta te za osiguravanje najviših standarda u pogledu integriteta;
+(e) razmjene, prema potrebi, relevantnih informacija i podataka u skladu s pravnim zahtjevima svake stranke o povjerljivosti osjetljivih podataka i zaštiti osobnih podataka;
+(f) sudjelovanja, kada je to svrhovito i primjereno, u koordiniranim carinskim aktivnostima između carinskih tijela stranaka;
+(g) uspostave, kada je to svrhovito i primjereno, uzajamnog priznavanja programa ovlaštenih gospodarskih subjekata i carinskih kontrola, uključujući jednakovrijedne mjere za olakšavanje trgovine;
+(h) pronalaženja, kada je to svrhovito i primjereno, mogućnosti međusobnog povezivanja dotičnih sustava carinskog provoza i
+(i) poboljšanja provedbe obveza povezanih s carinom u trgovinskim odnosima između Europske unije i Republike Armenije, uključujući suradnju u pogledu podrijetla robe.

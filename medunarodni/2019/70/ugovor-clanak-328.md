@@ -1,0 +1,6 @@
+# Članak 328.
+RAZUMNI ROK ZA POSTUPANJE U SKLADU S KONAČNIM IZVJEŠĆEM
+1. Ako postupanje u skladu s konačnim izvješćem nije moguće odmah, stranke se nastoje dogovoriti o roku potrebnom za postupanje u skladu s konačnim izvješćem. U takvom slučaju, stranka protiv koje je uložen prigovor najkasnije 30 dana nakon primitka konačnog izvješća stranci koja je uložila prigovor i Odboru za partnerstvo dostavlja obavijest o vremenu koje će joj biti potrebno za usklađivanje (»razuman rok«).
+2. U slučaju neslaganja između stranaka u vezi s trajanjem razumnog roka, stranka koja je uložila prigovor može, u roku od 20 dana od primitka obavijesti iz stavka 1., u pisanom obliku dostaviti zahtjev da izvorno arbitražno vijeće odredi trajanje razumnog roka. Takav se zahtjev istodobno dostavlja drugoj stranci i Odboru za partnerstvo. Arbitražno vijeće svoju odluku o razumnom roku strankama i Odboru za partnerstvo dostavlja u roku od 20 dana od dana primitka zahtjeva.
+3. Stranka protiv koje je uložen prigovor u pisanom obliku obavješćuje stranku koja je uložila prigovor o svojemu napretku u postupanju u skladu s konačnim izvješćem. Takva obavijest sastavlja se u pisanom obliku i dostavlja najkasnije mjesec dana prije isteka razumnog roka.
+4. Stranke mogu sporazumno produljiti razumni rok.

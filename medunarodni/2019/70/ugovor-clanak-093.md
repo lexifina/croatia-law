@@ -1,0 +1,2 @@
+# Članak 93.
+Stranke surađuju u području obrazovanja i osposobljavanja radi jačanja suradnje i političkog dijaloga u cilju usklađivanja sustava obrazovanja i osposobljavanja u Republici Armeniji s politikama i praksama Europske unije. Stranke surađuju u promicanju cjeloživotnog učenja i potiču suradnju i transparentnost na svim razinama obrazovanja i osposobljavanja, uz poseban naglasak na strukovno i visoko obrazovanje.

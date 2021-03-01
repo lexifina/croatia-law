@@ -1,0 +1,2 @@
+# Članak 62.
+Stranke promiču suradnju u pogledu razvoja informacijskog društva kako bi građani i poduzeća imali koristi od široke dostupnosti informacijskih i komunikacijskih tehnologija (»ICT«) te od bolje kvalitete usluga po pristupačnim cijenama. Ta bi se suradnja trebala usmjeriti na olakšavanje pristupa tržištima elektroničkih komunikacija te bi trebala potaknuti tržišno natjecanje i ulaganja u sektor.

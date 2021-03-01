@@ -1,0 +1,2 @@
+# Članak 96.
+Stranke će promicati kulturnu suradnju u skladu s načelima sadržanima u Konvenciji Organizacije Ujedinjenih naroda za obrazovanje, znanost i kulturu (»UNESCO«) o zaštiti i promicanju raznolikosti kulturnih izričaja iz 2005. Stranke će održavati redoviti dijalog o politikama u područjima od zajedničkog interesa, uključujući razvoj kulturnih industrija u Europskoj uniji i Republici Armeniji. Suradnjom stranaka ojačat će se međukulturni dijalog, među ostalim sudjelovanjem kulturnog sektora i civilnog društva iz Europske unije i Republike Armenije.

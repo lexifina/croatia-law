@@ -1,0 +1,8 @@
+# Članak 219.
+ZAŠTITA TEHNOLOŠKIH MJERA
+1. Svaka stranka osigurava odgovarajuću pravnu zaštitu protiv izbjegavanja svih djelotvornih tehnoloških mjera, koja dotična osoba poduzima svjesno ili uz postojanje opravdanih razloga za svijest o tome da ona nastoji ostvariti taj cilj.
+2. Svaka stranka osigurava odgovarajuću pravnu zaštitu protiv proizvodnje, uvoza, distribucije, prodaje, iznajmljivanja, oglašavanja u svrhu prodaje ili iznajmljivanja, ili posjedovanja uređaja, proizvoda ili komponenata u komercijalne svrhe ili pružanja usluga koje:
+(a) se promiču, oglašavaju ili stavljaju na tržište u svrhu izbjegavanja djelotvornih tehnoloških mjera;
+(b) osim izbjegavanja djelotvornih tehnoloških mjera imaju samo ograničenu komercijalnu svrhu ili upotrebu ili
+(c) su ponajprije osmišljene, proizvedene, prilagođene ili se izvode u svrhu omogućavanja ili olakšavanja izbjegavanja svih djelotvornih tehnoloških mjera.
+3. Za potrebe ovog poglavlja izraz »tehnološke mjere« znači svaka tehnologija, uređaj ili komponenta koja je, u uobičajenom okviru njezina rada, osmišljena za sprječavanje ili ograničavanje radnji, u pogledu djela i drugih sadržaja, koje nije odobrio nositelj autorskog prava ili srodnog prava kako je predviđeno nacionalnim zakonodavstvom. Tehnološke mjere smatraju se »djelotvornima« ako nositelji prava kontroliraju upotrebu zaštićenog djela ili drugog sadržaja primjenom postupka nadzora pristupa ili postupka zaštite, kao što su kodiranje, premetanja ili druge transformacije djela ili drugog sadržaja, ili primjenom mehanizma nadzora umnožavanja kojima se postiže cilj zaštite.
