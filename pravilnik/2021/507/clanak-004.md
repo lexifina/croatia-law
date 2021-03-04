@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Raspodjela kapaciteta uzgoja tuna iz članka 2. stavka 1. ovoga Pravilnika utvrđuje se za kalendarsku godinu na sljedeći način:
+a) 30 % ukupnog kapaciteta uzgoja raspoređuje se ravnomjerno na sve nositelje dozvole za uzgoj tuna.
+b) 60 % ukupnog kapaciteta uzgoja raspoređuje se prema udjelu svakog nositelja dozvole za uzgoj tuna u ukupnoj prodaji tuna kako je zavedeno u Informacijskom sustavu ribarstva Ministarstva poljoprivrede (u daljnjem tekstu Ministarstvo) na temelju očevidnika za akvakulturu koji se odnose na zadnje petogodišnje razdoblje koje prethodi kalendarskoj godini za koju se utvrđuje kapacitet.
+c) 10 % ukupnog kapaciteta uzgoja predstavlja slobodni kapacitet.
+(2) U slučaju opravdanog razloga Ministarstvo može najkasnije do 1. travnja kalendarske godine dodijeliti dio slobodnog kapaciteta iz stavka 1. točke c) ovoga članka utvrđen za tu kalendarsku godinu pojedinom nositelju dozvole za uzgoj tuna koji je stekao pravo na dio ukupnog kapaciteta koji se raspodjeljuje na temelju stavka 1. točke b) ovoga članka pod uvjetom da ovo povećanje kapaciteta ne prelazi ograničenja koja su definirana lokacijskom dozvolom i Ugovorom o koncesiji za predmetnu lokaciju na kojoj se obavlja uzgoj.
+(3) Izračun kapaciteta uzgoja tuna za svakog nositelja dozvole za uzgoj tuna te slobodni kapacitet propisuju se Prilogom 1. koji čini sastavni dio ovoga Pravilnika najkasnije do 25. siječnja kalendarske godine na koju se odnosi izračun.

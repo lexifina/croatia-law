@@ -1,0 +1,2 @@
+# Članak 8.
+Iznimno od članka 4. stavka 3. i članka 5. stavka 5. ovoga Pravilnika izračun kapaciteta uzgoja tuna za svakog nositelja dozvole za uzgoj tuna te slobodni kapacitet za 2021. godinu i izračun ulazne količine ulovljenih divljih tuna za svakog nositelja dozvole za uzgoj tuna te slobodna ulazna količina za 2021. godinu propisuju se danom stupanja na snagu ovog Pravilnika, pri čemu se petogodišnjim razdobljem iz članka 4. stavka 1. točke b) i članka 5. stavka 1. točke b) ovoga pravilnika smatra razdoblje od 2015. do 2019. godine.

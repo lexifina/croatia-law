@@ -1,0 +1,9 @@
+# Članak 5.
+(1) Raspodjela ulazne količine ulovljenih divljih tuna (u daljnjem tekstu: ulazna količina) iz članka 2. stavka 2. ovoga Pravilnika utvrđuje se na razini kalendarske godine na sljedeći način:
+a) 30 % ulazne količine raspoređuje se ravnomjerno na sve nositelje dozvole za uzgoj tuna.
+b) 60 % ulazne količine raspoređuje se prema udjelu svakog nositelja dozvole za uzgoj tuna u ukupnoj prodaji tuna kako je zavedeno u Informacijskom sustavu ribarstva Ministarstva na temelju očevidnika za akvakulturu u petogodišnjem razdoblju koje prethodi kalendarskog godini za koju se utvrđuje kapacitet.
+c) 10 % ulazne količine predstavlja slobodnu ulaznu količinu.
+(2) U slučaju opravdanog razloga Ministarstvo može najkasnije do 1. travnja kalendarske godine dodijeliti dio slobodne ulazne količine iz stavka 1. točke c) ovoga članka utvrđen za tu kalendarsku godinu pojedinom nositelju dozvole za uzgoj tuna koji je stekao pravo na dio ulazne količine koja se raspodjeljuje na temelju stavka 1. točke b) ovoga članka.
+(3) Ne dovodeći u pitanje raspodjelu ulazne količine, nijedan nositelj dozvole za uzgoj tuna ne može na uzgajalište unijeti više od 25 % ukupne kvote Republike Hrvatske namijenjene za ribolov mrežama plivaricama tunolovkama, pri čemu se unosom na uzgajalište smatra isključivo prvo stavljanje u uzgojni kavez.
+(4) Nositelju dozvole za uzgoj tuna može se odobriti unos ulazne količine koja nadilazi ograničenje iz stavka 3. ovoga članka za najviše 15 % u kojem slučaju nasađeni višak mora biti pušten ili ustupljen drugom nositelju dozvole za uzgoj tuna najkasnije od kraja kalendarske godine u kojoj je ta količina prvi put stavljena u uzgojni kavez.
+(5) Izračun ulazne količine tuna za svakog nositelja dozvole za uzgoj tuna te slobodna ulazna količina propisuju se Prilogom 1. ovoga Pravilnika najkasnije do 25. siječnja kalendarske godine na koju se odnosi izračun.
