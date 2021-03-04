@@ -1,0 +1,3 @@
+## Dio izvješća skrbnika o osobi štićenika
+# Članak 22.
+Dio izvješća skrbnika o osobi štićenika treba sadržavati podatke o tome gdje se štićenik u izvještajnom razdoblju nalazio (u svojoj obitelji, u udomiteljskoj obitelji, u ustanovi), zdravstveno stanje štićenika (ako je bolestan opis i trajanje bolesti, podatke o liječenju), čime se štićenik bavio (radio - gdje i s kakvim uspjehom, školovao, stručno osposobljavao - s kakvim uspjehom i slično), te sve drugo značajno za osobu štićenika.

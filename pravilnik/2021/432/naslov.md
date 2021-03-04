@@ -1,0 +1,1 @@
+Pravilnik o načinu vođenja očevidnika i spisa predmeta osoba pod skrbništvom, načinu popisa i opisa njihove imovine, podnošenju izvješća i polaganju računa skrbnika te sadržaju i obliku anticipiranih naredbi
