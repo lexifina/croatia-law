@@ -1,0 +1,1 @@
+Odluka o oslobođenju od obveze plaćanja zakupnine, najamnine i naknade za korištenje stanova i poslovnih prostora u vlasništvu Republike Hrvatske zbog potresa koji je pogodio područje Sisačko- moslavačke županije, Karlovačke županije, Zagrebačke županije, Krapinsko-zagorske županije i Grada Zagreba
