@@ -1,0 +1,10 @@
+## Iskustvo članova nadzornog odbora
+# Članak 9.
+(1) Hrvatska narodna banka smatrat će u smislu članka 45. stavka 1. točke 2. Zakona o kreditnim institucijama odgovarajućim iskustvom:
+1) iskustvo stečeno radom na razini uprave, razini neposredno ispod razine uprave i razini nadzornog odbora ili istovjetnim razinama u trgovačkim društvima koja imaju osnovan upravni odbor, uz posjedovanje širokoga praktičnoga ili teoretskog znanja iz područja bankovnih i financijskih usluga
+2) iskustvo na ključnim rukovodećim mjestima u tijelu nadležnom za nadzor nad kreditnim ili financijskim institucijama
+3) iskustvo stečeno akademskim radom i
+4) iskustvo stečeno radom u tijelima državne uprave ili javnopravnim tijelima na ključnim rukovodećim mjestima s visokim stupnjem samostalnosti.
+(2) Pod odgovarajućim iskustvom iz stavka 1. ovog članka podrazumijeva se pet godina recentnog radnog iskustva za člana nadzornog odbora.
+(3) Hrvatska narodna banka provjeravat će pri procjeni iskustva kandidata za člana nadzornog odbora funkcije koje je prethodno obnašao i uz to dodijeljene mu nadležnosti, veličinu društva u kojemu je obnašao dužnosti, djelatnost društva i njegove pretežite aktivnosti, odnosno ima li kandidat dovoljno iskustva da bi mogao kritički preispitivati odluke i djelotvorno nadzirati upravu kreditne institucije te ispunjavati druge obveze propisane za člana nadzornog odbora.
+(4) Iznimno od stavka 2. ovog članka, Hrvatska narodna banka može smatrati da kandidat za člana nadzornog odbora ima odgovarajuće radno iskustvo iako nema navedeni broj godina radnog iskustva iz stavka 2. ovog članka, ako kreditna institucija detaljno obrazloži razloge i dostavi dokaze da kandidat posjeduje druge odgovarajuće kvalitete u vezi s iskustvom poput specijalističkog znanja i stečenog iskustva koje je potrebno u kreditnoj instituciji u kojoj se kandidat za člana nadzornog odbora imenuje, iznimno uspješne profesionalne karijere i posebnog traženo iskustvo koje će odgovarati posebnoj ulozi i područjima nadležnosti koje će kandidat za člana nadzornog odbora u kreditnoj instituciji pokrivati.
