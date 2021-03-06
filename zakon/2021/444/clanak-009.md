@@ -1,0 +1,7 @@
+# Članak 9.
+Članak 87. mijenja se i glasi:
+»Novčanom kaznom od 20.000,00 do 70.000,00 kuna kaznit će se za prekršaj izvršno tijelo jedinice lokalne i područne (regionalne) samouprave ako:
+- ne osnuje, ne financira, ne oprema, ne osposobljava te ne uvježbava operativne snage sukladno usvojenim smjernicama i planu razvoja sustava civilne zaštite (članak 17. stavak 3. podstavak 6.)
+- ne izradi i ne predloži predstavničkom tijelu procjenu rizika od velikih nesreća i redovito ne ažurira procjene rizika i plan djelovanja civilne zaštite (članak 17. stavak 3. podstavak 7.)
+- ne osigura uvjete za premještanje, sklanjanje, evakuaciju i zbrinjavanje te izvršavanje zadaća u provedbi drugih mjera civilne zaštite u zaštiti i spašavanju građana, materijalnih i kulturnih dobara i okoliša (članak 17. stavak 3. podstavak 8.)
+- ne donese Vanjski plan ili njegove izmjene i dopune za područje postrojenja, odnosno grupu područja postrojenja koju određuje tijelo državne uprave nadležno za zaštitu okoliša zbog mogućeg domino-efekta, u roku od godinu dana od donošenja odluke Ministarstva o izradi Vanjskog plana ili njegovih izmjena i dopuna te svim osobama koje bi mogle imati značajne materijalne i zdravstvene posljedice zbog nastanka velike nesreće u području postrojenja ili grupi područja postrojenja, ne pruži redovito i u najprimjerenijem obliku jasne i lako razumljive, preispitane i usklađene informacije o sigurnosnim mjerama i nužnom ponašanju u slučaju velike nesreće na području svoje nadležnosti (članak 17. stavak 5.).«.
