@@ -1,0 +1,1 @@
+Odluka o davanju ovlasti Središnjem državnom uredu za obnovu i stambeno zbrinjavanje da korisnike stambenih jedinica u vlasništvu Republike Hrvatske na području Sisačko-moslavačke i Karlovačke županije privremeno oslobodi plaćanja najamnine zbog posljedica potresa nakon 28. prosinca 2020. godine

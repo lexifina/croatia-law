@@ -1,0 +1,1 @@
+Na temelju članka 1., članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.), a u vezi s člankom 24. stavkom 1. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 4. ožujka 2021. donijela

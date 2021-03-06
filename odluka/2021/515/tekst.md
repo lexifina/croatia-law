@@ -1,0 +1,10 @@
+I.
+Ovlašćuje se Središnji državni ured za obnovu i stambeno zbrinjavanje (u daljnjem tekstu: Središnji državni ured) da, u ime Republike Hrvatske, zbog posljedica potresa koji su nakon 28. prosinca 2020. pogodili područje Sisačko-moslavačke županije, oslobodi od obveze plaćanja najamnine korisnike (najmoprimce) stambenih jedinica u vlasništvu Republike Hrvatske, kojima upravlja Središnji državni ured, i to:
+- u razdoblju od 1. siječnja do 30. lipnja 2021. sve korisnike (najmoprimce), osim onih na području Općine Topusko i gradova Novske i Kutine, na kojem području se oslobađaju obveze plaćanja najamnine korisnici (najmoprimci) samo onih stambenih jedinica koje su temeljem procjene ovlaštenih statičara označene kao N1 (neuporabljivo - zbog vanjskog utjecaja) ili N2 (neuporabljivo - zbog oštećenja) ili PN1 (potreban detaljan pregled) ili PN2 (potrebne mjere hitne intervencije)
+- u narednom razdoblju od 1. srpnja 2021. do osiguranja odgovarajućeg stambenog zbrinjavanja, korisnike (najmoprimce) onih stambenih jedinica koje su na temelju procjene ovlaštenih statičara označene kao N1 (neuporabljivo - zbog vanjskog utjecaja) ili N2 (neuporabljivo - zbog oštećenja) ili PN1 (potreban detaljan pregled) ili PN2 (potrebne mjere hitne intervencije).
+II.
+Ovlašćuje se Središnji državni ured da, u ime Republike Hrvatske, zbog posljedica potresa koji su nakon 28. prosinca 2020. pogodili područje Karlovačke županije, oslobodi od obveze plaćanja najamnine u razdoblju od 1. siječnja 2021. do osiguranja odgovarajućeg stambenog zbrinjavanja, korisnike (najmoprimce) onih stambenih jedinica u vlasništvu Republike Hrvatske, kojima upravlja Središnji državni ured, koje su na temelju procjene ovlaštenih statičara označene kao N1 (neuporabljivo - zbog vanjskog utjecaja) ili N2 (neuporabljivo - zbog oštećenja) ili PN1 (potreban detaljan pregled) ili PN2 (potrebne mjere hitne intervencije).
+III.
+Za provedbu ove Odluke zadužuje se Središnji državni ured koji će donijeti uputu za provedbu ove Odluke.
+IV.
+Ova Odluka stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
