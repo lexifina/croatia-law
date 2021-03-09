@@ -1,0 +1,7 @@
+# Članak 26.
+(1) Zamjenik predsjednika, predsjednik ili član Upravnog ili Nadzornog odbora koji žele biti razriješeni obvezni su o tome pisanim putem obavijestiti Predsjednika, a za slučaj da Predsjednik traži razrješenje o tome pisanim putem obavještava Zamjenika predsjednika.
+(2) Predsjednik, odnosno Zamjenik predsjednika u slučaju kada Predsjednik traži svoje razrješenje, obvezan je u roku od 15 (petnaest) dana od zaprimanja pisane obavijesti iz stavka 1. ovog članka sazvati Skupštinu radi odlučivanja o razrješenju.
+(3) U slučajevima iz članka 25. stavka 1. alineje 2., 3., 4. i 5. najmanje 10% članova Komore može pisanim putem zatražiti razrješenje Predsjednika ili Zamjenika predsjednika ili predsjednika ili člana Upravnog ili Nadzornog odbora uz navođenje razloga razrješenja iz članka 25. i obrazloženje tog razloga kao i prilaganje dokaza ukoliko istima raspolaže. Uz zahtjev za razrješenje članovi su obvezni dostaviti popis članova s registarskim brojem, OIB-om i vlastoručnim potpisom.
+(4) Zahtjev za razrješenje s prilozima iz prethodnog stavka ovog članka dostavlja se Predsjedniku, odnosno Zamjeniku predsjednika ako se traži razrješenje Predsjednika.
+(5) Predsjednik, odnosno Zamjenik predsjednika u slučaju kada se traži razrješenje Predsjednika, obvezan je u roku od 15 (petnaest) dana od zaprimanja pisane obavijesti, ukoliko su ispunjeni uvjeti, sazvati Skupštinu radi odlučivanja o razrješenju.
+(6) U slučaju da se traži razrješenje svih članova Upravnog odbora zahtjev se na znanje dostavlja i Nadzornom odboru.
