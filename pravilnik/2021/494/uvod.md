@@ -1,0 +1,1 @@
+Na temelju čl. 6. st. 1. i st. 2. t. 5., te čl. 32. st. 5. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine« br. 123/03, 198/03, 105/04, 174/04, 2/07 - OUSRH, 46/07, 45/09, 63/11, 94/13, 139/13, 101/14 - O, RUSRH, 60/15 - OUSRH i 131/17), Nacionalno vijeće za znanost, visoko obrazovanje i tehnološki razvoj donijelo je
