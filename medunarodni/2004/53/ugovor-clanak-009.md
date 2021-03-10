@@ -1,8 +1,0 @@
-# Članak 9.
-Rješavanje sporova među Ugovornim strankama
-1. Svi sporovi nastali između Ugovornih stranaka u svezi s interpretacijama i primjenom ovog Sporazuma nastojat će se riješiti, koliko je moguće, diplomatskim putem.
-2. Ako se spor ne može riješiti u roku od šest mjeseci od dana kad je jedna Ugovorna stranka pismeno o sporu izvijestila drugu Ugovornu stranku, spor se na zahtjev jedne od Ugovornih stranaka prenosi na ad hoc arbitražni sud.
-3. Arbitražno vijeće se konstituira na sljedeći način: u roku od dva mjeseca od prijema zahtjeva za arbitražu svaka Ugovorna stranka imenuje jednog člana vijeća. Ta dva člana potom biraju člana treće države za predsjednika. Predsjednik mora biti imenovan u roku od tri mjeseca nakon dana imenovanja članova vijeća.
-4. Ako imenovanja nisu izvršena u roku navedenom u stavku 3. ovog članka, jedna Ugovorna stranka može se obratiti predsjedniku Međunarodnog suda da izvrši imenovanje u roku od tri mjeseca. Ako je predsjednik državljanin jedne od Ugovornih stranaka ili je na neki drugi način spriječen obavljati tu funkciju, za imenovanje je nadležan potpredsjednik suda. Ako je pak potpredsjednik državljanin jedne od Ugovornih stranaka ili mu je isto tako radi nekog razloga onemogućeno obavljanje te funkcije, poziva se slijedećeg po funkciji najvišeg člana Međunarodnog suda, koji nije državljanin nijedne od Ugovornih stranaka, da on izvrši potrebna imenovanja.
-5. Arbitražno vijeće odlučuje većinom glasova, njegove su odluke obvezujuće. Svaka Ugovorna stranka snosi troškove svog arbitra i svoga zastupanja u arbitražnom postupku. Troškove predsjednika i sve druge troškove snose obje Ugovorne stranke u jednakim dijelovima.
-Arbitražno vijeće samo određuje svoje postupke.
