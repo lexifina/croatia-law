@@ -1,0 +1,2 @@
+Osniva se Konzulat Republike Hrvatske u Saveznoj Republici Brazilu, sa sjedištem u Rio de Janeiru, na čelu s počasnim konzulom i konzularnim ovlastima nad konzularnim područjem koje obuhvaća područje regija: Região Centro-Sul Fluminense, Região Metropolitana, Região Noroeste Fluminense, Região Norte Fluminense, Região Serrana, Região da Costa Verde, Região das Baixadas Litorãneas i Região do Média Paraiba.
+Ova Odluka stupa na snagu danom donošenja.
