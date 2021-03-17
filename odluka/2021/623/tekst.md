@@ -1,0 +1,2 @@
+OTÁVIO AUGUSTO VILARINHO CARDOSO FILHO postavlja se za počasnog konzula Republike Hrvatske u Saveznoj Republici Brazilu, sa sjedištem u Rio de Janeiru i konzularnim ovlastima nad konzularnim područjem koje obuhvaća područje regija: Região Centro-Sul Fluminense, Região Metropolitana, Região Noroeste Fluminense, Região Norte Fluminense, Região Serrana, Região da Costa Verde, Região das Baixadas Litorãneas i Região do Médio Paraiba.
+Ova Odluka stupa na snagu danom donošenja.
