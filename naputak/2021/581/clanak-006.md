@@ -1,0 +1,6 @@
+## Statistički registar poljoprivrednih gospodarstava
+# Članak 6.
+(1) Statistički registar poljoprivrednih gospodarstava (u daljnjem tekstu: SRPG) je cjelovita i sveobuhvatna baza statističkih podatka o poslovnim subjektima koji se bave poljoprivrednom proizvodnjom: pravne osobe i njihovi dijelovi, obrtnici i obiteljska poljoprivredna gospodarstva (u daljnjem tekstu: poljoprivredne jedinice).
+(2) SRPG sadrži osnovna i dodatna obilježja o poljoprivrednim jedinicama. Osnovna su podaci o vlasniku/nazivu poslovnog subjekta, adresni i drugi identifikacijski podaci. Dodatna su podaci o poljoprivrednoj površini prema kategorizaciji, broju stoke i drugim obilježjima poljoprivrednih jedinica bitnim za ostvarivanje statističke svrhe.
+(3) Svrha SRPG-a je efikasna i kvalitetna priprema i provedba istraživanja u području poljoprivrednih statistika primjenom jedinstvenog i pouzdanog okvira za izbor uzoraka, pretraživanje, pregled, ažurnost adresnih podataka, bolji obuhvat izvještajnih jedinica.
+(4) Glavni izvori podataka za prikupljanje i ažuriranje podataka o poljoprivrednim jedinicama u SRPG-a su administrativni izvori, SPR i statistička istraživanja iz područja poljoprivrednih i drugih statistika.
