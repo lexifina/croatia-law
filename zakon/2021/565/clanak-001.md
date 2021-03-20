@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o obveznom zdravstvenom osiguranju i zdravstvenoj zaštiti stranaca u Republici Hrvatskoj (»Narodne novine«, br. 80/13. i 15/18.) u članku 4. stavku 1. riječi: »s odobrenim stalnim boravkom u Republici Hrvatskoj (u daljnjem tekstu: stranac na stalnom boravku),« zamjenjuju se riječima: »s odobrenim stalnim boravkom ili dugotrajnim boravištem u Republici Hrvatskoj (u daljnjem tekstu: stranac na stalnom boravku ili dugotrajnom boravištu),«.
