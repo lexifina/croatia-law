@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i strukturi izvještaja izdavatelja za razdoblja tijekom godine te obliku i načinu njihovog dostavljanja Hrvatskoj agenciji za nadzor financijskih usluga

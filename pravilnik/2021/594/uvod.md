@@ -1,0 +1,1 @@
+Na temelju članka 470. Zakona o tržištu kapitala (»Narodne novine« br. 65/18 i 17/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 11. ožujka 2021. godine donosi
