@@ -1,0 +1,3 @@
+# Članak 4.
+U javnom natječaju se objavljuju uvjeti koje mora ispunjavati kandidat propisani odredbama Zakona o vatrogastvu, mogu se propisati uvjeti za koje je poželjno da kandidat ima, a koji nisu propisani odredbama Zakona o vatrogastvu i odnose se na njegovo djelovanje u sustavu vatrogastva, osposobljavanje i usavršavanje u sustavu vatrogastva, vrijeme na koje se imenuje, rok do kojeg se primaju prijave kandidata i rok u kojem će prijavljeni kandidati biti obaviješteni o izboru.
+Javni natječaj objavljuje se u službenim glasilima lokalne i područne (regionalne) razine, u »Narodnim novinama«, na stranicama Hrvatskog zavoda za zapošljavanje, na internetskim stranicama vatrogasne zajednice županije i Hrvatske vatrogasne zajednice.

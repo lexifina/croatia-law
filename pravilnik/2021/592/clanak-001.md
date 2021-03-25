@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom o postupak izbora županijskog vatrogasnog zapovjednika i zamjenika županijskog vatrogasnog zapovjednika odnosno vatrogasnog zapovjednika Grada Zagreba (dalje u tekstu: Pravilnik) propisuje se postupak izbora županijskog vatrogasnog zapovjednika i njegovog zamjenika odnosno vatrogasnog zapovjednika Grada Zagrebe, tijela koja provode postupak izbora i radnje koje poduzimaju te posljedice izbora.
