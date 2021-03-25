@@ -1,0 +1,11 @@
+# Članak 3.
+Članak 4. mijenja se i glasi:
+»Članak 4.
+Prilikom podnošenja zahtjeva za izdavanje putovnice podnositelj zahtjeva prilaže jednu fotografiju dimenzija 35x45 mm.
+Iznimno od odredbe stavka 1. ovoga članka, prilikom podnošenja zahtjeva za izdavanje putovnice nije potrebno priložiti fotografiju ako je podnositelju zahtjeva u proteklih pet godina izdana putovnica ili elektronička osobna iskaznica, za čije je izdavanje priložena fotografija, a izgled osobe nije bitno promijenjen.
+Prilikom podnošenja zahtjeva za izdavanje putnih isprava koje se izdaju prema međunarodnim ugovorima podnositelj zahtjeva prilaže dvije fotografije dimenzija 35x45 mm.
+Prilikom podnošenja zahtjeva za izdavanje putnog lista podnositelj zahtjeva prilaže dvije fotografije dimenzija 30x35 mm.
+Ako je zahtjev za izdavanje putovnice podnesen preko sustava eGrađani za izradu putovnice koriste se fotografija, otisci prstiju i potpis iz evidencija na središnjem informacijskom sustavu Ministarstva unutarnjih poslova koji su korišteni u postupku izdavanja elektroničke osobne iskaznice kojom se osoba identificirala u sustavu eGrađani prilikom podnošenja zahtjeva za izdavanje putovnice.
+Ako je roditelj ili skrbnik podnio zahtjev za izdavanje putovnice djetetu preko sustava eGrađani, za izradu putovnice koriste se fotografija, otisci prstiju i potpis iz evidencija na središnjem informacijskom sustavu Ministarstva unutarnjih poslova koji su korišteni u postupku izdavanja osobne iskaznice koja je izdana djetetu, ovisno o dobi djeteta.
+Uz zahtjev za izdavanje putovnice preko sustava eGrađani podnositelj zahtjeva dužan je priložiti skeniranu uplatnicu o uplati naknade koja se plaća za izdavanje putovnice ili će uplatu izvršiti online tijekom postupka podnošenja zahtjeva za izdavanje putovnice.
+Uz zahtjev za izdavanje druge putovnice iste vrste preko sustava eGrađani podnositelj zahtjeva dužan je obrazložiti razloge zbog kojih podnosi zahtjev za izdavanje druge putovnice iste vrste i priložiti skenirane dokaze koji ukazuju na opravdanost zahtjeva kao što je potvrda da se ranije izdana putovnica nalazi kod nadležnog tijela druge države radi pribavljanja vize za ulazak u tu državu, potvrda inozemnog poslodavca o razlozima potrebe posjedovanja dviju putovnica vezano uz obavljanje konkretnih poslova, kao i druge dokaze ovisno o okolnostima konkretnog slučaja.«.

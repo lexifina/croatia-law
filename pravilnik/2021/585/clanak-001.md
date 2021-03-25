@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o obrascima i evidencijama putnih isprava hrvatskih državljana te načinu dostave i preuzimanja izrađenih putovnica (»Narodne novine«, br. 4/10, 22/10 - ispravak, 85/15, 118/15, 130/17 i 124/19), u članku 3. stavak 4. mijenja se i glasi:
+»Podnositelj zahtjeva za izdavanje putovnice, kojemu je već ranije izdana putovnica, može zahtjev za izdavanje putovnice u redovnom postupku podnijeti i preko sustava eGrađani korištenjem elektroničke osobne iskaznice ne starije od godinu dana koja sadrži kvalificirani potpisni certifikat i u tom slučaju, iznimno od odredaba stavaka 2. i 3. ovog članka, ne koristi se Obrazac 3 te se ne izdaje potvrda o podnijetom zahtjevu.«.
