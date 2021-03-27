@@ -1,0 +1,4 @@
+# Članak 24.
+(1) Do sklapanja ugovora o javnim uslugama u cestovnom prijevozu u skladu s ovim Zakonom prijevoz učenika srednjih škola i financiranje obavlja se u skladu sa zakonom kojim se uređuje odgoj i obrazovanje u osnovnim i srednjim školama i s pozicija ministarstva nadležnog za obrazovanje.
+(2) Nakon sklapanja ugovora o javnim uslugama u cestovnom prijevozu u skladu s ovim Zakonom sredstva osigurana u državnom proračunu za prijevoz učenika srednjih škola preraspodijelit će se na pozicije Ministarstva.
+(3) Danom stupanja na snagu ovoga Zakona prijevoz i financiranje određenih kategorija otočnog stanovništva koje imaju pravo na povlašteni cestovni prijevoz prema zakonu kojim se uređuje način upravljanja i politika razvoja hrvatskih otoka preuzima Ministarstvo, a sredstva osigurana u državnom proračunu na pozicijama ministarstva nadležnog za regionalni razvoj i fondove Europske unije preraspodijelit će se na pozicije Ministarstva.
