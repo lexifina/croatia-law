@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 13. dodaje se stavak 3. koji glasi: »Provjeru računa uplatitelja jamčevine Agencija vrši uvidom u Jedinstveni registar računa. U slučaju da račun iz stavka 2. ovoga članka ne pripada uplatitelju jamčevine o čemu sud prethodno nije obaviješten, Agencija će o navedenom obavijestiti nadležni sud radi donošenja naloga za raspolaganje s novčanim sredstvima.«
+Dosadašnji stavak 3. postaje stavak 4.
+Dodaje se stavak 5. koji glasi: »(5) Ako na prethodnoj elektroničkoj javnoj dražbi ne bude valjanih ponuda, Agencija objavljuje poziv na sudjelovanje u sljedećoj elektroničkoj javnoj dražbi. U tom slučaju, jamčevina uplaćena za prethodnu elektroničku javnu dražbu vrijedi i za sljedeću elektroničku javnu dražbu osim ako je jamčevina vraćena uplatitelju. Eventualnu razliku uplaćene jamčevine Agencija vraća uplatitelju ako su za to ispunjeni uvjeti.«

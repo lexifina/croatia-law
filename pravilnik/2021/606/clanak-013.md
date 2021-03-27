@@ -1,0 +1,7 @@
+# Članak 13.
+Članak 17. mijenja se i glasi:
+»(1) Elektronička javna dražba počinje objavom poziva na sudjelovanje u elektroničkoj javnoj dražbi koji Agencija objavljuje na svojim mrežnim stranicama. Prikupljanje ponuda u elektroničkoj javnoj dražbi traje deset radnih dana.
+(2) Datum i vrijeme početka prikupljanja ponuda te datum i vrijeme završetka prikupljanja ponuda određuje Agencija u pozivu na sudjelovanje u elektroničkoj javnoj dražbi. Ponude se prikupljaju elektroničkim putem radnim i neradnim danima u vremenu od 0 do 24 sati.
+(3) Završetak roka za prikupljanje ponuda odredit će se radnim danom u razdoblju između 9 i 15 sati.
+(4) Iznimno, ako je najpovoljnija valjana ponuda dana u zadnjih deset minuta prije isteka roka koji je u pozivu na sudjelovanje u elektroničkoj javnoj dražbi određen kao vrijeme završetka prikupljanja ponuda, nadmetanje se produžuje za deset minuta od svake posljednje najpovoljnije valjane ponude sve dok ne protekne deset minuta od posljednje najpovoljnije valjane ponude.
+(5) U slučaju da prikupljanje ponuda iz stavka 2. ovog članka traje dulje od 48 sati od očekivanog datuma i vremena završetka prikupljanja ponuda navedenog u pozivu na sudjelovanje, Agencija će o tome obavijestiti nadležno tijelo koje će donijeti odluku o daljnjem tijeku postupka. Ako Agencija ne zaprimi odluku nadležnog tijela o daljnjem tijeku postupka u roku od osam dana od zaprimanja obavijesti Agencije, Agencija će prekinuti postupak i dostaviti nadležnom tijelu Izvještaj o provedenoj elektroničkoj javnoj dražbi.«
