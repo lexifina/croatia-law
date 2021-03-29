@@ -1,0 +1,10 @@
+ODLUKA
+I. Ukidaju se članak 3.a, članak 4. stavak 1. točka 7. u dijelu: »razvrstane u kategoriju korisnika kućanstvo i potkategorije korisnika koji nisu kućanstvo«, članak 4. stavci 8. i 9., članak 14. stavci 11. i 12., članak 20. stavak 2. u dijelu: »i cijena ugovorne kazne«, članak 20. stavci 10. i 11., te članak 24. Uredbe o gospodarenju komunalnim otpadom (»Narodne novine« broj 50/17. i 84/19.).
+II. Ukinuti članci Uredbe o gospodarenju komunalnim otpadom (»Narodne novine« broj 50/17. i 84/19.) prestaju važiti 15. rujna 2021.
+III. Danom prestanka važenja ukinutih članaka Uredbe o gospodarenju komunalnim otpadom stavlja se izvan snage rješenje Ustavnog suda Republike Hrvatske broj: U-II-2492/2017 i dr. od 29. siječnja 2020. (»Narodne novine« broj 14/20.).
+IV. Odbija se zahtjev za ocjenu suglasnosti s Ustavom i zakonom članka 4. stavka 1. točke 7. u dijelu: »odredbe o načinu izračuna i određivanju cijene, te iznos obvezne minimalne javne usluge za korisnike javne usluge«, te članka 4. stavaka 5. i 6. Uredbe o gospodarenju komunalnim otpadom (»Narodne novine« broj 50/17. i 84/19.).
+V. Ova odluka objavit će se u »Narodnim novinama«.
+i
+RJEŠENJE
+I. Obustavlja se postupak za ocjenu suglasnosti s Ustavom i zakonom članka 1., članka 2. stavka 1., članka 3. stavka 1. točaka 8., 9., 10., 15., 16., 20. i 21., članka 4. stavka 2. točke 5., članka 4. stavka 4., članka 7. točaka 1., 3., 4. i 5., članka 13., članka 14. stavka 2. točaka 3., 4., 5. i 8., članka 14. stavka 4., članka 14. stavka 8. točke 2., članka 15. stavaka 2. i 5., članka 17. stavka 1. alineje 2. točke 2., članka 18. stavka 1., članka 20. stavka 1., članka 20. stavka 2. (u dijelu: »strukturu cijene javne usluge čini cijena javne usluge za količinu predanog miješanog komunalnog otpada, cijena obvezne minimalne javne usluge«), članka 20. stavaka 4., 5., 9. i 12., te članka 21. stavka 3. Uredbe o gospodarenju komunalnim otpadom (»Narodne novine« broj 50/17. i 84/19.), kao i Uredbe o gospodarenju komunalnim otpadom u cjelini.
+II. Ovo rješenje objavit će se u »Narodnim novinama«.
