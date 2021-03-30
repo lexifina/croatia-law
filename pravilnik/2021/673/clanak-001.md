@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o provedbi mjera Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.(»Narodne novine«, br. 91/19 i 37/20) u članku 2. dodaju se novi podstavci 1. i 2. koji glase:
+» - Uredbom (EU) br. 2020/2220 Europskog parlamenta i Vijeća od 23. prosinca 2020. o utvrđivanju određenih prijelaznih odredaba za potporu iz Europskog poljoprivrednog fonda za ruralni razvoj (EPFRR) i Europskog fonda za jamstva u poljoprivredi (EFJP) u godinama 2021. i 2022. i izmjeni uredaba (EU) br. 1305/2013, (EU) br. 1306/2013 i (EU) br. 1307/2013 u pogledu sredstava i primjene u godinama 2021. i 2022. te Uredbe (EU) br. 1308/2013 u pogledu sredstava i raspodjele takve potpore u godinama 2021. i 2022.
+- Uredbom (EU) br. 2020/2221 Europskog parlamenta i Vijeća od 23. prosinca 2020. o izmjeni Uredbe (EU) br. 1303/2013 u pogledu dodatnih sredstava i provedbenih mehanizama radi pružanja pomoći u sanaciji krize u kontekstu pandemije bolesti COVID-19 i njezinih socijalnih posljedica te u pripremi zelenog, digitalnog i otpornog oporavka gospodarstva (REACT-EU)«.
+Dosadašnji podstavci od 1. do 26. postaju podstavci od 3. do 28.
