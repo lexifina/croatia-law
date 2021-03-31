@@ -1,2 +1,0 @@
-# Članak 7.
-Državljanima jedne Ugovorne stranke koji pretrpe gubitke u svezi s njihovim ulaganjima na teritoriju druge Ugovorne stranke uslijed rata ili drugog oružanog sukoba, revolucije, izvanrednog stanja u zemlji, pobune, ustanka ili nereda, ta će druga Ugovorna stranka odobriti uvjete glede restitucije, odštete, naknade ili drugog rješenja, ne manje povoljne od onih koje ta Ugovorna stranka odobrava svojim vlastitim državljanima ili državljanima neke treće države, što je od toga povoljnije za dotične državljane.

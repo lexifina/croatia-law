@@ -1,2 +1,0 @@
-# Članak 8.
-Ako su ulaganja državljana jedne Ugovorne stranke osigurana od nekomercijalnih rizika ili na drugi način daju povoda za plaćanje odštete glede tog ulaganja u skladu sa zakonski utemeljenim sustavom, propisom ili državnim ugovorom, svaka subrogacija prava spomenutog državljana u skladu s uvjetima toga osiguranja ili prema bilo kojoj odšteti na osiguravatelja ili reosiguravatelja ili agenciju koju imenuje jedna Ugovorna stranka, bit će priznata od druge Ugovorne stranke.

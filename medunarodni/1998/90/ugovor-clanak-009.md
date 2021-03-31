@@ -1,5 +1,0 @@
-# Članak 9.
-1. Sporovi između jedne Ugovorne stranke i državljana druge Ugovorne stranke glede obveze prve prema ovome Ugovoru u svezi s ulaganjem potonje, uputit će se na zahtjev dotičnog državljana Međunarodnom centru za rješavanje sporova o ulaganjima radi rješavanja putem arbitraže ili mirenja prema Konvenciji o rješavanju ulagačkih sporova između država i državljana drugih država, Washington, 18. ožujka 1965.
-2. Dok Republika Hrvatska ne postane država potpisnica Konvencije spomenute u stavku 1. ovog članka, sporovi koji se navode u tom stavku uputit će se na Međunarodni Centar za rješavanje ulagačkih sporova prema Pravilima o Dodatnom tijelu za upravljanje postupcima Tajništva Centra (Pravila Dodatnog tijela).
-3. Svaka Ugovorna stranka ovime daje svoju bezrezervnu suglasnost o upućivanju sporova koji se spominju u stavku 1. ovog članka na međunarodnu arbitražu u skladu s odredbama ovog članka.
-4. Pravna osoba koja je državljanin jedne Ugovorne stranke i koju prije nastanka tog spora kontroliraju državljani druge Ugovorne stranke biti će u skladu s člankom 25 (2) (b) Konvencije za potrebe Konvencije tretirana kao državljanin druge Ugovorne stranke.
