@@ -1,0 +1,1 @@
+Na temelju članka 341. stavka 5. i članka 344. Obiteljskog zakona (»Narodne novine«, br. 103/15 i 98/19) i članka 93.a stavka 5. Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13, 152/14, 99/15, 52/16, 16/17, 130/17, 98/19, 64/20 i 138/20), ministar rada, mirovinskoga sustava, obitelji i socijalne politike, donosi
