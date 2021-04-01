@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 3. Zakona o lokalnim izborima (»Narodne novine«, br. 144/12., 121/16., 98/19., 42/20. i 144/20.), Vlada Republike Hrvatske je na sjednici održanoj 1. travnja 2021. donijela
