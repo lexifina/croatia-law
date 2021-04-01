@@ -1,0 +1,3 @@
+# Članak 8.
+(1) U slučaju sumnje ili prijave u zdravstvenu ispravnost predmeta opće uporabe, uz parametre iz Programa iz članka 3. ovoga Pravilnika uzorci se mogu ispitivati i na dodatne parametre kojima se dokazuje zdravstvena ispravnost odnosno sukladnost proizvoda, koji se mogu pobliže odrediti uputama i smjernicama za provedbu Programa iz članka 3. stavka 3. ovoga Pravilnika.
+(2) U slučaju da u Republici Hrvatskoj ne postoji laboratorij koji može provesti potrebnu analizu određenog parametra ili proizvoda, nadležni sanitarni inspektor Državnog inspektorata ovlašten je uzorak dostaviti u druge službene laboratorije u državama članicama Europske unije koji mogu provesti analizu uzorka.
