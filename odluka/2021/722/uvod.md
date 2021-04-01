@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 27. stavka 1. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. - ispravak, 47/99. - ispravak, 35/08. i 127/19.), Vlada Republike Hrvatske je na sjednici održanoj 1. travnja 2021. donijela
