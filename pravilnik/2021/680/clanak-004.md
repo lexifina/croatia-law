@@ -1,0 +1,6 @@
+## II. PRIHVATLJIVI I NEPRIHVATLJIVI TROŠKOVI
+## Prihvatljivi troškovi
+# Članak 4.
+(1) Prihvatljivi troškovi u okviru aktivnosti prijelaza sa konvencionalnih metoda akvakulturne proizvodnje na ekološku akvakulturu su dodatni troškovi nastali u svrhu ispunjavanja zahtjeva za ekološku akvakulturu odnosno za upis u upisnik subjekata u ekološkoj proizvodnji, od početka razdoblja prihvatljivosti koje se definira Natječajem do isteka razdoblja prijelaza, ali ne kasnije od 31. prosinca 2023. godine, koji uključuju troškove proizvodnje te troškove aktivnosti stručne kontrole i certifikacije.
+(2) Prihvatljivi troškovi u okviru aktivnosti sudjelovanja u EMAS-u su troškovi pripreme i prijave za sudjelovanje u EMAS-u nastali od početka razdoblja prihvatljivosti koje se definira Natječajem do odobrenja prijave za registraciju odnosno do upisa u registar organizacija u sustavu EMAS, ali ne kasnije od 31. prosinca 2023. godine, koji uključuju troškove aktivnosti pripreme za registraciju u EMAS.
+(3) Kategorije i izračun prihvatljivih troškova iz stavaka 1. i 2. ovoga članka definirani su u Pravilima i uputama za izračun troškova koja se objavljuju na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/propisi-smjernice/).

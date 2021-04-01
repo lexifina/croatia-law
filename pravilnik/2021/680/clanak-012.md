@@ -1,0 +1,19 @@
+## Odlučivanje o Zahtjevu za potporu
+# Članak 12.
+(1) O dodjeli potpore na temelju ovoga Pravilnika i Natječaja odlučuje se rješenjem koje donosi Upravljačko tijelo.
+(2) Nakon završetka administrativne kontrole Zahtjeva za potporu, Upravljačko tijelo će donijeti:
+a) Rješenje o dodjeli sredstava u slučaju ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom i Natječajem
+b) Rješenje o odbijanju Zahtjeva za potporu u slučaju:
+- nepravovremeno podnesenih Zahtjeva za potporu
+- nepotpunih Zahtjeva za potporu
+- nepravovremeno dostavljenih i/ili nepotpunih odgovora na Zahtjev za dopunu Zahtjeva za potporu
+- utvrđene nepravilnosti ako je odlukom o utvrđenoj nepravilnosti određeno odbijanje zahtjeva za potporu uzimajući u obzir težinu utvrđene nepravilnosti ili u slučaju ne poduzimanja korektivnih mjera određenih radi ispravljanja utvrđene nepravilnosti u zadanom roku
+- onemogućavanja obavljanja kontrole na terenu
+- namjernog davanja neistinitih informacija od strane korisnika
+- sufinanciranja troškova koji su financirani drugim javnim izdacima
+- neispunjavanja drugih uvjeta i kriterija propisanih ovim Pravilnikom i Natječajem
+- nedostatnosti raspoloživih sredstava.
+(3) Rješenjem iz stavka 2. točke a) ovoga članka utvrđuje se:
+a) iznos odobrene potpore
+b) obveze korisnika na temelju ovoga Pravilnika i Natječaja.
+(4) Ako se tijekom obrade Zahtjeva za potporu utvrdi nepravilnost, a za koju odlukom o utvrđenoj nepravilnosti nije određeno odbijanje zahtjeva za potporu u cijelosti, Upravljačko tijelo će odbiti iznos nepravilnog troška od ukupnih prihvatljivih troškova i donijeti Rješenje o dodjeli sredstava u kojem će ukupan iznos za koji se dodjeljuje potpora biti umanjen za iznos nepravilnog troška.

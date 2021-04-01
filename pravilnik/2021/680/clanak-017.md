@@ -1,0 +1,11 @@
+# Članak 17.
+(1) Zahtjev za isplatu treba sadržavati sve plaćene račune odnosno u cijelosti nastale i plaćene troškove za koje je odobrena potpora, a operacija mora biti fizički završena u trenutku podnošenja Zahtjeva za isplatu.
+(2) Troškovi iz stavka 1. ovoga članka moraju nastati na teret korisnika i biti plaćeni najkasnije do 31. prosinca 2023. godine.
+(3) Za plaćanja izvršena u stranoj valuti obračunat će se:
+a) protuvrijednost u kunama po tečaju Europske komisije u mjesecu podnošenja Zahtjeva za isplatu iskazanom na šest decimala
+b) u slučaju da je korisnik kupio strana sredstva plaćanja po nižem tečaju od tečaja Europske komisije u mjesecu podnošenja Zahtjeva za isplatu iskazanom na šest decimala, isplata potpore temeljit će se na ostvarenom tečaju.
+(4) Korisniku se ne može isplatiti potpora u iznosu višem od iznosa navedenoga u Rješenju o dodjeli sredstava.
+(5) Ako je Zahtjev za isplatu nepotpun ili ukoliko je potrebno tražiti dodatna obrazloženja/ispravke vezane uz dostavljenu dokumentaciju, Upravljačko tijelo će korisniku izdati Zahtjev za dopunu/obrazloženje/ispravak Zahtjeva za isplatu (u daljnjem tekstu: Zahtjev za dopunu Zahtjeva za isplatu). Korisnik je dužan dostaviti traženu dokumentaciju preporučenom poštom s povratnicom ili osobno Upravljačkom tijelu u roku od deset radnih dana od prvoga sljedećeg dana nakon dana zaprimanja Zahtjeva za dopunu Zahtjeva za isplatu. Kad zadnji dan roka pada u nedjelju, na blagdan ili u drugi dan kad Upravljačko tijelo ne radi, rok istječe prvoga sljedećega radnog dana.
+(6) Ako korisnik nije preuzeo Zahtjev za dopunu Zahtjeva za isplatu prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ako korisnik ne preuzme Zahtjev za dopunu Zahtjeva za isplatu niti nakon ponovljene dostave, Zahtjev za dopunu Zahtjeva za isplatu će se objaviti na oglasnoj ploči Ministarstva poljoprivrede, Uprave ribarstva u Zagrebu te će se dostava smatrati obavljenom istekom osmoga dana od dana objave Zahtjeva za dopunu Zahtjeva za isplatu na oglasnoj ploči.
+(7) Vremenom zaprimanja Zahtjeva za dopunu Zahtjeva za isplatu smatra se datum dostave korisniku.
+(8) Datumom podnošenja potpunog Zahtjeva za isplatu smatra se datum dostave tražene dokumentacije i/ili tražene dopune/obrazloženja/ispravka iz stavka 5. ovoga članka.
