@@ -1,0 +1,1 @@
+Odluka o osiguranju novčane pomoći za privremenu i nužnu zaštitu i popravak zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije
