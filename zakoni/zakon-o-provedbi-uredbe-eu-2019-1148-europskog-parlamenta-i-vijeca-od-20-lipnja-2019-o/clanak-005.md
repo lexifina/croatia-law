@@ -1,0 +1,5 @@
+## II. OBVEZE GOSPODARSKIH SUBJEKATA
+# Članak 5.
+(1) Gospodarski subjekt koji stavlja na raspolaganje ograničeni prekursor eksploziva drugom gospodarskom subjektu obavješćuje ga u pisanom obliku da su nabava, uvođenje, posjedovanje ili uporaba tog ograničenog prekursora eksploziva od strane pojedinačnih korisnika podložni ograničenju iz članka 5. stavka 1. Uredbe (EU) 2019/1148.
+(2) Gospodarski subjekt koji stavlja na raspolaganje regulirani prekursor eksploziva drugom gospodarskom subjektu obavješćuje ga u pisanom obliku da su nabava, uvođenje, posjedovanje ili uporaba tog reguliranog prekursora eksploziva od strane pojedinačnih korisnika podložni obvezama prijave iz članka 9. Uredbe (EU) 2019/1148.
+(3) Gospodarski subjekt iz stavka 2. ovoga članka dužan je u pisanom obliku zaposlenika koji sudjeluje u prodajnom lancu, odmah po zaposlenju i kasnije jednom godišnje, upoznati sa sadržajem reguliranih prekursora eksploziva u proizvodima koje stavlja na tržište i o obvezama iz članaka 5. i 7. do 9. Uredbe (EU) 2019/1148.

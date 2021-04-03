@@ -1,0 +1,16 @@
+## VIII. PREKRŠAJNE ODREDBE
+# Članak 14.
+(1) Novčanom kaznom u iznosu od 40.000,00 do 100.000,00 kuna kaznit će se za prekršaj pravna osoba ako:
+1. pojedinačnom korisniku stavi na raspolaganje ograničeni prekursor eksploziva (članak 5. stavak 1. Uredbe (EU) 2019/1148)
+2. pojedinačnom korisniku stavi na raspolaganje smjese koje sadržavaju klorate ili perklorate navedene na popisu u Prilogu I. Uredbe (EU) 2019/1148 ako ukupna koncentracija tih tvari u smjesi premašuje graničnu vrijednost za bilo koju od tvari određenu u stupcu 2. tablice iz Priloga I. Uredbe (EU) 2019/1148 (članak 5. stavak 2. Uredbe (EU) 2019/1148)
+3. drugom gospodarskom subjektu stavi na raspolaganje ograničeni prekursor eksploziva i ne obavijesti ga u pisanom obliku da su nabava, uvođenje, posjedovanje ili uporaba tog ograničenog prekursora eksploziva od strane pojedinačnih korisnika podložni ograničenju iz članka 5. stavka 1. Uredbe (EU) 2019/1148 (članak 5. stavak 1. ovoga Zakona)
+4. drugom gospodarskom subjektu stavi na raspolaganje regulirani prekursor eksploziva i ne obavijesti ga u pisanom obliku da su nabava, uvođenje, posjedovanje ili uporaba tog reguliranog prekursora eksploziva od strane pojedinačnih korisnika podložni obvezama prijave iz članka 9. Uredbe (EU) 2019/1148 (članak 5. stavak 2. ovoga Zakona)
+5. u pisanom obliku nije upoznala zaposlenika koji sudjeluje u prodajnom lancu, odmah po zaposlenju i kasnije jednom godišnje, sa sadržajem reguliranih prekursora eksploziva u proizvodima koje stavlja na tržište i o obvezama iz članaka 5. i 7. do 9. Uredbe (EU) 2019/1148 (članak 5. stavak 3. Zakona)
+6. nije poduzela mjere i koristila alate kako bi osigurala da korisnici koji stavljaju na raspolaganje regulirane prekursore eksploziva uporabom usluga internetskog tržišta koje pruža budu obaviješteni o svojim obvezama iz Uredbe (EU) 2019/1148 (članak 6. stavak 1. ovoga Zakona)
+7. nije poduzela mjere i koristila alate kako bi osigurala da korisnici koji stavljaju na raspolaganje ograničene prekursore eksploziva pomoću njezinih usluga posredovanja poštuju obveze u skladu s člankom 8. Uredbe (EU) 2019/1148 (članak 7. stavak 2. ovoga Zakona)
+8. ne čuva podatke iz članka 8. stavaka 1. i 2. Uredbe (EU) 2019/1148 u razdoblju od 18 mjeseci od datuma transakcije (članak 8. stavak 4. Uredbe (EU) 2019/1148)
+9. ne omogući nadležnom inspektoru uvid u podatke iz članka 8. stavaka 1. i 2. Uredbe (EU) 2019/1148 (članak 8. stavak 4. Uredbe (EU) 2019/1148)
+10. Nacionalnoj kontaktnoj točki ne prijavi svaku sumnjivu transakciju ili pokušaj sumnjive transakcije u roku od 24 sata od saznanja da se radi o sumnjivoj transakciji (članak 9. stavak 4. Uredbe (EU) 2019/1148)
+11. Nacionalnoj kontaktnoj točki ne prijavi znatni nestanak ili krađu reguliranog prekursora eksploziva u roku od 24 sata od trenutka saznanja za nestanak ili krađu (članak 9. stavak 5. Uredbe (EU) 2019/1148).
+(2) Novčanom kaznom u iznosu od 20.000 do 40.000 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 20.000,00 do 40.000,00 kuna za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
