@@ -1,0 +1,6 @@
+# Članak 47.
+U članku 115. stavak 3. mijenja se i glasi:
+»(3) U slučajevima ukidanja ili isteka dozvole za istraživanje, dozvole za eksploataciju ili isteka ili raskida ugovora o istraživanju i eksploataciji ugljikovodika, ugovora o eksploataciji geotermalnih voda, ugovora o podzemnom skladištenju plina, bez obzira na razloge ukidanja ili raskida, isteka ili prestanka po bilo kojoj osnovi postojećeg prava na eksploataciju, bilo koja nepokretna imovina ili konstrukcija neodvojiva od nekretnine u istražnom prostoru ili na eksploatacijskom polju postaje vlasništvo Republike Hrvatske, i to bez obzira na to jesu li troškovi za takvu imovinu nadoknađeni tijekom trajanja pravne osnove za istraživanje ili eksploataciju ugljikovodika ili geotermalnih voda, podzemno skladištenje plina odnosno postojećeg prava na eksploataciju, a istodobno s prestankom pravne osnove nad upotrebom naftno-rudarskog objekta prestaju sva prava i zahtjevi investitora, koje je imao ili bi mogao imati s obzirom na vlastita ulaganja u taj naftno-rudarski objekt.«.
+Iza stavka 3. dodaje se novi stavak 4. koji glasi:
+»(4) Iznimno od odredbi ovoga članka, nepokretna imovina ili konstrukcija neodvojiva od nekretnine u istražnom prostoru ili na eksploatacijskom polju smještenom na pomorskom dobru ostaje pripadnost pomorskog dobra.«.
+Dosadašnji stavci 4. do 7. postaju stavci 5. do 8.

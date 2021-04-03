@@ -1,0 +1,8 @@
+# Članak 20.
+Članak 44. mijenja se i glasi:
+»(1) Zahtjevu za utvrđivanje eksploatacijskog polja investitor obvezno mora priložiti zemljovid predloženog eksploatacijskog polja s ucrtanim obuhvatom potvrđenih rezervi, kao i akt iz jednog od postupka dobivenog prema odredbama propisa kojima se uređuje zaštita okoliša i prirode navedenih u članku 132. stavku 1. ovoga Zakona, te potvrdu o usklađenosti predloženog eksploatacijskog polja s prostornim planom od tijela državne uprave nadležnog za prostorno uređenje.
+(2) Ako se predloženo eksploatacijsko polje, za koje se pokreće postupak utvrđivanja eksploatacijskog polja, ne nalazi unutar površina planiranih za eksploataciju u skladu s prostornim planom, Agencija je dužna inicirati postupak usklađivanja površina za eksploataciju s prostornim planom na temelju granica predloženih rješenjem o utvrđivanju količina i kakvoće rezervi.
+(3) Nositelj izrade prostornog plana pokreće izradu prijedloga odluke o pokretanju postupka usklađivanja površina za eksploataciju s prostornim planom najkasnije u roku od 30 dana od zaprimanja urednog zahtjeva Agencije sukladno propisu kojim se uređuje prostorno uređenje, a bez obzira na druge pristigle zahtjeve.
+(4) Investitor je dužan snositi troškove usklađivanja površina za eksploataciju s prostornim planom iz stavka 3. ovoga članka.
+(5) U roku od 30 dana od usklađivanja površina za eksploataciju s prostornim planom investitor je dužan Ministarstvu predati zahtjev za izdavanje rješenja o utvrđivanju eksploatacijskog polja.
+(6) Eksploatacijsko polje utvrđeno rješenjem o utvrđivanju eksploatacijskog polja može biti isto ili manje od površina za eksploataciju u skladu s prostornim planom te se smatra da za njega vrijede isti prostorno-planski uvjeti.«.

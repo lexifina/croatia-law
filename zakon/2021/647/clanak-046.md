@@ -1,0 +1,5 @@
+# Članak 46.
+U članku 114. stavku 1. riječ: »središnje« briše se.
+U stavku 2. na kraju rečenice briše se točka i dodaju se riječi: »odnosno u skladu s propisima kojima se uređuje područje procjene vrijednosti nekretnina.«.
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+»(8) Investitor kojemu je kasnije dodijeljena dozvola za istraživanje i eksploataciju na području koje se nalazi unutar važećeg istražnog prostora ili eksploatacijskog polja temeljem nadmetanja sukladno članku 13. stavku 3. ovoga Zakona, dužan je poštivati stečena prava investitora kojemu je dozvola za istraživanje i eksploataciju ranije dodijeljena. Prilikom podnošenja zahtjeva za izdavanje lokacijskih dozvola i drugih akata za provedbu zahvata u prostoru investitor kojemu je kasnije dodijeljena dozvola za istraživanje i eksploataciju dužan je uskladiti zahtjeve na način da ne zadire u stečena prava, dozvole i druge akte izdane u korist ovlaštenika ranije izdane dozvole za istraživanje i eksploataciju, osim u slučaju drukčijeg sporazuma između investitora.«.
