@@ -1,0 +1,1 @@
+Na temelju članaka 74. stavka 2. i 3., članka 83. stavka 5. i članka 89. Zakona o lijekovima (»Narodne novine«, br. 76/13, 90/14 i 100/18) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« broj 66/19), ministar zdravstva uz prethodnu suglasnost ministra vanjskih i europskih poslova donosi
