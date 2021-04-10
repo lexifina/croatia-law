@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Sveučilište odgovara za obveze cijelom svojom imovinom.
+(2) Republika Hrvatska solidarno i neograničeno odgovara za obveze Sveučilišta.

@@ -1,0 +1,7 @@
+## I. OPĆE ODREDBE
+## Predmet Zakona
+# Članak 1.
+(1) Ovim se Zakonom osniva Sveučilište obrane i sigurnosti (u daljnjem tekstu: Sveučilište) kao javna ustanova te se uređuje njegova djelatnost, način upravljanja, imovina te druga pitanja važna za rad Sveučilišta.
+(2) Sveučilište se osniva tako da se studijski programi, preddiplomski sveučilišni studij Vojno vođenje i upravljanje, preddiplomski sveučilišni studij Vojno inženjerstvo, diplomski sveučilišni studij Vojno vođenje i upravljanje i diplomski sveučilišni studij Vojno inženjerstvo, ustrojeni na temelju sporazuma Vlade Republike Hrvatske i Sveučilišta u Zagrebu o ustrojavanju posebnih studijskih programa, čiji je nositelj Sveučilište u Zagrebu i studijski programi ustrojeni na temelju sporazuma Vlade Republike Hrvatske i Sveučilišta u Splitu o ustrojavanju posebnog studija Vojno pomorstvo, spajaju sa Sveučilištem radi obavljanja djelatnosti visokog obrazovanja, znanstvene, stručne i druge djelatnosti za potrebe obrambenoga sustava i sustava domovinske sigurnosti.
+(3) Na pitanja koja nisu uređena ovim Zakonom primjenjuju se odredbe zakona kojima se uređuju ustanove, znanstvena djelatnost i visoko obrazovanje, obrana te služba u Oružanim snagama Republike Hrvatske (u daljnjem tekstu: Oružane snage).
+(4) Na postupak osnivanja Sveučilišta iz stavka 2. ovoga članka ne primjenjuju se odredbe zakona kojim se uređuje osiguranje kvalitete u znanosti i visokom obrazovanju, kojima je reguliran postupak inicijalne akreditacije.

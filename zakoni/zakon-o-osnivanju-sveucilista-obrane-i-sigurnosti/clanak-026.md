@@ -1,0 +1,10 @@
+## VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 26.
+Do stvaranja uvjeta za obavljanje djelatnosti Sveučilišta ostaju na snazi:
+– Odluka o pokretanju postupka za ustrojavanje posebnih studijskih programa za potrebe Oružanih snaga Republike Hrvatske (»Narodne novine«, br. 91/13.)
+– Odluka o pokretanju postupka za ustrojavanje posebnog studija Vojno pomorstvo (»Narodne novine«, br. 24/17.)
+– Odluka o pokretanju postupaka za ustrojavanje diplomskih sveučilišnih studija, integriranih preddiplomskih i diplomskih sveučilišnih studija te poslijediplomskih studija za potrebe Oružanih snaga Republike Hrvatske (»Narodne novine«, br. 96/17.)
+– Sporazum Vlade Republike Hrvatske i Sveučilišta u Zagrebu o ustrojavanju posebnih studijskih programa za potrebe Oružanih snaga Republike Hrvatske od 10. siječnja 2014. (klasa: 644-01/13-01/2, urbroj: 512-01-14-71 i klasa: 602-04/13-10/45, urbroj: 380-020/084-14-2), od 14. prosinca 2015. (klasa: 644-01/15-01/1, urbroj: 512-01-15-55 i klasa: 602-04/13-10/45, urbroj: 380-012/246-15-9) i od 29. lipnja 2018. (klasa: 644-01/18-01/7, urbroj: 512-01-18-9 i klasa: 602-04/18-28/67, urbroj: 380-062/105-18-1)
+– Sporazum Vlade Republike Hrvatske i Sveučilišta u Zagrebu o ustrojavanju diplomskih sveučilišnih studija za potrebe Oružanih snaga Republike Hrvatske od 16. svibnja 2018. (klasa: 644-01/18-01/7, urbroj: 512-01-18-3 i klasa: 602-04/18-28/61, urbroj: 380-062/105-18-1)
+– Sporazum Vlade Republike Hrvatske i Sveučilišta u Splitu o ustrojavanju posebnog studija Vojno pomorstvo od 28. travnja 2017. (klasa: 644-01/17-01/1, urbroj: 512-01-17-49 i klasa: 602-04/17-02/0003, urbroj: 2181-202-01-01-17-0004) i od 27. svibnja 2019. (klasa: 644-01/19-01/1, urbroj: 512-01-19-15 i klasa: 602-04/17-02/0003, urbroj: 2181-202-01-01-19-0068)
+– Sporazum Vlade Republike Hrvatske i Sveučilišta u Zagrebu o ustrojavanju poslijediplomskih specijalističkih studija za potrebe Oružanih snaga Republike Hrvatske i sustava domovinske sigurnosti od 5. rujna 2019. (klasa: 644-01/19-01/1, urbroj: 512-01-19-25 i klasa: 641-01/19-01/6, urbroj: 380-012/246-19-1).

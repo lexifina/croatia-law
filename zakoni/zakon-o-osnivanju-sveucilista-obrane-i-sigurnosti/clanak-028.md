@@ -1,0 +1,5 @@
+# Članak 28.
+(1) Vlada Republike Hrvatske, na prijedlog ministra nadležnog za obranu, će u roku od 90 dana od dana stupanja na snagu ovoga Zakona imenovati te regulirati status i plaću privremenog rektora.
+(2) Privremeni rektor će u roku od jedne godine od imenovanja obaviti pripreme za početak rada Sveučilišta, donijeti privremeni Statut Sveučilišta uz prethodnu suglasnost ministra nadležnog za obranu, podnijeti prijavu za upis u sudski registar, poduzeti radnje za konstituiranje Senata i poduzeti potrebne radnje za početak rada Sveučilišta.
+(3) Privremeni Statut Sveučilišta iz stavka 2. ovoga članka primjenjivat će se do stupanja na snagu Statuta Sveučilišta koji će donijeti Senat.
+(4) Ministar nadležan za visoko obrazovanje će u roku od šest mjeseci od dana spajanja studijskih programa iz članka 1. stavka 2. ovoga Zakona pokrenuti postupak reakreditacije Sveučilišta u skladu s člankom 22. Zakona o osiguravanju kvalitete u znanosti i visokom obrazovanju (»Narodne novine«, br. 45/09.).
