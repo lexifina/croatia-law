@@ -1,0 +1,1 @@
+Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Maroku i za izvanrednu i opunomoćenu veleposlanicu Republike Hrvatske u Gabonskoj Republici, sa sjedištem u Rabatu
