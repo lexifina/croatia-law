@@ -1,0 +1,1 @@
+Odluka o koncesiji na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - industrijske luke Urinj i izgradnje i gospodarskog korištenja pomorskog dobra izvan lučkog područja u k.o. Kostrena Barbara
