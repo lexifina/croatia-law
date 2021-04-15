@@ -1,0 +1,7 @@
+## Podnošenje zahtjeva za potporu
+# Članak 7.
+(1) Zahtjev za potporu podnosi se Agenciji za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja) pismenim putem na obrascu zahtjeva za potporu. Nakon popunjavanja zahtjeva isti je potrebno ispisati, ovjeriti i dostaviti Agenciji za plaćanja preporučenom pošiljkom na adresu: Ulica grada Vukovara 269d, 10 000 Zagreb, u roku propisanom stavkom 3. ovoga članka.
+(2) Uz zahtjev je obvezno priložiti potpisanu Izjavu o poslovnim subjektima koji su međusobno povezani vlasničkim ili drugim odnosima, a upisani su u Upisnik odobrenih objekata u poslovanju s hranom životinjskog podrijetla za obavljanje djelatnosti klanja kopitara i papkara ili peradi i lagomorfa, koji vodi Ministarstvo.
+(3) Zahtjev za potporu podnosi se od 15. do 30. travnja tekuće godine za količine isporučenih nusproizvoda životinjskog podrijetla definiranih u članku 3. stavku 1. točki a). koji su evidentirani u aplikaciji iz članka 4. stavka 1. ovoga Pravilnika za godinu koja je prethodila godini podnošenja zahtjeva za potporu.
+(4) Ukoliko se tijekom administrativne kontrole propisane u članku 8. stavku 1. utvrdi da su informacije na Izjavi iz stavka 2. ovoga članka dostavljene od strane podnositelja neistinite ili netočne, svi podneseni zahtjevi povezanih subjekata podnositelja bit će odbijeni, a podnositelji isključeni iz ostvarivanja prava na potporu iz Programa.
+(5) Obrasce iz stavka 1. i 2. ovoga članka objavljuje Agencija za plaćanja na svojim službenim mrežnim stranicama (www.apprrr.hr).
