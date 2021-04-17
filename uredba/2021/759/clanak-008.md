@@ -1,0 +1,6 @@
+# Članak 8.
+U članku 34. iza stavka 5. dodaju se stavci 6. do 9. koji glase:
+»(6) Prilikom praćenja provedbe aktivnosti i namjenskog trošenja sredstava iz javnih izvora u okviru ugovorenog programa davatelj sredstava obvezan je troškove osoblja koji se odnose na osobe koje na projektu rade dio radnog vremena ugovoriti primjenom fiksnog postotka radnog vremena, u skladu s fiksnim postotkom radnog vremena upotrijebljenog za operaciju mjesečno, bez obveze uspostave zasebnog sustava za evidentiranje radnog vremena.
+(7) Ako su osobe zaposlene na projektu svaki mjesec tijekom trajanja provedbe projekta na fiksni postotak radnog vremena davatelj sredstava za iste ne provjerava niti prikuplja izvještaje o radu osoba.
+(8) Za korištenje metodologije iz stavaka 6. i 7. ovoga članka prilikom objave javnog natječaja, odnosno ugovaranja projekta nužno je definirati mjerljive ishode projekta i financijske korekcije za slučaj neispunjenja mjerljivih ishoda te se ostvarenjem mjerljivog ishoda na razini projekta zaključuje kako je osoba izvršila sve projektne obveze.
+(9) Mjerljive ishode i financijske korekcije iz stavka 8. ovoga članka davatelj financijskih sredstava će jasno utvrditi u natječajnoj dokumentaciji javnog natječaja, dok će količinu svakog pojedinog ostvarenog mjerljivog ishoda prijavitelj na natječaj točno odrediti u svojoj prijavi.«.
