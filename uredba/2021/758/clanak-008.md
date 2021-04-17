@@ -1,0 +1,2 @@
+# Članak 8.
+Na postupak financiranja programa i projekata udruga nacionalnih manjina koji provodi Savjet za nacionalne manjine primjenjuje se poseban propis kojim se uređuju kriteriji financiranja i ugovaranja programa kulturne autonomije nacionalnih manjina i metodologija praćenja i vrednovanja provedbe financiranih programa, a sukladno odredbama Ustavnog zakona o pravima nacionalnih manjina (»Narodne novine«, br. 155/02., 47/10. - Odluka Ustavnog suda Republike Hrvatske, 80/10. i 93/11. - Odluka Ustavnog suda Republike Hrvatske).

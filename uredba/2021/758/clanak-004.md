@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Financiranje programa i projekata za ostvarivanje kulturne autonomije provodi se putem javnog natječaja ili javnog poziva čime se osigurava transparentnost dodjele financijskih sredstava i omogućava dobivanje što većeg broja kvalificiranih prijava, odnosno odabir najkvalitetnijih programa i projekata.
+(2) Na postupak financiranja programa i projekata udruga nacionalnih manjina koji provodi Ured za ljudska prava i prava nacionalnih manjina putem javnog natječaja ili javnog poziva, na odgovarajući način se primjenjuje propis kojim se uređuju kriteriji, mjerila i postupci financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge.
