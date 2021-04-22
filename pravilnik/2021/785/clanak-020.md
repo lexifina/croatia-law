@@ -1,0 +1,4 @@
+# Članak 20.
+Ako se na objavljeni javni poziv nitko ne prijavi ili nitko od prijavljenih kandidata ne bude izabran, javni poziv će se ponoviti u roku ne dužem od tri mjeseca.
+Do imenovanja zapovjednika na temelju ponovljenog javnog poziva imenovat će se vršitelj dužnosti, ali najdulje na vrijeme od godinu dana. Vršitelja dužnosti imenovati će čelnik na prijedlog županijskog vatrogasnog zapovjednika.
+Ukoliko čelnik odbije imenovati vršitelja dužnosti iz stavka 2. ovog članka, odbijanje mora biti obrazloženo i dostavljeno vatrogasnoj zajednici županije, županijskom vatrogasnom zapovjedniku. Čelnik i županijski vatrogasni zapovjednik, će sporazumno utvrditi vršitelja dužnosti, kojeg će potom imenovati čelnik, u što kraćem roku vodeći računa o operativnoj spremnosti vatrogasne zajednice grada, područja odnosno općine.

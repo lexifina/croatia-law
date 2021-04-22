@@ -1,0 +1,4 @@
+# Članak 24.
+Vatrogasna zajednica grada, općine odnosno područna vatrogasna zajednica dostavlja svim osobama koje su se javile na javni poziv obavijest o izboru.
+Osoba koja se javila na javni poziv, može podnijeti prigovor na odluku o imenovanju zbog bitne povrede postupka ili zbog toga što izabrani kandidat ne ispunjava uvjete koji su obavljeni u javnom pozivu predsjedništvu vatrogasne zajednice grada, područja odnosno općine.
+Predsjedništvo vatrogasne zajednice grada, područja odnosno općine po podnesenom prigovoru mora postupiti i prigovor dostaviti Skupštini vatrogasne zajednice grada, područja odnosno općine. Skupština postupak mora riješiti u roku od 45 dana od zaprimanja prigovora. Ukoliko se utvrde nepravilnosti, bitne povrede postupka ili izabrani kandidat ne ispunjava uvjete obavljene u javnom pozivu, odluka o imenovanju će se poništiti, a postupak izbora ponoviti.

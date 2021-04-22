@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom o postupku izbora gradskog, područnog odnosno općinskog vatrogasnog zapovjednika i zamjenika gradskog, područnog odnosno općinskog vatrogasnog zapovjednika (dalje u tekstu: Pravilnik) propisuje se postupak izbora gradskog, područnog odnosno općinskog vatrogasnog zapovjednika i zamjenika gradskog, područnog odnosno općinskog vatrogasnog zapovjednika, tijela koja provode postupak izbora i radnje koje poduzimaju te posljedice izbora.
