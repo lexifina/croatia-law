@@ -1,0 +1,7 @@
+# Članak 5.
+U članku 6. stavku 2. iza riječi: »ovoga Zakona« dodaju se riječi: »i programima energetske obnove zgrada, razvoja zelene infrastrukture u urbanim područjima i razvoj kružnog gospodarenja prostorom i zgradama sukladno odredbama zakona kojim se regulira područje gradnje«.
+Stavci 3. i 4. mijenjaju se i glase:
+»(3) Fond je dužan svoj godišnji program rada i financijski plan za područje energetske učinkovitosti uskladiti s planovima i programima iz stavka 2. ovoga članka te ih dostaviti Ministarstvu i ministarstvu nadležnom za poslove graditeljstva najkasnije do kraja veljače za tekuću godinu.
+(4) Fond je dužan podatke o svakoj mjeri za poboljšanje energetske učinkovitosti koju je sufinancirao i za koju je sudjelovao u postupku dodjele subvencija upisati u sustav za praćenje, mjerenje i verifikaciju ušteda energije iz članka 22. ovoga Zakona u trenutku kada je ta mjera realizirana, dokazujući to na način određen pravilnikom iz članka 22. stavka 3. ovoga Zakona.«.
+Iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Fond je dužan do početka veljače tekuće godine za prethodnu godinu dostaviti Ministarstvu i ministarstvu nadležnom za poslove graditeljstva izvješće o svim mjerama koje je sufinancirao i za koje je sudjelovao u postupku dodjele subvencija, s iskazanom ukupnom visinom investicije, iznosom sufinanciranja i ostvarenim uštedama energije izračunatim u skladu s pravilnikom iz članka 22. stavka 3. ovoga Zakona.«.
