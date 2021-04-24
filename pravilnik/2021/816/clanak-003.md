@@ -1,0 +1,6 @@
+## Objašnjenje pojmova
+# Članak 3.
+U smislu ovoga Pravilnika pojedini pojmovi imaju sljedeće značenje:
+1) Akreditacija je postupak kojim ministarstvo nadležno za poljoprivredu (u daljnjem tekstu: Ministarstvo) utvrđuje ispunjava li Agencija za plaćanja akreditacijske kriterije za korištenje sredstava poljoprivrednih fondova EU propisane Prilogom I. Delegirane uredbe Komisije (EU) br. 907/2014 оd 11. ožujka 2014. o dopuni Uredbe (EU) br. 1306/2013 Europskog parlamenta i Vijeća u pogledu agencija za plaćanja i ostalih tijela, financijskog upravljanja, poravnanja računa, jamstava i upotrebe eura (SL L 255, 28. 8. 2014. - u daljnjem tekstu: Delegirana uredba Komisije (EU) br. 907/2014).
+2) Aktivacija mjere ruralnog razvoja i mjere uređenja ili organizacije tržišta poljoprivrednih proizvoda je postupak provjere je li nova mjera ruralnog razvoja i/ili uređenja ili organizacije tržišta poljoprivrednih proizvoda, koja nije obuhvaćena odlukom o akreditaciji, usklađena sa zahtjevima akreditacijskih kriterija.
+3) Odluka o akreditaciji je akt (dokument) kojim Ministarstvo potvrđuje da Agencija za plaćanja ispunjava akreditacijske kriterije propisane Prilogom I. Delegirane uredbe Komisije (EU) br. 907/2014 i da je uspostavila sustav unutarnjih kontrola za korištenje poljoprivrednih fondova EU sukladno propisima EU.

@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom uređuje provedba Provedbene uredbe Komisije (EU) br. 908/2014 od 6. kolovoza 2014. o utvrđivanju pravila za primjenu Uredbe (EU) broj 1306/2013 Europskog parlamenta i Vijeća u pogledu agencija za plaćanja i drugih tijela, financijskog upravljanja, poravnanja računa, pravila o kontroli, jamstava i transparentnosti (SL L 255, 28. 8. 2014. - u daljnjem tekstu: Provedbena uredba Komisije (EU) br. 908/2014).

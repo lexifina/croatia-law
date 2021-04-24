@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 2. Zakona o poljoprivredi (»Narodne novine« br. 118/18, 42/20 i 127/20 - Odluka Ustavnog suda Republike Hrvatske) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19) ministrica poljoprivrede, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
