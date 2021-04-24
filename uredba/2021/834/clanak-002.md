@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Postupak sklapanja ugovora o javnim uslugama provodi se javnim nadmetanjem ili izravnom pogodbom u skladu s Uredbom (EZ) br. 1370/2007, Zakonom o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18., 98/19. i 30/21.; u daljnjem tekstu: Zakon) i Pravilnikom o obavljanju javnog linijskog prijevoza putnika u cestovnom prometu (»Narodne novine«, broj 116/19.; u daljnjem tekstu: Pravilnik).
+(2) Radi osiguranja kontinuiteta i održivosti javnog linijskog prijevoza, te ostvarenja potrebe za javnim prijevozom putnika u cestovnom prometu utvrđenih mrežom linija, ugovori o javnim uslugama se mogu sklopiti izravnom pogodbom u skladu s člankom 33. stavcima 5., 6. i 7. Zakona, te u skladu s člankom 5. stavcima 4. i 5. Uredbe (EZ) br. 1370/2007.
