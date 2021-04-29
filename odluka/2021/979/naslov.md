@@ -1,0 +1,1 @@
+Odluka o posebnoj sigurnosnoj mjeri obveznog sudjelovanja zdravstvenih ustanova i njihovih radnika te privatnih zdravstvenih radnika, u provođenju cijepljenja protiv bolesti COVID-19 za vrijeme trajanja epidemije bolesti COVID-19
