@@ -1,0 +1,8 @@
+# Članak 8.
+(1) Administrativnu obradu Zahtjeva za potporu obavlja Uprava ribarstva.
+(2) Prilikom administrativne kontrole Zahtjeva za potporu utvrđuje se pravovremenost, potpunost te udovoljavanje propisanim uvjetima i kriterijima.
+(3) Ako je Zahtjev za potporu nepotpun ili ukoliko je potrebno tražiti dodatna obrazloženja/ispravke vezane uz dostavljenu dokumentaciju, Uprava ribarstva će korisniku izdati Zahtjev za dopunu/obrazloženje/ispravak Zahtjeva za potporu (u daljnjem tekstu: Zahtjev za dopunu Zahtjeva za potporu). Korisnik je dužan dostaviti traženu dokumentaciju preporučenom poštom s povratnicom ili osobno Upravi ribarstva u roku od deset radnih dana od prvoga sljedećeg dana nakon dana zaprimanja Zahtjeva za dopunu Zahtjeva za potporu. Kad zadnji dan roka pada u nedjelju, na blagdan ili u drugi dan kad Uprava ribarstva ne radi, rok istječe prvoga sljedećega radnog dana.
+(4) Ako korisnik nije preuzeo Zahtjev za dopunu Zahtjeva za potporu prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ako korisnik ne preuzme Zahtjev za dopunu Zahtjeva za potporu niti nakon ponovljene dostave, Zahtjev za dopunu Zahtjeva za potporu će se objaviti na oglasnoj ploči Ministarstva poljoprivrede, Uprave ribarstva u Zagrebu te će se dostava smatrati obavljenom istekom osmoga dana od dana objave Zahtjeva za dopunu Zahtjeva za potporu na oglasnoj ploči.
+(5) Vremenom zaprimanja Zahtjeva za dopunu Zahtjeva za potporu smatra se datum dostave korisniku.
+(6) Datumom podnošenja potpunog Zahtjeva za potporu smatra se datum dostave tražene dokumentacije i/ili tražene dopune/obrazloženja/ispravka iz stavka 3. ovoga članka.
+(7) Potpuni i pravovremeno dopunjeni Zahtjevi za potporu ulaze u daljnju obradu.
