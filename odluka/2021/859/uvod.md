@@ -1,0 +1,1 @@
+Na temelju članka 230. stavka 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08, 48/10 - Odluka Ustavnog suda Republike Hrvatske, 74/11, 80/13, 158/13 - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14, 64/15, 108/17, 70/19 i 42/20), ministar zdravstva donosi
