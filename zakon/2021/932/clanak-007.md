@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 7.
+(1) Novčarske institucije dužne su uspostaviti mjere elektrokemijske zaštite novca u bankomate propisane ovim Zakonom u roku od tri godine od dana stupanja na snagu ovoga Zakona, osim kada se novi eksterni bankomat stavlja u promet na korištenje građanima ili se zamjenjuje radi amortizacije ili uništenja po počinjenju kaznenog djela, koji mora prije primjene, odnosno puštanja u pogon odmah biti opremljen sustavom elektrokemijske zaštite.
+(2) Uspostava mjera iz stavka 1. ovoga članka mora biti provedena tako da se elektrokemijska zaštita uvede u najmanje jednu trećinu od ukupnog broja eksternih bankomata svake godine, a prioriteti ugradnje ovise o procjeni rizika za počinjenje kaznenih djela na bankomatima na svakoj pojedinoj lokaciji u odnosu na povećani rizik za osobe i imovinu, koju provodi banka.
