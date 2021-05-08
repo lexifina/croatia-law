@@ -1,0 +1,9 @@
+# Članak 10.
+Iza članka 19. dodaje se naslov iznad članka i članak 19.a koji glase:
+»Lakši prekršaji nadziranih doprinositelja
+Članak 19.a
+(1) Novčanom kaznom u iznosu od 200.000,00 kuna do 2.000.000,00 kuna ili od 0,5 % do 2 % ukupnog prihoda koji je ostvario u godini kada je počinjen prekršaj, utvrđenog službenim financijskim izvještajima za tu godinu, ovisno o tome koji je iznos veći, kaznit će se za prekršaj pravna osoba nadzirani doprinositelj ako:
+1. kada doprinosi referentnoj vrijednosti EU-a za klimatsku tranziciju ili referentnoj vrijednosti EU-a usklađenoj s Pariškim sporazumom, ne primjenjuje zahtjeve iz članka 19.a stavka 1. Uredbe (EU) br. 2016/1011, a takva neusklađenost sa zahtjevima iz članka 19.a stavka 1. Uredbe (EU) br. 2016/1011 nije materijalno narušila reprezentativnost i vjerodostojnost te referentne vrijednosti
+2. kada doprinosi referentnoj vrijednosti EU-a za klimatsku tranziciju ili referentnoj vrijednosti EU-a usklađenoj s Pariškim sporazumom, ne primjenjuje minimalne standarde za referentne vrijednosti EU-a za klimatsku tranziciju i referentne vrijednosti EU-a usklađene s Pariškim sporazumom iz članka 19.a stavka 2. točaka a, b i c Uredbe (EU) br. 2016/1011 koji su utvrđeni delegiranim aktima Europske komisije u skladu s člankom 49. Uredbe (EU) br. 2016/1011, a takva neusklađenost sa zahtjevima iz članka 19.a stavka 2. Uredbe (EU) br. 2016/1011 nije materijalno narušila reprezentativnost i vjerodostojnost te referentne vrijednosti.
+(2) Novčanom kaznom u iznosu od 50.000,00 kuna do 760.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka fizička osoba nadzirani doprinositelj.
+(3) Novčanom kaznom u iznosu od 50.000,00 kuna do 760.000,00 kuna kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba nadziranog doprinositelja.«.
