@@ -1,0 +1,8 @@
+# Članak 11.
+(1) Ukoliko kandidat bez opravdanog razloga ne pristupi naučničkom ispitu ili tijekom naučničkog ispita odustane od polaganja smatra se da »nije položio« naučnički ispit.
+(2) Kandidat koji iz opravdanih razloga ne pristupi naučničkom ispitu, obavijest o odgodi polaganja naučničkog ispita i razlozima izostanka, dostavlja Povjerenstvu u roku 24 sata od termina za polaganje naučničkog ispita kojem nije pristupio.
+(3) O zahtjevu kandidata za odgodu naučničkog ispita Povjerenstvo će, temeljem obrazloženja opravdanosti izostanka, donijeti odluku o upućivanju na slijedeći rok, a prethodni rok smatrat će se opravdano neiskorištenim rokom za polaganje naučničkog ispita.
+(4) Opravdanim razlozima nepristupanja polaganju naučničkog ispita smatraju se zdravstveni razlozi, druge izvanredne okolnosti (elementarna nepogoda, smrt u obitelji, prometna nesreća s posljedicama) ili drugi izvanredni događaji.
+(5) Kandidat koji smatra da je tijekom postupka polaganja naučničkog ispita povrijeđeno bilo koje njegovo Pravilnikom propisano pravo ili da je na neki drugi način povrijeđeno njegovo pravo, ima pravo izjaviti pisani prigovor Prosudbenom odboru kao tijelu nadležnom za obavljanje poslova u svezi s organizacijom i provedbom izradbe i obrane završnoga rada, u roku od 24 sata od polaganja naučničkog ispita.
+(6) U svezi prigovora iz stavka 5. ovoga članka, u roku od 24 sata od primitka prigovora, Prosudbeni odbor donosi odluku.
+(7) Ako kandidat na naučničkom ispitu koristi nedopuštena pomagala, ometa tijek naučničkog ispita ili obavlja druge nedopuštene radnje, Povjerenstvo ga može opomenuti ili udaljiti s ispita te se isto evidentira u Zapisniku.
