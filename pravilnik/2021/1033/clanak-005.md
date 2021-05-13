@@ -1,0 +1,2 @@
+# Članak 5.
+U prilozima Pravilnika mijenja se »PRILOG IV. OBRAZAC I., OBRAZAC II., OBRAZAC III., OBRAZAC IV., OBRAZAC V., OBRAZAC VI., OBRAZAC VII., OBRAZAC VIII.«.
