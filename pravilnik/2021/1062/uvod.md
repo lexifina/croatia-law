@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 5., članka 21. stavka 6., članka 27. stavka 2., članka 28. stavka 4., članka 30. stavka 3., članka 33. stavka 5. i članka 34. stavka 3. Zakona o poljoprivredi (»Narodne novine« br. 118/18., 42/20. i 127/20. - Odluka Ustavnog suda Republike Hrvatske), ministrica poljoprivrede donosi
