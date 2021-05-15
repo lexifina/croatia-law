@@ -1,0 +1,13 @@
+# Članak 37.
+Iza članka 98. dodaju se naslov iznad članka i članak 98.a koji glase:
+»Izmjena Specifikacije proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete
+Članak 98.a
+(1) Podnositelj zahtjeva iz članka 98. stavka 1. ovoga Zakona ili druga skupina s pravnim interesom može podnijeti Ministarstvu zahtjev za odobrenje izmjene Specifikacije proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete (u daljnjem tekstu: zahtjev za odobrenje izmjene Specifikacije) uz koji je dužan priložiti novi prijedlog Specifikacije i obrazložene izmjene te opravdan pravni interes.
+(2) Stručnu provjeru zahtjeva za odobrenje izmjene Specifikacije provodi Povjerenstvo iz članka 98. stavka 3. ovoga Zakona.
+(3) Ako Povjerenstvo utvrdi da je potrebno izmijeniti i dopuniti dostavljenu dokumentaciju, podnositelja zahtjeva pozvat će se zaključkom da izmjene i dopune dostavi u roku od 30 dana od dana zaprimanja zaključka, a na traženje podnositelja zahtjeva za odobrenje izmjene Specifikacije rok za izmjene i dopune Ministarstvo može produžiti za najviše 30 dana.
+(4) Ako podnositelj zahtjeva za odobrenje izmjene Specifikacije nije u roku iz stavka 3. ovoga članka dostavio izmjenu i dopunu dokumentacije u skladu sa zaključkom, a po zahtjevu se ne može postupiti ili je Povjerenstvo utvrdilo da dostavljena izmjena i dopuna nije uredna ili da zahtjev ne udovoljava uvjetima iz članka 97. stavaka 2. i 3. ovoga Zakona, na prijedlog Povjerenstva Ministarstvo donosi rješenje o odbacivanju odnosno odbijanju zahtjeva za odobrenje izmjene Specifikacije.
+(5) Prigovor na izmijenjenu Specifikaciju proizvoda može izjaviti svaka fizička ili pravna osoba u roku od 30 dana od dana objave izmijenjene Specifikacije proizvoda na mrežnim stranicama Ministarstva.
+(6) Ako prigovor nije podnesen, na prijedlog Povjerenstva Ministarstvo donosi rješenje o odobrenju izmjene Specifikacije proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete.
+(7) Ako je prigovor podnesen i osnovan, Ministarstvo obavještava podnositelja zahtjeva za odobrenje izmjene Specifikacije o zaprimljenom prigovoru, dostavlja mu presliku dokumentacije prigovora te ga poziva da dostavi očitovanje na uloženi prigovor ili izmijenjenu Specifikaciju u skladu s prigovorom, u roku od 15 dana od dana dostave obavijesti.
+(8) Nakon dostave dokumentacije iz stavka 7. ovoga članka Povjerenstvo odlučuje o očitovanju na uloženi prigovor ili izmijenjenoj Specifikaciji i predlaže Ministarstvu donošenje rješenja o odbijanju ili prihvaćanju zahtjeva za odobrenje izmjene Specifikacije.
+(9) Protiv rješenja iz stavaka 4., 6. i 8. ovoga članka nije dopuštena žalba, već se može pokrenuti upravni spor.«.

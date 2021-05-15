@@ -1,0 +1,2 @@
+# Članak 82.
+Fizičke ili pravne osobe upisane u Registar posrednika na temelju Zakona o poljoprivredi (»Narodne novine«, br. 30/15.) i Zakona o poljoprivredi (»Narodne novine«, br. 118/18., 42/20. i 127/20. - Odluka Ustavnog suda Republike Hrvatske), a koje ne udovoljavaju odredbama ovoga Zakona, brisat će se po službenoj dužnosti iz Registra posrednika u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

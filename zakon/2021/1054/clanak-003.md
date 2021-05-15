@@ -1,0 +1,16 @@
+# Članak 3.
+U članku 3. stavku 1. točki b) riječi: »i kojoj obavljanje gospodarske djelatnosti poljoprivrede nije glavna djelatnost, odnosno zanimanje poljoprivrednik nije glavno ili jedino zanimanje« brišu se, a iza riječi: »te na radu« stavlja se zarez i dodaju riječi: »uključujući prodaju«.
+Točka g) briše se.
+Dosadašnje točke h) do m) postaju točke g) do l).
+Dosadašnja točka n), koja postaje točka m), mijenja se i glasi:
+»m) posrednik u lancu doniranja hrane je pravna osoba koja prikuplja hranu od donatora namijenjenu krajnjem primatelju hrane«.
+Dosadašnje točke o) i p) postaju točke n) i o).
+Dosadašnja točka r), koja postaje točka p), mijenja se i glasi:
+»p) krajnji primatelj hrane je socijalno ugrožena osoba i/ili osoba pogođena elementarnim nepogodama ili prirodnim katastrofama ili osoba koja se donatoru hrane odnosno posredniku u lancu doniranja hrane učini vjerojatnim da je u potrebi te neprofitna pravna osoba koja pruža uslugu smještaja i/ili prehrane štićenicima svog objekta, osim pučkih kuhinja«.
+Dosadašnja točka s) postaje točka r).
+Dosadašnja točka t), koja postaje točka s), mijenja se i glasi:
+»s) službene kontrole u smislu ovoga Zakona jesu službene kontrole kako su definirane člankom 2. stavkom 1. Uredbe (EU) br. 2017/625 Europskog parlamenta i Vijeća od 15. ožujka 2017. o službenim kontrolama i drugim službenim aktivnostima kojima se osigurava primjena propisa o hrani i hrani za životinje, pravila o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja, o izmjeni uredaba (EZ) br. 999/2001, (EZ) br. 396/2005, (EZ) br. 1069/2009, (EZ) br. 1107/2009, (EU) br. 1151/2012, (EU) br. 652/2014, (EU) 2016/429 i (EU) 2016/2031 Europskog parlamenta i Vijeća, uredaba Vijeća (EZ) br. 1/2005 i (EZ) br. 1099/2009 i direktiva Vijeća 98/58/EZ, 1999/74/EZ, 2007/43/EZ, 2008/119/EZ i 2008/120/EZ te o stavljanju izvan snage uredaba (EZ) br. 854/2004 i (EZ) br. 882/2004 Europskog parlamenta i Vijeća, direktiva Vijeća 89/608/EEZ, 89/662/EEZ, 90/425/EEZ, 91/496/EEZ, 96/23/EZ, 96/93/EZ i 97/78/EZ te Odluke Vijeća 92/438/EEZ (Uredba o službenim kontrolama) (SL L 95, 7. 4. 2017.) (u daljnjem tekstu: Uredba (EU) br. 2017/625) koje se provode radi verifikacije usklađenosti s pravilima iz članka 1. stavka 2. podstavaka a), c), e), i) i j) Uredbe (EU) br. 2017/625«.
+Iza točke s) dodaju se točke t), u) i v) koje glase:
+»t) banka hrane je organizacija koja prikuplja hranu od donatora namijenjenu krajnjem primatelju te je daje posredniku u lancu doniranja hrane. Pored navedenog, banka hrane može prikupljenu hranu od donatora dati i izravno krajnjem primatelju
+u) otpad od hrane je sva hrana kako je definirana u članku 2. Uredbe (EZ) br. 178/2002 Europskog parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima sigurnosti hrane (SL L 31, 1. 2. 2002.) (u daljnjem tekstu: Uredba (EZ) br. 178/2002) koja je postala otpad kako je definiran posebnim propisom kojim se uređuje gospodarenje otpadom
+v) informacijski sustav obuhvaća skup međusobno povezanih tehnoloških rješenja i platformi kojima se informatizira i digitalizira poslovni proces.«.
