@@ -1,0 +1,5 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 35.
+(1) Pravilnik iz članka 7. ovoga Zakona donijet će ministar nadležan za poljoprivredu uz prethodnu suglasnost glavnog državnog inspektora, ministra nadležnog za unutarnje poslove i ministra nadležnog za promet u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(2) Pravilnik iz članka 9. ovoga Zakona donijet će ministar nadležan za poljoprivredu u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(3) Do stupanja na snagu pravilnika iz stavka 2. ovoga članka na snazi ostaju: Pravilnik o izdavanju certifikata za žive životinje i proizvode životinjskog podrijetla u međunarodnom prometu (»Narodne novine«, br. 137/08.), Pravilnik o uvjetima koji se primjenjuju prilikom nekomercijalnog premještanja kućnih ljubimaca u Republiku Hrvatsku (»Narodne novine«, br. 65/16.) i Pravilnik o uvjetima kojima moraju udovoljavati veterinarske organizacije, veterinarska praksa i veterinarska služba u sustavu provedbe veterinarske djelatnosti (»Narodne novine«, br. 103/13., 130/14. i 9/19.).
