@@ -1,0 +1,9 @@
+## Zajednički zdravstveni ulazni dokument
+# Članak 47.
+(1) Zajednički zdravstveni ulazni dokument (u daljnjem tekstu: ZZUD) iz članka 56. Uredbe (EU) 2017/625 mora biti sastavljen u elektroničkom obliku kroz sustav IMSOC na hrvatskom jeziku i jeziku zemlje odredišta.
+(2) Subjekti odgovorni za pošiljke životinja i robe iz članka 47. stavka 1. Uredbe (EU) 2017/625 obvezni su unaprijed obavijestiti inspekcijska tijela Državnog inspektorata na graničnoj kontrolnoj postaji o prispijeću pošiljke u skladu s člankom 1. Provedbene uredbe Komisije (EU) 2019/1013 i predstaviti pošiljku za obavljanje službenih kontrola ispunjavanjem i podnošenjem relevantnog dijela ZZUD-a kroz sustav IMSOC na hrvatskom jeziku.
+(3) Subjekt odgovoran za pošiljku obvezan je prilikom popunjavanja dijela I. ZZUD-PP-a (CHED-PP) u svrhu prijave pošiljke za fitosanitarni nadzor ispuniti i podatke o DMP-u koji prati pošiljku odnosno na isti način prijaviti za fitosanitarni nadzor pošiljku koja se u cijelosti sastoji od drvenog materijala za pakiranje.
+(4) DMP koji prati pošiljke koje ne podliježu fitosanitarnom pregledu prijavljuju se prema planu nadzora DMP-a nadležnom carinskom službeniku.
+(5) Nadležni inspektori Državnog inspektorata obvezni su nakon obavljenih službenih kontrola rezultate službenih kontrola i odluku o daljnjem postupanju s pošiljkom unijeti kroz sustav IMSOC u odgovarajući dio ZZUD-a.
+(6) Elektronički oblik dokumenta izdan kroz sustav IMSOC, kao i sva dokumentacija koja je predana u elektroničkom obliku ne mora se ponovno uvoditi u službenu dokumentaciju u skladu s posebnim propisima kojima je uređeno uredsko poslovanje.
+(7) Iznimno od odredbi stavka 4. ovoga članka, pošiljke iz uvoza kojima prvi ulaz u Uniju nije na području Republike Hrvatske evidentiraju se i u nacionalnom informacijskom sustavu koji koristi granična sanitarna inspekcija, a izuzete su iz obveze plaćanja pristojbi i naknada.

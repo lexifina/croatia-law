@@ -1,0 +1,4 @@
+# Članak 71.
+(1) U svrhu provedbe članka 10. stavka 2. i članka 148. Uredbe (EU) 2017/625, članka 6. Uredbe (EZ) 852/2004 te članka 4. Uredbe (EZ) 853/2004 ministarstvo nadležno za poljoprivredu uspostavlja upisnike registriranih subjekata te odobrenih i registriranih objekata u poslovanju s hranom životinjskog podrijetla.
+(2) Subjekt u poslovanju s hranom koji posluje u registriranim i odobrenim objektima u poslovanju s hranom životinjskog podrijetla obvezan je podnijeti zahtjev za registraciju ili odobravanje ministarstvu nadležnom za poljoprivredu, sukladno propisima iz područja veterinarstva.
+(3) Državni inspektorat odnosno osobe koje obavljaju službene kontrole u objektima iz stavka 2. ovoga članka dužne su ministarstvu nadležnom za poljoprivredu redovito dostavljati podatke radi ažuriranja podataka u upisnicima iz stavka 1. ovoga članka.

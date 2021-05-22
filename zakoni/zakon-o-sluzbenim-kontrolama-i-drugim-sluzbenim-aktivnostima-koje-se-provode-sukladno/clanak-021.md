@@ -1,0 +1,21 @@
+## Prava i obveze osoba ovlaštenih za službene kontrole
+# Članak 21.
+(1) Osobe ovlaštene za službenu kontrolu u provedbi ovoga Zakona, Uredbe (EU) 2017/625 i propisa iz članka 2. ovoga Zakona, drugih provedbenih propisa donesenih na temelju Uredbe (EU) 2017/625 i ovoga Zakona te drugih propisa kojima su uređena područja iz članka 3. stavka 1. ovoga Zakona imaju pravo i obvezu:
+− sastavljati zapisnike o službenim kontrolama u skladu s člankom 13. Uredbe (EU) 2017/625
+− provoditi službene kontrole koristeći se prikladnim metodama i tehnikama, primjenjujući sve aktivnosti iz članka 14. Uredbe (EU) 2017/625, i odredbama ovoga Zakona
+− uzimati uzorke u skladu s člankom 34. Uredbe (EU) 2017/625, člankom 39. ovoga Zakona i u skladu s posebnim propisima o hrani i poljoprivredi
+− provoditi inspekcijski nadzor i poduzimati mjere koje su propisane za pošiljke koje ulaze u Uniju u skladu s člancima 65. do 72. Uredbe (EU) 2017/625
+− u slučaju utvrđene nesukladnosti poduzimati mjere u skladu s člancima 137., 138. i 139. Uredbe (EU) 2017/625 i posebnih propisa kojima se uređuje područje iz članka 3. stavka 1. ovoga Zakona
+− u svrhu službene kontrole prodaje, reklamiranja i prezentiranja proizvoda i robe putem sredstava za komuniciranje na daljinu pregledavati mrežne stranice i društvene mreže te naručivati uzorke putem sredstava za komuniciranje na daljinu u skladu s člankom 36. Uredbe (EU) 2017/625
+− obavijestiti drugo tijelo za provedbu službenih kontrola iz članka 5. ovoga Zakona u slučaju utvrđivanja povrede propisa čija je provedba u nadležnosti drugog tijela
+− privremeno zadržati, uz pečaćenje, predmet nadzora do okončanja analize ili do konačnog zbrinjavanja u slučaju sumnje u sigurnost i zdravstvenu ispravnost ili sumnje u zamjenu, otuđenje ili prikrivanje dokaza
+− pečaćenja prostora, prostorija, oprema i uređaja kojima se obavlja djelatnost, kada je primjenjivo
+− samostalno voditi postupke, donositi upravne akte i poduzimati mjere u okviru prava, obveza i ovlasti utvrđenih ovim Zakonom, Uredbom (EU) 2017/625 i drugim posebnim propisima, koristeći se procedurama za provedbu službenih kontrola
+− provoditi godišnje, višegodišnje i posebne planove prema učestalosti i zadanim ciljevima
+− voditi evidencije o provedenim službenim kontrolama i uzorkovanjima u elektroničkom obliku u prikladnom informacijskom sustavu te dostavljati izvješća u skladu s propisanim rokovima ili na zahtjev
+− provoditi postupke certificiranja ako ih je za to ovlastio čelnik nadležnog tijela sukladno članku 6. ovoga Zakona.
+(2) Osoba ovlaštena za obavljanje službene kontrole ovlaštena je pregledati poslovne prostorije, sve radne i pomoćne prostorije i prostore, dokumentaciju, mrežne stranice i stranice društvenih mreža, propisane evidencije, opremu, osobe, predmete rada i poslovanja koji su podvrgnuti nadzoru, uzimati izjave odgovornih osoba i iskaze svjedoka, obavljati uzorkovanja, fotografirati sve radne i pomoćne prostorije i prostore, predmete rada i poslovanja, opremu, osobe, a po potrebi koristiti se i uslugama istaknutih stručnjaka i pravnih osoba.
+(3) Poslovnim prostorijama, u smislu ovoga Zakona, podrazumijevaju se i stambene prostorije prijavljene kao poslovni prostor i druge prostorije, prijevozna sredstva i slično u kojima nadzirana pravna i fizička osoba obavlja odobrenu djelatnost odnosno rad.
+(4) Ako osoba ovlaštena za službenu kontrolu utvrdi ili ako postoji opravdana sumnja da se u privatnom prostoru i/ili vozilu obavlja neregistrirana djelatnost proizvodnje, prerade ili prijevoza hrane, a nadzirana osoba ne dopusti inspektoru obavljanje inspekcijskog nadzora, zatražit će od nadležnoga suda koji rješava prekršajne predmete izdavanje pisanog naloga, po hitnom postupku, za pretragu prostora i/ili vozila odnosno stana te pečaćenje sredstava, predmeta i dokumentacije koji služe obavljanju te djelatnosti, kao i poduzimanje propisanih mjera.
+(5) Nadležni sud će o zahtjevu iz stavka 4. ovoga članka riješiti u rokovima propisanima Prekršajnim zakonom.
+(6) Osoba ovlaštena za provedbu službenih kontrola ovlaštena je provesti nadzor službenih laboratorija koji provodi analize u skladu s ovlaštenjima u svrhu provjere nad ispunjenjem obveza iz članka 43. stavka 12. podstavaka 1. do 5. ovoga Zakona, kojom se prilikom koristi uslugama istaknutih stručnjaka i pravnih osoba.

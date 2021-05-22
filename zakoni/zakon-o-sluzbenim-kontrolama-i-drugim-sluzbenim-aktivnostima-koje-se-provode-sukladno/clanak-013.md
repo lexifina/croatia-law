@@ -1,0 +1,6 @@
+## III. SLUŽBENE KONTROLE
+## Provedba službenih kontrola
+# Članak 13.
+(1) Službene kontrole u skladu s odredbama ovoga Zakona te uredbi iz članka 2. ovoga Zakona, provedbenih propisa donesenih na temelju Uredbe (EU) 2017/625 te propisa kojima su uređena područja iz članka 3. stavka 1. ovoga Zakona obavljaju osobe ovlaštene za službenu kontrolu: sanitarni, fitosanitarni, šumarski, veterinarski i poljoprivredni inspektori Državnog inspektorata, ribarska inspekcija ministarstva nadležnog za poljoprivredu, Agencija, Hrvatski šumarski institut, Carinska uprava te policijski službenici u skladu s podjelom nadležnosti iz članaka 6. do 11. i 14. do 19. ovoga Zakona te u skladu s propisima kojima je uređen djelokrug i ovlasti Državnog inspektorata.
+(2) Službene kontrole, u skladu s odredbama ovoga Zakona te uredbi iz članka 2. ovoga Zakona i propisa kojima su uređena područja iz članka 3. stavka 1. ovoga Zakona, obavljaju i delegirana tijela kojima je, na način kako je uređeno posebnim propisima iz područja veterinarstva i poljoprivrede, nadležno tijelo povjerilo ovlasti za obavljanje službenih kontrola.
+(3) Osobe ovlaštene za provedbu službenih kontrola u skladu s ovim Zakonom dužne su postupati sukladno odredbama članaka 13. i 14. Uredbe (EU) 2017/625.

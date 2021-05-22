@@ -1,0 +1,27 @@
+## Određivanje službenih laboratorija
+# Članak 43.
+(1) Ministarstvo nadležno za poljoprivredu u skladu s člankom 37. Uredbe (EU) 2017/625 ovlašćuje odnosno određuje službene laboratorije za obavljanje laboratorijskih analiza, ispitivanja i dijagnosticiranja na uzorcima koji se uzimaju tijekom službenih kontrola i drugih službenih aktivnosti.
+(2) Iznimno od stavka 1. ovoga članka, službene laboratorije za ispitivanje, kontrolu i praćenje GMO-a i proizvoda koji sadržavaju GMO i/ili se sastoje ili potječu od GMO-a, s naglaskom na GM hranu, GM hranu za životinje te za hranu i hranu za životinje koja sadržava GMO i/ili se sastoji ili potječe od GMO-a, GM hranu i GM hranu za životinje te službene laboratorije za predmete i materijale koji dolaze u neposredan dodir s hranom, ovlašćuje ministarstvo nadležno za zdravstvo u skladu s pravilima iz posebnog propisa iz područja GMO-a i predmeta i materijala koji dolaze u neposredan dodir s hranom.
+(3) Osim uvjeta propisanih člankom 37. stavkom 4. Uredbe (EU) 2017/625, službeni laboratoriji iz stavka 1. ovoga članka moraju zadovoljiti i sljedeće uvjete:
+– imati sjedište na području Republike Hrvatske
+– biti akreditirani od Hrvatske akreditacijske agencije sukladno normi HRN EN ISO/IEC 17025
+– za parametre koji se ispituju metodama koje nisu akreditirane obvezni su uspješno provoditi međulaboratorijske usporedbe najmanje jednom u pet godina
+– posjedovati dokument o registraciji djelatnosti koja upućuje na laboratorijska ispitivanja iz područja za koje traži ovlaštenje.
+(4) Ministar nadležan za poljoprivredu imenuje Povjerenstvo za ovlašćivanje službenih i referentnih laboratorija koje utvrđuje ispunjavanje propisanih uvjeta iz stavka 3. ovoga članka i članka 37. Uredbe (EU) 2017/625.
+(5) Na temelju podnesenog zahtjeva i prijedloga Povjerenstva iz stavka 4. ovoga članka ministarstvo nadležno za poljoprivredu donosi rješenje o ovlašćivanju službenog laboratorija iz stavka 1. ovoga članka.
+(6) U iznimnim slučajevima, u skladu s uvjetima iz članka 42. Uredbe (EU) 2017/625, ministarstvo nadležno za poljoprivredu može privremeno odrediti postojeći službeni laboratorij za uporabu metode laboratorijske analize, ispitivanja ili dijagnosticiranja za koje nije dobio akreditaciju.
+(7) Kada u Republici Hrvatskoj nema službenog laboratorija ovlaštenog za određenu analizu, ministarstvo prema nadležnosti iz stavaka 1. i 2. ovoga članka, u skladu s uvjetima članka 37. Uredbe (EU) 2017/625, može odlukom odrediti službeni laboratorij u nekoj od država članica ili trećoj zemlji koja je ugovorna stranka Sporazuma o Europskom gospodarskom prostoru u kojem se može provesti analiza.
+(8) Zahtjev za donošenje rješenja o ovlašćivanju službenih laboratorija laboratorij podnosi ministarstvu nadležnom za poljoprivredu.
+(9) Službeni laboratorij obvezan je, u slučaju nastalih promjena koje mogu utjecati na izdano rješenje, obavijestiti ministarstvo nadležno za poljoprivredu u roku od 30 dana od nastanka promjene i o tome dostaviti dokaze pismenim putem.
+(10) Ministarstvo nadležno za poljoprivredu ukinut će rješenje o ovlašćivanju službenog laboratorija iz stavka 1. ovoga članka ako službeni laboratorij ne poduzme odgovarajuće i pravodobne korektivne mjere nakon što se rezultatima revizije utvrdi sljedeće:
+a) službeni laboratorij više ne ispunjava uvjete iz članka 37. Uredbe (EU) 2017/625 i stavaka 3. i 13. ovoga članka
+b) službeni laboratorij nije dovoljno uspješan u međulaboratorijskim usporednim ispitivanjima u skladu s odredbama norme EN ISO/IEC 17025 i međunarodno prihvaćenim znanstvenim protokolima.
+(11) Popis laboratorija iz stavaka 1., 2., 6. i 7. ovoga članka objavljuje se na mrežnim stranicama ministarstva nadležnog za poljoprivredu i ministarstva nadležnog za zdravstvo prema nadležnosti iz stavaka 1. i 2. ovoga članka.
+(12) Uz obveze propisane člankom 38. Uredbe (EU) 2017/625, laboratoriji iz stavaka 1. i 2. ovoga članka dužni su:
+– dostavljene službene uzorke za analizu pripraviti, analizirati i iskazati rezultate u skladu s propisima
+– po dostavi odmah započeti analizu uzorka, a nakon završetka analize izraditi analitičko izvješće i dostaviti ga tijelu koje je dostavilo uzorak
+– odmah po završetku analize sve relevantne podatke o analizi i rezultatima, na način kako to nadležno tijelo zahtijeva, unijeti u informatičke sustave koje su uspostavila nadležna tijela
+– u slučaju nesukladnih rezultata nalaz dostaviti tijelu koje je dostavilo uzorak elektroničkim putem u roku ne dužem od 48 sati
+– dostaviti analitičko izvješće koje mora sadržavati najmanje: broj analitičkog izvješća, naziv uzorka, podatke o uzorkovanju, datum dostave, datum početka i završetka analize, opis dostavljenog uzorka, klasu i urudžbeni broj zapisnika o uzorkovanju ili referentni broj uzorka, temperaturu dostave ako je primjenjivo, tekst označivanja proizvoda ako je primjenjivo, metodu i tehniku kojom je izvršena analiza, izjavu o sukladnosti ili nesukladnosti uzorka ako je primjenjivo, podatke o laboratoriju koji je proveo analizu i ostale podatke ako su propisani posebnim propisom iz područja za koje se provodi analiza
+– surađivati s nacionalnim referentnim laboratorijem iz područja ovlaštenja te o tome dostavljati godišnja izvješća u obliku u kojem to zahtijeva nacionalni referentni laboratorij.
+(13) Ministar nadležan za poljoprivredu donosi pravilnik kojim se detaljnije razrađuju pojedine odredbe ovoga članka Zakona radi njihove primjene.
