@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Zakonom utvrđuju obveze javnih naručitelja i naručitelja da pri javnoj nabavi određenih vozila za cestovni prijevoz radi promicanja i poticanja tržišta za čista i energetski učinkovita vozila i povećanja doprinosa prometnog sektora politikama Unije koje se odnose na zaštitu okoliša, klimu i energetiku u obzir uzmu energetske učinke i učinke na okoliš za trajanja cijelog radnog vijeka vozila, uključujući potrošnju energije te emisije CO2 i emisije određenih onečišćujućih tvari.
