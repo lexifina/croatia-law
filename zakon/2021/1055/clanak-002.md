@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»(1) Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva (EU) 2018/2001 Europskog parlamenta i Vijeća od 11. prosinca 2018. o promicanju uporabe energije iz obnovljivih izvora (Tekst značajan za EGP) (SL L 328, 21. 12. 2018.).
+(2) Ovim se Zakonom osigurava provedba Uredbe (EU) 2018/1999 Europskog parlamenta i Vijeća od 11. prosinca 2018. o upravljanju energetskom unijom i djelovanjem u području klime, izmjeni uredaba (EZ) br. 663/2009 i (EZ) br. 715/2009 Europskog parlamenta i Vijeća, direktiva 94/22/EZ, 98/70/EZ, 2009/31/EZ, 2009/73/EZ, 2010/31/EU, 2012/27/EU i 2013/30/EU Europskog parlamenta i Vijeća, direktiva Vijeća 2009/119/EZ i (EU) 2015/652 te stavljanju izvan snage Uredbe (EU) br. 525/2013 Europskog parlamenta i Vijeća (SL L 328, 21. 12. 2018.) (u daljnjem tekstu: Uredba o upravljanju energetskom unijom) u dijelu koji se odnosi na korištenje biogoriva i energije iz obnovljivih izvora energije u prometu.«.
