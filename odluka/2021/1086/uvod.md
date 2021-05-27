@@ -1,0 +1,1 @@
+Na temelju odredbi članka 25. stavka 5. Zakona o sanaciji kreditnih institucija i investicijskih društava (»Narodne novine«, br. 146/2020.) i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi
