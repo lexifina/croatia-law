@@ -1,0 +1,1 @@
+Naputak o financijskom jamstvu

@@ -1,0 +1,2 @@
+# Članak 2.
+Kada prilikom određivanja iznosa financijskog jamstva pod točkom E. Dodatka IV. Pravilnika iz članka 1. ovoga Naputka, FJ iznosi 0,00 kuna ili manje od 0,00 kuna, smatra se da je dostavom obrazloženja predmetnog izračuna ispunjen uvjet iz članka 91. stavka 1. točke 8. i članka 99. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13, 73/17, 14/19 i 98/19) i članka 89. Zakona o izmjenama i dopunama Zakona o održivom gospodarenju otpadom (»Narodne novine«, broj 14/19).

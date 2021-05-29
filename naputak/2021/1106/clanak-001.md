@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Naputkom određuje se način primjene članka 91. stavka 1. točke 8. i članka 99. Zakona o održivom gospodarenju otpadom (»Narodne novine«, br. 94/13, 73/17, 14/19 i 98/19) i članka 89. Zakona o izmjenama i dopuna Zakona o održivom gospodarenju otpadom (»Narodne novine«, broj 14/19) i članka 21. Pravilnika o gospodarenju otpadom (»Narodne novine«, broj 81/20), a u svezi Dodatka IV. Pravilnika.
