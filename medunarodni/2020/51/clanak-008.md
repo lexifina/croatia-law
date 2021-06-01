@@ -1,0 +1,11 @@
+# Članak 8.
+TRANSAKCIJE ZA PRIJENOS DIVIDENDI
+1. Odredbe obuhvaćenog ugovora o izbjegavanju dvostrukog oporezivanja kojima su dividende koje je platilo društvo koje je rezident ugovorne jurisdikcije izuzete od oporezivanja ili kojima je ograničena stopa po kojoj se takve dividende mogu oporezivati, pod uvjetom da je stvarni korisnik ili primatelj društvo koje je rezident druge ugovorne jurisdikcije i koje posjeduje, drži ili kontrolira više od određenog iznosa imovine, udjela, dionica, glasačke moći, glasačkog prava ili sličnih korisničkih udjela u društvu koje plaća dividende, primjenjuju se samo ako su vlasnički uvjeti opisani u tim odredbama ispunjeni tijekom razdoblja od 365 dana koje obuhvaća dan plaćanja dividendi (u svrhu računanja tog razdoblja ne uzimaju se u obzir promjene vlasništva koje bi izravno nastale kao rezultat reorganizacije, kao što je reorganizacija spajanjem ili podjelom, društva koje posjeduje udjele ili plaća dividende).
+2. Najkraće razdoblje držanja iz stavka 1. primjenjuje se umjesto ili u slučaju nepostojanja najkraćeg razdoblja držanja u odredbama obuhvaćenog ugovora o izbjegavanju dvostrukog oporezivanja opisanima u stavku 1.
+3. Stranka može zadržati pravo:
+a) da se ovaj članak u cijelosti ne primjenjuje na njezine obuhvaćene ugovore o izbjegavanju dvostrukog oporezivanja;
+b) da se ovaj članak u cijelosti ne primjenjuje na njezine obuhvaćene ugovore o izbjegavanju dvostrukog oporezivanja u mjeri u kojoj odredbe opisane u stavku 1. već obuhvaćaju:
+i) najkraće razdoblje držanja;
+ii) najkraće razdoblje držanja kraće od razdoblja od 365 dana; ili
+iii) najkraće razdoblje držanja dulje od razdoblja od 365 dana.
+4. Svaka stranka koja nije izrazila rezervu opisanu u podstavku a) stavka 3. dužna je obavijestiti depozitar o tome sadrži li svaki od njezinih obuhvaćenih ugovora o izbjegavanju dvostrukog oporezivanja odredbu opisanu u stavku 1., koja ne podliježe rezervi opisanoj u podstavku b) stavka 3. te, ako je to slučaj, broj članka i stavka svake takve odredbe. Stavak 1. primjenjuje se u pogledu odredbe obuhvaćenog ugovora o izbjegavanju dvostrukog oporezivanja samo ako su sve ugovorne jurisdikcije dostavile obavijest u pogledu te odredbe.
