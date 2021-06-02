@@ -1,0 +1,2 @@
+# Članak 1.
+Prigodni optjecajni kovani novac od 25 kuna u povodu 75. obljetnice osnivanja Hrvatske zajednice tehničke kulture, 1946. - 2021., izdan u skladu s Odlukom o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske (»Narodne novine« br. 37/1994., 44/1994. i 68/1994.), s osnovnim obilježjima utvrđenima u Odluci o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna u povodu 75. obljetnice osnivanja Hrvatske zajednice tehničke kulture, 1946. - 2021. (»Narodne novine«, br. 59/2021.), pušta se u optjecaj 23. lipnja 2021.
