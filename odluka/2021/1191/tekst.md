@@ -1,0 +1,19 @@
+I.
+U Odluci o privremenoj zabrani i ograničavanju prelaska preko graničnih prijelaza Republike Hrvatske (»Narodne novine« broj 32/21, 40/21, 46/21, 52/21 i 58/21) u točki III. stavak 1. mijenja se i glasi:
+»Osobama koje dolaze neposredno iz država i/ili regija članica Europske unije odnosno država i/ili regija članica schengenskog prostora i država pridruženih schengenskom prostoru koje nisu obuhvaćene točkom II. ove Odluke, ulazak u Republiku Hrvatsku omogućit će se uz:
+- predočenje potvrde o negativnom PCR testu koji nije stariji od 72 sata od trenutka testiranja ili brzom antigenskom testu na SARS-CoV-2 koji je naveden na Zajedničkoj listi brzih antigenskih testova koje međusobno priznaju države članice Europske unije, a koju objavljuje Europska komisija, ako nalaz testa nije stariji od 48 sati od trenutka testiranja do dolaska na granični prijelaz.
+- predočenje potvrde o primitku dvije doze cjepiva koje se koristi u državama članicama EU-a ako je prošlo 14 dana od primitka druge doze cjepiva ili predočenje potvrde o primitku jedne doze cjepiva koje se prima u jednoj dozi (Janssen/Johnson&Johnson) ako je prošlo 14 dana od primitka te jedne doze.
+- predočenje potvrde o preboljenju bolesti COVID-19 i primitku jedne doze cjepiva unutar šest mjeseci od početka bolesti COVID-19, a cijepljenje je provedeno prije manje od 180 dana.
+- osobe koje su cijepljene cjepivom Pfizer, Moderna, ili Gamaleya, u Republiku Hrvatsku mogu ući u razdoblju od 22. do najviše 42. dana od primitka prve doze cjepiva Pfizer, Moderna, Gamaleya, odnosno od 22. do najviše 84. dana od primitka prve doze cjepiva AstraZeneca.
+- predočenje pozitivnog PCR ili brzog antigenskog testa, iz podstavka 1. ovog stavka, kojim se potvrđuje da se osoba oporavila od infekcije virusom SARS-CoV-2, pri čemu je taj test napravljen unazad 180 dana, a stariji je od 11 dana od dana dolaska na granični prijelaz ili uz predočenje potvrde o preboljenoj bolesti COVID-19, izdane od liječnika
+- određivanje samoizolacije po dolasku u Republiku Hrvatsku uz mogućnost PCR ili brzog antigenskog testiranja na SARS-CoV-2, a u slučaju nemogućnosti testiranja samoizolacija traje 10 dana.«
+II.
+U točki V. stavak 3. mijenja se i glasi:
+»Osobama iz stavka 2. podstavka 7., 8. i 10. ove točke, te osobama iz stavka 2. podstavka 9. ove točke koje se u Republici Hrvatskoj zadržavaju duže od 12 sati, ulaz u Republiku Hrvatsku omogućit će se uz:
+- predočenje potvrde o negativnom PCR testu koji nije stariji od 72 sata od trenutka testiranja ili brzom antigenskom testu na SARS-CoV-2 koji je naveden na Zajedničkoj listi brzih antigenskih testova koje međusobno priznaju države članice Europske unije, a koju objavljuje Europska komisija, ako nalaz testa nije stariji od 48 sati od trenutka testiranja do dolaska na granični prijelaz.
+- predočenje potvrde o primitku dvije doze cjepiva koje se koristi u državama članicama EU-a ako je prošlo 14 dana od primitka druge doze cjepiva ili predočenje potvrde o primitku jedne doze cjepiva koje se prima u jednoj dozi (Janssen/Johnson&Johnson) ako je prošlo 14 dana od primitka te jedne doze.
+- predočenje potvrde o preboljenju bolesti COVID-19 i primitku jedne doze cjepiva unutar šest mjeseci od početka bolesti COVID-19, a cijepljenje je provedeno prije manje od 180 dana.
+- predočenje pozitivnog PCR ili brzog antigenskog testa, iz točke III. stavka 1. podstavka 1 ove Odluke, kojim se potvrđuje da se osoba oporavila od infekcije virusom SARS-CoV-2, pri čemu je taj test napravljen unazad 180 dana, a stariji je od 11 dana od dana dolaska na granični prijelaz ili uz predočenje potvrde o preboljenoj bolesti COVID-19, izdane od liječnika
+- određivanje samoizolacije po dolasku u Republiku Hrvatsku uz mogućnost PCR ili brzog antigenskog testiranja na SARS-CoV-2, a u slučaju nemogućnosti testiranja samoizolacija traje 10 dana.«
+III.
+Ova Odluka objavit će se u »Narodnim novinama«, a stupa na snagu 2. lipnja 2021.
