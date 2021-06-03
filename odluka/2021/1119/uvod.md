@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 4. Zakona o obrani (»Narodne novine«, broj 73/13, 75/15, 27/16, 110/17 - Odluka Ustavnog suda Republike Hrvatske, 30/18 i 70/19), na prijedlog načelnika Glavnog stožera Oružanih snaga Republike Hrvatske, donosim
