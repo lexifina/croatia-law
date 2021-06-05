@@ -1,0 +1,3 @@
+## II. UVJETI I NAČIN USTUPANJA POVJERLJIVIH PODATAKA DRŽAVNOG ZAVODA ZA STATISTIKU DRUGIM NOSITELJIMA SLUŽBENE STATISTIKE
+# Članak 4.
+U obavljanju poslova službene statistike, a radi smanjenja opterećenja izvještajnih jedinica i osiguranja usklađenosti potrebe za proizvodnjom službene statistike ili za procjenom kvalitete rezultata službene statistike, Zavod može drugim nositeljima službene statistike u Republici Hrvatskoj omogućiti pristup povjerljivim podacima koje je Zavod prikupio provođenjem statističkih istraživanja, pod uvjetom da je to potrebno za učinkovit razvoj, proizvodnju, diseminaciju ili za povećanje kvalitete službene statistike iz djelokruga nositelja službene statistike koji zahtijeva podatke i da je potreba za takvim podacima opravdana.
