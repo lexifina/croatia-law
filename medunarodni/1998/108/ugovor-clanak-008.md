@@ -1,3 +1,0 @@
-# Članak 8.
-(1) Ako iz pravnih propisa jedne ugovorne stranke ili iz međunarodnopravnih obveza, koje između ugovornih stranaka postoje pored ovog Ugovora ili će se zasnovati u budućnosti, proizlazi neki opći ili posebni način uređivanja kojim se ulaganjima državljana ili društava druge ugovorne stranke treba odobriti povoljnije postupanje nego prema ovom Ugovoru, onda ova regulativa ima prednost pred ovim Ugovorom utoliko ukoliko je ona povoljnija.
-(2) Svaka ugovorna stranka će se pridržavati svake druge obveze, koju je preuzela u odnosu na ulaganja državljana ili društava druge ugovorne stranke na svom teritoriju.

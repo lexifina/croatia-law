@@ -1,5 +1,0 @@
-# Članak 3.
-(1) Svaka ugovorna stranka postupa na svom teritoriju s ulaganjima, koja su u vlasništvu ili pod utjecajem državljana ili društva druge ugovorne stranke, ne manje povoljno nego s ulaganjima vlastitih državljana i društava ili s ulaganjima državljana i društava iz trećih država.
-(2) Svaka ugovorna stranka postupa s državljanima ili društvima druge ugovorne stranke u pogledu njihovog djelovanja u vezi s ulaganjima na svojem teritoriju ne manje povoljno nego sa svojim vlastitim državljanima i društvima ili s državljanima i društvima trećih država.
-(3) Ovo postupanje ne odnosi se na pogodnosti, koje jedna ugovorna stranka daje državljanima ili društvima iz trećih država zbog njihovog članstva u nekoj carinskoj ili gospodarskoj uniji, nekom zajedničkom tržištu ili nekoj zoni slobodne trgovine ili zbog njihove udruženosti u te institucije.
-(4) Postupanje odobreno u ovom članku ne odnosi se na povlastice, koje jedna ugovorna stranka odobri državljanima ili društvima iz trećih država na temelju sporazuma o dvostrukom oporezivanju ili drugih dogovora o poreznim pitanjima.
