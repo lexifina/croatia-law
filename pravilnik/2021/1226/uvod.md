@@ -1,0 +1,1 @@
+Na temelju članka 11., stavka 8. i članka 13., stavka 3. i 4. Zakona o članarinama u turističkim zajednicama (»Narodne novine«, br. 52/19. i 144/20.) ministrica turizma i sporta, uz prethodnu suglasnost ministra financija, donosi

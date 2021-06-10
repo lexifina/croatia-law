@@ -1,0 +1,1 @@
+Pravilnik o dopuni Pravilnika o godišnjem paušalnom iznosu članarine za osobe koje pružaju ugostiteljske usluge u domaćinstvu i na obiteljskom poljoprivrednom gospodarstvu i o obrascima TZ za plaćanje članarine turističkoj zajednici
