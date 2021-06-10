@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Osobe koje pružaju ugostiteljske usluge u domaćinstvu ili na obiteljskom poljoprivrednom gospodarstvu, oslobađaju se za 2021. godinu, plaćanja pola godišnjeg paušalnog iznosa turističke pristojbe za glavni krevet i smještajnu jedinicu u kampu i kamp-odmorištu te prema kapacitetu u objektu za robinzonski smještaj, koji se koriste za pružanje usluga smještaja sukladno posebnom propisu kojim se uređuje obavljanje ugostiteljske djelatnosti.
+(2) Osobe iz stavka 1. ovoga članka, oslobađaju se za 2021. godinu plaćanja godišnjeg paušalnog iznosa turističke pristojbe za pomoćne krevete u cijelosti.
