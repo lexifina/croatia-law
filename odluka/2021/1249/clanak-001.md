@@ -1,0 +1,2 @@
+# Članak 1.
+Hrvatska narodna banka izdaje numizmatičke komplete prigodnoga zlatnoga i srebrnoga kovanog novca nominalnih vrijednosti od 5, 2 i 1 kune te 50, 20, 10, 5, 2 i 1 lipe s motivima devet apoena optjecajnoga kovanog novca Republike Hrvatske i s godinom kovanja »2021.« u povodu Dana neovisnosti Republike Hrvatske, 25. lipnja 2021., povijesnog i političkog događaja važnoga za Republiku Hrvatsku.

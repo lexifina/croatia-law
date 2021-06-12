@@ -1,0 +1,2 @@
+# Članak 8.
+Prodaju prigodnoga zlatnoga numizmatičkog kompleta i prigodnoga srebrnoga numizmatičkog kompleta, koja ujedno uključuje i poduzimanje svih popratnih aktivnosti u svrhu omogućavanja prodaje, uključujući promociju kompleta, obavlja Hrvatski novčarski zavod d.o.o. po prodajnoj cijeni koju, kao ovlašteni prodavatelj, samostalno određuje u skladu s člankom 2. stavkom 3. Odluke o određivanju i objavi prodajnih cijena prigodnoga zlatnoga i srebrnoga kovanog novca i numizmatičkih kompleta (»Narodne novine«, br. 114/2020.).

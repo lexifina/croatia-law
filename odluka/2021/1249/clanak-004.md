@@ -1,0 +1,2 @@
+# Članak 4.
+Lice i naličje prigodnoga zlatnoga kovanog novca u numizmatičkom kompletu i prigodnoga srebrnoga kovanog novca u numizmatičkom kompletu opisani su u točki 17. podtočkama od 1) do 6) te u točki 23. podtočkama od 1) do 8) Odluke o apoenima i osnovnim obilježjima novčanica i kovanog novca kune i lipe (»Narodne novine«, br. 37/1994.), osim godine kovanja, koja je na prigodnome zlatnome kovanom novcu u numizmatičkom kompletu i prigodnome srebrnome kovanom novcu u numizmatičkom kompletu »2021.«.
