@@ -1,0 +1,4 @@
+# Članak 1.
+U Uredbi o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi (»Narodne novine«, br. 37/01., 38/01. - ispravak, 71/01., 89/01., 112/01., 7/02. - ispravak, 17/03., 197/03., 21/04., 25/04. - ispravak, 66/05., 131/05., 11/07., 47/07., 109/07., 58/08., 32/09., 140/09., 21/10., 38/10., 77/10., 113/10., 22/11., 142/11., 31/12., 49/12., 60/12., 78/12., 82/12., 100/12., 124/12., 140/12., 16/13., 25/13., 52/13., 96/13., 126/13., 2/14., 94/14., 140/14., 151/14., 76/15., 100/15., 71/18. i 73/19.), u članku 7.d stavku 1. podstavku a) Položaji I. vrste, u točki 1. iza radnog mjesta »voditelj Odjela održavanja zrakoplova i kontinuirane plovidbenosti« dodaje se radno mjesto koje glasi:
+»voditelj Odjela zemaljskih operacija, navigacije i administrativnih poslova«.
+U podstavku b) Položaji II. vrste, riječi: »voditelj Odjela zemaljskih operacija, navigacije i administrativnih poslova« brišu se.
