@@ -1,0 +1,2 @@
+# Članak 3.
+Osobama iz članka 2. ovoga Pravilnika koje su u razdoblju od 1. siječnja 2021. godine do dana stupanja na snagu ovoga Pravilnika platile turističku pristojbu u paušalnom iznosu, a vremensko razdoblje važenja nije isteklo do dana stupanja na snagu ovoga Pravilnika, vremensko razdoblje važenja plaćene turističke pristojbe produljuje se za 20% vremenskog razdoblja za koje je turistička pristojba plaćena.
