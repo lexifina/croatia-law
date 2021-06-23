@@ -1,0 +1,1 @@
+Odluka o donošenju Nacionalnog plana za uključivanje Roma za razdoblje od 2021. do 2027. godine i Akcijskog plana za provedbu Nacionalnog plana za uključivanje Roma, za razdoblje od 2021. do 2027. godine, za 2021. i 2022. godinu
