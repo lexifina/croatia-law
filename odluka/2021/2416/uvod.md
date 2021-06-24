@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 1. Zakona o vodnim uslugama (»Narodne novine« 66/19), članka 52. i članka 56. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17, 66/19), Skupština Društva Hvarskog vodovoda d.o.o. Jelsa, na svojoj 106. sjednici, održanoj 18. lipnja 2021. donosi
