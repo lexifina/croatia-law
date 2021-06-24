@@ -1,3 +1,0 @@
-# Članak 58.
-(1) Tijekom mandatnog razdoblja za koje se Smjernice usvajaju, na godišnjoj razini provode se analize stanja sustava civilne zaštite kojima se prati realizacija i usklađuju planovi razvoja sustava civilne zaštite za svaku godinu do kraja mandatnog razdoblja.
-(2) Godišnjim analizama stanja sustava civilne zaštite prati se napredak implementacije ciljeva iz Smjernica, utvrđuje novo stanje, redefiniraju prioriteti, ocjenjuje doprinos nositelja i sudionika u provođenju mjera i aktivnosti iz plana razvoja sustava civilne zaštite, analizira financiranje sustava civilne zaštite i realizacija svih drugih aktivnosti od značaja za provođenje revizije planova razvoja sustava civilne zaštite.
