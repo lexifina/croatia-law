@@ -1,0 +1,5 @@
+## III. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 59.
+(1) Vanjski planovi koji su prije dana stupanja na snagu ovog Pravilnika dobili suglasnost tijela državne uprave nadležnog za poslove civilne zaštite, nositelji izrade dužni su provjeriti i uskladiti ga s odredbama ovog Pravilnika u roku iz stavka 3. ovog članka, samo ako su nastale suštinske promjene u području Vanjskog plana, po proceduri iz članka 57. ovog Pravilnika.
+(2) Postupci donošenja Vanjskih planova započeti do stupanja na snagu ovog Pravilnika, nastavit će se i dovršiti prema odredbama Pravilnika o nositeljima, sadržaju i postupcima izrade planskih dokumenata u civilnoj zaštiti te načinu informiranja javnosti u postupku njihova donošenja (»Narodne novine« br. 49/17).
+(3) Nositelji izrade ostalih donesenih planskih dokumenata u civilnoj zaštiti dužni su ih uskladiti s odredbama ovoga Pravilnika u roku od šest mjeseci od dana stupanja na snagu ovog Pravilnika, samo ako su nastale suštinske promjene sukladno proceduri iz članka 56. ovog Pravilnika.

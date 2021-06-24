@@ -1,0 +1,6 @@
+# Članak 44.
+(1) Operativne planove izrađuju pravne osobe koje djelatnost obavljaju korištenjem opasnih tvari i to:
+- pravne osobe kod kojih se u području postrojenja utvrdi prisutnost opasnih tvari u količinama jednakim ili iznad graničnih količina opasnih tvari propisanih u Prilogu I. A, Dijelu 1. Stupcu 2. i Dijelu 2. stupcu 2., a ispod graničnih količina iz stupaca 3. navedenih priloga iz Uredbe, tzv. područja postrojenja nižeg razreda
+- pravne osobe kod kojih se u području postrojenja utvrdi prisutnost opasnih tvari u količinama ispod graničnih koje su propisane u Prilogu I. A, Dijelu 1. Stupcu 2. i Dijelu 2 Stupcu 2. Uredbe, a jednakim ili iznad 2% donjih graničnih malih količina
+- pravne osobe kod kojih se u području postrojenja utvrdi prisutnost opasnih tvari u količinama manjim od 2% donjih graničnih malih količina koje su propisane u Prilogu I. A, Dijelu 1. Stupcu 2. i Dijelu 2 Stupcu 2. Uredbe, ako su procjenom rizika utvrdile posljedice nesreće prelaze granice perimetra područja postrojenja.
+(2) U postupku izrade operativnih planova kao polazište za utvrđivanje količina opasnih tvari uzimaju se maksimalno izvedeni kapaciteti za korištenje opasnim tvarima na području postrojenja.

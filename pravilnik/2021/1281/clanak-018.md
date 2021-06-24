@@ -1,0 +1,10 @@
+# Članak 18.
+(1) Planiranje komunikacije u izvanrednim događajima obuhvaća:
+- komunikaciju s javnošću
+- komunikaciju sa sudionicima sustava civilne zaštite
+- komunikaciju operativnih snaga sustava civilne zaštite.
+(2) Komunikacija s javnošću ostvaruje se korištenjem kanala ranog upozoravanja i uzbunjivanja, uključujući poruke upućene na mobilne uređaje korisnika mobilnih komunikacijskih mreža, putem sredstava javnog priopćavanja, korištenjem lokalnih elektroničkih medija te putem odnosa s javnošću sudionika sustava civilne zaštite (u slučaju kada se proglasi katastrofa koordinaciju preuzima tijelo državne uprave nadležno za poslove civilne zaštite).
+(3) Komunikacija sa sudionicima sustava civilne zaštite ostvaruje se putem ustrojstvenih jedinica tijela državne uprave nadležnog za poslove civilne zaštite, a sukladno planu kojega vodi i ažurira to tijelo.
+(4) Komunikacija operativnih snaga sustava civilne zaštite ostvaruje se korištenjem sustava sukladno Planu veza kojega definira i ažurira tijelo državne uprave nadležno za poslove civilne zaštite, a putem ustrojstvenih jedinica tog tijela.
+(5) Tijelo državne uprave nadležno za poslove civilne zaštite izrađuje Plan komunikacija iz stavka 2. ovog članka, koji sadrži popis radiodifuznih kapaciteta (koncesionara) i njime se utvrđuje mogućnost sudjelovanja u provođenju mjera civilne zaštite iz nadležnosti javnih i komercijalnih medija koje se provode sa svrhom informiranja stanovništva u izvanrednim uvjetima.
+(6) Plan veza za potrebe sustava civilne zaštite u velikim nesrećama i katastrofama izrađuje tijelo državne uprave nadležno za poslove civilne zaštite i namijenjen je uzbunjivanju, aktiviranju i mobiliziranju članova Stožera CZ RH te pripadnika kapaciteta sustava civilne zaštite strategijske razine, komunikacije s područnim (regionalnim) razinama sustava te pružateljima telekomunikacijskih usluga koji podupiru i postupanje sustava po planu veza i dodatnim zahtjevima tijela državne uprave nadležnog za poslove civilne zaštite.

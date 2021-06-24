@@ -1,0 +1,2 @@
+# Članak 54.
+Svi nositelji izrade planskih dokumenata u civilnoj zaštiti dužni su u postupak donošenja propisa uključiti javnost kako bi se prikupile informacije o interesima, stavovima i prijedlozima zainteresirane javnosti u vezi s javnim politikama na području civilne zaštite te pravovremeno uočile slabosti i negativni učinci javnih politika, a koje kroz postupak savjetovanja treba otkloniti prije njihovog formalnog usvajanja.

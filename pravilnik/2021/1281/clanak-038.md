@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Nositelj izrade, prije usvajanja, dužan je na nacrt Vanjskog plana ili na nacrt izmijenjenog i dopunjenog Vanjskog plana pribaviti suglasnost tijela državne uprave nadležnog za poslove civilne zaštite direktno ili putem ovlaštene pravne osobe s kojom je ugovorio izradu Vanjskog plana ili njegovih izmjena i dopuna.
+(2) Nositelj izrade dužan je, nakon pribavljanja suglasnosti iz stavka 1. ovog članka, Vanjski plan usvojiti i objaviti u službenom glasilu i/ili na službenim internetskim stranicama u obliku koji je u skladu sa zaštitom tajnosti podataka i osobnih podataka.
+(3) Ako tijelo državne uprave nadležno za civilnu zaštitu utvrdi na temelju procjene rizika iz Vanjskog plana da područje postrojenja u blizini državnog područja druge države članice nije u stanju uzrokovati prekograničnu opasnost od velike nesreće pa zbog toga ne treba izraditi Vanjski plan, o svojoj obrazloženoj odluci obavješćuje drugu državu članicu.

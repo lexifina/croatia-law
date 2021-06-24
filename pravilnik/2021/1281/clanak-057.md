@@ -1,0 +1,6 @@
+# Članak 57.
+(1) Nositelji izrade planskih dokumenata u civilnoj zaštiti, koje su na temelju odredbi ovog Pravilnika obvezni izraditi, dužni su kontinuirano, sukladno promjenama u normativnom području, procjenama rizika ili metodološkim promjenama, provoditi njihovo usklađivanje.
+(2) Postupak usklađivanja planskih dokumenata iz stavka 1. ovog članka provodi se na dva načina:
+- redovno tekuće ažuriranje priloga i podataka iz sadržaja dokumenata koje, što se tiče procedure, ne implicira identičan postupak kao prilikom njihovog usvajanja, ali se o provedenom postupku vodi službena zabilješka
+- suštinske promjene u njihovom sadržaju, na temelju promjena u normativnom području, stanja u prostoru i povećanja urbane ranjivosti, koje zahtijevaju intervencije u drugim planskim dokumentima iste ili niže hijerarhijske razine, koje impliciraju identičan postupak usvajanja izmijenjenih i dopunjenih dokumenata kao prilikom njihovog usvajanja.
+(3) U slučaju usklađivanja Vanjskog plana, nositelj izrade obavješćuje nadležno tijelo državne uprave nadležno za poslove civilne zaštite o nastalim suštinskim promjenama iz stavka 2. podstavka 2. ovog članka, na temelju čega navedeno nadležno tijelo državne uprave donosi odluku o izradi izmjena i dopuna Vanjskog plana.

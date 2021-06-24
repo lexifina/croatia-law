@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Po svakom od rizika identificiranom u Procjeni rizika razrađuju se postupci pripravnosti i mobilizacija operativnih snaga sustava civilne zaštite te njihovo plansko i sukcesivno uključivanje u aktivnosti sustava civilne zaštite u velikim nesrećama i katastrofama.
+(2) Planiranje mobilizacije provodi se na temelju odredbi provedbenog propisa o mobilizaciji, uvjetima i načinu rada operativnih snaga sustava civilne zaštite i primjenom relevantnih odredbi drugih provedbenih propisa na području civilne zaštite te sadrži organizaciju i provođenje mobilizacije operativnih snaga sustava civilne zaštite po prioritetima uključivanja u provođenje mjera i aktivnosti sustava u velikim nesrećama i katastrofama.
+(3) Osim provođenja mobilizacije, utvrđuju se i zadaće i način koordinacije svih sudionika sustava civilne zaštite.
