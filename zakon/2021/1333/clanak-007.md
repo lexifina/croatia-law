@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 29. stavku 4. riječi: »Naputkom o načinu isplate beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave, Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje (»Narodne novine«, br. 46/20.)« zamjenjuju se riječima: »naputkom kojim se uređuje način isplate beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave, Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje«.

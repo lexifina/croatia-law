@@ -1,0 +1,20 @@
+# Članak 2.
+Iza članka 7. dodaju se članci 7.a i 7.b koji glase:
+»Članak 7.a
+(1) Vlada donosi odluku o isplati razlike iznosa uvećanja plaće za prekovremeni rad radnicima u djelatnosti zdravstva i zdravstvenog osiguranja na prijedlog Ministarstva zdravstva.
+(2) Sredstva za isplatu razlike iznosa uvećanja plaće za prekovremeni rad radnika u zdravstvenim ustanovama kojima su osnivači Republika Hrvatska i jedinice lokalne područne (regionalne) samouprave planirana su na pozicijama Ministarstva zdravstva, aktivnosti A880007 Isplata razlike uvećanja plaće za prekovremeni rad.
+(3) Sredstva iz stavka 2. ovoga članka mogu se, uz suglasnost Ministarstva, preraspodjeljivati tijekom proračunske godine, i to bez ograničenja unutar aktivnosti A880007 Isplata razlike uvećanja plaće za prekovremeni rad.
+(4) Sredstva iz stavka 2. ovoga članka za zdravstvene ustanove kojima je osnivač Republika Hrvatska mogu se, uz suglasnost Ministarstva, preraspodjeljivati bez ograničenja na pozicije zdravstvenih ustanova kojima je osnivač Republika Hrvatska.
+(5) Za preraspodjelu sredstava iz stavka 4. ovoga članka zdravstvena ustanova kojoj je osnivač Republika Hrvatska može naknadno utvrditi aktivnosti i stavke unutar svog financijskog plana, uz prethodnu suglasnost Ministarstva.
+(6) Ministarstvo zdravstva će zdravstvenim ustanovama kojima su osnivači jedinice lokalne područne (regionalne) samouprave sredstva iz stavka 2. ovoga članka isplaćivati kao namjensku pomoć.
+(7) Ministarstvo zdravstva će s jedinicama lokalne područne (regionalne) samouprave potpisati ugovore o načinu utroška sredstava namjenske pomoći doznačenih u skladu s ovim člankom.
+(8) Jedinice lokalne područne (regionalne) samouprave dužne su pratiti i kontrolirati utrošak sredstava koja će biti doznačena zdravstvenim ustanovama, a o utrošku sredstava dužne su izvijestiti Ministarstvo zdravstva i Ministarstvo na način i u rokovima koje utvrdi Ministarstvo zdravstva u ugovorima iz stavka 7. ovoga članaka.
+Članak 7.b
+(1) Vlada donosi odluke o isplati sredstava za podmirivanje dijela dospjelih obveza bolničkih zdravstvenih ustanova kojima su osnivači Republika Hrvatska i jedinice lokalne područne (regionalne) samouprave prema dobavljačima lijekova, potrošnog i ugradbenog medicinskog materijala na prijedlog Ministarstva zdravstva uz prethodnu suglasnost Ministarstva.
+(2) Sredstva iz stavka 1. ovoga članka planirana su na pozicijama Ministarstva zdravstva, aktivnosti A618207 Administracija i upravljanje, skupini računa 36 Pomoći dane u inozemstvo i unutar općeg proračuna.
+(3) Sredstva iz stavka 1. ovoga članka mogu se, uz suglasnost Ministarstva, preraspodjeljivati tijekom proračunske godine, i to bez ograničenja unutar aktivnosti A618207 Administracija i upravljanje, skupine računa 36 Pomoći dane u inozemstvo i unutar općeg proračuna.
+(4) Sredstva iz stavka 1. ovoga članka za bolničke zdravstvene ustanove kojima je osnivač Republika Hrvatska mogu se, uz suglasnost Ministarstva, preraspodijeliti bez ograničenja na pozicije bolničkih zdravstvenih ustanova kojima je osnivač Republika Hrvatska.
+(5) Za preraspodjelu sredstava iz stavka 4. ovoga članka bolnička zdravstvena ustanova kojoj je osnivač Republika Hrvatska može naknadno utvrditi aktivnosti i stavke unutar svog financijskog plana, uz prethodnu suglasnost Ministarstva.
+(6) Ministarstvo zdravstva će bolničkim zdravstvenim ustanovama kojima su osnivači jedinice lokalne područne (regionalne) samouprave sredstva iz stavka 1. ovoga članka isplaćivati kao namjensku pomoć.
+(7) Ministarstvo zdravstva će s jedinicama lokalne područne (regionalne) samouprave potpisati ugovore o načinu utroška sredstava namjenske pomoći doznačenih u skladu s ovim člankom.
+(8) Jedinice lokalne područne (regionalne) samouprave dužne su pratiti utrošak sredstava koja će biti doznačena bolničkim zdravstvenim ustanovama, a o utrošku sredstava dužne su izvijestiti Ministarstvo zdravstva i Ministarstvo na način i u rokovima koje utvrdi Ministarstvo zdravstva u ugovorima iz stavka 7. ovoga članaka.«.
