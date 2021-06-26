@@ -1,0 +1,2 @@
+# Članak 27.
+Pružatelji usluga iz članka 95. stavka 2. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17., 25/19., 98/19. i 42/20.) dužni su u roku tri mjeseca od dana stupanja na snagu ovoga Zakona dostaviti Ministarstvu obavijest o pružanju usluga, koja sadrži podatke o tvrtki i sjedištu, njezinu osobnom identifikacijskom broju, adresi svakog prostora u kojem se pružaju usluge te svaku promjenu navedenih podataka prijaviti u roku od osam dana od nastale promjene.

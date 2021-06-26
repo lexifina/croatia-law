@@ -1,0 +1,8 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 25.
+(1) Putnik kojemu je za neizvršeni ugovor o putovanju u paket-aranžmanu izdan vaučer temeljem članka 38.a Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17., 25/19., 98/19. i 42/20.) ima pravo na raskid ugovora o putovanju u paket-aranžmanu i pravo na povrat svih izvršenih plaćanja.
+(2) Organizator je dužan putniku iz stavka 1. ovoga članka vratiti sva plaćanja izvršena u korist putnika sukladno članku 37. stavcima 6. i 7. u roku iz članka 37. stavka 8. te članku 38. stavcima 2. i 3. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17., 25/19., 98/19. i 42/20.).
+(3) Iznimno od stavaka 1. i 2. ovoga članka, vaučer iz stavka 1. ovoga članka, uz pristanak putnika, može se iskoristiti za sklapanje ugovora o zamjenskom putovanju u paket-aranžmanu jednake, veće ili niže vrijednosti i / ili kvalitete te izlet ili drugu uslugu putovanja, u roku od jedne godine od njegova izdavanja.
+(4) Ako je temeljem vaučera iz stavka 1. ovoga članka ugovoreno zamjensko putovanje u paket-aranžmanu odnosno izlet ili druga usluga putovanja niže kvalitete ili cijene od iznosa vaučera, putnik ima pravo na povrat razlike cijene.
+(5) Ako putnik ne iskoristi vaučer za sklapanje ugovora o zamjenskom putovanju u paket-aranžmanu u roku iz stavka 3. ovoga članka, smatrat će se da je isti raskinut i putnik ima pravo na povrat svih izvršenih plaćanja sukladno stavku 1. ovoga članka.
+(6) Putnik može pravo korištenja vaučera iz stavka 1. ovoga članka prenijeti na drugu osobu sukladno odredbama članka 34. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17., 25/19., 98/19. i 42/20.) kojim se uređuje prijenos ugovora o putovanju u paket-aranžmanu na drugog putnika.

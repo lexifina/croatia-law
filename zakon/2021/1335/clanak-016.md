@@ -1,0 +1,3 @@
+# Članak 16.
+U članku 102. stavak 4. mijenja se i glasi:
+»(4) Iznimno od odredaba ovoga članka, turistički inspektor dužan je bez odgađanja, a najkasnije u roku od 15 dana od dana završetka inspekcijskog nadzora, podnijeti optužni prijedlog za pokretanje prekršajnog postupka odnosno izdati prekršajni nalog ili naplatiti kaznu na mjestu izvršenja prekršaja u svim slučajevima kada je propisana upravna mjera zabrane te u slučajevima utvrđenja prekršaja iz članka 107. stavka 1., članka 108. stavka 1. točke 8., članka 109. stavka 1. točaka 1., 3. i 7., članka 110. stavka 1. točaka 1., 2., 3. i 6., članka 111. stavka 1. točaka 1. do 8., članka 112.a i članka 112.b ovoga Zakona te u svim slučajevima ponavljanja istog prekršaja.«.

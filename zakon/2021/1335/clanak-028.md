@@ -1,0 +1,2 @@
+# Članak 28.
+Do uspostave Središnjeg registra Ministarstvo i nadležna upravna tijela nastavljaju dostavljati izvršna rješenja iz članka 87. stavaka 2., 3. i 5. i članka 89. stavaka 1. i 2. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17., 25/19., 98/19. i 42/20.) nadležnom područnom uredu tijela državne uprave nadležnog za poslove turističke inspekcije i nadležnoj ispostavi područnog ureda tijela državne uprave nadležnog za porezni sustav.

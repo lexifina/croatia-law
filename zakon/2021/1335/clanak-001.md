@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o pružanju usluga u turizmu (»Narodne novine«, br. 130/17., 25/19., 98/19. i 42/20.) u članku 2. na kraju točke 2. briše se točka i dodaje se točka 3. koja glasi:
+»3. Direktiva 2005/36/EZ Europskog parlamenta i Vijeća od 7. rujna 2005. o priznavanju stručnih kvalifikacija (Tekst značajan za EGP) (SL L 255, 30. 9. 2005.), kako je posljednji put izmijenjena Direktivom 2013/55/EU Europskog parlamenta i Vijeća od 20. studenoga 2013. o izmjeni Direktive 2005/36/EZ o priznavanju stručnih kvalifikacija i Uredbe (EU) br. 1024/2012 o administrativnoj suradnji putem Informacijskog sustava unutarnjeg tržišta (»Uredba IMI«) (Tekst značajan za EGP) (SL L 354, 28. 12. 2013.).«.
