@@ -1,0 +1,4 @@
+## O IZMJENAMA I DOPUNAMA PRAVILNIKA O RADU U SUSTAVU eSpis
+# Članak 1.
+U Pravilniku o radu u sustavu eSpis (»Narodne novine«, broj 35/15, 123/15, 45/16, 29/17, 112/17, 119/18, 39/20, 138/20 i 147/20) članak 23. stavak 3. mijenja se i glasi:
+»(3) Stalno verifikacijsko tijelo ima 17 članova od kojih je jedan sudac Vrhovnog suda Republike Hrvatske, dva suca županijskih sudova (jedan iz građanske i jedan iz kaznene grane sudovanja), tri suca općinskih sudova (jedan iz građanske, jedan iz kaznene grane sudovanja i jedan za prekršajne predmete), jedan sudac trgovačkih sudova, jedan sudac upravnih sudova, jedan sudac Visokog trgovačkog suda Republike Hrvatske, jedan sudac Visokog prekršajnog suda Republike Hrvatske, jedan sudac Visokog upravnog suda Republike Hrvatske, jedan sudac Visokog kaznenog suda Republike Hrvatske i pet predstavnika ministarstva nadležnog za poslove pravosuđa.«.

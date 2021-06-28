@@ -1,0 +1,3 @@
+## »VI. OSNIVANJE SPISA NA OPĆINSKIM, TRGOVAČKIM, UPRAVNIM I ŽUPANIJSKIM SUDOVIMA KADA ODLUČUJU U PRVOM STUPNJU«.
+# Članak 3.
+Naslov glave VII. iznad članka 38. mijenja se i glasi:
