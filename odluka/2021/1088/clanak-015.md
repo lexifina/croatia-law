@@ -1,0 +1,3 @@
+# Članak 15.
+U točki 245. Upute podtočka 2. mijenja se i glasi:
+»2) U izvješću »AE« vrsta iznosa »34« dostavlja se na razini pojedine protustranke uz predefiniranu kombinaciju instrumenta »A9999«, valute »HRK«, indeksacije »N000«, portfelja »XXX« i vremenskog razreda »V1000«. Tom se vrstom iznosa prikuplja bruto knjigovodstvena vrijednost izloženosti s mjerama restrukturiranja, u skladu s definicijom restrukturiranih izloženosti iz Priloga V. dijela 2. poglavlja 30. Provedbene uredbe Komisije (EU) br. 680/2014 od 16. travnja 2014. o utvrđivanju provedbenih tehničkih standarda o nadzornom izvješćivanju institucija u skladu s Uredbom (EU) br. 575/2013 Europskog parlamenta i Vijeća, pri čemu su obuhvaćene i prihodujuće i neprihodujuće izloženosti.«

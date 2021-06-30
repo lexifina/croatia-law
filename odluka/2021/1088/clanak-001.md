@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o statističkom i nadzornom izvješćivanju (»Narodne novine«, br. 85/2018., 47/2019., 14/2020., 53/2020. i 122/2020.) u članku 3. stavak 2. mijenja se i glasi:
+»(2) Kreditna institucija dužna je Hrvatskoj narodnoj banci dostaviti sva izvješća iz članka 4. ove Odluke. Podružnica strane banke i Hrvatska banka za obnovu i razvitak dužne su Hrvatskoj narodnoj banci dostaviti samo izvješća koja se prikupljaju za statističke svrhe, a koja su određena člankom 4. stavkom 2. ove Odluke, i samo izvješća na nekonsolidiranoj osnovi. Podružnica strane banke dužna je Hrvatskoj narodnoj banci dostaviti i izvješće o mjerama iz članka 4. stavka 1. točke 20. ove Odluke.«
