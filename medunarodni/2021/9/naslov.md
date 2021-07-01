@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Svjetske meteorološke organizacije o pravnom statusu i djelovanju Ureda za projekte Svjetske meteorološke organizacije u Republici Hrvatskoj
