@@ -1,0 +1,2 @@
+# Članak 8.
+Okvirni broj državnih službenika i namještenika u Ministarstvu hrvatskih branitelja prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja (»Narodne novine«, br. 97/20. i 100/20.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu hrvatskih branitelja koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
