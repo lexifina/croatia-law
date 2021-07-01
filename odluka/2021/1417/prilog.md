@@ -1,0 +1,43 @@
+IZMJENA I DOPUNE PROGRAMA
+JAMSTAVA ZA KREDITE ZA PODUZETNIKE AKTIVNE U PODRUČJU KULTURE I KREATIVNIH INDUSTRIJA
+1.
+U Programu jamstava za kredite za poduzetnike aktivne u području kulture i kreativnih industrija (»Narodne novine«, br. 77/20. i 28/21.), u uvodnom dijelu iza drugog odlomka dodaje se tekst:
+»Ovaj Program predstavlja akt temeljem kojeg Vlada Republike Hrvatske - Ministarstvo kulture i medija (u daljnjem tekstu: MKM), putem provedbenog tijela Hrvatske agencije za malo gospodarstvo, inovacije i investicije (u daljnje tekstu: HAMAG-BICRO) može, bez potrebe za daljnjom obavijesti, dodjeljivati pojedinačne potpore korisnicima koji ispunjavaju propisane uvjete.
+Instrument državne potpore uređen ovim Programom predstavlja državno jamstvo za nove kredite poduzetnika kod poslovnih banaka.
+Ovaj Program, osim što predstavlja akt dodjele potpore sukladno Zakonu o državnim potporama (»Narodne novine«, br. 47/14. i 69/17.), ujedno je okvir i smjernica za rad stručnim službama MKM-a i djelatnicima HAMAG-BICRO-a. HAMAG-BICRO u ime i za račun Vlade Republike Hrvatske provodi Program u smislu prihvata zahtjeva prijavitelja, prikupljanja potrebne dokumentacije od podnositelja zahtjeva, obrade zahtjeva, a sve zaključno do faze odnosa komitent - banka koji proizlazi iz međusobnih prava i obveza uređenih obvezno-pravnim ugovorom o kreditu.
+Nadzor nad provedbom plaćanja ili pozivima na plaćanje, izvješćivanje o istima u provedbi mjera, kao i protestiranjima državnih jamstava u provedbi mjera iz ovoga Programa osigurat će Vlada Republike Hrvatske svojim i/ili odgovarajućim provedbenim aktima MKM-a.
+Za vrijeme trajanja ovoga Programa MKM u suradnji s HAMAG-BICRO-om kao provedbenim tijelom, procjenjuje moguće rizike koji mogu nastati u slučaju da korisnici zajmova, za koje će biti izdana jamstva, neće biti u mogućnosti izvršavati svoje obveze te na temelju toga, a radi osiguranja plaćanja potencijalnih obveza koje mogu nastati temeljem izdanih jamstava, planira sredstva u okviru svoga financijskog plana.
+MKM će pratiti korištenje državnih jamstava odobrenih iz ovoga Programa, izvršavati pozive po plaćanjima u slučaju protestiranja državnih jamstava, transparentno, objektivno i dosljedno voditi evidencije o izdanim jamstvima, odnosno potencijalnim obvezama te potraživanjima koja mogu nastati temeljem izdanih jamstava.
+O evidencijama i drugim postupanjima iz prethodnog odlomka MKM će pravodobno izvještavati Ministarstvo financija.
+Ukupan iznos proračuna planiran na temelju Programa iznosi 300.000.000,00 kuna.
+U slučaju povećanja planiranog proračuna Republika Hrvatska će o navedenom obavijestiti Europsku komisiju.
+U smislu ovoga Programa, pojedini pojmovi imaju sljedeće značenje:
+− državna potpora je stvarni i potencijalni rashod ili umanjeni prihod države dodijeljen od davatelja državne potpore u bilo kojem obliku koji narušava ili prijeti narušavanjem tržišnog natjecanja stavljajući u povoljniji položaj određenog poduzetnika ili proizvodnju određene robe i/ili usluge utoliko što utječe na trgovinu između država članica Europske unije, u skladu s člankom 107. Ugovora o funkcioniranju Europske unije (u daljnjem tekstu: UFEU)
+− program državne potpore je pravni akt na temelju kojeg se, bez potrebe za dodatnim provedbenim mjerama, unaprijed neodređenim korisnicima državne potpore dodjeljuju državne potpore, kao i pravni akt na temelju kojeg se državna potpora koja unaprijed nije vezana uz poseban projekt dodjeljuje jednom ili više korisnika državne potpore na neodređeno vrijeme i/ili u neodređenom iznosu
+− mikro, mali i srednji poduzetnik je poduzetnik definiran u članku 2. Priloga I Uredbe Komisije (EU) br. 651/2014 od 17. lipnja 2014. o ocjenjivanju određenih kategorija potpora spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora (SL L 187, 26. 6. 2014., u daljnjem tekstu: Uredba o općem skupnom izuzeću)
+− poduzetnik u poteškoćama je poduzetnik definiran u članku 2. točki 18. Uredbe o općem skupnom izuzeću
+− potpora male vrijednosti je potpora uređena važećom Uredbom Komisije (EU) br. 1407/2013 оd 18. prosinca 2013. o primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije na de minimis potpore (SL L 352, 24. 12. 2013., u daljnjem tekstu: Uredba o de minimis potporama), a koja zbog svoga iznosa ne narušava ili ne prijeti narušavanjem tržišnog natjecanja i ne utječe na trgovinu između država članica Europske unije te ne predstavlja državnu potporu iz članka 107. stavka 1. UFEU
+− davatelj državne potpore je tijelo državne uprave, jedinica lokalne i područne (regionalne) samouprave te svaka pravna osoba koja dodjeljuje državne potpore/potpore male vrijednosti
+− korisnik državne potpore je svaka pravna i fizička osoba koja, obavljajući gospodarsku djelatnost, sudjeluje u prometu roba i usluga, a prima državnu potporu/potporu male vrijednosti, bez obzira na njezin oblik i namjenu.«.
+2.
+U točki 2. »Uvjeti definirani Programom«, tablični prikaz zamjenjuje se sljedećim tekstom:
+»Potpore u obliku jamstava za kredite dodjeljuju se u skladu s odjeljkom 3.1. Privremenog okvira poduzetnicima koji su suočeni s iznenadnim manjkom likvidnosti ili čak potpunom nelikvidnosti uslijed izbijanja pandemije bolesti COVID-19.
+Temeljem ovoga Programa HAMAG-BICRO će vršiti obradu zahtjeva za nove kredite za obrtna sredstva uz državno jamstvo kao posrednik prema poslovnim bankama.
+Ukupan iznos jamstva po poduzetniku ne smije prijeći 800.000,00 eura po kreditu, te rokom otplate kredita s uključenim počekom od najkraće jednu godinu, a najduže pet godina.
+Povoljnija premija za državna jamstva na nove kredite koja će izdavati Vlada Republike Hrvatske iznosit će 0,00 %, naknada za obradu zahtjeva za nove kredite u korist HAMAG-BICRO-a iznosit će 0,1 % glavnice kredita, državno jamstvo osigurat će se na 100 % iznosa kredita i trajat će najkraće jednu godinu, a najduže pet godina.
+Ukupan iznos novih kredita ne može biti veći od 800.000,00 eura po poduzetniku, a svi iznosi moraju biti bruto iznosi, tj. prije odbitka poreza ili drugih troškova.
+Ugovori o kreditima s državnim jamstvom moraju biti zaključeni do 31. prosinca 2021., a državna jamstva moraju biti izdana do 31. prosinca 2021.
+Prilikom odobrenja državnog jamstva na nove kredite, poslovne banke će HAMAG-BICRO-u nedvojbeno morati dokazati da su pogodnosti iz državnog jamstva u najvećoj mogućoj mjeri prenijele na poduzetnike, te će HAMAG-BICRO svojim mehanizmom osigurati maksimalni prijenos potpore na korisnika i zaštitnim mjerama onemogućiti neizravne potpore poslovnim bankama te time ograničiti neopravdano narušavanje tržišnog natjecanja. U tom smislu, HAMAG-BICRO će ugovornim odnosom s poslovnim bankama u provedbi ovoga Programa osigurati uvjete kredita za korisnike mjere državne potpore iz ovoga Programa po povoljnijim uvjetima (snižena kamatna stopa i/ili niži zahtjevi za instrumente osiguranja i slično).«.
+3.
+Iza točke 2. dodaje se naslov iznad točke i točka 2.a koji glase:
+»2.a Zbrajanje potpora, čuvanje podataka i izvještavanje
+Privremene mjere državne potpore obuhvaćene ovim Programom mogu se međusobno zbrajati u skladu s odredbama u posebnim odjeljcima Privremenog okvira.
+Privremene mjere državne potpore obuhvaćene ovim Programom mogu se zbrajati s potporom na temelju Uredbe o de minimis potporama ili s potporom na temelju Uredbe o općem skupnom izuzeću ako se poštuju odredbe i pravila o zbrajanju iz tih uredbi.
+Maksimalne ukupne gornje granice i iznosi kredita i jamstava utvrđeni ovim Programom, primjenjuju se i u slučajevima kada korisnici potpore temeljem ovoga Programa, koriste i mjere potpore temeljem Privremenog okvira iz drugih izvora.
+MKM će objaviti relevantne informacije o svakoj pojedinačnoj potpori odobrenoj u skladu s ovim Programom na svojim internetskim stranicama, u roku od 12 mjeseci od trenutka dodjele.
+MKM je dužno Europskoj komisiji dostavljati godišnja izvješća o provedbi mjere.
+MKM će Ministarstvu financija dostaviti popis mjera uvedenih na temelju programa odobrenih na temelju Privremenog okvira radi dostave toga popisa Europskoj komisiji do 30. prosinca 2021.
+MKM će osigurati vođenje detaljne evidencije o dodjeli potpora predviđenih Privremenim okvirom. Takve evidencije, koje moraju sadržavati sve informacije potrebne kako bi se utvrdilo da su ispunjeni potrebni uvjeti, moraju se čuvati 10 godina nakon dodjele potpore i na zahtjev dostaviti Europskoj komisiji.
+Na njezin zahtjev MKM će dostaviti Europskoj komisiji dodatne informacije o dodijeljenim potporama kako bi provjerila jesu li se poštovali uvjeti utvrđeni u odluci Europske komisije kojom je odobrila potporu.«.
+4.
+Program iz točke 1. i ova Izmjena i dopune Programa važe do iskorištavanja sredstva, a najkasnije do 31. prosinca 2021.
