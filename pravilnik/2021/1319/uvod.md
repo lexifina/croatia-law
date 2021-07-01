@@ -1,0 +1,1 @@
+Na temelju članka 167. stavka 3. Zakona o osiguranju (»Narodne novine« broj 30/15, 112/18, 63/20 i 133/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj dana 17. lipnja 2021. donosi

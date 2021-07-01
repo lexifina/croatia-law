@@ -1,0 +1,8 @@
+## Mjere oporavka i plan provedbe mjera
+# Članak 5.
+(1) Društvo je dužno u planu oporavka detaljno objasniti realnost i pravovremenost predloženih mjera oporavka kako bi poboljšalo svoj položaj solventnosti i očuvalo održivu razinu istog, također uzimajući u obzir internu razinu ograničenja dopuštenih rizika utvrđen u okvirima prihvatljivosti rizika Društva. Predložene mjere trebaju unaprijediti sve nedostatke i manjkavosti u sustavu upravljanja rizicima Društva koje su uzrokovale neusklađenosti s potrebnim solventnim kapitalom.
+(2) U planu oporavka mora biti dokumentirana izvedivost mjera oporavka, uključujući predvidljive i vjerojatne nepovoljne događaje te pojašnjenje:
+a) utjecaja na solventnost i likvidnost Društva
+b) vremenski okvir za provedbu tih mjera i očekivano vrijeme potrebno za uočavanje koristi od mjera oporavka i
+c) u slučaju gdje je primjenjivo, prethodno iskustvo vezano za utjecaj međuovisnosti promjene poslovnog modela i profila rizika.
+(3) Društvo je dužno u plan oporavka uključiti sveobuhvatan plan provedbe, raščlanjujući ga na određene aktivnosti i rokove za svaki korak s procjenom izvedivosti imajući u vidu potencijalnu situaciju na tržištu, opseg do kojeg provedba ovisi o trećim osobama, rizike, mjere za ublažavanje rizika i prema potrebi drugo. HANFA će procijeniti postoje li dovoljni dokazi da se predložene mjere oporavka mogu provesti na vrijeme i učinkovito u trenutnom okruženju i tijekom razdoblja oporavka. Predložene mjere oporavka bez propisno opisanog i opravdanog utjecaja i ocjene izvedivosti neće se smatrati pouzdanima.
