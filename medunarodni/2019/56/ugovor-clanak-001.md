@@ -1,0 +1,3 @@
+# Članak 1.
+SVRHA
+Svrha ovog Protokola je dopuniti odredbe Konvencije Vijeća Europe o sprječavanju terorizma, otvorene za potpisivanje u Varšavi 16. svibnja 2005. (dalje u tekstu »Konvencija«) u pogledu inkriminacije radnji opisanih u člancima 2. do 6. ovog Protokola, čime se povećavaju napori stranaka u sprječavanju terorizma i njegovih negativnih učinaka na potpuno uživanje ljudskih prava, posebice prava na život, kako mjerama koje treba poduzeti na nacionalnoj razini, tako i putem međunarodne suradnje, vodeći računa o postojećim mnogostranim ili dvostranim ugovorima ili sporazumima između stranaka koji su primjenjivi.

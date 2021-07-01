@@ -1,0 +1,4 @@
+# Članak 8.
+UVJETI I JAMSTVA
+1. Svaka stranka osigurava da se pri provedbi ovog Protokola, uključujući utvrđivanje, provedbu i primjenu inkriminacija iz članaka 2. do 6., poštuju obveze u pogledu ljudskih prava, posebice pravo na slobodu kretanja, slobodu izražavanja, slobodu udruživanja i slobodu vjeroispovijesti, kako je utvrđeno u, ako su primjenjive na tu stranku, Konvenciji za zaštitu ljudskih prava i temeljnih sloboda, Međunarodnom paktu o građanskim i političkim pravima te drugim obvezama prema međunarodnom pravu.
+2. Utvrđivanje, provedba i primjena inkriminacija iz članaka 2. do 6. ovog Protokola trebali bi, nadalje, biti podložni načelu proporcionalnosti, uz poštovanje legitimnih postavljenih ciljeva i njihove nužnosti u demokratskom društvu, te bi trebali isključivati svaki oblik proizvoljnosti ili diskriminirajuće ili rasističko postupanje.
