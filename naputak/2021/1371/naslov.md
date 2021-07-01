@@ -1,0 +1,1 @@
+Naputak o izmjeni i dopuni Naputka o načinu isplate beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave, Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje
