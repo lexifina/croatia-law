@@ -1,0 +1,9 @@
+O DOPUNI ODLUKE O USVAJANJU PROGRAMA DODJELE DRŽAVNIH POTPORA SEKTORU TURIZMA I SPORTA U AKTUALNOJ PANDEMIJI COVID-a 19 I USVAJANJU IZMJENA I DOPUNA PROGRAMA DODJELE DRŽAVNIH POTPORA SEKTORU TURIZMA I SPORTA U AKTUALNOJ PANDEMIJI COVID-a 19
+I.
+U Odluci o usvajanju Programa dodjele državnih potpora sektoru turizma i sporta u aktualnoj pandemiji COVID-a 19 (»Narodne novine«, broj 10/21.), u točki III. dodaje se stavak 2. koji glasi:
+»Ovlašćuju se HBOR i HAMAG-BICRO, za davanje suglasnosti na izmjene i dopune jamstva i ugovora o kreditu za koji je izdano jamstvo u skladu s Programom, uključujući i ako se navedenim izmjenama i dopunama mijenja ročnost i/ili ako se mijenjaju uvjeti zaduživanja koji su povoljniji za korisnika kredita te ako dođe do ustupanja, prenošenja, zamjene, obnove (novacije) ili zalaganja prava i/ili obveza banke davatelja kredita na ime izdanog jamstva te na davanje suglasnosti na zalaganje ili prijenos prava i tražbina iz ugovora o kreditu ili prijenosa ugovora o kreditu drugim osobama.«.
+II.
+Usvajaju se Izmjene i dopune Programa dodjele državnih potpora sektoru turizma i sporta u aktualnoj pandemiji COVID-a 19, o produljenju trajanja provedbe Programa, povećanju nominalnog iznosa potpore u obliku jamstva za nove zajmove i produljenju rokova dospijeća zajmova, kao i rokova važenja izdanih jamstava, na temelju Komunikacije Komisije - Peta izmjena privremenog okvira za mjere državne potpore u svrhu podrške gospodarstvu u aktualnoj pandemiji bolesti COVID - 19 i izmjena Priloga Komunikaciji Komisije državama članicama o primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije na kratkoročno osiguranje izvoznih kredita (SL C 34, 1. 2. 2021.), uz zadržavanje svih ostalih određenja Programa.
+Izmjene i dopune Programa iz stavka 1. ove točke sastavni su dio ove Odluke.
+III.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
