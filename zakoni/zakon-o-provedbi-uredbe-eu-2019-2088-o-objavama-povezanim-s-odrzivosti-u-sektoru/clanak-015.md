@@ -1,0 +1,7 @@
+## Suradnja između nadležnih tijela
+# Članak 15.
+(1) Agencija kao nadležno tijelo određeno ovim Zakonom surađuje s nadležnim tijelima drugih država članica u skladu s člankom 14. Uredbe (EU) 2019/2088 te u skladu s člankom 21. stavkom 2. Uredbe (EU) 2020/852 s ciljem razmjene informacija i koordinacije nadzora radi izvršavanja njihovih dužnosti na temelju Uredbe (EU) 2019/2088, članaka 5., 6. i 7. Uredbe (EU) 2020/852 i ovoga Zakona.
+(2) Suradnja iz stavka 1. ovoga članka provodi se na način kako je propisana u zakonima kojima se uređuje osnivanje i poslovanje subjekata nadzora iz članka 10. ovoga Zakona te u odnosu na članke 5., 6. i 7. Uredbe (EU) 2020/852 u skladu s člankom 21. stavkom 2. Uredbe (EU) 2020/852.
+(3) Iznimno od stavka 2. ovoga članka, suradnja iz stavka 1. ovoga članka u odnosu na kreditnu instituciju koja na temelju prethodne suglasnosti Agencije pruža usluge upravljanja portfeljem ili investicijskog savjetovanja, provodi se na način kako je propisana zakonom kojim se uređuje tržište kapitala te u odnosu na članke 5., 6. i 7. Uredbe (EU) 2020/852 u skladu s člankom 21. stavkom 2. Uredbe (EU) 2020/852.
+(4) Dostavljanje informacija iz stavka 1. ovoga članka ne smatra se kršenjem obveze čuvanja povjerljivih informacija.
+(5) Nadležno tijelo koje primi informacije iz stavka 1. ovoga članka dužno ih je čuvati kao povjerljive i može se njima koristiti samo u svrhu za koju su mu dostavljene, a trećima ih može učiniti dostupnima na način kako je propisano posebnim propisima.

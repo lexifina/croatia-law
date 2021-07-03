@@ -1,0 +1,6 @@
+## Ovlasti Agencije pri provođenju nadzora
+# Članak 13.
+(1) Pri provođenju nadzora iz članka 12. ovoga Zakona Agencija ima sve ovlasti kako su joj propisane zakonima kojima se uređuje osnivanje i poslovanje subjekata nadzora iz članka 10. ovoga Zakona, kao i ovlasti koje su propisane Uredbom (EU) br. 2019/1238, kada je primjenjivo.
+(2) Iznimno od stavka 1. ovoga članka, kada obavlja nadzor nad kreditnom institucijom koja na temelju prethodne suglasnosti Agencije pruža usluge upravljanja portfeljem ili investicijskog savjetovanja, Agencija ima sve ovlasti kako su joj propisane zakonom kojim se uređuje tržište kapitala, kao i ovlasti koje su propisane Uredbom (EU) br. 2019/1238, kada je primjenjivo.
+(3) Ako je to potrebno u svrhu nadzora nad poštivanjem odredbi Uredbe (EU) 2019/2088, članaka 5., 6. i 7. Uredbe (EU) 2020/852 i ovoga Zakona, Agencija također može od subjekata nadzora iz članka 10. ovoga Zakona zahtijevati pristup svakom dokumentu u bilo kojem obliku i dostavu njegove preslike.
+(4) Agencija može zatražiti i svu ostalu dokumentaciju i informacije u svrhu provjere usklađenosti poslovanja subjekata nadzora s Uredbom (EU) 2019/2088, člancima 5., 6. i 7. Uredbe (EU) 2020/852, ovim Zakonom i drugim relevantnim propisima.

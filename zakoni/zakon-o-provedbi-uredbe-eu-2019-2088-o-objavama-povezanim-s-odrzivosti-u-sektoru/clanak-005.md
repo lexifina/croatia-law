@@ -1,0 +1,13 @@
+# Članak 5.
+(1) Sudionici na financijskom tržištu i financijski savjetnici u politike primitaka koje moraju uspostaviti i održavati u skladu s primjenjivim sektorskim propisima uključuju informacije o tome kako su te politike usklađene s uključivanjem rizikâ održivosti, i to:
+a) društvo za osiguranje unutar politike primitaka iz članka 275. Delegirane uredbe Komisije (EU) 2015/35 оd 10. listopada 2014. o dopuni Direktive 2009/138/EZ Europskog parlamenta i Vijeća o osnivanju i obavljanju djelatnosti osiguranja i reosiguranja (Solventnost II) (Tekst značajan za EGP) (SL L 12, 17. 1. 2015.)
+b) posrednik u osiguranju unutar politike primitaka iz članka 430. stavka 3. Zakona o osiguranju (»Narodne novine«, br. 30/15., 112/18., 63/20. i 133/20.)
+c) investicijsko društvo unutar politike primitaka iz članka 56. Zakona o tržištu kapitala (»Narodne novine«, br. 65/18. i 17/20.)
+d) kreditna institucija koja pruža usluge investicijskog savjetovanja, upravljanja portfeljem ili je pružatelj PEPP-a, unutar politike primitaka iz članka 100. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/13., 19/15., 102/15., 15/18., 70/19., 47/20. i 146/20.)
+e) UAIF unutar politike primitaka iz članka 61. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, br. 21/18. i 126/19.)
+f) društvo za upravljanje UCITS fondovima unutar politike primitaka iz članka 59. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16. i 126/19.)
+g) mirovinska društva za upravljanje dobrovoljnim mirovinskim fondovima unutar politike primitaka iz članka 62. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 19/14., 29/18. i 115/18.)
+h) mirovinsko osiguravajuće društvo unutar politike primitaka iz članka 66. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine«, br. 27/14., 29/18. i 115/18.).
+(2) Sudionici na financijskim tržištima i financijski savjetnici informacije iz članaka 3. i 5. Uredbe (EU) 2019/2088, a koje se odnose na transparentnost politika u području rizika održivosti i transparentnost politika primitaka u vezi s uključivanjem rizika održivosti, objavljuju na svojim internetskim stranicama te ih redovito ažuriraju sukladno članku 12. Uredbe (EU) 2019/2088.
+(3) Iznimno od stavka 2. ovoga članka, na objave institucija za strukovno mirovinsko osiguranje i posrednika u osiguranju primjenjuju se odredbe članka 8. ovoga Zakona.
+(4) Obveze iz stavaka 1. i 2. ovoga članka primjenjuju se i na sudionike na financijskim tržištima iz članka 4. stavka 1. točke 2. ovoga Zakona kada su ti sudionici na financijskim tržištima ujedno i pružatelji paneuropskih osobnih mirovinskih proizvoda (PEPP).
