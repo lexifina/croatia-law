@@ -1,0 +1,6 @@
+# Članak 9.
+(1) Pismena primljena putem informacijskog sustava uredskog poslovanja ili drugog informacijskog sustava elektronički se obrađuju, evidentiraju u informacijskom sustavu uredskog poslovanja i u pravilu se ne ispisuju.
+(2) Pismeno zaprimljeno putem informacijskog sustava uredskog poslovanja drugog javnopravnog tijela koje sadrži poziv na jedinstveni identifikator prethodnog pismena evidentiranog u predmetu primatelja, može se automatski evidentirati u informacijskom sustavu uredskog poslovanja u isti predmet. O korištenju mogućnosti automatskog evidentiranja odlučuje javnopravno tijelo ovisno o organizaciji i načinu rada.
+(3) Pismena primljena putem elektroničke pošte evidentiraju se u informacijskom sustavu uredskog poslovanja po uputi ovlaštene službene osobe nadležne ustrojstvene jedinice.
+(4) Ako se pismeno primljeno u elektroničkom obliku ne može pročitati, pošiljatelja će se bez odgode o tome obavijestiti i zatražiti da isto ponovno dostavi u čitljivom obliku u određenom roku. Ako to pošiljatelj ne učini, smatrat će se da pismeno nije zaprimljeno.
+(5) Ako se pismeno sastoji od više listova, svi listovi trebaju biti sadržani u jednoj datoteci, bez praznih listova. Svako pismeno i prilog treba činiti zasebnu cjelinu, a ako su zbog količine podataka podneseni u više datoteka potrebno je u nazivu datoteke naznačiti da čine istu cjelinu.

@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Ako sadržaj pošiljke ne odgovara sadržaju naznačenom u pismenu, elektroničkom dokumentu, na omotnici ili se ne može utvrditi na što se odnosi sadržaj ili tko je pošiljatelj, o tome se sastavlja službena bilješka u informacijskom sustavu uredskog poslovanja u evidenciji zaprimljenih pošiljki.
+(2) Ako je pošiljka oštećena ili postoji sumnja u neovlašteno ili zlonamjerno otvaranje, prije otvaranja iste, o tome se sastavlja službena bilješka u informacijskom sustavu uredskog poslovanja u evidenciji zaprimljenih pošiljki.
+(3) Ako je uz pošiljku priložen novac ili neka druga vrijednost, o tome se sastavlja službena bilješka u informacijskom sustavu uredskog poslovanja u evidenciji zaprimljenih pošiljki, a priloženo predaje službenoj osobi koja u javnopravnom tijelu obavlja poslove financijskog poslovanja.
+(4) Ako postoji sumnja da je pošiljka opasna za zdravlje i život ljudi ili neometani rad javnopravnog tijela, ista se ne otvara već se odlaže na sigurno mjesto, o tome se sastavlja službena bilješka u informacijskom sustavu uredskog poslovanja u evidenciji zaprimljenih pošiljki i obavještava se čelnik javnopravnog tijela.

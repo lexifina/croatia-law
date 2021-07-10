@@ -1,0 +1,4 @@
+# Članak 64.
+(1) Tehnička specifikacija informacijskog elektroničkog sustava uredskog poslovanja kojom se utvrđuju osnovne funkcionalnosti koje treba imati informacijski sustav uredskog poslovanja prilog je ove Uredbe i objavljuje se na mrežnoj stranici tijela državne uprave nadležnog za državnu informacijsku infrastrukturu.
+(2) Tijelo državne uprave nadležno za državnu informacijsku infrastrukturu po potrebi ažurira sadržaj tehničke specifikacije iz stavka 1. ovog članka i objavljuje nove verzije na svojoj mrežnoj stranici.
+(3) Tijelo državne uprave nadležno za državnu informacijsku infrastrukturu prati primjenu i usklađenost informacijskih sustava uredskog poslovanja s tehničkom specifikacijom iz stavka 1. ovog članka sukladno zakonu kojim se uređuje državna informacijska infrastruktura te sukladno zakonu kojim se uređuje ustrojstvo i djelokrug tijela državne uprave.
