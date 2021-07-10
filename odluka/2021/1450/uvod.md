@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.), a u vezi s Uredbom (EU) 2021/241 Europskog parlamenta i Vijeća od 12. veljače 2021. o uspostavi Mehanizma za oporavak i otpornost (SL L 57, 18. 2. 2021.), Vlada Republike Hrvatske je na sjednici održanoj 8. srpnja 2021. donijela
