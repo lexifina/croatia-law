@@ -1,0 +1,2 @@
+# Članak 12.
+U slučaju smrti deponenta, nasljednike koji su imenovani pravomoćnim rješenjem o nasljeđivanju, isplatna kreditna institucija treba uputiti na podnošenje zahtjeva za isplatu obeštećenja na obrascu Zahtjev za isplatu obeštećenja sukladno Prilogu 3. koji je sastavni dio ovoga Pravilnika, koji mogu preuzeti u isplatnoj kreditnoj instituciji, s internetske stranice isplatne kreditne institucije ili internetske stranice Agencije.
