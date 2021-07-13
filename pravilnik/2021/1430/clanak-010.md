@@ -1,0 +1,7 @@
+## Recenzije projekata
+# Članak 10.
+(1) Umjetnički savjetnik za kategorije javnog poziva za poticanje audiovizualnog stvaralaštva dužan je recenzije za predložene projekte dostaviti AV Vijeću prilikom predlaganja liste prioriteta, a za odbijene projekte u daljnjem roku od 15 radnih dana od objave odluke AV Vijeća, o utvrđivanju liste prioriteta u pojedinoj kategoriji.
+(2) Recenzije za javni poziv za poticanje komplementarnih djelatnosti se dostavljaju na zahtjev pojedinog nositelja projekta. Umjetnički savjetnici su dužni u roku od 30 dana od podnošenja zahtjeva, dostaviti korisniku obrazloženje predmetnog projekta. Rok za podnošenje zahtjeva je 15 dana, računajući od dana objave odluke AV Vijeća o utvrđivanju liste prioriteta u ovoj kategoriji javnog poziva.
+(3) Recenzije se izrađuju sukladno obrascima iz Dodatka 3. koji je sastavni dio ovoga Pravilnika.
+(4) Nositelji projekta nemaju pravo uvida u recenzije izrađene za drugi projekt osim u slučaju pisanog dopuštenja Centra i nositelja predmetnog projekta. Recenzije se ne smiju javno objavljivati bez pisanog dopuštenja Centra. Navedena odredba odnosi se na sve javne pozive Centra.
+(5) Umjetnički savjetnici izrađuju recenzije sukladno kriterijima utvrđenima ovim Pravilnikom. Recenzije su autorsko djelo umjetničkog savjetnika koji ih je izradio, a Centar ima isključivo pravo iskorištavanja djela bez ograničenja s obzirom na svrhu, prostor i vrijeme.

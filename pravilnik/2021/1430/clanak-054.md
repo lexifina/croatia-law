@@ -1,0 +1,2 @@
+# Članak 54.
+Nositelj projekta s Centrom zaključuje Ugovor o sufinanciranju kojim preuzima obvezu dostave scenarija za najmanje 30 % prijavljenih epizoda kao i svih materijala potrebnih za kolaudaciju u skladu s profesionalnim standardima u hrvatskoj i svjetskoj audiovizualnoj industriji, u roku od 12 mjeseci za potkategoriju razvoja scenarija i 24 mjeseca za potkategoriju razvoja projekata po potpisu Ugovora o sufinanciranju.

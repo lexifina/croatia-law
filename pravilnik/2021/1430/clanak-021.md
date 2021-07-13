@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Pravo prijave za sve grupe iz članka 20. stavka 1. ovoga Pravilnika imaju fizičke i pravne osobe, upisane u sudski ili drugi registar za obavljanje djelatnosti proizvodnje audiovizualnih djela, sa sjedištem u Republici Hrvatskoj ili one koje obavljaju djelatnost u Republici Hrvatskoj, upisane u očevidnik producenata koji vodi Centar.
+(2) Producenti iz stavka 1. ovoga članka prijavljuju se zajedno s redateljima, sa scenarijem za koji su uređena autorska i srodna prava sukladno Zakonu o autorskom pravu i srodnim pravima ili za koji su potpisali rezervaciju, tj. opciju s autorom, radi snimanja filmova.

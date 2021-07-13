@@ -1,0 +1,6 @@
+## GLAVA I.
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuje se postupak provedbe Nacionalnog programa promicanja audiovizualnog stvaralaštva (u daljnjem tekstu: Nacionalni program), definiraju kategorije javnih poziva i uvjeti raspisivanja, planiranje postupka raspodjele sredstava, izvršenje, izvještavanje, rad umjetničkih savjetnika i Umjetničkog vijeća, obveze korisnika sredstava državne potpore te nadzor nad namjenskom potrošnjom sredstava državne potpore, a sve sukladno odredbama Zakona o audiovizualnim djelatnostima (u daljnjem tekstu: Zakon).
+(2) Ovim Pravilnikom utvrđuje se Program potpore za dodjelu sredstava za poticanje audiovizualnih djelatnosti i stvaralaštva te komplementarnih djelatnosti, uključujući i program potpore de minimis za pojedine kategorije audiovizualnih djela.
+(3) Program državne potpore za dodjelu sredstava za poticanje audiovizualnih djelatnosti i stvaralaštva te komplementarnih djelatnosti jest akt na temelju kojega se, bez potrebe za dodatnim provedbenim mjerama, unaprijed neodređenim korisnicima državne potpore dodjeljuju pojedinačne državne potpore i akt na temelju kojega se državna potpora koja unaprijed nije vezana uz poseban projekt dodjeljuje jednom ili više korisnika državne potpore na neodređeno vremensko razdoblje i u iznosu koji nije unaprijed određen.

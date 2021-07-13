@@ -1,0 +1,5 @@
+# Članak 63.
+(1) Pravo prijave na javni poziv u kategoriji distribucije filmova imaju fizičke i pravne osobe koja su upisane u sudski ili drugi registar za obavljanje djelatnosti proizvodnje audiovizualnih djela ili prometa audiovizualnih djela, sa sjedištem u Republici Hrvatskoj ili one koje obavljaju djelatnost u Republici Hrvatskoj, upisane u očevidnik distributera odnosno očevidnik producenata koje vodi Centar.
+(2) Prijava na javni poziv u kategoriji distribucije filmova podnosi se u roku od 60 dana prije početka planirane distribucije filma. Iznimno, prijava se može podnijeti u roku od 30 dana prije početka planirane distribucije filma ako za to postoje opravdani razlozi.
+(3) Nositelj projekta mora započeti distribuciju filma u roku od 12 mjeseci od prvog javnog prikazivanja filma. Iznimno, distribucija se može započeti u roku od 15 mjeseci od prvog javnog prikazivanja filma ako za to postoje opravdani razlozi.
+(4) O postojanju opravdanih razloga iz stavka 2. i 3. ovog članka odlučuje ravnatelj Centra.

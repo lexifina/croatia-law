@@ -1,0 +1,22 @@
+## Dinamika isplate
+# Članak 27.
+(1) Dinamika isplate u kategoriji poticanja proizvodnje filmova predviđa:
+a) Za dugometražni igrani i animirani film
+− 5 % odobrenih sredstava nakon potpisivanja Ugovora o sufinanciranju za fazu pretpriprema,
+− 40 % sredstava na početku priprema za produkciju. Ukoliko je nakon potpisivanja Ugovora o sufinanciranju došlo do promjena u financijskom i operativnom planu, izmjene se moraju bez odgode dostaviti na suglasnost Centru;
+− 40 % na početku snimanja slike, a u kategoriji dugometražnog animiranog filma na početku animacije filma, nakon dostavljanja popisa umjetničkih i tehničkih suradnika filma - popis članova ekipe, od čega 60 % članova ekipe moraju biti članovi audiovizualnih strukovnih udruga s popisa umjetničkih strukovnih udruga Ministarstva kulture i medija (propisani udjel članova ekipe primjenjuje se za dugometražni igrani film) te ugovora o uređenju autorskih prava, glede scenarija, režije, filmske fotografije i svih drugih elemenata autorskih prava sukladno zakonu kojim se uređuju autorska i srodna prava, sa svim autorima i koautorima audiovizualnog djela, osim ugovora koji regulira glazbena prava, koji treba dostaviti prije kolaudacije filma. U fazi snimanja filma producent obvezno mora dostaviti dokaz o osiguranim sredstvima koja su potrebna za pokrivanje preostalih troškova proizvodnje filma sukladno rokovima iz članka 26. stavka 1. ovoga Pravilnika
+− 10 % po završetku snimanja slike
+− 5 % nakon kolaudacije i nakon što se utvrdi ispunjenje svih odredaba Ugovora o sufinanciranju.
+b) Za kratki igrani, dokumentarni i eksperimentalni film:
+− 50 % od ukupnog odobrenog iznosa nakon potpisivanja Ugovora o sufinanciranju.
+− 40 % na početku snimanja, a nakon dostavljanja popisa umjetničkih i tehničkih suradnika filma (popis članova ekipe) i ugovora o uređenju autorskih prava, sukladno smjernicama Centra objavljenim na službenim stranicama Centra, glede scenarija, režije, filmske fotografije i svih drugih elemenata autorskih prava sukladno zakonu kojim se uređuju autorska i srodna prava, sa svim autorima i koautorima audiovizualnog djela, osim ugovora koji regulira glazbena prava koji treba dostaviti prije kolaudacije filma. U fazi snimanja filma producent obvezno mora dostaviti dokaz o osiguranim sredstvima potrebnim za pokrivanje preostalih troškova proizvodnje filma sukladno rokovima iz članka 26. stavka 2. ovoga Pravilnika.
+− 10 % nakon kolaudacije filma i nakon što se utvrdi ispunjenje svih odredaba Ugovora o sufinanciranju.
+c) Za dugometražni dokumentarni film:
+− 40 % od ukupnog iznosa nakon potpisivanja Ugovora o sufinanciranju,
+− 50 % na početku snimanja, a nakon dostavljanja popisa umjetničkih i tehničkih suradnika filma (popis članova ekipe) te ugovora o uređenju autorskih prava, glede scenarija, režije, filmske fotografije i svih drugih elemenata autorskih prava sukladno zakonu kojim se uređuju autorska i srodna prava, sa svim autorima i koautorima audiovizualnog djela, osim ugovora koji regulira glazbena prava koji treba dostaviti prije kolaudacije filma. U fazi snimanja filma producent obvezno mora dostaviti dokaz o osiguranim sredstvima potrebnim za pokrivanje preostalih troškova proizvodnje filma sukladno rokovima iz članka 26. stavka 1. ovoga Pravilnika.
+− 10 % nakon kolaudacije filma i nakon što se utvrdi ispunjenje svih odredaba Ugovora o sufinanciranju.
+d) Za kratkometražni animirani film:
+− 50 % nakon prihvaćanja projekta i potpisivanja Ugovora o sufinanciranju;
+− 40 % nakon završene faze olovke ili animatika, a nakon dostavljanja popisa umjetničkih i tehničkih suradnika filma (popis članova ekipe) i kopije ugovora o uređenju autorskih prava, glede scenarija, režije i svih drugih elemenata autorskih prava sukladno zakonu kojim se uređuju autorska i srodna prava, sa svim autorima i koautorima audiovizualnog djela, osim ugovora koji regulira glazbena prava koji treba dostaviti prije kolaudacije filma. U ovoj fazi producent obvezno mora dostaviti dokaz o osiguranim sredstvima potrebnim za pokrivanje preostalih troškova proizvodnje filma sukladno rokovima iz članka 26. stavka 2. ovoga Pravilnika.
+− 10 % nakon kolaudacije filma i utvrđivanja ispunjenja svih odredaba ugovora.
+(2) Producent dugometražnog igranog i animiranog filma obvezan je nakon svake faze u proizvodnji filma dostaviti obračun utrošenih sredstava Centra i obračun ukupnih sredstava za navedenu fazu proizvodnje filma, što je uvjet za dobivanje sljedeće rate sredstava.
