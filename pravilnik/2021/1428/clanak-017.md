@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Posjednik/dobavljač zaklanog grla može, nakon što istoga dana osobno ili elektroničkom poštom zaprimi zapisnik o razvrstavanju, u roku do tri sata od njihova primitka, uložiti prigovor klaonici i ovlašteniku razvrstavanja te od njih zatražiti ponovnu provedbu razvrstavanja.
+(2) Prigovor iz stavka 1. ovoga članka dostavlja se osobno odnosno elektroničkom poštom. U prigovoru treba navesti naziv klaonice, datum razvrstavanja, broj zapisnika o razvrstavanju, ime i prezime te identifikacijski broj klasifikatora koji je obavio razvrstavanje trupova.
+(3) Klaonica je dužna po primitku prigovora najkasnije sljedećeg radnog dana organizirati ponovljeno razvrstavanje te mora u tom razdoblju zadržati sve ranije razvrstane trupove zbog kojih je prigovor uložen. Ponovljenom razvrstavanju može prisustvovati i podnositelj prigovora poštujući pisane procedure sustava samokontrole subjekata u poslovanju s hranom u klaonici.
+(4) Klaonica je dužna o zaprimljenom prigovoru i ponovljenom razvrstavanju bez odgode obavijestiti Ministarstvo.

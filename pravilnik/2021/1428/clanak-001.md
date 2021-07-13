@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom propisuje postupak razvrstavanja i označivanja goveđih, svinjskih i ovčjih trupova (u daljnjem tekstu: trupovi), te označivanju mesa koje potječe od goveda starih manje od 12 mjeseci (u daljnjem tekstu: mesa teladi i mlađe junadi) način i postupak njihove obrade, utvrđivanja klaoničke mase, provedbu zajedničkog usporednog postupka razvrstavanja, sadržaj zapisnika i izvješćivanja, postupak prigovora na rezultate razvrstavanja, kontrolu na terenu i minimalne zahtjeve za kontrolu na terenu u skladu s odredbama Uredbe (EU) br. 1308/2013 i njezinih provedbenih propisa.
