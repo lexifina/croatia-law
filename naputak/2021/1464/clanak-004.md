@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Ovaj Naputak odnosi se na zaštitu povjerljivih podataka pri izradi i diseminaciji službenih statističkih podataka u publikacijama, bazama podataka i/ili zasebnim tablicama, kao i pri pružanju usluge statističke obrade podataka na zahtjev korisnika.
+(2) Ovaj Naputak ne odnosi se na zaštitu povjerljivih podataka dostupnih nositeljima službene statistike za statističke svrhe, na zaštitu povjerljivih podataka dostupnih za znanstvene svrhe i na zaštitu povjerljivih podataka u datotekama za javnu uporabu.
+(3) Datoteke za javnu uporabu sadržavaju podatke o individualnim statističkim jedinicama koji su anonomizirani na način da statističku jedinicu nije moguće identificirati ni izravno niti neizravno, uzimajući u obzir sva relevantna sredstva kojima bi se treća strana mogla razumno koristiti za njezinu identifikaciju.

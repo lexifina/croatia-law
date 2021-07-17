@@ -1,0 +1,2 @@
+# Članak 2.
+Svrha zaštite povjerljivih statističkih podataka u smislu ovoga Naputka jest minimiziranje rizika identifikacije individualne statističke jedinice u skladu sa Zakonom o službenoj statistici (u nastavku teksta: Zakon) i odredbama Uredbe (EZ) br. 223/2009 Europskog parlamenta i Vijeća od 11. ožujka 2009. o europskoj statistici te Uredbe (EU) 2015/759 Europskog parlamenta i Vijeća od 29. travnja 2015. o izmjeni Uredbe (EZ) br. 223/2009 o europskoj statistici.

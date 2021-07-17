@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Iznimke od pravila navedenih u člancima 8. i 9. stavku 1. ovoga Naputka, uključujući primjenu načela »pasivne povjerljivosti«, u slučajevima gdje je takva vrsta zaštite propisana ili preporučena na europskoj ili međunarodnoj razini, utvrdit će ustrojstvene jedinice Zavoda u pravilima i metodama zaštite povjerljivih statističkih podataka iz članka 7. ovoga Naputka.
+(2) Primjena načela »pasivne povjerljivosti« znači da se zaštita povjerljivih statističkih podataka provodi samo na zahtjev izvještajnih jedinica koje smatraju da bi se objavljivanjem povjerljivih podataka mogli otkriti podaci o njihovu poslovanju.
