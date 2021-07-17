@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Pristup povjerljivim statističkim podacima koji se nalaze na osobnom računalu u ustrojstvenoj jedinici ili na prijenosnom računalu dopušten je isključivo zaposleniku ustrojstvene jedinice koji koristi osobno ili prijenosno računalo u svrhu obavljanja statističkih aktivnosti u okviru poslova njegovog radnog mjesta.
+(2) Udaljeni pristup s prijenosnog računala povjerljivim statističkim podacima koji se nalaze na osobnom računalu zaposlenika ili na poslužiteljima, uređajima i medijima za pohranu podataka u elektroničkom obliku priključenim na prijenosno računalo zaposlenika, dopušten je isključivo zaposleniku kojem je prijenosno računalo povjereno radi obavljanja poslova njegova radnog mjesta.

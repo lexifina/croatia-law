@@ -1,0 +1,2 @@
+# Članak 25.
+Neposredni rukovoditelj dužan je odmah pisanim putem obavijestiti ustrojstvenu jedinicu Zavoda nadležnu za infor¬matičke sustave u slučaju kada djelatniku koji ima dozvolu za pristup povjerljivim statističkim podacima prestaje radni odnos, kada se premješta na rad u drugu ustrojstvenu jedinicu Zavoda ili je privremeno udaljen iz službe, kako bi se njegova ovlaštenja u informatičkom sustavu Zavoda mogla ukinuti ili promijeniti u skladu s potrebama novog radnog mjesta ili novog stanja.

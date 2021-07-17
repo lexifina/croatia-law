@@ -1,0 +1,2 @@
+# Članak 17.
+Svaki pristup povjerljivim statističkim podacima koji se nalaze na poslužiteljima, uređajima i medijima za pohranu podataka u elektroničkom obliku te osobnim ili prijenosnim računalima mora biti automatski zabilježen korisničkim imenom, datumom i vremenom prijave i odjave, a u slučaju pokušaja neovlaštenog pristupa tim podacima, i s mjestom s kojeg je takav pristup pokušan, ako je to moguće.
