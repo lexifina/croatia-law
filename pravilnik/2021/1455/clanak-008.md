@@ -1,0 +1,2 @@
+# Članak 8.
+U Prilozima 1A, 1B, 1D, 5 i 6 koji su sastavni dijelovi Pravilnika o osobama ovlaštenim za energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi (»Narodne novine«, broj 73/15, 133/15 i 60/20), riječi: »Ministarstvo graditeljstva i prostornoga uređenja« zamjenjuju se riječima: »Ministarstvo prostornoga uređenja, graditeljstva i državne imovine«.
