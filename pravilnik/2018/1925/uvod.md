@@ -1,1 +1,0 @@
-Na temelju članka 62. stavka 4. Zakona o strancima (»Narodne novine«, broj 130/2011., 74/2013., 69/2017. i 46/2018.), ministrica znanosti i obrazovanja, uz suglasnost ministra nadležnog za unutarnje poslove, donosi
