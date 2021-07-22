@@ -1,0 +1,1 @@
+Pravilnik o sadržaju osobnih podataka, svrsi prikupljanja, roku čuvanja evidencije i načinu ovlašćivanja za korištenje podataka dobrovoljnih i profesionalnih vatrogasaca u računalnim aplikacijama Hrvatske vatrogasne zajednice
