@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 6. Zakona o strancima (»Narodne novine« broj 133/2020.) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« broj 66/2019), ministar znanosti i obrazovanja, uz suglasnost ministra nadležnog za unutarnje poslove i uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
