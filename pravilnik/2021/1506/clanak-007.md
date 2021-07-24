@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Matičnu djelatnost za narodne i školske knjižnice na području pojedine županije obavljaju županijske matične narodne knjižnice sukladno članku 34. Zakona.
+(2) Za obavljanje matične djelatnosti županijska matična narodna knjižnica treba ispunjavati opće uvjete prema Zakonu i posebne uvjete u pogledu prostora, opreme, knjižnične građe i stručnog osoblja prema Standardu za narodne knjižnice u Republici Hrvatskoj.
+(3) Županijska matična narodna knjižnica treba biti ustrojena na način da sa svojim stručnim službama i stručno osposobljenim djelatnicima može pružati savjetodavnu podršku knjižnicama na području svoje matičnosti, uz koordinaciju nadležne matične razvojne službe.
+(4) Za županije u kojima ne postoji knjižnica koja zadovoljava potrebne uvjete, ministar nadležan za kulturu može, uz prethodno mišljenje Hrvatskoga knjižničnog vijeća i uz suglasnost ministarstva nadležnog za poslove znanosti i obrazovanja, matičnu djelatnost za narodne i školske knjižnice privremeno povjeriti nekoj drugoj knjižnici.

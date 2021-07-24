@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Matičnu djelatnost za sveučilišne i znanstvene knjižnice čije su zbirke sukladno članku 42. stavku 1. Zakona kulturno dobro, obavlja Nacionalna i sveučilišna knjižnica u Zagrebu sukladno propisima o zaštiti i očuvanju kulturnih dobara.
+(2) Matičnu djelatnost za visokoškolske i specijalne knjižnice, uključujući i knjižnice vjerskih zajednica, čije su zbirke sukladno članku 42. stavku 1. Zakona kulturno dobro, obavlja Nacionalna i sveučilišna knjižnica u Zagrebu u suradnji s nadležnom sveučilišnom matičnom knjižnicom, a sukladno propisima o zaštiti i očuvanju kulturnih dobara.
+(3) Matičnu djelatnost za narodne i školske knjižnice čije su zbirke sukladno članku 42. stavku 1. Zakona kulturno dobro, obavlja Nacionalna i sveučilišna knjižnica u Zagrebu u suradnji s nadležnom županijskom matičnom narodnom knjižnicom, a sukladno propisima o zaštiti i očuvanju kulturnih dobara.
