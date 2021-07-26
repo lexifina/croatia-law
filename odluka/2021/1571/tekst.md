@@ -1,0 +1,27 @@
+I.
+S obzirom na epidemiološku situaciju i povećani rizik od prijenosa bolesti COVID-19 uvode se nužne epidemiološke mjere za područje Dubrovačko-neretvanske, Splitsko-dalmatinske, Šibensko-kninske, Zadarske, Primorsko-goranske i Istarske županije te za područje Grada Novalje, Grada Senja i Općine Karlobag.
+II.
+Nužne epidemiološke mjere iz točke I. ove Odluke su:
+- zabrana održavanja svih javnih događanja i okupljanja na kojima je prisutno više od 50 osoba na jednom mjestu, osim ako se radi o javnom događanju ili okupljanju na kojem sudjeluju samo osobe s EU digitalnom COVID potvrdom i neće sudjelovati više od 1000 osoba, a za isto su i nadležni stožer civilne zaštite jedinice lokalne samouprave i nadležni županijski stožer dali suglasnost
+- javna događanja te okupljanja i svečanosti svih vrsta mogu trajati najdulje do 24.00 sata
+- održavanje privatnih svečanosti i okupljanja svih vrsta (uključujući i svadbene svečanosti) u ugostiteljskim i drugim objektima dopušteno je uz pridržavanje svih propisanih epidemioloških mjera, ako na svečanosti nije prisutno više od 15 osoba
+- ograničavanje broja gostiju koji mogu istovremeno biti u ugostiteljskim objektima iz kategorije »Barovi« kojima je odlukom Stožera civilne zaštite Republike Hrvatske kojom se uvode nužne epidemiološke mjere kojima se ograničavaju okupljanja i uvode druge nužne epidemiološke mjere i preporuke radi sprječavanja prijenosa bolesti COVID-19 putem okupljanja dopušten rad, na najviše 1000 gostiju
+- sajmovi i drugi oblici gospodarskih priredbi gdje se prodaju, izlažu ili prikazuju proizvodi, koji se održavaju na otvorenom prostoru, mogu se održavati samo ako dobiju suglasnosti lokalnog i županijskog stožera
+- sportska natjecanja uz prisustvo gledatelja mogu se organizirati samo ako svi gledatelji i tehničko i organizacijsko osoblje koje je prisutno na natjecanju posjeduju EU digitalne COVID potvrde.
+Organizatori javnih događanja i okupljanja iz stavka 1. podstavka 1. ove točke te organizatori održavanja sajmova ili drugih oblika gospodarskih priredbi iz stavka 1. podstavka 5. ove točke obvezni su, najkasnije 7 dana prije održavanja, obavijest o namjeri organizacije takvog okupljanja ili održavanja sajma, odnosno drugog oblika gospodarske priredbe s naznakom mjesta i vremena održavanja te očekivanog broja prisutnih osoba, dostaviti stožeru jedinice lokalne samouprave na čijem području će se takvo javno događanje ili okupljanje odnosno održavanje sajma ili drugog oblika gospodarske priredbe održati te zatražiti prethodnu suglasnost za održavanje.
+Nadležni stožer civilne zaštite jedinice lokalne samouprave obvezan je odluku o davanju ili odluku o uskrati suglasnosti donijeti u roku od 2 dana od zaprimanja zahtjeva te istu, zajedno sa zahtjevom za izdavanje suglasnosti, dostaviti županijskom stožeru.
+Županijski stožer obvezan je odluku o davanju ili odluku o uskrati suglasnosti donijeti u roku od 2 dana te svoju odluku, ako na zahtjev odgovara isto kao i stožer civilne zaštite jedinice lokalne samouprave, dostaviti stožeru civilne zaštite jedinice lokalne samouprave.
+Ako za javno događanje ili okupljanje iz stavka 1. podstavka 1 ove točke, odnosno za održavanje sajma ili drugog oblika gospodarske priredbe iz podstavka stavka 1. podstavka 5. ove točke jedan od nadležnih stožera da suglasnost, a drugi ju uskrati, županijski stožer je obvezan svoju i odluku lokalnog stožera dostaviti Stožeru civilne zaštite Republike Hrvatske, koji donosi konačnu odluku o davanju ili odluku o uskrati suglasnosti za održavanje javnog događanja ili okupljanja, odnosno za održavanje sajma ili drugog oblika gospodarske priredbe.
+III.
+Iznimno od zabrana i ograničenja iz ove Odluke mogu se dopustiti i javna događanja ili okupljanja s više od 1000 osoba, ako za takvo javno događanje ili okupljanje Stožer civilne zaštite Republike Hrvatske da suglasnost.
+Suglasnost iz stavka 1. ove točke Stožer civilne zaštite Republike Hrvatske može dati ako su ispunjeni sljedeći uvjeti:
+- organizator zatraži, a županijski zavod za javno zdravstvo izradi epidemiološki okvir za odvijanje javnog događanja ili okupljanja
+- Hrvatski zavod za javno zdravstvo pozitivno ocijeni epidemiološki okvir te predloži Stožeru civilne zaštite Republike Hrvatske davanje suglasnosti na održavanje javnog događanja ili okupljanja.
+IV.
+Obvezuju se županijski stožeri civilne zaštite da, odmah nakon primitka obavijesti o održavanju profesionalne umjetničke izvedbe, programa ili manifestacije čije održavanje je dopušteno ili sportskog natjecanja uz prisustvo gledatelja, provjere jesu li ispunjeni uvjeti za održavanje propisani ovom Odlukom ili odlukom kojom su uvedene nužne epidemiološke mjere kojima se ograničavaju okupljanja i uvode druge nužne epidemiološke mjere i preporuke radi sprječavanja prijenosa bolesti COVID-19 putem okupljanja.
+Ako nisu ispunjeni uvjeti županijski stožer je obvezan odmah o tome obavijestiti organizatora i upozoriti ga kako se profesionalna umjetnička izvedba, program ili manifestacija, odnosno sportsko natjecanje uz prisustvo gledatelja ne mogu održati ako se ne ispune propisani uvjeti.
+Održavanje profesionalne umjetničke izvedbe, programa ili manifestacije, odnosno sportskog natjecanja uz prisustvo gledatelja nije dopušteno ako se ne ispune propisani uvjeti.
+V.
+Nužne epidemiološke mjere iz ove Odluke određuju se u trajanju do 15. kolovoza 2021.
+VI.
+Ova Odluka objavit će se u »Narodnim novinama«, a stupa na snagu 26. srpnja 2021.
