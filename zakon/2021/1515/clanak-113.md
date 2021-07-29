@@ -1,0 +1,3 @@
+# Članak 113.
+U članku 378. stavak 1. mijenja se i glasi:
+»(1) Kada se poljoprivrednim robnim izvedenicama ili na kojima se trguje tim ključnim ili značajnim robnim izvedenicama, osim na mjestima trgovanja u Republici Hrvatskoj, trguje u značajnim volumenima i na mjestima trgovanja u drugim jurisdikcijama, a nadležno tijelo druge države članice ujedno je i središnje nadležno tijelo, Agencija sudjeluje, zajedno sa središnjim nadležnim tijelom i nadležnim tijelima ostalih država članica, u savjetovanju o utvrđivanju jedinstvenog ograničenja pozicija za te poljoprivredne robne izvedenice ili ključne ili značajne robne izvedenice, kao i o svakoj izmjeni tog ograničenja pozicija.«.

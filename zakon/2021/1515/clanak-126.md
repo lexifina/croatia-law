@@ -1,0 +1,18 @@
+# Članak 126.
+Naslov iznad članka 397. mijenja se i glasi: »Suradnja između Agencije i nadležnih tijela država članica u bonitetnom nadzoru«.
+Članak 397. mijenja se i glasi:
+»(1) Agencija će blisko surađivati s nadležnim tijelima druge države članice za potrebe izvršavanja bonitetnog nadzora investicijskih društava na temelju ovoga Zakona i Uredbe (EU) br. 2019/2033.
+(2) Suradnja iz stavka 1. ovoga članka obuhvaća, među ostalim, pravodobnu razmjenu:
+1. informacija o upravljačkoj i vlasničkoj strukturi investicijskog društva
+2. informacija o usklađenosti investicijskog društva s kapitalnim zahtjevima
+3. informacija o usklađenosti sa zahtjevima u odnosu na koncentracijski rizik i likvidnosnim zahtjevima investicijskog društva
+4. informacija o administrativnim i računovodstvenim postupcima investicijskog društva i mehanizmima njegove unutarnje kontrole te
+5. sve druge relevantne čimbenike koji mogu utjecati na rizik koji predstavlja investicijsko društvo.
+(3) Agencija će kao nadležno tijelo matične države članice za investicijsko društvo sa sjedištem u Republici Hrvatskoj, koje neposredno ili putem podružnice pruža usluge na području države članice, na zahtjev nadležnog tijela te države članice domaćina dostaviti bez odgode sve podatke, informacije i nalaze o svim potencijalnim problemima i rizicima koje investicijsko društvo predstavlja za zaštitu klijenata ili stabilnost financijskog sustava u državi članici domaćina, a koje je utvrdila pri nadzoru aktivnosti investicijskog društva.
+(4) Na temelju informacija koje Agencija zaprimi od nadležnog tijela države članice domaćina, Agencija će poduzeti sve mjere potrebne za sprječavanje ili uklanjanje potencijalnih problema i rizika iz stavka 3. ovoga članka.
+(5) Na zahtjev nadležnog tijela države članice domaćina u kojoj investicijsko društvo iz stavka 1. ovoga članka pruža usluge, Agencija će istome dostaviti obrazloženu obavijest o tome kako su u nadzoru nad tim investicijskim društvom uzeti u obzir podaci i nalazi koje je dostavilo nadležno tijelo države članice domaćina.
+(6) Ako nadležno tijelo države članice domaćina nije zadovoljno mjerama koje je Agencija poduzela prema investicijskom društvu iz stavka 1. ovoga članka, može poduzeti odgovarajuće mjere za sprječavanje daljnjih kršenja kako bi zaštitilo interese ulagatelja ili stabilnost financijskog sustava, nakon što o tome obavijesti Agenciju, ESMA-u i EBA-u.
+(7) Ako Agencija mjere iz stavka 6. ovoga članka smatra neprimjerenima, može se obratiti EBA-i u skladu s člankom 19. Uredbe (EU) br. 1093/2010. Ako EBA djeluje u skladu s tim člankom, ona donosi odluku u roku od mjesec dana.
+(8) Agencija se može obratiti EBA-i u slučaju kada nadležno tijelo države članice odbije zahtjev za suradnju iz ovoga članka, a posebno zahtjev za razmjenu informacija, ili ne postupi po njemu u razumnom roku.
+(9) U slučaju iz stavka 8. ovoga članka, EBA može djelovati u skladu s člankom 19. Uredbe (EU) br. 1093/2010. Također, EBA može na vlastitu inicijativu pomoći nadležnim tijelima u postizanju sporazuma o razmjeni informacija prema ovom članku, a u skladu s člankom 19. stavkom 1. podstavkom 2. Uredbe (EU) br. 1093/2010.
+(10) Za potrebe procjene uvjeta iz članka 23. stavka 1. podstavka 1. točke (c) Uredbe (EU) br. 2019/2033, kada je Agencija nadležno tijelo države članice domaćina investicijskog društva, Agencija može od nadležnog tijela države članice domaćina člana sustava poravnanja zatražiti da pruži informacije koje se odnose na model izračuna iznosa nadoknade (marže) i parametre koji se upotrebljavaju za izračun zahtjeva za iznos nadoknade (marže) relevantnog investicijskog društva.«.

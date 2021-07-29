@@ -1,0 +1,2 @@
+# Članak 108.
+U članku 371. stavku 2. iza riječi: »podataka« dodaju se riječi: »a za koje je Agencija nadležna sukladno odredbama Uredbe (EU) br. 600/2014 i kriterija propisanih delegiranom uredbom Komisije kojom se određuju kriteriji za identifikaciju ARM-a i APA-e koji zbog njihove ograničene važnosti za unutarnje tržište podliježu izdavanju odobrenja za rad i nadzoru od strane nadležnog tijela pojedine države članice«.

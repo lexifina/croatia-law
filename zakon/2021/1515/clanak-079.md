@@ -1,0 +1,9 @@
+# Članak 79.
+Naslov iznad članka 222. mijenja se i glasi: »Zahtjevi za informacijama u izvanrednim situacijama«.
+Članak 222. mijenja se i glasi:
+»U slučaju izvanredne situacije, uključujući situaciju opisanu u članku 18. Uredbe (EU) br. 1093/2010 ili situaciju nepovoljnih kretanja na tržištima koja bi mogla ugroziti likvidnost tržišta i stabilnost financijskog sustava u nekoj od država članica u kojoj su subjekti grupe investicijskog društva dobili odobrenje za rad, Agencija kao nadzorno tijelo grupe određeno u skladu s člankom 220. ovoga Zakona upozorava o tome bez odgode, u skladu s odredbama ovoga Zakona o suradnji, te dostavlja sve informacije koje su ključne za izvršavanje njihovih zadaća sljedećim tijelima u Republici Hrvatskoj ili u drugim državama članicama:
+1. središnjim bankama članicama Europskog sustava središnjih banaka i drugim tijelima s ovlastima i odgovornostima za provođenje monetarne politike, kada je ta povjerljiva informacija relevantna za ostvarenje njihovih ciljeva vezanih uz provođenje monetarne politike i održavanje likvidnosti, nadzor nad platnim sustavima, sustavima za poravnanje i namiru financijskih instrumenata te očuvanje stabilnosti financijskog sustava, a osobito u izvanrednim situacijama iz ovoga članka, kada je takve informacije potrebno dostaviti bez odgode
+2. institucionalnim sustavima zaštite iz članka 113. stavka 7. Uredbe (EU) br. 575/2013
+3. drugim tijelima nadležnima za nadzor nad platnim sustavima
+4. Europskom nadzornom tijelu za bankarstvo, Europskom odboru za sistemske rizike, Europskom nadzornom tijelu za osiguranje i strukovno mirovinsko osiguranje, Europskom nadzornom tijelu za vrijednosne papire i tržišta kapitala, ako su te informacije relevantne za ispunjavanje njihovih zadataka propisanih uredbama (EU) br. 1092/2010, (EU) br. 1094/2010 ili (EU) br. 1095/2010
+5. ministarstvu nadležnom za financije, Hrvatskoj narodnoj banci i relevantnim sanacijskim tijelima, kada je primjenjivo.«.

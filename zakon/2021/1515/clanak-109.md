@@ -1,0 +1,15 @@
+# Članak 109.
+Članak 373. mijenja se i glasi:
+»(1) Agencija utvrđuje ograničenja pozicija u pogledu iznosa netopozicije koju osoba može imati u svakom trenutku u poljoprivrednim robnim izvedenicama i ključnim ili značajnim robnim izvedenicama kojima se trguje na mjestima trgovanja i u ekonomski jednakovrijednim OTC ugovorima te osigurava njihovu primjenu.
+(2) Ograničenja pozicija iz stavka 1. ovoga članka Agencija utvrđuje na temelju metodologije za izračun koju svojim regulatornim tehničkim standardima utvrđuje Europska komisija za ključne ili značajne robne izvedenice i poljoprivredne robne izvedenice kojima se trguje na mjestima trgovanja u Republici Hrvatskoj, što uključuje i ekonomski jednakovrijedne OTC ugovore.
+(3) Pozicija iz stavka 1. ovoga članka određuje se na temelju svih pozicija koje osoba drži i onih koje se drže u ime te osobe na razini grupe.
+(4) Agencija utvrđuje ograničenja pozicija iz stavka 1. ovoga članka radi:
+1. sprječavanja zlouporabe tržišta
+2. poticanja urednog formiranja cijena i uvjeta namire, što uključuje sprječavanje zauzimanja pozicija koje mogu dovesti do poremećaja na tržištu te osobito osiguravajući konvergenciju između cijena izvedenica u mjesecu isporuke i cijena temeljne robe na promptnom tržištu, ne dovodeći u pitanje utvrđivanje cijena na tržištu temeljne robe.
+(5) Robne izvedenice smatraju se ključnima ili značajnima ako zbroj svih netopozicija imatelja krajnjih pozicija čini veličinu njihove otvorene pozicije i iznosi najmanje 300.000 jedinica u prosjeku tijekom razdoblja od jedne godine.
+(6) Ograničenja pozicija iz stavka 1. ovoga članka ne primjenjuju se na:
+1. pozicije koje drži nefinancijski subjekt ili koji se drže u ime nefinancijskog subjekta i koje su objektivno mjerljive kao one kojima se smanjuju rizici koji su izravno povezani s poslovnom aktivnosti tog nefinancijskog subjekta
+2. pozicije koje drži financijski subjekt ili koje se drže u ime financijskog subjekta koji je dio pretežno komercijalne grupe i djeluje u ime nefinancijskog subjekta pretežno komercijalne grupe, ako su te pozicije objektivno mjerljive kao one kojima se smanjuju rizici izravno povezani s poslovnom aktivnosti tog nefinancijskog subjekta
+3. pozicije koje drže financijske i nefinancijske druge ugovorne strane i koje su objektivno mjerljive kao posljedica transakcija sklopljenih radi ispunjenja obveza osiguravanja likvidnosti na mjestu trgovanja, kada u skladu s delegiranim aktom Europske komisije takvu obvezu zahtijeva Agencija ili mjesto trgovanja
+4. sve ostale vrijednosne papire iz članka 4. točke 87. podtočke c) ovoga Zakona koji se odnose na robu ili temeljni instrument iz članka 4. točke 24. podtočke dg) ovoga Zakona.
+(7) Ako dođe do značajne promjene na tržištu, uključujući značajnu promjenu u ostvarivoj opskrbi ili otvorenoj poziciji, Agencija će revidirati već utvrđena ograničenja pozicija iz stavka 2. ovoga članka na temelju ostvarive opskrbe ili otvorene pozicije te ponovno utvrditi ograničenja pozicija u skladu s metodologijom koju regulatornim tehničkim standardima utvrđuje Europska komisija.«.

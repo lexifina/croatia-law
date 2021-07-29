@@ -1,0 +1,6 @@
+# Članak 94.
+U članku 339. stavku 4. iza riječi: »Zakona« stavlja se zarez i dodaju riječi: »uključujući i obveze koje se odnose na izdavatelje iz članka 338. ovoga Zakona«.
+Iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+»(5) Izdavatelj će obavijestiti burzu prilikom nove javne ponude dionica koje su istoga roda kao i dionice već uvrštene na uređeno tržište, uključujući i za one kod kojih nije bio dužan podnijeti zahtjev za uvrštenje sukladno članku 338. stavcima 1. do 3. ovoga Zakona.
+(6) Burza će pravilima propisati podatke koje joj je izdavatelj dužan dostaviti u slučaju iz stavka 5. ovoga članka, a koji će najmanje uključivati podatke iz kojih će ulagateljima i potencijalnim ulagateljima biti moguće jednostavno i točno utvrditi ukupni iznos temeljnog kapitala izdavatelja, vlasničku strukturu izdavatelja odnosno identitet imatelja vrijednosnih papira, ukupan broj dionica izdavatelja izdanih s glasačkim pravima te, ako je primjenjivo, ukupan broj dionica izdavatelja koje su izdane bez glasačkih prava.
+(7) Burza će javno objaviti podatke iz stavka 6. ovoga članka koji su potrebni da bi ulagatelji i potencijalni ulagatelji raspolagali punom informacijom o ukupnom iznosu temeljnog kapitala izdavatelja, vlasničkoj strukturi izdavatelja odnosno identitetu imatelja vrijednosnih papira te ukupnom broju izdanih dionica izdavatelja.«.

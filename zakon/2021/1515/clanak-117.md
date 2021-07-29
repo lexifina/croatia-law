@@ -1,0 +1,6 @@
+# Članak 117.
+Članak 383. mijenja se i glasi:
+»(1) Investicijsko društvo ili kreditna institucija koja trguje robnim izvedenicama ili emisijskim jedinicama i izvedenicama na emisijske jedinice izvan mjesta trgovanja dužna je, u skladu s provedbenim tehničkim standardima Europske komisije, najmanje jednom dnevno dostaviti potpunu specifikaciju pozicija u odnosu na jednakovrijedne OTC ugovore i, po potrebi, robne izvedenice ili emisijske jedinice ili njihove izvedenice kojima se trguje na mjestu trgovanja središnjem nadležnom tijelu određenom u skladu s člancima 377. i 378. ovoga Zakona ili, ako središnje nadležno tijelo ne postoji:
+1. Agenciji, kada je ona nadležno tijelo mjesta trgovanja na kojem se trguje tim robnim izvedenicama ili emisijskim izvedenicama i izvedenicama na emisijske izvedenice
+2. drugom nadležnom tijelu, kada je ono nadležno tijelo mjesta trgovanja na kojem se trguje tim robnim izvedenicama ili emisijskim izvedenicama i izvedenicama na emisijske izvedenice.
+(2) Obveza izvještavanja iz stavka 1. ovoga članka odnosi se i na pozicije njihovih klijenata, kao i klijenata tih klijenata dok se ne utvrdi konačni imatelj pozicije, a u skladu s člankom 26. Uredbe (EU) br. 600/2014 i, kada je primjenjivo, člankom 8. Uredbe (EU) br. 1227/2011.«.

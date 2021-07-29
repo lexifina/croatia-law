@@ -1,0 +1,4 @@
+## Obveza upisa u središnjem depozitoriju
+# Članak 178.
+(1) Subjekti iz članka 525. stavka 4. Zakona o tržištu kapitala (»Narodne novine«, br. 65/18. i 17/20.) koji su izdali vrijednosne papire javnom ponudom na području Republike Hrvatske prije stupanja na snagu toga Zakona, a nisu ih izdali kao nematerijalizirane vrijednosne papire u skladu s odredbama Zakona o tržištu kapitala (»Narodne novine«, br. 88/08., 146/08., 74/09., 54/13., 159/13., 18/15., 110/15., 123/16. i 131/17.), obvezni su takve prethodno izdane vrijednosne papire upisati u središnjem depozitoriju u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Dionička društva koja prije stupanja na snagu Zakona o tržištu kapitala (»Narodne novine«, br. 65/18. i 17/20.) nisu prethodno izdane dionice upisale u središnjem depozitoriju obvezna su takve, prethodno izdane vrijednosne papire upisati u središnjem depozitoriju u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

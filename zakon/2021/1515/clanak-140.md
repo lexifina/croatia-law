@@ -1,0 +1,6 @@
+# Članak 140.
+U članku 536. iza stavka 5. dodaju se novi stavci 6. i 7. i stavak 8. koji glase:
+»(6) Na postupak izdavanja odobrenja za vođenje ili upravljanje sustavom poravnanja, proširenje i ukidanje tog odobrenja i nadzor nad operaterom sustava poravnanja iz stavka 1. točke 2. ovoga članka primjenjuju se na odgovarajući način odredbe ovoga Zakona koje se primjenjuju na burzu.
+(7) Iznimno od stavka 6. ovoga članka, na postupak izdavanja odobrenja za vođenje ili upravljanje sustavom poravnanja, proširenje i ukidanje tog odobrenja i nadzor nad operaterom sustava poravnanja iz stavka 1. točke 2. ovoga članka primjenjuju se na odgovarajući način odredbe Zakona o provedbi Uredbe (EU) br. 909/2014 i odredbe ovoga Zakona koje se odnose na središnji depozitorij, kada je operater sustava poravnanja iz stavka 1. točke 2. ovoga članka središnji depozitorij.
+(8) Kada poslove vođenja ili upravljanja sustavom poravnanja iz stavka 1. točke 2. ovoga članka obavlja poslovni subjekt čije je osnovno poslovanje već uređeno propisima iz nadležnosti Agencije, na provođenje nadzora nad takvim subjektom nadzora također se primjenjuju odredbe zakona kojim je uređeno osnivanje i poslovanje takvih subjekata.«.
+Dosadašnji stavci 6. i 7. postaju stavci 9. i 10.
