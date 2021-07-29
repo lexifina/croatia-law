@@ -1,0 +1,1 @@
+Na temelju članka 99. stavka 7. Zakona o tržištu kapitala (»Narodne novine«, 65/2018 i 17/2020, dalje: Zakon) Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 14. srpnja 2021. donosi
