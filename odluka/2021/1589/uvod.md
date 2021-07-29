@@ -1,0 +1,1 @@
+Na temelju članka 51. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2021. godinu (»Narodne novine«, br. 135/20. i 69/21.), Vlada Republike Hrvatske je na sjednici održanoj 29. srpnja 2021. donijela
