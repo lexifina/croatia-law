@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o osnivanju Agencije za ugljikovodike (»Narodne novine«, br. 14/14. i 73/17.) članak 1. mijenja se i glasi:.
+»Ovim se Zakonom osniva Agencija za ugljikovodike (u daljnjem tekstu: Agencija) kao javna ustanova, koja samostalno i neovisno obavlja poslove u okviru djelokruga i nadležnosti određenih ovim Zakonom, zakonima kojima se uređuje istraživanje i eksploatacija ugljikovodika, geotermalnih voda za energetske svrhe, podzemno skladištenje plina, trajno zbrinjavanje ugljikova dioksida, tržište nafte i naftnih derivata i drugim propisima koji uređuju ustrojstvo, prava, obveze i izvore sredstava Agencije.«.
