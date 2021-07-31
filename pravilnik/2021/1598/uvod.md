@@ -1,0 +1,1 @@
+Na temelju članka 6. Zakona o promicanju čistih vozila u cestovnom prijevozu (»Narodne novine« broj 52/2021) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« broj 66/2019) uz prethodno pribavljenu suglasnost ministra mora, prometa i infrastrukture i ministra vanjskih i europskih poslova, ministar gospodarstva i održivog razvoja, donosi
