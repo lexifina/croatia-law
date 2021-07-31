@@ -1,1 +1,0 @@
-Na temelju članka 181. stavka 4. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, broj 121/17) ministar nadležan za zdravstvo, uz prethodnu suglasnost ministra hrvatskih branitelja i ministra nadležnog za rad i mirovinski sustav, donosi
