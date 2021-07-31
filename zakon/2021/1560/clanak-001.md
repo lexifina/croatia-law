@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o vodama (»Narodne novine«, br. 66/19.) u članku 110. stavak 2. mijenja se i glasi:
+»(2) Za provedbu zahvata iz stavka 1. ovoga članka provodi se odgovarajuća procjena utjecaja na okoliš odnosno ocjena prihvatljivosti za ekološku mrežu prema posebnim propisima o zaštiti okoliša i prirode, osim u pojedinačnom slučaju kao odgovor na izvanredna stanja utvrđena tim posebnim propisima primjenjujući pravila postupanja iz tih posebnih propisa. U tom postupku u svojstvu stranke mogu nastupiti Hrvatske vode ili tijelo državne uprave nadležno za plovidbu unutarnjim vodama, ovisno o nadležnosti s obzirom na područje zahvata.«.
