@@ -1,0 +1,2 @@
+# Članak 90.
+Zahtjevi za priznavanje prava na obiteljsku invalidninu po osnovi osobe koja je od bolesti dobivene ili pogoršane pod okolnostima iz članka 9. stavka 2. ovoga Zakona umrla u roku od godine dana od dana zlostavljanja odnosno otpuštanja iz zatočeništva, podneseni nakon isteka roka iz članka 24. stavka 2. Zakona o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata (»Narodne novine«, br. 103/03.), odbacit će se rješenjem.

@@ -1,0 +1,3 @@
+# Članak 74.
+(1) Činjenica da je bolest nastala, pogoršala se odnosno pojavila pod okolnostima iz članka 9. stavka 2. ovoga Zakona utvrđuje se na osnovi medicinske dokumentacije koja potječe iz vremena zlostavljanja odnosno otpusta iz zatočeništva ili iz vremena od 30 dana nakon zlostavljanja odnosno otpusta iz zatočeništva i drugim dokazima propisanim pravilnikom iz članka 72. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, činjenica da je bolest psihe nastala, pogoršala se odnosno pojavila pod okolnostima iz članka 9. stavka 2. ovoga Zakona može se utvrditi na osnovi prve medicinske dokumentacije koja nije starija od dvije godine nakon zlostavljanja odnosno otpusta iz zatočeništva.

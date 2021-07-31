@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Članovi obitelji iz članka 34. ovoga Zakona stječu pravo na novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine i sva ostala prava iz ovoga Zakona kao i članovi obitelji civilnih osoba umrlih ili poginulih pod okolnostima iz članka 9. ovoga Zakona pod uvjetima i u postupku utvrđenim za članove obitelji civilnih osoba poginulih ili umrlih u Domovinskom ratu, osim prava na obiteljsku invalidninu.
+(2) Članovima obitelji iz članka 34. ovoga Zakona nakon identifikacije nestale osobe ili proglašenja nestale civilne osobe umrlom prestaje pravo na novčanu naknadu u iznosu obiteljske invalidnine, povećane obiteljske invalidnine i uvećane obiteljske invalidnine te ostvaruju pravo na obiteljsku invalidninu na sljedeći način:
+a) po službenoj dužnosti u kontinuitetu nakon prestanka prava na novčanu naknadu u iznosu obiteljske invalidnine, nakon identifikacije nestale osobe ili
+b) temeljem podnesenog zahtjeva, sukladno ovom Zakonu, a nakon pravomoćnosti rješenja o proglašenju nestale osobe umrlom.

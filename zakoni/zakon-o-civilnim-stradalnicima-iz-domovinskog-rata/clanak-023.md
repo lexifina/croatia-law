@@ -1,0 +1,6 @@
+# Članak 23.
+(1) Nesposobnima za privređivanje prema ovom Zakonu smatraju se:
+1. osobe kada navrše 50 godina života odnosno mlađe osobe kod kojih se utvrdi nesposobnost za privređivanje koju utvrđuje liječničko vijeće iz članka 77. ovoga Zakona, a prema kriterijima medicinske znanosti imajući u vidu zanimanje i godine života
+2. dijete do navršenih 15 godina života odnosno za vrijeme školovanja, ali najkasnije do navršenih 26 godina života, a ako je nesposobno za samostalan život i rad, prema kriterijima medicinske znanosti, za vrijeme dok ta nesposobnost traje, uz uvjet da je nesposobnost nastupila prije navršenih 15 godina života odnosno za vrijeme školovanja prije navršenih 26 godina života i
+3. bračni drug iza preminule osobe od koje izvodi pravo, ako je nakon smrti te osobe ostalo jedno ili više djece prema kojima obavlja roditeljsku dužnost, dok su ta djeca nesposobna za samostalan život i rad, sukladno točki 2. ovoga stavka.
+(2) Dijete iz stavka 1. točke 2. ovoga članka koje prekine školovanje zbog bolesti koju je utvrdila nadležna zdravstvena ustanova smatra se nesposobnim za samostalan život i rad i za vrijeme trajanja bolesti do navršenih 26 godina života, kao i nakon te godine, ali najviše onoliko vremena koliko je zbog te bolesti izgubilo od školovanja, ako je školovanje nastavljeno prije navršenih 26 godina.

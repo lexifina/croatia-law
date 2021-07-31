@@ -1,0 +1,9 @@
+# Članak 9.
+(1) Civilni invalid iz Domovinskog rata je osoba kojoj je organizam oštećen za najmanje 20% zbog rane ili ozljede koju je dobila:
+a) zbog zatočenja u logoru, zatvoru ili drugom neprijateljskom objektu od strane pripadnika, pomagača, suradnika neprijateljskih vojnih i paravojnih formacija u razdoblju od 17. kolovoza 1990. do 30. lipnja 1996. odnosno drugih događaja lišenja slobode u vezi s okolnostima iz Domovinskog rata
+b) u vezi s ratnim događajima iz Domovinskog rata (zbog korištenja sredstava i metoda kojima se izvode ratne operacije kao što su bombardiranje, eksplozija minsko-eksplozivnih sredstava, zalutali metak i sl.) u razdoblju od 17. kolovoza 1990. do 30. lipnja 1996.
+c) od eksplozije minsko-eksplozivnih sredstava zaostalih nakon završetka ratnih operacija u Domovinskom ratu ili
+d) zbog eksplozije minsko-eksplozivnih sredstava ili uporabe vatrenog oružja, u razdoblju od 17. kolovoza 1990. do 30. lipnja 1996., izvan ratnih operacija, ali u vezi s okolnostima iz Domovinskog rata.
+(2) Civilni invalid iz Domovinskog rata je i osoba kojoj je organizam oštećen najmanje 60% zbog bolesti, a bolest je, pogoršanje bolesti odnosno pojava bolesti neposredna posljedica zatočenja u logoru, zatvoru ili drugom neprijateljskom objektu od strane pripadnika, pomagača, suradnika neprijateljskih vojnih i paravojnih formacija u razdoblju od 17. kolovoza 1990. do 30. lipnja 1996. odnosno drugih događaja lišenja slobode u vezi s okolnostima iz Domovinskog rata.
+(3) Civilni invalid iz Domovinskog rata koji po osnovi bolesti stekne i koristi prava po ovom Zakonu ili prijašnjim propisima najmanje pet godina, zadržava status civilnog invalida iz Domovinskog rata ako mu se oštećenje organizma smanji ispod 60%, ali ne niže od 20%.
+(4) Prava iz ovoga Zakona mogu ostvariti civilni invalidi iz Domovinskog rata kojima je priznat status civilnog invalida iz Domovinskog rata.

@@ -1,0 +1,4 @@
+# Članak 81.
+(1) Izvršna rješenja kojima je, prema odredbama ovoga Zakona, priznato pravo na osobnu invalidninu, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak, obiteljsku invalidninu, uvećanu obiteljsku invalidninu, povećanu obiteljsku invalidninu, novčanu naknadu u iznosu obiteljske invalidnine, povećane i uvećane obiteljske invalidnine, dodatak za pripomoć u kući, novčanu naknadu za civilne stradalnike iz Domovinskog rata, jednokratnu novčanu pomoć, pravo na naknadu za besplatne udžbenike, pravo na naknadu troška prilagodbe osobnog automobila, pravo na troškove ukopa i pravo na naknadu troškova prijevoza izvršava nadležno prvostupanjsko tijelo.
+(2) Iznimno od odredbe iz stavka 1. ovoga članka novčana primanja po ovom Zakonu korisnicima s prebivalištem u inozemstvu isplaćuje Ministarstvo.
+(3) Nadležno prvostupanjsko tijelo vodi evidenciju o izvršenim isplatama, o broju i strukturi korisnika.

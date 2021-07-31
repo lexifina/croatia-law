@@ -1,0 +1,2 @@
+# Članak 72.
+Odredbe o načinu ostvarivanja statusa civilnog invalida iz Domovinskog rata i statusa člana obitelji civilne osobe poginule, umrle ili nestale u Domovinskom ratu kao i odredbe o načinu ostvarivanja prava iz članaka 11. i 21. ovoga Zakona, a osobito metodologija utvrđivanja statusa i prava iz članaka 11. i 21. ovoga Zakona, sadržaj obrazaca za podnošenje zahtjeva te ostalo u svezi s načinom ostvarivanja statusa i prava iz članaka 11. i 21. ovoga Zakona, sukladno uvjetima iz ovoga Zakona, razradit će se pravilnikom koji donosi ministar.

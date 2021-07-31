@@ -1,0 +1,4 @@
+# Članak 80.
+(1) Ako nakon izvršnosti rješenja o pravima iz ovoga Zakona kod civilnog invalida iz Domovinskog rata nastupe promjene, koje su od utjecaja na postotak oštećenja organizma utvrđenog izvršnim rješenjem, civilni invalid iz Domovinskog rata može, po isteku dvije godine od dana izvršnosti rješenja, podnijeti zahtjev za utvrđivanje novog postotka oštećenja organizma.
+(2) Pravilnikom iz članka 77. stavka 8. ovoga Zakona propisat će se oštećenja organizma na osnovi kojih se zahtjev za utvrđivanje novog postotka oštećenja organizma može podnijeti i prije isteka roka iz stavka 1. ovoga članka.
+(3) Odredba stavka 1. ovoga članka primjenjuje se i na osobu kojoj nije priznat status civilnog invalida iz Domovinskog rata zbog neudovoljavanja uvjeta propisanih ovim Zakonom za stjecanje tog statusa u pogledu postotka oštećenja organizma.

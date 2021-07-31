@@ -1,0 +1,2 @@
+# Članak 66.
+Osobna invalidnina, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak, obiteljska invalidnina, povećana i uvećana obiteljska invalidnina, novčana naknada u iznosu obiteljske invalidnine, povećane i uvećane obiteljske invalidnine, novčana naknada za civilne stradalnike iz Domovinskog rata i dodatak za pripomoć u kući isplaćuju se u mjesečnim iznosima i to unazad.

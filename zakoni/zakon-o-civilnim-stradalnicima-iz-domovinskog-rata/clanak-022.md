@@ -1,0 +1,9 @@
+## ODJELJAK A OBITELJSKA INVALIDNINA
+# Članak 22.
+(1) Članovi uže obitelji civilnih osoba poginulih ili umrlih u Domovinskom ratu pravo na obiteljsku invalidninu mogu ostvariti pod sljedećim uvjetima:
+1. bračni ili izvanbračni drug stječu pravo na obiteljsku invalidninu kada navrše 50 godina ili ranije ako su nesposobni za privređivanje
+2. djeca, posvojenici i pastorčad – do navršene 15. godine života odnosno ako su na školovanju do kraja propisanog trajanja redovitog obrazovanja, ali najkasnije do navršene 26. godine života, a ako su nesposobni za privređivanje, dok ta nesposobnost traje, uz uvjet da je nesposobnost nastupila prije navršene 15. godine života odnosno za vrijeme redovitog obrazovanja, prije navršene 26. godine života i
+3. djeca koja završe redovito trogodišnje srednjoškolsko obrazovanje, a nastave školovanje u četvrtom razredu u redovitom školovanju ili po programu za obrazovanje odraslih, zadržavaju to pravo ako nisu zaposlena.
+(2) U slučaju iz stavka 1. točke 2. ovoga članka ako je zbog bolesti došlo do prekida, mirovanja ili u drugom slučaju spriječenosti u ispunjavanju školskih odnosno studentskih obveza u punom opsegu po službenoj odluci škole odnosno visokog učilišta, pravo na obiteljsku invalidninu ove osobe mogu koristiti i za vrijeme trajanja bolesti do navršene 26. godine života, a nakon toga najviše još za onoliko vremena koliko su zbog bolesti izgubile od redovitog školovanja, ako je redovito školovanje nastavljeno prije 26. godine života.
+(3) Ako užu obitelj čine bračni drug s jednim članom ili više članova obitelji iz stavka 1. točke 2. ovoga članka, bračni drug ima pravo na obiteljsku invalidninu kao sukorisnik s njima, bez obzira na uvjete iz stavka 1. točke 1. ovoga članka i to dok i jedno dijete od te djece ima pravo na obiteljsku invalidninu.
+(4) Obiteljsku invalidninu pastorčad može ostvariti ako ih je osoba od koje izvode pravo uzdržavala najmanje posljednju godinu dana prije smrti.
