@@ -1,0 +1,4 @@
+# Članak 20.
+(1) Postupci započeti po odredbama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.10. »Akvakultura koja osigurava usluge zaštite okoliša« (»Narodne novine«, broj 46/20), dovršit će se po odredbama toga Pravilnika.
+(2) Postupci se smatraju započetim donošenjem akta iz članka 11. stavka 2. odnosno članka 12. stavka 5. Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.10. »Akvakultura koja osigurava usluge zaštite okoliša« (»Narodne novine«, broj 46/20).
+(3) Iznimno od stavka 1. ovoga članka, odredbe članka 19. ovoga Pravilnika primjenjuju se i na postupke započete po odredbama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.10. »Akvakultura koja osigurava usluge zaštite okoliša« (»Narodne novine«, broj 46/20).

@@ -1,0 +1,5 @@
+# Članak 19.
+U Prilogu II. posljednji odlomak:
+»Izračunati iznos potpore za isplatu ne može prijeći iznos od 20% godišnjeg prihoda korisnika ostvarenog u posljednjoj financijskoj godini za koju su dostupni financijsko-računovodstveni izvještaji u skladu sa posebnim propisima. U slučaju kada je izračunati iznos potpore za isplatu viši od 20% godišnjeg prihoda korisnika i/ili iznosa dodijeljene potpore, potpora se isplaćuje do iznosa od 20% godišnjeg prihoda korisnika odnosno do iznosa dodijeljene potpore.«
+mijenja se i glasi:
+»Izračunati iznos potpore za isplatu ne može prijeći iznos od 20% godišnjeg poslovnog prihoda od djelatnosti akvakulture korisnika ostvarenog u posljednjoj financijskoj godini za koju su dostupni financijsko-računovodstveni izvještaji u skladu s posebnim propisima. U slučaju kada je izračunati iznos potpore za isplatu viši od 20% godišnjeg poslovnog prihoda od djelatnosti akvakulture korisnika i/ili iznosa dodijeljene potpore, potpora se isplaćuje do iznosa od 20% godišnjeg poslovnog prihoda od djelatnosti akvakulture korisnika odnosno do iznosa dodijeljene potpore.«.
