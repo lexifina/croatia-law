@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Programe iz članka 2. ovoga Pravilnika mogu izvoditi osobe koje ispunjavaju uvjete za rad na radnom mjestu odgojitelja i druge osobe koje ispunjavaju uvjete propisane pravilnikom kojim se propisuje odgovarajuća vrsta i razina obrazovanja odgojno-obrazovnih radnika u dječjem vrtiću.
+(2) Iznimno od stavka 1. ovoga članka, posebne programe za djecu s teškoćama u razvoju, uz odgojitelje mogu izvoditi i edukacijski rehabilitatori, u suradnji s drugim članovima stručnoga tima, a u ustanovama s posebnim programima za djecu s teškoćama u razvoju i drugi stručni radnici koji, u skladu s propisima, mogu provoditi i posebne programe za djecu s teškoćama u razvoju.
