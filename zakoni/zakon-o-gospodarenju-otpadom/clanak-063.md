@@ -1,0 +1,4 @@
+## VIII. JAVNA USLUGA SAKUPLJANJA KOMUNALNOG OTPADA
+## Gospodarenje komunalnim otpadom
+# Članak 63.
+Gospodarenjem komunalnim otpadom osigurava se mogućnost korištenja javne usluge sakupljanja komunalnog otpada te se potiče proizvođača otpada i posjednika otpada da odvojeno predaju otpad, kako bi se smanjila količina miješanog komunalnog otpada koji nastaje, smanjio udio biootpada u proizvedenom miješanom komunalnom otpadu, povećale količine i ispunila obveza Republike Hrvatske da osigura odvojeno sakupljanje i recikliranje papira i kartona, stakla, metala, plastike, biootpada, drva, tekstila, ambalaže, otpadne električne i elektroničke opreme, otpadnih baterija i akumulatora i glomaznog otpada, uključujući madrace i namještaj, uključivo i otpad koji se svrstava u posebne kategorije otpada čije gospodarenje je uređeno propisima kojima se uređuje gospodarenje posebnim kategorijama otpada, te time smanjila količina otpada koji se zbrinjava odlaganjem.

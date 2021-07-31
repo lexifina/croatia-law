@@ -1,0 +1,6 @@
+## Označavanje plastičnih proizvoda za jednokratnu uporabu
+# Članak 93.
+(1) Proizvođač proizvoda koji stavlja na tržište Republike Hrvatske plastični proizvod za jednokratnu uporabu naveden u Popisu D Dodatka III. točki 1., 2. i 3. ovoga Zakona, dužan je osigurati da taj proizvod ima oznaku na ambalaži, a za proizvod naveden u Popisu D Dodatka III. točki 4. ovoga Zakona dužan je osigurati da taj proizvod ima oznaku na proizvodu.
+(2) Oznaka iz stavka 1. ovoga članka mora biti vidljiva, čitljiva i neizbrisiva.
+(3) Oznaka iz stavka 1. ovoga članka mora sadržavati obavijest potrošačima o gospodarenju otpadom od toga proizvoda ili o načinima na koje se može izbjeći zbrinjavanje otpada od toga proizvoda u skladu s redom prvenstva gospodarenja otpada, te prisutnosti plastike u proizvodu i negativnim posljedicama odbacivanja otpada u okoliš ili drugog neodgovarajućeg zbrinjavanja otpada od toga proizvoda.
+(4) Oznaka iz stavka 1. ovoga članka mora biti u skladu s Provedbenom uredbom komisije (EU) 2020/2151 оd 17. prosinca 2020. o utvrđivanju pravila o usklađenim specifikacijama za oznaku plastičnih proizvoda za jednokratnu uporabu navedenih u dijelu D Priloga Direktivi (EU) 2019/904 Europskog parlamenta i Vijeća o smanjenju utjecaja određenih plastičnih proizvoda na okoliš (SL L 428, 18. 12. 2020.)

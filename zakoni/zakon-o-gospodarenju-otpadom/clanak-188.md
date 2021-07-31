@@ -1,0 +1,3 @@
+# Članak 188.
+(1) Danom stupanja na snagu ovoga Zakona Uredba o gospodarenju komunalnim otpadom (»Narodne novine«, br. 50/17., 84/19. i 14/20. – Rješenje Ustavnog suda Republike Hrvatske) ostaje na snazi, osim članaka 1. do 13., članka 14. stavaka 1., 3. do 12., članka 15., 18. do 21. i 23. do 27. Uredbe o gospodarenju komunalnim otpadom (»Narodne novine«, br. 50/17., 84/19. i 14/20. – Rješenje Ustavnog suda Republike Hrvatske).
+(2) Odredbe članka 14. stavka 2., članka 16., 17. i 22. Uredbe o gospodarenju komunalnim otpadom (»Narodne novine«, br. 50/17., 84/19. i 14/20. – Rješenje Ustavnog suda Republike Hrvatske) prestaju važiti stupanjem na snagu pravilnika iz članka 5. stavka 5. ovoga Zakona.

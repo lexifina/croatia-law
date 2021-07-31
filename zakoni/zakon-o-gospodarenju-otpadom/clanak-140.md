@@ -1,0 +1,6 @@
+## Ovlasti komunalnog redara
+# Članak 140.
+(1) Komunalni redar ovlašten je utvrditi identitet fizičke osobe počinitelja odbacivanja otpada uvidom u osobni identifikacijski dokument ili na drugi odgovarajući način.
+(2) Fizička osoba počinitelj odbacivanja otpada dužna je na zahtjev predočiti na uvid komunalnom redaru osobni identifikacijski dokument radi utvrđivanja identiteta počinitelja odbacivanja otpada.
+(3) Ako fizička osoba počinitelj odbacivanja otpada na zahtjev komunalnog redara ne predoči na uvid osobni identifikacijski dokument radi provjere identiteta, komunalni redar je ovlašten zatražiti pružanje pomoći od djelatnika ministarstva nadležnog za unutarnje poslove radi utvrđivanja identiteta počinitelja odbacivanja otpada.
+(4) Ako komunalni redar utvrdi postojanje opravdane sumnje da je opasni ili drugi otpad odbačen na nekretnini čiji vlasnik, odnosno posjednik, ako vlasnik nekretnine nije poznat, odnosno osoba koja, sukladno posebnom propisu, upravlja određenim područjem (dobrom), ne dopušta pristup radi utvrđivanja činjeničnog stanja u svezi odbačenog otpada, komunalni redar ovlašten je zatražiti nalog suda i asistenciju djelatnika ministarstva nadležnog za unutarnje poslove radi pristupa na nekretninu u svrhu utvrđivanja činjenica.

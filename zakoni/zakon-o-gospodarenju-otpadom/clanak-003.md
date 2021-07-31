@@ -1,0 +1,19 @@
+## Područje primjene Zakona
+# Članak 3.
+(1) Odredbe ovoga Zakona ne primjenjuju se na:
+1. plinovite tvari koje se ispuštaju u atmosferu
+2. zemlju/tlo (in situ) uključujući neiskopano onečišćeno tlo i građevine trajno povezane sa zemljištem
+3. neonečišćeno tlo i druge materijale iz prirode iskopane tijekom građevinskih aktivnosti ako je nedvojbeno da će se taj materijal za građevinske svrhe koristiti u svojem prirodnom obliku na gradilištu s kojeg je iskopan te na višak iskopa koji sukladno zakonu kojim se uređuje rudarstvo predstavlja mineralnu sirovinu
+4. radioaktivni otpad
+5. eksplozivne tvari nepodesne za uporabu i
+6. fekalije koje nisu obuhvaćene stavkom 2. točkom 2. ovoga članka, slamu i drugi prirodni neopasni poljoprivredni ili šumski materijal koji se koristi u poljoprivredi, šumarstvu ili za proizvodnju energije iz takve biomase postupcima ili metodama koje ne štete okolišu i ne ugrožavaju zdravlje ljudi.
+(2) Odredbe ovoga Zakona ne primjenjuju se, u mjeri u kojoj je to propisano drugim propisima, na:
+1. otpadne vode
+2. nusproizvode životinjskoga podrijetla uključujući prerađene proizvode na koje se odnosi Uredba (EZ) br. 1069/2009 Europskog parlamenta i Vijeća od 21. listopada 2009. o utvrđivanju zdravstvenih pravila za nusproizvode životinjskog podrijetla i od njih dobivene proizvode koji nisu namijenjeni prehrani ljudi te o stavljanju izvan snage Uredbe (EZ) br. 1774/2002 (Uredba o nusproizvodima životinjskog podrijetla) (SL 300, 14. 11. 2009.); (u daljnjem tekstu: Uredba (EZ) br. 1069/2009), kako je zadnje izmijenjena Uredbom Vijeća (EU) br. 1385/2013 od 17. prosinca 2013. o izmjeni uredbi Vijeća (EZ) br. 850/98 i (EZ) br. 1224/2009 i uredbi (EZ) br. 1069/2009, (EU) br. 1379/2013 i (EU) br. 1380/2013 Europskog parlamenta i Vijeća zbog izmjene statusa departmana Mayotte u odnosu na Europsku uniju (SL L 354, 28. 12. 2013.), osim onih koji su namijenjeni spaljivanju, odlaganju na odlagališta ili uporabi u postrojenjima za proizvodnju bioplina ili komposta
+3. strvine uginulih životinja koje nisu zaklane, uključujući životinje usmrćene radi istrebljenja epizootskih bolesti, koje se zbrinjavaju sukladno Uredbi (EZ) br. 1069/2009
+4. otpad koji nastaje istraživanjem, iskapanjem, obrađivanjem i skladištenjem mineralnih sirovina te radom kamenoloma, a koji je obuhvaćen posebnim propisom kojim se uređuje gospodarenje otpadom iz rudarske industrije
+5. tvari namijenjene uporabi kao krmiva kako je određeno Uredbom (EZ) br. 767/2009 Europskog parlamenta i Vijeća od 13. srpnja 2009. o stavljanju na tržište i korištenju hrane za životinje, izmjeni Uredbe (EZ) br. 1831/2003 Europskog parlamenta i Vijeća i stavljanju izvan snage Direktive Vijeća 79/373/EEZ, Direktive Komisije 80/511/EEZ, direktiva Vijeća 82/471/EEZ, 83/228/EEZ, 93/74/EEZ, 93/113/EZ i 96/25/EZ te Odluke Komisije 2004/217/EZ (SL L 229, 13. 07.2 009.) i ne sastoje se od nusproizvoda životinjskog podrijetla niti ih sadržavaju i
+6. brodove obuhvaćene Uredbom (EU) br. 1257/2013 Europskog parlamenta i Vijeća od 20. studenoga 2013. o recikliranju brodova i o izmjeni Uredbe (EZ) br. 1013/2006 i Direktive 2009/16/EZ (SL L 330, 10. 12. 2013.).
+(3) Odredbe ovoga Zakona ne odnose se na sedimente koji se premještaju unutar površinskih voda radi gospodarenja vodama i vodenim tokovima ili sprječavanja poplava ili ublažavanja posljedica poplava, suša ili regeneracije zemljišta ako se dokaže da ti sedimenti nisu opasni.
+(4) Na pomorske objekte i na organizaciju i provedbu sakupljanja, predaje i prihvata otpada u lučke uređaje za prihvat otpada te na ostatke brodskog tereta primjenjuju se odredbe propisa kojim se uređuje pomorstvo.
+(5) Odredbe ovoga Zakona ne odnose se na sprječavanje nastajanja otpada od hrane, koje je regulirano posebnim propisom u nadležnosti ministarstva nadležnog za poslove poljoprivrede.

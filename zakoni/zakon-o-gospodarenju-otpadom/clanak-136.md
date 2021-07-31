@@ -1,0 +1,9 @@
+## XVI. INSPEKCIJSKI NADZOR
+## Nadležnost za inspekcijski nadzor
+# Članak 136.
+(1) Inspekcijski nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona provode inspektori zaštite okoliša Državnog inspektorata (u daljnjem tekstu: inspektor zaštite okoliša), ako ovim Zakonom nije drukčije propisano.
+(2) Na inspekcijski nadzor koji se provodi na temelju odredbi ovoga Zakona na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje zaštita okoliša i zakona kojim se uređuje djelokrug, dužnosti i ovlasti inspektora Državnog inspektorata, ako ovim Zakonom nije propisano drukčije.
+(3) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na obavljanje djelatnosti prijevoza otpada provode i ovlaštene službene osobe ministarstva nadležnog za unutarnje poslove.
+(4) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na prekogranični promet otpadom te djelatnost posredovanja u gospodarenju otpadom i djelatnost trgovanja otpadom provode i ovlaštene službene osobe Ministarstva financija, Carinske uprave (u daljnjem tekstu Carinske uprave).
+(5) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na javnu uslugu sakupljanja komunalnog otpada, spaljivanje otpada od strane fizičkih osoba te na nepropisno skladištenje, ostavljanje, odbacivanja ili odlaganje otpada od strane fizičke osobe ili nepoznatih osoba protivno ovom Zakonu provodi osoba koja obavlja poslove službe nadležne za komunalni red jedinice lokalne samouprave (u daljnjem tekstu: komunalni redar), ako ovim Zakonom nije određeno drukčije.
+Nadležnost tržišne inspekcije, Carinske uprave, rudarskih inspektora, energetskih inspektora za naftno rudarstvo i inspektora nadležnih za označavanje proizvoda

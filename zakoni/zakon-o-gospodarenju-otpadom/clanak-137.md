@@ -1,0 +1,5 @@
+# Članak 137.
+(1) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona, u dijelu koji se odnosi na obračun i naplatu javne usluge potrošačima provode tržišni inspektori Državnog inspektorata (u daljnjem tekstu: tržišni inspektor)
+(2) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na obveze u sustavu proširene odgovornosti proizvođača proizvoda, uključujući plaćanje povratne naknade i naknade gospodarenja otpadom, dostupnost informacija i označavanje proizvoda obavlja Carinska uprava.
+(3) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na označavanje ambalaže proizvoda provode inspektori nadležni za označavanje proizvoda svaki u svom djelokrugu određenim posebnim propisima.
+(4) Nadzor nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona u dijelu koji se odnosi na gospodarenje otpadom iz rudarske industrije provode rudarski inspektori i energetski inspektori za naftno rudarstvo Državnog inspektorata (u daljnjem tekstu: rudarski inspektor).

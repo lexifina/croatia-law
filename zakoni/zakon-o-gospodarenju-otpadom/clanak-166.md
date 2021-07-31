@@ -1,0 +1,5 @@
+# Članak 166.
+(1) Novčanom kaznom u iznosu od 10.000,00 do 200.000,00 kuna kaznit će se za prekršaj pravna osoba koja ne ispuni obveze određene provedbenim propisima iz članka 184. stavak 1. i 2. ovoga Zakona u utvrđenom roku i na propisani način.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5000,00 do 20.000,00 kuna.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba – obrtnik: ovlašten za obavljanje djelatnosti gospodarenja otpadom, vlasnik otpada, posjednik otpada, proizvođač proizvoda, proizvođač otpada, prodavatelj, prijevoznik, posrednik, trgovac otpadom, izvoznik, uvoznik, provoznik, ovlaštenik, koncesionar te druga osoba nad kojima je proveden nadzor, novčanom kaznom u iznosu od 5000,00 do 50.000,00 kuna.
+(4) Za prekršaj iz stavka 1. ovoga članka kaznit će se i fizička osoba u svojstvu posjednika otpada, vlasnika otpada i druge osobe nad kojom je proveden nadzor novčanom kaznom u iznosu od 1000,00 do 10.000,00 kuna.

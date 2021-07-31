@@ -1,0 +1,8 @@
+## Rad odlagališta otpada
+# Članak 40.
+(1) Redoslijed i dinamiku zatvaranja odlagališta i obvezu osobe koja upravlja odlagalištem da preuzima određeni miješani komunalni otpad određuje ministar Odlukom sukladno Dinamici zatvaranja odlagališta neopasnog otpada, koja se objavljuje na mrežnoj stranici Ministarstva.
+(2) Osoba koja upravlja odlagalištem otpada dužna je:
+1. u vrijeme i na način propisan Odlukom iz stavka 1. ovoga članka, obustaviti preuzimanje otpada na odlagalištu i zatvoriti odlagalište
+2. za vrijeme dok odlagalište još nije zatvoreno, preuzimati miješani komunalni otpad prikupljen iz određene jedinice lokalne samouprave pri čemu je dužan primjenjivati istu cijenu za preuzimanje miješanog komunalnog otpada po toni za sve davatelje javne usluge sakupljanja komunalnog otpada.
+(3) Kad je osoba koja upravlja odlagalištem ujedno i davatelj javne usluge iz članka 68. ovoga Zakona, cijena za preuzimanje miješanog komunalnog otpada po toni koju primjenjuje za druge davatelje javne usluge ne smije biti veća od troška po toni otpada kojim opterećuje vlastito poslovanje.
+(4) Kriteriji za prihvat otpada na odlagalište, granične vrijednosti emisija u okoliš kod odlaganja otpada, uvjeti i mjere u svezi s planiranjem, gradnjom, radom i zatvaranjem odlagališta i postupanjem nakon njihova zatvaranja, način utvrđivanja količine odloženog otpada na odlagalištu, način određivanja udjela biorazgradivog komunalnog otpada u komunalnom otpadu te uvjete za prethodnu obradu otpada prije odlaganja, uz prethodnu suglasnost ministra nadležnog za prostorno uređenje i graditeljstvo i ministra nadležnog za vodno gospodarstvo, propisuje ministar pravilnikom iz članka 39. stavka 6. ovoga Zakona.

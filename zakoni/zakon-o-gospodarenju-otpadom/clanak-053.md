@@ -1,0 +1,8 @@
+## Financijsko jamstvo za gospodarenje otpadom iz rudarske industrije
+# Članak 53.
+(1) Pravna i fizička osoba – obrtnik koja je ishodila dozvolu za gospodarenje otpadom iz rudarske industrije dužna je prije početka i za svo vrijeme obavljanja postupaka odobrenih dozvolom za gospodarenje otpadom iz rudarske industrije raspolagati financijskim jamstvom (financijski polog, što uključuje i zajednički industrijski garancijski fond) ili odgovarajućim ekvivalentnim financijskim instrumentom određenim u skladu s Odlukom Komisije 2009/335/EZ od 20. travnja 2009. o tehničkim smjernicama za uspostavljanje financijskog jamstva u skladu s Direktivom 2006/21/EZ Europskog parlamenta i Vijeća o gospodarenju otpadom od industrija vađenja minerala (priopćena pod brojem dokumenta C(2009) 2798) (SL L 101, 21. 4. 2009.), kojim nadležno tijelo županije odnosno Grada Zagreba osigurava:
+1. izvršenje obveza propisanih dozvolom za gospodarenje otpadom iz rudarske industrije, što uključuje svako obvezno postupanje na postrojenju za gospodarenje otpadom iz rudarske industrije nakon njegovog zatvaranja i
+2. da su za sve vrijeme rada postrojenja za gospodarenje otpadom iz rudarske industrije dostupna sredstva za sanaciju zemljišta onečišćenog radom postrojenja sukladno Planu gospodarenja otpadom iz rudarske industrije i dozvoli za gospodarenje otpadom iz rudarske industrije.
+(2) Iznos financijskog jamstva se utvrđuje na temelju:
+– mogućih utjecaja postrojenja za gospodarenje otpadom iz rudarske industrije na okoliš, uzimajući u obzir kategoriju postrojenja za gospodarenje otpadom iz rudarske industrije, svojstva otpada i buduću namjenu saniranog zemljišta
+– pretpostavke da će procjenu i izvršenje svih potrebnih radova za sanaciju izraditi neovisni stručni procjenitelj.

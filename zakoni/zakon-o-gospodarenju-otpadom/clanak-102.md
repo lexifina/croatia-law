@@ -1,0 +1,10 @@
+## Naknada zbog blizine odlagališta
+# Članak 102.
+(1) Vlasnik postojeće stambene odnosno stambeno-poslovne građevine u kojoj ima prijavljeno prebivalište i koja se nalazi na udaljenosti do 500 metara mjereno od vršne točke katastarske čestice na kojoj se nalazi odlagalište do vršne točke katastarske čestice na kojoj se nalazi stambena odnosno stambeno-poslovna građevina, uz uvjet da je vlasništvo nad nekretninom stekao prije početka građenja te građevine za odlaganje otpada, ima pravo na novčanu naknadu zbog blizine odlagališta.
+(2) Obveznik plaćanja naknade iz stavka 1. ovoga članka je pravna osoba koja upravlja odlagalištem.
+(3) Na zahtjev vlasnika nekretnine iz stavka 1. ovoga članka nadležno tijelo jedinice lokalne samouprave odnosno Grada Zagreba na čijem području se nalazi odlagalište donosi rješenje kojim se utvrđuje pravo na naknadu i visinu novčane naknade zbog blizine odlagališta.
+(4) Nadležno tijelo koje rješava o zahtjevu po službenoj dužnosti će pribaviti dokaz da vlasnik nekretnine ima u njoj prijavljeno prebivalište, dokaz o vlasništvu nekretnine, dokaz o datumu stjecanja vlasništva nad nekretninom, dokaz da je nekretnina zakonito izgrađena ili ozakonjena sukladno propisima kojima se uređuje gradnja.
+(5) Grad Zagreb i jedinice lokalne samouprave dužni su voditi popis vlasnika nekretnina čija stambena odnosno stambeno-poslovna građevina se nalazi na udaljenosti do 500 metara mjereno kao najkraća ravna udaljenost od vršne točke katastarske čestice na kojoj se nalazi odlagalište do vršne točke katastarske čestice na kojoj se nalazi stambena ili stambeno-poslovna građevina.
+(6) Naknada zbog blizine odlagališta plaća se godišnje, uplatom naknade na bankovni račun vlasnika nekretnina iz stavka 1. ovoga članka u roku od 15 dana od dana pravomoćnosti rješenja iz stavka 3. ovoga članka.
+(7) Način obračuna naknade zbog blizine odlagališta propisan je Dodatkom V. ovoga Zakona.
+(8) Protiv rješenja o zahtjevu iz stavka 3. ovoga članka može se izjaviti žalba Ministarstvu.

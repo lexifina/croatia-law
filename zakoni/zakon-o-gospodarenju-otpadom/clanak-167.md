@@ -1,0 +1,30 @@
+# Članak 167.
+(1) Novčanom kaznom u iznosu od 20.000,00 do 200.000,00 kuna kaznit će se za prekršaj pravna osoba koja:
+1. je stavila na tržište u Republici Hrvatskoj plastični proizvod za jednokratnu uporabu koji je naveden u Popisu B Dodatka III. ovoga Zakona i proizvod koji su načinjeni od oksorazgradive plastike (članak 17. stavak 1.)
+2. je stavila na tržište lagane plastične vrećice za nošenje osim vrlo laganih plastična vrećica za nošenje (članak 17. stavak 2.)
+3. je stavila na tržište u Republici Hrvatskoj proizvod naveden Popisom C Dodatka III. ovoga Zakona, koji ima čep ili poklopac izrađen od plastike, a taj čep ili poklopac ne ostaje pričvršćen za spremnik tijekom faze predviđene uporabe proizvoda, pri čemu se ne smatra da je metalni čep ili poklopac s plastičnom brtvom izrađen od plastike (članak 17. stavak 3.)
+4. je odbacila otpad u okoliš (članak 18. stavak 1.)
+5. je potopila otpad u more (članak 18. stavak 3.)
+6. je miješala odvojeno prikupljeni biootpad s drugim vrstama otpada (članak 18. stavak 4.)
+7. je palila otpad u okolišu ili na moru, osim u skladu s međunarodnom konvencijom o sprječavanju onečišćenja s brodova (MARPOL konvencija) i njenim prilozima ili je spaljivala biljni otpad iz poljoprivrede i šumarstva osim na način propisan propisom kojim se uređuje zaštita od požara ili otpad koji je odvojeno sakupljen radi pripreme za ponovnu uporabu ili recikliranja, osim otpada koji nastaje obradom odvojeno sakupljenoga otpada za kojeg spaljivanje daje najbolji ishod za okoliš sukladno članku 5. ovoga Zakona (članak 18. stavak 5.)
+8. je proizvođač otpada ili posjednik otpada i nije osigurao obradu otpada postupkom pripreme za ponovnu uporabu, recikliranjem ili oporabom sukladno člancima 5. i 6. ovoga Zakona, a to je bilo moguće (članak 21. stavak 1.)
+9. je proizvođač otpada ili posjednik otpada, koji nije osigurao obradu otpada postupkom pripreme za ponovnu uporabu, recikliranjem ili oporabom sukladno člancima 5. i 6. ovoga Zakona, i nije osigurao zbrinjavanje otpada na siguran način u skladu s člankom 5. ovoga Zakona (članak 21. stavak 1.)
+10. preuzme otpad u posjed, a nije ovlaštena osoba iz članka 27. stavka 1. ovoga Zakona (članak 27. stavak 1.)
+11. je započela ili obavljala djelatnost oporabe i zbrinjavanja otpada za koju se izdaje dozvola za gospodarenje otpadom, bez da je ishodila dozvolu za gospodarenje otpadom (članak 29. stavak 1.)
+12. je započela ili obavljala djelatnost sakupljanja otpada postupkom sakupljanja bez da je upisana u Očevidnik sakupljača i oporabitelja (članak 29. stavak 3. točka 1.)
+13. je započela ili obavljala djelatnost oporabe postupkom za koji se ne izdaje dozvola za gospodarenje otpadom bez da je upisana u Očevidnik sakupljača i oporabitelja (članak 29. stavak 3. točka 2.)
+14. je započela ili obavljala djelatnost posredovanja u gospodarenju otpadom bez da je upisana u Evidenciju posrednika otpadom, prijevoznika otpada, trgovaca otpadom i reciklažnih dvorišta (članak 29. stavak 4. točka 1.)
+15. je započela ili obavljala djelatnost prijevoza otpada bez da je upisana u Evidenciju posrednika otpadom, prijevoznika otpada, trgovaca otpadom i reciklažnih dvorišta (članak 29. stavak 4. točka 2.)
+16. je započela ili obavljala djelatnost trgovanja otpadom bez da je upisana u Evidenciju posrednika otpadom, prijevoznika otpada, trgovaca otpadom i reciklažnih dvorišta (članak 29. stavak 4. točka 3.)
+17. je započela ili obavljala djelatnost sakupljanja otpada postupkom sakupljanja u reciklažnom dvorištu bez da je upisana u Evidenciju posrednika otpadom, prijevoznika otpada, trgovaca otpadom i reciklažnih dvorišta (članak 29. stavak 4. točka 4.)
+18. je osoba koja je ishodila dozvolu za gospodarenje otpadom ili je prijevoznik otpada, ili je osoba koja upravlja reciklažnim dvorištem, ili je sakupljač otpada ili je oporabitelj bez dozvole, i koji nije gospodario otpadom u skladu s člancima 5. i 6. ovoga Zakona (članak 29. stavak 7.)
+19. je osoba koje je ishodila dozvolu za gospodarenje otpadom i nije radila u skladu s dozvolom za gospodarenje otpadom (članak 30. stavak 6.)
+20. je na odlagalištu otpada odložila otpad za kojega je propisana zabrana odlaganja (članak 39. stavak 1.)
+21. je na odlagalištu otpada odložila otpad koji nije prošao prethodnu obradu otpada prije odlaganja, a taj otpad nije obuhvaćen iznimkom iz članka 39. stavka 3. ovoga Zakona (članak 39. stavak 2.)
+22. je osoba koja upravlja odlagalištem otpada i nije u vrijeme i na način propisan Odlukom iz članka 40. stavka 1. ovoga Zakona, obustavila preuzimanje otpada na odlagalištu ili nije zatvorila odlagalište ili za vrijeme dok odlagalište još nije zatvoreno, nije preuzimala miješani komunalni otpad prikupljen iz određene jedinice lokalne samouprave ili pri tome nije primjenjivala istu cijenu za preuzimanje miješanog komunalnog otpada po toni za sve davatelje javne usluge sakupljanja komunalnog otpada (članak 40. stavak 2.)
+23. je osoba koja miješa opasni otpad s drugim vrstama opasnog otpada ili s drugim vrstama otpada ili s drugim tvarima ili materijalima, pri čemu miješanje uključuje i razrjeđivanje opasnih tvari (članak 42. stavak 1.)
+24. je operater, koji upravlja postrojenjem za gospodarenje otpadom iz rudarske industrije, i koji je počeo s radom postrojenja za gospodarenje otpadom iz rudarske industrije prije nego je ishodio dozvolu za gospodarenje otpadom iz rudarske industrije (članak 50. stavak 1.)
+25. je osoba koja posjeduje dozvolu za gospodarenje otpadom iz rudarske industrije i nije gospodarila otpadom sukladno člancima 5. i 6. ovoga Zakona (članak 50. stavak 7.).
+(2) Za radnju iz stavka 1. ovoga članka kaznit će se za prekršaj novčanom kaznom u iznosu 10.000,00 do 100.000,00 kuna i odgovorna osoba u pravnoj osobi.
+(3) Za radnju iz stavka 1. ovoga članka kaznit će se za prekršaj novčanom kaznom u iznosu 10.000,00 do 100.000,00 kuna fizička osoba – obrtnik.
+(4) Za radnju iz stavka 1. točaka 1. do 17., 20., 21. i 23. ovoga članka kaznit će se za prekršaj novčanom kaznom u iznosu 10.000,00 do 100.000,00 kuna fizička osoba.

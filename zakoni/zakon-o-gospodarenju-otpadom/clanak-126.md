@@ -1,0 +1,3 @@
+# Članak 126.
+(1) Pravna ili fizička osoba – obrtnik iz članka 124. stavka 1. ovoga Zakona dužna je obavijestiti Ministarstvo o svakoj promjeni podataka temeljem kojih mu je izdano rješenje o statusu postrojenja s prethodnim odobrenjem i zatražiti izmjenu rješenja u roku od 30 dana od nastale promjene.
+(2) Pravna ili fizička osoba – obrtnik iz članka 124. stavka 1. ovoga Zakona dužna je do 1. ožujka tekuće godine, za proteklu kalendarsku godinu, dostaviti Ministarstvu izvješće o uvezenim vrstama i količinama otpada za koje je ishodila rješenje o statusu postrojenja s prethodnim odobrenjem u pisanom ili digitalnom obliku putem elektroničke aplikacije Ministarstva iz članka 129. ovoga Zakona.

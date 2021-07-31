@@ -1,0 +1,3 @@
+## Inspekcijske mjere
+# Članak 141.
+U provedbi inspekcijskog nadzora, u slučaju povrede ovoga Zakona, provedbenih propisa donesenih na temelju ovoga Zakona i Uredbe (EZ) br. 1013/2006, inspektori i druge ovlaštene osobe iz članka 136., 137. i 138. ovoga Zakona, svaki u okviru svoje nadležnosti određene ovim Zakonom i drugim posebnim propisom, imaju pravo i obvezu nadziranoj osobi narediti radnje odnosno rješenjem izreći upravne mjere za koje su ovlašteni temeljem ovoga Zakona, izdati prekršajni nalog ili obavezni prekršajni nalog te podnijeti nadležnom tijelu optužni prijedlog ili kaznenu prijavu zbog prekršaja ili sumnje na počinjenje kaznenog djela.

@@ -1,0 +1,15 @@
+## Ostale obveze proizvođača proizvoda
+# Članak 92.
+(1) Radi poticanja ponovne uporabe i sprječavanja nastanka otpada, recikliranja i općenito oporabe otpada, te doprinosa postizanju nacionalnog cilja gospodarenja otpadom, proizvođač proizvoda dužan je:
+1. preuzeti rabljeni proizvod
+2. osigurati preuzimanje otpada koji nastaje od uporabe proizvoda
+3. osigurati provedbu usluga gospodarenja otpadom
+4. platiti naknadu gospodarenja otpadom
+5. osigurati javno dostupne informacije o mjeri u kojoj se proizvod može ponovno uporabiti i reciklirati
+6. označiti proizvod odnosno ambalažu i priložiti uputu i
+7. registrirati se i dostavljati podatke u Registar proizvođača s proširenom odgovornosti
+(2) Obveza iz stavka 1. ovoga članka nastaje stavljanjem određenog proizvoda na tržište u Republici Hrvatskoj, kad je za taj proizvod propisana takva obveza.
+(3) Obveza iz stavka 1. ovoga članka jednako obvezuje sve proizvođače proizvoda i njena primjena ne ovisi o porijeklu ili veličini proizvođača proizvoda, te ne smije predstavljati nerazmjerno regulatorno opterećenje proizvođača proizvoda, uključujući i mala i srednja poduzeća te proizvođače koji stavljaju na tržište male količine proizvoda.
+(4) Proširena odgovornost proizvođača primjenjuje se ne dovodeći u pitanje obvezu osiguravanja obrade otpada iz članka 21. ovoga Zakona te propise o posebnim tokovima otpada i proizvodima.
+(5) Proizvođač proizvoda koji udovoljava definiciji »dobavljač proizvoda« propisanoj člankom 3. točkom 33. Uredbe (EZ) br. 1907/2006 Europskog parlamenta i Vijeća od 18. prosinca 2006. o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) i osnivanju Europske agencije za kemikalije te o izmjeni Direktive 1999/45/EZ i stavljanju izvan snage Uredbe Vijeća (EEZ) br. 793/93 i Uredbe Komisije (EZ) br. 1488/94 kao i Direktive Vijeća 76/769/EEZ i direktiva Komisije 91/155/EEZ, 93/67/EEZ, 93/105/EZ i 2000/21/EZ (SL L 396, 18. 12. 2006) kako je zadnje izmijenjena Uredbom komisije (EU) 2020/1149 оd 3. kolovoza 2020. o izmjeni Priloga XVII. Uredbi (EZ) br. 1907/2006 Europskog parlamenta i Vijeća o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija (REACH) u pogledu diizocijanata (SL L 252, 4. 8. 2020.), dužan je Europskoj agenciji za kemikalije dostaviti podatke propisane člankom 33. stavkom 1. te Uredbe.
+(6) Opseg obveze iz stavka 1. ovoga članka i način izvršenja te obveze, mjere kojima se potiče postupanje kojim se smanjuje utjecaj na okoliš proizvoda, uključujući i ribolovne alate koji sadržavaju plastiku te plastične proizvode za jednokratnu uporabu navedene u Popisu E Dodatka III. ovoga Zakona i ambalaže, obuhvaćenih obvezom proširene odgovornosti proizvođača proizvoda, te mjere kojima se potiče sprječavanje nastanka otpada, uključujući i nastanak otpadne ambalaže, mjere obavješćivanja potrošača i poticanja odgovornog ponašanja potrošača radi smanjenja odbacivanja otpada uključujući i otpad od plastičnih proizvoda za jednokratnu uporabu iz Popisa G Dodatka III. ovoga Zakona propisuje ministar pravilnikom iz članka 88. stavka 3. ovoga Zakona.
