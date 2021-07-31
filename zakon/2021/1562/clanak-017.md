@@ -1,0 +1,8 @@
+# Članak 17.
+Naslov iznad članka 173. mijenja se i glasi: »Neprovođenje odluke za zaštitu dobrobiti djeteta i drugih ranjivih skupina ili postupanje protivno pravilima struke«.
+Članak 173. mijenja se i glasi:
+»(1) Tko ne provodi, spriječi ili onemogući provođenje odluke za zaštitu dobrobiti djeteta i drugih ranjivih osoba zbog njihove dobi, teške tjelesne ili duševne smetnje ili trudnoće, koju je odredio sud, centar za socijalnu skrb ili državno tijelo, kaznit će se kaznom zatvora do jedne godine.
+(2) Službena osoba na radu u ustanovi ili državnom tijelu ili odgovorna osoba u obavljanju javne ovlasti koja ne provodi odluke suda ili državnih tijela za zaštitu djeteta i druge ranjive osobe zbog njihove dobi, teške tjelesne ili duševne smetnje ili trudnoće pa zbog toga bude ugroženo zdravlje ili razvoj djeteta, odnosno zdravlje i dobrobit ranjive osobe kaznit će se kaznom zatvora do tri godine.
+(3) Službena osoba na radu u ustanovi ili državnom tijelu ili odgovorna osoba u obavljanju javne ovlasti koja pravodobno ne ispunjava zakonske obveze ili očito ne postupa po pravilima struke u zaštiti djeteta i druge ranjive osobe zbog njihove dobi, teške tjelesne ili duševne smetnje ili trudnoće pa zbog toga bude ugroženo zdravlje ili razvoj djeteta, odnosno zdravlje i dobrobit ranjive osobe kaznit će se kaznom zatvora do tri godine.
+(4) Ako je kazneno djelo iz stavka 2. i 3. ovoga članka počinjeno iz nehaja, počinitelj će se kazniti kaznom zatvora do jedne godine.
+(5) Počinitelj koji omogući provođenje odluke iz stavka 1. ovoga članka prije započinjanja kaznenog postupka može se osloboditi kazne.«.
