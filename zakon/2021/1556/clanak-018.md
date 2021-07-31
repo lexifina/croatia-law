@@ -1,0 +1,3 @@
+# Članak 18.
+U članku 49. stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavaka 1. i 2. ovoga članka, hrvatskom branitelju iz Domovinskog rata koji je navršio životnu dob iz članka 26. ovoga Zakona, a ne ispunjava uvjete za starosnu mirovinu prema ovome Zakonu ni prema Zakonu o mirovinskom osiguranju te nije stekao uvjete za neku drugu mirovinu u sustavu obveznog mirovinskog osiguranja generacijske solidarnosti ili je korisnik obiteljske mirovine prema Zakonu o mirovinskom osiguranju odnosno općem propisu o mirovinskom osiguranju koji je prethodio tom propisu, pripada pravo na mirovinu u visini najniže mirovine određene prema stavcima 5. i 6. ovoga članka, uz uvjet iz stavka 4. ovoga članka i primjenu članka 98. Zakona o mirovinskom osiguranju.«.

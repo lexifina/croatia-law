@@ -1,0 +1,5 @@
+# Članak 30.
+Članak 96. mijenja se i glasi:
+»(1) Tijela državne uprave koja imaju na upravljanju stanove i kuće u vlasništvu Republike Hrvatske, a na koje stanove se ne odnose odredbe posebnog propisa o prodaji stanova na kojima postoji stanarsko pravo i koriste ih osobe iz članka 83. ovoga Zakona, kao i u slučaju iz članka 85. stavka 2. ovoga Zakona, s Ministarstvom će sklopiti sporazum na temelju kojeg će se Ministarstvu prenijeti pravo upravljanja tim stanovima i kućama.
+(2) Ministarstvo će s nadležnim tijelom državne uprave sklopiti sporazum na temelju kojeg će im prenijeti na upravljanje stanove i kuće u vlasništvu Republike Hrvatske koji su Ministarstvu dodijeljeni na upravljanje radi stambenog zbrinjavanja prema ovom Zakonu, kada se utvrdi da se stanovi i kuće dodijeljeni Ministarstvu na upravljanje ne mogu iskoristiti u svrhu zbog koje su dodijeljeni na upravljanje Ministarstvu.
+(3) Ministarstvo jednom godišnje obavještava Vladu Republike Hrvatske o sklopljenim sporazumima iz ovoga članka.«.

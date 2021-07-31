@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 6. iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Iznimno od stavka 1. točke d) ovoga članka, status člana obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata mogu ostvariti članovi uže i šire obitelji hrvatskog branitelja iz Domovinskog rata koji je umro od posljedica bolesti, pogoršanja bolesti ili pojave bolesti u obrani suvereniteta Republike Hrvatske i nakon isteka roka iz stavka 1. točke d) ovoga članka, uz uvjet da su pojedini članovi obitelji tog hrvatskog branitelja iz Domovinskog rata po toj istoj osnovi već ostvarili status člana obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata.«.

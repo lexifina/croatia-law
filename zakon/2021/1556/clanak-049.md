@@ -1,0 +1,22 @@
+# Članak 49.
+Članak 137. mijenja se i glasi:
+»(1) Ministarstvo snosi troškove prijevoza i ukopa posmrtnih ostataka smrtno stradalog hrvatskog branitelja iz Domovinskog rata, na području Republike Hrvatske, uz odavanje vojne počasti, kao i troškove prijevoza i ukopa posmrtnih ostataka nestalog hrvatskog branitelja iz Domovinskog rata nakon postupka ekshumacije i identifikacije.
+(2) Ministarstvo snosi troškove prijevoza i ukopa posmrtnih ostataka umrloga hrvatskog ratnog vojnog invalida iz Domovinskog rata i umrloga hrvatskog branitelja iz Domovinskog rata na području Republike Hrvatske, uz odavanje vojne počasti.
+(3) Ministarstvo snosi troškove prijevoza i ukopa iz stavaka 1. i 2. ovoga članka i izvan područja Republike Hrvatske.
+(4) Vojne počasti iz stavka 2. ovoga članka odaju se ako obitelj pravodobno obavijesti nadležno upravno tijelo županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na ostvarivanje prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji.
+(5) U slučaju iz stavka 4. ovoga članka, vojne počasti odaju se prilikom ispraćaja posmrtnih ostataka, na području Republike Hrvatske.
+(6) Hrvatski branitelji iz Domovinskog rata koji su smrtno stradali u obrani suvereniteta Republike Hrvatske smatraju se povijesno značajnim osobama u smislu propisa o grobljima.
+(7) Natpis na grobu odnosno grobnici za povijesno značajnu osobu iz stavka 6. ovoga članka ne može se mijenjati.
+(8) Obveznici održavanja grobnih mjesta povijesno značajnih osoba iz stavka 6. ovoga članka iza kojih nema živih nasljednika su vlasnici groblja u kojima se nalaze ta grobna mjesta.
+(9) Grobna mjesta s posmrtnim ostacima hrvatskih branitelja iz Domovinskog rata iza kojih nema živih nasljednika ne mogu se smatrati napuštenima, sukladno propisima o grobljima, a obveznici održavanja su vlasnici groblja u kojima se nalaze ta grobna mjesta.
+(10) Vlasnici groblja dužni su do kraja siječnja tekuće godine izvijestiti Ministarstvo o grobnim mjestima povijesno značajnih osoba iz stavka 6. ovoga članka i hrvatskih branitelja iz Domovinskog rata iz stavka 9. ovoga članka koja su preuzeli na održavanje u prethodnoj kalendarskoj godini.
+(11) Izvješće iz stavka 10. ovoga članka sadrži: ime i prezime, datum i godinu ukopa, mjesto ukopa, naziv groblja, oznaku grobnog mjesta, reda, polja za svaku povijesno značajnu osobu iz stavka 6. ovoga članka i hrvatskog branitelja iz Domovinskog rata iz stavka 9. ovoga članka i druge podatke određene pravilnikom iz stavka 18. ovoga članka.
+(12) Ministarstvo će jednom godišnje, neposrednim uvidom, provesti nadzor nad izvršavanjem obveze iz stavaka 8. i 9. ovoga članka.
+(13) Članovi uže i šire obitelji nestalog hrvatskog branitelja iz Domovinskog rata i članovi uže i šire obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata za kojeg nije poznato mjesto ukopa imaju pravo na dodjelu grobnog mjesta i prije ekshumacije i identifikacije nestalog odnosno smrtno stradalog hrvatskog branitelja iz Domovinskog rata za kojeg nije poznato mjesto ukopa, a temeljem pokrenutog postupka za dodjelu grobnog mjesta po posebnim propisima, kao korisnici tog grobnog mjesta uz obvezu njegova održavanja.
+(14) Jedinice lokalne samouprave i drugi vlasnici groblja dužni su:
+a) dati na korištenje grobna mjesta uz podmirenje polovice predviđenog iznosa o svom trošku za umrle hrvatske ratne vojne invalide iz Domovinskog rata i za umrle hrvatske branitelje iz Domovinskog rata ako oni ili članovi njihove uže i šire obitelji nemaju na korištenju grobno mjesto i ako ga nisu ustupili na korištenje trećoj osobi nakon stupanja na snagu ovoga Zakona i
+b) osigurati dijelove groblja odnosno aleje za ukop hrvatskih branitelja iz Domovinskog rata.
+(15) Pravo iz stavka 14. ovoga članka ne obuhvaća i oslobođenje od plaćanja godišnje grobne naknade, osim ako to oslobođenje nije predviđeno drugim propisom.
+(16) Umrli hrvatski ratni vojni invalidi iz Domovinskog rata i hrvatski branitelji iz Domovinskog rata koje nema tko ukopati bit će ukopani po službenoj dužnosti.
+(17) U slučaju iz stavka 16. ovoga članka, Ministarstvo će za ukop hrvatskog ratnog vojnog invalida iz Domovinskog rata i umrlog hrvatskog branitelja iz Domovinskog rata koji je imao prihod odnosno imovinu zatražiti povrat troškova od nasljednika.
+(18) Pravo iz ovoga članka ostvaruje se sukladno pravilniku koji donosi ministar.«.
