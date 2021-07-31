@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 3. Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu (»Narodne novine«, broj 116/18.), Vlada Republike Hrvatske je na sjednici održanoj 22. srpnja 2021. donijela
