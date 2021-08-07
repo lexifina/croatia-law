@@ -1,0 +1,2 @@
+# Članak 8.
+Pravne osobe, obrti i udruge koje imaju odobrenje Ministarstva za osnivanje civilnog strelišta dužne su na propisanom obrascu iz Priloga VII. ovog Pravilnika voditi upisnik o unosu i iznosu oružja i streljiva (Obrazac 1.) te unosu i iznosu komponenti streljiva na područje i sa područja civilnog strelišta (Obrazac 2.) i upisnik o oružju i streljivu koje se čuva na civilnom strelištu (Obrazac 3.).

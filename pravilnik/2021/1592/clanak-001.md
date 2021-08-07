@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj, izgled i način vođenja upisnika o oružju iz kategorija A, B i C i napravama, koje su dužne voditi pravne osobe, obrtnici i udruge čija je djelatnost vezana za proizvodnju i/ili promet oružja i/ili naprava ili ispitivanje i obilježavanje žigom vatrenog oružja ili popravljanje, prepravljanje i onesposobljavanje oružja ili sakupljanje starog oružja ili uporabu oružja ili uništavanje oružja ili prodaju na malo oružja i streljiva.

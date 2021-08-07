@@ -1,0 +1,2 @@
+# Članak 7.
+Pravne osobe, obrti i udruge koje imaju odobrenje Ministarstva za nabavu vatrenog oružja radi obavljanje djelatnosti za čije je obavljanje predviđena uporaba odnosno posjedovanje vatrenog oružja dužne su na propisanom obrascu iz Priloga VI. ovog Pravilnika voditi upisnik o nabavljenom (Obrazac 1.), oduzetom (Obrazac 2.), prodanom (Obrazac 3.), predanom (Obrazac 4.) ili posuđenom oružju (Obrazac 5.).
