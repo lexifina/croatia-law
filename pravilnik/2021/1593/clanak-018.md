@@ -1,0 +1,7 @@
+# Članak 18.
+(1) Na strelištima otvorenog tipa za puške s glatkim cijevima mogu se gađati fiksne, pokretne i leteće mete.
+(2) Udaljenost svakog streljačkog mjesta do ograde strelišta, u svim pravcima isječka kruga koji je opisan streljačkim mjestom kao ishodištem i područjem od 45 stupnjeva lijevo i desno u smjeru gađanja, mora biti za 5% veća u odnosu na maksimalni domet sačme streljiva s kojim se izvodi gađanje.
+(3) Udaljenost iz stavka 2. ovog članka može biti i manja, ako se za svako streljačko mjesto osigura zapreka unutar ograde strelišta, koja će spriječiti izlijetanja sačme izvan isječka kruga iz stavka 2. ovog članka ili ako se osigura zaštitni pojas izvan ograde strelišta čija je udaljenost od streljačkog mjesta do ruba pojasa za 5% veća od maksimalnog dometa sačme streljiva s kojim se obavlja gađanje, a pojas je isječak kruga koji je opisan streljačkim mjestom kao ishodištem i područjem od 45 stupnjeva lijevo i desno u smjeru gađanja.
+(4) Maksimalni domet sačme određen je tehničkim karakteristikama puške, odnosno streljiva.
+(5) Odgovorna osoba mora osigurati da se, prije početka gađanja i tijekom gađanja u prostoru strelišta nalaze samo osobe koje obavljaju gađanja, gledatelji te osobe ovlaštene za obavljanje potrebnih poslova na civilnom strelištu.
+(6) Osiguranje zaštitnog pojasa iz stavka 3. ovog članka mora osigurati odgovorna osoba na način da rasporedi punoljetne osobe oko zaštitnog pojasa, na mjesta s kojih će moći sa sigurnošću spriječiti pristup ljudima.

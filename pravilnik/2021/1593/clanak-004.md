@@ -1,0 +1,6 @@
+## II. UVJETI I MJERE SIGURNOSTI
+# Članak 4.
+(1) Na strelištima i na drugim mjestima određenim za vježbe gađanja dozvoljeno je gađanje samo uz prisutnost odgovorne osobe ili odgovorne osobe za vođenje drugog mjesta određenog za vježbe gađanja (u daljnjem tekstu: odgovorna osoba), koja mora biti zdravstveno sposobna i stručno osposobljena za rukovanje vatrenim oružjem.
+(2) Iznimno, ako određeno gađanje izvode članovi registriranih streljačkih ili streličarskih udruga ili pravnih osoba ili obrtnika, čija je djelatnost vezana za uporabu oružja, mjere sigurnosti umjesto odgovorne osobe može provoditi i osoba koja predstavlja udrugu ili pravnu osobu ili obrtnika na temelju pisanog ovlaštenja odgovorne osobe za provođenje mjera sigurnosti prilikom određenog gađanja.
+(3) Osoba iz stavka 2. ovog članka, koja provodi mjere sigurnosti umjesto odgovorne osobe, mora biti zdravstveno sposobna i stručno osposobljena za rukovanje vatrenim oružjem te je dužna odgovornoj osobi dati pisanu izjavu o preuzimanju odgovornosti za provođenje mjera sigurnosti prilikom gađanja.
+(4) Odgovorna osoba ili osoba iz stavka 2. ovog članka dužna je sastaviti zapisnik o izvođenju gađanja, koji mora sadržavati podatke o sudionicima gađanja te o oružju i streljivu kojim se gađanje izvodi, iz kojih će biti vidljivi podaci o svim osobama i oružju koje se nalazi na prostoru strelišta.

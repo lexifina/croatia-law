@@ -1,0 +1,5 @@
+# Članak 17.
+(1) Ako se tijekom gađanja mijenja pozicija strijelca ili mete ili i strijelca i mete istovremeno, za svaku poziciju strijelca moraju biti ispunjeni uvjeti propisani člankom 6. ili 13. i 14. ili 16. ovog Pravilnika.
+(2) Iznimno, u odnosu na stavak 1. ovog članka, uvjete iz članka 14. i 16. ovog Pravilnika nije potrebno ispuniti ako se prilikom gađanja u neposrednoj blizini strijelca, uz pisano odobrenje odgovorne osobe za vođenje civilnog strelišta, nalazi osoba koja u slučaju ugrožavanja ljudi, životinja i materijalnih dobara, unutar i izvan strelišta, može fizičkim kontaktom pravovremeno spriječiti daljnje gađanje.
+(3) Osoba iz stavka 2. ovog članka, koja se nalazi u neposrednoj blizini strijelca, mora biti zaposlenik civilnog strelišta ili član udruge koja obavlja gađanje uz uvjet da je zdravstveno sposobne i stručno osposobljena za rukovanje vatrenim oružjem te je dužna odgovornoj osobi dati pisanu izjavu o preuzimanju odgovornosti za provođenje mjera sigurnosti iz stavka 2. ovog članka.
+c) Strelišta otvorenog tipa za puške s glatkim cijevima svih kalibara
