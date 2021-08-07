@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Iznimno od članka 6. stavaka 1., 2. i 3. ove Uredbe, u svrhu održavanja i / ili obnove građevine i starodobnog vozila - oldtimer koja su zaštićena kulturna dobra, pravna i fizička osoba koja je vlasnik ili nositelj prava nad takvom građevinom i vlasnik takvog vozila, odnosno njihov opunomoćenik, može kupiti i koristiti proizvode iz članaka 4. i 5. ove Uredbe koji odstupaju od graničnih vrijednosti sadržaja HOS-eva propisanih u Prilogu 1. ove Uredbe.
+(2) Pravna i fizička osoba koja je vlasnik ili nositelj prava nad građevinom i / ili vlasnik vozila iz stavka 1. ovoga članka, odnosno njihov opunomoćenik, obavještava Ministarstvo o prodajnom mjestu te vrsti i količini proizvoda izraženoj u kg ili l iz članaka 4. ili 5. ove Uredbe koja je kupljena i iskorištena za potrebe održavanja i / ili obnovu građevina i starodobnog vozila koja su zaštićena kulturna dobra.
+(3) Obavijest iz stavka 2. ovoga članka dostavlja se Ministarstvu u roku od 30 dana od dana kupnje proizvoda iz članaka 4. i 5. ove Uredbe.
+(4) Proizvodi iz stavka 1. ovoga članka za koje je Ministarstvu dostavljena obavijest mogu se kupovati isključivo u trgovinama na veliko.
