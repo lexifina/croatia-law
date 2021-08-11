@@ -1,0 +1,4 @@
+RJEŠENJE
+I. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 117. stavaka 2. i 4. Zakona o izmjenama i dopunama Zakona o parničnom postupku (»Narodne novine« broj 70/19.), te članaka 385. stavaka 1. i 2., 385.a i 387. stavaka 3. i 5. Zakona o parničnom postupku (»Narodne novine« broj 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11., 25/13., 28/13., 89/14. i 70/19.).
+II. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 106.a stavaka 5. i 6., 126.b i 299.a stavka 3. Zakona o parničnom postupku (»Narodne novine« broj 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11., 25/13., 28/13., 89/14. i 70/19.).
+III. Ovo rješenje objavit će se u »Narodnim novinama«.
