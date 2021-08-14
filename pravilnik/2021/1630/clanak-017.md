@@ -1,0 +1,4 @@
+## STUPANJE NA SNAGU
+## Stupanje na snagu
+# Članak 17.
+Ovaj pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
