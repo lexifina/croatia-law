@@ -1,0 +1,5 @@
+I.
+U Odluci o nužnoj epidemiološkoj mjeri obveznog korištenja maski za lice ili medicinskih maski (»Narodne novine« broj 75/21 i 86/21) točka VI. mijenja se i glasi:
+»Nužna epidemiološka mjera iz ove Odluke određuju se u trajanju do 31. kolovoza 2021.«.
+II.
+Ova Odluka objavit će se u »Narodnim novinama«, a stupa na snagu 14. kolovoza 2021.
