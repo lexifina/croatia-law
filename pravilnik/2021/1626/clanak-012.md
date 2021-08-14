@@ -1,0 +1,10 @@
+# Članak 12.
+(1) Povjerenstvo za ocjenu projektnih prijava razmatra i ocjenjuje projektne prijave koje su prihvaćene tijekom administrativne provjere, sukladno kriterijima za ocjenjivanje koji su propisani u uputama za prijavitelje Javnog poziva.
+(2) Članovi Povjerenstva za ocjenu projektnih prijava svaku projektnu prijavu ocjenjuju pojedinačno.
+(3) Na temelju prosjeka ocjena/bodova koje su dodijelili članovi Povjerenstva za ocjenu projektnih prijava, izrađuje se Osnovna lista projekata koja sadrži sve projekte koji su prihvaćeni tijekom administrativne provjere iz članka 8. stavka 2. ovog Pravilnika, a bodovno su rangirani prema kriteriju najviše ostvarenog prosjeka ocjena/bodova članova Povjerenstva za ocjenu projektnih prijava.
+(4) Po izrađenoj Osnovnoj listi projekata, Povjerenstvo za ocjenu projektnih prijava izrađuje Zapisnik o provedenom postupku ocjenjivanja čiji su obvezni prilozi:
+a) Osnovna lista projekata - lista s jasno navedenim financijskim iznosom sredstava za svaki projekt zasebno, definiran proporcionalno kriteriju ostvarenih prosječnih ocjena /bodova
+b) Prijedlog liste projekata za financiranje - lista koju formira Povjerenstvo za ocjenu projektnih prijava sukladno osiguranim sredstvima državnog proračuna za provedbu Javnog poziva na poziciji Ministarstva koja proizlazi iz Osnovne liste projekata
+c) Rezervna lista projekata za financiranje - lista koju čine preostali projekti koji se nalaze na Osnovnoj listi projekata, koji su ostvarili veći broj bodova od propisanog minimuma, ali su slabije bodovno rangirani te nisu uključeni u Prijedlog liste projekata za financiranje
+d) Lista projekata koji nisu ostvarili propisani minimum bodova - lista projekata koji su prihvaćeni tijekom administrativne provjere, a ne nalaze se na Osnovnoj listi projekata jer nisu ostvarili propisani minimum bodova određen u uputama za prijavitelje Javnog poziva niti se nalaze na Rezervnoj listi.
+(5) Prijedlog liste projekata za financiranje i Rezervna lista projekata za financiranje objavljuju se na mrežnim stranicama Ministarstva.

@@ -1,0 +1,2 @@
+# Članak 2.
+Financijska sredstva iz Programa dodjeljuju se u skladu sa Zakonom o udrugama (»Narodne novine«, br. 74/14, 70/17 i 98/19), Zakonom o zakladama (»Narodne novine«, br. 106/18 i 98/19), Zakonom o financijskom poslovanju i računovodstvu neprofitnih organizacija (»Narodne novine«, broj 121/14) i Uredbom o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od interesa za opće dobro koje provode udruge (»Narodne novine«, br. 26/15 i 37/21 - u daljnjem tekstu: Uredba).
