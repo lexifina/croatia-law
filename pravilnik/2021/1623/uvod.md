@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09, 145/10, 26/11, 144/12, 14/14, 94/18 i 52/21) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), uz prethodnu suglasnost ministra vanjskih i europskih poslova, ministar gospodarstva i održivog razvoja donosi
