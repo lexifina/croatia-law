@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi mjera Nacionalnog pčelarskog programa za razdoblje od 2020. do 2022. godine (»Narodne novine«, br. 115/19, 41/20 i 53/20) članak 1. mijenja se i glasi:
+»Ovim se Pravilnikom propisuje detaljna provedba mjera Nacionalnog pčelarskog programa za razdoblje od 2020. do 2022. godine, donesenog Odlukom Vlade Republike Hrvatske, klasa: 022-03/19-04/354, urbroj: 50301-25/05-19-2, od 12. rujna 2019. i Izmjenama i dopunama Nacionalnog pčelarskog programa za razdoblje od 2020. do 2022. godine, donesenog Odlukom Vlade Republike Hrvatske, klasa: 022-03/21-04/266, urbroj: 50301-05/27-21-2 od 29. srpnja 2021. (u daljnjem tekstu: Program).«
