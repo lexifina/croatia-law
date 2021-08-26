@@ -1,0 +1,5 @@
+## Odustajanje škola od sudjelovanja u Školskoj shemi
+# Članak 11.
+(1) U slučaju odustajanja škole od provedbe Školske sheme kojoj je razdijeljen iznos prava na potporu Odlukom o odobrenju osnivača u skladu s člankom 7. stavkom 1. ovoga Pravilnika, Agencija za plaćanja će umanjiti iznos prava na potporu razmjerno preostalom razdoblju trajanja Školske sheme od dana zaprimanja obavijesti o odustajanju.
+(2) Osnivači školskih ustanova dužni su obavijestiti Agenciju za plaćanja o odustajanju ili djelomičnom odustajanju škole od provedbe Školske sheme, najkasnije na dan podnošenja zahtjeva za isplatu potpore za posljednje razdoblje u kojemu je škola raspodjeljivala voće i povrće te mlijeko i mliječne proizvode i sudjelovala u Školskoj shemi.
+(3) Agencija za plaćanja može razmjerno raspodijeliti svim školama koje sudjeluju u provedbi Školske sheme jednom, a najkasnije do 1. ožujka u razdoblju provedbe Školske sheme, iznos financijskih sredstava preostalih za distribuciji i/ili isporuku voća i povrća i/ili mlijeka i mliječnih proizvoda od škola koje su odustale od Školske sheme.
