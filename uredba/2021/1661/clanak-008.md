@@ -1,0 +1,8 @@
+# Članak 8.
+(1) Nositelji sljedećih valjanih posebnih putnih isprava i s njima izjednačenih putnih isprava za strance, a koje su izdale treće zemlje:
+- putnih isprava za izbjeglice koje izdaju države stranke Konvencije o pravnom položaju izbjeglica od 28. srpnja 1951. (»Narodne novine - Međunarodni ugovori«, broj 12/93.)
+- putnih isprava za osobe bez državljanstva koje izdaju države stranke Konvencije o pravnom položaju osoba bez državljanstva od 28. rujna 1954. (»Narodne novine - Međunarodni ugovori«, broj 12/93) ili
+- putnih isprava za strance
+trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana u bilo kojem razdoblju od 180 dana, odnosno za prelazak preko državnog područja Republike Hrvatske.
+(2) Iznimno od stavka 1. ovoga članka, priznate izbjeglice i osobe bez državljanstva, te druge osobe koje nemaju državljanstvo nijedne zemlje, a koje imaju boravište u Irskoj, i nositelji su valjane putne isprave koju je izdala Irska, ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana u bilo kojem razdoblju od 180 dana, odnosno za prelazak preko državnog područja Republike Hrvatske.
+(3) Iznimno od stavka 1. ovoga članka, priznate izbjeglice i osobe bez državljanstva, koji imaju boravište i nositelji su putnih isprava izdanih u Kneževini Andori, Japanu, Kanadi, Kneževini Monaku, Republici San Marinu, Sjedinjenim Američkim Državama, Svetoj Stolici i Ujedinjenoj Kraljevini Velike Britanije i Sjeverne Irske, ne trebaju vizu za ulazak u Republiku Hrvatsku i boravak do 90 dana u bilo kojem razdoblju od 180 dana, odnosno za prelazak preko državnog područja Republike Hrvatske.
