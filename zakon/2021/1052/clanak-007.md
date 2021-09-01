@@ -1,0 +1,6 @@
+# Članak 7.
+Naslov iznad članka 6. mijenja se i glasi: »Izuzeća od ugovaranja između dobavljača i kupca«.
+Članak 6. mijenja se i glasi:
+»(1) Iznimno od odredbe članka 5. stavka 1. ovoga Zakona, pisani ugovor nije potreban ako dobavljač prihvati ponudu koja sadržava javno objavljene i obvezujuće uvjete kupca koji kupuje na otkupni blok primarni poljoprivredni proizvod radi njegove daljnje prodaje ili prerade, a ponuda sadržava odredbe iz članka 5. stavka 1. točaka 1. do 5. ovoga Zakona odnosno ako dobavljač i kupac imaju sklopljen ugovor o zajedničkoj proizvodnji koji sadržava i odredbe iz članka 5. stavka 1. točaka 1. do 6. ovoga Zakona.
+(2) Iznimno od odredbe članka 5. stavka 1. ovoga Zakona, kada dobavljač isporučuje poljoprivredni ili prehrambeni proizvod kupcu koji je zadruga i/ili proizvođačka organizacija čiji je član dobavljač, pisani ugovor nije potreban ako statut zadruge odnosno osnivački akt proizvođačke organizacije sadržava odredbe koje su po sadržaju u skladu s člankom 5. stavkom 1. ovoga Zakona.
+(3) Kupac je dužan javno objavljene obvezujuće uvjete iz stavka 1. ovoga članka čuvati i arhivirati u slučaju svake izmjene radi osiguranja dostatnog revizorskog traga i uvida u uvjete po kojima je otkupljivao ili davao ponudu.«.
