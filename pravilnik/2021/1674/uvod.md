@@ -1,0 +1,1 @@
+Na temelju članka 97. stavaka 4. i 5., članka 98. stavka 11. i članka 99. stavka 10. Zakona o poljoprivredi (»Narodne novine«, broj 118/18, 42/20, 127/20 - Odluka Ustavnog suda Republike Hrvatske i 52/21), ministrica poljoprivrede donosi
