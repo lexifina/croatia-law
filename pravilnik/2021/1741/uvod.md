@@ -1,0 +1,1 @@
+Na temelju članka 12. stavaka 3. i 6., članka 14. stavka 7. Zakona o Hrvatskom kvalifikacijskom okviru (»Narodne novine«, broj 22/13, 41/16 - Odluka USRH, 64/18, 47/20 - Odluka USRH, 20/21) ministar znanosti i obrazovanja, uz suglasnost ministra rada, mirovinskoga sustava, obitelji i socijalne politike, donosi

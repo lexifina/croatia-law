@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Predlagatelj ima obvezu strateškim, sektorskim i analitičkim obrazloženjem dokazati utemeljenost zahtjeva za upis standarda zanimanja koji nije sadržan u popisu pojedinačnih zanimanja prema važećoj nacionalnoj klasifikaciji zanimanja.
+(2) Stratešku utemeljenost zahtjeva predlagatelj dokazuje pozivanjem na relevantne sektorske strategije i ostale strateški relevantne dokumente.
+(3) Sektorska utemeljenost zahtjeva obrazlaže se koristeći se profilom sektora koji priprema ministarstvo nadležno za rad u okviru mrežnog sučelja tržišta rada i drugim podacima dostupnim putem mrežnog sučelja tržišta rada, za svaki sektor kojem pripada zanimanje za koje se predlaže standard te, iznimno, drugim relevantnim dokumentima.
+(4) Analitička utemeljenost zahtjeva iskazuje se analizom trenutne i dosadašnje ponude i potražnje, koristeći podatke dostupne putem mrežnog sučelja tržišta rada.
+(5) Za dokaz utemeljenosti zahtjeva za upis standarda zanimanja koje je sadržano u popisu pojedinačnih zanimanja prema važećoj nacionalnoj klasifikaciji zanimanja, predlagatelj koristi profile sektora, dok je za zanimanja koja nisu na popisu pojedinačnih zanimanja potrebno dokazati utemeljenost zahtjeva sukladno metodologiji za izradu standarda zanimanja.

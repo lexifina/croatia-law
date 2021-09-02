@@ -1,0 +1,2 @@
+# Članak 49.
+Postupci upisa u Registar započeti do dana stupanja na snagu ovog Pravilnika nastavit će se sukladno ovom Pravilniku, pri čemu će se u obzir uzimati zahtjevi izrađeni prema obrascima i smjernicama, odnosno metodologiji, koji su bili na snazi prije stupanja na snagu ovog Pravilnika. Također, u obzir će biti uzete preporuke sektorskih vijeća dane do dana stupanja na snagu Zakona o izmjenama i dopuni Zakona o Hrvatskom kvalifikacijskom okviru (»Narodne novine«, broj 20/21).

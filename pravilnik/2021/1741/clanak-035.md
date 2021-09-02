@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Ako podnositelj zahtjeva predloži standard kvalifikacije ili skup ishoda učenja koji je već upisan u Registar, povjerenstvo za vrednovanje najprije će utvrditi radi li se u predmetnom slučaju o izmjeni postojećeg standarda kvalifikacije odnosno skupa ishoda učenja ili o istom standardu kvalifikacije odnosno skupu ishoda učenja.
+(2) Ako se u predmetnom slučaju radi o izmjeni postojećeg standarda kvalifikacije ili skupa ishoda učenja, povjerenstvo za vrednovanje provest će vrednovanje predloženog standarda kvalifikacije ili skupa ishoda učenja.
+(3) Ako se u predmetnom slučaju radi o istom standardu kvalifikacije odnosno skupu ishoda učenja, povjerenstvo za vrednovanje neće provesti vrednovanje, već će donijeti stručno mišljenje kojim će predložiti odbijanje upisa standarda kvalifikacije odnosno skupa ishoda učenja iz razloga što je već upisan u Registar, odnosno odgovarajući podregistar.
+(4) Na reviziju u Registar upisanih standarda kvalifikacija i/ili skupova ishoda učenja u odgovarajućem obliku primjenjuju se odredbe ovog Pravilnika o postupku upisa u Registar.

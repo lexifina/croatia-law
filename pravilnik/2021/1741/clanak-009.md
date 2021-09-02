@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Ministarstvo nadležno za rad pripremit će stručne podloge koje obuhvaćaju profile sektora, analizu ponude i potražnje, podatke o promjenama u kompetencijama po zanimanjima te podatke o reguliranim profesijama.
+(2) Za potrebe izrade stručnih podloga ministarstvo nadležno za rad prikuplja relevantne podatke iz službenih evidencija i službenih baza podataka Hrvatskog zavoda za zapošljavanje, Hrvatskog zavoda za mirovinsko osiguranje, Središnjeg registra osiguranika, Porezne uprave, ministarstva nadležnog za obrazovanje i znanost (uključujući podatke iz registra diploma uređenog odgovarajućim propisom) te drugih institucija za koje ministarstvo nadležno za rad utvrdi da raspolažu relevantnim podacima vezanim uz tržište rada.
+(3) Obuhvat i struktura podataka sadržani su u Prilogu III ovog Pravilnika.

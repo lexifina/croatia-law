@@ -1,0 +1,5 @@
+# Članak 30.
+(1) Ako se standard kvalifikacije odnosno skup ishoda učenja veže uz reguliranu profesiju u Republici Hrvatskoj, nadležna će agencija iz članka 27. stavka 1., nakon primitka potpunog zahtjeva, zatražiti mišljenje tijela državne uprave nadležnog za reguliranu profesiju.
+(2) Iznimno, kad je tijelo državne uprave nadležno za reguliranu profesiju predlagatelj standarda kvalifikacije odnosno skupa ishoda učenja potrebnog za obavljanje regulirane profesije, nije potrebno zatražiti mišljenje tijela državne uprave nadležnog za reguliranu profesiju.
+(3) Rokovi u postupku formalne provjere ne teku od dana kad nadležna agencija iz članka 27. stavka 1. zatraži mišljenje tijela državne uprave nadležnog za reguliranu profesiju iz stavka 1. ovog članka do dana zaprimanja mišljenja.
+(4) Ako se predlaže standard za kvalifikaciju koja se stječe isključivo obrazovanjem odraslih, nadležna agencija iz članka 27. stavka 1. zatražit će mišljenje drugih zainteresiranih pravnih osoba koje su potencijalni izvoditelji programa kojima bi se stjecala predmetna kvalifikacija.

@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Ministarstvo nadležno za obrazovanje i znanost, ministarstvo nadležno za rad, Agencija za znanost i visoko obrazovanje i Agencija za strukovno obrazovanje i obrazovanje odraslih dužni su voditi računa o osiguravanju i zaštiti pohranjivanja podataka u informacijskom sustavu Registra.
+(2) Za osiguranje nužnih kadrovskih, tehničkih i organizacijskih uvjeta za funkcioniranje informacijskog sustava Registra, kao i za unos podataka u isti zaduženo je ministarstvo nadležno za obrazovanje i znanost.
+(3) Za osiguranje nužnih kadrovskih, tehničkih i organizacijskih uvjeta za funkcioniranje Podregistra standarda zanimanja, kao i za unos podataka u isti, zaduženo je ministarstvo nadležno za rad.
+(4) Za osiguranje nužnih kadrovskih, tehničkih i organizacijskih uvjeta za funkcioniranje Podregistra standarda kvalifikacija i Podregistra skupova ishoda učenja, kao i za unos podataka u iste, zadužene su Agencija za znanost i visoko obrazovanje i Agencija za strukovno obrazovanje i obrazovanje odraslih, svaka u djelokrugu svoje nadležnosti.
