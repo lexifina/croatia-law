@@ -1,0 +1,3 @@
+# Članak 7.
+U članku 171. stavak 1. mijenja se i glasi:
+»(1) Nepravilnost u smislu ovoga Pravilnika je svaka povreda odredaba propisa kojima se uređuje područje izravne potpore poljoprivredi i IAKS mjera ruralnog razvoja, a koja proizlazi iz učinjene ili propuštene radnje od strane poljoprivrednika, što je uzrokovalo smanjenje ili gubitak prihoda ili neopravdane izdatke za državni proračun i/ili proračun Europske unije, odnosno Europskog fonda za jamstva u poljoprivredi, Europskog poljoprivrednog fonda za ruralni razvoj i sredstava potpore dodijeljenih za ruralni razvoj na temelju Uredbe Vijeća (EU) br. 2020/2094.«.
