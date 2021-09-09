@@ -1,0 +1,3 @@
+# Članak 3.
+Članak 4. stavak 1. mijenja se i glasi:
+»(1) Kreditna institucija dužna je za referentne datume iz članka 2. stavka 1. točaka (b), (c) i (d) i stavka 2. Provedbene uredbe Komisije (EU) 2021/451 dostavljati Hrvatskoj narodnoj banci izvještaje o financijskim informacijama iz članka 11. Provedbene uredbe Komisije (EU) 2021/451 i na nekonsolidiranoj osnovi prema rokovima iz članka 3. Provedbene uredbe Komisije (EU) 2021/451. Te izvještaje kreditna institucija dužna je dostavljati u skladu s pravilima iz članka 11. Provedbene uredbe Komisije (EU) 2021/451 tako da se ta pravila prilagode nekonsolidiranoj osnovi izvještavanja, a prema Uputi o tehničkim rješenjima za dostavu izvještaja.«

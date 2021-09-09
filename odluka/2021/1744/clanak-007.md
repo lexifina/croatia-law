@@ -1,0 +1,3 @@
+# Članak 7.
+Točka 10. Upute mijenja se i glasi:
+»10. Sadržaj izvještaja u obliku XML popunjava se prema prilozima iz Provedbene uredbe Komisije (EU) 2021/451, prilozima iz Provedbene uredbe Komisije (EU) 2016/2070, prilozima iz Provedbene uredbe Komisije (EU) 2018/1624, prilozima iz Provedbene uredbe Komisije (EU) 2021/453, prilozima iz Provedbene uredbe Komisije (EU) 2021/763, prilozima iz Smjernica Europskoga nadzornog tijela za bankarstvo (EBA/GL/2020/07) od 2. lipnja 2020. za izvješćivanje i objavljivanje informacija o izloženostima koje podliježu mjerama primijenjenima u okviru odgovora na krizu uzrokovanu bolešću COVID-19 i Upute za jedinstvenu primjenu Odluke o izvješćivanju o planovima financiranja.«

@@ -1,0 +1,3 @@
+# Članak 14.
+Točka 45. Upute mijenja se i glasi:
+»45. Ključ se navodi pri upisivanju oznake do najviše 1024 znaka koja je jedinstveni identifikator za svaki redak varijabilnog izvještaja prema tehničkoj definiciji. Ako se u polje upisuje identifikacijska oznaka za institucije i društva za osiguranje, prioritet pri navođenju ima unos LEI-ja, a ako on nije poznat, upotrebljavaju se nacionalne identifikacijske oznake pravnog subjekta. Pritom prioritet pri navođenju ima unos OIB-a, a ako on nije poznat, upotrebljavaju se ostale identifikacijske oznake (matični broj koji dodjeljuje DZS ili interni evidencijski broj koji je dodijelila izvještajna institucija).«

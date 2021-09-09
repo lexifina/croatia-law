@@ -1,0 +1,2 @@
+# Članak 12.
+U točki 28. Upute riječi »Provedbene uredbe Komisije (EU) br. 680/2014, Provedbene uredbe Komisije (EU) br. 2016/2070 i Provedbene uredbe Komisije (EU) 2018/1624« zamjenjuju se riječima »Provedbene uredbe Komisije (EU) 2021/451, Provedbene uredbe Komisije (EU) 2016/2070, Provedbene uredbe Komisije (EU) 2018/1624, Provedbene uredbe Komisije (EU) 2021/453, Provedbene uredbe Komisije (EU) 2021/763«.

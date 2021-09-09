@@ -1,0 +1,2 @@
+# Članak 6.
+U točki 3. Upute riječi »u prilogu XIV. Provedbene uredbe Komisije (EU) br. 680/2014 i prilogu III. Provedbene uredbe Komisije (EU) 2018/1624« zamjenjuju se riječima »u prilogu XIV. Provedbene uredbe Komisije (EU) 2021/451, prilogu III. Provedbene uredbe Komisije (EU) 2018/1624, prilogu III. Provedbene uredbe Komisije (EU) 2021/453 i prilogu III. Provedbene uredbe Komisije (EU) 2021/763.«.

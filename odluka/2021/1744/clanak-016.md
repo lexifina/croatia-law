@@ -1,0 +1,3 @@
+# Članak 16.
+Točka 47. Upute mijenja se i glasi:
+»47. Sadržaj kontrola izvještaja iz Provedbene uredbe Komisije (EU) 2021/451, Provedbene uredbe Komisije (EU) 2016/2070, Provedbene uredbe Komisije (EU) 2018/1624, Provedbene uredbe Komisije (EU) 2021/453, Provedbene uredbe Komisije (EU) 2021/763, izvještaja iz članka 4. stavka 1. Odluke o izvješćivanju o planovima financiranja i Smjernica Europskoga nadzornog tijela za bankarstvo (EBA/GL/2020/07) od 2. lipnja 2020. za izvješćivanje i objavljivanje informacija o izloženostima koje podliježu mjerama primijenjenima u okviru odgovora na krizu uzrokovanu bolešću COVID-19 u skladu je s validacijskim pravilima iz tehničke definicije.«
