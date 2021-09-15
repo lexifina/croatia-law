@@ -1,0 +1,9 @@
+# Članak 4.
+U članku 9. iza stavka 3. dodaju se stavci od 4. do 10. koji glase:
+»(4) Obrazac prijedloga za ovrhu na temelju vjerodostojne isprave koji je sastavni dio ovog Pravilnika (Prilog 1.) predstavlja grafički oblik elektroničkog obrasca prijedloga koji se popunjava u sustavu Elektroničke ovrhe te se prikazuje korisniku za daljnje popunjavanje u sadržaju prilagođenom prethodno unesenim podacima.
+(5) Prijedlog za ovrhu koji ne sadrži obvezne podatke propisane člankom 39. Ovršnog zakona ne može se podnijeti putem sustava Elektroničke ovrhe te se iznimno u tom slučaju prijedlog za ovrhu može podnijeti sudu u fizičkom (papirnatom) obliku.
+(6) Iznimno, prijedlog za ovrhu u slučaju iz stavka 5. ovoga članka i/ili prilog prijedlogu za ovrhu ovrhovoditelj može podnijeti u fizičkom (papirnatom) obliku dok se odlukom koju donosi ministar nadležan za poslove pravosuđa ne utvrdi da su ispunjeni tehnički uvjeti za podnošenje isključivo elektroničkim putem u strojno čitljivom obliku.
+(7) U slučaju da vanjski korisnik informacijskog sustava, zbog nedostupnosti sustava Elektroničke ovrhe, ne može u elektroničkom obliku predati prijedlog za ovrhu dva sata prije isteka roka, vanjski korisnik informacijskog sustava dužan je bez odgode prijaviti nedostupnost sustava administratoru sustava.
+(8) U slučaju iz stavka 7. ovoga članka trenutak za predaju prijedloga za ovrhu produžuje se za jedan dan od trenutka obavijesti o nastavku tijeka roka za predaju prijedloga za ovrhu.
+(9) Na mrežnim stranicama sustava Elektroničke ovrhe objavit će se upute o prijavi nedostupnosti sustava, obavijest o nedostupnosti sustava zbog tehničkih poteškoća te obavijest o nastavku tijeka roka za predaju prijedloga za ovrhu.
+(10) Odredbe stavaka 7., 8. i 9. ovoga članka neće se primjenjivati ako vanjski korisnik informacijskog sustava nije mogao predati prijedlog za ovrhu putem sustava Elektroničke ovrhe u roku zbog tehničkih poteškoća nastalih na njegovoj strani.«.
