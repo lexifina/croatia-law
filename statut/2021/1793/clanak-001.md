@@ -1,0 +1,5 @@
+## HRVATSKE KOMORE SOCIJALNIH RADNIKA
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Statutom određuje se naziv i sjedište Hrvatske komore socijalnih radnika (u daljnjem tekstu: Komora), mjesna nadležnost Komore, unutarnje ustrojstvo i tijela Komore, njihov sastav, ovlasti, način odlučivanja, uvjeti i način izbora i opoziva, trajanje mandata te odgovornosti članova, imovina i raspolaganje mogućom dobiti, način stjecanja imovine, ostvarivanja javnosti rada Komore, članstvo i članarina, prava, obveze članova, prestanak rada Komore te postupanje s imovinom u slučaju prestanka rada Komore te odredbe kojima se pobliže propisuju i druga pitanja važna za rad Komore, prava, obveze i odgovornosti članova Komore, poslovi i zadaci Komore, način upravljanja Komorom, oblici organiziranja i rada u Komori, suradnja s tijelima državne vlasti i tijelima državne uprave, suradnja s komorama i organizacijama u zemlji i inozemstvu, javnost rada i informiranje, način financiranja Komore, te druga pitanja značajna za Komoru.
+(2) Izrazi koji se koriste u ovome Statutu, a imaju rodno značenje, odnose se jednako na muški i ženski rod.

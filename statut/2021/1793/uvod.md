@@ -1,0 +1,1 @@
+Na temelju članka 36. Zakona o djelatnosti socijalnog rada (»Narodne novine«, br. 16/19), Skupština Hrvatske komore socijalnih radnika, uz prethodnu suglasnost ministra rada, mirovinskog sustava, obitelji i socijalne politike, na sjednici održanoj 23. kolovoza 2021. godine, donijela je
