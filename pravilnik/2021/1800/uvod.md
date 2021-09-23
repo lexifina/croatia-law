@@ -1,0 +1,1 @@
+Na temelju članka 154. stavka 4. Zakona o strancima (»Narodne novine« br. 133/20) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19), ministar unutarnjih poslova, uz prethodnu suglasnost ministra vanjskih i europskih poslova i ministra nadležnog za znanost i obrazovanje, donosi

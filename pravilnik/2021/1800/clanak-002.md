@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Pravilnikom u hrvatsko zakonodavstvo preuzima se Direktiva Vijeća 2003/109/EZ od 25. studenog 2003. o statusu državljana trećih država s dugotrajnim boravištem (SL L 16, 23. 1. 2004.), kako je posljednji put izmijenjena Direktivom 2011/51/EU Europskog parlamenta i Vijeća od 11. svibnja 2011. o izmjeni Direktive Vijeća 2003/109/EZ za proširenje njezinog područja djelovanja na korisnike međunarodne zaštite (Tekst značajan za EGP) (SL L 132, 19. 5. 2011.).
