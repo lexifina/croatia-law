@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Pojedini pojmovi u smislu ovog Pravilnika imaju sljedeća značenja:
+1) razgradnja je skup administrativnih i tehničkih radnji koje omogućuju uklanjanje nekih ili svih regulatornih kontrola iz postrojenja (osim za odlagalište ili za određena nuklearna postrojenja koja se koriste za odlaganje ostataka iz rudarstva i obradu radioaktivnog materijala, koji su »zatvoreni«, a ne »stavljeni izvan pogona« / »razgrađeni«). Razgradnja obično uključuje demontažu postrojenja (ili njegova dijela). Postrojenje se može razgraditi i bez demontaže pri čemu se postojeće strukture naknadno koriste za druge svrhe (nakon dekontaminacije).
+2) sustav upravljanja je skup međusobno povezanih ili interaktivnih elemenata (sustava) za utvrđivanje politika i ciljeva, koji omogućuje postizanje tih ciljeva na efikasan i efektivan način. Sastavni dijelovi sustava upravljanja uključuju organizacijsku strukturu, sredstva i organizacijske procese.
+(2) Ostali pojmovi koji se koriste u ovom Pravilniku imaju značenje kakvo je definirano u Zakonu.
