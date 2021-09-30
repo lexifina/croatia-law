@@ -1,4 +1,0 @@
-# Članak 4.
-Pravo na državnu stipendiju mogu ostvariti studenti:
-1. koji u akademskoj godini za koju se dodjeljuju stipendije prvi put upisuju prvu godinu studija, a ovisno o rezultatima ispita državne mature (u daljnjem tekstu: studenti prve godine);
-2. koji su do akademske godine za koju se dodjeljuju stipendije stekli najviše 120 ECTS bodova na studijskome programu, a nisu stekli kvalifikaciju razine visokog obrazovanja (u daljnjem tekstu: studenti ostalih godina). Iznimno od stavka 1. točke 2. ovoga članka broj stečenih ECTS bodova može biti veći ako visoko učilište dostavi potvrdu da se jednom godinom studija u punome nastavnom opterećenju stječe više od 60 ECTS bodova. Pri određivanju ostvarenih ECTS bodova uzimaju se samo oni ECTS bodovi koji su ostvareni polaganjem ispita iz predmeta propisanih nastavnim programom studija i koji se ubrajaju u ECTS bodove potrebne za završetak tog studija.
