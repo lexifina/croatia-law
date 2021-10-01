@@ -1,0 +1,1 @@
+Na temelju čl. 52. i čl. 56. Zakona o financiranju vodnog gospodarstva (»Narodne novine« broj 153/09, 90/11, 56/13, 154/14, 119/15, 12/16, 127/17 i 66/19), a sukladno čl. 23. i 24. Zakona o vodnim uslugama (»Narodne novine« broj 66/19) i čl. 22. Društvenog ugovora (Posl. broj OU-209/20) Skupština društva Vodovoda grada Vukovara d.o.o. dvostrukom većinom donosi
