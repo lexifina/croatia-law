@@ -1,0 +1,27 @@
+I.
+Ovom Odlukom se, radi zaštite pučanstva od zaraze i prijenosa te suzbijanja bolesti COVID-19 uzrokovane virusom SARS-CoV-2, naređuje zdravstvenim ustanovama, trgovačkim društvima koja obavljaju zdravstvenu djelatnost i privatnim zdravstvenim radnicima, da prilikom prijema pacijenata kod kojih se planira hospitalizacija, provođenje dijagnostičko-terapijskih zahvata koji generiraju aerosol u specijalističko-konzilijarnoj ili bolničkoj zdravstvenoj zaštiti, zatraže predočenje EU digitalne COVID potvrde ili odgovarajućeg drugog dokaza o cijepljenju, preboljenju odnosno testiranju.
+EU digitalnu COVID potvrdu ili odgovarajući drugi dokaz o cijepljenju, preboljenju odnosno testiranju obvezni su predočiti i drugi pacijenti kojima je potrebna medicinsku skrb, ako se procijeni da postoji visoki rizik od širenja infekcije virusom SARS-CoV-2.
+EU digitalnu COVID potvrdu ili odgovarajući drugi dokaz o cijepljenju, preboljenju odnosno testiranju obvezne su predočiti i osobe u pratnji pri porodu, roditelji/skrbnici koji borave u smještaju s djecom te osobe koje dolaze u pratnji pacijenata i u posjete hospitaliziranim pacijentima.
+II.
+Iznimno od točke I. ove Odluke, EU digitalnu COVID potvrdu ili odgovarajući drugi dokaz o cijepljenju, preboljenju odnosno testiranju nisu obvezni predočiti pacijenti kada dolaze u zdravstvenu ustanovu radi pružanja hitne medicinske pomoći, radi pružanja zdravstvene skrbi zbog sumnje na COVID-19 ili zbog potvrđene bolesti COVID-19, kao i prilikom pružanja zdravstvenih usluga na primarnoj razini zdravstvene zaštite.
+Iznimno od točke I. ove Odluke, pacijenti koji ne posjeduju EU digitalnu COVID potvrdu ili odgovarajući drugi dokaz o cijepljenju, preboljenju odnosno testiranju, a dolaze zbog planirane hospitalizacije ili zbog planiranog dijagnostičko-terapijskih zahvata koji generira aerosol u specijalističko-konzilijarnoj ili bolničkoj zdravstvenoj zaštiti ili im se na temelju trijaže procijeni visoki rizik izloženosti infekciji, kod kojih bi odgađanje prijema narušilo zdravstveno stanje, zaprimaju se, izoliraju, testiraju te im se u slučaju pozitivnog nalaza pruža odgovarajuća zdravstvena skrb u izolaciji.
+III.
+Pacijenti, pratnja pri porodu, roditelji/skrbnici koji borave u smještaju s djecom te osobe koje dolaze u pratnji pacijenata i u posjete hospitaliziranim pacijentima iz točke I. ove Odluke obvezni su EU digitalnu COVID potvrdu ili odgovarajući dokaz o cijepljenju, preboljenju odnosno testiranju predočiti na uvid ovlaštenoj osobi pružatelja zdravstvene zaštite koji obavlja zdravstvenu djelatnost iz točke I. ove Odluke.
+EU digitalnu COVID potvrdu ili odgovarajući dokaz o cijepljenju, preboljenju odnosno testiranju nisu obvezne predočiti nužne osobe u pratnji maloljetnih pacijenata, kao i nužne osobe u pratnji odraslih osoba koje se zbog narušenog zdravstvenog stanja ne mogu same bez pratnje sigurno kretati u zdravstvenoj ustanovi.
+EU digitalnu COVID potvrdu ili odgovarajući dokaz o cijepljenju, preboljenju odnosno testiranju nisu obvezna predočiti djeca u dobi do 12 godina koja su u pratnji pacijenata jer nemaju s kime ostati kod kuće, kao i djeca u dobi do 12 godina u posjeti hospitaliziranim roditeljima/skrbnicima, braći i sestrama.
+IV.
+Činjenicu da su testirane na virus SARS-CoV-2, odnosno da su cijepljene ili preboljele bolesti COVID-19 mogu dokazivati predočenjem odgovarajućeg drugog dokaza slijedeće kategorije osoba:
+- osobe koje su preboljele bolest COVID-19 i dijagnoza im je postavljena na temelju brzog antigenskog testa unazad 9 mjeseci
+- osobe koje su imale dijagnosticirane COVID bolesnike u obitelji i imale su s tim oboljelima kontakte, proglašavane su takozvanim vjerojatnim slučajem te im bolest nije dijagnosticirana laboratorijskim testom
+- osobe kojima je bolest COVID-19 dijagnosticirana PCR testom prije više od 6 mjeseci, a manje od 9 mjeseci
+- osobe koje su preboljele bolest COVID-19, bolest im je dijagnosticirana PCR-om, BAT-om ili su bili vjerojatni slučaj, a cijepljene su jednom dozom cjepiva unutar 8 mjeseci od preboljenja te nije prošlo više od 9 mjeseci od primitka prve doze.
+Osobe iz stavka 1. podstavka 1. ove Odluke preboljenje mogu dokazati potvrdom liječnika primarne zdravstvene zaštite koju isti izdaje na temelju nalaza brzog antigenskog testa.
+Osobe iz stavka 1. podstavka 2. ove Odluke preboljenje mogu dokazati potvrdom liječnika primarne zdravstvene zaštite o preboljenju unutar 9 mjeseci, a na temelju medicinske dokumentacije.
+Osobe iz stavka 1. podstavka 3. ove Odluke preboljenje mogu dokazati potvrdom o preboljenju izdanom od liječnika primarne zdravstvene zaštite ili nalazom PCR testa ne starijim od 9 mjeseci.
+Osobe iz stavka 1. podstavka 4. ove Odluke preboljenje i cijepljenje mogu dokazati potvrdom liječnika primarne zdravstvene zaštite o preboljenju ili nalazom pozitivnog PCR testa i potvrdom o cijepljenju jednom dozom cjepiva protiv bolesti COVID-19 pri čemu je datum cijepljenja unutar 8 mjeseci od preboljenja, a nije prošlo više od 9 mjeseci od cijepljenja.
+V.
+Tijekom boravka u prostoru u kojem se obavlja zdravstvena djelatnost obvezno je pridržavati se svih propisanih protuepidemijskih mjera, posebnih preporuka i uputa Hrvatskog zavoda za javno zdravstvo te sigurnosne mjere uvedene ovom Odlukom.
+VI.
+Pružatelji zdravstvene zaštite iz točke I. stavka 1. ove Odluke obvezni su osigurati provedbu ove Odluke.
+VII.
+Ova Odluka objavit će se u »Narodnim novinama«, a stupa na snagu 4. listopada 2021.

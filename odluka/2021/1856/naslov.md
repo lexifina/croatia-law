@@ -1,0 +1,1 @@
+Odluka o uvođenju posebne sigurnosne mjere koju su zdravstvene ustanove, trgovačka društva koja obavljaju zdravstvenu djelatnost i privatni zdravstveni djelatnici obvezni provoditi prilikom prijema pacijenata
