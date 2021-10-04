@@ -1,0 +1,1 @@
+Odluka o uvođenju posebne sigurnosne mjere obveznog testiranja svih zaposlenika zdravstvenih ustanova, trgovačkih društava koje obavljaju zdravstvenu djelatnost te privatnih zdravstvenih radnika na virus SARS-CoV-2
