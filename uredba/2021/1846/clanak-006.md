@@ -1,0 +1,2 @@
+# Članak 6.
+Okvirni broj državnih službenika i namještenika u Državnom inspektoratu prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državnog inspektorata (»Narodne novine«, br. 97/20. i 119/20.) zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Državnom inspektoratu koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Državnog inspektorata.
