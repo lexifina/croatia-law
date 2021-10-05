@@ -1,0 +1,8 @@
+# Članak 74.
+Naslov iznad članka 226. i članak 226. mijenjaju se i glase:
+»12.1.1.2. Područni odjel za upravljanje flotom Šibenik
+Članak 226.
+Područni odjel za upravljanje flotom Šibenik, sa sjedištem u Šibeniku, predlaže nacrte prijedloga propisa i prati provedbu zakona, propisa i drugih akata iz svoga djelokruga; sudjeluje u donošenju zakonskih propisa u okviru područja upravljanja flotom, komunicira i razmjenjuje podatke s EK; sudjeluje u provođenju i izradi programa prikupljanja podataka iz svoga djelokruga; donosi i provodi mjere ulaska i izlaska iz ribarske flote (entry - exit shema) te obavlja i ostale poslove vezane uz upravljanje flotom i Registar ribolovne flote RH; predlaže mjere za racionalno, odgovorno i održivo gospodarenje ribolovnim područjem iz svog djelokruga; provodi mjere upravljanja kapacitetom ribolovne flote, vodi registar o kapacitetu ribolovne flote, priprema stručne podloge za donošenje zakona i drugih propisa iz područja morskog ribarstva; predlaže mjere za prilagodbu hrvatskog zakonodavstva u skladu s načelima Zajedničke ribarstvene politike iz svoga djelokruga; predlaže donošenje mjera i propisa za provedbu obvezujućih odredbi preuzetih članstvom u međunarodnim organizacijama; ostvaruje suradnju s Državnim zavodom za statistiku i s drugim stručnim i znanstvenim javnopravnim tijelima iz svoga djelokruga, te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova iz djelokruga Područnog odjela za upravljanje flotom Šibenik, izvan njegovog sjedišta, određuju se samostalni izvršitelji:
+Samostalni izvršitelji u Splitu
+Samostalni izvršitelj u Zadru.«.

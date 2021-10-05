@@ -1,0 +1,7 @@
+# Članak 71.
+Članak 223. mijenja se i glasi:
+»Sektor za upravljanje resursima, flotom i ribolovom obavlja upravne i stručne poslove iz područja upravljanja resursima mora i slatkih voda, upravljanja flotom, provodi upravni nadzor nad izvršavanjem zakonskih propisa i drugih općih akata iz područja ribarstva koji su u djelokrugu Sektora; provodi Zajedničku ribarstvenu politiku EU; priprema stručne podloge i predlaže potrebne državne mjere u okviru svoga djelokruga; usmjerava i daje inicijativu za rješavanje pojedinih pitanja i predlaže mjere unaprjeđenja ribarstva; sudjeluje, koordinira i objedinjava razvojne programe u ribarstvu; sudjeluje u provođenju Programa za ribarstvo i akvakulturu i državnih potpora u okviru svoga djelokruga; vodi propisane registre, upisnike i sl. koji se odnose na ribarstvo; obavlja i koordinira poslove međunarodne suradnje na razini Sektora; sudjeluje u radu međunarodnih organizacija vezanih uz ribarstvo te izrađuje potrebne materijale i podloge; surađuje sa stručnim i znanstvenim ustanovama iz područja ribarstva; sudjeluje u radu tijela EK i regionalnih tijela (GFCM, ICCAT), te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Sektora za upravljanje resursima, flotom i ribolovom, ustrojava se:
+12.1.1. Služba za upravljanje resursima i flotom
+Za obavljanje poslova iz djelokruga Sektora za upravljanje resursima, flotom i ribolovom, izvan sjedišta Ministarstva, ustrojava se:
+12.1.2. Područna služba za ribolov Šibenik.«.
