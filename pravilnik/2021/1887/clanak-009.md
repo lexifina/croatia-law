@@ -1,0 +1,9 @@
+# Članak 9.
+(1) Hrvatska vatrogasna zajednica ostvaruje pravo na korištenje sredstava OKFŠ-a za namjenu iz članka 3. stavka 2. točke 3. ovoga Pravilnika sklapanjem sporazuma o financiranju vatrogasne djelatnosti.
+(2) U okviru vatrogasne djelatnosti sredstvima OKFŠ-a financiraju se aktivnosti opremanja i aktivnosti osposobljavanja vatrogasnih organizacija.
+(3) Hrvatska vatrogasna zajednica, u svrhu ostvarenja prava iz stavka 1. ovoga članka, je dužna do 31. ožujka tekuće godine pri Ministarstvu pokrenuti postupak sklapanja sporazuma iz stavka 1. ovoga članka, čiji sastavni dio čini program opremanja i osposobljavanja vatrogasnih organizacija.
+(4) Program opremanja i osposobljavanja vatrogasnih organizacija iz stavka 3. ovoga članka izrađuje i donosi Hrvatska vatrogasna zajednica, u skladu s propisom koji uređuje područje vatrogastva.
+(5) Ministarstvo je dužno Hrvatskoj vatrogasnoj zajednici na njezin zahtjev doznačiti prikupljena sredstva OKFŠ-a, putem naloga za preknjiženje, i to u roku od 30 dana od zaprimljenog zahtjeva.
+(6) U svrhu kontrole i dokazivanja namjenskog utroška dodijeljenih sredstava OKFŠ-a Hrvatska vatrogasna zajednica je dužna Ministarstvu dostaviti godišnje izvješće o provedbi sporazuma iz stavka 1. ovoga članka i programa opremanja i osposobljavanja vatrogasnih organizacija.
+(7) Godišnje izvješće iz stavka 6. ovoga članka dostavlja se do 31. ožujka tekuće godine za prethodnu godinu te mora sadržavati preslike ugovora o nabavi robe, preslike svih dokaza o izvršenim plaćanjima, kao i potvrde o osposobljenosti pripadnika vatrogasnih organizacija.
+(8) Ako Ministarstvo utvrdi da Hrvatska vatrogasna zajednica nije dostavila godišnje izvješće iz stavka 6. ovoga članka ili da je postupalo suprotno odredbama sporazuma iz stavka 1. ovoga članka ili da je dodijeljena sredstva na bilo koji način utrošilo nenamjenski zatražit će povrat dijela ili cjelokupnih sredstava.
