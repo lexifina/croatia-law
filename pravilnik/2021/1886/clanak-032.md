@@ -1,0 +1,3 @@
+# Članak 32.
+(1) Osoba koja je podnijela prijavu za polaganje stručnog ispita u knjižničarskoj struci prije stupanja na snagu ovoga Pravilnika, polaže stručni ispit sukladno odredbama Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci (»Narodne novine«, broj 28/11, 16/14, 60/14 - Ispravak, 47/17).
+(2) Zahtjev za stjecanje višega stručnog zvanja u knjižničarskoj struci koji je podnesen prije stupanja na snagu ovoga Pravilnika, rješava se sukladno odredbama Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci (»Narodne novine«, broj 28/11, 16/14, 60/14 - Ispravak, 47/17).

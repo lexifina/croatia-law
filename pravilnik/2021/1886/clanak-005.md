@@ -1,0 +1,10 @@
+# Članak 5.
+Načini stjecanja temeljnih stručnih zvanja iz članka 3. stavka 1. ovoga Pravilnika su:
+1. za zvanje knjižničarski tehničar:
+- položen stručni ispit najkasnije u roku od godine dana nakon obavljenog jednogodišnjeg radnog ili pripravničkog staža na poslovima knjižničarskog tehničara u koji staž se ubraja i razdoblje stručnog osposobljavanja za rad sukladno odredbama zakona kojim se uređuju radni odnosi.
+2. za zvanje knjižničarski suradnik:
+- položen stručni ispit za knjižničarskog suradnika najkasnije u roku od godinu dana nakon obavljenog jednogodišnjeg radnog odnosno pripravničkog staža na poslovima knjižničarskog suradnika u koji staž se ubraja i razdoblje stručnog osposobljavanja za rad sukladno odredbama zakona kojim se uređuju radni odnosi
+- iznimno, ako kandidat nema traženi uvjet iz članka 4. točke 2. podtočke 1. ovoga Pravilnika već je završio drugi preddiplomski sveučilišni ili stručni studij ili s njim izjednačen studij, obvezan je steći 30 ECTS bodova iz temeljnih sadržaja knjižničarstva na akreditiranom preddiplomskom sveučilišnom studijskom programu iz informacijskih i komunikacijskih znanosti (PKK 30) u roku od dvije godine od dana zapošljavanja na radno mjesto knjižničarskog suradnika, nakon čega je obvezan položiti stručni ispit u roku od godinu dana.
+3. za zvanje knjižničara:
+- položen stručni ispit za knjižničara najkasnije u roku od godinu dana nakon obavljenog jednogodišnjeg radnog ili pripravničkog staža na poslovima knjižničara u koji staž se ubraja i razdoblje stručnog osposobljavanja za rad sukladno odredbama zakona kojim se uređuju radni odnosi
+- iznimno ako kandidat nema traženi uvjet iz članka 4. točke 3. podtočke 1. ovoga Pravilnika već je završio drugi diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili s njim izjednačen studij, obvezan je steći 60 ECTS bodova iz temeljnih sadržaja knjižničarstva na akreditiranom jednogodišnjem (PKK 60) diplomskom studiju iz informacijskih i komunikacijskih znanosti u roku od 3 godine od dana zapošljavanja na radno mjesto knjižničara, nakon čega je obvezan položiti stručni ispit najkasnije u roku od godinu dana.

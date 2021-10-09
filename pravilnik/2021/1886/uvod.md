@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 4. Zakona o knjižnicama i knjižničnoj djelatnosti (»Narodne novine«, broj 17/19 i 98/19), uz prethodnu suglasnost ministra nadležnog za znanost i obrazovanje, ministrica kulture i medija donosi

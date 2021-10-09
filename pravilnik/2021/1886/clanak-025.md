@@ -1,0 +1,5 @@
+# Članak 25.
+(1) Dopunski stručni ispit može polagati osoba koja je već položila stručni ispit u knjižničarskoj struci za knjižničarskog tehničara, odnosno knjižničarskog suradnika i koja, nakon stjecanja propisanog obrazovanja želi steći stručno zvanje knjižničarskog suradnika, odnosno knjižničara.
+(2) Osoba koja je sukladno propisima kojima je uređeno polaganje stručnog ispita učitelja i stručnih suradnika u osnovnom školstvu i nastavnika u srednjem školstvu, položila stručni ispit predviđen za knjižničara - stručnog suradnika, polaže razlikovni ispit koji u općem dijelu ispita obuhvaća osnove zakonodavstva u kulturi i znanosti, a posebni dio ispita polaže u cijelosti.
+(3) Prijavi za polaganje dopunskoga stručnog ispita, uz ostale priloge iz članka 10. stavka 4. ovoga Pravilnika, pristupnik je dužan priložiti i dokaz o već položenom stručnom ispitu.
+(4) Odredbe ovoga Pravilnika koje se odnose na stručni ispit, odgovarajuće se primjenjuju i na dopunski odnosno razlikovni stručni ispit.
