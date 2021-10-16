@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 5. Zakona o volonterstvu (»Narodne novine«, br. 58/07, 22/13 i 84/21) ministar rada, mirovinskoga sustava, obitelji i socijalne politike, na prijedlog Nacionalnog odbora za razvoj volonterstva, donosi
