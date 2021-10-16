@@ -1,2 +1,0 @@
-# Članak 5.
-Obrazac Izvješća sadrži opće podatke o organizatoru volontiranja, podatke o organiziranom volontiranju tijekom izvještajnog razdoblja i podatke o vrsti aktivnosti/usluga u koju su volonteri bili uključeni tijekom izvještajnog razdoblja. Podaci o organiziranom volontiranju tijekom izvještajnog razdoblja sadrže i potkategorije s obzirom na spol, dob, državljanstvo i zemljopisno područje volontiranja.
