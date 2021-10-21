@@ -1,0 +1,5 @@
+## Prijem i smještaj kućnih ljubimaca
+# Članak 7.
+(1) Kod prijema pasa na čuvanje vlasnik mora predočiti putovnicu ili veterinarski certifikat za kućne ljubimce s pravilno popunjenim podacima o važećim imuno profilaktičkim mjerama protiv zaraznih bolesti i tretiranjima protiv nametničkih bolesti.
+(2) Iznimno od stavka 1. ovoga članka, ukoliko se radi o drugim vrstama kućnih ljubimaca za koje posjedovanje putovnice za kućne ljubimce nije propisano, vlasnik mora predočiti ovjereni dokument doktora veterinarske medicine s važećom licencijom da je životinja zdrava te da ne pokazuje znakove bolesti.
+(3) Kod prijema kućnih ljubimaca, osoba koja je primila kućnog ljubimca mora ispuniti evidencijski list za svakog kućnog ljubimca sukladno standardnom operativnom postupku objekta, a vlasnik životinje mora dati podatke koji se evidencijskim listom traže, te zatim i potpisati ispunjeni evidencijski list čime potvrđuje da je upoznat i suglasan s uvjetima poslovanja objekta i smještajem kućnog ljubimca u isti.
