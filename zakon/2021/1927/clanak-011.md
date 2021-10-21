@@ -1,0 +1,3 @@
+# Članak 11.
+U članku 110. stavak 5. mijenja se i glasi:
+»(5) Društvo za upravljanje dužno je pravilima UCITS fonda predvidjeti odgovarajuće postupke naknade štete koji moraju posebno obuhvatiti izradu i provjeru plana naknade štete, kao i mjere naknade štete, u slučaju pogrešnog izračuna vrijednosti udjela i u slučaju povrede ograničenja ulaganja u smislu članka 259. stavka 4. ovoga Zakona, zatim u slučaju štete koja je nanesena imovini UCITS fonda kao posljedica propusta društva za upravljanje u smislu stavaka 1. i 2. ovoga članka, kao i u slučaju štete koja nastane imateljima udjela zbog izdavanja ili otkupa udjela te zbog propusta otkupa udjela UCITS fonda na način predviđen člankom 184. ovoga Zakona.«.

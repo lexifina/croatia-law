@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 99. stavak 2. mijenja se i glasi:
+»(2) Ugovorom o ulaganju društvo za upravljanje obvezuje se izdati ulagatelju udjel, izvršiti odnosno omogućiti njegov upis u registar udjela, otkupiti udjel od ulagatelja kada ulagatelj to zatraži te dalje ulagati ta sredstva i upravljati UCITS fondom za zajednički račun ulagatelja i poduzimati sve ostale pravne poslove i radnje potrebne za upravljanje UCITS fondom u skladu s odredbama ovoga Zakona, prospekta i pravila UCITS fonda. Kod ETF-a, društvo za upravljanje u obvezi je otkupiti udjel izravno od ulagatelja samo u slučajevima koji su predviđeni prospektom ili pravilima ETF-a na način kako je uređeno prospektom ili pravilima ETF-a.«.

@@ -1,0 +1,5 @@
+# Članak 51.
+Naslov iznad članka 365. mijenja se i glasi: »Otklanjanje utvrđenih nezakonitosti i/ili nepravilnosti«.
+U članku 365. stavak 1. mijenja se i glasi:
+»(1) Kad Agencija tijekom nadzora utvrdi nezakonitosti i/ili nepravilnosti koje predstavljaju povredu odredbi ovoga Zakona ili na temelju njega donesenih propisa, drugih zakona kojima se uređuje poslovanje subjekata nadzora i propisa na temelju njih, uredbi Europske unije kojima se uređuje poslovanje subjekata nadzora, smjernica europskih nadzornih tijela iz članka 3. ovoga Zakona ili povredu vlastitih poslovnih politika i usvojenih pravila te standarda i pravila struke ili njihovu nedosljednu primjenu, rješenjem će društvu za upravljanje naložiti mjere za otklanjanje utvrđenih nezakonitosti i/ili nepravilnosti ili prestanak postupanja i zabranu svakog daljnjeg postupanja koje predstavlja povredu navedenih propisa.«.
+U stavku 2. riječi: »nezakonitosti i nepravilnosti« zamjenjuju se riječima: »nezakonitosti i/ili nepravilnosti«.
