@@ -1,0 +1,9 @@
+# Članak 17.
+U članku 42. stavku 1. točki 9. riječi: »ako Agencija ne propiše drugačije« zamjenjuju se riječima: »društva koje će zajedno s AIF-om s privatnom ponudom biti suulagatelj u imovinu u koju AIF ulaže, pod uvjetom da se ne radi o drugom reguliranom subjektu iz članka 43. ovoga Zakona«.
+Stavak 4. mijenja se i glasi:
+»(4) Jedan član uprave UAIF-a mora voditi poslovanje UAIF-a u punom radnom vremenu i biti u radnom odnosu s UAIF-om.«.
+Iza stavka 7. dodaje se novi stavak 8. i stavak 9. koji glase:
+»(8) Iznimno od stavka 2. ovoga članka, pod iskustvom iz stavka 1. točke 1. ovoga članka za člana uprave malog UAIF-a podrazumijeva se najmanje tri godine rada u subjektu financijskog sektora, tijelu nadležnom za nadzor financijskih institucija ili u tijelu državne uprave na usporedivim poslovima odnosno iskustvo rada na financijskim poslovima u drugim institucijama ili pravnim osobama koje su prema zakonu kojim se uređuje računovodstvo poduzetnika razvrstane u velike poduzetnike ili srednje poduzetnike ako su djelatnosti takvog srednjeg poduzetnika usko povezane s vrstom ulaganja AIF-a odnosno drugo odgovarajuće iskustvo u skladu s pravilnikom iz stavka 10. ovoga članka.
+(9) Iznimno od stavka 4. ovoga članka, član uprave malog i srednjeg UAIF-a ne mora biti u radnom odnosu s UAIF-om niti voditi poslovanje UAIF-a u punom radnom vremenu ako može dokazati da posvećuje dovoljno vremena obavljanju funkcije člana uprave malog UAIF-a.«.
+Dosadašnji stavak 8., koji postaje stavak 10., mijenja se i glasi:
+»(10) Agencija pravilnikom detaljnije propisuje kriterije za procjenu uvjeta iz stavaka 1. i 2. ovoga članka za članstvo u upravi UAIF-a, uključujući i specifične uvjete vezane za vrstu UAIF-a i AIF-a kojim UAIF upravlja ili namjerava upravljati, pojam dovoljnog vremena koje član uprave posvećuje obavljanju funkcije te dokumentaciju koja se prilaže zahtjevu za izdavanje odobrenja za obavljanje funkcije člana uprave.«.

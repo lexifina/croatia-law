@@ -1,0 +1,7 @@
+# Članak 3.
+Članak 6. mijenja se i glasi:
+»(1) Udjeli AIF-ova mogu se u Republici Hrvatskoj distribuirati isključivo profesionalnim i/ili kvalificiranim ulagateljima.
+(2) Iznimno od stavka 1. ovoga članka, udjeli AIF-ova iz članka 151. ovoga Zakona mogu se u Republici Hrvatskoj distribuirati i malim ulagateljima.
+(3) Iznimno od stavka 1. ovoga članka i uvjeta iznosa minimalne uplate i minimalne vrijednosti netoimovine iz članka 4. točke 11. ovoga Zakona, u AIF s privatnom ponudom može uložiti i član uprave i zaposlenik UAIF-a koji upravlja tim AIF-om, ako je zaposlenik izravno uključen u investicijske aktivnosti tog AIF-a s privatnom ponudom ili ako se radi o zaposleniku na višoj funkciji u UAIF-u s iskustvom u pružanju usluga upravljanja imovinom. U tom slučaju zaposlenik mora pisanom izjavom potvrditi da koristi ovaj izuzetak te da je svjestan da se inače taj AIF s privatnom ponudom nudi isključivo profesionalnim i kvalificiranim ulagateljima. O namjeri korištenja izuzeća iz ovoga stavka UAIF mora obavijestiti Agenciju.
+(4) UAIF u Republici Hrvatskoj može osnovati sve vrste AIF-ova s privatnom ponudom koji imaju strategiju ulaganja iz Dodatka IV. Delegirane uredbe 231/2013, uključujući i AIF-ove za davanje zajmova.
+(5) Agencija pravilnikom detaljnije propisuje obilježja AIF-ova koji se mogu osnovati temeljem ovoga Zakona, klase imovine u koje mogu ulagati, ograničenja ulaganja i kriterije za procjenu ispunjavanja uvjeta za kvalificirane ulagatelje iz članka 4. točke 11. ovoga Zakona.«.

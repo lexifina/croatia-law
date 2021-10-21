@@ -1,0 +1,4 @@
+# Članak 26.
+U članku 94. stavku 2. iza prve rečenice dodaje se druga rečenica koja glasi: »Ništetna je odredba pravila AIF-a odnosno prospekta kada je primjenjivo, kojom se otklanja pravo ulagatelja na kamatu za slučaj zakašnjenja s ispunjenjem novčane obveze.«.
+Stavak 5. mijenja se i glasi:
+»(5) UAIF je dužan pravilima AIF-a predvidjeti odgovarajuće postupke naknade štete, koji moraju posebno obuhvatiti izradu i provjeru plana naknade štete, kao i mjere naknade štete, za slučaj pogrešnog izračuna vrijednosti udjela i za slučaj povrede ograničenja ulaganja u smislu članka 217. stavka 6. ovoga Zakona, zatim za slučaj štete koja je nanesena imovini AIF-a kao posljedica propusta UAIF-a u smislu stavaka 1. i 2. ovoga članka, kao i za slučaj štete koja ulagateljima nastane zbog izdavanja ili otkupa udjela AIF-a ili zbog propuštanja otkupa udjela AIF-a, na način predviđen člankom 165. ovoga Zakona.«.

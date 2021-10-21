@@ -1,0 +1,8 @@
+# Članak 40.
+U članku 119. stavku 4. iza točke g) briše se točka i dodaju se točke h) i i) koje glase:
+»h) sve potrebne podatke, uključujući adresu UAIF-a, koji su nadležnom tijelu države članice domaćina UAIF-a potrebni vezano za izdavanje računa ili za obavještavanje o primjenjivim regulatornim naknadama ili pristojbama
+i) informacije o sustavima koji moraju biti osigurani vezano za obavljanje zadataka iz članka 151. stavaka 3., 4. i 5. ovoga Zakona.«.
+Stavci 16., 17. i 18. mijenjaju se i glase:
+»(16) Ako bi namjeravana promjena dovela do toga da upravljanje AIF-om od strane UAIF-a ili sam UAIF ne bi više bio usklađen s odredbama ovoga Zakona, Agencija će u roku od 15 radnih dana od dana zaprimanja obavijesti iz stavka 15. ovoga članka zabraniti provođenje namjeravane promjene. Agencija će o zabrani provođenja namjeravane promjene obavijestiti nadležna tijela države članice domaćina UAIF-a.
+(17) Ako je namjeravana promjena provedena protivno stavcima 15. i 16. ovoga članka odnosno ako se dogodila neplanirana promjena zbog koje upravljanje AIF-om od strane UAIF-a ili sam UAIF više nije usklađen s odredbama ovoga Zakona, Agencija će poduzeti odgovarajuće mjere u skladu s dijelom četrnaestim ovoga Zakona, uključujući, kada je potrebno, i zabranu trgovanja udjelima AIF-a, o čemu će bez odgode obavijestiti nadležno tijelo države članice domaćina UAIF-a.
+(18) Ako su predmetne promjene prihvatljive jer ne utječu na usklađenost upravljanja AIF-om od strane UAIF-a ili usklađenost samog UAIF-a s odredbama ovoga Zakona, Agencija će u roku od mjesec dana o njima obavijestiti nadležno tijelo države članice domaćina UAIF-a.«.
