@@ -1,0 +1,2 @@
+# Članak 311.
+U roku od osam dana od dana stupanja na snagu ovoga Zakona Hrvatska radiotelevizija dužna je na svojim mrežnim stranicama objaviti javni oglas u kojem poziva audiovizualne producente iz članka 301. stavka 3. ovoga Zakona ili njihove pravne sljednike da podnesu dokaze o stjecanju prava iskorištavanja na audiovizualnim djelima iz članka 301. stavka 1. ovoga Zakona i o svome pravnom sljedništvu.

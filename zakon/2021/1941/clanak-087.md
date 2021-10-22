@@ -1,0 +1,4 @@
+## Općenito o ugovoru
+# Članak 87.
+(1) Ugovorom o javnom scenskom prikazivanju autor se obvezuje osnovati za korisnika pravo javnog scenskog prikazivanja određenoga autorskog djela, a korisnik se obvezuje autorsko djelo scenski prikazati na način, u roku i pod uvjetima određenim ugovorom te za stečeno pravo platiti autoru naknadu, ako ugovorom nije drukčije određeno.
+(2) Odredbe o ugovoru o javnom scenskom prikazivanju primjenjuju se na odgovarajući način i na javno prenošenje, emitiranje, reemitiranje, prijenos izravnim protokom, na činjenje dostupnim javnosti, na javno priopćavanje emitiranja, reemitiranja, prijenosa izravnim protokom i činjenja dostupnim javnosti te davanje pristupa javnosti djelima koja su učitali korisnici, scenskih prikazivanja autorskog djela, kao i na javno izvođenje te druge oblike priopćavanja javnosti scenskih djela na nescenski način.

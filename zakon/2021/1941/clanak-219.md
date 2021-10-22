@@ -1,0 +1,5 @@
+## Individualno ostvarivanje prava organizacije za emitiranje
+# Članak 219.
+(1) Odredbe članaka 217. i 218. ovoga Zakona ne primjenjuju se na pravo reemitiranja, uključujući kabelsko reemitiranje, pravo prijenosa izravnim protokom, pravo umnožavanja i priopćavanja javnosti, uključujući činjenje dostupnim javnosti, u okviru prateće internetske usluge, te pravo priopćavanja javnosti, uključujući činjenje dostupnim javnosti, pri davanju pristupa javnosti programskih signala koje su učitali korisnici na platformama za dijeljenje sadržaja putem interneta, koja pripadaju organizaciji za emitiranje u pogledu njezinih vlastitih programskih signala.
+(2) Odredba stavka 1. ovoga članka odnosi se na vlastita prava organizacije za emitiranje, kao i na ona prava koja su joj ustupili osnivanjem prava iskorištavanja ili prenijeli drugi nositelji autorskih i srodnih prava.
+(3) Odredbe ovoga članka ne primjenjuju se na prava na naknadu koja prema članku 97. stavku 4. i članku 101. stavku 4. ovoga Zakona pripadaju autorima i umjetnicima izvođačima te na druga neodreciva prava autora i umjetnika izvođača iz ovoga Zakona.

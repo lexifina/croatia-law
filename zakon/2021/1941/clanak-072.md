@@ -1,0 +1,4 @@
+## Općenito o ugovoru
+# Članak 72.
+(1) Nakladničkim ugovorom autor se obvezuje za nakladnika osnovati pravo umnožavanja svojeg određenog autorskog djela tiskanjem ili drugim sličnim postupkom i pravo distribuiranja primjeraka autorskog djela (u daljnjem tekstu: pravo izdavanja), a nakladnik se obvezuje autorsko djelo na ugovoreni način izdati i autoru za stečena prava platiti ugovorenu naknadu, ako ugovorom nije drukčije određeno, te se brinuti o uspješnom distribuiranju primjeraka autorskog djela i davati autoru podatke o distribuiranju.
+(2) Ako nakladničkim ugovorom nije drukčije određeno, smatra se da nakladnik ima isključivo pravo izdavanja djela. Ova predmnjeva ne primjenjuje se na pravo izdavanja u dnevnom i periodičnom tisku, publikacijama ili elektroničkim publikacijama za koje nije sklopljen pisani ugovor (u daljnjem tekstu: mali nakladnički ugovor).

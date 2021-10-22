@@ -1,0 +1,5 @@
+## Efemerne snimke
+# Članak 190.
+(1) Dopušteno je organizaciji za emitiranje koja ima odobrenje za emitiranje autorskog glazbenog djela s riječima ili bez riječi ili umjetničke glazbene izvedbe, bez odobrenja nositelja prava i bez plaćanja naknade, umnožavati ih vlastitim sredstvima na nosač zvuka, slike ili teksta, za potrebe vlastitog emitiranja (efemerne snimke).
+(2) Organizacija za emitiranje dužna je efemerne snimke iz stavka 1. ovoga članka najkasnije u roku od 30 dana od dana emitiranja uništiti ili ih pohraniti u vlastitom ili u javnom službenom arhivu ako te snimke imaju posebnu dokumentarnu vrijednost.
+(3) Efemerne snimke koje su u skladu s odredbama stavka 2. ovoga članka pohranjene mogu se ponovo emitirati, reemitirati, prenijeti izravnim protokom, učiniti dostupnim javnosti, biti sadržane u pratećoj internetskoj usluzi te im se može dati pristup javnosti u skladu s člankom 50. ovoga Zakona, uz odobrenje nositelja prava i plaćanje naknade. Ovo se pravo obavezno ostvaruje u sustavu kolektivnog ostvarivanja prava.

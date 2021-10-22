@@ -1,0 +1,7 @@
+## Rudarenje teksta i podataka u druge svrhe
+# Članak 188.
+(1) Dopušteno je, bez odobrenja nositelja prava i bez plaćanja naknade, u svrhu rudarenja teksta i podataka kako je ono određeno u članku 187. stavku 4. ovoga Zakona, umnožavanje autorskih djela, uključujući umnožavanje autorskih baza podataka i računalnih programa te prerađenih računalnih programa u smislu članka 15. stavka 1. ovoga Zakona, i predmeta srodnih prava, kao i radnje izvlačenja dijela sadržaja i radnje ponovnog korištenja cjelokupnog ili znatnog dijela sadržaja neoriginalne baze podataka.
+(2) Rezultati umnožavanja i izvlačenja iz stavka 1. ovoga članka mogu se zadržati samo onoliko vremena koliko je potrebno da bi se ostvarila svrha rudarenja teksta i podataka.
+(3) Ograničenje iz stavka 1. ovoga članka odnosi se na autorska djela i predmete srodnih prava kojima se može zakonito pristupiti te pod uvjetom da prava korištenja na njima nisu izričito na primjeren način pridržali njihovi nositelji prava.
+(4) Primjereni načini pridržaja prava mogu biti: strojno čitljiv način koji uključuje metapodatke, opći uvjeti koji se odnose na mrežne stranice i uslugu, ugovorne odredbe ili jednostrane izjave nositelja prava.
+(5) Kad je riječ o autorskim djelima i predmetima srodnih prava koji su učinjeni dostupnim javnosti na internetu, jedini primjereni način pridržaja prava je strojno čitljiv način koji uključuje metapodatke i opće uvjete koji se odnose na mrežne stranice ili uslugu.

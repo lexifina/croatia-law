@@ -1,0 +1,6 @@
+## Plaća i posebna primjerena naknada
+# Članak 101.
+(1) Pravo na naknadu za stvaranje autorskog djela u radnom odnosu i njegovo iskorištavanje u skladu s člankom 100. stavcima od 2. do 6. ovoga Zakona ostvaruje se primanjem plaće.
+(2) Ako je korištenje autorskog djela stvorenog u radnom odnosu imalo bitan doprinos na povećanje dohotka odnosno dobiti ili na unaprjeđenje obavljanja djelatnosti poslodavca, autor ima pravo na posebnu primjerenu naknadu, razmjerno doprinosu koji je njegovo autorsko djelo imalo na povećanje dohotka odnosno dobiti ili na unaprjeđenje obavljanja djelatnosti poslodavca, ako je to određeno u ugovoru o radu, pravilniku o radu, kolektivnom ugovoru ili drugom aktu kojim se uređuje radni odnos ili u drugom ugovoru sklopljenom između autora i poslodavca.
+(3) Pravo na posebnu primjerenu naknadu iz stavka 2. ovoga članka pripada autoru neovisno o prestanku radnog odnosa za vrijeme čijeg je trajanja autorsko djelo nastalo.
+(4) Ako se prava za autorska djela stvorena u radnom odnosu ostvaruju kolektivno, tako ostvarena naknada u cijelosti pripada autoru, ako nije drukčije ugovoreno između poslodavca i autora, ili ne proizlazi iz pravila odgovarajuće organizacije za kolektivno ostvarivanje prava ili iz ovoga Zakona.

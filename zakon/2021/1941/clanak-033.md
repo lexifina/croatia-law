@@ -1,0 +1,4 @@
+## Umnožavanje
+# Članak 33.
+(1) Pravo umnožavanja je isključivo pravo izrade autorskog djela u jednom ili više primjeraka, u cijelosti ili u dijelovima, izravno ili neizravno, privremeno ili trajno, bilo kojim sredstvima i u bilo kojem obliku. Pravo umnožavanja uključuje i fiksiranje koje označava utvrđivanje autorskog djela na materijalnu ili drugu odgovarajuću podlogu.
+(2) Autorsko djelo se umnožava: grafičkim postupcima, fotokopiranjem i drugim fotografskim postupcima kojima se postiže isti učinak, zvučnim ili vizualnim snimanjem, građenjem odnosno izvedbom djela arhitekture, pohranom autorskog djela u elektroničkom obliku, fiksiranjem autorskog djela prenošenog računalnom mrežom na materijalnu podlogu, učitavanjem ili pohranom računalnog programa, umnožavanjem koje je potrebno za prikazivanje, izvođenje ili prenošenje računalnog programa, umnožavanjem autorskog djela u okviru prateće internetske usluge iz članka 48. stavka 2. ovoga Zakona i na druge načine.

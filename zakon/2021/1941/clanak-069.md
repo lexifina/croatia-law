@@ -1,0 +1,10 @@
+## Obveza transparentnosti
+# Članak 69.
+(1) Autor ima pravo redovito, a najmanje jednom godišnje, primati ažurirane, relevantne i sveobuhvatne podatke o iskorištavanju njegova autorskog djela koje je predmet autorskopravnog ugovora, posebno u pogledu načina iskorištavanja, svih ostvarenih prihoda od iskorištavanja, eventualnih ugovorenih odbitaka i autorske naknade koju treba primiti.
+(2) Ako na temelju osnovanog prava iskorištavanja nositelj tog prava (u daljnjem tekstu: primarni nositelj prava iskorištavanja) osniva daljnje pravo iskorištavanja, autor ima pravo od daljnjeg nositelja prava iskorištavanja dobiti podatke iz stavka 1. ovoga članka ako ih nije dobio od primarnog nositelja prava iskorištavanja, koji je ujedno dužan identificirati daljnje nositelje prava iskorištavanja. Zahtjev za dostavu podataka autor može nositelju daljnjeg prava iskorištavanja dostaviti neposredno ili posredstvom primarnog nositelja prava iskorištavanja.
+(3) Obveza na dostavu podataka mora biti razmjerna i učinkovita. U opravdanim slučajevima u kojima bi obveza na dostavu svih podataka iz stavka 1. ovoga članka bila nerazmjerna s obzirom na prihode ostvarene iskorištavanjem djela, obveza se ograničuje na vrste i razinu podataka koje se u takvim slučajevima mogu razumno očekivati.
+(4) Obveza na dostavu podataka ne primjenjuje se kad doprinos autora nije znatan u odnosu na ukupno djelo, osim ako autor zatraži podatke radi ostvarivanja njegovih prava iz članka 68. ovoga Zakona.
+(5) Sporovi povezani s pravima iz ovoga članka mogu se razriješiti u postupku posredovanja pred Vijećem stručnjaka prema članku 239. ovoga Zakona, u arbitražnom ili sudskom postupku, koje mogu pokrenuti sami autori ili njihova reprezentativna udruženja na pojedinačni zahtjev jednog ili više autora.
+(6) Ovaj Članak ne primjenjuje se na organizacije za kolektivno ostvarivanje prava i neovisne upravljačke subjekte.
+(7) Ovaj Članak ne primjenjuje se na autore računalnih programa.
+(8) Ugovorne odredbe koje su u suprotnosti s ovim člankom ništetne su.

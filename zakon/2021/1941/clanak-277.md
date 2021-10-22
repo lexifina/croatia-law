@@ -1,0 +1,4 @@
+## Zaštita podataka o upravljanju pravima
+# Članak 277.
+(1) Povredu prava iz ovoga Zakona čini i osoba koja bez ovlaštenja: uklanja ili preinačuje podatke o upravljanju pravima u elektroničkom obliku, proizvodi, distribuira, uvozi radi stavljanja na tržište, emitira, priopćava javnosti ili čini dostupnim javnosti autorska djela ili predmete srodnih prava s kojih su podaci o upravljanju pravima u elektroničkom obliku uklonjeni ili preinačeni bez ovlaštenja nositelja prava, ako zna ili mora znati da time uzrokuje, omogućava, olakšava ili prikriva povredu prava iz ovoga Zakona.
+(2) Podaci o upravljanju pravima su podaci koje je naveo nositelj prava i kojima se identificira predmet zaštite, nositelj prava, uvjeti korištenja predmeta zaštite, kao i brojke ili kodovi koji predstavljaju takve podatke ako su navedeni na primjerku autorskog djela ili predmeta srodnog prava ili se pojavljuju u vezi s njihovim priopćavanjem javnosti.

@@ -1,0 +1,6 @@
+## Umnožavanje autorskog djela za privatno korištenje uz plaćanje odgovarajuće naknade
+# Članak 183.
+(1) Dopušteno je fizičkoj osobi, bez autorova odobrenja, iz zakonito objavljenog izvora umnožavati autorsko djelo na bilo koju podlogu, kao i umnožavati autorsko djelo u obliku fotokopije, ako to čini za privatno korištenje koje nema izravno ili neizravno komercijalnu svrhu i nije namijenjeno ili pristupačno javnosti.
+(2) Kad se autorsko djelo može umnožavati bez autorova odobrenja u skladu s odredbama stavka 1. ovoga članka, autori djela za koja se, s obzirom na njihovu prirodu, može očekivati da će bez njihova odobrenja biti umnožena snimanjem na nosače zvuka, slike ili teksta ili fotokopiranjem, za privatno korištenje, imaju pravo na odgovarajuću naknadu od prodaje praznih nosača zvuka, slike ili teksta i uređaja za tonsko i vizualno snimanje te uređaja za fotokopiranje.
+(3) Autori imaju, osim prava iz stavka 2. ovoga članka, i pravo na odgovarajuću naknadu od fizičke ili pravne osobe koja uz naplatu obavlja usluge fotokopiranja.
+(4) S fotokopiranjem su izjednačene sve druge tehnike umnožavanja, a s uređajima za tonsko i vizualno snimanje izjednačeni su drugi uređaji koji omogućavaju isti učinak.

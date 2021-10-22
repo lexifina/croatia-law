@@ -1,0 +1,12 @@
+## Odnos između autorskog prava i srodnih prava te međusobni odnos srodnih prava
+# Članak 6.
+(1) Zaštita srodnih prava, prema ovom Zakonu, ostavlja netaknutom i ni na koji način ne utječe na zaštitu autorskog prava. Ni jedna odredba ovoga Zakona o zaštiti srodnih prava ne smije se tumačiti tako da šteti zaštiti autorskog prava.
+(2) Ostvarivanje prava umjetnika izvođača na priopćavanje javnosti fiksiranih izvedbi iz članka 136. stavka 1. ovoga Zakona ne smije štetiti ostvarivanju autorskog prava.
+(3) Ostvarivanje prava proizvođača fonograma ne smije štetiti ostvarivanju autorskog prava ni prava umjetnika izvođača.
+(4) Ostvarivanje prava audiovizualnih producenata ne smije štetiti ostvarivanju autorskog prava, prava umjetnika izvođača ni prava proizvođača fonograma.
+(5) Ostvarivanje prava organizacija za emitiranje ne smije štetiti ostvarivanju autorskog prava, prava umjetnika izvođača, prava proizvođača fonograma ni prava audiovizualnih producenata.
+(6) Ostvarivanje prava nakladnika informativnih publikacija ne smije štetiti ostvarivanju autorskog prava, prava umjetnika izvođača, prava proizvođača fonograma, prava audiovizualnih producenata ni prava organizacija za emitiranje.
+(7) Nakladnik informativnih publikacija ne može se pozvati na svoje pravo nakladnika informativnih publikacija protiv nositelja autorskog ili srodnog prava na autorskim djelima i predmetima srodnih prava uvrštenim u njegovu informativnu publikaciju, a osobito ih ne može pozivanjem na svoje pravo nakladnika informativnih publikacija spriječiti da koriste svoja autorska djela i predmete srodnih prava neovisno o informativnoj publikaciji u koju su uvrštena.
+(8) Ako je autorsko djelo ili predmet srodnog prava uključen u informativnu publikaciju na temelju stečenog neisključivog prava iskorištavanja, nakladnik informativne publikacije ne može se pozvati na svoje pravo protiv drugih stjecatelja neisključivog prava iskorištavanja istih autorskih djela ili predmeta srodnih prava.
+(9) Nakladnik informativnih publikacija ne može pozivom na svoje pravo zabraniti korištenja autorskih djela ili predmeta srodnih prava za koja je zaštita istekla.
+(10) Ostvarivanje prava proizvođača neoriginalne baze podataka ne smije štetiti ostvarivanju autorskog prava, prava umjetnika izvođača, prava proizvođača fonograma, prava audiovizualnih producenata, prava organizacija za emitiranje ni prava nakladnika informativnih publikacija.

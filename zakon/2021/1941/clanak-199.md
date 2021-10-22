@@ -1,0 +1,8 @@
+## Korištenje u digitalnoj i prekograničnoj nastavi
+# Članak 199.
+(1) Dopušteno je, bez odobrenja nositelja prava i bez plaćanja naknade, umnožavanje i priopćavanje javnosti, uključujući činjenje dostupnim javnosti, autorskih djela i predmeta srodnih prava radi njihova digitalnog korištenja u svrhu davanja primjera u nastavi, sukladno članku 198. stavku 3. ovoga Zakona, u mjeri koja je opravdana nekomercijalnom svrhom kako je ona određena u članku 198. stavku 4. ovoga Zakona i pod uvjetom da se takvo korištenje odvija u okviru nadležnosti obrazovne ustanove, u njezinim prostorijama ili u drugim objektima ili putem sigurnog elektroničkog okružja kojemu mogu pristupiti samo učenici ili studenti i nastavno osoblje te obrazovne ustanove, s time da se mora naznačiti izvor i ime autora ili drugog nositelja prava, osim ako se to pokaže nemogućim.
+(2) Sadržajno ograničenje iz stavka 1. ovoga članka odnosi se, među ostalim, na digitalnu i internetsku nastavu, učenje na daljinu i prekograničnu nastavu te na sve obrazovne razine.
+(3) Korištenje sadržajnog ograničenja iz članka 198. stavka 2. te stavka 1. ovoga članka ne smije zamijeniti kupnju materijala ponajprije namijenjenih tržištima obrazovanja.
+(4) Smatra se da se korištenja iz stavka 1. ovoga članka događaju samo u državi članici u kojoj obrazovna ustanova ima poslovni nastan.
+(5) Ugovorne odredbe suprotne odredbama ovoga članka ništetne su.
+(6) Ograničenje iz ovoga članka primjenjuje se na odgovarajući način i u aktivnostima cjeloživotnog obrazovanja koje provode državne institucije, javne ustanove i drugi subjekti koji su ovlašteni poduzimati takve aktivnosti.

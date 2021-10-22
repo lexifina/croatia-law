@@ -1,0 +1,6 @@
+## Autorska zbirka i autorska baza podataka
+# Članak 16.
+(1) Zbirka samostalnih autorskih djela, podataka ili druge građe koja prema izboru ili rasporedu sastavnih elemenata čini originalnu intelektualnu tvorevinu individualnog karaktera sukladno članku 14. stavku 1. ovoga Zakona (u daljnjem tekstu: autorska zbirka), kao što je enciklopedija, zbornik, antologija, baza podataka i sl., zaštićena je kao zasebno autorsko djelo. Nijedan drugi kriterij neće se primjenjivati za prikladnost autorskopravne zaštite autorske zbirke.
+(2) Zaštita koju uživa autorska zbirka iz stavka 1. ovoga članka ne proteže se na njezin sadržaj i ni na koji način ne utječe na prava koja postoje na autorskim djelima i predmetima srodnih prava uvrštenim u tu zbirku.
+(3) Autorska baza podataka je autorska zbirka samostalnih autorskih djela, podataka ili druge građe uređena po određenom sustavu ili metodi, čiji su elementi pojedinačno pristupačni elektroničkim ili drugim sredstvima.
+(4) Zaštita koja je ovim Zakonom predviđena za autorsku bazu podataka iz stavka 3. ovoga članka ne odnosi se na računalne programe koji su korišteni za njezinu izradu ili rad. Takvi računalni programi zaštićeni su kao zasebna autorska djela ako su originalne intelektualne tvorevine individualnog karaktera.

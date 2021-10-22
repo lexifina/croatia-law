@@ -1,0 +1,6 @@
+## Promjena sadržaja ugovora u korist umjetnika izvođača
+# Članak 148.
+(1) Ako je prema ugovoru između umjetnika izvođača i proizvođača fonograma koji je sklopljen za cijelo vrijeme trajanja zaštite prava umjetnika izvođača i kojim je za proizvođača fonograma osnovano pravo iskorištavanja izvedbe fiksirane na fonogramu umjetnik izvođač stekao pravo na naknadu koja dospijeva u obrocima, pri obračunu iznosa takve naknade ne oduzimaju se eventualno prije plaćeni predujmovi, kao ni eventualni drugi odbici koji su određeni u takvom ugovoru.
+(2) Odredba stavka 1. ovoga članka primjenjuje se nakon što istekne 50 godina od zakonitog izdavanja fonograma odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije zakonito izdan.
+(3) Umjetnik izvođač ima pravo zahtijevati izmjenu ugovora koji je prije 1. studenoga 2013. sklopio s proizvođačem fonograma nakon što istekne 50 godina od zakonitog izdavanja fonograma odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije izdan.
+(4) Ako umjetnik izvođač i proizvođač fonograma ne postignu sporazum u vezi s pravičnom izmjenom ugovora sukladno stavku 3. ovoga članka, prava proizvođača fonograma na tom fonogramu prestaju istekom 50 godina od zakonitog izdavanja javnosti fonograma odnosno 50 godina od njegova zakonitog priopćavanja javnosti ako fonogram nije zakonito izdan.

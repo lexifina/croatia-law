@@ -1,0 +1,7 @@
+## Određivanje naknade za korištenje autorskog djela
+# Članak 67.
+(1) Autor ima pravo na primjerenu i razmjernu naknadu za svako korištenje njegova autorskog djela.
+(2) Ako visina naknade nije određena pravnim poslom ili je njezina visina određena neprimjereno te ako visina naknade nije određena primjenom članka 235. ovoga Zakona, autor ima pravo zahtijevati primjerenu i razmjernu naknadu.
+(3) Primjerena i razmjerna naknada je ona koja se u pravnom prometu pošteno mora dati ili odrediti u času zaključenja pravnog posla, s obzirom na vrstu i opseg korištenja autorskog djela, stvarnu ili potencijalnu gospodarsku vrijednost stečenog prava korištenja, uzimajući pritom u obzir i potencijalni ili ostvareni financijski uspjeh u korištenju autorskog djela, doprinos autora ukupnom djelu, vrstu i obujam autorskog djela, trajanje korištenja, postojanje sporazuma između reprezentativnih udruženja autora i reprezentativnih udruženja korisnika kojim se utvrđuje visina primjerene i razmjerne naknade, kao i druge elemente na temelju kojih se može odrediti primjerena i razmjerna naknada, kao što su poštene tržišne prakse ili stvarno iskorištavanje djela.
+(4) Naknada koja je određena u paušalnom iznosu može biti razmjerna ako to odgovara okolnostima slučaja, vodeći računa o posebnostima različitih područja stvaralaštva.
+(5) Načelo primjerene i razmjerne naknade iz ovoga članka ne primjenjuje se na autore računalnih programa.

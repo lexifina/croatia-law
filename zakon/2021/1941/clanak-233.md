@@ -1,0 +1,10 @@
+## Poglavlje 4.
+## ODNOS ORGANIZACIJE ZA KOLEKTIVNO OSTVARIVANJE PRAVA I KORISNIKA
+## Davanje odobrenja za korištenje
+# Članak 233.
+(1) Prije početka korištenja predmeta zaštite pravna odnosno fizička osoba dužna je podnijeti zahtjev za odobrenje korištenja određene vrste predmeta zaštite odgovarajućoj organizaciji za kolektivno ostvarivanje prava. U zahtjevu se navodi vrsta i okolnosti korištenja, kao što su način, prostor i vrijeme korištenja te ostali podaci o kojima ovisi visina naknade.
+(2) Organizacija za kolektivno ostvarivanje prava dužna je u primjerenom roku odgovoriti na zahtjev za odobrenje korištenja, navodeći podatke koji su potrebni da bi mogla izdati odobrenje. Nakon primitka svih relevantnih podataka organizacija je dužna korisniku izdati odobrenje ili obrazložiti zašto nije u mogućnosti izdati odobrenje.
+(3) Odobrenje mora sadržavati oznaku vrsta prava na koje se odnosi, uvjete korištenja s obzirom na način, prostor i vrijeme korištenja te visinu naknade, ako je korištenje uz naknadu. Uvjeti korištenja moraju biti utemeljeni na objektivnim i nediskriminirajućim kriterijima.
+(4) Korisnik je dužan bez odgađanja obavijestiti organizaciju za kolektivno ostvarivanje prava o svakoj promjeni okolnosti korištenja ili o samom prestanku korištenja, radi odgovarajuće izmjene uvjeta pod kojima je odobrenje dano odnosno radi povlačenja odobrenja.
+(5) Organizacija za kolektivno ostvarivanje prava dužna je omogućiti korisnicima da zahtjev za odobrenje korištenja i svu komunikaciju u vezi s odobrenjem obavljaju elektroničkim putem.
+(6) Pravna ili fizička osoba koja omogući korištenje svog prostora drugoj osobi koja u tom prostoru koristi predmete zaštite dužna je provjeriti ima li ta druga osoba odgovarajuće odobrenje za korištenje predmeta zaštite. Ako pravna ili fizička osoba omogući korištenje svog prostora osobi koja nema odgovarajuće odobrenje za korištenje predmeta zaštite, a znala je ili je morala znati da će se u tom prostoru koristiti predmeti zaštite, solidarno odgovara za isplatu odgovarajuće naknade za korištenje predmeta zaštite.

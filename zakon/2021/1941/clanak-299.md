@@ -1,0 +1,10 @@
+## Neovlašteno kolektivno ostvarivanje prava
+# Članak 299.
+(1) Novčanom kaznom od 5000,00 do 50.000,00 kuna kaznit će se za prekršaj pravna osoba:
+1. koja ima sjedište ili poslovni nastan u Republici Hrvatskoj ako djelatnost kolektivnog ostvarivanja prava iz ovoga Zakona obavlja bez odobrenja Zavoda (članak 224. stavak 1. i članak 225. stavak 2.)
+2. koja ima sjedište ili poslovni nastan u Republici Hrvatskoj ako djelatnost kolektivnog ostvarivanja prava iz ovoga Zakona obavlja protivno odobrenju Zavoda koje mu je izdano u skladu s člankom 224. stavkom 1. ili člankom 225. stavkom 2. ovoga Zakona ili protivno odredbama ovoga Zakona (članak 267. stavak 4.)
+3. koja ima sjedište ili poslovni nastan u državi članici Europske unije koja nije Republika Hrvatska, ako po pravu države u kojoj ima sjedište ili poslovni nastan ne može u toj državi obavljati djelatnost kolektivnog ostvarivanja prava, a obavlja takvu djelatnost u Republici Hrvatskoj (članak 225. stavak 3. i članak 266. stavak 7.)
+4. koja ima sjedište ili poslovni nastan u državi članici Europske unije koja nije Republika Hrvatska, ako po pravu države u kojoj ima sjedište ili poslovni nastan može u toj državi obavljati djelatnost kolektivnog ostvarivanja prava, ali takvu djelatnost obavlja u Republici Hrvatskoj, a da o namjeri obavljanja te djelatnosti u Republici Hrvatskoj prethodno nije obavijestila Zavod (članak 225. stavak 3. i članak 266. stavak 7.)
+5. koja ima sjedište ili poslovni nastan u državi članici Europske unije koja nije Republika Hrvatska, a u Republici Hrvatskoj obavlja poslove kolektivnog ostvarivanja prava protivno odredbama ovoga Zakona (članak 267. stavak 6.).
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 1000,00 do 5000,00 kuna odgovorna osoba u pravnoj osobi.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se novčanom kaznom od 5000,00 do 30.000,00 kuna fizička osoba obrtnik odnosno osoba koja obavlja drugu samostalnu djelatnost kad je prekršaj počinila u vezi s obavljanjem svog obrta odnosno samostalne djelatnosti.

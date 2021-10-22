@@ -1,0 +1,3 @@
+## Korištenje autorskih djela u svrhu upoznavanja ili iskušavanja uređaja
+# Članak 207.
+Dopušteno je trgovinama koje prodaju fonograme ili videograme ili uređaje za umnožavanje ili za prijam zvuka ili slike, bez odobrenja nositelja prava i bez plaćanja naknade, snimanje autorskih djela i predmeta srodnih prava na nosače zvuka, slike ili teksta, njihovo priopćavanje s tih nosača, kao i priopćavanje autorskih djela ili predmeta srodnih prava koja se emitiraju, u opsegu potrebnom za upoznavanje ili iskušavanje rada tih fonograma ili videograma ili uređaja neposrednim kupcima ili za njihov popravak.

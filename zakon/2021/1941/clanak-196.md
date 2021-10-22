@@ -1,0 +1,14 @@
+# Članak 196.
+(1) Ograničenje autorskih i srodnih prava propisano u članku 195. ovoga Zakona može koristiti ovlašteni subjekt iz Republike Hrvatske za korisnika ili drugi ovlašteni subjekt iz bilo koje druge države članice Europske unije.
+(2) Korisnik ili ovlašteni subjekt iz Republike Hrvatske može pribaviti primjerak autorskog djela ili predmeta srodnog prava u pristupačnom formatu od ovlaštenog subjekta iz bilo koje druge države članice Europske unije ili imati pristup takvom primjerku.
+(3) Ovlašteni subjekt dužan je utvrditi vlastitu praksu i pridržavati je se kako bi osigurao da:
+- distribuira, priopćava javnosti i čini dostupnim javnosti primjerke autorskih djela i predmete srodnih prava u pristupačnom formatu samo korisnicima ili drugim ovlaštenim subjektima
+- poduzima odgovarajuće aktivnosti usmjerene odvraćanju od neovlaštenog umnožavanja, distribuiranja, priopćavanja javnosti i činjenja dostupnim javnosti primjeraka u pristupačnom formatu
+- posvećuje dužnu pažnju u rukovanju autorskim djelima i predmetima srodnih prava te njihovim primjercima u pristupačnom formatu, kao i u vođenju evidencija o njima
+- objavljuje i ažurira, prema potrebi, na svojim mrežnim stranicama ili na druge načine na internetu ili izvan njega, podatke o načinima ispunjavanja svojih obveza iz ovoga stavka.
+(4) Ovlašteni subjekt je pri utvrđivanju prakse iz stavka 3. ovoga članka dužan poštovati propise o prikupljanju i obradi osobnih podataka korisnika.
+(5) Ovlašteni subjekt dužan je korisnicima, drugim ovlaštenim subjektima te nositeljima autorskog i srodnih prava čija djela ili predmete srodnih prava koristi u skladu sa sadržajnim ograničenjem iz članka 195. ovoga Zakona na odgovarajući način dostaviti sljedeće podatke:
+- popis autorskih djela ili predmeta srodnih prava koje ima u pristupačnom formatu te podatke o raspoloživim primjercima u pristupačnom formatu te
+- imena i podatke za kontakt ovlaštenih subjekata s kojima razmjenjuje primjerke u pristupačnom formatu u skladu sa stavkom 1. ovoga članka.
+(6) Državni zavod za intelektualno vlasništvo Republike Hrvatske (u daljnjem tekstu: Zavod) pozvat će ovlaštene subjekte iz Republike Hrvatske da mu na dobrovoljnoj osnovi dostave svoje ažurne nazive i podatke za kontakt, radi dostave Europskoj komisiji u svrhu činjenja dostupnim javnosti putem središnjeg mjesta za pristup takvim podacima na internetu.
+(7) Zavod je dužan Europskoj komisiji dostavljati informacije vezane uz mogućnosti poboljšanja pristupa drugim vrstama autorskih djela i predmetima zaštite srodnih prava u korist osoba koje su slijepe, koje imaju oštećenje vida ili imaju drugih poteškoća u korištenju tiskanim materijalima, kao i uz mogućnost pristupa takvim djelima i predmetima zaštite za osobe s drugim vrstama invaliditeta te druge relevantne informacije potrebne za izradu izvješća Europske komisije vezanih uz iznimke autorskog i srodnih prava u korist osoba s invaliditetom.

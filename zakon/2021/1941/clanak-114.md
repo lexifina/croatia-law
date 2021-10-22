@@ -1,0 +1,6 @@
+## Uništenje autorskog djela
+# Članak 114.
+(1) Vlasnik izvornika autorskog djela koji zna ili mora znati da autor ili neki od koautora ima poseban interes za očuvanje tog izvornika dužan je prije uništenja obavijestiti ih o namjeri uništenja i ponuditi otkup po cijeni stvarne vrijednosti. Ako nije moguća predaja izvornika u posjed autora, vlasnik je dužan omogućiti autoru izradu primjerka autorskog djela na odgovarajući način. Ako autor ne želi otkupiti izvornik, vlasnik ga može slobodno uništiti, ali je na zahtjev autora dužan dopustiti mu njegovo fotografiranje ili snimanje prije nego što ga uništi.
+(2) Vlasnik stvari koje sadrže umnožene primjerke autorskog djela nema obveze iz stavka 1. ovoga članka, osim ako zna ili mora znati da ne postoji ni izvornik niti drugi primjerci tog djela.
+(3) Vlasnik stvari na kojoj je autorsko djelo fiksirano bez njegova odobrenja tu stvar može uništiti bez obveza iz stavaka 1. i 2. ovoga članka.
+(4) Odredbe stavaka 1. i 2. ovoga članka ne odnose se na arhitektonska djela. Vlasnik arhitektonskog djela jedino je dužan obavijestiti autora o uništenju i dopustiti autoru, na njegov zahtjev, fotografiranje ili snimanje toga djela i predati mu primjerak nacrta toga djela, ako ga ima.

@@ -1,0 +1,17 @@
+## Nezaštićene tvorevine
+# Članak 18.
+(1) Predmetom autorskog prava su izražaji, a ne ideje, postupci, metode rada ili matematički koncepti kao takvi.
+(2) Nisu autorska djela:
+1. otkrića
+2. ideje i načela na kojima se zasniva bilo koji element računalnog programa, uključujući i one na kojima se zasnivaju njegova sučelja
+3. dnevne novosti i druge vijesti koje imaju karakter običnih medijskih informacija.
+(3) Službeni tekstovi iz područja zakonodavstva, uprave i sudstva, kao što su zakoni, uredbe, odluke, izvješća, zapisnici, sudske odluke i slično, službeni programi, kao što su školski i akademski programi, programi rada i slično, prostorni planovi, kao što su plan prostornog razvoja, urbanistički plan i slično, konzervatorske podloge, kao i njihove zbirke, zaštićeni su kao autorska djela od trenutka stvaranja, ako su originalne intelektualne tvorevine koje imaju individualan karakter. U trenutku kad budu predani u bilo kakav službeni postupak ili budu predani službenoj osobi radi informiranja javnosti ili javnog korištenja ili kad budu objavljeni radi službenog informiranja javnosti, prestaju biti zaštićeni autorskim pravom.
+(4) Svatko tko na bilo koji način javno prenosi dnevne novosti i druge vijesti koje imaju karakter običnih medijskih informacija i nisu predmetom autorskog prava te druge medijske informacije za koje je saznao iz javno objavljenih izvora dužan je u svojoj objavi jasno i na vidljiv način označiti:
+- naziv nakladnika informativnih publikacija ili organizacije za emitiranje ili drugog nakladnika medija ili elektroničkog medija koji je prvi objavio dnevnu novost, drugu vijest ili drugu medijsku informaciju te
+- ime i prezime novinara koji je potpisan, ako je to u skladu s uobičajenom praksom u medijskom izvješćivanju.
+(5) Kad netko koristi tuđa autorska djela ili predmete srodnih prava koji sadrže dnevne novosti i druge vijesti ili druge medijske informacije za izradu svojih javnih objava istih dnevnih novosti i drugih vijesti ili drugih medijskih informacija, na način za koji po ovome Zakonu nije potrebno pribaviti odobrenje nositelja prava ili organizacije za kolektivno ostvarivanje prava, dužan je navesti izvore koje je koristio tako da na primjeren, jasan i vidljiv način označi:
+- naziv nakladnika informativnih publikacija ili organizacije za emitiranje ili drugog nakladnika medija ili elektroničkog medija čije sadržaje koristi te
+- ime i prezime novinara koji je potpisan, ako je to u skladu s uobičajenom praksom u medijskom izvješćivanju.
+(6) Navođenje izvora i naziva iz stavaka 4. i 5. ovoga članka ne smatra se oglašavanjem.
+(7) Narodne književne i umjetničke tvorevine u izvornom obliku nisu predmet autorskog prava, ali se za njihovo priopćavanje javnosti plaća naknada kao za priopćavanje javnosti zaštićenih autorskih djela. Naknada se koristi za poticanje odgovarajućeg umjetničkog i kulturnog stvaralaštva pretežno nekomercijalne naravi i kulturne raznolikosti u odgovarajućem umjetničkom i kulturnom području sukladno članku 245. stavku 4. ovoga Zakona. Naknada se ostvaruje obavezno kolektivno. Naknadu nisu dužne plaćati institucije kulturne baštine iz članka 187. stavka 3. ovoga Zakona.
+(8) Kad je rok zaštite za autorsko djelo vizualnih umjetnosti istekao, nijedna tvorevina nastala umnožavanjem takvog djela nije prikladna za autorskopravnu zaštitu, osim ako je riječ o tvorevini koja je sama po sebi originalna intelektualna tvorevina njezina autora koja ima individualni karakter u smislu članka 14. stavka 1. ovoga Zakona.

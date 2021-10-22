@@ -1,0 +1,2 @@
+# Članak 303.
+Smatra se da sva imovinska prava na glumačkim umjetničkim izvedbama u audiovizualnim djelima iz članka 301. stavka 1. ovoga Zakona, za koja audiovizualni producent odnosno njegov pravni sljednik ne podnesu dokaze o stjecanju prava iskorištavanja glumačkih izvedaba i o svojem pravnom sljedništvu, na način kako je propisano u članku 302. stavku 3. ovoga Zakona, pripadaju Hrvatskoj radioteleviziji.
