@@ -1,0 +1,3 @@
+# Članak 89.
+(1) Ako za vrijeme trajanja koncesije dođe do izmjene parametara odašiljača sukladno tehničkoj podlozi Hrvatske regulatorne agencije za mrežne djelatnosti, a povećanje pokrivanja signalom ne prelazi više od 30 % stanovništva pokrivenog tehničkom podlogom na temelju koje je koncesija dana, predmetno se neće smatrati novom koncesijom, već će se s postojećim pružateljem medijske usluge sklopiti dodatak Ugovora.
+(2) Ako promjena parametara odašiljača iz stavka 1. ovoga članka dovodi do širenja koncesije na gradsku, županijsku, regionalnu ili državnu razinu, Vijeće je u obvezi raspisati novu obavijest o namjeri davanja koncesije.

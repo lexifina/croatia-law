@@ -1,0 +1,4 @@
+# Članak 66.
+(1) Vijeće neće dati koncesiju najpovoljnijem ponuditelju odabranom u provedenom postupku davanja koncesije ako se utvrdi da bi davanjem koncesije došlo do narušavanja pluralizma i raznovrsnosti elektroničkih medija u smislu članka 63. stavka 1. i članka 65. stavka 3. ovoga Zakona.
+(2) Svaki podnositelj ponude na objavljenu obavijest o namjeri davanja koncesije dužan je uz ponudu dostaviti ovjerenu izjavu da eventualnim dobivanjem koncesije ne dolazi do narušavanja pluralizma i raznovrsnosti elektroničkih medija u smislu ovoga Zakona.
+(3) Pružatelj medijskih usluga iz članka 92. ovoga Zakona dužan je uz zahtjev za izdavanje dopuštenja za satelitski, internetski, kabelski i drugi oblik prijenosa audiovizualnog i/ili radijskog programa dostaviti izjavu da se davanjem ovoga dopuštenja ne dolazi do narušavanja pluralizma i raznovrsnosti elektroničkih medija u smislu ovoga Zakona.

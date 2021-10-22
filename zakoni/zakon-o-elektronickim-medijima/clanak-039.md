@@ -1,0 +1,2 @@
+# Članak 39.
+Ako su sredstva za proizvodnju i objavljivanje programa regionalnih i lokalnih nakladnika televizije i/ili radija te elektroničkih publikacija osigurana u proračunima tijela državne uprave i javnim ustanovama kojima je osnivač Republika Hrvatska, kao i pravnih osoba u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, proračunima jedinica lokalne i područne (regionalne) samouprave, ta se sredstva dodjeljuju putem javnog poziva, a na temelju javno objavljenih kriterija.

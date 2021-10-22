@@ -1,0 +1,4 @@
+# Članak 62.
+(1) Pružatelji medijskih usluga moraju u pisanom obliku prijaviti tijelu nadležnom za zaštitu tržišnog natjecanja svaku namjeru provedbe koncentracije poduzetnika koja ispunjava uvjete za nastanak obveze prijave namjere provedbe koncentracije u smislu propisa o zaštiti tržišnog natjecanja.
+(2) Agencija na zahtjev tijela nadležnog za zaštitu tržišnog natjecanja dostavit će stručno mišljenje u roku od 30 dana od zaprimanja zahtjeva za dostavu tog mišljenja. Ako nakon isteka tog roka Agencija ne dostavi zatraženo mišljenje, smatra se da nema primjedaba na provedbu prijavljene koncentracije iz stavka 1. ovoga članka.
+(3) Tijelo nadležno za zaštitu tržišnog natjecanja ocjenjuje prijavu namjere koncentracije iz stavka 1. ovoga članka i donosi odluku u skladu s odredbama propisa o zaštiti tržišnog natjecanja.

@@ -1,0 +1,7 @@
+## VII. ZAŠTITA PLURALIZMA I RAZNOVRSNOSTI ELEKTRONIČKIH MEDIJA
+# Članak 61.
+(1) Pružatelji medijskih usluga dužni su, u roku od pet dana, Agenciji dostaviti podatke o pravnoj osobi i sjedištu odnosno imenu i prezimenu te prebivalištu svih pravnih i fizičkih osoba koje su neposredno ili posredno postale imatelji dionica ili poslovnih udjela u tom pružatelju medijskih usluga, s podatkom o postotku dionica ili poslovnih udjela.
+(2) Pružatelji medijskih usluga dužni su dostaviti Agenciji ovjerene preslike isprava o stjecanju dionica ili poslovnih udjela u tom pružatelju medijskih usluga tijekom prethodne godine te izvadak iz Registra stvarnih vlasnika. Isprave o stjecanju ne dostavljaju se za dionice i udjele do 1 % vrijednosti kapitala.
+(3) Pružatelju medijskih usluga koji ne izvrši obveze iz stavaka 1. i 2. ovoga članka Vijeće će uputiti pisano upozorenje s obrazloženjem mogućih sankcija za neizvršenje obveze.
+(4) Svaku promjenu podataka iz stavka 1. ovoga članka vezanu uz vlasničku strukturu pružatelj medijskih usluga obvezan je objaviti u »Narodnim novinama«. Podaci o dioničarima i nositeljima udjela do 1 % vrijednosti kapitala objavljuju se zbirno.
+(5) Zabranjuje se prikrivanje vlasničke strukture pružatelja medijskih usluga ili vlasništva stjecatelja dionica ili poslovnih udjela u pružatelju medijskih usluga bilo kojim pravnim poslom. Pravni poslovi kojima se prikriva vlasnička struktura pružatelja medijskih usluga ili vlasništvo stjecatelja dionica ili poslovnih udjela u pružatelju medijskih usluga jesu ništetni.

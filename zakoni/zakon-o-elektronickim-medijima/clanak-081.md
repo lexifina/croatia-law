@@ -1,0 +1,5 @@
+# Članak 81.
+(1) Sredstva za obavljanje poslova Agencije osiguravaju se na temelju godišnjeg financijskog plana Agencije iz iznosa od 0,5 % od ukupnog godišnjeg brutoprihoda koji su u prethodnoj godini ostvarili pružatelji medijskih usluga obavljanjem djelatnosti pružanja audio i/ili audiovizualnih medijskih usluga na zahtjev iz članka 26. ovoga Zakona, djelatnosti pružanja medijskih usluga televizije i/ili radija iz članaka 29. i 92. ovoga Zakona, djelatnosti pružanja usluga elektroničkih publikacija iz članka 94. ovoga Zakona te djelatnosti usluga platformi za razmjenu videozapisa iz članka 95. ovoga Zakona.
+(2) Neutrošena sredstva iz stavka 1. ovoga članka ostvarena kao rezultat poslovanja na kraju proračunske godine mogu se utrošiti za dugoročne projekte i druge projekte od velikog značenja za rad Agencije te za medijsku pismenost i medijske analize i istraživanja.
+(3) Agencija odgovara za vlastite obveze cjelokupnom svojom imovinom, a Republika Hrvatska neograničeno odgovara za obveze Agencije.
+(4) Obveze Agencije u prvom se redu podmiruju iz njezine imovine, a tek onda iz državnog proračuna Republike Hrvatske.

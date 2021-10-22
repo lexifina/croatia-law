@@ -1,0 +1,4 @@
+# Članak 34.
+(1) U oglašavanju i teletrgovini koji su namijenjeni maloljetnicima ili koji koriste maloljetnike ne smije se objavljivati ništa što bi moglo nauditi njihovim interesima, uzimajući u obzir njihovu posebnu osjetljivost i podložnost te se ne smije prouzročiti moralna ili fizička šteta maloljetnicima.
+(2) Nije dopušteno oglašavanje u kojem se žene i muškarci prikazuju na uvredljiv ili ponižavajući način, s obzirom na spol ili spolnu orijentaciju.
+(3) Nije dopušteno oglašavanje političkih stranaka, koalicija i nezavisnih zastupnika u Hrvatskome saboru te članova predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave izabranih s liste grupe birača, osim za vrijeme izborne promidžbe sukladno posebnim propisima ili posebnim propisima kojima se uređuje provedba izbora.

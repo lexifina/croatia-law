@@ -1,0 +1,11 @@
+# Članak 24.
+(1) U audiovizualnim medijskim uslugama i radijskim programima te sadržajima elektroničkih publikacija nije dopušteno:
+– objavljivati priloge koji vrijeđaju dostojanstvo čovjeka
+– objavljivati priloge osobito nemoralnog i pornografskog sadržaja
+– na bilo koji način poticati, promicati i veličati nasilje i kriminal te poticati građane, a posebice djecu i mladež, na uporabu duhanskih proizvoda, alkohola, droga ili svih drugih oblika ovisnosti.
+(2) Nisu dopuštene audiovizualne medijske usluge i radijski programi te sadržaji elektroničkih publikacija koji mogu ozbiljno naštetiti fizičkom, mentalnom ili moralnom razvoju maloljetnika, posebno oni koji uključuju bezrazložno nasilje.
+(3) Audiovizualne medijske usluge i radijske programe za koje je vjerojatno da bi mogli naštetiti fizičkom, mentalnom ili moralnom razvoju maloljetnika nije dopušteno objavljivati, osim kada je pružatelj medijske usluge osigurao, odabirom vremena emitiranja, alatima za provjeru dobi ili bilo kojom tehničkom mjerom, da ih maloljetnici u području prijenosa neće, uobičajeno, čuti ili gledati. Ako se audiovizualne komercijalne komunikacije vezane uz igre na sreću te audiovizualne medijske usluge i radijski programi emitiraju u nekodiranom obliku, pružatelj medijske usluge obvezan je osigurati da im prethodi zvučno upozorenje ili da ih je moguće prepoznati s pomoću vizualnih simbola za cijelo vrijeme njihova trajanja.
+(4) Audiovizualne medijske usluge koje sadrže vizualne efekte koji mogu izazvati epilepsiju moraju biti označene odgovarajućom tehničkom mjerom.
+(5) Nije dopušteno objavljivanje informacije kojom se otkriva identitet djeteta do 18. godine života uključenog u slučajeve bilo kojeg oblika nasilja, bez obzira je li svjedok, žrtva ili počinitelj ili je dijete pokušalo ili izvršilo samoubojstvo, a niti iznositi pojedinosti iz djetetovih obiteljskih odnosa i privatnog života.
+(6) Osobni podatci maloljetnika koje su prikupili ili na drugi način dobili pružatelji medijskih usluga u okviru tehničkih mjera za zaštitu maloljetnika ne smiju se obrađivati u komercijalne svrhe, kao što su izravni marketing, izrada profila i ciljano bihevioralno oglašavanje.
+(7) Vijeće pravilnikom propisuje tehničke mjere i način postupanja nakladnika televizije i/ili radija u slučaju iz stavaka 2. do 5. ovoga članka.

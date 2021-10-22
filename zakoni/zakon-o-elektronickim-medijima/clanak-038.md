@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Tijela državne uprave i javne ustanove kojima je osnivač Republika Hrvatska, kao i pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske dužne su 15 % godišnjeg iznosa namijenjenog promidžbi ili oglašavanju svojih usluga ili aktivnosti utrošiti na oglašavanje u audiovizualnim ili radijskim programima regionalnih i lokalnih nakladnika televizije i/ili radija i/ili kod pružatelja elektroničkih publikacija upisanih u Upisnik pružatelja elektroničkih publikacija.
+(2) Tijela i pravne osobe iz stavka 1. ovoga članka dužna su do 31. ožujka svake kalendarske godine izvijestiti Vijeće o obavljenom oglašavanju u protekloj godini i objaviti podatke o oglašavanju na svojim mrežnim stranicama.
