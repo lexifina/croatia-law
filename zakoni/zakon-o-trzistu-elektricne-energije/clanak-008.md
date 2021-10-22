@@ -1,0 +1,8 @@
+## II. OPĆA PRAVILA ZA ORGANIZACIJU SEKTORA ELEKTRIČNE ENERGIJE
+## Konkurentno, fleksibilno i nediskriminacijsko tržište električne energije orijentirano na krajnje kupce
+# Članak 8.
+(1) U Republici Hrvatskoj nije dozvoljeno otežavanje: prekogranične trgovine električnom energijom, sudjelovanja krajnjih kupaca, između ostalog, u upravljanju potrošnjom, ulaganja u proizvodnju energije, posebice promjenjivu i fleksibilnu, skladištenja energije te uvođenja elektromobilnosti ili novih interkonekcijskih vodova između država članica, pri čemu je potrebno osigurati da cijene električne energije odražavaju stvarnu potražnju i ponudu.
+(2) Pri razvoju novih interkonekcijskih vodova uzimaju se u obzir ciljevi elektroenergetske povezanosti utvrđeni u članku 4. točki (d) podtočki 1. Uredbe (EU) 2018/1999.
+(3) Ne dovodeći u pitanje ovlasti koje se zadržavaju u odnosu na treće zemlje, na unutarnjem tržištu električne energije u Republici Hrvatskoj ne postoje prepreke za ulazak na tržište, rad i izlazak s tržišta.
+(4) Elektroenergetski subjekti, pod jednakim uvjetima, podliježu transparentnim, razmjernim i nediskriminacijskim pravilima, naknadama i postupanju u odnosu na odgovornosti za uravnoteženje, pristup veleprodajnim tržištima, pristup podatcima, promjeni opskrbljivača i sustavu obračuna te izdavanju dozvola za obavljanje energetske djelatnosti.
+(5) Sudionici na tržištu iz trećih zemalja prilikom djelovanja na unutarnjem tržištu električne energije Republike Hrvatske moraju poštovati mjerodavno pravo Europske unije te nacionalno pravo, uključujući ono koje se odnosi na politiku okoliša i sigurnosti.

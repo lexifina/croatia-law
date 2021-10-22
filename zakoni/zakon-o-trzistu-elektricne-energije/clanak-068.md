@@ -1,0 +1,20 @@
+## Zadaci operatora distribucijskih sustava
+# Članak 68.
+(1) Operator distribucijskog sustava odgovoran je za osiguravanje dugoročne sposobnosti sustava da udovolji razumnoj potražnji za distribucijom električne energije, za pogon, održavanje i razvoj na temelju ekonomskih uvjeta sigurnog, pouzdanog i učinkovitog sustava distribucije električne energije na svojem području uz dužnu pažnju prema zaštiti okoliša i energetskoj učinkovitosti.
+(2) Operator distribucijskog sustava ne smije diskriminirati korisnike mreže ili kategorije korisnika mreže, posebno ne u korist svojih povezanih društava.
+(3) Operator distribucijskog sustava pri dispečiranju proizvodnih postrojenja dužan je davati prednosti proizvodnim postrojenjima koja upotrebljavaju obnovljive izvore energije ili upotrebljavaju visokoučinkovitu kogeneraciju, u skladu s člankom 12. Uredbe (EU) 2019/943.
+(4) Operator distribucijskog sustava nabavlja električnu energiju za pokrivanje gubitaka električne energije u svojem sustavu u skladu s transparentnim, nediskriminirajućim i tržišno utemeljenim postupcima.
+(5) Operator distribucijskog sustava ne smije trgovati električnom energijom, osim za:
+1. pokrivanje gubitaka električne energije u distribucijskoj mreži
+2. osiguravanje usluga fleksibilnosti u distribucijskoj mreži i
+3. osiguravanje nefrekvencijskih pomoćnih usluga za rad distribuciskog sustava.
+(6) Operator distribucijskog sustava odgovoran je za nabavu proizvoda i usluga za ispunjavanje obveza iz stavka 5. ovoga članka potrebnih za učinkovit, pouzdan i siguran rad distribucijskog sustava, u skladu s objektivnim, transparentnim i nediskriminirajućim pravilima iz članka 52. ovoga Zakona, te mrežnim pravilima distribucijskog sustava iz članka 73. stavka 1. ovoga Zakona.
+(7) Pravilima iz članka 52. ovoga Zakona te mrežnim pravilima distribucijskog sustava iz članka 73. stavka 1. ovoga Zakona određuju se uvjeti i način utvrđivanja cijena za njihovo pružanje.
+(8) U nabavi proizvoda i usluga iz stavka 6. ovoga članka, obveza nabave nefrekvencijskih pomoćnih usluga ne primjenjuje se na potpuno integrirane mrežne komponente.
+(9) Ako je Agencija procijenila, na temelju zahtjeva operatora distribucijskog sustava, da pružanje nefrekvencijskih pomoćnih usluga temeljeno na tržištu nije ekonomski učinkovito, može izdati suglasnost na pravila iz stavka 7. ovoga članka iako se ona u dijelovima ili u cjelini ne temelje na tržišnim načelima.
+(10) Proizvode i usluge iz stavka 6. ovoga članka operator distribucijskog sustava nabavlja od kvalificiranih sudionika na tržištu, što uključuje sudionike na tržištu koji nude energiju iz obnovljivih izvora energije, sudionike na tržištu koji se bave upravljanjem potrošnjom odnosno proizvodnjom, sudionike na tržištu koji se bave skladištenjem energije, proizvođače, agregatore, kao i aktivne kupce te krajnje kupce.
+(11) Postupak kvalifikacije sudionika iz stavka 10. ovoga članka propisuje se pravilima iz članak 52. ovoga Zakona te mrežnim pravilima distribucijskog sustava iz članka 73. stavka 1. ovoga Zakona.
+(12) Operator distribucijskog sustava surađuje s operatorom prijenosnog sustava u svrhu sudjelovanja na tržištima električne energije korisnika mreže priključenih na distribucijsku mrežu.
+(13) Operator distribucijskog sustava i operator prijenosnog sustava sporazumno se dogovaraju o pružanju pomoćnih usluga, usluga uravnoteženja te usluga fleksibilnosti iz resursa priključenih na distribucijsku mrežu u skladu s člankom 57. Uredbe (EU) 2019/943 i člankom 182. Uredbe Komisije (EU) 2017/1485 i Uredbom Komisije (EU) 2017/2195.
+(14) Operator distribucijskog sustava obavlja i djelatnosti odnosno aktivnosti koje nisu predviđene odredbama ovoga Zakona i Uredbom (EU) 2019/943 ako su te djelatnosti odnosno aktivnosti nužne kako bi operator distribucijskog sustava ispunio svoje obveze u skladu s ovim Zakonom i Uredbom (EU) 2019/943, uz uvjet da je Agencija ocijenila potrebu za takvom djelatnosti odnosno aktivnosti.
+(15) Iznimno od stavka 14. ovoga članka, operator distribucijskog sustava može imati u vlasništvu ili razvijati mreže koje nisu elektroenergetske mreže, voditi ih ili upravljati njima.

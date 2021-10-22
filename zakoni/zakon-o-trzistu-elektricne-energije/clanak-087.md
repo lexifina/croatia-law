@@ -1,0 +1,7 @@
+## Zahtjevi u pogledu povjerljivosti i transparentnosti za operatora prijenosnog sustava i vlasnika prijenosnog sustava
+# Članak 87.
+(1) Iznimno od članka 121. ovoga Zakona ili neke druge pravne obveze otkrivanja informacija, operator prijenosnog sustava i vlasnik prijenosnog sustava čuvaju povjerljivost komercijalno osjetljivih informacija dobivenih tijekom obavljanja svojih djelatnosti i sprečavaju da se informacije o vlastitim djelatnostima, koje mogu biti komercijalno korisne, otkriju na diskriminacijski način.
+(2) Operator prijenosnog sustava posebice ne otkriva nikakve komercijalno osjetljive informacije ostalim dijelovima vertikalno integriranog subjekta osim ako je to otkrivanje potrebno za provedbu poslovne transakcije.
+(3) U svrhu potpunog poštovanja pravila o razdvajanju informacija vlasnik prijenosnog sustava i ostali dijelovi vertikalno integriranog subjekta ne koriste se zajedničkim uslugama kao što su zajedničke pravne usluge, osim čisto administrativnih funkcija ili funkcija informacijske tehnologije.
+(4) U kontekstu prodaje ili nabave električne energije od strane povezanih društava, operator prijenosnog sustava ne smije zlorabiti komercijalno osjetljive informacije dobivene od trećih strana prilikom osiguravanja pristupa sustavu ili pregovaranja o njemu.
+(5) Informacije potrebne za stvarno tržišno natjecanje i učinkovito funkcioniranje tržišta javno se objavljuju, čime se ne dovodi u pitanje čuvanje povjerljivosti komercijalno osjetljivih informacija.

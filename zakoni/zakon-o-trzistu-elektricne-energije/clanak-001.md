@@ -1,0 +1,8 @@
+## I. OPĆE ODREDBE
+## Predmet i primjena Zakona
+# Članak 1.
+(1) Ovim se Zakonom propisuju zajednička pravila za proizvodnju, prijenos, distribuciju i skladištenje energije te opskrbu električnom energijom, zajedno s odredbama o zaštiti potrošača, radi stvaranja integriranog, konkurentnog, fleksibilnog, poštenog i transparentnog tržišta električne energije Republike Hrvatske, kao dijela elektroenergetskog tržišta Europske unije.
+(2) Ovim se Zakonom nastoje osigurati prihvatljive i transparentne cijene i troškovi energije za krajnje kupce, visok stupanj sigurnosti opskrbe i neometan prijelaz na održiv energetski sustav s niskom razinom emisije ugljika.
+(3) Ovim se Zakonom utvrđuju pravila koja se odnose na organizaciju i funkcioniranje elektroenergetskog sektora Republike Hrvatske, posebno pravila o osnaživanju i zaštiti krajnjih kupaca, otvorenom pristupu integriranom elektroenergetskom tržištu, pristupu trećih strana infrastrukturi prijenosa i distribucije električne energije, zahtjevima za razdvajanje operatora prijenosnog sustava i pravila o neovisnosti regulatornog tijela.
+(4) Ovim se Zakonom utvrđuju i načini suradnje između Republike Hrvatske i drugih država članica Europske unije, regulatornih tijela i operatora prijenosnih sustava u cilju stvaranja potpuno međusobno povezanog unutarnjeg tržišta električne energije na kojem se potiče integracija energije iz obnovljivih izvora, slobodno tržišno natjecanje i sigurnost opskrbe.
+(5) Na odnose u elektroenergetskom sektoru koji nisu uređeni ovim Zakonom primjenjuju se odredbe zakona kojim se uređuje energetski sektor i regulacija energetskih djelatnosti.

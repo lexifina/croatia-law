@@ -1,0 +1,9 @@
+# Članak 135.
+(1) Nakon 31. prosinca 2023. nije moguće u postojeće programe kojima se zasebno ne iskazuje električna energija koja je predana u mrežu i električna energija koja je preuzeta iz mreže uključivati krajnjeg kupca kao novog korisnika programa.
+(2) Krajnji kupci koji su korisnici postojećih programa iz stavka 1. ovoga članka, kojima se zasebno ne iskazuje električna energija koja je predana u mrežu i električna energija koja je preuzeta iz mreže, mogu odabrati sustav obračuna naknade za korištenje mreže kojim se zasebno iskazuje električna energija koja je predana u mrežu i električna energija koja je preuzeta iz mreže.
+(3) Iznimno od odredbe članka 92. stavka 1. točke 3. ovoga Zakona, od 31. prosinca 2021. planiranje rada elektroenergetskog sustava u kratkoročnom razdoblju uključuje satni plan proizvodnje električne energije iz obnovljivih izvora energije.
+(4) Ako je na dan 3. rujna 2009. prijenosni sustav pripadao vertikalno integriranom subjektu, ne primjenjuje se odredba članka 96. stavaka 1. do 4. ovoga Zakona te se u tom slučaju:
+– određuje neovisnog operatora sustava u skladu s člankom 97. ovoga Zakona ili
+– postupa u skladu s člancima 97., 99., 100., 101., 102., 103. i 104. ovoga Zakona.
+(5) Ako je na dan 3. rujna 2009. prijenosni sustav pripadao vertikalno integriranom subjektu i uspostavljeni su aranžmani koji jamče stvarniju neovisnost operatora prijenosnog sustava nego članci 99. do 104. ovoga Zakona, ne primjenjuje se odredba članka 96. stavaka 1. do 4. ovoga Zakona.
+(6) Ako je na dan 3. rujna 2009. prijenosni sustav pripadao vertikalno integriranom subjektu, iznimno od članka 96. stavaka 1. do 4. ovoga Zakona, Agencija može, na temelju zahtjeva vlasnika prijenosnog sustava, rješenjem odrediti neovisnog operatora sustava, koje određivanje podliježe odobrenju Europske komisije.

@@ -1,0 +1,36 @@
+## V. SKLADIŠTENJE ENERGIJE
+## Skladištenje energije
+# Članak 48.
+(1) Električna energija može se skladištiti u postrojenju u kojem se električna energija pohranjuje pretvorbom u neki drugi oblik energije, a podrazumijeva reverzibilne elektrane, crpne elektrane, električne kotlove sa spremnikom, toplinske pumpe, baterijske spremnike elektrolizatore sa spremnikom vodika i ostale uređaje u koje se električna energija može pohraniti, u nekom obliku, te kasnije predati u prijenosnu ili distribucijsku mrežu.
+(2) Operator skladišta energije koji ima dozvolu za skladištenje energije može sudjelovati na tržištima električne energije i financijski je odgovoran za odstupanja koja uzrokuje u elektroenergetskom sustavu te može, kao subjekt odgovoran za odstupanje, snositi odgovornost za odstupanje ili svoju odgovornost za odstupanje ugovorno prenosi u skladu s člankom 5. Uredbe (EU) 2019/943 i pravilima o uravnoteženju elektroenergetskog sustava.
+(3) Iznimno od odredbe članka 4. stavka 3. ovoga Zakona, pravne ili fizičke osobe mogu obavljati djelatnost skladištenja energije bez dozvole za obavljanje elektroenergetske djelatnosti skladištenja energije ako su osigurale stručno upravljanje i rukovanje energetskim postrojenjima u skladu s tehničkim propisima, zahtjevima i uvjetima te isključivo za obavljanje djelatnosti:
+1. skladištenja energije korištenjem postrojenja za skladištenje energije čiji je zbroj instaliranih snaga do uključivo 500 kW ili
+2. skladištenja energije tijekom pokusnog rada postrojenja za skladištenje energije te tijekom razdoblja od završetka pokusnog rada do ishođenja dozvole za obavljanje elektroenergetske djelatnosti skladištenja energije, a ne dulje od 60 dana od završetka pokusnog rada.
+(4) Skladištenje energije ne smatra se elektroenergetskom djelatnošću iz članka 4. stavka 3. ovoga Zakona ako:
+– je postrojenje za skladištenje energije iza obračunskog mjernog mjesta aktivnog kupca
+– ako se postrojenje za skladištenje energije koristi isključivo za vlastite potrebe pri čemu se električna energija ne predaje u mrežu
+– operator prijenosnog sustava koristi skladištenje energije za ispunjavanje svojih obveza u skladu s odredbama ovoga Zakona
+– operator distribucijskog sustava koristi skladištenje energije za ispunjavanje svojih obveza u skladu s odredbama ovoga Zakona.
+(5) Operator skladišta energije ima pravo:
+1. u svojim postrojenjima za skladištenje energije koristiti tehnologije koje smatra najpovoljnijim za pretvorbu električne energije i skladištenje, uz zadovoljavanje propisanih uvjeta
+2. prodavati i kupovati električnu energiju pod uvjetima utvrđenim odredbama ovoga Zakona i drugim propisima, a posebno pravilima organiziranja veleprodajnih tržišta električne energije
+3. nuditi i pružati pomoćne usluge, usluge fleksibilnosti te usluge uravnoteženja prema uvjetima utvrđenim ovim Zakonom i drugim propisima kojima se uređuju pojedina područja, a na temelju ugovora sklopljenih s operatorom sustava
+4. pristupa mreži i korištenja prijenosne i distribucijske mreže prema propisanim uvjetima.
+(6) Operator skladišta energije dužan je:
+1. trajno ispunjavati sve uvjete iz dozvole za skladištenje energije ako je dozvola potrebna za obavljanje djelatnosti sukladno članku 4. stavku 3. ovoga Zakona
+2. zadovoljavati sve tehničke i pogonske uvjete, osobito one propisane mrežnim pravilima prijenosnog sustava i mrežnim pravilima distribucijskog sustava te propisane tehničkim i drugim propisima i normama
+3. zadovoljavati propisane uvjete koji se odnose na energetsku učinkovitost i zaštitu okoliša
+4. postupati u skladu s pravilima zaštite tržišnog natjecanja prilikom sudjelovanja na tržištu električne energije, uključujući zabranu neopravdanog povlačenja kapaciteta postrojenja za skladištenje energije i zabranu neopravdanog smanjenja predaje električne energije u mrežu ili neopravdanog smanjenja preuzimanja električne energije iz mreže
+5. održavati postrojenja za skladištenje energije u ispravnom stanju, osigurati njihovu pogonsku spremnost i sigurno korištenje u skladu s tehničkim i drugim propisima i normama
+6. na zahtjev operatora prijenosnog sustava ili operatora distribucijskog sustava pružiti pomoćne usluge, usluge fleksibilnosti odnosno usluge uravnoteženja
+7. staviti na raspolaganje operatoru prijenosnog sustava ili operatoru distribucijskog sustava podatke potrebne za pogon i vođenje elektroenergetskog sustava po postrojenju za skladištenje energije
+8. staviti na raspolaganje operatoru tržišta električne energije, Ministarstvu i Agenciji podatke potrebne za određivanje bilance skladištenja energije iz pojedinog postrojenja za skladištenje energije.
+(7) Agencija nadzire operatora skladišta energije na tržištu električne energije u cilju osiguravanja primjene načela zaštite tržišnog natjecanja.
+(8) Operator skladišta energije na obračunskom mjernom mjestu postrojenja za skladištenje energije ne smatra se krajnjim kupcem u smislu odredbi ovoga Zakona, osim u dijelu vlastite potrošnje.
+(9) Operator skladišta energije na obračunskom mjernom mjestu postrojenja za skladištenje energije instalirane snage veće od 500 kW može osigurati električnu energiju na veleprodajnom tržištu.
+(10) Operator skladišta energije dužan je izraditi i javno objaviti program mjera za poboljšanje energetske učinkovitosti te godišnje izvješće o rezultatima njegove primjene.
+(11) Ministarstvo, ako procijeni da je potrebno postaviti dodatne zahtjeve za poboljšanje energetske učinkovitosti u skladištenju energije, može odlukom propisati minimalni stupanj učinkovitosti za pojedine tehnologije koji treba postići prilikom izgradnje novog ili rekonstrukcije postojećeg postrojenja za skladištenje energije.
+(12) Postrojenja za skladištenje energije koja su priključena na prijenosnu mrežu i postrojenja za skladištenje energije koja su priključena na distribucijsku mrežu, a od značenja su za ostvarenje usluga u prijenosnoj mreži te za vođenje elektroenergetskog sustava, tehnički se osposobljavaju za pružanje pomoćnih usluga, na zahtjev operatora prijenosnog sustava, u skladu s mrežnim pravilima prijenosnog sustava iz članka 93. stavka 2. ovoga Zakona i mrežnim pravilima distribucijskog sustava iz članka 74. stavka 3. ovoga Zakona.
+(13) Postrojenja za skladištenje energije koja su priključena na distribucijsku mrežu, a od značenja su za ostvarenje usluga u distribucijskoj mreži te za vođenje distribucijskog sustava, tehnički se osposobljavaju za pružanje pomoćnih usluga za distribucijsku mrežu, na zahtjev operatora distribucijskog sustava, u skladu s mrežnim pravilima distribucijskog sustava iz članka 74. stavka 3. ovoga Zakona.
+(14) Operator skladišta energije čija su postrojenja za skladištenje energije tehnički osposobljena za pružanje pomoćnih usluga dužan je, ako je u mogućnosti, pružiti pomoćne usluge na zahtjev operatora sustava po reguliranim uvjetima ako pružanje pomoćnih usluga temeljeno na tržišnim načelima nije moguće ili nije ekonomski učinkovito.
+(15) Naknade za priključenje postrojenja za skladištenje energije na mrežu moraju biti utemeljene na stvarnim troškovima tehničkog priključenja na mrežu u smislu preuzimanja električne energije iz mreže, bez podlijeganja nerazmjernim administrativnim postupcima ili troškovima.

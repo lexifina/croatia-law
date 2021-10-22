@@ -1,0 +1,6 @@
+## Zaštita od postupanja operatora tržišta električne energije
+# Članak 51.
+(1) Strana nezadovoljna postupanjem odnosno poduzimanjem ili propuštanjem radnje operatora tržišta električne energije koja ima učinak na njezina prava, obveze ili pravne interese, a o kojima se ne rješava u upravnom postupku ili kada je zakonom propisana sudska ili druga pravna zaštita, može operatoru tržišta električne energije izjaviti prigovor u pisanom obliku, sve dok traje radnja ili propuštanje radnje operatora tržišta električne energije. Prigovor mora sadržavati činjenice i dokaze na kojima se temelji.
+(2) Ako po odluci operatora tržišta električne energije iz stavka 1. ovoga članka nezadovoljna strana i dalje smatra da su joj postupanjem operatora tržišta električne energije povrijeđena prava ili pravni interesi, može radi zaštite svojih prava izjaviti žalbu Agenciji.
+(3) Agencija je dužna bez odgode, a najkasnije u roku od 30 dana od dana izjavljivanja žalbe, obavijestiti nezadovoljnu stranu u pisanom obliku o mjerama koje je u povodu žalbe poduzela.
+(4) Ako nezadovoljna strana nije zadovoljna poduzetim mjerama ili u propisanom roku nije obaviještena o poduzetim mjerama, može pokrenuti upravni spor. Postupak pred upravnim sudom je hitan.

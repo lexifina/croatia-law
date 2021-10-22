@@ -1,0 +1,11 @@
+## Razdvajanje računa
+# Članak 125.
+(1) Elektroenergetski subjekti, bez obzira na njihov sustav vlasništva ili pravni oblik, sastavljaju, podnose na reviziju i objavljuju svoja godišnja financijska izviješća, u skladu s propisima koji se odnose na godišnja financijska izviješća društava s ograničenom odgovornošću donesenim na temelju propisa kojim se uređuje područje računovodstva.
+(2) Elektroenergetski subjekti koji nemaju zakonsku obvezu objavljivanja svojih financijskih izviješća čuvaju njihovu kopiju na raspolaganju javnosti u svojim sjedištima.
+(3) Elektroenergetski subjekti u svojem internom računovodstvu vode odvojene račune za svaku od svojih djelatnosti prijenosa i distribucije, kao što bi se od njih zahtijevalo kada bi predmetne djelatnosti obavljali odvojeni subjekti radi izbjegavanja diskriminacije, unakrsnog subvencioniranja i narušavanja tržišnog natjecanja. Elektroenergetski subjekti također vode računovodstvenu dokumentaciju, koja može biti konsolidirana, za druge elektroenergetske djelatnosti koje nisu povezane s prijenosom ili distribucijom. U financijskim izviješćima se specificiraju prihodi od vlasništva nad prijenosnim ili distribucijskim sustavom. Prema potrebi vode konsolidiranu računovodstvenu dokumentaciju za druge, neelektroenergetske djelatnosti. Interna financijska izviješća uključuje bilancu i račun dobiti i gubitka za svaku od djelatnosti.
+(4) Revizijom iz stavka 1. ovoga članka posebno se provjerava poštivanje obveze izbjegavanja diskriminacije i unakrsnog subvencioniranja iz stavka 3. ovoga članka.
+(5) Elektroenergetski subjekti dužni su poslovne knjige i financijska izvješća voditi odnosno sastavljati u skladu s odredbama ovoga Zakona, zakonom kojim se uređuje područje energije te propisima o računovodstvu poduzetnika.
+(6) Elektroenergetski subjekti iz stavka 2. ovoga članka podnose Agenciji:
+1. godišnja zakonska financijska izvješća u roku od 20 dana od datuma propisanog zakonom
+2. godišnja financijska izvješća za svaku elektroenergetsku djelatnost prijenosa električne energije, distribucije električne energije i opskrbe električnom energijom pod obvezom javne usluge zasebno te odvojeno od ostalih elektroenergetskih djelatnosti i onih djelatnosti koje nisu energetske u roku navedenom u točki 1. ovoga stavka i
+3. ostale financijske izvještaje čiju će formu, sadržaj i rok propisati Agencija.

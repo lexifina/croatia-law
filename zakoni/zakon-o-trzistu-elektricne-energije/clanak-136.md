@@ -1,0 +1,3 @@
+# Članak 136.
+(1) Opskrbljivač, koji je do stupanja na snagu ovoga Zakona opskrbljivao krajnje kupce iz kategorije kućanstvo u okviru univerzalne usluge prema odredbama Zakona o tržištu električne energije (»Narodne novine«, br. 22/13., 95/15., 102/15., 68/18. i 52/19.) dužan je danom stupanja na snagu ovoga Zakona nastaviti s opskrbom krajnjih kupaca prema uvjetima opskrbe koja se obavlja u okviru univerzalne usluge do donošenja odluke iz članka 40. stavka 2. ovoga Zakona.
+(2) Vlasnik distribucijskog sustava iz članka 82. ovoga Zakona dužan je ustanoviti i urediti zatvoreni distribucijski sustav iz članaka 82., 83. i 84. ovoga Zakona najkasnije do 31. prosinca 2024.

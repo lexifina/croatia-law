@@ -1,0 +1,8 @@
+## Obavljanje djelatnosti distribucije električne energije
+# Članak 69.
+(1) Operator distribucijskog sustava dužan je obavljati elektroenergetsku djelatnost distribucije električne energije pod uvjetima koji su određeni dozvolom za obavljanje elektroenergetske djelatnosti prema načelima objektivnosti, razvidnosti i nepristranosti na cijelom području Republike Hrvatske u skladu s odredbama ovoga Zakona.
+(2) Ugovorom o međusobnim odnosima operator distribucijskog sustava obvezan je urediti prava i obveze sa svim elektroenergetskim subjektima u čije ime naplaćuje naknade u skladu s odredbama ovog Zakona i drugim propisima.
+(3) Operator distribucijskog sustava obvezan je priključivati korisnike distribucijske mreže na distribucijsku mrežu u skladu s člankom 12. stavkom 1. ovoga Zakona.
+(4) Operator distribucijskog sustava dužan je na cijelom području Republike Hrvatske primjenjivati iste tarifne stavke za distribuciju električne energije za istu kategoriju i model korištenja mreže, osobito s obzirom na naponsku razinu priključka i tarifne elemente.
+(5) Elektroenergetski subjekti i krajnji kupci u čijem su vlasništvu uređaji za pružanje pomoćnih usluga u distribucijskom sustavu dužni su, na zahtjev operatora distribucijskog sustava, bez odgađanja pružati pomoćne usluge radi postizanja sigurnog i pouzdanog rada distribucijskog sustava. Međusobna prava i obveze uređuju se pravilima iz članka 52. ovoga Zakona te ugovorom o pružanju pomoćnih usluga za distribucijsku mrežu.
+(6) U pogledu kvalitete opskrbe električnom energijom operator distribucijskog sustava dužan je postupati u skladu s propisima iz članaka 59., 60. i 61. ovoga Zakona.

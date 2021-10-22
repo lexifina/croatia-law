@@ -1,0 +1,13 @@
+## Upravljanje potrošnjom putem agregiranja
+# Članak 28.
+(1) Krajnji kupac može samostalno ili putem agregiranja ravnopravno sudjelovati na svim tržištima električne energije u skladu s pravilima koja uređuju pojedina tržišta električne energije.
+(2) Agregator može sudjelovati na svim tržištima električne energije u skladu s pravilima koja uređuju pojedina tržišta električne energije.
+(3) Operator sustava pri nabavi pomoćnih usluga ravnopravno postupa s pružateljima pomoćnih usluga, neovisno o tome radi li se o agregatoru, krajnjem kupcu koji sudjeluje u upravljanju potrošnjom, operatoru skladišta energije ili proizvođaču, a u skladu s uvjetima određenim pravilima iz članka 52. stavaka 8., 18., 23., 27. i 31. ovoga Zakona.
+(4) Agregator je subjekt odgovoran za odstupanje ili svoju odgovornost za odstupanje ugovorno prenosi u skladu s člankom 5. Uredbe (EU) 2019/943 i pravilima o uravnoteženju elektroenergetskog sustava iz članka 52. stavka 9. ovoga Zakona.
+(5) Opskrbljivač ne smije svojem krajnjem kupcu koji je sklopio ugovor s neovisnim agregatorom naplatiti neopravdane troškove ili ugovorne kazne odnosno nametnuti druga neopravdana ugovorna ograničenja diskriminacijskih, tehničkih, upravljačkih zahtjeva ili postupaka.
+(6) Krajnji kupac koji samostalno ili preko neovisnog agregatora sudjeluje u upravljanju potrošnjom plaća naknadu svom opskrbljivaču koji je izravno pogođen aktiviranjem upravljanja potrošnjom.
+(7) Naknada iz stavka 6. ovoga članka ne smije stvoriti prepreku za ulazak na tržište neovisnog agregatora ili prepreku za pružanje usluga fleksibilnosti.
+(8) Naknada iz stavka 6. ovoga članka je strogo ograničena na pokrivanje troškova opskrbljivača kupca koji sudjeluje u upravljanju potrošnjom putem agregiranja, troškova opskrbljivača kupca koji samostalno sudjeluje u upravljanju potrošnjom ili troškova opskrbljivačevog voditelja bilančne grupe, a koji su im uzrokovani aktivacijom upravljanja potrošnjom.
+(9) Način utvrđivanja naknade iz stavka 6. ovoga članka propisan je pravilima o uravnoteženju elektroenergetskog sustava iz članka 52. stavka 9. ovoga Zakona.
+(10) Način utvrđivanja naknade iz stavka 9. ovoga članka može uzeti u obzir koristi koje su drugi sudionici na tržištu ostvarili zahvaljujući neovisnom agregatoru i u tom se slučaju od agregatora ili kupca koji samostalno sudjeluje u upravljanju potrošnjom može zahtijevati doprinos toj naknadi jedino ako, i u mjeri u kojoj, koristi svim opskrbljivačima, krajnjim kupcima i njihovim subjektima odgovornim za odstupanje ne nadilaze izravne troškove koji su zbog njih nastali.
+(11) Odredbe stavaka 1. do 10. ovoga članka na odgovarajući se način primjenjuju na korisnika mreže koji proizvodi električnu energiju ili skladišti energiju.

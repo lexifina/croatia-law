@@ -1,0 +1,5 @@
+## Sudionici na tržištu
+# Članak 53.
+(1) Sudionik na tržištu može biti elektroenergetski subjekt ili druga pravna ili fizička osoba na temelju prava na sudjelovanje na tržištu električne energije u skladu s odredbama ovoga Zakona te pravilima kojima se uređuju pojedina tržišta električne energije.
+(2) Sudionici na tržištu ugovorno uređuju međusobna prava i obveze u skladu s odredbama ovoga Zakona, zakona kojim se uređuje energetski sektor, kao i propisima donesenim na temelju tih zakona.
+(3) Operator sustava, operator tržišta električne energije i burza električne energije su sudionici na tržištu električne energije, s obzirom na obvezu kupnje električne energije za pokriće gubitaka u prijenosnoj i distribucijskoj mreži, na kupnju i prodaju energije uravnoteženja, kupnju i prodaju električne energije proizvedene iz obnovljivih izvora energije i visokoučinkovite kogeneracije te na trgovanje na burzi električne energije, a što se detaljnije uređuje podzakonskim aktima donesenim na temelju ovoga Zakona i propisa kojim se uređuje područje obnovljivih izvora energije.

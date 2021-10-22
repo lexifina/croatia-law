@@ -1,0 +1,6 @@
+## Nadzorni odbor
+# Članak 102.
+(1) Neovisni operator prijenosa ima nadzorni odbor koji ima ovlasti za donošenje odluka koje mogu imati značajan utjecaj na vrijednost osnovnih sredstava vlasnika udjela/članova društva neovisnog operatora prijenosa, posebno odluka koje se odnose na odobravanje godišnjih i dugoročnijih financijskih planova, razinu zaduženosti neovisnog operatora prijenosa i iznos dividendi/dobiti raspodijeljenih vlasnicima udjela/članovima društva. Odluke koje su u nadležnosti nadzornog odbora ne uključuju one koje su povezane sa svakodnevnim aktivnostima neovisnog operatora prijenosa i upravljanjem prijenosnom mrežom te s aktivnostima nužnima za pripremanje i izradu desetogodišnjeg plana razvoja mreže razvijenog na temelju članka 104. ovoga Zakona.
+(2) Nadzorni odbor sastavljen je od predstavnika vertikalno integriranog subjekta, predstavnika članova društva treće strane i predstavnika drugih zainteresiranih strana kao što su radnici neovisnog operatora prijenosa.
+(3) Odredba članka 101. stavci 4., 6., 7., 8. i 9. ovoga Zakona primjenjuju se na najmanje polovicu članova nadzornog odbora, umanjenu za jednog člana.
+(4) Odredba članka 101. stavka 4. podstavka 2. ovoga Zakona primjenjuje se na sve članove nadzornog odbora.

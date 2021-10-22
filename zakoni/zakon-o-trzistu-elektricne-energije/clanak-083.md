@@ -1,0 +1,12 @@
+## Obavljanje djelatnosti operatora zatvorenog distribucijskog sustava
+# Članak 83.
+(1) Operator zatvorenog distribucijskog sustava koji podnosi zahtjev iz članka 82. stavka 3. ovoga Zakona mora biti tehnički, stručno i financijski kvalificiran za obavljanje te djelatnosti u zatvorenom distribucijskom sustavu, odnosno dužan je od strane Agencije prethodno ishoditi dozvolu za obavljanje predmetne energetske djelatnosti.
+(2) Uvjete kvalificiranosti operatora zatvorenog distribucijskog sustava iz stavka 1. ovoga članka Agencija će utvrđivati u postupku donošenja rješenja iz članka 82. stavka 3. ovoga Zakona, primjenom odredbi propisa kojim se određuju dozvole za obavljanje energetskih djelatnosti i vođenju registra izdanih i oduzetih dozvola za obavljanje energetskih djelatnosti koje se odnose na uvjete kvalificiranosti za obavljanje energetske djelatnosti distribucije električne energije.
+(3) Operator zatvorenog distribucijskog sustava dužan je obavljati djelatnost distribucije električne energije u zatvorenom distribucijskom sustavu za koje je dobio rješenje Agencije iz članka 82. stavka 3. ovoga Zakona pod uvjetima utvrđenim rješenjem.
+(4) Operator zatvorenog distribucijskog sustava nije dužan u zatvorenom distribucijskom sustavu za koje je dobio rješenje Agencije iz članka 82. stavka 3. ovoga Zakona:
+1. nabavljati električnu energiju koju upotrebljava za pokrivanje gubitaka električne energije i za nefrekvencijske pomoćne usluge u svojem sustavu u skladu s transparentnim, nediskriminacijskim i tržišno utemeljenim postupcima kako je propisano člankom 68. stavkom 10. ovoga Zakona
+2. nabavljati usluge fleksibilnosti u skladu s člankom 75. stavkom 3. ovoga Zakona
+3. razvijati sustave operatora na temelju planova za razvoj mreže iz članka 72. stavka 1. ovoga Zakona.
+(5) Operator zatvorenog distribucijskog sustava može imati u vlasništvu, razvijati i voditi stanice za punjenje električnih vozila i postrojenja za skladištenje energije te njima upravljati.
+(6) Operator zatvorenog distribucijskog sustava obvezan je ugovorom o međusobnim odnosima urediti prava i obveze sa svim elektroenergetskim subjektima u čije ime od korisnika zatvorenog distribucijskog sustava naplaćuje naknade u skladu s odredbama ovoga Zakona i drugim propisima.
+(7) Operator zatvorenog distribucijskog sustava dužan je na pojedinom zatvorenom distribucijskom sustavu primjenjivati istu tarifnu metodologiju za istu kategoriju korisnika zatvorenog distribucijskog sustava.

@@ -1,0 +1,5 @@
+## Zaštita od postupanja univerzalnog opskrbljivača ili zajamčenog opskrbljivača
+# Članak 65.
+(1) Strana nezadovoljna radom univerzalnog opskrbljivača ili zajamčenog opskrbljivača može izjaviti prigovor Agenciji u pisanom obliku.
+(2) Prigovor iz stavka 1. ovoga članka podnosi se u vezi s odbijanjem pružanja univerzalne usluge opskrbe krajnjim kupcima koji imaju pravo na taj način opskrbe, odbijanjem pružanja zajamčene usluge opskrbe krajnjim kupcima koji imaju pravo na taj način opskrbe i primjenom metodologije za određivanje cijene električne energije u okviru zajamčene usluge opskrbe.
+(3) Agencija je dužna bez odgode, a najkasnije u roku od 30 dana od dana izjavljivanja prigovora, obavijestiti nezadovoljnu stranu u pisanom obliku o mjerama koje je u povodu prigovora poduzela. Ako nezadovoljna strana nije zadovoljna poduzetim mjerama ili u propisanom roku nije obaviještena o poduzetim mjerama, može pokrenuti upravni spor.
