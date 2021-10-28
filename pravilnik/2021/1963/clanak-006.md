@@ -1,0 +1,2 @@
+# Članak 6.
+Nije dopuštena prisutnost drugih oznaka, simbola ili natpisa koji nisu u skladu sa zahtjevima ovoga Pravilnika na oznakama ekonomičnosti potrošnje goriva i specifičnih emisija CO2 iz članka 7. ovoga Pravilnika, u Vodiču o ekonomičnosti potrošnje goriva i emisijama CO2 iz članka 9. ovoga Pravilnika te na plakatima, elektroničkim zaslonima i promidžbenim materijalima iz članaka 12. i 13. ovoga Pravilnika, koji se odnose na potrošnju goriva ili emisije CO2.

@@ -1,0 +1,1 @@
+Na temelju članka 219. stavka 6. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/2013, 153/2013 - Zakon o gradnji, 78/2015, 12/2018 i 118/2018) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/2019), ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

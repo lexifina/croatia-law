@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Za informiranje potrošača o službenoj potrošnji goriva i službenim specifičnim emisijama CO2, kako su definirani u članku 3. stavku 1. točkama 16. i 17. ovoga Pravilnika, smiju se koristiti samo vrijednosti službene potrošnje goriva i službenih specifičnih emisija CO2 novih osobnih vozila koje su dobivene WLTP ispitnim postupkom.
+(2) Vrijednosti službene potrošnje goriva i službenih specifičnih emisija CO2 moraju odgovarati vrijednostima službene potrošnje goriva i službenih specifičnih emisija CO2 novih osobnih vozila dostupnih na tržištu kako su navedene u certifikatima o sukladnosti.
+(3) Kako bi se osigurala usporedivost, potrošačima moraju biti dostupne barem kombinirane vrijednosti službene potrošnje goriva i službenih specifičnih emisija CO2 prema WLTP ispitnom postupku.
