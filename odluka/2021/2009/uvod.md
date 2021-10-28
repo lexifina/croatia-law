@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 5. Zakona o popisu stanovništva, kućanstava i stanova u Republici Hrvatskoj 2021. godine (»Narodne novine«, br. 25/20. i 34/21.), Vlada Republike Hrvatske je na sjednici održanoj 28. listopada 2021. donijela
