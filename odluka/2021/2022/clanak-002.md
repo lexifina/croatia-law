@@ -1,0 +1,3 @@
+# Članak 2.
+Obračun i naplata naknade za razvoj za korisnike usluge javne odvodnje u interesu je jedinice lokalne samouprave (u daljnjem tekstu: JLS) na području gdje se pruža usluga odvodnje (područje nadležnosti Isporučitelja obuhvaća samo grad Hvar) u nadležnosti Isporučitelja.
+Obračun i naplata naknade za razvoj za korisnike usluge javne vodoopskrbe u interesu je jedinice lokalne samouprave (u daljnjem tekstu: JLS) na vodoopskrbnom području (područje obuhvaća područje Grada Hvara uključujući sva naselja u JLS). Obračun i naplatu naknade za razvoj vrši Hvarski vodovod d.o.o., ali je u nadležnosti Isporučitelja, tj naknada za razvoj za korisnike usluge javne vodoopskrbe prihod je Isporučitelja.

@@ -1,0 +1,7 @@
+# Članak 7.
+Naknada za razvoj sustava javne odvodnje, utvrđuje po dvije osnove, i to:
+- naknada za razvoj sustava javne odvodnje za lokalne potrebe iznosi 0,9 kuna po m3 na cijenu utrošene vode isporučene korisnicima vodne usluge javne odvodnje (za grad Hvar),
+- naknada za razvoj za zajedničke potrebe razvoja sustava javne odvodnje iznosi 1,48 kuna po m3 na cijenu utrošene vode isporučene korisnicima vodne usluge javne vodoopskrbe (za područje Grada Hvara).
+Obveznici plaćanja naknade za razvoj u iznosu 0,9 kuna po m3 na cijenu utrošene vode isporučene korisnicima javne odvodnje su svi korisnici javne odvodnje na obračunskom području grada Hvara. Naknadu za razvoj korisnicima obračunava Odvodnja Hvar d.o.o. putem računa za vodnu uslugu javne odvodnje.
+Obveznici plaćanja naknade za razvoju u iznosu 1,48 kuna po m3 na cijenu utrošene vode isporučene korisnicima javne vodoopskrbe su svi korisnici javne vodoopskrbe na obračunskom području Grada Hvara. Naknadu za razvoj naplaćuje se korisnicima temeljem računa koje obveznicima ispostavlja Hvarski vodovod d.o.o. (za uslugu javne vodoopskrbe), a prihod je isporučitelja vodnih usluga Odvodnja Hvar d.o.o.
+Hvarski vodovod d.o.o. obvezuje se prikupljenu naknadu u iznosu 1,48 kn/m3, za financiranje gradnje KVG-a iz čl. 5. (potrebe gradnje i rekonstrukcije sustava javne odvodnje na području Grada Hvara), dnevno prazniti/doznačiti na račun Odvodnje Hvar d.o.o., IBAN: HR38 2340 0091 5108 8221 5.

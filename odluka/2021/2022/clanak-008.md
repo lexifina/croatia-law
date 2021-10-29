@@ -1,0 +1,2 @@
+# Članak 8.
+Prihodi od naknade za razvoj za lokalne potrebe koriste za financiranje gradnje KVG-a od interesa za korisnike vodnih usluga grada Hvara, dok se prihodi od naknade za razvoj za zajedničke potrebe koriste se za financiranje gradnje KVG-a od interesa za korisnike vodnih usluga na cijelom uslužnom području (područje Grada Hvara) ili njegovu pretežitom dijelu, sve po načelu ravnomjernog razvoja odnosno prvenstva u potrebama i solidarnosti.
