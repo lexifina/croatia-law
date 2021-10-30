@@ -1,0 +1,2 @@
+# Članak 10.
+Postupci uklanjanja nepokretnih kulturnih dobara zaštićenih posebnim rješenjima, građevina unutar zaštićene kulturno-povijesne cjeline ili njihova dijela, koji su započeti prema odredbama Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, br. 69/99., 151/03., 157/03. - ispravak, 100/04., 87/09., 88/10., 61/11., 25/12., 136/12., 157/13., 152/14., 98/15., 44/17., 90/18., 32/20. i 62/20.), a nisu dovršeni do dana stupanja na snagu ovoga Zakona, dovršit će se prema odredbama članka 2. ovoga Zakona.
