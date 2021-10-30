@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Ugovorne stranke oslobađaju se od plaćanja carine i poreza na materijale i proizvode koji su dokazano utrošeni u postupcima održavanja iz članka 2. ovoga Sporazuma, te sredstva, opremu, strojeve i uređaje upotrjebljene za izvođenje radova u sklopu održavanja, koji se nakon završetka radova dokazano vrate na državno područje ugovorne stranke iz koje su izvezeni.
+(2) Materijali, proizvodi, oprema i druga sredstva za rad, navedeni u stavku 1. ovoga članka, podliježu nadzoru carinskih tijela ugovornih stranaka.
+(3) Ako materijali, proizvodi, oprema i druga sredstva za rad, navedeni u stavku 1. ovoga članka, nisu dokazano utrošeni ili nisu vraćeni na državno područje ugovorne stranke iz koje su izvezeni, nastaje obveza plaćanja carine i drugih javnih davanja sukladno propisima ugovorne stranke na čijem području je nastao carinski dug.
