@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Vlada će uskladiti Program mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine«, br. 99/21.) s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+(2) Do usklađivanja Programa mjera iz stavka 1. ovoga članka na odgovarajući se način primjenjuje Program mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine«, broj 99/21.).

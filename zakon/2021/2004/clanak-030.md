@@ -1,0 +1,9 @@
+# Članak 30.
+Naslov iznad članka 42. mijenja se i glasi: »Odabir sudionika u gradnji«.
+Članak 42. mijenja se i glasi:
+»(1) U svrhu provedbe ovoga Zakona na nabavu robe, usluga i radova čija je procijenjena vrijednost manja od vrijednosti europskih pragova koje Europska komisija objavljuje u Službenom listu Europske unije, ovisno o vrsti naručitelja i vrsti ugovora, izraženih u odgovarajućoj vrijednosti u nacionalnoj valuti sukladno važećoj Komunikaciji Europske komisije objavljenoj u Službenom listu Europske unije (europski prag), primjenjuju se odredbe pravilnika iz stavka 2. ovoga članka.
+(2) Ministar će donijeti pravilnik kojim će, u skladu s mjerama antikorupcijske zaštite, urediti pravila o postupku nabave robe, usluga i radova iz stavka 1. ovoga članka radi sklapanja ugovora o nabavi robe, usluga ili radova i pravila žalbenog postupka, uzimajući u obzir načela javne nabave te obvezu primjene elektroničkih sredstava komunikacije i javne objave informacija o postupcima nabave.
+(3) Za rješavanje o žalbama u postupcima provedenima sukladno pravilniku iz stavka 2. ovoga članka, za nabavu robe i usluga procijenjene vrijednosti jednake ili veće od 200.000,00 kn bez PDV-a te provedbu projektnih natječaja i nabavu radova procijenjene vrijednosti jednake ili veće od 500.000,00 kn bez PDV-a nadležna je Državna komisija za kontrolu postupaka javne nabave (u daljnjem tekstu: Državna komisija).
+(4) U postupku iz stavka 3. ovog članka žalba se izjavljuje u roku od osam dana od dana objave odluke o odabiru ili poništenju, u odnosu na poziv na dostavu ponude, postupak pregleda, ocjene i odabira ponuda, ili razloge poništenja.
+(5) Protiv odluke Državne komisije nije dopuštena žalba, ali se može pokrenuti upravni spor pred Visokim upravnim sudom Republike Hrvatske.
+(6) Ako Visoki upravni sud Republike Hrvatske poništi odluku Državne komisije, svojom će presudom odlučiti i o žalbi u postupku nabave.«.

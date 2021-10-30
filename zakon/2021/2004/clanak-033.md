@@ -1,0 +1,8 @@
+# Članak 33.
+Naslov iznad članka 46. mijenja se i glasi: »Područje Krapinsko-zagorske i Zagrebačke županije«.
+U članku 46. stavku 1. riječi: »Sisačko-moslavačka županija i Karlovačka županija« brišu se.
+U stavku 2. riječi: »Sisačko-moslavačke županije i Karlovačke županije« i riječi: »Sisačko-moslavačka županija i Karlovačka županija« brišu se.
+Stavak 3. mijenja se i glasi:
+»(3) Vlasniku stana odnosno srodniku u pravoj liniji vlasnika stana u kojem je vlasnik odnosno srodnik vlasnika i zaštićeni najmoprimac stanovao i imao prijavljeno prebivalište ili boravište u vrijeme nastanka nepogode ili katastrofe iz članka 1. stavka 1. ovoga Zakona u višestambenoj zgradi, stambeno-poslovnoj zgradi na području Krapinsko-zagorske županije, Zagrebačke županije, koja se uklanja na temelju ovoga Zakona, Krapinsko-zagorska županija odnosno Zagrebačka županija dat će, na njegov zahtjev, u najam na neodređeno vrijeme stan odgovarajuće veličine. Republika Hrvatska će vlasniku stana koji se nalazi u višestambenoj zgradi ili stambeno-poslovnoj zgradi koja se uklanja na temelju ovoga Zakona, a koji je je to bio u vrijeme nastanka nepogode ili katastrofe iz članka 1. stavka 1. ovoga Zakona, na njegov zahtjev, u vlasništvo dati stan odgovarajuće veličine, uz obvezu prenošenja vlasništva zemljišta na kojem se nalazila uklonjena zgrada u korist Republike Hrvatske.«.
+U stavku 4. riječi: »Sisačko-moslavačke županije i Karlovačke županije« i riječi: »Sisačko-moslavačka županija i Karlovačka županija« brišu se.
+U stavku 5. riječi: »u najam na određeno vrijeme stan odgovarajuće veličine do 1. rujna 2023., sukladno posebnom zakonu« zamjenjuju se riječima: »u najam stan odgovarajuće veličine na vrijeme određeno posebnim zakonom«.

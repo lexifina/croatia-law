@@ -1,0 +1,4 @@
+# Članak 43.
+(1) Ministarstvo, Središnji državni ured za obnovu i stambeno zbrinjavanje i Fond za obnovu obvezni su uspostaviti odgovarajuće sustave kontrole postupaka obnove koje provode sukladno svom djelokrugu s ciljem prevencije i sprečavanja zlouporaba u provođenju postupaka obnove.
+(2) Radi osiguranja zakonite i transparentne provedbe postupaka obnove Ministarstvo, Središnji državni ured za obnovu i stambeno zbrinjavanje i Fond za obnovu dužni su svakih šest mjeseci podnositi Vladi sveobuhvatno izvješće o izvršenju svih poslova i poduzetim mjerama i aktivnostima vezanim za obnovu, sukladno odredbama ovoga Zakona.
+(3) Grad Zagreb, Krapinsko-zagorska županija, Zagrebačka županija, Sisačko-moslavačka županija i Karlovačka županija dužni su svakih šest mjeseci podnositi Vladi putem Ministarstva sveobuhvatno izvješće o izvršenju svih poslova i poduzetim mjerama i aktivnostima vezanim za obnovu, sukladno odredbama ovoga Zakona.
