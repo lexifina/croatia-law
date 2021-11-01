@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, broj 80/13, 14/14, i 32/19) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministra zdravstva i ministra vanjskih i europskih poslova donosi

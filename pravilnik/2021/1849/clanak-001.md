@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi (»Narodne novine«, broj 20/20. i 87/20.) u članku 1. stavku 2. iza točke 62. dodaje se točka 63. koja glasi:
+»63. Delegirana direktiva Komisije (EU) 2021/647 оd 15. siječnja 2021. o izmjeni, u svrhu prilagodbe znanstvenom i tehničkom napretku, Priloga III. Direktivi 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za određene spojeve olova i šesterovalentnog kroma u električnim i elektroničkim sklopovima za iniciranje eksploziva za civilnu (profesionalnu) uporabu (Tekst značajan za EGP) (SL L 133, 20. 4. 2021.).«
