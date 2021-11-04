@@ -1,0 +1,4 @@
+# Članak 7.
+(1) U skladu s mjerodavnim pravnim propisima EU-a za pojedino financijsko razdoblje EU-a programsko tijelo iz članka 6. ovoga Zakona nadležno za upravljanje i kontrolu pojedinim programom može delegirati dio svojih funkcija na jedno ili više tijela, pri čemu navedeno programsko tijelo zadržava cjelokupnu odgovornost za upravljanje programom i obnašanje svih funkcija upravljačkih tijela.
+(2) Tijela iz članka 6. ovoga Zakona moraju osigurati obavljanje dužnosti i funkcija iz stavka 1. ovoga članka u zadanim rokovima, uz njihovo odgovarajuće razdvajanje.
+(3) Vlada Republike Hrvatske uredbama će odrediti tijela iz članka 6. ovoga Zakona te iz stavka 1. ovoga članka, razraditi njihove međusobne odnose, funkcije i odgovornosti u okviru pojedinog sustava upravljanja i kontrole, u skladu s njihovim zakonski propisanim djelokrugom i mjerodavnim pravnim propisima EU-a, ovisno o specifičnostima pojedinog programskog dokumenta iz članka 3. ovoga Zakona.
