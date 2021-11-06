@@ -1,0 +1,5 @@
+# Članak 52.
+(1) Kod upisa činjenica rođenja hrvatskih državljana nastalih u inozemstvu koji su hrvatsko državljanstvo stekli podrijetlom, a na inozemnom izvatku je naveden i podatak o stranom državljanstvu, u maticu rođenih u odgovarajuću rubriku upisuje se podatak o hrvatskom državljanstvu.
+(2) Kod upisa činjenica rođenja nastalih u inozemstvu osoba koje su naknadno stekle hrvatsko državljanstvo, stečeno hrvatsko državljanstvo upisuje se u rubriku »Primjedbe« uz bilješku o osnovi upisa.
+(3) Ako je na izvatku inozemnog tijela o činjenici rođenja djeteta koje hrvatsko državljanstvo stječe podrijetlom, upisan podatak o stranom državljanstvu roditelja, a koji su istodobno i hrvatski državljani, u maticu rođenih upisuje se podatak o hrvatskom državljanstvu roditelja.
+(4) Ako dijete hrvatsko državljanstvo stječe podrijetlom po jednom roditelju, u maticu rođenih upisat će se podatak o hrvatskom državljanstvu za dotičnog roditelja, a za drugog roditelja će se upisati podatak o državljanstvu iz inozemnog izvatka.

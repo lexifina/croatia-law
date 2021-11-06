@@ -1,0 +1,7 @@
+# Članak 51.
+(1) Temeljni upisi činjenica rođenja, sklapanja braka ili smrti hrvatskih državljana koje su se dogodile u inozemstvu, upisuju se u državnu maticu s podacima navedenim u inozemnom izvatku. U rubriku »Primjedbe« upisuje se podatak o osnovi upisa uz naznaku naziva i države inozemnog tijela koje je izdalo ispravu, broja i datuma izdavanja isprave.
+(2) Izvadak iz državne matice inozemnog tijela mora biti sastavljen na propisanom obrascu sukladno odredbama međunarodnih konvencija (za države potpisnice), odnosno sukladno propisima države u kojoj je izvadak izdan.
+(3) Na izvatke iz državnih matica dostavljenih iz inozemstva koji nisu sastavljeni sukladno međunarodnim konvencijama, primjenjuju se propisi o legalizaciji isprava u međunarodnom prometu.
+(4) Ako izvadak inozemnog tijela ne sadrži podatke potrebne za temeljni upis, službenik diplomatske misije ili konzularnog ureda Republike Hrvatske u inozemstvu ili matičar u vrijeme upisa, utvrđuje podatke potrebne za temeljni upis na temelju javnih isprava kojima se dotični podaci dokazuju odnosno podataka upisanih u službene evidencije i o tome se upisuje bilješka u rubriku »Primjedbe« uz naznaku naziva diplomatske misije ili konzularnog ureda koji je dostavio podatke, odnosno da je podatke utvrdio matičar.
+(5) Ako su podaci utvrđeni nakon izvršenog upisa na temelju inozemnog izvatka, postupa se u skladu s člankom 36. Zakona o državnim maticama.
+(6) Uz mjesto rođenja, sklapanja braka ili smrti u inozemstvu upisuje se i država.
