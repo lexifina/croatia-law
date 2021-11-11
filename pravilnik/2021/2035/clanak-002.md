@@ -1,0 +1,2 @@
+# Članak 2.
+U Prilogu, u obrascima SP-1-O rizici Statistički podaci o osiguranju prema rizicima unutar vrste osiguranja, SP-1-O - EU rizici Statistički podaci o osiguranju u EU i SP-1-R rizici Statistički podaci o reosiguranju prema rizicima unutar vrste osiguranja, mijenja se naziv vrste rizika 13.22 na način da se naziv »Osiguranje sporednih posrednika« mijenja u »Osiguranje turističke agencije od odgovornosti za paket-aranžman«.

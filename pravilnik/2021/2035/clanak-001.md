@@ -1,0 +1,3 @@
+# Članak 1.
+U članku 2. Pravilnika o statističkim standardima osiguranja (»Narodne novine« broj 23/16, 27/16, 60/19 i 15/2020), stavak 3. mijenja se i glasi:
+»(3) Društvo za osiguranje, koje obavlja poslove osiguranja u državi članici, dužno je dostaviti statističke izvještaje o poslovima osiguranja u pojedinoj državi članici, i to odvojeno za poslove osiguranja koje obavlja preko podružnice i poslove osiguranja koje neposredno obavlja. Društvo za osiguranje dužno je dostaviti mjesečne i tromjesečne izvještaje koristeći obrazac SP_1_O_rizici_EU i godišnje izvještaje koristeći obrasce SP_1_O_rizici_EU i SP_16_O_EU iz priloga ovog Pravilnika.«
