@@ -1,0 +1,10 @@
+## ODJELJAK C
+## NAČIN UTVRĐIVANJA JE LI RANA ILI OZLJEDA DOBIVENA POD OKOLNOSTIMA IZ ČLANKA 9. STAVKA 1. ZAKONA
+# Članak 7.
+(1) Radi utvrđivanja činjenice da je rana ili ozljeda dobivena pod okolnostima iz članka 9. stavka 1. Zakona pribavit će se sljedeća dokumentacija izdana od nadležnih tijela Republike Hrvatske:
+a) potvrda o uzroku i okolnostima pod kojima se slučaj dogodio, izdana od nadležne policijske uprave i drugih nadležnih tijela
+b) potvrda o zatočenju u neprijateljskom logoru, zatvoru ili u drugom neprijateljskom objektu koju izdaje Ministarstvo na temelju činjenica o kojima vodi službenu evidenciju (ako je rana ili ozljeda dobivena pod okolnostima iz članka 9. stavka 1. točka a) Zakona)
+c) u slučaju ranjavanja ili ozljeđivanja pod okolnostima iz članka 9. stavka 1. točke c) Zakona medicinska dokumentacija o liječenju koja potječe iz razdoblja neposredno nakon ranjavanja ili ozljeđivanja
+d) u slučaju ranjavanja ili ozljeđivanja pod okolnostima iz članka 9. stavka 1. točaka a), b) i d) Zakona medicinska dokumentacija koja potječe iz razdoblja neposredno nakon ranjavanja ili ozljeđivanja, a najkasnije od 30. rujna 1996.
+(2) Iznimno od stavka 1. točke a) ovoga članka, u slučaju kada nije moguće pribaviti potvrdu o uzroku i okolnostima pod kojima se slučaj dogodio, izdanu od nadležne policijske uprave ili drugih nadležnih tijela, radi utvrđivanja činjenice da je rana ili ozljeda dobivena pod okolnostima iz članka 9. stavka 1. Zakona može se pribaviti medicinska dokumentacija iz koje su vidljive okolnosti stradavanja, naknadna saznanja o okolnostima stradavanja od nadležne policijske uprave, saznanja Državnog odvjetništva Republike Hrvatske o okolnostima stradavanja i drugi dokazi od nadležnih tijela Republike Hrvatske o okolnostima stradavanja.
+(3) Iznimno od stavka 1. točke b) ovoga članka, ukoliko se osoba ne vodi kao zatočenik u evidenciji Ministarstva, mogu se zatražiti podaci od tijela državne uprave nadležnog za obranu, tijela državne uprave nadležnog za pravosuđe i upravu ili drugog nadležnog tijela Republike Hrvatske.

@@ -1,0 +1,4 @@
+## DIO PRVI
+## UVODNE ODREDBE
+# Članak 1.
+Ovim Pravilnikom uređuje se način ostvarivanja statusa civilnog invalida iz Domovinskog rata te prava civilnih invalida iz Domovinskog rata na osobnu invalidninu, dodatak za njegu i pomoć druge osobe, ortopedski dodatak, posebni dodatak i pravo na naknadu troška prilagodbe osobnog automobila kao i način ostvarivanja statusa člana obitelji civilne osobe poginule, umrle ili nestale u Domovinskom ratu te prava članova obitelji civilne osobe poginule, umrle ili nestale u Domovinskom ratu na obiteljsku invalidninu, povećanu i uvećanu obiteljsku invalidninu, novčanu naknadu u iznosu obiteljske invalidnine, novčanu naknadu u iznosu povećane i uvećane obiteljske invalidnine sukladno Zakonu o civilnim stradalnicima iz Domovinskog rata (»Narodne novine«, br. 84/21) (u daljnjem tekstu: Zakon).
