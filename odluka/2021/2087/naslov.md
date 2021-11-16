@@ -1,0 +1,1 @@
+Odluka o uvođenju posebne sigurnosne mjere obveznog testiranja dužnosnika, državnih službenika i namještenika, službenika i namještenika u javnim službama, službenika i namještenika u lokalnoj i područnoj (regionalnoj) samoupravi te zaposlenika trgovačkih društava i ustanova
