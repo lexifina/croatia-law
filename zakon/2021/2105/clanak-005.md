@@ -1,0 +1,3 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 5.
+Iznimno u 2021. godini u ukupnu godišnju obvezu jedinice lokalne i područne (regionalne) samouprave iz članka 88. Zakona o proračunu (»Narodne novine«, br. 87/08., 136/12. i 15/15.) ne ulazi iznos beskamatnog zajma isplaćen jedinicama lokalne i područne (regionalne) samouprave na temelju Odluke o dodjeli beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave koje su pogođene posljedicama razornih potresa na području Grada Zagreba, Zagrebačke županije, Krapinsko-zagorske županije, Sisačko-moslavačke županije i Karlovačke županije za sanaciju šteta od potresa (»Narodne novine«, br. 101/21.).
