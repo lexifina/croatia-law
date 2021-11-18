@@ -1,0 +1,7 @@
+# Članak 2.
+(1) Poslovni prostor pravnih osoba i obrta te unutarnjih službi zaštite koje imaju odobrenje za obavljanje djelatnosti privatne zaštite, njihovih podružnica, ureda, ispostava i izdvojenih pogona u kojima se obavlja djelatnost privatne zaštite (u daljnjem tekstu: poslovni prostor) mora biti namijenjen obavljanju djelatnosti privatne zaštite (tjelesne zaštite, tehničke zaštite te izrade prosudbe ugroženosti).
+(2) Iznimno od odredbe stavka 1. ovog članka, prostor u kojem se obavljaju isključivo poslovi izrade prosudbe ugroženosti, projektiranja i nadzora provedbe tehničke zaštite te organizacije poslova neposredne tjelesne zaštite osoba može biti u stambenoj prostoriji u privatnom vlasništvu, pod uvjetima propisanim ovim Pravilnikom.
+(3) Pravna osoba, obrtnik i unutarnja služba zaštite moraju imati poslovni prostor iz stavka 1. ovog članka u vlasništvu ili posjedu na temelju valjane pravne osnove.
+(4) Vlasništvo odnosno posjed dokazuje se vlasničkim listom i/ili odgovarajućim ugovorom.
+(5) Poslovni prostor može koristiti samo jedna pravna osoba, obrtnik ili unutarnja služba zaštite dok više pravnih subjekata može koristiti samo zajednički sanitarni čvor.
+(6) Iznimno od odredbe stavka 5. ovog članka, poslovni prostor može koristiti više pravnih osoba ili obrta s odobrenjem za djelatnost privatne zaštite ako imaju istog osnivača ili vlasnika i ako mogu organizirati nesmetanu djelatnost.

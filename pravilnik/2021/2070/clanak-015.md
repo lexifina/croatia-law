@@ -1,0 +1,7 @@
+# Članak 15.
+(1) U prostorije dojavnog centra mora biti ograničen ulaz osoba i to isključivo osobama ovlaštenim općim aktom o razvrstavanju radnih mjesta poslova privatne zaštite s opisom navedenih poslova te ovlastima zaposlenika za svako radno mjesto.
+(2) Broj ulaza u prostor dojavnog centra mora biti ograničen, a u svaki od njih treba biti uspostavljen sustav kontrole pristupa/ulaza, koji omogućava evidentiranje i identifikaciju osoba.
+(3) Ulazna vrata moraju biti protuprovalna, minimalne razine protuprovalnosti klase RC 5 prema normi HRN EN 1627, s mogućnošću otvaranja putem sustava kontrole ulaza i moraju imati mogućnost blokiranja od strane operatera ili drugog ovlaštenog osoblja koje je u funkciji CDS-a ili CTN-a.
+(4) Ako prostorije dojavnog centra imaju prozore, isti moraju biti zaštićeni protuprovalnim nerasprskavajućim folijama i protuprovalnim sustavom ili metalnim rešetkama izvana ili imati otpornost na fizički napad po HRN EN 356 u razredu P6B i otpornost na propucavanje vatrenim oružjem prema normi HRN EN 1063 u razini BR 3 - S.
+(5) Ostali sustavi tehničke zaštite (sustav video nadzora, protuprovalni i protuprepadni sustavi i dr.) kojima se utvrđuje broj i raspored uređaja i sustava projektiraju se i izvode temeljem projektne dokumentacije iz članka 11. ovog Pravilnika sukladno normi HRN EN 50518.
+(6) U dojavnom centru mora se uspostaviti odgovarajuća zaštita od požara, sukladno odredbi članka 12. ovog Pravilnika.
