@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 2. stavak 6. mijenja se i glasi:
+»6. Ova Odluka i njezini dodaci zajedno s Odlukom o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR i njezinim dodacima, Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i njezinim dodacima, Odlukom o uvjetima za otvaranje i funkcioniranje TIPS namjenskoga novčanog računa (TIPS DCA) u sustavu TARGET2-HR i njezinim dodacima, Odlukom o postupcima namire za sporedne sustave i Odlukom o TIPS usluzi za sporedne sustave koji namiruju instant plaćanja čine Pravila rada sustava TARGET2-HR.«

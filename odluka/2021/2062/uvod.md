@@ -1,0 +1,1 @@
+Na temelju članka 155. stavka 1. Zakona o platnom prometu (»Narodne novine«, br. 66/2018.) i članka 42. stavka 3. točke 12. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) Savjet Hrvatske narodne banke donosi
