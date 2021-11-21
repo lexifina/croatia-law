@@ -1,0 +1,3 @@
+# Članak 7.
+Članak 39. stavak 1. mijenja se i glasi:
+»1. Uzima se da su sudionici upoznati sa svim obvezama koje imaju prema propisima o zaštiti podataka, da ih ispunjavaju i da su u mogućnosti dokazati to ispunjavanje obveza nadležnim tijelima. Uzima se da su sudionici upoznati sa svim svojim obvezama u vezi s propisima o sprječavanju pranja novca i financiranju terorizma, širenju nuklearnog oružja i razvoju sustava dostave nuklearnog oružja, posebno u odnosu na provedbu odgovarajućih mjera o svakom plaćanju u korist ili na teret svojih PM računa i da ih ispunjavaju. Sudionici osiguravaju da su upoznati s politikom TARGET2 pružatelja mrežnih usluga u smislu povrata izgubljenih podataka prije zasnivanja ugovornog odnosa s TARGET2 pružateljem mrežnih usluga.«

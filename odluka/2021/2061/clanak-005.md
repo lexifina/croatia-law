@@ -1,0 +1,10 @@
+# Članak 5.
+1. Članak 6. mijenja se i glasi:
+»Članak 6.
+Izravni sudionici
+1. Imatelji PM računa u sustavu TARGET2-HR izravni su sudionici i pridržavaju se zahtjeva utvrđenih u članku 9. stavcima 1. i 2. ove Odluke. Moraju imati najmanje jedan PM račun kod Hrvatske narodne banke. Imatelji PM računa koji su pristupili SCT Inst shemi potpisivanjem Sporazuma o pristupanju SEPA instant kreditnom transferu moraju biti i ostati dostupni na TIPS platformi u svakom trenutku, kao imatelj TIPS DCA-a ili kao dostupna strana preko imatelja TIPS DCA-a.
+2. Imatelji PM računa mogu odrediti dostupne imatelje BIC-a, neovisno o mjestu gdje su osnovani. Imatelji PM računa mogu odrediti dostupne imatelje BIC-a koji su pristupili SCT Inst shemi potpisivanjem Sporazuma o pristupanju SEPA instant kreditnom transferu samo ako su takvi subjekti dostupni na TIPS platformi, kao imatelj TIPS DCA-a ili kao dostupna strana preko imatelja TIPS DCA-a.
+3. Imatelji PM računa mogu odrediti subjekte kao neizravne sudionike u PM-u, pod uvjetom da se ispune uvjeti utvrđeni u članku 7. ove Odluke. Imatelji PM računa mogu odrediti kao neizravne sudionike subjekte koji su pristupili SCT Inst shemi potpisivanjem Sporazuma o pristupanju SEPA instant kreditnom transferu samo ako su takvi subjekti dostupni na TIPS platformi, kao imatelj TIPS DCA-a kod Hrvatske narodne banke ili kao dostupna strana preko imatelja TIPS DCA-a.
+4. Pristup za više adresata preko podružnica može se pružiti na sljedeći način:
+(a) Kreditna institucija u smislu članka 5. stavka 1. točke (a) ili (b) ove Odluke, koja je prihvaćena kao imatelj PM računa, može odobriti pristup svojem PM računu jednoj ili više svojih podružnica osnovanih u Europskoj uniji ili EGP-u radi izravnog dostavljanja naloga za plaćanje i/ili primanja plaćanja, pod uvjetom da je Hrvatska narodna banka o tome obaviještena.
+(b) Kada je podružnica kreditne institucije prihvaćena kao imatelj PM računa, druge podružnice istog osnivača i/ili njezin osnivač, u oba slučaja ako su osnovane u Europskoj uniji ili EGP-u, mogu pristupiti PM računu podružnice, pod uvjetom da je Hrvatska narodna banka o tome obaviještena.«
