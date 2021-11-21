@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 6. stavak 1. točka a) podtočka i) mijenja se i glasi:
+»i) postaviti, voditi, upravljati i pratiti te osigurati sigurnost potrebne informatičke infrastrukture radi povezivanja s TIPS platformom i dostavljanja naloga za plaćanje TIPS platformi; pritom podnositelji prijave za imatelja TIPS DCA-a mogu uključiti treće strane, ali zadržavaju isključivu odgovornost; konkretno, osim ako se rabi inicijator, podnositelji prijave za imatelja TIPS DCA moraju sklopiti ugovor s jednim pružateljem mrežnih usluga ili s više njih radi dobivanja potrebne veze i pristupa, u skladu s tehničkim specifikacijama i zahtjevima iz Dodatka I. ove Odluke i«.

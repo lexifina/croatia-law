@@ -1,0 +1,3 @@
+# Članak 11.
+U članku 18. stavak 6. mijenja se i glasi:
+»6. Nakon što je nalog za prijenos likvidnosti s TIPS DCA-a na PM, nalog za prijenos likvidnosti s TIPS DCA-a na TIPS tehnički račun sporednog sustava ili nalog za prijenos likvidnosti s TIPS tehničkog računa sporednog sustava na TIPS DCA prihvaćen u smislu članka 17. ove Odluke, sustav TARGET2-HR provjerava ima li dovoljno sredstava na platiteljevu TIPS DCA-u. Ako na platiteljevu TIPS DCA-u nema dovoljno sredstava, nalog za prijenos likvidnosti bit će odbijen. Ako na platiteljevu TIPS DCA-u ima dovoljno sredstava, nalog za prijenos likvidnosti bit će odmah namiren.«
