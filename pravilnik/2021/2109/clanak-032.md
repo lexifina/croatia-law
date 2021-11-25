@@ -1,0 +1,10 @@
+## Pogodnost izlaska u mjesto prebivališta, odnosno boravišta ili drugo mjesto
+# Članak 32.
+(1) Zatvoreniku se može odobriti pogodnost izlaska u mjesto prebivališta, odnosno boravišta ili drugo mjesto ili izlaska radi posjeta članovima obitelji ili drugoj osobi, u jednokratnom trajanju od najmanje 24 sata:
+- u zatvorenoj kaznionici, zatvoru i zatvorenom odjelu poluotvorene kaznionice do 48 sati mjesečno, a u mjesecu u kojem je blagdan, do 72 sata
+- u poluotvorenom odjelu zatvorene kaznionice, odnosno zatvora u ukupnom trajanju do 72 sata mjesečno, a u mjesecu u kojem je blagdan, do 96 šest sati
+- u poluotvorenoj kaznionici i otvorenom odjelu zatvorene kaznionice ili zatvora u ukupnom trajanju do 96 sati mjesečno, a u mjesecu u kojem je blagdan, do 120 sati
+- u otvorenoj kaznionici i otvorenom odjelu poluotvorene kaznionice u ukupnom trajanju do 120 sati mjesečno, a u mjesecu u kojem je blagdan, do 144 sata.
+(2) Prenošenje punog ili djelomičnog opsega odobrene pogodnosti izlaska iz stavka 1. ovog članka u sljedeći mjesec može se odobriti iznimno, do dva puta godišnje, u kojem slučaju ukupno mjesečno trajanje izlaska u mjesecu u kojem se koristi ne može biti dulje od 120 sati, a ako se koristi u mjesecu u kojem je blagdan ne može biti dulje od 144 sata. Prenosi se samo osnovni opseg pogodnosti, dok se dodatna 24 sata ostvarena po osnovi blagdana ne mogu prenijeti u sljedeći mjesec.
+(3) Pogodnost izlaska iz stavka 1. ovog članka ne može se spojiti ni koristiti istog dana s drugim pogodnostima češćih dodira s vanjskim svijetom izvan kaznionice, odnosno zatvora, osim s pogodnosti iz članka 138. stavka 2., točke 4. Zakona.
+(4) Pogodnost izlaska iz stavka 1. ovog članka iz tekućeg mjeseca može se povezati s istom pogodnošću iz sljedećeg mjeseca, na način da se s korištenjem pogodnosti započne u tekućem mjesecu, a završi u sljedećem mjesecu, pri čemu ukupno trajanje izlaska ne može biti dulje od 120 sati, odnosno od 144 sata ukoliko se koristi u mjesecima u kojima je blagdan.

@@ -1,0 +1,4 @@
+# Članak 38.
+(1) Prilikom procjene vrijednosti stvari i drugih djela zatvorenika uzet će se u obzir troškovi izrade, uloženi rad, umijeće i spretnost uložena u izradu te estetski učinak i korisnost, odnosno upotrebna vrijednost te cijena iste ili slične stvari i drugog djela zatvorenika na tržištu.
+(2) Vrijednost stvari i drugih djela zatvorenika procjenjuje povjerenstvo od dva stalna i jednog promjenjivog člana koje imenuje upravitelj kaznionice, odnosno zatvora. Jedan stalni član je predstavnik zatvorenika. Promjenljivi član je iste struke, odnosno vještine koja je potrebna za izradu stvari i drugih djela zatvorenika. Promjenljivi član može se imenovati i iz redova vanjskih suradnika.
+(3) Na pisani zahtjev zatvorenika stvar i drugo djelo zatvorenika se može prodati prema cijeni koju sam odredi, a koja je niža od procijenjene vrijednosti utvrđene prema stavku 1. ovog članka, ali ne nižoj od troškova izrade iz članka 37. ovog Pravilnika.

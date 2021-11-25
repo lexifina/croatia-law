@@ -1,0 +1,5 @@
+## Sadržaj i postupak donošenja programa izvršavanja
+# Članak 11.
+(1) Na temelju procjene rizika i tretmanskih potreba te orijentacijskog programa izvršavanja izrađenog u Centru, obavljaju se stručni poslovi izrade programa izvršavanja, iz članka 27. stavka 4. Zakona.
+(2) Stručni tim kaznionice, odnosno zatvora iz članka 75. stavka 2. Zakona (u daljnjem tekstu: Stručni tim) za svakog zatvorenika predlaže inicijalni program izvršavanja, koji se tijekom izvršavanja kazne zatvora mijenja, sukladno procjeni rizika i tretmanskih potreba, ostvarenosti ciljeva tretmana, mogućnostima kaznionice, odnosno zatvora u kojem zatvorenik izdržava kaznu zatvora te promjenama u objektivnim okolnostima koje su mogle nastupiti protekom vremena, a koje mogu utjecati na program izvršavanja.
+(3) Na prijedlog Stručnog tima, upravitelj kaznionice, odnosno zatvora (u daljnjem tekstu: upravitelj) donosi program izvršavanja za zatvorenika u roku od 30 dana od dana prijama u kaznionicu, odnosno zatvor, a zatim preispituje program izvršavanja sukladno članku 75. stavku 3. Zakona.

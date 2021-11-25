@@ -1,0 +1,19 @@
+## Pogodnosti ublažavanja uvjeta unutar kaznionice, odnosno zatvora
+# Članak 27.
+Pogodnosti ublažavanja uvjeta unutar kaznionice i zatvora iz članka 138. stavka 1. Zakona odobravaju se na sljedeći način i u sljedećem opsegu:
+1. pogodnost korištenja vlastitog televizijskog prijemnika, može se odobriti na način kojim se ne ometa zatvorenike koji borave u istoj sobi
+2. pogodnost samostalne priprave hrane i napitaka može se odobriti u sobi u kojoj zatvorenik boravi ili u prostoru koji je za to određen i u vremenu propisanom dnevnim rasporedom kaznionice, odnosno zatvora
+3. pogodnost uređenja životnog prostora osobnim stvarima, kao što su sobno bilje te fotografije i slike koje su etički primjerenog sadržaja, može se odobriti na način kojim se ne narušava funkcionalnost životnog prostora i kojim se ne ometa zatvorenike koji borave u istoj sobi
+4. pogodnost češćeg primanja paketa i primanja paketa čija težina ne prelazi sedam kilograma može se odobriti:
+- u zatvorenoj kaznionici, zatvoru i zatvorenom odjelu poluotvorene kaznionice jedanput mjesečno
+- u poluotvorenoj kaznionici ili u poluotvorenom odjelu zatvorene kaznionice ili zatvora do dva puta mjesečno
+- u otvorenoj kaznionici ili otvorenom odjelu zatvorene ili poluotvorene kaznionice ili zatvora do tri puta mjesečno
+5. pogodnost slobodnog raspolaganja određenim novčanim iznosom s pologa unutar kaznionice, odnosno zatvora, zatvoreniku se odobrava povrh redovnog dnevnog iznosa kojim slobodno raspolaže sukladno kućnom redu kaznionice, odnosno zatvora, a može se odobriti mjesečno do dva puta, u visini do dvije dnevnice utvrđene za državne službenike i namještenike
+6. zatvorenika se može novčano nagraditi u visini do 20% od utvrđene bruto osnovice za obračun plaća državnih službenika i namještenika, do tri puta u dvanaest mjeseci, s kojim iznosom zatvorenik slobodno raspolaže u skladu s kućnim redom kaznionice, odnosno zatvora. Zatvorenika se može nagraditi u stvarima za osobnu uporabu u vrijednosti do 10% od utvrđene bruto osnovice za obračun plaća državnih službenika i namještenika do tri puta u dvanaest mjeseci
+7. pogodnost nezaključavanja sobe u kojoj zatvorenik boravi može se odobriti tijekom dana ili tijekom dijela dana, sukladno kućnom redu kaznionice, odnosno zatvora, ili se zatvoreniku može odobriti smještaj na odjel u kojem se tijekom dana ne zaključavaju sobe i zajednički prostori za boravak zatvorenika
+8. pogodnost produljenog boravka u zajedničkim prostorijama odobrava se na način da zatvorenik u zajedničkim prostorijama može boraviti u trajanju dužem od propisanog kućnim redom kaznionice, odnosno zatvora
+9. pogodnost produljenog boravka na svježem zraku odobrava se povrh prava na boravak na otvorenom prostoru kaznionice, odnosno zatvora, u dužem trajanju od propisanog Zakonom i kućnim redom kaznionice, odnosno zatvora
+10. pogodnost korištenja dijela godišnjeg odmora ili cijelog godišnjeg odmora u poluotvorenom ili otvorenom odjelu kaznionice, odnosno zatvora, može se odobriti zatvoreniku koji je stekao pravo na godišnji odmor:
+- u zatvorenoj kaznionici, zatvoru, ili zatvorenom odjelu poluotvorene kaznionice može se odobriti korištenje dijela ili cijelog godišnjeg odmora u poluotvorenom odjelu iste kaznionice, odnosno zatvora
+- u poluotvorenom odjelu zatvorene kaznionice ili zatvora, može se odobriti korištenje dijela ili cijelog godišnjeg odmora u otvorenom odjelu iste kaznionice, odnosno zatvora
+11. pogodnost rasporeda u odjel s blažim uvjetima izdržavanja kazne iste kaznionice, odnosno zatvora, može se odobriti zatvoreniku pod uvjetima određenim kućim redom kaznionice, odnosno zatvora. Rasporedom u odjel s blažim uvjetima, zatvorenik kaznu zatvora izdržava pod istim uvjetima kao i drugi zatvorenici raspoređeni u te uvjete te mu se sukladno tome razmatraju i odobravaju druge pogodnosti.

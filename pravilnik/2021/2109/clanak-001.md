@@ -1,0 +1,3 @@
+## OSNOVNE ODREDBE
+# Članak 1.
+Ovim se Pravilnikom uređuju standardi i način obavljanja poslova tretmana zatvorenika, uključujući procjenu rizika i tretmanskih potreba te klasifikaciju zatvorenika prema stupnju kriminogenih i sigurnosnih rizika radi razvrstavanja u odgovarajuće uvjete izdržavanja kazne zatvora, pojedinačni program izvršavanja kazne zatvora (u daljnjem tekstu: program izvršavanja), pogodnosti zatvorenika te način utvrđivanja troškova izrade, procjene vrijednosti, izlaganja, pohranjivanja i prodaje stvari i drugih djela zatvorenika nastalih tijekom izdržavanja kazne zatvora u slobodno vrijeme zatvorenika.

@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Odluku o upućivanju na daljnje izvršavanje kazne zatvora iz Centra i odluku o premještaju zatvorenika donosi ravnatelj nadležan za zatvorski sustav, sukladno članku 56., odnosno članku 162. stavku 1. Zakona. U odluci se navodi kaznionica, odnosno zatvor u kojem će zatvorenik nastaviti izdržavati kaznu zatvora te uvjeti izdržavanja kazne.
+(2) Povjerenstvo Središnjeg ureda za upućivanje i premještaje zatvorenika iz članka 56. stavka 3., odnosno članka 162. stavka 1. Zakona imenuje ravnatelj nadležan za zatvorski sustav, iz reda službenika Središnjeg ureda.
+(3) Prilikom formuliranja mišljenja, Povjerenstvo iz stavka 2. ovog članka uzima u obzir procjenu rizika, procjenu tretmanskih potreba zatvorenika, organizacijske i smještajne mogućnosti kaznenih tijela i sveukupnu situaciju u zatvorskom sustavu i društvenoj zajednici.

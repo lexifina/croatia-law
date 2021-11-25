@@ -1,0 +1,4 @@
+## TRETMAN ZATVORENIKA
+# Članak 3.
+(1) Tretman zatvorenika u smislu ovog Pravilnika obuhvaća skup općih i specijaliziranih tretmanskih intervencija i programa, temeljenih na procjeni kriminogenih i sigurnosnih rizika i tretmanskih potreba, a kojima je cilj smanjivanje rizičnih čimbenika koji su pridonijeli počinjenju kaznenog djela te osnaživanje zaštitnih čimbenika koji omogućuju nastanak i održavanje pozitivnih promjena, radi ostvarivanja svrhe izvršavanja kazne zatvora propisane Zakonom o izvršavanju kazne zatvora (u daljnjem tekstu: Zakon).
+(2) Radi ostvarivanja svrhe izvršavanja kazne zatvora, za svakog se zatvorenika donosi program izvršavanja, čime se osigurava poštivanje načela individualizacije, a u postupku realizacije programa izvršavanja primjenjuju se opće i specijalizirane tretmanske intervencije i programi iz st. 1. ovog članka te pogodnosti zatvorenika, kao poticajno sredstvo u ostvarivanju resocijalizacije, rehabilitacije i socijalnog uključivanja.
