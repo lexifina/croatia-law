@@ -1,0 +1,3 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 6.
+Ugostitelji, iznajmljivači i nositelji ili članovi obiteljskog poljoprivrednoga gospodarstva koji na dan stupanja na snagu ovoga Zakona obavljaju ugostiteljsku djelatnost, odnosno pružaju ugostiteljske usluge na temelju privremenog rješenja iz članka 25. stavka 1., članka 34. stavaka 4. i 5. i članka 39. stavka 9., a u vezi s člankom 34. stavcima 4. i 5. Zakona o ugostiteljskoj djelatnosti (»Narodne novine«, br. 85/15., 121/16., 99/18., 25/19., 98/19., 32/20. i 42/20.), na temelju istih privremenih rješenja nastavljaju obavljati ugostiteljsku djelatnost, odnosno pružati ugostiteljske usluge, najdulje do 31. prosinca 2024.

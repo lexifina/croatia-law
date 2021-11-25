@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 25. stavku 1. riječi: »31. prosinca 2021.« zamjenjuju se riječima: »31. prosinca 2024.«.
+Stavak 4. mijenja se i glasi:
+»(4) Primjerak izvršnog privremenog rješenja iz stavka 1. ovoga članka dostavlja se mjesno nadležnoj područnoj jedinici tijela državne uprave nadležnog za poslove turističke inspekcije i poslove sanitarne inspekcije, mjesno nadležnoj područnoj jedinici tijela državne uprave nadležnog za porezni sustav, tijelu državne uprave nadležnom za poslove statistike te nadležnom upravnom tijelu za izdavanje rješenja o izvedenom stanju koje će dostaviti nadležnom upravnom tijelu primjerak izvršnog rješenja kojim se odlučilo o zahtjevu za pokretanje postupka ozakonjenja nezakonito izgrađene građevine, a za ugostiteljske objekte u kojima se pruža usluga smještaja i turističkoj zajednici toga područja.«.
