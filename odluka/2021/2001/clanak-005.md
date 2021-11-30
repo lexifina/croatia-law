@@ -1,0 +1,3 @@
+# Članak 5.
+Točka 45. mijenja se i glasi:
+»45. Početno razdoblje fiksiranja kamatne stope definirano je kao unaprijed određeno razdoblje izraženo u mjesecima (i određeno ugovorom) tijekom kojeg se vrijednost kamatne stope ne može mijenjati. Kod ponovnih sporazuma kod kojih se prikazuje inicijalni datum plasmana prikazuje se i inicijalno početno razdoblje fiksiranja kamatne stope. Kod ponovnih sporazuma kod kojih se pod datumom plasmana prikazuje datum isplate novog iznosa prikazuje se početno razdoblje fiksiranja kamatne stope koje se odnosi na novi iznos kredita. Kod ponovnih sporazuma koji se odnose na refinanciranje prikazuje se početno razdoblje fiksiranja kamatne stope određeno ugovorom o refinanciranju.«

@@ -1,0 +1,3 @@
+# Članak 2.
+U Uputi za provedbu Odluke o prikupljanja podataka o uvjetima kreditiranja potrošača, koja je sastavni dio Odluke o prikupljanju podataka o uvjetima kreditiranja potrošača, točka 21. mijenja se i glasi:
+»21. Upisuje se jedanaesteroznamenkasti OIB protustranke za jedinstvenu skupnu oznaku »FZ«. U modalitetu »GK«, ako OIB nije poznat, upisuje se oznaka »00000000000«. U modalitetu »MK« dopušta se iznimka za instrumente »A0218«, »A0219«, »A0220«, »A0221« i »A0701«, za koje je moguće poslati oznaku »00000000000«, kao identifikator protustranke, ako kreditna institucija ne raspolaže njegovim OIB-om, odnosno nije ga u mogućnosti pribaviti.«
