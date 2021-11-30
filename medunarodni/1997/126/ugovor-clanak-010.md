@@ -1,9 +1,0 @@
-# Članak 10.
-Rješenje sporova između Ugovornih stranaka
-(1) Sporovi između Ugovornih stranaka koji se odnose na tumačenje ili primjenu ovog Ugovora će se, po mogućnosti, riješiti prijateljskim pregovorima.
-(2) Ukoliko spor prema stavku (1) ovog članka nije moguće riješiti u roku od šest mjeseci, on će se na zahtjev jedne od Ugovornih stranaka uputiti arbitražnom sudu.
-(3) Takav arbitražni sud osnovat će se na ad hoc osnovi kako slijedi: svaka Ugovorna stranka će imenovati jednog člana i ta dva člana će se dogovoriti o izboru državljana treće države za njihovog predsjedatelja. Ti članovi će biti imenovani u roku od dva mjeseca od dana kada je jedna Ugovorna stranka obavijestila drugu Ugovornu stranku da namjerava uputiti spor na rješavanje arbitražnom sudu, čiji će predsjedatelj biti imenovan tijekom dva slijedeća mjeseca.
-(4) Ako se ne poštuju vremenski rokovi propisani stavkom (3) ovog članka, svaka Ugovorna stranka može, u nedostatku drugog relevantnog sporazuma, pozvati Predsjednika Međunarodnog suda da obavi neophodna imenovanja. Ukoliko je Predsjednik Međunarodnog suda državljanin jedne od Ugovornih stranaka, ili je na drugi način spriječen u obavljanju spomenute funkcije, Potpredsjednik, ili u slučaju njegove nemogućnosti, slijedeći po rangu član Međunarodnog suda, bit će pozvan da pod istim uvjetima obavi neophodna imenovanja.
-(5) Sud će imenovati vlastita pravila postupka.
-(6) Arbitražni sudac će donijeti svoju odluku na temelju ovog Ugovora i u skladu s općenito priznatim pravilima međunarodnog prava. Sud će donijeti odluku većinom glasova; odluka je konačna i obvezujuća.
-(7) Svaka Ugovorna stranka će snositi troškove svog člana i svog zastupanja u arbitražnom postupku na sudu. Troškove predsjedatelja suda i preostale troškove obje Ugovorne stranke će snositi u jednakim dijelovima. Arbitražni sud može, međutim, u svojoj odluci odrediti i drugačiju raspodjelu troškova.
