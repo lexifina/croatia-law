@@ -1,0 +1,1 @@
+Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) 2017/2402 o utvrđivanju općeg okvira za sekuritizaciju i o uspostavi specifičnog okvira za jednostavnu, transparentnu i standardiziranu sekuritizaciju
