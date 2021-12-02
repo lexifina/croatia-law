@@ -1,0 +1,10 @@
+# Članak 13.
+Članak 36.a mijenja se i glasi:
+»(1) Odvjetnik iz države članice Europske unije upisuje se u Imenik stranih odvjetnika koji u Republici Hrvatskoj mogu obavljati odvjetničku službu pod nazivom »odvjetnik«, sa svim pravima i dužnostima u obavljanju odvjetničke službe, ako ispunjava uvjete iz članka 48. stavka 1. točki 2., 3., 8., 10., 11., 12. i 13. ovoga Zakona i ako položi ispit iz poznavanja pravnog poretka Republike Hrvatske.
+(2) Program, postupak i način provedbe ispita iz poznavanja pravnog poretka Republike Hrvatske za svakog podnositelja zahtjeva za upis u Imenik iz stavka 1. ovoga članka utvrđuje Komora, uzimajući u obzir sva znanja, vještine i kompetencije koje je odvjetnik iz druge države članice Europske unije stekao u toj ili drugoj državi članici Europske unije ili trećoj državi.
+(3) Odvjetnik iz države članice Europske unije oslobođen je obveze polaganja ispita iz poznavanja pravnog poretka Republike Hrvatske ako se u postupku iz stavka 2. ovoga članka utvrdi da ne postoji znatna razlika između stečenih znanja, vještina i kompetencija te znanja, vještina i kompetencija potrebnih za upis u Imenik odvjetnika.
+(4) Ako se u postupku iz stavka 2. ovoga članka utvrde znatne razlike između stečenih znanja, vještina i kompetencija te znanja, vještina i kompetencija potrebnih za upis u Imenik odvjetnika, odvjetnik iz države članice Europske unije polaže ispit samo iz područja za koje su takve razlike utvrđene.
+(5) Zahtjevu za upis u Imenik iz stavka 1. ovoga članka odvjetnik prilaže, u prijevodu na hrvatski jezik, dokaz o pravu na obavljanje odvjetničke službe u svojoj matičnoj državi kao i druge dokaze o ispunjavanju uvjeta iz stavka 1. ovoga članka.
+(6) Uvjet iz članka 48. stavka 1. točke 10. ovoga Zakona dokazuje se potvrdom izdanom sukladno propisima matične države odvjetnika.
+(7) Odvjetnici iz ovoga članka mogu zastupati stranke pred sudovima i drugim tijelima u Republici Hrvatskoj uz uvjete utvrđene ovim Zakonom.
+(8) Pravila o utvrđivanju programa, postupka i načina provedbe ispita iz poznavanja pravnog poretka Republike Hrvatske donosi Komora.«.

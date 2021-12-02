@@ -1,0 +1,3 @@
+# Članak 23.
+(1) U cijelom tekstu Zakona o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.) riječi: »odvjetnički posao«, »odvjetnička djelatnost«, »odvjetnički poziv«, »odvjetničko zanimanje«, »odvjetničko zvanje« i »odvjetnička dužnost« u određenom broju i padežu zamjenjuju se riječima: »odvjetnička služba« u odgovarajućem broju i padežu.
+(2) U cijelom tekstu Zakona o odvjetništvu (»Narodne novine«, br. 9/94., 117/08., 50/09., 75/09. i 18/11.) riječi: »ministar pravosuđa« u određenom padežu zamjenjuju se riječima: »ministar nadležan za poslove pravosuđa« u odgovarajućem padežu, a riječi: »Ministarstvo pravosuđa« u određenom padežu zamjenjuju se riječima: »ministarstvo nadležno za poslove pravosuđa« u odgovarajućem padežu.
