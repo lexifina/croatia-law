@@ -1,0 +1,18 @@
+## Obveze proizvođača
+# Članak 9.
+(1) Kada stavlja svoj proizvod na tržište, proizvođač je obvezan osigurati da je njegov proizvod oblikovan i proizveden u skladu sa zahtjevima utvrđenim u propisima koji se odnose na taj proizvod.
+(2) Kada je pravilnicima iz članka 4. ovoga Zakona to propisano, proizvođač je obvezan izraditi propisanu tehničku dokumentaciju i provesti ili osigurati provođenje primjenjivog postupka ocjenjivanja sukladnosti proizvoda.
+(3) Kada je postupkom ocjenjivanja sukladnosti iz stavka 2. ovoga članka dokazana sukladnost proizvoda s propisanim zahtjevima, proizvođač je obvezan sastaviti EU izjavu o sukladnosti i staviti oznaku sukladnosti kada je to propisano pravilnicima iz članka 4. ovoga Zakona.
+(4) Proizvođač je obvezan čuvati tehničku dokumentaciju i EU izjavu o sukladnosti nakon što je proizvod stavio na tržište, u razdoblju navedenom u pravilnicima iz članka 4. ovoga Zakona.
+(5) Proizvođač je obvezan osigurati postupke radi održanja sukladnosti proizvodne serije, pri čemu je potrebno na primjeren način uzeti u obzir promjene u oblikovanju ili značajkama proizvoda te promjene u primijenjenim usklađenim normama ili tehničkim specifikacijama koje su navedene u EU izjavi o sukladnosti proizvoda.
+(6) Proizvođač je obvezan, s obzirom na rizike koje predstavlja proizvod, a kako bi zaštitio zdravlje i sigurnost potrošača, provoditi ispitivanje uzoraka proizvoda koji se stavljaju na tržište, istraživati i, ako je to potrebno, voditi knjigu pritužbi o nesukladnim proizvodima i povlačenju proizvoda te o tome mora obavješćivati distributera.
+(7) Proizvođač je obvezan osigurati da njegov proizvod nosi broj tipa, šarže ili serije ili koji drugi podatak koji omogućuje njegovu identifikaciju ili, kad to ne dopušta veličina ili narav proizvoda, da se traženi podaci navedu na ambalaži ili u dokumentima koji prate proizvod.
+(8) Proizvođač je obvezan na proizvodu ili, kada to nije moguće, na njegovoj ambalaži ili u dokumentu koji prati proizvod navesti svoje ime, registrirano trgovačko ime ili registrirani trgovački znak i adresu koja mora označivati jedinstvenu točku na kojoj je proizvođač dostupan.
+(9) Kada je pravilnicima iz članka 4. ovoga Zakona koji se odnose na proizvod to propisano, proizvođač mora osigurati da proizvod bude praćen uputama i podacima o sigurnosti na hrvatskom jeziku i latiničnom pismu.
+(10) Kada proizvođač smatra ili ima razloga vjerovati da proizvod koji je stavio na tržište nije sukladan s odredbama propisa koji se primjenjuju na taj proizvod, treba bez odgađanja poduzeti potrebne korektivne mjere kako bi se taj proizvod uskladio ili povukao s tržišta ili bi se spriječilo njegovo distribuiranje ako je to prikladnije.
+(11) Ako proizvod predstavlja rizik, proizvođač mora o tome bez odgode obavijestiti nadležna inspekcijska tijela navodeći podatke, posebno o nesukladnosti proizvoda i svim poduzetim korektivnim mjerama.
+(12) Proizvođač je obvezan na zahtjev nadležnog inspektora:
+– osigurati sve podatke i dokumente nužne za dokazivanje sukladnosti proizvoda na jeziku lako razumljivom nadležnom inspektoru
+– surađivati u svakoj poduzetoj radnji kako bi se uklonili rizici koje predstavlja proizvod koji je stavio na tržište.
+(13) Uz obveze iz stavaka 1. do 12. ovoga članka proizvođač je dužan ispuniti i obveze utvrđene pravilnicima iz članka 4. ovoga Zakona za pojedine proizvode donesenim temeljem ovoga Zakona.
+(14) Odredbe ovoga članka odgovarajuće se primjenjuju i na obveze ugraditelja prilikom projektiranja izrade, ugradnje i stavljanja proizvoda na tržište kada je to propisano pravilnicima iz članka 4. ovoga Zakona.
