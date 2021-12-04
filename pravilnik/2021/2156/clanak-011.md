@@ -1,0 +1,3 @@
+# Članak 11.
+(1) Podaci koji se koriste za izračun vrijednosti otočnih razvojnih pokazatelja dobivaju se iz baza podataka koje se nalaze u očevidnicima i drugim evidencijama koje vode tijela državne uprave i druga javnopravna tijela u okviru svog djelokruga, a ustupaju ih ministarstvu nadležnom za regionalni razvoj i fondove Europske unije (u daljnjem tekstu: Ministarstvo) na temelju njegovog zahtjeva i iz ostalih izvora podataka o otocima.
+(2) U slučaju nedostupnosti ili upitne kvalitete dostupnih podataka u razdoblju vrednovanja i praćenja, obuhvat i izračun pokazatelja unutar pojedinih podskupina pokazatelja iz članaka 5. - 10. ovog Pravilnika izvršit će se na temelju dostupnih statističkih podataka i evidentirati uz posebnu napomenu.
