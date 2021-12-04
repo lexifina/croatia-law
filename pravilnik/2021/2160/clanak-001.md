@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom uređuje se način ostvarivanja statusa sudionika Domovinskog rata, način imenovanja i rada Povjerenstva za ostvarivanje statusa sudionika Domovinskog rata (u daljnjem tekstu: Povjerenstvo) te ostalo u svezi s ostvarivanjem statusa sudionika Domovinskog rata iz članka 15. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17, 98/19 i 84/21) (u daljnjem tekstu: Zakon).
