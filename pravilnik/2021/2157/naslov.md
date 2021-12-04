@@ -1,0 +1,1 @@
+Pravilnik o načinu vrednovanja zahtjeva za dodjelu bespovratnih financijskih sredstava, načinu rada te sastavu i broju članova Povjerenstva za provedbu javnog poziva za promociju programa »Hrvatski otočni proizvod«
