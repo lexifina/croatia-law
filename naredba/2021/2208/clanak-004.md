@@ -1,0 +1,2 @@
+# Članak 4.
+Troškovi provedbe aktivnosti određenih člankom 3. točkom 3. ove Naredbe te drugih aktivnosti i mjera određenih od strane Nacionalnog kriznog stožera na području zona ograničenja, financiraju se sukladno Odluci o visini naknade za propisane veterinarske usluge pri provedbi mjera sprječavanja pojave i širenja influence ptica na zaraženim i ugroženim područjima Republike Hrvatske (klasa: 322-01/20-01/245, urbroj: 525-10/0542-20-3).

@@ -1,0 +1,5 @@
+# Članak 3.
+Osim mjera iz članka 1. ove Naredbe u zonama ograničenja određuje se sljedeće:
+1. zabrana premještanja peradi i ptica u zatočeništvu i njihovih proizvoda, nusproizvoda te drugih materijala kojima bi se mogla proširiti influenca ptica, unutar zona ograničenja sukladno člancima 27. i 42. te Prilogu VI. Delegirane uredbe Komisije (EU) 2020/687 od 17. prosinca 2019. o dopuni Uredbe (EU) 2016/429 Europskog parlamenta i Vijeća u pogledu pravila za sprječavanje i kontrolu određenih bolesti s popisa (u daljnjem tekstu: Uredba (EU) 2020/687)
+2. iznimno od točke 1. ovoga članka, u skladu s procjenom rizika od strane Lokalnog kriznog stožera sukladno članku 28. Uredbe (EU) 2020/687, veterinarski inspektor može rješenjem odobriti odstupanja od zabrane premještanja ukoliko su ispunjeni uvjeti iz članaka 29., 30., 31., 33., 34., 35., 36., 37., 43., 44., 46., 47., 49., 50., 51., 52. ili 53. Uredbe (EU) 2020/687
+3. provedba popisa i posjeta objektima na kojima se drži perad i ptice u zatočeništvu sukladno Uputi Uprave za veterinarstvo i sigurnost hrane (klasa: 322-02/21-01/28, urbroj: 525-10/0525-21-7).
