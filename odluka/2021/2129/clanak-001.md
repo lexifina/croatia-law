@@ -1,0 +1,5 @@
+## POMAGALA HRVATSKOG ZAVODA ZA
+## ZDRAVSTVENO OSIGURANJE
+# Članak 1.
+Ovom Odlukom utvrđuje se Dodatna lista ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Dodatna lista pomagala) koja sukladno članku 22. stavku 4. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 80/13., 137/13. i 98/19.) sadrži popis ortopedskih i drugih pomagala (u daljnjem tekstu: pomagala) s višom razinom cijene u odnosu na cijene pomagala utvrđene općim aktom Hrvatskog zavoda za zdravstveno osiguranje kojim se utvrđuje osnovna lista ortopedskih i drugih pomagala (u daljnjem tekstu: osnovna lista pomagala).
+Dodatna lista pomagala sadrži pomagala koja su namijenjena omogućavanju poboljšanja oštećenih funkcija odnosno ublažavanju ili otklanjanju tjelesnog oštećenja ili nedostatka organa i sustava organa ili nadomještanju anatomskih ili fizioloških funkcija organa, koji su nastali kao posljedica bolesti ili ozljede te indikacije, pravila i uvjete za njihovo ostvarivanje na teret sredstava obveznoga zdravstvenog osiguranja.
