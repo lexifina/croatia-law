@@ -1,3 +1,0 @@
-# Članak 2.
-Članak 6. Ugovora, mijenja se tako da se iza stavka 2. dodaje novi stavak 3. koji glasi:
-»3. Odredbe stavaka 1. i 2. ovoga članka primjenjuju se ne dovodeći u pitanje mjere koje je usvojila Europska zajednica.«

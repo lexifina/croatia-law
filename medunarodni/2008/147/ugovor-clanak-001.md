@@ -1,5 +1,0 @@
-# Članak 1.
-Članak 3. Ugovora mijenja se tako da se briše stavak 3. te se dodaju novi stavci 3., 4. i 5. koji glase:
-»3. Odredbe ovog članka o nacionalnom tretmanu i tretmanu najpovlaštenije države ne primjenjuju se na pogodnosti koje ugovorna stranka odobrava sukladno svojim obvezama kao članica carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine.
-4. Ugovorna stranka uviđa obveze druge ugovorne stranke da kao članica carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine uključi obveze proizašle iz međunarodnog ugovora ili ugovora o uzajamnosti te carinske, ekonomske ili monetarne unije, zajedničkog tržišta ili područja slobodne trgovine.
-5. Odredbe ovog Ugovora neće se tumačiti tako da obvezuju jednu ugovornu stranku da proširi na ulagatelje druge ugovorne stranke, ili na ulaganja ili povrate tih ulagatelja, pogodnosti bilo kojeg tretmana, prednosti ili povlastice koje ugovorna stranka može pružiti na temelju bilo kojeg međunarodnog ugovora ili dogovora koji se u potupunosti ili djelomično odnosi na oporezivanje.«
