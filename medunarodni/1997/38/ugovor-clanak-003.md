@@ -1,7 +1,0 @@
-# Članak 3.
-NACIONALNI POSTUPAK I POSTUPAK NAJVEĆEG POVLAŠTENJA
-1. Svaka ugovorna stranka primjenjivat će na svom teritoriju prema ulaganjima i isplatama ulagatelja druge ugovorne stranke postupak koji je pravičan i nepristran i ne manje povoljan od onog koji ta stranka primjenjuje prema ulaganjima i isplatama svojih vlastitih ulagatelja ili prema ulaganjima i isplatama bilo koje treće države, ovisno o tome što je povoljnije.
-2. Svaka ugovorna stranka primjenjivat će na svom teritoriju prema ulagateljima druge ugovorne stranke, u pogledu upravljanja, održavanja, upotrebe, uživanja ili raspolaganja njihovim ulaganjem, postupak koji je pravičan i nepristran i ne manje povoljan od onog koji ta stranka primjenjuje prema svojim vlastitim ulagateljima ili bilo koje treće države, ovisno o tome što je povoljnije.
-3. Odredbe iz stavka 1. i 2. ovog članka neće se tumačiti kao obveza jedne ugovorne stanke da prošiti na ulagatelje druge ugovorne stranke pogodnosti bilo kojeg postupka, prednosti ili povlastice koje prva ugovorna stranka može imati zahvaljujući:
-a) bilo kojoj carinskoj uniji ili slobodnoj trgovačkoj zoni ili monetarnoj uniji ili sličnim međunarodnim sporazumima koji vode do stvaranja takvih unija ili institucija ili drugim oblicima regionalne suradnje u kojima jedna ili druga ugovorna stranka jesu ili mogu postati učesnice;
-b) bilo kojem međunarodnom sporazumu ili aranžmanu koji se odnosi u cijelosti ili pretežito na oporezivanje.
