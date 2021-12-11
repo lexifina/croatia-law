@@ -1,0 +1,2 @@
+# Članak 68.
+Odjel za državne potpore na temelju Programa dodjele državnih potpora za nadoknadu štete prouzročene potresom prati provedbu korištenja dodijeljenih državnih potpora iz djelokruga Sektora; sudjeluje u izradi prijedloga programa državnih potpora; vodi evidenciju dodijeljenih državnih potpora; dostavlja podatke o dodijeljenim državnim potporama nadležnim tijelima te obavlja i druge poslove u okviru svoga djelokruga.

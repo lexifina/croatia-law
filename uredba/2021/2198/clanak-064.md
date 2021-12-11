@@ -1,0 +1,3 @@
+# Članak 64.
+Odjel za dodjelu novčane pomoći za obnovu obiteljskih kuća evidentira i obrađuje pristigle zahtjeve koji se odnose na novčanu pomoć za ublažavanje posljedica elementarnih nepogoda nastalim na obiteljskim kućama; donosi odluke o mjerama ublažavanja i o isplati novčane pomoći u skladu s propisima koji uređuju pitanja ublažavanja posljedica elementarnih nepogoda; prati utrošak financijskih sredstava i izvršenje ugovorenih rokova; prati provedbu mjera za ublažavanje posljedica elementarnih nepogoda; obavlja i druge poslove i radnje sukladno posebnim propisima za ublažavanje posljedica elementarnih nepogoda.
+4.4.3.2. Odjel za dodjelu novčane pomoći za obnovu višestambenih, stambeno-poslovnih i poslovnih zgrada
