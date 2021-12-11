@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 14. Uredbe (EU) 2021/1755 Europskog parlamenta i Vijeća od 6. listopada 2021. o uspostavi pričuve za prilagodbu Brexitu (SL L 357, 8. 10. 2021.), Vlada Republike Hrvatske je na sjednici održanoj 10. prosinca 2021. donijela
