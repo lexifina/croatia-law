@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost, te kriterijima i mjerilima za ocjenjivanje zahtjeva za dodjeljivanje sredstava Fonda (»Narodne novine« 18/09, 42/12, 73/13, 29/14 i 155/14) u članak 6. dodaje se novi stavak 2. koji glasi:
+»(2) Korisnici sredstava iz članka 2. ovog Pravilnika, kod dodjeljivanja sredstava Fonda koja se smatraju potporama, mogu ostvariti sredstva Fonda najviše do postotnog učešća opravdanih troškova ukupne vrijednosti ulaganja utvrđenog programom dodjele državnih potpora objavljenog na mrežnim stranicama Fonda.«
