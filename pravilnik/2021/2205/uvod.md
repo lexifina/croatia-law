@@ -1,0 +1,1 @@
+Na temelju članka 198. stavka 12. Zakona o strancima (»Narodne novine« br. 133/20) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar unutarnjih poslova, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
