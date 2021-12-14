@@ -1,0 +1,2 @@
+# Članak 18.
+Ovaj Pravilnik stupa na snagu prvoga dana nakon dana objave u »Narodnim novinama«, izuzev odredbe članka 16. stavka 3., i to u dijelu dostave podataka kroz mjesečni očevidnik za mrjestilište iz članka 4. stavka 2., mjesečni očevidnik za morsku ribu (osim tuna) iz članka 5. stavka 2., mjesečni očevidnik za tune iz članka 6. stavka 2. i mjesečni očevidnik za hladnovodne slatkovodne vrste iz članka 8. stavka 2. ovoga Pravilnika, koja stupa na snagu 1. siječnja 2022. godine.
