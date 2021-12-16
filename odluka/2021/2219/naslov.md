@@ -1,0 +1,1 @@
+Odluka o upućivanju pripadnika Oružanih snaga Republike Hrvatske na dužnosti u NATO zapovjednoj strukturi, nato strukturi snaga i drugim nacionalnim (multinacionalnim) zapovjedništvima u operacije i druge aktivnosti u inozemstvu pod vodstvom NATO-a
