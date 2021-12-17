@@ -1,0 +1,4 @@
+# Članak 3.
+Republika Hrvatska će, u skladu s člankom 33. Statuta iz članka 1. ovoga Zakona, dostaviti Azijskoj infrastrukturnoj investicijskoj banci sljedeće obavijesti:
+− u skladu s člankom 33. stavkom l. Statuta Azijske infrastrukturne investicijske banke, Republika Hrvatska određuje Ministarstvo financija Republike Hrvatske kao svoje službeno tijelo u Republici Hrvatskoj s kojim Azijska infrastrukturna investicijska banka može komunicirati u vezi s bilo kojim pitanjem koje proizlazi iz Statuta
+− u skladu s člankom 33. stavkom 2. Statuta Azijske infrastrukturne investicijske banke, Republika Hrvatska određuje Hrvatsku narodnu banku kao depozitara kod kojeg Azijska infrastrukturna investicijska banka može držati svoje udjele u valuti Republike Hrvatske, kao i ostalu imovinu Azijske infrastrukturne investicijske banke.
