@@ -1,0 +1,2 @@
+# Članak 2.
+Javna turistička infrastruktura je turistička infrastruktura iz članka 3. ovoga Pravilnika u vlasništvu Republike Hrvatske, jedinica lokalne i područne (regionalne) samouprave, tijela javne vlasti, javnih ustanova odnosno pravnih osoba kojima je osnivač ili većinski vlasnik Republike Hrvatska ili jedinica lokalne i područne (regionalne) samouprave i infrastruktura izgrađena na općem dobru, koja je kontinuirano ili dijelom godine u funkciji turizma te je dostupna svima pod jednakim uvjetima sukladno njezinoj prirodi i namjeni.
