@@ -1,0 +1,12 @@
+## Pojmovi
+# Članak 2.
+Pojmovi korišteni u ovom Pravilniku imaju sljedeće značenje:
+1) provoditelj izobrazbe je predavač, instruktor i trener koji neposredno provodi program izobrazbe, po načelu dobrovoljnosti
+2) predavač je službenik zatvorskog sustava, a po potrebi i službenik druge ustrojstvene jedinice ministarstva nadležnog za poslove pravosuđa, te vanjski suradnik (osoba izvan sustava ministarstva nadležnog za poslove pravosuđa) koji posjeduje odgovarajuće stručno znanje, iskustvo i ostale vještine potrebne da službenicima, polaznicima određenog programa omogući usvajanje stručnog znanja te razvijanje odgovarajućih sposobnosti i vještina
+3) instruktor je službenik zatvorskog sustava, a po potrebi i službenik druge ustrojstvene jedinice ministarstva nadležnog za poslove pravosuđa, te vanjski suradnik koji posjeduje odgovarajuća stručna znanja i vještine potrebne da polaznicima pojedinog programa omogući razvijanje, odnosno usavršavanje praktičnih vještina potrebnih za obavljanje određenih poslova i zadataka pojedinog radnog mjesta, a koji posjeduje dokaz za provođenje određenog stručnog osposobljavanja i usavršavanja u obliku javne isprave, npr. važeće dozvole, uvjerenja ili licence
+4) trener je službenik zatvorskog sustava, a po potrebi i službenik druge ustrojstvene jedinice ministarstva nadležnog za poslove pravosuđa te vanjski suradnik koji posjeduje odgovarajuće obrazovanje te specifična stručna znanja i vještine potrebne za organizaciju i provedbu određenog programa u obliku radionica, a koji posjeduje dokaz za provođenje određenog stručnog osposobljavanja i usavršavanja u obliku važeće dozvole, uvjerenja ili licence
+5) polaznik je službenik koji pohađa određeni program izobrazbe
+6) potvrda je dokument koju izdaje Centar za izobrazbu polaznicima i provoditeljima izobrazbe čime se potvrđuje sudjelovanje u određenom programu izobrazbe kojeg je organizirao Centar za izobrazbu
+7) voditelj praktičnog dijela temeljnog tečaja je službenik pravosudne policije koji sudjeluje u provedbi praktičnog dijela temeljnog tečaja koji vodi te prenosi stručno znanje i iskustvo u smislu pripreme za profesionalno, odgovorno i nepristrano obavljanje službenih zadaća odjela osiguranja
+8) nastavna skupina predmeta na temeljnom tečaju je tematski povezana cjelina u okviru koje se nalaze nastavni predmeti koji se izučavaju i polažu na temeljnom tečaju
+9) kompetencija je skup znanja, vještina i sposobnosti te pripadajuća samostalnost i odgovornost koje se očituju u obavljanju poslova određenog radnog mjesta.
