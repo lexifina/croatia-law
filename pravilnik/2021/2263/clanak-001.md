@@ -1,0 +1,9 @@
+## I. UVODNE ODREDBE
+## Sadržaj
+# Članak 1.
+(1) Ovim se Pravilnikom uređuju uvjeti, kriteriji i način priznavanja organizacija proizvođača u ribarstvu i akvakulturi, udruženja organizacija proizvođača i međustrukovnih organizacija te temeljna načela udruživanja i djelovanja organizacija.
+(2) Ovim se Pravilnikom osigurava provedba sljedećih uredbi i preporuke Europske unije:
+- Uredbe (EU) br. 1379/2013 Europskog parlamenta i Vijeća od 11. prosinca 2013. godine o zajedničkom uređenju tržišta proizvodima ribarstva i akvakulture, izmjeni Uredbi Vijeća (EZ) br. 1184/2006 i (EZ) br. 1224/2009 i stavljanju izvan snage Uredbe Vijeća (EZ) br. 104/2000 (SL L 354, 28. 12. 2013.) (u daljnjem tekstu: Uredba (EU) br. 1379/2013)
+- Provedbene Uredbe Komisije (EU) br. 1418/2013 оd 17. prosinca 2013. o planovima proizvodnje i trženja na temelju Uredbe (EU) br. 1379/2013 Europskog parlamenta i Vijeća o zajedničkom uređenju tržišta proizvodima ribarstva i akvakulture (SL L 353, 28. 12. 2013.) (u daljnjem tekstu: Uredba (EU) br. 1418/2013)
+- Provedbene Uredbe Komisije (EU) br. 1419/2013 оd 17. prosinca 2013. godine o priznavanju organizacija proizvođača i međustrukovnih organizacija, proširenju pravila organizacija proizvođača i međustrukovnih organizacija i objavljivanju inicijalnih cijena kako je predviđeno Uredbom (EU) br. 1379/2013 Europskog parlamenta i Vijeća o zajedničkom uređenju tržišta proizvodima ribarstva i akvakulture (SL L 353, 28. 12. 2013.) (u daljnjem tekstu: Uredba (EU) br. 1419/2013)
+- Preporuka Komisije 2014/117/EU o uspostavi i provedbi planova proizvodnje i trženja u skladu s Uredbom (EU) br. 1379/2013 Europskog parlamenta i Vijeća o zajedničkom uređenju tržišta proizvodima ribarstva i akvakulture (SL L 65, 5. 3. 2014.) (u daljnjem tekstu: Preporuka Komisije 2014/117/EU).

@@ -1,0 +1,5 @@
+## Promjene u pogledu članova organizacija proizvođača u ribarstvu
+# Članak 6.
+(1) U slučaju ukidanja povlastice u trogodišnjem promatranom razdoblju, bilo da se radi o zahtjevu za priznavanje ili tijekom kasnije provjere udovoljavanja uvjetima priznavanja, ukupna količina iskrcaja i vrijednost prodaje pojedinog člana, ovlaštenika povlastice, obračunava se do trenutka do kada je isti bio ovlaštenik povlastice.
+(2) U slučaju prijenosa povlastice na drugog ovlaštenika, ukupna količina iskrcaja i vrijednost prodaje koju je ostvario dotadašnji ovlaštenik povlastice obračunava se njemu do dana ukidanja povlastice. Ovlašteniku povlastice na kojeg je izvršen prijenos povlastice obračunava se ukupna količina iskrcaja i vrijednost prodaje ostvarena od trenutka izdavanja povlastice za gospodarski ribolov na moru.
+(3) U slučaju prijenosa povlastice radi zamjene plovila kod istog člana organizacije, ovlaštenika povlastice, obračunavaju se ukupne količine iskrcaja i vrijednost prodaje koji su ostvareni svim plovilima kojima je ovlaštenik obavljao ribolov.
