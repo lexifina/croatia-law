@@ -1,0 +1,2 @@
+# Članak 2.
+Osnovni cilj stručnog nadzora je osiguranje: zakonitog i pravilnog obavljanja poslova izvršavanja kazne zatvora i drugih kaznenopravnih mjera i sankcija, te drugih poslova koje kaznionice, zatvori i centri obavljaju, pravilne primjene Zakona o izvršavanju kazne zatvora i podzakonskih propisa donesenih temeljem njega, te drugih propisa koje kaznionice, zatvori i centri primjenjuju u svom radu i postupanju, unaprjeđenja obavljanja poslova kaznionica, zatvora i centara te povećanja djelotvornosti i ujednačavanja njihovog rada i postupanja.
