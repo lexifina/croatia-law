@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 16/18.), a u vezi s člankom 58. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, broj 138/21.), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2021. donijela
