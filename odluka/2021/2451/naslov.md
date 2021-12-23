@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijske skupštine Primorsko-goranske županije o II. izmjenama i dopunama Odluke o davanju koncesije za luku posebne namjene - luku nautičkog turizma Y/C »Marina«
