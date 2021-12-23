@@ -1,0 +1,6 @@
+## Postupak jednostavne obavijesti za priključivanje na mrežu
+# Članak 31.
+(1) Ministarstvo uspostavlja postupak jednostavne obavijesti za priključivanje na mrežu, pri čemu se proizvodna postrojenja ili objedinjene proizvodne jedinice potrošača vlastite energije iz obnovljivih izvora i demonstracijske projekte s priključnom snagom jednakom ili manjom od 10,8 kW, ili jednakovrijednom za priključke koji nisu trofazni, priključuje na elektroenergetsku mrežu nakon obavijesti operatoru distribucijskog sustava.
+(2) Nakon obavijesti iz stavka 1. ovoga članka, operator distribucijskog sustava može u roku od 30 dana odbiti zatraženo priključenje na mrežu ili predložiti alternativno mjesto priključenja zbog opravdanih sigurnosnih razloga ili tehničke nekompatibilnosti komponenti sustava.
+(3) U slučaju pozitivne odluke operatora distribucijskog sustava ili u nedostatku odluke operatora distribucijskog sustava u roku od jednog mjeseca nakon obavijesti, proizvodno postrojenje ili objedinjena proizvodna jedinica mogu se priključiti na elektroenergetsku mrežu.
+(4) Ministarstvo će odlukom odobriti postupke jednostavne obavijesti za proizvodna postrojenja ili objedinjene proizvodne jedinice s priključnom snagom iznad 10,8 kW i do 50 kW, pod uvjetom da se zadrži stabilnost, pouzdanost i sigurnost elektroenergetske mreže.

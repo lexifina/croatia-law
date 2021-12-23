@@ -1,0 +1,15 @@
+## Svrha Zakona i interes Republike Hrvatske
+# Članak 2.
+(1) Korištenje obnovljivih izvora energije i visokoučinkovite kogeneracije od interesa je za Republiku Hrvatsku.
+(2) Svrha ovoga Zakona je promicati proizvodnju električne i toplinske energije iz obnovljivih izvora energije i visokoučinkovite kogeneracije, promicati proizvodnju električne i toplinske energije iz obnovljivih izvora energije i visokoučinkovite kogeneracije na mjestu potrošnje, povećati udjele u ukupnoj konačnoj potrošnji energije proizvedene iz obnovljivih izvora energije korištenjem poticajnih mehanizama i regulatornog okvira za korištenje obnovljivih izvora energije i visokoučinkovite kogeneracije te ispuniti ciljeve Republike Hrvatske i pridonijeti ciljevima Europske unije u skladu s međunarodnim obvezama Europske unije za dekarbonizaciju.
+(3) Korištenjem obnovljivih izvora energije i visokoučinkovite kogeneracije postiže se obveza klimatskih ciljeva da Republika Hrvatska smanji emisije stakleničkih plinova prema raspodjeli obveze smanjenja te ostvaruju interesi Republike Hrvatske u području energetike, utvrđeni Strategijom energetskog razvoja Republike Hrvatske do 2030. s pogledom na 2050. godinu (»Narodne novine«, br. 25/20.), Integriranim nacionalnim energetskim i klimatskim planom za Republiku Hrvatsku za razdoblje od 2021. do 2030. godine (u daljnjem tekstu: NECP), propisima kojima se uređuju pojedina tržišta energije, kao i propisima kojima se uređuje obavljanje energetskih djelatnosti, u smislu:
+1. dekarbonizacije energetskog sektora
+2. ostvarivanja Nacionalnog cilja korištenja energije iz obnovljivih izvora energije u vezi s udjelom korištenja energije iz obnovljivih izvora energije u ukupnoj konačnoj potrošnji energije u Republici Hrvatskoj u 2030. godini
+3. šireg održivog korištenja vlastitih prirodnih energetskih resursa
+4. dugoročnog smanjenja ovisnosti o uvozu energenata
+5. učinkovitog korištenja energije i smanjenja utjecaja uporabe fosilnih goriva na okoliš
+6. otvaranja novih radnih mjesta i razvoja poduzetništva u energetici i drugim djelatnostima, koja se iniciraju s razvojem energetskih projekata i njihovih rezultata u lokalnoj zajednici
+7. poticanja razvoja novih i inovativnih tehnologija i doprinosa lokalnoj zajednici
+8. diversifikacije proizvodnje energije i povećanja sigurnosti opskrbe
+9. uključivanja građana i poduzetnika i njihovog aktivnog sudjelovanja u energetskoj tranziciji.
+(4) Prilikom donošenja relevantnih propisa Republike Hrvatske i podzakonskih propisa određenih odredbama ovoga Zakona osigurat će se da su odobrenja i dozvole koji se primjenjuju na proizvodna postrojenja za proizvodnju električne energije te pripadajuće prijenosne i distribucijske mreže za proizvodnju električne energije, grijanje ili hlađenje iz obnovljivih izvora energije, na postupak pretvorbe biomase u biogoriva, tekuća biogoriva, goriva iz biomase ili druge energetske proizvode, kao i na obnovljiva tekuća i plinovita goriva nebiološkog podrijetla namijenjena uporabi u prometu te postupci u kojima se izdaju, razmjerni i potrebni te da pridonose provedbi načela »održiva energetska učinkovitost na prvom mjestu«.

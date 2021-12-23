@@ -1,0 +1,6 @@
+## Integrirani nacionalni energetski i klimatski plan za Republiku Hrvatsku
+# Članak 6.
+(1) Integrirani nacionalni energetski i klimatski plan za Republiku Hrvatsku za razdoblje od 2021. do 2030. godine (u daljnjem tekstu: NECP) je akt strateškog planiranja iz članka 3. Uredbe (EU) 2018/1999, a u smislu ovoga Zakona temeljni planski dokument energetske i klimatske politike Republike Hrvatske koji se odnosi na određivanje indikativne putanje za povećanje obnovljive energije i postizanje zacrtanog udjela obnovljive energije u konačnoj brutopotrošnji energije u promatranom desetogodišnjem razdoblju u dimenziji dekarbonizacije.
+(2) NECP se donosi na razdoblje od deset godina, te se izrađuje, donosi, mijenja i usklađuje sukladno s Uredbom (EU) 2018/1999 i po usvajanju dostavlja se Europskoj komisiji.
+(3) NECP, kao i njegove izmjene i dopune, donosi Vlada Republike Hrvatske, na prijedlog Ministarstva, a njime se određuje putanja povećanja udjela obnovljive energije u bruto konačnoj potrošnji, kao rezultat putanja povećanja udjela obnovljive energije u električnoj energiji, grijanju i hlađenju i prometu, uzimajući u obzir nacionalni opći cilj za udio energije iz obnovljivih izvora u konačnoj brutopotrošnji energije za Republiku Hrvatsku.
+(4) NECP, kao i njegove izmjene i dopune objavljuju se na mrežnim stranicama Ministarstva.

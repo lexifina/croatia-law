@@ -1,0 +1,9 @@
+## Zajednički programi potpore za električnu energiju iz obnovljivih izvora
+# Članak 17.
+(1) Republika Hrvatska može s drugim državama članicama Europske unije dobrovoljno odlučiti o udruživanju svojih nacionalnih programa potpore ili ih djelomično uskladiti.
+(2) U slučaju udruživanja nacionalnih programa potpore ili njihovog djelomičnog usklađivanja iz stavka 1. ovoga članka određena količina energije iz obnovljivih izvora proizvedena na državnom području jedne države članice sudionice može se smatrati dijelom udjela obnovljive energije druge države članice sudionice ako te države članice:
+1. obave statistički prijenos određenih količina energije iz obnovljivih izvora iz jedne države članice u drugu državu članicu u skladu s člankom 11. ovoga Zakona ili
+2. utvrde pravilo distribucije koje su države članice sudionice dogovorile i prema kojemu se količina energija iz obnovljivih izvora dodjeljuje tim državama članicama.
+(3) O pravilu distribucije iz stavka 2. točke 2. ovoga članka Ministarstvo obavještava Europsku komisiju najkasnije tri mjeseca nakon završetka prve godine u kojoj pravilo proizvodi učinke.
+(4) U roku od tri mjeseca od završetka svake godine, ako je Ministarstvo obavijestilo Europsku komisiju u skladu sa stavkom 3. ovoga članka, izdaje obavijest u kojoj navodi ukupnu količinu električne energije ili energije grijanja ili hlađenja iz obnovljivih izvora proizvedenih svake godine za koju vrijedi pravilo distribucije iz stavka 2. točke 2. ovoga članka.
+(5) Za potrebe izračuna udjela obnovljive energije u skladu s odredbama ovoga Zakona, količina električne energije ili energije grijanja ili hlađenja iz obnovljivih izvora za koje je izdana obavijest u skladu sa stavkom 3. ovoga članka preraspodjeljuje se između dotičnih država članica u skladu s pravilom distribucije iz stavka 2. točke 2. ovoga članka iz obavijesti.

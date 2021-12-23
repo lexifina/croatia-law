@@ -1,0 +1,19 @@
+## Poticanje proizvodnje električne energije iz obnovljivih izvora energije tržišnom premijom
+# Članak 21.
+(1) Sustav poticanja tržišnom premijom oblik je poticanja proizvodnje električne energije iz proizvodnih postrojenja i/ili proizvodnih jedinica koje koriste obnovljive izvore energije ili visokoučinkovitih kogeneracija, kojim se nositelju projekta izgradnje proizvodnog postrojenja ili proizvodne jedinice za proizvodnju električne energije iz obnovljivih izvora energije i visokoučinkovite kogeneracije, omogućava sklapanje ugovora o tržišnoj premiji s operatorom tržišta energije.
+(2) Tržišna premija je poticaj odnosno novčani iznos koji operator tržišta energije isplaćuje povlaštenom proizvođaču električne energije za neto isporučenu električnu energiju iz proizvodnog postrojenja ili proizvodne jedinice u elektroenergetsku mrežu sukladno odredbama ovoga Zakona.
+(3) Ostvarivanje prava na sklapanje ugovora iz stavka 1. ovoga članka temelji se na odluci o odabiru najpovoljnijih ponuditelja na natječaju kojega provodi operator tržišta energije sukladno članku 22. ovoga Zakona.
+(4) Povlašteni proizvođač električne energije koji je sklopio ugovor iz stavka 1. ovoga članka prodaje električnu energiju na tržištu električne energije sukladno propisima kojima se uređuje tržište električne energije, osim ako operator tržišta energije nije iskoristio svoje pravo prvokupa po referentnoj cijeni od povlaštenih proizvođača električne energije koji su sklopili ugovor iz stavka 1. ovoga članka, sukladno članku 30. stavku 2. ovoga Zakona.
+(5) Sustavom poticanja tržišnom premijom potiče se izgradnja novih proizvodnih postrojenja i proizvodnih jedinica koje koriste obnovljive izvore energije i novih visokoučinkovitih kogeneracijskih postrojenja, do ispunjenja kvote za poticanje određene sukladno uredbi iz članka 19. stavka 6. ovoga Zakona, a u skladu s raspoloživim prostornim resursima za tu namjenu sukladno dokumentima prostornog uređenja.
+(6) Novim proizvodnim postrojenjem, u smislu ovoga Zakona, smatra se i rekonstrukcija postojećeg proizvodnog postrojenja ako obuhvaća značajne dijelove proizvodnog postrojenja i ako produžuje očekivani vijek trajanja proizvodnog postrojenja te uz ispunjavanje sljedećih uvjeta:
+1. da ukupni trošak rekonstrukcije iznosi najmanje 100% ukupnih planiranih prihoda proizvodnog postrojenja u obračunskom razdoblju od sedam godina i
+2. da je postojeća:
+– hidroelektrana starija od 30 godina
+– elektrana na biomasu starija od 20 godina
+– elektrana na bioplin starija od 20 godina
+– elektrana na biotekućine starija od 20 godina
+– sunčana elektrana starija od 20 godina
+– vjetroelektrana starija od 20 godina
+– geotermalna elektrana starija od 20 godina.
+(7) Ukupni planirani godišnji prihod proizvodnog postrojenja izračunava se na temelju prosječne planirane godišnje proizvodnje proizvodnog postrojenja i referentne vrijednosti (RV) iz članka 23. ovoga Zakona.
+(8) Pravna ili fizička osoba koja ima važeći ugovor o otkupu električne energije sklopljen s operatorom tržišta energije temeljem Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, broj 33/07.), Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 63/12, 121/12. i 144/12.), Tarifnog sustava za proizvodnju električne energije iz obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 133/13., 151/13., 20/14., 107/14. i 100/15.), Uredbe o poticanju proizvodnje električne energije iz obnovljivih izvora energije i visokoučinkovitih kogeneracija (»Narodne novine«, br. 116/18. i 60/20.) i ugovor o otkupu električne energije zajamčenom otkupnom cijenom iz članka 26. ovoga Zakona, nema pravo na poticaje u obliku tržišne premije sukladno odredbama ovoga Zakona za proizvodna postrojenja odnosno proizvodne jedinice za koje ostvaruje pravo na poticaje.

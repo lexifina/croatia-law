@@ -1,0 +1,4 @@
+## Prikupljanje i naplata naknade za obnovljive izvore energije i visokoučinkovitu kogeneraciju
+# Članak 49.
+(1) Operator tržišta energije sa svakim pojedinim opskrbljivačem sklapa ugovor kojim se detaljno uređuju sva međusobna prava i obveze u svezi s prikupljanjem naknade za obnovljive izvore energije i kogeneracije, obračunom i naplatom naknade.
+(2) Opskrbljivač električne energije dužan je izdati operatoru tržišta energije jamstvo radi osiguranja naplate naknade za obnovljive izvore energije i kogeneracije.

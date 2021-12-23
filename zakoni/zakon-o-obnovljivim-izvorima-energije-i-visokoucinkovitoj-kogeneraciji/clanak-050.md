@@ -1,0 +1,18 @@
+## Umanjena naknada za obnovljive izvore energije i visokoučinkovitu kogeneraciju
+# Članak 50.
+(1) Pojedine skupine poduzetnika koji pripadaju sektorima čiji je konkurentni položaj izložen riziku zbog troškova proizašlih iz financiranja potpore za energiju iz obnovljivih izvora energije te ispunjavaju uvjete iz uredbe iz stavka 11. ovoga članka, kao i poduzetnici koji su sukladno zakonu kojim se uređuju politike klimatskih promjena obveznici ishođenja dozvole za emisije stakleničkih plinova, mogu plaćati umanjenu naknadu za obnovljive izvore energije i kogeneraciju.
+(2) Umanjena naknada za obnovljive izvore energije i kogeneracije određuje se sukladno važećim pravilima o državnim potporama za zaštitu okoliša i energiju te sukladno odredbama ovoga Zakona i provedbenih propisa donesenima na temelju istoga.
+(3) Visinu umanjene naknade za obnovljive izvore energije i kogeneracije utvrđuje Vlada Republike Hrvatske odlukom iz članka 48. stavka 3. ovoga Zakona, a ona se određuje kao visina naknade za obnovljive izvore energije i kogeneracije umanjena za njezin postotni dio koji je određen u skladu s metodologijom iz uredbe iz stavka 11. ovoga članka.
+(4) Poduzetnik iz stavka 1. ovoga članka operatoru tržišta energije podnosi zahtjev za plaćanje umanjene visine naknade za obnovljive izvore energije i kogeneracije koji sadrži podatke propisane uredbom iz stavka 11. ovoga članka.
+(5) O zahtjevu iz stavka 4. ovoga članka operator tržišta energije odlučuje rješenjem.
+(6) Protiv rješenja iz stavka 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(7) U postupku iz stavka 5. ovoga članka operator tržišta energije ispituje:
+– aritmetičku sredinu izračunanu tijekom posljednje tri godine za koju su dostupni podaci o bruto dodanoj vrijednosti
+– potrošnju električne energije poduzetnika
+– troškove za električnu energiju poduzetnika
+– da poduzetnik nije u poteškoćama sukladno posebnim propisima
+– da poduzetnik nema duga ili nepodmirenog duga temeljem odluke Europske komisije o nezakonitosti ili nespojivosti potpore s unutarnjim tržištem.
+(8) Operator tržišta energije dužan je na svojim mrežnim stranicama javno objaviti popis poduzetnika koji plaćaju umanjenu naknadu za obnovljive izvore energije i kogeneracije i dostaviti ga Ministarstvu.
+(9) Operator tržišta energije dužan je najmanje jednom godišnje, najkasnije do 31. ožujka tekuće godine, podnijeti Ministarstvu i Agenciji, za prethodnu godinu, izvješće o prikupljanju, obračunu i razdiobi sredstava za isplatu poticaja iz članka 29. ovoga Zakona te o provedbi svojih obveza utvrđenih ovim Zakonom.
+(10) Operator tržišta energije dužan je najmanje jednom godišnje, najkasnije do 31. ožujka tekuće godine, izvijestiti javnost o prikupljanju, obračunu i razdiobi sredstava za isplatu poticaja iz članka 30. točke 9. ovoga Zakona, za prethodnu godinu, objavom na svojim mrežnim stranicama.
+(11) Obvezan sadržaj zahtjeva za utvrđivanje ispunjenja uvjeta za plaćanje umanjene visine naknade za obnovljive izvore energije i kogeneracije, dokaze i dokumentaciju koju je poduzetnik iz stavka 1. ovoga članka dužan priložiti uz zahtjev, način i metodologiju izračuna aritmetičke sredine, potrošnje električne energije i troškova za električnu energiju iz stavka 7. podstavaka 1., 2. i 3. ovoga članka, te njihove granične vrijednosti za poduzetnika iz stavka 1. ovoga članka, klasifikaciju poduzetnika koji plaćaju umanjenu visinu naknade za obnovljive izvore energije i kogeneracije te način i metodologiju izračuna umanjenja visine naknade za obnovljive izvore energije i kogeneracije utvrđuje Vlada Republike Hrvatske uredbom.

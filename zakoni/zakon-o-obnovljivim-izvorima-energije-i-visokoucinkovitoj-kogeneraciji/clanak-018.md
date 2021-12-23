@@ -1,0 +1,8 @@
+## Stabilnost financijske potpore
+# Članak 18.
+(1) Ministarstvo osigurava da potpore pružene projektima energije iz obnovljivih izvora i popratni uvjeti budu predvidljivi i stabilni, uz izbjegavanje učestale i retroaktivne promjene, te sprječava da revizija bilo koje potpore odobrene projektima obnovljive energije negativno utječe na gospodarsku održivost projekata, a što se ne odnosi na situacije bitno promijenjenih okolnosti i više sile.
+(2) Ministarstvo svakih pet godina procjenjuje djelotvornost programa potpora za električnu energiju iz obnovljivih izvora i njihov znatan distributivni utjecaj na različite skupine potrošača i ulaganja.
+(3) Procjena djelotvornosti programa potpora iz stavka 1. ovoga članka uzima u obzir učinak mogućih izmjena programa potpore.
+(4) Procjena djelotvornosti programa potpora iz stavka 1. ovoga članka relevantna je za ažuriranje NECP-a, i njegov je sastavni dio temeljem kojeg se za potrebe dugoročnog planiranja upravlja odlukama o programu potpora i izradi novog programa potpore.
+(5) Ministarstvo, u suradnji s operatorom tržišta energije objavljuje dugoročan raspored kojim se predviđa očekivana dodjela potpore, obuhvaćajući, kao referentnu točku, barem sljedećih pet godina ili, u slučaju ograničenja u vezi s planiranjem proračuna, sljedeće tri godine, uključujući okvirni vremenski raspored, učestalost natječajnog postupka prema potrebi, očekivani kapacitet i proračun ili najveći mogući jedinični iznos potpore čije se dodjele očekuju, kao i očekivane prihvatljive tehnologije, ako je primjenjivo.
+(6) Raspored iz stavka 5. ovoga članka operator tržišta energije ažurira svake godine ili prema potrebi kako bi se u njemu odrazila najnovija kretanja na tržištu ili očekivana dodjela potpore.

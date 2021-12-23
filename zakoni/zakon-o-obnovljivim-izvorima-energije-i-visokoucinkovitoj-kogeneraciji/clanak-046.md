@@ -1,0 +1,9 @@
+## Obvezno preuzimanje udjela električne energije
+# Članak 46.
+(1) Opskrbljivači električne energije dužni su preuzeti udio izražen u postotku u neto isporučenoj električnoj energiji povlaštenih proizvođača električne energije iz članka 45. ovoga Zakona, uključivo pravo na jamstvo podrijetla iz članka 35. stavka 1. ovoga Zakona po reguliranoj otkupnoj cijeni koja iznosi 0,42 kn/kWh.
+(2) Operator tržišta energije preostali udio u neto isporučenoj električnoj energiji povlaštenih proizvođača električne energije iz članka 45. ovoga Zakona prodaje na tržištu električne energije na razvidan i nepristran način.
+(3) Vlada Republike Hrvatske udio iz stavka 1. ovoga članka utvrđuje na temelju plana prihoda i rashoda operatora tržišta električne energije za sljedeću godinu s projekcijama za najmanje trogodišnje razdoblje povezanih sa sustavima poticanja, koje operator tržišta energije dostavlja Ministarstvu do kraja tekuće godine.
+(4) Preostali udio u neto isporučenoj električnoj energiji iz stavka 2. ovoga članka jednak je razlici plana proizvodnje EKO bilančne grupe i dijela električne energije koje su opskrbljivači obvezni preuzeti sukladno stavku 1. ovoga članka.
+(5) Operator tržišta energije ovlašten je trgovati električnom energijom na tržištu električne energije, na razvidan i nepristran način, kako bi se osigurala prodaja električne energije iz stavka 2. ovoga članka sukladno planiranoj proizvodnji EKO bilančne grupe.
+(6) Prodaja električne energije iz stavka 2. ovoga članka provodi se u skladu s pravilima prodaje električne energije koja donosi operator tržišta energije uz prethodno mišljenje Agencije i prethodnu suglasnost Ministarstva.
+(7) Udio iz stavka 1. ovoga članka propisuje Vlada Republike Hrvatske uredbom koju donosi do 31. listopada tekuće godine za iduću godinu.

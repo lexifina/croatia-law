@@ -1,0 +1,6 @@
+## Programi za ostvarivanje sektorskih ciljeva
+# Članak 58.
+(1) Za potrebe ostvarivanja sektorskih ciljeva obnovljivih izvora energije, vezano uz buduće projekte sufinancirane od strane EU fondova, Vlada Republike Hrvatske će donijeti program implementacije energetske učinkovitosti i obnovljivih izvora kojim se utvrđuje područje ulaganja u energetsku učinkovitost i povećanja obnovljive energije u centralnim toplinskim sustavima.
+(2) Ministar donosi odluku o preporukama za uklanjanje prepreka i rasterećenjem administrativnih postupaka koji ograničavaju korištenje energije iz obnovljivih izvora, uključujući mjere za promicanje potrošnje energije iz obnovljivih izvora iz vlastite proizvodnje i zajednica energije iz obnovljivih izvora.
+(3) Odluka iz stavka 2. ovoga članka objavit će se na mrežnim stranicama Ministarstva.
+(4) Za potrebe ostvarivanja sektorskih ciljeva u sektoru prometa, ministar će, uz suglasnost ministra nadležnog za promet i uz suglasnost ministra nadležnog za turizam, predložiti Vladi Republike Hrvatske donošenje programa kojim se potiču aktivnosti u sektoru prometa u smislu izgradnje infrastrukture za alternativna goriva na autocestama, državnim i lokalnim cestama te morskim i riječnim lukama.
