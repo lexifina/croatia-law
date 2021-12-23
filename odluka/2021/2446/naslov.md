@@ -1,0 +1,1 @@
+Odluka o donošenju Programa suzbijanja energetskog siromaštva koji uključuje korištenje obnovljivih izvora energije u stambenim zgradama na potpomognutim područjima i područjima posebne državne skrbi za razdoblje do 2025. godine
