@@ -1,0 +1,6 @@
+## GLAVA VII. POVREDA ODREDABA OVOGA ZAKONA
+# Članak 48.
+(1) Za povredu odredbi ovoga Zakona o sukobu interesa ili drugog zabranjenog ili propisanog ponašanja iz članka 7. (zabranjena djelovanja obveznika), članka 9. (deklariranje sukoba interesa i nesudjelovanje u odlučivanju), članka 10. (obveza podnošenja imovinske kartice), članka 15. stavaka 3. i 4. (primanje darova), članka 16. (naknade obveznika), članka 17. (obavljanje drugih poslova obveznika), članka 18. (članstvo u upravnim tijelima i nadzornim odborima), članka 19. stavaka 1. i 4., članka 20. stavaka 1. i 4., članka 21. stavaka 1. i 4. (članstvo i udjeli obveznika u trgovačkim društvima i ograničenja poslovanja) i članka 29. (očitovanje obveznika u slučaju nesklada odnosno nerazmjera prijavljene imovine) ovoga Zakona, Povjerenstvo osobama iz članka 3. ovoga Zakona, uzimajući u obzir načelo razmjernosti, može izreći:
+1. opomenu
+2. novčanu sankciju.
+(2) Ako je primjereno naravi povrede, Povjerenstvo može tijekom postupka naložiti obvezniku da otkloni uzroke postojanja sukoba interesa u određenom roku te, ako obveznik to učini, može obustaviti postupak ili isti dovršiti i ispunjenje naloga uzeti u obzir prilikom izricanja sankcije.

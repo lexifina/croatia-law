@@ -1,0 +1,4 @@
+# Članak 53.
+(1) Novčanom kaznom u iznosu od 5000,00 od 50.000,00 kuna kaznit će se obveznik koji u roku određenom u članku 23. ovoga Zakona nakon prestanka dužnosti prihvati imenovanje ili izbor ili sklopi ugovor kojim stupa u radni odnos kod pravne osobe koja je za vrijeme obnašanja mandata obveznika bila u poslovnom odnosu ili kad u trenutku imenovanja, izbora ili sklapanja ugovora iz svih okolnosti konkretnog slučaja jasno proizlazi da namjerava stupiti u poslovni odnos s tijelom u kojem je obnašao dužnost.
+(2) Za prekršaj iz stavka 1. ovoga članka uz izrečenu novčanu kaznu oduzet će se i imovinska korist pribavljena prekršajem.
+(3) Za prekršaj iz stavka 1. ovoga članka uz izrečenu novčanu kaznu izreći će se i zaštitna mjera zabrane obavljanja zvanja, određenih djelatnosti, poslova ili dužnosti fizičkoj osobi u trajanju od jedne godine.

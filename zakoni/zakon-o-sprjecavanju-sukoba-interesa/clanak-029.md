@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Ako obveznik ne dostavi Povjerenstvu pisano očitovanje iz članka 28. stavka 2. ovoga Zakona u roku od 15 dana ili ne priloži odgovarajuće dokaze na temelju kojih se osnovano može utvrditi da je stvarno imovinsko stanje bilo istovjetno prijavljenim podacima, a ne podacima pribavljenima od nadležnih tijela, Povjerenstvo će pokrenuti postupak zbog povrede odredbi članka 10., članka 11. i članka 12. stavka 3. ovoga Zakona.
+(2) Ako rezultati provedenog postupka redovite provjere upućuju na mogući znatan nesklad ili nerazmjer između prijavljenih primitaka i imovine stečene za vrijeme trajanja mandata, Povjerenstvo može takve informacije proslijediti Ministarstvu financija, Poreznoj upravi uz prikupljenu dokumentaciju.
+(3) Po primitku informacija iz stavka 2. ovoga članka Ministarstvo financija, Porezna uprava postupit će u skladu s poreznim propisima.

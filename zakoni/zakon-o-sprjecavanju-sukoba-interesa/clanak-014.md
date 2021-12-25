@@ -1,0 +1,6 @@
+## Povreda odredbi o podnošenju imovinske kartice
+# Članak 14.
+(1) Ako obveznik ne ispuni obvezu podnošenja imovinske kartice iz članaka 10. i 11. te članka 12. stavka 3. ovoga Zakona, Povjerenstvo će pokrenuti postupak protiv obveznika zbog povrede odredbi o podnošenju imovinske kartice.
+(2) Iznimno od stavka 1. ovoga članka, Povjerenstvo će obveznika podnošenja imovinske kartice koji prvi put podnosi imovinsku karticu povodom prvog stupanja na dužnost, prije pokretanja postupka iz stavka 1. ovoga članka, pisanim putem pozvati da ispuni imovinsku karticu u roku koji ne može biti kraći od osam dana niti duži od 15 dana od dana zaprimanja pisane obavijesti.
+(3) Kada Povjerenstvo utvrdi da obveznik nije podnio imovinsku karticu na propisanom obrascu i s potpisom ili ovjerom sukladno članku 11. stavku 1. ovoga Zakona ili ako je obrazac imovinske kartice nepotpuno ili nepravilno ispunjen, pozvat će obveznika da otkloni nedostatke u roku koji ne može biti kraći od osam dana niti duži od 15 dana od dana zaprimanja pisane obavijesti.
+(4) Ako obveznik ne postupi u roku navedenom iz stavaka 2. i 3. ovoga članka, Povjerenstvo će protiv obveznika pokrenuti postupak zbog povrede odredbi o imovinskoj kartici.

@@ -1,0 +1,8 @@
+## Članstvo u upravnim tijelima i nadzornim odborima
+# Članak 18.
+(1) Obveznici ne mogu biti članovi uprave ili upravnih odbora i nadzornih odbora trgovačkih društava, upravnih vijeća ustanova odnosno nadzornih odbora izvanproračunskih fondova niti mogu obavljati poslove upravljanja u poslovnim subjektima.
+(2) Iznimno od stavka 1. ovoga članka, obveznici mogu biti članovi dvaju nadzornih odbora povezanih trgovačkih društava, ali bez prava na naknadu te članovi u najviše do dva upravna vijeća ustanova odnosno nadzorna odbora izvanproračunskih fondova koji su od posebnog državnog interesa odnosno od posebnog interesa za jedinicu lokalne i područne (regionalne) samouprave, osim ako posebnim zakonom nije određeno da je obveznik član upravnog vijeća ustanove odnosno nadzornog odbora izvanproračunskog fonda po položaju. Za članstvo u upravnim vijećima ustanova odnosno nadzornim odborima izvanproračunskih fondova obveznik nema pravo na naknadu, osim prava na naknadu putnih i drugih opravdanih troškova.
+(3) Hrvatski sabor utvrđuje popis pravnih osoba od posebnog državnog interesa, na prijedlog Vlade Republike Hrvatske.
+(4) Predstavničko tijelo jedinice lokalne odnosno područne (regionalne) samouprave utvrđuje popis pravnih osoba od posebnog interesa za tu jedinicu.
+(5) Obveznici smiju biti članovi upravnih i nadzornih tijela najviše dviju neprofitnih udruga i zaklada bez prava na naknadu ili primanje dara u toj ulozi, osim prava na naknadu putnih i drugih opravdanih troškova.
+(6) Odredbe stavka 2. ovoga članka ne odnose se na općinske načelnike, gradonačelnike, župane i njihove zamjenike.

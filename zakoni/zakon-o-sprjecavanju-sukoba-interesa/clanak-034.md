@@ -1,0 +1,11 @@
+## Postupak izbora kandidata
+# Članak 34.
+(1) Šest mjeseci prije isteka mandata predsjednika odnosno članova Povjerenstva Odbor pokreće postupak za izbor novog predsjednika odnosno članova Povjerenstva.
+(2) Odbor će objaviti javni poziv za kandidate za predsjednika odnosno članove Povjerenstva. Rok za prijavu kandidata na objavljeni javni poziv je 15 dana.
+(3) Javni poziv objavljuje se u »Narodnim novinama« te na mrežnim stranicama Hrvatskoga sabora i Povjerenstva. U javnom pozivu navode se uvjeti za izbor predsjednika i članova Povjerenstva određeni ovim Zakonom, rok za podnošenje prijedloga kandidata te prilozi koji moraju biti dostavljeni uz prijavu.
+(4) Na temelju zaprimljenih prijava Odbor će bez odgađanja utvrditi liste kandidata koji udovoljavaju uvjetima za predsjednika odnosno članove Povjerenstva. Liste se objavljuju na službenim mrežnim stranicama Hrvatskoga sabora.
+(5) Odbor će obaviti razgovore sa svakim od kandidata s liste iz stavka 4. ovoga članka u roku od 15 dana od dana objave lista. Javnost ima pravo nazočiti održavanju razgovora s kandidatima.
+(6) Na temelju održanih razgovora Odbor će utvrditi jedinstvenu završnu listu sastavljenu u pravilu od trostruko više kandidata za predsjednika te jedinstvenu završnu listu sastavljenu u pravilu od trostruko više kandidata za članove Povjerenstva. Kandidati s jedinstvene završne liste dužni su po pozivu podnijeti Odboru imovinsku karticu. Za kandidate s jedinstvene završne liste provodi se temeljna sigurnosna provjera prema zakonu kojim se uređuju sigurnosne provjere.
+(7) Jedinstvene završne liste objavljuju se na sjednici Odbora s navođenjem kratkog obrazloženja za uvrštavanje pojedinog kandidata na listu. Posebno se navodi je li neki kandidat uvršten na listu na temelju jednoglasne odluke Odbora.
+(8) Jedinstvene završne liste dostavljaju se Hrvatskome saboru, koji će sukladno dostavljenim listama provesti izbor predsjednika i članova Povjerenstva.
+(9) Hrvatski sabor će tajnim glasovanjem provesti izbor predsjednika i članova Povjerenstva među predloženim kandidatima. Za predsjednika Povjerenstva izabrat će se onaj kandidat koji dobije većinu glasova svih zastupnika. Za članove Povjerenstva izabrat će se četiri kandidata koji dobiju većinu glasova svih zastupnika.
