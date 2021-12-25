@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 3. mijenja se i glasi:
+»(1) Prigodni srebrni kovani novac iz članka 1. ove Odluke izdaje se u apoenu od 10 i 20 kuna (u nastavku teksta: prigodni srebrni kovani novac). Srebrni kovani novac od 10 kuna izdaje se u količini ne većoj od 15.000 komada i u ukupnom nominalnom iznosu ne većem od 150.000,00 kuna. Srebrni kovani novac od 20 kuna u boji izdaje se u količini ne većoj od 500 komada i u ukupnom nominalnom iznosu ne većem od 10.000 kuna.
+(2) Prigodni srebrni kovani novac izrađuje se od srebra stupnja čistoće 999/1000, u tehnici kovanja visokoga kovničkog sjaja. Srebrni kovani novac od 10 kuna imat će masu od 31,103 grama uz moguće odstupanje od +0,30 grama i promjer od 38,61 milimetra uz moguće odstupanje od ±0,20 milimetara. Srebrni kovani novac od 20 kuna u boji imat će masu od 155,50 grama uz moguće odstupanje od +0,50 grama i promjer od 60,00 milimetara uz moguće odstupanje od ±0,50 milimetara.«
