@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom određuju se kriteriji i postupak prema kojima će Ministarstvo kulture i medija Republike Hrvatske sufinancirati projekte pravnih osoba registriranih u Republici Hrvatskoj (u daljnjem tekstu: hrvatski projektni partneri) koji se provode u okviru programa Europske unije Kreativna Europa - potprogram Kultura, a koji su prethodno pozitivno ocijenjeni i odobreni na razini Europske unije u okviru jednog od natječaja navedenog potprograma.
+(2) Program Kreativna Europa provodi Europska komisija odnosno Europska izvršna agencija za obrazovanje i kulturu (u daljnjem tekstu: Izvršna agencija).

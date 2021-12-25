@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Uzimajući u obzir status hrvatskoga projektnog partnera u projektu, njegovo trajanje, financijski udjel hrvatskog projektnog partnera u projektu te raspoloživost sredstava državnog proračuna koja su Ministarstvu kulture i medija osigurana za sufinanciranje hrvatskih projektnih partnera, prijavnice za sufinanciranje projekata programa EU Kreativna Europa - potprogram Kultura razmatra Kulturno vijeće za međunarodnu kulturnu suradnju pri Ministarstvu kulture i medija.
+(2) Ministrica kulture i medija na temelju stručnog mišljenja i prijedloga Kulturnog vijeća iz stavka 1. ovoga članka odlučuje o iznosu sufinanciranja svih hrvatskih projektnih partnera koji su ispunili uvjete navedene u članku 5. ovog Pravilnika.
