@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16 i 101/17) i članka članka 32. Statuta Općine Višnjan (»Službeni glasnik« Općine Višnjan broj 1/21), Općinsko vijeće Općine Višnjan, na sjednici održanoj 10. prosinca 2021. godine, donosi

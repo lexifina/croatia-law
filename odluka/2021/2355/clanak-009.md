@@ -1,0 +1,4 @@
+## IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 9.
+Danom primjene ove Odluke stavlja se izvan snage Odluka o općinskim porezima (»Službeni glasnik« Općine Višnjan broj 3/2020) i Odluka o izmjenami i dopuni Odluke o lokalnim porezima Općine Višnjan (»Službeni glasnik« Općine Višnjan broj 2/2021).
+Postupci utvrđivanja i naplate općinskih poreza koji su započeti prije stupanja na snagu ove Odluke dovršit će se prema odredbama Odluke o općinskim porezima (»Službeni glasnik Grada Poreča«, broj 16/2001), Odluke o općinskim porezima (»Službeni glasnik« Općine Višnjan 4/2019), Odluka o općinskim porezima (»Službeni glasnik« Općine Višnjan broj 3/2020) i Odluka o izmjenami i dopuni Odluke o lokalnim porezima Općine Višnjan (»Službeni glasnik« Općine Višnjan broj 2/2021) i drugih propisa koji su važili u trenutku započinjanja predmetnih postupaka.
