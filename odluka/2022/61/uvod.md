@@ -1,0 +1,1 @@
+Na temelju čl. 23. Zakona o vodnim uslugama (»Narodne novine« 66/2019) i čl. 52. - 58. Zakona o financiranju vodnog gospodarstva (»Narodne novine« 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) te čl. 32. Društvenog ugovora za Moslavinu d.o.o. Skupština Društva MOSLAVINE d.o.o. na svojoj sjednici održanoj 28. prosinca 2021. godine donosi
