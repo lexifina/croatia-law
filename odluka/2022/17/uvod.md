@@ -1,0 +1,1 @@
+Na temelju čl. 23. Zakona o vodnim uslugama (»Narodne novine« broj 66/2019) i čl. 52. - 58. Zakona o financiranju vodnog gospodarstva (»Narodne novine« broj 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) te čl. 43. Društvenog ugovora za Međimurske vode d.o.o. Skupština Društva Međimurske vode d.o.o. na svojoj sjednici održanoj 29. prosinca 2021. godine donosi
