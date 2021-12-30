@@ -1,0 +1,9 @@
+I.
+U Odluci o uvođenju posebne organizacije rada za djelatnost trgovine koja se obavlja u prodavaonicama i trgovačkim centrima (»Narodne novine« broj 138/20, 2/21, 8/21, 14/21, 20/21, 26/21, 32/21, 40/21, 46/21, 52/21, 58/21, 65/21, 73/21, 80/21, 86/21, 90/21, 95/21, 100/21, 106/21, 112/21, 117/21, 121/21, 129/21 i 138/21) točka X. mijenja se i glasi:
+»Nužne epidemiološke mjere iz ove Odluke određuju se u trajanju do 31. siječnja 2022.«.
+II.
+Iza točke X. dodaje se točka X.a koja glasi:
+»X.a
+U slučaju bitno izmijenjenih okolnosti ova Odluka može se mijenjati i dopunjavati i prije isteka roka do kojeg su određene nužne epidemiološke mjere.«
+III.
+Ova Odluka objavit će se u »Narodnim novinama«, a stupa na snagu 30. prosinca 2021.
