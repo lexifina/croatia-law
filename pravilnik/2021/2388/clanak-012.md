@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Komisija za utvrđivanje zdravstvene sposobnosti daje ocjenu o zdravstvenoj sposobnosti kandidata i službenika pravosudne policije na temelju propisanih mjerila iz članka 4. stavka 2. ovog Pravilnika, medicinske dokumentacije i obrade koja je obavljena u ovlaštenoj zdravstvenoj ustanovi u roku od 8 dana od obavljenog zdravstvenog pregleda, a najkasnije u roku 30 dana ako je potrebna dodatna medicinska obrada.
+(2) Pri davanju ocjene o zdravstvenoj sposobnosti pregledane osobe, Komisija za utvrđivanje zdravstvene sposobnosti može konzultirati i/ili zatražiti vještačenje drugih liječnika određenih specijalnosti.

@@ -1,0 +1,2 @@
+# Članak 14.
+Komisija za utvrđivanje zdravstvene sposobnosti će ocijeniti nesposobnim kandidata kod kojeg, sukladno mjerilima iz Priloga 2. ovog Pravilnika, utvrdi bolest, stanje, povredu ili njihovu posljedicu, odnosno tjelesnu manu koja je zapreka za uspješno obavljanje poslova službenika pravosudne policije ili kada postoji kombinacija više kontraindikacija koje inače same po sebi nisu zapreka za rad na navedenim poslovima.

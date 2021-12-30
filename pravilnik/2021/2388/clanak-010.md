@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Službenici pravosudne policije na poslovima osiguranja kaznenih tijela mogu su uputiti na izvanredni zdravstveni pregled kada to, na temelju obrazloženog pisanog prijedloga, zatraži upravitelj kaznenog tijela, ravnatelj nadležan za poslove zatvorskog sustava ili nadležni liječnik primame zdravstvene zaštite, a po završetku bolovanja dužeg od 42 dana, odnosno godišnje bolovanja dužeg od 90 dana kumulativno.
+(2) Zdravstvena sposobnost službenika pravosudne policije na periodičnom zdravstvenom pregledu te izvanrednom zdravstvenom pregledu utvrđuje se mjerilima iz članka 4. stavka 2. ovog Pravilnika, prilagođenim prirodnom opadanju pojedinih funkcija u skladu sa životnom dobi i radnim stažem službenika pravosudne policije.

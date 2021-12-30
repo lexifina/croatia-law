@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Zdravstvene preglede koji prethode ocjeni i mišljenju o sposobnosti obavlja ovlaštena ustanova s kojom Ministarstvo sklopi ugovor o obavljanju zdravstvenih pregleda, odnosno poslova specifične zdravstvene zaštite (u daljnjem tekstu: ovlaštena zdravstvena ustanova).
+(2) Mjerila zdravstvene sposobnosti za osobe iz članka 1. stavka 1. ovoga Pravilnika te popis bolesti i zdravstvenih stanja koje čine zapreku za obavljanje poslova službenika pravosudne policije iz članka 1. stavka 1. ovog pravilnika utvrđeni su u Prilogu 2., koji je njegov sastavni dio, te se za svaku pregledanu osobu evidentiraju na zdravstvenom kartonu koji vodi ovlaštena zdravstvena ustanova.
+(3) Zdravstvena sposobnost službenika pravosudne policije na periodičnom pregledu te izvanrednom pregledu utvrđuje se mjerilima iz stavka 2. ovoga članka prilagođenim prirodnom opadanju pojedinih funkcija u skladu sa životnom dobi i duljinom rada službenika pravosudne policije.
+(4) Obrazac zdravstvenog kartona sastavni je dio ovog Pravilnik (Prilog 3.).
