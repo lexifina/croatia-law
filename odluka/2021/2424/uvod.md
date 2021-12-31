@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o meteorološkoj i hidrološkoj djelatnosti (»Narodne novine« br. 66/19), glavna ravnateljica Državnog hidrometeorološkog zavoda, uz prethodnu suglasnost ministra nadležnog za zaštitu okoliša klasa: 011-01/21-01/748 urbroj: 517-14-1-21-2 od 3. studenoga 2021. godine, donijela je
