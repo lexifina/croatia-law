@@ -1,0 +1,5 @@
+# Članak 15.
+Porez na korištenje javnih površina koji se utvrđuje za ugostiteljske štekate, kioske i kućice, umanjit će se za 20 % ako korisnik radi cijelu godinu, uz uvjet da je u roku određenom poreznim rješenjem zatvorio dugovanje prethodne godine te nema evidentiranih ostalih dugovanja prema Općini Podgora na dan 1. ožujka tekuće godine.
+Porezni obveznik dužan je uz zahtjev za ostvarivanje prava iz stavka 1. ovog članka dostaviti dokaz o cjelogodišnjem radu (prijava obrta, porezni dokument ili sl.) do 31. ožujka tekuće godine za koju se izdaje rješenje, a najkasnije danom početka obavljanja djelatnosti, ako je počeo obavljati djelatnost iza tog datuma.
+Visina poreza na korištenje javnih površina koji se utvrđuje za ugostiteljske štekate, kioske, kućice i štandove, umanjit će se za 10 % obvezniku plaćanja poreza uz uvjet da ima prebivalište ili sjedište u Općini Podgora, da je u roku određenom poreznim rješenjem zatvorio dugovanje prethodne godine te nema evidentiranih ostalih dugovanja prema Općini Podgora na dan 1. ožujka tekuće godine.
+Umanjenja poreza na korištenje javnih površina iz stavka 1. i stavka 3. ne mogu se kumulirati.

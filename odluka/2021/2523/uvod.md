@@ -1,0 +1,1 @@
+Na temelju članka 20., članka 41. stavak 4. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 32. Statuta Općine Podgora (»Glasnik Općine Podgora« broj 5/09, 9/09, 3/13, 3/15, 4/18, 5/20 - pročišćeni tekst, 14/20 i 4/21), Općinsko vijeće Općine Podgora, na 6. sjednici održanoj 15. prosinca 2021. godine, donosi
