@@ -1,0 +1,3 @@
+# Članak 62.
+(1) Postupci pregledavanja i potvrđivanja geodetskih elaborata infrastrukture, za koje su zaprimljeni zahtjevi za pregled i potvrđivanje geodetskih elaborata infrastrukture u tijelu nadležnom za osnivanje, vođenje i održavanje katastra infrastrukture započeti do dana stupanja na snagu ovoga Pravilnika, dovršit će se prema odredbama Pravilnika o katastru infrastrukture (»Narodne novine«, br. 29/17).
+(2) Datumom započinjanja pregledavanja i potvrđivanja geodetskog elaborata katastra infrastrukture iz stavka 1. ovoga članka, smatra se datum primitka zahtjeva za pregled i potvrđivanje elaborata u područnom uredu za katastar odnosno tijelu nadležnom za katastarske i geodetske poslove Grada Zagreba.

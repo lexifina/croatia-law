@@ -1,0 +1,5 @@
+# Članak 29.
+(1) Terenska mjerenja za geodetske elaborate infrastrukture koji se izrađuju u svrhe propisane člankom 32. ovoga Pravilnika moraju biti obavljena osloncem na geodetsku osnovu.
+(2) Kvaliteta podataka terenskih mjerenja lomnih točaka infrastrukture i pripadajućih objekata te lomnih točaka otkrivene infrastrukture za potrebe izrade geodetskog elaborata infrastrukture u svrhu evidentiranja promjena na infrastrukturi, a koje se evidentiraju u katastru infrastrukture određuje se područjem povjerenja za koordinate uz 95% vjerojatnosti standardom položajne točnosti do 0.10 metara.
+(3) Ako tehnički zahtjevi za pojedinu infrastrukturu uvjetuju veću točnost određivanja visina lomnih točaka infrastrukture od one propisane stavkom 2. ovoga članka, potrebno je prilikom izvođenja geodetske izmjere primijeniti odgovarajuću metodu mjerenja koja će osigurati traženu točnost.
+(4) Koordinate lomnih točaka infrastrukture i pripadajućih objekata i pomoćnih točaka za potrebe izmjere određuju se sukladno tehničkim specifikacijama za određivanje koordinata točaka u koordinatnom sustavu Republike Hrvatske.

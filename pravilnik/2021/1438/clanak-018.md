@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Ukoliko podaci iz članka 17. stavka 1. ovoga Pravilnika nisu u skladu s tehničkim specifikacijama, tijelo nadležno za osnivanje, vođenje i održavanje katastra infrastrukture obavještava vlasnika odnosno upravitelja infrastrukture da ih u roku ne dužem od 60 dana po zaprimanju obavijesti dopuni odnosno ispravi.
+(2) Obavijest o dopuni dostavlja se elektroničkim putem.
+(3) Ukoliko vlasnik odnosno upravitelj infrastrukture ne dopuni odnosno ne ispravi dostavljene podatke iz članka 17. stavka 1. ovoga Pravilnika, smatrat će se da se nisu ispunili uvjeti za unos u katastar infrastrukture, o čemu se obavještava vlasnik odnosno upravitelj.
+(4) Ukoliko su podaci iz članka 17. stavka 1. ovoga Pravilnika u skladu s tehničkim specifikacijama, unose se u katastar infrastrukture u okviru kojega se generiraju jedinstveni identifikacijski brojevi koji se dostavljaju vlasniku odnosno upravitelju infrastrukture elektroničkim putem.
+(5) O preuzetim podacima sastavlja se zapisnik u kojem se utvrđuje popis podataka o infrastrukturi koje su dostavili vlasnici odnosno upravitelji, a koji potpisuju ovlaštene osobe tijela nadležnog za osnivanje, vođenje i održavanje katastra infrastrukture i vlasnika odnosno upravitelja.

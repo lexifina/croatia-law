@@ -1,0 +1,6 @@
+# Članak 44.
+(1) Geodetski elaborat infrastrukture u analognom obliku izrađuje se u dovoljnom broju primjeraka.
+(2) Jedan primjerak elaborata obvezno zadržava tijelo nadležno za osnivanje vođenje i održavanje katastra infrastrukture, a jedan primjerak vlasnik, odnosno upravitelj infrastrukture.
+(3) Primjerci geodetskih elaborata infrastrukture, osim primjeraka za tijelo nadležno za osnivanje, vođenje i održavanje katastra infrastrukture, uvezuju se.
+(4) Sastavne dijelove u analognom obliku potpisuje i ovjerava pečatom samo ovlašteni inženjer geodezije koji je izradio geodetski elaborat infrastrukture, osim naslovne stranice koju potpisuje i ovjerava pečatom pravne osobe odnosno ureda ovlaštenog inženjera geodezije ili zajedničkog geodetskog ureda i odgovorna osoba pravne osobe odnosno ureda ovlaštenog inženjera geodezije ili zajedničkog geodetskog ureda.
+(5) Sastavne dijelove elaborata u digitalnom obliku, elektronički potpisom potpisuje samo ovlašteni inženjer geodezije koji je izradio geodetski elaborat infrastrukture, osim naslovne stranice koju elektroničkim potpisom može potpisati i odgovorna osoba pravne osobe odnosno ureda ovlaštenog inženjera geodezije ili zajedničkog geodetskog ureda.
