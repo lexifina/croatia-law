@@ -1,0 +1,4 @@
+# Članak 5.
+U članku 41.c iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) Ako obveznik fiskalizacije ima potrebu promijeniti podatak o načinu plaćanja kod već izdanog računa na temelju pratećeg dokumenta iz stavka 1. ovoga članka, za potrebe izdavanja računa kojim se ispravlja način plaćanja već izdanog računa, na odgovarajući način primjenjuju se odredbe članaka 23. do 30. ovoga Pravilnika.
+(6) Sukladno članku 26. ovoga Pravilnika, razmjena podataka između CIS-a i pristupne točke obveznika fiskalizacije odvija se putem web servisa korištenjem XML poruka pri čemu za potrebe izdavanja računa kojim se ispravlja način plaćanja već izdanog računa iz stavka 5. ovoga članka, format poruke podatkovnog skupa zahtjeva i odgovora za promjenu podataka o načinu plaćanja računa koji se odnosi na prateći dokument specificiran je kroz XML shemu iskazanu u Privitku broj 6. ovoga Pravilnika.«.
