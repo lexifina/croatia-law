@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 31. Statuta Općine Vidovec (»Službeni vjesnik Varaždinske županije«, broj 20/21), Općinsko vijeće Općine Vidovec na 2. sjednici, održanoj 9. srpnja 2021. godine, donosi
