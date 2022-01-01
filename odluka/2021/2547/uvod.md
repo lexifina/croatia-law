@@ -1,0 +1,1 @@
+Na temelju članka 120. stavka 3. Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 2021. donijela
