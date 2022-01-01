@@ -1,0 +1,9 @@
+## Izvršavanje državnog proračuna u slučaju kriza i katastrofa
+# Članak 58.
+(1) U slučajevima krize, sukladno zakonu kojim se uređuje sustav domovinske sigurnosti, ili katastrofe, sukladno zakonu kojim se uređuje sustav civilne zaštite, Vlada može donositi odluke na temelju kojih će se financirati aktivnosti i projekti vezani za saniranje posljedica krize i/ili katastrofe.
+(2) Za financiranje aktivnosti i projekata iz stavka 1. ovoga članka sredstva se mogu tijekom godine osiguravati preraspodjelom bez ograničenja odnosno u postotku većem od propisanog ovim Zakonom.
+(3) Preraspodjela sredstava iz stavka 2. ovoga članka može se izvršiti na postojećim, kao i na naknadno utvrđenim proračunskim stavkama, aktivnostima i projektima za koja se sredstva osiguravaju.
+(4) Preraspodjelom sredstava iz stavka 2. ovoga članka mogu se u državnom proračunu osigurati sredstva pomoći i zajma subjektima općeg proračuna.
+(5) O izvršenim preraspodjelama u skladu s odredbama ovoga članka ministar financija dužan je izvještavati saborski odbor nadležan za poslove financija.
+(6) Sredstva pomoći jedinicama lokalne i područne (regionalne) samouprave iz stavka 4. ovoga članka namjenska su sredstva koja se mogu koristiti za saniranje posljedica krize i/ili katastrofe i ne smatraju se tekućim pomoćima iz državnog proračuna sukladno propisima kojima su uređena mjerila za određivanje plaća i naknada župana, gradonačelnika i općinskih načelnika i njihovih zamjenika, kao i plaća službenika i namještenika u upravnim odjelima i službama jedinica lokalne i područne (regionalne) samouprave.
+(7) Sredstva pomoći jedinicama lokalne i područne (regionalne) samouprave iz stavka 4. ovoga članka ne smatraju se pomoćima u smislu odredaba ovoga Zakona koje se odnose na dugoročno zaduživanje jedinica lokalne i područne (regionalne) samouprave.

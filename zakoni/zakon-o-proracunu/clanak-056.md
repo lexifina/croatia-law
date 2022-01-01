@@ -1,0 +1,5 @@
+## Nadzor ostvarenja i trošenja namjenskih prihoda i primitaka te vlastitih prihoda
+# Članak 56.
+(1) Nadležna ministarstva i druga državna tijela na razini razdjela organizacijske klasifikacije odnosno nadležna upravna tijela nadziru ostvarenje i trošenje namjenskih prihoda i primitaka te vlastitih prihoda proračunskih korisnika iz svoje nadležnosti.
+(2) Nadležna ministarstva i druga državna tijela na razini razdjela organizacijske klasifikacije, uz prethodno dobivenu suglasnost Ministarstva financija, donose pravilnik o mjerilima i načinu korištenja nenamjenskih donacija i vlastitih prihoda proračunskih korisnika iz svoje nadležnosti odnosno načelnik, gradonačelnik, župan donose akt o mjerilima i načinu korištenja nenamjenskih donacija i vlastitih prihoda proračunskih korisnika iz svoje nadležnosti.
+(3) Upravljačko tijelo proračunskog korisnika donosi odluku ili pravilnik kojima se uređuje ostvarivanje i korištenje nenamjenskih donacija i vlastitih prihoda, a koji mora biti u skladu s pravilnikom odnosno aktom iz stavka 2. ovoga članka.

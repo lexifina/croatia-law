@@ -1,0 +1,5 @@
+## Fiskalna procjena amandmana i službenih tumačenja kolektivnih ugovora
+# Članak 20.
+(1) Proračunski korisnik državnog proračuna koji je predlagatelj zakona dužan je prije prihvaćanja amandmana na prijedloge zakona koji se podnose Saboru, a kojima se mijenja fiskalna procjena u odnosu na procjenu danu uz prijedlog zakona, dostaviti novu fiskalnu procjenu Ministarstvu financija.
+(2) Predstavnici Vlade u tijelu nadležnom za tumačenje kolektivnih ugovora čijim se službenim tumačenjima mijenja fiskalna procjena provedbe kolektivnog ugovora u odnosu na fiskalnu procjenu danu prije donošenja zaključka o prihvaćanju kolektivnih ugovora odnosno njegovih izmjena, dopuna ili dodataka, dužni su prije izjašnjavanja o službenom tumačenju pribaviti od nadležnog proračunskog korisnika državnog proračuna iz čijeg je djelokruga kolektivni ugovor novu fiskalnu procjenu koja mora uključivati i mišljenje Ministarstva financija.
+(3) Na postupak fiskalne procjene i utvrđivanja fiskalnog učinka iz ovoga članka na odgovarajući se način primjenjuju odredbe uredbe iz članka 19. stavka 6. ovoga Zakona.

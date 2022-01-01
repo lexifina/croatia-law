@@ -1,0 +1,7 @@
+## Višegodišnji plan uravnoteženja jedinica lokalne i područne (regionalne) samouprave i njihovih proračunskih i izvanproračunskih korisnika
+# Članak 37.
+(1) Ako jedinice lokalne i područne (regionalne) samouprave i njihovi proračunski i izvanproračunski korisnici ne mogu preneseni manjak podmiriti do kraja proračunske godine, obvezni su izraditi višegodišnji plan uravnoteženja za razdoblje za koje se proračun odnosno financijski plan donosi.
+(2) Ako jedinice lokalne i područne (regionalne) samouprave, proračunski i izvanproračunski korisnici ne mogu preneseni višak, zbog njegove veličine, u cijelosti iskoristiti u jednoj proračunskoj godini, korištenje viška planira se višegodišnjim planom uravnoteženja za razdoblje za koje se proračun odnosno financijski plan donosi.
+(3) Višegodišnji plan uravnoteženja financijskog plana proračunskog i izvanproračunskog korisnika jedinice lokalne i područne (regionalne) samouprave donosi njegovo upravljačko tijelo uz prijedlog financijskog plana, nakon čega ga dostavlja jedinici lokalne i područne (regionalne) samouprave.
+(4) Višegodišnji plan uravnoteženja proračuna jedinice lokalne i područne (regionalne) samouprave donosi predstavničko tijelo jedinice lokalne i područne (regionalne) samouprave uz proračun jedinice lokalne i područne (regionalne) samouprave.
+(5) Ministar financija pravilnikom iz članka 6. stavka 2. ovoga Zakona propisuje izgled i sadržaj višegodišnjeg plana uravnoteženja.

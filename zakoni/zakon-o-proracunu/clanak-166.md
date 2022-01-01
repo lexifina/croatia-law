@@ -1,0 +1,7 @@
+# Članak 166.
+(1) Ako se tijekom 2022. pokaže potreba za donošenjem izmjena i dopuna Državnog proračuna Republike Hrvatske za 2022. godinu i projekcija za 2023. i 2024. godinu, iste se izrađuju na sljedeći način:
+– nakon što im Ministarstvo financija dostavi uputu, proračunski korisnici državnog proračuna izrađuju prijedlog izmjena i dopuna financijskog plana za 2022. godinu i projekcija za 2023. i 2024. godinu koji dostavljaju ministarstvima i drugim državnim tijelima na razini razdjela organizacijske klasifikacije u skladu s rokovima utvrđenim u uputi Ministarstva financija iz ovoga podstavka
+– ministarstva i druga državna tijela na razini razdjela organizacijske klasifikacije dostavljaju usklađene prijedloge izmjena i dopuna financijskih planova iz podstavka 1. ovoga stavka Ministarstvu financija u skladu s rokovima utvrđenim u uputi Ministarstva financija iz podstavka 1. ovoga stavka
+– Ministarstvo financija usklađuje izmjene i dopune financijskih planova s procijenjenim izmjenama i dopunama prihoda i primitaka i izrađuje nacrt izmjena i dopuna Državnog proračuna Republike Hrvatske za 2022. godinu i projekcija za 2023. i 2024. godinu te ih dostavlja Vladi koja ih upućuje Saboru.
+(2) U slučaju iz stavka 1. ovoga članka Sabor donosi Izmjene i dopune Državnog proračuna Republike Hrvatske za 2022. godinu i projekcija za 2023. i 2024. godinu na razini podskupine ekonomske klasifikacije.
+(3) Odredbe ovoga članka na dogovarajući se način primjenjuju na jedinice lokalne i područne (regionalne) samouprave.

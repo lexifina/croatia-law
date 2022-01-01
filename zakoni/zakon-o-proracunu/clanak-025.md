@@ -1,0 +1,4 @@
+## Uputa za izradu i dostavu prijedloga financijskih planova
+# Članak 25.
+(1) Na osnovi upute za izradu prijedloga državnog proračuna iz članka 24. ovoga Zakona, proračunski korisnici na razini razdjela organizacijske klasifikacije sastavljaju i dostavljaju uputu za izradu i dostavu prijedloga financijskih planova proračunskim i izvanproračunskim korisnicima iz svoje nadležnosti.
+(2) Uputa iz stavka 1. ovoga članka sadrži visinu rashoda iz izvora financiranja opći prihodi i primici te namjenski primici po proračunskim korisnicima odnosno visinu manjka ili viška prihoda nad rashodima po izvanproračunskom korisniku, za iduću proračunsku godinu i za sljedeće dvije godine, način izrade i rok za dostavu prijedloga financijskih planova nadležnim proračunskim korisnicima na razini razdjela organizacijske klasifikacije.

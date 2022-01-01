@@ -1,0 +1,5 @@
+## Sredstva od prodaje i zamjene nefinancijske dugotrajne imovine i od nadoknade štete s osnove osiguranja
+# Članak 101.
+(1) Sredstva od prodaje i zamjene nefinancijske imovine i od naknade štete s osnova osiguranja koriste se za kapitalne rashode, za ulaganja u dionice i udjele trgovačkih društava te za otplate glavnice na temelju dugoročnog zaduživanja.
+(2) Kapitalni rashodi iz stavka 1. ovoga članka jesu rashodi za nabavu nefinancijske imovine, rashodi za održavanje nefinancijske imovine, kapitalne pomoći koje se daju trgovačkim društvima u kojima Republika Hrvatska odnosno jedinica lokalne i područne (regionalne) samouprave ima odlučujući utjecaj na upravljanje za nabavu nefinancijske imovine i dodatna ulaganja u nefinancijsku imovinu.
+(3) Odredbe ovoga članka u dijelu koji se odnosi na korištenje sredstava za ulaganja u dionice i udjele trgovačkih društava ne odnose se na jedinice lokalne i područne (regionalne) samouprave koje su korisnici pomoći za potpomognuta područja iz državnog proračuna.

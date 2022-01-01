@@ -1,0 +1,8 @@
+## Rasprava o proračunu
+# Članak 41.
+(1) Sve izmjene i dopune koje Sabor prihvati putem amandmana na predloženi državni proračun ili financijski plan izvanproračunskog korisnika državnog proračuna ne smiju mijenjati predviđeni manjak odnosno višak utvrđen u prijedlogu državnog proračuna ili financijskom planu izvanproračunskog korisnika državnog proračuna.
+(2) Tijekom rasprave o prijedlogu državnog proračuna i financijskom planu izvanproračunskog korisnika državnog proračuna u Saboru mogu se podnositi amandmani:
+– kojima se predlaže povećanje proračunskih rashoda iznad iznosa utvrđenih prijedlogom državnog proračuna ili financijskim planom izvanproračunskog korisnika državnog proračuna pod uvjetom da se istodobno predloži smanjenje drugih rashoda u istom iznosu i unutar istih izvora financiranja u posebnom dijelu proračuna ili u posebnom dijelu financijskog plana izvanproračunskog korisnika državnog proračuna
+– kojima se predlaže povećanje proračunskih izdataka iznad iznosa utvrđenih prijedlogom državnog proračuna ili financijskog plana izvanproračunskog korisnika državnog proračuna pod uvjetom da se istodobno predloži smanjenje drugih izdataka u istom iznosu i unutar istih izvora financiranja u posebnom dijelu proračuna ili u posebnom dijelu financijskog plana izvanproračunskog korisnika državnog proračuna.
+(3) Prijedlozi iz stavka 2. ovoga članka ne smiju biti na teret proračunske zalihe, na teret dodatnog zaduživanja ili već prije preuzetih obveza.
+(4) Odredbe ovoga članka na odgovarajući se način odnose na jedinice lokalne i područne (regionalne) samouprave i izvanproračunske korisnike jedinica lokalne i područne (regionalne) samouprave.

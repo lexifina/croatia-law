@@ -1,0 +1,5 @@
+# Članak 167.
+(1) Ako se tijekom 2022. pokaže potreba za donošenjem izmjena i dopuna financijskog plana izvanproračunskog korisnika za 2022. godinu i projekcija za 2023. i 2024. godinu, izvanproračunski korisnik državnog proračuna priprema prijedlog izmjena i dopuna financijskog plana za 2022. godinu i projekcija za 2023. i 2024. godinu na temelju upute Ministarstva financija.
+(2) Prijedlog izmjena i dopuna financijskog plana za 2022. godinu i projekcija za 2023. i 2024. godinu izvanproračunski korisnik dostavlja nadležnom ministarstvu u skladu s rokovima utvrđenim u uputi iz stavka 1. ovoga članka koji zajedno sa svojim financijskim planom dostavlja Ministarstvu financija.
+(3) Sabor daje suglasnost na prijedlog izmjena i dopuna financijskog plana iz stavka 2. ovoga članka zajedno s donošenjem Izmjena i dopuna Državnog proračuna Republike Hrvatske za 2022. godinu i projekcija za 2023. i 2024. godinu.
+(4) Odredbe ovoga članka na dogovarajući se način primjenjuju na jedinice lokalne i područne (regionalne) samouprave.

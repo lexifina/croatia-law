@@ -1,0 +1,8 @@
+## Utrošak sredstava proračunske zalihe
+# Članak 67.
+(1) Korisnik sredstava dužan je utrošiti doznačena sredstva proračunske zalihe u roku utvrđenom u rješenju iz članka 66. stavka 2. ovoga Zakona, a najduže u roku od godinu dana od dana primitka sredstava.
+(2) Neutrošena i nenamjenski utrošena sredstva proračunske zalihe iz članaka 65. i 66. ovoga Zakona korisnik sredstava dužan je vratiti na račun proračuna sukladno pravilniku iz članka 61. stavka 8. ovoga Zakona.
+(3) Ako se tijekom godine u proračunu osiguraju sredstva za namjenu za koju su sredstva proračunske zalihe dodijeljena, rješenja kojima su sredstva proračunske zalihe odobrena stavljaju se izvan snage po sili zakona.
+(4) Primatelj sredstava na kojega glasi rješenje iz članka 66. stavka 2. ovoga Zakona dužan je Ministarstvu financija odnosno nadležnom upravnom tijelu u jedinici lokalne i područne (regionalne) samouprave dostaviti izvješće o zakonitom, namjenskom i svrhovitom utrošku sredstava isplaćenih iz proračunske zalihe najkasnije u roku od mjesec dana od isteka roka iz stavka 1. ovoga članka.
+(5) Ako prilikom kontrole izvješća iz stavka 4. ovoga članka Ministarstvo financija utvrdi da korisnik iz stavka 1. ovoga članka sredstva nije utrošio sukladno rješenju iz članka 66. stavka 2. ovoga Zakona, dužan je sredstva vratiti u proračun u roku od 30 dana od dana dostave obavijesti Ministarstva financija.
+(6) Ministarstvo financija odnosno nadležno upravno tijelo u jedinici lokalne i područne (regionalne) samouprave može tražiti dostavu izvješća o zakonitom, namjenskom i svrhovitom utrošku sredstava isplaćenih iz proračunske zalihe u rokovima kraćim od onih propisanih u stavku 4. ovoga članka.

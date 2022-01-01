@@ -1,0 +1,5 @@
+# Članak 162.
+(1) Ministar financija će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti podzakonske akte iz članka 5. stavka 6., članka 6. stavka 2., članka 16. stavka 3., članka 50. stavka 5., članka 61. stavka 8., članka 71. stavka 2., članka 76. stavka 3., članka 94. stavka 2., članka 120. stavka 7., članka 134. stavaka 1. i 2., članka 142. stavka 4., članka 144. stavka 12., članka 145. stavka 4. i članka 153. stavka 3. ovoga Zakona.
+(2) Ministar i drugi čelnik tijela državne uprave na razini razdjela organizacijske klasifikacije će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 56. stavka 2. ovoga Zakona.
+(3) Vlada će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti podzakonske akte iz članka 19. stavka 6., članka 47. stavka 3., članka 73. stavka 4., članka 96. stavka 5., članka 100. stavka 2., članka 102. stavka 1., članka 113. stavka 4. i članka 155. stavka 2. ovoga Zakona.
+(4) Načelnik, gradonačelnik, župan će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 56. stavka 2. ovoga Zakona.

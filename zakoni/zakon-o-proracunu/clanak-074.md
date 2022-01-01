@@ -1,0 +1,7 @@
+## Povrat sredstava u proračun Europske unije
+# Članak 74.
+(1) Sredstva na ime neprihvatljivih troškova u projektima koji su financirani sredstvima Europske unije, a koja su proračunski korisnici državnog proračuna dužni uplatiti u proračun Europske unije na temelju zahtjeva za uplatu nadležnih tijela Europske unije, izvršavaju se na teret posebne aktivnosti unutar financijskog plana proračunskog korisnika.
+(2) Za sredstva iz stavka 1. ovoga članka proračunski korisnik državnog proračuna može naknadno utvrditi aktivnosti i stavke unutar svog financijskog plana, uz prethodnu suglasnost ministra financija.
+(3) Sredstva iz stavka 1. ovoga članka proračunski korisnik državnog proračuna osigurava iz izvora financiranja vlastiti prihodi.
+(4) Iznimno od stavka 3. ovoga članka, ako proračunski korisnik državnog proračuna nema vlastitih prihoda ili su mu vlastiti prihodi nedostatni za podmirenje neprihvatljivih troškova, nedostatni dio sredstava iz stavka 1. ovoga članka će se tijekom proračunske godine osigurati preraspodjelom bez ograničenja iz izvora financiranja opći prihodi i primici unutar financijskog plana istog razdjela organizacijske klasifikacije, na temelju odluke Vlade koju predlaže nadležni čelnik razdjela organizacijske klasifikacije uz prethodnu suglasnost ministra financija.
+(5) Odredbe iz stavaka 1. i 2. ovoga članka na odgovarajući način primjenjuju se na jedinice lokalne i područne (regionalne) samouprave i izvanproračunske korisnike.
