@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 20. Statuta Općine Plitvička Jezera (»Službeni glasnik Općine Plitvička Jezera« broj 2/21), Općinsko vijeće Općine Plitvička Jezera na svojoj 2. redovnoj sjednici održanoj 29. rujna 2021. godine donosi
