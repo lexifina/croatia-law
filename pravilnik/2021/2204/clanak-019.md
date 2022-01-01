@@ -1,0 +1,4 @@
+# Članak 19.
+(1) Građevinski dnevnik potpisuje se kvalificiranim elektroničkim potpisom sukladno Uredbi (EU) br. 910/2014 Europskog parlamenta i vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ.
+(2) Ovlašteni inženjeri odnosno arhitekti potpisuju se kvalificiranim elektroničkim potpisom odgovarajuće komore inženjera odnosno arhitekata, koji mora sadržavati naziv i OIB komore, te ime i OIB ovlaštenog inženjera odnosno arhitekta (poslovna kartica komore s potpisnim i identifikacijskim certifikatom).
+(3) Glavni inženjeri, inženjeri gradilišta i voditelji radova, koji nisu članovi komore, a prema posebnom zakonu mogu biti osobe koje vode građenje potpisuju se kvalificiranim elektroničkim potpisom (poslovna kartica s potpisnim i identifikacijskim certifikatom), koji mora sadržavati OIB ovlaštenog inženjera odnosno arhitekta.

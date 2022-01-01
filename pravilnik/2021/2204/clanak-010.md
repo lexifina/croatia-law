@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Osim poslova obavljanja stručnog nadzora, nadzorni inženjer smije obavljati i druge poslove koje mu ugovorom povjeri investitor u skladu s propisima.
+(2) Poslove iz stavka 1. ovoga članka nadzorni inženjer ne smije obavljati na način koji bi ugrozio njegovu neovisnost i nepristranost u ispunjavanju obveza koje ima prema Zakonu o gradnji, ovom Pravilniku i drugim propisima koji uređuju provedbu stručnog nadzora te koji bi na drugi način ugrozio ili onemogućio ispunjavanje tih obveza.

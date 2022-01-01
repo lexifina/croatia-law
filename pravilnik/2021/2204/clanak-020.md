@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Kvalificiranim elektroničkim potpisom poslovne kartice iz članka 19. stavka 2. i 3. ovoga Pravilnika glavni nadzorni inženjer i/ili nadzorni inženjer i osoba koja vodi građenje preuzimaju odgovornost za istinitost i vjerodostojnost podataka upisanih u građevinski dnevnik u skladu s odredbama posebnog zakona kojim se uređuje elektronička isprava.
+(2) Građevinski dnevnik se vodi kao elektronički zapis te nije moguće brisati i ispravljati upis nakon što osoba koja vodi građenje i nadzorni inženjer potvrdi točnost upisa na stranici građevinskog dnevnika. Osoba koja vodi građenje je dužna na sljedećoj stranici građevinskog dnevnika sa istim ili različitim datumom, ispraviti pogrešni upis te potvrditi točnost upisa.
+(3) Građevinski dnevnik i točnost upisa u istom po završetku izvođenja radova kvalificiranim elektroničkim potpisom ovjeravaju inženjer gradilišta i /ili voditelj radova i nadzorni inženjer.
+(4) Građevinski dnevnik i točnost upisa u istom po završetku izvođenja radova kvalificiranim elektroničkim potpisom ovjeravaju nadzorni inženjer i/ili glavni nadzorni inženjer.
