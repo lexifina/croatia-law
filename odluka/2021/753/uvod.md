@@ -1,0 +1,1 @@
+Na temelju čl. 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17) te članka 32. Statuta Općine Tisno (»Službeni vjesnik Šibensko-kninske županije« br. 5/13, Službeni glasnik Općine Tisno 1/18, 2/20 i 2/21), Općinsko vijeće Općine Tisno na 30. sjednici od 15. ožujka 2021. godine donosi
