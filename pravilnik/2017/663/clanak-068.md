@@ -1,2 +1,0 @@
-# Članak 68.
-Upravno tijelo koje je osnovalo i vodi katastar vodova u visinskom referentnom sustavu HVRS1875 (Trst), do prevođenja podataka sukladno članku 52. ovoga Pravilnika i preuzimanja podataka u bazu, nastavlja voditi visine u visinskom referentnom sustavu HVRS1875 (Trst), a popis koordinata iz članka 38. ovoga Pravilnika mora sadržavati podatak o visini i u referentnom visinskom sustavu Republike Hrvatske HVRS71.

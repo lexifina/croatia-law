@@ -1,2 +1,0 @@
-# Članak 3.
-Izradba katastra infrastrukture obuhvaća njegovo osnivanje na temelju evidencija koje su za pojedinu vrstu infrastrukture dužni, u skladu sa Zakonom o državnoj izmjeri i katastru nekretnina (u daljnjem tekstu: Zakon), osnovati i voditi njihovi vlasnici, odnosno upravitelji, geodetsku izmjeru izgrađene infrastrukture i izradbu geodetskih elaborata infrastrukture koji služe za osnivanje i vođenje katastra infrastrukture.

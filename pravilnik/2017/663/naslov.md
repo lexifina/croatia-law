@@ -1,1 +1,0 @@
-Pravilnik o katastru infrastrukture
