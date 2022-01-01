@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17, 130/17 i 14/19), u vezi s člankom 7. Pravilnika o posebnom režimu upravljanja ribolovom u dijelu akvatorija Jabučke kotline (»Narodne novine« br. 106/19, 141/20 i 142/21), ministrica poljoprivrede donosi
