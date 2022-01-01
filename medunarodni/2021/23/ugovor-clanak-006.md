@@ -1,0 +1,3 @@
+# Članak 6.
+OSNOVNA PRAVILA O ODOBRENJU
+Kad država koja poduzima mjere ima opravdane razloge sumnjati da je plovilo koje vije zastavu ili ima registarske oznake druge stranke ili nosi bilo koje druge oznake državne pripadnosti plovila uključeno ili se koristi za počinjenje relevantnog kaznenog djela, država koja poduzima mjere može od države zastave zatražiti odobrenje da zaustavi i ukrca se na plovilo u vodama izvan teritorijalnog mora bilo koje stranke, te da poduzme neke ili sve druge radnje određene u ovom Sporazumu. Niti jedna takva radnja ne može se poduzeti temeljem ovog Sporazuma bez odobrenja države zastave.
