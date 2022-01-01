@@ -1,0 +1,11 @@
+## Dodjela prava pristupa sustavu
+# Članak 8.
+(1) Fizičke osobe samostalno ostvaruju pravo pristupa sustavu upotrebom vjerodajnica Nacionalnog identifikacijskog i autentifikacijskog sustava značajne ili visoke razine sigurnosti.
+(2) Pravne osobe, tijela državne uprave i druga državna tijela, tijela jedinica lokalne i područne (regionalne) samouprave i pravne osobe koje imaju javne ovlasti ostvaruju pravo pristupa sustavu dostavom obveznih podataka administratoru sustava.
+(3) Odvjetnici, javni bilježnici, sudski vještaci, sudski procjenitelji, sudski tumači, stečajni upravitelji i povjerenici ostvaruju pravo pristupa sustavu dostavom obveznih podataka putem tijela koja vode imenike i popise navedenih obveznih sudionika elektroničke komunikacije, a koja tijela su dužna bez odgode dostaviti obvezne podatke administratoru sustava.
+(4) Odvjetnici, javni bilježnici, sudski vještaci, sudski procjenitelji, sudski tumači, stečajni upravitelji i povjerenici mogu iznimno ostvariti pravo pristupa sustavu samostalnom dostavom obveznih podataka za dodjelu prava pristupa sustavu administratoru sustava.
+(5) Državno odvjetništvo pristupit će sustavu izravnim povezivanjem informacijskih sustava.
+(6) Punomoćnici iz članka 434.a Zakona o parničnom postupku ostvaruju pravo pristupa sustavu dostavom obveznih podataka putem sindikata ili udruge sindikata kod kojih su u radnom odnosu odnosno putem udruge poslodavaca ili udruge poslodavaca više razine u koju je udružena udruga poslodavaca kod kojih su u radnom odnosu, a koji su dužni bez odgode dostaviti obvezne podatke administratoru sustava.
+(7) Obvezni podaci iz stavka 2. ovoga članka su ime i prezime, osobni identifikacijski broj i adresa elektroničke pošte osoba ovlaštenih za zastupanje pravne osobe ili tijela državne uprave i drugih državnih tijela, tijela jedinica lokalne i područne (regionalne) samouprave i pravnih osoba koje imaju javne ovlasti.
+(8) Obvezni podaci iz stavka 3., 4. i 6. ovoga članka su ime i prezime, osobni identifikacijski broj i adresa elektroničke pošte.
+(9) Administrator sustava dužan je bez odgode po zaprimanju obveznih podataka iz stavka 2., 3., 4. i 6. ovoga članka, vanjskom korisniku sustava na adresu njegove elektroničke pošte dostaviti obavijest da mu je omogućen pristup sustavu i da mu je otvoren siguran elektronički pretinac.
