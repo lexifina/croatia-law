@@ -1,0 +1,1 @@
+Na temelju odredbi članka 20. i 41. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17), članka 34. Statuta Općine Šandrovac (»Općinski glasnik Općine Šandrovac« broj 01/2021), Općinsko vijeće općine Šandrovac na svojoj 5. sjednici, održanoj 10. 12. 2021. godine, na prijedlog općinskog načelnika općine Šandrovac donosi
