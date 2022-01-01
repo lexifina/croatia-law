@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17) i članka 29. Statuta Općine Murter - Kornati (»Službeni glasnik Općine Murter - Kornati«, broj 2/21) Općinsko vijeće Općine Murter - Kornati na 5. sjednici od 16. studenoga 2021. godine, donosi
