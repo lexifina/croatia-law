@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 45. Statuta Grada Varaždina (»Službeni vjesnik Grada Varaždina« broj 3/18, 2/20, 2/21 i 4/21 - pročišćeni tekst), Gradsko vijeće Grada Varaždina na 7. sjednici održanoj 10. prosinca 2021. godine, donosi
