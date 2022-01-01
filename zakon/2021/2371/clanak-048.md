@@ -1,0 +1,3 @@
+# Članak 48.
+(1) Ministar financija može se, uz prethodnu suglasnost Vlade, dodatno zadužiti do iznosa neostvarenih primitaka od prodaje dionica i udjela u glavnici.
+(2) Ministar financija može se, uz prethodnu suglasnost Vlade, u 2022. godini dodatno zadužiti iznad visine zaduživanja iz članka 45. ovoga Zakona za razliku između visine podmirenih obveza na temelju rashoda nastalih provedbom projekata koji se sufinanciraju iz sredstava Europske unije i visine priljeva ostvarenih iz fondova Europske unije u 2022. godini, a najviše do iznosa sredstava za koji se očekuje povrat iz fondova Europske unije u 2023. godini.

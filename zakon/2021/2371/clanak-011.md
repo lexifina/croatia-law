@@ -1,0 +1,5 @@
+# Članak 11.
+(1) Korisnik na svojim aktivnostima planira sredstva prijenosa korisnicima ako im sredstva dodjeljuje na temelju posebnih propisa i bez protučinidbe preko podskupine računa 369 Prijenosi između proračunskog korisnika istog proračuna, a sukladno pravilniku kojim se uređuje proračunsko računovodstvo i Računski plan.
+(2) Ako sredstva iz stavka 1. ovoga članka nisu planirana ili nisu planirana u potrebnom iznosu, mogu se, uz prethodnu suglasnost Ministarstva, tijekom proračunske godine preraspodjeljivati, i to bez ograničenja unutar aktivnosti s kojih se sredstva iz stavka 1. ovoga članka dodjeljuju.
+(3) Preraspodjela sredstava iz stavka 2. ovoga članka može se izvršiti na postojećim, kao i na naknadno utvrđenim proračunskim stavkama.
+(4) Korisnik koji na svojim aktivnostima planira sredstva iz stavka 1. ovoga članka dužan je očekivane primatelje sredstava pisano obavijestiti da sredstva planiraju na prihodnoj strani u okviru skupine 639 te nakon doznake sredstava s primateljima uskladiti evidencije.
