@@ -1,0 +1,4 @@
+# Članak 60.
+U članku 138. stavak 1. mijenja se i glasi:
+»(1) Predmeti oporezivanja koji su predmet prekršaja iz članka 132. stavka 1. točaka 11. do 17., 20. do 24. te 27. i 28. ovoga Zakona, članka 133. stavka 1. točaka 1. do 4., točke 6., točaka 35. do 37., 39. do 42., 47. do 50., 52. do 55. te točaka 57., 65., 68., 69. i 76. ovoga Zakona, članka 134. stavka 1. točke 21. ovoga Zakona, članka 137. stavaka 1., 2. i 3. ovoga Zakona te članka 137.a stavka 1. ovoga Zakona oduzet će se.«.
+U stavku 5. riječi: »članka 133. stavka 1. točaka 1., 2., 3., 4., 25., 38., 39., 40., 42., 43., 44., 45. i 47.« zamjenjuju se riječima: »članka 133. stavka 1. točaka 1. do 4., točaka 35., 48., 49. i 50., točaka 52. do 55. i točke 57.«, a iza riječi: »plaćanja trošarine« dodaju se riječi: »te članka 137.a stavka 1. ovoga Zakona«.

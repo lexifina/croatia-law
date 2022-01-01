@@ -1,0 +1,3 @@
+# Članak 19.
+Članak 33. mijenja se i glasi:
+»Carinska uprava nadležna je za provedbu Uredbe Vijeća (EU) br. 389/2012 od 2. svibnja 2012. o upravnoj suradnji u području trošarina i stavljanju izvan snage Uredbe (EZ) br. 2073/2004 (SL L 121, 8. 5. 2012., str. 1.; u daljnjem tekstu: Uredba (EU) br. 389/2012), kako je izmijenjena i dopunjena Uredbom Vijeća (EU) 2020/261 od 19. prosinca 2019. o izmjeni Uredbe (EU) br. 389/2012 o upravnoj suradnji u području trošarina u pogledu sadržaja elektroničkih upisnika (SL L 58, 27. 2. 2020., str. 1.) i Uredbom Vijeća (EU) 2021/774 od 10. svibnja 2021. o izmjeni Uredbe (EU) br. 389/2012 o upravnoj suradnji u području trošarina u pogledu sadržaja elektroničkih upisnika (SL L 167, 12. 5. 2021., str. 1.).«.

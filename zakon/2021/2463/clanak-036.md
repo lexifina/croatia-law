@@ -1,0 +1,8 @@
+# Članak 36.
+Članak 54. mijenja se i glasi:
+»(1) U slučaju trošarinskih proizvoda puštenih u potrošnju u Republici Hrvatskoj koji su otpremljeni iz jednoga mjesta u Republici Hrvatskoj u drugo mjesto u Republici Hrvatskoj preko teritorija druge države članice, a prije početka primjene računalnog sustava iz članka 45. ovoga Zakona odnosno uz pojednostavnjeni papirnati prateći trošarinski dokument (u daljnjem tekstu: PPTD) propisan Uredbom Komisije (EEZ) br. 3649/92 od 17. prosinca 1992. o pojednostavnjenom popratnom dokumentu za kretanje unutar Zajednice proizvoda podložnih trošarinama koji su bili pušteni u potrošnju u državi članici otpreme (SL L 369, 18. 12. 1992., str. 17.):
+1. primatelj je obvezan potvrditi primitak trošarinskih proizvoda ovjerom PPTD-a, koji mora vratiti pošiljatelju najkasnije u roku od pet dana od dana primitka proizvoda i o tome obavijestiti carinski ured u mjestu odredišta
+2. pošiljatelj i primatelj obvezni su omogućiti nadležnom carinskom uredu da provjeri je li primatelj zaista primio trošarinske proizvode.
+(2) U slučaju trošarinskih proizvoda puštenih u potrošnju u drugoj državi članici koji su otpremljeni u komercijalne svrhe primatelju u Republici Hrvatskoj prije početka primjene računalnog sustava iz članka 45. ovoga Zakona odnosno uz PPTD, primatelj odnosno druga osoba koja će biti dužna platiti trošarinu u Republici Hrvatskoj obvezna je:
+1. omogućiti nadležnom carinskom uredu provjeru primitka trošarinskih proizvoda i da je trošarina stvarno plaćena
+2. potvrditi primitak trošarinskih proizvoda ovjerom PPTD-a, dostaviti ga nadležnom carinskom uredu na ovjeru te vratiti pošiljatelju najkasnije 15. dana u mjesecu koji slijedi mjesec u kojem je primio pošiljku iz druge države članice.«.

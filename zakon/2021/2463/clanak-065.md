@@ -1,0 +1,3 @@
+# Članak 65.
+(1) Alkohol i alkoholna pića koji su sukladno članku 71. stavku 1. Zakona o trošarinama (»Narodne novine«, br. 106/18. i 121/19.) označeni posebnim markicama Ministarstva financija Republike Hrvatske na kojima je naznačena količinska oznaka mogu se nalaziti u prometu na teritoriju Republike Hrvatske bez vremenskog ograničenja.
+(2) Trošarinski obveznici koji su preuzeli posebne markice Ministarstva financija Republike Hrvatske na kojima je naznačena količinska oznaka sukladno članku 71. stavku 1. Zakona o trošarinama (»Narodne novine«, br. 106/18. i 121/19.) mogu alkohol i alkoholna pića označavati tim markicama najkasnije do 31. prosinca 2022.

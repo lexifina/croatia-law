@@ -1,0 +1,13 @@
+# Članak 22.
+U članku 38. stavku 1. točka 5. mijenja se i glasi:
+»5. za manjak ili gubitak utvrđen u skladu sa stavcima 2., 3. i 4. ovoga članka.«.
+Iza stavka 1. dodaju se novi stavak 2. i stavci 3., 4., 5. i 6. koji glase:
+»(2) Iznimno od članka 7. stavka 1. točke 4. ovoga Zakona, neće se smatrati puštanjem u potrošnju:
+1. potpuno uništenje ili nepovratan manjak ili gubitak trošarinskih proizvoda, potpun ili djelomičan, osim krađe ili teške krađe, nastao za vrijeme odgode plaćanja trošarine za koji se dokaže da se može pripisati nepredviđenim slučajevima ili višoj sili, koji se dogodio na teritoriju Republike Hrvatske ili koji je otkriven na teritoriju Republike Hrvatske, a za koji nije moguće utvrditi gdje se dogodio ili koji je posljedica uništenja trošarinskih proizvoda pod carinskim nadzorom
+2. djelomičan manjak ili gubitak trošarinskih proizvoda nastao za vrijeme odgode plaćanja trošarine koji je neodvojivo povezan sa svojstvima proizvoda i nastao tijekom proizvodnje, skladištenja i kretanja trošarinskih proizvoda.
+(3) U smislu ovoga članka proizvodi se smatraju potpuno uništenim ili nepovratno izgubljenim kada ih više nije moguće koristiti kao trošarinske proizvode.
+(4) Djelomičan manjak ili gubitak trošarinskih proizvoda iz stavka 2. točke 2. ovoga članka nastao tijekom kretanja trošarinskih proizvoda u sustavu odgode neće se smatrati puštanjem u potrošnju u mjeri u kojoj je iznos gubitka niži od zajedničkog praga djelomičnog gubitka za te trošarinske proizvode utvrđenog delegiranim aktom Europske komisije, osim u slučaju opravdane sumnje na prijevaru ili nepravilnost. Dio djelomičnog gubitka koji premašuje zajednički prag smatrat će se puštanjem u potrošnju.
+(5) U slučaju potpunog uništenja ili nepovratnog gubitka trošarinskih proizvoda tijekom kretanja trošarinskih proizvoda iz države članice u kojoj su trošarinski proizvodi pušteni u potrošnju odnosno djelomičnog gubitka trošarinskih proizvoda neodvojivo povezanog sa svojstvima proizvoda odgovarajuće se primjenjuju stavci 2., 3. i 4. ovoga članka.
+(6) Trošarinski proizvodi koji se drže na palubi plovila koja plove morskim prijelazima između Republike Hrvatske i druge države članice ili zrakoplovu koji leti između Republike Hrvatske i druge države članice, ali koji nisu na raspolaganju za prodaju kada se plovilo ili zrakoplov nalazi na teritoriju Republike Hrvatske, ne podliježu trošarini u Republici Hrvatskoj.«.
+Dosadašnji stavak 2., koji postaje stavak 7., mijenja se i glasi:
+»(7) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s manjkom i gubitkom trošarinskih proizvoda.«.
