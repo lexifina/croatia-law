@@ -1,0 +1,2 @@
+# Članak 4.
+U cijelom tekstu Pravilnika o plaćanju naknada za pravo uporabe adresa, brojeva i radiofrekvencijskog spektra (»Narodne novine«, br. 154/08., 28/09., 97/10., 92/12., 62/14., 147/14., 138/15., 77/16., 126/17., 55/18., 99/18., 64/19. i 73/20.) riječi: »javna mreža pokretnih komunikacija« u određenom broju i padežu zamjenjuju se riječima: »javna komunikacijska mreža« u odgovarajućem broju i padežu.
