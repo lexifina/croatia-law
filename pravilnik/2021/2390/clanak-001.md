@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Sadržaj Pravilnika
+# Članak 1.
+Ovim se Pravilnikom propisuju opći i posebni uvjeti glede mjesta, objekata, prostorija, opreme i uvjeta za skladištenje i prodaju pesticida, uvjeti za odgovornu osobu, savjetnika i distributera i njihove obveze, uvjeti kojima moraju udovoljavati pravne i fizičke osobe koje obavljaju djelatnost distribucije i/ili prodaje pesticida (u daljnjem tekstu: distributeri) te njihov obveze, uvjeti i rokovi za upis, izmjenu/dopunu i brisanje iz središnje evidencije Fitosanitarnog informacijskog sustava, način prikupljanja, sadržaj elektroničkog obrasca, vođenje i dostave podataka u središnju evidenciju Fitosanitarnog informacijskog sustava, postupanja s praznom ambalažom i opasnim otpadom od pesticida do njihove predaje ovlaštenoj osobi, sukladno propisima kojima se uređuje gospodarenje otpadom te kriteriji za odobravanje upotrebe pesticida za profesionalnu primjenu i neprofesionalne korisnike.

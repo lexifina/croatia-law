@@ -1,0 +1,6 @@
+## Uvjeti za prodaju pesticida krajnjim korisnicima
+# Članak 27.
+(1) Prodaju, ustupanje i izdavanje pesticida krajnjim korisnicima te savjetovanje krajnjih korisnika o zaštiti bilja i sigurnoj uporabi pesticida smiju obavljati odgovorne osobe iz članka 11. i savjetnici iz članka 12. ovoga Pravilnika.
+(2) Iznimno od odredbe stavka 1. ovoga članka, uz prisutnost savjetnika iz članka 12. ovoga Pravilnika prodaju, ustupanje i izdavanje pesticida krajnjim korisnicima smiju obavljati i distributeri iz članka 13., stavka 1., podstavka 1. ovoga Pravilnika.
+(3) Zaposlenici iz stavka 1. ovoga članka su prilikom prodaje, ustupanja odnosno izdavanja pesticida obvezni krajnjem korisniku pružiti odgovarajuće informacije o uporabi pesticida, o zdravstvenim i ekološkim rizicima, o opasnostima za zdravlje ljudi i okoliš od uporabe pesticida, dati sigurnosne upute za sprečavanje opasnosti od rukovanja i uporabe dotičnih pesticida, informacije o drugim ograničenjima uporabe te druge relevantne informacije o opasnostima, izlaganju, pravilnom skladištenju, rukovanju, primjeni te sigurnom odlaganju u skladu s propisima koji uređuju gospodarenje otpadom, kao i o alternativama niskog rizika.
+(4) Proizvođači i vlasnici registracije pesticida ili njihovi zastupnici obvezni su informacije iz stavka 3. ovoga članka staviti na raspolaganje distributerima i korisnicima pesticida.

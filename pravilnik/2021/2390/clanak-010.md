@@ -1,0 +1,5 @@
+## Posebni uvjeti za držanje u prodajnom prostoru i skladištenje pesticida za neprofesionalne korisnike
+# Članak 10.
+(1) Ako se pesticidi namijenjeni neprofesionalnim korisnicima prodaju u prodavaonicama u kojima se ne prodaje hrana, uključujući vrtne centre, trgovačke centre, cvjećarnice, odjele za vrt i slično, sukladno Zakonu o održivoj uporabi pesticida (»Narodne novine«, br. 14/14., 115/18. i 32/20.) (u daljnjem tekstu: Zakon), smiju se držati u prodajnom prostoru te prodavaonice uz uvjet da su u ormaru ili vitrini pod ključem i izdvojeni od drugih proizvoda.
+(2) Ako distributer koji prodaje pesticide namijenjene neprofesionalnim korisnicima u prodavaonicama iz stavka 1. ovoga članka, ovisno o obujmu prodaje, ima potrebu za skladištenjem pesticida, skladištiti ih smije u ormarima ili vitrinama smještenima u skladišnim prostorijama koje uobičajeno koristiti u poslovanju, odnosno u odvojenim dijelovima skladišnih prostorija.
+(3) Distributeri iz stavaka 1. i 2. ovoga članka moraju osigurati udovoljavanje uvjetima iz članka 3. stavka 1. i stavaka 3. - 13., članaka 5. i 6. te članka 9. stavka 1. podstavaka 3. i 4. te stavka 2. ovoga Pravilnika.

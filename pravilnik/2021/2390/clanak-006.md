@@ -1,0 +1,4 @@
+## Mogućnost skladištenja drugih proizvoda
+# Članak 6.
+(1) U prostoriji za skladištenje pesticida ne smiju se držati sjeme, sadni materijal, mineralna i organska gnojiva, supstrat za uzgoj bilja, hrana za životinje te drugi proizvodi ili materijali koji nisu neposredno vezani uz skladištenje i čuvanje pesticida ili na koje je moguć bilo kakav utjecaj pesticida, osim u slučaju skladištenja pesticida namijenjenih neprofesionalnim korisnicima iz članka 7. ovoga Pravilnika kada se pesticidi moraju držati odvojeno i na način koji sprečava bilo kakav nepovoljan utjecaj na druge proizvode.
+(2) Strojevi za primjenu pesticida i ostali proizvodi na koje nije moguć nikakav utjecaj pesticida smiju se držati u istoj prostoriji s pesticidima, ali moraju biti fizički odvojeni te se mora osigurati nesmetani pristup pesticidima i udovoljavanje uvjeta iz članka 5. stavka 4. ovoga Pravilnika.
