@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1., a u vezi s člankom 20. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) Općinsko vijeće Općine Podstrana, na 5. sjednici Općinskog vijeća održanoj 8. prosinca 2021. godine, donijelo je
