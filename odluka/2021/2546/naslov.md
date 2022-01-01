@@ -1,0 +1,1 @@
+Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za financiranje materijalnih i financijskih rashoda centara za socijalnu skrb i troškova ogrjeva korisnicima koji se griju na drva u 2022. godinii
