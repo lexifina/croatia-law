@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 34. Statuta Grada Crikvenice (»Službene novine Grada Crikvenice« broj 103/21), Gradsko vijeće Grada Crikvenice, na sjednici održanoj 2. prosinca 2021. godine, donijelo je
