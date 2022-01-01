@@ -1,0 +1,1 @@
+Na temelju odredbi članka 20., 41. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17), članka 34. Statuta Općine Zlatar Bistrica (»Službeni glasnik Krapinsko-zagorske županije« broj 8/18, 18/20 i 9/21), Općinsko vijeće na svojoj 2. sjednici, održanoj 16. rujna 2021. godine, na prijedlog načelnice općine donosi
