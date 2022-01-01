@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 37. Statuta Grada Šibenika (»Službeni glasnik Grada Šibenika« broj 2/21), Gradsko vijeće Grada Šibenika na 5. sjednici od 14. prosinca 2021. godine donijelo je
