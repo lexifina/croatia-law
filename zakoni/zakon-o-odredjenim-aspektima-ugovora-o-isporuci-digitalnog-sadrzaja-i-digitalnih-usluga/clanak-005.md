@@ -1,0 +1,23 @@
+## Područje primjene
+# Članak 5.
+(1) Ovaj se Zakon primjenjuje na svaki ugovor na temelju kojeg trgovac isporučuje ili se obvezuje isporučiti digitalni sadržaj ili digitalnu uslugu potrošaču, a potrošač plaća ili se obvezuje platiti određenu cijenu.
+(2) Ovaj se Zakon primjenjuje ako trgovac isporučuje ili se obvezuje isporučiti digitalni sadržaj ili digitalnu uslugu potrošaču, a potrošač dostavlja ili se obvezuje dostaviti osobne podatke trgovcu, osim ako osobne podatke koje dostavi potrošač trgovac obrađuje isključivo u svrhu isporuke digitalnog sadržaja ili digitalne usluge u skladu s ovim Zakonom ili kako bi se trgovcu omogućilo usklađivanje s pravnim zahtjevima kojima trgovac podliježe, a trgovac te podatke ne obrađuje ni u koje druge svrhe.
+(3) Ovaj se Zakon primjenjuje i ako su digitalni sadržaj ili digitalna usluga razvijeni u skladu sa specifikacijama potrošača.
+(4) Uz iznimku odredaba članaka 6. i 14. ovoga Zakona, odredbe ovoga Zakona primjenjuju se i na sve materijalne nosače podataka koji služe isključivo kao nosači digitalnog sadržaja.
+(5) Ovaj se Zakon ne primjenjuje na digitalni sadržaj ili digitalne usluge koji su ugrađeni u robu ili su povezani s robom u smislu članka 3. točke c) ovoga Zakona i koji se isporučuju na temelju ugovora o kupoprodaji te robe, neovisno o tome isporučuje li takav digitalni sadržaj ili digitalnu uslugu prodavatelj ili treća strana.
+(6) U slučaju dvojbe o tome čini li isporuka ugrađenog ili povezanog digitalnog sadržaja ili ugrađene ili povezane digitalne usluge dio ugovora o kupoprodaji, predmnijeva se da su digitalni sadržaj ili digitalna usluga obuhvaćeni ugovorom o kupoprodaji.
+(7) Ovaj se Zakon ne primjenjuje na ugovore o:
+a) pružanju usluga koje nisu digitalne usluge, neovisno o tome je li trgovac upotrijebio digitalne oblike ili sredstva kako bi proizveo krajnji proizvod usluge ili ga isporučio ili prenio potrošaču
+b) elektroničkim komunikacijskim uslugama sukladno propisima kojima se uređuje elektronička komunikacija, uz iznimku brojevno neovisnih interpersonalnih komunikacijskih usluga
+c) zdravstvenoj zaštiti kako je definirana propisima kojima se uređuje prekogranična zdravstvena skrb
+d) uslugama kockanja odnosno uslugama koje uključuju klađenje na uloge s novčanom vrijednošću u igrama na sreću, uključujući one s elementom vještine, poput lutrijskih igara, igara u kasinima, pokera i oklada, elektroničkim putem ili putem bilo koje druge tehnologije za olakšavanje komunikacije te na pojedinačan zahtjev primatelja takvih usluga
+e) financijskim uslugama kako su definirane zakonom kojim se uređuje zaštita potrošača
+f) softveru koji trgovac nudi na temelju besplatne i otvorene licencije, pri čemu potrošač ne plaća cijenu, a osobne podatke koje potrošač dostavi trgovac obrađuje isključivo u svrhu poboljšanja sigurnosti, kompatibilnosti ili interoperabilnosti tog konkretnog softvera
+g) isporuci digitalnog sadržaja kada je digitalni sadržaj stavljen na raspolaganje javnosti tehnologijom različitom od prijenosa signala kao dio nastupa ili događanja, poput digitalnih kinematografskih projekcija
+h) digitalnom sadržaju koji pružaju tijela javnog sektora država članica sukladno propisima kojima se uređuje ponovna uporaba informacija u javnom sektoru.
+(8) Ako jedan ugovor između istog trgovca i istog potrošača u paketu uključuje elemente isporuke digitalnog sadržaja ili digitalne usluge i elemente pružanja drugih usluga ili robe, ovaj Zakon primjenjuje se samo na elemente ugovora koji se tiču digitalnog sadržaja ili digitalne usluge.
+(9) Odredba članka 20. ovoga Zakona ne primjenjuje se ako paket uključuje elemente usluge pristupa internetu ili brojevno utemeljene interpersonalne komunikacijske usluge u smislu propisa koji reguliraju elektroničke komunikacije.
+(10) Raskid jednog elementa iz paketa ugovora ne utječe na druge elemente paketa ugovora, osim ako ispunjenje svih elemenata paketa ugovora nije bila odlučujuća pobuda zbog koje je potrošač sklopio ugovor.
+(11) Pravo Unije o zaštiti osobnih podataka primjenjuje se na sve osobne podatke koji se obrađuju u vezi s ugovorima iz stavka 1. ovoga članka te u slučaju proturječnosti između odredaba ovoga Zakona i prava Unije o zaštiti osobnih podataka, pravo Unije ima prednost.
+(12) Ako odredbama ovoga Zakona nije određeno drukčije, na sklapanje, učinke ili posljedice raskida ugovora primjenjuje se propis kojim se uređuju opća potrošačka prava.
+(13) Ako odredbama ovoga Zakona ili propisa iz stavka 12. ovoga članka nije određeno drukčije, na sklapanje, valjanost, ništetnost ili posljedice raskida ugovora primjenjuje se opći propis obveznog prava.

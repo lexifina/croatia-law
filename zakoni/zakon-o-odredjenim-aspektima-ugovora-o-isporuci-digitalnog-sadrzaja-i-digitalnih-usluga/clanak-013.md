@@ -1,0 +1,9 @@
+## Teret dokazivanja
+# Članak 13.
+(1) Teret dokazivanja u odnosu na to jesu li digitalni sadržaj ili digitalna usluga isporučeni sukladno članku 6. ovoga Zakona je na trgovcu.
+(2) U slučajevima iz članka 12. stavka 2. ovoga Zakona, teret dokazivanja u odnosu na to jesu li isporučeni digitalni sadržaj ili digitalna usluga bili usklađeni u trenutku isporuke je na trgovcu za onu neusklađenost koja postane očita u roku od godinu dana od trenutka isporuke digitalnog sadržaja ili digitalne usluge.
+(3) U slučajevima iz članka 12. stavka 5. ovoga Zakona, teret dokazivanja u odnosu na to jesu li isporučeni digitalni sadržaj ili digitalna usluga bili usklađeni tijekom razdoblja unutar kojeg se digitalni sadržaj ili digitalna usluga moraju isporučivati u skladu s ugovorom je na trgovcu za onu neusklađenost koja postane očita tijekom tog razdoblja.
+(4) Odredbe stavaka 2. i 3. ovoga članka ne primjenjuju se ako trgovac dokaže da digitalno okružje potrošača nije kompatibilno s tehničkim zahtjevima za digitalni sadržaj ili digitalnu uslugu te ako je trgovac na jasan i razumljiv način obavijestio potrošača o tim zahtjevima prije sklapanja ugovora.
+(5) Potrošač surađuje s trgovcem, u mjeri u kojoj je to razumno moguće i potrebno, kako bi se utvrdilo je li uzrok neusklađenosti digitalnog sadržaja ili digitalne usluge, u trenutku utvrđenom u članku 12. stavcima 2., 3. i 5. ovoga Zakona, ovisno o slučaju, digitalno okružje potrošača.
+(6) Obveza suradnje iz stavka 5. ovoga članka ograničena je na ona tehnički dostupna sredstva koja su najmanje opterećujuća za potrošača.
+(7) Ako potrošač postupi protivno stavku 5. ovoga članka, a trgovac je na jasan i razumljiv način prije sklapanja ugovora obavijestio potrošača o tehničkim zahtjevima za digitalni sadržaj ili digitalnu uslugu, teret dokazivanja u odnosu na to je li neusklađenost postojala u trenutku utvrđenom u članku 12. stavcima 2., 3. i 5. ovoga Zakona je na potrošaču.
