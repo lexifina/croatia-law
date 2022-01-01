@@ -1,0 +1,1 @@
+Na temelju članka 20., članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) te članka 30. Statuta Općine Perušić (»Županijski glasnik« Ličko-senjske županije broj 5A/21) Općinsko vijeće Općine Perušić na sjednici održanoj 9. prosinca 2021. godine donijelo je
