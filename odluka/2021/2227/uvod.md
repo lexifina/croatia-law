@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« 115/16 i 101/17) te članka 33. Statuta Grada Velike Gorice (Službeni glasnik Grada Velike Gorice br. 1/21), Gradsko vijeće Grada Velike Gorice na svojoj 4. sjednici održanoj 30. studenoga 2021. godine donosi
