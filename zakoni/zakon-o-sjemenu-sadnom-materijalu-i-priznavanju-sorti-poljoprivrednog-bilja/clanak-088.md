@@ -1,0 +1,3 @@
+# Članak 88.
+(1) Pravne i fizičke osobe upisane u upisnike dobavljača, laboratorija i uzorkivača poljoprivrednog sjemena i sadnog materijala u skladu s Pravilnikom o upisu u upisnike dobavljača, laboratorija i uzorkivača poljoprivrednog sjemena i sadnog materijala (»Narodne novine«, br. 29/08., 21/09., 37/09. i 24/17.) ostaju upisane do 30. lipnja 2022., uz obvezu da se do tog roka podnesu zahtjevi za upis u upisnike iz članka 10. stavka 1., članka 12. stavka 1. i članka 13. stavka 1. ovoga Zakona.
+(2) Pravne i fizičke osobe koje ne podnesu zahtjev za upis u upisnike iz članka 10. stavka 1., članka 12. stavka 1. i članka 13. stavka 1. ovoga Zakona do roka iz stavka 1. ovoga članka brisat će se iz navedenih upisnika.

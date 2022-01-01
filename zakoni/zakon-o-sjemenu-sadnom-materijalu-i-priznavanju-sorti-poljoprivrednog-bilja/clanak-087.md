@@ -1,0 +1,27 @@
+## Propisi koji ostaju na snazi
+# Članak 87.
+Do stupanja na snagu pravilnika iz članka 86. ovoga Zakona ostaju na snazi provedbeni propisi doneseni na temelju Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 140/05., 35/08., 55/11., 14/14., 115/18. i 32/20.), i to:
+– Pravilnik o upisu u upisnike dobavljača, laboratorija i uzorkivača poljoprivrednog sjemena i sadnog materijala (»Narodne novine«, br. 29/08., 21/09., 37/09. i 24/17.)
+– Pravilnik o troškovima za usluge i postupke koje provodi Hrvatski centar za poljoprivredu, hranu i selo – Zavod za sjemenarstvo i rasadničarstvo (»Narodne novine«, br. 68/16. i 127/17.)
+– Pravilnik o stavljanju na tržište sjemena krmnog bilja (»Narodne novine«, br. 129/07., 78/10., 31/13., 23/17., 112/18. i 47/20.)
+– Pravilnik o stavljanju na tržište sjemena žitarica (»Narodne novine«, br. 83/09., 31/13., 61/16., 111/18. i 47/20.)
+– Pravilnik o stavljanju na tržište sjemena repa (»Narodne novine«, br. 72/07. i 25/17.)
+– Pravilnik o stavljanju na tržište sjemena povrća (»Narodne novine«, br. 129/07., 78/10., 43/13., 29/14., 36/15., 84/16. i 55/20.)
+– Pravilnik o stavljanju na tržište sjemenskog krumpira (»Narodne novine«, br. 129/07., 103/15., 23/17. i 56/20.)
+– Pravilnik o stavljanju na tržište sjemena uljarica i predivog bilja (»Narodne novine«, br. 126/07., 20/13., 123/16. i 46/20.)
+– Pravilnik o metodama uzorkovanja i ispitivanja kvalitete sjemena (»Narodne novine«, br. 99/08.)
+– Pravilnik o stavljanju na tržište materijala za vegetativno umnažanje loze (»Narodne novine«, br. 133/06., 67/10., 30/11., 77/13. i 49/20.)
+– Pravilnik o stavljanju na tržište reprodukcijskog sadnog materijala povrća i presadnica povrća (»Narodne novine«, br. 105/10., 40/14., 84/16. i 62/20.)
+– Pravilnik o stavljanju na tržište reprodukcijskog sadnog materijala i sadnica namijenjenih za proizvodnju voća (»Narodne novine«, br. 9/17. i 39/20.)
+– Pravilnik o upisu sorti u popis sorti voćnih vrsta (»Narodne novine«, br. 98/09., 77/13. i 118/16.)
+– Pravilnik o postupku utvrđivanja različitosti, ujednačenosti i postojanosti sorti voćnih vrsta u svrhu priznavanja sorti (»Narodne novine«, br. 121/16.)
+– Pravilnik o stavljanju na tržište poljoprivrednog reprodukcijskog materijala ukrasnog bilja (»Narodne novine«, br. 129/07., 2/09., 135/09., 82/18. i 49/20.)
+– Pravilnik o stavljanju na tržište sjemena čuvanih sorti (»Narodne novine«, br. 43/13. i 40/14.)
+– Pravilnik o visini troškova postupka za stjecanje i trajanje oplemenjivačkog prava (»Narodne novine«, br. 63/01.)
+– Pravilnik o upisu sorti u Sortnu listu (»Narodne novine«, br. 45/08., 84/08., 77/13., 136/15., 57/17., 70/18., 75/19. i 62/20.)
+– Pravilnik o priznavanju sorti poljoprivrednog bilja (»Narodne novine«, br. 99/08., 100/09., 109/10., 77/13. i 57/18.)
+– Pravilnik o upisu u Upisnike u obavljanju poslova zaštite biljnih sorti (»Narodne novine«, br. 58/11.)
+– Pravilnik o postupku utvrđivanja različitosti, ujednačenosti i postojanosti novih biljnih sorti u svrhu dodjeljivanja oplemenjivačkog prava i priznavanja sorti (»Narodne novine«, br. 61/11.)
+– Pravilnik o uvjetima za korištenje požetog materijala zaštićene sorte na vlastitom poljoprivrednom imanju i kriterijima za utvrđivanje malih poljoprivrednih proizvođača (»Narodne novine«, br. 145/11.)
+– Pravilnik o postupku stručnog nadzora i nadzora pod stručnom kontrolom nad proizvodnjom poljoprivrednog reprodukcijskog materijala (»Narodne novine«, br. 144/09., 30/11. i 50/11.)
+– Pravilnik o kontroli poljoprivrednoga reprodukcijskog materijala koji se uvozi i obrascu prijave uvoza poljoprivrednoga reprodukcijskog materijala (»Narodne novine«, br. 126/07. i 24/17.).
