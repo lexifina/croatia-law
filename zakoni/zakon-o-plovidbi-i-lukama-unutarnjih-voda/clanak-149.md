@@ -1,0 +1,5 @@
+# Članak 149.
+(1) Investitor ili vlasnik izgrađenih objekata, uređaja ili opreme postavljenih na obali ili na unutarnjim vodama Republike Hrvatske dužni su ih održavati u takvom stanju da ne predstavljaju opasnost za ljudske živote, sigurnost plovidbe i okoliš.
+(2) Ako takvi objekti, uređaji ili oprema ugrožavaju ili mogu ugroziti ljudske živote i sigurnost plovidbe, lučka kapetanija će odrediti mjere koje se moraju poduzeti da se isti dovedu u ispravno stanje ili će narediti njihovo uklanjanje.
+(3) Investitor ili vlasnik objekata, uređaja ili opreme koji predstavljaju stalne ili povremene zapreke na plovnom putu (mostovi, kabeli, potonuli objekti i sl.) obvezan je, u roku koji odredi nadležna lučka kapetanija, postaviti i održavati propisana svjetla i znakove za obilježavanje tih zapreka.
+(4) Ako osoba iz stavka 3. ovoga članka ne postavi propisano svjetlo ili drugi znak ili ako postavljeno svjetlo ili drugi znak ne održava u ispravnom stanju, lučka kapetanija će obavijestiti Ministarstvo da na teret te osobe obavi radnje iz stavka 3. ovoga članka.

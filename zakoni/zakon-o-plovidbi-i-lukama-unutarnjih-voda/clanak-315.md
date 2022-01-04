@@ -1,0 +1,8 @@
+# Članak 315.
+(1) Za štete koje prouzroči brod izlijevanjem ili izbacivanjem drugih onečišćujućih tvari opasnih i štetnih za okoliš, osim ulja iz članka 314. ovoga Zakona, odgovaraju vlasnik broda i brodar ako ne dokažu da je izlijevanje ili izbacivanje onečišćujućih tvari:
+a) posljedica rata, neprijateljstva, građanskog rata, pobune ili prirodne pojave izvanrednoga, neizbježnog ili neotklonjivog karaktera
+b) proistječe u potpunosti iz činjenice što je treća osoba svjesno djelovala ili propustila djelovati u namjeri da nanese štetu ili
+c) u potpunosti proistječe iz radnje ili propusta bilo koje države ili drugog tijela odgovornog za održavanje građevina i opreme iz članka 142. ovoga Zakona u obavljanju tih poslova.
+(2) Šteta zbog onečišćenja okoliša je svaki gubitak ili šteta nastala zbog onečišćenja izvan broda zbog otjecanja ili izbacivanja onečišćujućih tvari s broda ma gdje se to otjecanje ili izbacivanje dogodilo, ako je iznos naknade za onečišćenje okoliša, ne računajući izmaklu korist zbog takvog onečišćenja, ograničen na troškove razumnih mjera koje su stvarno poduzete ili se trebaju poduzeti za ponovno uspostavljanje stanja prije nastale štete, kao i troškove zaštitnih mjera i bilo kojeg gubitka ili štete prouzročene zaštitnim mjerama.
+(3) Ako vlasnik broda ili brodar dokaže da je šteta nastala u potpunosti ili djelomično zato što je osoba koja je pretrpjela tu štetu djelovala ili propustila djelovati u namjeri da prouzroči štetu, ili zbog krajnje nepažnje te osobe, on može biti u potpunosti ili djelomično oslobođen svoje odgovornosti prema spomenutoj osobi.
+(4) Kada je u skladu sa stavkom 1. ovoga članka više osoba odgovorno, njihova odgovornost je solidarna.

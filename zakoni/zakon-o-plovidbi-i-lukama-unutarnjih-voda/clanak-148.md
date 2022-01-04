@@ -1,0 +1,5 @@
+# Članak 148.
+(1) Radi osiguranja točnih podataka o plovnom profilu, dubinama, morfologiji korita, brzini toka, visini slobodnog prolaza te drugih podataka koji mogu utjecati na navigaciju, na vodnim putovima se obavlja geodetska izmjera vodnih putova. Izmjera se obavlja kombinacijom terestričko-satelitske metode i hidrografske izmjere korita vodotoka.
+(2) Na temelju podataka iz stavka 1. ovoga članka izrađuju se službena izvješća o stanju plovnosti, podloge za izradu studijske i tehničke dokumentacije vodnih putova te službene navigacijske karte i druge nautičke publikacije.
+(3) Navigacijske karte obvezno moraju biti izrađene u obliku elektroničke navigacijske karte – ENC u skladu s tehničkim specifikacijama Inland ECDIS standardom, a mogu se dodatno izrađivati i kao klasične plovidbene karte prema kartografskim standardima.
+(4) Korisnicima plovnih putova trebaju biti dostupni svi relevantni podaci vezani za plovidbu i planiranje putovanja na unutarnjim plovnim putovima. Navedeni podaci moraju se osigurati barem u dostupnom elektroničkom obliku.

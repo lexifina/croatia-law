@@ -1,0 +1,4 @@
+# Članak 293.
+(1) Kada vađenje poduzima Ministarstvo, ono će o tome objaviti oglas na svojim mrežnim stranicama i u službenom glasilu Republike Hrvatske te pozvati ovlaštenu osobu da potonulu stvar preuzme u roku od 15 dana.
+(2) Ministarstvo je u obvezi potonulu stvar čije vađenje je poduzelo čuvati za njezina vlasnika ili drugu ovlaštenu osobu te poduzeti sve razumne mjere radi očuvanja tih predmeta.
+(3) Ako je izvađena potonula stvar podložna brzom propadanju ili su za njezino čuvanje ili održavanje potrebni troškovi nerazmjerni njezinoj vrijednosti, potonula stvar može se bez odgode prodati na javnoj dražbi, a za nju dobiveni novac po odbitku troškova prodaje položit će se kod mjesno nadležnog trgovačkog suda, o čemu će Ministarstvo objaviti oglas na svojim mrežnim stranicama i u službenom glasilu Republike Hrvatske.

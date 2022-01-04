@@ -1,0 +1,7 @@
+# Članak 197.
+(1) Na zahtjev korisnika trgovačko pristanište za vlastite potrebe može se, iznimno, otvoriti na određeni vremenski rok isključivo radi ukrcaja i/ili iskrcaja tereta namijenjenog izvođenju radova koji nisu u javnom interesu ili tereta namijenjenog daljnjoj prodaji, pod uvjetom da ukrcaj i/ili iskrcaj tereta nije moguć u najbližoj luci ili je ona toliko udaljena da bi troškovi prijevoza tereta do luke doveli u pitanje isplativost ugovorenog posla, te ako ispunjava i druge propisane uvjete.
+(2) Pristanište iz stavka 1. ovoga članka može se otvoriti najdulje na rok na koji je korisnik zakupio vodno dobro sukladno posebnom propisu o vodama. Zakupljene čestice čine pristanišno područje.
+(3) Ako se korisnik pristaništa iz stavka 1. ovoga članka ne pridržava propisanih uvjeta odnosno ne izvršava obveze utvrđene odlukom o otvaranju ili ovim Zakonom, po obavijesti nadležne lučke kapetanije ili na prijedlog nadležne lučke uprave ministar može donijeti odluku o zatvaranju takvog pristaništa i prije isteka roka na koji je otvoreno.
+(4) Korisnik trgovačkog pristaništa iz stavka 1. ovoga članka ima prava i obveze upravitelja pristaništa i dužan je nadležnoj lučkoj upravi plaćati pristojbu za uporabu obale ili pristana.
+(5) Visinu lučke pristojbe iz stavka 4. ovoga članka određuje lučka uprava prema kriterijima propisanim pravilnikom iz članka 187. stavka 3. ovoga Zakona.
+(6) Protiv odluka donesenih u upravnom postupku iz stavaka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.

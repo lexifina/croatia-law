@@ -1,0 +1,4 @@
+# Članak 258.
+(1) Ako se u provedbi inspekcijskog nadzora nad obavljanjem prijevozničke djelatnosti utvrdi da prijevoznik obavlja djelatnost prijevoza stvari i putnika, tegljenja, potiskivanja ili drugih plovidbenih poslova protivno odredbama ovoga Zakona, inspektor sigurnosti plovidbe zabranit će daljnju plovidbu, oduzeti ispravu o sposobnosti za plovidbu i o utvrđenom stanju i poduzetim mjerama odmah obavijestiti Ministarstvo.
+(2) Ako se u provedbi inspekcijskog nadzora nad obavljanjem djelatnosti posredovanja pri zapošljavanju brodaraca utvrdi da posrednik obavlja navedenu djelatnost bez dopusnice ili na nepropisan način, inspektor sigurnosti plovidbe odredit će posredniku rok od 15 dana za otklanjanje nepravilnosti ili nedostataka i o utvrđenom stanju i poduzetim mjerama odmah obavijestiti Ministarstvo.
+(3) Inspektor sigurnosti plovidbe može Ministarstvu predložiti oduzimanje izdane dopusnice.

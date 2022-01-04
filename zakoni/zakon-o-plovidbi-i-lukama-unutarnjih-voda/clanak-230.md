@@ -1,0 +1,2 @@
+# Članak 230.
+Javni prijevoz putnika i stvari čamcem u unutarnjim vodama Republike Hrvatske uz naknadu može obavljati osoba osposobljena za upravljanje čamcem za gospodarsku namjenu – prijevoz putnika i stvari, na temelju odobrenja Ministarstva, a čija je sposobnost za plovidbu utvrđena sukladno odredbama ovoga Zakona i pod uvjetom da je osigurano mjesto za siguran ukrcaj i iskrcaj putnika i stvari.

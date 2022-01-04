@@ -1,0 +1,4 @@
+# Članak 255.
+(1) Ako inspektor sigurnosti plovidbe utvrdi da je na domaćem brodu ukrcan veći broj putnika ili veća količina tereta nego što je dozvoljeno ili je teret smješten tako da ugrožava sigurnost broda ili osoba na njemu, zabranit će plovidbu broda dok se nedostatak ne ukloni.
+(2) Ako inspektor sigurnosti plovidbe utvrdi da domaći brod zbog nedostataka onečišćuje okoliš ili da su mu tankovi otpadnih voda puni ili uređaji neispravni, zabranit će se isplovljenje broda iz luke dok se ti nedostaci na njemu ne otklone.
+(3) Ako se u obavljanju inspekcijskog nadzora utvrdi da domaći brod nema važeću ispravu kojom se dokazuje ispravnost uređaja za ukrcavanje i iskrcavanje tereta ili ako se utvrdi da stanje tih uređaja nije u skladu s podacima iz te isprave, zabranit će se ukrcavanje i iskrcavanje tereta uređajima broda.

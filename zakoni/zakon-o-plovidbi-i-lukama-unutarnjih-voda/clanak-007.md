@@ -1,0 +1,5 @@
+# Članak 7.
+(1) Brodar, zapovjednik broda, upravitelj luke, lučka kapetanija i Ministarstvo dužni su organizirati i trajno nadzirati obavljanje poslova koji se odnose na sigurnost plovidbe te s tim u vezi voditi evidencije i upisnike s propisanim podacima.
+(2) Na prijedlog nadležne lučke kapetanije ministar može radi sigurnosti plovidbe naredbom ograničiti plovidbu na unutarnjim vodama odnosno propisati posebne uvjete plovidbe u cilju zaštite ljudskih života, obala, okoliša i drugih dobara. Ograničenje plovidbe može uključivati i privremenu zabranu plovidbe svim ili pojedinim vrstama plovila na određenim dionicama vodnih putova osim u slučajevima navedenim u stavku 3. ovoga članka.
+(3) U slučajevima obrane od poplava i obrane od leda plovidba se može zabraniti sukladno propisu o vodama.
+(4) Protiv odluka i drugih upravnih akata Ministarstva i lučke kapetanije koje donose u upravnom postupku, na temelju odredbi ovoga Zakona, ne može se izjaviti žalba, ali se može pokrenuti upravni spor.

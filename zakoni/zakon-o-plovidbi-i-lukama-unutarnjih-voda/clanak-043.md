@@ -1,0 +1,3 @@
+# Članak 43.
+(1) U slučaju promjena namjene, promjena područja plovidbe, nosivosti ili broja putnika koje brod smije prevoziti, većih popravaka, izmjena, preinaka ili obnova opreme većeg značaja koje utječu na usklađenost broda s Tehničkim pravilima u pogledu njegove konstrukcijske čvrstoće, plovidbe, mogućnosti manevriranja ili njegovih posebnih karakteristika, vlasnik broda dužan je prijaviti preinaku nadležnom tijelu.
+(2) Poslije obavljenog tehničkog nadzora odnosno pregleda ne smije se bez prethodne obavijesti tijelima iz članka 39. ovoga Zakona obavljati bilo kakve promjene ili preinake strukture trupa broda, njegovih strojeva, uređaja i opreme.

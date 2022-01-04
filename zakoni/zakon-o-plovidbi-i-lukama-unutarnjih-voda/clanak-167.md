@@ -1,0 +1,4 @@
+# Članak 167.
+(1) Uvjete kojima moraju udovoljavati luke, postupak za otvaranje i zatvaranje luke te mjerila za njihovo razvrstavanje i promjenu razvrstaja propisuje uredbom Vlada Republike Hrvatske.
+(2) Prilikom utvrđivanja mjerila za razvrstaj luka Vlada Republike Hrvatske uzet će u obzir ukupni promet svake luke u proteklom desetogodišnjem razdoblju i njegove osobine; operativni kapacitet luke; izgrađenost i stanje lučke suprastrukture i lučke infrastrukture te njihova održavanja; funkcionalnost uređaja i usluga za opskrbu plovila, posade i putnika te popravak plovila; kontinuitet, stanje plovnosti i razvrstaj vodnog puta, kakvoću i značaj prometnih veza sa zaleđem; prostorne i gospodarske mogućnosti daljnjeg razvitka luke i dr.
+(3) Polazeći od općih smjernica za razvoj luka utvrđenih planom iz članka 133. stavka 1. ovoga Zakona, Vlada Republike Hrvatske može promijeniti mjerila za razvrstaj luka.

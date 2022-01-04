@@ -1,0 +1,4 @@
+# Članak 342.
+(1) Novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna kaznit će se za prekršaj fizička osoba koja se za vrijeme upravljanja plovilom ne pridržava propisa o pravilima plovidbe, kojima se uređuje sigurna plovidba i promet na unutarnjim vodama, i time izazove plovidbenu nesreću (članak 15. stavak 2.).
+(2) Novčanom kaznom u iznosu od 1000,00 kuna kaznit će se za prekršaj fizička osoba koja se za vrijeme upravljanja plovilom ne pridržava propisa o pravilima plovidbe, kojima se uređuje sigurna plovidba i promet na unutarnjim vodama i time izazove plovidbenu nezgodu (članak 15. stavak 2.).
+(3) Uz novčanu kaznu iz stavka 1. ovoga članka počinitelju plovidbenog prekršaja može se izreći i zaštitna mjera zabrane upravljanja brodom na motorni pogon ili zabrane upravljanja motornim čamcem.

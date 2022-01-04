@@ -1,0 +1,4 @@
+# Članak 257.
+(1) Ako se u provedbi inspekcijskog nadzora nad obavljanjem djelatnosti brodarskog učilišta utvrdi da brodarsko učilište ne zadovoljava uvjete na temelju kojih mu je izdano rješenje o povjeravanju izobrazbe ili se utvrdi bilo koja druga nepravilnost u radu brodarskog učilišta, inspektor sigurnosti plovidbe privremeno će zabraniti rad brodarskog učilišta, a u utvrđenom stanju odmah će obavijestiti Ministarstvo.
+(2) Ministarstvo može brodarskom učilištu ukinuti rješenje o povjeravanju izobrazbe ili suglasnost na ovlaštenje za obrazovanje i prije isteka njihove valjanosti.
+(3) U slučaju ukidanja rješenja iz stavka 2. ovoga članka, brodarsko učilište može podnijeti novi zahtjev za isti program izobrazbe odnosno program obrazovanja nakon isteka roka od najmanje godine dana od dana ukidanja dopusnice ili suglasnosti.

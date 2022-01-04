@@ -1,0 +1,5 @@
+# Članak 291.
+(1) Ako potonula stvar predstavlja izravnu opasnost ili smetnju za plovidbu i okoliš, lučka kapetanija će bez odgode obavijestiti Ministarstvo koje će hitno na trošak i rizik vlasnika, a prema rješenju koje donosi u hitnom postupku, izvršiti uklanjanje potonule stvari na najefikasniji i najbrži mogući način, uključujući i njezinu prodaju na javnoj dražbi, vodeći pritom računa o sigurnosti plovidbe i zaštiti okoliša, o čemu će obavijestiti vlasnika.
+(2) Smatra se da potonula stvar predstavlja izravnu i neposrednu opasnost za plovidbu ako se nalazi na plovnom putu.
+(3) Rješenja koja se donose na temelju ovoga članka dostavljaju se vlasniku objavom na mrežnim stranicama Ministarstva sukladno pravilima o javnoj objavi, prema odredbama zakona kojim se uređuje vođenje upravnog postupka.
+(4) Sredstva za uklanjanje potonulih stvari u slučaju iz članka 290. stavka 2. ovoga Zakona i stavka 1. ovoga članka osiguravaju u državnom proračunu, što ne utječe na odgovornost vlasnika za sve troškove u vezi s uklanjanjem potonule stvari na temelju članka 300. ovoga Zakona.

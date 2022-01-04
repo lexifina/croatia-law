@@ -1,0 +1,5 @@
+# Članak 76.
+(1) Svjedodžbu o stručnoj osposobljenosti član posade broda stječe na način propisan člankom 74. stavkom 1. ovoga Zakona.
+(2) Kada je uvjet za stjecanje svjedodžbe o stručnoj osposobljenosti polaganje propisanog ispita, isti se polaže pred povjerenstvom Ministarstva odnosno lučke kapetanije koje imenuje ministar odlukom.
+(3) Sve administrativne poslove u vezi s izdavanjem suglasnosti ovlaštenim obrazovnim ustanovama, povjeravanjem izobrazbe učilištima, organizacijom i održavanjem ispita te izdavanjem svjedodžbi iz stavka 2. ovoga članka obavlja Ministarstvo ili lučka kapetanija sukladno međunarodnim propisima o načinu stjecanja i priznavanja stručnih kvalifikacija u unutarnjoj plovidbi i odgovarajućom primjenom odredbi zakonika kojim se uređuju poslovi pomorstva, a kojima je uređeno povjeravanje izobrazbe i davanje suglasnosti pomorskim učilištima, izdavanje svjedodžbi pomoraca te poslovi organizacije i održavanja ispita pomoraca.
+(4) Odredbe ovoga članka na odgovarajući se način primjenjuju i za stjecanje isprave za upravljanje čamcima i rekreacijskim plovilima.

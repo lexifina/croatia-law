@@ -1,0 +1,4 @@
+# Članak 302.
+(1) Izvođač radova koji obavlja vađenje potonule stvari na temelju ugovora sklopljenog s ovlaštenom osobom ili Ministarstvom, ako tim ugovorom nije ugovoreno drukčije, odgovara za štetu koju prouzroči svojim radom ako ne dokaže da se šteta nije mogla izbjeći niti uz dužnu pažnju.
+(2) Za štetu prouzročenu vađenjem potonulih stvari, osim slučajeva navedenih u stavku 1. ovoga članka, izvođač radova odgovara ako ne dokaže da je šteta nastala krivnjom ovlaštene osobe ili osobe za koju ona odgovara.
+(3) Izvođač radova, ako nije drukčije ugovoreno, ima založno pravo na izvađenoj potonuloj stvari radi osiguranja naknade za vađenje i čuvanje stvari te može izvađenu potonulu stvar zadržati dok mu odgovorna osoba ne podmiri te tražbine, osim za potonule stvari za koje se utvrdi da imaju obilježja kulturnog dobra ili su od vojnog značaja.

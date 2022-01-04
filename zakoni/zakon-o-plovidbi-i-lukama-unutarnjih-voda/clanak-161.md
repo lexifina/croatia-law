@@ -1,0 +1,4 @@
+# Članak 161.
+(1) Prilikom gradnje novih luka ili izmjene granica lučkog područja postojećih luka potrebno je izraditi prometno-tehnološki elaborat koji mora obuhvatiti: navigacijska i hidrografska obilježja akvatorija, tehničko-tehnološka obilježja obale i pristana te plovila koja će uplovljavati u luku, postupke manevriranja i sigurnosne mjere koje se moraju osigurati na mjestu priveza te postupke u slučaju izvanrednih događaja.
+(2) Prometno-tehnološki elaborat mora se izraditi prije dobivanja građevinske dozvole i biti prethodno odobren od nadležne lučke kapetanije ili, ako građevinska dozvola nije potrebna, prije otvaranja luke.
+(3) Lučka kapetanija može zahtijevati izradu elaborata iz stavka 1. ovoga članka i u slučaju postojećih luka kada ocijeni da je to potrebno zbog sigurnosti plovidbe ili sigurnog boravka plovila u luci.

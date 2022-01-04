@@ -1,0 +1,7 @@
+# Članak 289.
+(1) Potonulu stvar smije na temelju odobrenja nadležne lučke kapetanije izvaditi ovlaštena osoba, osim u slučaju iz članka 290. stavka 1. i članka 291. stavka 1. ovoga Zakona.
+(2) U zahtjevu za davanje odobrenja za vađenje potonule stvari mora se navesti naziv potonule stvari, identifikacijske oznake, mjesto gdje ona leži, način i sredstva potrebna za vađenje, dokaz o vlasništvu odnosno drugom pravu ovlaštene osobe, mjesto gdje se planira ukloniti te vrijeme predviđeno za početak i završetak radova na njezinu vađenju.
+(3) Lučka kapetanija donijet će rješenje kojim se odobrava vađenje potonule stvari ako su ispunjeni uvjeti iz stavka 2. ovoga članka.
+(4) U odobrenju za vađenje potonule stvari lučka kapetanija će, prema okolnostima pojedinog slučaja, odrediti uvjete sigurnosti izvođenja radova vađenja i uklanjanja potonule stvari te primjereni rok izvođenja radova uz upozorenje da po njezinoj obavijesti potonulu stvar može izvaditi i ukloniti Ministarstvo na trošak i rizik vlasnika ako on to ne učini u navedenom roku, uključujući i prodaju potonule stvari na javnoj dražbi.
+(5) O početku, prekidu, nastavljanju ili napuštanju radova na vađenju potonule stvari ovlaštena osoba dužna je, bez odgađanja, obavijestiti lučku kapetaniju koja je izdala odobrenje.
+(6) Za vađenje potonule stvari koje ne zahtijeva neka posebna nautička i tehnička sredstva i osobitu stručnost nije potrebno odobrenje lučke kapetanije ako je vrijednost stvari zanemariva, a stvar nema obilježje kulturnog dobra ili vojni značaj.

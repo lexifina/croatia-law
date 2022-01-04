@@ -1,0 +1,5 @@
+# Članak 92.
+(1) Za štetu nastalu zbog tjelesne ozljede ili smrti člana posade broda ili zbog narušenog zdravlja koju član posade broda pretrpi na radu ili u vezi s radom na brodu odgovara brodar ako je do tjelesne ozljede, smrti ili narušenog zdravlja došlo njegovom krivnjom ili krivnjom osobe za koju brodar odgovara.
+(2) Za štetu iz stavka 1. ovoga članka nastalu od opasne stvari ili opasne djelatnosti brodar odgovara prema općim propisima o odgovornosti za štetu od opasne stvari ili opasne djelatnosti, kao i za takvu štetu koju član posade broda pretrpi na radu ili u vezi s radom na brodu zbog nepostojanja uvjeta za siguran rad.
+(3) Krivnja brodara se pretpostavlja, dok se ne dokaže suprotno, ako je do tjelesne ozljede, smrti ili narušavanja zdravlja člana posade broda došlo izravno ili neizravno kao posljedica brodoloma, sudara, nasukavanja, eksplozije, požara ili mana broda.
+(4) Za suđenje u svim sporovima između člana posade broda i brodara, kao i sporova između zapovjednika broda i brodara stvarno su nadležni trgovački sudovi.

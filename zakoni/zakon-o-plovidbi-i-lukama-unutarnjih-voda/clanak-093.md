@@ -1,0 +1,4 @@
+# Članak 93.
+(1) Član posade broda mora za vrijeme službe biti na brodu i obavljati poslove na brodu u skladu sa svojim dužnostima propisanim zakonom i drugim propisima koji se odnose na plovidbu tako da ne dovede u opasnost sigurnost plovidbe, ne ošteti brod ili stvari na njemu, ne ugrozi sigurnost putnika na brodu, ostale članove posade ili ne onečisti okoliš opasnim i štetnim tvarima s broda.
+(2) Član posade broda obvezan je odmah obavijestiti zapovjednika broda o svakom iznimnom događaju koji bi mogao ugroziti sigurnost broda, putnika, drugih osoba ili stvari na brodu ili prouzročiti onečišćenje okoliša s broda.
+(3) Kada prijeti opasnost brodoloma ili druge havarije, članovi posade broda obvezni su poduzeti sve potrebne mjere za spašavanje broda, putnika, drugih osoba na brodu i stvari te za zaštitu okoliša, do naredbe zapovjednika da se brod napusti.

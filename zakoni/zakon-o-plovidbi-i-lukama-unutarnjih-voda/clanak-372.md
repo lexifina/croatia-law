@@ -1,0 +1,3 @@
+# Članak 372.
+(1) Postupci započeti prema odredbama Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, br. 109/07., 132/07., 51A/13., 152/14. i 118/18.) i propisa donesenih na temelju tog Zakona dovršit će se prema odredbama tih propisa.
+(2) Postupci davanja koncesija započeti prema odredbama Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, br. 109/07., 132/07., 51A/13., 152/14. i 118/18.) i propisa donesenih na temelju tog Zakona dovršit će se prema odredbama tih propisa te odredbama Zakona o koncesijama (»Narodne novine«, br. 69/17. i 107/20.) i odredbama Zakona o javnoj nabavi (»Narodne novine«, broj 120/16.).

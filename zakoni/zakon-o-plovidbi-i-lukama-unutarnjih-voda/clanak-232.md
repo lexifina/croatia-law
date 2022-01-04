@@ -1,0 +1,3 @@
+# Članak 232.
+(1) Na prijevoz tereta koji se obavlja na temelju ugovora o prijevozu, a koji se obavlja tegljenjem odnosno potiskivanjem primjenjuju se odredbe ovoga Zakona o prijevozu stvari unutarnjim plovnim putovima i odgovornosti prijevoznika za štetu na teretu.
+(2) Ugovor o prijevozu stvari koji se obavlja tegljenjem odnosno potiskivanjem je ugovor kojim se brodar tegljača odnosno potiskivača obvezuje da će teret ukrcati u svoj ili tuđi brod koji će se tegliti odnosno potiskivati i tako dovesti teret na odredište. U slučaju sumnje pretpostavlja se da je sklopljen ugovor o tegljenju odnosno potiskivanju.

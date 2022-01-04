@@ -1,0 +1,10 @@
+# Članak 74.
+(1) Stručnu i dopunsku osposobljenost za obavljanje poslova na brodu član posade broda stječe položenim odgovarajućim stručnim ispitom i/ili ostvarenom propisanom plovidbenom službom čije trajanje su potvrdila nadležna tijela.
+(2) Osposobljenost iz stavka 1. ovoga članka članovi posade broda dokazuju svjedodžbom o stručnoj osposobljenosti odnosno brodarskom knjižicom.
+(3) Pravilnikom iz stavka 5. ovoga članka propisuju se dodatni uvjeti za zapovjednika broda kada zapovijeda brodom koji plovi određenim dionicama plovnih putova u Republici Hrvatskoj s posebnim rizicima (sektorima) zbog kojih zapovjednici broda trebaju imati stručnu osposobljenost veću od one propisane općim standardima za stručnu osposobljenost zapovjednika i za koje se zahtijeva poznavanje lokalnih uvjeta plovidbe, što se također smatra osposobljenošću.
+(4) Dionice unutarnjih plovnih putova s posebnim rizicima (sektori) iz stavka 3. ovoga članka mogu se utvrditi pravilnikom iz stavka 5. ovoga članka kada takvi rizici postoje zbog jednog ili više sljedećih razloga:
+a) čestih promjena obrazaca i brzine toka
+b) hidromorfoloških značajki plovnog puta i nepostojanja odgovarajućih informacija o plovnom putu (FI servisa) ili prikladnih karata
+c) prisutnosti posebne regulacije lokalnog prometa koja je opravdana posebnim hidromorfološkim značajkama plovnog puta ili
+d) visoke učestalosti nesreća na određenoj dionici plovnog puta koja se pripisuje nedostatku stručne osposobljenosti koja nije obuhvaćena općim standardima za stručnu osposobljenost zapovjednika.
+(5) Minimalni broj članova posade domaćeg broda, svojstva ukrcanja, ovlasti i poslove na brodu, uvjete i načine stjecanja stručne i dopunske osposobljenosti članova posade broda, uključujući i voditelja čamca, te međunarodne dozvole, ispitne programe, rokove važenja svjedodžbi, sadržaj, te način korištenja i vođenja središnjeg upisnika brodaraca, dodatne uvjete za plovidbu određenim dionicama plovnih putova s posebnim rizicima, dionice plovnih putova s posebnim rizicima pravilnikom propisuje ministar.

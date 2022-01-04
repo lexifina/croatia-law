@@ -1,0 +1,4 @@
+# Članak 134.
+(1) Na temelju plana iz članka 133. stavka 1. ovoga Zakona Republika Hrvatska provodi građenje, tehničko unapređenje i prometno-tehnološku modernizaciju vodnih putova te luka i pristaništa od državnog odnosno županijskog značaja.
+(2) Plan iz članka 133. stavka 1. ovoga Zakona ne uključuje regulacijske i zaštitne vodne građevine, osim obaloutvrda u lukama i pristaništima, niti uključuje dijelove vodnog puta koji su isključivo ili pretežito u funkciji zaštite od štetnog djelovanja voda ili drugih oblika korištenja voda.
+(3) Iznimno od stavka 2. ovoga članka, plan iz članka 133. stavka 1. ovoga Zakona može uključiti regulacijske i zaštitne vodne građevine, uz prethodno pribavljeno mišljenje tijela državne uprave nadležnog za vodno gospodarstvo, kada te građevine imaju višenamjenski karakter.

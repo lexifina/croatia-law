@@ -1,0 +1,4 @@
+# Članak 75.
+(1) Obrazovanje brodaraca radi stjecanja svjedodžbi iz članka 74. stavka 2. ovoga Zakona obavlja obrazovna ustanova ovlaštena posebnim propisima i uz prethodnu suglasnost Ministarstva. Izobrazbu brodaraca obavlja učilište ovlašteno rješenjem Ministarstva.
+(2) U svrhu ishođenja rješenja o povjeravanju izobrazbe odnosno suglasnosti o povjeravanju obrazovanja, osobe iz stavka 1. ovoga članka moraju ispuniti uvjete za održavanje obrazovanja i/ili izobrazbe u pogledu predavača i programa, tehničke opremljenosti te uvedenog i održavanog sustava kvalitete.
+(3) Akte iz stavaka 1. i 2. ovoga članka Ministarstvo će izdati ako u provedenom upravnom postupku utvrdi da su ispunjeni uvjeti za obavljanje obrazovanja ili izobrazbe u pogledu predavača, programa, tehničke opremljenosti te uvedenog i održavanog sustava kvalitete.
