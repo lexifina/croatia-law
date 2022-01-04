@@ -1,0 +1,5 @@
+# Članak 26.
+(1) Ustanovi koja je rješenjem o ocjeni razine kvalitete ocijenjena nezadovoljavajućom razinom kvalitete Agencija će u roku od 30 dana od dana donošenja rješenja uputiti mjere za unaprjeđenje rada ustanove te odrediti rok za izvršenje mjera, a najdulje 12 mjeseci.
+(2) Dok teče rok iz stavka 1. ovoga članka, ustanova ne može ishoditi nova stručna mišljenja Agencije iz članka 8. stavka 4. ovoga Zakona niti rješenja Ministarstva za provedbu programa obrazovanja ili programa vrednovanja iz članka 8. stavka 11. ovoga Zakona.
+(3) Nakon isteka roka iz stavka 1. ovoga članka Agencija stručnim nadzorom utvrđuje izvršenost mjera, nakon čega Agencija donosi rješenje o ocjeni razine kvalitete.
+(4) Ako je ustanova dva puta uzastopno ocijenjena ocjenom nezadovoljavajuće razine kvalitete, Ministarstvo donosi rješenje kojim se ustanovi trajno zabranjuje izvođenje svih odobrenih programa obrazovanja ili programa vrednovanja, a protiv kojeg se ne može izjaviti žalba, već se može pokrenuti upravni spor.

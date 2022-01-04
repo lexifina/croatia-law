@@ -1,0 +1,13 @@
+## XV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 35.
+(1) Pravilnike iz članka 8. stavka 13., članka 27. stavka 6. i članka 29. stavka 8. ovoga Zakona ministar će donijeti u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(2) Pravilnike iz članka 17. stavka 13. ovoga Zakona čelnici nadležnih tijela državne uprave koja dodjeljuju vaučere donijet će u roku od godine dana od dana stupanja na snagu ovoga Zakona.
+(3) Pravilnik iz članka 16. stavka 8. ovoga Zakona ministar će donijeti u roku od osamnaest mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Pravilnik o sadržaju, obliku te načinu vođenja i čuvanja andragoške dokumentacije (»Narodne novine«, br. 129/08.), Pravilnik o javnim ispravama u obrazovanju odraslih (»Narodne novine«, br. 129/08., 50/10. i 61/14.), Pravilnik o evidencijama u obrazovanju odraslih (»Narodne novine«, br. 129/08.) i Pravilnik o standardima i normativima te načinu i postupku utvrđivanja ispunjenosti uvjeta u ustanovama za obrazovanje odraslih (»Narodne novine«, br. 129/08. i 52/10.) ostaju na snazi do stupanja na snagu pravilnika iz stavka 1. ovoga članka.
+(5) U razdoblju od tri godine od dana stupanja na snagu ovoga Zakona ustanove mogu izvoditi programe obrazovanja na temelju rješenja o odobrenju izvođenja programa donesenih prije stupanja na snagu ovoga Zakona.
+(6) Iznimno od stavka 5. ovoga članka, ako se odgovarajući standard kvalifikacije ili skup ishoda učenja upiše u Registar HKO-a prije isteka roka iz stavka 4. ovoga članka, ustanova je obvezna u roku od šest mjeseci od dana upisa standarda kvalifikacije ili skupa ishoda učenja u Registar HKO-a uskladiti programe obrazovanja sa standardom kvalifikacija ili skupom ishoda učenja.
+(7) Ako ustanova izmijeni program obrazovanja sukladno stavku 6. ovoga članka, polaznicima upisanim prije donošenja rješenja mora omogućiti pohađanje i završavanje programa sukladno uvjetima koji su vrijedili na dan upisa.
+(8) Do uspostave NISOO-a koristit će se informacijski sustav obrazovanja odraslih koji se vodi pri Agenciji.
+(9) Osobe koje su u trenutku stupanja na snagu ovoga Zakona zatečene na poslovima ravnatelja, a ne ispunjavaju uvjete iz članka 6. stavka 2. ovoga Zakona nastavljaju s obavljanjem poslova do isteka mandata.
+(10) Osobe koje su u trenutku stupanja na snagu ovoga Zakona zatečene u radnom odnosu na neodređeno vrijeme na poslovima andragoškog voditelja, a ne ispunjavaju uvjete iz članka 7. stavka 5. podstavka 2. ovoga Zakona nastavljaju s obavljanjem poslova svog radnog mjesta.
+(11) Ustanove su dužne zaposliti andragoškog voditelja u punom radnom vremenu u skladu s člankom 7. stavkom 1. ovoga Zakona u roku od godinu dana od dana stupanja na snagu ovoga Zakona.

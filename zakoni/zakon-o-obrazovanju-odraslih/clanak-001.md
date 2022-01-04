@@ -1,0 +1,14 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Obrazovanje odraslih dio je obrazovnog sustava Republike Hrvatske.
+(2) Obrazovanje odraslih odvija se kao formalno, neformalno i informalno učenje.
+(3) Formalno obrazovanje odraslih u Republici Hrvatskoj obuhvaća programe obrazovanja koji se provode sukladno ovom Zakonu te drugim propisima iz nadležnosti drugih tijela državne uprave koji reguliraju obvezno obrazovanje za pristup tržištu rada za određenu profesiju.
+(4) Neformalno obrazovanje odraslih za stjecanje kompetencija potrebnih za rad u smislu ovoga Zakona obuhvaća provedbu neformalnih programa obrazovanja koji se financiraju putem vaučera iz europskih strukturnih i investicijskih fondova te mehanizama za oporavak i otpornost usklađenih sa standardom zanimanja ili skupom kompetencija i standardom kvalifikacije ili skupom ishoda učenja iz Registra Hrvatskog kvalifikacijskog okvira (u daljnjem tekstu: Registar HKO-a).
+(5) Neformalno obrazovanje odraslih za stjecanje kompetencija potrebnih za rad u smislu ovoga Zakona obuhvaća i provedbu neformalnih programa obrazovanja na koje se primjenjuju odredbe zakona kojim se uređuje tržište rada.
+(6) Ovim Zakonom uređuje se formalno obrazovanje odraslih koje se provodi u ustanovama koje imaju registriranu djelatnost obrazovanja odraslih sukladno odredbama zakona kojim se uređuje osnivanje i ustrojstvo ustanova.
+(7) Obrazovanje odraslih u smislu ovoga Zakona obuhvaća:
+− provedbu formalnih programa za stjecanje i vrednovanje skupova ishoda učenja/kurikuluma za stjecanje kvalifikacija na razinama 1, 2, 3, 4, 4.1 i 4.2. te na razini 5 Hrvatskoga kvalifikacijskog okvira u dijelu koji se odnosi na strukovno specijalističko usavršavanje
+− provedbu formalnih programa za vrednovanje skupova ishoda učenja i dodjele kvalifikacija (u daljnjem tekstu: programi vrednovanja) na razinama 1, 2, 3, 4, 4.1 i 4.2. te na razini 5 Hrvatskoga kvalifikacijskog okvira u dijelu koji se odnosi na strukovno specijalističko usavršavanje koji su stečeni formalnim i neformalnim obrazovanjem te informalnim učenjem.
+(8) Na obrazovanje odraslih primjenjuju se odredbe ovoga Zakona te odredbe zakona kojim se uređuje osnivanje i ustrojstvo ustanova, zakona kojim se uređuje djelatnost odgoja i obrazovanja u osnovnim i srednjim školama, zakona kojim se uređuje djelatnost strukovnog obrazovanja, zakona kojim se uređuje tržište rada i drugih propisa ako ovim Zakonom nije drukčije određeno.
+(9) Neformalno obrazovanje za stjecanje kompetencija potrebnih za rad uz ustanove iz stavka 6. ovoga članka mogu provoditi i pravne i fizičke osobe sukladno zakonu kojim se uređuje tržište rada.
+(10) Formalno obrazovanje odraslih koje se provodi sukladno propisima iz nadležnosti drugih tijela državne uprave kojima se regulira obvezno obrazovanje za pristup tržištu rada za određenu profesiju može se provoditi u ustanovama iz stavka 6. ovoga članka, kao i kod drugih pravnih i fizičkih osoba sukladno posebnim propisima.

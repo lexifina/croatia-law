@@ -1,0 +1,5 @@
+# Članak 28.
+(1) Na zahtjev Ministarstva ustanova je obvezna dostaviti dokaze o ispunjenosti uvjeta za izvođenje odobrenih programa obrazovanja ili programa vrednovanja.
+(2) Ako Ministarstvo uvidom u evidenciju, očevidom ili na temelju nalaza druge nadležne institucije utvrdi da ustanova ne ispunjava neki od uvjeta za izvođenje odobrenog programa obrazovanja ili programa vrednovanja, odredit će rok u kojem je ustanova obvezna ukloniti nedostatke odnosno ispuniti uvjete potrebne za izvođenje prethodno odobrenog programa.
+(3) Ako ustanova u roku iz stavka 2. ovoga članka ne otkloni nedostatke, Ministarstvo će donijeti rješenje o ukidanju rješenja za izvođenje odobrenog programa obrazovanja ili programa vrednovanja, protiv kojeg se ne može izjaviti žalba, već se može pokrenuti upravni spor tužbom kod nadležnog upravnog suda.
+(4) Ustanova kojoj je izdano rješenje iz stavka 3. ovoga članka ne može tri godine od donošenja rješenja Ministarstvu podnijeti zahtjev za izvođenje programa obrazovanja ili programa vrednovanja koji su rješenjem ukinuti.
