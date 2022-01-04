@@ -1,0 +1,1 @@
+Na temelju članka 201. stavka 6. u vezi članka 201. stavka 1. točke 10. Zakona o osiguranju (»Narodne novine« 30/15, 112/18, 63/20, 133/20) i članka 15. točke 7. Zakona o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine« 140/05, 12/12) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 22. prosinca 2021. donijela je
