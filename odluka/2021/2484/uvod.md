@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 1. Zakona o vodnim uslugama (»Narodne novine« br. 66/19), članka 52. i članka 56. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17, 66/19), te članka 12. Društvenog ugovora Vodovoda d.o.o., Makarska, Skupština Društva, na sjednici, održanoj 20. prosinca 2021. donosi

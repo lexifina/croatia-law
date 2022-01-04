@@ -1,0 +1,2 @@
+# Članak 7.
+Prihodi od naknade za razvoj za zajedničke potrebe koriste se za financiranje gradnje komunalnih vodnih građevina od interesa za korisnike vodnih usluga na cijelom uslužnom području ili njegovu pretežitom dijelu, dok se prihodi od naknade za razvoj za lokalne potrebe koriste za financiranje gradnje komunalnih vodnih građevina od interesa za korisnike vodnih usluga pojedinog JLS-a, sve po načelu ravnomjernog razvoja odnosno prvenstva u potrebama i solidarnosti.
