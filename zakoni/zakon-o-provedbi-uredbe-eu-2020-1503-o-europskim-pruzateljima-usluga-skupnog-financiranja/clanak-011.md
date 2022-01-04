@@ -1,0 +1,14 @@
+## Razlozi za ukidanje odobrenja za rad
+# Članak 11.
+(1) Agencija rješenjem ukida rješenje kojim je izdano odobrenje za rad u slučajevima propisanim člankom 17. stavkom 1. točkama (a) do (e) Uredbe (EU) 2020/1503.
+(2) Agencija može rješenjem ukinuti odobrenje za rad pružatelju usluga skupnog financiranja:
+1. ako pružatelj usluga skupnog financiranja teško prekrši odredbe ovoga Zakona ili Uredbe (EU) 2020/1503 kojima se uređuju uvjeti poslovanja pružatelja usluga skupnog financiranja
+2. ako pružatelj usluga skupnog financiranja na bilo koji način Agenciji onemogućuje nadzor svojega poslovanja
+3. ako pružatelj usluga skupnog financiranja ne postupi u skladu s rješenjem kojim Agencija nalaže nadzorne mjere iz članka 14. ovoga Zakona
+4. ako je Hrvatska narodna banka pružatelju usluga skupnog financiranja koji je ujedno pružatelj platnih usluga ili trećoj strani sa sjedištem u Republici Hrvatskoj koja djeluje u njegovo ime i koja pruža platne usluge izrekla mjere ili sankcije vezano za utvrđene nezakonitosti koje se odnose na pranje novca ili financiranje terorizma prema zakonu kojim se uređuje sprječavanje pranja novca i financiranje terorizma, ili ako je takve mjere izreklo nadležno tijelo treće strane koja djeluje u ime pružatelja usluga skupnog financiranja i koja pruža usluge platnog prometa, ako treća strana ima sjedište na području druge države članice, a te nezakonitosti imaju obilježja teškog kršenja odredbi zakona kojim se uređuje sprječavanje pranja novca i financiranje terorizma, te pružatelj usluga skupnog financiranja ne poduzme sve potrebne mjere za njihovo uklanjanje
+5. ako je Hrvatska narodna banka pružatelju usluga skupnog financiranja ili trećoj strani sa sjedištem u Republici Hrvatskoj ukinula odobrenje za pružanje usluga platnog prometa prema zakonu kojim se uređuje platni promet, ili ako je odobrenje za rad trećoj strani ukinulo nadležno tijelo treće strane koja pruža usluge platnog prometa, ako treća strana ima sjedište na području druge države članice, te se takvo stanje ne ispravi u roku iz članka 17. stavka 1. podstavka 2. točke (b) Uredbe (EU) 2020/1503
+6. ako je Agencija pružatelju usluga skupnog financiranja ukinula odobrenje za rad ili prethodnu suglasnost za obavljanje investicijskih usluga i aktivnosti prema zakonu kojim je uređeno tržište kapitala.
+(3) Rješenje Agencije iz stavaka 1. i 2. ovoga članka izvršno je danom dostave rješenja stranki.
+(4) Od dana izvršnosti rješenja kojim je ukinuto odobrenje za rad odnosno od dana prestanka važenja odobrenja pružatelj usluga skupnog financiranja ne smije sklopiti, započeti obavljati ili obaviti niti jednu uslugu ili aktivnost za koje je odobrenje za rad ukinuto odnosno prestalo važiti.
+(5) Ovlast Agencije da ukine rješenje u skladu sa stavcima 1. i 2. ovoga članka nije ograničena rokom.
+(6) Tužba kojom se pokreće upravni spor protiv rješenja Agencije iz stavaka 1. i 2. ovoga članka ne može imati odgodni učinak.

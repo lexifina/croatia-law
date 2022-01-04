@@ -1,0 +1,4 @@
+## Nadzorne mjere Agencije
+# Članak 14.
+(1) Kada Agencija utvrdi povrede odredbi ovoga Zakona ili Uredbe (EU) 2020/1503 ili ako postoji opravdana sumnja da je došlo do te povrede, Agencija može subjektu nadzora ili drugoj osobi koja krši odredbe ovoga Zakona ili Uredbe (EU) 2020/1503 rješenjem izreći jednu ili više nadzornih mjera iz članka 30. stavka 2. Uredbe (EU) 2020/1503 koje su potrebne da bi pružatelj usluga skupnog financiranja uskladio svoje poslovanje ili postupanje s odredbama Uredbe (EU) 2020/1503 i ovoga Zakona, uključujući nalaganje određenih postupanja ili prestanak određenog postupanja koje nije u skladu s Uredbom (EU) 2020/1503 ili ovim Zakonom.
+(2) Agencija informacije o izrečenim nadzornim mjerama objavljuje na svojim internetskim stranicama, primjenjujući na odgovarajući način odredbe članka 42. Uredbe (EU) 2020/1503.
