@@ -1,0 +1,1 @@
+Na temelju članka 201. Zakona o osiguranju (»Narodne novine«, broj 30/15, 112/18, 63/20, 133/20), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 22. prosinca 2021. godine donijela je
