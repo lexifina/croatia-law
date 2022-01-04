@@ -1,0 +1,9 @@
+# Članak 46.
+Iza članka 115. dodaje se članak 115.a koji glasi:
+»Članak 115. a
+(1) Novčanom kaznom u iznosu od 100.000,00 kuna do 500.000,00 kuna kaznit će se za prekršaj pravna osoba koja koristi cestovno zemljište, u smislu članka 73. stavka 1. ovoga Zakona, bez sklopljenog ugovora s upraviteljem javne ceste odnosno koncesionarom, sukladno članku 73. stavku 2. ovoga Zakona, i/ili odbija predati posjed pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru, sukladno članku 73. stavku 7. ovoga Zakona.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 5.000,00 kuna do 20.000,00 kuna.
+(3) Novčanom kaznom u iznosu od 50.000,00 kuna do 250.000,00 kuna kaznit će se za prekršaj fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost koja u vezi s obavljanjem obrta ili samostalne djelatnosti koristi cestovno zemljište u smislu članka 73. stavka 1. ovoga Zakona bez sklopljenog ugovora s upraviteljem javne ceste odnosno koncesionarom, sukladno članku 73. stavku 2. ovoga Zakona, i/ili odbija predati posjed pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru, sukladno članku 73. stavku 7. ovoga Zakona.
+(4) Novčanom kaznom u iznosu od 5.000,00 kuna do 20.000,00 kuna kaznit će se za prekršaj fizička osoba koja koristi cestovno zemljište u smislu članka 73. stavka 1. ovoga Zakona bez sklopljenog ugovora s upraviteljem javne ceste odnosno koncesionarom, sukladno članku 73. stavku 2. ovoga Zakona, i/ili odbija predati posjed pravnoj osobi koja upravlja javnom cestom odnosno koncesionaru, sukladno članku 73. stavku 7. ovoga Zakona.
+(5) Optužni prijedlog za prekršaje iz stavka 1. ovoga članka podnosi pravna osoba koja upravlja javnom cestom odnosno koncesionar.
+(6) Novčane kazne naplaćene prema ovom članku prihod su pravne osobe koja upravlja javnom cestom odnosno koncesionara i predstavljaju sredstva iz članka 86. stavka 1. točke 13. ovoga Zakona.«.
