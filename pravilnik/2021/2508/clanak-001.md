@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o pomorskoj opremi (»Narodne novine« br. 83/16) u članku 2. podstavak 1. mijenja se i glasi:
+» - Direktiva 2014/90/EU Europskog parlamenta i Vijeća od 23. srpnja 2014. o pomorskoj opremi i stavljanju izvan snage Direktive Vijeća 96/98/EZ (Tekst značajan za EGP), (SL L 257, 28. 8. 2014.), kako je posljednje izmijenjena Delegiranom direktivom Komisije (EU) 2021/1206 od 30. travnja 2021. o izmjeni Priloga III. Direktivi 2014/90/EU Europskog parlamenta i Vijeća o pomorskoj opremi u pogledu primjenjive norme za laboratorije koje upotrebljavaju tijela za ocjenu sukladnosti za pomorsku opremu (Tekst značajan za EGP) (SL, L 261, 22. 7. 2021.) (u daljnjem tekstu: Direktiva),«.
