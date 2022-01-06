@@ -1,0 +1,7 @@
+# Članak 3.
+U članku 3. točka 20. mijenja se i glasi:
+»20. Značajna kreditna institucija jest svaka kreditna institucija koja je određena kao globalna sistemski važna institucija (GSV institucija) ili ostala sistemski važna institucija (OSV institucija) te svaka kreditna institucija čiji četverogodišnji prosjek imovine iskazane u revidiranim financijskim izvještajima koji se odnose na posljednji dan prethodne četiri poslovne godine na pojedinačnoj osnovi prelazi iznos u protuvrijednosti od jedne milijarde eura.«
+Iza točke 22. dodaju se nove točke 23., 24. i 25., koje glase:
+»(23) Grupa kako je uređeno člankom 4. stavkom 1. točkom 138. Uredbe (EU) br. 575/2013.
+(24) Rodno neutralna politika primitaka kako je uređeno člankom 3. stavkom 1. točkom 62.a Zakona o kreditnim institucijama.
+(25) Upravljačka odgovornost kako je uređeno člankom 1. stavkom 1. Delegirane uredbe Komisije (EU) 2021/923 od 25. ožujka 2021. o dopuni Direktive 2013/36/EU Europskog parlamenta i Vijeća u vezi s regulatornim tehničkim standardima kojima se utvrđuju kriteriji za definiranje upravljačkih odgovornosti i kontrolnih funkcija, značajnih poslovnih jedinica i značajnog utjecaja na profil rizičnosti značajnih poslovnih jedinica te kojima se utvrđuju kriteriji za utvrđivanje zaposlenika ili kategorija zaposlenika čije profesionalne aktivnosti imaju utjecaj na profil rizičnosti institucije koji je usporediv s utjecajem zaposlenika ili kategorija zaposlenika iz članka 92. stavka 3. te direktive.«
