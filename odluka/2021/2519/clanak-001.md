@@ -1,0 +1,13 @@
+# Članak 1.
+U Odluci o primicima radnika (»Narodne novine«, br. 31/2017., 57/2017. i 4/2021.) u članku 2. točka 4. mijenja se i glasi:
+»4) Varijabilni primici jesu primici koji nisu fiksni.«
+U članku 2. točka 6. mijenja se i glasi:
+»6) Bonusi za zadržavanje radnika jesu varijabilni primici koji se dodjeljuju pod uvjetom da radnici ostanu u radnom odnosu s kreditnom institucijom tijekom unaprijed određenog razdoblja. Njima se može koristiti tijekom restrukturiranja, likvidacije, stečaja, sanacije, promjene u kontroli nad poslovanjem kreditne institucije ili kako bi se osigurao dovršetak velikih projekata.«
+U članku 2. točka 8. mijenja se i glasi:
+»8) Otpremnine jesu varijabilni primici povezani s prijevremenim prestankom ugovora, odnosno u slučaju ugovora na određeno vrijeme, prestankom ugovora prije datuma isteka ugovora te, u slučaju ugovora na neodređeno vrijeme, prije ugovornoga ili zakonskog umirovljenja, koje provode kreditna institucija ili njezina društva kćeri. Redovne isplate primitaka tijekom otkaznog roka ne smatraju se otpremninama.«
+U članku 2. točka 11. mijenja se i glasi:
+»11) Identificirani radnik jest radnik čije profesionalne aktivnosti imaju značajan utjecaj na profil rizičnosti pojedine kreditne institucije ili na profil rizičnosti grupe u skladu s kriterijima utvrđenima u članku 27. ove Odluke i Delegiranoj uredbi Komisije (EU) 2021/923 оd 25. ožujka 2021. o dopuni Direktive 2013/36/EU Europskog parlamenta i Vijeća u vezi s regulatornim tehničkim standardima kojima se utvrđuju kriteriji za definiranje upravljačkih odgovornosti i kontrolnih funkcija, značajnih poslovnih jedinica i značajnog utjecaja na profil rizičnosti značajnih poslovnih jedinica te kojima se utvrđuju kriteriji za utvrđivanje zaposlenika ili kategorija zaposlenika čije profesionalne aktivnosti imaju utjecaj na profil rizičnosti institucije koji je usporediv s utjecajem zaposlenika ili kategorija zaposlenika iz članka 92. stavka 3. te direktive (Tekst značajan za EGP) (Službeni list EU L 203/1, 9. 6. 2021.; u nastavku teksta: Delegirana uredba Komisije (EU) 2021/923).«
+U članku 2. točka 31. mijenja se i glasi:
+»31) Bonitetna konsolidacija jest ispunjavanje bonitetnih zahtjeva utvrđenih u Zakonu o kreditnim institucijama i Uredbi (EU) br. 575/2013 na konsolidiranoj ili potkonsolidiranoj osnovi, u skladu s dijelom 1. glavom 2. poglavljem 2. Uredbe (EU) br. 575/2013.«
+U članku 2. iza točke 41. dodaje se nova točka 42., koja glasi:
+»42) Rodno uvjetovana razlika u plaći jest razlika između prosječne bruto zarade po satu muškaraca i žena izražena kao postotak prosječne bruto zarade po satu muškaraca.«
