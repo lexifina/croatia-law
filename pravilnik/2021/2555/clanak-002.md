@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 3. stavak 2. mijenja se i glasi:
+»(2) Pravne ili fizičke osobe koje se bave stavljanjem u prodaju na malo opasnih kemikalija, ili koriste opasne kemikalije označene kao akutno toksične kategorije 4., nagrizajuće za kožu 1. kategorije, potkategorije 1.B i 1.C; koje izazivaju preosjetljivost dišnih putova 1. kategorije, podkategorija 1.A i 1.B, karcinogene 2. kategorije, mutagene 2. kategorije, reproduktivno toksične 2. kategorije, specifično toksične za ciljane organe - jednokratno izlaganje 2. kategorije, specifično toksične za ciljane organe - ponavljano izlaganje 2. kategorije i koje izazivaju aspiracijsku toksičnost 1. kategorije, mogu sve poslove obavljati u jednoj prostoriji koja zadovoljava sanitarno-tehničke i higijenske uvjete.«.
