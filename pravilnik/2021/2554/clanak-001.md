@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o skladištenju opasnih kemikalija koje djeluju u obliku plina (»Narodne novine«, broj 91/13) u članku 1. stavak 2. mijenja se i glasi:
+»(2) Kemikalije iz stavka 1. ovoga članka, sukladno posebnim propisima kojima se uređuje razvrstavanje, označavanje, obilježavanje i pakiranje kemikalija, jesu kemikalije koje se razvrstavaju u jednu od sljedećih kategorija opasnosti: akutna toksičnost 1., 2. i 3. kategorije, nagrizajuće za kožu potkategorije 1.A, karcinogenost 1A i 1B kategorije, mutagenost 1A i 1B kategorije, reproduktivna toksičnost 1A i 1B kategorije, specifična toksičnost za ciljane organe - jednokratno izlaganje 1. kategorije i specifična toksičnost za ciljane organe - ponavljano izlaganje 1. kategorije, koje djeluju u obliku plina.«.
