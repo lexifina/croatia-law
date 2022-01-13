@@ -1,0 +1,1 @@
+Na temelju članaka 18., 24. i 34. Zakona o audiovizualnim djelatnostima (»Narodne novine« broj 61/18, dalje u tekstu: Zakon o audiovizualnim djelatnostima), ravnatelj Hrvatskog audiovizualnog centra (u daljnjem tekstu: Centar), donosi
