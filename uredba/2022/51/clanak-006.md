@@ -1,0 +1,3 @@
+# Članak 6.
+(1) U slučaju protupravnog otkopavanja ili pridobivanja mineralne sirovine čija tržišna vrijednost nije iskazana u članku 4. ove Uredbe, tržišnu vrijednost odredit će rješenjem Povjerenstvo za utvrđivanje rezervi mineralnih sirovina osnovano sukladno odredbama članka 55. Zakona o rudarstvu (u daljnjem tekstu: Povjerenstvo) za svaki slučaj posebno.
+(2) Naknada štete po osnovi otuđenja mineralne sirovine iz stavka 1. ovoga članka određuje se kao umnožak količine protupravno otkopane ili pridobivene mineralne sirovine utvrđene zapisnikom o obavljenom nadzoru i vrijednosti mineralne sirovine utvrđene rješenjem Povjerenstva.
