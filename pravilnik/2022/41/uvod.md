@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 9. Zakona o turističkoj pristojbi (»Narodne novine«, broj 52/19., 32/20. i 42/20.) i članka 12. stavka 11. Zakona o članarinama u turističkim zajednicama (»Narodne novine«, broj 52/19. i 144/20.), ministrica turizma i sporta donosi
