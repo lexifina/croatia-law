@@ -1,0 +1,1 @@
+Na temelju članka 47. stavaka 2. i 4. Zakona o zaštiti pučanstva od zaraznih bolesti (»Narodne novine«, br. 79/07., 113/08., 43/09., 130/17., 114/18., 47/20., 134/20. i 143/21.) te članka 22.a Zakona o sustavu civilne zaštite (»Narodne novine«, br. 82/15., 118/18., 31/20. i 20/21.), Stožer civilne zaštite Republike Hrvatske, 24. siječnja 2022., donosi
