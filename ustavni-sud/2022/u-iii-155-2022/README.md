@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-155/2022 od 25. siječnja 2022.
+
+- Case: `U-III-155/2022`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2022-01-25`
+- Outcome: odbijanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C12587D500492279>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12587D500492279/%24FILE/U-III-155-2022.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12587D500492279/%24FILE/U-III-155-2022.pdf>
+- Official database page SHA-256: `97f98f74e251a6e3f5c227a7c45260dcb47fbf8cb15885e7efa0368a827aec81`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
