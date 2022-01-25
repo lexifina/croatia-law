@@ -1,0 +1,2 @@
+# Članak 204.
+U Policijskoj upravi virovitičko-podravskoj osnivaju se: Policijska postaja Virovitica, Policijska postaja Orahovica, Policijska postaja Slatina, Policijska postaja Pitomača i Postaja granične policije Terezino polje.

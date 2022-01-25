@@ -1,0 +1,2 @@
+# Članak 142.
+POSTAJA POMORSKE I AERODROMSKE POLICIJE ZADAR je specijalizirana - pomorska i aerodromska policijska postaja II. kategorije sa sjedištem u Zadru, Gaženica. Nadležna je za nadzor državne granice i poslove na moru na morskom akvatoriju Zadarske županije, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice na moru u dužini od 45 n/m, kao i na području Zračne luke Zadar te pripadajućem graničnom prijelazu.

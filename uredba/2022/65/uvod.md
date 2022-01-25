@@ -1,0 +1,1 @@
+Na temelju članka 10. stavaka 2. i 3. i članka 12. stavka 3. Zakona o policiji (»Narodne novine«, br. 34/11., 130/12., 89/14. - vjerodostojno tumačenje, 151/14., 33/15., 121/16. i 66/19.), Vlada Republike Hrvatske je na sjednici održanoj 13. siječnja 2022. donijela

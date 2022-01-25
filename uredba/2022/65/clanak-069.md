@@ -1,0 +1,2 @@
+# Članak 69.
+POSTAJA GRANIČNE POLICIJE DALJ je specijalizirana - granična policijska postaja II. kategorije sa sjedištem u Dalju. Nadležna je za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Republikom Srbijom u dužini od 35,4 km, a obuhvaća i Stalni granični prijelaz za međunarodni promet putnika i roba u zračnom prometu Osijek u Zračnoj luci Osijek, te Stalni granični prijelaz za međunarodni promet putnika i roba u riječnom prometu Osijek u Luci Osijek.

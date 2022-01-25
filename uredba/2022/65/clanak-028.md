@@ -1,0 +1,2 @@
+# Članak 28.
+U Policijskoj upravi splitsko-dalmatinskoj osnivaju se: I. policijska postaja Split, II. policijska postaja Split, Policijska postaja Brač, Policijska postaja Hvar, Postaja granične policije Imotski, Policijska postaja Kaštela, Policijska postaja Makarska, Policijska postaja Omiš, Policijska postaja Sinj, Policijska postaja Solin, Policijska postaja Trogir, Policijska postaja Vis, Postaja granične policije Vrgorac, Postaja granične policije Trilj, Postaja aerodromske policije Resnik, Postaja pomorske policije Split i Postaja prometne policije Split.

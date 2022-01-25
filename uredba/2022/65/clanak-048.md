@@ -1,0 +1,2 @@
+# Članak 48.
+I. POLICIJSKA POSTAJA RIJEKA je temeljna policijska postaja I. kategorije sa sjedištem u Rijeci, a obuhvaća dio Grada Rijeke, odnosno područje mjesnih odbora Brajda - Dolac, Brašćine - Pulac, Drenova, Kozala, Luka, Potok, Školjić - Stari grad, Škurinje i Škurinjska Draga, Banderovo, Pehlin, Podmurvice, Turnić, Mlaka, Kantrida, Srdoči, Grbci, Sveti Nikola, Zamet i Belveder. Uz navedeno obuhvaća i Grad Kastav te Općine Klana i Viškovo.

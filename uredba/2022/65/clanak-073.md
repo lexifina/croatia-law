@@ -1,0 +1,2 @@
+# Članak 73.
+U Policijskoj upravi istarskoj osnivaju se: Policijska postaja Pula - Pola, Postaja pomorske i aerodromske policije Pula - Pola, Policijska postaja Umag - Umago s Policijskom ispostavom Buje - Buie, Policijska postaja Labin, Policijska postaja Pazin s Policijskom ispostavom Buzet, Policijska postaja Poreč - Parenzo, Policijska postaja Rovinj - Rovigno, Policijska postaja prometne policije Pula - Pola.

@@ -1,0 +1,2 @@
+# Članak 126.
+POLICIJSKA POSTAJA VUKOVAR je mješovita policijska postaja I. kategorije sa sjedištem u Vukovaru, a obuhvaća Grad Vukovar s prigradskim naseljima Sotin i Lipovača i Općine Bogdanovci, Negoslavci, Borovo i Trpinja. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Republikom Srbijom u dužini od 34,4 km.

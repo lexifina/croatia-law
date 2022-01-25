@@ -1,0 +1,2 @@
+# Članak 65.
+POLICIJSKA POSTAJA DONJI MIHOLJAC je mješovita policijska postaja III. kategorije sa sjedištem u Donjem Miholjcu, a obuhvaća Grad Donji Miholjac, Općine Marijanci, Viljevo, Podravska Moslavina i Magadenovac. Nadležna je za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućem graničnom prijelazu, te zaštitu dijela državne granice s Mađarskom u dužini od 32,5 km državne granice.

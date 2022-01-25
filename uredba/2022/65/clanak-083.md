@@ -1,0 +1,2 @@
+# Članak 83.
+U Policijskoj upravi dubrovačko-neretvanskoj osnivaju se: Policijska postaja Dubrovnik, Policijska postaja Ston, Postaja granične policije Gruda, Policijska postaja Korčula, Policijska postaja Lastovo, Policijska postaja Metković, Policijska postaja Ploče, Postaja prometne policije Dubrovnik, Postaja pomorske policije Dubrovnik, Postaja aerodromske policije Ćilipi i Postaja granične policije Metković.

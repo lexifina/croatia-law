@@ -1,0 +1,2 @@
+# Članak 2.
+Na temelju kriterija utvrđenih u članku 10. stavku 2. Zakona o policiji (»Narodne novine«, br. 34/11., 130/12., 89/14. - vjerodostojno tumačenje, 151/14., 33/15., 121/16. i 66/19.), a uz uvažavanje posebnih propisa koji utvrđuju područno ustrojstvo Republike Hrvatske, za obavljanje određenih policijskih i drugih poslova osnivaju se policijske uprave, razvrstane u četiri kategorije te policijske postaje u policijskim upravama, razvrstane u tri kategorije.

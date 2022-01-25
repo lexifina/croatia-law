@@ -1,0 +1,2 @@
+# Članak 108.
+POSTAJA GRANIČNE POLICIJE GVOZD je specijalizirana - granična policijska postaja III. kategorije sa sjedištem u Gvozdu, a obuhvaća Općine Gvozd i Topusko te pogranično područje Grada Gline. Nadležna je za nadzor državne granice, odnosno zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 34,1 km. Nadležna je i za obavljanje drugih policijskih poslova i poslova u vezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova te poslova sigurnosti cestovnog prometa.

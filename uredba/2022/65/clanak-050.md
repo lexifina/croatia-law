@@ -1,0 +1,2 @@
+# Članak 50.
+POLICIJSKA POSTAJA MALI LOŠINJ S POLICIJSKOM ISPOSTAVOM CRES je mješovita policijska postaja III. kategorije sa sjedištem u Malom Lošinju, a obuhvaća Gradove Mali Lošinj i Cres. U sastavu policijske postaje nalazi se Zračno pristanište Mali Lošinj te pomorski granični prijelaz. U okvirima policijske postaje djeluje i Policijska ispostava Cres sa sjedištem u Cresu, a obuhvaća Grad Cres.

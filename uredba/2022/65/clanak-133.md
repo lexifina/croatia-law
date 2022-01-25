@@ -1,0 +1,2 @@
+# Članak 133.
+POSTAJA GRANIČNE POLICIJE BAJAKOVO je specijalizirana - granična policijska postaja I. kategorije sa sjedištem na Stalnom graničnom prijelazu za međunarodni promet putnika i roba s inspekcijskim službama u cestovnom prometu Bajakovo. Nadležna je za nadzor državne granice, odnosno kontrolu prelaska državne granice na navedenom prijelazu i zaštitu dijela državne granice s Republikom Srbijom u dužini od 24,3 km.

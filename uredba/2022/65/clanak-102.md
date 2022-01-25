@@ -1,0 +1,2 @@
+# Članak 102.
+POSTAJA PROMETNE POLICIJE KARLOVAC je specijalizirana - prometna policijska postaja II. kategorije sa sjedištem u Karlovcu, a obuhvaća Grad Karlovac i Općine Draganić, Lasinja, Vojnić i Krnjak, Grad Duga Resa i Općine Netretić, Bosiljevo, Generalski Stol i Barilović, Grad Ozalj i Općine Žakanje, Kamanje i Ribnik. U okviru svog djelokruga, Postaja pokriva i dionice autocesta A6 i A1 koje prolaze područjem Karlovačke županije, te cijev tunela Mala Kapela u pravcu kretanja sjever-jug.

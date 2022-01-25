@@ -1,0 +1,2 @@
+# Članak 25.
+POSTAJA GRANIČNE POLICIJE BREGANA je specijalizirana - granična policijska postaja I. kategorije sa sjedištem u Bregani, nadležna za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Republikom Slovenijom u dužini od 3,8 km, počevši od desne obale Save od graničnog područja Policijske postaje Zaprešić, do zaključno s graničnim prijelazom Bregana - Naselje, do graničnog područja Policijske postaje Samobor.

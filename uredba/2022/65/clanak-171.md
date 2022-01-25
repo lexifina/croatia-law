@@ -1,0 +1,2 @@
+# Članak 171.
+POLICIJSKA POSTAJA KRAPINA S POLICIJSKOM ISPOSTAVOM PREGRADA je mješovita policijska postaja II. kategorije sa sjedištem u Krapini, a obuhvaća Grad Krapinu I Grad Pregradu te Općine Đurmanec, Jesenje, Petrovsko, Radoboj, Desinić i Hum na Sutli. Nadležna je i za zaštitu dijela državne granice s Republikom Slovenijom u dužini od 50,44 km. U okvirima policijske postaje djeluje i Policijska ispostava Pregrada sa sjedištem u Pregradi, a obuhvaća Grad Pregradu i Općine Desinić i Hum na Sutli.

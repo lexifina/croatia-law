@@ -1,0 +1,2 @@
+# Članak 118.
+POLICIJSKA POSTAJA ŠIBENIK S POLICIJSKOM ISPOSTAVOM PRIMOŠTEN je temeljna policijska postaja I. kategorije sa sjedištem u Šibeniku, a obuhvaća Grad Šibenik, osim gradskih četvrti Jadrija i Zaton i Grad Skradin, te Općine Bilice, Primošten i Rogoznicu. U okvirima policijske postaje djeluje i Policijska ispostava Primošten sa sjedištem u Primoštenu, a obuhvaća područje Općina Primošten i Rogoznica.

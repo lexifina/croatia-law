@@ -1,0 +1,2 @@
+# Članak 134.
+POSTAJA PROMETNE POLICIJE VINKOVCI je specijalizirana - prometna policijska postaja III. kategorije sa sjedištem u Vinkovcima, a obuhvaća područje Gradova Vinkovci i Otok, te Općine Stari Jankovci, Privlaka, Ivankovo, Vođinci, Stari Mikanovci, Markušica, Tordinci, Tovarnik, Nuštar, Jarmina, Andrijaševci, Tompojevci, Lovas i Nijemci. U okviru svog djelokruga, Postaja pokriva i dionicu autoceste A3 koja prolazi područjem Vukovarsko-srijemske županije.
