@@ -1,0 +1,54 @@
+# Članak 7.
+U sjedištu Ministarstva unutarnjih poslova policijskom službeniku se kao 14 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiv za ciljane potrage u Upravi kriminalističke policije
+- detektiv za poslove operativne pripreme u Upravi kriminalističke policije
+- detektiv za poslove operativne zaštite u Upravi kriminalističke policije
+- policijski službenik - voditelj kriminalističkog istraživanja u Upravi kriminalističke policije
+- policijski službenik za ciljane potrage u Upravi kriminalističke policije
+- policijski službenik za financijske istrage u Upravi kriminalističke policije
+- policijski službenik za informatičko-tehničke poslove u Upravi kriminalističke policije
+- policijski službenik za kibernetičku sigurnost u Službi za suzbijanje korupcije i organiziranog kriminaliteta
+- policijski službenik za kriminalističku potporu u Upravi kriminalističke policije
+- policijski službenik za nadzor podatkovnog prometa u Upravi kriminalističke policije
+- policijski službenik za posebne kriminalističke poslove u Upravi kriminalističke policije
+- policijski službenik za posebnu kriminalističku tehniku u Upravi kriminalističke policije
+- policijski službenik za poslove operativne pripreme u Upravi kriminalističke policije
+- policijski službenik za poslove operativne zaštite u Upravi kriminalističke policije
+- policijski službenik za potporu nadzora podatkovnog prometa u Upravi kriminalističke policije
+- policijski službenik za psihološku potporu u Upravi kriminalističke policije
+- policijski službenik za suzbijanje korupcije i organiziranog kriminaliteta u Upravi kriminalističke policije
+- viši detektiv za posebne kriminalističke poslove u Upravi kriminalističke policije
+- policijski službenik za usmjeravanje i nadzor rada protueksplozijske zaštite u Protueksplozijskoj službi
+- viši instruktor za protueksplozijsku zaštitu u Protueksplozijskoj službi
+- viši policijski službenik za posebnu kriminalističku tehniku u Upravi kriminalističke policije
+- voditelj poslova za posebnu kriminalističku tehniku u Upravi kriminalističke policije
+- voditelj smjene posebnih kriminalističkih poslova u Upravi kriminalističke policije
+- voditelj smjene - instruktor za posebne kriminalističke poslove u Upravi kriminalističke policije
+- pomoćnik šefa smjene prihvatnog centra za strance
+- šef smjene prihvatnog centra
+- policijski službenik za prihvat i deportaciju u Prihvatnom centru za strance
+- glavni voditelj tehničke službe u Antiterorističkoj jedinici Lučko
+- inženjer tehničke pripreme leta u Antiterorističkoj jedinici Lučko
+- glavni voditelj u Antiterorističkoj jedinici Lučko
+- pomoćnik zapovjednika Antiterorističke jedinice Lučko za potporu
+- pomoćnik zapovjednika Antiterorističke jedinice Lučko za operativne zadaće
+- voditelj kontinuirane plovidbenosti u Zrakoplovnoj jedinici Antiterorističke jedinice Lučko
+- voditelj programa za sustav kakvoće u Zrakoplovnoj jedinici Antiterorističke jedinice Lučko
+- voditelj za helikopterske i planinske specijalnosti Antiterorističke jedinice Lučko
+- voditelj za intervencijsku taktiku Antiterorističke jedinice Lučko
+- voditelj za međunarodnu i unutarnju suradnju Antiterorističke jedinice Lučko
+- voditelj za naoružanje i gađanje Antiterorističke jedinice Lučko
+- voditelj za opću i specijalnu tjelesnu pripremu i borilačke vještine Antiterorističke jedinice Lučko
+- voditelj za padobranstvo Antiterorističke jedinice Lučko
+- voditelj za probijanje i ulazak u prostor Antiterorističke jedinice Lučko
+- voditelj za taktičku medicinu Antiterorističke jedinice Lučko
+- voditelj za komunikacijske sustave i informatizaciju Antiterorističke jedinice Lučko
+- voditelj za bespilotne sustave Antiterorističke jedinice Lučko
+- zapovjednik Antiterorističke jedinice Lučko - zamjenik zapovjednika Zapovjedništva za intervencije
+- zrakoplovni tehničar - letač II. kategorije
+- zamjenik zapovjednika Antiterorističke jedinice Lučko
+- zrakoplovni tehničar - letač III. kategorije
+- zapovjednik snajperskog tima Antiterorističke jedinice lučko
+- manipulant gorivom u Antiterorističkoj jedinici Lučko
+- policijski službenik za sigurnost Policijske akademije
+- policijski službenik - voditelj osiguranja Policijske akademije.

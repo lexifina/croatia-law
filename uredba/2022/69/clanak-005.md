@@ -1,0 +1,55 @@
+# Članak 5.
+U sjedištu policijske uprave policijskom službeniku se kao 16 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- detektiv - vodič službenog psa za otkrivanje droga
+- detektiv za evidencije potraga
+- detektiv za identifikaciju
+- detektiv za kriminalističke evidencije
+- detektiv za obradu kriminaliteta
+- detektiv za potrage
+- detektiv za potrage, identifikaciju i obradu kriminaliteta
+- detektiv za prikupljanje, procjenu i obradu podataka te kriminalističke evidencije
+- detektiv za rad s informatorima
+- kriminalistički tehničar - detektiv za obradu kriminaliteta
+- kriminalistički tehničar
+- policijski službenik - logističar u Mobilnoj jedinici granične policije
+- policijski službenik - logističar tehničar u Mobilnoj jedinici granične policije
+- policijski službenik za nadzor i potporu u Tranzitnom prihvatnom centru za strance
+- policijski službenik za provedbu nadzora državne granice u Mobilnoj jedinici granične policije
+- policijski službenik za provedbu nadzora državne granice - vodič službenog psa za otkrivanje droge u Mobilnoj jedinici granične policije
+- policijski službenik za zaštitu državne granice - operater na stacionarnim i mobilnim sustavima za nadzor granice u Mobilnoj jedinici granične policije
+- policijski službenik za zaštitu državne granice - operater na sustavima za nadzor granice iz zraka u Mobilnoj jedinici granične policije
+- voditelj grupe za provedbu nadzora državne granice u Mobilnoj jedinici granične policije
+- policijski službenik - poslužitelj oklopnog vozila
+- policijski službenik - poslužitelj vodenog topa
+- policijski službenik - vodič službenog psa u Jedinici specijalne i interventne policije i Interventnoj jedinici policije
+- policijski službenik interventne policije
+- policijski službenik pregovarač
+- policijski službenik specijalne policije
+- policijski službenik za foto i video dokumentiranje
+- policijski službenik specijalističkog tima
+- pomoćnik zapovjednika satnije interventne policije
+- pomoćnik zapovjednika satnije za podršku
+- vođa grupe interventne policije
+- vođa grupe pregovarača
+- vođa grupe specijalne policije
+- vođa grupe vodiča službenih pasa
+- vođa grupe za foto i video dokumentiranje
+- vođa specijalističke grupe
+- zapovjednik mješovitog voda
+- zapovjednik oklopnog tima
+- zapovjednik oklopnog voda
+- zapovjednik satnije interventne policije
+- zapovjednik satnije za podršku
+- zapovjednik tima interventne policije
+- zapovjednik tima pregovarača
+- zapovjednik tima specijalne policije
+- zapovjednik tima vodenog topa
+- zapovjednik tima za foto i video dokumentiranje
+- zapovjednik specijalističkog tima
+- zapovjednik voda interventne policije
+- zapovjednik voda sa službenim psima
+- zapovjednik voda specijalne policije
+- zapovjednik voda vodenih topova
+- policijski službenik za osiguranje u OKCP-u
+- policijski službenik za zadržavanje u Jedinici za zadržavanje i prepratu
+- vođa ophodnje za zadržavanje u Jedinici za zadržavanje i prepratu.

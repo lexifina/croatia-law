@@ -1,0 +1,62 @@
+# Članak 4.
+U sjedištu Ministarstva unutarnjih poslova policijskom službeniku se kao 16 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- policijski službenik - motociklist u Mobilnoj jedinici prometne policije
+- policijski službenik za promet u Mobilnoj jedinici prometne policije
+- policijski službenik za policijsku opremu i evidencije u Mobilnoj jedinici prometne policije
+- zapovjednik regionalne protueksplozijske jedinice
+- zamjenik zapovjednika regionalne protueksplozijske jedinice
+- policijski službenik za protueksplozijsku zaštitu u regionalnoj protueksplozijskog jedinici
+- vođa grupe za protueksplozijsku zaštitu u regionalnoj protueksplozijskog jedinici
+- instruktor za protueksplozijsku zaštitu u regionalnoj protueksplozijskog jedinici
+- policijski službenik - vodič službenog psa za detekciju eksploziva u regionalnoj protueksplozijskog jedinici
+- vođa grupe u Mobilnoj jedinici prometne policije
+- vođa prometne ophodnje u Mobilnoj jedinici prometne policije
+- detektiv za posebne kriminalističke poslove u Upravi kriminalističke policije
+- detektiv za posebne tehnike lociranja u Upravi kriminalističke policije
+- detektiv za posebnu kriminalističku tehniku u Upravi kriminalističke policije
+- policijski službenik za posebne tehnike lociranja u Upravi kriminalističke policije
+- policijski službenik za posebnu kriminalističku tehniku u Upravi kriminalističke policije
+- policijski službenik za provedbu posebnih kriminalističkih poslova u Upravi kriminalističke policije
+- policijski službenik - operater na sustavima za nadzor granice iz zraka u Mobilnoj jedinici za provedbu nadzora državne granice
+- policijski službenik - upravitelj na sustavima za nadzor granice iz zraka u Mobilnoj jedinici za provedbu nadzora državne granice
+- policijski službenik za nadzor i potporu u Prihvatnom centru za strance
+- policijski službenik za provedbu nadzora državne granice u Mobilnoj jedinici za provedbu nadzora državne granice
+- policijski službenik za provedbu nadzora državne granice - vodič službenog psa za otkrivanje droga u Mobilnoj jedinici za provedbu nadzora državne granice
+- policijski službenik - vodič službenog psa u Mobilnoj jedinici za provedbu nadzora državne granice
+- voditelj grupe za nadzor granice na sustavima iz zraka u Mobilnoj jedinici za provedbu nadzora državne granice
+- voditelj grupe za provedbu nadzora državne granice u Mobilnoj jedinici za provedbu nadzora državne granice
+- policijski službenik - RTG operater u Upravi za posebne poslove sigurnosti
+- policijski službenik - vodič službenog psa za detekciju eksploziva u Upravi za posebne poslove sigurnosti
+- policijski službenik pomoćnik voditelja osiguranja štićenog objekta u Upravi za posebne poslove sigurnosti
+- policijski službenik voditelj osiguranja štićenog objekta u Upravi za posebne poslove sigurnosti
+- policijski službenik za osiguranje objekta u Upravi za posebne poslove sigurnosti
+- policijski službenik za posebno osiguranje u Upravi za posebne poslove sigurnosti
+- policijski službenik za protueksplozijsku zaštitu u Upravi za posebne poslove sigurnosti
+- pratitelj - motorist u Upravi za posebne poslove sigurnosti
+- pratitelj - vozač u Upravi za posebne poslove sigurnosti
+- šef osiguranja štićenog objekta u Upravi za posebne poslove sigurnosti
+- voditelj osiguranja štićenih osoba u Upravi za posebne poslove sigurnosti
+- voditelj za sigurnosne prethodnice i koordinaciju u Upravi za posebne poslove sigurnosti
+- vođa grupe - motorist u Upravi za posebne poslove sigurnosti
+- vođa grupe - pratitelj u Upravi za posebne poslove sigurnosti
+- vođa grupe za posebna osiguranja u Upravi za posebne poslove sigurnosti
+- vođa grupe za protueksplozijsku zaštitu u Upravi za posebne poslove sigurnosti
+- policajac-specijalac Antiterorističke jedinice Lučko
+- policajac-specijalac za taktičku medicinu Antiterorističke jedinice Lučko
+- policajac-specijalac vodič službenog psa Antiterorističke jedinice Lučko
+- pomoćnik zapovjednika Antiterorističke jedinice Lučko za Zrakoplovnu jedinicu
+- pilot helikoptera I. kategorije
+- pilot helikoptera II. kategorije
+- pilot helikoptera III. kategorije
+- pilot helikoptera IV. kategorije
+- voditelj programa sigurnosti letenja u Zrakoplovnoj jedinici
+- voditelj linijskog i baznog održavanja zrakoplova
+- voditelj programa obuke pilota u Zrakoplovnoj jedinici
+- zapovjednik tima Antiterorističke jedinice Lučko
+- zrakoplovni tehničar - letač I. kategorije
+- vođa grupe Antiterorističke jedinice Lučko
+- vođa grupe za potporu Antiterorističke jedinice Lučko
+- vođa grupe za službene pse Antiterorističke jedinice Lučko
+- vođa grupe za specijalna vozila Antiterorističke jedinice Lučko
+- vođa grupe za vozni park Antiterorističke jedinice Lučko
+- vođa grupe snajperskog tima Antiterorističke jedinice Lučko.

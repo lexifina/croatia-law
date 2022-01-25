@@ -1,0 +1,26 @@
+# Članak 9.
+U policijskoj postaji policijskom službeniku se kao 14 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- policijski službenik za kriminalističku obradu u cestovnom prometu
+- policijski službenik za poslove policije
+- policijski službenik za poslove prometne policije
+- policijski službenik za prevenciju
+- policijski službenik za policijsku opremu i evidencije
+- operater u policijskoj postaji
+- policijski službenik logističar - tehničar
+- policijski službenik za preventivu u cestovnom prometu
+- policijski službenik za sigurnost i preventivu cestovnog prometa
+- pomoćnik načelnika
+- pomoćnik šefa smjene - pritvorski nadzornik
+- pomoćnik šefa smjene policijske postaje
+- šef smjene - pritvorski nadzornik
+- šef smjene policijske postaje
+- vođa ophodnje - operativni dežurni
+- vođa sektora
+- vođa sektora za sigurnost cestovnog prometa
+- zamjenik načelnika policijske postaje
+- policijski službenik - operater pomorskog prometa
+- policijski službenik za graničnu policiju
+- policijski službenik za prekograničnu suradnju
+- šef smjene postaje aerodromske policije
+- šef smjene postaje granične policije
+- vođa pomorskog sektora.

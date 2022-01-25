@@ -1,0 +1,72 @@
+# Članak 8.
+U sjedištu policijske uprave policijskom službeniku se kao 14 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- voditelj službe za osiguranja
+- policijski službenik za javna okupljanja i osiguranja
+- detektiv kriminaliteta droga
+- detektiv za obradu organiziranog kriminaliteta
+- detektiv za razbojništva
+- kriminalistički tehničar za materijalne tragove
+- policijski službenik - vođa grupe kriminaliteta droga
+- policijski službenik kriminaliteta droga
+- policijski službenik vođa ekipe za očevide
+- policijski službenik za delikte protiv opće sigurnosti
+- policijski službenik za delikte protiv opće sigurnosti i okoliša
+- policijski službenik za digitalnu forenziku
+- policijski službenik za gospodarski kriminalitet i korupciju
+- policijski službenik za imovinski kriminalitet
+- policijski službenik za imovinski kriminalitet i delikte protiv opće sigurnosti
+- policijski službenik za kibernetičku sigurnost
+- policijski službenik za kibernetičku sigurnost i digitalnu forenziku
+- policijski službenik za krađe
+- policijski službenik za kriminalističke evidencije i rad s informatorima
+- policijski službenik za krvne delikte
+- policijski službenik za krvne delikte i delikte protiv opće sigurnosti
+- policijski službenik za krvne delikte i ratne zločine
+- policijski službenik za mladež
+- policijski službenik za mladež i obradu kriminaliteta
+- policijski službenik za obradu općeg kriminaliteta
+- policijski službenik za obradu općeg kriminaliteta, potrage i identifikaciju
+- policijski službenik za obradu organiziranog kriminaliteta
+- policijski službenik za obradu organiziranog kriminaliteta, terorizam i ekstremno nasilje
+- policijski službenik za očevide
+- policijski službenik za potrage
+- policijski službenik za potrage i identifikaciju
+- policijski službenik za potrage, identifikaciju i obradu kriminaliteta
+- policijski službenik za rad s informatorima
+- policijski službenik za ratne zločine
+- policijski službenik za razbojništva
+- policijski službenik za seksualne delikte
+- policijski službenik za terorizam i ekstremno nasilje
+- policijski službenik za kriminalitet u gospodarskom poslovanju pravnih i fizičkih osoba
+- policijski službenik za porezne utaje, financijske istrage i traganje za nezakonito stečenom imovinom
+- policijski službenik za suzbijanje korupcije
+- samostalni kriminalistički tehničar
+- viši kriminalistički tehničar
+- vođa grupe kriminalističke tehnike
+- vođa grupe za delikte protiv opće sigurnosti i okoliša
+- vođa grupe za gospodarski kriminalitet i korupciju
+- vođa grupe za krađe
+- vođa grupe za krvne delikte
+- vođa grupe za mladež
+- vođa grupe za obradu općeg kriminaliteta
+- vođa grupe za organizirani kriminalitet
+- vođa grupe za organizirani kriminalitet i korupciju
+- vođa grupe za potrage
+- vođa grupe za razbojništva
+- vođa grupe za seksualne delikte
+- vođa kriminalističko - obavještajne grupe
+- vođa kriminalističko-obavještajne grupe - kriminalističko-obavještajni analitičar
+- vođa grupe za kriminalitet u gospodarskom poslovanju pravnih i fizičkih osoba
+- vođa grupe za porezne utaje, financijske istrage i traganje za nezakonito stečenom imovinom
+- vođa grupe za suzbijanje korupcije
+- policijski službenik za nezakonite migracije
+- pomoćnik šefa smjene Tranzitnog prihvatnog centra za strance
+- šef smjene Tranzitnog prihvatnog centra za strance
+- pomoćnik zapovjednika Jedinice specijalne i interventne policije
+- pomoćnik zapovjednika Interventne jedinice policije
+- voditelj pregovaračkog tima u Jedinici specijalne i interventne policije i Interventnoj jedinici policije
+- voditelj programa specijalističke obuke u jedinici u Jedinici specijalne i interventne policije i Interventnoj jedinici policije
+- zamjenik zapovjednika Jedinice specijalne i interventne policije
+- zapovjednik Jedinice specijalne i interventne policije
+- zapovjednik Interventne jedinice policije
+- šef smjene - operativni dežurni u Jedinici za zadržavanje i prepratu.

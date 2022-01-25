@@ -1,0 +1,44 @@
+# Članak 6.
+U policijskoj postaji policijskom službeniku se kao 16 mjeseci staža osiguranja računa svakih 12 mjeseci stvarno provedenih na radnom mjestu:
+- kontakt policajac
+- policijski službenik
+- policijski službenik - kriminalističko prometni tehničar
+- policijski službenik - prometni motociklist
+- policijski službenik vođa ekipe za očevide u cestovnom prometu
+- policijski službenik za sigurnost cestovnog prometa
+- vođa ophodnje
+- vođa ophodnje za sigurnost cestovnog prometa
+- detektiv za kriminalističke evidencije, potrage, identifikaciju i obradu kriminaliteta
+- detektiv za maloljetničku delinkvenciju i obradu kriminaliteta
+- detektiv za obradu kriminaliteta
+- kriminalistički tehničar - detektiv za obradu kriminaliteta
+- kriminalistički tehničar
+- policijski službenik za mladež
+- policijski službenik za mladež i obradu kriminaliteta
+- policijski službenik za obradu kriminaliteta
+- policijski službenik za obradu kriminaliteta, evidencije, potrage i identifikaciju
+- vođa grupe za obradu kriminaliteta
+- policijski službenik - mornar
+- policijski službenik - operater protudiverzijske zaštite
+- policijski službenik - vodič službenog psa za detekciju eksploziva
+- policijski službenik - vodič službenog psa za graničnu kontrolu
+- policijski službenik - vodič službenog psa za otkrivanje droge
+- policijski službenik - vodič službenog psa za zaštitu granice
+- policijski službenik za graničnu kontrolu
+- policijski službenik za nezakonite migracije
+- policijski službenik za nezakonite migracije i prihvat
+- policijski službenik za protueksplozijsku zaštitu
+- policijski službenik za suzbijanje prekograničnog kriminaliteta
+- policijski službenik za zaštitu državne granice - operater na stacionarnim i mobilnim sustavima za nadzor granice
+- policijski službenik za zaštitu državne granice - operater na sustavima za nadzor granice iz zraka
+- policijski službenik za zaštitu granice
+- upravitelj stroja ophodnog broda tip A
+- upravitelj stroja ophodnog broda tip B
+- voditelj ophodne brodice
+- voditelj ophodnog čamca
+- voditelj smjene graničnog prijelaza
+- vođa grupe za protueksplozijsku zaštitu
+- vođa grupe za zaštitu granice
+- zamjenik zapovjednika ophodnog broda tip A
+- zapovjednik ophodnog broda tip A
+- zapovjednik ophodnog broda tip B.
