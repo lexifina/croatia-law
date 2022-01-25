@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19.) i članka 8. stavka 5. Zakona o policiji (»Narodne novine«, br. 34/11., 130/12., 89/14. - vjerodostojno tumačenje, 151/14., 33/15., 121/16. i 66/19.), Vlada Republike Hrvatske je na sjednici održanoj 13. siječnja 2022. donijela

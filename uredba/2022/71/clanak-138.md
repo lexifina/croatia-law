@@ -1,0 +1,4 @@
+# Članak 138.
+Članak 546. mijenja se i glasi:
+»5.5.4.2. Odjel terorizma i ekstremnog nasilja
+Analizira stanje i pojavne oblike kaznenih djela terorizma, kao i pojava ekstremnog nasilja i krijumčarenja nuklearnih tvari na području Policijske uprave; utvrđuje najpogodnije oblike rada na sprečavanju počinjenja ovih kaznenih djela; surađuje sa drugim ustrojstvenim jedinicama Policijske uprave i tijelima jedinica lokalne i područne lokalne (regionalne) samouprave na području policijske uprave, nadzire rad policijskih postaja i pruža stručnu pomoć u okviru poslova iz svoje nadležnosti, samostalno provodi i uključuje se u provođenje složenijih kriminalističkih istraživanja u policijskim postajama, sudjeluje u izradi strateških procjena za područje policijske uprave, sudjeluje u izobrazbi policijskih službenika koji obavljaju poslove iz nadležnosti Odjela te obavlja i druge poslove vezane za pojave terorizma i ekstremnog nasilja.«.

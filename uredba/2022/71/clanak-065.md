@@ -1,0 +1,4 @@
+# Članak 65.
+Članak 357. mijenja se i glasi:
+»1.5.2.2. Odjel za imovinske delikte
+Analizira stanja i pojave imovinskih delikata, neposredno provodi kriminalistička istraživanja imovinskih delikata, utvrđuje najpogodnije oblike njihovog razrješavanja; koordinira i usmjerava rad policijskih postaja u provođenju kriminalističkih istraživanja; potražuje od drugih ustrojstvenih jedinica podatke bitne za uspješno provođenje kriminalističkih istraživanja; obavlja nadzor nad radom policijskih postaja i pruža im stručnu pomoć u radu, izučava i predlaže najpogodnije oblike sprječavanja kaznenih djela iz područja imovinskih delikata, pruža stručnu pomoć službenicima unutarnjih poslova; surađuje s drugim državnim tijelima, sudjeluje u izradi informacija i drugih stručnih materijala; obavlja i druge poslove iz svog područja rada.«.

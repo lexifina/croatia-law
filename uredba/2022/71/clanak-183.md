@@ -1,0 +1,4 @@
+# Članak 183.
+Članak 656. mijenja se i glasi:
+»9.5.5. Odjel kriminaliteta droga
+Prikuplja, analizira i prati podatke i izvješća, poglavito ona koja se odnose zlouporabu i krijumčarenje droga, surađuje sa drugim ustrojstvenim jedinicama Ministarstva i tijelima jedinica lokalne i područne lokalne (regionalne) samouprave na području policijske uprave u svezi zlouporabe i krijumčarenja droga, nadzire rad policijskih postaja i pruža stručnu pomoć u okviru poslova iz svoje nadležnosti, samostalno provodi i uključuje se u provođenje složenijih kriminalističkih istraživanja u policijskim postajama, sudjeluje u izradi strateških procjena za područje PU, sudjeluje u izobrazbi policijskih službenika koji obavljaju poslove iz nadležnosti Odjela te obavlja i druge poslove na suzbijanju zlouporabe i krijumčarenja droga.«.

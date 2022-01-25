@@ -1,0 +1,4 @@
+# Članak 31.
+Članak 80. mijenja se i glasi:
+»8.3.3.1.3. Odjel Zagreb
+U kriminalističkim istraživanjima nacionalne i regionalne razine sudjeluje u prikupljanju dokaza provedbom posebnih dokaznih radnji te prikuplja obavijesti primjenom prikrivenih policijskih radnji; osigurava materijalno-tehnička sredstva za provedbu radnji iz svoje nadležnosti, brine o kontinuiranom obrazovanju, treningu i usavršavanju policijskih službenika koji rade na provedbi poslova iz svoje nadležnosti, kontinuirano radi na razvoju i uvođenju novih taktika, metodika i primjeni posebne kriminalističke tehnike pri provedbi poslova iz nadležnosti; surađuje s drugim ustrojstvenim jedinicama Ministarstva; vodi propisane evidencije, provodi mjere zaštite podataka, brine o zakonitosti postupanja te obavlja i druge poslove iz svog djelokruga.«.

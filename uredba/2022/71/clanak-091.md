@@ -1,0 +1,5 @@
+# Članak 91.
+Iza članka 419. dodaje se članak 419.a koji glasi:
+»Članak 419.a
+2.5.5. Služba gospodarskog kriminaliteta i korupcije
+Prikuplja podatke i analizira stanje i pojave u području poreznih utaja, utaja carina i kaznenih djela iz radnih odnosa i socijalnog osiguranja, kriminaliteta u gospodarskom poslovanju pravnih i fizičkih osoba te koruptivnih kaznenih djela, surađuje sa drugim ustrojstvenim jedinicama Ministarstva i tijelima jedinica lokalne i područne lokalne (regionalne) samouprave na području policijske uprave, nadzire rad policijskih postaja i pruža stručnu pomoć u okviru poslova iz svoje nadležnosti, samostalno provodi i uključuje se u provođenje složenijih kriminalističkih istraživanja u policijskim postajama, sudjeluje u izradi strateških procjena za područje PU, sudjeluje u izobrazbi policijskih službenika koji obavljaju poslove iz nadležnosti Službe te obavlja i druge poslove na suzbijanju gospodarskog kriminaliteta i korupcije.«.
