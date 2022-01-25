@@ -1,0 +1,5 @@
+## Objašnjenje pojedinih pojmova
+# Članak 4.
+Pojedini pojmovi u smislu ove Uredbe imaju sljedeće značenje:
+1) policijsko zvanje je stečeno zvanje policijskog službenika sukladno stupnju obrazovanja, radnom iskustvu na poslovima policijskog službenika, završenim oblicima stručnog usavršavanja, položenom ispitu za zvanje te godišnjim ocjenama, a koje je potrebno za raspored na radno mjesto policijskog službenika unutar određene kategorije, potkategorije i razine potkategorije radnog mjesta
+2) istaknuti rezultati u području od značaja za rad smatraju se osobito: sudjelovanje u izradi i provedbi strategija i projekata iz djelokruga Ministarstva, sudjelovanje u izradi zakona i drugih propisa, višegodišnje izvrsno rješavanje predmeta u okviru policijskih poslova i poslova usko povezanih s policijskim poslovima, uspješno upravljanje ustrojstvenom jedinicom, objavljeni znanstveni ili stručni radovi u području povezanom s policijskim poslovima i poslovima usko povezanim s policijskim poslovima, status predavača, mentora i instruktora u skladu s propisima o policijskim službenicima.
