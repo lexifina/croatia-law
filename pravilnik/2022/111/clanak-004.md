@@ -1,0 +1,2 @@
+# Članak 4.
+Nositelj ili član obiteljskog poljoprivrednog gospodarstva, odnosno odgovorna osoba ili osoba ovlaštena od strane odgovorne osobe u slučaju ostalih organizacijskih oblika poljoprivrednog gospodarstva može do 25. siječnja 2022. godine ispuniti godišnju obvezu izobrazbe, individualnog savjetovanja ili demonstracijske aktivnosti iz članaka 63., 66., 69., 72., 75., 78., 81., 84., 89., 94., 97., 100., 103., 106., 109., 112., 112.c, 118., 123. i 134. ovoga Pravilnika.
