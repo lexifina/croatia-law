@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 2., članka 27.a Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13, 39/15, 130/17 i 118/18) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19) ministar unutarnjih poslova uz prethodnu suglasnost ministra nadležnog za zdravstvo i ministra vanjskih i europskih poslova, donosi
