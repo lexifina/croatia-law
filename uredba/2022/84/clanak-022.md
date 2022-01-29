@@ -1,0 +1,2 @@
+# Članak 22.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu regionalnoga razvoja i fondova Europske unije prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europske unije (»Narodne novine«, broj 97/20.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu regionalnoga razvoja i fondova Europske unije, koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
