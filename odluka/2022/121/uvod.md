@@ -1,0 +1,1 @@
+Na temelju članka 34. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu (»Narodne novine«, broj 140/21.), Vlada Republike Hrvatske je na sjednici održanoj 27. siječnja 2022. donijela
