@@ -1,0 +1,2 @@
+# Članak 5.
+Zavod može priznati ispostavljeni račun za posebno skupi lijek ugovornoj bolničkoj zdravstvenoj ustanovi koja je nabavila i primijenila posebno skupi lijek ili veledrogeriji koja je ovlaštena od strane nositelja odobrenja za stavljanje lijeka u promet, a s kojim nositeljem odobrenja Zavod ima sklopljen ugovor o financiranju liječenja posebno skupim lijekom, uz uvjet da je nadležna služba Zavoda utvrdila da je primjena lijeka s Popisa u skladu s kriterijima utvrđenim u osnovnoj listi lijekova.

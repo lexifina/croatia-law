@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Nadležna služba Zavoda temeljem medicinske dokumentacije, koju je Zavodu dostavila ugovorna bolnička zdravstvena ustanova u kojoj se osigurana osoba liječi i u kojoj je pod kontrolom bolničkog doktora specijaliste koji je odgovoran za praćenje primjene i učinka lijeka, utvrđuje je li primjena lijeka uvrštenog u Popis u skladu s kriterijima utvrđenim u osnovnoj listi lijekova.
+(2) Lijekove za kućno liječenje hemofilije u izabranu ljekarnu dostavlja, temeljem odobrenja Zavoda, veledrogerija ovlaštena od nositelja odobrenja za stavljanje lijeka u promet, a s kojim nositeljem odobrenja Zavod ima sklopljen ugovor o financiranju liječenja.
