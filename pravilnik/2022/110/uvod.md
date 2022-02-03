@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 2. Zakona o nadzoru robe s dvojnom namjenom (»Narodne novine«, br. 80/11, 68/13) i članka 5. stavka 7. Zakona o ustrojstvu i djelokruga tijela državne uprave (»Narodne novine«, br. 85/20), ministar vanjskih i europskih poslova donosi
