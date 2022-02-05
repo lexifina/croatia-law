@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. točke 1. Poslovnika Ustavnog suda Republike Hrvatske (»Narodne novine« broj 83/14. - pročišćeni tekst i 2/15.), a u vezi s člankom 2. stavkom 3. Ustavnog zakona o Ustavnom sudu Republike Hrvatske (»Narodne novine« broj 99/99., 29/02. i 49/02. - pročišćeni tekst), dana 26. siječnja 2022. godine, donosim
