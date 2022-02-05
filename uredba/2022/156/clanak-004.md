@@ -1,0 +1,2 @@
+# Članak 4.
+Dopunska nacionalna izravna plaćanja u 2021. godini utvrđuju se sukladno Prilogu VI. Uredbe (EU) br. 1307/2013 i osiguranim sredstvima u Državnom proračunu Republike Hrvatske za 2021. godinu i projekcijama za 2022. i 2023. godinu (»Narodne novine«, br. 135/20., 43/21., 69/21., 114/21. i 122/21.) i Državnom proračunu Republike Hrvatske za 2022. godinu i projekcijama za 2023. i 2024. godinu (»Narodne novine«, broj 140/21.) na razdjelu 060 Ministarstvo poljoprivrede za 2021. i 2022. godinu, na poziciji A819058 - ZPP Izravna plaćanja poljoprivrednim proizvođačima.
