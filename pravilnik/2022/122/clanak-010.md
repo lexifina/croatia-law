@@ -1,0 +1,5 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 10.
+(1) Subjekt upisa jedinica lokalne samouprave odnosno Grad Zagreb dužni su u Registar upisati sve podatke iz ugovora te u elektroničkom obliku priložiti primjerak ugovora, primjerak svih sklopljenih Aneksa ugovora kao i dokumentaciju koja je sastavni dio ugovora i dokumentaciju koja prati ugovor, te dokumentaciju koja nedostaje za već upisane ugovore po svim oblicima raspolaganja koji su sklopljeni do stupanja na snagu ovoga Pravilnika u roku od tri mjeseca od dana stupanja na snagu ovoga Pravilnika.
+(2) Subjekt upisa jedinica lokalne samouprave odnosno Grad Zagreb dužni su na dan isteka roka iz stavka 1. ovoga članka dostaviti Ministarstvu status dugovne i potražne strane u elektroničkom obliku za sve ugovore iz stavka 1. ovoga članka.
+(3) Jedinice lokalne samouprave odnosno Grad Zagreb dužni su kontinuirano usklađivati evidenciju potraživanja po svim ugovorima iz članka 2. ovoga Pravilnika u svojim poslovnim knjigama sa evidencijom naplate u Registru.
