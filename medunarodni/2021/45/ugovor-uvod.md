@@ -1,0 +1,3 @@
+SPORAZUM
+IZMEĐU VLADE REPUBLIKE HRVATSKE I VLADE REPUBLIKE SLOVENIJE O IZGRADNJI CESTOVNOG MOSTA KOD STALNOG GRANIČNOG PRIJELAZA ZA MEĐUNARODNI PROMET PUTNIKA I ROBA U CESTOVNOM PROMETU KAŠTEL (RH) - DRAGONJA (SLO)
+Vlada Republike Hrvatske i Vlada Republike Slovenije (u daljnjem tekstu: ugovorne stranke), utvrdile su da postojeći most kod stalnog graničnog prijelaza za međunarodni promet putnika i roba u cestovnom prometu Kaštel (RH) - Dragonja (SLO), ne udovoljava tehničkim i infrastrukturnim uvjetima potrebnim za siguran promet i prelazak granice te s ciljem da omoguće sigurnije i brže prelaženje državne granice putnicima, a posebno stanovnicima pograničnih područja, sporazumjele su se kako slijedi:

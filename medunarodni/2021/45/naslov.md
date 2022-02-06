@@ -1,0 +1,1 @@
+Uredba o objavi Sporazuma između Vlade Republike Hrvatske i Vlade Republike Slovenije o izgradnji cestovnog mosta kod stalnog graničnog prijelaza za međunarodni promet putnika i roba u cestovnom prometu Kaštel (RH) - Dragonja (SLO)
