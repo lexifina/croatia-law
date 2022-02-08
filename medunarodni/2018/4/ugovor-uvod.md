@@ -1,0 +1,13 @@
+(i) Secondary Lead Smelters - 40 C.F.R. Part 60, Subpart L;
+(j) Basic Oxygen Process Furnaces - 40 C.F.R. Part 60, Subpart N;
+(k) Basic Process Steelmaking Facilities (after 20 January 1983) - 40 C.F.R. Part 60, Subpart Na;
+(l) Primary Copper Smelters - 40 C.F.R. Part 60, Subpart P;
+(m) Primary Zinc Smelters - 40 C.F.R. Part 60, Subpart Q;
+(n) Primary Lead Smelters - 40 C.F.R. Part 60, Subpart R;
+(o) Ferroalloy Production Facilities - 40 C.F.R. Part 60, Subpart Z;
+(p) Other Solid Waste Incineration Units (after 9 December 2004) - 40 C.F.R. Part 60, Subpart EEEE;
+(q) Secondary lead smelters - 40 C.F.R. Part 63, Subpart X;
+(r) Hazardous waste combustors - 40 C.F.R. Part 63, Subpart EEE;
+(s) Portland cement manufacturing - 40 C.F.R. Part 63, Subpart LLL;
+(t) Primary copper - 40 C.F.R. Part 63, Subpart QQQ;
+(u) Primary lead smelting - 40 C.F.R. Part 63, Subpart TTT;

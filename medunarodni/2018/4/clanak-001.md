@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuju se Izmjene i dopune teksta i Dodataka osim III. i VII. Protokola o teškim metalima iz 1998. godine uz Konvenciju o dalekosežnom prekograničnom onečišćenju zraka iz 1979. godine (u daljnjem tekstu: Tekst Izmjena i dopuna teksta i Dodataka osim III. i VII. Protokola), usvojene u Ženevi 13. prosinca 2012. Odlukom 2012/5 na 31. sjednici Izvršnog tijela Konvencije o dalekosežnom prekograničnom onečišćenju zraka iz 1979. godine u izvorniku na engleskom, francuskom i ruskom jeziku.
