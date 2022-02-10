@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.), a u vezi s člankom 5. Zakona o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske (»Narodne novine«, br. 124/11. i 16/12.), Vlada Republike Hrvatske je na sjednici održanoj 10. veljače 2022. donijela
