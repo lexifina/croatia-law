@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 4., članka 11. stavka 1. točaka 1. i 5. i stavka 2. i članka 40. stavka 5. Zakona o slatkovodnom ribarstvu (»Narodne novine«, broj 63/19), uz prethodnu suglasnost ministra nadležnog za zaštitu prirode, ministrica poljoprivrede donosi

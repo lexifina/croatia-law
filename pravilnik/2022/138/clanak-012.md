@@ -1,0 +1,2 @@
+# Članak 12.
+Stupanjem na snagu ovoga Pravilnika prestaju važiti Naredba o granicama ribolovnih područja i ribolovnih zona za športski i gospodarski ribolov (»Narodne novine«, br. 82/05), Pravilnik o športskom ribolovu u slatkovodnom ribarstvu (»Narodne novine«, br. 82/05, 1/06, 139/06, 52/10, 4/15, 34/15, 50/16, 91/16 i 3/18) te odredbe članka 1. točke 7. i članka 24. Pravilnika o gospodarskom ribolovu u slatkovodnom ribarstvu (»Narodne novine«, br. 82/05, 96/13 i 114/13).
