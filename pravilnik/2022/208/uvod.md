@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine« broj 102/20, 10/21 i 117/21), ministar prostornoga uređenja, graditeljstva i državne imovine donosi
