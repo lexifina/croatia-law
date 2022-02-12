@@ -1,0 +1,3 @@
+# Članak 12.
+Članak 45. mijenja se i glasi:
+»Vojni i civilni invalidi rata kod kojih u vezi s utvrđenim oštećenjem organizma nastanu oštećenja organizma: kirurško odstranjivanje organa, kirurški zahvati na vitalnim organima, trajna dekompenzacija srca, jetre, pluća, bubrega, gušterače i paralize živaca, aktivna tuberkuloza te gubitak ili teško oštećenje parnoga organa mogu, na osnovu tih oštećenja, podnijeti zahtjev za utvrđivanje novoga postotka oštećenja organizma prije isteka roka utvrđenog propisima o zaštiti vojnih i civilnih invalida rata, što se dokazuje otpusnim pismom bolnice ili drugom odgovarajućom medicinskom dokumentacijom.«.

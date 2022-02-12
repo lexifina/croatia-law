@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 38. stavak 2. mijenja se i glasi:
+»(2) Ako su prve pojave bolesti iz stavka 1. ovoga članka nastupile pod okolnostima utvrđenim propisima o zaštiti vojnih i civilnih invalida rata, ili se pod tim okolnostima bolest znatno pogoršala, s obzirom na uobičajeni tijek bolesti i nastupile su komplikacije bolesti, odnosno potreba za operativnim liječenjem ili su te okolnosti onemogućile pravilno liječenje i nastupile su komplikacije bolesti, odnosno potreba za operativnim liječenjem, može se uzeti u obzir i tako nastalo oštećenje organizma, s tim što se u takvim slučajevima, kao i u slučajevima pogoršanja bolesti poznate etiologije, postotak utvrđuje u skladu s propisima o zaštiti vojnih i civilnih invalida rata.«.
