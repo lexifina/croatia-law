@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 3. Zakona o nacionalnoj naknadi za starije osobe (»Narodne novine«, broj 62/20) i članka 21. točke 7. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 28/14, 24/15, 73/19 i 147/20), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 2. veljače 2022., donosi
