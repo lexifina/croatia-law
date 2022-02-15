@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 229. stavaka 3., 4. i 7. Zakona o sigurnosti prometa na cestama ("Narodne novine" broj 67/08., 48/10., 74/11., 80/13., 158/13., 89/14., 92/14., 64/15., 108/17., 70/19. i 40/20.).
