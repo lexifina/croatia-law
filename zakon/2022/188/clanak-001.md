@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o tržištu rada (»Narodne novine«, br. 118/18. i 32/20.) u članku 1. stavak 1. mijenja se i glasi:
+»(1) Ovim se Zakonom uređuje tržište rada kroz posredovanje pri zapošljavanju, profesionalno usmjeravanje, obrazovanje u cilju povećanja zapošljivosti radne snage, osiguranje za slučaj nezaposlenosti i novčana pomoć za nezaposlene osobe s invaliditetom, mjere aktivne politike zapošljavanja, ostale aktivnosti u cilju poticanja prostorne i profesionalne pokretljivosti radne snage, novog zapošljavanja i samozapošljavanja, zapošljavanje na privremenim odnosno povremenim poslovima u poljoprivredi te ustroj, upravljanje i obavljanje djelatnosti Hrvatskog zavoda za zapošljavanje (u daljnjem tekstu: Zavod).«.
