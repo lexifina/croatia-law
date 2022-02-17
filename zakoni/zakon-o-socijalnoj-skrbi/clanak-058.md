@@ -1,0 +1,4 @@
+## Uvjeti za priznavanje prava na doplatak za pomoć i njegu
+# Članak 58.
+(1) Pravo na doplatak za pomoć i njegu u punom iznosu priznaje se osobi iz članka 55. ovoga Zakona kojoj je utvrđen treći stupanj težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja neovisno o uvjetima iz članka 57. točaka 1. i 2. ovoga Zakona.
+(2) Pravo na doplatak za pomoć i njegu u smanjenom iznosu priznaje se osobi iz članka 55. ovoga Zakona kojoj je utvrđen drugi stupanj težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja ako prosječan mjesečni prihod samca ne prelazi iznos od 250 % osnovice iz članka 22. stavka 2. ovoga Zakona odnosno ako prosječan mjesečni prihod po članu kućanstva ne prelazi iznos od 200 % osnovice iz članka 22. stavka 2. ovoga Zakona u prethodna tri mjeseca prije pokretanja postupka.

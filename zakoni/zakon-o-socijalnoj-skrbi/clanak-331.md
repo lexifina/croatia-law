@@ -1,0 +1,23 @@
+# Članak 331.
+Do stupanja na snagu provedbenih propisa iz članka 327. ovoga Zakona ostaju na snazi:
+1. Pravilnik o minimalnim uvjetima za pružanje socijalnih usluga (»Narodne novine«, br. 40/14., 66/15., 56/20., 28/21. i 144/21.)
+2. Pravilnik o minimalnim uvjetima prostora, opreme i broja potrebnih stručnih i drugih radnika centra za socijalnu skrb i podružnice (»Narodne novine«, br. 57/14.)
+3. Pravilnik o sadržaju i načinu vođenja evidencije pravnih osoba i obrtnika koji pružaju socijalne usluge (»Narodne novine«, br. 73/14. i 51/21.)
+4. Pravilnik o standardima kvalitete socijalnih usluga (»Narodne novine«, br. 143/14.)
+5. Pravilnik o načinu provođenja i sadržaju upravnog nadzora i nadzora nad stručnim radom te uvjetima koje moraju ispunjavati državni službenici za provođenje upravnog nadzora (»Narodne novine«, br. 66/15.)
+6. Pravilnik o načinu suradnje centra za socijalnu skrb i službe nadležne za zapošljavanje u provođenju mjera socijalne uključenosti radno sposobnih korisnika zajamčene minimalne naknade (»Narodne novine«, br. 66/15.)
+7. Pravilnik o pripravničkom stažu i polaganju stručnog ispita u djelatnosti socijalne skrbi (»Narodne novine«, br. 66/15. i 56/20.)
+8. Pravilnik o razini, odgovarajućem zvanju, uvjetima i načinu napredovanja stručnih radnika u djelatnosti socijalne skrbi (»Narodne novine«, br. 66/15.)
+9. Pravilnik o sadržaju i načinu provođenja inspekcijskog nadzora u djelatnosti socijalne skrbi (»Narodne novine«, br. 66/15.)
+10. Pravilnik o sadržaju i načinu vođenja evidencije fizičkih osoba koje profesionalno pružaju socijalne usluge (»Narodne novine«, br. 66/15. i 51/21.)
+11. Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i rokovima za dostavu izvješća centra za socijalnu skrb i podružnice (»Narodne novine«, br. 66/15.)
+12. Pravilnik o sadržaju i načinu vođenja upisnika ustanova socijalne skrbi (»Narodne novine«, br. 66/15., 5/16. i 51/21.)
+13. Pravilnik o sadržaju i obliku iskaznice inspektora u Ministarstvu rada, mirovinskog sustava, obitelji i socijalne politike, načinu izdavanja i vođenja upisnika o izdanim iskaznicama (»Narodne novine«, br. 66/15. i 46/21.)
+14. Pravilnik o sadržaju i obliku iskaznice stručnih radnika u ustanovi socijalne skrbi i drugoj pravnoj osobi koja pruža socijalne usluge (»Narodne novine«, br. 66/15.)
+15. Pravilnik o sadržaju zbirke podataka, čuvanju, evidenciji i dokumentaciji (»Narodne novine«, br. 66/15.)
+16. Pravilnik o sadržaju, obliku i načinu vođenja očevidnika o provedenim inspekcijskim nadzorima i poduzetim mjerama inspektora (»Narodne novine«, br. 66/15.)
+17. Pravilnik o vođenju evidencije o fizičkim osobama kojima je priznato pravo na status roditelja njegovatelja/njegovatelja (»Narodne novine«, br. 66/15.)
+18. Pravilnik o vođenju evidencije i dokumentacije pružatelja socijalnih usluga te načinu i rokovima za dostavu izvješća (»Narodne novine«, br. 100/15. i 51/21.)
+19. Pravilnik o sadržaju obrasca za podnošenje zahtjeva za priznavanje prava na naknadu za ugroženog kupca energenata (»Narodne novine«, br. 105/15.)
+20. Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i rokovima dostave izvješća jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 35/19. i 24/20.)
+21. Pravilnik o sudjelovanju i načinu plaćanja korisnika i drugih obveznika uzdržavanja u troškovima smještaja izvan vlastite obitelji (»Narodne novine«, br. 112/98. i 5/02.).

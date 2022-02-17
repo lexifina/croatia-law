@@ -1,0 +1,5 @@
+## Njegovatelj
+# Članak 63.
+(1) Ako dijete s teškoćama u razvoju nema roditelja, ako roditelji ne žive s njim ili zbog psihofizičkog stanja nisu u mogućnosti pružiti mu potrebnu njegu, pravo na status njegovatelja može se priznati bračnom ili izvanbračnom drugu roditelja djeteta s teškoćama u razvoju, životnom ili neformalnom životnom partneru roditelja djeteta s teškoćama u razvoju, srodniku u ravnoj lozi i srodniku u pobočnoj lozi do zaključno drugog stupnja srodstva koji ispunjavaju uvjete propisane ovim Zakonom.
+(2) Ako u jednoroditeljskoj obitelji ima dvoje ili više djece s teškoćama u razvoju ili osoba s invaliditetom iz članka 61. ovoga Zakona, pravo na status njegovatelja može se priznati i osobi iz stavka 1. ovoga članka koja ispunjava uvjete propisane ovim Zakonom.
+(3) Pravo na status njegovatelja priznaje se osobi po izboru osobe s invaliditetom uz njezinu suglasnost, odnosno suglasnost njegovog zakonskog zastupnika, koja živi u zajedničkom kućanstvu s osobom s invaliditetom.

@@ -1,0 +1,4 @@
+## Utvrđivanje iznosa kad korisnik ostvaruje prihode
+# Članak 29.
+(1) Ako samac ili kućanstvo ostvaruje prihod, iznos zajamčene minimalne naknade za svaki pojedini mjesec od pokretanja postupka do donošenja rješenja utvrđuje se kao razlika između iznosa zajamčene minimalne naknade iz članka 27. stavaka 2. i 3. ovoga Zakona i prihoda samca ili kućanstva u svakom pojedinom mjesecu počevši od mjeseca u kojem je pokrenut postupak za priznavanje prava do mjeseca koji prethodi mjesecu u kojem se donosi rješenje.
+(2) Mjesečni iznos zajamčene minimalne naknade za mjesec u kojem se donosi rješenje te za razdoblje nakon donošenja rješenja predstavlja razliku između iznosa zajamčene minimalne naknade iz članka 27. stavaka 2. i 3. ovoga Zakona i prihoda samca ili kućanstva u mjesecu u kojem se donosi rješenje o priznavanju prava na zajamčenu minimalnu naknadu.

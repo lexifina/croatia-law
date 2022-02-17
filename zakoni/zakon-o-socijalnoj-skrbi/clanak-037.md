@@ -1,0 +1,4 @@
+## Prestanak ili umanjivanje prava zbog neodazivanja
+# Članak 37.
+(1) Pravo na zajamčenu minimalnu naknadu prestaje samcu ili se iznos zajamčene minimalne naknade umanjuje kućanstvu za pripadajući udio člana kućanstva ako se radno sposoban ili djelomično radno sposoban samac ili član kućanstva ne odazove urednom pozivu jedinice lokalne i područne (regionalne) samouprave odnosno Grada Zagreba, za sudjelovanje u radovima za opće dobro bez naknade, s danom na koji se bio dužan odazvati pozivu.
+(2) Korisniku iz stavka 1. ovoga članka ne može se priznati pravo na zajamčenu minimalnu naknadu odnosno za uvećanje iznosa zajamčene minimalne naknade za kućanstvo u pripadajućem dijelu člana kućanstva koji se nije odazvao pozivu jedinice lokalne i područne (regionalne) samouprave odnosno Grada Zagreba za sudjelovanje u radovima za opće dobro bez naknade, u roku od šest mjeseci od dana prestanka prava.

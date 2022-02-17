@@ -1,0 +1,6 @@
+## ODJELJAK 8. PSIHOSOCIJALNI TRETMAN RADI PREVENCIJE NASILNIČKOG PONAŠANJA
+## Sadržaj, korisnik usluge psihosocijalnog tretmana radi prevencije nasilničkog ponašanja
+# Članak 89.
+(1) Psihosocijalni tretman radi prevencije nasilničkog ponašanja je savjetodavno-terapijska i psihoedukativna usluga usmjerena na zaustavljanje i sprječavanje nasilničkog ponašanja u obitelji, uključivanjem korisnika u strukturirani tretman kojemu je cilj zaustaviti nasilje među partnerima i/ili u obitelji.
+(2) Usluga psihosocijalnog tretmana radi prevencije nasilničkog ponašanja odobrava se prema procjeni stručnog tima Zavoda, pojedincu kojem nije izrečena sudska mjera upućivanja u obvezni psihosocijalni tretman, a kod kojeg je procijenjeno postojanje rizika od nasilničkog ponašanja i kojeg je zbog sigurnosti članova obitelji i/ili rizika za dobrobit i razvoj djeteta potrebno uključiti u tretman.
+(3) Usluga psihosocijalnog tretmana radi prevencije nasilničkog ponašanja u obitelji odobrava se prema procjeni stručnog tima Zavoda partnerima i/ ili roditeljima kada niti jednom nije izrečena sudska mjera upućivanja u obvezni psihosocijalni tretman, a postoji rizik od uzajamnog nasilničkog ponašanja i rizik za dobrobit i razvoj djeteta, bez uspostavljenog odnosa žrtva – zlostavljač.

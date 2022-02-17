@@ -1,0 +1,4 @@
+# Članak 330.
+(1) Ministar će u roku od 30 dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 263. stavka 5. ovoga Zakona.
+(2) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnike iz članka 35. stavka 6., članka 49. stavka 2., članka 69. stavka 2., članka 76. stavka 5., članka 118. stavka 5., članka 119. stavka 4., članka 125. stavka 2., članka 161. stavka 2., članka 163. stavka 4., članka 166. stavka 2., članka 242., članka 243. stavka 6., članka 248. stavka 3., članka 254. stavka 2., članka 257. stavka 6., članka 263. stavka 7., članka 267. stavka 3., članka 268. stavka 3., članka 270. stavka 2., članka 281. i članka 300. stavka 7. ovoga Zakona.
+(3) Ministar će u roku od godine dana od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 241. stavka 7. ovoga Zakona.

@@ -1,0 +1,14 @@
+## Sredstva proračuna jedinica lokalne i područne (regionalne) samouprave i Grada Zagreba
+# Članak 289.
+(1) Jedinice lokalne i područne (regionalne) samouprave odnosno Grad Zagreb dužni su osigurati sredstva za obavljanje djelatnosti socijalne skrbi sukladno ovom Zakonu i zakonima kojima se uređuje financiranje jedinica lokalne i područne (regionalne) samouprave, u skladu sa socijalnim planom i mrežom socijalnih usluga na svojem području.
+(2) Jedinice lokalne samouprave odnosno Grad Zagreb dužni su u svom proračunu osigurati sredstva za ostvarivanje prava za podmirenje troškova stanovanja pod uvjetima i na način propisan ovim Zakonom.
+(3) Iznimno od stavka 2. ovoga članka, dio troškova stanovanja koji se odnosi na troškove ogrjeva korisnika koji se griju na drva osigurava se iz sredstava državnog proračuna.
+(4) Troškovi stanovanja, osim onih iz stavka 3. ovoga članka, mogu se, ovisno o proračunskim mogućnostima, osigurati iz državnog proračuna jedinicama lokalne samouprave koje su prema indeksu razvijenosti razvrstane u I. i II. skupinu sukladno propisu kojim se uređuje ocjenjivanje stupnja razvijenosti jedinica lokalne samouprave.
+(5) Jedinice lokalne i područne (regionalne) samouprave odnosno Grad Zagreb osiguravaju sredstva za rad ustanova socijalne skrbi čiji su osnivač.
+(6) Veliki gradovi i gradovi sjedišta županija dužni su u svom proračunu osigurati sredstva za uslugu prehrane u pučkim kuhinjama, kao i pružanje usluge smještaja u prihvatilišta ili prenoćišta za beskućnike na način propisan ovim Zakonom.
+(7) Jedinice lokalne i područne (regionalne) samouprave odnosno Grad Zagreb mogu osigurati sredstva za ostvarivanje novčanih naknada i socijalnih usluga stanovnicima na svom području u većem opsegu nego što je utvrđeno ovim Zakonom, na način propisan njihovim općim aktom, ako u svom proračunu imaju za to osigurana sredstva.
+(8) Sredstva za troškove stanovanja iz stavaka 3. i 4. ovoga članka osiguravaju se u državnom proračunu na razdjelu Ministarstva.
+(9) Sredstva iz stavka 8. ovoga članka Ministarstvo će isplaćivati jedinicama lokalne samouprave mjesečno, unaprijed, na temelju mjesečnog obračuna za prethodni mjesec, sukladno odluci iz stavka 12. ovoga članka.
+(10) Sredstva iz stavka 8. ovoga članka namjenska su sredstva i ne smatraju se tekućom pomoći iz državnog proračuna.
+(11) Jedinice lokalne samouprave dužne su jednom godišnje do 31. siječnja tekuće godine izvijestiti Ministarstvo o ukupnom utrošku sredstava doznačenih za razdoblje od 1. siječnja do 31. prosinca prethodne godine.
+(12) Odluku o kriterijima i mjerilima za financiranje troškova stanovanja iz stavaka 3. i 4. ovoga članka te iznosu sredstava za pojedinu jedinicu lokalne samouprave, za svaku godinu, najkasnije do 30. rujna tekuće godine za iduću godinu donosi Vlada Republike Hrvatske.

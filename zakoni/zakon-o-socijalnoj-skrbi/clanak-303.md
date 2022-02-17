@@ -1,0 +1,6 @@
+## DIO PETI PREKRŠAJNE ODREDBE
+## Neplaćanje troškova stanovanja
+# Članak 303.
+(1) Novčanom kaznom u iznosu od 15.000,00 do 50.000,00 kuna kaznit će se za prekršaj općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba ako jedinica lokalne samouprave odnosno Grad Zagreb korisniku zajamčene minimalne naknade ne prizna pravo na naknadu za troškove stanovanja, suprotno članku 41. stavku 3. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 11.000,00 do 45.000,00 kuna kaznit će se za prekršaj općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba ako jedinica lokalne samouprave odnosno Grad Zagreb korisniku zajamčene minimalne naknade ne prizna pravo na naknadu za troškove stanovanja u visini od 30 % iznosa zajamčene minimalne naknade, suprotno članku 42. stavku 1. ovoga Zakona.
+(3) Novčanom kaznom u iznosu od 11.000,00 do 45.000,00 kuna kaznit će se za prekršaj općinski načelnik, gradonačelnik ili gradonačelnik Grada Zagreba ako jedinica lokalne samouprave odnosno Grad Zagreb korisniku zajamčene minimalne naknade ne prizna pravo na naknadu za troškove stanovanja u iznosu stvarnih troškova, ako su troškovi stanovanja manji od 30 % iznosa zajamčene minimalne naknade, suprotno članku 42. stavku 2. ovoga Zakona.

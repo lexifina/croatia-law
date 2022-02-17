@@ -1,0 +1,4 @@
+## Individualni plan promjene
+# Članak 134.
+(1) Tijekom postupka za priznavanje prava na zajamčenu minimalnu naknadu radno sposobnog ili djelomično radno sposobnog samca ili člana kućanstva, organiziranog stanovanja i smještaja te odobravanje usluge pomoći u kući, psihosocijalnog savjetovanja, socijalnog mentorstva, psihosocijalnog tretmana radi prevencije nasilničkog ponašanja, psihosocijalne podrške i rane razvojne podrške voditelj slučaja u suradnji s korisnikom i/ili članovima obitelji izrađuje individualni plan promjene.
+(2) Iznimno od stavka 1. ovoga članka, individualni plan promjene ne izrađuje se ako se radi o korisniku kod kojeg nije procijenjena potreba za pružanjem većeg broja usluga koje je potrebno usklađivati i pratiti, kao ni tijekom postupka za priznavanje prava na uslugu smještaja starijih osoba.

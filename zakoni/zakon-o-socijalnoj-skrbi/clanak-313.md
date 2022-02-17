@@ -1,0 +1,4 @@
+# Članak 313.
+(1) Korisnik prava na naknadu do zaposlenja, priznatog na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) zadržava priznato pravo i nakon stupanja na snagu ovoga Zakona, dok nadležno tijelo ne utvrdi ispunjava li uvjete za priznavanje prava na novčanu pomoć prema propisu o zapošljavanju.
+(2) Postupke za priznavanje prava na naknadu do zaposlenja pokrenute prije stupanja na snagu ovoga Zakona dovršit će centar za socijalnu skrb prema odredbama Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.).
+(3) Za korisnika prava na naknadu do zaposlenja nadležno tijelo dužno je provesti postupak radi utvrđivanja ispunjava li uvjete za priznavanje prava na novčanu pomoć prema propisu o zapošljavanju u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.

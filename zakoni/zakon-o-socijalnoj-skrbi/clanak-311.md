@@ -1,0 +1,7 @@
+## DIO ŠESTI PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 311.
+(1) Korisnik prava na novčanu naknadu ili uslugu socijalne skrbi priznatu na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) ostvaruje priznato pravo i nakon stupanja na snagu ovoga Zakona, dok nadležno tijelo rješenjem ne utvrdi ispunjava li uvjete za priznavanje prava na novčanu naknadu ili uslugu socijalne skrbi po ovom Zakonu.
+(2) Pravo na osobnu invalidninu i pravo na doplatak za pomoć i njegu ostvareni na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.), a čije ostvarivanje traje na dan stupanja na snagu ovoga Zakona ostaju na snazi do dana nastanka promijenjene okolnosti koja utječe na priznavanje prava sukladno odredbama ovoga Zakona.
+(3) Postupci za priznavanje prava na osobnu invalidninu koji nisu dovršeni do dana stupanja na snagu ovoga Zakona dovršit će se prema odredbama ovoga Zakona.
+(4) Osoba kojoj je na dan stupanja na snagu ovoga Zakona priznato pravo na osobnu invalidninu u visini utvrđenoj člankom 55. stavkom 1. Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) od dana stupanja na snagu ovog Zakona ostvaruje ju u visini utvrđenoj ovim Zakonom.
+(5) Centar za socijalnu skrb će osobi iz stavka 2. ovoga članka od dana stupanja na snagu ovoga Zakona po službenoj dužnosti obračunavati naknadu u visini utvrđenoj ovim Zakonom.

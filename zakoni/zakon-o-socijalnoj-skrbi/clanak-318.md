@@ -1,0 +1,6 @@
+# Članak 318.
+(1) Do početka rada Zavoda centrom za socijalnu skrb upravlja upravno vijeće imenovano prema odredbama Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.).
+(2) Član upravnog vijeća iz stavka 1. ovoga članka može biti razriješen i prije isteka mandata. Odluku o razrješenju člana upravnog vijeća predstavnika osnivača donosi ministar, a odluku o razrješenju predstavnika jedinice područne (regionalne) samouprave odnosno Grada Zagreba u upravnom vijeću donosi ministar, na prijedlog jedinice područne (regionalne) samouprave odnosno Grada Zagreba.
+(3) Odlukom o razrješenju člana upravnog vijeća predstavnika osnivača imenuje se novi član upravnog vijeća kojemu mandat traje do isteka mandata razriješenog člana upravnog vijeća.
+(4) Predstavnici osnivača i predstavnik jedinice područne (regionalne) samouprave odnosno Grada Zagreba za čije se područje osniva centar za socijalnu skrb moraju imati završen najmanje preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij te radni staž na poslovima u djelatnosti socijalne skrbi, iznimno u drugoj društvenoj ili humanističkoj djelatnosti.
+(5) Predsjednika i zamjenika predsjednika upravnog vijeća biraju članovi upravnog vijeća između predstavnika osnivača.

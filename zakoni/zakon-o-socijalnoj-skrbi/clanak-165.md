@@ -1,0 +1,6 @@
+## Početak pružanja socijalnih usluga
+# Članak 165.
+(1) Pravna i fizička osoba koje pružaju socijalne usluge kao profesionalnu djelatnost ili kao obrtnik iz članka 162. točke 1. podtočaka c) i d) i točaka 3. i 4. ovoga Zakona mogu početi pružati socijalne usluge po izvršnosti rješenja o ispunjavanju mjerila za pružanje socijalnih usluga.
+(2) Pravna i fizička osoba koje su ispunile mjerila za pružanje socijalnih usluga u drugoj državi, članici Europske unije ili drugoj državi, ugovornici Ugovora o Europskom gospodarskom prostoru, mogu pružati socijalne usluge koje se na temelju ovoga Zakona pružaju u obitelji korisnika, izvan mreže socijalnih usluga, nakon upisa u registar iz članka 166. ovoga Zakona.
+(3) Ako pravna i fizička osoba iz stavka 2. ovoga članka socijalne usluge ne pružaju trajno, nisu dužne upisati se u registar, ali su dužne prije početka pružanja socijalnih usluga dostaviti izjavu o namjeri pružanja socijalnih usluga elektroničkim putem, jedinstvenoj kontaktnoj točki za usluge pri Hrvatskoj gospodarskoj komori.
+(4) Izjava iz stavka 3. ovoga članka sadrži sve bitne informacije o pružatelju socijalnih usluga te služi u svrhu informiranja i jednake dostupnosti svih subjekata koji obavljaju djelatnost socijalnih usluga na teritoriju Republike Hrvatske.

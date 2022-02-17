@@ -1,0 +1,5 @@
+## Ovlasti inspektora
+# Članak 273.
+(1) Inspektor koji provodi inspekcijski nadzor ima pravo u svako doba bez prethodne najave i bez dopuštenja ravnatelja ili druge odgovorne osobe ulaziti u prostorije i prostore ustanove socijalne skrbi i druge pravne osobe ili fizičke osobe koja obavlja djelatnost socijalne skrbi.
+(2) Prilikom provedbe inspekcijskog nadzora inspektor ima pravo pregledati objekte i druge poslovne i stambene prostore, dokumentaciju, robu i druge stvari zatečene kod pružatelja usluga, poslovne spise, saslušati korisnike, radnike i druge osobe koje zatekne, pregledati isprave na temelju kojih se može utvrditi identitet osoba (osobna iskaznica, putovnica i sl.) i obavljati druge radnje u skladu sa svrhom inspekcijskog nadzora.
+(3) Ravnatelj ili druga odgovorna osoba u pravnoj osobi koja pruža socijalne usluge i fizička osoba koja pruža socijalne usluge moraju inspektoru osigurati nesmetano obavljanje inspekcijskog nadzora i staviti mu na raspolaganje sva sredstva i potrebnu dokumentaciju.

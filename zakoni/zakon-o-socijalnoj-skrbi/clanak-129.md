@@ -1,0 +1,7 @@
+## Određivanje mjesne nadležnosti za djecu
+# Članak 129.
+(1) U stvarima koje se odnose na poslove vezane za djecu mjesna nadležnost određuje se prema prebivalištu roditelja, a ako nemaju prebivalište u Republici Hrvatskoj, prema njihovu boravištu, osim ako je drukčije propisano zakonom kojim se uređuju obiteljski odnosi.
+(2) Za dijete čiji roditelji žive odvojeno mjesna nadležnost određuje se prema prebivalištu roditelja s kojim dijete stanuje prema odluci suda, a ako roditelj s kojim dijete stanuje nema prebivalište u Republici Hrvatskoj, prema boravištu toga roditelja u Republici Hrvatskoj.
+(3) Do donošenja odluke suda iz stavka 2. ovoga članka mjesna nadležnost određuje se prema mjestu prebivališta roditelja kod kojega dijete pretežno boravi, a ako roditelj s kojim dijete pretežno boravi nema prebivalište u Republici Hrvatskoj, prema boravištu toga roditelja u Republici Hrvatskoj.
+(4) U stvarima koje se odnose na javne ovlasti vezane za djecu čiji roditelji žive odvojeno, a svakodnevna skrb o djetetu povjerena je drugoj osobi, udomiteljskoj obitelji ili ustanovi socijalne skrbi, mjesna nadležnost određuje se prema prebivalištu roditelja koji sam ili u većoj mjeri ostvaruje roditeljsku skrb, a ako nema prebivalište u Republici Hrvatskoj, mjesna nadležnost određuje se prema boravištu tog roditelja u Republici Hrvatskoj.
+(5) Mjesna nadležnost za dijete ne mijenja se ako je roditelj lišen prava na roditeljsku skrb, osim u slučaju posvojenja.

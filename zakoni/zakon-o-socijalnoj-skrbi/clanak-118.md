@@ -1,0 +1,7 @@
+## Evidencija i dokumentacija
+# Članak 118.
+(1) Jedinica lokalne i područne (regionalne) samouprave odnosno Grad Zagreb dužan je voditi evidenciju i dokumentaciju o priznatim pravima u sustavu socijalne skrbi propisanim ovim Zakonom, posebnim propisima i općim aktima jedinice lokalne i područne (regionalne) samouprave odnosno Grada Zagreba.
+(2) Jedinica lokalne i područne (regionalne) samouprave odnosno Grad Zagreb dužan je o podacima o korisnicima i naknadama iz sustava socijalne skrbi iz evidencije i dokumentacije iz stavka 1. ovoga članka izraditi godišnje izvješće.
+(3) Jedinica lokalne samouprave dužna je jedinici područne (regionalne) samouprave dostaviti godišnje izvješće iz stavka 2. ovoga članka u elektroničkom obliku u računalnom programu u vlasništvu Ministarstva, a jedinica područne (regionalne) samouprave dužna je objediniti i potvrditi dostavljena godišnja izvješća jedinica lokalne samouprave te ih dostaviti Ministarstvu u elektroničkom obliku u računalnom programu u vlasništvu Ministarstva.
+(4) Jedinica područne (regionalne) samouprave i Grad Zagreb dužni su Ministarstvu dostaviti godišnje izvješće iz stavka 2. ovoga članka u elektroničkom obliku u računalnom programu u vlasništvu Ministarstva.
+(5) Sadržaj i način vođenja evidencije i dokumentacije te način dostave, rokove i sadržaj godišnjeg izvješća jedinica lokalne i područne (regionalne) samouprave odnosno Grada Zagreba pravilnikom propisuje ministar.

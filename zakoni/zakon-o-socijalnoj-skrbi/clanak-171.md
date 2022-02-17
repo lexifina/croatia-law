@@ -1,0 +1,4 @@
+## Nezakonito pružanje usluge smještaja
+# Članak 171.
+(1) Ako jedan ili više članova kućanstva sklopi više od tri ugovora o doživotnom ili dosmrtnom uzdržavanju, a uzdržavanim osobama pruža usluge stanovanja, prehrane, njege i brige o zdravlju te zadovoljavanje ostalih osnovnih životnih potreba, u svom stambenom ili poslovnom prostoru osobno, putem treće osobe ili zaposlenih radnika kod fizičke osobe ili radnika zaposlenih u pravnoj osobi koja je u vlasništvu davatelja uzdržavanja i/ili članova njegova kućanstva, u smislu ovoga Zakona smatrat će se da se radi o nezakonitom pružanju usluga smještaja u djelatnosti socijalne skrbi.
+(2) Ako osoba koja pruža usluge iz stavka 1. ovoga članka želi nastaviti s pružanjem usluga, dužna je podnijeti zahtjev za donošenje rješenja o ispunjavanju mjerila za pružanje socijalnih usluga sukladno odredbama ovoga Zakona.

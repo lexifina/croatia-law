@@ -1,0 +1,7 @@
+# Članak 326.
+(1) Odluku iz članka 22. stavka 1. ovoga Zakona o utvrđivanju osnovice na temelju koje se izračunava iznos zajamčene minimalne naknade za 2022. Vlada Republike Hrvatske donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(2) Do stupanja na snagu Odluke iz stavka 1. ovoga članka ostaje na snazi Odluka o osnovici za izračun iznosa zajamčene minimalne naknade (»Narodne novine«, br. 114/14.).
+(3) Odluku iz članka 22. stavka 2. ovoga Zakona o utvrđivanju osnovice na temelju koje se izračunava iznos drugih prava iz sustava socijalne skrbi Vlada Republike Hrvatske donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(4) Do stupanja na snagu Odluke iz stavka 3. ovoga članka ostaje na snazi Odluka o osnovici za izračun iznosa drugih prava iz sustava socijalne skrbi (»Narodne novine«, br. 114/14.).
+(5) Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentralizirano financiranje domova za starije i nemoćne osobe u 2022. godini (»Narodne novine«, br. 147/21.) ostaje na snazi do isteka razdoblja za koje je donesena.
+(6) Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za financiranje materijalnih i financijskih rashoda centara za socijalnu skrb i troškova ogrjeva korisnicima koji se griju na drva u 2022. godini (»Narodne novine«, br. 147/21.) ostaje na snazi do isteka razdoblja za koje je donesena, osim u dijelu koji se odnosi na troškove ogrjeva korisnicima koji se griju na drva koji prestaje važiti stupanjem na snagu ovoga Zakona.

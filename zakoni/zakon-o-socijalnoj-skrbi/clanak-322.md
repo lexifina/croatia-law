@@ -1,0 +1,3 @@
+# Članak 322.
+(1) Obiteljski domovi osnovani prema odredbama Zakona o socijalnoj skrbi (»Narodne novine«, br. 33/12. i 46/13.) ili Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) nastavljaju pružati socijalne usluge kao obiteljski domovi i nakon stupanja na snagu ovoga Zakona, najkasnije do 31. prosinca 2026.
+(2) Obiteljski domovi koji žele nastaviti pružanje socijalnih usluga nakon 1. siječnja 2027. dužni su u roku iz stavka 1. ovoga članka uskladiti organizacijski oblik za pružanje socijalnih usluga s ovim Zakonom.

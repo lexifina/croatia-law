@@ -1,0 +1,2 @@
+# Članak 314.
+Korisnik prava na naknadu za troškove prijevoza priznatog na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) zadržava priznato pravo i nakon stupanja na snagu ovoga Zakona do sklapanja ugovora o javnim uslugama u cestovnom prijevozu sukladno Zakonu o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18., 98/19., 30/21. i 89/21. – Odluka Ustavnog suda Republike Hrvatske).

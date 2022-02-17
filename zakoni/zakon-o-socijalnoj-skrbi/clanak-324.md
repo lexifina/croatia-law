@@ -1,0 +1,3 @@
+# Članak 324.
+(1) Pružatelj socijalnih usluga koji na dan stupanja na snagu ovoga Zakona ima rješenje o ispunjavanju uvjeta za pružanje usluga ili je do dana stupanja na snagu ovoga Zakona podnio zahtjev za utvrđivanje ispunjavanja uvjeta za pružanje socijalnih usluga dužan je u roku od tri godine od dana stupanja na snagu ovoga Zakona podnijeti zahtjev za donošenje rješenja o ispunjavanju mjerila za pružanje usluga prema ovom Zakonu.
+(2) Dom socijalne skrbi čiji je osnivač Republika Hrvatska koji nema rješenje o ispunjavanju uvjeta za pružanje socijalnih usluga u skladu s prije važećim propisima dužan je podnijeti zahtjev za donošenje rješenja o ispunjavanju mjerila u roku od pet godina od dana stupanja na snagu pravilnika iz članka 163. stavka 4. ovoga Zakona.

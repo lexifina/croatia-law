@@ -1,0 +1,5 @@
+## Obveze radno sposobnoga korisnika
+# Članak 34.
+(1) Radno sposoban i djelomično radno sposoban samac ili član kućanstva koje je korisnik prava na zajamčenu minimalnu naknadu dužan je prihvatiti zaposlenje te biti aktivan u traženju posla i raspoloživ za rad prema zakonima o zapošljavanju.
+(2) Pravo na zajamčenu minimalnu naknadu prestaje samcu ili se iznos zajamčene minimalne naknade umanjuje kućanstvu za pripadajući udio člana kućanstva ako radno sposoban i djelomično radno sposoban samac ili član kućanstva neopravdano odbije prihvatiti ponuđeno zaposlenje prema propisu kojim se uređuje tržište rada ili otkaže ugovor o radu.
+(3) Korisniku iz stavka 2. ovoga članka ne može se priznati pravo na zajamčenu minimalnu naknadu odnosno uvećati iznos zajamčene minimalne naknade za kućanstvo u pripadajućem dijelu člana kućanstva koji je odbio prihvatiti ponuđeno zaposlenje prema propisu kojim se uređuje tržište rada ili je otkazao ugovor o radu, u roku od šest mjeseci od dana prestanka prava.

@@ -1,0 +1,6 @@
+## Zabilježba
+# Članak 293.
+(1) Na temelju pravomoćnog rješenja o priznavanju prava na zajamčenu minimalnu naknadu, uslugu organiziranog stanovanja i uslugu smještaja, osim usluge smještaja u kriznim situacijama, vrši se upis zabilježbe tražbine u zemljišnim knjigama na nekretninama koje su u vlasništvu odraslog korisnika, u korist Republike Hrvatske, na prijedlog nadležnog državnog odvjetništva.
+(2) Zabilježba tražbine ima učinak da pravo namirenja Republike Hrvatske po osnovi povrata isplaćenih iznosa odnosno naknade štete utvrđeno ovršnom ispravom dobiva ono mjesto u prvenstvenom redu koje mu je bilo osigurano zabilježbom tražbine pa će se ovrha moći neposredno provesti bez obzira na to tko je u međuvremenu postao nositelj knjižnoga prava.
+(3) Zabilježba iz stavka 1. ovoga članka briše se na temelju suglasnosti Ministarstva kada Zavod nakon prestanka prava utvrdi da nema obveze povrata isplaćenih iznosa ili obveze naknade štete.
+(4) Ako Zavod utvrdi da po osnovi priznatog prava osiguranog zabilježbom iz stavka 1. ovoga članka postoji obveza povrata isplaćenih iznosa odnosno obveza naknade štete, zabilježba se briše na temelju suglasnosti Ministarstva kada se izvrši naplata tražbine ili otpiše dug.

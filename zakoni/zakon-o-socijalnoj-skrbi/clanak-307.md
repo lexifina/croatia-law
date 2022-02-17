@@ -1,0 +1,3 @@
+## Nezakonito sklapanje ugovora
+# Članak 307.
+Novčanom kaznom u iznosu od 100.000,00 do 200.000,00 kuna kaznit će se za prekršaj fizička osoba ako jedan ili više članova kućanstva sklopi više od tri ugovora o doživotnom ili dosmrtnom uzdržavanju, a uzdržavanim osobama pruža usluge stanovanja, prehrane, njege i brige o zdravlju te zadovoljavanje ostalih osnovnih životnih potreba u svome stambenom ili poslovnom prostoru osobno, putem treće osobe ili zaposlenih radnika kod fizičke osobe ili radnika zaposlenih u pravnoj osobi koja je u vlasništvu davatelja uzdržavanja odnosno članova njegova kućanstva iz članka 171. stavka 1. ovoga Zakona.

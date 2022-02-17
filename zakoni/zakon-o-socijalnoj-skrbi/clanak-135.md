@@ -1,0 +1,4 @@
+## Vještačenje
+# Članak 135.
+(1) Ako je za odlučivanje o naknadama i uslugama u sustavu socijalne skrbi potrebno utvrđivanje činjenice postojanja tjelesnog, intelektualnog, osjetilnog i mentalnog oštećenja, invaliditeta, funkcionalne sposobnosti te radne sposobnosti, Zavod će zatražiti nalaz i mišljenje Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom prema propisima kojima se uređuje vještačenje i metodologija vještačenja.
+(2) Ako se žalbom pobija prvostupanjsko rješenje o pravima iz socijalne skrbi odnosno drugim pravima po posebnim propisima u vezi s nalazom i mišljenjem tijela vještačenja u prvom stupnju, Ministarstvo može, prije donošenja rješenja o žalbi, pribaviti nalaz i mišljenje Središnjeg ureda Zavoda za vještačenje, profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom.
