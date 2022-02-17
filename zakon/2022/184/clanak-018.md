@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Centar za socijalnu skrb dužan je uskladiti iznos opskrbnine i naknade za rad udomitelja u roku od tri mjeseca od dana stupanja na snagu odluke iz članka 10. i članka 11. stavka 1. ovoga Zakona.
+(2) Udomitelj kojemu je na dan stupanja na snagu ovoga Zakona priznato pravo na opskrbninu u visini utvrđenoj Zakonom o udomiteljstvu (»Narodne novine«, br. 115/18.), opskrbninu ostvaruje u visini utvrđenoj odlukom iz članka 8. stavka 1. ovoga Zakona od dana stupanja na snagu odluke iz članka 8. stavka 1. ovoga Zakona.
+(3) Udomitelj kojemu je na dan stupanja na snagu ovoga Zakona priznato pravo na naknadu za rad udomitelju u visini utvrđenoj Zakonom o udomiteljstvu (»Narodne novine«, br. 115/18.), naknadu za rad ostvaruje u visini utvrđenoj odlukom iz članka 10. i članka 11. stavka 1. ovoga Zakona od dana stupanja na snagu odluke iz članka 10. i članka 11. stavka 1. ovoga Zakona.

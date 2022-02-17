@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o udomiteljstvu (»Narodne novine«, br. 115/18.) u članku 11. stavak 3. mijenja se i glasi:
+»(3) U tradicionalnom udomiteljstvu pruža se usluga smještaja istoj vrsti korisnika, posebno djeci, a posebno odraslim osobama, osim kada postoji potreba o zajedničkom smještaju roditelja s djetetom, braći i sestrama, maloljetnim roditeljima, bračnim/izvanbračnim drugovima ili kada tijekom smještaja kod korisnika nastanu takve promjene da više ne pripada istoj vrsti korisnika, uz procjenu potreba korisnika i suglasnost centra udomitelja i centra korisnika i ako to nije protivno interesima drugih smještenih korisnika.«.

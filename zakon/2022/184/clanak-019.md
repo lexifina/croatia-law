@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Ako su stupanjem na snagu ovoga Zakona izmijenjeni uvjeti za obavljanje udomiteljstva, centar udomitelja dužan je u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona po službenoj dužnosti pokrenuti postupak za donošenje izmijenjenoga rješenja o dozvoli za obavljanje udomiteljstva ili za donošenje rješenja o prestanku dozvole za obavljanje udomiteljstva.
+(2) Dozvole za obavljanje udomiteljstva donesene po Zakonu o udomiteljstvu (»Narodne novine«, br. 90/11. i 78/12.) i rješenja o dozvoli za obavljanje udomiteljstva donesena po Zakonu o udomiteljstvu (»Narodne novine«, broj 115/18.) ostaju na snazi do isteka roka na koji su izdani.
