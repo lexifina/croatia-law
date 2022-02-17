@@ -1,0 +1,8 @@
+# Članak 5.
+U članku 8. stavku 1. točka 1. briše se.
+Dosadašnja točka 2., koja postaje točka 1., mijenja se i glasi:
+»1. ima završen preddiplomski i diplomski sveučilišni studij psihologije ili integrirani preddiplomski i diplomski sveučilišni studij psihologije u Republici Hrvatskoj ili mu je priznata inozemna stručna kvalifikacija za obavljanje regulirane profesije - psiholog, u skladu s ovim Zakonom i posebnim propisima«.
+Dosadašnje točke 3. i 4. postaju točke 2. i 3.
+U dosadašnjoj točki 5., koja postaje točka 4., podtočka b) mijenja se i glasi:
+»b) protiv čovječnosti i ljudskog dostojanstva (glava IX.), kaznenih djela protiv života i tijela (glava X.), kaznenih djela protiv ljudskih prava i temeljnih sloboda (glava XI.), kaznenih djela protiv radnih odnosa i socijalnog osiguranja (glava XII.), kaznenih djela protiv osobne slobode (glava XIII.), kaznenih djela protiv časti i ugleda (glava XV.), kaznenih djela protiv spolne slobode (glava XVI.), kaznenih djela spolnog zlostavljanja i iskorištavanja djeteta (glava XVII.), kaznenih djela protiv braka, obitelji i djece (glava XVIII.), kaznenih djela protiv zdravlja ljudi (glava XIX.), kaznenih djela protiv imovine (glava XXIII.), kaznenih djela protiv gospodarstva (glava XXIV.), kaznenih djela krivotvorenja (glava XXVI.), kaznenih djela protiv službene dužnosti (glava XXVIII.), kaznenih djela protiv javnog reda (glava XXX.) odnosno kaznenih djela protiv Republike Hrvatske (glava XXXII.) (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15., 101/17., 118/18., 126/19. i 84/21.)«.
+Dosadašnje točke 6. i 7. postaju točke 5. i 6.
