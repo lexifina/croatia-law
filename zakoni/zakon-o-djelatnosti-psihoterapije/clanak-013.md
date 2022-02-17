@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Ovlašteni psihoterapeut odnosno ovlašteni savjetodavni terapeut koji obavlja djelatnost psihoterapije kao samostalnu djelatnost dužan je osigurati se od odgovornosti za štetu koju bi mogao počiniti trećim osobama obavljanjem samostalne djelatnosti psihoterapije, osim ako je istovjetno osiguran od odgovornosti za štetu u drugoj državi Europskoga gospodarskog prostora.
+(2) Ovlašteni psihoterapeut odnosno ovlašteni savjetodavni terapeut koji obavlja djelatnost psihoterapije kao samostalnu djelatnost dužan je uredno produžavati osiguranje od odgovornosti.
+(3) Ako ovlašteni psihoterapeut odnosno ovlašteni savjetodavni terapeut koji obavlja djelatnost psihoterapije kao samostalnu djelatnost počini štetu trećoj osobi namjerno ili zbog grube nepažnje, osiguravatelj koji je nadoknadio štetu trećoj osobi ima pravo regresa prema ovlaštenom psihoterapeutu odnosno ovlaštenom savjetodavnom terapeutu.

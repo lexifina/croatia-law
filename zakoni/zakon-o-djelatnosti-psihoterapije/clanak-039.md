@@ -1,0 +1,5 @@
+## DIO TREĆI PREKRŠAJNE ODREDBE
+# Članak 39.
+(1) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj prekršajno odgovorna pravna osoba koja za obavljanje djelatnosti psihoterapije zaposli ili sklopi ugovor o djelu s osobom kojoj nije priznato pravo na obavljanje djelatnosti psihoterapije (članak 6.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 5000,00 do 10.000,00 kuna.
+(3) Novčanom kaznom u iznosu od 10.000,00 do 50.000,00 kuna kaznit će se za prekršaj fizička osoba koja obavlja djelatnost psihoterapije, a nije joj priznato pravo na obavljanje djelatnosti psihoterapije (članak 5.).

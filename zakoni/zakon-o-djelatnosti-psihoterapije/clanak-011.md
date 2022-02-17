@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Djelatnost psihoterapije kao samostalnu djelatnost može obavljati ovlašteni psihoterapeut odnosno savjetodavni terapeut ili više ovlaštenih psihoterapeuta odnosno ovlaštenih savjetodavnih terapeuta zajednički.
+(2) Osoba koja obavlja djelatnost psihoterapije kao samostalnu djelatnost, sa sjedištem u državi na teritoriju Europskoga gospodarskog prostora, može trajno obavljati djelatnost psihoterapije u Republici Hrvatskoj ako se upiše u odgovarajući Imenik psihoterapeuta odnosno Imenik savjetodavnog terapeuta i odgovarajući upisnik samostalne djelatnosti psihoterapije.
+(3) Osoba koja obavlja djelatnost psihoterapije kao samostalnu djelatnost, sa sjedištem u državi na teritoriju Europskoga gospodarskog prostora, može obavljati djelatnost psihoterapije i na privremenoj ili povremenoj osnovi u Republici Hrvatskoj, bez obveze registracije sjedišta i upisa djelatnosti psihoterapije u odgovarajući upisnik, u skladu s posebnim propisima.
