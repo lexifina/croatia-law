@@ -1,0 +1,6 @@
+# Članak 3.
+Članak 6. mijenja se i glasi:
+»(1) Javni bilježnik osim naknade iz članka 5. ovog Pravilnika ima pravo na naknadu troškova dostave u iznosu od 25,00 kuna za svakog drugog i sljedećeg ovršenika protiv kojih je podnesen jedan prijedlog za ovrhu, koji je ovrhovoditelj dužan platiti u roku od osam dana po pozivu javnog bilježnika.
+(2) Naknadu troškova iz stavka 1. ovog članka ovrhovoditelj je dužan platiti zajedno s iznosom predujma iz članka 7. ovog Pravilnika.
+(3) Kad je ovrhovoditelj fizička osoba koja je predala prijedlog za ovrhu poslovnoj jedinici Financijske Agencije, odnosno, pravna ili fizička osoba koja je elektroničkim putem podnijela prijedlog za ovrhu, ali nema elektronički pretinac i nije u sustavu elektroničke komunikacije, javni bilježnik osim naknade iz članka 5. i članka 6. stavka 1. ovog Pravilnika ima pravo na predujam naknade troškova dostave u iznosu od 25,00 kuna za svaku dostavu pismena ovrhovoditelju.
+(4) Stranka može preuzeti pisani otpravak rješenja o obustavi ovrhe koje je doneseno prije rješenja o ovrsi na temelju vjerodostojne isprave u uredu javnog bilježnika koji ga je donio bez naknade, a u slučaju traženja stranke da se rješenje o obustavi ovrhe dostavi, javni bilježnik će ga dostaviti stranci o njezinom trošku.«.
