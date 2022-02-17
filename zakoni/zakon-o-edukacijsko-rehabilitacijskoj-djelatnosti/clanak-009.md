@@ -1,0 +1,6 @@
+## POGLAVLJE II. NAČIN OBAVLJANJA EDUKACIJSKO-REHABILITACIJSKE DJELATNOSTI
+# Članak 9.
+(1) Edukacijsko-rehabilitacijsku djelatnost obavlja ovlašteni edukacijski rehabilitator na temelju ugovora s drugim pravnim osobama odnosno rješenja o prijmu i kao samostalnu djelatnost.
+(2) Edukacijsko-rehabilitacijsku djelatnost kao samostalnu djelatnost može obavljati ovlašteni edukacijski rehabilitator ili više ovlaštenih edukacijskih rehabilitatora zajednički.
+(3) Osobe koje obavljaju edukacijsko-rehabilitacijsku djelatnost kao samostalnu djelatnost, sa sjedištem u državi na teritoriju Europskoga gospodarskog prostora, mogu trajno obavljati edukacijsko-rehabilitacijsku djelatnost u Republici Hrvatskoj ako se upišu u Imenik edukacijskih rehabilitatora i odgovarajući upisnik samostalne edukacijsko-rehabilitacijske djelatnosti.
+(4) Osobe koje obavljaju edukacijsko-rehabilitacijsku djelatnost kao samostalnu djelatnost, sa sjedištem u državi na teritoriju Europskoga gospodarskog prostora, mogu obavljati edukacijsko-rehabilitacijsku djelatnost i na privremenoj ili povremenoj osnovi u Republici Hrvatskoj, bez obveze registracije sjedišta i upisa edukacijsko-rehabilitacijske djelatnosti u odgovarajući upisnik.

@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Ovlašteni edukacijski rehabilitator koji obavlja edukacijsko-rehabilitacijsku djelatnost kao samostalnu djelatnost dužan je osigurati se od odgovornosti za štetu koju bi mogao počiniti trećima obavljanjem edukacijsko-rehabilitacijske djelatnosti kao samostalne djelatnosti, osim ako je ovlašteni edukacijski rehabilitator istovjetno osiguran od odgovornosti za štetu u drugoj državi Europskoga gospodarskog prostora.
+(2) Ovlašteni edukacijski rehabilitator koji obavlja edukacijsko-rehabilitacijsku djelatnost kao samostalnu djelatnost dužan je uredno produžavati osiguranje od odgovornosti.
+(3) Ako ovlašteni edukacijski rehabilitator koji obavlja edukacijsko-rehabilitacijsku djelatnost kao samostalnu djelatnost počini štetu trećoj osobi namjerno ili zbog grube nepažnje, osiguravatelj koji je nadoknadio štetu trećoj osobi ima pravo regresa prema ovlaštenom edukacijskom rehabilitatoru.
