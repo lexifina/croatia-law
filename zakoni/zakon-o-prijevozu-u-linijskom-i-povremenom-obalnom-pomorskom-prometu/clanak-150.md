@@ -1,0 +1,5 @@
+## Nepridržavanje obveze vođenja zasebnog računovodstva i/ili troškovnog računovodstva
+# Članak 150.
+(1) Pravna osoba koja u svojstvu operatora linije ne provodi računovodstveno odvajanje i ne vodi zasebno računovodstvo za poslove obavljanja javnog linijskog prijevoza (članak 83. stavak 1.) ili ne primjenjuje metodologiju računovodstvenog odvajanja ovjerenu sukladno odredbama ovoga Zakona (članak 84. stavci 1. i 3.) ili ne vodi troškovno računovodstvo na razini svake pojedine linije odnosno na razini organizacijske jedinice koju čine brod i posada kojom se ta linija održava (članak 85. stavak 2.), kaznit će se novčanom kaznom u iznosu od 100.000,00 do 300.000,00 kuna.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i zastupnik po zakonu u pravnoj osobi novčanom kaznom u iznosu od 15.000,00 do 30.000,00 kuna.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom od 30.000,00 do 100.000,00 kuna.

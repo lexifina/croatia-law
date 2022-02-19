@@ -1,0 +1,5 @@
+## Postupanje prije dodjele potpora na neprofitabilnim linijama s više od 300.000 putnika godišnje
+# Članak 16.
+(1) Javni naručitelj odnosno davatelj potpore dužan je dostaviti ministarstvu nadležnom za financije prijedlog programa potpore ili pojedinačne potpore za obavljanje javne usluge na neprofitabilnim linijama na kojima prosječni godišnji promet prelazi 300.000 putnika u razdoblju od dvije financijske godine koje prethode godini u kojoj se namjerava povjeriti obavljanje usluge od općega gospodarskog interesa, radi prijave Europskoj komisiji.
+(2) Ostvarivanje naknade za obavljanje javne usluge prema stavku 1. ovoga članka, rokovi, kriteriji i druga pitanja vezana za naknadu za obavljanje javne usluge detaljnije se utvrđuju programom državnih potpora ili pojedinačnih potpora za obavljanje javne usluge na linijama iznad praga prosječnoga godišnjeg prometa iz stavka 1. ovoga članka, sukladno pravilima o državnim potporama.
+(3) Na postupanje javnog naručitelja odnosno davatelja potpore sukladno odredbama ovoga članka primjenjuju se propisi o državnim potporama.

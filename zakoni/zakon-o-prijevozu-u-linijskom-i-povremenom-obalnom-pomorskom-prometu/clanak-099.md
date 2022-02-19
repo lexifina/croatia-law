@@ -1,0 +1,5 @@
+## Postupanje u slučaju nemogućnosti uspostave veze sa serverom CIS-a
+# Članak 99.
+(1) U okolnostima kada obveznik evidencije nije u mogućnosti uspostaviti vezu sa CIS-om odnosno kada zbog gubitka internetske veze nije u mogućnosti u realnom vremenu izvršiti prijenos podataka s očitanih putnih karata na server CIS-a, tada je dužan očitane podatke, putem zaštićene brodske Wi-Fi mreže, pohraniti u poseban brodski server, koji je opremljen odgovarajućim programskim rješenjem i namijenjen samo za takve potrebe odnosno koji ne služi u druge svrhe.
+(2) U slučaju iz stavka 1. ovoga članka, obveznik evidencije dužan je izvršiti prijenos pohranjenih podataka na server CIS-a čim prestanu okolnosti koje su ga u tome priječile. U tu svrhu programsko rješenje može sadržavati mogućnost automatskog prijenosa podataka nakon ponovne uspostave internetske veze sa serverom CIS-a.
+(3) U slučajevima iz ovoga članka, obveznik evidencije dužan je najkasnije u roku od 24 sata, putem elektroničke pošte, obavijestiti Agenciju o točnom vremenu prekida internetskih veza i njihove ponovne uspostave te zatražiti potvrdu Agencije o primitku naknadno prenesenih podataka na server CIS-a.

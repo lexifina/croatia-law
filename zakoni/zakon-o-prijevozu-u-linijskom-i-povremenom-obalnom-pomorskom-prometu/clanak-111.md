@@ -1,0 +1,6 @@
+## POGLAVLJE II. UPRAVNE MJERE
+## Prvi odjeljak Primjena mjera prema operatorima u javnom linijskom prijevozu
+## Statusne i druge promjene bez odobrenja
+# Članak 111.
+(1) Ako u vlasničkoj strukturi operatora linije s obvezom javne usluge, tijekom važenja ugovora o javnoj usluzi, dođe do promjene vlasnika, osnivača, udjeličara ili dioničara, ili odnosa u njihovim međusobnim udjelima, tako da se time bitno mijenja pravo odlučivanja i/ili utjecaja na vođenje poslova operatora, ili ako operator izvrši statusnu promjenu (spajanje, pripajanje ili odvajanje) bez prethodno pribavljene suglasnosti Agencije iz članka 26. ovoga Zakona, tada Agencija može operatoru rješenjem ukinuti pravo održavanja svih linija s obvezom javne usluge koje takav operator održava, kao i ukinuti odobrene redove plovidbe za te linije.
+(2) U slučaju iz stavka 1. ovoga članka, s izvršnošću rješenja kojim je Agencija ukinula operatoru pravo održavanja svih linija s obvezom javne usluge i odobrene redove plovidbe za te linije prestaju važiti i svi ugovori koje operator ima sklopljene s javnim naručiteljima odnosno davateljima koncesije za predmetne linije, a eventualni troškovi i šteta zbog takvog prestanka važenja ugovora terete operatora linije.

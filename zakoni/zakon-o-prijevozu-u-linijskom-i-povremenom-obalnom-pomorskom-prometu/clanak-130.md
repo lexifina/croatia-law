@@ -1,0 +1,2 @@
+# Članak 130.
+Ako prijevoznik ili operator terminala povrijede odredbe Uredbe (EU) br. 1177/2010 (u daljnjem tekstu: Uredba), ili ne postupe po pritužbi putnika u roku i na način određen Uredbom ili putniku ne priznaju neko pravo koje on ostvaruje u skladu s odredbama Uredbe, tada će Agencija takvom prijevozniku ili operatoru terminala rješenjem naložiti otklanjanje nedostataka i usklađivanje usluga u putničkom prijevozu s odredbama Uredbe (EU) br. 1177/2010 ili im naložiti ispunjenje prava koja putniku pripadaju u skladu s odredbama Uredbe (EU) br. 1177/2010.

@@ -1,0 +1,11 @@
+## Državne linije
+# Članak 19.
+(1) Državne linije su linije od općega gospodarskog interesa za Republiku Hrvatsku na kojima postoji obveza javne usluge i na kojima je prosječni godišnji promet putnika manji, jednak ili veći od 300.000 putnika u razdoblju od dvije financijske godine koje prethode godini u kojoj je povjereno obavljanje javne usluge.
+(2) Državne linije odlukom uspostavlja Vlada Republike Hrvatske, na prijedlog Ministarstva, a nakon provedenog javnog savjetovanja sa zainteresiranom javnošću radi iskazivanja interesa otočnog stanovništva i brodara, odnosno kako bi se utvrdilo može li se opći gospodarski interes ostvariti bez nametanja obveze javne usluge svim brodarima, odnosno bez sklapanja ugovora o javnoj usluzi.
+(3) Odluka iz stavka 2. ovoga članka može se donijeti ako je nakon prethodno provedenog javnog savjetovanja utvrđeno da se opći gospodarski interes ne može ostvariti bez nametanja obveze javne usluge ili bez sklapanja ugovora o javnoj usluzi te u tom slučaju sadrži specifikaciju relacije na kojoj se obavlja prijevoz od državnog značaja, minimalnu učestalost prijevoza, vrstu i minimalni kapacitet brodova, vrstu prijevoza, naznaku o profitabilnosti linije te obrazloženje nametanja horizontalne javne usluge svim brodarima ili razloge namjere sklapanja ugovora o javnoj usluzi, ako se sklapanjem tog ugovora ostvaruje opći gospodarski interes koji se ne bi mogao ostvariti nametanjem obveze javne usluge za sve brodare koji namjeravaju održavati predmetnu liniju.
+(4) Odluka iz stavka 2. ovoga članka objavljuje se u »Narodnim novinama«.
+(5) Nametanje horizontalne obveze javne usluge svim brodarima i sklapanje ugovora o javnoj usluzi provodi se u skladu s odredbama Uredbe (EEZ) broj 3577/92 i sudskom praksom Suda Europske unije.
+(6) Agencija je javni naručitelj za neprofitabilne državne linije od općeg gospodarskog interesa i s obvezom javne usluge.
+(7) Agencija je davatelj koncesije za profitabilne državne linije od općeg gospodarskog interesa i s obvezom javne usluge.
+(8) Odredbe ovoga članka podredno se primjenjuju na županijske, međužupanijske i lokalne linije.
+(9) Uredbom iz članka 14. ovoga Zakona detaljnije se uređuje postupak provođenja javnog savjetovanja iz stavka 2. ovoga članka u skladu sa SNCM testom kako je određen sudskom praksom Suda Europske unije.

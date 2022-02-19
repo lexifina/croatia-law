@@ -1,0 +1,6 @@
+## Nepostupanje po nalogu za vraćanje prekomjerne naknade
+# Članak 120.
+(1) Ako operator neprofitabilne linije ne postupi u roku i na način određen nalogom javnog naručitelja ili Agencije za vraćanjem iznosa prekomjerne naknade u proračun javnog naručitelja (članak 79.), tada Agencija može operatoru rješenjem izdati upozorenje na obvezu vraćanja prekomjerne naknade i ostaviti mu naknadni primjeran rok da to učini.
+(2) Ako operator linije ne postupi po izvršnom rješenju iz stavka 1. ovoga članka, tada mu Agencija može novim rješenjem ukinuti pravo održavanja linije na kojoj je došlo do zabranjene prekomjerne naknade, kao i ukinuti odobreni red plovidbe za tu liniju.
+(3) U slučaju iz stavka 2. ovoga članka, s izvršnošću rješenja kojim je Agencija ukinula operatoru pravo održavanja linije na kojoj je došlo do zabranjene prekomjerne naknade i ukinula red plovidbe za tu liniju prestaje važiti ugovor koji operator ima sklopljen s javnim naručiteljem za predmetnu liniju, a eventualni troškovi i šteta zbog takvog prestanka važenja ugovora terete operatora linije.
+(4) Upravne mjere određene ovim člankom nemaju utjecaja na pravo javnog naručitelja da u ovršnom postupku naplati od operatora linije dužan iznos prekomjerne naknade i prije donošenja rješenja iz stavaka 1. i 2. ovoga članka.

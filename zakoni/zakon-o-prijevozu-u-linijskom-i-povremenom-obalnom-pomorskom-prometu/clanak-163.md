@@ -1,0 +1,9 @@
+# Članak 163.
+(1) Do stupanja na snagu uredbe iz članka 14. stavka 3. ovoga Zakona ostaje na snazi Uredba o uvjetima i vrednovanju kriterija za davanje koncesije i sklapanje ugovora o javnoj usluzi za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu (»Narodne novine«, br. 31/14.).
+(2) Do stupanja na snagu pravilnika iz članka 12. stavka 5. ovoga Zakona ostaje na snazi Pravilnik o uvjetima koje mora ispunjavati brod i brodar za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu (»Narodne novine«, br. 26/14.) i Pravilnik o uvjetima koje mora ispunjavati brod i brodar za obavljanje međunarodnog linijskog pomorskog prometa (»Narodne novine«, br. 130/06. i 83/13.).
+(3) Do stupanja na snagu odluke iz članka 19. stavka 2. ovoga Zakona ostaju na snazi sljedeće odluke Vlade Republike Hrvatske:
+1. Odluka o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu, KLASA: 022-03/16-04/363, URBROJ: 50301-25/14-16-2, od 22. prosinca 2016.
+2. Odluka o izmjeni i dopuni Odluke o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu, KLASA: 022-03/20-04/215, URBROJ: 50301-27/25-20-2, od 21. svibnja 2020.
+3. Odluka o dopuni Odluke o određivanju državnih linija u javnom prijevozu u linijskom obalnom pomorskom prometu, KLASA: 022-03/21-04/11, URBROJ: 50301-05/14-21-2, od 28. siječnja 2021.
+(4) Do stupanja na snagu pravilnika iz članka 32. stavka 7. ovoga Zakona ostaje na snazi Pravilnik o uvjetima i načinu ostvarivanja prava na povlašteni prijevoz na linijama u javnom pomorskom prijevozu (»Narodne novine«, br. 41/17. i 122/20.).
+(5) Do stupanja na snagu pravilnika iz članka 95. stavka 2. ovoga Zakona ostaje na snazi Pravilnik o načinu evidentiranja izdanih i iskorištenih putnih karata u javnom pomorskom prometu (»Narodne novine«, br. 100/17.).

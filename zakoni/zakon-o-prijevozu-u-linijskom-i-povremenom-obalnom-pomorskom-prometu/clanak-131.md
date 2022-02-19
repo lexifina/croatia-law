@@ -1,0 +1,4 @@
+## Šesti odjeljak Primjena mjera zbog zlouporabe iskaznice za povlašteni prijevoz
+# Članak 131.
+(1) Ako fizička ili pravna osoba, kojoj je u skladu s odredbama ovoga Zakona izdana iskaznica za povlašteni ili besplatni prijevoz, svoju iskaznicu da na upotrebu i/ili korištenje drugoj fizičkoj ili pravnoj osobi (članak 38. stavak 1.), tada Agencija može takvoj osobi rješenjem izdati upozorenje na obvezu zakonitog korištenja i upotrebe iskaznice te joj privremeno ukinuti pravo na povlašteni ili besplatni prijevoz na rok do tri mjeseca i poništiti izdanu joj iskaznicu.
+(2) Ako fizička i pravna osoba iz stavka 1. ovoga članka, unatoč izdanom upozorenju, nastavi sa zlouporabom iskaznice nakon isteka roka na koji joj je privremeno ukinuto pravo na povlašteni ili besplatni prijevoz, tada joj Agencija može novim rješenjem ukinuti pravo na povlašteni ili besplatni prijevoz na rok do dvije godine i poništiti izdanu joj iskaznicu.

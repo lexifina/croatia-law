@@ -1,0 +1,5 @@
+## Ispitivanje opravdanosti zahtjeva za promjenu cijena
+# Članak 66.
+(1) Postupajući po prijedlogu operatora linije s obvezom javne usluge za promjenom cijena prijevoza na toj liniji, javni naručitelj odnosno davatelj koncesije ispitat će opravdanost promjene cijena uvidom u statističke podatke o inflatornim kretanjima i/ili uvidom u poslovne knjige operatora radi analize prihoda i rashoda koje operator ima u obavljanju javne usluge, a u slučaju promjene cijena na neprofitabilnoj liniji s obvezom javne usluge provjerit će hoće li predložena promjena cijena dovesti do zabranjene prekomjerne naknade.
+(2) Javni naručitelj odnosno davatelj koncesije može radi ocjene opravdanosti promjene cijena prijevoza na liniji s obvezom javne usluge angažirati i zatražiti stručno mišljenje odgovarajućih stručnih i znanstvenih institucija i vještaka.
+(3) Ako javni naručitelj odnosno davatelj koncesije ocijeni opravdane razloge za promjenom cijena prijevoza na liniji s obvezom javne usluge, tada može donijeti odluku o promjeni cijene prijevoza iz članka 63. ovoga Zakona.

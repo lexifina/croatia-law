@@ -1,0 +1,5 @@
+## Promjena broda bez odobrenja
+# Članak 114.
+(1) Ako operator linije s obvezom javne usluge, bez prethodnog odobrenja javnog naručitelja odnosno davatelja koncesije, promijeni glavni brod ili zamjenski brod tako da umjesto njega na liniju uvede drugi brod sukladno članku 31. ovoga Zakona, tada Agencija može rješenjem operatoru zabraniti održavanje linije tim brodom i naložiti mu ponovno uvođenje na liniju glavnog odnosno zamjenskog broda i za to mu odrediti naknadni primjereni rok.
+(2) Ako operator linije ne postupi po izvršnom rješenju iz stavka 1. ovoga članka, tada mu Agencija može novim rješenjem ukinuti pravo održavanja predmetne linije i ukinuti odobreni red plovidbe za tu liniju.
+(3) U slučaju iz stavka 2. ovoga članka, s izvršnošću rješenja kojim je Agencija ukinula operatoru pravo održavanja predmetne linije i ukinula odobreni red plovidbe za tu liniju prestaje važiti ugovor koji operator ima sklopljen s javnim naručiteljem odnosno davateljem koncesije za tu liniju, a eventualni troškovi i šteta zbog takvog prestanka važenja ugovora terete operatora linije.

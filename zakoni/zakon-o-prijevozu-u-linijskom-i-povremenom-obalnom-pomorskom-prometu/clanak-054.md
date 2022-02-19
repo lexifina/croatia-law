@@ -1,0 +1,8 @@
+## POGLAVLJE V. RED PLOVIDBE
+## Odobrenje reda plovidbe
+# Članak 54.
+(1) Red plovidbe je akt operatora linije odobren u skladu s odredbama ovoga Zakona, koji obvezno sadrži: naziv operatora linije, broj i vrstu linije, luke pristajanja, obvezno vrijeme polaska i dolaska u luku, razdoblje u kojem se linija održava te datum početka važenja reda plovidbe.
+(2) Red plovidbe rješenjem odobrava Agencija.
+(3) Rješenjem iz stavka 2. ovoga članka određuje se i redni broj linije prema vrsti prijevoza i značaju pravca sukladno propisu iz članka 8. stavka 3. ovoga Zakona.
+(4) Agencija je dužna u postupku odlučivanja o davanju odobrenja na predloženi red plovidbe pribaviti i uzeti u obzir očitovanje izvršnog tijela jedinice lokalne samouprave na čijem području se nalazi polazna i odredišna luka te ostale luke ticanja na pravcu linije u smislu iskazivanja interesa lokalne zajednice u odnosu na predloženi red plovidbe, kao i očitovanje tijela koje upravlja polaznom i odredišnom lukom te ostalim lukama ticanja na pravcu linije o mogućnosti prihvata broda prema predloženom redu plovidbe u smislu nepreklapanja s redom plovidbe ostalih brodova koji redovito tiču luku ako bi to utjecalo na sigurnost plovidbe u luci, kao i da ne postoje prepreke za prihvat broda glede maritimnih sposobnosti i kapaciteta luke te njezine lučke infrastrukture, uključujući i kapacitete luke za prihvat putnika i vozila prilikom ukrcaja/iskrcaja.
+(5) Ako tijela iz stavka 4. ovoga članka ne dostave Agenciji svoje očitovanje na predloženi red plovidbe u roku od 30 dana od dana primitka poziva na očitovanje, smatra se da su dala pozitivno očitovanje na predloženi red plovidbe.

@@ -1,0 +1,5 @@
+## Nepridržavanje cjenika prijevoza
+# Članak 117.
+(1) Ako se operator linije koji javnu uslugu obavlja na temelju sklopljenog ugovora o javnoj usluzi ne pridržava odobrenog cjenika prijevoza (članak 61. stavak 4.) odnosno ako se operator linije bez obveze javne usluge ne pridržava javno objavljenog cjenika prijevoza (članak 43. stavak 4.), tada Agencija može takvom operatoru rješenjem izdati upozorenje na obvezu pridržavanja odobrenog odnosno javno objavljenog cjenika prijevoza.
+(2) Ako operator linije ne postupi po izvršnom rješenju iz stavka 1. ovoga članka, tada mu Agencija može novim rješenjem ukinuti pravo održavanja predmetne linije i ukinuti odobreni red plovidbe za tu liniju.
+(3) U slučaju iz stavka 2. ovoga članka, s izvršnošću rješenja kojim je Agencija ukinula operatoru pravo održavanja predmetne linije i odobreni red plovidbe za tu liniju prestaje važiti ugovor koji operator ima sklopljen s javnim naručiteljem odnosno davateljem koncesije za tu liniju, a eventualni troškovi i šteta zbog takvog prestanka važenja ugovora terete operatora linije.

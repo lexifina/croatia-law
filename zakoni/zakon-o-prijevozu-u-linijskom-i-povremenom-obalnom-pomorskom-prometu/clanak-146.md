@@ -1,0 +1,5 @@
+## Nepridržavanje cjenika prijevoza
+# Članak 146.
+(1) Pravna osoba koja se u svojstvu operatora linije koji javnu uslugu obavlja na temelju sklopljenog ugovora o javnoj usluzi ne pridržava odobrenog cjenika prijevoza na liniji na kojoj obavlja javnu uslugu (članak 61. stavak 4.) ili koja se u svojstvu operatora linije bez obveze javne usluge ne pridržava javno objavljenog cjenika prijevoza na liniji bez obveze javne usluge koju održava (članak 43. stavak 4.) ili koja se u svojstvu operatora međunarodne linije ne pridržava javno objavljenog cjenika prijevoza na međunarodnoj liniji koju održava (članak 59. stavak 8.), kaznit će se novčanom kaznom u iznosu od 30.000,00 do 100.000,00 kuna.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i zastupnik po zakonu u pravnoj osobi novčanom kaznom u iznosu od 15.000,00 do 30.000,00 kuna.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom od 30.000,00 do 100.000,00 kuna.

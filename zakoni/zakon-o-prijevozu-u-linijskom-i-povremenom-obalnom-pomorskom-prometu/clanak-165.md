@@ -1,0 +1,3 @@
+# Članak 165.
+(1) Postupci povjeravanja javne usluge na linijama od općega gospodarskog interesa i s obvezom javne usluge, započeti prije stupanja na snagu ovoga Zakona, dovršit će se prema odredbama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, br. 33/06., 38/09., 87/09., 18/11., 80/13., 56/16. i 121/19.).
+(2) Postupci pokrenuti za obavljanje javnog prijevoza na linijama bez obveze javne usluge, započeti prije stupanja na snagu ovoga Zakona, dovršit će se prema odredbama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, br. 33/06., 38/09., 87/09., 18/11., 80/13., 56/16. i 121/19.).

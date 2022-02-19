@@ -1,0 +1,4 @@
+## Razlozi za redovitu promjenu cijena prijevoza
+# Članak 64.
+(1) Razlozi zbog kojih se mogu promijeniti cijene prijevoza na liniji s obvezom javne usluge mogu biti redoviti i izvanredni.
+(2) Redovitu promjenu cijena javni naručitelj odnosno davatelj koncesije može odobriti radi usklađenja s inflatornim učincima na godišnjoj razini i/ili povećanja troškova obavljanja javne usluge na koje operator nije mogao utjecati pažnjom dobroga gospodarstvenika, osobito ako se radi o povećanju troškova na neprofitabilnoj liniji koji utječu na ostvarenje razumne dobiti koju operator očekuje od obavljanja javne usluge, a koju prema stanju stvari ne bi mogao ostvariti unatoč naknadi koju prima za njezino obavljanje. Redovitu promjenu cijena operator ne može predlagati u razdobljima koja su kraća od godine dana.
