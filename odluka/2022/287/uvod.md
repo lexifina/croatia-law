@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 15. stavka 1. Zakona o potpomognutim područjima (»Narodne novine«, broj 118/18.), Vlada Republike Hrvatske je na sjednici održanoj 24. veljače 2022. donijela
