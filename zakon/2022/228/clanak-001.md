@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o sanaciji kreditnih institucija i investicijskih društava (»Narodne novine«, br. 146/20.) u članku 4. stavku 1. iza točke 8. briše se točka i dodaje točka 9. koja glasi:
+»9. Delegirana uredba Komisije (EU) br. 2016/1075 je Delegirana uredba Komisije (EU) br. 2016/1075 оd 23. ožujka 2016. o dopuni Direktive 2014/59/EU Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda kojima se pobliže određuju sadržaj planova oporavka, planova sanacije i planova sanacije grupe, minimalni kriteriji koje nadležno tijelo treba procijeniti u pogledu planova oporavka i planova oporavka grupe, uvjeti za financijsku potporu grupe, zahtjevi za neovisne procjenitelje, ugovorno priznavanje ovlasti otpisa i konverzije, postupci i sadržaj zahtjeva u pogledu obavješćivanja i obavijesti o suspenziji te operativno funkcioniranje sanacijskih kolegija (Tekst značajan za EGP) (SL L 184, 8. 7. 2016).«.
+U stavku 2. točki 60. riječi: »Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga« zamjenjuju se riječima: »nadležno tijelo«.
+U točki 82. riječ: »primjenom« zamjenjuje se riječima: »kao samostalnom mjerom ili kroz primjenu«.
