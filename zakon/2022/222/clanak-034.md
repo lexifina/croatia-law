@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 34.
+(1) Za sve suce koji su imenovani i koji obnašaju sudačku dužnost na dan stupanja na snagu ovoga Zakona, a u odnosu na koje nije provedena sigurnosna provjera ili u odnosu na koje je sigurnosna provjera provedena prije više od pet godina predsjednici sudova dužni su putem ministarstva nadležnog za poslove pravosuđa nadležnoj sigurnosno-obavještajnoj agenciji podnijeti zahtjev za provedbu temeljne sigurnosne provjere u roku od 60 dana od dana stupanja na snagu pravilnika iz članka 15. ovoga Zakona.
+(2) Na postupak podnošenja zahtjeva za provedbu temeljne sigurnosne provjere, dostavu izvješća o provedenoj sigurnosnoj provjeri, konačnu ocjenu o postojanju sigurnosnih zapreka te obavijest o utvrđenom postojanju sigurnosnih zapreka primjenjuju se odredbe članka 15. ovoga Zakona.

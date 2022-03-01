@@ -1,0 +1,10 @@
+# Članak 23.
+Iza članka 116. dodaje se članak 116.a koji glasi:
+»Članak 116.a
+(1) Službenicima pravosudne policije zbog težine i naravi posla i posebnih uvjeta rada (povećane opasnosti za život i zdravlje zbog nasilja, izloženosti zaraznim bolestima, smjenskog rada, rada na državne blagdane i neradne dane i potrebe pripravnosti te izloženosti stresu) svakih 12 mjeseci provedenih na takvim poslovima računa se kao 16 mjeseci staža osiguranja te im pripada poseban dodatak na plaću zbog rada u posebnim uvjetima u skladu s uredbom Vlade Republike Hrvatske.
+(2) Službenicima pravosudne policije koji ostvare pravo na mirovinu, a imaju manje od deset godina efektivnog radnog staža ostvarenog na poslovima osiguranja pripada otpremnina u iznosu od dvije prosječne mjesečne netoplaće koje su ostvarili u tri mjeseca prije prestanka državne službe.
+(3) Službenicima pravosudne policije koji ostvare pravo na mirovinu, a imaju od deset do 20 godina efektivnog radnog staža ostvarenog na poslovima osiguranja pripada otpremnina u iznosu od tri prosječne mjesečne netoplaće koje su ostvarili u tri mjeseca prije prestanka državne službe.
+(4) Službenicima pravosudne policije koji ostvare pravo na mirovinu, a imaju više od 20 godina efektivnog radnog staža ostvarenog na poslovima osiguranja pripada otpremnina u iznosu od pet prosječnih mjesečnih netoplaća koje su ostvarili u tri mjeseca prije prestanka državne službe.
+(5) Obitelj službenika pravosudne policije koji izgubi život u obavljanju službe ili povodom obavljanja službe ima pravo na nadoknadu troškova pokopa, a uzdržavani članovi obitelji i jednokratnu novčanu pomoć u visini 12 zadnjih netoplaća službenika.
+(6) Ostvarivanje prava iz stavka 5. ovoga članka isključuje ostvarivanje prava obitelji službenika i namještenika na pomoć od tri proračunske osnovice te podmirivanje troškova pogreba iz kolektivnog ugovora kojim se utvrđuju prava i obveze iz rada i po osnovi rada državnih službenika i namještenika zaposlenih u državnim tijelima.
+(7) Službenici pravosudne policije prava iz mirovinskog osiguranja ostvaruju prema posebnom zakonu.«.
