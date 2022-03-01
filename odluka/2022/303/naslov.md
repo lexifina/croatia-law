@@ -1,0 +1,1 @@
+Odluka o prestanku važenja Odluke o uvođenju posebne sigurnosne mjere obveznog testiranja na virus SARS-CoV-2 te posebne sigurnosne mjere obveznog predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti COVID-19 radi ulaska u prostore javnopravnih tijela
