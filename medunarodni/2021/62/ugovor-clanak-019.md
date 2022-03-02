@@ -1,0 +1,3 @@
+# Članak 19.
+1. Osobni podaci, uključujući medicinske i genetičke podatke, koji se prikupljaju i/ili dostavljaju u okviru potrage za nestalom osobom neće biti korišteni ili dostupni u bilo koje druge svrhe osim za potrebe potrage za nestalom osobom. Navedeno ne dovodi u pitanje upotrebu takvih podataka u kaznenim postupcima vezanim uz kaznena djela prisilnog nestanka ili u postupcima ostvarivanja prava na naknadu štete.
+2. Prikupljanje, obrada, uporaba i pohranjivanje osobnih podataka, uključujući medicinske i genetičke podatke, ne smije narušiti ili imati takav učinak na ljudska prava, temeljne slobode ili ljudsko dostojanstvo pojedinca.

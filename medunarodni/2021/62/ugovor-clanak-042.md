@@ -1,0 +1,4 @@
+# Članak 42.
+1. Bilo koji spor između dvije ili više država stranaka u vezi s tumačenjem ili primjenom ove Konvencije koji ne može biti riješen pregovorima ili postupkom izrijekom predviđenim u ovoj Konvenciji, na zahtjev jedne od njih podnosi se na arbitražu. Ukoliko se unutar šest mjeseci od datuma zahtjeva za arbitražu stranke nisu u mogućnosti dogovoriti o organiziranju arbitraže, bilo koja od tih stranaka spor može podnijeti Međunarodnom sudu zahtjevom u skladu sa Statutom Suda.
+2. Država može, u trenutku potpisivanja ili ratifikacije ove Konvencije ili pristupa njoj, izjaviti da se ne smatra vezanom stavkom l. ovoga članka. Druge države nisu vezane stavkom 1. ovoga članka u odnosu na bilo koju državu stranku koja je priopćila takvu izjavu.
+3. Bilo koja država koja je priopćila izjavu u skladu s odredbama stavka 2. ovoga članka, može u bilo koje doba povući izjavu obaviješću upućenom glavnom tajniku Ujedinjenih naroda.

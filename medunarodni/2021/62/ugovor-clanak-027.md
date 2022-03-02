@@ -1,0 +1,2 @@
+# Članak 27.
+Konferencija država stranaka održat će se najranije četiri, a najkasnije šest godina od stupanja na snagu ove Konvencije, kako bi države stranke ocijenile rad Odbora i odlučile, u skladu s postupcima opisanima u stavku 2. članka 44., je li potrebno nadzor nad provedbom ove Konvencije povjeriti drugom tijelu - ne isključujući druge mogućnosti - u skladu s ovlastima navedenima u člancima 28. i 36.

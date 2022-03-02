@@ -1,0 +1,2 @@
+# Članak 21.
+Svaka država stranka poduzima potrebne mjere da se osobe kojima je oduzeta sloboda puste na način koji omogućuje pouzdanu provjeru jesu li doista bile puštene. Svaka država stranka poduzima potrebne mjere kojima se osiguravaju fizički integritet tih osoba i mogućnost da u potpunosti iskoriste svoja prava u vrijeme puštanja, ne dovodeći u pitanje bilo koje obveze kojima takve osobe podliježu prema nacionalnom pravu.

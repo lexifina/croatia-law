@@ -1,0 +1,2 @@
+# Članak 2.
+Za potrebe ove Konvencije, »prisilnim nestankom« se smatra uhićenje, zadržavanje, otmica ili bilo koji drugi oblik uskraćivanja slobode koji počine službene osobe države ili osobe ili skupine osoba koje djeluju s odobrenjem, podrškom ili prihvaćanjem države, a kojem slijedi odbijanje da se prizna počinjeno uskraćivanje slobode ili prikrivanje sudbine ili mjesta boravka nestale osobe, čime se takvu osobu stavlja izvan zaštite zakona.

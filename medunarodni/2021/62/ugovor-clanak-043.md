@@ -1,0 +1,2 @@
+# Članak 43.
+Ova Konvencija ne utječe na odredbe međunarodnog humanitarnog prava, uključujući obveze visokih ugovornih strana četiriju Ženevskih konvencija od 12. kolovoza 1949. i dva Dodatna protokola uz njih od 8. lipnja 1977., ili na mogućnost dostupnu svakoj državi stranci da ovlasti Međunarodni odbor Crvenog križa da posjeti mjesta zadržavanja u situacijama koje nisu obuhvaćene međunarodnim humanitarnim pravom.
