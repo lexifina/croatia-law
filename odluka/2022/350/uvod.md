@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 5., članka 32. stavka 1. i članka 33. stavka 1. Zakona o udomiteljstvu (»Narodne novine«, br. 115/18. i 18/22.) ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
