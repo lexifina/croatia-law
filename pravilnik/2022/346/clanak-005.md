@@ -1,0 +1,7 @@
+## V. ZNAČAJNE PROMJENA PODATAKA I DOKUMENATA DOSTAVLJENIH UZ ZAHTJEV ZA IZDAVANJE ODOBRENJA ZA OSNIVANJE I UPRAVLJANJE
+## AIF-om S JAVNOM PONUDOM
+# Članak 5.
+(1) Ako drugačije nije propisano Zakonom i ovim Pravilnikom, na bitne promjene pravila i prospekta otvorenog i zatvorenog AIF-a bez pravne osobnosti s javnom ponudom, kao i bitne promjene ugovora s depozitarom te podnošenje zahtjeva za izdavanje suglasnosti na promjene tih dokumenata, odlučivanje Hanfe povodom navedenog zahtjeva i obavještavanje ulagatelja u tim slučajevima, na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje osnivanje i rad otvorenih investicijskih fondova s javnom ponudom i podzakonskih propisa donesenih na temelju istog.
+(2) UAIF je u skladu s člankom 210. stavkom 1. Zakona dužan u roku od 30 dana prije primjene značajnih promjena izvijestiti Hanfu o svim predloženim odnosno planiranim značajnim promjenama dokumenata i podataka koji su dostavljeni uz zahtjev za izdavanje odobrenja za osnivanje i upravljanje zatvorenim AIF-om s pravnom osobnošću s javnom ponudom.
+(3) Uz obavijest UAIF-a iz članka 210. stavka 1. Zakona, UAIF je dužan priložiti i odluku o usvajanju značajnih promjena dokumenata koji su dostavljeni uz zahtjev za izdavanje odobrenja za osnivanje i upravljanje zatvorenim AIF-om s pravnom osobnošću s javnom ponudom, u kojoj će se naznačiti u kojim dijelovima i na koji način se ti dokumenti mijenjaju.
+(4) UAIF je dužan Hanfi dostaviti i drugu dokumentaciju koju Hanfa zatraži na temelju obavijesti UAIF-a iz članka 210. stavka 1. Zakona.
