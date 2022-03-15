@@ -1,0 +1,1 @@
+Na temelju članka 217. stavka 2. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13, 153/13, 78/15, 12/18 i 118/18) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
