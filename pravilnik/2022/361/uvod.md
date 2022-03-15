@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 18. Zakona o cestama (»Narodne novine«, broj 84/11, 22/13, 54/13, 148/13, 92/14, 110/19 i 144/21) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra za vanjske i europske poslove, donosi

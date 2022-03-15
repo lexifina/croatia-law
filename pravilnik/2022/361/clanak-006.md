@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Pružatelj usluge EENC-a koji je registriran u Republici Hrvatskoj nakon isteka 12 mjeseci od datuma registracije i nakon toga svakih 12 mjeseci dostavlja Ministarstvu potvrdu da je zadržana pokrivenost svih područja EENC-a iz članka 5. ovog Pravilnika nakon sklapanja ugovora.
+(2) Kada je zbog razloga iz nadležnosti subjekta za naplatu cestarine na pojedinom području pokrivenost područja EENC u Republici Hrvatskoj ili druge države članice Europske unije prekinuta, pružatelji usluge EENC-a koji je registriran u Republici Hrvatskoj o tome je obvezan pisano izvijestiti Ministarstvo najkasnije u roku od 30 dana od dana prekida.
+(3) O ponovnom uspostavljanju pokrivenosti iz stavka 2. ovog članka pružatelji usluge EENC-a koji je registriran u Republici Hrvatskoj obvezan je pisano izvijestiti Ministarstvo najkasnije u roku od 30 dana od dana uspostave.

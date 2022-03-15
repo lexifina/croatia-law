@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Ministarstvo provjerava podatke o registriranom pružatelju usluge EENC-a iz članka 3. stavka 3. ovog Pravilnika jednom godišnje.
+(2) Pružatelj usluge EENC kome je odobrena registracija u Republici Hrvatskoj obvezan je dostavljati Ministarstvu revizije plana upravljanja rizicima koje se provode svake dvije godine, te nakon isteka roka dokumenata iz članka 3. stavka 3. ovog Pravilnika temeljem kojih je izvršena registracija nove važeće dokumente: certifikat EN ISO 9001 ili jednakovrijedan certifikat, policu osiguranja od rizika odgovornosti iz djelatnosti na iznos od 10.000.000,00 kuna i druge.
