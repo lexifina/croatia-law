@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Na temelju odobrenja Agencije sjeme žitarica može se staviti na tržište kao mješavina sjemena različitih vrsta, ako znanstvena ili tehnička znanja upućuju da su takve mješavine sjemena posebno učinkovite u sprječavanju širenja određenih štetnih organizama i ako komponente mješavine, prije miješanja, ispunjavaju uvjete za sjeme propisane ovim Pravilnikom.
+(2) U cilju izdavanja odobrenja iz stavka 1. ovoga članka dobavljač sjemena prijavljuje Agenciji pripremu mješavine iz stavka 1. ovoga članka s podacima o namjeni mješavine uz koju prilaže znanstvene dokaze o učinkovitosti mješavine sjemena u sprječavanju širenja određenih štetnih organizama.
+(3) Dobavljač sjemena registriran za doradu prilikom pripremanja mješavine vodi evidenciju o komponentama mješavine sjemena na Obrascu broj 5. u Dodatku 6.
+(4) Agencija prije izdavanja Certifikata o sjemenu na pakiranju i Certifikata o sjemenu uz otpremnicu provodi službeni nadzor nad proizvodnjom mješavine, u kojem kontrolira identitet i ukupnu količinu svake komponente, i to najmanje kroz povremenu kontrolu procesa pakiranja, plombiranja, označavanja i procesa miješanja.
