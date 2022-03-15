@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom se određuju podaci koji su potrebni za obavljanje automatiziranog pretraživanja registara o vozilima i vlasnicima vozila odnosno osobama koje na temelju ugovora imaju pravo na upotrebu vozila (dalje u tekstu: korisnik vozila) za koje je utvrđeno neplaćanje cestarine, podaci koji se dostavljaju kao rezultat automatiziranog pretraživanja te obvezan sadržaj, službeni jezik i obrazac obavijesti koju subjekt za naplatu cestarine upućuje vlasniku vozila, osobi koja na temelju ugovora ima pravo na upotrebu vozila ili osobi identificiranoj na drugi način da se sumnjiči za neplaćanje cestarine.
+(2) Pojmovi: automatizirano pretraživanje i subjekt za naplatu cestarine imaju značenje propisano Zakonom o cestama.
