@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Pravilnikom o načinu vođenja evidencije o izdanim uputnicama i obrascu uputnice (u daljnjem tekstu: Pravilnik) propisuje se način vođenja evidencije o izdanim uputnicama i obrazac uputnice za socijalne usluge: stručne procjene, psihosocijalnog savjetovanja, socijalnog mentorstva, obiteljske medijacije, psihosocijalnog tretmana radi prevencije nasilničkog ponašanja, psihosocijalne podrške, rane razvojne podrške, pomoći pri uključivanju u programe odgoja i redovitog obrazovanja, pomoći u kući i boravka, koju vodi Hrvatski zavod za socijalni rad (u daljnjem tekstu: Zavod).
+(2) Izrazi koji se koriste u ovom Pravilniku, a koji imaju rodni izričaj, odnose se na jednak način i na muški i na ženski rod, bez obzira na to u kojem se rodu koristili.
