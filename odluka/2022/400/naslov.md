@@ -1,0 +1,1 @@
+Odluka o sudjelovanju Oružanih snaga Republike Hrvatske u aktivnosti u sklopu projekta Stalne strukturirane suradnje Europske unije »Kibernetički timovi za brzi odgovor i uzajamnu pomoć u kibernetičkoj sigurnosti«
