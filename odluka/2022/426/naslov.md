@@ -1,0 +1,1 @@
+Odluka o izmjenama i dopuni Odluke o uvođenju posebnih sigurnosnih mjera obveznog testiranja na virus SARS-CoV-2 i obveznog predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti COVID-19 u djelatnosti socijalne skrbi
