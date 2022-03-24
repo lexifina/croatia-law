@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 4. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/16, 126/19 i 110/21) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 10. ožujka 2022. godine donijela je
