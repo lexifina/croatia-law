@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 4. Zakona o obveznim mirovinskim fondovima (»Narodne novine« broj 19/14, 93/15, 64/18, 115/18 i 58/20) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 10. ožujka 2022. godine donosi
