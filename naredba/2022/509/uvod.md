@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 3. Zakona o veterinarstvu (»Narodne novine«, br. 82/13, 148/13, 115/18 i 52/21) a u skladu s člankom 39. Zakona o sustavu državne uprave (»Narodne novine«, 66/19) ministrica poljoprivrede donosi
