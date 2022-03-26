@@ -1,0 +1,6 @@
+# Članak 4.
+Naslov iznad članka 23. i članak 23. mijenjaju se i glase:
+»2.4.1. Služba za tehničke poslove
+Služba za tehničke poslove obavlja poslove upravljanja objektima i drugom imovinom Ministarstva te tekućim održavanjem objekata i instalacija, vodi i ažurira očevidnik imovine i druge evidencije i dokumentaciju o poslovnim prostorima koje koristi Ministarstvo, obavlja poslove osiguravanja tehničkih uvjeta za rad državnih službenika i namještenika Ministarstva, sudjeluje u izradi tehničke dokumentacije koja se odnosi na javnu nabavu iz djelokruga Službe, vodi evidenciju i kontrolu o utrošku materijala i sredstva za tekuće održavanje glede obrtničkih i instalaterskih radova, prati izvršenje preuzetih ugovora za izvođenje radova i usluga, poslove organizacije i provedbe preseljenja, poslove upravljanja voznim parkom i održavanja čistoće, priprema i predlaže opće i pojedinačne akte iz svog djelokruga, predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svog djelokruga, priprema podatke iz svog djelokruga za stručne podloge za donošenje poslovnih odluka Ministarstva, te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za tehničke poslove ustrojava se:
+2.4.1.1. Pododsjek za pomoćno-tehničke poslove.«.

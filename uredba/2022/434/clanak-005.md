@@ -1,0 +1,5 @@
+# Članak 5.
+Naslov iznad članka 24. i članak 24. mijenjaju se i glase:
+»2.4.1.1. Pododsjek za pomoćno-tehničke poslove
+Članak 24.
+Pododsjek za pomoćno-tehničke poslove obavlja stručne i tehničke poslove koji se odnose na održavanje službenih automobila, rad čajne kuhinje, obavlja prijevoz državnih dužnosnika i službenika Ministarstva, vodi evidenciju o korištenju i održavanju službenih automobila, organizira opremanje poslovnih prostorija Ministarstva opremom i sredstvima rada, priprema i predlaže opće i pojedinačne akte iz svog djelokruga, predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svog djelokruga, priprema podatke iz svog djelokruga za stručne podloge za donošenje poslovnih odluka Ministarstva, te obavlja i druge poslove u okviru svog djelokruga.«.

@@ -1,0 +1,5 @@
+# Članak 7.
+Naslov iznad članka 26. i članak 26. mijenjaju se i glase:
+»2.4.2. Služba za provođenje zaštite na radu
+Članak 26.
+Služba za provođenje zaštite na radu obavlja stručne i tehničke poslove koji se odnose na provođenje mjera zaštite na radu i zaštite od požara, sustavno unaprjeđuje sigurnost i zaštitu zdravlja radnika, radi na sprječavanju ozljeda na radu, profesionalnih bolesti i drugih bolesti u vezi s radom, upozorava na uočene nedostatke glede zaštite na radu, nadzire primjenu općih i posebnih pravila zaštite na radu, organizira osposobljavanja iz područja zaštite na radu, zašite od požara i osposobljavanje radnika za rad na siguran način, sudjeluje u izradi procjene rizika, obavlja poslove zaštite radnog okoliša, organizira deratizaciju, dezinsekciju, dezinfekciju radnih prostorija, ostale poslove vezane uz zaštitu na radu, zaštitu od požara, priprema i predlaže opće i pojedinačne akte iz svog djelokruga, predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svog djelokruga, priprema podatke iz svog djelokruga za stručne podloge za donošenje poslovnih odluka Ministarstva, te obavlja i druge poslove u okviru svog djelokruga.«.
