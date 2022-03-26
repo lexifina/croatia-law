@@ -1,0 +1,22 @@
+# Članak 4.
+Ministarstvo obavlja sljedeće:
+- poslove agencije za vezu
+- koordinira rad tijela uključenih u FADN
+- informira i koordinira rad Nacionalnog FADN odbora
+- koordinira izradu plana odabira (selekcijski plan) poljoprivrednika u reprezentativni uzorak za FADN istraživanje i dostavlja ga Europskoj Komisiji (u daljnjem tekstu: EK)
+- izrađuje plan organizacije i provedbe FADN istraživanja
+- izrađuje obrasce i upute za prikupljanje podataka u FADN istraživanju
+- obavlja poslove koordinacije i organizacije FADN istraživanja
+- izrađuje popis poljoprivrednika koji sudjeluju u FADN istraživanju
+- izrađuje popis knjigovodstvenih ureda koji su voljni i sposobni dostavljati podatke prikupljene FADN istraživanjem od poljoprivrednika
+- organizira prikupljanje podataka na reprezentativnom uzorku poljoprivrednika
+- obavlja kontrolu, obradu i verifikaciju prikupljenih podataka
+- upravlja bazom FADN podataka i FADN mrežnom stranicom
+- izračunava i objavljuje standardne rezultate FADN istraživanja,
+- izrađuje i dostavlja propisno ispunjena izvješća poljoprivrednika EK-i
+- izrađuje izvješća za nacionalne potrebe
+- koordinira izradu koeficijenta standardnog prinosa
+- koordinira i sudjeluje u izradi nacrta prijedloga zakonskih i podzakonskih akata u dijelu koji se odnosi na FADN te daje prijedloge za njihovo unaprjeđenje
+- prati zakonodavstvo EU-a u području FADN-a i tipologije poljoprivrednih gospodarstava u sklopu Zajedničke poljoprivredne politike EU-a
+- sudjeluje u radu tijela EK-e i Vijeća EU-a u dijelu koji se odnosi na FADN
+- planira, kontrolira i namjenski koristi doznačena novčana sredstva EK-e za razvoj i rad FADN sustava.

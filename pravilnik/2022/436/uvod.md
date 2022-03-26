@@ -1,0 +1,1 @@
+Na temelju članka 124. stavka 11. Zakona o poljoprivredi (»Narodne novine«, br. 118/18, 42/20, 127/20 - Odluka Ustavnog suda Republike Hrvatske i 52/21) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), ministrica poljoprivrede, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
