@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom članka 30. stavka 2. Etičkog kodeksa Sveučilišta u Zagrebu klasa: 012-03/07-03/2, urbroj: 380-07/1-09-5 od 15. svibnja 2007. (www.unizg.hr), te članaka I., II. i III. Odluke o izmjenama i dopunama Etičkog kodeksa Sveučilišta u Zagrebu klasa: 012-03/18-03/12, urbroj: 380/020/173-18-3 od 13. studenoga 2018. (www.unizg.hr).
