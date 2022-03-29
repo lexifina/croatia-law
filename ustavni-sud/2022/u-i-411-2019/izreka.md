@@ -1,0 +1,6 @@
+R J E Š E N J E
+I. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu formalne suglasnosti s Ustavom Zakona o izmjenama i dopunama Zakona o doprinosima ("Narodne novine" broj 106/18.).
+II. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 5. stavka 2. točke 2. i članka 7. točke 58. Zakona o doprinosima ("Narodne novine" broj 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16. i 106/18.).
+III. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 21. Zakona o doprinosima ("Narodne novine" broj 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16. i 106/18.).
+IV. Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 187.c, 187.d, 187.e, 187.f i 187.g Zakona o doprinosima ("Narodne novine" broj 84/08., 152/08., 94/09., 18/11., 22/12., 144/12., 148/13., 41/14., 143/14., 115/16. i 106/18.).
+V. Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 4. stavka 5., članka 11., članka 14., članka 27., članka 29., članka 42. stavka 1. i članka 44. Zakona o izmjenama i dopunama Zakona o doprinosima ("Narodne novine" broj 106/18.).
