@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 3. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Nad dužnikom koji je pravomoćno osuđen za kazneno djelo zlouporabe povjerenja u gospodarskom poslovanju, prijevare u gospodarskom poslovanju, prouzročenja stečaja, pogodovanja vjerovnika ili povrede obveze vođenja trgovačkih i poslovnih knjiga iz Kaznenog zakona Republike Hrvatske predstečajni postupak može se provesti samo ako je dužnik poduzeo primjerene mjere za otklanjanje problema koji su doveli do te osude te je o poduzetim mjerama i njihovim rezultatima obavijestio svoje vjerovnike tijekom pregovora o restrukturiranju i dao im detaljne informacije o poduzetim mjerama i njihovim rezultatima u prijedlogu za otvaranje predstečajnog postupka.«.

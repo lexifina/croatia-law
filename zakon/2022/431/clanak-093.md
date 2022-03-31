@@ -1,0 +1,6 @@
+# Članak 93.
+U članku 373. stavak 1. mijenja se i glasi:
+»(1) Prijedlog za oslobođenje od preostalih obveza dužnik može podnijeti zajedno s prijedlogom za otvaranje stečajnoga postupka. Ako dužnik nije bio podnositelj prijedloga za otvaranje stečajnog postupka, on može prijedlog za oslobođenje od preostalih obveza u otvorenom stečajnom postupku podnijeti najkasnije u roku od 15 dana nakon primitka upute iz članka 131. stavka 3. ovoga Zakona. Prijedlogu za oslobođenje od preostalih obveza dužnik je dužan priložiti javno ovjerovljenu izjavu o tome postoje li u njegovu slučaju okolnosti iz članka 373.a stavka 2. točaka 1. i 2. ovoga Zakona.«.
+U stavku 2. u prvoj rečenici riječi: »pet godina« zamjenjuju se riječima: »tri godine«, a riječi: »nakon zaključenja« zamjenjuju se riječima: »od otvaranja«. Iza druge rečenice dodaje se treća rečenica koja glasi: »Ako je dužniku već jednom dodijeljeno oslobođenje od preostalih obveza, vrijeme ustupa založivih tražbina iz radnog odnosa ili druge odgovarajuće tekuće tražbine u novom stečajnom postupku na temelju novog prijedloga za oslobođenje od preostalih obveza iznosi pet godina.«.
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+»(4) Stečajni vjerovnici mogu se očitovati o prijedlogu za oslobođenje od preostalih obveza dužnika do završnog ročišta.«.

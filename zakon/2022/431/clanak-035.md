@@ -1,0 +1,11 @@
+# Članak 35.
+Naslov iznad članka 62.a mijenja se i glasi: »Privremeno i novo financiranje«.
+Članak 62.a mijenja se i glasi:
+»(1) Dužnik može, uz suglasnost vjerovnika koji zajedno imaju više od dvije trećine pravomoćno utvrđenih tražbina, predložiti preuzimanje novog zaduženja u novcu od postojećeg ili novog vjerovnika radi privremenog financiranja koje je opravdano i hitno potrebno da bi se osigurao kontinuitet poslovanja i uvećala vrijednost imovine tijekom predstečajnoga postupka.
+(2) Suglasnost iz stavka 1. ovoga članka daje se u pisanom obliku najkasnije na ročištu za glasovanje o planu restrukturiranja.
+(3) Sud će u roku od tri dana od dostave prijedloga iz stavka 1. ovoga članka ispitati je li suglasnost dao potreban broj vjerovnika i je li zaduženje za privremeno financiranje opravdano i hitno potrebno da bi se osigurao kontinuitet poslovanja i uvećala vrijednost imovine tijekom predstečajnoga postupka.
+(4) Ako novo zaduženje radi privremenog financiranja ispunjava pretpostavke iz stavka 1. ovoga članka, sud će svojim rješenjem utvrditi iznose i uvjete zaduženja te rokove u kojima će se namirivati tražbine iz tog zaduženja.
+(5) Rješenje iz stavka 4. ovoga članka sud će bez odgode objaviti na mrežnoj stranici e-Oglasna ploča sudova. Protiv toga rješenja nije dopuštena posebna žalba.
+(6) Dužnik može u planu restrukturiranja predvidjeti novo financiranje od strane postojećeg ili novog vjerovnika, a koje je potrebno za provedbu plana restrukturiranja te neopravdano ne oštećuje interese vjerovnika, pri čemu je taj vjerovnik kao sudionik uključen u plan restrukturiranja.
+(7) Ako se naknadno nad dužnikom otvori stečajni postupak, tražbine vjerovnika s osnove privremenog financiranja iz stavka 1. ovoga članka i tražbine vjerovnika s osnove novog financiranja iz stavka 6. ovoga članka namirit će se prije ostalih stečajnih vjerovnika, osim vjerovnika prvoga višega isplatnog reda.
+(8) Ako se naknadno nad dužnikom otvori stečajni postupak, privremeno financiranje iz stavka 1. ovoga članka i novo financiranje iz stavka 6. ovoga članka ne mogu se pobijati i davatelji takvih financiranja ne podliježu odgovornosti s obrazloženjem da ono šteti sveukupnosti vjerovnika, osim ako se utvrdi da bi bilo riječi o povredi načela savjesnosti i poštenja, sukobu interesa davatelja osiguranja ili kaznenom djelu.«.
