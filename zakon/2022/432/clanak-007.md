@@ -1,0 +1,9 @@
+# Članak 7.
+Iza članka 43. dodaje se naslov iznad članka i članak 43 a. koji glase:
+»Postupanje Financijske agencije s rješenjima iz redovnog postupka stečaja potrošača
+Članak 43.a
+(1) Od dana primitka nepravomoćnog rješenja o otvaranju postupka stečaja potrošača odnosno nepravomoćnog rješenja o otvaranju i zaključenju postupka stečaja potrošača Financijska agencija prestaje izvršavati sve osnove za plaćanje evidentirane u Očevidniku redoslijeda osnova za plaćanje na teret potrošača.
+(2) Od dana primitka rješenja iz stavka 1. ovoga članka do dana primitka pravomoćnog rješenja o obustavi postupka stečaja potrošača, pravomoćnog rješenja o uskrati oslobođenja od preostalih obveza ili pravomoćnog rješenja o oslobođenju od preostalih obveza Financijska agencija nove osnove za plaćanje neće upisivati u Očevidnik redoslijeda osnova za plaćanje.
+(3) Od dana primitka pravomoćnog rješenja o uskrati oslobođenja od preostalih obveza odnosno pravomoćnog rješenja o obustavi postupka stečaja potrošača Financijska agencija će nastaviti s provedbom ovrhe na novčanim sredstvima po računu potrošača po svim osnovama za plaćanje iz stavka 1. ovoga članka.
+(4) Od dana primitka pravomoćnog rješenja o oslobođenju od preostalih obveza Financijska agencija trajno prestaje izvršavati osnove za plaćanje iz stavka 1. ovoga članka. U slučaju zaprimanja osnove za plaćanje koja je izdana odnosno donesena prije otvaranja postupka stečaja potrošača i zaprimanja osnove za plaćanje za koju je potrošač oslobođen preostalih obveza, Financijska agencija iste vraća podnositelju uz obrazloženje.
+(5) Od dana primitka pravomoćnog rješenja o opozivu oslobođenja od preostalih obveza Financijska agencija će osnove za plaćanje iz stavka 1. ovoga članka ponovno započeti izvršavati onim redoslijedom kojim su bile upisane u Očevidnik redoslijeda osnova za plaćanje prije otvaranja postupka stečaja potrošača.«.
