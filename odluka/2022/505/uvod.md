@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 47.b Zakona o gradnji (»Narodne novine«, br. 153/13., 20/17., 39/19. i 125/19.), Vlada Republike Hrvatske je na sjednici održanoj 31. ožujka 2022. donijela
