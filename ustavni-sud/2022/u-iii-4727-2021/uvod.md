@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za odlučivanje o ustavnim tužbama u sastavu sutkinja Ingrid Antičević Marinović, predsjednica Vijeća, te suci Mato Arlović, Snježana Bagić, Davorin Mlakar, Rajko Mlinarić i Miroslav Šumanović, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenuo T. I. iz S., na sjednici održanoj 31. ožujka 2022. jednoglasno je donio
