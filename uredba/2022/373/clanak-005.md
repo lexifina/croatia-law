@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Zavod će putem ministarstva nadležnog za poslove socijalne skrbi dostavljati u elektronskom obliku svakog prvog dana u mjesecu Financijskoj agenciji podatke o korisnicima koji su na taj dan, na temelju rješenja iz članka 2. stavka 4. ove Uredbe, evidentirani kao korisnici prava na naknadu za ugroženog kupca energenata.
+(2) Zavod će putem ministarstva nadležnog za poslove socijalne skrbi dostavljati Financijskoj agenciji na dnevnoj osnovi, u elektronskom obliku, podatke o novim korisnicima prava na naknadu za ugroženog kupca energenata kojima je nakon prvog dana u mjesecu rješenjem priznato pravo te izmijenjene podatke o postojećim korisnicima prava na naknadu za ugroženog kupca energenata.
+(3) Prava i obveze ministarstva nadležnog za poslove socijalne skrbi i Financijske agencije u provođenju ove Uredbe detaljnije će se urediti međusobnim sporazumom.
+(4) Financijska agencija omogućit će iskorištavanje prava na subvenciju troškova energije pod uvjetom da je od Zavoda dobila podatak da je korisniku priznato pravo na naknadu za ugroženog kupca energenata u skladu s odredbama ovoga članka.

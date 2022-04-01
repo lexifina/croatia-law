@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Korisniku prava na osobnu invalidninu koji je istovremeno i korisnik prava na zajamčenu minimalnu naknadu, prava na nacionalnu naknadu za starije osobe, prava na novčanu naknadu za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji ili prava na novčanu naknadu za civilne stradalnike iz Domovinskog rata može biti priznato pravo na naknadu za ugroženog kupca energenata samo po jednoj osnovi.
+(2) Ako u kućanstvu žive dva ili više članova kućanstva koji su korisnici jednog ili više prava iz stavka 1. ovoga članka, kućanstvo može ostvariti pravo na naknadu za ugroženog kupca energenata samo po jednoj osnovi.
+(3) Pod kućanstvom u smislu stavka 2. ovoga članka smatra se zajednica osoba koje zajedno žive i podmiruju troškove života, sukladno propisu koji uređuje područje socijalne skrbi.
