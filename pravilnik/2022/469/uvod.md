@@ -1,0 +1,1 @@
+Na temelju članka 224. stavka 14. Zakona o autorskom pravu i srodnim pravima (»Narodne novine«, br. 111/21) ministrica kulture i medija, uz prethodnu suglasnost glavne ravnateljice Državnog zavoda za intelektualno vlasništvo, donosi
