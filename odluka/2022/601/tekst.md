@@ -1,0 +1,105 @@
+Đakovački vodovod d.o.o.
+
+601
+
+Na temelju čl. 52. Zakona o financiranju vodnog gospodarstva (»Narodne novine«, 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) i članka 23. stavak 1. Zakona o vodnim uslugama (»Narodne novine«, 66/19) i članka 20. Društvenog ugovora o preoblikovanju poduzeća komunalne djelatnosti »Đakovački vodovod« javnog poduzeća u društvo s ograničenom odgovornošću, i usklađenju općih akata i temeljnog kapitala sa zakonom o trgovačkim društvima, Skupština Društva Đakovački vodovod d.o.o., na sjednici održanoj 6. travnja 2022. godine donijela je
+
+ODLUKU
+
+O NAKNADI ZA RAZVOJ
+
+Članak 1.
+
+Ovom Odlukom uvodi se obveza plaćanja naknade za razvoj na području nadležnosti javnog isporučitelja vodnih usluga Đakovački vodovod d.o.o. (u daljnjem tekstu: Isporučitelj) te se utvrđuju: obveznici plaćanja, osnovica plaćanja, visina naknade, način i rokove uplate, namjena prihoda od naknade, izuzeća te nadzor obračuna i naplate naknade za razvoj.
+
+Članak 2.
+
+Naknada za razvoj obračunava se i naplaćuje, uz suglasnosti gradonačelnika Grada Đakova načelnika općina, na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani uz cijenu vodne usluge.
+
+Članak 3.
+
+Obveznici plaćanja naknade za razvoj su svi korisnici javnih vodnih usluga na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani.
+
+Članak 4.
+
+Osnovica za obračun naknade za razvoj je jedinica mjere isporučene vodne usluge javne vodoopskrbe odnosno jedan metar kubni isporučene vode 1 m<sup>3</sup>.
+
+Naknada za razvoj na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani jednaka je za sve kategorije korisnika i iznosi 2,00 kn/m<sup>3</sup> isporučene vode.
+
+Naknada za razvoj utvrđena je u jednakoj visini na cijelom području.
+
+Iznimno, ako Isporučitelj oslobodi korisnika plaćanja dijela vodne usluge za količinu vode iznad 200 m<sup>3</sup> u slučajevima kvara na internoj vodovodnoj mreži uzrokovanog višom silom u jednom obračunskom razdoblju, naknada za razvoj će se obračunati na osnovi prosječne potrošnje vode u prethodne dvije godine.
+
+Članak 5.
+
+Naknada za razvoj se obračunava i naplaćuje putem računa za vodne usluge koje korisnicima ispostavlja Isporučitelj i iskazuje se kao zasebna stavka.
+
+Način i rokovi plaćanja naknade za razvoj se određuju u skladu s Odlukom o cijeni vodnih usluga koju donosi Isporučitelj.
+
+Članak 6.
+
+Naknada za razvoj je prihod Isporučitelja.
+
+Prihod od Naknade za razvoj koja se plaća na području jedinice lokalne samouprave koristi se za dijelove sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe isključivo korisnicima vodnih usluga na području te jedinice lokalne samouprave, sukladno planu gradnje komunalnih vodnih građevina.
+
+Prihodi od naknade za razvoj će se koristiti za financiranje:
+
+1. za sufinanciranje troškova izgradnje komunalnih vodnih građevina u investicijama EU projekata,
+
+2. za sufinanciranje izgradnje sustava javne vodoopskrbe i odvodnje na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani,
+
+3. za sufinanciranje izgradnje (rekonstrukcije i sanacije) mjesnih mreža na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani,
+
+4. za sufinanciranje izgradnje (rekonstrukcije i sanacije) magistralnih i glavnih cjevovoda i drugih građevina na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani,
+
+5. za izradu projektne i tehničke dokumentacije i troškove stručnog nadzora na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani,
+
+6. za rješavanje imovinsko-pravnih odnosa, otkup i uređenje zemljišta potrebnog za izgradnju vodnih građevina, te radi zaštite izvorišta u zonama sanitarne zaštite na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani,
+
+7. gradnje ostalih komunalnih vodnih građevina sukladno planu gradnje komunalnih vodnih građevina na području Grada Đakova i općina: Satnica Đakovačka, Semeljci, Viškovci, Strizivojna, Trnava, Punitovci, Levanjska Varoš i Gorjani.
+
+Prioritet u financiranju imaju investicije iz stavka 2. točke 1. i točke 2. ovog članka.
+
+Članak 7.
+
+Isporučitelj je obvezan evidentirati obračunata i prikupljena (naplaćena) sredstva naknade za razvoj na posebnoj poziciji u poslovnim knjigama na posebnom kontu – poziciji, a utrošak prikupljenih sredstava koristi se za financiranje izgradnje objekata iz članka 6. ove Odluke.
+
+Isporučitelj je obvezan skupštini dostaviti godišnje izvješće o obračunatim, prikupljenim (naplaćenim) i utrošenim sredstvima naknade za razvoj.
+
+Članak 8.
+
+Nadzor nad obračunom i naplatom naknade za razvoj obavlja Skupština Isporučitelja na temelju dostavljenog izvješća iz članka 7. ove Odluke.
+
+Članak 9.
+
+Prikupljena (naplaćena) sredstva naknade za razvoj na temelju ranije donesene Odluke o naknadi za razvoj javne vodoopskrbe i javne odvodnje, na području Grada Đakova (Službeni glasnik Grada Đakova broj 8/13 i 10/13), a neutrošena do dana primjene ove Odluke, koristit će se za sufinanciranje troškova izgradnje komunalnih vodnih građevina u investicijama EU projekata, te za gradnju komunalnih vodnih građevina sukladno planovima gradnje komunalnih vodnih građevina i sklopljenim ugovorima o financiranju s jedinicama lokalne samouprave.
+
+Članak 10.
+
+Danom primjene ove Odluke prestaje važiti:
+
+– Odluka o naknadi za razvoj javne vodoopskrbe i javne odvodnje, na području Grada Đakova (Službeni glasnik Grada Đakova broj 8/13 i 10/13).
+
+Članak 11.
+
+Ova se Odluka dostavlja Vijeću za vodne usluge u roku od 5 dana od donošenja.
+
+Članak 12.
+
+Odluka o naknadi za razvoj donosi se za razdoblje važenja plana gradnje komunalnih vodnih građevina.
+
+Članak 13.
+
+Ova Odluka stupa na snagu prvi dan nakon donošenja, a primjenjuje se od 1. svibnja 2022. godine.
+
+Ova Odluka objavljuje se u »Narodnim novinama« i na internetskim stranicama Isporučitelja.
+
+Urbroj: 438/2022
+
+Đakovo, 6. travnja 2022.
+
+Predsjednik Skupštine
+
+Đakovački vodovod d.o.o.
+
+Marin Mandarić, dipl. oec., v. r.
