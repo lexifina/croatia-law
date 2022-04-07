@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Granicu područja naselja određuje odlukom predstavničko tijelo jedinice lokalne samouprave po prethodno pribavljenom mišljenju vijeća mjesnog odbora odnosno drugog oblika mjesne samouprave koji se nalazi na području naselja na kojem se mijenja granica odnosno na području naselja koje se spaja ili razdvaja i nadležnog zavoda za prostorno uređenje županije odnosno Grada Zagreba.
+(2) U jedinici lokalne samouprave u kojoj nisu ustrojeni oblici mjesne samouprave odluku iz stavka 1. ovoga članka predstavničko tijelo donosi po prethodno pribavljenom mišljenju građana s područja naselja na kojem se mijenja granica odnosno područja naselja koje se spaja ili razdvaja i nadležnog zavoda za prostorno uređenje županije odnosno Grada Zagreba.
+(3) Odluka iz stavka 1. ovoga članka mora biti u skladu s propisom kojim se uređuje prostorno uređenje.
+(4) Sastavni dio odluke iz stavka 1. ovoga članka je službena podloga iz registra prostornih jedinica na kojoj su prikazane granice i imena naselja prije donošenja odluke i granice i imena naselja kako se predlažu odlukom.
+(5) O odluci iz stavka 1. ovoga članka jedinica lokalne samouprave obavještava tijelo nadležno za vođenje registra prostornih jedinica najkasnije u roku od osam dana od dana objave te odluke u službenom glasilu.
+(6) Odlukom iz stavka 1. ovoga članka određuju se i troškovi za provedbu odluke na strani jedinica lokalne samouprave i osoba koje imaju prebivalište ili boravište odnosno sjedište na području na koje se promjene odnose te se određuje način njezine provedbe.
+(7) Jedinica lokalne samouprave može donijeti i posebnu odluku o troškovima za provedbu odluke iz stavka 1. ovoga članka i odrediti način njezine provedbe.

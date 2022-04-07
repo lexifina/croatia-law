@@ -1,0 +1,10 @@
+# Članak 7.
+(1) Ime naselja, ulice i trga određuje odlukom predstavničko tijelo jedinice lokalne samouprave po prethodno pribavljenom mišljenju vijeća mjesnog odbora odnosno drugog oblika mjesne samouprave koji se nalazi na području na kojem se određuje ili mijenja ime naselja, ulice i trga.
+(2) U jedinici lokalne samouprave u kojoj nisu ustrojeni oblici mjesne samouprave odluku iz stavka 1. ovoga članka predstavničko tijelo donosi po prethodno pribavljenom mišljenju građana s područja na kojem se određuje ili mijenja ime naselja, ulice i trga.
+(3) Imena naselja, ulica i trgova moraju biti usklađena s prethodno pribavljenim mišljenjem Povjerenstva Vlade Republike Hrvatske za standardizaciju geografskih imena.
+(4) Povjerenstvo iz stavka 3. ovoga članka dužno je dati mišljenje u roku od 30 dana od dana primitka prijedloga imena naselja, ulice ili trga.
+(5) Iznimno od roka iz stavka 4. ovoga članka, u slučaju teže dostupnosti građe potrebne za analizu prijedloga imena naselja, ulice ili trga, povjerenstvo iz stavka 3. ovoga članka dužno je dati mišljenje u roku od 60 dana od dana primitka prijedloga imena naselja, ulice ili trga.
+(6) Sastavni dio odluke iz stavka 1. ovoga članka je službena podloga iz registra prostornih jedinica na kojoj su prikazana imena naselja, ulica i trgova prije donošenja odluke i imena naselja, ulica i trgova kako se predlažu odlukom.
+(7) O odluci iz stavka 1. ovoga članka jedinica lokalne samouprave obavještava tijelo nadležno za vođenje registra prostornih jedinica najkasnije u roku od osam dana od dana objave te odluke u službenom glasilu.
+(8) Odlukom iz stavka 1. ovoga članka određuju se i troškovi za provedbu odluke na strani jedinica lokalne samouprave i osoba koje imaju prebivalište ili boravište odnosno sjedište na području na koje se promjene odnose te se određuje način njezine provedbe.
+(9) Jedinica lokalne samouprave može donijeti i posebnu odluku o troškovima za provedbu odluke iz stavka 1. ovoga članka i odrediti način njezine provedbe.
