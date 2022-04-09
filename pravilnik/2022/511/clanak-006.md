@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Ministarstvo po službenoj dužnosti, za zadruge upisane u Evidenciju, najmanje jednom u kalendarskoj godini, obavlja uvid u stanje upisa u sudskom registru na internetskim stranicama ministarstva nadležnog za pravosuđe, što će se evidentirati na odgovarajući način.
+(2) Ako je prilikom uvida u sudski registar iz stavka 1. ovog članka uočeno da postoji nesklad između podataka upisanih u službenu evidenciju Ministarstva i podataka upisanih u sudskom registru iz stavka 1. ovoga članka, Ministarstvo će na odgovarajući način ažurirati podatke upisane u Evidenciju.
+(3) U slučaju iz stavka 2. ovog članka, Ministarstvo može od zadruge zatražiti dodatne informacije u svezi uočenog nesklada između podataka upisanih u Evidenciju i podataka upisanih u sudskom registru iz stavka 1. ovog članka.
