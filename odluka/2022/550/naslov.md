@@ -1,0 +1,1 @@
+Odluka o prestanku važenja Odluke o uvođenju posebne sigurnosne mjere obveznog predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti COVID-19 prilikom prijema pacijenata u prostorima zdravstvenih ustanova, trgovačkih društava koja obavljaju zdravstvenu djelatnost i privatnih zdravstvenih djelatnika
