@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaćaju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom i zakonom dijela članka 177. stavka 3. Sudskog poslovnika. ("Narodne novine" broj 37/14., 49/14., 8/15., 35/15., 123/15., 45/16., 29/17., 33/17., 34/17., 57/17., 101/18., 119/18., 81/19., 128/19., 39/20., 47/20., 138/20., 147/20., 70/21. i 99/21.), koji glasi: "nakon što je predmet vraćen iz službe za praćenje i evidentiranje sudske prakse. Služba za praćenje i evidentiranje sudske prakse dužna je u što kraćem roku od dana prijama spisa isti vratiti u referadu suca".
