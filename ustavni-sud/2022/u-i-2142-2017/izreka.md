@@ -1,0 +1,2 @@
+R J E Š E N J E
+Odbacuju se prijedlozi za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 22. stavaka 3. i 5. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi ("Narodne novine" broj 87/08., 86/09., 92/10., 105/10., 90/11., 5/12., 16/12., 86/12. i 94/13.).
