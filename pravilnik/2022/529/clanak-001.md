@@ -1,0 +1,5 @@
+## 1. UVODNE ODREDBE
+## Područje primjene i svrha
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuje se opseg i sadržaj Plana i programa mjera u slučaju izvanrednog događaja, obveza, učestalost i rokovi provjere učinkovitosti te način, opseg i rokovi izvješćivanja javnosti i nadležnih tijela.
+(2) Obveza donošenja Plana i programa u slučaju izvanrednog događaja obuhvaća nositelje odobrenja za obavljanje nuklearne djelatnosti te nositelje uporabne dozvole za nuklearno postrojenje, nositelje odobrenja za djelatnosti s radioaktivnim izvorima i djelatnosti zbrinjavanja radioaktivnog otpada i iskorištenih izvora koje uključuju radioaktivne izvore 1., 2. ili 3. kategorije, visokoaktivne zatvorene radioaktivne izvore te ostale radioaktivne izvore za koje je obvezno ishođenje odobrenja za obavljanje djelatnosti u smislu pravilnika kojim se propisuje obavješćivanje, registriranje i odobrenja te promet izvorima ionizirajućeg zračenja i pravilnika kojim se propisuje zbrinjavanje radioaktivnog otpada i iskorištenih izvora.
