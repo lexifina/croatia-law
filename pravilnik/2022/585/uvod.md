@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. podstavaka 3., 7. i 9., članka 13. stavka 2. i članka 26. stavka 11. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17, 130/17 - Zakon o akvakulturi i 14/19), ministrica poljoprivrede donosi
