@@ -1,0 +1,8 @@
+## Stručna osposobljenost za obavljanje energetske djelatnosti
+# Članak 6.
+(1) Stručno je osposobljena za obavljanje energetske djelatnosti pravna ili fizička osoba koja zapošljava dovoljan broj stručno osposobljenih radnika za obavljanje energetske djelatnosti.
+(2) Pod stručno osposobljenim radnicima iz stavka 1. ovoga članka smatraju se osobe koje s pravnom ili fizičkom osobom koja je podnijela zahtjev za izdavanje dozvole za obavljanje energetske djelatnosti imaju sklopljen ugovor o radu.
+(3) Za potrebe utvrđivanja dovoljnog broja stručno osposobljenih radnika iz stavka 1. ovoga članka, kod pravnih ili fizičkih osoba koje obavljaju ili namjeravaju obavljati više energetskih djelatnosti mogu se uzeti u obzir i stručno osposobljeni radnici iz stavka 2. ovoga članka koji poslove za potrebe energetske djelatnosti za koju se traži izdavanje ili produženje dozvole obavljaju u razmjernom dijelu svog ukupnog radnog vremena ovisno o svrsi i potrebama predmetne energetske djelatnosti.
+(4) Pravna ili fizička osoba dužna je uz zahtjev za izdavanje dozvole za obavljanje energetske djelatnosti dostaviti Agenciji sve važeće ugovore s drugim pravnim subjektima koji imaju utjecaja na stručnu osposobljenost pravne ili fizičke osobe za obavljanje energetske djelatnosti, u skladu s drugim energetskim zakonima.
+(5) Odredba stavka 3. ovoga članka ne primjenjuje se ako tvrtka namjerava obavljati i regulirane i tržišne energetske djelatnosti sukladno drugim energetskim zakonima.
+(6) U slučaju ishođenja dozvole iz odredbe članka 4. stavka 3. ovoga Pravilnika smatra se da pravna ili fizička osoba ispunjava uvjete stručne osposobljenosti.

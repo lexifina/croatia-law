@@ -1,0 +1,6 @@
+## Tehnička kvalificiranost za obavljanje energetske djelatnosti
+# Članak 5.
+(1) Tehnički kvalificirana za obavljanje energetske djelatnosti je pravna ili fizička osoba koja u smislu propisa kojima se uređuje područje prostornog uređenja i gradnje ima građevinu, postrojenja i/ili opremu, te potrebne isprave prema propisima kojima se uređuje područje prostornog uređenja i gradnje na temelju kojih se građevina, postrojenja i/ili oprema može koristiti, staviti u pogon, odnosno na temelju kojih se može obavljati energetska djelatnost, i/ili ima informacijsko-telekomunikacijsku opremu i sustav te drugu opremu za obavljanje energetske djelatnosti.
+(2) Pravna ili fizička osoba može građevinu, postrojenja, opremu i/ili sustav iz stavka 1. ovoga članka imati u svom vlasništvu ili ih koristiti na temelju ugovora o zakupu ili drugog ugovora zaključenog s vlasnikom.
+(3) Pravna ili fizička osoba dužna je uz zahtjev za izdavanje dozvole za obavljanje energetske djelatnosti dostaviti Agenciji sve važeće ugovore s drugim pravnim subjektima koji imaju utjecaja na tehničku kvalificiranost pravne ili fizičke osobe za obavljanje energetske djelatnosti, u skladu s drugim energetskim zakonima.
+(4) U slučaju ishođenja dozvole iz odredbe članka 4. stavka 3. ovoga Pravilnika smatra se da pravna ili fizička osoba ispunjava uvjete tehničke kvalificiranosti.

@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Izrazi koji se koriste u ovom Pravilniku imaju značenja utvrđena propisom kojim se regulira energetski sektor i propisom kojim se regulira regulacija energetskih djelatnosti.
+(2) Izrazi koji se koriste u ovom Pravilniku imaju značenja utvrđena i propisom kojim se regulira tržište električne energije, propisom kojim se regulira tržište plina, propisom kojim se regulira tržište toplinske energije, propisom kojim se regulira tržište nafte i naftnih derivata, propisom kojim se reguliraju biogoriva za prijevoz, propisom kojim se regulira energetska učinkovitosti te propisom kojim se regulira područje obnovljivih izvora energije (u daljnjem tekstu: drugi energetski zakoni).
