@@ -1,0 +1,3 @@
+# Članak 2.
+Standardni operativni postupci (dalje u tekstu: SOP) su protokoli namijenjeni vatrogascima s ciljem razrade poduzimanja radnji i djelovanja na vatrogasnim intervencijama na kojima sudjeluju vatrogasne snage.
+SOP ne zamjenjuju operativno taktičke postupke koji su izrađeni za konkretnu građevinu jer su oni namijenjeni za grafičku prezentaciju informacije o specifičnoj građevini, specifičnim opasnostima u samoj građevini, vrsti i količini opasnih tvari te postupanju s njima i ugrađenoj sigurnoj opremi i uređajima koje vatrogasci trebaju koristiti na vatrogasnoj intervenciji te da vatrogasci mogu procijeniti situaciju na temelju svojstava zgrade i trenutnog položaj građevine.
