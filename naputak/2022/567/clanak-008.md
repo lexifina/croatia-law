@@ -1,0 +1,4 @@
+## OBVEZNICI UPISA
+# Članak 8.
+(1) Pravo i obvezu upisa u Registar imaju subjekti poduzetničke infrastrukture u Republici Hrvatskoj koji su korisnici potpora, poticajnih mjera, darovnica ili povlastica odobrenih od nadležnog ministarstva za gospodarstvo i održivi razvoj u Republici Hrvatskoj, ostalih tijela državne uprave ili jedinica lokalne i područne (regionalne) samouprave, uključujući darovanje nekretnina u vlasništvu Republike Hrvatske, ostalih tijela nadležnih za odobravanje potpora, poticajnih mjera, darovnica ili povlastica iz Republike Hrvatske, Europske unije ili drugih inozemnih, odnosno međunarodnih tijela koja odobravaju potpore, poticajne mjere, darovnice ili povlastice.
+(2) Pravo upisa u Registar imaju i subjekti poduzetničke infrastrukture koji nisu korisnici potpora ministarstva nadležnog za gospodarstvo i održivi razvoj, ali imaju namjeru koristiti potpore počevši od godine u kojoj dostavljaju podatke u Registar.

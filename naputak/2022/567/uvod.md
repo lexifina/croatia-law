@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 5. Zakona o unapređenju poduzetničke infrastrukture (»Narodne novine«, br. 93/13., 114/13., 41/14., 57/18. i 138/21., u daljnjem tekstu: Zakon) ministar gospodarstva i održivog razvoja donosi

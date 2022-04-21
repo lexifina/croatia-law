@@ -1,0 +1,8 @@
+# Članak 7.
+Registar sadrži sljedeće posebne podatke o poduzetničkim potpornim institucijama (dalje PPI):
+a) podatke o ustroju i broju zaposlenih u PPI-u, relevantnim referencama
+b) podatke o sjedištu i poslovnim jedinicama PPI-a, ukupnoj površini PPI-a (m²), površini poslovnog prostora za poduzetnike (m²), površini radnog prostora za poduzetnike (m²)
+c) podatke o vrsti usluga koje PPI pruža poduzetnicima, o poslovima i vrsti usluga koje obavlja za osnivača, o broju prisutnih poduzetnika u PPI-u, djelatnosti poduzetnika u PPI-u, broju zaposlenih po poduzetniku u PPI-u, površini zauzetosti PPI-a po pojedinom poduzetniku
+d) podatke o godišnjem planu rada PPI-a usmjerenog na razvoj poduzetništva i na operativno pružanje podrške poduzetnicima, podatci o pružanju usluga poduzetnicima na nekomercijalnoj osnovi te izvješća o provedbi prethodnih godišnjih planova rada te izvješća (sažetci) o provedenim projektima
+e) podatke o suradnji s drugim subjektima poduzetničke infrastrukture u RH, umreženosti i međunarodnoj suradnji
+f) podatke o ulaganjima u izgradnju i/ili razvoj PPI-a: darovanje nekretnina u vlasništvu RH za PPI (datum ugovora o darovanju, površina darovane nekretnine, vrijednost darovane nekretnine, rok privođenja namjeni, privedeno namjeni), bespovratne potpore za PPI iz državnog proračuna putem nadležnog ministarstva (broj primljenih potpora, godine primanja potpora, ukupna vrijednost potpora, namjena potpora / naziv projekta), bespovratne potpore za PPI iz EU fondova (broj potpora, godine primanja potpora, ukupna vrijednost potpora, namjena potpora/naziv projekta), bespovratne potpore za PPI iz ostalih izvora (naziv izvora, broj potpora, godine primanja potpora, ukupna vrijednost potpora, namjena potpora/naziv projekta).
