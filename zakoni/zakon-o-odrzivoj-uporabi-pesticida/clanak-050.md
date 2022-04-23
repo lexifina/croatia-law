@@ -1,0 +1,6 @@
+## Uvjeti za distributera
+# Članak 50.
+Ovisno o svojim obvezama, u pogledu razine kvalifikacije i izobrazbe distributer mora imati:
+– za distributera – prodavača završenu kvalifikaciju na razini 4.2. Hrvatskog kvalifikacijskog okvira (HKO-a) u sektoru Poljoprivreda, prehrana i veterina, podsektor Poljoprivreda smjera poljoprivredni tehničar – fitofarmaceut ili poljoprivredni tehničar, uz najmanje 90 sati iz područja zaštite bilja položenih u okviru redovitog školovanja ili naknadno položenih u okviru cjeloživotnog obrazovanja ili drugog oblika nastave za srednje škole
+– iznimno za distributera – prodavača završenu najmanje kvalifikaciju na razini 4.1. HKO-a u sektoru Poljoprivreda, prehrana i veterina, podsektor Poljoprivreda i sektor Šumarstvo i drvna tehnologija, podsektor Šumarstvo s odslušanim predmetima iz zaštite bilja, uz uvjet da je bio zaposlen u specijaliziranoj prodavaonici na poslovima čuvanja i izdavanja pesticida i davanja uputa o njihovoj stručnoj primjeni do 31. prosinca 2012.
+– za djelatnike u distribuciji koji skladište, prevoze i izdaju pesticide završenu najmanje kvalifikaciju na razini 4.1. HKO-a u sektoru Poljoprivreda, prehrana i veterina, podsektor Poljoprivreda i sektor Šumarstvo i drvna tehnologija, podsektor Šumarstvo.

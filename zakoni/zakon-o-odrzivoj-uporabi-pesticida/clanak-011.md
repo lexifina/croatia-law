@@ -1,0 +1,6 @@
+## Virtualna učionica
+# Članak 11.
+(1) Zbog posebnih okolnosti odnosno događaja ili određenog stanja koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, ministar će naredbom osigurati da provoditelji izobrazbe provode izobrazbu na daljinu pomoću online predavanja odnosno virtualne učionice u razdoblju dok traju posebne okolnosti.
+(2) Zbog posebnih okolnosti ministar može naredbom osigurati da se Potvrda o završenoj izobrazbi na zahtjev polaznika izobrazbe administrativno produži zbog nemogućnosti virtualnog pohađanja izobrazbe u razdoblju dok traju posebne okolnosti, a koje se odnosi na polaznike koji ne posjeduju internetsku vezu ili računalo.
+(3) Polaznici kojima je potvrda administrativno produžena dužni su po isteku posebnih okolnosti završiti izobrazbu iz članka 10. stavka 2. ovoga Zakona.
+(4) Način izvođenja nastave u virtualnoj učionici, način administrativnog produženja potvrde o završenoj izobrazbi, način online polaganja ispita, način generiranja ispitnih pitanja za online polaganje ispita te način rada virtualnih učionica propisuje ministar pravilnikom.

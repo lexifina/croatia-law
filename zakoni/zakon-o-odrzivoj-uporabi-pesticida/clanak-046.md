@@ -1,0 +1,12 @@
+## Uvjeti za distributere pesticida u pogledu zaposlenika
+# Članak 46.
+(1) Distributeri pesticida moraju imati zaposlenike koji imaju potvrdu/iskaznicu/vjerodajnicu kako bi sve aktivnosti u sustavu distribucije i/ili prodaje pesticida mogli obavljati u skladu s propisanim uvjetima te nesmetano ispunjavati svoje propisane obveze.
+(2) Distributer pesticida mora imati u radnom odnosu s punim radnim vremenom na neodređeno vrijeme zaposlenika u svojstvu odgovorne osobe za rad s pesticidima.
+(3) U slučaju duže odsutnosti odgovorne osobe, poslove odgovorne osobe može obavljati drugi zaposlenik zaposlen na neodređeno ili određeno vrijeme koji ispunjava uvjete iz članka 47. stavaka 1. i 2. i članka 48. stavaka 1. i 2. ovoga Zakona ili distributer pesticida mora do povratka odgovorne osobe zaposliti drugu osobu koja ispunjava propisane uvjete.
+(4) Distributer pesticida u svakoj specijaliziranoj prodavaonici mora imati u radnom odnosu s punim radnim vremenom zaposlenike u svojstvu distributera – prodavača osposobljene za poslove prodavača pesticida u skladu s odredbom članka 50. podstavaka 1. i 2. ovoga Zakona, osim na onim prodajnim mjestima gdje prodaju i savjetovanje obavljaju odgovorne osobe ili savjetnici.
+(5) Ako distributer pesticida ima više specijaliziranih prodavaonica, na svake tri specijalizirane prodavaonice uz djelatnike distributere – prodavače mora imati u radnom odnosu s punim radnim vremenom najmanje jednog zaposlenika u svojstvu savjetnika, osim u onoj specijaliziranoj prodavaonici gdje savjete daje odgovorna osoba za rad s pesticidima.
+(6) Raspored prisutnosti savjetnika distributer pesticida obvezan je staviti na vidljivo mjesto u specijaliziranoj prodavaonici ili drugom prodajnom mjestu na kojem se pesticidi prodaju ili izdaju krajnjim korisnicima.
+(7) Radno vrijeme savjetnika iz stavaka 5. i 6. ovoga članka mora biti u punom radnom vremenu raspoređeno na specijalizirane prodavaonice za koje je zadužen.
+(8) U specijaliziranim prodavaonicama koje rade u dvije smjene i imaju tri ili više zaposlenika jedan od zaposlenika mora biti u svojstvu savjetnika.
+(9) Zaposlenici iz stavaka 1. do 5. ovoga članka moraju biti na mjestu prodaje u vrijeme prodaje kako bi kupcima pružili odgovarajuće informacije o uporabi pesticida, o zdravstvenim i ekološkim rizicima, kao i sigurnosne upute za sprječavanje opasnosti od rukovanja i uporabe pesticida te drugim ograničenjima uporabe.
+(10) Izgled, sadržaj obrasca o rasporedu prisutnosti savjetnika te način objave propisuje ministar pravilnikom.

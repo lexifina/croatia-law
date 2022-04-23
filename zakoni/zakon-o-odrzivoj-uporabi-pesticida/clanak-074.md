@@ -1,0 +1,4 @@
+## Postupanje u slučaju nesreće i opasnosti
+# Članak 74.
+(1) U slučaju nesreće u kojoj je ugroženo zdravlje ljudi, životinja ili okoliš, profesionalni korisnici moraju postupiti u skladu s uputama na etiketi ili sigurnosno-tehničkom listu te o nesreći bez odgađanja, a najkasnije u roku od jednog dana, obavijestiti tijelo državne uprave nadležno za zaštitu i spašavanje.
+(2) Ako profesionalni korisnik tijekom ili nakon tretiranja uoči opasnost ili neželjeno djelovanje pesticida ili ostataka pesticida na zdravlje ljudi, životinja, okoliš, tretirane usjeve ili usjeve koji slijede u plodoredu, mora o tome bez odgađanja, a najkasnije u roku od 24 sata, obavijestiti nadležnog poljoprivrednog inspektora koji o tome u roku od 24 sata obavještava Ministarstvo, Hrvatski zavod za javno zdravstvo i Hrvatske vode.

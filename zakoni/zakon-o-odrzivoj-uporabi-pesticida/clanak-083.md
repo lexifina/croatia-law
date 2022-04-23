@@ -1,0 +1,7 @@
+## Pokazatelji rizika
+# Članak 83.
+(1) Za potrebe procjene napretka smanjenja rizika od uporabe pesticida na okoliš i zdravlje ljudi i životinja te za praćenje napretka postizanja općih i posebnih ciljeva NAP-a, kao i za upravljanje rizikom na nacionalnoj razini i za potrebe obrade podataka i izvještavanja koriste se usklađeni pokazatelji rizika sukladno propisima o pokazateljima rizika za procjenu rizika od uporabe pesticida.
+(2) Ministarstvo izračunava ujednačene pokazatelje rizika primjenom statističkih podataka prikupljenih u skladu s propisima o statističkim podacima vezanih za pesticide zajedno s drugim mjerodavnim podacima, ustanovljuje trendove kod primjene određenih aktivnih tvari i utvrđuje prioritetne teme, kao što su aktivne tvari, kulture, regije ili postupci, kojima je potrebno posvetiti posebnu pozornost ili dobre primjere iz prakse koji se mogu koristiti kao uzor kako bi se postigli ciljevi ovoga Zakona za smanjenje rizika i učinaka uporabe pesticida na zdravlje ljudi i na okoliš te potaklo unapređenje i uvođenje integrirane zaštite bilja od štetnih organizama, kao i alternativne metode ili tehnike za smanjenje ovisnosti o uporabi pesticida.
+(3) Ministarstvo razvija nacionalne pokazatelje rizika.
+(4) Informacije o rezultatima i napretku u smanjenju rizika od uporabe pesticida na okoliš, zdravlje ljudi i životinja objavljuju se na mrežnim stranicama Ministarstva i dostavljaju se Europskoj komisiji i drugim državama članicama EU-a.
+(5) Pokazatelje rizika propisuje ministar pravilnikom.
