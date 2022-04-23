@@ -1,4 +1,0 @@
-# Članak 57.
-(1) Nakon omeđivanja dodijeljenih katastarskih čestica na terenu, županijsko komasacijsko povjerenstvo objavljuje iskaz zemljišta s preglednim planom dodijeljenih katastarskih čestica na javni uvid, u trajanju od 15 dana, na oglasnoj ploči i u službenom glasilu jedinice lokalne i područne (regionalne) samouprave, odnosno Grada Zagreba, na čijem se području komasacija provodi.
-(2) Na iskaz o stanju nakon komasacije i pregledni plan dodijeljenih katastarskih čestica sudionik komasacije može podnijeti prigovor županijskom komasacijskom povjerenstvu, u roku od osam dana od dana isteka roka iz stavka 1. ovoga članka.
-(3) O prigovoru iz stavka 2. ovoga članka odlučuje županijsko komasacijsko povjerenstvo na usmenoj raspravi, u roku od 30 dana od dana primitka prigovora i o svom zaključku obavještava sudionika komasacije usmeno.

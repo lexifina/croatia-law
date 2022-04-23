@@ -1,8 +1,0 @@
-# Članak 37.
-(1) O žalbama protiv rješenja županijskoga komasacijskog povjerenstva odlučuje državno komasacijsko povjerenstvo.
-(2) Državno komasacijsko povjerenstvo čine predsjednik, njegov zamjenik, četiri člana i njihovi zamjenici koji ih zamjenjuju u slučaju spriječenosti te tajnik.
-(3) Predsjednika i članove povjerenstva te njihove zamjenike imenuje i razrješava Vlada Republike Hrvatske na prijedlog središnjega tijela državne uprave nadležnog za imovinskopravne poslove.
-(4) Predsjednik povjerenstva i njegov zamjenik imenuju se iz reda sudaca županijskoga suda ili iz reda državnih službenika središnjega tijela državne uprave nadležnog za imovinskopravne poslove, koji imaju završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij pravne struke i položen pravosudni ispit.
-(5) Za članove povjerenstva i njihove zamjenike imenuju se osobe koje imaju završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij poljoprivredne i geodetske struke.
-(6) Tajnika povjerenstva imenuje čelnik središnjega tijela državne uprave nadležnog za imovinskopravne poslove iz reda državnih službenika toga tijela koji imaju završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij pravne struke i položen državni stručni ispit.
-(7) Državno komasacijsko povjerenstvo donosi poslovnik o radu kojim se pobliže uređuje način sazivanja, rad i tijek sjednice, glasovanje i vođenje zapisnika, kao i održavanje reda na sjednici i druga pitanja značajna za rad.

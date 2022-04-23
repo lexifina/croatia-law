@@ -1,4 +1,0 @@
-# Članak 33.
-(1) Pravomoćno rješenje o pokretanju postupka komasacije dostavlja se nadležnom općinskom sudu radi zabilježbe u zemljišnim knjigama, nadležnom područnom uredu za katastar, odnosno tijelu nadležnom za katastarske poslove Grada Zagreba te središnjim tijelima državne uprave nadležnim za poslove poljoprivrede, geodetske poslove i imovinskopravne poslove.
-(2) Stranke u sporu dužne su dostavljati županijskom komasacijskom povjerenstvu pravomoćne sudske odluke o svakom sporu i svakoj zemljišnoknjižnoj promjeni koja se odnosi na zemljište obuhvaćeno komasacijom.
-(3) Županijsko komasacijsko povjerenstvo u postupku komasacije uzet će u obzir sve promjene prava vlasništva i drugih stvarnih prava na zemljištu obuhvaćenom komasacijom za koje primi obavijest do dana zaključenja rasprave o diobi komasacijske gromade.

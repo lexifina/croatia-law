@@ -1,6 +1,0 @@
-# Članak 67.
-(1) Pravomoćno rješenje o komasaciji dostavlja se nadležnom područnom uredu za katastar, odnosno tijelu nadležnom za katastarske poslove Grada Zagreba te nadležnom općinskom sudu koji ga je dužan najkasnije u roku od šest mjeseci od dana primitka provesti u zemljišnim knjigama.
-(2) Općinski sud dužan je u zemljišnim knjigama provesti upise prema pravomoćnom rješenju o komasaciji, bez obzira na prijašnje upise, pod uvjetom da je zemljišnoknjižni vlasnik, odnosno njegov pravni sljednik koji ima valjani pravni naslov za stjecanje prava vlasništva sudjelovao u postupku komasacije ili mu je sudjelovanje bilo omogućeno.
-(3) Ako općinski sud u roku iz stavka 1. ovoga članka ne provede u zemljišnim knjigama pravomoćno rješenje o komasaciji, županijsko komasacijsko povjerenstvo obavijestit će o tome središnje tijelo državne uprave nadležno za poslove pravosuđa.
-(4) Županijsko komasacijsko povjerenstvo dužno je dostaviti središnjem tijelu državne uprave nadležnom za geodetske poslove pravomoćno rješenje o komasaciji, a izvođač stručnih geodetskih poslova katastarski operat.
-(5) Primjerak pravomoćnoga rješenja o komasaciji dostavlja se središnjim tijelima državne uprave nadležnima za imovinskopravne poslove, poljoprivredu i utvrđivanje poreza na promet nekretnina.
