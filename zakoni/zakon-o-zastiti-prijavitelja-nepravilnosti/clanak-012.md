@@ -1,0 +1,5 @@
+## Uvjeti za zaštitu prijavitelja
+# Članak 12.
+(1) Prijavitelji nepravilnosti ostvaruju pravo na zaštitu predviđenu ovim Zakonom ako su imali opravdan razlog vjerovati da su prijavljene ili javno razotkrivene informacije o nepravilnostima istinite u trenutku prijave ili razotkrivanja te da su te informacije obuhvaćene područjem primjene ovoga Zakona te ako su podnijeli prijavu u skladu s odredbama ovoga Zakona sustavom unutarnjeg ili vanjskog prijavljivanja nepravilnosti ili su javno razotkrili nepravilnost.
+(2) Osobe koje su anonimno prijavile ili javno razotkrile informacije o nepravilnostima, a koje ispunjavaju uvjete iz stavka 1. ovoga članka i čiji je identitet naknadno utvrđen te trpe osvetu, imaju pravo na zaštitu neovisno o tome što su prijavu podnijele anonimno.
+(3) Osobe koje nepravilnosti obuhvaćene područjem primjene iz dijela I. i II. Priloga ovom Zakonu prijavljuju nadležnim institucijama, tijelima, uredima ili agencijama Europske unije imaju pravo na zaštitu propisanu ovim Zakonom pod istim uvjetima kao osobe koje podnose prijavu nadležnom tijelu za vanjsko prijavljivanje.
