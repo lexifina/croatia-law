@@ -1,0 +1,12 @@
+# Članak 2.
+U članku 2. stavci 4. i 5. mijenjaju se i glase:
+»(4) Osnova za plaćanje može se dostaviti i kao elektronička isprava potpisana kvalificiranim elektroničkim potpisom odnosno elektroničkim pečatom izdavatelja osnove za plaćanje, koja predstavlja jednoznačno povezan cjelovit skup podataka koji su elektronički oblikovani, poslani, primljeni ili sačuvani na elektroničkom mediju, i koja isprava sadrži svojstva kojima se utvrđuje stvaratelj, utvrđuje vjerodostojnost sadržaja te dokazuje postojanost sadržaja u vremenu.
+(5) Osnova za plaćanje može se kao elektronička isprava dostaviti Agenciji na provedbu nakon potpisivanja protokola za razmjenu podataka o osnovama za plaćanje kao elektroničkih isprava kojega sklapaju Agencija i izdavatelj osnove za plaćanje. Obvezatni skup podataka, poput elektroničkog potpisa, podataka kojima se potvrđuje stvaratelj, pošiljatelj, primatelj i drugih podataka koji se ugrađuju u elektroničku ispravu u svrhu zadržavanja vjerodostojnosti, cjelovitosti i valjanosti utvrđuje se protokolom.«.
+Iza stavka 5. dodaju se novi stavak 6. i stavak 7. koji glase:
+»(6) Osnovu za plaćanje iz stavka 5. ovoga članka Agenciji na provedbu dostavlja izdavatelj osnove za plaćanje na način utvrđen protokolom.
+(7) Izdavatelj osnove za plaćanje koji dostavlja osnovu za plaćanje sukladno stavku 4. ovoga članka, može elektroničkim putem dostavljati i druga pismena na temelju kojih se zahtijeva postupanje po osnovi za plaćanje, na način utvrđen protokolom iz stavka 5. ovoga članka.«.
+Dosadašnji stavak 6. koji postaje stavak 8. mijenja se i glasi:
+»(8) Agencija će za osnove za plaćanje koje se dostavljaju sukladno stavku 4. ovoga članka, posebnom uputom detaljnije propisati format podataka za dostavu osnova za plaćanje i poslovna pravila te istu javno objaviti na svojoj službenoj internetskoj stranici.«.
+Iza stavka 8. dodaju se stavci 9. i 10. koji glase:
+»(9) Sud ili drugo nadležno tijelo može, po osiguranju tehničkih uvjeta, osnove za plaćanje podnijeti Agenciji elektroničkim putem, nakon potpisivanja protokola kojim se uređuju pravila razmjene podataka između Agencije i suda ili drugog nadležnog tijela.
+(10) Sud ili drugo nadležno tijelo koje je s Agencijom potpisalo protokol iz stavka 9. ovoga članka, osim osnova za plaćanje može elektroničkim putem dostavljati i druga pismena na temelju kojih se zahtijeva postupanje po osnovi za plaćanje na način utvrđen protokolom iz stavka 9. ovoga članka.«.
