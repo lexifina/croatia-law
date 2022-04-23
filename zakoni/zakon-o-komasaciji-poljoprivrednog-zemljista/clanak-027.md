@@ -1,0 +1,8 @@
+## Postupci uređenja odnosa na zemljištu
+# Članak 27.
+(1) U postupcima o stvarima iz članka 26. stavka 1. ovoga Zakona o kojima odlučuje nadležno tijelo i ovlaštene osobe kada je to posebnim zakonom propisano obavljaju se tehnički radovi na identifikaciji i uparivanju katastarskih i zemljišnoknjižnih podataka o katastarskim česticama, prikupljaju se i obrađuju podaci o katastarskim česticama, prikupljaju se i obrađuju podaci o katastarskim česticama o kojima se vodi spor pred nadležnim sudom u skladu s člankom 26. stavkom 1. ovoga Zakona, predočuju identificirani i upareni te prikupljeni i obrađeni podaci o katastarskim česticama te se provjeravaju nesređeni vlasnički, stvarnopravni i drugi odnosi na zemljištu.
+(2) U postupcima iz članka 26. stavka 1. ovoga Zakona na predočavanje radi rasprave i utvrđivanja činjenica o zemljištu za komasaciju pozivaju se sve stranke komasacije.
+(3) Ako se radi o zemljištu u vlasništvu Republike Hrvatske, u postupku sudjeluje nadležno državno odvjetništvo.
+(4) Sudioniku komasacije koji je nedostupan ili nepoznata boravišta postavit će se privremeni zastupnik prema odredbama propisa kojima se uređuje parnični postupak i opći upravni postupak.
+(5) Tijekom utvrđivanja stvarnog stanja na zemljištu za komasaciju sastavlja se dokumentacija u skladu sa zakonom kojim se uređuje vođenje zemljišnih knjiga (nacrt zemljišnoknjižnog uloška) te zakonom kojim se uređuju državna izmjera i katastar nekretnina (digitalni katastarski plan).
+(6) Na temelju izrađene dokumentacije iz stavka 5. ovoga članka osoba koja obavlja stručne geodetske poslove sastavlja iskaz zemljišta o stanju prije komasacije.

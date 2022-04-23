@@ -1,0 +1,7 @@
+## Nadležnost Povjerenstva
+# Članak 25.
+(1) U postupku komasacije do donošenja rješenja o komasaciji Nositelj komasacije donosi odluke u svim sporovima u vezi s komasacijom i u vezi s naknadom štete između pojedinih sudionika komasacije te sudionika komasacije i izvođača radova, osim u sporovima u vezi s ugovorima o izvođenju radova i u vezi s korištenjem zemljišta bez zakonske osnove.
+(2) Povjerenstvo koordinira uređenje vlasničkih, stvarnopravnih i drugih odnosa na zemljištu, izvođenje radova na izgradnji vodnih građevina za melioracije i drugih radova u skladu sa sklopljenim ugovorima i ugovorima o dovršenju radova u određenim rokovima, a zahtjevom može zatražiti od Nositelja komasacije da putem javnog natječaja pribavi usluge stručnog nadzora za poslove i radove iz ovoga stavka.
+(3) Stranke u sporu dužne su dostavljati Povjerenstvu pravomoćne sudske odluke o svakom sporu i svakoj zemljišnoknjižnoj promjeni koja se odnosi na zemljište obuhvaćeno komasacijom.
+(4) Nadležni općinski sud obvezan je obavijestiti Povjerenstvo o svim promjenama koje su provedene u zemljišnoknjižnim ulošcima u kojima je upisano zemljište obuhvaćeno komasacijom u skladu sa zabilježbom iz članka 34. stavka 5. ovoga Zakona.
+(5) Povjerenstvo priprema i izrađuje nacrte prijedloga akata koje donosi Nositelj komasacije u skladu sa stavkom 1. ovoga članka i drugim odredbama ovoga Zakona, a u tu svrhu je ovlašteno pribavljati potrebne podatke, dokumentaciju te uključiti u izradu akata i ovlaštene osobe ako posebni propisi to određuju.

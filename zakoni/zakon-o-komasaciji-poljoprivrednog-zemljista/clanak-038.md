@@ -1,0 +1,4 @@
+## Podaci za rad i koordinacija rada osobe koja obavlja stručne geodetske poslove
+# Članak 38.
+(1) Nakon sklapanja ugovora iz članka 36. ovoga Zakona Povjerenstvo dostavlja osobi koja obavlja stručne geodetske poslove potrebne podatke kojima raspolaže, a koji su potrebni izvođaču stručnih geodetskih poslova za izvršenje usluge prema ugovoru iz članka 36. ovoga Zakona.
+(2) Povjerenstvo koordinira rad osobe koja obavlja stručne geodetske poslove po ugovoru iz članka 36. ovoga Zakona, prati i kontrolira provedbu postupka procjene tržišne vrijednosti zemljišta za komasaciju, sastavljanje iskaza zemljišta o stanju prije komasacije iz članka 37. stavka 2. točke 14. ovoga Zakona, izradu preglednog plana položaja putne i kanalske mreže, te prati izradu pregledne karte iz članka 17. stavka 8. Podstavka 3. ovoga Zakona.

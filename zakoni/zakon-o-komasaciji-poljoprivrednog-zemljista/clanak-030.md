@@ -1,0 +1,4 @@
+## Primjedbe, prijedlozi i suglasnost na prijedlog projekta komasacije
+# Članak 30.
+(1) Nakon zaprimanja prijedloga iz članka 29. stavka 2. ovoga Zakona Nositelj komasacije u roku od 60 dana od isteka roka za izradu i dostavu prijedloga projekta komasacije iz članka 29. stavka 2. ovoga Zakona saziva skup sudionika komasacije radi predstavljanja prijedloga projekta komasacije na koji se mogu podnijeti pisani prijedlozi i primjedbe Nositelju komasacije na skupu odnosno najkasnije u roku od 15 dana od dana održavanja skupa sudionika komasacije.
+(2) Nositelj komasacije dostavit će primjedbe i prijedloge iz stavka 1. ovoga članka Izvođaču koji se mora očitovati o prihvaćanju ili neprihvaćanju zaprimljenih primjedaba i prijedloga u roku od 30 dana od zaprimanja, a neprihvaćanje treba posebno obrazložiti.

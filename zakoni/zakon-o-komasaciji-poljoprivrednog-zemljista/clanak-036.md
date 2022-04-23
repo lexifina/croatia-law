@@ -1,0 +1,3 @@
+## Ugovori o izvođenju stručnih geodetskih poslova i građevinskih radova
+# Članak 36.
+Izvođenje stručnih geodetskih poslova, radova gradnje i građenja na vodnim građevinama za melioracije te gradnja ostalih građevina u skladu s prostornim planovima te za koje je prethodno ishođena građevinska dozvola ili odgovarajući akt u skladu s propisima iz područja prostornog uređenja i gradnje obavlja se na temelju ugovora sklopljenih s ovlaštenim izvođačima koje sklapa Ministarstvo, jedinica lokalne samouprave ili Grad Zagreb odnosno jedinica područne (regionalne) samouprave ako snosi troškove izvođenja radova.

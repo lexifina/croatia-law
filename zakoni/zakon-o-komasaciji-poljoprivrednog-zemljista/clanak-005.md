@@ -1,0 +1,7 @@
+## Program komasacije poljoprivrednog zemljišta
+# Članak 5.
+(1) Program komasacije poljoprivrednog zemljišta (u daljnjem tekstu: Program) akt je planiranja provođenja komasacije na okvirnoj površini zemljišta za predviđeno razdoblje i u skladu s planiranim financijskim sredstvima.
+(2) Programom se utvrđuju izvori financiranja, okvirni iznos dostupnih financijskih sredstava, okvirna površina zemljišta na kojoj je moguće provesti komasaciju uz dostupna financijska sredstva, razdoblje za provedbu komasacije u skladu s navedenim podacima, pravilima i mjerama za provedbu Programa, kao i mjerilima za odabir određena područja radi ispunjenja važećeg Programa, te uvjeti, kriteriji i način dodjele financijskih sredstava (alokacija).
+(3) Iznimno od stavka 2. ovoga članka, Programom se mogu kao prioritet utvrditi područja komasacije na kojima su pokrenuti komasacijski postupci koji nisu završeni ako troškovi njihova provođenja ne prelaze utvrđeni iznos dostupnih financijskih sredstava iz Programa; ako prelaze utvrđeni iznos iz Programa, onda se njihovo provođenje odgađa do uključivanja u novi program za sljedeće razdoblje.
+(4) Program izrađuje ministarstvo nadležno za poljoprivredno zemljište (u daljnjem tekstu: Ministarstvo) na temelju dostupnih podataka i analiza o potrebi komasacije.
+(5) Program donosi odlukom Vlada Republike Hrvatske za razdoblje provedbe koje predloži Ministarstvo prema dostupnim financijskim sredstvima, a objavljuje se u »Narodnim novinama« i na mrežnim stranicama Ministarstva.
