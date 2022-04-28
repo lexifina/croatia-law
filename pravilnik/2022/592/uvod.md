@@ -1,0 +1,1 @@
+Na temelju članka 113. stavka 8., članka 114. stavka 12. i članka 115., stavka 7. Zakona o sigurnosti i interoperabilnosti željezničkog sustava (»Narodne novine«, broj 63/20) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar mora, prometa i infrastrukture uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

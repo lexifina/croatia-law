@@ -1,0 +1,8 @@
+# Članak 5.
+(1) Podnositelj zahtjeva za izdavanje dozvole mora imati kvalifikaciju razine 4.2. sukladno Zakonu o Hrvatskom kvalifikacijskom okviru (»Narodne novine«, br. 22/13, 41/16, 64/18, 47/20 i 20/21) (u daljnjem tekstu: 4.2. HKO), vrste tehničar vuče - strojovođa odnosno kvalifikaciju iste razine i vrste.
+(2) Iznimno od stavka 1. ovoga članka, podnositelj zahtjeva za izdavanje dozvole mora imati kvalifikaciju na razini 4.2. HKO-u, druge vrste uz uvjet završenog stručnog osposobljavanja u ovlaštenoj ustanovi.
+(3) Podnositelj zahtjeva za izdavanje dozvole dokazuje svoju fizičku sposobnost uvjerenjem/potvrdom o zdravstvenoj sposobnosti, temeljem obavljenog zdravstvenog pregleda, koji obavljaju zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi.
+(4) Pregled iz stavka 3. ovog članka, obuhvaća minimalno one kriterije koji su navedeni u odjeljcima 1.1., 1.2., 1.3. i 2.1. Priloga I.
+(5) Podnositelj zahtjeva za izdavanje dozvole dokazuje svoju psihičku sposobnost uvjerenjem/potvrdom o zdravstvenoj sposobnosti temeljem obavljenog zdravstvenog pregleda, koji obavljaju zdravstvene ustanove, trgovačka društva koja obavljaju djelatnost medicine rada i specijalisti medicine rada u privatnoj praksi u skladu s propisom kojim se uređuje zaštita na radu.
+(6) Pregled iz stavka 5. ovog članka, mora uključivati minimalno one kriterije koji su navedeni u odjeljku 2.2. Priloga I.
+(7) Podnositelj zahtjeva za izdavanje dozvole dokazuje svoju opću stručnu osposobljenost na temelju položenog ispita koji obuhvaća minimalno opće stručno znanje navedeno u Prilogu III.

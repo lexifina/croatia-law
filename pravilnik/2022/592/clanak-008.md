@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Za provjeru tražene osposobljenosti nadležno tijelo provjerava postupak ispitivanja i ispitivače za dio koji se odnosi na dozvolu, kada utvrđuje postupak koji se primjenjuje za dobivanje dozvole u skladu s propisom kojim se uređuje područje sigurnosti i interoperabilnosti željezničkog sustava.
+(2) Za provjeru tražene osposobljenosti željeznički prijevoznik ili upravitelj infrastrukture primjenjuje postupak ispitivanja za dio koji se odnosi na potvrdu, a koji je utvrđen u postupku koji se primjenjuje za dobivanje potvrde o sigurnosti ili uvjerenja o sigurnosti u skladu s propisom kojim se uređuje područje sigurnosti i interoperabilnosti željezničkog sustava.
+(3) Sadržaj ispita i uvjeti za ispitivače moraju uključivati i zahtjeve koji su određeni u TSI-jima ili ostalim izravno primjenjivim propisima Europske unije
+(4) Sposobnost vožnje ocjenjuje se tijekom testa vožnje na mreži dok je za provjeru primjene pravila postupanja i sposobnosti strojovođe u iznimno teškim situacijama moguće koristiti i simulatore.
+(5) O uspješno provedenim provjerama iz stavka 2. ovoga članka, željeznički prijevoznik ili upravitelj infrastrukture unosom i izjavom na potvrdi te u registru potvrda potvrđuje da strojovođa ispunjava uvjete valjanosti potvrde.
