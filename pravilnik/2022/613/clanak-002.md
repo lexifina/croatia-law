@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 4. stavku 2. točki 1. riječi »Pravilnikom o izdavanju suglasnosti i kriterijima za procjenu primjerenosti članova uprave, nositelja ključnih funkcija i imatelja kvalificiranog udjela u investicijskom društvu« zamjenjuju se riječima »Pravilnikom o izdavanju suglasnosti za imenovanje članova uprave te za stjecanje kvalificiranog odnosno kontrolnog udjela i kriterijima za procjenu primjerenosti članova nadzornog odbora, nositelja ključnih funkcija i višeg rukovodstva«.
