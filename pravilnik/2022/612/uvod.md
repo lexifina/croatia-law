@@ -1,0 +1,1 @@
+Na temelju članka 186. stavka 4. Zakona o osiguranju (»Narodne novine«, broj 30/15, 112/18 63/20 i 133/20) i članka 55. stavka 4. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14, 29/18 i 115/18) Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 14. travnja 2022. godine donijela je

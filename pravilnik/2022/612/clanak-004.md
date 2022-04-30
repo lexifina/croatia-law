@@ -1,0 +1,2 @@
+# Članak 4.
+Ako se na području Republike Hrvatske ne organiziraju izobrazba i/ili ispiti iz članka 2. stavka 2. točke 2. ili stručna udruga aktuara iste ne provodi u skladu s uvjetima iz članka 3. ovoga Pravilnika u razdoblju od tri godine, obrazovni program i ispite za Dodatne ispite organizirat će Hanfa u skladu s odredbama ovoga Pravilnika, o čemu će na svojoj internetskoj stranici objaviti obavijest najmanje 60 dana prije provođenja obrazovnog programa odnosno ispita.
