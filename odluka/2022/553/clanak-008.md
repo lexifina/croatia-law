@@ -1,0 +1,5 @@
+# Članak 8.
+Sredstva naknade za razvoj javne vodoopskrbe i naknade za razvoj javne odvodnje koriste se za provedbu Plana investicija i investicijskog održavanja usvojenog od strane Skupštine Tekija d.o.o. i objavljenog na internetskoj stranici Tekija d.o.o.
+Prihodi od naknade za razvoj koriste se za financiranje gradnje komunalnih vodnih građevina.
+Za pokrivanje troškova investicija za razvoj javne odvodnje javni isporučitelj vodnih usluga može, uz uprihođena financijska sredstva za razvoj javne odvodnje, koristiti i uprihođena financijska sredstva naknade za razvoj javne vodoopskrbe na području jedinice lokalne samouprave za koju su sredstva uprihođena, odnosno za zajedničko sufinanciranje sukladno članku 7. ove Odluke.
+Za pokrivanje troškova investicija za razvoj javne vodoopskrbe javni isporučitelj vodnih usluga može, uz uprihođena financijska sredstva za razvoj javne vodoopskrbe, koristiti i uprihođena financijska sredstva naknade za razvoj javne odvodnje na području jedinice lokalne samouprave za koju su sredstva uprihođena, odnosno za zajedničko sufinanciranje sukladno članku 7. ove Odluke.
