@@ -1,0 +1,15 @@
+# Članak 61.
+1. Zaposlenik ima pravo na pomoć u slučaju:
+- bolovanja u neprekidnom trajanju dužem od 90 dana, neovisno o tome je li bolovanje započelo u prethodnoj kalendarskoj godini, a završilo u tekućoj godini ili je započelo i završilo u tekućoj godini te neovisno o osnovi bolovanja - jednom godišnje u visini jedne proračunske osnovice
+- nastanka invalidnosti zaposlenika, malodobne djece ili supružnika zaposlenika - u visini jedne proračunske osnovice, koja se s osnova nastanka invalidnosti isplaćuje jednokratno
+- rođenja ili posvojenja svakog djeteta u visini 50 % jedne proračunske osnovice.
+2. Nastanak invalidnosti zaposlenika, supružnika i malodobnog djeteta utvrđuje se dostavom konačnog rješenja nadležnog tijela sukladno posebnim propisima.
+3. Pojam invalidnosti zaposlenika, odnosno supružnika zaposlenika veže se isključivo uz smanjenje radne sposobnosti uz preostalu radnu sposobnost, djelomični ili potpuni gubitak radne sposobnosti.
+4. Pravo na pomoć u slučaju nastanka invalidnosti malodobnog djeteta zaposlenik ostvaruje ako je kod malodobnog djeteta utvrđen teži (stupanj III) ili teški invaliditet (stupanj IV), a ostvaruje se dostavom jednog od sljedećih pravomoćnih rješenja nadležne službe:
+- rješenje o pravu na doplatak za djecu (Hrvatski zavod za mirovinsko osiguranje; temeljem članka 22. Zakona o doplatku za djecu, za dijete s težim ili teškim invaliditetom prema posebnim propisima)
+- rješenje o pravu na dopust radi njege djeteta s težim smetnjama u razvoju (Hrvatski zavod za zdravstveno osiguranje)
+- rješenje o pravu na rad s polovicom punoga radnog vremena radi njege djeteta s težim smetnjama u razvoju (Hrvatski zavod za zdravstveno osiguranje; do 8. godine i nakon 8. godine života djeteta)
+- rješenje o pravu na osobnu invalidninu (centar za socijalnu skrb)
+- rješenje o pravu na doplatak za pomoć i njegu (centar za socijalnu skrb).
+5. Radi pokrića troškova liječenja, odnosno pokrića troškova prilikom nabave medicinskih pomagala, odnosno lijekova, koja su prema preporuci nadležnog liječnika specijaliste iz sustava javnog zdravstva, po pravilima medicinske struke prijeko potrebiti i nenadomjestivi za zaposlenika, malodobno dijete, punoljetno dijete kojem je rješenjem nadležnog tijela utvrđena potpuna i trajna nesposobnost za samostalni život i rad sukladno posebnim propisima ili supružnika, a pokriće troškova nije odobreno (u cijelosti ili djelomično) od strane Hrvatskog zavoda za zdravstveno osiguranje temeljem obveznog i dopunskog zdravstvenog osiguranja, zaposleniku se nadoknađuje trošak u visini plaćenog iznosa, a najviše do iznosa jedne proračunske osnovice, jednom godišnje.
+6. Pomoć iz ovog članka isplaćuje se najkasnije u roku od 30 dana od dana podnošenja dokumentiranog zahtjeva odnosno od dana dostave konačnog rješenja nadležnog tijela.

@@ -1,0 +1,2 @@
+# Članak 94.
+Nakon što na snagu stupe zakonske odredbe koje predstavljaju temelj i dopuštaju razlikovanje člana i nečlana sindikata pri primjeni prava iz kolektivnih ugovora, ugovorne strane će, u roku od 90 dana od dana stupanja na snagu takvih zakonskih odredaba, započeti s pregovorima o izmjenama i dopunama ovoga Ugovora o mogućnosti da se pojedina materijalna i/ili nematerijalna prava ugovore samo za članove sindikata, odnosno da se ista za članove sindikata ugovore u većem iznosu, odnosno većoj razini nego za nečlanove sindikata.

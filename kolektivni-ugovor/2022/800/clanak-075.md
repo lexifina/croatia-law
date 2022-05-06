@@ -1,0 +1,9 @@
+## Prava sindikalnih povjerenika i sindikalnih predstavnika
+# Članak 75.
+1. Poslodavac je obvezan sindikalnom povjereniku odnosno sindikalnom predstavniku omogućiti neophodan pristup radnim mjestima u svrhu obnašanja njegove dužnosti, te radi omogućavanja uvida u podatke i isprave u svezi s ostvarivanjem i zaštitom prava zaposlenika u vrijeme i na način koji ne šteti djelotvornosti poslovanja.
+2. Poslodavac treba sindikalnom povjereniku odnosno sindikalnom predstavniku, osigurati informacije koje su bitne za gospodarski položaj zaposlenika, kao što su prijedlozi odluka i pravilnika o radu kojima se reguliraju prava i obveze iz radnog odnosa, prijedlozi poslovnih i razvojnih odluka koje utječu na ekonomski i socijalni položaj zaposlenika.
+3. Poslodavac je dužan primiti na razgovor sindikalnog povjerenika, odnosno sindikalnog predstavnika, po mogućnosti odmah, ali najkasnije u roku tri dana.
+4. Poslodavac je dužan u primjerenom roku, a najkasnije u roku od 15 dana, u pisanoj formi odgovoriti na svaki dopis sindikalnog povjerenika, odnosno sindikalnog predstavnika. Sindikalni povjerenik odnosno predstavnik ne smije biti spriječen ili ometan u obnašanju svoje dužnosti ako djeluje u skladu sa zakonom i ovim Ugovorom.
+5. Poslodavac je dužan na zahtjev sindikalnog povjerenika odnosno sindikalnog predstavnika, a uz pisanu suglasnost zaposlenika, sindikalnom povjereniku odnosno sindikalnom predstavniku, bez odgode, a najkasnije u roku od 5 dana od podnošenja pisanog zahtjeva, dostaviti sve podatke i isprave u vezi s ostvarivanjem i zaštitom prava zaposlenika.
+6. Sindikalni predstavnik dužan se pred poslodavcem predstaviti odgovarajućom punomoći ili iskaznicom.
+7. Ozljeda koju sindikalni povjerenik pretrpi tijekom obavljanja sindikalne dužnosti i dužnosti radničkog vijeća, smatrat će se ozljedom na radu, u skladu s posebnim propisima zaštite na radu i obveznog zdravstvenog osiguranja.

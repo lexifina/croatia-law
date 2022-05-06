@@ -1,0 +1,5 @@
+# Članak 83.
+1. Podaci o osobi ovlaštenoj za primanje i rješavanje pritužbi vezanih uz zaštitu dostojanstva iz ovoga Ugovora objavljuju se na vidnom mjestu u ustanovi, a uključuju ime i prezime, broj telefona i telefaksa te e-adresu ovlaštene osobe.
+2. Popis ovlaštenih osoba imenovanih temeljem ovoga Ugovora objavljuje se na web-stranici ministarstva nadležnog za rad.
+3. Čelnik ustanove dužan je upozoriti sve svoje voditelje ili dislocirane ustrojstvene jedinice ustanove s više od 20 zaposlenih na obvezu imenovanja ovlaštene osobe, kao i na obvezu dostave podataka o ovlaštenim osobama radi ažuriranja središnjeg popisa ovlaštenih osoba.
+4. Poslodavac je dužan ovlaštenoj osobi osigurati zaprimanje pritužbi na način i u uvjetima kojima se neće ugroziti privatnost osobe koja podnosi pritužbu, što razumijeva mogućnost korištenja posebne prostorije u sjedištu poslodavca tijekom cijelog ili u dijelu radnog vremena, a ako je to potrebno omogućit će mu se i izlazak iz sjedišta poslodavca radi zaprimanja pritužbe.
