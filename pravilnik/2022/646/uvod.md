@@ -1,0 +1,1 @@
+Na temelju članka 108.a stavka 4. Zakona o cestama (»Narodne novine«, broj 84/11., 22/13., 54/13., 148/13., 92/14., 110/19. i 144/21.), ministar mora, prometa i infrastrukture uz prethodnu suglasnost ministra nadležnog za regionalni razvoj i fondove Europske unije, donosi
