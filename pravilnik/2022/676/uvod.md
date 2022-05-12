@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 2. Zakona o poštanskim uslugama (»Narodne novine«, br. 144/12., 153/13., 78/15. i 110/19.) ministar mora, prometa i infrastrukture, na prijedlog HP - Hrvatske pošte d.d., donosi
