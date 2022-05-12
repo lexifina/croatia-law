@@ -1,0 +1,13 @@
+# Članak 14.
+Članak 31. mijenja se i glasi:
+»(1) Uz zahtjev za priznavanje izvorske vode prilaže se sljedeća dokumentacija:
+- izvještaj o hidrogeološkim ispitivanjima izvorske vode na izvoru iz Dodatka 1. točke a) ovoga Pravilnika
+- analitička izvješća o provedenim ispitivanjima izvorske vode na izvoru iz Dodatka 1. točke c) ovoga Pravilnika i o ispitivanjima kemijskih i indikatorskih parametara u izvorskoj vodi, kao i ispitivanjima radioloških tvari sukladno posebnom propisu o parametrima sukladnosti
+- izjava na obrascu iz Dodatka 7. ovoga Pravilnika, o planiranoj provedbi jednog ili više postupaka obrade iz članka 10. stavka 1. ovoga Pravilnika, a u slučaju primjene postupaka iz članka 10. stavka 1. podstavaka 2. i 3. ovoga Pravilnika potrebno je podnijeti i zahtjev za odobravanje na obrascu iz Dodatka 8. ovoga Pravilnika i priložiti dokumentaciju u skladu s člankom 12. ovoga Pravilnika
+- u slučaju izvorske vode koja se crpi iz tla trećih zemalja, potvrdu na obrascu iz Dodatka 10. ovoga Pravilnika, izdanu od nadležnog tijela države u kojoj se voda crpi, a kojom se potvrđuje da voda ispunjava zahtjeve propisane člankom 27., osobito stavkom 2. podstavcima 1. i 2. ovoga Pravilnika i Dodatkom 1. točkom a) ovoga Pravilnika te da se redovito provjerava primjena članka 16. stavaka 3., 4. i 5. ovoga Pravilnika i
+- tehničko-tehnološki elaborat za tehnološke linije za proizvodnju i punjenje vode, gdje je primjenjivo.
+(2) Od datuma izdavanja analitičkih izvješća iz stavka 1. podstavka 2. ovoga članka do datuma dostave Ministarstvu, ne smije proteći više od dvije godine.
+(3) Uzorci moraju biti uzeti na izvoru, od strane neovisne pravne osobe ili posebne organizacijske cjeline unutar pravne osobe koja je akreditirana za uzimanje uzoraka vode sukladno normi HRN ISO 5667-11:2011, a prije bilo koje obrade vode tehnološkim postupcima u skladu s člankom 10. stavkom 1. ovoga Pravilnika, te je dužnost i odgovornost subjekta u poslovanju s hranom da osigura takvo mjesto uzorkovanja na slavini na izvoru. Uzorci se moraju uzeti isti dan.
+(4) Neovisne pravne osobe ili posebne organizacijske cjeline unutar pravne osobe koje provode ispitivanja iz stavka 1. podstavka 2. ovoga članka, moraju biti akreditirane prema normi HRN EN ISO/IEC 17025:2017.
+(5) Ispitivanja iz stavka 1. podstavka 2. ovoga članka moraju se provesti najmanje četiri puta godišnje, tako da budu zahvaćena sva hidrološka razdoblja unutar jedne hidrološke godine.
+(6) Kod procjene sukladnosti rezultata analiza izvorske vode s vrijednostima za parametre propisane ovime Pravilnikom i posebnim propisom o parametrima sukladnosti, mjerna nesigurnost se ne smije primjenjivati kao dodatna tolerancija uz vrijednosti propisanih parametara.«.

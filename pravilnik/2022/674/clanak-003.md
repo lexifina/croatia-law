@@ -1,0 +1,8 @@
+# Članak 3.
+U članku 2. stavak 2. mijenja se i glasi:
+»(2) Odredbe članka 8. stavaka 5. i 6., članka 12., članka 16. stavka 1., članaka 19., 20., 21., 22., članka 25. stavka 2., članaka 28., 30., 31., 32., 33., 37., 38., 39. i 40. ovoga Pravilnika ne primjenjuju se na:
+- prirodne mineralne vode koje se crpe iz tla drugih država članica Europske unije ili država koje pripadaju Europskom udruženju slobodne trgovine koje su potpisnice Sporazuma o Europskom gospodarskom prostoru ili trećih zemalja i priznate su od strane nadležnog tijela države članice Europske unije ili države koja pripada Europskom udruženju slobodne trgovine koja je potpisnica Sporazuma o Europskom gospodarskom prostoru
+- izvorske vode koje se crpe iz tla drugih država članica Europske unije ili država koje pripadaju Europskom udruženju slobodne trgovine koje su potpisnice Sporazuma o Europskom gospodarskom prostoru i zakonito su stavljene na tržište država članica Europske unije ili država koje pripadaju Europskom udruženju slobodne trgovine koje su potpisnice Sporazuma o Europskom gospodarskom prostoru te na
+- stolne vode koje su zakonito proizvedene i/ili stavljene na tržište u drugoj državi članici Europske unije ili državi koja pripada Europskom udruženju slobodne trgovine koja je potpisnica Sporazuma o Europskom gospodarskom prostoru.«.
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Ovaj Pravilnik je notificiran u skladu s postupkom utvrđenim Direktivom (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (SL L 241, 17. 9. 2015.).«.
