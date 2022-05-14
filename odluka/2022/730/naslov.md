@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o dodjeli beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave koje su pogođene posljedicama razornih potresa na području Grada Zagreba, Zagrebačke županije, Krapinsko-zagorske županije, Sisačko-moslavačke županije i Karlovačke županije za sanaciju šteta od potresa
