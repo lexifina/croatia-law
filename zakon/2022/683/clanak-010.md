@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 10. stavak 1. mijenja se i glasi:
+»(1) Ako subjekt u poslovanju s predmetima opće uporabe koji predmete proizvodi ili stavlja na tržište sazna ili opravdano posumnja da predmet opće uporabe koji je proizveo ili stavio na tržište ne udovoljava zahtjevima zdravstvene ispravnosti, odnosno sukladnosti propisanim ovim Zakonom i propisima kojima su uređene pojedine vrste predmeta opće uporabe, obvezan je bez odgode obustaviti proizvodnju predmeta opće uporabe, povući ih s tržišta te osigurati njihovo povlačenje od potrošača, i to u slučajevima kada su promijenili vlasnika te na učinkovit način provesti opoziv proizvoda i o tome izvijestiti Državni inspektorat u roku od 72 sata.«.

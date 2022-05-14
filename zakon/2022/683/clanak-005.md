@@ -1,0 +1,5 @@
+# Članak 5.
+Članak 4. mijenja se i glasi:
+»(1) Na tržište se smije staviti samo zdravstveno ispravan, odnosno sukladan predmet opće uporabe, tj. ispravan glede senzoričkih svojstava, vrste i sadržaja štetnih tvari, obavijesti o proizvodu, namjene, sastava i mikrobiološke ispravnosti tamo gdje je potrebno i koji ne može prouzročiti štetne utjecaje na zdravlje ljudi i okoliš, a sukladno ovome Zakonu i propisima kojima su uređene pojedine vrste predmeta opće uporabe.
+(2) Svi subjekti odgovorni za proizvod koji posluju s predmetima opće uporabe prije stavljanja na tržište dužni su provjeriti podliježe li predmet opće uporabe obvezi izrade EU Izjave o sukladnosti i/ili tehničkoj dokumentaciji te ako podliježe, subjekt je obvezan osigurati za predmet opće uporabe EU Izjavu o sukladnosti i/ili tehničku dokumentaciju.
+(3) Ako je zdravstveno neispravan, odnosno nesukladan predmet opće uporabe dio jedne proizvodne partije, serije ili pošiljke predmeta opće uporabe iste klase po kategoriji i opisu, smatra se da su svi predmeti opće uporabe iz te proizvodne partije, serije ili pošiljke zdravstveno neispravni, odnosno nesukladni.«.

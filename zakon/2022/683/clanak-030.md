@@ -1,0 +1,8 @@
+# Članak 30.
+Iza članka 37. dodaje se članak 37.a koji glasi:
+»Članak 37.a
+(1) Kada nadležna sanitarna inspekcija Državnog inspektorata iz članka 41. ovoga Zakona tijekom inspekcijskog nadzora utvrdi da radnik nema potrebna znanja o općoj higijeni sukladno propisima kojima se uređuje područje zaštite pučanstva od zaraznih bolesti ili se kod subjekata koji nisu direktno odgovorni za proizvod utvrde nedostaci u EU Izjavi o sukladnosti i/ili tehničkoj dokumentaciji za proizvode u prometu, neće podnijeti optužni prijedlog za pokretanje prekršajnog postupka niti izdati prekršajni nalog ako:
+- nadzirana pravna ili fizička osoba tijekom inspekcijskog nadzora, odnosno do donošenja rješenja o otklanjanju nedostataka otkloni nepravilnosti i nedostatke utvrđene u inspekcijskom nadzoru,
+- je za utvrđene nepravilnosti doneseno rješenje, a nadzirana pravna osoba je postupila po izvršnom rješenju.
+(2) Ako nadzirana osoba ne postupi na način opisan u stavku 1. ovoga članka, kao i u slučaju ponovnog utvrđenja istog prekršaja u roku od godine dana, nadležni sanitarni inspektor Državnog inspektorata iz članka 41. ovoga Zakona dužan je bez odgađanja, a najkasnije u roku od 15 dana od dana završetka inspekcijskog nadzora, odnosno u roku od 15 dana od isteka roka za ispunjenje obveze, podnijeti optužni prijedlog za pokretanje prekršajnog postupka, odnosno izdati prekršajni nalog.
+(3) Nadležni sanitarni inspektor Državnog inspektorata iz članka 41. ovoga Zakona neće pokrenuti prekršajni postupak ako je po zaprimljenoj RAPEX obavijesti na tržište stavljen nesukladan proizvod koji je predmet zabrane, ako je postupak uzorkovanja i/ili dokazivanja nesukladnosti provelo nadležno tijelo u drugoj državi članici Europske unije.«.
