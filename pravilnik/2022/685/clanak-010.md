@@ -1,0 +1,3 @@
+# Članak 10.
+Podatci koji nastaju u radu Ureda i za koje je, sukladno ovom Pravilniku, određen stupanj tajnosti, označavaju se sukladno propisima kojima je uređen način označavanja klasificiranih podataka, neovisno o obliku u kojem su nastali (napisani, umnoženi, nacrtani, slikovni, tiskani, snimljeni, fotografirani, magnetni, optički, elektronički ili bilo koji drugi zapis podatka).
+Klasificirani dokument, njegovi pojedini dijelovi ili prilozi, mogu biti označeni različitim stupnjevima tajnosti, a cjelina takvog dokumenta i svih priloga označava se najvišim stupnjem tajnosti klasificiranog dokumenta, njegovog pojedinog dijela ili priloga.
