@@ -1,0 +1,2 @@
+# Članak 1.
+Hrvatska narodna banka, u okviru serije prigodnoga kovanog novca Zlatna kuna, izdaje prigodni zlatni kovani novac s motivima optjecajnoga kovanog novca od 5 kuna utvrđenima Odlukom o apoenima i osnovnim obilježjima novčanica i kovanog novca kune i lipe (»Narodne novine«, br. 37/1994.) te Odlukom o osnovnim obilježjima kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka na naličju kovanog novca (»Narodne novine«, br. 47/1995.), s tim da će navedeni apoen nositi godinu »2022.« kao oznaku godine kovanja.

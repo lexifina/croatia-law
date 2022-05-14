@@ -1,0 +1,2 @@
+# Članak 3.
+Lice i naličje prigodnoga zlatnoga kovanog novca opisano je u točki 17. podtočkama 5) i 6) Odluke o apoenima i osnovnim obilježjima novčanica i kovanog novca kune i lipe (»Narodne novine«, br. 37/1994.) te točki 4. podtočki 3) Odluke o osnovnim obilježjima kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka na naličju kovanog novca (»Narodne novine«, br. 47/1995.), osim godine kovanja, koja je na prigodnom zlatnom kovanom novcu »2022.«.

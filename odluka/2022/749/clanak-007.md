@@ -1,0 +1,2 @@
+# Članak 7.
+Prodaju prigodnoga zlatnoga kovanog novca, koja ujedno uključuje i poduzimanje svih popratnih aktivnosti u svrhu omogućavanja prodaje, uključujući promociju, obavlja Hrvatska kovnica novca d.o.o. po prodajnoj cijeni koju, kao ovlašteni prodavatelj, samostalno određuje u skladu s člankom 2. stavkom 3. Odluke o određivanju i objavi prodajnih cijena prigodnoga zlatnoga i srebrnoga kovanog novca i numizmatičkih kompleta (»Narodne novine«, br. 114/2020.).
