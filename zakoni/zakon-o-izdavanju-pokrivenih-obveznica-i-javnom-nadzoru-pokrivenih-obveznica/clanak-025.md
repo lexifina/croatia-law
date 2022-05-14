@@ -1,0 +1,6 @@
+## Javni nadzor pokrivenih obveznica u slučaju prisilne likvidacije ili sanacije izdavatelja
+# Članak 25.
+(1) Agencija surađuje s Hrvatskom narodnom bankom u slučaju sanacije izdavatelja kako bi se osigurala zaštita prava i interesa ulagatelja u pokrivene obveznice, među ostalim barem tako da se tijekom postupka sanacije provjerava kontinuirano i dobro upravljanje programom pokrivenih obveznica.
+(2) Agencija surađuje s Hrvatskom agencijom za osiguranje depozita i posebnim upraviteljem u slučaju prisilne likvidacije izdavatelja te one međusobno razmjenjuju informacije kako bi se osigurala zaštita prava i interesa ulagatelja u pokrivene obveznice, među ostalim barem tako da se tijekom postupka prisilne likvidacije provjerava kontinuirano i dobro upravljanje programom pokrivenih obveznica.
+(3) Tijela u postupku prisilne likvidacije, sukladno zakonu kojim se uređuje prisilna likvidacija kreditnih institucija, dužna su prilikom korištenja svojih ovlasti u slučaju prisilne likvidacije izdavatelja osigurati da svoje ovlasti neće izvršavati na način koji će ugroziti ostvarivanje prava iz pokrivenih obveznica i skupa za pokriće koje imaju ulagatelji u pokrivene obveznice u skladu s odredbama ovoga Zakona.
+(4) Odredbe ovoga članka ne mijenjaju ovlasti koje Agencija ima prema ovom Zakonu.

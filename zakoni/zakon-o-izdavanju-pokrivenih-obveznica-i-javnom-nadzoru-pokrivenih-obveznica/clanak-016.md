@@ -1,0 +1,9 @@
+## Zahtjevi u pogledu zaštitnog sloja likvidnosti skupa za pokriće
+# Članak 16.
+(1) Izdavatelj je dužan osigurati zaštitu ulagatelja na način da skup za pokriće u svakom trenutku uključuje zaštitni sloj likvidnosti koji se sastoji od likvidne imovine dostupne za pokriće neto likvidnosnih odljeva u okviru programa pokrivenih obveznica.
+(2) Zaštitni sloj likvidnosti skupa za pokriće pokriva najveći kumulativni neto likvidnosni odljev tijekom sljedećih šest mjeseci.
+(3) Izdavatelj je dužan osigurati da se zaštitni sloj likvidnosti skupa za pokriće sastoji od sljedećih vrsta imovine izdvojenih u skladu s člankom 11. ovoga Zakona:
+a) imovine koja ispunjava uvjete kao imovina 1. stupnja, 2.A stupnja ili 2.B stupnja u skladu s LCR delegiranim aktom, koja je vrednovana u skladu s LCR delegiranim aktom i koju nije izdala kreditna institucija koja izdaje pokrivene obveznice, njezino matično društvo, osim ako je riječ o subjektu javnog sektora koji nije kreditna institucija, njezino društvo kći ili drugo društvo kći njezina matičnog društva ili sekuritizacijski subjekt posebne namjene s kojim je kreditna institucija usko povezana
+b) kratkoročnih izloženosti prema kreditnim institucijama koje ispunjavaju uvjete za 1. ili 2. stupanj kreditne kvalitete ili kratkoročnih depozita kreditnim institucijama koji ispunjavaju uvjete za 1., 2. ili 3. stupanj kreditne kvalitete u skladu s člankom 129. stavkom 1. točkom (c) Uredbe (EU) br. 575/2013.
+(4) Neosigurane tražbine iz izloženosti koje su u statusu neispunjavanja obveza u skladu s člankom 178. Uredbe (EU) br. 575/2013 ne mogu činiti dio zaštitnog sloja likvidnosti skupa za pokriće.
+(5) Za izračun neto likvidnosnih odljeva iz stavka 2. ovoga članka izračun glavnice u slučaju produljenja roka dospijeća pokrivenih obveznica uzima u obzir konačan dan dospijeća.

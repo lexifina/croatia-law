@@ -1,0 +1,13 @@
+## Odobrenje programa pokrivenih obveznica
+# Članak 20.
+(1) Pokrivene obveznice na temelju ovoga Zakona može izdati samo kreditna institucija sa sjedištem u Republici Hrvatskoj koja je od Agencije dobila odobrenje programa pokrivenih obveznica u okviru kojeg izdaje pokrivene obveznice.
+(2) Agencija rješenjem odobrava program pokrivenih obveznica, uz pozitivno prethodno mišljenje Hrvatske narodne banke te ako utvrdi da su ispunjeni i svi ostali uvjeti iz članka 21. ovoga Zakona, osim uvjeta koji, sukladno stavku 3. ovoga članka, ocjenjuje Hrvatska narodna banka.
+(3) Prilikom odlučivanja o izdavanju prethodnog mišljenja Hrvatska narodna banka ocjenjuje jesu li ispunjeni uvjeti propisani člankom 21. stavkom 1. točkom 1. ovoga Zakona.
+(4) Hrvatska narodna banka u roku iz stavka 5. ovoga članka Agenciji također na temelju podataka kojima raspolaže u okviru supervizije nad poslovanjem kreditnih institucija, sukladno odredbama zakona kojim se uređuje supervizija kreditnih institucija, dostavlja i neobvezujuće mišljenje o:
+– prikladnosti politika, postupaka i metodologija koje se odnose na izdavanje odobrenja, postupak izmjene uvjeta, produljenja roka otplate i refinanciranja kredita koje kreditna institucija primjenjuje za vrste kredita uključenih u skup za pokriće
+– prikladnosti sustava upravljanja rizicima u kreditnoj instituciji
+– kvaliteti i prikladnosti politika, postupaka i metodologija koje kreditna institucija primjenjuje, a koje se odnose na vrednovanje imovine koja je uključena u skup za pokriće.
+(5) Hrvatska narodna banka izdaje prethodno mišljenje u roku od 60 dana od dana uredno podnesenog zahtjeva za izdavanje prethodnog mišljenja od strane kreditne institucije iz članka 19. stavka 1. ovoga Zakona.
+(6) Izdavatelj koji nakon dobivanja odobrenja namjerava izmijeniti program pokrivenih obveznica mora o takvim namjeravanim izmjenama prethodno obavijestiti Hrvatsku narodnu banku i Agenciju, a za svaku materijalno značajnu izmjenu izdavatelj je dužan zatražiti odobrenje za izmjenu prethodno odobrenog programa. Na postupak izdavanja odobrenja za materijalno značajnu izmjenu programa pokrivenih obveznica primjenjuju se ista postupovna pravila kao i za izdavanje odobrenja za program pokrivenih obveznica.
+(7) Upravno vijeće Agencije donosi pravilnik kojim će propisati kriterije prema kojima se ocjenjuje radi li se o materijalno značajnoj izmjeni programa pokrivenih obveznica.
+(8) Hrvatska narodna banka donosi podzakonski propis kojim će propisati kriterije prema kojima ocjenjuje radi li se o materijalno značajnoj izmjeni poslovnog plana iz članka 21. stavka 1. točke 1. ovoga Zakona.

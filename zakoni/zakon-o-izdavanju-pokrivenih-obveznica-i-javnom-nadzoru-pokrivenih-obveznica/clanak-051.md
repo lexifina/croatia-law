@@ -1,0 +1,9 @@
+## Upozorenje
+# Članak 51.
+(1) Upozorenje je upravna sankcija koju Agencija može izreći rješenjem počinitelju za povrede propisane ovim Zakonom ako se radi o iznimno laganom obliku te povrede i kada se s obzirom na sve okolnosti koje se tiču počinitelja steknu uvjeti za postizanje svrhe sankcioniranja bez izricanja novčane kazne.
+(2) Prije donošenja rješenja iz stavka 1. ovoga članka Agencija može provesti ponovni nadzor nad subjektom nadzora u mjeri i opsegu potrebnima kako bi se utvrdilo jesu li utvrđene nezakonitosti i nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.
+(3) Stranka protiv koje je postupak pokrenut dužna je otkloniti utvrđene povrede odredbi ovoga Zakona te Agenciji podnijeti izvještaj o mjerama koje je poduzela za njihovo otklanjanje na način koji je odredila Agencija.
+(4) Kad izvještaj iz stavka 3. ovoga članka nije potpun ili iz dokumentacije u prilogu ne proizlazi da su nezakonitosti otklonjene, Agencija nalaže nadopunu izvještaja i rok u kojemu se izvještaj mora nadopuniti.
+(5) Uz izvještaj iz stavka 3. ovoga članka stranka protiv koje je postupak pokrenut dužna je priložiti dokumentaciju i druge dokaze iz kojih je vidljivo jesu li utvrđene povrede odredbi ovoga Zakona otklonjene.
+(6) Ako Agencija iz izvještaja iz stavka 3. ovoga članka, priložene dokumentacije i drugih dokaza zaključi da su utvrđene nezakonitosti i nepravilnosti otklonjene, donosi rješenje kojim se utvrđuje da su nezakonitosti i nepravilnosti otklonjene te da je postupak izricanja upravne sankcije obustavljen.
+(7) Prije donošenja rješenja iz stavka 6. ovoga članka Agencija može provesti ponovni nadzor nad subjektom nadzora u mjeri i opsegu potrebnima kako bi se utvrdilo jesu li utvrđene nezakonitosti i nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.

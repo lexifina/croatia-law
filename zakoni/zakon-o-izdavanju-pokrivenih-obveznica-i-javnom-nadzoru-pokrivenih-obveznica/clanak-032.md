@@ -1,0 +1,8 @@
+## Završetak postupka neposrednog nadzora
+# Članak 32.
+(1) Nakon obavljenog neposrednog nadzora ovlaštene osobe Agencije sastavljaju zapisnik o obavljenom nadzoru koji se dostavlja subjektu nadzora, s detaljnim opisom i obrazloženjem utvrđenih činjenica.
+(2) Na dostavljeni zapisnik subjekt nadzora ima pravo uložiti prigovor Agenciji u roku navedenom u zapisniku, a koji ne može biti kraći od osam dana od dana njegova primitka.
+(3) Prigovor iz stavka 2. ovoga članka može se predati Agenciji neposredno u pisanom obliku, poslati poštom, dostaviti u obliku elektroničke isprave izrađene sukladno zakonu kojim se uređuje elektronički potpis ili usmeno na zapisnik.
+(4) Ako u postupku nadzora nisu utvrđene povrede odredbi ovoga Zakona za koje je potrebno izreći nadzorne mjere ili su one utvrđene, ali su otklonjene do sastavljanja zapisnika, to se unosi u zapisnik te Agencija donosi rješenje kojim se utvrđuje da je postupak nadzora obustavljen.
+(5) Ako su povrede odredbi ovoga Zakona utvrđene zapisnikom otklonjene nakon sastavljanja zapisnika, a prije donošenja rješenja o nadzornim mjerama, Agencija o tome sastavlja dopunu zapisnika te, ako su otklonjene sve utvrđene povrede odredbi ovoga Zakona, donosi rješenje kojim se utvrđuje da su utvrđene povrede odredbi ovoga Zakona otklonjene i postupak nadzora obustavljen.
+(6) Prije donošenja rješenja iz stavka 5. ovoga članka Agencija može provjeriti postupanje subjekta nadzora te zatražiti dostavu dokumentacije ili drugih dokaza kako bi se utvrdilo jesu li utvrđene nezakonitosti i/ili nepravilnosti otklonjene na odgovarajući način i u odgovarajućem opsegu.

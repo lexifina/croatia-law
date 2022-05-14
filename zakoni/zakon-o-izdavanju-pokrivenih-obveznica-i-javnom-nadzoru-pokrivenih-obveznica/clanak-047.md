@@ -1,0 +1,8 @@
+## Postupak izvršenja novčane kazne ili utvrđenog ukupnog iznosa periodičnih penala
+# Članak 47.
+(1) U rješenju Agencije kojim se izriče novčana kazna ili rješenju kojim se utvrđuje ukupan iznos periodičnih penala naznačuje se rok i način uplate izrečene novčane kazne ili utvrđenog periodičnog penala.
+(2) Novčana kazna ili utvrđeni ukupan iznos periodičnih penala uplaćuje se po izvršnosti rješenja Agencije odnosno po izvršnosti sudske odluke.
+(3) Agencija može sa strankom sklopiti upravni ugovor radi izvršenja rješenja na prijedlog stranke kojoj je izrečena novčana kazna ili utvrđen ukupan iznos periodičnih penala na rok koji ne može biti duži od 12 mjeseci, za koje vrijeme ne teče zastara iz članka 48. ovoga Zakona.
+(4) Novčane kazne izrečene rješenjem o izricanju upravne sankcije ili periodični penali izrečeni rješenjem o utvrđivanju ukupnog iznosa periodičnih penala prihod su državnog proračuna.
+(5) Ako počinitelj povrede ne uplati u naznačenom roku novčanu kaznu ili utvrđeni ukupni iznos periodičnih penala, Agencija tijelu nadležnom za provedbu ovrhe na novčanim sredstvima podnosi nalog za naplatu novčane kazne ili utvrđenog ukupnog iznosa periodičnih penala prisilnim putem, sukladno zakonu kojim se uređuje provedba ovrhe na novčanim sredstvima, a iznosi prisilno naplaćene novčane kazne ili utvrđenog ukupnog iznosa periodičnih penala uplaćuju se izravno u korist državnog proračuna.
+(6) Nalog za naplatu novčane kazne ili utvrđenog ukupnog iznosa periodičnih penala prisilnim putem iz stavka 5. ovoga članka smatra se osnovom za plaćanje u smislu zakona kojim se uređuje provedba ovrhe na novčanim sredstvima.
