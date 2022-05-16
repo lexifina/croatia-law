@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 127. stavaka 6., 7., 8., 9., 10. i 15. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi ("Narodne novine" broj 87/08., 86/09., 92/10., 105/10., 90/11., 5/12., 16/12., 86/12., 94/13., 152/14., 7/17., 68/18., 98/19., 64/20. i 133/20.).
