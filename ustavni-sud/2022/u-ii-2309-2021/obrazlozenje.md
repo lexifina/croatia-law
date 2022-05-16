@@ -1,0 +1,17 @@
+O b r a z l o ž e n j e
+1. Marija Unković iz Torčeca (u daljnjem tekstu: predlagateljica) podnijela je 20. travnja 2021. Ustavnom sudu podnesak pod nazivom "ocjena zakonitosti i ustavnosti odluke HNB-e", odnosno "odluke na temelju koje se bankovna potraživanja (potraživanja kreditnih institucija) prodaju trećim osobama".
+2. Predlagateljica u prijedlogu ističe:
+"... Osnovni argument u ispitivanju zakonitosti i ustavnosti ove Odluke je u tome to je HNB prekoračio svoje ovlasti regulirajući prodaju potraživanja trećim osobama koje nisu banke, već poslovni subjekti nad kojima HNB nema nikakvih ingerencija. Istovremeno, HNB se odriče kontrolne uloge u provedbi naplate potraživanja trećih osoba, iako je sam HNB u svojoj odluci naveo da se prodajom potraživanja dužnik, nakon prodaje njegovih dugova, ne smije naći u nepovoljnijem položaju u odnosu na prodavatelja. ..."
+Nadalje navodi:
+"Zbog svog nepovoljnog položaja dužnika/ce prema 'novom' vjerovniku Svea ekonomi d.o.o. Zagreb, molim Časni sud da donese ocjenu zakonitosti i ustavnosti, kako bi se zaustavila ova protuzakonita i protuustavna radnja."
+3. Nakon izvršenog pregleda podneska utvrđeno je da nije sastavljen na način propisan člankom 19. stavkom 1. u vezi s člancima 39. i 40. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon).
+Dopisom Ustavnog suda od 14. ožujka 2022. predlagateljica je pozvana da u roku od osam (8) dana dopuni svoj prijedlog na način koji omogućava odlučivanje o biti stvari. Ujedno, predlagateljica je upozorena na posljedice propuštanja postupanja po nalogu Ustavnog suda sadržane u članku 19. stavku 4. Ustavnog zakona.
+4. U konkretnom slučaju, predlagateljica je unutar zadanog roka dostavila Ustavnom sudu podnesak u kojem, između ostalog, navodi da "nigdje u navedenim zakonima o kreditnim institucijama i HNB-u nije precizno definirana regulatorna i kontrolna uloga HNB-a o prodaji potraživanja poslovnih banaka", te da "treba osporiti pravnu valjanost cesija" odnosno da su "svi razlozi za ukidanje osporenog propisa navedeni ... u prvobitnom zahtjevu".
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+5. Člankom 19. stavkom 1. Ustavnog zakona propisano je da podnesci upućeni Ustavnom sudu moraju biti razumljivi i moraju sadržavati sve što je potrebno da bi se po njima moglo postupiti. Člankom 19. stavkom 2. Ustavnog zakona propisano je da kada je podnesak nerazumljiv ili ne sadržava sve što je potrebno da bi se po njemu moglo postupiti, Ustavni sud će vratiti podnesak podnositelju radi ispravka, odnosno dopune, uz određivanje roka za ponovno podnošenje podneska.
+Na temelju članka 19. stavka 4. Ustavnog zakona smatrat će se da je podnesak povučen ako ne bude vraćen Ustavnom sudu u određenome roku, a ako bude vraćen bez ispravka, odnosno dopune, odbacit će se.
+6. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... i u drugim slučajevima kad ne postoje pretpostavke za odlučivanje o biti stvari."
+U konkretnom slučaju predlagateljica, iako upozorena na posljedice svog propusta, nije ispravila odnosno dopunila podneseni podnesak u skladu s nalogom Ustavnog suda.
+7. S obzirom na činjenicu da prijedlog predlagateljice sadržajno nije sastavljen na način koji bi omogućavao odlučivanje o biti stvari, a da je vraćen Ustavnom sudu bez ispravka odnosno dopune, na temelju članka 32. u vezi s člankom 19. stavkom 4. Ustavnog zakona, riješeno je kao u izreci.
