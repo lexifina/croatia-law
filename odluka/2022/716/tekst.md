@@ -1,0 +1,8 @@
+I.
+Odlukom o uvođenju strukovnog kurikuluma za stjecanje kvalifikacije PREHRAMBENI TEHNIČAR (090524) u obrazovnom sektoru POLJOPRIVREDA, PREHRANA I VETERINA (»Narodne novine«, broj 74/2017.) donesen je strukovni kurikulum za stjecanje kvalifikacije PREHRAMBENI TEHNIČAR (090524) u obrazovnom sektoru POLJOPRIVREDA, PREHRANA I VETERINA.
+II.
+Ovom Odlukom donose se izmjene i dopune strukovnog kurikuluma za stjecanje kvalifikacije PREHRAMBENI TEHNIČAR (090524) u obrazovnom sektoru POLJOPRIVREDA, PREHRANA I VETERINA u dijelu koji se odnosi na kadrovske uvjete u nastavnim predmetima: Primijenjena kemija, Račun u struci, Kemija hrane, Biokemija, Prehrambena mikrobiologija, Sirovine i ambalaža, Tehnološke operacije, Tehnološke operacije i procesi, Hrana i prehrana, Prehrambena tehnologija, Procesi pripreme hrane, Analiza i kontrola kvalitete hrane, Osiguranje kvalitete hrane, Higijena hrane, Zaštita na radu i higijena, Zaštita okoliša, Poduzetništvo u prehrambenoj industriji, Tehnologija mlijeka i mliječnih proizvoda, Tehnologija vode, Tehnologija žitarica i pekarstvo, Tehnologija ulja i masti, Tehnologija ugljikohidrata i konditorskih proizvoda, Tehnologija voća i povrća, Tehnologija mesa i ribe, Tehnologija piva i vina, Tehnologija alkoholnih i bezalkoholnih pića, Biotehnologija, Catering, Poslovna komunikacija i Marketing.
+III.
+Sastavni dio ove Odluke su izmjene i dopune strukovnog kurikuluma za stjecanje kvalifikacije PREHRAMBENI TEHNIČAR (090524) u obrazovnom sektoru POLJOPRIVREDA, PREHRANA I VETERINA iz točke II. ove Odluke.
+IV.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
