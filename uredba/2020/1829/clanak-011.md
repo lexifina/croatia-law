@@ -1,7 +1,0 @@
-## 4. SEKTOR ZA RAZVOJ JAVNIH USLUGA DIGITALNOG DRUŠTVA
-# Članak 11.
-Sektor za razvoj javnih usluga digitalnog društva obavlja stručne poslove vezane uz razvoj elektroničkih usluga i pružanje cjelovitih informacija o uslugama i druge sadržaje; obavlja analize elektroničkog poslovanja u tijelima državne uprave; predlaže i provodi mjere za poboljšanje poslovanja državne uprave korištenjem informacijsko-komunikacijske tehnologije; obavlja stručne poslove na uspostavi zajedničkih (horizontalnih) rješenja državne uprave te poticanju razvitka elektroničkih usluga; poticanja primjene inovativnih rješenja za elektroničke usluge; sudjeluje u pripremi dokumentacije i strateških dokumenata za korištenje fondova EU i drugih relevantnih programa EU i njezinih članica; obavlja upravne i stručne poslove koji se odnose na davanje stručnih mišljenja u okviru svoga djelokruga na dostavljene nacrte prijedloga zakona i prijedloge drugih propisa i akata te obavlja i druge poslove u okviru svoga djelokruga; obavlja stručne poslove koji se odnose na pripremu, provedbu, praćenje, vrednovanje, razvoj i koordinaciju programa i projekata financiranih sredstvima Europske unije; sudjeluje u izradi strateškog plana Središnjeg državnog ureda za trogodišnje razdoblje; obavlja i druge poslove iz svoga djelokruga.
-U Sektoru za razvoj javnih usluga digitalnog društva, ustrojavaju se:
-4.1. Služba za razvoj elektroničkih usluga
-4.2. Služba za objavu informacija.
-4.1. Služba za razvoj elektroničkih usluga
