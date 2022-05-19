@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 4. Zakona o trošarinama (»Narodne novine«, br. 106/18., 121/19. i 144/21.), članka 20. stavka 4. Zakona o posebnom porezu na kavu i bezalkoholna pića (»Narodne novine«, br. 72/13., 121/19. i 22/20.) i članka 33. Zakona o posebnom porezu na motorna vozila (»Narodne novine«, br. 15/13., 108/13., 115/16., 127/17. i 121/19.), ministar financija donosi
