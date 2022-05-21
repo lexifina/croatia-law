@@ -1,0 +1,6 @@
+## Dozvola za prekogranični prijevoz gotovog novca i zaštitne mjere
+# Članak 78.
+(1) Dozvolu za prekogranični prijevoz gotovog novca u Republici Hrvatskoj izdaje Ministarstvo unutarnjih poslova sukladno propisima o privatnoj zaštiti.
+(2) Tijelo koje je izdalo dozvolu za prekogranični prijevoz gotovog novca može suspendirati predmetnu dozvolu na period od 14 dana do dva mjeseca, ako nije poštovan dio Uredbe koji se odnosi na broj zaštitarskog osoblja za prijevoz gotovog novca ili postupke s oružjem ili obavlja poslove prijevoza kojima ugrožava javni red ili je u ponovljenom prekršaju u skladu s člankom 22. točkom 3. Uredbe (EU) br. 1214/2011.
+(3) U slučaju višestrukog kršenja postupaka propisanih Uredbom tijelo koje je izdalo dozvolu za prekogranični prijevoz gotovog novca može zabraniti takvom prijevozniku podnošenje zahtjeva za novu licenciju na razdoblje do pet godina u skladu s člankom 22. točkom 1. Uredbe (EU) br. 1214/2011.
+(4) U slučaju zlouporabe postupka, koje podrazumijeva počinjenje kaznenog djela tijekom provedbe prekograničnog prijevoza gotovog novca u eurima, tijelo koje je izdalo dozvolu za prekogranični prijevoz gotovog novca trajno će suspendirati obavljanje prekograničnih poslova i ukinuti predmetnu dozvolu u skladu s člankom 22. točkom 1. Uredbe (EU) br. 1214/2011.

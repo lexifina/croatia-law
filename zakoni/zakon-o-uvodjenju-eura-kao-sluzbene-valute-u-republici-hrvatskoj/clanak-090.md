@@ -1,0 +1,4 @@
+## DIO DESETI PRIJELAZNE I ZAVRŠNE ODREDBE
+## Dostava zahtjeva za upis svih izdanih dionica u nematerijaliziranom obliku
+# Članak 90.
+Dionička društva koja su na području Republike Hrvatske izdala dionice javnom ponudom u smislu propisa kojim je uređeno tržište kapitala, a koja su sukladno odredbama Zakona o izmjenama i dopunama Zakona o tržištu kapitala (»Narodne novine«, br. 83/21.) bila dužna središnjem depozitoriju vrijednosnih papira predati zahtjev za upis izdanih dionica u središnji depozitorij vrijednosnih papira u nematerijaliziranom obliku, a tu obvezu nisu ispunila do stupanja na snagu ovoga Zakona, dužna su, po upisu promjene iz članka 65. stavka 5. ovoga Zakona, središnjem depozitoriju vrijednosnih papira dostaviti i zahtjev za upis svih izdanih dionica u nematerijaliziranom obliku.

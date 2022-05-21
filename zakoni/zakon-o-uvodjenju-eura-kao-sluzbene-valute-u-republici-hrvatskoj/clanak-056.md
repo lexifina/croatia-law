@@ -1,0 +1,11 @@
+## Preračunavanje iznosa kod naloga za plaćanje iskazanog u kuni
+# Članak 56.
+(1) Pružatelj platnih usluga od dana uvođenja eura ne smije izvršavati platne transakcije u kuni.
+(2) Nalog za plaćanje (uplatnica) na kojem je iznos plaćanja naveden u kuni i koji je primatelj plaćanja pripremio, tiskao i unaprijed dostavio platitelju, a koji je platitelj podnio na izvršenje banci nakon dana uvođenja eura, banka je dužna izvršiti u euru u iznosu koji odgovara iznosu kuna navedenom na nalogu za plaćanje uz primjenu fiksnog tečaja konverzije i sukladno pravilima za preračunavanje i zaokruživanje iz ovoga Zakona.
+(3) Banka je dužna postupati na način iz stavka 2. ovoga članka do isteka šest mjeseci od dana uvođenja eura.
+(4) Banka je dužna omogućiti tehničke pretpostavke za izvršenje naloga u skladu sa stavkom 2. ovoga članka, uključujući korištenje 2D bar koda.
+(5) Ako pružatelj platnih usluga koji nije banka zaprima nalog iz stavka 2. ovoga članka, izvršava ga na način kako je uređeno stavcima 2. i 3. ovoga članka.
+(6) Nalog za plaćanje u kuni koji je zaprimljen prije dana uvođenja eura, a koji se treba izvršiti nakon dana uvođenja eura, pružatelj platnih usluga dužan je izvršiti u euru, u iznosu koji odgovara iznosu kuna navedenom na nalogu za plaćanje uz primjenu fiksnog tečaja konverzije i sukladno pravilima za preračunavanje i zaokruživanje iz ovoga Zakona.
+(7) Postupanje pružatelja platnih usluga u skladu sa stavcima 2. i 6. ovoga članka ne smatra se izmjenom naloga za plaćanje sukladno odredbama propisa kojim se uređuje platni promet te pružatelj platne usluge u svezi s preračunavanjem nije u obvezi od korisnika platne usluge tražiti dodatne suglasnosti niti upute za postupanje.
+(8) Pružatelj platnih usluga na dan uvođenja eura i na dan koji mu prethodi nije dužan osigurati pristup drugim pružateljima platnih usluga svojim namjenskim sučeljima i modificiranim klijentskim sučeljima koje je uspostavio za komunikaciju na siguran način u skladu s Delegiranom uredbom Komisije (EU) 2018/389 od 27. studenoga 2017. o dopuni Direktive (EU) 2015/2366 u pogledu regulatornih tehničkih standarda za pouzdanu autentifikaciju klijenata i zajedničke i sigurne otvorene standarde komunikacije (SL L 69, 13. 3. 2018.).
+(9) U slučaju iz stavka 8. ovoga članka pružatelj platnih usluga dužan je unaprijed obavijestiti svoje korisnike platnih usluga.

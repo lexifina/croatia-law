@@ -1,0 +1,7 @@
+## GLAVA II. PRERAČUNAVANJE NOVČANIH SREDSTAVA I PRERAČUNAVANJE KOD UGOVORA O KREDITU I UGOVORA O LEASINGU
+## Preračunavanje novčanih sredstava na računu
+# Članak 55.
+(1) Hrvatska narodna banka, Hrvatska banka za obnovu i razvitak, kreditna institucija, kreditna unija, institucija za platni promet, institucija za elektronički novac, drugi vjerovnik sukladno propisu kojim se uređuje potrošačko kreditiranje i pružatelj financijskih usluga preračunavaju iznose na depozitnim, štednim i transakcijskim računima, drugim računima za plaćanje, platnim instrumentima i na ostalim evidencijama u kuni u iznose u euru bez naknade uz primjenu fiksnog tečaja konverzije i sukladno pravilima za preračunavanje i zaokruživanje iz ovoga Zakona te bez izmjene jedinstvenog broja računa.
+(2) Iznimno od stavka 1. ovoga članka, kod ugovora o depozitu i ugovora o štednom računu u kuni koji je ugovoren uz primjenu valutne klauzule u euru iznos koji je iskazan u kuni uz valutnu klauzulu u euru iskazuje se u iznosu eura koji proizlazi iz ugovornog odnosa.
+(3) Provedba aktivnosti iz stavaka 1. i 2. ovoga članka ne utječe na punomoć za raspolaganje sredstvima na računu.
+(4) Ako prije dana uvođenja eura u kreditnoj instituciji, kreditnoj uniji, instituciji za platni promet i instituciji za elektronički novac imatelj računa ima račun i u kuni i u euru, u roku od 60 dana od dana uvođenja eura ima pravo bez naknade zatvoriti jedan ili više računa i prenijeti sredstva evidentirana na tim računima na račun po njegovu izboru u istoj instituciji.

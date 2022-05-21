@@ -1,0 +1,8 @@
+## Kontrola predopskrbe, posredne predopskrbe, pojednostavljene posredne predopskrbe i opskrbe početnim paketima eurokovanica
+# Članak 32.
+(1) Hrvatska narodna banka provodi kontrolu banaka, stambenih štedionica, kreditnih unija, institucija za platni promet, institucija za elektronički novac, drugih vjerovnika sukladno propisu kojim se uređuje potrošačko kreditiranje, pružatelja financijskih usluga, poslovnih subjekata, uključujući društava za prijevoz gotovog novca u svrhu osiguravanja postupanja u skladu s odredbama ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona kojima se uređuje predopskrba, posredna predopskrba, pojednostavljena posredna predopskrba i opskrba početnim paketima eurokovanica te sklopljenim ugovorima.
+(2) Kontrola Hrvatske narodne banke iz stavka 1. ovoga članka obuhvaća provjeru:
+– je li gotov novac eura iz predopskrbe, posredne predopskrbe, pojednostavljene posredne predopskrbe i opskrbe početnim paketima eurokovanica pohranjen odvojeno od ostaloga gotovog novca eura, ostalih valuta odnosno ostale imovine na primjeren način i u odgovarajućim vrijednostima
+– postupaka i načina na koji banke obavljaju posrednu predopskrbu, pojednostavljenu posrednu predopskrbu i opskrbu početnim paketima eurokovanica
+– postupanja u skladu s ugovorom iz članka 20. ovoga Zakona.
+(3) Banka, stambena štedionica, kreditna unija, institucija za platni promet, institucija za elektronički novac, drugi vjerovnik sukladno propisu kojim se uređuje potrošačko kreditiranje, pružatelj financijskih usluga, poslovni subjekti, uključujući društvo za prijevoz gotovog novca, dužni su Hrvatskoj narodnoj banci omogućiti provođenje kontrole u poslovnim prostorijama u kojima obavljaju djelatnost.

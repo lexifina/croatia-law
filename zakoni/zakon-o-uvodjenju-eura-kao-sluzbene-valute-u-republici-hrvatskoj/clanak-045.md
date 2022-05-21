@@ -1,0 +1,3 @@
+## Razdoblje važenja legitimacijskih papira, poštanskih marki i državnih biljega
+# Članak 45.
+Legitimacijski papiri, poštanske marke, frankirane markice, državni biljezi, lutrijske igre s unaprijed utvrđenim rezultatom, kuponi za popust, kuponi u vrijednosti vraćene robe, ambalaža s iskazanim piktogramom povratne naknade, prepaid bonovi, vrijednosne kartice, poklon-kartice, knjige i druge periodičke publikacije, službeni obrasci i tiskanice, koji su bili tiskani ili u prodaji prije dana uvođenja eura i na kojima su iznosi iskazani u kuni koriste se i nakon dana uvođenja eura do potrošnje zaliha uz primjenu fiksnog tečaja konverzije i sukladno pravilima za preračunavanje i zaokruživanje iz ovoga Zakona.

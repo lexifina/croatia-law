@@ -1,0 +1,7 @@
+## Poslovne knjige
+# Članak 70.
+(1) Poslovni događaji koji se odnose na razdoblje nakon dana uvođenja eura evidentiraju se u poslovnim knjigama u euru, a po potrebi i u drugoj stranoj valuti.
+(2) Stanja u kuni prenesena iz poslovnih knjiga za godinu koja je prethodila godini u kojoj je uveden euro preračunavaju se u euro uz primjenu fiksnog tečaja konverzije i sukladno pravilima za preračunavanje i zaokruživanje iz ovoga Zakona.
+(3) Knjigovodstvena isprava izražena u kuni ili nekoj drugoj valuti koja nije euro, izdana prije dana uvođenja eura, a koja se odnosi na obračunsko razdoblje nakon dana uvođenja eura, preračunava se u euro uz primjenu fiksnog tečaja konverzije i sukladno pravilima za preračunavanje i zaokruživanje iz ovoga Zakona odnosno uz primjenu tečaja eura prema toj drugoj stranoj valuti.
+(4) Razlike do kojih će doći zbog primjene pravila za preračunavanje i zaokruživanje iz ovoga Zakona evidentiraju se u poslovnim knjigama u skladu s računovodstvenim standardom odnosno u skladu sa zakonima i podzakonskim propisima kojima se uređuje ovo područje.
+(5) Za dug ili dio ukupnog duga dužnika prema vjerovniku po pojedinom pravnom poslu koji je zbog primjene fiksnog tečaja konverzije i pravila za preračunavanje i zaokruživanje iz ovoga Zakona manji od jednog centa, obveza prestaje, a ta tražbina ili potraživanje odnosno taj dio ukupne tražbine ili potraživanja vjerovnika prema dužniku se otpisuje po službenoj dužnosti odnosno po sili ovoga Zakona.

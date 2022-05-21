@@ -1,0 +1,9 @@
+## Zapisnik o obavljenom nadzoru
+# Članak 82.
+(1) Nakon provedenog posrednog nadzora kojim su utvrđene nezakonitosti u primjeni ovoga Zakona ili nakon provedenog neposrednog nadzora tijelo ovlašteno za nadzor koji se vodi u skladu s odredbama ove glave Zakona sastavit će zapisnik.
+(2) Zapisnik o provedenom neposrednom nadzoru u kojem nisu utvrđene nezakonitosti ili su utvrđene nezakonitosti otklonjene tijekom neposrednog nadzora ovlaštena osoba sastavlja odmah po provedenom nadzoru u dva primjerka od kojih jedan primjerak uručuje subjektu nadzora.
+(3) Zapisnik o provedenom neposrednom nadzoru u kojem je utvrđena nezakonitost koja nije otklonjena tijekom nadzora ovlaštena osoba sastavlja najkasnije u roku od pet radnih dana od dana provedenog nadzora u dva primjerka i dostavlja ga na očitovanje upravi odnosno osobi ovlaštenoj za zastupanje subjekta nadzora.
+(4) Zapisnik o provedenom posrednom nadzoru kojim su utvrđene nezakonitosti u primjeni ovoga Zakona tijelo ovlašteno za nadzor u postupku nadzora koji se vodi u skladu s odredbama ove glave Zakona dostavlja na očitovanje upravi odnosno osobi ovlaštenoj za zastupanje subjekta nadzora u roku od pet radnih dana od dana provedenog nadzora.
+(5) Zapisnik iz stavka 3. ovoga članka može sadržavati poziv subjektu nadzora da u roku određenom u zapisniku otkloni utvrđene nezakonitosti i o tome obavijesti nadležno nadzorno tijelo.
+(6) Na dostavljeni zapisnik subjekt nadzora ima pravo očitovanja u roku navedenom u zapisniku, a koji ne može biti kraći od tri niti duži od osam dana od dana njegova primitka.
+(7) Nakon zaprimljenog očitovanja tijelo ovlašteno za nadzor u postupku koji se vodi u skladu s odredbama ove glave Zakona ako smatra opravdanim navode iz očitovanja, sastavlja dodatak zapisniku i dostavlja ga upravi odnosno osobi ovlaštenoj za zastupanje subjekta nadzora, protiv kojeg subjekt nadzora nema pravo na očitovanje.

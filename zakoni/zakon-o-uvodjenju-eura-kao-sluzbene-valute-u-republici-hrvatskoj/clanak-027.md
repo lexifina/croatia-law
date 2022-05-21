@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Financijska agencija i HP-Hrvatska pošta d. d. ovlaštene su na temelju sklopljenog ugovora s bankom zamjenjivati gotov novac kune za gotov novac eura pod istim uvjetima, na isti način i u istom razdoblju kako je ovim Zakonom propisano za banke te su za te potrebe ovlaštene odrediti iznos iznad kojeg je obvezna najava zamjene gotovog novca kune za gotov novac eura, o čemu su informaciju dužne jasno i čitljivo istaknuti na vidljivom i lako uočljivom mjestu u poslovnici i na svojoj internetskoj stranici.
+(2) Za zamjenu gotovog novca kune za gotov novac eura sukladno stavku 1. ovoga članka Financijska agencija i HP-Hrvatska pošta d. d. odgovaraju samostalno.

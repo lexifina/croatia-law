@@ -1,0 +1,11 @@
+## Autorska prava na autorskom djelu korištenom na nacionalnoj strani eurokovanica
+# Članak 35.
+(1) Hrvatska narodna banka dužna je i ovlaštena od autora ugovorom pribaviti sadržajno, vremenski i prostorno neograničena isključiva autorska prava iskorištavanja autorskih djela korištenih na nacionalnoj strani eurokovanice (u daljnjem tekstu: dizajn nacionalne strane eurokovanice) slijedom čega je Hrvatska narodna banka jedini nositelj isključivog prava iskorištavanja dizajna nacionalne strane eurokovanice, na sve načine i bez sadržajnih, vremenskih ili prostornih ograničenja.
+(2) Za svako korištenje dizajna nacionalne strane eurokovanice potrebno je prethodno odobrenje Hrvatske narodne banke koje se izdaje u upravnom postupku.
+(3) Iznimno od stavka 2. ovoga članka, korištenje cijelog ili dijela dizajna nacionalne strane eurokovanice dopušteno je bez prethodnog odobrenja Hrvatske narodne banke samo u sljedećim slučajevima:
+– na fotografijama, crtežima, slikama, filmovima i drugim primjercima u dvodimenzionalnom obliku i bez reljefa, pod uvjetom da takav primjerak predstavlja vjerni prikaz dizajna nacionalne strane eurokovanice i da se rabi na način kojim se ne deformira, sakati ili na sličan način naružuje dizajn nacionalne strane eurokovanice
+– na primjercima koji sadržavaju reljefne prikaze na predmetima koji nisu kovanica, medalja ili žeton ni ikakav drugi sličan predmet koji se može zamijeniti s eurokovanicom
+– na žetonima koji su napravljeni od mekog materijala ili plastike pod uvjetom da su barem 50 % veći ili manji od stvarne veličine odgovarajuće eurokovanice.
+(4) Autor dizajna nacionalne strane eurokovanice svoja moralna autorska prava ne može izvršavati suprotno cilju i svrsi zbog kojih je Hrvatska narodna banka stekla prava iskorištavanja dizajna nacionalne strane eurokovanice u skladu s ovim Zakonom.
+(5) Hrvatska narodna banka autorska će prava iskorištavanja dizajna zajedničke strane eurokovanice na području Republike Hrvatske ostvarivati na način i u opsegu koje odredi Europska komisija.
+(6) Hrvatska narodna banka kao nositelj prava iskorištavanja na dizajnu nacionalne strane eurokovanice ima sva prava na zaštitu od povrede u skladu s ovim Zakonom i zakonom kojim se uređuju autorsko pravo i srodna prava.
