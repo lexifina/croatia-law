@@ -1,0 +1,2 @@
+# Članak 7.
+U svrhu obavljanja službenih kontrola prilikom uvoza hrane i sirovina za hranu iz članka 44. Uredbe (EU) br. 2017/625, osim graničnih prijelaza i carinskih mjesta iz članka 6. ove Uredbe, granični sanitarni inspektor dolazit će po pozivu, uz prethodnu najavu od 24 sata prije prispijeća pošiljke i na sljedeća carinska mjesta: Bjelovar, Varaždin, Krapina, Karlovac, Sisak, Pazin, Slavonski Brod i Vinkovci.

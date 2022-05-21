@@ -1,0 +1,2 @@
+# Članak 10.
+Iznimno od članka 8. ove Uredbe, pošiljke plodova iz rodova Citrus L., Fortunella Swingle i Poncirus Raf., te njihovih križanaca, isključujući plodove vrsta Citrus aurantium L. i Citrus latifolia Tanaka, koji su namijenjeni isključivo za industrijsku preradu u sok, a podrijetlom su iz Argentine, Brazila, Južne Afrike ili Urugvaja, mogu se unositi isključivo preko granične kontrolne postaje Rijeka.
