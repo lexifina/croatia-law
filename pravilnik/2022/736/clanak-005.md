@@ -1,0 +1,4 @@
+## Uvjeti prihvatljivosti korisnika
+# Članak 5.
+(1) Za potporu je prihvatljiv subjekt u poslovanju s hranom životinjskog podrijetla koji je upisan u Upisnik registriranih objekata u poslovanju s hranom životinjskog podrijetla s opisom djelatnosti »sabiralište«, kojeg vodi Ministarstvo poljoprivrede (u daljnjem tekstu: Ministarstvo) i interes mu je uređenje i/ili opremanje sabirališta mlijeka kako bi ono ispunilo opće odredbe o higijeni propisane Prilogom II. Uredbe (EZ) 852/2004 i posebne odredbe o higijeni propisane Prilogom III. Odjeljkom IX. Uredbe (EZ) 853/2004 s ciljem upisa »sabirališta« u Upisnik odobrenih objekata u poslovanju s hranom životinjskog podrijetla (u daljnjem tekstu: Upisnik odobrenih objekata).
+(2) Infrastrukturni uvjeti i uvjeti za opremu kojima sabiralište mora udovoljiti da bi bilo upisano u Upisnik odobrenih objekata navedeni su u Prilogu 1. ovoga Pravilnika.
