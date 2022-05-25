@@ -1,0 +1,4 @@
+ODLUKU
+I. Pokreće se postupak za ocjenu suglasnosti s Ustavom i zakonom te se ukida članak 11. Uredbe o postupcima koji prethode sklapanju pravnih poslova raspolaganja nekretninama u vlasništvu Republike Hrvatske u svrhu dodjele na uporabu nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna te drugih osoba (»Narodne novine« broj 95/18.).
+II. Do donošenja uredbe Vlade Republike Hrvatske iz članka 49. stavka 2. Zakona o upravljanju državnom imovinom (»Narodne novine« broj 52/18.) primjenjivat će se Uredba o mjerilima i kriterijima dodjele na korištenje nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna te drugih osoba (»Narodne novine« broj 127/13.) u dijelu kojim se uređuje koji državni dužnosnici imaju pravo na korištenje stana i način na koji se stanovi daju na uporabu državnim dužnosnicima.
+III. Ova odluka objavit će se u »Narodnim novinama«.
