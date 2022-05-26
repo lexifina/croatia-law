@@ -1,0 +1,8 @@
+## POGLAVLJE III.
+## NAČIN IZRAČUNA MJESEČNOG IZNOSA NAKNADE ZA NEZAPOSLENE
+# Članak 15.
+(1) Korisnicima naknade za nezaposlene iz članka 107. točaka a), b), d), e), f) i g) Zakona koji u prethodnoj kalendarskoj godini u kućanstvu nemaju prihode od utjecaja na naknadu za nezaposlene, naknada za nezaposlene određuje se u iznosu od 33% od utvrđene proračunske osnovice.
+(2) Korisnicima naknade za nezaposlene iz članka 107. točaka c) i h) ovoga Zakona koji u prethodnoj kalendarskoj godini u kućanstvu nemaju prihode od utjecaja na naknadu za nezaposlene, naknada za nezaposlene određuje se tako da se osnovica u iznosu od 33% od utvrđene proračunske osnovice povećava za 0,01% od utvrđene proračunske osnovice za svaki dan proveden u obrani suvereniteta Republike Hrvatske u borbenom sektoru.
+(3) U slučaju kada je utvrđeno da u prethodnoj kalendarskoj godini postoje prihodi od utjecaja na iznos i pravo na naknadu za nezaposlene, ali niži od 30% proračunske osnovice, iznos naknade za nezaposlene određuje se u iznosu razlike između iznosa određenog prema stavcima 1. i 2. ovoga članka i iznosa mjesečnog novčanog prihoda po korisniku, odnosno članu kućanstva.
+(4) Mjesečni iznos novčanog prihoda po korisniku, odnosno po članu kućanstva, o kojemu ovisi pravo na naknadu za nezaposlene i iznos naknade za nezaposlene izračunava se na način da se ukupni novčani prihodi korisnika i članova njegovog kućanstva ostvareni u prethodnoj kalendarskoj godini podijele s brojem korisnika i članova kućanstava, a zatim dobiveni količnik podijeli s brojem dvanaest.
+(5) Kod izračuna iznosa mjesečne naknade za nezaposlene, valja uzeti prihode od utjecaja na iznos i pravo na naknadu nezaposlene svih članova zajedničkog kućanstva ostvarene u prethodnoj kalendarskoj godini.

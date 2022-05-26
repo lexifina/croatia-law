@@ -1,0 +1,2 @@
+# Članak 25.
+Korisnicima naknade za nezaposlene koji su u razdoblju od stupanja na snagu Zakona o izmjenama i dopunama Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 84/21) do stupanja na snagu ovoga Pravilnika postali korisnici mirovine veće od osnovice za određivanje iznosa naknade za nezaposlene, prestanak naknade za nezaposlene utvrđuje se prvog dana idućeg mjeseca od dana stupanja na snagu ovoga Pravilnika, ako im prestanak, odnosno obustava isplate prava već nije utvrđena ranije.
