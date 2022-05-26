@@ -1,0 +1,7 @@
+# Članak 13.
+(1) Vlasništvo, korištenje, suvlasništvo ili sukorištenje stambenog prostora koje korisniku i članovima njegova kućanstva ne služe za podmirenje osnovnih životnih potreba ne predstavlja zapreku za priznavanje prava na jednokratnu novčanu pomoć ako stranka priloži dokaz o otuđenju, ali se prihod ostvaren od prodaje uzima kao prihod od utjecaja na pravo i visinu iznosa prava na jednokratnu novčanu pomoć.
+(2) Vrijednost prodane nekretnine uzimat će se iz rješenja nadležne porezne uprave o razrezu poreza. Ako se nadležna porezna uprava očituje da nije izdala rješenje, uzimat će se u obzir iznos naveden u ugovoru o prodaji.
+(3) Činjenica prodaje nekretnina, utvrdit će se pribavljanjem očitovanja zemljišnoknjižnog odjela nadležnog općinskog suda ili očitovanjem nadležne porezne uprave o činjenici prometa nekretnine.
+(4) Iznimno od stavka 1. ovoga članka prihod ostvaren od prodaje nekretnine koja ne služi za podmirenje osnovnih životnih potreba ne uzima se kao prihod od utjecaja na pravo i visinu jednokratne novčane pomoći, ako stranka priloži dokaz o kupnji druge nekretnine koja služi za podmirenju osnovnih životnih potreba.
+(5) U slučaju iz stavka 4. ovoga članka, u prihod od utjecaja na pravo i visinu jednokratne novčane pomoći ulazi samo razlika između prihoda od prodaje i cijene kupljene nekretnine, ako je ta cijena niža od prihoda od prodaje.
+(6) Odredbe stavaka 4. i 5. ovoga članka na odgovarajući način primjenjuju se i u slučaju prodaje nekretnine koja služi za podmirenje osnovnih životnih potreba.

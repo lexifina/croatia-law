@@ -1,0 +1,3 @@
+# Članak 19.
+(1) U slučaju kada su istovremeno ispunjeni uvjeti za ostvarivanje prava na jednokratnu novčanu pomoć po osnovi više situacija iz članka 40. stavka 2. Zakona, pravo na jednokratnu novčanu pomoć može se ostvariti samo po osnovi jedne situacije po kojoj bi iznos jednokratne novčane pomoći bio viši.
+(2) Iznimno, u slučaj kada su istovremeno ispunjeni uvjeti za ostvarivanje prava na jednokratnu novčanu pomoć po situaciji iz članka 40. stavka 2. Zakona točke 4. i po još jednoj situaciji iz članka 40. stavka 2. točke 1. ili 2. ili 3. ili 5. Zakona, pravo na jednokratnu novčanu pomoć može se priznati po obje situacije, ali ukupan iznos jednokratne novčane pomoći ne može biti viši od iznosa jedne proračunske osnovice.
