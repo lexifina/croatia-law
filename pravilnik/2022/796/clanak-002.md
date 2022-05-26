@@ -1,0 +1,2 @@
+# Članak 2.
+U cijelom tekstu Pravilnika o načinu ostvarivanja prava na jednokratnu novčanu pomoć (»Narodne novine«, br. 12/18) i njegovim prilozima riječi: »uredu državne uprave u županiji odnosno nadležnom upravnom tijelu Grada Zagreba« u određenom padežu zamjenjuju se riječima: »nadležnom upravnom tijelu županije odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na ostvarivanje prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji« u odgovarajućem padežu.
