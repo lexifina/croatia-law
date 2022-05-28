@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 47. stavak 1. mijenja se i glasi:
+»(1) Granične vrijednosti emisija onečišćujućih tvari u zrak iz nepokretnih izvora iz članka 10. stavka 2. ovoga Zakona, praćenje i vrednovanje emisija, upis podataka o uređajima za loženje i plinskim turbinama u registar, upis podataka o nepokretnim izvorima u kojima se koriste organska otapala ili proizvodi koji sadrže hlapljive organske spojeve u registar, način smanjivanja emisija onečišćujućih tvari u zrak, način i rok dostave izvješća o emisijama Ministarstvu, način obavješćivanja javnosti i način dostave podataka nadležnim tijelima Europske unije propisuje Vlada uredbom.«.
