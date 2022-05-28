@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Mandat članova Upravnog odbora Zaklade traje četiri godine.
+(2) Hrvatski sabor će na prijedlog Vlade Republike Hrvatske ili Upravnog odbora Zaklade razriješiti člana Upravnog odbora Zaklade i prije proteka vremena na koje je imenovan na njegov osobni zahtjev ili ako član Upravnog odbora Zaklade ne obavlja savjesno svoje dužnosti, ne postupa u skladu s ovim Zakonom i općim aktima Zaklade te ako se utvrdi da ima osobne ili poslovne interese koji su suprotni interesima Zaklade.
+(3) U slučaju razrješenja iz stavka 2. ovoga članka Hrvatski sabor će imenovati novog člana na vrijeme do isteka mandata razriješenog člana, u skladu s člankom 8. stavkom 2. ovoga Zakona, izborom kandidata iz prijava pristiglih na javni poziv na temelju kojeg je imenovan razriješeni član Upravnog odbora Zaklade.

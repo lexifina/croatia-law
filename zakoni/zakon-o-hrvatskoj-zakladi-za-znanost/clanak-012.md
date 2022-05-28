@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Povjerenstvo za prigovore stručno je tijelo Zaklade koje razmatra prigovore zbog sukoba interesa ili administrativnih, odnosno postupovnih pogrešaka na odluke Upravnog odbora Zaklade o financiranju znanstvenih projekata.
+(2) Povjerenstvo za prigovore ima pet članova koje imenuje Hrvatski sabor na prijedlog Vlade Republike Hrvatske iz redova znanstvenika u znanstvenom zvanju znanstvenog savjetnika ili znanstvenog savjetnika u trajnom zvanju odnosno sveučilišnih nastavnika u zvanju redovitog profesora ili redovitog profesora u trajnom zvanju te s iskustvom u vođenju znanstvenih projekata i vrednovanju projektnih prijedloga, a na temelju javnog poziva koji objavljuje ministarstvo nadležno za znanost, na razdoblje od četiri godine.
+(3) Prigovori iz stavka 1. ovoga članka mogu se podnijeti zbog sukoba interesa ili administrativnih, odnosno postupovnih pogrešaka propisanih općim aktom o postupku dodjele sredstava u roku od osam dana od dana dostave odluke.
+(4) Način rada Povjerenstva za prigovore uređuje se Poslovnikom o radu koji donosi Povjerenstvo za prigovore.
