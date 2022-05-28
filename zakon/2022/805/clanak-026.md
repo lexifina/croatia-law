@@ -1,0 +1,6 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 26.
+(1) Osobe koje su na dan stupanja na snagu ovoga Zakona zatečene na obavljanju poslova odgojitelja, stručnog suradnika i medicinske sestre, a ne ispunjavaju uvjete iz članka 12. ovoga Zakona, mogu nastaviti obavljanje tih poslova ako su ispunjavale uvjete iz članka 24., odnosno obavljale poslove u skladu s člankom 55. Zakona o predškolskom odgoju i obrazovanju (»Narodne novine«, br. 10/97., 107/07., 94/13. i 98/19.).
+(2) Osobe iz stavka 1. ovoga članka mogu u drugom dječjem vrtiću ili ustanovi koja obavlja djelatnost predškolskog odgoja i obrazovanja zasnovati radni odnos i na neodređeno vrijeme ako se na natječaj ne jave osobe koje ispunjavaju uvjete iz članka 12. ovoga Zakona.
+(3) Osobe imenovane za ravnatelja dječjeg vrtića sukladno odredbama Zakona o predškolskom odgoju i obrazovanju (»Narodne novine«, br. 10/97., 107/07., 94/13. i 98/19.) koje se na dan stupanja na snagu ovoga Zakona zateknu na dužnosti ravnatelja nastavit će obnašati tu dužnost do isteka mandata.
+(4) U roku od godinu dana od dana stupanja na snagu Programa za stjecanje djelomične kvalifikacije osobe koje obavljaju poslove pomoćnika za djecu s teškoćama u razvoju ili poslove stručnog komunikacijskog posrednika dužne su steći djelomičnu kvalifikaciju iz članka 13. ovoga Zakona.
