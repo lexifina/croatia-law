@@ -1,0 +1,12 @@
+# Članak 42.
+Članak 122. mijenja se i glasi:
+»(1) Javnobilježnički prisjednici su osobe sa završenim sveučilišnim studijem prava koje su zaposlene u javnobilježničkom uredu na neodređeno vrijeme i koje su upisane u Imenik javnobilježničkih prisjednika koji vodi Komora.
+(2) U javnobilježničkom uredu mogu biti zaposlena najviše tri javnobilježnička prisjednika.
+(3) U imenik javnobilježničkih prisjednika može biti upisana osoba koja ispunjava uvjete iz članka 13. stavka 1. točaka 1., 2., 3., 4., 6., 7. i 8. ovoga Zakona. Na javnobilježničkog prisjednika na odgovarajući se način primjenjuje članak 12.a, članak 13. stavak 2., članak 18.b te članci 38. i 39. ovoga Zakona.
+(4) Javni bilježnici prijavljuju Ministarstvu i Komori potrebu za otvaranjem mjesta javnobilježničkih prisjednika.
+(5) O potrebi otvaranja mjesta javnobilježničkog prisjednika odlučuje Ministarstvo, na temelju pribavljenog mišljenja Komore. Odobrena mjesta javnobilježničkog prisjednika popunjavaju se na temelju natječaja koji raspisuje i provodi Komora. Prigodom izbora osobito će se voditi računa o uspjehu postignutom na pravnom studiju i dotadašnjem radu.
+(6) O izboru i postavljenju javnobilježničkog prisjednika odlučuje Ministarstvo, na temelju prethodno pribavljenog mišljenja Komore i javnog bilježnika. Ako se usprotivi postavljenju određenog javnobilježničkog prisjednika, javni bilježnik u idućih godinu dana ne može tražiti otvaranje mjesta javnobilježničkog prisjednika u svom uredu.
+(7) Služba javnobilježničkog prisjednika počinje teći od dana upisa u imenik Komore. Javni bilježnik dužan je bez odgađanja obavijestiti Komoru i Ministarstvo o prestanku rada prisjednika. O prestanku službe javnobilježničkog prisjednika Ministarstvo donosi rješenje.
+(8) Prisjednik je dužan uredno plaćati članarinu Komori.
+(9) U slučaju bolesti ili drugih razloga zbog kojih je javnobilježnički prisjednik duže vremena spriječen obavljati svoju službu, za vrijeme spriječenosti zamijenit će ga zamjenik javnobilježničkog prisjednika, kojeg na prijedlog javnog bilježnika određuje Ministarstvo. Zamjenik javnobilježničkog prisjednika mora ispunjavati uvjete iz stavka 3. ovoga članka te se na njega na odgovarajući način primjenjuje članak 17. stavak 3., članci 42. i 125., članak 126. stavci 2., 5. i 7. i članak 129. ovoga Zakona.
+(10) Dok traje zamjena, zamijenjeni javnobilježnički prisjednik ne smije obavljati poslove javnobilježničkog prisjednika.«.

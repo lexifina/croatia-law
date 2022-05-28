@@ -1,0 +1,3 @@
+# Članak 45.
+Članak 124. mijenja se i glasi:
+»Protiv odluke Ministarstva o izboru i postavljenju te prestanku službe javnobilježničkog prisjednika, protiv odluke Komore o izboru javnobilježničkog savjetnika i vježbenika te odluke kojom se odbija zahtjev za upis javnobilježničkog savjetnika ili vježbenika u Imenik, protiv odluke Komore kojom se uskraćuje potvrda o obavljanju javnobilježničke vježbe te protiv odluke kojom se određuje brisanje javnobilježničkog prisjednika, savjetnika odnosno vježbenika iz Imenika, javnobilježnički prisjednik, savjetnik odnosno vježbenik ima pravo pokrenuti upravni spor, osim ako je odluka o brisanju iz Imenika donesena na temelju odluke stegovnih tijela.«.

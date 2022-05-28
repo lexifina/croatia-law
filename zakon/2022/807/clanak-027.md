@@ -1,0 +1,3 @@
+# Članak 27.
+U članku 42. stavak 3. mijenja se i glasi:
+»(3) Javnobilježnički prisjednik, savjetnik i vježbenik odgovaraju kao i javni bilježnik za štetu koju prouzroče povredom službene dužnosti pri samostalnom obavljanju kakve radnje u skladu s ovim Zakonom. Javni bilježnik odgovara solidarno s javnobilježničkim prisjednikom, savjetnikom i vježbenikom ako ih je ovlastio da samostalno obave radnju. Javni bilježnik ima pravo regresa prema javnobilježničkom prisjedniku, savjetniku i vježbeniku prema općim pravilima o regresnoj odgovornosti službenih osoba. Za štetu koju prouzroče javnobilježnički prisjednik, savjetnik i vježbenik država ne odgovara.«.
