@@ -1,0 +1,13 @@
+## Usklađivanje s pravnim aktima Europske unije
+# Članak 2.
+Ovim se Zakonom u hrvatsko zakonodavstvo preuzimaju sljedeći akti Europske unije:
+1. Direktiva Vijeća 93/13/EEZ od 5. travnja 1993. o nepoštenim uvjetima u potrošačkim ugovorima (SL L 95, 21. 4. 1993.)
+2. Direktiva 98/6/EZ Europskog parlamenta i Vijeća od 16. veljače 1998. o zaštiti potrošača prilikom isticanja cijena proizvoda ponuđenih potrošačima (SL L 80, 18. 3. 1998.)
+3. Direktiva 2002/65/EZ Europskog parlamenta i Vijeća od 23. rujna 2002. o trgovanju na daljinu financijskim uslugama koje su namijenjene potrošačima i o izmjeni Direktive Vijeća 90/619/EEZ i direktiva 97/7/EZ i 98/27/EZ (SL L 271, 9. 10. 2002.)
+4. Direktiva 2005/29/EZ Europskog parlamenta i Vijeća od 11. svibnja 2005. o nepoštenoj poslovnoj praksi poslovnog subjekta u odnosu prema potrošaču na unutarnjem tržištu i o izmjeni Direktive Vijeća 84/450/EEZ, direktiva 97/7/EZ, 98/27/EZ i 2002/65/EZ Europskog parlamenta i Vijeća, kao i Uredbe (EZ) br. 2006/2004 Europskog parlamenta i Vijeća (»Direktiva o nepoštenoj poslovnoj praksi«) (Tekst značajan za EGP) (SL L 149, 11. 6. 2005.)
+5. Direktiva 2008/122/EZ Europskog parlamenta i Vijeća od 14. siječnja 2009. o zaštiti potrošača u odnosu na određene aspekte ugovora o pravu na vremenski ograničenu uporabu nekretnine, o dugoročnim proizvodima za odmor, preprodaji i razmjeni (Tekst značajan za EGP) (SL L 33, 3. 2. 2009.)
+6. Direktiva 2009/22/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o sudskim nalozima za zaštitu interesa potrošača (kodificirana verzija) (Tekst značajan za EGP) (SL L 110, 1. 5. 2009.)
+7. Direktiva 2011/83/EU Europskog parlamenta i Vijeća od 25. listopada 2011. o pravima potrošača, izmjeni Direktive Vijeća 93/13/EEZ i Direktive 1999/44/EZ Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive Vijeća 85/577/EEZ i Direktive 97/7/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 304, 22. 11. 2011.)
+8. Direktiva (EU) 2019/770 Europskog parlamenta i Vijeća od 20. svibnja 2019. o određenim aspektima ugovora o isporuci digitalnog sadržaja i digitalnih usluga (Tekst značajan za EGP) (SL L 136, 22. 5. 2019.)
+9. Direktiva (EU) 2019/771 Europskog parlamenta i Vijeća od 20. svibnja 2019. o određenim aspektima ugovora o kupoprodaji robe, izmjeni Uredbe (EU) 2017/2394 i Direktive 2009/22/EZ te stavljanju izvan snage Direktive 1999/44/EZ (Tekst značajan za EGP) (SL L 136, 22. 5. 2019.)
+10. Direktiva (EU) 2019/2161 Europskog parlamenta i Vijeća od 27. studenoga 2019. o izmjeni Direktive Vijeća 93/13/EEZ i direktiva 98/6/EZ, 2005/29/EZ te 2011/83/EU Europskog parlamenta i Vijeća u pogledu boljeg izvršavanja i modernizacije pravila Unije o zaštiti potrošača (Tekst značajan za EGP) (SL L 328, 18. 12. 2019.).

@@ -1,0 +1,16 @@
+## Rješenje o uklanjanju sadržaja ili ograničenja pristupa internetskom sučelju
+# Članak 146.
+(1) Ako trgovac ni tijekom trajanja privremene mjere iz članka 145. ovoga Zakona ne ukloni nepravilnost, nadležni inspektor rješenjem će zabraniti trgovcu postupanje protivno propisima iz ovoga Zakona razmjerno prirodi povrede.
+(2) Rješenjem iz stavka 1. ovoga članka nadležni inspektor ukinut će privremeno rješenje iz članka 145. stavka 1. ovoga Zakona i:
+1. naložiti operatorima javnih komunikacijskih usluga i/ili davateljima usluga pristupa internetu (ISP) i/ili pružateljima usluga smještaja na poslužitelju da uklone sadržaj ili ograniče pristup internetskom sučelju ili da se krajnjim korisnicima odnosno potrošačima prilikom pristupa internetskom sučelju jasno prikaže upozorenje razmjerno prirodi povrede i/ili
+2. naložiti svim pružateljima usluga smještaja na poslužitelju da uklone, onemoguće ili ograniče pristup internetskom sučelju razmjerno prirodi povrede i/ili
+3. naložiti svim registrima za domene ili voditeljima registara za domene da izbrišu potpuno kvalificirani naziv domene i omoguće nadležnom tijelu da je registrira i/ili
+4. naložiti nakladniku elektroničkog ili tiskanog medija da ukloni sadržaj iz kojeg proizlazi povreda ovoga Zakona i/ili
+5. odrediti svaku mjeru kojom se postiže svrha otklanjanja rizika od ozbiljne štete kolektivnim interesima i pravima potrošača.
+(3) Iznimno od stavaka 1. i 2. ovoga članka, kada pravna ili fizička osoba nema poslovni nastan u Republici Hrvatskoj, a u postupku inspekcijskog postupka se utvrdi da sklapa ugovore na daljinu te iz predmetnog proizlazi da ona namjerno skriva identitet te čini povrede ovoga Zakona i/ili kada odbija suradnju s nadležnog inspekcijom te postoji rizik od ozbiljne štete kolektivnim interesima i pravima potrošača, inspektor može donijeti rješenje kojim će:
+1. naložiti operatorima javnih komunikacijskih usluga i/ili davateljima usluga pristupa internetu (ISP) i/ili pružateljima usluga smještaja na poslužitelju da uklone sadržaj ili ograniče pristup internetskom sučelju ili da se krajnjim korisnicima odnosno potrošačima prilikom pristupa internetskom sučelju jasno prikaže upozorenje razmjerno prirodi povrede i/ili
+2. naložiti svim pružateljima usluga smještaja na poslužitelju da uklone, onemoguće ili ograniče pristup internetskom sučelju razmjerno prirodi povrede i/ili
+3. naložiti svim registrima za domene ili voditeljima registara za domene da izbrišu potpuno kvalificirani naziv domene i omoguće nadležnom tijelu da je registrira i/ili
+4. naložiti nakladniku elektroničkog ili tiskanog medija da ukloni sadržaj iz kojeg proizlazi povreda ovoga Zakona.
+(4) Ako je nastala šteta operatorima javnih komunikacijskih usluga, davateljima usluga pristupa internetu, pružateljima usluga smještaja i registrima za domene, nakladniku elektroničkog ili tiskanog medija temeljem rješenja iz stavaka 2. i 3. ovoga članka, oni imaju pravo tražiti od trgovca naknadu štete sukladno općim pravilima naknade štete.
+(5) Žalba protiv rješenja iz stavka 1. i stavka 3. ovoga članka ne odgađa izvršenje rješenja, a o njoj odlučuje unutarnja ustrojstvena jedinica za drugostupanjski upravni postupak u središnjem uredu Državnog inspektorata.

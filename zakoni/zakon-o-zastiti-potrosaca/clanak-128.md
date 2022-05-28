@@ -1,0 +1,3 @@
+## Pokretanje postupka za naknadu štete
+# Članak 128.
+Pokretanje ili vođenje postupka pokrenutog na temelju članka 114. stavka 1. ovoga Zakona ne sprječava osobu kojoj je, postupanjem trgovca koje je suprotno odredbama ovoga Zakona i drugih propisa koji su navedeni u članku 114. stavku 1. ovoga Zakona, prouzročena šteta da pokrene pred nadležnim sudom postupak za naknadu štete protiv trgovca koji joj je nedopuštenim postupanjem prouzročio štetu, da pred sudom pokrene postupak za poništenje ili utvrđivanje ništetnosti ugovora koji je sklopljen pod utjecajem nedopuštenog postupanja odnosno da pred sudom pokrene bilo koji drugi postupak kojim će zahtijevati ostvarenje prava koja joj pripadaju na temelju pravila sadržanih u ovom ili drugim zakonima.
