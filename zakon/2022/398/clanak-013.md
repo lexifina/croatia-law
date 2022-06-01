@@ -1,0 +1,2 @@
+# Članak 13.
+U članku 300.g stavku 2. riječi: »u visini eskontne stope Hrvatske narodne banke uvećane za pet postotnih poena« zamjenjuju se riječima: »koja se određuje, za svako polugodište, uvećanjem prosječne kamatne stope na stanja kredita odobrenih na razdoblje dulje od godine dana nefinancijskim trgovačkim društvima izračunane za referentno razdoblje koje prethodi tekućem polugodištu za tri postotna poena«.

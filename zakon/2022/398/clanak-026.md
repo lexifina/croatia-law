@@ -1,0 +1,2 @@
+# Članak 26.
+U članku 550.j stavku 8. riječi: »eskontnoj stopi Hrvatske narodne banke uvećanoj za pet postotnih poena« zamjenjuju se riječima: »stopi koja se određuje, za svako polugodište, uvećanjem prosječne kamatne stope na stanja kredita odobrenih na razdoblje dulje od godine dana nefinancijskim trgovačkim društvima izračunane za referentno razdoblje koje prethodi tekućem polugodištu za tri postotna poena«.

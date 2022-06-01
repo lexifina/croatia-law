@@ -1,0 +1,5 @@
+# Članak 30.
+U prilozima 1. do 6. Zakona o trgovačkim društvima druga rečenica izjave člana uprave mijenja se i glasi:
+»Nisam kažnjen za kazneno djelo zlouporabe povjerenja u gospodarskom poslovanju, prijevare u gospodarskom poslovanju, prouzročenja stečaja, pogodovanja vjerovnika ili povrede obveze vođenja trgovačkih i poslovnih knjiga iz Kaznenog zakona Republike Hrvatske, i protiv mene nije izrečena nikakva sigurnosna mjera zabrane obavljanja određene dužnosti ili djelatnosti koje je u potpunosti ili djelomično obuhvaćeno predmetom poslovanja društva.«
+U Prilogu 4. Zakona o trgovačkim društvima riječi: »Mjesto i datum _________.« zamjenjuju se riječima: »Mjesto: ____________. Društveni ugovor sklopljen je na dan kada je sustav sudskog registra zabilježio da je posljednji od osnivača potvrdio prihvaćanje društvenog ugovora.«.
+U Prilogu 6. Zakona o trgovačkim društvima riječi: »Mjesto i datum _________.« zamjenjuju se riječima: »Mjesto: ____________. Društveni ugovor sklopljen je na dan kada je sustav sudskog registra zabilježio da je posljednji od osnivača potvrdio prihvaćanje društvenog ugovora.«

@@ -1,0 +1,3 @@
+# Članak 19.
+U članku 397.e iza stavka 7. dodaje se stavak 8. koji glasi:
+»(8) Posumnja li da su članovi društva ili članovi organa društva krivotvorili ili na drugi način zlouporabili identitet, da nisu poslovno sposobni ili da nisu ovlašteni zastupati društvo, da se prilikom osnivanja društva krše propisi o sprječavanju pranja novca ili da postoje druge protupravnosti u postupku osnivanja, registarski sud donijet će zaključak kojim će uputiti predlagatelja da u roku od 15 dana podnese prijavu putem javnog bilježnika. Ako podnositelj ne postupi po zaključku suda, smatrat će se da je povukao prijedlog.«.

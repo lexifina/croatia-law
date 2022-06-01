@@ -1,0 +1,2 @@
+# Članak 33.
+Ovaj Zakon stupa na snagu 1. lipnja 2022., osim članka 8. koji je izmijenjen člankom 2. ovoga Zakona, članka 387. koji je izmijenjen člankom 15. ovoga Zakona, članka 397.a koji je izmijenjen člankom 17. ovoga Zakona, članka 397.b koji je izmijenjen člankom 18. ovoga Zakona, članka 397.e koji je izmijenjen člankom 19. ovoga Zakona, članka 397.f koji je dodan člankom 20. ovoga Zakona i članka 613. koji je izmijenjen člankom 28. ovoga Zakona, a koji stupaju na snagu 1. kolovoza 2023.

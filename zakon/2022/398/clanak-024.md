@@ -1,0 +1,3 @@
+# Članak 24.
+U članku 522. stavku 3. iza treće rečenice dodaju se četvrta i peta rečenica koje glase:
+»Ako je podnesen prijedlog za otvaranje stečajnog postupka nad pripojenim društvom, a o prijedlogu još nije odlučeno u trenutku upisa pripajanja u sudski registar u kojem je upisano društvo preuzimatelj, odluka o prijedlogu za otvaranje stečajnog postupka donijet će se u odnosu na društvo preuzimatelja. Ako je u trenutku upisa pripajanja u sudski registar u kojem je upisano društvo preuzimatelj nad pripojenim društvom pokrenut prethodni postupak u skladu s odredbama propisa zakona kojim se uređuje stečajni ili drugi odgovarajući postupak, taj će se postupak nastaviti nad društvom preuzimateljem.«.
