@@ -1,0 +1,3 @@
+## II. MINIMALNI UVJETI RADNIH OBVEZA ZA REIZBOR NA ZNANSTVENA RADNA MJESTA
+# Članak 2.
+Pristupnici koji su u postupku reizbora na znanstvena radna mjesta znanstvenog suradnika, višeg znanstvenog suradnika i znanstvenog savjetnika moraju nakon posljednjeg izbora odnosno reizbora, ispuniti najmanje polovicu uvjeta koji su propisani kao razlika između uvjeta za izbor u znanstveno zvanje koje je pretpostavka za zapošljavanje na radnom mjestu na kojem je pristupnik zaposlen i znanstvenog zvanja koje je uvjet za izbor na prvo više znanstveno radno mjesto, u odgovarajućem znanstvenom području i polju prema općem aktu Nacionalnog vijeća za znanost, visoko obrazovanje i tehnološki razvoj o uvjetima za izbore u znanstvena zvanja.

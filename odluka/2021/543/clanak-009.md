@@ -1,0 +1,5 @@
+## IX. PRIJELAZNE ODREDBE
+# Članak 9.
+(1) Danom stupanja na snagu ove Odluke ne primjenjuju se odredbe članka I. stavka 2., članka II. stavka 2., članka III. stavka 2., članka V., članka VI. stavka 2. i članka VII. stavka 2. Odluke Rektorskog zbora o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja (»Narodne novine«, br. 13/2012).
+(2) Svi postupci reizbora na znanstveno, znanstveno-nastavno, umjetničko-nastavno, nastavno i stručno radno mjesto započeti prije stupanja na snagu ove Odluke dovršit će se prema uvjetima i postupku propisanim općim aktima znanstvenih instituta i visokih učilišta.
+(3) Svi postupci reizbora na nastavna zvanja započeti prije stupanja na snagu ove Odluke dovršit će se prema Odluci Rektorskog zbora o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja (»Narodne novine«, br. 13/2012), odnosno Odluci Vijeća veleučilišta i visokih škola o uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja (»Narodne novine«, br. 20/12, 85/13 i 4/15).

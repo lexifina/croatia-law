@@ -1,0 +1,1 @@
+Odluka o minimalnim uvjetima radnih obveza za reizbor na znanstvena, znanstveno-nastavna, umjetničko-nastavna, nastavna i stručna radna mjesta te o obliku izvješća stručnog povjerenstva o radu zaposlenika u postupku reizbora
