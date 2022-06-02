@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.) i članka 3. Zakona o plaćama u javnim službama (»Narodne novine«, br. 27/01. i 39/09.), Vlada Republike Hrvatske je na sjednici održanoj 27. svibnja 2022. donijela
