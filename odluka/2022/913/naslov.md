@@ -1,0 +1,1 @@
+Odluka o davanju odobrenja Karlovačkoj županiji i HŽ Infrastrukturi d.o.o. za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Putevi budućnosti Ljubljana - Novo Mesto - Karlovac - Zagreb« i odobrenju Konvencije

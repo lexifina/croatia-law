@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 1. Zakona o provedbi uredbi Europske unije o Europskoj grupaciji za teritorijalnu suradnju (»Narodne novine«, broj 74/14.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/28.), Vlada Republike Hrvatske je na sjednici održanoj 3. lipnja 2022. donijela
