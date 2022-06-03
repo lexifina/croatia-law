@@ -1,0 +1,3 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 64.
+Na započete postupke sklapanja ugovora i dodatke ugovora, kao i na sve ugovore i dodatke ugovorima sklopljene na temelju Odluke o provođenju aktivnosti vezanih za operacije koje se financiraju iz Fonda solidarnosti Europske unije iz djelokruga Ministarstva kulture i medija, KLASA: 022-03/21-04/480, URBROJ: 50301-04/12-21-1, od 30. prosinca 2021., te Odluke o provođenju aktivnosti vezanih za operacije koje se financiraju iz Fonda solidarnosti Europske unije iz djelokruga tijela odgovornih za provedbu financijskog doprinosa (»Narodne novine«, br. 51/22.) do stupanja na snagu ovoga Zakona primjenjuju se odredbe članka 19. stavka 4. i članka 20. ovoga Zakona.

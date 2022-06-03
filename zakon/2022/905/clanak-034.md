@@ -1,0 +1,4 @@
+# Članak 34.
+(1) Korisnici su obvezni u svojim financijskim planovima planirati sredstva za obvezno osiguranje vozila, zrakoplova i brodica odnosno jahti prema posebnim propisima iz djelatnosti osiguranja.
+(2) Korisnici su obvezni u svojim financijskim planovima planirati sredstva za osiguranje prijevoznih sredstava i druge imovine koja je zbog pojačanog rizika i velike pojedinačne vrijednosti više izložena mogućim štetnim događajima u obavljanju redovite djelatnosti.
+(3) Sredstva za osiguranje službenika, namještenika i dužnosnika od posljedica nesretnog slučaja osigurana su u razdjelu 109 - MINISTARSTVO PRAVOSUĐA I UPRAVE.

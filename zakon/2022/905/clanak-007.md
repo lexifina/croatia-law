@@ -1,0 +1,8 @@
+# Članak 7.
+(1) Sredstva za provedbu Odluke Vlade o isplati razlike iznosa uvećanja plaće za prekovremeni rad radnicima u djelatnosti zdravstva i zdravstvenog osiguranja (»Narodne novine«, br. 101/21. i 147/21.) planirana su na pozicijama Ministarstva zdravstva, aktivnosti A880007 Isplata razlike uvećanja plaće za prekovremeni rad.
+(2) Sredstva iz stavka 1. ovoga članka mogu se, uz prethodnu suglasnost Ministarstva, preraspodjeljivati tijekom proračunske godine, i to bez ograničenja, unutar aktivnosti A880007 Isplata razlike uvećanja plaće za prekovremeni rad.
+(3) Sredstva iz stavka 1. ovoga članka za zdravstvene ustanove kojima je osnivač Republika Hrvatska mogu se, uz prethodnu suglasnost Ministarstva, preraspodjeljivati bez ograničenja na pozicije zdravstvenih ustanova kojima je osnivač Republika Hrvatska.
+(4) Za preraspodjelu sredstava iz stavka 3. ovoga članka zdravstvena ustanova kojoj je osnivač Republika Hrvatska može naknadno utvrditi aktivnosti unutar svog financijskog plana, uz prethodnu suglasnost Ministarstva.
+(5) Ministarstvo zdravstva će zdravstvenim ustanovama kojima su osnivači jedinice lokalne i područne (regionalne) samouprave sredstva isplaćivati kao namjensku pomoć.
+(6) Ministarstvo zdravstva će s jedinicama lokalne i područne (regionalne) samouprave potpisati ugovore o načinu utroška sredstava namjenske pomoći doznačenih u skladu s ovim člankom.
+(7) Jedinice lokalne i područne (regionalne) samouprave dužne su pratiti i kontrolirati utrošak sredstava koja će biti doznačena zdravstvenim ustanovama, a o utrošku sredstava dužne su izvijestiti Ministarstvo zdravstva i Ministarstvo na način i u rokovima koje utvrdi Ministarstvo zdravstva u ugovorima iz stavka 6. ovoga članka.

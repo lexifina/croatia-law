@@ -1,0 +1,4 @@
+# Članak 57.
+(1) Korisnici koji su zaduženi za provedbu programa državnih potpora koje je odobrila Europska komisija obvezni su procijeniti moguće rizike koji mogu nastati ako korisnici zajmova, za koje će biti izdana državna jamstva iz članka 50. ovoga Zakona, neće biti u mogućnosti izvršavati svoje obveze te na temelju toga, a radi osiguranja plaćanja potencijalnih obveza koje mogu nastati na temelju izdanih jamstava, planirati sredstva u okviru svog financijskog plana.
+(2) Sredstva iz stavka 1. ovoga članka mogu se, ako za to postoji mogućnost i sukladno potrebi, tijekom godine osiguravati preraspodjelom bez ograničenja unutar pojedine aktivnosti, a do visine planiranih sredstava.
+(3) Ako sredstva iz stavka 1. ovoga članka nisu planirana u potrebnom iznosu na razini aktivnosti i ne mogu se osigurati preraspodjelom sukladno Zakonu o proračunu, mogu se izvršavati iznad planiranih sredstava, uz prethodnu suglasnost Ministarstva.
