@@ -1,0 +1,7 @@
+# Članak 18.
+(1) Projekt ulaganja za koji se odobravaju potpore za radno intenzivne projekte ulaganja predstavlja ulaganje u dugotrajnu imovinu korisnika potpore koja omogućuje otvaranje najmanje 100 novih radnih mjesta povezanih s projektom ulaganja, i to unutar razdoblja od tri godine od početka ulaganja.
+(2) Korisniku potpore koji realizira projekt ulaganja iz stavka 1. ovoga članka odobrit će se povećanje potpore za troškove otvaranja novih radnih mjesta povezanih s projektom ulaganja, i to za 25 % od iznosa propisanih u članku 14. ovoga Zakona.
+(3) Korisniku potpore koji realizira projekt ulaganja koji omogućuje otvaranje najmanje 300 novih radnih mjesta povezanih s projektom ulaganja odobrit će se povećanje potpore za troškove otvaranja novih radnih mjesta povezanih s projektom ulaganja, i to za 50 % od iznosa propisanih u članku 14. ovoga Zakona.
+(4) Korisniku potpore koji realizira projekt ulaganja koji omogućuje otvaranje najmanje 500 novih radnih mjesta povezanih s projektom ulaganja odobrit će se povećanje potpore za troškove otvaranja novih radnih mjesta povezanih s projektom ulaganja, i to za 100 % od iznosa propisanih u članku 14. ovoga Zakona.
+(5) Ukupan iznos bespovratnih novčanih, poreznih i drugih potpora koje korisnik potpore može iskoristiti tijekom razdoblja korištenja potpora određuje se u apsolutnom iznosu, poštujući maksimalni intenzitet potpore iz članka 9. ovoga Zakona.
+8. Potpore za gospodarsko aktiviranje neaktivne imovine u vlasništvu Republike Hrvatske
