@@ -1,0 +1,7 @@
+## V. DJELATNICI CENTRA
+# Članak 49.
+Stručne poslove u centru obavljaju viši stručni savjetnici - specijalisti, viši stručni savjetnici, stručni savjetnici i stručni suradnici.
+Za višeg stručnog savjetnika - specijalista i višeg stručnog savjetnika može biti izabrana osoba koja ima završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij odgovarajuće struke i najmanje pet (5) godina radnog iskustva na odgovarajućim poslovima u obrazovanju ili u znanstvenoj djelatnosti.
+Za stručnog savjetnika može biti biti izabrana osoba koja ima završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij odgovarajuće struke i najmanje tri (3) godine radnog iskustva na odgovarajućim poslovima u obrazovanju ili u znanstvenoj djelatnosti.
+Za stručnog suradnika može biti izabrana osoba koja ima završen najmanje diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij odgovarajuće struke i najmanje dvanaest (12) mjeseci radnog iskustva na odgovarajućim poslovima u obrazovanju ili u znanstvenoj djelatnosti.
+Za višeg stručnog savjetnika - specijalista, višeg stručnog savjetnika, stručnog savjetnika odnosno stručnog suradnika može biti izabrana osoba koja osim općih i zakonom propisanih uvjeta, ispunjava i uvjete znanja jednog stranog jezika te napredno korištenje računala.
