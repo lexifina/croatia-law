@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Odlukom utvrđuje obveza plaćanja naknade za razvoj na području grada Ogulina u nadležnosti javnog isporučitelja vodne usluge Vodovod i kanalizacija društvo s ograničenom odgovornošću za javnu vodoopskrbu i javnu odvodnju, Ivana Gorana Kovačića 14, Ogulin (u daljnjem tekstu: Isporučitelj), obveznik plaćanja naknade za razvoj, visina, te nadzor nad naplatom i utroškom naknade za razvoj.
