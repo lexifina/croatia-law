@@ -1,0 +1,8 @@
+## Način prikupljanja podataka u Registru
+# Članak 9.
+(1) Zavod prikuplja u Registar podatke propisane ovim Zakonom elektroničkim putem, automatskom razmjenom podataka iz službenih evidencija izvora podataka iz članka 7. ovoga Zakona.
+(2) Zavod prikuplja elektroničke zapise podataka o osobama s invaliditetom iz članka 5. stavka 2. ovoga Zakona putem elektroničkog sustava OIB-a od izvora podataka iz članka 7. ovoga Zakona te korisnika OIB-a iz članka 7. stavka 1. ovoga Zakona, osim podataka o razini obrazovanja i statusu osiguranika iz mirovinskog osiguranja.
+(3) Zavod prikuplja elektroničke zapise podataka o statusu osiguranika iz mirovinskog osiguranja putem informacijskog sustava izvora iz članka 7. stavka 1. točke 3. ovoga Zakona, a zapise podataka o nezaposlenim osobama s invaliditetom iz članka 5. stavka 2. ovoga Zakona putem informacijskog sustava izvora iz članka 7. stavka 1. točke 4. ovoga Zakona.
+(4) Zavod prikuplja elektroničke zapise podataka o invaliditetu iz članka 5. stavka 3. ovoga Zakona od izvora iz članka 7. stavka 1. točaka 1. i 7. ovoga Zakona nakon provedenog vještačenja.
+(5) Zavod prikuplja elektroničke zapise podataka o teškoćama djece u razvoju iz članka 5. stavka 4. ovoga Zakona i razini obrazovanja osoba s invaliditetom od izvora iz članka 7. stavka 1. točaka 6. i 8. ovoga Zakona nakon provedenog vještačenja.
+(6) Zavod prikuplja elektroničke zapise podataka o odobrenim ortopedskim pomagalima, provedenim postupcima liječenja i rehabilitacije iz članka 5. stavka 5. ovoga Zakona putem Centralnog zdravstvenog informacijskog sustava Republike Hrvatske i s njim povezanih informacijskih sustava od izvora iz članka 7. stavka 1. točaka 2. i 9. ovoga Zakona.
