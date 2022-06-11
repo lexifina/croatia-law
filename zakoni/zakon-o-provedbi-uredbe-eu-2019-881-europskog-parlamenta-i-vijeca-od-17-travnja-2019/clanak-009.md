@@ -1,0 +1,6 @@
+## Posebni i dodatni uvjeti ili zahtjevi
+# Članak 9.
+(1) Ako europska shema kibernetičke sigurnosne certifikacije sadrži posebne ili dodatne zahtjeve sukladno članku 54. stavku 1. točki (f) Uredbe (EU) 2019/881, Zavod će provesti postupak utvrđivanja ispunjavanja tih posebnih ili dodatnih zahtjeva i izdati autorizaciju tijelu za ocjenjivanje sukladnosti u slučaju zadovoljenja uvjeta.
+(2) Pri izdavanju akreditacije u uvjetima iz stavka 1. ovoga članka Hrvatska akreditacijska agencija mora jasno navesti obvezu ishođenja dodatne autorizacije, a tako akreditirano tijelo za ocjenu sukladnosti ne smije nuditi uslugu certifikacije bez dobivene autorizacije.
+(3) Kada se zahtijeva izdavanje kibernetičkog sigurnosnog certifikata visoke jamstvene razine u skladu s europskom shemom kibernetičke sigurnosne certifikacije, certifikat će izdati Zavod ili tijelo za ocjenu sukladnosti sukladno odredbama članka 56. stavka 6. Uredbe (EU) 2019/881.
+(4) U slučaju primjene odredbe članka 56. stavka 5. točke (a) Uredbe (EU) 2019/881 Zavod može tijelu za ocjenu sukladnosti ugovorom povjeriti obavljanje pojedinog postupka ili dijela postupka kibernetičke sigurnosne certifikacije, osim izdavanja samog certifikata.
