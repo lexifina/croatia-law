@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o uspostavi infrastrukture za alternativna goriva (»Narodne novine«, br. 120/16.) u članku 1. stavak 3. mijenja se i glasi:
+»(3) Na sva ostala pitanja uspostave infrastrukture za alternativna goriva koja nisu uređena ovim Zakonom primjenjuju se propisi kojima se uređuje područje prometne infrastrukture, područje prostornog uređenja, područje infrastrukture prostornih podataka, područje gradnje, područje energetike, područje energetske učinkovitosti, područje zaštite okoliša, područje zaštite na radu, područje zaštite od požara i tehnoloških eksplozija, područje zapaljivih tekućina i plinova te zakoni kojima je osnovan i koji određuju djelokrug Fonda za zaštitu okoliša i energetsku učinkovitost.«.

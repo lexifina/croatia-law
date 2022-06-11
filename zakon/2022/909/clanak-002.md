@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva 2014/94/EU Europskog parlamenta i Vijeća od 22. listopada 2014. o uspostavi infrastrukture za alternativna goriva (SL L 307, 28. 10. 2014.), kako je posljednji put izmijenjena Delegiranom uredbom Komisije (EU) 2019/1745 оd 13. kolovoza 2019. o dopuni i izmjeni Direktive 2014/94/EU Europskog parlamenta i Vijeća u pogledu mjesta za punjenje motornih vozila kategorije L, opskrbe električnom energijom s kopna za plovila na unutarnjim vodnim putovima, opskrbe vodikom za cestovni promet, opskrbe prirodnim plinom za cestovni i vodni promet te o stavljanju izvan snage Delegirane uredbe Komisije (EU) 2018/674 (Tekst značajan za EGP) (SL L 268, 22. 10. 2019.).«.
