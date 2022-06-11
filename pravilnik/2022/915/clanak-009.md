@@ -1,0 +1,9 @@
+## Učestalost i metode provedbe kontrola udjela vode u mesu peradi
+# Članak 9.
+(1) U skladu s člancima 16. i 20. Uredbe (EZ) br. 543/2008 klaonice koje stavljaju na tržište smrznute i brzo smrznute pileće trupove te svježe, smrznute i brzo smrznute komade mesa peradi obvezne su provoditi kontrolu apsorpcije vode na liniji klanja.
+(2) Kontrola iz stavka 1. ovoga članka obavlja se metodom opisanom u Prilogu IX. Uredbe (EZ) br. 543/2008 na svježim trupovima peradi, najmanje jednom u svakom radnom ciklusu od osam sati, a rezultati pregleda moraju se evidentirati i čuvati godinu dana od dana obavljene kontrole.
+(3) U skladu s člankom 16. stavkom 2. Uredbe (EZ) br. 543/2008 klaonice koje stavljaju na tržište smrznute i brzo smrznute pileće trupove obvezne su provoditi uzorkovanje smrznutih i brzo smrznutih pilića za kontrolu apsorbirane vode, najmanje jednom svaka dva mjeseca.
+(4) Kontrola iz stavka 3. ovoga članka obavlja se metodom opisanom u Prilogu VI. (metoda cijeđenja) ili metodom opisanom u Prilogu VII. (kemijski test) Uredbe (EZ) br. 543/2008, a nadzor nad provedbom kontrola obavlja se u skladu s člankom 16. stavkom 3. iste uredbe.
+(5) U skladu s člankom 20. stavkom 3. Uredbe (EZ) br. 543/2008 uzorkovanje za provjeru udjela vode u smrznutim i brzo smrznutim komadima mesa peradi navedenim u članku 20. stavku 1. iste uredbe, obavlja se u svakoj rasjekaonici u skladu sa stavkom 4. istoga članka.
+(6) Kontrola iz stavka 5. ovoga članka obavlja se metodom opisanom u Prilogu VIII. Uredbe (EZ) br. 543/2008, najmanje jednom svaka tri mjeseca.
+(7) U skladu s člankom 16. stavkom 2. i člankom 20. stavkom 3. Uredbe (EZ) br. 543/2008 kontrole iz stavaka 3. i 5. ovoga članka ne odnose se na meso peradi za koje je nadležnoj inspekciji dostavljen valjani dokaz da je namijenjeno izvozu.
