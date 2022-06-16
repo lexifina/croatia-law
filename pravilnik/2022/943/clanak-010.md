@@ -1,0 +1,12 @@
+# Članak 10.
+Iza članka 30. dodaju se naslov iznad članka i članak 30.a koji glase:
+»Uključivanje čimbenika održivosti u obveze upravljanja proizvodima
+Članak 30.a
+(1) U smislu članka 64. Zakona, investicijsko društvo dužno je dovoljno detaljno utvrditi potencijalno ciljano tržište za svaki financijski instrument i navesti vrstu ili vrste klijenata s čijim je potrebama, obilježjima i ciljevima, uključujući ciljeve povezane s održivosti, financijski instrument usklađen.
+(2) U okviru postupka utvrđivanja ciljanog tržišta, investicijsko društvo dužno je utvrditi sve skupine klijenata s čijim potrebama, obilježjima i ciljevima financijski instrument nije usklađen, osim ako se financijskim instrumentima uzimaju u obzir čimbenici održivosti.
+(3) Osim uvjeta iz članka 64. stavka 4. Zakona, investicijsko društvo dužno je utvrditi ispunjava li financijski instrument utvrđene potrebe, obilježja i ciljeve ciljanog tržišta te jesu li čimbenici održivosti financijskog instrumenta, ako je to relevantno, u skladu s ciljanim tržištem.
+(4) Osim obveza iz članka 60. stavaka 3. i 4. Zakona, informacije koje proizvođač dostavlja distributerima moraju uključivati i čimbenike održivosti financijskog instrumenta koji se distributerima moraju prikazati na transparentan način i pružati distributerima relevantne informacije kako bi se na odgovarajući način uzeli u obzir svi ciljevi klijenta ili potencijalnog klijenta povezani s održivosti.
+(5) Kod preispitivanja proizvoda u smislu članka 65. stavaka 1. i 2. Zakona, investicijsko društvo dužno je prilikom razmatranja okolnosti je li proizvod i dalje usklađen s potrebama, obilježjima i ciljevima ciljanog tržišta, uključiti i ciljeve povezane s održivosti.
+(6) Prilikom uspostavljanja odgovarajućeg mehanizma upravljanja proizvodom u smislu članka 68. stavka 4. Zakona, distributer mora osigurati da ciljevi utvrđenog ciljanog tržišta uključuju i ciljeve povezane s održivosti.
+(7) U postupku utvrđivanja ciljanog tržišta za distributera, u smislu članka 69. stavka 1. Zakona, distributer je dužan utvrditi i sve skupine klijenata s čijim potrebama, obilježjima i ciljevima proizvod ili usluga nisu usklađeni, osim ako se financijskim instrumentima uzimaju u obzir čimbenici održivosti.
+(8) U postupku redovnog preispitivanja investicijskih proizvoda i usluga, prilikom ocjenjivanja okolnosti iz stavka 3. članaka 70. Zakona, distributer je dužan ocjenjivati i jesu li proizvod ili usluga i dalje usklađeni s potrebama, obilježjima i ciljevima povezanima s održivosti određenog ciljanog tržišta.«
