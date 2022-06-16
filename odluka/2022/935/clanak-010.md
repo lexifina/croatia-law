@@ -1,0 +1,4 @@
+# Članak 10.
+(1) Rješenje o izricanju mjera donosi se u roku od 60 radnih dana od dana isteka roka za primjedbe subjekta nadzora na zapisnik o obavljenom nadzoru odnosno od datuma dostave dodatka zapisnika subjektu nadzora.
+(2) Hrvatska narodna banka postupit će prije donošenja rješenja iz stavka 1. ovog članka u skladu s člankom 323.a ZOKI-a.
+(3) Predsjednik uprave subjekta nadzora dužan je upoznati ostale članove uprave i, tamo gdje je to primjenjivo, predsjednika nadzornog odbora subjekta nadzora sa sadržajem rješenja odmah nakon primitka rješenja. Predsjednik uprave dužan je primjerak rješenja, tamo gdje je to primjenjivo, dostaviti unutarnjem revizoru subjekta nadzora. Predsjednik nadzornog odbora dužan je nakon primitka rješenja bez odgode upoznati članove nadzornog odbora s mjerama koje je rješenjem naložila Hrvatska narodna banka.
