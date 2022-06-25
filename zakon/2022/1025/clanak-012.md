@@ -1,0 +1,10 @@
+# Članak 12.
+Naslov iznad članka 28. mijenja se i glasi: »Objavljivanje informacija za ponovnu uporabu«.
+Članak 28. mijenja se i glasi:
+»(1) U svrhu poticanja i olakšavanja ponovne uporabe informacija tijela javne vlasti dužna su u elektroničkom obliku, na lako pretraživ način objaviti informacije dostupne za ponovnu uporabu na Portalu otvorenih podataka, zajedno s metapodacima, u strojno čitljivom, pristupačnom i otvorenom obliku, u skladu s otvorenim standardima.
+(2) Tijela javne vlasti dužna su dinamičke podatke za ponovnu uporabu objaviti odmah nakon prikupljanja, putem sučelja za programiranje aplikacija (u daljnjem tekstu: API) i u obliku masovnog preuzimanja.
+(3) Iznimno od stavka 2. ovoga članka, ako objava dinamičkih podataka za ponovnu uporabu odmah nakon prikupljanja zbog financijskih ili tehničkih ograničenja nije moguća ili bi iziskivala izniman napor, tijela javne vlasti dužna su te podatke objaviti u roku ili s privremenim tehničkim ograničenjima, u kojem se odnosno kojima se nepotrebno ne narušava iskorištavanje njihova gospodarskog i društvenog potencijala.
+(4) Tijela javne vlasti dužna su visokovrijedne skupove podataka objaviti za ponovnu uporabu, u strojno čitljivom obliku, putem odgovarajućih API-ja i u obliku masovnog preuzimanja.
+(5) Tematske kategorije visokovrijednih skupova podataka iz stavka 4. ovoga članka su: geoprostorni podaci; promatranje Zemlje i okoliš; meteorološki podaci; statistički podaci; trgovačka društva i vlasništvo nad trgovačkim društvima; mobilnost.
+(6) Tijela javne vlasti dužna su istraživačke podatke financirane javnim sredstvima i već javno dostupne putem institucijskih i tematskih repozitorija objaviti za ponovnu uporabu u strojno čitljivom i otvorenom obliku u skladu s otvorenim standardima.
+(7) U svrhu poticanja i olakšavanja ponovne uporabe informacija knjižnice, uključujući knjižnice ustanova visokog obrazovanja, muzeji i arhivi dužni su na način propisan u stavku 1. ovoga članka objaviti informacije na kojima imaju prava intelektualnog vlasništva.«.
