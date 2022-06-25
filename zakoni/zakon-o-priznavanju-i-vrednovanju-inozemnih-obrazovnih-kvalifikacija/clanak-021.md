@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Za osobe iz članka 20. stavka 1. ovoga Zakona koje zbog opravdanih razloga nisu u mogućnosti dostaviti dokumentaciju kojom dokazuju inozemnu obrazovnu kvalifikaciju, agencija nadležna za vrednovanje u svrhu pristupa tržištu rada provest će vrednovanje sukladno raspoloživim podacima i izraditi informativni dokument o inozemnoj obrazovnoj kvalifikaciji.
+(2) Obvezni dijelovi informativnog dokumenta o inozemnoj obrazovnoj kvalifikaciji su podaci o odgojno-obrazovnoj ustanovi ili visokom učilištu koje je izdalo kvalifikaciju, podaci o profilu, razini i procjeni obujma kvalifikacije.

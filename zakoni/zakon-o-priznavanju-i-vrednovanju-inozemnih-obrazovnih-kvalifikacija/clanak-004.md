@@ -1,0 +1,2 @@
+# Članak 4.
+Pravo na priznavanje i vrednovanje inozemne obrazovne kvalifikacije imaju hrvatski državljani, strani državljani, osobe bez državljanstva, azilanti, stranci pod supsidijarnom zaštitom i stranci pod privremenom zaštitom te članovi obitelji azilanta odnosno stranca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom koji zakonito borave u Republici Hrvatskoj sukladno odredbama ovoga Zakona.

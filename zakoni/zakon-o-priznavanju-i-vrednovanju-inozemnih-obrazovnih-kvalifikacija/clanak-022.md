@@ -1,0 +1,2 @@
+# Članak 22.
+Za osobe iz članka 20. stavka 1. ovoga Zakona koje zbog opravdanih razloga nisu u mogućnosti dostaviti dokumentaciju kojom dokazuju inozemnu obrazovnu kvalifikaciju potrebnu za nastavak obrazovanja ili razdoblje obrazovanja, odgojno-obrazovna ustanova ili visoko učilište provest će vrednovanje prethodnog učenja, u skladu s odredbama zakona kojim se propisuje Hrvatski kvalifikacijski okvir, propisima kojima se uređuju priznavanje i vrednovanje informalnog i neformalnog učenja u sustavu odgoja i obrazovanja te pravilnikom iz članka 15. ovoga Zakona.

@@ -1,0 +1,10 @@
+## POGLAVLJE V. AUTOMATSKO PRIZNAVANJE INOZEMNIH OBRAZOVNIH KVALIFIKACIJA
+# Članak 18.
+(1) Agencija nadležna za znanost i visoko obrazovanje dužna je u sklopu središnjeg prijavnog postupka u svrhu upisa u preddiplomski studij automatski priznati razinu kvalifikacije o srednjoškolskom obrazovanju bez provođenja postupka ako je kvalifikacija stečena u državi u kojoj je nacionalni kvalifikacijski okvir povezan s Europskim kvalifikacijskom okvirom ili u slučaju međunarodnog ugovora o uzajamnom automatskom priznavanju inozemnih obrazovnih kvalifikacija.
+(2) Visoko učilište odnosno agencija nadležna za znanost i visoko obrazovanje dužni su u sklopu prijavnih odnosno upisnih postupaka na diplomski i poslijediplomski studij automatski priznati razinu inozemne obrazovne kvalifikacije u visokom obrazovanju bez provođenja postupka priznavanja ako su kumulativno ispunjeni sljedeći uvjeti:
+– kvalifikacija je stečena u državi u kojoj je nacionalni kvalifikacijski okvir povezan s Europskim kvalifikacijskom okvirom i Kvalifikacijskim okvirom Europskog prostora visokog obrazovanja
+– vanjsko osiguravanje kvalitete visokog učilišta provela je agencija upisana u Europski registar za osiguravanje kvalitete (EQAR).
+(3) Visoko učilište, odnosno agencija nadležna za znanost i visoko obrazovanje dužni su u sklopu prijavnih odnosno upisnih postupaka automatski priznati razinu inozemne obrazovne kvalifikacije u visokom obrazovanju bez provođenja postupka priznavanja u slučaju međunarodnog ugovora o uzajamnom automatskom priznavanju inozemnih obrazovnih kvalifikacija.
+(4) U slučaju sumnje u vjerodostojnost isprave o inozemnoj obrazovnoj kvalifikaciji provjerava se njezina vjerodostojnost.
+(5) Automatsko priznavanje inozemne obrazovne kvalifikacije iz stavaka 1. i 2. ovoga članka proizvodi učinke isključivo u okviru tog upisnog postupka.
+(6) Ako agencija nadležna za znanost i visoko obrazovanje ili visoko učilište utvrdi da nisu zadovoljeni uvjeti za automatsko priznavanje iz stavaka 1., 2. i 3. ovoga članka, provest će postupak priznavanja sukladno člancima 13. i 14. ovoga Zakona.
