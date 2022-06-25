@@ -1,0 +1,5 @@
+# Članak 18.
+Članak 25. mijenja se i glasi:
+»(1) U slučaju gubitka, krađe ili uništenja dopuštenja ili potvrde izdane na temelju uredbi iz članka 1. stavka 1. ovoga Zakona i odredbi ovoga Zakona koje se ne može pripisati nositelju dopuštenja ili imatelju, postupak izdavanja novog ili zamjenskog dopuštenja ili potvrde može se pokrenuti samo na zahtjev nositelja dopuštenja ili imatelja, uz dostavu dokaza o gubitku, krađi ili uništenju.
+(2) Ako je dopuštenje ili potvrda izdana na temelju uredbi iz članka 1. stavka 1. ovoga Zakona i odredbi ovoga Zakona istekla odnosno ako podaci na njoj više ne odgovaraju stvarnom stanju te u slučaju iz članka 27. ovoga Zakona, postupak izdavanja novog dopuštenja ili potvrde može se pokrenuti na zahtjev nositelja dopuštenja ili imatelja, uz povrat originala prethodno izdane potvrde ili dopuštenja.
+(3) Na dopuštenju ili potvrdi iz stavaka 1. i 2. ovoga članka, u polju predviđenom za posebne uvjete, Ministarstvo će navesti razloge izdavanja novog ili zamjenskog dopuštenja ili potvrde.«.
