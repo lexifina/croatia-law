@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. Zakona o poticanju razvoja malog gospodarstva (»Narodne novine«, br. 29/02., 63/07., 53/12., 56/13. i 121/16.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16. i 116/18.), Vlada Republike Hrvatske je na sjednici održanoj 30. lipnja 2022. donijela
