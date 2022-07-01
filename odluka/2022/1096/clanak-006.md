@@ -1,0 +1,2 @@
+# Članak 6.
+Prihodi od naknade za razvoj koriste se za financiranje izgradnje (rekonstrukcije i sanacije) komunalnih vodnih građevina javne vodoopskrbe i javne odvodnje sukladno planu gradnje komunalnih vodnih građevina, za izradu projektne i tehničke dokumentacije, troškove stručnog nadzora i studijskih analiza, odnosno za financiranje otplate kredita i zajmova za gradnju (rekonstrukciju i sanaciju) komunalnih vodnih građevina sukladno financijskom planu, koji se donose u skladu sa zakonom kojim se uređuju vodne usluge.

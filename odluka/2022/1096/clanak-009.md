@@ -1,0 +1,5 @@
+# Članak 9.
+Stupanjem na snagu ove odluke prestaju važiti sve odluke o obračunu i naplati naknade za razvoj donijete od strane jedinica lokalne samouprave Grada Valpova, Općine Bizovac i Općine Petrijevci:
+- Odluka o naknadi za razvoj sustava javne vodoopskrbe Grada Valpova, klasa: 325-01/10-1/5, urbroj: 2185/01-1-10-1 od 28. prosinca 2010. godine i Odluka o izmjeni Odluke o naknadi za razvoj sustava javne vodoopskrbe Grada Valpova, klasa: 325-01/10-01/5, urbroj: 2185/01-1-13-2 od 13. srpnja 2013. godine,
+- Odluka o naknadi za razvoj sustava javne vodoopskrbe Općine Bizovac, klasa: 363-01/10-03/30; urbroj: 2185/03-01-01 od 21. prosinca 2010. godine i Odluka o naknadi za razvoj sustava javne vodoopskrbe Općine Bizovac; klasa: 369-01/13-01/06, urbroj: 2185/13-02 od 26. rujna 2013. godine;
+- Odluka o naknadi za razvoj sustava javne vodoopskrbe Općine Petrijevci, klasa: 325-01/10-01/4, urbroj: 2185/05-10-2 od 21. prosinca 2010. godine i Odluka o naknadi za razvoj sustava javne vodoopskrbe Općine Petrijevci, klasa: 325-01/1-01/1, urbroj: 2185/05-163-1 od 27. lipnja 2013. godine.
