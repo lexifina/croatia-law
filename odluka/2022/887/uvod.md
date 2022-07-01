@@ -1,0 +1,1 @@
+Na temelju čl. 52. i 56. Zakona o financiranju vodnog gospodarstva (»Narodne novine« br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19), čl. 23. i čl. 24. Zakona o vodnim uslugama (»Narodne novine« br. 66/19) Skupština društva Hidrobel d.o.o. na Sjednici održanoj 25. svibnja 2022. godine donosi

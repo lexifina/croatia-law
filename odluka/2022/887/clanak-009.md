@@ -1,0 +1,5 @@
+# Članak 9.
+Stupanjem na snagu ove Odluke prestaju važiti:
+- Odluka o obračunu i naplati naknade za razvoj na vodoopskrbnom području Grada Belišća klasa: 325-01/14-01/03, urbroj: 2185/02-1-14-1 od 22. 4. 2014. godine i Odluka o izmjenama i dopunama Odluke o obračunu i naplati naknade za razvoj na vodoopskrbnom području Grada Belišća klasa: 325-08/14-01/01, urbroj: 2185/02-1-14-5 od 19. 9. 2014. godine;
+- Odluka o obračunu i naplati naknade za razvoj na području aglomeracije Grada Belišća, klasa: 325-01/14-01/03, urbroj: 2185/02-1-14-2 od 22. 4. 2014. godine i Odluka o izmjenama i dopunama Odluke o obračunu i naplati naknade za razvoj na području aglomeracije Grada Belišća klasa: 325-08/14-01/01, urbroj: 2185/02-1-14-4 od 19. 9. 2014. godine;
+- Odluka o obračunu i naplati naknade za razvoj na području aglomeracije Općine Marijanci, klasa: 325-03/14-01/01, urbroj: 2115/02-1-14-04 od 16. 6. 2014. godine i Odluka o izmjeni i dopuni Odluke o obračunu i naplati naknade za razvoj na području aglomeracije Općine Marijanci, klasa: 325-05/17-01/01, urbroj: 2115/02-01-17-09 od 10. 4. 2017. godine
