@@ -1,0 +1,1 @@
+Na temelju članka 52. stavka 1. članka 56. Zakona o financiranju vodnog gospodarstva (»Narodne novine« 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19), Skupština trgovačkog društva Vodovod-Vir d.o.o., na sjednici održanoj 28. lipnja 2022. godine, donosi
