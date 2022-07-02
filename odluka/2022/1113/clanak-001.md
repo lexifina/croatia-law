@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom o naknadi utvrđuje se obveza plaćanja naknade za razvoj javne vodoopskrbe i javne odvodnje (u daljnjem tekstu: naknada za razvoj) na području Grada Vrbovskog te se utvrđuju obveznici plaćanja, visina naknade, način obračuna i naplate, namjena prikupljenih sredstava od naknade, prava i obveze javnog isporučitelja vodne usluge javne vodoopskrbe i usluge javne odvodnje Vode Vrbovsko d.o.o. (u daljnjem tekstu: Isporučitelj), te nadzor nad obračunom i naplatom naknade za razvoj.

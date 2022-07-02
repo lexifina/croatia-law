@@ -1,0 +1,3 @@
+# Članak 7.
+Prihodi od naknade za razvoj koriste se sukladno planu gradnje komunalnih vodnih građevina iz Zakonu o vodama na vodoopskrbnom području Isporučitelja za financiranje gradnje komunalnih vodnih građevina javne vodoopskrbe (naknada za razvoj A) i javne odvodnje (naknada za razvoj B).
+Način raspoređivanja i utroška prikupljenih sredstava naknade za razvoj za financiranje izgradnje objekata iz stavka 1. ovog članka, određuje se godišnjim investicijskim programom koji donosi Skupština Isporučitelja na prijedlog Uprave Isporučitelja, a sve sukladno Planu gradnje vodnih građevina iz stavka 1. ovog članka.
