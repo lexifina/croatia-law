@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Odlukom određuje obveza plaćanja naknade za razvoj na području nadležnosti javnog isporučitelja vodne usluge, trgovačkog društva Odvodnja Samobor d.o.o., (u daljnjem tekstu: Isporučitelj vodne usluge - odvodnje), obveznik plaćanja naknade za razvoj, osnovica, način i rokovi uplate naknade za razvoj, namjene kojima služi prihod od naknade za razvoj, visina, izuzeća od plaćanja te nadzor nad obračunom i naplatom naknade za razvoj.
