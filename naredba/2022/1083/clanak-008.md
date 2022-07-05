@@ -1,0 +1,9 @@
+## Troškovi i financiranje
+# Članak 8.
+(1) Obveznici snose troškove provedbe mjera iz članka 4. ove Naredbe.
+(2) Iznimno od stavka 1. ovoga članka sredstva za provedbu mjera propisanih člankom 4. stavcima 3. i 4. ove Naredbe, osiguravaju se i u Državnom proračunu Republike Hrvatske (u daljnjem tekstu: Državni proračun) za potrebe sufinanciranja provedbe mjera.
+(3) Sredstva iz stavka 2. ovoga članka uplaćuju se jedinicama lokalne samouprave na zaraženom području temeljem ugovora o provedbi i sufinanciranju mjera za sprječavanje širenja i suzbijanje crne štitaste uši sklopljenog između Ministarstva i jedinice lokalne samouprave.
+(4) Sredstva iz stavka 2. ovoga članka uplaćuju se jedinicama lokalne samouprave u skladu s dostavljenim izvješćem o obavljenim mjerama propisanih člankom 4. stavcima 3. i 4. ove Naredbe od strane jedinice lokalne samouprave.
+(5) Nadzor i kontrolu nad obavljenim mjerama iz članka 4. stavka 3. i 4. ove Naredbe i utrošenim financijskim sredstvima provodi Povjerenstvo o nadzoru i kontroli provedbe mjera sprječavanja širenja i suzbijanja crne štitaste uši (u daljnjem tekstu: Povjerenstvo), kojeg imenuje ministar nadležan za poljoprivredu.
+(6) Na temelju zaključka Povjerenstva iz stavka 5. ovoga članka, Ministarstvo vrši uplatu financijskih sredstava iz Državnog proračuna jedinicama lokalne samouprave s kojom je Ministarstvo sklopilo predmetni Ugovor.
+(7) Sredstva za provedbu Programa nadzora iz članka 5. ove Naredbe osigurana su u Državnom proračunu za 2022. godinu i projekcijama za 2023. godinu u okviru razdjela 060 Ministarstva, proračunske glave 06005, aktivnost ‘A568007 Zdravstvena zaštita bilja, a sredstva za provedbu mjera iz članka 8. stavka 2. osigurana su u Državnom proračunu za 2022. godinu i projekcijama za 2023. godinu u okviru razdjela 060 Ministarstva, proračunske glave 06005, aktivnost A401098 Provedba hitnih fitosanitarnih mjera.
