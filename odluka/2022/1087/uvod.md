@@ -1,0 +1,1 @@
+Na temelju članka 52. i članka 56. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19), i članka 23. stavka 1. točka 4. Zakona o vodnim uslugama (»Narodne novine« br. 66/19), Skupština društva RAD d.o.o., na sjednici održanoj 17. lipnja 2022.godine, donijela je
