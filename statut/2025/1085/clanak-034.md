@@ -1,0 +1,4 @@
+## Poslovna tajna
+# Članak 34.
+(1) Poslovnom tajnom smatraju se podaci o članovima Stranke sukladno Zakonu o provedbi Opće uredbe o zaštiti osobnih podataka, podaci drugih pravnih osoba, uključivši i državna tijela, označeni kao tajni, drugi podaci o radu Stranke ili o drugim pravnim i fizičkim osobama čije bi priopćavanje bilo protivno interesima Stranke ili drugih pravnih i fizičkih osoba koje je kao tajne utvrdilo Predsjedništvo ili Predsjednik Stranke.
+(2) Predsjedništvo ili predsjednik Stranke mogu odobriti pristup podacima iz stavka 1. s ili bez posebnih ograničenja u njihovom korištenju, vodeći računa o interesima Stranke i trećih osoba na koje se odnose podaci te odredbama odgovarajućih propisa. Kada je to potrebno, prije odobrenja, zatražit će se suglasnost pravne ili fizičke osobe na koju se podaci odnose.
