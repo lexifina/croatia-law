@@ -1,0 +1,13 @@
+O b r a z l o ž e n j e
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 237. stavka 1. Kaznenog zakona ("Narodne novine" broj 125/11., 144/12., 56/15., 61/15. - ispravak, 101/17., 118/18., 126/19. i 84/21.; u daljnjem tekstu: KZ:125/11-84/21) podnio je 19. travnja 2022. Jakša Bulić iz Splita (u daljnjem tesktu: predlagatelj).
+2. Predlagatelj smatra da osporeni članak 237. stavak 1. KZ-a:125/11-84/21, kojim je propisano kazneno djelo nedozvoljene igre na sreću, nije u suglasnosti s člankom 49. Ustava.
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+3. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ocjenu suglasnosti zakona s Ustavom ..."
+4. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... kad ne postoje pretpostavke za odlučivanje o biti stvari."
+5. Ustavni sud utvrđuje da predlagatelj u prijedlogu nije naveo ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom osporenog članka 237. stavka 1. KZ-a:125/11-84/21. Puko navođenje tvrdnji da neki zakon nije u suglasnosti s Ustavom nije dovoljno da bi Ustavni sud mogao ocijeniti postoje li razlozi za pokretanje postupka za ocjenu suglasnosti tog zakona s Ustavom, odnosno za odlučivanje o biti stvari. Ustavni sud ne može nagađati o razlozima zbog kojih predlagatelj smatra da neki zakon nije suglasan s Ustavom i zbog kojih predlaže Ustavnom sudu pokretanje postupka za ocjenu suglasnosti članka 237. stavka 1. KZ-a:125/11-84/21 s Ustavom. Ti razlozi moraju biti izneseni na precizan i razumljiv način, odnosno moraju biti navedeni konkretni razlozi koji u dovoljnoj mjeri ukazuju na sumnju da osporeni zakon nije u suglasnosti s Ustavom kako bi Ustavni sud mogao procijeniti hoće li pokrenuti postupak za ocjenu suglasnosti s Ustavom.
+5.1. Tvrdnja predlagatelja da je osporeni članak u nesuglasnosti s Ustavom jer se ponašanje iz osporenog članka 237. stavka 1. KZ-a:125/11-84/21 "tretira kao kazneno djelo, samo za to da se aparati oduzimaju protuustavno" te da "Zakon o igrama na sreću vrijedi samo za interesne skupine" što prema podnositeljevom mišljenju predstavlja "čisti monopol za određenu skupinu", ne predstavlja ustavnopravnu argumentaciju iz koje bi bilo moguće izvesti zaključak da osporeni zakonski članak nije u suglasnosti s Ustavom.
+6. Sukladno navedenom, na temelju članka 32. Ustavnog zakona riješeno je kao u izreci.
