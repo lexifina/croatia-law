@@ -1,0 +1,6 @@
+# Članak 10.
+Iza članka 203. dodaju se naslov iznad članka i članak 203.a koji glase:
+»Uporaba dokumenta s ključnim informacijama za ulagatelje prema Uredbi (EU) br. 1286/2014
+Članak 203.a
+(1) Agencija će smatrati da je dokument s ključnim informacijama usklađen sa zahtjevima iz članaka 141., 142., 183., 200. do 203., 208. i 211. ovoga Zakona ako društvo za upravljanje za pojedini UCITS fond kojim upravlja dokument s ključnim informacijama sastavi, dostavi, revidira odnosno prevede dokument s ključnim informacijama u skladu sa zahtjevima za dokumente s ključnim informacijama propisanima Uredbom (EU) br. 1286/2014 Europskog parlamenta i Vijeća od 26. studenoga 2014. o dokumentima s ključnim informacijama za upakirane investicijske proizvode za male ulagatelje i investicijske osigurateljne proizvode (PRIIP-ovi) (Tekst značajan za EGP) (SL L 352, 9. 12. 2014.) (u daljnjem tekstu: Uredba (EU) br. 1286/2014).
+(2) Ako društvo za upravljanje za pojedini UCITS fond kojim upravlja sastavi, dostavi, revidira odnosno prevede dokument s ključnim informacijama u skladu sa zahtjevima za dokument s ključnim informacijama propisanima Uredbom (EU) br. 1286/2014, nije dužno izraditi ključne podatke za ulagatelje iz ove glave Zakona.«.
