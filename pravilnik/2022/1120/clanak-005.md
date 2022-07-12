@@ -1,0 +1,6 @@
+## Dodatna pravila i zahtjevi za ostala jaka alkoholna pića
+# Članak 5.
+(1) Ostala jaka alkoholna pića koje se proizvode na način da se voćnom ili grožđanom masulju ili soku prije destilacije dodaju izgnječeni svježi plodovi ili mljeveno aromatsko bilje odnosno aromatiziranjem vinskog destilata i rakija raznim plodovima, voćem, aromatskim biljem, njihovim maceratima i eteričnim uljima ukoliko ne udovoljavaju zahtjevima za kategorije jakih alkoholnih pića iz Priloga I. Uredbe (EU) br. 2019/787 mogu se uz naziv »jako alkoholno piće« u Republici Hrvatskoj označiti kao rakije »travarica«, »ruda«, »biska«, »medenica«.
+(2) Kod označivanja jakih alkoholnih pića iz stavka 1. ovog članka mora se navesti koja je rakija uzeta za osnovu, ako se to ne vidi iz imena rakije, a u slučaju mješavine rakija moraju se navesti sve upotrijebljene rakije prema zastupljenosti padajućim redoslijedom.
+(3) Kod označivanja jakih alkoholnih pića iz stavka 1. ovog članka mogu se navoditi svi sastojci (aromatsko bilje, voće ili drugi plodovi) upotrijebljeni za aromatiziranje.
+(4) Jaka alkoholna pića iz stavka 1. ovog članka mogu od dodanog bilja, voća ili plodova biti lagano obojene, a mogu sadržavati dijelove bilja ili plodova kojima su aromatizirane.

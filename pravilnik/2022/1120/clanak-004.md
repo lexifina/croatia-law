@@ -1,0 +1,5 @@
+## Dodatna pravila i zahtjevi za rakije
+# Članak 4.
+(1) Rakija dobivena destilacijom vina ukoliko udovoljava zahtjevima kvalitete sukladno kategoriji 4. Priloga I. Uredbe (EU) br. 2019/787 može se u Republici Hrvatskoj označavati kao »vinjak« pod uvjetom da je dozrijevala najmanje jednu godinu u hrastovim spremnicima ili najmanje šest mjeseci u hrastovim bačvama zapremine manje od 1000 litara, odnosno kao »stari vinjak« pod uvjetom da je dozrijevala najmanje tri godine u hrastovim bačvama, a starost vinjaka se može označiti zvjezdicom tako da svaka zvjezdica označava jednu godinu odležavanja.
+(2) Rakija dobivena destilacijom vinskog taloga ukoliko udovoljava zahtjevima kvalitete sukladno kategoriji 12. Priloga I. Uredbe (EU) br. 2019/787 može se u Republici Hrvatskoj označavati kao »drožđenka«.
+(3) Rakija dobivena isključivo destilacijom fermentiranog grožđanog masulja ukoliko udovoljava zahtjevima kvalitete kao rakija od voća sukladno kategoriji 9. Priloga I. Uredbe (EU) br. 2019/787 može se u Republici Hrvatskoj označivati kao »loza«.

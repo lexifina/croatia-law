@@ -1,0 +1,3 @@
+## Provedba propisa donesenih na razini Europske unije
+# Članak 2.
+Ovim se Pravilnikom osigurava provedba Uredbe (EU) br. 2019/787 Europskog parlamenta i Vijeća od 17. travnja 2019. o definiranju, opisivanju, prezentiranju i označivanju jakih alkoholnih pića, upotrebi naziva jakih alkoholnih pića u prezentiranju i označivanju drugih prehrambenih proizvoda, zaštiti oznaka zemljopisnog podrijetla za jaka alkoholna pića, upotrebi etilnog alkohola i destilata poljoprivrednog podrijetla u alkoholnim pićima te stavljanju izvan snage Uredbe (EZ) br. 110/2008 (SL L 130, 17. 5. 2019.) (u daljnjem tekstu: Uredba (EU) br. 2019/787).
