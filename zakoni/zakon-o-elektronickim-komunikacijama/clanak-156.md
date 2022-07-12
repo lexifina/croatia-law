@@ -1,0 +1,5 @@
+## Sustav upozoravanja javnosti
+# Članak 156.
+(1) Operatori brojevno utemeljenih interpersonalnih komunikacijskih usluga u pokretnoj komunikacijskoj mreži moraju, na zahtjev nadležnog tijela za broj 112, bez naknade dostavljati javna upozorenja krajnjim korisnicima o neposrednim ili nadolazećim opasnostima putem sustava upozoravanja javnosti.
+(2) Nadležno tijelo za broj 112, u suradnji s Agencijom, može narediti dostavljanje upozorenja iz stavka 1. ovoga članka putem javno dostupnih elektroničkih komunikacijskih usluga koje nisu usluge iz stavka 1. ovoga članka ni usluge radiodifuzije, ili putem aplikacija za pokretne terminalne uređaje, koje se temelje na usluzi pristupa internetu.
+(3) Sustav upozoravanja javnosti iz stavka 2. ovoga članka mora biti jednako učinkovit u smislu pokrivenosti i kapaciteta za kontaktiranje krajnjih korisnika, uključujući i krajnje korisnike koji se samo privremeno nalaze na određenom području, pri čemu se u najvećoj mogućoj mjeri moraju uzeti u obzir mjerodavne smjernice BEREC-a.

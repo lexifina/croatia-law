@@ -1,0 +1,12 @@
+## Prelazak (migracija) s povijesne infrastrukture
+# Članak 114.
+(1) Operatori sa značajnom tržišnom snagom na jednom ili više mjerodavnih tržišta u skladu s člankom 100. ovoga Zakona, na koje se primjenjuju obveze iz članaka 101. do 113. ovoga Zakona, obvezni su, unaprijed i pravodobno, obavijestiti Agenciju o namjeri stavljanja dijelova mreže izvan uporabe ili zamjene novom infrastrukturom, uključujući povijesnu infrastrukturu potrebnu za rad bakrene mreže.
+(2) Obavijest iz stavka 1. ovoga članka mora sadržavati sve mjerodavne sljedeće podatke:
+− transparentan raspored i uvjete stavljanja dijelova mreže izvan uporabe ili zamjene novom infrastrukturom
+− primjeren rok za obavješćivanje trećih osoba, na koje taj prelazak (migracija) izravno utječe, o prijelaznom razdoblju prelaska
+− specifikaciju dostupnih zamjenskih proizvoda koji su najmanje usporedive kakvoće i kojima se pruža pristup poboljšanoj mrežnoj infrastrukturi.
+(3) Ako na temelju podataka iz stavka 2. ovoga članka Agencija utvrdi da postupak prelaska ne osigurava dostatnu zaštitu tržišnog natjecanja i prava krajnjih korisnika, odredit će operatoru iz stavka 1. ovoga članka uvjete za primjeren postupak prelaska, što obuhvaća transparentan raspored i uvjete prelaska, primjeren rok operatoru za obavješćivanje o prijelaznom razdoblju te dostupnost zamjenskih proizvoda usporedive kakvoće, kojima se pruža pristup poboljšanoj mrežnoj infrastrukturi za nadomještanje zamijenjenih dijelova mreže.
+(4) U odnosu na fizičku infrastrukturu, posebne mrežne sastavnice i povezanu opremu, koja se predlaže staviti izvan uporabe ili zamijeniti, Agencija može, u skladu s postupcima iz članaka 30. i 37. ovoga Zakona, ukinuti regulatorne obveze ako su ispunjeni sljedeći uvjeti:
+− operator koji pruža pristup utvrdio je odgovarajuće uvjete za prelazak, uključujući stavljanje na raspolaganje zamjenskog pristupnog proizvoda koji je najmanje usporedive kakvoće, koja je bila dostupna korištenjem povijesne infrastrukture, pri čemu tražiteljima pristupa omogućuje dostup do istih krajnjih korisnika, i
+− operator koji pruža pristup pridržavao se uvjeta i postupka o kojima je obavijestio Agenciju, odnosno koje mu je odredila Agencija u skladu s ovim člankom.
+(5) Ovim se člankom ne dovodi u pitanje dostupnost reguliranih proizvoda koje je Agencija odredila za poboljšanu infrastrukturu mreže, u skladu s postupcima iz članaka 100. i 101. ovoga Zakona.

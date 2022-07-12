@@ -1,0 +1,13 @@
+## Pristup radijskim lokalnim mrežama (RLAN)
+# Članak 87.
+(1) Agencija izdaje opću dozvolu za uporabu harmoniziranoga radiofrekvencijskog spektra za pružanje pristupa javnoj elektroničkoj komunikacijskoj mreži putem radijskih lokalnih mreža (RLAN).
+(2) Na poduzetnika, tijelo javne vlasti ili krajnjeg korisnika, koji pruža pristup iz stavka 1. ovoga članka, ne primjenjuju se obveze propisane općim ovlaštenjem, obveze koje se odnose na prava krajnjih korisnika iz dijela trećeg glave III. ovoga Zakona ni obveze međupovezivanja njihovih mreža iz članka 93. ovoga Zakona, ako pružanje te vrste pristupa nije dio ili potpora gospodarskoj djelatnosti, ili ako je pružanje te vrste pristupa potpora gospodarskoj djelatnosti ili javnoj usluzi, ali ne ovisi o prijenosu signala na radijskim lokalnim mrežama (RLAN).
+(3) Na pružatelje pristupa iz stavka 1. ovoga članka primjenjuju se pravila o odgovornosti utvrđena zakonom kojim se uređuje elektronička trgovina.
+(4) Operatori javnih elektroničkih komunikacijskih mreža ili usluga mogu javnosti davati pristup svojim mrežama putem radijskih lokalnih mreža (RLAN), koje se mogu nalaziti u prostoru krajnjeg korisnika, uz uvjet da su zadovoljeni uvjeti propisani općom dozvolom, i uz prethodnu privolu krajnjeg korisnika.
+(5) Operatori javnih elektroničkih komunikacijskih mreža ili usluga ne smiju jednostrano ograničavati ili sprječavati krajnje korisnike da:
+− prema vlastitom izboru pristupaju radijskim lokalnim mrežama (RLAN) koje pružaju treće osobe, ili
+− drugim krajnjim korisnicima dopuštaju pristup njihovim mrežama putem radijskih lokalnih mreža (RLAN), na temelju uzajamnosti ili na drugi način, uključujući i aktivnosti trećih strana kojima se objedinjuju radijske lokalne mreže (RLAN) različitih krajnjih korisnika i stavljaju na raspolaganje javnosti.
+(6) Krajnji korisnici mogu drugim krajnjim korisnicima davati pristup svojoj radijskoj lokalnoj mreži (RLAN), na temelju uzajamnosti ili na drugi način, uključujući i aktivnosti trećih strana kojima se objedinjuju radijske lokalne mreže (RLAN) različitih krajnjih korisnika i stavljaju na raspolaganje javnosti.
+(7) Nije dopušteno neopravdano ograničavanje pružanja pristupa radijskim lokalnim mrežama (RLAN) za potrebe javnosti, a osobito:
+1. za tijela javnog sektora ili u javnim prostorima u blizini tih tijela, kada taj pristup omogućuje potporu javnim uslugama koje se pružaju u prostorima tijela javnog sektora
+2. za aktivnosti nevladinih udruga ili tijela javnog sektora da se radijske lokalne mreže (RLAN) različitih krajnjih korisnika objedine i učine dostupnima, na temelju uzajamnosti ili na drugi način, uključujući, ako je to primjenjivo, radijske lokalne mreže (RLAN) kojima je javni pristup predviđen u skladu s točkom 1. ovoga stavka.

@@ -1,0 +1,6 @@
+## Ponude u paketu
+# Članak 151.
+(1) Ako operator nudi potrošaču paket usluga ili paket usluga i terminalne opreme, koji sadržavaju najmanje usluge pristupa internetu ili javno dostupne brojevno utemeljene interpersonalne komunikacijske usluge, odredbe članka 140. stavaka 5., 8. i 9., članka 142. stavaka 2. i 3., članka 145. i članka 152. stavaka 1., 2. i 3. ovoga Zakona primjenjuju se na sve sastavnice paketa, uključujući, na odgovarajući način, i sastavnice koje nisu obuhvaćene tim odredbama.
+(2) Ako potrošač ima pravo na raskid ugovora za bilo koju sastavnicu paketa iz stavka 1. ovoga članka prije isteka obveznog trajanja ugovora, zbog neusklađenosti s ugovorom ili nepružanja usluge, smatra se da potrošač ima pravo na raskid ugovora za sve sastavnice paketa.
+(3) Operator usluga pristupa internetu ili javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga ne smije produljiti obvezno trajanje ugovora u slučaju naknadnog ugovaranja dodatnih usluga ili uporabe terminalne opreme, osim ako potrošač izričito pristane na produljenje ugovora prigodom toga naknadnog ugovaranja.
+(4) Odredbe stavaka 1. i 3. ovoga članka primjenjuju se i na krajnje korisnike koji su mikropoduzetnici, mali poduzetnici ili neprofitne organizacije, osim ako su se izričito odrekli primjene tih odredaba.

@@ -1,0 +1,10 @@
+## Izmjena i ograničavanje uvjeta uporabe radiofrekvencijskog spektra
+# Članak 82.
+(1) Agencija može izmijeniti uvjete uporabe radiofrekvencijskog spektra iz dozvole za uporabu radiofrekvencijskog spektra samo u objektivno opravdanim slučajevima i na razmjeran način, pri čemu mora uzeti u obzir, ako je to primjenjivo, uvjete u vezi s pravom prijenosa radiofrekvencijskog spektra.
+(2) O prijedlogu izmjene uvjeta uporabe radiofrekvencijskog spektra za elektroničke komunikacijske mreže i usluge Agencija provodi postupak javnog savjetovanja u skladu s člankom 30. ovoga Zakona, u roku koji ne može biti kraći od 30 dana, osim u iznimnim okolnostima.
+(3) Iznimno od odredbe stavka 2. ovoga članka, javno savjetovanje neće se provoditi ako su izmjene uvjeta uporabe radiofrekvencijskog spektra manjeg značenja i prethodno dogovorene s nositeljem dozvole.
+(4) Agencija može iznimno ograničiti uvjete uporabe iz dozvole za uporabu radiofrekvencijskog spektra, u skladu s načelima razmjernosti i nediskriminacije, ako je to ograničenje potrebno u svrhu osiguranja djelotvorne i učinkovite uporabe radiofrekvencijskog spektra ili provedbe tehničkih provedbenih mjera donesenih na temelju Odluke br. 676/2002/EZ, vodeći računa da to ograničenje bude najmanje otegotno za nositelja dozvole.
+(5) U slučaju ograničenja uvjeta uporabe radiofrekvencijskog spektra za dozvole za uporabu radiofrekvencijskog spektra iz članaka 78., 79. i 80. ovoga Zakona, Agencija provodi postupak javnog savjetovanja u skladu s člankom 30. ovoga Zakona.
+(6) Iznimno od odredbe stavka 5. ovoga članka, javno savjetovanje neće se provoditi ako je nositelj dozvole suglasan s predloženim ograničenjem iz stavka 5. ovoga članka.
+(7) U slučajevima iz stavaka 1. i 4. ovoga članka Agencija će izdati novu dozvolu ili dodatak postojećoj dozvoli za uporabu radiofrekvencijskog spektra.
+(8) Način i postupak izmjene i ograničavanja uvjeta uporabe radiofrekvencijskog spektra pobliže se propisuju pravilnikom iz članka 68. stavka 4. ovoga Zakona.

@@ -1,0 +1,4 @@
+## Ograničenje potrošnje javnih komunikacijskih usluga
+# Članak 146.
+(1) Operatori javno dostupnih elektroničkih komunikacijskih usluga moraju bez odgode omogućiti svojim krajnjim korisnicima, na njihov zahtjev, jednostavnu, potpunu i besplatnu zabranu određenih vrsta odlaznih poziva, ili poziva na određene vrste brojeva ili skupine brojeva odnosno zabranu slanja i/ili primanja SMS poruka i MMS poruka na određene ili s određenih vrsta brojeva ili skupina brojeva.
+(2) Operatori javno dostupnih elektroničkih komunikacijskih usluga obvezni su pratiti potrošnju usluga svojih krajnjih korisnika u svrhu njihove zaštite, te ih na odgovarajući način obavijestiti o potrošnji i iskorištenosti ugovorenih usluga. Način i uvjeti obavješćivanja krajnjih korisnika pobliže se propisuju pravilnikom iz članka 35. ovoga Zakona.

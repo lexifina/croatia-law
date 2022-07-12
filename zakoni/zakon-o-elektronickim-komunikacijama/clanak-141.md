@@ -1,0 +1,20 @@
+## Procjena platežne sposobnosti podnositelja zahtjeva za sklapanje ugovora
+# Članak 141.
+(1) Operatori javno dostupnih elektroničkih komunikacijskih usluga mogu prikupljati i elektronički razmjenjivati nužne podatke o korisnicima iz stavka 4. ovoga članka u svrhu procjene platežne sposobnosti podnositelja zahtjeva za sklapanje ugovora iz članka 140. stavka 1. ovoga Zakona.
+(2) Elektronička razmjena prikupljenih nužnih podataka iz stavka 4. ovoga članka između operatora obavlja se posredovanjem Financijske agencije koja je posebnim propisima za poslovne subjekte ovlaštena voditi registre, evidencije i zbirke podataka, te davati podatke o oznaci blokade računa i danima trajanja blokade.
+(3) Razmjena nužnih podataka iz stavka 4. ovoga članka odvija se tako da operatori Financijskoj agenciji dostavljaju ili omogućuju pristup nužnim podacima svojih korisnika, pri čemu ni jedan operator nema pravo uvida u podatke o konkretnom dugovanju, iznosu dugovanja ni o vjerovniku.
+(4) Nužni podaci obuhvaćaju:
+− ime, prezime i osobni identifikacijski broj
+− podatke o urednosti u plaćanju računa (učestalost i broj dana neplaćanja duljeg od 60 dana nakon dospijeća računa)
+− podatke o pokrenutom postupku prisilne naplate ili prodaje potraživanja zbog nepodmirenih dugovanja za elektroničke komunikacijske usluge i/ili uređaje.
+(5) Financijska agencija na zahtjev operatora, koji je zaprimio zahtjev za sklapanje ugovora iz stavka 1. ovoga članka, a na temelju nužnih podataka iz stavka 4. ovoga članka i potvrde operatora o danoj izričitoj suglasnosti podnositelja zahtjeva za jednokratnu provjeru podataka o blokadi njegova računa i danima trajanja blokade, dostavlja operatoru prethodnu procjenu platežne sposobnosti podnositelja zahtjeva izrađenu na temelju sljedećih podataka:
+− postojanju ili nepostojanju dugovanja podnositelja zahtjeva
+− učestalosti i broju dana neplaćanja duljeg od 60 dana
+− postojanju ili nepostojanju pokrenutog postupka prisilne naplate ili prodaje potraživanja zbog nepodmirenih dugovanja za elektroničke komunikacijske usluge i/ili uređaje
+− oznaci blokade računa podnositelja zahtjeva i danima trajanja blokade.
+(6) Prethodnu procjenu platežne sposobnosti podnositelja zahtjeva iz stavka 5. ovoga članka operatori mogu upotrebljavati isključivo nakon zaprimanja zahtjeva iz stavka 1. ovoga članka u svrhu samostalne procjene platežne sposobnosti podnositelja zahtjeva i donošenja odluke o prihvaćanju ili odbijanju zahtjeva za sklapanje ugovora, te je ne smiju upotrebljavati u druge svrhe.
+(7) Ako operator na temelju samostalne procjene platežne sposobnosti iz stavka 6. ovoga članka odbije zahtjev za sklapanje ugovora iz stavka 1. ovoga članka, mora podnositelju zahtjeva ponuditi drugu odgovarajuću uslugu ili zatražiti odgovarajuće sredstvo osiguranja plaćanja.
+(8) Nužni podaci iz stavka 4. ovoga članka obrađuju se vodeći računa o propisanim rokovima njihova čuvanja i arhiviranja, protekom kojih se moraju obrisati. Operator iz stavka 1. ovoga članka mora osigurati da su nužni podaci, koji su dostavljeni i/ili dani na uvid Financijskoj agenciji, točni i ažurni.
+(9) Međusobni odnosi između operatora kao voditelja obrade osobnih podataka i Financijske agencije kao izvršitelja obrade osobnih podataka, u vezi s osobnim podacima koji se obrađuju u postupku prikupljanja, razmjene, uporabe i arhiviranja razmijenjenih podataka, uređuju se u skladu s propisima koji uređuju zaštitu osobnih podataka.
+(10) Odredbe ovoga članka ni na koji način ne ograničuju pravo operatora iz stavka l. ovoga članka na druge zakonite načine provjere platežne sposobnosti podnositelja zahtjeva koji su pravne osobe.
+(11) Sadržaj i struktura podataka, način i rokovi razmjene podataka, način provjere podataka, način i metodologija izrade prethodne procjene iz stavka 5. ovoga članka, postupak nadzora nad razmjenom podataka, obnavljanja i točnosti podataka, vrste i visine naknada Financijske agencije te potrebni tehnološki i drugi preduvjeti za uspostavu postupka razmjene podataka pobliže se propisuju pravilnikom koji donosi ministar na prijedlog Financijske agencije.

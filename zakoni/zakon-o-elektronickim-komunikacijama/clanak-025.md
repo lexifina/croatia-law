@@ -1,0 +1,4 @@
+## Uvjeti povezani s općim ovlaštenjem, pravima uporabe radiofrekvencijskog spektra i brojevnog prostora te druge posebne obveze
+# Članak 25.
+(1) Na opće ovlaštenje za pružanje elektroničkih komunikacijskih mreža ili usluga, za prava uporabe radiofrekvencijskog spektra i brojevnog prostora primjenjuju se isključivo uvjeti iz Priloga 1. ovoga Zakona koji moraju biti nediskriminirajući, razmjerni i transparentni.
+(2) Posebne obveze pristupa i međupovezivanja iz članka 93. ovoga Zakona, sustava uvjetovanog pristupa iz članka 94. ovoga Zakona, poštivanja regulatornih obveza određenih operatorima sa značajnom tržišnom snagom iz članka 101. ovoga Zakona, regulatorne kontrole maloprodajnih usluga iz članka 115. ovoga Zakona ili obveze operatora univerzalnih usluga iz članka 119. ovoga Zakona određuju se samo u skladu s postupcima propisanima ovim Zakonom te se na njih ne primjenjuju prava i obveze koje proizlaze iz općeg ovlaštenja.

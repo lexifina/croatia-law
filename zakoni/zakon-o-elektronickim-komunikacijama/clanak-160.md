@@ -1,0 +1,6 @@
+## Obvezni prijenos
+# Članak 160.
+(1) Na temelju odluke tijela nadležnog za elektroničke medije o obveznom prijenosu jednog ili više radijskih i/ili televizijskih programa u Republici Hrvatskoj na državnoj, regionalnoj ili drugoj razini, i dopunskih usluga, a osobito usluga pristupačnosti koje omogućuju odgovarajući pristup krajnjim korisnicima s invaliditetom, te podataka kojima se podržavaju usluge umrežene televizije i elektroničkih programskih vodiča, Agencija će, vodeći računa o načelima razmjernosti i transparentnosti te javnom interesu, odlukom odrediti obvezu prijenosa tih programa.
+(2) Obveza prijenosa iz stavka 1. ovoga članka određuje se operatorima koji pružaju elektroničke komunikacijske mreže i usluge koje se upotrebljavaju za distribuciju radijskih i/ili televizijskih programa za javnost u slučaju kada je to za značajan broj korisnika tih mreža i usluga osnovni način prijma radijskih i televizijskih programa.
+(3) U slučaju određivanja naknade za obvezni prijenos, određen u skladu sa stavcima 1. i 2. ovoga članka, naknada se utvrđuje u skladu s načelima razmjernosti, transparentnosti i nediskriminacije.
+(4) Agencija redovito provjerava obvezu prijenosa iz stavaka 1. i 2. ovoga članka svakih pet godina.

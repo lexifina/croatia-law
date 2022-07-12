@@ -1,0 +1,21 @@
+## Postupak preuzimanja obveza
+# Članak 112.
+(1) Operatori sa značajnom tržišnom snagom mogu Agenciji dati ponudu kojom nude preuzimanje obveza primjenjivih na njihove mreže, koje se odnose na uvjete pristupa i/ili uvjete za zajedničko ulaganje, i to, uz ostalo, u vezi sa sljedećim:
+− sporazumima o suradnji značajnima za procjenu primjerenih i razmjernih obveza na temelju članka 101. ovoga Zakona
+− zajedničkim ulaganjem u mreže vrlo velikog kapaciteta na temelju članka 109. ovoga Zakona ili
+− učinkovitim i nediskriminirajućim pristupom trećih osoba na temelju članka 111. ovoga Zakona tijekom i nakon razdoblja provedbe predloženog oblika razdvajanja.
+(2) Ponuda iz stavka 1. ovoga članka mora sadržavati dostatnu razinu pojedinosti, i to osobito o vremenu i opsegu njihove provedbe, kako bi se Agenciji omogućilo da provede svoju procjenu na temelju stavaka 3. do 6. ovoga članka. Obveze iz ponude mogu trajati i dulje od razdoblja za provedbu analize tržišta iz članka 100. stavaka 9. i 10. ovoga Zakona.
+(3) Agencija u provedbi postupka javnog savjetovanja u skladu s člankom 30. ovoga Zakona obavlja ispitivanje tržišta u svrhu procjene ponuđenih obveza iz stavka 1. ovoga članka, koje se osobito odnosi na ponuđene uvjete, osim u slučaju kada ponuđene obveze ne ispunjavaju jedan ili više mjerodavnih uvjeta. Mogući suulagatelji ili tražitelji pristupa mogu dati mišljenje o usklađenosti ponuđenih obveza s uvjetima iz članaka 101., 109. ili 111. ovoga Zakona, te predložiti izmjene ponuđenih obveza.
+(4) U odnosu na ponuđene obveze iz stavka 1. ovoga članka Agencija prigodom procjene tih obveza, na temelju članka 101. stavka 5. ovoga Zakona, vodi računa o sljedećem:
+− dokazima da su ponuđene obveze pravedne i razumne
+− otvorenosti ponuđenih obveza za sve dionike na tržištu
+− pravodobnoj raspoloživosti pristupa, uključujući i mreže vrlo velikog kapaciteta, prije početka pružanja povezanih maloprodajnih usluga, uz pravedne, razumne i nediskriminirajuće uvjete
+− održivom tržišnom natjecanju na silaznim tržištima i olakšavanju zajedničkog postavljanja i korištenja mreža vrlo velikog kapaciteta u odnosu na ponuđene obveze, u interesu krajnjih korisnika.
+(5) Agencija će obavijestiti operatora sa značajnom tržišnom snagom o ishodu ispitivanja tržišta provedenog u skladu sa stavkom 3. ovoga članka i o svojoj ocjeni o tome jesu li ponuđene obveze usklađene s ciljevima, mjerilima i postupcima utvrđenima ovim člankom i člancima 101., 109. ili 111. ovoga Zakona, te o uvjetima uz koje može razmotriti mogućnost da te obveze učini obvezujućima.
+(6) Operator sa značajnom tržišnom snagom može izmijeniti svoju ponudu o preuzimanju obveza iz stavka 1. ovoga članka u skladu s obavijesti Agencije iz stavka 5. ovoga članka.
+(7) Neovisno o odredbama članka 109. stavaka 3. i 4. ovoga Zakona, Agencija može odlukom odrediti ponuđene obveze u cijelosti ili djelomično obvezujućima.
+(8) Iznimno od odredaba članka 100. stavaka 9. i 10. ovoga Zakona, Agencija određuje jednu ili više obveza u razdoblju određenom u odluci, koje može biti i razdoblje naznačeno u ponudi, a obveze zajedničkog ulaganja na temelju članka 109. stavaka 3. i 4. ovoga Zakona određuje u razdoblju od najmanje sedam godina.
+(9) U skladu s člankom 109. ovoga Zakona, ovim se člankom ne dovodi u pitanje primjena postupka analize tržišta na temelju članka 100. ovoga Zakona, ni određivanje regulatornih obveza na temelju članka 101. ovoga Zakona.
+(10) Ako Agencija donese odluku o određivanju obveza iz ovoga članka, učinke te odluke na razvoj tržišta ocjenjuje u skladu s člankom 101. ovoga Zakona. Agencija ujedno razmatra primjerenost određivanja, zadržavanja, izmjene ili ukidanja obveza na temelju članka 101. ili članaka 102. do 107. ovoga Zakona, te dostavlja Komisiji, u skladu s člancima 37. i 101. ovoga Zakona, odluku iz članka 101. stavka 7. ovoga Zakona, uz koju mora priložiti odluku o određivanju obveza iz ovoga članka.
+(11) Agencija nadzire primjenu svih obveza određenih u skladu sa stavkom 10. ovoga članka te odlučuje o njihovu produljenju.
+(12) Agencija može preispitati obveze određene u skladu s člankom 101. stavkom 7. ovoga Zakona, neovisno o provedbi postupka za osiguravanje usklađenosti s posebnim obvezama na temelju članka 34. ovoga Zakona.

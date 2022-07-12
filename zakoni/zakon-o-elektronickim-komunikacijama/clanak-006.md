@@ -1,0 +1,8 @@
+## Nadležna državna tijela
+# Članak 6.
+(1) Vlada Republike Hrvatske donosi nacionalne planove, smjernice i programe kojima se utvrđuju temeljna načela i ciljevi politike razvoja elektroničkih komunikacija u Republici Hrvatskoj te određuju nacionalni prioriteti u planiranju gradnje, postavljanja i pružanja elektroničkih komunikacijskih mreža i usluga, elektroničke komunikacijske infrastrukture i povezane opreme od posebnog interesa za Republiku Hrvatsku.
+(2) Ministarstvo izrađuje studije i prijedloge nacionalnih planova, smjernica i provedbenih programa iz stavka 1. ovoga članka te u vezi s njihovom provedbom obavlja sljedeće poslove:
+− usklađuje i nadzire rad svih nositelja pojedinih mjera i aktivnosti u provedbi nacionalnih planova, smjernica i provedbenih programa iz stavka 1. ovoga članka
+− može davati Hrvatskoj regulatornoj agenciji za mrežne djelatnosti smjernice za provedbu utvrđenih načela i ciljeva politike razvoja elektroničkih komunikacija, pri čemu tim smjernicama, koje se moraju objaviti na javno dostupan način, ne smije utjecati na donošenje odluka Hrvatske regulatorne agencije za mrežne djelatnosti u pojedinim slučajevima
+− obavlja i druge poslove u vezi s provedbom utvrđenih načela i ciljeva politike razvoja elektroničkih komunikacija.
+(3) Ministarstvo predstavlja Republiku Hrvatsku u europskim i međunarodnim organizacijama i institucijama u području elektroničkih komunikacija i informacijskog društva te je odgovorno za provedbu međunarodnih ugovora, sporazuma i konvencija iz područja elektroničkih komunikacija i informacijskog društva. Ministarstvo i Hrvatska regulatorna agencija za mrežne djelatnosti sudjeluju u radu upravnih i radnih tijela tih međunarodnih organizacija i institucija.

@@ -1,0 +1,5 @@
+## Pristup fizičkoj infrastrukturi
+# Članak 105.
+(1) Agencija može, u skladu s odredbama članka 101. ovoga Zakona, odrediti operatorima obvezu udovoljavanja razumnim zahtjevima za pristup i korištenje fizičke infrastrukture, što obuhvaća, ali se ne ograničuje na zgrade ili ulaze u zgrade, kabele u zgradama, uključujući žične instalacije, antene, antenske stupove, tornjeve i druge potporne građevine, kabelsku kanalizaciju, cijevi, revizijska okna, zdence i ulične ormare.
+(2) Obvezu iz stavka 1. ovoga članka Agencija može odrediti operatoru ako na temelju analize tržišta utvrdi da bi uskraćivanje pristupa, ili davanje pristupa uz nerazumne uvjete poslovanja sličnoga učinka, spriječilo razvoj održivoga tržišnog natjecanja te ne bi bilo u interesu krajnjih korisnika.
+(3) Agencija može operatoru odrediti obvezu pružanja pristupa u skladu s ovim člankom, neovisno o tome je li imovina na koju se ta obveza odnosi dio mjerodavnog tržišta u skladu s analizom tržišta, uz uvjet da je ta obveza nužna i razmjerna za ostvarivanje regulatornih ciljeva iz članka 7. ovoga Zakona.

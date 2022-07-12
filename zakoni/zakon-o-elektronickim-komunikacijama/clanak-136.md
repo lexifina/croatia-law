@@ -1,0 +1,9 @@
+## Pristup brojevima i uslugama
+# Članak 136.
+(1) Operatori elektroničkih komunikacijskih mreža i/ili usluga moraju podržavati međunarodni predbroj »00« pri uspostavljanju međunarodnih poziva prema javnim komunikacijskim mrežama izvan Republike Hrvatske.
+(2) Za uporabu brojevno utemeljenih interpersonalnih komunikacijskih usluga između susjednih lokacija preko granica između država članica Europske unije Agencija može odlukom uspostaviti posebne uvjete, o kojima u cijelosti moraju biti obaviješteni krajnji korisnici na koje utječu ti uvjeti.
+(3) Agencija će osigurati da svi operatori elektroničkih komunikacijskih mreža i/ili usluga, kada je to gospodarski održivo, i kada pozvani krajnji korisnik zbog tržišnih razloga nije ograničio pristup pozivateljima iz određenih zemljopisnih područja, omoguće:
+1. pristup i korištenje uslugama uz uporabu nezemljopisnih brojeva unutar Europske unije
+2. pristup svim brojevima koji se upotrebljavaju u Europskoj uniji, neovisno o tehnologiji i uređajima kojima se koriste operatori, uključujući i brojeve iz planova numeriranja drugih država članica Europske unije i univerzalne međunarodne besplatne pozivne brojeve (UIFN).
+(4) Agencija može obvezati operatore elektroničkih komunikacijskih mreža i/ili usluga da onemoguće, na pojedinačnoj osnovi, pristup brojevima ili uslugama kada postoji opravdana sumnja u zlouporabu ili prijevaru. Agencija u takvim slučajevima može donijeti odluku kojom će operatorima narediti da uskrate pripadajuće prihode od međupovezivanja ili od drugih usluga.
+(5) Operatori elektroničkih komunikacijskih mreža i/ili usluga moraju osigurati da korisnici iz drugih država mogu pristupati nezemljopisnim brojevima u Republici Hrvatskoj ako je to gospodarski održivo, osim u slučaju kada je pozvani krajnji korisnik zbog tržišnih razloga ograničio pristup pozivateljima iz određenih zemljopisnih područja.

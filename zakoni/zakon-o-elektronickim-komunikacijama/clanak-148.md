@@ -1,0 +1,7 @@
+## Postupak u slučaju nepodmirenja dugovanja
+# Članak 148.
+(1) Ako krajnji korisnik nije podmirio dugovanje za pružene usluge, operator javno dostupnih elektroničkih komunikacijskih usluga ima pravo privremeno isključiti korisničku terminalnu opremu iz elektroničke komunikacijske mreže u skladu s općim uvjetima poslovanja.
+(2) Operator javno dostupnih elektroničkih komunikacijskih usluga može privremeno isključiti korisničku terminalnu opremu iz elektroničke komunikacijske mreže ako krajnji korisnik nije podmirio dospjela dugovanja u roku od 30 dana od dana dostave opomene u pisanom ili elektroničkom obliku, s naznakom privremenog isključenja u slučaju nepodmirenja dugovanja, i ako nije podnio prigovor iz članka 153. ovoga Zakona.
+(3) Privremeno isključenje korisničke terminalne opreme iz stavka 2. ovoga članka mora se provoditi u skladu s odredbama Priloga 5. dijela A) točke 5. ovoga Zakona.
+(4) Za vrijeme trajanja privremenog isključenja korisničke terminalne opreme iz stavka 2. ovoga članka krajnji korisnik ima pravo primati dolazne pozive kada se nalazi u Republici Hrvatskoj, te ima pravo upućivati odlazne pozive prema hitnim službama i besplatnom broju službe za korisnike svojeg operatora.
+(5) Ako krajnji korisnik ne podmiri dugovanje ni nakon isteka roka od 30 dana od dana privremenog isključenja, operator javno dostupnih elektroničkih komunikacijskih usluga može trajno isključiti korisničku terminalnu opremu iz elektroničke komunikacijske mreže i raskinuti ugovor u skladu s općim uvjetima poslovanja.

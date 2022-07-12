@@ -1,0 +1,9 @@
+## Rješavanje prekograničnih sporova
+# Članak 32.
+(1) U slučaju prekograničnog spora između operatora iz različitih država članica Europske unije u vezi s obvezama iz ovoga Zakona ili prava Europske unije u području elektroničkih komunikacija, osim sporova u vezi s usklađivanjem radiofrekvencijskog spektra, pri čemu je rješavanje spora u nadležnosti nacionalnih regulatornih tijela dviju ili više država članica Europske unije, svaka od stranaka u sporu može pokrenuti spor pred odgovarajućim nacionalnim regulatornim tijelom.
+(2) U rješavanju spora iz stavka 1. ovoga članka Agencija mora provesti postupak u skladu s člankom 31. ovoga Zakona, pri čemu će usklađivati svoje radnje u svrhu rješenja spora s drugim nadležnim nacionalnim regulatornim tijelima.
+(3) Ako spor utječe na trgovinu između Republike Hrvatske i druge države članice Europske unije, Agencija će o sporu obavijestiti BEREC, u svrhu usklađenog rješavanja spora u skladu s regulatornim ciljevima iz članka 7. ovoga Zakona.
+(4) U slučaju iz stavka 3. ovoga članka BEREC donosi mišljenje o odgovarajućim mjerama koje bi trebalo poduzeti ili od kojih bi se trebalo suzdržati u svrhu rješenja spora.
+(5) Agencija će zastati s rješavanjem spora iz stavka 1. ovoga članka do donošenja mišljenja BEREC-a iz stavka 4. ovoga članka. Iznimno, Agencija može na zahtjev stranke ili po službenoj dužnosti donijeti rješenje o privremenoj mjeri, radi zaštite tržišnog natjecanja ili interesa krajnjih korisnika.
+(6) Odluka kojom Agencija određuje obvezu operatoru, uzimajući u obzir u najvećoj mogućoj mjeri mišljenje BEREC-a, mora se donijeti u roku od mjesec dana od dana zaprimanja toga mišljenja, i to u skladu s pravom Europske unije u području elektroničkih komunikacija.
+(7) Postupak rješavanja prekograničnog spora iz ovoga članka ne isključuje pravo bilo koje stranke u sporu na pokretanje sudskog postupka pred nadležnim sudom.

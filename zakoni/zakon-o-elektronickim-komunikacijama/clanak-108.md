@@ -1,0 +1,7 @@
+## Cijene završavanja poziva
+# Članak 108.
+(1) Operatori, koji pružaju usluge završavanja govornih poziva u pokretnim ili nepokretnim mrežama, obvezni su primjenjivati cijene tih usluga u skladu s propisom Komisije kojim se određuje najviša cijena završavanja govornih poziva u pokretnim i nepokretnim mrežama.
+(2) Ako Komisija propisom iz stavka 1. ovoga članka ne odredi najvišu cijenu završavanja govornih poziva u pokretnim ili nepokretnim mrežama, ili ni jednu od tih cijena, Agencija može, u svrhu ocjenjivanja potrebe određivanja obveza iz članaka 102. do 107. ovoga Zakona, provesti analizu tržišta usluga završavanja govornih poziva u skladu s člankom 100. ovoga Zakona.
+(3) Agencija može odrediti troškovno usmjerene cijene završavanja govornih poziva na mjerodavnom tržištu, na temelju provedene analize iz stavka 2. ovoga članka, uz primjenu načela, mjerila i parametara utvrđenih u Prilogu 2. ovoga Zakona. Agencija može donijeti odluku o određivanju troškovno usmjerene cijene završavanja govornih poziva na mjerodavnom tržištu isključivo nakon provedbe postupaka u skladu s člancima 30. i 37. ovoga Zakona.
+(4) Agencija nadzire primjenu cijena usluga završavanja govornih poziva, određenih propisom Komisije iz stavka 1. ovoga članka, koje operatori obračunavaju drugim operatorima, te će u slučaju neusklađenosti tih cijena odlukom odrediti njihovu izmjenu.
+(5) Agencija jedanput godišnje podnosi izvješće Komisiji i BEREC-u u vezi s provedbom ovoga članka.

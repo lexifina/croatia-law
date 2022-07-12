@@ -1,0 +1,9 @@
+## Troškovi obveze pružanja univerzalnih usluga
+# Članak 122.
+(1) Agencija na zahtjev operatora univerzalnih usluga odlučuje predstavljaju li troškovi obveze pružanja univerzalnih usluga, u skladu s člancima 117. do 120. ovoga Zakona, nepravedno opterećenje za operatora univerzalnih usluga, pri čemu će:
+− izračunati netotrošak pružanja univerzalnih usluga u skladu s Prilogom 6. ovoga Zakona, uzimajući u obzir svaku tržišnu korist koju ostvaruje operator univerzalnih usluga
+− uračunati netotroškove pružanja univerzalnih usluga koje su operatori univerzalnih usluga dostavili u ponudi na javni natječaj iz članka 119. stavka 4. točke 1. ovoga Zakona.
+(2) Operatori univerzalnih usluga moraju, uz zahtjev za nadoknadu netotroškova iz stavka 1. ovoga članka, priložiti dokaze koji potvrđuju utemeljenost toga zahtjeva, a Agencija ili ovlašteni neovisni revizor, kojeg je odobrila Agencija, imaju pravo pregledati računovodstvenu i drugu dokumentaciju podnositelja zahtjeva, na temelju koje se mogu izračunati netotroškovi pružanja univerzalnih usluga. Agencija odobrava računovodstvenu i drugu dokumentaciju podnositelja zahtjeva, a ishod izračuna troškova i nalazi revizije javno se objavljuju.
+(3) Ako Agencija utvrdi utemeljenost zahtjeva za nadoknadu netotroškova iz stavka 1. ovoga članka, donijet će odluku o utvrđivanju iznosa nadoknade tih netotroškova operatoru univerzalnih usluga, pri čemu ta odluka mora sadržavati načela i metodologiju izračuna netotroškova.
+(4) Odluka Agencije iz stavka 3. ovoga članka objavljuje se u skladu s odredbama članka 21. ovoga Zakona.
+(5) Agencija u godišnjem izvješću iz članka 20. ovoga Zakona, vodeći računa o obvezi čuvanja poslovne tajne u skladu s člankom 29. ovoga Zakona, objavljuje podatke o izračunanom netotrošku obveze pružanja univerzalnih usluga, uključujući doprinose svih operatora i sve tržišne pogodnosti koje su operatori mogli ostvariti na temelju utvrđenih obveza pružanja univerzalnih usluga.

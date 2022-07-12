@@ -1,0 +1,7 @@
+## Kakvoća usluge pristupa internetu i javno dostupne interpersonalne komunikacijske usluge
+# Članak 144.
+(1) Agencija može narediti operatorima usluga pristupa internetu i javno dostupnih interpersonalnih komunikacijskih usluga da za krajnje korisnike redovito objavljuju sveobuhvatne, usporedive, pouzdane, korisnicima prilagođene i obnovljene podatke o kakvoći usluge, u mjeri u kojoj se barem pojedine mrežne sastavnice nalaze pod njihovim nadzorom, izravno ili na temelju sporazuma o razini usluge, te podatke o poduzetim mjerama radi osiguravanja jednakog pristupa za krajnje korisnike s invaliditetom.
+(2) Podatke iz stavka 1. ovoga članka operatori usluga pristupa internetu i javno dostupnih interpersonalnih komunikacijskih usluga obvezni su prije objave dostaviti Agenciji na njezin zahtjev.
+(3) Mjere za osiguravanje kakvoće usluge moraju biti u skladu s odredbama Uredbe (EU) 2015/2120.
+(4) Agencija može narediti operatorima javno dostupnih interpersonalnih komunikacijskih usluga da obavijeste potrošače o slučajevima kada kakvoća usluga koje pružaju ovisi o vanjskim čimbenicima, kao što su nadzor prijenosa signala ili mrežna povezivost.
+(5) Pravilnikom iz članka 35. ovoga Zakona propisuju se parametri kakvoće usluge koje treba mjeriti, primjenjive metode mjerenja, sadržaj, oblik i način objave podataka, uključujući moguće postupke certificiranja kakvoće usluge, pri čemu se u najvećoj mogućoj mjeri uzimaju u obzir smjernice BEREC-a te, ako je to primjereno, Prilog 9. ovoga Zakona.

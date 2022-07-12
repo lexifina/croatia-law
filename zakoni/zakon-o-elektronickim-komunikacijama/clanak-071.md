@@ -1,0 +1,4 @@
+## Baza podataka radiofrekvencijskog spektra
+# Članak 71.
+(1) Agencija vodi i redovito obnavlja bazu podataka radiofrekvencijskog spektra koja osobito može sadržavati popis dodijeljenih i raspoloživih radijskih frekvencija i radiofrekvencijskih kanala u skladu s planovima dodjele radijskih frekvencija iz članka 68. ovoga Zakona, s pripadajućim podacima o uvjetima namjene, dodjele i uporabe tih radijskih frekvencija i kanala, zemljopisnom području njihove uporabe te nositeljima dozvola za uporabu pripadajućih radijskih frekvencija i kanala, uključujući korisnike najma radiofrekvencijskog spektra u skladu s člankom 81. ovoga Zakona.
+(2) Podaci iz stavka 1. ovoga članka, koje Agencija objavljuje u skladu s odredbama članka 21. ovoga Zakona, moraju biti javno dostupni, bez naknade, u elektroničkom obliku na internetskim stranicama Agencije, uz mogućnost sveobuhvatnog pretraživanja prema odabranim mjerilima.

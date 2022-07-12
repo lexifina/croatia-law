@@ -1,0 +1,7 @@
+## POGLAVLJE II. ANALIZA TRŽIŠTA I ZNAČAJNA TRŽIŠNA SNAGA
+## Operatori sa značajnom tržišnom snagom
+# Članak 96.
+(1) Operator ima značajnu tržišnu snagu ako pojedinačno, ili kao operator pod nadzorom drugog operatora, ili zajedno s drugim operatorom ili operatorima ima položaj koji je jednak vladajućem položaju odnosno nalazi se u gospodarskom položaju koji mu omogućuje da u značajnoj mjeri postupa neovisno o konkurenciji, korisnicima i potrošačima.
+(2) U postupku utvrđivanja jesu li dva ili više operatora u zajedničkom vladajućem položaju na tržištu, Agencija će u najvećoj mjeri, u skladu s pravom Europske unije, uzeti u obzir mjerodavne smjernice za analizu tržišta i ocjenu značajne tržišne snage, koje objavljuje Komisija.
+(3) U slučaju da jedan od operatora ima značajnu tržišnu snagu na određenom mjerodavnom tržištu, može se odrediti operatorom sa značajnom tržišnom snagom i na usko povezanom tržištu, ako su veze između ta dva tržišta takve da dopuštaju prijenos tržišne snage, koja postoji na određenom tržištu, na usko povezano tržište, povećavajući pri tome tržišnu snagu toga operatora. Regulatorne obveze iz članaka 102., 103., 104. i 107. ovoga Zakona mogu se primijeniti i na usko povezanom tržištu.
+(4) Operatorom pod nadzorom drugog operatora u smislu odredaba ovoga članka smatra se poduzetnik pod nadzorom drugog poduzetnika, u skladu sa zakonom kojim se uređuje zaštita tržišnog natjecanja.

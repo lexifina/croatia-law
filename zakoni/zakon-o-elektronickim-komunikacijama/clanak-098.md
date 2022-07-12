@@ -1,0 +1,7 @@
+## Postupak utvrđivanja prekograničnih tržišta
+# Članak 98.
+(1) Na temelju obrazloženog zahtjeva Komisije ili Agencije i najmanje jednog nadležnog nacionalnog regulatornog tijela države članice Europske unije, BEREC provodi analizu mogućeg postojanja prekograničnog tržišta, na temelju koje Komisija može donijeti odluku o utvrđivanju prekograničnih tržišta.
+(2) Obrazloženi zahtjev iz stavka 1. ovoga članka mora sadržavati sve mjerodavne podatke i dokaze potrebne za provedbu analize.
+(3) Ako su prekogranična tržišta utvrđena odlukom Komisije iz stavka 1. ovoga članka, Agencija i nadležna nacionalna regulatorna tijela država članica Europske unije zajednički provode analizu tržišta, uzimajući u obzir, u najvećoj mogućoj mjeri, mjerodavne smjernice za analizu tržišta i ocjenu značajne tržišne snage, te sporazumno donose odluku o određivanju, zadržavanju, izmjeni ili ukidanju regulatornih obveza iz članka 100. stavka 7. ovoga Zakona.
+(4) U slučaju iz stavka 3. ovoga članka Agencija i nadležna nacionalna regulatorna tijela država članica Europske unije zajednički obavješćuju Komisiju o svojim prijedlozima mjera koje se odnose na analizu tržišta i regulatorne obveze, u skladu s člankom 37. ovoga Zakona.
+(5) Agencija i nadležna nacionalna regulatorna tijela država članica Europske unije mogu postupati u skladu sa stavkom 4. ovoga članka i u slučaju kada prekogranična tržišta nisu utvrđena, ako zajednički ocijene da su uvjeti tržišta u njihovoj nadležnosti dostatno homogeni.

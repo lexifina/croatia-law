@@ -1,0 +1,9 @@
+## Cjenik usluga
+# Članak 143.
+(1) Cjenik usluga sadržava načela obračunskog sustava te cijene pojedinih usluga, paketa usluga i drugih dodatnih usluga koje operatori javno dostupnih elektroničkih komunikacijskih usluga pružaju krajnjim korisnicima, uključujući i naknade za pristup, ako postoje, kao i korištenje svih usluga koje su automatski omogućene u mreži operatora, a za uključenje ili korištenje kojih krajnji korisnik mora dati izričitu prethodnu privolu.
+(2) Načela obračunskog sustava sadržavaju podroban opis vrste, vremena i trajanja poziva odnosno količine prenesenih podataka za pojedinu uslugu, paket usluga ili drugu dodatnu uslugu.
+(3) Cjenik usluga iz stavka 1. ovoga članka osobito mora sadržavati podatke iz Priloga 7. ovoga Zakona.
+(4) Operatori javno dostupnih elektroničkih komunikacijskih usluga moraju cjenik usluga iz stavka 1. ovoga članka, kao i sve njegove izmjene, dostaviti Agenciji na uvid najmanje osam dana prije njegove objave.
+(5) Operatori javno dostupnih elektroničkih komunikacijskih usluga moraju objaviti cjenik usluga iz stavka 1. ovoga članka, kao i sve njegove izmjene, na svojim internetskim stranicama, te ga učiniti dostupnim i na svojim prodajnim mjestima, na način koji krajnjim korisnicima omogućuje jednostavan pristup u za njih pristupačnom obliku. Ako su ponude, kojima operatori nude svoje usluge krajnjim korisnicima na temelju važećeg cjenika usluga, istaknute na njihovim internetskim stranicama, te ponude moraju biti u cijelosti objavljene na potpun, sveobuhvatan i jasan način.
+(6) Operatori javno dostupnih elektroničkih komunikacijskih usluga ne smiju primijeniti izmjene cjenika usluga iz stavka 1. ovoga članka na postojeće krajnje korisnike prije isteka roka od 30 dana od dana njihove objave.
+(7) Ako su izmjene cjenika usluga iz stavka 1. ovoga članka isključivo u korist krajnjih korisnika, primijenit će se na postojeće krajnje korisnike danom objave tih izmjena.

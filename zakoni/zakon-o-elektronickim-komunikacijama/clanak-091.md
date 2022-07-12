@@ -1,0 +1,7 @@
+## Ograničenje djelovanja elektromagnetskog polja
+# Članak 91.
+(1) Radi djelotvorne zaštite ljudskog zdravlja od djelovanja elektromagnetskog polja, elektroničke komunikacijske mreže, radijske postaje i druga radijska oprema te druga elektronička komunikacijska oprema, kao izvori elektromagnetskog zračenja, podliježu ograničenjima u pogledu vrijednosti određenih veličina elektromagnetskog polja, u skladu s ovim Zakonom i propisima kojima se uređuje zaštita od neionizirajućeg zračenja.
+(2) Posebni uvjeti postavljanja i uporabe određenih vrsta radijskih postaja te način i uvjeti obavljanja izračuna i mjerenja vrijednosti elektromagnetskog polja propisuju se pravilnikom koji donosi Vijeće Agencije.
+(3) Pravilnikom iz stavka 2. ovoga članka propisuje se, kada je to nužno radi djelotvorne zaštite ljudskog zdravlja, izdavanje potvrde o usklađenosti radijske postaje s odredbama toga pravilnika, kojom Agencija potvrđuje da postavljena radijska postaja ne stvara razine elektromagnetskog polja koje prelaze vrijednosti utvrđene tim pravilnikom.
+(4) Agencija može izdati potvrdu o usklađenosti iz stavka 3. ovoga članka, na zahtjev nositelja dozvole za uporabu radiofrekvencijskog spektra, i u slučaju kada pravilnik iz stavka 2. ovoga članka ne obvezuje nositelja dozvole na pribavljanje potvrde o usklađenosti.
+(5) Izračun i mjerenje vrijednosti elektromagnetskog polja iz stavka 2. ovoga članka obavlja Agencija ili pravna osoba koja je pribavila posebno ovlaštenje Agencije iz članka 90. ovoga Zakona.
