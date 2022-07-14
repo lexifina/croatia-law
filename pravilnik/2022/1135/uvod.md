@@ -1,0 +1,1 @@
+Na temelju članka 85. stavka 5. Zakona o izvršavanju kazne zatvora (»Narodne novine«, br. 14/2021.), ministar nadležan za poslove pravosuđa uz suglasnost ministra nadležnog za poslove zdravstva, donosi
