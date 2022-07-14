@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 5. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17, 98/19 i 84/21) ministar hrvatskih branitelja, uz suglasnost ministra unutarnjih poslova, donosi
