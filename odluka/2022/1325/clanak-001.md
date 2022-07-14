@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom o naknadi za razvoj (u daljnjem tekstu: Odluka) određuje se obveza plaćanja naknade za razvoj na području nadležnosti javnog isporučitelja vodne usluge trgovačkog društva Vode Jastrebarsko d.o.o. (u daljnjem tekstu: Isporučitelj), obveznici plaćanja naknade za razvoj, osnovica, način i rokovi uplate naknade za razvoj, namjene kojima služi prihod od naknade za razvoj, visina, izuzeća od plaćanja te nadzor nad obračunom i naplatom naknade za razvoj.
