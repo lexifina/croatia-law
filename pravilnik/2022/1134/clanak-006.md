@@ -1,0 +1,5 @@
+## Obavještavanje službenika ovlaštenog za elektronički nadzor
+# Članak 6.
+(1) Osuđenik mora obavijestiti službenika ovlaštenog za elektronički nadzor o svakoj promjeni na poslu, školovanju, medicinskom ili drugom stanju koje može utjecati na pridržavanje standardnog rasporeda te zatražiti odobrenje od suca izvršenja za promjenu standardnog rasporeda ili udaljenje iz doma.
+(2) Obavijest o promijenjenim okolnostima iz stavka 1. ovoga članka osuđenik mora dostaviti bez odgađanja, osim u slučaju privremene nesposobnosti koja je nastala zbog bolesti, povrede ili druge posebne okolnosti koja je neočekivano nastupila, a koja je takvog karaktera da osuđenik nije u objektivnoj mogućnosti dostaviti obavijest i zatražiti prethodno odobrenje. Osuđenik je navedenu obavijest dužan dostaviti bez odgađanja čim bude u mogućnosti.
+(3) Ako o promjeni iz stavka 1. ovoga članka osuđenik pravovremeno ne obavijesti službenika ovlaštenog za elektronički nadzor, služba za elektronički nadzor će o tome odmah obavijestiti suca izvršenja.
