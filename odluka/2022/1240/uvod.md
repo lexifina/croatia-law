@@ -1,0 +1,1 @@
+Na temelju članaka 52. i 56. Zakona o financiranju vodnog gospodarstva (»Narodne novine« br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17, 66/19) i članka 23. stavak 1. točka 4. Zakona o vodnim uslugama (»Narodne novine« broj 66/19) Skupština trgovačkog društva 6. MAJ ODVODNJA d.o.o. Umag na sjednici održanoj 6. srpnja 2022. godine donijela je
