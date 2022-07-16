@@ -1,0 +1,2 @@
+# Članak 12.
+U Prilogu I. Pravilnika, Obrascu zahtjeva za izdavanje odobrenja za izdvajanje značajnih aktivnosti i procesa središnje druge ugovorne, mijenja se naziv Pravilnika te sada glasi: »Pravilnikom o kriterijima značajnosti i pokazateljima trenda koji ukazuju na nemogućnost kontinuiranog ispunjavanja uvjeta za rad središnje druge ugovorne strane i izdvajanju značajnih aktivnosti i procesa središnje druge ugovorne strane«.

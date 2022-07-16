@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o planu oporavka, kriterijima značajnosti i pokazateljima trenda koji ukazuju na nemogućnost kontinuiranog ispunjavanja uvjeta za rad središnje druge ugovorne strane, izdvajanju značajnih aktivnosti i procesa središnje druge ugovorne strane

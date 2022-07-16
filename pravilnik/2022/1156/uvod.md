@@ -1,0 +1,1 @@
+Na temelju članaka 549. stavaka 3. i 554. te stavka 10. Zakona o tržištu kapitala (»Narodne novine« br. 65/18, 17/20 i 83/21) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 6. srpnja 2022. godine donosi
