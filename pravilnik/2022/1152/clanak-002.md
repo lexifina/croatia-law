@@ -1,0 +1,9 @@
+## Naknade koje DZU naplaćuje ulagatelju
+# Članak 2.
+(1) Društvo za upravljanje može naplatiti ulagatelju u UCITS fond ulaznu naknadu kod izdavanja udjela te izlaznu naknadu kod otkupa udjela iz tog fonda. Naplaćene ulazne i izlazne naknade prihod su društva za upravljanje.
+(2) Svi zahtjevi za izdavanje ili otkup udjela iz jednog UCITS fonda zaprimljeni u istom radnom danu, glede obračuna i naplate naknade smatraju se jednom uplatom ili isplatom.
+(3) Ulazna i izlazna naknada mogu se prospektom UCITS fonda odrediti u fiksnom ili u postotnom iznosu. Kada se ulazna i/ili izlazna naknada određuju u postotnom iznosu, ulazna naknada se određuje u postotnom iznosu u odnosu na osnovicu koju čini iznos koji se uplaćuje za kupnju udjela, a izlazna u odnosu na osnovicu koju čini vrijednost otkupljenih udjela iz UCITS fonda.
+(4) Visina izlazne naknade može biti ovisna o dužini (vremenskom periodu) ulaganja, a odbija se od neto vrijednosti imovine UCITS fonda po udjelu u trenutku otkupa. Izlazna naknada se računa za svaki udjel posebno, na temelju trajanja ulaganja za taj udjel. Društvo za upravljanje otkupljuje udjele onim redoslijedom kojim su udjeli izdavani, dakle prilikom isplata na temelju zahtjeva za otkupom udjela udjeli koji su prvi izdani, prvi se i otkupljuju.
+(5) Društvo za upravljanje može naplatiti ulagateljima ulaznu i/ili izlaznu naknadu i kod zamjene udjela za udjele u drugim UCITS fondovima kojima upravlja, uz uvjet da su takve naknade predviđene prospektom UCITS fonda.
+(6) Društvo za upravljanje ne naplaćuje izlaznu naknadu u slučaju likvidacije UCITS fonda, bez obzira na razlog likvidacije, kao niti prilikom pripajanja ili spajanja UCITS fondova.
+(7) Društvo za upravljanje može naplatiti ulagatelju u UCITS fond i naknadu vezanu uz prinos (naknadu za uspješnost) UCITS fonda.

@@ -1,0 +1,15 @@
+## Naknada za uspješnost
+# Članak 5.
+(1) Društvo za upravljanje je dužno u prospektu UCITS fonda definirati metodu koju koristi za izračun naknade vezane uz prinos (naknade za uspješnost), a koja minimalno mora sadržavati:
+a) referentni pokazatelj za mjerenje relativne uspješnosti fonda. Referentni pokazatelj može biti referentna vrijednost odnosno indeks (npr. Eonia, Eurostoxx 50, itd.), razmjerna naknada, HWM, HoH, minimalna stopa (npr. 2 %) ili kombinacija navedenih pokazatelja (npr. HWM + minimalna stopa)
+b) učestalost i datum materijalizacije odnosno razdoblje u kojem naknada za uspješnost, ako je stečena, postaje plativa i dan na koji se ista isplaćuje društvu za upravljanje
+c) referentno razdoblje za ocjenjivanje uspješnosti odnosno vremensko razdoblje kroz koje se mjeri uspješnost i uspoređuje s uspješnošću referentnog pokazatelja
+d) stopu naknade za uspješnost, koja može biti postavljena kao »paušalna stopa« odnosno stopa naknade za uspješnost koja se može primijeniti u svim modelima
+e) učestalost izračuna naknade za uspješnost, koja bi se trebala podudarati s učestalošću izračuna NAV-e (npr. ako fond svakodnevno izračunava NAV tada i naknadu za uspješnost treba izračunavati i pripisivati u NAV-u svakodnevno).
+(2) Metoda izračuna naknade za uspješnost mora biti definirana na način koji će osigurati da je naknada za uspješnost uvijek proporcionalna stvarnom rezultatu uspješnosti UCITS fonda. Povećanja imovine UCITS fonda koja proizlaze iz izdavanja novih udjela ne uzimaju se u obzir prilikom izračuna uspješnosti UCITS fonda.
+(3) Društvo za upravljanje je dužno osigurati da je metoda izračuna naknade za uspješnost usklađena s investicijskim ciljevima, strategijom i politikom ulaganja UCITS fonda.
+(4) Društvo za upravljanje je dužno osigurati da odabrana metoda izračuna naknade za uspješnost predstavlja razuman poticaj za društvo za upravljanje, te da je ujedno usklađena s interesima ulagatelja u UCITS fond. Također, društvo za upravljanje je dužno osigurati da učestalost materijalizacije i naplate naknade za uspješnost osigurava usklađenost između interesa društva za upravljanje i interesa imatelja udjela u UCITS fondu, kao i ravnopravan tretman između samih imatelja udjela u UCITS fondu.
+(5) Kada je to primjenjivo s obzirom na odabrani model, učestalost po kojoj naknada za uspješnost, ako je stečena, postaje plativa (učestalost materijalizacije), ne smije biti češća od jednom godišnje.
+(6) Ako je naknada za uspješnost postala plativa i ako se naplaćuje kod isplate zahtjeva za otkup udjela, ona se materijalizira (naplaćuje) na dan podnošenja zahtjeva za otkupom udjela, proporcionalno vremenu trajanja ulaganja koje se primjenjuje na udjel koji se otkupljuje.
+(7) Uz principe propisane ovim pravilnikom, prilikom izračuna i naplate naknade za uspješnost, društvo za upravljanje dužno se pridržavati i odredbi Smjernica o naknadama za uspješnost.
+(8) Odredbe ovoga članka Pravilnika primjenjuju se i u slučajevima naplate naknade za uspješnost koje DZU naplaćuje ulagatelju i u slučajevima naplate naknade za uspješnost izravno iz imovine UCITS fonda.

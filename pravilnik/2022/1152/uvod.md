@@ -1,0 +1,1 @@
+Na temelju članka 249. stavka 2. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016, 126/2019 i 110/2021 dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Agencija) na sjednici Upravnog vijeća održanoj 6. srpnja 2022. godine donosi
