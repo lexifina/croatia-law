@@ -1,0 +1,87 @@
+DRENOVAČKI VODOVOD d.o.o.
+
+1208
+
+Na temelju članka 52. Zakona o financiranju vodnog gospodarstva (»Narodne novine«, br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) i članka 23. stavka 1. podstavka 4. Zakona o vodnim uslugama (»Narodne novine«, br. 66/19), Skupština trgovačkog društva Drenovački vodovod d.o.o. Drenovci (u daljnjem tekstu: Isporučitelj) na sjednici održanoj 8. srpnja 2022. godine donosi
+
+ODLUKU
+
+O NAKNADI ZA RAZVOJ
+
+I. OPĆE ODREDBE
+
+Članak 1.
+
+Ovom Odlukom o naknadi za razvoj na području Općine Drenovci, koje je područje pružanja vodnih usluga Isporučitelja, utvrđuje se obveza plaćanja naknade za razvoj, način obračuna, visina i obveznici plaćanja naknade za razvoj, korištenje prikupljenih sredstava te nadzor nad obračunom i naplatom i korištenjem sredstava prikupljenih iz naknade za razvoj na području Općine Drenovci.
+
+Ova Odluka o naknadi za razvoj donosi se za razdoblje važenja Plana gradnje komunalnih vodnih građevina.
+
+II. OBVEZA PLAĆANJA I NAČIN OBRAČUNA NAKNADE ZA RAZVOJ
+
+Članak 2.
+
+Obveznik plaćanja naknade za razvoj je obveznik plaćanja cijene vodne usluge uz koju se obračunava naknada za razvoj.
+
+Osnovica naknade za razvoj je jedinica mjere isporučene vodne usluge, odnosno jedan kubni metar isporučene vode (1 m<sup>3</sup>).
+
+Članak 3.
+
+Naknada za razvoj obračunava se putem računa za vodne usluge i iskazuje se kao zasebna stavka na računu.
+
+Račun za isporučenu vodnu uslugu iz stavka 1. ovog članka ispostavlja Isporučitelj.
+
+Iznos naknade za razvoj ne podliježe obvezi plaćanja poreza na dodanu vrijednost.
+
+Ukupan iznos naknade za razvoj koju je obveznik dužan platiti predstavlja umnožak količine isporučene vodne usluge i iznosa naknade iz članka 5. ove Odluke.
+
+III. VISINA NAKNADE ZA RAZVOJ
+
+Članak 4.
+
+Naknada za razvoj iznosi 1,00 kn/m<sup>3</sup> za sve korisnike vodnih usluga na području Općine Drenovci.
+
+Članak 5.
+
+Način i rokovi uplate naknade za razvoj određuju se Odlukom o cijeni vodnih usluga koju donosi Isporučitelj.
+
+IV. KORIŠTENJE NAKNADE ZA RAZVOJ
+
+Članak 6.
+
+Sredstva naknade za razvoj koriste se za financiranje gradnje komunalnih vodnih građevina na području Općine Drenovci, odnosno za:
+
+– izradu projektne i ostale pripremne dokumentacije te izradu studijskih analiza,
+
+– provedbe postupka otkupa i izvlaštenja te drugog rješavanja imovinsko-pravnih odnosa potrebnih za gradnju komunalno vodnih građevina, te radi zaštite izvorišta u zonama sanitarne zaštite,
+
+– rekonstrukciju, odnosno gradnju komunalnih vodnih građevina,
+
+– stručni nadzor nad rekonstrukcijom, odnosno gradnjom komunalnih vodnih građevina,
+
+– otplatu zajmova i kredita za gradnju komunalnih vodnih građevina,
+
+– ostala ulaganja u izgradnju komunalnih vodnih građevina.
+
+Naknada za razvoj je prihod Isporučitelja.
+
+V. NADZOR NAD OBRAČUNOM I NAPLATOM I KORIŠTENJEM SREDSTAVA PRIKUPLJENIH IZ NAKNADE ZA RAZVOJ
+
+Članak 7.
+
+Isporučitelj je u obvezi prikupljena sredstva naknade za razvoj evidentirati u svojim poslovnim knjigama na zasebnoj poziciji a nadzor nad obračunom, naplatom i korištenjem sredstava naknade za razvoj provodi Skupština društva.
+
+VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Članak 8.
+
+Ova Odluka stupa na snagu osmoga dana od dana donošenja, objavit će se u »Narodnim novinama« i na mrežnim stranicama Isporučitelja te dostaviti Vijeću za vodne usluge u roku od pet dana od dana donošenja, a primjenjivat će se od 1. kolovoza 2022. godine.
+
+Urbroj: 2196-12-1-61
+
+Drenovci, 8. srpnja 2022.
+
+Za Skupštinu Društva
+
+Načelnik Općine Drenovci
+
+Josip Nasurović, v. r.
