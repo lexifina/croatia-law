@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o obrazovnom programu i ispitima za provjeru znanja i stjecanje kvalifikacija za pružanje informacija o investicijskim proizvodima i uslugama, brokerske poslove i investicijsko savjetovanje
