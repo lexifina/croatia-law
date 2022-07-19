@@ -1,0 +1,12 @@
+# Članak 18.
+Članak 170. mijenja se i glasi:
+»(1) Tijelo koje je sastavilo odluku i dopis šalje ga osobi kojoj je upućen (primatelj) na adresu njezina prebivališta ili boravišta ili adresu zaposlenja, a može se poslati i na drugu adresu na kojoj se primatelj može zateći. Državnom tijelu, državnom odvjetništvu, odvjetnicima, sudskim vještacima, sudskim tumačima i pravnim osobama odluke i dopisi dostavljaju se putem informacijskog sustava, osim u slučaju iz članka 176. stavka 3. ovoga Zakona.
+(2) Dostava će se obaviti putem informacijskog sustava ako stranka ili drugi sudionik postupka izjavi da je suglasan s takvim načinom dostave. Izjavu stranka ili drugi sudionik postupka daje pisano ili usmeno na zapisnik te je može povući u svakom trenutku tijekom postupka.
+(3) Ako tijelu koje vodi postupak stranka ili drugi sudionik postupka podnesak podnese putem informacijskog sustava, tijelo koje vodi postupak pozvat će stranku ili drugog sudionika da se očituje pisano ili usmeno na zapisnik je li suglasan da mu se dostava obavlja putem informacijskog sustava.
+(4) Ako dostava putem informacijskog sustava nije moguća ili ako okolnosti slučaja to opravdavaju, tijelo koje vodi postupak dostavu će obaviti na drugi način.
+(5) Na dostavu dopisa telekomunikacijskim sredstvom primjenjuju se odredbe članka 79. ovoga Zakona.
+(6) Vojnim osobama, pripadnicima policije i pravosudne policije dopis se može dostaviti i preko njihova zapovjedništva ili voditelja ustrojstvene jedinice.
+(7) Osobama kojima je oduzeta sloboda odluka i dopis dostavljaju se u sudu ili preko uprave ustanove u kojoj su smještene.
+(8) Osobama koje u Republici Hrvatskoj imaju pravo imuniteta po međunarodnom pravu odluka i dopis dostavljaju se preko ministarstva nadležnog za vanjske poslove, ako međunarodnim ugovorima nije što drugo predviđeno.
+(9) Odluka i dopis državljanima Republike Hrvatske u stranoj državi, ako se ne primjenjuje postupak propisan odredbama o međunarodnoj pravnoj pomoći, dostavljaju se posredovanjem diplomatskog ili konzularnog poslanstva Republike Hrvatske u stranoj državi, uz uvjet da se strana država ne protivi takvu načinu dostave. Ovlašteni djelatnik diplomatskog ili konzularnog poslanstva potpisuje dostavnicu kao dostavljač ako je dopis uručen u samom poslanstvu, a ako je dopis dostavljen poštom, to potvrđuje na dostavnici.
+(10) Osobama uključenima u program zaštite svjedoka prema ovom Zakonu i drugim propisima odluka i dopis dostavljaju se preko tijela koje provodi zaštitu.«.
