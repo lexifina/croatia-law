@@ -1,0 +1,8 @@
+# Članak 62.
+Članak 385.a mijenja se i glasi:
+»Vrhovni sud Republike Hrvatske dopustit će reviziju ako se u povodu nje može očekivati odluka o pravnom pitanju koje su nižestupanjski sudovi u tom sporu razmatrali, a koje je važno za odluku u sporu i za osiguranje jedinstvene primjene prava i ravnopravnosti svih u njegovoj primjeni ili za razvoj prava u sudskoj praksi, osobito
+- ako je riječ o pravnom pitanju o kojem odluka drugostupanjskog suda odstupa od prakse Vrhovnog suda Republike Hrvatske ili
+- ako je riječ o pravnom pitanju o kojem nema prakse Vrhovnog suda Republike Hrvatske, pogotovo ako praksa viših sudova nije jedinstvena ili
+- ako je riječ o pravnom pitanju o kojem praksa Vrhovnog suda Republike Hrvatske nije jedinstvena ili
+- ako je o tom pitanju Vrhovni sud Republike Hrvatske već zauzeo shvaćanje i presuda se drugostupanjskoga suda temelji na tom shvaćanju, ali bi osobito uvažavajući razloge iznesene tijekom prethodnog prvostupanjskog i žalbenog postupka, zbog promjene u pravnom sustavu uvjetovane novim zakonodavstvom ili međunarodnim sporazumima te odlukom Ustavnoga suda Republike Hrvatske, Europskoga suda za ljudska prava ili Suda Europske unije trebalo preispitati sudsku praksu.
+Vrhovni sud Republike Hrvatske dopustit će reviziju i ako stranka učini vjerojatnim da joj je u prvostupanjskom i drugostupanjskom postupku zbog osobito teških povreda odredaba parničnog postupka ili pogrešne primjene materijalnog prava povrijeđeno kakvo temeljno ljudsko pravo zajamčeno Ustavom Republike Hrvatske i Europskom konvencijom za zaštitu ljudskih prava i temeljnih sloboda i da se stranka na te povrede, ako je to bilo moguće, već pozivala u nižestupanjskom postupku.«.

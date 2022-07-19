@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08. - Odluka Ustavnog suda Republike Hrvatske, 123/08., 57/11., 148/11. - pročišćeni tekst, 25/13., 89/14. - Odluka Ustavnog suda Republike Hrvatske i 70/19.) u članku 1.a podstavci 1. i 2. mijenjaju se i glase:
+» - Uredba (EU) br. 2020/1784 Europskog parlamenta i Vijeća od 25. studenoga 2020. o dostavi, u državama članicama, sudskih i izvansudskih pismena u građanskim ili trgovačkim stvarima (dostava pismena) (preinaka) (SL L 405, 2. 12. 2020.), u daljnjem tekstu: Uredba 2020/1784;
+- Uredba (EU) br. 2020/1783 Europskog parlamenta i Vijeća od 25. studenoga 2020. o suradnji između sudova država članica u izvođenju dokaza u građanskim ili trgovačkim stvarima (izvođenje dokaza) (preinaka) (SL L 405, 2. 12. 2020.), u daljnjem tekstu: Uredba 2020/1783;«.

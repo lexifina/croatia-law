@@ -1,0 +1,2 @@
+# Članak 111.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članaka 12. do 16., 18., 19., 34. do 36., 45., 47., 48., 52., 53., 56. i 83. ovoga Zakona koje stupaju na snagu donošenjem odluke iz članka 17. ovoga Zakona te odredbe članka 89. ovoga Zakona koja stupa na snagu donošenjem posebnog propisa o predstavničkim tužbama za zaštitu kolektivnih interesa potrošača.

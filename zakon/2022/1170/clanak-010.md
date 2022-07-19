@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 106.a stavak 5. mijenja se i glasi:
+»Iznimno od stavka 1. ovoga članka, državna tijela, državno odvjetništvo, odvjetnici, javni bilježnici, sudski vještaci, sudski procjenitelji, sudski tumači, stečajni upravitelji, povjerenici, punomoćnici iz članka 434.a ovoga Zakona, povjerenici u postupku stečaja potrošača, likvidatori, posebni skrbnici zaposleni u Centru za posebno skrbništvo, pravne osobe te fizičke osobe (obrtnici, liječnici i dr.) koje obavljaju registriranu djelatnost u sporovima koji se tiču te djelatnosti uvijek su dužni podneske podnositi u elektroničkom obliku.«.
