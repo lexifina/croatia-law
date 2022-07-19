@@ -1,0 +1,3 @@
+# Članak 12.
+U članku 60. stavak 1. mijenja se i glasi:
+»(1) Obrazložena odluka Vijeća o imenovanju zamjenika državnog odvjetnika dostavlja se svim kandidatima u roku od 15 dana od dana donošenja. Ako je prema utvrđenom redoslijedu iz članka 56.a stavka 3., članka 57. stavka 7. i članka 58. stavka 4. ovoga Zakona više kandidata ostvarilo isti broj bodova te ako je za zamjenika državnog odvjetnika Vijeće imenovalo kandidata koji nije ostvario najveći broj bodova, Vijeće će u odluci o imenovanju posebno obrazložiti razloge zbog kojih je prednost dalo izabranom kandidatu u odnosu na kandidate s istim odnosno većim brojem bodova.«.
