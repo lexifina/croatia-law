@@ -1,0 +1,2 @@
+# Članak 3.
+Na licu prigodnoga optjecajnoga kovanog novca od 25 kuna unutar jezgre kovanog novca i djelomično na prstenu kovanog novca nalazi se prikaz Pelješkog mosta. Djelomično unutar jezgre i djelomično na prstenu kovanog novca, a u vizuri smješten iza mosta, nalazi se također prikaz dijela poluotoka Pelješca koji se na tom području mostom spaja s kopnom Republike Hrvatske. Na prstenu kovanog novca, ispod prikaza Pelješkog mosta ispisan je tekst »PELJEŠKI MOST« i godina izdanja kovanog novca »2022.«.
