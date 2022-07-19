@@ -1,0 +1,2 @@
+# Članak 32.
+Postupci imenovanja sudaca i predsjednika sudova za koje je objavljen oglas, postupci trajnog premještaja za koje je objavljen poziv te postupci privremenog upućivanja na rad i stegovni postupci započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13., 28/13., 82/15., 67/18. i 126/19.).
