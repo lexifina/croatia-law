@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se odlukom na području Grada Vodica uvodi obveza plaćanja naknade za razvoj javne vodoopskrbe i javne odvodnje (u daljnjem tekstu: naknada za razvoj) na području Grada Vodica i utvrđuju obveznici plaćanja, visina naknade, način obračuna i naplate, namjena prikupljenih sredstava od naknade, prava i obveze javnog Isporučitelja vodnih usluga, javne vodoopskrbe i javne odvodnje, TD-a Vodovod i odvodnja d.o.o., Kralja Zvonimira 50, Šibenik, (u daljnjem tekstu : Isporučitelj), te nadzor nad obračunom i naplatom naknade za razvoj.
