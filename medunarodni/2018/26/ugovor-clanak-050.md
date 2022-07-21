@@ -1,0 +1,10 @@
+# Članak 50.
+RIBARSTVO I PITANJA POMORSTVA
+1. Stranke jačaju dijalog i suradnju u pitanjima od zajedničkog interesa u području ribarstva i u pitanjima pomorstva. Stranke nastoje promicati dugoročno očuvanje morskih živih resursa i održivo upravljanje njima, sprečavanje i borbu protiv nezakonitog, neprijavljenog i nereguliranog ribolova (»ribolov NNN«) te provedbu pristupa upravljanju koji se temelji na ekosustavu.
+2. Stranke mogu surađivati i razmjenjivati informacije u pogledu očuvanja morskih živih resursa putem regionalnih organizacija za upravljanje ribarstvom (»RFMO«) i multilateralnih foruma (UN, Organizacija Ujedinjenih naroda za hranu i poljoprivredu). Posebno, stranke surađuju kako bi:
+(a) osigurale, djelotvornim upravljanjem Komisije za ribarstvo zapadnog i središnjeg Tihog oceana i na temelju najboljih dostupnih znanstvenih spoznaja, dugoročno očuvanje i održivu uporabu vrlo migratornih ribljih stokova na cijelom području njihova rasprostranjenja u zapadnom i središnjem Tihom oceanu, među ostalim potpunim priznavanjem, u skladu s odgovarajućim konvencijama UN-a i drugim međunarodnim instrumentima, posebnih zahtjeva malih otočnih država i državnih područja u razvoju te osiguravanjem transparentnog postupka donošenja odluka;
+(b) osigurale očuvanje i racionalnu uporabu morskih živih resursa u području nadležnosti Komisije za očuvanje antarktičkih morskih živih resursa, uključujući nastojanja da se suzbiju aktivnosti ribolova NNN na području na koje se primjenjuje Konvencija o očuvanju antarktičkih morskih živih resursa;
+(c) osigurale donošenje i provedbu djelotvornih mjera očuvanja stokova i upravljanja njima u području nadležnosti RFMO-a za južni Tihi ocean; i
+(d) olakšale pristupanje RFMO-ima u kojima je jedna stranka članica, a druga pristupnica.
+3. Stranke surađuju radi promicanja integriranog pristupa pitanjima pomorstva na međunarodnoj razini.
+4. Stranke održavaju redovne dvogodišnje dijaloge na razini viših službenika kako bi ojačale dijalog i suradnju te kako bi razmijenile informacije i iskustava o ribarstvenoj politici i pitanjima pomorstva.

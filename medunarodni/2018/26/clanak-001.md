@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o partnerstvu o odnosima i suradnji između Europske unije i njezinih država članica, s jedne strane, i Novog Zelanda, s druge strane, sastavljen u Bruxellesu 5. listopada 2016. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku.

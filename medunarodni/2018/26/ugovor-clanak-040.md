@@ -1,0 +1,8 @@
+# Članak 40.
+OBRAZOVANJE I OSPOSOBLJAVANJE
+1. Stranke priznaju ključni doprinos obrazovanja i osposobljavanja stvaranju kvalitetnih radnih mjesta i održivom rastu gospodarstava utemeljenih na znanju, posebno odgojem i obrazovanjem građana koji su ne samo spremni informirano i djelotvorno sudjelovati u demokratskom životu, nego su također sposobni rješavati probleme i iskorištavati prilike koje im se nude u globalno povezanom svijetu 21. stoljeća. Stranke stoga prepoznaju da imaju zajednički interes za suradnju u području obrazovanja i osposobljavanja.
+2. U skladu sa svojim zajedničkim interesima i ciljevima svojih politika o obrazovanju stranke se obvezuju zajednički podupirati odgovarajuće aktivnosti suradnje u području obrazovanja i osposobljavanja. Ta suradnja odnosit će se na sve sektore obrazovanja i može uključivati:
+(a) suradnju u području mobilnosti pojedinaca u svrhu učenja promicanjem i olakšavanjem razmjene studenata, istraživača, akademskog i administrativnog osoblja u ustanovama tercijarnog obrazovanja te nastavnika;
+(b) zajedničke projekte suradnje između ustanova za obrazovanje i osposobljavanje u Uniji i Novom Zelandu s ciljem promicanja razvoja kurikuluma, zajedničkih studijskih programa i diploma te mobilnosti osoblja i studenata;
+(c) institucionalnu suradnju, poveznice i partnerstva s ciljem jačanja obrazovnog elementa trokuta znanja te promicanja razmjene iskustava i znanja; i
+(d) podršku reformi politike u obliku studija, konferencija, seminara, radnih skupina, vježbi utvrđivanja mjerila te razmjene informacija i dobre prakse, posebno u pogledu bolonjskog i kopenhaškog procesa te postojećih alata i načela kojima se povećavaju transparentnost i inovacije u području obrazovanja.

@@ -1,0 +1,3 @@
+# Članak 30.
+SURADNJA U PODRUČJU IZVRŠAVANJA ZAKONODAVSTVA
+Stranke su suglasne surađivati na razini tijela, agencija i službi za izvršavanje zakonodavstva te pridonositi zaustavljanju i otklanjanju transnacionalnih kriminalnih i terorističkih prijetnji koje su zajedničke strankama. Suradnja među tijelima, agencijama i službama za izvršavanje zakonodavstva može biti u obliku uzajamne pomoći u istragama, dijeljenja istražnih tehnika, zajedničkog obrazovanja i osposobljavanja osoblja tijela, agencija i službi za izvršavanje zakonodavstva te bilo koje druge vrste zajedničkih aktivnosti i pomoći koje zajednički odrede stranke.

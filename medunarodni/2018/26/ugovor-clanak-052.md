@@ -1,0 +1,4 @@
+# Članak 52.
+DRUGI SPORAZUMI ILI DOGOVORI
+1. Stranke mogu nadopuniti ovaj Sporazum sklapanjem posebnih sporazuma ili dogovora u bilo kojem području suradnje koje je u okviru njegova područja primjene. Takvi posebni sporazumi i dogovori sklopljeni nakon potpisivanja ovog Sporazuma sastavni su dio ukupnih bilateralnih odnosa kako su uređeni ovim Sporazumom i dio su zajedničkog institucionalnog okvira. Postojeći sporazumi i dogovori između stranaka ne čine dio zajedničkog institucionalnog okvira.
+2. Nijedna odredba ovog Sporazuma ne utječe na tumačenje ili primjenu niti se njome ne dovodi u pitanje tumačenje ili primjena drugih sporazuma između stranaka, uključujući one iz stavka 1. Posebno, odredbe ovog Sporazuma ni na koji način ne zamjenjuju niti ne utječu na odredbe o rješavanju sporova ili odredbe o otkazivanju iz drugih sporazuma između stranaka.

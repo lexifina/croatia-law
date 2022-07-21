@@ -1,0 +1,7 @@
+# Članak 8.
+SUZBIJANJE ŠIRENJA ORUŽJA ZA MASOVNO UNIŠTENJE
+1. Stranke smatraju da širenje oružja za masovno uništenje i sredstava njihove isporuke državnim i nedržavnim akterima predstavlja jednu od najvećih prijetnji međunarodnome miru i sigurnosti. Stranke ponovno potvrđuju svoju predanost poštovanju i potpunoj provedbi na nacionalnoj razini svojih postojećih obveza u okviru međunarodnih ugovora i sporazuma o razoružanju i neširenju oružja te drugih odgovarajućih međunarodnih obveza. Stranke su suglasne surađivati i pridonositi suzbijanju širenja oružja za masovno uništenje i sredstava njihove isporuke. Stranke su suglasne da ova odredba predstavlja ključan element ovog Sporazuma.
+2. Stranke su nadalje suglasne surađivati i pridonositi sprečavanju širenja oružja za masovno uništenje i sredstava njihove isporuke:
+(a) poduzimanjem koraka, prema potrebi, za potpisivanje i ratifikaciju svih ostalih odgovarajućih međunarodnih instrumenata te za pristup tim instrumentima i njihovu potpunu provedbu;
+(b) održavanjem djelotvornog sustava nacionalne kontrole izvoza kojim se kontrolira izvoza i provoz robe povezane s oružjem za masovno uništenje, koji uključuje kontrolu krajnje uporabe tehnologija dvojne namjene povezanih s oružjem za masovno uništenje te obuhvaća djelotvorne sankcije za kršenja kontrole izvoza.
+3. Stranke su suglasne uspostaviti redoviti politički dijalog o tim pitanjima.
