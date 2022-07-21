@@ -1,0 +1,4 @@
+# Članak 3.
+Prihodi od naknade za razvoj koriste se za financiranje izgradnje komunalnih vodnih građevina, odnosno za izgradnju komunalnih objekata i uređaja za vodoopskrbu sukladno Programu gradnje objekata i uređaja komunalne infrastrukture.
+Izgradnja komunalnih vodnih objekata odnosno, izgradanja komunalnih objekata i uređaja za vodoopskrbu u smislu ove odluke između ostalog podrazumijeva rekonstrukciju postojećih i izgradnju novih vodovodnih mreža, kao i sanaciju (asfaltiranje, popločavanje i sl.) površine koje su prekopane u svrhu rekonstrukcije postojećih i izgradnje novih vodovodnih mreža na području naselja Dazlina, Dubrava kod Tisna, Jezera i Tisno.
+Nadzor nad obračunom i naplatom naknade za razvoj obavlja Upravni odjel za financije i javne prihode Općine Tisno, na temelju dostavljenih izvješća iz ovog članka.

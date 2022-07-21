@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom odlukom se na vodoopskrbnom području naselja Dazlina, Dubrava kod Tisna, Jezera i Tisno uvodi obveza plaćanja naknade za razvoj, njezina namjena, visina, obveznici plaćanja način obračuna i naplate, prava i obveze isporučitelja vodne usluge Vodovod i odvodnja d.o.o., Kralja Zvonimira 50, Šibenik (u daljnjem tekstu: Isporučitelj), te nadzor nad obračunom i naplatom naknade za razvoj.
