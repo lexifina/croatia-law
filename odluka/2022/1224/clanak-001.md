@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se odlukom uvodi obveza plaćanja naknade komunalnih vodnih građevina za javnu vodoopskrbu i odvodnju na području Općine Bilice, te se utvrđuje: visina, detaljnije namjene kojima služi prihod od naknade (dalje u tekstu: naknada za razvoj), način obračuna i naplate naknade za razvoj, nadzor nad obračunom i naplatom naknade za razvoj, obveznike plaćanja te osnovica za obračun naknade.

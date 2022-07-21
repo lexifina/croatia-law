@@ -1,0 +1,3 @@
+# Članak 3.
+Sredstva naknade za razvoj sustava javne vodoopskrbe i odvodnje na području Općine Bilice koriste se isključivo u svrhu namijenjenu za financiranje: građenja novih, rekonstrukciju postojećih i održavanje komunalnih objekata i uređaja za vodoopskrbu i odvodnju, sukladno Planu, odnosno Godišnjem programu gradnje komunalnih vodnih građevina.
+Izgradnja komunalnih objekata i uređaja za vodoopskrbu i odvodnju, u smislu ove Odluke, podrazumijeva rekonstrukciju postojećih i izgradnju novih vodovodnih i kanalizacijskih mreža, kao i sanaciju (asfaltiranje, popločavanje i sl.) površina koje su prekopane u svrhu naprijed opisanih zahvata na području Općine Bilice.
