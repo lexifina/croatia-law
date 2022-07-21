@@ -1,0 +1,1 @@
+Odluka o donošenju Nacionalnog plana razvoja odnosa Republike Hrvatske s Hrvatima izvan Republike Hrvatske do 2027. godine i Akcijskog plana za provedbu Nacionalnog plana razvoja odnosa Republike Hrvatske s Hrvatima izvan Republike Hrvatske za razdoblje od 2022. do 2024. godine
