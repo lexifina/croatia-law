@@ -1,0 +1,3 @@
+# Članak 1.
+Ovom Odlukom određuje se obveza plaćanja naknade za razvoj sustava javne vodoopskrbe i javne odvodnje (u daljnjem tekstu: naknada za razvoj) na vodoopskrbnom području Općine Tribunj, obveznici plaćanja naknade za razvoj, osnovica, način i rokovi uplate naknade za razvoj, namjene kojima služi prihod od naknade za razvoj, visina, nadzor nad obračunom i naplatom naknade za razvoj te prava i obveze isporučitelja vodnih usluga - trgovačkog društva Vodovod i odvodnja Šibenik d.o.o., Kralja Zvonimira 50, Šibenik (u daljnjem tekstu: Isporučitelj).
+Vodoopskrbno područje iz stavka 1. ovog članka je dio vodoopskrbnog područja u nadležnosti Isporučitelja.
