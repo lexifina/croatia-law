@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom se Odlukom za područje Općine Pirovac propisuje obveza plaćanja naknade za razvoj javne vodoopskrbe i javne odvodnje (u daljnjem tekstu: naknada za razvoj) te utvrđuju obveznici plaćanja, visina naknade, način obračuna i naplate, namjena prikupljenih sredstava od naknade, prava i obveze javnog isporučitelja vodne usluge trgovačkog društva Vodovod i odvodnja d.o.o., Kralja Zvonimira 50, Šibenik, (u daljnjem tekstu: Isporučitelj), te nadzor na obračunom i naplatom naknade za razvoj.
