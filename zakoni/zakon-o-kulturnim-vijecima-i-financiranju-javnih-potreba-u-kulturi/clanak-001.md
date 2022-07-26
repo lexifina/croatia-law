@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Zakonom uređuje osnivanje i rad kulturnih vijeća vezan uz predlaganje ciljeva kulturne politike i mjera za njezino provođenje na razini Republike Hrvatske i jedinica lokalne i područne (regionalne) samouprave, način financiranja te ostali uvjeti koje primjenjuju Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave u financiranju javnih potreba u kulturi, kao i osnivanje i upravljanje ustanovama u kulturi čije osnivanje i upravljanje nije uređeno posebnim zakonima, a koje se financiraju iz sredstava državnog proračuna i proračuna jedinica lokalne i područne (regionalne) samouprave.
+(2) Odredbe ovoga Zakona primjenjuju se na sve fizičke i pravne osobe koje su prijavitelji programa i projekata financiranja javnih potreba u kulturi odnosno korisnici sredstava za financiranje tih programa i projekata koje dodjeljuju davatelji sredstava iz stavka 1. ovoga članka.
