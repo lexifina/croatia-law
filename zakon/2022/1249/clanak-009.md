@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 17. stavak 4. mijenja se i glasi:
+»(4) Naknade iz ovoga članka prihod su nadležnih ili stručnih tijela ili pravnih osoba s javnim ovlastima koje obavljaju poslove laboratorijske analize, testiranja uzoraka bilja, biljnih proizvoda i drugih predmeta te poslove provjere i nadzora udovoljavanja uvjetima za obavljanje djelatnosti tretiranja i/ili označavanja drvenog materijala za pakiranje odnosno provode osposobljavanje specijaliziranih subjekata, a prihodom od naknada mogu se podmirivati materijalni rashodi i rashodi za nabavu nefinancijske imovine vezani za obavljanje poslova propisanih ovim Zakonom.«.
