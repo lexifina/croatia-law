@@ -1,0 +1,9 @@
+## Registracija i odobravanje objekata
+# Članak 11.
+(1) Subjekt u poslovanju s hranom obvezan je registrirati svaki objekt odnosno osigurati odobravanje svih objekata za koje se to zahtijeva, a u kojem se obavlja djelatnost u bilo kojoj fazi proizvodnje, prerade i distribucije hrane, a u skladu s člankom 6. Uredbe (EZ) br. 852/2004, člankom 4. stavcima 1. i 3. Uredbe (EZ) br. 853/2004, člankom 2. Uredbe (EU) br. 210/2013 i u skladu s propisom kojim se uređuju službene kontrole hrane.
+(2) Subjekt u poslovanju s hranom ne može započeti obavljati djelatnost u objektu koji podliježe odobravanju bez prethodnog utvrđivanja udovoljavanja uvjetima propisanima propisima o hrani.
+(3) Subjekt u poslovanju s hranom u odobrenom objektu može biti svaka fizička ili pravna osoba koja je upisana u Upisnik poljoprivrednika odnosno sudski ili obrtni registar.
+(4) Udovoljavanje uvjetima iz stavka 2. ovoga članka utvrđuje stručno povjerenstvo u skladu s postupkom navedenim u propisu kojim se uređuju službene kontrole hrane i u skladu s pravilnikom koji donosi ministar nadležan za poljoprivredu na temelju propisa kojim se uređuju službene kontrole hrane.
+(5) U skladu s člankom 6. Uredbe (EZ) br. 852/2004 subjekti u poslovanju s hranom koji su, sukladno propisu kojim se uređuju službene kontrole, pod nadležnošću sanitarne inspekcije obvezni su u svrhu evidentiranja objekata dostaviti obavijest Državnom inspektoratu.
+(6) Obavijest iz stavka 5. ovoga članka podnosi se u skladu s odredbama propisa kojim se uređuje način evidentiranja i vođenja Registra subjekata iz nadležnosti sanitarne inspekcije.
+(7) U skladu s člankom 6. stavkom 3. podstavkom 2. Uredbe (EZ) br. 852/2004 ministarstvo nadležno za poljoprivredu obavještava Europsku komisiju i ostale države članice o propisu koji se odnosi na odobravanje objekata po nacionalnom zakonodavstvu iz stavka 4. ovoga članka.
