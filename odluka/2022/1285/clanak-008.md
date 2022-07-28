@@ -1,0 +1,2 @@
+# Članak 8.
+Zakonom su propisane prekršajne odredbe ako javni isporučitelj vodnih usluga obračunava i/ili naplaćuje naknadu za razvoj protivno odredbama članka 52. stavka 3. Zakona o financiranju vodnog gospodarstva, odnosno protivno odredbama ove Odluke, ne objavi ovu Odluku u »Narodnim novinama«, sukladno članku 52. stavku 4. Zakona o financiranju vodnog gospodarstva, ne dostavi ovu Odluku sukladno članku 52. stavku 5. Zakona o financiranju vodnog gospodarstva i ne koristi prihode od naknade za razvoj sukladno članku 57. Zakona o financiranju vodnog gospodarstva.
