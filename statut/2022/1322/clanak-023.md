@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Sredstva za obavljanje poslova Agencije osiguravaju se na temelju godišnjeg financijskog plana Agencije iz iznosa od 0,5 % od ukupnog godišnjeg bruto prihoda koji su u prethodnoj godini ostvarili pružatelji medijskih usluga obavljanjem djelatnosti pružanja audio i/ili audiovizualnih medijskih usluga na zahtjev iz članka 26. Zakona, djelatnosti pružanja medijskih usluga televizije i/ili radija iz članka 29. i 92. Zakona, djelatnosti pružanja usluga elektroničkih publikacija iz članka 94. Zakona te djelatnosti usluga platformi za razmjenu videozapisa iz članka 95. Zakona.
+(2) Agencija može, u skladu sa Zakonom, ostvariti sredstva za svoj rad i iz drugih izvora.

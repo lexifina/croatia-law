@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Hrvatski sabor će na prijedlog Vlade Republike Hrvatske svojom odlukom razriješiti predsjednika, zamjenika predsjednika ili člana Vijeća prije isteka razdoblja na koji je imenovan u slučajevima propisanima Zakonom.
+(2) O postojanju razloga za razrješenje predsjednika, zamjenika predsjednika ili člana Vijeća prije isteka razdoblja na koji je imenovan Agencija je obvezna pisanim putem na prijedlog Vijeća izvijestiti Vladu Republike Hrvatske.
+(3) Članovi Vijeća dužni su postupati savjesno i u skladu s moralnim i etičkim načelima i pravilima struke, osigurati primjenu načela razvidnosti, objektivnosti i nepristranosti, prisustvovati i glasovati na sjednicama Vijeća, čuvati tajnost podataka koje saznaju u radu Agencije, te postupati u skladu s obvezama koje imaju prema Zakonu, drugim propisima, općim aktima Agencije i ovom Statutu.
