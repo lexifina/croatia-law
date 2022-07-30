@@ -1,0 +1,1 @@
+Na temelju čl. 23. Zakona o vodnim uslugama (»Narodne novine« 66/219) i čl. 52. - 58. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/16 i 66/19) te čl. 27. Odluke o izmjeni Izjave o osnivanju od 9. 11. 2017. godine, Skupština TD Vodovod Korenica d.o.o. na sjednici održanoj 15. srpnja 2022. donosi
