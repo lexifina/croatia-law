@@ -1,0 +1,2 @@
+# Članak 55.
+Stručne organizacije iz članaka 206. i 273. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. - Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17., 70/19. i 42/20.) dužne su uskladiti i organizirati svoju djelatnost i opće akte s odredbama ovoga Zakona u roku od devet mjeseci od dana stupanja na snagu ovoga Zakona.

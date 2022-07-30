@@ -1,0 +1,3 @@
+# Članak 50.
+U članku 289. stavak 1. mijenja se i glasi:
+»(1) Vozač kojem je vozačka dozvola oduzeta (članak 284.) ili je isključen iz prometa (članak 285.) ili mu je izrečena mjera opreza privremenog oduzimanja vozačke dozvole ili zaštitna mjera zabrane upravljanja motornim vozilom, odnosno zabrana korištenja vozačke dozvole ili mu je od strane liječnika koji je obavio pregled ili je liječio vozača ili izabranog liječnika izdano upozorenje o zdravstvenom stanju zbog kojeg vozač privremeno nije sposoban sigurno upravljati vozilom, ne smije za to vrijeme upravljati vozilom u prometu na cesti.«.
