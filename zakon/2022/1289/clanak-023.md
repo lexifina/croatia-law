@@ -1,0 +1,3 @@
+# Članak 23.
+(1) U cijelom tekstu Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, br. 85/08., 110/08. ‒ ispravak, 34/11., 54/13., 152/14., 59/17. i 37/20.) riječi: »ministarstvo nadležno za obitelj« i riječi: »nadležno ministarstvo za obitelj« u određenom padežu zamjenjuju se riječima: »tijelo državne uprave nadležno za demografiju« u odgovarajućem padežu.
+(2) U cijelom tekstu Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, br. 85/08., 110/08. ‒ ispravak, 34/11., 54/13., 152/14., 59/17. i 37/20.) riječi: »ministar nadležan za obitelj« u određenom padežu zamjenjuju se riječima: »čelnik tijela državne uprave nadležnog za demografiju« u odgovarajućem padežu.
