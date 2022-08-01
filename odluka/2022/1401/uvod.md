@@ -1,0 +1,1 @@
+Na temelju točke 4. stavka 1. članka 23. Zakona o vodnim uslugama u vezi s odredbama Zakona o financiranju vodnoga gospodarstva kojima se uređuje naknada za razvoj Skupština Trgovačkog društva Vodovod d.o.o. Zadar na sjednici održanoj 28. srpnja 2022. godine, donosi
