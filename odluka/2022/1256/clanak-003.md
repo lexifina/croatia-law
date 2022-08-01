@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 9. iza stavka 2. dodaje se stavak 3., koji glasi:
+»Posljednji obrasci DP/DO 1, 2 i 3 u skladu s ovom Odlukom dostavljaju se Hrvatskoj narodnoj banci do 14. prosinca 2022. za studeni 2022., a ispunjavanje obveze održavanja minimalno potrebnog iznosa deviznih potraživanja u odnosu prema deviznim obvezama u razdoblju od 1. prosinca 2022. do 29. prosinca 2022. Hrvatska narodna banka kontrolirat će na temelju operativnih podataka kojima raspolaže, pri čemu se za svaki radni dan u tom razdoblju pod deviznim obvezama banke smatra prosječno mjesečno stanje deviznih obveza iz posljednjega dostavljenog obrasca DP/DO 3.«
