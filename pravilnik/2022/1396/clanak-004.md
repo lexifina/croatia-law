@@ -1,0 +1,2 @@
+# Članak 4.
+Postupci pokrenuti za utvrđivanje statusa osigurane osobe u obveznom zdravstvenom osiguranju u skladu s člankom 8. Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja (»Narodne novine«, broj 49/14., 51/14. - ispravak, 11/15., 17/15., 123/16. - ispravak, 129/17. i 9/21.) koji nisu okončani do dana stupanja na snagu ovoga Pravilnika dovršit će se prema odredbama ovoga Pravilnika.
