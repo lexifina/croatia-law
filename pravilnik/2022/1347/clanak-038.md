@@ -1,0 +1,2 @@
+# Članak 38.
+Poglavlje Plan sanacije razradne/eksploatacijske bušotine obvezno sadržava opis trajnog napuštanja bušotine, opis uređenja naftno-rudarskim radovima zahvaćenog bušotinskog radnog prostora tijekom i nakon završetka izvođenja naftno-rudarskih radova kao i trošak sanacije u slučaju negativnih rezultata, te opis opremanja bušotine i smanjenja bušotinskog radnog prostora u slučaju pozitivnih rezultata bušenja.

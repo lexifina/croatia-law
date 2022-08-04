@@ -1,0 +1,4 @@
+## Sadržaj i oblik rješenja o obavljenoj provjeri naftno-rudarskih projekta
+# Članak 76.
+(1) Na temelju zaključka povjerenstva iz članka 75. stavka 3. ovoga Pravilnika, o prihvaćanju projektnih rješenja predviđenih naftno-rudarskim projektom glede racionalnog iskorištavanja ugljikovodika, geotermalne vode, podzemnog skladištenja plina ili trajnog zbrinjavanja ugljikova dioksida, mjera i normativa zaštite na radu, sigurnosti pogona i ljudi, podzemnih, površinskih i susjednih objekata, te usklađenosti s odredbama Zakona i drugim zakonima i propisima za njihovo provođenje, na naftno-rudarski projekt se stavlja izjava o obavljenoj provjeri naftno-rudarskog projekta, koju potpisuju svi članovi povjerenstva.
+(2) Izjava iz stavka 1. ovoga članka stavlja se na naslovnu stranicu provjerenoga naftno-rudarskog projekta, iza popisa priloga i iza zaključka odgovornog projektanta naftno-rudarskog projekta.

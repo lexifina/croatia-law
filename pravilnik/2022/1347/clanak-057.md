@@ -1,0 +1,3 @@
+# Članak 57.
+(1) Iznimno od propisanog u člancima 51., 52. i 53. ovoga Pravilnika, u slučaju kada se radi o remontnim postrojenjima, projekt remontnog postrojenja ne mora sadržavati sva poglavlja i potpoglavlja iz članaka 51., 52. i 53. ovoga Pravilnika ako ista nisu primjenjiva na takvo postrojenje, pri čemu se u projektu mora obrazložiti takvo odstupanje.
+(2) Za radna vozila i postrojenja koja se koriste za izvođenje radova navedenih u članku 46. stavku 2. ovoga Pravilnika, osim podstavka 9., ne izrađuje se naftno-rudarski projekt već ista moraju imati dokaznice o zadovoljenju sigurnosnih zahtjeva sukladno zakonskim propisima koji uređuju zaštitu na radu te rad s posudama pod tlakom.
