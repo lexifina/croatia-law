@@ -1,0 +1,4 @@
+# Članak 5.
+Članak 7. mijenja se i glasi:
+»(1) Poslove stručnog nadzora nad izvođenjem naftno-rudarskih radova (nadzorni inženjer/odgovorni voditelj) kod izvođenja naftno-rudarskih radova iz članka 2. točke 5. ovoga Pravilnika, mogu obavljati radnici koji imaju preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij kojim se stječe akademski naziv magistar inženjer naftno-rudarske struke i koji imaju položen stručni ispit te dvije godine radnog iskustva nakon položenog stručnog ispita.
+(2) Iznimno od stavka 1. ovoga članka poslove stručnog nadzora nad izvođenjem naftno-rudarskih radova mogu obavljati radnici nakon položenog stručnog ispita ako dokažu kako su prije polaganja stručnog ispita imali više od četiri godine radnog iskustva na istim ili sličnim poslovima.«.
