@@ -1,0 +1,1 @@
+Odluka o ukidanju Odluke o uzajamnom priznavanju mjere makrobonitetne politike iz Preporuke Europskog odbora za sistemske rizike od 16. srpnja 2018. o izmjeni Preporuke ESRB/2015/2 o procjeni prekograničnih učinaka mjera makrobonitetne politike i o dobrovoljnoj uzajamnosti za mjere makrobonitetne politike ( ESRB/2018/5)
