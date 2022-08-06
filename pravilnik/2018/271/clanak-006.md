@@ -1,4 +1,0 @@
-## Nosioci odobrenja za obavljanje djelatnosti zbrinjavanja radioaktivnog otpada i iskorištenih izvora
-# Članak 6.
-(1) Odobrenje za obavljanje djelatnosti zbrinjavanja radioaktivnog otpada i iskorištenih izvora izdaje Zavod za radiološku i nuklearnu sigurnost (u daljnjem tekst: Zavod) pravnoj ili fizičkoj osobi, tijelu državne uprave i drugom državnom tijelu ili tijelu jedinice lokalne i područne (regionalne) samouprave koje je podnijelo zahtjev za izdavanje nakon što se utvrdi da je udovoljeno uvjetima koji su propisani zakonom koji uređuje radiološku i nuklearnu sigurnost (u daljnjem tekst: Zakon) i odredbama ovog Pravilnika.
-(2) Odobrenje iz stavka 1. ovoga članka može se obnoviti na temelju zahtjeva nositelja odobrenja ako su, u trenutku isteka odobrenja, ispunjeni svi propisani uvjeti za izdavanje odobrenja.

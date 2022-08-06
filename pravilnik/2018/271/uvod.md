@@ -1,1 +1,0 @@
-Na temelju članka 49. stavka 8. i članka 50. stavka 4. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13, 39/15 i 130/17) ravnatelj Državnog zavoda za radiološku i nuklearnu sigurnost u suradnji s ministrom nadležnim za zaštitu okoliša i energetiku i ministrom nadležnim za graditeljstvo i prostorno uređenje donosi
