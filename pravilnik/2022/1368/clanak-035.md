@@ -1,0 +1,10 @@
+## VIII. SUGLASNOSTI ZA USPOSTAVU POSTROJENJA ZA ZBRINJAVANJE
+## Sigurnosna studija
+# Članak 35.
+(1) Postrojenje za zbrinjavanje radioaktivnog otpada i iskorištenih izvora obvezno je dokazati da će, s postojećim tehnologijama i prema projektnim specifikacijama te prema uvjetima propisanim u članku 38. ovoga Pravilnika, na siguran način biti izgrađeno, pušteno u redoviti rad, korišteno i na kraju životnog vijeka biti razgrađeno.
+(2) Uspostava postrojenja za zbrinjavanje radioaktivnog otpada i iskorištenih izvora mora zadovoljiti sve građevinske i okolišne uvjete definirane važećim propisima Republike Hrvatske te posebne uvjete radiološke i nuklearne sigurnosti koji se odnose na lokaciju postrojenja, njegovu izgradnju, opremljenost te razgradnju.
+(3) Ispunjavanje posebnih uvjeta iz stavka 2. ovoga članka dokazuje se u postupku izdavanja lokacijske i građevinske dozvole, odobrenja za obavljanje djelatnosti zbrinjavanja radioaktivnog otpada i iskorištenih izvora upravitelja Centra, suglasnosti za pokusni rad, suglasnosti za početak rada te suglasnosti za zatvaranje i razgradnju postrojenja za zbrinjavanje.
+(4) U svrhu dokazivanja ispunjenja posebnih uvjeta radiološke i nuklearne sigurnosti postrojenja za zbrinjavanje, pravna osoba koja upravlja postrojenjem za zbrinjavanje te u njemu želi obavljati djelatnost zbrinjavanja radioaktivnog otpada i iskorištenih izvora obvezna je izraditi i/ili revidirati Sigurnosnu studiju i pripadajuće Izvješće sigurnosne studije za svaku fazu uspostave ili razgradnje postrojenja u kojem će se djelatnost obavljati.
+(5) Opseg i sadržaj Sigurnosne studije za svako od postrojenja i za svaku od faza uspostave postrojenja je specifičan, a okvirno je definiran u Prilogu 6. ovoga Pravilnika, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(6) Okvirni sadržaj Izvješća sigurnosne studije definiran je u Prilogu 7. ovoga Pravilnika, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(7) Izvješće sigurnosne studije predaje se Ministarstvu na pregled i odobrenje u okviru postupka izdavanja dozvola i suglasnosti iz stavka 3. ovoga članka.
