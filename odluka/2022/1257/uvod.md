@@ -1,0 +1,1 @@
+Na temelju članka 14. i članka 42. stavka 3. točke 7. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) Savjet Hrvatske narodne banke na sjednici održanoj 13. srpnja 2022. donio je
