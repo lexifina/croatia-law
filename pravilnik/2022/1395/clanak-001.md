@@ -1,0 +1,3 @@
+# Članak 1.
+Članak 3. Pravilnika o osnovnim uvjetima kojima javne ceste izvan naselja i njihovi elementi moraju udovoljavati sa stajališta sigurnosti prometa (»Narodne novine«, br. 110/01) mijenja se tako da glasi:
+»Tehnička dokumentacija za izgradnju i rekonstrukciju javnih cesta koja je izrađena ili čija je izrada započeta prije stupanja na snagu ovoga Pravilnika, može se prihvatiti odnosno dovršiti prema odredbama Pravilnika o osnovnim uvjetima kojima javne ceste izvan naselja i njihovi elementi moraju udovoljavati sa stajališta sigurnosti prometa (»Narodne novine«, broj 110/01.), ako bi se zbog izmjene te dokumentacije u svrhu njenog usklađivanja s ovim Pravilnikom izgradnja odnosno rekonstrukcija javne ceste morala odložiti za duže vrijeme«.
