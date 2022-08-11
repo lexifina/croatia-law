@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 8. Zakona o veterinarstvu (»Narodne novine«, br. 82/13, 148/13, 115/18 i 52/21) i članka 64. stavka 1. Zakona o lovstvu (»Narodne novine«, br. 99/18, 32/19 i 32/20), ministrica poljoprivrede donosi

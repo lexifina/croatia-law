@@ -1,0 +1,2 @@
+# Članak 4.
+Na području jedinice lokalne samouprave Grad Sisak na području koje nije proglašeno zaraženim područjem, određuje se cijepljenje protiv bedrenice svih goveda, ovaca, koza i kopitara neovisno o njihovom prethodnom cijepljenju te kontinuirano cijepljenje protiv bedrenice životinja koje nisu mogle biti cijepljene zbog kontraindikacije navedene u uputi proizvođača cjepiva najkasnije u roku od sedam dana od roka navedenog u uputi.
