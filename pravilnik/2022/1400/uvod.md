@@ -1,0 +1,1 @@
+Na temelju članka 63. stavka 7. Zakona o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine« br. 57/2022), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 29. srpnja 2022. godine donijela je
