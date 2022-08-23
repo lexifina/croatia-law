@@ -1,0 +1,3 @@
+# Članak 13.
+U članku 25. stavak 1. točka 1. podtočka b) mijenja se i glasi:
+»b) izvornik ili preslika računa potpisanog od dobavljača i škole u kojemu je izražena vrsta i količina isporučenog voća i povrća i/ili mlijeka i mliječnih proizvoda, broj djece u školi ili broj obroka po datumu/ima zaprimanja i cijena kupljenog voća ili povrća/mlijeka i mliječnih proizvoda. Računi dobavljača bez potpisa prihvatljivi su isključivo ako su izdani i poslani u elektroničkom obliku i ako su ovjereni potpisom škole i/ili osnivača školske ustanove ili dodatnim dokumentom koji sadrži elektronski pečat škole kao potvrdu da je račun valjan i prihvaćen.«

@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 5. iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+(6) Za potrebe provedbe postupka ažuriranja iz stavka 5. ovoga članka dobavljači iz stavka 4. ovoga članka kao i dobavljači koji su se prijavili do roka navedenog u stavku 1. ovoga članka i koji se nalaze na prvom Popisu odobrenih i vrednovanih dobavljača iz stavka 2. ovoga članka, a žele ažurirati svoj status, dužni su poslati svoje podatke Agenciji za plaćanja najkasnije do 25-og u mjesecu.
+(7) Agencija za plaćanja, po obradi dostavljenih podataka iz stavka 6. ovoga članka, do kraja mjeseca, za sljedeći mjesec (obračunsko razdoblje) objavljuje novi ažurirani Popis odobrenih i vrednovanih dobavljača prema pojedinoj županiji na temelju kojega škole u skladu s člankom 13. ovoga Pravilnika provode odabir dobavljača i sklapaju Ugovor o opskrbi škole.«
