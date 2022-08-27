@@ -1,0 +1,6 @@
+# Članak 2.
+Ovom Uredbom osigurava se provedba sljedećih akata Europske unije:
+- Uredbe (EU) 2021/1060 Europskog parlamenta i Vijeća od 24. lipnja 2021. o utvrđivanju zajedničkih odredaba o Europskom fondu za regionalni razvoj, Europskom socijalnom fondu plus, Kohezijskom fondu, Fondu za pravednu tranziciju i Europskom fondu za pomorstvo, ribarstvo i akvakulturu te financijskih pravila za njih i za Fond za azil, migracije i integraciju, Fond za unutarnju sigurnost i Instrument za financijsku potporu u području upravljanja granicama i vizne politike (SL L 231, 30. 6. 2021.) (u daljnjem tekstu: Uredba (EU) 2021/1060)
+- Uredbe (EU) 2021/1149 Europskog parlamenta i Vijeća od 7. srpnja 2021. o uspostavi Fonda za unutarnju sigurnost (SL L 251, 15. 7. 2021.) (u daljnjem tekstu: Uredba (EU) 2021/1149)
+- Uredbe (EU) 2021/1147 Europskog parlamenta i Vijeća od 7. srpnja 2021. o uspostavi Fonda za azil, migracije i integraciju (SL L 251, 15. 7. 2021.) (u daljnjem tekstu: Uredba (EU) 2021/1147)
+- Uredbe (EU) 2021/1148 Europskog parlamenta i Vijeća od 7. srpnja 2021. o uspostavi, u okviru Fonda za integrirano upravljanje granicama, Instrumenta za financijsku potporu u području upravljanja granicama i vizne politike (SL L 251, 15. 7. 2021.) (u daljnjem tekstu: Uredba (EU) 2021/1148).
