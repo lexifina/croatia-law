@@ -1,0 +1,1 @@
+Uredba o tijelima u sustavu upravljanja i kontrole korištenja Europskog socijalnog fonda plus u vezi s ciljem »Ulaganje za radna mjesta i rast«, u okviru programa Učinkoviti ljudski potencijali 2021. - 2027.
