@@ -1,0 +1,4 @@
+# Članak 1.
+Ovom Uredbom osigurava se provedba sljedećih akata Europske unije:
+- Uredbe (EU) 2021/1060 Europskog parlamenta i Vijeća od 24. lipnja 2021. o utvrđivanju zajedničkih odredaba o Europskom fondu za regionalni razvoj, Europskom socijalnom fondu plus, Kohezijskom fondu, Fondu za pravednu tranziciju i Europskom fondu za pomorstvo, ribarstvo i akvakulturu te financijskih pravila za njih i za Fond za azil, migracije i integraciju, Fond za unutarnju sigurnost i Instrument za financijsku potporu u području upravljanja granicama i vizne politike (SL L 231, 30. 6. 2021., u daljnjem tekstu: Uredba (EU) 2021/1060)
+- Uredbe (EU) 2021/1056 Europskog parlamenta i Vijeća od 24. lipnja 2021. o uspostavi Fonda za pravednu tranziciju (SL L 231, 30. 6. 2021., u daljnjem tekstu: Uredba (EU) 2021/1056).

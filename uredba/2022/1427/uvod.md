@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj (»Narodne novine«, br. 116/21.), Vlada Republike Hrvatske je na sjednici održanoj 18. kolovoza 2022. donijela

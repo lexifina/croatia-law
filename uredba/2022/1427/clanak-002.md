@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ovom Uredbom se određuju tijela u Sustavu upravljanja i kontrole za provedbu programa iz područja teritorijalnih ulaganja i pravedne tranzicije za financijsko razdoblje 2021. - 2027. (u daljnjem tekstu: Sustav) iz članka 6. stavka 3. i članka 7. stavka 1. Zakona o institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj (u daljnjem tekstu: Zakon) te se razrađuju njihovi međusobni odnosi, funkcije i odgovornosti.
+(2) Institucije koje se u skladu s odredbama ove Uredbe određuju tijelima u Sustavu mogu u skladu s načelom razdvajanja funkcija istovremeno obavljati funkcije pojedinih tijela u sustavima upravljanja i kontrole iz članka 6. stavaka 1. i 2. te stavaka 4. do 10. Zakona.
