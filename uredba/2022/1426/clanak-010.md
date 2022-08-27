@@ -1,0 +1,5 @@
+# Članak 10.
+(1) U specifičnom cilju u kojem postoji podijeljena nadležnost više tijela, nadležno posredničko tijelo utvrđuje se u pozivu na dodjelu bespovratnih sredstava, na temelju prethodnog pisanog sporazuma između Upravljačkog tijela i posredničkog tijela.
+(2) Ako za to postoji specifična potreba, u svrhu osiguravanja učinkovite provedbe Programa, Upravljačko tijelo i SAFU utvrđuju uključenost i opseg uključenosti SAFU u postupke odabira operacija. Uključenost SAFU podrazumijeva stavljanje na raspolaganje administrativnih kapaciteta s potrebnom stručnošću i iskustvom.
+(3) Za operacije kojima se može izravno dodijeliti potpora iz Europskog fonda za regionalni razvoj, Upravljačko tijelo može naknadno pisanim sporazumom posredničkom tijelu delegirati provjeru ispunjavanja zahtjeva u skladu s člankom 73. stavkom 4. Uredbe (EU) 2021/1060.
+(4) Kada se u Prilogu - Prikaz posredničkih tijela nadležnih za provedbu izabranih specifičnih ciljeva u okviru pojedinog specifičnog cilja navodi Ministarstvo regionalnoga razvoja i fondova Europske unije, radi se o funkcijama Upravljačkog tijela koje nisu delegirane Posredničkom tijelu razine 1.
