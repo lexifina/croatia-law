@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Koordinacijsko tijelo će, s ciljem poduzimanja mjera i aktivnosti za standardizaciju i usklađenost pravila za korištenje fondova Europske unije na nacionalnoj razini iz članka 10. stavka 3. Zakona, mjera i aktivnosti s ciljem jačanja interoperabilnosti poslovnih procesa iz članka 11. Zakona te mjera i aktivnosti s ciljem jačanja njihove digitalizacije sukladno članku 12. stavku 1. Zakona, uspostaviti međuresornu radnu skupinu.
+(2) Upravljačka tijela iz članka 6. Zakona dostavljaju Koordinacijskom tijelu, na njegov zahtjev, sve potrebne informacije o statusu revizijskih nalaza i preporuka za programske dokumente iz svoje nadležnosti, kao i dokumente vezane uz upravljanje, provedbu, praćenje, izvještavanje, vrednovanje programskih dokumenata.
+(3) Međuresorna radna skupina iz stavka 1. ovoga članka, uz predstavnike nadležnih upravljačkih tijela iz članka 6. Zakona, uključuje i sudjelovanje tijela državne uprave nadležnog za razvoj digitalnog društva te po potrebi i drugih nadležnih tijela državne uprave.
+(4) Temeljem zaključaka međuresorne radne skupine iz stavka 1. ovoga članka nadležna upravljačka tijela poduzimat će odgovarajuće aktivnosti.
+(5) Međuresornu radnu skupinu iz stavka 1. ovoga članka odlukom osniva ministar nadležan za regionalni razvoj i fondove Europske unije, a istom predsjedava predstavnik Koordinacijskog tijela.

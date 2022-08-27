@@ -1,0 +1,2 @@
+# Članak 20.
+Za Strateški plan Zajedničke poljoprivredne politike 2023. - 2027. iz članka 3. stavka 5. Zakona Koordinacijsko tijelo osigurava na odgovarajući način primjenu članka 4., članka 5. stavka 1., članka 6. stavka 7., članka 8. stavka 8., članka 9. stavka 2., članka 11. stavaka 3. do 8., članka 12., članka 13., članka 15., članka 16. stavka 1., članka 17., članka 18. i članka 19. ove Uredbe.

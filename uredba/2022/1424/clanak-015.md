@@ -1,0 +1,7 @@
+# Članak 15.
+(1) Koordinacijsko tijelo osigurava zastupljenost Republike Hrvatske u radnim strukturama i odborima Europske komisije i Vijeća Europske unije te osigurava širenje informacija o provedenim aktivnostima.
+(2) Sukladno stavku 1. ovoga članka, Koordinacijsko tijelo osigurava i primjenu članka 114. stavka 4. Uredbe (EU) 2021/1060.
+(3) Ukoliko je riječ o aktivnostima iz stavaka 1. i 2. ovoga članka, a koje su primjenjive na sve ili više od jednog fonda Europske unije iz članka 2. stavaka 2. do 5. Zakona, Republiku Hrvatsku predstavlja nadležni predstavnik Koordinacijskog tijela.
+(4) Iznimno od stavka 3. ovoga članka, ukoliko postoji potreba, a organizacijske mogućnosti to dopuštaju, Koordinacijsko tijelo u aktivnostima iz stavaka 1. i 2. ovoga članka, može osigurati i sudjelovanje predstavnika nadležnih upravljačkih tijela.
+(5) Ukoliko je riječ o aktivnostima iz stavka 1. i 2. ovoga članka, a koje su primjenjive isključivo na jedan od fondova Europske unije iz članaka 2. do 4. Zakona, Republiku Hrvatsku predstavlja predstavnik nadležnog upravljačkog tijela te predstavnik Koordinacijskog tijela, ukoliko organizacijske mogućnosti dopuštaju navedeno.
+(6) Sukladno stavku 1. ovoga članka Koordinacijsko tijelo izrađuje prijedloge Okvirnih stajališta Republike Hrvatske, stajališta za sastanke Odbora stalnih predstavnika (COREPER), za sastanke Vijeća za opće poslove te stajališta za sastanke Europskog vijeća vezano uz Kohezijsku politiku, odnosno fondove Europske unije za provedbu Kohezijske politike iz članka 2. točke 2. Zakona.
