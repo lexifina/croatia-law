@@ -1,0 +1,1 @@
+Na temelju članka 23.a stavka 4. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 18. kolovoza 2022. donijela
