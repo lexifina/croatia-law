@@ -1,0 +1,1 @@
+Na temelju članka 78.a stavka 7. Zakona o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11. - pročišćeni tekst, 91/12. - Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17., 126/19. i 80/22) ministar pravosuđa i uprave donosi
