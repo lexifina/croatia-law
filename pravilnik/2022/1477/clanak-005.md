@@ -1,0 +1,4 @@
+## Posredni sanacijski nadzor
+# Članak 5.
+(1) Informacije koje su predmet posrednoga sanacijskog nadzora jesu, kada je primjenjivo, izvješća koja investicijsko društvo dostavlja u skladu s Provedbenom uredbom Komisije (EU) 2018/1624 od 23. listopada 2018. o utvrđivanju provedbenih tehničkih standarda u pogledu postupaka te standardnih obrazaca i predložaka za pružanje informacija za potrebe planova sanacije kreditnih institucija i investicijskih društava u skladu s Direktivom 2014/59/EU Europskog parlamenta i Vijeća i o stavljanju izvan snage Provedbene uredbe Komisije (EU) 2016/1066 (Tekst značajan za EGP.)(SL L 277, 7. 11. 2018.) i ovim Pravilnikom, pisana korespondencija s tim subjektom te svaka druga informacija, izjava ili izvješće koje na zahtjev Hanfe dostavi investicijsko društvo, kao i druge javno dostupne informacije, izvješća ili obavijesti povezani s investicijskim društvom.
+(2) Posredni sanacijski nadzor provode ovlaštenici po zaposlenju.

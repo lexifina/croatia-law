@@ -1,0 +1,5 @@
+## Dužnosti investicijskog društva tijekom provođenja neposrednoga sanacijskog nadzora
+# Članak 7.
+(1) Investicijsko društvo dužno je omogućiti ovlaštenoj osobi neometan pristup svim svojim poslovnim prostorima i uvid u poslovne knjige, poslovnu dokumentaciju te administrativne ili poslovne evidencije, kao i kontrolu informacijske tehnologije i drugih pridruženih tehnologija, u opsegu potrebnom za obavljanje pojedinoga neposrednoga sanacijskog nadzora.
+(2) Članovi uprave i nadzornog odbora, prokuristi, ostali rukovoditelji i zaposlenici investicijskog društva obvezni su ovlaštenoj osobi, na njezin zahtjev, dati usmene i pisane odgovore na sva pitanja vezana uz predmet neposrednog nadzora i potkrijepiti ih dokumentacijom ako je to moguće.
+(3) Ako investicijsko društvo izdvoji određene aktivnosti na vanjske pružatelje usluga, dužno je omogućiti ovlaštenoj osobi obavljanje neposrednog nadzora i u prostorijama pružatelja usluga u opsegu koji je potreban za ostvarivanje cilja neposrednoga sanacijskog nadzora nad tim subjektom.

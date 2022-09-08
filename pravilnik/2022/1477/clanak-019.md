@@ -1,0 +1,3 @@
+## Procjena vrijednosti
+# Članak 19.
+Hanfa stopu pretvaranja te način postupanja prema dioničarima i imateljima relevantnih instrumenata kapitala, podložnih obveza i obveza podložnih za unutarnju sanaciju određuje na temelju informacija iz procjene vrijednosti, a osobito na temelju odnosa procijenjene vrijednosti vlasničkih instrumenata nakon izvršenja ovlasti iz članka 20. ovog Pravilnika i procijenjenog iznosa u kojem bi dioničari i imatelji relevantnih instrumenata kapitala, podložnih obveza i obveza podložnih za unutarnju sanaciju bili namireni da je nad investicijskim društvom proveden redovni postupak zbog insolventnosti.

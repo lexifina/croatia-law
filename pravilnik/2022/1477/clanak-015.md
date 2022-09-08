@@ -1,0 +1,6 @@
+## Informacije potrebne za izradu sanacijskog plana
+# Članak 15.
+(1) Investicijsko društvo iz članka 13. ovoga Pravilnika nije obvezno dostavljati informacije u skladu s odredbama Provedbene uredbe Komisije (EU) 2018/1624 od 23. listopada 2018. o utvrđivanju provedbenih tehničkih standarda u pogledu postupaka te standardnih obrazaca i predložaka za pružanje informacija za potrebe planova sanacije kreditnih institucija i investicijskih društava u skladu s Direktivom 2014/59/EU Europskog parlamenta i Vijeća i o stavljanju izvan snage Provedbene uredbe Komisije (EU) 2016/1066 (dalje: Provedbena uredba Komisije (EU) br. 2018/1624).
+(2) Izuzeće investicijskog društva u skladu s odredbom stavka 1. ovog članka ne utječe na njegove obveze iz članka 14. Zakona.
+(3) Ako ocijeni da je to nužno za potrebe izrade i provedbe sanacijskog plana, Hanfa investicijsko društvo na koje se sanacijski plan odnosi obavještava najkasnije do kraja kalendarske godine da je, počevši od izvještaja za tu kalendarsku godinu, obvezno dostavljati informacije u skladu s odredbama Provedbene uredbe Komisije (EU) br. 2018/1624.
+(4) Ako bude donesena odluka o otvaranju postupka sanacije, investicijsko društvo iz članka 13. ovoga Pravilnika nije obvezno dostavljati informacije u skladu s odredbama Provedbene uredbe Komisije (EU) br. 2018/1624 za vrijeme trajanja postupka sanacije.
