@@ -1,0 +1,9 @@
+# Članak 2.
+(1) Imatelj kvalificiranog udjela u UAIF-u može biti osoba koja je primjerena odnosno koja ima dobar ugled i primjerenu financijsku stabilnost u odnosu na poslovanje UAIF-a u kojemu stječe, drži ili povećava kvalificirani udjel.
+(2) U vezi s namjeravanim stjecanjem ili povećanjem kvalificiranog udjela, u svrhu provjere hoće li se UAIF-om upravljati pažnjom dobrog stručnjaka, a s obzirom na vjerojatni utjecaj stjecatelja kvalificiranog udjela na poslovanje UAIF-a, Hanfa će na temelju obavijesti iz članka 4. ovoga Pravilnika i priložene dokumentacije, ocijeniti primjerenost namjeravanog stjecanja i financijsku stabilnost namjeravanog stjecanja, uzimajući u obzir sve sljedeće kriterije:
+1. ugled namjeravanog stjecatelja
+2. ugled i iskustvo osobe koja će kao posljedicu namjeravanog stjecanja voditi poslovanje UAIF-a
+3. financijsku stabilnost namjeravanog stjecatelja, posebno u odnosu na poslovanje UAIF-a u kojemu se kvalificirani udio stječe
+4. hoće li UAIF u kojemu se stječe ili povećava kvalificirani udjel biti u mogućnosti pridržavati se odredbi Zakona i drugih relevantnih propisa kojima se uređuje poslovanje UAIF-a, a posebno ima li grupa čijim će članom postati UAIF strukturu koja omogućava učinkovito provođenje nadzora, djelotvornu razmjenu podataka između nadležnih nadzornih tijela i određivanje podjele odgovornosti među nadležnim tijelima
+5. postoje li opravdani razlozi za sumnju, u skladu s propisima o sprečavanju pranja novca i financiranja terorizma, da se u vezi s namjeravanim stjecanjem provodi ili pokušava provesti pranje novca ili financiranje terorizma ili da namjeravano stjecanje može povećati rizik od provođenja pranja novca ili financiranja terorizma te
+6. je li namjeravani stjecatelj suradnik osobe osuđene za kazneno djelo koje se goni po službenoj dužnosti.

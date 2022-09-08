@@ -1,0 +1,1 @@
+Na temelju članka 76. stavka 13. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 21/18, 126/19 i 110/21), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 25. kolovoza 2022. godine donijela je
