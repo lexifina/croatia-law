@@ -1,0 +1,4 @@
+## Kriterij kapitala grupe
+# Članak 15.
+(1) Ako Hanfa procjeni da je struktura grupe dostatno jednostavna te da nema značajnih rizika za klijente ili tržište koji proizlaze iz grupe investicijskog društva kao cjeline za koje bi u suprotnome bio potreban nadzor na konsolidiranoj osnovi, matičnom investicijskom društvu može rješenjem na zahtjev dozvoliti upotrebu kriterija kapitala grupe iz članka 8. Uredbe (EU) br. 2019/2033.
+(2) Matični investicijski holding iz Unije ili matični miješani financijski holding iz Unije i svako drugo matično društvo koje je investicijsko društvo, financijska institucija, društvo za pomoćne usluge ili vezani zastupnik u grupi investicijskog društva, kada je za njihov nadzor nadležna Hanfa, dužni su držati instrumente regulatornog kapitala koji su barem dovoljni za pokriće zahtjeva iz članka 8. stavka 3. Uredbe (EU) br. 2019/2033.
