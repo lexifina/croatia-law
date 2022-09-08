@@ -1,7 +1,0 @@
-# Članak 16.
-Načelo ravnopravnosti vjerovnika
-1. Načelo ravnopravnosti vjerovnika osigurava da nijedan vjerovnik neće biti doveden u nepovoljniji položaj u odnosu na položaj koji bi imao u stečajnom postupku.
-2. Hanfa će prilikom primjene instrumenata unutarnje sanacije i pri primjeni ovlasti otpisa i pretvorbe odrediti različite stope pretvaranja tako da za svakog dioničara ili vjerovnika očekivana vrijednost njihovih ukupnih tražbina i tražbina iz vlasničkog kapitala nakon primjene sanacijskih ovlasti, sukladno vrednovanju provedenom na temelju ZOSI-ja bude jednaka ili veća od očekivane vrijednosti koju bi realizirali da je nad tim investicijskim društvom proveden stečajni postupak.
-3. Hanfa neće primjenjivati različite stope pretvaranja ako je ukupna procijenjena vrijednost vlasničkog kapitala koji su primili vjerovnici nakon otpisa i pretvorbe instrumenata veća od ukupnog iznosa tražbina koje su otpisane ili pretvorene u vlasnički kapital.
-4. Očekivana vrijednost vlasničkog kapitala vjerovnika čija je tražbina u cijelosti pretvorena u vlasnički kapital trebala bi biti barem jednaka njihovoj očekivanoj naplati u slučaju otvaranja stečajnog postupka.
-5. Vjerovnici, čija je tražbina djelomično pretvorena u vlasnički kapital, trebali bi primiti barem jednaku očekivanu vrijednost vlasničkog kapitala kao u slučaju otvaranja stečajnog postupka, umanjenu za očekivanu vrijednost njihove preostale tražbine.

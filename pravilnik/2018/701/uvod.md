@@ -1,1 +1,0 @@
-Na temelju članka 8. stavka 20., članka 25. stavka 3. i članka 42. stavka 4. Zakona o sanaciji kreditnih institucija i investicijskih društava (»Narodne novine«, broj 19/15), Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 12. travnja 2018. godine donosi
