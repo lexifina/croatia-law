@@ -1,0 +1,1 @@
+Na temelju članka 178. Zakona o istraživanju i eksploataciji ugljikovodika (»Narodne novine«, br. 52/18., 52/19. i 30/21.), ministar nadležan za energetiku, uz prethodnu suglasnost ministra nadležnog za graditeljstvo, donosi
