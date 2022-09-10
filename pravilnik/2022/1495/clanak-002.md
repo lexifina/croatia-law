@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ovaj Pravilnik je notificiran u skladu s postupkom utvrđenim Direktivom (EU) 2015/1535 Europskog parlamenta i Vijeća od 9. rujna 2015. o utvrđivanju postupka pružanja informacija u području tehničkih propisa i pravila o uslugama informacijskog društva (SL L 241, 17. 9. 2015).
+(2) Odredbe ovoga Pravilnika ne primjenjuju se na proizvode koji su zakonito proizvedeni i/ili stavljeni na tržište u drugoj državi članici Europske unije ili Turskoj ili koji su zakonito proizvedeni u državi koja pripada Europskom udruženju slobodne trgovine koja je potpisnica Sporazuma o Europskom gospodarskom prostoru.
