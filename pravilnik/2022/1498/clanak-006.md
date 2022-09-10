@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Službenu odoru za inspektore u područnim uredima i njima pripadajućim ispostavama Državnog inspektorata preuzimaju pročelnici područnih ureda, a za inspektore u Središnjem uredu Državnog inspektorata načelnici sektora, ili državni službenici koje oni ovlaste.
+(2) Voditelji ispostava, pročelnici područnih ureda i načelnici sektora u Središnjem uredu Državnog inspektorata brinu se o smještaju i čuvanju službene odore, vode evidenciju službenih odora, raspoređuju službenu odoru prema potrebi inspektorima u područnim uredima s pripadajućim ispostavama odnosno inspektorima u Središnjem uredu te se brinu o njezi i održavanju službene odore.

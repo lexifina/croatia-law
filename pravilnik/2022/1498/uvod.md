@@ -1,0 +1,1 @@
+Na temelju odredbi članka 52. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), članka 30. stavka 1. i članka 31. stavka 6. Zakona o Državnom inspektoratu (»Narodne novine«, broj 115/18 i 117/21), glavni državni inspektor donosi
