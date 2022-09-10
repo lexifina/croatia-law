@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Nadoknada po litri dizelskog goriva koje se koristi kao pogonsko gorivo u komercijalnom prijevozu putnika iznosi 1,47 kuna.
+(2) Korisnici prava na nadoknadu dijela troška dizelskog goriva koje se koristi kao pogonsko gorivo u komercijalnom cestovnom prijevozu putnika pravo na nadoknadu dokazuju rješenjem Ministarstva financija - Carinske uprave kojim se odobrava povrat plaćene trošarine, a podatak o broju litara za koje je tim rješenjem utvrđeno pravo povrata trošarine smatra se temeljem za obračun i isplatu nadoknade dijela troška dizelskog goriva temeljem ove Uredbe.
+(3) Ako se rješenjem Ministarstva financija - Carinske uprave odobrava povrat plaćene trošarine za godišnje razdoblje za 2022. godinu, obračun i isplata nadoknade dijela troška dizelskog goriva temeljem ove Uredbe odobrit će se za 50 % od ukupne količine dizelskog goriva za koje je tim rješenjem utvrđeno pravo povrata trošarine.

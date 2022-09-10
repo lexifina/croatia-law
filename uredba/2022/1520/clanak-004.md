@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Korisnici prava pisani zahtjev za nadoknadu dijela troškova podnose Ministarstvu mora, prometa i infrastrukture tromjesečno, najkasnije do 30. lipnja 2023.
+(2) Iznimno od stavka 1. ovoga članka, korisnici prava nakon predaje zahtjeva za nadoknadu dijela troškova za prvo tromjesečje primjene ove Uredbe, za gorivo nabavljeno od 1. srpnja do 30. rujna 2022., mogu sljedeće zahtjeve za nadoknadu dijela troškova, umjesto za tromjesečno razdoblje, podnijeti na mjesečnoj osnovi.
+(3) Zahtjev treba sadržavati naziv i OIB podnositelja zahtjeva, podatak o razdoblju za koje se traži nadoknada, količinu litara goriva po mjesecima za koje se traži nadoknada, te podatke o transakcijskom bankovnom računu na koji je potrebno izvršiti uplatu nadoknade. Zahtjev u prilogu mora sadržavati presliku rješenja Ministarstva financija - Carinske uprave kojim se odobrava povrat plaćene trošarine za razdoblje i količine goriva iz zahtjeva.
+(4) Zahtjevi podneseni nakon 30. lipnja 2023. bit će odbačeni kao nepravodobni.
+(5) Ministarstvo mora, prometa i infrastrukture o podnesenom zahtjevu odlučuje rješenjem. Protiv rješenja Ministarstva mora, prometa i infrastrukture žalba nije dopuštena, ali je u roku od 30 dana moguće pokrenuti upravni spor.

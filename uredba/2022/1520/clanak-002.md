@@ -1,0 +1,2 @@
+# Članak 2.
+Pravo na nadoknadu dijela troška dizelskog goriva koje se koristi kao pogonsko gorivo u komercijalnom cestovnom prijevozu putnika imaju osobe koje obavljaju komercijalni cestovni prijevoz putnika koje su na temelju odredbi Pravilnika o ostvarivanju prava na povrat dijela plaćene trošarine za dizelsko gorivo u komercijalnom prijevozu robe i putnika (»Narodne novine«, broj 12/19.) rješenjem Ministarstva financija - Carinske uprave ostvarile pravo na povrat dijela trošarine za razdoblje od 1. srpnja 2022. do 31. ožujka 2023. (u daljnjem tekstu: korisnici prava).
