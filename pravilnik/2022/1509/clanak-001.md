@@ -1,0 +1,4 @@
+## UVODNE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se uvjeti kojima moraju udovoljiti ustanove za obrazovanje odraslih (u daljnjem tekstu: ustanove) koje provode programe stručnog osposobljavanja osoba koje sudjeluju u prijevozu opasnih tvari unutarnjim vodnim putovima, programi stručnog osposobljavanja osoba koje sudjeluju u prijevozu opasnih tvari unutarnjim vodnim putovima (u daljnjem tekstu: programi osposobljavanja), uvjeti za pristupanje te način provedbe završnoga ispita radi stjecanja svjedodžbe o posebnom poznavanju Europskog sporazuma o prijevozu opasnih tvari unutarnjim vodnim putovima - ADN (u daljnjem tekstu: Sporazum), a koju izdaje ministarstvo nadležno za unutarnju plovidbu (u daljnjem tekstu: nadležno tijelo).
+(2) Izrazi koji se koriste u ovom Pravilniku, a koji imaju rodno značenje, obuhvaćaju na jednak način muški i ženski rod.
