@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Troškove smještaja u učeničkom domu Ministarstvo plaća djetetu ili mlađoj punoljetnoj osobi polazniku srednje škole ako ukupni prihod ostvaren u prethodna tri mjeseca prije podnošenja zahtjeva po članu kućanstva mjesečno ne prelazi 70 % proračunske osnovice.
+(2) Prihod svih članova kućanstva u prethodna tri mjeseca umanjuje se za iznos plaćen za rate stambenog kredita za nekretninu kojom se rješava stambeno pitanje obitelji i iznos plaćen za slobodno ugovorenu najamninu za potrebe stanovanja obitelji u stambenom prostoru. Dobiveni iznos dijeli se s ukupnim brojem članova kućanstva, a količnik čini prihod člana kućanstva.
