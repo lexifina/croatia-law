@@ -1,0 +1,2 @@
+# Članak 4.
+Ako je u javnom natječaju za zakup određena vrsta poljoprivredne proizvodnje za pojedinu katastarsku česticu odnosno proizvodno- tehnološku cjelinu (u daljnjem tekstu: PTC), ponuda prijavitelja razmatra se samo ako sadržaj ponude za pojedinu katastarsku česticu odnosno PTC odgovara vrsti poljoprivredne proizvodnje koja je u javnom natječaju naznačena za pojedinu katastarsku česticu odnosno PTC.

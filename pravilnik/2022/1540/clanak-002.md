@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Gospodarski program se na javni natječaj za zakup podnosi na obrascima koji se nalaze u prilogu ovoga Pravilnika i njegov su sastavni dio.
+(2) Gospodarski program prilaže se uz ponudu na javnom natječaju za zakup poljoprivrednog zemljišta u pisanom obliku do uspostave elektroničke provedbe natječaja za zakup poljoprivrednog zemljišta, a nakon uspostave elektroničke provedbe natječaja prilaže se u elektroničkom obliku.
+(3) Izvješće o ispunjavanju ciljeva Gospodarskog programa sukladno članku 38. stavku 8. i članku 54. stavku 7. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 20/18, 115/18, 98/19 i 57/22; u daljnjem tekstu: Zakon) zakupnik je dužan dostaviti jedinici lokalne samouprave odnosno Gradu Zagrebu na čijem se području poljoprivredno zemljište nalazi na obrascu koji se nalazi u prilogu ovoga Pravilnika i njegov je sastavni dio.
