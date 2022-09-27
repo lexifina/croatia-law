@@ -1,0 +1,22 @@
+O b r a z l o ž e n j e
+1. Prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 35. Zakona o izmjenama i dopunama Zakona o službi u oružanim snagama ("Narodne novine" broj 75/15.; u daljnjem tekstu: ZIDZoSOS/15) podnijela je Andrea Badelj iz Zagreba (u daljnjem tekstu: predlagateljica).
+Zakon o službi u oružanim snagama ("Narodne novine" broj 73/13., 75/15., 50/16., 30/18. i 125/19.; u daljnjem tekstu: ZoSOS/13) donio je Hrvatski Sabor na sjednici održanoj 14. lipnja 2013. U trenutku podnošenja prijedloga na snazi je bio ZoSOS/13 s izmjenama i dopunama. Člankom 35. ZIDZoSOS-a/15 dodan je iza članka 139. novi članak 139.a. U skladu s time, ima se smatrati da predlagateljica osporava suglasnost s Ustavom članka 139.a ZoSOS-a/13.
+1.1. Predlagateljica smatra da je navedeni članak ZoSOS-a/13, izmijenjen ZIDZoSOS-om/15, u nesuglasnosti s člancima 5., 14., 19. i 44. Ustava.
+2. Člankom 35. ZIDZoSOS-a/15 dodan je novi članak 139.a koji glasi:
+"Članak 35.
+Iza članka 139. dodaju se naslov 4.a i članak 139.a koji glase:
+'4.a RADNA MJESTA SLUŽBENIKA I NAMJEŠTENIKA U ORUŽANIM SNAGAMA S POSEBNIM UVJETIMA RADA
+Članak 139.a
+Ministar obrane odlukom određuje radna mjesta službenika i namještenika u Oružanim snagama na kojima se zbog posebnih uvjeta rada, težine i naravi posla i odgovornosti osnovna plaća uvećava najviše do 20%.'."
+Ne postoje pretpostavke za odlučivanje o biti stvari.
+3. Člankom 38. stavkom 1. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst; u daljnjem tekstu: Ustavni zakon) propisano je:
+"Članak 38.
+Svaka fizička i pravna osoba ima pravo predložiti pokretanje postupka za ... ocjenu suglasnosti drugih propisa s Ustavom i zakonom."
+4. Člankom 32. Ustavnog zakona propisano je:
+"Članak 32.
+Ustavni sud će rješenjem odbaciti zahtjev, prijedlog i ustavnu tužbu ... kad ne postoje pretpostavke za odlučivanje o biti stvari."
+5. Ustavni sud najprije primjećuje da je predlagateljica u svojem prijedlogu navela više odredbi više različitih zakona (i podzakonskih akata) koje osporava. Iako je pozvana da prijedloge razdvoji, ona ih je nominalno razdvojila, ali ne i sadržajno pa je tako ostavila u istom prijedlogu odredbe različitih propisa koje osporava.
+U odnosu na sam članak 139.a ZoSOS-a/13, koji je dodan člankom 35. ZIDZoSOS-a/15, a koji je predmet ovog ustavnosudskog postupka, nije navela nikakve konkretne razloge njegove eventualne nesuglasnosti s Ustavom, osim onih razloga kojima zapravo osporava odluku (podzakonski propis) kojom je ministar obrane ovlašten odrediti radna mjesta službenika i namještenika u Oružanim snagama Ministarstva obrane na kojima bi se iz određenih razloga mogla uvećati osnovna plaća. Podnositeljica u biti samo citira osporene članke spornih propisa, no ne obrazlaže u čemu bi se sastojala njihova nesuglasnost s Ustavom.
+Ustavni sud utvrđuje da predlagateljica u svojim prijedlozima nije navela ustavnopravno relevantne razloge zbog kojih bi trebalo pokrenuti postupak za ocjenu suglasnosti s Ustavom osporene odredbe ZoSOS-a/13. Naime, iako predlagateljica nominalno navodi da se njezin prijedlog odnosi na osporeni članak, nijedan prigovor naveden u prijedlogu na tu se odredbu sadržajno ne odnosi niti ona obrazlaže njegovu nesuglasnost s Ustavom. Navodi predlagateljice ne predstavljaju ustavnopravnu argumentaciju iz koje bi bilo moguće razlučiti na koji to točno način osporavana odredba nije u suglasnosti s odredbama Ustava koje su navedene u prijedlogu. Navodi ove vrste ne sadrže dovoljnu pravnu preciznost koja je pretpostavka učinkovitom ustavnom sudovanju. Kada bi prihvatio postupanje na temelju prijedloga koji počiva na ovoj vrsti navoda Ustavni sud bi de facto preuzeo zadaću predlagatelja. To nije primjereno ulozi Ustavnog suda kada postupa po prijedlogu podnesenom na temelju članka 38. stavka 1. Ustavnog zakona.
+6. U odnosu na prigovor predlagateljice u kojem upire na nesuglasnost osporene odredbe ZIDZoSOS-a/15 s odredbama drugih zakona, Ustavni sud napominje da je njegovo ustaljeno stajalište da Ustavni sud ne ocjenjuje međusobnu usklađenost zakona (odnosno općenito propisa jednake pravne snage). Stoga, navodi o međusobnoj neusklađenosti dvaju ili više zakona ne mogu biti predmet ustavnosudskog postupka u kojem se ocjenjuje suglasnost zakona s Ustavom.
+7. Slijedom navedenog, na temelju članka 32. Ustavnog zakona riješeno je kao u izreci.
