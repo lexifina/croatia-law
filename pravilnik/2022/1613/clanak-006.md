@@ -1,0 +1,2 @@
+# Članak 6.
+SPH koji su smanjili učestalost uzorkovanja prema Pravilniku o učestalosti uzorkovanja trupova, mljevenog mesa i mesnih pripravaka te uvjetima i načinu smanjenja broja elementarnih jedinica uzorka u objektima manjeg kapaciteta proizvodnje (»Narodne novine«, br. 30/10 i 38/12), a za Campylobacter spp. prema Uredbi 2073/2005 sa svim izmjenama i dopunama, nisu dužni provesti novo početno uzorkovanje, osim u slučaju nezadovoljavajućeg rezultata uzorka ili skupnog uzorka.

@@ -1,0 +1,4 @@
+## Broj elementarnih jedinica uzorka
+# Članak 3.
+(1) SPH koji proizvode mljeveno meso i mesne pripravke, a koji ispunjavaju zahtjeve propisane člankom 5. stavkom 3. Uredbe (EZ) 2073/2005 te čiji kapacitet proizvodnje mljevenog mesa ili mesnih pripravaka ne prelazi pet tona mjesečno, mogu u okviru plana uzimanja uzoraka smanjiti broj elementarnih jedinica pri uzorkovanju za ispitivanje na Salmonella spp. na način propisan u Prilogu 2. ovoga Pravilnika.
+(2) SPH koji proizvode mesne pripravke namijenjene za jelo sirove (tatarski biftek i sl.), a koji ispunjavaju zahtjeve propisane člankom 5. stavkom 3. Uredbe (EZ) 2073/2005 te čiji kapacitet proizvodnje ne prelazi 500 kg mjesečno, mogu u okviru plana uzimanja uzoraka smanjiti broj elementarnih jedinica pri uzorkovanju za ispitivanje na Salmonella spp. na način propisan u Prilogu 3. ovoga Pravilnika.

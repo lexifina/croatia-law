@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 17. Zakona o higijeni hrane i mikrobiološkim kriterijima za hranu (»Narodne novine«, broj 83/22), ministrica poljoprivrede uz suglasnost glavnog državnog inspektora donosi
