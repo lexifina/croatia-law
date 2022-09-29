@@ -1,0 +1,5 @@
+# Članak 2.
+Odredbe ovoga Pravilnika primjenjuju se na osobe koje su podnijele zahtjev za priznavanje inozemne stručne kvalifikacije za obavljanje regulirane profesije - psihoterapeut odnosno regulirane profesije - savjetodavni terapeut u svrhu poslovnog nastana u Republici Hrvatskoj (u daljnjem tekstu: kandidati) koje su:
+- državljani država članica Europske unije, država ugovornica Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije (u daljnjem tekstu: države članice) koji su stručne kvalifikacije stekli u državi ugovornici i Švicarskoj Konfederaciji, odnosno koji su obavili pripravnički staž izvan svoje matične države, odnosno u državi ugovornici Ugovora o Europskom gospodarskom prostoru i Švicarskoj Konfederaciji, a koji u Republici Hrvatskoj, kao osobe zaposlene kod određenog poslodavca ili osobe koje obavljaju samostalnu djelatnost, žele obavljati određenu reguliranu profesiju
+- državljani trećih zemalja koji su stručne kvalifikacije stekli u državama članicama
+- državljani država članica te trećih zemalja, koji su stručne kvalifikacije stekli izvan država članica, odnosno u trećim zemljama.

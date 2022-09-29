@@ -1,0 +1,4 @@
+# Članak 4.
+Komora će priznati stručnu kvalifikaciju propisanu za pristup i obavljanje regulirane profesije - psihoterapeut odnosno regulirane profesije - savjetodavni terapeut u Republici Hrvatskoj ako kandidat dostavi dokaz o stručnoj kvalifikaciji na temelju kojeg u državi članici ostvaruje pravo pristupa profesiji psihoterapeut odnosno savjetodavni terapeut, obavljanju te profesije, odnosno priprema ga za obavljanje profesije psihoterapeut odnosno savjetodavni terapeut, i to:
+(a) koji je izdalo nadležno tijelo države članice i
+(b) kojim se potvrđuje da je uspješno završio program osposobljavanja i usavršavanja, koji je sastavni dio formalnih programa obrazovanja, odnosno izvan njega, na području države članice i koji je priznat u toj državi članici kao istovjetna razina stručne kvalifikacije.

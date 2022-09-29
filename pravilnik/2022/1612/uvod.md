@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 3., članka 18. stavka 10. i članka 84. stavka 5. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj 82/15, 70/19 i 47/20) i članka 18. stavka 3. Zakona o djelatnosti psihoterapije (»Narodne novine«, broj 18/22) ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
