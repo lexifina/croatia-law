@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 1. točke 10. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12 i 68/18) i članka 29. Zakona o energiji (»Narodne novine«, broj 120/12, 14/14, 102/15 i 68/18), Hrvatska energetska regulatorna agencija je na 30. sjednici Upravnog vijeća održanoj 14. rujna 2022. donijela
