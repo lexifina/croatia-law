@@ -1,0 +1,8 @@
+## Obuhvat primjene Odluke
+# Članak 4.
+(1) Plan oporavka u kojem se utvrđuju mjere za poboljšanje financijskoga položaja za situacije ozbiljnoga financijskog poremećaja dužna je izraditi i Hrvatskoj narodnoj banci dostaviti:
+1) kreditna institucija koja nije dio grupe kreditnih institucija u EU-u ni dio grupe kreditnih institucija u RH, i to na pojedinačnoj osnovi
+2) matična kreditna institucija u EU-u sa sjedištem u RH i to za svoju grupu kreditnih institucija u RH na konsolidiranoj osnovi
+3) kreditna institucija koja je članica grupe kreditnih institucija u EU-u i to na pojedinačnoj ili potkonsolidiranoj osnovi, ako je tako odlučeno u skladu s člankom 154.c Zakona o kreditnim institucijama i naloženo rješenjem Hrvatske narodne banke i
+4) kreditna institucija koja je isključena iz grupe kreditnih institucija u RH na temelju članka 19. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (SL L 176, 27. 6. 2013., u nastavku teksta: Uredba (EU) br. 575/2013) kako je posljednji put izmijenjena Uredbom 2019/2160 Europskog parlamenta i Vijeća od 27. studenoga 2019. o izmjeni Uredbe (EU) br. 575/2013 u pogledu izloženosti u obliku pokrivenih obveznica (SL L 328, 18. 12. 2019.) i to na pojedinačnoj osnovi.
+(2) Plan oporavka koji kreditna institucija iz točaka 2. i 3. stavka 1. ovoga članka izrađuje za svoju grupu kreditnih institucija u RH odnosi se na sve članice grupe, a sadržava pripremne mjere i mjere oporavka čija se provedba zahtijeva na razini matične kreditne institucije, ali i svakoga društva kćeri pojedinačno (u nastavku teksta: plan oporavka za grupu).
