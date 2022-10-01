@@ -1,0 +1,1 @@
+Na temelju članka 88. stavka 4. Zakona o znanstvenoj djelatnosti i visokom obrazovanju (»Narodne novine«, broj 123/03, 105/04, 174/04, 2/07 - OUSRH, 46/07, 45/09, 63/11, 94/13, 139/13, 101/14 - O i RUSRH, 60/15 - OUSRH i 131/17), ministar znanosti i obrazovanja (u daljnjem tekstu: Ministar) donosi
