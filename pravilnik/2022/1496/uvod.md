@@ -1,0 +1,1 @@
+Na temelju članka 75. stavka 18. Zakona o službenim kontrolama i drugim službenim aktivnostima koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja (»Narodne novine«, broj 52/21), glavni državni inspektor donosi
