@@ -1,0 +1,5 @@
+# Članak 4.
+Studenti iz članka 3. ovoga pravilnika mogu se natjecati za dodjelu državnih stipendija u sljedećim kategorijama:
+1. D-1 - studenti koji su djeca osoba poginulih, umrlih i nestalih pod okolnostima iz članaka 6., 7. i 8. Zakona o zaštiti vojnih i civilnih invalida rata te djeca mirnodopskih vojnih i civilnih invalida rata čije je oštećenje nastalo pod okolnostima iz članaka 6., 7. i 8. istog zakona, mirnodopski vojni i civilni invalidi rata čije je oštećenje organizma nastalo pod okolnostima iz članaka 6., 7. i 8. istog zakona; djeca civilnih osoba poginulih, umrlih ili nestalih u Domovinskom ratu, djeca civilnih invalida iz Domovinskog rata i civilni invalidi iz Domovinskog rata iz članka 45. Zakona o civilnim stradalnicima iz Domovinskog rata;
+2. E - studenti slabijega socio-ekonomskoga statusa;
+3. P - studenti s invaliditetom i studenti koji su pod skrbništvom ili su kao djeca bili pod skrbništvom ili im je priznato pravo na socijalnu uslugu smještaja ili im je kao djeci bilo priznato pravo na socijalnu uslugu smještaja na temelju propisa iz područja socijalne skrbi, koji su upisani na poslijediplomske sveučilišne studije.
