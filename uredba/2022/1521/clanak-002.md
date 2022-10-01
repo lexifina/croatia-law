@@ -1,0 +1,2 @@
+# Članak 2.
+Korisnici prava na naknadu za ugroženog kupca energenata kojima je na dan stupanja na snagu ove Uredbe priznato pravo na naknadu za ugroženog kupca energenata u visini utvrđenoj člankom 2. stavkom 2. Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad (»Narodne novine«, broj 31/22.), od dana stupanja na snagu ove Uredbe naknadu ostvaruju u visini utvrđenoj ovom Uredbom.
