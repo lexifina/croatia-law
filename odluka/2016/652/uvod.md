@@ -1,1 +1,0 @@
-Na temelju članka 11. stavka 1. točke 10. Zakona o regulaciji energetskih djelatnosti (»Narodne novine«, broj 120/12), članka 29. Zakona o energiji (»Narodne novine«, broj 120/12, 14/14 i 102/15) i članka 88. Zakona o tržištu plina (»Narodne novine«, broj 28/13 i 14/14), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 11. ožujka 2016. donijela
