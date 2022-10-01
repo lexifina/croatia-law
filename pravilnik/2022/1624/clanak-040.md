@@ -1,0 +1,5 @@
+## 5.6. SOCIJALNO MENTORSTVO
+# Članak 40.
+(1) Socijalno mentorstvo uključuje: stručnu pomoć dugotrajno nezaposlenoj osobi koja je korisnik zajamčene minimalne naknade, djetetu korisnika zajamčene minimalne naknade, osobi s invaliditetom, korisniku kojem prestaje pravo na uslugu smještaja ili organiziranog stanovanja, korisniku koji je žrtva trgovanja ljudima te korisniku nakon izvršenja kazne zatvora, usmjerenu na njihovo osnaživanje za radnu aktivaciju i aktivno sudjelovanje u društvu u skladu s vlastitim mogućnostima i/ili potrebama u cilju jačanju snaga i sposobnosti korisnika za uspješnije rješavanje nepovoljnih životnih prilika i bolju integraciju u zajednicu u kojoj živi.
+(2) Aktivnosti iz stavka 1. ovoga članka prema procjeni voditelja slučaja provode stručni radnici iz članka 21. stavka 2. točke 1., 3. - 5. ovoga Pravilnika s dodatnom izobrazbom iz područja socijalnog mentorstva.
+(3) Aktivnosti iz stavka 1. ovoga članka provode se u vremenskom mjerilu po jedinici pružene usluge u trajanju od 60 minuta u minimalno 10 strukturiranih susreta mentora i mentorirane osobe u vremenskom trajanju od 6 do 8 mjeseci.

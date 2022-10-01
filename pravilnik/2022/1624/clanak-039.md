@@ -1,0 +1,10 @@
+## 5.5. PSIHOSOCIJALNO SAVJETOVANJE
+# Članak 39.
+(1) Psihosocijalno savjetovanje uključuje: posebne stručne postupke i aktivnosti kojima se korisniku pomaže otkloniti teškoće u funkcioniranju u različitim područjima života s naglaskom na ponašajne, emocionalne, interpersonalne, socijalne, obrazovne, razvojne i organizacijske aspekte života.
+(2) Temelji se na terapijskom odnosu jedne ili više osoba i jednog ili više psihoterapeuta ili savjetodavnih terapeuta i procesu tijekom kojega se radi na smanjivanju aktualnih teškoća i pronalaženju najboljeg rješenja ili prevladavanju kriznih situacija u skladu s potrebama korisnika kroz poboljšanje vještina komunikacije, jačanje samopoštovanja, promicanje promjene ponašanja.
+(3) Aktivnosti iz stavka 1. ovoga članka mogu pružati stručni radnici iz članka 21. stavka 2. točke 1., 3., 4. i 5. koji imaju:
+- dodatnu izobrazbu u području psihosocijalnog savjetovanja u trajanju od minimalno 100 sati i praksu pod nadzorom mentora u trajanju od 20 sati ili
+- završeno specijalizirano psihoterapijsko školovanje u trajanju od najmanje dvije, odnosno četiri godine na nekom od psihoterapijskih pravaca ili ECP-a i odobrenje nadležne komore za samostalan rad prema posebnim propisima kojima se regulira djelatnost savjetodavnog terapeuta i psihoterapeuta.
+(4) Stručnim radnicima iz stavka 3. podstavka 1. ovoga članka koji nemaju iskustva u području psihosocijalnog savjetovanja pružatelj usluge dužan je osigurati podršku od strane mentora s minimalnim trogodišnjim iskustvom u području psihosocijalnog savjetovanja u trajanju od godinu dana.
+(5) Stručni radnici iz stavka 3. podstavka 1. ovoga članka koji pružaju uslugu psihosocijalnog savjetovanja imaju obvezu kontinuiranog stručnog usavršavanja za stjecanje kompetencija vezanih uz psihosocijalno savjetovanje u skladu sa standardima nadležnih strukovnih komora.
+(6) Aktivnosti iz stavka 1. ovoga članka provode se u vremenskom mjerilu po jedinici pružene usluge u trajanju od 60 minuta ukoliko se usluga provodi individualno ili 120 minuta grupno, u trajanju do šest mjeseci, a iznimno i dulje, još dva mjeseca nakon isteka roka od 6 mjeseci.

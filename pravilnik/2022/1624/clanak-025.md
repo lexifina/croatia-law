@@ -1,0 +1,11 @@
+## 3.4. POMOĆNO-TEHNIČKI POSLOVI
+# Članak 25.
+(1) Pružatelj usluga obvezan je osigurati održavanje unutarnjeg i vanjskog prostora i opreme, osobne odjeće i obuće te posteljnog rublja.
+(2) U okviru usluga smještaja i boravka ako se provodi kod pružatelja usluga, obavljanje poslova iz stavka 1. ovoga članka osigurava pružatelj usluge, a korisnici se uključuju sukladno mogućnostima.
+(3) U okviru usluge savjetovanja, stručne procjene, psihosocijalnog savjetovanja, socijalnog mentorstva, obiteljske medijacije, psihosocijalnog tretmana radi prevencije nasilničkog ponašanja, psihosocijalne podrške, rane razvojne podrške ako se provode kod pružatelja usluga, obavljanje poslova iz stavka 1. ovoga članka osigurava pružatelj usluge.
+(4) U okviru usluge organiziranog stanovanja obavljanje poslova iz stavka 1. ovoga članka provode korisnici uz podršku zaposlenih radnika propisanih u Prilogu 2. Katalog pomoćno-tehničkih poslova osim za usluge organiziranog stanovanja uz sveobuhvatnu podršku, kada obavljanje poslova iz stavka 1. ovoga članka osigurava pružatelj usluge, a korisnici se uključuju sukladno mogućnostima.
+(5) U okviru usluga smještaja i organiziranog stanovanja za osobe ovisne o alkoholu, drogama, kockanju i drugim oblicima ovisnosti, te u okviru smještaja za odrasle osobe žrtve nasilja u obitelji i odrasle osobe žrtve trgovanja ljudima, beskućnike, poslove iz stavka 1. ovoga članka u potpunosti obavljaju korisnici.
+(6) U okviru usluga smještaja i organiziranog stanovanja za trudnicu ili roditelja s djetetom do godine dana života, poslove iz stavka 1. ovoga članka osigurava pružatelj usluge, a korisnici se uključuju sukladno mogućnostima.
+(7) Poslove iz stavka 1. ovoga članka mogu obavljati radnici navedeni u članku 23. točki 18., 20. i 21. ovoga Pravilnika.
+(8) U normativ propisan u Prilogu 2. Katalog pomoćno-tehničkih poslova koji se odnosi na obavljanje poslova čišćenja računa se samo površina prostora koji samostalno čisti zaposleni radnik, a ako poslove čišćenja obavlja uz pomoć korisnika, tada se površina umanjuje za 50 %.
+(9) Normativ propisan u Prilogu 2. Katalog pomoćno-tehničkih poslova koji se odnosi na obavljanje poslova tehničkog održavanja zgrade i opreme primjenjuje se jednako na zgradu ili više zgrada na istoj lokaciji ili u neposrednoj blizini u kojoj se pružaju usluge.

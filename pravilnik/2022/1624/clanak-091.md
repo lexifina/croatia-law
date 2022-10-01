@@ -1,0 +1,2 @@
+# Članak 91.
+Pružatelj usluga može, sukladno individualnim potrebama korisnika, u provedbi pojedinih usluga odstupiti najviše 30% od vremenskog mjerila po jedinici pružene usluge propisanog člankom 37. stavkom 4., člankom 39. stavkom 6., člankom 40. stavkom 3., člankom 41. stavkom 4., člankom 42. stavkom 4., člankom 43. stavkom 7., člankom 44. stavkom 5., člankom 45. stavkom 3., člankom 47. stavkom 3., člankom 48. stavkom 3., člankom 49. stavkom 3. i člankom 50. stavkom 3. ovoga Pravilnika.
