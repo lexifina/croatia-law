@@ -1,0 +1,2 @@
+# Članak 3.
+Ako su do stupanja na snagu ovoga Pravilnika za 2022. djelomično ili u cijelosti iskorišteni neoporezivi iznosi iz članka 7. stavka 2. r.br. 5., 14., 18., 32. i 34. i članka 22. stavka 3. točke 7. Pravilnika o porezu na dohodak (»Narodne novine«, br. 10/17, 128/17, 106/18, 1/19, 80/19, 1/20, 74/20, 1/21 i 102/22), za 2022. se može neoporezivo isplatiti samo razlika između neoporezivih iznosa iz članka 1. stavka 1. r.br. 5., 14., 18., 32. i 34. i članka 2. stavka 2. ovoga Pravilnika i neoporezivog iznosa iskorištenog do dana stupanja na snagu ovoga Pravilnika.
