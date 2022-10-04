@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o proračunu (»Narodne novine«, broj 144/21), ministar gospodarstva i održivog razvoja, uz prethodno dobivenu suglasnost ministra financija (klasa: 011-01/22-05/203; urbroj: 513-05-01-22-3) od 12. srpnja 2022. godine, donosi
