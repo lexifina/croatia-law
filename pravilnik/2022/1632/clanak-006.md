@@ -1,0 +1,2 @@
+# Članak 6.
+Mjere očuvanja propisane Prilogom ovoga Pravilnika, kao i one objavljene na službenim stranicama Ministarstva, provode se u okviru planskih dokumenata gospodarenja prirodnim dobrima, dokumenata prostornog uređenja, planova upravljanja zaštićenim područjem i/ili područjem ekološke mreže, planova upravljanja strogo zaštićenim vrstama te kod provedbe zahvata i/ili aktivnosti koji bi mogli utjecati na ciljeve očuvanja radi postizanja kojih su mjere očuvanja propisane.
