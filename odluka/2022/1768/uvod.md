@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17 i 14/19) i na temelju članka 11.a stavka 1. Pravilnika o obavljanju gospodarskog ribolova na moru ronjenjem (»Narodne novine«, broj 30/21, 72/21, 53/22 i 99/22), ministrica poljoprivrede donosi
