@@ -1,0 +1,2 @@
+# Članak 7.
+Broj stanovnika određene digitalne regije za pokrivanje uslugom digitalne televizije ili radija ili područje pokrivanja za frekvenciju ili više radijskih frekvencija koje čine zasebnu koncesiju utvrđuje se u tehničkim parametrima koje utvrđuje Hrvatska regulatorna agencija za mrežne djelatnosti (HAKOM) za svako zasebno koncesijsko područje koje čini jedna ili više radijskih frekvencija ili za digitalnu regiju za pokrivanje uslugom digitalne televizije ili radija.

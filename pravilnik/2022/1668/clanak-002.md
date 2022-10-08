@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Naknada iz članka 1. stavka 1. točke 1. ovog Pravilnika prihod je Republike Hrvatske i plaća se u korist Državnog proračuna. Obveznik naknade iz članka 1. stavka 1. točke 1. ovog Pravilnika je ponuditelj čija je ponuda odabrana kao najpovoljnija u postupku koji se vodi na temelju obavijesti o namjeri davanja koncesije.
+(2) Naknada iz članka 1. stavka 1. točke 2. ovog Pravilnika prihod je Agencije za elektroničke medije (dalje u tekstu: Agencija) i plaća se u korist Agencije. Obveznik naknade iz članka 1. stavka 1. točke 2. ovog Pravilnika je svaki podnositelj ponude na obavijest o namjeri davanja koncesije.

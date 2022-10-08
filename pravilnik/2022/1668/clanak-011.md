@@ -1,0 +1,7 @@
+# Članak 11.
+(1) Sukladno Zakonu o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine« br. 57/22., 88/22), naknade iz članka 4., 5. i 10. ovog Pravilnika novčani iznosi koji se moraju platiti ili obračunati preračunavaju se sukladno Općim pravilima za preračunavanje i zaokruživanje iz članka 14. tog Zakona, uz primjenu fiksnog tečaja konverzije od 7,53450 za 1 EURO, i primjenu matematičkih pravila zaokruživanja iz članka 14. stavka 3. tog Zakona; tako da se:
+- fiksna naknada iz članka 4. ovog Pravilnika od 500,00 kn na svakih 50.000 stanovnika iskazuje i plaća kao naknada od 66,36 EUR na svakih 50.000 stanovnika,
+- varijabilni dio naknade koja se plaća sukladno članku 5. ovog Pravilnika i koju pružatelji medijskih usluga televizije i radija plaćaju na iznos ostvarenog ukupnog godišnjeg bruto prihoda od obavljanja djelatnosti pružanja medijskih usluga televizije i radija iznad 5.000.000,00 kn, plaća se na iznos ostvarenog godišnjeg bruto prihoda od 663.614,04 EUR.
+- naknada za podnošenje ponude iz članka 10. ovog Pravilnika od 3.000,00 kn iskazuje se i plaća kao naknada od 398,17 EUR.
+(2) Stupanjem na snagu ovog Pravilnika prestaje vrijediti Pravilnik o visini i načinu plaćanja naknada (»Narodne novine« br. 93/13., 111/21.).
+(3) Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbe članka 11. stavka 1., koji stupa na snagu 1. siječnja 2023.
