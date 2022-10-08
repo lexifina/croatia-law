@@ -1,0 +1,2 @@
+# Članak 15.
+Danom stupanja na snagu ovoga Pravilnika prestaju važiti Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije te načinu i rokovima za dostavu izvješća centra za socijalnu skrb i podružnice (»Narodne novine«, br. 66/15.), Pravilnik o sadržaju zbirke podataka, čuvanju, evidenciji i dokumentaciji (»Narodne novine«, br. 66/15.) i Pravilnik o vođenju evidencije i dokumentacije pružatelja socijalnih usluga, te načinu i rokovima za dostavu izvješća (»Narodne novine«, br. 100/15. i 51/21.).
