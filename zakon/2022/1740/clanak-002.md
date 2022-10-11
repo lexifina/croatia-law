@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 13. stavku 1. iza riječi: »ugovora« zarez i riječi: »izraženih u odgovarajuće vrijednosti u kunama sukladno važećoj Komunikaciji Europske komisije objavljenoj u Službenom listu Europske unije (europski prag)« brišu se.
+U stavku 2. iza riječi: »2009/81/EZ« zarez i riječi: »izraženih u odgovarajuće vrijednosti u kunama sukladno važećoj Komunikaciji Europske komisije objavljenoj u Službenom listu Europske unije (europski prag)« brišu se.
+Stavak 3. mijenja se i glasi:
+»(3) U slučaju nabave robe iz Priloga III.B ovoga Zakona od strane javnog naručitelja koji djeluje u području obrane i sigurnosti, nabava velike vrijednosti je nabava čija je procijenjena vrijednost jednaka vrijednosti ili veća od vrijednosti europskih pragova iz članka 4. stavka 1. točke (b) Direktive 2014/24/EU, dok u slučaju nabave proizvoda koji nisu na tom popisu od strane javnih naručitelja iz Priloga I. ovoga Zakona koji djeluje u području obrane i sigurnosti, nabava velike vrijednosti je nabava čija je procijenjena vrijednost jednaka vrijednosti ili veća od vrijednosti europskih pragova iz članka 4. stavka 1. točke (c) Direktive 2014/24/EU.«.
