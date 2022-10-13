@@ -1,0 +1,12 @@
+# Članak 16.
+(1) Agencija priznaje službeni nadzor i kategoriju u skladu s člankom 5. ovoga Pravilnika te izdati Certifikat o sjemenu za sjeme povrća:
+- koje je proizvedeno izravno od osnovnog ili certificiranog sjemena službeno certificiranog u jednoj ili više država članica Zajednice ili u trećoj zemlji kojoj je priznata istovjetnost u skladu s odredbama članka 31. stavka 3. Zakona, ili je proizvedeno izravnim križanjem osnovnog sjemena službeno certificiranog u državi članici Europske unije s osnovnim sjemenom službeno certificiranim u trećoj zemlji, i
+- koje je požeto u drugoj državi članici Europske unije, ako je to sjeme prošlo službeni nadzor i udovoljava uvjetima propisanim za tu kategoriju u Dodatku 1. i ako je službeno ispitivanje pokazalo da udovoljava uvjetima propisanim za istu kategoriju u Dodatku 2. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(2) Agencija priznaje službeni nadzor i kategoriju osnovno sjeme za sjeme povrća koje je proizvedeno izravno iz službeno certificiranog sjemena proizvedenog od generacija koje prethode osnovnom sjemenu, ako to sjeme udovoljava uvjetima propisanim za tu kategoriju.
+(3) Sjeme povrća koje je požeto u zemlji članici Europske unije i koje je namijenjeno za certifikaciju u skladu sa stavkom 1. ovoga članka mora biti:
+- pakirano u skladu s člankom 17. stavak 3. ovoga Pravilnika i označeno Certifikatom o sjemenu na pakiranju u skladu s Dodatkom 5. dio A. i B. koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio
+- označeno službenim pratećim dokumentom (Certifikatom o sjemenu uz otpremnicu) u skladu sa Dodatkom 5. dio C. ovoga Pravilnika.
+(4) Agencija priznaje službeni nadzor i kategoriju certificirano sjeme u skladu s člankom 5. ovoga Pravilnika te izdati Certifikat o sjemenu za sjeme povrća:
+- koje je proizvedeno izravno od osnovnog ili certificiranog sjemena službeno certificiranog u jednoj ili više država članica Zajednice ili u trećoj zemlji kojoj je kojoj je priznata istovjetnost u skladu s odredbama članka 31. stavka 3. Zakona ili je proizvedeno izravnim križanjem osnovnog sjemena službeno certificiranog u državi članici Zajednice sa osnovnim sjemenom službeno certificiranim u trećoj zemlji, i
+- koje je požeto u trećoj državi
+- ako je to sjeme prošlo službeni nadzor i udovoljava uvjetima o istovjetnosti propisanim člankom 31. stavkom 3. Zakona za određenu kategoriju i ako je službeno ispitivanje pokazalo da udovoljava uvjetima propisanim za istu kategoriju u Dodatku 2. ovoga Pravilnika.

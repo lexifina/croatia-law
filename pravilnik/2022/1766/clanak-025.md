@@ -1,0 +1,5 @@
+# Članak 25.
+(1) Sitna pakiranja moraju biti plombirana na način da je onemogućeno njihovo otvaranje bez oštećenja plombe ili ostavljanja traga oštećenja na pakiranju ili Certifikatu o sjemenu na pakiranju ili Certifikatu proizvođača.
+(2) Iznimno od članka 19. stavka 1. ovoga Pravilnika pakiranja sjemena povrća kategorije standard i sitna pakiranja sjemena kategorije certificirano moraju se označiti Certifikatom proizvođača na jednom od službenih jezika Europske unije, koji je otisnut, žigom utisnut ili naljepnicom nalijepljen na pakiranje u skladu s Dodatkom 4. dio B. Certifikat proizvođača (sjeme kategorije standard i sitna pakiranja sjemena kategorije certificirano) ovoga Pravilnika.
+(3) U slučaju da se radi o prozirnom pakiranju za sitna pakiranja iz stavka 1. ovoga članka Certifikat proizvođača može se staviti s unutarnje strane pakiranja pod uvjetom da se izvana može pročitati.
+(4) Dobavljač vodi evidenciju o označavanju iz stavka 2. ovoga članka s podacima o količinama sjemena uključujući broj i veličinu pakiranja svake partije sjemena.
