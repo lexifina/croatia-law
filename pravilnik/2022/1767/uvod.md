@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. i članka 56.a stavka 4. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/17, 130/17 i 14/19) i u skladu člankom 59. Zakona o zadrugama (»Narodne novine«, broj 34/11, 125/13, 76/14, 114/18 i 98/19) ministrica poljoprivrede donosi
