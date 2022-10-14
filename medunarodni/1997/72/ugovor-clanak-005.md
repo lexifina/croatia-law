@@ -1,3 +1,0 @@
-# Članak 5.
-Naknada za gubitke
-Prema ulagateljima jedne ugovorne stranke čija ulaganja pretrpe gubitke na ozemlju druge ugovorne stranke zbog rata, oružanog sukoba, izvanrednog stanja ili drugih događaja koje međunarodno pravo jednako tretira, ta druga ugovorna stranka mora primijeniti postupak, kad se radi o povratu imovine, odštete, naknade ili drugog vrijednosnog namirenja, koji neće biti manje povoljan od postupka što ga primjenjuje prema svojim ulagateljima ili ulagateljima neke treće države, već prema tome što je povoljnije. Svako plaćanje po ovom članku mora se izvršiti bez odlaganja u slobodno prenosivoj konvertibilnoj valuti.
