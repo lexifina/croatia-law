@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 9. Zakona o zaštiti potrošača (»Narodne novine«, broj 19/22) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
