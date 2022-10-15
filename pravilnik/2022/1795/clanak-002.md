@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Pravilnikom u hrvatsko zakonodavstvo preuzima se Direktiva 2011/83/EU Europskog parlamenta i Vijeća od 25. listopada 2011. o pravima potrošača, izmjeni Direktive Vijeća 93/13/EEZ i Direktive 1999/44/EZ Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive Vijeća 85/577/EEZ i Direktive 97/7/EZ Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 304, 22. 11. 2011.).
