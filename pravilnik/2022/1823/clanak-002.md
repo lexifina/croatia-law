@@ -1,0 +1,10 @@
+# Članak 2.
+Potpora iz Programa dodjeljuje se u skladu s:
+a) Zakonom o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 110/21.)
+b) Zakonom o biljnom zdravstvu (»Narodne novine« br. 127/19 i 83/22.)
+c) Pravilnikom o stavljanju na tržište reprodukcijskog sadnog materijala i sadnica namijenjenih za proizvodnju voća (»Narodne novine« br. 9/17 i 39/20.)
+d) Uredbom Komisije (EU) br. 702/2014, (SL L 193, 25. lipnja 2014.), o proglašenju određenih kategorija potpora u sektoru poljoprivrede i šumarstva te u ruralnim područjima spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (poglavljem I. i člankom 31.)
+e) Uredbom Komisije (EU) 2019/289 оd 19. veljače 2019. o izmjeni Uredbe (EU) br. 702/2014 o proglašenju određenih kategorija potpora u sektoru poljoprivrede i šumarstva te u ruralnim područjima spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (SL L 48, 20. 2. 2019.)
+f) Uredbom Komisije (EU) 2020/2008 od 8. prosinca 2020. o izmjeni uredbi (EU) br. 702/2014, (EU) br. 717/2014 i (EU) br. 1388/2014 u pogledu njihova razdoblja primjene i ostalih relevantnih izmjena (SL L 414, 9. 12. 2020.) (u daljnjem tekstu: Uredba o izuzetoj državnoj potpori)
+g) Provedbenom uredbom Komisije (EU) 2019/2072 оd 28. studenoga 2019. o utvrđivanju jedinstvenih uvjeta za provedbu Uredbe (EU) 2016/2031 Europskog parlamenta i Vijeća u pogledu zaštitnih mjera protiv organizama štetnih za bilje te o stavljanju izvan snage Uredbe Komisije (EZ) br. 690/2008 i izmjeni Provedbene uredbe Komisije (EU) 2018/2019 (SL L 319, 10. 12. 2019.)
+h) Uredbom (EU) 2016/2031 Europskog parlamenta i Vijeća od 26. listopada 2016. o zaštitnim mjerama protiv organizama štetnih za bilje i o izmjeni uredaba (EU) br. 228/2013, (EU) br. 652/2014 i (EU) br. 1143/2014 Europskog parlamenta i Vijeća te stavljanju izvan snage direktiva Vijeća 69/464/EEZ, 74/647/EEZ, 93/85/EEZ, 98/57/EZ, 2000/29/EZ, 2006/91/EZ i 2007/33/EZ (SL L 317, 23. 11. 2016.).

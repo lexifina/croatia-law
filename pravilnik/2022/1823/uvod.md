@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 5. Zakona o poljoprivredi (»Narodne novine« br. 118/18, 42/20 i 127/20.) i Odluke Ustavnog suda Republike Hrvatske broj: U-IIIA-5636/2020 od 15. travnja 2021. (»Narodne novine« broj 52/21.) ministrica poljoprivrede donosi
