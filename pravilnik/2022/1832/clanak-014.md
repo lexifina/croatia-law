@@ -1,0 +1,5 @@
+## Programska osnova
+# Članak 14.
+(1) Agencija utvrđuje ispunjavanje programskih uvjeta i ograničenja u radijskim ili televizijskim programima nakladnika i pružatelja medijskih usluga putem satelitskog, internetskog, kabelskog i drugih oblika prijenosa audiovizualnog i/ili radijskog programa koji su uključeni u postupak stručnog nadzora. Programski sadržaji definiraju se u skladu s klasifikacijom programskih vrsta navedenoj u Prilogu 2 ovog Pravilnika, a koja je osnova za izračun udjela programskih vrsta u programskoj osnovi.
+(2) Nakladnik radija ili televizije i pružatelj medijskih usluga putem satelitskog, internetskog, kabelskog i drugih oblika prijenosa audiovizualnog i/ili radijskog programa dužan je dostaviti Agenciji klasifikaciju svih programskih sadržaja u propisanom obliku očevidnika za zatraženi vremenski period emitiranog programa.
+(3) Snimke emitiranog programa i pripadajuće im očevidnike čije je kopije pružatelj medijskih usluga dostavio Agenciji za potrebe stručnog nadzora, nakladnik treba čuvati do okončanja nadzornog postupka koji završava odlukom Vijeća za elektroničke medije.

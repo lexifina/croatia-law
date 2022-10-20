@@ -1,0 +1,4 @@
+# Članak 16.
+(1) U vlastitu proizvodnju radijskog nakladnika može se ubrojiti najviše 25 % dnevnog objavljivanja hrvatske glazbe emitirane izvan emisija. Glazba koja se emitira u sklopu pojedinih cjelovitih emisija vlastite proizvodnje određenih najavnom i odjavnom špicom koje pripadaju određenoj programskoj vrsti, izuzev glazbenog programa, u cijelosti je uključena u trajanje tih cjelina.
+(2) Ako udio hrvatske glazbe čini najmanje 40 % dnevnog objavljivanja glazbenog programa predviđenog programskom shemom radijskog programa, od čega je najmanje 30 % objavljeno između 6 i 22 sata, u udio vlastite proizvodnje može se ubrojiti najviše 30 % vremena dnevnog objavljivanja u kojem se izvodi hrvatska glazba.
+(3) Detaljna mjerila i definicije za određivanje vlastite proizvodnje objavljena su u Pravilniku o detaljnim mjerilima i definicijama za određivanje audiovizualnih ili radijskih emisija koje se smatraju vlastitom proizvodnjom.
