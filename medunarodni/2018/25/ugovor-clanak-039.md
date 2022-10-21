@@ -1,0 +1,6 @@
+# Članak 39.
+KONZULARNA ZAŠTITA
+1. Australija je suglasna da diplomatska i konzularna tijela svih zastupljenih država članica mogu ostvarivati konzularnu zaštitu[1](Australija može pristati na to da se u ovom članku umjesto izraza »konzularne funkcije« upotrebljava izraz »konzularna zaštita« pod uvjetom da su tim izrazom obuhvaćene funkcije iz članka 9. Direktive Vijeća (EU) 2015/637 od 20. travnja 2015. o mjerama koordinacije i suradnje za olakšavanje pružanja konzularne zaštite građanima Unije bez predstavništva u trećim zemljama te o stavljanju izvan snage Odluke 95/553/EZ te pod uvjetom da te funkcije uključuju izdavanje hitnih putovnica i/ili putnih isprava.) u Australiji u ime drugih država članica koje nemaju dostupno stalno predstavništvo u Australiji.
+2. Unija i države članice suglasne su da diplomatska i konzularna tijela Australije mogu ostvarivati konzularnu zaštitu u ime treće zemlje i da treće zemlje mogu ostvarivati konzularnu zaštitu u ime Australije u Uniji u mjestima u kojima Australija ili predmetna treća zemlja nema dostupno stalno predstavništvo.
+3. Svrha je stavaka 1. i 2. ukinuti sve zahtjeve za obavijest ili pristanak koji bi se inače mogli primjenjivati.
+4. Stranke su suglasne olakšati dijalog svojih nadležnih tijela o konzularnim poslovima.

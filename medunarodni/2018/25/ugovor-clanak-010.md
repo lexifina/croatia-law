@@ -1,0 +1,3 @@
+# Članak 10.
+SURADNJA U REGIONALNIM I MEĐUNARODNIM ORGANIZACIJAMA
+Stranke se obvezuju surađivati razmjenom mišljenja i, prema potrebi, koordinacijom stajališta u međunarodnim i regionalnim organizacijama i forumima, uključujući UN i njegove specijalizirane agencije, Svjetsku trgovinsku organizaciju (»WTO«), skupinu G20 (»G20«), Odbor za financijsku stabilnost (»FSB«), Organizaciju za gospodarsku suradnju i razvoj (»OECD«), Grupu Svjetske banke i regionalne razvojne banke, Azijsko-europski sastanak (»ASEM«), Organizaciju za europsku sigurnost i suradnju (»OESS«), Regionalni forum ASEAN-a (»ARF«), Forum pacifičkih otoka (»PIF«) i Tajništvo Pacifičke zajednice.

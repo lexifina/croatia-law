@@ -1,0 +1,5 @@
+# Članak 32.
+PRAVNA SURADNJA
+1. Stranke uviđaju važnost međunarodnoga privatnog prava te pravne i pravosudne suradnje u građanskim i trgovačkim stvarima za podupiranje okruženja kojim se olakšavaju međunarodna trgovina i ulaganja te mobilnost ljudi. Stranke su suglasne jačati svoju suradnju, među ostalim pregovorima o međunarodnim sporazumima, poput onih donesenih u okviru Haške konferencije o međunarodnom privatnom pravu, te njihovom ratifikacijom i provedbom.
+2. Stranke su suglasne prema potrebi olakšavati i poticati arbitražno rješavanje međunarodnih građanskih i privatnih trgovačkih sporova u skladu s primjenjivim međunarodnim instrumentima.
+3. Kada je riječ o pravosudnoj suradnji u kaznenim stvarima, stranke unapređuju suradnju u području uzajamne pravne pomoći na temelju odgovarajućih međunarodnih instrumenata. Tobi, prema potrebi, moglo uključiti pristupanje odgovarajućim instrumentima UN-a i njihovu provedbu. Isto tako, prema potrebi može uključivati potporu odgovarajućim instrumentima Vijeća Europe, kao i suradnju između odgovarajućih australskih tijela i Eurojusta.

@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Okvirni sporazum između Europske unije i njezinih država članica, s jedne strane, i Australije, s druge strane, sastavljen u Manili 7. kolovoza 2017. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom i talijanskom jeziku.
