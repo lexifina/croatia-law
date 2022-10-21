@@ -1,0 +1,1 @@
+Na temelju članka 5.a Uredbe o otklanjanju poremećaja na domaćem tržištu energije (»Narodne novine«, br. 104/22. i 106/22.), Vlada Republike Hrvatske je na sjednici održanoj 19. listopada 2022. donijela
