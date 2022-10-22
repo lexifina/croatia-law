@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Za korisnike prava na status roditelja njegovatelja ili njegovatelja priznatog na temelju članka 312. Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22. i 46/22.) centar za socijalnu skrb dužan je uskladiti dan priznavanja prava sukladno članku 17. stavku 1. ovoga Zakona.
+(2) Za korisnike prava na naknadu za osobne potrebe priznatog na temelju članka 312. Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22. i 46/22.) centar za socijalnu skrb dužan je uskladiti dan priznavanja prava sukladno članku 17. stavku 2. ovoga Zakona.
+(3) Korisnik prava na status roditelja njegovatelja ili njegovatelja i prava na naknadu za osobne potrebe iz stavaka 1. i 2. ovoga članka ostvaruje priznato pravo i nakon stupanja na snagu ovoga Zakona, dok nadležno tijelo rješenjem ne uskladi dan priznavanja prava na temelju ovoga Zakona.
+(4) Za korisnike iz stavaka 1. i 2. ovoga članka centar za socijalnu skrb dužan je uskladiti dan priznavanja prava u roku od 60 dana od dana stupanja na snagu ovoga Zakona.

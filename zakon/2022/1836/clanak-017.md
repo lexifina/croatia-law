@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNA ODREDBA
+# Članak 17.
+(1) Korisniku prava na status roditelja njegovatelja ili njegovatelja priznatog na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) i Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22. i 46/22.) pravo na status roditelja njegovatelja ili njegovatelja priznaje se od dana stupanja na snagu Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22.).
+(2) Korisniku prava na uslugu smještaja ili organizirano stanovanje i prava na naknadu za osobne potrebe priznatih na temelju Zakona o socijalnoj skrbi (»Narodne novine«, br. 157/13., 152/14., 99/15., 52/16., 16/17., 130/17., 98/19., 64/20. i 138/20.) i Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22. i 46/22.) pravo na naknadu za osobne potrebe priznaje se od dana stupanja na snagu Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22.).
