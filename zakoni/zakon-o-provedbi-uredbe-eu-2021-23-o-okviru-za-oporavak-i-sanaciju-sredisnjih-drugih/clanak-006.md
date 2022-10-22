@@ -1,0 +1,4 @@
+## Ovlast Agencije za podnošenje prijedloga za otvaranje stečajnog postupka
+# Članak 6.
+(1) Otvaranje stečajnog postupka nad središnjom drugom ugovornom stranom može se pokrenuti samo na prijedlog Agencije, kao sanacijskog tijela središnje druge ugovorne strane, zbog razloga navedenih u članku 7. ovoga Zakona, ili uz prethodnu suglasnost Agencije u skladu s člankom 75. stavkom 3. Uredbe (EU) 2021/23.
+(2) Ako Agencija primijeni instrumente sanacije iz članka 27. stavka 1. točaka c) i d) Uredbe (EU) 2021/23, pri čemu se prenosi samo dio imovine, prava ili obveza središnje druge ugovorne strane u sanaciji, Agencija najkasnije do donošenja odluke o okončanju postupka sanacije, u odnosu na središnju drugu ugovornu stranu u kojoj je ostao nepreneseni dio imovine, prava i obveza, donosi odluku o podnošenju prijedloga za otvaranje stečajnog postupka iz članka 8. stavka 1. ovoga Zakona odnosno članka 15. ovoga Zakona.

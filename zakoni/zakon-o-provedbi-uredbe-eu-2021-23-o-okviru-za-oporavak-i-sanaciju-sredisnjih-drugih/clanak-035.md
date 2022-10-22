@@ -1,0 +1,4 @@
+## Posredni sanacijski nadzor
+# Članak 35.
+(1) Informacije koje su predmet posrednoga sanacijskog nadzora jesu izvješća koja subjekt iz članka 30. stavka 1. ovoga Zakona dostavlja u skladu s Uredbom (EU) 2021/23, delegiranim uredbama Europske komisije koje su usvojene temeljem Uredbe (EU) 2021/23 i podzakonskim propisima Agencije, pisana korespondencija s tim subjektom te svaka druga informacija, izjava ili izvješće koje na zahtjev Agencije dostavi taj subjekt, članovi uprave, nadzorni odbor, izvršni direktori te članovi upravnog odbora, ovisno o ustroju subjekta kao trgovačkog društva te zaposlenici subjekta iz članka 30. stavka 1. ovoga Zakona, kao i druge javno dostupne informacije, izvješća ili obavijesti povezane s tim subjektom.
+(2) Posredni sanacijski nadzor provode ovlašteni radnici Agencije.

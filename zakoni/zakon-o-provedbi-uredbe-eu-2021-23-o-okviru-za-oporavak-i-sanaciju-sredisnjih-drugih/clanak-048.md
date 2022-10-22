@@ -1,0 +1,15 @@
+## Ostali prekršaji vezano za oporavak i sanaciju središnje druge ugovorne strane
+# Članak 48.
+(1) Novčanom kaznom u iznosu od 20.000,00 do 1.000.000,00 kuna kaznit će se za prekršaj središnja druga ugovorna strana ako:
+1. ne postupi prema rješenju Agencije o izricanju mjera iz članka 17. stavka 2. ovoga Zakona, protivno obvezi iz članka 17. stavka 3. ovoga Zakona
+2. ne postupi prema rješenju Agencije o izricanju mjera iz članka 18. stavka 9. ovoga Zakona, protivno obvezi iz članka 18. stavka 10. ovoga Zakona
+3. u plan oporavka središnje druge ugovorne strane ne uključi okvir pokazateljâ utemeljenih na profilu rizičnosti središnje druge ugovorne strane, kojima se utvrđuju okolnosti u kojima se trebaju poduzeti mjere iz plana oporavka, na način kako je propisano člankom 9. stavkom 3. Uredbe (EU) 2021/23
+4. ne uspostavi odgovarajuće aranžmane za redovito praćenje pokazatelja utemeljenih na profilu rizičnosti središnje druge ugovorne strane iz članka 9. stavka 3. Uredbe (EU) 2021/23, a kako je predviđeno člankom 9. stavkom 4. Uredbe (EU) 2021/23
+5. ne izvijesti Agenciju o ishodu redovitog praćenja pokazatelja utemeljenih na profilu rizičnosti središnje druge ugovorne strane iz članka 9. stavka 4. Uredbe (EU) 2021/23 ili Agenciju ne izvijesti u rokovima koji su predviđeni za takvo izvještavanje
+6. ne obavijesti Agenciju bez odgode o svakoj odluci iz članka 9. stavka 6. Uredbe (EU) 2021/23 i njezinu obrazloženju, kad radi postizanja ciljeva postupka oporavka središnja druga ugovorna strana predlaže poduzimanje mjera predviđenih planom oporavka unatoč činjenici da nisu ispunjeni relevantni pokazatelji ili kada predlažu nepoduzimanje mjera predviđenih njihovim planom oporavka unatoč činjenici da su ispunjeni relevantni pokazatelji
+7. namjerava aktivirati svoj plan oporavka, a prethodno ne obavijesti Agenciju bez odgode o vrsti i razmjeru problema koje je utvrdila navodeći sve relevantne okolnosti i mjere oporavka ili druge mjere koje namjerava poduzeti kako bi se situacija riješila, kao i predviđeni vremenski okvir za ponovnu uspostavu svojeg financijskog zdravlja uporabom tih mjera, kako je predviđeno člankom 9. stavkom 7. Uredbe (EU) 2021/23
+8. je odlučila ne slijediti savjete odbora za rizike, a ne obavijesti bez odgode o tome Agenciju, kako je predviđeno člankom 9. stavkom 18. Uredbe (EU) 2021/23
+9. ne obavijesti Agenciju o svakoj promjeni pravne ili organizacijske strukture, njezina poslovanja ili financijskog položaja te o svakoj drugoj promjeni koja bi mogla stvoriti potrebu za izmjenom sanacijskog plana, a osobito ako značajno utječe na učinkovitost tog plana, kako je predviđeno člankom 12. stavkom 6. Uredbe (EU) 2021/23
+10. središnja druga ugovorna strana ne dostavi ili ne dostavi u propisanom roku Agenciji plan reorganizacije poslovanja, kako je propisano člankom 36. stavkom 1. Uredbe (EU) 2021/23
+11. dostavljeni plan reorganizacije poslovanja središnje druge ugovorne strane iz članka 36. Uredbe (EU) 2021/23 nema propisani sadržaj iz članka 37. Uredbe (EU) 2021/23.
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba pravne osobe novčanom kaznom u iznosu od 10.000,00 do 100.000,00 kuna.

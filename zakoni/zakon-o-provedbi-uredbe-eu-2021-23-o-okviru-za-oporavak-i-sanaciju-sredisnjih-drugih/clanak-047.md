@@ -1,0 +1,9 @@
+## Teži prekršaji vezano za oporavak i sanaciju središnje druge ugovorne strane
+# Članak 47.
+(1) Za prekršaj kaznit će se središnja druga ugovorna strana novčanom kaznom u iznosu koji je višekratnik broja 1000, a koja ne može biti veća od 10 % ukupnog prihoda koji je ostvarila u godini kada je počinjen prekršaj utvrđen službenim financijskim izvještajima za tu godinu ako:
+1. ne izradi plan oporavka kojim se predviđaju mjere koje središnja druga ugovorna strana treba poduzeti u slučaju događaja neispunjavanja obveza i događaja koji nije događaj neispunjavanja obveza ili njihove kombinacije, na način kako je propisano člankom 9. Uredbe (EU) 2021/23
+2. ne preispita, ne testira i, kada je to potrebno, ne ažurira svoj planove oporavka barem jednom godišnje i u svakom slučaju nakon svake promjene svoje pravne ili organizacijske strukture, ili poslovnog ili financijskog stanja, koja bi mogla bitno utjecati na te planove ili na drugi način uzrokovati potrebu da se planovi izmijene, na način kako je propisano člankom 9. stavkom 9. Uredbe (EU) 2021/23
+3. ne pruži Agenciji sve informacije potrebne za izradu planova sanacije, kako je propisano člankom 13. Uredbe (EU) 2021/23
+4. ne obavijesti Agenciju o tome da ta središnja druga ugovorna strana propada ili je vjerojatno da će propasti, kako je propisano člankom 70. stavkom 1. Uredbe (EU) 2021/23.
+(2) Iznimno od stavka 1. ovoga članka, ako je pravna osoba prekršajem iz stavka 1. ovoga članka ostvarila korist ili spriječila gubitak, a iznos tako ostvarene koristi ili spriječenog gubitka može se utvrditi, kaznit će se za prekršaj novčanom kaznom u iznosu dvostruko utvrđenog iznosa tako ostvarene koristi odnosno tako spriječenog gubitka, ako je taj iznos veći od propisanog najvećeg iznosa novčane kazne iz stavka 1. ovoga članka.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba pravne osobe novčanom kaznom u iznosu od 50.000,00 do 1.000.000,00 kuna.

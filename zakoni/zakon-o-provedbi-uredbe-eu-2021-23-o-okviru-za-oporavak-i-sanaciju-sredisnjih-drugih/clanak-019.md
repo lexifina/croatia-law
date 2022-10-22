@@ -1,0 +1,6 @@
+## Razmjena informacija i suradnja
+# Članak 19.
+(1) Agencija bez odgode obavješćuje Ministarstvo financija o odlukama donesenima na temelju Uredbe (EU) 2021/23.
+(2) Agencija je dužna pribaviti prethodnu suglasnost Ministarstva financija prije provedbe odluka donesenih na temelju Uredbe (EU) 2021/23 koje imaju izravan fiskalni učinak ili sistemske implikacije koje će vjerojatno imati izravan fiskalni učinak.
+(3) Kada su kreditne institucije sa sjedištem u Republici Hrvatskoj članovi sustava poravnanja kojim upravlja središnja druga ugovorna strana sa sjedištem u Republici Hrvatskoj, Agencija, kao sanacijsko tijelo središnje druge ugovorne strane, i Hrvatska narodna banka, kao sanacijsko tijelo kreditnih institucija, koje su članovi sustava poravnanja kojim upravlja središnja druga ugovorna strana sa sjedištem u Republici Hrvatskoj, pisanim sporazumom detaljnije uređuju međusobnu suradnju i razmjenu informacija.
+(4) Agencija, kao sanacijsko tijelo središnje druge ugovorne strane, može radi omogućavanja provedbe Uredbe (EU) 2021/23 sklopiti pisane sporazume sa sanacijskim i nadležnim tijelima iz drugih država članica i relevantnim tijelima trećih zemalja kojima detaljnije uređuje međusobnu suradnju i razmjenu informacija.
