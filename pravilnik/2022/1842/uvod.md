@@ -1,0 +1,1 @@
+Na temelju članka 115. stavka 12. Zakona o sudovima (»Narodne novine«, broj 28/13, 33/15, 82/15, 82/16, 67/18 i 21/22) i članka 129. stavka 4. Zakona o državnom odvjetništvu (»Narodne novine«, broj 67/18 i 21/22), ministar pravosuđa i uprave donosi
