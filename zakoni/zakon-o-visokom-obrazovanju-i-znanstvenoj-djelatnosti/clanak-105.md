@@ -1,0 +1,6 @@
+## Upravni nadzor
+# Članak 105.
+(1) Upravni nadzor nad provedbom ovoga Zakona obavlja Ministarstvo.
+(2) Ako Ministarstvo utvrdi da su opći akt ili pojedine njegove odredbe protivne ovom Zakonu ili na temelju njega donesenom drugom propisu, zatražit će od visokog učilišta odnosno znanstvenog instituta da ih uskladi s ovim Zakonom ili drugim propisom u roku od 30 dana. Ako visoko učilište odnosno znanstveni institut ne postupi prema traženju Ministarstva, Ministarstvo će obustaviti od izvršenja opći akt te Visokom upravnom sudu Republike Hrvatske podnijeti prijedlog za ocjenu zakonitosti općeg akta.
+(3) Ako Ministarstvo utvrdi nedostatke ili propuste u radu visokog učilišta odnosno znanstvenog instituta, zatražit će otklanjanje nedostataka ili propusta u roku od 60 dana. Ako visoko učilište odnosno znanstveni institut u postavljenom roku ne otkloni nedostatak ili propust u radu, protiv visokog učilišta odnosno znanstvenog instituta i odgovorne osobe u visokom učilištu odnosno znanstvenom institutu pokrenut će se prekršajni postupak.
+(4) Upravni nadzor nad zakonitošću rada i općih akata visokih učilišta iz članka 6. stavka 4. ovoga Zakona obavljaju ministarstvo nadležno za obranu, ministarstvo nadležno za unutarnje poslove odnosno ministarstvo nadležno za vanjske i europske poslove.

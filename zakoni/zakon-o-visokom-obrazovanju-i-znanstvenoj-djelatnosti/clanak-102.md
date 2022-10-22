@@ -1,0 +1,5 @@
+## Izvedbena proračunska komponenta
+# Članak 102.
+(1) Izvedbena proračunska komponenta obuhvaća sredstva državnog proračuna Republike Hrvatske koja se doznačuju javnom visokom učilištu odnosno javnom znanstvenom institutu na temelju uspješnosti ostvarivanja ciljeva i pokazatelja utvrđenih programskim ugovorom.
+(2) Javno visoko učilište odnosno javni znanstveni institut u pregovaračkom postupku utvrđuje strateške i posebne ciljeve i s njima povezane mjerljive pokazatelje ostvarivanja ciljeva te određuje početne i ciljne vrijednosti pokazatelja. Uz strateške i posebne ciljeve te s njima povezane mjerljive pokazatelje utvrđene u pregovaračkom postupku, javno visoko učilište odnosno javni znanstveni institut može predložiti i vlastite institucijske ciljeve i mjerljive pokazatelje.
+(3) Udio izvedbene proračunske komponente u financijskom planu javnog visokog učilišta odnosno javnog znanstvenog instituta ne može biti veći od 10 % iznosa osnovne proračunske komponente utvrđene programskim ugovorom.

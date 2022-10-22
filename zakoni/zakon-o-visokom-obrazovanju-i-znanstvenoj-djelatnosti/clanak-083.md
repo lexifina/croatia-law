@@ -1,0 +1,6 @@
+## Obuhvat znanstvene djelatnosti
+# Članak 83.
+(1) Znanstvena djelatnost u smislu ovoga Zakona uključuje temeljno i primijenjeno znanstveno istraživanje, uz posebnosti izražene u istraživanju u znanstvenim područjima društvenih i humanističkih znanosti.
+(2) Temeljno znanstveno istraživanje predstavlja eksperimentalni ili teorijski rad poduzet kako bi se stekla nova znanja o temeljnim načelima fenomena i vidljivih činjenica bez izravne tržišne primjene. Primijenjeno znanstveno istraživanje predstavlja industrijsko istraživanje, eksperimentalni razvoj ili njihovu kombinaciju.
+(3) Industrijsko istraživanje predstavlja planirano istraživanje ili kritički pregled radi stjecanja novih znanja i vještina za razvoj novih proizvoda, procesa ili usluga odnosno za postizanje znatnog poboljšanja postojećih proizvoda, procesa ili usluga.
+(4) Eksperimentalni razvoj predstavlja stjecanje, kombiniranje, oblikovanje i uporabu postojećih znanstvenih, tehnoloških, poslovnih i ostalih mjerodavnih znanja i vještina radi razvoja novih ili poboljšanih proizvoda, procesa ili usluga. Eksperimentalni razvoj može uključivati aktivnosti kojima je cilj konceptualno definiranje, planiranje i dokumentiranje novih proizvoda, procesa ili usluga.

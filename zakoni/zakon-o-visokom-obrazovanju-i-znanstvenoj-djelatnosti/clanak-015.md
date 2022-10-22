@@ -1,0 +1,16 @@
+## Sveučilišno vijeće
+# Članak 15.
+(1) Sveučilišno vijeće na javnom sveučilištu sastoji se od predsjednika i četiri, šest ili osam članova. Polovinu članova sveučilišnog vijeća imenuje senat sveučilišta, a polovinu osnivač.
+(2) Predsjednika sveučilišnog vijeća zajednički izabiru članovi sveučilišnog vijeća na temelju javnog poziva. Javni poziv raspisuje rektor, najkasnije u roku od 15 dana od imenovanja posljednjeg člana sveučilišnog vijeća. Ako predsjednik sveučilišnog vijeća ne bude izabran u roku od 30 dana od isteka roka za prijavu na javni poziv, rektor najkasnije u roku od 15 dana još jednom raspisuje javni poziv za izbor predsjednika sveučilišnog vijeća. Ako predsjednik sveučilišnog vijeća ne bude izabran niti u roku od 30 dana od isteka roka za prijavu na drugom javnom pozivu, predsjednika sveučilišnog vijeća imenuje Hrvatski sabor na prijedlog Nacionalnog vijeća za visoko obrazovanje, znanost i tehnološki razvoj (u daljnjem tekstu: Nacionalno vijeće) iz reda pristupnika na prvi i drugi javni poziv za izbor predsjednika sveučilišnog vijeća.
+(3) Za predsjednika i člana sveučilišnog vijeća može biti imenovana osoba koja ima završen najmanje sveučilišni prijediplomski i diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij. Član sveučilišnog vijeća kojeg imenuje osnivač te predsjednik sveučilišnog vijeća ne smije biti državni dužnosnik, član Nacionalnog vijeća, službenik Ministarstva ni zaposlenik i vanjski suradnik javnog sveučilišta.
+(4) Mandat člana sveučilišnog vijeća na javnom sveučilištu traje šest godina. Ista osoba može se jednom ponovo izabrati za predsjednika odnosno člana sveučilišnog vijeća. Ako članu sveučilišnog vijeća prestane dužnost prije isteka mandata, novi član imenuje se do isteka mandata u postupku propisanom ovim Zakonom.
+(5) Sveučilišno vijeće brine se o zakonitosti rada javnog sveučilišta, racionalnoj uporabi materijalnih i kadrovskih resursa te ima sljedeće ovlasti:
+1. nadzire provedbu odluka senata i rektora
+2. nadzire izvršenje sveučilišnog financijskog plana te upravljanje financijskim sredstvima u skladu sa zakonom i statutom
+3. pokreće postupak razrješenja rektora
+4. potvrđuje godišnje izvješće o poslovanju i provedbi programskog ugovora
+5. daje suglasnost na opravdanost prijedloga troškova osnivanja pravne osobe čijom se osnovnom djelatnošću ostvaruje misija sveučilišta te se zadovoljavaju potrebe studenata i sveučilišta
+6. obavlja druge poslove u skladu sa statutom i drugim općim aktima sveučilišta.
+(6) Sveučilišno vijeće odluke donosi na sjednicama. Sjednicu saziva i njome predsjeda predsjednik sveučilišnog vijeća. Način rada i odlučivanja sveučilišnog vijeća uređuje se poslovnikom o radu sveučilišnog vijeća koji donosi sveučilišno vijeće.
+(7) Sveučilišno vijeće osnivaču podnosi godišnje izvješće o djelovanju sveučilišta.
+(8) Ako posumnja u nepravilnost u radu sveučilišta, sveučilišno vijeće obvezno je upozoriti senat i rektora, predložiti mjere koje je nužno poduzeti radi otklanjanja nepravilnosti te odrediti rok za otklanjanje nepravilnosti. Ako tijela sveučilišta u roku ne otklone nepravilnost u radu, sveučilišno vijeće može obustaviti od izvršenja odluku senata i rektora ako je u suprotnosti sa zakonom odnosno statutom sveučilišta te sazvati sjednicu senata radi raspravljanja tog pitanja.

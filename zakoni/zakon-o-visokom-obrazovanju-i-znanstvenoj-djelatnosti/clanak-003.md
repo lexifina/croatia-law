@@ -1,0 +1,5 @@
+## Akademska zajednica
+# Članak 3.
+(1) Akademsku zajednicu čine nastavnici, znanstvenici, suradnici, studenti i drugi sudionici u procesu visokog obrazovanja.
+(2) Članovima akademske zajednice jamče se akademske slobode, koje posebno obuhvaćaju slobodu znanstvenog istraživanja i umjetničkog stvaralaštva, slobodu izražavanja, objavljivanja i poučavanja, slobodu izražavanja mišljenja o sustavu i ustanovi u kojima djeluju, pravo na međusobnu suradnju i udruživanje te pravo na izravno i neizravno participiranje u kolegijalnim tijelima upravljanja i stručnim tijelima ustanova u sustavu visokog obrazovanja, znanstvene i umjetničke djelatnosti.
+(3) Članovi akademske zajednice u radu trebaju štititi znanstvenu istinu i istraživačku nepristranost, poštovati autorska prava te postupati odgovorno i angažirano prema društvenoj zajednici u kojoj djeluju. Članovi akademske zajednice obvezni su poštovati etička načela pri znanstvenom istraživanju, umjetničkom stvaralaštvu i poučavanju te rezultate znanstvenog istraživanja učiniti dostupnim javnosti. Članovi akademske zajednice obvezni su svoje odnose temeljiti na međusobnom povjerenju te poštovanju dostojanstva svake osobe.

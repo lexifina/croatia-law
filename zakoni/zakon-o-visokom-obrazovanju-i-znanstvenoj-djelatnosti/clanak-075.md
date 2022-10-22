@@ -1,0 +1,6 @@
+## Evidencije i informacijski sustavi u visokom obrazovanju
+# Članak 75.
+(1) Visoka učilišta elektronički vode evidencije i zbirke podataka, posebno evidenciju uspješnosti ostvarenih ishoda učenja studenata te obrađuju prikupljene osobne i druge podatke u svrhu obavljanja nastavne djelatnosti u informacijskom sustavu visokih učilišta i u pregledniku studijskih programa odnosno osiguravaju interoperabilnost evidencija i zbirka podataka te elektroničko preuzimanje podataka u informacijski sustav visokih učilišta i u preglednik studijskih programa.
+(2) Ministarstvo i Agencija imaju pristup podacima iz informacijskih sustava navedenih u stavku 1. ovoga članka radi izrade analiza i statističkih izvješća na razini Republike Hrvatske te utvrđivanja točnosti podataka iz upisnika propisanih ovim Zakonom.
+(3) Informacijski sustavi iz stavka 1. ovoga članka koriste se pri unutarnjem i vanjskom vrednovanju kvalitete visokog učilišta.
+(4) Ministar donosi pravilnik o sadržaju i korištenju informacijskih sustava iz stavka 1. ovoga članka kojim se reguliraju vrsta podataka, format podataka, način unosa podataka, zaštita osobnih podataka, osiguravanje vjerodostojnosti podataka te ostala pitanja važna za prikupljanje i analizu podataka na nacionalnoj razini.

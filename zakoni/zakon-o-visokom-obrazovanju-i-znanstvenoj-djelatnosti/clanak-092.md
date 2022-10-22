@@ -1,0 +1,9 @@
+## Izbor članova matičnih odbora i matičnih povjerenstava
+# Članak 92.
+(1) Matični odbor sastoji se od devet članova. Članovi matičnog odbora imenuju se na četiri godine iz reda redovitih profesora, redovitih profesora u trajnom izboru, znanstvenih savjetnika i znanstvenih savjetnika u trajnom izboru u odgovarajućem polju.
+(2) Matično povjerenstvo sastoji se od tri do sedam članova. Članovi matičnog povjerenstva imenuju se na četiri godine iz reda profesora stručnog studija i profesora stručnog studija u trajnom izboru u odgovarajućem području.
+(3) Javni poziv za predlaganje kandidata za članove matičnih odbora i matičnih povjerenstava objavljuje Ministarstvo. Kandidate za članove matičnih odbora predlažu Rektorski zbor Republike Hrvatske, sveučilišta, fakulteti, umjetničke akademije i javni znanstveni instituti. Kandidate za članove matičnih povjerenstava predlažu veleučilišta.
+(4) Član matičnog odbora i matičnog povjerenstva ne može biti član Nacionalnog vijeća, čelnik visokog učilišta i znanstvenog instituta.
+(5) Listu kandidata za članove matičnih odbora utvrđuje Ministarstvo te je u roku od 30 dana od dana završetka javnog poziva za predlaganje kandidata dostavlja Nacionalnom vijeću. Nacionalno vijeće imenuje članove matičnih odbora vodeći računa da većinu članova čine redoviti profesori i redoviti profesori u trajnom izboru.
+(6) Listu kandidata za članove matičnih povjerenstava utvrđuje Ministarstvo te je u roku od 30 dana od dana završetka javnog poziva za predlaganje kandidata dostavlja Zboru veleučilišta Republike Hrvatske (u daljnjem tekstu: Zbor veleučilišta). Zbor veleučilišta imenuje članove matičnih povjerenstava.
+(7) U slučaju prestanka mandata članu matičnog odbora odnosno matičnog povjerenstva prije vremena na koje je izabran, novi član imenuje se u skladu postupkom propisanim stavcima 5. i 6. ovoga članka na vrijeme do isteka mandata člana kojemu je prestao mandat.

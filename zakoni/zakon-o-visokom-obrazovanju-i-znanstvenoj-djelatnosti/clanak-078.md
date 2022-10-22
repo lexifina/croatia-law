@@ -1,0 +1,6 @@
+## Prava iz studentskog standarda
+# Članak 78.
+(1) Student koji studira u redovitom statusu na sveučilišnom ili stručnom prijediplomskom ili diplomskom studiju, sveučilišnom integriranom prijediplomskom i diplomskom studiju odnosno stručnom kratkom studiju i koji nije u radnom odnosu niti obavlja samostalnu djelatnost obrta ili drugog slobodnog zanimanja, ostvaruje pravo na zdravstveno osiguranje, pravo na subvencionirano stanovanje i prehranu, pravo na obavljanje studentskih poslova u skladu sa zakonom koji uređuje obavljanje studentskih poslova te pravo na državne stipendije i druge novčane potpore.
+(2) Student koji studira u izvanrednom statusu na sveučilišnom ili stručnom prijediplomskom ili diplomskom studiju odnosno sveučilišnom integriranom prijediplomskom i diplomskom studiju i koji nije u radnom odnosu niti obavlja samostalnu djelatnost obrta ili drugog slobodnog zanimanja, ostvaruje pravo na obavljanje studentskih poslova prema zakonu koji uređuje obavljanje studentskih poslova.
+(3) Student s utvrđenim stupnjem invaliditeta koji studira u redovitom statusu ostvaruje posebna prava iz studentskog standarda u skladu s općim aktom visokog učilišta. Student s utvrđenom vrstom i stupnjem invaliditeta ostvaruje pravo na prijevoz studenata s invaliditetom.
+(4) Uvjete i način ostvarivanja prava iz ovoga članka pravilnikom utvrđuje ministar.

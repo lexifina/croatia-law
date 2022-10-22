@@ -1,0 +1,4 @@
+## Prestanak ugovora o radu nastavnika i znanstvenika
+# Članak 51.
+(1) Na javnom visokom učilištu nastavniku prestaje ugovor o radu radi odlaska u mirovinu istekom akademske godine u kojoj je nastavnik stekao uvjete za prestanak ugovora o radu u skladu sa zakonom koji uređuje radne odnose. Na javnom znanstvenom institutu znanstveniku prestaje ugovor o radu radi odlaska u mirovinu istekom kalendarske godine u kojoj je znanstvenik stekao uvjete za prestanak ugovora o radu u skladu sa zakonom koji uređuje radne odnose.
+(2) Iznimno, s redovitim profesorom u trajnom izboru, znanstvenim savjetnikom u trajnom izboru i profesorom stručnog studija u trajnom izboru iz stavka 1. ovoga članka javno visoko učilište odnosno javni znanstveni institut na teret vlastitih sredstava može sklopiti ugovor o radu najdulje do isteka akademske odnosno kalendarske godine u kojoj je navršio sedamdeset godina života.

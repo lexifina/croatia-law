@@ -1,0 +1,4 @@
+## Mirovanje rokova i produljenje ugovora o radu
+# Članak 48.
+(1) Na zahtjev nastavnika, znanstvenika i suradnika rokovi za izbor i reizbor na radno mjesto ne teku za vrijeme trajanja rodiljnog i roditeljskog dopusta, privremenih nesposobnosti za rad duljih od tri mjeseca, obavljanja rukovodeće dužnosti na visokom učilištu ili u sustavu visokog obrazovanja i znanstvene djelatnosti odnosno javne dužnosti u smislu propisa kojim se uređuje sprječavanje sukoba interesa te u drugim opravdanim slučajevima propisanim zakonom, kolektivnim ugovorom ili općim aktom visokog učilišta odnosno znanstvenog instituta.
+(2) Na zahtjev suradnika ugovor o radu na određeno vrijeme produljit će se za onoliko vremena koliko je trajao rodiljni i roditeljski dopust, privremena nesposobnost za rad, obavljanje rukovodeće odnosno javne dužnosti ili drugi opravdani slučaj propisan zakonom, kolektivnim ugovorom ili općim aktom visokog učilišta odnosno znanstvenog instituta.

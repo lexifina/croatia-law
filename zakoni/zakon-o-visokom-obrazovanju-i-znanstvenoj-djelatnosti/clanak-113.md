@@ -1,0 +1,3 @@
+## Upis na studij osoba koje su srednjoškolsko obrazovanje završile prije 2010. godine
+# Članak 113.
+Iznimno od članka 58. stavka 3. i članka 60. stavka 4. ovoga Zakona, osoba koja je prije 2010. godine bez položene državne mature završila odgovarajući program srednjoškolskog obrazovanja u trajanju od najmanje četiri godine u Republici Hrvatskoj te osoba koja je završila odgovarajuće obrazovanje u ukupnom trajanju od 12 godina u inozemstvu, može upisati sveučilišni odnosno stručni prijediplomski studij te sveučilišni integrirani prijediplomski i diplomski studij u skladu s uvjetima propisanim općim aktom visokog učilišta.
