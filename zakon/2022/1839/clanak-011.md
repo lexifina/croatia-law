@@ -1,0 +1,2 @@
+# Članak 11.
+Agencija će uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od stupanja na snagu ovoga Zakona Pravilnik o postupku razmjene informacija između Hrvatske agencija za osiguranje depozita i sustava osiguranja depozita matične države članice koji je na temelju članka 11. stavka 7. Zakona o sustavu osiguranja depozita (»Narodne novine«, br. 146/20.) donio Nadzorni odbor Hrvatske agencije za osiguranje depozita 13. srpnja 2022.
