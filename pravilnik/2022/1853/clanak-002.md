@@ -1,0 +1,10 @@
+# Članak 2.
+Članak 10. mijenja se i glasi:
+»(1) Zapisnik o obavljenom pregledu i ispitivanju radne opreme sastavlja se putem Informacijskog sustava zaštite na radu, prema propisu o ovlaštenjima za poslove zaštite na radu, čiji je sadržaj naveden u Prilogu ovoga Pravilnika.
+(2) Zapisnik iz stavka 1. ovoga članka ne smatra se ispravom o ocjeni sukladnosti radne opreme prilikom njenog stavljanja na tržište odnosno u uporabu.
+(3) Kada su za ocjenu ispunjavanja sigurnosno zdravstvenih zahtjeva za pojedine dijelove radne opreme (primjerice; oprema pod tlakom, nosiva užad i druge sigurnosne komponente radne opreme) neophodni nalazi drugih ovlaštenih ispitivača i/ili laboratorija te održavatelja radne opreme, tada su nalazi o tim pregledima i ispitivanjima te zaključci o tome obvezni dio zapisnika o pregledu i ispitivanju radne opreme.
+(4) Osobe koje su sudjelovale u pregledu i ispitivanju radne opreme, ovisno o složenosti radne opreme i izvorima opasnosti na istoj, potpisuju se vlastoručno ili kvalificiranim elektroničkim potpisom iza podataka o pregledu i ispitnim radnjama koje su obavile.
+(5) Zaključnu ocjenu zapisnika da rezultati pregleda i ispitivanja radne opreme ispunjavaju propisane zahtjeve ili opis nedostataka zbog kojih rezultati ne zadovoljavaju propisane zahtjeve s prijedlogom mjera za otklanjanje nedostataka, potpisuje vlastoručno ili kvalificiranim elektroničkim potpisom dvoje stručnjaka zaštite na radu.
+(6) Stručnjaci zaštite na radu iz stavka 5. ovoga članka su osobe koje ispunjavaju uvjete za dobivanje ovlaštenja (nositelji ovlaštenja) za pregled i ispitivanje radne opreme prema propisu o ovlaštenjima za poslove zaštite na radu, od kojih najmanje jedan mora biti iz polja strojarstva.
+(7) Ovlaštena osoba dužna je raspolagati s dokumentacijom o svim obavljenim poslovima pregleda i ispitivanja radne opreme na mjestu korištenja radne opreme kod naručitelja.
+(8) Dokumentacijom iz stavka 7. ovoga članka smatra se radni nalog ili drugi zapisi kao dokazi o provedenim pregledima i ispitivanjima na mjestu korištenja radne opreme, a koji su ovjereni od strane naručitelja poslova.«
