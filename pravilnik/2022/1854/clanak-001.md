@@ -1,0 +1,7 @@
+# Članak 1.
+U Pravilniku o ispitivanju radnog okoliša (»Narodne novine«, broj 16/16) u članku 3. stavak 1. mijenja se i glasi:
+»(1) Ovlaštena osoba može obavljati ispitivanja iz članka 2. točke 1. i 2. ovoga Pravilnika ako ima ovlaštenje izdano u skladu s odredbama propisa o ovlaštenjima za poslove zaštite na radu te ako ispunjava kadrovske i tehničke uvjete propisane ovim Pravilnikom.«
+Iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+»(2) Ovlaštena osoba koja obavlja ispitivanja radnog okoliša mora u svom sastavu imati ispitivača koji je zaposlen u punom radnom vremenu, na neodređeno vrijeme i koji ispunjava uvjete iz stavka 3. ovoga članka.
+(3) Ispitivač je osoba s obrazovanjem iz područja tehničkih, biotehničkih, prirodnih (fizika, kemija, biologija) ili medicinskih znanosti koja ima najmanje srednju školsku ili srednju stručnu spremu i položen opći dio stručnog ispita za stručnjaka zaštite na radu ili priznatim statusom stručnjaka zaštite na radu (opći dio) i/ili osoba s obrazovanjem iz područja tehničkih, biotehničkih, prirodnih (fizika, kemija, biologija) ili medicinskih znanosti koja ima završen najmanje preddiplomski studij sa stečenim nazivom prvostupnik (baccalaureus) i položenim općim i posebnim dijelom stručnog ispita za stručnjaka zaštite na radu ili priznatim statusom stručnjaka zaštite na radu (opći i posebni dio) i/ili osoba koja ispunjava uvjete za dobivanje ovlaštenja (nositelj ovlaštenja) za ispitivanje radnog okoliša prema propisu o ovlaštenjima za poslove zaštite na radu.«
+Dosadašnji stavak 2. postaje stavak 4.

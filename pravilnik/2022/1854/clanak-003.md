@@ -1,0 +1,9 @@
+# Članak 3.
+Članak 9. mijenja se i glasi:
+»(1) Zapisnik o obavljenom ispitivanju radnog okoliša sastavlja se putem Informacijskog sustava zaštite na radu, prema propisu o ovlaštenjima za poslove zaštite na radu, čiji je sadržaj naveden u Prilogu ovoga Pravilnika.
+(2) Ako ovlaštena osoba iznimno povjeri ispitivanje pojedinog čimbenika radnog okoliša drugoj ovlaštenoj osobi koja ima u svom sastavu znanstveno-istraživački laboratorij, ovlaštena osoba obvezna je uz vlastiti zapisnik priložiti i izvorni zapisnik (izvještaj) druge ovlaštene osobe koja je obavila to ispitivanje.
+(3) Osobe koje su sudjelovale u ispitivanju radnog okoliša, ovisno o vrstama štetnosti odnosno čimbenicima u radnom okolišu, potpisuju se vlastoručno ili kvalificiranim elektroničkim potpisom iza podataka o ispitnim radnjama koje su obavile.
+(4) Zaključnu ocjenu zapisnika, iskazanu pregledno po pojedinim radnim prostorijama i neposrednom okolišu, da rezultati ispitivanja zadovoljavaju propisane zahtjeve, ili opis nedostataka zbog kojih rezultati ne ispunjavaju propisane zahtjeve s prijedlogom mjera za otklanjanje nedostataka, potpisuju vlastoručno ili kvalificiranim elektroničkim potpisom dva stručnjaka zaštite na radu, ovisno o čimbenicima u radnom okolišu koji se ispituju.
+(5) Stručnjaci zaštite na radu iz stavka 4. ovoga članka su osobe koje ispunjavaju uvjete za dobivanje ovlaštenja (nositelji ovlaštenja) za ispitivanje čimbenika u radnom okolišu, prema propisu o ovlaštenjima za poslove zaštite na radu.
+(6) Ovlaštena osoba dužna je raspolagati s dokumentacijom o svim ispitivanjima radnog okoliša na mjestima ispitivanja kod naručitelja.
+(7) Dokumentacijom iz stavka 6. ovoga članka smatra se radni nalog ili drugi zapisi kao dokazi o provedenim ispitivanjima radnog okoliša, a koji su ovjereni od strane naručitelja poslova.«
