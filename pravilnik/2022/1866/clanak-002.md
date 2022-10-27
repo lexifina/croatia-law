@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Proračunski nadzor je inspekcijski nadzor zakonitosti, svrhovitosti i pravodobnosti korištenja proračunskih sredstava, pravodobnosti i potpunosti naplate prihoda i primitaka iz nadležnosti proračunskih korisnika i jedinica lokalne i područne (regionalne) samouprave te inspekcijski nadzor pridržavanja i primjene zakona i drugih propisa koji imaju utjecaj na proračunska sredstva i sredstva iz drugih izvora, bilo da se radi o prihodima/primicima, rashodima/izdacima, povratima, imovini ili obvezama.
+(2) Odredbe stavka 1. ovoga članka na odgovarajući se način primjenjuju na izvanproračunske korisnike.
