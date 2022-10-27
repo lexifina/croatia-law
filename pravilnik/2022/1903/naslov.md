@@ -1,0 +1,1 @@
+Pravilnik o dopuni Pravilnika o primjeni Zakona o trošarinama koji se odnosi na plavi dizel za namjene u poljoprivredi, ribolovu, akvakulturi te na povrat plaćene trošarine na bezolovni motorni benzin za namjene u ribolovu
