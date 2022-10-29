@@ -1,0 +1,1 @@
+Na temelju 3. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 127/17, 138/20), članka 20. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17) i članka 30. Statuta općine Erdut (»Službeni glasnik općine Erdut« 91/21.) Općinsko vijeće općine Erdut na 7. sjednici održanoj 20. rujna 2022. godine, donosi
