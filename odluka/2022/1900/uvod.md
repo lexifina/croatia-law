@@ -1,0 +1,1 @@
+Na temelju članka 52. stavak 1. i članka 56. Zakona o financiranju vodnog gospodarstva (»Narodne novine«, broj 153/09, 90/11, 556/13, 154/14, 119/15, 120/16, 127/17 i 66/19) i članka 23. stavka 1. točka 4. Zakona o vodnim uslugama (»Narodne novine« broj 66/19) Skupština Komunalca - vodoopskrba i odvodnja d.o.o. Delnice, na sjednici održanoj 29. rujna 2022. godine donijela je
