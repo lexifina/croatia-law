@@ -1,0 +1,13 @@
+# Odluka Ustavnog suda Republike Hrvatske broj: U-III-3675/2022 od 9. studenoga 2022.
+
+- Case: `U-III-3675/2022`
+- Proceeding: Ustavna tužba
+- Decision: odluka
+- Decision date: `2022-11-09`
+- Outcome: odbijanje
+- Official database page: <https://sljeme.usud.hr/usud/praksaw.nsf/fOdluka.xsp?action=openDocument&documentId=C12570D30061CE54C12588F6003A1DD2>
+- Official DOCX: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12588F6003A1DD2/%24FILE/U-III-3675-2022.docx>
+- Official PDF: <https://sljeme.usud.hr/Usud/Praksaw.nsf/C12570D30061CE54C12588F6003A1DD2/%24FILE/U-III-3675-2022.pdf>
+- Official database page SHA-256: `62eb00c9eb319976ee1b13ce00ef32daf92c194df5fd081ea7fc58775a592eda`
+
+Metadata-only record: the decision concerns a named person (constitutional complaint and similar proceedings are listed as metadata only in this repository); use the official links above.
