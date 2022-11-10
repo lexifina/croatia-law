@@ -1,0 +1,6 @@
+# Članak 4.
+Članak 9. mijenja se i glasi:
+»(1) Svaki subjekt u poslovanju s hranom ima pravo koristiti znak Dokazana kvaliteta kako je propisano u poglavlju IV. ovoga Pravilnika, ako je za taj proizvod potvrđena sukladnost sa Specifikacijom.
+(2) Svaki subjekt u poslovanju s hranom ima pravo koristiti znak Dokazana kvaliteta za označavanje hrane koja u svom sastavu sadrži proizvod za koji je potvrđena sukladnost sa Specifikacijom proizvoda pod uvjetom da hrana u svom sastavu ne sadržava dodatni proizvod kao sastojak koji bi bio istovjetan onom za koju je potvrđena sukladnost sa Specifikacijom proizvoda.
+(3) U slučaju iz stavka 2. ovoga članka znak Dokazana kvaliteta može se upotrebljavati za prerađeni proizvod u skladu s poglavljem IV. ovoga Pravilnika jedino ako se znak odnosi na sastojak tog proizvoda i u tom slučaju se znak mora nalaziti neposredno uz naziv sastojka koji je jasno naveden kao sastojak.
+(4) U slučaju iz stavka 2. ovoga članka znak Dokazana kvaliteta ne smije se navesti u vezi s nazivom hrane u smislu članka 17. Uredbe (EU) br. 1169/2011 niti na način koji bi potrošača upućivao na to da je za prerađeni proizvod, a ne za sastojak priznata sukladnost sa Specifikacijom proizvoda za koju je priznata oznaka iz nacionalnog sustava kvalitete.«

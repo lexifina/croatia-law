@@ -1,0 +1,3 @@
+# Članak 2.
+Članak 4. mijenja se i glasi:
+»Dokazana kvaliteta je nacionalni sustav kvalitete namijenjen označavanju poljoprivrednih i prehrambenih proizvoda s posebnim karakteristikama u sektorima proizvodnje i prerade mlijeka, proizvodnje i prerade mesa, proizvodnje i prerade voća i povrća, proizvodnje i prerade gljiva, proizvodnje meda, proizvodnje jaja, proizvodnje i prerade uljarica, proizvodnje i prerade maslina, proizvodnje i prerade žitarica, proizvodnje šećera, proizvodnje poljoprivrednog reprodukcijskog materijala te u sektoru ribarstva i akvakulture, koji se proizvode sukladno Specifikacijama iz članka 99. stavka 1. Zakona.«
