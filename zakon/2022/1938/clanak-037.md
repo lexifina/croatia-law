@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Pravilnik o elektroničkom poslovanju korisnika i ovlaštenih korisnika sustava zemljišnih knjiga (»Narodne novine«, br. 108/19.) ostaje na snazi do donošenja pravilnika iz članka 10. ovoga Zakona.
+(2) Pravilnik o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (Zemljišnoknjižni poslovnik) (»Narodne novine«, br. 81/97., 109/02., 123/02., 153/02., 14/05. i 60/10.) i Pravilnik o mjerilima za rad zemljišnoknjižnih službenika (»Narodne novine«, br. 64/12.) ostaju na snazi do donošenja pravilnika iz članka 12. ovoga Zakona.

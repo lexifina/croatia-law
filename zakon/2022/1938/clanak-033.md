@@ -1,0 +1,3 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 33.
+Smatra se da zemljišnoknjižni referenti koji imaju višu stručnu spremu upravnopravnog ili društvenog smjera i tri godine radnog iskustva na poslovima zemljišnoknjižnog referenta ili srednju stručnu spremu i pet godina iskustva na poslovima zemljišnoknjižnog referenta, a na dan stupanja na snagu ovoga Zakona rade kao zemljišnoknjižni referenti, ispunjavaju uvjete i mogu pristupiti polaganju ispita za ovlaštenog zemljišnoknjižnog referenta i biti imenovani za ovlaštenog zemljišnoknjižnog referenta u postupku utvrđenom pravilnikom iz članka 125. stavka 5. ovoga Zakona.
