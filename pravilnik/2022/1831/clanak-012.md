@@ -1,0 +1,2 @@
+# Članak 12.
+Na sve pisane zahtjeve za objašnjenje dokumentacije koje sudionici u postupku natječaja podnesu Vijeću najkasnije 10 dana prije isteka natječajnog roka, Vijeće je obvezno odgovoriti u roku od sedam dana od prijama takvog zahtjeva. Upiti se postavljaju isključivo slanjem na službenu adresu elektroničke pošte Agencije. Vijeće je dužno očitovanje istovremeno objaviti na svojoj mrežnoj stranici bez navođenja podataka o podnositelju zahtjeva.

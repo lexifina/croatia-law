@@ -1,0 +1,1 @@
+Na temelju odredbe članka 85. stavka 11. i članka 86. stavka 6. Zakona o elektroničkim medijima (»Narodne novine«, broj 111/21.), Vijeće za elektroničke medije na sjednici broj 37-22 od 5. listopada 2022. donosi
