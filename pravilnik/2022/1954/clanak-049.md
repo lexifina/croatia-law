@@ -1,0 +1,3 @@
+## Stavljanje na tržište i uporaba vune
+# Članak 49.
+Dozvoljeno je na području Republike Hrvatske stavljati na tržište neobrađenu vunu i dlaku, s PG-a ili iz objekata koji su registrirani ili odobreni u skladu s odredbama ovoga Pravilnika, sukladno Poglavlju VII. točki B. Priloga XIII. Uredbe (EU) br. 142/2011, za zagrtanje biljaka, malčiranje ili za uporabu kao izolacijski materijal u graditeljstvu, osim ako Uprava ili nadležni veterinarski inspektor Državnog inspektorata takvu uporabu zabrani ili odredi druge radnje radi zaštite zdravlja ljudi i životinja. PG ili objekt podrijetla mora voditi evidencije o primateljima i količinama otpremljene vune ili dlake.

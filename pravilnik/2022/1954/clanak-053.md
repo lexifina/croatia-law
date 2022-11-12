@@ -1,0 +1,9 @@
+## POGLAVLJE VI.
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 53.
+(1) Rješenja o registraciji izdana subjektima do stupanja na snagu ovoga Pravilnika kao krajnjim korisnicima nusproizvoda, prijevoznicima i/ili sakupljačima nusproizvoda, ostaju na snazi do isteka roka na koji su izdana, a po njihovom isteku, subjekti su se dužni uskladiti s odredbama ovoga Pravilnika.
+(2) Uprava će po službenoj dužnosti, nakon isteka roka važenja dosadašnjih rješenja, iz Upisnika registriranih objekata i subjekata, brisati subjekte koji su prije stupanja na snagu ovoga Pravilnika upisani kao prijevoznici i sakupljači nusproizvoda, kada se radi o subjektima koji su ujedno registrirani u skladu s člankom 5. ili odobreni u skladu s člankom 30. ovoga Pravilnika te ako se radi o subjektima u poslovnju s hranom iz članka 6. stavaka 5. i 6. ovoga Pravilnika.
+(3) Uprava će po službenoj dužnosti brisati iz Upisnika odobrenih objekata, objekte koji temeljem odredbi ovoga Pravilnika podliježu registraciji, a rješenjem nadležnog tijela su upisani u Upisnik odobrenih objekata te ih upisati u Upisnik registriranih objekata i subjekata.
+(4) Subjekti koji na dan stupanja na snagu ovoga Pravilnika obavljaju djelatnosti iz članka 5. ovoga Pravilnika i nisu registrirani pri Upravi, moraju podnijeti zahtjev za registraciju u skladu s člankom 7. stavkom 2. ovoga Pravilnika najkasnije u roku 6 mjeseci od dana njegovog stupanja na snagu.
+(5) Subjekti koji na dan stupanja na snagu ovoga Pravilnika obavljaju djelatnosti iz članka 30. ovoga Pravilnika i nisu odobreni pri Upravi, moraju podnijeti zahtjev za odobravanje u skladu s člankom 31. ovoga Pravilnika najkasnije u roku 6 mjeseci od dana njegovog stupanja na snagu.
+(6) Postupci odobravanja i registracije subjekata i objekata započeti prije stupanja na snagu ovoga Pravilnika, dovršit će se u skladu s ovim Pravilnikom.

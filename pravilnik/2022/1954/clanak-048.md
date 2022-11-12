@@ -1,0 +1,4 @@
+## Uklanjanje na licu mjesta nusproizvoda nastalih kao posljedica kirurških zahvata ili poroda
+# Članak 48.
+(1) Dozvoljeno je zakapanje na licu mjesta odnosno gospodarstvu podrijetla, nusproizvoda, osim materijala kategorije 1, koji nastaju kao posljedica kirurških zahvata na živim životinjama ili tijekom rođenja životinja na PG-u, u skladu s člankom 16. točkom (h) Uredbe (EZ) br. 1069/2009, ne dovodeći pri tome u pitanje odredbe posebnih propisa iz područja poljoprivrede, zaštite okoliša i veterinarstva.
+(2) Prilikom zakapanja nusproizvoda iz stavka 1. ovoga članka moraju biti poduzete sve potrebne mjere kako bi se osiguralo da zakapanje ne ugrožava zdravlje ljudi ili životinja ili okoliš te se može provesti osim ako Uprava ili nadležni veterinarski inspektor Državnog inspektorata takvu uporabu zabrani ili odredi druge radnje s ciljem zaštite zdravlja ljudi i životinja.

@@ -1,0 +1,3 @@
+# Članak 21.
+Registrirani korisnik nusproizvoda i/ili dobivenih proizvoda materijala kategorije 1, 2 i 3 u svrhu istraživanja, obrazovanja i dijagnostike, te za prijevoz, uporabu i uklanjanje trgovačkih uzoraka i izložbenih predmeta, dužan je osigurati ispunjavanje uvjeta iz članka 11. i Odjeljka 1. Poglavlja I. Priloga VI. Uredbe (EU) br. 142/2011, odnosno za trgovačke uzorke i izložbene predmete mora ispuniti uvjete iz članka 12. i Odjeljka 2. Poglavlja I. Priloga VI. Uredbe (EU) br. 142/2011.
+Uvjeti pri uporabi materijala kategorije 2 i 3 za hranidbu životinja u ZOO, cirkuskih životinja, krznaša, pasa iz registriranih uzgajališta, lovačkih i službenih pasa, pasa i mačaka u skloništima za životinje, ličinki i crva za ribičke mamce

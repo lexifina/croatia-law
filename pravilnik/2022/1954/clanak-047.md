@@ -1,0 +1,3 @@
+## Stavljanje na tržište i uporaba komposta i ostataka digestije koji nisu podvrgnuti pasterizaciji/higijenizaciji
+# Članak 47.
+Objekti za bioplin i kompostane mogu stavljati na tržište na području Republike Hrvatske, radi nanošenja na poljoprivredno zemljište, kompost i ostatke digestije koji nisu podvrgnuti pasterizaciju/higijenizaciji, odnosno kojima je pretvorba nusproizvoda materijala kategorije 2 i 3 odobrena u skladu s Poglavljem I. Odjeljkom 1. stavkom 2. Priloga V. Uredbe (EU) br. 142/2011, ne dovodeći u pitanje odredbe propisa iz područja poljoprivrede, zaštite okoliša i veterinarstva te osim ako nadležni veterinarski inspektor Državnog inspektorata takvu uporabu zabrani ili odredi druge radnje s ciljem zaštite zdravlja ljudi i životinja.

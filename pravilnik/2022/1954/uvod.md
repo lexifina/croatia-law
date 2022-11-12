@@ -1,0 +1,1 @@
+Na temelju članka 98. stavka 6. članka 99. stavak 7., članka 100. stavak 5., članka 101. stavak 5. Zakona o veterinarstvu (»Narodne novine«, br. 82/13, 148/13, 115/18 i 52/21) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministrica poljoprivrede uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
