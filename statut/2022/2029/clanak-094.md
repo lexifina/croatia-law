@@ -1,0 +1,3 @@
+# Članak 94.
+(1) Profesionalnom tajnom smatraju se podaci o osobnom i obiteljskom životu radnika Zavodu i korisnika prava u sustavu socijalne skrbi, kao i podaci drugih fizičkih osoba koje radnici Zavoda saznaju ili obrađuju u obavljanju svojih poslova, ili koje saznaju članovi Upravnog vijeća Zavoda i sve osobe koje prisustvuju sjednicama Upravnog vijeća na kojima je iznesen takav podatak te članovi drugih tijela Zavoda, za koje postoji obveza čuvanja prema posebnom zakonu, a čije bi neovlašteno otkrivanje bilo protivno propisuju kojim se uređuje zaštita osobnih podataka.
+(2) Profesionalnom tajnom smatraju se i podaci o osobama o kojima Zavod vodi evidenciju pohranjenu u informatičkom sustavu Zavoda i drugi podaci utvrđeni općim aktom Zavoda.
