@@ -1,0 +1,4 @@
+## Evidencije na poslovima radnih mjesta osiguranja
+# Članak 52.
+(1) Radi zakonitog praćenja izvršavanja kazne zatvora, kazne maloljetničkog zatvora, mjere istražnog zatvora, kazne zatvora izrečene u prekršajnom postupku, novčane kazne zamijenjene kaznom zatvora izrečene u kaznenom, prekršajnom ili drugom sudskom postupku, mjere prekršajnog zadržavanja i odgojne mjere upućivanja u odgojni zavod i postupanja s osobama lišenim slobode u kaznenim tijelima službenici pravosudne policije vode službene evidencije.
+(2) Popis službenih evidencija iz stavka 1. ovoga članka posebnom Odlukom propisuje ravnatelj nadležan za poslove zatvorskog sustava te se iste vode u elektroničkom obliku. Iznimno, u izvanrednim okolnostima službene evidencije koje vode službenici pravosudne policije mogu se dodatno voditi i u pisanom obliku.

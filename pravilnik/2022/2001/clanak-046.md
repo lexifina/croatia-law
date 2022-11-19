@@ -1,0 +1,2 @@
+# Članak 46.
+Mapa V. sadrži plan i program prihvata centra za socijalnu skrb, dokaze o srodstvu, popis odobrenih posjetitelja, podatke o odobrenim posjetiteljima, podatke o odobrenim posjetiteljima putem audio-video konferencije, popis odobrenih telefonskih brojeva, punomoći odvjetnika, izjavu maloljetnika o obavještavanju obitelji u slučaju teže bolesti, izjavu maloljetnika želi li raditi, mišljenja, provjere i izvješća drugih nadležnih tijela (suda, odvjetništva, centra za socijalnu skrb, policije, probacije i dr.).

@@ -1,0 +1,2 @@
+# Članak 22.
+Mapa V. sadrži socijalnu anketu, životopis zatvorenika, dokaze o srodstvu, popis odobrenih posjetitelja, podatke o odobrenim posjetiteljima, podatke o odobrenim posjetiteljima putem audio-video konferencije, popis odobrenih telefonskih brojeva, punomoći odvjetnika, izjavu zatvorenika o obavještavanju obitelji u slučaju teže bolesti, izjavu zatvorenika želi li raditi, mišljenja, provjere i izvješća drugih tijela (suda, odvjetništva, centra za socijalnu skrb, policije, probacije i dr.).

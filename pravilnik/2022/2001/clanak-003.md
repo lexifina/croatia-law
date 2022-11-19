@@ -1,0 +1,2 @@
+# Članak 3.
+Radi zakonitog izvršavanja kazne zatvora, kazne dugotrajnog zatvora, kazne maloljetničkog zatvora, mjere istražnog zatvora, kazne zatvora izrečene u prekršajnom postupku, novčane kazne zamijenjene kaznom zatvora, mjere prekršajnog zadržavanja i odgojne mjere upućivanja u odgojni zavod, kaznena tijela prikupljaju, upisuju, objedinjuju i pohranjuju podatke u maticu zatvorenika, maticu istražnih zatvorenika, maticu kažnjenika i maticu maloljetnika.

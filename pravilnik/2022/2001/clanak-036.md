@@ -1,0 +1,5 @@
+# Članak 36.
+(1) Mapa I. sadrži podatke iz članka 33. ovog Pravilnika.
+(2) Mapa II. sadrži presude koje se izvršavaju uz pripadajuće pravomoćno rješenje o upućivanju na izvršavanje prekršajne kazne, odnosno novčane kazne zamijenjene kaznom zatvora ili rješenje o mjeri prekršajnog zadržavanja.
+(3) Mapa III. sadrži dokumentaciju u vezi s prijamom kažnjenika u zatvor, odnosno kaznionicu, rješenja, odluke i druge akte izdane kažnjeniku tijekom izdržavanja kazne i mjere prekršajnog zadržavanja te molbe, žalbe i druge podneske kažnjenika.
+(4) Mapa IV. sadrži evidenciju stegovnih postupaka, evidenciju posebnih mjera održavanja reda i sigurnosti, zapisnike o testiranju kažnjenika na psihoaktivna sredstva, mišljenja i zapažanja službenika koji obavljaju poslove tretmana, mišljenja i zapažanja osoba koje pružaju zdravstvenu zaštitu, zapažanja službenika koji obavljaju poslove osiguranja i ostale podatke i dokumentaciju koja se odnosi na ponašanje kažnjenika te podatke i dokumentaciju vezanu uz posjete, posjete putem audio-video konferencije i telefoniranje.
