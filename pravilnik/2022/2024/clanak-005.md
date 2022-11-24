@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Kod utvrđivanja kriterija iz članka 64. stavka 1. točke a) Zakona mirni posjed se priznaje ponuditelju kojemu je istekao ugovor, u posjedu je tog zemljišta, a koji je od isteka ugovora do raspisivanja javnog natječaja podmirio sve obveze s osnove korištenja tog poljoprivrednog zemljišta.
+(2) Ukoliko je jedan ponuditelj na javnom natječaju izabran na više proizvodno tehnoloških cjelina kao najpovoljniji ponuditelj pa ukupna površina prelazi maksimalnu površinu koju može kupiti, u odnosu na propisani maksimum, ponuditelj pisanom izjavom odlučuje od kojih površina preko maksimuma odustaje a koje prihvaća.
