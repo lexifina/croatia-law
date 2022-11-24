@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 1. Zakona o zračnom prometu (»Narodne novine«, br. 69/09., 84/11., 54/13., 127/13. i 92/14.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 24. studenoga 2022. donijela
