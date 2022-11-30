@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Trećem vijeću za rješavanje pretpostavki za odlučivanje o ustavnim tužbama, u sastavu sudac Mario Jelušić, predsjednik Vijeća, te suci Andrej Abramović i Snježana Bagić, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenuo O. K. iz J., kojeg zastupa H. K., odvjetnik u S., na sjednici održanoj 30. studenoga 2022. jednoglasno je donio
