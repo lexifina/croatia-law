@@ -1,0 +1,30 @@
+# Članak 1.
+U Odluci o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 77/22., 90/22., 112/22. i 120/22. - ispravak), u Dopunskoj listi lijekova iz članka 2. stavka 5. pod šiframa anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije mijenjaju se sljedeći podaci:
+»
+Šifra ATK | Oznaka | Nezaštćeno ime lijeka | DDD i jed. mj. | Cijena za DDD | DDD i jed. mj. (s PDV-om) | Način primjene | Nositelj
+odobrenja | Proizvođač | Zaštićeno ime lijeka | Oblik, jačina i pakiranje lijeka | Cijena jed. oblika | Cijena jed. oblika (s PDV-om) | Cijena orig. pakiranja | Cijena orig. pakiranja (s PDV-om) | R/RS | Iznos koji Zavod plaća za jed. oblik | Iznos koji Zavod plaća za jed. oblik (s PDV-om) | Iznos koji Zavod plaća za orig. pakiranje | Iznos koji Zavod plaća za orig. pakiranje (s PDV-om) | Doplata za jed. oblik | Doplata za jed. oblik (s PDV-om) | Doplata za orig. pakiranje | Doplata za orig. pakiranje (s PDV-om)
+1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. | 15. | 16. | 17. | 18. | 19. | 20. | 21. | 22. | 23. | 24.
+R06AX27 363 |  | desloratadin | 5 mg | 4,50 | 4,73 | O | Organon N.V. | Schering - Plough | Aerius | otop. oral. 60 ml (0,5 mg/ml) | 27,00 | 28,35 | 27,00 | 28,35 | R | 8,31 | 8,73 | 8,31 | 8,73 | 18,69 | 19,62 | 18,69 | 19,62
+R06AX27 364 |  | desloratadin | 5 mg | 4,47 | 4,69 | O | Organon N.V. | Schering - Plough | Aerius | otop. oral. 120 ml (0,5 mg/ml) | 53,60 | 56,28 | 53,60 | 56,28 | R | 16,62 | 17,45 | 16,62 | 17,45 | 36,98 | 38,83 | 36,98 | 38,83
+S01ED51 777 |  | bimatoprost + timolol |  |  |  | L | AbbVie Deutschland GmbH & Co. KG | Allergan | Ganfort | kapi za oči 1x3 ml (0,3 mg+5 mg) | 99,66 | 104,64 | 99,66 | 104,64 | RSRS03 | 40,27 | 42,28 | 40,27 | 42,28 | 59,39 | 62,36 | 59,39 | 62,36
+S01EE03 762 |  | bimatoprost |  |  |  | L | AbbVie Deutschland GmbH & Co. KG | Allergan | Lumigan | kapi za oči 1x3 ml (0,1 mg/ml) | 57,38 | 60,25 | 57,38 | 60,25 | RSRS03 | 40,27 | 42,28 | 40,27 | 42,28 | 17,11 | 17,97 | 17,11 | 17,97
+S01EE03 763 |  | bimatoprost |  |  |  | L | AbbVie Deutschland GmbH & Co. KG | Allergan | Lumigan | kapi za oči, otop. u jednodoznom spremniku 30x0,4 ml (0,3 mg/ml) | 3,45 | 3,62 | 103,50 | 108,68 | RSRS03 | 1,34 | 1,41 | 40,27 | 42,28 | 2,11 | 2,21 | 63,23 | 66,39
+V06DX02 369 |  | namirnice bez glutena |  |  |  | O | Sanum grupa d.o.o. | Nutrifree | Nutrifree mix bezglutensko brašno | praš. 1x1 kg | 19,06 | 20,01 | 19,06 | 20,01 | RVS16 | 15,44 | 16,21 | 15,44 | 16,21 | 3,62 | 3,80 | 3,62 | 3,80
+«.
+Dodaju se nove šifre anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, sa sljedećim podacima:
+»
+Šifra ATK | Oznaka | Nezaštćeno ime lijeka | DDD i jed. mj. | Cijena za DDD | DDD i jed. mj. (s PDV-om) | Način primjene | Nositelj
+odobrenja | Proizvođač | Zaštićeno ime lijeka | Oblik, jačina i pakiranje lijeka | Cijena jed. oblika | Cijena jed. oblika (s PDV-om) | Cijena orig. pakiranja | Cijena orig. pakiranja (s PDV-om) | R/RS | Iznos koji Zavod plaća za jed. oblik | Iznos koji Zavod plaća za jed. oblik (s PDV-om) | Iznos koji Zavod plaća za orig. pakiranje | Iznos koji Zavod plaća za orig. pakiranje (s PDV-om) | Doplata za jed. oblik | Doplata za jed. oblik (s PDV-om) | Doplata za orig. pakiranje | Doplata za orig. pakiranje (s PDV-om)
+1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. | 15. | 16. | 17. | 18. | 19. | 20. | 21. | 22. | 23. | 24.
+R03AL02 361 |  | ipratropijev bromid/salbutamol |  |  |  | I | Cipla Europe NV | S&D Pharma CZ spol. s r.o., Cipla (EU) Limited | Ipratropijev bromid/salbutamol Cipla | otop. za atomizator, 60x0,5 mg/2,5 mg | 2,81 | 2,95 | 168,50 | 176,93 | R | 2,61 | 2,74 | 156,60 | 164,43 | 0,20 | 0,21 | 11,90 | 12,50
+«.
+Brišu se šifre anatomsko-terapijsko-kemijske (ATK) klasifikacije lijekova Svjetske zdravstvene organizacije, sa sljedećim podacima:
+»
+Šifra ATK | Oznaka | Nezaštićeno ime lijeka | DDD i jed. mj. | Cijena za DDD | Cijena za DDD (s PDV-om) | Način primjene | Nositelj odobrenja | Proizvođač | Zaštićeno ime lijeka | Oblik, jačina i pakiranje lijeka | Cijena jed. oblika | Cijena jed. oblika (s PDV-om) | Cijena orig. pakiranja | Cijena orig. pakiranja (s PDV-om) | R/RS | Iznos koji Zavod plaća za jed. oblik | Iznos koji Zavod plaća za jed. oblik (s PDV-om) | Iznos koji Zavod plaća za orig. pakiranje | Iznos koji Zavod plaća za orig. pakiranje (s PDV-om) | Doplata za jed. oblik | Doplata za jed. oblik (s PDV-om) | Doplata za orig. pakiranje | Doplata za orig. pakiranje (s PDV-om)
+1. | 2. | 3. | 4. | 5. | 6. | 7. | 8. | 9. | 10. | 11. | 12. | 13. | 14. | 15. | 16. | 17. | 18. | 19. | 20. | 21. | 22. | 23. | 24.
+A10BD23 171 |  | ertugliflozin + metformin |  |  |  | O | Merck Sharp & Dohme B.V. | Merck Sharp & Dohme B.V. | Segluromet | tbl. film obl. 56x(2,5 mg+1000 mg) | 4,39 | 4,61 | 245,87 | 258,16 | R | 2,11 | 2,22 | 118,31 | 124,23 | 2,28 | 2,39 | 127,56 | 133,94
+A10BD23 172 |  | ertugliflozin + metformin |  |  |  | O | Merck Sharp & Dohme B.V. | Merck Sharp & Dohme B.V. | Segluromet | tbl. film obl. 56x(7,5 mg+1000 mg) | 4,39 | 4,61 | 245,87 | 258,16 | R | 2,11 | 2,22 | 118,31 | 124,23 | 2,28 | 2,39 | 127,56 | 133,94
+A10BK04 171 |  | ertugliflozin | 10 mg | 17,56 | 18,44 | O | Merck Sharp & Dohme B.V. | Schering-Plough Labo NV | Steglatro | tbl. film obl. 28x5 mg | 8,78 | 9,22 | 245,87 | 258,16 | Rpa09 | 4,23 | 4,44 | 118,31 | 124,23 | 4,56 | 4,78 | 127,56 | 133,94
+A10BK04 172 |  | ertugliflozin | 10 mg | 5,85 | 6,15 | O | Merck Sharp & Dohme B.V. | Schering-Plough Labo NV | Steglatro | tbl. film obl. 28x15 mg | 8,78 | 9,22 | 245,87 | 258,16 | Rpa09 | 4,23 | 4,44 | 118,31 | 124,23 | 4,56 | 4,78 | 127,56 | 133,94
+N05BA12 165 |  | alprazolam | 1 mg | 0,88 | 0,93 | O | Upjohn EESV | Pfizer Italia s.r.l., Genera d.d. | Xanax SR | tbl. s prod. oslob. 30x0,5 mg | 0,44 | 0,46 | 13,27 | 13,93 | R | 0,28 | 0,29 | 8,40 | 8,82 | 0,16 | 0,17 | 4,87 | 5,11
+«.
