@@ -1,0 +1,8 @@
+# Članak 43.
+(1) Kada ovlaštena službena osoba vojne policije samostalno ili u suradnji s policijskim službenikom obavlja očevid prometne nesreće u kojoj je sudjelovalo vojno vozilo, a na mjestu događaja nema osobe koja se može brinuti o vojnom vozilu, teretu ili drugim predmetima, poduzet će sljedeće:
+- prometnoj nesreći i poduzetim mjerama obavijestiti ustrojstvenu jedinicu Ministarstva obrane ili Oružanih snaga Republike Hrvatske u kojoj se vojno vozilo nalazi na uporabi, radi uklanjanja, smještaja i čuvanja vozila i stvari i
+- popisati stvari te poduzeti druge mjere za njihovo čuvanje, dok ih ne preuzme ovlaštena osoba ustrojstvene jedinice Ministarstva obrane ili Oružanih snaga Republike Hrvatske.
+(2) Popis stvari sastavlja se u dva primjerka od kojih se jedan, uz potpis, uručuje osobi kojoj se stvari predaju. Drugi se primjerak čuva u spisu predmeta o prometnoj nesreći.
+(3) Kada se popisuju stvari, ovlaštena službena osoba vojne policije, ako je to moguće, osigurat će prisutnost najmanje jedne punoljetne osobe u svojstvu svjedoka.
+(4) Kada se vojno vozilo i stvari odvoze s mjesta prometne nesreće, sastavit će se zapisnik o preuzimanju vozila u koji se obvezno upisuju podaci o vozilu i stvarima koji se odvoze, podaci o osobi koja je obavila prijevoz i mjesto gdje će se vozilo i stvari čuvati. Zapisnik se sastavlja u najmanje dva primjerka od kojih se jedan odlaže i čuva u spisu prometne nesreće.
+(5) U zapisniku se navode podaci o vozilu i stvarima te podaci o ovlaštenoj osobi ustrojstvene jedinice Ministarstva obrane ili Oružanih snaga Republike Hrvatske koja je obavila preuzimanje.

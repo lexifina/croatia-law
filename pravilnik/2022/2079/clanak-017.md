@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Kada vojna policija provodi upravljanje prometom na cestama, upravljanje može provoditi samostalno, u suradnji s jedinicama lokalne i područne (regionalne) samouprave te ustrojstvenim jedinicama policije.
+(2) U slučaju da sudionici ne postupaju po znacima i naredbama koje daju ovlaštene službene osobe vojne policije, a koji nisu pripadnici Ministarstva obrane ili Oružanih snaga Republike Hrvatske, ovlaštena službena osoba vojne policije odmah će poduzeti potrebne mjere, radnje i postupke vezane uz sigurnost, sprječavanje nastanka štetne posljedice te o istom izvijestiti teritorijalno nadležnu ustrojstvenu jedinicu policije.

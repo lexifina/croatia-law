@@ -1,0 +1,2 @@
+# Članak 32.
+O postupanjima vozača ili pješaka protivno odredbama Zakona o sigurnosti prometa na cestama koje se odnose na vozila pod pratnjom vojne policije, ovlaštena službena osoba vojne policije na dužnosti zapovjednika pratnje dužna je odmah i neposredno izvijestiti Operativno - komunikacijski centar policije ili posredno putem Operativnog središta ustrojstvene jedinice vojne policije Oružanih snaga Republike Hrvatske.

@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Prekršaji vezani uz brzinu kretanja vojnih vozila neće se utvrđivati u zoni od 100 metara od postavljenog prometnog znaka za obilježavanja naseljenih mjesta ili od postavljenog prometnog znaka izričitih naredbi »ograničenja brzine«.
+(2) Iznimno od stavka 1. ovoga članka, prekršaji vezani uz brzinu kretanja vojnih vozila u zonama škola ili drugih ustanova gdje se okuplja veći broj djece ili veći broj vojnih osoba u blizini vojnih objekata, mogu se utvrđivati u zoni od 30 metara od postavljenog prometnog znaka izričitih naredbi »ograničenja brzine« ili prometnog znaka opasnosti »djeca na cesti«.

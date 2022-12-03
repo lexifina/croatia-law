@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 5. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08, 48/10 - Odluka Ustavnog suda Republike Hrvatske, 74/11, 80/13, 158/13 - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14, 64/15, 108/17, 70/19, 42/20 i 85/22), uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, donosim

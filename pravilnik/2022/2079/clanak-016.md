@@ -1,0 +1,2 @@
+# Članak 16.
+Kada se pri kretanju vojnih postrojbi i vojnih vozila upravljanje prometom nužno mora provesti na raskrižju ili na drugom mjestu na kojem se upravlja semaforima ili drugim uređajima, ovlaštene službene osobe vojne policije u suradnji s policijskim službenicima ili drugim ovlaštenim osobama upravljaju prometom ručnim namještanjem tih uređaja ili fizički (pokretima ruku i tijela), potpunim isključenjem semafora i drugih uređaja ili namještanjem semafora tako da je uključeno samo žuto trepćuće svjetlo.
