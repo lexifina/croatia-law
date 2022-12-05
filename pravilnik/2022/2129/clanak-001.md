@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o sigurnosti igračaka (»Narodne novine«, br. 83/14, 38/15, 35/17, 50/18, 60/19 i 48/21), u članku 1. stavak 2. mijenja se i glasi:
+»Ovim Pravilnikom u hrvatsko zakonodavstvo preuzima se Direktiva 2009/48/EZ Europskog parlamenta i Vijeća od 18. lipnja 2009. o sigurnosti igračaka (Tekst značajan za EGP) (SL L 170, 30. 6. 2009.), kako je posljednji put izmijenjena Direktivom Komisije (EU) 2021/903 оd 3. lipnja 2021. o izmjeni Direktive 2009/48/EZ Europskog parlamenta i Vijeća u pogledu posebnih graničnih vrijednosti za anilin u određenim igračkama (Tekst značajan za EGP) (SL L 197/110, 4. 6. 2021.)«.

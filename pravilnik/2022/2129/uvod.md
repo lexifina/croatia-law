@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 3. Zakona o predmetima opće uporabe (»Narodne novine«, br. 39/13, 47/14, 114/18 i 53/22) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar zdravstva, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
