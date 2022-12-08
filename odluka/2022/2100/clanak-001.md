@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o odbijanju godišnjih financijskih izvještaja kreditnih institucija i sadržaju revizije za potrebe Hrvatske narodne banke (»Narodne novine«, br. 22/2019.) u članku 1. stavku 1. točki 2. riječi: »(»Narodne novine«, br. 159/2013., 19/2015., 102/2015. i 15/2018., u nastavku teksta: Zakon)« zamjenjuju se riječima: »(»Narodne novine«, br. 159/2013., 19/2015., 102/2015., 15/2018., 70/2019., 47/2020. i 146/2020., u nastavku teksta: Zakon)«.
