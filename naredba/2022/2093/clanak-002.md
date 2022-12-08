@@ -1,0 +1,8 @@
+## Pojmovi
+# Članak 2.
+(1) Pojmovi koji se upotrebljavaju u ovoj Naredbi imaju sljedeća značenja:
+1. Demarkirano područje je područje koje se sastoji od zaraženog područja polumjera od 100 m od mjesta na kojem je utvrđena prisutnost azijske strizibube i sigurnosnog područja širine 2 km računajući od granice zaraženog područja
+2. Navedeno bilje je bilje definirano člankom 2. točkom 2. Provedbene uredbe Komisije (EU) 2022/2095 оd 28. listopada 2022. o utvrđivanju mjera za sprečavanje unošenja organizma Anoplophora chinensis (Forster) na područje Unije, njegova udomaćivanja i širenja unutar područja Unije te o stavljanju izvan snage Odluke 2012/138/EU (u daljnjem tekstu: Provedbena uredba Komisije (EU) br. 2022/2095)
+3. Obveznici su specijalizirani subjekti u smislu članka 2. točke 9. Uredbe (EU) 2016/2031 Europskog parlamenta i Vijeća od 26. listopada 2016. o zaštitnim mjerama protiv organizama štetnih za bilje i o izmjeni uredaba (EU) br. 228/2013, (EU) br. 652/2014 i (EU) br. 1143/2014 Europskog parlamenta i Vijeća te stavljanju izvan snage direktiva Vijeća 69/464/EEZ, 74/647/EEZ, 93/85/EEZ, 98/57/EZ, 2000/29/EZ, 2006/91/EZ i 2007/33/EZ (SL L 317, 23. 11. 2016.) (u daljnjem tekstu Uredba (EU) br. 2016/2031) te osobe koje nisu specijalizirani subjekti, u smislu članka 4. stavka 1. točke 4. Zakona o biljnom zdravstvu (»Narodne novine«, br. 127/19 i 83/22) (u daljnjem tekstu: Zakon) a u čijem je posjedu navedeno bilje.
+(2) Ostali pojmovi koji se koriste u ovoj Naredbi imaju jednako značenje kao pojmovi u Zakonu i u Provedbenoj uredbi Komisije (EU) br. 2022/2095.
+(3) Izrazi koji se koriste u ovoj Naredbi, a imaju rodno značenje, odnose se jednako na muški i ženski rod.
