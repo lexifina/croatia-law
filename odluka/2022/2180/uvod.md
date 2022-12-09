@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2022. godinu (»Narodne novine«, br. 62/22. i 131/22.), a u vezi s člankom 60. Zakona o proračunu (»Narodne novine«, broj 144/21.), Vlada Republike Hrvatske je na sjednici održanoj 9. prosinca 2022. donijela
