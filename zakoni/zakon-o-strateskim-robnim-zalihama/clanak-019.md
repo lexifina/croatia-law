@@ -1,0 +1,2 @@
+# Članak 19.
+Ravnateljstvo podnosi ministru nadležnom za gospodarstvo kvartalna Izvješća o stanju i upravljanju robnim zalihama i godišnje Izvješće o stanju i upravljanju robnim zalihama koja čine prikaz ostvarenih prihoda i izdataka poslovanja Ravnateljstva, vezano uz robne zalihe, stanje obveza i potraživanja, prikaz stanja robnih zaliha, prodaje i nabave robe koja čini robne zalihe, kontrole robnih zaliha, prelokacije robe koja čini robne zalihe, realizaciju provedbenih akata Vlade Republike Hrvatske, osiguranje skladišnog prostora za smještaj robnih zaliha.

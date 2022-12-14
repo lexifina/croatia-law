@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Poslovi skladištenja u skladištima iz članka 14. ovoga Zakona mogu se povjeriti pravnim i fizičkim osobama koje ispunjavaju uvjete za obavljanje tih poslova (u daljnjem tekstu: skladištari).
+(2) Prava i obveze u svezi sa skladištenjem iz stavka 1. ovoga članka uređuju se ugovorom između skladištara i Ravnateljstva.
+(3) Poslovi skladištenja ne mogu se povjeriti pravnim i fizičkim osobama kojima je u posljednjih pet godina pravomoćnom sudskom odlukom ili rješenjem o prekršaju izrečena zaštitna mjera zabrane obavljanja određenih djelatnosti ili poslova u pravnoj osobi ili sigurnosna mjera zabrane potpunog ili djelomičnog obavljanja određene dužnosti ili djelatnosti, niti skladištarima koji su zbog nemara prouzročili pad kvalitete robe i umanjenje tržišne vrijednosti robe kojom raspolaže Ravnateljstvo.
