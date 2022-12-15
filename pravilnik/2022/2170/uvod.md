@@ -1,0 +1,1 @@
+Na temelju članka 295. stavka 8. Zakona o tržištu kapitala (»Narodne novine« broj 65/18., 17/20. i 83/21.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća 30. studenoga 2022. donosi
