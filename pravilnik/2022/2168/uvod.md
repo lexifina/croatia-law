@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4. Zakona o osiguranju (»Narodne novine« broj 30/15., 112/18., 63/20. i 133/20.) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 30. studenoga 2022. donijela je
