@@ -1,0 +1,1 @@
+Pravilnik o dopuni Pravilnika o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga koja su dužna dostavljati faktoring-društva te načinu i rokovima njihove dostave
