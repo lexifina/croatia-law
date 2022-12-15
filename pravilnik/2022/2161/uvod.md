@@ -1,0 +1,1 @@
+Na temelju članka 73. stavka 2. i 3. Zakona o leasingu (»Narodne novine« br. 141/2013.) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine« br. 78/15., 134/15., 120/16., 116/18., 42/20. i 47/20.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 30. studenoga 2022. donosi
