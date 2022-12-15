@@ -1,0 +1,1 @@
+Na temelju članka 65. stavka 2. Zakona o faktoringu (»Narodne novine« br. 94/14., 41/16.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 30. studenoga 2022. donosi
