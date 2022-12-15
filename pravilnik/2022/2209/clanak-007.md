@@ -1,0 +1,9 @@
+## Sjednica Povjerenstva
+# Članak 7.
+(1) Sjednica Povjerenstva zatvorena je za javnost, a može se održati u prostorijama Nositelja komasacije, druge jedinice lokalne samouprave odnosno jedinice područne (regionalne) samouprave ili Grada Zagreba na čijem se području provodi komasacija, prostorijama Ministarstva te elektroničkim putem.
+(2) Sjednicom predsjedava predsjednik Povjerenstva, a u slučaju njegove spriječenosti zamjenjuje ga njegov zamjenika.
+(3) U sklopu sjednice Povjerenstvo može izvršiti obilazak područja na kojem se provodi komasacija, radi očevida zemljišta na komasacijskom području.
+(4) Predsjednik Povjerenstva utvrđuje potrebu za održavanjem sjednice Povjerenstva, određuje datum, vrijeme, mjesto i način održavanja sjednice te saziva sjednicu, sukladno prethodnom savjetovanju s ostalim članovima Povjerenstva.
+(5) Sjednicama Povjerenstva mogu prisustvovati samo članovi Povjerenstva ili u slučaju njegove spriječenosti njihovi zamjenici, a Predsjednik Povjerenstva kada smatra da je potrebno, može pozvati na sjednicu bilo koju stručnu osobu radi uključivanja u izradu akata ako posebni propisi to određuju, pri čemu osobe koje nisu članovi Povjerenstva nemaju pravo glasa.
+(6) Članove Povjerenstva na sjednicu poziva tajnik Povjerenstva putem elektronske pošte ili posrednom dostavom, u skladu s prethodnim dogovorom s predsjednikom Povjerenstva, a poziv se dostavlja članovima Povjerenstva najmanje sedam dana prije dana održavanja sjednice.
+(7) Radni materijali za sjednice Povjerenstva, koje po potrebi priprema tajnik Povjerenstva u dogovoru s predsjednikom Povjerenstva, dostavljaju se u pisanom obliku ili putem elektroničke pošte svim članovima Povjerenstva i njihovim zamjenicima najmanje pet dana prije održavanja sjednice, a radni materijali u vezi rada ovlaštene osobe dostavljaju se i njoj ako je pozvana na sjednicu u skladu s stavkom 5. ovoga članka.
