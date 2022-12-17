@@ -1,0 +1,4 @@
+# Članak 4.
+U članku 7. stavku 1. podstavci 2. i 3. mijenjaju se i glase:
+» - na stanice za tehnički pregled vozila u slučaju kada se u istoj općini ili gradu mijenja lokacija stanice za tehnički pregled vozila, pri čemu broj stanica za tehnički pregled vozila u toj općini ili gradu ostaje isti, s tim da u općini ili gradu u kojem postoje dvije ili više stanica, nova lokacija stanice mora biti udaljena cestom više od 2 km od lokacije najbliže postojeće stanice;
+- na stanice za tehnički pregled vozila u slučaju kada se mijenja lokacija stanice za tehnički pregled vozila, tako da se nova lokacija stanice nalazi u susjednoj općini ili gradu, pri čemu ukupni broj stanica za tehnički pregled vozila u Republici Hrvatskoj ostaje isti, pod uvjetom da nova lokacija stanice ne smije biti udaljena cestom više od 10 km od dotadašnje lokacije te mora biti udaljena cestom više od 2 km od lokacije najbliže postojeće stanice.«.
