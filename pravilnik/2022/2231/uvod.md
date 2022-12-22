@@ -1,0 +1,1 @@
+Na temelju odredbe članka 21. stavka 2. Zakona o provedbi Uredbe (EU) 2020/1503 o europskim pružateljima usluga skupnog financiranja (»Narodne novine« broj 144/21, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa), na sjednici Upravnog vijeća održanoj 8. prosinca 2022. godine donijela je
