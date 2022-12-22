@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o prijavljivanju povreda odnosno sumnji na povredu odredaba Zakona o tržištu kapitala, Uredbe (EU) br. 600/2014, Uredbe (EU) br. 596/2014 i Uredbe (EU) br. 909/2 014
