@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Prilikom utvrđivanja porezne osnovice i poreznog obveznika prema ovom Zakonu Porezna uprava ovlaštena je utvrditi jesu li iznosi u Prijavi poreza na dobit za određeno porezno razdoblje iskazani u skladu s računovodstvenim propisima i u skladu s ciljem i svrhom propisa o oporezivanju dobiti odnosno utvrditi jesu li rezultat aktivnosti iniciranih s ciljem izbjegavanja dodatnog poreza na dobit.
+(2) Ako Porezna uprava utvrdi da iznosi u Prijavi poreza na dobit nisu iskazani u skladu s računovodstvenim propisima i u skladu s ciljem i svrhom propisa o oporezivanju dobiti odnosno utvrdi da su rezultat aktivnosti iniciranih s ciljem izbjegavanja dodatnog poreza na dobit, rješenjem će utvrditi poreznu osnovicu i dodatni porez na dobit u skladu s odredbama ovoga Zakona.
+(3) Dodatni porez na dobit ne može umanjiti osnovicu poreza na dobit.

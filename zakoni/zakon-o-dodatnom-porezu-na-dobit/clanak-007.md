@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Oporeziva dobit prethodnih poreznih razdoblja utvrđuje se u skladu s računovodstvenim propisima kao razlika prihoda i rashoda prije obračuna poreza na dobit, a koja je uvećana i umanjena u skladu s propisima o oporezivanju dobiti te koja je u pozitivnom iznosu iskazana na rednom broju 36. ili 39. Prijave poreza na dobit, u svakom od četiri prethodna porezna razdoblja iz članka 5. stavka 2. ovoga Zakona.
+(2) Prosječna oporeziva dobit prethodnih poreznih razdoblja iz članka 5. stavka 1. ovoga Zakona izračunava se kao zbroj iznosa oporezive dobiti prethodnih poreznih razdoblja utvrđenih prema stavku 1. ovoga članka podijeljen s brojem poreznih razdoblja u kojima je porezni obveznik poslovao.
