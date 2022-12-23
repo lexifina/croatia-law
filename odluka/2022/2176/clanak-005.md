@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Danom stupanja na snagu ove Odluke prestaje važiti Odluka o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 77/22. i 82/22. - ispravak, 90/22., 112/22., 115/22. - ispravak i 132/22.).
+(2) Na dan uvođenja eura kao službene valute u Republici Hrvatskoj prestaju važiti »Osnovna lista lijekova s cijenama u kunama - 1. dio«, »Osnovna lista lijekova s cijenama u kunama - 2. dio«, »Osnovna lista lijekova s cijenama u kunama - 3. dio«, »Osnovna lista lijekova s cijenama u kunama - 4. dio« iz članka 2. stavka 5. ove Odluke i »Osnovna lista magistralnih pripravaka s cijenama u kunama« iz članka 3. stavka 2. ove Odluke.
