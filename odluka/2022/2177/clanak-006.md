@@ -1,0 +1,2 @@
+# Članak 6.
+Ova Odluka stupa na snagu petnaestoga dana od dana objave u »Narodnim novinama«, osim »Dopunska lista lijekova s cijenama u eurima - 1. dio«, »Dopunska lista lijekova s cijenama u eurima - 2. dio«, »Dopunska lista lijekova s cijenama u eurima - 3. dio« iz članka 2. stavka 5. ove Odluke i »Dopunska lista magistralnih pripravaka s cijenama u eurima« iz članka 3. stavka 2. ove Odluke koje stupaju na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
