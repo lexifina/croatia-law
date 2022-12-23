@@ -1,0 +1,205 @@
+HRVATSKI SABOR
+
+2337
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Proglašavam Zakon o izmjenama i dopunama Zakona o porezu na dohodak, koji je Hrvatski sabor donio na sjednici 16. prosinca 2022.
+
+Klasa: 011-02/22-02/169
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 20. prosinca 2022.
+
+Predsjednik
+
+Republike Hrvatske
+
+Zoran Milanović, v. r.
+
+ZAKON
+
+O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA DOHODAK
+
+Članak 1.
+
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20. i 138/20.) u članku 8. stavku 1. točki 4. riječ: »žiroračun« zamjenjuje se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+Članak 2.
+
+U članku 9. stavku 1. točki 18. riječi: »do visine 500,00 kuna« zamjenjuju se riječima: »do visine 66,37 eura«, a riječi: »do 6000,00 kuna« zamjenjuju se riječima: »do 796,44 eura«.
+
+Članak 3.
+
+U članku 11. stavku 12. riječi: »ne prelaze 5000,00 kuna« zamjenjuju se riječima: »ne prelaze 663,61 euro«, a riječi: »do 200,00 kuna« zamjenjuju se riječima: »do 26,54 eura«.
+
+Članak 4.
+
+U članku 12. stavak 8. mijenja se i glasi:
+
+»(8) Dohodak ostvaren u stranoj valuti preračunava se u euro primjenom srednjeg tečaja koji Hrvatska narodna banka objavljuje na dan isplate.«.
+
+Članak 5.
+
+U članku 14. stavku 1. riječi: »iznosi 2500,00 kuna« zamjenjuju se riječima: »iznosi 331,81 euro«.
+
+U stavku 3. riječi: »u visini 4000,00 kuna« zamjenjuju se riječima: »u visini 530,90 eura«.
+
+Stavak 4. mijenja se i glasi:
+
+»(4) Rezident može uvećati osnovni osobni odbitak iz stavka 2. ovoga članka u visini:
+
+R. br. | Osnova za uvećanje
+
+osnovnog osobnog odbitka | Koeficijent | Mjesečni iznos
+
+(u eurima i centima) |
+
+1 | 2 | 3 | 4 |
+
+1. | Uzdržavani članovi uže obitelji | 0,7 | 232,27 |
+
+2. | Prvo uzdržavano dijete | 0,7 | 232,27 |
+
+3. | Drugo uzdržavano dijete | 1,0 | 331,81 |
+
+4. | Treće uzdržavano dijete | 1,4 | 464,53 |
+
+5. | Četvrto uzdržavano dijete | 1,9 | 630,44 |
+
+6. | Peto uzdržavano dijete | 2,5 | 829,53 |
+
+7. | Šesto uzdržavano dijete | 3,2 | 1061,79 |
+
+8. | Sedmo uzdržavano dijete | 4,0 | 1327,24 |
+
+9. | Osmo uzdržavano dijete | 4,9 | 1625,87 |
+
+10. | Deveto uzdržavano dijete | 5,9 | 1957,68 |
+
+11. | Za svako daljnje uzdržavano dijete koeficijent osnovnoga osobnog odbitka progresivno se uvećava se za 1,1 … više u odnosu prema koeficijentu za prethodno dijete |
+
+12. | Invalidnost poreznog obveznika, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta | 0,4 | 132,72 |
+
+13. | Invalidnost utvrđena po jednoj osnovi 100 % i/ili korištenje, na temelju posebnih propisa, prava na doplatak za pomoć i njegu poreznog obveznika odnosno prava na osobnu invalidninu, svakog uzdržavanog člana uže obitelji i svakog uzdržavanog djeteta. Korištenje uvećanja osnovnog osobnog odbitka po ovoj osnovi isklju­čuje korištenje uvećanja osnovnog osobnog odbitka iz r. br. 12. | 1,5 | 497,72 |
+
+Članak 6.
+
+U članku 15. stavku 2. riječ: »žiroračun« zamjenjuje se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+Članak 7.
+
+U članku 17. stavku 1. riječi: »iznos od 15.000,00 kuna na godišnjoj razini izračunan kao šesterostruki iznos osnovice osobnog odbitka« zamjenjuju se riječima: »šesterostruki iznos osnovnog osobnog odbitka iz članka 14. stavka 3. ovoga Zakona na godišnjoj razini«.
+
+U stavku 6. riječi: »15.000,00 kuna« zamjenjuju se riječima: »šesterostrukog iznosa osnovnog osobnog odbitka«.
+
+U stavku 8. riječi: »od 15.000,00 kuna ili manjem« zamjenjuju se riječima: »do šesterostrukog iznosa osnovnog osobnog odbitka«.
+
+Članak 8.
+
+U članku 19. riječi: »do visine 360.000,00 kuna« zamjenjuju se riječima: »do visine 47.780,28 eura«, a riječi: »od 360.000,00 kuna« zamjenjuju se riječima: »od 47.780,28 eura«.
+
+Članak 9.
+
+U članku 24. stavku 3. riječi: »do visine 30.000,00 kuna« zamjenjuju se riječima: »do visine 3981,69 eura«, a riječi: »iznad 30.000,00 kuna« zamjenjuju se riječima: »iznad 3981,69 eura«.
+
+Članak 10.
+
+U članku 28. iza riječi: »dohodak od slobodnih zanimanja« riječ: »i« briše se, stavlja se zarez, a iza riječi: »dohodak od poljoprivrede i šumarstva« dodaju se riječi: »i dohodak od djelatnosti proizvodnje električne energije«.
+
+Članak 11.
+
+U članku 29. stavku 3. riječi: »od 80.500,00 kuna« zamjenjuju se riječima: »od 10.684,19 eura«.
+
+Iza stavka 3. dodaje se stavak 4. koji glasi:
+
+»(4) Djelatnošću proizvodnje električne energije smatra se djelatnost proizvodnje električne energije od strane krajnjih kupaca s vlastitom proizvodnjom električne energije uz ispunjenje ostalih uvjeta propisanih propisom kojim se uređuje preuzimanje električne energije od krajnjih kupaca s vlastitom proizvodnjom ili korisnika postrojenja za samoopskrbu. Ako fizičke osobe, proizvođači električne energije koje kao krajnji kupci s vlastitom proizvodnjom, a koje su prethodno bile proizvođači električne energije kao korisnici postrojenja za samoopskrbu, ostvare ukupan godišnji primitak veći od četverostrukog iznosa osnovice osobnog odbitka iz članka 14. stavka 1. ovoga Zakona, obveznici su poreza na dohodak.«.
+
+Članak 12.
+
+U članku 32. stavku 12. riječi: »do 160,00 kuna« zamjenjuju se riječima: »do 21,24 eura«.
+
+Članak 13.
+
+U članku 35. stavku 2. riječi: »od 3500,00 kuna« zamjenjuju se riječima: »od 464,53 eura«.
+
+Članak 14.
+
+U članku 57. stavku 3. riječi: »od 150,00 kuna niti veće od 1500,00 kuna« zamjenjuju se riječima: »od 19,91 euro niti veće od 199,08 eura«.
+
+Članak 15.
+
+U članku 65. stavku 1. točki 1. riječi: »od kamata na kunsku i deviznu štednju« zamjenjuju se riječima: »od kamata na štednju u eurima i deviznu štednju«.
+
+U stavku 2. točki 3. riječi: »žiroračunu, tekućem i deviznom računu« zamjenjuju se riječima: »računu za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+Članak 16.
+
+U članku 81. stavku 2. riječi: »do 100,00 kuna« zamjenjuju se riječima: »do 13,27 eura«.
+
+Članak 17.
+
+U članku 86. stavku 1. riječi: »žiroračun kod banke, a iznimno na njihov tekući račun sukladno posebnim propisima te u« zamjenjuju se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet kod banke, a iznimno u«.
+
+U stavku 2. riječi: »tekući račun« zamjenjuju se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet«.
+
+Članak 18.
+
+U članku 91. stavku 1. u uvodnoj rečenici riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+U točki 12. riječi: »žiroračun kod banke, a iznimno na njihov tekući račun kod banke u skladu s posebnim propisima« zamjenjuju se riječima: »račun za plaćanje sukladno propisu kojim se uređuje platni promet kod banke«.
+
+U stavku 2. riječi: »od 5000,00 do 30.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 3980,00 eura«.
+
+U stavku 3. riječi: »od 2000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 2650,00 eura«.
+
+U stavku 4. riječi: »od 2000,00 do 10.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 1320,00 eura«.
+
+U stavku 5. riječi: »od 5000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+Članak 19.
+
+U članku 92. stavku 1. u uvodnoj rečenici riječi: »od 5000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 660,00 do 6630,00 eura«.
+
+U stavku 2. u uvodnoj rečenici riječi: »od 2000,00 do 20.000,00 kuna« zamjenjuju se riječima: »od 260,00 do 2650,00 eura«.
+
+PRIJELAZNE I ZAVRŠNE ODREDBE
+
+Članak 20.
+
+Razlike koje poreznim obveznicima nastanu zbog primjene pravila za preračunavanje i zaokruživanje u skladu sa Zakonom o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine«, br. 57/22. i 88/22. – ispravak) uključuju se u poreznu osnovicu.
+
+Članak 21.
+
+Odredba članka 7. ovoga Zakona primjenjuje se u postupku godišnjeg obračuna poreza na dohodak za 2022. godinu i nadalje.
+
+Članak 22.
+
+Ministar financija uskladit će provedbene propise Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20. i 138/20.) s odredbama ovoga Zakona u roku od 90 dana od dana njegova stupanja na snagu, i to:
+
+– Pravilnik o porezu na dohodak (»Narodne novine«, br. 10/17., 128/17., 106/18., 1/19., 80/19., 1/20., 74/20., 1/21., 102/22. i 112/22.)
+
+– Pravilnik o paušalnom oporezivanju samostalnih djelatnosti (»Narodne novine«, br. 1/20. i 1/21.)
+
+– Pravilnik o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19., 1/20. i 1/21.).
+
+Članak 23.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu prvoga dana od dana objave u »Narodnim novinama«, osim članaka 1. do 6., članaka 8. do 20. i članka 22. ovoga Zakona koji stupaju na snagu 1. siječnja 2023.
+
+Klasa: 022-02/22-01/154
+
+Zagreb, 16. prosinca 2022.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Gordan Jandroković, v. r.
