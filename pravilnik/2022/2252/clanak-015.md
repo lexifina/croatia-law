@@ -1,0 +1,2 @@
+# Članak 15.
+Ako Komora u postupku priznavanja inozemne stručne kvalifikacije, za obavljanje regulirane profesije - socijalni pedagog u svrhu poslovnog nastana u Republici Hrvatskoj utvrdi da postoje bitne razlike u stručnim kvalifikacijama kandidata koje se ne mogu nadoknaditi ni provedbom dopunskih mjera iz članka 10. ovoga Pravilnika, a nisu ispunjeni uvjeti za djelomičan pristup reguliranoj profesiji - socijalni pedagog u Republici Hrvatskoj iz članka 14. ovoga Pravilnika, odbit će zahtjev za priznavanje inozemne stručne kvalifikacije.

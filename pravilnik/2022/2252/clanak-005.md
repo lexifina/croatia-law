@@ -1,0 +1,4 @@
+# Članak 5.
+Komora će dopustiti pristup reguliranoj profesiji - socijalni pedagog i obavljanje regulirane profesije - socijalni pedagog pod istim uvjetima koji se primjenjuju na državljane Republike Hrvatske i to kandidatu koji je:
+a) stekao stručnu kvalifikaciju u državi članici i posjeduje potvrdu kompetentnosti ili dokaz o stručnoj kvalifikaciji koji zahtijevaju države članice za pristup i obavljanje profesije socijalni pedagog na njezinu području ili
+b) obavljao tu profesiju u punom ili nepunom radnom vremenu istovjetnog ukupnog trajanja najmanje godinu dana u zadnjih deset godina u državi ugovornici ili Švicarskoj konfederaciji u kojoj ta profesija nije regulirana, pod uvjetom da kandidat posjeduje jednu ili više potvrda kompetentnosti ili dokaza o stručnoj kvalifikaciji koje je izdalo nadležno tijelo države članice u kojoj ta profesija nije regulirana.

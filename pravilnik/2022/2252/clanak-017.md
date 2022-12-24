@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Ako u sljedećim odredbama nije drukčije određeno, na postupak priznavanja inozemnih stručnih kvalifikacija stečenih u trećim zemljama na odgovarajući način primjenjuju se odredbe članaka 4. do 13. ovoga Pravilnika, osim članka 12. stavka 6. ovoga Pravilnika.
+(2) Priznavanje inozemne stručne kvalifikacije može zatražiti azilant i stranac pod supsidijarnom zaštitom u Republici Hrvatskoj koji su u pravima i dužnostima izjednačeni s hrvatskim državljanima, a u postupku priznavanja inozemnih stručnih kvalifikacija primjenjuju se odredbe članaka 4. do 13. ovoga Pravilnika, osim članka 12. stavka 6. ovoga Pravilnika.
