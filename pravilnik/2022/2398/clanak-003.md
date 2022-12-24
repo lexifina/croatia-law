@@ -1,0 +1,5 @@
+# Članak 3.
+U članku 43. stavak 5. mijenja se i glasi:
+»(5) Dokaz o isporučenoj količini šećerne repe iz stavka 4. ovoga članka jesu računi i/ili otpremnice i/ili podaci o prodanim količinama iz Evidencije o poljoprivrednoj proizvodnji i prodaji vlastitih poljoprivrednih proizvoda OPG-a, koju su OPG obvezna voditi u skladu s posebnim propisom kojim se uređuje upisnik obiteljskih poljoprivrednih gospodarstava i iz Evidencije o poljoprivrednoj proizvodnji i prodaji vlastitih poljoprivrednih proizvoda SOPG-a, u skladu s posebnim propisom kojim se uređuje upisnik poljoprivrednika, a za korisnika koji je ujedno proizvođač i prerađivač šećerne repe, dokaz o isporučenoj količini šećerne repe je skladišna primka ili drugi odgovarajući dokument iz kojeg se nedvojbeno može utvrditi količina sirovine iz vlastite proizvodnje.«
+Stavak 6. mijenja se i glasi:
+»(6) Kopije dokumenata koji služe kao dokazi iz stavka 5. ovoga članka korisnik je dužan dostaviti Agenciji za plaćanja najkasnije do 28. veljače 2023. godine.«
