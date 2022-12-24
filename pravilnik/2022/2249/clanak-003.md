@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Osoba iz članka 2. stavka 1. ovoga Pravilnika dužna je zahtjev za oslobađanje od plaćanja godišnjeg paušalnog iznosa turističke pristojbe s priloženim dokazom da je za objekt u kojem se pružaju usluge u domaćinstvu ili na obiteljskom poljoprivrednom gospodarstvu sklopljen ugovor iz članka 2. stavka 1. ovoga Pravilnika, dostaviti nadležnoj lokalnoj turističkoj zajednici, odnosno regionalnoj turističkoj zajednici, ako na području jedinice lokalne samouprave u kojoj se objekt nalazi nije osnovana lokalna turistička zajednica.
+(2) Zahtjev iz stavka 1. ovoga članka, potrebno je dostaviti najkasnije do 31. siječnja tekuće godine za prethodnu godinu za koju se oslobađanje od plaćanja turističke pristojbe traži.
