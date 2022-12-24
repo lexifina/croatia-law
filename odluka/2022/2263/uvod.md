@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22) i članka 36. Statuta Grada Pleternice (Službeno glasilo Grada Pleternice broj 02/21.), Gradsko vijeće Grada Pleternice, na 9. sjednici održanoj 2. prosinca 2022. godine, donosi
