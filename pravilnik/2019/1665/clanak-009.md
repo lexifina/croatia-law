@@ -1,7 +1,0 @@
-# Članak 9.
-(1) U slučaju odabira dopunske mjere iz članka 8. stavka 3. točke 1., Komora će na temelju stručnog mišljenja Povjerenstva privremenim rješenjem odrediti obrazovne sadržaje, naknadu troškova te utvrditi rok za polaganje (praktičnog i/ili teorijskog dijela) ispita provjere kompetentnosti.
-(2) Kandidat će zadovoljiti na provjeri kompetentnosti ako točno riješi najmanje 70% svake predmetne cjeline.
-(3) U slučaju odabira dopunske mjere iz članka 8. stavka 3. točke 2. Komora će na temelju stručnog mišljenja Povjerenstva privremenim rješenjem odrediti uvjete za njegovo obavljanje s mogućim dodatnim obrazovanjem ili stručnim usavršavanjem i osposobljavanjem, imenovati kvalificiranog stručnjaka za nadzor te odrediti kriterije za ocjenu uspješnosti obavljanja razdoblja prilagodbe.
-(4) Za kvalificiranog stručnjaka iz stavka 3. ovoga članka imenovati će se ovlašteni socijalni radnik koji ima najmanje 5 godina radnog staža u djelatnosti socijalnog rada.
-(5) Ako je kandidatu privremenim rješenjem određena dopunska mjera iz članka 8. stavka 3. točke 2., kandidat će istu provoditi u odgovarajućoj obrazovnoj ustanovi u Republici Hrvatskoj.
-(6) Protiv rješenja iz stavka 1. i 3. ovoga članka može se izjaviti žalba ministarstvu nadležnom za poslove socijalne skrbi (u daljnjem tekstu: Ministarstvo) u roku od 15 dana od dana dostave rješenja.
