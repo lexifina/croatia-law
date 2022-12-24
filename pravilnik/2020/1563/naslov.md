@@ -1,1 +1,0 @@
-Pravilnik o uvjetima za priznavanje inozemnih stručnih kvalifikacija za obavljanje regulirane profesije - socijalni pedagog u svrhu poslovnog nastana u Republici Hrvatskoj
