@@ -1,1 +1,0 @@
-Na temelju članka 16. stavka 3., članka 18. stavka 10. i članka 84. stavka 5. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj 82/15 i 70/19) i članka 21. stavka 2. Zakona o psihološkoj djelatnosti (»Narodne novine«, broj 89/19) ministrica za demografiju, obitelj, mlade i socijalnu politiku donijela je
