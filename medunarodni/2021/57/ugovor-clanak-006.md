@@ -1,0 +1,4 @@
+# Članak 6.
+JAVNO ZDRAVSTVO
+(1) Pripadnici oružanih snaga države šiljateljice se obvezuju poštivati međunarodne zdravstvene propise i nacionalne zdravstvene propise države primateljice.
+(2) U pogledu sprečavanja i nadzora zaraznih bolesti u ljudi, životinja i biljaka, kao i nadzora organizama štetnih za biljke i biljne proizvode u državi primateljici, pripadnici oružanih snaga države šiljateljice dužni su pridržavati se mjerodavnog zakonodavstva Europske unije i, u slučaju kada pravo Europske unije nije ili nije u potpunosti usklađeno, onog države primateljice. Nadležne vlasti države primateljice provode mjere koje se odnose na zakone o zaštiti od infekcija, nadzoru zaraza kod životinja i hrane, fitosanitarnim pitanjima te na zakone o lijekovima, medicinskim proizvodima i sanitarnom nadzoru, ukoliko to nije u suprotnosti s pravom Europske unije ili primjenjivim međunarodnim ugovorima koji obvezuju obje stranke.

@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Savezne Republike Njemačke o privremenom boravku pripadnika Oružanih snaga Republike Hrvatske i Oružanih snaga Savezne Republike Njemačke na državnom području druge države (Hrvatsko-njemački sporazum o gostujućim snagama)

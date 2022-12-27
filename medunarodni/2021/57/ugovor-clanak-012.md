@@ -1,0 +1,7 @@
+# Članak 12.
+VJEŽBE
+(1) Vježbe podliježu pravnim propisima države primateljice te propisima o službi njezinih oružanih snaga.
+(2) Vježbe na kopnu u pravilu se provode na vojnim poligonima, strelištima i ostalim vojnim objektima za obuku.
+(3) Vježbe koje se provode u njezinom zračnom prostoru podliježu propisima države primateljice o ulasku u njezin zračni prostor i korištenju istog te o korištenju zrakoplovnih uređaja i objekata koji su unutar opsega standarda i preporučenih postupaka Međunarodne organizacije za civilno zrakoplovstvo, kao i primjenjivim postupcima najave, odobrenja i koordinacije letova sadržanim u mjerodavnim propisima države primateljice. Ovi propisi uključuju hrvatski Zakon o zračnom prometu i njemački Zakon o zračnom prometu, kako su izmijenjeni i dopunjeni, kao i primjenjive hrvatske i njemačke propise i administrativna pravila za civilni i vojni sektor. Članovi posade zrakoplova koji sudjeluju u vježbi kao i operativno osoblje u zračnom prometu i nadzorno osoblje zračne obrane koje je uključeno u takvu vježbu moraju dobro vladati engleskim jezikom, u mjeri u kojoj je to potrebno radi sigurnosti letenja ili nadzora zračnog prometa.
+(4) Vježbe ratnih i pomoćnih brodova u teritorijalnom moru i unutarnjim vodama podliježu pravnim propisima države primateljice kao i međunarodnim ugovorima koji obvezuju obje stranke.
+(5) Prije provedbe vježbi nadležne vlasti država stranaka detaljno će utvrditi usluge koje treba osigurati te troškove koji će nastati.
