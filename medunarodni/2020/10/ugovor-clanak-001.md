@@ -1,0 +1,10 @@
+# Članak 1.
+Kako je predviđeno člankom 3. stavkom 3. Sporazuma o uzajamnoj pravnoj pomoći između Europske unije i Sjedinjenih Američkih Država potpisanog u Washingtonu dana 25. lipnja 2003. (dalje u tekstu »Sporazum o uzajamnoj pravnoj pomoći između EU-a i SAD-a«), Vlade Republike Hrvatske i Sjedinjenih Američkih Država potvrđuju da se, u skladu s odredbama ovog Ugovora, Sporazum o uzajamnoj pravnoj pomoći između EU-a i SAD-a primjenjuje između njih prema sljedećim uvjetima:
+(a) člankom 4. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 1. Priloga ovom Ugovoru uređuje se utvrđivanje bankovnih računa i transakcija;
+(b) člankom 5. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 2. Priloga ovom Ugovoru uređuje se osnivanje i djelovanje zajedničkih istražnih timova;
+(c) člankom 6. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 3. Priloga ovom Ugovoru uređuje se uzimanje iskaza osobe koja se nalazi u zamoljenoj državi uporabom tehnologije videoprijenosa između države moliteljice i zamoljene države;
+(d) člankom 7. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 4. Priloga ovom Ugovoru uređuje se korištenje žurnih sredstava komunikacije;
+(e) člankom 8. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 5. Priloga ovom Ugovoru uređuje se pružanje uzajamne pravne pomoći odnosnim upravnim tijelima;
+(f) člankom 9. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 6. Priloga ovom Ugovoru uređuje se ograničenje uporabe podataka ili dokaza pruženih državi moliteljici i uređenje uvjetovanja ili odbijanja pružanja pomoći zbog zaštite podataka;
+(g) člankom 10. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 7. Priloga ovom Ugovoru uređuju se okolnosti u kojima država moliteljica može zatražiti zaštitu tajnosti svoje zamolbe;
+(h) člankom 13. Sporazuma o uzajamnoj pravnoj pomoći između EU-a i SAD-a kako je utvrđen u članku 8. Priloga ovom Ugovoru uređuje se pozivanje zamoljene države na razloge za odbijanje.

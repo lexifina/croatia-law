@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Sjedinjenih Američkih Država koji predstavlja instrument predviđen člankom 3. stavkom 3. Sporazuma o uzajamnoj pravnoj pomoći između Europske unije i Sjedinjenih Američkih Država potpisanog u Washingtonu dana 25. lipnja 2003.
