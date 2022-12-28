@@ -1,0 +1,2 @@
+# Članak 2.
+Prilog odražava integrirani tekst odredaba Ugovora o izručenju iz 1901. i Sporazuma o izručenju između EU-a i SAD-a. Vlade Republike Hrvatske i Sjedinjenih Američkih Država usuglasile su se revidirati određene članke Ugovora o izručenju iz 1901. u svrhu manjih numeričkih i terminoloških izmjena u Prilogu. Nadalje, smatrat će se da se izraz »visoke ugovorne stranke« odnosi na Vlade Republike Hrvatske i Sjedinjenih Američkih Država. Prilog je sastavni dio ovog Ugovora koji će se primjenjivati nakon stupanja na snagu ovog Ugovora.

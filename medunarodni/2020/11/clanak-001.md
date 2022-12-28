@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Ugovor između Vlade Republike Hrvatske i Vlade Sjedinjenih Američkih Država koji predstavlja instrument predviđen člankom 3. stavkom 2. Sporazuma o izručenju između Europske unije i Sjedinjenih Američkih Država potpisanog 25. lipnja 2003., u pogledu primjene Ugovora o izručenju potpisanog 25. listopada 1901., potpisan u Washingtonu 10. prosinca 2019. u izvorniku na hrvatskom i engleskom jeziku.
