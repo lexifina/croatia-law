@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 6. Zakona o željeznici (»Narodne novine«, br. 32/19., 20/21. i 114/22.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. donijela
