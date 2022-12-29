@@ -1,0 +1,1 @@
+Na temelju članka 57. stavka 1. Zakona o radiološkoj i nuklearnoj sigurnosti (»Narodne novine«, br. 141/13., 39/15., 130/17. 118/18., 21/22. i 114/22.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. donijela
