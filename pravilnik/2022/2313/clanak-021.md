@@ -1,0 +1,6 @@
+## ANTENE I PRIKLJUČNI VODOVI NA AMATERSKIM RADIJSKIM POSTAJAMA
+# Članak 21.
+(1) Antene i priključni vodovi na amaterskoj radijskoj postaji moraju biti propisno postavljeni i održavani u skladu s pravilima elektrotehničke struke te se moraju graditi i postavljati na način da se osigura najmanje jedan metar udaljenosti između njihovih sastavnih dijelova unutar građevine i bilo kojeg dijela javne komunikacijske instalacije. Međusobna udaljenost manja od jednog metra dopuštena je kod oklopljenih vodova ako je zajamčen rad bez smetnji. Antenski sustavi izvan građevina moraju se postavljati na profesionalni način i u skladu s tehničkim propisima. Priključni vodovi, koji prolaze preko javnih komunikacijskih instalacija, mogu se postaviti samo uz suglasnost vlasnika tih instalacija.
+(2) Uzemljenja amaterskih radijskih postaja ne smiju se spajati s javnim komunikacijskim instalacijama.
+(3) Nositelj dozvole mora bez odgode i o vlastitom trošku izmijeniti antene, uzemljenja i priključne vodove ukoliko oni izazivaju opasnost prigodom postavljanja, rastavljanja ili izmjene javnih komunikacijskih instalacija ili na bilo koji drugi način onemogućuju pravilan rad istih.
+(4) Suglasnost za postavljanje antena i priključnih vodova pribavlja nositelj dozvole za rad amaterske radijske postaje.

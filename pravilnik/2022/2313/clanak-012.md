@@ -1,0 +1,26 @@
+## DOZVOLA
+# Članak 12.
+(1) Agencija izdaje dozvolu na temelju zahtjeva fizičke osobe, kluba ili Saveza, ukoliko su ispunjeni uvjeti propisani Zakonom i ostalim podzakonskim propisima. Obrazac zahtjeva za izdavanje dozvole Agencija objavljuje na svojim internetskim stranicama.
+(2) Uz zahtjev iz stavka 1. ovog članka, radioamater mora dostaviti: dokaz o položenom ispitu za A ili P razred, potvrdu o prijedlogu pozivne oznake koju izdaje Savez, javnu ispravu izdanu od nadležnog tijela koja sadrži podatak o OIB-u te za amaterske radijske postaje kojima je efektivna izračena snaga jednaka ili veća od 100 W, podatke sukladno pravilniku koji uređuje posebne uvjete postavljanja i uporabe radijskih postaja iz članka 91. stavka 2. Zakona.
+(3) Za amaterske radijske postaje u samogradnji te za radijske postaje izvorno namijenjene za rad u neamaterskim službama koje su prilagođene za rad u amaterskoj službi, radioamater je obvezan uz zahtjev iz stavka 1. i dokumentaciju iz stavka 2. ovog članka priložiti i uvjerenje o tehničkoj sukladnosti koje izdaje Savez.
+(4) Radioamater može upotrebljavati samo one radijske frekvencije, vrste emisija i snage odašiljača koje su usklađene s izdanom dozvolom za određeni razred.
+(5) Radioamateru s položenim ispitom za A razred izdaje se dozvola u skladu s CEPT preporukom T/R 61-01.
+(6) Radioamateru s položenim ispitom za P razred izdaje se dozvola u skladu s CEPT preporukom ECC/REC/(05)06.
+(7) Za uporabu prijamne amaterske radijske postaje i amaterske radijske postaje za radiogoniometriju nije potrebna dozvola.
+(8) Za sve amaterske radijske postaje iz članka 4. stavka 3. točke 1. i 2. ovog Pravilnika, koje upotrebljava pojedini radioamater ili klub, izdaje se jedna dozvola, koja glasi na ime tog radioamatera ili kluba.
+(9) Za uporabu amaterskih radijskih postaja iz članka 4. stavka 3. točke 3., 4. i 6. ovog Pravilnika Agencija izdaje posebnu dozvolu za pojedinu radijsku postaju.
+(10) Amaterska radijska postaja može raditi kao amaterski repetitor ili digipitor ili amaterski radiofar isključivo uz izdanu dozvolu u kojoj je naveden odgovorni radioamater.
+(11) Dozvola mora sadržavati sljedeće:
+1. podatke o nositelju dozvole
+2. podatke o radioamaterskom razredu
+3. podatke o pozivnoj oznaci
+4. podatke o odgovarajućem CEPT razredu
+5. podatke o uvjetima uporabe
+6. rok valjanosti dozvole
+7. druge podatke navedene u obrascu dozvole koje Agencija objavljuje u elektroničkom obliku na svojim internetskim stranicama.
+(12) Strani državljanin koji je radioamater na temelju CEPT radioamaterske dozvole, CEPT početničke radioamaterske dozvole ili nacionalne dozvole ekvivalentne odgovarajućoj CEPT dozvoli u skladu s CEPT preporukama T/R 61-01 i ECC/REC/(05)06, izdane u državi čiji je državljanin, može upotrebljavati amatersku radijsku postaju u Republici Hrvatskoj u razdoblju do najviše 90 dana neprekidno.
+(13) Radioamater na temelju dozvole izdane od strane Agencije, odnosno strani državljanin na temelju odgovarajuće CEPT dozvole ili nacionalne dozvole ekvivalentne odgovarajućoj CEPT dozvoli u skladu s CEPT preporukama T/R 61-01 i ECC/REC/(05)06, izdane u državi čiji je državljanin, može daljinski upravljati s amaterskom radijskom postajom na području Republike Hrvatske uz nadzor nositelja dozvole koji je vlasnik radijske postaje, iako se fizički ne nalazi u Republici Hrvatskoj.
+(14) Stranom državljaninu, koji ima odgovarajući certifikat za položeni radioamaterski ispit u okviru CEPT-a, odgovarajuću CEPT dozvolu ili nacionalnu dozvolu ekvivalentnu odgovarajućoj CEPT dozvoli u skladu s CEPT preporukama T/R 61-01 i ECC/REC/(05)06, može se izdati dozvola koja odgovara njegovu radioamaterskom razredu i na temelju koje može upotrebljavati amatersku radijsku postaju u Republici Hrvatskoj u razdoblju duljem od 90 dana. U svrhu izdavanja dozvole strani državljanin je obvezan uz zahtjev i dokumentaciju iz stavka 1. i 2. ovog članka dostaviti i dozvolu boravka (biometrijska isprava) ili potvrdu boravka izdanu od strane Ministarstva unutarnjih poslova Republike Hrvatske.
+(15) Iznimno, u svrhu eksperimentiranja i tehničkih istraživanja, za veću vršnu snagu ovojnice odašiljača od one propisane ovim Pravilnikom može se izdati privremena dozvola sukladno članku 75. Zakona, ali samo na lokacijama izvan gusto naseljenih mjesta i gradova i to za istraživanje odbijanja radijskih valova od objekata u svemiru i za sudjelovanje u natjecanjima na međunarodnoj razini. Takva radijska postaja ne smije svojim odašiljanjem ometati rad drugih radijskih postaja ili prouzročiti štetna zračenja za ljude ili okolinu.
+(16) Fizička osoba, klub ili Savez kao nositelji dozvole moraju prijaviti svaku promjenu adrese stanovanja ili bilo koju drugu promjenu podataka iz dozvole te sukladno tome bez odgode, a najkasnije u roku od 15 dana od dana nastanka promjene podnijeti Agenciji zahtjev za izdavanje nove dozvole.
+(17) Nositelj dozvole koji posjeduje važeću dozvolu, a nabavi dodatne radijske postaje ili prijavljene zamjeni novima, mora prije početka rada, a najkasnije u roku od 15 dana od dana nastanka promjene istu prijaviti Agenciji. Izmjena podataka o prijavljenim amaterskim radijskim postajama podnosi se na obrascu koji je objavljen na internetskim stranicama Agencije.
