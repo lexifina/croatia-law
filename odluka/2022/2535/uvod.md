@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 7. Zakona o poljoprivredi (»Narodne novine«, br. 118/18., 42/20., 127/20. - Odluka Ustavnog suda Republike Hrvatske i 52/21.), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. donijela
