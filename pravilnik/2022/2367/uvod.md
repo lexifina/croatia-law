@@ -1,0 +1,1 @@
+Na temelju odredbe članka 18. stavka 1. točke 1. u vezi s člankom 85. stavkom 3. Statuta Hrvatske odvjetničke komore (»Narodne novine« broj: 115/13, 64/18, 67/19, 81/22 i 137/22 - presuda Visokog upravnog suda Republike Hrvatske), Upravni odbor Hrvatske odvjetničke komore je na sjednici održanoj 16. prosinca 2022. donio
