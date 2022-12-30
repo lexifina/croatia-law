@@ -1,0 +1,6 @@
+## Razmjena informacija o provedbi zakona među nadležnim tijelima država članica Europske unije
+# Članak 11.
+(1) Nadležno tijelo, na zahtjev i na pojedinačnoj osnovi, pomoću ustrojstvene jedinice Ministarstva unutarnjih poslova nadležne za suzbijanje i otkrivanje kaznenih djela gospodarskog kriminaliteta i korupcije, razmjenjuje financijske informacije ili financijske analize pribavljene od Ureda za sprječavanje pranja novca s imenovanim nadležnim tijelom druge države članice Europske unije ako su te financijske informacije ili financijske analize potrebne za sprječavanje, otkrivanje i suzbijanje pranja novca, povezanih predikatnih kaznenih djela ili financiranja terorizma.
+(2) Financijske informacije ili financijske analize koje su razmijenjene na temelju ovoga članka mogu se upotrijebiti samo u svrhu u koju su zatražene ili pružene.
+(3) Financijske informacije ili financijske analize pribavljene od Ureda za sprječavanje pranja novca smiju se razmjenjivati s drugim tijelom ili agencijom koje nije imenovano nadležno tijelo u drugoj državi članici uz prethodnu suglasnost Ureda za sprječavanje pranja novca.
+(4) Zahtjevi i razmjena financijskih informacija ili financijske analize obavljaju se putem sigurne elektroničke komunikacije kojom se osigurava visoka razina sigurnosti podataka.
