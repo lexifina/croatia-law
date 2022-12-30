@@ -1,0 +1,2 @@
+# Članak 126.
+U disciplinskom postupku ne može se odlučivati o zahtjevu za naknadu štete nastale izvršenjem disciplinske povrede, izuzev ako se radi o povredi iz članka 99. stavka 1. točke 14. ovoga Statuta ili ako je kod optužbe za učin teže povrede dužnosti i ugleda odvjetništva iz članka 99. stavka 1. točke 9. ovoga Statuta stavljen prijedlog za izricanje uvjetne osude uz dodatni uvjet obveze isplate novca stranci koji je disciplinski okrivljenik neosnovano kod sebe zadržao.

@@ -1,0 +1,2 @@
+# Članak 139.
+Žalba zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja ili zbog povrede Kaznenog zakona, Zakona o odvjetništvu, ovog Statuta ili Kodeksa odvjetničke etike, podnesena u korist disciplinskog okrivljenika, sadrži u sebi i žalbu zbog odluke o disciplinskoj mjeri, troškovima disciplinskog postupka, posebnoj obvezi iz članka 125. stavka 2. alineje 3. ovog Statuta, naknadi štete iz članka 126. ovog Statuta, te odluke o objavi presude u glasilu Komore.

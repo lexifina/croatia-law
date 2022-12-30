@@ -1,0 +1,5 @@
+## VIII. ODVJETNIČKA DRUŠTVA, STRANE PODRUŽNICE, ZAJEDNIČKI ODVJETNIČKI UREDI I POVEZIVANJE ODVJETNIČKIH UREDA
+# Članak 86.
+(1) Zahtjevu za izdavanje prethodne suglasnosti o sukladnosti osnivačkog akta, odnosno, za upis svih promjena koje se upisuju u sudski registar, sa Zakonom o odvjetništvu, ovim Statutom, Kodeksom odvjetničke etike i drugim općim aktima Komore, obvezno je priložiti primjerak ugovora o osnivanju odvjetničkog društva odnosno dokumentaciju koju propisuju pozitivni propisi za upis određene promjene u sudski registar.
+(2) O urednom zahtjevu iz stavka 1. ovog članka Izvršni odbor Komore odlučit će u roku od 30 dana od primitka urednog zahtjeva ili na prvoj sljedećoj sjednici od primitka urednog zahtjeva pod uvjetom da je uredan zahtjev predan Komori najkasnije 15 dana prije dana održavanja sjednice. Postupak do donošenja rješenja provodi izvjestitelj za upise u upisnike Komore.
+(3) Troškove postupka za izdavanje suglasnosti snosi podnositelj zahtjeva. Upravni odbor Komore ovlašten je donijeti pravilnik o naknadi troškova.

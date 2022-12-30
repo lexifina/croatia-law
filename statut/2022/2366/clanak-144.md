@@ -1,0 +1,2 @@
+# Članak 144.
+Viši disciplinski sud Komore će, prihvaćajući žalbu ili po službenoj dužnosti, rješenjem ukinuti presudu Disciplinskog suda Komore i uputiti predmet Disciplinskom sudu Komore na ponovno suđenje i odluku, ako utvrdi da postoji bitna povreda odredaba disciplinskog postupka, osim slučajeva iz članka 146. ovog Statuta, ili ako smatra da zbog pogrešno ili nepotpuno utvrđenog činjeničnog stanja treba naložiti novu raspravu pred Disciplinskim sudom Komore.

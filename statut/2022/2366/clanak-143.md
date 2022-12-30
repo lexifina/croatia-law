@@ -1,0 +1,3 @@
+# Članak 143.
+(1) Viši disciplinski sud Komore će presudom odbiti žalbu kao neosnovanu i potvrditi presudu Disciplinskog suda kad utvrdi da ne postoje razlozi zbog kojih se presuda pobija niti povrede iz članka 138. ovog Statuta.
+(2) Protiv presude Višeg disciplinskog suda Komore kojom je odbijena žalba i potvrđena presuda Disciplinskog suda Komore kojom je disciplinski okrivljenik proglašen krivim kao i protiv presude Višeg disciplinskog suda Komore kojom je preinačena presuda Disciplinskog suda Komore na način da je disciplinski okrivljenik proglašen krivim, dopušten je priziv Vrhovnom sudu Republike Hrvatske u roku od 15 dana od dana dostave presude Višeg disciplinskog suda Komore.

@@ -1,0 +1,5 @@
+# Članak 118.
+(1) Rasprava počinje čitanjem optužnice Disciplinskog tužiteljstva Komore, nakon čega će se disciplinskog okrivljenika upitati kakav stav zauzima prema optužnici, te će nakon toga biti pozvan da iznese svoju obranu, pri čemu će biti upozoren da nije dužan iznositi obranu te da se može braniti i šutnjom.
+(2) U svrhu dokazivanja, disciplinski tužitelj, disciplinski okrivljenik i branitelj imaju pravo predlagati izvođenje dokaza saslušanjem svjedoka, predlagati provedbu vještačenja po ovlaštenim sudskim vještacima, pribavu isprava, te prema potrebi i svega drugoga što može biti od koristi za dokazivanje važnih činjenica.
+(3) O prijedlozima za izvođenje dokaza odlučuje vijeće Disciplinskog suda Komore većinom glasova, a troškove izvođenja dokaza snosi ona stranka koja ih je predložila, s time da troškove dokazivanja po prijedlogu Disciplinskog tužiteljstva Komore, predujmljuje i snosi Komora.
+(4) Sud je ovlašten izvoditi i dokaze koji nisu predloženi, ili od kojih je predlagatelj odustao.

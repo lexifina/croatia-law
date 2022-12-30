@@ -1,0 +1,2 @@
+# Članak 146.
+Viši disciplinski sud Komore će, prihvaćajući žalbu ili po službenoj dužnosti, presudom preinačiti presudu Disciplinskog suda Komore, ako utvrdi da su odlučne činjenice u presudi Disciplinskog suda Komore pravilno utvrđene i da se s obzirom na utvrđeno činjenično stanje po pravilnoj primjeni Kaznenog zakona, Zakona o odvjetništvu, ovog Statuta ili Kodeksa odvjetničke etike ima donijeti drugačija presuda, a prema stanju stvari i u slučaju povreda iz članka 133. alineja 2. i 3. ovog Statuta.

@@ -1,0 +1,2 @@
+# Članak 171.
+Svi odvjetnici su dužni imati adresu elektroničke pošte i istu prijaviti Komori. Sva pismena Komora i zborovi dostavljaju odvjetnicima elektroničkim putem na Komori prijavljenu adresu. Ako odvjetnik promijeni adresu elektroničke pošte, dužan je o novoj adresi obavijestiti Komoru bez odgode, ali je do zaprimanja obavijesti za dostavu nadležna adresa elektroničke pošte koja je prijavljena Komori.

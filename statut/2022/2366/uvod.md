@@ -1,0 +1,1 @@
+Na temelju odredbe članka 41. stavka 1. Zakona o odvjetništvu (»Narodne novine«, broj 9/94., 117/08., 50/09., 75/09., 18/11. i 126/21.) Skupština Hrvatske odvjetničke komore na sjednici održanoj 17. prosinca 2022. godine, donijela je

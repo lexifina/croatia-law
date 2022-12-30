@@ -1,0 +1,2 @@
+# Članak 116.
+Rasprava se može održati u odsutnosti uredno pozvanog disciplinskog okrivljenika koji svoj izostanak nije opravdao, a dana mu je mogućnost da se pisano očituje na navode iz disciplinske prijave te na optužbu koja mu se stavlja na teret ili ako iz njegovog ponašanja proizlazi kako je njegov izostanak usmjeren na odugovlačenje postupka ili očito bezrazložno izbjegava sudjelovati u postupku.

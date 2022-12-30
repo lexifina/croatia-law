@@ -1,0 +1,9 @@
+# Članak 122.
+(1) Vijeće Disciplinskog suda Komore može na prijedlog stranaka odrediti provođenje vještačenja, kada radi utvrđivanja ili ocjene neke važne činjenice treba pribaviti nalaz i mišljenje od osobe koja raspolaže potrebnim stručnim znanjem ili vještinom.
+(2) Vještačenje određuje vijeće Disciplinskog suda Komore pisanim nalogom, u kojemu će navesti o kojim činjenicama će se provesti vještačenje, kome se povjerava i tko će snositi troškove vještačenja.
+(3) Za vještaka može biti određena osoba koja je kao vještak određena rješenjem predsjednika bilo kojega županijskog suda u Republici Hrvatskoj, ili stručna ustanova, ili državno tijelo.
+(4) Za vještaka se ne može uzeti osoba koja ne može biti ispitana kao svjedok, ili osoba koja je oslobođena dužnosti svjedočenja, a ni osoba prema kojoj je počinjena disciplinska povreda, niti osoba koja je ispitana kao svjedok.
+(5) Vještaka će se pozvati da brižljivo prouči predmet vještačenja, da točno navede sve što zapazi i nađe, te da svoje mišljenje iznese nepristrano i u skladu s pravilima znanosti i vještine. Njega će se posebno upozoriti da je davanje lažnog iskaza kazneno djelo.
+(6) Provedbi vještačenja mogu biti prisutni disciplinski tužitelj, disciplinski okrivljenik i branitelj. Nakon provedenog vještačenja, vještak će izraditi pisani nalaz i mišljenje, a može biti i pozvan na raspravu radi davanja pojedinih razjašnjenja u svezi s danim nalazom i mišljenjem.
+(7) Ako je nalaz vještaka nejasan, nepotpun ili u proturječnosti sam sa sobom ili s izviđenim okolnostima, a ti se nedostaci ne mogu otkloniti ponovnim ispitivanjem vještaka, obnovit će se vještačenje s istim ili drugim vještakom.
+(8) Ako u mišljenju vještaka ima proturječnosti ili nedostataka, ili se pojavi sumnja u točnost danog mišljenja, a ti se nedostaci ili sumnja ne mogu otkloniti ponovnim ispitivanjem vještaka, zatražit će se mišljenje drugog vještaka.

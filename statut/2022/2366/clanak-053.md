@@ -1,0 +1,6 @@
+# Članak 53.
+(1) Odvjetnik koji se zapošljava kod odvjetnika koji samostalno obavlja odvjetničku službu, u odvjetničkom društvu ili kod odvjetnika koji odvjetničku službu obavlja u zajedničkom odvjetničkom uredu dužan je o tome odmah izvijestiti Komoru te dostaviti primjerak ugovora o zasnivanju radnog odnosa.
+(2) O prestanku radnog odnosa odvjetnika poslodavac i odvjetnik dužni su najkasnije 15 dana prije prestanka radnog odnosa izvijestiti Komoru te dostaviti dokaz o prestanku radnog odnosa.
+(3) Izvješće iz stavka 2. ovog članka mora sadržavati podatak o tome nastavlja li odvjetnik samostalno obavljati odvjetničku službu, nastavlja li nesamostalno obavljati odvjetničku službu kod drugog poslodavca ili prestaje s obavljanjem odvjetništva.
+(4) Ako odvjetnik nastavlja samostalno obavljati odvjetničku službu, izvješće iz stavka 2. ovog članka mora sadržavati i podatak o sjedištu odvjetničkog ureda u kojem nastavlja obavljati odvjetnišvo, o brojevima telefona te adresi elektroničke pošte (e-maila). Ako odvjetnik nastavlja nesamostalno obavljati odvjetničku službu, izvješće iz stavka 2. ovog članka mora sadržavati i podatke o novom poslodavcu.
+(5) Ako odvjetnik prestaje s obavljanjem odvjetničke službe, uz izvješće iz stavka 2. ovog članka mora biti priložen i njegov zahtjev za brisanje iz Imenika odvjetnika.

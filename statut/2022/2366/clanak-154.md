@@ -1,0 +1,2 @@
+# Članak 154.
+Zastara disciplinskog progona te zastara izvršenja disciplinske mjere i troškova disciplinskog postupka regulirane su odredbama Zakona o odvjetništvu te se sukladno odredbama Zakona o odvjetništvu na pitanja o zastari disciplinskog progona te zastari izvršenja disciplinske mjere i troškova disciplinskog postupka koja nisu regulirana Zakonom o odvjetništvu primjenjuju odredbe kaznenog zakonodavstva.

@@ -1,0 +1,4 @@
+# Članak 69.
+(1) O promjeni mjesta sjedišta odvjetničkog ureda ili pisarnice odnosno o otvaranju nove pisarnice odvjetnik, zajednički odvjetnički ured odnosno odvjetničko društvo, dužni su u roku od 15 dana od dana promjene, odnosno dana otvaranja nove pisarnice, dopisom obavijestiti Komoru. Obavijest treba sadržavati podatke o datumu promjene te adresi novog sjedišta odvjetničkog ureda ili pisarnice. Ukoliko u pisarnici stalno radi neki od odvjetnika, obavijest mora sadržavati i podatke o tome.
+(2) U istom roku odvjetnik, zajednički odvjetnički ured odnosno odvjetničko društvo, dužni su dopisom obavijestiti Komoru i o svakoj drugoj promjeni u imenu ureda ili pisarnice.
+(3) Odvjetnik, zajednički odvjetnički ured odnosno odvjetničko društvo, koji su preselili sjedište ureda ili pisarnice, smiju na mjestu prijašnjeg sjedišta ostaviti obavijest o preseljenju ureda, odnosno pisarnice, ne dulje od godine dana od dana preseljenja.

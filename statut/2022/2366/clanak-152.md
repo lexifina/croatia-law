@@ -1,0 +1,3 @@
+# Članak 152.
+(1) Pravomoćne i izvršne odluke donesene u disciplinskom postupku izvršava sudac izvršenja.
+(2) Sudac izvršenja je sudac Disciplinskog suda Komore kojega na dužnost suca izvršenja između svih sudaca toga suda imenuje predsjednik Disciplinskog suda Komore na vrijeme od tri godine. Predsjednik Disciplinskog suda Komore može imenovati jednog ili više sudaca izvršenja. Sudac izvršenja ne može biti osoba koja je u disciplinskom postupku, u kojem je donesena odluka koja se treba izvršiti, sudjelovala kao predsjednik ili član sudskog vijeća Disciplinskog suda Komore, Višeg disciplinskog suda Komore, predsjednik ili član disciplinskog vijeća, Disciplinski tužitelj ili zamjenik Disciplinskog tužitelja.

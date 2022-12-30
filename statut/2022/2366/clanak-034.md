@@ -1,0 +1,7 @@
+# Članak 34.
+(1) Disciplinskog tužitelja i njegove zamjenike bira i razrješuje Skupština Komore.
+(2) Disciplinski tužitelj i njegovi zamjenici biraju se na vrijeme od 3 godine.
+(3) Dužnost Disciplinskog tužitelja i njegovih zamjenika prestaje istekom mandata na koji su izabrani, razrješenjem, ostavkom, brisanjem iz Imenika odvjetnika ili smrću.
+(4) Na obrazloženi prijedlog Disciplinskog tužitelja, odluku o privremenom udaljenju s dužnosti zamjenika disciplinskog tužitelja donosi Izvršni odbor Komore.
+(5) Članu Disciplinskog tužiteljstva Komore o čijem se razrješenju ili privremenom udaljenju s dužnosti odlučuje mora biti omogućeno da se prije Skupštine Komore ili sjednice Izvršnog odbora Komore na kojoj će se odlučivati o njegovu razrješenju odnosno privremenom udaljenju s dužnosti, pravodobno upozna sa zahtjevom za razrješenje odnosno prijedlogom za privremeno udaljenje s dužnosti, činjenicama na kojima se taj zahtjev odnosno prijedlog temelji i dokazima kojima se te činjenice potkrepljuju. Isto tako, mora mu biti omogućeno da se na Skupštini Komore ili sjednici Izvršnog odbora Komore izjasni o zahtjevu za razrješenje odnosno prijedlogu za privremeno udaljenje s dužnosti.
+(6) Za Disciplinskog tužitelja i njegovog zamjenika ne može biti izabran odvjetnik koji je pravomoćno osuđen u disciplinskom postupku pred Disciplinskim sudom Komore radi teže povrede dužnosti i ugleda odvjetništva.

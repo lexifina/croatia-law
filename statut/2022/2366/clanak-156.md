@@ -1,0 +1,12 @@
+## Nastupanje rehabilitacije
+# Članak 156.
+(1) Nakon isteka ovim Statutom određenih rokova od izdržane ili zastarjele disciplinske mjere gubitka prava na obavljanje odvjetništva u trajanju od šest mjeseci do pet godina ili gubitka prava na obavljanje odvjetništva u trajanju od pet do deset godina odnosno plaćene novčane kazne te pravomoćnosti izrečene disciplinske mjere ukora, osuđeni odvjetnici imaju sva prava odvjetnika utvrđena Ustavom, zakonom ili drugim propisima te mogu stjecati sva prava osim onih koja su im ograničena nastupanjem pravne posljedice osude.
+(2) Pod uvjetom da počinitelj teže povrede dužnosti i ugleda odvjetništva nije ponovno osuđen zbog nove teže povrede dužnosti i ugleda odvjetništva, rehabilitacija nastupa po sili ovog Statuta kad proteknu ovi rokovi:
+- petnaest godina od dana izdržane ili zastarjele disciplinske mjere kod osude na disciplinsku mjeru gubitka prava na obavljanje odvjetništva u trajanju od pet do deset godina,
+- deset godina od dana izdržane ili zastarjele disciplinske mjere gubitka prava na obavljanje odvjetništva u trajanju od šest mjeseci do pet godina,
+- pet godina od dana plaćanja novčane kazne, od dana isteka roka provjeravanja kod uvjetne osude,
+- jedna godina od pravomoćnosti izrečene disciplinske mjere ukora.
+(3) Protekom rokova određenih u stavku 2. ovoga članka počinitelj teže povrede dužnosti ugleda odvjetništva smatra se neosuđivanim i svaka uporaba podataka o osobi kao počinitelju teže povrede dužnosti i ugleda odvjetništva zabranjena je, osim ako se ti podaci koriste radi utvrđivanja dostojnosti odvjetnika za obavljanje odvjetništva u smislu odredbe članka 49. Zakona o odvjetništvu.
+(4) Rehabilitirani odvjetnik ima pravo nijekati prijašnju osuđivanost osim ako se podaci o njegovoj ranijoj disciplinskoj osuđivanosti koriste radi utvrđivanja dostojnosti odvjetnika za obavljanje odvjetništva u smislu odredbe članka 49. Zakona o odvjetništvu. U svim drugim slučajevima rehabilitirana osoba ne smije zbog nijekanja prijašnje disciplinske osuđivanosti imati bilo kakve pravne posljedice.
+(5) Rehabilitacija za počinitelje težih povreda dužnosti i ugleda odvjetništva iz članka 99. točaka 2., 3., 7. i 9. ovog Statuta, nastupa po sili zakona protekom dvostrukih rokova iz stavka 2. ovog članka.
+(6) Podaci o disciplinskoj osuđivanosti brišu se potpuno i trajno iz baze podataka po proteku rokova propisanih stavcima 2. i 5. ovog članka.

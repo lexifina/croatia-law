@@ -1,0 +1,5 @@
+## HRVATSKE ODVJETNIČKE KOMORE
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Statutom uređuju: organizacija Hrvatske odvjetničke komore (dalje: Komora), stjecanje prava na obavljanje odvjetništva i odvjetničkog vježbeništva, vođenje imenika i upisnika, prava i dužnosti odvjetnika i odvjetničkih vježbenika, nesamostalni rad odvjetnika, uvjeti za postavljanje privremenog zastupnika i preuzimatelja ureda, uvjeti za rad odvjetničkih društava, stranih podružnica, zajedničkih odvjetničkih ureda i povezivanje odvjetničkih ureda, specijalizacija odvjetnika, disciplinska odgovornost odvjetnika i odvjetničkih vježbenika, rad Odvjetničke akademije Hrvatske odvjetničke komore, Centar za mirenje pri Hrvatskoj odvjetničkoj komori, glasilo »Odvjetnik«, internetske stranice Komore, financijsko poslovanje, te druga pitanja važna za odvjetništvo.
+(2) Riječi i pojmovni sklopovi koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškom ili ženskom rodu, odnose se na jednak način na muški i ženski rod.
