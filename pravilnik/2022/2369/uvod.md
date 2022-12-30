@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 2. Zakona o sestrinstvu (»Narodne novine« br. 121/03, 117/08 i 57/11) te članka 17. stavka 1. točke 1. Statuta Hrvatske komore medicinskih sestara, Vijeće Hrvatske komore medicinskih sestara uz suglasnost ministra zdravstva donosi
