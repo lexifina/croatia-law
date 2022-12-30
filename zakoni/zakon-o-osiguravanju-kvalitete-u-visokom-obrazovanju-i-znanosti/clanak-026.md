@@ -1,0 +1,8 @@
+## Donošenje odluke i pravna zaštita
+# Članak 26.
+(1) Odluku o izdavanju dopusnice donosi Agencija.
+(2) Ako protiv obrazloženog prijedloga visoko učilište odnosno znanstveni institut nije izjavio prigovor, obrazloženi prijedlog dostavlja se Agenciji.
+(3) Na osnovi obrazloženog prijedloga Akreditacijskog savjeta i očitovanja Povjerenstva za prigovore, ako je izjavljen prigovor, o izdavanju pisma očekivanja odnosno o ukidanju dopusnice za rad visokog učilišta odnosno znanstvenog instituta ili o ukidanju dopusnice za izvođenje studija Agencija odlučuje rješenjem, najkasnije u roku od 30 dana od dana zaprimanja obrazloženog prijedloga odnosno očitovanja Povjerenstva za prigovore.
+(4) Rješenjem kojim je izdano pismo očekivanja određuju se mjere koje visoko učilište odnosno znanstveni institut treba poduzeti kako bi ispunjavao kriterije za rad visokog učilišta odnosno znanstvenog instituta ili kako bi ispunjavao kriterije za izvođenje studija te rok za poduzimanje ovih mjera. Povjerenstvo za praćenje rada visokog učilišta odnosno rada znanstvenog instituta ili za praćenje izvođenja studija prati rad visokog učilišta odnosno znanstvenog instituta tri godine, a izvođenje studija tijekom prvoga ciklusa izvođenja cjelovitoga studija.
+(5) Protiv rješenja Agencije iz stavka 3. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+(6) U slučaju ukidanja dopusnice za rad visokog učilišta i/ili dopusnice za izvođenje studija Ministarstvo će na prijedlog Agencije donijeti mjere kojima će se osigurati nastavak i dovršenje studija studentima tog visokog učilišta odnosno studija.

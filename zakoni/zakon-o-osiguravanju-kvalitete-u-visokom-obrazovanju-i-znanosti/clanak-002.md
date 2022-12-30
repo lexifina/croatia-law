@@ -1,0 +1,4 @@
+## Osiguravanje kvalitete u sustavu visokog obrazovanja, znanstvene i umjetničke djelatnosti
+# Članak 2.
+(1) Cilj osiguravanja kvalitete u sustavu visokog obrazovanja, znanstvene i umjetničke djelatnosti je kontinuirano osiguravanje i unaprjeđivanje kvalitete rada visokog učilišta i znanstvenog instituta, nastavnog, znanstvenog odnosno umjetničkog i stručnog rada nastavnika, znanstvenika i suradnika, stručnog rada zaposlenika stručnih službi na visokom učilištu i znanstvenom institutu te praćenje kvalitete studijskih programa i studiranja na visokom učilištu, u skladu s europskim i međunarodnim standardima osiguravanja kvalitete u području visokog obrazovanja i znanstvene djelatnosti.
+(2) Osiguravanje kvalitete u sustavu visokog obrazovanja, znanstvene i umjetničke djelatnosti provodi se sustavom unutarnjeg osiguravanja i unaprjeđivanja kvalitete te sustavom vanjskog vrednovanja kvalitete.

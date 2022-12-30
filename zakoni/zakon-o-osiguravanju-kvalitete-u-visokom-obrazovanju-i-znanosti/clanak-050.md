@@ -1,0 +1,3 @@
+## Prestanak važenja podzakonskih propisa
+# Članak 50.
+Pravilnik o sadržaju dopusnice te uvjetima za izdavanje dopusnice za obavljanje djelatnosti visokog obrazovanja, izvođenje studijskog programa i reakreditaciju visokih učilišta (»Narodne novine«, br. 24/10.) i Pravilnik o uvjetima za izdavanje dopusnice za obavljanje znanstvene djelatnosti, uvjetima za reakreditaciju znanstvenih organizacija i sadržaju dopusnice (»Narodne novine«, br. 83/10.), doneseni na temelju Zakona o osiguravanju kvalitete u znanosti i visokom obrazovanju (»Narodne novine«, br. 45/09.), ostaju na snazi do donošenja Standarda kvalitete iz članka 8. stavka 3. ovoga Zakona te odluke o obliku i detaljnijem sadržaju dopusnice iz članka 21. stavka 3. ovoga Zakona.
