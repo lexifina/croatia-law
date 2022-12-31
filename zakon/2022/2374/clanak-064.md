@@ -1,0 +1,10 @@
+# Članak 64.
+Članak 174. mijenja se i glasi:
+»(1) Novčanom kaznom od 6630,00 do 13.270,00 eura kaznit će se za prekršaj pravna osoba ako:
+1. stavlja na tržište prirodnu mineralnu, izvorsku ili stolnu vodu koja ne udovoljava zahtjevima sigurnosti odnosno zdravstvene ispravnosti te označavanja s aspekta sigurnosti iz provedbenog propisa iz članka 80. stavka 17. ovoga Zakona i Uredbe Komisije (EU) br. 115/2010, što je protivno odredbama članka 80. stavaka 3. i 4. ovoga Zakona
+2. stavlja na tržište prirodnu mineralnu vodu ili izvorsku vodu koja se crpi iz tla Republike Hrvatske ili treće zemlje, a za koju nije izdano rješenje o priznavanju iz članka 80. stavka 7. ovoga Zakona ili prirodnu mineralnu vodu koja se crpi iz tla države članice Europske unije ili Europskoga gospodarskog prostora ili treće zemlje, a koju nije priznalo odgovorno tijelo države članice Europske unije ili Europskoga gospodarskog prostora odnosno ako stavlja na tržište izvorsku vodu koja se crpi iz tla države članice Europske unije ili Europskog gospodarskog prostora, a koju nije priznalo odgovorno tijelo države članice Europske unije ili države Europskoga gospodarskog prostora ili koja se pod tim nazivom ne stavlja zakonito na tržište države članice Europske unije ili Europskoga gospodarskog prostora, što je protivno članku 80. stavku 2. ovoga Zakona
+3. primjenjuje tehnološki postupak obrade prirodne mineralne vode ili izvorske vode za koji ne posjeduje rješenje u skladu s člankom 80. stavkom 10. ovoga Zakona
+4. primjenjuje tehnološki postupak korištenja aktivnog aluminijevog oksida za uklanjanje fluorida suprotno odredbama Uredbe Komisije (EU) br. 115/2010, što je protivno članku 80. stavku 11. ovoga Zakona.
+(2) Novčanom kaznom od 660,00 do 1320,00 eura za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom od 3980,00 do 6630,00 eura za prekršaje iz stavka 1. ovoga članka kaznit će se i fizička osoba obrtnik i fizička osoba koja obavlja drugu samostalnu djelatnost.
+(4) Novčanom kaznom od 260,00 do 660,00 eura za prekršaje iz stavka 1. ovoga članka kaznit će se i fizička osoba.«.

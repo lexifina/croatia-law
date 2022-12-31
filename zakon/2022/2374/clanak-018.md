@@ -1,0 +1,10 @@
+# Članak 18.
+Iza članka 46.a dodaju se naslov iznad članka i članak 46.b koji glase:
+»Sektorske intervencije
+Članak 46.b
+(1) U skladu s dijelom I. glavom I. poglavljem II. Uredbe (EU) br. 1308/2013 i glavom III. poglavljem III. Uredbe (EU) 2021/2115 te Strateškim planom uspostavljaju se i provode slijedeće sektorske intervencije:
+- intervencija u sektoru voća i povrća
+- intervencija u sektoru vina
+- intervencija u sektoru pčelarstva
+- intervencije u drugim sektorima utvrđenim u članku 42. točkom d., e. i f. Uredbe (EU) br. 2021/2115.
+(2) Odredbe vezane za način i uvjete provedbe intervencija iz stavka 1. ovoga članka u pogledu natječajnih ili drugih procedura u tehničkoj provedbi mjera intervencija, uvjeta i zahtjeva te obveza vezanih za korisnike mjera, načina prijave na mjere i kriterije prihvatljivosti, prihvatljive i neprihvatljive aktivnosti i troškove, vrste i iznose potpora, kriterije za određivanje prioriteta i rangiranje, postupke odabira, načine i uvjete vezane za podnošenje zahtjeva za sudjelovanje u mjeri, za isplatu potpore, uvjete vezano za odluke o odobrenju ili odbijanju prijava ili potpore te isplate potpore ili povrata potpore, provedbe operativnih programa proizvođačkih organizacija u sektoru voća i povrća i drugim sektorima, sadržaja, načina i uvjeta odobravanja i trajanja operativnih programa, osnivanja operativnog fonda, pravila o financiranju operativnih fondova, podnošenja zahtjeva za potporu, kontrola, procjena, vrednovanja i ocjenjivanja provedbe operativnih programa, o operativnim programima i operativnim fondovima, administrativne kontrole i kontrole na terenu provedbe operativnih programa i pojedinih mjera u intervencijama u sektoru vina i pčelarstvu, administrativne kazne, novčane kazne i druge sankcije za nepravilnosti povezane s provedbom pojedinih mjera intervencija i operativnih programa, obavještavanja i izvješćivanja, kao i druge odredbe vezane za zahtjeve za provođenje mjera intervencija, koje su uređene Uredbom (EU) br. 1308/2013 i Uredbom (EU) br. 2021/2115 te Strateškim planom ministar propisuje pravilnikom.«.

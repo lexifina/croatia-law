@@ -1,0 +1,6 @@
+# Članak 27.
+U članku 60. stavku 2. iza riječi: »propisa« dodaju se riječi: »te Uredbe (EU) br. 2021/2115«.
+U stavku 3. iza riječi: »sektorskim organizacijama« dodaju se riječi: »i prema potrebi, subjektima iz članka 67. stavka 1. točke (b) Uredbe (EU) br. 2021/2115 koji provode aktivnosti sa svrhom ispunjavanja uvjeta za priznavanje organizacija iz stavka 1. ovoga članka u skladu s člankom 67. stavkom 2. Uredbe (EU) br. 2021/2115.«.
+U stavku 4. iza riječi: »sektorske organizacije« dodaju se riječi: »u skladu s odredbama Uredbe (EU) br. 1308/2013 i njezinih provedbenih propisa, a za provedbu intervencija iz članka 46.b stavka 1. podstavka 4. ovoga Zakona pravni subjekti iz članka 67. stavka 1. točke (b) Uredbe (EU) br. 2021/2115 uz zahtjev za priznavanje na odobrenje podnose i plan priznavanja te operativni program.«.
+U stavku 5. iza podstavka 4. stavlja se točka, a podstavak 5. briše se.
+U stavku 7. iza riječi: »zemljama« stavlja se zarez i dodaju riječi: »kao i kriterije, aktivnosti i ciljeve te elemente plana priznavanja koje pravni subjekti iz članka 67. stavka 1. točke (b) Uredbe (EU) br. 2021/2115 moraju poštivati i postići kako bi mogli ispuniti uvjete za priznavanje organizacija iz stavka 1. ovoga članka«.
