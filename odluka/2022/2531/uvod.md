@@ -1,0 +1,1 @@
+Na temelju članka 143. stavaka 4. i 5. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. - ispravak, 90/11., 16/12., 86/12., 126/12. - pročišćeni tekst, 94/13., 152/14., 7/17., 68/18., 98/19. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. donijela
