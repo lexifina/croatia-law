@@ -1,0 +1,5 @@
+## Odobravanje statusa zatvorenih objekata
+# Članak 55.
+(1) U svrhu odobravanja statusa zatvorenog objekta u skladu s člankom 95. i člankom 96. stavkom 1. Uredbe (EU) 2016/429 te člankom 16. Delegirane uredbe (EU) 2019/2035, subjekti odgovorni za te objekte podnose Ministarstvu zahtjev za odobravanje sukladno članku 96. Uredbe (EU) 2016/429.
+(2) Ministarstvo izdaje rješenje o odobrenju, u skladu s člancima 98. i 99. Uredbe (EU) 2016/429, objektima iz stavka 1. ovoga članka koji udovoljavaju uvjetima iz članka 97. stavaka 1. i 2. Uredbe (EU) 2016/429, članaka 16. i 17. Delegirane uredbe (EU) 2019/2035 te članka 57. ovoga Zakona.
+(3) Subjekti odgovorni za objekte iz stavka 1. ovoga članka dužni su voditi evidencije sukladno članku 97. stavku 1. točki a) iii. Uredbe (EU) 2016/429 i članku 32. Delegirane uredbe (EU) 2019/2035, osigurati da se životinje premještaju u skladu s uvjetima iz članka 95. točke b) Uredbe (EU) 2016/429 te obavijestiti Ministarstvo o svim promjenama sukladno članku 96. stavku 2. Uredbe (EU) 2016/429.

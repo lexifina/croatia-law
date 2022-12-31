@@ -1,0 +1,10 @@
+## Mjere u slučaju sumnje na bolest kategorije B
+# Članak 42.
+(1) U slučaju sumnje na bilo koju bolest kategorije B veterinarski inspektor rješenjem naređuje provedbu preliminarnih mjera kontrole bolesti sukladno članku 74. stavku 1. Uredbe (EU) 2016/429, članku 21. ili članku 55. Delegirane uredbe 2020/689, sukladno programima donesenim na temelju članka 20. ovoga Zakona i uputi donesenoj u skladu sa stavkom 4. ovoga članka.
+(2) Iznimno od stavka 1. ovoga članka, u slučajevima kada su ispunjeni uvjeti iz članka 23. odnosno članka 57. Delegirane uredbe (EU) 2020/689 te kada su takva odstupanja predviđena programima iz članka 20. ovoga Zakona, veterinarski inspektor rješenjem određuje odstupanja od mjera kontrole bolesti.
+(3) Ministarstvo preispituje nalaze istraživanja iz članka 41. ovoga Zakona i epidemiološkog istraživanja provedenog u skladu s člankom 74. stavkom 1. b) Uredbe (EU) 2016/429 i člankom 33. ovoga Zakona u svrhu određivanja dodatnih mjera na način kako je to određeno člankom 75. Uredbe (EU) 2016/429.
+(4) Ministarstvo može uputom odrediti dodatne mjere iz stavka 3. ovoga članka, u skladu s člankom 22. stavcima 1. a) i 2. ili člankom 56. Delegirane uredbe (EU) 2020/689.
+(5) Veterinarski inspektor rješenjem određuje mjere na epidemiološki povezanim objektima iz članka 22. stavka 1. b) Delegirane uredbe (EU) 2020/689.
+(6) Ako je Republika Hrvatska ostvarila slobodan status države, zone ili kompartmenta za bolest kategorije B, veterinarski inspektor rješenjem određuje provedbu mjera u skladu s člankom 68. Delegirane uredbe 2020/687 i uputi donesenoj u skladu sa stavkom 4. ovoga članka.
+(7) Odredbe iz stavaka 3., 4. i 5. ovoga članka primjenjuju se i u slučaju kada je Republika Hrvatska ostvarila slobodan status države, zone ili kompartmenta.
+(8) Preliminarne mjere iz stavaka 1., 4., 5. i 6. ovoga članka ostaju na snazi dok se bolest službeno ne isključi u skladu s odredbama članka 78. Uredbe (EU) 2016/429, a na temelju rezultata istraživanja iz članka 41. ovoga Zakona odnosno do početka provedbe mjera iz članka 46. ovoga Zakona u slučaju potvrde bolesti.

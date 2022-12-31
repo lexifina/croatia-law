@@ -1,0 +1,8 @@
+## Nacionalni popis bolesti, vrste životinja i dodatne mjere za sprječavanje i kontrolu bolesti
+# Članak 7.
+(1) Nacionalni popis bolesti, osim bolesti navedenih u članku 6. stavku 1. ovoga Zakona, sadrži i bolesti životinja čije je sprječavanje i kontrola od interesa za Republiku Hrvatsku, a koje predlaže Stručno povjerenstvo u skladu s kriterijima navedenima u članku 5. stavku 3. i članku 7. Uredbe (EU) 2016/429.
+(2) Za bolesti iz stavka 1. ovoga članka Stručno povjerenstvo predlaže mjere za njihovo sprječavanje i kontrolu te vrste životinja na koje se iste primjenjuju.
+(3) Mjere u slučaju sumnje ili potvrde bolesti iz stavka 4. ovoga članka te mjere određene naredbom iz stavka 6. ovoga članka rješenjem naređuje veterinarski inspektor.
+(4) Ministar na prijedlog Stručnog povjerenstva donosi naredbu kojom se, u skladu sa stavcima 1. i 2. ovoga članka, određuje popis bolesti, programi nadziranja i iskorjenjivanja te mjere za sprječavanje i kontrolu bolesti iz stavka 1. ovoga članka kao i vrste životinja na koje se iste primjenjuju.
+(5) Ministarstvo rješenjem može odrediti zonu ograničenja i za bolesti koje nisu bolesti kategorije A, ako je to potrebno za kontrolu te bolesti, u skladu s člancima 170. i 171. odnosno u skladu s člancima 226., 227. i 269. Uredbe (EU) 2016/429.
+(6) Ministar može naredbom odrediti dodatne mjere radi sprječavanja i kontrole bolesti iz stavka 1. ovoga članka kao i za bolesti iz stavka 1. članka 6. ovoga Zakona, uključujući obvezne veterinarske preglede, mjere kontrole bolesti u zoni ograničenja za bolesti koje nisu bolesti kategorije A, u skladu sa stavkom 5. ovoga članka, člancima 170. i 171. odnosno člancima 226., 227. i 269. Uredbe (EU) 2016/429.

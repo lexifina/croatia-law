@@ -1,0 +1,6 @@
+## Uvjeti koji se primjenjuju na nekomercijalno premještanje kućnih ljubimaca vrsta navedenih u dijelu B Priloga I. Uredbe (EU) 2016/429
+# Članak 98.
+(1) Kućni ljubimci vrsta koje su navedene u dijelu B Priloga I. Uredbe (EU) 2016/429 mogu se premještati u Republiku Hrvatsku iz treće zemlje ili područja sukladno članku 250. Uredbe (EU) 2016/429.
+(2) Kućni ljubimci iz stavka 1. ovoga članka, kada dolaze u Republiku Hrvatsku iz treće zemlje ili područja koje nije navedeno na popisu iz članka 253. stavka 1. točke d) Uredbe (EU) 2016/429, mogu ući samo kroz ulaznu točku koja je uvrštena na popis u tu svrhu sukladno članku 250. stavku 2. točki d) Uredbe (EU) 2016/429.
+(3) Ako pravila za nekomercijalno premještanje određenih vrsta navedenih u dijelu B Priloga I. Uredbe (EU) 2016/429 nisu propisana delegiranim aktom iz članka 250. stavka 1. Uredbe (EU) 2016/429 niti Pravilnikom iz članka 95. stavka 2. ovoga Zakona, Ministarstvo rješenjem može dozvoliti nekomercijalna premještanja kućnih ljubimaca vrsta navedenih u dijelu B Priloga I. Uredbe (EU) 2016/429 na svoje područje iz drugih država članica pod uvjetima navedenima u članku 250. stavku 3. Uredbe (EU) 2016/429.
+(4) Popis ulaznih točaka iz stavka 1. ovoga članka pravilnikom propisuje ministar, a popis se objavljuje i na mrežnim stranicama Uprave.

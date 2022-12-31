@@ -1,0 +1,5 @@
+## Izvoz iz Republike Hrvatske
+# Članak 94.
+(1) Izvoz životinja i proizvoda iz Republike Hrvatske u treću zemlju ili područje odvija se sukladno pravilima za premještanje životinja i proizvoda predviđenima u ovom Zakonu, članku 243. te člancima 84. do 228. Uredbe (EU) 2016/429, uzimajući u obzir zdravstveni status životinja u trećoj zemlji ili području odredišta, ili relevantnoj zoni ili kompartmentu, s obzirom na bolesti kategorije D i emergentne bolesti.
+(2) Dokumentaciju za izvoz životinja, proizvoda i nusproizvoda u treće zemlje izdanu elektroničkim ili pisanim oblikom nije potrebno uvoditi u službenu dokumentaciju u skladu s propisima kojima se uređuje uredsko poslovanje.
+(3) Subjekti koji izvoze držane kopnene životinje, divlje kopnene životinje i akvatične životinje izravno iz Republike Hrvatske u treće zemlje obvezni su najmanje jedan radni dan prije izvoza obavijestiti izlaznu graničnu veterinarsku postaju ili drugu izlaznu točku u Republici Hrvatskoj, putem TRACES-a ili u drugoj pisanoj formi koja sadrži sve podatke nužne za obavještavanje države članice odredišta putem TRACES-a.

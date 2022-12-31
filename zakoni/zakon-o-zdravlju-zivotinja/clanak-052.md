@@ -1,0 +1,7 @@
+## Registracija prijevoznika
+# Članak 52.
+(1) Prijevoznici držanih kopitara i papkara, držanih pasa, mačaka i pitomih vretica te peradi koji su uključeni u prijevoz tih životinja prema državama članicama ili trećim zemljama moraju biti registrirani prije početka obavljanja takve djelatnosti u skladu s člankom 87. Uredbe (EU) 2016/429 odnosno člankom 3. Delegirane uredbe (EU) 2019/2035.
+(2) Prijevoznici iz stavka 1. ovoga članka dužni su, prije početka obavljanja djelatnosti prijevoza, Ministarstvu dostaviti zahtjev za registraciju koji sadrži podatke u skladu s člankom 87. Uredbe (EU) 2016/429 odnosno člankom 3. Delegirane uredbe (EU) 2019/2035 kako je određeno pravilnikom iz stavka 5. ovoga članka.
+(3) O registraciji prijevoznika iz stavka 1. ovoga članka Ministarstvo odlučuje rješenjem te registrirane prijevoznike upisuje u registar iz članka 57. ovoga Zakona i dodjeljuje im jedinstveni registracijski broj.
+(4) Prijevoznici iz stavka 1. ovoga članka dužni su voditi evidencije u skladu s člankom 104. Uredbe (EU) 2016/429 i člankom 34. Delegirane uredbe (EU) 2019/2035 te obavijestiti Ministarstvo o svim promjenama sukladno članku 87. stavku 2. Uredbe (EU) 2016/429 odnosno članku 3. stavku 4. Delegirane uredbe (EU) 2019/2035.
+(5) Obrazac zahtjeva za registraciju i izmjenu podataka, način dostave zahtjeva, primjene odstupanja od obveze registracije u skladu s člancima 88. i 89. Uredbe (EU) 2016/429 te Delegirane uredbe (EU) 2019/2035 i vođenje evidencija pravilnikom propisuje ministar.

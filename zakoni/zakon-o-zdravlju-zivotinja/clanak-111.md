@@ -1,0 +1,13 @@
+## Inspekcijski nadzor
+# Članak 111.
+(1) Inspekcijski nadzor nad provedbom mjera određenih na temelju ovoga Zakona i propisa donesenih na temelju ovoga Zakona te propisa Unije te u slučaju sumnje ili potvrde bolesti iz članaka 6. i 7. ovoga Zakona provode veterinarski inspektori i granični veterinarski inspektori Državnog inspektorata u skladu s propisom o službenim kontrolama i Državnom inspektoratu.
+(2) Osoba ovlaštena za provedbu službenih kontrola iz stavka 1. ovoga članka u obavljanju službene kontrole ima pravo i dužnost donijeti usmeno rješenje za izvršenje određenih mjera:
+– kada rizik za zdravlje ljudi ili životinja zahtijeva da se određena mjera poduzme odmah, bez odgađanja ili
+– kada postoji opasnost od prikrivanja, zamjene ili uništenja predmeta službene kontrole ili dokaza ako se mjera ne poduzme odmah.
+(3) Osoba ovlaštena za provedbu službenih kontrola iz stavka 1. ovoga članka u obavljanju službene kontrole ima pravo i dužnost narediti izvršenje usmenog rješenja odmah, ako je primjenjivo.
+(4) Usmeno rješenje iz stavka 3. ovoga članka unosi se u zapisnik po izvršenoj službenoj kontroli.
+(5) Osoba ovlaštena za provedbu službenih kontrola iz stavka 1. ovoga članka u obavljanju službene kontrole ima pravo narediti usmrćivanje životinja nepoznatog porijekla, životinja nepoznatog zdravstvenog statusa te životinja koje ne udovoljavaju zahtjevima sljedivosti i uvjetima premještanja u skladu s odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona kada se drugim mjerama ne može sa sigurnošću otkloniti rizik za javno zdravlje i za zdravlje životinja.
+(6) Kada mjere koje određuje veterinarski inspektor u skladu s ovim Zakonom uključuju zabranu premještanja, veterinarski inspektor dužan je istodobno unijeti podatak o zabrani premještanja u službenu evidenciju koja se vodi u računalnoj bazi iz članka 59. ovoga Zakona i koja je dostupna registriranim korisnicima.
+(7) Ako se inspekcijskim nadzorom utvrde nepravilnosti, veterinarski inspektor rješenjem naređuje njihovo otklanjanje u određenom roku odnosno Ministarstvu predlaže suspenziju ili povlačenje odobrenja za objekte odobrene u skladu s ovim Zakonom.
+(8) Veterinarski inspektor i granični veterinarski inspektor u postupanju iz stavka 1. ovoga članka donose rješenje bez odgađanja, a najkasnije u roku od 15 dana od dana provedenog nadzora.
+(9) Veterinarski inspektori dužni su izvješćivati Ministarstvo o svim postupanjima u okviru ovoga Zakona i propisa donesenih na temelju ovoga Zakona te u skladu sa sporazumom sklopljenim na temelju propisa o službenim kontrolama i drugim službenim aktivnostima iz područja zdravlja životinja.

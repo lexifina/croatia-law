@@ -1,0 +1,7 @@
+## Divlje kopnene životinje
+# Članak 72.
+(1) Subjekti mogu premještati divlje kopnene životinje u drugu državu članicu u skladu s uvjetima iz članaka 155. i 156. Uredbe (EU) 2016/429 te članaka 101. do 105. Delegirane uredbe (EU) 2020/688.
+(2) U svrhu izdavanja certifikata u skladu s člankom 155. stavkom 3. Uredbe (EU) 2016/429, subjekti iz stavka 1. ovoga članka obvezni su obavijestiti mjesno nadležno tijelo za certificiranje u Republici Hrvatskoj o planiranim premještanjima divljih kopnenih životinja u drugu državu članicu sukladno članku 104. Delegirane uredbe (EU) 2020/688.
+(3) Mjesno nadležno tijelo za certificiranje u Republici Hrvatskoj obvezno je obavijestiti nadležno tijelo države članice odredišta o premještanjima pošiljaka iz stavka 1. ovoga članka na način kako je to određeno odredbama članka 153. Uredbe (EU) 2016/429.
+(4) Subjekti iz stavka 1. ovoga članka obvezni su dostaviti mjesnom nadležnom tijelu iz stavka 2. ovoga članka podatke koji su potrebni kako bi se o premještanjima obavijestilo nadležno tijelo države članice, putem TRACES-a ili u drugoj pisanoj formi koja sadrži sve podatke nužne za obavještavanje države članice odredišta putem TRACES-a, sukladno članku 105. Delegirane uredbe (EU) 2020/688.
+(5) Regije za upravljanje obavijestima o premještanjima divljih kopnenih životinja utvrđuje Državni inspektorat u skladu s odredbama članka 153. stavka 3. Uredbe (EU) 2016/429.

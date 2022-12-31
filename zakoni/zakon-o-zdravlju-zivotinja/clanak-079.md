@@ -1,0 +1,7 @@
+## Obveze subjekata i zahtjevi premještanja akvatičnih životinja unutar Republike Hrvatske
+# Članak 79.
+(1) Premještanje je dozvoljeno samo iz registriranih ili odobrenih objekata akvakulture ili skupine objekata akvakulture na kojima su provedeni propisani pregledi u skladu s ovim Zakonom te na koje se ne primjenjuju ograničenja premještanja.
+(2) Uz opće zahtjeve premještanja iz članka 77. ovoga Zakona, za premještanje akvatičnih životinja iz registriranih ili odobrenih objekata ili skupine objekata akvakulture subjekti moraju osigurati da akvatične životinje u premještanju prati svjedodžba o zdravstvenom stanju koju izdaje ovlašteni veterinar.
+(3) Svjedodžbom o zdravstvenom stanju potvrđuju se opći zahtjevi premještanja iz članka 77. ovoga Zakona, zahtjevi zdravlja životinja kada je predviđeno člancima 208., 209. i 210. Uredbe (EU) 2016/429 te, kada je primjenjivo, ostali podaci sukladno propisima iz područja sigurnosti hrane.
+(4) Iznimno od stavka 2. ovoga članka, kada računalna baza iz članka 59. ovoga Zakona sadrži podatke kojima se može potvrditi da je udovoljeno uvjetima premještanja sukladno ovome Zakonu, subjekti ispisuju svjedodžbu o zdravstvenom stanju iz računalne baze iz članka 59. ovoga Zakona.
+(5) Postupak prijave premještanja, oblik i sadržaj obrasca, rokove čuvanja, način izdavanja ili ispisa, izuzeća od obveze izdavanja svjedodžbe o zdravstvenom stanju te visinu naknade za izdavanje ili ispis svjedodžbe o zdravstvenom stanju iz stavka 1. ovoga članka pravilnikom propisuje ministar.

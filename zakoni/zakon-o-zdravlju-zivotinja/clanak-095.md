@@ -1,0 +1,5 @@
+## DIO ŠESNAESTI NEKOMERCIJALNO PREMJEŠTANJE KUĆNIH LJUBIMACA
+## Opće odredbe
+# Članak 95.
+(1) Nekomercijalno premještanje kućnih ljubimaca iz Priloga I. Uredbe (EU) 2016/429 iz Republike Hrvatske u drugu državu članicu ili treću zemlju te iz drugih država članica ili trećih zemalja ili područja u Republiku Hrvatsku provodi se u skladu s člancima 244. do 256. Uredbe (EU) 2016/429.
+(2) Pravila za nekomercijalno premještanje koja se primjenjuju na vrste navedene u dijelu B Priloga I. u skladu s odredbama članka 248. stavka 3. i članka 250. stavka 3. Uredbe (EU) 2016/429, detaljne uvjete nekomercijalnog premještanja kućnih ljubimaca u odnosu na uvjete za određena odstupanja iz članka 252. stavka 4. točaka d) i e) Uredbe (EU) 2016/429, zahtjeve u pogledu primjene sredstava označavanja, uvjete primjenjive za nekomercijalno premještanje kućnih ljubimaca iz određenih država i područja te određene mjere sprječavanja i smanjenja rizika kako je propisano člankom 252. stavkom 1. točkom b) Uredbe (EU) 2016/429 pravilnikom propisuje ministar.

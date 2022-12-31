@@ -1,0 +1,5 @@
+## Epidemiološki povezani objekti i lokacije
+# Članak 38.
+(1) Kada postoje razlozi za sumnju na moguće širenje bolesti i povezanost s drugim epidemiološki povezanim objektima ili lokacijama, veterinarska inspekcija dužna je proširiti provedbu mjera kontrole u skladu s člankom 32. ovoga Zakona i na tim povezanim objektima i lokacijama sukladno odredbama članka 62. stavka 1. Uredbe (EU) 2016/429, članka 17. Delegirane uredbe (EU) 2020/687, članka 22. Delegirane uredbe (EU) 2020/689 i kriznog plana za navedenu bolest.
+(2) Ministarstvo obavještava Komisiju, drugu državu članicu ili treću zemlju ako se epidemiološki povezani objekt ili lokacija nalazi izvan Republike Hrvatske sukladno članku 62. stavku 2. Uredbe (EU) 2016/429 te članku 25. stavku 2. Delegirane uredbe (EU) 2020/689.
+(3) U slučaju iz stavka 2. ovoga članka, kao i kada Ministarstvo zaprimi informaciju od druge države članice ili treće zemlje o epidemiološki povezanom objektu ili lokaciji u Republici Hrvatskoj, daljnja epidemiološka istraživanja i primjena mjera kontrole bolesti provode se u suradnji s odnosnom državom, sukladno odredbi članka 62. stavka 3. Uredbe (EU) 2016/429.

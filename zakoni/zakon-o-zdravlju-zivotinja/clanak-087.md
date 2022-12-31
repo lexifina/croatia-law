@@ -1,0 +1,5 @@
+## Popis trećih zemalja i područja iz kojih je dopušten ulazak životinja, zametnih proizvoda i proizvoda životinjskog podrijetla u Republiku Hrvatsku
+# Članak 87.
+(1) Pošiljke iz članka 86. stavka 1. ovoga Zakona mogu ulaziti u Republiku Hrvatsku samo iz trećih zemalja i područja s popisa utvrđenih Provedbenom uredbom Komisije (EU) 2021/404 оd 24. ožujka 2021. o utvrđivanju popisa trećih zemalja, područja ili njihovih zona iz kojih je dopušten ulazak u Uniju životinja, zametnih proizvoda i proizvoda životinjskog podrijetla u skladu s Uredbom (EU) 2016/429 Europskog parlamenta i Vijeća (SL L 114, 31. 3. 2021.).
+(2) Ako pošiljke iz članka 86. stavka 1. ovoga Zakona ili prijevozna sredstva ili materijali koji su mogli doći u kontakt s takvim pošiljkama predstavljaju ozbiljan rizik za unos bolesti s popisa iz članka 6. ovoga Zakona ili izvor opasnosti, Ministarstvo može poduzeti hitne mjere u svrhu umanjenja rizika sukladno člancima 260. i 262. Uredbe (EU) 2016/429.
+Zahtjevi u pogledu zdravlja životinja za ulazak određenih vrsta i kategorija životinja, zametnih proizvoda i proizvoda životinjskog podrijetla u Republiku Hrvatsku
