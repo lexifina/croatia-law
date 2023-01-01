@@ -1,0 +1,3 @@
+## Preuzimanje akata Europske unije
+# Članak 2.
+Ovom se Uredbom u pravni poredak Republike Hrvatske prenosi Direktiva Vijeća 92/83/EEZ od 19. listopada 1992. o usklađivanju struktura trošarina na alkohol i alkoholna pića (SL L 316, 31. 10. 1992., str. 21.), kako je izmijenjena Direktivom Vijeća (EU) 2020/1151 od 29. srpnja 2020. o izmjeni Direktive 92/83/EEZ o usklađivanju struktura trošarina na alkohol i alkoholna pića (SL L 256, 5. 8. 2020., str. 1.) i Direktiva Vijeća 92/84/EEZ od 19. listopada 1992. o usklađivanju stopa trošarina na alkohol i alkoholna pića (SL, L 316, 31. 10. 1992., str. 29).
