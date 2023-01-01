@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 7. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, broj 138/21.), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. donijela
