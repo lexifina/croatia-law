@@ -1,0 +1,6 @@
+# Članak 10.
+Javne površine u Gradu, ovisno o pogodnosti položaja, sukladno grafičkom prikazu koji je sastavni dio ove Odluke, razvrstavaju se u sljedeće zone:
+a) I. zona - Obala kralja Tomislava, Mala obala - Marineta, Kačićev trg, Lištun, Trg 156. brigade Hrvatske vojske, Trg 4. svibnja 533., Šetalište sv. Petar, Šetalište dr. F. Tuđmana, područje Grme i Arbuna-Plišćevca, područje omeđeno dijelom Šetališta dr. F. Tuđmana, dijelom Ulice Ruđera Boškovića, južnom granicom bivšeg odmarališta ELBIH, te dijelom Ulice kralja Zvonimira, Put Cvitačke, Šetalište fra Jure Radića - dijelovi Grada obojeni u grafičkom prikazu zelenom bojom.
+b) II. dio Ulice Stjepana Radića (od Obale kralja Tomislava do zgrade Policije), Trg Tina Ujevića, Trg Hrpina te područje omeđeno sa zapadne strane Jadranskom ulicom, sa sjeverne strane Ulicom don Mihovila Pavlinovića i Ulicom Stjepana Ivičevića, s istočne strane Ulicom fra Filipa Grabovca, a s južne strane dijelovima Grada koji spadaju u I. zonu - dijelovi Grada obojeni u grafičkom prikazu crvenom bojom.
+c) III. zona - obuhvaća ostale dijelove Grada koji nisu navedeni u I., II. zoni, niti su označeni u grafičkom prikazu posebnom bojom.
+4.3. Visina poreza za godišnje porezno razdoblje

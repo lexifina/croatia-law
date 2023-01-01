@@ -1,0 +1,1 @@
+Na temelju članka 20., članka 41. stavka 4. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17 i 114/22) te članka 40. Statuta Grada Makarske (»Glasnik Grada Makarske« 3/21) Gradsko vijeće Grada Makarske na 12. sjednici održanoj 10. prosinca 2022., donosi

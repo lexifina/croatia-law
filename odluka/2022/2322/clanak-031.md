@@ -1,0 +1,3 @@
+# Članak 31.
+Za privremeno korištenje javne površine za potrebe gradilišta, za potrebe odlaganja materijala koji se upotrebljava u graditeljstvu, zanatstvu i ostalim granama, za potrebe odlaganja sve vrste otpadnog materijala u građevinarstvu, zanatstvu i ostalim granama, za potrebe smještaja glomaznog otpada, ambalaže, vozila, plovila i drugo, za organizaciju gradilišta - postavljanje građevinske fasadne skele i ograde gradilišta, za smještaj kontejnera i drugih privremenih objekata za potrebe gradilišta, plaća se porez za svaki dan korištenja, po 1 m² zauzete javne površine - 1,30 eura.
+4.6. Visina poreza za postavljanje reklama
