@@ -1,0 +1,1 @@
+Na temelju članka 20., članka 41. stavka 4. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i članka 28. stavka 1. i 85. stavka 1. Statuta Općine Brinje (»Županijski glasnik Ličko-senjske županije«, br. 4/21, 17/22), Općinsko vijeće Općine Brinje, na 8. sjednici održanoj 23. studenoga 2022. godine, donosi
