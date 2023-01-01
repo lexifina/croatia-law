@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu obračunavanja i plaćanja te izvješćivanja o prihodu obveznog zdravstvenog osiguranja po osnovi obveznog osiguranja od automobilske odgovornosti (»Narodne novine«, br. 135/14. i 128/17.) Izvješće o obračunanom i uplaćenom mjesečnom predujmu - prihodu po osnovi obveznog osiguranja od automobilske odgovornosti u obračunskom razdoblju od _______ do ______, god. ____ - Obrazac FPO mijenja se i sastavni je dio ovog Pravilnika.
