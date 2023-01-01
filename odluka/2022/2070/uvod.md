@@ -1,0 +1,1 @@
+Na temelju članka 20. i 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17 i 114/22) i članka 27. Statuta Grada Zadra (»Glasnik Grada Zadra« broj 9/09, 28/10, 3/13, 9/14, 2/15 - pročišćeni tekst, 3/18, 7/18 - pročišćeni tekst, 15/19, 2/20 i 3/21), Gradsko vijeće Grada Zadra, na 14. sjednici, održanoj 15. studenoga 2022. godine, donosi
