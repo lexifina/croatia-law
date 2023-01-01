@@ -1,0 +1,4 @@
+# Članak 6.
+Iza članka 11. dodaje se članak 11.a koji glasi:
+»Članak 11.a
+Iznimno od odredbi članaka 8., 9. i 10. ove Uredbe, osoba koja završi srednjoškolsko obrazovanje odraslih za zanimanje policajac ili redovito srednjoškolsko obrazovanje kroz 3. i 4. razred Policijske škole za zanimanje policajac, a raspoređena je na radno mjesto policijskog službenika koji provodi kriminalistička istraživanja u kibernetičkom prostoru, policijskog službenika koji obavlja poslove gospodarskog kriminaliteta i korupcije ili policijskog službenika koji obavlja poslove vezane uz informacijsku ili telekomunikacijsku tehnologiju, stječe najniže zvanje propisano za razinu potkategorije radnog mjesta na koje se raspoređuje, uz uvjet da u roku od godine dana položi državni ispit i ispit za to policijsko zvanje.«.

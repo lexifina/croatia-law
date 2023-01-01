@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 14.
+(1) Policijski službenik koji ima završen preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine i koji je najmanje četiri godine proveo na radnom mjestu policijskog službenika srednje stručne spreme, stupanjem na snagu ove Uredbe stječe policijsko zvanje policijski narednik.
+(2) Policijski službenik koji ima završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij i koji je najmanje tri godine proveo na radnom mjestu za koje je propisan preddiplomski sveučilišni studij ili stručni studij u trajanju od najmanje tri godine ili viša stručna sprema (VI/I) sukladno propisima koji su vrijedili prije stupanja na snagu Zakona o znanstvenoj djelatnosti i visokom obrazovanju, stupanjem na snagu ove Uredbe stječe policijsko zvanje policijski inspektor.
