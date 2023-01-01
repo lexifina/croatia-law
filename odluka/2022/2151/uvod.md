@@ -1,0 +1,1 @@
+Na temelju članaka 20. i 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17 i 114/22) i članka 32. Statuta Općine Brdovec (Glasnik Općine Brdovec broj 3/21), Općinsko vijeće Općine Brdovec, na svojoj 10. sjednici, održanoj 22. studenoga 2022., donijelo je
