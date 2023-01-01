@@ -1,0 +1,5 @@
+# Članak 8.
+(1) UAIF dostavlja Hanfi izvještaje iz članka 6. stavka 1. ovoga Pravilnika u elektroničkom obliku u skladu s tehničkom uputom Hanfe.
+(2) UAIF je dužan godišnje financijske izvještaje iz članka 6. stavka 2. ovoga Pravilnika i godišnje konsolidirane financijske izvještaje iz članka 6. stavka 3. ovoga Pravilnika, zajedno s revizorskim izvješćem o obavljenoj reviziji (konsolidiranih) godišnjih financijskih izvještaja i godišnjim izvješćem UAIF-a, dostaviti na način i u skladu s Tehničkom uputom Hanfe.
+(3) Osim izvještaja iz članka 6. ovoga Pravilnika, UAIF je dužan dostaviti na zahtjev Hanfe i drugu dokumentaciju ili podatke za potrebe nadzora ili za obavljanje drugih poslova iz nadležnosti i djelokruga Hanfe u vezi s poslovanjem UAIF-a, na način kako je propisano odredbama ovoga članka i u roku određenom u zahtjevu.
+(4) Hanfa može, u slučaju potrebe, zatražiti od UAIF-a dostavu određene dokumentacije propisane ovim Pravilnikom i u izvorniku ili ovjerenoj preslici, neovisno o izvršenoj dostavi u elektroničkom obliku.
