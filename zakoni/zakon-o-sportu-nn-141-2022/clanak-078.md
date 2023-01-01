@@ -1,0 +1,6 @@
+## Ukidanje rješenja kojim je priznato pravo na obvezne doprinose
+# Članak 78.
+(1) Tijelo državne uprave nadležno za sport po službenoj će dužnosti ukinuti rješenje priznatog prava sportašu iz članka 77. ovoga Zakona ako se utvrdi da više ne ispunjava uvjete iz članka 77. stavka 2. ovoga Zakona.
+(2) Sportaš koji je ostvario pravo iz članka 77. ovoga Zakona dužan je o promjeni okolnosti koja je utjecala na ostvarivanje prava obavijestiti tijelo koje je rješenje donijelo, odmah po nastanku okolnosti, a najkasnije u roku od 15 dana od nastupa okolnosti.
+(3) Vrhunski sportaš I. kategorije koji nakon što mu je rješenjem priznato pravo na uplatu obveznih doprinosa, obvezan je tijelu državne uprave nadležnom za sport vratiti sredstva s pripadajućim zateznim kamatama uplaćena za doprinose prema ovome Zakonu, ako su doprinosi uplaćivani nakon što su nastupile okolnosti koje utječu na prestanak prava na uplatu obveznih doprinosa, a sportaš je znao ili je morao znati za te okolnosti, ali nije o njima obavijestio tijelo državne uprave nadležno za sport u roku od 15 dana od nastanka okolnosti.
+(4) Protiv rješenja iz stavka 1. ovoga članka žalba nije dopuštena, već se može pokrenuti upravni spor.

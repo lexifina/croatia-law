@@ -1,0 +1,5 @@
+## Primjena posebnih propisa na pravne osobe u sustavu sporta
+# Članak 43.
+(1) Na osnivanje, pravni položaj, registraciju, prestanak postojanja, ustrojstvo i način poslovanja te ustroj i nadležnost tijela upravljanja pravne osobe u sustavu sporta osnovane kao udruga, primjenjuju se odredbe zakona kojim se uređuje djelovanje udruga ako ovim Zakonom nije drukčije propisano.
+(2) Na osnivanje, pravni položaj, registraciju, prestanak postojanja, ustrojstvo i način poslovanja te ustroj i nadležnost tijela upravljanja pravne osobe u sustavu sporta osnovane kao ustanova, primjenjuju se odredbe zakona kojim se uređuje djelovanje ustanova ako ovim Zakonom nije drukčije propisano.
+(3) Na osnivanje, pravni položaj, registraciju, prestanak postojanja, ustrojstvo i način poslovanja te ustroj i nadležnost tijela upravljanja pravne osobe u sustavu sporta osnovane kao trgovačko društvo, primjenjuju se odredbe zakona kojim se uređuje djelovanje trgovačkih društava ako ovim Zakonom nije drukčije propisano.

@@ -1,0 +1,15 @@
+## Državna nagrada za vrhunska sportska postignuća
+# Članak 89.
+(1) Državna nagrada za vrhunska sportska postignuća je nagrada koja se dodjeljuje sportašu, sportskoj ekipi i drugom stručnjaku u sustavu sporta, a koje predlaže nacionalni sportski savez.
+(2) Državna nagrada za vrhunska sportska postignuća dodjeljuje se za:
+– osvojenu medalju na olimpijskim igrama / paraolimpijskim igrama / olimpijskim igrama gluhih te svjetskom i europskom seniorskom prvenstvu u olimpijskom/paraolimpijskom sportu i disciplini / olimpijskom sportu i disciplini za gluhe
+– osvojenu zlatnu medalju na svjetskom i europskom seniorskom prvenstvu u neolimpijskom sportu / neparaolimpijskom sportu / neolimpijskom sportu gluhih koji u Republici Hrvatskoj ima tradiciju dužu od deset godina
+– svjetski rekord oboren na seniorskom natjecanju u olimpijskom sportu / paraolimpijskom sportu / olimpijskom sportu za gluhe
+– zlatnu medalju, odnosno osvojeno prvo mjesto na svjetskom/europskom seniorskom prvenstvu u neolimpijskoj disciplini olimpijskog sporta / neparaolimpijskoj disciplini paraolimpijskog sporta / neolimpijskoj disciplini olimpijskog sporta za gluhe.
+(3) Nagrade iz stavka 2. ovoga članka dodjeljuju se samo za svjetska i europska prvenstva najviše razine.
+(4) U slučaju dvojbe, nadležni nacionalni sportski savez dužan je na zahtjev dostaviti dokaz o tome koji se rang natjecanja u smislu stavka 3. ovoga članka smatra svjetskim i europskim prvenstvom najviše razine, sukladno pravilima nadležnog međunarodnog sportskog saveza.
+(5) Popis sportova iz stavka 2. podstavka 2. ovoga članka donose Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor i Hrvatski sportski savez gluhih, uz prethodnu suglasnost tijela državne uprave nadležnog za sport.
+(6) Uzimajući u obzir specifičnosti sustava natjecanja svakog sporta sukladno sportskim pravilima pripadajućih međunarodnih sportskih federacija, ako se u određenom sportu prvenstva na svjetskoj i/ili europskoj razini ne održavaju pod imenom svjetskog ili europskog prvenstva, već pod drugim nazivom koji upućuje na tu razinu natjecanja, ona se prihvaćaju pod uvjetom da predlagatelj iz stavka 8. ovoga članka dostavi tijelu državne uprave nadležnom za sport popis takvih natjecanja po sportovima, sportskim granama i sportskim disciplinama.
+(7) Na razini europskog i svjetskog prvenstva za svaku sportsku disciplinu, sportsku granu i sport može postojati samo jedno službeno natjecanje koje se smatra europskim ili svjetskim prvenstvom u toj sportskoj disciplini, sportskoj grani ili sportu. Hrvatski paraolimpijski odbor i Hrvatski sportski savez gluhih dužni su tijelu državne uprave nadležnom za sport dostaviti popis europskih i svjetskih prvenstava prema sportovima, sportskim granama i sportskim disciplinama.
+(8) Prijedlog za dodjelu državne nagrade podnosi nadležni nacionalni sportski savez član Hrvatskog olimpijskog odbora odnosno Hrvatski paraolimpijski odbor ili Hrvatski sportski savez gluhih tijelu državne uprave nadležnom za sport u roku od 30 dana od dana završetka natjecanja.
+(9) Odluku o dodjeli državne nagrade donosi tijelo državne uprave nadležno za sport.

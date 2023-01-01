@@ -1,0 +1,5 @@
+## Postupanje u slučaju utvrđenja postojanja stečajnih razloga krovnih sportskih udruženja
+# Članak 71.
+(1) U slučaju utvrđenja postojanja stečajnih razloga krovnog sportskog udruženja, financijska sredstva namijenjena programu financiranja javnih potreba u sportu tijelo državne uprave nadležno za sport izravno doznačuje krajnjim korisnicima, do prestanka postojanja stečajnih razloga krovnog sportskog udruženja.
+(2) U slučaju financijskih obveza krovnog sportskog udruženja prema trećim osobama koje je nastalo iz poslovnog odnosa koji nije utvrđen odlukom iz članka 69. stavka 5. ovoga Zakona, koje krovno sportsko udruženje ne može podmiriti iz vlastitih sredstava te zbog kojega je izvršavanje programa financiranja javnih potreba u sportu dovedeno u pitanje, tijelo državne uprave nadležno za sport može izravno doznačiti sredstva krajnjim korisnicima, do prestanka tih financijskih obveza.
+(3) U slučajevima iz ovoga članka, krajnji korisnici javnih potreba u sportu svojim zahtjevima za financiranje izravno se obraćaju tijelu državne uprave nadležnom za sport u rokovima propisanim pravilnikom iz članka 69. stavka 9. ovoga Zakona.
