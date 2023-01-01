@@ -1,0 +1,2 @@
+# Članak 6.
+U članku 21. stavku 1. riječi »75.000,00 kuna« zamjenjuju se riječima »10.000,00 eura«, riječi »7.500,00 kuna« zamjenjuju se riječima »1.000,00 eura«, riječi »100.000,00 kuna« zamjenjuju se riječima »15.000,00 eura«, riječi »10.000,00 kuna« zamjenjuju se riječima »1.500,00 eura«, riječi »200.000,00 kuna« zamjenjuju se riječima »27.000,00 eura«, a riječi »20.000,00 kuna« zamjenjuju se riječima »2.700,00 eura«.
