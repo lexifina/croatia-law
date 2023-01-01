@@ -1,0 +1,1 @@
+Na temelju članka 547. stavka 15. i 16. Zakona o tržištu kapitala (»Narodne novine« broj 65/18., 17/20. i 83/21.) te članka 19. stavka 6. Zakona o računovodstvu (»Narodne novine« broj 78/15., 134/15., 120/16., 116/18., 42/20., 47/20. i 114/22.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 21. prosinca 2022. donosi
