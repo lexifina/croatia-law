@@ -1,1 +1,0 @@
-Na temelju članka 42. stavka 1. točke 1., 2. i 3. Zakona o lokalnim porezima (»Narodne novine« broj 115/16. i 101/17.) i članka 33. Statuta Općine Trnovec Bartolovečki (»Službeni vjesnik Varaždinske županije« broj 24/09., 15/13. i 25/13. - pročišćeni tekst i 10/18.) Općinsko vijeće Općine Trnovec Bartolovečki na 20. sjednici održanoj dana 24. listopada 2019. godine, donosi
