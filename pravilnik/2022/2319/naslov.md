@@ -1,0 +1,1 @@
+Pravilnik o nadzornim izvještajima za pravne osobe ovlaštene za pružanje investicijskih i pomoćnih usluga i obavljanje investicijskih aktivnosti, tržišnog posrednika i podružnice investicijskog društva iz države članice i treće zemlje

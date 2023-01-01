@@ -1,0 +1,1 @@
+Na temelju članka 84. stavka 10., članka 135. i članka 158. stavka 6. Zakona o tržištu kapitala (»Narodne novine« broj 65/2018, 17/2020 i 83/2021), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 13. prosinca 2022. godine donosi
