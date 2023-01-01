@@ -1,0 +1,3 @@
+## Predmet Odluke
+# Članak 1.
+Ovom Odlukom osigurava se provedba Uredbe (EU) 2016/867 Europske središnje banke od 18. svibnja 2016. o prikupljanju granularnih podataka o kreditima i kreditnom riziku (ESB/2016/13) (u nastavku teksta: Uredba ESB/2016/13) i usvajaju se Preporuka Europskog odbora za sistemske rizike od 31. listopada 2016. o zatvaranju praznina u podacima o nekretninama (ESRB/2016/14) i Preporuka Europskog odbora za sistemske rizike od 21. ožujka 2019. o izmjeni Preporuke ESRB/2016/14 o zatvaranju praznina u podacima o nekretninama (ESRB/2019/3) (u nastavku teksta: Preporuka ESRB/2016/14).

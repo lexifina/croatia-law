@@ -1,0 +1,2 @@
+# Članak 2.
+Ovom se odlukom propisuju obveza kreditnih institucija da Hrvatskoj narodnoj banci dostavljaju izvješća koja se odnose na granularne podatke o kreditima i kreditnom riziku koja su uređena Uredbom ESB/2016/13 i određena izvješća koja se odnose na granularne podatke o nekretninama uređena Preporukom ESRB/2016/14, obveznici primjene ove Odluke, dostava podataka, dinamika i rokovi dostave podataka.
