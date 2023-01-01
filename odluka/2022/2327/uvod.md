@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17 i 114/22) i članka 28. Statuta Općine Blato (»Službeni glasnik Općine Blato« broj 2/21), Općinsko vijeće Općine Blato je na svojoj 15. sjednici održanoj 13. prosinca 2022. godine donijelo
