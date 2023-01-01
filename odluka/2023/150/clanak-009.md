@@ -1,0 +1,4 @@
+## III. PROVEDBENE ODREDBE
+# Članak 9.
+Poslovi utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate općinskih poreza propisanih člankom 2. točkom 2. i točkom 3. ove Odluke o porezima Općine Stara Gradiška prenose se na temelju Suglasnosti da Porezna uprava može obavljati poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, broj 1/17) na obavljanje nadležnoj ispostavi Porezne uprave, a u skladu s odredbama Pravilnika o uvjetima, opsegu i naknadi za obavljanje poslova utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza jedinica lokalne i područne (regionalne) samouprave (»Narodne novine« broj 1/17).
+Poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate općinskih poreza propisanih člankom 2. točkom 4. ove Odluke obavlja Jedinstveni upravni odjel Općine Stara Gradiška.
