@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 5. Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18., 115/18. i 58/20.) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 8. prosinca 2022. godine donosi
