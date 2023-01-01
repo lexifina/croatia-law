@@ -1,0 +1,5 @@
+# Članak 30.
+U članku 56. stavku 1. riječi: »sa sumnjivom« zamjenjuju se riječima: »s tom«.
+Iza stavka 7. dodaju se stavci 8. i 9. koji glase:
+»(8) Iznimno od odredbi članka 16. ovoga Zakona, kada obveznik iz članka 9. ovoga Zakona zna, sumnja ili ima razloga sumnjati da u vezi s transakcijom postoje razlozi za sumnju na pranje novca ili financiranje terorizma, ali na temelju opravdanih razloga procijeni da će provođenje mjera dubinske analize rezultirati otkrivanjem informacije stranci da je Uredu bio ili će biti dostavljen podatak, informacija ili dokumentacija o njoj ili trećoj osobi ili transakciji, nije obvezan nastaviti provođenje mjera dubinske analize, nego Uredu dostaviti obavijest o sumnjivoj transakciji.
+(9) Obveznik iz članka 9. ovoga Zakona dužan je pokušanu transakciju u odnosu na ograničenja raspolaganja imovinom utvrđena pravnim aktima Ujedinjenih naroda čija je primjena propisana zakonom kojim se uređuju međunarodne mjere ograničavanja prijaviti Uredu najkasnije sljedeći radni dan.«.

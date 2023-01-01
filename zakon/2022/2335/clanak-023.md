@@ -1,0 +1,4 @@
+# Članak 23.
+U članku 46. stavak 1. mijenja se i glasi:
+»(1) Obveznik iz članka 9. ovoga Zakona dužan je prilikom uspostavljanja poslovnoga odnosa, za vrijeme trajanja poslovnog odnosa ili obavljanja transakcija iz članka 16. stavka 1. točaka 2., 3. i 4. i stavka 2. ovoga Zakona, osim propisanih mjera dubinske analize iz članka 15. stavka 1. ovoga Zakona, uspostaviti odgovarajući sustav upravljanja rizikom, uključujući i postupke koji se temelje na procjeni rizika za utvrđivanje je li stranka ili stvarni vlasnik stranke politički izložena osoba.«.
+U stavku 3. točki 8. riječi: »pravnih osoba koje su u vlasništvu ili većinskom vlasništvu države« zamjenjuju se riječima: »trgovačkih društava koja su u vlasništvu ili većinskom vlasništvu države ili jedinica lokalne i područne (regionalne) samouprave«.

@@ -1,0 +1,7 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 48.
+(1) Ministar financija uskladit će pravilnike iz članka 59. stavka 3., članka 61. stavka 3. i članka 121. stavka 4. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/17. i 39/19.) s odredbama ovoga Zakona u roku od 30 dana od stupanja na snagu ovoga Zakona.
+(2) Upravno vijeće Hrvatske agencije za nadzor financijskih usluga uskladit će pravilnike iz članka 14. stavka 11. i članka 42. stavka 1. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/17. i 39/19.) s odredbama ovoga Zakona u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+(3) Upravno vijeće Hrvatske agencije za nadzor financijskih usluga donijet će pravilnike iz članka 9.a stavka 7. i članka 9.e stavka 7. koji su dodani člankom 4. ovoga Zakona te članka 67. stavka 7. koji se mijenja člankom 32. ovoga Zakona u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+(4) Ministar financija donijet će pravilnike iz članka 9.d stavka 14. i članka 9.e stavka 7. koji su dodani člankom 4. ovoga Zakona u roku od šest mjeseci od stupanja na snagu ovoga Zakona.
+(5) Guverner Hrvatske narodne banke i Upravno vijeće Hrvatske agencije za nadzor financijskih usluga donijet će odluku odnosno pravilnik iz članka 83. stavka 6. koji je izmijenjen člankom 38. ovoga Zakona u roku od dvanaest mjeseci od stupanja na snagu ovoga Zakona.
