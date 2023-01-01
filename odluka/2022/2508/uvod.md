@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i 31. Statuta Općine Jakovlje (»Službeni glasnik Općine Jakovlje« broj 1/21) Općinsko vijeće Općine Jakovlje na 11. sjednici održanoj 29. studenoga 2022. godine donosi
