@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 5. Zakona o sustavu civilne zaštite (»Narodne novine«, br. 82/15., 118/18., 31/20., 20/21. i 114/22.), Vlada Republike Hrvatske je na sjednici održanoj 29. prosinca 2022. donijela
