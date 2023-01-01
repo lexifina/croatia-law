@@ -1,0 +1,3 @@
+# Članak 13.
+Članak 32. mijenja se i glasi:
+»Ako je za stjecanje određenih prava iz radnog odnosa ili u vezi s radnim odnosom važno prethodno trajanje radnog odnosa, razdoblja rodiljnog, roditeljskog, posvojiteljskog, očinskog dopusta ili dopusta koji je po sadržaju i načinu korištenja istovjetan pravu na očinski dopust, rada s polovicom punog radnog vremena, rada s polovicom punog radnog vremena radi pojačane njege djeteta, dopusta trudne radnice, dopusta radnice koja je rodila ili radnice koja doji dijete te dopusta ili rada s polovicom punog radnog vremena radi skrbi i njege djeteta s težim smetnjama u razvoju u skladu s propisom o rodiljnim i roditeljskim potporama smatrat će se vremenom provedenim na radu u punom radnom vremenu.«.

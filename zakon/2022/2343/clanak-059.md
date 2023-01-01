@@ -1,0 +1,51 @@
+# Članak 59.
+Članak 228. mijenja se i glasi:
+»(1) Novčanom kaznom od 4110,00 do 7960,00 eura kaznit će se za prekršaj poslodavac pravna osoba:
+1. ako s radnikom sklopi ugovor o radu na određeno vrijeme za koji ne postoji objektivan razlog, odnosno ako u tom ugovoru ili u pisanoj potvrdi o sklopljenom ugovoru o radu ne navede objektivan razlog ili je ugovor o radu sklopljen u trajanju dužem od tri godine (članak 12. stavci 1., 2. i 3.)
+2. ako s istim radnikom sklopi više uzastopnih ugovora o radu na određeno vrijeme čije je ukupno trajanje, uključujući i prvi ugovor o radu, neprekinuto duže od tri godine, osim ako je to potrebno zbog zamjene privremeno nenazočnog radnika, zbog dovršetka rada na projektu koji uključuje financiranje iz fondova Europske unije ili je zbog nekog drugog objektivnog razloga dopušteno posebnim zakonom ili kolektivnim ugovorom (članak 12. stavci 4. i 7.)
+3. ako s radnikom sklopi ugovor o radu na određeno vrijeme za sezonske poslove protivno odredbama ovoga Zakona (članak 12. stavak 11.)
+4. ako s radnikom sklopi ugovor o radu za stalne sezonske poslove koji se u određenim dijelovima kalendarske godine obavljaju u godišnjim razdobljima s ukupnim trajanjem dužim od devet mjeseci (članak 16. stavci 1. i 3.)
+5. ako sklopi ugovor o radu s radnikom koji ne udovoljava posebnim uvjetima za zasnivanje radnog odnosa propisanim zakonom, drugim propisom, kolektivnim ugovorom ili pravilnikom o radu (članak 23.)
+6. ako prilikom postupka odabira kandidata za radno mjesto (razgovor, testiranje, anketiranje i slično) i sklapanja ugovora o radu od radnika traži podatke koji nisu u neposrednoj vezi s radnim odnosom (članak 25. stavak 1.)
+7. ako prikuplja, obrađuje, koristi i dostavlja trećim osobama osobne podatke radnika protivno odredbama ovoga Zakona ili ako ne imenuje osobu koja je, osim njega, ovlaštena nadzirati prikupljanje, obradu, korištenje i dostavljanje tih podataka trećim osobama (članak 29. stavci 1. i 6.)
+8. ako traži podatke o trudnoći ili uputi drugu osobu da traži takve podatke, osim ako radnica osobno zahtijeva određeno pravo predviđeno zakonom ili drugim propisom radi zaštite trudnica (članak 30. stavak 2.)
+9. ako radnika nakon isteka rodiljnog, roditeljskog, posvojiteljskog i očinskog dopusta ili dopusta koji je po sadržaju i načinu korištenja istovjetan pravu na očinski dopust, dopusta trudne radnice, dopusta radnice koja je rodila ili radnice koja doji dijete, dopusta radi skrbi i njege djeteta s težim smetnjama u razvoju te mirovanja radnog odnosa do treće godine života djeteta u skladu s posebnim propisom, pod uvjetima propisanim ovim Zakonom, ne vrati na poslove na kojima je radio prije korištenja tih prava ili mu ne ponudi sklapanje ugovora o radu za obavljanje drugih odgovarajućih poslova (članak 36. stavci 1. i 3.)
+10. ako radnika koji je bio privremeno nesposoban za rad zbog ozljede ili ozljede na radu, bolesti ili profesionalne bolesti ne vrati na poslove na kojima je prethodno radio ili mu ne ponudi sklapanje ugovora o radu za obavljanje drugih odgovarajućih poslova (članak 40. stavak 1.)
+11. ako radniku kod kojeg postoji smanjenje radne sposobnosti uz preostalu radnu sposobnost, smanjenje radne sposobnosti uz djelomični gubitak radne sposobnosti ili neposredna opasnost od nastanka smanjenja radne sposobnosti, u pisanom obliku ne ponudi sklapanje ugovora o radu za obavljanje poslova za koje je sposoban, a u mogućnosti je radniku osigurati obavljanje takvih poslova (članak 41. stavak 1.)
+12. ako korisniku ustupi istog radnika za obavljanje istih poslova u neprekinutom razdoblju dužem od tri godine, osim u propisanim slučajevima (članak 48. stavak 1.)
+13. ako u pravnom prometu, poslovnim ispravama, na svakom dopisu ili ugovoru ne navede broj pod kojim je agencija upisana u evidenciju ministarstva (članak 52. stavak 4.)
+14. ako s osobom koja se stručno osposobljava za rad ne sklopi ugovor u pisanom obliku (članak 59. stavak 5.)
+15. ako radniku ne omogući korištenje stanke na način i pod uvjetima propisanim ovim Zakonom (članak 73.)
+16. ako radniku ne omogući korištenje dnevnog odmora na način i pod uvjetima propisanim ovim Zakonom (članak 74.)
+17. ako radniku ne omogući korištenje tjednog odmora na način i pod uvjetima propisanim ovim Zakonom (članak 75.)
+18. ako radniku ne omogući korištenje godišnjeg odmora na način i pod uvjetima propisanim ovim Zakonom, osim u slučaju prestanka ugovora o radu (članak 18.a stavak 7., članci 77., 78., 83. i 84. te članak 85. stavci 2. i 4.)
+19. ako radniku ne omogući korištenje plaćenog dopusta na način i pod uvjetima propisanim ovim Zakonom (članak 86.)
+20. ako radniku ne omogući korištenje neplaćenog dopusta za pružanje osobne skrbi na način i pod uvjetima propisanim ovim Zakonom (članak 87. stavak 3.)
+21. ako radniku ne omogući pravo na odsutnost s posla u skladu s ovim Zakonom (članak 87.a stavak 1.)
+22. ako bez suglasnosti radnika svoje potraživanje prema radniku naplati uskratom isplate plaće ili nekog njezina dijela, odnosno uskratom isplate naknade plaće ili dijela naknade plaće (članak 96. stavak 1.)
+23. ako prije isteka roka od šest mjeseci od dana dostave odluke o otkazu na istim poslovima zaposli drugog radnika, a nije ponudio sklapanje ugovora o radu radniku kojem je otkazao iz poslovno uvjetovanih razloga (članak 115. stavci 5. i 6.)
+24. ako s podacima utvrđenim u postupku zaštite dostojanstva radnika ne postupa kao s tajnima (članak 134. stavak 10.)
+25. ako onemogući radnike u izboru radničkog vijeća (članak 141.)
+26. ako ne dostavi podatak o utemeljenju radničkog vijeća ili ga ne dostavi u propisanom roku i na propisani način (članak 146. stavak 3.)
+27. ako ne obavijesti radničko vijeće o pitanjima o kojima ga je dužan obavijestiti na način propisan ovim Zakonom (članak 149.)
+28. ako se s radničkim vijećem ne savjetuje o pitanjima o kojima je dužan savjetovati se na način propisan ovim Zakonom (članak 150.)
+29. ako bez prethodne suglasnosti radničkog vijeća donese odluku koju može donijeti samo uz suglasnost radničkog vijeća (članak 151. stavak 1.)
+30. ako ne osigura uvjete za rad radničkog vijeća (članak 156.)
+31. ako ne omogući imenovanom, odnosno izabranom predstavniku radnika članstvo u organu poslodavca, odnosno drugom odgovarajućem tijelu trgovačkog društva, zadruge ili javne ustanove (članak 164.)
+32. ako pokuša ostvariti ili ostvari zabranjeni nadzor nad utemeljenjem i djelovanjem sindikata ili udruge sindikata više razine (članak 183. stavak 1.)
+33. ako ne obračuna, ne ustegne ili ne uplati sindikalnu članarinu (članak 189.)
+34. ako, u slučaju kada je to dužan učiniti, ne dostavi svaki kolektivni ugovor ili svaku promjenu kolektivnog ugovora ministarstvu ili ga ne dostavi u propisanom roku (članak 201. stavak 1.)
+35. ako odbije sudjelovati u postupku mirenja predviđenim ovim Zakonom (članak 206. stavak 1.)
+36. ako radnika koji je organizirao štrajk ili sudjelovao u štrajku organiziranom u skladu s odredbama zakona, kolektivnog ugovora i pravilima sindikata stavi u nepovoljniji položaj od drugih radnika (članak 215. stavak 2.)
+37. ako na zahtjev sindikalnog povjerenika, odnosno sindikalnog predstavnika i inspekcije u području rada tijekom provođenja nadzora ne omogući dostupnost zatraženih podataka (članak 221.g stavak 6.)
+38. ako pri obradi osobnih podataka radnika koji rade putem digitalne radne platforme obrađuje podatke koje ne smije obrađivati ili prikuplja podatke koje ne smije prikupljati (članak 221.j)
+39. ako radi neometane profesionalne komunikacije osobama koje kod njega obavljaju poslove ne osigura mogućnost uspostave kontakata (članak 221.k)
+40. ako s radnikom sklopi ugovor o radu putem digitalne radne platforme kojim se ugovara rad po pozivu poslodavca bez podatka o najmanjem broju zajamčenih plaćenih radnih sati tjedno ili s brojem zajamčenih plaćenih radnih sati tjedno manjim od propisanog (članak 221.l stavci 2. i 4.)
+41. ako digitalna radna platforma ili agregator ne provede provjeru na propisani način i u propisanim rokovima koju je omogućilo nadležno tijelo koje putem sustava ePorezna vodi službenu evidenciju o svim isplatiteljima i o isplaćenim primicima ili ako fizičkoj osobi za koju je utvrdila da je imala primitak za obavljeni rad u pojedinom kvartalu kalendarske godine veći od limitirane visine ne ponudi sklapanje ugovora o radu (članak 221.n stavci 2., 3., 4. i 6.)
+42. ako kao digitalna radna platforma ili agregator u pravnom prometu, u poslovnim ispravama, ne navede broj pod kojim je upisana u evidenciju ministarstva (članak 221.p stavak 4.)
+43. ako kao digitalna radna platforma ili agregator ne dostavi podatke u evidenciju ministarstva (članak 221.p stavak 7.).
+(2) Novčanom kaznom od 530,00 do 790,00 eura za prekršaj iz stavka 1. ovoga članka kaznit će se poslodavac fizička osoba i odgovorna osoba pravne osobe.
+(3) Novčanom kaznom od 4110,00 do 7960,00 eura za prekršaj iz stavka 1. točke 1. ovoga članka kaznit će se korisnik pravna osoba koja je koristila rad istog ustupljenog radnika za obavljanje istih poslova u neprekinutom razdoblju dužem od tri godine, osim u propisanim slučajevima (članak 48. stavak 1.).
+(4) Novčanom kaznom od 530,00 do 790,00 eura za prekršaj iz stavka 1. točke 1. ovoga članka kaznit će se korisnik fizička osoba koja je koristila rad istog ustupljenog radnika za obavljanje istih poslova u neprekinutom razdoblju dužem od tri godine, osim u propisanim slučajevima (članak 48. stavak 1.).
+(5) Ako je prekršaj iz stavka 1. ovoga članka počinjen u odnosu na maloljetnika, iznos novčane kazne uvećava se dvostruko.
+(6) Za prekršaje iz stavka 1. točke 29. ovoga članka poslodavac pravna osoba odgovara i ako ne postoji prekršajna odgovornost odgovorne osobe.«.

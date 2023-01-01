@@ -1,0 +1,9 @@
+# Članak 7.
+Naslov iznad članka 17. mijenja se i glasi: »Rad na izdvojenom mjestu rada i rad na daljinu«.
+Članak 17. mijenja se i glasi:
+»(1) Rad na izdvojenom mjestu rada je rad kod kojeg radnik ugovoreni posao obavlja od kuće ili u drugom prostoru slične namjene koji je određen na temelju dogovora radnika i poslodavca, a koji nije prostor poslodavca.
+(2) Rad na daljinu je rad koji se uvijek obavlja putem informacijsko-komunikacijske tehnologije, pri čemu poslodavac i radnik ugovaraju pravo radnika da samostalno određuje gdje će taj rad obavljati, što može biti promjenjivo i ovisiti o volji radnika, zbog čega se takav rad ne smatra radom na mjestu rada odnosno na izdvojenom mjestu rada u smislu propisa o zaštiti na radu.
+(3) Rad na izdvojenom mjestu rada i rad na daljinu mogu se obavljati kao stalan, privremen ili povremen, ako, na prijedlog radnika ili poslodavca, radnik i poslodavac ugovore takvu vrstu rada.
+(4) Poslovi koji su ovim ili drugim zakonom utvrđeni kao poslovi s posebnim uvjetima rada odnosno poslovi na kojima, ni uz primjenu mjera zaštite zdravlja i sigurnosti na radu, nije moguće zaštititi radnika od štetnih utjecaja ne smiju se obavljati radom na izdvojenom mjestu rada ni radom na daljinu.
+(5) U slučaju nastanka izvanrednih okolnosti nastalih uslijed epidemije bolesti, potresa, poplave, ekološkog incidenta i sličnih pojava, poslodavac može, radi nastavka poslovanja te zaštite zdravlja i sigurnosti radnika i drugih osoba, bez izmjene ugovora o radu s radnikom dogovoriti rad na izdvojenom mjestu rada.
+(6) Za rad iz stavka 5. ovoga članka koji bi trajao duže od 30 dana, počevši od dana nastanka izvanredne okolnosti, poslodavac je radniku dužan ponuditi sklapanje ugovora o radu s obveznim sadržajem ugovora o radu u slučaju rada na izdvojenom mjestu rada.«.

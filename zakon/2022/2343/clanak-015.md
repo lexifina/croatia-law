@@ -1,0 +1,3 @@
+# Članak 15.
+U članku 35. stavak 1. mijenja se i glasi:
+»(1) Radnik koji koristi pravo na rodiljni, roditeljski, posvojiteljski i očinski dopust ili dopust koji je po sadržaju i načinu korištenja istovjetan pravu na očinski dopust, rad s polovicom punog radnog vremena, rad s polovicom punog radnog vremena radi pojačane njege djeteta, dopust trudne radnice, dopust radnice koja je rodila ili radnice koja doji dijete te dopust ili rad s polovicom punog radnog vremena radi skrbi i njege djeteta s težim smetnjama u razvoju ili kojem ugovor o radu miruje do treće godine života djeteta u skladu s propisom o rodiljnim i roditeljskim potporama može otkazati ugovor o radu izvanrednim otkazom.«.

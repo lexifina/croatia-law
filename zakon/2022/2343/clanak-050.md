@@ -1,0 +1,4 @@
+# Članak 50.
+U članku 135. iza stavka 4. dodaju se stavci 5. i 6. koji glase:
+»(5) U slučaju spora o stavljanju u nepovoljniji položaj radnika koji je podnio zahtjev za ostvarivanje rodiljnih i roditeljskih prava u skladu s propisom o rodiljnim i roditeljskim potporama ili prava vezana za pružanje osobne skrbi na temelju ovoga Zakona, a što je dovelo do povrede nekog od prava radnika iz radnog odnosa, ako radnik učini vjerojatnim da je stavljen u nepovoljniji položaj zbog tih razloga, teret dokazivanja prelazi na poslodavca koji mora dokazati da radnika nije stavio u nepovoljniji položaj zbog tih razloga odnosno da mu nije povrijedio pravo iz radnog odnosa.
+(6) U slučaju spora o postojanju dogovora za rad na izdvojenom mjestu rada iz članka 17. stavka 6. ovoga Zakona, teret dokazivanja o takvom dogovoru je na poslodavcu.«.

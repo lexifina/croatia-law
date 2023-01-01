@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 34. stavak 1. mijenja se i glasi:
+»(1) Za vrijeme trudnoće, korištenja rodiljnog, roditeljskog, posvojiteljskog, očinskog dopusta ili dopusta koji je po sadržaju i načinu korištenja istovjetan pravu na očinski dopust, rada s polovicom punog radnog vremena, rada s polovicom punog radnog vremena radi pojačane njege djeteta, dopusta trudne radnice, dopusta radnice koja je rodila ili radnice koja doji dijete te dopusta ili rada s polovicom punog radnog vremena radi skrbi i njege djeteta s težim smetnjama u razvoju, odnosno u roku od 15 dana od prestanka trudnoće ili prestanka korištenja tih prava u skladu s propisom o rodiljnim i roditeljskim potporama, poslodavac ne smije otkazati ugovor o radu trudnici i osobi koja se koristi nekim od tih prava.«.
