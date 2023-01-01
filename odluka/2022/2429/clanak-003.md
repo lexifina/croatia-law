@@ -1,0 +1,8 @@
+## Pojmovi
+# Članak 3.
+Pojedini pojmovi, u smislu ove Odluke, imaju sljedeće značenje:
+1) banka je vrsta kreditne institucije kako je uređeno člankom 4. stavkom 1. točkom 1. Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012
+2) krivotvoreni strani gotov novac jesu novčanice ili kovanice izražene u stranom gotovom novcu koje djelomično ili u potpunosti imaju izgled novčanice ili kovanice stranoga gotovog novca i koje su djelomično ili u potpunosti neovlašteno izrađene ili izmijenjene. Krivotvorenim stranim gotovim novcem smatraju se i novčanice ili kovanice izražene u stranom gotovom novcu kojemu je prestao status zakonskog sredstva plaćanja i koji je djelomično ili u potpunosti neovlašteno izrađen ili izmijenjen
+3) osposobljeno osoblje je član osoblja koji ima valjano uvjerenje kojim se potvrđuje da je prošao obuku koju organizira i provodi Nacionalni centar za borbu protiv krivotvorenja (u nastavku teksta: NCBK) u Hrvatskoj narodnoj banci, a u skladu s Nacionalnim programom za obuku zaposlenika banaka i financijskih institucija za postupak provjere autentičnosti novčanica i kovanica
+4) strani gotov novac jest gotov novac strane valute koji se ne koristi kao zakonsko sredstvo plaćanja u Republici Hrvatskoj. Stranim gotovim novcem ne smatra se gotov novac kune
+5) sumnjiv strani gotov novac jesu novčanice i kovanice čija autentičnost ne može biti jasno utvrđena ručnom obradom ili obradom pomoću uređaja ili za koje ima dovoljno razloga za sumnju da su krivotvorene.
