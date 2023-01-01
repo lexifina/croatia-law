@@ -1,0 +1,8 @@
+# Članak 7.
+Prihod od naknade za razvoj vodoopskrbe i odvodnje koristi se za:
+- financiranje projektne i ostale pripremne dokumentacije, studijskih analiza i gradnje projekata komunalnih vodnih građevina na vodoopskrbnom području, odnosno području aglomeracije u nadležnosti Isporučitelja koje su od značaja za funkcioniranje sustava javne vodoopskrbe i javne odvodnje korisnicima vodnih usluga na cijelom području Isporučitelja - PRIORITET I - A1,
+- financiranje projektne i ostale pripremne dokumentacije za gradnju komunalnih vodnih građevina na području svih jedinica lokalne samouprave, čija se gradnja financira iz kohezijskih i strukturnih fondova Europske unije te ostalih instrumenata pomoći - PRIORITET I - A1,
+- financiranje gradnje projekta »Poboljšanje vodno-komunalne infrastrukture na području aglomeracije Rijeka« i obveza po kreditu za navedeni Projekt, a iz sredstava prikupljenih na području na kojem se Projekt provodi odnosno gradova Rijeke i Kastva te općina Čavle, Jelenje i Viškovo - PRIORITET I - A2,
+- financiranje projektne i ostale pripremne dokumentacije i gradnje komunalnih vodnih građevina, uključujući i troškove pripreme novih priključaka, na području svih jedinica lokalne samouprave koje služe isključivo korisnicima vodnih usluga pojedinog Grada ili Općine - PRIORITET II,
+- otplatu financijskih obveza iz ugovora o kreditu za izgrađene komunalne vodne građevine PRIORITETA II iz sredstava naknade grada Rijeke i Kastva čija je gradnja financirana kreditom poslovne banke sukladno financijskom planu.
+Sav prihod od naknade za razvoj koristi se sukladno donesenom Planu gradnje komunalnih vodnih građevina i financijskom planu za 2023. godinu.
