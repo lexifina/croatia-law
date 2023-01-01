@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 2., članka 24. stavka 6., članka 26. stavka 5. i članka 27. stavka 2. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, broj 21/2018, 126/2019 i 110/2021) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 4. studenoga 2022. godine donosi
