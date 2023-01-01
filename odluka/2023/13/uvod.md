@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17 i 114/22) i članka 48. Statuta Općine Darda (»Službeni glasnik Općine Darda« br. 3/01, 2/02, 5/02, 1/06, 2/06, 2/10, 2/13, 1/18, 2/18 - pročišćeni tekst, 3/18, 2/20, 2/21, 4/21), Općinsko vijeće Općine Darda na 17. sjednici održanoj 22. prosinca 2022. godine, donijelo je
