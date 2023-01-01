@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 2., članka 20. stavka 4., članka 22. stavka 2. i članka 68. stavka 4. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016, 126/2019 i 110/2021) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 4. studenoga 2022. godine donosi

@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Iznimno od članka 21. stavka 1. Zakona, regulatorni kapital društva za upravljanje mora u svakom trenutku biti veći ili jednak većem od sljedeća dva iznosa:
+a) zbroja iznosa temeljnog kapitala iz članka 18. Zakona, najnižeg iznosa kapitala mirovinskog društva koji je određen propisima koji uređuju osnivanje i poslovanje dobrovoljnih mirovinskih fondova i dodatnog iznosa kapitala iz članka 20. stavka 1. Zakona, u slučaju kada društvo za upravljanje osim djelatnosti upravljanja UCITS fondovima i/ili alternativnim investicijskim fondovima obavlja djelatnosti osnivanja i upravljanja dobrovoljnim mirovinskim fondovima ili
+b) jedne četvrtine fiksnih općih troškova društva za upravljanje iz prethodne poslovne godine.
+(2) Prilikom izračuna dodatnog iznosa kapitala iz točke a) stavka 1. ovoga članka, u izračun se, osim neto vrijednosti imovine investicijskih fondova, uključuje i neto vrijednost imovine dobrovoljnih mirovinskih fondova pod upravljanjem istog društva za upravljanje.
