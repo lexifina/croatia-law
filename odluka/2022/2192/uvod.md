@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i čl. 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) te članka 28. Statuta Općine Beretinec (»Službeni vjesnik Varaždinske županije« broj 35/18 i 2/19, »Službeni vjesnik Općine Beretinec« broj 2/21), Općinsko vijeće Općine Beretinec na 13. sjednici održanoj 23. studenoga 2022. godine donijelo je
