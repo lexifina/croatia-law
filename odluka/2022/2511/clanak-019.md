@@ -1,0 +1,2 @@
+# Članak 19.
+Za korištenje javnih površina radi prodaje razne robe sa štanda i pružanja drugih usluga sa štanda (u svezi s pripremom i usluživanjem hrane i/ili pića i napitaka, iznajmljivanje opreme za rekreaciju, sport i zabavu, iznajmljivanje sredstava za prijevoz, organiziranje putovanja, prodaju karata i ostale rezervacije, poslovi mjenjačnice, sportsko klađenje, lutrijske poslove i svih drugih usluga koje se prodaju) porez se plaća u iznosu od 800,00 eura po 1 m2 štanda i izložbenog prostora za vrijeme ljetnog razdoblja.

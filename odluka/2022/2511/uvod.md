@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 41. stavak 4. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i članka 34. Statuta Općine Tučepi (»Glasnik Općine Tučepi« broj 02/21), Općinsko vijeće Općine Tučepi na 13. sjednici održanoj 15. prosinca 2022. godine, donijelo je
