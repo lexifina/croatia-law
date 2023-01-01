@@ -1,0 +1,10 @@
+## Primjena
+# Članak 2.
+1. Ovaj Kolektivni ugovor primjenjuju se na Pomorce državljane Republike Hrvatske i drugih država članica Europske unije, koji plove na brodovima u međunarodnoj plovidbi upisanim u hrvatski ili neki drugi upisnik brodova, a koji su navedeni u Listi Brodova Posebnog dodatka (1) ovog Kolektivnog ugovora.
+2. U Listi Brodova Posebnog dodatka (1) ovog Kolektivnog ugovora navedeni su brodovi, koji su izravno ili putem svojih ovisnih društava, u vlasništvu hrvatskih Brodara i u odnosu na koje je zaključen ITF Posebni ugovor.
+3. Odredbe ovog Kolektivnog ugovora ne primjenjuju se na Pomorce koji plove na brodovima u nacionalnoj plovidbi, nacionalnoj obalnoj plovidbi, nacionalnoj priobalnoj plovidbi, lokalnoj plovidbi i/ili linijskoj i povremenoj obalnoj plovidbi, u skladu s posebnim propisima.
+4. Ugovorne strane će najmanje jednom godišnje tijekom trajanja Kolektivnog ugovora razmatrati stanje na svjetskom pomorskom tržištu, potrebama hrvatskih Brodara za zapošljavanjem pomoraca, raspoloživost i interes hrvatskih pomoraca za zapošljavanje na Brodovima u međunarodnoj plovidbi u vlasništvu hrvatskih Brodara.
+5. Odredbe Kolektivnog ugovora kojima se uređuju prava Pomoraca primjenjuju se kao opće odredbe i na pojedinačne Ugovore o zaposlenju zaključene između Poslodavca i Pomorca. U slučaju proturječja između općih odredaba i pojedinačnog Ugovora o zaposlenju primjenjuju se opće odredbe, ako su povoljnije za Pomorca. Odredbe Kolektivnog ugovora se primjenjuju i u slučaju kad pojedinačni Ugovor o zaposlenju nije zaključen u pisanom obliku.
+6. Ovaj Kolektivni ugovor usuglašen je s odredbama MLC.
+7. Prigodom produženja Kolektivnog ugovora ili prijedloga za uključenje pojedinog Broda u Kolektivni ugovor, ugovorne stranke su dužne dogovoriti hoće li određeni Brod u preostalom razdoblju trajanja Kolektivnog ugovora biti klasificiran za plovidbu u međunarodnoj plovidbi, u kojem slučaju će se takav Brod uključiti u Kolektivni ugovor.
+8. Ovom Kolektivnom ugovoru, uz prethodnu suglasnost ugovornih strana, mogu pristupiti Poslodavci koji nisu članovi Udruge.

@@ -1,0 +1,15 @@
+## Plovidba u ratnim područjima / visoko rizičnim područjima
+# Članak 17.
+1. Ratno i visoko rizično područje je područje:
+a) Koje se po objavi Zajedničkog ratnog odbora (JWC) isključuje iz osiguranja redovitih ratnih rizika; i
+b) Za koje se plaća dodatna premija za ratni rizik za Brod po stopi većoj od 0,35 %;
+2. Stranke ovog Kolektivnog ugovora će izmijeniti službene informacije o ratnim i/ili visoko rizičnim područjima po objavi JWC, te ih utvrditi za potrebe ovog Kolektivnog ugovora.
+3. Za vrijeme ukrcanja, Pomorac mora u cijelosti biti obaviješten o tome da njegov Brod na svojem putovanju prolazi kroz ratna i/ili visoko rizična područja.
+4. Prije ulaska Broda u područje ratnog i/ili visoko rizičnog područja Pomorac ima pravo odustati od plovidbe u takva područja te na repatrijaciju o trošku Poslodavca, s pravom korištenja svojih prava ostvarenih do dana povratka.
+5. Za vrijeme boravka Broda u području ratnog i/ili visoko rizičnog područja Pomorcu se isplaćuje njegova dodatna osnovna plaća po danu za stvarni broj dana boravka Broda u takvom području, a za razdoblja kraća od jednog dana isplaćuje se dodatna osnovna plaća po danu pro rata.
+6. Pomorac ima pravo na dodatni iznos naknade za invalidnost i smrt naveden u Općem dodatku (3) Kolektivnog ugovora koji su prouzročeni u području ratnog i/ili visoko rizičnog područja, osim ako je invalidnost ili smrt nastala kao izravna posljedica bolesti koja nije povezana s ratom ili ratu sličnom događaju.
+7. Ako je Pomorac držan u zatočeništvu ili kao talac na brodu ili izvan njega kao rezultat piratstva ili oružane pljačke protiv broda, bez obzira na to da li se takav čin odvio unutar ili izvan ratnih ili visoko rizičnih područja određenih za potrebe ovog članka, njegova plaća i druga prava iz njegova Ugovora o zaposlenju i ovog Kolektivnog ugovora ili mjerodavnih nacionalnih zakona, uključujući sve predviđene primitke sukladno stavku 4. Standarda A2.2 MLC-a, i dalje će se isplaćivati tijekom cijelog razdoblja zatočeništva i sve dok pomorac ne bude oslobođen i repatriran u skladu s odredbama MLC-a i ovog Kolektivnog ugovora (čak i ako je njegov ugovor o zaposlenju istekao tijekom razdoblja zarobljavanja) ili, ako pomorac umre dok je u zarobljeništvu, do datuma smrti utvrđenog u skladu s važećim nacionalnim zakonima. Poslodavac će također učiniti svaki napor kako bi otetom Pomorcu, osigurao uz dodatnu zaštitu, hranu, socijalnu skrb, medicinsku i drugu pomoć ako je potrebno.
+Izrazi »piratstvo« i »oružana pljačka brodova« imat će isto značenje koje im je pripisano u MLC-u.
+Sigurnost i dobrobit članova posade broda u izvanrednim okolnostima
+Članak 17.a
+U slučaju izvanrednih okolnosti (primjerice epidemije, pandemije, prirodnih katastrofa, rata ili ratu sličnih događaja koji nemaju obilježje međunarodnih sukoba i sl.) koje mogu utjecati na sigurnost i dobrobit članova posade Broda, Udruga će poduzeti sve potrebne mjere, te u koordinaciji s Sindikatom pozvati sva nadležna tijela Republike Hrvatske i međunarodne organizacije kako bi se izbjeglo daljnje izlaganje članova posade Broda situacijama ili okruženju koje može ugroziti njihovu dobrobit, zdravlje ili život.
