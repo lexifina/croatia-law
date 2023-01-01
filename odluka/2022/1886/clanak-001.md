@@ -1,0 +1,4 @@
+# Članak 1.
+U Uputi za provedbu Odluke o prikupljanju podataka o uvjetima kreditiranja potrošača, koja je sastavni dio Odluke o prikupljanju podataka o uvjetima kreditiranja potrošača, točke 57. i 58. mijenjaju se i glase:
+»57. Svi iznosi iskazuju se u eurima i centima (odnosno u kunama i lipama za referentne datume prije uvođenja eura kao službene valute u Republici Hrvatskoj) te postocima. Ako kod opisa modaliteta nije izričito navedeno da se iznosi prikazuju s negativnim predznakom, svi iznosi načelno se prikazuju s pozitivnim predznakom (+).«
+58. U modalitetima »MK« i »GK« vrijednost svih instrumenata u stranoj valuti i ugovorenih s valutnom klauzulom izračunava se konvertiranjem originalnog iznosa u valuti, u protuvrijednost u domaćoj valuti, primjenom mjesečnoga prosječnoga srednjeg tečaja HNB-a u izvještajnom razdoblju.«
