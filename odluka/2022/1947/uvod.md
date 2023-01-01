@@ -1,0 +1,1 @@
+Na temelju članaka 20. i 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16 i 101/17) i članka 32. Statuta Općine Biskupija (»Službeni vjesnik Šibensko-kninske županije«, broj 9/09, 4/11, 8/12, 4/13, 2/18, 5/19, 3/20 i 3/21), Općinsko vijeće Općine Biskupija, na svojoj 11. sjednici, od 21. listopada 2022. godine, donosi
