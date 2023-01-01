@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17 i 114/22) i članka 21. Statuta Grada Novog Vinodolskog (»Službene novine Primorsko-goranske županije« broj 12/13, 18/14, 4/18, 5/20 i 5/21) Gradsko vijeće Grada Novog Vinodolskog na 13. sjednici održanoj 30. studenoga 2022. godine donosi
