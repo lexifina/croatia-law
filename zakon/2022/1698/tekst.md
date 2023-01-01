@@ -1,0 +1,49 @@
+HRVATSKI SABOR
+
+1698
+
+Na temelju članka 89. Ustava Republike Hrvatske, donosim
+
+ODLUKU
+
+O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O KRITIČNIM INFRASTRUKTURAMA
+
+Proglašavam Zakon o izmjeni Zakona o kritičnim infrastrukturama, koji je Hrvatski sabor donio na sjednici 23. rujna 2022.
+
+Klasa: 011-02/22-02/96
+
+Urbroj: 71-10-01/1-22-2
+
+Zagreb, 28. rujna 2022.
+
+Predsjednik
+
+Republike Hrvatske
+
+Zoran Milanović, v. r.
+
+ZAKON
+
+O IZMJENI ZAKONA O KRITIČNIM INFRASTRUKTURAMA
+
+Članak 1.
+
+U Zakonu o kritičnim infrastrukturama (»Narodne novine«, br. 56/13.) u članku 22. stavku 1. riječi: »od 500.000,00 do 1.000.000,00 kuna« zamjenjuju se riječima: »od 66.360,00 do 132.720,00 eura«.
+
+U stavku 2. riječi: »od 10.000,00 do 50.000,00 kuna« zamjenjuju se riječima: »od 1320,00 do 6630,00 eura«.
+
+Članak 2.
+
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu na dan uvođenja eura kao službene valute u Republici Hrvatskoj.
+
+Klasa: 022-02/22-01/96
+
+Zagreb, 23. rujna 2022.
+
+HRVATSKI SABOR
+
+Predsjednik
+
+Hrvatskoga sabora
+
+Gordan Jandroković, v. r.
