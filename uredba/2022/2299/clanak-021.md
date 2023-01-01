@@ -1,0 +1,3 @@
+# Članak 21.
+Članak 75. mijenja se i glasi:
+»POLICIJSKA POSTAJA UMAG - UMAGO S ISPOSTAVOM BUJE - BUIE je mješovita policijska postaja II. kategorije sa sjedištem u Umagu - Umago, a obuhvaća Gradove Umag - Umago, Buje - Buie i Novigrad - Cittanova te Općine Brtonigla - Verteneglio, Grožnjan - Grisignana i Oprtalj - Portole. Nadležna je i za nadzor državne granice, odnosno kontrolu prelaska državne granice na Pomorskom graničnom prijelazu Umag - Umago te za suzbijanje prekograničnog kriminaliteta i nezakonitih migracija na području cijele policijske uprave. U okvirima policijske postaje djeluje i ispostava Buje - Buie, a obuhvaća područje Grada Buje - Buie i Općina Grožnjan - Grisignana i Oprtalj - Portole.«.

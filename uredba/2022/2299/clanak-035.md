@@ -1,0 +1,3 @@
+# Članak 35.
+Članak 113. mijenja se i glasi:
+»POSTAJA GRANIČNE POLICIJE DVOR je specijalizirana - granična policijska postaja III. kategorije sa sjedištem u Dvoru. Nadležna je za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima i zaštitu dijela državne granice s Bosnom i Hercegovinom u dužini od 56,5 km na području općine Dvor osim pograničnog područja od mjesta Kobiljak do mjesta Gornji Žirovac. Nadležna je i za obavljanje drugih policijskih poslova i poslova u vezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova te poslova sigurnosti cestovnog prometa na području cijele općine Dvor.«.

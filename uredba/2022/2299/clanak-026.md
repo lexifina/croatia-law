@@ -1,0 +1,3 @@
+# Članak 26.
+Članak 86. mijenja se i glasi:
+»POSTAJA GRANIČNE POLICIJE GRUDA je specijalizirana - granična policijska postaja II. kategorije sa sjedištem u Grudama, a obuhvaća područje Općine Konavle i Župa Dubrovačka i dio Grada Dubrovnika. Postaja je nadležna za nadzor državne granice, odnosno kontrolu prelaska državne granice na pripadajućim graničnim prijelazima, kao i zaštitu dijela državne granice s Crnom Gorom u dužini od 23 km i Bosnom i Hercegovinom u dužini od 53 km. Nadležna je i za obavljanje drugih policijskih poslova i poslova u vezi izravnog ostvarivanja prava, obveza i pravnih interesa građana, pravnih osoba, državnih i drugih tijela u području unutarnjih poslova te poslova sigurnosti cestovnog prometa.«.
