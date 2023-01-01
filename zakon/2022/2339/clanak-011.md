@@ -1,0 +1,6 @@
+# Članak 11.
+Iznad naslova članka 172. naziv glave XII. i naziv poglavlja I. mijenjaju se i glase:
+»GLAVA XII.
+STATUTARNE TEHNIČKE PRIČUVE, IMOVINA ZA POKRIĆE STATUTARNIH TEHNIČKIH PRIČUVA I OVLAŠTENI AKTUAR
+POGLAVLJE I.
+STATUTARNE TEHNIČKE PRIČUVE«.

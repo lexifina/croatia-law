@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 21. stavku 2. točka 1. mijenja se i glasi:
+»1. sastavljati financijske izvještaje tako da se zasebno prikazuju rezultati za životno i neživotno osiguranje na način da se sveukupni prihod od osiguranja, troškovi, plaćanja od strane društva za reosiguranje i prihod od ulaganja te troškovi ulaganja te posebno izdaci za osigurane slučajeve i pozicije reosiguranja dijele prema podrijetlu, dok se stavke koje su zajedničke objema djelatnostima unose u financijske izvještaje u skladu s metodom raspodjele o kojoj je društvo za osiguranje dužno najkasnije 60 dana prije njezine primjene ili izmjene pisano obavijestiti Agenciju«.

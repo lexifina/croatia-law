@@ -1,0 +1,4 @@
+# Članak 39.
+U članku 424. stavak 1. mijenja se i glasi:
+»(1) Posrednici koji su pravne osobe, obrtnici za zastupanje u osiguranju i obrtnici brokeri u osiguranju ili reosiguranju moraju imati osiguranje od profesionalne odgovornosti koje vrijedi na području Republike Hrvatske i drugih država članica ili odgovarajuće jamstvo koje pokriva profesionalnu odgovornost iz obavljanja poslova distribucije osiguranja ili distribucije reosiguranja u iznosu od najmanje 1.300.380,00 eura po svakom odštetnom zahtjevu i ukupno 1.924.560,00 eura za sve odštetne zahtjeve u jednoj godini, osim ako je društvo za osiguranje, društvo za reosiguranje ili neko drugo društvo u čije ime djeluje posrednik ili za koje je posrednik ovlašten djelovati već dalo takvo osiguranje ili odgovarajuće jamstvo, ili ako takvo društvo preuzima punu odgovornost za djelovanje posrednika.«.
+U stavku 3. riječi: »150.000,00 kuna« zamjenjuju se riječima: »19.510,00 eura«.

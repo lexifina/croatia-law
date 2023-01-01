@@ -1,0 +1,3 @@
+# Članak 37.
+U članku 412. stavku 2. točka 2. mijenja se i glasi:
+»2. podatke o osobi koja će biti odgovorna osoba za obavljanje poslova distribucije osiguranja ili distribucije reosiguranja u upravi posrednika iz članka 402. stavka 1. točaka 3. i 6. ovoga Zakona i stavka 2. točke 3. ovoga članka ili sporednog posrednika ili podatke o odgovornoj osobi u upravi ili na drugim upravljačkim razinama za posrednike iz članka 402. stavka 1. točaka 7. do 11. ovoga Zakona, a koja je upisana u registar Agencije za obavljanje poslova distribucije osiguranja ili distribucije reosiguranja u onim vrstama osiguranja za koje će distribuciju obavljati taj posrednik ili sporedni posrednik u osiguranju.«.

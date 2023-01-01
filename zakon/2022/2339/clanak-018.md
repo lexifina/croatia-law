@@ -1,0 +1,4 @@
+# Članak 18.
+Iznad naslova članka 182. naziv odjeljka 2. mijenja se i glasi:
+»ODJELJAK 2.
+POSEBNE ODREDBE KOJE SE ODNOSE NA IMOVINU ZA POKRIĆE STATUTARNIH TEHNIČKIH PRIČUVA ŽIVOTNIH OSIGURANJA«.
