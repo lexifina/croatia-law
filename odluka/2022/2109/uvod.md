@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16. i 101/17.) i članka 39. stavka 1. podstavka 3. Statuta Grada Požege (»Službene novine Grada Požege«, broj 2/21. i 11/22.), Gradsko vijeće Grada Požege, na 15. sjednici, održanoj, 27. listopada 2022. godine, donosi
