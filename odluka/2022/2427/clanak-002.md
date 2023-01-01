@@ -1,0 +1,9 @@
+# Članak 2.
+Za potrebe ove Odluke primjenjuju se sljedeće definicije:
+1. »depoziti« su novčana sredstva na svim računima
+2. »depoziti po viđenju« jesu novčana sredstva na transakcijskim računima
+3. »državni depoziti« jesu depoziti bilo kojeg javnog subjekta Republike Hrvatske ili bilo kojeg javnog subjekta Europske unije navedenog u članku 123. Ugovora o funkcioniranju Europske unije u smislu Uredbe Vijeća (EZ) br. 3603/93[1](Uredba Vijeća (EZ) br. 3603/93 od 13. prosinca 1993. o utvrđivanju definicija za primjenu zabrana iz članka 104. i članka 104.b stavka 1. Ugovora), osim za kreditne institucije u javnom vlasništvu prema kojima, u odnosu na ponudu sredstava nacionalnih središnjih banaka, nacionalne središnje banke i Europska središnja banka postupaju jednako kao i prema privatnim kreditnim institucijama
+4. »državni depoziti povezani s programom prilagodbe« jesu državni depoziti prema definiciji iz članka 2. točke 6. Smjernice ESB/2019/7[2](Smjernica (EU) 2019/671 ESB-a od 9. travnja 2019. o domaćim operacijama upravljanja imovinom i obvezama od strane nacionalnih središnjih banaka (preinaka) (ESB/2019/7))
+5. »kamatna stopa na neosiguranom prekonoćnom tržištu« jest (a) u odnosu na prekonoćne depozite nominirane u eurima, eurska kratkoročna kamatna stopa (€STR) i (b) u odnosu na prekonoćne depozite nominirane u valutama koje nisu euro, usporediva kamatna stopa
+6. »kamatna stopa na osiguranom tržištu« jest (a) u odnosu na oročene depozite nominirane u eurima, terminski indeks STOXX EUR GC Pooling s usporedivim dospijećem, a ako prestane važiti ili ako se više ne smatra referentnom vrijednošću, ekvivalentni indeks i (b) u odnosu na oročene depozite u stranoj valuti, usporediva stopa
+7. »kamatna stopa na prekonoćni depozit« jest kamatna stopa koja se primjenjuje na prekonoćni depozit kao stalno raspoloživu mogućnost Eurosustava.
