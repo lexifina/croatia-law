@@ -1,0 +1,10 @@
+## Primjena
+# Članak 2.
+1. Ovaj Kolektivni ugovor primjenjuju se na pomorce državljane trećih zemalja koji nemaju državljanstvo države članice EGP-a ili Švicarske Konfederacije, a koji plove na brodovima u međunarodnoj plovidbi upisanim u hrvatski upisnik brodova.
+2. Ovaj Kolektivni ugovor primjenjuje se na pomorce iz stavka 1. ovog članka u skladu s popisom svojstava navedenih u Općem dodatku (1) ovog Kolektivnog ugovora.
+3. Lista Brodova i sastav posade broda je navedena u Posebnom dodatku (1) ovog Kolektivnog ugovora, a koji su izravno ili putem svojih ovisnih društava u vlasništvu hrvatskih Brodara i u odnosu na koje je zaključen ITF Posebni ugovor.
+4. Ugovorne strane će najmanje jednom godišnje tijekom trajanja Kolektivnog ugovora razmatrati stanje na svjetskom pomorskom tržištu i potrebama hrvatskih Brodara za zapošljavanjem pomoraca, te će pritom hrvatski Brodari nastojati zapošljavati pomorce državljane Republike Hrvatske i drugih država članica Europske unije na upravljačkoj razini odgovornosti na Brodovima u međunarodnoj plovidbi u vlasništvu hrvatskih Brodara.
+5. Odredbe Kolektivnog ugovora kojima se uređuju prava Pomoraca primjenjuju se kao opće odredbe i na pojedinačne Ugovore o zaposlenju zaključene između Poslodavca i Pomorca. U slučaju proturječja između općih odredaba i pojedinačnog Ugovora o zaposlenju primjenjuju se opće odredbe, ako su povoljnije za Pomorca. Odredbe Kolektivnog ugovora se primjenjuju i u slučaju kad pojedinačni Ugovor o zaposlenju nije zaključen u pisanom obliku.
+6. Ovaj Kolektivni ugovor usuglašen je s odredbama MLC.
+7. Prigodom produženja Kolektivnog ugovora ili prijedloga za uključenje pojedinog Broda u Kolektivni ugovor, ugovorne stranke su dužne dogovoriti hoće li određeni Brod u preostalom razdoblju trajanja Kolektivnog ugovora biti klasificiran za plovidbu u međunarodnoj plovidbi, u kojem slučaju će se takav Brod uključiti u Kolektivni ugovor.
+8. Ovom Kolektivnom ugovoru, uz prethodnu suglasnost ugovornih strana, mogu pristupiti Poslodavci koji nisu članovi Udruge

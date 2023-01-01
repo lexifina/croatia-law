@@ -1,0 +1,6 @@
+## Ukrcanje i trajanje ukrcanja
+# Članak 6.
+1. Od dana započinjanja putovanja radi ukrcanja na Brod do trenutka ukrcanja, Pomorcu pripada proporcionalni dio osnovne plaće određene u Ugovoru o zaposlenju i dnevnica određena u Općem dodatku (3), uz zadovoljenje svih razumnih zahtjeva udobnosti tijekom putovanja.
+2. Ukoliko ukrcanje na Brod slijedi nakon dugog putovanja, bez obzira na sredstvo putovanja, uračunavajući čekanja u zračnim lukama i transfere, Poslodavac će, koliko god to prilike dopuštaju, voditi računa da Pomorac odmoran preuzme dužnost na Brodu.
+3. Pomorac se ukrcava na vremensko razdoblje od najviše 9 mjeseci tijekom bilo kojih 12 mjeseci, ovisno o zahtjevima plovidbe, području plovidbe i tipu Broda.
+4. U slučaju više sile i/ili okolnostima koje su izvan kontrole države zastave broda ili Poslodavca (primjerice epidemije, pandemije, prirodnih katastrofa, rata ili ratu sličnih događaja koji nemaju obilježje međunarodnih sukoba i sl.), a koja onemogućava iskrcaj Pomorca po isteku najdužeg vremenskog razdoblja na koje je zaključen Ugovor o zaposlenju, produžuje se razdoblje ukrcanja Pomorca do trenutka kada je moguće sigurno izvršiti iskrcaj, a najduže za vremensko razdoblje od 10 mjeseci i uz suglasnost Pomorca.
