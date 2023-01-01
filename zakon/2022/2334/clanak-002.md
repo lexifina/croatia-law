@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 6. mijenja se i glasi:
+»(1) U slučaju da jedinice lokalne i područne (regionalne) samouprave nisu preuzele decentralizirane funkcije iz članka 5. stavka 3. ovoga Zakona, a imaju za to zakonsku mogućnost, udio za nepreuzetu decentraliziranu funkciju, osim za funkciju vatrogastva, raspodjeljuje se u jednakim dijelovima na ostale preuzete decentralizirane funkcije na području jedinice lokalne, odnosno područne (regionalne) samouprave.
+(2) Za jedinice lokalne samouprave koje nisu preuzele decentraliziranu funkciju vatrogastva udio za decentraliziranu funkciju vatrogastva od 1,0% ne raspodjeljuje se na ostale decentralizirane funkcije iz članka 5. stavka 3. ovoga Zakona, već se sredstva koriste namjenski, isključivo za financiranje vatrogasne mreže, sukladno posebnim propisima kojima se uređuje financiranje vatrogastva.«.
