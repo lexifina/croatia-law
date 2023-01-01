@@ -1,0 +1,4 @@
+## Drugačiji način utvrđivanja broja norma sati
+# Članak 5.
+(1) Ugovorne strane mogu ugovoriti način utvrđivanja broja norma sati na drugi način nego što je to propisano ovim Pravilnikom, i to tako da se broj norma sati određuje na temelju provjeriva utvrđivanja predvidivih troškova građenja, prema proračunu troškova ili prema predračunu troškova. Ako naručitelj od izvršitelja zahtijeva povećanje opsega posla, za taj povećani opseg posla može se obračunati dodatna naknada. Ako vrijeme projektiranja i građenja bude bitno produljeno zbog okolnosti za koje nije odgovoran izvršitelj usluge, za tako prouzrokovane povećane troškove može se obračunati dodatna naknada.
+(2) Iznimno, u slučaju da potreban broj norma sati za izvršenje usluge nije moguće odrediti prema proračunskim troškovima građenja, izvršitelj potreban broj norma sati za izvršenje usluge može odrediti tako da jasno iskaže broj potrebnih norma sati po pojedinom izvršitelju ili njegovu suradniku.

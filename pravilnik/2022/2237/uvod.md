@@ -1,0 +1,1 @@
+Na temelju članka 17. Statuta Hrvatske komore inženjera građevinarstva (»Narodne novine«, broj 132/15 i 123/19), Skupština Hrvatske komore inženjera građevinarstva na sjednici održanoj 3. prosinca 2022. godine donijela je
