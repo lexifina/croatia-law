@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i članka 36. Statuta Grada Novske (»Službeni vjesnik« Grada Novske, broj 8/21), Gradsko vijeće Grada Novske na 14. sjednici održanoj 2. prosinca 2022. godine, donijelo je
