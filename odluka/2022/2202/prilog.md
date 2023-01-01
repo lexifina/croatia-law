@@ -1,0 +1,136 @@
+FINANCIJSKI PLAN CENTRA ZA RESTRUKTURIRANJE I PRODAJU
+ZA 2023. GODINU I PROJEKCIJE PLANA ZA 2024. I 2025. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+HRK | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+PRIHODI POSLOVANJA | 32.446.830 | 47.040.000 | 38.435.745 | 29.936.075 | 28.435.956
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 180.943 | 14.300.000 | 599.746 | 449.810 | 449.056
+UKUPNI PRIHODI | 32.627.774 | 61.340.000 | 39.035.491 | 30.385.885 | 28.885.013
+RASHODI POSLOVANJA | 22.617.590 | 75.280.000 | 59.295.008 | 54.524.916 | 52.852.257
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 668.343 | 3.060.000 | 1.630.466 | 1.480.529 | 1.842.185
+UKUPNI RASHODI | 23.285.933 | 78.340.000 | 60.925.474 | 56.005.445 | 54.694.442
+RAZLIKA - VIŠAK/MANJAK | 9.341.841 | -17.000.000 | -21.889.983 | -25.619.560 | -25.809.430
+B. RAČUN FINANCIRANJA
+HRK | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 25.343.979 | 45.500.000 | 6.500.013 | 1.500.872 | 1.500.872
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 2.000.000 | 0 | 0 | 0 | 0
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 152.402.455 | 185.088.275 | 213.588.277 | 198.198.308 | 174.079.620
+PRIJENOS SREDSTAVA U SLJEDEĆU GODINU | -185.088.275 | -213.588.275 | -198.198.308 | -174.079.620 | -149.771.062
+NETO FINANCIRANJE | -9.341.841 | 17.000.000 | 21.889.983 | 25.619.560 | 25.809.430
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0 | 0 | 0 | 0 | 0
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+EUR | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+PRIHODI POSLOVANJA | 4.306.434,40 | 6.243.280,91 | 5.101.300 | 3.973.200 | 3.774.100
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 24.015,26 | 1.897.936,16 | 79.600 | 59.700 | 59.600
+UKUPNI PRIHODI | 4.330.449,66 | 8.141.217,07 | 5.180.900 | 4.032.900 | 3.833.700
+RASHODI POSLOVANJA | 3.001.870,07 | 9.991.373,03 | 7.869.800 | 7.236.700 | 7.014.700
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 88.704,36 | 406.131,79 | 216.400 | 196.500 | 244.500
+UKUPNI RASHODI | 3.090.574,43 | 10.397.504,82 | 8.086.200 | 7.433.200 | 7.259.200
+RAZLIKA - VIŠAK/MANJAK | 1.239.875,23 | -2.256.287,75 | -2.905.300 | -3.400.300 | -3.425.500
+B. RAČUN FINANCIRANJA
+EUR | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 3.363.724,07 | 6.038.887,79 | 862.700 | 199.200 | 199.200
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 265.445,62
+| 0 | 0 | 0
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 20.227.281,84 | 24.565.435,66 | 28.348.036 | 26.305.436 | 23.104.336
+PRIJENOS SREDSTAVA U SLJEDEĆU GODINU | -24.565.435,52 | -28.348.035,70 | -26.305.436 | -23.104.336 | -19.878.036
+NETO FINANCIRANJE | -1.239.875,23 | 2.256.287,75 | 2.905.300 | 3.400.300 | 3.425.500
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0,00 | 0,00 | 0 | 0 | 0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Raz-
+red | Sku-
+pina | Naziv prihoda | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+6 |  | PRIHODI POSLOVANJA | 4.306.434,40 | 6.243.280,91 | 5.101.300 | 3.973.200 | 3.774.100
+| 64 | Prihodi od imovine | 3.507.095,76 | 3.641.913,86 | 3.105.800 | 3.105.800 | 3.105.800
+| 65 | Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada |  | 13.272,28 | 4.700 | 4.700 | 4.700
+| 66 | Prihodi od prodaje proizvoda i robe te pruženih usluga, prihodi od donacija te povrati po protestiranim jamstvima | 449.137,57 | 2.322.649,15 | 1.327.200 | 663.600 | 464.500
+| 68 | Kazne, upravne mjere i ostali prihodi | 350.201,08 | 265.445,62 | 663.600 | 199.100 | 199.100
+7 |  | PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 24.015,26 | 1.897.936,16 | 79.600 | 59.700 | 59.600
+| 71 | Prihodi od prodaje neproizvedene dugotrajne imovine |  | 1.858.119,32 | 39.800 | 19.900 | 19.900
+| 72 | Prihodi od prodaje proizvedene dugotrajne imovine | 24.015,26 | 39.816,84 | 39.800 | 39.800 | 39.700
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Raz-
+red | Sku-
+pina | Naziv rashoda | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+3 |  | RASHODI POSLOVANJA | 3.001.870,07 | 9.991.373,03 | 7.869.800 | 7.236.700 | 7.014.700
+| 31 | Rashodi za zaposlene | 1.896.179,31 | 2.468.644,24 | 2.468.700 | 2.468.700 | 2.468.700
+| 32 | Materijalni rashodi | 1.060.678,08 | 3.292.852,88 | 3.259.300 | 2.923.500 | 2.886.600
+| 34 | Financijski rashodi | 45.012,68 | 4.227.221,45 | 2.139.100 | 1.841.800 | 1.656.700
+| 38 | Ostali rashodi |  | 2.654,46 | 2.700 | 2.700 | 2.700
+4 |  | RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 88.704,36 | 406.131,79 | 216.400 | 196.500 | 244.500
+| 41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 3.865,55 | 6.636,14 | 13.300 | 13.300 | 13.300
+| 42 | Rashodi za nabavu proizvedene dugotrajne imovine | 84.838,81 | 399.495,65 | 203.100 | 183.200 | 231.200
+B. RAČUN FINANCIRANJA
+Raz-
+red | Sku-
+pina
+| Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+|  | NETO FINANCIRANJE | -1.239.875,23 | 2.256.287,75 | 2.905.300 | 3.400.300 | 3.425.500
+|  | Prijenos sredstava iz prethodne godine | 20.227.281,84 | 24.565.435,66 | 28.348.036 | 26.305.436 | 23.104.336
+|  | Prijenos sredstava u sljedeću godinu | -24.565.435,52 | -28.348.035,70 | -26.305.436 | -23.104.336 | -19.878.036
+8 |  | PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 3.363.724,07 | 6.038.887,79 | 862.700 | 199.200 | 199.200
+| 81 | Primljeni povrati glavnica danih zajmova i depozita | 506.637,20 | 398.168,43 | 398.200 | 66.400 | 66.400
+| 83 | Primici od prodaje dionica i udjela u glavnici | 2.857.086,87 | 4.977.105,32 | 464.500 | 132.800 | 132.800
+| 85 | Primici od prodaje vrijednosnih papira iz portfelja |  | 663.614,04
+5 |  | IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 265.445,62
+| 51 | Izdaci za dane zajmove i depozite | 265.445,62
+II. POSEBNI DIO
+Šifra | Naziv | Izvršenje
+2021. | Plan
+2022. | Plan
+za 2023. | Projekcija plana
+za 2024. | Projekcija plana
+za 2025.
+005 | CENTAR ZA RESTRUKTURIRANJE I PRODAJU | 3.356.020,04 | 10.397.504,81 | 8.086.200 | 7.433.200 | 7.259.200
+5000 | ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE | 3.090.574,42 | 10.397.504,81 | 8.086.200 | 7.433.200 | 7.259.200
+A500000 | ADMINISTRACIJA I UPRAVLJANJE | 3.001.870,06 | 9.991.373,02 | 7.869.800 | 7.236.700 | 7.014.700
+3 | Rashodi poslovanja | 3.001.870,07 | 9.991.373,03 | 7.869.800 | 7.236.700 | 7.014.700
+31 | Rashodi za zaposlene | 1.896.179,31 | 2.468.644,24 | 2.468.700 | 2.468.700 | 2.468.700
+32 | Materijalni rashodi | 1.060.678,08 | 3.292.852,88 | 3.259.300 | 2.923.500 | 2.886.600
+34 | Financijski rashodi | 45.012,68 | 4.227.221,45 | 2.139.100 | 1.841.800 | 1.656.700
+38 | Ostali rashodi |  | 2.654,46 | 2.700 | 2.700 | 2.700
+K500000 | OPREMANJE | 88.704,36 | 406.131,79 | 216.400 | 196.500 | 244.500
+4 | Rashodi za nabavu nefinancijske imovine | 88.704,36 | 406.131,79 | 216.400 | 196.500 | 244.500
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 3.865,55 | 6.636,14 | 13.300 | 13.300 | 13.300
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 84.838,81 | 399.495,65 | 203.100 | 183.200 | 231.200
+5003 | DANI ZAJMOVI | 265.445,62
+A500003 | DANI ZAJMOVI | 265.445,62
+5 | Izdaci za financijsku imovinu i otplate zajmova | 265.445,62
+51 | Izdaci za dane zajmove i depozite | 265.445,62
