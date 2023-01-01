@@ -1,0 +1,4 @@
+# Članak 2.
+Ovom Uredbom osigurava se provedba sljedećih akata Europske unije:
+- Uredbe (EU) 2021/2115 Europskog parlamenta i Vijeća od 2. prosinca 2021. o utvrđivanju pravila o potpori za strateške planove koje izrađuju države članice u okviru zajedničke poljoprivredne politike (strateški planovi u okviru ZPP-a) i koji se financiraju iz Europskog fonda za jamstva u poljoprivredi (EFJP) i Europskog poljoprivrednog fonda za ruralni razvoj (EPFRR) te o stavljanju izvan snage uredbi (EU) br. 1305/2013 i (EU) br. 1307/2013 (SL L 435, 6. 12. 2021.) (u daljnjem tekstu: Uredba (EU) 2021/2115)
+- Uredbe (EU) 2021/2116 Europskog parlamenta i Vijeća od 2. prosinca 2021. o financiranju i nadzoru zajedničke poljoprivredne politike te upravljanju njome i o stavljanju izvan snage Uredbe (EU) br. 1306/2013 (SL L 435, 6. 12. 2021.) (u daljnjem tekstu: Uredba (EU) 2021/2116).
