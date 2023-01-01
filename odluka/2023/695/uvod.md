@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 30. Statuta Općine Donji Lapac (»Županijski glasnik Ličko-senjske županije« br. 7/21), Općinsko vijeće Općine Donji Lapac na XII. redovnoj sjednici održanoj 17. studenoga 2022. godine donosi
