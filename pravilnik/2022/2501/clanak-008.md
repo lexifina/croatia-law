@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ovaj Pravilnik objavit će se u »Narodnim novinama«, a stupa na snagu 1. siječnja 2023. godine.
+(2) Iznimno od odredbe iz članka 12. stavka 2. ovoga Pravilnika, instrumente tržišta novca, obveznice i druge dužničke vrijednosne papire UCITS fonda, koji su do dana stupanja na snagu odredbi ovoga Pravilnika početno priznati i naknadno vrednovani u skladu s odredbama članka 12., 13. i 14. Pravilnika o utvrđivanju neto vrijednosti imovine UCITS fonda i cijene udjela u UCITS fondu (»Narodne novine«, br. 128/17, 114/18, 124/19 i 2/20), društvo za upravljanje može nastaviti vrednovati u skladu s tim odredbama do njihova dospijeća.
