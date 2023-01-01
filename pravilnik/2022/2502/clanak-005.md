@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 10. iza stavka 5. dodaje se novi stavak 5.a koji glasi:
+»(5a.) Upotreba modela vrednovanja koji se temelji na korištenju amortiziranog troška primjenom metode efektivne kamatne stope, smatra se primjerenom tehnikom procjene za utvrđivanje fer vrijednosti iz stavka 1. ovoga članka, isključivo pod uvjetom da društvo za upravljanje internim aktima odredi model vrednovanja koji uključuje kontinuirano praćenje kreditnog rizika izdavatelja, tržišnih kamatnih stopa i likvidnosti na sekundarnom tržištu predmetnog instrumenta, i koji u slučaju promjene nekog od navedenih parametara bez odgode revidira procjenu fer vrijednosti.«
