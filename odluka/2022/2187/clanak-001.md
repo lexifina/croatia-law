@@ -1,0 +1,7 @@
+# Članak 1.
+1. Ovom Odlukom uređuju se pravila za puštanje likvidnosti u američkim dolarima (USD).
+2. U slučaju neslaganja odredbi ove Odluke bilo s odredbama Odluke o provođenju operacija monetarne politike, bilo s odredbama Smjernice ESB/2014/60[1](Smjernica (EU) 2015/510 Europske središnje banke od 19. prosinca 2014. o provedbi okvira monetarne politike Eurosustava (preinaka)(Smjernica o Općoj dokumentaciji) (ESB/2014/60))
+ili Smjernice ESB/2014/35[2](Smjernica (EU) 2016/65 Europske središnje banke od 18. studenoga 2015. o korektivnim faktorima koji se primjenjuju u provedbi okvira monetarne politike Eurosustava (ESB/2015/35))
+ili Smjernice ESB/2014/31[3](Smjernica Europske središnje banke od 9. srpnja 2014. o dodatnim privremenim mjerama koje se odnose na operacije refinanciranja Eurosustava i prihvatljivost instrumenata osiguranja i o izmjeni Smjernice ESB/2007/9 (preinačeno) (ESB/2014/31) (2014/528/EU))
+na koje se Odluka o provođenju operacija monetarne politike poziva, primjenjuju se odredbe ove Odluke.
+3. Na transakcije sklopljene na aukcijama uređenima ovom Odlukom, osim ove Odluke te Odluke o provođenju operacija monetarne politike i smjernica iz stavka 2. ovog članka, primjenjuje se i okvirni ugovor za kreditne operacije koji je druga ugovorna strana sklopila s Hrvatskom narodnom bankom (u nastavku teksta: HNB). U slučaju neslaganja odredbi ove Odluke s bilo kojom odredbom okvirnog ugovora za kreditne operacije, primjenjuje se ova Odluka.
