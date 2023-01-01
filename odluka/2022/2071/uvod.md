@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i članka 30. Statuta Općine Breznica (»Službeni vjesnik Varaždinske županije« broj 15/18), Općinsko vijeće Općine Breznica na sjednici održanoj 10. studenoga 2022. godine donosi
