@@ -1,0 +1,4 @@
+# Članak 1.
+U Odluci o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 143/22.), Osnovna lista lijekova iz članka 2. stavka 5., s cijenama u eurima, mijenja se i čini sastavni dio ove Odluke.
+U tablici: »Indikacije i smjernice« dodaje se nova smjernica pod oznakom: »’RN29« koja glasi:
+»RN29: Samo za liječenje uznapredovalog stadija Parkinsonove bolesti, kad više nije moguće stabilizirati klinički status dostupnom kombiniranom peroralnom terapijom, po preporuci bolničkog specijaliste neurologa. Liječenje odobrava Bolničko povjerenstvo za lijekove. Odobrenje Bolničkog povjerenstva za lijekove se može izdati za razdoblje od najviše 12 mjeseci. Prvih 14 dana lijek se primjenjuje na teret sredstva bolničkog proračuna (2 pakiranja lijeka), a u nastavku se lijek može propisivati na recept Zavoda. Lijek se može propisivati na recept Zavoda isključivo temeljem važećeg odobrenja Bolničkog povjerenstva za lijekove.«.
