@@ -1,0 +1,3 @@
+## ODJELJAK B NAJAVA I KORIŠTENJE PRAVA DRUGIH KORISNIKA IZ ZAKONA
+# Članak 61.
+Samozaposleni roditelj koji tijekom korištenja prava iz ovoga Zakona namjerava mijenjati način korištenja tog prava, obvezan je najmanje 30 dana prije nastanka te promjene ili prije ponovnog uspostavljanja neiskorištenog pripadajućeg prava podnijeti pisani zahtjev Zavodu.

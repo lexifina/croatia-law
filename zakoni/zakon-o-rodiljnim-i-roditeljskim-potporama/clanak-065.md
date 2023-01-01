@@ -1,0 +1,7 @@
+## POGLAVLJE VIII. POVJERENSTVO ZA PRAĆENJE PROVEDBE ZAKONA I INFORMIRANJE
+# Članak 65.
+(1) U svrhu provedbe ovoga Zakona čelnik tijela državne uprave nadležnog za demografiju osniva povjerenstvo za praćenje provedbe ovoga Zakona koje se sastoji od jedanaest članova.
+(2) Članove povjerenstva iz stavka 1. ovoga članka čine dva predstavnika tijela državne uprave nadležnog za demografiju, od kojih je jedan predsjedavajući povjerenstva, dva predstavnika Zavoda te po jedan predstavnik ministarstva nadležnog za rad, ministarstva nadležnog za socijalnu politiku, ministarstva nadležnog za zdravstvo, Hrvatske obrtničke komore, reprezentativnih udruga poslodavaca više razine i reprezentativnih udruga sindikata više razine te akademske zajednice.
+(3) Povjerenstvo iz stavka 1. ovoga članka prati provedbu ovoga Zakona, daje tijelu državne uprave nadležnom za demografiju i Zavodu mišljenja, prijedloge i upute za provedbu ovoga Zakona, daje prijedloge za unaprjeđenje sustava rodiljnih i roditeljskih potpora iz ovoga Zakona te donosi poslovnik o svom radu.
+(4) Stručne i administrativne poslove povjerenstva iz stavka 1. ovoga članka obavlja tijelo državne uprave nadležno za demografiju.
+(5) Tijelo državne uprave nadležno za demografiju informira radnike i poslodavce o pravu na roditeljski dopust i pravu na očinski dopust iz ovoga Zakona te mjerama kojima se promiče usklađivanje poslovnog i obiteljskog života.

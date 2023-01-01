@@ -1,0 +1,4 @@
+# Članak 33.
+(1) Zaposlenom i samozaposlenom roditelju gubitkom toga statusa te s tim u vezi i statusa osiguranika u obveznom zdravstvenom i mirovinskom osiguranju po toj osnovi prestaje korištenje prava na vremenske i novčane potpore s osnove roditeljskog dopusta.
+(2) Preostali neiskorišteni dio roditeljskog dopusta roditelj može nastaviti koristiti kao nezaposleni roditelj ili kao roditelj izvan sustava rada uz ispunjenje uvjeta za korištenje prava nezaposlenog roditelja odnosno roditelja izvan sustava rada te pod uvjetom da je zahtjev za korištenje prava podnio u roku od 30 dana od prestanka prava iz stavka 1. ovoga članka.
+(3) Roditelj koji nije podnio zahtjev u skladu sa stavkom 2. ovoga članka neiskorišteno pravo na roditeljski dopust može nastaviti koristiti u slučaju ponovnog stjecanja statusa zaposlenog ili samozaposlenog roditelja pod uvjetima i na način propisanima za korištenje tih prava.

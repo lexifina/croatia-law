@@ -1,0 +1,3 @@
+# Članak 72.
+(1) Inspekcijski nadzor nad provedbom ovoga Zakona i na temelju njega donesenih propisa kojima se uređuje korištenje prava iz ovoga Zakona, u skladu s odredbama ovoga Zakona, obavljaju nadležni inspektori tijela državne uprave koji su prema posebnim propisima ovlašteni za nadzor u vezi s radom i zapošljavanjem, svaki u okviru svoje nadležnosti, sukladno posebnim propisima, osim odredaba koje se odnose na primjenu odredbe iz članka 71. stavka 1. točke 18. i stavaka 3. i 5. ovoga Zakona.
+(2) Ako Zavod utvrdi postojanje osnovane sumnje da je povredom propisa počinjen prekršaj iz članka 71. stavaka 1., 3. i 5. ovoga Zakona, ovlašten je podnijeti optužni prijedlog za pokretanje prekršajnog postupka.

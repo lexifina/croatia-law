@@ -1,0 +1,2 @@
+# Članak 35.
+Naknada plaće odnosno novčana naknada iz članaka 32. i 34. ovoga Zakona isplaćuje se na teret sredstava državnog proračuna, osim naknade plaće za vrijeme korištenja prava na rodiljni dopust iz članka 32. stavka 1. ovoga Zakona te za vrijeme dopusta u slučaju mrtvorođenog djeteta ili ako dijete umre za vrijeme rodiljnog dopusta iz članka 32. stavka 7. ovoga Zakona koja se isplaćuje na teret sredstava Zavoda.
