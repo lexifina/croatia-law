@@ -1,0 +1,2 @@
+# Članak 1.
+U Odluci o nadzornim izvještajima kreditnih unija (»Narodne novine«, br. 71/2007. i 51/2009.), u Uputi za sastavljanje nadzornih izvještaja kreditnih unija, koja je sastavni dio te Odluke, u glavi »I. Opće upute za sastavljanje nadzornih izvještaja«, u poglavlju »4. Način dostavljanja izvještaja« riječi »Direkcija za bonitetnu analizu« zamjenjuju se riječima »Direkcija supervizije III«.
