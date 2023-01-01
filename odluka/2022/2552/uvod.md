@@ -1,0 +1,1 @@
+Na temelju članaka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16., 101/17., 114/22.) i članka 22. Statuta Grada Pazina (»Službene novine Grada Pazina« broj 17/09., 4/13., 23/14., 1/18., 5/20., 4/21. i 24/21. - pročišćeni tekst), Gradsko vijeće Grada Pazina na sjednici održanoj 15. prosinca 2022. godine, donijelo je
