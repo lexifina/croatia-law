@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 31. Statuta Općine Udbina (»Županijski glasnik Ličko-senjske županije« br. 3/21), Općinsko vijeće Općine Udbina na devetoj (9.) redovnoj sjednici održanoj 11. listopada 2022. godine donosi
