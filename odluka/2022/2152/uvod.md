@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17 i 114/22) i članka 31. Statuta Općine Vidovec (»Službeni vjesnik Varaždinske županije«, broj 20/21), Općinsko vijeće Općine Vidovec, na svojoj 13. sjednici održanoj 21. studenoga 2022. godine, donijelo je
