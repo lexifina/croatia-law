@@ -1,0 +1,3 @@
+## Prijenos imovine i dokumentacije novom depozitaru
+# Članak 39.
+Na dan kada je ugovorom o obavljanju poslova depozitara zaključenim s novim depozitarom predviđeno da će novi depozitar početi s obavljanjem poslova depozitara, dotadašnji depozitar dužan je svu imovinu PEPP-a prenijeti na pohranu i administriranje novom depozitaru s kojim pružatelj PEPP-a zaključi ugovor o obavljanju poslova depozitara, pri čemu mora predati i knjige računa, evidencije i sve druge dokumente i materijale bitne za poslovanje PEPP-a za koji je do tada obavljao poslove depozitara, i to bilo u pisanom bilo u elektroničkom obliku, ovisno o načinu vođenja naznačenih podataka.
