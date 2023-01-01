@@ -1,0 +1,4 @@
+## V. POREZ NA KORIŠTENJE JAVNIH POVRŠINA
+# Članak 8.
+(1) Javnom površinom u smislu ove Odluke smatraju se površine koje se prema posebnim propisima smatraju javnim dobrom u općoj uporabi kao i druge površine u vlasništvu ili na održavanju Općine Matulji, i to trgovi, nogostupi, javni prolazi, javne stube, prečaci, šetališta, biciklističke i pješačke staze, pothodnici, podvožnjaci, nadvožnjaci, mostovi i tuneli, parkovi, drvoredi, živice, cvjetnjaci, travnjaci, dječja igrališta s pripadajućom opremom, javni športski i rekreacijski prostori, zelene površine uz ceste i ulice.
+(2) Biciklističke i pješačke staze, pothodnici, podvožnjaci, nadvožnjaci, mostovi i tuneli, zelene površine uz ceste i ulice te ostale javne površine iz stavka 1. ovog članka smatraju se javnim površinama u smislu ove Odluke ako nisu sastavni dio nerazvrstane ili druge ceste, odnosno ulice i slično.

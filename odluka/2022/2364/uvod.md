@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i članka 32. Statuta Općine Matulji (»Službene novine Primorsko-goranske županije« broj 26/09, 38/09, 8/13, 17/ 14, 29/14, 4/15 - pročišćeni tekst, 39/15, 7/18, 6/21 i 23/21) Općinsko vijeće Općine Matulji na sjednici održanoj 13. prosinca 2022. godine donijelo je

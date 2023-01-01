@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Porez na korištenje javne površine ne plaća se u slučaju kada se javna površina koristi za potrebe Općine Matulji, za postavu prometne i turističke signalizacije koju postavlja Općina Matulji, Turistička zajednica kao i pravne ili fizičke osobe koje upravljaju javnim cestama, kada se javna površina koristi od strane neprofitnih organizacija civilnog društva, obrazovnih, socijalnih, kulturnih i sportskih ustanova u provedbi programa javnih potreba, odnosno aktivnosti istih.
+(2) Porez na korištenje javne površine ne plaća se za korištenje javne površine za čije se korištenje plaća drugo javno davanje ili druga naknada prema Općini Matulji.
