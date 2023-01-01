@@ -1,0 +1,6 @@
+# Članak 4.
+Prihvatljivo osiguranje
+1. Unutardnevni kredit temelji se na prihvatljivom kolateralu i odobrava se pomoću kolateraliziranog unutardnevnog prekoračenja u skladu s dodatnim minimalnim zajedničkim obilježjima (uključujući tamo popisane događaje neispunjenja obveza i njihove odnosne posljedice) koje Upravno vijeće ESB-a odredi u odnosu na operacije monetarne politike Eurosustava. Prihvatljivi kolateral sastoji se od iste imovine koja je prihvatljiva za korištenje u kreditnim operacijama monetarne politike Eurosustava i na koju se primjenjuju ista pravila vrednovanja i kontrole rizika kao ona utvrđena u dijelu četvrtom Smjernice (EU) 2015/510 (ESB/2014/60).
+Unutardnevni kredit odobrava se samo kada je prihvatljiva imovina koja je dana kao kolateral konačno prenesena ili založena. Ta imovina treba biti unaprijed dostavljena u skup prihvatljive imovine druge ugovorne strane kod HNB-a.
+2. Dužnički instrumenti koje je izdao ili za koje jamči subjekt ili bilo koja treća strana s kojom je subjekt u bliskoj vezi, mogu se prihvatiti kao prihvatljivi kolateral samo u situacijama utvrđenim u dijelu četvrtom Smjernice (EU) 2015/510 (ESB/2014/60).
+3. Korištenje neprihvatljivog kolaterala može imati za posljedicu primjenu sankcija u skladu s dijelom petim Smjernice (EU) 2015/510 (ESB/2014/60).

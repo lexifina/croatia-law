@@ -1,0 +1,3 @@
+# Članak 3.
+Prihvatljivi subjekti
+Hrvatska narodna banka (u nastavku teksta: HNB) odobrava unutardnevni kredit kreditnim institucijama koje su prihvatljive druge ugovorne strane HNB-a za operacije monetarne politike Eurosustava, koje imaju pristup prekonoćnom kreditu kod HNB-a i račun kod HNB-a na kojem se takve transakcije mogu namiriti, tj. u sustavu TARGET2-HR. Unutardnevni kredit ne može se odobriti subjektima koji su podvrgnuti mjerama ograničavanja koje je donijelo Vijeće Europske unije ili država članica sukladno članku 65. stavku 1. točki (b), članku 75. ili članku 215. Ugovora o funkcioniranju Europske unije, provedba kojih, sa stajališta HNB-a nakon obavješćivanja ESB-a nije u skladu s nesmetanim funkcioniranjem sustava TARGET2.

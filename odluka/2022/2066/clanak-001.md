@@ -1,0 +1,7 @@
+## GLAVA I.
+## OPĆE ODREDBE
+# Članak 1.
+Pravna podloga i predmet
+1. Hrvatska narodna banka ovom Odlukom prenosi Smjernicu Europske središnje banke ESB/2012/27 od 5. prosinca 2012. o Transeuropskom automatiziranom sustavu ekspresnih novčanih transakcija u realnom vremenu na bruto načelu (sustav TARGET2) kako je posljednji put mijenjana Smjernicom Europske središnje banke ESB/2022/20 od 22. travnja 2022. (Smjernica ESB-a za sustav TARGET2).
+2. U skladu sa Smjernicom iz stavka 1. ovog članka ovom se Odlukom uređuje odnos između Hrvatske narodne banke i imatelja PM računa u sustavu TARGET2-HR glede odobravanja i povrata unutardnevnoga kredita.
+3. Ova Odluka zajedno s Odlukom o uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR i njezinim dodacima, Odlukom o uvjetima za otvaranje i funkcioniranje T2S namjenskoga novčanog računa (T2S DCA) u sustavu TARGET2-HR i njezinim dodacima, Odlukom o uvjetima za otvaranje i funkcioniranje TIPS namjenskoga novčanog računa (TIPS DCA) u sustavu TARGET2-HR i njezinim dodacima, Odlukom o uvjetima odobravanja i povrata kredita dobivenog uz autokolateralizaciju, Odlukom o postupcima namire za sporedne sustave i Odlukom o TIPS usluzi za sporedne sustave koji namiruju instant plaćanja, Odlukom o dodatnim i izmijenjenim uvjetima za otvaranje i funkcioniranje PM računa u sustavu TARGET2-HR upotrebom internetskog pristupa i njezinim dodacima, čine Pravila rada sustava TARGET2-HR.
