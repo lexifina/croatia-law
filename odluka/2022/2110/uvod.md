@@ -1,0 +1,1 @@
+Na temelju čl. 42. st. 1. Zakona o lokalnim porezima (»Narodne novine« 115/16, 101/17, 114/22) i čl. 27. Statuta Grada Zlatara (»Službeni glasnik Krapinsko-zagorske županije« 36A/13, 9/18, 9/20, 17A/21), Gradsko vijeće Grada Zlatara na svojoj 14. sjednici održanoj 8. studenoga 2022. godine, donosi
