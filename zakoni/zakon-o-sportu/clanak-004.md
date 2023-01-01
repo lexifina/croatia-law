@@ -1,0 +1,16 @@
+## Stručni poslovi
+# Članak 4.
+(1) U obavljanju sportske pripreme, sportske poduke i zdravstveno usmjerenog tjelesnog vježbanja fizičke osobe u sustavu sporta obavljaju stručne poslove u sportu.
+(2) Stručni poslovi u sportu su: planiranje i programiranje sportske pripreme; provedba sportske pripreme; kontrola sportske pripreme; vođenje sportaša na sportskom natjecanju; planiranje i programiranje sportske rekreacije; provedba sportske rekreacije; kontrola sportske rekreacije; planiranje, programiranje, provedba i kontrola kineziterapijskih postupaka; planiranje, programiranje, provedba i kontrola izvannastavnih školskih sportskih aktivnosti; podučavanje osnovnoj tehnici pojedinog sporta; provedba sportskodijagnostičkih postupaka te interpretiranje rezultata sportskodijagnostičkih postupaka.
+(3) Stručni poslovi iz stavka 2. ovoga članka u smislu ovoga Zakona jesu:
+a) planiranje i programiranje sportske pripreme je izrada planova i programa trenažnog procesa sportaša ili sportske ekipe s ciljem sudjelovanja u sustavu službenih natjecanja u sportovima prepoznatim u nomenklaturi sportova i sportskih grana Hrvatskog olimpijskog odbora, Hrvatskog paraolimpijskog odbora i Hrvatskog sportskog saveza gluhih, koje organiziraju nadležni nacionalni sportski savezi i njihove članice ili krovna sportska udruženja
+b) provedba sportske pripreme je provedba trenažnog procesa sportaša ili sportske ekipe na temelju plana i programa sportske pripreme
+c) kontrola sportske pripreme je evaluacija učinaka provedene sportske pripreme na temelju plana i programa sportske pripreme
+d) vođenje sportaša koji sudjeluju na sportskom natjecanju je neposredno stručno usmjeravanje sportaša pojedinca ili ekipe na postupanje u okolnostima sportskog natjecanja s ciljem ostvarenja što boljeg sportskog rezultata i/ili plasmana sukladno provedenom trenažnom procesu, a prema specifičnosti svakog sporta i pripadajućeg sportskog natjecanja
+e) planiranje i programiranje sportske rekreacije je izrada planova i programa sportskorekreativnog vježbanja
+f) provedba sportske rekreacije je provedba trenažnog procesa na temelju plana i programa sportskorekreativnog vježbanja
+g) kontrola sportske rekreacije je provjera učinaka provedenog programa sportskorekreativnog vježbanja na temelju plana i programa sportskorekreativnog vježbanja
+h) planiranje, programiranje, provedba i kontrola kineziterapijskih postupaka je izrada planova i programa te provedba i kontrola programa vježbanja koji se odnose na rehabilitaciju ozljeda i oštećenja lokomotornog sustava
+i) planiranje, programiranje, provedba i kontrola izvannastavnih školskih sportskih aktivnosti je izrada planova i programa te provedba i kontrola svih oblika sportskih aktivnosti koje se provode u sklopu školskih sportskih društava odnosno u sklopu izvannastavnih školskih sportskih aktivnosti
+j) podučavanje osnovnoj tehnici pojedinog sporta je provedba sportske poduke s isključivim ciljem svladavanja tehnike pojedinog sporta
+k) provođenje sportskodijagnostičkih postupaka i interpretiranje rezultata sportskodijagnostičkih postupaka je provođenje postupaka dijagnosticiranja i procjene antropološkog i sportskog statusa sportaša i drugih osoba te interpretiranje rezultata provedenih sportskodijagnostičkih postupaka u dijagnostičkim centrima.

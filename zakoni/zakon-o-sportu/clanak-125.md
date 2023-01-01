@@ -1,0 +1,4 @@
+## Mandat predsjednika i članova Odbora državne nagrade za sport »Franjo Bučar« i Nacionalnog vijeća za sport
+# Članak 125.
+(1) Mandat predsjednika i članova Odbora državne nagrade za sport »Franjo Bučar« i Povjerenstva za profesionalne športske klubove, imenovanih prema odredbama Zakona o sportu (»Narodne novine«, br. 71/06., 150/08., 124/10., 124/11., 86/12., 94/13., 85/15., 19/16. – ispravak, 98/19., 47/20. i 77/20.), traje do isteka mandata, sukladno odredbama toga Zakona.
+(2) Mandat predsjednika i članova Nacionalnog vijeća za sport, imenovanih prema odredbama Zakona o sportu (»Narodne novine«, br. 71/06., 150/08., 124/10., 124/11., 86/12., 94/13., 85/15., 19/16. – ispravak, 98/19., 47/20. i 77/20.), traje do imenovanja predsjednika i članova Nacionalnog vijeća za sport sukladno odredbama ovoga Zakona.
