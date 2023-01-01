@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17 i 114/22) te članka 33. stavka 1. točke 2. Statuta Grada Dugog Sela (»Službeni glasnik Grada Dugog Sela«, broj 2/21), Gradsko vijeće Grada Dugog Sela, na 14. redovitoj sjednici, održanoj 15. prosinca 2022. godine, donosi
