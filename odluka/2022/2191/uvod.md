@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17 i 114/22) i članka 22. Statuta Grada Zaprešića (»Službene novine Grada Zaprešića«, br. 04/09, 02/13, 06/13 - pročišćeni tekst, 07/14, 01/18, 02/20, 01/21), Gradsko vijeće Grada Zaprešića na 10. sjednici održanoj 29. studenoga 2022., donijelo je
