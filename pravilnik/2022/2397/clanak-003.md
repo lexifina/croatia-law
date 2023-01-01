@@ -1,0 +1,4 @@
+## OBVEZE HRVATSKOGA ZAVODA ZA SOCIJALNI RAD
+# Članak 3.
+(1) Hrvatski zavod za socijalni rad dužan je Hrvatskom zavodu za zapošljavanje dostaviti obavijest o priznatom pravu na zajamčenu minimalnu naknadu za nezaposlenog radno sposobnog ili djelomično radno sposobnog samca ili člana kućanstva koji je korisnik prava na zajamčenu minimalnu naknadu te za osobu kojoj je utvrđena privremena nezapošljivost, u roku od osam dana od dana izvršnosti rješenja o priznavanju prava.
+(2) Hrvatski zavod za socijalni rad dužan je Hrvatskom zavodu za zapošljavanje dostaviti obavijest o odobrenoj usluzi socijalnog mentorstva radno sposobnom i djelomično radno sposobnom samcu ili članu kućanstva koji je korisnik prava na zajamčenu minimalnu naknadu i uključiti predstavnika Hrvatskoga zavoda za zapošljavanje u proces socijalnog mentorstva.

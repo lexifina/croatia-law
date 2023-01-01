@@ -1,0 +1,1 @@
+Pravilnik o načinu suradnje Hrvatskoga zavoda za socijalni rad i Hrvatskoga zavoda za zapošljavanje u provođenju mjera socijalne uključenosti radno sposobnih i djelomično radno sposobnih korisnika zajamčene minimalne naknade
