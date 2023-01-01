@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17 i 114/22) i članka 40. stavka 1. Statuta Grada Senja (»Službeni glasnik Grada Senja« broj 4/20 i 1/21), Gradsko vijeće Grada Senja na 9. sjednici, održanoj 14. prosinca 2022. godine, donosi
