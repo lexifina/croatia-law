@@ -1,0 +1,4 @@
+# Članak 6.
+U članku 46. stavci 1. i 2. mijenjaju se i glase:
+»(1) Kreditna institucija sa sjedištem u Republici Hrvatskoj može obavljati investicijske usluge i aktivnosti i s njima povezane pomoćne usluge iz članka 5. stavaka 1. i 2. ovoga Zakona, za koje je dobila odobrenje sukladno zakonu kojim se uređuje osnivanje i poslovanje kreditnih institucija, uz prethodnu suglasnost Agencije o ispunjavanju uvjeta za obavljanje tih usluga i aktivnosti.
+(2) Kreditna institucija koja obavlja investicijske usluge iz članka 5. stavka 1. točaka 8. ili 9. ovoga Zakona može obavljati usluge dostave podataka iz glave IV. ovoga dijela Zakona, za koje je dobila odobrenje sukladno zakonu kojim se uređuje osnivanje i poslovanje kreditnih institucija, uz prethodnu suglasnost Agencije o ispunjavanju uvjeta za obavljanje tih usluga.«.

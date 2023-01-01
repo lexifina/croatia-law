@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o tržištu kapitala (»Narodne novine«, br. 65/18., 17/20. i 83/21.) u članku 2. stavku 1. točka 11. mijenja se i glasi:
+»11. Direktiva 2014/65/EU Europskog parlamenta i Vijeća od 15. svibnja 2014. o tržištu financijskih instrumenata i izmjeni Direktive 2002/92/EZ i Direktive 2011/61/EU (preinačena) (Tekst značajan za EGP) (SL L 173, 12. 6. 2014.) kako je posljednje izmijenjena Uredbom (EU) 2022/858 Europskog parlamenta i Vijeća od 30. svibnja 2022. o pilot-režimu za tržišne infrastrukture temeljene na tehnologiji distribuiranog zapisa i o izmjeni uredaba (EU) br. 600/2014 i (EU) br. 909/2014 te Direktive 2014/65/EU (Tekst značajan za EGP) (SL L 151 2. 6. 2022.)«.
+U stavku 2. iza točke 9. briše se točka i dodaje se točka 10. koja glasi:
+»10. Uredba (EU) 2022/858 Europskog parlamenta i Vijeća od 30. svibnja 2022. o pilot-režimu za tržišne infrastrukture temeljene na tehnologiji distribuiranog zapisa i o izmjeni uredaba (EU) br. 600/2014 i (EU) br. 909/2014 te Direktive 2014/65/EU (Tekst značajan za EGP) (SL L 151 2. 6. 2022.) (u daljnjem tekstu: Uredba (EU) 2022/858).«.
