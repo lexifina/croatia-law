@@ -1,0 +1,7 @@
+# Članak 20.
+(1) Uzorke živih školjkaša i morske vode za pretrage propisane Planom uzima veterinarski inspektor ili ovlašteni veterinar delegiranog tijela.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju kada djelatnik službenog ili referentnog laboratorija u kojem se provode analize živih školjkaša i morske vode, uzima propisani uzorak, isti se smatra službenim uzorkom samo ako je uzorkovanju prisutan veterinarski inspektor ili ovlašteni veterinar delegiranog tijela.
+(3) Uzorke živih školjkaša za pretrage propisane Planom koji se izlovljavaju ronjenjem ili alatima, veterinarski inspektor ili ovlašteni veterinar delegiranog tijela preuzima od ovlaštenika Povlastice za sakupljanje morskih organizama, nakon sakupljanja.
+(4) Korisnici Dozvola za akvakulturu na proizvodnim područjima za uzgoj živih školjkaša dužni su za potrebe pretraga na parametre propisane Planom, u propisane dane omogućiti uzorkovanje živih školjkaša na propisanim monitoring točkama u proizvodnim područjima kao i postupati po Planu obzirom na vrstu i količinu koja se uzorkuje i dane uzorkovanja.
+(5) Veterinarski inspektor ili ovlašteni veterinar delegiranog tijela prilikom uzorkovanja, odnosno preuzimanja uzorka u slučaju iz stavka 3. ovoga članka, popunjava zapisnik o uzorkovanju živih školjkaša.
+(6) Uzorkovanje iz članka 8. stavka 2. ovoga Pravilnika obavlja se u prisutnosti veterinarskog inspektora ili ovlaštenog veterinara delegiranog tijela, a pretrage obavljaju službeni i referentni laboratoriji koji provode laboratorijske pretrage za potrebe provedbe Plana.

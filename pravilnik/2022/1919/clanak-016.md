@@ -1,0 +1,5 @@
+# Članak 16.
+(1) Kada se u redovitom uzorku morske vode utvrdi porast broja fitoplanktona koji proizvodi toksine, iznad graničnih vrijednosti iz Priloga I koji je tiskan uz ovaj Pravilnik i čini njegov sastavni dio, veterinarski inspektor odmah po saznanju, donosi rješenje o uzorkovanju živih školjkaša na biotoksine unutar najmanje 72 sata nakon porasta toksičnog fitoplanktona.
+(2) Ukoliko rezultat analize živih školjkaša nakon provedenog uzorkovanja iz stavka 1. ovoga članka prekoračuje granične vrijednosti za morske biotoksine veterinarski inspektor postupa sukladno odredbama članka 15. ovoga Pravilnika.
+(3) Veterinarski inspektor rješenje iz stavka 1. i 2, ovoga članka dostavlja proizvođačima i sakupljačima u odnosnoj zoni/području, delegiranim tijelima, područnim obrtničkim komorama, voditeljima Službi veterinarske inspekcije Područnih ureda Državnog inspektorata te Ministarstvu poljoprivrede - Upravi nadležnoj za veterinarstvo i sigurnost hrane.
+IV. POSTUPAK OBAVJEŠTAVANJA O REZULTATIMA NALAZA UZORAKA S KLASIFICIRANIH PODRUČJA, ZATVARANJU I PONOVNOM OTVARANJU TE INFORMACIJAMA O REKLASIFIKACIJI PROIZVODNIH PODRUČJA ILI ZONA

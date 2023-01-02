@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom osigurava provedba Glave V. Provedbene uredbe Komisije (EU) 2019/627 оd 15. ožujka 2019. o utvrđivanju ujednačenog praktičnog uređenja za provedbu službenih kontrola proizvoda životinjskog podrijetla namijenjenih prehrani ljudi u skladu s Uredbom (EU) 2017/625 Europskog parlamenta i Vijeća i o izmjeni Uredbe Komisije (EZ) br. 2074/2005 u pogledu službenih kontrola, (Tekst značajan za EGP), (SL L 131, 17. 5. 2019.), (u daljnjem tekstu: Provedbena uredba Komisije (EU) 2019/627).

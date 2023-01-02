@@ -1,0 +1,4 @@
+## Početna mikrobiološka klasifikacija
+# Članak 8.
+(1) Preliminarna proizvodna područja živih školjkaša klasificiraju se u mikrobiološke razrede temeljem rezultata najmanje 12 pretraženih službenih uzoraka mesa i međuljušturne tekućine živih školjkaša, uzorkovanih u pravilnim vremenskim razmacima u razdoblju ne kraćem od 12 mjeseci.
+(2) Iznimno od stavka 1. ovoga članka moguće je na zahtjev subjekata u poslovanju s hranom, preliminarna proizvodna područja živih školjkaša, klasificirati u mikrobiološke razrede sukladno najvišem rezultatu pretraživanja uzoraka mesa i međuljušturne tekućine živih školjkaša na E. coli, dobivenom tijekom šest mjeseci provedenog uzorkovanja koje je obavljano u pravilnim razmacima od dva tjedna i ukoliko se tijekom sanitarnog pregleda nisu utvrdili značajni izvori onečišćenja.

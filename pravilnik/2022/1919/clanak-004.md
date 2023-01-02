@@ -1,0 +1,2 @@
+# Članak 4.
+Za potrebe ovoga Pravilnika koriste se izrazi iz Uredbe (EZ) br. 853/2004 Europskoga parlamenta i Vijeća od 29. travnja 2004. o utvrđivanju određenih higijenskih pravila za hranu životinjskog podrijetla (SL L 139 30. 4. 2004.), kako je posljednji puta izmijenjena Delegiranom uredbom Komisije (EU) 2021/1374 оd 12. travnja 2021. o izmjeni Priloga III. Uredbi (EZ) br. 853/2004 Europskog parlamenta i Vijeća o posebnim higijenskim zahtjevima za hranu životinjskog podrijetla (SL L 297, 20. 8. 2021.) (u daljnjem tekstu: Uredba (EZ) br. 853/2004).
