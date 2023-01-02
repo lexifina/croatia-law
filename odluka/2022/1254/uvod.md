@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 1. i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donio je 13. srpnja 2022.
