@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 8. Zakona o nadzoru državne granice (»Narodne novine« br. 83/13, 27/16, 114/22 i 151/22) ministar unutarnjih poslova, uz prethodno mišljenje ministra nadležnog za financije i ministra nadležnog za more, promet i infrastrukturu, donosi
