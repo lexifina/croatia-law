@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Prosječna plaća, u skladu s odredbom članka 7. točka 39. Zakona i prema Objavi Državnog zavoda za statistiku o prosječnoj mjesečnoj bruto plaći po zaposlenome u pravnim osobama Republike Hrvatske za razdoblje siječanj - kolovoz 2022. (»Narodne novine«, broj 125/22.) iznosi 10.301,00 kuna odnosno 1.367,18 eura prema fiksnom tečaju konverzije (1 EUR = 7,53450 kuna).
+(2) Prosječna neto plaća, u skladu s odredbom članka 7. točka 40. Zakona i prema Objavi Državnog zavoda za statistiku o prosječnoj mjesečnoj neto plaći po zaposlenome u pravnim osobama Republike Hrvatske za razdoblje siječanj - kolovoz 2022. (»Narodne novine«, broj 125/22.) iznosi 7.583,00 kune odnosno 1.006,44 eura prema fiksnom tečaju konverzije (1 EUR = 7,53450 kuna).
