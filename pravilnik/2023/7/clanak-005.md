@@ -1,0 +1,2 @@
+# Članak 5.
+U članku 34. stavku 9. iza riječi: »te ista ulazi u primitke u mjesecu koji slijedi iza mjeseca u kojem je fizička osoba koja je dohodak utvrđivala u paušalnom iznosu ostvarila primitke iznad iznosa propisanog za obvezni ulazak u sustav poreza na dodanu vrijednost« dodaje se zarez i riječi: »a u slučaju kada je razlika ostvarena u zadnjem mjesecu poreznog razdoblja, ulazi u primitke u mjesecu u kojem je i ostvarena«.
