@@ -1,0 +1,1 @@
+Na temelju članka 117. stavka 6. Zakona o poljoprivredi (»Narodne novine« broj 118/18, 42/20, 127/20 - Odluka Ustavnog suda Republike Hrvatske, 52/21 i 152/22), ministrica poljoprivrede donosi
