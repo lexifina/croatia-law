@@ -1,0 +1,6 @@
+## Rokovi i način dostave informacija
+# Članak 7.
+(1) Holding kojemu je Hrvatska narodna banka izdala odobrenje za holding dužan je informacije iz članka 6. stavka 1. ove Odluke dostavljati za svaku nastalu promjenu kao i informacije o drugim promjenama koje bi mogle utjecati na postojeći status holdinga u roku od 15 dana od nastanka promjene.
+(2) Holding iz stavka 1. ovog članka dužan je za prethodnu kalendarsku godinu dostaviti Hrvatskoj narodnoj banci godišnje konsolidirane financijske izvještaje i, ako nije došlo do promjena vezanih uz informacije iz članka 6. stavka 1., izjavu o tome najkasnije do 31. ožujka tekuće godine.
+(3) Holding kojemu je Hrvatska narodna banka izdala odobrenje izuzeća dužan je informacije iz članka 6. stavka 2. ove Odluke dostavljati za svaku nastalu promjenu kao i informacije o drugim promjenama koje bi mogle utjecati na postojeći status holdinga u roku od 15 dana od nastanka promjene.
+(4) Holding iz stavka 3. ovog članka dužan je za prethodnu kalendarsku godinu dostaviti Hrvatskoj narodnoj banci godišnje konsolidirane financijske izvještaje i, ako nije došlo do promjena vezanih uz informacije iz članka 6. stavka 2., izjavu o tome najkasnije do 31. ožujka tekuće godine.

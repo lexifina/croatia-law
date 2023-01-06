@@ -1,0 +1,5 @@
+## Potpunost zahtjeva
+# Članak 5.
+(1) Zahtjevu za odobrenje za holding ili zahtjevu za odobrenje izuzeća nije potrebno priložiti one informacije i dokumentaciju propisane ovom Odlukom kojima Hrvatska narodna banka već raspolaže, što je podnositelj zahtjeva dužan potvrditi pisanom izjavom.
+(2) Hrvatska narodna banka može zatražiti i drugu dokumentaciju i informacije osim onih propisanih ovom Odlukom kao i dodatna objašnjenja kada je to potrebno radi provjere jesu li ispunjeni svi uvjeti potrebni za izdavanje odobrenja holdingu odnosno odobrenja izuzeća i za potrebe praćenja usklađenosti.
+(3) Podnositelj zahtjeva dužan je osigurati da sve informacije i dokumenti priloženi zahtjevu za odobrenje za holding odnosno za odobrenje izuzeća budu točni, istiniti i potpuni sve do dana izdavanja odobrenja holdingu odnosno odobrenja izuzeća, te je u slučaju nastanka bilo kakvog događaja nakon podnošenja zahtjeva, a koji utječe ili bi mogao utjecati na točnost, istinitost i potpunost informacija i dokumentacije, dužan Hrvatskoj narodnoj banci dostaviti ažurirane informacije i dokumentaciju.
