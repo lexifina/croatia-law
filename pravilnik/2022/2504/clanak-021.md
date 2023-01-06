@@ -1,0 +1,3 @@
+# Članak 21.
+U članku 28. stavku 7. drugoj rečenici, iza riječi »kao i« dodaju se riječi »o samom ulaganju za provedbu kojeg je subjekt osnovan, odnosno stečen te«.
+Stavak 8. mijenja se i glasi: »(8) Kada u skladu sa standardima financijskog izvještavanja koji se primjenjuju za sastavljanje financijskih izvještaja AIF-a postoji obveza konsolidacije financijskih izvještaja društva posebne namjene s financijskim izvještajima AIF-a ili kada Agencija rješenjem naloži takvu konsolidaciju, društvo posebne namjene treba imati istog revizora i sastavljati financijske izvještaje za ista izvještajna razdoblja na isti izvještajni datum kao i AIF.«
