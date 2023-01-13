@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Postupak provjere organiziranosti vatrogastva provodi se uz prethodnu najavu županijskom vatrogasnom zapovjedniku i predsjedniku vatrogasne zajednice s dostavom plana nadzora kako bi se pripremili svi dokumenti koji su potrebni za kvalitetnu ocjenu organiziranosti vatrogastva na području županije odnosno Grada Zagreba.
+(2) Svaki od članova povjerenstva provjerava stanje organiziranosti vatrogastva sukladno zaduženjima iz plana nadzora.
+(3) Nakon završene provjere organiziranosti vatrogastva svi članovi povjerenstva se okupljaju u prostorima vatrogasne zajednice županije odnosno Grada Zagreba nad kojom je obavljana provjera te zajedno sa županijskim vatrogasnim zapovjednikom odnosno zapovjednikom Grada Zagreba i predsjednikom vatrogasne zajednice iznose činjenice koje su utvrdili provjerom.
