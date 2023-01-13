@@ -1,0 +1,9 @@
+# Članak 2.
+(1) Hrvatska audiovizualna djela su djela izvorno proizvedena isključivo na hrvatskom jeziku ili hrvatskim dijalektima ili u većem dijelu proizvedena na hrvatskome jeziku, osim u slučaju opravdanih iznimki, kada se iz umjetničkih, obrazovnih, znanstvenih ili drugih razloga ne koristi hrvatski jezik ili se uopće ne upotrebljava govor.
+(2) Hrvatskim audiovizualnim djelima smatraju se i djela namijenjena nacionalnim manjinama na njihovim jezicima koja u skladu sa stavkom 3. ovog članka potječu iz Republike Hrvatske, kao i djela hrvatske kulturne baštine.
+(3) Hrvatska audiovizualna djela su djela koja potječu iz Republike Hrvatske, čiji je producent ili većinski koproducent pravna osoba sa sjedištem u Republici Hrvatskoj registrirana za proizvodnju audiovizualnih djela te čiji redatelj državljanin Republike Hrvatske ili je sudjelovanje hrvatskih autora, glumaca i drugih hrvatskih umjetnika i djelatnika i/ili hrvatskog kapitala od većeg značenja.
+(4) U smislu stavka 3. ovog članka, audiovizualna djela koja potječu iz Republike Hrvatske su ona djela koja je u većinskom dijelu ostvarilo kreativno i tehničko osoblje s prebivalištem u Republici Hrvatskoj uz udovoljavanje sljedećim uvjetima:
+- da producent tih djela ima sjedište u Republici Hrvatskoj ili
+- da je pojedino djelo nastalo pod nadzorom i stvarnom kontrolom jednog ili više producenata koji imaju sjedište u Republici Hrvatskoj ili
+- da je doprinos koproducenata iz Republike Hrvatske prevladavajući u odnosu na ukupne doprinose koprodukcije, a koprodukciju ne kontrolira jedan ili više proizvođača sa sjedištem izvan Republike Hrvatske.
+(5) Hrvatskim audiovizualnim djelom smatrat će se i audiovizualno djelo koje udovoljava uvjetima iz članka 3. stavka 3. ovog Pravilnika i u slučaju kada je audiovizualno djelo većinski ili u potpunosti financirano iz stranih izvora.
