@@ -1,0 +1,4 @@
+# Članak 2.
+Klasificirani podatak je onaj koji je nadležno tijelo, u propisanom postupku, takvim označilo i za koji je utvrđen stupanj tajnosti, kao i podatak kojeg je Republici Hrvatskoj tako označenog predala druga država, međunarodna organizacija ili institucija s kojom Republika Hrvatska surađuje.
+Neklasificirani podatak je podatak bez utvrđenog stupnja tajnosti, koji se koristi u službene svrhe, kao i podatak koji je Republici Hrvatskoj tako označenog predalo drugo državno tijelo ili pravna osoba s javnim ovlastima odnosno druga država, međunarodna organizacija ili institucija s kojom Republika Hrvatska surađuje.
+Državnoodvjetničko Vijeće u obavljanju poslova iz svoje nadležnosti rukuje klasificiranim podacima drugih nadležnih tijela koji su dostavljeni Državnoodvjetničkom vijeću (klasificirani podaci drugih vlasnika podataka) i klasificiranim podacima Državnoodvjetničkog vijeća.

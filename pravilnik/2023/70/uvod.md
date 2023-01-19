@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o tajnosti podataka (»Narodne novine«, broj 79/2007 i 86/2012) u vezi članka 45. Zakona o Državnoodvjetničkom vijeću (»Narodne novine« broj 67/2018, 126/2019 i 80/2022) Državnoodvjetničko vijeće na 79. sjednici Državnoodvjetničkog vijeća održanoj 29. prosinca 2022 donijelo je:

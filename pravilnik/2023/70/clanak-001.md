@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuju se klasificirani i neklasificirani podaci iz djelokruga Državnoodvjetničkog vijeća i osobe ovlaštene za klasificiranje podataka u Državnoodvjetničkom vijeću, razrađuju se kriteriji za određivanje stupnjeva tajnosti podataka iz djelokruga Državnoodvjetničkog vijeća, regulira se promjena stupnja tajnosti i deklasifikacija podataka Državnoodvjetničkog vijeća, pristup klasificiranim podacima te zaštita klasificiranih podataka.

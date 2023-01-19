@@ -1,0 +1,2 @@
+# Članak 18.
+Državnoodvjetničko vijeće mora pripremiti sve potrebne štambilje za svoj rad sukladno odredbama Uredbe o načinu označavanja klasificiranih podataka, sadržaju i izgledu uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima i ovoga Pravilnika (»OGRANIČENO«, »KOPIJA«, »ISTEK ROKA TAJNOSTI«, »ZABRANJENO UMNOŽAVANJE«, »OBVEZAN POVRAT NAKON UVIDA«, »OBJAVLJIVO«), u roku od tri mjeseca od dana stupanja na snagu ovoga Pravilnika.
