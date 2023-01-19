@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 6. Zakona o gospodarenju otpadom (»Narodne novine«, broj 84/21) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19) ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministra nadležnog za prostorno uređenje i graditeljstvo te ministra vanjskih i europskih poslova donosi
