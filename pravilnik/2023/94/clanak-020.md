@@ -1,0 +1,2 @@
+# Članak 20.
+Zavod je, u okviru svog djelokruga, odgovoran za poduzimanje svih potrebnih administrativnih, tehničkih i organizacijskih mjera za zaštitu povjerljivih statističkih podataka za znanstvene svrhe kojima korisnici podataka pristupaju u »sigurnoj sobi« i »na daljinu«, osobito za odgovarajuću fizičku sigurnost prostorija i računalnih sustava, odgovarajući način čuvanja podataka u računalnom sustavu te odgovarajući način čuvanja rezultata statističke analize.

@@ -1,0 +1,5 @@
+## Korištenje povjerljivih statističkih podataka za znanstvene svrhe
+# Članak 17.
+(1) Pristup povjerljivim statističkim podacima za znanstvene svrhe omogućuje se korisnicima podataka čija su imena navedena u Ugovoru.
+(2) Ugovorna strana i/ili korisnik podataka odgovaraju za poduzimanje svih potrebnih administrativnih, tehničkih i organizacijskih mjera za zaštitu povjerljivih statističkih podataka za znanstvene svrhe koji su im stavljeni na raspolaganje prema Ugovoru, osobito za odgovarajuću fizičku sigurnost prostorija i računalnih sustava, odgovarajući način čuvanja podataka u računalnom sustavu, odgovarajući način čuvanja prijenosnog medija na kojima su pohranjeni podaci te odgovarajući način čuvanja povjerljivih rezultata analize (ograničen pristup prostoriji i računalu u kojima se nalaze rezultati).
+(3) Nakon završetka istraživačkog projekta, a najkasnije u roku od 30 dana, ugovorna strana pisanim putem obavještava Zavod o uništenju povjerljivih statističkih podataka kojima je imala pristup. Ova se izjava primjenjuje na izvorne podatke koje je ugovornoj strani dostavio Zavod i na sve podskupove izvornog skupa podataka.
