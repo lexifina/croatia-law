@@ -1,0 +1,10 @@
+## II. OTPIS DUGA U CIJELOSTI
+# Članak 3.
+Dug se može otpisati u cijelosti podnositelju prijedloga koji ispunjava sljedeće uvjete:
+1. ako ostvaruje pravo na zajamčenu minimalnu naknadu i ako osim nekretnina koje podnositelj prijedloga i članovi njegovog kućanstva koriste za stanovanje i podmirenje osnovnih životnih potreba te onih koje se ne mogu unovčiti odnosno čije je unovčenje teško provedivo, nemaju u vlasništvu drugih nekretnina, ili
+2. ako imovno stanje podnositelja prijedloga i članova njegovog kućanstva odgovara sljedećim uvjetima:
+a) ukupni dohodak i ukupni primici podnositelja prijedloga i članova njegovog kućanstva, osim novčanih sredstava koja se ne uračunavaju u prihod prema zakonu kojim je uređena djelatnost socijalne skrbi, ne prelaze iznos od jedne proračunske osnovice po članu kućanstva, a za podnositelja prijedloga koji je samac iznos od jedne i pol proračunske osnovice
+b) imovina (imovinska prava, vrijednosni papiri, gotovina u domaćoj i stranoj valuti, štednja, novčani polozi, novčana sredstva na osobnim računima, dionice, poslovni udjeli, životno osiguranje i dr.) u novčanom obliku podnositelja prijedloga i članova njegovog kućanstva, po članu kućanstva ne prelazi iznos od jedne proračunske osnovice
+c) podnositelj prijedloga i članovi njegovog kućanstva pored nekretnina koje koriste za stanovanje i podmirenje osnovnih životnih potreba te onih koje se ne mogu unovčiti odnosno čije je unovčenje teško provedivo, nemaju u vlasništvu drugih nekretnina
+d) ako podnositelj prijedloga i članovi njegovog kućanstva nemaju u vlasništvu motorno vozilo niti plovilo čija vrijednost prelazi iznos od 80 osnovica za izračun drugih naknada iz zakona kojim se uređuje djelatnosti socijalne skrbi, osim vozila koje služi za prijevoz samca ili člana kućanstva koji je osoba s invaliditetom ili teško pokretna osoba i
+e) ako su nezaposleni radno sposobni podnositelj prijedloga i članovi njegovog kućanstva evidentirani kao nezaposlene osobe u evidenciji nezaposlenih osoba, osim osoba za koje je Zakonom propisana iznimka od obveze prijave u evidenciju nezaposlenih osoba.

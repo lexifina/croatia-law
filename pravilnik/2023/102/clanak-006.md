@@ -1,0 +1,2 @@
+# Članak 6.
+Kada Zavod utvrdi da je prijedlog za otpis duga u iznosu 1.320,00 eura ili više opravdan, obvezan je prilikom podnošenja prijedloga za davanje prethodne suglasnosti radi otpisa duga ministarstvu nadležnom za poslove socijalne skrbi (u daljnjem tekstu: Ministarstvo), uz dokumentaciju koju je priložio podnositelj prijedloga, dostaviti i izračun duga, dokumentaciju o osnovi nastanka duga te socijalnu anamnezu za podnositelja prijedloga i njegovo kućanstvo.

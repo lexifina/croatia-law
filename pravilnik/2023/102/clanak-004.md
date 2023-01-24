@@ -1,0 +1,5 @@
+## III. DJELOMIČAN OTPIS DUGA
+# Članak 4.
+(1) Dug se može djelomično otpisati podnositelju prijedloga koji ispunjava uvjete za otpis duga u cijelosti, osim uvjeta iz članka 3. točke 2. podtočke a) ovoga Pravilnika, ako bi ispunjenje duga u cijelosti ugrozilo podmirenje osnovnih stambenih i drugih osnovnih životnih potreba s obzirom na obveze podnositelja prijedloga i članova njegova kućanstva.
+(2) Smatra se da je podmirenje osnovnih stambenih i drugih osnovnih životnih potreba podnositelja prijedloga i članova njegova kućanstva ugroženo ako preostali iznos prihoda podnositelja i članova njegovog kućanstva, nakon podmirenja svih obveza iz stavka 1. ovoga članka (obveza zakonskog uzdržavanja, troškova liječenja, troškova obrazovanja, troškova nastalih kao posljedica više sile i sl.), ne prelazi iznos od jedne proračunske osnovice po članu kućanstva, a za podnositelja prijedloga koji je samac iznos od jedne i pol proračunske osnovice.
+(3) Dio duga koji se otpisuje može iznositi najviše do 50% ukupnog iznosa duga.
