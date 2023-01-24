@@ -1,0 +1,2 @@
+# Članak 83.
+Okvirni broj državnih službenika i namještenika u Ministarstvu mora, prometa i infrastrukture prikazan u tablici koja je sastavni dio Uredbe o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture (»Narodne novine«, broj 2/21.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu mora, prometa i infrastrukture koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
