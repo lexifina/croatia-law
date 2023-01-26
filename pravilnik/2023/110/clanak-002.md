@@ -1,0 +1,2 @@
+# Članak 2.
+Dobrovoljnom vatrogascu koji obavlja zadatke gašenja požara, osposobljavanja i usavršavanja, sudjelovanja u vježbama, izvršavanja zaštite i spašavanja u slučaju drugih nepogoda, osiguravanja mjesta gdje postoji požarna opasnost, educiranja građana o protupožarnoj zaštiti, osiguravanja na javnim događanjima u sklopu javnih nastupa i sudjelovanja u demonstracijama s prikazom vježbi pripadaju prava iz obveznog zdravstvenog osiguranja i mirovinskog osiguranja za slučaj ozljede na radu i profesionalne bolesti.
