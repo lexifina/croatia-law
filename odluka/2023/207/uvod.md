@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 1. Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14., 110/19., 144/21. i 114/22.), Vlada Republike Hrvatske je na sjednici održanoj 26. siječnja 2023. donijela
