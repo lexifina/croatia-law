@@ -1,0 +1,2 @@
+# Članak 16.
+Upute o postupku ugošćavanja stranih istraživača objavit će se na mrežnim stranicama ministarstva nadležnog za znanost, ministarstva nadležnog za unutarnje poslove, ministarstva nadležnog za vanjske i europske poslove, Agencije za mobilnost i programe EU (portal EURAXESS) i pravnih osoba akreditiranih za ugošćavanje istraživača državljana trećih zemalja, a sve na hrvatskom i engleskom jeziku.
