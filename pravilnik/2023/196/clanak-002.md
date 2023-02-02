@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 5. stavku 3. podstavak 2. mijenja se i glasi:
+» - da je sposoban financirati provedbu projekta (u slučaju da se projekt u cijelosti financira vlastitim sredstvima podnositelj je obvezan dokazati da ima vlastita sredstva u iznosu najmanje 50 % vrijednosti projekta; ukoliko se projekt financira iz vlastitih i vanjskih izvora podnositelj je obvezan dokazati da ima vlastita sredstva u iznosu najmanje 50 % od ukupnog iznosa prikazanih vlastitih sredstava u Planu aktivnosti i da će pribaviti sredstva iz vanjskih izvora za financiranje projekta za preostalih 50 % vrijednosti projekta; u slučaju financiranja projekta iz vanjskih izvora podnositelj je obvezan dokazati da će pribaviti sredstva iz vanjskih izvora za financiranje projekta).«
