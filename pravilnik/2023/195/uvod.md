@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o biljnom zdravstvu (»Narodne novine«, br. 127/19 i 83/22) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19) ministrica poljoprivrede uz suglasnost ministra vanjskih i europskih poslova te uz suglasnost glavnog državnog inspektora, donosi
