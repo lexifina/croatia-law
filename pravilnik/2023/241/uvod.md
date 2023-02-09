@@ -1,0 +1,1 @@
+Na temelju odredbi članaka 360. stavka 6., 365. stavka 3., 366. stavka 11. i 370. Zakona o tržištu kapitala (»Narodne novine« br. 65/18, 17/20, 83/21 i 151/22), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 25. siječnja 2023. donosi
