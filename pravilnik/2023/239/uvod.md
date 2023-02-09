@@ -1,0 +1,1 @@
+Na temelju odredbi članka 497. stavka 4. i članka 498. stavka 6. Zakona o tržištu kapitala (»Narodne novine« br. 65/18, 17/20, 83/21 i 151/22), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 25. siječnja 2023. donosi
