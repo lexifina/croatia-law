@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o proračunu (»Narodne novine«, broj 144/21), Ministarstvo rada, mirovinskoga sustava, obitelj i socijalne politike uz prethodnu suglasnost, Ministarstva financija, klasa: 011-02/22-01/108, urbroj: 513-05-02-22-8, od 2. siječnja 2023. godine, donosi
