@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) i članka 23. Zakona o vodnim uslugama (»Narodne novine« 66/19), Skupština trgovačkog društva Komunalca d.o.o., Županja, Veliki kraj 132, Županja, na sjednici održanoj dana 6. veljače 2023. godine donijela je
