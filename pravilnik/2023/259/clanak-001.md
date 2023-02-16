@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o provedbi mjere Restrukturiranje i konverzija vinograda iz Nacionalnog programa pomoći sektoru vina za razdoblje od 2019. do 2023. godine (»Narodne novine«, br. 26/19., 21/20. i 24/21.) u članku 1. u stavku 2. iza riječi »(SL L 190, 15. 7. 2016.)« dodaju se riječi »i Uredba (EU) 2021/2116 Europskog parlamenta i Vijeća od 2. prosinca 2021. o financiranju i nadzoru zajedničke poljoprivredne politike te upravljanju njome i o stavljanju izvan snage Uredbe (EU) br. 1306/2013 (SL L 435, 6. 12. 2021.).«
