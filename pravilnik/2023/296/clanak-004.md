@@ -1,0 +1,4 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 4.
+(1) Za sastavljanje akta odnosno izmjene ili dopune javnobilježničkog akta kojim se na temelju zakona poduzimaju radnje s isključivom svrhom da se iznosi temeljnog kapitala i dijelova temeljnog kapitala dioničkih društava, društava s ograničenom odgovornošću i komanditnih društava usklade s uvođenjem eura kao službene valute u Republici Hrvatskoj, javni bilježnik ima pravo na 25 % nagrade koja mu pripada prema člancima 12. i 16. ovoga Pravilnika.
+(2) Za radnje usklađenja iznosa temeljnog kapitala i dijelova temeljnog kapitala dioničkih društava, društava s ograničenom odgovornošću i komanditnih društava s uvođenjem eura kao službene valute u Republici Hrvatskoj koje se poduzimaju istodobno s poduzimanjem drugih radnji zbog kojih se sastavlja akt odnosno mijenja ili dopunjuje javnobilježnički akt, javni bilježnik ima pravo na jedinstvenu nagradu za sastavljanje akta odnosno izmjenu ili dopunu javnobilježničkog akta.
