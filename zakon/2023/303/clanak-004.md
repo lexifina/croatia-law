@@ -1,0 +1,14 @@
+# Članak 4.
+Naslov iznad članka 7. mijenja se i glasi: »Upisnik OPG-ova«.
+Članak 7. mijenja se i glasi:
+»(1) Agencija za plaćanja vodi Upisnik OPG-ova kao javnu službenu evidenciju u elektroničkom obliku koja sadržava vjerodostojne i ažurirane podatke o subjektima upisa, fizičkim osobama u organizacijskom obliku OPG-a za koje je upis u Upisnik OPG-ova propisan ovim Zakonom.
+(2) Agencija za plaćanja u okviru prenesenih javnih ovlasti rješava u upravnom postupku o upisu OPG-a u Upisnik OPG-ova, izdaje Izvod o podacima koji se vode u Upisniku OPG-ova na temelju podnesenog zahtjeva te obavlja i druge upravne i administrativne poslove radi upisa i evidentiranja podataka o OPG-u u Upisnik OPG-ova.
+(3) Agencija za plaćanja u upravnom postupku rješava o upisu u Upisnik OPG-ova, odjavi iz Upisnika OPG-ova, upisu, promjeni ili brisanju dopunske djelatnosti OPG-a, upisu ili promjeni statusa OPG-a, upisu ili promjeni nositelja OPG-a, upisu, odjavi ili promjeni članova OPG-a, upisu ili promjeni naziva OPG-a, upisu ili promjeni sjedišta OPG-a te upisu ili promjeni izdvojenog pogona / proizvodne jedinice OPG-a.
+(4) Agencija za plaćanja rješava u provedbi postupaka iz stavka 2. ovoga članka na temelju podnesenog zahtjeva za upis u Upisnik OPG-ova (u daljnjem tekstu: zahtjev za upis) koji se podnosi na obrascu s propisanim prilozima i dokazima na temelju kojih se provodi upis podataka u Upisnik OPG-ova i po službenoj dužnosti u provedbi postupka iz članka 40.a ovoga Zakona.
+(5) Iznimno od stavka 2. ovoga članka, upravni postupak ne provodi se u dijelu evidentiranja podataka koji se odnosi na žiroračun, kontakte i proizvodne resurse OPG-a.
+(6) Protiv rješenja Agencije za plaćanja može se izjaviti žalba o kojoj odlučuje Ministarstvo.
+(7) Podaci iz Upisnika OPG-ova su javni, osim OIB-a nositelja i članova OPG-a.
+(8) Podaci iz Upisnika OPG-ova obrađuju se i javno objavljuju u svrhu kontrole mjera poljoprivredne politike, praćenja stanja poljoprivrede i planiranja poljoprivredne politike, izrade, praćenja i provedbe lokalnih i regionalnih akata strateškog planiranja, planiranja i provedbe projekata od javnog interesa, kao i u turističko-promotivne svrhe.
+(9) Podaci iz Upisnika OPG-ova objedinjavaju se u središnjoj bazi podataka Upisnika poljoprivrednika koja se vodi u skladu sa zakonom kojim se uređuju ciljevi i mjere poljoprivredne politike te su njezin sastavni dio i mogu se koristiti kao dio provedbe integriranog administrativnog i kontrolnog sustava (IAKS).
+(10) Na podatke o subjektima upisa, fizičkim osobama u organizacijskom obliku OPG-a, koji se upisuju u Upisnik OPG-ova, primjenjuju se propisi kojima se uređuje zaštita osobnih podataka.
+(11) Oblik, sadržaj i način vođenja Upisnika OPG-ova te obrazac zahtjeva za upis i potrebne dokaze koji se prilažu uz zahtjev za upis iz stavka 4. ovoga članka ministar nadležan za poslove poljoprivrede (u daljnjem tekstu: ministar) propisuje pravilnikom.«.
