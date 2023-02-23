@@ -1,0 +1,5 @@
+# Članak 1.
+U Zakonu o osiguranju radničkih tražbina (»Narodne novine«, br. 70/17.) u članku 3. stavku 1. točke 4., 5. i 6. mijenjaju se i glase:
+»4) radnik je fizička osoba sukladno općem propisu o radu koja je u vrijeme otvaranja stečajnog postupka u radnom odnosu kod poslodavca, kao i osoba kojoj je radni odnos kod poslodavca prestao unutar 12 mjeseci prije otvaranja stečajnog postupka odnosno kojoj poslodavac nije isplatio plaću odnosno naknadu plaće na temelju radnog odnosa zbog nemogućnosti prisilne naplate neisplaćene plaće odnosno naknade plaće
+5) zaštićeno razdoblje je razdoblje za koje se provodi zaštita i osiguranje prava u slučaju otvaranja stečajnog postupka nad poslodavcem, a predstavlja razdoblje posljednjih pet mjeseci prije otvaranja stečajnog postupka nad poslodavcem odnosno posljednjih pet mjeseci prije prestanka radnog odnosa ako je on prestao unutar 12 mjeseci prije otvaranja stečajnog postupka
+6) minimalna plaća je mjesečni iznos brutoplaće koji radniku pripada za rad u punom radnom vremenu sukladno uredbi Vlade Republike Hrvatske o visini minimalne plaće.«.
