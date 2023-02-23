@@ -1,0 +1,7 @@
+## ZAHTJEVI PROPISA O HRANI ZA ŽIVOTINJE
+## Posebna pravila o hrani za životinje
+# Članak 14.
+(1) Hrana za životinje koja je stavljena na tržište Republike Hrvatske mora biti označena na hrvatskom jeziku i latiničnom pismu te reklamirana i prezentirana prema propisima o hrani za životinje.
+(2) Ministarstvo nadležno za poljoprivredu nadležno je tijelo za odobravanje objekata u poslovanju s hranom za životinje u kojima se provodi postupak detoksifikacije u skladu s člankom 6. Uredbe Komisije (EU) 2015/786.
+(3) Radi osiguranja zdravlja ljudi i životinja, ministar nadležan za poljoprivredu odlukom donosi godišnji plan monitoringa za hranu za životinje.
+(4) Ministar nadležan za poljoprivredu, uz prethodnu suglasnost glavnog državnog inspektora, pravilnikom propisuje dodatne zahtjeve za označivanje, reklamiranje i prezentiranje hrane za životinje, higijenu hrane za životinje, higijenu hrane za životinje kada subjekti u poslovanju s hranom za životinje koriste proizvode životinjskog podrijetla, proizvode koji potječu iz specifičnog izvora ili su namijenjeni za posebne hranidbene potrebe životinja, dodatne zahtjeve za subjekte u poslovanju s hranom za životinje u odnosu na osoblje, evidencije, prostorije i opremu, mikrobiološke i druge kriterije za hranu za životinje prilikom stavljanja na tržište i hranidbu životinja te nacionalne mjere i dozvoljena odstupanja za provedbu propisa Europske unije kojima se uređuje područje hrane za životinje te posebna pravila za poslovanje s hranom za životinje ako nisu propisana propisima Europske unije.

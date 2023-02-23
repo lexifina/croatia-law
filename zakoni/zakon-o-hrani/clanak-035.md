@@ -1,0 +1,7 @@
+## Provedba službenih kontrola
+# Članak 35.
+(1) Tijelo nadležno za organizaciju i provedbu službenih kontrola u provedbi ovoga Zakona, uredbi i odluka iz članka 2. stavka 1. ovoga Zakona te propisa donesenih na temelju ovoga Zakona je Državni inspektorat.
+(2) Službene kontrole nad provedbom ovoga Zakona, uredbi i odluka iz članka 2. stavka 1. ovoga Zakona te propisa donesenih na temelju ovoga Zakona provode veterinarski inspektori, sanitarni inspektori i poljoprivredni inspektori Državnog inspektorata (u daljnjem tekstu: osobe ovlaštene za provedbu službenih kontrola) , prema podjeli nadležnosti iz propisa kojim se uređuju službene kontrole u području hrane i hrane za životinje, a u skladu s procedurama za provođenje službenih kontrola hrane i hrane za životinje.
+(3) Osobe ovlaštene za provedbu službenih kontrola iz stavka 2. ovoga članka obvezne su u slučaju nesukladnosti postupiti sukladno mjerama iz članka 36. ovoga Zakona, mjerama propisanim Uredbom 2017/625, propisom o službenim kontrolama i propisima o hrani i hrani za životinje.
+(4) Osobe ovlaštene za provedbu službenih kontrola iz stavka 2. ovoga članka prilikom izricanja mjera, po potrebi, uzimaju u obzir procjenu rizika koju je izdala Europska agencija za sigurnost hrane i/ili Hrvatska agencija za poljoprivredu i hranu.
+(5) Uzorkovanje, postupanje s uzorcima te naplata troškova u svrhu provedbe uredbi iz članka 2. ovoga Zakona i propisa donesenih na temelju njega obavlja se u skladu s ovim Zakonom i propisom kojim se uređuju službene kontrole.

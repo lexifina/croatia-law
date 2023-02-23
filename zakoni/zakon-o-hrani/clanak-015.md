@@ -1,0 +1,10 @@
+## Registracija i odobravanje objekata i subjekata u poslovanju s hranom za životinje
+# Članak 15.
+(1) Subjekt u poslovanju s hranom za životinje obvezan je registrirati svaki objekt odnosno osigurati odobravanje svih objekata za koje se to zahtijeva, a u kojem se obavlja djelatnost u bilo kojoj fazi proizvodnje, skladištenja, prerade, prijevoza i distribucije hrane za životinje, u skladu s člancima 9. i 10. Uredbe (EZ) br. 183/2005 i u skladu s člankom 13. Uredbe (EU) 2019/4.
+(2) Subjekt u poslovanju s hranom za životinje obvezan je podnijeti zahtjev za registraciju ili odobravanje ministarstvu nadležnom za poljoprivredu radi upisa u upisnike registriranih i odobrenih objekata i subjekata u poslovanju s hranom za životinje.
+(3) Upisnike registriranih i odobrenih objekata i subjekata u poslovanju s hranom za životinje vodi ministarstvo nadležno za poljoprivredu.
+(4) Objekti u kojima posluju subjekti u poslovanju s hranom za životinje koji podliježu odobravanju utvrđeni su Uredbom (EZ) br. 183/2005, Uredbom (EZ) br. 141/2007, Uredbom Komisije (EU) 2015/786, Uredbom (EU) 2019/4 i pravilnikom iz stavka 8. ovoga članka.
+(5) O zahtjevu subjekta u poslovanju s hranom za životinje za korištenje mogućnosti odstupanja iz Priloga IV. Uredbe (EZ) br. 999/2001 ministarstvo nadležno za poljoprivredu odlučuje rješenjem.
+(6) Subjekt u poslovanju s hranom za životinje obvezan je ministarstvo nadležno za poljoprivredu obavijestiti pisanim putem o svakoj promjeni koja se odnosi na objekt, nastaloj nakon registracije, odnosno odobravanja u roku od 30 dana od nastale promjene.
+(7) Protiv rješenja iz stavka 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(8) Ministar nadležan za poljoprivredu, uz prethodnu suglasnost glavnog državnog inspektora, donosi pravilnik kojim se uređuje sadržaj, oblik i način vođenja upisnika registriranih i odobrenih objekata i subjekata u poslovanju s hranom za životinje te dozvolama za korištenje mogućnosti odstupanja iz Priloga IV. Uredbe (EZ) br. 999/2001.
