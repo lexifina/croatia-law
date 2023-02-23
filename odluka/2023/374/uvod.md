@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), a u vezi s točkom 7. Strategije digitalne Hrvatske za razdoblje do 2032. godine (»Narodne novine«, broj 2/23.), Vlada Republike Hrvatske je na sjednici održanoj 23. veljače 2023. donijela
