@@ -1,0 +1,6 @@
+## Pravni učinci rješenja o obnovi i rješenja o novčanoj pomoći na pravo vlasništva i druga stvarna prava na nekretninama
+# Članak 67.
+(1) Rješenje o obnovi i rješenje o novčanoj pomoći nema pravnih učinaka na pravo vlasništva i druga stvarna prava na nekretnini za koju je izdano.
+(2) U slučaju vlasničke tužbe na nekretnini koja je obnovljena na temelju ovoga Zakona podnositelj zahtjeva koji je ostvario pravo na obnovu nema pravo na naknadu štete i odgovoran je za eventualna potraživanja od osobe koja je dokazala da je vlasnik stvari na temelju zakona kojim se uređuje vlasništvo.
+(3) Ako vlasnik odnosno suvlasnik kojemu je pravomoćnom presudom utvrđeno pravo vlasništva na nekretnini koja je predmet obnove odnosno izgradnje zamjenske obiteljske kuće za koju taj vlasnik odnosno suvlasnik ne ostvaruje prava na temelju ovoga Zakona, Republika Hrvatska ima pravo na povrat uloženih sredstava dok vlasnik odnosno suvlasnik može umjesto isplate uloženih sredstava priznati Republici Hrvatskoj vlasništvo ili suvlasništvo u onom dijelu koji je odgovarajući visini uloženih sredstava.
+(4) Podnositelj zahtjeva koji je lažnim iskazom ostvario prava na temelju ovoga Zakona dužan je snositi svu prouzročenu štetu vlasniku odnosno suvlasniku koji je utvrđen pravomoćnom presudom.

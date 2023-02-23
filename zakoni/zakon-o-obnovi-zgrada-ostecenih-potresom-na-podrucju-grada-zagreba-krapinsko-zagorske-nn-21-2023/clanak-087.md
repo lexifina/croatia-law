@@ -1,0 +1,5 @@
+## Privremeni smještaj do davanja u najam stana
+# Članak 87.
+(1) Grad Zagreb, Krapinsko-zagorska županija, Zagrebačka županija, Sisačko-moslavačka županija odnosno Karlovačka županija dužni su o svom trošku vlasniku stana i zaštićenom najmoprimcu iz članaka 77. do 80. ovoga Zakona do davanja u najam stana osigurati privremeni smještaj ako on, njegov bračni drug, izvanbračni drug, životni partner odnosno neformalni životni partner na području Grada Zagreba odnosno jedinice područne (regionalne) samouprave na kojoj se nalazi oštećena odnosno uništena zgrada nije vlasnik druge useljive obiteljske kuće ili stana, a o čemu se uz zahtjev predaje pisana izjava pod materijalnom i kaznenom odgovornošću na kojoj je potpis ovjeren kod javnog bilježnika ili javnopravnog tijela pred kojim se vodi postupak.
+(2) Privremeni smještaj iz stavka 1. ovoga članka provodi se na temelju rješenja koje donosi upravno tijelo Grada Zagreba odnosno jedinice područne (regionalne) samouprave ili jedinice lokalne samouprave nadležno za upravljanje stanovima.
+(3) Protiv rješenja iz stavka 2. ovoga članka može se izjaviti žalba Ministarstvu.

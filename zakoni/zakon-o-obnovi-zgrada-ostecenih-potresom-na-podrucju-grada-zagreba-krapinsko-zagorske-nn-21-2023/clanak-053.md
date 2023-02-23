@@ -1,0 +1,4 @@
+## Mjesto gradnje višestambene i stambeno-poslovne zgrade
+# Članak 53.
+(1) Višestambena odnosno stambeno-poslovna zgrada gradi se na mjestu uklonjene višestambene odnosno stambeno-poslovne zgrade na području jedinice lokalne samouprave na kojem je proglašena katastrofa, osim u slučaju klizišta i drugih geoloških promjena koje su prouzročile promjenu temeljnih karakteristika tla, u kojem se slučaju gradi na novoj lokaciji na području jedinice područne (regionalne) samouprave na kojem se nalazila uklonjena višestambena ili stambeno-poslovna zgrada, na zemljištu u vlasništvu Republike Hrvatske ili jedinice područne (regionalne) odnosno lokalne samouprave.
+(2) Zgrade iz stavka 1. ovoga članka za područje na kojem je proglašena katastrofa mogu se graditi u građevinskim područjima naselja, osim na površinama određenim za tu namjenu i na površinama drugih namjena određenih prostornim planom, uz uvjet da isto zemljište nije planirano kao infrastrukturna površina.

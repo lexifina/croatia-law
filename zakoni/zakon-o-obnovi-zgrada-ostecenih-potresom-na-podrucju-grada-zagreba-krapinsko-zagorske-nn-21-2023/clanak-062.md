@@ -1,0 +1,15 @@
+## Novčana pomoć umjesto gradnje zamjenske obiteljske kuće
+# Članak 62.
+(1) Umjesto gradnje zamjenske obiteljske kuće, u skladu s ovim Zakonom, vlasnik odnosno suvlasnici uništene obiteljske kuće koja se uklanja na temelju ovoga Zakona mogu odabrati isplatu novčane pomoći za opravdane troškove koja ne može biti veća od procijenjene građevinske vrijednosti obiteljske kuće na koju vlasnik ima pravo prema ovom Zakonu.
+(2) Novčana pomoć iz stavka 1. ovoga članka, na zahtjev vlasnika odnosno suvlasnika obiteljske kuće iz stavka 1. ovoga članka, isplaćuje se prije početka gradnje na posebno otvoren namjenski račun korisnika novčane pomoći, tijekom gradnje prema računima ispostavljenim po pojedinačno okončanim radovima ili nakon završene gradnje.
+(3) Novčana pomoć prije početka gradnje isplaćuje se s posebno otvorenog namjenskog računa iz stavka 2. ovoga članka po odobrenju Ministarstva na temelju ispostavljenih računa.
+(4) Zamjenska obiteljska kuća umjesto koje je zatražena novčana pomoć ne gradi se na temelju ovoga Zakona.
+(5) Iznimno od odredbe stavka 4. ovoga članka, zamjenska obiteljska kuća može se graditi na mjestu uklonjene obiteljske kuće na temelju tipskog projekta iz članka 47. stavaka 1. i 2. ovoga Zakona ili projekta za građenje zamjenske obiteljske kuće iz članka 47. stavka 1. ovoga Zakona u slučaju gradnje zamjenske obiteljske kuće veličine iz članka 46. ovoga Zakona.
+(6) Iznimno od članka 44. stavka 1. ovoga Zakona, zamjenska obiteljska kuća iz stavka 4. ovoga članka za koju je vlasnik odnosno suvlasnik podnio zahtjev za novčanu pomoć može se graditi na drugoj lokaciji na području Grada Zagreba odnosno jedinice područne (regionalne) samouprave na kojoj se nalazi uništena obiteljska kuća.
+(7) Najviši iznos novčane pomoći za opravdane troškove iz ovoga članka utvrđuje se sukladno članku 15. stavku 1. ovoga Zakona.
+(8) Iznimno od stavka 1. ovoga članka, vlasnik odnosno suvlasnici obiteljske kuće koja se uklanja na temelju ovoga Zakona mogu odabrati isplatu novčane pomoći umjesto gradnje zamjenske obiteljske kuće za kupnju obiteljske kuće odnosno stana na tržištu nekretnina na području jedinice područne (regionalne) samouprave na kojoj se nalazi obiteljska kuća koja se uklanja.
+(9) Novčana pomoć iz stavka 8. ovoga članka isplaćuje se na posebno otvoren namjenski račun korisnika novčane pomoći u visini procijenjene građevinske vrijednosti gradnje zamjenske obiteljske kuće sukladno članku 15. stavku 1. ovoga Zakona na koju vlasnik ima pravo prema ovom Zakonu, uz uvjet da je obiteljska kuća koja se kupuje uporabljiva što utvrđuje Agencija za pravni promet i posredovanje nekretninama.
+(10) Isplatom novčane pomoći iz stavka 9. ovoga članka utvrđuje se da je vlasnik u cijelosti ostvario svoja prava i da nema daljnjih potraživanja prema Republici Hrvatskoj na temelju ovoga Zakona.
+(11) Uvjet za isplatu novčane pomoći iz stavka 8. ovoga članka je podnošenje zahtjeva za uklanjanje uništene obiteljske kuće i suglasnost vlasnika za uklanjanje.
+(12) Uvjeti, rokovi i način isplate novčane pomoći iz ovoga članka propisat će se programom mjera.
+(13) Novčana pomoć iz ovoga članka izuzima se od ovrhe.

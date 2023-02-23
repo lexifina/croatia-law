@@ -1,0 +1,6 @@
+## Prijenos prava vlasništva
+# Članak 54.
+(1) Ako se višestambena odnosno stambeno-poslovna zgrada gradi na novoj lokaciji iz članka 53. ovoga Zakona, suvlasnici su dužni svoje suvlasničke dijelove na zemljištu na kojem se nalazila uklonjena zgrada prenijeti u vlasništvo Republici Hrvatskoj odnosno jedinici područne (regionalne) ili lokane samouprave najkasnije do prijenosa prava vlasništva posebnog dijela zgrade s pripadajućim suvlasničkim dijelom zemljišta i zajedničkih dijelova i uređaja zgrade povezanih stvarnim pravima s vlasništvom posebnog dijela nekretnina, a koji su njemu dužni prenijeti u vlasništvo posebni dio zgrade, na temelju ugovora o zamjeni prava vlasništva.
+(2) Na temelju ugovora iz stavka 1. ovoga članka nadležni zemljišnoknjižni odjel prilikom upisa prava vlasništva po službenoj dužnosti prenijet će sve terete i zabrane raspolaganja koji su upisani u zemljišnoknjižni uložak uklonjene zgrade odnosno posebnog dijela zgrade u zemljišnoknjižni uložak posebnog dijela izgrađene zgrade koji je vlasnik zamjenom nekretnina stekao od Republike Hrvatske.
+(3) Na prijenos prava vlasništva iz stavka 1. ovoga članka ne plaća se porez na promet nekretnina.
+(4) Uvjeti, načini i rokovi za gradnju višestambenih i stambeno-poslovnih zgrada propisat će se programom mjera.

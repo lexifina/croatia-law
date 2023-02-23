@@ -1,0 +1,4 @@
+## Projekt obnove konstrukcije zgrade
+# Članak 26.
+(1) Projektom obnove konstrukcije zgrade projektira se popravak konstrukcije, pojačanje konstrukcije i/ili cjelovita obnova konstrukcije te, po potrebi, popravak nekonstrukcijskih elemenata.
+(2) Projekt obnove konstrukcije zgrade, ovisno o načinu obnavljanja oštećene zgrade i stanju zgrade, izrađuju ovlašteni inženjer građevinarstva koji ima najmanje pet godina radnog iskustva u projektiranju konstrukcija i ovlašteni arhitekt koji ima najmanje pet godina radnog iskustva, ako ovim Zakonom nije propisano drukčije, te ovlašteni inženjer strojarstva i ovlašteni inženjer elektrotehnike, ako za to postoji potreba. U slučaju projekta obnove konstrukcije zgrade kojom se projektira samo popravak konstrukcije, projekt može izraditi i samo ovlašteni inženjer građevinarstva koji ima najmanje pet godina radnog iskustva u projektiranju konstrukcija.

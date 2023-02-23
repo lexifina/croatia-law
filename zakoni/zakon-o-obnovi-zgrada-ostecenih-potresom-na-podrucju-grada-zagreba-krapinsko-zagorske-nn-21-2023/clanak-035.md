@@ -1,0 +1,9 @@
+## Gradnja zamjenske obiteljske kuće od strane donatora
+# Članak 35.
+(1) Gradnju zamjenske obiteljske kuće iz članka 32. stavka 2. ovoga Zakona provodi donator s kojim Republika Hrvatska i vlasnik obiteljske kuće sklapaju ugovor kojim će se urediti prava i obveze i odgovornost donatora za štetu ako donator ne izgradi zamjensku obiteljsku kuću.
+(2) Ugovor iz stavka 1. ovoga članka obvezno sadrži izjavu vlasnika da je u cijelosti ostvario svoja prava i nema daljnjih potraživanja prema Republici Hrvatskoj na temelju ovoga Zakona.
+(3) Iznimno od stavka 1. ovoga članka, donator može vlasniku koji ostvaruje pravo na gradnju zamjenske obiteljske kuće iz članka 40. ovoga Zakona izgraditi zamjensku obiteljsku kuću na temelju ovoga Zakona.
+(4) Izgradnjom obiteljske kuće iz stavka 3. ovoga članka smatra se da je vlasnik u cijelosti ostvario svoja prava i nema daljnjih potraživanja prema Republici Hrvatskoj na temelju ovoga Zakona.
+(5) Za izgrađenu zamjensku obiteljsku kuću iz ovoga članka ne plaća se vodni doprinos, komunalni doprinos i naknada za promjenu namjene poljoprivrednog zemljišta.
+(6) Zamjenska obiteljska kuća iz ovoga članka može se rabiti nakon primitka završnog izvješća nadzornog inženjera o izvedbi građevine i pisane izjave izvođača o izvedenim radovima i uvjetima održavanja građevine.
+(7) Izgrađena zamjenska obiteljska kuća iz ovoga članka za koju je izdano rješenje o tipskom projektu iz članka 47. stavaka 1. i 2. ovoga Zakona ili izrađen projekt za građenje zamjenske obiteljske kuće izrađen prema pravilniku iz članka 4. stavka 4. ovoga Zakona u slučaju gradnje zamjenske obiteljske kuće veličine iz članka 46. ovoga Zakona i za koju je izrađeno završno izvješće nadzornog inženjera o izvedbi građevine smatra se u smislu propisa o gradnji postojećom građevinom za koju je izdana pravomoćna uporabna dozvola.

@@ -1,0 +1,6 @@
+## Osnivanje i sastav Stručnog savjeta
+# Članak 8.
+(1) Stručni savjet osniva Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) odlukom.
+(2) Stručni savjet ima predsjednika, dva zamjenika predsjednika te 19 članova.
+(3) Predsjednika i njegove zamjenike te članove Stručnog savjeta imenuje i razrješava Vlada. Predsjednik se imenuje iz reda državnih dužnosnika. Jedan zamjenik imenuje se iz Ureda predsjednika Vlade, a drugi iz reda dužnosnika ili službenika Grada Zagreba. Po jedan član imenuje se iz reda stručnjaka Ministarstva, ministarstva nadležnog za kulturu, stručnjaka zaposlenika Građevinskog fakulteta Sveučilišta u Zagrebu, Arhitektonskog fakulteta Sveučilišta u Zagrebu, članova Hrvatske komore inženjera građevinarstva, Hrvatske komore arhitekata, Hrvatske komore inženjera strojarstva, Hrvatske komore inženjera elektrotehnike, Hrvatske gospodarske komore, Hrvatske obrtničke komore, Hrvatske udruge poslodavaca, Hrvatskog saveza građevinskih inženjera, Društva arhitekata Zagreba, Hrvatskog inženjerskog saveza, Instituta za povijest umjetnosti, Gradskog zavoda za zaštitu spomenika kulture i prirode Grada Zagreba, Geofizičkog odsjeka Prirodoslovno-matematičkog fakulteta Sveučilišta u Zagrebu, Ekonomskog instituta, Pravnog fakulteta Sveučilišta u Zagrebu.
+(4) Članovi Stručnog savjeta moraju biti istaknuti stručnjaci u svojoj struci.
