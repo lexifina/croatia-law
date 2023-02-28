@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Društvo i Hrvatski ured za osiguranje dužno je Agenciji dostavljati dokumentaciju propisanu ovim Pravilnikom na način i u skladu s tehničkom uputom Agencije objavljenom na internetskoj stranici Agencije.
+(2) Osim dokumentacije propisane stavkom 1. ovoga članka Društvo i Hrvatski ured za osiguranje dužni su dostaviti na zahtjev Agencije i drugu dokumentaciju ili podatke u vezi s njihovim poslovanjem, a za potrebe nadzora ili za obavljanje drugih poslova iz nadležnosti i djelokruga Agencije na način kako je propisano odredbama ovoga članka i u roku određenom u zahtjevu Agencije.
+(3) Agencija može, u slučaju potrebe, zatražiti od Društva i Hrvatskog ureda za osiguranje dostavu određene dokumentacije propisane ovim Pravilnikom i u izvorniku ili ovjerenoj preslici, neovisno o izvršenoj dostavi u elektroničkom obliku.

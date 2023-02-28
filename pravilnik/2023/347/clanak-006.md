@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Na podružnicu društva za osiguranje iz druge države članice Europske unije/Europskog gospodarskog prostora koja je osnovana na području Republike Hrvatske, na odgovarajući se način primjenjuju odredbe članka 2. stavka 1. točaka 1., 6., 8., 11., 13. i 14. ovog Pravilnika.
+(2) Na podružnicu društva za osiguranje iz treće države ili Švicarske Konfederacije, a koja je osnova na području Republike Hrvatske na odgovarajući se način primjenjuju odredbe članka 2. stavka 1. točaka 1., 5., 6., 8., 9., 10., 11., 12., 13. i 14. ovog Pravilnika.
+(3) Podružnica društva za osiguranje iz treće države a koja je osnovana na području Republike Hrvatske dužna je bez odgađanja obavijestiti Agenciju o promjeni podataka iz zahtjeva za izdavanje odobrenja za osnivanje podružnice propisanih odredbama članka 78. stavka 3. Zakona o osiguranju.
+(4) Osim dokumentacije propisane stavkom 1. ovoga članka podružnice društva za osiguranje iz treće države su dužne dostaviti na zahtjev Agencije i drugu dokumentaciju ili podatke u vezi s primjenom članka 77. Zakona o osiguranju, u roku koji Agencija odredi u svom zahtjevu.
