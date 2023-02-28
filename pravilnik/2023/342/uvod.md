@@ -1,0 +1,1 @@
+Na temelju članka 146. Zakona o zračnom prometu (»Narodne novine«, br. 69/09, 84/11, 54/13, 127/13 i 92/14) ministar mora, prometa i infrastrukture uz suglasnost ministra obrane, a na temelju članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19), uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
