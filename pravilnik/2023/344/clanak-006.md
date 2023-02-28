@@ -1,0 +1,3 @@
+# Članak 6.
+Obveznici iz članka 2. ovog Pravilnika dužni su HUO-u, za slučaj nastanka razloga za prestanak obveznika odnosno stečaja iz članka 31. ZOOP-a, položiti Instrument za osiguranje izvršenja obveza Garancijskog fonda po osnovi provođenja obveznih osiguranja iz članka 2. stavak 1. ZOOP-a naplativ na prvi poziv HUO-a.
+Instrument iz prethodnog stavka će se koristiti također i u slučaju prestanka obavljanja poslova obveznih osiguranja uslijed oduzimanja odobrenja za rad od strane Hanfe bilo da se radi o oduzimanju odobrenja za rad pojedinih ili svih vrsta osiguranja iz članka 2. stavak 1. ZOOP-a, ili prestanka obveznika zbog pokretanja postupka stečaja ili postupka likvidacije i drugim slučajevima predviđenim ZOOP-om i Zakonom o osiguranju.

@@ -1,0 +1,2 @@
+# Članak 5.
+Ako obveznik ne izmiri obveze na način i po postupku utvrđenom u spomenutim aktima HUO-a iz članka 3. ovog Pravilnika, Upravni odbor HUO-a preispitat će opravdanost daljnjeg članstva toga obveznika u HUO-u i predložiti Hanfi da protiv imenovanog obveznika pokrene prekršajni postupak te poduzme druge zakonske mjere uključujući i oduzimanje odobrenja za obavljanje poslova osiguranja iz članka 2. stavak 1. ZOOP-a.

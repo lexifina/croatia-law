@@ -1,0 +1,1 @@
+Na temelju odredbi članka 45. stavka 2. i članka 46. stavka 3. Zakona o obveznim osiguranjima u prometu (»Narodne novine« broj 151/05, 36/09, 75/09, 76/13 i 152/14) u daljnjem tekstu ZOOP) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 8. veljače 2023. donosi
