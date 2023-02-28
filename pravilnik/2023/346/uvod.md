@@ -1,0 +1,1 @@
+Na temelju odredbi članka 200. stavka 7. Zakona o osiguranju (»Narodne novine« broj 30/15, 112/18, 63/20, 133/20 i 151/22) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 8. veljače 2023. donosi
