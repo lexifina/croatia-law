@@ -1,0 +1,7 @@
+# Članak 13.
+NAKNADA ŠTETE
+1. Stranke neće zahtijevati naknadu štete koju je prouzročio član tima za spašavanje, postrojbi za civilnu zaštitu i/ili stručnjak tijekom zadatka vezanog za provedbu ovog Sporazuma kao i naknadu štete nastale zbog ozljede ili smrti bilo kojeg člana tima za spašavanje, postrojbi za civilnu zaštitu i/ili stručnjaka do kojih je došlo tijekom provedbe njegovih dužnosti.
+2. Ako bilo koji član tima za spašavanje, postrojbi za civilnu zaštitu i/ili stručnjak stranke koja pruža pomoć prouzroči bilo kakvu štetu trećoj strani na državnom području države stranke koja upućuje zahtjev tijekom aktivnosti u okviru ovog Sporazuma, navedenu štetu nadoknađuje stranka koja upućuje zahtjev u skladu sa svojim nacionalnim zakonodavstvom, na isti način kao da su takvu štetu prouzročili državljani te stranke prilikom izvršavanja svojih službenih dužnosti.
+3. Iznimno od stavka 1. i 2. ovog članka, svaku štetu koju je bilo koji član tima za spašavanje, postrojbi za civilnu zaštitu i/ili stručnjak prouzročio namjerno ili iz svjesnog nehaja nadoknađuje stranka koja pruža pomoć, pod uvjetom da je stranka koja upućuje zahtjev dokazala postojanje namjerno nanesene štete u postupku pred sudom.
+4. Stranke međusobno djeluju, u skladu sa svojim nacionalnim zakonodavstvom, kako bi olakšale namirenje bilo kakvih potraživanja za naknadu štete te razmjenjuju sve dostupne informacije o svim slučajevima štete u skladu s odredbama ovog članka.
+5. Odredbe ovog članka primjenjuju se i ako je država bilo koje stranke tranzitna država.
