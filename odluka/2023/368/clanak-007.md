@@ -1,0 +1,7 @@
+# Članak 7.
+Naknada za razvoj uvodi se u jednakim visinama na području JLS-a uslužnog područja Isporučitelja iz čl.2. ove Odluke.
+Iznimno od stavka 1. ovog članka, naknada za razvoj mreže odvodnje ne obračunava se za Grad Samobor.
+Naknada za razvoj sastoji se od zajedničkog dijela naknade za razvoj i posebnog dijela naknade za razvoj.
+Zajednički dio naknade za razvoj plaćaju svi obveznici naknade za razvoj na cijelom uslužnom području, a prihodi od nje se koriste za dijelove sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe korisnicima vodnih usluga na cijelom uslužnom području ili njegovom pretežitom dijelu ili se koriste za dijelove sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe isključivo korisnicima vodnih usluga na području određene jedinice lokalne samouprave, ako se s njezina područja ne mogu osigurati dostatni prihodi za te namjene.
+Prihod od zajedničkog dijela naknade za razvoj koristi se sukladno planu gradnje KVG-a prema načelu prvenstva i načelu solidarnosti.
+Posebni dio naknade za razvoj plaća se na području određene jedinice lokalne samouprave, a prihodi od nje koriste se za razvoj dijelova sustava javne vodoopskrbe i/ili sustava javne odvodnje koji služe isključivo korisnicima vodnih usluga na području te jedinice lokalne samouprave. Posebni dio naknade za razvoj određuje se prema kategoriji korisnika vodne usluge javne vodoopskrbe i javne odvodnje, po količini isporučene vodne usluge javne vodoopskrbe, odnosno javne odvodnje.
