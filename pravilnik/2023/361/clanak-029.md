@@ -1,0 +1,7 @@
+# Članak 29.
+(1) Otpis muzejskih predmeta i dijela dokumentacije je postupak njihova trajnog izdvajanja iz muzejskog fundusa, u skladu s izjavom o politici skupljanja.
+(2) Postupak otpisa provodi se nakon provedene revizije na prijedlog stručnog povjerenstva za reviziju i kustosa zbirke.
+(3) Prijedlog sadržava stručno obrazloženje razloga otpisa, ispise predmetnih kartica iz inventarne knjige muzejskih predmeta i način daljnjeg postupanja s otpisanom muzejskom građom.
+(4) Upravno vijeće ili ravnatelj muzeja ako nije osnovano upravno vijeće, odnosno drugo nadležno tijelo za muzej u sastavu, donosi odluku o otpisu, razlozima otpisa i načinu daljnjeg postupanja s otpisanom muzejskom građom uz prethodno pribavljeno mišljenje stručnog vijeća, ako je ono osnovano, Hrvatskog muzejskog vijeća te uz pribavljenu prethodnu suglasnost ministarstva nadležnog za kulturu.
+(5) Kada jedan javni muzej trajno predaje muzejske predmete pravnim poslom drugom javnom muzeju, podatci o tim muzejskim predmetima moraju se upisati u inventarnu knjigu muzejskih predmeta muzeja kojem su predani.
+(6) U slučaju trajne predaje pravnim poslom muzejskog predmeta javnog muzeja pravnoj osobi koja nije javni muzej, javni je muzej obvezan prethodno predložiti utvrđivanje svojstva kulturnog dobra te upis u Registar kulturnih dobara Republike Hrvatske sukladno zakonu kojim se uređuje zaštita i očuvanje kulturnih dobara.
