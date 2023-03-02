@@ -1,0 +1,16 @@
+# Članak 20.
+(1) Zahtjev za isplatu za intervenciju iz članka 19. ovoga Pravilnika podnosi se Agenciji za plaćanja za:
+a) podintervenciju iz članka 19. stavka 1. točke a) ovoga Pravilnika na Obrascu IV dio A »Racionalizacija selećeg pčelarenja - nabava nove oprema« do 15. svibnja za 2023. godinu, a za ostale godine provedbe intervencije do 20. travnja tekuće intervencijske godine i
+b) podintervenciju iz članka 19. stavka 1. točke b) ovoga Pravilnika na Obrascu IV dio B »Provedba organizacije selećeg pčelarenja« do 31. srpnja tekuće intervencijske godine.
+(2) Uz zahtjev iz stavka 1. točke a) ovoga članka prilažu se preslike originala računa i dokazi u skladu s člankom 5. stavkom 10. te dokazima iz članka 5. stavaka 5. i 6. ovoga Pravilnika.
+(3) Uz zahtjev iz stavka 1. točke b) ovoga članka prilažu se:
+- preslika originala ugovora o djelu između HPS-a i izvršitelja zadataka po ugovoru o djelu sa specificiranim prikazima troškova sata rada, sklopljenog i plaćenog za 2023. godinu od 1. siječnja tekuće intervencijske godine do trenutka podnošenja zahtjeva za isplatu, a za ostale intervencijske godine od 1. kolovoza tekuće intervencijske godine do trenutka podnošenja zahtjeva za isplatu za provedbu intervencije u kojem je naveden bruto iznos isplate po 1 satu rada čiji iznos ne može biti veći od sličnih poslova u javnim službama,
+- preslika plaćenog putnog naloga (obračun dnevnica, obračun prijevoznih troškova, obračun troškova smještaja) u razdoblju tekuće intervencijske godine do trenutka podnošenja zahtjeva
+- potpisan i ovjeren obrazac od strane HPS-a o izvršenju poslova definiranih Ugovorom o djelu (izvješće s popisom pčelara i broja zajednica za koje je provedena organizacija smještaja selećih pčelinjaka)
+- evidencija radnog vremena (sati rada na provedbi intervencije prema vremeniku) s navedenim opisom poslova za Povjerenika i stalno zaposleno osoblje HPS-a utrošenog u provedbi podintervencije iz članka 19. stavka 1. točke b) ovoga Pravilnika, koju vodi i ovjerava HPS
+- obračun primitka dohotka Povjerenika za provedbu intervencije u razdoblju tekuće intervencijske godine do trenutka podnošenja zahtjeva
+- godišnji bruto iznos troškova plaća za stalno zaposleno osoblja HPS-a (obračunske liste plaća za punih 12 mjeseci koji prethode podnošenju zahtjeva) i
+- preslike originala računa u skladu s člankom 5. stavkom 10. te dokazima iz članka 5. stavaka 5. i 6. ovoga Pravilnika za administrativne troškove nastale korisniku tijekom provedbe podintervencije (uredski materijal, troškovi usluga računovodstva…), a u skladu s člankom 23. stavkom 2. Delegirane uredbe (EU) 2021/126).
+(4) Zahtjev iz stavka 1. točke a) ovoga članka može se podnijeti isključivo za nabavu nove opreme, uključujući i onu kupljenu u trećim zemljama. EU sukladnost odnosno CE oznaka je obvezna za proizvode za koje postoje specifikacije EU-a u skladu s kojima je obvezno stavljanje oznake CE.
+(5) Popis opreme za intervenciju iz članka 19. stavka 1. točke a) ovoga Pravilnika za koju je moguće podnijeti zahtjev za isplatu nalazi se u Prilogu II. i sastavni je dio ovoga Pravilnika.
+5. Podrška laboratorijima za analizu pčelarskih proizvoda, gubitaka pčela ili pada produktivnosti i tvari potencijalno toksičnih za pčele

@@ -1,0 +1,3 @@
+# Članak 9.
+(1) HPS je dužan u roku od sedam dana od dana stupanja na snagu ovoga Pravilnika za intervencijsku godinu 2023. dostaviti Agenciji za plaćanja u elektronskom obliku podatke iz Evidencije, za pčelare čiji je broj košnica ažuriran u skladu s člankom 37. Delegirane uredbe (EU) 2021/126., a za ostale intervencijske godine do 31. siječnja tekuće intervencijske godine.
+(2) Ministarstvo poljoprivrede je za potrebe ovoga Pravilnika dužno do 31. siječnja tekuće intervencijske godine Agenciji za plaćanja dostaviti u elektronskom obliku podatke o godišnjoj dojavi o proizvodnji iz Priloga III. ovoga Pravilnika. Dostava započinje za intervencijsku godinu 2024.

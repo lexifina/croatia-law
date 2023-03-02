@@ -1,0 +1,11 @@
+# Članak 24.
+(1) Zahtjev za isplatu za intervenciju iz članka 23. ovoga Pravilnika podnosi se Agenciji za plaćanja na Obrascu VI »Očuvanje ili povećanje postojećeg broja košnica, uključujući uzgoj pčela« do 31. srpnja tekuće intervencijske godine.
+(2) Uz zahtjev iz stavka 1. ovoga članka prilažu se:
+a) za podintervenciju iz članka 23. stavka 1. točke a) ovog Pravilnika:
+- preslika originala računa i dokazi u skladu s člankom 5. stavkom 10. te dokazima iz članka 5. stavaka 5. i 6. ovoga Pravilnika ili u slučaju da korisnik nije u sustavu poreza na dohodak preslike otkupnih blokova. Otkupni blokovi i računi moraju biti na ime, prezime i OIB korisnika, ovjereni pečatom i potpisom prodavatelja te potpisom i OIB-om kupca, izdani i plaćeni do trenutka podnošenja zahtjeva tekuće intervencijske godine te moraju sadržavati podatke o broju prodanih selekcioniranih matica pčela. Računi prodavatelja izdani i poslani u elektroničkom obliku prihvatljivi su isključivo pod uvjetom da kupac svojim potpisom iskaže suglasnost za prihvat takvog računa. Na računima koji su plaćeni gotovinski kao dokaz preuzimanja mora biti potpis kupca. U slučaju slanja matica poštom, a za koje su računi plaćeni transakcijski potrebno je dostaviti dokaz preuzimanja pošiljke od strane kupca (preslik povratnice ili drugi pravovaljan dokaz o preuzimanju pošiljke). U slučaju slanja matica poštom, a koje su plaćene otkupninom, potrebno je priložiti originalnu poštansku potvrdu kao dokaz preuzimanja/plaćanja
+- preslika važeće licence za tekuću intervencijsku godinu
+- uzgojna knjiga potpisanu od strane uzgajivača i
+- potvrda priznatog uzgojnog udruženja koje vodi matične knjige za uzgojno valjane životinje (siva pčela) o broju proizvedenih matica te da uzgajivač ispunjava sve uvjete propisane odobrenim Uzgojnim programom.
+b) za podintervenciju iz članka 23. stavka 1. točke b) ovoga Pravilnika:
+- preslika originala računa izdanog i plaćenog do trenutka podnošenja zahtjeva za tekuću intervencijsku godinu iz kojeg je vidljiv broj ispitanih uzoraka s analiziranim parametrima, preslik rezultata analize te dokazi u skladu s člankom 5. stavkom 10. te dokazi iz članka 5. stavaka 5. i 6. ovoga Pravilnika.
+7. Suradnja sa specijaliziranim tijelima za provedbu istraživačkih programa u području pčelarstva i pčelarskih proizvoda
