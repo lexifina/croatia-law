@@ -1,0 +1,1 @@
+Na temelju odredbi članka 35. stavaka 6. i 8. i članka 40. stavka 4. Zakona o leasingu (»Narodne novine«, br. 141/2013), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 16. veljače 2023. donosi
