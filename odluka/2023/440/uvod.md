@@ -1,0 +1,1 @@
+Na temelju članka 81. Ustava Republike Hrvatske i članka 7. Zakona o Državnom izbornom povjerenstvu Republike Hrvatske (»Narodne novine«, br. 44/06. i 19/07.) Hrvatski sabor na sjednici 3. ožujka 2023. donio je
