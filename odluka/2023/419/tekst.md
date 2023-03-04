@@ -1,0 +1,7 @@
+SISAČKO-MOSLAVAČKE ŽUPANIJE I KARLOVAČKE ŽUPANIJE
+I.
+Suvlasnici višestambenih i stambeno-poslovnih zgrada na području jedinica lokalne samouprave na čijim je područjima proglašena katastrofa, a čije su nekretnine stradale u potresima na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije 22. ožujka 2020. te 28. i 29. prosinca 2020., koje su na dan stupanja na snagu ove Odluke označene kao PN1 (privremeno neuporabljivo - potreban detaljan pregled) i PN2 (privremeno neuporabljivo - potrebne hitne mjere intervencije), N1 (neuporabljivo - zbog vanjskog utjecaja) i N2 (neuporabljivo - zbog oštećenja) te stoga nisu prikladne za stanovanje i samostalno izvršavanje suvlasnikovih vlasničkih ovlasti, oslobađaju se obveze plaćanja zajedničke pričuve, dok se nekretnina ne obnovi odnosno ne bude prikladna za samostalno izvršavanje suvlasnikovih ovlasti.
+II.
+Oslobođenje iz točke I. ove Odluke ne odnosi se na suvlasnike zgrada koji sami natpolovičnom većinom suvlasničkih dijelova odluče da žele nastaviti plaćanje zajedničke pričuve te na suvlasnike zgrada koji su na teret pričuve preuzeli kreditne ili neke druge obveze koje na naplatu dospijevaju periodično, osim naknada upravitelju zgrade, predstavniku suvlasnika i drugih naknada koje proizlaze iz upravljanja i održavanja zgrade, koje se zbog neupotrebljivosti zgrade ne izvršava.
+III.
+Ova Odluka stupa na snagu prvoga dana od objave u »Narodnim novinama«.
