@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Za izradu Vatrogasnog plana Republike Hrvatske (u daljnjem tekstu: Vatrogasni plan) glavni vatrogasni zapovjednik imenuje povjerenstvo koje ima minimalno pet članova, a voditelj povjerenstva je zamjenik ili jedan od pomoćnika glavnog vatrogasnog zapovjednika te određuje rok za izradu prijedloga Vatrogasno plana.
+(2) Članovi povjerenstva iz stavka 1. ovog članka u pravilu su državni službenici raspoređeni na radna mjesta pomoćnika glavnog vatrogasnog zapovjednika za zračne snage, logistiku, operativu, priobalje i kontinent.
+(3) Zamjenik voditelja povjerenstva iz stavka 1. ovog članka je pomoćnik glavnog vatrogasnog zapovjednika za operativu.
+(4) Glavni vatrogasni zapovjednik, odlukom o imenovanju povjerenstva iz stavka 1. ovog članka može u povjerenstvo imenovati i druge stručne osobe koje raspolažu potrebnim znanjem za izradu Vatrogasnog plana te tehničku i administrativnu osobu iz djelatnika Hrvatske vatrogasne zajednice za obavljanje tehničkih (grafičkih i/ili računalnih) i administrativnih poslova u vezi izrade Vatrogasnog plana.
+(5) Stručne osobe iz stavka 4. ovog članka koje nisu profesionalno zaposlene u sustavu vatrogastva imaju pravo na naknadu troškova angažmana u povjerenstvu koje se utvrđuje odlukom o imenovanju.

@@ -1,0 +1,8 @@
+# Članak 8.
+(1) Nakon izrađene konačne verzije Županijskog vatrogasnog plana isti se dostavlja županijskom vatrogasnom zapovjedniku koji ga prihvaća ili odbija s konkretnim primjedbama i prijedlozima te rokom u kome se isti mora doraditi koji ne može biti duži od dva tjedna.
+(2) U slučaju odbijanja izrađene konačne verzije Županijskog vatrogasnog plana isti se dostavlja povjerenstvu iz članka 6. ovog Pravilnika koje sukladno odredbama ovog Pravilnika izrađuje novu verzije Županijskog vatrogasnog plana, kojeg nakon toga ponovo dostavlja županijskom vatrogasnom zapovjedniku na prihvaćanje.
+(3) Kada županijski vatrogasni zapovjednik usvoji konačnu verziju Županijskog vatrogasnog plana isti dostavlja na suglasnost glavnom vatrogasnom zapovjedniku.
+(4) Ako je Županijski vatrogasni plan izrađen sukladno ovom Pravilniku i Vatrogasnom planu Republike Hrvatske glavni vatrogasni zapovjednik izdaje suglasnost, a ukoliko utvrdi nepravilnosti ili nedostatke u dostavljenom Županijskom vatrogasnom planu isti dostavlja županijskom vatrogasnom zapovjedniku s konkretnim primjedbama i prijedlozima koji se trebaju otkloniti te rokom u kome se isti mora doraditi koji ne može biti duži od dva tjedna.
+(5) U slučaju iz stavka 4. ovog članka županijski vatrogasni zapovjednik postupa prema stavku 2. ovog članka te se cijeli postupak ponavlja prema odredbama ovog Pravilnika.
+(6) Nakon izdane suglasnosti glavnog vatrogasnog zapovjednika na dostavljeni Županijski vatrogasni plan županijski vatrogasni zapovjednik isti dostavlja predstavničkom tijelu županije odnosno Grada Zagreba na donošenje.
+c) Metodologija izrade vatrogasnog plana općine, grada ili područja
