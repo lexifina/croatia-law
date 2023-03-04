@@ -1,0 +1,1 @@
+Odluka o određivanju tijela koje utvrđuje najviše cijene usluga, radova i građevnih proizvoda koje se mogu prihvatiti za isplatu novčanih pomoći prema Zakonu o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije
