@@ -1,0 +1,3 @@
+# Članak 57.
+(1) Ugovor o radu na određeno vrijeme umjetnici Ansambla Lado zaposleni u izvođačkom dijelu ansambla sklapaju u pravilu za razdoblje od najduže četiri godine, a iznimno prema potrebi projekta ili programa i na kraće razdoblje, s obveznim probnim radom u trajanju od šest mjeseci.
+(2) Umjetnicima Ansambla Lado zaposlenima u izvođačkom dijelu ansambla nakon četverogodišnjeg ugovora o radu na određeno vrijeme ili četverogodišnjeg trajanja radnog odnosa na temelju više ugovora o radu kraćih od četiri godine, ravnatelj je dužan ponuditi ugovor o radu na neodređeno vrijeme, ako postoji potreba za obavljanje poslova toga radnog mjesta, a umjetnici redovito uspješno djeluju u Ansamblu Lado u provedbi predviđenog repertoarnog plana.

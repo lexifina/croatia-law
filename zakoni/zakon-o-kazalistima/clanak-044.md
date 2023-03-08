@@ -1,0 +1,2 @@
+# Članak 44.
+Na baletne i plesne kazališne umjetnike zaposlene u izvođačkom dijelu ansambla koji nakon 20 godina kontinuiranog umjetničkog rada u kazalištu ili kazališnoj družini te ostvarenih 30 godina mirovinskog staža, uključujući staž osiguranja s povećanim trajanjem s poslodavcem sklope dodatak ugovoru o radu da im radni odnos u kazalištu prestaje danom stjecanja uvjeta za starosnu mirovinu prema članku 43. stavku 2. ovoga Zakona ne primjenjuju se odredbe članka 37. stavka 1. ovoga Zakona.

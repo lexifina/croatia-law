@@ -1,0 +1,3 @@
+# Članak 22.
+(1) Intendant odnosno ravnatelj javnog kazališta i javne kazališne družine za vrijeme trajanja mandata može umjetnički djelovati i obavljati umjetničke poslove izvan kazališta odnosno kazališne družine jedino uz prethodnu suglasnost kazališnog vijeća, koja mora u svakom pojedinom slučaju sadržavati uvjete za obavljanje takvih poslova.
+(2) Zamjenik intendanta odnosno zamjenik ravnatelja javnog kazališta i javne kazališne družine može umjetnički djelovati i obavljati umjetničke poslove izvan kazališta odnosno kazališne družine jedino uz prethodnu suglasnost intendanta odnosno ravnatelja javnog kazališta i javne kazališne družine, koja mora u svakom pojedinom slučaju sadržavati uvjete za obavljanje takvih poslova.

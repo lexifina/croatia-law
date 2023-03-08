@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Ugovor o radu na određeno vrijeme kazališni umjetnici u javnim kazalištima i javnim kazališnim družinama sklapaju u pravilu na četiri godine, a iznimno prema potrebi projekta ili programa i na kraće razdoblje, s obveznim probnim radom u trajanju od šest mjeseci.
+(2) Kazališnim umjetnicima nakon četverogodišnjeg ugovora o radu na određeno vrijeme ili četverogodišnjeg trajanja radnog odnosa na temelju više ugovora o radu kraćih od četiri godine, intendant odnosno ravnatelj dužan je ponuditi ugovor o radu na neodređeno vrijeme, ako postoji potreba za obavljanjem poslova toga radnog mjesta, a kazališni umjetnici redovito uspješno djeluju u javnom kazalištu ili javnoj kazališnoj družini u provedbi predviđenog repertoarnog plana.

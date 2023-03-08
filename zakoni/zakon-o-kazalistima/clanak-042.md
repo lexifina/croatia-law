@@ -1,0 +1,2 @@
+# Članak 42.
+Ako se baletni i plesni kazališni umjetnik za kojeg je utvrđeno da nije sposoban umjetnički djelovati i doprinositi izjasni o odbijanju ponude za sklapanje ugovora o radu za obavljanje poslova nekog drugog radnog mjesta odnosno odbije sklopiti ugovor o radu kojim se upućuje na prekvalifikaciju, intendant odnosno ravnatelj otkazat će mu ugovor o radu i ostvaruje pravo na otpremninu sukladno općem propisu o radu odnosno kolektivnom ugovoru.

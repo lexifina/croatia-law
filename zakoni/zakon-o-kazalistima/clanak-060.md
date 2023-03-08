@@ -1,0 +1,5 @@
+# Članak 60.
+(1) Za umjetnike Ansambla Lado zaposlene u izvođačkom dijelu ansambla koji s Ansamblom Lado imaju sklopljen ugovor o radu na neodređeno vrijeme, obvezno se svake četiri godine provodi revizija kako bi se utvrdilo jesu li i dalje sposobni umjetnički djelovati i doprinositi.
+(2) Iznimno od stavka 1. ovoga članka, umjetnici Ansambla Lado zaposleni u izvođačkom dijelu ansambla koji djeluju u ansamblu i redovito sudjeluju u provedbi predviđenog repertoarnog plana sukladno ugovoru o radu ne podliježu reviziji umjetničkog djelovanja i doprinosa.
+(3) Ako stručno tijelo iz članka 59. ovoga Zakona utvrdi da plesač – pjevač Ansambla Lado zaposlen u izvođačkom dijelu ansambla nije sposoban umjetnički djelovati i doprinositi, ravnatelj Ansambla Lado dužan je postupiti sukladno članku 39. stavcima 1. i 3. ovoga Zakona.
+(4) Ako stručno tijelo iz članka 59. ovoga Zakona utvrdi da glazbenik Ansambla Lado zaposlen u izvođačkom dijelu ansambla nije sposoban umjetnički djelovati i doprinositi, ravnatelj Ansambla Lado dužan je postupiti sukladno članku 39. stavcima 1. i 2. ovoga Zakona.

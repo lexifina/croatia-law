@@ -1,0 +1,4 @@
+# Članak 32.
+(1) Sredstva za rad kazališta i kazališne družine mogu se osiguravati i iz proračuna Republike Hrvatske te proračuna jedinica lokalne i područne (regionalne) samouprave, u dijelu u kojem program utvrde kao javnu potrebu.
+(2) Sredstva za rad kazališta i kazališne družine osiguravaju se i iz vlastitih prihoda ostvarenih obavljanjem osnovne djelatnosti i ostalih djelatnosti za koje su registrirani, sponzorstvima, darovanjima i na druge načine u skladu sa zakonima.
+(3) Sredstva za posebne programe koji uključuju festivale, konferencije, međunarodna gostovanja i druge kulturne događaje osigurava osnivač, a ovisno o svome interesu i tijela državne uprave u čijem je djelokrugu program koji se ostvaruje, kao i jedinice lokalne i područne (regionalne) samouprave na području kojih se program ostvaruje te druge pravne i fizičke osobe.
