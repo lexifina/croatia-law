@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Javni natječaj za zakup zajedničkih pašnjaka raspisuje se za zajednički pašnjak koji je obuhvaćen Programom raspolaganja poljoprivrednim zemljištem u vlasništvu države (u daljnjem tekstu: Program) i Programom je predviđen za zakup zajedničkih pašnjaka.
+(2) Ako se zajednički pašnjak sastoji od dijela/dijelova katastarske čestice poljoprivrednog zemljišta, prije raspisivanja natječaja mora se provesti parcelacija ili izraditi geodetska skica/podloga.
+(3) Jedinice lokalne samouprave odnosno grad Zagreb prije raspisivanja natječaja za zakup zajedničkih pašnjaka moraju za svaki zajednički pašnjak ishoditi Jedinstveni identifikacijski broj gospodarstva, kako bi se premještanje stoke posjednika uredno registriralo prilikom premještanja stoke na zajednički pašnjak u proljeće i sa zajedničkog pašnjaka u jesen.

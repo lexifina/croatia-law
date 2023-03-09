@@ -1,0 +1,8 @@
+# Članak 8.
+(1) Korisnicima zajedničkog pašnjaka dopušteno je povećanje broja uvjetnih grla nakon sklapanja ugovora ako ne prelazi maksimum utvrđen sukladno članku 3. stavku 2. ovog Pravilnika.
+(2) Ako korisnik zajedničkog pašnjaka odustane od površina koje je dobio u zakup, ta površina može se dati razmjerno korisnicima zajedničkog pašnjaka koji su povećali broj grla stoke u odnosu na broj grla stoke koji imaju navedeno u ugovoru do utvrđenog maksimalnog broja uvjetnih grla stoke i peradi.
+(3) Aneks ugovora za slučajeve iz stavka 1. i 2. ovoga članka sklapa jedinica lokalne samouprave odnosno Grad Zagreb.
+(4) Obvezni sadržaj sporazuma o korištenju zajedničkog pašnjaka, koji su zakupnici zajedničkog pašnjaka dužni potpisati, objavljuje se u javnom natječaju prema tekstu koji se nalazi u Prilogu 1, koji je tiskan uz ovaj Pravilnik i njegov je sastavni dio.
+(5) Ako pojedini zakupnik zajedničkog pašnjaka ne prihvati i/ili ne potpiše sporazum iz stavka 4. ovoga članka, ugovor s njim se raskida i gubi pravo na korištenje zajedničkog pašnjaka.
+(6) Sklopljeni sporazum te godišnje izvješće o njegovoj provedbi dostavljaju se jedinici lokalne samouprave, odnosno Gradu Zagrebu na čijem se području zemljište nalazi, Ministarstvu poljoprivrede i javnoj ustanovi koja upravlja zaštićenim područjem ili područjem ekološke mreže na kojoj se pašnjak nalazi do 31. ožujka tekuće godine za prethodnu godinu.
+(7) Uz godišnje izvješće iz stavka 6. ovog članka dostavlja se izvod iz Jedinstvenog registra domaćih životinja a o broju uvjetnih grla koja su boravila na tom pašnjaku za svakog zakupnika zajedničkog pašnjaka za godinu za koju se izvješće dostavlja.
