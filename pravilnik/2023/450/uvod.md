@@ -1,0 +1,1 @@
+Na temelju članka 239. stavka 5. Zakona o trgovačkim društvima (»Narodne novine«, broj 111/93., 34/99., 121/99. - vjerodostojno tumačenje, 52/00. - Odluka Ustavnog suda Republike Hrvatske, 118/03., 107/07., 146/08., 137/09., 125/11., 152/11. - pročišćeni tekst, 111/12., 68/13., 110/15., 40/19., 34/22., 114/22. i 18/23.) ministar nadležan za poslove pravosuđa donosi

@@ -1,0 +1,4 @@
+## Prijelazne odredbe
+# Članak 7.
+Dok se ne uspostavi sustav evidencije iz članka 4. ovoga Pravilnika sudovima i javnim bilježnicima za potrebe upisa u sudski registar osigurava se neposredan pristup podacima iz kaznene evidencije o pravomoćno osuđenim osobama za kaznena djela iz članka 239. stavka 2. točke 1. Zakona o trgovačkim društvima i osobama kojima je izrečena sigurnosna mjera iz članka 239. stavka 2. točke 3. Zakona o trgovačkim društvima.
+Dok se ne uspostavi sustav evidencije iz članka 4. ovoga Pravilnika sudovi i javni bilježnici će za potrebe upisa u sudski registar podatke o osobama kojima su uvedene međunarodne mjere ograničavanja raspolaganja imovinom pribavljati izravno iz zbirke podataka o provedenim mjerama ograničavanja nad fizičkim i pravnim osobama i drugim subjektima na koje se mjere ograničavanja odnose, a koju vodi Ministarstvo vanjskih i europskih poslova.
