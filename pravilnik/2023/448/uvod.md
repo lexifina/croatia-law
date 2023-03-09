@@ -1,0 +1,1 @@
+Na temelju članka 35.m stavka 9. i 35.o stavka 6. Zakona o administrativnoj suradnji u području poreza (»Narodne novine«, br. 115/16., 130/17., 106/18., 121/19. i 151/22.) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19.) ministar financija, uz prethodnu suglasnost ministra vanjskih i europskih poslova donosi
