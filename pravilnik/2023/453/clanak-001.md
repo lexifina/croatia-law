@@ -1,0 +1,8 @@
+# Članak 1.
+(1) Ovim se Pravilnikom određuju područja s prirodnim i ostalim ograničenjima u skladu s člankom 71. Uredbe (EU) 2021/2115 Europskog parlamenta i Vijeća od 2. prosinca 2021. o utvrđivanju pravila o potpori za strateške planove koje izrađuju države članice u okviru zajedničke poljoprivredne politike (strateški planovi u okviru ZPP-a) i koji se financiraju iz Europskog fonda za jamstva u poljoprivredi (EFJP) i Europskog poljoprivrednog fonda za ruralni razvoj (EPFRR) te o stavljanju izvan snage Uredbe (EU) br. 1305/2013 i Uredbe (EU) br. 1307/2013 (dalje u tekstu: Uredba (EU) br. 2021/2115).
+(2) Status pripadnosti područjima s prirodnim i ostalim ograničenjima utvrđen je na razini jedinica lokalne samouprave (dalje u tekstu: JLS) temeljem »Studije određivanje područja sa prirodnim ograničenjima ili ostalim posebnim ograničenjima s kalkulacijama uz utvrđivanje vrijednosti kontekst indikatora broj 41, »Organska tvar u tlu« i broj 42, »Erozija tla vodom« za programsko razdoblje 2021. - 2027.« za potrebe provedbe intervencija Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. godina.
+(3) Iznimno, za područje JLS naziva Split (OG_MB - 04090) iz statusa pripadnosti područjima s prirodnim i ostalim ograničenjima izdvaja se urbano područje grada, u skladu s obuhvatom naselja iz Registra prostornih jedinica (Split - NAS_MB= 059200).
+(4) Područja s prirodnim i ostalim ograničenjima razvrstavaju se na sljedeće kategorije:
+a) gorsko planinska područja - GPP
+b) područja sa značajnim prirodnim ograničenjima - ZPO
+c) područja s posebnim ograničenjima - PPO.
