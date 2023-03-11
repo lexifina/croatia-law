@@ -1,0 +1,4 @@
+# Članak 17.
+(1) U registar se unose podaci o neto proizvedenoj električnoj energiji, neto proizvedenoj toplinskoj energiji i neto proizvedenom plinu za proizvodno postrojenje, odnosno za proizvodnu jedinicu, izmjereni na obračunskim mjernim mjestima proizvodnog postrojenja, odnosno proizvodne jedinice.
+(2) Svako obračunsko mjerno mjesto proizvodnog postrojenja, odnosno proizvodne jedinice mora imati jedinstvenu oznaku, a u skladu s mrežnim pravilima operatora sustava iz članka 15. stavaka 1. i 2 ove Uredbe, odnosno distributera toplinske energije iz članka 15. stavka 3. ove Uredbe.
+(3) Operatori sustava iz članka 15. stavaka 1. i 2. ove Uredbe, odnosno distributer toplinske energije iz članka 15. stavka 3. ove Uredbe, dužni su tijelu nadležnom za izdavanje jamstva podrijetla energije dostaviti oznaku obračunskog mjernog mjesta prilikom dodjele ili promjene oznake proizvodnog postrojenja, odnosno proizvodne jedinice koje je registrirano u registru.
