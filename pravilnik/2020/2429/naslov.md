@@ -1,1 +1,0 @@
-Pravilnik o sadržaju i tehničkim elementima projektne dokumentacije obnove, projekta za uklanjanje zgrade i projekta za građenje zamjenske obiteljske kuće oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije

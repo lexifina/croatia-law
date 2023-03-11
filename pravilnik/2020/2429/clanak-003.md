@@ -1,6 +1,0 @@
-# Članak 3.
-(1) Ovisno o vrsti zgrade, s obzirom na zadaće struka propisane posebnim zakonom, tehnička rješenja mogu biti sadržana u mapama, a mape su: arhitektonski, građevinski, elektrotehnički i strojarski projekt obnove konstrukcije zgrade odnosno projekt obnove zgrade za cjelovitu obnovu zgrade (u daljnjem tekstu: odgovarajuće mape pojedinih struka projekta).
-(2) Pojedinačna tehnička rješenja odgovarajućih mapa pojedinih struka projekta mogu biti izrađena u jednoj ili više mapa.
-(3) Pojedinačna tehnička rješenja kojima se osigurava usklađenost zgrade s propisima te kojima se osigurava da zgrada ispunjava propisane zahtjeve moraju biti međusobno usklađena i uključena u cjelokupno tehničko rješenje zgrade, a ista se obvezno prikazuju kao sastavni dijelovi odgovarajućih mapa pojedinih struka projekta.
-(4) Sve odgovarajuće mape pojedinih struka projekta koje čine projektnu dokumentaciju obnove moraju biti međusobno usklađene i tako usklađene moraju prikazivati cjelovitu građevinu u tehničko-tehnološkom i funkcionalnom smislu.
-(5) Elaborat ocjene postojećeg stanja građevinske konstrukcije izrađuje se radi donošenja odluke o potrebnim konstrukcijskim zahvatima i radovima obnove zgrade te služi kao podloga za izradu projekta obnove konstrukcije zgrade, projekta obnove zgrade za cjelovitu obnovu zgrade odnosno projekta uklanjanja zgrade.

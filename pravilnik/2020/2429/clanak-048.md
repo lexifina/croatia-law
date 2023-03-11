@@ -1,3 +1,0 @@
-## VII. PRIJELAZNE I ZAVRŠNE ODREDBE
-# Članak 48.
-Glavni projekt za rekonstrukciju zgrade oštećene u potresu 22. ožujka 2020. godine čija je izrada započeta do stupanja na snagu Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije (»Narodne novine«, broj 102/20) smatra se odgovarajućim projektom na temelju kojeg se može donijeti izvješće o kontroli projekta, suglasnost osobe koja provodi tehničko-financijsku kontrolu projekta, odluka o obnovi, odluka o uklanjanju odnosno odluka o novčanoj pomoći za obnovu, ako je zahtjev za donošenjem izvješća, suglasnosti odnosno odluke zajedno s glavnim projektom podnesen u roku od šest mjeseca od dana stupanja na snagu ovoga Pravilnika.
