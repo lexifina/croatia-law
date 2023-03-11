@@ -1,3 +1,0 @@
-# Članak 51.
-Odjel za praćenje stanja i izradu interventnih planova obavlja poslove u vezi s praćenjem stanja i pojava koje mogu dovesti do elementarnih nepogoda i drugih izvanrednih situacija, izrađuje interne evidencije, analize i interventne planove s ciljem utvrđivanja činjeničnog stanja i prikupljanja podataka, a u svrhu izvršenja operativnih aktivnosti unutar Službe i prilikom postupanja u izvanrednim situacijama, surađuje s drugim državnim tijelima, tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave i drugim pravnim osobama na pitanjima iz djelokruga Službe, pruža stručnu pomoć te obavlja i druge poslove iz svoga djelokruga.
-4.3.4. Služba za koordinaciju, analize i izvještavanje

@@ -1,8 +1,0 @@
-# Članak 55.
-Sektor za provedbu mjera ublažavanja posljedica elementarnih nepogoda priprema, evidentira i obrađuje pristigle zahtjeve za ublažavanje posljedica elementarnih nepogoda; donosi odluke temeljem pristiglih zahtjeva; donosi odluke o mjerama ublažavanja, o isplati novčane pomoći u skladu s propisima koji uređuju pitanja ublažavanja posljedica elementarnih nepogoda; prati utrošak financijskih sredstava i izvršenje ugovorenih rokova; prati provedbu mjera za ublažavanje posljedica elementarnih nepogoda; zastupa Ministarstvo u upravnim sporovima iz djelokruga Sektora, u ime Ministarstva sudjeluje u postupcima koje vodi državno odvjetništvo u postupcima mirnog rješenja spora, naknade štete te arbitražnim postupcima iz djelokruga rada Sektora; dodjeljuje državne potpore na temelju Programa dodjele državnih potpora za nadoknadu štete prouzročene potresom i prati provedbu korištenja dodijeljenih državnih potpora; sudjeluje u izradi prijedloga programa državnih potpora; vodi evidenciju dodijeljenih državnih potpora; dostavlja podatke o dodijeljenim državnim potporama nadležnim tijelima te obavlja i druge poslove iz svoga djelokruga.
-U Sektoru za provedbu mjera ublažavanja posljedica elementarnih nepogoda ustrojavaju se:
-4.4.1. Služba za provedbu mjera obnove oštećenih, uklanjanje uništenih i gradnju zamjenskih obiteljskih kuća
-4.4.2. Služba za provedbu mjera obnove višestambenih, stambeno-poslovnih i poslovnih zgrada
-4.4.3. Služba za dodjelu novčane pomoći
-4.4.4. Služba za zastupanje i državne potpore.
-4.4.1. Služba za provedbu mjera obnove oštećenih, uklanjanje uništenih i gradnju zamjenskih obiteljskih kuća

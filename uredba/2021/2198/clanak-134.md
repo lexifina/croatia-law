@@ -1,7 +1,0 @@
-# Članak 134.
-U Sektoru za dokumente prostornog uređenja državne razine obavljaju se poslovi i zadaće pripreme, analitike, poslovi izrade, koordinacije izrade i praćenja provedbe prostornih planova državne razine i drugih dokumenata od važnosti za prostorno uređenje i zaštitu prostora Republike Hrvatske; stručni poslovi za određivanje sadržaja i metodologije prostornog planiranja u izradi prostornih planova; suradnja s osobama, međunarodnim tijelima, institucijama i udrugama na izradi i provedbi projekata i programa iz područja prostornog uređenja; sudjelovanje u izradi sektorskih strategija, planova, studija i drugih dokumenata državne razine propisanih posebnim zakonima; praćenje EU stečevine i sudjelovanje u radu tijela Europske unije i međunarodnih tijela pri izradi regulative i programa iz područja prostornog uređenja vezano za prostorno planiranje morskog područja te drugi poslovi iz djelokruga Zavoda.
-U Sektoru za dokumente prostornog uređenja državne razine ustrojavaju se:
-8.1.1. Služba za Strategiju prostornog razvoja Republike Hrvatske i druge dokumente prostornog uređenja državne razine
-8.1.2. Služba za prostorne planove područja posebnih obilježja državne razine
-8.1.3. Služba za urbanističke planove uređenja državnog značaja.
-8.1.1. Služba za Strategiju prostornog razvoja Republike Hrvatske i druge dokumente prostornog uređenja državne razine

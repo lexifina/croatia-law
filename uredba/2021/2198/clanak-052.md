@@ -1,6 +1,0 @@
-# Članak 52.
-Služba za koordinaciju, analize i izvještavanje obavlja poslove u vezi priprema informacija za javnost u situacijama uzrokovanim elementarnim nepogodama i drugim izvanrednim situacijama; koordinira rad vanjskih info ureda Ministarstva vezano na pitanja iz djelokruga Sektora; informira o aktivnostima Ministarstva koje se odnose na pitanja iz djelokruga Sektora putem službenih kanala Ministarstva za pitanja vezana uz djelokrug rada Sektora; obavlja izravnu komunikaciju s građanima u cilju afirmiranja otvorenosti i dostupnosti informacija građanima; sudjeluje u pripremi odgovora na pitanja novinara iz svoga djelokruga; priprema odgovore iz djelokruga Sektora za potrebe ministra, državnih tajnika i rukovoditelja; vodi dokumentaciju koja se odnosi na vanjsku komunikaciju Sektora; surađuje s tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave i drugim pravnim osobama na pitanjima iz djelokruga rada Sektora; pruža stručnu pomoć te obavlja i druge poslove iz svoga djelokruga.
-U Službi za koordinaciju, analize i izvještavanje ustrojavaju se:
-4.3.4.1. Odjel za analize i izvještavanje
-4.3.4.2. Odjel za koordinaciju aktivnosti.
-4.3.4.1. Odjel za analize i izvještavanje

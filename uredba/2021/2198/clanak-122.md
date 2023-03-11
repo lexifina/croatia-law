@@ -1,3 +1,0 @@
-# Članak 122.
-Odjel za zastupanje obavlja poslove zastupanja Ministarstva u upravnim sporovima. U ime Ministarstva sudjeluje u postupcima koje vodi Državno odvjetništvo Republike Hrvatske, u postupcima mirnog rješavanja spora, naknade štete te arbitražnim postupcima iz djelokruga Sektora. Poduzima druge mjere propisane zakonom kako bi se osigurala provedba zakona koju nadzire. Izrađuje mišljenja i objašnjenja nadziranim tijelima. Izrađuje optužne prijedloge i kaznene prijave u predmetima iz djelokruga. Poduzima zakonom propisane mjere ako se utvrdi povreda propisa koje nadzire. Odjel obavlja i druge poslove iz svoga djelokruga.
-7.1.4.2. Odjel za nadzor u javnopravnim tijelima

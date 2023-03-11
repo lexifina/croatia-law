@@ -1,3 +1,0 @@
-# Članak 59.
-Odjel za gradnju zamjenskih obiteljskih kuća evidentira i obrađuje pristigle zahtjeve koji se odnose na uklanjanje uništenih zgrada i gradnju zamjenskih obiteljskih kuća na području elementarne nepogode i prirodne katastrofe; donosi odluke temeljem pristiglih zahtjeva; prati utrošak financijskih sredstava i izvršenje ugovorenih rokova; prati provedbu mjera za ublažavanje posljedica elementarnih nepogoda; obavlja i druge poslove i radnje sukladno posebnim propisima za ublažavanje posljedica elementarnih nepogoda.
-4.4.2. Služba za provedbu mjera obnove višestambenih, stambeno-poslovnih i poslovnih zgrada
