@@ -1,0 +1,6 @@
+# Članak 52.
+Služba za knjigovodstveno i financijsko izvještavanje izrađuje tromjesečne, polugodišnje i godišnje financijske izvještaje Ministarstva, vrši knjiženja u Glavnoj knjizi Ministarstva, vrši kontrolu točnosti i ispravnosti svih podataka u Glavnoj knjizi Ministarstva, odgovorna je za točnost podataka u Glavnoj knjizi kao i podataka u financijskim izvještajima, organizira provedbu godišnjeg popisa imovine i obveza te provodi Odluku čelnika tijela nakon godišnjeg popisa imovine i obveza, odgovorna je za praćenje svih pomoćnih knjigovodstvenih knjiga i evidencija te vrši knjigovodstveno evidentiranje poslovnih događaja sukladno važećim Zakonskim i podzakonskim aktima, vrši obračun i isplatu plaća i drugih dohodaka, obračun, kontrolu i isplatu putnih naloga, vodi blagajničko poslovanje, vrši kontrolu i knjiženje izvadaka računa te obavlja i druge poslove iz svog djelokruga rada, obavlja poslove knjigovodstveno-financijskog izvještavanja vezano za korištenje sredstava po posebnim propisima i pomoći Europske unije.
+U Službi za knjigovodstveno i financijsko izvještavanje ustrojavaju se:
+5.2.1.1. Odjel za financijsko izvještavanje i analize
+5.2.1.2. Odjel za obračun plaća i blagajničko poslovanje.
+5.2.1.1. Odjel za financijsko izvještavanje i analize

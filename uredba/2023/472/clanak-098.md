@@ -1,0 +1,3 @@
+# Članak 98.
+Odjel za organiziranu obnovu poslovnih zgrada evidentira i obrađuje pristigle zahtjeve koji se odnose na obnovu za višestambene, stambeno-poslovne i poslovne zgrade; donosi odluke temeljem pristiglih zahtjeva; odlučuje o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; prati utrošak financijskih sredstava i izvršenje ugovorenih rokova; obavlja i druge poslove i radnje sukladno posebnim propisima koji uređuju obnovu nakon potresa te obavlja druge poslove iz svoga djelokruga.
+6.4.2. Služba za gradnju potresom uništenih zgrada na području katastrofe

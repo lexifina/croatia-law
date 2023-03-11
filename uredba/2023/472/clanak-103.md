@@ -1,0 +1,3 @@
+# Članak 103.
+Odjel za gradnju zamjenske obiteljske kuće obavlja poslove koji se odnose na obradu zahtjeva za organiziranu gradnju i opremanje zamjenske obiteljske kuće; obavlja poslove koji se odnose na izradu rješenja o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; prati izvršenje rješenja; prati provedbu organizirane obnove; dostavlja rješenja u ustrojstvenu jedinicu za provedbu obnove; analiza i prati provedbu obnove; obavlja upravna i stručna poslova koji se odnose na davanje stručnih mišljenja i objašnjenja o provedbi zakona i drugih propisa u područjima koje se odnose na obnovu zgrada nakon potresa, te druge poslove iz djelokruga Službe.
+6.5. Sektor za stambeno zbrinjavanje u obnovi

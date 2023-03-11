@@ -1,0 +1,3 @@
+# Članak 44.
+Odjel za izvršavanje proračuna i izvještavanje ispostavlja zahtjeve za plaćanje unosom podataka iz naloga za plaćanje i dostavljene dokumentacije u sustav Državne riznice, prati uplate i vrši povrate sredstava po posebnim propisima, surađuje s Ministarstvom financija i Financijskom agencijom vezano za uplate, ovrhe, otvaranje dobavljača u sustavu, modele plaćanja kroz sustav riznice, obavlja poslove praćenja pripreme i provedbe pomoći Europske unije, te obavlja i druge poslove u okviru svoga djelokruga. Izrađuje obrasce procjene fiskalnog utjecaja za druge ustrojstvene jedinice Ministarstva prilikom izrade zakonskih, podzakonskih akata koje te obavlja i druge poslove u okviru svog djelokruga.
+5.1.2. Služba za isplatu sudionika u obnovi i novčane pomoći

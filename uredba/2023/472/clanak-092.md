@@ -1,0 +1,3 @@
+# Članak 92.
+Odjel za zastupanje izrađuje odgovore na tužbe, priprema odgovore na podneske te obavlja poslove zastupanja Ministarstva u upravnim sporovima protiv rješenja Ministarstva kojima je odlučeno o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; poduzima druge mjere propisane zakonom kako bi se osigurala provedba zakona; u ime Ministarstva sudjeluje u postupcima koje vodi državno odvjetništvo u postupcima mirnog rješenja spora, naknade štete te arbitražnim postupcima iz djelokruga rada Sektora; analizira presude upravnih sudova vezano za poslove iz djelokruga Sektora.
+6.3.3.2. Odjel za državne potpore

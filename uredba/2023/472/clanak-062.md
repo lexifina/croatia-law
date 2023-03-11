@@ -1,0 +1,6 @@
+# Članak 62.
+Sektor za imovinu oduzetu u kaznenim postupcima upravlja imovinom koja je u kaznenom postupku sudskom odlukom privremeno oduzeta okrivljeniku ili s njim povezanih osoba kao imovinska korist ostvarena kaznenim djelom, odnosno protupravnom radnjom, ili kao predmet namijenjen ili uporabljen za počinjenje kaznenog djela, odnosno kao predmet koji je nastao počinjenjem kaznenog djela, a koja je sudskom odlukom predana Ministarstvu na upravljanje; vodi evidencije (upisnike) o privremeno oduzetim nekretninama, novčanim sredstvima, pokretnim stvarima i prenesenim pravima; sudjeluje u svim postupcima određenim propisima koji uređuju oduzimanje imovinske koristi ostvarene kaznenim djelom i prekršajem; predlaže ministru donošenje odluke o prodaji i raspolaganju privremeno oduzetih pokretnih stvari; obavlja poslove upravljanja i raspolaganja imovinom trajno oduzetom u kaznenim i prekršajnim postupcima koja je predana Ministarstvu na upravljanje ukoliko se ne radi o nekretninama ili dionicama i poslovnim udjelima; surađuje s drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svog djelokruga; obavlja i druge poslove iz svog djelokruga.
+U Sektoru za imovinu oduzetu u kaznenim postupcima ustrojavaju se:
+5.4.1. Služba za evidenciju i analizu
+5.4.2. Služba za raspolaganje oduzetom imovinom.
+5.4.1. Služba za evidenciju i analizu

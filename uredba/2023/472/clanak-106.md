@@ -1,0 +1,3 @@
+# Članak 106.
+Odjel za trajno stambeno zbrinjavanje evidentira i obrađuje pristigle zahtjeve koji se odnose na trajno zbrinjavanje osoba pogođenih potresom; rješava po pristiglim zahtjevima; surađuje s jedinicama lokalne i područne (regionalne) samouprave pri provedbi rješenja o stambenom zbrinjavanju; surađuje s Agencijom za upravljanje nekretninama u vlasništvu Republike Hrvatske pri provedbi rješenja o stambenom zbrinjavanju; prikuplja, obrađuje i analizira podatke o potrebi stambenog zbrinjavanja; obavlja i druge poslove i radnje sukladno posebnim propisima koji uređuju obnovu zgrada oštećenih potresom te obavlja druge poslove iz svoga djelokruga.
+6.5.1.2. Odjel za zamjenu prava vlasništva umjesto obnove

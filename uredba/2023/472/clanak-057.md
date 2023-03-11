@@ -1,0 +1,3 @@
+# Članak 57.
+Odjel za likvidaturu i salda konti vrši knjigovodstvenu obradu i evidenciju zaprimljenih računa, knjiži zaprimljene račune po izvorima financiranja i aktivnosti, izrađuje knjigovodstvene obrednice i vrši prijenos knjiženih računa na plaćanje prema državnoj riznici, prati salda konti kupaca te usklađuje stanja sa kupcima, izrađuje i dostavlja Izvatke otvorenih stavaka kupcima, vrši prijenos brojila na druge korisnike kada nekretnina prijeđe na upravljanje drugom tijelu te obavlja i druge poslove iz svog djelokruga rada.
+5.3. Sektor za strateško planiranje, regulativu i izvještavanje
