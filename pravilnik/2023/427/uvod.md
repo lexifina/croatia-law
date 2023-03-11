@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 15., članka 59. stavka 6. Zakona o zaštiti zraka (»Narodne novine«, br. 127/19 i 57/22) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19) ministar gospodarstva i održivog razvoja, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

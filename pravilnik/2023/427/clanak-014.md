@@ -1,0 +1,8 @@
+# Članak 14.
+(1) Nadležno upravno tijelo jedinice lokalne samouprave odnosno Grada Zagreba prije upućivanja konačnog prijedloga akcijskog plana u postupak donošenja obvezno je pribaviti mišljenje Ministarstva o prihvatljivosti akcijskog plana.
+(2) Nadležno upravno tijelo jedinice lokalne samouprave odnosno Grada Zagreba u svrhu pribavljanja mišljenja iz stavka 1. ovoga članka, dostavlja Ministarstvu konačni prijedlog akcijskog plana, izvješće o provedenom postupku izrade akcijskih planova iz članka 12. ovog Pravilnika, mišljenja tijela i/ili pravnih osoba definiranih nositeljima pojedinih aktivnosti i mjera, mišljenja jedinica područne (regionalne) samouprave odnosno jedinica lokalne samouprave i drugih tijela, kada su ta tijela sudjelovala u postupku javne rasprave.
+(3) Ministarstvo mišljenje o prihvatljivosti akcijskog plana dostavlja nadležnom upravnom tijelu u roku od 30 dana od primitka dokumentacije iz stavka 2. ovoga članka, a nositelj izrade je dužan u roku od 30 dana od primitka mišljenja Ministarstva iz stavka 1. ovog članka, osigurati da ovlaštenik usuglasi akcijski plan sa istim mišljenjem te usuglašeni akcijski plan dostavi na mišljenje Ministarstvu.
+(4) Mišljenje o prihvatljivosti Ministarstva iz stavka 1. ovoga članka obvezno sadrži ocjenu akcijskog plana.
+(5) Ocjena iz stavka 4. ovoga članka sadrži usklađenost nacrta konačnog prijedloga akcijskog plana s odredbama zakona kojim se uređuje zaštita zraka i ovog Pravilnika.
+(6) Mišljenje o prihvatljivosti iz stavka 1. ovoga članka sastavni je dio odluke o donošenju akcijskog plana.
+(7) Ako ocjena iz stavka 4. ovog članka nije zadovoljavajuća, akcijski plan se ne može donijeti.
