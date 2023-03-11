@@ -1,0 +1,5 @@
+# Članak 39.
+(1) Gospodarski subjekt može se u postupku nabave osloniti na sposobnost drugih subjekata u odnosu na ekonomsku i financijsku sposobnost te tehničku i stručnu sposobnost, bez obzira na pravnu prirodu njihova međusobnog odnosa.
+(2) Gospodarski subjekt može se u postupku nabave osloniti na sposobnost drugih subjekata radi dokazivanja ispunjavanja kriterija koji su vezani uz obrazovne i stručne kvalifikacije ili uz relevantno stručno iskustvo, samo ako će ti subjekti izvoditi radove ili pružati usluge za koje se ta sposobnost traži.
+(4) Naručitelj je obvezan provjeriti ispunjavaju li drugi subjekti na čiju se sposobnost gospodarski subjekt oslanja relevantne kriterije za odabir gospodarskog subjekta te postoje li osnove za njihovo isključenje.
+(5) Naručitelj će od gospodarskog subjekta zahtijevati da zamijeni subjekt na čiju se sposobnost oslonio radi dokazivanja kriterija za odabir ako, na temelju provjere iz stavka 4. ovoga članka, utvrdi da kod tog subjekta postoje osnove za isključenje ili da ne udovoljava relevantnim kriterijima za odabir gospodarskog subjekta.

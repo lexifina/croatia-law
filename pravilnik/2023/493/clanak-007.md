@@ -1,0 +1,9 @@
+## ODREĐIVANJE PREDMETA NABAVE I PODJELA PREDMETA NA GRUPE
+# Članak 7.
+(1) Naručitelj određuje predmet nabave na način da predstavlja tehničku, tehnološku, oblikovnu, funkcionalnu ili drugu objektivno odredivu cjelinu.
+(2) U smislu stavka 1. ovog članka, svaka pojedinačna zgrada javne namjene predstavlja zaseban predmet nabave odnosno pojedinačno odredivu cjelinu, kao i ostale zgrade koje predstavljaju geografsku cjelinu - podcjelinu odnosno blokovska rješenja.
+(3) Pri odabiru postupka nabave, Naručitelj ne smije dijeliti predmet nabave s namjerom izbjegavanja odredaba ovoga Pravilnika koje se primjenjuju na postupke nabave u skladu s člancima 10. i 13. ovog Pravilnika, odnosno s namjerom izbjegavanja primjene odredaba ZJN koje se primjenjuju iznad europskih pragova.
+(4) Naručitelj može podijeliti predmet nabave na grupe na temelju objektivnih kriterija, primjerice prema vrsti, svojstvima, namjeni, mjestu ili vremenu ispunjenja, u kojem slučaju određuje predmet i veličinu pojedine grupe, uzimajući u obzir mogućnost pristupa malih i srednjih gospodarskih subjekata postupku nabave.
+(5) Ako je predmet nabave podijeljen na više grupa, izračunavanje procijenjene vrijednosti nabave temelji se na ukupnoj procijenjenoj vrijednosti svih grupa predmeta nabave.
+(6) Na odvojenu nabavu pojedine grupe predmeta nabave primjenjuju se pravila koja vrijede za ukupnu procijenjenu vrijednost predmeta nabave.
+(7) Iznimno od stavka 6. ovoga članka, ako je predmet nabave podijeljen na više grupa, na odvojenu nabavu pojedine grupe ili grupa predmeta nabave, ako zbrojena procijenjena vrijednost tih grupa ne prelazi 20 % ukupne procijenjene vrijednosti svih grupa predmeta nabave, mogu se primijeniti pravila koja vrijede za nabavu iz članka 10. ovog Pravilnika, ako je procijenjena vrijednost pojedine grupe ili grupa predmeta nabave manja od pragova iz članka 10. ovog Pravilnika.

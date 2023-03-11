@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Ovaj Pravilnik se primjenjuje na naručitelje u postupku obnove (u daljnjem tekstu: Naručitelj) u skladu s Zakonom o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine« broj 21/2023), (u daljnjem tekstu: Zakon o obnovi).
+(2) Naručitelji iz stavka 1. ovog članka su naručitelji u smislu Zakona o javnoj nabavi (»Narodne novine«« broj 120/16 i 114/22), (u daljnjem tekstu: ZJN).
+(3) Naručitelji iz stavka 1. ovoga članka dužni su provoditi nabavu radova, roba i usluga s pažnjom dobrog gospodarstvenika, pri tom vodeći računa o racionalnom i učinkovitom trošenju dodijeljenih sredstava na način da roba, radovi i usluge koje nabavljaju odgovaraju svrsi.
+(4) Naručitelj je obvezan poduzeti prikladne mjere da učinkovito spriječi, prepozna i ukloni sukobe interesa u vezi s postupkom nabave kako bi se izbjeglo narušavanje tržišnog natjecanja i osiguralo jednako postupanje prema svim gospodarskim subjektima.
+(5) Gospodarski subjekt u smislu ovog Pravilnika je fizička ili pravna osoba, uključujući podružnicu, ili javno tijelo ili zajednica tih osoba ili tijela, uključujući svako njihovo privremeno udruženje, koja na tržištu nudi izvođenje radova ili posla, isporuku robe ili pružanje usluga.

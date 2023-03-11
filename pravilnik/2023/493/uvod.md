@@ -1,0 +1,1 @@
+Na temelju članka 71. stavka 2. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine« broj 21/2023), ministar prostornoga uređenja, graditeljstva i državne imovine donosi
