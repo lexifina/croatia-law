@@ -1,0 +1,6 @@
+# Članak 7.
+(1) Agencija za pravni promet i posredovanje nekretninama provodi zamjenu prava vlasništva umjesto obnove ili izgradnje na nekretninama koje su od ranije u vlasništvu Republike Hrvatske ili su stečene od strane Agencije za pravni promet i posredovanje nekretninama u vlasništvo Republike Hrvatske sukladno članku 6. stavku 2. ove Uredbe:
+- s vlasnicima odnosno suvlasnicima konstrukcijski oštećenih ili uništenih obiteljskih kuća ili vlasnicima posebnih suvlasničkih dijelova stambene namjene (stan) koji su rješenjem na temelju Zakona ostvarili pravo na popravak konstrukcije ili gradnju, a na osnovi čijeg je prijedloga za zamjenu nekretnina Ministarstvo donijelo odluku o zamjeni nekretnina
+- s vlasnicima odnosno suvlasnicima uništene zgrade na području Grada Zagreba odnosno jedinice područne (regionalne) samouprave na čijem se području nalazi uništena zgrada za koje je Ministarstvo donijelo rješenje o zamjeni nekretnina i to uništene zgrade davanjem vlasniku odnosno suvlasniku u vlasništvo stana odgovarajuće veličine.
+(2) Agencija za pravni promet i posredovanje nekretninama stječe pravo vlasništva na nekretninama u svrhu trajnog stambenog zbrinjavanja sklapanjem kupoprodajnog ugovora, a potom sklapa ugovor o zamjeni prava vlasništva umjesto obnove ili izgradnje.
+(3) Na stavke 1. i 2. ovoga članka primjenjuju se članci 3., 4., 5. i 6. ove Uredbe.

@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Na temelju provedenog postupka i zaprimljenih ponuda za prodaju nekretnina, Agencija za pravni promet i posredovanje nekretninama predlaže Ministarstvu donošenje odluke o kupnji nekretnine.
+(2) Na temelju odluke Ministarstva, Agencija za pravni promet i posredovanje nekretninama sklapa kupoprodajni ugovor s odabranim ponuditeljem, uz prethodno pribavljeno mišljenje nadležnog općinskog državnog odvjetništva.
+(3) Agencija za pravni promet i posredovanje nekretninama sklapa kupoprodajni ugovor s odabranim ponuditeljem, sukladno ovoj Uredbi i podzakonskim propisima koji uređuju poslovanje Agencije za pravni promet i posredovanje nekretninama.
+(4) U slučaju donošenja odluke o kupnji nekretnine u odnosu na koju je u svrhu dovođenja do faze useljivosti potrebno izvršiti određene građevinske, obrtničke ili instalaterske manje složene radove, Agencija za pravni promet i posredovanje nekretninama ovlaštena je poduzeti sve potrebne radnje u svrhu dovođenja nekretnine u fazu useljivosti.

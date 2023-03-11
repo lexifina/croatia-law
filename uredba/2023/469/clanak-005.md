@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Agencija za pravni promet i posredovanje nekretninama, po zaprimanju ponuda, u suradnji s Ministarstvom, pregledava i ocjenjuje dostavljene ponude te obilazi ponuđene nekretnine i naručuje procjenu tržišne vrijednosti prihvatljivih nekretnina.
+(2) Najviša cijena nekretnine koja se kupuje za privremeno ili trajno stambeno zbrinjavanje određuje se u iznosu do 2.000,00 eura/m2 za područje Grada Zagreba, odnosno do 1.750,00 eura/m2 za Krapinsko-zagorsku županiju, Zagrebačku županiju, Sisačko-moslavačku županiju i Karlovačku županiju.
+(3) Agencija za pravni promet i posredovanje nekretninama ovlaštena je kupiti nekretninu koja udovoljava potrebama i to po procijenjenoj tržišnoj vrijednosti nekretnine, s time da ne prelazi cijenu određenu stavkom 2. ovoga članka.
+(4) Agencija za pravni promet i posredovanje nekretninama može predložiti Ministarstvu donošenje odluke o kupnji nekretnine po cijeni do 20 % višoj od procjene njene tržišne vrijednosti, s time da ni u tom slučaju najviša cijena nekretnine ne može biti viša od najviše cijene određene stavkom 2. ovoga članka.
