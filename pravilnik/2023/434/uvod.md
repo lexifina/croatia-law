@@ -1,0 +1,1 @@
+Na temelju članka 10. Zakona o tajnosti podataka (»Narodne novine«, broj 79/2007 i 86/2012) u vezi s člankom 41. Zakona o Državnom sudbenom vijeću (»Narodne novine« broj 67/2018, 126/2019 i 80/2022) Državno sudbeno vijeće na 88. sjednici održanoj 9. veljače 2023. donijelo je

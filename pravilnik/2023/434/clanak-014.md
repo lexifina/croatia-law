@@ -1,0 +1,3 @@
+# Članak 14.
+Interni zahtjev za deklasifikaciju ili snižavanje stupnja tajnosti dostavlja se Savjetniku za informacijsku sigurnost u pisanom obliku i mora biti obrazložen. Savjetnik za informacijsku sigurnost će izraditi svoje mišljenje u roku od 8 (osam) dana o podnesenom zahtjevu i dostaviti ga predsjedniku Državnog sudbenog vijeća zajedno sa zahtjevom.
+Predsjednik Državnog sudbenog vijeća ili osobe koje on ovlasti donose odluku o uklanjanju oznake stupnja tajnosti sa službenog podatka ili o odbijanju zahtjeva, koja se dostavlja podnositelju zahtjeva u roku od 30 dana od podnošenja zahtjeva.

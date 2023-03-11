@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom određuju se klasificirani i neklasificirani podaci iz djelokruga Državnog sudbenog vijeća i osobe ovlaštene za klasificiranje podataka u Državnom sudbenom vijeću, razrađuju se kriteriji za određivanje stupnjeva tajnosti podataka iz djelokruga Državnog sudbenog vijeća, regulira se promjena stupnja tajnosti i deklasifikacija podataka Državnog sudbenog vijeća, pristup klasificiranim podacima te zaštita klasificiranih podataka.

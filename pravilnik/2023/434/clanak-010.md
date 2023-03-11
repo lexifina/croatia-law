@@ -1,0 +1,3 @@
+# Članak 10.
+Na prvoj stranici klasificiranog dokumenta iz upisnika »OGR« u gornjem desnom kutu upisuje se oznaka stupnja tajnosti, a ispod nje oznaka broja primjerka u odnosu na ukupan broj primjeraka klasificiranog dokumenta.
+Svaka stranica klasificiranog dokumenta iz upisnika »OGR« mora u desnom donjem kutu podnožja dokumenta imati naveden broj stranice u odnosu na ukupan broj stranica dokumenta. Broj, vrsta, naziv i stupanj tajnosti privitaka navode se na posljednjoj stranici dokumenta. Ukoliko se koriste dodatne zaštitne oznake iz članka 11. ovog Pravilnika, oznaka broja primjerka se stavlja ispod dodatnih zaštitnih oznaka.
