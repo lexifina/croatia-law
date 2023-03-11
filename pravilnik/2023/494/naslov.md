@@ -1,0 +1,1 @@
+Pravilnik o sadržaju i tehničkim elementima projekata obnove, projekta za uklanjanje zgrade, projekta za građenje zamjenske obiteljske kuće i projekta za građenje višestambene i stambeno-poslovne zgrade oštećene potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije
