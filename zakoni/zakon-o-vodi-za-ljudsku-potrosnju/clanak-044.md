@@ -1,0 +1,12 @@
+## Obveze jedinica područne (regionalne) samouprave odnosno Grada Zagreba i jedinica lokalne samouprave
+# Članak 44.
+(1) Jedinice područne (regionalne) samouprave odnosno Grad Zagreb obvezni su na vodocrpilištima lokalnih vodovoda koji opskrbljuju 50 i više stanovnika osigurati provedbu ispitivanja svih kemijskih, mikrobioloških i indikatorskih parametara propisanih pravilnikom iz članka 9. stavka 1. podstavka 1. ovoga Zakona najmanje jedanput godišnje tijekom hidrološke godine.
+(2) Analizu vode na vodocrpilištima lokalnih vodovoda iz stavka 1. ovoga članka provode službeni laboratoriji iz članka 14. stavka 1. ovoga Zakona.
+(3) Za postojeće lokalne vodovode kojima ne upravljaju isporučitelji vode iz članka 3. stavka 1. točke 3. podtočaka a) i c) ovoga Zakona i koji potpadaju pod obvezu državnog monitoringa, u slučaju utvrđivanja nesukladnosti mikrobioloških parametara na bilo koji način (monitoringom, službenom kontrolom i dr.), postupke dezinfekcije vode mora početi i nastaviti provoditi jedinica lokalne samouprave koja za te postupke mora osigurati financijska sredstva i propisane uvjete te svakodnevno praćenje slobodnog rezidualnog klora.
+(4) Postupke dezinfekcije iz stavka 3. ovoga članka jedinica lokalne samouprave obvezna je provoditi sve dok lokalni vodovod ne preuzme javni isporučitelj vodnih usluga iz članka 3. stavka 1. točke 3. podtočke a) ovoga Zakona sukladno zakonu kojim se uređuju vodne usluge.
+(5) Za osiguranje provedbe mjera iz stavka 3. ovoga članka jedinica lokalne samouprave može zatražiti stručnu pomoć od nadležnog zavoda za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba koji će i validirati postupak dezinfekcije.
+(6) U svrhu obavješćivanja potrošača koji koriste vodu iz lokalnih vodovoda kojima se opskrbljuje 50 i više stanovnika jedinice područne (regionalne) samouprave odnosno Grada Zagreba obvezni su na svojim mrežnim stranicama objaviti:
+‒ zone opskrbe i broj osoba koje se koriste vodom iz lokalnog vodovoda, tehnici/tehnikama obrade i dezinfekcije vode
+‒ podatke o svim parametrima sukladnosti vode namijenjene za ljudsku potrošnju ispitanima u izvještajnoj godini, uključujući i sva odstupanja za koja imaju saznanje
+‒ u slučaju incidenta ili mogućih opasnosti za zdravlje ljudi zbog prekoračene vrijednosti parametara iznad MDK vrijednosti informacije o potencijalnim opasnostima za zdravlje ljudi i savjete o zdravlju i potrošnji vodi namijenjene za ljudsku potrošnju.
+(7) Informiranje i obavješćivanje stanovništva obavlja se i sukladno članku 59. ovoga Zakona.

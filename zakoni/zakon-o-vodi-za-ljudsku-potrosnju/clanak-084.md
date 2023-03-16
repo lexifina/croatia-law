@@ -1,0 +1,6 @@
+## Obveze službenih laboratorija iz članka 14. stavaka 1. i 2. ovoga Zakona
+# Članak 84.
+(1) Službeni laboratoriji koji su do dana stupanja na snagu ovoga Zakona pribavili pravomoćno rješenje za provođenje analiza vode namijenjene za ljudsku potrošnju na temelju Zakona o vodi za ljudsku potrošnju (»Narodne novine«, br. 56/13., 64/15., 104/17., 115/18. i 16/20.) nastavljaju s radom u djelokrugu ovlasti izrade analize vode namijenjene za ljudsku potrošnju navedenim u rješenju.
+(2) Službeni laboratoriji iz članka 14. stavaka 1. i 2. ovoga Zakona obvezni su podnijeti zahtjev za ishođenje rješenja iz članka 16. ovoga Zakona ako je došlo do izmjena ili proširenja analiza, a koja nisu obuhvaćena rješenjem iz stavka 1. ovoga članka.
+(3) Službeni laboratoriji iz članka 14. stavaka 1. i 2. ovoga Zakona obvezni su u roku od dvije godine od dana stupanja na snagu ovoga Zakona akreditirati postupak uzorkovanja vode namijenjene za ljudsku potrošnju u skladu s člankom 17. podstavkom 1. ovoga Zakona.
+(4) Praćenje parametara bisfenola A, halooctene kiseline (HAA), mikrocistina-LR, PFAS-ova i uranija provodit će Hrvatski zavod za javno zdravstvo na osnovi odluke ministra iz članka 49. stavka 1. ovoga Zakona, a nakon 1. siječnja 2026. prema planu državnoga monitoringa iz članka 41. stavka 4. ovoga Zakona.

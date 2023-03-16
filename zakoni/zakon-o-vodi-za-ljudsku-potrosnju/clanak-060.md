@@ -1,0 +1,11 @@
+## XIII. SLUŽBENE KONTROLE
+## Obveze Državnog inspektorata
+# Članak 60.
+(1) Inspekcijski nadzor nad provedbom ovoga Zakona i pravilnika donesenih na temelju ovoga Zakona provode sanitarni inspektori Državnog inspektorata, u skladu s odredbama ovoga Zakona i propisa kojim se uređuje nadležnost Državnog inspektorata, osim za prioritetne objekte kojima upravlja ministarstvo nadležno za poslove pravosuđa i uprave i ministarstvo nadležno za obranu.
+(2) U provedbi nadzora iz stavka 1. ovoga članka Državni inspektorat osigurava provođenje službenih kontrola zdravstvene ispravnosti vode namijenjene za ljudsku potrošnju, zdravstvene ispravnosti predmeta i materijala u dodiru s vodom namijenjenom za ljudsku potrošnju te kemikalija za obradu i medija za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju.
+(3) Službene kontrole u vidu inspekcijskih nadzora nad kemikalijama za obradu i medijima za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju provode se i sukladno zakonima i posebnim propisima kojima se uređuje područje zaštite života i zdravlja ljudi te zaštite okoliša od štetnog djelovanja kemikalija i biocidnih proizvoda.
+(4) Državni inspektorat izrađuje planove službenih kontrola vode namijenjene za ljudsku potrošnju.
+(5) Planovi iz stavka 4. ovoga članka obuhvaćaju planove kontrole isporučitelja vode i ostalih subjekata obuhvaćenih ovim Zakonom, planove kontrole zdravstvene ispravnosti vode namijenjene za ljudsku potrošnju, uključujući vode koje se stavljaju na tržište u bocama ili drugoj ambalaži, a koji moraju sadržavati i planove uzorkovanja.
+(6) Državni inspektorat dostavlja Hrvatskom zavodu za javno zdravstvo rezultate o provedenim službenim kontrolama i poduzetim mjerama.
+(7) Državni inspektorat dostavlja Hrvatskom zavodu za javno zdravstvo podatke iz stavka 6. ovoga članka do 31. ožujka tekuće godine za prethodnu godinu.
+(8) Sanitarni inspektori Državnog inspektorata ne sudjeluju tijekom gradnje u postupcima izdavanja lokacijske i građevinske dozvole niti prilikom obavljanja tehničkih pregleda novoizgrađenih ili rekonstruiranih objekata, već se nadzori novoizgrađenih odnosno rekonstruiranih objekata obavljaju nakon ishođenja uporabne dozvole u sklopu redovnih službenih kontrola.

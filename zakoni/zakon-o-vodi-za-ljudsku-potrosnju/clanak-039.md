@@ -1,0 +1,14 @@
+## Minimalni zahtjevi za kemikalije za obradu i medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju
+# Članak 39.
+(1) Isporučitelji vode u postupcima obrade i dezinfekcije vode namijenjene za ljudsku potrošnju, uz poštivanje propisa kojima se uređuje područje kemikalija i biocidnih proizvoda, moraju koristiti učinkovite i sigurne kemikalije za obradu i medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju.
+(2) Kemikalije za obradu i mediji za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju iz stavka 1. ovoga članka smatraju se sigurnima ako:
+a) ne ugrožavaju izravno ili neizravno zaštitu zdravlja ljudi sukladno odredbama ovoga Zakona i zakona kojim se uređuje područje kemikalija
+b) ne utječu negativno na boju, miris ili okus vode
+c) ne povećavaju nenamjerno rast mikroorganizama
+d) ne zagađuju vodu u razinama koje su veće nego što je potrebno s obzirom na namjenu.
+(3) Kemikalije za dezinfekciju vode moraju biti sukladne odredbama Uredbe (EU) br. 528/2012 i propisima kojima su uređene kemikalije te ih treba koristiti samo kada je nužno da bi se izbjegli rizici za zdravlje potrošača.
+(4) Proizvođači i uvoznici koji stavljaju na tržište kemikalije i medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju, koji se koriste za obradu i dezinfekciju vode odgovorni su za kvalitetu kemikalija za obradu, kao i medija za filtriranje te su obvezni poštivati i odgovarajuće europske norme za posebne kemikalije za obradu ili medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju, ako one postoje.
+(5) Proizvođači i uvoznici kemikalija za obradu i medija za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju obvezni su ispitati čistoću kemikalija za obradu i medija za filtriranje sukladno normama Europske unije za ispitivanje kemikalija koje se koriste za obradu vode namijenjene za ljudsku potrošnju u akreditiranom laboratoriju.
+(6) Ako u Republici Hrvatskoj nema akreditiranog laboratorija za određenu analizu iz stavka 5. ovoga članka, proizvođač ili uvoznik iz stavka 4. ovoga članka kemikalije za obradu ili medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju uputit će na analizu u akreditirani laboratorij u neke od država članica Europske unije u kojem se može provesti analiza.
+(7) U slučaju sumnje u kvalitetu kemikalija i medija za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju sanitarni inspektor Državnog inspektorata ovlašten je uzeti uzorak kemikalije za obradu ili medija za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju u količini dostatnoj za provedbu analiza te ih dostaviti u laboratorij koji je osposobljen provesti te analize.
+(8) Rezultati analiza službenih uzoraka dostavljenih na analizu u laboratorije iz stavka 6. ovoga članka smatraju se jednako valjanim.

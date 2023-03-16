@@ -1,0 +1,5 @@
+## Propisi koji ostaju na snazi
+# Članak 80.
+(1) Do dana stupanja na snagu pravilnika iz članka 9. stavka 1. podstavka 1. ovoga Zakona ostaje na snazi Pravilnik o parametrima sukladnosti, metodama analize, monitoringu i planovima sigurnosti vode za ljudsku potrošnju te načinu vođenja registra pravnih osoba koje obavljaju djelatnost javne vodoopskrbe (»Narodne novine«, br. 125/17. i 39/20.).
+(2) Danom stupanja na snagu pravilnika iz članka 9. stavka 1. podstavka 2. ovoga Zakona prestaju važiti odredbe članaka 20., 26., 36., 37., 41., 49. do 53. i 70. Pravilnika o zdravstvenoj ispravnosti materijala i predmeta koji dolaze u neposredan dodir s hranom (»Narodne novine«, br. 125/09., 31/11., 39/13. i 62/13.) u dijelu koji se odnosi na predmete i materijale koji dolaze u dodir s vodom za piće.
+(3) Do dana stupanja na snagu pravilnika iz članka 9. stavka 1. podstavka 3. ovoga Zakona ostaje na snazi Pravilnik o sanitarno-tehničkim i higijenskim te drugim uvjetima koje moraju ispunjavati vodoopskrbni objekti (»Narodne novine«, br. 44/14.).

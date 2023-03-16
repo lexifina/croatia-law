@@ -1,0 +1,3 @@
+## Načelo predostrožnosti
+# Članak 7.
+Kada se na temelju procjene dostupnih informacija utvrdi da postoji mogućnost štetnih učinaka na zdravlje ljudi ili bilo kakvog povećanja onečišćenja vode koja se upotrebljava za proizvodnju vode namijenjene za ljudsku potrošnju, nadležna tijela iz članka 8. ovoga Zakona, na temelju načela predostrožnosti, donose potrebne mjere radi zaštite vodnog okoliša od slučajnog ili namjernog onečišćenja, zaštite svih vodocrpilišta vode namijenjene za ljudsku potrošnju, kao i građevina za vodoopskrbu od slučajnog ili namjernog onečišćenja kako ne bi došlo do smanjenja postojeće kvalitete vode.

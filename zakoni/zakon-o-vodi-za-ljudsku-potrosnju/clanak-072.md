@@ -1,0 +1,34 @@
+## Prekršajne odredbe za pravne osobe (isporučitelje vode, laboratorije, proizvođače, distributere)
+# Članak 72.
+(1) Novčanom kaznom u iznosu od 3980,00 do 9290,00 eura kaznit će se za prekršaj pravna osoba ako:
+‒ obavlja analize vode namijenjene za ljudsku potrošnju kao službeni laboratorij bez valjanog rješenja o ovlaštenju (članak 14. stavak 7.)
+‒ ne osigura interni laboratorij koji udovoljava uvjetima kako je propisano člankom 19. stavkom 1. ovoga Zakona
+‒ interni laboratorij ne ispunjava bilo koji od uvjeta iz članka 19. stavaka 2. i 3. ovoga Zakona
+‒ ne čuva u elektroničkom obliku analitička izvješća za potrebe tehničkog pregleda kako je propisano člankom 22. stavkom 6. ovoga Zakona
+‒ ne izradi Plan sigurnosti vode ili ne provodi sustav samokontrole kako je propisano Planom sigurnosti vode sukladno članku 25. stavku 1. ovoga Zakona
+‒ ne ishodi odobrenje za Plan sigurnosti vode sukladno članku 25. stavku 2. ovoga Zakona
+‒ ne uspostavi sustav samokontrole kroz provedbu procjene rizika kućne vodoopskrbne mreže sukladno članku 29. stavku 1. ovoga Zakona
+‒ ne provodi i ne održava sustav samokontrole kroz provedbu procjene rizika kućne vodoopskrbne mreže sukladno članku 29. stavku 1. ovoga Zakona
+‒ na primjeren način ne zaštiti i ne održava sva vodocrpilišta i građevine za vodoopskrbu kojima upravlja odnosno koje koristi (članak 32. stavak 3. podstavak 1.)
+‒ ne osigura da građevine za vodoopskrbu ispunjavaju sanitarno-tehničke i higijenske te druge uvjete ili ne osigura poslovanje u njima na način propisan pravilnikom iz članka 9. stavka 1. podstavka 3. ovoga Zakona (članak 32. stavak 3. podstavak 2.)
+‒ ne prilagodi tehnološke postupke obrade vode na način da distribuirana voda namijenjena za ljudsku potrošnju ispunjava parametre sukladnosti propisane pravilnikom iz članka 9. stavka 1. podstavka 1. ovoga Zakona (članak 32. stavak 3. podstavak 3.)
+‒ kao isporučitelj vode koji obavlja samo djelatnost zahvaćanja vode namijenjene za ljudsku potrošnju iz tijela podzemnih i/ili površinskih voda za isporuku do drugog isporučitelja vode ne zaštiti vodocrpilišta i objekte u kojima obavlja djelatnost protivno članku 32. stavku 8. ovoga Zakona i ne provede radnje iz članka 47. stavka 7. podstavaka 1. i 2. ovoga Zakona
+‒ kao isporučitelj vode koji obavlja samo djelatnost zahvaćanja vode namijenjene za ljudsku potrošnju iz tijela podzemnih i/ili površinskih voda za isporuku do drugog isporučitelja ne osigura uvjete iz članka 32. stavka 3. podstavaka 2., 5., 6., 10. i 12. do 15. ovoga Zakona
+‒ proizvodi, uvozi ili distribuira na tržište građevne materijale, materijale i proizvode koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju koji ne udovoljavaju uvjetima iz članka 37. stavaka 1. i 4. ovoga Zakona
+‒ upotrebljava materijale i predmete namijenjene upotrebi u novim instalacijama ili u slučaju popravaka ili rekonstrukcije, u postojećim instalacijama za zahvaćanje, obradu, skladištenje ili distribuciju vode namijenjene za ljudsku potrošnju, a koji dolaze u dodir s takvom vodom koji nisu zdravstveno i higijenski ispravni protivno članku 38. stavku 2. ovoga Zakona
+‒ kao isporučitelj vode koristi kemikalije za obradu i dezinfekciju vode ili medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju protivno članku 39. stavku 1. ovoga Zakona
+‒ proizvodi, uvozi ili stavlja na tržište kemikalije za obradu ili medije za filtriranje koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju ako ne osiguraju kvalitetu kemikalija kako je propisano člankom 39. stavkom 4. ovoga Zakona
+‒ ne provodi operativni monitoring na parametre analize i dinamikom kako je propisano člankom 47. stavkom 2. ovoga Zakona
+‒ obrađuje vodu postupcima filtracije, a ne prati parametar mutnoća propisanom učestalošću kako je propisano člankom 47. stavkom 5. ovoga Zakona
+‒ ne kontrolira somatske kolifage sukladno učestalosti i na mjestima kako je utvrđeno pravilnikom iz članka 9. stavka 1. podstavka 3. ovoga Zakona (članak 47. stavak 6.)
+‒ u okviru operativnog monitoringa ne provodi redovite preglede funkcionalnosti i stanja opreme, o čemu moraju voditi zapise i u slučaju nesukladnosti iste otkloniti (članak 47. stavak 7. podstavak 1.)
+‒ u okviru operativnog monitoringa ne provodi redovite preglede područja zahvaćanja te infrastrukture za obradu, skladištenje i distribuciju, o čemu mora voditi evidenciju (članak 47. stavak 7. podstavak 2.)
+‒ u okviru operativnog monitoringa ne provodi propisane analize u obujmu praćenja parametara A analize, nusprodukte dezinfekcije (klorit, klorat, bromat, trihalometan (THM), halooctenu kiselinu (HAA)), parametre važne za tehnološku obradu vode, parametre od značaja za zone opskrbe u njihovoj nadležnosti prema dinamici propisanoj pravilnikom iz članka 9. stavka 1. podstavka 3. ovoga Zakona (članak 47. stavak 7. podstavak 3.)
+‒ obavlja djelatnost vodoopskrbe, a nije provedeno ispitivanje vode namijenjene za ljudsku potrošnju na izvorištu kojim upravlja odnosno na kojemu obavlja djelatnost vodoopskrbe jedanput godišnje u opsegu analize na kemijske, mikrobiološke i indikatorske parametre, propisane pravilnikom iz članka 9. stavka 1. podstavka 1. ovoga Zakona u skladu s člankom 51. stavcima 1. i 2. ovoga Zakona
+‒ prije korištenja novoga vodocrpilišta u svrhu javne vodoopskrbe ne obavi ispitivanje te vode namijenjene za ljudsku potrošnju u laboratoriju najmanje četiri puta godišnje u jednoj hidrološkoj godini, na sve mikrobiološke, kemijske i indikatorske parametre te jedanput godišnje na parametre radioaktivnih tvari propisane pravilnikom iz članka 9. stavka 1. podstavka 1. ovoga Zakona (članak 51. stavak 4.)
+‒ ne obavi jednokratno ispitivanje u laboratoriju na sve mikrobiološke, kemijske i indikatorske parametre propisane pravilnikom iz članka 9. stavka 1. podstavka 1. ovoga Zakona prije ponovnog korištenja vodocrpilišta koje nije korišteno više od šest mjeseci (članak 51. stavak 5.)
+‒ ne osigura u svom proračunu financijska sredstva za provođenje dezinfekcije ili ne započne ili ne nastavi provoditi postupke dezinfekcije lokalnih vodovoda u skladu s člankom 52. stavkom 5. i člankom 44. stavkom 3. ovoga Zakona
+‒ ne dozvoli ili ometa uzorkovanje vode sanitarnom inspektoru Državnog inspektorata, sukladno članku 62. stavku 1. ovoga Zakona i članku 64. stavku 12. ovoga Zakona
+‒ ne dozvoli ili ometa provođenje nadzora ili ne dostavi ili ne omogući uvid u svu raspoloživu dokumentaciju sanitarnom inspektoru Državnog inspektorata, uključujući i onu dostupnu u elektroničkom obliku protivno članku 62. stavku 2. ovoga Zakona.
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 660,00 do 1320,00 eura.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se i fizička osoba/obrtnik i fizička osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 660,00 do 1320,00 eura.

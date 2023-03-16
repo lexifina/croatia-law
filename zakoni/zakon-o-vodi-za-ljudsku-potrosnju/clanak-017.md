@@ -1,0 +1,9 @@
+## Obveze službenih laboratorija za vodu namijenjenu za ljudsku potrošnju
+# Članak 17.
+Obveze službenih laboratorija za vodu namijenjenu ljudskoj potrošnji su:
+‒ uzorkovati vodu u skladu s propisima i normama HRN EN ISO 5667-1, HRN EN ISO 5667-3, HRN ISO 5667-5, HRN EN ISO 19458 i HRN ISO 5667-11
+‒ dostavljene uzorke za analizu pripraviti, analizirati i iskazati rezultate u skladu s propisima odnosno zahtjevima ispitnih metoda ako to nije definirano propisima
+‒ nakon dostave uzorka odmah započeti analizu uzorka, a nakon završetka analize izraditi analitičko izvješće (ispitni izvještaj) i dostaviti ga tijelu odnosno subjektu koji je zatražio analizu koje u slučaju nesukladnih nalaza mora biti dostavljeno u roku ne dužem od 24 sata od kada je odstupanje utvrđeno
+‒ u slučaju nesukladnih rezultata službenih uzoraka, uzoraka iz državnog monitoringa i monitoringa parametara kućne vodoopskrbne mreže, čak i u slučaju da nisu završene sve analize, dostaviti rezultate ispitivanja nesukladnih parametara Državnom inspektoratu u roku ne dužem od 24 sata od kada je odstupanje utvrđeno na funkcionalne e-adrese objavljene na mrežnim stranicama Državnog inspektorata
+‒ u slučajevima u kojima se analizom utvrdi vrijednost parametra Legionella iznad MDK vrijednosti, službeni laboratorij iz članka 14. stavka 2. ovoga Zakona obvezan je o tome obavijestiti mjesno nadležan zavod za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba
+‒ nadležni zavod za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba ili Hrvatski zavod za javno zdravstvo obvezan je sa subjektom istražiti uzrok nesukladnosti i provjeriti način provođenja korektivnih mjera od strane subjekta, uz obvezno ponavljanje uzorkovanja kako je propisano člancima 29. i 31. ovoga Zakona.

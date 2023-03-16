@@ -1,0 +1,9 @@
+## Monitoring parametara kućne vodoopskrbne mreže
+# Članak 46.
+(1) Monitoring parametara kućne vodoopskrbne mreže je monitoring parametara olovo i Legionella.
+(2) Monitoring parametara kućne vodoopskrbne mreže provode i financiraju svi prioritetni objekti iz članka 3. stavka 1. točke 7. ovoga Zakona.
+(3) Svaki prioritetni objekt iz članka 3. stavka 1. točke 7. ovoga Zakona provodi monitoring parametara kućne mreže najmanje jednom godišnje u opsegu broja uzoraka koji može dati uvid u stanje kućne vodoopskrbne mreže, a koji ne može biti manji od broja uzoraka propisanih pravilnikom iz članka 9. stavka 1. podstavka 4. ovoga Zakona.
+(4) U slučaju utvrđivanja povišenih vrijednosti parametra Legionella, prioritetni objekti iz članka 3. stavka 1. točke 7. ovoga Zakona obvezni su provoditi korektivne mjere kako je propisano člankom 29. ovoga Zakona i pravilnikom iz članka 9. stavka 1. podstavka 4. ovoga Zakona.
+(5) O svim nalazima prekoračenja MDK vrijednosti parametra Legionella i olovo službeni laboratorij iz članka 14. stavaka 1. i 2. ovoga Zakona i prioritetni objekti iz članka 3. točke 7. ovoga Zakona obvezni su odmah nakon saznanja obavijestiti Državni inspektorat te navesti način provedbe korektivnih mjera uz ponavljanje uzorkovanja, ne dovodeći u pitanje pravo sanitarnog inspektora Državnog inspektorata za provedbu nadzora.
+(6) O svim slučajevima sumnje na oboljenje, oboljenje ili smrtni ishod zbog prisutnosti bakterije Legionella prioritetni objekti iz članka 3. stavka 1. točke 7. ovoga Zakona obvezni su odmah nakon saznanja obavijestiti sanitarnog inspektora Državnog inspektorata te navesti način provedbe korektivnih mjera iz članka 29. ovoga Zakona, uz ponavljanje uzorkovanja.
+(7) Nakon dobivanja rezultata ponovljenog uzorkovanja na istom mjestu uzorkovanja s podacima o svim provedenim korektivnim mjerama prioritetni objekti iz članka 3. stavka 1. točke 7. ovoga Zakona ponovno obavješćuju Državni inspektorat.
