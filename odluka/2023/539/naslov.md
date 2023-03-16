@@ -1,0 +1,1 @@
+Odluka o neprimjeni Indeksa potrošačkih cijena na ugovore o zakupu poslovnih prostora u vlasništvu Republike Hrvatske kojima upravljaju Ministarstvo prostornoga uređenja, graditeljstva i državne imovine i društvo Državne nekretnine d.o.o.
