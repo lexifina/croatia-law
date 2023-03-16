@@ -1,0 +1,1 @@
+Na temelju članka 7. Zakona o knjižnicama i knjižničnoj djelatnosti (»Narodne novine«, broj 17/19, 98/19 i 114/22), uz prethodno mišljenje Hrvatskog knjižničnog vijeća, ministrica kulture i medija donosi

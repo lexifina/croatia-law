@@ -1,0 +1,7 @@
+## IV. ZAŠTITA DIGITALNE GRAĐE
+# Članak 10.
+(1) Digitalna građa (digitalizirana i izvorno digitalna građa) i dokumentacija na različitim nositeljima čuvaju se u primjerenim uvjetima te štite od neovlaštenog pristupa, raspačavanja, brisanja, mijenjanja ili gubitka informacija, sukladno važećim standardima i dobroj praksi upravljanja i zaštite informacijskih sustava.
+(2) Cilj zaštite digitalne građe i dokumentacije jest očuvati njezinu autentičnost, cjelovitost i pouzdanost te osigurati dugoročno korištenje putem očuvanja integriteta podataka, aktivnim upravljanjem digitalnom građom i metapodatcima te sigurnom pohranom i zaštitom od neovlaštenog pristupa.
+(3) Pohrana, čuvanje, zaštita i trajna pohrana provodi se u skladu sa stručnim i tehničkim normama, preporukama i uputama Hrvatske digitalne knjižnice.
+(4) U svrhu zaštite digitalne građe knjižnice trebaju izraditi plan upravljanja digitalnom građom kojim se utvrđuju postupci izrade, digitalizacije, izmjene i pohrane digitalne građe te određuju odgovorne osobe i aktivnosti čuvanja ovisno o mogućnostima svake knjižnice, odnosno pravne osobe u čijem je sastavu knjižnica.
+(5) Nacionalna i sveučilišna knjižnica u Zagrebu dužna je izraditi strategiju zaštite, pohrane i trajnog očuvanja digitalne knjižnične građe te plan zaštite, pohrane i trajnog očuvanja u sklopu nacionalnog sustava zaštite, pohrane i trajnog očuvanja digitalne građe.
