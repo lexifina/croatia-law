@@ -1,0 +1,2 @@
+# Članak 4.
+Opis, svrha i pokazatelji standarda kvalitete socijalnih usluga iz članka 3., postupak njihova uvođenja, način mjerenja usklađenosti sa standardima kvalitete socijalnih usluga i način praćenja napretka u postupku uvođenja standarda kvalitete socijalnih usluga propisani su u Prilogu I. Standardi kvalitete socijalnih usluga sa smjernicama za njihovo uvođenje koji je sastavni dio ovoga Pravilnika.
