@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Vremenske serije kratkoročnih fiskalnih podataka čija je objava propisana člankom 142. stavkom 3. Zakona o proračunu (»Narodne novine«, broj 144/21, dalje u tekstu: Zakon o proračunu) preračunavaju se za sve podatke propisanih izvještajnih razdoblja od 2014. do uključivo 2022. godine.
+(2) Rok za objavu preračuna za podatke iz stavka 1. ovoga članka je 60 dana nakon objave posljednjeg izvještajnog razdoblja za 2022. godinu za svaku pojedinu seriju podataka, koji se u smislu članka 74., stavka 2., podstavka 1. Zakona o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine« broj 57/22 i 88/2022, dalje u tekstu: Zakon o uvođenju eura kao službene valute u Republici Hrvatskoj) izvorno iskazuju u kunama.
