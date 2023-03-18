@@ -1,0 +1,1 @@
+Na temelju članka 48. stavka 3. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, broj 138/21.), Vlada Republike Hrvatske je na sjednici održanoj 16. ožujka 2023. donijela
