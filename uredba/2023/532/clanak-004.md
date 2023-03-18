@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Korisnici prava pisani zahtjev za nadoknadu dijela troškova podnose Ministarstvu mora, prometa i infrastrukture tromjesečno, najkasnije do 31. listopada 2024.
+(2) Zahtjev treba sadržavati naziv i OIB podnositelja zahtjeva, podatak o razdoblju za koje se traži nadoknada, količinu litara goriva po mjesecima za koje se traži nadoknada, te podatke o transakcijskom bankovnom računu na koji je potrebno izvršiti uplatu nadoknade. Zahtjev u prilogu mora sadržavati presliku rješenja Ministarstva financija - Carinske uprave kojim se odobrava povrat plaćene trošarine za razdoblje i količine goriva iz zahtjeva.
