@@ -1,0 +1,6 @@
+# Članak 8.
+Za vrijeme trajanja blokade računa banke:
+1. Hrvatska narodna banka onemogućuje namiru platnih transakcija na teret svih računa banke u sustavu TARGET-HR na kojima se vode raspoloživa novčana sredstva banke sukladno članku 3. stavcima 4. i 5. ovoga Pravilnika, osim namire platnih transakcija kojima se provodi naplata naloga za izvršenje osnove za plaćanje iz zaprimljene poruke Agencije
+2. Agencija kao upravitelj platnog sustava, na temelju zaprimljenog naloga Hrvatske narodne banke iz članka 6. stavka 2. točke 5. ovoga Pravilnika, onemogućuje obračun platnih transakcija na teret obračunskog računa banke u EuroNKS-u. Platne transakcije u korist obračunskog računa banke u EuroNKS-u obračunavaju se, a tako zaprimljena novčana sredstva banke namiruju se sukladno pravilima rada tog platnog sustava
+3. Agencija kao upravitelj platnog sustava, na temelju zaprimljenog naloga Hrvatske narodne banke iz članka 6. stavka 2. točke 6. ovoga Pravilnika, onemogućuje obračun i namiru instant platnih transakcija na teret obračunskog računa banke u EuroNKSInst-u. Instant platne transakcije u korist obračunskog računa banke u EuroNKSInst-u obračunavaju se i namiruju
+4. Banka ne može podizati gotov novac s računa za gotovinu banke u Hrvatskoj narodnoj banci.
