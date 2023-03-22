@@ -1,0 +1,1 @@
+Odluka o donošenju Nacionalnog plana razvoja sustava obrazovanja za razdoblje do 2027. godine i Akcijskog plana za provedbu Nacionalnog plana razvoja sustava obrazovanja za razdoblje do 2027. godine, za razdoblje do 2024. godine
