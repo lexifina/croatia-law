@@ -1,0 +1,2 @@
+# Članak 5.
+U skladu s Rezolucijom br. 3 Prilogom 3. točkom 4., prilikom polaganja svoje isprave o pristupanju, Republika Hrvatska potvrdit će kako dijeli tumačenje sadržano u Deklaraciji o Europskom stabilizacijskom mehanizmu, koja je kao interpretativna izjava uz Ugovor iz članka 1. ovoga Zakona sastavljena u Bruxellesu 27. rujna 2012., a čiji tekst na engleskom jeziku i prijevodu na hrvatski jezik glasi:

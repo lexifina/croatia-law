@@ -1,0 +1,3 @@
+# Članak 44.
+PRISTUPANJE
+Ovaj je Ugovor otvoren za pristupanje drugih država članica Europske unije u skladu s člankom 2. na temelju zahtjeva za članstvo koji dotična država članica Europske unije podnosi ESM-u, nakon što Vijeće Europske unije donese odluku o ukidanju odstupanja od uvođenja eura, u skladu člankom 140. stavkom 2. UFEU-a. Odbor guvernera odobrava zahtjev za pristupanje nove članice ESM-a i povezane detaljne tehničke uvjete i prilagodbe ovog Ugovora kao izravne posljedice pristupanja. Nakon što Odbor guvernera odobri zahtjev za članstvo, nove članice ESM-a pristupaju nakon polaganja svojih isprava o pristupanju kod depozitara, koji o tome obavješćuje ostale članice ESM-a.

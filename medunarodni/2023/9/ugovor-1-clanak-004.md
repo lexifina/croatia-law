@@ -1,0 +1,11 @@
+# Članak 4.
+STRUKTURA I PRAVILA GLASOVANJA
+1. ESM ima Odbor guvernera i Odbor direktora te glavnog direktora i ostalo osoblje koje se smatra potrebnim.
+2. Odluke Odbora guvernera i Odbora direktora donose se sporazumno, kvalificiranom ili običnom većinom kako je predviđeno ovim Ugovorom. Za sve odluke mora biti postignut kvorum od 2/3 članica s pravom glasa, koje predstavljaju najmanje 2/3 glasačkih prava.
+3. Za sporazumno donošenje odluke potrebna je jednoglasnost članica koje sudjeluju u glasovanju. Suzdržani glasovi ne sprječavaju sporazumno donošenje odluke.
+4. Odstupajući od stavka 3., koristi se postupak hitnog glasovanja ako i Komisija i ESB utvrde da bi nedonošenje hitne odluke potrebne za odobrenje ili provedbu financijske pomoći, kako je utvrđeno u člancima od 13. do 18., ugrozilo ekonomsku i financijsku održivost europodručja. Za sporazumno donošenje odluke Odbora guvernera iz članka 5. stavka 6. točaka (f) i (g) i Odbora direktora u skladu s tim hitnim postupkom potrebna je kvalificirana većina od 85 % danih glasova.
+Kada se koristi hitni postupak iz prvog podstavka, sredstva iz pričuvnog fonda i/ili uplaćenog kapitala prenose se u hitni pričuvni fond, čime se stvara namjenska pričuva iz koje se pokrivaju rizici koji proizlaze iz financijske potpore odobrene u skladu s navedenim hitnim postupkom. Odbor guvernera može odlučiti ukinuti hitni pričuvni fond i prenijeti njegova sredstva natrag u pričuvni fond i/ili uplaćeni kapital.
+5. Za donošenje odluke kvalificiranom većinom potrebno je 80 % danih glasova.
+6. Za donošenje odluke običnom većinom potrebna je većina danih glasova.
+7. Glasačka prava svake članice ESM-a, koja ostvaruje njezin predstavnik ili njegov zamjenik u Odboru guvernera ili Odboru direktora, jednaka su broju udjela koji su joj dodijeljeni u odobrenom temeljnom kapitalu ESM-a, kako je navedeno u Prilogu II.
+8. Ako bilo koja članica ESM-a ne plati bilo koji dio dospjelog iznosa u pogledu svojih obveza u vezi s uplaćenim udjelima ili pozivima na uplatu kapitala iz članaka 8., 9. i 10. ili u vezi s povratom financijske pomoći iz članka 16. ili 17., ta članica ESM-a ne može koristiti svoje glasačko pravo sve dok ne ispuni svoje obveze. U skladu s time preračunava se i prag za glasovanje.
