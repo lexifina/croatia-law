@@ -1,0 +1,6 @@
+# Članak 18.
+(1) Postupci stručnog usavršavanja drugih sudionika u postupcima pred pravosudnim tijelima te postupci pohađanja stručnog usavršavanja u Školi i polaganja završnog ispita započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Pravosudnoj akademiji (»Narodne novine«, br. 52/19.).
+(2) Upravno vijeće imenovat će članove Povjerenstva Državne škole te njihove zamjenike najkasnije u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(3) Imenovanjem članova i zamjenika članova Povjerenstva Državne škole u roku iz stavka 2. ovoga članka prestaje mandat članova i tajnika Povjerenstva za polaganje završnog ispita te njihovih zamjenika imenovanih prema odredbama Zakona o Pravosudnoj akademiji (»Narodne novine«, br. 52/19.).
+(4) Pravila o sadržaju, vremenu i načinu polaganja završnog ispita iz članka 10. ovoga Zakona te odluku iz članka 13. ovoga Zakona Upravno vijeće uskladit će s odredbama ovoga Zakona u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
+(5) Pravila o programu i načinu pohađanja stručnog usavršavanja i metodologiju ocjenjivanja i utvrđivanja završne ocjene iz članka 7. ovoga Zakona te odluku iz članka 15. ovoga Zakona Upravno vijeće donijet će u roku od 90 dana od dana stupanja na snagu ovoga Zakona.
