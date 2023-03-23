@@ -1,0 +1,4 @@
+# Članak 14.
+(1) Državna tijela dužna su putem nadležnog registracijskog ureda pokrenuti postupak za izdavanje službenih iskaznica zatečenih zaposlenika u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Za zaposlenike koji stupe na dužnost odnosno počnu raditi u državnom tijelu u roku od šest mjeseci od stupanja na snagu ovoga Zakona državno tijelo dužno je pokrenuti postupak za izdavanje službene iskaznice u roku iz stavka 1. ovoga članka.
+(3) Iznimno od stavka 1. ovoga članka, za zaposlenike Ministarstva unutarnjih poslova, Ministarstva obrane i Oružanih snaga Republike Hrvatske pokrenut će se postupak za izdavanje službenih iskaznica u skladu s ovim Zakonom po isteku roka trajanja certifikata koje sadrže službene propusnice Ministarstva unutarnjih poslova te identifikacijske iskaznice i identifikacijske vojne iskaznice Ministarstva obrane i Oružanih snaga Republike Hrvatske izdane u skladu s posebnim propisima.
