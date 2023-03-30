@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), a u vezi s člankom 59. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu (»Narodne novine«, broj 145/22.), Vlada Republike Hrvatske je na sjednici održanoj 30. ožujka 2023. donijela
