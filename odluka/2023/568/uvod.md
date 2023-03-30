@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/2019), a u svezi sa zaključkom Vlade Republike Hrvatske klasa: 104-02/12-01/01; urbroj: 50301-04/04-12-2 od 20. prosinca 2012., ministar rada, mirovinskoga sustava, obitelji i socijalne politike uz suglasnost glavne ravnateljice Državnog zavoda za statistiku donosi
