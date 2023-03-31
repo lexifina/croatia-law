@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 4/2013. i 47/2020.) i članka 119. stavaka 1., 4. i 5. Zakona o kreditnim institucijama (»Narodne novine«, br. 159/2013., 19/2015., 102/2015., 15/2018., 70/2019., 47/2020. i 146/2020.) guverner Hrvatske narodne banke donosi
