@@ -1,0 +1,2 @@
+# Članak 58.
+U cijelom tekstu Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.) riječi: »ministar nadležan za zdravlje« u određenom padežu zamjenjuju se riječima: »ministar nadležan za zdravstvo« u odgovarajućem padežu, a riječi: »ministarstvo nadležno za zdravlje« u određenom padežu zamjenjuju se riječima: »ministarstvo nadležno za zdravstvo« u odgovarajućem padežu.

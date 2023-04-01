@@ -1,0 +1,3 @@
+# Članak 29.
+U članku 55. stavak 3. mijenja se i glasi:
+»(3) Visinu naknade plaće koja se isplaćuje na teret sredstava Zavoda, odnosno na teret sredstava državnog proračuna za naknadu plaće za vrijeme privremene nesposobnosti zbog pojave zaraze u okolini osiguranika iz stavka 2. točke 7. ovoga članka utvrđuje Zavod, s tim da najviši mjesečni iznos naknade plaće, obračunate prema odredbama ovoga Zakona i propisa donesenih na temelju ovoga Zakona, ne može za puno radno vrijeme iznositi više od proračunske osnovice uvećane za 28 %, osim naknade plaće iz stavka 2. točaka 3., 4. i 8. ovoga članka.«.

@@ -1,0 +1,2 @@
+# Članak 63.
+Zavod i Hrvatski zavod za zapošljavanje obvezni su uspostaviti međusobnu digitalnu razmjenu podataka radi provedbe razmjene podataka o nezaposlenim osobama koje se vode u evidenciji nezaposlenih osoba Hrvatskog zavoda za zapošljavanje te provjere postojanja okolnosti na temelju kojih su nezaposlene osobe koje se ne vode u evidenciji nezaposlenih osoba Hrvatskog zavoda za zapošljavanje stekle status osiguranika iz članka 3. ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.

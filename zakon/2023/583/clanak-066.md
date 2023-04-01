@@ -1,0 +1,2 @@
+# Članak 66.
+Konačan obračun uplaćenih sredstava od naplaćene funkcionalne premije osiguranja od obveznoga osiguranja od automobilske odgovornosti i stvarnih troškova prouzročene štete Zavodu koju su prouzročili vlasnici, odnosno korisnici osiguranoga motornog vozila provest će se za 2022. te za 2023. za razdoblje do dana stupanja na snagu ovoga Zakona na način utvrđen člankom 72. stavcima 6. i 7. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13. i 98/19.).

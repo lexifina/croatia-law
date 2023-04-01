@@ -1,0 +1,6 @@
+# Članak 53.
+Članak 149. mijenja se i glasi:
+»(1) Novčanom kaznom u iznosu od 66.360,00 do 132.720,00 eura kaznit će se za prekršaj društvo za osiguranje ako sredstva od prihoda od obveznoga osiguranja od automobilske odgovornosti u visini od 5 % naplaćene funkcionalne premije osiguranja od obveznoga osiguranja od automobilske odgovornosti na ime troškova za zdravstvenu zaštitu koja je posljedica ozljeda prouzročenih od strane vlasnika, odnosno korisnika osiguranoga motornog vozila ne uplati do 10. u mjesecu za prethodni mjesec na ukupan iznos naplaćene funkcionalne premije osiguranja od obveznoga osiguranja (članak 72. stavak 3.).
+(2) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 3980,00 do 6630,00 eura kaznit će se i odgovorna osoba u društvu za osiguranje.
+(3) Novčanom kaznom u iznosu od 660,00 do 13.270,00 eura kaznit će se za prekršaj društvo za osiguranje ako Ministarstvu financija, Poreznoj upravi ne podnese izvješće o obračunatim i uplaćenim mjesečnim sredstvima od prihoda od obveznoga osiguranja od automobilske odgovornosti do 15. u mjesecu za prethodni mjesec (članak 72. stavak 4.).
+(4) Za prekršaj iz stavka 3. ovoga članka novčanom kaznom u iznosu od 660,00 do 2650,00 eura kaznit će se i odgovorna osoba u društvu za osiguranje.«.
