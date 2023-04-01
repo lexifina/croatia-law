@@ -1,0 +1,1 @@
+Na temelju članka 121. stavka 2. Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, broj 119/22), a u vezi sa Zaključkom Vlade Republike Hrvatske (»Narodne novine«, broj 31/23) od 16. ožujka 2023. godine, ministar znanosti i obrazovanja donosi
