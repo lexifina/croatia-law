@@ -1,0 +1,2 @@
+# Članak 5.
+Ministar financija uskladit će Pravilnik o doprinosima (»Narodne novine«, br. 2/09., 9/09. - ispravak, 97/09., 25/11., 61/12., 86/13., 157/14., 128/17. i 1/19.) i Pravilnik o načinu izvješćivanja, obliku i sadržaju te roku podnošenja izvješća o obračunanom dodatnom doprinosu za zdravstveno osiguranje (»Narodne novine«, br. 28/09. i 160/13.) s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
