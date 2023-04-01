@@ -1,0 +1,9 @@
+# Članak 47.
+Članak 138. mijenja se i glasi:
+»(1) Hrvatski zavod za hitnu medicinu jest zdravstvena ustanova za obavljanje djelatnosti hitne medicine, sanitetskog prijevoza i telemedicine.
+(2) Djelatnost hitne medicine organizira se u svrhu neprekidnog hitnog medicinskog zbrinjavanja svih osoba kojima je zbog bolesti, stradanja ili ozljede neposredno ugrožen život, pojedini organ ili dijelovi tijela odnosno kod kojih bi u kratkom vremenu moglo doći do životne ugroženosti, a radi maksimalnog skraćenja vremena od nastanka hitnog stanja do konačnog medicinskog zbrinjavanja.
+(3) Djelatnost hitne medicine obuhvaća provođenje mjera i postupaka hitnog izvanbolničkog medicinskog zbrinjavanja na mjestu događaja ili u prostoru za reanimaciju / ambulanti zavoda za hitnu medicinu ili tijekom prijevoza oboljelih i ozlijeđenih osoba prijevoznim sredstvima hitne medicinske službe u odgovarajuću zdravstvenu ustanovu te provođenje mjera i postupaka hitnog bolničkog medicinskog zbrinjavanja u bolničkoj zdravstvenoj ustanovi.
+(4) Djelatnost sanitetskog prijevoza obuhvaća prijevoz bolesnika u svrhu pružanja zdravstvenih usluga vozilom za sanitetski prijevoz s propisanom medicinsko-tehničkom opremom za siguran prijevoz bolesnika.
+(5) Mrežu hitne medicine i sanitetskog prijevoza na prijedlog Hrvatskog zavoda za hitnu medicinu, uz prethodno pribavljeno mišljenje predstavničkih tijela jedinica područne (regionalne) samouprave odnosno Grada Zagreba odlukom donosi ministar.
+(6) Organizaciju i način obavljanja hitne medicine i sanitetskog prijevoza na prijedlog Hrvatskog zavoda za hitnu medicinu pravilnikom propisuje ministar uz prethodno pribavljeno mišljenje nadležnih komora.
+(7) Ako tijelo iz stavka 6. ovoga članka u roku od 30 dana od dana kada je zatraženo ministru ne dostavi mišljenje iz stavka 6. ovoga članka, smatra se da je dalo pozitivno mišljenje.«.

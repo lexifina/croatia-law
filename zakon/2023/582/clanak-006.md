@@ -1,0 +1,4 @@
+# Članak 6.
+Članak 20. mijenja se i glasi:
+»(1) Načelo integracije uključujući i funkcionalnu integraciju osigurava suradnju zdravstvenih ustanova na svim razinama zdravstvene djelatnosti, uz restrukturiranje na osnovi zajedničkog razvoja, unaprjeđenja i usklađivanja procesa upravljanja, dijagnostičko-terapijskih postupaka, dobre kliničke prakse, dugotrajne skrbi i skrbi za kompleksne pacijente, kao i svih drugih oblika operativnih metodologija usmjerenih prema boljoj kvaliteti zdravstvenih usluga, ishoda liječenja te povećanoj djelotvornosti i dugoročnoj racionalizaciji troškova sustava zdravstva.
+(2) Način i mjerila suradnje zdravstvenih ustanova na svim razinama zdravstvene djelatnosti kroz funkcionalnu integraciju te način praćenja provedbe funkcionalne integracije pravilnikom propisuje ministar.«.

@@ -1,0 +1,5 @@
+# Članak 52.
+U članku 155. iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+»(5) Zdravstveni radnici iz stavka 2. ovoga članka koji su u radnom odnosu u zdravstvenoj ustanovi čiji je osnivač Republika Hrvatska, jedinica lokalne i područne (regionalne) samouprave odnosno Grad Zagreb u mreži javne zdravstvene službe mogu nastaviti raditi do navršenih 68 godina života uz prethodnu suglasnost poslodavca.
+(6) Zdravstveni radnici iz stavka 5. ovoga članka mogu nastaviti raditi i nakon navršenih 68 godina života uz prethodnu suglasnost poslodavca i ministra.
+(7) Djelatnici zdravstvenih službi Ministarstva obrane i Oružanih snaga Republike Hrvatske koji pružaju zdravstvenu zaštitu djelatnicima Ministarstva obrane i Oružanim snagama Republike Hrvatske, za potrebe stručnog usavršavanja kao i radi potrebe pružanja zdravstvene zaštite, mogu u zdravstvenim ustanovama obavljati zdravstvenu djelatnost u okviru odobrenja za samostalan rad, pod uvjetom sklopljenog ugovora između zdravstvene ustanove i Ministarstva obrane.«.

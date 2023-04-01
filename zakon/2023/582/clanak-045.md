@@ -1,0 +1,7 @@
+# Članak 45.
+Iza članka 133. dodaju se članci 133.a i 133.b koji glase:
+»Članak 133.a
+(1) U slučaju nastupanja posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, zbog kojih je potrebno brzo i učinkovito poduzimanje aktivnosti iz nadležnosti zavoda za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba, Hrvatski zavod za javno zdravstvo odlukom ministra preuzima ulogu koordiniranja i rukovođenja svim zavodima za javno zdravstvo jedinice područne (regionalne) samouprave odnosno Grada Zagreba, koji su obvezni postupati po naredbama Hrvatskog zavoda za javno zdravstvo.
+(2) U slučaju nastupanja okolnosti iz stavka 1. ovoga članka Hrvatski zavod za javno zdravstvo ovlašten je koordinirati i rukovoditi organizacijom i obavljanjem poslova zavoda za javno zdravstvo jedinica područne (regionalne) samouprave odnosno Grada Zagreba iz članka 134. ovoga Zakona dok te okolnosti traju.
+Članak 133.b
+Hrvatski zavod za javno zdravstvo nadzire provedbu aktivnosti zavoda za javno zdravstvo jedinica područne (regionalne) samouprave odnosno Grada Zagreba putem prikupljanja ciljanih izvješća i provedbom redovitog i izvanrednog stručnog nadzora te nalaže mjere za unaprjeđenje rada zavoda za javno zdravstvo jedinica područne (regionalne) samouprave odnosno Grada Zagreba.«.

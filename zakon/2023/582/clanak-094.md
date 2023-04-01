@@ -1,0 +1,4 @@
+# Članak 94.
+(1) Do sklapanja novih ugovora o radu preuzeti radnici domova zdravlja koji obavljaju djelatnost sanitetskog prijevoza nastavljaju obavljati poslove te zadržavaju pravo na plaću, druga prava iz radnog odnosa te obveze i odgovornosti prema dosadašnjim ugovorima o radu.
+(2) U roku od šest mjeseci od dana stupanja na snagu ovoga Zakona radnicima iz stavka 1. ovoga članka ponudit će se sklapanje novog ugovora o radu.
+(3) Ako radnik iz stavka 1. ovoga članka ne prihvati sklapanje novog ugovora o radu ili se u roku koji odredi zavod za hitnu medicinu jedinice područne (regionalne) samouprave odnosno Grada Zagreba ne izjasni o ponudi sklapanja novog ugovora o radu ili se izjasni nakon isteka ostavljenog roka odnosno ako mu sklapanje novog ugovora o radu neće biti ponuđeno u roku iz stavka 2. ovoga članka, primjenjuju se opći propisi o radu.

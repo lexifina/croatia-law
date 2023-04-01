@@ -1,0 +1,3 @@
+# Članak 77.
+(1) Vlada Republike Hrvatske obvezna je u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona imenovati članove upravnih vijeća u zavodima za javno zdravstvo i zavodima za hitnu medicinu jedinica područne (regionalne) samouprave iz članka 83. stavka 5. koji je izmijenjen člankom 24. ovoga Zakona.
+(2) Jedinica područne (regionalne) samouprave odnosno Grad Zagreb obvezan je u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona imenovati članove upravnih vijeća u zavodima za javno zdravstvo i zavodima za hitnu medicinu jedinica područne (regionalne) samouprave iz članka 83. stavka 5. koji je izmijenjen člankom 24. ovoga Zakona.
