@@ -1,0 +1,1 @@
+Odluka o isplati jednokratnog novčanog primanja korisnicima prava u sustavu socijalne skrbi i sustavu skrbi o hrvatskim braniteljima iz Domovinskog rata radi ublažavanja posljedica rasta troškova života
