@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Društvo HEP - Operator distribucijskog sustava d.o.o. dužno je očitati stanje brojila za kupce iz članka 3. stavaka 1., 2. i 3. ove Uredbe i svakom kupcu iz članka 3. stavaka 1., 2. i 3. ove Uredbe u roku od 30 dana od dana stupanja na snagu ove Uredbe, dostaviti podatke o njegovoj potrošnji električne energije za razdoblje od 1. listopada 2022. do 31. ožujka 2023.
+(2) Društvo HEP - Operator distribucijskog sustava d.o.o. će za kupce iz članka 3. stavka 1. ove Uredbe dostaviti podatak o prosječnoj potrošnji električne energije iz članka 3. stavka 6. ove Uredbe.
+(3) Opskrbljivač električne energije će za kupce iz članka 3. stavka 1. ove Uredbe, sukladno dostavljenim podacima društva HEP - Operator distribucijskog sustava d.o.o. iz stavka 2. ovoga članka, po završetku svakog šestomjesečnog razdoblja, izvršiti konačni obračun potrošenog i uplaćenog iznosa sukladno Pravilniku iz članka 3. stavka 6. ove Uredbe.
