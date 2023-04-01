@@ -1,0 +1,3 @@
+# Članak 39.
+(1) Ministar nadležan za unutarnje poslove uskladit će Pravilnik o obrascima i zbirkama podataka u postupku odobrenja međunarodne i privremene zaštite (»Narodne novine«, br. 85/16.) s odredbama ovoga Zakona u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
+(2) Ministar nadležan za poslove socijalne skrbi, uz prethodnu suglasnost ministra nadležnog za poslove stambenog zbrinjavanja, uskladit će Pravilnik o sudjelovanju azilanata, stranaca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom u plaćanju troškova smještaja (»Narodne novine«, br. 59/18.) s odredbama ovoga Zakona u roku od dva mjeseca od dana stupanja na snagu ovoga Zakona.
