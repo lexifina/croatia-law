@@ -1,0 +1,12 @@
+## II. OSNOVNI POJMOVI
+# Članak 2.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeća značenja:
+(1) Evidencija je svaki skup strukturiranih, uređenih, međusobno povezanih i usklađenih podataka koju vodi, u informacijskom sustavu pogodnom za razmjenu podataka, Ministarstvo znanosti i obrazovanja (dalje u tekstu: Ministarstvo), visoko učilište i Agencija za znanost i visoko obrazovanje (dalje u tekstu: Agencija). Evidencija koju vodi visoko učilište podrazumijeva i evidenciju koju vodi pravna osoba koja pruža usluge studentskog standarda, a čije je visoko učilište osnivač.
+(2) Informacijski sustav je računalni sustav koji se sastoji od više komponenti povezanih tako da obavljaju funkcije prikupljanja, obrade, pohranjivanja i diseminacije informacija.
+(3) Središnja evidencija visokog obrazovanja Republike Hrvatske (u daljnjem tekstu: Središnja evidencija) je centralna evidencija koju vodi Ministarstvo u Informacijskom sustavu evidencija u visokom obrazovanju u koji se elektronički dostavljaju ili preuzimaju podaci iz evidencija koje vodi ministarstvo, visoko učilište i Agencija. Podaci se mogu unijeti u Središnju evidenciju i izravnim, kontroliranim unosom kroz korisničko sučelje predviđeno za unos podataka od strane ovlaštenih korisnika informacijskog sustava, ako dostavljanje ili preuzimanje putem programskog aplikacijskog sučelja nije moguće.
+(4) Informacijski sustav visokog učilišta je informacijski sustav za podršku poslovnim procesima povezanim s nastavom na visokom učilištu i praćenjem tijeka studiranja studenata.
+(5) Preuzimanje podataka odnosi se na preuzimanje podataka putem programskog aplikacijskog sučelja iz evidencija visokih učilišta i Agencije.
+(6) Dostavljanje podataka odnosi se na isporuku podataka putem programskog aplikacijskog sučelja iz evidencija visokih učilišta i Agencije.
+(7) Interoperabilnost predstavlja sposobnost različitih sustava za međusobnu razmjenu podataka putem programskog aplikacijskog sučelja.
+(8) Autentičan podatak je podatak koji je istinit, cjelovit, vjerodostojnog podrijetla i potvrđene izvornosti te je kao takav određen zakonom ili proizlazi iz svrhe uspostave evidencije određene zakonom.
+(9) Podatkovni sadržaj je skup podataka koji uključuje osobne podatke u skladu s propisima koji reguliraju zaštitu osobnih podataka, kao i druge podatke koji se obrađuju u evidencijama i registrima sa svrhom obavljanja zakonom određenih poslova i zadaća javnopravnih tijela.
