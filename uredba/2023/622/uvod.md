@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 2. Zakona o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske (»Narodne novine«, br. 123/17. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 30. ožujka 2023. donijela
