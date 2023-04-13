@@ -1,0 +1,6 @@
+# Članak 30.
+(1) Kada se žalba podnosi putem AGRONET-a, Agencija za plaćanja ocjenjuje jesu li navodi žalbe osnovani. Ako žalba nije osnovana, Agencija za plaćanja prihvaća odluku u AGRONET-u bez odgode od zaprimanja žalbe i na taj način upućuje žalbu korisnika Ministarstvu na odlučivanje.
+(2) Kada se žalba podnosi neposredno ili preporučenom pošiljkom, u slučaju kada nije moguće podnošenje putem AGRONET-a, Agencija za plaćanja ocjenjuje jesu li navodi iz žalbe korisnika osnovani. Ako žalba nije osnovana, uputit će žalbu korisnika bez odgode od zaprimanja žalbe Ministarstvu na odlučivanje zajedno sa spisom predmeta.
+(3) Iznimno od stavka 1. i 2. ovoga članka, kada Agencija za plaćanja ocijeni navode iz žalbe osnovanim donijet će ispravak odluke, novu odluku kojom će ujedno zamijeniti ranije donesenu odluku koja je bila predmet žalbe ili izmjenu odluke ako se mijenja samo određeni dio odluke.
+(4) Ispravak odluke iz stavka 3. ovoga članka Agencija za plaćanja donijet će u svrhu ispravljanja pogreške u imenima ili brojevima, pisanju ili računanju te druge očite netočnosti u odluci.
+(5) Kada Agencija za plaćanja donese odluke iz stavka 3. ovoga članka, žalba korisnika se ne upućuje Ministarstvu na odlučivanje.

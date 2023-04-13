@@ -1,0 +1,6 @@
+## Isplata sredstava
+# Članak 25.
+(1) Potpora se isplaćuje na žiro račun korisnika naveden u Evidenciji korisnika i/ili na žiro račun društva za osiguranje, ovisno o tome što je navedeno u zahtjevu za isplatu potpore za svaku policu osiguranja za koju se traži potpora.
+(2) U slučaju kada je korisnik u zahtjevu za isplatu potpore naznačio da se isplata izvrši na žiro račun društva za osiguranje, a na temelju dokumenta kojim se dokazuje plaćanje se utvrdi da je korisnik podmirio više od 30 % od ukupne vrijednosti premije osiguranja po pojedinoj polici osiguranja, ali premija osiguranja nije plaćena u cijelosti, potpora se isplaćuje društvu za osiguranje koje je izdalo policu osiguranja na račun koji je naveden u registru bankovnih žiro računa korisnika koji vodi Agencija za plaćanja.
+(3) U slučaju iz stavka 2. ovoga članka društva za osiguranja obvezna su dio iznosa potpore koji se odnosi na premiju osiguranja iznad 30 % ukupne vrijednosti premije osiguranja koju je podmirio korisnik, uplatiti na račun korisnika najkasnije u roku od 30 dana od dana kada je predmetna uplata izvršena od strane Agencije za plaćanja.
+(4) Potpora se isplaćuje jednokratno, a rok za isplatu je 60 dana od dana zaprimanja odluke o isplati potpore.
