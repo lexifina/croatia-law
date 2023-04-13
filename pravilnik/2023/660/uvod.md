@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o proračunu (»Narodne novine« broj 144/21), uz prethodnu suglasnost Ministarstva financija, a u vezi s člankom 2. stavkom 2. i člankom 13. Zakona o Hrvatskoj matici iseljenika (»Narodne novine«, broj 94/18), državni tajnik Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske donosi
