@@ -1,0 +1,14 @@
+## Pojmovi
+# Članak 3.
+(1) Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1) HR gnojidbeni proizvod je tvar, smjesa, mikroorganizam ili bilo koji drugi materijal koji se primjenjuje ili je namijenjen primjeni na biljkama ili njihovoj rizosferi, ili na gljivama ili njihovoj mikosferi, ili koji je namijenjen da čini rizosferu ili mikosferu, samostalno ili pomiješan s drugim materijalom, radi opskrbe biljaka ili gljiva hranjivima ili poboljšavanja učinkovitosti njihove ishrane kad se na tržište Europske unije prvi put stavlja u Republici Hrvatskoj
+2) EU gnojidbeni proizvod je tvar, smjesa, mikroorganizam ili bilo koji drugi materijal koji se primjenjuje ili je namijenjen primjeni na biljkama ili njihovoj rizosferi, ili na gljivama ili njihovoj mikosferi, ili koji je namijenjen da čini rizosferu ili mikosferu, samostalno ili pomiješan s drugim materijalom, radi opskrbe biljaka ili gljiva hranjivima ili poboljšavanja učinkovitosti njihove ishrane s oznakom CE kada se stavlja na raspolaganje na tržištu Republike Hrvatske
+3) stavljanje na tržište HR gojidbenog proizvoda je prvo stavljanje na raspolaganje HR gnojidbenog proizvoda na tržište Europske unije u Republici Hrvatskoj
+4) stavljanje na raspolaganje HR gnojidbenog proizvoda je svaka isporuka HR gnojidbenog proizvoda za distribuciju ili upotrebu na tržištu Republike Hrvatske u okviru trgovačke djelatnosti, ili uz naplatu ili besplatno
+5) gospodarski subjekt koji stavlja na tržište HR gnojidbeni proizvod je svaka pravna ili fizička osoba odgovorna za stavljanje HR gnojidbenog proizvoda na tržište, posebno proizvođač, ovlašteni zastupnik, uvoznik, distributer, paker gnojiva koji radi za svoj račun ili bilo koja druga osoba koja mijenja karakteristike HR gnojidbenog proizvoda, uključujući sadržaj oznake HR gnojidbenog proizvoda
+6) proizvođač HR gojidbenog proizvoda je svaka fizička ili pravna osoba koja proizvodi HR gnojidbeni proizvod ili za koju se HR gnojidbeni proizvod dizajnira ili proizvodi te koja taj HR gnojidbeni proizvod stavlja na tržište pod svojim imenom ili žigom
+7) ovlašteni zastupnik je bilo koja fizička ili pravna osoba s poslovnim nastanom u Uniji koju je proizvođač pisanim putem ovlastio da u njegovo ime obavlja određene zadaće
+8) uvoznik HR gojidbenog proizvoda je svaka fizička ili pravna osoba koja na tržište Europske unije prvi put u Republici Hrvatskoj stavlja HR gnojidbeni proizvod iz treće zemlje
+9) distributer HR gnojidbenog proizvoda je svaka fizička ili pravna osoba u opskrbnom lancu koja stavlja HR gnojidbeni proizvod na raspolaganje na tržištu, a nije ni proizvođač ni uvoznik tog proizvoda.
+(2) Ostali pojmovi koji se koriste u ovom Zakonu imaju jednako značenje kao u Uredbi (EU) 2019/1009.
+(3) Pojmovi koji se koriste u ovom Zakonu, a koji imaju rodno značenje, odnose se jednako na muški i ženski rod.
