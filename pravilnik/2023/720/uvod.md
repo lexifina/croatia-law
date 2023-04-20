@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. točke 2., članka 16. stavka 1. točke 1. i članka 68. stavka 4. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 76/22, u daljnjem tekstu: Zakon), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti na sjednici održanoj 6. travnja 2023. donosi

@@ -1,0 +1,8 @@
+## Dostavljanje podataka o radijskim postajama
+# Članak 46.
+(1) Nositelj dozvole za uporabu radiofrekvencijskog spektra mora, ukoliko je to navedeno u dozvoli, prije početka rada radijske postaje prijaviti Agenciji podatke o zemljopisnoj lokaciji i tehničke podatke za postavljenu radijsku postaju ili izmjenu podataka o postojećoj radijskoj postaji.
+(2) Operator koji upotrebljava radiofrekvencijski spektar prema općoj dozvoli mora, ukoliko je to navedeno u dozvoli, prije početka rada radijske postaje prijaviti Agenciji podatke o zemljopisnoj lokaciji i tehničke podatke za svaku postavljenu radijsku postaju ili izmjenu parametara postojeće radijske postaje.
+(3) Nositelj dozvole može podnijeti prijavu za izmjenu parametara radijske postaje u odnosu na postojeću dozvolu za uporabu radiofrekvencijskog spektra u radiodifuziji izdanu prema članku 78., 79. ili 80. Zakona.
+(4) Ukoliko zahtjev za izmjenu parametara iz stavaka 3. ovog članka ocijeni opravdanim, Agencija će nositelju dozvole izdati odobrenje za izmjenu parametara, nakon čega nositelj dozvole može pustiti u rad radijsku postaju prema izmijenjenim parametrima.
+(5) Prijave iz stavaka 1., 2. i 3. ovog članka podnose se putem obrazaca dostupnih na internetskim stranicama Agencije ili alternativno elektroničkim putem za registrirane korisnike, odnosno na drugi prikladan i javno dostupan način.
+(6) Prilikom podnošenja prijave iz stavka 1. i 3. ovog članka, za radijske postaje za radiodifuziju izdanu prema članku 78., 79. ili 80. Zakona, nositelj dozvole obvezan je uz prijavu dostaviti i dokumentaciju iz članka 16. Pravilnika.
