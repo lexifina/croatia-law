@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Nagrada za sportsko ostvarenje iz članka 7. ovoga Pravilnika ostvaruje se za uspjeh u sportovima čiji su nacionalni sportski savezi udruženi u Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor ili Hrvatski sportski savez gluhih odnosno u kojima su sportaši ostvarili poredak ili rezultat na natjecanjima koja organizira taj nacionalni sportski savez, krovno sportsko udruženje ili su pod nadležnošću njegova međunarodnoga sportskog saveza.
+(2) Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor i Hrvatski sportski savez gluhih svojim općim aktima određuju koja su to natjecanja iz članka 7. stavka 1. točke 1. ovoga Pravilnika.
