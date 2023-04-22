@@ -1,0 +1,12 @@
+# Članak 3.
+(1) Poljoprivredni proizvođači mogu koristiti sjeme s poljoprivrednog gospodarstva iz skupina strnih žitarica, uljarica i predivog bilja koje proizvode na vlastitom poljoprivrednom gospodarstvu isključivo u svrhu sjetve na vlastitom gospodarstvu.
+(2) Poljoprivrednom proizvođaču je zabranjeno stavljati na tržište sjeme iz stavka 1. ovoga članka.
+(3) Poljoprivredni proizvođači koji su u obavezi dorađivati sjeme s poljoprivrednog gospodarstva moraju biti upisani u Upisnik dobavljača poljoprivrednog sjemena u skladu s odredbama članka 12. stavka 1. točke 5. Zakona.
+(4) Poljoprivredni proizvođači iz stavka 1. ovoga članka sjeme s poljoprivrednog gospodarstva moraju doraditi u skladu sa člankom 18. Zakona.
+(5) Na sjemenu s poljoprivrednog gospodarstva potrebno je prije sjetve provesti analize u skladu s propisima iz područja biljnog zdravstva.
+(6) Na sjemenu s poljoprivrednog gospodarstva iz skupine uljarica i predivog bilja potrebno je prije sjetve provesti laboratorijsku analizu na prisutnost genetski modificiranih organizama (u daljnjem tekstu: GMO analiza).
+(7) GMO analize iz stavka 6. ovoga članka provode se na sjemenu s poljoprivrednog gospodarstva biljne vrste soje, Glycine max L. i uljane repice, Brassica napus L. (partim).
+(8) Količina sjemena s poljoprivrednog gospodarstva iz koje se uzima uzorak za provedbu analiza iz stavaka 5. i 6. ovoga članka iznosi dvije tone za biljne vrste iz skupine žitarica, a jednu tonu za biljne vrste iz skupine uljarica i predivog bilja, te mora biti fizički odvojena i činiti kompaktnu cjelinu namijenjenu za sjetvu.
+(9) U slučaju nemogućnosti dorade sjemena s poljoprivrednog gospodarstva na vlastitom poljoprivrednom gospodarstvu, poljoprivredni proizvođači mogu sjeme doraditi kod dobavljača upisanih u Upisnik dobavljača poljoprivrednog sjemena u skladu s odredbama članka 12. stavka 1. točke 4. Zakona.
+(10) Poljoprivredni proizvođači iz stavaka 1. i 3. ovoga članka vode evidenciju o podrijetlu sjemena s poljoprivrednog gospodarstva na Obrascu broj 1. koji se nalazi u Dodatku 1. ovoga Pravilnika.
+(11) Ako se dorada sjemena s poljoprivrednog gospodarstva obavlja u skladu s odredbom stavka 9. ovoga članka, sjeme koje dolazi na doradu mora pratiti popunjen Obrazac broj 1. ili popunjen Obrazac broj 2. za prethodnu godinu s rezultatima analize iz stavaka 5. i/ili 6. ovoga članka, a dobavljač izdaje potvrdu poljoprivrednom proizvođaču na Obrascu broj 2. koji se nalazi u Dodatku 1. ovoga Pravilnika.
