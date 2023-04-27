@@ -1,0 +1,3 @@
+## I. UVODNA ODREDBA
+# Članak 1.
+Ovim pravilnikom uređuje se način vođenja elektroničke evidencije iz područja naftnog rudarstva u registru istražnih prostora, registru eksploatacijskih polja, registru dozvola za istraživanje u svrhu trajnog zbrinjavanja ugljikova dioksida u podzemna skladišta, registru dozvola za trajno zbrinjavanje ugljikova dioksida u podzemna skladišta, registru zatvorenih podzemnih skladišta i okolnih skladišnih kompleksa, registru ugovora o istraživanju i eksploataciji ugljikovodika, ugovora o eksploataciji geotermalnih voda i ugovora o podzemnom skladištenju plina te uvođenje zajedničke informatičke platforme.

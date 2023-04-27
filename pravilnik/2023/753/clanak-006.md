@@ -1,0 +1,2 @@
+# Članak 6.
+U registar zatvorenih podzemnih skladišta i okolnih skladišnih kompleksa unose se podaci o svim zatvorenim podzemnim skladištima i okolnim skladišnim kompleksima uključujući njihove privremene i konačne planove postupanja nakon zatvaranja, rješenja o odobrenju prijenosa odgovornosti, prostorne mape i presjeke te dostupne informacije relevantne za procjenu hoće li uskladišteni ugljikov dioksid biti u potpunosti i trajno zatvoren.
