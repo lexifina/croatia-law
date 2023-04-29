@@ -1,0 +1,1 @@
+Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, znanstvenih, kulturnih, zdravstvenih, poljoprivrednih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2023. godinu
