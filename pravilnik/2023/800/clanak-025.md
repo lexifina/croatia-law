@@ -1,0 +1,2 @@
+# Članak 25.
+Zapovjednik postrojbe i zamjenik zapovjednika postrojbe koja ima više od 42 zaposlena profesionalna vatrogasca, moraju imati završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili preddiplomski stručni studij i specijalistički diplomski stručni studij, najmanje pet godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima i položen stručni ispit za vatrogasca s posebnim ovlastima i odgovornostima.

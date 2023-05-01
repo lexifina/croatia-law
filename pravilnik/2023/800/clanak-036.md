@@ -1,0 +1,4 @@
+# Članak 36.
+Vatrogasne postrojbe su dužne uskladiti svoje poslovanje sa odredbama ovog Pravilnika koje propisuju klasifikaciju radnih mjesta i mjerila za utvrđivanje radnih mjesta profesionalnih vatrogasaca u roku od 6 mjeseci od stupanja na snagu.
+Vatrogasne postrojbe čiji osnivači nisu zaključili kolektivni ugovor sa profesionalnim vatrogascima odnosno vatrogasne postrojbe u kojima je plaća određena kolektivnim ugovorom manja od plaće utvrđene Zakonom o vatrogastvu dužne su uskladiti svoje poslovanje sa odredbama ovog Pravilnika koje propisuju koeficijente složenosti poslova profesionalnih vatrogasaca, dodatke, uvećanja i osnovicu.
+Vatrogasne postrojbe i vatrogasne organizacije uz radna mjesta predviđena odredbama ovog Pravilnika mogu propisati i druga radna mjesta potrebna za redovito i nesmetano djelovanje vatrogasne postrojbe i vatrogasne organizacije uz obveznu primjenu odredbi članak 10., 11., 12. i 13. te članka 28. ovog Pravilnika.

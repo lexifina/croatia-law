@@ -1,0 +1,2 @@
+# Članak 24.
+Zapovjednik postrojbe i zamjenik zapovjednika postrojbe koja ima manje odnosno jednako 42 zaposlena profesionalna vatrogasca, moraju imati najmanje kratki stručni studij ili preddiplomski stručni studij u trajanju od tri godine te najmanje pet godina iskustva na poslovima vatrogasca s posebnim ovlastima i odgovornostima i položen stručni ispit za vatrogasca s posebnim ovlastima i odgovornostima.

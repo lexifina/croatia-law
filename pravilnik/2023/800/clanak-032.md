@@ -1,0 +1,2 @@
+# Članak 32.
+Ukoliko kolektivnim ugovorom zaključenim između sindikata i jedinice lokalne i područne (regionalne) samouprave odnosno Gradom Zagrebom nije utvrđeno uvećanje plaće profesionalnih vatrogasaca za obavljanje poslova s posebnim uvjetima rada, za rad noću, prekovremeni rad, rad subotom, rad nedjeljom, pripravnost za vatrogasnu intervenciju i druga prava iz radnog odnosa ili je utvrđeno uvećanje plaće u postotku manjem od propisanog odredbama ovog Pravilnika primjenjuju se odredbe ovog Pravilnika.

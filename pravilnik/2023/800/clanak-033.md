@@ -1,0 +1,3 @@
+# Članak 33.
+Ukoliko kolektivnim ugovorom zaključenim između sindikata i jedinice lokalne i područne (regionalne) samouprave odnosno Gradom Zagrebom koeficijenti složenosti poslova radnih mjesta profesionalnih vatrogasaca nisu utvrđeni ili je plaća određena kolektivnim ugovorom manja od plaće utvrđene Zakonom o vatrogastvu, važećim uredbama koje se odnose na profesionalne vatrogasce i odredbama ovog Pravilnika vatrogasne postrojbe su obvezne primjenjivati odredbe ovog Pravilnika.
+Kolektivnim ugovorom zaključenim između sindikata i jedinice lokalne i područne (regionalne) samouprave odnosno Gradom Zagrebom koeficijenti složenosti poslova radnih mjesta profesionalnih vatrogasaca mogu biti ugovoreni i veći od gornje granice propisane člankom 28. ovog Pravilnika.

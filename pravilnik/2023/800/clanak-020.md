@@ -1,0 +1,2 @@
+# Članak 20.
+Voditelj operativnog centra je osoba koja ima najmanje tri godine radnog iskustva na radnom mjestu operativnog dežurnog vatrogasca vatrogasnog operativnog centra ili vatrogasac-voditelj skupine, ima položen stručni ispit za vatrogasca s posebnim ovlastima i odgovornostima te je osposobljena za rad na računalu i osposobljena za rad na računalnim sustavima koji se koriste u vatrogastvu.

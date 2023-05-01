@@ -1,0 +1,5 @@
+# Članak 35.
+Profesionalni vatrogasci u vatrogasnim postrojbama i vatrogasnim organizacijama, koji su vatrogasci s posebnim ovlastima i odgovornostima, koji danom početka primjene odredbi ovog Pravilnika u navedenima nemaju odgovarajuću stručnu spremu propisanu ovim Pravilnikom, mogu nastaviti obavljati ove poslove pod uvjetom da u roku od pet godina od dana početka njegove primjene steknu odgovarajuću spremu.
+Profesionalni vatrogasci u vatrogasnim postrojbama i vatrogasnim organizacijama koji nisu vatrogasci s posebnim ovlastima i odgovornostima koji danom početka primjene odredbi ovog Pravilnika nemaju odgovarajuću stručnu spremu za radno mjesto propisanu ovim Pravilnikom, mogu nastaviti obavljati poslove radnom mjesta na kojem su zatečeni pod uvjetom da iste obavljaju najmanje godinu dana i da u roku od dvije godine od dana početka njegove primjene steknu odgovarajuću spremu.
+Vatrogasac voditelj skupine izjednačen je s dosadašnjim vatrogascem voditeljem grupe.
+Vatrogasac voditelj vatrogasne desetine izjednačen je sa dosadašnjim vatrogascem voditeljem odjeljenja.

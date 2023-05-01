@@ -1,0 +1,2 @@
+# Članak 11.
+Radna mjesta I. vrste su radna mjesta zapovjednika vatrogasnih organizacija i vatrogasnih postrojbi i njihovih zamjenika za koje je uvjet završen preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili preddiplomski stručni studij i specijalistički diplomski stručni studij odnosno preddiplomski sveučilišni studij ili kratki stručni studij ili preddiplomski stručni studij u trajanju od tri godine.

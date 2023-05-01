@@ -1,0 +1,3 @@
+# Članak 23.
+Vatrogasac - zapovjednik smjene je osoba koja ima najmanje pet godine radnog iskustva na radnom mjestu vatrogasac ili vatrogasac vozač ili najmanje tri godine radnog iskustva na radnom mjestu vatrogasac voditelj skupine, vatrogasac voditelj desetine, vatrogasac - voditelj smjene, zapovjednik vatrogasne postaje / ispostave ili vatrogasac pomoćnik zapovjednika te ima položen stručni ispit za vatrogasca s posebnim ovlastima i odgovornostima.
+U vatrogasnim postrojbama koje imaju više od 42 zaposlena profesionalna vatrogasca vatrogasac - zapovjednik smjene mora imati najmanje završen preddiplomski sveučilišni studij ili kratki stručni studij ili preddiplomski stručni studij u trajanju od tri godine
