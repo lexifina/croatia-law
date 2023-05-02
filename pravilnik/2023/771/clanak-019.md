@@ -1,0 +1,8 @@
+## Osnivanje Odbora za vrednovanje
+# Članak 19.
+(1) Čelnik tijela nadležnog za izradu ili provedbu akta strateškog planiranja, za potrebe organizacije i koordinacije provedbe svakog pojedinog postupka vrednovanja, osniva Odbor za vrednovanje te imenuje predsjednika, dopredsjednika i članove Odbora za vrednovanje.
+(2) Članovi Odbora za vrednovanje akata strateškog planiranja od nacionalnog značaja su predstavnik Koordinacijskog tijela, predstavnik koordinatora za strateško planiranje tijela državne uprave i ostali vanjski i unutarnji članovi prema odluci čelnika tijela nadležnog za izradu i provedbu akta strateškog planiranja.
+(3) Članovi Odbora za vrednovanje akata strateškog planiranja od značaja za jedinice područne (regionalne) samouprave su predstavnik Koordinacijskog tijela, predstavnik regionalnog koordinatora i ostali vanjski i unutarnji članovi prema odluci čelnika tijela nadležnog za izradu i provedbu akta strateškog planiranja.
+(4) Članovi Odbora za vrednovanje akata strateškog planiranja od značaja za jedinice lokalne samouprave su predstavnik regionalnog koordinatora, predstavnik lokalnog koordinatora i ostali vanjski i unutarnji članovi prema odluci čelnika tijela nadležnog za izradu i provedbu akta strateškog planiranja.
+(5) Članovima Odbora za vrednovanje mogu biti imenovane isključivo osobe koje nisu u sukobu interesa u odnosu na ulogu koju su imale u pripremi akta strateškog planiranja (za prethodno vrednovanje) ili njegovoj provedbi (za vrednovanja tijekom i nakon provedbe).
+(6) Čelnik tijela nadležnog za izradu ili provedbu akta strateškog planiranja Odbor za vrednovanje osniva najkasnije u roku 30 dana od dana pokretanja postupka vrednovanja.

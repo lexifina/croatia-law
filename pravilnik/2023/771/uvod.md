@@ -1,0 +1,1 @@
+Na temelju članka 48., stavka 4. Zakona o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske (»Narodne novine«, br. 123/17 i 151/22), ministar regionalnoga razvoja i fondova Europske unije donosi
