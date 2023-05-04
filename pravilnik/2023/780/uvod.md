@@ -1,0 +1,1 @@
+Na temelju odredbi članka 48. stavaka 6. i 8. te članka 54. stavka 4. Zakona o faktoringu (»Narodne novine« broj 94/14, 85/15 i 41/16), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 19. travnja 2023. godine donosi
