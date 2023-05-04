@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), a u vezi s reformskom mjerom C1.1.1. R1 - Nastavak reforme poslovnog okruženja iz Nacionalnog plana oporavka i otpornosti 2021. - 2026., Vlada Republike Hrvatske je na sjednici održanoj 4. svibnja 2023. donijela

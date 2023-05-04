@@ -1,0 +1,1 @@
+Odluka o donošenju Strategije za procjenu ekonomskog učinka propisa na sektor malog i srednjeg poduzetništva za razdoblje od 2023. do 2027. godine i Akcijskog plana za provedbu Strategije za razdoblje od 2023. do 2025. godine
