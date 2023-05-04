@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o Hrvatskom Crvenom križu (»Narodne novine«, broj 71/2010 i 136/20) i članka 13. Zakona o udrugama (»Narodne novine«, broj 74/14, 70/17, 98/19 i 151/22), Skupština Hrvatskog Crvenog križa na 7. sjednici 23. saziva održanoj 29. ožujka 2023. donijela je
