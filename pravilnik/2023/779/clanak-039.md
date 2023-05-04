@@ -1,0 +1,19 @@
+# Članak 39.
+(1) Funkcija koju središnji depozitorij pruža smatra se ključnom ako ispunjava kumulativno sljedeće kriterije:
+a) funkciju pruža središnji depozitorij drugoj infrastrukturi financijskog tržišta, bez obzira na to je li ta druga infrastruktura financijskog tržišta povezana sa središnjim depozitorijem ili trećim stranama koje nisu povezane sa središnjim depozitorijem
+b) nagli prekid te funkcije vjerojatno bi imao bitan negativni utjecaj na treće strane, doveo do zaraze ili bi ugrozio opće povjerenje tržišnih sudionika zbog sistemske važnosti funkcije za treće strane i sistemske važnosti središnjeg depozitorija u pružanju funkcije.
+(2) Pri procjeni bitnog negativnog utjecaja na treće strane, sistemske važnosti funkcije za treće strane i sistemske važnosti središnjeg depozitorija koji pruža funkciju, uzima se u obzir veličina, tržišni udio, vanjska i unutarnja međusobna povezanost, složenost i prekogranične aktivnosti središnjeg depozitorija i grupe središnjeg depozitorija, ako je primjenjivo.
+(3) Kriteriji za procjenu učinka na treće strane uključuju barem sljedeće elemente:
+a) prirodu i doseg aktivnosti, globalni, nacionalni ili regionalni doseg, opseg i broj transakcija; broj korisnika i ugovornih strana, broj korisnika za koje je središnji depozitorij jedini ili glavni pružatelj usluge,
+b) važnost središnjeg depozitorija na lokalnoj, regionalnoj, nacionalnoj ili europskoj razini, ovisno o predmetnom tržištu, a koja se može procijeniti na temelju tržišnog udjela, međusobne povezanosti, složenosti i prekograničnih aktivnosti,
+c) prirodu korisnika i dionika na koje utječe funkcija, kao što su, ali ne isključivo, mali korisnici, korporativni korisnici, financijske institucije koje su korisnici, središnje druge ugovorne strane i javna tijela;
+d) učinak potencijalnog prekida funkcije na tržišta, infrastrukture, korisnike i javne usluge.
+(4) Procjena iz stavka 3. točke (d) može posebno uključivati učinak na likvidnost predmetnog tržišta, utjecaj i razmjer prekida na poslovanje korisnika i kratkoročne likvidnosne potrebe, zamjenjivost funkcija središnjeg depozitorija za druge ugovorne strane, korisnike i javnost, mogućnost i brzinu reakcije korisnika, važnost za funkcioniranje drugih tržišta, učinak na likvidnost, poslovanje, strukturu drugog tržišta; učinak na ugovorne strane povezane s glavnim korisnicima i međusobnu povezanost funkcije s drugim uslugama.
+(5) Funkcija koja je nužna za realno gospodarstvo i financijska tržišta smatra se zamjenjivom ako ju je moguće na prihvatljiv način i unutar razumnog roka zamijeniti te time izbjeći sistemske probleme za realno gospodarstvo i financijska tržišta.
+(6) Pri procjeni zamjenjivosti funkcije uzimaju se u obzir sljedeći kriteriji:
+a) struktura tržišta za tu funkciju i dostupnost zamjenskih pružatelja usluga;
+b) sposobnost drugih pružatelja usluga u smislu kapaciteta, zahtjevi za obavljanje funkcije te potencijalne prepreke za ulazak ili širenje;
+c) poticaj drugih pružatelja usluga da preuzmu te aktivnosti;
+d) vrijeme koje je korisnicima usluge potrebno da prijeđu na novog pružatelja usluge i troškovi tog prijelaza, vrijeme koje je potrebno da drugi tržišni natjecatelji preuzmu funkcije i je li to vrijeme dovoljno da se spriječi znatan prekid ovisno o vrsti usluge.
+(7) Usluga koja se pruža središnjem depozitoriju smatra se ključnom ako njezin prekid može biti znatna prepreka za jednu ključnu funkciju ili više njih ili onemogućiti njezino/njihovo izvršenje. Usluga se ne smatra ključnom ako je drugi pružatelj može pružiti središnjem depozitoriju u razumnom roku na usporediv način u pogledu njezine svrhe, kvalitete i troška.
+(8) Do prekida funkcija ili usluga dolazi ako se funkcije i usluge više ne pružaju u usporedivoj mjeri, pod usporedivim uvjetima i ako nisu usporedive kvalitete, osim ako se promjena u pružanju predmetne funkcije ili usluge odvija pravilno.

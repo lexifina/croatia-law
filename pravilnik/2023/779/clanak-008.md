@@ -1,0 +1,6 @@
+## Dužnosti središnjeg depozitorija tijekom provođenja neposrednoga sanacijskog nadzora
+# Članak 8.
+(1) Središnji depozitorij dužan je omogućiti ovlaštenoj osobi Hanfe neometan pristup svim svojim poslovnim prostorima i uvid u poslovne knjige, poslovnu dokumentaciju te administrativne ili poslovne evidencije, kao i kontrolu informacijske tehnologije i drugih pridruženih tehnologija, u opsegu potrebnom za obavljanje pojedinoga neposrednoga sanacijskog nadzora.
+(2) Članovi uprave i nadzornog odbora, prokuristi, ostali rukovoditelji i zaposlenici središnjeg depozitorija obvezni su ovlaštenoj osobi Hanfe, na njezin zahtjev, dati usmene i pisane odgovore na sva pitanja vezana uz predmet neposrednog sanacijskog nadzora i potkrijepiti ih dokumentacijom, ako je to moguće.
+(3) Obveze iz stavka 2. ovoga članka primjenjuju se na odgovarajući način na izvršne direktore odnosno članove upravnog odbora središnjeg depozitorija.
+(4) Ako središnji depozitorij izdvaja određene aktivnosti na vanjske pružatelje usluga, dužan je omogućiti ovlaštenoj osobi Hanfe obavljanje neposrednog sanacijskog nadzora i u prostorijama pružatelja usluga u opsegu koji je potreban za ostvarivanje cilja neposrednoga sanacijskog nadzora nad tim subjektom.

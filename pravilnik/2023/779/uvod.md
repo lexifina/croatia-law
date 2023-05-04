@@ -1,0 +1,1 @@
+Na temelju članka 587. stavka 3., članka 597. stavka 12., članka 604. stavka 5., članka 605. stavka 3. te članka 619. stavka 7. Zakona o tržištu kapitala (»Narodne novine« br. 65/18, 17/2020, 83/2021 i 151/2022) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 19. travnja 2023. godine donosi
