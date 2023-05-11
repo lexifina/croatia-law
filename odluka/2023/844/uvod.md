@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), a u vezi s Odlukom o proglašenju projekata od strateškog značaja za Hrvate izvan Republike Hrvatske (»Narodne novine«, br. 38/22. i 148/22.), Vlada Republike Hrvatske je na sjednici održanoj 11. svibnja 2023. donijela
