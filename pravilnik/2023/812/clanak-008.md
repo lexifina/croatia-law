@@ -1,0 +1,22 @@
+# Članak 8.
+(1) Članovi posade broda iz članka 3. stavka 1. točke 5. ovoga Pravilnika trebaju biti državljani Republike Hrvatske ili jedne od država članica Europske unije ili Europskog gospodarskog prostora, koji imaju sklopljen ugovor o radu s brodarom.
+(2) Svi članovi posade zaduženi za poslove sigurnosti putnika (muster lista) koji obavljaju javni linijski pomorski promet u Republici Hrvatskoj moraju razumjeti i u skladu sa svojim dužnostima davati naredbe, upute i izvješća na hrvatskom jeziku. Strani državljani koji nisu državljani Republike Hrvatske znanje hrvatskog jezika dokazuju certifikatom izdanim u skladu sa Zajedničkim europskim referentnim okvirom za jezike (CEFRL), standardom razine B1.
+(3) Svi članovi posade zaduženi za održavanje straže na brodovima do 650 BT koji obavljaju javni linijski promet u Republici Hrvatskoj moraju razumjeti i u skladu sa svojim dužnostima davati naredbe, upute i izvješća na hrvatskom jeziku. Strani državljani koji nisu državljani Republike Hrvatske znanje hrvatskog jezika dokazuju certifikatom izdanim u skladu sa Zajedničkim europskim referentnim okvirom za jezike (CEFRL), standardom razine B1.
+(4) Standardi iz propisa koji uređuje uvjete i način održavanja straže te obavljanje drugih poslova na brodovima hrvatske državne pripadnosti na odgovarajući se način primjenjuju na brodovima državne pripadnosti članica Europske unije i Europskog gospodarskog prostora do 650 BT, koji obavljaju javni linijski pomorski promet u Republici Hrvatskoj.
+(5) Standardi iz propisa koji uređuje uvjete i način održavanja straže te obavljanje drugih poslova na brodovima hrvatske državne pripadnosti na odgovarajući se način primjenjuju na brodovima državne pripadnosti članica Europske unije i Europskog gospodarskog prostora, bez obzira na bruto tonažu, koji obavljaju javni linijski pomorski promet između:
+1. luka na kopnu i luka na jednom ili više otoka
+2. luka na otocima.
+(6) Standardi iz propisa koji uređuje broj i stručnu osposobljenost članova posade brodova hrvatske državne pripadnosti na odgovarajući se način primjenjuju na najmanji broj i stručnu osposobljenost članova posade na brodovima državne pripadnosti članica Europske unije i Europskog gospodarskog prostora do 650 BT koji obavljaju javni linijski pomorski promet u Republici Hrvatskoj.
+(7) Standardi iz propisa koji uređuje broj i stručnu osposobljenost članova posade brodova hrvatske državne pripadnosti na odgovarajući se način primjenjuju na najmanji broj i stručnu osposobljenost članova posade na brodovima državne pripadnosti članica Europske unije i Europskog gospodarskog prostora, bez obzira na bruto tonažu, koji obavljaju javni linijski pomorski promet između:
+1. luka na kopnu i luka na jednom ili više otoka
+2. luka na otocima.
+(8) Zapovjednik broda, upravitelj stroja i časnici na brodovima državne pripadnosti država članica Europske unije i Europskog gospodarskog prostora do 650 BT koji obavljaju javni linijski pomorski prijevoz, dužni su položiti ispit iz poznavanja pomorskog zakonodavstva Republike Hrvatske sukladno posebnom propisu, ukoliko ga nisu položili u okviru svog obrazovanja.
+(9) Zapovjednik broda, upravitelj stroja i časnici na brodovima državne pripadnosti država članica Europske unije i Europskog gospodarskog prostora, bez obzira na bruto tonažu, koji obavljaju javni linijski promet između:
+1. luka na kopnu i luka na jednom ili više otoka
+2. luka na otocima
+dužni su položiti ispit iz poznavanja pomorskog zakonodavstva Republike Hrvatske sukladno posebnom propisu, ukoliko ga nisu položili u okviru svog obrazovanja.
+(10) U svrhu utvrđivanja udovoljavanja uvjeta iz članka 3. stavka 1. točke 5. ovoga Pravilnika, odnosno udovoljavanja uvjeta propisanih stavcima 1. do 9. ovoga članka, u postupku javnog nadmetanja za odabir pružatelja usluge javnog linijskog pomorskog prijevoza, brodar, za brod kojim planira obavljati javnu uslugu kao i za zamjenski brod, treba dostaviti:
+1. uvjerenje o najmanjem broju članova posade
+2. muster listu, odnosno popis zaduženja članova posade u odnosu na poslove sigurnosti broda i putnika
+3. izjavu, na obrascu koji čini Prilog 4. ovoga Pravilnika, da će prilikom obavljanja usluge svi članovi posade biti državljani Republike Hrvatske ili druge države članice Europske unije i Europskog gospodarskog prostora, te da imaju sklopljen ugovor o radu s brodarom.
+4. izjavu, na obrascu koji čini Prilog 4. ovoga Pravilnika, o udovoljavanju uvjetima definiranim u stavcima 2. do 9. ovoga članka kako je primjenjivo u odnosu na bruto tonažu broda.

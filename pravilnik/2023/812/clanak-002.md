@@ -1,0 +1,7 @@
+# Članak 2.
+(1) U svrhu ovoga Pravilnika pojedini izrazi imaju sljedeća značenja:
+1) Direktiva 2009/45/EZ je Direktiva 2009/45/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o sigurnosnim pravilima i normama za putničke brodove (preinačena) (Tekst značajan za EGP) kako je izmijenjena i dopunjena
+2) Konvencija znači Međunarodna konvencija o zaštiti ljudskog života na moru iz 1974. godine, (SOLAS 1974.), Međunarodna konvencija o teretnim linijama, 1966., (LL 1966.), Međunarodna konvencija o baždarenju brodova iz 1969. godine, (TMC 1969.), Međunarodna konvencija o sprečavanju onečišćenja s brodova iz 1973. (MARPOL 73/78), Međunarodna konvencija o nadzoru štetnih sustava protiv obrastanja brodova iz 2001. godine, (AFS 2001.) i Međunarodna konvencija o nadzoru i upravljanju brodskim balastnim vodama i talozima iz 2004. godine, (BWM 2004.), kako su izmijenjene i dopunjene te odgovarajući kodeksi obvezujućeg statusa usvojeni unutar Međunarodne pomorske organizacije zajedno s protokolima i njihovim izmjenama, u ažuriranim verzijama
+3) Priznata organizacija je organizacija priznata sukladno Uredbi (EZ) Europskog Parlamenta i Vijeća broj 391/2009
+4) Zakon je Zakon o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine« broj 19/22).
+(2) Ostali pojmovi koji se koriste u ovom Pravilniku jednaki su pojmovima iz Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu.

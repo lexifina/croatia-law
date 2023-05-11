@@ -1,0 +1,5 @@
+# Članak 5.
+U svrhu utvrđivanja udovoljavanja uvjeta iz članka 3. stavka 1. točke 2. ovoga Pravilnika u postupku javnog nadmetanja za odabir pružatelja usluge javnog linijskog pomorskog prijevoza, za brod kojim planira obavljati javnu uslugu kao i za zamjenski brod, treba dostaviti:
+1. statutarne brodske svjedodžbe sa svim pripadnim prilozima i dodatne informacije o mogućim dospjelim ili budućim statutarnim primjedbama, potvrde, isprave i dokumente u svezi udovoljavanja statutarnim zahtjevima glede sigurnosti, zaštite okoliša, smještaja putnika, prijevoza tereta te zaštite pri radu i smještaju posade, izdane od države zastave broda ili priznate organizacije u ime države zastave broda kako je, u ovisnosti o vrsti broda propisano u Prilogu 1. koji je sastavni dio ovoga Pravilnika
+2. svjedodžbu o klasi sa svim pripadajućim prilozima uz dodatne informacije o dospjelim ili budućim uvjetima klase koja mora biti izdana od priznate organizacije
+3. informacije o možebitnim oslobađanjima (izuzećima), jednakovrijednim tehničkim rješenjima ili bilo kakvim ograničenjima izdanim ili odobrenim od pomorske uprave države zastave broda.

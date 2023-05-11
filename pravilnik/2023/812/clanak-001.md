@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom utvrđuju tehnički i sigurnosni standardi u pogledu glavnog i zamjenskog broda hrvatske državne pripadnosti i državne pripadnosti država članica Europske unije i Europskog gospodarskog prostora kojim se obavlja javni linijski pomorski prijevoz u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske i između luka u Republici Hrvatskoj te međunarodni pomorski prijevoz između luka u Republici Hrvatskoj i stranih luka.
