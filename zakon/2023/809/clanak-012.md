@@ -1,0 +1,5 @@
+# Članak 12.
+Članak 13. mijenja se i glasi:
+»(1) Kriterije procjene iz članka 12. stavka 1. podstavka 1. ovog Zakona jedinica za informacije o putnicima određuje i redovito preispituje samostalno ili u suradnji s jednim ili više nadležnih tijela iz članka 16. ovog Zakona, jedinicama nadležnim za informacije o putnicima država članica Europske unije, Europolom ili nadležnim tijelima trećih država.
+(2) Kriteriji procjene iz članka 12. stavka 1. podstavka 1. ovog Zakona temelje se na dostupnim saznanjima o okolnostima počinjenja kaznenog djela iz članka 5. stavka 2. ovog Zakona.
+(3) Kriteriji procjene iz članka 12. stavka 1. podstavka 1. ovog Zakona moraju biti usmjereni, proporcionalni i određeni i ne smiju se temeljiti na rasi ili etničkoj pripadnosti, boji kože, spolu, jeziku, vjeri, političkom ili drugom uvjerenju, nacionalnom ili socijalnom podrijetlu, imovnom stanju, članstvu u sindikatu, dobi, zdravstvenom stanju, invaliditetu, genetskom nasljeđu, rodnom identitetu, izražavanju ili spolnoj orijentaciji.«.

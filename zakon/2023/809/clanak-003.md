@@ -1,0 +1,3 @@
+# Članak 3.
+Članak 2. mijenja se i glasi:
+»Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva (EU) 2016/681 Europskog parlamenta i Vijeća od 27. travnja 2016. o uporabi podataka iz evidencije podataka o putnicima (PNR) u svrhu sprječavanja, otkrivanja, istrage i kaznenog progona kaznenih djela terorizma i teških kaznenih djela (SL L 119/132, od 4. 5. 2016. i SL L 137/20, od 22. 4. 2021.) te se osigurava provedba Provedbene odluke Komisije (EU) 2017/759 od 28. travnja 2017. o zajedničkim protokolima i formatima podataka koje zračni prijevoznici trebaju upotrebljavati pri prijenosu podataka iz evidencije podataka o putnicima (PNR) odjelima za informacije o putnicima (SL L 113/48, od 29. 4. 2017.).«.

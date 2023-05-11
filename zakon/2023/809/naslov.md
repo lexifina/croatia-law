@@ -1,0 +1,1 @@
+Zakon o izmjenama i dopunama Zakona o prijenosu i obradi podataka o putnicima u zračnom prometu u svrhu sprječavanja, otkrivanja, istraživanja i vođenja kaznenog postupka za kaznena djela terorizma i druga teška kaznena djela

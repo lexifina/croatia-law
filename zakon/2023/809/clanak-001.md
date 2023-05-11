@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o prijenosu i obradi podataka o putnicima u zračnom prometu u svrhu sprječavanja, otkrivanja, istraživanja i vođenja kaznenog postupka za kaznena djela terorizma i druga teška kaznena djela (»Narodne novine«, br. 46/18. i 114/22.) naziv Zakona mijenja se i glasi: »Zakon o prijenosu i obradi podataka o putnicima u zračnom prometu u svrhu sprječavanja, otkrivanja, istraživanja i vođenja kaznenog postupka ili izvršavanja kaznenih sankcija za kaznena djela terorizma i druga teška kaznena djela«.
