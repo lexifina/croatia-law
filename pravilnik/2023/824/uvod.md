@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 8. Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 20/18, 115/18, 98/19 i 57/22) i članka 57. stavka 7. Zakona o izmjenama i dopunama Zakona o poljoprivrednom zemljištu (»Narodne novine«, broj 57/22) ministrica poljoprivrede, uz prethodno mišljenje ministra nadležnog za financije, donosi
