@@ -1,0 +1,1 @@
+Odluka o financiranju najamnine za privremeno stambeno zbrinjavanje osoba čije su nekretnine oštećene odnosno uništene u potresima na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije 22. ožujka 2020. te 28. i 29. prosinca 2020.

@@ -1,0 +1,1 @@
+Na temelju članka 93. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine«, broj 21/23.), Vlada Republike Hrvatske je na sjednici održanoj 11. svibnja 2023. donijela
