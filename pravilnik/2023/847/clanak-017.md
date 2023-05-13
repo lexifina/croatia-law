@@ -1,0 +1,8 @@
+## VI. KONTROLA NA TERENU I ČUVANJE DOKUMENTACIJE
+# Članak 17.
+(1) Kontrolu na terenu provode djelatnici Upravljačkog tijela.
+(2) Osim djelatnika Upravljačkog tijela iz stavka 1. ovoga članka, kontrolu na terenu mogu obavljati i djelatnici Tijela nadležnog za računovodstvenu funkciju, Tijela za reviziju, predstavnici Europske komisije, Europskog ureda za borbu protiv prijevara (OLAF), Europskog revizorskog suda, Ureda europskog javnog tužitelja i drugih nadležnih revizorskih/nadzornih tijela.
+(3) Kontrola na terenu obuhvaća kontrolu putem VMS uređaja i/ili kontrolu na terenu, a može se provoditi tijekom čitavog razdoblja navedenog u članku 3. stavku 3. ovoga Pravilnika.
+(4) U slučaju da ribarsko plovilo ne posjeduje VMS uređaj ili isti nije u funkciji, kontrola se vrši isključivo kontrolom na terenu.
+(5) Korisnik je dužan čuvati i omogućiti uvid u svu dokumentaciju koja se odnosi na privremenu obustavu ovlaštenim osobama Upravljačkog tijela, Tijela nadležnog za računovodstvenu funkciju, Posredničkog tijela, Tijela za reviziju i tijela uključenih u revizije Programa kao i ovlaštenim predstavnicima Europske komisije, Europskog revizorskog suda, Europskog ureda za borbu protiv prijevara (OLAF), Ureda europskog javnog tužitelja i drugih nadležnih nadzornih/revizorskih tijela. Uputa za čuvanje dokumentacije dostupna je na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/propisi-smjernice/).
+(6) Rok za čuvanje dokumentacije iz stavka 5. ovoga članka je tijekom razdoblja od pet godina od 31. prosinca godine u kojoj je izvršeno posljednje plaćanje potpore u skladu s člankom 82. Uredbe (EU) br. 2021/1060.

@@ -1,0 +1,10 @@
+## Obveze korisnika
+# Članak 5.
+(1) Korisnik je dužan djelovati u skladu s uvjetima iz članka 4. stavka 2. ovoga Pravilnika tijekom razdoblja između podnošenja zahtjeva za potporu i isteka pet godina nakon završnog plaćanja sredstava korisniku.
+(2) Korisnik je dužan voditi odvojeni računovodstveni sustav ili primjereni računovodstveni kod/oznake za sve transakcije vezane uz operaciju za koju mu je dodijeljena potpora odnosno dužan je računovodstveno evidentirati isplate potpore članovima posade na način da bude jasno vidljivo da navedeni iznos predstavlja sredstva potpore iz Europskog fonda za pomorstvo, ribarstvo i akvakulturu.
+(3) Korisnik je dužan dostavljati točne i istinite podatke i/ili izjave te postupati u skladu s odredbama ovoga Pravilnika.
+(4) Korisnik je dužan omogućiti kontrolu na terenu te čuvati i omogućiti dostupnost dokumentacije sukladno članku 17. ovoga Pravilnika.
+(5) Korisnik ne smije obavljati nikakvu ribolovnu aktivnost tijekom perioda privremene obustave ribolovne aktivnosti, te ribarsko plovilo mora biti vezano u luci.
+(6) Iznimno od stavka 5. ovoga članka, korisnik može uslijed nepredviđenih okolnosti ili više sile ili u cilju remonta ribarskog plovila premjestiti ribarsko plovilo uz prethodno pribavljeno odobrenje Upravljačkog tijela. Zahtjev za odobrenje se dostavlja Upravljačkom tijelu na e-adresu: eufondovi.ribarstvo@mps.hr ili pisanim putem na adresu Ministarstva poljoprivrede, Uprave ribarstva, a mora sadržavati opis razloga premještanja ribarskog plovila te naznaku vremena i lokacije premještanja.
+(7) Korisnik, čije plovilo ne posjeduje VMS uređaj ili isti nije u funkciji, dužan je obavijestiti Ministarstvo poljoprivrede, Upravu ribarstva o poziciji ribarskog plovila tijekom privremene obustave na e-adresu: eufondovi.ribarstvo@mps.hr ili pisanim putem.
+(8) Iznimno od stavka 7. ovoga članka, u slučaju kada za vrijeme razdoblja privremene obustave dođe do neočekivanog kvara/prestanka rada VMS uređaja, korisnik je odmah po nastupanju navedene okolnosti dužan o istome obavijestiti Ministarstvo poljoprivrede, Upravu ribarstva te dostaviti obavijest o poziciji ribarskog plovila.
