@@ -1,0 +1,5 @@
+## IV. ZAHTJEV ZA POTPORU, POSTUPAK OBRADE, ODLUČIVANJE I ISPLATA
+# Članak 7.
+(1) Potpora se u okviru ovoga Pravilnika dodjeljuje i isplaćuje na temelju Zahtjeva za potporu podnesenog za vrijeme trajanja privremene obustave iz članka 3. stavka 3. točke a) odnosno točke b) ovoga Pravilnika i dokumentacije za potporu i isplatu koju je korisnik dužan dostaviti Upravljačkom tijelu.
+(2) Popis dokumentacije za potporu i isplatu objavljuje se na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/).
+(3) Dokumentacija za potporu i isplatu za pojedinu privremenu obustavu iz članka 3. stavka 3. ovoga Pravilnika podnosi se u obliku koji je propisan u popisu iz stavka 2. ovoga članka, preporučenom poštom ili osobno, na adresu: Ministarstvo poljoprivrede, Uprava ribarstva, Ulica grada Vukovara 78, 10000 Zagreb, s naznakom: »Dokumentacija za potporu i isplatu u okviru mjere I.9 »Privremeni prestanak ribolovnih aktivnosti« (koćarski ribolov)« za (upisati 2021. ili 2022.) godinu - NE OTVARATI«.
