@@ -1,0 +1,20 @@
+## II. UVJETI PRIHVATLJIVOSTI I OBVEZE KORISNIKA
+## Uvjeti prihvatljivosti
+# Članak 4.
+(1) Za vrijeme trajanja privremene obustave, moraju biti ispunjeni sljedeći uvjeti:
+a) ribarsko plovilo mora posjedovati važeću povlasticu
+b) ribarsko plovilo mora biti u funkciji
+c) iznimno od točke b) ovoga stavka u slučaju da je plovilo bilo u tijeku pregleda za obnovu klase i Svjedodžbe o sposobnosti broda za plovidbu, potvrda Hrvatskog registra brodova o tijeku pregleda za obnovu klase i Svjedodžbe o sposobnosti broda za plovidbu
+d) ribarsko plovilo mora biti upisano u Registar ribarske flote Republike Hrvatske
+e) ribarsko plovilo mora imati dostatnu minimalnu ribolovnu aktivnost od ukupno 120 ribolovnih dana ostvarenih tijekom zadnje dvije kalendarske godine koje prethode podnošenju Zahtjeva za potporu
+f) ribarsko plovilo mora biti autorizirano u segmentu koćarskog ribolova
+g) članovi posade za koje se traži potpora moraju biti zaposleni kod ovlaštenika povlastice za obavljanje poslova na ribarskom plovilu u skladu sa člankom 2. stavkom 1. točkom b) ovoga Pravilnika, u neprekidnom trajanju od najmanje 30 dana prije početka te za vrijeme trajanja privremene obustave, uzimajući u obzir točku h) ovoga stavka
+h) članovi posade za koje se traži potpora, za vrijeme trajanja privremene obustave ne smiju obavljati druge poslove
+i) privremena obustava ne smije biti financirana nikakvim drugim javnim doprinosima
+j) korisnik mora dati suglasnost za uvrštavanje u popis korisnika koji se objavljuje u skladu s člankom 49. stavkom 3. Uredbe (EU) br. 2021/1060
+k) nalaz izvršene kontrole na terenu mora biti pozitivan.
+(2) Na temelju članka 11. Uredbe (EU) br. 2021/1139, neprihvatljivi su zahtjevi za potporu korisnika ako je:
+a) počinio teški prekršaj na temelju članka 42. stavka 1. Uredbe Vijeća (EZ) br. 1005/2008 od 29. rujna 2008. o uspostavi sustava Zajednice za sprečavanje, suzbijanje i zaustavljanje nezakonitog, neprijavljenog i nereguliranog ribolova, o izmjeni uredaba (EEZ) br. 2847/93, (EZ) br. 1936/2001 i (EZ) br. 601/2004 i o stavljanju izvan snage uredaba (EZ) br. 1093/94 i (EZ) br. 1447/1999 (SL L 286 od 29. 10. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 1005/2008) ili članka 90. stavka 1. Uredbe (EZ) br. 1224/2009 od 20. studenoga 2009. o uspostavi sustava kontrole Zajednice za osiguranje sukladnosti s pravilima zajedničke ribarstvene politike, o izmjeni uredbi (EZ) br. 847/96, (EZ) br. 2371/2002, (EZ) br. 811/2004, (EZ) br. 768/2005, (EZ) br. 2115/2005, (EZ) br. 2166/2005, (EZ) br. 388/2006, (EZ) br. 509/2007, (EZ) br. 676/2007, (EZ) br. 1098/2007, (EZ) br. 1300/2008, (EZ) br. 1342/2008 i o stavljanju izvan snage uredbi (EEZ) br. 2847/93, (EZ) br. 1627/94 i (EZ) br. 1966/2006 (SL L 343 od 22. 12. 2009.) ili drugog zakonodavnog akta Europskog parlamenta i Vijeća u okviru Zajedničke ribarstvene politike, a što je utvrđeno od strane nadležnog tijela
+b) bio ili jest uključen u rad, upravljanje ili posjedovanje ribarskog plovila koje se nalazi na Unijinom popisu nezakonitog, neprijavljenog i nereguliranog (NNN) ribolova kako je određeno u članku 40. stavku 3. Uredbe (EZ) br. 1005/2008 ili plovi pod zastavom zemlje s popisa nekooperativnih trećih zemalja iz članka 33. te Uredbe
+c) počinio prijevaru kako je definirana u članku 3. Direktive (EU) 2017/1371 u okviru Europskog fonda za pomorstvo i ribarstvo ili Europskog fonda za pomorstvo, ribarstvo i akvakulturu.
+(3) Detaljne odredbe za primjenu uvjeta prihvatljivosti iz stavka 2. ovoga članka propisane su Pravilima prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo, ribarstvo i akvakulturu, u skladu s Delegiranom uredbom Komisije (EU) 2022/2181 оd 29. lipnja 2022. o dopuni Uredbe (EU) 2021/1139 Europskog parlamenta i Vijeća o Europskom fondu za pomorstvo, ribarstvo i akvakulturu u pogledu razdoblja i datuma neprihvatljivosti zahtjeva za potporu (SL L 288, 9. 11. 2022.). Pravila prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo, ribarstvo i akvakulturu dostupna su na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/propisi-smjernice/).
