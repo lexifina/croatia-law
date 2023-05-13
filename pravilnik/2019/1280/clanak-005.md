@@ -1,3 +1,0 @@
-# Članak 5.
-(1) Ako je zakupnik odnosno korisnik platio zakupninu odnosno naknadu dospjelu u 2019. godini prije sklapanja aneksa o revalorizaciji na temelju članka 2. stavka 1. ovoga Pravilnika, utvrđena razlika između plaćene zakupnine odnosno naknade i revaloriziranog iznosa iz članka 3. ovoga Pravilnika, plaća se u roku od 15 dana od dana ovjere potpisa aneksa ugovora o revalorizaciji ugovorenih zakupnina odnosno naknada kod javnog bilježnika, odnosno pretplaćeni iznos uračunava se u zakupninu odnosno naknadu za sljedeću godinu.
-(2) Za svaku sljedeću godinu, do isteka roka na koji je ugovor sklopljen, zakupnina odnosno naknada plaća se do kraja prosinca tekuće godine.
