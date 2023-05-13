@@ -1,0 +1,1 @@
+Na temelju članka 79. Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, br. 86/08., 61/11., 4/18. i 112/19.), Vlada Republike Hrvatske je na sjednici održanoj 4. svibnja 2023. donijela
