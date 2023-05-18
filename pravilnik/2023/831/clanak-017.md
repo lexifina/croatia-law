@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Ako tijekom školovanja nastupe objektivne okolnosti zbog kojih kadet i vojni stipendist ne može ispuniti zdravstvene, tjelesne i psihičke uvjete za prijam u djelatnu vojnu službu ili ako u obitelji kadeta i vojnog stipendista nastupe okolnosti kao što su smrt ili teška bolest člana uže obitelji te druge promjene obiteljskog statusa kojima bi obitelj kadeta i vojnog stipendista bila dovedena u težak položaj te koje u tolikoj mjeri utječu na kadeta i vojnog stipendista da nije u mogućnosti završiti školovanje, ugovor o kadetskoj službi odnosno ugovor o stipendiranju se raskida bez obveze naknade troškova školovanja.
+(2) Radi utvrđivanja nemogućnosti ispunjavanja zdravstvenih i psihičkih uvjeta za prijam u djelatnu vojnu službu kadet i vojni stipendist se upućuje na izvanredni zdravstveni pregled.
+(3) U svim ostalim slučajevima kadet i vojni stipendist obvezan je nadoknaditi troškove školovanja.
