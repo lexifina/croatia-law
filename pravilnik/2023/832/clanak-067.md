@@ -1,0 +1,3 @@
+# Članak 67.
+(1) Osobe iz članka 53. stavka 1. ovoga Pravilnika iz službi i struka odnosno njihovih specijalnosti raspoređene na ustrojbeno mjesto koje traži dopusnicu za rad utvrđenu posebnim propisima, dužne su sudjelovati na aktivnostima trajnog usavršavanja propisanim za stjecanje i obnavljanje dopusnica za rad.
+(2) Ustrojstvene jedinice u kojima su raspoređene osobe iz stavka 1. ovoga članka dužne su im osigurati troškove kotizacije i omogućiti sudjelovanje u navedenim oblicima stručnog usavršavanja u skladu s planovima izobrazbe, strukovnim smjernicama i rasporedom zadaća pri obavljanju dužnosti.

@@ -1,0 +1,5 @@
+# Članak 59.
+(1) U slučaju prekida specijalističkog usavršavanja krivnjom specijalizanta i neispunjavanja ugovorom preuzetih obveza specijalizant je obvezan nadoknaditi Ministarstvu obrane štetu u protuvrijednosti neto naknada plaća isplaćenih za vrijeme specijalizacije i troškove specijalizacije uvećano za iznos pripadajuće zakonske zatezne kamate.
+(2) U slučaju neispunjenja obveze ostanka u službi iz članka 58. stavka 4. ovoga Pravilnika, specijalizant je obvezan nadoknaditi Ministarstvu obrane štetu u protuvrijednosti neto naknada plaća isplaćenih za vrijeme specijalizacije i troškove specijalizacije uvećano za iznos pripadajuće zakonske zatezne kamate razmjerno neispunjenom dijelu obveze.
+(3) Objektivni razlozi za raskid ugovora o specijalizaciji (bolest ili ozljeda nastala tijekom specijalizacije, prestanak zbog potreba službe, elementarne ili druge nepogode odnosno događaj koji se nije mogao predvidjeti u trenutku sklapanja ugovora) zbog kojih specijalizant ne može završiti specijalizaciju isključuju obveze iz stavaka 1. i 2. ovoga članka.
+5.2. Školovanje uz rad na prijediplomskom, diplomskom i poslijediplomskom studiju

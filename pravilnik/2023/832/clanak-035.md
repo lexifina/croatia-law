@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Na temelju plana međunarodne vojne izobrazbe iz članka 5. ovoga Pravilnika ustrojstvene jedinice Ministarstva obrane i Glavni stožer Oružanih snaga dostavljaju ustrojstvenoj jedinici Ministarstva obrane nadležnoj za ljudske potencijale prijedloge glavnih i pričuvnih kandidata za upućivanje na međunarodnu vojnu izobrazbu u skladu s rokovima navedenim u planu međunarodne vojne izobrazbe.
+(2) Kandidati iz stavka 1. ovoga članka moraju ispunjavati kriterije zemlje primateljice koja provodi izobrazbu te uvjete za upućivanje na vojnu izobrazbu u skladu s odredbama Zakona.
+(3) Prijedlozi glavnih i pričuvnih kandidata za programe slijedno-rastućih izobrazbi trebaju sadržavati i planirani raspored na dužnost nakon završene izobrazbe ako izobrazbe traju dulje od šest mjeseci u kontinuitetu.
+(4) Iznimno od stavka 1. ovoga članka, postupak odabira kandidata za studiranje na poslijediplomskim studijima uz rad provodi se u skladu s odredbama članaka 61., 62., 63., 64., 65. i 66. ovoga Pravilnika.

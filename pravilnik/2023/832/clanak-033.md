@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Djelatnicima koji imaju znanje stranog jezika 85 % i više po ALCPT/ECL metodi za engleski jezik ili po višestupanjskim testovima znanja stranog jezika za njemački, francuski, talijanski, ruski i arapski jezik ili zbroj vještina po STANAG 6001 metodi ne manji od 10, može se, zbog potrebe službe odobriti pohađanje najvišeg stupnja stranog jezika u civilnim obrazovnim ustanovama ako je od završetka zadnje izobrazbe ili posljednjeg testiranja kojim je određen stupanj znanja stranog jezika proteklo više od tri godine.
+(2) Djelatnicima iz stavka 1. ovoga članka refundirat će se plaćeni troškovi izobrazbe do maksimalnog iznosa od 500,00 eura.
