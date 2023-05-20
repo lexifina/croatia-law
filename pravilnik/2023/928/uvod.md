@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 4. Zakona o službenim kontrolama i drugim službenim aktivnostima koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja (»Narodne novine«, broj 52/21) ministrica poljoprivrede donosi
