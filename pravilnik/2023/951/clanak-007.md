@@ -1,0 +1,11 @@
+## Izvješćivanje o rezultatu dijagnostičkog pretraživanja
+# Članak 7.
+(1) O rezultatu dijagnostičke pretrage službeni i nacionalni referentni laboratorij (u daljnjem tekstu: laboratorij) mora odmah, bez odgađanja, izvijestiti Upravu i pošiljatelja (ovlaštena veterinarska organizacija koja je provela uzorkovanje).
+(2) Sva izvješća iz stavka 1. ovoga članka laboratorij dostavlja u elektroničkom obliku (PDF-u) Upravi na e-mail adresu: veterinarstvo.nalazi@mps.hr.
+(3) Izvješća o pozitivnim rezultatima pretraživanja laboratorij mora dostaviti odmah po završetku pretraživanja s naznakom da se radi o poruci visoke važnosti (Microsoft Outlook - oznaka važnosti poruke: visoka (znak uskličnika)).
+(4) Izvješća o pozitivnim rezultatima pretraživanja iz stavka 1. ovoga članka laboratorij dostavlja u elektroničkom obliku (PDF-u) Voditelju službe veterinarske inspekcije u Područnom uredu i Središnjem uredu Državnog inspektorata na e-mail adresu: veterinarstvo.nalazi@dirh.hr.
+(5) Izvješća o negativnim rezultatima pretraživanja na sve bolesti na koje je postavljena sumnja, laboratorij dostavlja u elektroničkom obliku (PDF-u) Voditelju službe veterinarske inspekcije u Područnom uredu i Središnjem uredu Državnog inspektorata na e-mail adresu: veterinarstvo.nalazi@dirh.hr.
+(6) O pozitivnim rezultatima pretraživanja, ovlaštene veterinarske organizacije dužne su izvijestiti subjekte, a o rezultatima pretraživanja čiji se troškovi podmiruju iz sredstava državnog proračuna, ovlaštene veterinarske organizacije dužne su izvijestiti subjekta po njegovom zahtjevu.
+(7) Izvješća o rezultatima pretraživanja iz stavka 1. ovoga članka čije troškove podmiruje subjekt ili držatelj kućnog ljubimca, laboratorij je dužan dostaviti i na adresu subjekta ili držatelja kućnog ljubimca.
+(8) Laboratorij mora jedanput mjesečno, a najkasnije do 15. u mjesecu, za prethodni mjesec, elektroničkim putem Upravi dostaviti izvješće o rezultatima provedenih dijagnostičkih pretraga.
+(9) O svakom pozitivnom rezultatu laboratorijskog pretraživanja ili patoanatomske pretrage koji upućuju na sumnju na bolesti kategorije A te na neku od bolesti kategorije B ili C za koju Republika Hrvatska ima status države slobodne od bolesti, laboratorij je dužan odmah elektroničkim putem obavijestiti Upravu i Središnji ured Državnog inspektorata na e-mail adresu veterinarstvo.nalazi@dirh.hr.
