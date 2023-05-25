@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4. Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (»Narodne novine«, broj 78/15, 114/18 i 119/19) Skupština Hrvatske komore inženjera strojarstva na svojoj 2. sjednici, održanoj 25. svibnja 2023. godine, donosi
