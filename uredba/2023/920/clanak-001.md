@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o načinima i uvjetima napredovanja državnih službenika (»Narodne novine«, br. 77/07., 142/11. i 105/15.), članak 8. mijenja se i glasi:
+»Državni službenik koji ima viši stupanj obrazovanja od onog koji je uvjet za radno mjesto na koje je raspoređen, može napredovati na nerukovodeće radno mjesto za koje je kao uvjet propisan stupanj obrazovanja koji službenik ima, ako na poslovima nižeg stupnja obrazovanja u državnim tijelima ima dvostruko više radnog iskustva od radnog iskustva propisanog kao uvjet za raspored na radno mjesto i ako u istom državnom tijelu radi neprekidno najmanje dvije godine.«.
