@@ -1,0 +1,7 @@
+# Članak 7.
+U javnom pozivu za javno prikupljanje ponuda od ponuditelja će se između ostalog tražiti da dostave:
+- Dokumentaciju koja sadrži osnovne podatke o ponuditelju uz odgovarajuće dokaze iz kojih proizlazi vjerodostojnost tih podataka (ime i prezime, odnosno naziv, adresu prebivališta odnosno sjedišta, OIB, dokaz o državljanstvu za fizičke odnosno dokaz o upisu u sudski, obrtni ili drugi odgovarajući registar za pravne osobe)
+- Izjavu pravne i fizičke osobe s ovjerenim potpisom kod javnog bilježnika, kojom se dokazuje da u posljednjih pet godina pravomoćnom sudskom odlukom ili rješenjem o prekršaju nije izrečena zaštitna mjera zabrane obavljanja određenih djelatnosti ili poslova u pravnoj osobi ili sigurnosna mjera zabrane potpunog ili djelomičnog obavljanja određene dužnosti ili djelatnosti, niti skladištarima koji su zbog nemara prouzročili pad kvalitete robe i umanjenje tržišne vrijednosti robe kojom raspolaže Ravnateljstvo.
+- Izvornik ili ovjerenu presliku potvrde nadležne Porezne uprave kojom se potvrđuje ima li ponuditelj duga po osnovi javnih davanja o kojima službenu evidenciju vodi Porezna uprava, koja ne smije biti starija od trideset (30) dana od dana objave javnog poziva
+- Dokaz o izvršenoj uplati jamčevine
+- Vlastoručno potpisanu izjavu ponuditelja kojom se obvezuje da će u slučaju ako njegova ponuda bude prihvaćena sklopiti ugovor o zakupu o vlastitom trošku, potvrđuje da u cijelosti prihvaća uvjete natječaja te da njegova ponuda ostaje na snazi devedeset (90) dana računajući od dana otvaranja ponuda.

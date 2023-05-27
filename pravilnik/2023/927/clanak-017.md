@@ -1,0 +1,2 @@
+# Članak 17.
+Nadležna služba Ravnateljstva vodi evidenciju o nekretninama u poslovnim knjigama Ravnateljstva, poduzima odgovarajuće radnje i mjere radi uređivanja zemljišnoknjižnog stanja nekretnina te druge potrebne mjere radi zaštite imovinskih prava Ravnateljstva, te vodi evidenciju o naplati prihoda s osnova davanja nekretnina Ravnateljstva u zakup ili po bilo kojoj drugoj osnovi na korištenje i upravljanje trećim osobama te popis dužnika s prijedlogom o poduzimanju daljnjih potrebnih mjere (prisilna naplata, raskid ugovora i dr.) te o tome izvješćuje Ravnatelja.

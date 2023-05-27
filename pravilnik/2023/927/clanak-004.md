@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Ravnateljstvo može dati u zakup neiskorištena skladišta i opremu sukladno javno provedenom natječaju, uz naknadu koja odgovara procijenjenom iznosu zakupnine, osim u slučaju kada je zakonom drugačije određeno.
+(2) Skladišta i oprema iz stavka 1. ovoga članka mogu se dati u zakup fizičkim i pravnim osobama iz članka 8. ovoga Pravilnika i bez naknade, uz uvjet tekućeg i investicijskog održavanja.
+(3) Procijenjeni iznos zakupnine je vrijednost izražena u novcu koja se za određenu nekretninu može postići na tržištu i koja ovisi o odnosu ponude i potražnje u vrijeme njezinog utvrđivanja na području na kojem se nekretnina nalazi.
+(4) Procijenjeni iznos zakupnine nekretnine utvrđuje se sukladno izvješću Porezne uprave na području gdje se nekretnina nalazi.
+(5) Iznimno od odredbe stavka 1. ovog članka, ugovor o zakupu skladišnog prostora sklapa se bez javnog natječaja kada ga sklapaju međusobno Ravnateljstvo i jedinice lokalne i područne (regionalne) samouprave te pravne osobe u vlasništvu ili pretežitom vlasništvu Republike Hrvatske, odnosno pravne osobe u vlasništvu ili pretežitom vlasništvu jedinice lokalne i područne (regionalne) samouprave u slučajevima predviđenim Zakonom o zakupu i kupoprodaji poslovnog prostora.
