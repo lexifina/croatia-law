@@ -1,0 +1,12 @@
+PRILOG II.
+IZRAČUN POTPORE ZA DODATNE TROŠKOVE I/ILI IZGUBLJENE PRIHODE U OKVIRU MJERE II.10. »AKVAKULTURA KOJA OSIGURAVA USLUGE ZAŠTITE OKOLIŠA«
+Izračun potpore:
+A = B × C
+pri čemu je:
+A = iznos potpore za dodjelu
+B = iznos kompenzacije po hektaru ukupne proizvodne površine = 356 eura
+Iznos kompenzacije od 356 eura po hektaru ukupne proizvodne površine izračunat je se u skladu s izračunom provedenim u okviru projekta »Priprema poljoprivredno-okolišnih mjera za zaštitu prirode« (ugovor br. MENP/QBS/12/01) u sklopu projekta financiranog zajmom Međunarodne banke za obnovu i razvoj »Projekt integracije u EU Natura 2000 (NIP) IBRD Zajam br. 8021-HR«.
+C = ukupna proizvodna površina (ha) iz službenih evidencija koje vodi Uprava ribarstva na temelju podataka dostavljenih od strane korisnika na način i u roku propisanom Zakonom o akvakulturi i podzakonskim propisima koji uređuju obveze dostave predmetnih podataka.
+U skladu s člankom 2. točkom 10. Pravilnika o prikupljanju statističkih podataka o akvakulturi (»Narodne novine«, broj 137/21 i 87/22), ukupna proizvodna površina za dodjelu potpore podrazumijeva ukupnu površinu svih proizvodnih objekata koji su bili u proizvodnji tijekom referentne kalendarske godine, pri čemu za potrebe ovoga Pravilnika referentna kalendarska godina podrazumijeva kalendarsku godinu u kojoj se podnosi Zahtjev za potporu.
+Za izračun iznosa potpore za isplatu, ukupna proizvodna površina (ha) podrazumijeva ukupnu površinu svih proizvodnih objekata koji su bili u proizvodnji tijekom referentne kalendarske godine, a koja je utvrđena u okviru kontrole na terenu iz članka 18. stavka 3. ovoga Pravilnika, pri čemu za potrebe ovoga Pravilnika referentna kalendarska godina podrazumijeva kalendarsku godinu u kojoj se podnosi Zahtjev za potporu.
+Izračunati iznos potpore za isplatu ne može prijeći iznos od 20 % godišnjeg prihoda korisnika ostvarenog u posljednjoj financijskoj godini koja prethodi godini podnošenja Zahtjeva za isplatu. Nadalje, izračunati iznos potpore za isplatu ne može prijeći iznos od 35 % godišnjeg prihoda od prodaje proizvoda akvakulture korisnika ostvarenog u posljednjoj financijskoj godini koja prethodi godini podnošenja Zahtjeva za isplatu. U slučaju kada je izračunati iznos potpore za isplatu viši od 20 % godišnjeg prihoda korisnika i/ili od 35 % godišnjeg prihoda od prodaje proizvoda akvakulture i/ili iznosa dodijeljene potpore, korisniku se isplaćuje najmanji od navedena tri iznosa.
