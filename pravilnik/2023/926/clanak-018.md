@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Skladištar nema pravo na naknadu za skladištenje robe iz strateških robnih zaliha, kao ni za manipulativne troškove, za robe koje skladištar tokom godine mora obnavljati radi očuvanja zdravstvene ispravnosti iste, kako bi se u slučaji nastupa okolnosti iz članka 2. Zakona o strateškim robnim zalihama odmah mogla upotrijebiti.
+(2) Umjesto naknade (skladišnine) Skladištar ima pravo korištenje od 30 % do 50 % ukupno uskladištene količine robe, ovisno o roku trajanja i količini robe koja se skladišti, s time da u razdoblju od 01. prosinca do 31. prosinca tekuće godine ukupna količina robe mora biti na skladištu.
+(3) Ukoliko se radi hitnih i nepredviđenih situacija, ukaže potreba za cjelokupno uskladištenom količinom, Skladištar je dužan isporučiti navedenu količinu u roku i dinamikom određenom nalogom za isporuku Ravnateljstva.

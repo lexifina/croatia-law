@@ -1,0 +1,4 @@
+# Članak 9.
+(1) U svrhu osiguranja uskladištene količine i kvalitete robe, Skladištar je dužan dostaviti Ravnateljstvu sredstva osiguranja plaćanja u vrijednosti robe koja se skladišti kao što su: bjanko akceptirane mjenice, potpisane i ovjerene pečatom, s klauzulom »bez protesta«, mjenično očitovanje ovjereno od javnog bilježnika ili bjanko zadužnice solemnizirane od javnog bilježnika, bjanko zadužnice ovjerene od odgovorne osobe kao jamca platca.
+(2) Uz navedeno, skladištar je dužan dostaviti izvadak iz sudskog registra, obrazac BON 1 i podatak o solventnosti, te presliku potpisnog kartona. Skladištar je dužan svake godine do 30. travnja dostaviti BON 1 i podatak o solventnosti.
+(3) Skladištar je dužan pismeno obavijestiti Ravnateljstvo o svakoj promjeni odgovornih osoba, osobe ovlaštene za zastupanje, odgovornog djelatnika za skladište i odgovornog knjigovođe.
