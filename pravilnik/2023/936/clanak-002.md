@@ -1,0 +1,2 @@
+# Članak 2.
+Posebni uvjet za djelatnost zbrinjavanja otpada postupkom D 4 Odlaganje otpada u površinske bazene, D 6 ispuštanje otpada u kopnene vode isključujući mora/oceane i D 7 ispuštanje otpada u mora/oceane uključujući i ukapanje u morsko dno, za otpad iz postrojenja za proizvodnju titan dioksida je da otpad, koji se ispušta odnosno odlaže u površinske bazene, udovoljava zahtjevima za granične vrijednosti emisija otpadnih voda iz postrojenja za proizvodnju titan dioksida propisanim posebnim propisom koji uređuje granične vrijednosti emisija otpadnih voda.
