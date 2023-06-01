@@ -1,0 +1,3 @@
+## Područje primjene
+# Članak 1.
+Ovim se Pravilnikom propisuju uvjeti i način određivanja reprezentativnih tržišta u svrhu prikupljanja podataka o cijenama i količinama određenih poljoprivredno-prehrambenih proizvoda i određenih poljoprivrednih inputa (u daljnjem tekstu: poljoprivredni proizvodi), uvjeti koje moraju ispunjavati fizičke i pravne osobe koje su obvezne Ministarstvu dostavljati podatke, vrsta, opseg, način dostave podataka, rokovi i učestalost dostave podataka, administrativna i kontrola na terenu te način izvješćivanja o cijenama poljoprivrednih proizvoda za nacionalne potrebe i potrebe Europske komisije.
