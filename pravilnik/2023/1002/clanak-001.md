@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju uvjeti koje moraju ispuniti obveznici iz članka 9. stavka 2. točke 17. podtočaka f) i g) Zakona o sprječavanju pranja novca i financiranja terorizma - pravne i fizičke osobe koje se bave djelatnošću pružanja usluga povezanih s trustovima i trgovačkim društvima te prometom plemenitih metala i dragog kamenja za upis u registar, sadržaj zahtjeva za upis u registar, dokumentacija koju je potrebno priložiti zahtjevu, način vođenja registra, obveza izvješćivanja Ministarstva financija - Financijskog inspektorata i način procjene dobrog ugleda.
+(2) Registar pravnih i fizičkih osoba koje se bave djelatnošću pružanja usluga povezanih s trustovima i trgovačkim društvima te prometom plemenitih metala i dragog kamenja vodi Ministarstvo financija - Financijski inspektorat.

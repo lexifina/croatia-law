@@ -1,0 +1,1 @@
+Pravilnik o upisu u registar i vođenju registra pravnih i fizičkih osoba koje se bave djelatnošću pružanja usluga povezanih s trustovima i trgovačkim društvima te prometom plemenitih metala i dragog kamenja
