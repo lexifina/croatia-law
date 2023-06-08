@@ -1,0 +1,6 @@
+# Članak 1.
+U Uredbi o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja (»Narodne novine«, br. 37/14., 154/14., 30/21. i 75/22.), u članku 7.a iza podstavka 5. briše se točka i dodaju se podstavci 6., 7., 8. i 9. koji glase:
+» - građevine Vlade Republike Hrvatske, Hrvatskoga sabora i tijela državne uprave prema zakonu kojim se uređuje ustrojstvo i djelokrug tijela državne uprave
+- građevine javne namjene pravnih osoba kojima je osnivač Republika Hrvatska uključujući i izdavanje rješenja o izmjeni i/ili dopuni lokacijskih i građevinskih dozvola izdanih od upravnog odjela, odnosno službe velikog grada, grada sjedišta županija, Grada Zagreba, odnosno županije
+- građevine zdravstvenih ustanova kojima je osnivač Republika Hrvatska, uključujući i izdavanje rješenja o izmjeni i/ili dopuni lokacijskih i građevinskih dozvola izdanih od upravnog odjela, odnosno službe velikog grada, grada sjedišta županija, Grada Zagreba, odnosno županije
+- građevine sveučilišta kojima je osnivač Republika Hrvatska, uključujući i izdavanje rješenja o izmjeni i/ili dopuni lokacijskih i građevinskih dozvola izdanih od upravnog odjela, odnosno službe velikog grada, grada sjedišta županija, Grada Zagreba, odnosno županije.«.
