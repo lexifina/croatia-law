@@ -1,0 +1,3 @@
+# Članak 7.
+Dozvolu za izvoz, uvoz i prijenos između država članica Europske unije robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstva izdaje ministarstvo nadležno za područje gospodarstva.
+Dozvolu za izvoz robe iz Priloga III. Popis nevojnih ubojnih sredstava ove Uredbe, koja se nalazi na Popisu robe s dvojnom namjenom, iz Priloga I. Uredbe (EU) 2021/821 Europskog parlamenta i Vijeća od 20. svibnja 2021. o uspostavi režima Unije za kontrolu izvoza, brokeringa, tehničke pomoći, provoza i prijenosa robe s dvojnom namjenom (preinaka) (SL L 206, 11. 6. 2021.) izdaje ministarstvo nadležno za vanjske i europske poslove.

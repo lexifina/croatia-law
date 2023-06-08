@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.) i članaka 4. i 73. Zakona o nadzoru prometa robe vojne namjene i nevojnih ubojnih sredstava (»Narodne novine«, broj 80/13.), Vlada Republike Hrvatske je na sjednici održanoj 7. lipnja 2023. donijela
