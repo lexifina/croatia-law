@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 1. točke 7. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.), a u svezi s člankom 33. stavkom 2. Zakona o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine«, br. 57/2022. i 88/2022.) Savjet Hrvatske narodne banke na sjednici održanoj 7. lipnja 2023. donio je
