@@ -1,0 +1,1 @@
+Naputak o okvirnom sadržaju, minimalnom skupu podataka te načinu javne objave informacija o trošenju sredstava na mrežnim stranicama jedinica lokalne i područne (regionalne) samouprave te proračunskih i izvanproračunskih korisnika državnog proračuna i jedinica lokalne i područne (regionalne) samouprave
