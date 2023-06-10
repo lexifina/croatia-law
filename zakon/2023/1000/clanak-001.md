@@ -1,0 +1,2 @@
+# Članak 1.
+U članku 1. stavku 1. Zakona o Hrvatskoj komori inženjera tehnologije prometa i transporta (»Narodne novine«, br. 79/07.) riječi: »Hrvatska komora inženjera prometa i transporta« zamjenjuju se riječima: »Hrvatska komora inženjera tehnologije prometa i transporta«, a riječi: »poštansko-telekomunikacijskog prometa« zamjenjuju se riječima: »poštanskog prometa, informacijsko-komunikacijskog prometa«.

@@ -1,0 +1,4 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»(1) Inženjer tehnologije prometa i transporta prema ovome Zakonu je osoba koja je završila odgovarajući sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij i stekla akademski naziv sveučilišni magistar inženjer, ili je završila odgovarajući stručni diplomski studij i stekla stručni naziv magistar inženjer ako je tijekom cijelog svog studija stekla najmanje 300 ECTS bodova, odnosno ako je na drugi način propisan posebnim zakonom stekla kvalifikaciju odgovarajuće razine u odgovarajućem znanstvenom polju.
+(2) Inženjer tehnologije prometa i transporta je i osoba koja je kvalifikaciju stekla u inozemstvu na odgovarajućem visokom učilištu iz polja tehnologije prometa i transporta, čija se kvalifikacija može priznati sukladno posebnom propisu o priznavanju i vrednovanju inozemnih obrazovnih kvalifikacija.«.
