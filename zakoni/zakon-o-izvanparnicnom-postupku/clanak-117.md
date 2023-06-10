@@ -1,0 +1,6 @@
+## GLAVA V. IMENOVANJA, ODREĐIVANJE ROKOVA I DRUGE RADNJE
+## Pokretanje i provedba postupka
+# Članak 117.
+(1) Kad je ovim Zakonom ili drugim zakonom koji sadrži odredbe o izvanparničnom postupku određeno da će sud obaviti određeno imenovanje o kojemu se stranke nisu suglasile ili da će svojom odlukom nadomjestiti izostalu suglasnost stranaka o određivanju nekog roka ili o poduzimanju neke druge radnje, sud će na prijedlog stranke obaviti odgovarajuće imenovanje, odrediti rok ili poduzeti neku drugu radnju.
+(2) U slučajevima iz stavka 1. ovoga članka sud će o prijedlogu za obavljanje radnje prije njezina poduzimanja obavijestiti druge stranke ako su poznate i omogućiti im da se izjasne o prijedlogu u određenom roku.
+(3) U slučajevima u kojima odgovarajuću radnju treba hitno poduzeti, sud može radi izjašnjenja iz stavka 2. ovoga članka odrediti ročište na koje stranke može pozvati i telefonom ili elektroničkom poštom. Ako strankama koje nisu predložile poduzimanje radnje nije moguće obaviti dostavu ili ako ih nije moguće obavijestiti o ročištu na koje su pozvane ili ako su nepoznate adrese ili inače nepoznate, sud im može postaviti privremenog zastupnika. Troškove postavljanja privremenog zastupnika prethodno snosi predlagatelj.

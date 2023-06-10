@@ -1,0 +1,7 @@
+## Likvidacija pologa
+# Članak 100.
+(1) Rješenje o prelasku prava na polog na Republiku Hrvatsku donosi sud koji je donio rješenje o predaji pologa, a ako ono nije doneseno, sud koji je donio rješenje o osnivanju pologa. Kad je javni bilježnik donio javnobilježnički zapisnik o osnivanju ili predaji pologa, rješenje o prelasku prava na polog donosi općinski sud na čijem se području nalazi njegov ured.
+(2) Javni bilježnik koji je donio javnobilježnički zapisnik iz stavka 1. ovoga članka dužan je proslijediti nadležnom sudu spis predmeta.
+(3) Nakon što rješenje o prijelazu prava na Republiku Hrvatsku postane pravomoćno, položeni novac će se uplatiti u proračun Republike Hrvatske, dok će se ostali predmeti pologa u pravilu unovčiti na javnoj dražbi po pravilima ovoga Zakona o dobrovoljnoj prodaji i novčani iznosi ostvareni prodajom uplatiti u proračun Republike Hrvatske.
+(4) Iznimno od odredbe stavka 3. ovoga članka, predmet od osobite kulturne, umjetničke, povijesne i slične vrijednosti predat će se na temelju posebnog rješenja pravnoj osobi prema prijedlogu Republike Hrvatske.
+(5) Prije donošenja rješenja iz stavka 4. ovoga članka sud će o namjeravanoj dražbi obavijestiti ministarstva nadležna za poslove kulture, obrazovanja i znanosti radi utvrđivanja jesu li ispunjeni uvjeti za postupanje prema odredbama stavka 4. ovoga članka. Mišljenje o ispunjavanju uvjeta ministarstva su dužna priopćiti sudu u roku od 30 dana. Nakon isteka navedenog roka predmet pologa će se prodati.

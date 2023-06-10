@@ -1,0 +1,3 @@
+## Primjena odredaba o pologu
+# Članak 120.
+Odredbe članaka 99. i 100. ovoga Zakona primjenjuju se na sudski i javnobilježnički polog osnovan prema odredbama Zakona o sudovima (»Narodne novine«, br. 28/13., 33/15., 82/15., 82/16., 67/18., 126/19., 130/20., 21/22., 60/22. i 16/23.) i Zakona o javnom bilježništvu (»Narodne novine«, br. 78/93., 29/94., 162/98., 16/07., 75/09., 120/16. i 57/22.), osim ako tim zakonima nije određen duži rok čuvanja pologa odnosno ako tim zakonima nisu za osobu koja je polog osnovala ili za onu u čiju je korist polog osnovan određeni povoljniji uvjeti za njegovu likvidaciju od onih koji su utvrđeni ovim Zakonom.

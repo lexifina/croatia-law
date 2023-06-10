@@ -1,0 +1,7 @@
+## Postupanje s pologom čiji preuzimatelj nije poznat
+# Članak 98.
+(1) Ako je kao polog uplaćen novac ili predan predmet za koje predlagatelj ne zna kome ih treba isplatiti odnosno predati ili ako se ne zna koji od više uplaćenih iznosa ili koje dijelove uplaćenih iznosa odnosno koji od više položenih predmeta treba kome isplatiti odnosno predati, sud će zakazati ročište na koje će pozvati predlagatelja i sve osobe za koje prema podacima u spisu i poznatim okolnostima slučaja može pretpostaviti da se na njih odnosi osnivanje, polaganje ili preuzimanje pologa.
+(2) Ako ocijeni da bi to bilo svrhovito, sud može odlučiti da se osobe iz stavka 1. ovoga članka pozovu oglasom objavljenim u »Narodnim novinama«.
+(3) Ako osobe pozvane prema odredbama stavaka 1. i 2. ovoga članka ne dođu na ročište ili se ne sporazumiju o tome što treba učiniti s pologom, sud će ih rješenjem uputiti da u određenom roku podnesu tužbu radi utvrđenja koja je od njih ovlaštena preuzeti polog te da o tome u određenom roku obavijeste sud.
+(4) Ako stranka pokrene parnični postupak u roku koji je za to određen, izvanparnični postupak prekinut će se do okončanja parničnog postupka. Za vrijeme prekida postupka ne teče rok istekom kojega se gubi pravo na predaju pologa.
+(5) Ako stranka parnični postupak ne pokrene u određenom roku, sud će rješenjem pozvati polagatelja da preuzme polog. U tom slučaju primjenjuju se odredbe članka 97. ovoga Zakona.

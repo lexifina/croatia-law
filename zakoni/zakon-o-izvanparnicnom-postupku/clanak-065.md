@@ -1,0 +1,7 @@
+## Obavještavanje o pokretanju postupka za ukidanje ili izmjenu rješenja
+# Članak 65.
+(1) O pokretanju postupka za ukidanje ili izmjenu rješenja o proglašenju nestale osobe umrlom sud će bez odgode obavijestiti nadležni Hrvatski zavod za socijalni rad i ostavinski sud odnosno javnog bilježnika pred kojim je pokrenut ostavinski postupak iza te osobe.
+(2) Ako je ostavinski postupak i dalje u tijeku, ostavinski sud odnosno javni bilježnik odredit će njegov prekid do pravomoćnog završetka postupka za ukidanje odnosno izmjenu rješenja o proglašenju nestale osobe umrlom.
+(3) Ako je ostavinski postupak koji je pravomoćno dovršen obuhvaćao i nekretnine, sud koji odlučuje o ukidanju ili izmjeni rješenja naložit će upis zabilježbe postupka za ukidanje odnosno izmjenu rješenja o proglašenju nestale osobe umrlom u zemljišnoj knjizi.
+(4) Kad sud na temelju izvedenih dokaza odbije prijedlog za ukidanje odnosno izmjenu donesenog rješenja o proglašenju nestale osobe umrlom, obavijestit će o tome nadležni Hrvatski zavod za socijalni rad, sud odnosno javnog bilježnika pred kojim teče ostavinski postupak i zemljišnoknjižni sud radi nastavka prekinutog postupka odnosno brisanja provedene zabilježbe postupka.
+(5) Ako sud ukine rješenje o proglašenju nestale osobe umrlom, ukinut će i rješenje kojim joj je postavljen privremeni zastupnik odnosno poseban skrbnik iz članka 59. stavka 3. ovog Zakona, ako je to prema okolnostima slučaja potrebno.

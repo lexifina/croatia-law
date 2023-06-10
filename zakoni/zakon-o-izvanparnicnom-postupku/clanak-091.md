@@ -1,0 +1,6 @@
+## Obavještavanje sudova i drugih tijela odnosno osoba
+# Članak 91.
+(1) Sud odnosno javni bilježnik obavijestit će bez odgode sud ili javnog bilježnika koji provodi ostavinski postupak o pologu koji se tiče ostavine koja je predmet toga postupka, osim ako iz spisa o pologu nije vidljivo da je sudu ili javnom bilježniku to već poznato.
+(2) Ako se polog tiče postupka radi rješavanja pitanja roditeljske skrbi i mjera zaštite prava i dobrobiti djeteta ili uzdržavanja djeteta, sud ili javni bilježnik koji je donio rješenje odnosno javnobilježnički zapisnik o osnivanju pologa obavijestit će o tome bez odgode sud koji vodi postupak. Ako ocijeni da bi to bilo u interesu djeteta, o tome će obavijestiti i nadležni Hrvatski zavod za socijalni rad.
+(3) Ako se polog tiče jamčevine koju treba položiti u vezi s kaznenim ili prekršajnim postupkom, sud ili javni bilježnik koji je donio rješenje odnosno javnobilježnički zapisnik o osnivanju pologa obavijestit će o tome bez odgode nadležnog državnog odvjetnika ili nadležni sud, u skladu s uvjetima iz odluke o polaganju jamčevine.
+(4) Sud ili javni bilježnik obavijestit će bez odgode o pljenidbi, ustupanju ili drugim promjenama pologa, banku ili drugu osobu kod koje je polog uplaćen ili predan odnosno kojoj je povjereno obavljanje poslova čuvanja i upravljanja vrijednosnim papirima.
