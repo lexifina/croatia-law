@@ -1,0 +1,4 @@
+# Članak 21.
+(1) Financijska agencija, kao izvršitelj obrade podataka određen odlukom Vlade Republike Hrvatske u skladu sa Zakonom o Registru zaposlenih u javnom sektoru (»Narodne novine«, br. 34/11.), nastavlja s radom kao izvršitelj obrade podataka u skladu s odredbama ovoga Zakona.
+(2) Vlada Republike Hrvatske i Financijska agencija sklopit će ugovor iz članka 13. ovoga Zakona najkasnije do isteka Ugovora o pružanju usluga centraliziranog obračuna plaća i upravljanja ljudskim resursima u javnom sektoru koji je sklopljen 29. listopada 2013. na vrijeme od deset godina.
+(3) Odluka Vlade Republike Hrvatske o određivanju izvršitelja obrade podataka u Registru zaposlenih u javnom sektoru i davanju ovlasti za sklapanje ugovora o obavljanju poslova obrade podataka od 14. travnja 2011. ostaje na snazi do 29. listopada 2023.
