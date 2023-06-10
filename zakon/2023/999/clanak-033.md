@@ -1,0 +1,6 @@
+# Članak 33.
+Članak 72. mijenja se i glasi:
+»(1) Ako nadzornik za kontrolu kvalitete uoči nepravilnost u obavljanju poslova razminiranja ili tehničkog izvida, zaustavit će radove te će zahtijevati izvedbu poslova sukladno ugovoru, a ako su odstupanja od ugovorenog načina takva da se ne mogu otkloniti u roku od sat vremena, usmeno će naložiti prekid obavljanja poslova razminiranja ili tehničkog izvida do otklanjanja uočenih nepravilnosti, što će naznačiti u zapisniku o stručnom nadzoru u tijeku.
+(2) Ako pirotehničar za kontrolu kvalitete uoči nepravilnosti u provođenju mjera sigurnosti, zaustavit će radove te usmeno naložiti otklanjanje nepravilnosti, a ako su one takve prirode da se ne mogu otkloniti u roku od sat vremena, naložit će prekid poslova i o tome obavijestiti nadzornika za kontrolu kvalitete bez odgađanja.
+(3) Nadzornik za kontrolu kvalitete dužan je prekid poslova razminiranja naznačiti u zapisniku o stručnom nadzoru u tijeku, a ako se nepravilnosti iz stavaka 1. i 2. ovoga članka ne uklone u propisanom roku od sat vremena, Ministarstvo će izdati rješenje o prekidu poslova razminiranja.
+(4) Protiv rješenja Ministarstva iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor«.
