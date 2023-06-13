@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu (»Narodne novine«, br. 145/22.) u članku 6. iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Sredstva planirana na pozicijama Ministarstva financija, tekućem projektu T767069 Provedba projekata mogu se, uz prethodnu suglasnost Ministarstva, preraspodjeljivati tijekom proračunske godine bez ograničenja za pokriće troškova čije financiranje je bilo predviđeno iz sredstava Europske unije i za pokriće troškova vezanih za nastavak obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije.«.
