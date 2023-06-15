@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu obavljanja opremanja, prijenosa, prijevoza, kremiranja, pogreba i iskopavanja umrlih osoba te o uvjetima glede prostora i opreme pravnih i fizičkih osoba za obavljanje opremanja, prijenosa, prijevoza, kremiranja, pogreba i iskopavanja umrlih osoba (»Narodne novine«, br. 116/18 i 50/20) u članku 4. stavku 1. iza riječi: »bolesti COVID-19 uzrokovane virusom SARS-CoV-2,« dodaju se riječi: »kod pojedinih varijanti odnosno podvarijanti virusa SARS-CoV-2 sukladno posebnim uputama Hrvatskog zavoda za javno zdravstvo,«.
