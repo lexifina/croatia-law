@@ -1,0 +1,6 @@
+# Članak 2.
+(1) Uslugama odgojnih aktivnosti, smještaja i prehrane učeničkoga doma mogu se koristiti redoviti učenici srednjih škola u Republici Hrvatskoj koji se školuju izvan mjesta stalnoga boravka i koji su hrvatski državljani, Hrvati iz drugih država, djeca državljana država Europskoga gospodarskog prostora i Švicarske Konfederacije te djeca državljana zemalja izvan Europskoga gospodarskog prostora i Švicarske Konfederacije.
+(2) Učenički dom prima učenike na smještaj za vrijeme trajanja upisanoga programa obrazovanja u skladu sa statutom učeničkoga doma te odredbama sklopljenoga ugovora o međusobnim pravima i obvezama, o čemu odlučuje odgajateljsko vijeće učeničkoga doma.
+(3) Učenike viših razreda državljane zemalja izvan Europskoga gospodarskog prostora i Švicarske Konfederacije učenički dom prima ako imaju reguliran status boravka sukladno zakonu kojim je uređen status stranaca, uz suglasnost osnivača.
+(4) Na nepopunjena mjesta učenički dom može primiti i studente hrvatskih visokih učilišta s liste prvenstva koju utvrde studentski centri te druge polaznike ako to ne ometa redoviti odgojni rad i život u učeničkome domu.
+(5) S roditeljem/skrbnikom svakog učenika, studentom, odnosno drugim korisnikom usluga učeničkoga doma učenički dom sklapa ugovor o međusobnim pravima i obvezama.
