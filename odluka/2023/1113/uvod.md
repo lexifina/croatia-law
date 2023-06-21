@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), a u vezi s člankom 76. stavkom 5. Zakona o međunarodnoj i privremenoj zaštiti (»Narodne novine«, br. 70/15., 127/17. i 33/23.), Vlada Republike Hrvatske je na sjednici održanoj 21. lipnja 2023. donijela
