@@ -1,0 +1,6 @@
+## Označavanje
+# Članak 6.
+(1) Materijali i predmeti koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju moraju biti označeni ili na ambalaži proizvoda ili na popratnom pratećem dokumentu u skladu s odredbama zakona koji uređuje predmete opće uporabe odnosno u skladu s propisima kojima su uređeni građevni proizvodi te imati istaknutu jasnu namjenu materijala i predmeta i upute za uporabu ako je nužno radi pravilne primjene.
+(2) Osim obveze iz stavka 1. ovoga članka na materijalima i predmetima ili na popratnom pratećem dokumentu treba biti istaknut naziv i adresa pravne osobe koja čini dostupnim materijal ili predmet na tržištu Republike Hrvatske.
+(3) Do donošenja Delegirane Odluke Komisije o ujednačenom označavanju predmeta koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju predmeti koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju moraju biti označeni u skladu s odredbama stavaka 1. i 2. ovoga članka.
+(4) U slučaju donošenja posebne Uredbe ili Delegirane Odluke Komisije o ujednačenom označavanju predmeta koji dolaze u dodir s vodom namijenjenom za ljudsku potrošnju označavanje predmeta je potrebno uskladiti na način uređen tim propisom i u rokovima danim tim propisom.
