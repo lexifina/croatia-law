@@ -1,0 +1,3 @@
+## II. STUDENTI KOJI IMAJU PRAVO NA SUBVENCIONIRANO STANOVANJE
+# Članak 4.
+Pravo na subvencionirano stanovanje iz članka 1. ovoga Pravilnika imaju studenti u redovitom statusu koji su hrvatski državljani, državljani države članice Europske unije, Europskoga gospodarskog prostora i Švicarske Konfederacije te osobe u skladu sa Zakonom o međunarodnoj i privremenoj zaštiti, koji su upisani na visoka učilišta u Republici Hrvatskoj na sveučilišne prijediplomske studije, sveučilišne diplomske studije, sveučilišne integrirane prijediplomske i diplomske studije, stručne kratke studije, stručne prijediplomske studije i stručne diplomske studije te studenti s invaliditetom upisani na doktorske studije pod uvjetima određenim ovim Pravilnikom (u daljnjem tekstu: studenti).
