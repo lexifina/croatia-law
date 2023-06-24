@@ -1,3 +1,0 @@
-## VIII. IZNOS SUBVENCIJA ZA STANOVANJE U STUDENTSKOME I UČENIČKOME DOMU I KOD PRIVATNIH STANODAVACA
-# Članak 24.
-Novčani iznos za subvencionirano stanovanje u studentskome i učeničkome domu, kao i za subvencionirano stanovanje kod privatnoga stanodavca, utvrđuje ministar znanosti i obrazovanja posebnom odlukom, sukladno raspoloživim sredstvima u Državnome proračunu Republike Hrvatske. Ministar znanosti i obrazovanja može odrediti iznos subvencije ovisno o socijalno-ekonomskome statusu studenata. Studenti imaju pravo na subvencionirano stanovanje tijekom akademske godine, osim u razdoblju od 16. srpnja do 31. kolovoza, uz iznimku studenata na koje se odnose odredbe članka 8. ovoga Pravilnika.
