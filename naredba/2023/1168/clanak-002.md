@@ -1,0 +1,2 @@
+# Članak 2.
+Iznimno od odredbe članka 1., stavka 1., zametni proizvodi dobiveni od svinja držanih unutar zona ograničenja, svježe meso i mesni proizvodi, uključujući ovitke, dobivenih od svinja držanih u zonama ograničenja te nusproizvodi životinjskog podrijetla dobiveni od svinja držanih u zonama ograničenja, mogu se premještati izvan zona ograničenja isključivo u svrhu neškodljivog uklanjanja pod nadzorom veterinarske inspekcije.
