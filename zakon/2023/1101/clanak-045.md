@@ -1,0 +1,8 @@
+# Članak 45.
+Članak 136. mijenja se i glasi:
+»(1) Upravno tijelo dužno je od javnopravnog tijela zatražiti utvrđivanje posebnih uvjeta, odnosno uvjeta priključenja u roku od osam dana od dana primitka urednog traženja projektanta.
+(2) Javnopravno tijelo od upravnog tijela odnosno druge osobe ne može u svrhu utvrđivanja posebnih uvjeta, odnosno uvjeta priključenja tražiti plaćanje predujma troškova, odnosno troškova utvrđivanja posebnih uvjeta, odnosno uvjeta priključenja niti dostavu, odnosno izradu drugih dokumenata ili elaborata, osim opisa i grafičkog prikaza građevine i elaborata iz članka 135. stavka 3. ovoga Zakona.
+(3) Javnopravno tijelo dužno je utvrditi posebne uvjete, odnosno uvjete priključenja ili postupak njihova utvrđivanja, rješenjem obustaviti te uvjete, odnosno rješenje dostaviti upravnom tijelu i projektantu u roku od 15 dana od dana primitka traženja.
+(4) Postupak utvrđivanja posebnih uvjeta, odnosno uvjeta priključenja obustavlja se ako njihovo utvrđivanje prema posebnim propisima nije moguće, odnosno ako ne postoji mogućnost priključenja.
+(5) Smatra se da zahvat u prostoru ispunjava posebne uvjete iz posebnih propisa i da su posebni uvjeti izdani te da se može priključiti na infrastrukturu, na način prikazan u opisu i grafičkom prikazu zahvata u prostoru iz članka 135. stavka 4. ovoga Zakona, ako javnopravno tijelo u roku iz stavka 3. ovoga članka upravnom tijelu i projektantu ne dostavi posebne uvjete, odnosno uvjete priključenja ili rješenje kojim se obustavlja postupak utvrđivanja posebnih uvjeta, odnosno uvjeta priključenja.
+(6) Upravno tijelo nakon što su utvrđeni svi propisani posebni uvjeti i uvjeti priključenja, odnosno nakon što je postupak njihova utvrđivanja pravomoćno obustavljen o tome obavještava projektanta.«.

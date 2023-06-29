@@ -1,0 +1,3 @@
+# Članak 61.
+(1) Lokacijska dozvola koju je izdalo upravno tijelo na temelju Zakona o prostornom uređenju (»Narodne novine«, br. 153/13., 65/17., 114/18., 39/19. i 98/19.) ostaje na snazi u pogledu njezina roka važenja sukladno odredbama toga Zakona, a najduže četiri godine od dana stupanja na snagu ovoga Zakona.
+(2) Lokacijska dozvola koju je izdalo Ministarstvo na temelju Zakona o prostornom uređenju (»Narodne novine«, br. 153/13., 65/17., 114/18., 39/19. i 98/19.) ostaje na snazi do isteka roka važenja sukladno odredbama toga Zakona, a najduže šest godina od dana stupanja na snagu ovoga Zakona.

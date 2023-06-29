@@ -1,0 +1,3 @@
+# Članak 60.
+(1) Postupci izdavanja akata za provedbu prostornih planova započeti po Zakonu o prostornom uređenju (»Narodne novine«, br. 153/13., 65/17., 114/18., 39/19. i 98/19.) do dana stupanja na snagu ovoga Zakona dovršit će se po odredbama tog Zakona i propisa donesenih na temelju tog Zakona.
+(2) Idejni projekt u svrhu čije izrade su posebni uvjeti i uvjeti priključenja utvrđeni u postupku započetom prije stupanja na snagu ovoga Zakona izrađuje se na temelju Zakona o prostornom uređenju (»Narodne novine«, br. 153/13., 65/17., 114/18., 39/19. i 98/19.) i prilaže se uz zahtjev za izdavanje lokacijske dozvole u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona, te se na isto ne primjenjuju odredbe članka 49. ovoga Zakona.
