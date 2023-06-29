@@ -1,0 +1,6 @@
+# Članak 1.
+U Zakonu o međunarodnom privatnom pravu (»Narodne novine«, br. 101/17.) iza članka 71. dodaje se članak 71.a koji glasi:
+»Članak 71.a
+(1) Strana sudska odluka o posvojenju djeteta iz zemlje koja nije stranka međunarodnog ugovora kojim se uređuje pitanje međunarodnog posvojenja priznat će se nakon što sud diplomatskim putem provjeri autentičnost te odluke i ako je podnositelj prijedloga, uz dokaz iz članka 67. stavka 1. ovoga Zakona, podnio i dokaz o legalizaciji te odluke sukladno zakonu kojim se uređuje legalizacija isprava u međunarodnom prometu.
+(2) U postupku iz stavka 1. ovoga članka sud Republike Hrvatske će od ministarstva nadležnog za poslove socijalne skrbi zatražiti podatak da je posvojitelj upisan u Registar potencijalnih posvojitelja u Republici Hrvatskoj, ako je posvojitelj u trenutku zasnivanja posvojenja bio obvezan upisati se u Registar potencijalnih posvojitelja u Republici Hrvatskoj.
+(3) Sud Republike Hrvatske dužan je pravomoćnu sudsku odluku o priznanju strane sudske odluke iz stavka 1. ovoga članka dostaviti na znanje ministarstvu nadležnom za poslove socijalne skrbi i Hrvatskom zavodu za socijalni rad radi upisa u Registar posvojenja i praćenja prilagodbe djeteta u posvojiteljskoj obitelji sukladno zakonu kojim se uređuju obiteljski odnosi.«.
