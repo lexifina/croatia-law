@@ -1,0 +1,5 @@
+# Članak 14.
+Nenamjenske donacije i vlastiti prihodi kaznenih tijela su, zakonom kojim se uređuje izvršavanje Državnog proračuna, izuzeti od uplate na račun Državnog proračuna.
+Kaznena tijela koja ostvaruju nenamjenske donacije i vlastite prihode obvezna su podatke o ostvarenim prihodima i utrošenim sredstvima iz tih izvora financiranja evidentirati putem Aplikacije za unos evidencijskih temeljnica (dalje u tekstu: EVT aplikacija), do 5. u mjesecu za prethodni mjesec.
+Ovlaštena osoba u upravnoj organizaciji nadležnoj za zatvorski sustav kontrolira evidencijske temeljnice kaznenih tijela u EVT aplikaciji, svaku pojedinačno odobrava te ih konsolidira do 8. u mjesecu za prethodni mjesec.
+Konsolidiranu temeljnicu u EVT aplikaciji, do 10. u mjesecu za predhodni mjesec, kontrolira i odobrava ovlaštena osoba u Sektoru za proračun i financijsko upravljanje i kontrole te Ministarstvu financija dostavlja obavijest da je konsolidirana temeljnica za prethodni mjesec odobrena i spremna za unos u sustav državne riznice.

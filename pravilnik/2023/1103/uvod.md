@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o proračunu (»»Narodne novine««, broj 144/21.) i članka 45. stavka 6. Zakona o izvršavanju kazne zatvora (»»Narodne novine««, broj 14/21.), ministar pravosuđa i uprave, uz prethodnu suglasnost Ministarstva financija, donosi
