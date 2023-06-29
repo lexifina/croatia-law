@@ -1,0 +1,5 @@
+# Članak 3.
+U članku 60. stavku 2. točka (c) mijenja se i glasi:
+»(c) pisane izjave kreditnih dužnika i, kad je primjenjivo, jamaca kojima se drugoj ugovornoj strani daje bezuvjetna suglasnost na priopćavanje Eurosustavu svih podataka koji su zakonom određeni kao bankovna tajna (uključujući, ali ne ograničavajući se na pojedinosti o dužnicima, jamcima, kreditnom potraživanju i jamstvu), a koji su HNB-u potrebni u svrhu zasnivanja valjanoga financijskog osiguranja kreditnim potraživanjima i korištenja kreditnih potraživanja kao instrumenta financijskog osiguranja uključujući moguću prodaju kreditnih potraživanja radi naplate iz tog instrumenta financijskog osiguranja i kojima se ujedno HNB-u i drugim članicama Eurosustava daje bezuvjetna suglasnost za priopćavanje takvih podataka trećim osobama kojima su ti podaci potrebni za kupnju kreditnih potraživanja.«
+Iza stavka 6. dodaje se novi stavak 7., koji glasi:
+»7. U slučaju odluke HNB-a o neprihvatljivosti kreditnog potraživanja, HNB drugoj ugovornoj strani vraća sve originale dokumenata iz stavka 2. točke (a) koje je primio za to potraživanje.«
