@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 1. Uredbe o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture (»Narodne novine«, br. 134/14. i 40/16.), Vlada Republike Hrvatske je na sjednici održanoj 30. lipnja 2023. donijela
