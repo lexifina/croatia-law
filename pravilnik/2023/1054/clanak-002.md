@@ -1,0 +1,6 @@
+# Članak 2.
+Članak 2. mijenja se i glasi:
+»Ovim se Pravilnikom u pravni poredak Republike Hrvatske prenose sljedeće direktive Europske unije:
+- Direktiva Komisije 2003/90/EZ оd 6. listopada 2003. o utvrđivanju provedbenih mjera za potrebe članka 7. Direktive Vijeća 2002/53/EZ u pogledu minimalnih karakteristika koje se moraju obuhvatiti ispitivanjem i minimalnih uvjeta za pregled nekih sorata poljoprivrednih biljnih vrsta (SL L 254, 8. 10. 2003.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2022/1647 od 23. rujna 2022. o izmjeni Direktive 2003/90/EZ u pogledu odstupanja za ekološke sorte poljoprivrednih biljnih vrsta prikladne za ekološku proizvodnju (SL L 248, 26. 9. 2022.)
+- Direktiva Komisije 2003/91/EZ od 6. listopada 2003. o utvrđivanju provedbenih mjera za potrebe članka 7. Direktive Vijeća 2002/55/EZ u pogledu minimalnih obilježja koja se moraju obuhvatiti ispitivanjem i minimalnih uvjeta za pregled nekih sorata povrća (SL L 254, 8. 10. 2003.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2022/1648 od 23. rujna 2022. o izmjeni Direktive 2003/91/EZ u pogledu odstupanja za ekološke sorte povrtnih vrsta prikladne za ekološku proizvodnju (SL L 248, 26. 9. 2022.)
+- Direktiva Vijeća 2002/55/EZ od 13. lipnja 2002. o stavljanju na tržište sjemena povrća (SL L 193, 20. 7. 2002.)«.

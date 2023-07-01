@@ -1,0 +1,9 @@
+# Članak 3.
+Članak 6. mijenja se i glasi:
+»(1) Prilikom ispitivanja različitosti, ujednačenosti i postojanosti vrste navedene u Dodatku I. ovoga Pravilnika koji je njegov sastavni dio moraju ispuniti uvjete navedene u CPVO protokolima za ispitivanje različitosti, ujednačenosti i postojanosti Ureda Zajednice za zaštitu biljnih sorti (u daljnjem tekstu: CPVO).
+(2) Prilikom ispitivanja različitosti, ujednačenosti i postojanosti vrste navedene u Dodatku II. ovoga Pravilnika koji je njegov sastavni dio moraju ispuniti uvjete navedene u UPOV vodičima za ispitivanje različitosti, ujednačenosti i postojanosti.
+(3) Sve sortne karakteristike u protokolima iz stavka 1. ovoga članka za pripadajuće vrste i sve karakteristike koja su označene zvjezdicom (*) u vodičima za ispitivanje iz stavka 2. ovoga članka za pripadajuće vrste, koriste se pod uvjetom da praćenje karakteristike nije onemogućeno iskazivanjem neke druge karakteristike i pod uvjetom da iskazivanje karakteristike ne priječe uvjeti okruženja u kojem se ispitivanje provodi.
+(4) U pogledu vrsta navedenih u Dodacima I. i II. ovoga Pravilnika, u trenutku pregleda potrebno je osigurati ispunjavanje minimalnih zahtjeva za provedbu ispitivanja u odnosu na shemu pokusa i uvjete rasta, kako je utvrđeno u vodičima odnosno protokolima za ispitivanje.
+(5) Metode koje se koriste za utvrđivanje karakteristika moraju biti precizne i pouzdane.
+(6) Prilikom ispitivanja različitosti moraju se koristiti usporedne sorte navedene u protokolima iz stavka 1. ovoga članka i u vodičima iz stavka 2. ovoga članka.
+(7) Iznimno od odredbi stavaka 1. i 2. ovoga članka u pogledu ujednačenosti, ekološke sorte prikladne za ekološku proizvodnju koje pripadaju vrstama navedenima u Dodatku IV. dijelu A ovoga Pravilnika mogu umjesto toga ispunjavati uvjete navedene u Dodatku IV. dijelu B ovoga Pravilnika.«.
