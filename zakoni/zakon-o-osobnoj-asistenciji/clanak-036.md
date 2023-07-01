@@ -1,0 +1,6 @@
+## Broj sati usluge koju može ostvariti korisnik usluge osobne asistencije koju pruža videći pratitelj
+# Članak 36.
+(1) Uslugu osobne asistencije koju pruža videći pratitelj, a za kojom je procijenjena potreba pomoći na temelju Liste procjene potreba, može ostvariti osoba s invaliditetom u rasponu od 10 do 60 sati mjesečno.
+(2) Uslugu osobne asistencije koju pruža videći pratitelj može ostvariti osoba koja ima oštećenje vida četvrtog stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja, koja nema ostatka osjeta svjetla, koja živi sama ili ima utvrđena dodatna oštećenja ili kronične bolesti prema propisima o vještačenju i metodologijama vještačenja u trajanju od 40 do 60 sati mjesečno.
+(3) Uslugu osobne asistencije koju pruža videći pratitelj može ostvariti osoba koja ima oštećenje vida četvrtog stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja u trajanju od 30 do 40 sati mjesečno.
+(4) Uslugu osobne asistencije koju pruža videći pratitelj može ostvariti osoba koja ima oštećenje vida trećeg stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja u trajanju od 10 do 20 sati mjesečno.

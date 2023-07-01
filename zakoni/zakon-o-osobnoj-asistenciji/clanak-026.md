@@ -1,0 +1,8 @@
+## Povjerenstvo za utvrđivanje ispunjenosti mjerila
+# Članak 26.
+(1) Ispunjenost mjerila za pružanje usluge osobne asistencije utvrđuje se očevidom službene osobe koja vodi postupak uz nazočnost Povjerenstva za utvrđivanje ispunjenosti mjerila koje čine najmanje tri člana.
+(2) Član Povjerenstva iz stavka 1. ovoga članka ne može biti srodnik po krvi u ravnoj liniji, a u pobočnoj liniji do četvrtog stupnja zaključno, bračni drug, izvanbračni drug, životni partner, neformalni životni partner ili srodnik po tazbini do drugog stupnja zaključno i po prestanku braka ili životnog partnerstva, odgovornoj osobi ustanove ili zaposleniku pravne osobe kod koje će Povjerenstvo utvrđivati ispunjenost mjerila za pružanje usluge osobne asistencije.
+(3) Članove Povjerenstva iz stavka 1. ovoga članka imenuje izvršno tijelo jedinice područne (regionalne) samouprave odnosno Grada Zagreba.
+(4) U Povjerenstvo iz stavka 1. ovoga članka imenuju se stručne osobe ovisno o djelatnosti pravne osobe za koju je potrebno utvrditi ispunjenost mjerila, koje imaju položen stručni ili državni ispit.
+(5) O utvrđenom činjeničnom stanju Povjerenstvo iz stavka 1. ovoga članka sastavlja zapisnik s nalazom i mišljenjem, a ako je očevidom utvrđeno da nije ispunjen neki od propisanih mjerila, koji se u razumnom roku može otkloniti, Povjerenstvo će u nalazu i mišljenju odrediti rok za otklanjanje nedostataka.
+(6) U roku od osam dana od dana dobivanja obavijesti o otklanjanju nedostataka Povjerenstvo iz stavka 1. ovoga članka dužno je ponovnim očevidom ili na drugi nesporan način utvrditi da su nedostaci otklonjeni te u roku od osam dana od obavljenog očevida dostaviti jedinici područne (regionalne) samouprave odnosno Gradu Zagrebu zapisnik o obavljenom očevidu.

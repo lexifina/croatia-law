@@ -1,0 +1,4 @@
+## Nastavak pružanja usluge – pružatelj usluge osobne asistencije
+# Članak 83.
+(1) Pružatelj usluge osobne asistencije koji na dan stupanja na snagu ovoga Zakona ima s Ministarstvom sklopljen ugovor za provedbu programa usmjerenih osiguravanju usluge osobne asistencije nastavit će s pružanjem usluge do roka utvrđenog ugovorom i po uvjetima dokumentacije poziva na dostavu projektnih prijedloga na temelju kojeg je ugovor sklopljen.
+(2) Pružatelj usluge osobne asistencije koji na dan stupanja na snagu ovoga Zakona ima sklopljen ugovor o pružanju usluge osobne asistencije s Ministarstvom i Hrvatskim zavodom za zapošljavanje, a koji je sufinanciran iz sredstava Europskog socijalnog fonda, nastavit će s pružanjem usluge do roka utvrđenog ugovorom i po uvjetima dokumentacije poziva na dostavu projektnih prijedloga na temelju kojeg je ugovor sklopljen.

@@ -1,0 +1,12 @@
+## Uvjeti za stručnog komunikacijskog posrednika
+# Članak 22.
+(1) Stručni komunikacijski posrednik mora biti punoljetna zdravstveno sposobna osoba koja ima najmanje završenu razinu obrazovanja 4.2 HKO-a.
+(2) Stručni komunikacijski posrednik za gluhe učenike koji pruža komunikacijsku potporu hrvatskim znakovnim jezikom, osim uvjeta iz stavka 1. ovoga članka, mora imati završen program za stjecanje odgovarajuće kvalifikacije ili skupova ishoda učenja sukladno HKO-u za stručnog komunikacijskog posrednika koji uključuje položen ispit razine B2 o poznavanju hrvatskog znakovnog jezika.
+(3) Stručni komunikacijski posrednik za gluhe učenike koji pruža komunikacijsku potporu u ostalim sustavima komunikacije mora pored uvjeta propisanih stavkom 1. ovoga članka imati završen program obrazovanja odraslih (osposobljavanja) u ostalim sustavima komunikacije.
+(4) Stručni komunikacijski posrednik za gluhoslijepe učenike koji pruža komunikacijsku potporu hrvatskim znakovnim jezikom, osim uvjeta iz stavka 1. ovoga članka, mora imati:
+– završen program obrazovanja odraslih (osposobljavanja) o prilagodbama hrvatskog znakovnog jezika, pristupu, komunikaciji i prevođenju gluhoslijepim osobama koji dodatno uključuje i svladavanje opisivanja okoline te vođenje u vidu pratnje gluhoslijepe osobe i
+– završen program za stjecanje odgovarajuće kvalifikacije ili skupova ishoda učenja sukladno HKO-u za stručnog komunikacijskog posrednika koji uključuje položen ispit razine B2 o poznavanju hrvatskog znakovnog jezika.
+(5) Stručni komunikacijski posrednik za gluhoslijepe učenike koji pruža komunikacijsku potporu u ostalim sustavima komunikacije, osim uvjeta iz stavka 1. ovoga članka, mora imati:
+– završen program obrazovanja odraslih (osposobljavanja) o prilagodbama hrvatskog znakovnog jezika, pristupu, komunikaciji i prevođenju gluhoslijepim osobama koji dodatno uključuje i svladavanje opisivanja okoline te vođenje u vidu pratnje gluhoslijepe osobe i
+– završen program za stjecanje odgovarajuće kvalifikacije ili skupova ishoda učenja sukladno HKO-u osposobljavanja za pružanje komunikacijske podrške gluhoslijepim osobama u ostalim sustavima komunikacije koji uključuje položen ispit razine A2 o poznavanju hrvatskog znakovnog jezika.
+(6) Stručni komunikacijski posrednik ne može pružati potporu tijekom odgojno-obrazovnog procesa svom članu obitelji, osim kada na području osnivača odgojno-obrazovne ustanove nije moguće zaposliti stručnog komunikacijskog posrednika, a to nije u suprotnosti s interesima gluhih, nagluhih i gluhoslijepih učenika s teškoćama u razvoju.

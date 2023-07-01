@@ -1,0 +1,6 @@
+## Nastavak pružanja usluge – osobni asistent, komunikacijski posrednik i videći pratitelj
+# Članak 84.
+(1) Osobni asistent koji na dan stupanja na snagu ovoga Zakona pruža uslugu osobne asistencije na temelju ugovora o radu sklopljenim s pružateljem usluge kroz programe i projekte, a ne ispunjava uvjete iz članka 18. ovoga Zakona, može i dalje pružati uslugu osobne asistencije do isteka ugovora, a najkasnije do 31. prosinca 2023.
+(2) Komunikacijski posrednik koji na dan stupanja na snagu ovoga Zakona pruža uslugu osobne asistencije na temelju ugovora o radu sklopljenim s pružateljem usluge kroz programe i projekte, a ne ispunjava uvjete iz članka 19. ovoga Zakona, može i dalje pružati uslugu osobne asistencije do isteka ugovora, a najkasnije do 31. prosinca 2023.
+(3) Videći pratitelj koji na dan stupanja na snagu ovoga Zakona pruža uslugu osobne asistencije na temelju ugovora o radu sklopljenim s pružateljem usluge kroz programe i projekte, a ne ispunjava uvjete iz članka 20. ovoga Zakona, može i dalje pružati uslugu osobne asistencije do isteka ugovora, a najkasnije do 31. prosinca 2023.
+Uvjet završenog programa osposobljavanja za komunikacijskog posrednika koji se primjenjuje do 1. siječnja 2024.

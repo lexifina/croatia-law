@@ -1,0 +1,4 @@
+## Broj sati potpore tijekom odgojno-obrazovnog procesa koju može ostvariti učenik s teškoćama u razvoju
+# Članak 38.
+(1) Učenik s teškoćama u razvoju može ostvariti potporu tijekom odgojno-obrazovnog procesa koju pruža pomoćnik u nastavi ili stručni komunikacijski posrednik u ukupnom tjednom broju sati nastave, izvannastavnih aktivnosti i izvanškolskih aktivnosti propisanom rješenjem Upravnog odjela odnosno Gradskog ureda o priznavanju prava na potporu pomoćnika u nastavi.
+(2) Prijedlog tjednog broja sati za pružanje potpore tijekom odgojno-obrazovnog procesa koju pruža pomoćnik u nastavi ili stručni komunikacijski posrednik u ukupnom tjednom broju sati nastave, izvannastavnih aktivnosti i izvanškolskih aktivnosti propisuje ministar nadležan za obrazovanje pravilnikom iz članka 9. stavka 4. ovoga Zakona.

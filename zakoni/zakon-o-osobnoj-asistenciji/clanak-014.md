@@ -1,0 +1,4 @@
+## Uvjeti za priznavanje prava na uslugu osobne asistencije koju pruža komunikacijski posrednik
+# Članak 14.
+(1) Pravo na uslugu osobne asistencije koju pruža komunikacijski posrednik za gluhe priznaje se osobi s oštećenjem sluha drugog, trećeg ili četvrtog stupanja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja, koja je navršila 18 godina te koja ima status osobe s invaliditetom sukladno zakonu kojim se uređuje registar osoba s invaliditetom.
+(2) Pravo na uslugu osobne asistencije koju pruža komunikacijski posrednik za gluhoslijepe priznaje se gluhoslijepoj osobi koja je navršila 18 godina kod koje je utvrđen treći ili četvrti stupanj težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja te koja ima status osobe s invaliditetom sukladno zakonu kojim se uređuje registar osoba s invaliditetom.

@@ -1,0 +1,18 @@
+## Definicije pojmova
+# Članak 5.
+Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1. osoba s invaliditetom je osoba koja ima dugotrajna tjelesna, mentalna, intelektualna ili osjetilna oštećenja koja u međudjelovanju s različitim preprekama mogu sprječavati njezino puno i učinkovito sudjelovanje u društvu na ravnopravnoj osnovi s drugima
+2. osobni asistent je fizička osoba zaposlena kod pružatelja usluge osobne asistencije koja osobi s invaliditetom pruža pomoć i podršku u svakodnevnim aktivnostima koje osoba s invaliditetom nije u mogućnosti samostalno obavljati poštujući uputu korisnika o načinu pružanja pomoći i podrške u svrhu osiguravanja kvalitetnije usluge
+3. komunikacijski posrednik je fizička osoba zaposlena kod pružatelja usluge osobne asistencije koja prenosi informaciju između osobe s oštećenjem sluha ili gluhoslijepe osobe i čujuće okoline, i to u obliku komunikacije koju preferira osoba s oštećenjem sluha ili gluhoslijepa osoba
+4. komunikacijski posrednik za gluhe je fizička osoba zaposlena kod pružatelja usluge osobne asistencije koja ima odgovarajuće vještine, znanja i sposobnosti u korištenju hrvatskog znakovnog jezika i ostalih sustava komunikacije koji se temelje na hrvatskom jeziku
+5. komunikacijski posrednik za gluhoslijepe je fizička osoba zaposlena kod pružatelja usluge osobne asistencije koja ima odgovarajuće vještine, znanja i sposobnosti u korištenju hrvatskog znakovnog jezika i njegovih prilagodbi i ostalih sustava komunikacije koje gluhoslijepe osobe koriste, te koja ima dodatna znanja i vještine za opisivanje okoline i pružanje podrške u kretanju gluhoslijepim osobama
+6. videći pratitelj je fizička osoba zaposlena kod pružatelja usluge osobne asistencije koja ima odgovarajuće vještine, znanja i sposobnosti za pružanje usluge pratnje i pomoći osobi s oštećenjem vida u svakodnevnim aktivnostima sukladno njezinim potrebama
+7. potpora tijekom odgojno-obrazovnog procesa je potpora koju pruža pomoćnik u nastavi ili stručni komunikacijski posrednik učeniku s teškoćama u razvoju u svakodnevnim nastavnim, izvannastavnim i izvanučioničkim aktivnostima
+8. pomoćnik u nastavi je osoba koja pruža neposrednu potporu učeniku s teškoćama u razvoju tijekom odgojno-obrazovnog procesa
+9. stručni komunikacijski posrednik je osoba koja pruža komunikacijsku potporu gluhim, nagluhim i gluhoslijepim učenicima tijekom odgojno-obrazovnog procesa
+10. učenik s teškoćama u razvoju je učenik čije sposobnosti u međudjelovanju s čimbenicima iz okoline ograničavaju njegovo puno, učinkovito i ravnopravno sudjelovanje u odgojno-obrazovnom procesu s ostalim učenicima, a proizlaze iz tjelesnih, intelektualnih, osjetilnih oštećenja i poremećaja funkcija ili kombinacije više vrsta oštećenja i poremećaja te se manifestiraju tijekom razvojne dobi i prisutne su tijekom čitavog života osobe
+11. korisnik usluge osobne asistencije je osoba s invaliditetom koja je navršila 18 godina i koja pravo na uslugu osobne asistencije ostvaruje temeljem ovoga Zakona
+12. samac je osoba koja živi sama
+13. kućanstvo je zajednica osoba koje zajedno žive i podmiruju troškove života
+14. prihod su novčana sredstva ostvarena po osnovi rada, mirovine, primitaka od imovine ili na neki drugi način ostvaren u tuzemstvu i inozemstvu umanjen za iznos uplaćenog poreza i prireza
+15. lista procjene potreba korisnika je obrazac u kojem Komisija za procjenu potreba korisnika za uslugom osobne asistencije u suradnji s korisnikom odnosno njegovim zakonskim zastupnikom utvrđuje aktivnosti koje će za potrebe korisnika usluge osobne asistencije obavljati osobni asistent, komunikacijski posrednik ili videći pratitelj, u kojim situacijama i kada će obavljati navedene aktivnosti te potreban broj sati pružanja usluge.

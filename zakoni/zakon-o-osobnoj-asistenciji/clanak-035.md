@@ -1,0 +1,7 @@
+## Broj sati usluge koju može ostvariti korisnik usluge osobne asistencije koju pruža komunikacijski posrednik
+# Članak 35.
+(1) Uslugu osobne asistencije koju pruža komunikacijski posrednik, a za kojom je procijenjena potreba pomoći na temelju Liste procjene potreba, može ostvariti osoba s invaliditetom u rasponu od 10 do 160 sati mjesečno.
+(2) Uslugu osobne asistencije koju pruža komunikacijski posrednik za gluhe osobe može ostvariti osoba koja ima oštećenje sluha trećeg i četvrtog stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja u rasponu od 30 do 40 sati mjesečno.
+(3) Uslugu osobne asistencije koju pruža komunikacijski posrednik za gluhe osobe može ostvariti osoba koja ima oštećenje sluha drugog stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja u trajanju od 10 do 20 sati mjesečno.
+(4) Uslugu osobne asistencije koju pruža komunikacijski posrednik za gluhoslijepe osobe može ostvariti gluhoslijepa osoba četvrtog stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja u trajanju od 120 do 160 sati mjesečno.
+(5) Uslugu osobne asistencije koju pruža komunikacijski posrednik za gluhoslijepe osobe može ostvariti gluhoslijepa osoba trećeg stupnja težine invaliditeta – oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja u trajanju od 80 do 120 sati mjesečno.

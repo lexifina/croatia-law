@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 86.
+Ovaj Zakon objavit će se u »Narodnim novinama«, a stupa na snagu 1. srpnja 2023., osim članka 1. stavka 2., članka 2. stavaka 2. i 3., članka 4., članka 5. točaka 7. do 10., članka 7. stavaka 4. i 5., članka 8. stavaka 2. i 3., članka 9., članka 10. stavka 3., članka 11. stavka 3., članka 17., članka 23. stavka 7., članka 24. stavka 2., članka 38., članka 43. stavka 3., članka 46., članka 48., članka 53., članka 57. stavka 3., članka 59. stavaka 5. i 6., članka 60. stavka 2. i članka 61. stavka 2. ovoga Zakona koji stupaju na snagu 1. siječnja 2024. te članka 19. stavka 2., stavka 4. podstavka 2. i stavka 5. podstavka 2., članka 21. i članka 22. ovoga Zakona koji stupaju na snagu 1. srpnja 2024.

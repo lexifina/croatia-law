@@ -1,0 +1,3 @@
+## Interventne mjere u posebnim slučajevima
+# Članak 32.
+U slučaju nastupa događaja ili stanja koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, ministar može pružatelju usluge osobne asistencije s kojim Ministarstvo ima sklopljen ugovor o pružanju usluge osobne asistencije sukladno članku 65. ovoga Zakona naredbom privremeno narediti ili zabraniti određeno postupanje te utvrditi obveznu primjenu drugih privremenih interventnih mjera koje su nužne radi trenutačne zaštite pravnog poretka te zaštite života, sigurnosti, zdravlja stanovništva ili imovine veće vrijednosti.

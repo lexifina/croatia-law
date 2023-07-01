@@ -1,0 +1,12 @@
+## Uvjeti za komunikacijskog posrednika
+# Članak 19.
+(1) Komunikacijski posrednik mora biti punoljetna zdravstveno sposobna osoba koja ima završenu najmanje razinu obrazovanja 4.1 ili 4.2 HKO-a.
+(2) Komunikacijski posrednik za gluhe osobe koji pruža komunikacijsku podršku hrvatskim znakovnim jezikom, osim uvjeta iz stavka 1. ovoga članka, mora imati završen program za stjecanje odgovarajuće kvalifikacije ili skupova ishoda učenja sukladno HKO-u za prevoditelja hrvatskog znakovnog jezika, koji uključuje položen ispit razine B2 o poznavanju hrvatskog znakovnog jezika.
+(3) Komunikacijski posrednik za gluhe osobe koji pruža komunikacijsku podršku u ostalim sustavima komunikacije mora pored uvjeta propisanih stavkom 1. ovoga članka imati završen program obrazovanja odraslih (osposobljavanja) u ostalim sustavima komunikacije.
+(4) Komunikacijski posrednik za gluhoslijepe osobe koji pruža komunikacijsku podršku hrvatskim znakovnim jezikom, osim uvjeta iz stavka 1. ovoga članka, mora imati:
+– završen program obrazovanja odraslih (osposobljavanja) o prilagodbama hrvatskog znakovnog jezika, pristupu, komunikaciji i prevođenju gluhoslijepim osobama koji dodatno uključuje i svladavanje opisivanja okoline te vođenje u vidu pratnje gluhoslijepe osobe i
+– završen program za stjecanje odgovarajuće kvalifikacije ili skupova ishoda učenja sukladno HKO-u za prevoditelja hrvatskog znakovnog jezika koji uključuje položen ispit razine B2 o poznavanju hrvatskog znakovnog jezika.
+(5) Komunikacijski posrednik za gluhoslijepe osobe koji pruža komunikacijsku podršku u ostalim sustavima komunikacije, osim uvjeta stavka iz stavka 1. ovoga članka, mora imati:
+– završen program obrazovanja odraslih (osposobljavanja) o prilagodbama hrvatskog znakovnog jezika, pristupu, komunikaciji i prevođenju gluhoslijepim osobama koji dodatno uključuje i svladavanje opisivanja okoline te vođenje u vidu pratnje gluhoslijepe osobe i
+– završen program za stjecanje odgovarajuće kvalifikacije ili skupova ishoda učenja sukladno HKO-u osposobljavanja za pružanje komunikacijske podrške gluhoslijepim osobama u ostalim sustavima komunikacije koji uključuje položen ispit razine A2 o poznavanju hrvatskog znakovnog jezika.
+(6) Komunikacijski posrednik ne može pružati uslugu osobne asistencije svom članu obitelji, osim kada na području pružanja usluge nije moguće zaposliti komunikacijskog posrednika ili ako to zahtijeva korisnik zbog specifičnih uvjeta pružanja usluge i potreba korisnika, ako to nije u suprotnosti s interesima korisnika.
