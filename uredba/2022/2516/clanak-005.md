@@ -1,7 +1,0 @@
-# Članak 5.
-(1) Energetski subjekt iz članka 4. stavka 4. ove Uredbe dužan je najkasnije do 20. dana tekućeg mjeseca za protekli mjesec Agenciji dostaviti sve podatke, ugovore i ostalu dokumentaciju potrebnu za primjenu članka 4. ove Uredbe, uključujući i podatke o izvršenim uplatama s osnove viška tržišnih prihoda Fondu za zaštitu okoliša i energetsku učinkovitost.
-(2) Operator prijenosnog sustava i operator distribucijskog sustava dužni su do 20. dana tekućeg mjeseca za protekli mjesec dostaviti Agenciji podatke o ostvarenoj proizvodnji električne energije iz proizvodnih postrojenja za energetske subjekte iz članka 4. stavka 4. ove Uredbe.
-(3) Operator tržišta električne energije dužan je do 20. dana tekućeg mjeseca za protekli mjesec dostaviti Agenciji podatke iz članka 4. stavka 2. ove Uredbe.
-(4) Društvo Hrvatska burza električne energije d.o.o. dužno je do 20. dana tekućeg mjeseca za protekli mjesec dostaviti Agenciji podatke iz članka 4. stavka 2. ove Uredbe.
-(5) Agencija je dužna svaki mjesec do 20. dana mjeseca dostaviti izvještaj Fondu za zaštitu okoliša i energetsku učinkovitost za obračun viška tržišnih prihoda iz članka 4. stavka 4. ove Uredbe za energetske subjekte iz članka 4. stavka 4. ove Uredbe.
-(6) Fond za zaštitu okoliša i energetsku učinkovitost dužan je do kraja svakog mjeseca počevši od siječnja 2023. obavijestiti Agenciju o svim pristiglim uplatama energetskih subjekata iz članka 4. stavka 4. ove Uredbe.
