@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o trgovini (»Narodne novine«, br. 87/08., 96/08, 116/08., 76/09., 114/11., 68/13., 30/14., 32/19., 98/19. i 32/20.) u članku 13. stavak 10. mijenja se i glasi:
+»(10) Na nastavak obavljanja djelatnosti trgovine iz stavka 9. ovoga članka bez izdavanja novog rješenja o ispunjavanju uvjeta za obavljanje djelatnosti trgovine ne utječe vrijeme izdavanja prijašnjeg rješenja o ispunjavanju uvjeta za obavljanje djelatnosti trgovine ako su uvjeti za obavljanje djelatnosti trgovine usklađeni s odredbama pravilnika iz članka 12. ovoga Zakona, kao niti promjena vrste robe kojom se obavlja djelatnost trgovine ako se ne radi o robi opasnoj za život i zdravlje ljudi i životinja te prirodu i okoliš.«.
