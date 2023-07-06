@@ -1,0 +1,1 @@
+Pravilnik o privremenim zabranama u slučaju prijedloga za otvaranje stečajnog postupka nad središnjom drugom ugovornom stranom i uvjetima za određivanje stope konverzije te provođenje pojednostavnjenog smanjenja temeljnoga kapitala odnosno povlačenje postojećih dionica ili drugih vlasničkih instrumenata u sanaciji središnje druge ugovorne strane

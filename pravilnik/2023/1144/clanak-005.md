@@ -1,0 +1,3 @@
+## Procjena vrijednosti
+# Članak 5.
+Hanfa stopu konverzije te provođenje pojednostavnjenog smanjenja temeljnoga kapitala odnosno način postupanja prema dioničarima i imateljima vlasničkih i dužničkih instrumenata ili drugih neosiguranih obveza određuje na temelju informacija iz vrednovanja provedenog u skladu s člankom 24. stavkom 3. Uredbe (EU) br. 2021/23, a osobito na temelju odnosa procijenjene vrijednosti vlasničkih instrumenata nakon izvršenja ovlasti iz članka 6. ovoga Pravilnika i procijenjenog iznosa u kojem bi dioničari i imatelji vlasničkih i dužničkih instrumenata ili drugih neosiguranih obveza bili namireni da je nad središnjom drugom ugovornom stranom proveden redovni postupak zbog nesolventnosti.
