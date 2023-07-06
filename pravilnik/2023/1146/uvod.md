@@ -1,0 +1,1 @@
+Na temelju članka 160. stavka 3. i članka 165. stavka 7. Zakona o tržištu kapitala (»Narodne novine«, broj 65/18, 17/20, 83/21 i 151/22; dalje u tekstu: Zakon) Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 20. lipnja 2023. godine donosi
