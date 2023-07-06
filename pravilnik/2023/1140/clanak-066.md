@@ -1,0 +1,3 @@
+## Zaštita osobnih podataka
+# Članak 66.
+Svi osobni podaci prikupljaju se i obrađuju, u skladu s propisima koji uređuju zaštitu osobnih i drugih podataka, posebno Uredbom (EU) 2016/679 Europskog parlamenta i Vijeća od 27. travnja 2016. o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredba o zaštiti podataka) (SL L 119, 4. 5. 2016.).
