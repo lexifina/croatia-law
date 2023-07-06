@@ -1,0 +1,1 @@
+Na temelju odredbi članka 9a. stavka 7. i 9e. stavka 7. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine« 108/17, 39/19 i 151/22), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 20. lipnja 2023. godine donosi
