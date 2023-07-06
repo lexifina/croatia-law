@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o postupku procjene rizika od pranja novca i financiranja terorizma te načinu provođenja mjera pojednostavljene i pojačane dubinske analize stranke (NN br. 59/18 i 144/21) u članku 1. stavak 2. mijenja se i glasi:
+»(2) Obveznici iz stavka 1. ovog članka su društva iz članka 9. stavka 2. točke 6., 7., 8., 9., 10., 11., 12., 13. i 19. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/17, 39/19 i 151/22) nad kojima nadzor primjene tog Zakona provodi Hrvatska agencija za nadzor financijskih usluga i podružnice istovrsnih društava iz druge države članice i trećih država, a koje su osnovane u Republici Hrvatskoj u skladu sa zakonom koji uređuje njihov rad.«.
+U stavku 4. ispred broja »13.« veznik »i« zamjenjuje se zarezom, a iza toga broja dodaju se riječi »i 19.«.
