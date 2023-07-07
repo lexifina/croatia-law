@@ -1,0 +1,7 @@
+## Rokovi važenja energetskog odobrenja
+# Članak 21.
+(1) Energetsko odobrenje izdaje se na rok od sedam godina od dana njegove pravomoćnosti, te se ne može produljiti nositelju projekta.
+(2) Iznimno od stavka 1. ovoga članka Ministarstvo ukida energetsko odobrenje ako nositelj projekta, u roku od tri godine od dana pravomoćnosti energetskog odobrenja, ne ishodi lokacijsku dozvolu. Nositelj projekta dužan je, u navedenom roku Ministarstvu dostaviti lokacijsku dozvolu.
+(3) Iznimno od stavka 1. ovoga članka Ministarstvo ukida energetsko odobrenje ako nositelj projekta, u roku od pet godina od dana pravomoćnosti energetskog odobrenja, ne ishodi građevinsku dozvolu, a nadležno ministarstvo raskida ugovor o osnivanju prava služnosti ili ugovor o osnivanju prava građenja ili ugovor o osnivanju prava služnosti na šumi i šumskom zemljištu tom nositelju projekta. Nositelj projekta dužan je, u navedenom roku nadležnom ministarstvu i Ministarstvu dostaviti građevinsku dozvolu.
+(4) Nositelj projekta dužan je u roku iz stavka 1. ovoga članka izgraditi proizvodno postrojenje i ishoditi pravomoćnu uporabnu dozvolu. Nositelj projekta dužan je, u navedenom roku Ministarstvu dostaviti pravomoćnu uporabnu dozvolu.
+(5) Iznimno od stavka 1. ovoga članka za postrojenja hidroelektrana instalirane snage veće od 10 MW nositelj projekta dužan je u roku od deset godina od dana izvršnosti pravomoćnosti energetskog odobrenja izgraditi proizvodno postrojenje i ishoditi uporabnu dozvolu.

@@ -1,0 +1,5 @@
+## Prijelazne i završne odredbe
+# Članak 25.
+(1) Ministar će u roku od 15 dana od dana stupanja na snagu ove Uredbe odlukom imenovati peteročlano Povjerenstvo zaduženo za razmatranje iskaza interesa, otvaranja ponuda i odabir najpovoljnije ponude u postupka dodjele energetskog odobrenja.
+(2) Za one projekte za koje je energetsko odobrenje izdano sukladno Pravilniku o korištenju obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 67/07. i 88/12.) i Pravilniku o kriterijima za izdavanje energetskog odobrenja za proizvodna postrojenja (»Narodne novine«, br. 5/20. i 97/21.) koji su temeljem tog energetskog odobrenja upisani u Registar OIEKPP brisat će se iz Registra OIEKPP ako je dokument kojim su stekli pravo građenja prestao važiti.
+(3) Za one projekte za koje je energetsko odobrenje izdano sukladno Pravilniku o korištenju obnovljivih izvora energije i kogeneracije (»Narodne novine«, br. 67/07. i 88/12.) i Pravilniku o kriterijima za izdavanje energetskog odobrenja za proizvodna postrojenja (»Narodne novine«, br. 5/20. i 97/21.) promjena nositelja projekta, na zahtjev novog nositelja projekta uređuje se sukladno odredbama ove Uredbe.
