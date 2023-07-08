@@ -1,0 +1,6 @@
+# Članak 5.
+(1) Centar je središnje mjesto znanja, stručnosti i iskustva u području prikupljanja, obrade i analize podataka iz otvorenih izvora s ciljem unaprjeđenja sposobnosti, razvijanja doktrina, standardiziranih procedura i metodoloških postavki u ovom području, na nacionalnoj i međunarodnoj razini.
+(2) Djelatnosti Centra su:
+− unaprjeđenje specifične prikupljačke obavještajne discipline OSINT-a, odnosno sposobnosti selektiranja, prikupljanja, obrade i analize informacija iz otvorenih izvora, dijeljenjem praksi, davanjem preporuka te testiranjem novih ideja i koncepata na području OSINT-a i
+− jačanje sposobnosti, otpornosti te spremnosti sigurnosno-obavještajnih agencija u suočavanju s velikim količinama javno dostupnih podataka i informacija, njihovu iskorištavanju i izrađivanje novih strateških koncepata.
+(3) U obavljanju djelatnosti iz stavka 2. ovoga članka Centar organizira stručne tečajeve, seminare i konferencije te provodi druge aktivnosti za unaprjeđenje znanja, stručnosti i iskustva u području prikupljanja, obrade i analize podataka iz otvorenih izvora, među ostalim i suradnjom s domaćim i stranim tijelima sigurnosno-obavještajnog sustava, međunarodnim subjektima, privatnim sektorom te znanstvenom, odnosno akademskom zajednicom.
