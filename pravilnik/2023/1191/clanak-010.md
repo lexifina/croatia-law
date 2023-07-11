@@ -1,0 +1,4 @@
+# Članak 10.
+Članak 19. mijenja se i glasi:
+»(1) Najviša dozvoljena cijena lijeka na veliko odnosno iznimno viša od najviše dozvoljene cijene lijeka na veliko vrijedi do dana početka važenja novoodređene najviše dozvoljene cijene lijeka na veliko ili do dana početka važenja novoodređene iznimno više od najviše dozvoljene cijene lijeka na veliko, a najduže do dana početka važenja idućeg godišnjeg izračuna.
+»(2) Dan početka važenja najviše dozvoljene cijene lijeka na veliko određene sukladno članku 17. ovoga Pravilnika odnosno dan početka važenja iznimno više od najviše dozvoljene cijene lijeka na veliko određene sukladno članku 18. ovoga Pravilnika za lijekove koji nisu obuhvaćeni postupkom godišnjeg izračuna najviših dozvoljenih cijena lijekova na veliko ili za koje je podnesen zahtjev sukladno članku 18. stavku 8. ovoga Pravilnika je 15. dan od dana objave cijene na mrežnim stranicama Agencije.«.

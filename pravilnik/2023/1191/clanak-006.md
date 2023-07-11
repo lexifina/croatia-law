@@ -1,0 +1,7 @@
+# Članak 6.
+Članak 15. mijenja se i glasi:
+»(1) Dan početka godišnjeg izračuna najviših dozvoljenih cijena lijekova na veliko je 1. veljače o čemu obavijest Agencija daje na svojoj mrežnoj stranici.
+(2) Agencija provodi izračun najviših dozvoljenih cijena lijekova na veliko u postupku godišnjeg izračuna sukladno odredbama članaka 6., 7., 8., 9., 10., 11., 12., 13. i 14. ovoga Pravilnika.
+(3) Za lijekove kojima se ne može odrediti najviša dozvoljena cijena lijeka na veliko sukladno člancima 6., 7., 8., 9., 10., 11. i 12. ovoga Pravilnika, nositelj odobrenja za stavljanje lijeka u promet odnosno veleprodaja s odobrenjem za paralelni uvoz/promet lijeka obvezni su dostaviti Agenciji podatke i dokumente potrebne za određivanje najviše dozvoljene cijene lijeka na veliko temeljem članaka 13. i 14. ovoga Pravilnika.
+(4) Ako je važeća najviša dozvoljena cijena lijeka na veliko iznad razine najviše dozvoljene cijene lijeka na veliko izračunate tijekom postupka godišnjeg izračuna, ista se snižava na razinu najviše dozvoljene cijene lijeka na veliko izračunate tijekom postupka godišnjeg izračuna.
+(5) Ako je važeća najviša dozvoljena cijena lijeka na veliko na razini ili ispod razine najviše dozvoljene cijene lijeka na veliko izračunate tijekom postupka godišnjeg izračuna, ista se usklađuje na razinu najviše dozvoljene cijene lijeka na veliko izračunate tijekom postupka godišnjeg izračuna.«.

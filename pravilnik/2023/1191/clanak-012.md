@@ -1,0 +1,2 @@
+# Članak 12.
+Svi postupci koji su započeti na temelju Pravilnika o mjerilima za određivanje najviše dozvoljene cijene lijeka na veliko i iznimno više od najviše dozvoljene cijene lijeka na veliko i godišnjeg izračuna cijene lijeka (»Narodne novine«, broj 33/19.) koji nisu dovršeni do dana stupanja na snagu ovoga Pravilnika dovršit će se prema odredbama Pravilnika o mjerilima za određivanje najviše dozvoljene cijene lijeka na veliko i iznimno više od najviše dozvoljene cijene lijeka na veliko i godišnjeg izračuna cijene lijeka (»Narodne novine«, broj 33/19.).
