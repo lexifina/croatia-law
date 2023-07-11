@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Do utvrđivanja cijena lijekova koje će plaćati Zavod u skladu s odredbama ovoga Pravilnika primjenjuju se cijene lijekova koje plaća Zavod, a utvrđene su Odlukom o utvrđivanju Osnovne liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 143/22., 153/22. i 14/23.) te Odlukom o utvrđivanju Dopunske liste lijekova Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, br. 143/22., 153/22. i 14/23.).
+(2) Zavod će u roku godine dana od dana stupanja na snagu ovoga Pravilnika sklopiti novi ugovor o razmjeni podataka i etičkom postupanju iz članka 16. stavka 1. točke 15. ovoga Pravilnika. Do sklapanja novog ugovora primjenjuje se ugovor o razmjeni podataka prethodno sklopljen između Zavoda i nositelja odobrenja.

@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za stavljanje lijekova na listu lijekova Hrvatskog zavoda za zdravstveno osiguranje kao i načinu utvrđivanja cijena lijekova koje će plaćati Hrvatski zavod za zdravstveno osiguranje te načinu izvještavanja o njima

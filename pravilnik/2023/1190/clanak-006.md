@@ -1,0 +1,12 @@
+# Članak 6.
+Članak 19. mijenja se i glasi:
+»(1) Prilikom podnošenja zahtjeva za stavljanje novog lijeka na listu lijekova ili nove indikacije uz lijek koji se nalazi na listi lijekova, podnositelj zahtjeva može podnijeti i prijedlog da se novi lijek ili nova indikacija uz lijek uvrsti na Popis posebno skupih lijekova Zavoda (u daljnjem tekstu: Popis).
+(2) Popis iz stavka 1. ovoga članka predstavlja popis lijekova koji se nalaze na listi lijekova Zavoda i kojima su na listi lijekova utvrđene indikacije u kojima se primjenjuju. Za lijekove s Popisa osiguravaju se sredstva na posebnoj poziciji za posebno skupe lijekove u financijskom planu Zavoda.
+(3) Uz prijedlog iz stavka 1. ovoga članka podnositelj zahtjeva je obvezan dostaviti:
+− podatak o kliničkim ishodima odnosno učincima na kvalitetu života koji se očekuju od lijeka ili nove indikacije, te način na koji se isti mogu kvantificirati
+− dokumentaciju iz koje se nedvojbeno može utvrditi da lijek u predloženoj indikaciji ima dokazan i mjerljiv pozitivan učinak na konačne kliničke ishode, pozitivan učinak na zamjenske ishode odnosno pozitivan učinak na kvalitetu života
+− dokaz da se radi o lijeku s najvišom razinom preporuka prema kliničkim smjernicama temeljenih na dokazima, te da se sukladno tome radi o lijeku koji je apsolutno i nesumnjivo učinkovit i nužno ga je koristiti u liječenju
+− dokaz da se radi ili o lijeku koji čini značajan iskorak liječenja u odnosu koristi i rizika terapije u predloženoj indikaciji u odnosu na lijekove koji se već nalaze na listi lijekova i/ili o lijeku istih ili sličnih terapijsko-farmakoloških svojstava u odnosu na lijek s većim troškom terapije koji već postoji na Popisu i/ili se radi o lijeku koji je Europska komisija svrstala u skupinu lijekova za rijetke i teške bolesti
+− prijedlog kriterija za primjenu lijeka na teret sredstava namijenjenih za lijekove s Popisa, a koji uključuju: kriterije osnovom kojih se započinje terapija (definiranje posebnih uvjeta za potvrdu dijagnoze, utvrđivanje općeg stanja bolesnika prije početka liječenja), mjerljive kriterije kojima se prati učinak liječenja i u utvrđenim okolnostima prekida liječenje u slučaju nedjelotvornosti primijenjenog lijeka
+− prijedlog liječnika specijalista određene grane specijalizacije koji može dati preporuku za početak liječenja te prijedlog razine zdravstvene zaštite
+− prijedlog o odnosu financiranja lijeka između podnositelja zahtjeva i Zavoda ako se radi o lijeku koji ima potencijal stvaranja dodatnog novog troška na poziciji za posebno skupe lijekove.«.

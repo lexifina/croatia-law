@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 17. stavku 2. podstavak 6. mijenja se i glasi:
+» - sažeti opis i komentar terapijskih smjernica hrvatskih i europskih stručnih društava u indikacijama u kojima se predlaže stavljanje lijeka na listu lijekova te prijedlog smjernice koja utvrđuje kriterije temeljem kojih se lijek može preporučiti za primjenu, algoritam liječenja i primjene lijeka u indikaciji u kojoj se lijek predlaže te kriterije osnovom kojih se započinje terapija, prati učinak liječenja i u utvrđenim okolnostima prekida liječenje u slučaju nedjelotvornosti primijenjenog lijeka, a što mora biti potvrđeno mišljenjem stručnog društva Hrvatskog liječničkog zbora ili drugog odgovarajućeg stručnog društva«.
