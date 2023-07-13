@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.) i članka 216. Zakona o radu (»Narodne novine«, br. 93/14., 127/17., 98/19., 151/22. i 64/23. - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 13. srpnja 2023. donijela
