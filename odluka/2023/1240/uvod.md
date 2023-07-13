@@ -1,0 +1,1 @@
+Na temelju članka 181. stavka 2. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18, 125/19, 147/20, 119/22, 156/22 i 33/23) i članka 19. stavka 4. Zakona o proračunu (»Narodne novine«, broj 144/21), uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zdravstveno osiguranje i nadležnih komora te uz prethodnu suglasnost ministra financija, ministar zdravstva donosi
