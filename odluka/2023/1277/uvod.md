@@ -1,0 +1,1 @@
+Na temelju članka 81. Ustava Republike Hrvatske i članka 6. stavka 1. Zakona o Nagradi za promicanje prava djeteta (»Narodne novine«, br. 96/03. i 33/05.) Hrvatski sabor na sjednici 14. srpnja 2023. donio je
