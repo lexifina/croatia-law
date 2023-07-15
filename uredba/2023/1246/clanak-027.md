@@ -1,0 +1,3 @@
+# Članak 27.
+U članku 60. opis poslova u »Odjelu za građane« mijenja se i glasi:
+»Odjel za građane obavlja upravne i druge stručne poslove za građane kao porezne obveznike, a koji se odnose na utvrđivanje i razrez poreza na promet nekretnina, lokalnih poreza, izdavanje poreznih kartica te potvrda i uvjerenja o OIB-u; za porezne obveznike građane obavlja upravne i druge stručne poslove utvrđivanja i naplate poreza, doprinosa i drugih javnih davanja; za porezne obveznike građane obavlja poslove izdavanja isprava i potvrda o činjenicama o kojima Porezna uprava vodi službenu evidenciju, obavlja poslove ažuriranja evidencija koje prate podatke o stanovništvu, kućanstvima, obitelji, imovini i prihodima. Obavlja i druge poslove iz svoga djelokruga.«.

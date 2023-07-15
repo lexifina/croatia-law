@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19.), a u vezi s člankom 8. Zakona o izmjenama Zakona o ustrojstvu i djelokrugu tijela državne uprave (»Narodne novine«, broj 21/23.), Vlada Republike Hrvatske je na sjednici održanoj 13. srpnja 2023. donijela
