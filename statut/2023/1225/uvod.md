@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 1. Zakona o djelatnosti psihoterapije (»Narodne novine«, broj 18/22), Skupština Hrvatske komore psihoterapeuta, uz prethodnu suglasnost ministarstva nadležnog za poslove socijalne skrbi (klasa: 550-06/23-01/36; urbroj: 524-09-01-02/1-23-2 od 15. svibnja 2023. godine), na sjednici održanoj 26. lipnja 2023. godine donosi
