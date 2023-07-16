@@ -1,0 +1,10 @@
+# Članak 10.
+(1) Ispunjenje posebnih uvjeta za učinkovito poslovanje jedinstvenog javnog isporučitelja dokazuje se:
+1. izvještajem o ispunjenju uvjeta iz članka 6. ove Uredbe, što podrazumijeva vlastiti izvještaj ili se izvještaj s podacima pribavlja po službenoj dužnosti iz zbirke podataka o mjerilima i pokazateljima učinkovitosti poslovanja isporučitelja vodnih usluga koju vodi Vijeće za vodne usluge sukladno članku 35. stavku 2. Zakona
+2. aktom o imenovanju povjerenstva za reklamacije potrošača, dokaz o otvaranju njegove posebne adrese elektroničke pošte i izjava o početku i neprekidnom radu povjerenstva i
+3. potvrdom o trajnom stručnom osposobljavanju zaposlenika, godinu dana po uspostavi sustava osposobljavanja iz članka 7. ove Uredbe.
+(2) Ministarstvo je ovlašteno tražiti od stranke i druge dokaze o ispunjenju uvjeta:
+1. sposobnosti upravljanja gubicima iz vodoopskrbnih sustava, što podrazumijeva bilancu voda za sve vodoopskrbne sustave kojima isporučitelj upravlja i izračun prosječnog ILI pokazatelja za sve sustave potvrđen od stručnog i nepristranog verifikatora
+2. sposobnosti upravljanja uređajima za pročišćavanje otpadnih voda, uključujući i postrojenja za obradu mulja nastalog u postupku pročišćavanja komunalnih otpadnih voda, što podrazumijeva popis zaposlenika odgovornih za rad uređaja za pročišćavanje otpadnih voda, dokaze o kvalifikacijama i radnom iskustvu, potvrde o završenom dodatnom stručnom osposobljavanju u vidu tečaja ili treninga s ciljem poboljšanja upravljanja uređajima za pročišćavanje otpadnih voda
+3. sposobnosti upravljanja uređajima za obradu zahvaćene vode namijenjene za ljudsku potrošnju, kao što je mišljenje Hrvatskog zavoda za javno zdravstvo o kvaliteti vode za ljudsku potrošnju isporučene na uslužnom području i
+4. sposobnosti reakcije u slučaju nužde, što podrazumijeva izjavu zakonskog zastupnika javnog isporučitelja o događajima koji su prouzročili prekid isporuke vodne usluge u godini koja prethodi godini podnošenja zahtjeva, opisom reakcije u nuždi, što uključuje popis prekida isporuke, njihovo trajanje, poduzete mjere.
