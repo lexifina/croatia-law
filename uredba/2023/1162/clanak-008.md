@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Postojeći javni isporučitelji vodnih usluga dužni su dostaviti podatke iz Priloga 2. koji je sastavni dio ove Uredbe za 2022. godinu u roku od tri mjeseca od dana stupanja na snagu ove Uredbe, a za 2023. godinu do 30. lipnja 2024., na obrascima objavljenim na mrežnoj stranici Vijeća za vodne usluge.
+(2) Vijeće za vodne usluge dužno je na svojoj mrežnoj stranici do 31. prosinca 2023. objaviti ključne pokazatelje za 2022. godinu, a za 2023. godinu do 30. rujna 2024. prema podacima iz stavka 1. ovoga članka te omogućiti njihovu usporednu analizu na razini svakog postojećeg isporučitelja vodnih usluga.
