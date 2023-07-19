@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) i članka 38. stavka 2. Zakona o uvođenju eura kao službene valute u Republici Hrvatskoj (»Narodne novine«, br. 57/2022. i 88/2022.) guverner Hrvatske narodne banke donosi
