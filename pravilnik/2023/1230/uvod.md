@@ -1,0 +1,1 @@
+Na temelju članka 220. stavka 5. Zakona o osiguranju (»Narodne novine« br. 30/15, 112/18, 63/20, 133/20 i 151/22) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 6. srpnja 2023. donosi
