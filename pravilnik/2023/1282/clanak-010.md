@@ -1,0 +1,6 @@
+## Suspenzija i povlačenje odobrenja
+# Članak 10.
+(1) Ako se tijekom provedbe Školske sheme utvrdi da odobreni podnositelj zahtjeva za potporu iz članka 7. stavka 1. ovoga Pravilnika ne poštuje obveze koje proizlaze iz sudjelovanja u Školskoj shemi, a osobito one navedene u članku 6. stavku 1. Uredbe (EU) br. 2017/40, Agencija za plaćanja će suspendirati ili povući odobrenje podnositelju zahtjeva za potporu u skladu s člankom 7. Uredbe (EU) br. 2017/40.
+(2) Ako su razlozi za povlačenje odobrenja otklonjeni i na zahtjev podnositelja zahtjeva za potporu Agencija za plaćanja može ponovno odobriti podnositelja zahtjeva za potporu iz članka 7. stavka 1. ovoga Pravilnika u skladu s člankom 7. Uredbe (EU) br. 2017/40.
+(3) Ako se tijekom provedbe mjere/a iz članka 7. stavka 2. ovoga Pravilnika utvrdi da odlukom ministra odobreni provoditelj mjere iz članka 9. stavak 7. ovoga Pravilnika ne ispunjava obveze u skladu s odobrenim Planom/ovima aktivnosti provedbe mjere/a ministar poljoprivrede može opozvati odluku iz članka 9. stavka 7. ovoga Pravilnika.
+(4) U slučaju iz stavka 3. ovoga članka financijska sredstva isplaćuju se samo za one aktivnosti koje su provedene i prihvatljive u skladu s Odlukom iz članka 9. stavka 7. ovoga Pravilnika i odobrenim Planom aktivnosti provedbe mjera.

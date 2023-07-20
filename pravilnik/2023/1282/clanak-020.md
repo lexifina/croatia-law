@@ -1,0 +1,13 @@
+## VII. PRAVILA POVEZANA S TROŠKOVIMA
+## Najviša prihvatljiva nabavna cijena proizvoda
+# Članak 20.
+(1) Za potrebe standardiziranja veličina jediničnih troškova i ocjene opravdanosti troškova koje su dostavili podnositelji zahtjeva za potporu za mjeru Distribucija i/ili isporuka, u skladu s točkom 10. Školske sheme, utvrđuje se najviša prihvatljiva nabavna cijena prihvatljivih proizvoda navedenih u Školskoj shemi, Tablici 2. Lista prihvatljivih proizvoda.
+(2) Cijena iz stavka 1. ovoga članka određuje se na temelju petogodišnjeg prosjeka ponderiranih maloprodajnih cijena (bez PDV-a) koje, u okviru aktualnih trendova vodi, ažurira i utvrđuje Tržišni cjenovni informacijski sustav u poljoprivredi Ministarstva poljoprivrede (u daljnjem tekstu: TISUP).
+(3) Najviša prihvatljiva nabavna cijena iz stavka 1. ovoga članka izračunava se za jedno godišnje razdoblje provedbe Školske sheme, prije njegovog početka, a objavljuje se na mrežnim stranicama Agencije za plaćanja.
+(4) Ako je cijena isporučenog proizvoda, navedena na Zahtjevu za potporu, viša od utvrđene najviše prihvatljive nabavne cijene iz stavka 1. ovoga članka, razlika u cijeni nije prihvatljiva za isplatu.
+(5) Ako je cijena isporučenog proizvoda, navedena na Zahtjevu za potporu, niža od utvrđene najviše prihvatljive nabavne cijene iz stavka 1. ovoga članka, za isplatu je prihvatljiva cijena navedena na Zahtjevu za potporu.
+(6) Cijena prihvatljivog proizvoda iz stavka 1. ovoga članka, za čije izračunavanje TISUP ne raspolaže potrebnim podacima iz stavka 2. ovoga članka, određuje se na temelju povijesnih podataka o prosječnim cijenama koje dostavljaju dobavljači prilikom iskaza interesa za sudjelovanje u Školskoj Shemi na obrascu iz članka 5. stavka 5. ovoga Pravilnika kao prosječna vrijednost svih dostavljenih podataka o cijenama.
+(7) Kada dobavljač iskaže interes za sudjelovanje u Školskoj shemi tijekom školske godine, a nakon objave Popisa odobrenih i vrednovanih dobavljača, za potrebe određivanja cijene prihvatljivog proizvoda iz stavka 6. ovoga članka u obzir se uzimaju podaci o cijeni proizvoda koje isti prilikom iskaza interesa za sudjelovanje dostavlja Agenciji za plaćanja.
+(8) U slučaju iz stavka 7. ovoga članka nova prosječna cijena prihvatljivog proizvoda određuje se i primjenjuje od početka sljedećeg obračunskog razdoblja.
+(9) U uvjetima iznenadnog i značajnog porasta cijena proizvoda navedenih u Tablici 2. Lista prihvatljivih proizvoda Školske sheme, način određivanja i izračuna Najviše prihvatljive cijene proizvoda iz stavka 2. ovoga članka može se izmijeniti.
+(10) Odluku o izmijeni načina izračuna iz stavka 9. ovoga članka donosi ministar poljoprivrede.

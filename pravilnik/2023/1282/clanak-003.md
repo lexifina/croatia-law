@@ -1,0 +1,6 @@
+## Pojmovnik
+# Članak 3.
+Pojedini pojmovi korišteni u ovom Pravilniku imaju sljedeće značenje:
+(1) Dobavljač je pravna ili fizička osoba koja sudjeluje u provedbi mjere Distribucija i/ili isporuka voća i povrća te mlijeka i mliječnih proizvoda na način da distribuira i/ili isporučuje voće i povrće i/ili mlijeko i mliječne proizvode odgojno-obrazovnim ustanovama koje sudjeluju u provedbi Školske sheme.
+(2) Osnivač odgojno-obrazovne ustanove je Republika Hrvatska, jedinica lokalne samouprave, jedinica područne (regionalne) samouprave te druge fizičke ili pravne osobe upisane u zajednički elektronski upisnik ustanova osnovnog i srednjeg školstva u skladu sa Zakonom o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08, 86/09, 92/10, 105/10, 90/11, 5/12, 16/12, 86/12, 126/12, 94/13, 152/14, 07/17, 68/18, 98/19, 64/20 i 151/22), a ujedno je i podnositelj zahtjeva za potporu za mjeru Distribucija i/ili isporuka voća i povrća te mlijeka i mliječnih proizvoda.
+(3) Odgojno-obrazovna ustanova za potrebe ovoga Pravilnika je ustanova koja obavlja djelatnost osnovnoškolskog (osnovne škole) i srednjoškolskog odgoja i obrazovanja (srednje škole, učenički domovi i druge ustanove) čiji je osnivač jedinica lokalne i područne (regionalne) samouprave (javna tijela) ili druga fizička i pravna osoba.
