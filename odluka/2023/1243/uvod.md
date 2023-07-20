@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o financiranju vodnoga gospodarstva (»Narodne novine« br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) i članka 23. stavka 1. postavka 4. Zakona o vodnim uslugama (»Narodne novine«, br. 66/19), Skupština trgovačkog društva Komunalije d.o.o., Čiponjac jug 6, Novalja, na sjednici održanoj 7. srpnja 2023. godine donijela je
