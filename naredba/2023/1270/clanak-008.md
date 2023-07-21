@@ -1,8 +1,0 @@
-## Kategorizacija
-# Članak 8.
-(1) Svi objekti na kojima se drže svinje moraju biti kategorizirani u odnosu na biosigurnost, pri čemu se određena kategorija pridružuje svakom objektu u Upisniku registriranih objekata.
-(2) Kategorizaciju objekata na kojima se drže svinje u odnosu na biosigurnost provode nadležne ovlaštene veterinarske organizacije u skladu s Uputom Uprave za veterinarstvo i sigurnost hrane Ministarstva poljoprivrede (klasa: 322-02/18-01/61) na područjima izvan zona ograničenja.
-(3) Subjekti odgovorni za objekte kategorije 1 dužni su unaprijediti mjere biosigurnosti ocjenjene nezadovoljavajućim u roku od 30 dana od dana stupanja na snagu ove Naredbe te se obratiti nadležnoj ovlaštenoj veterinarskoj organizaciji u svrhu podnošenja pisanog zahtjeva radi ponovne kategorizacije za svrstavanje u kategoriju 3 ili 4.
-(4) Subjekti odgovorni za objekte kategorije 2 dužni su unaprijediti mjere biosigurnosti ocjenjene djelomično zadovoljavajućim u roku od 60 dana od dana stupanja na snagu ove Naredbe te se obratiti nadležnoj ovlaštenoj veterinarskoj organizaciji u svrhu podnošenja pisanog zahtjeva radi ponovne kategorizacije za svrstavanje u kategoriju 3 ili 4.
-(5) Obvezne godišnje kategorizacije u svrhu provjere primjene mjera biosigurnosti te unaprjeđenja razine biosigurnosti, provode se u skladu s Programom nadziranja afričke svinjske kuge na područjima izvan zona ograničenja.
-(6) Subjekti iz stavka 3. ovoga članka koji u roku od 30 dana od dana stupanja na snagu ove Naredbe ne unaprijede objekt u višu kategoriju, dužni su uputiti svinje na klanje u odobreni objekt ili ih zaklati na objektu za vlastite potrebe nakon provedbe kliničkog pregleda od strane ovlaštenih veterinara 24 sata prije klanja u roku od 15 dana od proteka roka.
