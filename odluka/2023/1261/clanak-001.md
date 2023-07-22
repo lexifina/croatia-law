@@ -1,0 +1,2 @@
+# Članak 1.
+Na području pružanja vodnih usluga VODOVODA I ODVODNJE d.o.o. sa sjedištem u Šibeniku (dalje u tekstu: javni isporučitelj vodnih usluga) koje čine područja grada Šibenik, Vodice, Drniš, Skradin te općina Primošten, Rogoznica, Tisno, Murter - Kornati, Pirovac, Unešić, Prgomet, Primorski Dolac, Stankovci, Promina, Bilice, Kistanje, Tribunj, Marina, plaća se naknada za razvoj, i to na područjima iz članka 4. ove Odluke.
