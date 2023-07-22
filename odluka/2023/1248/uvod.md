@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. Zakona o upravljanju državnom imovinom (»Narodne novine«, broj 52/18.) i točke VIII. Odluke o kriterijima za utvrđivanje pravnih osoba od posebnog interesa za Republiku Hrvatsku (»Narodne novine«, broj 22/20.), Vlada Republike Hrvatske je na sjednici održanoj 13. srpnja 2023. donijela
