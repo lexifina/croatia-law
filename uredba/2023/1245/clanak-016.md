@@ -1,0 +1,6 @@
+## Vrednovanje provedbe programskog ugovora po proteku dvije godine njegova važenja
+# Članak 16.
+(1) Po proteku dvije godine važenja programskog ugovora ocjenjuje se napredak u provedbi aktivnosti i ostvarivanju svakog pojedinog mjerljivog pokazatelja ugovorenog programskim ugovorom na ključnoj točki ostvarenja.
+(2) Ako Ministarstvo utvrdi kako se aktivnost koja vodi ostvarivanju mjerljivih pokazatelja ne provodi u skladu s rokovima određenim u programskom ugovoru te procjeni kako se ta aktivnost neće provesti u razdoblju važenja programskog ugovora, javno visoko učilište odnosno javni znanstveni institut može predložiti sklapanje dodatka programskom ugovoru kojim će se utvrditi zamjenska aktivnost i mjerljivi pokazatelj te isti ili umanjeni iznos financiranja ostvarivanja razvojne odnosno izvedbene aktivnosti.
+(3) Ako javno visoko učilište odnosno javni znanstveni institut ne predloži sklapanje dodatka programskom ugovoru iz stavka 2. ovoga članka, ugovoreni iznos programskog ugovora umanjuje se za iznos financiranja razvojne odnosno izvedbene aktivnosti, u cijelosti ili razmjerno ostvarenju pojedinog mjerljivog pokazatelja.
+(4) Ako Ministarstvo utvrdi kako javno visoko učilište ili javni znanstveni institut teško krši odredbe programskog ugovora ovlašteno je jednostrano raskinuti programski ugovor.

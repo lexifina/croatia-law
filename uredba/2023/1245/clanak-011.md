@@ -1,0 +1,5 @@
+## Izrada prijedloga programskog ugovora javnog sveučilišta
+# Članak 11.
+(1) Prijedlog programskog ugovora javnog sveučilišta u čijem sastavu djeluju javni fakulteti i javne umjetničke akademije s pravnom osobnosti čine prijedlozi programskih ugovora svakog pojedinog javnog fakulteta i javne umjetničke akademije s pravnom osobnosti te prijedlog programskog ugovora objedinjeno za rektorat, sastavnice i druge ustrojstvene jedinice javnog sveučilišta bez pravne osobnosti.
+(2) Prijedlog dijela programskog ugovora javnog sveučilišta koji se odnosi na svaki javni fakultet i javnu umjetničku akademiju s pravnom osobnosti izrađuje dekan javnog fakulteta odnosno javne umjetničke akademije s pravnom osobnosti, a usvaja fakultetsko odnosno akademijsko vijeće javnog fakulteta i javne umjetničke akademije s pravnom osobnosti.
+(3) Prijedlog programskog ugovora javnog sveučilišta objedinjuje rektor u suradnji s dekanima javnih fakulteta i javnih umjetničkih akademija s pravnom osobnosti, a usvaja senat javnog sveučilišta.
