@@ -1,0 +1,2 @@
+# Članak 22.
+Obrazloženje posebnog dijela izvještaja o izvršenju proračuna za proračunsku godinu temelji se na obrazloženju proračuna i financijskih planova proračunskih korisnika, a sadrži obrazloženje izvršenja programa koje se daje kroz obrazloženje izvršenja aktivnosti i projekata zajedno s ciljevima koji su ostvareni provedbom programa i pokazateljima uspješnosti realizacije tih ciljeva koji se sastoje od pokazatelja učinka i pokazatelja rezultata.

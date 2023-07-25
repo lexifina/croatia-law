@@ -1,0 +1,10 @@
+## IV. PODNOŠENJE POLUGODIŠNJEG I GODIŠNJEG IZVJEŠTAJA O IZVRŠENJU FINANCIJSKOG PLANA IZVANPRORAČUNSKOG KORISNIKA
+# Članak 53.
+(1) Polugodišnji izvještaj o izvršenju financijskog plana izvanproračunskog korisnika sastavlja se za razdoblje od 1. siječnja do 30. lipnja tekuće proračunske godine.
+(2) Godišnji izvještaj o izvršenju financijskog plana izvanproračunskog korisnika sastavlja se za proračunsku godinu odnosno za razdoblje od 1. siječnja do 31. prosinca proračunske godine.
+(3) Izvanproračunski korisnik dužan je nadležnom ministarstvu odnosno nadležnom upravnom tijelu dostaviti polugodišnji izvještaj o izvršenju financijskog plana za proteklo razdoblje do 31. srpnja tekuće proračunske godine.
+(4) Nadležno ministarstvo odnosno nadležno upravno tijelo dostavlja Ministarstvu financija odnosno upravnom tijelu za financije prijedlog polugodišnjeg izvještaja o izvršenju izvanproračunskog korisnika iz stavka 3. ovoga članka do 20. kolovoza tekuće godine.
+(5) Izvanproračunski korisnik dužan je nadležnom ministarstvu odnosno nadležnom upravnom tijelu dostaviti godišnji izvještaj o izvršenju financijskog plana za proteklo razdoblje do 31. ožujka tekuće proračunske godine.
+(6) Nadležno ministarstvo odnosno nadležno upravno tijelo dostavlja Ministarstvu financija odnosno upravnom tijelu za financije prijedlog godišnjeg izvještaja o izvršenju izvanproračunskog korisnika iz stavka 5. ovoga članka do 15. travnja tekuće godine.
+(7) Nadležno ministarstvo odnosno nadležno upravno tijelo dužno je prije dostave izvještaja iz ovoga članka Ministarstvu financija odnosno upravnom tijelu za financije provjeriti točnost i istinitost podataka navedenih u njima.
+(8) Polugodišnji i godišnji izvještaj o izvršenju financijskog plana izvanproračunskih korisnika Vlada Republike Hrvatske, na prijedlog Ministarstva financija, odnosno načelnik, gradonačelnik, župan podnosi na suglasnost Hrvatskom saboru odnosno predstavničkom tijelu istodobno s polugodišnjim i godišnjim izvještajem o izvršenju proračuna iz članka 4. ovoga Pravilnika.

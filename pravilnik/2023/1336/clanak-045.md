@@ -1,0 +1,2 @@
+# Članak 45.
+Obrazloženje posebnog dijela izvještaja o izvršenju financijskog plana proračunskog i izvanproračunskog korisnika za proračunsku godinu sadrži obrazloženje izvršenja programa koje se daje kroz obrazloženje izvršenja aktivnosti i projekata zajedno s ciljevima koji su ostvareni provedbom programa i pokazateljima uspješnosti realizacije tih ciljeva koji se sastoje od pokazatelja učinka i pokazatelja rezultata.

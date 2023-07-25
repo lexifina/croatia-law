@@ -1,0 +1,5 @@
+# Članak 32.
+(1) Sažetak Računa prihoda i rashoda i Računa financiranja iz članka 31. stavka 1. podstavka 1. ovoga Pravilnika sadrži prikaz ukupno ostvarenih prihoda i primitaka te izvršenih rashoda i izdataka na razini razreda ekonomske klasifikacije te razliku između ukupno ostvarenih prihoda i rashoda te primitaka i izdataka.
+(2) Sažetak iz stavka 1. ovoga članka može sadržavati podatke o prijenosu sredstava iz prethodne godine i prijenosu sredstava u sljedeću godinu/razdoblje odnosno podatke o prenesenom višku odnosno manjku iz prethodne godine i višku odnosno manjku za prijenos u sljedeću godinu/razdoblje.
+(3) Podaci iz stavaka 1. i 2. ovoga članka iskazuju se za izvještajno razdoblje, uključujući i izvještajno razdoblje prethodne godine te izvorni plan odnosno rebalans i tekući plan, indeks ostvarenja/izvršenja za izvještajno razdoblje u odnosu na ostvarenje/izvršenje za izvještajno razdoblje prethodne godine i indeks ostvarenja/izvršenja za izvještajno razdoblje u odnosu na tekući plan za proračunsku godinu.
+1.2. Račun prihoda i rashoda
