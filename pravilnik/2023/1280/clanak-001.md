@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se način obavještavanja žrtve kaznenog djela ili prekršaja odnosno članova njezine obitelji ako je žrtva preminula o svakom samostalnom izlasku ili bijegu osobe koja se nalazi na izdržavanju kazne zatvora zbog počinjenog kaznenog djela ili prekršaja na štetu žrtve, od strane ustrojstvene jedinice za podršku žrtvama i svjedocima ministarstva nadležnog za poslove pravosuđa (u daljnjem tekstu: Služba za podršku) sukladno odredbama zakona kojim se uređuje kazneni postupak i Zakona o izvršavanju kazne zatvora koje reguliraju pravo izbora žrtve na obavijest.

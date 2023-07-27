@@ -1,0 +1,5 @@
+## III. POSTUPAK OBAVJEŠTAVANJA ŽRTVE ODNOSNO ČLANOVA NJEZINE OBITELJI AKO JE ŽRTVA PREMINULA
+## Vrste podrške
+# Članak 8.
+(1) Služba za podršku obavještava žrtvu odnosno članove njezine obitelji ako je žrtva preminula o svakom samostalnom izlasku ili bijegu zatvorenika ili kažnjenika što uključuje i pružanje emocionalne podrške telefonskim putem i upućivanje na specijalizirane institucije ovisno o potrebama žrtve i njezine obitelji.
+(2) Služba za podršku može radi obavještavanja žrtve odnosno članova njezine obitelji ako je žrtva preminula, kao i u slučaju potrebe za osiguranjem dodatne podrške i zaštite žrtvi, osim s kaznenim tijelima i probacijskim uredima, surađivati s policijom, državnim odvjetništvom, sudovima, tijelima državne uprave, tijelima jedinica lokalne i područne (regionalne) samouprave, područnim uredima Hrvatskog zavoda za socijalni rad i drugim javnim ustanovama i organizacijama civilnog društva te stručnjacima koji se bave promocijom prava i pružanjem pomoći žrtvama, uključujući međuresorne timove na nacionalnoj, županijskoj i općinskoj razini.

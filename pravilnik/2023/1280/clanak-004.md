@@ -1,0 +1,2 @@
+# Članak 4.
+Služba za podršku će temeljem obavijesti kaznenog tijela kontaktirati žrtvu odnosno članove njezine obitelji ako je žrtva preminula koji nisu tijekom kaznenog ili prekršajnog postupka ili nakon pravomoćnog okončanja postupka samostalno ili putem punomoćnika ili zakonskog zastupnika podnijeli svoj zahtjev iz članka 3. stavka 1. ovog Pravilnika, a u slučajevima kada se radi o kaznenim djelima protiv spolne slobode, protiv života i tijela, s elementima nasilja, ratnog zločina i prekršaja sukladno odredbama zakona kojim se uređuje zaštita od nasilja u obitelji.

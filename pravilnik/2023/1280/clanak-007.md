@@ -1,0 +1,9 @@
+## Način razmjene podataka
+# Članak 7.
+(1) Informacije i obrasci iz članka 6. ovog Pravilnika razmjenjivat će se putem elektroničke pošte, odnosno putem informacijskog sustava.
+(2) Sukladno zahtjevu žrtve odnosno članova njezine obitelji ako je žrtva preminula, kazneno tijelo će prije prvog samostalnog izlaska zatvorenika ili kažnjenika o tome dostaviti obavijest Službi za podršku na Obrascu IV, a zatim će prije svakog samostalnog izlaska zatvorenika ili kažnjenika dostaviti informaciju o izlasku, vrsti i trajanju izlaska te mjestu korištenja izlaska.
+(3) U slučaju bijega zatvorenika ili kažnjenika kazneno tijelo će bez nepotrebne odgode, nakon obavještavanja nadležne policijske uprave, obavijestiti i Službu za podršku.
+(4) U slučaju promjene datuma otpusta zatvorenika ili kažnjenika kazneno tijelo će o novom datumu otpusta bez nepotrebne odgode po saznanju obavijestiti Službu za podršku.
+(5) U slučaju da se zatvorenik ili kažnjenik po punom isteku kazne ne otpušta na slobodu nego ostaje u kaznenom tijelu po drugoj osnovi, kazneno tijelo će o navedenom obavijestiti Službu za podršku koja će o tome obavijestiti žrtvu odnosno članove njezine obitelji ako je žrtva preminula.
+(6) U slučaju iz stavka 5. ovog članka, prilikom prvog samostalnog izlaska ili puštanja zatvorenika na slobodu po drugoj osnovi, kazneno tijelo će obavijestiti Službu za podršku, koja će o samostalnom izlasku ili puštanju zatvorenika ili kažnjenika na slobodu obavijestiti žrtvu odnosno članove njezine obitelji ako je žrtva preminula, čime prestaju obaveze daljnjeg obavještavanja po navedenoj osnovi.
+(7) Ako u obrascima nisu navedeni svi podaci ili su podaci nepotpuni, Služba za podršku može elektroničkim putem zatražiti podatke koji nedostaju te koje će kazneno tijelo dostaviti ako istima raspolaže, a iznimno i u slučaju hitnosti podaci se mogu dostaviti na drugi odgovarajući način o čemu će se sastaviti službena bilješka.
