@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 13., članka 19. stavaka 10. i 11. i članka 20. stavka 8. Zakona o izdavanju pokrivenih obveznica i javnom nadzoru pokrivenih obveznica (»Narodne novine«, br. 53/2022.) i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi
