@@ -1,0 +1,4 @@
+# Članak 33.
+(1) U cijelom tekstu Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18. i 98/19.) riječi: »ured državne uprave u županiji« u određenom padežu zamjenjuje se riječima: »upravno tijelo županije« u odgovarajućem padežu.
+(2) U cijelom tekstu Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18. i 98/19.) riječi: »Središnji državni ured za obnovu i stambeno zbrinjavanje« i »Središnji državni ured« u određenom padežu zamjenjuju se riječima: »Ministarstvo prostornoga uređenja, graditeljstva i državne imovine«, odnosno riječju: »Ministarstvo« u odgovarajućem padežu.
+(3) U cijelom tekstu Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18. i 98/19.) riječi: »državni tajnik Središnjeg državnog ureda« u određenom padežu zamjenjuju se riječima: »ministar nadležan za poslove prostornoga uređenja, graditeljstva i državne imovine«.

@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 11. stavak 1. mijenja se i glasi:
+»(1) Članovi obitelji korisnika prava na obnovu objekata s IV., V. i VI. stupnjem oštećenja po propisu o obnovi i korisnika stambenog zbrinjavanja te članovi obitelji koji su ostvarili odgovarajuće pravo na stambeno zbrinjavanje po drugim propisima na teret državnog proračuna, mogu ostvariti pravo iz članka 7. ovoga Zakona ako vrate iznos sredstava koji je utrošen u obnovu odnosno njihovo stambeno zbrinjavanje po cijenama u vrijeme donošenja rješenja o ponovnom stambenom zbrinjavanju, na račun državnog proračuna ili uz umanjenje stambene površine koju su ostvarili kao članovi obitelji najmoprimca.«.
