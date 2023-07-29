@@ -1,0 +1,12 @@
+# Članak 22.
+U članku 142.a stavak 1. mijenja se i glasi:
+»(1) UAIF iz druge države članice može povući obavijest o namjeri trgovanja udjelima AIF-a u Republici Hrvatskoj u odnosu na sve ili dio AIF-ova kojima trguje u Republici Hrvatskoj ako su ispunjeni svi sljedeći uvjeti:
+a) da je UAIF, osim za zatvorene AIF-ove i Europske fondove za dugoročna ulaganja kako su definirani Uredbom (EU) 2015/760, dao opću ponudu za otkup ili isplatu svih udjela AIF-a na koji se odnosi povlačenje obavijesti koje drže ulagatelji u Republici Hrvatskoj, bez odbitka ili naplate naknada za otkup ili isplatu udjela
+b) da je ponuda iz točke a) ovoga stavka javno dostupna najmanje 30 radnih dana te da ju je UAIF, izravno ili preko financijskih posrednika, pojedinačno uputio svim ulagateljima u Republici Hrvatskoj, a čiji mu je identitet poznat
+c) da je UAIF na javno dostupnom mediju, koji je uobičajen za oglašavanje AIF-ova i prikladan za tipičnog ulagatelja u AIF, što uključuje i elektronička sredstva, objavio namjeru povlačenja obavijesti iz članka 142. stavka 1. ovoga Zakona i naveo AIF u odnosu na koji se obavijest povlači
+d) da je UAIF izmijenio ili raskinuo ugovore s financijskim posrednicima ili trećim osobama koje obavljaju distribuciju udjela AIF-a u odnosu na koji je obavijest povučena, a kako bi se spriječilo njihovo novo, daljnje, izravno ili neizravno distribuiranje. Izmjene ili raskid ugovora primjenjuju se od dana povlačenja obavijesti iz članka 142. stavka 1. ovoga Zakona.«.
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Od dana povlačenja obavijesti iz članka 142. stavka 1. ovoga Zakona, UAIF iz druge države članice dužan je u Republici Hrvatskoj prestati s novom ili daljnjom, izravnom ili neizravnom distribucijom udjela AIF-a u odnosu na koji je povučena obavijest.«.
+Dosadašnji stavci 2. do 5. postaju stavci 3. do 6.
+Dosadašnji stavak 6., koji postaje stavak 7., mijenja se i glasi:
+»(7) Neovisno o drugim nadzornim aktivnostima i ovlastima koje ima prema odredbama ovoga Zakona, od dana zaprimanja obavijesti o povlačenju obavijesti iz članka 142. stavka 1. ovoga Zakona, Agencija neće od UAIF-a koji je povukao obavijesti o namjeri trgovanja u Republici Hrvatskoj tražiti usklađenost s odredbama ovoga Zakona i drugim propisima kojima se uređuju zahtjevi o trgovanju AIF-ovima, a koji su objavljeni na internetskim stranicama Agencije u skladu s člankom 5. Uredbe (EU) 2019/1156.«.

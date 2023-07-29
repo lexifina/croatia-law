@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 20. stavci 1. i 2. mijenjaju se i glase:
+»(1) Kada imovina pod upravljanjem velikog UAIF-a padne ispod praga iz članka 18. stavka 1. ovoga Zakona, dužan je o tome bez odgode obavijestiti Agenciju. U navedenoj obavijesti UAIF mora navesti kategoriju UAIF-a u kojoj dalje namjerava poslovati.
+(2) Ako iz obavijesti iz stavka 1. ovoga članka proizlazi da UAIF ne namjerava nastaviti poslovati kao veliki UAIF, Agencija će donijeti rješenje o ukidanju rješenja kojim je izdano odobrenje za rad velikog UAIF-a te kojim se izdaje odobrenje za rad srednjeg odnosno malog UAIF-a, ovisno o tome kao kakav UAIF namjerava dalje poslovati. Od izvršnosti navedenog rješenja Agencije na UAIF se primjenjuju odredbe ovoga Zakona i Delegirane uredbe 231/2013 koje je dužan primjenjivati srednji odnosno mali UAIF.«.
