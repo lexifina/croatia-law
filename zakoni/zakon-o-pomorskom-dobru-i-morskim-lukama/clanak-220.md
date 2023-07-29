@@ -1,0 +1,4 @@
+## Provedba utvrđenih granica pomorskog dobra
+# Članak 220.
+(1) Pomorsko dobro utvrđeno u skladu sa Zakonom o pomorskom dobru i morskim lukama (»Narodne novine«, br. 158/03., 100/04., 141/06., 38/09., 123/11., 56/16. i 98/19.), za koje je izrađen parcelacijski odnosno geodetski elaborat s ucrtanom granicom pomorskog dobra, upisat će se u zemljišne knjige kao pomorsko dobro, a upisanim vlasnicima pripada pravo na naknadu kao da je provedeno izvlaštenje pod uvjetima iz članka 10. stavka 5. ovoga Zakona.
+(2) Nadležno državno odvjetništvo pokrenut će postupak uknjižbe pomorskog dobra iz stavka 1. ovoga članka u roku od godine dana od dana donošenja ovoga Zakona, na temelju akta kojim je granica pomorskog dobra odnosno lučkog područja utvrđena i prijavnog lista koje izrađuje tijelo nadležno za katastar.

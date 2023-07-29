@@ -1,0 +1,10 @@
+## Utvrđivanje obuhvata lučkog područja luke otvorene za javni promet
+# Članak 87.
+(1) Obuhvat lučkog područja luke otvorene za javni promet utvrđuje i mijenja osnivač uredbom odnosno odlukom o osnivanju lučke uprave.
+(2) Obuhvat lučkog područja luke otvorene za javni promet utvrđuje se tako da je u skladu s prostornim planovima. U odluci o osnivanju lučke uprave kojom se određuje lučko područje luke iz stavka 1. ovoga članka potrebno je utvrditi koje su nekretnine pomorsko dobro po samom zakonu, a koje to postaju zbog provedbe dokumenata prostornog uređenja radi izgradnje luke. Navedeno se odnosi i na proširenje lučkog područja.
+(3) Prije donošenja odluke o određivanju lučkog područja luke iz stavka 1. ovoga članka utvrđuje se granica pomorskog dobra za to područje i to po hitnom postupku. Isto se odnosi i na proširenje lučkog područja. Iznimno, ako se radi o proširenju luke na novi bazen koji se u naravi koristi kao luka, nije potrebno utvrđivati granicu, ali se u odluci o utvrđivanju lučkog područja to mora izrijekom navesti.
+(4) Lučka uprava dužna je predložiti osnivaču izmjenu obuhvata lučkog područja kada to zahtijevaju razvojni, gospodarski, administrativni, prostornoplanski ili drugi razlozi.
+(5) Lučko područje luke od osobitog (međunarodnog) gospodarskog interesa za Republiku Hrvatsku može se nalaziti na području više jedinica lokalne samouprave i jedinica područne (regionalne) samouprave.
+(6) Lučko područje luke otvorene za javni promet od županijskog i lokalnog značaja utvrđuje se tako da obuhvati sva područja koja se u stvarnosti koriste kao lučka područja, a izvan su lučkog sustava.
+(7) Na temelju uredbe odnosno odluke o osnivanju kojom je utvrđen ili izmijenjen obuhvat lučkog područja luke otvorene za javni promet nadležna lučka uprava dužna je naručiti geodetski elaborat u svrhu uknjižbe utvrđenog pomorskog dobra – lučkog područja kao takvog u katastru i zemljišnoj knjizi.
+(8) Na upis utvrđenog lučkog područja luke otvorene za javni promet odgovarajuće se primjenjuju odredbe ovoga Zakona o evidenciji pomorskog dobra u katastru i zemljišnoj knjizi.

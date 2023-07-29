@@ -1,0 +1,7 @@
+## Stjecanje prava na obavljanje lučkih djelatnosti
+# Članak 108.
+(1) Pravo na obavljanje lučkih djelatnosti iz članka 107. stavaka 2. i 3. ovoga Zakona pružatelj lučke usluge stječe na temelju koncesije, u skladu s posebnim propisom kojim je uređena uspostava okvira za pružanje lučkih usluga i zajedničkih pravila o financijskoj transparentnosti luka.
+(2) Koncesija za obavljanje lučkih djelatnosti iz članka 107. stavaka 2. i 3. ovoga Zakona koja obuhvaća pravo isključivog korištenja izgrađene lučke podgradnje i nadgradnje i/ili pravo na gradnju nove lučke podgradnje i nadgradnje stječe se na temelju provedenog postupka dodjele koncesije na pomorskom dobru, sukladno članku 48. stavku 3. ovoga Zakona.
+(3) Koncesija za obavljanje lučkih djelatnosti iz članka 107. stavaka 2. i 3. ovoga Zakona koja ne zahtijeva isključivo korištenje izgrađene lučke podgradnje i nadgradnje niti gradnju nove lučke podgradnje i nadgradnje stječe se na temelju provedenog postupka dodjele koncesije na pomorskom dobru, a daje se u postupku propisanom člankom 64. ovoga Zakona.
+(4) Iznimno od stavka 3. ovoga članka, Upravno vijeće može odlučiti o pravu na obavljanje ostalih gospodarskih djelatnosti iz članka 107. stavka 3. točke 2. ovoga Zakona, koje ne zahtijevaju gradnju i/ili korištenje lučke podgradnje i nadgradnje i čiji broj nije ograničen dodijeliti, sukladno članku 48. stavku 3. ovoga Zakona.
+(5) Ugovor o pružanju lučke usluge je ugovor o koncesiji.

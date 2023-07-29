@@ -1,0 +1,5 @@
+# Članak 198.
+(1) Novčanom kaznom u iznosu od 6000,00 do 33.000,00 eura kaznit će se za pomorski prekršaj pravna osoba koja je, na temelju akta koji predstavlja valjanu pravnu osnovu određenu ovim Zakonom, stekla pravo posebne upotrebe i/ili gospodarskog korištenja pomorskog dobra, gradnje i/ili obavljanja drugih radova i zahvata u prostoru pomorskog dobra koji se prema posebnim propisima kojima se uređuje građenje ne smatraju građenjem, nasipavanja mora, ograničenja ili isključenja dijela pomorskog dobra od opće upotrebe te drugog ovlaštenja stečenog na temelju odredbi ovoga Zakona, a to pravo ne koristiti na način, u opsegu i granicama određenim aktom kojim je to pravo stekla te u skladu s odredbama ovoga Zakona (članak 12. stavak 2.).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se novčanom kaznom u iznosu od 2000,00 do 6000,00 eura i odgovorna osoba u pravnoj osobi.
+(3) Za prekršaj iz stavka 1. ovoga članka novčanom kaznom u iznosu od 4000,00 do 10.000,00 eura kaznit će se obrtnik i osoba koja obavlja drugu samostalnu djelatnost.
+(4) Za prekršaj iz stavka 1. ovoga članka fizička osoba kaznit će se novčanom kaznom u iznosu od 1000,00 do 6000,00 eura.
