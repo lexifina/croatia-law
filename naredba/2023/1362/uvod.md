@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 6. Zakona o zdravlju životinja (»Narodne novine«, br. 152/22 i 154/22) i članka 52. stavka 2. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19) ministrica poljoprivrede donosi
