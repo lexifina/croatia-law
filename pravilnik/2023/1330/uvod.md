@@ -1,0 +1,1 @@
+Na temelju članka 138. stavka 2. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 76/22) i na prijedlog Upravnog vijeća Hrvatske akademske i istraživačke mreže - CARNET, ministar znanosti i obrazovanja, uz prethodnu suglasnost ministra mora, prometa i infrastrukture i državnog tajnika Središnjega državnog ureda za razvoj digitalnog društva donosi

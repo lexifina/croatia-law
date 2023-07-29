@@ -1,0 +1,5 @@
+## Odlučivanje o arbitražnom postupku
+# Članak 28.
+(1) Ako u arbitraži prema odredbama ovih arbitražnih pravila bude utvrđeno da su ispunjeni uvjeti iz članka 27. stavka 1. ili da je u slučaju spora iz članka 27. stavka 2. povrijeđeno pravo treće osobe, donijet će se odluka kojom se korisniku domene oduzima pravo korištenja domene o kojoj se vodi postupak i dodjeljuje pravo na korištenje domene podnositelju zahtjeva ili odluka o brisanju domene ako podnositelj zahtjeva ne ostvaruje pravo na registraciju .hr domene.
+(2) U slučaju neispunjavanja uvjeta iz članka 27. stavka 1. donosi se odluka o odbijanju zahtjeva podnositelja.
+(3) U arbitražnom postupku prema odredbama ovog Pravilnika ne mogu se donositi nikakve druge odluke, a osobito odluke o naknadi ugovorne ili izvanugovorne štete, odluke kojima se korisniku domene nalaže da nešto učini, trpi ili propusti, odluke o naknadi troškova postupka i slično osim ako stranke u postupku zaključe valjani arbitražni sporazum kojim arbitra ili arbitre ovlašćuju da takvu odluku donesu.
