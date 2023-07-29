@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 3.
+(1) Postupci provođenja javnog natječaja za izdavanje energetskog odobrenja sukladno članku 133. stavcima 2., 3. i 4. Zakona o tržištu električne energije (»Narodne novine«, br. 111/21.) i postupci izdavanja energetskih odobrenja sukladno članku 133. stavku 5. Zakona o tržištu električne energije (»Narodne novine«, br. 111/21.) koji nisu dovršeni odnosno izdani do dana stupanja na snagu ovoga Zakona dovršit će se odnosno izdati sukladno odredbama Zakona o tržištu električne energije (»Narodne novine«, br. 111/21.).
+(2) Na izdana energetska odobrenja sukladno članku 133. stavku 5. Zakona o tržištu električne energije (»Narodne novine«, br. 111/21.) do dana stupanja na snagu ovoga Zakona, kao i na energetska odobrenja iz stavka 1. ovoga članka primjenjuje se odredba članka 17. stavka 25. Zakona o tržištu električne energije (»Narodne novine«, br. 111/21.).

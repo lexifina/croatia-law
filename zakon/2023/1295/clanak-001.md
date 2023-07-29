@@ -1,0 +1,10 @@
+## ELEKTRIČNE ENERGIJE
+# Članak 1.
+U Zakonu o tržištu električne energije (»Narodne novine«, br. 111/21.) u članku 17. stavci 25. do 30. mijenjaju se i glase:
+»(25) Nositelj projekta, po pravomoćnosti energetskog odobrenja i sklopljenog ugovora o priključenju s operatorom sustava, podnosi zahtjev za izdavanje lokacijske ili građevinske dozvole kod nadležnog tijela, a po pravomoćnosti i izvršnosti lokacijske ili građevinske dozvole osniva pravo služnosti odnosno građenja na nekretninama u vlasništvu Republike Hrvatske odnosno na nekretninama u vlasništvu jedinica lokalne i područne (regionalne) samouprave.
+(26) Energetsko odobrenje izdaje se na rok od sedam godina od dana njegove pravomoćnosti te se ne može produljiti nositelju projekta.
+(27) Iznimno od stavka 26. ovoga članka, Ministarstvo ukida energetsko odobrenje ako nositelj projekta u roku od tri godine od dana pravomoćnosti energetskog odobrenja ne ishodi lokacijsku dozvolu. Nositelj projekta dužan je u navedenom roku Ministarstvu dostaviti lokacijsku dozvolu.
+(28) Iznimno od stavka 26. ovoga članka, Ministarstvo ukida energetsko odobrenje ako nositelj projekta u roku od pet godina od dana pravomoćnosti energetskog odobrenja ne ishodi građevinsku dozvolu, a nadležno ministarstvo raskida ugovor o osnivanju prava služnosti ili ugovor o osnivanju prava građenja ili ugovor o osnivanju prava služnosti na šumi i šumskom zemljištu tom nositelju projekta. Nositelj projekta dužan je u navedenom roku nadležnom ministarstvu i Ministarstvu dostaviti građevinsku dozvolu.
+(29) Nositelj projekta dužan je u roku iz stavka 26. ovoga članka izgraditi proizvodno postrojenje i ishoditi pravomoćnu uporabnu dozvolu. Nositelj projekta dužan je u navedenom roku Ministarstvu dostaviti pravomoćnu uporabnu dozvolu.
+(30) Iznimno od stavka 29. ovoga članka, za postrojenja hidroelektrana instalirane snage veće od 10 MW nositelj projekta dužan je u roku od deset godina od dana pravomoćnosti energetskog odobrenja izgraditi proizvodno postrojenje i ishoditi uporabnu dozvolu.«.
+U stavku 32. riječi: »te u Službenom listu Europske unije« brišu se.
