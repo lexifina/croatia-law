@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Sustav vlastite potrošnje proizvodnog postrojenja i samoopskrbe električnom energijom određen odredbama članka 51. koji je izmijenjen člankom 3. ovoga Zakona počinje s primjenom za postojeće i za nove korisnike od 1. siječnja 2024. i primjenjuje se do 31. prosinca 2025., a Ministarstvo će novi sustav vlastite potrošnje proizvodnog postrojenja i samoopskrbe izraditi do 31. ožujka 2025. i početi s njegovom primjenom od 1. siječnja 2026.
+(2) Krajnji kupci s vlastitom proizvodnjom, koji su to postali sukladno članku 51. stavku 14. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, br. 138/21.), danom stupanja na snagu ovoga Zakona smatraju se korisnicima postrojenja za samoopskrbu sukladno odredbama ovoga Zakona.
