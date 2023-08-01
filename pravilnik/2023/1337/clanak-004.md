@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Ako Agencija za znanost i visoko obrazovanje zaprimi zahtjev iz članka 2. st. 1. i 2. ovog Pravilnika odnosno ako visoko učilište u Republici Hrvatskoj zaprimi zahtjev za priznavanje inozemne kvalifikacije iz članka 2. stavka 1. i 3. uz koji nije dostavljen dokaz da je u cijelosti plaćena naknada za troškove postupka, pisanim putem će pozvati podnositelja zahtjeva da dostavi dokaz o plaćenoj naknadi, odnosno dokaz da je oslobođen plaćanja naknade, sukladno članku 6. ovog Pravilnika, u roku od 15 dana od dana dostave pisane obavijesti.
+(2) Po zahtjevima za koje nije uredno plaćena naknada, neće se postupati dok podnositelj zahtjeva ne dostavi dokaz o plaćenoj naknadi.
