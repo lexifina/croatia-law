@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o financiranju vodnog gospodarstva (»Narodne novine« br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17, 66/19) i članka 23. stavka 1. točke 4. Zakona o vodnim uslugama (»Narodne novine« 66/19), skupština Ponikve voda d.o.o., na svojoj redovnoj 60. sjednici održanoj 27. lipnja 2023. godine, donijela je
