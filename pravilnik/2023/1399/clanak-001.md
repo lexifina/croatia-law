@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o kontroli projekata (»Narodne novine«, broj 32/14 i 72/20) u članku 3. iza stavka 4. dodaje se stavak 5. koji glasi:
+»(5) Ako projekt obnove konstrukcije zgrade odnosno projekt obnove zgrade za cjelovitu obnovu zgrade koji se izrađuje prema posebnom zakonu kojim se uređuje obnova zgrada oštećenih potresom mora imati izvješće o obavljenoj kontroli revidenta, isto mora obuhvatiti kontrolu i potvrdu ispravnog odabira razine obnove potresom oštećenih konstrukcija zgrada u odnosu na mehaničku otpornost i stabilnost te indeksa znatnog oštećenja konstrukcije (IZO) prema Tehničkom propisu za građevinske konstrukcije.«.
