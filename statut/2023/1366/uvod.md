@@ -1,0 +1,1 @@
+Na temelju članka 133. stavka 1. točka 1. Zakona o javnom bilježništvu (»Narodne novine« broj 78/93, 72/94, 162/98, 16/07, 75/09, 120/16, 57/22), Skupština Hrvatske javnobilježničke komore na sjednici održanoj dana 03. lipnja 2023. godine usvojila je
