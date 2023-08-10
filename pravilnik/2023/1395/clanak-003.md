@@ -1,0 +1,6 @@
+# Članak 3.
+(1) Priređivanje zabavnih igara putem automata odobrava nadležni područni ured Porezne uprave prema sjedištu poreznog obveznika, izdavanjem evidencijskih markica sukladno odredbama članka 48. Zakona, za svaki pojedinačni automat.
+(2) Uz dokumentaciju navedenu u članku 48. Zakona, porezni obveznik mora priložiti i sljedeću dokumentaciju:
+1. za postavljanje automata u ugostiteljske objekte dokaz da ugostiteljski objekt ispunjava uvjete propisane posebnim propisima za tu djelatnost.
+2. za postavljanje automata u ostale prostore iz članka 2. stavka 2. ovoga Pravilnika dokaz o ispunjavanju uvjeta propisanih mjera zaštite od direktnog dodira i ispravnosti zaštite od indirektnog dodira sukladno odredbama propisa koji uređuju ovo područje, izjavu da je automat koji se postavlja zaštićen u smislu stabilnosti, te da ne ugrožava sigurnost igrača i ostalih ljudi koji se nalaze u blizini automata.
+(3) Za postavljanje automata u zabavni klub sukladno članku 2. stavku 1. točki 11. Zakona, priređivač je dužan priložiti dokaz o vlasništvu odnosno pravu korištenja poslovnog prostora s tlocrtom, dokaz da se provode i ispunjavaju uvjeti uređeni posebnim propisima zaštite od požara te da su u prostoru dostupne pisane upute za goste i zaposleno osoblje za slučaj požara.
