@@ -1,5 +1,0 @@
-## II. PRIREĐIVANJE ZABAVNIH IGARA
-# Članak 2.
-(1) Automate za zabavne igre može postavljati i zabavne igre na automatima za zabavu može priređivati pravna ili fizička osoba registrirana za tu djelatnost.
-(2) Zabavne se igre mogu priređivati na automatima za zabavne igre, u posebno uređenim zabavnim klubovima, ugostiteljskim objektima, javnim objektima i drugim javnim prostorima (trgovački centri, sportske dvorane, stadioni, benzinske pumpe, tržnice, željezničke, autobusne te aerodromske čekaonice, turističke plaže, luna parkovi i drugo). Automati za zabavne igre ne mogu se postavljati u ugostiteljskim objektima koji se nalaze unutar prostorija obrazovnih i zdravstvenih ustanova, unutar prostorija tijela državne uprave, te prostorija lokalne i područne (regionalne) samouprave.
-(3) Automati za zabavne igre iz članka 16. stavka 2. Zakona stavljaju se u pogon pomoću kovanica ili žetona ili uz naplatu s time da igrač bez obzira na način uplate ne može ostvariti dobitak u novcu stvarima ili pravima tijekom igre, niti po završetku igre.

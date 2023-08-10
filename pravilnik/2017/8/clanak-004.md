@@ -1,6 +1,0 @@
-# Članak 4.
-(1) Prije stavljanja u uporabu automat za zabavne igre mora dobiti odobrenje za rad po obavljenom tehničkom pregledu, o čemu se izdaje potvrda (atest) o tehničkoj ispravnosti automata, koji vrijedi jednu godinu i mora se obnoviti prije isteka roka važenja.
-(2) Uz zahtjev za izdavanje potvrde o tehničkoj ispravnosti automata porezni obveznik podnosi deklaraciju i jamstvo proizvođača, s nazivom svake igre i s posebno opisanim pravilima igre.
-(3) Pravna osoba ovlaštena za obavljanje tehničkog pregleda ne smije tehnički pregledati automat za zabavne igre za koji nisu predočene isprave navedene u stavku 2. ovoga članka.
-(4) Ovlast pravnim osobama za provjeru tehničke ispravnosti automata za zabavne igre izdaje Ministarstvo financija-Porezna uprava. Za obavljanje tehničkog pregleda ovlast mogu dobiti samo one pravne ili fizičke osobe koje nisu vlasnici automata za igre na sreću i zabavne igre, koje se ne bave priređivanjem igara na sreću i zabavnih igara, te koje se ne bave proizvodnjom i iznajmljivanjem automata za igre na sreću ili zabavu.
-(5) Način obavljanja tehničkog pregleda automata za zabavne igre, prava i dužnosti pravne osobe ovlaštene za obavljanje tehničkog pregleda automata, te davanje ovlasti za obavljanje tehničkog pregleda propisat će ministar financija pravilnikom.
