@@ -1,1 +1,0 @@
-Na temelju članka 16. stavka 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj 82/15) i Zakona o sportu (»Narodne novine«, broj 71/06, 150/08, 124/10, 124/11, 86/12, 94/13, 85/15 i 19/16), državna tajnica Središnjeg državnog ureda za šport donosi

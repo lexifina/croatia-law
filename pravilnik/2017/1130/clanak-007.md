@@ -1,8 +1,0 @@
-# Članak 7.
-(1) Tijekom provođenja postupka priznavanja inozemnih stručnih kvalifikacija za kandidate iz članka 4. Središnji državni ured može izvršiti usporedbu između obrazovanja, stručnog usavršavanja, osposobljavanja i načina obavljanja profesije u državi u kojoj je stručna kvalifikacija stečena i uvjeta u Republici Hrvatskoj.
-(2) Za postupak usporedbe iz stavka 1. ovoga članka, Središnji državni ured može po potrebi osnovati Povjerenstvo za usporedbu stručnih kvalifikacija koje daje stručno mišljenje.
-(3) Jednom izvršena usporedba iz stavka 1. ovoga članka vrijedi za sve istovjetne stručne kvalifikacije.
-(4) Ako se na temelju usporedbe ocijeni da kvalifikacije kandidata ne odgovaraju, odnosno da postoje bitne razlike između stručnih kvalifikacija odnosno bitno različit sadržaj znanja kandidatu se može propisati dopunska mjera iz članka 18. Zakona o čemu Središnji državni ured donosi privremeno rješenje.
-(5) Privremenim rješenjem detaljno će se obrazložiti dopunska mjera na osnovu usporedbe obrazovne i/ili stručne kvalifikacije kandidata s obrazovnim i/ili stručnim kvalifikacijama koje su propisane u Republici Hrvatskoj i razini stručne kvalifikacije koju posjeduje kandidat prema članku 13. Zakona.
-(6) Protiv privremenog rješenja nije dopuštena žalba, ali se može pokrenuti upravni spor.
-(7) Naknadu troškova dopunske mjera plaća kandidat prije početka obavljanja dopunske mjere, a ona se odnosi na troškove upravne pristojbe sukladno zakonu kojim su uređene upravne pristojbe, troškove provjere kompetentnosti i troškove dodatnog obrazovanja ili stručnog usavršavanja i osposobljavanja.
