@@ -1,0 +1,5 @@
+## Dopuna Zahtjeva za Mjeru 2
+# Članak 11.
+(1) Ukoliko je Zahtjev nepotpun, Agencija za plaćanja će pisanim putem zatražiti dopunu dokumentacije, a podnositelj je dužan dostaviti traženu dokumentaciju preporučeno poštom ili osobno na adresu Agencije za plaćanja u roku od osam dana od dana zaprimanja pismena Agencije za plaćanja.
+(2) Agencija za plaćanja će dopune od podnositelja tražiti dostavom pismena preporučenom poštom, a ukoliko podnositelj nije preuzeo pošiljku prilikom prve dostave, dostava preporučene pošiljke biti će ponovljena samo još jednom uz objavu obavijesti na mrežnim stranicama Agencije za plaćanja te će se time smatrati da je podnositelj obaviješten o roku za dopunu.
+(3) Podnositelj je obvezan pratiti objave o rezultatima obrade predanih prijava na mrežnim stranicama Agencije za plaćanja radi pravovremene dostave dokumentacije u Agenciju za plaćanja.

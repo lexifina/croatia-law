@@ -1,0 +1,3 @@
+## Dodjela potpore
+# Članak 2.
+Potpora iz Programa dodjeljuje se u skladu s Uredbom Komisije (EU) br. 1408/2013 od 18. prosinca 2013. o primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije na potpore de minimis u poljoprivrednom sektoru (SL L 352, 24. prosinca 2013.) kako je posljednji put izmijenjena Uredbom Komisije (EU) 2022/2046 оd 24. listopada 2022. o izmjeni priloga Uredbi (EU) br. 1408/2013 radi njihove prilagodbe kako bi se uzele u obzir odredbe Sporazuma o povlačenju Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske iz Europske unije i Europske zajednice za atomsku energiju i njegova Protokola o Irskoj/Sjevernoj Irskoj (SL L 275/25, 25. 10. 2022.).
