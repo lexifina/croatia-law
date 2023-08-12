@@ -1,0 +1,2 @@
+# Članak 3.
+Uređena skijališta (u daljnjem tekstu: skijališta) u smislu ovog Pravilnika, posebno su uređene prirodne površine s izgrađenim i opremljenim građevinama, uključujući i privremene, opremljene žičarom koja ispunjava tehničke uvjete za siguran rad u skladu s posebnim propisima, za natjecateljsko i rekreativno skijanje te druge sportsko-rekreativne aktivnosti koje se odvijaju u pravilu na snijegu i rade trajno ili sezonski.
