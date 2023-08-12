@@ -1,0 +1,16 @@
+# Članak 12.
+(1) Tijekom provođenja postupka priznavanja inozemnih stručnih kvalifikacija za kandidate iz članka 7. stavka 1. ovoga Pravilnika tijelo državne uprave nadležno za sport može izvršiti usporedbu između obrazovanja, stručnog usavršavanja, osposobljavanja i načina obavljanja profesije u državi u kojoj je stručna kvalifikacija stečena i uvjeta u Republici Hrvatskoj.
+(2) Za postupak usporedbe iz stavka 1. ovoga članka, tijelo državne uprave nadležno za sport može po potrebi osnovati povjerenstvo za usporedbu stručnih kvalifikacija koje daje stručno mišljenje.
+(3) U postupku priznavanja stručnih kvalifikacija za osobe iz članka 8. stavka 1. ovoga Pravilnika stečenih u trećim zemljama, tijelo državne uprave nadležno za sport dužno je zatražiti mišljenje odgovarajuće obrazovne ustanove u Republici Hrvatskoj o stečenom obrazovanju i ishodima učenja kandidata, pri čemu će odgovarajuća obrazovna ustanova izvršiti usporedbu programa obrazovanja ustanove na kojoj je kandidat stekao svoje obrazovne kvalifikacije u trećoj zemlji i programa obrazovanja koje se pohađa za istu profesiju na istoj razini obrazovanja u Republici Hrvatskoj.
+(4) Jednom izvršena usporedba iz stavka 1. i mišljenje iz stavka 2. ovoga članka vrijedi za sve istovjetne stručne kvalifikacije.
+(5) Ako se na temelju usporedbe ocijeni da kvalifikacije kandidata ne odgovaraju, odnosno da postoje bitne razlike između stručnih kvalifikacija ili bitno različit sadržaj znanja osobi se može propisati dopunska mjera.
+(6) Dopunska mjera iz stavka 5. ovoga članka podrazumijeva:
+- razdoblje prilagodbe do tri godine ili
+- provjeru kompetentnosti.
+(7) Dopunska mjera iz stavka 6. ovoga članka propisuje se na temelju izbora kandidata.
+(8) Tijelo državne uprave nadležno za sport će zaključkom pozvati kandidata da se u roku od 30 dana pisanim putem očituje o izboru jedne od dopunskih mjera iz stavka 6. ovoga članka.
+(9) Dopunska mjera iz stavka 6. točke 1. ovoga članka podrazumijeva stjecanje dodatnog radnog iskustva u trajanju od najmanje dvije godine na poslovima za koje je podnio zahtjev za priznavanje inozemne stručne kvalifikacije uz nadzor stručne osobe najmanje na razini trenera 4. razine iz članka 19. stavka 2. Zakona o sportu.
+(10) Dopunska mjera iz stavka 6. točke 2. ovoga članka podrazumijeva provjeru razlika u stečenim kompetencija u odnosu na one koje su propisane u Republici Hrvatskoj na način da se stečene kompetencije provjeravaju:
+- u ustanovi za obrazovanje odraslih koja provodi programe sukladno članku 18. stavku 6. Zakona o sportu ukoliko se podnosi zahtjev za priznavanje inozemne stručne kvalifikacije za instruktora iz članka 18. Zakona o sportu ili sukladno članku 19. stavku 9. Zakona o sportu ukoliko se podnosi zahtjev za priznavanje inozemne stručne kvalifikacije za trenera 1., 2. ili 3. razine iz članka 19. stavka 2. Zakona o sportu
+- na kineziološkom fakultetu ukoliko se podnosi zahtjev za priznavanje stručne kvalifikacije za trenera 4. ili 5. razine iz članka 19. stavka 2. Zakona o sportu.
+(11) Troškove dopunske mjere, provjere kompetentnosti i dodatnog obrazovanja ili stručnog usavršavanja i osposobljavanja snosi osoba kojoj je izrečena dopunska mjera iz stavka 6. ovoga članka.

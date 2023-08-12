@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Odredbe ovog Pravilnika primjenjuju se na:
+- državljane država ugovornica Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije, koji su stekli stručne kvalifikacije u državi ugovornici Ugovora o Europskom gospodarskom prostoru i Švicarskoj Konfederaciji, odnosno koji su obavili pripravnički staž izvan svoje matične države, odnosno u državi ugovornici Ugovora o Europskom gospodarskom prostoru i Švicarskoj Konfederaciji, a koji u Republici Hrvatskoj, kao osobe zaposlene kod određenog poslodavca ili osobe koje obavljaju samostalnu djelatnost, žele obavljati reguliranu profesiju trenera ili instruktora
+- državljane trećih zemalja koji su stekli stručne kvalifikacije u državi ugovornici Ugovora o Europskom gospodarskom prostoru i Švicarskoj Konfederaciji
+- državljane država ugovornica Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije te trećih zemalja, koji su stručne kvalifikacije stekli izvan države ugovornice Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije odnosno u trećim zemljama.
+(2) Postupak priznavanja inozemnih stručnih kvalifikacija za obavljanje reguliranih profesija u području sporta provodi se sukladno Zakonu o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (u daljnjem tekstu: Zakon), Zakonu o sportu te ovom Pravilniku.
+(3) Pojmovi koji se koriste u ovom Pravilniku imaju značenje određeno Zakonom o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija i Zakonom o sportu.

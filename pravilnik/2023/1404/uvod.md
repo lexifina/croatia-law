@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, broj: 82/15, 70/19 i 47/20), a u vezi sa Zakonom o sportu (»Narodne novine«, broj: 141/22), ministrica turizma i sporta donosi
