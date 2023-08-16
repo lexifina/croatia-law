@@ -1,0 +1,11 @@
+# Članak 5.
+INFORMACIJE, RAZMJENA STRUČNJAKA I PRISTUP PROGRAMIMA ZA MLADE DIPLOMANTE I STIPENDISTE AGENCIJE
+5.1 Hrvatska i Agencija razmjenjuju informacije o sljedećem:
+a. sadržaj i planiranje njihovih sadašnjih i budućih svemirskih programa;
+b. pitanja od znanstvenog i tehničkog interesa koja proizlaze iz njihove svemirske djelatnosti. Posebice, Hrvatska prima izvješća koja Agencija objavljuje i stavlja na raspolaganje, kao i informacije o napretku programa Agencije.
+5.2 Pružanje bilo kakvih informacija o Agenciji u svim slučajevima podliježe poštivanju svih vlasničkih prava na takve informacije od strane Hrvatske. Hrvatska se nadalje obvezuje da neće širiti informacije koje podliježu sporazumima o povjerljivosti potpisanima s Agencijom ili koje inače nisu općenito dostupne izvan područja Hrvatske i država članica Agencije, bilo izravno ili putem posrednika koji djeluju na tim područjima ili izvan njih.
+5.3 Hrvatska nije dužna priopćiti informacije ako smatra da bi takva komunikacija ili širenje informacija bili u neskladu ili u suprotnosti s interesima vlastitih sporazuma s trećim stranama ili uvjeta pod kojima su te informacije dobivene.
+Agencija nije dužna priopćiti informacije ako smatra da bi takva komunikacija ili širenje informacija bili u neskladu ili u suprotnosti s interesima vlastitih sporazuma s trećim stranama ili uvjeta pod kojima su te informacije dobivene.
+5.4 Hrvatska i Agencija mogu uspostaviti program za omogućavanje razmjene stručnjaka koji se bave radom u nadležnosti Agencije, u skladu sa zakonima i propisima koji se odnose na ulazak i boravak u Hrvatskoj ili odlazak iz Hrvatske i pravnim okvirom Agencije, uključujući sporazume s trećim stranama.
+5.5 Hrvatska ima pristup programima za mlade diplomante i stipendiste Agencije, podložno uvjetima koji se zajednički dogovaraju.
+5.6 Hrvatska i Agencija zajedno se savjetuju i kada su zastupljene na međunarodnim organizacijama, konferencijama i sastancima koji se odnose na svemirske aktivnosti, u svrhu razmjene mišljenja o pitanjima od zajedničkog interesa te nastoje, prema potrebi, uskladiti svoja stajališta o pitanjima koja bi mogla utjecati na provedbu njihovih programa i aktivnosti zajedničkog prostora.
