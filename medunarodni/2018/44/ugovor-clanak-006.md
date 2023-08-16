@@ -1,4 +1,0 @@
-# Članak 6.
-POVLASTICE I IMUNITETI
-1. Za bilo koje aktivnosti koje se poduzimaju u Republici Hrvatskoj u okviru ovog Sporazuma Agencija ima pravnu osobnost na državnom području Republike Hrvatske. U tu svrhu, Hrvatska odobrava Agenciji povlastice i imunitete sadržane u Konvenciji o povlasticama i imunitetima specijaliziranih ustanova, koju je usvojila Opća skupština Ujedinjenih naroda 21. studenog 1947. godine, i koja je stupila na snagu u odnosu na Hrvatsku 8. listopada 1991. Za kupnju roba ili isporuku usluga učinjenih ili korištenih od strane ili u ime Agencije, za njene službene djelatnosti na državnom području Republike Hrvatske, Hrvatska će odobriti izravno oslobođenje od neizravnih poreza i davanja (naročito PDV).
-2. Za svaki od posebnih programa od zajedničkog interesa provedba takvih povlastica i imuniteta detaljno se opisuje u provedbenim dogovorima navedenim u gornjem članku 3.1.
