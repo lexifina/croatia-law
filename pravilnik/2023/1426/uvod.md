@@ -1,0 +1,1 @@
+Na temelju članka 155. stavka 11. Zakona o elektroničkim komunikacijama (»Narodne novine«, br. 76/22.) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19.) ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

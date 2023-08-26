@@ -1,0 +1,5 @@
+## Broj 112 i drugi pozivni brojevi hitnih služba
+# Članak 4.
+(1) Komunikacija prema brojevima hitnih služba ostvaruje se putem interpersonalnih komunikacijskih usluga između krajnjeg korisnika i pristupne točke hitnog poziva (u daljnjem tekstu: PSAP), pozivanjem broja 112 i drugih pozivnih brojeva hitnih služba koji su u uporabi u Republici Hrvatskoj (u daljnjem tekstu: drugi pozivni brojevi hitnih služba).
+(2) Usporedno s uporabom broja 112, pristup hitnim službama u Republici Hrvatskoj nastavlja se ostvarivati i putem drugih pozivnih brojeva za hitne službe utvrđenih Planom numeriranja (192, 193, 194, 195, 1987), osim ako se posebnim propisom ili odlukom nadležnog tijela državne uprave za koji od drugih pozivnih brojeva ne propiše ili ne odredi drukčije.
+(3) Drugi pozivni brojevi hitnih služba iz stavka 2. ovoga članka određuju se za one poslove koji su posebnim propisima određeni poslovima hitne službe na području Republike Hrvatske u skladu člankom 5. stavkom 1. točkom 24. Zakona o elektroničkim komunikacijama.

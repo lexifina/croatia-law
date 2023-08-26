@@ -1,0 +1,11 @@
+## Pristupačnost za krajnje korisnike s invaliditetom
+# Članak 8.
+(1) Operatori moraju omogućiti krajnjim korisnicima s invaliditetom, bez naknade, pristup brojevima hitnih služba putem njihovih komunikacijskih kanala, na način koji je jednak pristupu drugih krajnjih korisnika.
+(2) Jednaka pristupačnost iz stavka 1. ovoga članka osigurava se:
+1. putem kratkih tekstnih poruka (SMS)
+2. tekstnom komunikacijom u stvarnom vremenu uz glasovnu komunikaciju
+3. cjelovitim razgovorom ako je uz glasovnu komunikaciju omogućena i komunikacija putem videa na način da je komunikacija prema brojevima hitnih služba u kojoj se upotrebljavaju glas i tekst (uključujući tekstnu komunikaciju u stvarnom vremenu) sinkronizirana te da je sinkroniziran i videozapis, ako se nudi, na način da čini cjelovit razgovor.
+(3) Komunikacija iz stavka 2. ovoga članka prenosi se najprimjerenijem PSAP-u koji ima mogućnost odgovarajuće obraditi i odgovoriti na komunikaciju koju upućuju krajnji korisnici s invaliditetom, na način koji najbolje odgovara unutarnjem ustrojstvu hitne službe.
+(4) Za primanje komunikacije prema brojevima hitnih služba od strane krajnjih korisnika s invaliditetom nadležno tijelo za broj 112 i nadležno tijelo za hitnu službu moraju odrediti najprimjereniji PSAP iz stavka 3. ovoga članka, o kojem su obvezni bez odgode obavijestiti pristupnog operatora.
+(5) Najprimjereniji PSAP iz stavka 3. ovoga članka mora omogućiti odgovor na komunikaciju prema brojevima hitnih služba istim komunikacijskim sredstvima kojima je zaprimljena ta komunikacija, i to uporabom sinkroniziranog glasa i teksta (uključujući tekstnu komunikaciju u stvarnom vremenu), ili, ako je dostupan videopoziv, uporabom glasa, teksta (uključujući tekstnu komunikaciju u stvarnom vremenu) i videokomunikacije koja je sinkronizirana kao cjelovit razgovor. Za potrebe ove komunikacije nadležno tijelo za broj 112 i nadležna tijela za hitne službe mogu odrediti posrednog pružatelja usluga prijenosa (engl. relay service provider) kojim se mogu koristiti krajnji korisnici s invaliditetom.
+(6) Nadležno tijelo za broj 112 i operatori obvezni su krajnjim korisnicima s invaliditetom, koji se koriste uslugama roaminga, osigurati komunikaciju iz stavka 2. ovoga članka na broj 112.

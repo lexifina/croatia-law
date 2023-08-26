@@ -1,0 +1,5 @@
+## Obavješćivanje krajnjih korisnika o broju 112 i o načinima pristupa hitnim službama
+# Članak 10.
+(1) Agencija, u suradnji s nadležnim tijelom za broj 112, na prikladan i javno dostupan način obavješćuje sve krajnje korisnike, a osobito krajnje korisnike koji putuju u druge države članice Europske unije i krajnje korisnike s invaliditetom, sa svrhom, načinom uporabe i pristupačnosti broja 112.
+(2) Za potrebe jedinstvene baze podataka iz članka 16. stavka (b) Uredbe o roamingu, koju održava Tijelo europskih regulatora za elektroničke komunikacije (BEREC), nadležno tijelo za broj 112 i nadležna tijela za hitne službe moraju dostaviti Agenciji podatke o tehnički dostupnim načinima pristupa brojevima hitnih služba u Republici Hrvatskoj na koje krajnji korisnici, koji se koriste uslugama roaminga, mogu upućivati komunikaciju prema brojevima hitnih služba, uključujući krajnje korisnike s invaliditetom.
+(3) Nadležna tijela iz stavka 2. ovoga članka moraju bez odgode obavijestiti Agenciju o promjeni podataka iz stavka 2. ovoga članka.
