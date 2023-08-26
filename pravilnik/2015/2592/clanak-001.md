@@ -1,3 +1,0 @@
-## Predmet Pravilnika
-# Članak 1.
-Ovim se Pravilnikom propisuju način i uvjeti uporabe jedinstvenoga europskog broja za hitne službe 112 i e-poziva, tehnički i drugi zahtjevi za operatore javnih komunikacijskih mreža i javno dostupnih telefonskih usluga u ispunjavanju obveza prema središnjem tijelu nadležnom za zaprimanje poziva prema hitnim službama u skladu s posebnim zakonom, način, oblik i rokovi dostave podataka o ostvarenim pozivima prema broju 112, mjerila kakvoće usluge poziva na broj 112 i e-poziva te način i uvjeti provedbe privremenog i trajnog isključenja iz elektroničke komunikacijske mreže pretplatničke ili korisničke terminalne opreme u slučaju utvrđene zlouporabe poziva na broj 112.
