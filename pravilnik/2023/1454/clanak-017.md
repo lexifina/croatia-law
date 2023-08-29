@@ -1,0 +1,9 @@
+## V. ZAHTJEV ZA ISPLATU, POSTUPAK OBRADE, ODLUČIVANJE I ISPLATA
+# Članak 17.
+(1) Potpora se korisniku isplaćuje na temelju odobrenog Zahtjeva za isplatu.
+(2) Zahtjev za isplatu podnosi se Upravljačkom tijelu na način kako je propisano ovim Pravilnikom i Natječajem iz članka 9. stavka 1. ovoga Pravilnika.
+(3) Rok za dostavu Zahtjeva za isplatu definira se Natječajem i/ili Rješenjem o dodjeli sredstava iz članka 13. stavka 1. točke a) ovoga Pravilnika.
+(4) Ako je Zahtjev za isplatu nepotpun, Upravljačko tijelo će izdati Zahtjev za dopunu/obrazloženje/ispravak zahtjeva za isplatu (u daljnjem tekstu: Zahtjev za dopunu zahtjeva za isplatu) kojim će od korisnika tražiti dostavljanje dokumentacije koja nedostaje. Korisnik je dužan dostaviti traženu dokumentaciju preporučenom poštom s povratnicom ili osobno Upravljačkom tijelu u roku od deset radnih dana od prvog sljedećeg dana nakon dana zaprimanja Zahtjeva za dopunu zahtjeva za isplatu. Kad zadnji dan roka pada u nedjelju, na blagdan ili u drugi dan kad Upravljačko tijelo ne radi, rok istječe prvoga sljedećega radnog dana.
+(5) Vremenom zaprimanja Zahtjeva za dopunu zahtjeva za isplatu smatra se datum dostave korisniku.
+(6) Ako korisnik nije preuzeo Zahtjev za dopunu zahtjeva za isplatu prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena još jednom. Ako korisnik ne preuzme Zahtjev za dopunu zahtjeva za isplatu niti nakon ponovljene dostave, Zahtjev za dopunu zahtjeva za isplatu će se objaviti na oglasnoj ploči Ministarstva poljoprivrede, Uprave ribarstva u Zagrebu te će se dostava smatrati obavljenom istekom osmoga dana od dana objave Zahtjeva za dopunu zahtjeva za isplatu na oglasnoj ploči.
+(7) Datumom podnošenja potpunog Zahtjeva za isplatu smatra se datum dostave tražene dokumentacije i/ili tražene dopune/obrazloženja/ispravka iz stavka 4. ovoga članka.
