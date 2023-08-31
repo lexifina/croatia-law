@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 4. Zakona o udomiteljstvu (»Narodne novine«, br. 115/18. i 18/22.) i članka 317. stavka 5. Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22., 46/22., 119/22. i 71/23.) ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
