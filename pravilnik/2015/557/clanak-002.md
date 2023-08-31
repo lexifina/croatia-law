@@ -1,2 +1,0 @@
-# Članak 2.
-Ovim se Pravilnikom uređuje provedba Uredbe Komisije (EU) br. 389/2013 od 2. svibnja 2013. o uspostavi Registra Unije u skladu s Direktivom 2003/87/EZ Europskog parlamenta i Vijeća, odlukama br. 280/2004/EZ i br. 406/2009/EZ Europskog parlamenta i Vijeća i o ukidanju uredbi Komisije (EU) br. 920/2010 i br. 1193/2011 (SL L 122, 3. 5. 2013.) (dalje u tekstu: Uredba Komisije (EU) br. 389/2013).

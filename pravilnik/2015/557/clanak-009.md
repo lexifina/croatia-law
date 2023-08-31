@@ -1,4 +1,0 @@
-# Članak 9.
-(1) Svaki račun mora imati najmanje dva ovlaštena predstavnika, osim računa verifikatora koji ima najmanje jednoga ovlaštenog predstavnika. Ovlašteni predstavnici pokreću transakcije i druge procese u ime vlasnika računa sukladno članku 23. stavku 1. Uredbe Komisije (EU) br. 389/2013.
-(2) Svaka vrsta računa može imati najviše tri ovlaštena predstavnika, odnosno najviše dva dodatna ovlaštena predstavnika sukladno članku 23. stavku 6. Uredbe Komisije (EU) br. 389/2013.
-(3) Ovlašteni predstavnici i dodatni ovlašteni predstavnici su fizičke osobe starije od 18 godina. Svi ovlašteni predstavnici i dodatni ovlašteni predstavnici jednog računa su različite osobe, ali jedna osoba može biti ovlašteni predstavnik ili dodatni ovlašteni predstavnik za više od jednog računa. Najmanje jedan ovlašteni predstavnik računa mora imati prebivalište u Republici Hrvatskoj, osim ako se radi o računu verifikatora sukladno članku 23. stavku 7. Uredbe Komisije (EU) br. 389/2013.
