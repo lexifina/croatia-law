@@ -1,0 +1,4 @@
+## Promjena države članice nadležne za operatora zrakoplova
+# Članak 21.
+(1) Vlasnik računa operatora zrakoplova kojem je Republika Hrvatska određena kao nadležna država članica sukladno članku 22. stavak 11. Delegirane uredbe Komisije (EU) br. 2019/1122 dužan je dostaviti nacionalnom administratoru informacije o otvaranju računa u skladu s člankom 15. Delegirane uredbe Komisije (EU) br. 2019/1122 i člankom 5. ovog Pravilnika i informacije o ovlaštenim predstavnicima računa u skladu s člankom 21. Delegirane uredbe Komisije (EU) br. 2019/1122 i člankom 7. ovog Pravilnika u roku od 30 dana od dana promjene nadležnog administratora računa operatora zrakoplova.
+(2) Nacionalni administrator privremeno zabranjuje pristup računu operatora zrakoplova iz stavka 1. ovog članka do dostave dokumentacije za otvaranje računa i provjere njene potpunosti, ažuriranosti, točnosti i istinitosti sukladno članku 21. stavku 4. Delegirane uredbe Komisije (EU) br. 2019/1122.

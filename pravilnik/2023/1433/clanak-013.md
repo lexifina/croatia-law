@@ -1,0 +1,3 @@
+# Članak 13.
+(1) Ako na računu za trgovanje iz članka 4. stavka 1. točke 16. ovog Pravilnika, u razdoblju od jedne godine nije zabilježena nijedna transakcija, nacionalni administrator traži od vlasnika računa da dostavi pisani zahtjev za održavanje računa u skladu s člankom 28. stavkom 2. Delegirane uredbe Komisije (EU) br. 2019/1122.
+(2) Nacionalni administrator zatvara račun za trgovanje iz članka 4. stavka 1. točke 16. ovog Pravilnika ako vlasnik računa u roku od 40 radnih dana ne dostavi pisani zahtjev za održavanje računa u skladu s člankom 28. stavkom 2. Delegirane uredbe Komisije (EU) br. 2019/1122.

@@ -1,0 +1,2 @@
+# Članak 19.
+Nacionalni administrator unosi podatke o emisijama za prethodnu kalendarsku godinu na račun operatora zrakoplova koji se smatra malim onečišćivačem u skladu s člankom 55. stavkom 1. Provedbene uredbe Komisije (EU) br. 2018/2066 оd 19. prosinca 2018. o praćenju i izvješćivanju o emisijama stakleničkih plinova u skladu s Direktivom 2003/87/EZ Europskog parlamenta i Vijeća i o izmjeni Uredbe Komisije (EU) br. 601/2012.

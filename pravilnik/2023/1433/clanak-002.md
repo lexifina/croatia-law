@@ -1,0 +1,5 @@
+# Članak 2.
+Ovim Pravilnikom osigurava se provedba sljedećih akata Europske unije:
+1. Uredbe Komisije (EU) br. 389/2013 od 2. svibnja 2013. o uspostavi Registra Unije u skladu s Direktivom 2003/87/EZ Europskog parlamenta i Vijeća, odlukama br. 280/2004/EZ i br. 406/2009/EZ Europskog parlamenta i Vijeća i o ukidanju uredbi Komisije (EU) br. 920/2010 i br. 1193/2011 (Tekst značajan za EGP) (SL L 122, 3. svibnja 2013.) (u daljnjem tekstu: Uredba Komisije (EU) br. 389/2013)
+2. Delegirane uredbe Komisije (EU) br. 2019/1122 оd 12. ožujka 2019. o dopuni Direktive 2003/87/EZ Europskog parlamenta i Vijeća u pogledu funkcioniranja Registra Unije (Tekst značajan za EGP) (SL L 177, 2. srpnja 2019.) (u daljnjem tekstu: Delegirana uredba Komisije (EU) br. 2019/1122)
+3. Delegirane uredbe Komisije (EU) br. 2019/1124 оd 13. ožujka 2019. o izmjeni Delegirane uredbe (EU) br. 2019/1122 u pogledu funkcioniranja Registra Unije na temelju Uredbe (EU) br. 2018/842 Europskog parlamenta i Vijeća (Tekst značajan za EGP) (SL L 177, 2. srpnja 2019.) (u daljnjem tekstu: Uredba Komisije (EU) br. 2019/1124).

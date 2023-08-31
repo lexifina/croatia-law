@@ -1,0 +1,3 @@
+# Članak 14.
+(1) Ako je na računu koji ispunjava uvjete za zatvaranje u skladu s člancima 25., 26. i 28. Delegirane uredbe Komisije (EU) br. 2019/1122 stanje emisijskih jedinica pozitivno, nacionalni administrator traži od vlasnika računa da dostavi informacije o drugom računu u Registru Unije na koji se te emisijske jedinice prenose u skladu s člankom 29. Delegirane uredbe Komisije (EU) br. 2019/1122.
+(2) Ako vlasnik računa ne odgovori na zahtjev iz stavka 1. ovog članka u roku od 40 radnih dana, nacionalni administrator preostale emisijske jedinice prebacuje na nacionalni račun u skladu s člankom 29. Delegirane uredbe Komisije (EU) br. 2019/1122.

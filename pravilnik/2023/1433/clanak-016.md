@@ -1,0 +1,3 @@
+# Članak 16.
+(1) Nacionalni administrator ovlaštenim predstavnicima privremeno zabranjuje pristup svim računima vlasnika računa ako zaprimi informacije da je vlasnik računa predmet postupka u slučaju nesolventnosti u skladu s člankom 30. stavkom 5. Delegirane uredbe Komisije (EU) br. 2019/1122.
+(2) Privremena zabrana iz stavka 1. ovog članka traje sve dok nacionalni administrator ne zaprimi dokumentaciju kojom se dokazuje tko ima pravo zakonski predstavljati vlasnika računa te dok novi vlasnik računa ne potvrdi imenovanja trenutnih ovlaštenih predstavnika računa ili imenuje nove ovlaštene predstavnike u skladu s člankom 21. Delegirane uredbe Komisije (EU) br. 2019/1122.

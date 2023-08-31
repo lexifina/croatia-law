@@ -1,0 +1,2 @@
+# Članak 10.
+Nacionalni administrator u slučaju opravdane sumnje u potpunost, ažurnost, točnost i istinitost informacija i dokumenata dostavljenih u svrhu otvaranja računa, registracije verifikatora ili imenovanja ovlaštenih predstavnika računa iz članka 4. stavka 1. točke 12. ovog Pravilnika, traži pomoć drugog nacionalnog administratora pri provedbi provjere u skladu s člankom 19. stavkom 1. i člankom 21. stavkom 4. Delegirane uredbe Komisije (EU) br. 2019/1122.

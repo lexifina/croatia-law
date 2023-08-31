@@ -1,0 +1,6 @@
+## Privremena zabrana pristupa računu
+# Članak 15.
+(1) Nacionalni administrator ovlaštenom predstavniku računa iz članka 4. stavka 1. točke 12. ovog Pravilnika ili verifikatoru iz članka 4. stavka 1. točke 17. ovog Pravilnika privremeno zabranjuje pristup bilo kojem računu u Registru Unije ili procesima kojima bi inače imao pristup ako je ispunjen barem jedan od uvjeta iz članka 30. stavka 1. Delegirane uredbe Komisije (EU) br. 2019/1122.
+(2) Nacionalni administrator privremeno zabranjuje pristup svim ovlaštenim predstavnicima računa iz članka 4. stavka 1. točke 12. ovog Pravilnika ako je ispunjen barem jedan od uvjeta iz članka 30. stavka 2. Delegirane uredbe Komisije (EU) br. 2019/1122.
+(3) Nacionalni administrator ovlaštenim predstavnicima računa ili verifikatoru iz stavka 1. ovog članka, privremeno zabranjuje pristup računu ako je ispunjen barem jedan od uvjeta propisanih člankom 30. stavkom 3. Delegirane uredbe Komisije (EU) br. 2019/1122.
+(4) Nacionalni administrator ovlaštenim predstavnicima računa ili verifikatorima iz stavka 1. ovog članka, privremeno zabranjuje pristup računima ako utvrdi da vlasnik računa više ne udovoljava zahtjevima za otvaranje računa ili da je otvaranje računa ili registracija verifikatora trebala biti odbijena u skladu s člankom 19. Delegirane uredbe Komisije (EU) br. 2019/1122.
