@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Vijeće vještaka, nakon primitka zahtjeva za vještačenje sa svim potrebnim prilozima, ispituje i ocjenjuje može li se na temelju dostavljenih podataka dati nalaz i mišljenje o ocjeni radne sposobnosti osobe koja se vještači.
+(2) Kada vijeće vještaka utvrdi da izabrani doktor nije pripremio medicinsku dokumentaciju u pogledu opsega i sadržaja u skladu s člancima 9. i 10. ove Uredbe, vratit će mu Obrazac 1-IN kao nepotpun i zatražiti dopunu medicinske i druge dokumentacije te o tome obavijestiti nadležnu ustrojstvenu jedinicu Hrvatskog zavoda za mirovinsko osiguranje.
+(3) Izabrani doktor dužan je u roku od pet dana od dana primitka zahtjeva za dopunu Obrasca 1-IN, kao i medicinske i druge dokumentacije, dostaviti dopunu Zavodu.
+(4) Kada je zatražena dopuna Obrasca 1-IN te medicinske i druge dokumentacije u smislu stavka 2. ovoga članka, rok za donošenje nalaza i mišljenja vijeća vještaka počinje teći od dana zaprimanja urednog Obrasca 1-IN te medicinske i druge dokumentacije u Zavodu.

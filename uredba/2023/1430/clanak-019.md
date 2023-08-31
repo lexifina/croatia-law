@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Nakon obavljene revizije ministarstvo nadležno za mirovinski sustav dužno je bez odgode vratiti predmet Zavodu.
+(2) Po primitku predmeta i postupanju sukladno članku 18. stavku 3. ove Uredbe Zavod dostavlja predmet nadležnoj ustrojstvenoj jedinici Hrvatskog zavoda za mirovinsko osiguranje u kojoj se nastavlja s postupkom za ostvarivanje prava.
+(3) Zavod je obvezan o nalazu i mišljenju bez odgađanja obavijestiti izabranog doktora, nadležnu ustrojstvenu jedinicu Hrvatskog zavoda za zdravstveno osiguranje i poslodavca kod kojega je osoba zaposlena, i to u roku osam dana od dana donošenja nalaza i mišljenja. Obavijest o nalazu i mišljenju služi kao dokaz o roku u kojemu je dan nalaz i mišljenje i kao informacija poslodavcu radi prava i obveza prema propisima iz obveznog zdravstvenog osiguranja i propisima o radu.
+(4) Nalaz i mišljenje iz stavka 3. ovoga članka smatra se danim u trenutku kada su vještak - revizor, odnosno vijeće vještaka - revizora dali i potpisali svoje mišljenje.
+(5) Ako je u reviziji utvrđeno da nalaz i mišljenje vijeća vještaka, odnosno vijeća viših vještaka koje je predmet revizije treba izmijeniti, nalaz i mišljenje smatra se danim nakon što je vijeće vještaka, odnosno vijeće viših vještaka uskladilo svoj nalaz i mišljenje s mišljenjem vještaka - revizora te potpisalo nalaz i mišljenje.

@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Ako je oštećenje organizma nastalo kao posljedica više rana, ozljeda ili bolesti, postoci predviđeni u Listi III za pojedina oštećenja ne zbrajaju se, već se kao osnova uzima oštećenje koje povlači najveći postotak i taj se postotak povećava prema utjecaju drugih oštećenja na cijeli organizam, s tim da tako utvrđeni postotak može iznositi najviše do 100 % - II. skupine. Za povećanje postotka uzimaju se u obzir samo ona oštećenja za koje je u Listi III predviđeno najmanje 20 %.
+(2) Ako zbog svih oštećenja iz stavka 1. ovoga članka postoji oštećenje organizma zbog kojega osoba nije pokretna i nije u stanju obavljati osnovne fiziološke potrebe bez pomoći druge osobe određuje se 100 % - I. skupina.

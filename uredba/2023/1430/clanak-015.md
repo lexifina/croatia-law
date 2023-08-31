@@ -1,0 +1,4 @@
+# Članak 15.
+(1) Kada utvrdi da je kod osobe nastalo smanjenje radne sposobnosti uz preostalu radnu sposobnost, vijeće vještaka će putem centra za profesionalnu rehabilitaciju utvrditi može li se s obzirom na njeno zdravstveno stanje, životnu dob, naobrazbu i sposobnost, osoba profesionalnom rehabilitacijom osposobiti za rad s punim radnim vremenom na drugim poslovima.
+(2) Vijeće vještaka će dati nalaz i mišljenje kojim će, sukladno pribavljenom mišljenju centra za profesionalnu rehabilitaciju, utvrditi druge poslove za koje se osoba može osposobiti za rad s punim radnim vremenom te trajanje i način provođenja profesionalne rehabilitacije.
+(3) Nalaz i mišljenje iz stavka 2. ovoga članka vijeće vještaka dužno je dati u roku od pet dana od dana primitka mišljenja centra za profesionalnu rehabilitaciju.

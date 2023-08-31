@@ -1,0 +1,4 @@
+# Članak 50.
+(1) Ako vijeće viših vještaka utvrdi da se iz nalaza i mišljenja vijeća vještaka ne može nedvojbeno utvrditi stvarno stanje i funkcioniranje osobe, predložit će nadležnom tijelu da se predmet vrati na ponovni postupak, odnosno na ponovno vještačenje u prvom stupnju.
+(2) Nalaz i mišljenje vijeća viših vještaka dano u drugostupanjskom postupku na temelju kojeg se stječe pravo s osnove utvrđene promjene u radnoj sposobnosti podliježe reviziji, u ministarstvu nadležnom za mirovinski sustav, odnosno ministarstvu nadležnom za hrvatske branitelje. U obavljanju revizije vijeće viših vještaka postupa sukladno odredbama članaka 18., 19. i 20. ove Uredbe.
+(3) Nakon obavljene revizije nadležno ministarstvo vraća predmet Zavodu koji je obvezan, ako nalaz i mišljenje vijeća viših vještaka treba mijenjati, dati novi nalaz i mišljenje sukladno mišljenju i uputama danim u postupku revizije.

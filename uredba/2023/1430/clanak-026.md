@@ -1,0 +1,11 @@
+## GLAVA V.
+## VJEŠTAČENJE ZA OSTVARIVANJE PRAVA IZ PODRUČJA RODILJNIH I RODITELJSKIH POTPORA
+# Članak 26.
+(1) Postupak vještačenja za ostvarivanje prava na temelju teškoća u razvoju djeteta, odnosno težeg tjelesnog ili mentalnog oštećenja ili teže psihičke bolesti zbog kojih dijete ne može samostalno izvoditi aktivnosti primjerene djetetovoj dobi te ovisi o pomoći druge osobe, pokreće zahtjevom nadležna ustrojstvena jedinica Hrvatskog zavoda za zdravstveno osiguranje.
+(2) Postupak vještačenja radi prijenosa prava na drugog roditelja zbog teške bolesti jednog od roditelja ili njegove ovisnosti o pomoći druge osobe radi čega je na duže vrijeme spriječen ili u znatnoj mjeri ograničen u obavljanju svoje roditeljske skrbi, pokreće zahtjevom nadležna ustrojstvena jedinica Hrvatskog zavoda za zdravstveno osiguranje.
+(3) Postupak vještačenja za ostvarivanje prava oba roditelja za dvoje ili više djece zbog težine njihovog mentalnog ili tjelesnog oštećenja odnosno teže psihičke bolesti, pokreće zahtjevom nadležna ustrojstvena jedinica Hrvatskog zavoda za zdravstveno osiguranje.
+(4) Zahtjevima za vještačenje iz stavaka 1., 2. i 3. ovoga članka mora biti priložena medicinska i druga dokumentacija te raniji nalaz i mišljenje.
+(5) U postupku iz stavka 1. ovoga članka vijeće vještaka na temelju uvida u medicinsku i drugu dokumentaciju daje nalaz i mišljenje o postojanju odnosno nepostojanju teškoća u razvoju djeteta bez neposrednog pregleda.
+(6) U postupku iz stavka 2. ovoga članka vijeće vještaka na temelju uvida u medicinsku i drugu dokumentaciju daje nalaz i mišljenje o teškoj bolesti jednog od roditelja ili njegovoj ovisnosti o pomoći druge osobe radi čega je na duže vrijeme spriječen ili u znatnoj mjeri ograničen u obavljanju svoje roditeljske skrbi, bez neposrednog pregleda.
+(7) U postupku iz stavka 3. ovoga članka vijeće vještaka na temelju uvida u medicinsku i drugu dokumentaciju daje nalaz i mišljenje o nemogućnosti roditelja da pruža odgovarajuću njegu za dvoje ili više djece zbog težine njihova mentalnog ili tjelesnog oštećenja odnosno teže psihičke bolesti, bez neposrednog pregleda.
+(8) Iznimno od stavaka 5., 6. i 7. ovoga članka, vijeće vještaka može obaviti neposredni pregled osobe koja se vještači ako se uvidom u medicinsku i drugu dokumentaciju ne može u potpunosti utvrditi činjenično stanje.

@@ -1,0 +1,3 @@
+# Članak 38.
+(1) Postotak oštećenja organizma utvrđuje se trajno ili privremeno.
+(2) Privremeni postotak oštećenja organizma utvrđuje se samo ako je to navedeno uz pojedinu točku Liste III ili ako postoje izgledi da će se oštećenje organizma invalida u znatnoj mjeri poboljšati primjenom bilo kojega medicinskog postupka (operativni zahvati, medicinska i fizikalna rehabilitacija, terapija lijekovima i drugo). Privremenost ocjene vezana uz pojedinu točku iz Liste III računa se od prve ocjene oštećenja organizma koja je temelj za donošenje konačnoga rješenja o priznavanju statusa na temelju propisa o zaštiti vojnih i civilnih invalida rata.

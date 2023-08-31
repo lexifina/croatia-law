@@ -1,0 +1,3 @@
+# Članak 44.
+(1) U drugi stupanj dodatka za njegu i pomoć druge osobe razvrstavaju se vojni i civilni invalid rata I. skupine, kod kojeg postoji bilo koje oštećenje organizma iz Liste III što nije obuhvaćeno u članku 43. stavku 1. ove Uredbe, a potrebna mu je njega i pomoć druge osobe.
+(2) U drugi stupanj dodatka za njegu i pomoć druge osobe razvrstava se i vojni i civilni invalid rata II., III. i IV. skupine, kojemu je organizam oštećen i neovisno o vojnom, odnosno civilnom invaliditetu, ako mu je ukupno oštećenje organizma jednako oštećenju invalida rata I. skupine, razvrstanoga u drugi stupanj dodatka za njegu i pomoć druge osobe.
