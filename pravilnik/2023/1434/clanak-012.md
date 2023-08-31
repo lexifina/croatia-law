@@ -1,0 +1,2 @@
+# Članak 12.
+Član Komisije izuzet će se od odlučivanja o korisniku odnosno podnositelju zahtjeva ako je korisnik odnosno podnositelj zahtjeva ili njegov zakonski zastupnik srodnik po krvi u ravnoj liniji, a u pobočnoj liniji do četvrtog stupnja zaključno, bračni drug, izvanbračni drug, životni partner, neformalni životni partner ili srodnik po tazbini do drugog stupnja zaključno i po prestanku braka ili životnog partnerstva, te ako je s korisnikom odnosno podnositeljem zahtjeva ili njegovim zakonskim zastupnikom u bliskom osobnom odnosu.

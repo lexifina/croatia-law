@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Član Komisije, predstavnik područnog ureda, može biti razriješen na osobni zahtjev ili na zahtjev područnog ureda i prije isteka mandata iz članka 4. stavka 3. ovoga Pravilnika.
+(2) Član Komisije, predstavnik organizacije civilnog društva, može bit razriješen na osobni zahtjev, zahtjev organizacije civilnog društva koja je predložila imenovanje navedenog člana, zahtjev krovne organizacije koja zastupa interese ciljane skupine korisnika ili na zahtjev područnog ureda i prije isteka mandata iz članka 4. stavka 3. ovoga Pravilnika.
+(3) Član Komisije, predstavnik pružatelja socijalne usluge iz članka 5. stavka 3. ovoga Pravilnika, može biti razriješen na osobni zahtjev, zahtjev pružatelja socijalne usluge koja je predložila imenovanje navedenog člana ili na zahtjev područnog ureda i prije isteka mandata iz članka 4. stavka 3. ovoga Pravilnika.
