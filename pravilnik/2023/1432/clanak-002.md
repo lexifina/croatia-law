@@ -1,0 +1,4 @@
+# Članak 2.
+Iza članka 22. dodaje se članak 22.a koji glasi:
+»Članak 22.a
+Ministarstvo nadležno za poslove graditeljstva propisuje zahtjeve vezano za kvalitetu proizvoda i kvalitetu usluga pri poticanju uvođenja mjera energetske učinkovitosti posebnim propisima kojima se uređuje gradnja i građevinski proizvodi uključujući propis o racionalnoj upotrebi energije i toplinskoj zaštiti u zgradama, pravilnik o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - (solarnih toplinskih sustava, fotonaponskih sustava, manjih kotlova i peći na biomase, plitkih geotermalnih sustava i dizalica topline) i pravilnikom o sustavu izobrazbe i certificiranja građevinskih radnika koji ugrađuju dijelove zgrade koji utječu na energetsku učinkovitost u zgradarstvu.«
