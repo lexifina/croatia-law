@@ -1,0 +1,7 @@
+## Vježbenici
+# Članak 6.
+1. Poslodavac će u skladu sa svojim materijalnim i tehničkim mogućnostima zapošljavati vježbenike palube, stroja i elektrotehnike radi stjecanja časničkog zvanja u službi palube ili stroja, a čija izobrazba se obavlja pod nadzorom osposobljenog i ovlaštenog časnika palube ili stroja, prema utvrđenom programu sukladno odredbama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca.
+2. Izobrazba vježbenika označuje stjecanje znanja i vještina putem uvježbavanja i savladavanja stručnih programa posebne namjene, propisanih Pravilnikom o zvanjima i svjedodžbama o osposobljenosti pomoraca.
+3. Poslodavac zaključuje s vježbenikom Ugovor o radu na određeno vrijeme. Dužina vježbeničkog staža za svako svojstvo na brodu određena je Pravilnikom o zvanjima i svjedodžbama o osposobljenosti pomoraca.
+4. O pravilnom i stručnom osposobljavanju vježbenike za samostalni rad brine se osoba određena od strane zapovjednika broda, odnosno odgovorna osoba odnosne službe, vodeći dužnu pažnju o korištenju radnog vremena, a sukladno Pravilniku o zvanjima i svjedodžbama o osposobljenosti pomoraca.
+5. Vježbenici imaju pravo na plaću, pomorski dodatak, prehranu i smještaj na brodu. Plaća vježbenika bit će sastavni dio Posebnog dodatka (1) Kolektivnog ugovora ugovorena sa svakim Poslodavcem posebno, ali ne smije biti niža od plaće utvrđene Općim dodatkom (1) Kolektivnog ugovora.

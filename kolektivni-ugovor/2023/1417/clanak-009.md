@@ -1,0 +1,9 @@
+## Radno vrijeme
+# Članak 9.
+1. Radno vrijeme i rad u smjenama pomoraca ukrcanih na brodovima ovisi o posebnim obilježjima pojedinih državnih, županijskih, međužupanijskih i lokalnih linija na kojima se obavlja prijevoz u linijskom i povremenom obalnom pomorskom prometu.
+2. Za vrijeme trajanja ukrcaja evidentiraju se sati rada i sati odmora pomoraca u skladu s posebnim propisom.
+3. Sukladno MLC-u i Pravilniku o uvjetima i načinu održavanja straže te obavljanju drugih poslova na brodu kojima se osigurava sigurna plovidba i zaštita mora od onečišćenja, redovno radno vrijeme pomoraca ukrcanih na brodovima Poslodavca u pravilu se temelji na osmosatnom radnom danu, s jednim danom odmora u tjednu i odmoru za državne blagdane.
+4. Najveći dopušteni broj sati rada pomoraca ne smije biti veći od 14 sati tijekom bilo koja 24 sata.
+5. Pomorac ima pravo na 10 sati odmora u razdoblju bilo kojih 24 sata i 77 sati odmora u razdoblju od bilo kojih 7 dana.
+6. Ukupno razdoblje odmaranja može biti podijeljeno u najviše 2 dijela od kojih jedan mora trajati najmanje 6 neprekidnih sati, a razdoblje između uzastopnih razdoblja odmora ne smije preći 14 sati.
+7. Iznimno od prethodnih stavaka ovog članka, zapovjednik broda ima pravo zahtijevati od svakog člana posade broda da obavi bilo koji sat rada potrebnog u slučaju neposredne opasnosti za sigurnost broda, posade i putnika na brodu ili teretu ili u svrhu pružanja pomoći drugim brodovima ili osobama u nevolji na moru. U takvoj situaciji, zapovjednik može suspendirati raspored sati rada ili sati odmora i zahtijevati od Pomorca da obavlja sve potrebne radne sate dok se ne uspostavi normalno stanje. Čim to okolnosti omoguće, a nakon uspostave normalne situacije, zapovjednik mora osigurati odgovarajuće razdoblje odmora svim pomorcima koji su obavljali rad tijekom planiranog razdoblja odmaranja.

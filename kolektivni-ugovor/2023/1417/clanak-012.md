@@ -1,0 +1,7 @@
+## Prekovremeni rad
+# Članak 12.
+1. Svaki rad koji je duži od redovnih radnih sati i sati posebnog rasporeda i organizacije radnog vremena smatrat će se prekovremenim radom.
+2. Sati posebnog rasporeda i organizacije radnog vremena, ne smatraju se prekovremenim radom.
+3. Zabilježbu o pojedinačnom prekovremenom radu vodi u dva (2) primjerka zapovjednik broda ili odgovorna osoba pojedine službe na brodu.
+4. Prekovremenim radom ne smatraju se sati rada za vrijeme opasnosti koja izravno utječe na neposrednu sigurnost Broda, njegovih putnika i posade, o čemu isključivo prosuđuje zapovjednik, ili pak prigodom vježbe spuštanja čamaca za spašavanje, te rad potreban radi pružanja pomoći drugim Brodovima ili osobama kojima neposredno prijeti pogibelj, vježbe gašenja požara te vježbe propisane IMO Međunarodnim standardom upravljanja za siguran rad Brodova i zaštitu od zagađivanja iz 1998. godine kako je izmijenjen i dopunjen (ISM Kodeks) i Sistemom upravljanja i sigurnosti (SMS Pravilima), Međunarodnim pravilnikom o sigurnosnoj zaštiti Brodova i lučkih prostora iz 2002. godine kako je izmijenjen i dopunjen (ISPS Pravilnik) i ostale vježbe predviđene Međunarodnom konvencijom o zaštiti ljudskih života na moru iz 1974. godine kako je izmijenjena i dopunjena (SOLAS Konvencija).
+5. Prekovremeni rad će se plaćati prema satnici koja je najmanje 50 % uvećana od satnice za redovni rad, osim ako nije drugačije definirano Posebnim dodatkom (1) Kolektivnog ugovora.
