@@ -1,0 +1,4 @@
+# Članak 16.
+(1) Kandidati za vještake koje Ministarstvo uputi na stručnu obuku, a koji budu imenovani vještacima, imaju pravo podnijeti zahtjev za povrat stvarnih putnih troškova za obavljenu stručnu obuku najkasnije 15 dana od sklapanja ugovora o vještačenju.
+(2) Naknada stvarnih putnih troškova uključuje povrat troškova javnog prijevoza (tramvaj, vlak, autobus, brod), troškova cestarine, tunelarine i mostarine te troškova korištenja osobnog vozila u iznosu od 0,40 centi po prijeđenom kilometru.
+(3) Zahtjev iz stavka 1. ovoga članka mora sadržavati podatke o datumu i vremenu obavljanja očevida te datumu i vremenu polaska i povratka iz mjesta prebivališta ili boravišta, a u slučaju korištenja osobnog vozila i podatke o početnom i završnom stanju brojila, prijeđenoj relaciji, broju registarske oznake, marki i tipu korištenog osobnog vozila. Uz zahtjev se prilažu originali računa sredstava javnog prijevoza, cestarine, mostarine, tunelarine i slično.
