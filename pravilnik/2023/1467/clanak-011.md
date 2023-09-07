@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Po primitku obavijesti iz članka 10. stavka 1. ovog Pravilnika, nadležna unutarnja ustrojstvena jedinica Hrvatske vatrogasne zajednice određuje nositelja provedbe te organizira primjeren način pružanja psihosocijalne zaštite.
+(2) Nositelj provedbe psihosocijalne zaštite iz stavka 1. ovog članka odmah uspostavlja kontakt s zapovjednikom/čelnikom vatrogasne organizacije i posredno s zapovjednikom/voditeljem koji je neposredno sudjelovao na mjestu događaja i/ili vatrogasnoj intervenciji.
+(3) Po primitku obavijesti iz članka 10. stavka 2., nadležni psiholog kao nositelj provedbe psihološke pomoći odmah uspostavlja kontakt s zapovjednikom/čelnikom vatrogasne organizacije i posredno s zapovjednikom/voditeljem koji je neposredno sudjelovao na mjestu događaja i/ili vatrogasnoj intervenciji.

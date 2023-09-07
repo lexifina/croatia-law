@@ -1,0 +1,5 @@
+## Pokretanje i tijek postupka psihosocijalne zaštite
+# Članak 10.
+(1) Postupanja iz psihosocijalne zaštite za događaj iz članka 9. stavka 1. ovog Pravilnika pokreće nadležni zapovjednik/čelnik vatrogasne organizacije ili osoba koju on ovlasti, ovisno o okolnostima, usmenom ili pisanom obavijesti nadležnoj unutarnjoj ustrojstvenoj jedinici Hrvatske vatrogasne zajednice posredno preko Državnog vatrogasnog operativnog centra 193.
+(2) Postupanja iz psihološke pomoći za događaj iz članka 9. stavka 2. i 3. ovog Pravilnika pokreće nadležni zapovjednik/čelnik vatrogasne organizacije ili osoba koju on ovlasti, ovisno o okolnostima, usmenom ili pisanom obavijesti nadležnom psihologu s kojim imaju ugovorenu obvezu i o tome informaciju na znanje dostavlja nadležnoj unutarnjoj ustrojstvenoj jedinici Hrvatske vatrogasne zajednice posredno preko Državnog vatrogasnog operativnog centra 193.
+(3) Postupak psihološke pomoći može zatražiti i vatrogasac osobno, usmenom ili pisanom obavijesti nadležnom zapovjedniku/čelniku vatrogasne organizacije ili nadležnoj unutarnjoj ustrojstvenoj jedinici Hrvatske vatrogasne zajednice.
