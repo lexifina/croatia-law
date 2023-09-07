@@ -1,0 +1,3 @@
+# Članak 2.
+Ovim pravilnikom u hrvatsko zakonodavstvo preuzimaju se sljedeći akt Europske unije:
+- Direktiva Vijeća 68/193/EEZ od 9. travnja 1968. o stavljanju na tržište materijala za vegetativno umnažanje vinove loze (SL L 93, 17. 4. 1968.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije 2020/177/EU od 11. veljače 2020. o izmjeni direktiva Vijeća 66/401/EEZ, 66/402/EEZ, 68/193/EEZ, 2002/55/EZ, 2002/56/EZ i 2002/57/EZ, direktiva Komisije 93/49/EEZ i 93/61/EEZ te provedbenih direktiva 2014/21/EU i 2014/98/EU u pogledu organizama štetnih za bilje na sjemenu i drugom reprodukcijskom materijalu bilja (SL L 41, 13. 2. 2020.).
