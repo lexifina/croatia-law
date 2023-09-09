@@ -1,0 +1,1 @@
+Na temelju članka 9.a Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, broj 33/01, 60/01, 129/05, 109/07, 125/08, 36/09, 150/11, 144/12, 19/13 - pročišćeni tekst, 137/15 - ispravak, 123/17, 98/19 i 144/20), ministar pravosuđa i uprave donosi
