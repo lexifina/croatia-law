@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 1. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13., 127/13., 39/18. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 31. kolovoza 2023., donijela

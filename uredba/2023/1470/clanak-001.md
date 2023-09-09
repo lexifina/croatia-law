@@ -1,0 +1,7 @@
+# Članak 1.
+U Uredbi o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, br. 22/03., 48/03., 39/06., 36/07., 25/13., 48/18., 15/19. i 99/22.) u članku 3. iza stavka 2. dodaju se novi stavci 3. i 4. i stavci 5. i 6. koji glase:
+»(3) Plaća za rad u predstavništvu u inozemstvu obračunava se i isplaćuje u pravilu u valuti euro.
+(4) Iznimno od stavka 3. ovoga članka, može se odlukom odobriti isplata plaće u valuti različitoj od eura uz primjenu srednjeg tečaja Hrvatske narodne banke koji vrijedi na prvi dan u mjesecu u kojem se isplaćuje plaća.
+(5) U slučaju promjene međusobnog odnosa srednjeg tečaja valute isplate plaće i eura, važećeg na prvi dan u mjesecu isplate, za više od +/- 10 % u odnosu na srednji tečaj Hrvatske narodne banke koji je vrijedio na dan početka primjene važeće Odluke o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva, uredit će se isplata prema tečaju koji je vrijedio na dan početka primjene važeće Odluke o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva, a do sljedeće redovite usklade prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva.
+(6) Prava iz stavaka 2., 3., 4. i 5. ovoga članka uredit će se odlukama ministra vanjskih i europskih poslova.«.
+Dosadašnji stavci 3. i 4. postaju stavci 7. i 8.
