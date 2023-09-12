@@ -1,0 +1,5 @@
+# Članak 84.
+Iza članka 119. dodaje se naslov i članak 119.a koji glase:
+»7.2.3. Služba za državne potpore u poljoprivredi
+Članak 119.a
+Služba za državne potpore u poljoprivredi koordinira i sudjeluje u izradi propisa u dijelu koji se odnosi na izravne i neizravne potpore u poljoprivredi, osigurava usklađenost državnih potpora poljoprivredi koje provode različita tijela državne uprave te lokalne i područne (regionalne) samouprave; vodi registar državnih potpora u poljoprivredi i ruralnom razvoju koje se financiraju iz državnog proračuna, proračuna jedinica lokalne i područne (regionalne) samouprave uključujući iz pripadajućih europskih fondova u skladu s posebnim propisima, osigurava usklađenost sustava upravljanja državnim potporama u poljoprivredi RH sa sustavom u EU, izrađuje izvješća o državnoj potpori za nacionalne i EU potrebe, komunicira s EU po pitanju notifikacije državnih potpora u poljoprivredi kao i s davateljima državne potpore, prati izvršenje i učinke državne potpore u poljoprivredi i ruralnom razvoju, prati zakonodavstvo u području državnih potpora poljoprivredi, te obavlja i druge poslove iz svoga djelokruga.«.

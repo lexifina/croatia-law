@@ -1,0 +1,8 @@
+# Članak 74.
+Naslov iznad članka 110. i članak 110. mijenjaju se i glase:
+»7.1.3. Služba za promotivne aktivnosti i Nacionalnu mrežu Zajedničke poljoprivredne politike
+Članak 110.
+Služba za promotivne aktivnosti i Nacionalnu mrežu Zajedničke poljoprivredne politike (u daljnjem tekstu: Nacionalna mreža ZPP) nadležna je za koordinaciju informiranja javnosti o svrsi, ciljevima, mogućnostima i načinima korištenja PRR-a i SP ZPP-a; provodi promotivne aktivnosti PRR-a i SP ZPP-a u skladu s Komunikacijskom strategijom za PRR i SP ZPP i komunikacijskim planovima te priprema opise poslova za povezane usluge i prati njihovo izvršenje; osigurava potporu radu Nacionalne mreže ZPP-a; daje tehničku potporu radu Odbora za praćenje PRR-a, odnosno Odbora za praćenje SP ZPP-a; surađuje s Agencijom za plaćanja, EK, Koordinacijskim tijelom te drugim tijelima povezanim s korištenjem tehničke pomoći u dijelu Nacionalne mreže ZPP-a i promotivnim aktivnostima; sudjeluje u radu tijela europskih institucija na pripremanju propisa i drugih akata iz djelokruga; sudjeluje u radu Europske mreže ZPP-a; organizira i podupire rad članstva i grupa unutar Nacionalne mreže ZPP-a; sudjeluje u pripremi strateškog programskog dokumenta za potpore poljoprivredi i ruralnom razvoju za financijsko razdoblje koje slijedi i s njime povezanim aktivnostima iz svoga djelokruga; po potrebi, izvještava nadležna tijela o sumnji na nepravilnosti i prijevare i utvrđenim nepravilnostima i prijevarama te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Službe za promotivne aktivnosti i Nacionalnu mrežu Zajedničke poljoprivredne politike, ustrojavaju se:
+7.1.3.1. Odjel za Nacionalnu mrežu Zajedničke poljoprivredne politike
+7.1.3.2. Odjel za promotivne aktivnosti.«.

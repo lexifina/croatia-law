@@ -1,0 +1,5 @@
+# Članak 14.
+Naslov iznad članka 29. i članak 29. mijenjaju se i glase:
+»4.2.2.2. Odjel za sudske postupke
+Članak 29.
+Odjel za sudske postupke surađuje s nadležnim državnim odvjetništvima u obavljanju poslova iz svoga djelokruga; vodi i ažurira evidenciju sudskih sporova na temelju podataka koje dostave druge ustrojstvene jedinice Ministarstva; pruža stručnu pomoć u izradi očitovanja u upravnim sporovima; surađuje s Uredom zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava; koordinira suradnju s nadležnim državnim odvjetništvima i drugim ustrojstvenim jedinicama Ministarstva vezano za postupke pred sudovima, upravnim i drugim tijelima; priprema odgovore i očitovanja te predlaže poduzimanje odgovarajućih mjera na zahtjev nadležnih državnih odvjetništava u građanskim i kaznenim postupcima i postupcima ovrhe i stečaja; poduzima radnje radi naplate potraživanja u predmetima koji se vode u Odjelu; sudjeluje u radu povjerenstava i radnih tijela Ministarstva te obavlja druge poslove iz svoga djelokruga.«.

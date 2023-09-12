@@ -1,0 +1,8 @@
+# Članak 85.
+Naslov iznad članka 120. i članak 120. mijenjaju se i glase:
+»7.3. Sektor za provedbu mjera i intervencija ruralnog razvoja
+Članak 120.
+Sektor za provedbu mjera i intervencija ruralnog razvoja koordinira i sudjeluje u izradi strateškog i programskog okvira za PRR i SP ZPP; analizira stanje u poljoprivredi i ruralnim područjima; koordinira i sudjeluje u programiranju mjera, odnosno intervencija potpore za unaprjeđenje konkurentnosti poljoprivrede, prerade i šumarstva, prilagodbu klimatskim promjenama i održivi razvoj ruralnih područja; koordinira izradu propisa u području nacionalnih mjera, odnosno intervencija potpore, surađuje s organizacijskom jedinicom nadležnom za državne potpore, sudjeluje u priprema prijedloge propisa iz svoga djelokruga i izradi drugih akata; koordinira izradu propisa u vezi s provedbom PRR-a i SP ZPP-a; sudjeluje u radu tijela Europskih institucija na pripremanju propisa iz djelokruga; sudjeluje u praćenju provedbe mjera i intervencija iz svoga djelokruga; sudjeluje u izradi prijedloga izmjena PRR-a i SP ZPP-a; sudjeluje u informiranju potencijalnih korisnika mjera ruralnog razvoja, odnosno intervencija SP ZPP-a i promociji PRR-a i SP ZPP-a; surađuje s tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave i stručnim ustanovama u planiranju i realizaciji PRR-a i SP ZPP-a; sudjeluje u radu Odbora za praćenje PRR-a i u Odboru za praćenje SP ZPP-a; sudjeluje u radu tijela europskih institucija u pitanjima iz svoga djelokruga te obavlja i druge poslove iz svoga djelokruga.
+Za obavljanje poslova Sektora za provedbu mjera i intervencija ruralnog razvoja, ustrojavaju se:
+7.3.1. Služba za razvoj konkurentnosti poljoprivrede
+7.3.2. Služba za razvoj lokalne zajednice.«.
