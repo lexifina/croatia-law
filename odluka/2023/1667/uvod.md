@@ -1,0 +1,1 @@
+Na temelju odredbe članka 98. stavka 1. podstavka 5. Ustava Republike Hrvatske (»Narodne novine«, broj 56/90, 135/97, 113/00, 28/01, 76/10 i 05/14 - Odluka Ustavnog suda Republike Hrvatske) i odredbe članaka 2., 3. i 24. Zakona o odlikovanjima i priznanjima Republike Hrvatske (»Narodne novine«, broj 20/95, 57/06, 141/06 i 118/19 ), donosim
