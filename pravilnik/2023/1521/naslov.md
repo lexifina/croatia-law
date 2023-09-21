@@ -1,0 +1,1 @@
+Pravilnik o visini nagrade i naknade troškova javnog bilježnika kao povjerenika suda u postupku sporazumnog uređenja međe, sporazumnog razvrgnuća suvlasništva, proglašenja nestale osobe umrlom i dokazivanja smrti
