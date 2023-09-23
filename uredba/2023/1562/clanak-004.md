@@ -1,0 +1,5 @@
+## PROSJEČNA CIJENA SMJEŠTAJA U DJEČJIM VRTIĆIMA
+# Članak 4.
+(1) Prosječna cijena smještaja po djetetu na razini Republike Hrvatske izračunava se na način da se ukupni troškovi javnih vrtića za fiskalnu godinu koja prethodi pedagoškoj godini za koju se dodjeljuju sredstva dijele s ukupnim brojem upisane djece u javnim vrtićima u pedagoškoj godini koja prethodi pedagoškoj godini za koju se dodjeljuju sredstva, evidentirane u zajedničkom elektroničkom upisniku.
+(2) U ukupne troškove dječjih vrtića iz stavka 1. ovoga članka ubrajaju se rashodi iskazani u godišnjim financijskim izvještajima za prethodnu fiskalnu godinu, a koji se sukladno Računskom planu proračuna odnose na skupine 31 - Rashodi za zaposlene i 32 - Materijalni rashodi, podskupine 422 - Postrojenja i oprema i 423 - Prijevozna sredstva, te odjeljke 3431 - Bankarske usluge i usluge platnog prometa i 3433 - Zatezne kamate.
+(3) Obveznici predškole koji ne pohađaju dječji vrtić, a upisuju program predškole u dječjem vrtiću ili osnovnoj školi, izuzimaju se iz ukupnog broja djece iz stavka 1. ovoga članka.
