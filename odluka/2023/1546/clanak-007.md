@@ -1,0 +1,8 @@
+## Kriteriji za izloženosti osigurane stambenim nekretninama
+# Članak 7.
+(1) Kreditne institucije dužne su pri primjeni pondera rizika od 35 % na izloženosti ili bilo koje dijelove izloženosti u cijelosti i potpuno osigurane stambenim nekretninama, a koje se nalaze na teritoriju Republike Hrvatske, u skladu s člankom 125. Uredbe (EU) br. 575/2013 primijeniti kriterije propisane stavcima od 2. do 6. ovog članka.
+(2) Kreditna institucija može ponder rizika od 35 % dodijeliti samo onim izloženostima ili bilo kojem dijelu izloženosti koji su osigurani stambenom nekretninom u kojoj fizička osoba vlasnik nekretnine stanuje ili će stanovati, odnosno koju fizička osoba vlasnik nekretnine daje u najam (engl. leasing) za potrebe stanovanja, a na temelju ugovora o najmu.
+(3) Kreditna institucija može dodijeliti ponder rizika iz stavka 2. ovog članka pod uvjetom da vlasnik stambene nekretnine ima u vlasništvu najviše dvije stambene nekretnine.
+(4) Stambenom nekretninom, u skladu sa stavkom 2. ovog članka, smatra se obiteljska kuća, stan i pripadajući dijelovi stana u etažnom vlasništvu koji su namijenjeni stanovanju te građevinsko zemljište namijenjeno gradnji obiteljske kuće.
+(5) Garaža ili parkirališno mjesto, u skladu sa stavkom 2. ovog članka, smatra se stambenom nekretninom samo ako je hipoteka odnosno fiducijarni prijenos vlasništva zasnovan na garaži odnosno parkirališnom mjestu zajedno s obiteljskom kućom, stanom i pripadajućim dijelovima stana u etažnom vlasništvu koji su namijenjeni stanovanju.
+(6) Kuća za odmor, u skladu sa stavkom 2. ovog članka, ne smatra se stambenom nekretninom.
