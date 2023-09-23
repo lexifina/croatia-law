@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17, 130/17, 14/19 i 30/23) i članka 7. stavka 11. Pravilnika o ribolovnim mogućnostima i ribolovu igluna (Xiphias gladius) (»Narodne novine«, br. 36/23), ministrica poljoprivrede donosi
