@@ -1,0 +1,1 @@
+Na temelju članka 6. Ustava Republike Hrvatske (»Narodne novine«, broj 56/90, 135/97, 8/98, 113/00, 124/00, 28/01, 41/01, 55/01, 76/10, 85/10 - pročišćeni tekst i 05/14) i članka 10. Zakona o političkim strankama (»Narodne novine«, broj 76/93, 111/96, 164/98, 36/01, 28/06), Osnivački Sabor političke stranke HRVATSKO BILO, održan 24. rujna 2023. godine, usvojio je
