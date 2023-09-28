@@ -1,0 +1,1 @@
+Na temelju članka 50.a stavka 3. Zakona o predškolskom odgoju i obrazovanju (»Narodne novine«, br. 10/97., 107/07., 94/13., 98/19., 57/22. i 101/23.), Vlada Republike Hrvatske je na sjednici održanoj 27. rujna 2023. donijela
