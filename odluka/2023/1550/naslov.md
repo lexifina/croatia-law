@@ -1,0 +1,1 @@
+Odluka o donošenju izmjena i dopuna strukovnog dijela nastavnog plana i programa za stjecanje srednje stručne spreme u obrazovnom sektoru STROJARSTVO, BRODOGRADNJA I METALURGIJA za zanimanje CNC OPERATER/CNC OPERATERKA (012703)
