@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o vanjskim poslovima (»Narodne novine«, broj 48/1996, 72/2013, 127/2013, 39/2018 i 98/2019) i članka 3. stavak 2. Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova (»Narodne novine«, broj 22/2003, 48/2003, 39/2006, 36/2007, 25/2013, 48/2018, 15/2019, 99/22 i 101/2023) donosim
