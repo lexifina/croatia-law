@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o financiranju vodnoga gospodarstva, (»Narodne novine« broj 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19), članka 23. stavka 1. postavka 4. Zakona o vodnim uslugama (»Narodne novine« broj 66/19) i članka 21. Društvenog ugovora Skupština trgovačkog društva Usluga d.o.o. na sjednici održanoj 11. rujna 2023. donijela je
