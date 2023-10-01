@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. Zakona o poljoprivredi (»Narodne novine«, br. 118/18., 42/20., 127/20. - Odluka Ustavnog suda Republike Hrvatske, 52/21. i 152/22.), a u vezi s člankom 7. točkom 4. Zakona o ublažavanju i uklanjanju posljedica prirodnih nepogoda (»Narodne novine«, broj 16/19.), Vlada Republike Hrvatske je na sjednici održanoj 14. rujna 2023. donijela
