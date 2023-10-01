@@ -1,0 +1,2 @@
+# Članak 8.
+Za kupce iz članka 3. stavka 3. točke 4. Uredbe o otklanjanju poremećaja na domaćem tržištu energije (»Narodne novine«, br. 31/23. i 74/23.) nadoknadit će se razlika ugovorne i/ili cijene ostvarene na Hrvatskoj burzi električne energije d.o.o. od 1. travnja 2023. do 30. rujna 2023. do najviše 180 EUR/MWh, a od 1. listopada 2023. do 31. ožujka 2024. nadoknadit će se razlika ugovorne i/ili cijene ostvarene na Hrvatskoj burzi električne energije d.o.o. do najviše 150 EUR/MWh.
