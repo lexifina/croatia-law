@@ -1,0 +1,3 @@
+# Članak 1.
+U Odluci o financiranju Hrvatske gospodarske komore klasa: 025-02/22-01/3, urbroj: 311-02-00-00-22-5, od 19. prosinca 2022. godine (u daljnjem tekstu: Odluka), u članku 4. iza stavka 1. dodaje se stavak 2. koji glasi:
+»(2) Članice Komore registrirane za obavljanje djelatnosti knjižnica, arhiva, muzeja i ostalih kulturnih djelatnosti, pravnih djelatnosti, predškolskog, osnovnog, srednjeg i visokog obrazovanja, djelatnosti bolnica, sportskih klubova i socijalne skrbi sa smještajem, mogu za sudjelovanje u radu Komore plaćati članarinu u visini utvrđenoj za prvu skupinu, neovisno o kriterijima za razvrstavanje propisanima važećim Zakonom o Hrvatskoj gospodarskoj komori i člankom 3. ove Odluke.«
