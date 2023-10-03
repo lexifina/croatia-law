@@ -1,0 +1,4 @@
+# Članak 1.
+U Odluci o uvjetima ostvarivanja dobrovoljnog članstva u Hrvatskoj gospodarskoj komori, klasa: 025-02/22-01/3, urbroj: 025-02/22-01/3, od 19. prosinca 2022. godine (u daljnjem tekstu: Odluka), u članku 3. nakon stavka 3. dodaje se novi stavak 4. koji glasi:
+»(4) Dobrovoljne članice Komore, osnovane radi promicanja ciljeva koji su posebnim propisima utvrđeni od interesa za Republiku Hrvatsku, obavljaju djelatnosti od interesa za Republiku Hrvatsku ili obavljaju djelatnost kao javnu službu, te obiteljska poljoprivredna gospodarstva, mogu za sudjelovanje u radu Komore plaćati članarinu u visini utvrđenoj za prvu skupinu, neovisno o kriterijima za razvrstavanje propisanima važećim Zakonom o Hrvatskoj gospodarskoj komori i Odlukom o financiranju Hrvatske gospodarske komore.«
+Dosadašnji stavci 4. i 5. postaju stavcima 5. i 6.
