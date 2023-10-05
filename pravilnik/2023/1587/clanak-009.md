@@ -1,0 +1,4 @@
+# Članak 9.
+(1) Procjena potreba prijavitelja nepravilnosti provodi se u svrhu utvrđivanja potreba za dodatnim oblicima pomoći i podrške i upućivanja na druge nadležne službe i organizacije.
+(2) U slučaju da osoba koja pruža emocionalnu podršku nakon razgovora s prijaviteljem nepravilnosti utvrdi da mu je potreban drugi oblik podrške ili stručne pomoći, uputit će ga na odgovarajuće osobe ili institucije koje pružaju takav oblik podrške ili stručne pomoći. Pružanje emocionalne podrške ne uključuje pružanje psihosocijalne podrške.
+(3) U slučaju da je prema prijavitelju nepravilnosti počinjeno kazneno djelo ili prekršaj, pružatelj emocionalne podrške daje prijavitelju nepravilnosti osnovne informacije o njegovim pravima, pruža mu emocionalnu podršku i sukladno njegovim potrebama upućuje ga na nadležne službe ili institucije.
