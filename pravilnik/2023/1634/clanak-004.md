@@ -1,0 +1,2 @@
+# Članak 4.
+Odobrene količine plavog dizela dodijeljene korisnicima iz članka 8. Pravilnika o primjeni Zakona o trošarinama koji se odnosi na plavi dizel za namjene u poljoprivredi, ribolovu, akvakulturi te na povrat plaćene trošarine na bezolovni motorni benzin za namjene u ribolovu (»Narodne novine« br. 1/19, 80/20 i 125/22) za 2023. godinu, Agencija za plaćanja će u roku do 30. rujna 2023. godine uskladiti odobrene količine plavog dizela u skladu s ovim Pravilnikom.
