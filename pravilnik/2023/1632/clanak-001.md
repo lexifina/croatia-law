@@ -1,0 +1,6 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu oslobođenja od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu (»Narodne novine«, broj 1/19.) u članku 5. stavci 1. i 2. mijenjaju se i glase:
+»(1) Dizelsko gorivo koje se koristi kao pogonsko gorivo za plovidbu iz članka 105. stavka 1. točke 2. Zakona mora biti obojano plavom bojom C.I. Solvent Blue 35 ili C.I. Solvent Blue 79 ili C.I. Solvent Blue 98, te mora biti označeno propisanim indikatorom. Plavi dizel mora sadržavati indikatore:
+1. butoksibenzen (registarski broj CAS (Chemical Abstracts Service) 1126-79-0) u količini ne manjoj od 9,5 mg/l, a ne većoj od 14,25 mg/l, a što odgovara količini proizvoda ACCUTRACE™ PLUS ne manjoj od 12,5 mg/l, a ne većoj od 18,75 mg/l, u skladu s Provedbenom odlukom Komisije (EU) 2022/197 od 17. siječnja 2022. o utvrđivanju zajedničkog fiskalnog sredstva za označavanje plinskih ulja i kerozina (SL L 31, 14. 2. 2022., str. 52. - 54.) i
+2. C.I. Solvent Yellow 124 (N-etil-N-[2 - (1-izobutoksietoksi)etil]- 4-(fenilazo)anilin) u količini ne manjoj od 6,0 mg/l, a ne većoj od 9,0 mg/l.
+(2) Količina i prisutnost indikatora iz stavka 1. ovoga članka određuje se prema harmoniziranoj referentnoj metodi Europske unije za dokazivanje Euromarkera (Solvent Yellow 124 / ACCUTRACE™ PLUS) u dizelskom gorivu.«.
