@@ -1,0 +1,6 @@
+# Članak 4.
+Temeljne aktivnosti i kriteriji za rad nacionalnih kazališta obuhvaćaju:
+- produkciju i izvođenje premijernih i repriznih predstava te određenog broja repriza i gostovanja, uz praćenje kvalitete izvedbi, što uključuje i posjećenost kazališta, stručne kritike te strukovne nagrade i priznanja za umjetnička postignuća, kao i međunarodne uspjehe
+- održavanje programskog kontinuiteta, inovativnost te dosljednu provedbu repertoarnih odrednica, uvažavajući različite umjetničke stilove i razdoblja
+- osiguravanje zaposlenosti umjetničkog i tehničkog osoblja kazališta u odnosu na provedbu prihvaćenog programa te kontinuiranu obnovu ansambla imajući u vidu raspoloživost umjetničkog i tehničkog osoblja kazališta, kao i zajedničke projekte svih umjetničko-programskih cjelina, kao i po potrebi, u skladu s financijskim okvirom, povremeni angažman istaknutih umjetnika izvan matičnog kazališta
+- međusobnu suradnju nacionalnih kazališta u okviru mreže K-HNK koja obuhvaća ostvarivanje zajedničkih koprodukcija, poticanje šire distribucije programa, kroz suradnju s drugim hrvatskim i inozemnim kazalištima i festivalima, u skladu s programskom koncepcijom i zadanim financijskim okvirom, a u cilju decentralizacije programa i diversifikacije poetika izvedbenih umjetnosti.

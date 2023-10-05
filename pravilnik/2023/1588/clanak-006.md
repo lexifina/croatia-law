@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Godišnji program nacionalnih kazališta mora biti usklađen s osnovnim programskim i financijskim okvirom koji donosi osnivač, uvažavajući umjetničke kriterije, za svako četverogodišnje razdoblje.
+(2) Program se odnosi na umjetnička područja drame, opere i baleta i mora se zasnivati na umjetničkoj kvaliteti dramskog teksta i glazbe te obuhvaćati različite umjetničke stilove i razdoblja, uvažavajući tradiciju i posebnost identiteta svakog nacionalnog kazališta.
+(3) Osnovne repertoarne smjernice nacionalnog kazališta obuhvaćaju velika djela hrvatske i svjetske baštine, kao i relevantna djela suvremenih domaćih i stranih autora te projekte vezane uz sredinu i regiju u kojoj kazalište djeluje, kao i programe koji hrvatsku kulturu stavljaju u europski kontekst.
+(4) Opseg umjetničkog programa obuhvaća obvezu nacionalnog kazališta za ostvarivanjem minimalnog broja premijernih i repriznih predstava te gostovanja u Republici Hrvatskoj i inozemstvu, kao i sudjelovanja na domaćim i inozemnim festivalima.
+(5) Program uključuje organiziranje stručnih skupova, predstavljanje dramskih tekstova i stručnih publikacija te drugih događanja vezanih za kazališnu djelatnost, kao i prikupljanje i čuvanje dokumentarnog i arhivskog gradiva sukladno članku 12. Zakona o kazalištima.
