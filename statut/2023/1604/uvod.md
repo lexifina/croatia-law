@@ -1,0 +1,1 @@
+Na temelju odredbe članka 21. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine«, broj 144/21), Skupština Hrvatske gospodarske komore na 22. elektronskoj sjednici održanoj 14. rujna 2023. godine, donijela je
