@@ -1,0 +1,9 @@
+## Kategorizacija
+# Članak 8.
+(1) Svi objekti na kojima se drže svinje moraju biti kategorizirani u odnosu na biosigurnost, pri čemu se određena kategorija pridružuje svakom objektu u Upisniku registriranih objekata.
+(2) Subjekti su u roku od 24 sata dužni prijaviti dopremu svinja na objekt na kojima se do tada nisu držale svinje u svrhu provedbe kategorizacije.
+(3) Kategorizaciju objekata na kojima se drže svinje u odnosu na biosigurnost provode nadležne ovlaštene veterinarske organizacije u skladu s Uputom Uprave za veterinarstvo i sigurnost hrane Ministarstva poljoprivrede (klasa: 322-02/18-01/61).
+(4) Nakon 30. studenoga 2023. godine držanje svinja na područjima Republike Hrvatske koja nisu navedena u dijelovima I., III. i IV. ove Naredbe, dozvoljeno je isključivo na objektima kategorije 3 i 4.
+(5) Subjekti odgovorni za objekte kategorije 0, 1 i 2 koji nisu obuhvaćeni dijelovima I., III. i IV. ove Naredbe dužni su se obratiti ovlaštenoj veterinarskoj organizaciji u svrhu podnošenja pisanog zahtjeva radi ponovne kategorizacije za svrstavanje u kategoriju 3 ili 4 najkasnije do 31. listopada 2023. godine.
+(6) U slučaju kad se inspekcijskim nadzorom utvrdi da se na objektu kategorije 3 ili 4 ne provode sve propisane biosigurnosne mjere kako je određeno ovom Naredbom, nadležni inspektor Državnog inspektorata dužan je narediti otklanjanje nesukladnosti u određenom roku u kojem se zabranjuje premještanje svinja s i na objekt te ukoliko se kontrolom izvršenja rješenja utvrdi da nesukladnosti nisu otklonjene, narediti uklanjanje svinja klanjem u skladu s odredbama ove Naredbe te istovremeno o tome dostaviti pisanu informaciju Ministarstvu poljoprivrede u svrhu ukidanja dodijeljene kategorije.
+(7) Za objekte iz stavka 6. ovoga članka koji su otklonili utvrđene nesukladnosti kategorija 3 ili 4 se može vratiti provedbom ponovne kategorizacije od strane ovlaštenog veterinara na trošak subjekta.
