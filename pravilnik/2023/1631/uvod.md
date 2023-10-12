@@ -1,0 +1,1 @@
+Na temelju članka 103. stavka 2. Zakona o policijskim poslovima i ovlastima (»Narodne novine«, br. 76/09., 92/14. i 70/19.) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19) ministar unutarnjih poslova, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
