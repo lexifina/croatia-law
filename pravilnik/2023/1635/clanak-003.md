@@ -1,0 +1,5 @@
+# Članak 3.
+(1) Pravo na novčanu potporu za podmirenje dijela troškova prijevoza iz članka 1. ovoga pravilnika imaju studenti u redovitom statusu koji su hrvatski državljani, državljani države članice Europske unije, Europskoga gospodarskog prostora i Švicarske Konfederacije te osobe sukladno Zakonu o međunarodnoj i privremenoj zaštiti i koji su upisani na visoka učilišta u Republici Hrvatskoj:
+- na sveučilišnim prijediplomskim studijima, sveučilišnim diplomskim studijima, sveučilišnim integriranim prijediplomskim i diplomskim studijima, stručnim kratkim studijima, stručnim prijediplomskim studijima i stručnim diplomskim studijima te
+- na sveučilišnim specijalističkim studijima i doktorskim studijima na poslijediplomskoj razini pod uvjetima određenim ovim pravilnikom.
+(2) Pravo na novčanu potporu iz stavka 1. ovoga članka ostvaruju studenti s invaliditetom (u daljnjem tekstu: studenti) s najmanje 60% utvrđenog oštećenja organizma ili najmanje III. stupnja oštećenja funkcionalnih sposobnosti, sukladno propisu kojim je propisana metodologija vještačenja i koji su upisani u Registar osoba s invaliditetom.
