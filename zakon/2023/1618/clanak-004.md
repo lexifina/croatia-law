@@ -1,0 +1,5 @@
+# Članak 4.
+Članak 339. mijenja se i glasi:
+»(1) Tko kao zastupnik u Hrvatskom saboru, Europskom parlamentu, zakonodavnom tijelu ili predstavničkom tijelu strane države ili međunarodne javne organizacije ili kao vijećnik u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave zahtijeva ili primi mito ili prihvati ponudu ili obećanje mita za sebe ili drugoga kako bi u zakonodavnom ili predstavničkom tijelu glasovao na određen način, kaznit će se kaznom zatvora od jedne do osam godina.
+(2) Kaznom iz stavka 1. ovoga članka kaznit će se tko zastupniku u Hrvatskom saboru, Europskom parlamentu, u zakonodavnom tijelu ili predstavničkom tijelu strane države ili međunarodne javne organizacije ili vijećniku u predstavničkom tijelu jedinice lokalne i područne (regionalne) samouprave ponudi, obeća ili dade mito namijenjeno toj ili drugoj osobi kako bi u zakonodavnom ili predstavničkom tijelu glasovao na određen način ili tko posreduje pri takvom podmićivanju.
+(3) Strana država u stavcima 1. i 2. ovoga članka uključuje sve razine vlasti te države ili organiziranog stranog područja.«.
