@@ -1,0 +1,5 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 13.
+(1) Ovaj Zakon primjenjuje se u postupku podnošenja prijave poreza na dobit za 2024. godinu i nadalje odnosno za porezna razdoblja koja počinju teći od 1. siječnja 2024., osim članka 35. stavaka 1., 2., 5. i 7. koji se mijenja člankom 12. ovoga Zakona, a koji se primjenjuje na prijave poreza na dobit koje se podnose nakon 31. prosinca 2023. odnosno za porezno razdoblje koje završava 31. prosinca 2023.
+(2) Odredba članka 5.b stavka 5. koja je izmijenjena člankom 3. ovoga Zakona primjenjuje se na izvješća koja se podnose nakon 31. prosinca 2023. odnosno za porezno razdoblje koje završava 31. prosinca 2023.
+(3) Pri izračunu predujma poreza na dobit iz članka 34. stavka 1. Zakona o porezu na dobit (»Narodne novine«, br. 177/04., 90/05., 57/06., 146/08., 80/10., 22/12., 148/13., 143/14., 50/16., 115/16., 106/18., 121/19., 32/20., 138/20. i 114/22.) za 2024. godinu, na temelju prijave poreza na dobit za 2023. godinu, primjenjuje se članak 8. ovoga Zakona.
