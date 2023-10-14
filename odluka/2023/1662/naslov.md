@@ -1,0 +1,1 @@
+Odluka o financiranju organiziranog privremenog smještaja stradalnika potresa od 22. ožujka 2020. te 28. i 29. prosinca 2020. na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije
