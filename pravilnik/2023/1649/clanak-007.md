@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Slučajni odabir uz iznimku je način izbora obnašatelja dužnosti prilikom otvaranja postupka u kojem sud kroz algoritam sustava eSpis određuje obnašatelja dužnosti pokretanjem algoritma slučajnog odabira s liste stečajnih upravitelja za područje nadležnog trgovačkog suda odnosno liste visokokvalificiranih stečajnih upravitelja izuzećem jedne ili više osoba s liste, odabirom određenih osoba s liste ili odabirom određene osobe s liste.
+(2) Kod slučajnog odabira uz iznimku obavezno se u sustav eSpis unosi razlog korištenja iznimke, a podaci o rješavatelju koji je koristio iznimku, broju obnašatelja dužnosti koji nisu izuzeti i razlozima korištenja iznimke vidljivi su na mrežnoj stranici e-Oglasna ploča sudova.
