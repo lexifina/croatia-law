@@ -1,0 +1,11 @@
+I.
+U Odluci o redoslijedu i dinamici zatvaranja odlagališta (»Narodne novine«, broj 3/19, 17/19 - ispravak, 45/23 - Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-II-845/2019 i U-II-2160/2019 od 18. travnja 2023.) točka III. mijenja se i glasi:
+»Odlagališta, koja zaprimaju miješani komunalni otpad i procijenjeni kapaciteti tih odlagališta određena su u Dinamici zatvaranja odlagališta neopasnog otpada.
+Radi smanjenja količina miješanog komunalnog otpada koji nastaje, smanjenja količine otpada koji se odlaže, te povećanja količina oporabljenog otpada i odvojeno sakupljenog otpada u sklopu javne usluge sakupljanja komunalnog otpada, te kako bi se osiguralo da se odlažu samo nužne količine miješanog komunalnog otpada odnosno da se odlaganje ograniči na najmanju moguću mjeru, Fond za zaštitu okoliša i energetsku učinkovitost će jedinicama lokalne samouprave sufinancirati nabavu opreme i uređaja za obradu komunalnog otpada.
+Jedinice lokalne samouprave su obvezne do 31. ožujka tekuće godine za prethodnu kalendarsku godinu dostaviti Ministarstvu gospodarstva i održivog razvoja izvješće o provedenim mjerama i aktivnostima sprječavanja nastanka otpada, odvojenog sakupljanja, recikliranja i oporabe otpada.«.
+II.
+Točka IV. mijenja se i glasi:
+»Radi osiguranja razmjernosti usmjeravanja odlaganja miješanog komunalnog otpada, Fond za zaštitu okoliša i energetsku učinkovitost će sa jedinicama lokalne i područne (regionalne) samouprave, na području kojih se nalazi odlagalište koje zaprima miješani komunalni otpad, sklopiti dodatak postojećem ugovoru o sufinanciranju programa sanacije odlagališta komunalnog otpada radi sufinanciranja 90 posto troškova nužnog povećanja kapaciteta odlagališta za odlaganje miješanog komunalnog otpada, a koji kapaciteti će se koristiti do početka rada odgovarajućeg centra za gospodarenje otpadom.
+Osoba koja upravlja odlagalištem koje zaprima miješani komunalni otpad obvezna je, na temelju snimke raspoloživih kapaciteta za odlaganje, jednom godišnje do 31. siječnja tekuće godine dostaviti Fondu za zaštitu okoliša i energetsku učinkovitost podatke o preostalom kapacitetu za odlaganje na dan 31. prosinca prethodne godine.«
+III.
+Ova Odluka stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.

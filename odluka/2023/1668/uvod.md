@@ -1,0 +1,1 @@
+Na temelju Odluke i Rješenja Ustavnog suda Republike Hrvatske broj: U-II-845/2019 i U-II-2160/2019 od 18. travnja 2023. (»Narodne novine«, broj 45/23) i članka 40. stavka 1. Zakona o gospodarenju otpadom (»Narodne novine«, broj 84/21) ministar gospodarstva i održivog razvoja je donio
