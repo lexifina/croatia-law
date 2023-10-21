@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 9. i članka 56.a stavka 3., a u vezi s člankom 130. stavkom 14. Zakona o zaštiti prirode (»Narodne novine«, br. 80/13., 15/18., 14/19. i 127/19.), Vlada Republike Hrvatske je na sjednici održanoj 12. listopada 2023. donijela
