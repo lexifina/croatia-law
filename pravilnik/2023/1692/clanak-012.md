@@ -1,0 +1,13 @@
+# Članak 12.
+Članak 48. mijenja se i glasi:
+»(1) Upravljačko tijelo će Rješenjem o povratu sredstava od korisnika zahtijevati povrat u slučaju:
+a) administrativne pogreške/pogrešne isplate
+b) nepravilnosti utvrđene nakon isplate.
+(2) Rješenje o povratu sredstava u slučaju utvrđene administrativne pogreške/pogrešne isplate iz stavka 1. točke a) ovoga članka donosi se u slučaju preplate/krive isplate ili bilo koje druge administrativne greške učinjene od strane Upravljačkog tijela i/ili Agencije za plaćanja, kojom će se od korisnika zatražiti povrat tog iznosa.
+(3) Rješenje o povratu sredstava u slučaju nepravilnosti utvrđene nakon konačne isplate iz stavka 1. točke b) ovoga članka donosi se:
+a) u slučaju utvrđenih pojedinih nepravilno isplaćenih izdataka, odnosno kada je odlukom o utvrđenoj nepravilnosti određen povrat pojedinih nepravilno isplaćenih izdataka. Rješenjem o povratu sredstava Upravljačko tijelo će zahtijevati od korisnika povrat utvrđenog nepravilnog iznosa
+b) ako je odlukom o utvrđenoj nepravilnosti određen povrat ukupno isplaćenih sredstava. Rješenjem o povratu sredstava Upravljačko tijelo će zahtijevati od korisnika povrat ukupno isplaćenih sredstava.
+(4) Ako utvrđena nepravilnost iz stavka 3. točki a) i b) ovoga članka ujedno sadrži i elemente sumnje na prijevaru, Upravljačko tijelo o će istome izvijestiti Državno odvjetništvo Republike Hrvatske.
+(5) Na temelju Rješenja o povratu sredstava korisnik je dužan, u roku od 30 dana od dana zaprimanja Rješenja, izvršiti povrat sredstava na način određen Rješenjem.
+(6) Ako korisnik nije postupio sukladno Rješenju o povratu sredstava, na iznos koji podliježe povratu se nakon isteka roka iz stavka 4. ovoga članka obračunava zakonska zatezna kamata.
+(7) U slučaju nepoštivanja roka za povrat sredstava Upravljačko tijelo će pokrenuti postupak ovrhe na računu dužnika u skladu sa propisima Republike Hrvatske i/ili će zatražiti zaštitu svojih prava putem nadležnog suda.«.
