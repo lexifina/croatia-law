@@ -1,0 +1,5 @@
+## Potvrda tehničkog elaborata o komasaciji
+# Članak 10.
+(1) Izvođač geodetskih poslova dostavlja Nositelju komasacije na potvrdu (ovjeru) tehnički elaborat o komasaciji izrađen u skladu s odredbama članka 9. ovoga Pravilnika.
+(2) Povjerenstvo pregledom tehničkog elaborata o komasaciji iz stavka 1. ovoga Pravilnika utvrđuje je li u skladu s odredbama članka 9. ovoga Pravilnika, te najkasnije u roku od 15 dana od zaprimanja na pregled, ako nema primjedbi, predlaže Nositelju komasacije da ga potvrdi (ovjeri), a ako utvrdi da tehnički elaborat o komasaciji iz stavka 1. ovoga Pravilnika nije u skladu s odredbama članka 9. ovoga Pravilnika Povjerenstvo će svoje primjedbe predati Nositelju komasacije.
+(3) Nositelj komasacije je dužan u roku od 30 dana tehnički elaborat o komasaciji iz stavka 1. ovoga Pravilnika potvrditi (ovjeriti) te o potvrdi (ovjeri) obavijestiti Izvođača geodetskih poslova, odnosno vratiti Izvođaču geodetskih poslova na ispravak u skladu s primjedbama Povjerenstva iz stavka 2. ovoga članka.

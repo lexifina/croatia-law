@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Vrijednost za procjenu površine zemljišta u pojedinim razredima utvrđuje se u postupku procjene, posebno za svako komasacijsku gromadu na kojoj se provodi komasacija, u skladu s člancima 13. do 16. ovoga Pravilnika i odgovarajuću primjenu posebnog propisa o procjeni vrijednosti nekretnina.
+(2) Vrijednost za procjenu dijelova katastarskih čestica u pojedinim razredima utvrđuju se u postupku procjene, posebno za svaku komasacijsku gromadu na kojoj se provodi komasacije, u skladu s člancima 13. do 16. ovoga Pravilnika i odgovarajuću primjenu posebnog propisa o procjeni vrijednosti nekretnina.

@@ -1,0 +1,14 @@
+## Pojmovi
+# Članak 2.
+(1) Pojmovi propisani člankom 6. Zakona o komasaciji poljoprivrednog zemljišta (»Narodne novine«, broj 46/2022 - u daljnjem tekstu: Zakon) imaju jednako značenje u ovom Pravilniku te aktima koji se donose na temelju njega.
+(2) Pojmovi utvrđeni posebnim propisom o procjeni vrijednosti nekretnina imaju jednako značenje u ovom Pravilniku te aktima koji se donose na temelju njega, ako ovim Pravilnikom nije drukčije propisano.
+(3) Pojedini pojmovi u smislu ovoga Pravilnika i akata koji se donose na temelju njega imaju sljedeće značenje:
+1. jedinica za procjenu je relativan odnos između uzor-čestice i katastarske čestice koja se procjenjuje uzimajući u obzir plodnost, položaj zemljišta, njegovu udaljenost od gospodarskoga dvorišta, mikrodepresiju, izloženost suncu, izgrađeni put i druge okolnosti koje utječu na vrijednost poljoprivrednog zemljišta
+2. iskaz zemljišta o stanju prije komasacije iz članka 37. stavka 2. točke 14. Zakona je utvrđeno činjenično stanje ukupnog zemljišta komasacijskog područja i poljoprivrednog zemljišta koje se unosi u komasacijsku gromadu te je sastavni dio projekta komasacije
+3. Izvođač geodetskih poslova je osoba koja obavlja stručne geodetske poslove iz članka 37. Zakona s kojom je sklopljen ugovor o izvođenju stručnih geodetskih poslova iz članka 36. Zakona
+4. Povjerenstvo je kolektivno tijelo koje imenuje Nositelj komasacije za izradu nacrta akata i obavljanje drugih radnji radi provođenja komasacije u dijelu propisanom Zakonom i podzakonskim aktima donesenim na temelju njega
+5. Procjenitelj zemljišta je stalni sudski vještak za procjenu nekretnina imenovan u skladu s posebnim propisom kojim se uređuju uvjeti, postupak imenovanja, prava i dužnosti stalnih sudskih vještaka, te stalni sudski procjenitelj imenovan u skladu s posebnim propisom kojim se uređuju uvjeti, postupak imenovanja, prava i dužnosti stalnih sudskih procjenitelja, koji su imenovani za podgranu djelatnosti: poljoprivreda i procjena poljoprivrednog zemljišta i/ili procjena poljoprivrednog zemljišta, te su završili preddiplomski i diplomski sveučilišni studij ili integrirani preddiplomski i diplomski sveučilišni studij ili specijalistički diplomski stručni studij agronomske struke
+6. razred za procjenu je kategorija poljoprivrednog zemljišta u naravi koju je u postupku komasacije Procjenitelj zemljišta utvrdio na dan očevida
+7. relativna vrijednost poljoprivrednog zemljišta u komasacijskoj gromadi je odnos promatrane poljoprivredne čestice i uzor-čestice u postupku komasacije, izražen u postotku utvrđenom koeficijentima interkvalitativnog izjednačavanja, te bez međuvremenskog izjednačavanja jer je ista vremenska projekcija
+8. uzor-čestica je čestica zemljine površine pretežitog načina uporabe, korištenja i površine izražene u jedinici mjere.
+(4) Izrazi koji se koriste u ovome Pravilniku, a imaju rodno značenje odnose se jednako na muški i ženski rod.

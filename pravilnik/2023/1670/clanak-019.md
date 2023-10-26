@@ -1,0 +1,8 @@
+## Procjembeni elaborat te nalaz i mišljenje za utvrđivanje visine naknade
+# Članak 19.
+(1) Procjembeni elaborat iz članka 18. stavka 3. ovoga Pravilnika je dokument kojim se procjena vrijednosti zemljišta prezentira u pisanom obliku, a obuhvaća nalaz i mišljenje Procjenitelja zemljišta i druge podatke potrebne za utvrđivanje vrijednosti zemljišta iz komasacijske gromade, u skladu s člancima 13. do 18. ovoga Pravilnika i odgovarajuću primjenu posebnog propisa o procjeni vrijednosti nekretnina.
+(2) Procjembeni elaborat iz stavka 1. ovoga članka izrađuje Izvođač geodetskih poslova u skladu s člancima 13. do 18. ovoga Pravilnika i odgovarajuću primjenu posebnog propisa o procjeni vrijednosti nekretnina.
+(3) Visina naknade za izdvojeno zemljište u skladu s člankom 33. Zakona utvrđuje se na temelju nalaza i mišljenja Procjenitelja zemljišta koji se izrađuje za sve nekretnine jednog komasacijskog područja izdvojene u skladu s člankom 33. Zakona, u skladu s posebnim propisom kojim je uređeno područje procjene vrijednosti nekretnina.
+(4) Nalaz i mišljenje za utvrđivanje visine naknade iz stavka 3. ovoga članka izrađuje Procjenitelj zemljišta koji izrađuje nalaz i mišljenje za utvrđivanje vrijednosti zemljišta iz komasacijske gromade.
+(5) Za izradu nalaza i mišljenja u postupku utvrđivanja naknade i u sporazumnom rješavanju imovinskopravnih odnosa na zemljištu s komasacijskog područja u postupcima izdvajanja za opće potrebe u skladu s člankom 33. Zakona primjenjuju se pravila iz stavaka 3. i 4. ovoga članka.
+(6) Odabir parametara korištenih u procjeni vrijednosti iz ovoga članka obvezno se obrazlaže u procjembenom elaboratu iz stavka 1. ovoga članka te u nalazu i mišljenju iz stavka 3. ovoga članka.

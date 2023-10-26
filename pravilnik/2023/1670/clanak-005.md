@@ -1,0 +1,7 @@
+## Prihvaćanje prijedloga projekta komasacije
+# Članak 5.
+(1) Nositelj komasacije u skladu s člankom 30. i 31. Zakona, a radi prihvaćanja prijedloga projekta komasacije, saziva skup sudionika komasacije kojima predstavlja prijedlog projekta komasacije i na koji mogu podnijeti pisane prijedloge i primjedbe.
+(2) Zaprimljene primjedbe i prijedloge iz stavka 1. ovoga članka Nositelj komasacije u roku od 8 dana od dana isteka roka za podnošenje iz članka 30. stavka 1. Zakona uputit će Izvođaču geodetskih poslova na očitovanje.
+(3) Izvođač geodetskih poslova se mora očitovati Nositelju komasacije u roku od 30 dana od dana zaprimanja primjedbi i prijedloga upućenih u skladu sa stavkom 2. ovoga članka tako da se izjasni o njihovu prihvaćanju ili neprihvaćanju, te prema prihvaćenim primjedbama i prijedlozima izmijeniti i/ili dopuniti prijedlog projekta komasacije a neprihvaćene posebno obrazložiti.
+(4) Ako Nositelj komasacije u roku od 30 dana od dana zaprimanja očitovanja Izvođača geodetskih poslova iz stavka 3. ovoga članka nije prijedlog projekta komasacije odbio s obrazloženjem, smatra se da je prijedlog projekta komasacije prihvatio kao projekt komasacije.
+(5) Iznimno od odredbi stavaka 2. do 4. ovoga članka, ako nema podnesenih primjedbi i prijedloga iz stavka 2. ovoga članka koji su osnova za očitovanje iz stavka 3. ovoga članka, Nositelj komasacije u roku od 8 dana od dana isteka roka za podnošenje uputiti će obavijest Izvođaču geodetskih poslova da je prijedlog projekta komasacije prihvatio kao projekt komasacije.
