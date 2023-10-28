@@ -1,0 +1,6 @@
+# Članak 1.
+U Uredbi o otklanjanju poremećaja na domaćem tržištu energije (»Narodne novine«, br. 31/23., 74/23. i 107/23.), u članku 4. stavci 5. i 6. mijenjaju se i glase:
+»(5) Opskrbljivači električnom energijom iz stavaka 3. i 4. ovoga članka dužni su na mjesečnoj razini krajnjim kupcima električne energije ispostavljati račune za isporučenu električnu energiju na način da se iskaže razlika iz stavka 4. ovoga članka i za taj iznos umanji račun.
+(6) Po isteku obračunskog mjeseca, opskrbljivači električnom energijom iz stavka 4. ovoga članka dostavljaju Ministarstvu gospodarstva i održivog razvoja zahtjev za naknadu razlike iz stavka 5. ovoga članka za sve svoje krajnje kupce električne energije, kojem zahtjevu su dužni priložiti obračun, a opskrbljivači električnom energijom iz stavka 3. ovoga članka dostavljaju Ministarstvu gospodarstva i održivog razvoja zahtjev za naknadu razlike iz stavka 5. ovoga članka za svoje kupce električne energije iz kategorije poduzetništvo.«.
+Iza stavka 7. dodaje se stavak 8. koji glasi:
+»(8) Razlika iz stavka 6. ovoga članka za opskrbljivača iz stavka 3. ovoga članka priznaje se najviše u iznosu do 180 EUR/MWh za razdoblje od 1. travnja 2023. do 30. rujna 2023.«.
