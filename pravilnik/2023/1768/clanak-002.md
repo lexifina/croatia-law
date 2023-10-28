@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 11. stavak 1. mijenja se i glasi:
+»(1) Za intervencije iz Strateškog plana i IAKS mjere ruralnog razvoja iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. koje se odnose na površine korisnik može izmijeniti Jedinstveni zahtjev ili odustati od njega u cijelosti ili djelomično najkasnije 15 kalendarskih dana prije datuma isplate prvog obroka ili predujma predmetnog Jedinstvenog zahtjeva, ako je Monitoringom ili administrativnim provjerama moguće utvrditi ispunjavanje uvjeta prihvatljivosti.«.
+Iza stavka 2. dodaju se stavci 3. i 4. koji glase:
+»(3) U slučaju nesukladnosti s uvjetima prihvatljivosti koje su utvrđene administrativnim provjerama ili putem sustava za nadzor površina, Agencija za plaćanja obavještava korisnike o nepravilnostima putem AGRONET sustava, kartice Obavijesti i dopušta korisniku mogućnost izmjene ili povlačenja zahtjeva za potporu u pogledu onog dijela zahtjeva na koji nesukladnost utječe.
+(4) Agencija za plaćanja može izvršiti potrebne ispravke u zahtjevu za potporu u dijelu zahtjeva na koji nesukladnost utječe, te će obavijestiti korisnika putem AGRONET sustava, kartice Obavijesti da se nepravilnost ne smatra dijelom zahtjeva.«.
