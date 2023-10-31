@@ -1,0 +1,1 @@
+Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 236/2012 Europskog parlamenta i Vijeća od 14. ožujka 2012. godine o kratkoj prodaji i određenim aspektima kreditnih izvedenica na osnovi nastanka statusa neispunjavanja obveza
