@@ -1,0 +1,3 @@
+# Članak 27.
+PRAVO NA POVLASTICE
+Neovisno o drugim odredbama ove Konvencije, povlastica prema ovoj Konvenciji ne dodjeljuje se u pogledu dijela dohotka ili imovine ako je razumno za zaključiti, uzimajući u obzir sve relevantne činjenice i okolnosti, da je ostvarivanje te povlastice bilo jedna od glavnih svrha svakog aranžmana ili transakcije koja je, izravno ili neizravno, rezultirala tom povlasticom, osim ako je utvrđeno da bi dodjeljivanje te povlastice u tim okolnostima bilo u skladu s predmetom i svrhom relevantnih odredbi ove Konvencije. Prije nego li se rezidentu države ugovornice odbije takva povlastica u drugoj državi ugovornici zbog prethodne rečenice, nadležna tijela država ugovornica međusobno se savjetuju.
