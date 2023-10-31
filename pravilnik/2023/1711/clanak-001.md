@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+## Predmet uređenja i obveznici primjene
+# Članak 1.
+(1) Ovim se Pravilnikom uređuju način i uvjeti otvaranja računa za specifične transakcije proračuna i proračunskih korisnika koje se po svojoj svrsi, namjeni, načinu provođenja i ostalim obilježjima ne mogu provoditi izravno preko jedinstvenog računa proračuna, način i pravila izvršavanja specifičnih transakcija proračuna i proračunskih korisnika, računi proračunskih korisnika koji su izuzeti od obveze uplate prihoda, primitaka i drugih priljeva na jedinstveni račun proračuna odnosno izvršavanja rashoda, izdataka i drugih odljeva s jedinstvenog računa proračuna, obveza vođenja evidencije računa proračuna i proračunskih korisnika i izvještavanje.
+(2) Odredbe ovoga Pravilnika odnose se na državni proračun i proračunske korisnike državnog proračuna, proračune jedinica lokalne i područne (regionalne) samouprave i proračunske korisnike jedinica lokalne i područne (regionalne) samouprave te izvanproračunske korisnike utvrđene člankom 4., točkom 17. Zakona o proračunu koji su organizacijski uključeni u proračun.
+(3) Obveznici primjene iz stavka 2. ovoga članka utvrđeni su registrom iz članka 5. stavka 6. Zakona o proračunu.

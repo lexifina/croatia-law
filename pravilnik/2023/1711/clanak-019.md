@@ -1,0 +1,8 @@
+## X. ZATVARANJE RAČUNA
+## Postupak zatvaranja računa
+# Članak 19.
+(1) Računi iz članka 5. stavaka 1. i 4., članka 6. stavka 1., članka 7. stavka 1., članka 8. stavka 1., članka 9. stavka 1., članka 11. stavka 1., članka 12. stavka 1., članka 13. stavka 1., članka 14. stavaka 1. i 2., članka 15. stavka 1. i članka 16. stavka 1. ovoga Pravilnika zatvaraju se u slučaju statusne promjene ili prestanka s radom proračuna i proračunskog korisnika te prestanka svrhe zbog koje je račun otvoren.
+(2) Zahtjev za zatvaranje računa iz stavka 1. ovoga članka, otvorenog u Hrvatskoj narodnoj banci, proračunski korisnik državnog proračuna, jedinica lokalne i područne (regionalne) samouprave, druga pravna osoba i/ili organizacija dostavlja Ministarstvu financija koje zaprimljeni zahtjev upućuje Hrvatskoj narodnoj banci na daljnje postupanje.
+(3) Zahtjev za zatvaranje računa iz stavka 1. ovoga članka, otvorenog u kreditnoj instituciji na ime Ministarstva financija, proračunski korisnik državnog proračuna dostavlja Ministarstvu financija koje zaprimljeni zahtjev upućuje kreditnoj instituciji na daljnje postupanje.
+(4) Zahtjev za zatvaranje računa iz stavka 1. ovoga članka, otvorenog u kreditnoj instituciji na ime proračunskog korisnika državnog proračuna ili proračunskog korisnika jedinice lokalne i područne (regionalne) samouprave, proračunski korisnik dostavlja kreditnoj instituciji.
+(5) Obavijest o zatvorenom računu iz stavka 1. ovoga članka proračunski korisnik dostavlja Ministarstvu financija putem nadležnog proračunskog korisnika na razini razdjela organizacijske klasifikacije odnosno nadležnoj jedinici lokalne i područne (regionalne) samouprave.

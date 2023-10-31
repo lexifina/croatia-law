@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Za uplatu prihoda, primitaka i drugih priljeva od institucija i tijela Europske unije, međunarodnih organizacija i institucija te inozemnih vlada iz članka 3. stavka 2. točke 3. ovoga Pravilnika ministar financija odnosno načelnik, gradonačelnik ili župan može otvoriti račun u Hrvatskoj narodnoj banci odnosno kreditnoj instituciji iznimno u slučaju ako je uplata uvjetovana otvaranjem zasebnog računa izvan jedinstvenog računa proračuna.
+(2) Sredstva uplaćena na račun iz stavka 1. ovoga članka raspoređuju se isključivo na jedinstveni račun proračuna najkasnije idućeg radnog dana od dana uplate.
