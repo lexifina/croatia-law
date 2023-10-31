@@ -1,0 +1,4 @@
+# Članak 9.
+U članku 79. stavci 1. i 2. mijenjaju se i glase:
+»(1) Centar za pomoć iz članka 75. ovoga Zakona i nadležna tijela iz članka 5. podstavka 15. ovoga Zakona provode administrativnu suradnju s nadležnim tijelima država članica.
+(2) Suradnja iz stavka 1. ovoga članka podrazumijeva međusobnu suradnju, razmjenu informacija i podataka putem Informacijskog sustava unutarnjeg tržišta (IMI) o disciplinskim mjerama ili kaznenim sankcijama stručne naravi poduzetim protiv nositelja stručnih kvalifikacija te o bilo kakvim drugim teškim i posebnim okolnostima koje bi mogle utjecati na obavljanje profesionalne djelatnosti, kao i dostavljanje svih informacija o stručnim kvalifikacijama, poslovnom nastanu i o drugim bitnim okolnostima u svrhu obavljanja reguliranih profesija u Republici Hrvatskoj.«.
