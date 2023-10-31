@@ -1,0 +1,1 @@
+Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju
