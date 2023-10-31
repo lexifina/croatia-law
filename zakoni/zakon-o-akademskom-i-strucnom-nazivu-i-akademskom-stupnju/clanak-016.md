@@ -1,0 +1,4 @@
+## Zatečeni akademski stupanj i stručni naziv magistra
+# Članak 16.
+(1) Osobe koje su završile sveučilišni poslijediplomski znanstveni studij kojim se stječe akademski stupanj magistra znanosti te osobe koje su završile sveučilišni poslijediplomski umjetnički studij kojim se stječe akademski stupanj magistra umjetnosti, prema propisima koji su bili na snazi prije stupanja na snagu Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, br. 119/22.), zadržavaju akademski stupanj magistra znanosti (mr. sc.) odnosno magistra umjetnosti (mr. art.).
+(2) Osobe koje su završile poslijediplomski stručni ili umjetnički studij na veleučilištu ili visokoj školi prema propisima koji su bili na snazi prije stupanja na snagu Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, br. 119/22.) zadržavaju stečeni stručni naziv magistar odnosno magistra (mr.).

@@ -1,0 +1,6 @@
+## V. PREKRŠAJNE ODREDBE
+## Prekršajne kazne
+# Članak 14.
+(1) Novčanom kaznom u iznosu od 50,00 do 2000,00 eura kaznit će se, na način i u postupku u skladu sa zakonom koji uređuje prekršajni postupak, fizička osoba koja upotrebljava akademski naziv ili stručni naziv ili akademski stupanj i njegovu kraticu protivno odredbama članka 3. stavaka 2. i 5., članka 4. stavaka 2., 5. i 7., članka 5. stavka 2., članka 6. stavaka 2. i 4., članka 8. stavka 2., članka 9. stavaka 2. i 5., članka 10. stavaka 2. i 5. ovoga Zakona.
+(2) Novčanom kaznom u iznosu od 700,00 do 7000,00 eura kaznit će se, na način i u postupku u skladu sa zakonom koji uređuje prekršajni postupak, pravna osoba koja izda potvrdu, uvjerenje, svjedodžbu odnosno diplomu o završenom studiju te dopunsku ispravu o studiju protivno akademskim i stručnim nazivima te akademskom stupnju i odgovarajućim kraticama utvrđenim u odredbama članka 2., članka 3. stavaka 1., 2., 3. i 5., članka 4. stavaka 1., 2., 3., 5., 6. i 7., članka 5., članka 6., članka 8., članka 9. stavaka 1., 2., 3. i 5., članka 10. stavaka 1., 2., 3. i 5. ovoga Zakona.
+(3) Novčanom kaznom u iznosu od 50,00 do 5000,00 eura kaznit će se, na način i u postupku u skladu sa zakonom koji uređuje prekršajni postupak, i odgovorna osoba u pravnoj osobi za prekršaj iz stavka 2. ovoga članka.
