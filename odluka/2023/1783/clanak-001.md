@@ -1,0 +1,37 @@
+## Proglašavam Izmjene i dopune Državnog proračuna Republike Hrvatske za 2023. godinu i projekcija za 2024. i 2025. godinu, koje je Hrvatski sabor donio na sjednici 27. listopada 2023.
+## Klasa: 011-02/23-02/100
+## Urbroj: 71-10-01/1-23-2
+## Zagreb, 31. listopada 2023.
+## Predsjednik
+## Republike Hrvatske
+## Zoran Milanović, v. r.
+## IZMJENE I DOPUNE DRŽAVNOG PRORAČUNA REPUBLIKE HRVATSKE ZA 2023. GODINU
+## I PROJEKCIJA ZA 2024. I 2025. GODINU
+## I. OPĆI DIO
+# Članak 1.
+U Državnom proračunu Republike Hrvatske za 2023. godinu (Narodne novine, br. 145/22 i 63/23) u članku 1. mijenjaju se: A. Račun prihoda i rashoda za 2023. godinu i B. Račun financiranja za 2023. godinu, kako slijedi:
+A. RAČUN PRIHODA I RASHODA
+| Plan
+2023. | Povećanje/
+smanjenje | Novi plan
+2023.
+1 | 2 | 3 | 4
+PRIHODI POSLOVANJA | 26.522.000.736 | 1.083.409.014 | 27.605.409.750
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 85.697.684 | 1.095.538 | 86.793.222
+UKUPNI PRIHODI | 26.607.698.420 | 1.084.504.552 | 27.692.202.972
+RASHODI POSLOVANJA | 26.051.816.811 | 1.394.200.216 | 27.446.017.027
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 2.034.716.847 | -150.527.751 | 1.884.189.096
+UKUPNI RASHODI | 28.086.533.658 | 1.243.672.465 | 29.330.206.123
+RAZLIKA - VIŠAK/MANJAK | -1.478.835.238 | -159.167.913 | -1.638.003.151
+B. RAČUN FINANCIRANJA
+| Plan
+2023. | Povećanje/
+smanjenje | Novi plan
+2023.
+1 | 2 | 3 | 4
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 6.597.689.469 | 884.478.653 | 7.482.168.122
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 5.448.530.250 | -150.308.192 | 5.298.222.058
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 1.649.107.977 | 0 | 1.649.107.977
+PRIJENOS SREDSTAVA U NAREDNU GODINU | -1.319.431.958 | -875.618.932 | -2.195.050.890
+NETO FINANCIRANJE | 1.478.835.238 | 159.167.913 | 1.638.003.151
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0 | 0 | 0
