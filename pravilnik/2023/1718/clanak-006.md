@@ -1,0 +1,20 @@
+## DOZVOLA ZA GOSPODARENJE OTPADOM
+# Članak 6.
+(1) Elaborat gospodarenja otpadom koji je sastavni dio dozvole za gospodarenje otpadom određen Propisom koji uređuje gospodarenje otpadom, koji se prilaže zahtjevu za izdavanje dozvole za gospodarenje otpadom, za postupak R 1 odnosno postupak D 10, mora sadržavati opis predviđenih mjera kojima će se osigurati postizanje slijedećeg:
+a. postrojenje je projektirano, opremljeno i održavati će se i raditi sukladno projektnoj dokumentaciji na način da budu ispunjeni zahtjevi ovoga Pravilnika, ovisno o vrstama otpada koji se spaljuje ili suspaljuje i propisa o zaštiti zraka i voda
+b. postrojenje za spaljivanje otpada i postrojenje za suspaljivanje otpada, uključujući i skladište otpada koje se nalazi na lokaciji gospodarenja otpadom na kojoj se nalazi to postrojenje, projektirano je i opremljeno na način da je spriječeno neovlašteno ili slučajno ispuštanje bilo kakvih onečišćujuće tvari u tlo, površinske vode i podzemne vode.
+c. postrojenje za spaljivanje otpada i postrojenje za suspaljivanje otpada, opremljeno je spremnikom za onečišćenu oborinsku vodu koja može nastati na lokaciji postrojenja za spaljivanje otpada ili postrojenja za suspaljivanje otpada, odnosno spremnikom za onečišćenu vodu koja može nastati izlijevanjem ili pri gašenju požara, a koji je dostatnog kapaciteta da se takva voda može ispitati i obraditi prije ispuštanja.
+d. toplina, proizvedena spaljivanjem odnosno suspaljivanjem otpada, oporabljuje se na način da se proizvodi toplina, para ili energija u najvećoj mjeri koja je izvediva
+e. spaljivanjem ili suspaljivanjem količina i opasna svojstva ostatnog otpada, moraju biti svedena na najmanju moguću količinu, a prema potrebi, taj otpad treba se reciklirati
+f. ostatni otpad čiji nastanak nije moguće spriječiti, smanjiti ili kojega nije moguće reciklirati mora se zbrinuti sukladno Zakonu.
+(2) Elaborat gospodarenja otpadom iz stavka 1. ovog članka Pravilnika, mora sadržavati sljedeće:
+a. popis svih vrsta opasnog i neopasnog otpada, u skladu s Katalogom otpada propisanim propisom koji uređuje gospodarenje otpadom, s pripadajućim količinama za svaku vrstu otpada koja se može obrađivati
+b. ukupni projektirani i instalirani kapacitet postrojenja za spaljivanje ili suspaljivanje
+c. granične vrijednosti za emisije u zrak, postupke i učestalost uzorkovanja i mjerenja koje treba koristiti kako bi se poštovali uvjeti postavljeni za praćenje emisije (dinamika praćenja) sukladno mišljenju tijela nadležnog za zaštitu zraka, a prema propisu kojim se uređuju emisije onečišćujućih tvari u zrak iz nepokretnih izvora
+d. granične vrijednosti za emisije u vodu, zahtjeve za pH - raspon dozvoljenih vrijednosti, temperaturu i protok prilikom ispuštanja otpadne vode te postupke i učestalost uzorkovanja i mjerenja koje treba koristiti kako bi se poštovali uvjeti postavljeni za praćenje emisije (dinamika praćenja) sukladno mišljenju tijela nadležnog za zaštitu voda, a prema propisima koji uređuju zaštitu voda i
+e. najduže dozvoljeno vrijeme svih tehnički uvjetovanih prekida rada, poremećaja ili kvarova uređaja za pročišćavanje ili mjernih uređaja tijekom kojih emisije u zrak i ispuštanje otpadne vode mogu prijeći propisane granične vrijednosti emisija sukladno mišljenju tijela nadležnog za zaštitu voda i zaštitu zraka, a prema propisima koji uređuju zaštitu voda i zaštitu zraka
+(3) Ako postrojenje spaljuje ili suspaljuje opasni otpad, elaboratom gospodarenja otpadom, koji je sastavni dio dozvole za gospodarenje otpadom, osim zahtjeva iz stavka 2. ovoga članka, moraju se za svaku vrstu opasnog otpada koji se spaljuje odnosno suspaljuje odrediti slijedeće:
+a. najniži i najviši maseni protok otpada
+b. najnižu i najvišu ogrjevnu vrijednost otpada i
+c. najviši dopušteni sadržaj polikloriranih bifenila, pentaklorfenola, klora, fluora, sumpora, teških metala i drugih onečišćujućih tvari u otpadu.
+(4) Ako postrojenje spaljuje ili suspaljuje opasni otpad uz energetsku oporabu podliježe uvjetu da energetska oporaba mora zadovoljiti visoku razinu energetske učinkovitosti, što se dokazuje elaboratom iz stavka 2. ovog članka Pravilnika.
