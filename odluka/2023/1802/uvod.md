@@ -1,0 +1,1 @@
+Na temelju članka 61. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2023. godinu (»Narodne novine«, br. 145/22. i 63/23.), Vlada Republike Hrvatske je na sjednici održanoj 2. studenoga 2023. donijela
