@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 5. stavci 2., 8., 10. i 11. mijenjaju se i glase:
+»(2) Premještanje držanih svinja, zametnih proizvoda, nusproizvoda životinjskog podrijetla, mesa i mesnih proizvoda iz objekata smještenih u zaraženoj zoni i zonama ograničenja s popisa Priloga I. i II. Provedbene uredbe (EU) 2023/594, unutar i izvan tih zona, dozvoljeno je u skladu s odredbama te Provedbene uredbe pod uvjetom da su ispunjeni uvjeti za odobravanje takvog premještanja.
+(8) Držanje svinja u području županija obuhvaćenih zaraženim zonama i u zaraženim zonama nakon 30. studenoga 2023., dozvoljeno je isključivo na objektima kategorije 3 i 4.
+(10) Subjekti s nekategoriziranih objekata ili objekata kategorije 0, 1 i 2 dužni su uputiti svinje na klanje u klaonici određenoj od strane Ministarstva poljoprivrede ili ih zaklati na objektu za vlastite potrebe nakon provedbe kliničkog pregleda od strane ovlaštenih veterinara 24 sata prije klanja, najkasnije do 30. studenoga 2023. godine.
+(11) Na objektima koji udovoljavaju uvjetima za kategoriju 3 ili 4 te svim dodatnim uvjetima biosigurnosti sukladno stavku 9. ovoga članka, ovisno o broju svinja na objektu, dozvoljava se rekategorizacija najkasnije do 30. studenoga 2023. godine.«.
