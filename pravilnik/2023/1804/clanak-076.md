@@ -1,0 +1,6 @@
+## Izdavanje trajnog zapisa o brodu bez ranijih trajnih zapisa
+# Članak 76.
+(1) Kada država čiju je zastavu brod vijao ne dostavi preslike svih ranijih trajnih zapisa o brodu ili potvrdu da isti nisu bili izdani u roku od tri mjeseca od datuma brisanja, nadležna lučka kapetanija izdat će trajni zapis o brodu temeljem zadnjeg trajnog zapisa koji se nalazi na brodu.
+(2) Lučka kapetanija dodijelit će trajnom zapisu o brodu iz stavka 1. ovoga članka brojčanu oznaku koja je za dva broja veća od brojčane oznake zadnjeg trajnog zapisa koji se nalazio na brodu.
+(3) Preslik zadnjeg trajnog zapisa o brodu zapovjednik broda ili kompanija koja je navedena u potvrdi o upravljanju sigurnošću dužno je bez odlaganja dostaviti nadležnoj lučkoj kapetaniji na njen zahtjev.
+(4) Lučka kapetanija naznačit će u polje napomena trajnog zapisa o brodu iz stavka 2. ovoga članka da država čiju je zastavu brod vijao nije dostavila preslike svih ranijih trajnih zapisa o brodu ili potvrdu da isti nisu bili izdani.

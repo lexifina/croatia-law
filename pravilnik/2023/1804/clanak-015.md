@@ -1,0 +1,6 @@
+## Podatci u listu B
+# Članak 15.
+(1) U list B uloška glavne knjige upisnika brodova upisuju se sljedeći podatci o vlasniku: kratki naziv i sjedište pravne osobe, osobni identifikacijski broj (u daljnjem tekstu: OIB); ime, prezime, prebivalište ili boravište fizičke osobe - obrtnika, OIB, kratki naziv i sjedište obrta; odnosno ime, prezime, prebivalište ili boravište fizičke osobe, OIB te osobna ograničenja u vezi sa slobodnim raspolaganjem objektom (maloljetnost, produljenje roditeljskog prava ili starateljstva, otvaranje stečaja itd.).
+(2) Pravo vlasništva fizičke osobe - obrtnika koji obavlja obrt zajednički s drugim osobama upisuje se u korist osobe čije pravo vlasništva proizlazi iz isprava, a iza čega slijedi tvrtka obrta, u skladu s propisima koji uređuju obavljanje obrta.
+(3) Ako je brodar, kompanija odnosno korisnik jahte, brodice ili čamca, različit od vlasnika, u list B uloška glavne knjige upisnika brodova upisuju se podatci iz stavka 1. ovoga članka za brodara ili kompaniju odnosno korisnika jahte ili brodice.
+(4) Za brod u međunarodnoj pomorskoj plovidbi bruto tonaže jednake ili veće od 100, pored podataka iz stavka 1. ovoga članka, u list B uloška glavne knjige upisnika brodova upisuju se IMO broj vlasnika i IMO broj kompanije.
