@@ -1,0 +1,20 @@
+# Članak 8.
+PRIJENOS KLASIFICIRANIH PODATAKA
+(1) Klasificirani podaci stupnja tajnosti VRLO TAJNO/STRENG GEHEIM prenose se između ugovornih stranaka isključivo putem ovlaštenih državnih tijela, u skladu s odnosnim nacionalnim zakonima i propisima.
+(2) U načelu, klasificirani podaci stupnjeva tajnosti POVJERLJIVO/VS-VERTRAULICH i TAJNO/GEHEIM prenose se iz jedne države u drugu putem službenog dostavljača. Nadležna sigurnosna tijela ugovornih stranaka mogu dogovoriti druge načine prijenosa. Klasificirani podaci dostavljaju se primatelju u skladu s nacionalnim zakonima i propisima, a primitak klasificiranih podataka potvrđuje nadležno tijelo ili se potvrđuje na njegov zahtjev.
+(3) Nadležna sigurnosna tijela ugovornih stranaka mogu dogovoriti - općenito ili uz ograničenja - da se klasificirani podaci stupnjeva tajnosti POVJERLJIVO/VS-VERTRAULICH i TAJNO/GEHEIM mogu prenositi na drugi način osim službenim dostavljačem. U takvim slučajevima,
+1. dostavljač mora biti ovlašten za pristup klasificiranim podacima istoznačnog stupnja tajnosti,
+2. pošiljatelj mora zadržati popis klasificiranih podataka koji se prenose; primjerak tog popisa predaje se primatelju za dostavu nadležnom tijelu,
+3. klasificirani podaci moraju se pakirati u skladu s propisima kojima se uređuje prijevoz unutar državnih granica,
+4. klasificirani podaci moraju se dostavljati uz potvrdu primitka, i
+5. dostavljač mora imati dostavljačko pismo koje je izdalo nadležno tijelo pošiljatelja.
+(4) Kada treba prenositi klasificirane podatke, prijevozno sredstvo, rutu i po potrebi pratnju posebno za svaki slučaj utvrđuju nadležna sigurnosna tijela na temelju detaljnog plana prijevoza.
+(5) Kao dodatno alternativno sredstvo prijenosa, klasificirani podaci do i uključujući stupanj tajnosti POVJERLJIVO/VS-VERTRAULICH mogu se prenositi putem privatnih dostavljačkih službi kojima nije izdano uvjerenje o sigurnosnoj provjeri, pod uvjetom da su ispunjeni sljedeći uvjeti:
+1. Dostavljačka služba ima svoje sjedište na državnom području jedne od država ugovornih stranaka i ima uspostavljen zaštitni sigurnosni program za postupanje s vrijednim predmetima uz potpis o preuzimanju, uključujući kontinuiranu evidenciju o čuvanju, bilo na temelju evidencije potpisa i tehničkog popisa, bilo putem elektroničkog sustava za praćenje ili traženje.
+2. Dostavljačka služba obavezna je na temelju potpisa voditi evidenciju o primitku i dostavi na temelju koje pošiljatelju izdaje potvrdu o dostavi ili je izdaje na temelju popratne dokumentacije koja sadrži registracijski broj pošiljke.
+3. Dostavljačka služba mora jamčiti da će pošiljka biti dostavljena primatelju do točno određenog vremena i datuma unutar razdoblja od 24 sata.
+4. Dostavljačka služba može angažirati vanjskog suradnika ili podugovaratelja. Međutim, dostavljačka služba odgovorna je za ispunjavanje gore navedenih uvjeta.
+(6) Klasificirani podaci stupnja tajnosti VRLO TAJNO/STRENG GEHEIM ne prenose se elektroničkim putem.
+(7) Elektronički prijenos klasificiranih podataka stupnjeva tajnosti POVJERLJIVO/VS-VERTRAULICH i TAJNO/GEHEIM moguć je isključivo u kriptiranom obliku. Klasificirani podaci tih stupnjeva tajnosti mogu se kriptirati isključivo sredstvima za kriptiranje koja su međusobnim dogovorom odobrila nadležna sigurnosna tijela ugovornih stranaka.
+(8) Klasificirani podaci stupnja tajnosti OGRANIČENO/VS-NUR FÜR DEN DIENSTGEBRAUCH mogu se prenositi putem pošte ili drugih dostavnih službi primateljima unutar državnog područja države druge ugovorne stranke, uzimajući u obzir nacionalne zakone i propise.
+(9) Klasificirani podaci stupnja tajnosti OGRANIČENO/VS-NUR FÜR DEN DIENSTGEBRAUCH mogu se prenositi elektronički ili se pristup tim podacima može omogućiti pomoću komercijalnih uređaja za kriptiranje koje je odobrilo nadležno sigurnosno tijelo ugovorne stranke pošiljatelja. Klasificirani podaci tog stupnja tajnosti mogu se prenositi u nekriptiranom obliku samo ako to nije u suprotnosti s nacionalnim zakonima i propisima, ako nisu dostupna odobrena sredstva za kriptiranje, ako se prijenos odvija samo unutar fiksnih mreža, a pošiljatelj i primatelj su se unaprijed usuglasili o predloženom prijenosu.
