@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), a u vezi s člankom 13. Zakona o suzbijanju neprijavljenoga rada (»Narodne novine«, broj 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 9. studenoga 2023. donijela
