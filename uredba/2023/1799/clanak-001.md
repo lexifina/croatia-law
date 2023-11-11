@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom određuje se nadležno tijelo i obveze nadležnog tijela u svrhu suradnje i koordinacije s Europskom komisijom iz razloga osiguranja neograničenog tržišnog natjecanja, čime se osiguravaju pretpostavke za provedbu Uredbe (EU) 2022/1925 Europskog parlamenta i Vijeća od 14. rujna 2022. o pravednim tržištima s mogućnošću neograničenog tržišnog natjecanja u digitalnom sektoru i izmjeni direktiva (EU) 2019/1937 i (EU) 2020/1828 (Akt o digitalnim tržištima) (u daljnjem tekstu: Uredba (EU) 2022/1925).
