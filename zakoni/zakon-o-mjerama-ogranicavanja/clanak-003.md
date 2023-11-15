@@ -1,0 +1,7 @@
+## Odgovarajuća primjena drugih propisa
+# Članak 3.
+(1) Na pitanja u vezi s pravom vlasništva i drugim stvarnim pravima koja nisu drukčije uređena ovim Zakonom ili mjerama ograničavanja iz članka 4. stavka 1. ovoga Zakona primjenjuje se zakon kojim se uređuje pravo vlasništva i druga stvarna prava.
+(2) Na pitanja ustroja i upravljanja trgovačkim društvima koja nisu drukčije uređena ovim Zakonom ili mjerama ograničavanja iz članka 4. stavka 1. ovoga Zakona primjenjuje se zakon kojim se uređuju osnivanje, ustroj, prestanak i statusne promjene trgovačkih društava te povezanih društava.
+(3) U postupku provođenja mjera ograničavanja, a u slučajevima poduzimanja preventivnih mjera u svrhu sprječavanja korištenja financijskoga sustava za pranje novca i financiranje terorizma, primjenjuju se odredbe zakona kojim se uređuju mjere, radnje i postupci koji se poduzimaju radi sprječavanja i otkrivanja pranja novca i financiranja terorizma.
+(4) Na pitanja zaštite povjerljivih podataka na odgovarajući način primjenjuje se zakon kojim se uređuje tajnost podataka i uredba kojom se uređuje način označavanja klasificiranih podataka, sadržaj i izgled uvjerenja o obavljenoj sigurnosnoj provjeri i izjave o postupanju s klasificiranim podacima.
+(5) Na pitanja u području trgovine i pružanja usluga u vezi s robom s dvojnom namjenom, koja nisu drukčije uređena ovim Zakonom, primjenjuje se zakon kojim se uređuje nadzor robe s dvojnom namjenom.

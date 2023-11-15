@@ -1,0 +1,26 @@
+## Temeljni pojmovi
+# Članak 4.
+(1) Mjerama ograničavanja, u smislu ovoga Zakona, smatraju se:
+1. mjere Europske unije koje se donose na temelju članka 29. Ugovora o Europskoj uniji ili na temelju članka 215. Ugovora o funkcioniranju Europske unije
+2. mjere utvrđene rezolucijama Vijeća sigurnosti Ujedinjenih naroda
+3. mjere drugih međunarodnih organizacija koje obvezuju Republiku Hrvatsku sukladno međunarodnom pravu i
+4. mjere donesene odlukom Vlade na prijedlog ministarstva nadležnog za vanjske poslove.
+(2) Mjere ograničavanja obuhvaćaju:
+1. ograničenje raspolaganja imovinom
+2. zabranu ulaska na državno područje Republike Hrvatske ili zabranu tranzita preko državnog područja Republike Hrvatske
+3. potpuni ili djelomični prekid gospodarskih odnosa
+4. potpuno ili djelomično ograničenje trgovine, uvoza, izvoza, provoza, pružanja usluga te poštanskog prometa, prometnih, elektroničkih i drugih komunikacija
+5. embargo na oružje i vojnu opremu
+6. prekid diplomatskih odnosa i
+7. druge mjere u skladu s međunarodnim i europskim pravom.
+(3) Imovinom i drugim sredstvima, u smislu ovoga Zakona, smatraju se bilo koja imovina koja uključuje, ali se ne ograničava na financijsku imovinu, gospodarske izvore (uključujući naftu i druge prirodne izvore), imovinu svake vrste, materijalnu ili nematerijalnu, pokretnu ili nepokretnu, neovisno o tome kako je ona stečena, kao i pravne dokumente ili instrumente u bilo kojem obliku, uključujući elektroničke ili digitalne, kojima se dokazuje vlasništvo ili udio u takvim sredstvima i imovini što uključuje, ali se ne ograničava na bankovne kredite, putničke čekove, bankovne čekove, novčane uputnice, dionice, poslovne udjele, vrijednosnice, obveznice, mjenice ili akreditive te bilo kakve kamate, dividende ili drugi prihod ili vrijednost koja je stečena ili proizlazi iz takvih sredstava i druge imovine te svaka druga imovina koja može biti upotrijebljena za stjecanje sredstava, dobara ili usluga, uključujući virtualnu imovinu kako je definirana u zakonu kojim se uređuje sprječavanje pranja novca i financiranja terorizma.
+(4) Ograničavanje raspolaganja imovinom u smislu ovoga Zakona, među ostalim, smatra se:
+1. zamrzavanje cjelokupne imovine i drugih gospodarskih izvora koji su u vlasništvu, posjedu ili na drugi način pripadaju subjektu prema kojem se mjere primjenjuju ili su pod njegovom kontrolom ili nadzorom te imovine i drugih sredstava pod zajedničkim ili neizravnim nadzorom subjekta, prema kojem se mjere primjenjuju, te zamrzavanje financijskih sredstava i imovine koji proizlaze ili su nastali iz financijskih sredstava ili druge imovine u vlasništvu ili pod izravnom kontrolom subjekta prema kojem se mjere primjenjuju te financijskih sredstava ili druge imovine osoba koje djeluju u ime ili po nalogu subjekta prema kojem se mjere primjenjuju
+2. zabrana pristupa financijskim sredstvima i drugim gospodarskim izvorima te zabrana stavljanja na raspolaganje financijskih sredstava i gospodarskih izvora, izravno ili neizravno, subjektu prema kojemu se mjere primjenjuju ili putem povezanih osoba koje djeluju u ime ili za račun subjekta.
+(5) Zamrzavanje financijskih sredstava, u smislu ovoga Zakona, među ostalim, znači sprječavanje svakog premještaja, prijenosa, izmjene ili upotrebe financijskih sredstava, pristupa financijskim sredstvima ili poslovanja s financijskim sredstvima na bilo koji način koji bi za posljedicu imao bilo kakvu promjenu njihove količine, iznosa, lokacije, vlasništva, posjedovanja, naravi, odredišta ili drugu promjenu kojom bi se omogućila uporaba tih financijskih sredstava, uključujući upravljanje portfeljem.
+(6) Zamrzavanje gospodarskih izvora, u smislu ovoga Zakona, znači sprječavanje upotrebe gospodarskih izvora za stjecanje financijskih sredstava, robe ili usluga na bilo koji način, uključujući, ali ne ograničavajući se na njihovu prodaju, davanje u najam ili stavljanje pod hipoteku.
+(7) Ograničenje iz stavka 5. ovoga članka ne odnosi se na priljev na zamrznute račune na osnovi kamata odnosno drugih prihoda tih računa, pod uvjetom da se na svaku takvu kamatu odnosno prihod i dalje primjenjuje odredba stavka 4. točke 1. ovoga članka.
+(8) Odredba stavka 4. točke 2. ovoga članka ne sprječava priljev na zamrznuti račun sredstva transferiranih od trećih osoba u korist računa subjekta prema kojem se primjenjuju mjere ograničavanja, pod uvjetom da su svi takvi priljevi po tom računu također zamrznuti.
+(9) Povezanom osobom, u smislu ovoga Zakona, smatra se fizička ili pravna osoba, ili drugi subjekt, povezana sa subjektima obuhvaćenima mjerama ograničavanja tako da izravno ili neizravno putem jednoga ili više posrednika ima kontrolu nad subjektom obuhvaćenog mjerama ograničavanja ili je pod kontrolom subjekta obuhvaćenog mjerama ograničavanja.
+(10) Izuzeće od primjene mjera ograničavanja, u smislu ovoga Zakona, odnosi se na postupanje za koje nije potrebno odobrenje nadležnog tijela jer je kao izuzeće propisano pravnim aktom kojim su uvedene mjere ograničavanja.
+(11) Odstupanje od primjene mjera ograničavanja, u smislu ovoga Zakona, odnosi se na postupanje za koje je potrebno odobrenje nadležnog tijela iz članka 12. stavaka 1., 2. i 3. ovoga Zakona ako su ispunjeni uvjeti propisani pravnim aktom kojim su uvedene mjere ograničavanja.

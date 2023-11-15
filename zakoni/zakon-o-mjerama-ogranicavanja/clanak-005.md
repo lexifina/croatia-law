@@ -1,0 +1,3 @@
+## Neutralno korištenje termina s rodnim značenjem
+# Članak 5.
+Izrazi koji se koriste u ovom Zakonu, a imaju rodno značenje, odnose se jednako na muški i ženski spol.
