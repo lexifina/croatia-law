@@ -1,0 +1,3 @@
+## Započeti postupci
+# Članak 24.
+Postupci koji su propisani ovim Zakonom, a započeti su prije stupanja ovoga Zakona na snagu, dovršit će se primjenom Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14., 110/19., 144/21., 114/22. – Rješenje Ustavnog suda Republike Hrvatske, 114/22. i 4/23. – Odluka Ustavnog suda Republike Hrvatske), Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10. – Odluka Ustavnog suda Republike Hrvatske, 74/11., 80/13., 158/13. – Odluka i Rješenje Ustavnog suda Republike Hrvatske, 92/14., 64/15., 108/17., 70/19., 42/20., 85/22. i 114/22.) i Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, br. 19/22.).

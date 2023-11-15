@@ -1,0 +1,5 @@
+## Pomorski putnički prijevoz
+# Članak 6.
+(1) Osobe s invaliditetom s tjelesnim oštećenjem na donjim ekstremitetima od 70 % i 80 % te oštećenjem vida od 90 % oštećenja organizma kojima nije utvrđen III. ili IV. stupanj funkcionalnog oštećenja te osobe na trajnoj dijalizi sa 100 % tjelesnog oštećenja kojima nije utvrđen III. ili IV. stupanj funkcionalnog oštećenja, ostvaruju pravo na povlasticu u pomorskom prijevozu od 75 % od redovite cijene vozne karte za četiri putovanja godišnje na svim linijama u pomorskom prometu.
+(2) Ratni vojni invalid, mirnodopski vojni invalid i civilni invalid rata I., II., III. i IV. skupine kojem je svojstvo priznato po zakonu kojim su ureduju prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, zakonu kojim se uređuju prava civilnih stradalnika iz Domovinskog rata ili prema zakonu kojim se uređuje zaštita vojnih i civilnih invalida rata, imaju pravo na povlasticu u pomorskom prijevozu od 75 % od redovite prijevozne cijene vozne karte za četiri putovanja godišnje na svim linijama u pomorskom prometu.
+(3) Pratitelj osobe s invaliditetom iz ovoga članka ostvaruje pravo na besplatni prijevoz.
