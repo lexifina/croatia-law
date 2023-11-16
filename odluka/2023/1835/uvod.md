@@ -1,0 +1,1 @@
+Na temelju članka 138. stavka 5. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18, 125/19, 147/20, 119/22, 156/22, 33/23) na prijedlog Hrvatskog zavoda za hitnu medicinu, uz prethodno pribavljeno mišljenje predstavničkih tijela jedinica područne (regionalne) samouprave odnosno Grada Zagreba, ministar zdravstva donosi
