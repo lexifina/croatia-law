@@ -1,0 +1,4 @@
+## II. INFORMACIJE I DOKUMENTI KOJI SE PRILAŽU ZAHTJEVU ZA IZDAVANJE ODOBRENJA ZA RAD KREDITNE INSTITUCIJE
+## Zahtjev za izdavanje odobrenja za rad
+# Članak 4.
+Zahtjevu za izdavanje odobrenja za rad prilažu se informacije i dokumenti propisani Delegiranom uredbom Komisije (EU) 2022/2580 оd 17. lipnja 2022. o dopuni Direktive 2013/36/EU Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda kojima se pobliže određuju informacije koje se dostavljaju u zahtjevu za izdavanje odobrenja za rad kreditne institucije i prepreke učinkovitom izvršavanju nadzornih funkcija nadležnih tijela i Provedbenom uredbom Komisije (EU) 2022/2581 od 20. lipnja 2022. o utvrđivanju provedbenih tehničkih standarda za primjenu Direktive 2013/36/EU Europskog parlamenta i Vijeća u pogledu dostavljanja informacija u zahtjevima za izdavanje odobrenja za rad kreditne institucije, te informacije i dokumenti propisani ovom Odlukom.

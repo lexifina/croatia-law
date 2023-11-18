@@ -1,0 +1,5 @@
+## Program rada i informacije o osnivačima kreditne institucije
+# Članak 5.
+(1) Zahtjevu za izdavanje odobrenja za rad prilaže se program rada s popisom bankovnih i financijskih usluga koje kreditna institucija namjerava pružati, organizacijskom strukturom kreditne institucije, uključujući i naznaku matičnih društava, financijskih holdinga i mješovitih financijskih holdinga unutar grupe kao i opis sustava upravljanja iz članka 101. Zakona o kreditnim institucijama.
+(2) Zahtjev za izdavanje odobrenja za rad mora sadržavati informacije o identitetu svih fizičkih i pravnih osoba koje će, u slučaju dobivanja odobrenja za rad imati, izravno ili neizravno, kvalificirani udio u kreditnoj instituciji s iznosom tih udjela u kapitalu kreditne institucije. Ako niti jedna pravna ili fizička osoba ne stječe, izravno ili neizravno, kvalificirani udio u kreditnoj instituciji, zahtjevu je potrebno priložiti popis dvadeset najvećih dioničara kreditne institucije s iznosom njihovih udjela u kapitalu kreditne institucije.
+(3) Zahtjev za izdavanje odobrenja za rad odbija se ako ne sadržava informacije iz stavka 2. ovog članka.
