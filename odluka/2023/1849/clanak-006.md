@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 47. stavak 2. mijenja se i glasi:
+»(2) Propust subjekta iz članka 45. stavka 1. iz ovog dijela da vrati unutardnevni kredit na kraju dana automatski se smatra zahtjevom tog subjekta za korištenje prekonoćnoga kredita. Ako subjekt iz članka 45. stavka 1. iz ovog dijela ima više od jednog MCA računa ili jedan ili više DCA računa, svako stanje na kraju dana na tim računima uzima se u obzir za potrebe izračuna iznosa subjektove mogućnosti automatskoga korištenja prekonoćnoga kredita. Time se ne pokreće ekvivalentno oslobađanje imovine koja je prethodno deponirana kao kolateral za taj nepodmireni unutardnevni kredit.«
