@@ -1,0 +1,41 @@
+## VII. EVIDENCIJA SPORTSKIH NATJECANJA I REZULTATA
+# Članak 11.
+(1) Evidencija sportskih natjecanja i rezultata sastoji se podataka o plasmanu sportaša kao i povijesnih podataka o plasmanu od prvog unosa podataka, na sljedećim natjecanjima:
+- olimpijske igre
+- svjetska prvenstva
+- europska prvenstva
+- mediteranske igre
+- kupovi
+- turniri
+- domaća natjecanja nacionalne razine
+- akademska natjecanja
+- školska natjecanja.
+(2) Podaci koji se upisuju i vode u Evidenciji sportskih natjecanja i rezultata su:
+- osobni identifikacijski broj pravne osobe iz sustava sporta koja upisuje rezultat
+- naziv prijavitelja
+- naziv organizatora natjecanja
+- naziv natjecanja
+- vrsta natjecanja
+- datum početka natjecanja
+- datum završetka natjecanja
+- mjesto održavanja natjecanja
+- država održavanja natjecanja
+- sport/sportska grana/sportska disciplina
+- učestalost održavanja natjecanja
+- osobni identifikacijski broj sportaša koji je ostvario plasman/rezultat
+- osobni identifikacijski broj trenera/izbornika koji je zaslužan za ostvarivanje plasmana/rezultata
+- tip ekipe
+- naziv ekipe (ako je ekipno)
+- osobni identifikacijski broj pravne osobe iz Evidencije pravnih osoba u sportu koja je ostvarila plasman/rezultat
+- naziv pravne osobe iz Evidencije pravnih osoba u sportu koja je ostvarila plasman/rezultat
+- dobna kategorija
+- plasman
+- plasman do
+- rezultat
+- rekord
+- broj sportaša u disciplini
+- broj kontinenata na natjecanju
+- broj država na natjecanju
+- broj mečeva na natjecanju
+- broj pobjeda na natjecanju
+- ostale podatke koji su potrebni za izradu strateških dokumenata iz područja sporta.
