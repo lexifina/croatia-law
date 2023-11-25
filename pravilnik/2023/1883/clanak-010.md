@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 17. točki 1. podtočka f) se mijenja i glasi:
+»f) anamneza, klinička slika ili laboratorijski dokazani virus humane imunodeficijencije (engl. Human Immunodeficiency Virus, HIV), akutni ili kronični hepatitis B (engl. Hepatitis B Virus, HBV) (s izuzetkom dokazano imuniziranih osoba), hepatitis C (engl. Hepatitis C Virus, HCV), infekcija humanim T-staničnim limfotropičnim virusom (engl. Human T - cell leukemia virus, type I (HTLV-1) and type II (HTLV-2)), drugi uzročnici ovisno o epidemiološkoj situaciji ili postojanje rizika prijenosa i/ili rizičnih faktora za ove infekcije,«.

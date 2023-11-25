@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 1., članka 29. stavka 2., članka 30. stavka 4. i članka 35. stavka 5. Zakona o primjeni ljudskih tkiva i stanica (»Narodne novine«, broj 144/12.) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19.), uz prethodnu suglasnost ministra vanjskih i europskih poslova, ministar zdravstva donosi

@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o uvjetima u pogledu prostora, stručnih radnika, medicinsko-tehničke opreme i sustava kvalitete za obavljanje djelatnosti prikupljanja, uzimanja, testiranja, obrade, očuvanja, pohrane i raspodjele ljudskih tkiva i stanica (»Narodne novine«, broj 80/13.) iza članka 2. dodaje se članak 2.a koji glasi:
+»Članak 2.a
+U pogledu kvalitete i sigurnosti tkiva i stanica, djelatnosti iz članka 1. ovoga Pravilnika trebaju se obavljati sukladno važećem izdanju Vodiča za kvalitetu i sigurnost tkiva i stanica Europske uprave za kvalitetu lijekova i zdravstvene zaštite Vijeća Europe (Guide to the quality and safety of tissues and cells for human application, European Directorate for the Quality of Medicines & HealthCare, Council of Europe) i važećim smjernicama dobre prakse (Good Practice Guidelines for tissue establishments).«.

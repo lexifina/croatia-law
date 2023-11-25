@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o uvjetima u pogledu prostora, stručnih radnika, medicinsko-tehničke opreme i sustava kvalitete za obavljanje djelatnosti prikupljanja, uzimanja, testiranja, obrade, očuvanja, pohrane i raspodjele ljudskih tkiva i stanica
