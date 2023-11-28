@@ -1,0 +1,2 @@
+# Članak 5.
+Sastavni dio Očevidnika čini i abecedni popis (Imenik) kazališta, kazališnih družina ili kazališnih kuća odnosno posebnih ustrojstvenih jedinica u sastavu koji sadrži naziv, sjedište i redni broj Upisnog lista, a omogućava pretraživanje po jedinicama lokalne i područne (regionalne) samouprave u kojima je sjedište kazališta, kazališne družine i kazališne kuće odnosno posebne ustrojstvene jedinice u sastavu.
