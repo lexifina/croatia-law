@@ -1,0 +1,2 @@
+# Članak 7.
+U članku 12. stavku 2. iza riječi »u roku 60 dana od dana isteka roka za podnošenje prijava« dodaje se zarez i riječi »a iznimno, u slučaju objektivnih okolnosti, rok se može produžiti za daljnjih 30 dana.« Iza tih riječi počinje nova rečenica na način da se veznik »i« zamjenjuje riječima »Prijedlog rang-liste studenata« i glasi: »Prijedlog rang-liste studenata sadrži sljedeće podatke: ime i prezime studenta, ime jednog roditelja, godinu rođenja studenta i ukupan broj ostvarenih bodova.«
