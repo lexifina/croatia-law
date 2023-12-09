@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Korisnik kojemu je izvršnim rješenjem utvrđeno pravo na stambeno zbrinjavanje davanjem u najam stambene jedinice, dužan je pristupiti sklapanju ugovora o najmu dodijeljene stambene jedinice u roku od 15 dana od dana dostavljanja poziva.
+(2) Ukoliko korisnik iz stavka 1. ovoga članka neosnovano odbije ponuđenu useljivu stambenu jedinicu u državnom vlasništvu Ministarstvo će prema njemu postupiti sukladno članku 22. Zakona o stambenom zbrinjavanju.
+(3) S korisnikom stambenog zbrinjavanja prema Uredbi o utvrđivanju statusa bivših nositelja stanarskih prava i članova njihovih obitelji, te uvjetima i postupku njihovog stambenog zbrinjavanja (»Narodne novine«, br. 133/13.) sklapa se ugovor o najmu na neodređeno vrijeme sukladno odredbama zakona i propisa kojima se uređuje najam stanova.
+(4) Korisnik iz stavka 3. ovoga članka koji odbije ponuđeni useljiv stan u vlasništvu Republike Hrvatske ne gubi pravo na stambeno zbrinjavanje ali gubi pravo prvenstva na realizaciju stambenog zbrinjavanja u odnosu na korisnike kojima još nije ponuđena stambena jedinica.
