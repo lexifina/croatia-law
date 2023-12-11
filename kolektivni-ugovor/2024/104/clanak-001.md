@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Kolektivnim ugovorom stranke potpisnice Kolektivnog ugovora uređuju međusobna prava i obveze te određena pravila i pitanja iz radnih odnosa i u svezi s radnim odnosom radnika u djelatnosti drvne i papirne industrije i to za poslovne subjekte registrirane po Nacionalnoj klasifikaciji djelatnosti NKD 2007: C16 - Prerada drva i proizvoda od drva i pluta, C17 - Proizvodnja papira i proizvoda od papira, C31 - Proizvodnja namještaja, osim ako se ne radi o povremenoj djelatnosti i/ili djelatnosti u neznatnom obujmu.
+(2) Ovim Kolektivnim ugovorom stranke ugovora utvrđuju određena minimalna prava i obveze poslodavaca i radnika u djelatnosti drvne i papirne industrije.
