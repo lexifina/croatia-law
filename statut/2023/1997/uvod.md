@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o socijalnopedagoškoj djelatnosti (»Narodne novine«, br. 98/19, 18/22), Skupština Hrvatske komore socijalnih pedagoga, uz prethodnu suglasnost Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike (klasa: 550-06/22-01/45, urbroj: 524-09-01-02/4-22-3 od 27. lipnja 2022.), na sjednici održanoj 20. listopada 2022. godine, donijela je
