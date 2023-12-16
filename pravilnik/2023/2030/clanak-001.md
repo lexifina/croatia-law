@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o ispravama, dokumentima i podacima o pomorskom prometu te o njihovoj dostavi, prikupljanju i razmjeni, kao i o načinu i uvjetima izdavanja odobrenja za slobodan promet s obalom (»Narodne novine«, br. 70/13, 55/15, 103/17 i 13/20), u preambuli se iza riječi: »ministar pomorstva, prometa i infrastrukture«, dodaju riječi: »uz prethodnu suglasnost ministra vanjskih i europskih poslova«.

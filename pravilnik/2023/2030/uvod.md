@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 5. Pomorskog zakonika (»Narodne novine«, br. 181/04, 76/07, 146/08, 61/11, 56/13, 26/15 i 17/19) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19), ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
