@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o proračunu (»Narodne novine«, broj 144/21.), Ministarstvo poljoprivrede uz prethodno dobivenu suglasnost Ministarstva financija, klasa: 011-01/22-05/351; urbroj: 513-05-02-23-9 od 25. rujna 2023. godine, donosi
