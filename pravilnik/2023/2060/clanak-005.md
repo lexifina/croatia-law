@@ -1,0 +1,6 @@
+# Članak 5.
+Iza članka 12. dodaje se članak 12.a koji glasi:
+»Vrednovanje novčanih fondova
+Članak 12.a
+(1) Imovinu novčanog UCITS fonda iz članka 3. stavak 1. točke a) i iz članka 3. stavak 1. točke c) koji ne ispunjavaju uvjete iz članka 29. stavak 7. Uredbe (EU) 2017/1131 Europskog parlamenta i Vijeća od 14. lipnja 2017. o novčanim fondovima (tekst značajan za EGP, Službeni list Europske unije L 169/8, 30. 6. 2017.; dalje: Uredba o novčanim fondovima) nije dozvoljeno vrednovati u skladu s odredbama iz članka 12. ovoga Pravilnika.
+(2) Društvo za upravljanje koje upravlja novčanim fondom osnovano u skladu s Uredbom o novčanim fondovima, dužno je u pisanom obliku sastaviti interni akt o tehnikama procjene usklađene s odredbama članka 29. Uredbe o novčanim fondovima i odredbama iz članka 9.a stavak 2. ovoga Pravilnika te izrađivati procjene fer vrijednosti u skladu s člankom 9.a. stavak 3. ovoga Pravilnika.«.
