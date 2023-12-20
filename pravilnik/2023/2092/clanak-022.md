@@ -1,0 +1,8 @@
+# Članak 22.
+(1) Upravni odbor Hrvatske gospodarske komore donijet će odluku o troškovima u postupcima medijacije koji se vode pred Centrom u roku od šest mjeseci od dana stupanja na snagu ovog Pravilnika. Odluka se objavljuju u »Narodnim novinama«.
+(2) Do dana stupanja na snagu odluke iz stavka 1. ovog članka primjenjuju se:
+- Odluka o troškovima u postupcima mirenja (»Narodne novine«, br. 142/11) i Odluka o izmjeni i dopuni Odluke o troškovima u postupcima mirenja (»Narodne novine«, br. 67/17)
+- Odluka o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori, u sporovima u vezi s primjenom Zakona o potrošačkom kreditiranju (»Narodne novine«, br. 75/09), Zakona o platnom prometu (»Narodne novine«, br. 133/09) i Zakona o kreditnim institucijama (»Narodne novine«, br. 117/08, 74/09, 153/09), koja je objavljena u »Narodnim novinama«, br. 32/11
+- Odluka o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori, u sporovima u vezi s primjenom Zakona o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine« br. 54/13), koja je objavljena u »Narodnim novinama«, br. 84/13
+- Odluka o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori u sporovima između korisnika platnih usluga koji su primatelji plaćanja i njihovih pružatelja platnih usluga koji se odnose na prava i obveze iz Uredbe (EU) 2015/751 i/ili Zakona o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine«, br. 50/16), koja je objavljena u »Narodnim novinama«, br. 67/17.
+(3) Danom stupanja na snagu odluke iz stavka 1. ovog članka prestaju važiti odluke iz stavka 2. ovog članka.

@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 21.
+(1) Upravni odbor Hrvatske gospodarske komore će u roku od šest mjeseci od dana stupanja na snagu ovog Pravilnika donijeti odluku kojom će utvrditi da listu izmiritelja Centra iz članka 22. stavka 2. točke 15. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine«, br. 144/21) čine medijatori registrirani u Registru medijatora iz članka 5. stavka 3. ovog Pravilnika. Odluka se objavljuje u »Narodnim novinama«.
+(2) Danom stupanja na snagu odluke iz stavka 1. ovog članka prestaje važiti Lista izmiritelja Centra za mirenje pri Hrvatskoj gospodarskoj komori od 15. ožujka 2010. (»Narodne novine«, br. 34/10), Dopuna Liste izmiritelja Centra za mirenje pri Hrvatskoj gospodarskoj komori od 14. travnja. 2011. (»Narodne novine«, br. 48/11) i Dopuna Liste izmiritelja Centra za mirenje pri Hrvatskoj gospodarskoj komori od 18. prosinca 2013. (»Narodne novine«, br. 155/13).

@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ako su se stranke međusobno izrijekom obvezale da tijekom točno određenog razdoblja ili do nastupanja točno određenog uvjeta neće pokretati ili nastavljati sudske, arbitražne ili druge postupke, takav njihov sporazum ima obvezujući učinak. U tom će slučaju sud, arbitri ili druga tijela kod kojih se pokrene postupak o istom predmetu spora odbaciti na zahtjev druge stranke tužbu ili drugi podnesak kojim se postupak pokreće ili nastavlja.
+(2) Ako ne postoji izričit sporazum stranaka iz stavka 1. ovog članka, tijekom postupka medijacije stranke su dužne suzdržavati se od pokretanja sudskih, arbitražnih ili drugih postupaka za rješavanje spora o kojem se medijacija provodi, osim ako je to neophodno za očuvanje njihovih prava.
