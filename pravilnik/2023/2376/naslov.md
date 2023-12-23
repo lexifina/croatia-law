@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o provedbi intervencija 77.01. Potpora za sudjelovanje poljoprivrednika u sustavima kvalitete i 77.02. Potpora za aktivnosti informiranja i promoviranja koje provode skupine proizvođača na unutarnjem tržištu iz strateškog plana zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027.
