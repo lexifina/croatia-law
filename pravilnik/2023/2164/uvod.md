@@ -1,0 +1,1 @@
+Na temelju članka 186.i Zakona o zemljišnim knjigama (»Narodne novine«, broj 63/19 i 128/22) ministar nadležan za poslove pravosuđa, uz prethodnu suglasnost ministra nadležnog za poslove financija, donosi

@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Područje za dodjelu čini područje općina/gradova/gradskih četvrti koje je ovim Pravilnikom za pojedino mjesto službenog sjedišta javnog bilježnika određeno kao područje za dodjelu postupka iz članka 3. ovoga Pravilnika.
+(2) Ako na pojedinom području javni bilježnik nije imenovan ili je imenovani javni bilježnik spriječen obavljati javnobilježničku službu, sud će postupke iz članka 3. ovoga Pravilnika dodijeliti u rad javnom bilježniku na drugom području vodeći računa o blizini mjesta prema kojem je zasnovana mjesna nadležnost suda odnosno zemljišnoknjižnog odjela za provođenje postupka osnivanja i obnove zemljišne knjige i mjesta u kojem javni bilježnik ima sjedište.
