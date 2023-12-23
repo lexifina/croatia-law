@@ -1,0 +1,8 @@
+# Članak 2.
+U članku 8. stavci 11., 12.,13., 14., 15. i 16. mijenjaju se i glase:
+»(11) Prije dodjele koeficijenta prihvatljivosti iz stavka 10. ovoga članka isključuju se neprihvatljivi elementi iz članka 7. stavka 4. ovoga Pravilnika.
+(12) Poljoprivrednik potpisom zapisnika potvrđuje suglasnost s dodijeljenim koeficijentom prihvatljivosti iz stavka 10. ovoga članka.
+(13) Poljoprivrednik koji ima upisano poljoprivredno zemljište u ARKOD bez dokaza o vlasništvu ili posjedu, a koje nije u vlasništvu Republike Hrvatske, dužan je do 31. 12. 2025. dostaviti dokaze iz stavka 2. ovoga članka ili dokaz da je pokrenuo postupak za rješavanje imovinsko pravnih odnosa, u protivnom će biti brisano iz ARKOD sustava.
+(14) Ako pri upisu poljoprivrednog zemljišta u ARKOD Agencija za plaćanja ne može odrediti vrstu uporabe zemljišta iz Priloga I ovoga Pravilnika na temelju fotointerpretacije DOF-a, za upis u ARKOD poljoprivrednik treba nadležnoj podružnici Agencije za plaćanja dostaviti dokaze da na njima obavlja poljoprivrednu aktivnost u skladu s propisima koji uređuju područje poljoprivrede.
+(15) Za površine iz stavka 14. ovoga članka poljoprivrednik mora Agenciji za plaćanja dostaviti dokaz koji potvrđuje jednu od vrsta uporabe zemljišta iz Priloga I ovoga Pravilnika, u vidu geotagirane fotografije koristeći Agro GTF aplikaciju s prikazom obavljene poljoprivredne aktivnosti na ARKOD parceli, koje nisu starije od 30 dana od pokretanja postupka upisa tih površina u ARKOD.
+(16) Agencija za plaćanja naknadnom provjerom na terenu može utvrditi rezultate drugačije od onih prikazanih geotagiranim fotografijama iz stavka 15. ovoga članka te će postupiti na temelju rezultata provjere na terenu.«.
