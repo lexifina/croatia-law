@@ -1,0 +1,9 @@
+## GLAVA I.
+## UVODNE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom uređuje se obvezni sadržaj plana upravljanja pomorskim dobrom i plan upravljanja pomorskim dobrom unutar zaštićenog dijela prirode koji donosi predstavničko tijelo jedinice područne (regionalne) samouprave, predstavničko tijelo jedinice lokalne samouprave i upravno vijeće javne ustanove za zaštićene dijelove prirode.
+(2) Plan upravljanja pomorskim dobrom mora utvrditi specifična obilježja područja upravljanja ovisno o krajobraznima posebnostima, morfološkim svojstvima obale i njezine razvedenosti, svojstvima morskog eko-sustava i ekološkoj mreži Natura 2000, prisutnosti kulturno-povijesnih lokaliteta i graditeljskog nasljeđa, posebno onog koji je značajno utjecao na oblike obalnih područja i devastacijama obalnog prostora koje je u obalnom prostoru izazvalo ljudsko i prirodno djelovanje.
+(3) Plan upravljanja pomorskim dobrom mora se temeljiti na načelima i kriterijima upravljanja, planiranja i zaštite pomorskog dobra iz članka 8. i članka 14. Zakona o pomorskom dobru i morskim lukama i mora osigurati zaštitu autentičnih krajobraznih, prirodnih i kulturnih vrijednosti na području na koje se odnosi.
+(4) Plan upravljanja pomorskim dobrom nije pravna osnova za gradnju i druge zahvate nego dokaz pravnog interesa i planiranje vremena izvođenja gradnje i tih zahvata koji će se graditi ili izvoditi na temelju dokumentacije i akata koje se moraju ishoditi sukladno odredbama Zakona o pomorskom dobru i morskim lukama i podzakonskom propisu kao i posebnom propisu koji uređuje prostorno planiranje i gradnju.
+GLAVA II.
+PLAN UPRAVLJANJA POMORSKIM DOBROM I PLAN UPRAVLJANJA POMORSKIM DOBROM UNUTAR ZAŠTIĆENOG DIJELA PRIRODE KOJI DONOSI PREDSTAVNIČKO TIJELO JEDINICE LOKALNE SAMOUPRAVE I UPRAVNO VIJEĆE JAVNE USTANOVE ZA ZAŠTIĆENE DIJELOVE PRIRODE
