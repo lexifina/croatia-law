@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 11. stavak 5. mijenja se i glasi:
+»(5) U provođenju postupka iz stavka 4. ovoga članka, radi osiguranja opravdanosti visine troškova, podnositelj je dužan prikupiti jednu ponudu za prihvatljive troškove čija vrijednost nabave ne prelazi 5.000 eura (bez PDV-a), dok je za prihvatljive troškove čija vrijednost nabave prelazi 5.000 eura (bez PDV-a) dužan objaviti poziv za podnošenje ponuda i prikupiti tri usporedive ponude te u skladu s kriterijima odabira odabrati najpovoljniju, međutim ako podnositelj ne objavi poziv za podnošenje ponuda i/ili ne odabere najpovoljniju ponudu u skladu s kriterijima odabira, Agencija za plaćanja će odobriti najjeftiniju ponudu.«.

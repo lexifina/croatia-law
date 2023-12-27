@@ -1,0 +1,3 @@
+# Članak 12.
+U članku 50. stavak 1. mijenja se i glasi:
+»(1) Odlukom o dodjeli sredstava određuje se rok završetka projekta koji je u pravilu godinu dana od dana izdavanja odluke u intervencijama 58.1.a.01. Restrukturiranje i konverzija vinograda te 58.1.b.01. Ulaganje, a do tri godine od dana izdavanja odluke u intervencijama 58.1.h.01. Informiranje i 58.1.k.01 Promidžba, međutim za projekt iz intervencije 58.1.a.01. Restrukturiranje i konverzija vinograda ako je predviđena naknada za gubitak dohotka u vidu istovremenog postojanja starih i novih nasada rok završetka aktivnosti krčenja starog nasada se određuje na način da ne prelazi tri vegetacijske godine od vegetacijske godine u kojoj je podignut novi nasad.«.
