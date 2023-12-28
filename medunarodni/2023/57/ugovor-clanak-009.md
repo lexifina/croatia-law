@@ -1,0 +1,7 @@
+# Članak 9.
+POVEZANA PODUZEĆA
+1. Ako
+a) poduzeće države ugovornice sudjeluje izravno ili neizravno u upravi, kontroli ili imovini poduzeća druge države ugovornice, ili
+b) iste osobe sudjeluju izravno ili neizravno u upravi, nadzoru ili imovini poduzeća države ugovornice i poduzeća druge države ugovornice,
+i ako su u oba slučaja utvrđeni ili nametnuti uvjeti između dva poduzeća u njihovim trgovačkim ili financijskim odnosima koji se razlikuju od onih koji bi bili dogovoreni između samostalnih poduzeća, tada se bilo koja dobit koju bi, da nema navedenih uvjeta, jedno od poduzeća ostvarilo, no zbog navedenih uvjeta nije je ostvarilo, može uključiti u dobit tog poduzeća i sukladno tome oporezivati.
+2. Ako država ugovornica u dobit poduzeća te države ugovornice uključi - i sukladno tome oporezuje - dobit na koju je poduzeću druge države ugovornice već obračunat porez u toj drugoj državi ugovornici i takva uključena dobit je dobit za koju prvospomenuta država ugovornica tvrdi da je dobit koju bi poduzeće prvospomenute države ugovornice ostvarilo da su uvjeti dogovoreni između ta dva poduzeća bili jednaki onima koje bi dogovorila samostalna poduzeća, tada ta druga država ugovornica na odgovarajući način usklađuje iznos poreza koji je u njoj obračunat na tu dobit. Pri utvrđivanju takvog usklađenja, trebaju se uzeti u obzir druge odredbe ovog Ugovora te se nadležna tijela država ugovornica, prema potrebi, međusobno savjetuju.
