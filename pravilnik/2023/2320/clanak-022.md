@@ -1,0 +1,4 @@
+## Obnavljanje upisa sorti voćnih vrsta i loze
+# Članak 22.
+(1) Sorta upisana u Sortnu listu voćnih vrsta ili u Sortnu listu loze ostaje upisana do datuma do kojeg je službeno evidentirana matična biljka, a najdulje 30 godina.
+(2) Genetski modificirane sorte ostaju upisane u Sortnoj listi voćnih vrsta ili Sortnoj listi loze za razdoblje za koje je genetski modificirani organizam od kojeg se sorta sastoji dopušten propisom Europske komisije donesenim u skladu s Direktivom 2001/18/EZ Europskog parlamenta i Vijeća od 12. ožujka 2001. o namjernom uvođenju u okoliš genetski modificiranih organizama i o stavljanju izvan snage Direktive Vijeća 90/220/EEZ (SL L 106, 17. 4. 2001.) (dalje u tekstu: Direktiva 2001/18/EZ) ili Uredbom (EZ) br. 1829/2003 Europskog parlamenta i Vijeća od 22. rujna 2003. o genetski modificiranoj hrani i hrani za životinje (SL L 268, 18. 10. 2003.) (dalje u tekstu: Uredba (EZ) br. 1829/2003).

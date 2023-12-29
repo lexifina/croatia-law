@@ -1,0 +1,6 @@
+# Članak 23.
+(1) Sorte upisane u Sortnu listu voćnih vrsta ili u Sortnu listu loze mogu se obnoviti za najduže 30 godina, ako je materijal sorte još uvijek dostupan i može se umatičiti prema propisu kojima se uređuje proizvodnja i stavljanje na tržište reprodukcijskog materijala i sadnica namijenjenih za proizvodnju voća i prema propisu kojim se uređuje stavljanje na tržište materijala za vegetativno umnažanje loze.
+(2) Održivač sorte ili njegov zastupnik mora podnijeti zahtjev za obnavljanje upisa sorte (u daljnjem tekstu: zahtjev za obnavljanje) Agenciji na Obrascu 3. iz Dodatka 1. ovoga Pravilnika.
+(3) Agencija će na početku svake vegetacijske sezone objaviti u Službenom glasilu Agencije popis sorti za koje je potrebno u slijedećoj godini podnijeti zahtjev za obnavljanje i elektroničkim putem dostaviti održivačima obavijest o isteku razdoblja za koje je sorta upisana.
+(4) Postupak i uvjeti obnavljanja genetski modificiranih sorti, osim uvjeta propisanih stavkom 1. ovog članka, bit će uređeni propisima Europske komisije donesenim u skladu s Direktivom 2001/18/EZ ili Uredbom (EZ) br. 1829/2003, koji se odnose na uzgoj genetski modificiranih organizama.
+(5) Razdoblje obnavljanja genetski modificiranih sorti ograničeno je na razdoblje odobrenja tog genetski modificiranog organizma.
