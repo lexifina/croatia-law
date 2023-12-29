@@ -1,0 +1,3 @@
+# Članak 25.
+(1) U slučaju nedovoljnih količina sjemena, sjeme krumpira kategorije osnovno i certificirano može se, u skladu s člankom 32. stavkom 3. podstavkom 1. Zakona, staviti na tržište iako ne ispunjava uvjete za izdavanje certifikata o sjemenu uz obvezu da se označi u skladu s člankom 20. stavkom 4. podstavkom 1. ovoga Pravilnika.
+(2) U slučaju nedovoljnih količina sjemena, sjeme krumpira kategorije osnovno i certificirano može se, u skladu s člankom 32. stavkom 3. podstavkom 2. Zakona, staviti na tržište uz obvezu označavanja u skladu s člankom 20. stavkom 4. podstavkom 2. ovoga Pravilnika.

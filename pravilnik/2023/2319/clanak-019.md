@@ -1,0 +1,6 @@
+# Članak 19.
+(1) Iznimno od članka 18. stavka 1. ovoga Pravilnika, na tržište se može staviti pakiranje sjemenskog krumpira na kojemu su podaci iz Certifikata o sjemenu na pakiranju u obliku neizbrisivog otiska na pakiranju, a izgled otisnutog certifikata mora biti službeno odobren od Agencije.
+(2) Agencija može odobriti dobavljaču označavanje u skladu sa člankom 18. stavkom 4. ovoga Pravilnika i stavkom 1. ovoga članka u okviru nadzora pod stručnom kontrolom.
+(3) Označavanje u skladu s člankom 18. stavkom 5. ovoga Pravilnika i stavkom 1. ovoga članka Agencija može odobriti dobavljaču koji stavlja na tržište sjemenski krumpir pakiran i plombiran u skladu s člankom 16. stavcima 1. i 3. ovoga Pravilnika uz uvjet da dobavljač osigura pouzdan sustav evidentiranja broja otisnutih certifikata i o tome izvještava Agenciju.
+(4) Agencija vodi evidenciju o označavanju iz stavka 2. ovoga članka sa podacima o dobavljaču i podacima o sjemenu.
+(5) Dobavljač i Agencija vode evidenciju o označavanju iz stavka 3. ovoga članka s podacima o količini sjemena označenog u skladu sa člankom 18. stavkom 4. ovoga Pravilnika, uključivo broj i sadržaj pakiranja svake partije, kao i dodijeljene serijske brojeve.
