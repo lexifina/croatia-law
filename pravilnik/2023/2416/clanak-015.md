@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 15.
+Ovaj Pravilnik stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.

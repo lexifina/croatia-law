@@ -1,0 +1,3 @@
+## Dodjela potpore
+# Članak 2.
+Potpore iz Programa spojive su s unutarnjim tržištem u smislu članka 107. stavka 3. Ugovora i izuzete iz obveze prijave iz njegova članka 108. stavka 3. s obzirom da ispunjavaju sve opće uvjete utvrđene u Poglavlju I. i sve posebne uvjete iz članka 26. točke 10 podtočke b) Uredbe Komisije (EU) 2022/2472 оd 14. prosinca 2022. o proglašenju određenih kategorija potpora u sektorima poljoprivrede i šumarstva te u ruralnim područjima spojivima s unutarnjim tržištem u primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije (SL 327/1, 21. 12. 2022.) (u daljnjem tekstu: Uredba o poljoprivrednom izuzeću).
