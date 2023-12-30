@@ -1,0 +1,5 @@
+## Rok za odlučivanje o zahtjevu za izdavanje odobrenja za rad
+# Članak 28.
+(1) Hrvatska narodna banka će u roku od 45 dana od primitka zahtjeva za izdavanje odobrenja za rad provesti provjeru potpunosti toga zahtjeva.
+(2) Zahtjev za izdavanje odobrenja za rad smatrat će se potpunim tek nakon što podnositelj zahtjeva dostavi sve informacije i dokumente iz članka 27. stavka 1. ovoga Zakona i propisa donesenog na temelju članka 27. stavka 10. ovoga Zakona.
+(3) Hrvatska narodna banka u roku od 90 dana od primitka potpunog zahtjeva za izdavanje odobrenja za rad ili, ako se zahtjev za izdavanje odobrenja za rad smatra nepotpunim, od primitka traženih informacija, donosi rješenje kojim podnositelju zahtjeva za izdavanje odobrenja za rad odobrava pružanje usluge servisiranja kredita i upisuje ga u registar iz članka 40. ovoga Zakona ako na temelju zahtjeva za izdavanje odobrenja za rad, dostavljene dokumentacije i informacija iz članka 27. ovoga Zakona te informacija kojima raspolaže ocijeni da su ispunjeni svi uvjeti iz članka 26. ovoga Zakona.

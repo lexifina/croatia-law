@@ -1,0 +1,7 @@
+## GLAVA III. KUPCI KREDITA
+## Pravo na informacije iz ugovora o kreditu
+# Članak 19.
+(1) Kreditna institucija sa sjedištem u Republici Hrvatskoj dužna je potencijalnom kupcu kredita dati potrebne informacije o pravima koja kao vjerovnik ima iz ugovora o neprihodonosnom kreditu te, ako je ugovoren, o predmetu zaloga kako bi se potencijalnom kupcu kredita omogućilo da provede vlastitu procjenu vrijednosti prava vjerovnika iz ugovora o neprihodonosnom kreditu te o vjerojatnosti povrata vrijednosti iz tog ugovora prije sklapanja ugovora o kupoprodaji neprihodonosnog kredita.
+(2) Potencijalni kupac neprihodonosnog kredita s podacima iz stavka 1. ovoga članka dužan je postupati u skladu s odredbama o bankovnoj tajni i povjerljivim podacima iz propisa kojim se uređuje poslovanje kreditnih institucija.
+(3) Podatke iz stavka 1. ovoga članka kreditna institucija daje na obrascima koji su u skladu s provedbenim tehničkim standardima koje donosi Europska komisija u skladu s člankom 15. Uredbe (EU) br. 1093/2010 Europskog parlamenta i Vijeća od 24. studenog 2010. o osnivanju europskog nadzornog tijela (Europskog nadzornog tijela za bankarstvo), kojom se izmjenjuje Odluka br. 716/2009/EZ i stavlja izvan snage Odluka Komisije 2009/78/EZ.
+(4) Kreditna institucija dužna je obrasce iz stavka 3. ovoga članka upotrebljavati i za razmjenu informacija prilikom prijenosa ugovora o neprihodonosnom kreditu na drugu kreditnu instituciju.

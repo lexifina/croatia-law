@@ -1,0 +1,8 @@
+## Povreda odredbi o vođenju i čuvanju dokumentacije
+# Članak 92.
+(1) Novčanom kaznom u iznosu od 2500,00 do 35.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja drugog potraživanja ako ne vodi i ne čuva dokumentaciju o uputama dostavljenima izvoditelju usluge servisiranja drugog potraživanja i ugovor o povjeravanju pojedine usluge servisiranja drugog potraživanja najmanje pet godina od datuma raskida ili isteka tog ugovora (članak 56. stavak 7.).
+(2) Novčanom kaznom u iznosu od 250,00 do 3500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 2500,00 do 35.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja drugog potraživanja i izvoditelj usluge servisiranja drugog potraživanja ako dokumentaciju o uputama dostavljenima izvoditelju usluge servisiranja drugog potraživanja te ugovor o povjeravanju pojedine usluge servisiranja drugog potraživanja ne da na uvid Financijskom inspektoratu na njegov zahtjev (članak 56. stavak 8.).
+(4) Novčanom kaznom u iznosu od 1000,00 do 17.500,00 eura kaznit će se za prekršaj iz stavka 3. ovoga članka izvoditelj usluge servisiranja drugog potraživanja koji je obrtnik ili osoba koja obavlja drugu samostalnu djelatnost.
+(5) Novčanom kaznom u iznosu od 250,00 do 3500,00 eura kaznit će se za prekršaj iz stavka 3. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+Povreda odredbi o postupanju kupca drugog potraživanja i pružatelja usluge servisiranja drugog potraživanja s dužnicima i odredbi o troškovima slanja obavijesti i naknada

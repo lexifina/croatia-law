@@ -1,0 +1,4 @@
+## Povreda odredbe o pravu na informacije iz ugovora o kreditu
+# Članak 74.
+(1) Novčanom kaznom u iznosu od 20.000,00 do 130.000,00 eura kaznit će se za prekršaj kreditna institucija ako potencijalnom kupcu kredita ne da potrebne informacije o pravima koja kao vjerovnik ima iz ugovora o neprihodonosnom kreditu i predmetu zaloga kada je ugovoren, ako ne osigura da potencijalni kupac neprihodonosnog kredita s podacima koje je primio postupa kao s bankovnom tajnom i povjerljivim podacima, te ako potrebne podatke potencijalnom kupcu ili drugoj kreditnoj instituciji s kojom namjerava sklopiti ugovor o kupoprodaji neprihodonosnog kredita ne da na obrascima koji su u skladu s provedbenim tehničkim standardima koje donosi Europska komisija (članak 19. stavci 1. i 3.).
+(2) Novčanom kaznom u iznosu od 500,00 do 6500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka odgovorna osoba iz uprave kreditne institucije.

@@ -1,0 +1,7 @@
+## GLAVA II. ODNOSI S DUŽNICIMA
+## Dostava obavijesti o namjeri kupoprodaje ugovora o drugom potraživanju
+# Članak 53.
+(1) Vjerovnik je dužan najmanje 30 dana prije kupoprodaje ugovora o drugom potraživanju dužniku poslati obavijest o ukupnom stanju duga na datum slanja obavijesti, kao i strukturu duga te informaciju kako se navedeni iznosi mogu platiti, uz najavu namjere kupoprodaje prava vjerovnika iz ugovora o drugom potraživanju i navodeći pri tome namjeravani datum kupoprodaje, a koji ne može biti kraći od 30 dana od datuma slanja obavijesti.
+(2) Struktura duga iz stavka 1. ovoga članka obuhvaća podatke o ugovoru o drugom potraživanju iz kojeg proizlazi tražbina (naziv i broj ugovora ako postoji, ime, prezime odnosno tvrtku, OIB, adresu odnosno sjedište ugovornih strana, datum sklapanja ugovora i druge podatke koji su potrebni da se odredi ugovor o drugom potraživanju), iznosu glavnice, datumu dospijeća, obračunsko razdoblje kamata s naznakom iznosa kamatne stope, osnovu i iznos pojedine stavke troška, kao i druge naknade.
+(3) Obavijest iz stavka 1. ovoga članka mora biti sastavljena razumljivim riječima i u jednostavnom obliku na hrvatskom jeziku i latiničnom pismu te poslana dužniku ugovorenim putem komunikacije između vjerovnika i dužnika.
+(4) Ako između vjerovnika i dužnika nije ugovoren način komunikacije, obavijest iz stavka 1. ovoga članka vjerovnik je dužan poslati dužniku putem minimalno jednog kanala komunikacije, pisanim ili elektroničkim putem.

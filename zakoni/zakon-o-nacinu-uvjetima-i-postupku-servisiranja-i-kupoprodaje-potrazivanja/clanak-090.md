@@ -1,0 +1,6 @@
+## Povreda odredbi o primanju i držanju sredstava
+# Članak 90.
+(1) Novčanom kaznom u iznosu od 2500,00 do 35.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja drugog potraživanja ako bez ovlaštenja primi i drži sredstva dužnika ili ne otvori zaseban račun u kreditnoj instituciji koji se koristi isključivo za uplate radi namirenja duga iz ugovora o drugom potraživanju (članak 56. stavak 4.).
+(2) Novčanom kaznom u iznosu od 1000,00 do 3500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 2500,00 do 35.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja drugog potraživanja koji je ovlašten primiti i držati sredstva dužnika ako dužniku u papirnatom obliku ili putem drugog sredstva komunikacije koje omogućuje pohranu vremena i sadržaja komunikacije na trajnom mediju ne dostavi potvrdu o primljenom iznosu, ako na svaki pojedinačni pisani zahtjev dužnika ne pošalje popis njegovih uplata po pojedinoj partiji dugovanja te ako popis ne uključuje datum i iznos uplate (članak 56. stavak 4.).
+(4) Novčanom kaznom u iznosu od 1000,00 do 3500,00 eura kaznit će se za prekršaj iz stavka 3. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.

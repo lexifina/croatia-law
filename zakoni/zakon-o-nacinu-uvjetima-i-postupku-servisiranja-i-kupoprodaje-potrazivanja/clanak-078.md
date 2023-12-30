@@ -1,0 +1,10 @@
+## Povreda odredbi o ugovornom odnosu pružatelja usluge servisiranja kredita i kupca kredita
+# Članak 78.
+(1) Novčanom kaznom u iznosu od 4000,00 do 50.000,00 eura kaznit će se za prekršaj pravna osoba kupac kredita koji samostalno ne obavlja servisiranje kredita ako ne sklopi ugovor o servisiranju kredita s ovlaštenim pružateljem usluge servisiranja kredita (članak 22. stavak 1.).
+(2) Novčanom kaznom u iznosu od 2000,00 do 25.000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka kupac kredita koji je obrtnik ili osoba koja obavlja drugu samostalnu djelatnost.
+(3) Novčanom kaznom u iznosu od 400,00 do 5000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+(4) Novčanom kaznom u iznosu od 4000,00 do 50.000,00 eura kaznit će se za prekršaj pravna osoba kupac kredita i pružatelj usluge servisiranja kredita ako ugovor o servisiranju kredita koji su sklopili nema obvezni sadržaj propisan u ovom Zakonu (članak 22. stavak 2.).
+(5) Novčanom kaznom u iznosu od 2000,00 do 25.000,00 eura kaznit će se za prekršaj iz stavka 4. ovoga članka kupac kredita koji je obrtnik ili osoba koja obavlja drugu samostalnu djelatnost.
+(6) Novčanom kaznom u iznosu od 400,00 do 5000,00 eura kaznit će se za prekršaj iz stavka 4. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+(7) Novčanom kaznom u iznosu od 4000,00 do 50.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja kredita ako korespondenciju s kupcem kredita i s dužnikom, upute kupca kredita u vezi s pravima vjerovnika iz ugovora za koji pruža usluge servisiranja kredita i ugovor o servisiranju kredita ne vodi i ne čuva pet godina od datuma raskida, otkaza ili isteka ugovora o servisiranju kredita ili je dokumentacija koju čuva nepotpuna ili ako dokumentaciju ne da na uvid Hrvatskoj narodnoj banci kad Hrvatska narodna banka to zatraži (članak 22. stavci 3. i 4.).
+(8) Novčanom kaznom u iznosu od 400,00 do 5000,00 eura kaznit će se za prekršaj iz stavka 7. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.

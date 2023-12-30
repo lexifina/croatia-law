@@ -1,0 +1,7 @@
+## Povreda odredbe o zaštiti osobnih podataka
+# Članak 68.
+(1) Novčanom kaznom u iznosu od 5000,00 do 70.000,00 eura kaznit će se za prekršaj pravna osoba vjerovnik koji prilikom sklapanja ugovora o kupoprodaji neprihodonosnog kredita odnosno ugovora o kupoprodaji drugog potraživanja kupcu kredita i kupcu drugog potraživanja prenese osobne podatke i podatke kojima raspolaže za kontaktiranje dužnika, sudužnika i jamca koji nisu povezani s ugovorom o kreditu odnosno s ugovorom o drugom potraživanju (članak 8. stavak 3.).
+(2) Novčanom kaznom u iznosu od 3000,00 do 40.000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka vjerovnik koji je obrtnik ili osoba koja obavlja drugu samostalnu djelatnost.
+(3) Novčanom kaznom u iznosu od 500,00 do 6500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+(4) Novčanom kaznom u iznosu od 5000,00 do 70.000,00 eura kaznit će se za prekršaj pravna osoba kupac kredita, imenovani subjekt za pružanje usluga servisiranja iz članka 12. stavka 2. podstavka 1. točaka a) i c) ovoga Zakona, pružatelj usluge servisiranja kredita, kupac drugog potraživanja i pružatelj usluge servisiranja drugog potraživanja ako prikupljaju osobne podatke dužnika koji nisu povezani s ugovorm o kreditu odnosno ugovorom o drugom potraživanju, te koji nisu dostupni u javnim registrima (članak 8. stavak 4.).
+(5) Novčanom kaznom u iznosu od 500,00 do 6500,00 eura kaznit će se za prekršaje iz stavka 4. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.

@@ -1,0 +1,4 @@
+## Područje primjene
+# Članak 52.
+(1) Dio treći ovoga Zakona primjenjuje se na vjerovnika, kupca drugog potraživanja, njegova zastupnika imenovanog u skladu s člankom 54. ovoga Zakona i pružatelja usluge servisiranja drugog potraživanja kada su jedna od strana u ugovoru o kupoprodaji drugog potraživanja odnosno u ugovoru o servisiranju drugog potraživanja.
+(2) Dio treći ovoga Zakona ne odnosi se na potraživanja države odnosno jedinice lokalne i područne (regionalne) samouprave, koja bi bila prihod državnog proračuna Republike Hrvatske odnosno proračuna jedinice lokalne i područne (regionalne) samouprave ili prihod izvanproračunskih korisnika, neovisno o tome je li riječ o javnim ili nejavnim davanjima kako su određena propisom kojim se uređuje sustav proračuna te propisom kojim se uređuje odnos između poreznih obveznika i poreznih tijela koja primjenjuju propise o porezima i drugim javnim davanjima.

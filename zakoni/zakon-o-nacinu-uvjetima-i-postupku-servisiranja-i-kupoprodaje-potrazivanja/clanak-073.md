@@ -1,0 +1,5 @@
+## Povreda odredbe o nepoštivanju roka
+# Članak 73.
+(1) Novčanom kaznom u iznosu od 2500,00 do 35.000,00 eura kaznit će se za prekršaj pravna osoba kupac kredita, zastupnik imenovan u skladu s člankom 23. ovoga Zakona, imenovani subjekt za pružanje usluga servisiranja iz članka 12. stavka 2. podstavka 1. točaka a) ovoga Zakona, pružatelj usluge servisiranja kredita i izvoditelj usluge servisiranja kredita ako Hrvatskoj narodnoj banci ne dostave očitovanje na pritužbu dužnika, ako ne dostave dokaze na koje se u očitovanju pozivaju ili očitovanje ne dostave u roku kojeg je Hrvatska narodna banka odredila u pozivu za dostavu očitovanja i dokaza (članak 18. stavci 2. i 3.).
+(2) Novčanom kaznom u iznosu od 1250,00 do 17.500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka kupac kredita i izvoditelj usluge servisiranja kredita koji je obrtnik ili osoba koja obavlja drugu samostalnu djelatnost.
+(3) Novčanom kaznom u iznosu od 250,00 do 3500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.

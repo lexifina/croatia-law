@@ -1,0 +1,5 @@
+## Povreda odredbi o nepostupanju po rješenju Financijskog inspektorata
+# Članak 96.
+(1) Novčanom kaznom u iznosu od 2000,00 do 30.000,00 eura kaznit će se za prekršaj pravna osoba vjerovnik, kupac drugog potraživanja, njegov zastupnik imenovan u skladu s člankom 54. ovoga Zakona, pružatelj usluge servisiranja drugog potraživanja i izvoditelj usluge servisiranja drugog potraživanja ako ne postupe sukladno rješenju Financijskog inspektorata za otklanjanje nezakonitosti i nepravilnosti u radu (članak 63. stavak 1. podstavak 2. i stavak 3.).
+(2) Novčanom kaznom u iznosu od 1000,00 do 15.000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka kupac drugog potraživanja, njegov zastupnik imenovan u skladu s člankom 54. ovoga Zakona i izvoditelj usluge servisiranja drugog potraživanja koji je obrtnik ili osoba koja obavlja drugu samostalnu djelatnost.
+(3) Novčanom kaznom u iznosu od 200,00 do 3000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.

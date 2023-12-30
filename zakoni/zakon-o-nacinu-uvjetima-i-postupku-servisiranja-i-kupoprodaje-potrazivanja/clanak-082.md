@@ -1,0 +1,7 @@
+## Povreda odredbi o primanju i držanju sredstava dužnika
+# Članak 82.
+(1) Novčanom kaznom u iznosu od 5000,00 do 65.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja kredita ako bez ovlaštenja prima i drži sredstva dužnika ili ne otvori zaseban račun u kreditnoj instituciji koji se koristi isključivo za uplate radi namirenja duga iz ugovora o neprihodonosnom kreditu (članak 32. stavci 1. i 2.).
+(2) Novčanom kaznom u iznosu od 500,00 do 6500,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 2500,00 do 35.000,00 eura kaznit će se za prekršaj pružatelj usluge servisiranja kredita koji je ovlašten primiti i držati sredstva dužnika ako dužniku u papirnatom obliku ili putem drugog sredstva komunikacije koje omogućuje pohranu vremena i sadržaja komunikacije na trajnom mediju ne dostavi potvrdu o primljenom iznosu, ako na svaki pojedinačni pisani zahtjev dužnika ne pošalje popis njegovih uplata po pojedinoj partiji dugovanja te ako popis ne uključuje datum i iznos uplate (članak 32. stavak 5.).
+(4) Novčanom kaznom u iznosu od 2000,00 do 6500,00 eura kaznit će se za prekršaj iz stavka 3. ovoga članka i član uprave ili druga odgovorna osoba u pravnoj osobi.
+Povreda odredbi o povjeravanju usluge servisiranja kredita, odredbi o prekograničnom pružanju usluga servisiranja i odredbi o obavještavanju Hrvatske narodne banke
