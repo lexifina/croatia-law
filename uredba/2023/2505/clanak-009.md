@@ -1,0 +1,8 @@
+## Odabir srednjih i velikih investicijskih projekata
+# Članak 9.
+(1) Odabir za financiranje srednjih i velikih investicijskih projekata, čiji je nositelj proračunski korisnik državnog proračuna, donosi Povjerenstvo iz članka 12. ove Uredbe, na temelju liste prijedloga Ministarstva financija iz stavka 5. ovoga članka, a u skladu s kriterijima propisanim člankom 11. ove Uredbe.
+(2) Informaciju o prijedlozima srednjih i velikih investicijskih projekata čija provedba i financiranje su planirani za iduću proračunsku godinu dostavlja se Ministarstvu financija najkasnije do 1. ožujka tekuće proračunske godine.
+(3) Informaciju iz stavka 2. ovoga članka dostavlja nadležno ministarstvo za projekte za koje je nositelj i za projekte proračunskih korisnika iz nadležnosti.
+(4) Uz prijedlog iz stavka 2. ovoga članka za srednje i velike investicijske projekte prilaže se Obrazac sažetka projekta iz članka 5. stavka 2. ove Uredbe i pred-investicijske studije iz članka 5. stavka 1. podstavaka c) i d) ove Uredbe.
+(5) Ministarstvo financija će do 1. travnja tekuće kalendarske godine, na temelju informacija iz stavka 2. ovoga članka, izraditi listu prijedloga srednjih i velikih investicijskih projekata za financiranje iz državnog proračuna i dostaviti je Povjerenstvu iz članka 12. ove Uredbe zajedno s dokumentacijom iz stavka 4. ovoga članka.
+(6) Iznimno od stavka 2. ovoga članka, Povjerenstvo iz članka 12. ove Uredbe može održati sjednicu na zahtjev Ministarstva financija u slučaju izvanrednih prijedloga investicijskih projekata koji su dostavljeni Ministarstvu financija i nakon roka utvrđenog stavkom 2. ovoga članka.
