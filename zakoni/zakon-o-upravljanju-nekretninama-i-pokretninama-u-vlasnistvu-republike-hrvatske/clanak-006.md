@@ -1,0 +1,3 @@
+## Načelo javnosti
+# Članak 6.
+Načelo javnosti upravljanja nekretninama i pokretninama u vlasništvu Republike Hrvatske osigurava se propisivanjem preglednih pravila i kriterija upravljanja u propisima i drugim aktima koji se donose na temelju ovoga Zakona te njihovom javnom objavom, određivanjem ciljeva upravljanja nekretninama i pokretninama u vlasništvu Republike Hrvatske u Strategiji upravljanja nekretninama i pokretninama u vlasništvu Republike Hrvatske i Godišnjem planu upravljanja nekretninama i pokretninama u vlasništvu Republike Hrvatske, redovitim upoznavanjem javnosti s aktivnostima tijela koja upravljaju nekretninama i pokretninama u vlasništvu Republike Hrvatske i javnom objavom odluka o upravljanju.

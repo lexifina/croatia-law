@@ -1,0 +1,11 @@
+## GLAVA IV. UPRAVLJANJE POKRETNINAMA U VLASNIŠTVU REPUBLIKE HRVATSKE
+## Nadležnost u upravljanju pokretninama u vlasništvu Republike Hrvatske
+# Članak 41.
+(1) Ministarstvo može pokretnine u vlasništvu Republike Hrvatske koje su mu povjerene na upravljanje na temelju ovoga Zakona ili posebnog propisa dati na uporabu bez naknade tijelima državne uprave ili drugim državnim tijelima korisnicima državnog proračuna Republike Hrvatske odnosno dati na uporabu bez naknade, u najam ili darovati jedinicama lokalne i područne (regionalne) samouprave ustanovama kojima je osnivač Republika Hrvatska i/ili jedinica lokalne i područne (regionalne) samouprave, tijelima socijalne skrbi, organizacijama civilnog društva i pravnim osobama koje imaju javne ovlasti, a koja nisu trgovačka društva u vlasništvu ili suvlasništvu Republike Hrvatske te prodati ili dati u najam pokretnine drugim fizičkim i pravnim osobama.
+(2) Ministarstvo upravlja i raspolaže pokretninama u vlasništvu Republike Hrvatske na način i po pravilima propisanim ovim Zakonom za upravljanje nekretninama u vlasništvu Republike Hrvatske, vodeći se načelima upravljanja propisanim ovim Zakonom.
+(3) Odluku o pokretanju postupka raspolaganja i odluku o raspolaganju pokretninom čija je procijenjena vrijednost niža ili jednaka novčanom iznosu od 1.500.000,00 eura donosi ministar.
+(4) Odluku o pokretanju postupka raspolaganja i odluku o raspolaganju pokretninom čija procijenjena vrijednost iznosi više od 1.500.000,00 eura donosi Vlada Republike Hrvatske na prijedlog Ministarstva.
+(5) Tijela državne uprave koja na temelju bilo koje pravne osnove upravljaju pokretninama u vlasništvu Republike Hrvatske dužna su u upravljanju tim pokretninama primjenjivati odredbe ovoga Zakona, podzakonskih propisa donesenih na temelju ovoga Zakona i odredbe drugih posebnih zakona.
+(6) Na postupke raspolaganja pokretninama u vlasništvu Republike Hrvatske propisanim ovim Zakonom na odgovarajući način primjenjuju se odredbe i pravila kojima se uređuju državne potpore.
+(7) Ministarstvo može pokretnine koje nemaju uporabnu vrijednost ili imaju neznatnu vrijednost odnosno nisu u funkciji uništiti odnosno zbrinuti kod ovlaštenih tijela.
+(8) Postupke koji prethode sklapanju pravnih poslova raspolaganja pokretninama u vlasništvu Republike Hrvatske uređuje Vlada Republike Hrvatske uredbom.

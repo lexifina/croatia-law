@@ -1,0 +1,6 @@
+## Postupci u tijeku
+# Članak 59.
+(1) Postupci započeti po odredbama Zakona o upravljanju državnom imovinom (»Narodne novine«, br. 145/10. i 70/12.), Zakona o upravljanju i raspolaganju imovinom u vlasništvu Republike Hrvatske (»Narodne novine«, br. 94/13., 18/16. i 89/17. – Odluka i Rješenje Ustavnog suda Republike Hrvatske) i Zakona o upravljanju državnom imovinom (»Narodne novine«, br. 52/18.), a koji se odnose na upravljanje nekretninama, pokretninama i oduzetom imovinom, dovršit će se po odredbama ovoga Zakona, ako je povoljniji za stranku.
+(2) Iznimno od stavka 1. ovoga članka, postupci započeti na temelju odredbe članka 68. Zakona o upravljanju državnom imovinom (»Narodne novine«, br. 52/18.) dovršit će se po odredbama toga Zakona.
+(3) Iznimno od stavka 1. ovoga članka, za zahtjeve iz članka 7. i članka 46. stavka 8. Zakona o upravljanju državnom imovinom (»Narodne novine«, br. 52/18.), a koji su podneseni Ministarstvu do dana stupanja na snagu ovoga Zakona, stupanjem na snagu ovoga Zakona Ministarstvo će obustaviti postupanje po podnesenim zahtjevima.
+Rješavanje imovinskopravnih odnosa na nekretninama u vlasništvu Republike Hrvatske u slučaju kada su njima raspolagale jedinice lokalne i područne (regionalne) samouprave

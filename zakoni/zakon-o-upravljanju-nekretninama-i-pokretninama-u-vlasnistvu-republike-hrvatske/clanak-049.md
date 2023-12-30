@@ -1,0 +1,4 @@
+## Evidentiranje nekretnina u poslovnim knjigama
+# Članak 49.
+(1) Ministarstvo će u poslovnim knjigama evidentirati nekretnine u vlasništvu Republike Hrvatske, a nadležna tijela kojima je na temelju ovoga Zakona povjereno obavljanje poslova upravljanja nekretninama u vlasništvu Republike Hrvatske, nekretnine u odnosu na koje vrše poslove upravljanja evidentirat će izdvojeno u svojim poslovnim knjigama kao izvanbilančnu evidenciju.
+(2) Nadležna tijela kojima su povjereni poslovi upravljanja nekretninama u vlasništvu Republike Hrvatske, sukladno odredbama ovoga Zakona, dužna su najkasnije u roku od 30 dana od dana sklapanja pravnog posla raspolaganja tim nekretninama obavijestiti Ministarstvo o izvršenom raspolaganju radi usklađenja podataka u poslovnim knjigama Ministarstva te su dužna izvršiti usklađenja u izvanbilančnoj evidenciji svojih poslovnih knjiga iz stavka 1. ovoga članka.

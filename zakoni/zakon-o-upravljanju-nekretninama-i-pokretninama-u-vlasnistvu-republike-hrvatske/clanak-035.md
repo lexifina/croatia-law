@@ -1,0 +1,8 @@
+## Osnivanje prava građenja i osnivanje prava služnosti bez provođenja javnog natječaja
+# Članak 35.
+(1) Ministarstvo će osnovati pravo građenja ili pravo služnosti bez provođenja javnog natječaja uz naknadu određenu sukladno članku 22. ovoga Zakona, u svrhu izgradnje građevina za proizvodnju električne energije iz obnovljivih izvora energije, ako se navedene građevine grade na nekretnini u vlasništvu Republike Hrvatske, u korist investitora koji je kao najpovoljniji ponuditelj izabran u postupku javnog natječaja za dodjelu energetskog odobrenja provedenog od strane tijela nadležnog po posebnom zakonu.
+(2) Ministarstvo je nadležno za rješavanje imovinskopravnih odnosa na nekretninama u vlasništvu Republike Hrvatske, bez provođenja javnog natječaja, u korist investitora koji je kao najpovoljniji ponuditelj izabran u postupcima propisanim zakonom kojim se uređuje istraživanje i eksploatacija ugljikovodika.
+(3) Kada zaprimi zahtjev za osnivanje prava građenja ili prava služnosti iz stavka 1. ovoga članka odnosno za rješavanje imovinskopravnih odnosa iz stavka 2. ovoga članka, Ministarstvo će obavijestiti nadležno tijelo kojem su povjereni poslovi upravljanja nekretninom koja je predmet zahtjeva, a nekretninom će raspolagati Ministarstvo.
+(4) Odluku o raspolaganju nekretninom iz stavaka 1. i 2. ovoga članka čiji je ukupni iznos procijenjene naknade niži ili jednak iznosu od 1.500.000,00 eura donosi ministar.
+(5) Odluku o raspolaganju nekretninom iz stavaka 1. i 2. ovoga članka čiji ukupni iznos procijenjene naknade iznosi više od 1.500.000,00 eura donosi Vlada Republike Hrvatske na prijedlog Ministarstva.
+(6) Sredstva ostvarena od raspolaganja nekretninama iz stavaka 1. i 2. ovoga članka prihod su državnog proračuna Republike Hrvatske.
