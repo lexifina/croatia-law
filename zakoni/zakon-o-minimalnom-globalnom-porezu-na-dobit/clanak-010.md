@@ -1,0 +1,5 @@
+## Obveza matičnog društva u djelomičnom vlasništvu
+# Članak 10.
+(1) Ako se matično društvo u djelomičnom vlasništvu nalazi u Republici Hrvatskoj ono podliježe dopunskom porezu na temelju pravila o uključivanju dobiti za određenu fiskalnu godinu za njegove sastavne subjekte koji podliježu niskoj poreznoj stopi i nalaze se u drugoj jurisdikciji ili nemaju državnu pripadnost.
+(2) Ako se matično društvo u djelomičnom vlasništvu nalazi u Republici Hrvatskoj i oporezuje se niskim poreznim opterećenjem, ono podliježe dopunskom porezu na temelju pravila o uključivanju dobiti za određenu fiskalnu godinu za sebe i za svoje sastavne subjekte koji podliježu niskoj poreznoj stopi i nalaze se u Republici Hrvatskoj.
+(3) Iznimno stavci 1. i 2. ovoga članka se ne primjenjuju ako su vlasnički udjeli matičnog društva u djelomičnom vlasništvu u potpunom izravnom ili neizravnom vlasništvu drugog matičnog društva u djelomičnom vlasništvu na koje se primjenjuje kvalificirano pravilo o uključivanju dobiti za tu fiskalnu godinu.

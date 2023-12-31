@@ -1,0 +1,3 @@
+## Prijeboj poreza na temelju pravila o uključivanju dobiti
+# Članak 12.
+Ako matično društvo koje se nalazi u Republici Hrvatskoj neizravno preko drugog posredničkog matičnog društva ili matičnog društva u djelomičnom vlasništvu koje podliježe kvalificiranom pravilu o uključivanju dobiti za određenu fiskalnu godinu ima vlasnički udio u sastavnom subjektu koji podliježe niskoj poreznoj stopi, dopunski porez koji se plaća na temelju članaka 7. do 10. ovoga Zakona, umanjuje se za iznos koji je jednak dijelu dodjeljivog udjela prvonavedenog matičnog društva u dopunskom porezu koji plaća posredničko matično društvo ili matično društvo u djelomičnom vlasništvu.

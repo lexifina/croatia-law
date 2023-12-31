@@ -1,0 +1,18 @@
+## Krajnje matično društvo koje podliježe režimu odbitka dividende
+# Članak 41.
+(1) Pojedini pojmovi u smislu ovoga članka imaju sljedeće značenje:
+a) režim odbitka dividende znači porezni režim u kojem se primjenjuje jedinstvena razina oporezivanja dobiti vlasnika subjekta odbitkom ili isključivanjem dobiti raspodijeljene vlasnicima iz dobiti subjekta ili oslobođenjem zadruge od oporezivanja
+b) dividenda koja se može odbiti u odnosu na sastavni subjekt koji podliježe režimu odbitka dividende znači:
+1. raspodjela dobiti nositelju vlasničkog udjela u sastavnom subjektu koja se može odbiti od oporezive dobiti sastavnog subjekta u skladu s pravom jurisdikcije u kojoj se nalazi ili
+2. raspodjela dividende u korist članova zadruge i
+c) zadruga znači subjekt koji zajedno stavlja na tržište ili kupuje robu ili usluge u ime svojih članova i koji podliježe poreznom režimu u jurisdikciji u kojoj se nalazi kojim se osigurava porezna neutralnost u pogledu robe ili usluga koje njegovi članovi prodaju ili kupuju putem zadruge.
+(2) Krajnje matično društvo skupine MNP-a ili velike domaće skupine koje podliježe režimu odbitka dividende za određenu fiskalnu godinu umanjuje svoju kvalificirajuću dobit, do nule, za iznos koji je raspodijeljen kao dividenda koja se može odbiti u roku od 12 mjeseci nakon završetka te fiskalne godine, pod uvjetom:
+a) da dividenda podliježe oporezivanju kod primatelja tijekom fiskalne godine koja završava u roku od 12 mjeseci nakon završetka fiskalne godine po nominalnoj stopi koja je jednaka minimalnoj poreznoj stopi ili viša od nje ili
+b) da se razumno može očekivati da je agregirani iznos prilagođenih obuhvaćenih poreza i poreza krajnjeg matičnog društva koje primatelj plaća na takvu dividendu jednak toj dobiti pomnoženoj s minimalnom poreznom stopom ili veći od nje.
+(3) Krajnje matično društvo skupine MNP-a ili velike domaće skupine koje podliježe režimu odbitka dividende za određenu fiskalnu godinu isto tako umanjuje svoju kvalificirajuću dobit, do nule, za iznos koji raspodjeljuje kao dividendu koja se može odbiti, u roku od 12 mjeseci nakon završetka te fiskalne godine, pod uvjetom da je primatelj:
+a) fizička osoba i da je primljena dividenda raspodjela dobiti u korist članova zadruge za opskrbu
+b) fizička osoba koja je porezni rezident u istoj jurisdikciji u kojoj se nalazi krajnje matično društvo i koja drži vlasničke udjele kojima stječe pravo na 5 % dobiti i imovine krajnjeg matičnog društva ili manje od toga ili
+c) osoba javnog prava, međunarodna organizacija, neprofitna organizacija ili mirovinski fond, osim subjekta za pružanje usluga u području mirovinskog osiguranja koji su porezni rezidenti u jurisdikciji u kojoj se nalazi krajnje matično društvo.
+(4) Obuhvaćeni porezi krajnjeg matičnog društva, osim poreza za koje je dopušten odbitak dividende, umanjuju se razmjerno iznosu kvalificirajuće dobiti umanjene u skladu sa stavcima 2. i 3. ovoga članka.
+(5) Ako krajnje matično društvo ima vlasnički udio u drugom sastavnom subjektu koji podliježe režimu odbitka dividende, izravno ili preko lanca takvih sastavnih subjekata, stavci 2., 3. i 4. ovoga članka primjenjuju se na bilo koji drugi sastavni subjekt koji se nalazi u jurisdikciji krajnjeg matičnog društva i koji podliježe režimu odbitka dividende, u mjeri u kojoj krajnje matično društvo dalje raspodjeljuje njegovu kvalificirajuću dobit primateljima koji ispunjavaju uvjete iz stavaka 2. i 3. ovoga članka.
+(6) U smislu stavka 2. ovoga članka dividenda u korist članova koju raspodjeljuje zadruga za opskrbu smatra se podložnom oporezivanju kod primatelja u mjeri u kojoj se takvom dividendom umanjuju rashodi ili troškovi koji se mogu odbiti pri izračunu oporezive dobiti ili gubitka primatelja.
