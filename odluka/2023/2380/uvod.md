@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 36. stavka 1. točke 7. Statuta Grada Petrinje (»Službeni vjesnik«, broj 14/13, 52/14, 68/17, 9/18, 13/18 - ispr., 59/18, 07/20 i 12/21), Gradsko vijeće Grada Petrinje na 27. sjednici održanoj 8. prosinca 2023. godine donijelo je
