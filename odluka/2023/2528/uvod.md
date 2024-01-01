@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23), članka 30. Statuta Općine Vrbanja (»Službeni vjesnik« Vukovarsko-srijemske županije br. 5/13, 1/18 i 4/21) Općinsko vijeće Općine Vrbanja na 20. sjednici održanoj 19. prosinca 2023. godine, donijelo je
