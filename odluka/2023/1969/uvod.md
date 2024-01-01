@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22 i 114/23) i članka 28. Statuta Općine Bilice (»Službeni vjesnik Šibensko-kninske županije« broj 10/09, 5/13 i 8/13 i »Službeni glasnik Općine Bilice« broj 3/18, 5/18, 1/21 i 6/21 - pročišćeni tekst), Općinsko vijeće Općine Bilice na 22. sjednici od 14. studenoga 2023. godine donosi
