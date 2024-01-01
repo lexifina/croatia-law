@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Ako se sportaš razvrstava u I. kategoriju temeljem osvajanja medalje na olimpijskim igrama, paraolimpijskim igrama ili olimpijskim igrama gluhih, navedeno će se upisati uz utvrđivanje kategorije u rješenju o kategorizaciji sportaša, sa sljedećim nazivom: Sportaš I kategorije - vrhunski sportaš - osvajač olimpijske medalje/osvajač paraolimpijske medalje/osvajač medalje na olimpijskim igrama gluhih.
+(2) Rješenje o kategorizaciji sportaša, osim sportašu, dostavlja se i pripadajućem nacionalnom sportskom savezu i matičnom sportskom klubu, te sportskoj zajednici u gradu i županiji kojoj sportaš pripada, ako su navedeni na zahtjevu za kategorizaciju sportaša.

@@ -1,0 +1,2 @@
+# Članak 3.
+Kriterij za utvrđivanje kategorije sportaša je sportski rezultat, poredak odnosno plasman, rang-lista ili norma ostvarena na nacionalnom i međunarodnom natjecanju, sudjelovanje u nacionalnoj ekipi na međunarodnom natjecanju, te sudjelovanje u ekipi kluba na nacionalnom prvenstvu koje za pojedini sport donose Hrvatski olimpijski odbor, Hrvatski paraolimpijski odbor i Hrvatski sportski savez gluhih te objavljuju na svojim mrežnim stranicama (u daljnjem tekstu: kriterij).

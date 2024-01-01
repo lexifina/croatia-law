@@ -1,0 +1,4 @@
+## II. UVJETI ZA PRIZNAVANJE KRITERIJA NA MEĐUNARODNIM NATJECANJIMA U SUSTAVU HRVATSKOG OLIMPIJSKOG ODBORA
+# Članak 7.
+(1) Uvjet za priznavanje kriterija na svjetskom prvenstvu je sudjelovanje sportaša odnosno nacionalnih ekipa s najmanje tri kontinenta i petnaest zemalja, a na svjetskom kupu, mastersu, grand slamu, grand prix turniru na kojem su sudjelovali sportaši odnosno nacionalne ekipe s najmanje dva kontinenta i deset zemalja na svakom pojedinačnom natjecanju u disciplini ili kategoriji na kojem sportaš odnosno ekipa nastupa, te dodatno za sva navedena natjecanja u ovom stavku uvjet od najmanje dvije pobjede u sportovima, gdje se poredak utvrđuje pojedinačnim borbama ili nastupima.
+(2) Uvjet iz stavka 1. ovog članka, ne primjenjuje se kada je kriterij postignut u okviru norme za nastup na olimpijskim igrama, kao i u slučaju poredaka posada u olimpijskim disciplinama olimpijskih sportova na svjetskom prvenstvu.

@@ -1,0 +1,5 @@
+## IV. UVJETI ZA PRIZNAVANJE KRITERIJA NA MEĐUNARODNIM NATJECANJIMA U SUSTAVU HRVATSKOG SPORTSKOG SAVEZA GLUHIH
+# Članak 14.
+(1) Uvjeti za priznavanje kriterija u kategoriziranju sportaša ostvarenog na Olimpijskim igrama gluhih (ljetnim i zimskim) te svjetskim prvenstvima i kupovima gluhih, svjetskim igrama mladih za gluhe u pojedinačnim i ekipnim sportovima, određuje se sukladno kriterijima o broju natjecatelja, odnosno ekipa propisanim od Međunarodnog odbora za sport gluhih.
+(2) Uvjeti za priznavanje kriterija u kategoriziranju sportaša ostvarenog na europskim prvenstvima i kupovima gluhih, u pojedinačnim i ekipnim sportovima, određuje se sukladno kriterijima o broju natjecatelja, odnosno ekipa propisanim od Europske sportske organizacije gluhih.
+(3) Uvjeti za priznavanje kriterija u kategoriziranju sportaša ostvarenog na svjetskim i europskim šahovskim prvenstvima gluhih, u pojedinačnim i ekipnim disciplinama, određuje se sukladno kriterijima o broju natjecatelja, odnosno ekipa propisanim od Međunarodnog odbora za šah gluhih.
