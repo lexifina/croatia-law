@@ -1,0 +1,1 @@
+Na temelju čl. 19.a st. 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) te članka 28. Statuta Općine Beretinec (»Službeni vjesnik Varaždinske županije« broj 35/18 i 2/19, »Službeni vjesnik Općine Beretinec« broj 2/21), Općinsko vijeće Općine Beretinec na 19. sjednici održanoj 7. prosinca 2023. godine donijelo je
