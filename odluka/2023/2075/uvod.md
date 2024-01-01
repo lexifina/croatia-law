@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 29. Statuta Grada Paga (»Službeni glasnik Grada Paga« broj 5/21 i 4/22), Gradsko vijeće Grada Paga na sjednici 30. studenoga 2023. godine donijelo je
