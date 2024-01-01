@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 4. i članka 42. stavka 1., a u svezi s člankom 20. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23 u daljnjem tekstu: Zakon), i članka 23. Statuta Općine Kamanje (»Glasnik Općine Kamanje« br. 01/21) Općinsko vijeće Općine Kamanje, na svojoj 14. sjednici održanoj 15. prosinca 2023. godine donijelo je
