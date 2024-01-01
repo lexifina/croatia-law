@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 36. Statuta Općine Vuka (»Službeni glasnik Općine Vuka«, broj 01/14, 01/18, 01/20, 02/21 i 09/23) Općinsko vijeće Općine Vuka, na sjednici održanoj 15. prosinca 2023. godine donijelo je
