@@ -1,0 +1,6 @@
+## III. PROVEDBENE ODREDBE
+# Članak 10.
+Poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza temeljem ove Odluke, osim poreza na korištenje javnih površina do donošenja posebne odluke Općinskog vijeća, u ime i za račun Općine Primošten uz prethodnu suglasnost ministra financija obavlja Porezna uprava, Područni ured Šibenik, Ispostava Šibenik.
+Porezna uprava, Područni ured Šibenik, Ispostava Šibenik dužna je do 15. u tekućem mjesecu za prethodni mjesec, Općini Primošten dostavljati zbirno izvješće o utvrđenim i naplaćenim porezima te pokrenutim postupcima i mjerama radi naplate poreza iz članka 2. ove Odluke.
+RH, Ministarstvu financija, Poreznoj upravi, Područnom uredu Šibenik, Ispostavi Šibenik za obavljanje poslova iz stavka 1. ovog članka pripada naknada u visini od 5 % od ukupno naplaćenih prihoda.
+Ovlašćuje se nadležna organizacija za platni promet zadužena za naplatu javnih prihoda (FINA) da naknade predviđene ovom Odlukom Poreznoj upravi obračuna i uplati u Državni Proračun do zadnjeg dana u mjesecu za prethodni mjesec sukladno Suglasnosti Ministarstva financija da Porezna uprava može obavljati poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza jedinica lokalne i područne (regionalne) samouprave (» Narodne novine« broj 1/17).

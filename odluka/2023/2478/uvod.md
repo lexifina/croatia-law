@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22 i 114/23) i članka 37. Statuta Općine Primošten (»Službeni vjesnik Općine Primošten« broj 1/21 i 2/21), Općinsko vijeće Općine Primošten na svojoj 19. sjednici održanoj 14. prosinca 2023. godine donosi
