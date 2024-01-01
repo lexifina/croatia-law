@@ -1,0 +1,1 @@
+Na temelju članka 19.a, a u svezi s člankom 19. Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23 - u daljnjem tekstu: Zakon) i članaka 30. Statuta Grada Ogulina (»Glasnik Karlovačke županije« br. 16/21, 56/22 i 13/23 - pročišćeni tekst), Gradsko vijeće Grada Ogulina na sjednici održanoj 15. prosinca 2023. godine donijelo je
