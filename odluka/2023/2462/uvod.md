@@ -1,0 +1,1 @@
+Na temelju članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23) te članka 30. Statuta Općine Lokvičići (»Službeni glasnik Općine Lokvičići« 4/21) Općinsko vijeće općine Lokvičići na 15. sjednici održanoj 15. prosinca 2023. godine donijelo je
