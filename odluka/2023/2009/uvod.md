@@ -1,0 +1,1 @@
+Na temelju odredbi članka 19.a, a u svezi s člankom 19. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 19. Statuta Grada Buzeta (»Službene novine Grada Buzeta«, broj 2/21 i 10/21), Gradsko vijeće Grada Buzeta na sjednici održanoj 22. studenoga 2023. godine, donijelo je
