@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. točke 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16., 101/17., 114/22. i 114/23.) i članka 45. Statuta Grada Varaždina (»Službeni vjesnik Grada Varaždina« broj 3/18., 2/20., 2/21., 4/21. - pročišćeni tekst, 13/22. i 10/23.), Gradsko vijeće Grada Varaždina na 5. sjednici održanoj 28. studenoga 2023. godine, donosi
