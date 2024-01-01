@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 2. Zakona o državnim maticama (»Narodne novine«, br. 96/93., 76/13., 98/19. i 133/22.) i članka 30. stavka 1. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 24. kolovoza 2023. donijela
