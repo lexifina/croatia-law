@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, 115/16, 106/18,121/19, 32/20, 138/20, 151/22 i 114/23 ) i članka 31. Statuta Općine Ribnik (»Glasnik Karlovačke županije« broj 18/13, 17/16, 04/18, 21/20, 19/21 i 13/22), Općinsko vijeće Općine Ribnik na svojoj 15. redovnoj sjednici održanoj 14. prosinca 2023. godine, donijelo je
