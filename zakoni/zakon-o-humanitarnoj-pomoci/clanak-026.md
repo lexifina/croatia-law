@@ -1,0 +1,5 @@
+## Odgovornost organizatora humanitarne akcije i korisnika
+# Članak 26.
+(1) Organizator humanitarne akcije odgovoran je za raspolaganje financijskim sredstvima i drugim oblicima humanitarne pomoći prikupljene u svakoj pojedinoj humanitarnoj akciji do podmirenja iskazane potrebe korisnika ili plaćanja izvršitelju usluga iz članka 24. stavka 5. ovoga Zakona.
+(2) Organizator humanitarne akcije dužan je za financijska sredstva isplaćena neposrednom pružatelju usluge za korisnika humanitarne akcije, osim odgovarajućeg financijskog dokumenta za obavljenu uslugu, pribaviti dokaz o pruženoj usluzi.
+(3) Korisnik je odgovoran za svrsishodno korištenje financijskih sredstava i drugih oblika humanitarne pomoći i dužan je namjenski utrošiti preuzeta materijalna dobra i financijska sredstva, sukladno planu korištenja prikupljene humanitarne pomoći, te o njihovu utrošku dostaviti vjerodostojnu dokumentaciju organizatoru humanitarne akcije u svrhu dostave konačnog izvješća o provedenoj humanitarnoj akciji.
