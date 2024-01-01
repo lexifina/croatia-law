@@ -1,0 +1,4 @@
+# Članak 1.
+(1) Ovim se Pravilnikom, u svrhu iznimnog izuzimanja od primjene zakonske pretpostavke o postojanju radnog odnosa fizičke osobe koja rad obavlja putem digitalne radne platforme (u daljnjem tekstu: platforma), uređuje način i rokovi provjere visine isplaćenih primitaka od kojih se utvrđuje drugi dohodak koji je fizička osoba ostvarila radom putem platformi.
+(2) Provjera visine isplaćenih primitaka iz stavka 1. ovoga članka ne provodi se za fizičku osobu koja je s platformom ili agregatorom u radnom odnosu na temelju sklopljenog ugovora o radu, za fizičku osobu koja u skladu s posebnim propisima obavlja studentski posao ili povremeno radi kao redoviti učenik te za fizičku osobu koja u skladu s posebnim propisima obavlja obrtničku, samostalnu ili sličnu registriranu djelatnost.
+(3) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, koriste se neutralno i odnose se jednako na muški i ženski rod.

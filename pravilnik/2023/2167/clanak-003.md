@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Neposredno prije dodjele svakog pojedinačnog posla fizičkoj osobi iz članka 1. stavka 1. ovoga Pravilnika, platforma podnosi sustavu JEER zahtjev za provjeru visine isplaćenih primitaka po osnovi drugog dohotka ostvarenih radom putem platformi.
+(2) Podatke o ukupno ostvarenim oporezivim primicima iz stavka 1. ovoga članka, sustav JEER preuzima putem web-servisa Informacijskog sustava Porezne uprave povezivanjem na definiranu šifru primitaka iz sustava »Izvješće o primicima, porezu na dohodak i prirezu te doprinosima za obvezna osiguranja« (u daljnjem tekstu: Obrazac JOPPD).
+(3) Na temelju zahtjeva platforme iz stavka 1. ovoga članka, sustav JEER obrađuje zaprimljene podatke Obrasca JOPPD te ovisno o limitiranoj visini iznosa iz članka 221.n stavka 1. Zakona o radu, dostavlja platformi informaciju koja sadržava oznaku »DA« ili oznaku »NE«.

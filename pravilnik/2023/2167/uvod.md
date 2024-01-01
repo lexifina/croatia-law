@@ -1,0 +1,1 @@
+Na temelju članka 221.n. stavka 6. Zakona o radu (»Narodne novine« br. 93/14, 127/17, 98/19, 151/22, 64/23 - Odluka Ustavnog suda Republike Hrvatske), uz suglasnost ministra financija, ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
