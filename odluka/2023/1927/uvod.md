@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 28. Statuta Općine Crnac (»Službeni glasnik Općine Crnac« br. 1/19., 2/19, 1/20, 2/21), Općinsko vijeće na svojoj 14. sjednici održanoj 8. studenoga 2023. godine donijelo je
