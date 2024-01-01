@@ -1,0 +1,18 @@
+# Članak 32.
+U članku 87. stavku 1. točka 1. mijenja se i glasi:
+»1. naknada za upravljanje iz članka 63. stavka 1. točke 1. ovoga Zakona«.
+Iza stavka 1. dodaju se novi stavci 2. i 3. i stavci 4. i 5. koji glase:
+»(2) Uz troškove iz stavka 1. točaka 3. i 4. ovoga članka, mirovinsko društvo može na razini svake godine iz imovine mirovinskog fonda izravno platiti i pokriće do najviše 50 % nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika, u iznosu koji u svakom slučaju ne može prelaziti 0,5 % od uplaćenih doprinosa u toj godini.
+(3) Zahtjev iz stavka 2. ovoga članka, kojim se propisuje da najviše 50 % nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika može biti pokriveno iz imovine mirovinskog fonda, se primjenjuje i na razini individualnog troška i kumulativno na razini svih takvih troškova u jednoj godini.
+(4) Iznimno od stavaka 2. i 3. ovoga članka, kada je riječ o nužnim troškovima vezanim uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika koji su povezane osobe mirovinskog društva ili povezane osobe imatelja kvalificiranog udjela u mirovinskom društvu, ti se troškovi plaćaju isključivo iz imovine mirovinskog društva.
+(5) Kada mirovinsko društvo u postupku vezanom uz stjecanje ili prodaju imovine mirovinskog fonda koristi usluge vanjskih suradnika, dužno je osigurati da vanjski suradnik:
+1. je registriran za obavljanje takvih poslova, kada je za konkretnu radnju za koju ga je mirovinsko društvo angažiralo takva registracija potrebna
+2. može osigurati dovoljno profesionalnih jamstava kojima dokazuje svoju osposobljenost za učinkovito obavljanje odnosne aktivnosti, uključujući i ona u skladu s člankom 111. ovoga Zakona i pravilnikom iz članka 108. stavka 4. ovoga Zakona, kada je vanjski suradnik angažiran da provede vrednovanje vezano uz stjecanje ili prodaju imovine mirovinskog fonda
+3. posjeduje profesionalna jamstva iz točke 2. ovoga stavka koja sadrže dokaze o kvalifikacijama vanjskog suradnika i njegovoj sposobnosti za pravilno i neovisno provođenje konkretne radnje za koju ga je mirovinsko društvo angažiralo, a uključuju dokaze o:
+a) dovoljnim ljudskim i tehničkim resursima koji osiguravaju kvalifikacije, znanje i stručnost koji su potrebni za pravilno obavljanje poslova na kojima su angažirani
+b) odgovarajućim postupcima koji osiguravaju pravilno i neovisno vrednovanje, ako je vanjski suradnik angažiran da provede vrednovanje vezano uz stjecanje ili prodaju imovine mirovinskog fonda
+c) u slučaju iz podtočke b) ove točke, odgovarajućem znanju i razumijevanju investicijske strategije mirovinskog fonda i imovine za čiju procjenu je vanjski suradnik imenovan i
+d) profesionalnom ugledu i dovoljnom iskustvu u obavljanju konkretne radnje za koju ga je mirovinsko društvo angažiralo
+4. kada je vanjski suradnik angažiran da provede vrednovanje vezano uz stjecanje ili prodaju imovine mirovinskog fonda, isti ne smije delegirati posao vrednovanja na treće osobe.«.
+U dosadašnjem stavku 2., koji postaje stavak 6., riječi: »stavka 1.« zamjenjuju se riječima: »stavaka 1 i 2.«.
+U dosadašnjem stavku 3., koji postaje stavak 7., iza riječi: »fonda« umjesto točke stavlja se zarez i dodaju riječi: »uključujući i vrste nužnih troškova vezanih uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika, način izračuna ograničenja iz stavka 2. ovoga članka, definiciju povezane osobe u smislu stavka 4. ovoga članka te izvještavanje Agencije o naplati troška iz stavka 2. ovoga članka.«.

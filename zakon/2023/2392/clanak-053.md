@@ -1,0 +1,3 @@
+# Članak 53.
+Članak 133. mijenja se i glasi:
+»Agencija će pravilnikom dodatno pojasniti ograničenja za ulaganja, uvjete koji se primjenjuju na kategorije ugovornih strana iz članka 132. stavka 2. ovoga Zakona, postupanja s imovinom mirovinskih fondova te izračuna izloženosti iz ove glave Zakona i način izračuna ukupne izloženosti iz članka 132. stavka 2. točke 1. i stavka 3. ovoga Zakona, limite iz članka 132. stavka 4. ovoga Zakona koje mirovinsko društvo može primijeniti prema središnjoj drugoj ugovornoj strani te kriterije prema kojima se može smatrati da se za mirovinski fond postiže jednakovrijedna razina zaštite kao kod individualne segregacije ili primjerena razina segregacije u smislu članka 132. stavka 5. ovoga Zakona.«.

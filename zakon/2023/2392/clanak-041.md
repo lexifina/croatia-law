@@ -1,0 +1,3 @@
+# Članak 41.
+U članku 123. stavku 1. točka 11. mijenja se i glasi:
+»11. informacije o identificiranom sukobu interesa, ostvarivanju strategije i ciljeva ulaganja za vrijednosne papire koji služe za financiranje ili sekuritizaciju infrastrukturnih projekata iz članka 125. stavka 1. točke 10. ovoga Zakona te kada mirovinsko društvo za račun mirovinskog fonda ili mirovinskih fondova kojima upravlja stekne više od 10 % prenosivih vlasničkih vrijednosnih papira jednog izdavatelja iz članka 125. stavka 1. točaka 6., 7. ili 9. ovoga Zakona ili više od 10 % prenosivih dužničkih vrijednosnih papira i instrumenata tržišta novca jednog izdanja iz članka 125. stavka 1. točaka 2., 3., 4. i 9. ovoga Zakona.«.

@@ -1,0 +1,17 @@
+# Članak 26.
+Naslov iznad članka 56. mijenja se i glasi: »Politike primitaka«.
+Članak 56. mijenja se i glasi:
+»(1) Mirovinsko društvo dužno je, radi sprječavanja preuzimanja neprimjerenih rizika u svom poslovanju, propisati i implementirati jasne politike i postupke vezane uz primitke radnika, članova uprave i nadzornog odbora, čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda.
+(2) Primici iz stavka 1. ovoga članka podrazumijevaju sve oblike fiksnih i varijabilnih plaćanja i pogodnosti, u novcu ili u naravi, koje isplaćuje odnosno dodjeljuje mirovinsko društvo, uključujući primitke povezane s uspješnošću i udio u dobiti, a koji se primici isplaćuju odnosno dodjeljuju u korist osoba iz stavka 1. ovoga članka.
+(3) Politike i postupci vezni uz primitke mirovinskog društva moraju dosljedno promicati učinkovito upravljanje rizicima i ne ohrabrivati preuzimanje rizika koji nisu u skladu s profilom rizičnosti ili statutom mirovinskog fonda.
+(4) Politika primitaka mirovinskog društva mora biti u skladu s poslovnom strategijom, ciljevima i veličinom mirovinskog društva i mirovinskih fondova, kao i interesima mirovinskog društva, mirovinskih fondova i njihovih članova te uključivati mjere za izbjegavanje sukoba interesa.
+(5) Uprava mirovinskog društva dužna je usvojiti i najmanje jednom godišnje preispitivati opća načela politika primitaka te je odgovorna za njihovu primjenu.
+(6) Primjena politika i postupaka vezanih uz primitke mora najmanje jednom godišnje, u funkciji nadzora nad poslovanjem mirovinskog društva, biti interno revidirana u smislu usklađenosti s politikama i postupcima vezanim uz primitke usvojenima od uprave mirovinskog društva.
+(7) Ako su primici povezani s uspješnošću, ukupni iznos primitaka mora se temeljiti na uspješnosti pojedinca i relevantne poslovne jedinice te na ukupnim rezultatima mirovinskog društva ili mirovinskih fondova, pri čemu se kod ocjene uspješnosti pojedinca uzimaju u obzir financijski i nefinancijski kriteriji.
+(8) Mirovinsko društvo smije isplaćivati nagrade radnicima, prokuristima, članovima uprave i nadzornog odbora samo ako su one održive, uzimajući u obzir financijsko stanje mirovinskog društva u cjelini, te ako je to opravdano s obzirom na uspješnost mirovinskih fondova i mirovinskog društva odnosno njegovih radnika.
+(9) Ukupni primici iz stavka 1. ovoga članka ne smiju ograničavati sposobnost mirovinskog društva da ojača kapitalnu osnovu mirovinskog društva.
+(10) U slučaju slabijih ili negativnih poslovnih rezultata mirovinskog društva i/ili mirovinskih fondova, mirovinsko društvo iste rezultate mora uzeti u obzir prilikom razmatranja isplate primitaka članovima uprave, nadzornog odbora, prokuristima i radnicima.
+(11) U godišnjim financijskim izvještajima mirovinskog društva potrebno je objaviti:
+1. podatke o ukupnom iznosu koji je mirovinsko društvo isplatilo u poslovnoj godini radnicima mirovinskog društva, raščlanjenom na fiksne i varijabilne primitke, te broju korisnika takvih primitaka
+2. podatke o ukupnom iznosu primitaka iz točke 1. ovoga stavka, raščlanjenom na iznose koje su primili članovi uprave, nadzornog odbora, prokuristi ili radnici mirovinskog društva čiji rad može imati materijalni utjecaj na profil rizičnosti mirovinskog društva ili mirovinskog fonda.
+(12) Fiksni i varijabilni primici iz stavka 11. ovoga članka trebaju biti raščlanjeni na primitke u novcu i primitke u naravi.«.

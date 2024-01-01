@@ -1,0 +1,2 @@
+# Članak 74.
+Osiguranik koji je na dan stupanja na snagu ovoga Zakona član mirovinskog fonda kategorije A u koji je raspoređen po službenoj dužnosti sukladno odredbi članka 18. Zakona o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 115/18.), nakon isteka roka od 15 godina od dana raspoređivanja u mirovinski fond kategorije A, bit će po službenoj dužnosti raspoređen u mirovinski fond kategorije B, osim ako prethodno osobno ne izvrši izbor kategorije mirovinskog fonda.
