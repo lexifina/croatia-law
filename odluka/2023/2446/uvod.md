@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 35. Statuta Općine Fužine (»Službene novine Općine Fužine« broj 6/21), Općinsko vijeće Općine Fužine na sjednici 15. prosinca 2023. godine donijelo je
