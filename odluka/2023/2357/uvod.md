@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Žakanje (»Službeni glasnik Općine Žakanje«, broj 01/21) Općinsko Vijeće Općine Žakanje na 17. sjednici održanoj 30. studenoga 2023. donosi
