@@ -1,0 +1,1 @@
+Na temelju članka 38. stavka 21. Statuta Grada Belišća (»Službeni glasnik grada Belišća« br. 5/09, 3/13, 11/14, 7/15, 1/16, 3/16, 1/18, 1/20, 1/21 i 13/22 ) i članka 19.a Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23), Gradsko vijeće grada Belišća na svojoj 32. sjednici održanoj 27. studenoga 2023. godine donijelo je
