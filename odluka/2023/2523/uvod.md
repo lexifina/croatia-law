@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/2022 i 114/2023) i članka 38. Statuta Općine Fažana - Fasana (»Službene novine Istarske županije« broj 25/22), Općinsko vijeće Općine Fažana - Fasana, na sjednici održanoj 5. prosinca 2023. godine, donijelo je
