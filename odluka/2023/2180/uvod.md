@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 38. Statuta Grada Čabra (»Službene novine Grada Čabra« broj 1/21 i 12/21), Gradsko vijeće Grada Čabra na sjednici 29. studenoga 2023. godine donijelo je
