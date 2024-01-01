@@ -1,0 +1,3 @@
+# Članak 8.
+Porez na kuće za odmor dužni su plaćati i oni vlasnici odnosno suvlasnici kuća za odmor koji imaju prijavljeno prebivalište na području Općine Gračišće, ali koriste kuću na način opisan u članku 7. ove Odluke.
+U postupku dokazivanja statusa kuće za odmor u smislu stavka 1. ovog članka, tijelo koje vrši razrez poreza može tražiti i dostavu druge dodatne dokumentacije u kojoj se utvrđuje: potvrda o prebivalištu odnosno boravištu, mjesto i visina nastanka troškova električne energije, vode, telefona, RTV pristojbe, izjave svjedoka, obilazak nekretnine, potvrde i druge podatke kako bi se utvrdilo da li se radi o kući za odmor.
