@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 13. Statuta Općine Medulin (Službene novine Općine Medulin broj 2/13, 2/18, 8/18, 2/20, 1/21) Općinsko vijeće Općine Medulin na 24. sjednici održanoj 13. prosinca 2023. godine donosi
