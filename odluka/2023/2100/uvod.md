@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 21. Statuta Grada Krapine (Službeni glasnik Grada Krapine br. 4/09, 3/13, 1/18, 1/20 i 1/21) Gradsko vijeće Grada Krapine na 18. sjednici održanoj 30. studenoga 2023. godine donijelo je
