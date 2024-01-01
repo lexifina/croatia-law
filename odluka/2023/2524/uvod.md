@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) te članka 28. Statuta Općine Klenovnik (»Službeni vjesnik Varaždinske županije« broj 22/21), Općinsko vijeće Općine Klenovnik na 16. sjednici održanoj 4. prosinca 2023. godine donosi
