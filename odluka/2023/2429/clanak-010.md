@@ -1,0 +1,3 @@
+## VII. PRIJELAZNE I ZAVRŠNE ODREDE
+# Članak 10.
+Postupci utvrđivanja poreza započeti po odredbama Odluke o lokalnim porezima Općine Barban (»Službene novine Općine Barban« broj 2/17 i »Narodne novine« broj 100/2017) i Odluci o izmjenama i dopunama Odluke o porezima Općine Barban (»Službene novine Općine Barban« broj 8/17, i »Narodne novine« broj 3/2018), koji nisu dovršeni do stupanja na snagu ove Odluke, dovršit će se prema odredbama Odluke o lokalnim porezima Općine Barban (»Službene novine Općine Barban« broj 2/17 i »Narodne novine« broj 100/2017) i Odluci o izmjenama i dopunama Odluke o porezima Općine Barban (»Službene novine Općine Barban« broj 8/17, i »Narodne novine« broj 3/2018).
