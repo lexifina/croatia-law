@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23) i članka 34. Statuta Općine Lasinja (»Glasnik Općine Lasinja« br. 1/18, 1/20 i 1/21), Općinsko vijeće Općine Lasinja, na 20. sjednici održanoj 29. studenoga 2023. godine, donijelo je
