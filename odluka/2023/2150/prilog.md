@@ -1,0 +1,191 @@
+FINANCIJSKI PLAN HRVATSKIH VODA ZA 2024. GODINU I PROJEKCIJE PLANA
+ZA 2025. I 2026. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+| Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+PRIHODI POSLOVANJA | 739.932.074,17 | 877.730.429 | 792.313.571 | 825.025.455 | 488.417.601
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 3.452,12 | 13.273 | 1.040.873 | 13.273 | 13.273
+UKUPNI PRIHODI | 739.935.526,29 | 877.743.702 | 793.354.444 | 825.038.728 | 488.430.874
+RASHODI POSLOVANJA | 695.313.864,76 | 838.468.849 | 708.149.306 | 738.404.836 | 417.810.584
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 57.029.434,58 | 79.738.039 | 120.243.959 | 113.709.345 | 96.740.139
+UKUPNI RASHODI | 752.343.299,34 | 918.206.888 | 828.393.265 | 852.114.181 | 514.550.723
+RAZLIKA - VIŠAK/MANJAK | -12.407.773,05 | -40.463.186 | -35.038.821 | -27.075.453 | -26.119.849
+B. RAČUN FINANCIRANJA
+| Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 59.043.581,40 | 79.633.685 | 62.246.997 | 56.513.785 | 64.766.141
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 50.450.416,88 | 46.585.706 | 27.208.176 | 29.438.332 | 38.646.292
+RAZLIKA PRIMITAKA I IZDATAKA | 8.593.164,52 | 33.047.979 | 35.038.821 | 27.075.453 | 26.119.849
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 10.799.207,78 | 7.415.207 | 0 | 0 | 0
+PRIJENOS SREDSTAVA U SLJEDEĆU GODINU | -6.984.599,25 | 0 | 0 | 0 | 0
+NETO FINANCIRANJE | 12.407.773,05 | 40.463.186 | 35.038.821 | 27.075.453 | 26.119.849
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0,00 | 0 | 0 | 0 | 0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Raz-
+red | Sku-
+pina | Naziv prihoda | Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+6 |  | PRIHODI POSLOVANJA | 739.932.074,17 | 877.730.429 | 792.313.571 | 825.025.455 | 488.417.601
+| 63 | Pomoći iz inozemstva i od subjekata unutar općeg proračuna | 429.168.552,66 | 542.667.799 | 464.622.869 | 494.682.556 | 215.806.970
+| 64 | Prihodi od imovine | 1.034.910,87 | 1.274.139 | 1.274.139 | 1.274.139 | 1.274.139
+| 65 | Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada | 283.694.260,93 | 295.059.926 | 293.947.521 | 288.750.121 | 255.506.007
+| 66 | Prihodi od prodaje proizvoda i robe te pruženih usluga, prihodi od donacija te povrati po protestiranim jamstvima | 26.034.349,71 | 38.728.565 | 32.469.042 | 40.318.639 | 15.830.485
+7 |  | PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 3.452,12 | 13.273 | 1.040.873 | 13.273 | 13.273
+| 72 | Prihodi od prodaje proizvedene dugotrajne imovine | 3.452,12 | 13.273 | 1.040.873 | 13.273 | 13.273
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Raz-
+red | Sku-
+pina | Naziv rashoda | Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+3 |  | RASHODI POSLOVANJA | 695.313.864,76 | 838.468.849 | 708.149.306 | 738.404.836 | 417.810.584
+| 31 | Rashodi za zaposlene | 27.412.199,49 | 30.297.886 | 32.248.209 | 32.248.209 | 32.248.209
+| 32 | Materijalni rashodi | 157.386.275,24 | 189.238.210 | 158.928.755 | 160.615.874 | 155.335.446
+| 34 | Financijski rashodi | 3.326.073,94 | 5.148.424 | 7.218.366 | 9.215.936 | 10.979.322
+| 35 | Subvencije | 133.018,65 | 210.419 | 223.080 | 223.080 | 223.080
+| 36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 9.437.823,61 | 14.167.951 | 15.214.304 | 14.787.304 | 13.110.992
+| 38 | Ostali rashodi | 497.618.473,83 | 599.405.959 | 494.316.592 | 521.314.433 | 205.913.535
+4 |  | RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 57.029.434,58 | 79.738.039 | 120.243.959 | 113.709.345 | 96.740.139
+| 41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 2.367.040,41 | 2.389.012 | 2.389.012 | 2.389.011 | 2.389.011
+| 42 | Rashodi za nabavu proizvedene dugotrajne imovine | 26.710.540,43 | 40.518.961 | 56.904.538 | 46.953.934 | 59.455.113
+| 45 | Rashodi za dodatna ulaganja na nefinancijskoj imovini | 27.951.853,74 | 36.830.066 | 60.950.409 | 64.366.400 | 34.896.015
+B. RAČUN FINANCIRANJA
+Raz-
+red | Sku-
+pina
+| Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+8 |  | PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 59.043.581,40 | 79.633.685 | 62.246.997 | 56.513.785 | 64.766.141
+| 83 | Primici od prodaje dionica i udjela u glavnici | 2.252,84
+| 84 | Primici od zaduživanja | 59.041.328,56 | 79.633.685 | 62.246.997 | 56.513.785 | 64.766.141
+5 |  | IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE
+ZAJMOVA | 50.450.416,88 | 46.585.706 | 27.208.176 | 29.438.332 | 38.646.292
+| 54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 50.450.416,88 | 46.585.706 | 27.208.176 | 29.438.332 | 38.646.292
+II. POSEBNI DIO
+Šifra | Naziv | Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+001 | HRVATSKE VODE | 802.793.716,22 | 964.792.594 | 855.601.441 | 881.552.513 | 553.197.015
+1000 | ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE | 39.645.438,83 | 47.986.580 | 49.795.371 | 49.038.298 | 49.038.298
+A100000 | ADMINISTRACIJA I UPRAVLJANJE | 35.888.341,63 | 40.420.619 | 43.173.185 | 43.173.185 | 43.173.185
+3 | Rashodi poslovanja | 35.888.341,63 | 40.420.619 | 43.173.185 | 43.173.185 | 43.173.185
+31 | Rashodi za zaposlene | 27.412.199,49 | 30.297.886 | 32.248.209 | 32.248.209 | 32.248.209
+32 | Materijalni rashodi | 8.366.963,95 | 9.994.282 | 10.796.525 | 10.796.525 | 10.796.525
+34 | Financijski rashodi | 98.706,89 | 101.906 | 101.906 | 101.906 | 101.906
+38 | Ostali rashodi | 10.471,30 | 26.545 | 26.545 | 26.545 | 26.545
+K100000 | OPREMANJE | 308.199,07 | 732.280 | 1.538.494 | 418.993 | 418.993
+4 | Rashodi za nabavu nefinancijske imovine | 308.199,07 | 732.280 | 1.538.494 | 418.993 | 418.993
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 308.199,07 | 732.280 | 1.538.494 | 418.993 | 418.993
+K100001 | INFORMATIZACIJA | 1.234.616,23 | 1.592.674 | 2.913.674 | 2.053.674 | 2.053.674
+4 | Rashodi za nabavu nefinancijske imovine | 1.234.616,23 | 1.592.674 | 2.913.674 | 2.053.674 | 2.053.674
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 1.234.616,23 | 1.592.674 | 2.913.674 | 2.053.674 | 2.053.674
+K100002 | POSLOVNE ZGRADE | 2.214.281,90 | 5.241.007 | 2.170.018 | 3.392.446 | 3.392.446
+4 | Rashodi za nabavu nefinancijske imovine | 2.214.281,90 | 5.241.007 | 2.170.018 | 3.392.446 | 3.392.446
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 2.214.281,90 | 5.241.007 | 2.170.018 | 3.392.446 | 3.392.446
+1001 | SERVISIRANJE UNUTARNJEG DUGA I DANI ZAJMOVI | 53.677.763,62 | 51.626.915 | 34.319.327 | 38.547.053 | 49.518.399
+A100001 | ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA U JAVNOM SEKTORU | 3.865.981,55 | 3.770.522 | 3.674.963 | 3.579.304 | 3.483.744
+3 | Rashodi poslovanja | 680.638,13 | 585.175 | 489.616 | 393.957 | 298.397
+34 | Financijski rashodi | 680.638,13 | 585.175 | 489.616 | 393.957 | 298.397
+5 | Izdaci za financijsku imovinu i otplate zajmova | 3.185.343,42 | 3.185.347 | 3.185.347 | 3.185.347 | 3.185.347
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 3.185.343,42 | 3.185.347 | 3.185.347 | 3.185.347 | 3.185.347
+A100002 | ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA | 15.584.115,47 | 23.143.406 | 19.436.861 | 28.461.359 | 40.330.280
+3 | Rashodi poslovanja | 1.822.049,24 | 3.805.692 | 6.164.579 | 8.313.513 | 10.228.224
+34 | Financijski rashodi | 1.822.049,24 | 3.805.692 | 6.164.579 | 8.313.513 | 10.228.224
+5 | Izdaci za financijsku imovinu i otplate zajmova | 13.762.066,23 | 19.337.714 | 13.272.282 | 20.147.846 | 30.102.056
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 13.762.066,23 | 19.337.714 | 13.272.282 | 20.147.846 | 30.102.056
+A100003 | ZAJMOVI OD DRUGIH RAZINA VLASTI | 34.227.666,60 | 24.712.987 | 11.207.503 | 6.506.390 | 5.704.375
+3 | Rashodi poslovanja | 724.659,37 | 650.342 | 456.956 | 401.251 | 345.486
+34 | Financijski rashodi | 724.659,37 | 650.342 | 456.956 | 401.251 | 345.486
+5 | Izdaci za financijsku imovinu i otplate zajmova | 33.503.007,23 | 24.062.645 | 10.750.547 | 6.105.139 | 5.358.889
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 33.503.007,23 | 24.062.645 | 10.750.547 | 6.105.139 | 5.358.889
+1002 | TEKUĆE TEHNIČKO I GOSPODARSKO ODRŽAVANJE VODOTOKOVA I VODNIH GRAĐEVINA | 152.562.350,38 | 188.697.859 | 157.945.422 | 159.745.541 | 154.415.113
+A100004 | REDOVNO ODRŽAVANJE I OBNAVLJANJE VODOTOKA, VODNIH GRAĐEVINA I VODNOG DOBRA | 109.119.248,66 | 140.316.139 | 106.496.576 | 105.643.029 | 103.523.790
+3 | Rashodi poslovanja | 109.119.248,66 | 140.316.139 | 106.496.576 | 105.643.029 | 103.523.790
+32 | Materijalni rashodi | 109.114.062,25 | 140.236.505 | 106.416.942 | 105.563.395 | 103.444.156
+38 | Ostali rashodi | 5.186,41 | 79.634 | 79.634 | 79.634 | 79.634
+A100005 | OBNAVLJANJE MELIORACIJSKIH GRAĐEVINA ZA ODVODNJU I NAVODNJAVANJE | 10.174.480,46 | 11.586.250 | 15.860.066 | 18.415.154 | 17.253.965
+3 | Rashodi poslovanja | 10.174.480,46 | 11.586.250 | 15.860.066 | 18.415.154 | 17.253.965
+32 | Materijalni rashodi | 10.174.480,46 | 11.586.250 | 15.860.066 | 18.415.154 | 17.253.965
+A100006 | TEHNIČKI POSLOVI OD OPĆEG INTERESA ZA UPRAVLJANJE VODAMA | 6.734.797,13 | 3.654.000 | 2.035.264 | 1.990.842 | 1.990.842
+3 | Rashodi poslovanja | 6.734.797,13 | 3.654.000 | 2.035.264 | 1.990.842 | 1.990.842
+32 | Materijalni rashodi | 6.601.778,48 | 3.343.581 | 1.762.184 | 1.747.762 | 1.747.762
+35 | Subvencije | 133.018,65 | 210.419 | 223.080 | 223.080 | 223.080
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna |  | 100.000 | 50.000 | 20.000 | 20.000
+A100007 | HITNE INTERVENCIJE U PODRUČJU VODNOG GOSPODARSTVA | 168.194,70 | 548.168 | 398.168 | 398.168 | 398.168
+3 | Rashodi poslovanja | 168.194,70 | 548.168 | 398.168 | 398.168 | 398.168
+32 | Materijalni rashodi | 168.194,70 | 548.168 | 398.168 | 398.168 | 398.168
+A100008 | OBRAČUN I NAPLATA VODNIH NAKNADA | 21.519.856,79 | 22.572.035 | 22.572.035 | 22.572.035 | 20.572.035
+3 | Rashodi poslovanja | 21.519.856,79 | 22.572.035 | 22.572.035 | 22.572.035 | 20.572.035
+32 | Materijalni rashodi | 21.398.464,66 | 22.301.280 | 22.301.280 | 22.301.280 | 20.301.280
+34 | Financijski rashodi | 20,31 | 5.309 | 5.309 | 5.309 | 5.309
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 121.371,82 | 265.446 | 265.446 | 265.446 | 265.446
+A100009 | VODNOGOSPODARSKI LABORATORIJ | 291.319,39
+3 | Rashodi poslovanja | 291.319,39
+32 | Materijalni rashodi | 291.319,39
+A100010 | IZDACI ZA SREĐIVANJE VLASNIŠTVA NA VODNOM DOBRU | 382.704,63 | 564.530 | 729.976 | 729.976 | 729.976
+3 | Rashodi poslovanja | 382.704,63 | 564.530 | 729.976 | 729.976 | 729.976
+32 | Materijalni rashodi | 382.704,63 | 564.530 | 729.976 | 729.976 | 729.976
+A100011 | OSTALI IZVANREDNI IZDACI | 920.039,81 | 796.337 | 796.337 | 796.337 | 796.337
+3 | Rashodi poslovanja | 920.039,81 | 796.337 | 796.337 | 796.337 | 796.337
+32 | Materijalni rashodi | 888.306,72 | 663.614 | 663.614 | 663.614 | 663.614
+38 | Ostali rashodi | 31.733,09 | 132.723 | 132.723 | 132.723 | 132.723
+A100012 | INSTITUT ZA VODE | 3.251.708,81 | 8.660.400 | 9.057.000 | 9.200.000 | 9.150.000
+3 | Rashodi poslovanja | 3.251.708,81 | 8.660.400 | 9.057.000 | 9.200.000 | 9.150.000
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 3.251.708,81 | 8.660.400 | 9.057.000 | 9.200.000 | 9.150.000
+1003 | PROGRAM INVESTICIJSKIH AKTIVNOSTI | 556.908.163,39 | 676.481.240 | 613.541.321 | 634.221.621 | 300.225.205
+K100003 | KAPITALNI RASHODI I TRANSFERI U PODRUČJU ZAŠTITE OD ŠTETNOG DJELOVANJA VODA I NAVODNJAVANJA | 31.606.277,00 | 40.273.136 | 63.843.232 | 67.259.223 | 37.788.838
+3 | Rashodi poslovanja | 3.654.423,26 | 3.443.070 | 2.892.823 | 2.892.823 | 2.892.823
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 3.332.268,37 | 2.912.179 | 2.361.932 | 2.361.932 | 2.361.932
+38 | Ostali rashodi | 322.154,89 | 530.891 | 530.891 | 530.891 | 530.891
+4 | Rashodi za nabavu nefinancijske imovine | 27.951.853,74 | 36.830.066 | 60.950.409 | 64.366.400 | 34.896.015
+45 | Rashodi za dodatna ulaganja na nefinancijskoj imovini | 27.951.853,74 | 36.830.066 | 60.950.409 | 64.366.400 | 34.896.015
+K100004 | ULAGANJA U OBNOVU I RAZVITAK VODOOPSKRBE | 37.351.128,54 | 50.824.502 | 72.230.803 | 172.786.251 | 78.006.297
+3 | Rashodi poslovanja | 37.351.128,54 | 50.824.502 | 72.230.803 | 172.786.251 | 78.006.297
+38 | Ostali rashodi | 37.351.128,54 | 50.824.502 | 72.230.803 | 172.786.251 | 78.006.297
+K100005 | ULAGANJA U OBJEKTE ZAŠTITE VODA I MORA OD ZAGAĐIVANJA | 29.944.798,20 | 40.247.803 | 46.688.000 | 130.149.212 | 30.203.430
+3 | Rashodi poslovanja | 29.944.798,20 | 40.247.803 | 46.688.000 | 130.149.212 | 30.203.430
+38 | Ostali rashodi | 29.944.798,20 | 40.247.803 | 46.688.000 | 130.149.212 | 30.203.430
+K100006 | ULAGANJA U MATERIJALNU IMOVINU | 2.367.040,41 | 2.389.012 | 2.389.012 | 2.389.011 | 2.389.011
+4 | Rashodi za nabavu nefinancijske imovine | 2.367.040,41 | 2.389.012 | 2.389.012 | 2.389.011 | 2.389.011
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 2.367.040,41 | 2.389.012 | 2.389.012 | 2.389.011 | 2.389.011
+K100007 | PROJEKTI NAVODNJAVANJA | 3.218.405,60 | 1.993.000 | 2.000.000 | 1.870.000 | 650.000
+3 | Rashodi poslovanja | 1.181.569,71 | 840.000 | 1.290.000 | 750.000 | 650.000
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 1.181.569,71 | 840.000 | 1.290.000 | 750.000 | 650.000
+4 | Rashodi za nabavu nefinancijske imovine | 2.036.835,89 | 1.153.000 | 710.000 | 1.120.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 2.036.835,89 | 1.153.000 | 710.000 | 1.120.000
+K100008 | PROJEKTI IZ EU FONDOVA | 445.094.488,82 | 536.546.587 | 423.138.565 | 255.188.987 | 145.878.717
+3 | Rashodi poslovanja | 424.177.881,48 | 504.746.587 | 373.566.213 | 215.220.166 | 92.288.717
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 295.714,51 | 663.614 | 663.614 | 663.614 | 663.614
+38 | Ostali rashodi | 423.882.166,97 | 504.082.973 | 372.902.599 | 214.556.552 | 91.625.103
+4 | Rashodi za nabavu nefinancijske imovine | 20.916.607,34 | 31.800.000 | 49.572.352 | 39.968.821 | 53.590.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 20.916.607,34 | 31.800.000 | 49.572.352 | 39.968.821 | 53.590.000
+K100009 | PROJEKTI ŠVICARSKA DAROVNICA | 6.070.834,43 | 3.480.888 | 1.725.397 | 3.052.625 | 5.308.912
+3 | Rashodi poslovanja | 6.070.834,43 | 3.480.888 | 1.725.397 | 3.052.625 | 5.308.912
+38 | Ostali rashodi | 6.070.834,43 | 3.480.888 | 1.725.397 | 3.052.625 | 5.308.912
+K100010 | SANACIJA KLIZIŠTA | 1.255.190,39 | 726.312 | 1.526.312 | 1.526.312
+3 | Rashodi poslovanja | 1.255.190,39 | 726.312 | 1.526.312 | 1.526.312
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 1.255.190,39 | 726.312 | 1.526.312 | 1.526.312
