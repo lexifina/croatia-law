@@ -1,0 +1,1 @@
+Na temelju članka 19. i 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 51/22 i 114/23) i članka 34. Statuta Općine Okučani (»Službeni vjesnik Brodsko-posavske županije« br. 10/09, 4/13, 3/18, 7/18 i 14/21), Općinsko vijeće Općine Okučani na svojoj 17. sjednici održanoj 14. studenoga 2023. donijelo je
