@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 114/22 i 114/23) te članka 28. Statuta Općine Klis (»Službeni vjesnik Općine Klis«, broj 6/19, 4/20, 1/21 i 7/23), Općinsko vijeće Općine Klis na 28. sjednici održanoj 29. studenoga 2023. godine donosi
