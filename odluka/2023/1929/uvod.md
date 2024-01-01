@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 35. Statuta općine Veliko Trgovišće (»Službeni glasnik KZŽ« broj 23/09, 08/13, 06/18, 17/20, 8/21, 30/21 - proč. tekst), Općinsko vijeće općine Veliko Trgovišće na 16. sjednici održanoj 14. studenoga 2023. godine, donijelo je
