@@ -1,0 +1,7 @@
+# Članak 23.
+Članak 68.c mijenja se i glasi:
+»(1) Obradu osobnih podataka u okviru ovoga Zakona Društvo i nadležna tijela obavljaju u skladu s Uredbom (EU) 2016/679, a u vezi s obradom osobnih podataka koju provodi EIOPA u okviru Direktive (EU) 2016/2341, EIOPA poštuje Uredbu (EZ) br. 45/2001.
+(2) Društvo obavezno prikuplja, obrađuje, čuva, dostavlja i upotrebljava osobne podatke potrebne za sklapanje ugovora o mirovini, obradu i isplatu mirovine i zajamčene isplate koje proizlaze iz ugovora o mirovini, obradu i isplatu djelomične jednokratne isplate, a sve u skladu s propisima kojima se uređuje zaštita osobnih podataka.
+(3) Društvu je dopuštena obrada osobnog identifikacijskog broja ili drugog primjenjivog osobnog identifikatora koji jednoznačno označava ispitanika u svrhu sklapanja i izvršenja ugovora o mirovini te ostvarenja zakonskih prava korisnika mirovina bračnog druga, imenovanog korisnika ili zakonskog nasljednika.
+(4) U svrhu sklapanja i izvršenja ugovora o mirovini te u svrhu isplate mirovine ili druge financijske transakcije, kada je to nužno za utvrđivanje identiteta ispitanika i za osiguranje točnosti podataka, Društvu je dopuštena obrada osobnih podataka prikupljanjem preslike odgovarajućeg identifikacijskog dokumenta i drugih javnih isprava koje izdaju nadležna državna tijela te kartice bankovnog računa bez vidljivog kontrolnog koda.
+(5) Obrada podataka iz ovoga članka vrši se uz primjenu odgovarajućih mjera zaštite prava i sloboda ispitanika te uz ograničavanje količine podataka sukladno svrsi koja se takvom obradom ostvaruje.«.

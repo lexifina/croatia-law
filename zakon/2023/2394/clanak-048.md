@@ -1,0 +1,9 @@
+# Članak 48.
+U članku 96. stavku 1. broj: »93.« zamjenjuje se brojem: »92.«.
+U stavku 2. broj: »93.« zamjenjuje se brojem: »92.«, a u podtočki c) broj: »12.« zamjenjuje se brojem: »18.«.
+U stavku 3. iza riječi: »u interesu korisnika mirovina« stavlja se zarez i dodaju riječi: »a u slučaju da se prekoračenje ulaganja odnosi na izdavatelja nad kojim je pokrenut postupak predstečajne nagodbe, odnosno predstečajni postupak, i duže od šest mjeseci«.
+U stavku 4. broj: »93.« zamjenjuje se brojem: »92.«, a riječ: »osnivanja« zamjenjuje se riječima: »početka obavljanja djelatnosti«.
+Iza stavka 4. dodaju se stavci 5., 6. i 7. koji glase:
+»(5) Ako su prekoračenja ograničenja iz članaka 92. do 95. ovoga Zakona posljedica transakcije koju je sklopilo Društvo, a kojom su se prekoračila navedena ograničenja ili dodatno povećala prekoračenja ulaganja, a koja nisu obuhvaćena stavkom 2. ovoga članka, Društvo je dužno uskladiti ulaganja imovine za pokriće tehničkih pričuva odmah po saznanju za prekoračenje ograničenja.
+(6) U slučaju nastanka posebnih okolnosti koje podrazumijevaju događaj ili određeno stanje koje se nije moglo predvidjeti i na koje se nije moglo utjecati, a koje ugrožava život i zdravlje građana, imovinu veće vrijednosti, znatno narušava okoliš, narušava gospodarsku aktivnost ili uzrokuje znatnu gospodarsku štetu, Agencija može donijeti odluku kojom privremeno dozvoljava prekoračenje ograničenja ulaganja iz članaka 92. do 95. ovoga Zakona.
+(7) Odluka iz stavka 6. ovoga članka može se donijeti na razdoblje od najviše godinu dana, osim ako Agencija procijeni da još uvijek traju posljedice posebnih okolnosti ili nije došlo do okončanja posebnih okolnosti kojim je izazvano donošenje odluke te će vodeći računa o zaštiti javnog interesa i/ili interesa korisnika mirovine odlučiti o daljnjem trajanju odluke iz stavka 6. ovoga članka.«.

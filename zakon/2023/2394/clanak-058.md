@@ -1,0 +1,4 @@
+# Članak 58.
+Članak 111. mijenja se i glasi:
+»(1) Iznos mirovine iz obveznog mirovinskog osiguranja koja će se isplaćivati korisnicima mirovine po ovom Zakonu, određuje se na temelju članka 103. ovoga Zakona, s obzirom na godine života korisnika mirovine na dan ostvarivanja prava na mirovinu odnosno na dan početka isplate mirovine po ugovoru o mirovini u slučaju da korisnik mirovine ne odabere jednokratnu isplatu propisanu člankom 112. stavkom 10. ovoga Zakona te vrstu i oblik mirovine koja će se isplaćivati i druge elemente aktuarskih izračuna.
+(2) Iznos mirovine iz dobrovoljnog mirovinskog osiguranja određuje se na temelju članka 103. ovoga Zakona, s obzirom na godine života korisnika mirovine na dan početka isplate mirovine po ugovoru o mirovini te vrstu i oblik mirovine koja će se isplaćivati i druge elemente aktuarskih izračuna.«.
