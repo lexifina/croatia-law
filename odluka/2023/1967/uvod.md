@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 29. Statuta Općine Baška (»Službene novine Primorsko-goranske županije« broj 12/13, 31/15, 27/17, 4/15, 6/20, 4/21), Općinsko vijeće Općine Baška na sjednici održanoj 22. studenoga 2023. godine donosi
