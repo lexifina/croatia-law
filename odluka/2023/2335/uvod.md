@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 39. Statuta Grada Pula - Pola (»Službene novine - Bolletino ufficiale Pula - Pola« broj 7/09, 16/09, 12/11, 1/13, 2/18, 2/20, 4/21 i 5/21), Gradsko vijeće Grada Pula - Pola na sjednici održanoj 14. prosinca 2023. godine donosi
