@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/2016, 106/2018, 121/2019, 32/2020, 138/2020, 151/2022, 114/2023) i članka 34. Statuta Općine Lasinja (»Glasnik Općine Lasinja« br. 1/18, 1/20 i 1/21), Općinsko vijeće Općine Lasinja, na 20. sjednici održanoj 29. studenoga 2023. godine, donijelo je
