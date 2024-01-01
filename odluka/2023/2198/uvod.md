@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) te članka 28. Statuta Općine Baška Voda (Glasnik Općine Baška Voda 7/21) Općinsko Vijeće općine Baška Voda na 13. sjednici održanoj 21. studenoga 2023., donosi
