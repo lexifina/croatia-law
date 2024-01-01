@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Kaptol (»Službeni glasnik Općine Kaptol«, broj 02/21 i 06/22), Općinsko vijeće Općine Kaptol, na svojoj 18. sjednici, održanoj 13. studenoga 2023. godine, donijelo je
