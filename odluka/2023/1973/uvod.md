@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22 i 114/23) i članka 18. Statuta Općine Rakovec (»Glasnik Zagrebačke županije«, br. 7/20 i 9/21) Općinsko vijeće Općine Rakovec na svojoj 20. sjednici održanoj 21. studenoga 2023. godine donijelo je
