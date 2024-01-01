@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Sutivan (»Službeni glasnik Općine Sutivan« broj 7/13, 2/14, 6/14, 5/18, 2/20, 2/21), Općinsko vijeće Općine Sutivan na svojoj 18. sjednici, održanoj 30. studenoga 2023. godine, donijelo je
