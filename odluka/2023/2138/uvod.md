@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 4. i članka 42. stavka 1., a u svezi s člankom 20. Zakona o lokalnim porezima (»Narodne novine«, broj: 115/16, 101/17, 114/22, 114/23) i članka 32. stavak 1. podstavak 23. Statuta općine Unešić (»Službeno glasilo Općine Unešić«, broj: 3/21), Općinsko vijeće Općine Unešić, na svojoj 13. sjednici održanoj 24. studenoga 2023. godine, donosi
