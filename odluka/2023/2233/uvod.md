@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 34. Statuta Grada Otočca (»Službeni vjesnik Grada Otočca« broj 9/21), Gradsko vijeće Grada Otočca na 14. sjednici održanoj 13. prosinca 2023. godine donijelo je
