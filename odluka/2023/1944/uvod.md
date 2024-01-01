@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Kijevo (»Službeno glasilo općine Kijevo« br. 15/18, 18/18, 26/20 i 32/21), Općinsko vijeće Općine Kijevo na 18. sjednici 16. studenoga 2023. godine donijelo je
