@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 32. stavka 1. alineje 31. Statuta Grada Staroga Grada (»Službeni glasnik Grada Staroga Grada« broj: 12/09, 3/10, 4/13, 5/13, 6/18 i 2/20), Gradsko vijeće Grada Staroga Grada, na XVIII. sjednici održanoj 28. studenoga 2023. godine, donosi
