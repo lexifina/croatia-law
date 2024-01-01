@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22, 114/23) i članka 26. Statuta Općine Raša (»Službene novine Općine Raša«, broj 4/09, 5/13, 4/18, 2/21, 3/23 - pročišćeni tekst), Općinsko vijeće Općine Raša na sjednici održanoj 13. prosinca 2023. godine donosi
