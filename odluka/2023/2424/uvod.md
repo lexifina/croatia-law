@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22 i 114/23) i članaka 34. Statuta Grada Visa (»Službeni glasnik Grada Visa«, br. 1/13, 2/13, 6/18, 3/21 i 1/23), Gradsko vijeće Grada Visa na svojoj 17. sjednici održanoj 18. prosinca 2023. god., donosi
