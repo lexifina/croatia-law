@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i članka 31. Statuta Općine Hlebine (»Službeni glasnik Koprivničko-križevačke županije« broj 10/09., 5/13., 3/18., 6/20. i 3/21.), Općinsko Vijeće Općine Hlebine na 21. sjednici održanoj 27. studenoga 2023. godine donijelo je
