@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22. i 114/23) i članka 29. Statuta Općine Pitomača (»Službene novine« Općine Pitomača broj 1/21. i 4/21) Općinsko vijeće Općine Pitomača na 16. sjednici održanoj 24. listopada 2023. godine, donijelo je
