@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 115/16, 114/22 i 114/23) te članka 30. Statuta Općine Kijevo (»Službeno glasilo općine Kijevo« br. 15/18, 18/18, 26/20 i 32/21), Općinsko vijeće Općine Kijevo na 18. sjednici 16. studenoga 2023. godine donijelo je
