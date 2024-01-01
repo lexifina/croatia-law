@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) te članka 33. Statuta Općine Pokupsko (»Glasnik Zagrebačke županije« 13/21), Općinsko vijeće na svojoj 15. sjednici održanoj 15. prosinca, 2023. godine, donijelo je
