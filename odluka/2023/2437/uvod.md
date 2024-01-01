@@ -1,0 +1,1 @@
+Na temelju članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16., 101/17., 114/22. i 114/23.) te članka 33. Statuta Općine Čeminac (»Službeni glasnik« Općine Čeminac br. 9/23) Općinsko vijeće Općine Čeminac na svojoj 6. sjednici održanoj 19. prosinca 2023. godine, donosi
