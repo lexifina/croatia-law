@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Lumbarda (»Službeni glasnik Općine Lumbarda« broj 03/13, 02/16, 01/18, 01/20 i 01/21) Općinsko vijeće Općine Lumbarda na svojoj 18. sjednici održanoj 13. prosinca 2023. godine donosi
