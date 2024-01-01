@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 29. stavka 1. točke 28. Statuta Grada Vodica (»Službeni glasnik Grada Vodica«, broj 12/22), Gradsko vijeće Grada Vodica na 14. sjednici od 20. listopada 2023. godine, donosi
