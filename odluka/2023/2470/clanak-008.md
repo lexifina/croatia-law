@@ -1,0 +1,2 @@
+# Članak 8.
+Porez na potrošnju iskazuje se na Obrascu PP-MI-PO i predaje do 20. dana u mjesecu za prethodni mjesec nadležnoj ispostavi Porezne uprave prema sjedištu odnosno prebivalištu ili uobičajenom boravištu poreznog obveznika zbirno za sve poslovne prostore, na način da se na obrascu iskažu podaci za svaki grad/općinu pojedinačno. Obračunati porez na potrošnju alkoholnih pića, prirodnih vina, specijalnih vina, piva i bezalkoholnih pića obveznik poreza plaća do posljednjeg dana u mjesecu za prethodni mjesec.
