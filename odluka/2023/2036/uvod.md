@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 24. Statuta Grada Ploča (»Službeni glasnik Grada Ploča«, broj 14/09, 3/12, 1/13, 3/17, 1/18, 5/20, 6/21 i 2/23) Gradsko vijeće Grada Ploča na 20. sjednici, održanoj 27. studenoga godine, donijelo je
