@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22, 114/23) i članka 30. Statuta Općine Vižinada - Visinada (»Službene novine Općine Vižinada - Visinada«, broj 4/22 - pročišćeni tekst), Općinsko vijeće Općine Vižinada - Visinada na sjednici održanoj 14. prosinca 2023. godine, donijelo je

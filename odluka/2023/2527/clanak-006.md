@@ -1,0 +1,3 @@
+# Članak 6.
+U postupku utvrđivanja statusa kuće za odmor, u smislu njenog povremenog ili sezonskog korištenja, isti će se status utvrditi sukladno odredbama Općeg poreznog zakona koje propisuju način utvrđivanja prebivališta mjerodavno za oporezivanje, pri čemu porezni obveznik snosi teret dokazivanja činjenica i okolnosti prema kojima se utvrđuje korištenje nekretnine za stalno stanovanje sukladno odredbama Općeg poreznog zakona.
+Pri promjeni vlasništva kuće za odmor tijekom kalendarske godine, novi vlasnik ne plaća porez na kuće za odmor ako je taj porez bio utvrđen i naplaćen od prethodnog vlasnika.
