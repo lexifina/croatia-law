@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 34. Statuta Grada Vrgorca (»Vjesnik« - službeno glasilo Grada Vrgorca broj 6/09, 2/13, 5/14, 16/19, 8/20 i 5/21), Gradsko vijeće Grada Vrgorca na 15. sjednici 28. studenoga 2023. godine donijelo je
