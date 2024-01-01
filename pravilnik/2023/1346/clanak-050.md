@@ -1,0 +1,9 @@
+## V. PROMJENA OPERATORA I PRENOSIVOST BROJA
+## Pokretanje postupka promjene operatora
+# Članak 50.
+(1) Postupak promjene operatora javno dostupnih interpersonalnih komunikacijskih usluga započinje ispunjavanjem Zahtjeva za promjenu operatora iz Dodatka 2. ovoga Pravilnika, zajedno s ugovornom dokumentacijom ili zahtjevom za otvaranje korisničkog zapisa, kojeg krajnji korisnik ispunjava novom operatoru pri čemu jedan primjerak potpisanog Zahtjeva zadržava krajnji korisnik. Novi operator u slučaju sklapanja ugovora na daljinu je obvezan na Zahtjevu za promjenu operatora naznačiti da se radi o sklapanju ugovora na daljinu pri čemu se primjenjuju odredbe posebnog zakona kojim je uređena zaštita potrošača.
+(2) Odredbe ovog članka ne primjenjuju se na postupke promjene operatora u nepokretnoj mreži za krajnje korisnike koji javne komunikacijske usluge nabavljaju u postupku javne nabave, sukladno posebnom propisu iz područja javne nabave. U tom slučaju novi operator je obvezan, uz zahtjev za veleprodajnu uslugu, dostaviti odluku o odabiru operatora iz postupka javne nabave odnosno drugi odgovarajući dokument, u skladu s odredbama posebnog propisa iz područja javne nabave, kojim dokazuje status odabranog ponuditelja.
+(3) Kod promjene operatora u nepokretnoj elektroničkoj komunikacijskoj mreži krajnji korisnik je obvezan za svaki fizički priključak ispuniti zaseban Zahtjev za promjenu operatora koji može sadržavati više telefonskih brojeva.
+(4) Kod promjene operatora u pokretnoj elektroničkoj komunikacijskoj mreži Zahtjev za promjenu operatora može sadržavati više telefonskih brojeva.
+(5) Zahtjev za promjenu operatora smatra se zahtjevom za raskid ugovora s postojećim operatorom.
+(6) Ukoliko krajnji korisnik u postupku promjene operatora prenosi broj, Zahtjev za promjenu operatora smatra se zahtjevom za prijenos broja.

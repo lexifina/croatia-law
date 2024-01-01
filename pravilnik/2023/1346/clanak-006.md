@@ -1,0 +1,8 @@
+## Procjena platežne sposobnosti podnositelja zahtjeva za sklapanje ugovora
+# Članak 6.
+(1) Operator javno dostupnih elektroničkih komunikacijskih usluga može odbiti zahtjev za sklapanje ugovora u slučaju kada procijeni da krajnji korisnik neće biti u mogućnosti, ili nema namjeru podmiriti svoja buduća ili već dospjela dugovanja za korištene javne elektroničke komunikacijske usluge. Operator javno dostupnih elektroničkih komunikacijskih usluga je obvezan prihvatiti zahtjev za sklapanje ugovora ako krajnji korisnik pruži, temeljem posebnog zahtjeva operatora odgovarajuće osiguranje za plaćanje usluga što uključuje, ali ne ograničava se na:
+1. osiguranje predujma dovoljnog za pokriće računa za korištenje usluge (predujam koji je krajnji korisnik osigurao operatoru javno dostupnih elektroničkih komunikacijskih usluga koristit će se za naplatu računa za korištene usluge),
+2. osiguranje bankovnog jamstva ili nekog drugog operatoru prihvatljivog instrumenta osiguranja plaćanja,
+3. prihvaćanje mjesečnog ograničenja korištenja usluga određenog od strane operatora javno dostupnih elektroničkih komunikacijskih usluga,
+4. ako je moguće, prihvaćanje korištenja usluge prema uvjetima za krajnje korisnike koji unaprijed plaćaju korištenje usluge.
+(2) Operator javno dostupnih elektroničkih komunikacijskih usluga može odbiti sklapanje ugovora ukoliko je isti podnesen od strane pravne osobe u čijoj se vlasničkoj strukturi nalaze osobe (osnivač, vlasnik i/ili osoba ovlaštena za zastupanje) za koje operator javno dostupnih elektroničkih komunikacijskih usluga procijeni da nemaju namjeru podmiriti svoja buduća ili već dospjela dugovanja za korištenje javne elektroničke komunikacijske usluge, odnosno da neće biti u mogućnosti podmiriti svoja buduća dugovanja.

@@ -1,0 +1,11 @@
+## Naknade operatora u vezi s uslugom prijenosa broja
+# Članak 66.
+(1) Novi operator će operatoru kojem su brojevi dodijeljeni primarnom dodjelom, plaćati godišnju naknadu za svaki broj koji je prenesen u njegovu elektroničku komunikacijsku mrežu. Naplata godišnje naknade za korištenje broja vrši se prema stanju u CABP bazi, odnosno vlastitoj LBPB bazi i to za godinu unazad, razmjerno broju dana korištenja broja u vlastitoj mreži.
+(2) Naknada iz stavka 1. ovoga članka određena je Pravilnikom o plaćanju naknada za obavljanje poslova Agencije i Pravilnikom o plaćanju naknada za pravo uporabe adresa, brojeva i radiofrekvencijskog spektra.
+(3) Dodatne troškove međusobnog povezivanja (tranzit poziva) do kojih je došlo prilikom usmjeravanja poziva prema prenesenim brojevima snosi operator.
+(4) Ukoliko operator elektroničke komunikacijske mreže u kojoj je započeo poziv, nema prema prenesenom broju ostvareno izravno međusobno povezivanje s operatorom elektroničke komunikacijske mreže u kojoj se pozvani preneseni broj nalazi, operator takve pozive neće naplaćivati po većoj cijeni od one koju operator naplaćuje za pozive prema svim ostalim brojevima koji nisu preneseni u tu elektroničku komunikacijsku mrežu.
+(5) Operatori ne mogu od podnositelja zahtjeva za prijenos broja zahtijevati bilo kakvu dodatnu naknadu u vezi s postupkom prenosivosti broja.
+(6) Operatori ne mogu pozive na prenesene brojeve naplaćivati više od poziva na druge brojeve u toj elektroničkoj komunikacijskoj mreži koji se upotrebljavaju za pružanje istih elektroničkih komunikacijskih usluga, a nisu preneseni iz njihove elektroničke komunikacijske mreže.
+(7) Operatori ne mogu primijeniti veće cijene međusobnog povezivanja za pozive prema prenesenim brojevima u odnosu na pozive prema neprenesenim brojevima koji se upotrebljavaju za pružanje istih elektroničkih komunikacijskih usluga.
+(8) Novi operatori neće snositi administrativne troškove postojećeg operatora davatelja broja vezane uz postupak prenosivosti broja.
+(9) Ukoliko postojeći operator nema drugih brojeva u sekundarnoj dodjeli u određenom bloku koje koristi u svojoj mreži, a svi preostali brojevi u tom bloku su u mreži jednog operatora kao preneseni brojevi, novi operator i postojeći operator mogu zatražiti prijenos prava na uporabu brojeva sukladno Pravilniku o dodjeli adresa i brojeva.

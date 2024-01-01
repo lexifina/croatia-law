@@ -1,0 +1,4 @@
+## Zaštita djece
+# Članak 34.
+(1) Operatori javno dostupnih elektroničkih komunikacijskih usluga obvezni su, ako postoji tehnička mogućnost, ponuditi svim krajnjim korisnicima mogućnost postavljanja zabrane pristupa sadržaju koji nije namijenjen djeci. Prigodom prvog potpisivanja ugovora, operatori javno dostupnih elektroničkih komunikacijskih usluga ili njegovi ovlašteni prodavači obvezni su ponuditi takvu mogućnost. Ako krajnji korisnik odabere navedenu mogućnost, istu može početi koristiti bilo kada za vrijeme trajanja ugovora te će ona ostati na snazi sve dok krajnji korisnik ne zatraži ukidanje.
+(2) Radi ostvarenja mogućnosti iz stavka 1. ovog članka operatori javno dostupnih elektroničkih komunikacijskih usluga obvezni su voditi evidenciju o pristupnim brojevima i adresama koje svojim sadržajem nisu namijenjene djeci. Nove podatke ili izmjenu postojećih obvezni su svakodnevno usklađivati te ih međusobno razmjenjivati pri svakom unosu podataka.

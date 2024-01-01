@@ -1,0 +1,3 @@
+# Članak 52.
+(1) Potvrdu prihvata s datumom prijenosa broja (ukoliko promjena operatora uključuje prijenos broja) ili obavijest o neprihvaćanju Zahtjeva za promjenu operatora u nepokretnoj elektroničkoj komunikacijskoj mreži novi operator je obvezan dostaviti krajnjem korisniku pisanim putem, elektroničkim putem ili SMS porukom najkasnije u roku od 15 dana od dana potpisivanja Zahtjeva za promjenu operatora.
+(2) Ukoliko operator u nepokretnoj elektroničkoj komunikacijskoj mreži ne dostavi krajnjem korisniku potvrdu ili obavijest u roku iz stavka 1. ovoga članka, krajnji korisnik ima pravo jednostrano odustati od sklopljenog ugovora bez naplate naknade za prijevremeni raskid ugovora, a sve do realizacije zatražene usluge.

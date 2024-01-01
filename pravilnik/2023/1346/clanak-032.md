@@ -1,0 +1,5 @@
+## Ponude operatora i osobe za kontakt
+# Članak 32.
+(1) Operatori javno dostupnih elektroničkih komunikacijskih usluga moraju kontinuirano nuditi opremu i usluge u svojim poslovnicama i na svojim internetskim stranicama, a koje su prilagođene osobama s invaliditetom, osobama starije životne dobi i osobama s posebnim socijalnim potrebama te Agenciji polugodišnje o istome dostaviti dokaz elektroničkim putem.
+(2) Operatori javno dostupnih elektroničkih komunikacijskih usluga su obvezni osigurati osobe za kontakt koje su obučene za pružanje pomoći osobama s invaliditetom o proizvodima i uslugama koje su prilagođene njihovim potrebama. Kontakt adresu nadležne službe za kontakt s osobama s invaliditetom operatori javno dostupnih elektroničkih komunikacijskih usluga moraju učiniti dostupnim svim svojim radnicima te Agenciji.
+(3) Osobama s oštećenjima sluha operatori javno dostupnih elektroničkih komunikacijskih usluga moraju najmanje osigurati dvosmjernu tekstualnu komunikaciju umjesto komunikacije govorom.
