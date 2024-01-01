@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 27. Statuta Općine Veliko Trojstvo (»Službeni glasnik Općine Veliko Trojstvo« broj 1/21), Općinsko vijeće Općine Veliko Trojstvo na 19. sjednici održanoj 16. studenoga 2023. godine donijelo je
