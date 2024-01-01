@@ -1,0 +1,3 @@
+# Članak 7.
+Poslove utvrđivanja, evidentiranja, nadzora, naplate i ovrhe radi naplate poreza na kuće za odmor obavlja Ministarstvo financija, Porezna uprava.
+3. Porez na korištenje javnih površina
