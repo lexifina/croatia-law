@@ -1,0 +1,7 @@
+## Dodatak za rad na projektima i programima u javnim službama u prijelaznom razdoblju
+# Članak 44.
+(1) Zatečeni službenici i namještenici u javnim službama koji su do dana stupanja na snagu ovoga Zakona stekli pravo na uvećanje plaće za rad na projektima koji se financiraju iz projekata i fondova Europske unije od 1. ožujka 2024. imaju pravo na dodatak za rad na projektima u visini stečenog uvećanja plaće.
+(2) Službenici i namještenici u osnovnim školama koje sudjeluju u Eksperimentalnom programu »Osnovna škola kao cjelodnevna škola – Uravnotežen, pravedan, učinkovit i održiv sustav odgoja i obrazovanja« imaju pravo na dodatak na plaću u visini postotka utvrđenog odlukom ministra znanosti i obrazovanja o dodacima na plaću zaposlenicima osnovnih škola koje sudjeluju u Eksperimentalnom programu.
+(3) Dodaci iz stavaka 1. i 2. ovoga članka obračunavaju se na osnovnu plaću uvećanu za dodatak za radni staž, a službenicima i namještenicima koji ostvaruju pravo na uvećanje plaće samo za sate rada na projektu odnosno programu dodatak se isplaćuje za sate rada na projektu odnosno programu.
+(4) Dodatak iz stavka 1. ovoga članka zatečeni službenici i namještenici u javnim službama zadržavaju za vrijeme rada na projektu, a najduže do 31. prosinca 2024.
+(5) Dodatak iz stavka 2. ovoga članka službenici i namještenici u osnovnim školama ostvaruju za vrijeme rada na Eksperimentalnom programu, a najduže do 31. kolovoza 2027.
