@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 30. Statuta Općine Dvor (»Službeni vjesnik«, broj 07/21), Općinsko vijeće Općine Dvor, na svojoj 20. sjednici održanoj 14. prosinca 2023. godine, donosi
