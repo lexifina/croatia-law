@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 28. Statuta Općine Klis (»Službeni vjesnik Općine Klis«, br. 6/19, 4/20, 1/21 i 7/23), Općinsko vijeće Općine Klis na 28. sjednici održanoj 29. studenoga 2023. godine donosi
