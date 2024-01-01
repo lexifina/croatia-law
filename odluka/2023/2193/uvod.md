@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) te članka 51. Statuta Grada Drniša (»Službeni glasnik grada Drniša«, broj 2/20 i 2/22), Gradsko vijeće Grada Drniša, na 17. sjednici održanoj 11. prosinca 2023. godine, donijelo je
