@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/2016, 101/2017, 114/2022 i 114/2023) i članka 34. Statuta Općine Šandrovac (»Općinski glasnik Općine Šandrovac« broj 01/2021, 06/2021, 08/2023), Općinsko vijeće Općine Šandrovac na svojoj 23. sjednici, održanoj 14. prosinca 2023. godine, donosi
