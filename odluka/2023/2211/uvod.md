@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Lišane Ostrovičke (»Službeni glasnik Općine Lišane Ostrovičke«, broj 3/21), Općinsko vijeće Općine Lišane Ostrovičke na svojoj 17. sjednici koja je održana 28. studenoga 2023. godine, donijelo je
