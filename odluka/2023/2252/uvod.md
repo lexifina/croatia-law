@@ -1,0 +1,1 @@
+Na temelju članka 19. a stavka 1. Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 33. stavka 1. točke 2. Statuta Grada Dugog Sela (»Službeni glasnik Grada Dugog Sela«, broj 2/21), Gradsko vijeće Grada Dugog Sela, na 21. redovnoj sjednici, održanoj 12. prosinca 2023. godine, donosi
