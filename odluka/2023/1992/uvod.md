@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 34. Statuta Općine Klinča Sela (»Službeni glasnik Općine Klinča Sela« br. 4/18, 2/20, 3/21 i 7/21), Općinsko vijeće Općine Klinča Sela na sjednici održanoj 23. studenoga 2023., donijelo je
