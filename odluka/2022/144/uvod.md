@@ -1,1 +1,0 @@
-Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17) i članka 35. Statuta Grada Knina (»Službeno glasilo Grada Knina«, broj 3/21) Gradsko vijeće Grada Knina na 6. sjednici održanoj 13. prosinca 2021. godine, donosi
