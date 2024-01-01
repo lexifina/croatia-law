@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22 i 114/23) i članka 29. Statuta Grada Virovitice (»Službeni vjesnik« broj 1/2021), Gradsko vijeće Grada Virovitice, na 23. sjednici održanoj 28. studenoga 2023., donijelo je
