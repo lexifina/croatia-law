@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16., 106/18., 121/19., 32/20., 138/20., 151/22., 114/23.) i članka 15. Statuta Općine Sveti Petar u Šumi (»Službene novine Grada Pazina«, broj 20/09., 28/09., 11/10., 23/17., 18/21., 22/23.), Općinsko vijeće Općine Sveti Petar u Šumi na sjednici održanoj 5. prosinca 2023. godine donijelo je
