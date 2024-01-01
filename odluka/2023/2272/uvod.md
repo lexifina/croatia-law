@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Hrvace (»Službeni glasnik Općine Hrvace« broj 1/18 i 9/20), Općinsko vijeće Općine Hrvace na svojoj 14. sjednici održanoj 1. prosinca 2023. godine, donijelo je
