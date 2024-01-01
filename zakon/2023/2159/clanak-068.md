@@ -1,0 +1,5 @@
+# Članak 68.
+(1) Odluka o kriterijima za dodjelu pomoći na ime poticaja za dobrovoljno funkcionalno odnosno stvarno spajanje jedinica lokalne samouprave (»Narodne novine«, br. 88/22.) ostaje na snazi i u 2024. godini.
+(2) Naputak o načinu isplate beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave, Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje (»Narodne novine«, br. 46/20., 5/21. i 73/21.) ostaje na snazi i u 2024. godini u dijelu koji se odnosi na povrat beskamatnih zajmova danih na temelju njega.
+(3) Naputak o isplati sredstava beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave uslijed pada prihoda (»Narodne novine«, br. 130/20. i 134/23.) ostaje na snazi i u 2024. godini u dijelu koji se odnosi na povrat beskamatnih zajmova danih na temelju njega.
+(4) Odluka o isplati razlike iznosa uvećanja plaće za prekovremeni rad radnicima u djelatnosti zdravstva i zdravstvenog osiguranja (»Narodne novine, br. 101/21. i 147/21.) ostaje na snazi i u 2024. godini.

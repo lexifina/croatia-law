@@ -1,0 +1,4 @@
+# Članak 67.
+(1) Do stupanja na snagu odluke iz članka 66. stavka 1. ovoga Zakona ostaje na snazi Uredba o izdacima za službena putovanja u inozemstvo koji se korisnicima državnog proračuna priznaju u materijalne troškove (»Narodne novine«, br. 50/92. i 73/93.).
+(2) Do stupanja na snagu odluke iz članka 66. stavka 1. ovoga Zakona ostaju na snazi Odluka o visini dnevnice za službeno putovanje u zemlji i visini naknada za državne dužnosnike, suce i druge pravosudne dužnosnike te ostale zaposlene koji se financiraju iz sredstava državnog proračuna, a čija prava nisu uređena kolektivnim ugovorima (»Narodne novine«, br. 117/12.), osim ako je posebnim propisom uređeno drukčije.
+(3) Do stupanja na snagu naputka iz članka 66. stavka 2. ovoga Zakona ostaje na snazi Naputak o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2023. godini (»Narodne novine«, br. 13/23. i 46/23.).

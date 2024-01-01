@@ -1,0 +1,3 @@
+# Članak 69.
+(1) Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava državnog proračuna (»Narodne novine«, br. 8/06.) ostaje na snazi do donošenja odluke iz članka 29. stavka 2. ovoga Zakona.
+(2) Pravilnik o načinu korištenja vlastitih prihoda ostvarenih od obavljanja osnovne i ostale djelatnosti ustanova u kulturi (»Narodne novine«, br. 54/19.) ostaje na snazi do stupanja na snagu pravilnika o mjerilima i načinu korištenja vlastitih prihoda ostvarenih od obavljanja osnovne i ostale djelatnosti ustanova u kulturi koji donosi nadležni ministar uz suglasnost Ministarstva financija sukladno članku 57. stavku 2. Zakona o proračunu (»Narodne novine«, br. 144/21.).

@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Korisnici su obvezni u financijskom planu planirati sredstva pomoći, namjenskih primitaka i učešća Republike Hrvatske za projekte financirane iz pomoći i/ili namjenskih primitaka u iznosu koji je predviđen za financiranje projekata, razmjerno sredstvima koja će se koristiti u 2024. godini.
+(2) Kada se sredstva učešća Republike Hrvatske planirana u Proračunu za financiranje projekata koji se sufinanciraju iz sredstava Europske unije izvršavaju kod korisnika sporijom dinamikom od predviđene u Proračunu, Ministarstvo regionalnoga razvoja i fondova Europske unije može predložiti Ministarstvu preraspodjelu sredstava učešća u korist drugih korisnika, a najviše do 15 % rashoda, u skladu s člankom 60. Zakona o proračunu (»Narodne novine«, br. 144/21.).
