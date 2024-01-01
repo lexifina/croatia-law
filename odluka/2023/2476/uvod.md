@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22 i 114/23), te članka 31. Statuta Općine Posedarje (»Službeni glasnik Općine Posedarje«, br. 3/18 i 3/21) Općinsko vijeće Općine Posedarje na 23. sjednici održanoj 13. prosinca 2023. godine donosi
