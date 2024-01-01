@@ -1,0 +1,1 @@
+Na temelju članaka 19. i 19.a Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i članka 32. Statuta Općine Podcrkavlje (»Službeni vjesnik Brodsko-posavske županije« broj 7/18, 7/20, 34/21), Općinsko vijeće Općine Podcrkavlje na svojoj 22. sjednici održanoj 30. studenoga 2023. godine donijelo je
