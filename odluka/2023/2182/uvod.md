@@ -1,0 +1,1 @@
+Na temelju članka 21. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22, 114/23) i članka 34. stavak 1. alineja 2. Statuta Grada Nova Gradiška - pročišćeni tekst (»Novogradiški glasnik« broj 7/22), Gradsko vijeće Grada Nova Gradiška na 18. sjednici održanoj 30. studenoga 2023. donijelo je
