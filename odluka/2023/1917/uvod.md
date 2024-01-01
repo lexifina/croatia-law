@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Vidovec (»Službeni vjesnik Varaždinske županije«, broj 20/21) Općinsko vijeće Općine Vidovec, na 21. sjednici održanoj 14. studenoga 2023. godine, donosi
