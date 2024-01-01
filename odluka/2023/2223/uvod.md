@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 34. Statuta Općine Žumberak (»Glasnik Zagrebačke županije«, broj 29/2009, 14/2013, 06/2018, 27/2020, 22/2021.), Općinsko vijeće Općine Žumberak na 12. sjednici održanoj 4. prosinca 2023. godine, donosi
