@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Grada Pregrade (Službeni glasnik KZŽ, broj 06/13, 17/13, 7/18, 16/18 - pročišćeni tekst, 05/20, 8/21, 38/22, 40/23), Gradsko vijeće Grada Pregrade na 17. sjednici održanoj 14. prosinca 2023. godine, donijelo je
