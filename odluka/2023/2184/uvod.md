@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22 i 114/23) i članka 36. Statuta Grada Splita (»Službeni glasnik Grada Splita« broj 17/09, 11/10, 18/13, 39/13, 46/13 - pročišćeni tekst, 11/18, 6/20, 41/21 i 43/21 - pročišćeni tekst), Gradsko vijeće Grada Splita na 25. sjednici održanoj 7. prosinca 2023. godine, donosi
