@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 37. Statuta Grada Novske (»Službeni vjesnik«, broj 8/21 i 13/23) Gradsko vijeće Grada Novske na 24. sjednici održanoj 29. studenoga 2023. godine donijelo je
