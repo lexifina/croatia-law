@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Lokvičići (»Službeni glasnik Općine Lokvičići« broj 4/21), Općinsko vijeće Općine Lokvičići na 15. sjednici održanoj 15. prosinca 2023. godine donijelo je
