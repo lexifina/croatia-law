@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. statuta Grada Oroslavja (»Službeni glasnik Krapinsko-zagorske županije« broj 16/09, 13/13, 19/18, 21/20, i 23/21), Gradsko vijeće Grada Oroslavja na 31. sjednici održanoj 30. studenoga 2023. godine donijelo je
