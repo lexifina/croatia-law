@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članaka 32. Statuta Općine Antunovac (»Službeni glasnik Općine Antunovac« broj 2/13, 3/18, 7/19, 3/20, 2/21 i 7/21), Općinsko vijeće Općine Antunovac na svojoj 31. sjednici održanoj 13. prosinca 2023. godine, donosi
