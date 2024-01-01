@@ -1,0 +1,1 @@
+Na temelju članaka 19. a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Podgora (»Glasnik«, službeno glasilo Općine Podgora, broj 5/09, 9/09, 3/13, 3/15, 4/18, 5/20 - pročišćeni tekst, 14/20, 4/21 i 22/23) na svojoj 26. sjednici održanoj 15. prosinca 2023. godine, donijelo je
