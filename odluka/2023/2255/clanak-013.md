@@ -1,0 +1,3 @@
+## VIII. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 13.
+Postupci utvrđivanja poreza započeti po odredbama Odluke o gradskim porezima Grada Trogira (»Službeni glasnik Grada Trogira« 23/20 i »Narodne novine« 119/20) i Odluke o izmjeni Odluke o gradskim porezima Grada Trogira (»Službeni glasnik Grada Trogira« 26/21 i »Narodne novine« 126/21), koji nisu dovršeni do stupanja na snagu ove odluke, dovršiti će se prema odredbama Odluke o gradskim porezima Grada Trogira (»Službeni glasnik Grada Trogira« 23/20 i »Narodne novine« 119/20) i Odluke o izmjeni Odluke o gradskim porezima Grada Trogira (»Službeni glasnik Grada Trogira« 26/21 i »Narodne novine« 126/21).

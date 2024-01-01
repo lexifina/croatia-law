@@ -1,0 +1,2 @@
+# Članak 15.
+Ova Odluka objavit će se u »Službenom glasniku Grada Trogira« i u »Narodnim novinama«, a stupa na snagu 1. siječnja 2024. godine.
