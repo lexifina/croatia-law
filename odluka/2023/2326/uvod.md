@@ -1,0 +1,1 @@
+Na temelju članaka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« 115/16, 101/17, 114/22 i 114 /23) i članka 28. Statuta Grada Benkovca (»Službeni glasnik Grada Benkovca«, broj 5/09, 3/10, 4/10, 1/13; 2/14, 1/18, 2/21 i 2/23), Gradsko vijeće Grada Benkovca na 16. sjednici održanoj 15. prosinca 2023. donosi
