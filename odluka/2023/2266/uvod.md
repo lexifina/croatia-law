@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 48. Statuta Općine Darda (»Službeni glasnik Općine Darda« br. 4/21 - pročišćeni tekst), Općinsko vijeće Općine Darda na 24. sjednici održanoj 13. studenog 2023. godine, donosi
