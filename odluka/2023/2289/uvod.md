@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. stavka 1. točke 2. Statuta Općine Rovišće (»Službeni glasnik Općine Rovišće« broj 4/19 - pročišćeni tekst, 1/21 i 4/21), Općinsko vijeće Općine Rovišće na 16. sjednici održanoj 30. studenog 2023. godine donisi
