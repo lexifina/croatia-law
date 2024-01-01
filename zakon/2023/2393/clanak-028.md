@@ -1,0 +1,6 @@
+# Članak 28.
+U članku 160. stavku 1. točki 1. iza riječi: »imovine« dodaju se riječi: »i obveza«, a zarez i riječi: »i/ili smanjenja rizika ulaganja« brišu se.
+U stavku 2. točki 1. iza riječi: »izloženost« dodaju se riječi: »prema temeljnoj imovini koja je stvorena kroz«, a riječi: »financijskim izvedenicama« zamjenjuju se riječima: »financijske izvedenice«.
+U točki 3. iza riječi: »osobom« stavlja se zarez i dodaju riječi: »uključujući i razmijenjeni kolateral,«.
+Iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) Iznimno od stavka 2. točke 3. ovoga članka, mirovinsko društvo može primijeniti više limite ako se izloženost stvara izravno prema središnjoj drugoj ugovornoj strani, pri čemu se smatra da se izloženost stvara izravno prema središnjoj drugoj ugovornoj strani samo ako fond koristi individualnu segregaciju u smislu članka 39. Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju ili razinu segregacije koja je jednakovrijedna individualnoj razini segregacije, a kod izloženosti uvrštenim financijskim izvedenicama, ako se radi o izloženosti prema središnjoj drugoj ugovornoj strani, limiti iz stavka 2. točke 3. ovoga članka neće se primjenjivati.«.
