@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 23. Statuta Općine Gornji Kneginec (»Službeni vjesnik Općine Gornji Kneginec«, broj 02/13, 07/13, 08/13, 2/14, 11/17, 4/20 i 1/21), Općinsko vijeće Općine Gornji Kneginec na 27. sjednici održanoj 13. studenoga 2023. godine donosi
