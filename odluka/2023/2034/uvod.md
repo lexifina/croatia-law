@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 36. Statuta Grada Lipika (»Službeni glasnik Grada Lipika« 1/21), Gradsko vijeće Grada Lipika na 22. sjednici održanoj 30. studenoga 2023., donijelo je
