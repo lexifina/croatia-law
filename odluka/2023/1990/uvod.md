@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/2016, 106/2018, 121/2019, 32/2020, 151/2022 I 114/2023) i članka 14. Statuta Općine Dicmo (»Službeni glasnik Općine Dicmo« broj 5/2022 - pročišćeni tekst), općinsko vijeće Općine Dicmo na 19. sjednici održanoj 27. studenoga 2023. godine, donosi
