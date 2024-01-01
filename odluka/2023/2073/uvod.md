@@ -1,0 +1,1 @@
+Na temelju članka 19.a., a u svezi s člankom 19. Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23), te čl. 33. Statuta Grada Ozlja (»Službeni glasnik« Grada Ozlja 3/21 - pročišćeni tekst), Gradsko vijeće Grada Ozlja na svojoj 14. sjednici održanoj 28. studenoga 2023. godine donijelo je
