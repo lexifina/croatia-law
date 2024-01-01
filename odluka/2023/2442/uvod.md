@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 27. Statuta Općine Dugi Rat (»Službeni glasnik« - službeno glasilo Općine Dugi Rat, broj 5/21) Općinsko vijeće Općine Dugi Rat na 27. sjednici održanoj 18. prosinca 2023. donijelo je
