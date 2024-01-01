@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 39. Statuta Općine Mihovljan (»Službeni glasnik Krapinsko-zagorske županije« broj 05/13, 11/18, 08/20 i 08/21), Općinsko vijeće Općine Mihovljan na svojoj 20. sjednici održanoj 30. studenoga 2023. godine, donijelo je
