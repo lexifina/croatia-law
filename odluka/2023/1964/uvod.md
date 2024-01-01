@@ -1,0 +1,1 @@
+Na temelju članaka 26. i 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/2016., 101/2017., 114/2022. i 114/2023.) i članka 34. Statuta Grada Ludbrega (»Službeni vjesnik Varaždinske županije« 12/2021.) Gradsko vijeće Grada Ludbrega na 22. sjednici održanoj 28. studenoga 2023. g., donosi
