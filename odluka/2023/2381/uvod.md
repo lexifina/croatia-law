@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 41. točke 2. Statuta Grada Zagreba (»Službeni glasnik Grada Zagreba« 23/16, 2/18, 23/18, 3/20, 3/21, 11/21 - pročišćeni tekst i 16/22), Gradska skupština Grada Zagreba, na 29. sjednici, 13. prosinca 2023., donijela je
