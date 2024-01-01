@@ -1,0 +1,10 @@
+## Odobrenje programa stručnog usavršavanja
+# Članak 33.
+(1) Ako su ispunjeni svi uvjeti za provedbu pojedinačnog programa stručnog usavršavanja, tijelo državne uprave nadležno za politiku javne nabave nositelju programa putem sustava e-Izobrazba odobrava njegovo održavanje najkasnije u roku od 15 dana, a u slučaju in-house programa najkasnije u roku od pet dana, od dana zaprimanja potpunog zahtjeva iz članka 32. ovoga Pravilnika.
+(2) Odobrenje iz stavka 1. ovoga članka nije upravni akt te se nositelju programa dostavlja putem sustava e-Izobrazba.
+(3) Nositelj programa obvezan je odmah, a najkasnije 48 sati prije održavanja programa stručnog usavršavanja izvijestiti tijelo državne uprave nadležno za politiku javne nabave o svim naknadnim izmjenama podataka iz zahtjeva temeljem kojih mu je potvrđeno odobrenje za održavanje programa stručnog usavršavanja putem sustava e-Izobrazba.
+(4) Iznimno od stavka 3. ovoga članka, u slučaju spriječenosti stručne osobe navedene u zahtjevu zbog više sile, nositelj programa je obvezan putem sustava e-izobrazba, dostaviti podatke o zamjeni stručne osobe odmah po saznanju, a najkasnije prije početka odobrenog programa usavršavanja.
+(5) Dokaz, izdan od ovlaštene osobe/tijela, o nemogućnosti stručne osobe za izvođenja programa iz stavka 4. ovoga članka, nositelj programa dostavlja kroz sustav e-izobrazbe najkasnije u roku od tri dana od dana zamjene stručne osobe.
+(6) Ako nositelj programa ne postupi sukladno stavku 3., 4. i 5. ovoga članka ili tijelo državne uprave nadležno za politiku javne nabave o izmjenama sazna na drugi način smatrat će se da zahtjev za odobrenje provedbe programa stručnog usavršavanja nije podnesen.
+(7) U slučaju iz stavka 6. ovoga članka izvješće o provedbi održanog programa neće se prihvatiti u sustav e-Izobrazba, a odgovornost prema polaznicima je u cijelosti na nositelju programa.
+(8) Naknadne izmjene podataka vezane uz pojedinačni program stručnog usavršavanja moguće su isključivo ako nemaju utjecaj na ispunjenje svih uvjeta za njegovu provedbu propisanih ovim Pravilnikom.
