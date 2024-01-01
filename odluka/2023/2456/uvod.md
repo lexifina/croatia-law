@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23) i 16. Statuta Općine Karojba (»Službene novine Grada Pazina« broj: 09/13, 02/18, 24/20 i 16/21), Općinsko vijeće Općine Karojba, na sjednici održanoj 13. prosinca 2023. godine, donijelo je
