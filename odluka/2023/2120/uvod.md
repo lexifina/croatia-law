@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Marija Gorica (»Službeni glasnik Općine Marija Gorica« broj 2/2021), Općinsko vijeće Općine Marija Gorica na svojoj 21. sjednici, održanoj 29. studenoga 2023. godine, donijelo je
