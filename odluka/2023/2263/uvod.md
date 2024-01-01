@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i članka 31. Statuta Općine Bol (»Službeni glasnik Općine Bol«, br. 3/21. i 4/22) Općina Bol Općine Bol, na svojoj 5/2023. sjednici održanoj 7. prosinca 2023. donijelo je
