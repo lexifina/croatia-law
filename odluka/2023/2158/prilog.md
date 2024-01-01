@@ -1,0 +1,131 @@
+FINANCIJSKI PLAN HŽ INFRASTRUKTURE ZA 2024. GODINU I PROJEKCIJE PLANA ZA 2025. I 2026. GODINU
+I. OPĆI DIO
+A. RAČUN PRIHODA I RASHODA
+| Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+PRIHODI POSLOVANJA | 278.944.495,10 | 393.557.804 | 490.216.691 | 516.985.378 | 599.160.070
+PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 0,00 | 0 | 0 | 0 | 0
+UKUPNI PRIHODI | 278.944.495,10 | 393.557.804 | 490.216.691 | 516.985.378 | 599.160.070
+RASHODI POSLOVANJA | 162.975.665,02 | 205.584.485 | 196.970.260 | 191.789.900 | 191.573.120
+RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 166.914.401,89 | 192.862.355 | 245.475.030 | 267.837.500 | 368.516.000
+UKUPNI RASHODI | 329.890.066,91 | 398.446.840 | 442.445.290 | 459.627.400 | 560.089.120
+RAZLIKA - VIŠAK/MANJAK | -50.945.571,81 | -4.889.036 | 47.771.401 | 57.357.978 | 39.070.950
+B. RAČUN FINANCIRANJA
+| Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 114.652.095,14 | 90.442.667 | 41.117.000 | 2.000.000 | 0
+IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 23.173.359,28 | 103.322.205 | 114.432.450 | 68.289.050 | 39.674.580
+RAZLIKA PRIMITAKA I IZDATAKA | 91.478.735,86 | -12.879.538 | -73.315.450 | -66.289.050 | -39.674.580
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 12.503.739,47 | 53.036.904 | 35.268.330 | 9.724.281 | 793.209
+PRIJENOS SREDSTAVA U SLJEDEĆU GODINU | -53.036.903,52 | -35.268.330 | -9.724.281 | -793.209 | -189.579
+NETO FINANCIRANJE | 50.945.571,81 | 4.889.036 | -47.771.401 | -57.357.978 | -39.070.950
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0,00 | 0 | 0 | 0 | 0
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Raz-
+red | Sku-
+pina | Naziv prihoda | Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+6 |  | PRIHODI POSLOVANJA | 278.944.495,10 | 393.557.804 | 490.216.691 | 516.985.378 | 599.160.070
+| 63 | Pomoći iz inozemstva i od subjekata unutar općeg proračuna | 253.962.717,67 | 354.701.565 | 444.496.691 | 470.555.378 | 551.930.070
+| 64 | Prihodi od imovine | 3.188.165,10 | 3.936.239 | 4.120.000 | 4.230.000 | 4.430.000
+| 66 | Prihodi od prodaje proizvoda i robe te pruženih usluga, prihodi od donacija te povrati po protestiranim jamstvima | 21.793.612,33 | 34.920.000 | 41.600.000 | 42.200.000 | 42.800.000
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Raz-
+red | Sku-
+pina | Naziv rashoda | Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija
+plana
+za 2026.
+3 |  | RASHODI POSLOVANJA | 162.975.665,02 | 205.584.485 | 196.970.260 | 191.789.900 | 191.573.120
+| 31 | Rashodi za zaposlene | 99.073.054,00 | 115.479.600 | 127.268.000 | 127.560.000 | 128.450.000
+| 32 | Materijalni rashodi | 57.434.308,53 | 63.799.235 | 61.898.000 | 59.923.000 | 59.540.000
+| 34 | Financijski rashodi | 4.510.289,74 | 25.645.650 | 7.234.260 | 3.736.900 | 3.013.120
+| 38 | Ostali rashodi | 1.958.012,75 | 660.000 | 570.000 | 570.000 | 570.000
+4 |  | RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 166.914.401,89 | 192.862.355 | 245.475.030 | 267.837.500 | 368.516.000
+| 41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 2.184.144,82 | 3.857.700 | 6.048.000 | 4.150.000 | 2.150.000
+| 42 | Rashodi za nabavu proizvedene dugotrajne imovine | 164.730.257,07 | 189.004.655 | 239.427.030 | 263.687.500 | 366.366.000
+B. RAČUN FINANCIRANJA
+Raz-
+red | Sku-
+pina
+| Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+8 |  | PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 114.652.095,14 | 90.442.667 | 41.117.000 | 2.000.000
+| 84 | Primici od zaduživanja | 114.652.095,14 | 90.442.667 | 41.117.000 | 2.000.000
+5 |  | IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 23.173.359,28 | 103.322.205 | 114.432.450 | 68.289.050 | 39.674.580
+| 54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 23.173.359,28 | 103.322.205 | 114.432.450 | 68.289.050 | 39.674.580
+II. POSEBNI DIO
+Šifra | Naziv | Izvršenje
+2022. | Plan
+2023. | Plan
+za 2024. | Projekcija plana
+za 2025. | Projekcija plana
+za 2026.
+011 | HŽ INFRASTRUKTURA | 353.063.426,19 | 501.769.045 | 556.877.740 | 527.916.450 | 599.763.700
+1100 | ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE | 163.999.931,89 | 222.263.535 | 199.017.220 | 195.136.000 | 196.194.000
+A110000 | ADMINISTRACIJA I UPRAVLJANJE | 159.615.542,73 | 199.654.735 | 190.869.900 | 188.563.000 | 189.080.000
+3 | Rashodi poslovanja | 159.615.542,73 | 199.654.735 | 190.869.900 | 188.563.000 | 189.080.000
+31 | Rashodi za zaposlene | 99.073.054,00 | 115.479.600 | 127.268.000 | 127.560.000 | 128.450.000
+32 | Materijalni rashodi | 57.434.308,53 | 63.799.235 | 61.898.000 | 59.923.000 | 59.540.000
+34 | Financijski rashodi | 1.150.167,45 | 19.715.900 | 1.133.900 | 510.000 | 520.000
+38 | Ostali rashodi | 1.958.012,75 | 660.000 | 570.000 | 570.000 | 570.000
+K110000 | OPREMANJE | 197.326,22 | 204.000 | 165.000 | 146.000 | 146.000
+4 | Rashodi za nabavu nefinancijske imovine | 197.326,22 | 204.000 | 165.000 | 146.000 | 146.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 197.326,22 | 204.000 | 165.000 | 146.000 | 146.000
+K110001 | INFORMATIZACIJA | 1.770.009,78 | 5.164.500 | 2.611.000 | 2.626.000 | 3.595.000
+4 | Rashodi za nabavu nefinancijske imovine | 1.770.009,78 | 5.164.500 | 2.611.000 | 2.626.000 | 3.595.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 1.770.009,78 | 5.164.500 | 2.611.000 | 2.626.000 | 3.595.000
+K110002 | PRIJEVOZNA SREDSTVA | 2.410.054,69 | 17.123.300 | 5.252.320 | 3.695.000 | 3.267.000
+4 | Rashodi za nabavu nefinancijske imovine | 2.410.054,69 | 17.123.300 | 5.252.320 | 3.695.000 | 3.267.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 2.410.054,69 | 17.123.300 | 5.252.320 | 3.695.000 | 3.267.000
+K110003 | POSLOVNE ZGRADE | 6.998,47 | 117.000 | 119.000 | 106.000 | 106.000
+4 | Rashodi za nabavu nefinancijske imovine | 6.998,47 | 117.000 | 119.000 | 106.000 | 106.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 6.998,47 | 117.000 | 119.000 | 106.000 | 106.000
+1101 | SERVISIRANJE DUGA | 26.533.481,57 | 109.251.955 | 120.532.810 | 71.515.950 | 42.167.700
+A110001 | ZAJMOVI OD BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA | 26.533.481,57 | 109.251.955 | 120.532.810 | 71.515.950 | 42.167.700
+3 | Rashodi poslovanja | 3.360.122,29 | 5.929.750 | 6.100.360 | 3.226.900 | 2.493.120
+34 | Financijski rashodi | 3.360.122,29 | 5.929.750 | 6.100.360 | 3.226.900 | 2.493.120
+5 | Izdaci za financijsku imovinu i otplate zajmova | 23.173.359,28 | 103.322.205 | 114.432.450 | 68.289.050 | 39.674.580
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 23.173.359,28 | 103.322.205 | 114.432.450 | 68.289.050 | 39.674.580
+1102 | PROGRAMI INVESTICIJSKIH AKTIVNOSTI | 162.530.012,73 | 170.253.555 | 237.327.710 | 261.264.500 | 361.402.000
+K110004 | PROJEKTI IZ PROGRAMA OBNOVE I MODERNIZACIJE PRUGA ZA MEĐUNARODNI PROMET | 41.328.429,34 | 49.222.800 | 49.859.310 | 57.760.900 | 52.872.000
+4 | Rashodi za nabavu nefinancijske imovine | 41.328.429,34 | 49.222.800 | 49.859.310 | 57.760.900 | 52.872.000
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 66.633,63 | 1.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 41.261.795,71 | 49.221.800 | 49.859.310 | 57.760.900 | 52.872.000
+K110005 | PROJEKTI IZ PROGRAMA OBNOVE I MODERNIZACIJE PRUGA ZA REGIONALNI PROMET | 5.431.735,59 | 4.391.000 | 18.533.100 | 8.331.000 | 46.704.000
+4 | Rashodi za nabavu nefinancijske imovine | 5.431.735,59 | 4.391.000 | 18.533.100 | 8.331.000 | 46.704.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 5.431.735,59 | 4.391.000 | 18.533.100 | 8.331.000 | 46.704.000
+K110006 | PROJEKTI IZ PROGRAMA OBNOVE I MODERNIZACIJE PRUGA ZA LOKALNI PROMET | 36.154,30 | 1.129.100 | 2.864.000 | 4.374.000 | 3.704.000
+4 | Rashodi za nabavu nefinancijske imovine | 36.154,30 | 1.129.100 | 2.864.000 | 4.374.000 | 3.704.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 36.154,30 | 1.129.100 | 2.864.000 | 4.374.000 | 3.704.000
+K110007 | PROGRAM OBNOVE I MODERNIZACIJE ŽELJEZNIČKOG ČVORIŠTA ZAGREB | 2.172.004,63 | 1.398.600 | 7.288.400 | 7.759.000 | 7.603.000
+4 | Rashodi za nabavu nefinancijske imovine | 2.172.004,63 | 1.398.600 | 7.288.400 | 7.759.000 | 7.603.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 2.172.004,63 | 1.398.600 | 7.288.400 | 7.759.000 | 7.603.000
+K110008 | PROGRAM AKTIVNOSTI U FUNKCIJI INFRASTRUKTURE I PROMETA NA MREŽI KAO CJELINE | 9.480.955,03 | 20.906.055 | 25.628.900 | 24.707.600 | 28.168.000
+4 | Rashodi za nabavu nefinancijske imovine | 9.480.955,03 | 20.906.055 | 25.628.900 | 24.707.600 | 28.168.000
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine |  | 40.700
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 9.480.955,03 | 20.865.355 | 25.628.900 | 24.707.600 | 28.168.000
+K110009 | IZGRADNJA NOVIH PRUGA I KOLOSIJEKA | 104.080.733,84 | 93.206.000 | 133.154.000 | 158.332.000 | 222.351.000
+4 | Rashodi za nabavu nefinancijske imovine | 104.080.733,84 | 93.206.000 | 133.154.000 | 158.332.000 | 222.351.000
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 2.117.511,19 | 3.816.000 | 6.048.000 | 4.150.000 | 2.150.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 101.963.222,65 | 89.390.000 | 127.106.000 | 154.182.000 | 220.201.000
