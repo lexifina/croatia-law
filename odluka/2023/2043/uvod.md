@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 29. Statuta Općine Kravarsko (»Glasnik Zagrebačke županije«, broj 19/21), Općinsko vijeće Općine Kravarsko na 15. sjednici održanoj 29. studenoga 2023. godine donijelo je
