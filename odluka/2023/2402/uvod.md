@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22 i 114/23.) i članka 18. Statuta Grada Križevaca (»Službeni vjesnik Grada Križevaca« broj 4/09, 1/13, 1/16, 1/18 i 3/18 - pročišćeni tekst 3/20, 1/21 i 3/22)), Gradsko vijeće Grada Križevaca na 18. sjednici održanoj 13. prosinca 2023. godine, donijelo je
