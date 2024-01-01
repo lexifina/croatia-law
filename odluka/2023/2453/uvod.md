@@ -1,0 +1,1 @@
+Na temelju članka 9. i članka 38 stavak 2. Zakona o izmjenama i dopunama Zakona o porezu na dohodak (»Narodne novine« broj 114/23) i članka 33. Statuta Općine Jelsa (»Službeni glasnik Općine Jelsa« br. 3/21), Općinsko vijeće Općine Jelsa na svojoj XV. redovnoj sjednici održanoj 6. prosinca 2023. godine donosi
