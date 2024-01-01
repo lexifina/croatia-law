@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/2016, 106/2018, 121/2019, 32/2020, 138/2020, 151/2022, 114/2023) (u daljnjem tekstu Zakon) i članka 29. Statuta Općine Brinje (»Županijski glasnik« Ličko-senjske županije br. 4/21, 17/22), Općinsko vijeće Općine Brinje, na 13. sjednici održanoj 29. studenoga 2023. godine, donijelo je
