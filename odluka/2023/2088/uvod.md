@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. točke 1. alineja 23. Statuta Grada Vrlike (»Službeni glasnik Grada Vrlike« br. 02/18, 06/20 i 02/21), Gradsko vijeće Grada Vrlike na svojoj 20. sjednici održanoj 4. prosinca 2023. godine, donijelo je
