@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 26. Statuta Općine Raša (»Službene novine Općine Raša«, broj 4/09, 5/13, 4/18, 2/21, 3/23 - pročišćeni tekst), Općinsko vijeće Općine Raša na sjednici održanoj 13. prosinca 2023. godine donosi
