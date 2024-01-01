@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o lokalnim porezima (»Narodne novine« 115/16, 101/17, 114/22, 114/23) i članka 34. Statuta Općine Ivankovo (»Službeni vjesnik« Vukovarsko-srijemske županije br. 10/22 i 34/22), Općinsko vijeće Općine Ivankovo je na 25. sjednici održanoj 24. studenoga 2023., donijelo
