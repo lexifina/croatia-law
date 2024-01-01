@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj: 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i 36. Statuta Grada Donjeg Miholjca (»Službeni glasnik Grada Donjeg Miholjca« broj 1/21. i 9/22. - ispravak), Gradsko vijeće Grada Donjeg Miholjca na 17. sjednici, održanoj 29. studenoga 2023., donosi
