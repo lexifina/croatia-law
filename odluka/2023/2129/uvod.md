@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/2016, 106/2018, 121/2019, 32/2020, 138/2020, 151/2022 i) i članka 32. Statuta Općine Punat (»Službene novine Primorsko-goranske županije«, broj 36/22), Općinsko vijeće Općine Punat na 16. sjednici održanoj 28. studenoga 2023. godine donosi
