@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i članka 34. Statuta Općine Viškovo (»Službene novine Općine Viškovo« broj 3/18., 2/20., 4/21., 10/22. i 9/23.), Općinsko vijeće Općine Viškovo na 24. sjednici održanoj 14. prosinca 2023. godine donijelo je
