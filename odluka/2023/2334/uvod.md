@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Grada Omiša (»Službeni glasnik Grada Omiša« broj 4/09, 9/10, 2/13, 10/13, 1/18 i 2/21), Gradsko vijeće Grada Omiša na 23. sjednici održanoj 12. prosinca 2023. godine donijelo je
