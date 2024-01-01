@@ -1,0 +1,2 @@
+# Članak 27.
+Postupci u svezi s utvrđivanjem i naplatom poreza na potrošnju, poreza na kuće za odmor, poreza na tvrtku ili naziv i poreza na korištenje javnih površina započeti do dana stupanja na snagu ove Odluke dovršiti će se prema odredbama Odluke o porezima Općine Cerovlje (»Narodne novine« broj 130/17 i »Službene novine Grada Pazina i Općina Cerovlje, Gračišće, Karojba, Lupoglav i Sv. Petar u Šumi« broj 56/17).

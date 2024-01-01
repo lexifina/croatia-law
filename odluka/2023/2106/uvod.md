@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 4. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22 i 114/23) i članka 17. Statuta Općine Cerovlje (»Službene novine Grada Pazina«, broj 11/09, 7/13, 19/14, 4/18, 14/20, 6/21 i 21/21 - pročišćeni tekst), Općinsko vijeće Općine Cerovlje, na sjednici održanoj 29. studenoga 2023. godine, donijelo je
