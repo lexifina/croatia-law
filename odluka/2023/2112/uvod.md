@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavak 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Kapela (»Službeni glasnik Općine Kapela« br. 1/21, 5/22), Općinsko vijeće Općine Kapela na 20. sjednici održanoj 30. studenoga 2023. godine, donijelo je
