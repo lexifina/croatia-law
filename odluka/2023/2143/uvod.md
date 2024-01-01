@@ -1,0 +1,1 @@
+Na temelju članka 20. stavak 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23) te članka 32. Statuta Općine Vrbje (»Službeni glasnik Općine Vrbje« br. 3/18 i 2/21) Općinsko vijeće Općine Vrbje na 13. sjednici održanoj 27. studenoga 2023. godine, donijelo je
