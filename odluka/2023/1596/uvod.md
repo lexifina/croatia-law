@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 4. Zakona o Središnjem registru osiguranika (»Narodne novine«, br. 159/13, 39/18 i 21/22), ministar rada, mirovinskoga sustava, obitelji i socijalne politike u suradnji s ministrom financija, donosi
