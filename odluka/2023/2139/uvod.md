@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Velika (»Službeno glasilo Općine Velika« broj 2/22), Općinsko vijeće Općine Velika na 16. sjednici održanoj 30. listopada 2023. godine donijelo je
