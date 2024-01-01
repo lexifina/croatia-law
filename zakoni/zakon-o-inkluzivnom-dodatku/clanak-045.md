@@ -1,0 +1,5 @@
+## Prestanak važenja odredbi drugih propisa
+# Članak 45.
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti članci 50. do 60. Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22., 46/22., 119/22. i 71/23.).
+(2) Danom stupanja na snagu ovoga Zakona prestaju važiti odredbe članka 1. stavka 1. Zakona o tržištu rada (»Narodne novine«, br. 118/18., 32/20. i 18/22.) u dijelu koji se odnosi na novčanu pomoć za nezaposlene osobe s invaliditetom te članka 7. točke 5., članka 70.a i članka 72. stavaka 2. i 3. u dijelu koji se odnosi na novčanu pomoć za nezaposlene osobe s invaliditetom.
+(3) Danom stupanja na snagu ovoga Zakona prestaje važiti članak 12. Zakona o doplatku za djecu (»Narodne novine«, br. 94/01., 138/06., 107/07., 37/08. − Odluka Ustavnog suda Republike Hrvatske, 61/11., 112/12., 82/15. i 58/18.), članak 10. stavak 5., članak 21. stavak 1. u dijelu koji se odnosi na dijete s oštećenjem zdravlja, članak 22. te članak 30.a u dijelu koji se odnosi na ispunjavanje medicinskih uvjeta.

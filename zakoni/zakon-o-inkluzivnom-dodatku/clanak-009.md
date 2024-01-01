@@ -1,0 +1,6 @@
+## Uvjeti za priznavanje prava na inkluzivni dodatak
+# Članak 9.
+(1) Pravo na inkluzivni dodatak u iznosu iz članka 11. stavka 1. točaka 1., 2. i 3. ovoga Zakona priznaje se:
+– odrasloj osobi s tjelesnim, mentalnim, intelektualnim ili osjetilnim oštećenjem kojoj je utvrđen treći ili četvrti stupanj težine invaliditeta − oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja te koja ima status osobe s invaliditetom sukladno zakonu kojim se uređuje registar osoba s invaliditetom
+– djetetu s tjelesnim, mentalnim, intelektualnim ili osjetilnim oštećenjem kojem je utvrđen drugi, treći ili četvrti stupanj težine invaliditeta − oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja bez obzira na status osobe s invaliditetom.
+(2) Pravo na inkluzivni dodatak u iznosu iz članka 11. stavka 1. točaka 4. i 5. ovoga Zakona priznaje se odrasloj osobi i djetetu s tjelesnim, mentalnim, intelektualnim ili osjetilnim oštećenjem kojima je utvrđen drugi ili treći stupanj težine invaliditeta − oštećenja funkcionalnih sposobnosti prema propisima o vještačenju i metodologijama vještačenja bez obzira na status osobe s invaliditetom.
