@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Trpanj (»Službeni glasnik Dubrovačko-neretvanske županije« broj 6/13, 14/13, 7/18, 11/19 - pročišćeni tekst, 7/20 i 4/21), Općinsko vijeće Općine Trpanj na svojoj 10. sjednici održanoj 30. listopada 2023. godine donijelo je
