@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Biskupija(»Službeni vjesnik Šibensko-kninske županije«, broj 9/09, 4/11, 8/12, 4/13, 2/18, 5/19, 3/20 i 3/21), Općinsko vijeće Općine Biskupija, na 19. sjednici, održanoj 30. studenoga 2023 godine, donijelo je
