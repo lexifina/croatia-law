@@ -1,0 +1,1 @@
+Na temelju odredbe članka 41. stavka 4. i članka 42. stavka 1., a u vezi s člankom 20. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 34. stavka 1. podstavka 20. Statuta Općine Dragalić (»Službeni glasnik«, broj 3/18 i 4/21), Općinsko vijeće Općine Dragalić, na 17. sjednici održanoj 28. studenoga 2023. godine, donosi
