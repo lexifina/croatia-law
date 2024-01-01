@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« 115/16, 101/17, 114/22, 114/23) i članka 32. Statuta Općine Pušća (»Službeni glasnik Općine Pušća«, broj 1/18, 2/20 i 2/21), Općinsko vijeće Općine Pušća na 19. sjednici održanoj dana 16. studenoga 2023. godine donosi
