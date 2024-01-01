@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavak 1. Zakona o porezu na dohodak (»Narodne novine«, broj 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i članka 25. Statuta Općine (»Službeni glasnik Općine Lastovo«, broj 3/09., 1/13., 2/13., 5/18., 6/20., 7/20. - pročišćeni tekst i 2/21.), Općinsko vijeće Općine Lastovo na 19. sjednici održanoj 13. prosinca 2023. godine donosi
