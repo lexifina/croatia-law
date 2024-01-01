@@ -1,0 +1,2 @@
+# Članak 14.
+Postupci utvrđivanja i naplate poreza započeti po odredbama Odluke o općinskim porezima Općine Lanišće (»Narodne novine«, broj 129/19. i »Službene novine Istarske županije«, broj 28/19.), koji nisu dovršeni do stupanja na snagu ove Odluke, dovršit će se prema odredbama Odluke o općinskim porezima Općine Lanišće (»Narodne novine«, broj 129/19. i »Službene novine Istarske županije«, broj 28/19.).

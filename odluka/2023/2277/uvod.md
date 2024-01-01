@@ -1,0 +1,1 @@
+Na temelju članka 42., a u svezi s člankom 20. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16., 101/17., 114/22. i 114/23.) i članka 41. Statuta Općine Lanišće (»Službene novine Općine Lanišće«, broj 6/17. i »Službene novine Istarske županije«, broj 9/18., 7/21., 20/21. i 22/21.), Općinsko vijeće Općine Lanišće na sjednici održanoj 30. studenoga 2023. godine donosi
