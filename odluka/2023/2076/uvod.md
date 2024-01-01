@@ -1,0 +1,1 @@
+Na temelju odredbi članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 34. Statuta Grada Pakraca (»Službeni glasnik Grada Pakraca« broj 3/21), Gradsko vijeće Grada Pakraca, na svojoj 16. sjednici održanoj 28. studenoga 2023. godine donosi
