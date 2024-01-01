@@ -1,0 +1,6 @@
+## Dužnost čuvanja tajnosti podataka i poštivanja privatnosti
+# Članak 21.
+(1) Državni službenik dužan je čuvati kao tajnu sve podatke koje je doznao tijekom postupka o strankama i njihovim pravima, obvezama i pravnim interesima, sukladno zakonu.
+(2) Državni službenik dužan je čuvati tajnost klasificiranih podataka u skladu sa zakonom kojim se uređuje tajnost podataka. Obveza čuvanja tajnosti klasificiranih podataka traje za vrijeme i nakon prestanka obavljanja državne službe, sve dok je podatak utvrđen jednim od stupnjeva tajnosti ili dok se odlukom nadležnog tijela u okviru čijeg djelovanja je klasificirani podatak nastao ne oslobodi obveze čuvanja tajnosti podataka.
+(3) Državni službenik dužan je čuvati poslovnu ili profesionalnu tajnu utvrđenu zakonom ili drugim propisom. Obveza čuvanja poslovne ili profesionalne tajne traje i nakon prestanka državne službe, a najduže pet godina od prestanka službe, ako posebnim zakonom nije drukčije određeno.
+(4) Čelnik državnog tijela može državnog službenika osloboditi obveze čuvanja poslovne ili profesionalne tajne u sudskom ili upravnom postupku ako se radi o podacima bez kojih u tom postupku nije moguće utvrditi činjenično stanje i donijeti zakonitu odluku.

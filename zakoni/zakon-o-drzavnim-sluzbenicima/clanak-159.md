@@ -1,0 +1,4 @@
+## Odbor za državnu službu
+# Članak 159.
+(1) Odbor za državnu službu ustrojen prema Zakonu o državnim službenicima (»Narodne novine«, br. 92/05., 140/05., 142/06., 77/07., 107/07., 27/08., 34/11., 49/11., 150/11., 34/12., 49/12., 37/13., 38/13., 01/15., 138/15., 61/17., 70/19., 98/19. i 141/22.) nastavlja s radom kao Odbor za državnu službu ustrojen ovim Zakonom.
+(2) Predsjednik i članovi Odbora za državnu službu zatečeni na dužnosti na dan stupanja na snagu ovoga Zakona nastavljaju s radom do isteka vremena na koje su imenovani.

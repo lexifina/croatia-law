@@ -1,0 +1,6 @@
+## Zadržavanje prava prema prijašnjim propisima
+# Članak 170.
+(1) Rukovodeći državni službenici koje je imenovala Vlada na temelju javnog natječaja, zatečeni na dužnosti na dan stupanja na snagu ovoga Zakona, ostaju na dužnosti do isteka vremena na koje su imenovani i zadržavaju koeficijent složenosti poslova utvrđen prema dotadašnjim propisima do isteka vremena na koje su imenovani, ako je to za njih povoljnije.
+(2) Državni službenici i namještenici zatečeni u državnoj službi na dan stupanja na snagu ovoga Zakona, osim rukovodećih državnih službenika iz stavka 1. ovoga članka, nastavljaju raditi na svojim dotadašnjim radnim mjestima te zadržavaju pravo na plaću prema dotadašnjim propisima, do stupanja na snagu uredbe iz članka 47. ovoga Zakona.
+(3) Na državne službenike i namještenike koji se zaposle nakon stupanja na snagu ovoga Zakona, a prije stupanja na snagu uredbe iz članka 47. ovoga Zakona, primjenjivat će se dotadašnji propisi kojima su propisani nazivi radnih mjesta i plaće državnih službenika i namještenika.
+(4) Državni službenici ovlašteni za obavljanje poslova rukovodećeg državnog službenika iz članka 50. ovoga Zakona zadržavaju koeficijent za obračun plaće utvrđen prema dotadašnjim propisima.

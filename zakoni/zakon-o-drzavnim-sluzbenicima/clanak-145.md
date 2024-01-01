@@ -1,0 +1,4 @@
+## Smanjenje radne sposobnosti
+# Članak 145.
+(1) Ako kod državnog službenika postoji smanjenje radne sposobnosti uz preostalu radnu sposobnost, smanjenje radne sposobnosti uz djelomični gubitak radne sposobnosti ili neposredna opasnost od nastanka smanjenja radne sposobnosti koju je utvrdilo ovlašteno tijelo u skladu s posebnim propisom, uzimajući u obzir nalaz i mišljenje toga tijela, državno tijelo u kojem je državni službenik zaposlen dužno je rasporediti službenika na radno mjesto na kojem se obavljaju poslovi za koje je radno sposoban, a koji moraju što je više moguće odgovarati poslovima na kojima je državni službenik prethodno radio.
+(2) Ako u državnom tijelu nema radnog mjesta na koje se državni službenik iz stavka 1. ovoga članka može rasporediti, odgovarajuće se primjenjuju odredbe ovoga Zakona o stavljanju državnih službenika na raspolaganje Vladi.

@@ -1,0 +1,8 @@
+## Prijam u službu na određeno vrijeme u prijelaznom razdoblju
+# Članak 165.
+(1) U razdoblju od dana stupanja na snagu ovoga Zakona do 1. srpnja 2024. oglas za prijam u službu na određeno vrijeme raspisuje se u skladu s Odlukom o zabrani novog zapošljavanja državnih službenika i namještenika u tijelima državne uprave te uredima i drugim stručnim službama Vlade Republike Hrvatske (»Narodne novine«, br. 35/22. i 37/23.).
+(2) Osobe se u državnu službu na određeno vrijeme primaju putem oglasa, ako ovim Zakonom nije drukčije određeno. Oglas se objavljuje putem nadležne službe za zapošljavanje, na mrežnim stranicama državnog tijela koje raspisuje oglas i mrežnim stranicama tijela državne uprave nadležnog za službeničke odnose. Rok za podnošenje prijave na oglas je osam dana od dana objave oglasa na mrežnim stranicama tijela državne uprave nadležnog za službeničke odnose.
+(3) Za slobodno radno mjesto na određeno vrijeme oglas se ne mora objaviti ako u državnom tijelu ima državnih službenika primljenih u državnu službu na određeno vrijeme koji ispunjavaju uvjete za to radno mjesto.
+(4) Rješenje o prijmu u državnu službu na određeno vrijeme dostavlja se javnom objavom na mrežnim stranicama državnog tijela koje je raspisalo oglas i mrežnim stranicama tijela državne uprave nadležnog za službeničke odnose. Dostava svim kandidatima smatra se obavljenom istekom osmoga dana od dana objave na mrežnim stranicama tijela državne uprave nadležnog za službeničke odnose.
+(5) Žalba protiv rješenja o prijmu u državnu službu na određeno vrijeme ne odgađa izvršenje rješenja.
+(6) Na obustavu i poništavanje oglasa za prijam u službu na određeno vrijeme odgovarajuće se primjenjuju odredbe članaka 163. i 164. ovoga Zakona.

@@ -1,0 +1,8 @@
+## Dužnost prijavljivanja mogućeg sukoba interesa
+# Članak 36.
+(1) Državni službenik dužan je pisanim putem obavijestiti nadređenu osobu o financijskom ili drugom interesu koji on, njegov bračni ili izvanbračni drug, životni partner odnosno neformalni životni partner, dijete ili roditelj može imati u odlukama tijela u kojem radi.
+(2) Državni službenik dužan je pisanim putem obavijestiti nadređenu osobu o fizičkim i pravnim osobama te obiteljskom poljoprivrednom gospodarstvu s kojim je bio u poslovnom odnosu u razdoblju od dvije godine prije prijma u službu, a prema kojima tijelo u kojem radi obavlja upravne poslove.
+(3) Državni službenik dužan je pisanim putem obavijestiti nadređenu osobu o vlasništvu dionica i obveznica ili financijskim i drugim interesima u trgovačkim društvima prema kojima tijelo u kojem radi obavlja upravne poslove, a što bi moglo predstavljati uzrok sukoba interesa.
+(4) Na dan početka rada u državnom tijelu državni službenik dužan je pisanim putem obavijestiti nadređenu osobu obavlja li njegov bračni ili izvanbračni drug, životni partner odnosno neformalni životni partner, dijete ili roditelj najviše dužnosti u strukovnom udruženju, trgovačkom društvu ili drugoj pravnoj osobi koja je u poslovnom odnosu s tijelom u kojem državni službenik preuzima dužnost ili ono nad njima obavlja nadzor.
+(5) Nadređena osoba ispitat će okolnosti navedene u pisanoj obavijesti iz stavaka 1. – 4. ovoga članka i o tome obavijestiti čelnika tijela. Ako te okolnosti dovode ili mogu dovesti do sukoba interesa, čelnik tijela donijet će odluku o izuzimanju državnog službenika od rada na određenim poslovima.
+(6) Odluka o izuzimanju državnog službenika od rada na određenim poslovima unosi se u osobni dosje državnog službenika.

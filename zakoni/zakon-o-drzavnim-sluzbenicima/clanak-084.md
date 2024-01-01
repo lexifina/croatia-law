@@ -1,0 +1,7 @@
+## Premještaj državnih službenika
+# Članak 84.
+(1) Državni službenik može po potrebi službe biti premješten na drugo radno mjesto u istom državnom tijelu, u istom ili drugom mjestu rada, ali samo na radno mjesto za koje je propisana ista razina obrazovanja i potrebno radno iskustvo u jednakom trajanju.
+(2) Državni službenik ne može biti premješten po potrebi službe na radno mjesto za koje je propisana niža razina obrazovanja ili propisano radno iskustvo u kraćem trajanju.
+(3) Iznimno, državni službenik može, uz njegovu suglasnost, biti premješten na radno mjesto za koje je propisano radno iskustvo u kraćem trajanju.
+(4) Premještaj po potrebi službe temelji se na slobodnoj ocjeni čelnika tijela o potrebi da se državni službenik premjesti s jednog radnog mjesta na drugo, a osobito u slučajevima: popunjavanja upražnjenog radnog mjesta čiji se poslovi moraju obavljati bez prekida, potrebe povećanja broja izvršitelja zbog povećanog opsega posla, bolje organizacije rada, potrebe za angažiranjem drugog državnog službenika na određenom radnom mjestu radi pravodobnog i efikasnijeg obavljanja određenih poslova i zadataka. Potreba službe mora biti obrazložena.
+(5) Državnog službenika ne može se bez njegove suglasnosti premjestiti iz jednog u drugo mjesto rada, koje je udaljeno više od 50 kilometara od mjesta stanovanja državnog službenika ako bi se premještajem bitno pogoršale njegove obiteljske prilike.

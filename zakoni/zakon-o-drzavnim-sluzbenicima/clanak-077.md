@@ -1,0 +1,7 @@
+## Rješenje o rasporedu na radno mjesto
+# Članak 77.
+(1) Po izvršnosti rješenja o prijmu u državnu službu izabranog kandidata donosi se rješenje o rasporedu na radno mjesto.
+(2) U rješenju o rasporedu navode se podaci o kandidatu primljenom u državnu službu (ime i prezime, OIB, razina obrazovanja i struka, ukupni radni staž, radno iskustvo na odgovarajućim poslovima), radno mjesto na koje se raspoređuje, vrijeme trajanja službe, trajanje probnog rada, datum početka rada, podaci o plaći te podatak o položenom državnom ispitu odnosno obvezi polaganja državnog ispita propisane razine za radno mjesto na koje se raspoređuje i rok za polaganje državnog ispita ako ga nije položio te podatak o drugim obvezama propisanima posebnim zakonima.
+(3) Osoba primljena u državnu službu postaje državni službenik danom početka rada. Dan početka rada utvrđen rješenjem o rasporedu na radno mjesto može se zbog opravdanih razloga odgoditi, a najduže za tri mjeseca, o čemu se donosi posebno rješenje.
+(4) Ako osoba primljena u državnu službu ne počne raditi određenog dana odnosno u slučaju odustanka izabranog kandidata od prijma u državnu službu, može se obaviti izbor između preostalih kandidata koji su na provedenom testiranju i intervjuu ostvarili najbolje rezultate. Ako nema kandidata koji su zadovoljili na intervjuu, može se provesti novi intervju s drugim kandidatima koji su zadovoljili na testiranju i ispunjavaju uvjete za to radno mjesto.
+2. PROBNI RAD

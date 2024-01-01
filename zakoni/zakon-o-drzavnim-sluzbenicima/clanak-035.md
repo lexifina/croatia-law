@@ -1,0 +1,5 @@
+## Mogućnost obavljanja dodatnog posla
+# Članak 35.
+(1) Državni službenik može izvan redovitoga radnog vremena, nakon prethodno pribavljenog odobrenja čelnika državnog tijela ili osobe koju on za to ovlasti, obavljati poslove ili pružati usluge pravnoj osobi, fizičkoj osobi ili obiteljskom poljoprivrednom gospodarstvu samo ako nad tim djelatnostima odnosno nad radom te pravne osobe, fizičke osobe ili obiteljskog poljoprivrednoga gospodarstva državno tijelo u kojemu je u službi ne obavlja nadzor ili ako takav rad nije zabranjen posebnim zakonom te ne predstavlja sukob interesa ili prepreku za uredno obavljanje redovitih zadataka niti šteti ugledu državne službe.
+(2) Odobrenje iz stavka 1. ovoga članka nije potrebno za objavljivanje stručnih članaka i autorskih publikacija odnosno za obavljanje poslova povremenog predavača na stručnim seminarima i savjetovanjima.
+(3) O zahtjevu državnog službenika za davanje odobrenja iz stavka 1. ovoga članka čelnik tijela ili osoba koju on za to ovlasti odlučuje odlukom.
