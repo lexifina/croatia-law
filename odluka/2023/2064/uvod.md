@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članaka 32. Statuta Grada Glina (»Službeni vjesnik« 81/23), Gradsko vijeće Grada Gline na 16. sjednici održanoj 27. studenoga 2023. donijelo je
