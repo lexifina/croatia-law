@@ -1,0 +1,1 @@
+Na temelju članka 19. a) Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) te članka 31. Statuta Općine Goričan (»Službeni glasnik Međimurske županije« br. 5/13, 9/18 i 8/21), Općinsko vijeće Općine Goričan na 18. sjednici održanoj 29. studenoga 2023. donijelo je
