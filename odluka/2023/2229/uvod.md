@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Grada Kastva (Službene novine Primorsko-goranske županije, br. 4/18, 36/18 i Službene novine Grada Kastva broj 5/20 i 3/21), Gradsko vijeće Grada Kastva na 24. sjednici održanoj 30. studenoga 2023. godine, donijelo je
