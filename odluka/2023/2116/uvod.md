@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23), članka 48. Statuta Općine Lobor (»Službeni glasnik Krapinsko-zagorske županije«, broj 7/13, 11/18, 6/20 i 11/21), Općinsko vijeće Općine Lobor na 24. sjednici održanoj 30. studenoga 2023. godine donijelo je
