@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, i 114/23) i članka 32. Statuta Općine Marijanci (»Službeni glasnik Općine Marijanci« br. 1/2018, 2/2021), Općinsko vijeće Općine Marijanci na 18. sjednici održanoj 19. prosinca 2023. godine, donosi
