@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i 18. Statuta Grada Križevaca (»Službeni vjesnik Grada Križevaca«, broj: 4/09, 1/13, 1/16, 1/18, 3/18. - pročišćeni tekst, 1/21 i 3/22), Gradsko vijeće Grada Križevaca na 18. sjednici održanoj 13. prosinca 2023. donijelo je
