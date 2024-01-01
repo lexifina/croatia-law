@@ -1,0 +1,1 @@
+Na temelju članka 20. Zakona o lokalnim porezima (»Narodne novine« broj 115/16 i 101/17) i članka 36. Statuta (»Službeni glasnik Grada Splita« broj 17/09, 11/10, 18/13, 39/13, 46/13, 11/18, 6/20 i 41/21) Gradsko vijeće Grada Splita na 6. sjednici održanoj 21. listopada 2021. godine, donosi
