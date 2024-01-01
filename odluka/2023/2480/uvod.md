@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 26. Statuta Općine Radoboj (»Službeni glasnik Krapinsko-zagorske županije« broj 16/09, 10/13, 7/14, 12/18 i 14/20, 13/21), Općinsko vijeće Općine Radoboj na 16. sjednici održanoj 20. prosinca 2023. godine donijelo je
