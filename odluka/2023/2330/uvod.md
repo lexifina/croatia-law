@@ -1,0 +1,1 @@
+Na temelju čl. 19.a, a u svezi s čl. 19. Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i i 114//23. - u daljnjem tekstu: Zakon), i članka 47. Statuta Grada Duge Rese (»Glasnik Grada Duge Rese« br. 6/18 - pročišćeni tekst, 2/20 i 2/21), Gradsko vijeće Grada Duge Rese na sjednici održanoj 14. prosinca 2023. godine donijelo je
