@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Šodolovci (»Službeni glasnik općine Šodolovci« broj 2/21) Općinsko vijeće Općine Šodolovci na svojoj 19. sjednici održanoj 15. prosinca 2023. godine donosi
