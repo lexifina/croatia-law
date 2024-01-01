@@ -1,0 +1,1 @@
+Na temelju članka 20. i 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 42. stavka 1. alineje 9. Statuta Grada Daruvara (»Službeni glasnik Grada Daruvara«, broj 1/2021), Gradsko vijeće Grada Daruvara na 19. sjednici održanoj 29. studenoga 2023. godine donijelo je
