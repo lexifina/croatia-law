@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 151/22, 114/23) i članka 31. Statuta Općine Orebić (Sl. gl. 02/13, 03/18, 02/20, 06/20 - pročišćeni tekst, 03/21) Općinsko vijeće Općine Orebić na 19. sjednici održanoj 13. prosinca 2023. donijelo je
