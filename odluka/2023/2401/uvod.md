@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 34. Statuta Grada Komiže (»Službeni glasnik Grada Komiže« br. 01/21), Gradsko vijeće Grada Komiže na svojoj 19. sjednici održanoj 12. prosinca 2023. godine, donijelo je
