@@ -1,0 +1,1 @@
+Na temelju članka 61. stavka 6. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 110/21.) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« broj 66/19.) ministrica poljoprivrede, uz prethodnu suglasnost ministra nadležnog za europske poslove, donosi
