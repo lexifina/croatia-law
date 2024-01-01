@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/2016, 101/17, 114/22, 114/23) i članka 29. Statuta Općine Donja Voća (»Službeni vjesnik Varaždinske županije« broj 19/21) Općinsko vijeće Općine Donja Voća na 23. sjednici održanoj 29. studenoga 2023. godine, donosi
