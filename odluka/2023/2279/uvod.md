@@ -1,0 +1,1 @@
+Na temelju članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16., 101/17., 114/22. i 114/23.) i članka 25. Statuta Općine (»Službeni glasnik Općine Lastovo«, broj 3/09., 1/13., 2/13., 5/18., 6/20., 7/20. - pročišćeni tekst i 2/21.), Općinsko vijeće Općine Lastovo na 19. sjednici održanoj 13. prosinca 2023. godine, donosi
