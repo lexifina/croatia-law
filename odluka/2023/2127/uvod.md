@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 18. Statuta Općine Oprtalj - Portole (»Službene novine Općine Oprtalj - Portole« broj 2/21), Općinsko vijeće Općine Oprtalj - Portole na svojoj sjednici održanoj 24. studenoga 2023. godine donosi
