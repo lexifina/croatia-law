@@ -1,0 +1,1 @@
+Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22, 114/23) i članka 33.. Statuta Općine Tounj (»Glasnik Karlovačke županije« broj 12/21, 11/22), na temelju prijedloga općinskog načelnika, Općinsko vijeće Općine Tounj na sjednici održanoj 28. studenoga 2023. godine donosi
