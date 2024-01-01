@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22 i 114/23) i članka 34. Statuta Grada Vodnjana - Dignano (»Službene novine Grada Vodnjana - Dignano« broj 02/09, 02/10, 02/13, 02/18, 02/21, 07/22, 15/22 - pročišćeni tekst i 16/23), Gradsko vijeće Grada Vodnjana - Dignano, na 25. sjednici, održanoj 15. prosinca 2023. godine, donosi
