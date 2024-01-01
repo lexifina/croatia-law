@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16, 101/17, 114/22 i 114/23) i članka 31. Statuta Grada Vrbovca (»Glasnik Grada Vrbovca« broj 9/21), Gradsko vijeće Grada Vrbovca na svojoj 20. sjednici održanoj 13. prosinca 2023. godine donijelo je
