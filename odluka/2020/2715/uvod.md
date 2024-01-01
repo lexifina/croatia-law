@@ -1,1 +1,0 @@
-Na temelju članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16 i 101/17) te članka 32. Statuta Grada Kutine (»Službene novine Grada Kutine« br. 6/09, 3/13, 4/13 - pročišćeni tekst, 2/18, 4/18 - pročišćeni tekst i 2/20), Gradsko vijeće Grada Kutine na 35. sjednici održanoj 3. prosinca 2020. godine, donijelo je
