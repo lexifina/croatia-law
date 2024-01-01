@@ -1,0 +1,1 @@
+Na temelju članka 20. i 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22. i 114/23) i članka 31. Statuta Općine Gradina (»Službeni vjesnik Općine Gradina« br. 3/21) Općinsko vijeće Općine Gradina na 7. sjednici održanoj dana 18. prosinca 2023. godine, donosi
