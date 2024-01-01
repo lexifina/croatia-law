@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 20. Statuta Općine Plitvička Jezera (»Službeni glasnik Općine Plitvička Jezera« br. 2/21 i 9/22), Općinsko vijeće Općine Plitvička Jezera na 16. redovnoj sjednici održanoj 13. prosinca 2023. godine donijelo je
