@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 39. Statuta Grada Pula - Pola (»Službene novine - Bolletino ufficiale Pula - Pola«, broj 7/09, 16/09, 12/11, 1/13, 2/18, 2/20, 4/21 i 5/21), Gradsko vijeće Grada Pula - Pola na sjednici održanoj 27. studenoga 2023. godine, donosi
