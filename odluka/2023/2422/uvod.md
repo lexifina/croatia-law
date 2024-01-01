@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/2016, 101/2017, 114/2022, 114/2023) i članka 32. Statuta Grada Novalje (»Županijski glasnik Ličko-senjske županije« broj 08/21 i 31/21), Gradsko vijeće Grada Novalje, na sjednici održanoj 30. studenoga 2023. godine, donijelo je
