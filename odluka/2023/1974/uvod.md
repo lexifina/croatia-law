@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 35. Statuta Općine Štitar (»Službeni vjesnik Vukovarsko-srijemske županije«, broj 03/13, 05/18, 08/20, 05/21 i 03/22) Općinsko vijeće Općine Štitar na 27. sjednici održanoj 22. studenoga 2023. godine, donijelo je
