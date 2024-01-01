@@ -1,0 +1,1 @@
+Na temelju članka 26. stavak 2. i članka 42. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22 i 114/23) i članka 29. Statuta Općine Vrsi (»Službeni glasnik Općine Vrsi«, broj 02/21, 07/21), Općinsko vijeće Općine Vrsi, na 20. sjednici održanoj 24. studenoga 2023. godine donosi
