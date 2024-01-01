@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Dežanovac (»Službeni glasnik Općine Dežanovac«, broj 8/21) Općinsko vijeće Općine Dežanovac na svojoj 15. sjednici održanoj 28. studenoga 2023. godine donijelo je
