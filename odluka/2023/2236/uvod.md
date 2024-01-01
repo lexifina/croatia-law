@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 48. Statuta Grada Sinja (»Službeni glasnik Grada Sinja« broj 2/21), na prijedlog gradonačelnika Grada Sinja Mira Bulja, Gradsko vijeće Grada Sinja na svojoj 22. sjednici, održanoj 29. studenoga 2023., donijelo je
