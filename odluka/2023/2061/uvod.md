@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/2020, 138/20, 151/22 i 114/23) i članka 50. točka 10. Statuta Grada Buja - Buie (»Službene novine Grada Buja« br. 11/09, 5/11, 11/11, 3/13, 5/18, 19/18 - pročišćeni tekst i 4/21), Gradsko vijeće Grada Buja - Buie na sjednici 29. studenoga 2023. godine donijelo je
