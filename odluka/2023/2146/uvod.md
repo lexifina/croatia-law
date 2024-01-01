@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/2016, 106/2018, 121/2019, 32/2020, 138/2020, 151/2022 i 114/23) i članka 29. Statuta Općine Vrsi (»Službeni glasnik Općine Vrsi«, broj 02/21, 07/21), Općinsko vijeće Općine Vrsi, na 20. sjednici održanoj 24. studenoga 2023. godine donosi
