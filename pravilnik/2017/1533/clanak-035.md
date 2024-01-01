@@ -1,4 +1,0 @@
-## Ukidanje odobrenja za programe usavršavanja
-# Članak 35.
-(1) Ako središnje tijelo za javnu nabavu utvrdi da promjene podataka o određenom programu usavršavanja o kojima ga je izvijestio nositelj programa ili za koje je saznao na drugi način imaju za posljedicu neispunjavanje uvjeta za njegovu provedbu, središnje tijelo za javnu nabavu ukinut će odobrenje za održavanje tog programa usavršavanja.
-(2) U slučaju ukidanja pojedinačnog programa usavršavanja, odgovornost prema već prijavljenim polaznicima je u cijelosti na nositelju programa.
