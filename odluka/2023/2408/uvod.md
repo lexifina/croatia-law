@@ -1,0 +1,1 @@
+Na temelju članaka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) te članka 39. stavka 1. podstavka 5. Statuta Grada Požege (»Službene novine Grada Požege«, broj 2/21. i 11/22.), Gradsko vijeće Grada Požege, na svojoj 24. sjednici, održanoj 14. prosinca 2023. godine, donosi
