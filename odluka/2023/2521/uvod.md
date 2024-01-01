@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Grada Nina (»Službeni glasnik Grada Nina« br. 3/18 - pročišćeni tekst, 6/21 i 9/21), Gradsko vijeće Grada Nina na 19. sjednici održanoj 14. prosinca 2023. godine donosi
