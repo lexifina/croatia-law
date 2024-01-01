@@ -1,0 +1,1 @@
+Na temelju članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22, 114/23) i Statuta Općine Rugvica (»Službeni glasnik Općine Rugvica« broj 3/18,2/21), Općinsko vijeće Općine Rugvica na svojoj 21. sjednici održanoj 21. prosinca 2023. godine donijelo je
