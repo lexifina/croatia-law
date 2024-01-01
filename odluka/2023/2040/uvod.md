@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Čačinci (»Službeni glasnik Općine Čačinci« broj 1/21 i 1/23), Općinsko vijeće Općine Čačinci na 15. sjednici održanoj 30. studenoga 2023. godine donijelo je
