@@ -1,0 +1,1 @@
+Na temelju članka 42. stavak 1. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23) te članka 32. Statuta Grada Kutine (»Službene novine Grada Kutine« br. 5/23), Gradsko vijeće Grada Kutine na 22. sjednici održanoj 28. studenoga 2023. godine donijelo je
