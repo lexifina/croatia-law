@@ -1,0 +1,1 @@
+Na temelju članka 42. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine« 33/01, 60/01, 129/05, 109/07, 125/08, 36/09, 150/11, 144/12, 19/13, 137/15, 123/17, 98/19, 144/20) i članka 46. Statuta Grada Oroslavja (»Službeni glasnik Krapinsko-zagorske županije« broj: 16/09, 13/13, 19/18, 21/20 i 23/21), gradonačelnik Grada Oroslavja donosi
