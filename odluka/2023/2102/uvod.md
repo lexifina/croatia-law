@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 23. Statuta Općine Brckovljani (»Službeni glasnik Općine Brckovljani« broj 01/18, 02/20, 09/20, 02/21, 04/22, 05/23), Općinsko vijeće Općine Brckovljani na sjednici održanoj 21. studenoga 2023. godine donijelo je
