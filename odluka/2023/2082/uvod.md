@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 45. Statuta Grada Varaždina (»Službeni vjesnik Grada Varaždina« broj 3/18, 2/20, 2/21 i 4/21 - pročišćeni tekst 13/22 i 10/23), Gradsko vijeće Grada Varaždina, na 5. sjednici održanoj 28. studenoga 2023. godine, donosi
