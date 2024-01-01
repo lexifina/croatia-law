@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 35. Statuta Općine Semeljci (»Službeni glasnik Općine Semeljci«, broj 2/13, 1/18, 2/20, 3/20 - pročišćeni tekst i 3/21), Općinsko vijeće Općine Semeljci na 26. sjednici održanoj 28. studenoga 2023. godine, donosi
