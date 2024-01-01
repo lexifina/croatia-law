@@ -1,0 +1,1 @@
+Na temelju čl. 41. st. 4. i čl. 42. st. 1., a u svezi s čl. 20. Zakona o lokalnim porezima (»Narodne novine« 115/16, 101/17, 114/22 i 114/23) te članka 33. Statuta Grada Velike Gorice (»Službeni glasnik Grada Velike Gorice« br. 1/21), Gradsko vijeće Grada Velike Gorice na 14. sjednici održanoj 1. prosinca 2023. godine donosi

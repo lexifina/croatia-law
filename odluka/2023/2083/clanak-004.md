@@ -1,0 +1,4 @@
+# Članak 4.
+Obveznik poreza na kuće za odmor mora nadležnom poreznom tijelu dostaviti podatke o kući za odmor koji se odnose na mjesto gdje se nalazi taj objekt te korisnu površinu, kao i podatke o poreznom obvezniku.
+Podatke iz stavka 1. ovog članka treba dostaviti do 31. ožujka godine za koje se utvrđuje porez na kuće za odmor.
+Porez na kuće za odmor plaća se u roku od 15 dana od dana dostave rješenja o utvrđivanju toga poreza.
