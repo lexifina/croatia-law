@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16., 106/18., 121/19., 32/20., 138/20., 151/22 i 114/23.) i članka 27. Statuta Općine Molve (»Službeni glasnik Općine Molve« broj 2/20., 3/21., 8/23. i 11/23. - pročišćeni tekst) Općinsko vijeće Općine Molve na 30. sjednici održanoj 13. studenoga 2023. donijelo je
