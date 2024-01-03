@@ -1,0 +1,5 @@
+# Članak 5.
+Naslov iznad članka 122.s mijenja se i glasi: »Utvrđivanje države članice ili druge jurisdikcije rezidentnosti prodavatelja«.
+Članak 122.s mijenja se i glasi:
+»(1) Operater platforme koji izvješćuje smatra prodavatelja rezidentom u državi članici ili drugoj jurisdikciji u kojoj se nalazi primarna adresa. Ako država članica ili druga jurisdikcija rezidentnosti prodavatelja nije država članica ili druga jurisdikcija primarne adrese prodavatelja, operater platforme koji izvješćuje smatra prodavatelja rezidentom i u državi članici izdavanja PIB-a. Ako je prodavatelj dostavio informacije o postojanju stalne poslovne jedinice na temelju članka 122.p stavka 2. točke 7. ovoga Pravilnika, operater platforme koji izvješćuje smatra prodavatelja rezidentom i u državi članici kako je naveo prodavatelj.
+(2) Neovisno o stavku 1. ovoga članka, operater platforme koji izvješćuje smatra prodavatelja rezidentom u svakoj državi članici ili drugoj jurisdikciji koja je potvrđena pomoću usluge elektroničke identifikacije koju su države članice, druge jurisdikcije ili Europska unija stavile na raspolaganje na temelju članka 122.p stavka 3. ovoga Pravilnika.«.
