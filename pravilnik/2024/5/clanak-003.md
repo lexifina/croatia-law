@@ -1,0 +1,3 @@
+## ZAVRŠNE ODREDBE
+# Članak 3.
+Ovaj Pravilnik objavljuje se u »Narodnim novinama« i stupa na snagu dan nakon objave u »Narodnim novinama«.
