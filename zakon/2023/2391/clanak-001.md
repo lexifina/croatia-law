@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o potrošačkom kreditiranju (»Narodne novine«, br. 75/09., 112/12., 143/13., 147/13., 9/15., 78/15., 102/15., 52/16. i 128/22.) članak 1.a mijenja se i glasi:
+»Ovim se Zakonom u pravni poredak Republike Hrvatske prenosi Direktiva 2008/48/EZ Europskog parlamenta i Vijeća od 23. travnja 2008. o ugovorima o potrošačkim kreditima te stavljanju izvan snage Direktive Vijeća 87/102/EE, kako je posljednji put izmijenjena Direktivom (EU) 2021/2167 Europskog parlamenta i Vijeća od 24. studenoga 2021. o pružateljima usluge servisiranja kredita i kupcima kredita te izmjeni direktiva 2008/48/EZ i 2014/17/EU (SL L 438/1, 8. 12. 2021.) (Tekst značajan za EGP).«.
