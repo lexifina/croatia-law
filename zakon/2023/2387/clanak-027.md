@@ -1,0 +1,2 @@
+# Članak 27.
+Postupci zasnivanja radnih odnosa u školskim ustanovama, započeti prije stupanja na snagu ovoga Zakona, dovršit će se prema odredbama članka 107. Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi (»Narodne novine«, br. 87/08., 86/09., 92/10., 105/10. - ispravak, 90/11., 5/12., 16/12., 86/12., 126/12. - pročišćeni tekst, 94/13., 152/14., 7/17., 68/18., 98/19., 64/20. i 151/22.).

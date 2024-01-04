@@ -1,0 +1,7 @@
+# Članak 20.
+Članak 111. mijenja se i glasi:
+»(1) Republika Hrvatska kao punopravna članica Europske unije sudjeluje u upravljanju i radu europskih škola te upućuje odgojno-obrazovne radnike na rad u europske škole.
+(2) Odgojno-obrazovni radnik koji je prije upućivanja na rad iz stavka 1. ovoga članka imao zasnovan radni odnos na puno neodređeno vrijeme, ima pravo povratka na rad, na poslove koje je obavljao prije upućivanja, bez provedbe javnog natječaja, sukladno sporazumu između radnika i poslodavca.
+(3) Odgojno-obrazovni radnik izabran za rad u hrvatskoj nastavi u inozemstvu ili osoba koja je izabrana za lektora hrvatskog jezika i književnosti na visokoškolskoj ustanovi u inozemstvu, a koja je prije upućivanja imala zasnovan radni odnos u školskoj ustanovi na neodređeno vrijeme, ima pravo povratka na rad, na poslove koje je obavljala prije upućivanja, bez provedbe javnog natječaja, sukladno sporazumu između radnika i poslodavca.
+(4) Radnik iz stavaka 1. i 3. ovoga članka ima se pravo vratiti na rad u školsku ustanovu u kojoj je prethodno radio ako o svojoj namjeri povratka obavijesti školsku ustanovu najkasnije u roku od sedam dana od dana prestanka trajanja izbora iz stavaka 1. i 3. ovoga članka.
+(5) Ako radnik iskoristi pravo iz stavaka 2. i 3. ovoga članka, ima pravo povratka na poslove na kojima je prethodno radio u roku od sedam dana od dana dostave obavijesti iz stavka 4. ovoga članka.«.
