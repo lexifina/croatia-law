@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o stambenom potrošačkom kreditiranju (»Narodne novine«, br. 101/17. i 128/22.) članak 2. mijenja se i glasi:
+»Ovim Zakonom se u pravni poredak Republike Hrvatske prenosi Direktiva 2014/17/EU Europskog parlamenta i Vijeća od 4. veljače 2014. o ugovorima o potrošačkim kreditima koji se odnose na stambene nekretnine i o izmjeni direktiva 2008/48/EZ i 2013/36/EU i Uredbe (EU) br. 1093/2010, kako je posljednji put izmijenjena Direktivom (EU) 2021/2167 Europskog parlamenta i Vijeća od 24. studenoga 2021. o pružateljima usluge servisiranja kredita i kupcima kredita te izmjeni direktiva 2008/48/EZ i 2014/17/EU (SL L 438/1 8. 12. 2021.) (Tekst značajan za EGP).«.
