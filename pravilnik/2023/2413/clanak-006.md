@@ -1,0 +1,6 @@
+## Zahtjev za prijenos neutrošenih namjenskih prihoda i primitaka te vlastitih prihoda
+# Članak 6.
+(1) Namjenski prihodi i primici te vlastiti prihodi koji nisu iskorišteni u prethodnoj godini prenose se u tekuću proračunsku godinu u skladu s odredbama Zakona o proračunu, a na zahtjev proračunskog korisnika.
+(2) Proračunski korisnik dužan je do datuma propisanog zakonom o izvršavanju državnog proračuna dostaviti Ministarstvu financija Zahtjev za prijenos neutrošenih namjenskih prihoda i primitaka te vlastitih prihoda.
+(3) Zahtjev iz stavka 2. ovoga članka treba sadržavati popunjeni izvještaj Zahtjev za prijenos neutrošenih prihoda i primitaka te popratni dopis uz pisanu izjavu da su provedena sva potrebna preknjiženja i da iznosi za prijenos namjenskih prihoda i primitaka te vlastitih prihoda koji nisu iskorišteni u prethodnoj godini u izvještaju iz informacijskog sustava državne riznice odgovaraju iznosima sadržanim u računovodstvenim evidencijama kod proračunskog korisnika.
+(4) Zahtjev iz stavka 2. ovoga članka ovjerava čelnik proračunskog korisnika ili osoba na koju je ta ovlast prenesena njegovom odlukom i dostavlja ustrojstvenoj jedinici nadležnoj za izvršavanje državnog proračuna u Ministarstvu financija.

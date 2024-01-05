@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+## Predmet uređenja i obveznici primjene
+# Članak 1.
+(1) Ovim se Pravilnikom propisuju način i uvjeti izvršavanja državnog proračuna i financijskog plana proračunskog korisnika državnog proračuna (u daljnjem tekstu: financijski plan) s jedinstvenog računa državnog proračuna, način povrata neutrošenih i nenamjenski utrošenih sredstava proračunske zalihe na jedinstveni račun državnog proračuna, način povrata pogrešno ili više uplaćenih sredstava s jedinstvenog računa državnog proračuna te način povrata sredstava na jedinstveni račun državnog proračuna.
+(2) Odredbe ovoga Pravilnika odnose se na korisnike utvrđene Registrom proračunskih korisnika državnog proračuna (u daljnjem tekstu: proračunski korisnici) donesenim u skladu s Pravilnikom o utvrđivanju proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave te o načinu vođenja Registra proračunskih i izvanproračunskih korisnika, a koji posluju preko jedinstvenog računa državnog proračuna.
+(3) Iznimno od stavka 2. ovoga članka, članak 17. ovoga Pravilnika odnosi se na proračunske korisnike koji su zakonom o izvršavanju državnog proračuna izuzeti od poslovanja preko jedinstvenog računa državnog proračuna.
