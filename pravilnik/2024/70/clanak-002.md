@@ -1,0 +1,11 @@
+# Članak 2.
+(1) Matični odbor u skladu s člankom 90. stavkom 1. Zakona:
+1. utvrđuje ispunjava li nastavnik odnosno znanstvenik u postupku zapošljavanja na slobodno radno mjesto te izbora u naslovnog nastavnika odnosno znanstvenika na sveučilištu, fakultetu, umjetničkoj akademiji i znanstvenom institutu Nacionalne sveučilišne, znanstvene i umjetničke kriterije
+2. utvrđuje ispunjava li nastavnik odnosno znanstvenik Nacionalne sveučilišne, znanstvene i umjetničke kriterije pri izboru na više radno mjesto odnosno pri reizboru na postojeće radno mjesto na sveučilištu, fakultetu, umjetničkoj akademiji i znanstvenom institutu
+3. predlaže Nacionalnom vijeću znanstvene i umjetničke elemente Nacionalnih sveučilišnih, znanstvenih i umjetničkih kriterija
+4. predlaže Nacionalnom vijeću popis domaćih znanstvenih časopisa koji su kvalitetom izjednačeni s uglednim međunarodnim znanstvenim časopisima za pojedino znanstveno područje i polje, relevantnih za izbor na znanstveno-nastavno, znanstveno i nastavno radno mjesto na sveučilištu, fakultetu, umjetničkoj akademiji i znanstvenom institutu te odgovarajuću umjetničku djelatnost relevantnu za izbor na umjetničko-nastavno radno mjesto
+5. razmatra pitanja važna za pojedino znanstveno ili umjetničko područje i polje.
+(2) Nadležni matični odbor odlukom utvrđuje ispunjava li nastavnik odnosno znanstvenik Nacionalne sveučilišne, znanstvene i umjetničke kriterije najkasnije u roku od 60 dana od dostave odluke nadležnog senata, fakultetskog ili akademijskog vijeća odnosno znanstvenog vijeća kojom se utvrđuje o ispunjavanju kriterija pristupnika na natječaj za izbor na slobodno radno mjesto ili ispunjavanju kriterija kandidata za izbor na hijerarhijski više radno mjesto odnosno za reizbor na postojeće radno mjesto.
+(3) Rok iz stavka 2. ovog članka računa se od dana dostave uredne dokumentacije elektroničkim putem u skladu s člankom 9. i 10. ovoga Pravilnika.
+(4) Nadležni matični odbor odlukom utvrđuje ispunjava li osoba Nacionalne sveučilišne, znanstvene i umjetničke kriterije za izbor odnosno reizbor u naslovnog nastavnika odnosno naslovnog znanstvenika u skladu s odredbama članka 53. Zakona.
+(5) Ako nadležni matični odbor ne donese odluku u roku od 60 dana od dana dostave odluke iz stavka 2. ovog članka, smatra se da pristupnik ispunjava Nacionalne sveučilišne, znanstvene i umjetničke kriterije.

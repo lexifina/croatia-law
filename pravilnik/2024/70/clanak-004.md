@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Matični odbor sastoji se od 9 članova.
+(2) Članovi matičnog odbora imenuju se na četiri godine iz reda redovitih profesora, redovitih profesora u trajnom izboru, znanstvenih savjetnika i znanstvenih savjetnika u trajnom izboru u odgovarajućem polju.
+(3) Iznimno od stavka 2. ovoga članka za matični odbor za Interdisciplinarno područje znanosti, polje Sigurnosne i obrambene znanosti, član matičnog odbora može biti i osoba koja je zaposlena na radnome mjestu redovitog profesora, redovitog profesora u trajnom izboru, znanstvenog savjetnika i znanstvenog savjetnika u trajnom izboru u srodnom polju iz područja društvenih, tehničkih ili prirodnih znanosti.
+(4) Iznimno od stavka 2. ovoga članka za pojedino znanstveno odnosno umjetničko polje član matičnog odbora može biti osoba kojoj je dodijeljen počasni naslov professor emeritus, odnosno znanstvenik emeritus, a bila je zaposlena na znanstveno-nastavnome ili umjetničko-nastavnome radnome mjestu redovitog profesora u trajnom izboru odnosno na znanstvenome radnome mjestu znanstvenog savjetnika u trajnom izboru.
+(5) Članom matičnog odbora ne može biti član Nacionalnog vijeća te čelnik visokog učilišta odnosno znanstvenog instituta.

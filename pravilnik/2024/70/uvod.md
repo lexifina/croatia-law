@@ -1,0 +1,1 @@
+Na temelju članka 90. stavka 4. Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, broj 119/22; u daljnjem tekstu: Zakon), ministar znanosti i obrazovanja na prijedlog Nacionalnog vijeća za visoko obrazovanje, znanost i tehnološki razvoj (u daljnjem tekstu: Nacionalno vijeće) donosi
