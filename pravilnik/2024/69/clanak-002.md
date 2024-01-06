@@ -1,0 +1,11 @@
+## II. ZNANSTVENA PODRUČJA, UMJETNIČKO PODRUČJE, POLJA I GRANE
+## Znanstvena područja i umjetničko područje
+# Članak 2.
+Znanstvena područja su:
+1. PRIRODNE ZNANOSTI
+2. TEHNIČKE ZNANOSTI
+3. BIOMEDICINA I ZDRAVSTVO
+4. BIOTEHNIČKE ZNANOSTI
+5. DRUŠTVENE ZNANOSTI
+6. HUMANISTIČKE ZNANOSTI.
+Dijelovi umjetničkog područja su:

@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 2. Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, broj 119/22; u daljnjem tekstu: Zakon) te na prijedlog Nacionalnog vijeća za visoko obrazovanje, znanost i tehnološki razvoj ministar znanosti i obrazovanja donosi

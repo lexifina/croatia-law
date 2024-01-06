@@ -1,0 +1,5 @@
+## Umjetničko interdisciplinarno područje znanosti i umjetnosti
+# Članak 8.
+Umjetničko interdisciplinarno područje znanosti i umjetnosti moguće je utvrditi samo načelno, kao jedinstveno područje umjetnosti i znanost različitih umjetničkih i znanstvenih polja.
+Umjetnička i znanstvena polja unutar umjetničkoga interdisciplinarnog područja znanosti i umjetnosti utvrđuju se u svakom pojedinom predmetu u postupku izbora na umjetničko-nastavno radno mjesto, odnosno pripadajući izbor u naslovnog nastavnika.
+Umjetnička i znanstvena polja unutar umjetničkoga interdisciplinarnog područja znanosti i umjetnosti uspostavljaju se za svaki pojedini predmet u postupku izbora na umjetničko-nastavno radno mjesto, odnosno naslovnog nastavnika na temelju obrazloženog zahtjeva visokog učilišta koje je započelo postupak izbora. Odluku o utvrđivanju odgovarajućeg polja u umjetničkom interdisciplinarnom području znanosti i umjetnosti donosi nadležni matični odbor za umjetničko interdisciplinarno područje znanosti i umjetnosti.
