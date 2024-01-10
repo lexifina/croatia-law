@@ -1,0 +1,2 @@
+# Članak 39.
+Obrazloženje posebnog dijela financijskog plana proračunskog i izvanproračunskog korisnika sastoji se od obrazloženja programa koje se daje kroz obrazloženje aktivnosti i projekata zajedno s ciljevima i pokazateljima uspješnosti iz akata strateškog planiranja i godišnjeg plana rada.

@@ -1,0 +1,8 @@
+# Članak 16.
+(1) Sažetak Računa prihoda i rashoda i Računa financiranja proračuna iz članka 15. stavka 1. ovoga Pravilnika sadrži prikaz ukupno očekivanih prihoda i primitaka i rashoda i izdataka na razini razreda ekonomske klasifikacije te razliku između očekivanih prihoda i rashoda te primitaka i izdataka.
+(2) Ako ukupni prihodi i primici nisu jednaki ukupnim rashodima i izdacima Sažetak Računa financiranja iz stavka 1. ovoga članka sadrži podatke o prijenosu sredstava iz prethodne godine i prijenosu sredstava u sljedeće razdoblje odnosno podatke o prijenosu viška odnosno manjka iz prethodne godine i prijenosu viška odnosno manjka u sljedeće razdoblje.
+(3) Ako jedinica lokalne i područne (regionalne) samouprave ne može preneseni manjak podmiriti do kraja proračunske godine odnosno preneseni višak, zbog njegove veličine, u cijelosti iskoristiti u jednoj proračunskoj godini proračun jedinice lokalne i područne (regionalne) samouprave sadrži i višegodišnji plan uravnoteženja za razdoblje za koje se proračun donosi.
+(4) Višegodišnji plan uravnoteženja iz stavka 3. ovoga članka sadrži podatke o prijenosu viška/manjka iz prethodne godine, višku/manjku iz prethodne godine koji će se rasporediti/pokriti, višku/manjku tekuće godine i prijenosu viška/manjka u sljedeće razdoblje.
+(5) Format izgleda sažetka Računa prihoda i rashoda i Računa financiranja državnog proračuna dan je u Prilogu 1.a ovoga Pravilnika.
+(6) Format izgleda sažetka Računa prihoda i rashoda i Računa financiranja proračuna jedinice lokalne i područne (regionalne) samouprave i format izgleda višegodišnjeg plana uravnoteženja iz stavka 3. ovoga članka dani su u Prilogu 2.a ovoga Pravilnika.
+1.2. Račun prihoda i rashoda proračuna

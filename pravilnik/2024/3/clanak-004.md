@@ -1,0 +1,13 @@
+# Članak 4.
+Državni proračun planira se i izvršava prema modificiranom novčanom načelu koje znači:
+1. prihodi se planiraju prema proračunskim klasifikacijama u planskom razdoblju u kojem se očekuje njihova naplata, a iskazuju u izvještajnom razdoblju u kojem su naplaćeni,
+2. rashodi se planiraju prema proračunskim klasifikacijama u planskom razdoblju u kojem se očekuje njihovo plaćanje, a iskazuju u izvještajnom razdoblju u kojem su plaćeni, a rashodima se za potrebe planiranja i izvršavanja proračuna i financijskog plana smatraju i troškovi nabave zaliha kratkotrajne nefinancijske imovine u djelatnosti zdravstva te u obavljanju vlastite trgovačke i proizvođačke djelatnosti, koji se očekuju platiti u planskom razdoblju, odnosno koji su plaćeni u izvještajnom razdoblju
+3. dani predujmovi za nabavu robe, radova i usluga planiraju se kao rashod prema proračunskim klasifikacijama u planskom razdoblju u kojem se očekuje njihovo plaćanje, a iskazuju kao rashod u izvještajnom razdoblju u kojem je plaćen predujam
+4. primici se planiraju prema proračunskim klasifikacijama u planskom razdoblju u kojem se očekuje njihova naplata, a iskazuju u izvještajnom razdoblju u kojem su naplaćeni,
+5. izdaci se planiraju prema proračunskim klasifikacijama u planskom razdoblju u kojem se očekuje njihovo plaćanje, a iskazuju u izvještajnom razdoblju u kojem su plaćeni,
+6. za obračunska plaćanja planira se i iskazuje prihod odnosno primitak i rashod odnosno izdatak u planskom odnosno izvještajnom razdoblju u kojem se obračunsko plaćanje provodi,
+7. prihodi vezani uz potraživanje za javna davanja i primici od povrata danih zajmova vezanih uz javni dug koji se naplaćuju prijebojem u financijskoj i nefinancijskoj imovini planiraju se i iskazuju u planskom odnosno izvještajnom razdoblju u kojem se provodi njihova naplata,
+8. rashodi i izdaci za nabavu financijske i nefinancijske imovine vezani uz prijeboje potraživanja za prihode za javna davanja i primitke od povrata danih zajmova vezane uz javni dug planiraju se i iskazuju u planskom odnosno izvještajnom razdoblju u kojem se provodi prijeboj,
+9. novčani tijekovi koji su vezani uz potraživanja (izuzev potraživanja za dane predujmove) i obveze, a nisu prihodi, rashodi, primici ili izdaci, ne planiraju se i ne iskazuju kao prihodi, rashodi, primici ili izdaci, nego u okviru prijenosa sredstava iz prethodne godine i prijenosa sredstava u narednu godinu prema članku 8. ovog Pravilnika,
+10. za primljene i dane donacije nefinancijske imovine ne planira se niti se iskazuje prihod i rashod u trenutku njihovog primanja ili davanja,
+11. ne planira se niti se iskazuje rashod za neto iznos plaće u naravi.
