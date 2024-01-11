@@ -1,0 +1,2 @@
+# Članak 16.
+Operatori koji su vlasnici ili nositelji prava korištenja pristupne točke i fizičke infrastrukture unutar zgrade obvezni su u roku od 90 dana od stupanja na snagu ovoga Pravilnika, dostaviti HAKOM-u u tabličnom prikazu adrese stambenih i poslovnih zgrada u kojima imaju postavljenu fizičku infrastrukturu unutar zgrade s podatkom za koje adrese imaju ugovoreno korištenje pristupne točke i fizičke infrastrukture unutar zgrade s vlasnikom, suvlasnicima ili predstavnikom suvlasnika zgrade.

@@ -1,0 +1,4 @@
+## GLAVA VII.
+## ZAVRŠNA ODREDBA
+# Članak 17.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana njegove objave u »Narodnim novinama«.
