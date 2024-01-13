@@ -1,0 +1,2 @@
+# Članak 8.
+Normativi i standardi za pružanje medicinskih usluga iz članka 4. točke 1. ovoga Pravilnika utvrđuju se propisom kojim se uređuje obavljanje zdravstvene djelatnosti u pogledu prostora, radnika i medicinsko-tehničke opreme u zdravstvenim ustanovama, trgovačkim društvima za obavljanje zdravstvene djelatnosti i kod zdravstvenih radnika koji obavljaju zdravstvenu djelatnost u privatnoj praksi.

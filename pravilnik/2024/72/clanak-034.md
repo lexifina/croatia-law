@@ -1,0 +1,2 @@
+# Članak 34.
+Zdravstvene ustanove, trgovačka društva za obavljanje zdravstvene djelatnosti, privatni zdravstveni radnici, turističke ambulante i druge pravne osobe koje, u skladu s posebnim propisom, obavljaju ugostiteljsku djelatnost i/ili pružaju usluge u turizmu, kojima je izdano rješenje iz članka 33. ovoga Pravilnika, Ministarstvo evidentira u Upisniku zdravstvenog turizma prema posebnom propisu.

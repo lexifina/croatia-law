@@ -1,0 +1,2 @@
+# Članak 35.
+Zdravstvene ustanove, trgovačka društva za obavljanje zdravstvene djelatnosti, privatni zdravstveni radnici, turističke ambulante i druge pravne osobe koje, u skladu s posebnim propisom, obavljaju ugostiteljsku djelatnost i/ili pružaju usluge u turizmu iz članka 34. ovoga Pravilnika, koje su upisane u Upisnik zdravstvenog turizma imaju pravo na korištenje zaštićenog znaka zdravstvenog turizma sukladno posebnom propisu.

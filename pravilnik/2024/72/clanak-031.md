@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Normativi i standardi za pružanje zdravstvene djelatnosti u zdravstvenim ustanovama, trgovačkim društvima za obavljanje zdravstvene djelatnosti, kod privatnih zdravstvenih radnika, iz članka 29. ovoga Pravilnika, utvrđuju se propisom kojim se uređuje obavljanje zdravstvene djelatnosti u pogledu prostora, radnika i medicinsko-tehničke opreme.
+(2) Normativi i standardi koje mora ispunjavati turistička ambulanta iz članka 29. ovoga Pravilnika, utvrđuju se propisom kojim se uređuju minimalni normativi i standardi u pogledu prostora, radnika i medicinsko-tehničke opreme za turističku ambulantu.

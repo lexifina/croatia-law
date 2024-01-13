@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 3. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18, 125/19, 147/20, 119/22, 156/22, 33/23) uz prethodnu suglasnost ministra nadležnog za turizam i prethodno pribavljeno mišljenje Hrvatske liječničke komore, ministar zdravstva donosi
