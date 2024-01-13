@@ -1,3 +1,0 @@
-# Članak 6.
-(1) U slučaju da se projekt iz članka 34. stavka 4. Zakona ili drugi sličan dokument (uputa o sanaciji i slično), izrađen nakon izvršnosti rješenja o stambenom zbrinjavanju, ne bi mogao iskoristiti zbog razloga na strani korisnika, nadležni ured državne uprave u županiji donijet će rješenje o obustavi izvršenja rješenja, uz obvezu korisnika da namiri štetu Središnjem državnom uredu nastalu obustavom izvršenja rješenja.
-(2) U slučaju izvanrednih okolnosti na strani korisnika koje nije bilo moguće predvidjeti ili spriječiti, donijet će se rješenje o obustavi izvršenja rješenja bez obveze namirenja štete Središnjem državnom uredu.
