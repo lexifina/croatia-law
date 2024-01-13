@@ -1,0 +1,3 @@
+# Članak 5.
+(1) Građevina, drugi prostor i mobilni objekt iz članka 2. ovoga Pravilnika u kojem se nalaze prostori u kojima je organiziran rad turističke ambulante moraju udovoljavati uvjetima određenim posebnim propisom o osiguranju pristupačnosti osobama s invaliditetom i smanjene pokretljivosti.
+(2) Iznimno od stavka 1. ovoga članka, građevina koja se nalazi u urbanističkoj cjelini upisana u Registar kulturnih dobara Republike Hrvatske, a koja ne može osigurati propisani uvjet pristupačnosti, kako se ne bi narušilo utvrđeno spomeničko svojstvo kulturnog dobra, za odstupanje od propisanih uvjeta mora ishoditi suglasnost ministarstva nadležnog za kulturu.

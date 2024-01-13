@@ -1,0 +1,21 @@
+# Članak 11.
+(1) Medicinsko-tehnička oprema turističke ambulante jest:
+- računalo s pisačem, radni stol za liječnika, radni stol za medicinsku sestru, stolica za liječnika i medicinsku sestru s podešavanjem visine i mogućnošću pokretanja, stolica za osobu u prostoru za pregled i prostoru za medicinsku sestru, garderobne vješalice, telefon, ležaj za pregled, paravan, odgovarajući ormar za instrumente i lijekove, stolić za instrumente, hladnjak, tlakomjer s različitim širinama manžeta (3 veličine manžeta), pulsni oksimetar, autoklav/suhi sterilizator, toplomjere (2 kom., od kojih je jedan beskontaktni), fonendoskop (slušalice), špatule za pregled ždrijela za jednokratnu uporabu, plahte za jednokratnu uporabu, vagu za mjerenje tjelesne težine, visinomjer, reflektor, otoskop, oftalmoskop, rinoskop, štrcaljka ili pulsni aparat za ispiranje ušiju, platneni metar, ručna baterijska lampa, perkusijski čekić, metalni bubnjevi, posude za instrumente s poklopcem, posuda s poklopcem za vatu, bubrežaste zdjelice koje se mogu sterilizirati (3 kom.)/jednokratne bubrežaste zdjelice, komprese, zavojni materijal/jednokratni setovi za previjanje, štrcaljke i igle za jednokratnu uporabu različitih dimenzija, stalak za infuziju, setovi za infuziju, bebi sistemi, jednokratni uro-kateteri različitih promjera, automatski biokemijski analizator, glukometar, test trake za brzo određivanje promjena u urinu, elastična traka za podvezivanje, pribor za ispiranje želuca, udlage različitih dimenzija, hvataljka za instrumente i posuda za držanje hvataljke, plastična posuda za medicinski otpad, posuda za ostali otpad
+- komplet lijekova za terapiju anafilaktičkog šoka i potrebna oprema za mjerenje vitalnih funkcija (praćenje srčane akcije i saturacije kisika, neinvazivno mjerenje tlaka), infuzijske otopine sukladno potrebama, boca s kisikom s dozatorom i raspršivačem i ampulirani lijekovi sukladno potrebama djelatnosti koji moraju biti smješteni u ambulanti
+- EKG uređaj s pisačem, dostupnost defibrilatora s ekranom ili automatskog vanjskog defibrilatora (AED) u roku od tri minute, set za reanimaciju: samošireći balon za ventilaciju sa spremnikom za kisik s pripadajućim maskama za ventilaciju u najmanje dvije veličine za odrasle i djecu, nosni kateter i maska za primjenu kisika, boca s kisikom, rezervna boca kisika, liječnička torba
+- osobna zaštitna oprema (jednokratne rukavice, medicinska maska za zaštitu usta i nosa, oprema za zaštitu očiju - zaštitne naočale ili vizir, zaštitni ogrtač ili pregača i sl.) u skladu s potrebama i procjeni rizika određene djelatnosti.
+(2) Liječnička torba/kovčeg mora biti izrađena od materijala otpornog na mehanička oštećenja, težine primjerene čestom prijenosu, odgovarajuće veličine s unutarnjim prostorom primjerenim smještaju opreme i pribora, sa stalnim i/ili promjenljivim pregradama. Liječnička torba mora sadržavati:
+- opremu za dijagnostiku (tlakomjer s manžetama za odrasle i za djecu, slušalice, neurološki čekić, svjetiljku za pregled pupile, termometar)
+- ampulirane lijekove (ampularij za pregledan, siguran smještaj i brzo vađenje 40 - 50 ampula)
+- pribor za primjenu ampuliranih lijekova (štrcaljke za jednokratnu uporabu, igle, povesku, komprese od gaze, dezinfekcijsko sredstvo i sl.)
+- lijekove za peroralnu uporabu
+- instrumente (škare, anatomska i kirurška pinceta, pean, skalpel)
+- punkcijske igle (nekoliko dimenzija)
+- sterilne katetere (14, 16, 18)
+- zavojni materijal (sterilne gaze, zavoji, elastični zavoj, vata)
+- mikroporne trake (nekoliko dimenzija)
+- pribor za standardnu zaštitu od infekcija (rukavice, maske, naočale)
+- lijekove za parenteralnu primjenu: adrenalin, aminofilin, amiodaron, atropin, deksametazon, diazepam, diklofenak, flumazenil, furosemid, glukoza 40 %, haloperidol, hioscin butilbromid, ketoprofen, kloropiramin, kratkodjelujući inzulin, metilprednizolon, metoklopramid, morfin - klorid, nalokson, promazin, propafenon, tietilperazin, tramadol, urapidil, fiziološka i destilirana voda u ampulama za razrjeđivanje
+- ostale lijekove: acetilsalicilna kiselina tbl, medicinski ugljen, gliceriltrinitrat sprej, salbutamol sprej, antipiretici/analgetici u obliku supozitorija, diazepam mikroklizme
+- infuzijske otopine: natrijev klorid (0,9 % a 500 ml; 10 % a 20 ml), glukoza (5 % i 10 % a 500 ml),
+- setovi za infuziju, setovi za postavljanje venskog puta.

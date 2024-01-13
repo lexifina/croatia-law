@@ -1,0 +1,2 @@
+# Članak 13.
+Na građevini, drugom prostoru i mobilnom objektu iz članka 2. ovoga Pravilnika, u kojem se organizira rad turističke ambulante potrebno je, u roku od 8 dana od dana zaprimanja rješenja ministarstva nadležnog za zdravstvo (u daljnjem tekstu: Ministarstvo) o ispunjavanju normativa i standarda u pogledu prostora, radnika i medicinsko-tehničke opreme na vidljivom mjestu istaknuti naziv turističke ambulante, radno vrijeme te razdoblje rada tijekom godine.
