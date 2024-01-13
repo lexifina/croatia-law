@@ -1,0 +1,6 @@
+# Članak 10.
+(1) Za izvršene poslove nabave, isporuke i ugradnje građevnog materijala, ugovoreni isporučitelj i ugovoreni izvođač kod organizirane ugradnje ispostavljaju Ministarstvu privremene mjesečne situacije i okončanu situaciju.
+(2) Ugovoreni nadzorni inženjer kontrolira i potvrđuje poštivanje ugovorenog roka te jesu li podaci iz odgovarajuće valjane dokumentacije (svojstva, bitne značajke i namjeravana uporaba građevnog proizvoda) i količina isporučenog građevnog materijala odnosno izvedenih radova ugradnje građevnog materijala, iskazani u privremenoj i okončanoj situaciji ugovorenog isporučitelja i ugovorenog izvođača (kod organizirane ugradnje) u skladu s glavnim projektom i projektom iz članka 3. stavka 1. ovoga Pravilnika.
+(3) Odgovarajuću valjanu dokumentaciju, narudžbenice i otpremnice isporučenog građevnog materijala pojedinom korisniku pribavlja i vodi ugovoreni isporučitelj.
+(4) Narudžbenice i otpremnice uz ovlaštene osobe potpisuju i korisnici.
+(5) Valjana dokumentacija te dokumentacija o isporuci građevnog materijala prilaže se u građevinski dnevnik u skladu s posebnim propisom kojim se uređuje način provedbe stručnog nadzora građenja, obrascu, uvjetima i načinu vođenja građevinskog dnevnika te o sadržaju završnog izvješće nadzornog inženjera.

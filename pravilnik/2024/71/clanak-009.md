@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Iznimno od članka 8. stavka 2. ovoga Pravilnika i uz suglasnost Ministarstva, u slučaju opravdanih nepredvidivih razloga kao što su smrt ili teška bolest člana obitelji, ostanak bez posla, rastava braka i drugo, korisnik može građevni materijal ugraditi i izvan roka iz članka 8. ovoga Pravilnika.
+(2) Ako korisnik iz neopravdanih razloga ne ugradi građevni materijal u propisanom roku odnosno najkasnije u roku od 6 mjeseci od zadnje isporuke građevnog materijala, neće ostvariti pravo na novčanu potporu iz članka 37. stavka 2. Zakona i pravo priključka na elektroenergetsku mrežu iz članka 38. Zakona o trošku Ministarstva.
