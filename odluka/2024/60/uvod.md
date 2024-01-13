@@ -1,0 +1,1 @@
+Na temelju članka 37. stavka 1. Zakona o regionalnom razvoju Republike Hrvatske (»Narodne novine«, br. 147/14., 123/17. i 118/18.), Vlada Republike Hrvatske je na sjednici održanoj 4. siječnja 2024. donijela
