@@ -1,0 +1,8 @@
+# Članak 23.
+U članku 44. iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Agencija za plaćanja provjerava i one troškove provedbe projekta koji nisu prihvatljivi za sufinanciranje, ali utječu na ispunjavanje uvjeta prihvatljivosti i/ili kriterija odabira kada je korisnik ugovorom o financiranju preuzeo i obvezu iz stavka 4. članka 40. ovoga Pravilnika.«.
+Dosadašnji stavci od 5. do 17. postaju stavci od 6. do 18.
+Stavci 9., 10. i 11. koji postaju stavci 10., 11. i 12. mijenjaju se i glase:
+»(10) Iznimno od stavka 9. ovoga članka, Agencija za plaćanja će uzeti u razmatranje odgovor na zahtjev za dopunu i/ili obrazloženje dostavljen izvan roka iz stavka 9. ovoga članka u slučaju više sile ili izvanrednih okolnosti.
+(11) U slučaju da korisnik ne dostavi odgovor na zahtjev za dopunu i/ili obrazloženje ili dostavi odgovor izvan roka propisanog stavkom 9. ovoga članka ili u odgovoru na zahtjev za dopunu i/ili obrazloženje u propisanom roku dostavi nepotpunu/neprihvatljivu dokumentaciju, a isto se odnosi na uvjete prihvatljivosti korisnika i/ili projekta i/ili na cjelokupno ulaganje i/ili kriterije odabira, izdat će se Odluka o odbijanju zahtjeva za isplatu predujma/Odluka o odbijanju zahtjeva za isplatu.
+(12) U slučaju da korisnik ne dostavi odgovor na zahtjev za dopunu i/ili obrazloženje ili dostavi odgovor izvan roka propisanog stavkom 9. ovoga članka ili u odgovoru na zahtjev za dopunu i/ili obrazloženje u propisanom roku dostavi nepotpunu/neprihvatljivu dokumentaciju, a isto se odnosi isključivo na uvjete prihvatljivosti troškova, korisniku za trošak na koji se odnosi zahtjev za dopunu i/ili obrazloženje neće biti isplaćena potpora.«.

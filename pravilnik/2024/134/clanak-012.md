@@ -1,0 +1,3 @@
+# Članak 12.
+U članku 24. stavku (b) trećoj točki, podtočka b) mijenja se i glasi:
+»b) za korisnike čiji je zbroj vrijednosti tri najveća godišnja prometa u razdoblju od pet godina koje prethode godini u kojoj je podnesen zahtjev za potporu manji od iznosa od 100.000 EUR ili za korisnike koji nisu u obvezi vođenja poslovnih knjiga ili za korisnike obveznike vođenja poslovnih knjiga koji ne posjeduju financijsku dokumentaciju za prethodnu financijsku godinu, a koji potražuju iznos potpore veći od 100.000 EUR, uz uvjet da korisnik u slučaju a) ili nekom od slučajeva u točki b) ovoga uvjeta u zahtjevu za potporu dostavi obvezujuće pismo namjere banke koje se mora odnositi na vrijednost projekta u cijelosti, u protivnom će zahtjev za potporu biti odbijen.«.

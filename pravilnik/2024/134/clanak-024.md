@@ -1,0 +1,9 @@
+# Članak 24.
+U članku 47. stavku 3. točka e) mijenja se i glasi:
+»e) izmjena tehnološkog projekta: u slučaju promjena u sustavima opremanja na postojećem nasadu koji se ne restrukturira (posebice ulaganje u novi sustav navodnjavanja) i/ili u slučaju promjena kod pokretne opreme (one koja nije obuhvaćena pojmom »oprema« iz Zakona o gradnji) i/ili u slučaju promjena kojom je izvršena prenamjena prostora«.
+U članku 47. stavak 7. mijenja se i glasi:
+»(7) U slučaju promjene navedene u stavku 3. točki c) ovoga članka za koju korisnik nije podnio zahtjev za promjenu, a administrativnom kontrolom zahtjeva za isplatu se utvrdi da je udio ukupne cijene izmijenjenih i/ili uvedenih novih stavaka (iz računa/ situacije) u odnosu na odobreni troškovnik (ponudu) veći od 30% u odnosu na prvotno odobrenu ukupnu cijenu troškovnika (ponude) Agencija za plaćanja primjenjuje financijsku korekciju.«.
+U članku 47. stavak 9. mijenja se i glasi:
+»(9) Ponavljanje postupka prikupljanja ponuda provodi se sukladno Pravilima za provođenje postupka nabave putem EONA-e iz Priloga 5 ovoga Pravilnika i ostalim odredbama ovoga Pravilnika koje se odnose na postupke nabave, osim za troškove kupnje zemljišta i objekata te za one troškove za koje su natječajem propisani maksimalni iznosi troškova ili drugi limiti, a za koje korisnik postupak prikupljanja ponuda vrši samostalno na tržištu.«.
+U članku 47. stavak 18. mijenja se i glasi:
+»(18) Iznimno od prethodnog stavka, obavijest o promjeni zbog razloga navedenih u točki i), j) i k) iz stavka 3. ovoga članka i prateću dokumentaciju korisnik dostavlja preporučenom pošiljkom, neposredno na adresu: Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju, Ulica grada Vukovara 269d, 10000 Zagreb (minimalno s naznakom »Obavijest o promjeni«) ili elektroničkom poštom na info@apprrr.hr.«.

@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencija za potporu ulaganjima u primarnu poljoprivrednu proizvodnju i preradu poljoprivrednih proizvoda iz Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027.
