@@ -1,0 +1,7 @@
+# Članak 6.
+(1) Služba za elektronički nadzor u suradnji s nadležnim probacijskim uredom i nadležnim zatvorom odnosno kaznionicom, dogovara termin i organizaciju postavljanja uređaja za elektronički nadzor te sprovođenje zatvorenika i o navedenom žurno obavještava nadležni sud koji donosi nalog za sprovođenje iz istražnog zatvora u dom u vrijeme koje predloži Služba za elektronički nadzor. O navedenom Služba za elektronički nadzor žurno obavještava nadležnu policijsku postaju.
+(2) Sprovođenje provodi pravosudna policija zatvorskog sustava i ono traje do završetka postavljanja i aktiviranja uređaja za elektronički nadzor.
+(3) Službenik Službe za elektronički nadzor ili nadležnog probacijskog ureda postavlja i aktivira uređaj za elektronički nadzor u domu istražnog zatvorenika.
+(4) Nakon postavljanja i aktiviranja uređaja za elektronički nadzor, poslove nadzora izvršavanja istražnog zatvora uz elektronički nadzor preuzima Služba za elektronički nadzor uporabom tehničkih sredstava nadzora.
+(5) O poduzetim radnjama iz stavka 3. i 4. ovoga članka službenik koji je postavio i aktivirao uređaj za elektronički nadzor sastavlja izvješće te se putem Službe za elektronički nadzor žurno po jedan primjerak izvješća dostavlja nadležnom sudu, nadležnom državnom odvjetniku, nadležnom zatvoru, odnosno kaznionici te nadležnoj policijskoj postaji.
+(6) Službenicima Službe za elektronički nadzor pripada pravo na značku i iskaznicu prema propisima kojima se uređuje obavljanje probacijskih poslova.
