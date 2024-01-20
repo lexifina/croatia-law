@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Na licu zlatne i srebrne numizmatičke kovanice prikaz je osnovnog motiva skulpture »Trsatskog zmaja«, predstavljene sa stražnje strane. Iznad osnovnog motiva uz rub kovanice ispisan je tekst »TRSATSKI ZMAJ«, a ispod navedenog teksta prikaz je godine izdanja kovanice »2024.«.
+(2) Na naličju zlatne i srebrne numizmatičke kovanice prikazan je motiv skulpture »Trsatskog zmaja«, predstavljene sprijeda odnosno frontalno. Iznad osnovnog motiva polukružno uz rub numizmatičke kovanice ispisan je natpis »REPUBLIKA HRVATSKA«. Ispod natpisa nalazi se oznaka nominalne vrijednosti »100« ili »4« i naziv novčane jedinice »EURO«.
