@@ -1,0 +1,12 @@
+## IV. INSPEKCIJSKI NADZOR
+# Članak 10.
+(1) Nadzor nad provedbom mjera određenih ovom Naredbom provode nadležni inspektori Državnog inspektorata Republike Hrvatske.
+(2) Nadležni inspektori Državnog inspektorata dužni su provoditi nadzore objekata na kojima se drže svinje i nadzore u lovištima po pitanju verifikacije uvjeta i provedbe mjera sukladno ovoj Naredbi.
+(3) Nadležni inspektor Državnog inspektorata dužan je:
+- po prijavi iz članka 1. točke 19. ove Naredbe o pojavi svinja koje fenotipski odgovaraju domaćim svinjama izvan registriranih objekata, provesti nadzor, poduzeti odgovarajuće mjere i narediti odstrel
+- po prijavi iz članka 1. točke 27. provesti nadzor te poduzeti odgovarajuće mjere u skladu sa stavkom 6. ovoga članka.
+(4) Nadležna inspekcija Državnog inspektorata dužna je, u roku od 30 dana od dana stupanja na snagu ove Naredbe na području zona ograničenja, provesti nadzore na svim objektima koji su prije stupanja na snagu ove Naredbe bili kategorizirani u kategoriju 0, 1 i 2 te na neregistriranim objektima i koji su bili ispražnjeni zbog sumnje ili potvrde afričke svinjske kuge ili zbog neudovoljavanja uvjetima, kako bi se osiguralo da se na takvim objektima ne drže svinje.
+(5) Osim nadzora iz stavka 4. ovog članka, nadležna inspekcija Državnog inspektorata dužna je, do 31. ožujka 2024. godine provesti nadzore na objektima koji su prije stupanja na snagu ove Naredbe bili kategorizirani u kategoriju 0, 1 i 2 ili nemaju dodijeljenu kategoriju, prema popisu kojeg dostavi Ministarstvo poljoprivrede.
+(6) Na objektima za koje se utvrdi da ne udovoljavaju uvjetima za držanje svinja, nadležna inspekcija Državnog inspektorata kada je primjenjivo određuje mjere za otklanjanje nesukladnosti u razdoblju koje ne može biti dulje od 15 dana, u protivnom se svinje s takvih objekata upućuju na klanje ili usmrćivanje.
+(7) O rezultatima nadzora nad provedbom mjera određenih ovom Naredbom te utvrđenim nesukladnostima, Državni Inspektorat Republike Hrvatske dostavlja Upravi za veterinarstvo i sigurnost hrane Ministarstva poljoprivrede kvartalna izvješća do kraja tekućeg kvartala za prethodni kvartal kao i godišnje izvješće najkasnije do kraja ožujka tekuće godine za prethodnu godinu.
+(8) Državni inspektorat osim izvješća iz stavka 6. ovog članka dostavlja Upravi za veterinarstvo i sigurnost hrane Ministarstva poljoprivrede i prijedloge za unaprjeđenje provedbe službenih kontrola ovisno o rezultatima nadzora.
