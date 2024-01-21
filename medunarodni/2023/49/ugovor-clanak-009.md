@@ -1,0 +1,5 @@
+# Članak 9.
+UZAJAMNA PRAVNA POMOĆ
+1. Svaka stranka, u najvećoj mogućoj mjeri, u skladu sa svojim zakonima i odgovarajućim međunarodnim ugovorima i dogovorima, pruža brzu i djelotvornu pravnu pomoć drugoj stranci u svrhu kaznenih istraga i postupaka koje je ta stranka pokrenula u vezi s kaznenim djelima obuhvaćenim područjem primjene ove Konvencije i nekaznenih postupaka iz područja primjene ove Konvencije koje je ta stranka pokrenula protiv pravne osobe. Zamoljena stranka bez odgode obavješćuje stranku moliteljicu o svim dodatnim informacijama ili dokumentima koji su joj potrebni uz zahtjev za pomoć i, ako je to zatraženo, o statusu i ishodu zahtjeva za pomoć.
+2. Ako stranka uvjetuje uzajamnu pravnu pomoć postojanjem dvostruke kažnjivosti, smatra se da dvostruka kažnjivost postoji ako je kazneno djelo za koje se pomoć traži obuhvaćeno područjem primjene ove Konvencije.
+3. Stranka neće odbiti pružanje uzajamne pravne pomoći u kaznenim stvarima obuhvaćenim područjem primjene ove Konvencije na temelju bankovne tajne.

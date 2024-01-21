@@ -1,0 +1,6 @@
+# Članak 10.
+IZRUČENJE
+1. Smatra se da je podmićivanje stranog javnog službenika obuhvaćeno kaznenim djelima koja podliježu izručenju prema zakonima stranaka i međunarodnim ugovorima o izručenju između njih.
+2. Ako stranka koja izručenje uvjetuje postojanjem međunarodnog ugovora o izručenju primi zahtjev za izručenje od druge stranke s kojom nema međunarodni ugovor o izručenju, može ovu Konvenciju smatrati pravnim temeljem za izručenje u odnosu na kazneno djelo podmićivanja stranog javnog službenika.
+3. Svaka stranka poduzima sve potrebne mjere kako bi osigurala da može izručiti svoje državljane ili da može kazneno goniti svoje državljane za kazneno djelo podmićivanja stranog javnog službenika. Stranka koja odbije zahtjev za izručenje osobe zbog podmićivanja stranog javnog službenika samo na temelju toga što je ta osoba njezin državljanin, predmet podnosi njezinim nadležnim tijelima radi kaznenog progona.
+4. Izručenje zbog podmićivanja stranog javnog službenika podliježe uvjetima utvrđenima u domaćem pravu te primjenjivim međunarodnim ugovorima i dogovorima svake stranke. Ako stranka uvjetuje izručenje postojanjem dvostruke kažnjivosti, taj se uvjet smatra ispunjenim ako je kazneno djelo za koje se traži izručenje obuhvaćeno područjem primjene članka 1. ove Konvencije.
