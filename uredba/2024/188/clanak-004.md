@@ -1,0 +1,6 @@
+# Članak 4.
+(1) Bilančna prava grada, županije i Grada Zagreba za osnovno školstvo za 2024. godinu utvrđena su Odlukom o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2024. godini.
+(2) Bilančna prava županije i Grada Zagreba za srednje školstvo za 2024. godinu utvrđena su Odlukom o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2024. godini.
+(3) Bilančna prava županije i Grada Zagreba za financiranje domova za starije osobe za 2024. godinu utvrđena su Odlukom o minimalnim financijskim standardima, kriterijima i mjerilima za decentralizirano financiranje domova za starije osobe u 2024. godini.
+(4) Bilančna prava županije i Grada Zagreba za financiranje zdravstvenih ustanova za 2024. godinu utvrđena su Odlukom o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2024. godini.
+(5) Bilančna prava općine, grada i Grada Zagreba za financiranje javnih vatrogasnih postrojbi za 2024. godinu utvrđena su Odlukom o minimalnim financijskim standardima, kriterijima i mjerilima za financiranje rashoda javnih vatrogasnih postrojbi u 2024. godini.
