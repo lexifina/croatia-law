@@ -1,0 +1,1 @@
+Na temelju članka 67. stavka 4. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine« broj 152/22) čelnik tijela državne uprave nadležnog za demografiju, uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zdravstveno osiguranje, donosi
