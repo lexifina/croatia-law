@@ -1,0 +1,2 @@
+# Članak 3.
+Predsjednik vijeća nacionalne manjine, zamjenik predsjednika vijeća i članovi vijeća nacionalne manjine te predstavnik nacionalne manjine ostvaruju pravo na mjesečnu nagradu najviše do visine od 75% iznosa sredstava određenog za mjesečne naknade člana predstavničkog tijela te jedinice lokalne i područne (regionalne) samouprave u skladu s člankom 31.a stavkom 1. Zakona o lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine« 33/01, 60/01, 129/05, 109/07, 125/08, 36/09, 36/09, 150/11, 144/12, 19/13, 137/15, 123/17, 98/19 i 144/20).
