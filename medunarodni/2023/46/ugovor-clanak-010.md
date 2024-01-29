@@ -1,0 +1,7 @@
+# Članak 10.
+PRIJENOS I POVLAČENJE KOLIČINE PLINA U PONUDI SOLIDARNOSTI
+1. Količina plina ponuđena u okviru ponude solidarnosti ne smije premašiti količinu koja je tehnički dostupna na interkonekcijskoj točki Rogatec (mjestu isporuke), uzimajući u obzir rezervirani i korišteni kapacitet, te fizičko ograničenje mjesta isporuke i raspoloživog kapaciteta te uzimajući u obzir odredbe u članku 2. stavku 1. slovu a).
+2. U slučaju prihvaćanja ponude solidarnosti, svi potrebni transportni kapaciteti kod stranke koja pruža solidarnost, prihvaćaju se do mjesta isporuke, i pružaju od strane stranke koja pruža solidarnost.
+3. Stranka koja pruža solidarnost nudi količinu plina na mjestu isporuke (strana stranke koja pruža solidarnost). Stranka koja podnosi zahtjev osigurava povlačenje količine plina na mjestu isporuke (strana stranke koja podnosi zahtjev). Posebno osigurava da su transportni kapaciteti potrebni za povlačenje s mjesta isporuke dostupni i rezervirani kako bi odgovarali nominaciji na mjestu isporuke.
+4. U cilju lakšeg ispunjavanja ponude solidarnosti, odgovarajući OTS-ovi prema potrebi definiraju tehničke odredbe u okviru posebnih operativnih sporazuma, u roku od šest mjeseci od potpisivanja ovog Sporazuma. Gore navedene odredbe podnose se na odobrenje odgovarajućem nadležnom tijelu.
+5. Neovisno o fizičkom povlačenju količine plina, stranka koja podnosi zahtjev osigurava ispunjavanje obveza plaćanja koje proizlaze iz prihvaćanja ponude solidarnosti i isporučene količine plina na mjestu isporuke (uzmi ili plati).

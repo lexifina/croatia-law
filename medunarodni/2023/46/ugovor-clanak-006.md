@@ -1,0 +1,8 @@
+# Članak 6.
+PONUDA SOLIDARNOSTI NA TEMELJU OBVEZNIH MJERA
+1. Ponudu solidarnosti na temelju obveznih mjera podnosi stranka koja pruža solidarnost, kada više nema ponuda na temelju dobrovoljnih mjera stranci koja podnosi zahtjev.
+2. Ponuda solidarnosti na temelju obveznih mjera podnosi se do 10 sati prije početka dana isporuke.
+3. Ponuda solidarnosti na temelju obveznih mjera mora sadržavati potencijalno raspoložive količine plina koje su efektivno dostupne unutar vremenskog okvira predviđenog stavkom 2., također uzimajući u obzir odredbe predviđene člankom 2. stavkom 1. slovom a), uz određivanje cijene plina u skladu s člankom 12., sva ograničenja ponude (npr. minimalne prihvatljive količine), uključujući potrebni transportni kapacitet do interkonekcijske točke Rogatec kao točke isporuke u trenutku pružanja ponude solidarnost.
+4. Stranka koja podnosi zahtjev, nakon primitka ponude solidarnosti na temelju obveznih mjera, odmah potvrđuje primitak ponude i provjerava da nema druge dostupne ponude na temelju dobrovoljnih mjera, prije prihvaćanja ponuda na temelju obveznih mjera, od države članice EU, s kojima ima interkonekcijsku točku ili je povezana putem treće zemlje, prema članku 13. stavku 2. Uredbe (EU) 2017/1938.
+5. Ako postoje ponude solidarnosti na temelju dobrovoljnih mjera u vezi sa stavkom 4., stranka koja podnosi zahtjev, prihvaća te ponude, prije prihvaćanja bilo kakve ponude solidarnosti na temelju obveznih mjera.
+6. Kada stranka koja podnosi zahtjev, ne primi više ponuda solidarnosti na temelju dobrovoljnih mjera u vezi sa stavkom 4., nadležno tijelo stranke koja podnosi zahtjev može prihvatiti ponude solidarnosti na temelju obveznih mjera.
