@@ -1,0 +1,8 @@
+## Autentičnost i cjelovitost službenog osobnog dokumenta
+# Članak 11.
+(1) Ako obveznik prilikom utvrđivanja i provjere identiteta stranke na daljinu prihvaća prikaz fotografije (reprodukciju službenog osobnog dokumenta) ili videozapis službenog osobnog dokumenta, dužan je:
+1. provjeriti sadržava li reprodukcija službenog osobnog dokumenta sigurnosne značajke ugrađene u službeni osobni dokument, te jesu li svojstva službenog osobnog dokumenta koja se reproduciraju valjana i prihvatljiva posebice vrsta, veličina znakova i struktura dokumenta, uvidom u pouzdanu bazu podataka kao što je Javni internetski registar vjerodostojnih putnih i osobnih isprava Vijeća Europske unije (PRADO)
+2. provjeriti jesu li u reprodukciji službenog osobnog dokumenta promijenjeni osobni identifikacijski podatci (npr. provjerom u Evidenciju o osobnim identifikacijskim brojevima koju vodi tijelo nadležno za upis u službene evidencije osobnih identifikacijskih brojeva) i je li fotografija stranke koja je ugrađena u službeni osobni dokument zamijenjena i
+3. provjeriti je li reprodukcija službenog osobnog dokumenta primjerene kvalitete kako bi se uvjerio da su podatci sadržani u reprodukciji službenog osobnog dokumenta nedvojbeni.
+(2) Obveznik koji koristi automatsko čitanje podataka i informacija iz službenog osobnog dokumenta kao što su algoritmi za optičko prepoznavanje znakova ili strojno čitljivog dijela, dužan je poduzeti potrebne mjere kojima osigurava prikupljanje podataka i informacija na točan način.
+(3) U slučaju kada stranka čiji se identitet utvrđuje i provjerava koristi službeni osobni dokument koji sadrži elektronički nosač podataka, obveznik mora koristiti dobivene podatke i informacije radi provjere njihove autentičnosti.

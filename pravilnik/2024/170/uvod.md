@@ -1,0 +1,1 @@
+Na temelju članka 52. stavka 6. a u vezi s člankom 15. stavkom 1. točkom 1. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/17., 39/19. i 151/22.) ministar financija donosi
