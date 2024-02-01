@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Evidentiranje prolazaka autocestom odnosno objektom pod naplatom cestarine na državnoj cesti posebno označenim vozilima koja nisu registrirana u Republici Hrvatskoj provodi se odgovarajućim medijem koji izdaju Hrvatske autoceste d.o.o. odnosno koncesionar.
+(2) Hrvatske autoceste d.o.o. odnosno koncesionar na temelju podataka o prolascima vozila iz sustava naplate cestarine izrađuju mjesečne izvještaje koji sadrže preglede transakcija o korištenju autocesta i objekata na državnim cestama posebno označenim vozilima koja nisu registrirana u Republici Hrvatskoj, koje u roku od 20 dana po isteku izvještajnog razdoblja dostavljaju ministarstvu nadležnom za promet.

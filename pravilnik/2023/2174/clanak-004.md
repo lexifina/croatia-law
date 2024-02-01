@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Na vatrogasna vozila kao i na vatrogasnu tehniku primjenjuje se propis koji donosi glavni vatrogasni zapovjednik, a kojim je propisana i tipizacija vozila u vatrogastvu.
+(2) Vizualni identitet i posebne oznake vatrogasnih vozila, uz ostalo, čine crvena boja RAL 3000 ili odgovarajuća crvena boja, natpis »VATROGASCI«, obilježje Hrvatske vatrogasne zajednice, vatrogasne postrojbe odnosno organizacije, ugrađeni uređaji za davanje zvučnih znakova i ugrađeni uređaji za davanje propisane svjetlosne signalizacije te dodatna obilježja vatrogasnih vozila, koja odredi glavni vatrogasni zapovjednik aktima Hrvatske vatrogasne zajednice.

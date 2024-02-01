@@ -1,0 +1,1 @@
+Na temelju članka 89.a stavka 4. Zakona o cestama (»Narodne novine«, broj 84/11, 22/13, 54/13, 148/13, 92/14, 110/19, 144/21, 114/22, 114/22 - Rješenje Ustavnog suda Republike Hrvatske i 04/23 - Odluka Ustavnog suda Republike Hrvatske), ministar mora, prometa i infrastrukture donio je

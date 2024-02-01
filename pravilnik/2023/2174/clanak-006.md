@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Vizualni identitet i posebne oznake vozila gorske službe spašavanja, kako su propisani internim aktom udruge javnog značaja Hrvatska gorska služba spašavanja, su bijela boja RAL 9003, znak Hrvatske gorske službe spašavanja natpis »HRVATSKA GORSKA SLUŽBA SPAŠAVANJA«, natpis »www.hgss.hr«, crtež »112« s telefonskom slušalicom, natpis »MOUNTAIN RESCUE«, žuta traka RAL 1004 na bočnim i stražnjoj stranici vozila, natpis »HGSS« na krovu i vjetrobranskom staklu te ugrađeni uređaji za davanje zvučnih znakova i za davanje propisane svjetlosne signalizacije.
+(2) Priključna vozila, četverocikli i motocikli gorske službe spašavanja imaju vizualni identitet i posebne oznake iz stavka 1. ovog članka u mjeri u kojoj je to moguće.

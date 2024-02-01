@@ -1,0 +1,16 @@
+# Članak 8.
+(1) Kada je na autocesti, odnosno objektu pod naplatom cestarine na državnoj cesti uveden elektronički sustav naplate cestarine, posebno označena vozila iz članka 1. ovog Pravilnika registrirana u Republici Hrvatskoj evidentiraju prolaske uređajem za elektroničku naplatu cestarine Hrvatskih autocesta d.o.o. (dalje u tekstu: ENC uređaj).
+(2) Hrvatske autoceste d.o.o. izdaju ENC uređaj vezan za određenu registarsku oznaku, posebno označenog vozila i skupinu u koju se vozilo razvrstava prema pravilniku o cestarini, na temelju dostavljene preslike prometne dozvole ili odgovarajućeg dokumenta koje je izdalo Ministarstvo unutarnjih poslova ili Ministarstvo obrane Republike Hrvatske uz zahtjev vlasnika / korisnika leasinga tog vozila, podnesenog na odgovarajućem obrascu Hrvatskih autocesta d.o.o.
+(3) Cijenu ENC uređaja iz stavka 1. ovog članka utvrđuju Hrvatske autoceste d.o.o.
+(4) Hrvatske autoceste d.o.o. dostavljaju koncesionaru sve potrebne podatke vezane za ENC uređaje iz stavka 1. ovog članka, a koncesionar je obvezan uspostaviti interoperabilnost i prihvat tih ENC uređaja bez dodatne registracije.
+(5) Hrvatske autoceste d.o.o. na temelju podataka o transakcijama provedenim ENC uređajima kodiranim na posebno označena vozila izrađuju izvještaje koji sadrže mjesečne preglede transakcija, uključujući i pregled eventualnih nepravilnosti u korištenju autocesta i objekata na državnim cestama tim vozilima, koje u roku od 20 dana po isteku izvještajnog razdoblja dostavljaju ministarstvu nadležnom za javne ceste i:
+- ministarstvu nadležnom za unutarnje poslove za posebno označena vozila tog ministarstva,
+- ministarstvu nadležnom za poslove obrane i Oružanih snaga za posebno označena vozila tog ministarstva,
+- Hrvatskoj vatrogasnoj zajednici za vatrogasna vozila,
+- ministarstvu nadležnom za zdravstvo za vozila hitne pomoći,
+- Hrvatskoj gorskoj službi spašavanja za vozila gorske službe spašavanja,
+- Carinskoj upravi ministarstva nadležnog za financije za vozila carine.
+(6) U svrhu izrade izvješća iz stavka 5. ovog članka, koncesionar je obvezan Hrvatskim autocestama d.o.o. dostaviti podatke najkasnije do 10. u mjesecu za prethodni mjesec o ostvarenim transakcijama ENC uređaja iz stavka 1. ovog članka na svom koncesijskom području kao i o eventualno utvrđenim nepravilnostima.
+(7) Hrvatske autoceste d.o.o. će o utvrđenim nepravilnostima u korištenju autocesta odnosno objekta s naplatom cestarine ENC uređajima izdanim za posebno označena vozila obavijestiti vlasnika/ korisnika leasinga pojedinog vozila.
+(8) U slučaju da se ENC uređaj izdan za posebno označeno vozilo koristi na drugom vozilu ili u posebno označenom vozilu za koje ENC uređaj nije izdan, suprotno ovom Pravilniku, za puni iznos cestarine odgovara vlasnik/korisnik leasinga posebno označenog vozila kojemu je ENC uređaj izdan.
+(9) Kada zbog kvara ENC uređaja ili elektroničkog sustava naplate cestarine nije moguće evidentirati prolaske autocestama odnosno objektima ENC uređajem, Hrvatske autoceste d.o.o. odnosno koncesionar će propustiti posebno označeno vozilo na temelju drugog medija/načina propuštanja, te će podatak o takvim prolascima autocestama odnosno objektima uključiti u izvještaj iz stavka 5. ovog članka.

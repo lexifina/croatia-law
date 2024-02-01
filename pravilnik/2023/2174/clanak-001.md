@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom se određuje vizualni identitet i posebne oznake vozila ministarstva nadležnog za unutarnje poslove, vozila ministarstva nadležnog za poslove obrane i Oružanih snaga, vatrogasna vozila, vozila hitne pomoći, vozila gorske službe spašavanja i vozila carine, na koja se ne odnosi odluka Vlade Republike Hrvatske o uvođenju naplate cestarine (dalje u tekstu: posebno označena vozila) kao i način evidentiranja i izvještavanja o prolascima autocestama i objektima na državnim cestama za navedena vozila.
