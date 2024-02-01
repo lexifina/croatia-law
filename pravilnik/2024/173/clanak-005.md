@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 6. stavak 3. mijenja se i glasi:
+»(3) Ukoliko se proizvodnja audiovizualnog djela djelomično odvija u ispodprosječno rangiranim jedinicama sukladno zakonu kojim se uređuje regionalni razvoj Republike Hrvatske te podnositelj Zahtjeva kumulira Zahtjev za financijski poticaj iz članka 3. stavaka 1. i 2. ovoga Pravilnika, financijski poticaj u iznosu od 30 % obračunava se na udio u ukupnim troškovima iz stavka 1. ovoga članka, umanjenim za troškove iz stavka 2. ovoga članka, koji je razmjeran udjelu snimajućih dana/animacije/ postprodukcije u ispodprosječno rangiranim jedinicama u ukupnom broju snimajućih dana/animacije/ postprodukcije u Republici Hrvatskoj.«
