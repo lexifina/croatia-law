@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi (»Narodne novine«, broj 20/20., 87/20., 104/21., 46/22., 111/22., 17/23. i 87/23.) u članku 1. stavku 2. iza točke 82. dodaju se točke 83. i 84. koje glase:
+»83. Delegirana direktiva Komisije (EU) 2023/1437 оd 4. svibnja 2023. o izmjeni, u svrhu prilagodbe znanstvenom i tehničkom napretku, Priloga IV. Direktivi 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za živu u pretvaračima tlaka taljevine za kapilarne reometre pod određenim uvjetima (Tekst značajan za EGP)
+84. Delegirana direktiva Komisije (EU) 2023/1526 оd 16. svibnja 2023. o izmjeni Direktive 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za olovo kao termički stabilizator u polivinil-kloridu koji se upotrebljava kao osnovni materijal u senzorima koji se koriste u in vitro dijagnostičkim medicinskim proizvodima (Tekst značajan za EGP).«
