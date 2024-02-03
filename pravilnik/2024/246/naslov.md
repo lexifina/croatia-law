@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o provedbi intervencije 73.13. »Potpora javnoj infrastrukturi u ruralnim područjima« i intervencije 74.01. »Potpora za sustave javnog navodnjavanja« iz Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027.
