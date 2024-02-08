@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 6. dodaje se novi stavak 10. koji glasi:
+»(10) Rok za dostavu dodatnog izvještaja iz članka 5. stavka 18. ovog Pravilnika je dvadeset dana od proteka izvještajnog razdoblja u skladu s člankom 37. stavkom 1. Uredbe (EU) 2017/1131 Europskog parlamenta i Vijeća od 14. lipnja 2017. o novčanim fondovima (tekst značajan za EGP, Službeni list Europske unije L 169/8, 30. 6. 2017.) i Smjernicama o izvješćivanju nadležnih tijela u skladu s člankom 37. Uredbe o novčanim fondovima ESMA34-49-173 HR od 22. lipnja 2020. koje je donijela Europska agencija za nadzor vrijednosnih papira i tržišta kapitala (ESMA).«

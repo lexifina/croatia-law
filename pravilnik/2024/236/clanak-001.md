@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i drugih izvještaja alternativnog investicijskog fonda (»Narodne novine« br. 155/22), u članku 5. dodaje se novi stavak 18. koji glasi:
+»(18) Osim dodatnih izvještaja iz stavka 1. ovoga članka, UAIF je dužan za svaki novčani AIF kojim upravlja sastavljati izvještaj iz Priloga Provedbene Uredbe Komisije (EU) 2018/708 оd 17. travnja 2018. o utvrđivanju provedbenih tehničkih standarda u vezi s obrascem koji upravitelji novčanih fondova trebaju upotrebljavati za izvješćivanje nadležnim tijelima kako je predviđeno člankom 37. Uredbe (EU) 2017/1131 Europskog parlamenta i Vijeća (Tekst značajan za EGP); Obrazac za izvješćivanje za upravitelje novčanih fondova.«

@@ -1,0 +1,1 @@
+Na temelju članka 171. stavka 7. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, broj 21/18, 126/19 i 110/21 i 83/23) te članka 12. stavka 8. Zakona o provedbi Uredbe (EU) br. 2017/1131 o novčanim fondovima (»Narodne novine« broj 118/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. siječnja 2024. godine donosi
