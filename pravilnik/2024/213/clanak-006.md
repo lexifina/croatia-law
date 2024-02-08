@@ -1,0 +1,4 @@
+## Polaganje osiguranja
+# Članak 6.
+(1) U skladu s člankom 195. stavkom 2. Uredbe (EU) br. 952/2013 i člankom 153. Delegirane uredbe Komisije (EU) br. 2015/2446 od 28. srpnja 2015. o dopuni Uredbe (EU) br. 952/2013 Europskog parlamenta i Vijeća o detaljnim pravilima koja se odnose na pojedine odredbe Carinskog zakonika Unije (SL L 343, 29. 12. 2015., i svim njenim izmjenama i dopunama, deklarant mora položiti osiguranje ako je status zahtijevane kvote kritičan. Iznos ovoga osiguranja obračunava se prilikom prihvaćanja carinske deklaracije te se vrši rezervacija sredstava na osiguranju.
+(2) Ako se posebnim propisom nalaže uzimanje dodatnog osiguranja, osim osiguranja navedenog u stavku 1. ovoga članka, ukupno položeno osiguranje mora biti dovoljno visoko kako bi pokrilo i taj dodatni iznos.
