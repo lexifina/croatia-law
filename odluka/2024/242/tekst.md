@@ -1,0 +1,15 @@
+I.
+Ovom se Odlukom uređuje način vođenja, sadržaj i korištenje Zbirke podataka o mjerama ograničavanja, fizičkim i pravnim osobama i drugim subjektima na koje se mjere ograničavanja odnose (u daljnjem tekstu: Zbirka podataka).
+II.
+Zbirku podataka vodi Ministarstvo vanjskih i europskih poslova u pisanom obliku, s obvezom uspostave zbirke u elektroničkom obliku.
+III.
+Ministarstvo vanjskih i europskih poslova unosi podatke u Zbirku podataka na temelju pojedinačnih obavijesti fizičkih i pravnih osoba i drugih subjekata kao i tijela nadležnih za primjenu međunarodnih mjera ograničavanja iz članka 8. Zakona o mjerama ograničavanja.
+Obavijest fizičkih i pravnih osoba i drugih subjekata te nadležnih tijela za provedbu mjera ograničavanja iz stavka 1. ove točke označava pisanu informaciju o primijenjenoj mjeri ograničavanja s podacima sukladno točki IV. ove Odluke, a koja se bez odgađanja ili najkasnije sljedećeg radnog dana dostavlja voditelju Zbirke podataka iz točke II. ove Odluke poštom i elektroničkim putem unutar Obrasca za izvješćivanje o primijenjenim mjerama ograničavanja.
+Obrazac za izvješćivanje o primijenjenim mjerama ograničavanja iz stavka 2. ove točke nalazi se u prilogu ove Odluke i njezin je sastavni dio, te se objavljuje na mrežnim stranicama Ministarstva vanjskih i europskih poslova i svih nadzornih organa prema Zakonu o mjerama ograničavanja, zajedno s relevantnim adresama elektroničke pošte.
+IV.
+Zbirka podataka sadrži sljedeće podatke o fizičkim osobama: ime i prezime osobe, datum i mjesto rođenja, prebivalište ili boravište, državljanstvo, vrstu i broj osobne isprave, matični broj, odnosno osobni identifikacijski broj (nakon njegovog određivanja i dodjeljivanja), podatke o imovini, imovinskim pravima i obvezama koje te osobe imaju na području Republike Hrvatske, režim mjera ograničavanja temeljem kojeg se određena mjera primjenjuje, datum početka i datum prestanka određene mjere ograničavanja, poduzete mjere ograničavanja, te podatke o osnovanoj sumnji na počinjenje prekršaja ili pokušaj kršenja mjere ograničavanja.
+Zbirka podataka sadrži sljedeće podatke o pravnim osobama i drugim subjektima: naziv i sjedište pravne osobe, ime i prezime osobe ovlaštene za zastupanje pravne osobe, matični broj (MBS), porezni broj (MB), odnosno osobni identifikacijski broj (nakon njegovog određivanja i dodjeljivanja) pravne osobe, podatke o imovini, imovinskim pravima i obvezama koje predmetne pravne osobe imaju na području Republike Hrvatske, režim mjera ograničavanja temeljem kojeg se određena mjera primjenjuje, datum početka i datum prestanka određene mjere ograničavanja, poduzete mjere ograničavanja te podatke o osnovanoj sumnji na počinjenje prekršaja ili pokušaj kršenja mjere ograničavanja.
+V.
+Danom stupanja na snagu ove Odluke prestaje važiti Odluka o načinu vođenja zbirke podataka o međunarodnim mjerama ograničavanja, fizičkim i pravnim osobama i drugim subjektima na koje se mjere ograničavanja odnose (»Narodne novine«, broj 78/11.).
+VI.
+Ova Odluka stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
