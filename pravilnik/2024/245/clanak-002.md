@@ -1,0 +1,2 @@
+# Članak 2.
+Pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi definirani Zakonom o sprječavanju unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima (»Narodne novine«, broj 15/18 i 14/19) (u daljnjem tekstu: Zakon) i Uredbom (EU) br. 1143/2014 Europskog parlamenta i Vijeća od 22. listopada 2014. o sprječavanju i upravljanju unošenja i širenja invazivnih stranih vrsta (SL L 317, 4. 11. 2014.) (u daljnjem tekstu: Uredba (EU) br. 1143/2014).

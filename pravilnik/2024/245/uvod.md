@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 6. Zakona o sprječavanju unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima (»Narodne novine«, broj 15/18 i 14/19), ministar gospodarstva i održivog razvoja donosi
