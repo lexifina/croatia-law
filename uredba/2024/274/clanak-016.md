@@ -1,0 +1,3 @@
+## Minimalna godišnja naknada za dodjelu dozvole za djelatnost obrazovanje i podučavanje u području sporta i rekreacije
+# Članak 16.
+Minimalna godišnja naknada kod raspisa javnog natječaja za dodjelu dozvola na pomorskom dobru za obavljanje djelatnosti obrazovanje i podučavanje u području sporta i rekreacije je 30,00 eura po m2 površine za smještaj ronilačke opreme, opreme za jedrenje, opreme za vaterpolo i slično, a ako uključuje objekt za skladištenje za smještaj i izdavanje ronilačke opreme, opreme za plivanje, opreme za jedrenje, opreme za vaterpolo početni iznos naknade za objekt iznosi 200,00 eura.
