@@ -1,3 +1,0 @@
-# Članak 2.
-(1) Ovaj Pravilnik se primjenjuje ne dovodeći u pitanje obveze prema odredbama posebnih propisa, uključujući i odredbe Uredbe Vijeća (EZ) br. 338/97 od 9. prosinca 1996. o zaštiti vrsta divlje faune i flore uređenjem trgovine njima (SL L 61, 3. 3. 1997.) i Provedbene uredbe Komisije (EU) 2015/736 оd 7. svibnja 2015. o zabrani unošenja primjeraka određenih vrsta divlje faune i flore u Uniju (SL L 117, 8. 5. 2015).
-(2) Odredbe ovoga Pravilnika ne primjenjuju se na genetski modificirane organizme kako su definirani posebnim propisom kojim se uređuje postupanje s genetski modificiranim organizmima.

@@ -1,1 +1,0 @@
-Na temelju članka 68. stavka 4. Zakona o zaštiti prirode (»Narodne novine«, broj 80/13), ministar zaštite okoliša i energetike, uz suglasnost središnjeg tijela državne uprave nadležnog za poljoprivredu, ribarstvo, šumarstvo i lovstvo, donosi
