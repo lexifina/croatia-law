@@ -1,0 +1,7 @@
+## Promicanje učenja hrvatskoga jezika
+# Članak 13.
+(1) Vlada promiče učenje hrvatskoga jezika u Hrvatskoj i svijetu.
+(2) Ministarstvo nadležno za obrazovanje (u daljnjem tekstu: Ministarstvo) donosi kurikule namijenjene redovitom obrazovanju i programe koji se odnose na pripremnu i dopunsku nastavu za one učenike koji ne znaju ili nedostatno znaju hrvatski jezik te programe koji su namijenjeni strancima i potomcima hrvatskih iseljenika u Hrvatskoj i inozemstvu.
+(3) Nadležne državne i javne ustanove različitim oblicima odgojno-obrazovnoga rada potpomažu učenje hrvatskoga kao inoga jezika (stranoga, nasljednoga, drugoga) i hrvatske kulture za sve one koji žele naučiti hrvatski jezik.
+(4) Nastavni predmet Hrvatski jezik u osnovnoškolskom i srednjoškolskom odgoju i obrazovanju ostvaruje se tako da je u svakom razredu (svake školske godine) barem polovica njegova sadržaja izravno usmjerena na jezične teme odnosno na usmeno i pismeno izražavanje (slušanje i govorenje, čitanje i pisanje) na hrvatskome standardnom jeziku, na njegov rječnik, gramatiku i pravopis, funkcionalne stilove, povijest, narječne idiome, književnu uporabu i prevođenje.
+(5) Vlada vodi posebnu skrb o učenju i očuvanju hrvatskoga jezika i kulture među Hrvatima i njihovim potomcima koji žive izvan Hrvatske te o promicanju hrvatskoga standardnog jezika u svijetu poticanjem njegova poučavanja na inozemnim obrazovnim ustanovama.
