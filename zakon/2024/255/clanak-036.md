@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Danom stupanja na snagu odluke iz članka 42. stavka 1. koji je izmijenjen člankom 19. ovoga Zakona prestaje važiti Naredba o popisu iskrcajnih mjesta za iskrcaj ulova s ribarskih plovila koja obavljaju gospodarski ribolov na moru (»Narodne novine«, br. 53/22., 112/22. i 39/23.).
+(2) Danom stupanja na snagu odluke iz članka 83. stavka 1. Zakona o pomorskom dobru i morskim lukama (»Narodne novine«, br. 83/23.) prestaje važiti Odluka o popisu iskrcajnih mjesta za ribarska plovila koja obavljaju gospodarski ribolov na moru (»Narodne novine«, br. 10/20., 145/20., 112/21. i 135/22.).

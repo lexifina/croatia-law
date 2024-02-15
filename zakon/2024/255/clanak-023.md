@@ -1,0 +1,4 @@
+# Članak 23.
+Članak 62. mijenja se i glasi:
+»(1) Poslove višeg inspektora može obavljati osoba koja ima završen sveučilišni prijediplomski studij, sveučilišni diplomski studij, sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij iz područja prirodnih znanosti, tehničkih znanosti, biomedicine i zdravstva, biotehničkih ili društvenih znanosti, najmanje četiri godine radnoga iskustva u struci i položen državni stručni ispit za ribarskog inspektora.
+(2) Poslove inspektora može obavljati osoba koja ima završen sveučilišni prijediplomski studij, sveučilišni diplomski studij, sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij iz područja prirodnih znanosti, tehničkih znanosti, biomedicine i zdravstva, biotehničkih ili društvenih znanosti, najmanje dvije godine radnoga iskustva u struci i položen državni stručni ispit za ribarskog inspektora.«.

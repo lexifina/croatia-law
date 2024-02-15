@@ -1,0 +1,10 @@
+# Članak 6.
+Članak 14. mijenja se i glasi:
+»(1) Na mjestima označenim u službenim pomorskim publikacijama na kojima se nalaze podmorski kabeli i cjevovodi, kao i hidroarheološka nalazišta i nalazi, zabranjen je ribolov uz upotrebu pridnenih povlačnih alata.
+(2) Na području uzgajališta i na udaljenosti manjoj od 300 metara od oznake položaja uzgajališta, odnosno 50 metara za područja gdje se obavlja uzgoj školjkaša, odnosno granice koncesijskog područja zabranjeno je obavljanje ribolova i drugih radnji koje mogu ometati djelatnost uzgoja.
+(3) Iznimno od stavka 2. ovoga članka, u slučaju bijega ribe iz uzgojnih kaveza ministarstvo može, na zahtjev nositelja dozvole za akvakulturu na području uzgajališta, rješenjem dopustiti obavljanje ribolova, u svrhu vraćanja odbjegle ribe.
+(4) Iznimno od stavka 2. ovoga članka, za potrebe zaštite proizvodnje školjkaša od predatora ministarstvo može rješenjem dopustiti ribolov unutar koncesioniranog dijela pomorskog dobra određenim ribolovnim alatima, načinima ribolova i u određenom razdoblju na zahtjev nositelja dozvole za akvakulturu.
+(5) Iznimno od stavka 2. ovoga članka, uz suglasnost nositelja dozvole za akvakulturu dopušteno je obavljanje ribolova u znanstvene svrhe i ribolova u nastavne svrhe u skladu s člankom 35. ovoga Zakona.
+(6) Iznimno od stavka 2. ovoga članka, uz suglasnost nositelja dozvole za akvakulturu za uzgoj ribe ministarstvo može rješenjem dopustiti nositelju dozvole za akvakulturu za uzgoj školjkaša skidanje obraštaja školjkaša s uzgojnih instalacija uzgajališta ribe isključivo u svrhu daljnjeg uzgoja, uz uvjet da je vrsta školjkaša koja se tako koristi upisana u njegovu dozvolu za akvakulturu.
+(7) Protiv rješenja iz stavaka 3., 4. i 6. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(8) Iznimno od stavka 1. ovoga članka, na područjima hidroarheoloških nalazišta i nalaza ministar će dodatno pravilnikom propisati ograničenja u obavljanju ribolova, uz prethodnu suglasnost ministra nadležnog za poslove kulture.«.
