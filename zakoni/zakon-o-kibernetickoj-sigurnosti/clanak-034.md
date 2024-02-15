@@ -1,0 +1,9 @@
+## Provedba revizije kibernetičke sigurnosti
+# Članak 34.
+(1) Reviziju kibernetičke sigurnosti ključni subjekti dužni su provoditi najmanje jednom u dvije godine.
+(2) Reviziju kibernetičke sigurnosti ključni subjekti dužni su provesti i prije isteka roka iz stavka 1. ovoga članka, kada to zatraži nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti na temelju članka 79. stavka 1. podstavka 7. ili članka 81. stavka 1. podstavka 2. ovoga Zakona.
+(3) Revizija kibernetičke sigurnosti iz stavka 1. ovoga članka provodi se kao zaseban postupak ili u okviru revizije poslovanja odnosno druge provjere sukladnosti subjekata koja se provodi na temelju posebnih propisa kojima se uređuje područje pružanja određenih usluga odnosno obavljanja određenih djelatnosti.
+(4) Reviziju kibernetičke sigurnosti važni subjekti dužni su provesti kada to zatraži nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti na temelju članka 79. stavka 1. podstavka 7. ovoga Zakona.
+(5) Izvješće iz članka 32. stavka 4. ovoga Zakona ključni i važni subjekti dužni su dostaviti nadležnom tijelu za provedbu zahtjeva kibernetičke sigurnosti bez odgode, a najkasnije u roku od osam dana od dana njegova primitka.
+(6) Iznimno od stavka 5. ovoga članka, kada je revizija kibernetičke sigurnosti provedena na zahtjev nadležnog tijela za provedbu zahtjeva kibernetičke sigurnosti na temelju članka 79. stavka 1. podstavka 7. ili članka 81. stavka 1. podstavka 2. ovoga Zakona, subjekt za koji je revizija kibernetičke sigurnosti provedena dužan je izvješće iz članka 32. stavka 4. ovoga Zakona dostaviti nadležnom tijelu za provedbu zahtjeva kibernetičke sigurnosti odmah po njegovu primitku.
+(7) Troškove provedbe revizije kibernetičke sigurnosti snose ključni i važni subjekti, ako nije drugačije propisano ovim Zakonom.

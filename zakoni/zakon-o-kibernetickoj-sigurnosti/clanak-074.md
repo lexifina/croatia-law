@@ -1,0 +1,4 @@
+## Obveza izvještavanja o povredama koje uključuju povredu osobnih podataka
+# Članak 74.
+(1) Ako nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti tijekom stručnog nadzora nad provedbom zahtjeva kibernetičke sigurnosti ili izvršavanja drugih aktivnosti iz ovoga Zakona sazna za povredu obveza iz članka 25. ovoga Zakona koju je počinio ključan ili važan subjekt koja uključuje povredu osobnih podataka, dužno je o toj povredi i utvrđenom činjeničnom stanju izvijestiti tijelo nadležno za zaštitu osobnih podataka bez nepotrebne odgode.
+(2) Ako o povredi iz stavka 1. ovoga članka izvještava tijelo nadležno za zaštitu osobnih podataka osnovano u drugoj državi članici, nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti dužno je o istoj povredi izvijestiti i Agenciju za zaštitu osobnih podataka.

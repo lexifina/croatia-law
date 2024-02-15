@@ -1,0 +1,4 @@
+## Provedba stručnog nadzora nad važnim subjektom
+# Članak 76.
+(1) Stručni nadzor nad važnim subjektom provodi se kada nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti raspolaže informacijama koje upozoravaju da subjekt ne provodi mjere upravljanja kibernetičkim sigurnosnim rizicima u skladu s propisanim obvezama ili da ne ispunjava obveze vezane uz obavještavanje o kibernetičkim prijetnjama i incidentima na propisani način i u propisanim ili ostavljenim rokovima ili da ne postupa po zahtjevima nadležnih tijela iz ovoga Zakona.
+(2) U svrhu utvrđivanja terminskih planova provedbe stručnih nadzora iz stavka 1. ovoga članka te odlučivanja o prioritetima u provedbi nadzora nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti može razvrstavati važne subjekte prema kategoriji rizičnosti.

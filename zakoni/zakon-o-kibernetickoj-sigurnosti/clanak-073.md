@@ -1,0 +1,4 @@
+## Ograničenja u korištenju i pravu pristupa informacijama
+# Članak 73.
+(1) Popisi ključnih i važnih subjekata, kao i svi ostali zapisi koji nastaju u okviru provedbe ovoga Zakona koriste se i razmjenjuju isključivo u svrhu izvršavanja zahtjeva iz ovoga Zakona, uz poštivanje potrebe ograničavanja pristupa tim zapisima, pod uvjetima propisanim zakonom kojim se uređuje zaštita fizičkih osoba u vezi s obradom i razmjenom osobnih podataka u svrhe sprječavanja, istraživanja, otkrivanja ili progona kaznenih djela ili izvršavanja kaznenih sankcija.
+(2) Popisi i ostali zapisi iz stavka 1. ovoga članka predstavljaju informacije u odnosu na koje je moguće ograničiti pravo pristupa korisniku prava na pristup informacija i ponovnu uporabu informacija, ovisno o rezultatima testa razmjernosti i javnog interesa koji se provodi prema odredbama zakona kojim se uređuje pravo na pristup informacijama.

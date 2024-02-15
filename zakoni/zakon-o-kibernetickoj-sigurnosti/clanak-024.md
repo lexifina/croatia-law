@@ -1,0 +1,3 @@
+## Provedbeni propis o kategorizaciji subjekata, vođenju popisa ključnih i važnih subjekata i posebnog registra subjekata
+# Članak 24.
+Mjerila za razvrstavanje subjekata u kategoriju ključnih odnosno važnih subjekata na temelju posebnih kriterija iz članka 11. ovoga Zakona, kriteriji za provođenje procjena iz članka 12. stavka 1. podstavka 2. i stavka 3. i članka 13. ovoga Zakona, vođenje popisa ključnih i važnih subjekata, prikupljanje podataka u svrhu provođenja kategorizacije subjekata sukladno ovom Zakonu i vođenje posebnog registra subjekata iz članka 22. ovoga Zakona propisuje Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) uredbom, na prijedlog središnjeg državnog tijela za kibernetičku sigurnost.

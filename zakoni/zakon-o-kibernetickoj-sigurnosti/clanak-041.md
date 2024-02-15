@@ -1,0 +1,3 @@
+## Obavještavanje javnosti o značajnom incidentu
+# Članak 41.
+Ako je za sprečavanje ili rješavanje značajnog incidenta koji je u tijeku nužno obavijestiti javnost ili ako je objava informacija o značajnom incidentu u javnom interesu iz nekog drugog razloga, nadležni CSIRT te, prema potrebi, CSIRT-ovi ili nadležna tijela drugih pogođenih država članica mogu, nakon savjetovanja s jedinstvenom kontaktnom točkom, nadležnim tijelom za provedbu zahtjeva kibernetičke sigurnosti odnosno nadležnim tijelom za provedbu posebnih zakona, ovisno o podjeli nadležnosti iz Priloga III. ovoga Zakona, te pogođenim subjektom obavijestiti javnost o značajnom incidentu ili zatražiti od ključnog i važnog subjekta da to učini.

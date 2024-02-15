@@ -1,0 +1,9 @@
+## Određivanje nadležnosti na temelju teritorijalnosti
+# Članak 14.
+(1) Subjekti iz Priloga I. i Priloga II. ovoga Zakona podliježu nadležnostima i ovlastima propisanim ovim Zakonom ako pružaju usluge odnosno obavljaju djelatnosti na području Europske unije, a imaju poslovni nastan na teritoriju Republike Hrvatske.
+(2) Iznimno od stavka 1. ovoga članka, pružatelji javnih elektroničkih komunikacijskih mreža ili javno dostupnih elektroničkih komunikacijskih usluga podliježu nadležnostima i ovlastima propisanim ovim Zakonom ako svoje usluge pružaju na teritoriju Republike Hrvatske, neovisno o državi poslovnog nastana.
+(3) Iznimno od stavka 1. ovoga članka, pružatelji usluga DNS-a, registar naziva vršne nacionalne internetske domene i registri, pružatelji usluga računalstva u oblaku, pružatelji usluga podatkovnog centra, pružatelji mreža za isporuku sadržaja, pružatelji upravljanih usluga, pružatelji upravljanih sigurnosnih usluga, pružatelji internetskih tržišta, pružatelji internetskih tražilica ili pružatelji platformi za usluge društvenih mreža podliježu nadležnostima i ovlastima propisanim ovim Zakonom ako na teritoriju Republike Hrvatske imaju glavni poslovni nastan ili njihov predstavnik ima poslovni nastan na teritoriju Republike Hrvatske.
+(4) Subjekt ima glavni poslovni nastan u smislu stavka 3. ovoga članka ako na teritoriju Republike Hrvatske:
+– pretežno donosi odluke povezane s mjerama upravljanja kibernetičkim sigurnosnim rizicima ili
+– provodi mjere upravljanja kibernetičkim sigurnosnim rizicima kada se država članica u kojoj donosi odluke iz podstavka 1. ovoga stavka ne može utvrditi ili takve odluke subjekt ne donosi u Europskoj uniji ili
+– ima poslovnu jedinicu s najvećim brojem zaposlenika u Europskoj uniji kada se država članica u kojoj provodi aktivnosti iz podstavka 2. ovoga stavka ne može utvrditi.

@@ -1,0 +1,3 @@
+## Zadaće od javnog interesa
+# Članak 71.
+Zadaće koje su ovim Zakonom utvrđene za središnje državno tijelo za kibernetičku sigurnost, nadležna tijela za provedbu zahtjeva kibernetičke sigurnosti i nadležne CSIRT-ove, uključujući zadaće vezane uz suradnju, pružanje pomoći i razmjenu informacija, na nacionalnoj i međunarodnoj razini, nužne su za osiguranje djelotvorne provedbe postupaka i mjera za postizanje visoke razine kibernetičke sigurnosti u sektorima od posebne važnosti za nesmetano obavljanje ključnih društvenih i gospodarskih aktivnosti i pravilno funkcioniranje unutarnjeg tržišta te je izvršavanje tih zadaća od javnog interesa.

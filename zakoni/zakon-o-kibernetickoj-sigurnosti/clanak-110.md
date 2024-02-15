@@ -1,0 +1,5 @@
+## Rok za provedbu prve kategorizacije subjekata
+# Članak 110.
+(1) Nadležna tijela za provedbu zahtjeva kibernetičke sigurnosti iz članka 4. stavka 1. točke 28. ovoga Zakona i nadležna tijela za provedbu posebnih zakona iz članka 4. stavka 1. točke 27. ovoga Zakona provest će prvu kategorizaciju subjekata i dostavu obavijesti o provedenoj kategorizaciji subjekata u roku od godinu dana od dana stupanja na snagu ovoga Zakona.
+(2) Postupak kategorizacije subjekata i dostava obavijesti o provedenoj kategorizaciji subjekata provest će se u roku iz stavka 1. ovoga članka za sve operatore ključnih usluga s popisa iz članka 12. Zakona o kibernetičkoj sigurnosti operatora ključnih usluga i davatelja digitalnih usluga (»Narodne novine«, br. 64/18.).
+(3) Postupak prve kategorizacije informacijskih posrednika u razmjeni elektroničkog računa među poduzetnicima i dostava obavijesti o provedenoj kategorizaciji sukladno ovom Zakonu provest će se u roku od tri mjeseca od stupanja na snagu zakona kojim se uređuje razmjena elektroničkog računa između poduzetnika.

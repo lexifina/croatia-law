@@ -1,0 +1,3 @@
+## Provedbeni propis o obavještavanju o kibernetičkim prijetnjama i incidentima
+# Članak 44.
+Kriteriji za utvrđivanje značajnih incidenata, uključujući kriterijske pragove ako su potrebni zbog specifičnosti pojedinog sektora, vrste i sadržaj obavijesti iz članaka 37. do 40. ovoga Zakona, rokovi za njihovu dostavu, postupanja s tim obavijestima, uključujući postupanja nadležnog CSIRT-a u povodu zaprimljenih obavijesti iz članaka 37. i 39. ovoga Zakona, prava pristupa i druga pitanja bitna za korištenje nacionalne platforme za prikupljanje, analizu i razmjenu podataka o kibernetičkim prijetnjama i incidentima, uključujući mogućnosti korištenja drugih načina dostave obavijesti iz članaka 37. i 39. ovoga Zakona, propisuju se uredbom iz članka 24. ovoga Zakona.
