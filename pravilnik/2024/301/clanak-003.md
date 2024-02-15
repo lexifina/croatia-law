@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 9. stavak 3. mijenja se i glasi:
+»(3) Ako u postupku dodjele potpore Agencija za plaćanja tijekom administrativne kontrole zahtjeva za potporu utvrdi da korisnik nije ispunio uvjete iz stavaka 1. i 2. ovoga članka, korisniku će izdati odluku o odbijanju zahtjeva za potporu u skladu s člankom 38. ovoga Pravilnika. U slučaju podnošenja zahtjeva za potporu korisnika (subjekta) odgovornog za objekt registriran za držanje svinja ako je taj objekt smješten u zoni ograničenja određenoj rješenjem Ministarstva poljoprivrede zbog izbijanja afričke svinjske kuge, prihvatljivo je odstupanje od uvjeta iz točaka a) i e) stavka 2. ovoga članka, osim uvjeta da nije u blokadi u trenutku ishođenja BON2/SOL2 obrasca.«.
