@@ -1,0 +1,1 @@
+Pravilnik o izmjeni Pravilnika o vrsti, obliku i načinu postavljanja državnih ovjernih oznaka koje se rabe kod ovjeravanja zakonitih mjerila, oznaka za označivanje mjerila, oznaka koje rabe ovlaštena tijela za pripremu zakonitih mjerila za ovjeravanje te ovjernih isprava

@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 2. članka 25. stavka 7. i članka 31. stavka 2. Zakona o mjeriteljstvu (»Narodne novine«, broj 74/14, 111/18 i 114/22) glavna ravnateljica Državnog zavoda za mjeriteljstvo donosi
