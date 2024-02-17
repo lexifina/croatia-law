@@ -1,0 +1,8 @@
+## UGOVOR O ZAKUPU
+# Članak 3.
+(1) Trgovačko društvo kojem je upućen poziva na sklapanje ugovora o zakupu dijela kampa u vlasništvu Republike Hrvatske (u daljnjem tekstu: ugovor o zakupu) dužno se odazvati tom pozivu u roku od 90 dana od dana primitka poziva.
+(2) Ugovor o zakupu, u ime Republike Hrvatske, sklapa ministarstvo nadležno za upravljanje državnom imovinom (u daljnjem tekstu: ministarstvo), kao zakupodavac (u daljnjem tekstu: zakupodavac) i trgovačko društvo kao zakupnik (u daljnjem tekstu: zakupnik) na rok od 50 godina.
+(3) Ugovor o zakupu sklapa se u obliku javnobilježničkog akta ili potvrđene (solemnizirane) privatne isprave kao ovršne isprave, radi osiguranja naplate zakupnine, sukladno zakonu kojim se uređuju ovrhe i zakonu kojim se uređuje javno bilježništvo.
+(4) Troškove javnobilježničke potvrde ugovora o zakupu snosi zakupnik.
+(5) Zakupodavac dostavlja preslike ugovora o zakupu ministarstvima nadležnim za financije i turizam te jedinicama lokalne i područne (regionalne) samouprave na čijem području se nalazi turističko zemljište koje je predmet ugovora u roku od 30 dana od dana sklapanja ugovora o zakupu iz stavka 2. ovoga članka.
+(6) Ministarstvo nadležno za upravljanje državnom imovinom dužno je u roku od 60 dana od dana stupanja na snagu ove Uredbe pozvati trgovačko društvo kod kojeg je status zemljišta u kampu riješen temeljem odredbi Zakona o turističkom i ostalom građevinskom zemljištu neprocijenjenom u postupku pretvorbe i privatizacije (»Narodne novine, br. 92/10. i 50/20.) utvrđenjem omjera suvlasništva, na sklapanje ugovora o zakupu suvlasničkog dijela zemljišta u kampu.

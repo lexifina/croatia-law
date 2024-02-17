@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 13.
+(1) Ako je do stupanja na snagu Zakona ministarstvo nadležno za turizam izdalo račun za stalni dio koncesijske naknade za tekuću godinu sukladno Uredbi o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske račun koji je izdalo ministarstvo nadležno za turizam razmjerno se umanjuje, a za razmjerni dio tekuće godine, za razdoblje od dana stupanja na snagu Zakona, izdaje se račun za zakupninu u skladu s člancima od 5. do 8. ove Uredbe.
+(2) Ako je zakupnik do stupanja na snagu Zakona platio stalni dio koncesijske naknade za tekuću godinu na temelju računa koji je izdan sukladno Uredbi o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske, razmjerni dio te naknade računa se kao predujam zakupnine za razdoblje od dana stupanja na snagu Zakona.
