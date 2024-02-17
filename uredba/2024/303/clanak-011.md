@@ -1,0 +1,9 @@
+## Kriteriji za procjenu učinaka nacrta prijedloga zakona u području održivog razvoja
+# Članak 11.
+(1) Stručni nositelj utvrđuje učinke nacrta prijedloga zakona u području održivog razvoja koji uključuje procjenu učinaka na zaštitu klime, kvalitetu zraka, vode i tla, održivost prirodnih resursa, korištenje obnovljivih i neobnovljivih izvora energije, gospodarenje otpadom te učinak na ciljeve održivog razvoja te druga uža područja koja je utvrdio stručni nositelj ili Ured.
+(2) Za područja iz stavka 1. ovoga članka, stručni nositelj utvrđuje učinke prema kriterijima:
+- zaštite klime koje uključuje smanjenje emisija stakleničkih plinova, djelovanje energetskog sektora na okoliš, poticanje energetske učinkovitosti u svim sektorima energije, održivu opskrbu energijom, informiranje i edukaciju o uzrocima i posljedicama klimatskih promjena
+- kvalitete zraka, vode i tla koje uključuje smanjenje emisija zagađivanja iz industrijskih zona, pročišćavanje otpadnih voda, smanjenje erozije tla i prekomjerne upotrebe kemikalija
+- održivosti prirodnih resursa koje uključuje odgovorno dugoročno upravljanje vodama, tlom, šumama, smanjenje prekomjerne eksploatacije prirodnih resursa, očuvanje bioraznolikosti, zaštitu ekosustava šuma, voda, mora, praćenje kvalitete zraka, osiguranje i održivost pitke vode
+- korištenja obnovljivih i neobnovljivih izvora energije koje uključuje osiguranje pristupa izvorima energije za osnovne potrebe, poticanje korištenja energije sunca, vjetra, vode, geotermalne energije i biomase, dugoročno učinkovito korištenje ugljikovodika i rudnih kapaciteta, subvencije i poticaji za korištenje obnovljivih izvora energije i čistih tehnologija
+- gospodarenja otpadom koje uključuje održivi sustav sakupljanja i razdvajanja otpada, poticanje prakse razdvajanja otpada na izvoru, razvijanje i provedbu sustava za recikliranje otpada i njegovu ponovnu uporabu, sigurno zbrinjavanje otpada koji se ne može reciklirati.
