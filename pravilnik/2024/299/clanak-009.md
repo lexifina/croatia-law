@@ -1,0 +1,4 @@
+## Prijelazne odredbe
+# Članak 9.
+(1) Rezultati testiranja znanja stranih jezika za čijim poznavanjem postoji potreba službe prema normi STANAG 6001 i dijagnostičkim testovima provedenim na temelju Pravilnika o stranim jezicima u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 9/14) vrijedit će u rokovima propisanim člankom 3. ovoga Pravilnika.
+(2) U skladu sa stavkom 1. ovoga članka, nove potvrde/certifikati o razini znanja stranog jezika izdat će se na temelju zahtjeva koje djelatnici Ministarstva obrane i pripadnici Oružanih snaga Republike Hrvatske podnose ustrojstvenim jedinicama Ministarstva obrane i Oružanih snaga Republike Hrvatske nadležnim za ljudske potencijale koje će od Središta za strane jezike »Katarina Zrinska« zatražiti izdavanje odgovarajućih potvrda/certifikata.

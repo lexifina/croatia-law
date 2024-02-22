@@ -1,0 +1,1 @@
+Na temelju članka 87. stavka 3. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, broj 73/13, 75/15, 50/16, 30/18, 125/19 i 158/23), na prijedlog načelnika Glavnog stožera Oružanih snaga Republike Hrvatske, donosim
