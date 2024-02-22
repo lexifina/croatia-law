@@ -1,0 +1,2 @@
+# Članak 4.
+Sudionici u provedbi aktivnosti iz Nacionalnog programa su predstavnici ministarstva nadležnog za poljoprivredu, institucije koje čuvaju kolekcije uključene u Nacionalnu banku biljnih gena, znanstvene institucije, istraživački instituti, oplemenjivači bilja, poslovni subjekti koji se bave sjemenarstvom, udruge, poljoprivredni proizvođači i druge fizičke i pravne osobe koje su svojim radom vezane za očuvanje i uporabu biljnih genetskih izvora.
