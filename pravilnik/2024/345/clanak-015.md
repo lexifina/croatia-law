@@ -1,0 +1,10 @@
+## Ugovor o radu
+# Članak 15.
+(1) Posrednik je dužan osigurati da pomorac ili brodarac prije upućivanja na brod ima potpisan individualni ugovor o radu koji mora biti u skladu s mjerodavnim pravom i sadržavati najmanje standarde utvrđene primjenjivim međunarodnim ugovorima i/ili nacionalnim kolektivnim ugovorom.
+(2) Ugovor o radu s pomorcem ili brodarcem potpisuje brodar ili posrednik u ime i za račun brodara.
+(3) Posrednik je dužan prije potpisivanja ugovora pomorca ili brodarca obavijestiti o njegovim pravima i obvezama koji proistječu iz ugovora o radu.
+(4) Posrednik je dužan, prije potpisivanja ugovora iz stavka 1. ovoga članka, provjeriti ima li brodar osiguranje odgovornosti za slučaj smrti, narušavanja zdravlja ili tjelesne ozljede pomorca ili brodarca, najmanje na razini koja je utvrđena mjerodavnim pravom i kolektivnim ugovorom i ima li sustav osiguranja repatrijacije pomorca ili brodarca, te o tome izvijestiti pomorca ili brodarca.
+(5) Posrednik je dužan posjedovati dokaz da brodar za čije brodove obavlja djelatnost posredovanja posjeduje osiguranje ili drugo financijsko jamstvo radi naknade gubitka pomorcima ili brodarcima koji može nastati kao posljedica propusta brodara po ugovoru o zaposlenju pomorca ili brodarca.
+(6) Posrednik je dužan obavijestili pomorca ili brodarca, prije ili u procesu zapošljavanja, o njegovim pravima temeljem sustava koji proizlazi iz stavka 5. ovoga članka, kao i o posjedovanju vlastite važeće police osiguranja od profesionalne odgovornosti za novčane gubitke koje pretrpi pomorac ili brodarac uslijed propusta u radu posrednika.
+(7) Posrednik je dužan prije potpisivanja ugovora iz stavka 1. ovoga članka provjeriti udovoljava li pomorac ili brodarac propisanim uvjetima za ukrcaj na određeni brod, u određenu službu i u određenom svojstvu.
+(8) Posrednik je dužan omogućiti pomorcu ili brodarcu da pažljivo provjeri uvjete zapošljavanja prije i poslije potpisivanja ugovora o radu, a njegov primjerak ugovora o radu dužan mu je uručiti prije ukrcaja na brod.

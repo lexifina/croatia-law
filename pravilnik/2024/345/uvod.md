@@ -1,0 +1,1 @@
+Na temelju članka 125.a stavka 4. Pomorskog zakonika (»Narodne novine« br. 181/04, 76/07, 146/08, 61/11, 56/13, 26/15 i 17/19) i članka 86. stavka 2. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« br. 144/21) ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra rada, mirovinskog sustava, obitelji i socijalne politike donosi
