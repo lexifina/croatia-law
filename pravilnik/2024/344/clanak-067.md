@@ -1,0 +1,3 @@
+## Prijava i odjava pomorca na obvezna osiguranja od strane poslodavca (članak 11.4. Uredbe (EZ) br. 883/2004)
+# Članak 67.
+Prijavu i odjavu na obvezna osiguranja putem informatičkog sustava Hrvatskog zavoda za mirovinsko osiguranje kako je definirano posebnim propisima o mirovinskom osiguranju, podnosi poslodavac hrvatska pravna ili fizička osoba za pomorca, bez obzira na njegovo državljanstvo, koji u Republici Hrvatskoj ima prebivalište ili uobičajeno boravište i koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu države članice EU ili EGP, osim zastave Republike Hrvatske.

@@ -1,0 +1,1 @@
+Na temelju članka 137. stavka 7. Pomorskog zakonika (»Narodne novine« broj 181/04, 76/07, 146/08, 61/11, 56/13, 26/15 i 17/19) i članka 78. stavka 5. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine« br. 144/21) ministar mora, prometa i infrastrukture donosi

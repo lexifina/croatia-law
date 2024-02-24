@@ -1,0 +1,4 @@
+## Unos podatka u elektronsku pomorsku knjižicu
+# Članak 17.
+(1) Osobni podatci pomorca unose se u elektronsku pomorsku knjižicu upisom u centralnu bazu podataka sukladno odredbama članka 12. ovoga Pravilnika, odnosno preuzimaju se iz javnih registara po službenoj dužnosti, bez traženja istih podataka od građana.
+(2) Podatci o plovidbenoj službi pomorca sadrže sve podatke koji su uneseni u centralnu bazu podatka o ukrcaju odnosno iskrcaju pomorca s imenom luke i datumom ukrcaja odnosno iskrcaja, svojstvu u kojemu je isti ukrcan; IMO/NIB broju, imenu i vrsti, imenu luke upisa, bruto tonaži, vrsti i snazi pogonskog postrojenja, kategoriji plovidbe pomorskog objekta i vremenu koje je pomorac proveo na pomorskom objektu, a koji su uneseni i ovjereni sukladno odredbama Dijela trećeg ovoga Pravilnika.

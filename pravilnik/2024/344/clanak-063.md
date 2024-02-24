@@ -1,0 +1,6 @@
+## Prijava dana izvan plovidbe
+# Članak 63.
+(1) Za člana posade ukrcanog na pomorski objekt ili objekt unutarnje plovidbe u međunarodnoj plovidbi kojeg ukrcava brodar, kompanija, poslodavac ili posrednik, podatke o danima izvan plovidbe u sustav CIMIS dužan je unijeti brodar, kompanija, poslodavac ili posrednik najkasnije do 15. siječnja za prethodnu kalendarsku godinu.
+(2) Brodar, kompanija, poslodavac ili posrednik iz stavka 1. ovoga članka dužan je prikupljati podatke i dokumente potrebne za prijavu dana izvan plovidbe, u sustav CIMIS unijeti u elektronskom obliku preslike dokumenata kojima se dokazuju dani izvan plovidbe, čuvati dokumente sukladno posebnim propisima te ih dostaviti ili dati na uvid na zahtjev lučke kapetanije i nadležnih inspekcijskih tijela.
+(3) Član posade ukrcan na pomorski objekt ili objekt unutarnje plovidbe u međunarodnoj plovidbi kojeg ne ukrcava brodar, kompanija, poslodavac ili posrednik dužan je neposredno po pojedinom događaju, odnosno najkasnije do 15. siječnja za prethodnu kalendarsku godinu u sustav ePomorac unijeti podatke i u elektronskom obliku dokumente kojima se dokazuju dani izvan plovidbe.
+(4) Član posade iz stavka 3. ovoga članka će najkasnije do 15. siječnja za prethodnu kalendarsku godinu nadležnoj lučkoj kapetaniji dostaviti na uvid izvornike isprava kojima se dokazuju dani izvan plovidbe.

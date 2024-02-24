@@ -1,0 +1,9 @@
+## Prijava i odjava pomorca na obvezna osiguranja od strane poslodavca, brodara ili kompanije
+# Članak 68.
+(1) Prijavu i odjavu na obvezna osiguranja putem informatičkog sustava Hrvatskog zavoda za mirovinsko osiguranje kako je definirano posebnim propisima o mirovinskom osiguranju podnosi brodar ili kompanija hrvatska pravna ili fizička osoba za pomorca, bez obzira na njegovo državljanstvo, koji:
+1. ima prebivalište ili uobičajeno boravište u Republici Hrvatskoj i koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu Republike Hrvatske
+2. ima prebivalište ili uobičajeno boravište u Republici Hrvatskoj i koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu države članice EU ili EGP, osim zastave Republike Hrvatske, ako je pomorac izuzet iz socijalnog sustava države članice EU ili EGP čiju zastavu brod vije posjedovanjem potvrde A1
+3. ima prebivalište ili uobičajeno boravište u Republici Hrvatskoj i koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu treće države ili
+4. ima prebivalište ili uobičajeno boravište u drugoj državi članici EU ili EGP i koji je ukrcan na pomorski objekt u međunarodnoj plovidbi koji vije zastavu Republike Hrvatske, osim kada je pomorac izuzet iz socijalnog sustava Republike Hrvatske posjedovanjem potvrde A1 ili kada pomorac dostavi dokaz da je obvezno osiguran kod stranog nositelja socijalnog osiguranja u trećoj državi s kojom Republika Hrvatska ima sklopljen ugovor o socijalnom osiguranju i ako nije drukčije utvrđeno ugovorom o socijalnom osiguranju.
+(2) Odredbe stavka 1. točke 1., 3. i 4. ovoga članka odnose se i na poslodavca hrvatsku pravnu ili fizičku osobu.
+(3) U slučaju kada su brodar, kompanija i poslodavac iz stavka 1. i 2. ovoga članka različite osobe, prijavu i odjavu na obvezna osiguranja podnosi ona osoba kako je utvrđeno ugovorom o popunjavanju broda posadom.
