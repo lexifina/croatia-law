@@ -1,0 +1,9 @@
+# Članak 19.
+Članak 35. mijenja se i glasi:
+»(1) Korisnik doplatka za djecu kaznit će se za prekršaj novčanom kaznom u iznosu od 130,00 do 1320,00 eura ako:
+1. ostvari pravo na doplatak za djecu na osnovi neistinitih i netočnih podataka (članak 27. stavak 1. i članak 28. stavak 1.)
+2. ne prijavi u propisanom roku svaku promjenu koja utječe na gubitak prava na doplatak za djecu ili na smanjenje svote doplatka za djecu (članak 28. stavak 1.).
+(2) Odgovorna osoba nadležnoga tijela državne uprave ili tijela jedinica lokalne i područne (regionalne) samouprave, javne ustanove, odnosno drugoga nadležnog tijela ili pravne osobe i fizička osoba koja Zavodu uskrati dostavu ili stavljanje na raspolaganje podataka iz članka 30.a stavka 2. ovoga Zakona kaznit će se za prekršaj novčanom kaznom u iznosu od 190,00 do 660,00 eura.
+(3) Banka koja obavlja platni promet u Republici Hrvatskoj kaznit će se za prekršaj novčanom kaznom u iznosu od 1300,00 do 13.300,00 eura ako na zahtjev Zavoda ne vrati doplatak za djecu nakon smrti korisnika ili djeteta (članak 26. stavak 3.) ili ako vlastita potraživanja namiruje iz sredstava doplatka za djecu (članak 26. stavak 4.) ili ako na zahtjev Zavoda ne da podatke o drugoj osobi koja je raspolagala sredstvima za doplatak za djecu (članak 26. stavak 5.).
+(4) Odgovorna osoba nadležnog tijela socijalne skrbi kaznit će se za prekršaj novčanom kaznom u iznosu od 190,00 do 660,00 eura ako u propisanom roku ne izvijesti Zavod da korisnik doplatak za djecu ne koristi za uzdržavanje i odgoj djece (članak 30. stavak 1.) ili ako ne donese odluku o imenovanju posebnog skrbnika za isplatu doplatka za djecu i o tome ne izvijesti Zavod (članak 30. stavak 2.).
+(5) Ako Zavod utvrdi postojanje osnovane sumnje da je povredom propisa počinjen prekršaj iz stavaka 1. do 4. ovoga članka, ovlašten je podnijeti optužni prijedlog za pokretanje prekršajnog postupka.«.
