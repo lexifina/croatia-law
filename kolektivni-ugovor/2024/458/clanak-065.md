@@ -1,0 +1,6 @@
+## Naknada za vrijeme bolovanja
+# Članak 65.
+(1) Ako je zaposlenik odsutan s rada zbog bolovanja do 42 dana, neovisno o vrsti bolovanja, pripada mu naknada plaće u visini 85 % njegove plaće kao da je radio u redovnom radnom vremenu ili u visini 85 % njegove prosječne mjesečne plaće ostvarene u tri mjeseca neposredno prije mjeseca u kojemu je započeto bolovanje (uračunavajući sva primanja u novcu i naravi koja predstavljaju naknadu za rad), ako je to povoljnije za zaposlenika.
+(2) Iznimno, naknada plaće u visini 100 % iznosa njegove prosječne mjesečne plaće ostvarene u tri mjeseca neposredno prije mjeseca u kojemu je započeto bolovanje pripada zaposleniku kada je na bolovanju zbog profesionalne bolesti ili ozljede na radu, i to za vrijeme trajanja bolovanja zbog profesionalne bolesti ili ozljede na radu.
+(3) Ako je u tri mjeseca koja prethode mjesecu u kojemu je započeto bolovanje zaposlenik za dio razdoblja ili za cijelo razdoblje ostvario pravo na naknadu plaće, tada mu se za to vrijeme obračunava naknada plaće u visini kao da je radio u redovnom radnom vremenu i kao takva uračunava u prosjek iz stavka 1. i 2. ovoga članka.
+(4) Ako je posebnim propisima pravo na naknadu plaće iz ovoga članka uređeno na povoljniji način, na zaposlenika će se primijeniti to povoljnije pravo.
