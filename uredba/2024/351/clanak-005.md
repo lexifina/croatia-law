@@ -1,0 +1,6 @@
+## Provedba vrednovanja radnih mjesta
+# Članak 5.
+(1) Vrednovanje radnih mjesta u državnim tijelima, koje je osnova za klasifikaciju radnih mjesta i razvrstavanje radnih mjesta u platne razrede, provodi tijelo državne uprave nadležno za službeničke odnose u suradnji sa svim državnim tijelima.
+(2) Vrednovanje radnih mjesta u javnim službama, koje je osnova za klasifikaciju radnih mjesta i razvrstavanje radnih mjesta u platne razrede, provodi tijelo državne uprave nadležno za rad u suradnji s tijelom državne uprave u čije upravno područje pripadaju poslovi pojedine javne službe, odnosno tijelom koje je bilo stručni nositelj izrade posebnog propisa kojim je pojedina javna služba osnovana.
+(3) Vrednovanje iz stavaka 1. i 2. ovoga članka provodi se na temelju podataka o poslovima i zadacima radnog mjesta koje dostavljaju državna tijela, odnosno javne službe i drugih dostupnih podataka o radnom mjestu na temelju kojih se može provesti vrednovanje.
+(4) Pri prvom vrednovanju radnih mjesta u postupku prevođenja radnih mjesta sukladno zakonu kojim se uređuje sustav plaća u državnoj službi i javnim službama, pored standardnih mjerila iz članka 2. ove Uredbe, uzet će se u obzir i dosadašnji koeficijenti složenosti poslova kao i stalni dodaci na plaću vezani uz radno mjesto odnosno rad u pojedinom državnom tijelu ili javnoj službi.
