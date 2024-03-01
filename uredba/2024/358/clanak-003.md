@@ -1,0 +1,3 @@
+# Članak 3.
+Vojnom specijalistu iz članka 2. ove Uredbe koji sustavom promaknuća, u skladu sa Zakonom o službi u Oružanim snagama Republike Hrvatske, dostigne ustrojbeni čin radnog mjesta na koji je raspoređen ili dostigne maksimalni čin za vojnog specijalista propisan odredbama toga Zakona, vrijednost koeficijenta osobnog čina iz članka 2. ove Uredbe uvećava se svakih idućih pet godina provedenih na dužnosti vojnog specijalista za 5 %.
+Uvećanje vrijednosti koeficijenta osobnog čina za vojne specijaliste iz stavka 1. ovoga članka odnosi se i na vojne specijaliste koji su to pravo na uvećanje stekli na dan stupanja na snagu ove Uredbe.
