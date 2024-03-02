@@ -1,0 +1,3 @@
+## Dodjela potpore
+# Članak 2.
+Potpora iz Programa dodjeljuje se u skladu s Uredbom Komisije (EU) br. 1408/2013 od 18. prosinca 2013. o primjeni članaka 107. i 108. Ugovora o funkcioniranju Europske unije na potpore de minimis u poljoprivrednom sektoru (SL L 352, 24. prosinca 2013.) kako je posljednji put izmijenjena Uredbom Komisije (EU) 2023/2391 оd 4. listopada 2023. o izmjeni uredbi (EU) br. 717/2014, (EU) br. 1407/2013, (EU) br. 1408/2013 i (EU) br. 360/2012 u pogledu de minimis potpora za preradu i stavljanje na tržište proizvoda ribarstva i akvakulture te Uredbe (EU) br. 717/2014 u pogledu ukupnog iznosa de minimis potpora dodijeljenih jednom poduzetniku, njezina razdoblja primjene i drugih pitanja (SL L 2391, 5. 10. 2023.).
