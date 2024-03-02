@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.) i članka 24. Zakona o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01., 90/05., 80/08., 38/09. i 148/13.), Vlada Republike Hrvatske je na sjednici održanoj 22. veljače 2024. donijela
