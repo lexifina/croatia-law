@@ -1,0 +1,3 @@
+# Članak 1.
+U članku 3. Pravilnika o edukacijama, stručnim znanjima i vještinama potrebnim za komunikaciju s djetetom i odraslom osobom pravnika s položenim pravosudnim ispitom te dodatnim stručnim znanjima, vještinama i kompetencijama socijalnog radnika, psihologa i socijalnog pedagoga zaposlenog u Centru za posebno skrbništvo (»Narodne novine« br. 2/2021 i 131/2021), točka 1. mijenja se i glasi:
+»1. specifične i napredne kompetencije u području komunikacije s djecom u situacijama ostvarivanja roditeljske skrbi i ostvarivanja osobnih odnosa djeteta s roditeljem, djecom s problemima u ponašanju i djecom s poteškoćama u razvoju i«.
