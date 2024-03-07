@@ -1,0 +1,7 @@
+## Postupanje sa zahtjevima za suspenziju, opoziv ili povlačenje suspenzije certifikata
+# Članak 20.
+(1) Kada RA službenik zaprimi zahtjev za suspenziju, opoziv ili povlačenje suspenzije certifikata, po provjeri identiteta podnositelja zahtjeva putem RA aplikacije obrađuje zahtjev, u RA aplikaciju unosi vrstu podnesenog zahtjeva (suspenzija, opoziv, povlačenje suspenzije) te u aplikaciji odabire jedan od ponuđenih razloga za podnošenje zahtjeva (suspenzija, opoziv ili povlačenje suspenzije certifikata).
+(2) Ako RA službenik utvrdi postojanje razloga za suspenziju, opoziv ili povlačenje suspenzije certifikata, udovoljava zahtjevu podnositelja te u RA aplikaciji unosi novi status zahtjeva - certifikat suspendiran, certifikat opozvan ili povučena suspenzija certifikata.
+(3) Zahtjev za suspenziju, opoziv ili povlačenjem suspenzije certifikata s unesenim novim statusom zahtjeva se ispisuje, daje podnositelju zahtjeva na potpis te ulaže u registrator zahtjeva.
+(4) Zahtjev za suspenzijom, opozivom ili povlačenjem suspenzije certifikata, može zatražiti i putem korisničkog portala osoba kojoj je izdana službena iskaznica ili udaljeni certifikat.
+(5) Iznimno od stavka 3. ovoga članka, ako je zahtjev za suspenzijom, opozivom ili povlačenjem suspenzije certifikata podnesen elektroničkim putem isti se unosi u RA aplikaciju i pohranjuje (arhivira) u informacijskom sustavu državnog tijela u skladu s pravilima pružatelja usluga povjerenja.

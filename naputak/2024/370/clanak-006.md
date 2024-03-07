@@ -1,0 +1,2 @@
+# Članak 6.
+Fizička identifikacija zaposlenika državnog tijela i utvrđivanje povezanosti zaposlenika s državnim tijelom nije potrebna kada je zahtjev za izdavanje službene iskaznice, potpisan kvalificiranim elektroničkim potpisom u naprednom formatu izdanim u skladu s odredbom članka 24. stavka 1. podstavka 1. c) Uredbe (EU) br. 910/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o elektroničkoj identifikaciji i uslugama povjerenja za elektroničke transakcije na unutarnjem tržištu i stavljanju izvan snage Direktive 1999/93/EZ.
