@@ -1,0 +1,6 @@
+# Članak 4.
+U članku 9. stavak 2. mijenja se i glasi:
+»(2) Pravo na subvenciju troškova energije u poslovnici Financijske agencije umjesto korisnika kojem je priznato pravo na naknadu za ugroženog kupca energenta može realizirati i druga osoba, uz predočenje rješenja kojim je korisniku priznato pravo na naknadu za ugroženog kupca energenata, svoje osobne identifikacijske isprave, osobne identifikacijske isprave ili ovjerene preslike osobne identifikacijske isprave korisnika te uz predaju izvornog naloga za uplatu troškova energije.«.
+Iza stavka 2. dodaje se novi stavak 3. koji glasi:
+»(3) Ako je korisnik prava na naknadu za ugroženog kupca energenata maloljetna osoba, osoba koja realizira pravo na subvenciju troškova energije dužna je, uz predočenje rješenja kojim je korisniku priznato pravo na naknadu za ugroženog kupca energenata, predočiti presliku rodnog lista korisnika, svoju osobnu identifikaciju ispravu, ovjerenu presliku osobne identifikacijske isprave zakonskog zastupnika korisnika, ako osoba koja realizira pravo na subvenciju troškova energije nije ujedno i zakonski zastupnik korisnika, te izvorni nalog za uplatu troškova energije.«.
+U dosadašnjem stavku 3. koji postaje stavak 4. riječi: »stavaka 1. i 2.« zamjenjuju se riječima: »stavaka 1. do 3.«.
