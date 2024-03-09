@@ -1,0 +1,2 @@
+# Članak 2.
+Korisnici naknade za ugroženog kupca energenata kojima je na dan stupanja na snagu ove Uredbe pravo na naknadu za ugroženog kupca energenata priznato na temelju prava na osobnu invalidninu zadržava priznato pravo i nakon stupanja na snagu ove Uredbe, do donošenja rješenja o ukidanju rješenja kojim je priznato pravo na naknadu za ugroženog kupca energenata koje je priznato na temelju prava na osobnu invalidninu.
