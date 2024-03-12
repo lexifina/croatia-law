@@ -1,0 +1,8 @@
+# Članak 2.
+(1) Zlatne numizmatičke kovanice iz članka 1. ove Odluke (u nastavku teksta: zlatne numizmatičke kovanice) izdaju se u apoenima od 100 i 10 eura, a srebrna numizmatička kovanica iz članka 1. ove Odluke (u nastavku teksta: srebrna numizmatička kovanica) izdaje se u apoenu od 4 eura.
+(2) Zlatne numizmatičke kovanice i srebrna numizmatička kovanica izdaju se u količinama u skladu s Odlukom (EU) 2023/2684 Europske središnje banke od 21. studenoga 2023. o odobrenju količine izdavanja kovanica u 2024. (ESB/2023/28), i to:
+1. zlatna numizmatička kovanica od 100 eura u boji izdaje se u količini ne većoj od 200 komada i u ukupnom nominalnom iznosu ne većem od 20.000,00 eura
+2. zlatna numizmatička kovanica od 10 eura izdaje se u količini ne većoj od 2.000 komada i u ukupnom nominalnom iznosu ne većem od 20.000,00 eura
+3. srebrna numizmatička kovanica od 4 eura izdaje se u količini ne većoj od 4.000 komada i u ukupnom nominalnom iznosu ne većem od 16.000,00 eura.
+(3) Zlatne numizmatičke kovanice izrađuju se od zlata stupnja čistoće 999,9/1000, u tehnici kovanja visokoga kovničkog sjaja. Zlatna numizmatička kovanica od 100 eura u boji ima masu od 31,103 grama s mogućim odstupanjem od +0,10 grama i promjer od 32 milimetra s mogućim odstupanjem od ±0,20 milimetara. Zlatna numizmatička kovanica od 10 eura ima masu od 1,944 grama s mogućim odstupanjem od +0,06 grama i promjer od 15 milimetara s mogućim odstupanjem od ±0,15 milimetara.
+(4) Srebrna numizmatička kovanica izrađuje se od srebra stupnja čistoće 999,9/1000, u tehnici kovanja visokoga kovničkog sjaja. Srebrna numizmatička kovanica ima masu od 31,103 grama s mogućim odstupanjem od +0,30 grama i promjer od 38,61 milimetra s mogućim odstupanjem od ±0,20 milimetara.

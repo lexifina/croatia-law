@@ -1,0 +1,2 @@
+# Članak 1.
+Hrvatska narodna banka izdaje zlatne numizmatičke kovanice i srebrnu numizmatičku kovanicu »Crna gušterica«, s prigodnim motivima koji predstavljaju endemsku podvrstu gušterica, brusničku kršku guštericu (lat. Podarcis melisellensis melisellensis), kao značajan dio prirodne baštine Republike Hrvatske, koja obitava na otočiću Brusniku, koji je od 1951. zaštićen kao geološki spomenik prirode.

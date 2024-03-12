@@ -1,0 +1,3 @@
+# Članak 4.
+(1) Na naličju zlatnih numizmatičkih kovanica i srebrne numizmatičke kovanice prikazan je osnovni motiv brusničke krške gušterice na način da je predstavljena portretnim profilnim prikazom u blago dijagonalnom položaju. U pozadini gušterice prikazan je tlocrt otočića Brusnika. Oko osnovnog motiva kružno uz rub numizmatičke kovanice ispisani su natpisi »REPUBLIKA HRVATSKA« i »CRNA GUŠTERICA« te oznaka nominalne vrijednosti »100«, »10« ili »4« i naziv novčane jedinice »EURO«.
+(2) Na naličju zlatne numizmatičke kovanice od 100 eura u boji portretni je prikaz brusničke krške gušterice predstavljen u crnoj boji s tirkizno plavim ljuskama na području vrata.
