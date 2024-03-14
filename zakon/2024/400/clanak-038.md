@@ -1,0 +1,5 @@
+# Članak 38.
+U članku 141. stavak 2. mijenja se i glasi:
+»(2) Osobama kojima se odluka o otvaranju postupka sanacije iz članka 46. ovoga Zakona i sve naknadne odluke kojima se provodi odluka o otvaranju postupka sanacije dostavljaju javnom objavom, rok iz stavka 1. ovoga članka počinje teći istekom osmoga dana od dana javne objave iz članka 48. stavka 1. ovoga Zakona.«.
+Stavak 6. mijenja se i glasi:
+»(6) Ako je to potrebno radi zaštite trećih osoba koje su, postupajući u dobroj vjeri, stekle dionice, druge vlasničke instrumente, imovinu, prava ili obveze institucije u sanaciji na temelju odluke Hrvatske narodne banke odnosno Hrvatske agencije za nadzor financijskih usluga kojom primjenjuje sanacijske instrumente ili primjenjuje sanacijske ovlasti, poništavanje ili oglašavanje ništavom u cijelosti ili djelomično odluke o sanaciji ili druge pojedinačne odluke donesene na temelju odluke o sanaciji bez učinka je na takve prijenose koji se temelje na poništenoj odluci odnosno na odluci koja je oglašena ništavom.«.
