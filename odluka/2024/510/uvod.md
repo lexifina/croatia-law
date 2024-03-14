@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. Zakona o poticanju razvoja malog gospodarstva br. 29/02., 63/07., 53/12., 56/13. i 121/16.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 14. ožujka 2024. donijela
