@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 4. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.) i članka 114. stavka 3. Zakona o državnim službenicima (»Narodne novine«, broj 153/23.), Vlada Republike Hrvatske je na sjednici održanoj 14. ožujka 2024. donijela
