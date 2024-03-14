@@ -1,0 +1,2 @@
+# Članak 19.
+Ako je za izvršavanje koncesije nužan prolaz ili provoz vozilima bez tereta ili s teretima ili druga služnost na nekretnini u vlasništvu Republike Hrvatske, osoba koja stekne pravo koncesije stječe i pravo služnosti prolaza, odnosno provoza svim vozilima sa svim teretima ili drugu služnost na toj nekretnini, osim ako nadležna lučka uprava ne odluči drukčije, sukladno propisima kojima se uređuju koncesije.
