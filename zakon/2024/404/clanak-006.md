@@ -1,0 +1,6 @@
+# Članak 6.
+Iza članka 6. dodaje se članak 6.a koji glasi:
+»Članak 6.a
+(1) Subjekti u poslovanju s hranom koji proizvode hranu obvezni su u sustavu kontrole koji omogućava identifikaciju, procjenu i uspostavu kontrole nad kemijskim, fizikalnim i biološkim opasnostima u hrani, a koja je važna za sigurnost hrane u svim fazama proizvodnje, prerade i distribucije hrane (u daljnjem tekstu: HACCP, engl. Hazard Analysis Critical Control Point), analizom opasnosti uzeti u obzir sve opasnosti koje proizlaze iz materijala ili predmeta koje koriste, a koji dolaze u neposredan dodir s hranom, a u slučaju uporabe materijala i predmeta koji dolaze u neposredan dodir s hranom iz sustava recikliranja, ispuniti i obveze iz članaka 8. i 9. Uredbe (EU) 2022/1616.
+(2) Subjekti koji gospodare otpadom, a koji sudjeluju u lancu opskrbe plastičnom sirovinom koja se dalje koristi u proizvodnji materijala i predmeta koji dolaze u neposredan dodir s hranom, kao i subjekti uključeni u daljnje radnje u sklopu prethodne obrade, uz obveze iz članka 6. stavaka 1., 2. i 3. Uredbe (EU) 2022/1616, u obvezi su uspostaviti i sustav osiguranja kvalitete sukladno Uredbi (EZ) br. 2023/2006, u dijelu uspostave dobre proizvođačke prakse, sljedivosti i odgovarajuće dokumentacije.
+(3) Sustav osiguranja kvalitete iz stavka 2. ovoga članka mora certificirati neovisna pravna osoba.«.

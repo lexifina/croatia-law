@@ -1,0 +1,8 @@
+# Članak 1.
+U Zakonu o materijalima i predmetima koji dolaze u neposredan dodir s hranom (»Narodne novine«, br. 25/13., 41/14. i 114/18.) u članku 1. uvodna rečenica mijenja se i glasi:
+»(1) Ovim se Zakonom utvrđuje nadležno tijelo i zadaće nadležnog tijela te obveze subjekata za provedbu:«.
+Podstavak 5. mijenja se i glasi:
+» - Uredbe Komisije (EU) 2022/1616 оd 15. rujna 2022. o materijalima i predmetima od reciklirane plastike koji dolaze u dodir s hranom i o stavljanju izvan snage Uredbe (EZ) br. 282/2008 (Tekst značajan za EGP) (SL L 243/3, 20. 9. 2022.), kako je ispravljena Ispravkom Uredbe Komisije (EU) 2022/1616 оd 15. rujna 2022. o materijalima i predmetima od reciklirane plastike koji dolaze u dodir s hranom i o stavljanju izvan snage Uredbe (EZ) br. 282/2008 (SL L 243, 20. 9. 2022.; u daljnjem tekstu: Uredba (EU) 2022/1616)«.
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»(2) Odredbe ovoga Zakona odnose se na proizvođače, uvoznike i distributere predmeta i /ili materijala u dodiru s hranom, subjekte u poslovanju s hranom, subjekte za gospodarenje otpadom koji su uključeni u skupljanje otpadne plastike, subjekte uključene u daljnje radnje obrade otpadne plastike ako svojom sirovinom kroz lanac opskrbe opskrbljuju subjekte koji rade reciklirane proizvode za materijale i predmete koji dolaze u neposredan dodir s hranom, subjekte koji se bave recikliranjem i prerađivače kako su definirani Uredbom (EU) 2022/1616.
+(3) Na materijale i predmete koji dolaze u neposredan dodir s hranom u pogledu proizvodnje, uvoza i stavljanja na tržište i obveza subjekata uz odredbe ovoga Zakona primjenjuju se obveze propisane propisima kojima se uređuje područje predmeta opće uporabe.«.
