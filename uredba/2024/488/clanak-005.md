@@ -1,0 +1,2 @@
+# Članak 5.
+Sredstva potrebna za provedbu ove mjere u 2024. godini u iznosu od 5.600.000,00 eura osigurat će se preraspodjelom Državnog proračuna Republike Hrvatske za 2024. godinu unutar razdjela 065 Ministarstva mora, prometa i infrastrukture, a sredstava potrebna u 2025. godini u iznosu od 5.000.000,00 eura planirat će se pri izradi državnog proračuna za 2025. godinu u okviru usvojenih projekcija za 2025. godinu.
