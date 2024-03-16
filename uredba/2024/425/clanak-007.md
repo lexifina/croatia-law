@@ -1,0 +1,7 @@
+# Članak 7.
+(1) Nacionalna središnjica je tijelo nadležno za usklađivanje akcija traganja i spašavanja na moru na području nadležnosti traganja i spašavanja na moru Republike Hrvatske izvan unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske, ukoliko odredbama ovoga Plana nije drugačije određeno.
+(2) Nacionalna središnjica pruža stručnu i tehničku potporu podsredišnjicama za usklađivanje traganja i spašavanja na moru radi provedbe traganja i spašavanja na moru unutar područja nadležnosti pojedine lučke kapetanije.
+(3) Iznimno od stavka 1. ovoga članka, u slučaju preopterećenosti, nedostatka kadrovskih ili materijalnih resursa za potrebe uspješnog provođenja akcije, Nacionalna središnjica može zatražiti od podsredišnjice preuzimanje i usklađivanje akcije i unutar područja nadležnosti Nacionalne središnjice.
+(4) Zahtjev za preuzimanje usklađivanja akcija traganja i spašavanja na moru podnosi koordinator akcije traganja i spašavanja na moru Nacionalne središnjice.
+(5) Obveza Nacionalne središnjice za usklađivanje akcije traganja i spašavanja na moru, ostaje do trenutka dok podsredišnjica ne prihvati obvezu usklađivanja akcije traganja i spašavanja na moru.
+(6) Prijenos obveze usklađivanja akcije traganja i spašavanja na moru mora biti potvrđen snimanim razgovorom na hitnom broju 195, izvršen u pismenom obliku u formi SITREP izvješća, evidentiran u dnevniku traganja i spašavanja na moru Nacionalne središnjice te obznanjen svim uključenim jedinicama traganja i spašavanja na moru.

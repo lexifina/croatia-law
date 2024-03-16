@@ -1,0 +1,22 @@
+# Članak 3.
+Pojedini pojmovi i kratice u smislu ovoga Plana imaju sljedeća značenja:
+1) akcija traganja i spašavanja na moru je usklađena akcija traganja i spašavanja osoba u pogibelji na moru
+2) dobrovoljac je fizička ili pravna osoba koja poslove traganja i spašavanja osoba u pogibelji na moru obavlja na dobrovoljnoj osnovi temeljem ugovora o dobrovoljnom obavljanju poslova traganja i spašavanja na moru
+3) izvanredni događaj je svaki događaj koji zahtijeva uzbunjivanje i izvještavanje službe traganja i spašavanja osoba u pogibelji na moru te koji može zahtijevati pokretanje akcije traganja i spašavanja osoba u pogibelji na moru
+4) jedinica traganja i spašavanja na moru je pomorska, zrakoplovna ili kopnena jedinica s osposobljenom i ovlaštenom posadom, uključujući dobrovoljce, i opremljena za obavljanje poslova traganja i spašavanja osoba u pogibelji na moru
+5) jednostavna akcija traganja i spašavanja je akcija koju nadležna podsredišnjica obavlja samostalno
+6) koordinator akcije traganja i spašavanja na licu mjesta je osoba odgovorna za usklađivanje pojedine akcije traganja i spašavanja osoba u pogibelji na moru na području traganja i spašavanja
+7) koordinator akcije traganja i spašavanja na moru je djelatnik Nacionalne središnjice ili podsredišnjice za usklađivanje traganja i spašavanja osoba u pogibelji na moru odgovoran za usklađivanje djelovanja po pojedinom izvanrednom događaju odnosno za sastavljanje i provedbu plana traganja i spašavanja osoba u pogibelji po izvanrednom događaju
+8) Nacionalna središnjica je Nacionalna središnjica za usklađivanje traganja i spašavanja na moru
+9) Ministarstvo je ministarstvo nadležno za pomorstvo
+10) obalna promatračka jedinica je obalna ili kopnena jedinica s osposobljenim i ovlaštenim djelatnicima koja obavlja nadzor sigurnosti plovidbe ili pruža usluge pomorskih komunikacija te koja je dužna obavljati poslove traganja i spašavanja osoba u pogibelji na moru
+11) podpodručje nadležnosti je morsko područje unutar područja nadležnosti, pridruženo pojedinoj podsredišnjici za usklađivanje akcija traganja i spašavanja na moru
+12) područje nadležnosti je morsko područje koje obuhvaća unutarnje morske vode i teritorijalno more Republike Hrvatske, morski prostor između vanjske granice teritorijalnog mora Republike Hrvatske i crte razgraničenja područja nadležnosti za traganje i spašavanje na moru utvrđene međunarodnim ugovorima sklopljenim između Republike Hrvatske i susjednih država te rijeke hrvatskog jadranskog sliva do granice do koje su plovne s morske strane, kao i nepristupačnu morsku obalu na kojoj je osoba u pogibelji našla utočište uslijed izvanrednog događaja
+13) područje akcije traganja i spašavanja na moru je morsko područje na kojem se odvija akcija traganja i spašavanja osoba u pogibelji na moru
+14) područje traganja je dio područja nadležnosti utvrđeno za provedbu traganja od strane koordinatora akcije na moru te koje može biti podijeljeno u više manjih podpodručja traganja s ciljem dodjeljivanja posebnih zadataka jedinicama traganja i spašavanja na moru
+15) podsredišnjica je podsredišnjica za usklađivanje traganja i spašavanja na moru - lučka kapetanija
+16) sigurno mjesto je mjesto na kojem se spašavanje na moru smatra završenim, na kojem osobe više nisu u pogibelji i na kojem mogu biti primjereno zbrinute
+17) SITREP izvješće je standardizirano izvješće o statusu akcije traganja i spašavanja na moru koje koordinator akcije traganja i spašavanja na licu mjesta dostavlja koordinatoru akcije traganja i spašavanja na moru i / ili koje koordinator akcije traganja i spašavanja na moru dostavlja uključenim sudionicima akcije traganja i spašavanja na moru te kojeg je forma propisana Službenom priručniku službe traganja i spašavanja
+18) složena akcija traganja i spašavanja na moru je ona akcija u kojoj podsredišnjica treba stručnu i tehničku potporu nacionalne središnjice pri vođenju akcije ili cjelokupno preuzimanje vođenja i/ili usklađivanja akcije
+19) spašavanje je usklađena akcija spašavanja osoba u pogibelji na moru, pružanja hitne medicinske ili druge pomoći i premještanja osoba na sigurno mjesto, koja akcija ne uključuje spašavanje imovine, osim kada je to nužno radi spašavanja osobe u pogibelji na moru, kao ni djelovanje po bilo kojem izvanrednom događaju uslijed kojeg osoba nije u pogibelji na moru
+20) traganje je usklađena akcija lociranja osoba u pogibelji na moru korištenjem raspoloživih resursa.

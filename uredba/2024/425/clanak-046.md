@@ -1,0 +1,4 @@
+# Članak 46.
+(1) Kada Nacionalna središnjica i Spasilački koordinacijski centar na kopnu zaprime istu poruku uzbunjivanja o izvanrednom događaju ili zrakoplovu u opasnosti, žurno se zajednički koordiniraju i međusobno savjetuju o akcijama koje su poduzete ili će se poduzeti po zaprimljenoj dojavi.
+(2) U slučaju dojave o nestanku zrakoplova, a kada se prema posljednjoj poziciji zrakoplova ne može utvrditi nadležnost za pokretanje akcije na kopnu, unutarnjim vodama ili moru, Nacionalna središnjica i Spasilački koordinacijski centar na kopnu poduzimaju odgovarajuće akcije iz svoje nadležnosti, te razmjenjuju informacije o pokretanju traganja i spašavanja zrakoplova.
+(3) Kada se u potrazi utvrdi lokacija zrakoplova, nadležnost za provedbu akcije spašavanja na kopnu, unutarnjim vodama ili moru, preuzima onaj centar na čijem je području nadležnosti pronađen zrakoplov.

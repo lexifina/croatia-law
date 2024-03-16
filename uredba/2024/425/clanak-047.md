@@ -1,0 +1,5 @@
+# Članak 47.
+(1) Akcija traganja i spašavanja na moru traje sve dok postoji i najmanja vjerojatnost da su osobe u pogibelji žive.
+(2) Akcija traganja i spašavanja na moru može biti privremeno obustavljena kad su sva stvarna i/ili pretpostavljena područja mjesta izvanrednog događaja temeljito pretražena ili kad prevladavajuće dnevne i vremenske prilike onemogućavaju djelovanje službe traganja i spašavanja na moru.
+(3) Odluku o privremenoj obustavi akcije traganja i spašavanja na moru i definiranje vremena nastavka akcije traganja i spašavanja na moru donosi koordinator akcije traganja i spašavanja na moru nakon savjetovanja sa koordinatorom akcije traganja i spašavanja na licu mjesta.
+(4) U slučaju zajedničkog djelovanja više nacionalnih središnjica, odluku o privremenoj obustavi akcije traganja i spašavanja na moru i definiranje vremena nastavka akcije traganja i spašavanja na moru zajednički donose koordinatori akcije traganja i spašavanja na moru uključenih nacionalnih središnjica te o toj odluci izvješćuju sve uključene sudionike.

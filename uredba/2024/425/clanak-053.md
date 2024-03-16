@@ -1,0 +1,2 @@
+# Članak 53.
+Tijela javne vlasti koja se traganjem i spašavanjem osoba u pogibelji bave u svojoj redovitoj djelatnosti, u roku od 60 dana od dana stupanja na snagu ovoga Plana Nacionalnoj središnjici dostavljaju pregled materijalno-tehničkih i drugih resursa za traganje i spašavanje na moru te popis odgovornih, stalno dostupnih, kontakt osoba zaduženih za suradnju s Nacionalnom središnjicom i podsredišnjicama u provođenju poslova traganja i spašavanja na moru utvrđenih ovim Planom.
