@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 5. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 110/21.) i članka 15. stavka 1. Zakona o zaštiti biljnih sorti (»Narodne novine« broj 131/97., 62/00., 67/08., 124/10., 124/11. i 111/18.), ministrica poljoprivrede donosi
