@@ -1,0 +1,4 @@
+# Članak 1.
+U Naredbi o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj (»Narodne novine«, br. 8/24, 21/24) u članku 9. stavci 2. i 3. mijenjaju se i glase:
+»(2) Troškovi neškodljivog uklanjanja u objektu za preradu nusproizvoda životinjskog podrijetla kategorije 1 trupova odstrijeljenih divljih svinja u kojih se laboratorijskim pretraživanjem potvrdi prisutnost virusa afričke svinjske kuge, lešina uginulih držanih svinja i lešina uginulih divljih svinja, podmiruju se iz državnog proračuna.
+(3) Troškovi iz stavka 1. ovoga članka obračunavaju se u skladu s važećom Odlukom o visini i opsegu naknada za troškove provedbe propisanih mjera iz područja veterinarstva, objavljenom na službenoj internetskoj stranici Ministarstva poljoprivrede, Uprave za veterinarstvo i sigurnost hrane.«
