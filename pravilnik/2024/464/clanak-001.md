@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu prikupljanja podataka, tehničkim uređajima za prikupljanje podataka, sadržaju i korisnicima operativnih zbirki podataka koje vodi granična policija te rokovima čuvanja (»Narodne novine« br. 102/18 i 95/20) u članku 2. stavku 1. iza točke 39. briše se točka i dodaje se točka 40. koja glasi: »Prijevozna sredstva sukladno analizi rizika u svrhu sprječavanja prekograničnog kriminaliteta.«.
