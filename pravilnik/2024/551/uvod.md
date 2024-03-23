@@ -1,0 +1,1 @@
+Na temelju članka 26. stavka 8. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15, 27/16, 110/17 - Odluka Ustavnog suda Republike Hrvatske, 30/18, 70/19 i 155/23) i članka 29. stavka 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13, 75/15, 50/16, 30/18, 125/19, 155/23, 158/23 i 14/24) donosim
