@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi intervencije 76.01. »Osiguranje poljoprivredne proizvodnje« iz Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. (»Narodne novine«, br. 38/23 i 83/2023) (u daljnjem tekstu: Pravilnik) u članku 2. briše se točka na kraju članka i dodaje se novi podstavak koji glasi:
+» - Uredba (EU) 2016/679 Europskog parlamenta i Vijeća od 27. travnja 2016. o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredba o zaštiti podataka) (SL L 119, 4. 5. 2016.).«
