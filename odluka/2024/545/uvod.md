@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 1. Zakona o financiranju političkih aktivnosti, izborne promidžbe i referenduma (»Narodne novine«, br. 29/19., 98/19. i 126/21. - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 20. ožujka 2024. donijela
