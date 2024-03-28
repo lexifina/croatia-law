@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 1. Zakona o elektroničkim komunikacijama (»Narodne novine«, broj 76/22.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18. i 80/22.), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2024. donijela
