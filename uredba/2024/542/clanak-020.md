@@ -1,0 +1,2 @@
+# Članak 20.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu pravosuđa i uprave koji je prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa i uprave (»Narodne novine«, br. 97/20. i 85/22.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu pravosuđa i uprave, koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.
