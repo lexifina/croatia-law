@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj (»Narodne novine«, broj 116/21.), Vlada Republike Hrvatske je na sjednici održanoj 20. ožujka 2024. donijela

@@ -1,0 +1,2 @@
+# Članak 3.
+U Prilogu »Prikaz posredničkih tijela nadležnih prema izabranim specifičnim ciljevima«, u prioritetu 1. »Jačanje gospodarstva ulaganjem u istraživanje i inovacije, podupiranjem poslovne konkurentnosti, digitalizacije i razvojem vještina za pametnu specijalizaciju«, specifičnom cilju 1(iv) »Razvoj vještina za pametnu specijalizaciju, industrijsku tranziciju i poduzetništvo«, iza riječi »Hrvatska agencija za malo gospodarstvo, inovacije i investicije« dodaju se riječi: »Središnja agencija za financiranje i ugovaranje programa i projekata Europske unije«.

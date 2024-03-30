@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 11. iza stavka 2. dodaju se stavci 3., 4. i 5. koji glase:
+»(3) Operacije čija provedba je započela u financijskom razdoblju 2014. - 2020. i za koje su u tom razdoblju u ulozi Posredničkih tijela razine 2 nadležni Fond za zaštitu okoliša i energetsku učinkovitost i Hrvatske vode, a koje se dovršavaju u financijskom razdoblju 2021. - 2027. (operacije koje se provode u fazama), nastavljaju pratiti Fond za zaštitu okoliša i energetsku učinkovitost i Hrvatske vode, svaki u svom djelokrugu.
+(4) Na Fond za zaštitu okoliša i energetsku učinkovitost i Hrvatske vode se u odnosu na aktivnosti koje se obavljaju za potrebe operacija koje se provode u fazama u financijskom razdoblju 2021. - 2027. primjenjuju odredbe ove Uredbe koje se primjenjuju na Posredničko tijelo razine 2.
+(5) Tijelo nadležno za računovodstvenu funkciju, Tijelo za reviziju, Upravljačko tijelo i nadležno Posredničko tijelo razine 1 obavljaju funkcije u skladu s ovom Uredbom i u odnosu na operacije iz stavka 3. ovog članka.«.
