@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom utvrđuje se način prikupljanja dokumentacije na temelju koje je povjerenstvo za lijekove bolničke zdravstvene ustanove (u daljnjem tekstu: Povjerenstvo), u kojoj se liječi osigurana osoba Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod), odobrilo početak odnosno nastavak primjene lijeka s Popisa posebno skupih lijekova koji se utvrđuje u okviru osnovne liste lijekova Zavoda (u daljnjem tekstu: Popis PSL), a radi procjene kriterija u svrhu praćenja ishoda liječenja.
+(2) Ovim Pravilnikom se, radi praćenja ishoda liječenja, utvrđuje i način prikupljanja dokumentacije iz bolničke zdravstvene ustanove u slučaju prestanka primjene lijeka iz stavka 1. ovoga članka, u kojoj je evidentiran razlog prestanka primjene lijeka iz stavka 1. ovoga članka.
