@@ -1,0 +1,1 @@
+Pravilnik o sadržaju i načinu vođenja registra ishoda liječenja osiguranih osoba lijekovima koji nisu utvrđeni listama lijekova Hrvatskog zavoda za zdravstveno osiguranje te lijekovima s liste lijekova Hrvatskog zavoda za zdravstveno osiguranje za koje osigurana osoba ne ispunjava medicinske indikacije

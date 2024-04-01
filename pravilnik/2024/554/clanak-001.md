@@ -1,0 +1,3 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom propisuje se sadržaj i način vođenja registra ishoda liječenja osiguranih osoba lijekovima koji nisu utvrđeni listama lijekova Hrvatskog zavoda za zdravstveno osiguranje (u daljnjem tekstu: Zavod) te lijekovima s liste lijekova Zavoda za koje osigurana osoba ne ispunjava medicinske indikacije utvrđene listama lijekova Zavoda, a čiju je primjenu odobrilo povjerenstvo za lijekove bolničke zdravstvene ustanove (u daljnjem tekstu: Povjerenstvo) u kojoj se osigurana osoba liječi na teret sredstava bolničke zdravstvene ustanove, koja je obvezna osigurati nabavu i primjenu lijeka.
