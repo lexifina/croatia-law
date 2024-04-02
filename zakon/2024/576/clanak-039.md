@@ -1,0 +1,16 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 39.
+(1) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti Pravilnik o doznaci stabala, obilježbi šumskih proizvoda, teretnom listu (popratnici) i šumskom redu (»Narodne novine«, br. 71/19.), Pravilnik o načinu obračuna i uplati naknade za korištenje općekorisnih funkcija šuma (»Narodne novine«, br. 70/21.) i Pravilnik o uređivanju šuma (»Narodne novine«, br. 97/18., 101/18., 31/20. i 99/21.) s odredbama ovoga Zakona.
+(2) Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona donijeti pravilnik iz članka 59. stavka 20. koji je izmijenjen člankom 18. ovoga Zakona.
+(3) Katastarske čestice ili dijelovi katastarskih čestica, koje su odlukama Vlade Republike Hrvatske, i to:
+1. Odlukom o osnivanju služnosti na šumskom zemljištu radi podizanja višegodišnjih nasada, KLASA: 946-01/04-01/01, URBROJ: 5030105-04-5, od 4. kolovoza 2004.
+2. Odlukom o osnivanju služnosti na šumskom zemljištu u vlasništvu Republike Hrvatske radi podizanja višegodišnjih nasada, KLASA: 946-01/05-01/02, URBROJ: 5030116-05-1, od 5. svibnja 2005.
+3. Odlukom o osnivanju služnosti na šumskom zemljištu u vlasništvu Republike Hrvatske radi podizanja višegodišnjih nasada, KLASA: 946-01/05-01/02, URBROJ: 5030116-05-3, od 14. srpnja 2005.
+4. Odlukom o popisu šumskih površina na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 946-01/06-01/01, URBROJ: 5030116-06-4, od 23. studenoga 2006.
+5. Odlukom o popisu šumskih površina na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 946-01/07-02/02, URBROJ: 5030116-07-1, od 19. srpnja 2007.
+6. Odlukom o popisu šumskih površina na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 946-01/08-01/01, URBROJ: 5030105-08-1, od
+18. travnja 2008.
+7. Odlukom o popisu šuma ili šumskog zemljišta na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 946-01/09-01/01, URBROJ: 5030120-09-l, od 10. ožujka 2009.
+8. Odlukom o popisu šuma ili šumskog zemljišta, na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 946-01/10-01/01, URBROJ: 5030125-10-1, od 28. svibnja 2010.
+9. Odlukom o popisu šuma ili šumskog zemljišta na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 946-01/11-01/01, URBROJ: 50301l2-l1-1, od 14. travnja 2011.
+10. Odlukom o popisu šuma ili šumskog zemljišta u vlasništvu Republike Hrvatske na kojima se može osnovati služnost radi podizanja višegodišnjih nasada, KLASA: 022-03/13-04/88, URBROJ: 50301-05/25-13-3, od 19. rujna 2013., utvrđene zemljištem na kojem se može osnovati služnost radi podizanja višegodišnjih nasada, koje su u katastru nekretnina evidentirane kao šuma ili ostalo šumsko zemljište i u naravi čine šumu, a na kojima nije osnovano pravo služnosti i nisu privedene jednom od poljoprivrednih oblika uporabe i čiji su troškovi privođenja proizvodnji veći od pedesetogodišnjeg iznosa dvostruke početne zakupnine toga zemljišta, na prijedlog javnog šumoposjednika, uz pozitivno mišljenje tijela nadležnog za raspolaganje poljoprivrednim zemljištem u vlasništvu Republike Hrvatske, uključit će se u šumskogospodarsku osnovu prilikom prve revizije programa gospodarenja šumama, uz suglasnost ministarstva nadležnog za poljoprivredu.
