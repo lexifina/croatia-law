@@ -1,0 +1,2 @@
+# Članak 11.
+Zdravstvenom radniku iz članka 2. stavka 2. ovoga Zakona kojim se dopunjuje članak 168. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18., 125/19., 147/20., 119/22., 156/22. i 33/23.), koji je podnio zahtjev za izdavanje odobrenja za samostalan rad prije stupanja na snagu ovoga Zakona, nadležna komora obvezna je po službenoj dužnosti na temelju dokaza o završenom prijediplomskom ili diplomskom studiju izdati odobrenje za samostalan rad u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
