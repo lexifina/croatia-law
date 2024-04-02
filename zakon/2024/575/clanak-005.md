@@ -1,0 +1,10 @@
+# Članak 5.
+U članku 20. stavak 3. mijenja se i glasi:
+»(3) Ravnatelja javne knjižnice kojoj je osnivač ili suosnivač jedinica lokalne i područne (regionalne) samouprave imenuje i razrješuje izvršno tijelo osnivača odnosno izvršna tijela više osnivača sporazumno.«.
+Stavci 9., 10. i 11. mijenjaju se i glase:
+»(9) Ravnateljem javne knjižnice može se, na temelju predloženog četverogodišnjeg plana rada, imenovati osoba koja ima završen sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij ili s njim izjednačen studij, položen stručni ispit za zvanje knjižničara, najmanje pet godina rada u knjižnici, odlikuje se stručnim, radnim i organizacijskim sposobnostima te ispunjava druge uvjete utvrđene statutom.
+(10) Iznimno od stavka 9. ovoga članka, ako se na ponovljeni natječaj ne javi osoba koja ima propisane uvjete za ravnatelja javne knjižnice, može se, na temelju predloženog četverogodišnjeg plana rada, imenovati osoba koja ima završen sveučilišni diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij ili s njim izjednačen studij, uz uvjet polaganja stručnog ispita za zvanje knjižničara u roku od tri godine od dana imenovanja, te ispunjava druge uvjete utvrđene statutom.
+(11) Položen stručni ispit za zvanje knjižničara u smislu stavka 9. ovoga članka ima i osoba koja je oslobođena polaganja navedenog stručnog ispita na temelju zakona kojima je uređivana knjižnična djelatnost.«.
+Iza stavka 12. dodaje se novi stavak 13. koji glasi:
+»(13) Ako osnivač odnosno osnivači ne provedu razrješenje i imenovanje ravnatelja javne knjižnice kojemu je istekao mandat ili ovlast vršitelja dužnosti ravnatelja javne knjižnice, tijelo nadležno za provedbu nadzora nad zakonitošću rada i općih akata javne knjižnice iz članka 44. stavka 1. ovoga Zakona razriješit će dužnosti ravnatelja i imenovati vršitelja dužnosti ravnatelja bez provođenja javnoga natječaja do imenovanja ravnatelja odnosno vršitelja dužnosti ravnatelja od strane osnivača.«.
+Dosadašnji stavak 13. postaje stavak 14.
