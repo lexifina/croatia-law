@@ -1,0 +1,3 @@
+# Članak 59.
+(1) U roku od 30 dana od dana stupanja na snagu ovoga Zakona u nadležnom ministarstvu ustrojava se posebna ustrojstvena jedinica za obavljanje stručnih i drugih poslova radi provedbe ovoga Zakona, koja je i kontakt-točka za komunikaciju sa strankama, prikupljanje potrebnih podataka, vođenje Registra te provedbu Programa mjera i praćenje rezultata njegove provedbe.
+(2) Radi provedbe ovoga Zakona u ustrojstvenoj jedinici iz stavka 1. ovoga članka mora biti raspoređen odnosno zaposlen dovoljan broj ovlaštenih i drugih državnih službenika te moraju biti osigurani prostorni i tehnički uvjeti za provedbu Programa mjera, uključujući rad sa strankama.

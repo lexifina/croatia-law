@@ -1,0 +1,4 @@
+## Završetak provedbe Programa mjera
+# Članak 49.
+(1) U odnosu na pojedini predmet, provedba Programa mjera završava nakon što se u cijelosti provede odabrana programska mjera ili druga mjera u funkciji izvršenja sudskih odluka iz članka 1. ovoga Zakona o kojoj je sklopljena nagodba, a nadležno ministarstvo po službenoj dužnosti donese rješenje kojim se stan ispisuje iz Registra i kojim se ukida rješenje o prosječnoj najamnini iz članka 19. ovoga Zakona. U rješenju se navodi mjera koja je provedena te se utvrđuje da je provedena u cijelosti.
+(2) Na dan pravomoćnosti rješenja iz stavka 1. ovoga članka na odnose u vezi sa stanom prestaje se primjenjivati ovaj Zakon te odredbe o zaštićenoj najamnini i zaštićenim najmoprimcima iz Zakona o najmu stanova (»Narodne novine, br. 91/96., 48/98., 66/98., 22/06., 68/18. i 105/20.).

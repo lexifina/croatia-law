@@ -1,0 +1,6 @@
+## Pravne posljedice neispunjenja obveze iseljenja iz stana
+# Članak 26.
+(1) Neispunjenje obveze iseljenja iz stana smatra se kažnjivim ponašanjem zbog kojeg zaštićeni najmoprimac gubi status te mu se, nakon jedne opomene, izriče najteža novčana sankcija iz članka 57. stavka 2. ovoga Zakona.
+(2) Ako zaštićeni najmoprimac ne ispuni obvezu iseljenja i predaje stana u posjed u roku koji je sam odredio, Republika Hrvatska dužna je putem nadležnog ministarstva u sljedećem roku od osam dana obavijestiti vlasnika o tome da će podnijeti prijedlog za ovrhu radi ispražnjenja i predaje nekretnine, ako ga sam vlasnik ne podnese u roku od 30 dana od dana kad mu je dostavljena ta obavijest i o tome ne obavijesti nadležno ministarstvo.
+(3) U slučaju iz stavka 2. ovoga članka zaštićeni najmoprimac obvezan je vlasniku plaćati cjelokupan iznos prosječne najamnine, a nadležno ministarstvo bez odgode donosi rješenje kojim ukida rješenje o prosječnoj najamnini iz članka 19. stavka 1. ovoga Zakona i zamjenjuje ga rješenjem po kojem je cjelokupan iznos prosječne najamnine obvezan plaćati bivši zaštićeni najmoprimac dok god je u posjedu stana.
+(4) Nadležno ministarstvo donosi rješenje o ispisu stana iz Registra u roku od 15 dana od dana kada su vlasnik stana odnosno Republika Hrvatska podnijeli prijedlog za ovrhu iz stavka 2. ovoga članka.

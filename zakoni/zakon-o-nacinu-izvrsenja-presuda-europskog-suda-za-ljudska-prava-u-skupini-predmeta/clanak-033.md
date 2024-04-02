@@ -1,0 +1,8 @@
+## Zaštićeni najmoprimci iseljeni zbog štete od potresa i obnove nakon potresa
+# Članak 33.
+(1) Za zaštićene najmoprimce koji su se, zbog oštećenja prouzročenih potresima ili zbog naknadne obnove, iselili iz stanova u kojima su imali status zaštićenog najmoprimca, a uselili su se u stanove u vlasništvu Republike Hrvatske čija je površina jednaka ili veća od površine odgovarajućeg stana iz članka 4. stavka 1. točke 11. podtočaka a) i b) ovoga Zakona, smatra se da su stambeno zbrinuti po trećoj programskoj mjeri.
+(2) Iznimno od stavka 1. ovoga članka, uz izričitu suglasnost zaštićenog najmoprimca, smatra se da su stambeno zbrinuti po trećoj programskoj mjeri i oni zaštićeni najmoprimci koji su se uselili u stan površinom manji od površine odgovarajućeg stana iz članka 4. stavka 1. točke 11. ovoga Zakona.
+(3) Zaštićenim najmoprimcima iz stavaka 1. i 2. ovoga članka s danom 1. siječnja 2025. prestaje status zaštićenih najmoprimaca u stanovima u privatnom vlasništvu, a postaju zaštićeni najmoprimci u stanu u vlasništvu Republike Hrvatske u koji su se uselili te su dužni plaćati državnu najamninu, o čemu posebno rješenje donosi nadležno ministarstvo.
+(4) Zaštićeni najmoprimci iz stavaka 1. i 2. ovoga članka imaju pravo na otkup stana pod istim uvjetima kao i ostali bivši zaštićeni najmoprimci koji koriste mogućnost otkupa stana po trećoj programskoj mjeri.
+(5) Iznimno od stavka 1. ovoga članka, ako se bivši zaštićeni najmoprimac najkasnije do 1. lipnja 2025. odluči za drugu programsku mjeru, provodi se druga programska mjera.
+(6) Iznimno od stavka 1. ovoga članka, ako se i vlasnik i bivši zaštićeni najmoprimac u zajedničkoj izjavi odluče za četvrtu ili petu programsku mjeru, provode se navedene mjere.

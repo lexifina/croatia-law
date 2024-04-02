@@ -1,0 +1,10 @@
+## POGLAVLJE V. TREĆA PROGRAMSKA MJERA
+## Iseljenje zaštićenog najmoprimca iz stana u okviru treće programske mjere
+# Članak 27.
+(1) Zaštićeni najmoprimac dužan je osloboditi stan od osoba i stvari te ga predati u posjed vlasniku ili podredno, ako vlasnik nije dostupan ili se ne odazove na poziv za primopredaju stana iz bilo kojeg razloga, Republici Hrvatskoj u skladu s odredbama ovoga članka:
+1. u roku od devet mjeseci od dana kada je zaštićeni najmoprimac zaprimio pisanu obavijest iz članka 46. stavka 2. ovoga Zakona u kojoj je utvrđeno da se sam opredijelio za treću programsku mjeru
+2. u roku od četiri mjeseca od dana pravomoćnosti rješenja iz članka 48. stavka 4. ovoga Zakona ili rješenja iz članka 23. stavka 7. ovoga Zakona.
+(2) Kada se u slučajevima iz stavka 1. ovoga članka ispune pretpostavke za primjenu treće programske mjere, službena osoba bez odgode dostavlja zaštićenom najmoprimcu obrazac izjave u koju je zaštićeni najmoprimac dužan upisati dan iseljenja i predaje stana u posjed vlasniku ili podredno Republici Hrvatskoj. Zaštićeni najmoprimac dužan je odrediti dan iseljenja unutar roka iz stavka 1. točke 1. odnosno točke 2. ovoga članka, ovisno o tome koji je rok mjerodavan u njegovu predmetu.
+(3) Zaštićeni najmoprimac dužan je u roku od 60 dana od dana kad mu je dostavljen obrazac izjave iz stavka 2. ovoga članka popuniti i potpisati obrazac, potvrditi odnosno solemnizirati tu ispravu kod javnog bilježnika i ovlastiti ga da je dostavi nadležnom ministarstvu. Solemnizirana izjava smatra se ovršnom ispravom na temelju koje vlasnik ili Republika Hrvatska imaju pravo izravno predložiti ovrhu sukladno posebnom zakonu.
+(4) Ako se zaštićeni najmoprimac nakon isteka rokova iz stavka 1. ovoga članka i dalje nalazi u posjedu stana, smatra se da zaštićeni najmoprimac odbija iseljenje iz stana te se odgovarajuće primjenjuje članak 26. ovoga Zakona.
+(5) Nadležno ministarstvo donosi djelomično rješenje o ispisu stana iz Registra u odnosu na vlasnika stana u roku od 15 dana od dana iseljenja bivšeg zaštićenog najmoprimca i predaje stana u posjed vlasniku.

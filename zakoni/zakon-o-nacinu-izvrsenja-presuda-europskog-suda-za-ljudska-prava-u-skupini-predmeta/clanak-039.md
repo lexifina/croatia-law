@@ -1,0 +1,5 @@
+## Pravne posljedice odustajanja vlasnika od četvrte ili pete programske mjere
+# Članak 39.
+(1) Vlasnik ima pravo odustati od četvrte odnosno pete programske mjere ako nije zadovoljan ponudom koju mu je dala Republika Hrvatska, a koja se temelji na procjeni stalnog sudskog vještaka ovlaštenog za procjenu vrijednosti nekretnina.
+(2) Ako vlasnik stana u tijeku postupka, a prije sklapanja ugovora iz članka 36. stavka 1. ovoga Zakona odustane od provedbe četvrte odnosno pete programske mjere, osim ako je odustao zbog razloga navedenog u stavku 1. ovoga članka, rješenje o najamnini iz članka 19. ovoga Zakona ukida se te se zamjenjuje rješenjem kojim vlasnik stana, u okviru provedbe Programa mjera, ima pravo samo na dio prosječne najamnine koji mu je obvezan podmirivati zaštićeni najmoprimac.
+(3) U razdoblju od pet godina od odustanka vlasnika stana od četvrte odnosno pete programske mjere iz stavaka 1. i 2. ovoga članka Republika Hrvatska ima pravo prvokupa stana od vlasnika tako da je vlasnik dužan ponuditi stan radi kupnje Republici Hrvatskoj pod istim uvjetima pod kojima ga namjerava prodati na tržištu.

@@ -1,0 +1,9 @@
+## Iseljenje i predaja stana u posjed
+# Članak 24.
+(1) Zaštićeni najmoprimac dužan je u izjavi o prihvatu ponude iz članka 23. stavka 4. ovoga Zakona odrediti dan iseljenja i predaje stana u posjed vlasniku ili Republici Hrvatskoj.
+(2) Zaštićeni najmoprimac mora odrediti dan iseljenja i predaje stana u posjed u roku koji nije kraći od 15 dana ni dulji od tri mjeseca od dana kad je ovlastio javnog bilježnika za dostavu izjave o prihvatu ponude nadležnom ministarstvu sukladno članku 23. stavku 3. ovoga Zakona. Iseljenje i predaja stana u posjed započinje određenoga dana u 8:00 sati.
+(3) Nadležno ministarstvo dužno je o danu iseljenja i predaji stana u posjed obavijestiti vlasnika i javnog bilježnika kojega je, vodeći računa o ravnomjernom angažmanu javnih bilježnika na području općinskog suda na kojem se nalazi nekretnina, odabralo za posvjedočenje činjenica u vezi s iseljenjem i predajom stana u posjed.
+(4) Iseljenju i predaji stana u posjed, osim zaštićenog najmoprimca, mora nazočiti javni bilježnik kojega je ovlastilo nadležno ministarstvo, a može mu nazočiti i vlasnik.
+(5) Javni bilježnik dužan je sastaviti zapisnik o posvjedočenju činjenica vezanih uz iseljenje zaštićenog najmoprimca i predaju stana u posjed vlasniku ili podredno, ako vlasnik nije dostupan ili se ne odazove na poziv za primopredaju stana iz bilo kojeg razloga, Republici Hrvatskoj. Javni bilježnik sastavlja zapisnik u skladu s odredbama posebnog zakona.
+(6) Ako Republika Hrvatska stekne posjed stana, dužna ga je predati u posjed vlasniku u roku od 30 dana od dana kad je vlasnik to zatražio u pisanom zahtjevu dostavljenom nadležnom ministarstvu.
+(7) Odredba stavka 6. ovoga članka primjenjuje se u svim slučajevima, propisanim ovim Zakonom, kada je zaštićeni najmoprimac, prilikom primopredaje, stan predao u posjed Republici Hrvatskoj jer vlasnik stana nije bio dostupan ili se nije odazvao na poziv za primopredaju stana iz bilo kojeg razloga.

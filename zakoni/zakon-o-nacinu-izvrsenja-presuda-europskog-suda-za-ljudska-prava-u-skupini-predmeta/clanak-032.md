@@ -1,0 +1,5 @@
+## Bivši zaštićeni najmoprimac samac
+# Članak 32.
+(1) Ako se osoba sama koristila stanom u svojstvu zaštićenog najmoprimca, a starija je od 65 godina (u daljnjem tekstu: bivši zaštićeni najmoprimac samac), Republika Hrvatska dužna je, isključivo na zahtjev tog zaštićenog najmoprimca, a umjesto provođenja programskih mjera, bez naknade stambeno zbrinuti bivšeg zaštićenog najmoprimca samca u domu za starije osobe čiji je osnivač Republika Hrvatska, Grad Zagreb ili jedinica lokalne samouprave.
+(2) Ako su smještajni kapaciteti u domovima iz stavka 1. ovoga članka popunjeni, do oslobađanja mjesta u njima bivši zaštićeni najmoprimac samac zbrinjava se u domu socijalne skrbi za starije osobe drugog vlasnika.
+(3) U slučaju iz stavka 2. ovoga članka Republika Hrvatska postaje obveznik snošenja troškova smještaja bivšeg zaštićenog najmoprimca samca kao korisnika doma u dijelu koji prelazi visinu zaštićene najamnine koju je bivši zaštićeni najmoprimac plaćao na dan stupanja na snagu ovoga Zakona.

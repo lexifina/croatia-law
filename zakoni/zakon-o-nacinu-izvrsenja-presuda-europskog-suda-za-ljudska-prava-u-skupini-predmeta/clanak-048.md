@@ -1,0 +1,6 @@
+## Rješenje kojim se utvrđuje da između stranaka nije postignut dogovor
+# Članak 48.
+(1) Ako vlasnik stana ili zaštićeni najmoprimac u tijeku provedbe Programa mjera pisanom obavijesti ili konkludentnim činom odustane od odabrane programske mjere ili provedba odabrane programske mjere ne uspije zbog bilo kojeg razloga uzrokovanog ponašanjem jedne ili obiju stranaka, na stranke se primjenjuje treća programska mjera u skladu s odredbama ovoga Zakona.
+(2) Ako stranke na sastanku odnosno sastancima iz članka 47. stavka 3. ovoga Zakona ne postignu dogovor o programskoj mjeri koja će se primijeniti u njihovu predmetu ili o drugom načinu izvršenja sudskih odluka iz članka 1. stavka 1. ovoga Zakona, na stranke se primjenjuje treća programska mjera u skladu s odredbama ovoga Zakona.
+(3) Iznimno od stavaka 1. i 2. ovoga članka, na predmet se primjenjuje druga programska mjera ako to izrijekom zatraži zaštićeni najmoprimac.
+(4) U slučajevima iz stavaka 1. i 2. ovoga članka službena osoba donosi rješenje u kojem se utvrđuje da između stranaka nije postignut dogovor i da se u tom predmetu primjenjuje treća programska mjera odnosno druga programska mjera ako je to izrijekom zatražio zaštićeni najmoprimac.

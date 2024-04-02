@@ -1,0 +1,6 @@
+## Upis stana u Registar
+# Članak 15.
+(1) Nakon što se u Registar unesu potrebni podaci, stanu se dodjeljuje stalni registarski broj pod kojim se, u okvirima zadanim Programom mjera, vodi predmet za taj stan.
+(2) Službena osoba sastavlja potvrdu koja sadržava podatke o stalnom registarskom broju stana. Potvrda je javna isprava.
+(3) Iznimno od stavka 1. ovoga članka, u predmetima u kojima traju upravni ili sudski postupci koji mogu utjecati na pravni položaj stranaka (sporovi radi utvrđenja statusa zaštićenog najmoprimca, iseljenja, predaje u posjed, donošenja presude koja zamjenjuje ugovor o najmu stana sa zaštićenom najamninom, postupci povrata oduzete imovine, sporovi oko vlasništva nad stanom i sl.) stanu se dodjeljuje privremeni registarski broj, a stalni registarski broj se dodjeljuje i potvrda iz stavka 2. ovoga članka se sastavlja i dostavlja strankama nakon što se donese pravomoćna sudska odluka te se podaci uneseni u Registar usklade s njezinom izrekom, osim ako iz sudske odluke ne proizlazi obveza brisanja stana iz Registra.
+(4) U predmetima iz stavka 3. ovoga članka stranke imaju dodatni rok od šest mjeseci od pravomoćnosti rješenja ili sudske odluke da prijave stan u Registar i ostvare prava koja im po ovom Zakonu pripadaju.

@@ -1,0 +1,4 @@
+## DIO V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 58.
+(1) Dana 1. siječnja 2025. prestaje važiti glava XIII. Zakona o najmu stanova (»Narodne novine«, br. 91/96., 48/98., 66/98., 22/06., 68/18. i 105/20.) te prestaje status zaštićenog najmoprimca osobama koje su to pravo stekle na temelju Zakona o najmu stanova.
+(2) Postupci u kojima se tek treba utvrditi postojanje stanarskog prava ili statusa zaštićenog najmoprimca na stanovima u privatnom vlasništvu odnosno postupci u kojima se treba utvrditi jesu li nastupile okolnosti za otkaz ili prestanak stanarskog prava ili statusa zaštićenog najmoprimca, a koji su pokrenuti do stupanja na snagu ovoga Zakona prema odredbama Zakona o stambenim odnosima (»Narodne novine«, br. 51/85., 42/86., 22/92. i 70/93.) ili prema odredbama Zakona o najmu stanova (»Narodne novine«, br. 91/96., 48/98., 66/98., 22/06., 68/18. i 105/20.) dovršit će se prema odredbama zakona na temelju kojeg su pokrenuti.

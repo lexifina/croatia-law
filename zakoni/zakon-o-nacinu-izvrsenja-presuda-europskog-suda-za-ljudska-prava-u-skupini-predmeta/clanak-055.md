@@ -1,0 +1,6 @@
+## DIO IV. POVREDE ODREDABA OVOGA ZAKONA
+## Kažnjiva ponašanja stranaka
+# Članak 55.
+(1) Ako jedna stranka sprječava ili odugovlači ili ako obje stranke onemogućavaju ili odugovlače poduzimanje potrebnih radnji ili nepotrebno poduzimaju radnje, ne poštuju propisane obveze ili zlouporabljuju svoje ovlasti radi sprječavanja ili odugovlačenja prijave stana u Registar ili pak sprječavanja ili odugovlačenja provedbe Programa mjera, ili vrijeđaju, prijete ili vrše fizičku prisilu nad službenim osobama, takvo se ponašanje smatra povredom odredaba ovoga Zakona.
+(2) U slučaju iz stavka 1. ovoga članka nadležno ministarstvo može stranki izreći pisanu opomenu, a uz treću pisanu opomenu dužno joj je izreći novčanu sankciju. Opomene se mogu osporavati samo u tužbi protiv odluke o novčanoj sankciji.
+(3) Prije izricanja pisane opomene službena osoba dužna je obavijestiti stranku da su ispunjene zakonske pretpostavke za izricanje opomene te od stranke zatražiti da joj u roku od osam dana dostavi pisano očitovanje o razlozima takvog njezina ponašanja te odgovarajuće dokaze koji takvo ponašanje mogu opravdati. Uzimajući u obzir očitovanje i dokaze koje joj je dostavila stranka, a vodeći se ciljem i svrhom ovoga Zakona čija je djelotvorna provedba u javnom interesu, službena osoba slobodno ocjenjuje hoće li stranki izreći pisanu opomenu ili neće.
