@@ -1,0 +1,21 @@
+# Članak 7.
+Članak 98. mijenja se i glasi:
+»(1) U slučaju kad postoje okolnosti iz članka 123. ovog Zakona zbog kojih je moguće odrediti istražni zatvor ili je taj zatvor već određen, sud i državni odvjetnik će, uzimajući u obzir rezultate pojedinačne procjene potreba žrtve i žrtvi bliskih osoba i potrebe zaštite žrtve, ako se ista svrha može ostvariti mjerom opreza, obrazloženim rješenjem odrediti primjenu jedne ili više takvih mjera. Pritom će se okrivljenik upozoriti da će se u slučaju nepridržavanja izrečene mjere, ona zamijeniti istražnim zatvorom.
+(2) Mjere opreza jesu:
+1) zabrana napuštanja boravišta,
+2) zabrana posjećivanja određenog mjesta ili područja,
+3) obveza redovitog javljanja određenoj osobi ili državnom tijelu,
+4) zabrana približavanja određenoj osobi,
+5) zabrana uspostavljanja ili održavanja veze s određenom osobom,
+6) zabrana obavljanja određene poslovne aktivnosti,
+7) privremeno oduzimanje putne i druge isprave za prijelaz državne granice,
+8) privremeno oduzimanje dozvole za upravljanje motornim vozilom,
+9) zabrana uhođenja ili uznemiravanja žrtve ili druge osobe,
+10) udaljenje iz doma,
+11) zabrana pristupa internetu.
+(3) Prije donošenja rješenja kojim se određuje, produljuje ili ukida mjera opreza sud i državni odvjetnik će, ako se radi o kaznenom djelu nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama, saslušati žrtvu na okolnost postojanja opasnosti za njezinu osobnu sigurnost ili sigurnost članova njezine obitelji i bliskih osoba te uzeti u obzir očitovanje o prijedlogu za primjenu mjere opreza i rezultate pojedinačne procjene potreba žrtve. Žrtva se može saslušati i primjenom informacijsko-komunikacijskih tehnologija ili na drugi odgovarajući način.
+(4) Mjerama opreza ne može se ograničiti pravo okrivljenika na vlastiti dom te pravo na nesmetane veze s ukućanima, bračnim ili izvanbračnim drugom, roditeljima, djecom, posvojenikom ili posvojiteljem, osim ako se postupak vodi zbog kaznenog djela počinjenog na štetu neke od tih osoba. Zabrana obavljanja poslovne aktivnosti može obuhvatiti i zakonitu profesionalnu djelatnost ako se postupak vodi zbog kaznenog djela počinjenog u okviru te djelatnosti.
+(5) Mjerama opreza ne može se ograničiti pravo okrivljenika na nesmetano komuniciranje s braniteljem.
+(6) Mjere opreza mogu biti naložene prije i tijekom kaznenog postupka. Prije podizanja optužnice mjere opreza određuje, produljuje i ukida rješenjem državni odvjetnik, a sudac istrage kad odlučuje o istražnom zatvoru. Državni odvjetnik ili sudac istrage koji je mjeru odredio nadležan je za njezino produljenje ili ukidanje. Nakon podizanja optužnice pa do pravomoćnosti odnosno izvršnosti presude ili do upućivanja na izdržavanje kazne zatvora te mjere određuje, produljuje i ukida sud. O zamjeni mjere opreza istražnim zatvorom, u slučaju nepridržavanja izrečene mjere, do podizanja optužnice odlučuje sudac istrage, a nakon podizanja optužnice odlučuje sud. Ako sud odluku neće moći donijeti u roku propisanom člankom 101. stavkom 2. ovoga Zakona, odluku o zamjeni mjere opreza istražnim zatvorom donosi sudac istrage.
+(7) Mjere opreza mogu trajati dok za to postoji potreba, a najdulje do izvršnosti presude ili do upućivanja na izdržavanje kazne zatvora, ako je takva kazna izrečena, kada se radi o mjerama opreza koje su određene zbog postojanja okolnosti iz članka 123. stavka 1. točaka 1., 3. i 4. ovoga Zakona odnosno najdulje do pravomoćnosti presude kada se radi o mjerama opreza koje su određene zbog postojanja okolnosti iz članka 123. stavka 1. točaka 2. i 5. ovoga Zakona. Svaka dva mjeseca, računajući od dana pravomoćnosti prethodnog rješenja o mjeri opreza, tijelo koje je odredilo mjeru opreza prije podizanja optužnice odnosno sud ispitat će po službenoj dužnosti postoji li još potreba za mjerom opreza te je rješenjem produljiti ili ukinuti ako više nije potrebna. Ako je mjera opreza određena kao uvjet jamstva, kontrola produljenja mjere neće se provoditi.
+(8) Protiv rješenja kojim se određuje, produljuje ili ukida mjera opreza stranke i žrtva kaznenog djela nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama mogu izjaviti žalbu, koja ne zadržava izvršenje mjere. O žalbi do podizanja optužnice odlučuje sudac istrage odnosno izvanraspravno vijeće.«.

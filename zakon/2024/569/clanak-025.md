@@ -1,0 +1,3 @@
+# Članak 25.
+U članku 288. stavku 2. iza prve rečenice dodaju se druga i treća rečenica koje glase:
+»Svjedoka iz članka 287. stavka 3. ovoga Zakona neće se pitati za boravište, već za adresu tijela u kojem obavlja posao ili dužnost u obavljanju kojih je saznao za okolnosti u svezi s kojima je pozvan svjedočiti. Boravište svjedoka koji je žrtva kaznenog djela nasilja nad ženama, nasilja u obitelji i nasilja prema bliskim osobama policija i tijelo koje vodi postupak utvrdit će na siguran i povjerljiv način, taj podatak zatvorit će se u poseban omot i čuvati odvojeno te se bez dopuštenja tijela koje vodi postupak neće moći razgledati niti koristiti.«.
