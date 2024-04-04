@@ -1,0 +1,4 @@
+## Način upravljanja Središnjim registrom
+# Članak 2.
+(1) Obveznici dostave i unosa podataka u Središnji registar dužni su postupati u skladu s utvrđenim mogućnostima programskog rješenja za unos, ažuriranje, verifikaciju, održavanje podataka i njihovu dostavu. Navedeno podrazumijeva redovito ažuriranje podataka u skladu s odredbama Zakona o Središnjem registru, korištenje propisanih formata za unos podataka i provjeru točnosti unesenih podataka.
+(2) Obveznici dostave i unosa podataka koji preuzimaju podatke iz vanjskih temeljnih registara putem utvrđenih mogućnosti u sklopu programskog rješenja Središnjeg registra, odgovorni su za točnost i relevantnost podataka prije njihove potvrde odnosno konačne dostave. U slučaju kada podaci preuzeti iz vanjskih temeljnih registara trebaju ispravak, obveznici su dužni ispravne podatke unijeti kroz ručni unos i provesti potrebne promjene o navedenim podacima u temeljnom registru.

@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 2. Zakona o Središnjem registru državne imovine (»Narodne novine«, br. 112/18), državni tajnik Središnjeg državnog ureda za razvoj digitalnog društva 1. ožujka 2024. godine donosi
