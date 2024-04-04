@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište sjemena krmnog bilja (»Narodne novine« broj 33/22.) u članku 2. dodaje se stavak 3. koji glasi:
+»Članak 2.
+- Direktiva Vijeća 2003/61/EZ od 18. lipnja 2003. o izmjeni direktiva 66/401/EEZ o stavljanju na tržište sjemena krmnog bilja, 66/402/EEZ o stavljanju na tržište sjemena žitarica, 68/193/EEZ o stavljanju na tržište materijala za vegetativno umnažanje vinove loze, 92/33/EEZ o stavljanju na tržište reprodukcijskog sadnog materijala povrća, osim sjemena, 92/34/EEZ o stavljanju na tržište voćnog reprodukcijskog sadnog materijala, 98/56/EZ o stavljanju na tržište reprodukcijskog materijala ukrasnog bilja, 2002/54/EZ o stavljanju na tržište sjemena repe, 2002/55/EZ o stavljanju na tržište sjemena povrća, 2002/56/EZ o stavljanju na tržište sjemenskog krumpira i 2002/57/EZ o stavljanju na tržište sjemena uljarica i predivog bilja, s obzirom na usporedna ispitivanja i pokuse Zajednice (SL L 165, 3. 7. 2003.).«
