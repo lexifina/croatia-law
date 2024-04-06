@@ -1,0 +1,3 @@
+SPORAZUM
+IZMEĐU VLADE REPUBLIKE HRVATSKE I VIJEĆA MINISTARA BOSNE I HERCEGOVINE O REKONSTRUKCIJI MOSTA GUNJA (RH) - BRČKO (BiH) NA DC 214 (RH) / M14.1 (BiH)
+Vlada Republike Hrvatske i Vijeće ministara Bosne i Hercegovine (u daljnjem tekstu: ugovorne stranke), na temelju Sporazuma između Vlade Republike Hrvatske i Vijeća ministara Bosne i Hercegovine o održavanju i rekonstrukciji cestovnih mostova na državnoj granici, potpisanog u Zagrebu 29. rujna 2020. (u daljnjem tekstu »Sporazum od 29. rujna 2020.«), utvrdivši da postojeći most Gunja (RH) - Brčko (BiH) na DC 214 (RH) / M14.1 (BiH) ne udovoljava tehničkim i infrastrukturnim uvjetima potrebnim za siguran promet, sporazumjeli su se kako slijedi:
