@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o provedbi Nacionalne strategije za provedbu Školske sheme voća i povrća te mlijeka i mliječnih proizvoda od školske godine 2023./2024. do školske godine 2028./2029. (»Narodne novine«, broj 81/23) u članku 6. stavak 2. mijenja se i glasi:
+»(2) Postupak odobravanja dobavljača temelji se na utvrđivanju ispunjenosti zahtjeva prihvatljivosti za sudjelovanje u Školskoj shemi (administrativna kontrola dostavljene dokumentacije iz stavka 1. ovoga članka) navedenih u podtočki 8.1. Školske sheme - Popis općih zahtjeva za odobravanje dobavljača voća i povrća i podtočki 8.3. Školske sheme - Popis općih zahtjeva za odobravanje dobavljača mlijeka i mliječnih proizvoda.«.
+Stavak 4. mijenja se i glasi:
+»(4) Agencija za plaćanja u daljnjem postupku vrednovanja dodjeljuje bodove dobavljačima odobrenima/prihvatljivima za sudjelovanje u Školskoj shemi prema Kriterijima za vrednovanje dobavljača voća i povrća i Kriterijima za vrednovanje mlijeka i mliječnih proizvoda navedenima u Školskoj shemi (Tablica 3. i Tablica 4.) i Prilogu 1. ovoga Pravilnika.«.
