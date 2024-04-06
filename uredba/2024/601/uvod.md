@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 13. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18., 98/19. i 82/23.), Vlada Republike Hrvatske je na sjednici održanoj 28. ožujka 2024. donijela
