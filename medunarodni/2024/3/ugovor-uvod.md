@@ -1,0 +1,3 @@
+DODATAK SPORAZUMU
+IZMEĐU VLADE REPUBLIKE HRVATSKE I VIJEĆA MINISTARA BOSNE I HERCEGOVINE O ODRŽAVANJU I REKONSTRUKCIJI CESTOVNIH MOSTOVA NA DRŽAVNOJ GRANICI
+Vlada Republike Hrvatske i Vijeće ministara Bosne i Hercegovine (dalje u tekstu: ugovorne stranke), s ciljem dopune odredaba Sporazuma između Vlade Republike Hrvatske i Vijeća ministara Bosne i Hercegovine o održavanju i rekonstrukciji cestovnih mostova na državnoj granici, sastavljenog u Zagrebu 29. rujna 2020. (dalje u tekstu: Sporazum) u skladu s njegovim člankom 11. stavkom 3., radi odgovarajućeg uređenja, održavanja i rekonstrukcije dvaju novoizgrađenih cestovnih mostova preko korita rijeke Save na državnoj granici, sporazumjeli su se kako slijedi:
