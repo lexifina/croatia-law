@@ -1,0 +1,1 @@
+Na temelju članka 106.a stavka 8. Zakona o parničnom postupku (»Narodne novine«, broj 53/91., 91/92., 58/93., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11., 25/13., 89/14., 70/19., 80/22., 114/22. i 155/23.), ministar nadležan za poslove pravosuđa donosi
