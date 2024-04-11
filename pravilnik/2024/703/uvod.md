@@ -1,0 +1,1 @@
+Na temelju članka 78.a stavka 7. Zakona o kaznenom postupku (»Narodne novine«, broj 152/2008., 76/2009., 80/2011., 91/2012., 143/2012., 56/2013., 145/2013., 152/2014., 70/2017., 126/2019., 126/2019., 80/2022.), ministar nadležan za pravosuđe donosi
