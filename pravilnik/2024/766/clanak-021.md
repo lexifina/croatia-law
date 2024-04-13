@@ -1,0 +1,5 @@
+## Kontrola i isplata odobrenih zahtjeva za nadoknadom sredstava
+# Članak 21.
+(1) Programsko tijelo nadležno za provjeru zahtjeva za nadoknadom sredstava obavlja kontrolu zahtjeva za nadoknadom sredstava, provjerava i odobrava iznos prihvatljivih troškova putem informacijskog sustava za pojedini EU program i /ili fond.
+(2) Programsko tijelo nadležno za ugovaranje i isplatu sredstava na temelju dostavljenog zahtjeva za plaćanje od strane programskog tijela za provjeru zahtjeva za nadoknadom sredstava, priprema nalog za plaćanje i provodi plaćanje prema korisniku projekta, subjektu unutar općeg proračuna koji posluje preko vlastitog računa otvorenog u poslovnoj banci i korisniku projekta, subjektu izvan općeg proračuna. Ukoliko je primjenjivo, prilikom izračuna iznosa za isplatu, pravda se prethodno isplaćeni predujam.
+(3) Programsko tijelo nadležno za ugovaranje i isplatu sredstava, odobren zahtjev za nadoknadom sredstava za projekt koje provodi korisnik projekta unutar općeg proračuna koji posluje preko jedinstvenog računa državnog proračuna potvrđuje u informacijskom sustavu za pojedini EU program da su sredstva isplaćena.

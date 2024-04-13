@@ -1,0 +1,6 @@
+## Zahtjev za nadoknadom sredstava
+# Članak 20.
+(1) Korisnik projekta priprema i podnosi zahtjev za nadoknadom sredstava programskom tijelu nadležnom za provjeru zahtjeva za nadoknadom sredstava u formi propisanoj pravilima za pojedini EU program i/ili fond, kroz informacijski sustav za pojedini EU program i/ili fond.
+(2) Uz zahtjev za nadoknadom sredstava po metodi nadoknade, korisnik projekta prilaže prateću dokumentaciju koja uključuje plaćene račune za isporučenu robu, radove, usluge i ostale troškove u vezi provedbe projekta, dokaze o plaćanju i ostalu prateću dokumentaciju kroz informacijski sustav za pojedini EU program i/ili fond.
+(3) Uz zahtjev za nadoknadom sredstava po metodi plaćanja, korisnik projekta prilaže prateću dokumentaciju koja uključuje zaprimljene, neplaćene račune za isporučenu robu, radove, usluge i ostale troškove u vezi provedbe projekta, ostalu prateću dokumentaciju, a nakon izvršenog plaćanja računa dostavlja dokaze o plaćanju kroz informacijski sustav za pojedini EU program.
+(4) Iznimno od stavaka 2. i 3. ovog članka, korisnik može zahtijevati nadoknadu sredstava na temelju izvješća u slučaju kada je pravilima za pojedini EU program i/ili fond tako propisano.

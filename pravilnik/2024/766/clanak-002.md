@@ -1,0 +1,4 @@
+## Obveznici primjene
+# Članak 2.
+(1) Odredbe ovoga Pravilnika odnose se na državni proračun, proračune jedinice lokalne i područne (regionalne) samouprave, proračunske korisnike državnog proračuna i proračunske korisnike jedinica lokalne i područne (regionalne) samouprave, izvanproračunske korisnike državnog proračuna i izvanproračunske korisnike jedinica lokalne i područne (regionalne) samouprave (u daljnjem tekstu: obveznici).
+(2) Popis obveznika iz stavka 1. ovoga članka sadržan je u Registru proračunskih i izvanproračunskih korisnika donesenim u skladu s Pravilnikom o utvrđivanju proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave te o načinu vođenja Registra proračunskih i izvanproračunskih korisnika.

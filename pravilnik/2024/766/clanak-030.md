@@ -1,0 +1,8 @@
+## V. IZVJEŠTAVANJE
+# Članak 30.
+(1) Izvještaji o korištenju EU sredstava obuhvaćaju informacije o napretku u provedbi projekata i programa i financijskim pokazateljima.
+(2) Izvještaj o korištenju EU sredstava državnog proračuna sadrži podatke o evidentiranim prihodima i primicima te rashodima i izdacima iz EU programa i/ili fonda za proračunsku godinu po EU programu i/ili fondu, stanje potraživanja iz EU programa i/ili fonda i stanje obveza za primljene predujmove iz EU programa i/ili fonda na kraju proračunske godine.
+(3) Izvještaj o korištenju EU sredstava jedinica lokalne i područne (regionalne) samouprave sadrži podatke o evidentiranim prihodima i primicima te rashodima i izdacima iz EU programa i/ili fondau za proračunsku godinu po EU programu i/ili fondu i stanje obveza i potraživanja po EU programu i/ili fondu na kraju proračunske godine.
+(4) Izvještaj o korištenju EU sredstava proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinice lokalne i područne (regionalne) samouprave sadrži podatke o evidentiranim prihodima i primicima te rashodima i izdacima iz EU programa i/ili fondu za proračunsku godinu po EU programu i/ili fondu i stanje obveza za primljene predujmove iz fondova Europske unije na kraju proračunske godine.
+(5) Izvještaji iz stavka 2., 3. i 4. pripremaju se u skladu s propisima kojima se utvrđuje polugodišnje i godišnje izvještavanje o izvršavanju proračuna i financijskog plana.
+(6) Ministarstvo financija, programska tijela za ugovaranje i isplatu sredstava te korisnici projekta iz općeg proračuna o korištenju sredstva EU izvještavaju u skladu s propisima kojima se uređuje financijsko izvještavanje u sustavu proračunskog računovodstva.
