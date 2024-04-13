@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopuni Pravilnika o načinu ostvarivanja prava na prilagođeni osobni automobil i prava na naknadu troška prilagodbe osobnog automobila za hrvatske ratne vojne invalide iz Domovinskog rata

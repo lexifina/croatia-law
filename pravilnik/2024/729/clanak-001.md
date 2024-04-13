@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o načinu ostvarivanja prava na prilagođeni osobni automobil i prava na naknadu troška prilagodbe osobnog automobila za hrvatske ratne vojne invalide iz Domovinskog rata (»Narodne novine«, br. 21/18 i 41/22) u članku 1. riječi: »(»Narodne novine«, br. 121/17, u daljnjem tekstu: Zakon)« zamjenjuju se riječima: »(»Narodne novine«, br. 121/17, 98/19, 84/21 i 156/23, u daljnjem tekstu: Zakon)«.
