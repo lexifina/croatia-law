@@ -1,0 +1,2 @@
+# Članak 1.
+Mijenja se članak 1. Odluke o dopuštenoj visini tehnoloških manjkova u procesima proizvodnje, prerade, manipulacije, skladištenja i transporta nafte, prirodnog plina, proizvoda prerade nafte i plina, plinskog kondenzata, sirovina za proizvodnju maziva i naftnih derivata i distribuciju prirodnog plina (»Narodne novine« broj 28/16) na način da se brišu riječi »zatim članku 30. stavak 2. točka 5. Zakona o trošarinama te članku 14. Pravilnika o trošarinama«.

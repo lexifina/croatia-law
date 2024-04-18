@@ -1,0 +1,3 @@
+# Članak 2.
+U Odluci o dopuštenoj visini tehnoloških manjkova u procesima proizvodnje, prerade, manipulacije, skladištenja i transporta nafte, prirodnog plina, proizvoda prerade nafte i plina, plinskog kondenzata, sirovina za proizvodnju maziva i naftnih derivata i distribuciju prirodnog plina (»Narodne novine« broj 28/16) mijenja se članak 4. na način da se u tablici dopuštenih manjkova dodaje novi proces koji glasi:
+14. | Uplinjavanje ukapljenog prirodnog plina (UPP-a) | Plin nastao isplinjavanjem UPP-a u teretnim spremnicima plutajuće jedinice za prihvat, skladištenje i uplinjavanje UPP-a | 2,0 (E/E)
