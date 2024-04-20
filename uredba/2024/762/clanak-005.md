@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Danom upisa pripajanja u sudski registar Hrvatski športski muzej preuzima sve poslove te sve zaposlenike zatečene na preuzetim poslovima, opremu, pismohranu, sredstva za rad, cjelokupnu imovinu, kao i prava i obveze Muzejsko-memorijalnog centra Dražen Petrović koji će kao ustrojstvena jedinica u svrhu obavljanja muzejske djelatnosti nastaviti koristiti navedenu preuzetu opremu, pismohranu, sredstva za rad te drugu imovinu.
+(2) Ravnatelj Hrvatskog športskog muzeja i ravnatelj Muzejsko-memorijalnog centra Dražen Petrović dužni su, u roku od 30 dana od dana stupanja na snagu ove Uredbe, podnijeti prijavu za upis pripajanja iz članka 1. ove Uredbe u sudski registar Trgovačkog suda u Zagrebu u kojem su upisani.
+(3) Prilikom primopredaje Hrvatski športski muzej sačinit će zapisnik koji će sadržavati popis svih pokretnina koje se nalaze u Muzejsko-memorijalnom centru Dražen Petrović, a što uključuje popis muzejske građe i muzejske dokumentacije.

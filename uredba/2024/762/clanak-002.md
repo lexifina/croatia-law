@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Zaklada Dražen Petrović, Trg Dražena Petrovića 3, OIB: 64435972495, upisana u Registar zaklada Republike Hrvatske 13. svibnja 1996., Registarski broj: 00000002, donijela je 2. travnja 2024. Odluku o pripajanju ustanove Muzejsko-memorijalni centar Dražen Petrović Hrvatskom športskom muzeju.
+(2) Muzejsko-memorijalni centar Dražen Petrović može se izdvojiti iz Hrvatskog športskog muzeja, u slučaju da se u okviru tog Muzeja u potpunosti ne ostvaruje svrha Muzejsko-memorijalnog centra Dražen Petrović, obavljanje djelatnosti prema propisanim standardima.
+(3) Odluka o izdvajanju Muzejsko-memorijalnog centra Dražen Petrović iz Hrvatskog športskog muzeja u slučaju iz stavka 2. ovoga članka donijet će se na temelju obrazloženog zahtjeva Zaklade Dražen Petrović te će se sva osnivačka i druga prava prenijeti na Zakladu Dražen Petrović.

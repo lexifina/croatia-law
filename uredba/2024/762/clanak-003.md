@@ -1,0 +1,2 @@
+# Članak 3.
+Danom upisa pripajanja u sudski registar Muzejsko-memorijalni centar Dražen Petrović pripaja se Hrvatskom športskom muzeju i nastavlja s radom kao podružnica, posebna ustrojstvena jedinica u sastavu javne ustanove Hrvatskog športskog muzeja, koja obavlja muzejsku djelatnost pod nazivom ove javne ustanove i svojim nazivom uz navođenje svojeg sjedišta i sjedišta javne ustanove, sukladno statutu Hrvatskog športskog muzeja.
