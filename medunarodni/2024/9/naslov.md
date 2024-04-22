@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Sporazuma između Vlade Republike Hrvatske i Vlade Republike Slovenije o izgradnji cestovnog mosta preko potoka Kamenica između naselja Obrež (Republika Hrvatska) - Božakovo (Republika Slovenija) na hrvatsko-slovenskoj državnoj granici
