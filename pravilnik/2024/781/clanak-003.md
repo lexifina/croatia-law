@@ -1,0 +1,11 @@
+# Članak 3.
+Članak 10. mijenja se i glasi:
+»(1) Pravo na korištenje podmjere iz članka 5. stavka 1. točke b. ovoga Pravilnika korisnici ostvaruju jedanput godišnje za sva natjecanja u preponskom, daljinskom i dresurnom jahanju, vožnji zaprega i konjičkom višeboju/eventingu, za koja je podnesen zahtjev za potporu.
+(2) Pravo na korištenje podmjere iz članka 5. stavka 1. točke b. ovoga Pravilnika korisnici ostvaruju tijekom cijele godine za sva galopska i kasačka natjecanja, koja su održana u tekućoj godini, za koja je podnesen zahtjev za potporu.
+(3) Iznos potpore po jednom organiziranom natjecanju, za discipline preponskog, daljinskog i dresurnog jahanja, vožnju zaprega i konjički višeboj/eventing, podrazumijeva novčanu vrijednost troškova za organizaciju jednog natjecanja u iznosu do 7.000,00 eura sukladno prihvatljivim troškovima.
+(4) Iznos potpore po jednom organiziranom natjecanju za galopske i kasačke utrke, podrazumijeva novčanu vrijednost troškova za organizaciju jednog natjecanja u iznosu do 22.000,00 eura sukladno prihvatljivim troškovima.
+(5) Ukupan godišnji iznos potpore za podmjeru iz članka 5. stavka 1. točke b. ovoga Pravilnika dijeli se na discipline konjičkog sporta u skladu sa projekcijom financijskih sredstava za podmjeru Potpora organizaciji konjičkih sportskih natjecanja u skladu s odredbama Programa.
+(6) Najviši financijski iznos potpore po pojedinoj disciplini, za preponsko, daljinsko i dresurno jahanja, vožnju zaprega i konjički višeboj/eventing, može iznositi 20.000,00 eura godišnje.
+(7) Najviši financijski iznos potpore po pojedinoj disciplini, za galopska i kasačka natjecanja, može iznositi 90.000,00 eura godišnje.
+(8) Ako zbroj svih podnesenih računa od strane korisnika za preponsko, daljinsko i dresurno jahanje, vožnju zaprega i konjički višeboj/eventing premaši Programom predviđena novčana sredstva, proporcionalno će se smanjiti jedinični godišnji iznos potpore po organizaciji jednog natjecanja.
+(9) Ako zbroj svih podnesenih računa od strane korisnika za galopska i kasačka natjecanja premaši Programom predviđena novčana sredstva, proporcionalno će se smanjiti jedinični iznos potpore po organizaciji jednog natjecanja za posljednji zahtjev koji se dostavio Agenciji za plaćanja.«.
