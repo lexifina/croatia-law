@@ -1,0 +1,1 @@
+Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik albanske, bošnjačke, crnogorske, makedonske i slovenske nacionalne manjine provedenih 16., 17. i 21. travnja 2024.
