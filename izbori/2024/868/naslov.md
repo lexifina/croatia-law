@@ -1,0 +1,1 @@
+Konačni rezultati izbora zastupnika u Hrvatski sabor u XII. izbornoj jedinici u kojoj se bira zastupnik austrijske, bugarske, njemačke, poljske, romske, rumunjske, rusinske, ruske, turske, ukrajinske, vlaške i židovske nacionalne manjine provedenih 16. i 17. travnja 2024.
