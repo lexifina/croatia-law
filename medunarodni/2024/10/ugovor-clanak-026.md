@@ -1,0 +1,4 @@
+# Članak 26.
+ZAŠTITA PODATAKA
+1. Osobne podatke koje nadležno tijelo, nadležna ustanova ili tijelo za vezu jedne ugovorne stranke dostavlja u skladu s ovim Ugovorom nadležnom tijelu, nadležnoj ustanovi ili tijelu za vezu druge ugovorne stranke, povjerljivi su i mogu se koristiti samo radi provedbe ovoga Ugovora i zakonodavstva koje se primjenjuje na temelju ovoga Ugovora, osim ako njihovo objavljivanje nije određeno prema zakonodavstvu odnosne ugovorne stranke.
+2. Bez obzira na zakonodavstvo ili upravnu praksu jedne ugovorne stranke, ni jedan podatak kojeg je ta ugovorna stranka primila od druge ugovorne stranke ne smije se dostaviti ili objelodaniti trećoj državi ili bilo kojoj drugoj organizaciji na državnom području prve ugovorne stranke, bez prethodne pisane suglasnosti druge ugovorne stranke.
