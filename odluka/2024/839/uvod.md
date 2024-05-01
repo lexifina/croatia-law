@@ -1,0 +1,1 @@
+Na temelju članka 203. stavka 1. Zakona o radu (»Narodne novine«, broj 93/2014, 127/2017, 98/2019, 151/2022, 64/2023 - Odluka Ustavnog suda), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
