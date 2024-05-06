@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 81. stavku 4. točka (a) mijenja se i glasi:
+»(a) imovinu koju su druge ugovorne strane ili subjekti blisko povezani s drugim ugovornim stranama izdali samostalno ili zajedno s drugim subjektima, ili koju druge ugovorne strane ili subjekti blisko povezani s drugim ugovornim stranama servisiraju ili za koju jamče, a na koje se primjenjuje zamrzavanje sredstava i/ili druge mjere za ograničavanje uporabe njihovih sredstava koje je odredila Unija u skladu s člankom 75., člankom 215. ili sličnim relevantnim odredbama Ugovora o funkcioniranju Europske unije ili država članica koje ograničavaju uporabu njihovih sredstava i/ili«.

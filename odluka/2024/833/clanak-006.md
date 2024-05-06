@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 22. stavak 2. mijenja se i glasi:
+»2. Pristup prekonoćnom depozitu druga ugovorna strana ostvaruje podnošenjem zahtjeva HNB-u najkasnije do 18:15 prema SEV-u, što je krajnji rok za upotrebu stalno raspoloživih mogućnosti, u skladu s Dodatkom V. Priloga I. Smjernice (ESB/2022/8). Ako se zahtjev za prekonoćni depozit podnosi posljednjega radnog dana Eurosustava u razdoblju održavanja minimalnih pričuva, rok za podnošenje zahtjeva produljuje se za dodatnih 15 minuta. U iznimnim okolnostima Eurosustav može odlučiti primijeniti kasnije rokove. Zahtjev mora sadržavati iznos koji će biti deponiran.«

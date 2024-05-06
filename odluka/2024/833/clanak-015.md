@@ -1,0 +1,3 @@
+# Članak 15.
+U članku 76. stavku 1. točka (d) mijenja se i glasi:
+»(d) u vezi s postupcima na kraju dana i uvjetima za pristup prekonoćnom kreditu, obvezu prethodnog dostavljanja dovoljno prihvatljive imovine kao kolaterala, u slučajevima kada postoji preostalo negativno stanje na TARGET računima druge ugovorne strane nakon završetka postupka provjere na kraju dana, zbog čega se prema članku 19. stavku 5. ove Odluke smatra da je podnesen automatski zahtjev za prekonoćni kredit ili, u slučaju druge ugovorne strane čiji je pristup operacijama monetarne politike Eurosustava ograničen u skladu s člankom 80. ove Odluke, obvezu da se koristi pristupom operacijama monetarne politike Eurosustava unutar utvrđenog ograničenja«.
