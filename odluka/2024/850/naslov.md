@@ -1,0 +1,1 @@
+Odluka o provedbi Odluke br. 1104/2011/EU Europskog parlamenta i Vijeća od 25. listopada 2011. o pravilima za pristup javno reguliranoj usluzi koju pruža globalni navigacijski satelitski sustav uspostavljen u sklopu programa Galileo
