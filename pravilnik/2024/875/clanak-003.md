@@ -1,0 +1,12 @@
+## Sadržaj zahtjeva
+# Članak 3.
+(1) Zahtjev za registraciju PEPP-a podnosi se na standardnom obrascu koji Hanfa objavljuje na svojim internetskim stranicama te mora sadržavati:
+1. svu dokumentaciju i podatke propisane člankom 6. stavkom 2. Uredbe,
+2. izjavu sljedećeg sadržaja:
+»Potvrđujem/o da su informacije priložene ovom zahtjevu istinite, točne, potpune i da ne upućuju na pogrešan zaključak. Ako na pojedinom dokumentu nije drugačije navedeno, informacije se odnose na dan naveden u ovom zahtjevu. Ako se neke informacije odnose na neki budući datum, to je izričito navedeno i podnositelj zahtjeva obvezuje se da će pisanim putem obavijestiti Hrvatsku agenciju za nadzor financijskih usluga ako se naknadno utvrdi da neka od tih informacija nije istinita, točna i potpuna ili ako upućuje na pogrešan zaključak.« i
+3. dokaz o plaćenoj naknadi u skladu s pravilnikom Hanfe kojim se uređuje vrsta i visina naknada Hanfe.
+(2) Zahtjevu nije potrebno priložiti one podatke i dokumentaciju propisanu ovim Pravilnikom, Zakonom i/ili Uredbom kojima Hanfa raspolaže, pod uvjetom da su ti podaci potpuni, istiniti, točni i ažurni, što je podnositelj zahtjeva dužan potvrditi pisanom izjavom.
+(3) Hanfa može zatražiti i drugu dokumentaciju osim one propisane ovim Pravilnikom, Zakonom i Uredbom, kao i dodatna objašnjenja kada je to potrebno radi provjere jesu li ispunjeni svi uvjeti potrebni za registraciju PEPP-a.
+(4) Ako Hanfa zahtijeva od podnositelja zahtjeva da dostavi informacije koje nedostaju u skladu s člankom 6. stavkom 2. Uredbe, razdoblje procjene zahtjeva se prekida od dana kada je Hanfa zatražila dodatne podatke do dana zaprimanja odgovora podnositelja zahtjeva.
+(5) Podnositelj zahtjeva mora voditi računa da svi podaci i dokumenti priloženi zahtjevu za registraciju PEPP-a budu točni, istiniti i potpuni sve do dana donošenja rješenja o registraciji PEPP-a, te je u slučaju bilo kakvog događaja koji nastane nakon podnošenja zahtjeva, a koji utječe ili bi mogao utjecati na točnost, istinitost i potpunost dokumentacije, dužan dostaviti Hanfi ažurirane podatke i dokumentaciju s posebno naznačenim promjenama, u kojem slučaju rok iz članka 6. stavka 3. Uredbe počinje teći od datuma na koji je Hanfa primila ažurirane informacije.
+(6) U slučaju obveznog obavješćivanja Hanfe o svim bitnim promjenama uvjeta za registraciju PEPP-a iz članka 6. stavka 6. Uredbe na odgovarajući se način primjenjuju odredbe ovoga Pravilnika u vezi sa sadržajem zahtjeva.
