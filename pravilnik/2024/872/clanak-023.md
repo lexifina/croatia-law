@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Zdravstvene preglede vozača i kandidata za vozače iz članka 6. točke 1., 2. i 3. ovoga Pravilnika i članka 16. točke 1., 2. i 3. ovoga Pravilnika mogu obavljati zdravstvene ustanove, trgovačka društva, specijalisti medicine rada/specijalisti medicine rada i sporta u privatnoj praksi ili izabrani liječnici bez posebnog ovlaštenja ministra.
+(2) Izvanredne nadzorne zdravstvene preglede vozača i kandidata za vozače iz članka 6. točke 4. i članka 16. točke 4. ovoga Pravilnika obavljaju zdravstvene ustanove, trgovačka društva i specijalisti medicine rada/specijalisti medicine rada i sporta u privatnoj praksi koje za to ovlasti ministar.

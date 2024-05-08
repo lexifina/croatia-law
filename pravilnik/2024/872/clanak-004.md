@@ -1,0 +1,9 @@
+# Članak 4.
+(1) Zdravstvene preglede vozača i kandidata za vozače za vozila kategorija iz članka 3. ovoga Pravilnika obavljaju zdravstvene ustanove i trgovačka društva koja obavljaju djelatnost medicine rada/medicine rada i sporta i specijalisti medicine rada/specijalisti medicine rada i sporta u privatnoj praksi.
+(2) Zdravstvene preglede vozača i kandidata za vozače za vozila F, G i AM kategorije iz članka 3. ovoga Pravilnika mogu obavljati i izabrani liječnici opće/obiteljske medicine (u daljnjem tekstu: izabrani liječnik).
+(3) Za obavljanje zdravstvenih pregleda izabrani liječnik iz stavka 2. ovoga članka mora ispunjavati uvjete za obavljenje pregleda iz članka 7. i članka 9. ovoga Pravilnika.
+(4) Zdravstvene ustanove, trgovačka društva, privatne ordinacije medicine rada/medicine rada i sporta i ordinacije opće/obiteljske medicine obvezne su voditi evidenciju svih pregledanih vozača i kandidata za vozače.
+(5) Zdravstvene ustanove, trgovačka društava, privatne ordinacije medicine rada/medicine rada i sporta i ordinacije opće/obiteljske medicine obvezne su čuvati medicinsku dokumentaciju sukladno posebnim propisima.
+(6) Izgled i sadržaj Uvjerenja o zdravstvenoj sposobnosti za upravljanje vozilima (u daljnjem tekstu: Uvjerenje) utvrđeni su u Prilogu I. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+(7) Uvjerenje iz stavka 6. ovoga članka može izdati specijalist medicine rada/specijalist medicine rada i sporta ili izabrani liječnik.
+(8) Zdravstvenu sposobnost vozača i kandidata za vozače koji nisu zadovoljni ocjenom zdravstvene ustanove u kojoj su pregledani te vozača i kandidata za vozače čija je zdravstvena sposobnost različito ocijenjena u jednoj ili više zdravstvenih ustanova, utvrđuje liječničkim pregledom drugostupanjsko zdravstveno povjerenstvo koje osniva ministar zdravstva (u daljnjem tekstu: ministar).

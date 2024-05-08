@@ -1,0 +1,7 @@
+## EVIDENTIRANJE PROMJENE ZDRAVSTVENOG STANJA
+# Članak 24.
+(1) Ako liječnik koji je obavio pregled ili je liječio vozača ili izabrani liječnik utvrdi da vozač boluje od bolesti radi koje više nije sposoban sigurno upravljati vozilom, na razdoblje dulje od 6 mjeseci, obvezan je odmah po saznanju o tim promjenama, uz upozorenje vozaču, obavijestiti policijsku upravu ili postaju (u daljnjem tekstu: nadležno tijelo) prema mjestu prebivališta, boravišta, uobičajenog prebivališta, školovanja, odnosno privremenog ili stalnog boravka vozača.
+(2) Ako liječnik koji je obavio pregled ili je liječio vozača ili izabrani liječnik utvrdi da vozač boluje od bolesti radi koje više nije sposoban sigurno upravljati vozilom, privremeno, a najduže na 6 mjeseci, dužan je o tome upozoriti vozača, a dano upozorenje evidentirati u medicinskoj dokumentaciji.
+(3) Evidencija u medicinskoj dokumentaciji mora obvezno sadržavati vrstu izrečene mjere kao i njeno trajanje.
+(4) Upozorenje vozaču i obavijest policijskoj upravi ili postaji iz stavka 1. ovoga članka evidentira se i dostavlja putem Centralnog zdravstvenog informacijskog sustava Republike Hrvatske, odnosno na obrascu Izvješća o promjeni zdravstvenog stanja ili tijeku liječenja vozača (u daljnjem tekstu: Obrazac) koji se nalazi u Prilogu V. koji je otisnut uz ovaj Pravilnik i čini njegov sastavni dio.
+(5) Vozač kojemu je izrečeno i evidentirano upozorenje iz stavka 2. ovog članka neće se po završetku privremene nesposobnosti ponovno upućivati na pregled.
