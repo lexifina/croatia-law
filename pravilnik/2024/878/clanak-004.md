@@ -1,0 +1,5 @@
+## Rokovi i način dostave
+# Članak 4.
+(1) Pružatelji PEPP-a dužni su izvještaj iz članka 3. stavka 2. alineje 1. ovog Pravilnika sastavljati za razdoblje svake poslovne godine pružatelja PEPP-a te isti dostavljati Hanfi najkasnije u roku od 16 tjedana od kraja svake poslovne godine pružatelja PEPP-a.
+(2) Prvi izvještaj iz članka 3. stavka 2. alineje 2. ovog Pravilnika pružatelji PEPP-a dužni su sastaviti i dostaviti Hanfi do kraja poslovne godine u kojoj je izvršena registracija PEPP-a. Svako sljedeće izvješće pružatelj PEPP-a dužan je sastaviti za razdoblje od 3 poslovne godine i dostaviti Hanfi najkasnije u roku od 18 tjedana nakon kraja svake treće poslovne godine pružatelja PEPP-a.
+(3) Pružatelj PEPP-a dužan je dostaviti izvještaj iz članka 3. stavka 2. alineje 2. ovog Pravilnika i kada dođe do značajnih promjena u poslovanju PEPP-a ili bilo kakvih izmjena PEPP-a, i to u roku od mjesec dana od dana kada je nastupila značajna promjena u poslovanju odnosno od kada je nastupila izmjena PEPP-a.
