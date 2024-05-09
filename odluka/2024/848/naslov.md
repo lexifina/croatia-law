@@ -1,0 +1,1 @@
+Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Raba i Općinskog vijeća Općine Otok, gradonačelnika i zamjenika gradonačelnika Grada Gospića te općinskog načelnika Općine Raša
