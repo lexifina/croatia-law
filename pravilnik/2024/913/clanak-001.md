@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o strukturi i sadržaju financijskih izvještaja i drugih izvještaja mirovinskog društva koje upravlja obveznim mirovinskim fondovima (»Narodne novine« br. 104/17, 118/21, 146/22) članak 2. stavak 1. mijenja se i glasi:
+»(1) Mirovinsko društvo dužno je voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze te sastavljati financijske izvještaje sukladno Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, broj 19/14, 93/15, 64/18, 115/18, 58/20 i 156/23, dalje u tekstu: Zakon), propisima koji uređuju računovodstvo i Međunarodnim standardima financijskog izvještavanja.«

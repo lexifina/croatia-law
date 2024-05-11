@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 3. iza stavka 6. dodaje se stavak 7. koji glasi:
+»(7) Mirovinsko društvo dužno je sastaviti i prezentirati objavu primitaka iz članka 56. stavaka 11. i 12. Zakona u Bilješkama uz godišnje financijske izvještaje iz stavka 1. alineja 5. ovoga članka, strukturiranu na način i u obliku tablice iz Priloga 4. ovoga Pravilnika. Mirovinsko društvo koje upravlja samo obveznim mirovinskim fondom dužno je strukturirati bilješku na način kako propisuje točka a) iz Priloga 4. ovoga Pravilnika, a u slučaju da upravlja i dobrovoljnim mirovinskim fondom dužno je strukturirati bilješku na način kako propisuje točka b) Priloga 4. ovoga Pravilnika.«
