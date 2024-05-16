@@ -1,0 +1,8 @@
+## Administrativna kontrola i kontrola na terenu priznate proizvođačke organizacije
+# Članak 21.
+(1) Administrativnu kontrolu i kontrolu na terenu priznate proizvođačke organizacije provodi Ministarstvo najmanje jednom u pet godina od dana priznavanja proizvođačke organizacije, neovisno o kontrolama koje se provode radi provedbe intervencije u skladu sa Strateškim planom.
+(2) Kontrolama iz stavka 1. ovoga članka bit će obuhvaćene i proizvođačke organizacije priznate u razdoblju duljem od pet godina.
+(3) U slučaju da se administrativnom kontrolom i/ili kontrolom na terenu priznate proizvođačke organizacije utvrdi nepoštivanje uvjeta za priznavanje u skladu s odredbama ovoga Pravilnika, Ministarstvo postupa u skladu s člankom 59. Uredbe (EU) br. 2017/891 i o istome obavještava Agenciju za plaćanja.
+(4) Odredbe članka 59. Uredbe (EU) br. 2017/891 koje se odnose na financijske sankcije primjenjuju se isključivo na priznate proizvođačke organizacije u sektoru voća i povrća koje sudjeluju u provedbi intervencija u sektoru voća i povrća iz Strateškog plana, dok se na proizvođačke organizacije u drugim sektorima ne primjenjuju.
+(5) Postupanja prema proizvođačkoj organizaciji koja se provode radi nepoštivanja uvjeta priznavanja, a koja uključuju i odredbe o financijskim sankcijama korisnika potpore u intervenciji 77.05. Potpora za uspostavu i rad proizvođačkih organizacija iz Strateškog plana propisane su propisom o provedbi intervencije 77.05.
+(6) Ako proizvođačka organizacija ili njezin član odbije i/ili ometa provedbu kontrole na terenu, Ministarstvo će postupiti u skladu s člankom 59. Uredbe (EU) br. 2017/891 i o istome obavijestiti Agenciju za plaćanja.

@@ -1,0 +1,4 @@
+## Pravna osobnost sektorske organizacije
+# Članak 23.
+(1) Sektorska organizacija osniva se na temelju Zakona o udrugama (»Narodne novine«, br. 74/14, 70/17, 98/19 i 151/22), a djeluje na postizanju posebnog cilja koji može uključivati jedan ili više ciljeva navedenih u članku 157. stavku 1. podstavku (c) Uredbe (EU) br. 1308/2013.
+(2) Iznimno od stavka 1. ovoga članka, s obzirom na cilj iz članka 162. točke a) Uredbe (EU) br. 1308/2013 sektorska organizacija u sektorima maslinovog ulja i stolnih maslina te duhana može se osnovati i na temelju Zakona o zadrugama (»Narodne novine«, br. 34/11, 125/13, 76/14, 114/18, 98/19) ili Zakona o trgovačkim društvima (»Narodne novine«, br. 111/93, 34/99, 121/99, 52/00, 118/03, 107/07, 146/08, 137/09, 125/11, 152/11, 111/12, 68/13, 110/15, 40/19, 34/22, 114/22, 18/23 i 130/23).
