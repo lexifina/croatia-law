@@ -1,0 +1,3 @@
+# Članak 17.
+Vlada Republike Hrvatske će u roku od 30 dana od dana stupanja na snagu ovoga Zakona uredbama urediti unutarnje ustrojstvo Ministarstva gospodarstva, Ministarstva pravosuđa, uprave i digitalne transformacije, Ministarstva znanosti, obrazovanja i mladih, Ministarstva poljoprivrede, šumarstva i ribarstva, Ministarstva zaštite okoliša i zelene tranzicije, Ministarstva demografije i useljeništva i Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske.
+Čelnici tijela državne uprave donijet će pravilnike o unutarnjem redu u roku od 30 dana od dana stupanja na snagu uredbi iz stavka 1. ovoga članka.
