@@ -1,0 +1,1 @@
+Na temelju članka 32. stavaka 2. i 4. Zakona o pravu na pristup informacijama (»Narodne novine«, br. 25/13., 85/15. i 69/22.), Vlada Republike Hrvatske je na sjednici održanoj 9. svibnja 2024. donijela
