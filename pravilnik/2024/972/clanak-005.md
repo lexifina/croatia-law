@@ -1,0 +1,2 @@
+# Članak 5.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o načinu, postupku i dinamici ostvarivanja prava na nadoknadu iznosa godišnje naknade i cestarine (»Narodne novine«, broj 92/16) osim odredbe članka 3. stavka 2. b toga Pravilnika koja važi do 10. lipnja 2024. godine za podatke o ostvarivanju oslobađanja od plaćanja cestarine korištenjem SMART kartice, bez unošenja podatka o registarskoj oznaci vozila.
