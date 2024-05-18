@@ -1,0 +1,2 @@
+# Članak 5.
+Ljetni odmor počinje 19. lipnja 2025. godine, osim za učenike koji polažu predmetni, razredni, dopunski ili razlikovni ispit, koji imaju dopunski nastavni rad, završni rad ili ispite državne mature, za učenike u programima čiji se veći dio izvodi u obliku praktične nastave i vježbi, kao i za učenike koji u to vrijeme imaju stručnu praksu, što se utvrđuje godišnjim planom i programom rada škole.

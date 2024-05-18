@@ -1,0 +1,2 @@
+# Članak 7.
+Godišnjim planom i programom rada škole utvrđuje se plan i raspored broja nastavnih dana potrebnih za provedbu nastavnoga plana i programa/kurikulima te broj, plan i raspored ostalih nenastavnih ili nastavnih dana tijekom školske godine potrebnih za druge odgojno-obrazovne programe škole (ispite državne mature, nacionalnih ispita, školske priredbe, natjecanja, dan škole, dan župe, dan općine i grada te za izlete, ekskurzije i slično).

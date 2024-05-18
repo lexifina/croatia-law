@@ -1,0 +1,2 @@
+# Članak 6.
+Iznimno, učenici u strukovnim programima/kurikulima čiji se veći dio izvodi u obliku praktične nastave i vježbi i/ili koji imaju stručnu praksu mogu imati i drukčiji raspored odmora, s tim da im ukupni odmor tijekom školske godine ne može biti kraći od 45 radnih dana, što se uređuje ugovorom, a sukladno Zakonu o strukovnom obrazovanju (»Narodne novine«, broj 30/09, 24/10, 22/13, 25/18 i 69/22).
