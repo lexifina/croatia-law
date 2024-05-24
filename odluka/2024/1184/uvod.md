@@ -1,0 +1,1 @@
+Na temelju članka 81. Ustava Republike Hrvatske i članka 4. Odluke o Nacionalnom vijeću za praćenje provedbe Strategije suzbijanja korupcije (»Narodne novine«, br. 82/06. i 35/09.) Hrvatski sabor na sjednici 24. svibnja 2024. donio je
