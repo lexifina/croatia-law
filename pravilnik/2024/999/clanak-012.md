@@ -1,0 +1,5 @@
+# Članak 12.
+(1) Službeni nadzor sadnog materijala u skladu s člankom 41. stavkom 1. Zakona provodi Agencija nasumičnom kontrolom kako bi se provjerilo ispunjavaju li reprodukcijski sadni materijal povrća i presadnice povrća uvjete kvalitete propisane ovim Pravilnikom.
+(2) Nadzor nad proizvodnjom reprodukcijskog sadnog materijala povrća i presadnica povrća može provoditi dobavljač u skladu s člankom 41. stavkom 4. Zakona.
+(3) U slučaju povrede pravila prilikom provođenja nadzora pod stručnom kontrolom, nadzornika kojem se utvrdi odgovornost za povredu, Agencija će u skladu s člankom 11. stavkom 3. podstavkom 2. Zakona brisati iz Upisnika.
+(4) U slučaju povrede pravila o nadzoru iz stavka 3. ovoga članka svako certificiranje reprodukcijskog sadnog materijala povrća i presadnica povrća bit će poništeno uz zabranu stavljanja na tržište i povlačenja s tržišta reprodukcijskog sadnog materijala povrća i presadnica povrća, osim u slučaju da se dokaže da takav materijal i dalje ispunjava sve propisane zahtjeve.

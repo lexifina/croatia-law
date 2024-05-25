@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim Pravilnikom propisuju se vrste i uvjeti certifikacije reprodukcijskog sadnog materijala povrća i presadnica povrća, proizvodnja reprodukcijskog sadnog materijala povrća i presadnica povrća, utvrđivanje i praćenje kritičnih točaka u proizvodnom procesu, službeni nadzor i nadzor pod stručnom kontrolom, pakiranje, označavanje, stavljanje na tržište, uvjeti za male proizvođače i lokalnu cirkulaciju, uvoz reprodukcijskog sadnog materijala i presadnica i zahtjevi u pogledu kvalitete reprodukcijskog sadnog materijala povrća i presadnica povrća.

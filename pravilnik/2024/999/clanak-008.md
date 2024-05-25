@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Tijekom proizvodnje, dobavljač mora kontinuirano voditi Evidenciju o utvrđivanju i praćenju kritičnih točaka u proizvodnom procesu za rodove ili vrste iz Dodatka III. ovoga Pravilnika, a u skladu s člankom 35. stavkom 3. Zakona.
+(2) Ako rezultat provjera ili drugi podaci dostupni dobavljačima sadnog materijala otkrivaju prisutnost jednog ili više štetnih organizama u skladu s propisom kojim se uređuje biljno zdravstvo i/ili drugih štetnih organizama koji utječu na kvalitetu, dobavljač će o tome bez odgode obavijestiti nadležno tijelo iz članka 4. Zakona i provesti mjere koje ono odredi ili druge potrebne mjere kako bi se smanjila opasnost od širenja štetnih organizama.
+(3) Dobavljač je dužan voditi evidenciju o svakoj pojavi štetnih organizama na njegovim površinama i u njegovim prostorima te o svim mjerama koje je u vezi s tim poduzeo.
