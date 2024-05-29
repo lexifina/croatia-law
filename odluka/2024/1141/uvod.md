@@ -1,0 +1,1 @@
+Na temelju članka 18. Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu tijela državne uprave (»Narodne novine«, broj 57/24.) i članka 68. stavka 2. Zakona o proračunu (»Narodne novine«, broj 144/21.), Vlada Republike Hrvatske je na sjednici održanoj 29. svibnja 2024. donijela
