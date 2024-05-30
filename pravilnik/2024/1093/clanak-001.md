@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o godišnjim, tromjesečnim i drugim izvještajima obveznog mirovinskog fonda (»Narodne novine« br. 2/20, 98/20, 24/21 i 146/22) članak 2. stavak 1. mijenja se i glasi:
+»(1) Mirovinsko društvo dužno je za mirovinski fond kojim upravlja voditi poslovne knjige, sastavljati knjigovodstvene isprave, vrednovati imovinu i obveze te sastavljati godišnje i tromjesečne izvještaje sukladno Zakonu o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14, 93/15, 64/18, 115/18, 58/20 i 156/23; dalje: Zakon), propisima koji uređuju računovodstvo i Međunarodnim standardima financijskog izvještavanja.«
