@@ -1,0 +1,4 @@
+# Članak 8.
+Članak 46. mijenja se i glasi:
+»(1) Za voditelja odjela u Sektoru općih, pravnih i računovodstvenih poslova i Sektoru za organizaciju provedbe i analize ispita može biti izabrana osoba koja ima završen najmanje sveučilišni diplomski ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij odgovarajuće struke i najmanje šest (6) godina radnog iskustva na odgovarajućim poslovima.
+(2) Za voditelja odjela u Sektoru za nacionalno i međunarodno vrednovanje obrazovanja može biti izabrana osoba koja ima završen najmanje sveučilišni diplomski ili sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij odgovarajuće struke i najmanje šest (6) godina radnog iskustva na odgovarajućim poslovima u obrazovanju ili u znanstvenoj djelatnosti.«.
