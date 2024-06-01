@@ -1,0 +1,1 @@
+Na temelju članka 107. stavaka 2. i 3. Zakona o obrani (»Narodne novine«, br. 73/13, 75/15, 27/16, 110/17 - Odluka Ustavnog suda Republike Hrvatske, 30/18, 70/19 i 155/23), uz prethodnu suglasnost ministra nadležnoga za poslove civilnog zračnog prometa, donosim
