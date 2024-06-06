@@ -1,0 +1,2 @@
+# Članak 14.
+Vozilo, plovilo i helikopter u kojem se obavlja djelatnost izvanbolničke hitne medicine mora ispunjavati Standard medicinske opreme, medicinskih uređaja i pribora za obavljanje djelatnosti izvanbolničke hitne medicine te Standard vozila i vanjskog izgleda vozila za obavljanje djelatnosti izvanbolničke hitne medicine, koje utvrđuje Hrvatski zavod za hitnu medicinu i objavljuje u »Narodnim novinama«.

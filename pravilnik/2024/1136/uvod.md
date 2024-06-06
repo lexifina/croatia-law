@@ -1,0 +1,1 @@
+Na temelju članka 139. stavka 2. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18, 125/19, 133/20, 147/20, 119/22, 156/22, 33/23 i 36/24), uz prethodno pribavljeno mišljenje Hrvatske liječničke komore i Hrvatske komore medicinskih sestara na prijedlog Hrvatskog zavoda za hitnu medicinu, ministar zdravstva donosi
