@@ -1,1 +1,0 @@
-Na temelju članka 50. stavka 4. Zakona o zdravstvenoj zaštiti (»Narodne novine«, broj 150/08, 71/10, 139/10, 22/11, 84/11, 12/12, 35/12, 70/12, 82/13, 22/14 i 154/14), uz prethodno pribavljeno mišljenje nadležnih komora ministar zdravlja donosi
