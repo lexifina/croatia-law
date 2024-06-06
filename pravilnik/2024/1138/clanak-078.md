@@ -1,0 +1,2 @@
+# Članak 78.
+Pedijatrijski intenzivist je doktor medicine specijalist pedijatrije s užom specijalizacijom iz intenzivne medicine koji mora imati barem 3 godine radnog iskustva na poslovima liječnika u pedijatrijskoj intenzivnoj njezi u transplantacijskom centru s transplantacijskim programom za djecu i u tom razdoblju direktno i aktivno sudjelovati u zbrinjavanju najmanje 10 djece s presađenim organom.

@@ -1,0 +1,15 @@
+# Članak 76.
+(1) Transplantacijski pedijatrijski pulmolog iz članka 73. ovoga Pravilnika je doktor medicine specijalist pedijatrije s užom specijalizacijom iz pulmologije.
+(2) Transplantacijski pedijatrijski pulmolog iz stavka 1. ovoga članka mora imati 2 godine edukacije u licenciranom transplantacijskom centru s transplantacijskim programom za dječja pluća koji mora imati najmanje 15 transplantacija pluća odraslih i 4 transplantacija pluća djece godišnje.
+(3) Tijekom dvogodišnje edukacije iz stavka 2. ovoga članka transplantacijski pedijatrijski pulmolog obvezan je:
+- pod direktnim nadzorom sudjelovati najmanje 6 mjeseci na skrbi o transplantiranim pacijentima, a ostatak vremena provesti na poslovima vezanim uz transplantaciju,
+- tijekom minimalno 2 godine izravnog rada na transplantacijskom programu ovladati širokim spektrom znanja iz područja transplantacijske medicine uključujući skrb o pacijentima s akutnim i kroničnim zatajenjem pluća, specifično dječje populacije, odabiru darivatelja i primatelja, pre i postoperativnoj hemodinamskoj skrbi, korištenju mehaničkih pomagala, postoperativnoj primjeni imunosupresivne terapije, diferencijalne dijagnostike i interpretacije nalaza testova plućne disfunkcije, interpretaciji histoloških nalaza biopsije pluća i procjena stupnja odbacivanja te dugoročnog praćenja i skrbi o pacijentu,
+- sudjelovati u radu transplantacijskog tima i biti uključen u donošenje odluka o imunosupresivnoj terapiji,
+- sudjelovati u skrbi o najmanje 8 hospitaliziranih transplantiranih pacijenata kao i u praćenju/kontroli najmanje 8 pacijenata otpuštenih iz bolnice. Praćenje otpuštenih pacijenata mora biti u kontinuitetu najmanje 3 mjeseca nakon otpusta iz bolnice,
+- biti prisutan u operacijskoj dvorani pri najmanje 2 transplantacije pluća,
+- promatrati i prisustvovati najmanje jednom postupku procjene darivatelja te čitavog postupka darivanja organa,
+(4) Iznimno, ako transplantacijski pedijatrijski pulmolog ne ispunjava uvjete iz stavka 2. ovoga članka, može mu se priznati kliničko iskustvo ako ispunjava sljedeće uvjete:
+- ima dokumentirano sudjelovanje u skrbi o 8 ili više pacijenata s transplantiranim plućima u posljednjih 5 godina. Sudjelovanje u skrbi i praćenju pacijenata mora biti minimalno 3 mjeseca u kontinuitetu od transplantacije za svakog pacijenta,
+- bio je prisutan u operacijskoj dvorani pri najmanje 2 transplantacije pluća,
+- promatrao je i prisustvovao najmanje jednom postupku procjene darivatelja te čitavom postupku darivanja organa,
+- tijekom proteklih 5 godina sudjelovati u skrbi pacijenata s transplantiranim plućima te ovladati znanjima i vještinama skrbi o pacijentima s akutnim i kroničnim zatajenjem pluća, specifično dječje populacije, odabiru darivatelja i primatelja, pre i postoperativnoj hemodinamskoj skrbi, korištenju mehaničkih pomagala, postoperativnoj primjeni imunosupresivne terapije, diferencijalne dijagnostike i interpretacije nalaza testova plućne disfunkcije, interpretaciji histoloških nalaza biopsije pluća i procjena stupnja odbacivanja te dugoročnog praćenja i skrbi o pacijentu.

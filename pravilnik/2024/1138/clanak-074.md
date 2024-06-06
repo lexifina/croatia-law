@@ -1,0 +1,13 @@
+# Članak 74.
+(1) Transplantacijski dječji kirurg za pluća iz članka 73. ovoga Pravilnika je doktor medicine specijalist dječje kirurgije ili specijalist opće kirurgije s užom specijalizacijom iz torakalne kirurgije ili specijalist torakalne kirurgije.
+(2) Transplantacijski dječji kirurg za pluća iz stavka 1. ovoga članka mora imati 2 godine edukacije u licenciranom transplantacijskom centru s transplantacijskim programom za dječja pluća koji mora imati najmanje 15 transplantacija pluća odraslih i 4 transplantacija srca djece godišnje.
+(3) Tijekom dvogodišnje edukacije iz stavka 2. ovoga članka transplantacijski dječji kirurg za pluća obvezan je:
+- sudjelovati u najmanje 8 transplantacija pluća kod odraslih, od toga najmanje 4 kao prvi kirurg i najmanje 4 kao asistent.
+- sudjelovati u najmanje 4 transplantacije pluća kod djece, od toga najmanje 2 kao prvi kirurg i 2 kao prvi asistent. Sve transplantacije moraju biti dokumentirane i ovjerene od transplantacijskog centra u kojemu su obavljene,
+- obaviti najmanje 8 eksplantacija pluća odraslih od čega 4 kao prvi kirurg i 4 kao asistent,
+- obaviti najmanje 4 eksplantacije dječjih pluća od čega 2 kao prvi kirurg i 2 kao asistent,
+- biti direktno uključen u skrb o pacijentima s transplantiranim plućima te mora ovladati znanjima i vještinama skrbi o pacijentima u završnim fazama bolesti pluća, odabiru primatelja, korištenju mehaničke potpore, postoperativnoj i kasnijoj skrbi o pacijentima, korištenju imunosupresivne terapije, diferencijalne dijagnostike i interpretacije nalaza testova funkcije pluća, interpretacije histoloških nalaza biopsije i dugoročnog praćenja i skrbi o pacijentu.
+(4) Iznimno, ako transplantacijski dječji kirurg za pluća ne ispunjava uvjete iz stavka 2. ovoga članka, može mu se priznati kliničko iskustvo ako ispunjava sljedeće uvjete:
+- sudjelovao u najmanje 15 zahvata na plućima u pedijatrijskih pacijenata kao prvi kirurg u prethodnih 5 godina,
+- ima obavljenih najmanje 10 eksplantacija pluća od čega 5 kao prvi kirurg i 5 kao asistent. Sve eksplantacije moraju biti dokumentirane i ovjerene od transplantacijskog kirurga koji je nadgledao zahvate,
+- bio je direktno uključen u skrb o pacijentima s transplantiranim plućima te mora ovladati znanjima i vještinama skrbi o pacijentima u završnim fazama bolesti pluća, odabiru primatelja, korištenju mehaničke potpore, postoperativnoj i kasnijoj skrbi o pacijentima, korištenju imunosupresivne terapije, diferencijalne dijagnostike i interpretacije nalaza testova funkcije pluća, interpretacije histoloških nalaza biopsije i dugoročnog praćenja i skrbi o pacijentu.

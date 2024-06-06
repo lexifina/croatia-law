@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 6. i članka 30. stavka 2. Zakona o presađivanju ljudskih organa u svrhu liječenja (»Narodne novine«, broj 144/2012), te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/2019) uz prethodnu suglasnost ministra vanjskih i europskih poslova ministar zdravstva donosi
