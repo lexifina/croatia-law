@@ -1,0 +1,3 @@
+# Članak 1.
+U Uredbi o popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava (»Narodne novine«, broj 61/23.) članak 2. mijenja se i glasi:
+»Ovom Uredbom u hrvatsko zakonodavstvo preuzima se Direktiva 2009/43/EZ Europskog parlamenta i Vijeća od 6. svibnja 2009. o pojednostavnjivanju uvjeta za transfer obrambenih proizvoda unutar Zajednice (SL L 146, 10. 6. 2009.), kako je posljednji put izmijenjena Delegiranom direktivom Komisije (EU) 2024/242 od 27. rujna 2023. o izmjeni Direktive 2009/43/EZ Europskog parlamenta i Vijeća s obzirom na ažuriranje popisa obrambenih proizvoda u skladu s ažuriranim Zajedničkim popisom robe vojne namjene Europske unije od 20. veljače 2023. (Tekst značajan za EGP) (SL L 2024/242, 17. 1. 2024.).«.
