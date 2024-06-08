@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 4. i članka 21. stavka 17. Zakona o provedbi Uredbe (EU) 2021/23 o okviru za oporavak i sanaciju središnjih drugih ugovornih strana (»Narodne novine«, br. 119/2022) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 22. svibnja 2024. godine donosi
