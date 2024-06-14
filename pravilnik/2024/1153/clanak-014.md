@@ -1,0 +1,6 @@
+## Pravo na novčanu nadoknadu troškova vlastitog prijevoza
+# Članak 14.
+(1) Djeca s teškoćama u razvoju i osobe s invaliditetom otočani koji zbog invaliditeta ne mogu koristiti javni otočni cestovni prijevoz za ostvarivanje svojih osobnih potreba, imaju pravo na novčanu naknadu za nadoknadu troškova vlastitog prijevoza tijekom cijele godine od mjesta prebivališta ili boravišta do mjesta ostvarivanja osobnih potreba na otoku ili do prvog stajališta mjesnog prijevoza na kopnu za premoštene otoke, odnosno do najbliže trajektne luke mjestu prebivališta ili boravišta ako u svrhu ostvarivanja osobnih potreba putuju izvan otoka prebivališta ili boravišta.
+(2) Osobama iz stavka 1. ovoga članka odobrava se iznos naknade troškova vlastitog prijevoza najviše do punog iznosa cijene vozne karte za javni cestovni prijevoz na relaciji na kojoj ostvaruje svoje osobne potrebe.
+(3) Zahtjev za ostvarivanje prava na novčanu naknadu podnosi se nadležnom upravnom tijelu obalno-otočne jedinice područne (regionalne) samouprave prema mjestu prebivališta.
+(4) Uz zahtjev iz stavka 2. ovoga članka prilaže se izjava o troškovima vlastitog prijevoza i relaciji putovanja te liječnička potvrda u kojoj je obrazložen opravdan razlog zbog kojeg nije moguće koristiti javni linijski prijevoz kao i podatak radi li se o trajnom ili vremenski ograničenom razlogu.

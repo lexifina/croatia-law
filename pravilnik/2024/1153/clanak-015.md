@@ -1,0 +1,5 @@
+## V. FINANCIRANJE
+# Članak 15.
+(1) Prijevoznici koji obavljaju otočni cestovni prijevoz putnika dužni su nadležnom upravnom tijelu obalno-otočne jedinice područne (regionalne) samouprave najkasnije do 15. ožujka tekuće godine za iduću godinu dostaviti cjenike za linije na kojima se ostvaruje pravo na besplatan otočni cestovni prijevoz.
+(2) Obalno-otočne jedinice područne (regionalne) samouprave dužne su, na temelju podataka o odobrenim linijama na otocima, cjenicima i rješenjima izdanim korisnicima prava na besplatni otočni prijevoz, najkasnije do 15. travnja tekuće godine, dostaviti Ministarstvu prijedlog iznosa planiranih sredstava koji je potrebno osigurati za otočni javni prijevoz u državnom proračunu za iduću proračunsku godinu.
+(3) Obalno-otočne jedinice područne (regionalne) samouprave dužne su sklopiti ugovore o obavljanju otočnog cestovnog prijevoza s prijevoznicima i Ministarstvom kojima će se utvrditi maksimalni iznosi za pokriće nadoknade troškova besplatnog prijevoza za korisnike kojima se izdaju pokazi.

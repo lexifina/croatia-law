@@ -1,0 +1,2 @@
+# Članak 2.
+Na područjima obalno-otočnih jedinica područne (regionalne) samouprave koje imaju organiziran županijski i komunalni javni linijski prijevoz putnika, korisnici iz članka 31. Zakona o otocima, pravo na besplatni prijevoz ostvaruju na svim linijama koje prometuju na otocima, koje povezuju otoke međusobno te na linijama koje povezuju otoke s kopnom, do prvog stajališta mjesnog prijevoza na kopnu za premoštene otoke ili do trajektne luke na otoku.

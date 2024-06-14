@@ -1,0 +1,7 @@
+## IV. ISPRAVE NA TEMELJU KOJIH SE OSTVARUJU PRAVA
+## Način ostvarivanja prava na besplatan cestovni prijevoz
+# Članak 12.
+(1) Osobe koje ostvaruju pravo na besplatni prijevoz svoj status dokazuju: osobnom iskaznicom, Nacionalnom ili Europskom iskaznicom za osobe s invaliditetom koja se izdaje u skladu s propisom kojim se uređuju povlastice u željezničkom, pomorskom i cestovnom prometu ili odgovarajućom potvrdom za osobe s invaliditetom, rješenjem o priznavanju prava na mirovinu, potvrdom obrazovne ustanove o upisu u školsku odnosno akademsku godinu, potvrdom o smještaju u učenički dom na otoku, potvrdom o upisu u ustanovu koja se bavi edukativnim odnosno sportskim aktivnostima, potvrdom o smještaju u starački dom ili dom za nemoćne osobe na otoku, te dokazom statusa otočana sukladno definiciji iz zakona kojim se uređuju otoci.
+(2) Na temelju isprava iz stavka 1. ovog članka, nadležno tijelo obalno-otočne jedinice područne (regionalne) samouprave na zahtjev stranke izdaje potvrdu za javni otočni cestovni prijevoz na rok od jedne godine.
+(3) U slučaju odbijanja zahtjeva za izdavanje potvrde za javni otočni cestovni prijevoz nadležno tijelo iz stavka 2. ovoga članka donosi rješenje protiv kojega je dopuštena žalba Ministarstvu.
+(4) Na osnovi potvrde iz stavka 2. ovog članka, prijevoznik o svom trošku izdaje pokaz koji mora sadržavati najmanje sljedeće podatke: ime i prezime, fotografiju korisnika, podatak ima li osoba pravo na osobu u pratnji, vrijeme važenja te relaciju na kojoj se ostvaruje pravo na besplatan otočni prijevoz.
