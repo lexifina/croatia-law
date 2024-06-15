@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. - ispravak, 47/99. - ispravak, 35/08., 127/19. i 151/22.) i članka 37. stavka 1. Zakona o arhivskom gradivu i arhivima (»Narodne novine«, br. 61/18., 98/19., 114/22. i 36/24.), Vlada Republike Hrvatske je na sjednici održanoj 6. lipnja 2024. donijela
