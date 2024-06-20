@@ -1,0 +1,4 @@
+## »X. PRIMJERENO UPRAVLJANJE INFORMACIJSKIM SUSTAVOM I KIBERNETIČKIM RIZICIMA«.
+# Članak 19.
+Iza članka 34. dodaje se novi članak 34.a koji glasi:
+»Mirovinsko društvo je dužno u pogledu sigurnosti mrežnih i informacijskih sustava postupati u skladu sa zahtjevima iz Uredbe (EU) 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014 i (EU) 2016/1011.«
