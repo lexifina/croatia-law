@@ -1,2 +1,0 @@
-# Članak 254.
-Pitanja od značaja za rad Ministarstva koja nisu uređena zakonom, Uredbom o općim pravilima za unutarnje ustrojstvo tijela državne uprave i ovom Uredbom utvrdit će se Pravilnikom o unutarnjem redu Ministarstva, a osobito će se utvrditi radna mjesta za državne službenike i namještenike, s naznakom njihovih osnovnih poslova i zadaća, stručnih uvjeta potrebnih za njihovo obavljanje, njihove ovlasti i odgovornosti, te druga pitanja od značaja za rad Ministarstva.

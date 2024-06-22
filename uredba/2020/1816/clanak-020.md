@@ -1,3 +1,0 @@
-# Članak 20.
-Odjel za financijsko upravljanje i kontrolu obavlja poslove koordinacije razvoja financijskog upravljanja i kontrola u ustrojstvenim jedinicama Ministarstva i proračunskim korisnicima u nadležnosti, daje smjernice i izrađuje upute za potrebe financijskog upravljanja. Priprema Izjavu o fiskalnoj odgovornosti iz nadležnosti Ministarstva te na razini razdjela i vrši formalnu i suštinsku kontrolu za razdjel i trgovačka društva u nadležnosti. Obavlja provjeru namjenskog trošenja proračunskih sredstava iz nacionalnih izvora financiranja, surađuje s Ministarstvom financija, proračunskim korisnicima iz nadležnosti Ministarstva, te obavlja i druge poslove iz svoga djelokruga.
-2.2.2. Služba za računovodstvo

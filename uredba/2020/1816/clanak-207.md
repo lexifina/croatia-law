@@ -1,6 +1,0 @@
-# Članak 207.
-Služba za podršku provedbi delegiranih funkcija obavlja stručne i administrativne poslove vezane uz korištenje i opravdavanje troškova tehničke pomoći; priprema priručnike o internim procedurama za provedbu svojih funkcija i brine o odgovarajućem revizijskom tragu; obavlja stručne, administrativne aktivnosti nužne za pripremu strategije organizacijskog razvoja; pripremu analize radne opterećenosti te drugih analiza kojima se utvrđuju potrebe za ljudskim i materijalnim resursima PT1. obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu i planiranje godišnjih i višegodišnjih planova i programa rada; obavlja stručne i administrativne poslove vezane uz unapređenje procedura, koordinaciju revizija i provedbu aktivnosti informiranja i vidljivosti; ukazuje na postojanje nedostataka i potrebu poduzimanja mjera radi uklanjanja nedostataka u PT1, sudjeluje u upravljanju nepravilnostima te, prema potrebi, predlaže pokretanje postupaka za otklanjanje nepravilnosti, kao i mjere za suzbijanje prijevara temeljem analize rizika te aktivnosti informiranja o prioritetnim osima iz nadležnosti; te obavlja druge poslove iz svoga djelokruga.
-U Službi za podršku provedbi delegiranih funkcija ustrojavaju se:
-11.5.1. Odjel za tehničku pomoć
-11.5.2. Odjel za horizontalna pitanja.
-11.5.1. Odjel za tehničku pomoć

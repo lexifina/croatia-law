@@ -1,8 +1,0 @@
-# Članak 53.
-Sektor za konkurentnost vodi i koordinira poslove koji se odnose na jačanje internacionalizacije i konkurentnosti hrvatskog gospodarstva te provodi postupke sukladno Zakonu o strateškim investicijskim projektima Republike Hrvatske; poduzima radnje i koordinira aktivnosti u cilju boljeg pozicioniranja Republike Hrvatske na globalnim ljestvicama konkurentnosti; aktivno surađuje s predstavnicima privatnog i javnog sektora u cilju kreiranja politika i mjera namijenjenih povećanju konkurentnosti te sudjeluje u procesima ocjenjivanja i vrednovanja konkurentnosti; koordinira i usmjerava rad svih javnopravnih tijela koja sudjeluju u procesima ocjenjivanja i pozicioniranja na globalnim ljestvicama konkurentnosti; aktivno poduzima radnje u cilju unapređenja hrvatskog izvoza; pruža savjetodavnu i operativnu podršku izvoznicima i onima koji to namjeravaju postati; prikuplja, analizira i objavljuje informacije vezane uz izvozne prilike; objedinjava podatke o nacionalnim sustavima podrške izvozu; pruža operativnu prilagođenu podršku domaćim društvima u procesima internacionalizacije; zaprima i obrađuje zahtjeve za proglašenje projekata strateškim te obavlja druge poslove definirane prema Zakonu o strateškim investicijskim projektima Republike Hrvatske; inicira i sudjeluje u izradi novih i dopunama postojećih propisa kojima se uređuju pitanja izvoza i konkurentnosti; sudjeluje u pripremi i provedbi projekata Europske unije te obavlja i druge poslove iz svojeg djelokruga.
-U Sektoru za konkurentnost ustrojavaju se:
-3.4.1. Služba za konkurentnost
-3.4.2. Služba za izvoz
-3.4.3. Služba za strateške investicijske projekte
-3.4.4. Služba za unapređenje poslovne klime.
-3.4.1. Služba za konkurentnost

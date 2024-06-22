@@ -1,6 +1,0 @@
-# Članak 14.
-Služba za opće poslove i strateško planiranje organizira provođenje općih poslova i upravljanja imovinom, obavlja poslove koji se odnose na opremanje prostorija Ministarstva opremom i sredstvima rada, organizira održavanje opreme, zgrada i druge imovine Ministarstva, priprema i izrađuje opće i pojedinačne akte iz svoga djelokruga, prati stanje te izrađuje stručne podloge za unapređenje organizacije, poslovanja i procesa rada iz svoga djelokruga, vodi propisane očevidnike, predlaže i organizira vođenje drugih evidencija iz svoga djelokruga, organizira, koordinira i sudjeluje u izradi strateških dokumenata iz nadležnosti Ministarstva. Koordinira i sudjeluje u izradi akcijskih i operativnih planova i mjera za provedbu i implementaciju strateških dokumenata. Organizira, koordinira i sudjeluje u izradi Godišnjeg plana rada, objedinjuje planove ustrojstvenih jedinica, priprema podatke iz svoga djelokruga za stručne podloge za izradu strategija, programa, planova i odluka Ministarstva, te obavlja i druge poslove iz svoga djelokruga.
-U Službi za opće poslove i strateško planiranje ustrojavaju se:
-2.1.3.1. Odjel za upravljanje imovinom
-2.1.3.2. Odjel za strateško planiranje i analitiku.
-2.1.3.1. Odjel za upravljanje imovinom

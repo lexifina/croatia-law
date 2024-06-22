@@ -1,3 +1,0 @@
-# Članak 203.
-Odjel za ugovaranje u području poduzetništva obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu Ugovora o dodjeli bespovratnih sredstava za projekte usmjerene na razvoj i rast malih i srednjih poduzetnika i omogućavanje povoljnog okruženja za poduzetništvo sufinancirane iz ESI fondova u okviru Prioritetne osi 3 Poslovna konkurentnost Operativnog programa Konkurentnost i kohezija 2014. - 2020., koji su u nadležnosti PT1 i drugu relevantnu dokumentaciju za provedbu projekata namijenjenih malom i srednjem poduzetništvu. Odjel priprema priručnike o internim procedurama za provedbu svojih funkcija i brine o odgovarajućem revizijskom tragu te obavlja druge poslove iz svoga djelokruga.
-11.4.3. Služba za provedbu projekata

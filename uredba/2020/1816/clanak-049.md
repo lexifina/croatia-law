@@ -1,6 +1,0 @@
-# Članak 49.
-Služba za potpore inovacijama izrađuje stručne programe i daje stručna mišljenja u vezi s poticanjem subjekata gospodarstva, poduzetništva i obrta na ulaganje u istraživanje i inovacije, uključujući ulaganje u ne-tehnološke inovacije te poticanje osnivanja i rasta na znanju utemeljenih poduzeća; predlaže mjere poticanja putem bespovratnih potpora ili drugih oblika izravnih financijskih potpora gospodarskim subjektima, izrađuje mjere u suradnji s ustrojstvenim jedinicama zaduženim za upravljanje operativnih programa za korištenje strukturnih fondova i Kohezijskog programa Europske unije i ostalih oblika međunarodne pomoći; sudjeluje u radu ocjenjivačkih odbora za odabir projekata za financiranje; sudjeluje u programskim odborima i stručnim grupama pri međunarodnim i europskim institucijama za izradu i koordinaciju programa financiranja za istraživanje, razvoj, inovacije i konkurentnost te potiče sudjelovanje hrvatskih predstavnika u tim programima; obavlja poslove vezano uz sudjelovanje na konferencijama, stručnim skupovima, edukacijama, predavanjima, te obavlja i druge poslove iz svoga djelokruga.
-U Službi za potpore inovacijama ustrojavaju se:
-3.3.1.1. Odjel za poticanje inovacija
-3.3.1.2. Odjel za inovacijske programe.
-3.3.1.1. Odjel za poticanje inovacija

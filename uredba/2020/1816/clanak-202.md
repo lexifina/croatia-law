@@ -1,3 +1,0 @@
-# Članak 202.
-Odjel za ugovaranje u području istraživanja, razvoja i inovacija obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu ugovora o dodjeli bespovratnih sredstava za projekte sufinancirane iz ESI fondova u okviru Prioritetne osi 1 Jačanje gospodarstva primjenom istraživanja i inovacija Operativnog programa Konkurentnost i kohezija 2014. - 2020., a koji se odnose na poticanje istraživanja, razvoja i inovacija te drugu relevantnu dokumentaciju za provedbu projekata. Odjel priprema priručnike o internim procedurama za provedbu svojih funkcija i brine o odgovarajućem revizijskom tragu te obavlja druge poslove iz svoga djelokruga.
-11.4.2.2. Odjel za ugovaranje u području poduzetništva
