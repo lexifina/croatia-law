@@ -1,0 +1,1 @@
+Na temelju članka 163. stavka 2. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17., 98/19., 84/21. i 156/23.), Vlada Republike Hrvatske je na sjednici održanoj 21. lipnja 2024. donijela
