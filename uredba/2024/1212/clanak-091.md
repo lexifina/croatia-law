@@ -1,0 +1,3 @@
+# Članak 91.
+Odjel za praćenje ugovora i kontrolu obavlja sve stručne i administrativne poslove vezano uz ugovaranje projekata i programa; obavlja poslove koji se odnose na pripremu ugovora o dodjeli bespovratnih sredstava; provodi i kontrolira financijsko praćenje projekata; provodi nadzor i kontrolu nad trošenjem sredstava potpora; sudjeluje u pripremi akata koji omogućuju provedbu i korištenje sredstava iz ESI fondova; poduzima korektivne mjere i povrate nenamjenski utrošenih sredstava; sudjeluje u aktivnostima praćenja provedbe i vrednovanja programa i projekata te obavlja i druge poslove iz svoga djelokruga.
+5.2. Sektor za upravno-pravne poslove i registre u obrtu i poduzetništvu

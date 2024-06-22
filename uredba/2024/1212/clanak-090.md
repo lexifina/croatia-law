@@ -1,0 +1,3 @@
+# Članak 90.
+Odjel za provedbu programa poticanja poduzetništva i obrta obavlja sve stručne i administrativne poslove vezane uz provedbu projekata namijenjenih poduzetništvu i obrtništvu sukladno strateškim dokumentima Republike Hrvatske i Europske unije; izrađuje dokumentaciju za pripremu i objavu natječajnih postupaka; izrađuje izvješća o realizaciji projekata; daje stručna mišljenja u vezi s rezultatima provedbe projekata; predlaže rješenja za unapređenje postupka provedbe projekata; izrađuje sva potrebna izvješća i informacije u svezi provedbe projekata i programa; analizira izvršenje i učinkovitost projekata te obavlja i druge poslove iz svoga djelokruga.
+5.1.3.3. Odjel za praćenje ugovora i kontrolu

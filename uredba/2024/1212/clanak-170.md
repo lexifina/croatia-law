@@ -1,0 +1,7 @@
+## 10. RAVNATELJSTVO ZA ROBNE ZALIHE
+# Članak 170.
+Ravnateljstvo za robne zalihe obavlja poslove određene Zakonom o strateškim robnim zalihama i to: upravne, stručne i gospodarske poslove u vezi sa stvaranjem, financiranjem, uporabom, korištenjem i obnavljanjem strateških robnih zaliha, osiguranjem skladišnog prostora za njihov smještaj i čuvanje; priprema prijedloge Bilance i Godišnjeg programa strateških robnih zaliha kao i druge akte određene Zakonom; zaključuje ugovore o poslovima robnog prometa i druge ugovore na način i uz uvjete utvrđene zakonom i aktima Vlade Republike Hrvatske; brine o tekućem i investicijskom održavanju skladišta u vlasništvu Ravnateljstva, odnosno državnom vlasništvu, kao i opreme i sredstava u skladištima i ostalim objektima koje koristi Ravnateljstvo; obavlja financijsko-računovodstvene i knjigovodstvene poslove robnih zaliha, vodi računovodstvo Ravnateljstva; obavlja analitičko-planske i pravne poslove te nadzor nad provedbom ugovornih prava i obveza o skladištenju i čuvanju robnih zaliha i stanju zaliha te druge stručne i tehničke poslove za izvršavanje funkcije robnih zaliha; obavlja poslove u skladu s odlukama Vlade Republike Hrvatske, te obavlja i druge poslove iz svoga djelokruga.
+U Ravnateljstvu za robne zalihe ustrojavaju se:
+10.1. Sektor za kontrolu i popunu Bilance
+10.2. Sektor za financije i pravne poslove robnih zaliha.
+10.1. Sektor za kontrolu i popunu Bilance

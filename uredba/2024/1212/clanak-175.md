@@ -1,0 +1,6 @@
+# Članak 175.
+Sektor za financije i pravne poslove robnih zaliha obavlja upravne i druge stručne poslove koji se odnose na izradu prijedloga Bilance i Godišnjeg programa strateških robnih zaliha, izradu prijedloga plana za osiguranje sredstava iz državnog proračuna za strateške robne zalihe, izradu financijskih planova, financijskih izvješća i obrazloženja, obavlja poslove planiranja i plaćanja, ustrojava i vodi zakonom propisane poslovne knjige, kontrolira knjigovodstvenu dokumentaciju, obračun plaća i ostalih materijalnih prava službenika u Ravnateljstvu. Obavlja poslove javne nabave za potrebe Ravnateljstva, priprema interne akte, izrađuje godišnji plan nabave i prati njegovo izvršenje. Obavlja upravno-pravne i pravne poslove koji se odnose na normativnu djelatnost iz djelokruga Ravnateljstva, priprema mišljenja, objašnjenja i izrađuje prijedloge naputaka u vezi s provedbom zakona i drugih propisa iz djelokruga Ravnateljstva, sudjeluje u sudskim postupcima i naplati potraživanja Ravnateljstva, rješava imovinskopravne poslove, te obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za financije i pravne poslove robnih zaliha ustrojavaju se:
+10.2.1. Služba za financije, proračun i računovodstvene poslove
+10.2.2. Služba za pravne i opće poslove.
+10.2.1. Služba za financije, proračun i računovodstvene poslove

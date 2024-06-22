@@ -1,0 +1,7 @@
+# Članak 88.
+Služba za provedbu programa i projekata poticanja poduzetništva i obrta obavlja sve poslove u vezi s provedbom projekata namijenjenih poduzetništvu i obrtništvu sukladno strateškim dokumentima Republike Hrvatske i Europske unije; priprema podloge i izrađuje dokumentaciju za pripremu i objavu natječajnih postupaka; provodi poticajne programe za unapređenje poduzetništva i obrtništva; sastavlja analize i izvješća iz svojeg djelokruga nadležnosti; predlaže rješenja za unapređenje postupka provedbe programa i projekata; izrađuje sva potrebna izvješća i informacije u svezi s provedbom projekata i programa; obavlja sve stručne i administrativne poslove vezano uz ugovaranje projekata i programa; obavlja poslove koji se odnose na pripremu ugovora o dodjeli bespovratnih sredstava; provodi i kontrolira financijsko praćenje projekata; provodi nadzor i kontrolu nad trošenjem sredstava potpora; sudjeluje u pripremi akata koji omogućuju provedbu i korištenje sredstava iz ESI fondova; poduzima korektivne mjere i povrate nenamjenski utrošenih sredstava; sudjeluje u aktivnostima praćenja provedbe i vrednovanja programa i projekata te obavlja i druge poslove iz svoga djelokruga.
+U Službi za provedbu programa i projekata poticanja poduzetništva i obrta ustrojavaju se:
+5.1.3.1. Odjel za provedbu EU projekata
+5.1.3.2. Odjel za provedbu programa poticanja poduzetništva i obrta
+5.1.3.3. Odjel za praćenje ugovora i kontrolu.
+5.1.3.1. Odjel za provedbu EU projekata

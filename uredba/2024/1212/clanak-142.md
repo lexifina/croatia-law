@@ -1,0 +1,7 @@
+# Članak 142.
+Sektor za pripremu, praćenje i financijsko upravljanje programima u gospodarstvu obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu, planiranje, financiranje, praćenje i vrednovanje akata strateškog planiranja, programskih dokumenata i projekata financiranih sredstvima EU fondova u okviru Operativnog programa Konkurentnost i kohezija 2014. - 2020., Prioritetne osi 1, Prioritetne osi 3 i Prioritetne osi 11, za Program Konkurentnost i kohezija 2021. - 2027., Prioritet: 1. Jačanje gospodarstva ulaganjem u istraživanje i inovacije, podupiranjem poslovne konkurentnosti, digitalizacije i razvojem vještina za pametnu specijalizaciju. te za investicijske mjere u okviru potkomponente C1.1. Otporno, zeleno i digitalno gospodarstvo Mehanizma za oporavak i otpornost.. U svojstvu PT1 Sektor obavlja delegirane funkcije pripreme, praćenja i financiranja projekata, kao i dodatne funkcije koje su mu zakonskim i podzakonskim aktima dodijeljene. Sektor prati međunarodne propise iz svoga djelokruga, organizira seminare i edukacije potrebne za provedbu programa te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru za pripremu, praćenje i financijsko upravljanje programima u gospodarstvu ustrojavaju se:
+9.1.1. Služba za pripremu programa
+9.1.2. Služba za financijsko upravljanje
+9.1.3. Služba za praćenje i evaluaciju programa.
+9.1.1. Služba za pripremu programa

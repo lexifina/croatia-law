@@ -1,0 +1,3 @@
+# Članak 113.
+Odjel za podršku poslovnom sektoru obavlja upravne i stručne poslove vezane uz izobrazbu, informiranje i savjetovanje trgovaca; koordinira i analizira upite trgovaca i prati trendove vezane uz poslovnu praksu trgovaca; izrađuje stručna mišljenja koja se odnose na prava i obveze trgovaca u okviru svoga djelokruga, surađuje s drugim dionicima politike zaštite potrošača u edukativnim aktivnostima namijenjenim trgovcima vezano uz područja u okviru svoga djelokruga; surađuje s drugim tijelima državne uprave, ostalim tijelima javne vlasti, te domaćim i međunarodnim stručnim institucijama u području zaštite potrošača, te obavlja i druge poslove u okviru svoga djelokruga.
+7.1.2. Služba za provedbu politike zaštite prava potrošača

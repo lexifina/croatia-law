@@ -1,0 +1,3 @@
+# Članak 86.
+Odjel za nadzor obavlja nadzor nad postupkom izdavanja dozvola obrtnicima i pravnim osobama za izvođenje naukovanja; obavlja stručni nadzor nad provedbom naukovanja kod obrtnika i pravnih osoba; obavlja stručni nadzor nad zakonitošću organiziranja i provođenja ispita kojim se dokazuju osnovna znanja o poučavanju učenika na naukovanju; provodi stručni nadzor nad evidencijom i verifikacijom ugovora o naukovanju; izrađuje plan provođenja nadzora; obavlja nadzor nad provođenjem majstorskih ispita i ispita o stručnoj osposobljenosti; sastavlja analize i izvješća o provedenom nadzoru; vodi brigu o unapređivanju interaktivne aplikacije e-Naukovanje te obavlja i druge poslove iz svoga djelokruga.
+5.1.2.3. Odjel za poduzetničko učenje

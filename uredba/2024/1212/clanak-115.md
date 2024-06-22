@@ -1,0 +1,3 @@
+# Članak 115.
+Odjel za suradnju s udrugama za zaštitu potrošača obavlja upravne i stručne poslove vezane uz praćenje i analizu izvješća o projektnim aktivnostima udruga za zaštitu potrošača; koordinira i provodi upravne i stručne poslove vezane uz pripremu i provedbu projekata namijenjenih udrugama za zaštitu potrošača; koordinira i provodi mjere nadzora nad projektima namijenjenim udrugama za zaštitu potrošača; surađuje s drugim tijelima državne uprave, ostalim tijelima javne vlasti, te domaćim i međunarodnim stručnim institucijama u području zaštite potrošača, te obavlja i druge poslove u okviru svoga djelokruga.
+7.1.2.2. Odjel za izobrazbu i informiranje potrošača

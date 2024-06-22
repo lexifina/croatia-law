@@ -1,0 +1,3 @@
+# Članak 163.
+Odjel za tehničku pomoć obavlja stručne i administrativne poslove vezane uz pripremu plana korištenja sredstava; razradu uvjeta za korištenje sredstava te kontrolu, praćenje i izvještavanje o korištenju sredstava u pogledu ostvarenja fizičkih i financijskih pokazatelja koja se odnose na korištenje tehničke pomoći za Program Konkurentnost i kohezija 2021. - 2027. Odjel priprema priručnike o internim procedurama za provedbu svojih funkcija i brine o odgovarajućem revizijskom tragu; obavlja stručne, administrativne i upravno-pravne poslove koji se odnose na pripremu i planiranje godišnjih i višegodišnjih planova i programa rada te obavlja druge poslove iz svoga djelokruga.
+9.3.2. Odjel za horizontalna pitanja

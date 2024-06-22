@@ -1,0 +1,6 @@
+# Članak 103.
+Sektor za obnovljive izvore energije, energetsku učinkovitost i nove tehnologije obavlja upravne i stručne poslove u vezi s energetikom Republike Hrvatske; sudjeluje u izradi prijedloga zakona i propisa iz područja obnovljivih izvora energije i energetske učinkovitosti u skladu sa zakonom kojim se uređuju instrumenti politike boljih propisa, usklađuje i surađuje u provedbi mjera energetske politike u okviru sektorskih politika (zaštita okoliša i prirode, industrija, promet, šumarstvo, vodno gospodarstvo, graditeljstvo, znanost i dr.); planira, koordinira i provodi politiku energetske učinkovitosti; osigurava sustavno planiranje za poboljšanje energetske učinkovitosti i provedbu politike infrastrukture alternativnih goriva, obavlja ulogu nacionalnog koordinacijskog tijela za energetsku učinkovitost i nacionalnog koordinacijskog tijela za infrastrukturu za alternativna goriva; koordinira poslove u vezi s gospodarenjem energijom, razmatra primjenu novih tehnologija i energetskih rješenja, te obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za obnovljive izvore energije, energetsku učinkovitost i nove tehnologije ustrojavaju se:
+6.3.1. Služba za obnovljive izvore energije
+6.3.2. Služba za energetsku učinkovitost i nove tehnologije.
+6.3.1. Služba za obnovljive izvore energije

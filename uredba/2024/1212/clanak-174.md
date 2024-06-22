@@ -1,0 +1,3 @@
+# Članak 174.
+Služba za lijekove, sanitetski i potrošni medicinski materijal obavlja stručne i upravne poslove vezane uz nadzor nad radom pravnih osoba u pogledu primjene zakona i ugovornih obveza skladištenja i čuvanja robnih zaliha, vrši kontrolu robnih zaliha i uvjetnosti njihovog smještaja, poduzima mjere radi otklanjanja utvrđenih nedostataka odnosno nepravilnosti te predlaže plan kontrola i vodi Očevidnik obavljenih kontrola, predlaže i izvršava plan nabave i prodaje i obnavljanja lijekova i medicinskog materijala, proizvoda; predlaže i provodi vrste i način evidencije iz svoga djelokruga; vodi odgovarajuće evidencije o robnim zalihama te obavlja i druge poslove iz svoga djelokruga.
+10.2. Sektor za financije i pravne poslove robnih zaliha
