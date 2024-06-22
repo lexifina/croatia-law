@@ -1,0 +1,6 @@
+# Članak 95.
+Služba za europske poslove djeluje kao središnja jedinica Ministarstva za suradnju s institucijama Europske unije te kao koordinator aktivnosti u pripremi nacionalnih stajališta i mišljenja za stručne radne skupine u tijelima Europske unije; koordinira izradu nacionalnog plana reformi i prati aktivnosti u vezi s Europskim semestrom, koordinira sastanke s Europskom komisijom za sektor Okoliš, tzv. Package meeting vezano za provedbu zakonodavstva Europske unije, koordinira aktivnosti vezano za dokumente Europske komisije o aktivnostima u području okoliša (EIR); obavlja poslove koordinacije i praćenja propisa s kojima se preuzima pravna stečevina Europske unije kao i izvršenja preuzetih obaveza uključujući i međusektorsku koordinaciju pripreme i dostave izvješća prema Europskoj komisiji; obavlja poslove Nacionalne kontakt točke za program LIFE te sudjeluje i koordinira aktivnosti vezano uz programe europske teritorijalne suradnje, makroregionalnu strategiju Europske unije za Jadransko jonsku regiju za stup III - Kvaliteta okoliša te druge programe i instrumente Europske unije iz nadležnosti Ministarstva, te obavlja i druge poslove iz svoga djelokruga.
+U Službi za europske poslove ustrojavaju se:
+7.2.1.1. Odjel za EU koordinaciju
+7.2.1.2. Odjel za programe EU.
+7.2.1.1. Odjel za EU koordinaciju

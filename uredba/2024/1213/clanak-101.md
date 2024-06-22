@@ -1,0 +1,6 @@
+# Članak 101.
+Služba za informacijske sustave i dokumente obavlja stručne i analitičke poslove iz područja zaštite okoliša koji uključuju održavanje i razvoj informacijskih sustava zaštite okoliša i prirode, projektiranja baza podataka i odgovarajućih programskih aplikacija, te poslove vezane za razvoj i implementaciju projekata i aktivnosti vezanih uz geoinformacijske tehnologije, obavlja stručne poslove vezane za suradnju s Europskom agencijom za okoliš (u daljnjem tekstu: EEA) i njezinim suradničkim institucijama; obavlja stručne i analitičke poslove vezane za praćenje i izvještavanje o stanju okoliša, te sudjeluje u poslovima praćenja, procjene i izvješćivanja o stanju prirode, obavlja poslove praćenja dokumenata zaštite okoliša i prirode, izrade pokazatelja temeljem nacionalne liste pokazatelja stanja okoliša i prirode te aktivnosti pripreme i provedbe projekata iz svoje nadležnosti; obavlja stručne poslove vođenja baza podataka i registara te pružanja korisničke podrške vezane uz tematska područja koja Sektor pokriva.
+U Službi za informacijske sustave i dokumente ustrojavaju se:
+8.1.1.1. Odjel za digitalizaciju i razvoj informacijskih sustava
+8.1.1.2. Odjel za dokumente zaštite okoliša, prirode i zelene tranzicije.
+8.1.1.1. Odjel za digitalizaciju i razvoj informacijskih sustava
