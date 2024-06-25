@@ -1,8 +1,0 @@
-## 2. GLAVNO TAJNIŠTVO
-# Članak 4.
-Glavno tajništvo obavlja pravne poslove, poslove upravljanja ljudskim potencijalima, financijsko-planske, računovodstvene, organizacijske te opće, pomoćne, tehničke i druge poslove koji se odnose na tehničko usklađivanje rada unutarnjih ustrojstvenih jedinica za potrebe Središnjeg državnog ureda; koordinira izradu godišnjeg plana i prati njegovo izvršavanje; koordinira poslove na razvoju sustava unutarnjih kontrola; obavlja stručne poslove te sudjeluje u izradi akata strateškog planiranja vezanih uz djelokrug rada Središnjeg državnog ureda; izrađuje prijedlog financijskog plana za tekuću godinu te prati njegovo ostvarivanje i obavlja nadzor nad namjenskim trošenjem sredstava; izrađuje pravilnike, odluke, rješenja i zaključke iz svog djelokruga; obavlja poslove u vezi radno-pravnog statusa službenika i namještenika, njihovog stručnog osposobljavanja i usavršavanja te napredovanja i nagrađivanja; obavlja poslove planiranja, upravljanja i razvoja ljudskih potencijala; vodi knjigovodstvenu evidenciju i analitiku; obavlja poslove planiranja i nabave robe, radova i usluga; poslove uredskog poslovanja; skrbi o urednom i pravilnom održavanju i korištenju imovine, sredstava za rad, opremanju prostora Središnjeg državnog ureda i okoliša, voznom parku, tehničkoj ispravnosti, načinu održavanja sredstava i opreme, te obavlja i druge poslove iz svog djelokruga.
-U Glavnom tajništvu ustrojavaju se:
-2.1. Služba za proračun i financijsko upravljanje
-2.2. Služba za javnu nabavu i opće poslove
-2.3. Služba za pravne poslove, ljudske potencijale i uredsko poslovanje.
-2.1. Služba za proračun i financijsko upravljanje
