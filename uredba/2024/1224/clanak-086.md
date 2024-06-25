@@ -1,0 +1,3 @@
+# Članak 86.
+Odjel za propise kaznenog materijalnog prava obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i prijedloga drugih propisa iz područja kaznenog materijalnog prava, analizira i prati primjenu navedenih propisa, u okviru svoga djelokruga sudjeluje u radu institucija i drugih tijela Europske unije i Vijeća Europe, analizira prijedloge pravnih akata Europske unije i Vijeća Europe iz svoga djelokruga, analizira i daje prijedloge za usklađenje propisa iz svoga djelokruga s pravom Europske unije i Vijeća Europe, te obavlja i druge poslove iz svoga djelokruga.
+5.1.1.2. Odjel za propise prekršajnog prava

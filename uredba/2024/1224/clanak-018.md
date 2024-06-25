@@ -1,0 +1,6 @@
+# Članak 18.
+Služba za opće poslove, poslove sigurnosti i zaštitu na radu obavlja poslove zaštite na radu, protupožarne zaštite i obrambeno-sigurnosne poslove, poslove telefonske centrale, obavlja stručne i tehničke poslove vezane uz organizaciju i koordinaciju prijevoza službenih osoba Ministarstva, obavlja poslove u vezi održavanja vozila Ministarstva, koordinira upravljanje voznim parkom te vodi evidenciju vozila Ministarstva i proračunskih korisnika u nadležnosti, predlaže preraspodjelu vozila po korisnicima radi racionalnijeg i ekonomičnijeg korištenja, predlaže nabavu vozila putem leasinga, vodi skladište i analitičke knjigovodstvene evidencije sitnog inventara i uredskog materijala te obavlja druge upravno-stručne poslove, poslove redovitog tekućeg održavanja, poslove čišćenja poslovnih prostora Ministarstva i poslove vezane uz čajnu kuhinju Ministarstva, sudjeluje u planiranju, unifikaciji i standardizaciji opremanja Ministarstva, priprema tehničku dokumentaciju za potrebe pokretanja postupka javne nabave, vodi potrebne evidencije te obavlja druge poslove iz svoga djelokruga.
+U Službi za opće poslove, poslove sigurnosti i zaštitu na radu ustrojavaju se:
+2.3.2.1. Odjel za opće poslove
+2.3.2.2. Odjel za poslove sigurnosti i zaštitu na radu.
+2.3.2.1. Odjel za opće poslove

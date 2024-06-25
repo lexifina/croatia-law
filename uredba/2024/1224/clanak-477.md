@@ -1,0 +1,7 @@
+## 15. SAMOSTALNI SEKTOR ZA NABAVU
+# Članak 477.
+Samostalni sektor za nabavu provodi i upravlja procesima javne i jednostavne nabave roba, radova i usluga iz djelokruga Ministarstva, priprema i izrađuje interne akte, koordinira ustrojstvene jedinice Ministarstva vezano uz dostavu prijedloga plana nabave sukladno njihovim potrebama i osiguranim financijskim sredstvima, izrađuje i ažurira godišnji plan nabave, pruža savjetodavnu podršku drugim ustrojstvenim jedinicama u pripremi dokumentacije vezane uz nabavu, priprema i provodi postupke nabave, priprema i izrađuje ugovore o nabavi i okvirne sporazume, izrađuje izvješća i vodi evidencije sukladno propisima iz područja javne nabave, prati izmjene propisa i pravila u nabavi. Sektor surađuje s tijelom državne uprave nadležnim za središnju javnu nabavu te priprema očitovanja o potrebama Ministarstva po svim nabavnim kategorijama, provodi procedure ugovaranja definirane okvirnim sporazumima, vodi evidencije te priprema izvješća o izvršenju ugovora za potrebe tijela državne uprave nadležnog za središnju javnu nabavu. Sektor priprema i izrađuje odgovore na žalbe s očitovanjem o žalbenom navodu i o žalbenom zahtjevu na provedene postupke javne nabave, a koji se vode pred Državnom komisijom za kontrolu postupaka javne nabave te obavlja i druge poslove iz svog djelokruga.
+U Samostalnom sektoru za nabavu ustrojavaju se:
+15.1. Služba za provedbu postupaka nabave
+15.2. Služba za planiranje i praćenje postupaka nabave.
+15.1. Služba za provedbu postupaka nabave

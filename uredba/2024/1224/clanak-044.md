@@ -1,0 +1,7 @@
+# Članak 44.
+Sektor za stečajne upravitelje, povjerenike, stalne sudske vještake i stalne sudske tumače provodi prvostupanjske postupke upisa stečajnih upravitelja i povjerenika u postupcima stečaja potrošača na liste i njihovog brisanja s lista, obavlja poslove u vezi s njihovom stručnom obukom i usavršavanjem, vodi i ažurira evidencije stečajnih upravitelja i povjerenika, prati rad stečajnih upravitelja i povjerenika, obavlja upravne i stručne poslove u postupcima odlučivanja o imenovanju i razrješenju te odlučivanja o drugim statusnim pitanjima stalnih sudskih vještaka, stalnih sudskih procjenitelja i stalnih sudskih tumača, vodi i ažurira evidencije stalnih sudskih vještaka, stalnih sudskih procjenitelja i stalnih sudskih tumača, prati rad stalnih sudskih vještaka, stalnih sudskih procjenitelja i stalnih sudskih tumača, sudjeluje u izradi prijedloga propisa koji se odnose na stečajne upravitelje, povjerenike, stalne sudske vještake i stalne sudske procjenitelje, daje mišljenja o načinu provedbe ovih propisa te sudjeluje u osiguranju njihove primjene; obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za stečajne upravitelje, povjerenike, stalne sudske vještake i stalne sudske tumače ustrojavaju se:
+3.4.1. Služba za stečajne upravitelje i povjerenike
+3.4.2. Služba za stalne sudske vještake
+3.4.3. Služba za stalne sudske tumače.
+3.4.1. Služba za stečajne upravitelje i povjerenike

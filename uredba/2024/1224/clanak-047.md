@@ -1,0 +1,3 @@
+# Članak 47.
+Služba za stalne sudske tumače obavlja upravne i stručne poslove u postupcima odlučivanja o imenovanju i razrješenju te odlučivanja o drugim statusnim pitanjima stalnih sudskih tumača, vodi i ažurira evidencije stalnih sudskih tumača te prikuplja i analizira podatke o njihovom radu, ispituje osnovanost predstavki na rad stalnih sudskih tumača, obavlja stručne poslove vezane uz provedbu provjera znanja te stručne obuke i usavršavanja stalnih sudskih tumača, sudjeluje u izradi nacrta i prijedloga propisa koji se odnose na stalne sudske tumače, daje mišljenja o načinu provedbe tih propisa te osigurava njihovu primjenu; obavlja i druge poslove iz svoga djelokruga.
+3.5. Sektor osiguranja pravosudnih tijela

@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel za poslove sigurnosti i zaštitu na radu obavlja stručne i tehničke poslove vezane za kibernetičku sigurnost, postupanje s klasificiranim podacima, zaštitu osobnih podataka, poslove u vezi s provedbom zakonskih i podzakonskih propisa iz navedenih područja, obavlja poslove nadzora i usklađivanja provođenja mjera zaštite osoba i imovine Ministarstva, obavlja poslove vezane uz brigu o urednom i pravilnom korištenju imovine i sredstava za rad, obavlja stručne poslove vezane za zaštitu na radu i protupožarnu zaštitu, i druge poslove iz svoga djelokruga.
+2.4. Sektor za informatičku infrastrukturu

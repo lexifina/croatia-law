@@ -1,0 +1,3 @@
+# Članak 10.
+Odjel za središnja tijela obavlja upravne i stručne poslove vezane uz prikupljanje, obradu, izradu i izvršavanje financijskih planova središnjih tijela, predlaže preraspodjelu proračunskih sredstava središnjih tijela tijekom proračunske godine, izrađuje potrebne analize, izvještaje i mišljenja radi pravilnog i ujednačenog postupanja središnjih tijela; kontrolira i konsolidira financijske izvještaje središnjih tijela; provodi formalnu i suštinsku kontrolu Izjava o fiskalnoj odgovornosti središnjih tijela; prati, analizira i odobrava mjesečne isplate materijalnih izdataka poslovanja i rashoda za zaposlene; obavlja i druge poslove iz svoga djelokruga.
+2.2. Sektor za računovodstvo i financije

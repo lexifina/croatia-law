@@ -1,0 +1,3 @@
+# Članak 406.
+Pododsjek materijalnog knjigovodstva sudjeluje u pripremi i provođenju postupaka javne i jednostavne nabave, sudjeluje u izradi planova nabave i usklađuje ih s financijskim planom, izrađuje dokumentaciju i troškovnike za javnu i jednostavnu nabavu te obavlja sve poslove vezane uz objave i praćenje dokumentacije za nadmetanje. Obavlja poslove materijalnog knjigovodstva, usklađuje kartice materijalnog sa financijskim knjigovodstvom te kontrolira zalihe materijala, vodi propisanu dokumentaciju i evidencije i sudjeluje u izradi statističkih i drugih izvješća. Kontrolira ulazne i izlazne skladišne dokumente, obrađuje inventurne liste te obavlja i druge poslove iz djelokruga Pododsjeka.
+10.6.14.5.2. Pododsjek prehrane

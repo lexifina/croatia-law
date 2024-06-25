@@ -1,0 +1,3 @@
+# Članak 87.
+Odjel za propise prekršajnog prava obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i prijedloga drugih propisa iz područja prekršajnog prava, analizira i prati primjenu navedenih propisa, u okviru svoga djelokruga sudjeluje u radu institucija i drugih tijela Europske unije i Vijeća Europe, analizira prijedloge pravnih akata Europske unije i Vijeća Europe iz svoga djelokruga, analizira i daje prijedloge za usklađenje propisa iz svoga djelokruga s pravom Europske unije i Vijeća Europe, izrađuje stručna mišljenja u vezi nacrta prijedloga propisa iz drugih područja prava u odnosu na kaznenopravne i prekršajnopravne odredbe te obavlja i druge poslove iz svoga djelokruga.
+5.1.2. Služba za propise kaznenog procesnog prava

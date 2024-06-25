@@ -1,0 +1,3 @@
+# Članak 443.
+Služba za nadzor i podatkovne propise obavlja poslove osiguranja poštivanja provedbe podatkovnih propisa što uključuje i nadzorne aktivnosti, razvijanju smjernica i preporuka za provedbu podatkovnih propisa i osiguranje njihove provedbe; osigurava usklađenost s relevantnim zakonima i propisima o podacima; pruža stručno mišljenje i savjete vezane uz podatkovne propise, surađuje sa drugim službama na razvoju internih politika i procedura o upravljanju podacima; obavlja stručne poslove koji se odnose na poslove međunarodne suradnje Ministarstva; sudjeluje u izradi akata strateškog planiranja vezanih uz djelokrug Ministarstva; obavlja i druge poslove iz svoga djelokruga.
+12.3. Sektor za kibernetičku sigurnost državne informacijske infrastrukture

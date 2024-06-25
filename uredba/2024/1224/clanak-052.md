@@ -1,0 +1,6 @@
+# Članak 52.
+Područni odjel pravosudne policije Rijeka obavlja poslove osiguranja pojedinih pravosudnih tijela koji se odnose na osiguranje osoba, nadzor ulaska i izlaska te sprječavanje neovlaštenog zadržavanja osoba, sprječavanje neovlaštenog unošenja oružja, oruđa, eksplozivnih naprava i drugih opasnih stvari i tvari, pretragu osoba i stvari, održavanje reda u pravosudnim tijelima te poduzimanje propisanih mjera protiv prekršitelja reda; provodi unutarnji nadzor iz svoga djelokruga; vodi evidencije i dokumentaciju u vezi s radom Područnog odjela; provodi edukaciju borilačkih vještina i rukovanja službenim oružjem te pokreće postupke provjere tjelesnih sposobnosti i vještina korištenja službenog oružja službenika pravosudne policije; obavlja i druge poslove iz svoga djelokruga na području Primorsko-goranske i Istarske županije.
+Za obavljanje poslova iz djelokruga Područnog odjela pravosudne policije Rijeka ustrojavaju se pododsjeci osiguranja koji obavljaju poslove koji se odnose na osiguranje objekata i osoba u pravosudnim tijelima prema mjesnoj nadležnosti:
+3.5.1.3.1. Pododsjek osiguranja Rijeka - za područje Primorsko-goranske županije
+3.5.1.3.2. Pododsjek osiguranja Pula - za područje Istarske županije.
+3.5.1.4. Područni odjel pravosudne policije Osijek

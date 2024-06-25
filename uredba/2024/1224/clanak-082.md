@@ -1,0 +1,2 @@
+# Članak 82.
+Služba za postupanje po zahtjevima obavlja stručne poslove vezane za izdavanje preslika ručno vođenih zemljišnih knjiga te vođenje o evidencije o podacima potrebnim za rad Službe, prima i obrađuje zahtjeve nadležnih sudova i drugih tijela po odobrenju suda, vodi evidenciju o zaprimljenim i obrađenim zahtjevima, čuva podatke sukladno propisima i općim aktima o uredskom poslovanju i informacijskoj sigurnosti, administrira program elektroničkog uredskog poslovanja te prati propise iz područja zaštite i čuvanja građe.

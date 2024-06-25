@@ -1,0 +1,6 @@
+# Članak 179.
+Sektor za probaciju obavlja upravne i stručne poslove kod odlučivanja o kaznenom progonu, izbora vrste i mjere kaznenopravnih sankcija, izvršavanja kaznenopravnih sankcija izrečenih punoljetnom počinitelju kaznenog djela: rada za opće dobro, uvjetne osude, uvjetnog otpusta, prekida kazne zatvora te zaštitnog nadzora po punom izvršenju kazne zatvora; surađuje sa ustrojstvenom jedinicom za elektronički nadzor; izrađuje nacrte prijedloga propisa i strateških dokumenata iz svoga djelokruga; proučava i prati najnovija dostignuća vezana uz poslove iz svoga djelokruga te pruža pomoć vezano uz međunarodnu suradnju kod probacijskih predmeta; provodi stručnu izobrazbu probacijskih službenika i drugih suradnika, te obavlja nadzor pravilnog, pravodobnog i zakonitog rada probacijskih ureda; obavlja upravne i stručne probacijske poslove vezane uz nadzor i koordinaciju rada probacijskih ureda; vođenje informatičkog sustava te prikupljanje podataka u cilju razvijanja probacijskog sustava; obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru za probaciju ustrojavaju se:
+10.4.1.1. Služba za izvršavanje probacijskih sankcija, mjera i obveza
+10.4.1.2. Služba za razvoj probacijskog sustava.
+10.4.1.1. Služba za izvršavanje probacijskih sankcija, mjera i obveza

@@ -1,0 +1,3 @@
+# Članak 61.
+Odjel za opće propise građanskog izvanparničnog procesnog prava i ovršnog prava obavlja upravne i stručne poslove vezane za izradu nacrta prijedloga zakona i prijedloga drugih propisa iz područja građanskog izvanparničnog procesnog prava i ovršnog prava, u okviru svoga djelokruga sudjeluje u radu institucija i drugih tijela Europske unije, analizira zakonodavne prijedloge Europske unije iz svoga djelokruga, analizira i daje prijedloge za usklađenje propisa iz svoga djelokruga s pravnom stečevinom Europske unije, provodi zakone iz djelokruga Odjela, daje stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga središnja tijela državne uprave te obavlja i druge poslove iz svoga djelokruga.
+4.1.2. Služba za sustav besplatne pravne pomoći

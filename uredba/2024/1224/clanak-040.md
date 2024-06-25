@@ -1,0 +1,3 @@
+# Članak 40.
+Odjel za organizacijske propise izrađuje nacrte prijedloga zakona i prijedloge drugih propisa za ustanovljavanje, ustrojstvo i djelokrug sudova i državnih odvjetništava te sudjeluje u osiguranju provedbe tih propisa, izrađuje nacrte prijedloga zakona i prijedloge drugih propisa koji se odnose na javnobilježničku i odvjetničku službu, stalne sudske vještake, stalne sudske tumače te prijedloge propisa koji se odnose na statusna pitanja stečajnih upravitelja i povjerenika u postupcima stečaja potrošača, daje mišljenja o načinu provedbe propisa te prati i analizira učinke propisa iz svoga djelokruga. Odjel obavlja i druge poslove iz svoga djelokruga.
+3.3.1.2. Odjel za odvjetništvo

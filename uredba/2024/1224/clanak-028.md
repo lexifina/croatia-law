@@ -1,0 +1,3 @@
+# Članak 28.
+Odjel za pravosudne korisnike obavlja stručne poslove koordinacije aktivnosti pravosudnih tijela vezane za investicijsko, tekuće održavanje i energetsku učinkovitost objekata pravosudnih tijela koje korisnici provode samostalno, sudjeluje u izradi prijedloga za državni proračun, financijskih planova i programa po korisnicima u suradnji s ustrojstvenom jedinicom nadležnom za proračun; prati realizaciju planiranih projekata i provedenih nabava pravosudnih tijela; vodi potrebne evidencije iz svoga djelokruga i dokumentaciju te obavlja i druge poslove iz svoga djelokruga.
+2.5.2.2. Odjel za upravljanje kapitalnim investicijama

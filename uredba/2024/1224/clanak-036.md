@@ -1,0 +1,4 @@
+# Članak 36.
+Služba za statističko praćenje i analitiku obrađuje i analizira podatke o radu pravosudnih tijela i podatke o ljudskim potencijalima u pravosudnim tijelima. Izrađuje godišnje statističko izvješće o radu pravosudnih tijela, analitičku pripremu izmjena zakona iz djelokruga Ministarstva, statističko praćenje učinaka zakona, analitičku podlogu planova poboljšanja učinkovitosti pravosudnog sustava te izvješća o preporukama za rad pravosudnih tijela. Obavlja poslove vođenja evidencija propisanih odredbama Zakona o sudovima i Zakona o državnom odvjetništvu, evidencija o kadrovskoj popunjenosti pravosudnih tijela te evidencija propisanih odredbama Obiteljskog zakona. Izrađuje izvješća potrebna za pripremu i provedbu nadzora pravosudnih tijela. Obavlja i druge poslove u okviru svoga djelokruga.
+3.2.2. Služba za potporu poslovnim procesima
+pravosudnih tijela

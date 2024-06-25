@@ -1,0 +1,6 @@
+# Članak 115.
+Služba za zakonodavstvo i unaprjeđenje prakse u području pravosudne suradnje obavlja stručne i upravne poslove praćenja izrade pravnih akata Europske unije iz područja pravosudne suradnje s državama članicama Europske unije, izrade nacrta prijedloga zakona i podzakonskih akata iz područja pravosudne suradnje s državama članicama Europske unije, pripreme međunarodnih ugovora u pitanjima međunarodne pravne pomoći, izrade nacrta prijedloga zakona i podzakonskih akata iz područja međunarodne pravne pomoći i legalizacije isprava za upotrebu u inozemstvu i stranih isprava za upotrebu u Republici Hrvatskoj, ustrojava praćenje prakse pravosudnih tijela iz djelokruga Službe, analizira uočene pojave i predlaže odgovarajuće mjere za poboljšanje i unapređenje rada, izrađuje strategije i stručno sudjeluje u projektima iz djelokruga Službe, te obavlja i druge poslove iz svoga djelokruga.
+U Službi za zakonodavstvo i unaprjeđenje prakse u području pravosudne suradnje, ustrojavaju se:
+6.2.3.1. Odjel za zakonodavstvo na području međunarodne pravne pomoći i pravosudne suradnje s državama članicama Europske unije
+6.2.3.2. Odjel za unaprjeđenje prakse u području pravosudne suradnje.
+6.2.3.1. Odjel za zakonodavstvo na području međunarodne pravne pomoći i pravosudne suradnje s državama članicama Europske unije

@@ -1,0 +1,6 @@
+# Članak 8.
+Služba za proračunske korisnike organizira i koordinira pripremu i izradu prijedloga financijskih planova, izmjena i dopuna, preraspodjela i obrazloženja financijskih planova proračunskih korisnika, koje dostavlja ustrojstvenoj jedinici nadležnoj za financijski plan Razdjela; u suradnji s ustrojstvenom jedinicom nadležnom za pravosudnu infrastrukturu analizira zahtjeve proračunskih korisnika o potrebama za kapitalnim ulaganjima; kontrolira i konsolidira financijske izvještaje proračunskih korisnika, koje dostavlja ustrojstvenoj jedinici nadležnoj za računovodstvo; koordinira i provodi formalnu i suštinsku kontrolu Izjava o fiskalnoj odgovornosti proračunskih korisnika; prati, analizira i odobrava mjesečne doznake za potrebe materijalnih izdataka poslovanja i rashoda za zaposlene; prati uplate i isplate na temelju sklopljenih sporazuma o sufinanciranju poslova obnove zemljišnih knjiga; inicira izradu internih akata kojima se reguliraju aktivnosti poslovanja proračunskih korisnika; obavlja i druge poslove iz svoga djelokruga.
+U Službi za proračunske korisnike ustrojavaju se:
+2.1.3.1. Odjel za pravosudna tijela
+2.1.3.2. Odjel za središnja tijela.
+2.1.3.1. Odjel za pravosudna tijela

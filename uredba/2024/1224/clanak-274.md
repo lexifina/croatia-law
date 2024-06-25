@@ -1,0 +1,3 @@
+# Članak 274.
+Pododsjek radionica servisa sa Stanicom za tehnički pregled vozila obavlja poslove vezane uz tehnički pregled i održavanje vozila, strojeva, uređaja i mehanizacije te obavlja najstručnije poslove vezane uz komunikaciju i koordinaciju s tijelima državne uprave i pravnim osobama (Ministarstvo unutarnjih poslova Republike Hrvatske, Hrvatski autoklub, Centar za vozila Hrvatske). Obavlja automehaničarske, autolimarske/autolakirerske poslove te organiziranja i provođenja strukovne izobrazbe i rada zatvorenika, vođenja evidencija te druge poslove.
+10.5.6.3.3.2. Pododsjek održavanja i radno-terapijska radionica

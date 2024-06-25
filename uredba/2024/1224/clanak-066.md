@@ -1,0 +1,3 @@
+# Članak 66.
+Služba za opće propise građanskog materijalnog prava obavlja upravne i stručne poslove vezane za: izradu nacrta prijedloga zakona i prijedloga drugih propisa, provođenje zakona i drugih propisa iz područja obveznog i nasljednog prava, te analizira i daje prijedloge za usklađenje tih propisa s pravnom stečevinom Europske unije, sudjeluje u radu institucija i drugih tijela Europske unije, priprema stručna mišljenja o nacrtima prijedloga propisa koje su izradila druga tijela državne uprave te obavlja i druge poslove iz svoga djelokruga.
+4.2.2. Služba za opće propise trgovačkog i stečajnog prava

@@ -1,0 +1,3 @@
+# Članak 117.
+Odjel za unaprjeđenje prakse u području pravosudne suradnje obavlja stručne i upravne poslove u praćenju primjene međunarodnih ugovora, pravnih akata Europske unije i domaćeg zakonodavstva u području međunarodne pravne pomoći, analizira uočene pojave i predlaže odgovarajuće mjere za poboljšanje i unaprjeđenje prakse pravosudnih tijela iz svog djelokruga te izrađuje odgovarajuće strategije, predlaže, vodi i stručno sudjeluje u projektima iz djelokruga Službe, izrađuje i prati statistička izvješća te obavlja i druge poslove iz svoga djelokruga.
+6.3. Sektor za sprječavanje korupcije

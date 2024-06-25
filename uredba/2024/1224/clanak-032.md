@@ -1,0 +1,6 @@
+# Članak 32.
+Sektor za pravosudnu upravu izrađuje prijedloge odluka kojim se pravosudnim tijelima daju mišljenja o načinu provedbe propisa za zakonito i pravilno obavljanje poslova sudske i državnoodvjetničke uprave te prijedloge odluka kojima se poništavaju ili ukidaju nezakoniti ili nepravilni akti doneseni u obavljanju poslova sudske i državnoodvjetničke uprave. Obavlja poslove vezane za reorganizaciju pravosudnog sustava i pripremu prijedloga reorganizacije, poslove priprema odluke o utvrđivanju broja službenika i namještenika u pravosudnim tijelima sukladno Mjerilima za određivanje broja službenika i namještenika, izrade planova zapošljavanja i prijma vježbenika u pravosudnim tijelima, provedbe javnog natječaja za vježbenike u pravosudnim tijelima, poslove davanja prethodne suglasnosti na pravilnike o unutarnjem redu pravosudnih tijela.. Obavlja poslove koji se odnose na izradu okvirnih mjerila o radu sudaca te utvrđivanje broja sudaca i zamjenika državnih odvjetnika i izrađuje nacrte prijedloga odluka o materijalnim pravima pravosudnih dužnosnika. Obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru za pravosudnu upravu ustrojavaju se:
+3.1.1. Služba za pravosudnu upravu
+3.1.2. Služba za ljudske potencijale u pravosudnim tijelima.
+3.1.1. Služba za pravosudnu upravu

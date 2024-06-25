@@ -1,0 +1,3 @@
+# Članak 116.
+Odjel za zakonodavstvo na području međunarodne pravne pomoći i pravosudne suradnje s državama članicama Europske unije obavlja stručne i upravne poslove pripreme međunarodnih ugovora u pitanjima međunarodne pravne pomoći, izrade nacrta prijedloga zakona i podzakonskih akata za provedbu međunarodnih ugovora iz područja međunarodne pravne pomoći, te legalizacije isprava za upotrebu u inozemstvu i stranih isprava za upotrebu u Republici Hrvatskoj, izrade nacrta prijedloga zakona i podzakonskih akata iz područja pravosudne suradnje s državama članicama Europske unije te obavlja i druge poslove iz svoga djelokruga.
+6.2.3.2. Odjel za unaprjeđenje prakse u području pravosudne suradnje
