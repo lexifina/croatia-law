@@ -1,0 +1,2 @@
+# Članak 19.
+Okvirni broj potrebnih državnih službenika i namještenika u Ministarstvu koji je prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede (»Narodne novine«, br. 97/20., 104/21. i 102/23.) zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu poljoprivrede, šumarstva i ribarstva, koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.

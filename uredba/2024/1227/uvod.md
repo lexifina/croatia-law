@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.) i članka 17. stavka 1. ZakonA o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu tijela državne uprave (»Narodne novine«, broj 57/24.), Vlada Republike Hrvatske je na sjednici održanoj 13. lipnja 2024. donijela
