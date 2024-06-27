@@ -1,0 +1,7 @@
+## Obveze korisnika
+# Članak 5.
+(1) Korisnik je dužan čuvati i omogućiti uvid u dokumentaciju o operaciji za koju je ostvario potporu u okviru ovoga Pravilnika te dostaviti je, na njihov zahtjev, ovlaštenim osobama Upravljačkog tijela, Tijela nadležnog za računovodstvenu funkciju, Posredničkog tijela, Tijela za reviziju i tijela uključenih u revizije Programa kao i ovlaštenim predstavnicima Europske komisije, Europskog revizorskog suda, Europskog ureda za borbu protiv prijevara (OLAF), Ureda europskog javnog tužitelja (EPPO) i drugih nadležnih nadzornih/revizorskih tijela. Uputa za čuvanje dokumentacije dostupna je na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/).
+(2) Rok za čuvanje dokumentacije iz stavka 1. ovoga članka je tijekom razdoblja od pet godina od 31. prosinca godine u kojoj je izvršeno posljednje plaćanje potpore u skladu s člankom 82. Uredbe (EU) br. 2021/1060.
+(3) Korisnik je dužan voditi odvojeni računovodstveni sustav ili primjereni računovodstveni kod/oznaku za sve transakcije vezane uz operaciju za koju mu je dodijeljena potpora.
+(4) Korisnik je dužan djelovati u skladu s uvjetima iz članka 4. stavka 2. ovoga Pravilnika tijekom razdoblja između podnošenja zahtjeva za potporu i isteka pet godina nakon završnog plaćanja korisniku.
+(5) Korisnik je dužan dostavljati točne i istinite podatke i/ili izjave te postupati u skladu s odredbama ovoga Pravilnika.
