@@ -1,0 +1,14 @@
+# Članak 2.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+a) »Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja)« - tijelo koje vrši isplate korisnicima
+b) »Dozvola za akvakulturu« - isprava na temelju koje se smije obavljati gospodarska djelatnost akvakulture
+c) »Korisnik« - svaka fizička ili pravna osoba koja zadovolji uvjete ovoga Pravilnika
+d) »Ministar« - čelnik središnjeg tijela državne uprave koje je nadležno za poslove ribarstva
+e) »Ministarstvo poljoprivrede, šumarstva i ribarstva (u daljnjem tekstu: Ministarstvo)« - središnje tijelo državne uprave nadležno za poslove ribarstva te u ovom slučaju davatelj potpore
+f) »Povlastica za gospodarski ribolov (u daljnjem tekstu: povlastica)« - isprava na temelju koje se smije obavljati gospodarski ribolov
+g) »Primarna proizvodnja proizvoda ribarstva i akvakulture« - sve operacije povezane s ribolovom, uzgojem ili rastom vodenih organizama, kao i aktivnosti na poljoprivrednim gospodarstvima ili na brodu koje su potrebne za pripremu životinje ili biljke za prvu prodaju, uključujući rezanje, filetiranje ili zamrzavanje, i prva prodaja preprodavačima ili prerađivačima
+h) »Proizvodi ribarstva i akvakulture« - proizvodi definirani u članku 5. točkama a) i b) Uredbe (EU) br. 1379/2013 Europskog parlamenta i Vijeća od 11. prosinca 2013. o zajedničkom uređenju tržišta proizvodima ribarstva i akvakulture, izmjeni uredbi Vijeća (EZ) br. 1184/2006 i (EZ) br. 1224/2009 i stavljanju izvan snage Uredbe Vijeća (EZ) br. 104/2000 (SL L 354, 28. 12. 2013.)
+i) »Radni dan« - svaki dan koji nije subota, nedjelja ili blagdan odnosno svaki dan kad Uprava ribarstva radi
+j) »Ribolovna aktivnost« - znači potraga za ribom, bacanje, polaganje, povlačenje i potezanje ribolovne opreme, izvlačenje ulova na palubu, prekrcaj, zadržavanje na palubi, prerada na brodu, prebačaj, stavljanje u kaveze, tov i iskrcaj ribe i proizvoda ribarstva
+k) »Ribolovni dan« - svaki dan kada se obavlja ribolovna aktivnost, a koji je evidentiran sukladno Zakonu o morskom ribarstvu te u skladu sa propisima iz područja dostave očevidnika i/ili izvješća o ulovu u gospodarskom ribolovu.
+(2) Ostali pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao pojmovi uporabljeni u Uredbi Komisije (EU) br. 717/2014, Uredbi (EU) br. 1380/2013 Europskog parlamenta i Vijeća od 11. prosinca 2013. o zajedničkoj ribarstvenoj politici, izmjeni uredaba Vijeća (EZ) br. 1954/2003 i (EZ) br. 1224/2009 i stavljanju izvan snage uredaba (EZ) br. 2371/2002 i (EZ) br. 639/2004 i Odluke Vijeća 2004/585/EZ (SL L 354 od 28. 12. 2013.), Uredbi (EU) 2021/1139 Europskog parlamenta i Vijeća od 7. srpnja 2021. o uspostavi Europskog fonda za pomorstvo, ribarstvo i akvakulturu i izmjeni Uredbe (EU) 2017/1004 (SL L 247, 13. 7. 2021.) i Pravilniku o dodjeli državne potpore u sektoru ribarstva i akvakulture (»Narodne novine« broj 36/15).
