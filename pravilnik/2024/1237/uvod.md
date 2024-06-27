@@ -1,0 +1,1 @@
+Na temelju odredbi članka 45. stavka 5. i članka 46. stavka 3. Zakona o obveznim osiguranjima u prometu (»Narodne novine« broj 151/05, 36/09, 75/09, 76/13, 152/14 i 155/23) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 12. lipnja 2024. godine donosi
