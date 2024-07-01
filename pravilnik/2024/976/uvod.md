@@ -1,0 +1,1 @@
+Na temelju odredbe članka 580.a stavka 7. Zakona o obveznim odnosima (»Narodne novine«, broj 35/05., 41/08., 125/11., 78/15., 29/18., 126/21., 114/22., 156/22. i 155/23.) ministar pravosuđa i uprave donosi
