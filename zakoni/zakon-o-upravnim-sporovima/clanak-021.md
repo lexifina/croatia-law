@@ -1,0 +1,8 @@
+## Poduzimanje radnji u upravnom sporu
+# Članak 21.
+(1) Tužitelj i zainteresirana osoba mogu poduzimati radnje u sporu ako su potpuno poslovno sposobni odnosno u granicama svoje poslovne sposobnosti.
+(2) Za tužitelja ili zainteresiranu osobu radnje u sporu može poduzimati osoba ovlaštena za zastupanje, zajednički predstavnik i zajednički opunomoćenik skupine osoba. Osoba ovlaštena za zastupanje dužna je pri prvoj radnji u sporu podnijeti dokaz o ovlasti za zastupanje stranke.
+(3) Za tuženika radnje u sporu može poduzimati službena osoba javnopravnog tijela koja je donijela ili propustila donijeti odluku, postupila ili propustila postupiti odnosno službena osoba javnopravnog tijela čija je odluka potvrđena osporavanom odlukom te druga osoba određena propisima o unutarnjem ustrojstvu javnopravnog tijela. Za poduzimanje radnji u sporu čelnik javnopravnog tijela može ovlastiti drugu službenu osobu tog tijela. Tijela državne uprave i druga državna tijela po punomoći čelnika može zastupati državno odvjetništvo.
+(4) Kada je Vlada Republike Hrvatske tuženik u upravnom sporu, za poduzimanje radnji u sporu može ovlastiti službenu osobu pojedinog ministarstva ili drugog tijela državne uprave iz čijeg je djelokruga predmet upravnog spora, u skladu sa stavkom 3. ovoga članka.
+(5) Radnja u sporu koju poduzima osoba ovlaštena za zastupanje ima isti pravni učinak kao da je poduzima i sama stranka.
+(6) Sud može, kada smatra korisnim za razrješenje spora, pozvati tužitelja ili zainteresiranu osobu koje zastupa osoba ovlaštena za zastupanje da se osobno odazovu i izjasne o određenim činjenicama.

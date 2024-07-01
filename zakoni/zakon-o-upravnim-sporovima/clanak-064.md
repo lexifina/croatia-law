@@ -1,0 +1,4 @@
+## Pravo uskrate odgovora na pojedina pitanja
+# Članak 64.
+(1) Svjedok može uskratiti odgovor na pojedina pitanja ako za to postoje važni razlozi, a osobito ako bi svojim odgovorom na ta pitanja izložio teškoj sramoti, znatnoj imovinskoj šteti ili kaznenom gonjenju sebe ili svoje srodnike po krvi u pravoj liniji do bilo kojeg stupnja, a u pobočnoj liniji do trećeg stupnja zaključno, svoga bračnog druga, izvanbračnog druga, životnog partnera, neformalnog životnog partnera ili srodnike po tazbini do drugog stupnja zaključno i onda kad je brak, izvanbračna zajednica ili životno partnerstvo prestalo te svog skrbnika ili štićenika, posvojitelja ili posvojenika.
+(2) Sudac kojemu je predmet dodijeljen u rad ili predsjednik vijeća upozorit će svjedoka da može uskratiti davanje odgovora na postavljeno pitanje.

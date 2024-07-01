@@ -1,0 +1,4 @@
+## Postupak po zahtjevu za izvršenje presude kad je nova odluka donesena protivno izreci presude, pravnom shvaćanju ili primjedbama suda
+# Članak 155.
+(1) Ako tuženik odnosno tijelo nadležno za izvršenje u izvršenju presude donese novu odluku koja je protivna izreci presude, pravnom shvaćanju ili primjedbama suda, sud će nakon primitka odgovora na zahtjev za izvršenje ili isteka roka za dostavu odgovora na zahtjev za izvršenje, presudom bez održavanja rasprave poništiti odluku koja je donesena protivno izreci presude, pravnom shvaćanju ili primjedbama suda i naložiti tuženiku odnosno tijelu nadležnom za izvršenje da u određenom roku izvrši presudu.
+(2) U izreci presude iz ovoga članka sud će čelniku nadležnog javnopravnog tijela izreći novčanu kaznu sukladno odredbama članka 154. ovoga Zakona.

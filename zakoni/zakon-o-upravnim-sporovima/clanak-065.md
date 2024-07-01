@@ -1,0 +1,3 @@
+## Iznimka od prava uskrate odgovora na pojedina pitanja
+# Članak 65.
+Svjedok ne može zbog opasnosti od kakve imovinske štete uskratiti svjedočenje o pravnim poslovima tijekom kojih je bio nazočan kao pozvani svjedok, o radnjama što ih je u pogledu spornog odnosa poduzeo kao pravni prethodnik ili zastupnik jedne od stranaka, o činjenicama koje se tiču imovinskih odnosa uvjetovanih obiteljskom, bračnom vezom, izvanbračnom vezom, životnim partnerstvom, neformalnim životnim partnerstvom o činjenicama koje se tiču rođenja, sklapanja braka ili smrti te kad je na temelju posebnih propisa dužan podnijeti prijavu ili dati izjavu.

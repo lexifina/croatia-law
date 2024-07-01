@@ -1,0 +1,5 @@
+## Zakonski zastupnik tužitelja i zainteresirane osobe
+# Članak 23.
+(1) Zakonski zastupnik može u ime tužitelja ili zainteresirane osobe poduzimati sve radnje u sporu, ali ako je za podnošenje ili povlačenje tužbe, za priznanje tužbenog zahtjeva, za zaključenje nagodbe ili za poduzimanje drugih radnji u postupku u posebnim propisima određeno da zastupnik mora imati posebno ovlaštenje, on može te radnje poduzimati samo ako ima takvo ovlaštenje.
+(2) Osoba koja se pojavljuje kao zakonski zastupnik dužna je na zahtjev suda dokazati da je zakonski zastupnik. Kad je za poduzimanje određenih radnji u sporu potrebno posebno ovlaštenje, zakonski zastupnik dužan je dokazati da ima takvo ovlaštenje.
+(3) Kad sud utvrdi da zakonski zastupnik ne ulaže dovoljno pozornosti u zastupanju, obavijestit će o tome tijelo koje ga je odredilo odnosno koje obavlja nadzor nad radom zakonskog zastupnika. Ako bi zbog propuštanja zastupnika mogla nastati šteta za tužitelja ili zainteresiranu osobu, sud će zastati sa sporom i predložiti određivanje drugog zakonskog zastupnika.
