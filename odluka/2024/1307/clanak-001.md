@@ -1,0 +1,2 @@
+# Članak 1.
+Na području pružanja vodnih usluga Vodovod Labin d.o.o. (dalje u tekstu: javni isporučitelj vodnih usluga) koje čine područja sljedećih jedinica lokalne samouprave: Grad Labin, Općina Kršan, Općina Raša, Općina Sveta Nedelja, Općina Pićan, i dijelom na području Općine Gračišće i Općine Cerovlje koje je pod upravljanjem Vodovoda Labin d.o.o. plaća se naknada za razvoj sustava javne vodoopskrbe.
