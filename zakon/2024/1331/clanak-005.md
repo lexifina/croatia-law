@@ -1,0 +1,4 @@
+# Članak 5.
+Danom stupanja na snagu ovoga Zakona Ured za socijalno partnerstvo preuzima poslove iz djelokruga Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike, Službe za socijalno partnerstvo, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, financijska sredstva, prava i obveze te državne službenike zatečene na obavljanju preuzetih poslova.
+Službenici zatečeni u državnoj službi u Ministarstvu rada, mirovinskoga sustava, obitelji i socijalne politike, Službi za socijalno partnerstvo nastavljaju s radom do stupanja na snagu Uredbe iz članka 21.c koji je dodan člankom 3. ovoga Zakona.
+Do donošenja rješenja o rasporedu državnih službenika iz stavka 1. ovoga članka državni službenici nastavljaju obavljati poslove sukladno dotadašnjim rješenjima i zadržavaju sva prava iz radnog odnosa sukladno tim rješenjima.
