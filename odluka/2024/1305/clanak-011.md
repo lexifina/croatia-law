@@ -1,0 +1,19 @@
+# Članak 11.
+Iza točke 264. Upute dodaje se poglavlje III.3., koje glasi:
+»III.3. Informatička rješenja za dostavu izvještaja kreditnih institucija u skladu s propisima Europske unije (XBRL)
+264.a Ovim poglavljem Upute uređuju se tehnički zahtjevi za dostavljanje izvještaja o planovima financiranja, izvještaja o financijskim informacijama, izvještaja iz članka 10. ove Odluke i izvještaja u skladu sa smjernicama ili odlukama Europskoga nadzornog tijela za bankarstvo.
+264.b Pri izradi izvještaja, formiranju datoteke s izvještajima i dostavi datoteke Hrvatskoj narodnoj banci potrebno je poštovati sve tehničke zahtjeve iz ovog poglavlja.
+264.c Pri izradi izvještaja i dostavi datoteke Hrvatskoj narodnoj banci primjenjuje se verzija taksonomije koja vrijedi na referentni datum, a izvještaji se dostavljaju u formatu XBRL-CSV. Takav se pristup primjenjuje i u slučaju ponovnih dostavljanja datoteka za prošle referentne datume.
+264.d Podaci se dostavljaju u obliku komprimiranih (ZIP) datoteka, od kojih svaka sadržava točno jedan modul XBRL-CSV za određeni izvještajni datum, u formatu usklađenom s tehničkom definicijom Europskoga nadzornog tijela za bankarstvo iz dokumenta »EBA Filing Rules« koji to tijelo objavljuje na svojim internetskim stranicama.
+264.e Primjeri XBRL izvještaja koje Europsko nadzorno tijelo za bankarstvo objavljuje na svojim internetskim stranicama služe kao prikaz tehničke logike, a ne ispravnih podataka koji vrijede za određeni izvještajni obuhvat ili tehničku definiciju.
+264.f Naziv ZIP datoteke odgovara nazivu koji propisuje Europsko nadzorno tijelo za bankarstvo. Ako banka šalje revidirani izvještaj, potrebno je nazivu ZIP datoteke dodati prefiks »R_« u skladu s primjerom:
+R_DUMMY123456789012345.IND_HR_COREP030100_COREPOF_2023-06-30_20231027110302499.zip
+264.g U ZIP datoteci s prefiksom »R_« kreditne institucije dostavljaju sve izvještaje iz modula, što obuhvaća i revidirane izvještaje u skladu s Odlukom o odbijanju godišnjih financijskih izvještaja kreditnih institucija i sadržaju revizije za potrebe Hrvatske narodne banke i preostale izvještaje koji se dostavljaju sa stanjem na dan 31. prosinca, ali nisu predmet revizije. Razlog uključivanja nerevidiranih izvještaja u skup revidiranih izvještaja jest usklađivanje podataka zbog zadovoljavanja pravila za validaciju međusobno povezanih izvještaja.
+264.h Kao identifikator kreditne institucije koja dostavlja izvještaje upotrebljava se LEI (engl. Legal Entity Identifier).
+264.i Ako kreditnoj instituciji koja dostavlja izvještaje nije dodijeljen LEI, vrijede sljedeća pravila:
+- na mjesto identifikatora LEI u nazivu datoteke institucija stavlja identifikator koji se tvori na način da se ispred OIB-a (11 znamenaka) doda prefiks »OIB000000« («OIB« i šest nula); takav identifikator ima ukupno 20 znakova
+- kao identifikator unutar izvještaja rabi se identifikator iz prethodne točke.
+264.j Usklađenost izvještaja s validacijskim pravilima potrebno je provjeriti prije dostavljanja datoteke Hrvatskoj narodnoj banci.
+264.k Hrvatska narodna banka elektroničkim će putem dostaviti kreditnoj instituciji rezultat validacije izvještaja.
+264.l Za izvještaje kreditnih institucija koje je Hrvatska narodna banka proslijedila Europskoj središnjoj banci, Hrvatska narodna banka proslijedit će kreditnoj instituciji rezultate provjere tih izvještaja od Europske središnje banke.
+264.m U slučaju izvještaja koji se ne iskazuju u originalnoj valuti, nego u izvještajnoj valuti (eurima), svi monetarni iznosi izraženi u stranim valutama preračunavaju se u domaću valutu primjenom srednjeg tečaja Hrvatske narodne banke koji vrijedi na izvještajni datum. Iznosi izraženi u stranim valutama koje nisu iskazane na tečajnici Hrvatske narodne banke preračunavaju se u američke dolare primjenom srednjih tečajeva referentnih tržišta te ih se potom preračunava u domaću valutu primjenom srednjeg tečaja Hrvatske narodne banke koji vrijedi na izvještajni datum.«
