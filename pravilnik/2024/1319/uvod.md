@@ -1,0 +1,1 @@
+Na temelju članka 93.a stavka 2. Pomorskog zakonika (»Narodne novine«, broj 181/04, 76/07, 146/08, 61/11, 56/13, 26/15 i 17/19) i članka 65. stavka 4. i 66. stavka 5. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, broj 144/21) ministar mora, prometa i infrastrukture donosi
