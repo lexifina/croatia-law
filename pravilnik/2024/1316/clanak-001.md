@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima i načinu ostvarivanja prava studenata u redovitom statusu na subvencionirano stanovanje (»Narodne novine«, broj 68/23) u članku 6. stavku 5. na kraju rečenice umjesto točke stavlja se zarez i dodaju se riječi: »osim studenata koji su stekli kvalifikaciju na prijediplomskoj razini, a u akademskoj godini za koju se raspisuje natječaj bit će upisani u 4., 5. ili 6. godinu integriranog prijediplomskog i diplomskog studija«.
