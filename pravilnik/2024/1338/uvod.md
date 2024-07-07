@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 9. i članka 24. stavka 8. Zakona o provedbi ovrhe na novčanim sredstvima (»Narodne novine«, br. 68/18., 2/20., 46/20., 47/20., 83/20. i 133/20.) i Odluke Ustavnog suda U-II-3895/2023 od 23. travnja 2024. godine (»Narodne novine«, br. 54/24), ministar financija donosi
