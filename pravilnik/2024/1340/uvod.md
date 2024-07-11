@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19 i 155/23) i članka 48. stavka 3. Zakona o plaćama u državnoj službi i javnim službama (»Narodne novine«, broj 155/23), ministar znanosti, obrazovanja i mladih donosi

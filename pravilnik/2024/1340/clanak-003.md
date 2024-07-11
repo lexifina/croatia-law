@@ -1,0 +1,3 @@
+## Namjenski prihodi javnoga visokog učilišta odnosno javnoga znanstvenog instituta
+# Članak 3.
+Namjenske prihode javnoga visokog učilišta odnosno javnoga znanstvenog instituta čine prihodi koji proizlaze iz obavljanja osnovne djelatnosti te s njome povezanih djelatnosti i to školarine studenata i druge naknade polaznika obrazovnih programa, sredstva Hrvatske zaklade za znanost, sveučilišnih i ostalih zaklada, sredstva europskih strukturnih i investicijskih fondova te drugih fondova i programa Europske unije, prihodi ostvareni od znanstvenih, umjetničkih i stručnih projekata te prihodi od fondova, namjenskih donacija i drugih odgovarajućih izvora financiranja obrazovne, znanstvene i umjetničke djelatnosti.
