@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 2. Zakona o proračunu (»Narodne novine«, broj 144/21) i članka 97. stavka 5. Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, broj 119/22), ministar znanosti, obrazovanja i mladih, uz prethodnu suglasnost ministra financija, donosi
