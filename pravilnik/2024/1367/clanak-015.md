@@ -1,0 +1,3 @@
+## Stavljanje izvan snage
+# Članak 15.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Pravilnik o tržišnim standardima za jaja (»Narodne novine«, br. 90/21).
