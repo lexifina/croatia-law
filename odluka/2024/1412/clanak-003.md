@@ -1,0 +1,2 @@
+# Članak 3.
+Na licu zlatne numizmatičke kovanice i srebrnih numizmatičkih kovanica prikaz je osnovnog motiva dijela otoka Suska predstavljenog vizurom iz mjesta Susak prema jugoistoku, odnosno prema rtu Darto s kapelicom. Unutar navedene perspektive otoka vidljivi su vinova loza na pijesku, more i dio otoka s kapelicom. Iznad osnovnog motiva ispisan je tekst »OTOK SUSAK« i godina izdanja kovanice »2024.«.
