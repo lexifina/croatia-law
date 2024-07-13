@@ -1,0 +1,1 @@
+Na temelju članka 28.a Zakona o porezu na dobit (»Narodne novine«, br. 177/04, 90/05, 57/06, 146/08, 80/10, 22/12, 148/13, 143/14, 50/16, 115/16, 106/18, 121/19, 32/20, 138/20, 114/22 i 114/23) i članka 43. Zakona o porezu na dohodak (»Narodne novine« br. 15/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) ministar financija donosi
