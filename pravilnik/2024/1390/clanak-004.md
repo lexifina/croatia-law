@@ -1,0 +1,2 @@
+# Članak 4.
+Postupci ostvarivanja prava iz članka 28. stavka 2. Zakona, započeti prije stupanja na snagu ovoga Pravilnika, dovršit će se prema odredbama Pravilnika o uvjetima i postupku za stjecanje prava zaposlenog ili samozaposlenog roditelja djeteta s težim smetnjama u razvoju na dopust ili na rad u skraćenom radnom vremenu radi njege djeteta (»Narodne novine« broj: 18/2009. i 25/2009. - ispravak).

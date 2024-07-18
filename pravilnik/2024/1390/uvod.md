@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 9. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, broj 152/2022.) čelnik tijela državne uprave nadležnog za demografiju, uz prethodnu suglasnost ministra nadležnog za financije i uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zdravstveno osiguranje, donosi
