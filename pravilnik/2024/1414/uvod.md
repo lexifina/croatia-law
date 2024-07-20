@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 2. točke 2., članka 16. stavka 1. točke 1. i članka 117. stavka 6. Zakona o elektroničkim komunikacijama (»Narodne novine« br. 76/22 i 14/24), Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
