@@ -1,0 +1,1 @@
+Na temelju članka 5.a stavka 13. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15, 70/19, 47/20, 123/23) ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
