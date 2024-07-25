@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 1. Zakona o računovodstvu (»Narodne novine«, br. 78/15., 120/16., 116/18., 42/20., 47/20., 114/22. i 82/23.), a u vezi s člankom 20. stavkom 2. Zakona o izmjenama i dopunama Zakona o računovodstvu (»Narodne novine«, broj 82/23.) Odbor za standarde financijskog izvještavanja na sjednici održanoj 27. svibnja 2024. godine, donio je
