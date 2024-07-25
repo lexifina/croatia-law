@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 9. Zakona o predškolskom odgoju i obrazovanju (»Narodne novine«, broj 10/1997., 107/2007., 94/2013., 98/2019., 57/2022. i 101/2023.), ministar znanosti, obrazovanja i mladih donosi

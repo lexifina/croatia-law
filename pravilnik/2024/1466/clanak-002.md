@@ -1,0 +1,8 @@
+# Članak 2.
+(1) Stažirati i polagati stručni ispit imaju pravo i obvezu odgojitelji i stručni suradnici zaposleni u dječjim vrtićima ili drugim ustanovama koje sukladno propisima izvode programe ranoga i predškolskoga odgoja i obrazovanja i to bez obzira na to imaju li zasnovan radni odnos na neodređeno ili određeno vrijeme u punome ili nepunome radnom vremenu kao i odgojitelj i stručni suradnik bez radnog iskustva na stručnom osposobljavanju za rad bez zasnivanja radnoga odnosa.
+(2) Osoba koja je položila stručni ispit u sustavu odgoja i obrazovanja i/ili izvan sustava dužna je položiti razlikovni dio stručnoga ispita pri čemu nema status pripravnika.
+(3) Osoba iz stavka 2. ovoga članka dužna je uz prijavnicu za stručni ispit priložiti i ostalu propisanu dokumentaciju i dokaz o položenome stručnom ispitu u sustavu odgoja i obrazovanja ili izvan njega.
+(4) Odluku o razlikovnome dijelu stručnoga ispita donosi nadležno ispitno povjerenstvo Agencije za odgoj i obrazovanje (u daljnjem tekstu: Agencija) iz članka 11. ovoga Pravilnika.
+(5) Nepristupanje stručnome ispitu zbog opravdanih razloga (u slučaju bolesti, smrtnoga slučaja u obitelji i sl.) ne smatra se padom, već se pristupnika upućuje na ponovnu prijavu stručnoga ispita o čemu je pristupnik dužan dostaviti pisani zahtjev i dokaz dječjem vrtiću koji o tomu izvještava Agenciju.
+(6) Odgojitelji i stručni suradnici pripadnici nacionalne manjine i zaposleni u predškolskim ustanovama na jeziku i pismu nacionalne manjine, polažu stručni ispit na materinskom jeziku, odnosno na jeziku i pismu predmetne nacionalne manjine.
+Potvrda o stručnom ispitu položenom na jeziku i pismu nacionalne manjine istovjetna je potvrdi o položenom ispitu na hrvatskom jeziku.
