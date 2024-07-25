@@ -1,0 +1,1 @@
+Na temelju članka 8.a stavka 23. Zakona o poljoprivredi (»Narodne novine«, broj 118/2018, 42/2020, 127/2020 - Odluka Ustavnog suda Republike Hrvatske, 52/2021 i 152/2022) ministar poljoprivrede, šumarstva i ribarstva donosi
