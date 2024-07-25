@@ -1,0 +1,4 @@
+# Članak 4.
+(1) Pravna osoba mora prije početka izrade rudarskog projekta imenovati odgovornog projektanta, i prema potrebi projektante i suradnike.
+(2) Pri izradi rudarskih projekata odgovorni projektant, projektant i suradnik dužni su primjenjivati odredbe Zakona o rudarstvu, kao i odredbe drugih zakona i propisa za njihovo provođenje, a u svezi racionalnog iskorištavanja mineralnih sirovina, tehničke sanacije, mjera i normativa zaštite na radu, sigurnosti pogona i ljudi, podzemnih, površinskih i susjednih objekata, te mjera zaštite okoliša i prirode.
+(3) Odgovorni projektant je odgovoran za cjelovitost i međusobnu usklađenost dijelova rudarskog projekta s projektnim zadatkom, važećim zakonskim i podzakonskim propisima, normama, pravilima struke i lokacijskom dozvolom ili aktom iz članka 6. stavka 2. ovoga Pravilnika, te uvjetima i ograničenjima za provedbu tehničke sanacije pribavljenim sukladno odredbama članka 104. Zakona o rudarstvu.
