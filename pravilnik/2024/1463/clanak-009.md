@@ -1,0 +1,7 @@
+# Članak 9.
+(1) U slučaju iz članka 4. ovoga Pravilnika ako je investitor dostavio ponudu za otkup mineralne sirovine, nadležno tijelo može mineralnu sirovinu iz viška iskopa prodati investitoru neposrednom pogodbom.
+(2) U slučaju iz stavka 1. ovoga članka minimalna prodajna cijena mineralne sirovine ne smije biti manja od tržišne vrijednosti mineralne sirovine određene sukladno odredbama Zakona.
+(3) Iznimno od stavka 2. ovoga članka minimalna prodajna cijena mineralne sirovine može biti manja od tržišne vrijednosti mineralne sirovine uz prethodnu suglasnost Povjerenstva za utvrđivanje rezervi mineralnih sirovina osnovano sukladno odredbama članka 55. Zakona.
+(4) Kada nadležno tijelo u slučaju iz članka 8. ne odredi svojom odlukom raspolaganje mineralnom sirovinom iz viška iskopa bez provođenja postupka javnog nadmetanja ili investitor nije iskazao interes za otkup viška iskopa sukladno odredbama članka 4. ovoga Pravilnika, nadležno tijelo dužno je provest postupak javnog nadmetanja za prodaju mineralne sirovine iz viška iskopa.
+(5) Postupak javnog nadmetanje za prodaju mineralne sirovine iz viška iskopa mora se oglasit u Elektroničkom oglasniku javne nabave Republike Hrvatske i na mrežnim stranicama nadležnog tijela.
+(6) U slučaju provođenja javnog nadmetanja iz stavka 4. ovoga članka minimalna prodajna cijena mineralne sirovine ne smije biti manja od tržišne vrijednosti mineralne sirovine određene sukladno odredbama Zakona.

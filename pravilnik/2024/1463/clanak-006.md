@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Do određivanja lokacije za odlaganja viška iskopa koji sadrži mineralnu sirovinu iz članka 5. stavka 1. ovoga Pravilnika, jedinica lokalne samouprave dužne su u roku od 30 dana od dana zaprimanja obavijesti iz članka 3. ovog Pravilnika odrediti lokaciju za odlaganje viška iskopa koji sadrži mineralnu sirovinu, te o istome izvijesti nadležno tijelo i investitora.
+(2) U slučaju kada jedinice lokalne samouprave ne postupe sukladno odredbama stavka 1. ovoga članka, jedinice područne (regionalne) samouprave odredit će lokaciju za odlaganje viška iskopa koji sadrži mineralnu sirovinu u roku od 30 dana.
