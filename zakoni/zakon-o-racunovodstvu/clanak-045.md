@@ -1,0 +1,4 @@
+## Odgovornost
+# Članak 45.
+(1) Članovi izvršnih, upravljačkih i nadzornih tijela, krajnjeg matičnog društva ili samostalnog poduzetnika iz članka 41. stavaka 1. i 3. ovoga Zakona solidarno su odgovorni, u okviru nadležnosti koju imaju na temelju ovoga Zakona ili drugih propisa, za sastavljanje, objavljivanje i javnu dostupnost izvještaja o informacijama o porezu na dobit u skladu s člancima 41. do 44. ovoga Zakona.
+(2) Članovi izvršnih, upravljačkih i nadzornih tijela društva kćeri iz članka 41. stavka 7. ovoga Zakona i osoba ovlaštena da u poslovanju podružnice iz članka 41. stavka 11. ovoga Zakona zastupa osnivača solidarno su odgovorni da je, prema njihovim saznanjima i sposobnostima, izvještaj o informacijama o porezu na dobit sastavljen u skladu s člancima 41., 42. i 43. ovoga Zakona, odnosno da je usklađen, kako je to relevantno, s člancima 41., 42. i 43. ovoga Zakona te da je objavljen i javno dostupan u skladu s člankom 44. ovoga Zakona.

@@ -1,0 +1,13 @@
+## Poduzetnik
+# Članak 4.
+(1) Odredbe ovoga Zakona dužan je primjenjivati poduzetnik.
+(2) Poduzetnik u smislu ovoga Zakona je:
+1. trgovačko društvo kako je uređeno zakonom kojim se uređuju trgovačka društva
+2. podružnica poduzetnika sa sjedištem u drugoj državi članici ili trećoj zemlji, u Republici Hrvatskoj, kako je uređeno zakonom kojim se uređuju trgovačka društva
+3. poslovna jedinica poduzetnika iz točke 1. ovoga stavka sa sjedištem u drugoj državi članici ili trećoj zemlji ako prema propisima te države članice ili treće zemlje ne postoji obveza vođenja poslovnih knjiga i sastavljanja godišnjih financijskih izvještaja te poslovna jedinica poduzetnika iz države članice ili treće zemlje koji su obveznici poreza na dobit kako je uređeno propisima kojima se uređuju porezi, osim odredbi kojima se uređuje konsolidacija godišnjih financijskih izvještaja (članak 19. ovoga Zakona), zakonska revizija godišnjih financijskih izvještaja (članak 20. ovoga Zakona), godišnji izvještaj (članak 21. ovoga Zakona), izvještavanje o održivosti (poglavlje VIII. ovoga Zakona), javna objava (članak 47. ovoga Zakona)
+4. kreditna unija kako je uređena zakonom kojim se uređuju kreditne unije
+5. Financijska agencija
+6. Hrvatska banka za obnovu i razvitak.
+(3) Odredbe ovoga Zakona, osim poduzetnika iz stavka 2. ovoga članka, dužna je primjenjivati svaka pravna i fizička osoba, neovisno o stavcima 4. i 5. ovoga članka, koja je obveznik poreza na dobit za svoju cjelokupnu djelatnost kako je uređeno propisima kojima se uređuju porezi, osim odredbi kojima se uređuje konsolidacija godišnjih financijskih izvještaja (članak 19. ovoga Zakona), zakonska revizija godišnjih financijskih izvještaja (članak 20. ovoga Zakona), godišnji izvještaj (članak 21. ovoga Zakona), izvještavanje o održivosti (poglavlje VIII. ovoga Zakona), javna objava (članak 47. ovoga Zakona).
+(4) Odredbe ovoga Zakona ne primjenjuju se na državni proračun, na jedinicu lokalne i područne (regionalne) samouprave, proračunskog i izvanproračunskog korisnika upisanog u Registar proračunskih i izvanproračunskih korisnika, a koji financijsko poslovanje i računovodstvo vodi u skladu s propisom o proračunu.
+(5) Odredbe ovoga Zakona ne odnose se na domaću i stranu udrugu i njezine saveze, zakladu, ustanovu, umjetničku organizaciju, komoru, sindikat, udrugu poslodavaca te sve druge pravne osobe kojima temeljna svrha osnivanja i djelovanja nije stjecanje dobiti, za koje iz posebnih propisa proizlazi da su neprofitnog karaktera i koje financijsko poslovanje i računovodstvo vode u skladu s propisom kojim se uređuje financijsko poslovanje i računovodstvo neprofitnih organizacija.

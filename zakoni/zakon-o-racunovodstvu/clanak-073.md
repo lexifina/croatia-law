@@ -1,0 +1,3 @@
+## Izvještavanje o održivosti u vezi s lancem vrijednosti
+# Članak 73.
+Tijekom prve tri godine primjene zahtjeva za izvještavanjem o održivosti iz članka 29. ili 32. ovoga Zakona, računajući od početka izvještavanja propisanog člankom 70. ovoga Zakona, ako nisu dostupne sve potrebne informacije iz članka 29. stavka 7. ili članka 32. stavka 6. ovoga Zakona, poduzetnik odnosno matično društvo opisuje napore koje je uložio u pribavljanje potrebnih informacija o svojem lancu vrijednosti, razloge zbog kojih nije bilo moguće pribaviti sve potrebne informacije te planove za pribavljanje svih potrebnih informacija u budućnosti.

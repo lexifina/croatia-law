@@ -1,0 +1,26 @@
+## Rok za donošenje podzakonskih akata iz ovoga Zakona i nastavak važenja podzakonskih akata
+# Članak 78.
+Do dana stupanja na snagu podzakonskih akata iz članka 77. stavka 3. ovoga Zakona na snazi ostaju podzakonski akti doneseni na temelju Zakona o računovodstvu (»Narodne novine«, br. 78/15., 134/15., 120/16., 116/18., 42/20., 47/20., 114/22. i 82/23.):
+1. Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja (»Narodne novine«, br. 95/16., 144/20. i 158/23.)
+2. Pravilnik o obliku i sadržaju dodatnih podataka za statističke i druge potrebe (»Narodne novine«, br. 2/17. i 158/23.)
+3. Pravilnik o pretvaranju knjigovodstvenih isprava koje se čuvaju u izvornom pisanom obliku u elektronički zapis (»Narodne novine«, br. 76/19.)
+4. Pravilnik o načinu vođenja Registra godišnjih financijskih izvještaja, te načinu primanja i postupku provjere potpunosti i točnosti godišnjih financijskih izvještaja i godišnjeg izvješća (»Narodne novine«, br. 1/16., 93/17. i 50/20.)
+5. Pravilnik o sadržaju, uvjetima korištenja, opsegu podataka i naknadi troškova za isporuku dokumentacije i podataka iz Registra godišnjih financijskih izvještaja (»Narodne novine«, br. 1/16. i 155/22.)
+6. Pravilnik o načinu rada Odbora za standarde financijskog izvještavanja (»Narodne novine«, br. 1/16.)
+7. Odluka o strukturi i sadržaju godišnjih financijskih izvještaja kreditnih institucija (»Narodne novine«, br. 42/18., 122/20., 119/21. i 108/22.)
+8. Odluka o strukturi i sadržaju godišnjih financijskih izvještaja kreditnih unija (»Narodne novine«, br. 30/17. i 108/22.)
+9. Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja burze (»Narodne novine«, br. 25/19. i 155/22.)
+10. Pravilnik o strukturi, sadržaju, načinu i rokovima dostave godišnjih financijskih izvještaja i revizorskog izvješća, financijskih izvještaja za razdoblja tijekom godine te primjeni kontnog plana za središnji depozitorij vrijednosnih papira (»Narodne novine«, br. 91/19, 48/22. i 155/22.)
+11. Pravilnik o strukturi i sadržaju, načinu i rokovima dostave godišnjih financijskih izvještaja i revizorskog izvješća te primjeni kontnog plana za središnje druge ugovorne strane (»Narodne novine«, br. 77/19. i 155/22.)
+12. Pravilnik o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i drugih izvještaja UCITS fonda (»Narodne novine«, br. 105/17., 98/20., 155/22. i 12/24.)
+13. Pravilnik o strukturi i sadržaju financijskih izvještaja i drugih izvještaja društva za upravljanje UCITS fondovima (»Narodne novine«, br. 105/17. i 155/22.)
+14. Pravilnik o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i drugih izvještaja alternativnog investicijskog fonda (»Narodne novine«, br. 155/22. i 12/24.)
+15. Pravilnik o strukturi i sadržaju godišnjih i polugodišnjih financijskih izvještaja i drugih izvještaja društva za upravljanje alternativnim investicijskim fondovima (»Narodne novine«, br. 150/22.)
+16. Pravilnik o strukturi i sadržaju godišnjih financijskih izvještaja investicijskih društava (»Narodne novine«, br. 150/22.)
+17. Pravilnik o godišnjim, tromjesečnim i drugim izvještajima obveznog mirovinskog fonda (»Narodne novine«, br. 2/20., 98/20., 24/21., 146/22. i 62/24.)
+18. Pravilnik o strukturi i sadržaju financijskih izvještaja i drugih izvještaja mirovinskog društva koje upravlja obveznim mirovinskim fondovima (»Narodne novine«, br. 104/17., 118/21., 146/22. i 52/24.)
+19. Pravilnik o godišnjim, polugodišnjim i drugim izvještajima dobrovoljnog mirovinskog fonda (»Narodne novine«, br. 104/17., 98/20., 146/22. i 62/24.)
+20. Pravilnik o strukturi i sadržaju financijskih izvještaja i drugih izvještaja mirovinskog društva koje upravlja dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 104/17., 146/22. i 52/24.)
+21. Pravilnik o vođenju računovodstva društva za dokup mirovine (»Narodne novine«, br. 155/22.)
+22. Pravilnik o strukturi i sadržaju financijskih i dodatnih izvještaja društva za osiguranje odnosno društva za reosiguranje (»Narodne novine«, br. 20/23.)
+23. Pravilnik o strukturi i sadržaju financijskih i dodatnih izvještaja mirovinskog osiguravajućeg društva (»Narodne novine«, br. 30/23.).

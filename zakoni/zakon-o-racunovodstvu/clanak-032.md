@@ -1,0 +1,30 @@
+## Konsolidirani izvještaj o održivosti
+# Članak 32.
+(1) Matično društvo velike grupe iz članka 6. stavka 5. ovoga Zakona dužno je u svoj konsolidirani izvještaj poslovodstva uključiti konsolidirani izvještaj o održivosti koji sadrži informacije potrebne za razumijevanje utjecaja grupe na pitanja održivosti te informacije potrebne za razumijevanje kako pitanja održivosti utječu na razvoj, poslovni rezultat i položaj grupe.
+(2) Konsolidirani izvještaj o održivosti mora biti jasno istaknut u posebnom odjeljku konsolidiranog izvještaja poslovodstva.
+(3) Konsolidirani izvještaj o održivosti sadrži sljedeće informacije:
+1. kratak opis poslovnog modela i strategije grupe, uključujući:
+a) otpornost poslovnog modela i strategije grupe u odnosu na rizike povezane s pitanjima održivosti
+b) prilike za grupu povezane s pitanjima održivosti
+c) planove grupe, uključujući provedbene mjere i s time povezane financijske i investicijske planove, kojima se osigurava usklađenost poslovnog modela i strategije grupe s prijelazom na održivo gospodarstvo i s ograničenjem globalnog zatopljenja na 1,5 °C u skladu s Pariškim sporazumom o klimatskim promjenama i ciljem postizanja klimatske neutralnosti do 2050. godine kako je propisano u Uredbi (EU) 2021/1119 te, ako je relevantno, izloženost grupe aktivnostima koje su povezane s ugljenom, naftom i plinom
+d) kako poslovni model i strategija grupe uzimaju u obzir interese dionika grupe i utjecaje grupe na pitanja održivosti
+e) kako je strategija grupe provedena s obzirom na pitanja održivosti
+2. opis ciljeva s rokovima koji su povezani s pitanjima održivosti koje je grupa utvrdila, uključujući, ako je primjereno, apsolutne ciljeve smanjenja emisija stakleničkih plinova najmanje za 2030. i 2050. godinu, opis postignutog napretka u postizanju tih ciljeva te izjavu o tome temelje li se ciljevi grupe povezani s okolišnim čimbenicima na nepobitnim znanstvenim dokazima
+3. opis uloge izvršnih, upravljačkih i nadzornih tijela s obzirom na pitanja održivosti, kao i njihove stručnosti i vještina u ispunjavanju te uloge ili pristupa koji ta tijela imaju takvom stručnom znanju i vještinama
+4. opis politika grupe u odnosu na pitanja održivosti
+5. informacije o postojanju programa poticaja povezanih s pitanjima održivosti koji se nude članovima izvršnih, upravljačkih i nadzornih tijela
+6. opis:
+a) procesa dubinske analize koji provodi grupa u pogledu pitanja održivosti te, ako je primjenjivo, koji je u skladu sa zahtjevima Europske unije o provođenju procesa dubinske analize i propisima Republike Hrvatske
+b) glavnih stvarnih ili potencijalnih štetnih utjecaja povezanih s vlastitim poslovanjem grupe i njezinim lancem vrijednosti, uključujući njezine proizvode i usluge, poslovne odnose i lanac opskrbe, mjera poduzetih za utvrđivanje i praćenje tih utjecaja te drugih štetnih utjecaja koje matično društvo mora utvrditi na temelju drugih zahtjeva propisanih pravom Europske unije i Republike Hrvatske prema kojima se treba izvršiti proces dužne pažnje
+c) svih mjera koje je grupa poduzela kako bi spriječila, ublažila, otklonila ili okončala stvarne ili potencijalne štetne utjecaje te rezultata tih mjera
+7. opis glavnih rizika za grupu povezanih s pitanjima održivosti, uključujući opis glavnih ovisnosti grupe o tim pitanjima održivosti te kako grupa upravljanja tim rizicima
+8. pokazatelje relevantne za objave iz točaka 1. do 7. ovoga stavka.
+(4) Matično društvo iz stavka 1. ovoga članka u konsolidiranom izvještaju o održivosti izvještava o procesu koje je provelo radi utvrđivanja informacija iz stavka 3. ovoga članka, koje je uključilo u konsolidirani izvještaj poslovodstva u skladu sa stavkom 2. ovoga članka.
+(5) Informacije iz stavka 3. točke 1. ovoga članka uključuju, ovisno o slučaju, informacije koje se odnose na kratkoročna, srednjoročna i dugoročna razdoblja.
+(6) Informacije iz stavaka 1., 3., 4. i 5. ovoga članka sadrže informacije o vlastitom poslovanju grupe i njezinu lancu vrijednosti, uključujući njezine proizvode i usluge, poslovne odnose i lanac opskrbe.
+(7) Informacije iz stavaka 1., 3., 4. i 5. ovoga članka sadrže upućivanje na druge informacije u konsolidiranom izvještaju poslovodstva u skladu s člankom 22. ovoga Zakona i dodatna objašnjenja tih informacija, kao i upućivanje na iznose iskazane u godišnjim konsolidiranom financijskim izvještajima i dodatna objašnjenja tih iznosa.
+(8) Matično društvo iz stavka 1. ovoga članka može izostaviti informacije o predstojećim događajima ili pitanjima o kojim se pregovara kad bi, u skladu s obrazloženim mišljenjem članova izvršnih, upravljačkih i nadzornih tijela koji djeluju u okviru nadležnosti koje su im dodijeljene zakonom kojim se uređuju trgovačka društva i koji snose solidarnu odgovornost za to mišljenje, objavljivanje takvih informacija moglo nanijeti ozbiljnu štetu poslovnom položaju grupe, pod uvjetom da takvo izostavljanje ne sprečava fer i objektivno razumijevanje razvoja, poslovnih rezultata i položaja grupe te utjecaja njezinih poslovnih aktivnosti.
+(9) Ako matično društvo iz stavka 1. ovoga članka utvrdi znatne razlike između rizika za grupu ili njegovih utjecaja te rizika za jedno ili više njegovih društva kćeri ili njihovih utjecaja, u konsolidiranom izvještaju o održivosti pruža adekvatno obrazloženje, ovisno o slučaju, za te rizike i njihove utjecaje.
+(10) Matično društvo iz stavka 1. ovoga članka u konsolidiranom izvještaju o održivosti navodi koja su društva kćeri, a koja su uključena u konsolidaciju, izuzeta od obveze izvještavanja o održivosti u skladu s člankom 31. stavcima 1. i 2. te člankom 33. stavcima 1. i 2. ovoga Zakona.
+(11) Matično društvo iz stavka 1. ovoga članka izrađuje konsolidirani izvještaj o održivosti primjenom standarda izvještavanja o održivosti iz članka 36. stavka 1. ovoga Zakona.
+(12) Ako je matično društvo iz stavka 1. ovoga članka ispunilo zahtjeve utvrđene u stavcima 1. do 11. ovoga članka, smatra se da je ispunilo zahtjeve utvrđene u članku 24. stavku 3. i člancima 29. i 31. ovoga Zakona.

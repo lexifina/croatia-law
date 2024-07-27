@@ -1,0 +1,4 @@
+## POGLAVLJE I. OPĆE ODREDBE
+## Sadržaj i područje primjene Zakona
+# Članak 1.
+Ovim Zakonom uređuje se računovodstvo poduzetnika, razvrstavanje poduzetnika i grupa poduzetnika, knjigovodstvene isprave i poslovne knjige, popis imovine i obveza, primjena standarda financijskog izvještavanja i tijelo za donošenje standarda financijskog izvještavanja, godišnji financijski izvještaji i konsolidacija godišnjih financijskih izvještaja, revizija godišnjih financijskih izvještaja i godišnjeg izvještaja, sadržaj godišnjeg izvještaja, izvještaj o održivosti, primjena standarda izvještavanja o održivosti i provjera izvještaja o održivosti, izvještaj o plaćanjima javnom sektoru, izvještaj o informacijama o porezu na dobit, javna objava godišnjih financijskih izvještaja i godišnjeg izvještaja, Registar godišnjih financijskih izvještaja, nadzor nad primjenom ovoga Zakona te prekršajne odredbe.
