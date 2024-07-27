@@ -1,0 +1,5 @@
+# Članak 22.
+Članak 27. mijenja se i glasi:
+»(1) Na osnovi reciprociteta Ministarstvo financija izdaje odobrenje za rad za obavljanje zakonske revizije fizičkoj osobi iz treće zemlje kojoj je odobrenje za rad izdalo nadležno tijelo treće zemlje ako je dostavila zahtjev uz dokaz o ispunjavanju uvjeta jednakovrijednih onima utvrđenima u člancima 7., 10. i 11. ovoga Zakona, osim uvjeta iz članka 11. stavaka 6. i 8. ovoga Zakona i ako položi ispit osposobljenosti iz članka 23. ovoga Zakona.
+(2) Na osnovi reciprociteta Ministarstvo financija izdaje odobrenje za rad za obavljanje provjere izvještaja o održivosti fizičkoj osobi iz treće zemlje kojoj je odobrenje za rad izdalo nadležno tijelo treće zemlje ako je dostavila zahtjev uz dokaz o ispunjavanju uvjeta jednakovrijednih onima utvrđenima u člancima 7., 10. i 11. ovoga Zakona i ako položi ispit osposobljenosti iz članka 23. ovoga Zakona.
+(3) Ministar financija detaljnije propisuje pravilnikom sadržaj zahtjeva i dokumentaciju koja se dostavlja uz zahtjev za izdavanje odobrenja za rad iz stavaka 1. i 2. ovoga članka ovlaštenom revizoru iz treće zemlje te iznose naknada.«.

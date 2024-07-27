@@ -1,0 +1,3 @@
+# Članak 37.
+U članku 48. stavak 1. mijenja se i glasi:
+»(1) Revizorsko društvo, ovlašteni revizor, glavni revizijski partner, glavni partner za održivost i svaka osoba koja je u mogućnosti izravnog ili neizravnog utjecaja na rezultat revizorskih usluga moraju tijekom razdoblja koje obuhvaćaju financijski izvještaji i/ili izvještaj o održivosti koji su predmet zakonske revizije odnosno provjere izvještaja o održivosti i za vrijeme obavljanja revizorskih usluga biti neovisni u odnosu na revidirani subjekt ili subjekt provjere izvještaja o održivosti te im nije dopušteno sudjelovati u donošenju odluka revidiranog subjekta.«.

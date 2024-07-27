@@ -1,0 +1,3 @@
+# Članak 53.
+U članku 75. stavku 1. točka 2. mijenja se i glasi:
+»2. provjeru osiguranja kvalitete rada i kvalitete rada ovlaštenih revizora i revizorskih društava, a koja podrazumijeva ocjenu pridržavanja Međunarodnih revizijskih standarda i zahtjeva neovisnosti te, u slučaju provjere izvještaja o održivosti Standarda provjere izvještavanja o održivosti, kvantitete i kvalitete angažiranih sredstava, zaračunanih revizorskih naknada i sustava unutarnjeg upravljanja kvalitetom revizorskog društva, potkrijepljen odgovarajućim testiranjem odabranih revizorskih spisa odnosno spisa o provjeri izvještaja o održivosti.«.

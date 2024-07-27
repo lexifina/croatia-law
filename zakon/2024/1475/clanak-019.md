@@ -1,0 +1,7 @@
+# Članak 19.
+Članak 22. mijenja se i glasi:
+»(1) Ministarstvo financija izdaje odobrenje za rad za obavljanje zakonske revizije fizičkoj osobi iz druge države članice kojoj je odobrenje za rad ovlaštenog revizora izdalo nadležno tijelo njezine matične države članice, pod uvjetom da položi ispit osposobljenosti iz članka 23. ovoga Zakona.
+(2) Ministarstvo financija izdaje odobrenje za rad za obavljanje provjere izvještaja o održivosti fizičkoj osobi iz druge države članice kojoj je odobrenje za provjeru izvještaja o održivosti izdalo nadležno tijelo njezine matične države članice i koja ima odobrenje za rad za obavljanje zakonske revizije Ministarstva financija, pod uvjetom da položi ispit osposobljenosti iz članka 23. ovoga Zakona koji uključuje područje održivosti.
+(3) Ministarstvo financija dužno je na temelju zahtjeva fizičke osobe iz stavaka 1. i 2. ovoga članka pribaviti potvrdu nadležnog tijela iz njezine matične države članice o izdanom odobrenju za rad te drugu potrebnu dokumentaciju.
+(4) Iznimno od stavka 3. ovoga članka, fizička osoba iz stavaka 1. i 2. ovoga članka može Ministarstvu financija sama dostaviti potvrdu nadležnog tijela iz svoje matične države članice o izdanom odobrenju za rad te drugu potrebnu dokumentaciju.
+(5) Ministar financija detaljnije propisuje pravilnikom sadržaj zahtjeva i dokumentaciju koja se dostavlja uz zahtjev za izdavanje odobrenja za rad iz stavaka 1. i 2. ovoga članka ovlaštenom revizoru iz druge države članice te iznose naknada.«.

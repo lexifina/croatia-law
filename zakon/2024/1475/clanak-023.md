@@ -1,0 +1,4 @@
+# Članak 23.
+U članku 29. stavku 1. riječi: »ako izdaje revizorsko izvješće o godišnjim financijskim izvještajima ili godišnjim konsolidiranim financijskim izvještajima izdavatelja« zamjenjuju se riječima: »ako izdaje revizorski izvještaj o godišnjim financijskim izvještajima ili godišnjim konsolidiranim financijskim izvještajima i/ili izvještaj o provjeri izvještaja o održivosti izdavatelja«.
+Stavak 2. mijenja se i glasi:
+»(2) Revizorski izvještaji o godišnjim financijskim izvještajima ili godišnjim konsolidiranim financijskim izvještajima i/ili izvještaji o provjeri izvještaja o održivosti iz stavka 1. ovoga članka koje izdaje revizor u trećoj zemlji odnosno subjekt za obavljanje revizije u trećoj zemlji koji nisu registrirani u Republici Hrvatskoj nemaju u Republici Hrvatskoj pravni učinak.«.
