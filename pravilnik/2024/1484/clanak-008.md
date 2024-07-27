@@ -1,0 +1,4 @@
+# Članak 8.
+(1) Na radno mjesto vatrogasac - vozač može se rasporediti vatrogasac koji, pored ispunjenja uvjeta iz članka 51. stavka 1. Zakona o vatrogastvu, nakon odrađenog pripravničkog staža i koji je stekao zvanje mlađi vatrogasac ili vatrogasac, završio osposobljavanje za rukovanjem uređajima na vatrogasnim vozilima te ima položen vozački ispit za C kategoriju motornih vozila.
+(2) Na radno mjesto stariji vatrogasac - vozač može se rasporediti vatrogasac koji ima zvanje stariji vatrogasac ili stariji vatrogasac I. reda, koji je, pored ispunjenja uvjeta iz članka 51. stavka 1. Zakona o vatrogastvu proveo najmanje 4 godine na radnom mjestu vatrogasac - vozač u zvanju vatrogasac te je osposobljen za rukovanje uređajima koji se nalaze na vatrogasnom vozilu kojim upravlja te ima položen vozački ispit za C kategoriju motornih vozila.
+d2) Rukovodeća radna mjesta niže razine

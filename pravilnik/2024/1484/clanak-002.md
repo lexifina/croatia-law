@@ -1,0 +1,7 @@
+## KLASIFIKACIJA VATROGASNIH POSTROJBI
+# Članak 2.
+(1) Klasifikacija vatrogasnih postrojbi provodi se sukladno broju zaposlenih profesionalnih vatrogasaca u vatrogasnoj postrojbi, složenosti obavljanja vatrogasnih poslova, potrebnoj stručnoj spremi zapovjednika i njegovog zamjenika te potrebnoj vatrogasnoj tehnici za obavljanje vatrogasnih intervencija na sljedeće kategorije:
+- kategorija I. - vatrogasne postrojbe od 140 i više profesionalno zaposlenih vatrogasaca »Vrsta VIII« - »Vrsta XII« koje imaju vatrogasne postaje i/ili ispostave sa zapovjednikom smjene,
+- kategorija II. - vatrogasne postrojbe od 83 do 139 profesionalno zaposlenih vatrogasaca »Vrsta V« - »Vrsta VII« sa ili bez vatrogasne postaje i/ili ispostave imaju zapovjednika smjene ako postoje postaje i ispostave,
+- kategorija III. - vatrogasne postrojbe od 43 do 82 profesionalno zaposlena vatrogasca »Vrsta III« i »Vrsta IV« te profesionalna vatrogasna postrojba u gospodarstvu Ia. i Ib. imaju zapovjednika smjene ako postoje postaje i ispostave,
+- kategorija IV. - vatrogasne postrojbe do uključivo 42 profesionalno zaposlena vatrogasca »Vrsta Ia«, »Vrsta Ib« i »Vrsta II« koji profesionalno obavljaju vatrogasnu djelatnost te profesionalna vatrogasna postrojba u gospodarstvu Ic., Id., Ie., If., Ig. i Ih., sa ili bez vatrogasnih postaja i/ili ispostava imaju zapovjednika smjene ako postoje postaje i ispostave te postrojbe dobrovoljnih vatrogasnih društava koje imaju profesionalne vatrogasce.
