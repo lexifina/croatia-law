@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 7. Zakona o Državnoj komisiji za kontrolu postupaka javne nabave (»Narodne novine«, br. 18/13., 127/13., 74/14., 98/19. i 41/21.), Vlada Republike Hrvatske je na sjednici održanoj 25. srpnja 2024. donijela
