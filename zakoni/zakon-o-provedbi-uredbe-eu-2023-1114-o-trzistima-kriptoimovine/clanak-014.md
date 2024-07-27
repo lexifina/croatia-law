@@ -1,0 +1,10 @@
+## IV. IZDAVANJE ODOBRENJA ZA RAD ZA PRUŽATELJE USLUGA POVEZANIH S KRIPTOIMOVINOM
+## Odlučivanje o zahtjevu za izdavanje odobrenja za rad pružatelju usluga povezanih s kriptoimovinom
+# Članak 14.
+(1) Na temelju zahtjeva dioničkog društva ili društva s ograničenom odgovornošću sa sjedištem u Republici Hrvatskoj podnesenog u skladu s odredbama članka 62. Uredbe (EU) 2023/1114, Agencija o izdavanju odobrenja za rad pružatelju usluga povezanih s kriptoimovinom odlučuje rješenjem u skladu s člankom 63. Uredbe (EU) 2023/1114 ako su ispunjeni svi uvjeti iz glave V. Uredbe (EU) 2023/1114 i ovoga Zakona, ovisno o prirodi, opsegu i složenosti usluga povezanih s kriptoimovinom koju potencijalni pružatelj usluga namjerava pružati.
+(2) Agencija rješenjem odbija zahtjev iz članka 62. Uredbe (EU) 2023/1114 ako postoje okolnosti iz članka 63. stavka 10. Uredbe (EU) 2023/1114.
+(3) O svakom izdanom i odbijenom odobrenju za rad Agencija, u skladu s člankom 63. stavkom 13. Uredbe (EU) 2023/1114, obavještava ESMA-u i dostavlja joj podatke iz članka 109. stavka 5. Uredbe (EU) 2023/1114.
+(4) Odredbe ovoga dijela Zakona ne odnose se na osobe iz članka 59. stavka 1. točke (b) Uredbe (EU) 2023/1114 osim ako je to izrijekom propisano.
+(5) U sudski registar ne može se upisati tvrtka koja upućuje na to da se radi o pružatelju usluga povezanih s kriptoimovinom, ako pravna osoba nema odobrenje Agencije izdano u skladu s odredbama ovoga Zakona.
+(6) Ako je podnositelj zahtjeva iz stavka 1. ovoga članka izdavatelj koji ima odobrenje za rad kao izdavatelj tokena vezanog uz imovinu u smislu odredbi ovoga Zakona, prilikom procjene imatelja kvalificiranih udjela u skladu s člankom 62. stavkom 3. Uredbe (EU) 2023/1114 Agencija će u obzir uzeti procjenu koju je u odnosu na tog imatelja kvalificiranog udjela napravila Hrvatska narodna banka u skladu s člankom 40. ovoga Zakona i člankom 18. stavkom 5. Uredbe (EU) 2023/1114.
+(7) Agencija pravilnikom detaljnije propisuje sadržaj zahtjeva za izdavanje odobrenja za rad iz stavka 1. ovoga članka.

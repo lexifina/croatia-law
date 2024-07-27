@@ -1,0 +1,9 @@
+## Subjekti nadzora nadležnih tijela
+# Članak 7.
+(1) Subjekti nadzora Agencije u smislu ovoga Zakona, a u vezi s ispunjavanjem obveza iz Uredbe (EU) 2023/1114 i ovoga Zakona su:
+1. ponuditelj i osoba koja traži uvrštenje za trgovanje kriptoimovine koja nije token vezan uz imovinu ni token e-novca u smislu glave II. Uredbe (EU) 2023/1114, a za koje je Republika Hrvatska matična država članica, u skladu s odredbama Uredbe (EU) 2023/1114, uključujući i pravne i fizičke osobe za koje postoje osnove sumnje da suprotno odredbama te glave nude kriptoimovinu
+2. pružatelji usluga povezanih s kriptoimovinom iz članka 59. stavka 1. Uredbe (EU) 2023/1114 za koje je Republika Hrvatska matična država članica, u skladu s glavom V. Uredbe (EU) 2023/1114, uključujući i pravne i fizičke osobe za koje postoje osnove sumnje da usluge povezane s kriptoimovinom pružaju suprotno odredbama te glave
+3. pravne i fizičke osobe čiji se postupci odnose na kriptoimovinu koja je uvrštena za trgovanje ili u pogledu koje je podnesen zahtjev za uvrštenje za trgovanje, u skladu s glavom VI. Uredbe (EU) 2023/1114.
+(2) Subjekti nadzora Hrvatske narodne banke u smislu ovoga Zakona, a u vezi s ispunjavanjem obveza iz Uredbe (EU) 2023/1114 i ovoga Zakona su:
+1. ponuditelj i osoba koja traži uvrštenje za trgovanje tokena vezanog za imovinu za koje je Republika Hrvatska matična država članica, u skladu s glavom III. Uredbe (EU) 2023/1114, uključujući i pravne i fizičke osobe koje nude ili traže uvrštenje za trgovanje tokena vezanog uz imovinu suprotno odredbama te glave
+2. kreditna institucija ili institucija za elektronički novac sa sjedištem u Republici Hrvatskoj koja nudi ili traži uvrštenje za trgovanje tokena e-novca u skladu s odredbama glave IV. Uredbe (EU) 2023/1114, uključujući i pravne i fizičke osobe koje nude ili traže uvrštenje za trgovanje tokena e-novca suprotno odredbama te glave.

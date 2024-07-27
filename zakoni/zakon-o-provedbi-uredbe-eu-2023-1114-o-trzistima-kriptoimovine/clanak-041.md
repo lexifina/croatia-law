@@ -1,0 +1,4 @@
+## Poslovne knjige i financijski izvještaji izdavatelja tokena vezanih uz imovinu koji nisu kreditne institucije
+# Članak 41.
+(1) Izdavatelj tokena vezanih uz imovinu koji nije kreditna institucija dužan je prikupljati i sastavljati knjigovodstvene isprave, voditi poslovne knjige, ostalu poslovnu dokumentaciju i evidencije, vrednovati imovinu i obveze i sastavljati i objavljivati godišnje financijske izvještaje, godišnje konsolidirane financijske izvještaje i godišnje izvješće u skladu s ovim Zakonom i propisima kojima se uređuje računovodstvo poduzetnika, standardima financijskog izvještavanja i standardima struke.
+(2) Izdavatelj tokena vezanih uz imovinu koji nije kreditna institucija dužan je sastavljati i prezentirati godišnje financijske izvještaje, godišnje konsolidirane financijske izvještaje i financijske izvještaje iz stavka 1. ovoga članka primjenom Međunarodnih standarda financijskog izvještavanja.

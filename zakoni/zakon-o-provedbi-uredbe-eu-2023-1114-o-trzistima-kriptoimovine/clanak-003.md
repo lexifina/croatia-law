@@ -1,0 +1,5 @@
+## Postupanje po smjernicama
+# Članak 3.
+Smjernice koje europska nadzorna tijela donose u skladu sa svojim ovlastima iz Uredbe (EU) 2023/1114 obvezujuće su za Hrvatsku agenciju za nadzor financijskih usluga (u daljnjem tekstu: Agencija) i subjekte nadzora čije su obveze određene odredbama ovoga Zakona i Uredbe (EU) 2023/1114, ako su ispunjeni sljedeći uvjeti:
+1. da se, sukladno proceduri propisanoj uredbama kojima se osnivaju europska nadzorna tijela, Agencija očitovala da se obvezuje u cijelosti ili djelomično pridržavati odredbi pojedine smjernice ili da se do određenog roka namjerava uskladiti s pojedinom smjernicom
+2. da je Agencija na svojoj internetskoj stranici objavila obavijest o očitovanju iz točke 1. ovoga članka, pri čemu su stupanje na snagu i početak primjene određeni pojedinom smjernicom, osim kada se Agencija očitovala o namjeri usklađenja s pojedinim smjernicama do određenog roka, u kojem slučaju su stupanje na snagu i početak primjene određeni očitovanjem iz točke 1. ovoga članka.

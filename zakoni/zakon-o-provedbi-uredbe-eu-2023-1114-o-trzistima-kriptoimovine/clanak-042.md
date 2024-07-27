@@ -1,0 +1,6 @@
+## Dostava nadzornih i financijskih izvještaja izdavatelja tokena vezanih uz imovinu
+# Članak 42.
+(1) Izdavatelj tokena vezanih uz imovinu koji nije kreditna institucija dužan je Hrvatskoj narodnoj banci dostavljati godišnje financijske izvještaje, godišnje konsolidirane financijske izvještaje i financijske izvještaje iz članka 41. ovoga Zakona, nadzorne izvještaje i druge podatke potrebne za provođenje nadzora nad primjenom odredbi glave III. Uredbe (EU) 2023/1114 kako je određeno odlukom iz stavka 4. ovoga članka.
+(2) Izdavatelj tokena vezanih uz imovinu koji je kreditna institucija dužan je Hrvatskoj narodnoj banci dostavljati nadzorne izvještaje i druge podatke potrebne za provođenje nadzora nad primjenom odredbi glave III. Uredbe (EU) 2023/1114 kako je određeno odlukom iz stavka 4. ovoga članka.
+(3) Izdavatelj tokena vezanih uz imovinu dužan je Hrvatskoj narodnoj banci dostavljati izvješća iz članka 22. stavka 1. Uredbe (EU) 2023/1114 i u pogledu tokena vezanih uz imovinu koji su izdani u vrijednosti manjoj od 100.000.000,00 eura.
+(4) Hrvatska narodna banka odlukom detaljnije uređuje sadržaj, oblik, način i rokove dostavljanja financijskih i nadzornih izvještaja i drugih podataka iz ovoga članka.

@@ -1,0 +1,10 @@
+## Likvidacija pružatelja usluga povezanih s kriptoimovinom
+# Članak 36.
+(1) Na postupak likvidacije pružatelja usluga povezanih s kriptoimovinom kojem je Agencija izdala odobrenje za rad u skladu s odredbama ovoga Zakona i Uredbe (EU) 2023/1114 primjenjuju se odredbe zakona kojima se uređuje osnivanje i ustroj trgovačkih društava, osim ako nije drukčije propisano ovim Zakonom.
+(2) Ako likvidatori utvrde postojanje stečajnog razloga, dužni su bez odgađanja podnijeti prijedlog za otvaranje stečajnog postupka i o tome odmah izvijestiti Agenciju.
+(3) Uprava odnosno likvidatori pružatelja usluga povezanih s kriptoimovinom iz stavka 1. ovoga članka dužni su Agenciju obavijestiti o odluci o prestanku društva ili o promjeni djelatnosti tako da društvo više ne obavlja usluge povezane s kriptoimovinom, sljedećeg radnog dana nakon donošenja odluke.
+(4) Agencija na temelju obavijesti iz stavka 3. ovoga članka donosi rješenje kojim ograničava važenje odobrenja za rad za poslove koji su potrebni radi provedbe likvidacije pružatelja usluga povezanih s kriptoimovinom iz stavka 1. ovoga članka, a o kojoj će izvijestiti nadležni trgovački sud.
+(5) Nakon započete likvidacije pružatelj usluga povezanih s kriptoimovinom iz stavka 1. ovoga članka može obavljati još samo poslove određene rješenjem iz stavka 4. ovoga članka.
+(6) Ako se rješenje iz stavka 4. ovoga članka odnosi na pružatelja usluga povezanih s kriptoimovinom iz stavka 1. ovoga članka koje ima podružnicu u drugoj državi članici, Agencija je dužna prije donošenja takvog rješenja o namjeri donošenja rješenja obavijestiti nadležno tijelo države članice domaćina.
+(7) Obavijest nadležnom tijelu države članice domaćina iz stavka 6. ovoga članka mora sadržavati podatke o pravnim posljedicama i stvarnim učincima namjeravanog rješenja.
+(8) Ako zbog zaštite interesa klijenata pružatelja usluga povezanih s kriptoimovinom iz stavka 1. ovoga članka ili zbog drugih javnih interesa nije moguće odgoditi donošenje rješenja iz stavka 4. ovoga članka, Agencija je dužna o tome obavijestiti nadležno tijelo države članice domaćina odmah po donošenju rješenja.

@@ -1,0 +1,22 @@
+## III. ODGOVORNOST ZA INFORMACIJE NAVEDENE U BIJELOJ KNJIZI O KRIPTOIMOVINI
+## Odgovornost za informacije navedene u bijeloj knjizi o kriptoimovini
+# Članak 9.
+(1) Imatelj kriptoimovine koja nisu tokeni vezani uz imovinu niti tokeni e-novca, tokena vezanih uz imovinu ili tokena e-novca, koji je predmetnu imovinu stekao na temelju informacija navedenih u bijeloj knjizi o kriptoimovini ili u izmjenama bijele knjige o kriptoimovini, ponudom ili uvrštenjem kriptoimovine za trgovanje, može zahtijevati naknadu štete koju je pretrpio zbog toga što su informacije u bijeloj knjizi o kriptoimovini bitne za procjenu kriptoimovine netočne ili nepotpune, nejasne ili obmanjujuće, od sljedećih odgovornih osoba:
+1. ponuditelja, osobe koja traži uvrštenje za trgovanje i/ili operatera platforme za trgovanje u slučaju iz članka 5. stavaka 2. i 3. Uredbe (EU) 2023/1114 za kriptoimovinu koja nisu tokeni vezani uz imovinu niti tokeni e-novca
+2. izdavatelja tokena vezanih uz imovinu, za tokene vezane uz imovinu
+3. izdavatelja tokena e-novca, za tokene e-novca
+4. članova upravnog, upravljačkog ili nadzornog tijela osoba iz točaka 1. do 3. ovoga stavka i
+5. osoba koje preuzmu odgovornost za točnost i potpunost informacija u bijeloj knjizi ili dijelovima bijele knjige.
+(2) Osobe iz stavka 1. ovoga članka moraju biti jasno navedene u bijeloj knjizi osobnim imenom i funkcijom, ako je riječ o fizičkoj osobi, te tvrtkom i registriranim sjedištem, ako je riječ o pravnoj osobi.
+(3) Odgovornost više osoba iz stavka 1. ovoga članka za štetu je solidarna, a na nju se primjenjuje zakon kojim su uređeni obvezni odnosi.
+(4) Osobe iz stavka 1. ovoga članka odgovaraju za štetu koja imatelju kriptoimovine iz stavka 1. ovoga članka bude prouzročena zbog toga što su informacije bitne za procjenu kriptoimovine netočne, neistinite, nejasne ili obmanjujuće.
+(5) Imatelj kriptoimovine iz stavka 1. ovoga članka ovlašten je zahtijevati od odgovorne osobe iz stavka 1. ovoga članka naknadu štete ako je pravni posao stjecanja sklopljen nakon objave bijele knjige o kriptoimovini, i to u roku od godine dana od:
+1. završetka ponude kriptoimovine, ako se radi o odgovornosti na temelju bijele knjige o kriptoimovini u vezi s ponudom kriptoimovine ili
+2. uvrštenja kriptoimovine za trgovanje, ako se radi o odgovornosti na temelju bijele knjige o kriptoimovini u vezi s uvrštenjem kriptoimovine za trgovanje.
+(6) U slučaju ponude tokena vezanih uz imovinu i tokena e-novca, imatelj tokena vezanih uz imovinu odnosno tokena e-novca koji je trenutačni imatelj ima pravo od odgovorne osobe iz stavka 1. ovoga članka zahtijevati da bez odgode otkupi tokene vezane uz imovinu i tokene e-novca po cijeni po kojoj ih je imatelj stekao, a najviše do iznosa za koji je ta količina tih tokena prvotno ponuđena ili uvrštena za trgovanje te može zahtijevati od odgovorne osobe iz stavka 1. ovoga članka da bez odgode nadoknadi uobičajene troškove povezane sa stjecanjem.
+(7) Imatelj kriptoimovine dužan je u skladu s člankom 15. stavkom 4., člankom 26. stavkom 3. i člankom 52. stavkom 3. Uredbe (EU) 2023/1114 dokazati da su informacije u bijeloj knjizi o kriptoimovini bitne za procjenu kriptoimovine netočne ili nepotpune, nejasne ili obmanjujuće te da je oslanjanje na te informacije utjecalo na odluku imatelja o kupnji, prodaji ili razmjeni te kriptoimovine.
+(8) Naknadu štete u skladu s odredbama ovoga članka ovlašteni su zahtijevati i pravni sljednici imatelja kriptoimovine u skladu s uvjetima iz stavaka 5. i 6. ovoga članka, s time da se kao iznos mjerodavan za određivanje visine zahtjeva za naknadu štete uzima iznos za koji je prednik stekao kriptoimovinu.
+(9) Odgovornost za štetu koja je nastala imatelju kriptoimovine ne može se unaprijed isključiti ili ograničiti, u skladu s odredbama članaka 15., 26. i 52. Uredbe (EU) 2023/1114.
+(10) Zahtjevi za naknadu štete na temelju odredbi ovoga članka zastarijevaju istekom dvije godine od dana saznanja imatelja kriptoimovine za nepotpunost, netočnost, nejasnost ili obmanjujuću prirodu informacija u bijeloj knjizi o kriptoimovini, a u svakom slučaju istekom roka od pet godina od dana objave bijele knjige o kriptoimovini.
+(11) Odredbama ovoga članka ne isključuju se zahtjevi za naknadom štete zbog povrede ugovora ili drugih propisa.
+(12) Odgovornost prema odredbama ovoga Zakona vrijedi za bijele knjige o kriptoimovini iz članaka 6., 19. i 51. Uredbe (EU) 2023/1114 objavljene u vezi s ponudom kriptoimovine na području Republike Hrvatske ili u vezi s uvrštenjem kriptoimovine za trgovanje u Republici Hrvatskoj.

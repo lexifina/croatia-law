@@ -1,0 +1,7 @@
+## Uprava i nadzorni odbor pružatelja usluga povezanih s kriptoimovinom
+# Članak 16.
+(1) Na upravu i nadzorni odbor pružatelja usluga povezanih s kriptoimovinom osim odredbi ovoga Zakona primjenjuju se odredbe zakona kojim se uređuje osnivanje i ustroj trgovačkih društava.
+(2) Uprava pružatelja usluga povezanih s kriptoimovinom mora u skladu s člankom 68. stavkom 1. Uredbe (EU) 2023/1114 zajednički raspolagati stručnim znanjima, sposobnostima i iskustvom potrebnim za samostalno i neovisno vođenje poslova pružatelja usluga povezanih s kriptoimovinom.
+(3) Nadzorni odbor pružatelja usluga povezanih s kriptoimovinom mora u skladu s člankom 68. stavkom 1. Uredbe (EU) 2023/1114 zajednički raspolagati stručnim znanjima, sposobnostima i iskustvom potrebnim za samostalno i neovisno nadziranje poslova pružatelja usluga povezanih s kriptoimovinom.
+(4) Pružatelj usluga povezanih s kriptoimovinom dužan je bez odgađanja, a najkasnije u roku od tri radna dana, Agenciju izvijestiti o prestanku mandata pojedinog člana uprave ili nadzornog odbora te navesti razloge za prestanak mandata.
+(5) Kada pružatelj usluga povezanih s kriptoimovinom ima upravni odbor u smislu zakona kojim se uređuje osnivanje i ustroj trgovačkih društava, odredbe ovoga Zakona koje se odnose na članove uprave odnosno nadzornog odbora primjenjuju se na odgovarajući način na izvršne direktore odnosno članove upravnog odbora pružatelja usluga povezanih s kriptoimovinom.

@@ -1,0 +1,9 @@
+## Dužnosti i odgovornost uprave
+# Članak 19.
+(1) Osim općih dužnosti i odgovornosti propisanih zakonom kojim se uređuje osnivanje i ustroj trgovačkih društava, uprava pružatelja usluga povezanih s kriptoimovinom iz članka 59. stavka 1. točke (b) Uredbe (EU) 2023/1114 ima dužnosti i odgovornosti propisane ovim Zakonom.
+(2) Uprava je dužna osigurati da pružatelj usluga povezanih s kriptoimovinom posluje u skladu s ovim Zakonom i Uredbom (EU) 2023/1114.
+(3) Uprava pružatelja usluga povezanih s kriptoimovinom iz članka 59. stavka 1. Uredbe (EU) 2023/1114 dužna je osigurati provođenje nadzornih mjera koje je naložila Agencija u skladu sa svojim nadležnostima i ovlastima iz ovoga Zakona i Uredbe (EU) 2023/1114.
+(4) Uprava pružatelja usluga povezanih s kriptoimovinom iz članka 59. stavka 1. Uredbe (EU) 2023/1114 dužna je uspostaviti i primjenjivati djelotvoran i pouzdan sustav upravljanja, što uključuje i raspodjelu dužnosti te sprječavanje sukoba interesa, tako da se promiču integritet tržišta i interesi klijenata pružatelja usluga povezanih s kriptoimovinom.
+(5) Uprava pružatelja usluga povezanih s kriptoimovinom iz članka 59. stavka 1. Uredbe (EU) 2023/1114 dužna je članovima društva odnosno nadzornom odboru omogućiti pristup informacijama o rizicima kojima je pružatelj usluga povezanih s kriptoimovinom izložen ili može biti izložen.
+(6) Uprava pružatelja usluga povezanih s kriptoimovinom iz članka 59. stavka 1. točke (b) Uredbe (EU) 2023/1114 dužna je posvetiti dovoljno vremena i osigurati dovoljno sredstava kako bi se svim rizicima iz stavka 5. ovoga članka na odgovarajući način upravljalo.
+(7) Uprava pružatelja usluga povezanih s kriptoimovinom iz članka 59. stavka 1. Uredbe (EU) 2023/1114 dužna je uspostaviti linije izvještavanja uprave za sve značajnije rizike kojima je pružatelj usluga povezanih s kriptoimovinom izložen ili može biti izložen.
