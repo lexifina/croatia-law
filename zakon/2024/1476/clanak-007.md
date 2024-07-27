@@ -1,0 +1,6 @@
+# Članak 7.
+U članku 82. stavak 1. mijenja se i glasi:
+»(1) Investicijsko društvo koje koristi algoritamsko trgovanje u smislu ovoga Zakona dužno je uspostaviti djelotvorne sustave i mjere za kontrolu rizika primjerene aktivnostima investicijskog društva u skladu s odredbama ovoga članka, Delegiranom uredbom Komisije (EU) 2017/589 оd 19. srpnja 2016. o dopuni Direktive 2014/65/EU Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda kojima se utvrđuju organizacijski zahtjevi za investicijska društva koja se bave algoritamskim trgovanjem (u daljnjem tekstu: Uredba (EU) br. 2017/589) i poglavljem II. Uredbe (EU) 2022/2554.«.
+Iza stavka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Investicijsko društvo uspostavlja djelotvorne mehanizme kontinuiteta poslovanja kako bi se nosilo sa svakim prekidom u svojim sustavima za trgovanje, uključujući politike i planove kontinuiteta poslovanja u području IKT-a i planove odgovora i oporavka u području IKT-a uspostavljene u skladu s člankom 11. Uredbe (EU) 2022/2554 te osigurava da njegovi sustavi budu u potpunosti testirani i da ih se pravilno prati kako bi se osiguralo da ispunjavaju opće zahtjeve utvrđene u ovom stavku i posebne zahtjeve utvrđene u poglavljima II. i IV. Uredbe (EU) 2022/2554.«.
+Dosadašnji stavci 5. do 9. postaju stavci 6. do 10.

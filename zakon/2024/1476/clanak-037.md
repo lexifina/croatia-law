@@ -1,0 +1,6 @@
+# Članak 37.
+(1) Upravno vijeće Agencije će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti Pravilnik o redovitom doprinosu članova, načinu raspolaganja sredstvima i financijskim izvještajima Fonda za zaštitu ulagatelja (»Narodne novine«, br. 66/19., 132/20. i 142/22.) s odredbama ovoga Zakona.
+(2) Upravno vijeće Agencije će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti s odredbama ovoga Zakona:
+1. Pravilnik o strukturi, sadržaju, načinu i rokovima dostave godišnjih financijskih izvještaja i revizorskog izvješća, financijskih izvještaja za razdoblja tijekom godine te primjeni kontnog plana za središnji depozitorij vrijednosnih papira (»Narodne novine«, br. 91/19., 48/22. i 155/22.)
+2. Pravilnik o izdavanju suglasnosti za imenovanje članova uprave te za stjecanje kvalificiranog odnosno kontrolnog udjela i kriterijima za procjenu primjerenosti članova nadzornog odbora, nositelja ključnih funkcija i višeg rukovodstva (»Narodne novine«, br. 36/21., 48/22. i 142/22.)
+3. Pravilnik o strukturi i sadržaju, načinu i rokovima dostave godišnjih financijskih izvještaja i revizorskog izvješća te primjeni kontnog plana za središnje druge ugovorne strane (»Narodne novine«, br. 77/19. i 155/22.).

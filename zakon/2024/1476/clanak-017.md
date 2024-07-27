@@ -1,0 +1,3 @@
+# Članak 17.
+U članku 387. stavak 1. mijenja se i glasi:
+»(1) Zakonom o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (»Narodne novine«, br. 54/13. i 123/23.), Agencija je imenovana nadležnim tijelom za nadzor nad primjenom odredbi Uredbe (EU) br. 648/2012 za sve subjekte koji imaju poslovni nastan u Republici Hrvatskoj, a na koje se primjenjuju odredbe Uredbe (EU) br. 648/2012, osim kreditnih institucija, za čiji je nadzor imenovano nadležno tijelo za nadzor kreditnih institucija sukladno odredbama zakona kojim se uređuje osnivanje i poslovanje kreditnih institucija.«.
