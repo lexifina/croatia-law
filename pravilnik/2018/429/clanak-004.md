@@ -1,3 +1,0 @@
-# Članak 4.
-(1) Prvostupanjsko tijelo, do kraja mjeseca kolovoza svake godine, od korisnika obiteljske invalidnine ili novčane naknade u iznosu obiteljske invalidnine, koji je na redovitom srednjoškolskom ili visokom obrazovanju, zatražuje dostavu potvrde nadležne odgojno-obrazovne ustanove odnosno ustanove za visoko obrazovanje o nastavku redovitog obrazovanja koji su je dužni dostaviti do 10. rujna tekuće godine za srednjoškolsko obrazovanje odnosno do 10. studenog tekuće godine za visoko obrazovanje.
-(2) Potvrdu iz stavka 1. ovog članka, kao dokaza o trajanju redovnog obrazovanja, prvostupanjsko tijelo pribavlja od korisnika prava svakih daljnjih šest mjeseci.

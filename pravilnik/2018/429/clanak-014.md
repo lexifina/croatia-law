@@ -1,7 +1,0 @@
-## Prisilna naplata dugovanja
-# Članak 14.
-(1) Ukoliko dužnik ne pristane na podmirenje duga iz članka 10. ovog Pravilnika prvostupanjsko tijelo o tome izrađuje službenu zabilješku.
-(2) U slučaju da dužnik koji je pristao na podmirenje duga iz članka 10. ovog Pravilnika ne podmiri dug sukladno članku 10., 11. i 13. ovog Pravilnika dužan je iznos duga i pripadajućih zakonskih zateznih kamata podmiriti u daljem roku od 30 dana, o čemu će prvostupanjsko tijelo prethodno pismeno obavijestiti dužnika, a rok za uplatu teče od dana prijema obavijesti prvostupanjskog tijela.
-(3) U slučaju iz stavka 1. ovog članka kao i u slučaju da dužnik ne uplati dug u roku iz stavka 2. ovog članka, prvostupanjsko tijelo će bez odgode predmet povrata nepripadajućih iznosa novčanih primanja dopisom uputiti nadležnom državnom odvjetništvu Republike Hrvatske, radi prisilne naplate duga.
-(4) Iznimno od stavka 3. ovog članka, kada je ukupni iznos duga manji od 500,00 kuna, prvostupanjsko tijelo neće predmet uputiti nadležnom državnom odvjetništvu Republike Hrvatske odnosno neće pokretati postupak prisilne naplate dugovanja.
-(5) Kopije službenih zabilješki odnosno zapisnika o povratu nepripadajućih sredstava, dokaza o uplati te obavijesti i dopisa o upućivanju predmeta radi prisilne naplate duga iz stavaka 2. i 3. ovog članka, prvostupanjsko tijelo bez odgode dostavlja Sektoru i Sektoru za upravne i pravne poslove Ministarstva.

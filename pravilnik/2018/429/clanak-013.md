@@ -1,2 +1,0 @@
-# Članak 13.
-U iznimnim slučajevima, gdje su uslijed socijalno ekonomskih razloga dužnika ugrožene njegove osnovne egzistencijalne potrebe kao što su prehrana, smještaj, komunalne usluge i slično, a zbog kojih dužnik ne može platiti dug jednokratnom uplatom ili otplatom do 12 jednakih mjesečnih rata, prvostupanjsko tijelo može odobriti plaćanje duga u primjerenom broju mjesečnih rata, a najviše do 24 mjesečne rate.
