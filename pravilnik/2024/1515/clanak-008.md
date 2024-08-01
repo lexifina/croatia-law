@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ministarstvo na elektroničkom mediju ili na drugi odgovarajući način dostavlja Hrvatskom zavodu za zdravstveno osiguranje popis korisnika koji su u prethodnom mjesecu ostvarili uvjete za ostvarivanje ili prestanak ostvarivanja prava na oslobađanje od sudjelovanja u pokriću dijela troškova zdravstvene zaštite iz obveznog zdravstvenog osiguranja sukladno Zakonu.
+(2) Popis iz stavka 1. ovoga članka obvezno sadrži ime i prezime osobe, datum rođenja, OIB i datum stjecanja odnosno prestanka prava na oslobađanje od sudjelovanja u pokriću dijela troškova zdravstvene zaštite iz obveznog zdravstvenog osiguranja.

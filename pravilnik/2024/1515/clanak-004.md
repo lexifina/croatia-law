@@ -1,0 +1,10 @@
+## Kontrola isplate prava na obiteljsku invalidninu, posebni doplatak i novčanu naknadu za nezaposlene
+# Članak 4.
+(1) Radi kontrole isplate prava odnosno ostvarivanja uvjeta za isplatu, unutarnja ustrojstvena jedinica Ministarstva nadležna za analitiku i informatizaciju, do petog dana tekućeg mjeseca, na elektroničkom mediju ili na drugi odgovarajući način upućuje Hrvatskom zavodu za mirovinsko osiguranje popis korisnika koji su u prethodnom mjesecu ostvarili prava na temelju Zakona odnosno podatke o korisnicima prava na:
+a) obiteljsku invalidninu odnosno novčanu naknadu u iznosu obiteljske invalidnine iz članka 78. stavka 6. Zakona
+b) posebni doplatak i
+c) novčanu naknadu za nezaposlene hrvatske branitelje iz Domovinskog rata i članove njihovih obitelji.
+(2) Ministarstvo i Hrvatski zavod za mirovinsko osiguranje usklađuju podatke o korisnicima prava iz stavka 1. ovoga članka na način da Hrvatski zavod za mirovinsko osiguranje, u roku od deset dana od zaprimanja zahtjeva Ministarstva, na elektroničkom mediju ili na drugi odgovarajući način dostavlja Ministarstvu podatke za korisnike prava iz stavka 1. ovoga članka.
+(3) Podaci iz stavka 2. ovoga članka sadrže ime i prezime, datum rođenja i OIB korisnika prava te podatak o ostvarenom iznosu i vrsti mirovine, ostvarenoj naknadi plaće u vezi s profesionalnom rehabilitacijom od dana stjecanja prava na profesionalnu rehabilitaciju i tijekom profesionalne rehabilitacije odnosno obiteljskoj mirovini ostvarenoj sukladno članku 40. Zakona u prethodnom mjesecu, podatak o datumu zasnivanja radnog odnosa te prema potrebi druge podatke.
+(4) Ministarstvo po zaprimanju podataka za korisnike prava iz stavka 1. ovoga članka, elektroničkim putem dostavlja nadležnom prvostupanjskom tijelu podatke iz stavka 3. ovoga članka odnosno popis korisnika koji više ne ostvaruju uvjete za ostvarivanje prava iz stavka 1. ovoga članka, na daljnje postupanje.
+(5) Ministarstvo s Hrvatskim zavodom za mirovinsko osiguranje sklapa ugovor o razmjeni i zaštiti podataka iz stavaka 1. i 2. ovoga članka, u skladu s odredbama ovoga Pravilnika i drugih mjerodavnih propisa.
