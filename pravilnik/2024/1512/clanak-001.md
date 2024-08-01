@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi (»Narodne novine«, broj 20/20., 87/20., 104/21., 46/22., 111/22., 17/23., 87/23. i 3/24.) u članku 1. stavku 2. iza točke 84. dodaje se točka 85. koja glasi:
+»85. Delegirana direktiva Komisije (EU) 2024/232 оd 25. listopada 2023. o izmjeni Direktive 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za kadmij i olovo u plastičnim profilima za električne i elektroničke prozore i vrata koji sadržavaju oporabljeni polivinil-klorid (Tekst značajan za EGP) (SL L 2024/232, 10. 1. 2024).«.
