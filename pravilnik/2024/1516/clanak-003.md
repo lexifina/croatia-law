@@ -1,0 +1,12 @@
+# Članak 3.
+Pojedini izrazi i pojmovi koji se rabe u ovom Pravilniku imaju sljedeće značenje:
+a) područje odgovornosti je dio ili cijelo područje jedne ili više jedinica lokalne samouprave odnosno područje više jedinica lokalne samouprave na kojem obvezu interveniranja ima vatrogasna postrojba, na temelju vatrogasnog plana grada, općine, područja, županije, Grada Zagreba odnosno Republike Hrvatske,
+b) operativno područje je dio područja odgovornosti vatrogasne postrojbe koja ima vatrogasne postaje ili ispostave na kojem vatrogasnu intervenciju započinje obavljati vatrogasna postaja ili ispostava,
+c) vatrogasna postrojba je javna vatrogasna postrojba i vatrogasna postrojba dobrovoljnog vatrogasnog društva, koje neposredno obavljaju vatrogasnu djelatnost na području jedinice lokalne samouprave,
+d) vatrogasna postaja ili ispostava je operativna formacija vatrogasne postrojbe koja ima 24-satno dežurstvo koja pokriva dio područja odgovornosti vatrogasne postrojbe,
+e) vatrogasac je profesionalni ili dobrovoljni vatrogasac koji obavlja pojedine radnje i postupke na vatrogasnoj intervenciji te zadovoljava uvjete sukladno Zakonu,
+f) vatrogasni operativni centar je komunikacijsko središte za prijem dojava o izvanrednim događajima, uzbunjivanje vatrogasnih postrojbi, koordiniranje, vođenje vatrogasnih intervencija, analiziranje i statističko obrađivanje vatrogasnih intervencija, ustrojen na županijskoj i lokalnoj razini,
+g) učinkovita vatrogasna intervencija je ona na kojoj vatrogasna postrojba, na svom području odgovornosti, s ljudstvom i tehnikom u vremenu od dojave koji je utvrđen vatrogasnim planom jedinice lokalne samouprave, započne adekvatno djelovanje (gašenje požara, spašavanje ljudi i imovine, pružanje tehničke pomoći), sukladno pravilima vatrogasne struke,
+h) vatrogasna intervencija je skup mjera, radnji i postupaka koje provode vatrogasne snage u vremenu od zaprimljene dojave do povratka u vatrogasnu postaju, na temelju zaprimljene dojave ili zapovjedi nadležnog vatrogasnog zapovjednika, zbog nastalog izvanrednog događaja,
+i) vatrogasna tehnika obuhvaća vatrogasna vozila, plovila, letjelice, vatrogasne armature, vatrogasne cijevi i pripadajuću opremu te druge uređaje za gašenje požara i spašavanje unesrećenih koji se koriste uz vatrogasnu tehniku prilikom vatrogasne intervencije,
+j) ruralno područje je područje jedinice lokalne samouprave koje je vatrogasnim planom definirano kao takvo, a svojom infrastrukturom i udaljenošću onemogućava vatrogasnoj tehnici dolazak na vatrogasnu intervenciju unutar 15 minuta od uzbunjivanja.

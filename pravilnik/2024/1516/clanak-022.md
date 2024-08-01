@@ -1,0 +1,8 @@
+# Članak 22.
+(1) Javna vatrogasna postrojba koja ima postaje i/ili ispostave mora imati u smjeni jednog zapovjednika smjene koji je odgovoran za intervencijsku spremnost vatrogasaca koji su u smjeni u postajama i/ili ispostavama te je nadređen vatrogasnom operativnom centru postrojbe.
+(2) Zapovjednik smjene zapovijeda vatrogasnom intervencijom na kojoj sudjeluje jedna, dvije ili više postaja i/ili ispostava i odgovoran je zapovjedniku vatrogasne postrojbe za operativnu pripravnost te učinkovitost na vatrogasnim intervencijama u njegovoj smjeni.
+(3) Javna vatrogasna postrojba koja u smjeni ima dva i više odjeljenja a nema postaje i/ili ispostave mora imati voditelja smjene koji je odgovoran nadređenom zapovjedniku za operativnu pripravnost smjene te učinkovitost na vatrogasnim intervencijama u njegovoj smjeni.
+(4) Voditelj vatrogasnog odjeljenja samostalno zapovijeda na vatrogasnoj intervenciji i odgovoran je nadređenom zapovjedniku za operativnu pripravnost i učinkovitost vatrogasnog odjeljenja kojim zapovijeda.
+(5) Voditelj vatrogasne grupe zapovijeda vatrogasnom grupom na vatrogasnoj intervenciji i odgovoran je nadređenom zapovjedniku ili voditelju za operativnu pripravnost i učinkovitost svoje vatrogasne grupe.
+(6) Vatrogasac vozač vatrogasnog vozila odgovoran je nadređenom zapovjedniku ili voditelju za ispravnost i učinkovitu uporabu vozila kojim upravlja na vatrogasnoj intervenciji.
+(7) Vatrogasac je odgovoran nadređenom zapovjedniku ili voditelju za učinkovito obavljanje vatrogasne intervencije, svoju tjelesnu pripravnost, ispravnost tehnike, uređaja i opreme i njihovu svrsishodnu i učinkovitu primjenu na vatrogasnoj intervenciji.

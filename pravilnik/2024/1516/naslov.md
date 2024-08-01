@@ -1,0 +1,1 @@
+Pravilnik o mjerilima za ustroj i razvrstavanje vatrogasnih postrojbi, kriteriji za određivanje broja i vrste vatrogasnih postrojbi na području jedinice lokalne samouprave te njihovo operativno djelovanje na području za koje su osnovane

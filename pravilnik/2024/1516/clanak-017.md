@@ -1,0 +1,4 @@
+# Članak 17.
+(1) Na temelju broja vatrogasaca u javnoj vatrogasnoj postrojbi koja ima svoje područje odgovornosti određeno prema članku 16. ovog Pravilnika te na temelju potrebne vatrogasne tehnike za obavljanje jedne ili više vatrogasnih intervencija određuje se sukladno članku 10. ovog Pravilnika vrsta javne vatrogasne postrojbe.
+(2) Ako je broj vatrogasaca određen temeljem članka 16. ovog Pravilnika veći od broja vatrogasaca za pojedinu vrstu javne vatrogasne postrojbe određene prema članku 10. ovog Pravilnika uzima se slijedeća viša vrsta javne vatrogasne postrojbe.
+(3) Broj vatrogasaca određen temeljem ovog članka i članka 16. ovog Pravilnika je minimalan broj vatrogasaca koji ne uzima u obzir redovne rashode kao što su godišnji odmori, bolovanja, slobodni dani i slično te se to treba uzeti u obzir kod određivanja konačnog broja vatrogasaca u javnoj vatrogasnoj postrojbi.

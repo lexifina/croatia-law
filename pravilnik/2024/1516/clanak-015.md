@@ -1,0 +1,5 @@
+## V. KRITERIJI ZA ODREĐIVANJA BROJA I VRSTE VATROGASNIH POSTROJBI NA PODRUČJU JEDINICE LOKALNE SAMOUPRAVE
+# Članak 15.
+(1) Broj vatrogasnih postrojbi (dobrovoljnih i profesionalnih) na području jedinice lokalne samouprave (općina ili grad) ili udruženih jedinica lokalne samouprave određuje se tako da se svakoj vatrogasnoj postrojbi dodjeli područje odgovornosti na način da je pokriveno cijelo područje jedinice lokalne samouprave ili udruženih jedinica lokalne samouprave.
+(2) Potrebna vatrogasna tehnika za učinkovito obavljanje vatrogasne intervencije na području odgovornosti određuje se sukladno pravilima vatrogasne struke za svaku vatrogasnu intervenciju (požar, tehnička intervencija i druge intervencije) koja se prema statističkim podacima u posljednjih 10 godine obavila na promatranom području odgovornosti, u što ne ulaze vatrogasne intervencije kod elementarnih nepogoda.
+(3) Na temelju određene vatrogasne tehnike iz stavka 2. ovog članka, određuje se broj i struktura vatrogasaca koji koriste konkretnu vatrogasnu tehniku na svakoj promatranoj vatrogasnoj intervenciji sukladno pravilima vatrogasne struke.
