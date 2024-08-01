@@ -1,0 +1,15 @@
+## Odlučivanje o Zahtjevu
+# Članak 12.
+(1) Nakon završetka administrativne kontrole Zahtjeva, Upravljačko tijelo će donijeti:
+a) Rješenje o dodjeli i isplati u slučaju ispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom
+b) Rješenje o odbijanju u slučaju:
+- neispunjavanja uvjeta i kriterija propisanih ovim Pravilnikom, uključujući neispunjavanje kriterija najmanjeg broja bodova na temelju kriterija za odabir iz članka 11. stavka 3. ovoga Pravilnika
+- nepravovremeno podnesenih Zahtjeva
+- nedostavljanja dopune/obrazloženja/ispravka kako je propisano člankom 10. ovoga Pravilnika ako to utječe na prihvatljivost Zahtjeva u cijelosti
+- utvrđene nepravilnosti ako je odlukom o utvrđenoj nepravilnosti, koju donosi Upravljačko tijelo u skladu s procedurom utvrđenom prema posebnim propisima, određeno odbijanje zahtjeva uzimajući u obzir težinu utvrđene nepravilnosti ili u slučaju ne poduzimanja korektivnih mjera određenih radi ispravljanja utvrđene nepravilnosti u zadanom roku. Ako utvrđena nepravilnost ujedno sadrži i elemente sumnje na prijevaru, Upravljačko tijelo će o tome izvijestiti Državno odvjetništvo Republike Hrvatske
+- namjernog davanja neistinitih informacija od strane korisnika
+- sufinanciranja predmeta potpore drugim javnim doprinosima
+- neispunjavanja drugih uvjeta i kriterija propisanih ovim Pravilnikom
+- nedostatnosti raspoloživih sredstava.
+(2) Ako se tijekom obrade Zahtjeva utvrdi nepravilnost, a za koju odlukom o utvrđenoj nepravilnosti, koju donosi Upravljačko tijelo u skladu sa procedurom utvrđenom prema posebnim propisima, nije određeno odbijanje zahtjeva u cijelosti, Upravljačko tijelo će odbiti iznos nepravilnog troška od ukupnih prihvatljivih troškova i donijeti Rješenje o dodjeli i isplati u kojem će ukupan iznos za koji se dodjeljuje potpora biti umanjen za iznos nepravilnog troška. Ako utvrđena nepravilnost ujedno sadrži i elemente sumnje na prijevaru, Upravljačko tijelo će o tome izvijestiti Državno odvjetništvo Republike Hrvatske.
+(3) Isplate sukladno Rješenjima o dodjeli i isplati iz stavka 1. točke a) ovoga članka vrši Agencija za plaćanja na račun korisnika.
