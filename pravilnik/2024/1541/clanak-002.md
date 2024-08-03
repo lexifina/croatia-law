@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Poljoprivredni reprodukcijski materijal koji se uvozi u Republiku Hrvatsku odnosno Europsku uniju smije se uvoziti samo preko određenih graničnih kontrolnih postaja propisanih Uredbom o graničnim kontrolnim postajama, inspekcijskim centrima, kontrolnim točkama te ostalim graničnim prijelazima i carinskim mjestima na kojima se provode službene kontrole robe i životinja koje ulaze u Europsku uniju (»Narodne novine« broj 55/22.).
+(2) Pregled poljoprivrednoga reprodukcijskog materijala iz stavka 1. ovoga članka obavlja fitosanitarna inspekcija Državnog inspektorata sukladno članku 76. stavku 1. Zakona o sjemenu i sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 110/21.) (u daljnjem tekstu: Zakon).

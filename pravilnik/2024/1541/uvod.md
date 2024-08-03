@@ -1,0 +1,1 @@
+Na temelju članka 72. stavka 5. i članka 76. stavka 10. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 110/21.) ministar poljoprivrede, šumarstva i ribarstva donosi
