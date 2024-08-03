@@ -1,0 +1,4 @@
+# Članak 23.
+(1) Na temelju odluke iz članka 22. ovog Pravilnika Fond s korisnikom sredstava sklapa ugovor.
+(2) Ugovorom iz stavka 1. ovog članka utvrđuje se osobito predmet ugovora, visina dodijeljenih sredstava, rokovi provedbe programa, projekta i slične aktivnosti, uvjeti i način korištenja sredstava Fonda, prava i obveze ugovornih strana, uvjeti i način isplate sredstava Fonda, instrumenti osiguranja, ako je primjenjivo, način praćenja i kontrole namjenskog korištenja sredstava Fonda, mjere zbog neispunjavanja ugovornih obveza, a posebno zbog nenamjenskog korištenja sredstava Fonda te druga međusobna prava i obveze.
+(3) Iznimno, kod javnih poziva u kojima se provodi kratak i jednostavan postupak prijave i obrade zahtjeva, zbog prirode projekta, programa i slične aktivnosti te ekonomičnosti postupka, Fond može koristiti opće uvjete ugovaranja, sukladno zakonu koji uređuje obvezne odnose, koji se objavljuju uz javni poziv.

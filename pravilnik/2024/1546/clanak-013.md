@@ -1,0 +1,5 @@
+# Članak 13.
+(1) Zajam je namjensko novčano sredstvo koje Fond stavlja na raspolaganje korisnicima sredstava na određeno vremensko razdoblje, uz obvezu povrata bez kamata.
+(2) Sredstva zajma dodjeljuju se trgovačkim društvima i drugim pravnim osobama, fizičkim osobama (obrtnici i slobodna zanimanja), obiteljskim poljoprivrednim gospodarstvima, jedinicama područne (regionalne) samouprave i jedinicama lokalne samouprave, proračunskim i izvanproračunskim korisnicima te neprofitnim organizacijama.
+(3) Kod dodjele sredstava zajma, Fond u uvjetima natječaja ili javnog poziva, odnosno prije sklapanja ugovora po neposrednom zahtjevu, utvrđuje minimalne zahtjeve s potrebnim instrumentima osiguranja sredstava, a ugovorom utvrđuje odgovarajuće instrumente osiguranja sredstava za svaki pojedini program, projekt i sličnu aktivnost u koja se ulažu sredstva Fonda.
+(4) Fond ima pravo ugovorom utvrđene instrumente osiguranja koristiti po izboru i staviti u postupak naplate ako korisnik sredstava u ugovorenom roku ili u roku zatraženom od strane Fonda ne podmiri dospjelu ugovornu obvezu odnosno ne izvrši druge obveze iz ugovornog odnosa.

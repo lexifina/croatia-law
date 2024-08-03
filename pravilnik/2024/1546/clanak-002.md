@@ -1,0 +1,4 @@
+# Članak 2.
+(1) Sredstva Fonda koriste se za financiranje pripreme, provedbe i razvoja programa, projekata i sličnih aktivnosti u području zaštite okoliša i energetske učinkovitosti sukladno članku 19. stavku 1. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Zakon o Fondu).
+(2) Sredstva Fonda mogu se koristiti i za financiranje programa, projekata i sličnih aktivnosti iz stavka 1. ovog članka koji se organiziraju i provode na području Republike Hrvatske (u daljnjem tekstu: RH), kada ih organiziraju i financiraju međunarodne organizacije, financijske institucije i tijela te druge strane pravne osobe.
+(3) Sredstvima Fonda financiraju se programi, projekti i slične aktivnosti sukladno strateškim i planskim dokumentima i programima u području zaštite okoliša, zaštite prirode, zaštite zraka te ublažavanja i prilagodbe klimatskim promjenama, energetske učinkovitosti, obnovljivih izvora energije i zelene tranzicije.

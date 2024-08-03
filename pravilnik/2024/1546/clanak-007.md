@@ -1,0 +1,8 @@
+## II. KORISNICI SREDSTAVA
+# Članak 7.
+(1) Korisnici sredstava, u smislu ovog Pravilnika, jesu pravne i fizičke osobe koji su nositelji programa, projekata i sličnih aktivnosti u području zaštite okoliša i energetske učinkovitosti i u cijelosti su odgovorni za provedbu istih i koji ispunjavaju uvjete iz članka 10. ovog Pravilnika.
+(2) Iznimno, korisnici sredstava mogu biti partneri nositelja programa, projekta i sličnih aktivnosti koji nema sjedište u RH, sukladno uvjetima i kriterijima određenim natječajem i javnim pozivom, ako
+- ispunjavaju uvjete iz članka 10. ovog Pravilnika i
+- dio projekta, programa i slične aktivnosti koji je predmet financiranja čini samostalnu cjelinu i provodi se na teritoriju RH.
+(3) U provedbi programa, projekata i sličnih aktivnosti uz korisnike sredstava iz stavka 1. ovog članka mogu sudjelovati i partneri koji mogu imati sjedište/prebivalište na ili izvan područja RH, uz uvjet da se program, projekt i slična aktivnost provodi na području RH, a u skladu s propisima koji reguliraju područje potpora i ovim Pravilnikom. Uvjeti koje moraju ispunjavati partneri korisnika sredstava bit će određeni natječajem odnosno javnim pozivom.
+(4) Iznimno, Fond može u skladu s međunarodnim ugovorima/sporazumima i aktima Vlade RH osigurati sredstva za financiranje projekata, programa i aktivnosti koji se provode izvan RH i čiji su nositelji pravne osobe sa sjedištem izvan RH, sve u cilju zaštite okoliša i/ili otklanjanja neposredne ugroze života i zdravlja ljudi na području RH. Financiranje se provodi isključivo putem tijela koja su navedenim aktima određena kao nadležna za provedbu, izvršenje i praćenje provedbe projekata, programa i aktivnosti.

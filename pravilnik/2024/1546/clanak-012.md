@@ -1,0 +1,3 @@
+# Članak 12.
+(1) U svrhu dodjele sredstava Fonda putem zajmova, subvencija, pomoći i donacija Fond provodi postupak procjene izvedivosti ulaganja i utvrđuje financijske, gospodarske, tehničke i kadrovske sposobnosti korisnika sredstava Fonda, te očekivane rezultate i pozitivne učinke vezane za dodijeljena sredstva koja se namjeravaju ulagati u programe, projekte i slične aktivnosti u području zaštite okoliša i energetske učinkovitosti.
+(2) U postupku procjene izvedivosti ulaganja u programe, projekte i slične aktivnosti, odnosno procjene financijske i gospodarske sposobnosti korisnika sredstava, Fond može surađivati s financijskim i drugim institucijama.

@@ -1,0 +1,2 @@
+# Članak 18.
+Fond može, iznimno, u obavljanju svoje djelatnosti i promicanju ciljeva i načela zaštite okoliša i energetske učinkovitosti, aktivno sudjelovati u pripremi, provedbi i realizaciji programa, projekata i sličnih aktivnosti iz članka 2. ovog Pravilnika i na druge načine, sa i bez financijskog učešća Fonda, koji nisu u suprotnosti s odredbama Zakona o Fondu, ovog Pravilnika i drugih relevantnih propisa, a sve sukladno općim aktima Fonda i/ili drugim propisima i aktima nadležnih tijela kojima se reguliraju načini sudjelovanja Fonda iz ovog članka.
