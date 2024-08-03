@@ -1,0 +1,9 @@
+## DODJELA PRAVA PRISTUPA INFORMACIJAMA O BANKOVNIM RAČUNIMA SADRŽANIM U JEDINSTVENOM REGISTRU RAČUNA
+# Članak 4.
+(1) Službena osoba nadležnog tijela ostvaruje pravo pristupa informacijama o bankovnim računima, njihovo pretraživanje i korištenje, podnošenjem zahtjeva nadležnog tijela Financijskoj agenciji.
+(2) Zahtjev nadležnog tijela iz stavka 1. ovoga članka koji je sastavni dio ovoga Pravilnika u Prilogu 1., mora sadržavati podatak o nazivu i osobnom identifikacijskom broju nadležnog tijela, imenu i prezimenu službene osobe nadležnog tijela, osobnom identifikacijskom broju službene osobe nadležnog tijela, adresi elektroničke pošte službene osobe nadležnog tijela i DN poslovnog certifikata.
+(3) Nadležno tijelo osigurava da su dostavljeni podatci točni, potpuni i ažurni.
+(4) U postupku zaprimanja zahtjeva nadležnog tijela, Financijska agencija i nadležno tijelo dužni su uspostaviti siguran način dostave zahtjeva.
+(5) U slučaju da su dostavljeni podatci iz stavka 2. ovoga članka nepotpuni, Financijska agencija nadležnom tijelu dostavlja obavijest o ispravku nepotpunih podataka.
+(6) Kada Financijska agencija utvrdi da su podatci iz stavka 2. ovoga članka potpuni, putem službene adrese elektroničke pošte obavijestit će službenu osobu nadležnog tijela o dodijeli prava pristupa informacijama o bankovnim računima sadržanim u Jedinstvenim registru računa.
+(7) Nadležno tijelo dužno je bez odgode obavijestiti Financijsku agenciju u slučaju kada službena osobu nadležnog tijela prestane obavljati zadaće sprječavanja, otkrivanja, istrage ili progona teških kaznenih djela ili pružanja potpore kaznenoj istrazi teškog kaznenog djela, što uključuje identifikaciju, praćenje i zamrzavanje imovine povezane s takvom istragom, odnosno kada ovlaštena osoba nadležnog tijela prestane obavljati poslove preuzimanja podataka o broju provedenih pretraživanja informacija o bankovnim računima.

@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 5. Zakona o olakšavanju uporabe financijskih i drugih informacija u svrhu sprječavanja, otkrivanja, istraživanja ili progona teških kaznenih djela (»Narodne novine« br. 151/22., u daljnjem tekstu: Zakon), ministar financija donosi
