@@ -1,0 +1,8 @@
+# Članak 2.
+Članak 25. mijenja se i glasi:
+»(1) Davatelj univerzalne usluge obvezan je izraditi Cjenik pristupa poštanskoj mreži prema načelima određenim u stavcima 2., 3., i 4. ovog članka.
+(2) Cijene pristupa poštanskoj mreži određuju se na način da se cijena za odgovarajuću uslugu iz važećeg cjenika za univerzalnu uslugu umanji za udio aktivnosti koje, temeljem podataka iz posljednjeg revidiranog regulatornog financijskog izvještaja, nisu prisutne u tehnološkom procesu pristupa poštanskoj mreži.
+(3) Korisnik pristupa poštanskoj mreži ostvaruje pravo na operativni i količinski popust. Operativni popust predstavlja umanjenje cijene iz stavka 2. ovog članka za ostvarene uštede u troškovima dijela aktivnosti obavljenih od strane korisnika pristupa poštanskoj mreži. Količinski popust predstavlja umanjenje cijene iz stavka 2. ovog članka koji se odobrava za količine pošiljaka kojima se pristupa poštanskoj mreži od strane korisnika pristupa.
+(4) Pravo na cijene iz stavka 2., i 3. ovog članka ostvaruju korisnici pristupa koji poštanskoj mreži pristupaju s najmanje 10 000 poštanskih pošiljaka ukupno tijekom jednoga kalendarskog mjeseca.
+(5) Cijene pristupa poštanskoj mreži i cijene za pristup podacima iz članka 24. ovog Pravilnika sastavni su dio uvjeta pristupa poštanskoj mreži iz članka 23. stavak 6. ovog Pravilnika koje je davatelj univerzalne usluge obvezan dostaviti HAKOM-u 15 dana prije početka njihove primjene.
+(6) HAKOM može svojom odlukom u cijelosti ili djelomično izmijeniti ili ukinuti cijene pristupa poštanskoj mreži i cijene za pristup podacima iz članka 24. ovog Pravilnika.«

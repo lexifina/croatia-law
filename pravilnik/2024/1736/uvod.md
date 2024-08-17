@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 6., članka 24. stavka 4., članka 30., članka 37. stavka 3., članka 40. stavka 5., članka 41. stavka 4., članka 50. stavka 3. i članka 53. stavka 1. i 4. Zakona o poštanskim uslugama (»Narodne novine«, broj 144/12, 153/13, 78/15 i 110/19) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donosi
