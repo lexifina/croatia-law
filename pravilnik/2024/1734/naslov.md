@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja evidencije i dokumentacije pravnih i fizičkih osoba koje obavljaju djelatnost socijalne skrbi te sadržaj obrazaca za izradu godišnjeg statističkog izvješća sustava socijalne skrbi

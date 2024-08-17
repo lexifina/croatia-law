@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o sadržaju i načinu vođenja evidencije i dokumentacije pravnih i fizičkih osoba koje obavljaju djelatnost socijalne skrbi te sadržaj obrasca za izradu godišnjeg statističkog izvješća sustava socijalne skrbi (»Narodne novine« br. 113/22) naziv Pravilnika mijena se i glasi: »Pravilnik o sadržaju i načinu vođenja evidencije i dokumentacije pravnih i fizičkih osoba koje obavljaju djelatnost socijalne skrbi te sadržaju obrasca za izradu godišnjeg statističkog izvješća sustava socijalne skrbi«.
