@@ -1,0 +1,19 @@
+# Članak 22.
+PRESTANAK
+1. Ova Konvencija može biti okončana glasovanjem Opće skupštine nakon najmanje šest mjeseci od obavijesti o takvom glasovanju.
+2. Datum prestanka je dvanaest mjeseci nakon datuma gore navedene odluke, a u međuvremenu Vijeće je odgovorno za zatvaranje Organizacije u skladu s Općim pravilima.
+U POTVRDU TOGA niže potpisani, propisno ovlašteni od svojih vlada, potpisali su ovu Konvenciju.
+SASTAVLJENO u Parizu 27. siječnja 2021. na arapskom, kineskom, engleskom, francuskom, ruskom i španjolskom jeziku, pri čemu je svaki tekst jednako vjerodostojan, izvornik koje se polaže u arhivima depozitara. Depozitar dostavlja njezine ovjerene preslike svim vladama potpisnicama i vladama koje pristupaju te glavnom tajniku Organizacije.
+DODATAK
+PRIJELAZNI DOGOVORI
+Na XII. Općoj skupštini održanoj u La Coruñi od 25. do 31. svibnja 2014., Međunarodno udruženje uprava pomorske signalizacije i sredstava za pomorsku navigaciju usvojilo je Rezoluciju kojom se potvrđuje da će status međunarodne organizacije najbolje služiti njegovim ciljevima te određujući da takav status treba postići što je prije moguće usvajanjem međunarodne konvencije.
+Kao posljedica toga, članak 13. Statuta Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju izmijenjen je kako bi se olakšao prestanak rada udruženja i prijenos njegove imovine na Organizaciju.
+Svrha prijelaznih dogovora je osigurati stalna međunarodna nastojanja za razvoj, poboljšanje i usklađivanje sredstava za pomorsku navigaciju te olakšati prijelaz iz Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju u Organizaciju.
+1. Stupanjem na snagu ove Konvencije predsjednik, potpredsjednik i Vijeće Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju, pozvani su da postanu predsjednik, potpredsjednik i Vijeće Organizacije i djelovati će do prve Opće skupštine sazvane prema ovoj Konvenciji na kojoj se izaberu predsjednik, potpredsjednik i Vijeće, koju je potrebno održati u roku od šest mjeseci.
+2. Odbori Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju djeluju do uspostavljanja odbora prema ovoj Konvenciji.
+3. Dok se ne uspostavi tajništvo Organizacije, tajništvo Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju pozvano je da služi i obavlja funkcije tajništva. Glavni tajnik Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju djeluje kao glavni tajnik Organizacije dok Opća skupština ne odabere glavnog tajnika u skladu s ovom Konvencijom.
+4. Dok Organizacija ne usvoji Opća pravila, djeluje u skladu s Općim pravilima Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju mutatis mutandis.
+5. Svi nacionalni članovi Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju iz država koje nisu države članice postaju, u skladu sa svojim službenim zahtjevom, pridruženi članovi Organizacije na razdoblje do deset godina od datuma stupanja na snagu ove Konvencije, osim ako Opća skupština ne odluči produžiti to razdoblje.
+6. U slučaju da država koja ima bivšeg nacionalnog člana s pridruženim članstvom u skladu sa stavkom 5. postane država članica, pridruženo članstvo prestaje na dan kad ova Konvencija stupi na snagu za tu državu.
+7. Svi pridruženi i industrijski članovi Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju koji su redoviti s plaćanjem naknada postaju povezani članovi Organizacije, na svoj službeni zahtjev.
+8. Prijenos prava, interesa, imovine i obveza s Međunarodnog udruženja uprava pomorske signalizacije i sredstava za pomorsku navigaciju na Organizaciju, provodit će se u skladu s francuskim zakonima.
