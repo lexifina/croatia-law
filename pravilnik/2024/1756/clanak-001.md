@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o provedbi intervencije 73.02. »Obnova poljoprivrednog potencijala« iz Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. (»Narodne novine«, br. 154/23) (u daljnjem tekstu: Pravilnik) u članku 1. riječi: »Ministarstvo poljoprivrede« zamjenjuju se riječima: »Ministarstva poljoprivrede, šumarstva i ribarstva (u daljnjem tekstu: Ministarstvo poljoprivrede«).
