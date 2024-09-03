@@ -1,0 +1,2 @@
+# Članak 9.
+U cijelom tekstu Pravilnika o načinu organiziranja i izvođenju nastave u strukovnim školama (»Narodne novine«, broj 140/09 i 130/20) riječi: »praktični dio kurikuluma«, »praktični dio strukovnog kurikuluma«, »praktična nastava«, »praktična nastava i vježbe« te »praktična nastava i/ili vježbe« u određenom padežu zamjenjuju se riječima: »učenje temeljeno na radu« u odgovarajućem padežu, a riječ: »kurikulum« u određenom padežu zamjenjuje se riječju: »kurikul« u odgovarajućem padežu.
