@@ -1,0 +1,10 @@
+## IV. FINANCIRANJE
+## Intenzitet i ukupan iznos potpore
+# Članak 9.
+(1) Potpora podrazumijeva dodjelu namjenskih bespovratnih novčanih sredstava za sufinanciranje aktivnosti koje su predmet ovoga Pravilnika.
+(2) Intenzitet potpore iznosi 75 posto ukupnih prihvatljivih troškova sukladno članku 41. stavku 2. i Prilogu III. retku 15. Uredbe (EU) br. 2021/1139.
+(3) Iznimno od stavka 2. ovoga članka, intenzitet potpore iznosi 85 posto ukupnih prihvatljivih troškova u slučaju da korisnik ima sjedište na otocima Dugi otok, Vis, Mljet ili Lastovo.
+(4) Potpora se dodjeljuje po korisniku po godišnjem planu proizvodnje i stavljanja na tržište.
+(5) Ukupan iznos potpore dodijeljene Rješenjem o dodjeli sredstava iz članka 13. stavka 1. točke a) ovoga Pravilnika na godišnjoj razini, ne smije prijeći 12 posto prosječne godišnje vrijednosti proizvodnje koju je korisnik stavio na tržište tijekom zadnje tri kalendarske godine koje prethode godini na koju se Zahtjev za potporu/plan proizvodnje i stavljanja na tržište iz članka 11. stavka 1. ovoga Pravilnika odnosi, a za svaku novopriznatu organizaciju proizvođača ta potpora ne smije prijeći 12 posto prosječne godišnje vrijednosti proizvodnje koju su članovi te organizacije stavili na tržište tijekom zadnje tri kalendarske godine koje prethode godini na koju se Zahtjev za potporu/plan proizvodnje i stavljanja na tržište iz članka 11. stavka 1. ovoga Pravilnika odnosi.
+(6) Najviši iznos potpore koji se može dodijeliti na godišnjoj razini po pojedinoj aktivnosti iz članka 7. stavka 1. ovoga Pravilnika, utvrđuje se primjenom najviših udjela potpore za pojedinu aktivnost u odnosi na najviši ukupni iznos potpore iz stavka 5. ovoga članka, a u skladu sa Prilogom I. ovoga Pravilnika koji je njegov sastavni dio.
+(7) Potpora se može dodijeliti od dana stupanja na snagu ovoga Pravilnika do iskorištenja financijskih sredstava predviđenih za provedbu mjere IV.1. »Planovi proizvodnje i stavljanja na tržište« u okviru Programa, ali uzimajući u obzir razdoblje prihvatljivosti troškova iz članka 7. stavka 4. ovoga Pravilnika.
