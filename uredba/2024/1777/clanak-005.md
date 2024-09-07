@@ -1,0 +1,4 @@
+# Članak 5.
+(1) Procjena ekološkog rizika strane vrste sadrži rezultat u kojem se utvrđuje postoji li ekološki rizik strane vrste.
+(2) Ekološki rizik strane vrste ne može se isključiti ako strana vrsta na teritoriju ili dijelu teritorija Republike Hrvatske u trenutačnim uvjetima i predvidivim uvjetima klimatskih promjena može imati štetan učinak na bioraznolikost ili povezane usluge ekosustava, te se u slučaju iz članka 3. stavka 1. točke 1. ove Uredbe, a temeljem članka 13. stavka 5., članka 15. stavka 5. i članka 18. stavka 6. Zakona stranka obavještava o mogućnosti pokretanja procjene rizika invazivnosti strane vrste.
+(3) Ekološki rizik strane vrste može se isključiti ako strana vrsta na teritoriju ili dijelu teritorija Republike Hrvatske u trenutačnim uvjetima i predvidivim uvjetima klimatskih promjena nema štetan učinak na bioraznolikost ili povezane usluge ekosustava.

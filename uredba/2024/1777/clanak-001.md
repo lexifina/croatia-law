@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom uređuju se kriteriji za utvrđivanje ekološkog rizika stranih vrsta, način izrade te sadržaj, elementi, načela i metodologija koja se treba primijeniti u procjeni rizika invazivnosti stranih vrsta, sadržaj zaključka procjene rizika invazivnosti stranih vrsta te način pribavljanja mišljenja javnosti u postupku procjene rizika, pri utvrđivanju akata planiranja za upravljanje stranim i invazivnim stranim vrstama, u slučaju namjere korištenja invazivnih stranih vrsta koje izazivaju zabrinutost u Republici Hrvatskoj i korištenja invazivnih stranih vrsta koje izazivaju zabrinutost u Uniji.
+(2) Pojmovi u smislu ove Uredbe imaju jednako značenje kao pojmovi definirani Zakonom o sprječavanju unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima (u daljnjem tekstu: Zakon) i Uredbom (EU) br. 1143/2014 Europskog parlamenta i Vijeća od 22. listopada 2014. o sprječavanju i upravljanju unošenja i širenja invazivnih stranih vrsta (SL L 317, 4. 11. 2014., u daljnjem tekstu: Uredba (EU) br. 1143/2014).
+(3) Izrazi koji se koriste u ovoj Uredbi, a imaju rodno značenje, odnose se jednako na muški i ženski rod.

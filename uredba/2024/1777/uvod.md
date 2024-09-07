@@ -1,0 +1,1 @@
+Na temelju članka 21. stavka 6. Zakona o sprječavanju unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima (»Narodne novine«, br. 15/18. i 14/19.), Vlada Republike Hrvatske je na sjednici održanoj 29. kolovoza 2024. donijela
