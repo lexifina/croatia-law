@@ -1,0 +1,5 @@
+# Članak 4.
+Članak 18. mijenja se i glasi:
+»(1) Pravo iz članka 15. ovoga Pravilnika ostvaruje se na način sufinanciranja ili refundacije novčanog iznosa koji može biti jednak ili niži od iznosa kojeg odobrava Hrvatski zavod za zdravstveno osiguranje, ovisno o ukupnoj cijeni traženog pomagala od koje ukupno odobreni i isplaćeni iznos ne može biti viši.
+(2) Iznimno od stavka 1. ovoga članka, može se odobriti viši iznos od iznosa koji odobrava Hrvatski zavod za zdravstveno osiguranje ukoliko je korisnik u teškoj socio-ekonomskom situaciji i teškom medicinskom stanju prema mišljenju Povjerenstva za odobravanje prava na ortopedska i druga pomagala, a ovisno o ukupnoj cijeni traženog pomagala od koje ukupno odobreni i isplaćeni iznos ne može biti viši.
+(3) Iznimno od stavka 1. ovoga članka, može se sufinancirati, odnosno refundirati novčani iznos za pomagalo koje nije na listi Hrvatskog zavoda za zdravstveno osiguranje ukoliko Povjerenstvo za odobravanje prava na ortopedska i druga pomagala utvrdi opravdan razlog, a s obzirom na medicinsko i socio-ekonomsko stanje korisnika.«

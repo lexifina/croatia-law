@@ -1,0 +1,1 @@
+Na temelju članka 25. stavka 11. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, broj 121/17, 98/19, 84/21 i 156/23), uz suglasnost ministra zdravstva, ministar hrvatskih branitelja donosi

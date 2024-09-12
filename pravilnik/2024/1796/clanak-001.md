@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o načinu ostvarivanja prava na zdravstvenu zaštitu hrvatskih branitelja iz Domovinskog rata koja nisu utvrđena kao standard prava iz obveznog zdravstvenog osiguranja (»Narodne novine«, br. 132/22) u članku 8. iza stavka 2. dodaje se stavak 3. koji glasi:
+»(3) U slučaju iz stavka 1. i 2. ovoga članka nakon proteka roka iz stavka 1. i 2. ovoga članka, korisnik može podnijeti novi zahtjev za ostvarivanje prava na bolničku medicinsku rehabilitaciju zbog iste bolesti, iste ozljede ili istog ranjavanja prema odredbama ovoga Pravilnika uz koji mora priložiti novu medicinsku dokumentaciju.«.
