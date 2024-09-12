@@ -1,0 +1,6 @@
+## Promjene i dopune podataka te brisanje iz Upisnika maslinika
+# Članak 7.
+(1) Promjene podataka o pravnim i fizičkim osobama koje se bave uzgojem maslina i podataka o površinama pod nasadima maslina te brisanje poljoprivrednika iz Upisnika maslinika, provode se na temelju podataka koje vodi ili njima raspolaže Agencija za plaćanja.
+(2) Promjene podataka o pravnim i fizičkim osobama iz članka 4. ovoga Pravilnika i promjene podataka o karakteristikama maslinika dostavljaju se Agenciji za plaćanja u roku od 15 dana od nastanka promjena na obrascu iz Priloga IV. ovoga Pravilnika putem sustava AGRONET.
+(3) Dopune podataka u Upisniku maslinika za one površine pod nasadima maslina koje nisu evidentirane u ARKOD sustav, poljoprivrednici iz članka 4. stavka 2. ovoga Pravilnika dostavljaju Agenciji za plaćanja na obrascu iz Priloga IV. ovoga Pravilnika putem sustava AGRONET.
+(4) Promjene podataka o uljarama i trgovcima te njihovo brisanje iz Upisnika maslinika, Agencija za plaćanja može izvršiti i po službenoj dužnosti, ako provjerom i razmjenom informacija s drugim službenim bazama podataka, registrima i upisnicima utvrdi takve promjene, a one nisu prijavljene Agenciji za plaćanja u skladu sa stavkom 2. ovoga članka.

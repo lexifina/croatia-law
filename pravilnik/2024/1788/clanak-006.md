@@ -1,0 +1,7 @@
+## Način i rokovi dostave podataka
+# Članak 6.
+(1) Podatke o količini maslina predanih na preradu i podatke o proizvodnji maslinovog ulja iz članka 3. točke 2. podtočaka 2.1. i 2.2. ovoga Pravilnika dostavljaju uljare do 15. veljače tekuće godine za razdoblje od 1. listopada prethodne kalendarske godine do datuma završetka proizvodnje maslinovog ulja na obrascu iz Priloga II. ovoga Pravilnika.
+(2) Uljare imaju obvezu dostave obrasca iz Priloga I. ovoga Pravilnika područnom uredu Agencije za plaćanja, pisanim putem ili putem elektroničke pošte za proizvođače maslina iz članka 4. stavka 1. točaka a) i b) ovoga Pravilnika najkasnije do 15. veljače tekuće godine.
+(3) Podatke o stanju na zalihama konvencionalnog i/ili ekološkog maslinovoga ulja na dan 30. rujna tekuće godine dostavljaju sve pravne i fizičke osobe iz članka 4. ovoga Pravilnika na obrascu iz Priloga III. ovoga Pravilnika najkasnije do 10. listopada tekuće godine.
+(4) Trgovci iz članka 4. stavka 1. točke d) ovoga Pravilnika dostavljaju podatke iz stavka 3. ovoga članka o zalihama maslinovog ulja koje se nalaze u središnjem distribucijskom centru (ako se radi o jednom distribucijskom centru za područje Republike Hrvatske) ili pojedinim regionalnim distribucijskim centrima (ako se radi o trgovcu koji ima više distribucijskih centara za pojedina regionalna tržišta Republike Hrvatske).
+(5) Podaci iz stavaka 1. i 3. ovoga članka dostavljaju se Agenciji za plaćanja putem sustava AGRONET.
