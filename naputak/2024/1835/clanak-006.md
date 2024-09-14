@@ -1,0 +1,3 @@
+## V. STUPANJE NA SNAGU
+# Članak 6.
+Ovaj Naputak stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
