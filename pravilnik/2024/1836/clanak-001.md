@@ -1,0 +1,3 @@
+# Članak 1.
+U Pravilniku o provedbi intervencije 72.01. Potpora za ograničenje u gospodarenju šumama (NATURA 2000, NKS) iz Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. (»Narodne novine«, broj 86/24) u članku 7. stavak 3. mijenja se i glasi:
+»(3) Ako Agencija za plaćanja tijekom postupka dodjele potpore utvrdi da korisnik ne ispunjava uvjete iz stavaka 1. i 2. ovoga članka, korisnikov zahtjev se odbija, osim u slučaju iz stavka 2. podstavaka b) i c) ovoga članka kada se korisnikov zahtjev ne odbija već se korisniku ne odobrava potpora za katastarske čestice koje nisu ispunile uvjete iz stavka 2. podstavaka b) i c) ovoga članka.«.
