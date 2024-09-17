@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 2. Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu (»Narodne novine«, broj 19/22.), Vlada Republike Hrvatske je na sjednici održanoj 17. rujna 2024. donijela
