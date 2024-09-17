@@ -1,0 +1,1 @@
+Na temelju članka 100. stavka 5. točke 3. Zakona o klimatskim promjenama i zaštiti ozonskog sloja (»Narodne novine«, broj 127/19.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 17. rujna 2024. donijela
