@@ -1,0 +1,6 @@
+# Članak 4.
+Troškovi vanjskih suradnika
+(1) Nužni troškovi vezani uz stjecanje ili prodaju imovine mirovinskih fondova kod kojih mirovinsko društvo koristi usluge vanjskih suradnika odnose se na troškove koji nastaju:
+a) u bilo kojem postupku vezanom uz stjecanje ili prodaju financijske imovine mirovinskog fonda (primjerice postupak dubinskog snimanja nekog društva, izrada analize, postupak preuzimanja dioničkog društva i dr.) u kojem mirovinsko društvo koristi usluge vanjskih suradnika, poput odvjetnika (pravno dubinsko snimanje, savjetovanje, zastupanje u upravnom ili drugom postupku i dr.), savjetnika i/ili revizora (primjerice financijsko i/ili porezno dubinsko snimanje i dr.) ili procjenitelja, za usluge koje su potrebne kao pomoć mirovinskom društvu za donošenje konkretne investicijske odluke
+b) u postupku stjecanja ili prodaje nekretnine za račun mirovinskog fonda u kojem mirovinsko društvo koristi usluge vanjskih suradnika za pravne, porezne ili revizorske usluge, uključujući troškove konzultanata, odvjetnika, računovođa, poreznih savjetnika, financijskih savjetnika i drugih stručnjaka.
+(2) Nužni troškovi iz stavka 1. ovoga članka obuhvaćaju i troškove nastale u slučaju kada nije došlo do realizacije ulaganja mirovinskog fonda.
