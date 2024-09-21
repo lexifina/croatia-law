@@ -1,0 +1,12 @@
+## Praćenje transakcija
+# Članak 45.
+(1) Obveznici bi trebali osigurati da je njihov pristup praćenju transakcija djelotvoran i primjeren.
+(2) Djelotvoran sustav praćenja transakcija oslanja se na ažurirane informacije o strankama i trebao bi obvezniku omogućiti da pouzdano utvrdi neobične i sumnjive transakcije i uzorke transakcija. Obveznici bi trebali osigurati da imaju uspostavljene postupke za preispitivanje označenih transakcija bez nepotrebne odgode.
+(3) Primjerenost će ovisiti o prirodi, veličini i složenosti poslovanja obveznika, kao i o riziku kojem je obveznik izložen. Obveznici bi trebali prilagoditi intenzitet i učestalost praćenja u skladu s pristupom koji se temelji na riziku. Obveznici bi u svakom slučaju trebali utvrditi:
+a) koje će transakcije pratiti u stvarnom vremenu, a koje će transakcije pratiti ex post. U okviru toga obveznici bi trebali utvrditi:
+1. koji će čimbenici visokog rizika ili kombinacija čimbenika visokog rizika uvijek potaknuti praćenje u stvarnom vremenu; i
+2. koje se transakcije povezane s višim rizikom od pranja novca ili financiranja terorizma prate u stvarnom vremenu, posebno transakcije kod kojih je rizik povezan s poslovnim odnosom već povećan;
+b) hoće li ručno pratiti transakcije ili će se koristiti automatiziranim sustavom za praćenje transakcija. Obveznici koji obrađuju velik broj transakcija ili vrlo učestale transakcije trebali bi razmotriti uspostavu automatiziranog sustava za praćenje transakcija;
+c) učestalost praćenja transakcija, uzimajući u obzir zahtjeve iz ovoga Pravilnika;
+d) je li upotreba naprednih analitičkih alata, kao što su alati za analizu distribuiranog zapisa ili lanca blokova, nužni s obzirom na rizik od pranja novca i financiranja terorizma povezan s poslovanjem obveznika i s pojedinačnim transakcijama stranaka obveznika.
+(4) Osim praćenja pojedinačnih transakcija u stvarnom vremenu i ex post praćenja, bez obzira na upotrijebljenu razinu automatizacije, obveznici bi trebali redovito provoditi ex post preispitivanja uzorka svih obrađenih transakcija kako bi utvrdili trendove koji bi mogli poslužiti kao temelj za procjene rizika i testirali te, ako je potrebno, naknadno poboljšali pouzdanost i primjerenost svojeg sustava za praćenje transakcija. Obveznici bi se trebali koristiti i informacijama dobivenima u skladu s člankom 14. stavcima 1. i 2. ovoga Pravilnika kako bi ispitali i poboljšali svoj sustav praćenja transakcija.

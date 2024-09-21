@@ -1,0 +1,5 @@
+## Druga razmatranja
+# Članak 43.
+(1) Obveznici ne bi trebali uspostavljati poslovni odnos ako ne mogu ispuniti zahtjeve provedbe dubinske analize stranke, ako nisu sigurni da su svrha i priroda poslovnog odnosa zakonite ili ako nisu sigurni da mogu djelotvorno upravljati rizikom da ih se može upotrijebiti u svrhe pranja novca ili financiranja terorizma. Ako takav poslovni odnos već postoji, obveznici bi ga trebali prekinuti ili obustaviti provedbu transakcija do prekida poslovnog odnosa, prema potrebi prema uputama tijela za izvršavanje zakona.
+(2) Ako obveznik opravdano sumnja na pokušaj pranja novca ili financiranja terorizma, to je dužan prijaviti Uredu za sprječavanje pranja novca.
+(3) Obveznici bi trebali uzeti u obzir da ih primjena pristupa koji se temelji na procjeni rizika sama po sebi ne obvezuje na odbijanje ili raskid poslovnih odnosa s cjelokupnim kategorijama stranaka koje povezuju s višim rizikom od pranja novca ili financiranja terorizma s obzirom na to da će rizik povezan s pojedinačnim poslovnim odnosima varirati, čak i unutar iste kategorije.

@@ -1,0 +1,7 @@
+## Situacije s nenazočnom strankom
+# Članak 33.
+(1) Kako bi ispunili svoje obveze na temelju članka 15. stavak 1. Zakona, ako se poslovni odnos pokreće, uspostavlja ili provodi na daljinu ili se provodi povremena transakcija na daljinu u skladu sa EBA-inim Smjernicama (EBA/GL/2022/15) o korištenju rješenja za uvođenje stranaka na daljinu prema članku 13. stavku 1. Direktive (EU) 2015/849, obveznici bi trebali:
+a) poduzeti odgovarajuće mjere kako bi se uvjerio da se stranka istinito predstavlja; i
+b) procijeniti dovodi li činjenica da je riječ o odnosu ili povremenoj transakciji s nenazočnom strankom do povećanog rizika od pranja novca ili financiranja terorizma i, ako je to slučaj, u skladu s time prilagoditi svoje mjere dubinske analize stranke. Pri procjeni rizika povezanog s odnosima s nenazočnom strankom obveznik je dužan uzeti u obzir čimbenike rizika utvrđene u odjeljku 2. ovoga Pravilnika.
+(2) Ako je rizik povezan s odnosom ili povremenom transakcijom s nenazočnom strankom povećan, obveznik je dužan primijeniti pojačane mjere dubinske analize u skladu s člankom 37. ovoga Pravilnika. Obveznici posebno trebaju razmotriti bi li pojačane mjere za provjeru identiteta stranke ili pojačano stalno praćenje odnosa bili primjereni.
+(3) Obveznici bi trebali uzeti u obzir činjenicu da upotreba elektroničkih sredstava identifikacije sama po sebi ne dovodi do povećanog rizika od pranja novca i financiranja terorizma, posebno ako se pomoću tih elektroničkih sredstava osigurava visoka razina sigurnosti u skladu s Uredbom (EU) 910/2014.

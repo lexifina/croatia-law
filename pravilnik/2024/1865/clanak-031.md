@@ -1,0 +1,5 @@
+## Identificiranje stvarnog vlasnika poduzeća u vlasništvu države ili javne uprave
+# Članak 31.
+(1) Ako je stranka poduzeće u vlasništvu države ili javne uprave, obveznici bi trebali slijediti članak 30. stavak 3. i 4. ovoga Pravilnika kako bi identificirali višeg rukovoditelja.
+(2) U tim slučajevima, osobito ako je rizik povezan s odnosom povećan, primjerice zato što je državno poduzeće iz zemlje koja je povezana s visokom razinom korupcije, obveznici bi trebali poduzeti mjere na temelju procjene rizika kako bi utvrdili da je stranka osobu koju su identificirali kao stvarnog vlasnika propisno ovlastila da djeluje u ime stranke.
+(3) Obveznici bi ujedno trebali uzeti u obzir mogućnost da viši rukovoditelj stranke bude politički izložena osoba. U tom je slučaju obveznik dužan na tog višeg rukovoditelja primijeniti pojačane mjere dubinske analize u skladu s člankom 47. Zakona te procijeniti mjeru u kojoj politički izložena osoba može utjecati na stranku i nastaje li zbog toga povećan rizik od pranja novca i financiranja terorizma te je li potrebno na stranku primijeniti pojačane mjere dubinske analize.

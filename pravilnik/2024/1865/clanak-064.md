@@ -1,0 +1,7 @@
+## ODJELJAK 3.
+## UPRAVLJANJE IMOVINOM
+# Članak 64.
+(1) Upravljanje imovinom pružanje je bankovnih i drugih financijskih usluga pojedincima velike platežne moći i njihovim obiteljima ili poduzećima. Poznato je i kao privatno bankarstvo. Stranke od društava za upravljanje imovinom mogu očekivati predano osoblje za upravljanje odnosom koje treba pružati prilagođene usluge koje, primjerice obuhvaćaju bankovne usluge (npr. tekući računi, hipoteke i kupoprodaja valuta), upravljanje ulaganjima i savjetovanje, fiducijarne usluge, iznajmljivanje sefova, osiguranje, usluge društva za savjetovanje o upravljanju imovinom (engl. family office), planiranje u porezne svrhe i u vezi s nekretninama te povezane pomoćne usluge, uključujući pravnu podršku.
+(2) Mnoge od značajki koje se uobičajeno povezuju s upravljanjem imovinom, kao što su bogate i utjecajne stranke, transakcije i portfelji velike vrijednosti, složeni proizvodi i usluge, uključujući prilagođene investicijske proizvode, te očekivanje povjerljivosti podataka i diskrecije upućuju na viši rizik od pranja novca u odnosu na rizik koji je uobičajeno prisutan u poslovanju banaka s građanstvom. Usluge društava za upravljanje imovinom mogu biti posebno osjetljive na zlouporabu stranaka koje žele prikriti podrijetlo svojih novčanih sredstava ili, primjerice, izbjeći oporezivanje u svojoj jurisdikciji.
+(3) Obveznici u tom sektoru trebaju uzeti u obzir sljedeće čimbenike rizika i mjere, uz one utvrđene glavom II. ovoga Pravilnika.
+Pododjeljak 1.

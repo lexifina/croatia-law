@@ -1,0 +1,5 @@
+## Povezivanje procjena rizika cjelokupnog poslovanja i pojedinačnih procjena rizika
+# Članak 9.
+(1) Obveznik je dužan upotrijebiti nalaze svoje procjene rizika cjelokupnog poslovanja kako bi prikupio informacije za donošenje politika, kontrola i postupaka za sprječavanje pranja novca i financiranja terorizma, kako je utvrđeno u članku 13. stavcima 1., 2. i 3. Zakona. Obveznik je dužan osigurati da njegova procjena rizika cjelokupnog poslovanja odražava i korake poduzete za procjenu rizika od pranja novca i financiranja terorizma povezanog s pojedinačnim poslovnim odnosima ili povremenim transakcijama te njegovu sklonost preuzimanju rizika od pranja novca i financiranja terorizma.
+(2) Kako bi se uskladio sa stavkom 1. ovoga članka te uzimajući u obzir članak 10. stavke 1. i 2. ovoga Pravilnika, obveznik je dužan upotrebljavati procjenu rizika cjelokupnog poslovanja kako bi postavio početni temelj za dubinsku analizu stranke koju će primjenjivati u specifičnim situacijama te na određene vrste stranaka, proizvoda, usluga i kanala isporuke.
+(3) Pojedinačne procjene rizika trebaju biti temelj, ali ne i zamjena za procjenu rizika cjelokupnog poslovanja.

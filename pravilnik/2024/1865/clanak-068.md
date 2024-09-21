@@ -1,0 +1,4 @@
+## Mjere
+## Općenito
+# Članak 68.
+Zaposlenik društva za upravljanje imovinom koji upravlja poslovnim odnosom sa strankom (voditelj poslovnog odnosa) obično ima ključnu ulogu u procjeni rizika. Bliski kontakt voditelja poslovnog odnosa sa strankom olakšat će prikupljanje informacija koje će dati potpuniju sliku svrhe i prirode poslovanja stranke koju je potrebno oblikovati (npr. spoznaja o izvoru imovine stranke, odredište novčanih sredstava, razlog zašto složeni i neobični aranžmani ipak mogu biti stvarni i u skladu sa zakonom te zašto dodatno osiguranje može biti primjereno). Međutim, taj bliski kontakt može dovesti i do sukoba interesa ako voditelj poslovnog odnosa postane preblizak stranci, na štetu napora obveznika da upravlja rizikom od financijskog kriminala. Kao posljedica toga bit će primjeren i neovisni nadzor procjene rizika, a provode ga, primjerice, odjel za praćenje usklađenosti i više rukovodstvo.
