@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 4. Zakona o radu (»Narodne novine«, broj 93/14, 27/17, 98/19, 151/22 i 64/23 - Odluka Ustavnog suda Republike Hrvatske), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi

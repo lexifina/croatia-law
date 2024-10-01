@@ -1,0 +1,3 @@
+## Dužnost vođenja evidencije o radnom vremenu određenih kategorija radnika
+# Članak 21.
+Poslodavac je dužan za radnike za koje, zbog posebnosti njihovih poslova, radno vrijeme nije moguće mjeriti ili unaprijed odrediti ili ga radnik određuje samostalno (radnik koji ima status rukovodeće osobe, radnik član obitelji poslodavca fizičke osobe koji živi u zajedničkom kućanstvu s poslodavcem i koji u radnom odnosu obavlja određene poslove za poslodavca i sl.), voditi podatke potrebne za ostvarivanje prava iz radnog odnosa, a ako s poslodavcem nisu ugovorili samostalnost u određivanju najdužeg trajanja tjednog radnog vremena, noćnom radu te dnevnom i tjednom odmoru, dužan je za te radnike voditi i sve podatke iz članka 13. ovoga Pravilnika.

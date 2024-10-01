@@ -1,0 +1,7 @@
+# Članak 14.
+(1) Poslodavac koji se u smislu propisa kojim se propisuje zajamčena razina zaštite uvjeta rada i prava upućenih radnika smatra stranim poslodavcem i koji u okviru prekograničnog pružanja usluga upućuje radnika na ograničeno vrijeme na rad u Republiku Hrvatsku, dužan je za vrijeme trajanja upućivanja u Republici Hrvatskoj, voditi u pisanom ili elektroničkom obliku evidenciju iz članka 13. stavka 1. ovoga Pravilnika, a osobito podatke o početku, trajanju i završetku radnog vremena upućenoga radnika.
+(2) Poslodavac iz stavka 1. ovoga članka dužan je evidenciju iz članka 13. stavka 1. ovoga Pravilnika čuvati tijekom razdoblja upućivanja na mjestu rada ili drugom jasno određenom i dostupnom mjestu u Republici Hrvatskoj.
+(3) Osoba koju je poslodavac iz stavka 1. ovoga članka ovlastio i imenovao da tijekom razdoblja upućivanja čuva evidenciju iz članka 13. stavka 1. ovoga Pravilnika na mjestu rada ili drugom jasno određenom i dostupnom mjestu u Republici Hrvatskoj, dokumentaciju je dužna dostaviti i dati na uvid nadležnom tijelu prevedenu na hrvatski jezik.
+(4) Nakon prestanka razdoblja upućivanja radnika na rad u Republiku Hrvatsku, poslodavac iz stavka 1. ovoga članka dužan je u razdoblju od pet godina za radnika čuvati te na zahtjev nadležnog tijela Republike Hrvatske dostaviti evidenciju iz članka 13. stavka 1. ovoga Pravilnika.
+Način bilježenja podataka u evidenciji
+o radnom vremenu

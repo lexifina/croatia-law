@@ -1,0 +1,5 @@
+# Članak 18.
+(1) Svaki postupak obrade koji se obavlja na podacima o radnom vremenu, provodi se u skladu s odredbama Zakona o radu kojima se uređuje zaštita privatnosti radnika i u skladu s propisima kojima se uređuje zaštita osobnih podataka.
+(2) Poslodavac je dužan točno voditi evidenciju o radnom vremenu radnika, na način propisan ovim Pravilnikom, uz mogućnost korištenja odgovarajućih kratica čije je značenje prethodno, u pisanom dokumentu, nedvojbeno i jasno objašnjeno.
+(3) Poslodavac je dužan zaštititi i pohraniti podatke o radniku iz evidencije o radnom vremenu te evidenciju čuvati najmanje šest godina računajući od isteka godine u kojoj je dokumentacija nastala, odnosno do pravomoćnog okončanja spora, ako poslodavac ima saznanja da je pokrenut radni spor u pogledu ostvarenja prava iz radnog odnosa odnosno u vezi s radnim odnosom.
+(4) Na čuvanje i pohranu dokumentacije s podacima o radniku iz evidencije o radnom vremenu, na odgovarajući se način primjenjuju odredbe članka 9. stavaka 3. do 7. ovoga Pravilnika.
