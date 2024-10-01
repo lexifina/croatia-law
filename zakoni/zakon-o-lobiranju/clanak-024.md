@@ -1,0 +1,8 @@
+## Vrsta mjera zbog nepoštivanja odredbi ovoga Zakona
+# Članak 24.
+(1) Pisano upozorenje izriče se pravnoj osobi lobistu koja ne podnese zahtjev za upis promjene podataka u Registru lobista (članak 16. stavak 1.).
+(2) Novčana sankcija u iznosu od 500,00 eura do 3000,00 eura i/ili pisano upozorenje izreći će se pravnoj osobi lobistu koji ne podnese izvještaj o provedenim lobiranjima u roku iz članka 19. stavka 1., odnosno stavka 2. ovoga Zakona ili ne podnese dopune o podnesenim izvještajima u roku iz članka 20. stavka 5. ovoga Zakona ili ne podnese dopune, objašnjenja ili dokaze o podnesenim izvještajima u roku iz članka 21. stavka 2. ovoga Zakona.
+(3) Novčana sankcija u iznosu od 500,00 eura do 3000,00 eura izreći će se za povrede iz stavka 2. ovoga članka i odgovornoj osobi u pravnoj osobi.
+(4) Pisano upozorenje izriče se lobistu fizičkoj osobi koji ne podnese zahtjev za upis promjena podataka u Registru lobista (članak 16. stavak 1.).
+(5) Novčana sankcija u iznosu od 500,00 eura do 3000,00 eura i/ili pisano upozorenje izreći će se lobistu fizičkoj osobi koji ne podnese izvještaj o provedenim lobiranjima u roku iz članka 19. stavka 1. odnosno stavka 2. ovoga Zakona ili ne podnese dopune o podnesenim izvještajima u roku iz članka 20. stavka 5. ovoga Zakona ili ne podnese dopune, objašnjenja ili dokaze o podnesenim izvještajima u roku iz članka 21. stavka 2. ovoga Zakona.
+(6) Novčana sankcija u iznosu od 200,00 eura do 1000,00 eura može se izreći lobistu koji ne postupi prema pisanom upozorenju iz stavka 1. ili 4. ovoga članaka u roku koji odredi Povjerenstvo, a koji ne može biti kraći od 30 dana.
