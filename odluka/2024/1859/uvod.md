@@ -1,0 +1,1 @@
+Na temelju članka 94. stavka 2. podstavka 4. i članka 119. stavka 7. Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, br. 119/22.), Zbor veleučilišta Republike Hrvatska na svojoj 6. sjednici održanoj 5. rujna 2024. donosi
