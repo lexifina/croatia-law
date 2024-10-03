@@ -1,0 +1,3 @@
+# Članak 6.
+(1) Isplata novčane naknade za predsjednike Vijeća, članove, tajnike i zapisničare Prvostupanjskog disciplinskog suda Carinske uprave i Drugostupanjskog disciplinskog suda Carinske uprave vrši se na temelju posebnih izvješća koja po završenim predmetima na koje se naknade odnose, sastavlja i potpisuje tajnik Prvostupanjskog disciplinskog suda Carinske uprave, odnosno tajnik Drugostupanjskog disciplinskog suda Carinske uprave, uz supotpis predsjednika Vijeća u konkretnom predmetu i predsjednika Prvostupanjskog disciplinskog suda Carinske uprave, odnosno predsjednika Drugostupanjskog disciplinskog suda Carinske uprave.
+(2) Ravnatelj Carinske uprave odobrava isplate novčanih naknada po izvješćima iz stavka 1. ovoga članka.
