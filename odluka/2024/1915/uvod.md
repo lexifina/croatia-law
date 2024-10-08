@@ -1,0 +1,1 @@
+Na temelju točke II. Odluke o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj (»Narodne novine« broj 104/24.) ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
