@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točaka 1. i 2. i članka 26. stavka 11. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17, 130/17 - Zakon o akvakulturi, 14/19, 30/23 i 14/24), ministar poljoprivrede, šumarstva i ribarstva donosi
