@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/19, 42/20) te članka 67. Statuta Turističke zajednice grada Zagreba, Skupština Turističke zajednice grada Zagreba na svojoj 12. sjednici, 1. listopada 2024. godine donosi
