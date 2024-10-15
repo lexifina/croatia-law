@@ -1,0 +1,13 @@
+# Članak 38.
+(1) Skupština Komore će razriješiti predsjednika ili člana Etičkog odbora ili predsjednika ili člana Suda časti Komore prije isteka mandata ako:
+- to osobno zatraži
+- krši propise i opće akte Komore
+- ne provodi odluke tijela Komore
+- nesavjesnim ili nepravilnim radom prouzroči Komori veću štetu
+- kada zbog drugih razloga ocijeni da više ne može izvršavati povjerene ovlasti.
+(2) Predsjednik ili član Etičkog odbora ili predsjednik ili član Suda časti Komore koji želi biti razriješen obvezan je o tome pisanim putem obavijestiti predsjednika Komore.
+(3) U slučaju zaprimanja obavijesti iz stavka 2. ovoga članka, predsjednik Komore je obvezan u roku od 15 dana od zaprimanja pisane obavijesti sazvati Skupštinu radi odlučivanja o razrješenju.
+(4) U slučajevima iz stavka 1. ovoga članka, izuzev slučaja iz stavka 1. alineje 1., najmanje petina članova Komore može pisanim putem zatražiti razrješenje predsjednika ili člana Etičkog odbora ili predsjednika ili člana Suda časti Komore. Uz zahtjev koji mora biti obrazložen, dostavlja se i popis članova koji traže razrješenje s članskim brojem, OIB-om i vlastoručnim potpisom.
+(5) Zahtjev za razrješenje s prilozima iz stavka 4. ovoga članka dostavlja se predsjedniku Komore.
+(6) U slučajevima zaprimanja zahtjeva iz stavka 4. ovoga članka, predsjednik Komore je obvezan u roku od 15 dana od zaprimanja zahtjeva sazvati Skupštinu radi odlučivanja o razrješenju.
+(7) U slučajevima kada Skupština, temeljem podnesenog zahtjeva iz stavka 4. ovoga članka, ne izglasa razrješenje predsjednika ili člana Etičkog odbora ili predsjednika ili člana Suda časti, takav zahtjev se za istog člana tijela Komore ne može ponovno podnijeti prije isteka roka od šest mjeseci od dana održavanja sjednice Skupštine na kojoj se glasalo o razrješenju.

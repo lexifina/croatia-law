@@ -1,0 +1,1 @@
+Na temelju članka 28. Zakona o edukacijsko-rehabilitacijskoj djelatnosti (»Narodne novine« broj 18/22) Skupština Hrvatske komore edukacijskih rehabilitatora, uz prethodnu suglasnost ministarstva nadležnog za poslove socijalne skrbi, na sjednici održanoj 1. listopada 2024. godine, donosi
