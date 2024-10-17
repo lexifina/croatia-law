@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuju uvjeti i postupak provođenja službenog nadzora skupina poljoprivrednog reprodukcijskog materijala iz članka 1. stavka 3. Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja (»Narodne novine« broj 110/21.) (u daljnjem tekstu: Zakon), program osposobljavanja nadzornika te način i sadržaj vođenja evidencije uzoraka reprodukcijskog materijala priznate sorte.
