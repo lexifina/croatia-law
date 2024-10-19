@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 2. Zakona o podacima i informacijama u zdravstvu (»Narodne novine«, broj 14/19), na prijedlog Hrvatskog zavoda za javno zdravstvo, Hrvatskog zavoda za hitnu medicinu, Hrvatskog zavoda za transfuzijsku medicinu, Hrvatskog zavoda za zdravstveno osiguranje i Agencije za lijekove i medicinske proizvode, ministar zdravstva donosi
