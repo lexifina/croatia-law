@@ -1,0 +1,19 @@
+## Pojmovi u ovoj Uredbi
+# Članak 3.
+Pojedini pojmovi u ovoj Uredbi imaju sljedeće značenje:
+1. Centralizirani sustav za zapošljavanje je informacijski sustav u kojem se planira zapošljavanje, objavljuje interni oglas za popunjavanje radnih mjesta u državnoj službi (u daljnjem tekstu: interni oglas), javni poziv za iskazivanje interesa za rad u državnoj službi (u daljnjem tekstu: javni poziv) i javni natječaj za prijam u državnu službu (u daljnjem tekstu: javni natječaj), podnose prijave na interni oglas, javni poziv i javni natječaj i provodi testiranje kandidata elektroničkim putem, pozivaju kandidati na intervju, objavljuje odluka o izboru kandidata u postupku internog oglasa i rješenje o prijmu u državnu službu, vodi baza podataka o kandidatima u postupku internog oglasa i javnog natječaja i baza podataka o kandidatima za rad u državnoj službi te obavljaju drugi poslovi vezani za zapošljavanje u državnoj službi
+2. državno tijelo koje zapošljava je državno tijelo u kojem se popunjava radno mjesto u postupku internog oglasa, javnog poziva odnosno javnog natječaja
+3. formalni uvjeti za raspored na radno mjesto su uvjeti za prijam u državnu službu i raspored na radno mjesto navedeni u internom oglasu, javnom pozivu odnosno javnom natječaju, u skladu sa zakonom kojim se uređuju prava i obveze državnih službenika i posebnim zakonu te pravilnikom o unutarnjem redu
+4. kandidat je fizička osoba prijavljena na interni oglas, javni poziv odnosno javni natječaj
+5. kompetencije su znanja, vještine, sposobnosti i odgovarajuća ponašanja državnih službenika potrebna za uspješno obavljanje poslova radnog mjesta, koje se dijele na opće, rukovodeće i specifične
+6. kompetencije koje su elektronički provjerljive su kompetencije koje se mogu testirati putem računala, odnosno za koje je moguće izraditi zadatke koji se rješavaju računalno i za koje se rezultati mogu bodovati automatizirano
+7. kompetencije koje nisu elektronički provjerljive su kompetencije koje se ne mogu testirati putem računala, odnosno za koje nije moguće izraditi zadatke koji se rješavaju računalno i za koje se rezultati ne mogu bodovati automatizirano
+8. konačna rang-lista je lista kandidata utvrđena prema ponderiranom zbroju bodova koje su kandidati ostvarili na testiranju i intervjuu
+9. korisnik je fizička osoba koja ima otvoren korisnički profil u Centraliziranom sustavu za zapošljavanje
+10. korisnički pretinac je usluga portala e-Građani, koja omogućava primanje službenih poruka vezanih uz javne usluge, postupke odnosno njihov tijek i statuse te njihov pregled, upravljanje i pohranu
+11. korisnički profil je profil korisnika otvoren u Centraliziranom sustavu za zapošljavanje, u kojem se nalaze potrebni podaci za postupak prijave na interni oglas, javni poziv i javni natječaj
+12. testiranje kompetencija je provjera kompetencija određene razine u Centraliziranom sustavu za zapošljavanje u testnim centrima na računalima koje osigurava tijelo državne uprave nadležno za službeničke odnose i provjera kompetencija određene razine koju provodi državno tijelo koje zapošljava
+13. ponder je numerička vrijednost koja određuje važnost pojedine kompetencije za uspješno obavljanje poslova radnog mjesta, izražena na ljestvici od 0 do 100 %, i koristi se za izračun rezultata testiranja
+14. rang-lista je lista kandidata prema ukupnom rezultatu ostvarenom na testiranju kompetencija u postupku javnog natječaja i lista kandidata prema rezultatu ostvarenom na strukturiranom intervjuu u postupku internog oglasa
+15. temeljni registar je javni registar u kojem se prikuplja i vodi najmanje jedan autentični podatak, a koji je kao temeljni određen odlukom Vlade u skladu s propisima o državnoj informacijskoj infrastrukturi
+16. testni centri su prostori u kojima tijelo državne uprave nadležno za službeničke odnose provodi testiranje kompetencija kandidata u postupku zapošljavanja.

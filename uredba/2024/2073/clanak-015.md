@@ -1,0 +1,5 @@
+## Pravo rada u Centraliziranom sustavu za zapošljavanje
+# Članak 15.
+(1) Pravo pristupa podacima i pravo rada u Centraliziranom sustavu za zapošljavanje u odnosu na planiranje i provedbu zapošljavanja u državnim tijelima imaju državni službenici tijela državne uprave nadležnog za službeničke odnose, koje imenuje čelnik tijela, u skladu s dodijeljenim ovlastima.
+(2) Pravo pristupa podacima i pravo rada u Centraliziranom sustavu za zapošljavanje u odnosu na planiranje zapošljavanja u državnim tijelima vezano uz procjenu financijskih sredstava imaju državni službenici tijela državne uprave nadležnog za financije, koje imenuje čelnik tijela, u skladu s dodijeljenim ovlastima.
+(3) Pravo pristupa podacima i pravo rada u Centraliziranom sustavu za zapošljavanje u odnosu na planiranje i provedbu zapošljavanja u određenom državnom tijelu, koje planira zapošljavanje odnosno državnom tijelu koje zapošljava, imaju državni službenici koje imenuje čelnik tog tijela, u skladu s dodijeljenim ovlastima.
