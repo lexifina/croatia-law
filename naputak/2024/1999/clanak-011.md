@@ -1,0 +1,2 @@
+# Članak 11.
+Osim Ministarstvu financija, u smislu članka 3. stavka 1. točke i) ovoga Naputka, obveznici dostave podataka dostavljaju i izravno nositeljima službene statistike u Republici Hrvatskoj - Hrvatskoj narodnoj banci i Državnom zavodu za statistiku, preliminarne podatke izvršenja protekle-izvještajne godine za potrebe izrade Fiskalnog izvješća Republike Hrvatske koje se podnosi Eurostatu do 31. ožujka, te tromjesečne podatke izvršenja za potrebe izrade tromjesečnih izvještaja po statističkoj metodologiji ESA 2010.
