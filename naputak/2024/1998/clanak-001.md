@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Naputkom propisuje se obveznicima utvrđenima u članku 5. stavku 2. Zakona o proračunu (»Narodne novine«, br. 144/21, u daljnjem tekstu: Zakon) obveza dostave dodatnih podataka odnosno operativnih izvještaja ako učestalost izvještavanja, stupanj razrade ili druge značajke koje su općenito propisane za financijske izvještaje nisu dostatne za potrebe tekućeg praćenja poslovanja pojedinog izvanproračunskog korisnika i/ili za sastavljanje statističkih informacija iz članaka 142. i 143. Zakona.
+(2) Pojmovi koji se koriste u ovom Naputku, a nisu posebno definirani odredbama ovoga Naputka imaju značenje propisano Zakonom i podzakonskim propisima donesenima na temelju njega.

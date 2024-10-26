@@ -1,0 +1,2 @@
+# Članak 2.
+Obveznici primjene ovoga Naputka su izvanproračunski korisnici državnog proračuna iz skupine I., osim onih čije je poslovanje obuhvaćeno sustavom Državne riznice: Hrvatskog zavoda za zapošljavanje, koji je proračunski korisnik državnog proračuna, ali se iznimno za potrebe računovodstvenih i drugih proračunskih evidencija i izvještaja smatra izvanproračunskim korisnikom, sukladno pravilniku kojim se propisuje proračunsko računovodstvo i računski plan, te Hrvatskog zavoda za mirovinsko osiguranje (u daljnjem tekstu: obveznici izvještavanja).

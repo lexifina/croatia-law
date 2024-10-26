@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Dodatni podaci u smislu ovoga Naputka prvenstveno su procjene izvršenja tekuće godine prije njenog završetka i projekcije za naredno srednjoročno razdoblje, koje su obveznici izvještavanja dužni na zahtjev dostaviti Ministarstvu financija, za dokumente koji predstavljaju osnove procesa donošenja proračuna i financijskih planova utvrđenih u člancima 21. do 27. Zakona.
+(2) Za dostavu podataka iz stavka 1. ovoga članka koristi se uz neophodne modifikacije obrazac operativnog izvještaja iz članka 3. ovoga Naputka, a dostavljaju se i drugi podaci u skladu s člankom 6. ovoga Naputka.
