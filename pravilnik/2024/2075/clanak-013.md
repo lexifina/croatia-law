@@ -1,0 +1,12 @@
+## Dodjela bodova i rangiranje zahtjeva za potporu
+# Članak 13.
+(1) Nakon administrativne kontrole pristiglih Zahtjeva za potporu, potpunim i pravovremenim Zahtjevima za potporu dodijelit će se bodovi temeljem kriterija za odabir koje odobrava Odbor za praćenje provedbe Programa za ribarstvo i akvakulturu Republike Hrvatske za programsko razdoblje 2021. - 2027. godine i koji se propisuju Natječajem.
+(2) Na temelju dodijeljenih bodova sukladno stavku 1. ovoga članka, bit će izrađena Rang-lista.
+(3) Zahtjevi za potporu koji ostvare manje od minimalnog broja bodova se na Rang-listi iskazuju ispod praga minimalnog broja bodova te se za njih ne provode postupci iz stavaka 4. do 8. ovoga članka.
+(4) U slučaju da dva ili više Zahtjeva za potporu nakon dodjele bodova sukladno stavku 1. ovoga članka imaju isti broj bodova, a nalaze se iznad praga minimalnog broja bodova, izvršit će se rangiranje tih zahtjeva na temelju ranijeg vremena podnošenja Zahtjeva za potporu na način da prioritet ide sljedećim redoslijedom:
+a) Zahtjevi za potporu zaprimljeni potpuni do roka za podnošenje Zahtjeva za potporu propisanoga Natječajem odnosno za koje nije bilo potrebe za izdavanjem Zahtjeva za dopunu Zahtjeva za potporu
+b) Zahtjevi za potporu zaprimljeni nepotpuni odnosno za koje je Upravljačko tijelo izdalo Zahtjev za dopunu Zahtjeva za potporu.
+(5) Vremenom podnošenja potpunog Zahtjeva za potporu za Zahtjeve sukladno stavku 4. točki a) ovoga članka smatra se trenutak slanja (datum, sat, minuta) potpunog Zahtjeva za potporu putem sustava FISHNET.
+(6) Vremenskim rokom potrebnim za podnošenje potpunog Zahtjeva za potporu za Zahtjeve sukladno stavku 4. točki b) ovoga članka smatra se vrijeme proteklo od vremena zaprimanja Zahtjeva za dopunu Zahtjeva za potporu u skladu sa člankom 12. stavkom 6. ovoga Pravilnika (datum, sat, minuta) do trenutka podnošenja dopune/obrazloženja/ispravka (datum, sat, minuta).
+(7) Ako Zahtjevi iz stavka 4. točke b) ovoga članka imaju jednaki broj bodova i jednako vrijeme podnošenja dopune/obrazloženja/ispravka, prednost imaju Zahtjevi za potporu s ranijim vremenom podnošenja Zahtjeva za potporu (datum, sat, minuta).
+(8) Ako dva ili više Zahtjeva za potporu imaju jednaki broj bodova i jednako vrijeme podnošenja dopune/obrazloženje/ispravka odnosno podnošenja Zahtjeva za potporu, provest će se postupak izvlačenja slučajnim odabirom, u prisutnosti javnog bilježnika.
