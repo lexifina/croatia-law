@@ -1,0 +1,6 @@
+## Promidžba kroz prikaz poslovanja Društva
+# Članak 3.
+(1) Rezultatom poslovanja Društva smatraju se informacije o vrijednosti tehničkih pričuva, prinosu ulaganja, strukturi tehničkih pričuva i ukupnim troškovima, odnosno sve informacije kojima je cilj prikazati poslovanje Društva.
+(2) Rezultati iz stavka 1. ovoga članka objavljuju se uz napomenu da ne predstavljaju indikaciju i nemaju nikakav utjecaj na buduće rezultate poslovanja Društva.
+(3) Promidžbene informacije koje sadržavaju podatke o financijskom stanju, položaju na tržištu i rezultatima poslovanja, Društvo je dužno dostaviti Hanfi najkasnije 15 (petnaest) dana prije njihovog korištenja ili objave, zajedno s mišljenjima iz članka 8. ovoga Pravilnika, a u slučaju da promidžbene informacije i/ili podaci iz ovog stavka upućuju ili se pozivaju na podatke i/ili izračune iz kalkulatora za informativni izračun mirovine iz članka 6. stavka 1. točke 11. ovoga Pravilnika, i mišljenjem iz članka 6. stavka 3. ovoga Pravilnika i ne smiju se objaviti sve dok Hanfa ne potvrdi Društvu da je korištenje predmetnih informacija dopušteno.
+(4) Informacije iz ovoga članka prikazuju se na jednom mjestu na mrežnoj stranici Društva ili u promidžbenom materijalu i moraju sadržavati vremensko razdoblje koje obuhvaćaju.
