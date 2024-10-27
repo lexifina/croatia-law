@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave mirovinskog osiguravajućeg društva koji čini Prilog 1. Pravilnika zamjenjuje se Zahtjevom za izdavanje odobrenja za obavljanje funkcije člana uprave/člana nadzornog odbora mirovinskog osiguravajućeg društva koji čini Prilog 1. ovog Pravilnika i njegov je sastavni dio.
+(2) Upitnik za kandidata za člana uprave i člana nadzornog odbora mirovinskog osiguravajućeg društva koji čini Prilog 2. Pravilnika zamjenjuje se novim Upitnikom za kandidata za člana uprave i člana nadzornog odbora mirovinskog osiguravajućeg društva koji čini Prilog 2. ovog Pravilnika i njegov je sastavni dio.
