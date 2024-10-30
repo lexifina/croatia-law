@@ -1,0 +1,38 @@
+## Proglašavam Izmjene i dopune Državnog proračuna Republike Hrvatske za 2024. godinu i projekcija za 2025. i 2026. godinu, koje je Hrvatski sabor donio na sjednici 25. listopada 2024.
+## Klasa: 011-02/24-02/55
+## Urbroj: 71-10-01/1-24-2
+## Zagreb, 25. listopada 2024.
+## Predsjednik
+## Republike Hrvatske
+## Zoran Milanović, v. r.
+## IZMJENE I DOPUNE DRŽAVNOG PRORAČUNA REPUBLIKE HRVATSKE ZA 2024. GODINU
+## I PROJEKCIJA ZA 2025. I 2026. GODINU
+## I. OPĆI DIO
+# Članak 1.
+U Državnom proračunu Republike Hrvatske za 2024. godinu (»Narodne novine«, br. 149/23) u članku 1. mijenjaju se: A. Sažetak računa prihoda i rashoda za 2024. godinu i B. Sažetak računa financiranja za 2024. godinu, kako slijedi:
+A. SAŽETAK RAČUNA PRIHODA I RASHODA
+Brojčana oznaka i naziv | Plan
+2024. | Povećanje/
+smanjenje | Novi plan
+2024.
+1 | 2 | 3 | 4
+6 PRIHODI POSLOVANJA | 28.431.548.623 | 1.719.990.345 | 30.151.538.968
+7 PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 87.067.418 | 93.808.939 | 180.876.357
+PRIHODI UKUPNO | 28.518.616.041 | 1.813.799.284 | 30.332.415.325
+3 RASHODI POSLOVANJA | 30.524.360.604 | 1.193.125.825 | 31.717.486.429
+4 RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 2.086.621.211 | -217.514.388 | 1.869.106.823
+RASHODI UKUPNO | 32.610.981.815 | 975.611.437 | 33.586.593.252
+RAZLIKA - VIŠAK/MANJAK | -4.092.365.774 | 838.187.847 | -3.254.177.927
+B. SAŽETAK RAČUNA FINANCIRANJA
+Brojčana oznaka i naziv | Plan
+2024. | Povećanje/
+smanjenje | Novi plan
+2024.
+1 | 2 | 3 | 4
+8 PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 8.161.510.988 | -1.613.945.683 | 6.547.565.305
+5 IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 4.522.753.216 | 2.886.438 | 4.525.639.654
+RAZLIKA PRIMITAKA I IZDATAKA | 3.638.757.772 | -1.616.832.121 | 2.021.925.651
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 2.113.302.554 | 1.641.873.514 | 3.755.176.068
+PRIJENOS SREDSTAVA U SLJEDEĆE RAZDOBLJE | -1.659.694.552 | -863.229.240 | -2.522.923.792
+NETO FINANCIRANJE | 4.092.365.774 | -838.187.847 | 3.254.177.927
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0 | 0 | 0
