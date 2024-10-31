@@ -1,0 +1,7 @@
+# Članak 6.
+Članak 19. mijenja se i glasi:
+»(1) Zakupnik nema pravo poslovni prostor ili dio poslovnoga prostora dati u podzakup, osim ako nije drukčije ugovoreno.
+(2) Poslovni prostor ili dio poslovnoga prostora u vlasništvu Republike Hrvatske odnosno jedinice lokalne ili područne (regionalne) samouprave nije dopušteno dati u podzakup niti je zakupniku dopušteno po bilo kojoj pravnoj osnovi dati trećoj osobi na korištenje ili sukorištenje poslovni prostor odnosno na bilo koji način omogućiti trećoj osobi korištenje nekretnine koje po svojem sadržaju odgovara podzakupu.
+(3) Iznimno od odredbe stavka 2. ovoga članka, ako se radi o kampovima, hotelima ili drugim objektima za smještaj turista u vlasništvu Republike Hrvatske odnosno jedinice lokalne ili područne (regionalne) samouprave, dio nekretnine može se dati u podzakup, osim ako posebnim zakonom nije propisano drukčije.
+(4) Na ugovor o podzakupu poslovnoga prostora na odgovarajući se način primjenjuju odredbe ovoga Zakona koje se odnose na zakup poslovnoga prostora.
+(5) Zakupniku koji je poslovni prostor ili dio poslovnoga prostora u vlasništvu Republike Hrvatske odnosno u vlasništvu jedinice lokalne ili područne (regionalne) samouprave, protivno odredbama ovoga Zakona, dao u podzakup odnosno koji je po bilo kojoj pravnoj osnovi dao trećoj osobi na korištenje ili sukorištenje poslovni prostor u vlasništvu Republike Hrvatske odnosno jedinice lokalne ili područne (regionalne) samouprave ugovor o zakupu smatra se raskinutim po sili zakona danom utvrđenja nastupa okolnosti iz stavka 2. ovoga članka.«.

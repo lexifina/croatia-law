@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 38. stavak 1. mijenja se i glasi:
+»(1) Odluku o kupoprodaji poslovnoga prostora u vlasništvu Republike Hrvatske iz članka 33. stavka 1. ovoga Zakona donosi nadležno tijelo sukladno odredbama zakona kojim se uređuje upravljanje nekretninama i pokretninama u vlasništvu Republike Hrvatske, a odluku o kupoprodaji poslovnoga prostora u vlasništvu jedinice lokalne ili područne (regionalne) samouprave iz članka 33. stavka 4. ovoga Zakona donosi Gradska skupština Grada Zagreba odnosno predstavničko tijelo jedinice lokalne ili područne (regionalne) samouprave ili gradonačelnik Grada Zagreba, župan, gradonačelnik odnosno općinski načelnik, ovisno o vrijednosti poslovnoga prostora.«.
