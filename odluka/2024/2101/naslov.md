@@ -1,0 +1,1 @@
+Odluka o donošenju Nacionalnog plana za suzbijanje trgovanja ljudima za razdoblje do 2030. godine i Akcijskog plana za provedbu Nacionalnog plana za suzbijanje trgovanja ljudima za razdoblje do 2030. godine, za razdoblje od 2024. do 2026. godine
