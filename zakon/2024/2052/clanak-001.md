@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o audiovizualnim djelatnostima (»Narodne novine«, br. 61/18. i 114/22.) u članku 3. točki e) iza riječi: »i/ili edukacije« dodaju se zarez i riječi: »kao i filmska pismenost i druge slične djelatnosti«.
+Točka j) mijenja se i glasi:
+»j) autor, autorsko djelo, audiovizualne medijske usluge, elektroničke publikacije, audiovizualne medijske usluge na zahtjev, prijenos i/ili retransmisija audiovizualnih programa, televizijski programski kanali, koprodukcija, koproducent, koncesionar, operator, nakladnici televizijskih programa, europsko audiovizualno djelo, hrvatsko audiovizualno djelo, fiksacija, neovisni proizvođač, kao i drugi pojmovi iz područja intelektualnog vlasništva, elektroničkih medija i elektroničkih komunikacija imaju značenje uređeno zakonima i podzakonskim propisima kojima se uređuju autorska i srodna prava, elektronički mediji i elektroničke komunikacije.«.
