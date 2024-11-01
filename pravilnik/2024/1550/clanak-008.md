@@ -1,0 +1,6 @@
+# Članak 8.
+(1) Prilikom inicijalnog ulaganja u pojedini prenosivi vrijednosni papir, instrument tržišta novca ili financijsku izvedenicu društvo za upravljanje dužno je internim aktom definirati na koji način će isti u imovini ili obvezama UCITS fonda vrednovati. Interni akt mora minimalno sadržavati:
+a) primarni izvor cijene za vrednovanje, odnosno primarno tržište na kojem se trguje prenosivim vrijednosnim papirom, instrumentom tržišta novca ili financijskom izvedenicom u koji UCITS fond ulaže te s kojeg se primjenjuje kotirana cijena za potrebe vrednovanja,
+b) sekundarni izvor cijene, ukoliko postoji i uvjete u kojima će se koristiti cijena iz sekundarnog izvora, u slučaju da ne postoji cijena iz članka 7. stavaka 1., 2., 3. i 6. i članka 9. stavka 1. ovoga Pravilnika na primarnom tržištu iz točke a) ovoga stavka,
+c) tehnike procjene koje će koristiti prilikom utvrđivanja fer vrijednost vrijednosnih papira, instrumenata tržišta novca ili financijske izvedenice u slučaju neispunjavanja uvjeta aktivnog tržišta (neaktivno tržište).
+(2) Ako za prenosivi vrijednosni papir, instrument tržišta novca ili financijsku izvedenicu ne postoji aktivno tržište, koje je definirano odredbama članka 11. ovoga Pravilnika, potrebno je primijeniti odredbe članka 12. ovoga Pravilnika.
