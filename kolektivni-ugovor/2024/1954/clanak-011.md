@@ -1,0 +1,3 @@
+# Članak 11.
+Radnik koji je kod poslodavca minimalno radio 8 godina i koji je stariji od 60 godina života, a kojem do stjecanja prava na starosnu mirovinu nedostaje 5 godina staža ili 5 godina života, zadržava do odlaska u mirovinu osnovnu plaću koju bi ostvario pod normalnim uvjetima rada, u slučajevima kada dođe do smanjenja njegove radne sposobnosti, uslijed ozljede na radu i profesionalne bolesti kod tog poslodavca, koje su priznate odlukom nadležnog tijela. Navedenom radniku isplaćivat će se plaća koju je ostvario u mjesecu koji prethodi mjesecu u kojem su nastale navedene okolnosti, a do odlaska u mirovinu.
+3. Zaštita roditelja djece s posebnim potrebama
