@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 28. stavak 2. mijenja se i glasi:
+»(2) Pravo na pristup i pretraživanje podataka iz stavka 1. ovoga članka ima Ministarstvo financija, Porezna uprava i Hrvatski zavod za socijalni rad te upravna tijela županija odnosno Grada Zagreba u čijem je djelokrugu obavljanje povjerenih poslova državne uprave koji se odnose na pružanje besplatne pravne pomoći, odvjetnici i javni bilježnici neposredno pri obavljanju poslova iz svoje nadležnosti, a ostala javnopravna tijela na temelju odluke ministra nadležnog za poslove pravosuđa kada im je to potrebno za obavljanje poslova iz njihove nadležnosti.«.

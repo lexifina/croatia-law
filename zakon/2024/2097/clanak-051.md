@@ -1,0 +1,2 @@
+# Članak 51.
+Pravilnik o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (Zemljišnoknjižni poslovnik) (»Narodne novine«, br. 81/97., 109/02., 123/02., 153/02., 14/05. i 60/10.), Pravilnik o mjerilima za rad službenika u zemljišnoknjižnim odjelima (»Narodne novine«, br. 125/22.) i Pravilnik o programu i načinu polaganja posebnog stručnog ispita i imenovanju ovlaštenih zemljišnoknjižnih referenata (»Narodne novine«, br. 85/21.) ostaju na snazi do donošenja pravilnika iz članaka 11. i 12. ovoga Zakona.

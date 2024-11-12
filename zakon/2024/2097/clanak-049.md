@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 49.
+(1) Stručnom ispitu za ovlaštenog zemljišnoknjižnog referenta mogu pristupiti i službenici koji su na dan stupanja na snagu ovoga Zakona zatečeni na radnom mjestu zemljišnoknjižnog referenta te nakon položenog stručnog ispita za ovlaštenog zemljišnoknjižnog referenta mogu biti raspoređeni na radno mjesto ovlaštenog zemljišnoknjižnog referenta III. vrste neovisno o uvjetima utvrđenim za to radno mjesto u propisima koji se odnose na državne službenike.
+(2) Stručnom ispitu za ovlaštenog zemljišnoknjižnog referenta mogu pristupiti i službenici koji su na dan stupanja na snagu ovoga Zakona zatečeni na radnom mjestu višeg zemljišnoknjižnog referenta te nakon položenog stručnog ispita za ovlaštenog zemljišnoknjižnog referenta mogu biti raspoređeni na radno mjesto ovlaštenog zemljišnoknjižnog referenta II. vrste neovisno o uvjetima utvrđenim za to radno mjesto u propisima koji se odnose na državne službenike.
