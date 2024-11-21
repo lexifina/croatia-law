@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o općim uvjetima za korištenje mreže i opskrbu električnom energijom (»Narodne novine«, broj 100/22) u članku 6. iza stavka 9. dodaje se novi stavak 10. koji glasi:
+(10) Iznimno od stavaka 4. i 5. ovoga članka, kod javnih cesta i željezničke infrastrukture za čije je građenje, rekonstrukciju, modernizaciju, obnovu i održavanje odredbom posebnog zakona utvrđen interes Republike Hrvatske ili je donesena odluka Vlade Republike Hrvatske o utvrđivanju interesa Republike Hrvatske, ugovor o korištenju mreže operator sustava može sklopiti s pravnom osobom koja upravlja javnom cestom, s upraviteljem tunela ili s upraviteljem željezničke infrastrukture ako je izdana pravomoćna građevinska dozvola ili drugi akt za građenje građevina odnosno izvođenje radova sukladno propisima kojima se uređuje područje prostornog uređenja i gradnje.
+Dosadašnji stavci 10. do 14. postaju stavci 11. do 15.

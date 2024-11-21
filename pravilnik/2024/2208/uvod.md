@@ -1,0 +1,1 @@
+Na temelju članka 59. stavka 1. Zakona o tržištu električne energije (»Narodne novine«, broj 111/21 i 83/23), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 15. studenoga 2024. donijela
