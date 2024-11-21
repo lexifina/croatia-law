@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točaka 3. i 4. te članka 57. stavka 4. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17., 14/19., 30/23. i 14/24.) uz prethodno mišljenje ministrice nadležne za poslove zaštite prirode, ministar poljoprivrede, šumarstva i ribarstva donosi
