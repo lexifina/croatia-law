@@ -1,0 +1,1 @@
+Na temelju odredbi članka 100. stavka 4. i članka 100.f Zakona o mirovinskim osiguravajućim društvima (»Narodne novine«, broj 22/14, 29/18, 115/18 i 156/23), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća, održanoj 8. studenoga 2024. godine donosi
