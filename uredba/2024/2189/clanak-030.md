@@ -1,0 +1,4 @@
+# Članak 30.
+(1) Stanovi i kuće u vlasništvu Republike Hrvatske kojima upravljaju tijela državne uprave, a čijim je korisnicima utvrđeno pravo na stambeno zbrinjavanje prema propisu kojim se uređuju prava hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji, predat će se Ministarstvu temeljem sklopljenog sporazuma kojim će se Ministarstvu predati pravo upravljanja tim stanovima i kućama, kao i cjelokupna dokumentacija koja će se popisati u zapisniku o primopredaji.
+(2) U slučaju iz stavka 1. ovoga članka kada postoje neutuženi nepodmireni troškovi najamnine, ili naknade za bespravno korištenje stana ili kuće, Ministarstvo će preuzeti stanove i kuće s navedenim dugovanjima, te ista naplatiti od korisnika u posebnom postupku.
+(3) U slučaju iz stavka 2. ovoga članka, dug te kuća ili stan se isknjižuju iz poslovnih knjiga tijela državne uprave koje upravlja predmetnim stanom i upisuju se u poslovne knjige Ministarstva.

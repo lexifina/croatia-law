@@ -1,0 +1,2 @@
+# Članak 39.
+Postupci započeti po Uredbi o stambenom zbrinjavanju članova obitelji smrtno stradalih i nestalih hrvatskih branitelja te hrvatskih ratnih vojnih invalida i dragovoljaca iz Domovinskog rata (»Narodne novine«, br. 57/18. i 147/20.) i propisima koji prethode toj Uredbi, u povodu kojih do stupanja na snagu ove Uredbe nije doneseno izvršno rješenje, riješit će se prema ovoj Uredbi, ako je to za korisnika povoljnije.
