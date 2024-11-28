@@ -1,0 +1,11 @@
+# Članak 13.
+U članku 20. stavku 6. riječi: »u iznosu protuvrijednosti kuna« brišu se.
+U stavcima 7., 8. i 9. riječi: »protuvrijednosti kuna« brišu se.
+Stavak 12. mijenja se i glasi:
+»(12) Ako korisnik potpore ne očuva predmetno ulaganje sukladno odredbama članka 6. točke 12. ovoga Zakona te ne očuva početno stanje zaposlenih utvrđeno sukladno odredbama članka 6. točke 10. ovoga Zakona najmanje pet godina za velike poduzetnike odnosno tri godine za mikro, male i srednje poduzetnike, prestaje mu pravo korištenja potpore za modernizaciju poslovnih procesa, uz obvezu povrata sredstava ostvarenih korištenjem odobrenih potpora uvećanih za iznos osnovne referentne stope koja se određuje i objavljuje na temelju pravila o državnim potporama, uvećane za 100 baznih bodova. Akt odnosno obavijest nadležnog ministarstva o obvezi povrata potpore predstavlja ovršnu ispravu.«.
+Iza stavka 13. dodaju se stavci 14. do 18. koji glase:
+»(14) Za potrebe primjene umanjene stope poreza na dobit iz ovoga članka korisnik potpore za svako posebno porezno razdoblje utvrđuje obvezu poreza na dobit na način propisan propisom o oporezivanju dobiti samo na dobit ostvarenu od poslovne aktivnosti na koju se odnosi projekt ulaganja, pri čemu isključuje prihode od kapitala, najma, kamate i intelektualnog vlasništva te obavlja svoju osnovnu prihodovnu aktivnost projekta ulaganja s odgovarajućim brojem stalno zaposlenih i odgovarajućim iznosom troškova poslovanja.
+(15) Korisnik potpore u okviru godišnjeg izvješća dostavlja pregled prihoda po osnovi kapitala, najma, kamata i intelektualnog vlasništva iz stavka 14. ovoga članka.
+(16) Ako korisnik potpore istodobno obavlja i poslovne aktivnosti koje nisu obuhvaćene projektom ulaganja, dužan je osigurati posebno knjigovodstveno praćenje aktivnosti obuhvaćene projektom i utvrditi iznos dobiti za aktivnost projekta ulaganja.
+(17) Osnovne prihodovne aktivnosti projekta ulaganja mogu se razlikovati ovisno o specifičnoj prijavljenoj aktivnosti projekta ulaganja, ali se uglavnom sastoje od onih bitnih funkcija koje pokreću poslovnu vrijednost projekta ulaganja, a ne isključivo ili uglavnom od pomoćnih aktivnosti.
+(18) Korisnik potpore iz stavka 16. ovoga članka u sklopu godišnjeg izvješća dostavlja pregled iz stavka 15. ovoga članka i pregled posebnog knjigovodstvenog praćenja aktivnosti projekta ulaganja.«.
