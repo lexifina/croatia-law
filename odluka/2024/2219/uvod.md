@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 1. i članka 4. Zakona o izboru predsjednika Republike Hrvatske (»Narodne novine«, br. 22/92., 42/92. - ispravak, 71/97., 69/04. - Odluka Ustavnog suda Republike Hrvatske, 99/04. - ispravak, 44/06., 24/11. i 128/14.), Vlada Republike Hrvatske je na sjednici održanoj 21. studenoga 2024. donijela
