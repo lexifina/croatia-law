@@ -1,0 +1,1 @@
+Na temelju članka 13. a. stavka 2. Zakona o poljoprivredi (»Narodne novine«, br. 118/18, 42/20, 127/20 - Odluka Ustavnog suda Republike Hrvatske, 52/21 i 152/22) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23), ministar poljoprivrede, šumarstva i ribarstva, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

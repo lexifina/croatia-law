@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o uvjetovanosti (»Narodne novine«, broj 26/23) u članku 2. iza podstavka 1. dodaje se novi podstavak 2. koji glasi:
+» - Provedbena Uredba komisije (EU) 2024/587 od 12. veljače 2024. o utvrđivanju odstupanja od Uredbe (EU) 2021/2115 Europskog parlamenta i Vijeća u pogledu primjene standarda za dobre poljoprivredne i okolišne uvjete zemljišta (standard GAEC) 8, datuma prihvatljivosti rashoda za doprinos iz EFJP-a i pravila o izmjenama strateških planova u okviru ZPP-a radi izmjena određenih eko shema za godinu zahtjeva 2024.«
+Iza dosadašnjeg podstavka 2. koji postaje podstavak 3. dodaje se novi podstavak 4. koji glasi:
+» - Uredba (EU) 2024/1468 Europskog parlamenta i Vijeća od 14. svibnja 2024. o izmjeni uredaba (EU) 2021/2115 i (EU) 2021/2116 u pogledu standarda za dobre poljoprivredne i okolišne uvjete, shema za klimu, okoliš i dobrobit životinja, izmjena strateških planova u okviru ZPP-a, preispitivanja strateških planova u okviru ZPP-a i izuzeća od kontrola i kazni«.
