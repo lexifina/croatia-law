@@ -1,0 +1,3 @@
+# Članak 54.
+(1) Trend podizanja razine zrelosti kibernetičke sigurnosti utvrđuje se dodatnim bodovanjem podskupova mjera upravljanja kibernetičkim sigurnosnim rizicima koje subjekt provodi na temelju mjere 3. »Upravljanje rizicima« iz Priloga II. ove Uredbe, u smislu podizanja razine provedbe pojedinih obvezujućih mjera sukladno članku 44. stavcima 1. i 2. ove Uredbe, kao i u smislu provedbe dobrovoljnih mjera sukladno članku 44. stavku 3. ove Uredbe.
+(2) U svrhu provedbe bodovanja iz prethodnog stavaka, za svaku razinu mjera upravljanja kibernetičkim sigurnosnim rizicima iz članka 42. ove Uredbe utvrđuje se broj bodova potreban za utvrđivanje trenda podizanja razine zrelosti kibernetičke sigurnosti subjekta.

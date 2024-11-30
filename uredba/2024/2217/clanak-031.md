@@ -1,0 +1,3 @@
+# Članak 31.
+(1) U svrhu provedbe obveza iz članka 18. stavka 2. Zakona, nadležna tijela za provedbu kategorizacije subjekata dužna su podatke o provedenim kategorizacijama subjekata dostavljati jedinstvenoj kontaktnoj točki sukladno smjernicama jedinstvene kontaktne točke o sadržaju, načinu dostave i rokovima dostave obavijesti o provedenim kategorizacijama subjekata.
+(2) U svrhu provedbe članka 43. Zakona, nadležna tijela za provedbu kategorizacije subjekata dužna su Popise ključnih i važnih subjekata, uključujući sva naknadna ažuriranja Popisa, dostavljati pravovremeno i u odgovarajućem formatu Hrvatskoj akademskoj i istraživačkoj mreži - CARNET (u daljnjem tekstu: CARNET).

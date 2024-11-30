@@ -1,0 +1,11 @@
+# Članak 60.
+(1) Smatra se da incident uzrokuje ili može uzrokovati financijske gubitke za subjekt ako je ispunjen najmanje jedan od sljedećih kriterijskih pragova:
+- ako gubitak prihoda ili troškovi uzrokovani incidentom ili zbroj tih dvaju faktora iznosi stotinu tisuća eura ili najmanje 5 % ukupnog godišnjeg poslovnog prihoda subjekta, ovisno o tome koji iznos je niži
+- ako pristup usluzi nije bio moguć najmanje jedan sat primateljima usluga od kojih je subjekt u prethodnoj godini ostvario prihode u iznosu od stotinu tisuća eura ili najmanje 5 % ukupnog godišnjeg poslovnog prihoda subjekta, ovisno o tome koji iznos je niži
+- ako je incident uzrokovao reputacijsku štetu subjektu.
+(2) Ukupnim godišnjim poslovnim prihodom subjekta u smislu stavka 1. ovoga članka smatra se ukupan godišnji poslovni prihod subjekta prema financijskim izvještajima za prethodnu godinu, neovisno o tome pruža li subjekt i druge usluge odnosno obavlja li i druge djelatnosti koje nisu obuhvaćene Prilogom I. i Prilogom II. Zakona.
+(3) Prihodom u smislu stavka 1. ovoga članka smatraju se svi prihodi subjekta na godišnjoj razini, neovisno o tome ostvaruje li ih ili ih je planirao ostvariti redovnim poslovanjem subjekta ili radnjama koje izlaze izvan opsega redovnog poslovanja subjekta.
+(4) Troškovima u smislu stavka 1. ovoga članka smatraju se svi troškovi koji su za subjekt nastali zbog poduzimanja radnji i aktivnosti radi zaustavljanja incidenta, odgovora na incident ili oporavka od incidenta, uključujući sve radnje i aktivnosti poduzete radi uspostavljanja redovnog opsega poslovanja subjekta. Troškovima se ne smatraju ugovorne kazne ili druge vrste naknada koje je subjekt u obvezi namiriti zbog povrede ugovornih odnosa uzrokovanih incidentom, neovisno o tome radi li se o fizičkim i pravnim osobama, zaposlenicima subjekta ili njegovim vanjskim suradnicima.
+(5) Smatra se da je incident uzrokovao štetu ugledu subjekta u smislu stavka 1. podstavka 3. ovoga članka, ako je ispunjen jedan od sljedećih kriterijskih pragova:
+- o incidentu je izvještavao javni pružatelj medijske usluge
+- incident je rezultirao podizanjem prigovora, tužbi ili drugih pravnih lijekova najmanje 1 % primatelja njegovih usluga protiv subjekta.

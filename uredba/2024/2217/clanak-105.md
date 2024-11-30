@@ -1,0 +1,3 @@
+# Članak 105.
+(1) Subjekti iz članka 47. stavka 1. ove Uredbe dužni su najmanje jednom u dvije godine provoditi samoprocjene kibernetičke sigurnosti sve dok koriste mogućnost obavještavanja o incidentima i kibernetičkim prijetnjama temeljem članka 50. stavka 2. Zakona, a sastavljene izjave o sukladnosti iz članka 35. stavka 3. Zakona dužni su dostaviti nadležnom CSIRT-u bez odgode, a najkasnije u roku od osam dana od dana njihova sastavljanja.
+(2) Rok iz stavka 1. ovoga članka računa se od dana sastavljanja izjave o sukladnosti dostavljene nadležnom CSIRT-u sukladno članku 104. stavku 2. ove Uredbe odnosno od dana sastavljanja dostavljene izjave o sukladnosti iz članka 35. stavka 3. Zakona nadležnom CSIRT-u.

@@ -1,0 +1,14 @@
+## POGLAVLJE II.
+## PRIKUPLJANJE PODATAKA IZ DRUGIH IZVORA
+# Članak 25.
+(1) U svrhu provedbe obveza iz članka 21. podstavka 1. Zakona, tijela državne uprave, druga državna tijela, jedinice lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima i javni subjekti dužni su voditi popis subjekata iz Priloga I. i Priloga II. Zakona za koje u okviru svog djelokruga prikupljaju podatke odnosno vode registre, evidencije i zbirke podataka.
+(2) Popis subjekata iz stavka 1. ovoga članka sadrži sljedeće podatke:
+- sektore, podsektore i vrste subjekata iz Priloga I. i Priloga II. Zakona za koje prikupljaju podatke odnosno vode registre, evidencije i zbirke podataka, prema nazivima iz Priloga I. ove Uredbe
+- za svaki sektor, podsektor i vrstu subjekta iz podstavka 1. ovoga stavka, nazive subjekata odnosno nazive ili imena pod kojima subjekti posluju odnosno obavljaju djelatnosti iz Priloga I. i Priloga II. Zakona u Republici Hrvatskoj, s naznakom i skraćenog naziva odnosno imena, ako ga subjekt upotrebljava u pravnom prometu
+- pravnu osnovu temeljem koje prikupljaju podatke odnosno vode registre, evidencije i zbirke podataka o subjektima iz podstavka 2. ovoga stavka
+- naznaku o tome vode li registre, evidencije i zbirke podataka koji se odnose na veličinu subjekata u smislu članka 15. Zakona i koje podatke prikupljaju i
+- podatak o tome vode li registre, evidencije i zbirke podataka za subjekte iz podstavka 2. ovoga stavka u elektroničkom obliku, uz očitovanje o mogućnostima pristupa podacima u tim registrima, evidencijama i zbirkama podataka elektroničkim putem.
+(3) Popisi subjekata iz stavka 1. ovoga članka dostavljaju se prema uputama koje nadležna tijela za provedbu kategorizacije subjekata objavljuju na svojim mrežnim stranicama.
+(4) Popisi subjekata iz stavka 1. ovoga članka dostavljaju se nadležnim tijelima za provedbu kategorizacije subjekata jednom godišnje, najkasnije do 1. ožujka tekuće godine za prethodnu godinu.
+(5) Iznimno od stavka 4. ovoga članka, ako u odnosu na prethodno dostavljeni popis subjekata nije bilo promjena, tijela državne uprave, druga državna tijela, jedinice lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima i javni subjekti o tome obavještavaju nadležno tijelo za provedbu kategorizacije subjekata, bez obveze dostave novoga popisa subjekata.
+(6) Iznimno od stavaka 1. i 4. ovoga članka, tijela državne uprave, druga državna tijela, jedinice lokalne i područne (regionalne) samouprave, pravne osobe s javnim ovlastima i javni subjekti nisu u obvezi voditi i redovito dostavljati popise subjekata iz stavka 1. ovoga članka, ako su nadležnim tijelima za provedbu kategorizacije subjekata omogućili elektroničkim putem pristup odgovarajućim podacima o subjektima u registrima, evidencijama i zbirkama podataka.

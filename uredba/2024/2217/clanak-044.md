@@ -1,0 +1,4 @@
+# Članak 44.
+(1) Podskupovi mjera upravljanja kibernetičkim sigurnosnim rizicima čija je provedba u okviru određene razine mjera iz članka 38. ove Uredbe obvezujuća, označeni su u tabličnom prikazu iz članka 43. podstavka 5. ove Uredbe oznakom »A«.
+(2) Podskupovi mjera upravljanja kibernetičkim sigurnosnim rizicima čija je provedba u okviru određene razine mjera iz članka 38. ove Uredbe obvezujuća pod uvjetima opisanim u razradi mjere iz članka 43. podstavka 4. ove Uredbe pod »UVJET:«, označeni su u tabličnom prikazu iz članka 43. podstavka 5. ove Uredbe oznakom »B«.
+(3) Podskupovi mjera upravljanja kibernetičkim sigurnosnim rizicima čija je provedba u okviru određene razine mjera iz članka 38. ove Uredbe dobrovoljna, označeni su u tabličnom prikazu iz članka 43. podstavka 5. ove Uredbe oznakom »C«.

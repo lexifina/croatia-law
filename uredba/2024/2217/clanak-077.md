@@ -1,0 +1,2 @@
+# Članak 77.
+Nadležni CSIRT po zaprimanju obavijesti iz članaka 67. do 71. ove Uredbe provodi analizu i klasifikaciju incidenta prema nacionalnoj taksonomiji incidenata te, ako to dopuštaju okolnosti, nakon primitka takve obavijesti, dostavlja ključnim i važnim subjektima informacije relevantne za daljnje postupanje sa značajnim incidentom, a osobito informacije koje bi mogle pridonijeti djelotvornom rješavanju značajnog incidenta.

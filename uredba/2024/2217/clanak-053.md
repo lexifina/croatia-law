@@ -1,0 +1,3 @@
+# Članak 53.
+(1) Stupanj usklađenosti uspostavljenih mjera iz članka 52. stavaka 2. i 3. ove Uredbe utvrđuje se temeljem bodovanja podskupova mjera upravljanja kibernetičkim sigurnosnim rizicima koje subjekt provodi kao obvezujuće sukladno članku 44. stavcima 1. i 2. ove Uredbe.
+(2) U svrhu provedbe bodovanja iz prethodnog stavaka ovoga članka, za svaku razinu mjera upravljanja kibernetičkim sigurnosnim rizicima iz članka 42. ove Uredbe utvrđuje se broj bodova potreban za potvrđivanje sukladnosti subjekta s razinom mjera upravljanja kibernetičkim sigurnosnim rizicima koja je utvrđena obvezujućom za subjekt sukladno članku 38. ove Uredbe.

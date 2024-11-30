@@ -1,0 +1,3 @@
+# Članak 80.
+(1) Nadležni CSIRT po zaprimanju obavijesti iz članaka 66. do 72. ove Uredbe o značajnim incidentima koji imaju prekogranični ili međusektorski učinak, dužan je bez odgode, a najkasnije u roku od tri dana od primitka takve obavijesti, dostaviti nadležnom tijelu za provedbu zahtjeva kibernetičke sigurnosti izvješće o mogućem prekograničnom i međusektorskom učinku značajnog incidenta, s procjenom potencijalnog učinka incidenta.
+(2) Prilikom izrade izvješća iz stavka 1. ovoga članka nadležni CSIRT je dužan uzeti u obzir i podatke koje su mu o značajnom incidentu dostavili jedinstvena kontaktna točka i nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti.

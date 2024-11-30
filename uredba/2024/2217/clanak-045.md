@@ -1,0 +1,5 @@
+# Članak 45.
+(1) Podskupovi mjera upravljanja kibernetičkim sigurnosnim rizicima koji su u tabličnom prikazu iz članka 43. podstavka 5. ove Uredbe označeni oznakom »C«, preporučuju se za provedbu ovisno o rezultatima procjene rizika koju subjekt provodi u okviru provedbe mjere naziva »Upravljanje rizicima« iz točke 3. Priloga II. ove Uredbe.
+(2) Provedba podskupova mjera upravljanja kibernetičkim sigurnosnim rizicima koji su u tabličnom prikazu iz članka 43. podstavka 5. ove Uredbe označeni oznakom »C« dodatno se vrednuje kroz postupak samoprocjene kibernetičke sigurnosti i revizije kibernetičke sigurnosti.
+(3) Za potrebe provedbe procjene rizika iz stavka 1. ovoga članka, središnje državno tijelo za kibernetičku sigurnost donosi smjernice za procjenu, obradu, praćenje i ažuriranje rizika za mrežne i informacijske sustave, koje se mogu koristiti u okviru provedbe mjere naziva »Upravljanje rizicima« iz točke 3. Priloga II. ove Uredbe.
+(4) Središnje državno tijelo za kibernetičku sigurnost objavljuje smjernice iz stavka 3. ovoga članka na svojim mrežnim stranicama.

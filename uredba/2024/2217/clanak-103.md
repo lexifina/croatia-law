@@ -1,0 +1,6 @@
+# Članak 103.
+(1) Podaci o pojedinom značajnom incidentu čuvaju se u nacionalnoj platformi 25 godina od dana dostave završnog izvješća o značajnom incidentu iz članka 70. ove Uredbe.
+(2) Podaci o pojedinim ostalim incidentima, kibernetičkim prijetnjama i izbjegnutim incidentima čuvaju se u nacionalnoj platformi 15 godina od dana dostave obavijesti iz članaka 87. do 89. ove Uredbe.
+(3) Podaci o subjektima korisnicima nacionalne platforme, njihovim administratorima i korisnicima nacionalne platforme čuvaju se 15 godina od dana deaktivacije korisničkog računa subjekta sukladno članku 100. ove Uredbe, pod uvjetom da su u tom roku istekli rokovi čuvanja za sve značajne incidente o kojima je dotični subjekt obavijestio nadležni CSIRT.
+(4) Nadležni CSIRT-ovi dužni su, prema podjeli nadležnosti iz Priloga III. Zakona, nakon isteka rokova čuvanja iz stavaka 1. i 2. ovoga članka, brisati u nacionalnoj platformi podatke o značajnim incidentima, ostalim incidentima, kibernetičkim prijetnjama i izbjegnutim incidentima.
+(5) CARNET je dužan nakon isteka roka čuvanja iz stavka 3. ovoga članka brisati u nacionalnoj platformi podatke o subjektima korisnicima nacionalne platforme, njihovim administratorima i korisnicima nacionalne platforme.

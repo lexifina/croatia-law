@@ -1,0 +1,9 @@
+# Članak 20.
+Obveznici dostave podataka za kategorizaciju subjekata dužni su nadležnom tijelu za provedbu kategorizacije subjekata dostavljati podatke i obavijesti o promjenama podataka iz članka 20. Zakona kako slijedi:
+− »naziv subjekta« naziv odnosno ime pod kojim subjekt posluje odnosno obavlja djelatnost u Republici Hrvatskoj, s naznakom i skraćenog naziva odnosno imena, ako ga subjekt upotrebljava u pravnom prometu, te osobni identifikacijski broj subjekta (u daljnjem tekstu: OIB)
+− »adresa« adresa sjedišta subjekta, te adresa kontakt osobe odgovorne za dostavu podataka, ako je različita od adrese sjedišta subjekta
+− »ažurirane podatke za kontakt, uključujući adrese e-pošte« adresa mrežne stranice subjekta, ime i prezime kontakt osobe odgovorne za dostavu podataka i osoba ovlaštenih za operacionalizaciju dostave, brojeve telefona, brojeve mobitela i adrese elektroničke pošte kontakt osobe odgovorne za dostavu podataka i osoba ovlaštenih za operacionalizaciju dostave
+− »IP adresne raspone« IP adresne raspone koje subjekt koristi u Republici Hrvatskoj
+− »relevantni sektor, podsektor i vrstu subjekta iz Priloga I. i Priloga II. Zakona« nazive sektora, podsektora i vrste subjekta, prema nazivima iz Priloga I. ove Uredbe
+− »popis država članica u kojima subjekt pruža usluge obuhvaćene područjem primjene Zakona« popis država članica Europske unije (u daljnjem tekstu: država članica) u kojima subjekt pruža usluge odnosno obavlja djelatnosti iz Priloga I. odnosno Priloga II. Zakona i pravni oblik pružanja odnosno obavljanja tih djelatnosti u drugim državama članicama i
+− »druge podatke o pružanju svojih usluga ili obavljanju svojih djelatnosti bitne za provedbu kategorizacije subjekta ili utvrđivanje nadležnosti nad subjektom« podatke o veličini subjekta i druge podatke koje je od subjekta zatražilo nadležno tijelo za provedbu kategorizacije subjekata, u svrhu provedbe kategorizacije subjekta ili utvrđivanja nadležnosti nad subjektom.

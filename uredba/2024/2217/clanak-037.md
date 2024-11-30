@@ -1,0 +1,4 @@
+# Članak 37.
+(1) Potrebnu razradu podataka i procjena iz članka 36., za potrebu provedbe nacionalne procjene rizika za subjekte u sektorima iz Priloga I. i Priloga II. Zakona, provodi središnje državno tijelo za kibernetičku sigurnost, u suradnji s drugim nadležnim tijelima za provedbu zahtjeva kibernetičke sigurnosti.
+(2) Nacionalnu procjenu rizika za svaki pojedini subjekt, koji se kategorizira u području nadležnosti pojedinog nadležnog tijela za provedbu zahtjeva kibernetičke sigurnosti, na temelju podataka i procjena iz stavka 1. ovoga članka, provodi nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti.
+(3) Nacionalna procjena rizika iz stavka 2. ovoga članka provodi se u okviru prvog postupka kategorizacije subjekta, nakon svakog ažuriranja popisa ključnih i važnih subjekata sukladno članku 17. stavku 2. Zakona te prilikom svake kategorizacije nekog subjekta koju provodi nadležno tijelo za provedbu zahtjeva kibernetičke sigurnosti.

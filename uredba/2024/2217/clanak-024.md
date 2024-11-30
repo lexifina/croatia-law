@@ -1,0 +1,3 @@
+# Članak 24.
+(1) Ukoliko podaci ili obavijesti o promjenama podataka nisu dostavljeni u skladu s člancima 19. do 23. ove Uredbe, nadležno tijelo za provedbu kategorizacije subjekata i nadležno tijelo za vođenje posebnog registra subjekata će o tome obavijestiti subjekta i odrediti rok u kojem je subjekt dužan otkloniti nedostatke i dostaviti podatke odnosno izmjenu, dopunu ili ispravak podataka, uz upozorenje na pravne posljedice sukladno Zakonu ako to ne učini u ostavljenom roku.
+(2) Obavijest iz stavka 1. ovoga članka dostavlja se na adresu elektroničke pošte kontakt osobe odgovorne za dostavu podataka odnosno adresu elektroničke pošte predstavnika obveznika dostave podataka za vođenje posebnog registra subjekata koji nema poslovni nastan u Europskoj uniji.

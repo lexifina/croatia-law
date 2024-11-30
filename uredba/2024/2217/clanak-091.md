@@ -1,0 +1,3 @@
+# Članak 91.
+(1) U povodu obavijesti iz članaka 87. do 89. ove Uredbe, nadležni CSIRT dostavit će ključnom i važnom subjektu preporuke i operativne savjete o provedbi mogućih mjera ublažavanja i djelotvornog rješavanja incidenta, sprečavanja nastanka potencijalnog učinka kibernetičke prijetnje i izbjegnutog incidenta, ako je subjekt to zatražio u dostavljenoj obavijesti o incidentu, obavijesti o kibernetičkoj prijetnji odnosno izbjegnutom incidentu.
+(2) Kada iz dostavljenih podataka proizlazi da prijavljeni događaj ima obilježja značajnog incidenta iz članaka 59. do 62. ove Uredbe, nadležni CSIRT dostavit će ključnom i važnom subjektu obavijest o obvezi obavještavanja o značajnom incidentu sukladno člancima 64. do 74. ove Uredbe.

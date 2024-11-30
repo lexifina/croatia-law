@@ -1,0 +1,8 @@
+# Članak 19.
+(1) Obveznici dostave podataka za kategorizaciju subjekata i obveznici dostave podataka za vođenje posebnog registra subjekata dužni su nadležnom tijelu za provedbu kategorizacije subjekata odnosno nadležnom tijelu za vođenje posebnog registra subjekata, bez odgode, a najkasnije u roku od osam dana od dana zaprimanja zahtjeva iz članka 20. stavka 1. i članka 23. stavka 2. Zakona, dostaviti podatke o imenovanoj osobi za kontakt odgovornoj za dostavu podataka i osobama ovlaštenima za operacionalizaciju dostave, i to:
+− ime i prezime imenovanih osoba
+− podatke o njihovom radnom mjestu odnosno dužnosti u subjektu
+− adresu elektroničke pošte osobe za kontakt odgovorne za dostavu podataka i
+− adrese elektroničke pošte koje će osobe ovlaštene za operacionalizaciju dostave koristiti u svrhe dostave podataka i obavijesti o promjenama podataka.
+(2) U slučaju promjene osoba iz stavka 1. ovoga članka ili pojedinih podataka dostavljenih sukladno stavku 1. ovoga članka, obveznici dostave podataka za kategorizaciju subjekata i obveznici dostave podataka za vođenje posebnog registra subjekata dužni su o promjeni obavijestiti nadležno tijelo za provedbu kategorizacije subjekata odnosno nadležno tijelo za vođenje posebnog registra subjekata, bez odgode, a najkasnije u roku od 15 dana od dana imenovanja nove osobe odnosno promjene pojedinih podataka dostavljenih sukladno stavku 1. ovoga članka.
+(3) Obavijesti iz stavaka 1. i 2. ovoga članka dostavljaju se nadležnom tijelu za provedbu kategorizacije subjekata odnosno nadležnom tijelu za vođenje posebnog registra subjekata prema uputama iz članka 22. ove Uredbe.

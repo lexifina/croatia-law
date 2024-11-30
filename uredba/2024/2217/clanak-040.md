@@ -1,0 +1,4 @@
+# Članak 40.
+(1) Nacionalna procjena rizika i utvrđivanje obvezujuće razine mjera upravljanja kibernetičkim sigurnosnim rizicima za ključne i važne subjekte iz članka 38. ove Uredbe, provodi se sukladno smjernicama za provedbu nacionalne procjene kibernetičkih sigurnosnih rizika, koje se izrađuju na temelju podataka i procjena iz članka 36. ove Uredbe i čiji sastavni dio je pripadni kalkulator za izračun razine kibernetičkih sigurnosnih rizika.
+(2) Smjernice za provedbu nacionalne procjene rizika iz stavka 1. ovoga članka, kojima se opisuje postupak izračuna rizika na temelju podataka i procjena iz članka 36. ove Uredbe, kao i korištenje pripadnog kalkulatora, donosi središnje državno tijelo za kibernetičku sigurnost.
+(3) Središnje državno tijelo za kibernetičku sigurnost objavljuje smjernice iz stavka 2. ovoga članka na svojim mrežnim stranicama.
