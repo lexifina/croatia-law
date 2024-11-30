@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Za prekogranične projekte može se osnovati zajedničko tijelo sporazumom između dvije države članice.
+(2) Ako postupak nabave u prekograničnom projektu TEN-T mreže provodi zajednički subjekt, središnje tijelo nadležno za promet, a zajedno s državom ili državama članicama sudionicama poduzima mjere u okviru svoje nadležnosti kako bi osiguralo da zajednički subjekt primjenjuje nacionalno pravo jedne države članice, osim ako je sporazumom među državama članicama sudionicama predviđeno drukčije.
+(3) U sporazumu iz stavka 1. ovoga članka predviđa se primjena nacionalnog prava jedne države članice na postupke nabave koje provodi zajednički subjekt te se isto primjenjuje kada je riječ o javnoj nabavi koju provodi društvo kći zajedničkog subjekta.
+(4) Kada se radi o javnoj nabavi koju provodi društvo kći zajedničkog subjekta, središnje tijelo nadležno za promet, a zajedno s državom ili državama članicama sudionicama poduzima potrebne mjere kako bi osiguralo da društvo kći primjenjuje nacionalno pravo jedne države članice.

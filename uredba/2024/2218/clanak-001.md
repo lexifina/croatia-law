@@ -1,0 +1,4 @@
+# Članak 1.
+Ovom Uredbom uređuju se postupci izdavanja dozvola koji su potrebni za odobravanje provedbe:
+a) projekata koji su dio prethodno utvrđenih dionica osnovne mreže, kako je navedeno u Prilogu ove Uredbe i koji čini njezin sastavni dio
+b) drugih projekata na koridorima osnovne mreže, kako je utvrđeno na temelju članka 11. stavka 1. Uredbe (EU) 2024/1679 Europskog parlamenta i Vijeća od 13. lipnja 2024. o smjernicama Unije za razvoj transeuropske prometne mreže, izmjeni Uredbe (EU) 2021/1153 i Uredbe (EU) br. 913/2010 te stavljanju izvan snage Uredbe (EU) br. 1315/2013 (SL L 2024/1679, 28. 6. 2024.) (u daljnjem tekstu: Uredba (EU) 2024/1679), čiji ukupni trošak prelazi iznos od 300.000.000,00 eura, uz iznimku projekata koji se odnose isključivo na telematske aplikacije, nove tehnologije i inovacije u smislu članaka 43. i 45. Uredbe (EU) 2024/1679.

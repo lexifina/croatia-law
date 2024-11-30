@@ -1,0 +1,5 @@
+# Članak 5.
+(1) Trajanje postupka za izdavanje dozvola za projekte TEN-T mreže ne smije prekoračiti rok od četiri godine od početka postupka izdavanja dozvola.
+(2) Rokom od četiri godine iz stavka 1. ovoga članka ne dovode se u pitanje obveze koje proizlaze iz međunarodnog prava i prava Europske unije te njime nisu obuhvaćena razdoblja potrebna za provođenje upravnih i sudskih žalbenih postupaka i korištenje pravnih sredstava pred sudom niti razdoblja potrebna za provedbu svih odluka ili svih pravnih sredstava koji su iz tog proizašli.
+(3) Nositelj projekta odgovoran je sukladno zakonu kojim se uređuju strateški investicijski projekti Republike Hrvatske za nepridržavanje roka od četiri godine iz stavka 1. ovoga članka ili odobrenog produljenja sukladno članku 6. stavku 1. ove Uredbe.
+(4) Osim zadaća propisanih zakonom kojim se uređuju strateški investicijski projekti Republike Hrvatske, Operativna skupina nadzire vremenski okvir postupka izdavanja dozvola, a osobito evidentiranje svakog produljenja roka za izdavanje dozvola za projekte TEN-T mreže.

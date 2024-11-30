@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Kod provođenja prekograničnog projekta TEN-T mreže, Operativna skupina surađuje s imenovanim tijelom druge države članice s ciljem koordinacije svojih vremenskih rasporeda i postizanja dogovora o zajedničkom planu u vezi s postupkom izdavanja dozvola.
+(2) Povjerenstvo i Operativna skupina surađuju s europskim koordinatorima iz članaka 52. i 53. Uredbe (EU) 2024/1679 i pružaju koordinatorima podatke potrebne radi izvršenja njihovih zadaća, a osobito informacije o postupcima izdavanja dozvola za prekogranične projekte TEN-T mreže.
+(3) U slučaju nepridržavanja roka iz članka 5. stavka 1. ove Uredbe, Povjerenstvo i Operativna skupina će na zahtjev europskih koordinatora iz članaka 52. i 53. Uredbe (EU) 2024/1679 dostaviti sve informacije o poduzetim mjerama ili mjerama koje se planiraju poduzeti kako bi se omogućilo da postupak izdavanja dozvola završi uz najmanje moguće kašnjenje.
