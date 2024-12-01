@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Odlukom utvrđuju se kamatne stope po kojima Hrvatska narodna banka (u nastavku teksta: HNB) obračunava i plaća odnosno naplaćuje kamate na kod nje položena novčana sredstva, koja se ne drže radi provedbe jedinstvene monetarne politike prema odluci Upravnog vijeća i koja su obuhvaćena Smjernicom ESB/2019/7[1](Smjernica (EU) 2019/671 Europske središnje banke od 9. travnja 2019. o domaćim operacijama upravljanja imovinom i obvezama od strane nacionalnih središnjih banaka (preinaka) (ESB/2019/7)).
