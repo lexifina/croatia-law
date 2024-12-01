@@ -1,0 +1,11 @@
+## Način prijave polaganja posebnog ispita
+# Članak 20.
+(1) Program posebnog ispita iz članka 19. ovoga Pravilnika, Hrvatska revizorska komora objavljuje na svojoj internetskoj stranici najkasnije 60 dana prije datuma prvog ispitnog roka, prema rasporedu iz istog programa.
+(2) Prijavu za polaganje posebnog ispita podnosi fizička osoba kojoj je rješenjem Ministarstva financija ukinuto rješenje o izdavanju odobrenja za rad za obavljanje zakonske revizije i drugih revizorskih usluga i/ili rješenje o ukidanju odobrenja za rad za obavljanje provjere izvještaja o održivosti.
+(3) Prijava za polaganje posebnog ispita zajedno s potrebnom dokumentacijom, podnosi se Hrvatskoj revizorskoj komori. Obrazac prijave za polaganje posebnog ispita sastavni je dio objavljenog programa posebnog ispita, a dostupan je na internetskoj stranici Hrvatske revizorske komore.
+(4) Rok za dostavu prijave za polaganje posebnog ispita s potrebnom dokumentacijom je najkasnije 30 dana prije datuma prvog ispitnog roka prema rasporedu iz objavljenog programa posebnog ispita.
+(5) Kandidat uz obrazac prijave za polaganje posebnog ispita prilaže i dostavlja Hrvatskoj revizorskoj komori presliku rješenja Ministarstva financija kojem mu je ukinuto rješenje o izdavanju odobrenja za rad za obavljanje zakonske revizije i drugih revizorskih usluga i/ili rješenje o izdavanju odobrenja za rad za provjeru izvještaja o održivosti.
+(6) Prijava za polaganje posebnog ispita i pripadni dokumenti u postupku polaganja posebnog ispita dostavljaju se u PDF formatu, putem elektroničke pošte Hrvatske revizorske komore: hrk@revizorska-komora.hr. Hrvatska revizorska komora za potrebe provjere ispunjavanja uvjeta za polaganje posebnog ispita od kandidata može zatražiti na uvid originalne dokumente.
+(7) Ako prijava za polaganje posebnog ispita nije potpuna, o tome se obavještava kandidat i poziva na otklanjanje nedostatka najkasnije sedam dana od dana obavijesti, u protivnom prijava se odbacuje kao nepotpuna.
+(8) Ako prijava za polaganje posebnog ispita nije podnesena u roku iz stavka 4. ovoga članka, o tome se obavještava kandidat i prijava se odbacuje kao nepravodobna.
+(9) Pregled dostavljenih prijava za polaganje posebnog ispita s pripadnom dokumentacijom, provodi povjerenstvo za provjeru uvjeta za polaganje revizorskog ispita iz članka 6. ovoga Pravilnika.

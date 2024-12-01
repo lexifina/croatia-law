@@ -1,0 +1,18 @@
+## IV. ISPIT OSPOSOBLJENOSTI
+## Sadržaj i program ispita osposobljenosti
+# Članak 26.
+(1) Fizička osoba iz druge države članice kojoj je odobrenje za rad za obavljanje zakonske revizije ovlaštenog revizora izdalo nadležno tijelo njezine matične države članice polaže ispit osposobljenosti iz članka 23. stavka 2. Zakona, koji obuhvaća područja iz stavka 6. točaka 1. i 2. ovoga članka, u svrhu izdavanja odobrenja za rad za obavljanje zakonske revizije u Republici Hrvatskoj.
+(2) Fizička osoba iz druge države članice kojoj je odobrenje za rad za obavljanje provjere izvještaja o održivosti izdalo nadležno tijelo njezine matične države članice i koja ima odobrenje za rad za obavljanje zakonske revizije Ministarstva financija polaže ispit osposobljenosti iz članka 23. stavka 3. Zakona, koji obuhvaća područje iz stavka 6. točke 3. ovoga članka, u svrhu izdavanja odobrenja za rad za obavljanje provjere izvještaja o održivosti u Republici Hrvatskoj.
+(3) Fizička osoba iz treće zemlje kojoj je odobrenje za rad izdalo nadležno tijelo treće zemlje, polaže ispit osposobljenosti iz članka 23. stavka 2. Zakona, koji obuhvaća područja iz stavka 6. točaka 1. i 2. ovoga članka, u svrhu izdavanja odobrenja za rad za obavljanje zakonske revizije, na osnovi reciprociteta, u skladu s člankom 27. stavkom 1. Zakona.
+(4) Fizička osoba iz treće zemlje kojoj je odobrenje za rad izdalo nadležno tijelo treće zemlje, polaže ispit osposobljenosti iz članka 23. stavka 3. Zakona, koji obuhvaća područje iz stavka 6. točke 3. ovoga članka, u svrhu izdavanja odobrenja za rad za obavljanje provjere izvještaja o održivosti, na osnovi reciprociteta, u skladu s člankom 27. stavkom 2. Zakona.
+(5) Ispit osposobljenosti provodi Hrvatska revizorska komora.
+(6) Ispit osposobljenosti u svrhu izdavanja odobrenja za rad za obavljanje zakonske revizije i izdavanja odobrenja za rad za obavljanje provjere izvještaja o održivosti u Republici Hrvatskoj je provjera poznavanja zakonodavstva Republike Hrvatske za područja iz:
+1. članka 11. stavka 3. točaka 2. i 3. Zakona u dijelu Hrvatskih standarda financijskog izvještavanja i članka 11. stavka 3. točaka 4., 9. i 10. Zakona i
+2. članka 11. stavka 4. točaka 1. do 5. Zakona, u mjeri u kojoj su oni potrebni za obavljanje zakonske revizije u Republici Hrvatskoj i/ili
+3. članka 11. stavka 6. Zakona, u mjeri u kojoj su oni potrebni za obavljanje provjere izvještaja o održivosti u Republici Hrvatskoj.
+(7) Ispit osposobljenosti polaže se prema programu koji određuje Hrvatska revizorska komora uz prethodnu suglasnost Ministarstva financija, a obuhvaća područja iz stavka 6. ovoga članka.
+(8) Detaljna razrada područja ispitivanja iz stavka 6. ovoga članka identična je razradi istih područja ispitivanja koja su raspoređena unutar određenog modula osnovnog revizorskog ispita i/ili revizorskog ispita za održivost iz članka 3. ovoga Pravilnika.
+(9) Program ispita osposobljenosti mora biti cjelovit, aktualan i relevantan za obavljanje zakonske revizije i/ili provjere izvještaja o održivosti i mora ispunjavati uvjete propisane ovim Pravilnikom.
+(10) Na program ispita osposobljenosti, na odgovarajući način primjenjuju se odredbe članka 4. stavaka 2. ili 3. ovog Pravilnika.
+(11) Hrvatska revizorska komora dužna je program ispita osposobljenosti dostaviti Ministarstvu financija na izdavanje prethodne suglasnosti najkasnije 30 dana prije početka kalendarske godine na koju se isti program odnosi.
+(12) Hrvatska revizorska komora na svojoj internetskoj stranici objavljuje program ispita osposobljenosti za tekuću kalendarsku godinu i pripadnu prethodnu suglasnost Ministarstva financija te informacije o organizaciji i provođenju ispita osposobljenosti.
