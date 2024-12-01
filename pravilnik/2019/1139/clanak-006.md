@@ -1,5 +1,0 @@
-# Članak 6.
-(1) Kandidat koji nije zadovoljio na revizorskom ispitu može ponovo polagati revizorski ispit.
-(2) Kandidat koji na revizorskom ispitu nije ostvario prag prolaznosti iz predmeta koji se odnose na reviziju te financijsko računovodstvo i financijsko izvještavanje ili kandidat koji ne položi tri ili više predmeta, a kojima su obuhvaćena područja iz članka 11. stavaka 2. i 3. Zakona, ponavlja cijeli revizorski ispit.
-(3) Kandidat koji je na revizorskom ispitu ostvario prag prolaznosti iz predmeta koji se odnose na reviziju te financijsko računovodstvo i financijsko izvještavanje, a kojima su obuhvaćena područja iz članka 11. stavaka 2. i 3. Zakona, može još jednom pristupiti popravnom revizorskom ispitu za najviše dva predmeta iz kojih nije ostvario prag prolaznosti, a kojima su obuhvaćena područja iz članka 11. stavaka 2. i 3. Zakona.
-(4) Kandidat plaća naknadu za polaganje popravnog revizorskog ispita Hrvatskoj revizorskoj komori. Naknadu za polaganje popravnog revizorskog ispita utvrđuje Hrvatska revizorska komora odlukom, uz prethodnu suglasnost Ministarstva financija.

@@ -1,6 +1,0 @@
-## Kriteriji za izuzeće od provjere teorijskog znanja u predmetima istog sadržaja na revizorskom ispitu
-# Članak 7.
-(1) Kandidat koji je završio poslijediplomski specijalistički studij ili poslijediplomski sveučilišni doktorski studij, može se na obrazloženi zahtjev izuzeti od provjere teorijskog znanja iz jednog ili više predmeta koji se polaže na revizorskom ispitu, a kojim je obuhvaćeno jedno ili više područja iz članka 11. stavaka 2. i 3. Zakona, ako je predmete istog sadržaja položio u okviru navedenih studija.
-(2) Kandidat koji je završio jedan od navedenih studija iz stavka 1. ovoga članka podnosi Hrvatskoj revizorskoj komori zahtjev za izuzeće uz koji dostavlja potvrdu o položenim ispitima na navedenim studijima (prijepis ocjena) kao i studijski program iz kojeg su vidljivi sadržaji svakog položenog predmeta.
-(3) Odluku o izuzeću od polaganja jednog ili više predmeta na revizorskom ispitu donosi Hrvatska revizorska komora na obrazloženi prijedlog ispitnog povjerenstva, uspoređujući sadržaj položenih ispita u okviru navedenih studija s ispitnim sadržajem područja iz članka 11. stavaka 2. i 3. Zakona koja su obuhvaćena revizorskim ispitom.
-(4) Odluka o izuzeću iz stavka 3. ovoga članka upravni je akt, a čiji je sastavni dio i obrazloženi prijedlog ispitnog povjerenstva.
