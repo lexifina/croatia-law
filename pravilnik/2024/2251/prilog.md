@@ -1,0 +1,12 @@
+Obrazac - Zahtjev za izdavanje uvjerenja da osoba nije lišena prava na roditeljsku skrb
+ZAHTJEV ZA IZDAVANJE
+UVJERENJA DA OSOBA NIJE LIŠENA PRAVA NA RODITELJSKU SKRB
+Ime i prezime: _______________________________________
+OIB: ______________________________________________
+Datum i mjesto rođenja: ________________________________
+Adresa prebivališta/boravišta/za dostavu uvjerenja: _____________ __________________________________________________
+Kontakt podaci: ______________________________________
+Svrha traženja uvjerenja: _______________________________
+Datum zahtjeva: ______________________________________
+Vlastoručni potpis osobe koja traži izdavanje uvjerenja:
+__________________________________________________
