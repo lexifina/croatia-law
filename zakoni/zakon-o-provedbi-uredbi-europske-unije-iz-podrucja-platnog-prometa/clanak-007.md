@@ -1,0 +1,9 @@
+## Alternativno rješavanje sporova
+# Članak 7.
+(1) Pružatelj platnih usluga dužan je korisniku platnih usluga koji je potrošač dati informaciju o najmanje jednom tijelu nadležnom za alternativno rješavanje potrošačkih sporova koji se odnose na primjenu odredbi Uredbe (EU) 2021/1230, Uredbe (EU) 260/2012 ili Uredbe (EU) 2015/751.
+(2) Informacije iz stavka 1. ovoga članka moraju sadržavati poštansku adresu i adresu internetskih stranica tijela nadležnog za alternativno rješavanje potrošačkih sporova te informaciju o obvezi pružatelja platnih usluga iz stavka 5. ovoga članka.
+(3) Pružatelj platnih usluga dužan je informacije iz stavaka 1. i 2. ovoga članka na jasan, razumljiv i lako dostupan način istaknuti u svojim poslovnicama i na svojim internetskim stranicama i, ako je primjenjivo, navesti ih u okvirnom ugovoru na temelju kojeg se izvršavaju platne transakcije na koje se primjenjuju Uredba (EU) 2021/1230 i Uredba (EU) 260/2012 te u konačnom odgovoru na prigovor iz članka 5. stavka 6. ovoga Zakona.
+(4) Korisnik platnih usluga koji je potrošač ima pravo u svim sporovima s pružateljem platnih usluga koji nastanu u primjeni odredbi Uredbe (EU) 2021/1230, Uredbe (EU) 260/2012 ili Uredbe (EU) 2015/751 pokrenuti postupak pred bilo kojim tijelom za alternativno rješavanje potrošačkih sporova.
+(5) Pružatelj platnih usluga dužan je sudjelovati u postupku alternativnog rješavanja spora koji je pokrenuo korisnik platnih usluga koji je potrošač.
+(6) Korisnik platnih usluga koji nije potrošač ima pravo u sporovima s pružateljem platnih usluga koji nastanu u primjeni Uredbe (EU) 2015/751 i/ili ovoga Zakona pokrenuti postupak pred neovisnim tijelom za alternativno rješavanje sporova, a pružatelj platnih usluga dužan je u tom postupku sudjelovati.
+(7) Pravo korisnika platnih usluga iz ovoga članka ne utječe na njegovo pravo na pokretanje sudskog postupka.

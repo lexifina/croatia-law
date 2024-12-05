@@ -1,0 +1,11 @@
+## Pritužba nadležnom tijelu
+# Članak 6.
+(1) Korisnik platnih usluga može Hrvatskoj narodnoj banci uputiti pritužbu protiv pružatelja platnih usluga ako smatra da je postupio protivno Uredbi (EU) 2021/1230, Uredbi (EU) 260/2012, Uredbi (EU) 2015/751, članku 5. ili članku 7. ovoga Zakona.
+(2) Pritužbu iz stavka 1. ovoga članka Hrvatskoj narodnoj banci mogu uputiti i druge osobe s pravnim interesom, uključivo udruge potrošača.
+(3) Nakon zaprimanja pritužbe iz stavaka 1. i 2. ovoga članka Hrvatska narodna banka pozvat će pružatelja platnih usluga na kojeg se ta pritužba odnosi da dostavi svoje očitovanje i dokaze na koje se poziva, osim ako iz same pritužbe i podataka poznatih Hrvatskoj narodnoj banci proizlazi da pritužba nije osnovana.
+(4) Pružatelj platnih usluga dužan je u roku koji odredi Hrvatska narodna banka, a koji ne može biti dulji od deset dana od dana primitka poziva, dostaviti svoje očitovanje i dokaze na koje se poziva.
+(5) Ako povodom pritužbe Hrvatska narodna banka utvrdi da postoji osnovana sumnja da je pružatelj platnih usluga postupio protivno nekoj od odredbi Uredbe (EU) 2021/1230, Uredbe (EU) 260/2012, Uredbe (EU) 2015/751, članka 5. ili članka 7. ovoga Zakona i time počinio prekršaj, pokrenut će prekršajni postupak pred Ministarstvom financija, Financijskim inspektoratom.
+(6) Hrvatska narodna banka obavijestit će podnositelja pritužbe o svom nalazu i o poduzetim mjerama.
+(7) Ako je podnositelj pritužbe potrošač, Hrvatska narodna banka uputit će ga u obavijesti iz stavka 6. ovoga članka na mogućnost provođenja postupka alternativnog rješavanja potrošačkog spora prema članku 7. ovoga Zakona.
+(8) Odredbe ovoga članka primjenjuju se i na pritužbe protiv podružnica i zastupnika pružatelja platnih usluga osnovanih u drugoj državi članici koji platne usluge u Republici Hrvatskoj pružaju na temelju prava na poslovni nastan.
+(9) Iznimno od odredbi ovoga članka, kad Hrvatska narodna banka primi pritužbu protiv pružatelja platnih usluga osnovanog u drugoj državi članici koji platne usluge u Republici Hrvatskoj pruža neposredno ili preko zastupnika koristeći se slobodom pružanja usluga, takvu će pritužbu proslijediti nadležnom tijelu matične države članice.
