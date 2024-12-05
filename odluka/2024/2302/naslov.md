@@ -1,0 +1,1 @@
+Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2024. godinu za isplatu jednokratnoga novčanog primanja korisnicima mirovine i nacionalne naknade za starije osobe radi ublažavanja posljedica rasta troškova života
