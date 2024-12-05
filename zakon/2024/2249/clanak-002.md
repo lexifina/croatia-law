@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 2. stavku 1. točki 8. na kraju rečenice briše se točka i dodaju se točke 9. i 10. koje glase:
+»9. Uredbe Komisije (EU) 2019/2144 Europskog parlamenta i Vijeća od 27. studenoga 2019. o zahtjevima za homologaciju tipa za motorna vozila i njihove prikolice te za sustave, sastavne dijelove i zasebne tehničke jedinice namijenjene za takva vozila u pogledu njihove opće sigurnosti te zaštite osoba u vozilima i nezaštićenih sudionika u cestovnom prometu
+10. Provedbene uredbe Komisije (EU) 2022/1426 оd 5. kolovoza 2022. o utvrđivanju pravila za primjenu Uredbe (EU) 2019/2144 Europskog parlamenta i Vijeća u pogledu jedinstvenih postupaka i tehničkih specifikacija za homologaciju tipa sustava za automatiziranu vožnju (ADS) potpuno automatiziranih vozila.«.
+U stavku 2. točka 2. mijenja se i glasi:
+»2. Direktiva 2006/1/EZ Europskog parlamenta i Vijeća od 18. siječnja 2006. o korištenju vozila unajmljenih bez vozača za cestovni prijevoz tereta (kodificirana verzija) (Tekst značajan za EGP) (SL L 33, 4. 2. 2006.), kako je posljednji put izmijenjena Direktivom (EU) 2022/738 Europskog parlamenta i Vijeća od 6. travnja 2022. o izmjeni Direktive 2006/1/EZ o korištenju vozila unajmljenih bez vozača za cestovni prijevoz tereta (SL L 137, 16. 5. 2022.).«.
