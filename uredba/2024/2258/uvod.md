@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 4., članka 104. stavka 10. i članka 105. stavka 16. Zakona o gospodarenju otpadom (»Narodne novine«, br. 84/21. i 142/23. - Odluka Ustavnog suda Republike Hrvatske), Vlada Republike Hrvatske je na sjednici održanoj 28. studenoga 2024. donijela
