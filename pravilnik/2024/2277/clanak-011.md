@@ -1,0 +1,3 @@
+# Članak 11.
+U članku 36. iza stavka 8. dodaje se stavak 9. i glasi:
+»(9.) Predstavničko tijelo jedinice lokalne samouprave i Grada Zagreba može odlukom odrediti metodologiju, osobu i način utvrđivanja količine komunalnog biootpada u skladu s Prilogom II. Provedbene odluke Komisije (EU) 2019/1004 od 7. lipnja 2019. o utvrđivanju pravila za izračun, provjeru i dostavu podataka o otpadu u skladu s Direktivom 2008/98/EZ Europskog parlamenta i Vijeća te o stavljanju izvan snage Provedbene odluke Komisije C(2012) 2384 (priopćeno pod brojem dokumenta C(2019) 4114) (Tekst značajan za EGP) (SL L 163, 20. 6. 2019.).«.
