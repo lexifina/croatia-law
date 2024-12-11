@@ -1,0 +1,10 @@
+# Članak 1.
+U Pravilniku o priznavanju organizacija proizvođača u ribarstvu i akvakulturi, udruženja organizacija proizvođača i međustrukovnih organizacija (»Narodne novine«, br. 137/21., 6/22. i 143/23.) u članku 5. stavak 1. točka a) mijenja se i glasi:
+»a) na području države:
+1. iznosi najmanje 4 % svih vrsta, od ukupne količine svih iskrcanih proizvoda ribarstva te da vrijednost tih proizvoda u prvoj prodaji iznosi najmanje 1.500.000,00 eura ili
+2. iznosi najmanje 12 % iskrcanih i prodanih proizvoda ribarstva određene vrste ili skupine vrsta proizvoda ribarstva za koje se traži priznavanje, ili
+3. iznosi najmanje 40 % iskrcanih i prodanih proizvoda ribarstva u slučaju priznavanja za vrste plavoperajnu tunu i/ili igluna (za svaku vrstu posebno), ostvarenih ciljanim ribolovom uređenim u skladu s propisima kojima se uređuje ribolov plavoperajne tune i/ili igluna uz uvjet da ulovnu kvotu navedenih vrsta ostvaruju minimalno 4 člana organizacije proizvođača, ili
+4. iznosi najmanje 50.000 kg od ukupne količine iskrcanih proizvoda ribarstva u slučaju organizacija čiji članovi obavljaju ribolov s plovilima manjim od 12 metara preko svega i u povlastici nemaju upisane povlačne alate.«.
+U stavku 2. na kraju rečenice umjesto točke stavlja se zarez i dodaju se riječi: »za sva plovila ovlaštenika povlastice, izuzev ako u zahtjevu za priznavanje nije drugačije navedeno.«.
+Stavak 3. mijenja se i glasi:
+»(3) U slučaju otežanog poslovanja u pogledu ribolova ili stavljanja na tržište čije su posljedice smanjenje količina iskrcaja ili prve prodaje ili smanjenje cijena te drugih objektivnih i opravdanih razloga koji su dokazivi i provjerljivi, Ministarstvo može, prilikom priznavanja organizacije i kasnije provjere uvjeta dostatne gospodarske aktivnosti iz stavka 1. ovoga članka, prihvatiti kao dostatnu gospodarsku aktivnost količine iskrcanih i prodanih proizvoda ribarstva koje su do maksimalno 20 % niže od propisanih kriterija, pod uvjetom da smanjenje ne obuhvaća dvije uzastopne godine.«.

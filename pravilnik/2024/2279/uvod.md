@@ -1,0 +1,1 @@
+Na temelju članka 56. stavka 6. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17., 14/19., 30/23. i 14/24.) i članka 27. stavka 2. Zakona o akvakulturi (»Narodne novine«, br. 130/17., 111/18., 144/20.,30/23. i 14/24.) ministar poljoprivrede, šumarstva i ribarstva donosi

@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 7. stavak 6. mijenja se i glasi:
+»(6) U slučaju otežanog poslovanja u pogledu proizvodnje u akvakulturi ili stavljanja na tržište čije su posljedice smanjenje količina proizvodnje ili smanjenje cijena te drugih objektivnih i opravdanih razloga koji su dokazivi i provjerljivi, Ministarstvo može, prilikom priznavanja organizacije i kasnije provjere uvjeta dostatne gospodarske aktivnosti iz stavka 1. ovoga članka, prihvatiti kao dostatnu gospodarsku aktivnost količine proizvedenih proizvoda akvakulture koje su do maksimalno 20 % niže od propisanih kriterija, pod uvjetom da smanjenje ne obuhvaća dvije uzastopne godine.«.
