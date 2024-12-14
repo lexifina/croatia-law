@@ -1,0 +1,8 @@
+# Članak 1.
+U Uredbi o mehanizmima financiranja u okviru sustava trgovanja emisijama stakleničkih plinova (»Narodne novine«, broj 107/23.), članak 2. mijenja se i glasi:
+»Ovom Uredbom osigurava se provedba:
+- Provedbene uredbe Komisije (EU) 2020/1001 od 9. srpnja 2020. godine o utvrđivanju detaljnih pravila za primjenu Direktive 2003/87/Europskog parlamenta i Vijeća u pogledu djelovanja Modernizacijskog fonda kojim se podupiru ulaganja u modernizaciju energetskih sustava i poboljšanje energetske učinkovitosti određenih država članica (SL L 211, 10. 7. 2020. u daljnjem tekstu: Uredba Komisije (EU) 2020/1001)
+- Provedbene uredbe Komisije (EU) 2023/2606 od 22. studenoga 2023. o izmjeni Provedbene uredbe Komisije (EU) 2020/1001 o utvrđivanju detaljnih pravila za primjenu Direktive 2003/87/EZ Europskog parlamenta i Vijeća u pogledu djelovanja Modernizacijskog fonda kojim se podupiru ulaganja u modernizaciju energetskih sustava i poboljšanje energetske učinkovitosti određenih država članica (SL L 2023/2606, 23. 11. 2023., u daljnjem tekstu: Uredba Komisije (EU) 2023/2606)
+- Delegirane uredbe Komisije (EU) 2019/856 od 26. veljače 2019. o dopuni Direktive 2003/87/EZ Europskog parlamenta i Vijeća u pogledu funkcioniranja Inovacijskog fonda (Tekst značajan za EGP) (SL L 140, 28. 5. 2019.)
+- Delegirane uredbe Komisije (EU) 2021/1204 od 10. svibnja 2021. o izmjeni Delegirane uredbe (EU) 2019/856 u pogledu postupaka podnošenja zahtjeva i postupaka odabira u okviru Inovacijskog fonda (SL L 261/4, 22. 7. 2021.)
+- Delegirane uredbe Komisije (EU) 2023/2537 od 15. rujna 2023. o izmjeni Delegirane uredbe (EU) 2019/856 o dopuni Direktive 2003/87/EZ Europskog parlamenta i Vijeća u pogledu funkcioniranja Inovacijskog fonda (SL L 2023/2537, 20. 11. 2023.).«.
