@@ -1,0 +1,6 @@
+# Članak 2.
+Iza članka 6. dodaje se naslov iznad članka i članak 6.a koji glase:
+»Postupanje u slučaju promjene pokazatelja razvrstavanja tijekom poslovne godine
+Članak 6.a
+(1) Ako se tijekom poslovne godine promijene pokazatelji za razvrstavanje iz članaka 5. i 6. ovoga Zakona koji utječu na primjenu standarda financijskog izvještavanja te na sastavljanje godišnjih financijskih izvještaja i godišnjih konsolidiranih financijskih izvještaja, za poslovnu godinu koja počinje na dan stupanja na snagu takvih promjena ili ranije primjenjuju se standardi financijskog izvještavanja čija je primjena bila određena na osnovi pokazatelja za razvrstavanje koji su bili na snazi na dan koji neposredno prethodi prvom danu te poslovne godine, osim ako ovim Zakonom ili drugim propisima nije određeno drukčije.
+(2) Ako se tijekom poslovne godine promijene pokazatelji za razvrstavanje iz članaka 5. i 6. ovoga Zakona koji utječu na obvezu izvještavanja o održivosti iz članaka 29. i 32. ovoga Zakona, za poslovnu godinu koja počinje na dan stupanja na snagu takvih promjena ili ranije obveznici izvještavanja o održivosti određuju se na osnovi pokazatelja za razvrstavanje koji su bili na snazi na dan koji neposredno prethodi prvom danu te poslovne godine, osim ako ovim Zakonom ili drugim propisima nije određeno drukčije.«.
