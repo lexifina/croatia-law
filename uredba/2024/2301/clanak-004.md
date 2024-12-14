@@ -1,0 +1,2 @@
+# Članak 4.
+U članku 6. stavku 5., članku 9. stavcima 1. i 2. i stavku 3. podstavku 3., članku 10. stavku 2., članku 11., članku 12. stavcima 1. i 2., članku 13. stavcima 1., 2. i 3., članku 14. stavku 3., članku 17. stavcima 2. i 3., članku 23. stavku 3. točki (b), članku 24. stavcima 1., 2., 3., 4., 5, 12. i 15. riječ: »Agencija« u određenom padežu zamjenjuje se riječju: »Ministarstvo« u odgovarajućem padežu.
