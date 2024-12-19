@@ -1,0 +1,1 @@
+Na temelju članka 66. stavka 2. Zakona o obrani (»Narodne novine«, br. 73/13., 75/15., 27/16., 110/17. - Odluka Ustavnog suda Republike Hrvatske, 30/18., 70/19. i 155/23.), na prijedlog Vlade Republike Hrvatske i uz prethodnu suglasnost Predsjednika Republike Hrvatske, Hrvatski sabor na sjednici 6. prosinca 2024. donio je
