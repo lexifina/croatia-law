@@ -1,0 +1,1 @@
+Odluka o prelasku granice Republike Hrvatske oružanih snaga država članica Europske unije i Oružanih snaga Republike Hrvatske angažiranih u okviru Kapaciteta za brzo raspoređivanje Europske unije u 2025. i 2026. godini
