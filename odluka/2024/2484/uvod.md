@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2024. godinu (»Narodne novine«, br. 149/23. i 125/24.), a u vezi s člankom 60. Zakona o proračunu (»Narodne novine«, broj 144/21.), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2024. donijela
