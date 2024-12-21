@@ -1,0 +1,7 @@
+# Članak 2.
+(1) U skladu s člankom 84. stavkom 5. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine«, broj 22/14, 29/18, 115/18 i 156/23, dalje u tekstu: Zakon), Društvo ima pravo na naknadu za upravljanje imovinom za pokriće tehničkih pričuva.
+(2) Naknada za upravljanje iz stavka 1. ovoga članka obračunava se u skladu s učestalosti vrednovanja imovine, na osnovicu koju čini ukupna imovina za pokriće tehničkih pričuva umanjena za iznos financijskih obveza Društva s osnove ulaganja imovine za pokriće tehničkih pričuva, a isplaćuje se jednom mjesečno, do kraja mjeseca za prethodni mjesec.
+(3) Naknada iz stavka 2. ovoga članka izračunava se na utvrđenu osnovicu primjenom propisanih pojedinačnih koeficijenata godišnjih stopa iz članaka 84. stavka 5. Zakona.
+(4) U skladu s člankom 84. stavkom 6. Zakona, Društvo ima pravo na naknadu za upravljanje imovinom za pokriće interventnih pričuva iz članka 81.a Zakona.
+(5) Naknada za upravljanje iz stavka 4. ovoga članka obračunava se u skladu s učestalosti vrednovanja imovine, na osnovicu koju čini ukupna imovina za pokriće interventnih pričuva umanjena za iznos financijskih obveza s osnove ulaganja imovine za pokriće interventnih pričuva, a isplaćuje se jednom mjesečno, do kraja mjeseca za prethodni mjesec.
+(6) Naknada iz stavka 4. ovoga članka izračunava se na utvrđenu osnovicu primjenom propisanih pojedinačnih koeficijenata godišnjih stopa iz članaka 84. stavka 6. Zakona.
