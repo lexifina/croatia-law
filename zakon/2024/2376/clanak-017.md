@@ -1,0 +1,2 @@
+# Članak 17.
+Ako jedinice lokalne samouprave izvrše preračunavanje postojećih iznosa vrijednosti boda komunalne naknade u skladu s pravilima za preračunavanje i zaokruživanje u smislu zakona kojim se uređuje uvođenje eura kao službene valute u Republici Hrvatskoj, to preračunavanje ne smatra se promjenom vrijednosti boda u smislu članka 100. stavka 2. Zakona o komunalnom gospodarstvu (»Narodne novine«, br. 68/18., 110/18. - Odluka Ustavnog suda Republike Hrvatske i 32/20.).
