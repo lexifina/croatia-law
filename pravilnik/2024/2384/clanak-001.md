@@ -1,0 +1,2 @@
+# Članak 1.
+Ovim se Pravilnikom propisuje visina troškova za uništavanje osobnih pošiljaka koje službenici Carinske uprave i policijski službenici imaju pravo i obvezu identificirati i oduzeti u skladu s člankom 58. stavkom 1. Zakona o službenim kontrolama i drugim službenim aktivnostima koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja, za potrebe provedbe poglavlja V. Uredbe (EU) 2017/625 i navedenoga Zakona.

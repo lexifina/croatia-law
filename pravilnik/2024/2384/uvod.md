@@ -1,0 +1,1 @@
+Na temelju članka 58. stavka 8. Zakona o službenim kontrolama i drugim službenim aktivnostima koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja (»Narodne novine«, br. 52/21), ministar poljoprivrede, šumarstva i ribarstva donosi
