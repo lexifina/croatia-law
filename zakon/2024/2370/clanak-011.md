@@ -1,0 +1,5 @@
+# Članak 11.
+U članku 73.e iza stavka 5. dodaje se novi stavak 6. koji glasi:
+»(6) Iznimno od stavka 5. ovoga članka, kada nijedna institucija iz stavka 1. ovoga članka nije kreditna institucija ili ako se mora osnovati drugo posredničko matično društvo u EU-u u vezi s investicijskim djelatnostima, tada posredničko matično društvo u EU-u ili drugo posredničko matično društvo u EU-u može biti investicijsko društvo kojem je odobren rad u skladu s propisom kojim se uređuje tržište kapitala odnosno nacionalnim propisom kojim je prenesen članak 5. stavak 1. Direktive 2014/65/EU, a koje je podložno propisu kojim se uređuje sanacija kreditnih institucija i investicijskih društava odnosno propisu kojim je u nacionalni propis prenesena Direktiva 2014/59/EU.«.
+U dosadašnjem stavku 6., koji postaje stavak 7., u podstavku 2. iza riječi: »Vijeća« dodaju se riječi: »od 15. svibnja 2014. o tržištima financijskih instrumenata i izmjeni Uredbe (EU) br. 648/2012 (Tekst značajan za EGP) (SL L 173, 12. 6. 2014.).«.
+Dosadašnji stavci 7. i 8. postaju stavci 8. i 9.

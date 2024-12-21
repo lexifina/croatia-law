@@ -1,0 +1,5 @@
+# Članak 28.
+U članku 209. stavku 1. uvodna rečenica mijenja se i glasi:
+»(1) Iznimno od odredbi članaka 206., 207. i 212. ovoga Zakona i iznimno od odredbi kojima su u nacionalno pravo država članica preneseni članci 53., 54. i 55. Direktive 2013/36/EU, Hrvatska narodna banka razmjenjivat će povjerljive informacije s osobama koje su u Republici Hrvatskoj ili u drugim državama članicama ovlaštene za provedbu nadzora, i to nad:«.
+U stavku 3. uvodna rečenica mijenja se i glasi:
+»(3) Iznimno od odredbi članaka 206., 207. i 212. ovoga Zakona i iznimno od odredbi kojima su u nacionalno pravo država članica preneseni članci 53., 54. i 55. Direktive 2013/36/EU, Hrvatska narodna banka može, radi jačanja stabilnosti i očuvanja cjelovitosti financijskog sustava, razmjenjivati informacije i s drugim nadležnim tijelima i institucijama u Republici Hrvatskoj i drugoj državi članici koje u skladu sa zakonom provode postupke u vezi s kršenjem prava trgovačkih društava ako to u pisanom obliku zatraži ili naloži nadležni sud, a Hrvatska narodna banka tim će tijelima priopćiti povjerljive informacije ako su ispunjeni sljedeći uvjeti:«.

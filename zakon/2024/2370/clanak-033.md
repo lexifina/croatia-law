@@ -1,0 +1,2 @@
+# Članak 33.
+U članku 289. stavku 4. iza riječi: »nadziranja obveznika« dodaju se riječi: »iz članka 2. stavka 1. točaka 1. i 2. Direktive (EU) 2015/849 Europskog parlamenta i Vijeća od 20. svibnja 2015. o sprečavanju korištenja financijskog sustava u svrhu pranja novca ili financiranja terorizma, o izmjeni Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive 2005/60/EZ Europskog parlamenta i Vijeća i Direktive Komisije 2006/70/EZ (SL L 141, 5. 6. 2015.)«.

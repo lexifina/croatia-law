@@ -1,0 +1,3 @@
+# Članak 29.
+U članku 212.a stavku 1. uvodna rečenica mijenja se i glasi:
+»(1) Iznimno od odredbi članka 206. stavaka 1. do 3. i članka 207. ovoga Zakona i iznimno od odredbi kojima su u nacionalno pravo država članica preneseni članak 53. stavak 1. i članak 54. Direktive 2013/36/EU, Hrvatska narodna banka će na zahtjev Međunarodnog monetarnog fonda u svrhu obavljanja njegovih zadataka, Svjetske banke za potrebe procjena u okviru Programa procjene financijskog sektora, Banke za međunarodne namire za potrebe studija kvantitativnog učinka ili Odbora za financijsku stabilnost za potrebe njegove nadzorne funkcije dostaviti skupne podatke ili podatak iz kojeg nije moguće prepoznati o kojoj se kreditnoj instituciji radi ako su ispunjeni sljedeći uvjeti:«.
