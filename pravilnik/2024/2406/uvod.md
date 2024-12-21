@@ -1,0 +1,1 @@
+Na temelju članka 82.a stavka 3. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/2014, 29/2018, 115/2018 i 156/2023) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 10. prosinca 2024. godine donosi

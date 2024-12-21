@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa) detaljnije propisuje minimalni sadržaj plana oporavka iz članka 82a. stavka 3. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/2014, 29/2018, 115/2018 i 156/2023, dalje u tekstu: Zakon).
+(2) Odredbe ovog Pravilnika primjenjuju se na mirovinska osiguravajuća društva (dalje u tekstu Društvo) sa sjedištem u Republici Hrvatskoj kojima je Hanfa izdala odobrenje za obavljanje poslova isplate mirovina.
+(3) Odredbe ovoga Pravilnika na odgovarajući se način primjenjuju i na instituciju za strukovno mirovinsko osiguranje koja ima pravo, u skladu s odredbama Zakona, izravno ili putem podružnice u Republici Hrvatskoj obavljati poslove iz članka 9. stavka 1. točke 3. Zakona i drugu pravnu osobu koja je na temelju zakona koji uređuje osnivanje i poslovanje mirovinskih društava za upravljanje dobrovoljnim mirovinskim fondovima i dobrovoljnih mirovinskih fondova dobila odobrenje Hanfe za obavljanje poslova iz članka 9. stavka 1. točaka 2. i 3. Zakona.
