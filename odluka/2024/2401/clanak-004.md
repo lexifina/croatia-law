@@ -1,0 +1,10 @@
+## Nadležnosti Hrvatske narodne banke
+# Članak 4.
+(1) Subjekt nadzora dužan je na zahtjev Hrvatske narodne banke i u roku koji odredi Hrvatska narodna banka dostaviti sva izvješća, informacije i dokumente o svim pitanjima i okolnostima bitnima za obavljanje nadzora ili za praćenje usklađenosti subjekta nadzora s odredbama propisa kojima se uređuje sprječavanje pranja novca i financiranja terorizma.
+(2) Subjekt nadzora dužan je omogućiti Hrvatskoj narodnoj banci obavljanje izravnog i neizravnog nadzora te osigurati prikladne uvjete i resurse za neometano obavljanje nadzora.
+(3) Subjekt nadzora dužan je omogućiti obavljanje izravnog nadzora u sjedištu subjekta nadzora i na ostalim mjestima na kojima subjekt nadzora ili druga osoba na temelju ovlaštenja subjekta nadzora obavlja djelatnosti i poslove u vezi s kojima Hrvatska narodna banka provodi nadzor.
+(4) Za potrebe izvršavanja svojih nadzornih ovlasti Hrvatska narodna banka može:
+1) zatražiti dostavljanje izvješća, informacija i dokumenata od članova uprave, članova nadzornog odbora ako subjekt nadzora ima nadzorni odbor, ovlaštene osobe i njezina zamjenika, drugih radnika subjekata nadzora, pružatelja usluge eksternalizacije subjektu nadzora i drugih relevantnih osoba subjekta nadzora
+2) obaviti pregled poslovnih knjiga i sve druge relevantne poslovne dokumentacije
+3) obaviti razgovore za potrebe prikupljanja informacija s članovima uprave, odnosno izvršnim direktorima ili članovima upravnog odbora, članovima nadzornog odbora ako subjekt nadzora ima nadzorni odbor, ovlaštenom osobom i njezinim zamjenikom, drugim radnicima subjekta nadzora, pružateljem usluge eksternalizacije subjektu nadzora i drugim relevantnim osobama subjekta nadzora.
+(5) Hrvatska narodna banka temelji učestalost i intenzitet izravnog i neizravnog nadzora na profilu rizika subjekta nadzora te na rizicima od pranja nova i financiranja terorizma identificiranima u Republici Hrvatskoj na temelju Nacionalne procjene rizika od pranja novca i financiranja terorizma.

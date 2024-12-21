@@ -1,0 +1,1 @@
+Na temelju članka 83. stavka 6. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, br. 108/2017., 39/2019. i 151/2022.) i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi
