@@ -1,0 +1,11 @@
+## Obveza usklađivanja s mjerama zaštite i očuvanja kulturnog dobra
+# Članak 70.
+(1) Ministarstvo po službenoj dužnosti utvrđuje obvezu usklađenja s mjerama zaštite i očuvanja kulturnog dobra rješenjem te određuje rok za provođenje usklađenja.
+(2) Ako vlasnik ili suvlasnik, nositelj prava na kulturnom dobru i imatelj kulturnog dobra ne provede mjeru utvrđenu izvršnim rješenjem iz stavka 1. ovoga članka u određenom roku, na temelju konzervatorskog zapisnika inspekcija za zaštitu kulturnih dobara pokreće prekršajni postupak ili izdaje prekršajni nalog.
+(3) Ako vlasnik ili suvlasnik, nositelji prava na kulturnom dobru i druge odgovorne osobe za kulturno dobro ne ispune obvezu sukladno rješenju o izvršenju iz stavka 2. ovoga članka, tu će mjeru provesti Ministarstvo putem trećih osoba na trošak vlasnika ili suvlasnika, nositelja prava na kulturnom dobru i druge odgovorne osobe za kulturno dobro.
+(4) Ministarstvo utvrđuje obvezu vlasnika ili suvlasnika odnosno nositelja prava na naknadu troškova i visinu troškova izvršenja mjere iz stavka 3. ovoga članka.
+(5) Ako je upravljanje kulturnim dobrom povjereno upravitelju sukladno posebnom propisu, u postupcima iz stavaka 1. do 3. ovoga članka suvlasnike zastupa upravitelj koji je dužan provoditi mjere zaštite i očuvanja kulturnog dobra koje mu odredi Ministarstvo.
+(6) Ako suvlasnici zbog određenih okolnosti nemaju više upravitelja kulturnog dobra, oni su dužni u roku od osam dana između njih imenovati osobu koja će ih zastupati i o tome obavijestiti Ministarstvo.
+(7) Suvlasnici odgovaraju solidarno za provedbu izrečenih mjera zaštite i očuvanja kulturnih dobara i provedbu rješenja iz stavaka 1. do 3. ovoga članka.
+(8) Promjena vlasnika ili nositelja prava na kulturnom dobru ili upravitelja ne utječe na tijek postupka provođenja propisane i utvrđene mjere zaštite i očuvanja koja je za određeno kulturno dobro na temelju rješenja iz stavka 1. ovoga članka upisana u Registar kulturnih dobara te je na temelju ovoga Zakona ona obvezujuća za svakog novog vlasnika ili nositelja prava na kulturnom dobru i upravitelja te će Ministarstvo provesti izvršenje rješenja prema svakom novom vlasniku, nositelju prava i upravitelju.
+(9) Žalba na rješenje iz stavaka 1. i 3. ovoga članka ne odgađa izvršenje rješenja.

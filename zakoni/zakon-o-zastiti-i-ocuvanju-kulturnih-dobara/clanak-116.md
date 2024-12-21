@@ -1,0 +1,13 @@
+## Proračunski prihodi po osnovi uporabe kulturnih dobara
+# Članak 116.
+(1) Fizičke i pravne osobe koje su obveznici poreza na dohodak ili poreza na dobit, a koje obavljaju gospodarsku djelatnost u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline, obveznici su spomeničke rente.
+(2) Fizičke i pravne osobe koje u svom sastavu imaju poslovne jedinice (svako stalno mjesto obavljanja gospodarske djelatnosti) koje obavljaju gospodarsku djelatnost u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline, obveznici su spomeničke rente za svaku poslovnu jedinicu.
+(3) Osnovica spomeničke rente korisna je površina poslovnog prostora koji se nalazi u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline.
+(4) Spomenička renta plaća se mjesečno od 0,13 do 0,53 eura po četvornome metru korisne površine poslovnog prostora koji se nalazi u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline.
+(5) Visinu spomeničke rente propisuje svojom odlukom Grad Zagreb, grad ili općina.
+(6) Obveznici spomeničke rente moraju nadležnom upravnom tijelu jedinice lokalne i područne (regionalne) samouprave u čijem su djelokrugu poslovi komunalnoga gospodarstva, do 31. ožujka godine za koju se utvrđuje spomenička renta, dostaviti podatke o korisnoj površini poslovnih prostora koji se nalaze u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline.
+(7) Spomenička renta plaća se mjesečno u iznosu i roku utvrđenom rješenjem o utvrđivanju spomeničke rente koje donosi upravno tijelo jedinica lokalne samouprave nadležno za poslove komunalnoga gospodarstva odnosno upravno tijelo Grada Zagreba nadležno za poslove komunalnoga gospodarstva, koje se donosi za svaku godinu.
+(8) Ako u tijeku kalendarske godine fizička ili pravna osoba počinje ili prestaje obavljati djelatnost u nepokretnom kulturnom dobru ili na području kulturno-povijesne cjeline, plaća spomeničku rentu za dio godine u kojoj je obavljala djelatnost.
+(9) Korisnik koncesije na kulturnom dobru te fizičke i pravne osobe koje obavljaju prerađivačku ili proizvodnu djelatnost kao pretežitu djelatnost oslobođeni su plaćanja spomeničke rente propisane ovim člankom.
+(10) Na ovršni i žalbeni postupak primjenjuju se odredbe zakona kojim se uređuje komunalno gospodarstvo, a na zastaru se primjenjuju odredbe zakona kojim se uređuje porezni postupak.
+(11) Protiv rješenja jedinice lokalne samouprave iz stavka 7. ovoga članka žalba se može podnijeti upravnom tijelu jedinice područne (regionalne) samouprave nadležnom za poslove komunalnoga gospodarstva, a protiv rješenja upravnog tijela Grada Zagreba žalba se može podnijeti Ministarstvu.

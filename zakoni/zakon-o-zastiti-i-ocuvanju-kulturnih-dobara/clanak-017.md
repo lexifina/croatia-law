@@ -1,0 +1,7 @@
+## Određivanje kontaktne zone
+# Članak 17.
+(1) Za nepokretno kulturno dobro može se odlukom iz članka 15. stavka 2. i članka 16. stavka 2. ovoga Zakona odrediti kontaktna zona koja obuhvaća područje koje okružuje ili dotiče nepokretno kulturno dobro, a u kojem određene promjene mogu bitno utjecati na prostornu, fizičku i/ili vizualnu cjelovitost kulturnog dobra, a što se propisuje pravilnikom kojim se uređuje Registar kulturnih dobara Republike Hrvatske iz članka 20. stavka 4. ovoga Zakona.
+(2) Za kontaktnu zonu iz stavka 1. ovoga članka određuju se mjere radi osiguranja zaštite vrijednosti nepokretnog kulturnog dobra koje se unose u odluku o proglašenju kulturnog dobra zajedno s obuhvatom kontaktne zone na koje se primjenjuju.
+(3) Kontaktna zona određuje se obvezno za nepokretno kulturno dobro upisano u Listu svjetske baštine ili u Listu ugrožene svjetske baštine, a može se odrediti za kulturno-povijesnu cjelinu, kulturni krajolik i za pojedinačno zaštićeno nepokretno kulturno dobro izvan kulturno-povijesne cjeline.
+(4) Mjere radi osiguranja zaštite vrijednosti kulturnog dobra iz stavka 2. ovoga članka koje su unesene u prostorne planove provode se u okviru provedbe tih planova sukladno ovom Zakonu i propisima kojima se uređuje gradnja i prostorno uređenje.
+(5) Kontaktna zona unosi se u informacijski sustav kulturne baštine koji vodi Ministarstvo, a koji je povezan u informacijski sustav sukladno propisu kojim se uređuje prostorno uređenje.

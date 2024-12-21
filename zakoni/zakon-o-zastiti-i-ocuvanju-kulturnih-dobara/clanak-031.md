@@ -1,0 +1,8 @@
+## Zaštita kulturnih dobara u izvanrednim okolnostima
+# Članak 31.
+(1) Ministar nadležan za kulturu će u slučaju nastanka izvanrednih okolnosti radi zaštite i očuvanja kulturnih dobara naredbom, uz prethodnu suglasnost ministra nadležnog za poslove civilne zaštite, utvrditi poduzimanje posebnih mjera zaštite i očuvanja kulturnih dobara za vrijeme trajanja izvanrednih okolnosti, što uključuje mjere za sprječavanje nastanka štete na kulturnim dobrima, utvrđivanje nastale štete, ublažavanje i njezino uklanjanje.
+(2) Izvanrednim okolnostima iz stavka 1. ovoga članka smatraju se oružani sukob, potres, poplava, požar, ekološki incident i katastrofa ili drugi slični događaji koji ugrožavaju kulturno dobro.
+(3) Župan, gradonačelnik Grada Zagreba, gradonačelnik i općinski načelnik na čijem se području nalazi kulturno dobro dužan je osigurati sredstva potrebna za provedbu mjera iz stavka 1. ovoga članka.
+(4) Ministar nadležan za kulturu može u slučaju iz stavka 1. ovoga članka odlukom utvrditi konzervatorske smjernice za obnovu kulturnih dobara koja su zaštićena posebnim rješenjem kao pojedinačna kulturna dobra te građevina unutar zaštićene kulturno-povijesne cjeline.
+(5) U slučaju nastanka izvanrednih okolnosti Ministarstvo će obaviti popis štete na kulturnim dobrima u suradnji s jedinicama lokalne i područne (regionalne) samouprave na čijim se područjima kulturna dobra nalaze te upisati štete na kulturnim dobrima u odgovarajući registar šteta.
+(6) U svrhu ublažavanja i uklanjanja nastale štete na kulturnim dobrima Ministarstvo izrađuje i donosi program mjera zaštite i očuvanja kulturnih dobara u suradnji s jedinicama lokalne i područje (regionalne) samouprave iz stavka 5. ovoga članka.

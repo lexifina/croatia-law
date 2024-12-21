@@ -1,0 +1,10 @@
+## Proglašenje statusa kulturnog dobra za arhivsko gradivo, knjižničnu i muzejsku građu
+# Članak 18.
+(1) Iznimno od odredbe članka 15. stavka 2. ovoga Zakona, postupak utvrđivanja statusa kulturnog dobra za arhivsko gradivo provodi i odluku o proglašenju statusa kulturnog dobra donosi Hrvatski državni arhiv po službenoj dužnosti ili na zahtjev Ministarstva ili područnog državnog arhiva na način propisan ovim Zakonom.
+(2) Na temelju odluke iz stavka 1. ovoga članka kulturno dobro upisuje se u Evidenciju arhivskoga gradiva za koje je utvrđen status kulturnog dobra, koja Evidencija je sastavni dio Registra kulturnih dobara Republike Hrvatske.
+(3) Iznimno od odredbe članka 15. stavka 2. ovoga Zakona, postupak utvrđivanja statusa kulturnoga dobra za knjižničnu građu, knjige, ostalu tiskanu građu i rukopisnu građu, osim one za koju je status kulturnog dobra utvrđen ovim Zakonom i zakonom kojim se uređuje knjižnična djelatnost, provodi i odluku o proglašenju statusa kulturnog dobra donosi Nacionalna i sveučilišna knjižnica u Zagrebu po službenoj dužnosti ili na zahtjev Ministarstva, knjižnice, vjerske zajednice odnosno druge pravne osobe u čijem je sastavu knjižnica ili fizičke osobe, na način propisan ovim Zakonom.
+(4) Na temelju odluke iz stavka 3. ovoga članka knjižnična građa upisuje se u Evidenciju knjižnične građe za koju je utvrđen status kulturnog dobra, a koja je sastavni dio Registra kulturnih dobara Republike Hrvatske.
+(5) Iznimno od odredbe članka 15. stavka 2. ovoga Zakona, status kulturnog dobra stječu muzejski predmeti i muzejske zbirke upisom u inventarnu knjigu javnih muzeja sukladno ovom Zakonu i zakonu kojim se uređuje muzejska djelatnost.
+(6) Dostava odluke iz stavaka 1. i 3. ovoga članka obavlja se objavom na mrežnim stranicama donositelja iz stavaka 1. i 3. ovoga članka.
+(7) Dostava odluke iz stavaka 1. i 3. ovoga članka smatra se obavljenom istekom osmoga dana od dana objave na mrežnim stranicama donositelja.
+(8) Protiv odluke iz stavaka 1. i 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.

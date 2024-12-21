@@ -1,0 +1,7 @@
+# Članak 127.
+(1) Ministarstvo kulture i medija preuzima dana 1. siječnja 2026. obavljanje upravnih i stručnih poslova zaštite i očuvanja kulturnih dobara predviđenih ovim Zakonom za područje Grada Zagreba koje je obavljao Gradski zavod za zaštitu spomenika kulture i prirode Grada Zagreba.
+(2) Gradski zavod za zaštitu spomenika kulture i prirode Grada Zagreba obavljat će do 1. siječnja 2026. poslove iz stavka 1. ovoga članka koji su propisani odredbama glave III., člancima 14.,16.,17. i 19., glava IV., V,, VI., VII. člancima 53., 54., 55. i 56. te glava IX. i XIV. ovoga Zakona.
+(3) Zatečeni djelatnici Gradskog zavoda za zaštitu spomenika kulture i prirode Grada Zagreba nastavljaju obavljati poslove iz stavka 1. ovoga članka do 1. siječnja 2026.
+(4) Dana 1. siječnja 2026. službenike i namještenike, opremu, pismohranu i drugu dokumentaciju, sredstva za rad, prava i obveze Gradskog zavoda za zaštitu spomenika kulture i prirode Grada Zagreba preuzima Ministarstvo kulture i medija u dijelu koji se odnosi na obavljanje poslova iz stavka 1. ovoga članka.
+(5) Djelatnici Gradskog zavoda za zaštitu spomenika kulture i prirode Grada Zagreba iz stavka 4. ovoga članka do izvršnosti Rješenja o preuzimanju nastavljaju obavljati dosadašnje poslove te zadržavaju stečena prava i obveze.
+(6) O preuzimanju djelatnika, opreme, pismohrane i druge dokumentacije te sredstava za rad Gradskog zavoda za zaštitu spomenika kulture i prirode Grada Zagreba sklopit će se pisani sporazum o preuzimanju s Gradom Zagrebom.

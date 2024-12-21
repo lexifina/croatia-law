@@ -1,0 +1,8 @@
+## Konzervatorska podloga
+# Članak 27.
+(1) Radi zaštite i očuvanja za kulturno-povijesne cjeline, kulturni krajolik i ostale prostorne cjeline izrađuje se konzervatorska podloga koja uključuje i područje kontaktne zone.
+(2) Konzervatorsku podlogu iz stavka 1. ovoga članka utvrđuje Ministarstvo.
+(3) Podlogom iz stavka 2. ovoga članka predlaže se obuhvat zaštite nepokretnog kulturnog dobra iz stavka 1. ovoga članka i kontaktne zone na temelju prepoznavanja i vrednovanja područja zajedničkih obilježja, a podloga se unosi u Informacijski sustav kulturne baštine (ISKB), modul e-Konzervatorska podloga podržan Geografskim informacijskim sustavom (GIS).
+(4) Dokumenti prostornog uređenja, ovisno o vrsti i području obuhvata, obvezno sadržavaju podatke iz konzervatorske podloge s mjerama zaštite i očuvanja nepokretnih kulturnih dobara koja se nalaze na području obuhvata plana.
+(5) Prilikom izrade prostornog plana Ministarstvo je dužno na dostavljenu odluku o izradi prostornog plana nositelju izrade dostaviti konzervatorsku podlogu ili utvrditi mjere zaštite i očuvanja nepokretnih kulturnih dobara koja se nalaze na području obuhvata prostornog plana, uključujući i obuhvat kontaktne zone kulturnog dobra te mjere radi osiguranja zaštite i očuvanja vrijednosti kulturnog dobra.
+(6) Ako određeni dio prostornog plana nije usklađen s konzervatorskom podlogom ili dostavljenim mjerama zaštite i očuvanja kulturnih dobara iz stavka 5. ovoga članka, Ministarstvo će nositelju izrade u javnoj raspravi o prostornom planu dostaviti mišljenje o primjeni posebnog propisa i/ili dokumenta koji je od utjecaja na prostorni plan.
