@@ -1,0 +1,3 @@
+# Članak 18.
+U članku 70. iza stavka 16. dodaje se stavak 17. koji glasi:
+»(17) Ako odlukom o otvaranju postupka sanacije iz članka 46. ili 47. ovoga Zakona odluči primijeniti sanacijski instrument nad institucijom ili subjektom iz članka 3. točke 2., 3. ili 4. ovoga Zakona, a ta bi sanacijska mjera dovela do pokrića gubitka od strane vjerovnika ili pretvaranja njihovih tražbina, Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga provodi smanjenje vrijednosti ili pretvaranje relevantnih instrumenata kapitala i podložnih obveza u skladu s člankom 52. ovoga Zakona neposredno prije primjene sanacijskog instrumenata ili zajedno s njim.«.

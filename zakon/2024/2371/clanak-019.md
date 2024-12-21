@@ -1,0 +1,7 @@
+# Članak 19.
+U članku 93. stavak 3. mijenja se i glasi:
+»(3) Odredba stavka 1. ovoga članka ne primjenjuje se na subjekt planiran za likvidaciju, u kojem slučaju se obveze na koje se u skladu sa stavkom 2. ovoga članka primjenjuje stavak 1. ovoga članka, a koje ne sadržavaju ugovornu odredbu u skladu sa stavkom 1. ovoga članka, ne mogu koristiti za ispunjavanje minimalnog zahtjeva subjekta planiranog za likvidaciju za koji je Hrvatska narodna banka odnosno Hrvatska agencija za nadzor financijskih usluga odredila zahtjev iz članka 34., 35., 36. ili 37. ovoga Zakona.«.
+Stavak 9. mijenja se i glasi:
+»(9) Institucija ili subjekt iz članka 3. točke 2., 3. ili 4. ovoga Zakona ocjenu iz stavka 5. ovoga članka o nemogućnosti uključivanja ugovorne odredbe ne može donijeti za instrumente redovnog osnovnog, dodatnog osnovnog i dopunskog kapitala te za obveznice i ostale oblike prenosivog duga i instrumente koji stvaraju ili priznaju dug, ako su ti instrumenti neosigurane obveze, već može samo za obveze nadređene nepovlaštenim neosiguranim dužničkim instrumentima te nadređene instrumentima redovnog osnovnog, dodatnog osnovnog i dopunskog kapitala i podređenog duga koji nije uključen u stavke dodatnog osnovnog kapitala ili dopunskog kapitala.«.
+Stavak 12. mijenja se i glasi:
+»(12) Obveze koje u skladu sa stavcima 1. i 5. ovoga članka ne uključuju ugovornu odredbu ne mogu se koristiti za ispunjavanje minimalnog zahtjeva.«.
