@@ -1,0 +1,1 @@
+Pravilnik o odgovarajućoj vrsti i razini obrazovanja odgojno-obrazovnih i ostalih radnika u dječjem vrtiću, ustanovama te drugim pravnim i fizičkim osobama koje provode programe ranog i predškolskog odgoja i obrazovanja

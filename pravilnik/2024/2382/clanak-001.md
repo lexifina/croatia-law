@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se odgovarajuća vrsta i razina obrazovanja odgojno-obrazovnih radnika te vrsta i razina obrazovanja ostalih radnika u dječjem vrtiću, kao i potrebna vrsta i razina obrazovanja za izvođenje programa ranog i predškolskog odgoja i obrazovanja koji se ostvaruju pri osnovnim školama, posebnim, zdravstvenim i socijalnim ustanovama te kao kraći programi odgojno-obrazovnog rada s djecom predškolske dobi pri knjižnicama, kulturnim i sportskim ustanovama, udrugama te drugim pravnim i fizičkim osobama - obrtnicima.
+(2) Izrazi koji se koriste u ovome Pravilniku, a koji imaju rodno značenje, bez obzira na to jesu li korišteni u muškome ili ženskome rodu obuhvaćaju na jednak način i muški i ženski rod.
