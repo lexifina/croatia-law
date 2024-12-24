@@ -1,0 +1,3 @@
+# Članak 2.
+(1) Ministarstvo poljoprivrede, šumarstva i ribarstva odredit će rješenjem po službenoj dužnosti mjere i uvjete za uporabu lovačkog oružja i naboja te uvjete i način lova jedinki rakunopsa (Nyctereutes procyonoides Gray, 1834) i rakuna (Procyon lotor, Linnaeus, 1758) koje će se objaviti na službenoj mrežnoj stranici Ministarstva zaštite okoliša i zelene tranzicije.
+(2) Pri uklanjanju jedinki rakunopsa (Nyctereutes procyonoides Gray, 1834) i rakuna (Procyon lotor, Linnaeus, 1758) potrebno je osigurati da životinje budu pošteđene svake boli, nelagode ili patnje koja se može izbjeći, a da se pritom ne ugrožava učinkovitost provođenja aktivnosti iz članka 1. te voditi računa da se provedbom uklanjanja ne utječe na zavičajne vrste i staništa.
