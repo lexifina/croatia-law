@@ -1,0 +1,5 @@
+# Članak 6.
+(1) Podaci se upisuju u evidencije iz članka 2. stavaka 1. i 2. ovoga Pravilnika i objavljuju na mrežnim stranicama ministarstva najkasnije u roku od osam dana od dana zaprimanja obavijesti iz članka 3. stavka 1. odnosno stavka 2. ovoga Pravilnika.
+(2) Upis u evidencije vrši se prema redoslijedu zaprimanja obavijesti iz članka 3. stavka 1. odnosno stavka 2. ovoga Pravilnika.
+(3) Prilikom unosa podataka u evidencije, pogreške u imenima i brojevima, očite pogreške u pisanju, odnosno nesuglasnosti između podataka u dostavljenim obavijestima iz članka 3. stavka 1. odnosno stavka 2. ovoga Pravilnika i podataka u sudskom ili obrtnom registru može ispraviti nadležni službenik ministarstva bez odgode i u svako doba.
+(4) Iznimno od stavka 1. ovoga članka, na mrežnim stranicama ministarstva neće se objaviti podaci iz evidencije iz članka 2. stavka 2. ovoga Pravilnika ako ministarstvo ima saznanje da je protiv poslodavca odnosno odgovorne osobe tog poslodavca podnesena kaznena prijava zbog kaznenih djela protiv radnih odnosa i socijalnog osiguranja, i to zbog neisplate plaće, povrede prava iz socijalnog osiguranja odnosno protuzakonitog zapošljavanja.

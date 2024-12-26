@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Upis u evidenciju iz članka 2. stavka 1. ovoga Pravilnika vrši se na temelju obavijesti nadležnog inspektora koji je prema posebnom propisu ovlašten za nadzor u vezi s radom i zapošljavanjem (dalje u tekstu: nadležni inspektor) i koji je utvrdio postojanje neprijavljenoga rada.
+(2) Upis u evidenciju iz članka 2. stavka 2. ovoga Pravilnika vrši se na temelju obavijesti nadležnog inspektora koji je prilikom inspekcijskog nadzora provedenog na okolnost postojanja neprijavljenog rada, utvrdio da poslodavac nije prekršio odgovarajuće propise u području prijavljivanja rada i isplate plaće te dostavljene suglasnosti poslodavca za objavu podataka iz evidencije.
