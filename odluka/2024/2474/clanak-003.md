@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 5. stavku 1. podstavku 1. točki a) podtočki ii. riječi: »(»Narodne novine«, br. 65/2018. i 17/2020.)« zamjenjuju se riječima: »(»Narodne novine«, br. 65/2018., 17/2020., 83/2021., 151/2022. i 85/2024.)«.
+U podtočki iii. riječi: »(»Narodne novine«, br. 66/2018.)« zamjenjuju se riječima: »(»Narodne novine«, br. 66/2018., 114/2022. i 136/2024.)«.
+U podtočki iv. riječi: »(»Narodne novine«, br. 64/2018.)« zamjenjuju se riječima: »(»Narodne novine«, br. 64/2018., 114/2022. i 136/2024.)«.
+Stavak 2. mijenja se i glasi:
+»(2) U smislu ove Odluke eksternalizirana funkcija potrebna za obavljanje aktivnosti u sklopu temeljnih poslovnih linija ili ključnih funkcija iz članka 4. stavka 2. točaka 42. i 120. Zakona o sanaciji kreditnih institucija i investicijskih društava (»Narodne novine«, br. 146/2020., 21/2022. i 27/2024.) te onih koje je utvrdila kreditna institucija na temelju kriterija iz članaka 6. i 7. Delegirane uredbe Komisije (EU) 2016/778 jest ključna ili važna funkcija, osim ako kreditna institucija utvrdi da nepružanje eksternalizirane funkcije ili neodgovarajuće pružanje eksternalizirane funkcije ne bi imalo negativan utjecaj na operativni kontinuitet temeljne poslovne linije ili ključne funkcije.«
