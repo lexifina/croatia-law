@@ -1,0 +1,8 @@
+## Način vođenja Registra ovlaštenih pružatelja usluga servisiranja kredita
+# Članak 6.
+(1) Hrvatska narodna banka Registar vodi u elektroničkom obliku, koji je dostupan na mrežnim stranicama Hrvatske narodne banke, na hrvatskom i engleskom jeziku s mogućnošću preuzimanja sadržaja i s podatkom o datumu posljednje izmjene sadržaja Registra.
+(2) Hrvatska narodna banka ažurira Registar najmanje jednom tjedno, i to prvoga radnog dana u tjednu.
+(3) Hrvatska narodna banka dužna je obavijestiti nadležno tijelo države članice domaćina o svakoj promjeni koja je važna za registar ili popis toga nadležnog tijela najkasnije do trenutka objave te promjene u svojem Registru.
+(4) Iznimno od stavka 2. ovog članka, nakon što Hrvatska narodna banka, kao nadležno tijelo u Republici Hrvatskoj, donese rješenje o ukidanju odobrenja pružatelju usluga servisiranja kredita ili utvrdi da je prestalo važiti odobrenje za rad pružatelju usluga servisiranja kredita i/ili donese rješenje o zabrani pružatelju usluga servisiranja kredita da prima i drži sredstva dužnika, Hrvatska narodna banka unijet će tu informaciju u Registar bez odgode, a najkasnije do dva radna dana nakon donošenja rješenja, odnosno nakon što Hrvatska narodna banka utvrdi podatke iz članka 30. stavka 3. Zakona.
+(5) Ako je pružatelju usluge servisiranja kredita ukinuto ili prestalo važiti odobrenje za rad, Hrvatska narodna banka treba u Registar uvrstiti, na neodređenoj osnovi, informacije koje su bile ažurirane i relevantne u trenutku ukidanja ili prestanka važenja odobrenja za rad.
+(6) Informacija iz stavka 4. ovog članka u Registru jest trajan podatak na neodređeno vrijeme.

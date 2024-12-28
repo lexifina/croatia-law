@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 8. i članka 40. stavka 7. Zakona o načinu, uvjetima i postupku servisiranja i kupoprodaje potraživanja (»Narodne novine«, br. 155/2023.) i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi
