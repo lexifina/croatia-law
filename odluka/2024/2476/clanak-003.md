@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 4. točka 3. mijenja se i glasi:
+»3) stanju digitalne operativne otpornosti i primjerenosti upravljanja IKT rizikom, u skladu s Uredbom (EU) 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014, i (EU) 2016/1011 (Tekst značajan za EGP) (SL L 333, 27.12.2022.) (u nastavku teksta: Uredba (EU) 2022/2554) i Zakonom o provedbi Uredbe (EU) 2022/2554 o digitalnoj operativnoj otpornosti za financijski sektor (»Narodne novine«, broj 136/2024.) i«.
