@@ -1,0 +1,18 @@
+PRILOG 4.
+POPIS DOPUŠTENIH MODELA ZA ZAJEDNIČKE PRIHODE PRORAČUNA I DRUGE PRIHODE ZA FINANCIRANJE JAVNIH POTREBA
+A. ZAJEDNIČKI PRIHODI PRORAČUNA
+3. ZAJEDNIČKI PRIHOD DRŽAVNOG, ŽUPANIJSKIH I GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun/naziv računa | Model
+HR05 | HR67
+HRxx100100517…2996K Naknada za korištenje nekretnine po pravilima stjecanja bez osnove | -
+| HR67
+4. ZAJEDNIČKI PRIHODI ŽUPANIJSKIH I
+GRADSKIH/OPĆINSKIH PRORAČUNA
+Račun/naziv računa | Brojčana oznaka vrste prihoda
+(iz polja »poziv na broj«) | Model
+HR05 | HR67 | HR68
+HRxx100100517...1400K
+Porez na nekretnine
+| -
+| -
+| HR67 | -
