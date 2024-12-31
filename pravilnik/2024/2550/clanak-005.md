@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 26. stavak 7. mijenja se i glasi:
+»(7) Prema funkciji u obavljanju djelatnosti imovina se dijeli na stambene objekte, poslovne objekte, ceste, željeznice i ostale prometne objekte, ostale građevinske objekte, uredsku opremu i namještaj, komunikacijsku opremu, opremu za održavanje i zaštitu, medicinsku i laboratorijsku opremu, instrumente i uređaje, sportsku i glazbenu opremu, uređaje, strojeve i opremu za ostale namjene, vojnu opremu, prijevozna sredstava, knjige, umjetnička djela i ostale izložbene vrijednosti, višegodišnje nasade i osnovno stado, plemenite metale i ostale pohranjene vrijednosti, sitan inventar i autogume i proizvedenu kratkotrajnu imovinu.«
