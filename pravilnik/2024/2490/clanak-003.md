@@ -1,0 +1,8 @@
+# Članak 3.
+Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+a) natjecanje označava svaku disciplinu sportskog konjičkog natjecanja što podrazumijeva jednu ili više utakmica konjičkih natjecanja, uključujući utrke konja, preponsko jahanje, dresurno jahanje, daljinsko jahanje, konjički višeboj/eventing, vožnju zaprega i konjičke priredbe, koje se održavaju u jednom ili nekoliko dana u slijedu
+b) nagrada podrazumijeva bruto fond financijskih sredstava iz kojeg će se financijska sredstva isplaćivati najbolje plasiranim natjecateljima sukladno pravilima pojedinih nacionalnih sportskih saveza uz odbitak pripadajućih poreza, ovisno o opravdanom statusu natjecatelja i/ili ekipa
+c) pravila natjecanja (u daljnjem tekstu: Pravila) podrazumijevaju pravila opisana u općim aktima ovlaštenih organizacija u konjičkom sportu. Pravila natjecanja predstavljaju pisani dokument kojim se zavisno od vrste i načina natjecanja kopitara detaljno uređuju uvjeti organizacije i provedbe natjecanja
+d) propozicije natjecanja podrazumijevaju sve potrebne uvjete predviđene za održavanje natjecanja. Propozicije sadrže podatke o organizatoru natjecanja, imena odgovornih osoba, mjesto i datum održavanja natjecanja, tehničke pojedinosti i osobine natjecanja, kategoriju grla i jahača koja imaju pravo sudjelovanja, razne odredbe o uvjetima koje trebaju ispuniti jahači i grla kako bi pristupili natjecanju, ukupan iznos novčanih nagrada i način njihove raspodjele i sve druge uvjete u skladu s pravilnicima ovlaštenih organizacija
+e) organizatori natjecanja su nacionalni sportski savezi i klubovi koji posjeduju prethodnu suglasnost istih, u skladu s njihovim općim aktima
+f) Nacionalni sportski savez je savez definiran zakonom kojim se uređuje sustav sporta.

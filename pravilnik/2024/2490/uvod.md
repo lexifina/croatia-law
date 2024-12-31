@@ -1,0 +1,1 @@
+Na temelju članka 28. stavka 5. Zakona o uzgoju domaćih životinja (»Narodne novine«, br. 115/18 i 52/21) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23) ministar poljoprivrede, šumarstva i ribarstva, uz suglasnost ministra nadležnog za europske poslove, donosi

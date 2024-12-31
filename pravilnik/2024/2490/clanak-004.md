@@ -1,0 +1,2 @@
+# Članak 4.
+Koordinirajuće tijelo odgovorno za uspostavu informativnih internetskih stranica s ciljem da Komisiji, drugim državama članicama i javnosti učini dostupnim informacije o namjeri da se iskoristi mogućnost organizacije natjecanja iz članka 7. ovoga Pravilnika te uvjete raspodjele sredstava iz članka 8. stavka 1. ovoga Pravilnika, je ministarstvo nadležno za poslove poljoprivrede, šumarstva i ribarstva (u daljnjem tekstu: Ministarstvo).
