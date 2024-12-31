@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine«, broj 52/2019 i 42/20), a u svezi s člankom 52. Zakona o turizmu (»Narodne novine«, broj 156/23), Skupština Turističke zajednice Istarske županije, uz prethodnu suglasnost Ministarstva turizma i sporta, na 1. sjednici održanoj 17. prosinca 2024. godine, donijela je
