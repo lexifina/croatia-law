@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23. i 35/24.) u članku 2. iza podstavka 14. briše se točka i dodaje se podstavak 15. koji glasi:
+»− Direktiva Vijeća (EU) 2020/285 od 18. veljače 2020. o izmjeni Direktive 2006/112/EZ o zajedničkom sustavu poreza na dodanu vrijednost u pogledu posebne odredbe za mala poduzeća i Uredbe (EU) br. 904/2010 u pogledu administrativne suradnje i razmjene informacija u svrhe praćenja ispravne primjene posebne odredbe za mala poduzeća (SL L 62, 2. 3. 2020.).«.

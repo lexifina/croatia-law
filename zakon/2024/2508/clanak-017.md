@@ -1,0 +1,24 @@
+# Članak 17.
+Članak 90. mijenja se i glasi:
+»(1) Porezni obveznik sa sjedištem, prebivalištem ili uobičajenim boravištem u tuzemstvu, čiji godišnji promet u tuzemstvu nije bio veći od 60.000,00 eura oslobođen je plaćanja PDV-a na isporuke dobara i usluga obavljene u tuzemstvu.
+(2) Porezni obveznik sa sjedištem, prebivalištem ili uobičajenim boravištem u drugoj državi članici ima pravo primijeniti oslobođenje od plaćanja PDV-a iz stavka 1. ovoga članka ako su ispunjeni sljedeći uvjeti:
+a) godišnji promet u Uniji nije bio veći od 100.000,00 eura,
+b) vrijednost isporuka dobara i usluga obavljenih u tuzemstvu nije bila veća od 60.000,00 eura.
+(3) Godišnja vrijednost isporuka dobara i usluga za primjenu oslobođenja iz ovoga članka, bez PDV-a, obuhvaća:
+a) vrijednost isporuka dobara i usluga koje bi bile oporezive kad bi ih isporučio porezni obveznik koji nema pravo na oslobođenje,
+b) vrijednosti isporuka iz članka 38. stavka 6. ovoga Zakona, za koje postoji pravo na odbitak pretporeza,
+c) vrijednost isporuka oslobođenih plaćanja PDV-a iz članaka 45. do 49. ovoga Zakona,
+d) vrijednosti isporuka oslobođenih plaćanja PDV-a iz članka 41. ovoga Zakona ako se primjenjuje oslobođenje iz tog članka,
+e) vrijednosti transakcija nekretninama i transakcija iz članka 40. stavka 1. točaka a) do g) ovoga Zakona, osim ako su te transakcije pomoćne.
+(4) Isporuka materijalnih ili nematerijalnih gospodarskih dobara poreznog obveznika ne uzima se u obzir u svrhu izračunavanja vrijednosti isporuka iz stavka 3. ovoga članka.
+(5) Neovisno o članku 90.i stavku 2. ovoga Zakona, kako bi porezni obveznik primijenio oslobođenje od PDV-a u državi članici u kojoj nema sjedište, prebivalište ili uobičajeno boravište:
+a) dostavlja prethodnu obavijest državi članici sjedišta, prebivališta ili uobičajenog boravišta i
+b) za primjenu oslobođenja od PDV-a dodijeljen mu je individualni identifikacijski broj za oslobođenje samo u državi članici sjedišta, prebivališta ili uobičajenog boravišta.
+(6) Individualni identifikacijski broj za oslobođenje iz stavka 5. točke b) ovoga članka je osobni identifikacijski broj (OIB) kojemu se dodaje nastavak »EX«.
+(7) Porezni obveznik unaprijed obavješćuje državu članicu sjedišta, prebivališta ili uobičajenog boravišta putem ažuriranja prethodne obavijesti, o svakoj promjeni prethodno dostavljenih informacija u skladu sa stavkom 5. točkom a) ovoga članka, uključujući namjeru da primjenjuje oslobođenje u državi članici ili državama članicama koje nisu države članice navedene u prethodnoj obavijesti te odluku o prestanku primjene odredbe o oslobođenju u državi članici ili državama članicama u kojima taj porezni obveznik nema sjedište, prebivalište ili uobičajeno boravište.
+(8) Primjena odredbe o oslobođenju iz stavka 7. ovoga članka prestaje od prvoga dana sljedećeg kalendarskog tromjesečja koji slijedi nakon primitka informacija od poreznog obveznika ili, ako su te informacije primljene tijekom zadnjeg mjeseca kalendarskog tromjesečja, od prvoga dana drugog mjeseca sljedećeg kalendarskog tromjesečja.
+(9) Oslobođenje od plaćanja PDV-a primjenjuje se u pogledu države članice u kojoj porezni obveznik nema sjedište, prebivalište ili uobičajeno boravište i u kojoj taj porezni obveznik namjerava primjenjivati oslobođenje od plaćanja PDV-a:
+a) od dana kada je poreznog obveznika država članica njegova sjedišta, prebivališta ili uobičajenog boravišta obavijestila o individualnom identifikacijskom broju u slučaju kada je porezni obveznik dostavio prethodnu obavijest ili
+b) od dana kada je država članica sjedišta, prebivališta ili uobičajenog boravišta poreznom obvezniku potvrdila individualni identifikacijski broj u slučaju kada je porezni obveznik dostavio ažuriranu prethodnu obavijest.
+(10) Država članica iz stavka 9. točke a) ovoga članka najkasnije u roku od 35 radnih dana nakon primitka prethodne obavijesti iz stavka 5. točke a) ovoga članka ili obavijesti o ažuriranju prethodne obavijesti iz stavka 7. ovoga članka, osim u posebnim slučajevima u kojima radi sprečavanja utaje ili izbjegavanja plaćanja poreza državi članici može biti potrebno dodatno vrijeme za provedbu potrebnih provjera, obavještava poreznog obveznika o individualnom identifikacijskom broju, odnosno potvrdi toga broja.
+(11) Ministar financija pravilnikom propisuje provedbu ovoga članka u vezi s registracijom za potrebe PDV-a, odnosno upisom u registar obveznika PDV-a poreznih obveznika iz stavaka 1. i 2. ovoga članka, prijelazom s redovnog oporezivanja na posebni postupak oporezivanja iz stavka 1. ovoga članka i obrnuto te propisuje dodjelu i ukidanje individualnog identifikacijskog broja u slučaju kada porezni obveznik iz stavka 1. ovoga članka želi primjenjivati posebni postupak oporezivanja za male porezne obveznike u drugim državama članicama u kojima nema sjedište, prebivalište i uobičajeno boravište.«.
