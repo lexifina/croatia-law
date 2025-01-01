@@ -1,0 +1,2 @@
+# Članak 5.
+U članku 48. stavku 1. točki 10. iza riječi: »podataka« stavlja se zarez i dodaju riječi: »uključujući i u pogledu mrežnih i informacijskih sustava koje je uspostavilo i kojima upravlja u skladu s pravilima za postizanje digitalne operativne otpornosti u smislu Uredbe (EU) 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014 i (EU) 2016/1011 (Tekst značajan za EGP) (SL L 333, 27. 12. 2022.)«.

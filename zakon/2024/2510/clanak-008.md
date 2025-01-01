@@ -1,0 +1,4 @@
+# Članak 8.
+U članku 88. stavku 1. točke b) i c) mijenjaju se i glase:
+»b) informaciju o svim postupcima i radnjama koje će se poduzeti u vezi s prijenosom upravljanja, uključujući i obavijest o bitnim promjenama prospekta i pravila UCITS fonda kada takve promjene postoje, uz naznaku datuma kada će se upravljanje prenijeti na drugo društvo za upravljanje u skladu s člankom 85. stavkom 3. točkom 2. ovoga Zakona te naznaku datuma kada će bitne promjene prospekta kada do njih dolazi stupiti na snagu u skladu s člankom 193. stavkom 6. ovoga Zakona i
+c) podatak o pravu ulagatelja UCITS fonda koji se prenosi u skladu s člankom 85. stavkom 5. ovoga Zakona te podatak o pravu ulagatelja u skladu s člankom 193. stavkom 4. ovoga Zakona, uz naznaku datuma do kojeg mogu podnijeti zahtjeve za otkup udjela bez plaćanja izlazne naknade.«.
