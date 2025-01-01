@@ -1,0 +1,9 @@
+## Tehnička analiza sumnjivoga gotovog novca eura
+# Članak 22.
+(1) Hrvatska narodna banka provodi tehničku analizu svake sumnjive euronovčanice i eurokovanice koju zaprimi.
+(2) Za provođenje tehničke analize iz stavka 1. ovog članka podnositelj gotovog novca na tehničku analizu dužan je Hrvatskoj narodnoj banci dostaviti uredno popunjen obrazac Zahtjeva za tehničku analizu zajedno s raspoloživom dokumentacijom kojom potkrjepljuje podatke navedene u zahtjevu i može u zahtjevu navesti način na koji želi da mu Hrvatska narodna banka izvrši zamjenu gotovog novca podnesenog na tehničku analizu, ako utvrdi da je autentičan i da ispunjava uvjete za zamjenu.
+(3) Hrvatska narodna banka nakon završene tehničke analize podnositelju Zahtjeva za tehničku analizu dostavlja rezultate tehničke analize sumnjivih euronovčanica i/ili eurokovanica.
+(4) Ako Hrvatska narodna banka tehničkom analizom utvrdi da je gotov novac autentičan i da zadovoljava uvjete za zamjenu iz članaka 3. i 4. Odluke ECB/2013/10 odnosno iz članaka 8. i 11. Uredbe (EU) br. 1210/2010, Hrvatska narodna banka izvršit će zamjenu gotovog novca eura primjenjujući odredbe članka 21. stavaka 3., 4. i 5. ove Odluke.
+(5) Ako Hrvatska narodna banka tehničkom analizom utvrdi da je gotov novac krivotvoren, neće ga zamijeniti, već će ga zadržati te obavijestiti Ministarstvo unutarnjih poslova o rezultatima tehničke analize u svrhu pokretanja ili provedbe kaznenog postupka.
+(6) Ako je podnositelj Zahtjeva za tehničku analizu osoba koja rukuje gotovim novcem koja nije istodobno i vlasnik sumnjivih euronovčanica i/ili eurokovanica, obvezan je o rezultatima tehničke analize obavijestiti vlasnika.
+(7) Hrvatska narodna banka vodi bazu podataka s tehničkim i statističkim podacima o otkrivenim krivotvorinama te odobrava pristup toj bazi ovlaštenim predstavnicima osoba koje rukuju gotovim novcem i Ministarstva unutarnjih poslova kod kojih postoji poslovna potreba pristupa tim podacima.
