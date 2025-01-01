@@ -1,0 +1,3 @@
+# Članak 45.
+(1) Ministar nadležan za rad uskladit će Pravilnik o obavljanju djelatnosti u svezi sa zapošljavanjem (»Narodne novine«, br. 28/19.), Pravilnik o evidencijama Hrvatskoga zavoda za zapošljavanje (»Narodne novine«, br. 28/19., 59/20. i 34/21.) i Odluku o kriterijima vrednovanja stečenih kompetencija i učinkovitosti obrazovnih programa, klasa: 023-01/19-01/36, urbroj: 524-04-01-01/1-19-1, od 26. ožujka 2019., s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
+(2) Zavod je dužan uskladiti Statut i opće akte s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.

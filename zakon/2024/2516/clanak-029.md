@@ -1,0 +1,3 @@
+# Članak 29.
+U članku 59. stavak 2. mijenja se i glasi:
+»(2) Nezaposlenoj osobi kojoj je pravo na novčanu naknadu prestalo ponovnim zapošljavanjem odnosno obavljanjem samostalne djelatnosti prije isteka vremena u kojem je imala pravo na novčanu naknadu, a koja je ponovno postala nezaposlena zbog toga što joj je radni odnos prestao, osim ako je prestao zbog razloga utvrđenih u članku 48. stavku 1. točkama 1., 3., 4., 5. i 6. ovoga Zakona, odnosno ako je prestala obavljati samostalnu djelatnost iz opravdanog razloga iz članka 50. ovoga Zakona, nastavlja se isplaćivanje novčane naknade za onoliko vremena koliko joj je preostalo za primanje i u utvrđenoj visini.«.
