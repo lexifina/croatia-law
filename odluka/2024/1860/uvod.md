@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Privlaka (»Službeni glasnik Zadarske županije«, broj 5/18, 7/21, 11/22) i »Službeni glasnik Općine Privlaka« broj 4/23), Općinsko vijeće Općine Privlaka, na svojoj 20. sjednici održanoj 9. rujna 2024. godine, donijelo je
