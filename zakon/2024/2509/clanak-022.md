@@ -1,0 +1,7 @@
+# Članak 22.
+Članak 153. mijenja se i glasi:
+»(1) Provedba ovrhe na novčanim sredstvima ovršenika obavlja se dostavom osnove za plaćanje Financijskoj agenciji sukladno odredbama zakona kojim se uređuje provedba ovrhe na novčanim sredstvima.
+(2) Financijska agencija po primitku rješenja o ovrsi na temelju ovršne ili vjerodostojne isprave i naloga za provedbu ovrhe iz stavka 4. ovoga članka, sukladno ovom Zakonu, odmah izdaje nalog za prijenos novčanih sredstava na račun ovrhovoditelja naznačen u osnovi za plaćanje.
+(3) Rješenje o ovrsi na temelju ovršne ili vjerodostojne isprave doneseno sukladno odredbama ovoga Zakona Financijska agencija izvršava bez odgode po izvršnosti rješenja.
+(4) Iznimno od odredaba ovoga Zakona koje se odnose na ovršni postupak, u postupcima u kojima je vrijednost porezne obveze utvrđena rješenjem do 660,00 eura, ako porezni obveznik u roku iz rješenja kojim je utvrđena obveza ne uplati naznačeni iznos, porezno tijelo može, nakon što rješenje postane izvršno, radi naplate iznosa iz rješenja i pripadajućih zakonskih zateznih kamata i troškova podnijeti Financijskoj agenciji nalog za provedbu ovrhe na novčanim sredstvima po računima poreznog obveznika sukladno posebnom zakonu.
+(5) Nalog za provedbu ovrhe smatra se osnovom za plaćanje sukladno propisu kojim se uređuje provedba ovrhe na novčanim sredstvima i dostavlja se Financijskoj agenciji s učinkom pravomoćnog rješenja o ovrsi.«.
