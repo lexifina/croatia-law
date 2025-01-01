@@ -1,0 +1,1 @@
+Na temelju članaka 19. i 19.a. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 30. Statuta Općine Vojnić (»Službeni glasnik Općine Vojnić« broj 01/21), Općinsko vijeće Općine Vojnić, na 41. sjednici održanoj 20. prosinca 2024. godine donijelo je
