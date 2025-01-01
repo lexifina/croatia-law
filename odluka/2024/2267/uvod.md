@@ -1,0 +1,1 @@
+Na temelju članka 207. stavka 2. Zakona o radu (»Narodne novine«, br. 93/14, 127/17, 98/19, 151/22 i 64/23 - Odluka Ustavnog suda RH), ministar rada, mirovinskoga sustava, obitelji i socijalne politike uz prethodno mišljenje Gospodarsko-socijalnog vijeća i uz suglasnost ministra nadležnog za poslove financija donosi
