@@ -1,0 +1,2 @@
+# Članak 7.
+Postupci u svezi s utvrđivanjem i naplatom poreza na kuće za odmor započeti prema odredbama Odluke o porezima Općine Fužine (»Narodne novine« broj 141/20 i »Službene novine Općine Fužine« broj 09/20), a koji nisu dovršeni do stupanja na snagu ove Odluke, dovršit će se prema odredbama Odluke o porezima Općine Fužine (»Narodne novine« broj 141/20 i »Službene novine Općine Fužine« broj 09/20).
