@@ -1,0 +1,1 @@
+Na temelju čl. 19.a Zakona o porezu na dohodak (»Narodne novine« broj: 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Zmijavci (»Službeni glasnik Općine Zmijavci«, broj 2/13) Općinsko vijeće Općine Zmijavci na 22. sjednici održanoj 21. studenoga 2024. godine donijelo je
