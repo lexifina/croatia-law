@@ -1,0 +1,6 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 12.
+(1) Odluku iz članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17., 114/22. i 114/23.) jedinice lokalne samouprave dužne su uskladiti s odredbama ovoga Zakona te je dostaviti Poreznoj upravi najkasnije do 28. veljače 2025. za primjenu tijekom 2025. godine.
+(2) Za jedinice lokalne samouprave koje su svojim odlukama propisale visinu poreza na kuće za odmor primjenjivu u 2024. godini, a u roku iz stavka 1. ovoga članka ne usklade svoje odluke, za potrebe utvrđivanja i naplate poreza na nekretnine smatrat će se da je donesena odluka o visini poreza na nekretnine, a u visini poreza na kuće za odmor utvrđenom prema tim odlukama.
+(3) Ako jedinica lokalne samouprave ne postupi u skladu sa stavkom 1. ovoga članka, odluka jedinice lokalne samouprave donesena na temelju Zakona o lokalnim porezima (»Narodne novine«, br. 115/16., 101/17., 114/22. i 114/23.) primjenjuje se samo u dijelovima koji nisu u suprotnosti s odredbama ovoga Zakona.
+(4) Ako su Porezna uprava ili jedinica lokalne samouprave odnosno jedinica područne (regionalne) samouprave nadležno porezno tijelo, nadležna jedinica lokalne samouprave dužna je nadležnom poreznom tijelu dostaviti podatke za obračun poreza na nekretnine najkasnije do 30. lipnja 2025.
