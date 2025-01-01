@@ -1,0 +1,5 @@
+# Članak 25.
+(1) Korisnici mogu raspisivati javne pozive za dodjelu sredstava iz izvora financiranja 11 Opći prihodi i primici u tekućoj godini do visine utvrđene financijskim planom za tu godinu ako se plaćanja po javnom pozivu predviđaju u tekućoj godini i ako su za to ispunjeni svi zakonom i drugim propisima utvrđeni uvjeti.
+(2) Ako se plaćanja po javnom pozivu predviđaju u tekućoj i u sljedeće dvije godine, korisnici mogu raspisivati javne pozive u tekućoj godini do visine utvrđene financijskim planom za 2025. godinu i projekcijama za 2026. i 2027. godinu.
+(3) U slučaju iz stavka 2. ovoga članka proračunski korisnici za raspisane javne pozive moraju imati osigurana sredstva u financijskom planu u godini u kojoj se predviđa plaćanje po javnom pozivu, sukladno očekivanoj dinamici plaćanja.
+(4) Ako se plaćanja po javnom pozivu predviđaju nakon 2027. godine i/ili ako za njih nisu predviđena dostatna sredstva, korisnici su dužni prije raspisivanja javnog poziva iznad iznosa od 1.500.000,00 eura ishoditi prethodnu suglasnost Vlade, uz prethodnu suglasnost Ministarstva, a za javne pozive do iznosa od 1.500.000,00 eura prethodnu suglasnost Ministarstva.

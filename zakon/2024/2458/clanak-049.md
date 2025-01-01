@@ -1,0 +1,3 @@
+# Članak 49.
+(1) Ministar financija može se, uz prethodnu suglasnost Vlade, u 2025. godini dodatno zadužiti iznad visine zaduživanja iz članka 47. ovoga Zakona do iznosa planiranih, a neostvarenih primitaka od prodaje dionica i udjela u glavnici te planiranih, a neostvarenih primitaka od trezorskih zapisa.
+(2) Ministar financija može se, uz prethodnu suglasnost Vlade, u 2025. godini dodatno zadužiti iznad visine zaduživanja iz članka 47. ovoga Zakona za razliku između visine izvršenih rashoda i izdataka koji se sufinanciraju iz sredstava Europske unije i visine ostvarenog povrata sredstava iz fondova Europske unije u 2025. godini, a najviše do iznosa sredstava za koji se očekuje povrat u 2026. godini.

@@ -1,0 +1,3 @@
+# Članak 30.
+(1) Vlada donosi odluku o naknadama troškova za službena putovanja koje se isplaćuju iz državnog proračuna i visini naknade za terenski dodatak, naknade za korištenje osobnog automobila u službene svrhe i o visini naknade za odvojeni život od obitelji zaposlenih i dužnosnika kojima se ti rashodi financiraju iz sredstava državnog proračuna, a čija materijalna prava nisu uređena kolektivnim ugovorima odnosno čija prava nisu na drukčiji način uređena posebnim propisima, na prijedlog ministarstva nadležnog za rad.
+(2) Vlada donosi odluku o visini dnevnice za službena putovanja u inozemstvo koja se financira iz sredstava državnog proračuna, na prijedlog ministarstva nadležnog za rad.
