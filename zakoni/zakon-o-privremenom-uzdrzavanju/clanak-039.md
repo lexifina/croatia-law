@@ -1,0 +1,6 @@
+# Članak 39.
+(1) Postupke za priznavanje prava na privremeno uzdržavanje i prestanak prava na privremeno uzdržavanje koji su pokrenuti prije stupanja na snagu ovoga Zakona dovršit će Zavod prema odredbama Zakona o privremenom uzdržavanju (»Narodne novine«, br. 92/14.).
+(2) U postupku povodom žalbe izjavljene protiv rješenja donesenog prije dana stupanja na snagu ovoga Zakona primijenit će se odredbe Zakona o privremenom uzdržavanju (»Narodne novine«, br. 92/14.).
+(3) Postupke radi povrata isplaćenih iznosa privremenog uzdržavanja koji su pokrenuti prije dana stupanja na snagu ovoga Zakona dovršit će Zavod prema odredbama Zakona o privremenom uzdržavanju (»Narodne novine«, br. 92/14.).
+(4) Ako su do dana stupanja na snagu ovoga Zakona dovršeni upravni postupci kojima je priznato pravo na privremeno uzdržavanje, ali nisu pokrenuti postupci protiv obveznika uzdržavanja radi povrata isplaćenih iznosa privremenog uzdržavanja, povrat iznosa privremenog uzdržavanja isplaćenih do dana stupanja na snagu ovoga Zakona rješavat će Zavod prema odredbama Zakona o privremenom uzdržavanju (»Narodne novine«, br. 92/14.).
+(5) Zavod je dužan izvršno rješenje doneseno u postupku provedenom na temelju stavaka 1. i 3. ovoga članka u roku od osam dana od dana izvršnosti dostaviti Agenciji.
