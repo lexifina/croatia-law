@@ -1,0 +1,5 @@
+# Članak 28.
+1. Poslodavac će osigurati, kao minimum, smještaj, rekreacijske sadržaje, pogodnosti i usluge, uključujući društvenu povezanost, prilagođene posebnim potrebama pomoraca koji moraju živjeti i raditi na brodovima. Poslodavac će također pružati usluge prehrane u skladu sa standardima navedenim u Poglavlju 3. MLC-a i dužan je uzeti u obzir Smjernice u toj Konvenciji, uključujući odredbe o opremi za sport, tjelovježbu, stolne igre, igre na palubi. Tamo gdje je pitka voda na brodu ispod standarda (sigurnu za piće), posadi će se besplatno osigurati druga svježa voda u dovoljnim količinama.
+2. Pored toga Poslodavac će osigurati na Brodu opremljenu kuhinju sa svim sredstvima i potrebnom opremom koja je normalno potrebna za kuhanje. Sva sredstva i oprema mora biti dobre kvalitete.
+3. Pomorac ima pravo na jednokratan pristup besplatnom pozivu/vezi u slučaju izvanrednih okolnosti opisanih u članku 19. stavku 2. točkama d) i e).
+4. Pomorcima izvan dužnosti odobrit će se izlazak na obalu po dolasku broda u luku, osim kada je izlazak na obalu zabranjen/ograničen od strane nadležnih tijela države luke ili zbog sigurnosnih i/ili operativnih razloga.
