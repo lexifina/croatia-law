@@ -1,0 +1,3 @@
+# Članak 18.
+(1) U svrhu primjene ograničenja ulaganja iz članka 127. stavka 4. i članka 127.a stavka 3. Zakona u prenosive vrijednosne papire, instrumente tržišta novca i OTC izvedenice grupe izdavatelja koji čine povezana društva, dionice svih izdavatelja iz grupe u koje se ulaže imovina mirovinskog fonda moraju biti uvrštene na uređeno tržište ili MTP.
+(2) Izloženost prema trećim osobama ostvarena kroz repo poslove i transakcije prodaje i ponovne kupnje izračunava se kao zbroj neto potraživanja ostvarenih kroz pojedine transakcije, bez mogućnosti netiranja svih transakcija u sklopu okvirnog repo sporazuma ili pisanih ugovora o transakciji prodaje i ponovne kupnje s jednom trećom stranom.

@@ -1,0 +1,6 @@
+## Tržišta dozvoljena za ulaganje imovine mirovinskog fonda
+# Članak 2.
+(1) Uređeno tržište u smislu Zakona je tržište iz Republike Hrvatske, druge države članice ili treće države koja je članica Organizacije za gospodarsku suradnju i razvoj ili je pristupnica Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj (dalje: država članica OECD-a), koje ispunjava uvjete za uređeno tržište u smislu odredbi zakona koji uređuje tržište kapitala u Republici Hrvatskoj i drugoj državi članici.
+(2) Multilateralna trgovinska platforma ili MTP je multilateralna trgovinska platforma kako je definirana odredbama zakona kojim se uređuje tržište kapitala.
+(3) Mirovinsko društvo dužno je internim procedurama uspostaviti učinkoviti sustav provjere zadovoljavaju li tržišta iz država članica OECD-a iz stavaka 1. i 2. ovoga članka uvjete da bi se mogla smatrati uređenim tržištem odnosno multilateralnom trgovinskom platformom, kako je to propisano stavcima 1. i 2. ovoga članka.
+(4) Mirovinsko društvo dužno je svaku provjeru iz stavka 3. ovoga članka dokumentirati i čuvati u rokovima propisanim Zakonom i pripadajućim podzakonskim aktima.

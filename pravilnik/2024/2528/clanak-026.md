@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Kada mirovinsko društvo imovinu mirovinskog fonda ili mirovinskih fondova kojima upravlja ulaže u udjele, dionice ili poslovne udjele alternativnih investicijskih fondova s garancijom iz članka 126. stavka 1. točke 2. i/ili članka 126.a stavka 1. točke 2. Zakona, mirovinsko društvo dužno je u roku od tri radna dana nakon davanja obvezujuće ponude i nakon svake uplate u takav fond obavijestiti Hanfu.
+(2) Obavijest iz stavka 1. ovoga članka minimalno sadrži dokaze o ispunjavanju uvjeta iz članka 126. stavka 1. točke 2. Zakona odnosno članka 126.a stavka 1. točke 2. Zakona.
+(3) Mirovinsko društvo je dužno u roku od tri radna dana Hanfi dostaviti obavijest da je, u skladu s člankom 126. stavkom 4. točkom 3. Zakona odnosno člankom 126.a stavkom 4. točkom 3. Zakona, odbilo uložiti u alternativni investicijski fond s garancijom ili odbiti poziv na uplatu za određeno ulaganje tog fonda, s obrazloženjem takve odluke.
