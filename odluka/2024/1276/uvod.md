@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. stavka 1. točke 2. Statuta Grada Bjelovara (»Službeni glasnik Grada Bjelovara«, broj 2/21), Gradsko vijeće Grada Bjelovara na 26. sjednici održanoj 18. lipnja 2024. donijelo je
