@@ -1,0 +1,4 @@
+# Članak 3.
+(1) Sredstva prikupljena naplatom naknade za odlaganje otpada koristi Fond za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond) za financiranje gradnje i unaprjeđenje infrastrukture za gospodarenje otpadom i recikliranje otpada te na odgovarajuće obrazovne i informativne aktivnosti.
+(2) Sredstva prikupljena naplatom naknade za odlaganje otpada, Fond može koristiti, uz prethodnu suglasnost Vlade Republike Hrvatske, za financiranje pripreme, provedbe i razvoja programa i projekata gospodarenja otpadom i sličnih aktivnosti u području očuvanja, održivog korištenja, zaštite i unaprjeđenja okoliša.
+(3) Sredstva prikupljena naplatom naknade za odlaganje otpada ne mogu se koristiti za gradnju novih ploha odlagališta i produljenje vijeka trajanja postojećih odlagališta.
