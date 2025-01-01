@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Gornji Mihaljevec (»Službeni glasnik Međimurske županije« broj 2/19., 5/20., 20/20. i 6/21.), Općinsko vijeće Općine Gornji Mihaljevec na 21. sjednici održanoj 19. studenoga 2024. donijelo je
