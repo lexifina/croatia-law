@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 35. Statuta Grada Knina (»Službeno glasilo Grada Knina broj 3/21, 13/23 i 16/23), Gradsko vijeće Grada Knina na 38. sjednici održanoj 17. prosinca 2024., donosi
