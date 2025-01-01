@@ -1,0 +1,10 @@
+# Članak 1.
+U Zakonu o gradnji (»Narodne novine«, br. 153/13., 20/17., 39/19. i 125/19.) u članku 3. stavku 1. podstavak 1. mijenja se i glasi:
+»1. dubinska obnova je energetska obnova zgrade koja obuhvaća mjere energetske učinkovitosti na ovojnici i tehničkim sustavima te rezultira uštedom godišnje potrebne toplinske energije za grijanje (QH,nd) i primarne energije (Eprim) na godišnjoj razini od najmanje 50 % u odnosu na stanje prije obnove«.
+U podstavku 2. riječi: »dostupnog na internetskoj adresi: »https://dozvola.mgipu.hr« (u daljnjem tekstu: eDozvola)« zamjenjuju se riječima: »Ministarstva, smještena na državnoj informacijskoj infrastrukturi«.
+Podstavak 4. mijenja se i glasi:
+»4. energetska obnova zgrade je primjena mjera energetske učinkovitosti u svrhu poboljšanja energetskog svojstva zgrade ili samostalne uporabne cjeline zgrade i temeljnog zahtjeva za građevinu - gospodarenje energijom i očuvanje topline, pri čemu mjere energetske učinkovitosti obuhvaćaju: energetski pregled i energetsko certificiranje zgrade za potrebe energetske obnove, izradu projektne dokumentacije za energetsku obnovu zgrade kojom se dokazuje ušteda energije, povećanje toplinske zaštite ovojnice zgrade, grijanog ili hlađenog dijela zgrade prema nekondicioniranom dijelu, unapređenje tehničkih sustava zgrade ili zamjenu energetski učinkovitijim koji uključuju tehničku opremu za grijanje, hlađenje, ventilaciju, klimatizaciju i pripremu potrošne tople vode, sustav rasvjete, sustav automatizacije i upravljanja zgrade ili njezina dijela te uvođenje sustava obnovljivih izvora energije, a može uključivati i sveobuhvatnu obnovu zgrade«.
+U podstavku 25. iza riječi: »u skladu s« dodaju se riječi: »posebnim propisima, odnosno«.
+U podstavku 38. iza riječi: »infrastrukturne građevine« stavlja se zarez i dodaju riječi: »primjerice: trafostanica, relejna kućica, crpna stanica i sl. te nadstrešnica za zaštitu opreme i instalacija i sl. unutar industrijskih postrojenja«.
+Podstavak 40. briše se.
+Dosadašnji podstavak 41. postaje podstavak 40.

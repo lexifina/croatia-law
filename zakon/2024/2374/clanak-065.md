@@ -1,0 +1,2 @@
+# Članak 65.
+Glavni projekt građevine u kojemu je tehničko rješenje građevine izrađeno na temelju Zakona o gradnji (»Narodne novine«, br. 153/13., 20/17., 39/19. i 125/19.) smatra se valjanim dokumentom za izdavanje akta na temelju kojega se odobrava građenje, odnosno valjanim dokumentom za prijavu početka građenja građevine koja se gradi bez građevinske dozvole na temelju glavnog projekta ako je zahtjev za izdavanje tog akta zajedno s glavnim projektom podnesen u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
