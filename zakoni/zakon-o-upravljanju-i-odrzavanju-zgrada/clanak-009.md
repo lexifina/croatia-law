@@ -1,0 +1,12 @@
+## Registar zajednica suvlasnika
+# Članak 9.
+(1) Registar zajednica suvlasnika s određenim i dodijeljenim osobnim identifikacijskim brojevima vodi tijelo državne uprave nadležno za geodetske i katastarske poslove.
+(2) Registar zajednica suvlasnika vodi se jedinstveno za sve zajednice suvlasnika u Republici Hrvatskoj, u elektroničkom obliku.
+(3) U okviru postupaka određivanja i dodjeljivanja osobnog identifikacijskog broja zajednici suvlasnika, Državna geodetska uprava pridružuje identifikacijski broj zgradi.
+(4) U Registru zajednica suvlasnika vode se i održavaju podaci o zajednicama suvlasnika, njihovim osobnim identifikacijskim brojevima, upraviteljima zgrada, zgradama i posebnim dijelovima zgrada te identifikacijskim brojevima zgrade, podaci o vlasnicima posebnih dijelova zgrade, obveznicima plaćanja pričuve i površinama posebnih dijelova zgrade te podaci o opomenama za nepridržavanje kućnog reda u zgradi, pohranjuje se međuvlasnički ugovor i sve naknadne odluke suvlasnika u upravljanju zgradom te drugi podaci u skladu sa zakonom i podzakonskim propisima.
+(5) Podaci o vlasništvu nekretnina u Registar zajednice suvlasnika preuzimat će se iz zemljišne knjige.
+(6) Podaci o obveznicima plaćanja pričuve i površine posebnih dijelova zgrade u Registar zajednice suvlasnika unosit će se na temelju podataka iz evidencija upravitelja.
+(7) Registar zajednica suvlasnika je javan te se ustrojava i vodi u skladu s odredbama zakona kojim je uređena državna informacijska infrastruktura u Republici Hrvatskoj.
+(8) U Registru zajednica suvlasnika javni podaci su podaci o zajednicama suvlasnika, njihovim osobnim identifikacijskim brojevima, upraviteljima zgrada, zgradama i posebnim dijelovima te identifikacijskim brojevima zgrade, podaci o vlasnicima posebnih dijelova zgrade, obveznicima plaćanja pričuve i površinama posebnih dijelova zgrade, izdanim opomenama za nepridržavanje kućnog reda u zgradi te drugi podaci u skladu sa zakonom i podzakonskim propisima.
+(9) Sve pravne i fizičke osobe upisuju se u Registar zajednica suvlasnika uz navođenje: imena i prezimena odnosno naziva, adrese prebivališta odnosno sjedišta te osobnog identifikacijskog broja.
+(10) Ministar nadležan za poslove prostornoga uređenja i graditeljstva, uz prethodnu suglasnost ministra nadležnog za financije i glavnog ravnatelja Državne geodetske uprave, propisuje pravilnikom sadržaj Registra zajednica suvlasnika, način njegova vođenja, obrasce zahtjeva za upis te obrasce zahtjeva za upis promjena.
