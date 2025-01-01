@@ -1,0 +1,1 @@
+Na temelju čl. 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 28. Statuta Općine Kolan (»Službeni glasnik Općine Kolan«, broj 6/21) Općinsko vijeće Općine Kolan na 36. sjednici održanoj 3. rujna 2024. godine donijelo je
