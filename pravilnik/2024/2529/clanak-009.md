@@ -1,0 +1,6 @@
+## Dodatna ograničenja ulaganja fonda
+# Članak 9.
+(1) U slučaju dužničkih vrijednosnih papira i instrumenata tržišta novca izdanih u tranšama u okviru programa izdavanja, za izračun ograničenja ulaganja iz članka 156.c stavka 1. i članka 158. stavka 1. Zakona koriste se nedospjeli financijski instrumenti u opticaju.
+(2) Izračun ograničenja udjela dionica s pravom glasa jednog izdavatelja iz članka 156.c stavka 1. točke a) i članka 158. stavka 1. točke a) Zakona se provodi u odnosu na ukupno izdani kapital svih serija dionica koje ostvaruju pravo glasa.
+(3) Izračun ograničenja udjela dionica bez prava glasa iz članka 156.c stavka 1. točke b) i članka 158. stavka 1. točke b) Zakona se provodi u odnosu na ukupno izdani kapital svih serija dionica bez prava glasa.
+(4) Za izračun ograničenja ulaganja iz članka 156.c stavka 1. točke e) i članka 158. stavka 1. točke e) Zakona, veličinom alternativnog investicijskog fonda koji zaprima višekratne uplate ulagatelja koje se vrše na poziv društva za upravljanje alternativnim investicijskim fondovima na temelju preuzetih obveza uplate kapitala ulagatelja u skladu s pravilima alternativnog investicijskog fonda, smatra se zbroj iznosa ukupno uplaćenog kapitala i iznosa obveza uplate kapitala na poziv od strane ulagatelja, utvrđen na dan početka rada alternativnog investicijskog fonda.
