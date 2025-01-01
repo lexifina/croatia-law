@@ -1,0 +1,2 @@
+# Članak 13.
+U cijelom tekstu Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) riječi: »iznajmljivanja stanova, soba i postelja putnicima i turistima i organiziranja kampova« u određenom broju i padežu zamjenjuju se riječima: »iznajmljivanja kuća, stanova, soba i postelja te objekata za robinzonski smještaj putnicima i turistima i organiziranja kampova« u odgovarajućem broju i padežu.

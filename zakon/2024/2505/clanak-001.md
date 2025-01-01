@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) u članku 1. stavak 3. mijenja se i glasi:
+»(3) Iznimno od stavka 2. ovoga članka, pripadnost poreza na dohodak po osnovi ostvarenog dohotka od imovine na temelju najma ili zakupa nekretnina iz članka 57. stavka 1. ovoga Zakona i dohotka od iznajmljivanja kuća, stanova, soba i postelja te objekata za robinzonski smještaj putnicima i turistima i organiziranja kampova iz članka 57. stavka 2. ovoga Zakona određuje se prema mjestu gdje se nekretnina odnosno smještajna jedinica nalazi.«.
