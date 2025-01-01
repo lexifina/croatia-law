@@ -1,0 +1,1 @@
+Odluka o donošenju Programa mjera za izvršenje presuda Europskog suda za ljudska prava u skupini predmeta Statileo protiv Hrvatske (broj zahtjeva: 12027/10 i dr.) i Odluke Ustavnog suda Republike Hrvatske broj: U-I-3242/2018 i dr.
