@@ -1,1 +1,0 @@
-Na temelju članka 97. stavka 3. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« broj 22/14, 29/18 i 115/18 dalje u tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 10. ožujka 2023. donosi
