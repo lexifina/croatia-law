@@ -1,0 +1,1 @@
+Na temelju članka 165. stavka 3. Zakona o rudarstvu (»Narodne novine«, br. 56/13., 14/14., 52/18., 115/18., 98/19. i 83/23.), Vlada Republike Hrvatske je na sjednici održanoj 10. travnja 2024. donijela
