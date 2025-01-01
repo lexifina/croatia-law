@@ -1,0 +1,10 @@
+## Kazne za nedostatke baterija stavljenih na tržište
+# Članak 12.
+(1) Novčanom kaznom u iznosu od 3000,00 do 30.000,00 eura kaznit će se za prekršaj pravna osoba koja je:
+1. stavila na tržište proizvode koji sadrže prijenosne baterije koje krajnji korisnik ne može lako ukloniti i zamijeniti u bilo kojem trenutku tijekom životnog vijeka proizvoda, osim ako je primjenjiva iznimka iz članka 11. stavka 2. ili 3. Uredbe (EU) 2023/1542 (članak 11. stavak 1. prvi podstavak Uredbe (EU) 2023/1542)
+2. stavila na tržište proizvode s ugrađenim prijenosnim baterijama pri čemu proizvodu ne priloži uputu ili sigurnosne informacije o uporabi, uklanjanju i zamjeni baterija ili te upute i sigurnosne informacije nisu stalno dostupne na internetu na javno dostupnim mrežnim stranicama na lako razumljiv način za krajnjeg korisnika, osim ako je primjenjiva iznimka iz članka 11. stavka 2. ili 3. Uredbe (EU) 2023/1542 (članak 11. stavak 1. podstavak 3. Uredbe (EU) 2023/1542)
+3. stavila na tržište proizvode koji sadrže baterije za laka prijevozna sredstva, a nije osigurala da neovisni stručnjak može lako ukloniti i zamijeniti te baterije i pojedinačne baterijske članke uključene u baterijski sklop, u bilo kojem trenutku tijekom životnog vijeka proizvoda (članak 11. stavak 5. Uredbe (EU) 2023/1542)
+4. stavila na tržište proizvode koji sadrže prijenosne baterije ili baterije za laka prijevozna sredstva, a nije osigurala da su te baterije dostupne kao rezervni dijelovi za opremu koju napajaju najmanje pet godina nakon stavljanja posljednje jedinice modela opreme na tržište, uz razumnu i nediskriminirajuću cijenu za neovisne stručnjake i krajnje korisnike (članak 11. stavak 7. Uredbe (EU) 2023/1542).
+(2) Za prekršaj iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1500,00 do 6000,00 eura.
+(3) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba – obrtnik novčanom kaznom u iznosu od 3000,00 do 6000,00 eura.
+(4) Za prekršaj iz stavka 1. ovoga članka kaznit će se fizička osoba novčanom kaznom od 1500,00 do 6000,00 eura.
