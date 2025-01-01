@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članaka 34. i 97. Statuta Grada Karlovca (»Glasnik Grada Karlovca« br. 9/21 - potpuni tekst i 10/22) Gradsko vijeće Grada Karlovca na 43. sjednici održanoj 28. studenoga 2024. godine donijelo je
