@@ -1,0 +1,1 @@
+Na temelju čl. 19.a, a u svezi s čl. 19. Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114//23.) i članka 32. Statuta Grada Trilja (»Službeni glasnik Grada Trilja« br. 3/9, 1/13, 2/18, 1/21, 5/23 i 9/23) Gradsko vijeće Grada Trilja na 31. sjednici održanoj 28. studenoga 2024. godine donijelo je
