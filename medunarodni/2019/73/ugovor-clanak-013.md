@@ -1,0 +1,4 @@
+# Članak 13.
+EKONOMSKA I FINANCIJSKA POLITIKA
+1. Stranke poboljšavaju razmjenu informacija i iskustava s ciljem promicanja bliske bilateralne i multilateralne koordinacije politika kako bi se podržao njihov zajednički cilj održivog i uravnoteženog rasta, stvaranja radnih mjesta, borbe protiv prekomjerne makroekonomske neravnoteže i svih oblika protekcionizma.
+2. Stranke poboljšavaju razmjenu informacija o svojim financijskim politikama i propisima s ciljem jačanja suradnje radi osiguravanja financijske stabilnosti i fiskalne održivosti, među ostalim poboljšanjem regulatornog i nadzornog režima za računovodstvo, reviziju, bankarstvo, osiguranja, financijska tržišta i druge dijelove financijskog sektora kako bi se poduprlo rad koji se trenutačno provodi u relevantnim međunarodnim organizacijama i forumima.

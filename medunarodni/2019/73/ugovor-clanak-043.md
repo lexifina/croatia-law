@@ -1,0 +1,12 @@
+# Članak 43.
+RJEŠAVANJE SPOROVA
+1. Stranke poduzimaju sve opće ili posebne mjere potrebne za ispunjavanje svojih obveza iz ovog Sporazuma, na temelju načela uzajamnog poštovanja, ravnopravnog partnerstva i poštovanja međunarodnog prava.
+2. U slučaju spora u vezi s tumačenjem, primjenom ili provedbom ovog Sporazuma, stranke ulažu pojačane napore u savjetovanje i suradnju kako bi spor riješile pravodobno i na sporazuman način.
+3. Ako se spor ne može riješiti u skladu sa stavkom 2. ovog članka, bilo koja stranka može zatražiti da se spor uputi Zajedničkom odboru na daljnju raspravu i proučavanje.
+4. Stranke smatraju da se iznimno ozbiljno i bitno kršenje obveza opisanih u članku 2. stavku 1. i članku 5. stavku 1., koje čine ključan element za osnovu suradnje u okviru ovog Sporazuma, čije su težina i priroda toliko iznimne da ugrožavaju mir i sigurnost te imaju međunarodne posljedice, može smatrati posebno hitnim slučajem.
+5. U malo vjerojatnom i neočekivanom slučaju da se na području bilo koje stranke dogodi posebno hitan slučaj iz stavka 4. ovog članka, Zajednički odbor održava hitno savjetovanje u roku od 15 dana od zahtjeva druge stranke.
+Ako Zajednički odbor ne uspije postići uzajamno prihvatljivo rješenje, o tom se pitanju hitno sastaje na ministarskoj razini.
+6. Ako se za posebno hitan slučaj ne postigne uzajamno prihvatljivo rješenje na ministarskoj razini, stranka koja je podnijela zahtjev iz stavka 5. ovog članka može odlučiti suspendirati odredbe ovog Sporazuma u skladu s međunarodnim pravom. Uz to, stranke napominju da stranka koja je podnijela zahtjev iz stavka 5. ovog članka može poduzeti druge odgovarajuće mjere izvan okvira ovog Sporazuma, u skladu s međunarodnim pravom.
+Stranka odmah u pisanom obliku obavješćuje drugu stranku o svojoj odluci i primjenjuje tu odluku tijekom minimalnog razdoblja potrebnog za rješavanje pitanja na način koji je prihvatljiv strankama.
+7. Stranke neprestano prate razvoj događaja u vezi s posebno hitnim slučajem koji je povod odluci o suspendiranju odredaba ovog Sporazuma. Stranka koja primijeni suspenziju odredaba ovog Sporazuma povlači tu suspenziju čim je to opravdano, a najkasnije nakon što više ne postoji posebno hitan slučaj.
+8. Ovim se Sporazumom ne utječe na tumačenje ili primjenu drugih sporazuma između stranaka niti se oni dovode u pitanje. Posebno, odredbama ovog Sporazuma o rješavanju sporova ni na koji se način ne zamjenjuju odredbe o rješavanju sporova iz drugih sporazuma između stranaka niti se na njih utječe.

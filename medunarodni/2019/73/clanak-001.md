@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o strateškom partnerstvu između Europske unije i njezinih država članica, sjedne strane, i Japana, s druge strane, sastavljen u Tokiju 17. srpnja 2018. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, švedskom, talijanskom i japanskom jeziku.

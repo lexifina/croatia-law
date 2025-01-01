@@ -1,0 +1,4 @@
+# Članak 30.
+ZAPOŠLJAVANJE I SOCIJALNA PITANJA
+1. Stranke jačaju suradnju u području zapošljavanja, socijalnih pitanja i dostojanstvenog rada, primjerice u području politika zapošljavanja i sustava socijalne sigurnosti u kontekstu socijalne dimenzije globalizacije i demografskih promjena razmjenom mišljenja i iskustava te, prema potrebi, suradnjom u pitanjima od zajedničkog interesa.
+2. Stranke nastoje poštovati, promicati i ostvarivati međunarodno priznate radne i socijalne standarde te promicati dostojanstven rad na temelju svojih obveza u okviru relevantnih međunarodnih instrumenata kao što su Deklaracija Međunarodne organizacije rada o temeljnim načelima i pravima na radu, donesena 18. lipnja 1998., te Deklaracija Međunarodne organizacije rada o socijalnoj pravdi za pravednu globalizaciju iz 2008., donesena 10. lipnja 2008.

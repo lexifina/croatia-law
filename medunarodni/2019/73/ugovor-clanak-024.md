@@ -1,0 +1,7 @@
+# Članak 24.
+KLIMATSKE PROMJENE
+1. Prepoznajući potrebu za hitnim, opsežnim i održivim smanjenjem globalnih emisija stakleničkih plinova kako bi se povećanje prosječne globalne temperature zadržalo na razini koja je znatno niža od 2 °C iznad razine u predindustrijskom razdoblju i uložili napori u ograničavanje povišenja temperature na 1,5 °C iznad razine u predindustrijskom razdoblju, stranke će predvoditi borbu protiv klimatskih promjena i njihovih negativnih utjecaja, među ostalim s pomoću domaćih i međunarodnih mjera za smanjenje antropogenih emisija stakleničkih plinova. Stranke surađuju, prema potrebi, u skladu s Okvirnom konvencijom Ujedinjenih naroda o promjeni klime, sastavljenom u New Yorku 9. svibnja 1992., kako bi se postigao cilj te konvencije provedbom Pariškog sporazuma, sastavljenog u Parizu 12. prosinca 2015., te kako bi se ojačao multilateralni pravni okvir. Nastoje i poboljšati suradnju u drugim relevantnim međunarodnim forumima.
+2. S ciljem promicanja održivog razvoja, stranke također nastoje surađivati pojačavanjem razmjene informacija i najbolje prakse te, prema potrebi, promicanjem usklađivanja politika o pitanjima od zajedničkog interesa u području klimatskih promjena, uključujući pitanja kao što su:
+(a) ublažavanje klimatskih promjena kroz razne mjere kao što su istraživanje i razvoj niskougljičnih tehnologija, tržišno utemeljeni mehanizmi i smanjenje klimatskih onečišćivača kratkog vijeka;
+(b) prilagodba negativnim utjecajima klimatskih promjena; i
+(c) pomoć trećim zemljama.
