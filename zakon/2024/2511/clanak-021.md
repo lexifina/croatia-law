@@ -1,0 +1,57 @@
+# Članak 21.
+Iza članka 125. dodaju se naslovi iznad članaka i članci 125.a do 125.e koji glase:
+»Trgovanje udjelima AIF-a iz treće države u Republici Hrvatskoj bez europske putovnice
+Članak 125.a
+(1) UAIF iz Republike Hrvatske i/ili druge države članice može profesionalnim ulagateljima u Republici Hrvatskoj distribuirati udjele AIF-ova iz treće države kojima upravlja i udjele napajajućeg AIF-a iz Republike Hrvatske ili druge države članice koji ne ispunjava uvjete iz članka 118. stavka 2. ovoga Zakona, uz uvjet da:
+a) se pridržava svih zahtjeva iz ovoga Zakona u dijelu obavljanja poslova u Republici Hrvatskoj, osim zahtjeva iz dijela jedanaestog ovoga Zakona kojim se uređuje obavljanje poslova depozitara
+b) primjenjuje druge relevantne propise koji radi zaštite javnog interesa uređuju prava potrošača i sprječavanje pranja novca i financiranje terorizma, a na snazi su u Republici Hrvatskoj
+c) su uspostavljeni odgovarajući postupci suradnje u skladu s međunarodnim standardima između Agencije i, ako se radi o UAIF-u iz druge države članice, nadležnog tijela matične države članice UAIF-a i nadzornih tijela treće države u kojoj je osnovan AIF, radi nadzora sistemskih rizika i kako bi se minimalno osigurala učinkovita razmjena informacija na temelju kojih Agencija može izvršavati svoje zadaće u skladu s odredbama ovoga Zakona
+d) treća država u kojoj je osnovan AIF nije identificirana kao visokorizična treća država u skladu s Delegiranom uredbom Komisije (EU) 2016/1675 od 14. srpnja 2016. o dopuni Direktive (EU) 2015/849 Europskog parlamenta i Vijeća utvrđivanjem visokorizičnih trećih zemalja sa strateškim nedostacima (Tekst značajan za EGP) (SL L 254, 20. 9. 2016.) (u daljnjem tekstu: Delegirana uredba (EU) 2016/1675)
+e) Republika Hrvatska s trećom državom u kojoj je osnovan AIF ima sklopljen sporazum koji je u potpunosti u skladu sa standardima utvrđenim u članku 26. Model-konvencije OECD-a o porezu na dohodak i imovinu te koji osigurava djelotvornu razmjenu podataka u poreznim stvarima, uključujući, ako postoje, multilateralne porezne sporazume i treća država nije navedena na popisu u Dodatku I. Zaključka Vijeća o revidiranoj EU listi nekooperativnih jurisdikcija za porezna pitanja.
+(2) UAIF iz stavka 1. ovoga članka mora imenovati jednog ili više subjekata koji će obavljati poslove iz članka 189. ovoga Zakona u skladu s odredbama članaka 190. do 192. ovoga Zakona te o tome bez odgode obavijestiti Agenciju i nadzorno tijelo treće države u kojoj je AIF osnovan. Sam UAIF ne može obavljati poslove iz članka 189. ovoga Zakona.
+(3) UAIF iz stavka 1. ovoga članka koji namjerava profesionalnim ulagateljima na području Republike Hrvatske distribuirati udjele AIF-a iz treće države kojim upravlja, dužan je za svaki takav AIF Agenciji dostaviti obavijest o namjeri distribucije AIF-a iz treće države.
+(4) Obavijest iz stavka 3. ovoga članka sadržava sljedeće podatke:
+a) opće podatke o UAIF-u
+b) naznaku i opis AIF-a iz treće države čijim udjelima UAIF namjerava trgovati u Republici Hrvatskoj
+c) pravila AIF-a odnosno dokument o osnivanju AIF-a
+d) podatke o subjektima koji će obavljati poslove iz članka 189. ovoga Zakona
+e) izjavu UAIF-a o točnosti dostavljenih podataka
+f) informacije o uspostavljenim mehanizmima za sprječavanje distribucije udjela AIF-a malim ulagateljima, uključujući i slučajeve kad se UAIF oslanja na aktivnosti nezavisnih subjekata za pružanje investicijskih usluga u vezi s AIF-om
+g) sve potrebne podatke koji su Agenciji potrebni vezano za izdavanje računa ili za obavještavanje o primjenjivim regulatornim naknadama ili pristojbama.
+(5) Uz obavijest iz stavka 3. ovoga članka UAIF iz druge države članice koji namjerava profesionalnim ulagateljima na području Republike Hrvatske distribuirati udjele AIF-a iz treće države kojim upravlja dužan je Agenciji dostaviti potvrdu nadležnog tijela matične države članice da je usklađen s odredbama propisa te države kojima se u njezin pravni poredak prenose odredbe Direktive 2011/61/EZ, osim onih iz dijela VI., i delegiranih akata donesenih na temelju Direktive 2011/61/EZ.
+(6) Obavijest iz stavka 3. ovoga članka i dokumentacija dostavljena uz obavijest, kao i potvrda i stavka 5. ovoga članka dostavljaju se na hrvatskom ili engleskom jeziku.
+(7) Agencija će pravilnikom detaljnije propisati sadržaj te način dostave obavijesti iz stavka 3. ovoga članka i potvrde iz stavka 5. ovoga članka.
+Postupanje Agencije po zaprimanju obavijesti o namjeri distribucije AIF-a iz treće države
+Članak 125.b
+(1) Agencija provjerava formalnu potpunost obavijesti iz članka 125.a stavka 3. ovoga Zakona, ne ulazeći u provjeru točnosti njezinog sadržaja.
+(2) Agencija će u roku od dva mjeseca od zaprimanja uredne dokumentacije iz članka 125.a stavaka 4. i 5. ovoga Zakona obavijestiti UAIF iz članka 125.a stavka 1. ovoga Zakona može li na području Republike Hrvatske započeti distribuciju udjela AIF-a navedenog u obavijesti.
+(3) UAIF iz članka 125.a stavka 1. ovoga Zakona može u Republici Hrvatskoj započeti s distribucijom udjelima AIF-a iz treće države od dana zaprimanja obavijesti Agencije iz stavka 2. ovoga članka.
+(4) U slučaju značajne promjene bilo kojih podataka dostavljenih u skladu s člankom 125.a stavkom 4. ovoga Zakona UAIF je dužan Agenciji dostaviti pisanu obavijest o namjeravanoj promjeni najmanje mjesec dana prije njezina provođenja odnosno odmah nakon što se neplanirana promjena dogodila.
+(5) Ako bi namjeravana promjena dovela do toga da upravljanje AIF-om iz treće države od strane UAIF-a ili sam UAIF ne bi više bio usklađen s odredbama ovoga Zakona odnosno propisa kojima se u pravni poredak matične države članice UAIF-a prenose odredbe Direktive 2011/61/EZ, Agencija će zabraniti provođenje namjeravane promjene.
+(6) Ako je suprotno stavcima 4. i 5. ovoga članka namjeravana promjena provedena odnosno ako se dogodila neplanirana promjena zbog koje upravljanje AIF-om iz treće države od strane UAIF-a ili sam UAIF više nije usklađen s odredbama ovoga Zakona odnosno propisa kojima se u pravni poredak matične države članice UAIF-a prenose odredbe Direktive 2011/61/EZ, Agencija će poduzeti odgovarajuće mjere u skladu s dijelom četrnaestim ovoga Zakona, uključujući, kada je to potrebno, i zabranu trgovanja udjelima AIF-a iz treće države.
+Povlačenje obavijesti o trgovanju udjelima AIF-a iz treće države bez europske putovnice
+Članak 125.c
+(1) UAIF iz članka 125.a stavka 1. ovoga Zakona može povući obavijest iz članka 125.a stavka 3. ovoga Zakona o namjeri trgovanja udjelima AIF-a iz treće države u Republici Hrvatskoj u odnosu na sve ili dio AIF-ova iz treće države kojima trguje u Republici Hrvatskoj ako su ispunjeni svi sljedeći uvjeti:
+a) da je UAIF, osim za zatvorene AIF-ove i Europske fondove za dugoročna ulaganja kako su definirani Uredbom (EU) 2015/760 Europskog parlamenta i Vijeća od 29. travnja 2015. o europskim fondovima za dugoročna ulaganja (Tekst značajan za EGP) (SL L 123, 19. 5. 2015.) (u daljnjem tekstu: Uredba (EU) 2015/760), dao opću ponudu za otkup ili isplatu svih udjela AIF-a iz treće države na koji se odnosi povlačenje obavijesti koje drže ulagatelji u Republici Hrvatskoj, bez odbitka ili naplate naknada za otkup ili isplatu udjela
+b) da je ponuda iz točke a) ovoga stavka javno dostupna najmanje 30 radnih dana te da ju je UAIF, izravno ili preko financijskih posrednika, pojedinačno uputio svim ulagateljima u Republici Hrvatskoj, a čiji mu je identitet poznat
+c) da je UAIF na javno dostupnom mediju, koji je uobičajen za oglašavanje AIF-ova i prikladan za tipičnog ulagatelja u AIF, što uključuje i elektronička sredstva, objavio namjeru povlačenja obavijesti iz članka 125.a stavka 3. ovoga Zakona i naveo AIF iz treće države u odnosu na koji se obavijest povlači
+d) da je UAIF izmijenio ili raskinuo ugovore s financijskim posrednicima ili trećim osobama koje obavljaju distribuciju udjela AIF-a u odnosu na koji je obavijest povučena, a kako bi se spriječilo njihovo novo, daljnje, izravno ili neizravno distribuiranje. Izmjene ili raskid ugovora primjenjuju se od dana povlačenja obavijesti iz članka 125.a stavka 3. ovoga Zakona.
+(2) Od dana povlačenja obavijesti iz članka 125.a stavka 3. ovoga Zakona UAIF iz članka 125.a stavka 1. ovoga Zakona dužan je u Republici Hrvatskoj prestati s novom ili daljnjom, izravnom ili neizravnom distribucijom udjela AIF-a u odnosu na koji je povučena obavijest.
+(3) U razdoblju od 36 mjeseci od dana povlačenja obavijesti o namjeri trgovanja u Republici Hrvatskoj UAIF-u iz članka 125.a stavka 1. ovoga Zakona zabranjeno je provoditi predmarketinške aktivnosti u odnosu na udjele AIF-a za koji je obavijest povučena, kao i u odnosu na usporedivu investicijsku strategiju ili ideju.
+(4) UAIF iz stavka 1. ovoga članka dužan je ulagateljima u Republici Hrvatskoj koji ostanu imatelji udjela AIF-a u odnosu na koji je obavijest o namjeri trgovanja udjelima AIF-a iz treće države u Republici Hrvatskoj povučena osigurati svu dokumentaciju i informacije koje osigurava ulagateljima tog AIF-a u matičnoj državi članici UAIF-a.
+(5) UAIF može dokumente iz stavka 4. ovoga članka ulagateljima u Republici Hrvatskoj osigurati upotrebom elektroničkih ili drugih sredstava komunikacije na daljinu.
+(6) Kada su u Republici Hrvatskoj ostali imatelji udjela AIF-a u odnosu na koji je UAIF povukao obavijest o namjeri trgovanja u Republici Hrvatskoj, Agencija će nad tim UAIF-om imati ista prava i obveze kao što ima nad UAIF-im iz druge države članice kojemu je država članica domaćin u skladu s člankom 265. stavkom 1. i člankom 267. ovoga Zakona.
+(7) Neovisno o drugim nadzornim aktivnostima i ovlastima koje ima prema odredbama ovoga Zakona, od dana zaprimanja obavijesti o povlačenju obavijesti iz članka 125.a stavka 3. ovoga Zakona Agencija neće od UAIF-a koji je povukao obavijesti o namjeri trgovanja u Republici Hrvatskoj tražiti usklađenost s odredbama ovoga Zakona i drugim propisima kojima se uređuju zahtjevi o trgovanju AIF-ovima, a koji su objavljeni na internetskim stranicama Agencije u skladu s člankom 5. Uredbe (EU) 2019/1156.
+Zabrana distribuiranja udjela AIF-a iz treće države bez europske putovnice
+Članak 125.d
+(1) Agencija će UAIF-u iz Republike Hrvatske i/ili druge države članice zabraniti distribuiranje udjela AIF-a iz treće države ako:
+a) UAIF nije dostavio obavijest i potvrdu iz članka 125.a stavaka 3., 4. i 5. ovoga Zakona, na način propisan pravilnikom iz članka 125.a stavka 7. ovoga Zakona
+b) UAIF prestane ispunjavati neki od uvjeta iz članka 125.a stavka 1. ovoga Zakona
+c) je distribuiranje udjela AIF-a iz treće države uključivalo ozbiljno kršenje zakonskih odredbi
+d) je zahtjev ulagatelja utvrđen ili dosuđen pravomoćnom presudom ili sudskom nagodbom protiv AIF-a iz treće države ili UAIF-a koji njime upravlja nije ispunjen
+e) obveze UAIF-a predviđene ovim Zakonom nisu ispunjene ili
+f) je nadležno tijelo AIF-a iz treće države UAIF-u oduzelo odobrenje za upravljanje AIF-om iz treće države.
+(2) Ako je Agencija UAIF-u iz članka 125.a stavka 1. ovoga Zakona zabranila početak ili nastavak distribuiranja udjela AIF-ova iz treće države, mora proteći razdoblje od najmanje godinu dana od datuma zabrane prije nego što UAIF može ponovno Agenciji dostaviti obavijest iz članka 125.a stavka 3. ovoga Zakona u odnosu na udjele AIF-a za koji je zabrana izrečena.
+Primjena odredbi na napajajući AIF
+Članak 125.e
+Na napajajući AIF iz članka 125.a stavka 1. ovoga Zakona na odgovarajući se način primjenjuju odredbe članaka 125.a do 125.d ovoga Zakona.«.
