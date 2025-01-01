@@ -1,0 +1,1 @@
+Na temelju članaka 21. i 31. Zakona o Hrvatskoj gospodarskoj komori (»Narodne novine« broj 144/2021) te članka 8. Statuta Hrvatske gospodarske komore (»Narodne novine« broj 67/2022 i 113/2023), Skupština Hrvatske gospodarske komore na 6. sjednici 19. prosinca 2024. godine donosi
