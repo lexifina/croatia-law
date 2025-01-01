@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 6. stavak 3. mijenja se i glasi:
+»(3) Ministar će, nakon konzultacija sa socijalnim partnerima i posvećujući posebnu pozornost djelatnostima s niskim plaćama i ugroženim skupinama zaposlenih, imajući u vidu povećanje udjela bruto minimalne plaće u prosječnoj brutoplaći u pravnim osobama od siječnja do srpnja tekuće godine, inflaciju odnosno promjene u kupovnoj moći minimalne plaće, kretanje plaća, kretanje nezaposlenosti i zaposlenosti, demografska kretanja, kretanje produktivnosti te ukupno stanje gospodarstva, predložiti Vladi Republike Hrvatske visinu minimalne plaće.«.
