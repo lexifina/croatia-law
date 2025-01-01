@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj: 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23) i članka 31. Statuta Grada Varaždinskih Toplica (»Službeni vjesnik Varaždinske županije« broj: 10/21), Gradsko vijeće Grada Varaždinskih Toplica na sjednici održanoj 26. studenoga 2024. godine donijelo je
