@@ -1,0 +1,16 @@
+# Članak 8.
+Članak 10. mijenja se i glasi:
+»(1) Prihvatljivi troškovi istraživačko-razvojnih projekata u smislu ovoga Zakona su sljedeći:
+1. troškovi osoblja, koji uključuju troškove plaća i naknada istraživača, tehničara i ostalog pomoćnog osoblja zaposlenog na istraživačko-razvojnom projektu u razmjernom dijelu radnog vremena
+2. troškovi amortizacije instrumenata i opreme, u opsegu i u razdoblju u kojem se upotrebljavaju za projekt, ali ako se ti instrumenti i oprema ne upotrebljavaju za projekt tijekom čitavog njihova vijeka trajanja, prihvatljivim troškovima smatraju se, sukladno računovodstvenim načelima, samo troškovi amortizacije nastali u razdoblju trajanja projekta
+3. troškovi ugovornih istraživanja, znanja i patenata kupljenih ili licenciranih od vanjskih izvora po tržišnim uvjetima te troškovi savjetodavnih i sličnih usluga koje se upotrebljavaju isključivo za projekt, pri čemu su ti troškovi prihvatljivi do maksimalnog udjela od 50 % u prihvatljivim troškovima iz točke 1. ovoga stavka, poštujući maksimalno dopuštene intenzitete potpora iz članka 11. ovoga Zakona
+4. dodatni režijski troškovi i ostali izdaci poslovanja, uključujući troškove materijala, potrošne robe i sličnih proizvoda, nastali izravno kao posljedica projekta; ne dovodeći u pitanje odredbu stavka 4. ovoga članka, takvi troškovi projekta istraživanja i razvoja mogu se izračunati i na temelju pojednostavnjenog pristupa troškovima u obliku fiksne stope od najviše 20 %, koja se primjenjuje na ukupne prihvatljive troškove projekta istraživanja i razvoja iz točaka od 1. do 3. ovoga stavka. U tom slučaju troškovi projekta istraživanja i razvoja koji se upotrebljavaju za izračun neizravnih troškova utvrđuju se na temelju uobičajenih računovodstvenih praksi i obuhvaćaju samo prihvatljive troškove projekata istraživanja i razvoja iz točaka od 1. do 3. ovoga stavka.
+(2) Prihvatljivi troškovi za studije izvedivosti su troškovi izrade studije.
+(3) Za izračun intenziteta potpore i prihvatljivih troškova svi iznosi koji se upotrebljavaju trebaju biti iznosi prije odbitka poreza ili drugih naknada.
+(4) Prihvatljivi troškovi popraćuju se pisanim dokazima koji trebaju biti jasni, konkretni i ažurirani.
+(5) Porez na dodanu vrijednost obračunan na prihvatljive troškove ili izdatke, a koji se može odbiti u skladu s posebnim propisom o porezu na dodanu vrijednost ne uzima se u obzir za izračun intenziteta potpore i prihvatljivih troškova.
+(6) Ako se potpora ne dodjeljuje u obliku bespovratnog sredstva, iznos potpore jednak je brutoekvivalentu bespovratnog sredstva.
+(7) Potpore koje se isplaćuju u budućnosti, uključujući potpore koje se isplaćuju u više obroka, treba diskontirati na njihovu vrijednost u trenutku dodjele.
+(8) Prihvatljive troškove treba diskontirati na njihovu vrijednost u trenutku dodjele.
+(9) Kamatna stopa koju treba primijeniti pri diskontiranju diskontirana je kamatna stopa koja se primjenjuje u trenutku dodjele potpore.
+(10) Ministarstvo ili provedbeno tijelo može u postupku odobravanja potpore pojedinom projektu procijeniti da su prijavljeni troškovi prihvatljivi u iznosima koji su niži od prijavljenih iznosa troškova ili da su prijavljeni troškovi prihvatljivi u okviru različitih kategorija istraživanja i razvoja u odnosu na prijavljene.«.
