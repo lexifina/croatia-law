@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Martijanec (»Službeni vjesnik Varaždinske županije« broj 10/13, 24/13, 18/18, 09/20, 14/21, 14/23.) Općinsko vijeće Općine Martijanec na 27. sjednici održanoj 17. prosinca 2024. donosi
