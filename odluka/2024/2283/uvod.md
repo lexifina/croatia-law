@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 32. Statuta Općine Oriovac (»Službene vjesnik Brodsko-posavske županije« broj 10/09, 7/13, 4/18, 6/20, 11/21 i 23/22), Općinsko vijeće Općine Oriovac na 22. sjednici održanoj 12. studenoga 2024. godine donijelo je
