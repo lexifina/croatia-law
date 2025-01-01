@@ -1,0 +1,5 @@
+# Članak 5.
+U članku 38. stavak 3. mijenja se i glasi:
+»(3) Kreditna institucija dužna je donijeti politike i planove postupanja u kriznim situacijama te politike i planove kontinuiteta poslovanja kojima se osigurava kontinuitet poslovanja i ograničavaju gubici u slučajevima znatnijeg narušavanja ili prekida poslovanja.«
+Iza stavka 3. dodaje se novi stavak 4., koji glasi:
+»(4) Kreditna institucija dužna je, u smislu stavka 3. ovog članka, donijeti i politike i planove kontinuiteta poslovanja u području IKT-a i planove odgovora i oporavka u području IKT-a za tehnologiju kojom se koristi za priopćavanje informacija te osigurati da su ti planovi izrađeni i testirani i da se njima upravlja u skladu s člankom 11. Uredbe (EU) 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014, i (EU) 2016/1011 (Tekst značajan za EGP) (SL L 333, 27. 12. 2022.).«
