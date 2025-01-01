@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 3. Zakona o službenoj statistici (»Narodne novine«, broj 25/20 i 155/23), a u skladu s Delegiranom uredbom Komisije (EU) 2024/3103 od 2. rujna 2024. godine o izmjeni Uredbe (EZ) br. 451/2008 Europskog parlamenta i Vijeća ažuriranjem klasifikacije proizvoda po djelatnostima (CPA), glavna ravnateljica Državnog zavoda za statistiku donosi
