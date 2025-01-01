@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 2. Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22., 46/22., 119/22., 71/23. i 156/23.), Vlada Republike Hrvatske je na sjednici održanoj 20. prosinca 2024. donijela
