@@ -1,0 +1,3 @@
+# Članak 20.
+U članku 204. iza stavka 10. dodaje se stavak 11. koji glasi:
+»(11) Agencija ima ovlast da, osim izračuna potrebnog solventnog kapitala, prema potrebi, razvija potrebne kvantitativne alate u okviru postupka nadzornog pregleda kako bi procijenila sposobnost društva za osiguranje odnosno društva za reosiguranje da se suoči s mogućim događajima ili budućim promjenama gospodarskih uvjeta koji bi mogli imati nepovoljne učinke na njihov ukupni financijski položaj, a ima ovlast zahtijevati i da društva provedu odgovarajuće testove u svrhu procjene utjecaja navedenih čimbenika na njihov ukupni financijski položaj.«.

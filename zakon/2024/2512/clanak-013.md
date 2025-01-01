@@ -1,0 +1,6 @@
+# Članak 13.
+U članku 78. stavak 4. mijenja se i glasi:
+»(4) Agencija će odbiti zahtjev za izdavanje odobrenja za osnivanje podružnice društva za osiguranje iz treće države ako bi, uzimajući u obzir propise države sjedišta toga društva za osiguranje, odnosno uzimajući u obzir praksu te države u primjeni i izvršavanju tih propisa, obavljanje nadzora u skladu s ovim Zakonom moglo biti onemogućeno, odnosno bitno otežano.«.
+Iza stavka 6. dodaju se stavci 7. i 8. koji glase:
+»(7) Kad društvo za osiguranje iz treće države namjerava preko svoje podružnice pružati usluge osiguranja propisane zakonom kojim se uređuju obvezna osiguranja u prometu, dužno je, prije početka pružanja tih usluga osiguranja, Agenciji dostaviti izjavu da je postalo član nacionalnog ureda za osiguranje i nacionalnoga garancijskog fonda Republike Hrvatske.
+(8) Društvo za osiguranje iz treće države koje pokriva rizik iz vrste osiguranja iz članka 7. stavka 2. točke 2. ovoga Zakona, odnosno zdravstveno osiguranje na području Republike Hrvatske dužno je prije početka obavljanja poslova zdravstvenog osiguranja dostaviti Agenciji uvjete osiguranja za ta osiguranja i prethodnu suglasnost ministra nadležnog za zdravstvo u skladu s propisima kojima se uređuje djelatnost dobrovoljnog zdravstvenog osiguranja.«.
