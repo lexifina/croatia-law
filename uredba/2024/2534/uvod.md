@@ -1,0 +1,1 @@
+Na temelju članka 29. stavka 4. i članka 29.a stavka 2. Zakona o biogorivima za prijevoz (»Narodne novine«, br. 65/09., 145/10., 26/11., 144/12., 14/14., 94/18. i 52/21.), Vlada Republike Hrvatske je na sjednici održanoj 27. prosinca 2024. donijela
