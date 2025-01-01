@@ -1,0 +1,5 @@
+## GLAVA II. ELEKTRONIČKA DOSTAVA
+## Obveznici elektroničke dostave
+# Članak 6.
+(1) Sudovima, državnom odvjetništvu, javnopravnim tijelima, odvjetnicima, javnim bilježnicima, stalnim sudskim vještacima, stalnim sudskim tumačima, stečajnim povjerenicima, povjerenicima u predstečajnom postupku i u postupku stečaja potrošača, stečajnim upraviteljima, sindikatima i udrugama poslodavaca, likvidatorima, posebnim skrbnicima zaposlenim u Centru za posebno skrbništvo, pravnim osobama te fizičkim osobama koje obavljaju registriranu djelatnost u postupcima koji se tiču te djelatnosti pismena se dostavljaju elektronički.
+(2) Obvezniku elektroničke dostave iz stavka 1. ovoga članka kojemu još nije dodijeljeno pravo pristupa informacijskom sustavu elektroničke komunikacije sa sudovima prvo pismeno u postupku sud dostavlja odgovarajućom primjenom pravila ovoga Zakona o uručenju uz obavijest da će nadalje pismena u tom postupku dostavljati preko sudske e-oglasne ploče sve dok primatelj ne pristupi sudskom informacijskom sustavu elektroničke komunikacije.

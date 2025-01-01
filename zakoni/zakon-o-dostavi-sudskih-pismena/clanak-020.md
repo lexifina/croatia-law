@@ -1,0 +1,3 @@
+## GLAVA IV. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 20.
+Do usklađenja Zakona o parničnom postupku (»Narodne novine«, br. 53/91., 91/92., 112/99., 88/01., 117/03., 88/05., 2/07., 84/08., 96/08., 123/08., 57/11., 148/11., 25/13., 89/14., 70/19., 80/22., 114/22. i 155/23.), Zakon o kaznenom postupku (»Narodne novine«, br. 152/08., 76/09., 80/11., 121/11., 91/12., 143/12., 56/13., 145/13., 152/14., 70/17., 126/19., 126/19. i 80/22.), Zakona o upravnim sporovima (»Narodne novine«, br. 20/10., 143/12., 152/14., 94/16., 29/17. i 110/21.) i Prekršajnog zakona (»Narodne novine«, br. 107/07., 39/13., 157/13., 110/15., 70/17., 118/18. i 114/22.) s odredbama ovoga Zakona, postupci dostave sudskih pismena provode se sukladno odredbama navedenih zakona.
