@@ -1,0 +1,10 @@
+## Značenje pojmova
+# Članak 2.
+(1) Izrazi koji se koriste u Zakonu o hrani (»Narodne novine«, broj 18/23.) (u daljnjem tekstu: Zakon) koriste se i u ovom Pravilniku.
+(2) Pojedini pojmovi koji se koriste u ovom Pravilniku imaju sljedeća značenja:
+1. propisi o hrani su propisi iz članka 3. točke 1. Uredbe (EZ) br. 178/2002 Europskog parlamenta i Vijeća od 28. siječnja 2002. o utvrđivanju općih načela i uvjeta zakona o hrani, osnivanju Europske agencije za sigurnost hrane te utvrđivanju postupaka u područjima sigurnosti hrane (SL L 31, 1. 2. 2002.), kako je posljednji put izmijenjena Uredbom (EU) 2019/1381 Europskog parlamenta i Vijeća od 20. lipnja 2019. o transparentnosti i održivosti procjene rizika EU-a u prehrambenom lancu i o izmjeni uredbi (EZ) br. 178/2002, (EZ) br. 1829/2003, (EZ) br. 1831/2003, (EZ) br. 2065/2003, (EZ) br. 1935/2004, (EZ) br. 1331/2008, (EZ) br. 1107/2009 i (EU) 2015/2283 te Direktive 2001/18/ EZ (Tekst značajan za EGP) (SL L 231, 6. 9. 2019.) (u daljnjem tekstu: Uredba (EZ) br. 178/2002)
+2. nadležna tijela su ministarstvo nadležno za poljoprivredu, ministarstvo nadležno za zdravstvo i Državni inspektorat u skladu s podjelom nadležnosti iz članka 6. Zakona
+3. treće zainteresirane strane su subjekti iz članka 3. točke 3. Uredbe (EZ) br. 178/2002
+4. znanstveno mišljenje je izlazni dokument Agencije određen vrstom zahtjeva za izradom znanstvenog mišljenja, a uključuje osnovne podatke o zahtjevu i procjenu rizika vezanu za hranu i hranu za životinje, zdravlje i dobrobit životinja te biljno zdravstvo.
+5. znanstvena ili tehnička potpora su ostali izlazni dokumenti i aktivnosti Agencije određeni vrstom zahtjeva za pružanjem znanstvene i tehničke potpore, a mogu obuhvaćati analizu podataka koji su prikupljeni metodologijom sustavnog i dokumentiranog postupka prikupljanja stručnog znanja temeljenog na literaturnim dokazima, analizi rezultata istraživanja, monitoringa i službenih kontrola te rezultate javnih rasprava o određenim pitanjima.
+(3) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje odnose se jednako na muški i ženski rod.
