@@ -1,0 +1,6 @@
+# Članak 2.
+U dodatku »Osnovni uvjeti kojima javne ceste izvan naselja i njihovi elementi moraju udovoljavati sa stajališta sigurnosti prometa« mijenja se točka 5.1.5. Razdjelni pojas, tako da sada glasi:
+»5.1.5. Razdjelni pojas
+Razdjelni pojas se izvodi u presjeku ceste kod koje je zbog sigurnosti prometa nužno fizički razdvojiti dva kolnika s prometom u suprotnim smjerovima. Kod autocesta s ukupno četiri ili više prometnih trakova razdjelni pojas se obvezno izvodi u širinama 4,00 m ili min 3,00 m (iznimno 2,50 m). Minimalna širina razdjelnog pojasa, neovisno o projektnoj brzini i tipskim poprečnim presjecima navedenim u Tabl. 5.2. Tipski poprečni presjeci cesta, može se primijeniti kod autocesta ukoliko se zadovolje svi ostali tehnički i sigurnosni uvjeti za smanjenu širinu razdjelnog pojasa.
+Ukoliko je trasa položena na padini terena s odvojenim kolnicima i visinski neovisnim vođenjem nivelete te s ciljem racionalizacije radova nestandardnu širinu razdjelnog pojasa uvjetuju terenske prilike.
+Razdjelni pojas se može predvidjeti kod cesta 1. i 2. kategorije za slučaj većeg prometnog opterećenja i nužnosti osiguranja željene kvalitete prometa. Širina razdjelnog pojasa kod ovih cesta iznosi 3,00 m i 2,00 m (iznimno i 1,85 cm).«.
