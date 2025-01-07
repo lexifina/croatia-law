@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 6. i članka 10. stavka 4. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18, 98/19, 30/21, 89/21 - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 114/22 i 136/24) ministar mora, prometa i infrastrukture, donosi
