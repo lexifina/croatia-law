@@ -1,0 +1,8 @@
+O D L U K U
+I. Ustavna tužba se usvaja.
+II. Općinski sud u Splitu dužan je Vrhovnom sudu Republike Hrvatske dostaviti prijedlog za dopuštenje revizije od 17. listopada 2024. zajedno s parničnim spisom Općinskog suda u Splitu broj: P-1220/2023 u najkraćem mogućem roku, ali ne duljem od pet (5) dana od primitka odgovora na prijedlog za dopuštenje revizije, odnosno nakon isteka roka za odgovor na prijedlog za dopuštenje revizije.
+III. Istovremeno sa slanjem prijedloga za dopuštenje revizije i parničnog spisa, Općinski sud u Splitu dužan je Vrhovnom sudu dostaviti i odluku Ustavnog suda broj: U-IIIA-3883/2024 od 15. siječnja 2025., kako bi isti mogao postupiti po nalogu Ustavnog suda iz točke IV. izreke ove odluke.
+IV. Vrhovni sud dužan je donijeti odluku o prijedlogu za dopuštenje revizije tužitelja u najkraćem mogućem roku, ali ne duljem od šest (6) mjeseci, računajući od prvog idućeg dana nakon što mu je Općinski sud u Splitu dostavio spis broj: P-1220/2023.
+V. Na temelju članka 63. stavka 3. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst), podnositelju ustavne tužbe Z. L. iz S., određuje se primjerena naknada zbog povrede prava zajamčenog člankom 29. stavkom 1. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.) u iznosu od 1.550,00 eura.
+VI. Naknada iz točke V. izreke ove odluke bit će isplaćene iz državnog proračuna u roku od tri (3) mjeseca od dana podnošenja zahtjeva podnositelja Ministarstvu pravosuđa, uprave i digitalne transformacije Republike Hrvatske za njezinu isplatu.
+VII. Ova odluka objavit će se u "Narodnim novinama".
