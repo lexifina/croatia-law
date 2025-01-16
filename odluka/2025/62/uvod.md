@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 13. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18., 98/19., 30/21., 89/21. - Odluka Ustavnog suda Republike Hrvatske, 114/22. i 136/24.), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2025. donijela
