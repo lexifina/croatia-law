@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 5. Zakona o veterinarstvu (»Narodne novine«, br. 82/13, 148/13, 115/18, 52/21, 83/22, 152/22 i 18/23) i članka 16. stavka 3. Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija (»Narodne novine«, br. 82/15, 70/19, 47/20 i 123/23), ministar poljoprivrede, šumarstva i ribarstva donosi
