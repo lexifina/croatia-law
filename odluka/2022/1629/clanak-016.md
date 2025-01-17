@@ -1,4 +1,0 @@
-## Praćenje sigurnosti
-# Članak 16.
-(1) Kreditna institucija dužna je uspostaviti proces i provoditi postupke za otkrivanje neuobičajenih aktivnosti koje bi mogle narušiti informacijsku sigurnost kreditne institucije i na odgovarajući način odgovoriti na te događaje. Kao dio kontinuiranog praćenja, kreditna institucija dužna je implementirati primjerene i učinkovite mehanizme za otkrivanje fizičkih i logičkih upada te povreda povjerljivosti, cjelovitosti i dostupnosti informacijske imovine.
-(2) Kreditna institucija dužna je uspostaviti procese i provoditi postupke za utvrđivanje i neprekidno praćenje sigurnosnih i operativnih prijetnji koje bi mogle značajno utjecati na sposobnost kreditne institucije da pruža usluge. Kreditna institucija dužna je aktivno pratiti tehnološka kretanja kako bi bila upoznata sa sigurnosnim rizicima.

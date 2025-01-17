@@ -1,6 +1,0 @@
-## IKT revizija
-# Članak 10.
-(1) Funkcija unutarnje revizije dužna je, pridržavajući se zahtjeva propisanih Odlukom o sustavu upravljanja i u skladu s pristupom koji se temelji na procjeni rizika, neovisno preispitivati i pružati objektivno uvjerenje o usklađenosti svih aktivnosti i organizacijskih jedinica u području IKT-a i sigurnosti s politikama i postupcima kreditne institucije.
-(2) Unutarnji revizori s dostatnim znanjem, vještinama i stručnošću u području IKT rizika dužni su provoditi redovne revizije upravljanja, sustava i procesa/postupaka povezanih s IKT rizicima kreditne institucije kako bi upravi kreditne institucije pružili neovisno uvjerenje o njihovoj učinkovitosti.
-(3) Uprava kreditne institucije dužna je odobriti plan unutarnje revizije, uključujući sve IKT revizije i sve značajne izmjene plana. Plan revizije i njegovo izvršenje, uključujući učestalost revizije, moraju odražavati i biti razmjerni IKT rizicima u kreditnoj instituciji te se redovito obnavljati.
-(4) Kreditna institucija dužna je uspostaviti formalni postupak praćenja prijedloga, preporuka i mjera za njihovo otklanjanje radi otklanjanja značajnih nepravilnosti i nedostataka utvrđenih nalazom IKT revizije.
