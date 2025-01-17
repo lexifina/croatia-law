@@ -1,0 +1,6 @@
+# Članak 1.
+U Zakonu o platnom prometu (»Narodne novine«, br. 66/18. i 114/22.) članak 2. mijenja se i glasi:
+»(1) Ovim se Zakonom u hrvatsko zakonodavstvo preuzimaju sljedeći akti Europske unije:
+1. Direktiva (EU) 2015/2366 Europskog parlamenta i Vijeća od 25. studenoga 2015. o platnim uslugama na unutarnjem tržištu, o izmjeni direktiva 2002/65/EZ, 2009/110/EZ i 2013/36/EU te Uredbe (EU) br. 1093/2010 i o stavljanju izvan snage Direktive 2007/64/EZ (Tekst značajan za EGP) (SL L 337, 23. 12. 2015.) (u daljnjem tekstu: Direktiva (EU) 2015/2366) te
+2. Direktiva (EU) 2022/2556 Europskog parlamenta i Vijeća od 14. prosinca 2022. o izmjeni direktiva 2009/65/EZ, 2009/138/EZ, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 i (EU) 2016/2341 u pogledu digitalne operativne otpornosti za financijski sektor (Tekst značajan za EGP) (SL L 333, 27. 12. 2022.) (u daljnjem tekstu: Direktiva (EU) 2022/2556).
+(2) Ovim se Zakonom osigurava provedba Uredbe (EU) 2024/886 Europskog parlamenta i Vijeća od 13. ožujka 2024. o izmjeni uredaba (EU) br. 260/2012 i (EU) 2021/1230 i direktiva 98/26/EZ i (EU) 2015/2366 u pogledu instant kreditnih transfera u eurima (Tekst značajan za EGP) (SL L, 2024/886, 19. 3. 2024.).«.
