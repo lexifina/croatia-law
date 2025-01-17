@@ -1,0 +1,11 @@
+## Nadzorne mjere Agencije
+# Članak 12.
+(1) Osim mjera koje je ovlaštena izricati sukladno zakonima kojima se uređuje osnivanje i poslovanje subjekata nadzora iz članka 8. stavaka 1. i 2. ovoga Zakona, Agencija je ovlaštena pri obavljanju nadzora nad provedbom Uredbe (EU) 2022/2554 i ovoga Zakona:
+1. izdavati nalog subjektu nadzora iz članka 8. stavaka 1. i 2. ovoga Zakona i odgovornoj osobi tog subjekta nadzora da prestane s ponašanjem koje predstavlja povredu Uredbe (EU) 2022/2554 i ovoga Zakona i da se suzdrži od ponavljanja takvog ponašanja
+2. upućivati zahtjev za privremeni ili trajni prestanak postupanja ili ponašanja koje smatra protivnim odredbama Uredbe (EU) 2022/2554 i ovoga Zakona te sprječavati ponavljanja takvog postupanja ili ponašanja
+3. izricati ili odrediti mjere u skladu s Uredbom (EU) 2022/2554 i ovim Zakonom i podnositi optužne prijedloge kako bi se osiguralo da subjekt nadzora iz članka 8. stavaka 1. i 2. ovoga Zakona uspostavi postupanje koje je u skladu s Uredbom (EU) 2022/2554 i ovim Zakonom
+4. upućivati zahtjev, u mjeri u kojoj je to propisima dopušteno, za dostavu postojeće evidencije telekomunikacijskog operatera o podatkovnom prometu ako postoji opravdana sumnja u povredu Uredbe (EU) 2022/2554 i ovoga Zakona te ako takva evidencija može biti važna za istragu povreda Uredbe (EU) 2022/2554 i ovoga Zakona i
+5. izdavati javne obavijesti, uključujući javne objave u kojima se navodi identitet subjekta nadzora iz članka 8. stavaka 1. i 2. ovoga Zakona i odgovorne osobe subjekta nadzora te priroda povrede.
+(2) Ako utvrdi da je član upravljačkog tijela subjekta nadzora ili druga osoba odgovorna za povrede Uredbe (EU) 2022/2554, Agencija može kao posebnu nadzornu mjeru naložiti nadzornom odboru subjekta nadzora da razriješi člana uprave ili drugu osobu razriješi rukovodeće funkcije u subjektu nadzora.
+(3) Pravna ili fizička osoba kojoj je Agencija izrekla nadzornu mjeru dužna ju je izvršiti na način i u roku kako je to određeno rješenjem.
+(4) Agencija je u svrhu ujednačavanja nadzorne prakse ovlaštena raznim vrstama objava izvještavati određene skupine subjekata nadzora iz članka 8. stavaka 1. i 2. ovoga Zakona o objašnjenju ili načinu primjene ovoga Zakona.
