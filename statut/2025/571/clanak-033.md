@@ -1,0 +1,2 @@
+# Članak 33.
+Nadzorni odbor dužan je pridržavati se načela tajnosti podataka i informacija do kojih je došao tijekom svojeg djelovanja vezano uz financije i imovinu Stranke. Podatke i informacije može dati samo osobama i/ili tijelima koja na to imaju pravo temeljem Statuta i drugih propisa Stranke. Ukoliko bilo koji član Nadzornog odbora prekrši načelo tajnosti protiv njega pokrenuti će se stegovni postupak te će biti razriješen dužnosti. Člana Nadzornog odbora razrješuje Skupština na prijedlog Predsjednika Stranke nakon provedenog stegovnog postupka.

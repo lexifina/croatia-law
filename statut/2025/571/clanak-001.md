@@ -1,0 +1,4 @@
+## NEZAVISNE STRANKE SAMO TIM
+## I. OPĆE ODREDBE
+# Članak 1.
+Ovim se Statutom uređuju naziv, skraćeni naziv, naziv na stranom jeziku, sjedište, teritorijalno područje djelovanja, izgled znaka i pečata, ciljevi i način djelovanja Stranke, način osiguranja javnosti djelovanja, uvjeti i način učlanjivanja, prestanak članstva, prava, obveze i odgovornosti članova, način vođenja popisa članova, stegovna odgovornost članova, predstavljanje i zastupanje Stranke, pitanja vezana uz ustrojstvo, ustrojstvene oblike, tijela upravljanja, njihov sastav i način sazivanja sjednica te izbor, opoziv i ovlasti, rad Stranke, sredstva za rad i način financiranja Stranke, prestanak rada Stranke, imovina te način stjecanja i raspolaganja imovinom, postupak s imovinom u slučaju prestanka rada Stranke i druga pitanja od značaja za Stranku.
