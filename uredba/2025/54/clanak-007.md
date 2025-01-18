@@ -1,0 +1,2 @@
+# Članak 7.
+Služba razvoja i održavanja tehničkih sustava Vlade za potrebe Glavnog tajništva, Ureda predsjednika Vlade i Ureda za odnose s javnošću obavlja poslove razvoja, unaprjeđenja i održavanja informatičkog sustava, sustava tonskog snimanja, sustava simultanog prevođenja, sustava video snimanja, sustava tehničke zaštite, informatičkog sustava za vođenje sjednica Vlade, televizijskog sustava, sustava evidencije radnog vremena, sustava video prezentacija, elektroenergetskog sustava u zgradi Vlade, kao i poslove informacijske sigurnosti.

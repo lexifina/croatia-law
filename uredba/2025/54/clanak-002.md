@@ -1,0 +1,2 @@
+# Članak 2.
+Glavno tajništvo obavlja poslove u skladu sa Zakonom o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i Poslovnikom Vlade Republike Hrvatske (»Narodne novine«, br. 154/11., 121/12., 7/13., 61/15., 99/16., 57/17., 87/19., 88/20. i 68/24.), u skladu sa zaključcima i drugim aktima Vlade Republike Hrvatske (u daljnjem tekstu: Vlada) te po uputama predsjednika, potpredsjednika i glavnog tajnika Vlade (u daljnjem tekstu: glavni tajnik).
