@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), a u vezi s člankom 36. stavka 2. Zakona o instrumentima politike boljih propisa (»Narodne novine«, broj 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2025. donijela
