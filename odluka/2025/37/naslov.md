@@ -1,0 +1,1 @@
+Odluka o donošenju dopuna strukovnog kurikuluma za stjecanje strukovne kvalifikacije medicinska sestra opće njege/medicinski tehničar opće njege (241004) u obrazovnom sektoru Zdravstvo i socijalna skrb
