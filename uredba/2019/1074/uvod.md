@@ -1,1 +1,0 @@
-Na temelju članka 27. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11, 119/14, 93/16 i 116/18) i članka 63. stavka 2. Zakona o sustavu državne uprave (»Narodne novine«, br. 150/11, 12/13 - Odluka Ustavnog suda Republike Hrvatske, 93/16 i 104/16), Vlada Republike Hrvatske je na sjednici održanoj 30. svibnja 2019. godine donijela
