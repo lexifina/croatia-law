@@ -1,0 +1,13 @@
+# Članak 3.
+Za državna tijela, ako aktima navedenih nije drugačije određeno, u Uredu se obavljaju sljedeći poslovi:
+a) pravni poslovi, poslovi upravljanja ljudskim potencijalima, poslovi u svezi radno-pravnog statusa državnih službenika i namještenika, poslovi vođenja osobnog očevidnika i registra državnih službenika i namještenika te poslovi uredskog poslovanja
+b) poslovi koordiniranja financijskog planiranja, pripreme, kontrole i izvršenja proračuna
+c) financijsko-računovodstveni poslovi, poslovi rukovanja imovinom te vođenje analitičko knjigovodstvenih evidencija i odgovarajućih očevidnika
+d) poslovi svih vrsta javne nabave, poslovi skladištenja i distribucije uredskog pribora, potrošnog materijala i hrane te poslovi voznog parka
+e) poslovi sudjelovanja u izgradnji, implementaciji i tehničkom održavanju telekomunikacijskog sustava te davanje podrške u obavljanju poslova vezanih za informacijski i komunikacijski sustav
+f) stručno-tehnički poslovi, poslovi tekućeg i investicijskog održavanja poslovnih zgrada te drugih objekata i uredskih prostora o kojima skrbi Ured, poslovi pružanja ugostiteljskih usluga u internim restoranima, caffe barovima i čajnim kuhinjama Hrvatskoga sabora, Vlade Republike Hrvatske i Ureda; poslovi održavanja i čišćenja poslovnog i drugog prostora te poslovi održavanja zelenila.
+Za potrebe Hrvatskoga sabora, Ured obavlja poslove iz stavka 1. ovoga članka iz točaka b), c), d), f) i dio poslova iz točke e), a koji se odnose na poslove sudjelovanja u izgradnji, implementaciji i tehničkog održavanja telekomunikacijskog sustava.
+Za potrebe Vlade Republike Hrvatske i Ureda predsjednika Vlade Republike Hrvatske, Ured obavlja poslove iz stavka 1. ovoga članka: dio poslova iz točke a) koji se odnose na uredsko poslovanje, a vezano za arhivu i vanjsku dostavu, poslove iz točaka b), c), d) i f) te dio poslova iz točke e), a koji se odnose na poslove sudjelovanja u izgradnji, implementaciji i tehničkog održavanja telekomunikacijskog sustava.
+Za potrebe Ureda zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava, Ured obavlja sve poslove iz stavka 1. ovoga članka, izuzev poslova iz točke a) u dijelu uredskog poslovanja koji se odnose na urudžbiranje.
+Za potrebe Ureda za odnose s javnošću, Ured obavlja sve poslove iz stavka 1. ovoga članka, izuzev poslova iz točke a) i dijela poslova iz točke e) koji se odnose na podršku u obavljanju poslova vezanih za informacijski sustav.
+Za potrebe Ureda predsjednice Republike Hrvatske po prestanku obnašanja dužnosti te ostalih ureda i stručnih službi Vlade Republike Hrvatske, Ured obavlja sve poslove iz stavka 1. ovoga članka.

@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2025. donijela
