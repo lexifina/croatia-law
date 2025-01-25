@@ -1,0 +1,3 @@
+## V. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 11.
+Predstojnik Ureda donijet će Pravilnik o unutarnjem redu Ureda u roku od 60 dana od dana stupanja na snagu ove Uredbe.
