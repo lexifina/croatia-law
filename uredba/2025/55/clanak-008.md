@@ -1,0 +1,2 @@
+# Članak 8.
+U Službi za informiranje građana obavljaju se poslovi u vezi s komunikacijom Vlade i Vladinih politika s građanima, što podrazumijeva: zaprimanje podnesaka građana i odgovaranje na upite u suradnji s nadležnim tijelima državne uprave; poslovi vezani uz provedbu zakona kojim se uređuje pravo na pristup informacijama; koordinaciju rada u vezi s njegovom provedbom u vladinim uredima i službama; rješavanje pojedinačnih zahtjeva za pristup informacijama i ponovne uporabe informacija.
