@@ -1,3 +1,0 @@
-# Članak 24.
-U Službi za zajedničke i tehničke poslove obavljaju se stručni i tehnički poslovi koji se odnose na opremanje prostorija sredstvima za rad u kojima su smješteni službenici Ministarstva; poslovi vezani s provedbom zakonskih i podzakonskih propisa iz područja zaštite na radu, protupožarne zaštite i zaštite okoliša; suradnje s inspekcijama nadležnim za zaštitu na radu Državnog inspektorata i drugim ovlaštenim pravnim osobama koje se bave zaštitom na radu i zaštitom okoliša; poslove kontrole čišćenja poslovnih prostora Ministarstva; poslove kontrole higijenskog održavanja radnih prostorija i opreme; izrađuje planove obrane i evakuacije, te izrade analiza i izvješća iz područja rada Službe i drugi poslovi u okviru djelokruga Službe.
-4.2.2. Služba za opće poslove

@@ -1,3 +1,0 @@
-# Članak 11.
-Odjel za žalbe iz područja komunalnog gospodarstva i stanovanja rješava upravne stvari po žalbama iz područja komunalnog gospodarstva, prava na obnovu, prava na stambeno zbrinjavanje i stanovanje te statusnih prava izbjeglica, prognanika i povratnika po posebnim propisima; Provodi postupak po izvanrednim pravnim lijekovima, priprema, izrađuje prijedloge odgovora na predstavke stranaka; daje mišljenja i objašnjenja u pogledu provedbe zakona i drugih propisa iz područja rješavanja upravne stvari; priprema odgovore na podneske upravnih sudova, Državnog odvjetništva Republike Hrvatske, drugih tijela državne vlasti i prvostupanjskih tijela u vezi s drugostupanjskim postupanjem. Odjel obavlja i druge poslove iz svoga djelokruga.
-3.5. Služba za zastupanje

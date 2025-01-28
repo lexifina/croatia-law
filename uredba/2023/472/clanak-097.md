@@ -1,3 +1,0 @@
-# Članak 97.
-Odjel za organiziranu obnovu višestambenih i stambeno-poslovnih zgrada evidentira i obrađuje pristigle zahtjeve koji se odnose na obnovu za višestambene, stambeno-poslovne i poslovne zgrade; donosi odluke temeljem pristiglih zahtjeva; odlučuje o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; prati utrošak financijskih sredstava i izvršenje ugovorenih rokova; obavlja i druge poslove i radnje sukladno posebnim propisima koji uređuju obnovu nakon potresa te obavlja druge poslove iz svoga djelokruga.
-6.4.1.3. Odjel za organiziranu obnovu poslovnih zgrada

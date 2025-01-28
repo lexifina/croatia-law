@@ -1,3 +1,0 @@
-# Članak 30.
-Odjel pismohrane preuzima dovršene spise (predmete) pripremljene za pismohranu u skladu s propisima o uredskom poslovanju; organizira korištenje, obradu, izlučivanje pismena i drugih dokumenata; vodi evidenciju o registraturo građi; brine se za cjelovitost i sređenost cjelokupne registrature i arhivske građe; nadzire rad i preuzima arhivsku građu dislociranih službenika; surađuje s Hrvatskim državnim arhivom na sređivanju i predaji gradiva nadležnom arhivu sukladno posebnim propisima o arhivskoj djelatnosti, te obavlja i druge poslove iz svoga djelokruga.
-4.3. Sektor za informatiku i telekomunikacije

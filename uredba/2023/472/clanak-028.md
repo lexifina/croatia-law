@@ -1,6 +1,0 @@
-# Članak 28.
-Služba za uredsko poslovanje obavlja poslove primanja i pregleda pismena i drugih dokumenata, njihovog razvrstavanja i raspoređivanja, upisivanja u odgovarajuće evidencije (očevidnike), dostave u rad, otpremanja, razvođenja te njihova čuvanja u pismohrani; vodi evidenciju pečata i žigova Ministarstva; vrši prikupljanje, evidentiranje, obradu, pohranu, korištenje, odabiranje, odnosno izlučivanje arhivskoga i registraturo gradiva Ministarstva; izrađuje prijedloge internih akata Ministarstva iz područja uredskog poslovanja, iz područja zaštite i čuvanja arhivskog i registraturo gradiva i iz područja upotrebe pečata i žigova; izrađuje potvrde i uvjerenja o činjenicama o kojima vodi službenu evidenciju te propisane izvještaje o spisima i pismenima Ministarstva; brine o pravilnosti i jedinstvenosti postupanja u cjelokupnom, konvencionalnom i elektroničkom, dokumentacijskom procesu Ministarstva; surađuje s drugim tijelima državne uprave i pravnim osobama s javnim ovlastima, a posebno s ministarstvom nadležnim za opću upravu u području uredskog poslovanja; Hrvatskim državnim arhivom u području zaštite i čuvanja arhivskog i registraturo gradiva i pružateljem poštanskih usluga, te obavlja i druge poslove u okviru svoga djelokruga.
-U Službi za uredsko poslovanje ustrojavaju se:
-4.2.3.1. Odjel pisarnice
-4.2.3.2. Odjel pismohrane.
-4.2.3.1. Odjel pisarnice
