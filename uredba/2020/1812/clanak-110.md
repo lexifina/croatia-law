@@ -1,3 +1,0 @@
-# Članak 110.
-Služba za strateško planiranje obavlja upravne i stručne poslove koji se odnose na obavljanje i koordinaciju strateškog planiranja propisanih Zakonom o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske; obavlja poslove koordinatora za strateško planiranje za Ministarstvo, surađuje s Koordinacijskim tijelom i odgovorna je za pravodobni unos podataka o aktima strateškog planiranja te podnošenje izvješća sukladno Zakonu o sustavu strateškog planiranja i upravljanja razvojem Republike Hrvatske te obavlja i druge poslove iz svoga djelokruga.
-10.3. Sektor za materijalne poslove

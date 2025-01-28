@@ -1,3 +1,0 @@
-# Članak 80.
-Služba za kripto-komunikaciju i diplomatsku poštu obavlja poslove distribucije, kontrole i nadzora diplomatskih pošiljki; poslove upravljanja i operativnog rada sustava za kripto-komunikaciju Ministarstvu i DM/KU; zaprima političku dokumentaciju za distribuciju kroz IKOS sustav i po potrebi usklađuje tehničke i druge parametre sukladno utvrđenim standardima; osigurava rad 24/7 telekomunikacijsko operativnog centra i osigurava 24 satnu komunikaciju Ministarstva s DM/KU i ostalim tijelima državne uprave; ima funkciju Kontrolne točke za prijem EU klasificiranih podataka izvan redovnog radnog vremena; te obavlja i druge poslove iz svog djelokruga.
-8.1.4. Služba za fizičku i tehničku zaštitu

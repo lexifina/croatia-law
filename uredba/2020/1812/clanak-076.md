@@ -1,7 +1,0 @@
-## 8. VII. UPRAVA ZA INFORMACIJSKU SIGURNOST
-# Članak 76.
-(1) VII. Uprava za informacijsku sigurnost obavlja poslove planiranja i nadzora provedbe mjera i standarda informacijske sigurnosti; koordinira i provodi postupke vezane uz izdavanje, pohranu i povlačenje certifikata za pristup klasificiranim podacima djelatnika službe vanjskih poslova; unutar Ministarstva koordinira zakonom propisane postupke sigurnosnih provjera kandidata za prijam u službu vanjskih poslova; koordinira postupke vezane uz standarde sigurnosti poslovne suradnje; obavlja poslove distribucije i zaštite nacionalnih, EU i NATO klasificiranih podataka; poslove distribucije diplomatske pošte; poslove neprekidnog 24-satnog funkcioniranja komunikacijskog centra Ministarstva; provodi mjere fizičke i tehničke zaštite u objektima Ministarstva i DM/KU; obavlja poslove iz područja informatike i telekomunikacija, uključujući i sustave kripto komunikacije; prati razvoj modernih tehnologija na području informatike, telekomunikacija i sustava tehničke zaštite; u obavljanju poslova iz svoje nadležnosti, surađuje s ostalim organizacijskim jedinicama Ministarstva, drugim državnim tijelima, službama i institucijama i međunarodnim partnerima (EU i NATO).
-(2) U VII. Upravi za informacijsku sigurnost ustrojavaju se:
-8.1. Sektor za informacijsku sigurnost
-8.2. Sektor za informatiku i telekomunikacije.
-8.1. Sektor za informacijsku sigurnost

@@ -1,9 +1,0 @@
-## VII. POSEBNI POLOŽAJI U MINISTARSTVU
-# Članak 141.
-(1) U Ministarstvu se ustrojavaju posebni položaji - radna mjesta:
-1. Glavni pravni savjetnik
-2. Glasnogovornik
-3. Savjetnik ministra.
-(2) Glavni pravni savjetnik za potrebe ministra i državnih tajnika daje pravna mišljenja o općim i posebnim pitanjima međunarodnog javnog i privatnog prava, kao i mišljenja o drugim pravnim pitanjima s međunarodnim aspektom od značaja za službu vanjskih poslova Republike Hrvatske te sudjeluje u međudržavnim pregovorima, te obavlja i druge poslove po nalogu ministra.
-(3) Glasnogovornik po nalogu ministra te uz potporu Samostalnog sektora za javnu i kulturnu diplomaciju, informiranje i odnose s javnošću, izvještava domaću i inozemnu javnost i predstavnike medija o glavnim vanjskopolitičkim prioritetima Republike Hrvatske i vanjskopolitičkim događanjima važnima za Republiku Hrvatsku; izvješćuje javnost, diplomatski zbor akreditiran u Republici Hrvatskoj i tijela državne uprave o stavovima Ministarstva i ministra; izvještavanje vrši putem briefinga, izdavanjem priopćenja, javnim istupima u medijima i drugim vidovima komunikacije, izvještava javnost sa službenih putovanja ministra i o drugim aktivnostima iz djelokruga Ministarstva; u dogovoru s ministrom daje mišljenje i suglasnost za javne nastupe i medijske izjave dužnosnika, diplomata i drugih državnih službenika i namještenika za teme koje su u vezi s djelovanjem Ministarstva i iz domene vanjske politike Republike Hrvatske; koordinira suradnju Ministarstva sa svim institucijama i udrugama vezanim uz medije; informira ministra o medijskoj zastupljenosti vezanoj uz djelokrug rada Ministarstva i predlaže moguća rješenja - reagiranja, nastupe ministra, državnih tajnika i drugih, te obavlja i druge poslove po nalogu ministra.
-(4) Savjetnik ministra daje stručna mišljenja za potrebe ministra i državnih tajnika, sudjeluje u pregovorima po odluci ministra, te obavlja i druge poslove po nalogu ministra.
