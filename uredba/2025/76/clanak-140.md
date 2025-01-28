@@ -1,0 +1,3 @@
+# Članak 140.
+Odjel za organizirano uklanjanje i dodjelu novčane pomoći za uklanjanje obavlja poslove koji se odnose na obradu zahtjeva za uklanjanje, zahtjeva za novčanu pomoć za uklanjanje; odlučuje o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; donosi rješenja temeljem pristiglih zahtjeva; dostavlja rješenja u ustrojstvenu jedinicu za isplatu i za provedbu obnove; obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom te druge poslove iz svoga djelokruga.
+11.1.3.2. Odjel za dodjelu novčane pomoći za uklanjanje i gradnju zamjenske obiteljske kuće

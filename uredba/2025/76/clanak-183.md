@@ -1,0 +1,6 @@
+# Članak 183.
+Služba za novčanu pomoć za nekonstrukcijsku obnovu obavlja poslove koji se odnose na evidentiranje i obradu zahtjeva za isplatu novčane pomoći za nekonstrukcijsku obnovu zgrada oštećenih potresom; izrada rješenja o novčanoj pomoći; obavlja poslove koji se odnose na izradu rješenja o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; praćenje i kontrola izvršenja rješenja o nekonstrukcijskoj obnovi; vodi internu evidencije i izrađuje analize iz djelokruga rada na poslovima provedbe obnove zgrada oštećenih potresom; dostavljanje rješenja u ustrojstvenu jedinicu za isplatu novčane pomoći; analiza i praćenje isplaćenih novčanih pomoći; uspostavlja odgovarajuće sustave kontrole postupaka obnove koje provodi sukladno svom djelokrugu radi prevencije i sprečavanja zlouporaba u provođenju postupaka obnove, obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom te druge poslove iz svoga djelokruga..
+U Službi za novčanu pomoć za nekonstrukcijsku obnovu ustrojavaju se:
+12.4.3.1. Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu obiteljskih kuća
+12.4.3.2. Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu višestambenih, stambeno-poslovnih i poslovnih zgrada.
+12.4.3.1. Odjel za dodjelu novčane pomoći za nekonstrukcijsku obnovu obiteljskih kuća

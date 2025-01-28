@@ -1,0 +1,4 @@
+# Članak 25.
+Odjel pismohrane preuzima dovršene spise (predmete) pripremljene za pismohranu u skladu s propisima o uredskom poslovanju; organizira korištenje, obradu, izlučivanje pismena i drugih dokumenata; vodi evidenciju o registraturnoj građi; brine se za cjelovitost i sređenost cjelokupne registraturne i arhivske građe; nadzire rad i preuzima arhivsku građu dislociranih službenika; surađuje s Hrvatskim državnim arhivom na sređivanju i predaji gradiva nadležnom arhivu sukladno posebnim propisima o arhivskoj djelatnosti, te obavlja i druge poslove iz svoga djelokruga.
+Poslovi Odjela iz stavka 1. ovoga članka obavljaju se na više lokacija.
+4.4. Sektor za informatiku i telekomunikacije

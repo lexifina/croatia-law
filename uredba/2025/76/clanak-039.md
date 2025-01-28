@@ -1,0 +1,3 @@
+# Članak 39.
+Odjel za izvršavanje proračuna i izvještavanje ispostavlja zahtjeve za plaćanje unosom podataka iz naloga za plaćanje i dostavljene dokumentacije u sustav Državne riznice; prati uplate i vrši povrate sredstava po posebnim propisima; surađuje s Ministarstvom financija i Financijskom agencijom vezano za uplate, ovrhe, otvaranje dobavljača u sustavu, modele plaćanja kroz sustav državne riznice; obavlja poslove praćenja pripreme i provedbe pomoći Europske unije. Obavlja administrativne poslove u vezi s izvršavanjem državnog proračuna, sastavlja, analizira i podnosi izvješća o trošenju proračunskih sredstava sukladno namjeni i planiranoj dinamici, te obavlja i druge poslove u okviru svoga djelokruga.
+5.1.2. Služba za isplate sudionika u građevinarstvu

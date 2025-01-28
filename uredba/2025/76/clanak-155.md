@@ -1,0 +1,3 @@
+# Članak 155.
+Odjel za trajno stambeno zbrinjavanje evidentira i obrađuje pristigle zahtjeve koji se odnose na trajno stambeno zbrinjavanje osoba pogođenih potresom; rješava po pristiglim zahtjevima; surađuje s jedinicama lokalne i područne (regionalne) samouprave pri provedbi rješenja o stambenom zbrinjavanju; surađuje s Agencijom za pravni promet i posredovanje nekretninama u odnosu na nekretnine u vlasništvu Republike Hrvatske pri provedbi rješenja o stambenom zbrinjavanju; prikuplja, obrađuje i analizira podatke o potrebi stambenog zbrinjavanja; obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom te druge poslove iz svoga djelokruga.
+11.3.1.2. Odjel za zamjenu prava vlasništva umjesto obnove

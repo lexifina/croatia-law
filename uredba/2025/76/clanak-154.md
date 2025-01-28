@@ -1,0 +1,6 @@
+# Članak 154.
+Služba za trajno stambeno zbrinjavanje i zamjenu prava vlasništva umjesto obnove evidentira i obrađuje pristigle zahtjeve koji se odnose na trajno zbrinjavanje osoba pogođenih potresom i prijedloge koji se odnose na zamjenu prava vlasništva umjesto obnove ili gradnje; rješava po pristiglim zahtjevima; donosi odluke o pravu na zamjenu prava vlasništva po podnesenim prijedlozima; odlučuje o zahtjevima i prijedlozima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; surađuje s jedinicama lokalne i područne (regionalne) samouprave pri provedbi rješenja o stambenom zbrinjavanju; surađuje s Agencijom za pravni promet i posredovanje nekretninama u odnosu na nekretnine u vlasništvu Republike Hrvatske pri provedbi rješenja o stambenom zbrinjavanju i odluka o zamjeni prava vlasništva; prikuplja, obrađuje i analizira podatke o potrebi stambenog zbrinjavanja; obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; te druge poslove iz svoga djelokruga.
+U Službi za trajno stambeno zbrinjavanje i zamjenu prava vlasništva umjesto obnove ustrojavaju se:
+11.3.1.1. Odjel za trajno stambeno zbrinjavanje
+11.3.1.2. Odjel za zamjenu prava vlasništva umjesto obnove.
+11.3.1.1. Odjel za trajno stambeno zbrinjavanje

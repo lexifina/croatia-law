@@ -1,0 +1,6 @@
+# Članak 46.
+Služba za likvidaturu i plaćanje računa zaprima sve ulazne račune u Ministarstvu bilo da su zaprimljeni elektronskim putem ili poštom; koordinira obradu i dostavu knjigovodstvene dokumentacije područnih službi vezano za upravljanje stambenim jedinicama u vlasništvu Republike Hrvatske temeljem prava korisnika na stambeno zbrinjavanje po osnovi žrtava nasilja u obitelji, žrtava potresa, osoba s odobrenom međunarodnom zaštitom te ostali korisnici koji ostvaruju pravo na stambeno zbrinjavanje temeljem zakonskih propisa; vrši formalnu i suštinsku kontrolu zaprimljenih računa; vrši likvidaturu i knjigovodstvenu obradu zaprimljenih računa te dostavlja zaprimljene račune na plaćanje; izrađuje knjigovodstvene obrednice i vrši prijenos knjiženih računa na plaćanje prema državnoj riznici; rješava zaprimljene opomene dobavljača te usklađuje salda konti dobavljača; izdaje i usklađuje izvatke otvorenih stavaka, rješava zaprimljene reklamacije od klijenata, te obavlja i druge poslove iz svoga djelokruga.
+U Službi za likvidaturu i plaćanje računa ustrojavaju se:
+5.2.2.1. Odjel za formalnu i suštinsku kontrolu računa
+5.2.2.2. Odjel za likvidaturu i salda konti.
+5.2.2.1. Odjel za formalnu i suštinsku kontrolu računa

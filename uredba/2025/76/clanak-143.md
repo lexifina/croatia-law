@@ -1,0 +1,3 @@
+# Članak 143.
+Služba za koordinaciju operativnih aktivnosti koordinira radom izdvojenih ureda i organizira rad službenika, izrađuje interne evidencije, analize i planove s ciljem utvrđivanja činjeničnog stanja i prikupljanja podataka, a u svrhu izvršenja operativnih aktivnosti unutar Službe, operativno surađuje s drugim državnim tijelima; surađuje s tijelima državne uprave, jedinicama lokalne i područne (regionalne) samouprave i drugim pravnim osobama na pitanjima iz djelokruga Sektora; obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom; pruža stručnu pomoć te obavlja i druge poslove iz svoga djelokruga.
+11.2. Sektor za obnovu i dodjelu novčane pomoći zgrada oštećenih potresom

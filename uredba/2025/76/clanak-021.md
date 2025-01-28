@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel za vozni park obavlja poslove koji se odnose na korištenje i održavanje voznog parka Ministarstva, organizaciju prijevoza dužnosnika i državnih službenika Ministarstva, poslove interne i vanjske dostave; poslove kontrole prijevoza službenim vozilima i pravilne uporabe vozila; poslove osiguravanja parkirnog prostora za službena vozila Ministarstva, poslove vođenja propisanih evidencija o korištenju i održavanju službenih vozila, te izradu analiza i izvješća iz područja rada Odjela te obavlja i druge poslove u okviru svoga djelokruga.
+4.3.1.2. Odjel za opće poslove i održavanje nekretnina

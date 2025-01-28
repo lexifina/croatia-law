@@ -1,0 +1,3 @@
+# Članak 141.
+Odjel za dodjelu novčane pomoći za uklanjanje i gradnju zamjenske obiteljske kuće obavlja poslove koji se odnose na obradu zahtjeva za dodjelu novčane pomoć za uklanjanje te gradnju i opremanje zamjenske obiteljske kuće; odlučuje o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom, donosi rješenja temeljem pristiglih zahtjeva; dostavlja rješenja u ustrojstvenu jedinicu za isplatu i provedbu obnove; obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom, te druge poslove iz svoga djelokruga.
+11.1.3.3. Odjel za gradnju zamjenske obiteljske kuće

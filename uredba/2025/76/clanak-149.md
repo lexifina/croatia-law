@@ -1,0 +1,3 @@
+# Članak 149.
+Služba za gradnju potresom uništenih zgrada na području katastrofe evidentira i obrađuje pristigle zahtjeve za gradnju potresom uništenih zgrada na području katastrofe koji se odnose na višestambene i stambeno-poslovne zgrade; odlučuje o zahtjevima u skladu s propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom, donosi rješenja temeljem pristiglih zahtjeva; dostavlja rješenja u ustrojstvenu jedinicu za provedbu obnove; obavlja i druge poslove sukladno propisima koji uređuju obnovu zgrada oštećenih ili uništenih potresom te druge poslove iz svoga djelokruga.
+11.2.3. Služba za zastupanje i državne potpore

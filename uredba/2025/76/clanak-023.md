@@ -1,0 +1,6 @@
+# Članak 23.
+Služba za uredsko poslovanje obavlja poslove primanja i pregleda pismena i drugih dokumenata, njihovog razvrstavanja i raspoređivanja, upisivanja u odgovarajuće evidencije (očevidnike), dostave u rad, otpremanja, razvođenja te njihova čuvanja u pismohrani, vrši prikupljanje, evidentiranje, obradu, pohranu, korištenje, odabiranje, odnosno izlučivanje arhivskoga i registraturnog gradiva Ministarstva; izrađuje prijedloge internih akata Ministarstva iz područja uredskog poslovanja, iz područja zaštite i čuvanja arhivskog i registraturnog gradiva; izrađuje potvrde i uvjerenja o činjenicama o kojima vodi službenu evidenciju te propisane izvještaje o spisima i pismenima Ministarstva; brine o pravilnosti i jedinstvenosti postupanja u cjelokupnom, konvencionalnom i elektroničkom, dokumentacijskom procesu Ministarstva; surađuje s drugim tijelima državne uprave i pravnim osobama s javnim ovlastima, a posebno s ministarstvom nadležnim za opću upravu u području uredskog poslovanja; Hrvatskim državnim arhivom u području zaštite i čuvanja arhivskog i registraturnog gradiva i pružateljem poštanskih usluga, obavlja poslove telefonske centrale, te obavlja i druge poslove u okviru svoga djelokruga i nadležnosti Ministarstva.
+U Službi za uredsko poslovanje ustrojavaju se:
+4.3.2.1. Odjel pisarnice
+4.3.2.2. Odjel pismohrane.
+4.3.2.1. Odjel pisarnice

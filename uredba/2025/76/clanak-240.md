@@ -1,0 +1,3 @@
+# Članak 240.
+Područni odjel Rijeka, sa sjedištem u Rijeci, obavlja očevide nekretnina, prikuplja dokumentaciju, priprema akte i ugovore, vrši prijenos brojila na druge korisnike u slučaju prijenosa upravljanja nekretnine na drugo tijelo te provjerava i izrađuje pojedinačne ugovore sa dobavljačima režijskih troškova te obavlja druge poslove za potrebe Uprave na području Istarske županije, Primorsko-goranske županije i Ličko-senjske županije, provodi postupke vezane uz evidentiranje nekretnina u IRN-u, unosi i mijenja podatke o nekretninama u IRN-u, sudjeluje u razvoju IRN-a te surađuje zajedno sa drugim ustrojstvenim jedinicama Ministarstva u obavljanju poslova iz svoga djelokruga, te obavlja i druge poslove iz svoga djelokruga.
+15.1.1.2. Područni odjel Split
