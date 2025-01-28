@@ -1,9 +1,0 @@
-# Članak 73.
-(1) Sektor za razvoj i upravljanje ljudskim potencijalima obavlja stručne i upravne poslove vezane za razvoj i upravljanje ljudskim potencijalima, upravljanje djelatnim vojnim osobama, državnim službenicima i namještenicima potrebnim za popunu Oružanih snaga i ustrojstvenih jedinica Ministarstva, predlaganje, razradu i osiguravanje provedbe temeljnih načela sustava upravljanja osobljem, razradu organizacijsko-metodoloških postupaka u planiranju razvoja upravljanja osobljem, izradu planova prijma i izdvajanja osoblja i praćenje njihova ostvarenja. Sektor svoj rad planira, organizira i provodi kroz funkcije personalnog životnog ciklusa (ustroj, popuna i izobrazba, distribucija, uporaba i profesionalni razvoj). Nadležan je za razvoj obrazovnog sustava Oružanih snaga. Sektor osigurava provedbu poslova iz područja obrane, nadzire vođenje propisane evidencije i poslove ratne popune i mobilizacije pričuvnog sastava za potrebe Oružanih snaga. Planira, programira i prati izvršenje financijskog plana iz svojega djelokruga rada, nadzire provedbu materijalno-financijskog poslovanja iz svoje nadležnosti. Sektor je nadležan za obavljanje poslova u vezi s poduzimanjem pravnih radnji radi zaštite interesa Republike Hrvatske, priprema očitovanja i dokumentaciju Državnom odvjetništvu Republike Hrvatske odnosno nadležnim državnim odvjetništvima, kao zakonskom zastupniku Republike Hrvatske za zastupanje u radnim sporovima i suradnje u poslovima pri sklapanju nagodbi za djelatnike Ministarstva i pripadnike Oružnih snaga.
-(2) U Sektoru za razvoj i upravljanje ljudskim potencijalima ustrojavaju se:
-9.1.1. Služba za djelatno vojno osoblje
-9.1.2. Služba za izobrazbu
-9.1.3. Služba za državne službenike i namještenike
-9.1.4. Služba za radne sporove
-9.1.5. Služba za poslove obrane.
-9.1.1. Služba za djelatno vojno osoblje
