@@ -1,0 +1,2 @@
+# Članak 19.
+Prilog I. Koeficijenti polazne osnovice složenosti poslova prema diplomatskim, vojnodiplomatskim i ostalim zvanjima, koji je sastavni dio Uredbe o mjerilima za plaće i drugim materijalnim pravima diplomatskih osoba Ministarstva obrane, vojnodiplomatskih osoba i osoba upućenih na rad u međunarodne organizacije (»Narodne novine«, broj 125/17.), zamjenjuje se novim Prilogom I. Koeficijenti polazne osnovice složenosti poslova prema diplomatskim, vojnodiplomatskim i ostalim zvanjima koji se nalazi u prilogu ove Uredbe i njezin je sastavni dio.

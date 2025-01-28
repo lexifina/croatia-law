@@ -1,0 +1,4 @@
+# Članak 1.
+U Uredbi o mjerilima za plaće i drugim materijalnim pravima diplomatskih osoba Ministarstva obrane, vojnodiplomatskih osoba i osoba upućenih na rad u međunarodne organizacije (»Narodne novine«, broj 125/17.) u članku 4. stavku 2. podstavku 1. riječi: »devizne vrijednosti koeficijenta s koeficijentom troškova života u državi primateljici (Prilog II.)« zamjenjuju se riječima: »vrijednosti koeficijenta za plaću u predstavništvu u inozemstvu s koeficijentom troškova života u državi primateljici (Prilog II.)«.
+U podstavku 2. riječi: »devizne vrijednosti koeficijenta s postotkom kategorije važnosti predstavništva u inozemstvu (Prilog III.)« zamjenjuju se riječima: »vrijednosti koeficijenta za plaću u predstavništvu u inozemstvu s postotkom kategorije važnosti predstavništva u inozemstvu (Prilog III.)«.
+Stavak 4. briše se.
