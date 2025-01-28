@@ -1,0 +1,3 @@
+# Članak 54.
+Odjel za potporu pruža potporu područnim odjelima za poslove obrane, obavlja stručne i upravne poslove vezane uz usklađivanje rada područnih odjela za poslove obrane. Obavlja poslove logističkog zbrinjavanja (uredski, informatički i drugi materijal te osiguranje i održavanje informatičke i birotehničke opreme), vodi evidenciju i ažurira podatke o poslovnim prostorima kojima se koriste područni odjeli za poslove obrane, obavlja personalne poslove, poslove vezane uz opće akte poslovanja te materijalno-financijske poslove i druge poslove iz svojeg djelokruga.
+4.1.4.3. Područni odjeli za poslove obrane

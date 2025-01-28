@@ -1,0 +1,3 @@
+# Članak 21.
+Odjel za obrambene analize obavlja stručne i upravne poslove izrade sigurnosnih i obrambenih analiza za potrebe Ministarstva u području obrambene politike i planiranja, međunarodne sigurnosti, civilno-vojnih odnosa te obrambene i vojne strategije. Izrađuje analize javnih politika Republike Hrvatske s aspekta obrane i nacionalne sigurnosti, sigurnosne i obrambene analize te predlaže rješenja na području upravljanja resursima, organizacije i funkcioniranja obrambenih aktivnosti od interesa za Ministarstvo i Oružane snage. Prati razvojne trendove na području obrambenih i strateških analiza u drugim državama, razvija analitiku i metode iz područja obrambene politike te obavlja druge poslove iz svojega djelokruga.
+3.1.1.3. Odjel za sukcesiju vojne imovine

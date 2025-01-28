@@ -1,0 +1,3 @@
+# Članak 133.
+Odjel usluga i potpore podupire ustrojstvene jedinice Ministarstva u dijelu uredskog i informatičkog materijala, materijala za protokolarne potrebe, vjerske aktivnosti, sitnog inventara te osigurava nesmetanu distribuciju energenata (električne energije, komunalne usluge, usluge čišćenja, plin, lož-ulje, goriva i maziva). Osigurava uslugu smještaja i prehrane za potrebe Ministarstva i Oružanih snaga. Nadležan je za obavljanje poslova servisiranja opreme, stacionarnih elektroagregata, rendgenske opreme, dozimetrije i uredske opreme u ustrojstvenim jedinicama Ministarstva te održavanje motornih vozila prometnog servisa i objekata Sektora. Obrađuje dokumente propisane za zatvaranje ugovornih odnosa.
+7.3.1.2. Odjel materijalnog zbrinjavanja

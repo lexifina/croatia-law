@@ -1,0 +1,6 @@
+# Članak 61.
+(1) Služba za potporu i kvalitetu življenja razvija program kvalitete življenja djelatnika Ministarstva i pripadnika Oružanih snaga; obavlja stručne i upravne poslove vezane uz povećanje razine kvalitete življenja, planira, organizira, usklađuje, provodi i nadzire program kvalitete življenja djelatnika Ministarstva i pripadnika Oružanih snaga u skladu s misijama i zadaćama Oružanih snaga u Republici Hrvatskoj i inozemstvu. Izrađuje smjernice, planove i programe iz područja stambene politike, izrađuje smjernice, planove i programe iz kinezioloških djelatnosti, surađuje sa sportskim organizacijama u Republici Hrvatskoj i inozemstvu. Upravlja i koordinira aktivnosti tranzicije i zbrinjavanja osoblja Ministarstva i Oružanih snaga; razvija aktivnosti obilježavanja završetka službe u Ministarstvu i Oružanim snagama, planira i organizira proces normativnog uređenja područja tranzicije i zbrinjavanja osoblja Ministarstva i Oružanih snaga; koordinira proces unutarnje promidžbe Programa tranzicije i zbrinjavanja. Obavlja upravne i stručne poslove u postupku dodjele odlikovanja, vojnih medalja, pohvala i nagrada.
+(2) Za obavljanje poslova Službe za potporu i kvalitetu življenja ustrojavaju se:
+4.2.2.1. Odjel za tranziciju i osobnike
+4.2.2.2. Odjel za personalnu potporu i kvalitetu življenja.
+4.2.2.1. Odjel za tranziciju i osobnike

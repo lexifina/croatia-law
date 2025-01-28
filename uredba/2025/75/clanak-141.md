@@ -1,0 +1,6 @@
+# Članak 141.
+(1) Sektor inspekcije obrane provodi inspekcijski nadzor radi utvrđivanja zakonitosti postupanja u primjeni propisa u upravljanju obrambenim sustavom i u području obrane, obučenosti za združene i multinacionalne oblike vojnog sudjelovanja u međunarodnim operacijama i aktivnostima u kojima sudjeluju Oružane snage, obučenosti grana Oružanih snaga, uporabe i stanja zapovjedno-informacijsko-komunikacijskih sustava, primjeni propisa koji reguliraju ocjenjivanje spremnosti stožera, zapovjedništava i postrojbi Oružanih snaga, u implementaciji Ciljeva sposobnosti, primjeni usvojenih hrvatskih vojnih normi i ratificiranih NATO dokumenata, u primjeni propisa u području civilno-vojne suradnje (CIMIC) te izrađuje i podnosi zapisnike, prijedloge mjera i preporuke za uklanjanje nedostataka. Nadzire provedbu dokumenata iz područja obrambene politike i planiranja, međunarodne obrambene suradnje i sigurnosti, civilnih nositelja obrambenih priprema, planova zaštite vojnih lokacija i građevina posebno važnih za obranu, dužnosti i prava državljana Republike Hrvatske u obrani te civilno-vojno krizno upravljanje i mjera odgovora na krize.
+(2) U Sektoru inspekcije obrane ustrojavaju se:
+8.2.1. Služba za inspekciju obrane i obrambenih sposobnosti
+8.2.2. Služba za inspekciju obrane i obrambenih priprema.
+8.2.1. Služba za inspekciju obrane i obrambenih sposobnosti

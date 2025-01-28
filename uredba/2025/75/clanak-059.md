@@ -1,0 +1,3 @@
+# Članak 59.
+Odjel za raščlambe i simulacije prati i raščlanjuje personalnu spremnost te sudjeluje u izradi i raščlanjuje planove i programe upravljanja ljudskim potencijalima. Na temelju podataka iz informacijskog sustava personalnog upravljanja i drugih izvora izrađuje statističke, tehničke i dubinske analize te simulacije kao podloge za donošenje odluka. Upravlja razvojem i održavanjem MIS-a (izvještajni sustav menadžment). Obrađuje podatke te izrađuje standardna i izvanredna izvješća. Obrađuje popise djelatnika za ostvarivanje materijalnih prava iz Kolektivnog ugovora za državne službenike i namještenike.
+4.2.1.3. Odjel za planiranje i financijsku potporu

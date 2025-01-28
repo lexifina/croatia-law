@@ -1,0 +1,4 @@
+# Članak 140.
+(1) Ured glavnog inspektora obrane obavlja poslova stručne i administrativne podrške glavnom inspektoru obrane te za obavljanje poslova koji se odnose stručne i administrativne poslove, prati propise i planove tijela važnih za područje obrane. Prati i analizira temeljne dokumente u području obrane, projekte važne za razvoj Oružanih snaga. Planira bilateralnu suradnju, koordinira rad Inspektorata obrane s ostalim ustrojstvenim jedinicama Ministarstva obrane, Glavnim stožerom i drugim tijelima. Izrađuje raščlambe i analize iz područja rada Inspektorata obrane. Sudjeluje u izradi izvješća, planira i provodi potporu provedbe nadzora te obavlja druge poslove iz svojeg djelokruga.
+(2) Ured glavnog inspektora obrane ustrojava se uz odgovarajuću primjenu odredbi o ustrojavanju odjela.
+8.2. Sektor inspekcije obrane

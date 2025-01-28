@@ -1,0 +1,10 @@
+## III. USTROJSTVO I DJELOKRUG UPRAVNIH ORGANIZACIJA I USTROJSTVENIH JEDINICA
+## 1. KABINET MINISTRA
+# Članak 3.
+(1) Kabinet ministra obavlja stručne, organizacijske i administrativne poslove za ministra obrane (u daljnjem tekstu ministar), pri čemu se brine o dostavljanju materijala za potrebe Hrvatskoga sabora, Predsjednika Republike Hrvatske i Vlade Republike Hrvatske, surađuje s drugim državnim tijelima, pribavlja materijale od ustrojstvenih jedinica Ministarstva, u skladu s odlukama i nalozima ministra poduzima mjere za osiguranje učinkovitosti u radu. Koordinira međunarodne aktivnosti s drugim državnim tijelima i usklađuje rad i surađuje s Glavnim stožerom. Kabinet ministra u suradnji s drugim ustrojstvenim jedinicama obavlja poslove vezane uz predstavke i pritužbe građana. Koordinira s Glavnim stožerom aktivnosti koje Oružane snage pružaju kao pomoć državnim tijelima, lokalnoj zajednici i institucijama civilnog društva. Obavlja poslove vezane za planiranje, usmjeravanje, nadzor i provedbu komunikacijske strategije Ministarstva. Planira, usmjerava i vodi strategiju promidžbe Ministarstva i Oružanih snaga. Pripreme informativne i promidžbene materijale te tiskana i elektronička izdanja. Izrađuje i održava internetske stranice Ministarstva i obavlja nadzor sadržaja te ujednačenosti vizualnih rješenja nad ostalim internetskim stranicama Ministarstva i Oružanih snaga. Uređuje, koordinira i održava komunikacijske kanale na društvenim mrežama. Obavlja stručne i organizacijske poslove civilnog i vojnog protokola i ceremonijala za potrebe ministra, državnih tajnika, načelnika Glavnog stožera i generala/admirala u Republici Hrvatskoj i inozemstvu. Kabinet ministra obavlja i druge poslove iz svojega djelokruga.
+(2) U Kabinetu ministra ustrojava se:
+1.1. Služba za organizaciju stručnih poslova
+1.2. Služba za strateško komuniciranje i digitalne medije
+1.3. Služba za protokol.
+(3) Kabinet ministra ustrojava se uz odgovarajuću primjenu odredbi o ustrojavanju sektora.
+1.1. Služba za organizaciju stručnih poslova

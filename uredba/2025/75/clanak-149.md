@@ -1,0 +1,3 @@
+# Članak 149.
+Služba za nabavu tehničkih roba i usluga za Hrvatsko ratno zrakoplovstvo i Hrvatsku ratnu mornaricu obavlja stručne i upravne poslove koji se odnose na nabavu materijalnih sredstava roba, usluga i radova za potrebe Ministarstva i Oružanih snaga na domaćem i međunarodnom tržištu iz područja tehničke struke za Hrvatsko ratno zrakoplovstvo i Hrvatsku ratnu mornaricu. Služba razvija i predlaže smjernice, načela i postupke javne nabave u skladu s potrebama korisnika i zahtjevima tehničkih nositelja, prati ponudu i potražnju za robama i uslugama iz svoje nadležnosti na tržištu te podatke o tome daje nadležnim ustrojstvenim jedinicama Ministarstva i Oružanih snaga.
+9.3. Služba za nabavu tehničkih roba i usluga za Hrvatsku kopnenu vojsku i prometnu struku

@@ -1,0 +1,3 @@
+# Članak 127.
+Odjel potpore u infrastrukturi obavlja administrativne i druge poslove u potpori Sektora za infrastrukturu, poslove materijalnog zbrinjavanja i evidencije materijalnih sredstava na uporabi u Sektoru, organizira i vodi evidenciju građevinske, geodetske i druge arhive Sektora te upravlja skladištem, arhivom i trezorom originala geoprostornih proizvoda. Odjel koordinira aktivnosti planiranja i programiranja, izrade planova nabave u svojem djelokrugu, obrade financijsko-računovodstvene dokumentacije te obavlja druge poslove iz svojega djelokruga.
+7.2. Sektor za stambene poslove i postupke

@@ -1,0 +1,2 @@
+# Članak 138.
+Odjel prometnog servisa planira, organizira i provodi poslove vezane za prijevoz djelatnika Ministarstva i stranih delegacija, protokolarna prevoženja. Sudjeluje u prijevozu delegacija na državnoj razini. Vodi materijalnu evidenciju prometnih sredstava na uporabi, evidencije uporabe motornih vozila, vozača i ostale evidencije materijalnih sredstava vezane za funkcioniranje prometnog servisa.

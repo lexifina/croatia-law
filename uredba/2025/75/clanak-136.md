@@ -1,0 +1,6 @@
+# Članak 136.
+(1) Služba prometne potpore planira i osigurava najam operativnih i financijskih prometnih sredstava civilnog programa za opremanje Ministarstva i Oružanih snaga. Vodi evidenciju registriranih motornih vozila i obavlja poslove prve registracije (vojne i civilne) te odjavu registriranih vozila. Izrađuje analizu sigurnosti cestovnog prometa i predlaže mjere za poboljšanje sigurnosti te obavlja poslove likvidacije šteta od autoodgovornosti. Pruža usluge prijevoza zaposlenika Ministarstva i stranih delegacija te sudjeluje u prijevozu delegacija na državnoj razini. Služba putem tehničkih nositelja Ministarstva vrši narudžbu i distribuciju cestovnih, željezničkih i zrakoplovnih karata vezano za transport ljudi i opreme te ekspresnu distribuciju pošiljaka kao i selidbene usluge u Republici Hrvatskoj i inozemstvu. Obavlja upravne i stručne poslove vezano za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz propisivanje funkcioniranja prometa i prijevoznih procesa. Sudjeluje u donošenju propisa u suradnji s ostalim tijelima te izrađuje propise iz svojega djelokruga.
+(2) U Službi prometne potpore ustrojavaju se:
+7.3.2.1. Odjel prometa i tehnike
+7.3.2.2. Odjel prometnog servisa.
+7.3.2.1. Odjel prometa i tehnike

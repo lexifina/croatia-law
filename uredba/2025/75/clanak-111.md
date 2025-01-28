@@ -1,0 +1,9 @@
+# Članak 111.
+(1) Služba za operativne financijske poslove obavlja stručne i upravne poslove vezane uz provedbu zakonske, formalne i računske kontrole financijskih i materijalnih isprava, evidentiranje i knjiženje u glavnu i pomoćne knjige. Vodi glavnu blagajnu te putem pomoćnih blagajni organizira blagajničko poslovanje za glavu Ministarstva i Oružane snage. U suradnji s ustrojstvenim jedinicama glave Ministarstva i Oružanih snaga poduzima mjere za naplatu potraživanja, prati stanje i kretanje materijalnih i financijskih pokazatelja, izvršenje proračuna po mjestu, vremenu i vrsti rashoda. Sudjeluje u pripremi odluka i planova za usklađenje stanja između pomoćnih knjiga i evidencija imovine te odluka i planova za provedbu popisa imovine i obveza. Usklađuje stanje iz pomoćnih knjiga imovine sa stanjem u materijalnim evidencijama, osigurava podatke i sudjeluje u provedbi popisa imovine i obveza, obavlja pripremu i unos sastavnica za obračun plaća i naknada. Prati i primjenjuje propise iz područja financija. Sudjeluje u izradi propisa iz svoje nadležnosti te uputa kojima se uređuju postupci, nadležnosti i odgovornosti iz područja financija u Ministarstvu i Oružanim snagama. Provodi financijsku obradu sudskih podnesaka i tužbenih zahtjeva, zahtjeva za otpis duga ili obročnu otplatu duga. Sudjeluje u projektima unapređenja poslovanja te obavlja i druge poslove iz svojega djelokruga.
+(2) Za obavljanje poslova Službe za operativne financijske poslove ustrojavaju se područne jedinice:
+6.2.3.1. Područni operativni odjel za financije Zagreb
+6.2.3.2. Područni operativni odjel za financije Karlovac
+6.2.3.3. Područni operativni odjel za financije Osijek
+6.2.3.4. Područni operativni odjel za financije Split
+6.2.3.5. Odjel za financijsku obradu podnesaka.
+6.2.3.1. Područni operativni odjel za financije Zagreb

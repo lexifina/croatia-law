@@ -1,0 +1,4 @@
+# Članak 12.
+Služba za opće i tehničke poslove obavlja koordinaciju općih i tehničkih poslova koji se odnosi na prijevoz za službene potrebe za ustrojstvene jedinice Ministarstva definirane posebnom odlukom, obradu putnih naloga za službeno putovanje za potrebe Kabineta ministra, Glavnog tajništva i čelnika upravnih organizacija Ministarstva, obavlja poslove pružanja informatičke potpore za ustrojstvene jedinice Ministarstva definirane posebnom odlukom za sjednice radnih tijela Vlade i drugih državnih tijela, pri održavanju on line sastanaka, video prezentacija, obavlja poslove koordinacije u provedbi pružanja usluga trgovačkog društva Pleter-usluge d.o.o., predlaže mjere za ujednačavanje i standardiziranje procesa rada iz svojega djelokruga te obavlja i druge poslove iz svojega djelokruga.
+2.2. Sektor za parnične i upravne postupke
+i upravne sporove

@@ -1,0 +1,3 @@
+# Članak 159.
+Odjel za nadzor rada i zakonitost postupanja obavlja stručne poslove u području vojnopolicijskih poslova. Stručno nadzire provedbu vojnopolicijskih poslova i primjenu vojnopolicijskih ovlasti. Nadzire zakonitost i etičnost postupanja vojne policije. Sudjeluje u predlaganju mjera koje se odnose na zakonitost u postupanju i primjeni vojnopolicijskih ovlasti. Sudjeluje u usvajanju vojnih normi iz područja vojnopolicijskih poslova i zadaća. Pruža stručnu i pravnu pomoć u obavljanju vojnopolicijskih poslova. Priprema nacrte prijedloga zakona i provedbenih propisa te sporazuma koji se odnose na rad vojne policije. Izrađuje dokumente iz područja djelokruga rada vojne policije. Obavlja i druge poslove iz svojega djelokruga.
+10.2.3. Odjel za osiguranje i zaštitu

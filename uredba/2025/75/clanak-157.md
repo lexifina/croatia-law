@@ -1,0 +1,7 @@
+# Članak 157.
+(1) Služba za analitiku i uporabu vojne policije obavlja stručne poslove u području vojnopolicijskih poslova. Prikuplja, procjenjuje, obrađuje i koristi osobne i službene podatke u vezi s istraživanjem kaznenih djela, prekršaja, kršenja vojne stege i povrede službene dužnosti. Vodi baze podataka i usklađuje te analitički obrađuje podatke i informacije za obavljanje vojnopolicijskih poslova. Koordinira rad u provođenju vojnopolicijskih poslova iz područja osiguranja i zaštite osoba, objekata i prostora Ministarstva i Oružanih snaga. Priprema i predlaže propise iz nadležnosti i od značaja za vojnu policiju, sudjeluje u predlaganju mjera koje se odnose na zakonitost u postupanju i primjeni vojnopolicijskih ovlasti. Vodi i nadzire vođenje propisanih evidencija u području vojnopolicijskih poslova. Izrađuje izvješća o radu i Rezultatima provedbe vojnopolicijskih poslova te izvještava nadležne osobe. Provodi nadzor obavljanja vojnopolicijskih poslova, zakonitosti postupanja i primjene vojnopolicijskih ovlasti u Ministarstvu i Oružanim snagama, ispituje pritužbe i predstavke na rad vojne policije. Obavlja poslove međunarodne suradnje iz djelokruga rada vojne policije. Obavlja i druge poslove iz svojega djelokruga.
+(2) U Službi za analitiku i uporabu vojne policije ustrojavaju se:
+10.2.1. Odjel za vojnopolicijske evidencije i analitiku
+10.2.2. Odjel za nadzor rada i zakonitost postupanja
+10.2.3. Odjel za osiguranje i zaštitu.
+10.2.1. Odjel za vojnopolicijske evidencije i analitiku

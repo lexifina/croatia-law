@@ -1,0 +1,6 @@
+# Članak 24.
+(1) Služba za obrambeno planiranje obavlja stručne i upravne poslove usmjeravanja i koordinacije poslovnih procesa obrambenog planiranja u Ministarstvu. Izrađuje prijedlog propisa kojima se definiraju područje i procesi obrambenog planiranja u Ministarstvu i Oružanim snagama, radi na njihovom stalnom unaprjeđivanju i usklađivanju s procesima i obvezama koje proizlaze iz članstva u NATO-u i Europskoj uniji. Koordinira i vodi procese izrade temeljnih, strateških i planskih dokumenata na području obrane i s njima povezanih strateških analiza i izvješća. Izrađuje smjernice obrambenog planiranja, sudjeluje u kreiranju smjernica za sustav planiranja proračuna i programiranja te prati njegovu usklađenost sa strateškim planskim dokumentima. Usmjerava razvoj obrambenih sposobnosti Republike Hrvatske o čemu daje prijedloge i mišljenja. Sudjeluje u aktivnostima usmjerenim na doprinos razvoju obrambenih sposobnosti NATO-a i Europske unije. Pruža potporu i surađuje s predstavnicima Ministarstva u stalnim predstavništvima Republike Hrvatske pri NATO-u i Europskoj uniji na pitanjima iz područja obrambenog planiranja.
+(2) U Službi za obrambeno planiranje ustrojavaju se:
+3.1.2.1. Odjel za obrambeno planiranje i planske dokumente
+3.1.2.2. Odjel za vrednovanje i izvješćivanje.
+3.1.2.1. Odjel za obrambeno planiranje i planske dokumente

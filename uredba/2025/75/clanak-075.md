@@ -1,0 +1,3 @@
+# Članak 75.
+Odjel za ubojna i radiološko-biološko-kemijska sredstava obavlja stručne i upravne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti opskrbe svim vrstama ubojnih sredstava i djelatnosti razvoja, opremanja i modernizacije radiološki-biološko-kemijskih sredstava za potrebe Oružanih snaga. Odjel usklađuje prijedloge opskrbe i opremanja te provodi opskrbu i opremanje Ministarstva i Oružanih snaga, organizira razvoj, modernizaciju i usvajanje materijalnih sredstava te prati iz svojega djelokruga razvojne i proizvodne mogućnosti domaćega i inozemnoga gospodarstva.
+5.1.2.2. Odjel za taborsku opremu i opremu vojnika

@@ -1,0 +1,10 @@
+## 9. SAMOSTALNI SEKTOR ZA JAVNU NABAVU
+# Članak 147.
+(1) Samostalni sektor za javnu nabavu obavlja stručne i upravne poslove vezane za nabavu materijalnih sredstava roba, usluga i radova u Republici Hrvatskoj i inozemstvu na temelju zahtjeva tehničkih nositelja te ugovaranje prodaje neperspektivnih sredstava vojne i nevojne opreme, materijala, kao i ugovaranje potpore koju Ministarstvo i Oružane snage pružaju pravnim i fizičkim osobama. Samostalni sektor obavlja stručne i upravne poslove, predlaže smjernice te provodi politiku javne nabave u Ministarstvu i Oružanim snagama, upravlja procesima javne nabave te planira i predlaže izobrazbu za stjecanje i obnavljanje certifikata u području javne nabave, planira i provodi postupke nabave u području naoružanja i vojne opreme, tehnike, prometa, informatike, prehrane, zdravstva, opskrbe, intelektualnih usluga, promidžbe, građevinskog materijala i usluga održavanja, infrastrukture, komunalnih usluga i zaštite okoliša, ustupanja radova za izgradnju i održavanje vojnih lokacija, kao i nabavu drugih materijalnih sredstava, roba i usluga, ustupanja radova koje tehnički nositelj iskaže kao potrebu kroz zahtjeve za nabavu. Provodi postupke ugovaranja najma i zakupa prostora za potrebe Ministarstva i Oružanih snaga, ugovara prodaju neperspektivnih sredstava vojne i nevojne opreme, i materijala, kao i ugovaranje potpore koju Ministarstvo i Oružane snage pružaju pravnim i fizičkim osobama, obavlja poslove ugovaranja za operacije potpore miru, vježbama te aktivnostima potpore države domaćina, sudjeluje u postupku javne nabave i ugovaranja roba i usluga putem programa i međunarodnih sporazuma te obavlja i druge poslove u okviru svojega djelokruga.
+(2) U Samostalnom sektoru za javnu nabavu ustrojavaju se:
+9.1. Služba za planiranje nabave i prodaju
+9.2. Služba za nabavu tehničkih roba i usluga za Hrvatsko ratno zrakoplovstvo i Hrvatsku ratnu mornaricu
+9.3. Služba za nabavu tehničkih roba i usluga za Hrvatsku kopnenu vojsku i prometnu struku
+9.4. Služba za nabavu opskrbnih i informatičkih roba i usluga
+9.5. Služba za nabavu graditeljskih roba, usluga i radova.
+9.1. Služba za planiranje nabave i prodaju

@@ -1,0 +1,3 @@
+# Članak 76.
+Odjel za taborsku opremu i opremu vojnika obavlja stručne i upravne poslove vezane za materijalno zbrinjavanje Ministarstva i Oružanih snaga kroz djelatnosti razvoja, opremanja i modernizacije taborske opreme i opreme vojnika, osim pješačkog naoružanja. Odjel usklađuje prijedloge opremanja, planira i provodi opremanje Ministarstva i Oružanih snaga, organizira razvoj, modernizaciju i usvajanje materijalnih sredstava iz svoje nadležnosti. Nositelj je programa opremanja za sredstva iz svojega djelokruga kojima se opremaju Oružane snage, prati razvojne i proizvodne mogućnosti domaćega i inozemnoga gospodarstva za potrebe obrane.
+5.1.2.3. Odjel za nebojna sredstva i dozvole
