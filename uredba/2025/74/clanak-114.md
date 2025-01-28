@@ -1,0 +1,3 @@
+# Članak 114.
+Odjel za tehničku zaštitu nadležan je za planiranje, projektiranje, izgradnju, održavanje i nadzor nad radom protuprovalnih i sustava video nadzora te svih mehaničkih elemenata namijenjenih tehničkoj zaštiti objekata; prati i primjenjuje domaće i međunarodne standarde, norme i propise iz područja tehničke zaštite; prati razvoj tehnologija u domeni sustava tehničke zaštite; u planiranju i provedbi poslova iz svog djelokruga rada usvaja i prilagođava mjere tehničke i fizičke zaštite sigurnosnim standardima NATO i EU te obavlja i ostale poslove iz svog djelokruga.
+9.2. Sektor za informatiku i telekomunikacije

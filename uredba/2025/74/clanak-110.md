@@ -1,0 +1,5 @@
+# Članak 110.
+(1) Registar EU i NATO dokumenata, kao služba u Sektoru za informacijsku sigurnost, obavlja poslove zaprimanja, evidentiranja, distribucije, pohranjivanja, uništavanja i zaštite EU i NATO klasificiranih podataka u Ministarstvu i DM/KU; obavlja poslove distribucije EU klasificiranih podataka nadležnim tijelima državne uprave u slučaju takve potrebe, sukladno važećim pravnim propisima i sigurnosnim procedurama; Registar je nacionalna središnja točka za obavljanje poslova međunarodne dostave EU klasificiranih podataka iz Republike Hrvatske prema tijelima EU i drugim međunarodnim primateljima; obavlja svakodnevni operativni rad na klasificiranim EU i NATO informacijskim sustavima u Ministarstvu; nadležna je za davanje uputa, obuku i nadzor rada Kontrolnih točaka u DM/KU; obavlja kontrolu postupanja u Kontrolnim točkama; te obavlja i druge poslove iz svoga djelokruga.
+(2) Registar EU i NATO dokumenata ustrojava se uz odgovarajuću primjenu odredaba o ustrojavanju službe.
+9.1.3. Služba za kriptokomunikaciju
+i diplomatsku poštu

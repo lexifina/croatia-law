@@ -1,0 +1,3 @@
+# Članak 141.
+Služba za obavljanje rezultata analiza, potporu i posebne projekte osmišljava modalitete strateškog komuniciranja, podupire rad Službe za primijenjenu analizu geopolitičkih izazova i nastupajućih prijetnji, radi na posebnim projektima, bavi se strateškim komuniciranjem vanjskopolitičke problematike u hrvatskom i međunarodnom javnom prostoru, surađuje s drugim ustrojstvenim jedinicama Ministarstva u izradi i ažuriranju internet stranica i drugih nastupa u medijskom prostoru, osigurava sadržajnu i organizacijsku potporu Dubrovnik Foruma, te obavlja i ostale poslove iz svoga djelokruga.
+11.3. Služba za odnose s javnošću

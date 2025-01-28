@@ -1,0 +1,10 @@
+## 11. SAMOSTALNI SEKTOR ZA VANJSKU I
+## EUROPSKU POLITIKU
+# Članak 139.
+(1) Samostalni sektor za vanjsku i europsku politiku proučava dalekosežne geopolitičke izazove i prijetnje s kojima se Republika Hrvatska suočava kao članica EU-a i NATO-a te ih javno objavljuje, provodi redoviti rad na stručnim projektima vanjske i europske politike čije rezultate također javno prezentira, sve sa ciljem da se za hrvatsku i međunarodnu zainteresiranu javnost stvori dostupna stručna ekspertiza koja pridonosi informiranju i raspravi o vanjskoj politici općenito te ponudi javno dostupnu stručnu podlogu za donošenje političkih odluka na području vanjske i europske politike. Samostalni sektor u svojim radovima detektira međunarodne prijetnje u nastajanju, posebno one hibridnog karaktera, koje se manifestiraju kroz elemente hibridnog ratovanja, te ih svojim javno dostupnim pojašnjenjima i kontraargumentima nastoji ograničiti, sukladno smjernicama iz EU Zajedničkog okvira suzbijanja hibridnih prijetnji; nudi činjenično utemeljene odgovore na goruća pitanja suvremenih međunarodnih odnosa i radi na podizanju javne svijesti o hibridnim prijetnjama; razmjenjuje informacije i usko surađuje s drugim državnim tijelima, sveučilištima, širom akademskom zajednicom, privatnim sektorom i vanjskim suradnicima; u suradnji s drugim ustrojstvenim jedinicama Ministarstva daje sadržajnu i organizacijsku potporu Dubrovnik Forumu, krovnoj hrvatskoj konferenciji koja se bavi pitanjima međunarodnih odnosa. Rad Samostalnog sektora oslanja se na: pluralizam ideja i demokratske rasprave, vlastitim procjenama stanja međunarodnog poretka te globalne i regionalne sigurnosti, u interakciji sa stručnom javnošću - svojim radovima podupire razvoj i definiranje hrvatskih i EU - politika.
+(2) U Samostalnom sektoru za vanjsku i europsku politiku ustrojavaju se:
+11.1. Služba za primjenu analiza geopolitičkih izazova i nastupajućih prijetnji
+11.2. Služba za objavljivanje rezultata analiza, potporu i posebne projekte
+11.3. Služba za odnose s javnošću.
+11.1. Služba za primjenu analiza geopolitičkih
+izazova i nastupajućih prijetnji

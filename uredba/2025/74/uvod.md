@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.) i članka 65. Zakona o vanjskim poslovima (»Narodne novine«, br. 48/96., 72/13., 127/13., 39/18. i 98/19.), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2025. donijela

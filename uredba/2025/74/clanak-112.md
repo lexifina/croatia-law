@@ -1,0 +1,6 @@
+# Članak 112.
+(1) Služba za fizičku i tehničku zaštitu, sukladno planovima osiguranja, organizira i nadzire rad djelatnika sigurnosti u Ministarstvu, utvrđuje standarde i nadzire provedbu poslova fizičke zaštite u štićenim objektima DM/KU u inozemstvu; sudjeluje u izradi planova osiguranja objekata Ministarstva i DM/KU u inozemstvu; sukladno planovima osiguranja, organizira i provodi poslove tehničke zaštite štićenih objekata Ministarstva i DM/KU u inozemstvu; u suradnji s nadležnim ustrojstvenim jedinicama Glavnog tajništva koordinira i provodi poslove prilagodbe objekata Ministarstva i DM/KU propisanim mjerama i standardima fizičke i tehničke sigurnosti; u koordinaciji s nadležnim ustrojstvenim jedinicama Glavnog tajništva sudjeluje u izvidima objekata DM/KU u slučajevima izgradnje, preseljenja, otvaranja i zakupa novog prostora; organizira i sudjeluje u obavljanju poslova projektiranja, ugradnje, nadogradnje, održavanja i daljnjeg razvoja sustava tehničke zaštite u Ministarstvu i DM/KU, te obavlja i druge poslove iz svoga djelokruga.
+(2) U Službi za fizičku i tehničku zaštitu ustrojavaju se:
+9.1.4.1. Odjel za fizičku zaštitu
+9.1.4.2. Odjel za tehničku zaštitu.
+9.1.4.1. Odjel za fizičku zaštitu

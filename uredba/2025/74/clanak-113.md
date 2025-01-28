@@ -1,0 +1,3 @@
+# Članak 113.
+Odjel za fizičku zaštitu obavlja poslove unutarnjeg osiguranja Ministarstva i osiguranja objekata DM/KU u inozemstvu; u suradnji s nadležnim tijelima Republike Hrvatske sudjeluje u izradi sigurnosne procjene ugroženosti štićenih objekata službe vanjskih poslova; zadužen je za planiranje, realizaciju, nadzor i analizu provedbe planova osiguranja koji se odnose na aktivnosti fizičkog i tehničkog osiguranja Ministarstva i DM/KU u inozemstvu; koordinira, nadzire, prikuplja i analizira izradu Elaborata štićenja objekata službe vanjskih poslova te obavlja ostale poslove iz svog djelokruga.
+9.1.4.2. Odjel za tehničku zaštitu

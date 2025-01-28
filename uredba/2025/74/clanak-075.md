@@ -1,0 +1,4 @@
+# Članak 75.
+Služba za političke aspekte mjera ograničavanja sudjeluje u horizontalnoj političkoj koordinaciji u postupcima usvajanja mjera ograničavanja i usuglašavanja nacionalnih stajališta po pitanjima vezanim uz mjere ograničavanja, te daje svoj doprinos pripremi radnih materijala iz područja sankcija za sastanke Radne skupine savjetnika za vanjske odnose (RELEX), Političkog i sigurnosnog odbora (PSC) i druge relevantne sastanke, pri čemu surađuje sa Službom za zajedničku vanjsku i sigurnosnu politiku EU; savjetuje geografske i tematske službe u pitanjima sankcija; sudjeluje u utvrđivanju ukupne politike, praćenju i analizi EU i UN-ovih sankcija, u pogledu čega usko surađuje s Upravom za političke poslove i Upravom za gospodarske poslove i razvojnu suradnju.
+5.5.2. Služba za provedbu i
+primjenu mjera ograničavanja

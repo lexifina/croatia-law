@@ -1,0 +1,3 @@
+# Članak 40.
+Služba za poljoprivredu i ribarstvo u suradnji s nadležnim tijelima državne uprave, kao i Stalnim predstavništvom Republike Hrvatske pri EU, u skladu s procedurama propisanima Odlukom o osnivanju Međuresorne radne skupine za europske poslove koordinira pripremu i izradu prijedloga stajališta za rad radnih skupina u okviru COREPER-a I i stajališta za sastanke COREPER-a I u području poljoprivrede i ribarstva, stajališta Republike Hrvatske za sastanke Vijeća za poljoprivredu i ribarstvo (AGRIFISH), u suradnji sa Službom za promet, energetiku i okoliš, koordinira i prati okolišne i klimatske aspekte poljoprivredne politike te obavlja i druge poslove iz svoga djelokruga.
+3.2.2. Služba za unutarnje tržište i socijalne politike

@@ -1,0 +1,4 @@
+## V. PRIJAM U SLUŽBU VANJSKIH POSLOVA BEZ NATJEČAJA
+# Članak 164.
+(1) Za ugovorno diplomatsko i administrativno-tehničko osoblje, uključujući državljane države primateljice, natječaj za prijam u službu vanjskih poslova nije obvezan pod uvjetom da ispunjavaju uvjete za obavljanje određenih poslova, u skladu sa Zakonom o vanjskim poslovima i Pravilnikom o unutarnjem redu Ministarstva.
+(2) Natječaj nije obavezan za prijam u službu vanjskih poslova za pojedine državne službenike na poslovima informacijske sigurnosti, zaštite podataka, kibernetičke sigurnosti, kripto-komunikacije, IT poslova, registra EU i NATO dokumenata koji se obavljaju u Upravi za informacijsku sigurnost pod uvjetom da državni službenici ispunjavaju uvjete za obavljanje navedenih poslova, u skladu s Pravilnikom o unutarnjem redu Ministarstva, uz ispunjenje uvjeta propisanih posebnim propisima.
