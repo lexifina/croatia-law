@@ -1,0 +1,2 @@
+# Članak 1.
+Okvirni broj državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državnog zavoda za intelektualno vlasništvo, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo (»Narodne novine«, broj 97/20.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika potrebnih za obavljanje poslova iz djelokruga Državnog zavoda za intelektualno vlasništvo prikazanim u tablici u prilogu ove Uredbe i njezin je sastavni dio.
