@@ -1,0 +1,2 @@
+# Članak 2.
+Prilog I. Koeficijent polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima Republike Hrvatske u inozemstvu zamjenjuje se novim Prilogom I. Koeficijent polazne osnovice složenosti poslova prema diplomatskim, konzularnim i administrativno-tehničkim zvanjima u predstavništvima Republike Hrvatske u inozemstvu, koji se nalazi u prilogu ove Uredbe i čini njezin sastavni dio.
