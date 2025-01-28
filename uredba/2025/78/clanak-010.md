@@ -1,0 +1,2 @@
+# Članak 10.
+Okvirni broj državnih službenika i namještenika u Državnom zavodu za mjeriteljstvo koji je prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Državnog zavoda za mjeriteljstvo (»Narodne novine«, broj 97/20.) zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Državnom zavodu za mjeriteljstvo, koji je prikazan u tablici u prilogu ove Uredbe i njezin je sastavni dio.

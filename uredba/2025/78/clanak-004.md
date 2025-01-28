@@ -1,0 +1,3 @@
+# Članak 4.
+U članku 16. stavku 1. iza riječi: »izrađuje nacrte prijedloga zakona i drugih propisa iz područja mjeriteljstva« dodaju se riječi: »u skladu sa zakonom kojim se uređuju instrumenti politike boljih propisa«.
+Iza riječi: »izrađuje nacrte prijedloga zakona i prijedloge drugih propisa o tehničkim zahtjevima u pogledu stupnja čistoće predmeta od plemenitih kovina te drugih tehničkih zahtjeva u pogledu izrade predmeta od plemenitih kovina te prijedloge drugih propisa u području predmeta od plemenitih kovina« dodaju se riječi: »u skladu sa zakonom kojim se uređuju instrumenti politike boljih propisa«.
