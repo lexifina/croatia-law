@@ -1,0 +1,4 @@
+# Članak 107.
+Služba za zastupanje pred sudovima obavlja poslove zastupanja Inspektorata u upravnim sporovima u predmetima vezanim za inspekcijske poslove, obavlja poslove zastupanja Inspektorata pred službeničkim sudovima u postupcima po zahtjevu za utvrđivanje povrede službene dužnosti, te prema potrebi pred prekršajnim sudovima u prekršajnim postupcima po optužnom prijedlogu za pokretanje prekršajnog postupka, priprema nacrte rješenja po prigovorima te nacrte zaključaka o izuzeću; poslove unaprjeđenja rada i ujednačavanja postupaka inspektora na izradi optužnih akata u okviru djelokruga Službe, prema potrebi obavlja unutarnje i kontrolno - instruktivne nadzore nad radom inspektora, kao i druge poslove po nalogu nadređenog službenika iz djelokruga Sektora.
+Za obavljanje poslova Službe određuju se samostalni izvršitelji u gradovima: Zagreb, Split, Rijeka i Osijek.
+1.18. Samostalna služba za unutarnju reviziju

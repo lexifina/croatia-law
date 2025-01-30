@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.), a u vezi s člankom 29. Zakona o Državnom inspektoratu (»Narodne novine«, br. 115/18., 117/21., 67/23. i 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 16. siječnja 2025. donijela

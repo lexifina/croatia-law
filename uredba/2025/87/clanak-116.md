@@ -1,0 +1,4 @@
+## Služba turističke inspekcije
+# Članak 116.
+Služba turističke inspekcije obavlja inspekcijske i druge stručne poslove koji se odnose na primjenu i provođenje zakona i drugih propisa u području obavljanja ugostiteljske djelatnosti, pružanja ugostiteljskih usluga, usluga u turizmu u području prijave i odjave turista, obračuna, naplate i uplate turističke pristojbe, obavlja inspekcijske i druge stručne poslove koji se odnose na primjenu i provođenje zakona i drugih propisa u svezi neregistriranog obavljanja ugostiteljske djelatnosti, neregistriranog pružanja ugostiteljskih usluga i usluga u turizmu, prema potrebi obavlja poslove zastupanja u prekršajnim postupcima i u upravnim sporovima te obavlja zajedničke poslove koji se obavljaju u suradnji s drugim inspekcijama i druge poslove u okviru svoga djelokruga.
+2.1.6., 2.2.6., 2.3.6., 2.4.6. i 2.5.6.

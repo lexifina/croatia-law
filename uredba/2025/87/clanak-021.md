@@ -1,0 +1,3 @@
+# Članak 21.
+Pododsjek za evidentiranje osnovnih sredstava ustrojava i vodi knjigovodstvenu evidenciju osnovnih sredstava, sitnog inventara i kancelarijskog materijala, obavlja poslove prijema i raspodjele opreme i materijala vodi materijalnu evidenciju o tome, organizira godišnji popis imovine i usklađuje godišnji popis (inventuru) s knjigovodstvenim stanjem, priprema podatke iz svoga djelokruga za stručne podloge za donošenje poslovnih odluka Inspektorata te obavlja i druge poslove iz svoga djelokruga.
+1.3.2.2.2. Pododsjek likvidature

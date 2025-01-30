@@ -1,0 +1,5 @@
+## Služba poljoprivredne inspekcije
+# Članak 115.
+Služba poljoprivredne inspekcije obavlja inspekcijske i druge stručne poslove i službene kontrole, koji se odnose na primjenu i provođenje zakona i drugih propisa u području poljoprivrede iz nadležnosti poljoprivredne inspekcije kao i inspekcijski nadzor i drugih područja sukladno posebnom zakonu; dostavlja potrebne podatke o provedbi inspekcijskih nadzora središnjem uredu radi dostave u RASFF sustav, obavljaju izravan uvid u ispunjavanje uvjeta i obavljanje djelatnosti nadziranih pravnih i fizičkih osoba, vode prvostupanjske postupke i rješavaju o upravnim stvarima prvog stupnja iz svoga djelokruga; poduzimaju mjere određene zakonima i propisima donesenim na temelju njih; prema potrebi obavlja poslove zastupanja u prekršajnim postupcima i u upravnim sporovima te obavlja zajedničke poslove koji se obavljaju u suradnji s drugim inspekcijama i druge poslove u okviru svoga djelokruga.
+Za obavljanje poslova Službe poljoprivredne inspekcije u Područnom uredu Split određuju se samostalni izvršitelji u Sinju.
+2.1.5., 2.2.5., 2.3.5., 2.4.5. i 2.5.5.

@@ -1,0 +1,3 @@
+# Članak 111.
+Radi učinkovitog i neposrednog obavljanja inspekcijskih i drugih stručnih poslova u područnim uredima Inspektorata sa sjedištem u Osijeku, Rijeci, Splitu, Varaždinu i Zagrebu ustrojavaju se: Služba tržišne inspekcije, Služba sanitarne inspekcije; Služba veterinarske inspekcije; Služba poljoprivredne inspekcije; Služba turističke inspekcije; Služba šumarske i lovne inspekcije; Služba za nadzor zaštite na radu; Služba za nadzor radnih odnosa, zapošljavanja i upućivanja; Služba građevinske inspekcije i Služba inspekcije zaštite okoliša, zaštite prirode i vodopravni nadzor.
+2.1.1., 2.2.1., 2.3.1., 2.4.1. i 2.5.1.
