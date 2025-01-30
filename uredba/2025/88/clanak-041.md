@@ -1,0 +1,10 @@
+## 6. SEKTOR ZA METEOROLOŠKA
+## ISTRAŽIVANJA I RAZVOJ
+# Članak 41.
+Sektor za meteorološka istraživanja i razvoj obavlja poslove koji se odnose na organizaciju, koordinaciju i izvršavanje poslova istraživanja za potrebe računalne prognoze vremena, klimatologije i agrometeorologije. Sektor razvija modele i provodi istraživanja lokalnih i regionalnih atmosferskih procesa za potrebe operativne numeričke analize i prognoze vremena, te integriranog modeliranja meteoroloških, hidroloških i oceanografskih procesa; osigurava rad operativnog prognostičkog sustava za potrebe djelovanja u slučaju prirodnih i civilizacijskih nepogoda; prilagođava rezultate operativnih prognostičkih modela za potrebe države, javnosti te za donošenje odluka u raznim granama gospodarstva (energetika, promet, vodno gospodarstvo, graditeljstvo i dr.) te ih unapređuje metodama strojnog učenja i umjetne inteligencije; prati, analizira i istražuje prostorno-vremenske varijabilnosti klime i klimatskih promjena te ocjenjuje izvanrednosti meteoroloških pojava; razvija primijenjenu klimatologiju, biometeorologiju, agrometeorologiju i hidrometeorologiju; izrađuje ekspertize, studije, elaborate i prikaze iz područja primijenjene meteorologije, klimatologije i agrometeorologije za potrebe planiranja i razvoja gospodarskih i društvenih djelatnosti; izrađuje klimatski i agroklimatski atlas Hrvatske te sudjeluje u izradi nacionalnih izvješća; obavlja poslove međunarodne suradnje iz djelokruga Sektora, surađuje sa znanstveno-nastavnim, državnim i međunarodnim ustanovama iz djelokruga Sektora; sudjeluje u provođenju i primjeni domaćih i međunarodnih projekata, uključivo i projekata financiranih iz strukturnih i investicijskih fondova; obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za meteorološka istraživanja i razvoj ustrojavaju se:
+6.1. Služba za razvoj operativnih prognostičkih modela
+6.2. Služba za primijenjena istraživanja i modeliranje
+6.3. Služba za klimatologiju
+6.4. Služba za agrometeorologiju.
+6.1. Služba za razvoj operativnih prognostičkih modela

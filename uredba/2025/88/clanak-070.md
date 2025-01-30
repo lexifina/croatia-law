@@ -1,0 +1,6 @@
+# Članak 70.
+Služba kemijski laboratorij analizira kemijski sastav (organske i anorganske komponente) pristiglih uzoraka zraka, čestica i oborine, u skladu sa zahtjevima europske i hrvatske zakonske regulative; uvodi nove analitičke metode i postupke kojima se prate kemijski procesi u atmosferi; sudjeluje u izradi izvješća o stanju kvalitete zraka; sudjeluje u međunarodnim programima interkalibracije analitičkih metoda i provjere kvalitete laboratorijskih postupaka i analiza; vodi očevidnik o analiziranim uzorcima, metodama i instrumentima koje koristi u radu, te provodi program osiguranja kvalitete analiza i kvalitete podataka; brine o ispravnom radu postaja, radu i obuci motritelja i pomoćnog osoblja; prikuplja uzorke u mreži postaja Državnog zavoda i Državnoj mreži za trajno praćenje kvalitete zraka; provodi stručnu i tehničku kontrolu uređaja za uzorkovanje zraka i oborine; vodi očevidnike i zapise o obavljenim obilascima, preuzetim uzorcima i zatečenom stanju na postajama, te provedenim intervencijama te iste unosi u metabazu kemijske baze podataka; sudjeluje u domaćim i međunarodnim projektima praćenja kvalitete zraka; obavlja i druge poslove iz svoga djelokruga.
+U Službi kemijski laboratorij ustrojavaju se:
+9.3.1. Odjel anorganski laboratorij
+9.3.2. Odjel organski laboratorij.
+9.3.1. Odjel anorganski laboratorij

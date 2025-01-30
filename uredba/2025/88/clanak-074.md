@@ -1,0 +1,3 @@
+# Članak 74.
+Služba za koordinaciju rada glavnih meteoroloških postaja u kontinentalnoj Hrvatskoj sukladno pravilnicima i naputcima, a u koordinaciji sa Sektorom za meteorološka motrenja, kontrolu kvalitete podataka i usluge, planira i organizira rad glavnih meteoroloških postaja, Glavne agrometeorološke postaje Križevci i Meteorološko-aerološkog opservatorija Zagreb-Maksimir na području Grada Zagreba te glavnih meteoroloških postaja i radarskih centara na području Bjelovarsko-bilogorske, Brodsko-posavske, Karlovačke, Koprivničko-križevačke, Krapinsko-zagorske, Međimurske, Osječko-baranjske, Požeško-slavonske, Sisačko-moslavačke, Varaždinske, Virovitičko-podravske, Vukovarsko-srijemske i Zagrebačke županije.
+10.2. Služba za obranu od tuče

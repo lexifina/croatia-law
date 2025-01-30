@@ -1,0 +1,3 @@
+# Članak 67.
+Odjel za mjerenje kvalitete zraka provodi aktivnosti mjerenja kvalitete zraka na postajama za praćenje kvalitete zraka; provodi mjerenja u skladu s postojećim i priznatim normiranim i nenormiranim metodama te nacionalnim propisima, zakonima i podzakonskim aktima; osigurava prijenos, prikupljanje i validaciju mjernih podataka kemijskog stanja atmosfere; organizira provođenje mjerenja u skladu s važećim propisima; sudjeluje u postupcima javne nabave mjerne opreme; sudjeluje u državnim i međunarodnim programima ispitivanja sposobnosti laboratorija za mjerenja kvalitete zraka; obavlja i druge poslove iz svoga djelokruga.
+9.1.2. Odjel za održavanje infrastrukture

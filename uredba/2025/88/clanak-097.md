@@ -1,0 +1,4 @@
+# Članak 97.
+Odjel za prognostički sustav i podršku korisnicima prati, razvija i primjenjuje nove metode za analizu i obradu podataka prognostičkih modela radi daljnjeg unaprijeđenja prognostičkog sustava; u potpunosti sudjeluje u radu Odjela za vremenske prognoze i upozorenja za Jadran, uključujući operativnu izradu prognoza i upozorenja; prati i nadzire kakvoću pomorskih vremenskih analiza, prognoza i upozorenja, te organizira arhivu izdanih prognoza i upozorenja; dostavlja svoje produkte korisnicima, u stalnom kontaktu sa svojim korisnicima svoje produkte prilagođava njihovim potrebama; sudjeluje u implementaciji i razvoju tehničke i informatičke baze za obavljanje svojih djelatnosti, obavlja i druge poslove iz svoga djelokruga u suradnji s ostalim ustrojstvenim jedinicama Državnog zavoda.
+11.2. Služba za meteorološka i oceanografska
+mjerenja na Jadranu

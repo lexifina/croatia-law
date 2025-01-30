@@ -1,0 +1,3 @@
+# Članak 18.
+Odjel za građevinsku infrastrukturu organizira i provodi nadzor nad izvođenjem radova i nadzor nad izvršavanjem ugovora, ovjerava račune i obračunske situacije izvedenih radova, vodi evidencije te sudjeluje u izradi prijedloga za osiguranje potrebnih sredstava, obavlja procjenu oštećenja objekata, daje prijedloge o prioritetima adaptacije i rekonstrukcije; obavlja poslove planira i osigurava obavljanje poslova izgradnje, adaptacije, rekonstrukcije i investicijskog održavanja objekata Državnog zavoda; daje mišljenja, prijedloge i tehničke izvještaje iz svoga djelokruga; obavlja i druge poslove u okviru svoga djelokruga.
+3.2.2. Odjel za opremu i tehničko održavanje

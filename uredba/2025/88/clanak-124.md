@@ -1,0 +1,2 @@
+# Članak 124.
+Pravilnikom o unutarnjem redu Državnog hidrometeorološkog zavoda utvrdit će se broj potrebnih državnih službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća, stručnih uvjeta potrebnih za njihovo obavljanje, njihove ovlasti i odgovornosti te druga pitanja važna za rad Državnog zavoda koja nisu uređena Uredbom o općim pravilima za unutarnje ustrojstvo tijela državne uprave (»Narodne novine«, broj 70/19.) i ovom Uredbom.

@@ -1,0 +1,7 @@
+# Članak 98.
+Služba za meteorološka i oceanografska mjerenja na Jadranu obavlja poslove Državne mreže meteorološko-oceanografskih mjerenja na plutačama; surađuje s ostalim nacionalnim motriteljskim mrežama na Jadranu, kao i sa sustavima mjerenja i motrenja na brodovima i duž obale. Nacionalno je integracijsko sjedište za mjerenja i motrenja za potrebe pomorske meteorološke službe. Obavlja poslove regionalne koordinacije, suradnje i operativnih aktivnosti nacionalnih meteoroloških službi na Jadranu na zadacima pomorske meteorologije, te podržava aktivnosti Svjetske meteorološke organizacije na području Jadrana. U suradnji s drugim sektorima i službama sudjeluje u integraciji navedenih i ostalih podataka i produkata u informacijske sustave Državnog zavoda i sustave za praćenje sigurnosti na Jadranu; obavlja kontinuirano praćenje podataka podataka, održavanje baze te razmjenu podataka korisnicima iz djelokruga svoga rada; pruža potporu pomorskom prognostičkom sustavu i ostalim servisima pomorske meteorološke službe; izrađuje analize, prati standarde; objavljuje naputke, publikacije i provodi edukaciju te sudjeluje u projektima i programima iz djelokruga svoga rada.
+U Službi za meteorološka i oceanografska mjerenja na Jadranu ustrojavaju se:
+11.2.1. Odjel za uspostavu i održavanje mjeriteljskog sustava
+11.2.2. Odjel za informacijski sustav, standarde i obradu podataka.
+11.2.1. Odjel za uspostavu i održavanje
+mjeriteljskog sustava
