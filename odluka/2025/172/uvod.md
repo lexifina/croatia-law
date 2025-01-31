@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 3. Zakona o zaštiti na radu (»Narodne novine«, br. 71/14., 118/14. - ispravak, 94/18., 96/18. - ispravak), Vlada Republike Hrvatske je na sjednici održanoj 31. siječnja 2025. donijela
