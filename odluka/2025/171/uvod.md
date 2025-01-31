@@ -1,0 +1,1 @@
+Na temelju članka 24. stavaka 1. i 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), a u vezi s Operativnim programom nacionalnih manjina za razdoblje 2024. - 2028., Vlada Republike Hrvatske je na sjednici održanoj 31. siječnja 2025. donijela
