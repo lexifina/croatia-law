@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu (»Narodne novine«, br. 1/19., 1/20., 1/21., 156/22. i 1/24.) u članku 1. iza riječi »visinu paušalnog poreza na dohodak« dodaju se riječi: »prema indeksu turističke razvijenosti sukladno posebnom propisu«, iza riječi »utvrđivanja« briše se zarez, a riječi »stavkom 11.« zamjenjuju se riječima »stavkom 12.«.

@@ -1,0 +1,2 @@
+# Članak 5.
+U članku 5. riječi: »od 99,54 eura prema članku 30. stavku 2. Zakona o izmjenama i dopunama Zakona o porezu na dohodak (»Narodne novine«, broj 106/18)« zamjenjuju se riječima: »prema članku 57. stavku 7. Zakona sukladno kategoriji u koju je jedinica lokalne samouprave razvrstana prema indeksu turističke razvijenosti, utvrđenom za prethodnu godinu, sukladno posebnom propisu o pokazateljima za praćenje razvoja i održivosti turizma.«
