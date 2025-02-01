@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 3., članka 44. stavka 7., članka 74.a stavka 5. Općeg poreznog zakona (»Narodne novine«, br. 115/16, 106/18, 121/19, 32/20, 42/20, 114/22) i članka 29. Zakona o izmjenama i dopunama Općeg poreznog zakona (»Narodne novine«, br. 152/24) ministar financija donosi
