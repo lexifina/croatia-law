@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 4. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18., 125/19., 147/20., 119/22., 156/22., 33/23. i 36/24.), Vlada Republike Hrvatske je na sjednici održanoj 31. siječnja 2025. donijela
