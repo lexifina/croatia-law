@@ -1,0 +1,6 @@
+# Članak 2.
+U članku 39.b iza stavka 8. dodaju se novi stavci 9., 10. i 11. koji glase:
+»(9) Za potrebe primjene stavka 2. ovoga članka i članka 30.b stavka 1. točke 2. Zakona u obzir se ne uzima stalna poslovna jedinica kontroliranog inozemnog društva koja ne podliježe porezu ili je oslobođena od poreza u jurisdikciji kontroliranog inozemnog društva. Porez na dobit koji bi se naplatio u državi članici poreznog obveznika znači porez na dobit izračunan u skladu s pravilima države članice poreznog obveznika.
+(10) Ako subjekt raspodijeli dobit poreznom obvezniku i ako se ta raspodijeljena dobit uključi u oporezivi prihod poreznog obveznika, iznos prihoda prethodno uključen u poreznu osnovicu u skladu s člankom 30.b stavkom 1. Zakona oduzima se od porezne osnovice kod izračuna iznosa porezne obveze za raspodijeljenu dobit, kako bi se osiguralo da nema dvostrukog oporezivanja.
+(11) Ako porezni obveznik ustupi svoj udio u subjektu ili u poslovanju koje obavlja stalna poslovna jedinica i ako je svaki dio nastalih prihoda prethodno uključen u poreznu osnovicu u skladu s člankom 30.b stavkom 1. Zakona taj iznos oduzima se od porezne osnovice kod izračuna iznosa porezne obveze za te prihode kako bi se osiguralo da nema dvostrukog oporezivanja.«.
+Dosadašnji stavak 9. postaje stavak 12.
