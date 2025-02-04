@@ -1,0 +1,3 @@
+# Članak 2.
+Ovom Odlukom u hrvatsko zakonodavstvo preuzima se sljedeći akt Europske unije:
+Direktiva (EU) 2015/2366 Europskog parlamenta i Vijeća od 25. studenoga 2015. o platnim uslugama na unutarnjem tržištu, o izmjeni direktiva 2002/65/EZ, 2009/110/EZ i 2013/36/EU te Uredbe (EU) br. 1093/2010 i o stavljanju izvan snage Direktive 2007/64/EZ (Tekst značajan za EGP) (SL L 337, 23. 12. 2015.) kako je posljednji put izmijenjena Uredbom (EU) 2024/886 Europskog parlamenta i Vijeća od 13. ožujka 2024. o izmjeni uredaba (EU) br. 260/2012 i (EU) 2021/1230 i direktiva 98/26/EZ i (EU) 2015/2366 u pogledu instant kreditnih transfera u eurima (Tekst značajan za EGP) (SL L, 2024/886, 19. 3. 2024.).
