@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Fond može s naknadom ili bez naknade nekretnine stečene od Republike Hrvatske, na temelju ovoga Zakona, davati na korištenje i prenositi vlasništvo na tim nekretninama osnivačima Fonda, kao i drugim sindikatima u skladu s ovim Zakonom i Statutom Fonda te drugim općim aktima Fonda.
+(2) Odluku o prijenosu vlasništva nekretnina iz stavka 1. ovoga članka donosi direktor Fonda, uz prethodnu pisanu suglasnost Upravnog odbora Fonda.
+(3) Prethodna pisana suglasnost Upravnog odbora Fonda uvjet je za svaki prijenos vlasništva na nekretninama s Fonda na pravnu ili fizičku osobu neovisno o tome je li prijenos vlasništva naplatan ili nenaplatan.
+(4) Pravni poslovi i druge isprave sklopljeni ili izdani pravnim i fizičkim osobama u vezi s prijenosom vlasništva na nekretninama iz članka 3. ovoga Zakona koje Fond stječe od Republike Hrvatske na temelju ovoga Zakona, kao i na drugim nekretninama koje Fond stekne u svom poslovanju za koje nije dobivena prethodna pisana suglasnost Upravnog odbora Fonda ništetne su, neovisno o načinu stjecanja.
+(5) Sredstva Fonda mogu se na način i uz uvjete definirane Statutom Fonda isplaćivati osnivačima Fonda i drugim sindikatima za njihove potrebe odlukom direktora Fonda, uz prethodnu pisanu suglasnost Upravnog odbora Fonda.

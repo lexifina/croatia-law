@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Od stupanja na snagu ovoga Zakona nadležni sudovi će, na prijedlog stranke ili po službenoj dužnosti, obustaviti sve sudske postupke pokrenute s ciljem utvrđenja vlasništva nad nekretninama popisanim u prilozima I., II., III. i IV. ovoga Zakona ili iseljenja korisnika iz tih nekretnina ili naplate naknade za korištenje tih nekretnina ako su stranke takvih postupaka s jedne strane Republika Hrvatska, a s druge strane sindikati, sindikalne središnjice ili trgovačka društva kojima su osnivač sindikati.
+(2) U postupcima iz stavka 1. ovoga članka svaka stranka snosi svoje troškove.
