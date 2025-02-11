@@ -1,0 +1,4 @@
+# Članak 13.
+(1) Pri razmjeni podataka koji se odnose na kaznena djela u okviru ciljeva Europola utvrđenih u članku 3. Uredbe 2016/794 Jedinstvena kontaktna točka Republike Hrvatske odnosno domaća nadležna tijela će, prema potrebi, u skladu s člankom 7. stavkom 7. Uredbe 2016/794, presliku zahtjeva odnosno podataka dostaviti Europolu.
+(2) Jedinstvena kontaktna točka Republike Hrvatske odnosno domaća nadležna tijela će u slučaju iz stavka 1. ovoga članka izvijestiti Europol o svrhama obrade te svim mogućim ograničenjima obrade dostavljenih podataka.
+(3) Podaci iz stavka 1. ovoga članka koje je Jedinstvena kontaktna točka Republike Hrvatske odnosno domaće nadležno tijelo pribavilo od druge države članice ili treće zemlje dostavit će se Europolu samo ako je ta država članica ili treća zemlja za to dala suglasnost.

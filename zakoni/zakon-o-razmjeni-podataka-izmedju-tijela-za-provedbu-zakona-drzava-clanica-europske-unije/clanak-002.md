@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim Zakonom u hrvatsko zakonodavstvo preuzima se Direktiva (EU) 2023/977 Europskog parlamenta i Vijeća od 10. svibnja 2023. o razmjeni informacija između tijela za izvršavanje zakonodavstva država članica i o stavljanju izvan snage Okvirne odluke Vijeća 2006/960/PUP (SL L 134, 22. 5. 2023.) i Direktiva (EU) 2023/2123 Europskog parlamenta i Vijeća od 4. listopada 2023. o izmjeni Odluke Vijeća 2005/671/PUP u pogledu njezina usklađivanja s pravilima Unije o zaštiti osobnih podataka (SL L 2023/2123, 11. 10. 2023.).

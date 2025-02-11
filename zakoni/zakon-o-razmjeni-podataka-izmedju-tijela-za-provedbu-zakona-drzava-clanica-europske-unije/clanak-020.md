@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti odredbe članaka 1. i 2., članka 3. točki 1., 3. i 4., članaka 4. do 8., članka 9. stavaka 1., 3., 4. i 5., članaka 10. do 12., članaka 14. i 15. Zakona o pojednostavljenju razmjene podataka između tijela država članica Europske unije nadležnih za provedbu zakona (»Narodne novine«, br. 56/15.).
+(2) Danom stupanja na nagu ovoga Zakona prestaje važiti Pravilnik o izgledu i sadržaju obrazaca za dostavljanje i razmjenu podataka između tijela država članica Europske unije nadležnih za provedbu zakona (»Narodne novine«, br. 84/15.).
