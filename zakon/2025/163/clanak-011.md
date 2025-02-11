@@ -1,0 +1,2 @@
+# Članak 11.
+Ministar će u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona uskladiti Pravilnik o popisu biljnih vrsta za osnivanje drvenastih kultura kratkih ophodnji te načinu i uvjetima pod kojima se mogu uzgajati (»Narodne novine«, br. 16/19.), Pravilnik o stručnom nadzoru uzgoja drvenastih kultura kratkih ophodnji (»Narodne novine«, br. 111/18., 33/19. i 50/19.) i Pravilnik o Upisniku proizvođača drvenastih kultura kratkih ophodnji (»Narodne novine«, br. 110/18.) s odredbama ovoga Zakona.
