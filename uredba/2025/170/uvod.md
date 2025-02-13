@@ -1,0 +1,1 @@
+Na temelju članka 12. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. - ispravak, 47/99. - ispravak, 35/08., 127/19. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 31. siječnja 2025. donijela
