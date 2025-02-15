@@ -1,0 +1,1 @@
+Odluka o utvrđivanju interesa Republike Hrvatske za proširenje i produbljenje površinskog kopa unutar postojećeg eksploatacijskog polja građevinskog pijeska i šljunka "Prudnica" na k.č.br. 895, k.o. Mali Bukovec
