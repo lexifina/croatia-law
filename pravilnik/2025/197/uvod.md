@@ -1,0 +1,1 @@
+Na temelju članka 149. stavka 2. Zakona o zračnom prometu (»Narodne novine« br. 69/09, 84/11, 54/13, 127/13 i 92/14), te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19 i 155/23) ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra vanjskih i europskih poslova donosi
