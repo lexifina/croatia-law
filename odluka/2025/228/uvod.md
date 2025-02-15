@@ -1,0 +1,1 @@
+Na temelju članka 35. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu (»Narodne novine«, broj 149/24.), Vlada Republike Hrvatske je na sjednici održanoj 13. veljače 2025. donijela

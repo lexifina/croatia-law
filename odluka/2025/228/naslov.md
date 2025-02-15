@@ -1,0 +1,1 @@
+Odluka o dodjeli beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave u 2025. godini zbog nemogućnosti podmirenja dospjelih obveza po pravomoćnim sudskim i upravnim odlukama ili nagodbama
