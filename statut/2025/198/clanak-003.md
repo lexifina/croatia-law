@@ -1,0 +1,5 @@
+# Članak 3.
+1. Znak Hrvatskog Crvenog križa je crveni križ na bijelom polju, koji se koristi u skladu sa Ženevskim konvencijama i njihovim Dopunskim protokolima, Pravilima o upotrebi znaka Crvenog križa ili Crvenog polumjeseca u nacionalnim društvima, Zakonom o Hrvatskom Crvenom križu i drugim propisima te rezolucijama tijela Međunarodnog pokreta Crvenog križa i Crvenog polumjeseca (dalje u tekstu: Međunarodni pokret) o korištenju znaka i naziva crvenog križa, crvenog polumjeseca i crvenog kristala.
+2. Znak i zastava Hrvatskog Crvenog križa uređeni su posebnim propisima.
+3. Pečat Hrvatskog Crvenog križa je okruglog oblika sa znakom crvenog križa u sredini, otisnut crvenom bojom, a uz rubni dio pečata je natpis: Hrvatski Crveni križ - Zagreb - Ul. Crvenog križa 14.
+4. Za potrebe Službe traženja koristi se pečat Nacionalnog ureda Službe traženja koji je okruglog oblika sa znakom crvenog križa u sredini, otisnut crvenom bojom, a uz rubni dio pečata je natpis: Hrvatski Crveni križ, Nacionalni ured Službe traženja - Zagreb - Ul. Crvenog križa 14.

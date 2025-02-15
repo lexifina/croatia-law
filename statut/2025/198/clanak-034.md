@@ -1,0 +1,4 @@
+# Članak 34.
+1. Članovi izabrani u tijela društava Hrvatskog Crvenog križa djelovat će stalno u interesu Hrvatskog Crvenog križa. U slučaju da član tijela društva Hrvatskog Crvenog križa bude izabran na funkciju u tijelu javne vlasti ili političke stranke, osigurat će da njegov rad nije u sukobu interesa s djelovanjem Hrvatskog Crvenog križa.
+2. Ukoliko nije moguće osigurati rad koji nije u sukobu interesa, član tijela iz stavka 1. ovog članka podnijeti će ostavku na funkcije koje obnaša u Hrvatskom Crvenom križu odnosno njegovim ustrojstvenim oblicima.
+3. Osobe na rukovodećim pozicijama dužne su prijaviti sve potencijalne ili stvarne sukobe interesa ili pitanja koja bi se mogla smatrati sukobom interesa. U slučaju potencijalnog ili stvarnog sukoba interesa, osoba na koju se to odnosi mora se suzdržati od raspravljanja i glasovanja o pitanjima koja ga se tiču.

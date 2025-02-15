@@ -1,0 +1,5 @@
+# Članak 48.
+1. Članovi izabrani u tijela Hrvatskog Crvenog križa djelovat će stalno u interesu Hrvatskog Crvenog križa. U slučaju da član tijela Hrvatskog Crvenog križa bude izabran na funkciju u tijelu javne vlasti ili političke stranke, osigurat će da njegov rad nije u sukobu interesa s djelovanjem Hrvatskog Crvenog križa.
+2. Ukoliko nije moguće osigurati rad koji nije u sukobu interesa, član tijela iz stavka 1. ovog članka će podnijeti ostavku na funkcije koje obnaša u Hrvatskom Crvenom križu.
+3. Osobe na rukovodećim pozicijama dužne su prijaviti sve potencijalne ili stvarne sukobe interesa ili pitanja koja bi se mogla smatrati sukobom interesa. U slučaju potencijalnog ili stvarnog sukoba interesa, osoba na koju se to odnosi mora se suzdržavati od raspravljanja i glasovanja o pitanjima koja je se tiču.
+4. Kandidacijski postupak, postupak izbora, etička izjava i druga pitanja vezana za izbor zastupnika i članova u tijela Hrvatskog Crvenog križa i tijela ustrojstvenih oblika Hrvatskog Crvenog križa uređuju se posebnim pravilnikom koji donosi Skupština Hrvatskog Crvenog križa.

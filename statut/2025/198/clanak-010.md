@@ -1,0 +1,5 @@
+# Članak 10.
+1. Hrvatski Crveni križ i njegovi ustrojstveni oblici, u javnom životu Republike Hrvatske, djeluju na osnovi načela solidarnosti i temeljnih načela Međunarodnog pokreta i neovisni su u svojem djelovanju.
+2. Nacionalno društvo Hrvatski Crveni križ surađuje s Vladom Republike Hrvatske i državnim tijelima na poslovima zdravstvene zaštite, socijalne skrbi, odgoja i obrazovanja, obrane, zaštite i spašavanja i dr. u svojstvu povlaštenog partnera na temelju odredbi Statuta Međunarodnog pokreta te preuzetih međunarodnih ugovora, rezolucija i zaključaka Međunarodne konferencije Crvenog križa i Crvenog polumjeseca.
+3. U kriznim situacijama, upravljanje i koordinaciju aktivnosti svih ustrojstvenih oblika Hrvatskog Crvenog križa, vezano za otklanjanje posljedica krizne situacije, obavljaju se sukladno Pravilniku za postupanje u kriznim situacijama.
+4. Hrvatski Crveni križ i njegovi ustrojstveni oblici surađuju s udrugama i institucijama koje promiču i ostvaruju srodne humanitarne ciljeve i programe.
