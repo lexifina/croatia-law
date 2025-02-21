@@ -1,0 +1,1 @@
+Odluka o davanju odobrenja Sveučilištu Sjever i Sveučilištu Josipa Jurja Strossmayera u Osijeku za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Pannon Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću« i odobrenju Konvencije
