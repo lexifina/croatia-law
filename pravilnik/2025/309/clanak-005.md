@@ -1,0 +1,21 @@
+## PRILOV
+# Članak 5.
+(1) Ovlaštenici povlastica u kojima je upisano plovilo na koje je izdano odobrenje za gospodarski ribolov okružujućom mrežom plivaricom - srdelarom smiju uloviti, držati na plovilu do iskrcaja, iskrcavati, prevoziti, skladištiti, prodavati, izlagati ili nuditi na prodaju plavoperajnu tunu ulovljenu kao prilov pri upotrebi okružujuće mreže plivarice srdelare.
+(2) Ovlaštenici povlastica u kojima je upisano plovilo na koje je izdano odobrenje za ribolov igluna plutajućim parangalom u tekućoj godini i koje ujedno udovoljava kriterijima za uvrštavanje plovila u kategoriju malog priobalnog ribolova, sukladno posebnom propisu kojim se propisuju ribolovne mogućnosti i ribolov igluna (Xiphias gladius), smiju uloviti, držati na plovilu do iskrcaja, iskrcavati, prevoziti, skladištiti, prodavati, izlagati ili nuditi na prodaju plavoperajnu tunu ulovljenu kao prilov pri upotrebi plutajućeg parangala.
+(3) Prilov tune iz stavka 1. ovoga članka ne smije biti veći od 10 % mase ukupnog ostvarenog ulova na iskrcaju.
+(4) Ukupni prilov tune u komadima po svakom pojedinom plovilu iz stavka 2. ovoga članka, ne smije biti veći od 20 % od ukupno iskrcanog broja komada igluna i plavoperajne tune pojedinog plovila u kalendarskoj godini.
+(5) Ovlaštenici povlastice iz stavaka 1. i 2. ovoga članka prije iskrcaja prilova plavoperajne tune obvezni su dostaviti putem elektronskog očevidnika Ministarstvu sljedeće podatke:
+a) vanjska oznaka plovila i ime/registarska oznaka plovila
+b) datum i očekivano vrijeme dolaska u luku
+c) luka dolaska i razlog najave
+d) očekivanu količinu tune za iskrcaj, u komadima i kilogramima
+e) geografsko područje gdje je ulov ostvaren.
+(6) Ovlaštenici povlastice za gospodarski ribolov na moru iz stavka 1. ovoga članka iskrcaj prilova plavoperajne tune smiju obavljati na iskrcajnim mjestima sukladno naredbi kojom se određuje popis iskrcajnih mjesta za iskrcaj ulova ostvarenog plivaricom srdelarom.
+(7) Ovlaštenici povlastice iz stavka 2. ovoga članka iskrcaj prilova plavoperajne tune smiju obavljati na iskrcajnim mjestima predviđenim za iskrcaj igluna sukladno naredbi kojom se određuje popis iskrcajnih mjesta za iskrcaj igluna.
+(8) Dozvoljeno je uloviti, držati na plovilu do iskrcaja, iskrcavati, prevoziti, skladištiti, prodavati, izlagati ili nuditi na prodaju cijele primjerke tune iz prilova minimalne veličine od 30 kg ili 115 cm ravne vilične duljine u prezentacijama kako slijedi:
+- cijela, bez odstranjenih ikakvih vanjskih ili unutrašnjih dijelova (prezentacija WHL), ili
+- cijela, očišćena od škrga i utrobe (prezentacija GUG).
+(9) Ovlaštenici povlastice iz stavaka 1. i 2. ovoga članka za iskrcaj prilova plavoperajne tune dužni su ispuniti iskrcajnu deklaraciju koja je sastavni dio očevidnika i ispunjava se sukladno posebnom propisu o dostavi podataka o ulovu u gospodarskom ribolovu na moru.
+(10) Na prilov tune ostvaren plovilima iz stavaka 1. i 2. ovoga članka, odnosno na stavljanje na tržište i promet na tržištu na odgovarajući način se primjenjuju propisi koji uređuju registraciju prvih kupaca proizvoda ribarstva, postupak prve prodaje i vaganja te propisi koji uređuju sljedivost plavoperajne tune od ulova, iskrcaja, prijevoza i skladištenja, prerade i distribucije do maloprodaje te propis koji uređuje program dokumentacije koja prati plavoperajnu tunu na tržištu.
+(11) Ministarstvo će na svojoj mrežnoj stranici https://ribarstvo.mps.hr/ objaviti obavijest o iskorištenju kvote raspoređene za prilov sukladno tablici iz Priloga 1. ovog Pravilnika, nakon čega ovlaštenicima povlastica iz stavaka 1., odnosno 2. ovoga članka nije dozvoljeno izvući na plovilo, držati na plovilu do iskrcaja, iskrcavati, prevoziti, skladištiti, prodavati, izlagati ili nuditi na prodaju plavoperajnu tunu ulovljenu kao prilov i potrebno je osigurati da se slučajno ulovljena tuna pusti živa.
+(12) Na plovila na koja je izdano Odobrenje za ribolov igluna plutajućim parangalom, a na koja je ujedno izdano i Odobrenje za ciljani ribolov tune udičarskim alatima, ne primjenjuju se odredbe o prilovu iz ovoga članka te se njihov iskrcaj i odbačaj plavoperajne tune oduzimaju od individualne kvote za ciljani ribolov plavoperajne tune dodijeljene na plovilo.

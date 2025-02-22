@@ -1,0 +1,5 @@
+## DRŽAVNA KVOTA
+# Članak 3.
+(1) Ovim se Pravilnikom u skladu s Prilogom I.D. Tablicom 12. Uredbe Vijeća (EU) 2025/202 od 30. siječnja 2025. o utvrđivanju ribolovnih mogućnosti za 2025. i 2026. za određene riblje stokove koje se primjenjuju u vodama Unije i, za ribarska plovila Unije, u određenim vodama izvan Unije te o izmjeni Uredbe (EU) 2024/257 u pogledu ribolovnih mogućnosti za 2025. utvrđuje državna kvota za plavoperajnu tunu koja predstavlja ukupnu ulovnu kvotu za ribolov plavoperajne tune.
+(2) Raspodjela državne kvote na kategorije gospodarskog i negospodarskog ribolova te potkategorije istih prikazana je u tablici u Prilogu 1. ovog Pravilnika.
+(3) Ako se ukupna ulovna godišnja kvota iz gospodarskog ribolova za plivarice tunolovke, sportskog ili rekreacijskog ribolova ne iskoristi do kraja njihove ribolovne sezone, ostatak ulovne kvote ili njegov dio Ministarstvo može preraspodijeliti na udičarske alate u gospodarskom ribolovu i/ili na prilov i/ili na ribolov u znanstvene svrhe.
