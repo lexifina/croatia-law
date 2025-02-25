@@ -1,0 +1,3 @@
+# Članak 5.
+Zbog specifičnosti poslova u Uredu, Predsjednik Republike može, za obavljanje savjetodavnih i analitičkih poslova te poslova vezanih uz pripremu programa aktivnosti Predsjednika Republike, imenovati istaknute stručnjake radi obrade jednog ili više stručnih područja iz djelokruga Ureda, bez zasnivanja radnog odnosa, odnosno bez zasnivanja dužnosničkog ili službeničkog statusa u Uredu, u rangu posebnih savjetnika i povjerenika.
+Osobe iz stavka 1. ovoga članka odgovaraju za svoj rad Predsjedniku Republike i predstojniku Ureda, koordiniraju i usklađuju svoj rad s dužnosnicima i službenicima Ureda te mogu ostvarivati i druga prava sukladno Pravilniku o unutarnjem redu Ureda.
