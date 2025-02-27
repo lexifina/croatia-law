@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 2. Zakona o hrani (»Narodne novine«, broj 18/23) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine« br. 66/19 i 155/23), uz prethodnu suglasnost ministra vanjskih i europskih poslova i prethodnu suglasnost ministra poljoprivrede, šumarstva i ribarstva, ministrica zdravstva donosi

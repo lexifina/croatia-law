@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom u hrvatsko zakonodavstvo preuzima Direktiva 2009/32/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o usklađivanju zakonodavstva država članica o ekstrakcijskim otapalima koja se koriste u proizvodnji hrane i sastojaka hrane (Preinaka) (Tekst značajan za EGP) (SL L 141, 6. 6. 2009.) kako je posljednji put izmijenjena Direktivom Komisije (EU) 2023/175 od 26. siječnja 2023. o izmjeni Direktive 2009/32/EZ Europskog parlamenta i Vijeća u pogledu 2-metiloksolana (Tekst značajan za EGP) (SL L 25, 27. 1. 2023.).
