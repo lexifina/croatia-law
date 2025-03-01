@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka 28. Statuta Općine Lovinac (»Glasnik Općine Lovinac«, br. 2/21), na prijedlog Načelnika Općine Lovinac, Općinsko vijeće Općine Lovinac na 31. sjednici održanoj 27. veljače 2025. godine, donijelo je
