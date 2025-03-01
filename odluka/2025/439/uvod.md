@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka 33. Statuta Općine Jelsa (»Službeni glasnik Općine Jelsa« br. 3/21), Općinsko vijeće Općine Jelsa na svojoj XXI. redovnoj sjednici održanoj 20. veljače 2025. godine donosi
