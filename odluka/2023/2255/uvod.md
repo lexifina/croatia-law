@@ -1,1 +1,0 @@
-Na temelju članka 20. i članka 42. Zakona o lokalnim porezima (»Narodne novine« br. 115/16, 101/17, 114/22 i 114/23 - dalje u tekstu Zakon), te članka 26. Statuta Grada Trogira (»Službeni glasnik Grada Trogira« broj 4/13, 9/13, 6/14, 1/18, 3/19, 5/20, 9/21 i 11/23), Gradsko vijeće Grada Trogira na 19. sjednici održanoj 30. studenog 2023. godine donosi
