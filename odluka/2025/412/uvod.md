@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine«, broj 115/16, 101/17, 114/22, 114/23 i 152/24) i članka 30. Statuta Općine Gračišće (»Službene novine Grada Pazina«, broj 11/22), Općinsko vijeće Općine Gračišće, na sjednici održanoj 19. veljače 2025. godine, donijelo je

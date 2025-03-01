@@ -1,0 +1,2 @@
+# Članak 10.
+Obveznik poreza na nekretnine dužan je do 31. ožujka godine za koju se utvrđuje porez poreznom tijelu prijaviti promjenu podataka bitnih za utvrđivanje obveze plaćanja poreza na nekretnine, a osobito promjenu obračunske površine nekretnine odnosno promjenu namjene nekretnine koja utječe na obračun poreza ili dokaze koji utječu na ostvarivanje uvjeta za oslobođenje od plaćanja poreza na nekretnine.
