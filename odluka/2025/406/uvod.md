@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka članka 29. Statuta Grada Vrbovskog »Službene novine Grada Vrbovskog« broj 4/18, 5/18 i 3/21), Gradsko vijeće Grada Vrbovskog na 25. sjednici održanoj 20. veljače 2025. godine donosi
