@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23, 152/24) i članka 30. Statuta Grada Kastva (»Službene novine Primorsko-goranske županije« br. 4/18, 36/18, »Službene novine Grada Kastva« br. 5/20, 3/21), Gradsko vijeće Grada Kastva na 34. sjednici, održanoj 21. veljače 2025. godine, donosi
