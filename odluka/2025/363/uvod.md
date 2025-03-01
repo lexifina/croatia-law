@@ -1,0 +1,1 @@
+Na temelju članka 19.a stavka 1. Zakona o porezu na dohodak (»Narodne novine« 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka 31. Statuta Općine Končanica (»Službeni glasnik Općine Končanica«, broj 1/21), Općinsko vijeće Općine Končanica na svojoj 31. sjednici održanoj 18. veljače 2025. godine donijelo je
