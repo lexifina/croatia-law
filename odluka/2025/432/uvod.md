@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23, 152/24) i članka 34. stavka 1. podstavka 2. Statuta Grada Nova Gradiška - pročišćeni tekst (»Novogradiški glasnik« broj 7/22), Gradsko vijeće Grada Nova Gradiška na 26. sjednici održanoj 25. veljače 2025. donijelo je
