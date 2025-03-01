@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka 32. Statuta Općine Vrbje (»Službeni glasnik Općine Vrbje« br. 3/18 i 2/21), Općinsko vijeće Općine Vrbje na 20. sjednici održanoj 17. veljače 2025. godine, donosi
