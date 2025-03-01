@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22., 114/23. i 152/24.) i članka 33. Statuta Općine Rešetari (»Službeni glasnik Općine Rešetari« broj 1/18., 1/20. i 1/21.), Općinsko vijeće Općine Rešetari na svojoj 36. sjednici održanoj 17. veljače 2025. godine donijelo je
