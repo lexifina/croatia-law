@@ -1,1 +1,0 @@
-Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16., 106/18., 121/19., 32/20., 138/20., 151/22. i 114/23.) i članka 17. Statuta Općine Lupoglav (»Službene novine Grada Pazina« broj 18/09., 3/13., 14/18. i 10/21.), Općinsko vijeće Općine Lupoglav na sjednici održanoj 28. studenoga 2023. godine donosi
