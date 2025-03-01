@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 138/20., 151/22., 114/23. i 152/24.) i članka 32. Statuta Grada Supetra (»Službeni glasnik Grada Supetra«, br. 09/09., 04/13., 03/14., 19/15. i 04/21.), Gradsko vijeće Grada Supetra na svojoj 35. sjednici održanoj 24. veljače 2025. godine donijelo je

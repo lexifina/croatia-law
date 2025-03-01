@@ -1,0 +1,2 @@
+# Članak 3.
+Ova Odluka objavit će se u »Narodnim novinama« i »Službenom glasniku Grada Supetra«, a stupa na snagu 1. ožujka 2025. godine.
