@@ -1,0 +1,2 @@
+# Članak 17.
+Korisnici javne površine kojima je odobreno privremeno korištenje javne površine ne smiju bez posebnog odobrenja nadležnog tijela javnu površinu za koju je odobreno privremeno korištenje dati na korištenje trećim osobama. Korisnicima kojima je odobreno korištenje javne površine temeljem članka 16. ove Odluke javnu površinu ne smiju dati na korištenje trećim osobama za naknadu bilo koje vrste.
