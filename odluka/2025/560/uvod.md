@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 1. i članka 42. Zakona o lokalnim porezima (»Narodne novine« broj 115/16, 101/17, 114/22, 114/23 i 152/24) i članka 29. Statuta Općine Breznički Hum (»Službeni vjesnik Varaždinske županije« broj 45/21), Općinsko vijeće Općine Breznički Hum na sjednici održanoj 27. veljače 2025. godine, donijelo je
