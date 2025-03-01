@@ -1,1 +1,0 @@
-Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114/23) i članka 31. Statuta Općine Maruševec (»Službeni vjesnik Varaždinske županije« broj 17/21), Općinsko vijeće Općine Maruševec na 20. sjednici održanoj 4. prosinca 2023. godine, donijelo je
