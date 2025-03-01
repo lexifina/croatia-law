@@ -1,0 +1,1 @@
+Na temelju članka 35. stavka 6. Zakona o provedbi Uredbe (EU) 2019/1238 o paneuropskom osobnom mirovinskom proizvodu (PEPP) (»Narodne novine« broj 151/2022, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 19. veljače 2025. godine donosi
