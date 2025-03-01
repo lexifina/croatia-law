@@ -1,1 +1,0 @@
-Na temelju čl. 19.a, a u svezi s čl. 19. Zakona o porezu na dohodak (»Narodne novine« br. 115/16, 106/18, 121/19, 32/20, 138/20, 151/22 i 114//23 - u daljnjem tekstu: Zakon) i članaka 40. Statuta Grada Makarske (»Glasnik Grada Makarske« br. 3/21) Gradsko vijeće Grada Makarske na 19. sjednici održanoj 15. prosinca 2023. godine donijelo je
