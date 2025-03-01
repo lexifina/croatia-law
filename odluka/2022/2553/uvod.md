@@ -1,1 +1,0 @@
-Na temelju članka 20. stavka 1. i članka 42. stavka 1. Zakona o lokalnim porezima (»Narodne novine« broj 115/2016, 101/17 i 114/22) i članka 21. Statuta Općine Jalžabet (»Službeni vjesnik Varaždinske županije« broj 31/09, 28/13, 10/15 i 17/21) Općinsko vijeće Općine Jalžabet na sjednici održanoj 20. prosinca 2022. godine donosi
