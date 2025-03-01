@@ -1,0 +1,1 @@
+Na temelju članka 19.a st. 2. t. 2. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23, 152/24) i članka 33. Statuta Grada Donja Stubica (»Službeni glasnik Krapinsko-zagorske županije«, br. 8/21) Gradsko vijeće Grada Donja Stubica na svojoj 37. sjednici održanoj 20. veljače 2025. godine, donijelo je
