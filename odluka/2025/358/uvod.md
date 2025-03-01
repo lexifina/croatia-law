@@ -1,0 +1,1 @@
+Na temelju članka 19. a stavka 1. Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20. 151/22, 114/23 i 152/24) i članka 34. stavka 1. podstavka 20. Statuta Općine Dragalić (»Službeni glasnik« br. 3/18, 4/21 i 3/24), Općinsko vijeće Općine Dragalić na 25. sjednici održanoj 17. veljače 2025. godine, donosi
