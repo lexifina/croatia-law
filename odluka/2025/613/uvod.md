@@ -1,0 +1,1 @@
+Na temelju članaka 41. stavka 4. i članka 42. stavka 1., a u vezi s člankom 20. Zakona o lokalnim porezima (»Narodne novine« 115/16, 101/17, 114/22 i 114 /23) i članka 31. Statuta Općine Dežanovac (»Službeni glasnik Općine Dežanovac«, broj 8/21, 2/24 i 5/24) Općinsko vijeće Općine Dežanovac na svojoj 21. sjednici održanoj 20. veljače 2025. godine donijelo je
