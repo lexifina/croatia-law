@@ -1,0 +1,5 @@
+# Članak 17.
+1. Svaka ugovorna stranka može u svako doba zatražiti konzultacije s drugom ugovornom strankom u svrhu izmjene i dopune ovog Sporazuma. Takve konzultacije započinju u roku od šezdeset (60) dana od datuma primitka takvog zahtjeva.
+2. Ako se izmjena i dopuna odnosi na odredbe ovog Sporazuma osim onih iz Dodatka I. i Dodatka II., izmjenu i dopunu odobrava svaka ugovorna stranka u skladu sa svojim ustavnim postupcima i ona stupa na snagu tridesetog dana nakon datuma razmjene diplomatskih nota koje upućuju na takvo odobrenje.
+3. Ako se izmjena odnosi samo na Dodatak I., konzultacije se održavaju između zrakoplovnih vlasti obiju ugovornih stranaka. Kada se ta tijela dogovore o novom ili revidiranom Dodatku I., dogovorene izmjene i dopune o tom pitanju stupaju na snagu nakon što budu potvrđene razmjenom diplomatskih nota.
+4. Ako se izmjena odnosi samo na Dodatak II., izmjena može biti učinjena razmjenom diplomatskih nota između Vlade Republike Hrvatske i Vlade Japana, u skladu s njihovim primjenjivim domaćim postupcima.

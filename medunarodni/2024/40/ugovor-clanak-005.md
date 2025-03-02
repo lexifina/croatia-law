@@ -1,0 +1,2 @@
+# Članak 5.
+Naknade koje bilo koja ugovorna stranka može nametnuti, ili dozvoliti da budu nametnute, određenim prijevoznicima druge ugovorne stranke za korištenje zračnih luka i ostalih sredstava pod svojom kontrolom bit će pravedne i razumne i ne više od onoga što bi bilo plaćeno za korištenje zračnih luka i sredstava od strane prijevoznika najpovlaštenije države ili od strane bilo kojeg prijevoznika te ugovorne stranke koji se bavi međunarodnim zračnim prometom.
