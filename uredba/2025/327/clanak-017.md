@@ -1,0 +1,8 @@
+## 4. UPRAVA ZA EUROPSKU UNIJU I MEĐUNARODNE FINANCIJSKE ODNOSE
+# Članak 17.
+Uprava za Europsku uniju i međunarodne financijske odnose obavlja poslove koordinacije i upravljanja vlastitim sredstvima Europske unije; sudjeluje u pripremi i provedbi aktivnosti Ministarstva vezanih uz europske poslove i suradnju s međunarodnim financijskim institucijama; koordinira pripremu prijedloga stajališta i ostalih dokumenata o pojedinim politikama Europske unije; koordinira pripremu i provedbu programa Europske unije; razvija i provodi suradnju s međunarodnim financijskim institucijama na temelju politike Vlade Republike Hrvatske u cilju ostvarivanja održivoga razvoja; izvršava financijske obveze koje proizlaze iz članstva Republike Hrvatske u međunarodnim financijskim institucijama i obveze na temelju sklopljenih ugovora o zajmu, državnim jamstvima i darovnicama; obavlja upravne i stručne poslove vezane za sudjelovanje u pripremi nacrta prijedloga zakona i drugih propisa kojima se uređuju financijski odnosi s međunarodnim financijskim institucijama; obavlja upravne i stručne poslove vezane za izradu stručnih mišljenja na nacrte prijedloga zakona i prijedloga drugih propisa iz područja financijskih odnosa s inozemstvom; obavlja poslove tijela nadležnog za koordinaciju praćenja provedbe Nacionalnog plana oporavka i otpornosti; obavlja i druge poslove iz svoga djelokruga.
+U Upravi za Europsku uniju i međunarodne financijske odnose, ustrojavaju se:
+4.1. Sektor za Europsku uniju
+4.2. Sektor za međunarodne financijske odnose
+4.3. Sektor za koordinaciju provedbe Nacionalnog plana oporavka i otpornosti.
+4.1. Sektor za Europsku uniju
