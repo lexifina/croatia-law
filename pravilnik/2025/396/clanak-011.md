@@ -1,0 +1,8 @@
+## Način vođenja evidencija u Izvještajno-upravljačkom sustavu
+# Članak 11.
+(1) Prometni i drugi osobni podaci obrađivat će se na način kojim se postiže odgovarajuća sigurnost i povjerljivost podataka, uključujući zaštitu od neovlaštene ili nezakonite obrade te od slučajnog gubitka, uništenja ili oštećenja primjenom odgovarajućih organizacijskih, tehničkih i sigurnosnih mjera.
+(2) Obrada prometnih podataka provodit će se elektroničkim putem u okviru državne informacijske infrastrukture Republike Hrvatske.
+(3) Mjera za zaštitu podataka tijekom pohrane i prijenosa je enkripcija koja ima za cilj osigurati da su podaci zaštićeni čak i u slučaju neovlaštenog pristupa ili proboja sigurnosnih sustava. Korištenjem naprednih enkripcijskih algoritama, podaci se pretvaraju u nečitljiv oblik koji se može dekriptirati samo uz odgovarajući ključ.
+(4) Čuvanje prometnih podataka i informacija u Izvještajno-upravljačkom sustavu osigurano je na način koji omogućava njihovo korištenje u svrhe radi kojih su ti podaci prikupljeni.
+(5) Podaci prikupljeni u okviru Izvještajno-upravljačkog sustava čuvaju se u izvornom obliku iz opravdanih razloga kao što su sudski postupci, istrage, regulacijski zahtjevi ili drugi postupci, u kojim slučajevima, čuvanje podataka mora biti ograničeno na minimalno potrebno razdoblje te mora biti u skladu sa svim primjenjivim zakonskim i regulatornim zahtjevima.
+(6) Voditelj obrade podataka iz stavka 5. ovoga članka, dužan je osigurati da se takvi podaci koriste isključivo za navedene svrhe, te da se poduzimaju sve potrebne tehničke i organizacijske mjere zaštite kako bi se osigurala njihova sigurnost i zaštita privatnosti.

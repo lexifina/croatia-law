@@ -1,0 +1,4 @@
+# Članak 7.
+(1) Načelo standardizacije obrade i interoperabilnosti prometnih podataka ostvaruje se na način da je standardiziran svaki postupak vezan uz nastanak, prikupljanje, bilježenje, preuzimanje, korištenje, prosljeđivanje, pohranu i arhiviranje prometnih podataka u njihovu ukupnom ciklusu na razini prometnog sustava.
+(2) Pravne i fizičke osobe i/ili sustavi u prometu čiji podaci su obuhvaćeni Izvještajno-upravljačkim sustavom, moraju ostvarivati zajedničke standarde kao jedinstven sustav neovisno o razini integracije.
+(3) Interoperabilnost prometnih podataka ostvaruje se na pravnoj, organizacijskoj, procesnoj, semantičkoj i tehničkoj razini, a njihova razmjena ostvaruje se elektroničkim putem, korištenjem unaprijed dogovorenih strukturiranih poruka kao standardnog načina razmjene prometnih podataka, osim u iznimnim slučajevima kada elektronička razmjena podataka iz opravdanih razloga nije moguća.
