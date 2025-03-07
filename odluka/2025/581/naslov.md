@@ -1,0 +1,1 @@
+Odluka o davanju ovlasti Središnjem državnom uredu za središnju javnu nabavu za provedbu postupaka središnje javne nabave za javne naručitelje koji nisu obuhvaćeni člankom 12. stavkom 1. Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu nabavu
