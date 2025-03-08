@@ -1,0 +1,1 @@
+Na temelju članka 40., a u vezi s člancima 28., 29. i 30. te člankom 33. stavkom 3. Zakona o upravljanju nekretninama i pokretninama u vlasništvu Republike Hrvatske (»Narodne novine«, broj 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 27. veljače 2025. donijela

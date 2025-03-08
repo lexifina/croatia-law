@@ -1,0 +1,4 @@
+## IV. POSTUPAK DAROVANJA NEKRETNINE U KORIST ORGANIZACIJA CIVILNOG DRUŠTVA
+# Članak 18.
+(1) Nekretnine se u skladu sa Zakonom mogu darovati organizaciji civilnog društva koja ispunjava uvjete propisane Zakonom, kada je to u interesu Republike Hrvatske, a radi ostvarenja projekata od općeg, kulturnog, znanstvenog, sportskog, javnog ili socijalnog interesa kojima se ispunjavaju ciljevi i prioriteti definirani strateškim i planskim dokumentima, posebnim propisima ili operativnim programima Vlade Republike Hrvatske za nacionalne manjine.
+(2) Raspolaganje iz stavka 1. ovoga članka provodi se na zahtjev organizacije civilnog društva koji se podnosi ministarstvu u čiju propisanu nadležnost pripadaju djelatnosti kojima se pretežito bavi organizacija civilnog društva (u daljnjem tekstu: nadležno ministarstvo).

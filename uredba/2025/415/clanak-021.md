@@ -1,0 +1,5 @@
+# Članak 21.
+(1) Nadležno ministarstvo dužno je pratiti ostvarenje projekta za kojeg je darovana nekretnina u vlasništvu Republike Hrvatske.
+(2) Organizacija civilnog društva dužna je za cijelo vrijeme trajanja projekta u čiju svrhu je darovana nekretnina, do 31. ožujka tekuće godine za prethodnu godinu podnijeti izvješće nadležnom ministarstvu i Ministarstvu o izvršenju projekta i ispunjenju svih obveza, kao i dokaze o ispunjavanju uvjeta iz članka 19. stavka 2. ove Uredbe.
+(3) Ako organizacija civilnog društva prestane postojati, ili ne ostvari projekt u čiju svrhu je darovana nekretnina, ili prekine provedbu projekta, ili nakon darovanja prestane ispunjavati jedan ili više uvjeta iz članka 19. stavka 2. ove Uredbe, ili ako u roku iz stavka 2. ovoga članka ne dostavi izvješće o izvršenju projekta i dokaze o ispunjavanju uvjeta iz članka 19. stavka 2. ove Uredbe, ugovor o darovanju nekretnine smatra se raskinutim po sili zakona danom utvrđenja nastanaka tih okolnosti, a darovana nekretnina postaje vlasništvo Republike Hrvatske.
+(4) Na prijedlog nadležnog državnog odvjetništva izvršit će se upis zabilježbe zabrane otuđenja i opterećenja darovane nekretnine.
