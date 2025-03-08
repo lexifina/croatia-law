@@ -1,0 +1,2 @@
+# Članak 5.
+Mjere izravne kontrole cijena propisuju se iznimno radi sprječavanja negativnih učinaka promjena pojedinih cijena, ublažavanja inflatornih učinaka, sprječavanja monopolističkog određivanja cijena, postizanja većeg stupnja transparentnosti u informiranju potrošača pri promjeni cijena odnosno u svim drugim izvanrednim slučajevima kada se ti ciljevi ne mogu postići drugim mjerama gospodarske politike i tržišnih mehanizama korekcije cijena.
