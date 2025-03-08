@@ -1,0 +1,11 @@
+## Kontrola provedbe Programa
+# Članak 12.
+(1) Ispunjavanje propisanih obveza od strane korisnika provjeravat će se iz dostavljene dokumentacije, podataka iz dostupnih registara i za ovu svrhu zatraženih podataka iz drugih registara.
+(2) Korisnici su obvezni dostaviti dokaze u obliku preslika računa i/ili Svjedodžbe o zdravstvenom stanju iz članka 7. stavka 2. ovoga Pravilnika učitavanjem u ZIP datoteku u AGRONET-u.
+(3) Rokove dostave dokaza iz stavka 2. ovoga članka objavit će Agencija za plaćanja Pozivom za dostavu dokaza o dopremi svinja na objekt, po isteku tri mjeseca od isplate potpore.
+(4) Iznimno od odredbi stavka 3. ovoga članka u slučaju proglašenja zone zaštite ili zone nadziranja na području zone ograničenja III, Ministarstvo poljoprivrede, šumarstva i ribarstva će dostaviti obavijest Agenciji za plaćanja o početku i završetku zone koja je potom obvezna u roku od tri mjeseca od datuma završetka zone objaviti Poziv za dostavu dokaza o dopremi svinja za gospodarstva koja su se nalazila u zoni zaštite ili zoni nadziranja.
+(5) Ispunjavanje obveza iz članka 7. stavka 1. podstavka 1., članka 7. stavaka 3. i 4. ovoga Pravilnika provjerava Ministarstvo poljoprivrede, šumarstva i ribarstva na temelju podataka iz Jedinstvenog registra držanih životinja prema Identifikacijskom broju kartice gospodarstva korisnika potpore, te podatke o provjerama dostavlja Agenciji za plaćanja.
+(6) Ispunjavanje obveze iz članka 7. stavka 1. podstavka 2. ovoga Pravilnika provjerava se temeljem rješenja o dozvoljenoj dopremi svinja i inspekcijskih nadzora provedenih od strane Državnog inspektorata.
+(7) Korisnici potpore koji ne ispune obveze iz članka 7. ovoga Pravilnika obvezuju se vratiti ukupan iznos potpore dodijeljene na temelju ovoga Pravilnika i Programa.
+(8) Iznimno od odredbe stavka 7. ovoga članka, korisnici potpore koji nisu mogli ispuniti obveze iz članka 7. ovoga Pravilnika, zbog više sile ili izvanrednih okolnosti, nisu u obvezi povrata novčanih sredstava.
+(9) Višom silom ili izvanrednim okolnostima smatraju se vremenske nepogode za koje je proglašena elementarna nepogoda, smrt korisnika, pojava afričke svinjske kuge na gospodarstvu na kojem je zapisnikom o inspekcijskom nadzoru utvrđeno kako gospodarstvo u potpunosti udovoljava svim biosigurnosnim i drugim uvjetima za držanje svinja.
