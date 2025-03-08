@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+## Predmet Zakona
+# Članak 1.
+Ovim Zakonom osigurava se provedba Uredbe (EU) 2023/1322 Europskog parlamenta i Vijeća od 27. lipnja 2023. o Agenciji Europske unije za droge (EUDA) i stavljanju izvan snage Uredbe (EZ) br. 1920/2006 (SL L 166/6, 30. 6. 2023.; u daljnjem tekstu: Uredba (EU) 2023/1322), uređuje se nadležnost za prikupljanje, objedinjavanje i dostavu podataka, praćenje provedbe Uredbe (EU) 2023/1322, prikupljanje i širenje informacija i podataka, razmjena informacija i sustav ranog upozoravanja o novim psihoaktivnim tvarima, sudjelovanje u Europskom sustavu upozoravanja na droge, Mreži forenzičkih i toksikoloških laboratorija, Europskoj informacijskoj mreži za droge i ovisnost o drogama, uloga i zadaće Nacionalne informacijske jedinice za droge te sudjelovanje u radu Upravnog odbora Agencije Europske unije za droge (u daljnjem tekstu: EUDA) i imenovanje nacionalnih predstavnika.
