@@ -1,0 +1,5 @@
+## Mjerila prostornog planiranja
+# Članak 5.
+(1) Elektronička komunikacijska infrastruktura i druga povezana oprema u nepokretnoj komunikacijskoj mreži planira se podzemno i nadzemno, slijedeći koridore prometnica, željezničkih pruga i drugih vrsta infrastrukture u pravilu na javnoj površini. Iznimno, u svrhu bitnog skraćivanja trase, koridor se može planirati i izvan koridora prometnica, željezničkih pruga ili drugih vrsta infrastrukture, u skladu s prostornim planovima uređenja predmetnog područja.
+(2) Prostornim planovima planira se elektronička komunikacijska infrastruktura i druga povezana oprema na način kojim se ne ograničuje razvoj elektroničke komunikacijske mreže i elektroničke komunikacijske infrastrukture.
+(3) Moguće ograničenje u pogledu korištenja vrste infrastrukture (npr. zračna/podzemna elektronička komunikacijska infrastruktura, samostojeći antenski stupovi i drugo) prema namjeni prostora mora sadržavati i zamjensko rješenje, kako se propisanim ograničenjem ne bi ugrozila mogućnost i kakvoća pružanja određene elektroničke komunikacijske usluge, odnosno obavljanje djelatnosti elektroničkih komunikacijskih mreža i usluga.

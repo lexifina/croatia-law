@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Građevine elektroničke komunikacijske infrastrukture smještaju se, u načelu, unutar prostorno-planskih koridora infrastrukturnih građevina te unutar obuhvata zahvata postojećih infrastrukturnih građevina, uvažavajući ciljeve i načela prostornog uređenja, prema posebnim propisima iz područja prostornog uređenja i gradnje, na način da ne smiju onemogućivati ili ometati gradnju i uporabu planiranih, odnosno postojećih infrastrukturnih građevina.
+(2) Načelo gradnje integrirane infrastrukture obuhvaća usklađenje planiranih trasa elektroničke komunikacijske infrastrukture i druge povezane opreme s trasama drugih infrastruktura u odnosu na smještaj u prostoru i rokove gradnje.
