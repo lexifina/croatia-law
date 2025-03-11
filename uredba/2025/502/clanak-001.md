@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom uređuju se statusna i druga pitanja od značaja za rad i poslovanje Lučke uprave Rijeka (u daljnjem tekstu: Lučka uprava), osnovane Odlukom o osnivanju Lučke uprave Rijeka (»Narodne novine«, br. 42/96., 26/02., 54/02., 72/07., 121/12., 14/14., 115/15., 72/18., 64/20., 140/20., 97/21. i 5/23.), koja nastavlja s radom u skladu s odredbama ove Uredbe, te obuhvat lučkog područja luke Rijeka.
