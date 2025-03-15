@@ -1,0 +1,4 @@
+## PRIJELAZNA I ZAVRŠNA ODREDBA
+# Članak 3.
+Zahtjevi voditelja radilišta i pomoćnih djelatnika iz članka 1. ovoga Zakona za priznanje prava na mirovinu u povodu kojih do stupanja na snagu ovoga Zakona nije donijeto izvršno rješenje, riješit će se prema ovom Zakonu, ako je to za osiguranika povoljnije.
+Zatečenim voditeljima radilišta i pomoćnim djelatnicima iz članka 1. ovoga Zakona, kojima je do dana stupanja na snagu ovoga Zakona određena mirovina prema Zakonu o mirovinskom osiguranju (»Narodne novine«, br. 157/13., 151/14., 33/15., 93/15., 120/16., 18/18., 62/18., 115/18., 102/19., 84/21. i 119/22.), Hrvatski zavod za mirovinsko osiguranje će, po službenoj dužnosti i ako je to za korisnika povoljnije, najkasnije u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona, odrediti mirovinu prema odredbama Zakona o posebnim pravima iz mirovinskog osiguranja zaposlenika na poslovima razminiranja (»Narodne novine«, br. 153/05. i 152/08.).
