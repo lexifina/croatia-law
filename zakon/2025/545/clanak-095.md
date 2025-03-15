@@ -1,0 +1,5 @@
+# Članak 95.
+(1) Vlada će uskladiti Uredbu o načinu izračuna i visini sredstava za uzdržavanje državljanina treće zemlje u Republici Hrvatskoj (»Narodne novine«, br. 14/21.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Ministar će uskladiti Pravilnik o boravku državljana trećih zemalja u Republici Hrvatskoj (»Narodne novine«, br. 20/22. i 155/22.) i Pravilnik o postupanju prema državljanima trećih zemalja (»Narodne novine«, br. 136/21. i 145/23.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(3) Ministar nadležan za rad donijet će pravilnik iz članka 136. stavka 7., koji je izmijenjen člankom 59. ovoga Zakona, u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Ministar nadležan za rad uskladit će Pravilnik o evidencijama Hrvatskoga zavoda za zapošljavanje (»Narodne novine«, br. 28/19., 59/20. i 34/21.) s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.

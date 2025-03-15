@@ -1,0 +1,9 @@
+# Članak 54.
+Iza članka 133. dodaju se naslovi iznad članaka i članci 133.a i 133.b koji glase:
+»Autonomni boravak člana obitelji, životnog partnera ili neformalnog životnog partnera nositelja »plave karte EU-a«
+Članak 133.a
+(1) Državljaninu treće zemlje koji je imao odobren privremeni boravak u svrhu spajanja obitelji odnosno životnog partnerstva u neprekidnom trajanju od tri godine, kao bračni, izvanbračni, životni ili neformalni životni partner nositelja »plave karte EU-a«, kao i djetetu koje je postalo punoljetno može se odobriti autonomni boravak ako ispunjava uvjete iz članka 59. stavka 1. točaka 2. do 4. te točaka 6. i 7. ovoga Zakona.
+(2) Za potrebe računanja neprekidnog trajanja privremenog boravka iz stavka 1. ovoga članka zbrajaju se razdoblja boravka na području država članica EGP-a gdje je osoba iz stavka 1. ovoga članka prije podnošenja zahtjeva imala odobren privremeni boravak u svrhu spajanja obitelji ili životnog partnerstva u neprekidnom trajanju od najmanje godine dana s nositeljem »plave karte EU-a«, a u Republici Hrvatskoj najmanje dvije godine neprekidnog boravka u svrhu spajanja obitelji ako je osoba iz članka 64. stavka 1. ovoga Zakona ili životnog partnerstva s nositeljem »plave karte EU-a«.
+Iznimka od primjene odredbi o članovima obitelji, životnim partnerima ili neformalnim životnim partnerima nositelja »plave karte EU-a«
+Članak 133.b
+Odredbe članaka 133. i 133.a ovoga Zakona ne primjenjuju se na članove obitelji odnosno životne partnere ili neformalne životne partnere nositelja »plave karte EU-a« koji su korisnici prava na slobodno kretanje u Republici Hrvatskoj, kao ni na članove obitelji odnosno životne partnere ili neformalne životne partnere nositelja »plave karte EU-a« koji je korisnik međunarodne zaštite koju je odobrila Republika Hrvatska.«.

@@ -1,0 +1,14 @@
+# Članak 31.
+Članak 97. mijenja se i glasi:
+»(1) Ministarstvo, putem policijske uprave odnosno policijske postaje, može izdati dozvolu za boravak i rad državljaninu treće zemlje koji ispunjava uvjete iz članka 59. ovoga Zakona, a na temelju pozitivnog mišljenja Hrvatskog zavoda za zapošljavanje iz članka 99. ovoga Zakona te ako je ispunjen uvjet iz članka 103.f ovoga Zakona u slučaja kada poslodavac osigurava smještaj ili je posrednik u osiguravanju smještaja.
+(2) Ministarstvo će, putem policijske uprave odnosno policijske postaje, po službenoj dužnosti od Hrvatskog zavoda za zapošljavanje zatražiti mišljenje iz stavka 1. ovoga članka.
+(3) Zahtjevu za izdavanje dozvole za boravak i rad iz stavka 1. ovoga članka prilaže se:
+1. ugovor o radu
+2. dokaz o ispunjavanju zahtjeva poslodavaca traženih u testu tržišta rada koji se odnose na razinu obrazovanja, obrazovnu kvalifikaciju, radno iskustvo i sve druge uvjete koje zahtijeva poslodavac
+3. dokaz o primjerenom smještaju kada poslodavac osigurava smještaj ili je posrednik o osiguravanju smještaja.
+(4) U slučaju zapošljavanja državljanina treće zemlje u zanimanju navedenom u odluci iz članka 101. stavka 1. ovoga Zakona zahtjevu za izdavanje dozvole za boravak i rad prilaže se dokaz da državljanin treće zemlje ima potrebne kompetencije za rad u tom zanimanju, što dokazuje postojanjem odgovarajućeg radnog iskustva ili dokazom o završenom obrazovanju.
+(5) Za jednostavna zanimanja za koja nije potrebna cjelovita kvalifikacija na razini srednjoškolskog obrazovanja prema Hrvatskom kvalifikacijskom okviru, a koja su navedena u odluci iz članka 101. stavka 1. ovoga Zakona, nije potrebno dokazivati odgovarajuće radno iskustvo ni završeno obrazovanje.
+(6) Ako se radi o zapošljavanju državljanina treće zemlje koji će obavljati reguliranu profesiju prema popisu reguliranih profesija u Republici Hrvatskoj, zahtjevu za izdavanje dozvole za boravak i rad prilaže se i rješenje o priznavanju inozemne stručne kvalifikacije sukladno posebnom propisu.
+(7) Iznimno od stavka 1. ovoga članka, dozvola za boravak i rad može se izdati bez provedbe testa tržišta rada i mišljenja Hrvatskog zavoda za zapošljavanje ako se radi o zapošljavanju sezonskog radnika u poljoprivredi, šumarstvu, ugostiteljstvu i turizmu na području Republike Hrvatske u trajanju do 90 dana tijekom kalendarske godine ili ako se radi o produljenju dozvole za boravak i rad za istog poslodavca i istog državljanina treće zemlje u istom zanimanju.
+(8) Ugovor o radu ne smije sadržavati diskriminatorne odredbe kojima se radnik državljanin treće zemlje stavlja u nepovoljniji položaj od ostalih radnika zaposlenih u Republici Hrvatskoj.
+(9) Plaća koju prima državljanin treće zemlje ne smije biti manja od plaće koju primaju zaposleni u Republici Hrvatskoj u zanimanju za koje se izdaje dozvola za boravak i rad odnosno u sličnim i srodnim zanimanjima u skladu s posebnim zakonima i kolektivnim ugovorima.«.

@@ -1,0 +1,16 @@
+# Članak 48.
+Naslov iznad članka 128. mijenja se i glasi: »Rok važenja »plave karte EU-a« i unos podataka u dozvolu boravka«.
+Članak 128. mijenja se i gasi:
+»(1) »Plava karta EU-a« izdaje se s rokom važenja od 48 mjeseci.
+(2) Ako je ugovor o radu sklopljen za razdoblje kraće od 48 mjeseci, »plava karta EU-a« izdat će se za razdoblje trajanja ugovora o radu uvećano za dodatna tri mjeseca, ali ne dulje od 48 mjeseci.
+(3) Ako je razdoblje valjanosti putne isprave kraće od razdoblja iz stavaka 1. i 2. ovoga članka, »plava karta EU-a« izdaje se na razdoblje valjanosti putne isprave.
+(4) »Plava karta EU-a« izdaje se kao dozvola boravka iz članka 3. stavka 1. točke 20. ovoga Zakona, u koju se u rubriku »vrsta dozvole« unose riječi: »plava karta EU-a«, a podaci o poslodavcu, zanimanju i radnom mjestu navode se u potvrdi iz stavka 5. ovoga članka odnosno potvrdi iz članka 129. stavaka 7. i 9. ovoga Zakona.
+(5) Nadležna policijska uprava odnosno policijska postaja državljaninu treće zemlje i poslodavcu izdaje potvrdu u kojoj su navedeni podaci o državljaninu treće zemlje, poslodavcu, roku važenja »plave karte EU-a«, radnom mjestu, zanimanju za koje se izdaje »plava karta EU-a« i zakonskoj odredbi na temelju koje je odobrena.
+(6) Državljanin treće zemlje može započeti s radom:
+- na temelju potvrde iz stavka 5. ovoga članka koja je uručena poslodavcu, dok državljanin treće zemlje ne podnese zahtjev iz podstavka 2. ovoga stavka, a najduže do roka iz članka 169. stavka 1. ovoga Zakona, ako je državljanin treće zemlje prijavljen na zdravstveno i mirovinsko osiguranje
+- na temelju podnesenog zahtjeva za tehničku izradu biometrijske dozvole boravka iz stavka 4. ovoga članka, ako je državljanin treće zemlje prijavljen na zdravstveno i mirovinsko osiguranje.
+(7) U »plavu kartu EU-a« iz stavka 4. ovoga članka državljanina treće zemlje kojem je Republika Hrvatska odobrila međunarodnu zaštitu unijet će se napomena: »Međunarodna zaštita odobrena u Republici Hrvatskoj dana (datum)«, a u slučaju prestanka ili poništenja međunarodne zaštite državljaninu treće zemlje izdat će se nova »plava karta EU-a« koja neće sadržavati navedenu napomenu.
+(8) Državljaninu treće zemlje kojem je izdana »plava karta EU-a«, a kojemu je druga država članica EGP-a odobrila međunarodnu zaštitu, u »plavu kartu EU-a« državljanina treće zemlje unijet će se napomena »Međunarodna zaštita odobrena u (država članica) dana (datum)«.
+(9) Prije unošenja napomene iz stavka 8. ovoga članka u »plavu kartu EU-a« od druge države članice EGP-a zatražit će se informacija ima li državljanin treće zemlje još uvijek odobrenu međunarodnu zaštitu, a ako je međunarodna zaštita povučena pravomoćnom odlukom, ne unosi se napomena iz stavka 8. ovoga članka.
+(10) Ministarstvo će na zahtjev druge države članice EGP-a bez odgode dostaviti podatak ima li državljanin treće zemlje odobrenu međunarodnu zaštitu u Republici Hrvatskoj, a najkasnije u roku od mjesec dana od zaprimanja zahtjeva.
+(11) Ako je nadležnost za međunarodnu zaštitu prešla u nadležnost Republike Hrvatske nakon što je državljaninu treće zemlje izdana dozvola boravka s napomenom iz stavka 8. ovoga članka, izmijenit će se napomena u »plavoj karti EU-a« u roku od tri mjeseca od dana prelaska nadležnosti tako da će se unijeti riječi: »odgovornost za međunarodnu zaštitu prenesena na Republiku Hrvatsku dana (datum)«.«.

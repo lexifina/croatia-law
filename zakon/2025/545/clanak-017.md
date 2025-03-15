@@ -1,0 +1,4 @@
+# Članak 17.
+Članak 69. mijenja se i glasi:
+»(1) Bračnom ili izvanbračnom drugu, životnom ili neformalnom životnom partneru, kao i djetetu koje je postalo punoljetno može se odobriti autonomni boravak ako ima odobren privremeni boravak u svrhu spajanja obitelji ili životnog partnerstva u neprekidnom trajanju od tri godine i ako ispunjava uvjete iz članka 59. stavka 1. točaka 2. do 4. te točaka 6. i 7. ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, državljaninu treće zemlje može se odobriti autonomni boravak ako ispunjava uvjete iz članka 59. stavka 1. točaka 2. do 4. te točaka 6. i 7. ovoga Zakona i ako u trenutku smrti osobe na temelju koje mu je odobren privremeni boravak u svrhu spajanja obitelji ili u svrhu životnog partnerstva ima odobren privremeni boravak u svrhu spajanja obitelji ili u svrhu životnog partnerstva u neprekidnom trajanju od tri godine.«.

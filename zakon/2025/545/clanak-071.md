@@ -1,0 +1,3 @@
+# Članak 71.
+U članku 184. stavak 2. mijenja se i glasi:
+»(2) Rješenjem iz stavka 1. ovoga članka utvrdit će se da državljanin treće zemlje nezakonito boravi u Republici Hrvatskoj ili da mu prestaje zakoniti boravak u Republici Hrvatskoj, odredit će se rok u kojem je dužan napustiti EGP (rok za dragovoljni odlazak) i da je dužan prijaviti se na graničnom prijelazu prilikom napuštanja Republike Hrvatske ili diplomatskoj misiji odnosno konzularnom uredu Republike Hrvatske nakon napuštanja EGP-a te će se zaprijetiti prisilnim udaljenjem ako ne napusti EGP i odrediti država u koju će se državljanina treće zemlje prisilno udaljiti.«.

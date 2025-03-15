@@ -1,0 +1,9 @@
+# Članak 79.
+U članku 240. stavak 1. mijenja se i glasi:
+»(1) U provedbi inspekcijskog nadzora nadležni inspektor tijela iz članka 239. stavka 1. ovoga Zakona usmenim će rješenjem u zapisniku, u trajanju od 30 dana, zabraniti poslodavcu - pravnoj osobi ili poslodavcu - fizičkoj osobi obavljanje djelatnosti odnosno državljaninu treće zemlje pružanje usluga za inozemnog poslodavca u nadziranom poslovnom objektu odnosno prostoru, a poslodavcu - pravnoj osobi ili poslodavcu - fizičkoj osobi koja obavlja djelatnost zastupanja ili posredovanja za digitalnu radnu platformu obavljanje te djelatnosti, ako utvrdi da je tijekom nadzora za poslodavca radio državljanin treće zemlje protivno odredbama ovoga Zakona kojima je utvrđena obveza ishođenja dozvole za boravak i rad ili potvrde o prijavi rada.«.
+Stavak 3. mijenja se i glasi:
+»(3) Mjera zabrane obavljanja djelatnosti iz stavka 1. ovoga članka neće se izvršiti, a usmeno izrečeno rješenje će se ukinuti ako poslodavac odnosno državljanin treće zemlje pružatelj usluga za inozemnog poslodavca kojem je mjera izrečena u roku od tri dana od dana izricanja mjere nadležnom inspektoru iz stavka 1. ovoga članka dostavi dokaz da je izvršio uplatu novčanog iznosa u iznosu od 3981,68 eura, za svakog državljanina treće zemlje, u korist državnog proračuna.«.
+U stavku 5. riječi: »i članka 129. stavka 2.« brišu se.
+Iza stavka 5. dodaju se stavci 6. i 7. koji glase:
+»(6) Žalba protiv rješenja iz stavaka 1. i 3. ovoga članka nije dopuštena, ali se može pokrenuti upravni spor.
+(7) Pravna ili fizička osoba na koju se odnosi usmeno rješenje iz stavka 1. ovoga članka može pisanim putem za vrijeme trajanja mjere pečaćenja poslovnih prostorija zatražiti da se zapečaćene prostorije privremeno otpečate i u nazočnosti inspektora odmah izuzeti pokvarljive namirnice te poduzeti druge sigurnosne mjere radi sprječavanja štete.«.
