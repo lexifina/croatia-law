@@ -1,4 +1,0 @@
-# Članak 2.
-POTICANJE I ZAŠTITA ULAGANJA
-(1) Svaka Ugovorna stranka poticat će i stvarati povoljne uvjete za ulaganje kapitala od strane državljana ili društava druge Ugovorne stranke na njenom teritoriju, te će, zavisno od svog prava da vrši ovlasti temeljem njenih zakona, dopuštati takav kapital.
-(2) Ulaganjima državljana ili društava svake Ugovorne stranke u svako doba odobrit će pošteni i pravični uvjeti, te će oni uživati punu zaštitu i sigurnost na teritoriju druge Ugovorne stranke. Niti jedna Ugovorna stranka neće ni na koji način nerazumnim ili diskriminacijskim mjerama ometati upravljanje, održavanje, korištenje, uživanje ili prodaju ulaganja na njenom teritoriju od strane državljana ili društava druge Ugovorne stranke. Svaka Ugovorna stranka poštovat će svaku obvezu koju je preuzela u odnosu na ulaganja državljana ili društava druge Ugovorne stranke.
