@@ -1,0 +1,9 @@
+## III. PRIHVATLJIVI I NEPRIHVATLJIVI TROŠKOVI
+## Prihvatljiva ulaganja
+# Članak 7.
+(1) Prihvatljiva ulaganja su ulaganja u zamjenu glavnih motora ribarskih plovila, pod sljedećim uvjetima:
+a) za plovila koja pripadaju segmentu malog priobalnog ribolova iz članka 2. stavka 1. točke 9. ovoga Pravilnika, snaga novog motora u kW je manja ili jednaka snazi motora koji se zamjenjuje
+b) za ostala plovila koja nisu obuhvaćena točkom a) ovoga stavka te čija je duljina preko svega do 24 metra, snaga novog motora u kW je manja ili jednaka snazi motora koji se zamjenjuje, te novi motor ispušta barem 20% manje CO2 u odnosu na motor koji se zamjenjuje.
+(2) Detaljne odredbe za utvrđivanje ispunjavanja uvjeta smanjenja emisija CO2 iz stavka 1. točke a) ovoga članka, u skladu sa člankom 18. stavkom 5. Uredbe (EU) 2021/1139 i Provedbenom uredbom Komisije (EU) 2022/46 оd 13. siječnja 2022. o provedbi Uredbe (EU) 2021/1139 Europskog parlamenta i Vijeća o uspostavi Europskog fonda za pomorstvo, ribarstvo i akvakulturu i izmjeni Uredbe (EU) 2017/1004 u pogledu utvrđivanja energetski učinkovitih tehnologija i specifikacije metodoloških elemenata za određivanje uobičajenog ribolovnog napora ribarskih plovila (SL L 9, 14. 1. 2022.), propisane su Pravilima za utvrđivanje smanjenja emisija CO2 plinova, koja su dostupna na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/o-programu/propisi-smjernice/).
+(3) Motor iz stavka 1. ovoga članka mora biti službeno certificiran u skladu s člankom 40. stavkom 2. Uredbe (EZ) br. 1224/2009.
+(4) Iznimno od stavka 3. ovoga članka, u slučaju plovila za koje nije potrebna certifikacija snage motora, prihvatljivo je ulaganje u zamjenu motora za kojeg je usklađenost snage provjerena u skladu sa člankom 41. Uredbe (EZ) br. 1224/2009 i fizički inspekcijski pregledana kako bi se osiguralo da snaga motora ne prelazi snagu motora utvrđenu u povlastici.
