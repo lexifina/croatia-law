@@ -1,0 +1,3 @@
+# Članak 83.
+Služba za javnu komunikaciju obavlja stručne i tehničke poslove održavanja i razvoja mrežnih stranica Ministarstva. Služba sustavno prati kulturno-umjetničku djelatnost na području Republike Hrvatske, programske aktivnosti i projekte u području zaštite i očuvanja kulturne baštine, kao i međunarodne kulturne suradnje. Služba organizira savjetovanja s javnošću, administrira podatke na Portalu otvorenih podataka te obavlja i druge poslove vezane za javnu objavu registara, upisnika, očevidnika i baza podataka.
+7.2. Sektor za audiovizualne djelatnosti i poticanje poduzetništva u kulturnim i kreativnim industrijama

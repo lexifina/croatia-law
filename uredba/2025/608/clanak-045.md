@@ -1,0 +1,6 @@
+# Članak 45.
+Sektor za konzervatorske poslove i inspekciju prati izradu konzervatorskih standarda i smjernica za postupanje na kulturnim dobrima, prati i analizira učinkovitost i ujednačenost metodologije obavljanja konzervatorskih poslova u područnim jedinicama koje obavljaju poslove iz nadležnosti Uprave za zaštitu kulturne baštine, pruža im kontinuiranu stručnu podršku u primjeni Informacijskog sustava eKonzervatorske podloge te obavlja inspekcijske poslove u području zaštite i očuvanja kulturnih dobara. Sektor obavlja upravne i stručne poslove u vezi s praćenjem izrade konzervatorskih podloga za kulturno-povijesne cjeline u okviru Nacionalnog plana oporavka i otpornosti i u vezi s praćenjem i izradom konzervatorskih podloga za sve prostorne cjeline i nepokretna kulturna dobra upisana u Registar kulturnih dobara Republike Hrvatske u cilju uspostave konzervatorske osnove Republike Hrvatske i integracije konzervatorske osnove Republike Hrvatske u sustav prostornog planiranja te obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za konzervatorske poslove i inspekciju ustrojavaju se:
+5.2.1. Služba za kulturno-povijesne cjeline i prostorno planske mjere zaštite
+5.2.2. Služba za inspekcijske poslove zaštite kulturne baštine.
+5.2.1. Služba za kulturno-povijesne cjeline i prostorno planske mjere zaštite

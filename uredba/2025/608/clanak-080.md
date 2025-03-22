@@ -1,0 +1,8 @@
+## 7. UPRAVA ZA MEDIJE I RAZVOJ KULTURNIH I
+## KREATIVNIH INDUSTRIJA
+# Članak 80.
+Uprava za medije i razvoj kulturnih i kreativnih industrija prati stanje u području medija, audiovizualnih djelatnosti i kulturnih i kreativnih industrija te obavlja upravne i stručne poslove u tim područjima; prati primjenu i evaluacija propisa u području medija, audiovizualnih djelatnosti i kulturnih i kreativnih industrija; izrađuje analize i izvješća o stanju propisa u području medija, audiovizualnih djelatnosti i kulturnih i kreativnih industrija; obavlja poslove koordinacije i prijedloga medijske strategije i poslove koji se odnose na sudjelovanje u radnim tijelima Vijeća Europe i Europske unije; izrađuje smjernice za propise u području medija, audiovizualnih djelatnosti i kulturnih i kreativnih industrija i za razvoj mjera potpore kulturnim i kreativnim industrijama; u suradnji s nadležnim tijelima radi na razvoju medijske pismenosti; obavlja poslove potrebne kako bi se osiguralo ostvarivanje javnog interesa u medijima i u području filmskog i audiovizualnog stvaralaštva; prati provođenje Nacionalnog programa promicanja audiovizualne djelatnosti; obavlja poslove javne komunikacije te poslove koji se odnose na provedbu sektorskih politika Europske unije i smjernica Vijeća Europe iz svoga djelokruga. Uprava sudjeluje u utvrđivanju Godišnjeg plana rada te obavlja i druge poslove iz svoga djelokruga.
+U Upravi za medije i razvoj kulturnih i kreativnih industrija ustrojavaju se:
+7.1. Sektor za medije
+7.2. Sektor za audiovizualne djelatnosti i poticanje poduzetništva u kulturnim i kreativnim industrijama.
+7.1. Sektor za medije

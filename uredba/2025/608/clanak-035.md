@@ -1,0 +1,2 @@
+# Članak 35.
+Služba za UNESCO obavlja poslove usklađivanja djelatnosti Hrvatskog povjerenstva za UNESCO i Stalne misije Republike Hrvatske pri UNESCO-u, koordinacije rada i sudjelovanja članova Povjerenstva u aktivnostima UNESCO-a na međunarodnoj razini, koordinacije aktivnosti između Povjerenstva, Vlade Republike Hrvatske, nadležnih državnih tijela i odgovarajućih institucija sa Stalnom misijom pri UNESCO-u, Tajništvom UNESCO-a i nacionalnih povjerenstava država članica te obavlja i druge poslove iz svoga djelokruga.

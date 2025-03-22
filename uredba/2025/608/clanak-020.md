@@ -1,0 +1,3 @@
+# Članak 20.
+Odjel za dramsku umjetnost, suvremeni ples i pokret obavlja upravne i stručne poslove vezane uz razvoj i promicanje izvedbenog stvaralaštva, pružanje podrške u razvoju dramske umjetnosti u djelatnosti profesionalnih kazališta, kao i kazališnog amaterizma te suvremenog plesa i pokreta. Odjel obavlja poslove praćenja rada nacionalnih kazališta vezano za provedbu godišnjih programa, investicijskog održavanja te međusobne suradnje nacionalnih kazališta, pruža potporu novim modelima suradnje nacionalnih kazališta te festivala ili drugih manifestacija od nacionalnog značenja u cilju daljnjeg razvoja programskih, financijskih i organizacijskih kapaciteta te obavlja i druge poslove iz svoga djelokruga.
+3.1.1.2. Odjel za glazbu

@@ -1,0 +1,3 @@
+# Članak 82.
+Služba za razvoj medijskih politika i normativne poslove u medijima obavlja upravne i stručne poslove vezane za praćenje stanja u području medija; prati primjenu i evaluaciju propisa u području medija; izrađuje analize i izvješća o stanju medijskih propisa te smjernice za propise u području medija; izrađuje stručne podloge u svrhu pripreme izrade zakonskih i drugih propisa u području medijske politike. Služba obavlja stručne poslove analize i pripreme stajališta Republike Hrvatske pri Europskoj uniji u koordinaciji s drugim nadležnim tijelima te obavlja i druge poslove iz svoga djelokruga.
+7.1.2. Služba za javnu komunikaciju

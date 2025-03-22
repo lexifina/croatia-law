@@ -1,0 +1,6 @@
+# Članak 75.
+Sektor za digitalizaciju, dokumentaciju i registar koordinira poslove izgradnje nacionalnog informacijskog sustava za digitalizaciju kulturne baštine; prati razvoj sustavnog i ujednačenog pristupa digitalizaciji građe, provedbe pojedinačnih projekata digitalizacije kulturne baštine, oblikovanje ponude kulturnih sadržaja i usluga korištenjem informacijskih tehnologija. Sektor obavlja informacijsko-dokumentacijske poslove za područje kulturne baštine, sudjeluje u pripremi stručnih analiza, mišljenja i podloga za pripremu projekata iz područja kulturne baštine, vodi središnju bazu podataka i održava dokumentacijske zbirke (planoteka, fototeka, mikrofilm, grafičke zbirke i drugo) te poslove stručne knjižnice, predlaže informacijsko-dokumentacijske standarde u djelatnosti zaštite kulturnih dobara, vodi Registar kulturnih dobara Republike Hrvatske u elektroničkom obliku te Zbirke isprava o kulturnim dobrima upisanim u Registar te obavlja i druge poslove iz svoga djelokruga.
+U Sektoru za digitalizaciju, dokumentaciju i registar ustrojavaju se:
+6.2.1. Služba za digitalizaciju kulturne baštine
+6.2.2. Služba za dokumentaciju i registar kulturnih dobara.
+6.2.1. Služba za digitalizaciju kulturne baštine

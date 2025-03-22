@@ -1,0 +1,6 @@
+# Članak 84.
+Sektor za audiovizualne djelatnosti i poticanje poduzetništva u kulturnim i kreativnim industrijama prati stanje u području audiovizualnih djelatnosti i kulturnih i kreativnih industrija te obavlja upravne i stručne poslove u tim područjima; prati primjenu i evaluaciju propisa u području audiovizualnih djelatnosti i kulturnih i kreativnih industrija; izrađuje analize i izvješća o stanju propisa u području audiovizualnih djelatnosti i kulturnih i kreativnih industrija; izrađuje strategije razvoja audiovizualnih djelatnosti te kulturnih i kreativnih industrija; sudjeluje u radnim tijelima Vijeća Europe i Europske unije; izrađuje smjernice za propise u području audiovizualnih djelatnosti i kulturnih i kreativnih industrija; prati provedbu Nacionalnog programa promicanja audiovizualnog stvaralaštva; obavlja poslove koji se odnose na provedbu sektorske politike Vijeća Europe iz svoga djelokruga.
+U Sektoru za audiovizualne djelatnosti i poticanje poduzetništva u kulturnim i kreativnim industrijama ustrojavaju se:
+7.2.1. Služba za audiovizualne djelatnosti
+7.2.2. Služba za poticanje poduzetništva u kulturnim i kreativnim industrijama.
+7.2.1. Služba za audiovizualne djelatnosti

@@ -1,0 +1,3 @@
+# Članak 44.
+Odjel za etnografsku i nematerijalnu kulturnu baštinu obavlja upravne i stručne poslove vezane uz istraživanje, bilježenje i dokumentiranje etnografske baštine i nematerijalnih kulturnih dobara te utvrđuje stanje etnografske baštine i očuvanja nematerijalnih kulturnih dobara i izrađuje preliminarne tehničke procjene za pripremu prijedloga programa i prioriteta njihove zaštite, izrađuje metodološke osnove, standarde, kriterije i smjernice za zaštitu etnografskih i nematerijalnih kulturnih dobara i mjere za njihovu zaštitu te obavlja i druge poslove iz svoga djelokruga.
+5.2. Sektor za konzervatorske poslove i inspekciju
