@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 6. Uredbe o otklanjanju poremećaja na domaćem tržištu energije (»Narodne novine«, br. 31/23., 74/23., 107/23., 122/23., 32/24., 104/24. i 132/24.), Vlada Republike Hrvatske je na sjednici održanoj 26. ožujka 2025. donijela
