@@ -1,0 +1,20 @@
+PRILOG
+Obrazac o provedenom dokumentacijskom, identifikacijskom i fizičkom pregledu pošiljke prijemljivih životinja
+Referentni broj certifikata: ______________________________
+Datum prispijeća pošiljke (dopreme): ______________________
+Broj, vrsta i kategorija životinja: __________________________
+Datum pregleda: _____________________________________
+Rezultat pregleda (zaokružiti):
+Opisati utvrđene nesukladnosti:
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+Im i prezime nadležnog ovlaštenog veterinara delegiranog tijela koji je proveo pregled:
+__________________________________________________
+__________________________________________________
+__________________________________________________
+Naziv delegiranog tijela:
+__________________________________________________
+Potpis i pečat
