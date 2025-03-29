@@ -1,0 +1,4 @@
+## Izvanredno stjecanje svjedodžbe za pomorskog peljara
+# Članak 28.
+(1) U iznimnim slučajevima kada ne postoji ovlašteni pomorski peljar za pojedinu luku ili područje, ili dođe do slučajeva predviđenih člankom 12., 13., 14. ili 15. ovoga Pravilnika, ili je broj peljarenja u pojedinu luku ili područje premalen za zadovoljavanje uvjeta iz članka 27. stavka 1. točke 2. i 3. ovoga Pravilnika, Ministarstvo može dopustiti da ispit za zvanje pomorskog peljara može polagati osoba, koja ima položen ispit za peljara za područje drugog peljarskog društva uz uvjet da je obučen za rad za pojedinu luku ili područje na simulatoru sukladno programu propisanom u Prilogu 5. ovoga Pravilnika.
+(2) Udovoljavanje uvjetima u pogledu obuke iz stavka 1. ovoga članka dokazuje se potvrdnicom izdanom od ovlaštenog učilišta.

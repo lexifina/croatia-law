@@ -1,0 +1,5 @@
+## Privremeno pružanje peljarskih usluga na osnovi povećanja broja brodova
+# Članak 15.
+(1) U slučaju kada na području peljarskog društva koje ima valjano odobrenje za peljarenje na jednom peljarskom području, dođe do privremenog ili stalnog povećanja broja brodova koji podliježu obveznom peljarenju, a koji prelaze trenutne mogućnosti obavljanja peljarenja od strane peljarskog društva s valjanim odobrenjem za to područje ili u drugim izvanrednim situacijama koje su privremenog ili povremenog karaktera, a nije izdano prethodno odobrenje iz članka 14. ovoga Pravilnika, Ministarstvo može privremenim rješenjem odrediti drugo peljarsko društvo za obavljanje peljarske usluge na području peljarskog područja za koje odobrenje posjeduje peljarsko društvo koje trenutno ne može ispuniti svoje obaveze sukladno odredbama Pomorskog zakonika i ovoga Pravilnika.
+(2) Rješenjem iz stavka 1. ovoga članka će se odrediti minimalni uvjeti koje peljarsko društvo mora ispunjavati tijekom privremenog obavljanja peljarskih usluga na dodijeljenom području.
+(3) Rješenje iz stavka 1. ovoga članka može se izdati na rok ne duži od jedne godine.
