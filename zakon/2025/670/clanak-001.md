@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o dobrovoljnim mirovinskim fondovima (»Narodne novine«, br. 19/14., 29/18., 115/18. i 156/23.) u članku 2. podstavak 7. mijenja se i glasi:
+» - Direktiva (EU) 2016/2341 Europskog parlamenta i Vijeća od 14. prosinca 2016. o djelatnostima i nadzoru institucija za strukovno mirovinsko osiguranje (SL L 354, 23. 12. 2016.) kako je posljednji put izmijenjena Direktivom (EU) 2022/2556 Europskog parlamenta i Vijeća od 14. prosinca 2022. o izmjeni direktiva 2009/65/EZ, 2009/138/EZ, 2011/61/EU, 2013/36/EU, 2014/59/EU, 2014/65/EU, (EU) 2015/2366 i (EU) 2016/2341 u pogledu digitalne operativne otpornosti za financijski sektor (SL L 333, 27. 12. 2022.)«.

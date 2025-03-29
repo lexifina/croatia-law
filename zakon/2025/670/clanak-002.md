@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 3. na kraju točke 67. briše se točka i dodaju se točke 68. i 69. koje glase:
+»68. mirovinsko društvo iz države članice OECD-a je pravna osoba sa sjedištem u državi članici OECD-a koja nije država članica Europske unije ili država potpisnica Ugovora o Europskom gospodarskom prostoru, a koja obavlja poslove upravljanja mirovinskim fondom na području Republike Hrvatske putem podružnice koja ima odobrenje Agencije
+69. Stručna radna skupina za financijsko djelovanje (engl. Financial Action Task Force, u daljnjem tekstu: FATF) je međudržavno tijelo osnovano sa zadaćom utvrđivanja standarda i promoviranja učinkovite implementacije postavljanja standarda i promicanja učinkovite provedbe zakonskih, regulatornih i operativnih mjera za sprječavanje pranja novca i financiranja terorizma na međunarodnoj razini.«.

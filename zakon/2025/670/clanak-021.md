@@ -1,0 +1,2 @@
+# Članak 21.
+U članku 160. stavku 3. iza riječi: »koja je jednakovrijedna individualnoj razini segregacije« dodaje se zarez i riječi: »ili iznimno, primjerenu razinu segregacije kada se radi o trećim zemljama u kojima obveze članova poravnanja nisu istovjetne ili usporedive s onima koje su propisane Uredbom (EU) 648/2012 ako mirovinsko društvo može dokazati da se time materijalno ne povećavaju rizici za imovinu fonda«.
