@@ -1,0 +1,7 @@
+## Obavijest o pokretanju postupka prodaje na javnoj dražbi
+# Članak 17.
+(1) O pokretanju postupka prodaje na javnoj dražbi radi uklanjanja ovlašteno tijelo koje vodi taj postupak obavijestit će nadležnu lučku kapetaniju koja je donijela rješenje o uklanjanju, vlasnika predmeta uklanjanja, hipotekarne vjerovnike, druge poznate nositelje založnih prava i osobnih služnosti te nositelje prava prvokupa (u daljnjem tekstu: založni ovlaštenici), koji su upisani u upisnik brodova do dana zabilježbe prodaje na javnoj dražbi, a ako zabilježba nije učinjena, tada one založne ovlaštenike koji su upisani u upisnik brodova do dana slanja poziva na usmenu javnu dražbu radi uklanjanja.
+(2) U obavijesti iz stavka 1. ovoga članka, ovlašteno tijelo koje vodi postupak prodaje na javnoj dražbi radi uklanjanja navest će kako vlasnik i založni ovlaštenici iz stavka 1. ovoga članka, imaju mogućnost sklapanja nagodbe u skladu s člankom 18. ovoga Pravilnika.
+(3) Dostava obavijesti iz stavka 1. ovoga članka obavlja se javnom objavom na mrežnim stranicama Ministarstva i ovlaštenog tijela koje vodi postupak prodaje na javnoj dražbi, stavljanjem na oglasnu ploču ovlaštenog tijela, objavom u najmanje jednim dnevnim novinama u Republici Hrvatskoj, a pored toga i na drugi prikladan način ako ovlašteno tijelo tako odluči.
+(4) Dostava se smatra obavljenom istekom osmoga dana od dana javne objave.
+(5) Obavijest iz stavka 1. ovoga članka može biti sadržana i u oglasu o prodaji na javnoj dražbi radi uklanjanja.
