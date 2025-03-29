@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 49. stavku 2. točka 13. mijenja se i glasi:
+»13. razumne mjere u svrhu kontinuiranog i redovitog obavljanja svojih poslova, uključujući razvoj planova za slučaj nepredviđenih okolnosti s primjerenim i razmjernim sustavima, resursima i postupcima te uspostavu mrežnih i informacijskih sustava kojima upravlja u skladu s pravilima za postizanje digitalne operativne otpornosti u smislu Uredbe (EU) 2022/2554 Europskog parlamenta i Vijeća od 14. prosinca 2022. o digitalnoj operativnoj otpornosti za financijski sektor i izmjeni uredbi (EZ) br. 1060/2009, (EU) br. 648/2012, (EU) br. 600/2014, (EU) br. 909/2014 i (EU) 2016/1011 (SL L 333, 27. 12. 2022.).«.
