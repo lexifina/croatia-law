@@ -1,0 +1,8 @@
+I.
+Na zaposlenike u sustavu osnovnog i srednjeg školstva te znanosti i visokog obrazovanja, koji sudjeluju u štrajku najavljenom Vladi Republike Hrvatske dopisom Nezavisnog sindikata zaposlenih u srednjim školama Hrvatske, Školskog sindikata Preporod te Nezavisnog sindikata znanosti i visokog obrazovanja, od 28. ožujka 2025., koji obuhvaća osnovnoškolske i srednjoškolske ustanove te ustanove iz područja znanosti i visokog obrazovanja kojima se sredstva za plaće osiguravaju u državnom proračunu, i dalje će se primjenjivati odredbe Odluke o umanjenju plaće i dodataka na plaću zaposlenicima u sustavu osnovnog i srednjeg školstva te znanosti i visokog obrazovanja za vrijeme sudjelovanja u štrajku (»Narodne novine«, broj 50/25.).
+II.
+Zaposlenicima iz točke I. ove Odluke umanjit će se plaća i dodaci na plaću razmjerno vremenu sudjelovanja u štrajku, a počevši od 1. travnja 2025., te će im se za cijelo vremensko razdoblje sudjelovanja u štrajku uplatiti obvezni doprinosi.
+III.
+Radi održivosti fiskalne politike u uređenju sustava plaća u javnom sektoru, zadužuje se Ministarstvo znanosti, obrazovanja i mladih da, u okviru svojih ovlaštenja, osigura provedbu članka 216. Zakona o radu (»Narodne novine«, br. 93/14., 127/17., 98/19., 151/22., 46/23. i 64/23. - Odluka Ustavnog suda Republike Hrvatske), na način da javnim ustanovama i drugim pravnim osobama u sustavu osnovnog i srednjeg školstva te znanosti i visokog obrazovanja kojima se sredstva za plaće osiguravaju iz državnog proračuna, dostavi odgovarajuću uputu o umanjenju plaće i dodataka na plaću zaposlenima razmjerno vremenu sudjelovanja u štrajku.
+IV.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
