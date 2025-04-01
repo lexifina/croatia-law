@@ -1,0 +1,1 @@
+Na temelju članka 3. stavka 9. Zakona o sudskom registru (»Narodne novine«, broj 1/95., 57/96., 1/98., 30/99., 45/99., 54/05., 40/07., 91/10., 90/11., 148/13., 93/14., 110/15., 40/19., 34/22. i 123/23.), ministar nadležan za poslove pravosuđa donosi
