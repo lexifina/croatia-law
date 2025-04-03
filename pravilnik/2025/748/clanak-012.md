@@ -1,0 +1,4 @@
+## VI. SADRŽAJ I NAČIN VOĐENJA REGISTRA O POTENCIJALNIM POSVOJITELJIMA I POSVOJENJIMA
+# Članak 12.
+(1) Hrvatski zavod za socijalni rad dužan je, u roku osam dana od dana dostave pozitivnog stručnog mišljenja o podobnosti i prikladnosti za posvojenje potencijalnih posvojitelja, upisati potencijalne posvojitelje u registar potencijalnih posvojitelja iz članka 13. ovog Pravilnika.
+(2) Hrvatski zavod za socijalni rad dužan je u roku osam dana od dana zaprimanja obavijesti Središnjeg tijela Republike Hrvatske za provedbu Haške konvencije o zaštiti djece i suradnji u vezi s međudržavnim posvojenjem iz 1993. (»Narodne novine - Međunarodni ugovori«, br. 7/13., u daljnjem tekstu: Konvencija) i stručnog mišljenja o podobnosti i prikladnosti za posvojenje potencijalnih posvojitelja iz druge države ugovornice Konvencije, upisati potencijalne posvojitelje u registar potencijalnih posvojitelja iz članka 13. ovoga Pravilnika.

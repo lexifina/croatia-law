@@ -1,0 +1,1 @@
+Na temelju članka 204. stavka 4. Obiteljskog zakona (»Narodne novine«, br. 103/15., 98/19., 47/20., 49/23. - Odluka Ustavnog suda Republike Hrvatske i 156/23.), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi

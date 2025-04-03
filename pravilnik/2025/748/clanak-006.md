@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Kada se osobe koje žele posvojiti dijete (u daljnjem tekstu: podnositelji zahtjeva) obrate područnoj jedinici Hrvatskog zavoda za socijalni rad nadležnoj prema mjestu svojeg prebivališta, odnosno boravišta pisanom prijavom namjere posvojenja i zahtjevom za izdavanje mišljenja o podobnosti i prikladnosti za posvojenje, bit će odmah informirani o postupku posvojenja i zakonskim pretpostavkama za posvojenje te upoznati sa svrhom i značajem posvojenja, pravnim učincima posvojenja te pravima i dužnostima u odnosu roditelja i djece.
+(2) Informiranje se vrši putem pisanih materijala i kroz razgovor sa stručnim radnikom - pravnikom.
+(3) Podnositelji zahtjeva su po potrebi dužni osigurati prijevod svih stranih dokumenata po sudskom tumaču na hrvatski jezik te ako ne razumiju i ne govore hrvatski jezik, osigurati simultano prevođenje tijekom čitavog postupka za izdavanje mišljenja o podobnosti i prikladnosti za posvojenje.
