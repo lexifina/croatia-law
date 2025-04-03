@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 11.
+(1) Pravne osobe koje su ovlaštene za energetsko certificiranje i energetski pregled zgrade na temelju Zakona o gradnji (»Narodne novine«, broj 153/13, 20/17, 39/19, 125/19) imaju pravo za vrijeme važenja ovlaštenja zatražiti izdavanje Potvrde temeljem Pravilnika o uvjetima i načinu izdavanja potvrde hrvatskim državljanima i pravnim osobama za ostvarivanje prava pružanja usluga regulirane profesije energetskog certificiranja i energetskog pregleda zgrade u državama ugovornicama Ugovora o Europskom ekonomskom prostoru (»Narodne novine« broj 47/14).
+(2) Potvrda iz stavka 1. ovoga članka izdaje se s rokom važenja do 31. prosinca 2025., kada se pravnim osobama po sili zakona ukida ovlaštenje, ili do isteka važenja ovlaštenja za energetsko certificiranje i energetski pregled zgrade ukoliko istječe prije navedenog datuma.

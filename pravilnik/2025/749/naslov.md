@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu izdavanja potvrde hrvatskim državljanima i pravnim osobama za ostvarivanje prava pružanja usluga regulirane profesije energetskog certificiranja i energetskog pregleda zgrade u državama ugovornicama ugovora o europskom ekonomskom prostoru
