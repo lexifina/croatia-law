@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o državnim potporama (»Narodne novine«, br. 47/14. i 69/17.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 3. travnja 2025. donijela
