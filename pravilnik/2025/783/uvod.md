@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 9. i članka 31. stavka 8. Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, br. 75/13, 36/15, 46/17 i 152/22) ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
