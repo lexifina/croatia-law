@@ -1,0 +1,2 @@
+Zatvara se Konzulat Republike Hrvatske u Republici Filipinima, sa sjedištem u Manili, na čelu s počasnim konzulom i konzularnim ovlastima nad konzularnim područjem koje obuhvaća Luzon s regijama: Metro Manila, Administrativna regija Cordillera, Ilocos, Cagayan Valley, Središnji Luzon, Calabarzon, Mimaropa, Bicol; Visayas s regijama: Zapadni i Istočni Visayas te Mindanao s regijama: Poluotok Zamboanga, Sjeverni Mindanao, Davao, Soccksargen, Caraga i Autonomna regija Muslimanski Mindanao.
+Ova Odluka stupa na snagu danom donošenja.
