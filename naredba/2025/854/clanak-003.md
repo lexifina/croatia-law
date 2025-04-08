@@ -1,0 +1,2 @@
+# Članak 3.
+Prijemljive životinje iz pošiljaka podrijetlom iz država Mađarske i Slovačke upućenih prije stupanja na snagu zabrane iz članka 1. ove Naredbe, obvezno podliježu dokumentacijskom, identifikacijskom i fizičkom pregledu na odredištu od strane ovlaštenog veterinara nadležnog delegiranog tijela, a za objekte odredišta, osim odobrenih objekata za klanje, određuje se minimalno razdoblje praćenja od 21 dan.

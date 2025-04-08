@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Mjere određene ovom Naredbom podliježu izmjeni ovisno o procijenjenom riziku te ostaju na snazi sve dok traje opasnost od unosa virusa slinavke i šapa i kuge malih preživača na područje Republike Hrvatske.
+(2) Na objektima na kojima su zabrane premještanja uvedene sukladno Naredbi o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa i kuge malih preživača u Republici Hrvatskoj (»Narodne novine«, br. 58/25) te u slučaju pošiljaka prijemljivih životinja upućenih prije stupanja na snagu ove Naredbe razdoblje praćenja iz članka 4. ove Naredbe je 21 dan računajući od dana dopreme posljednje pošiljke na odnosni objekt.
