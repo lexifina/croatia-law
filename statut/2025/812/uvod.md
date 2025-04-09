@@ -1,0 +1,1 @@
+Na temelju članka 6. i članka 10. stavka 6. točke 1. Zakona o Hrvatskoj poljoprivrednoj komori (»Narodne novine« broj 61/18 i 114/22), Skupština Hrvatske poljoprivredne komore na 7. sjednici održanoj 17. prosinca 2024. godine donijela je
