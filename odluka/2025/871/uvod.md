@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i članka 2. stavka 1. Uredbe o Uredu predsjednika Republike Hrvatske po prestanku obnašanja dužnosti (»Narodne novine«, broj 19/20.), Vlada Republike Hrvatske je na sjednici održanoj 10. travnja 2025. donijela
