@@ -1,0 +1,9 @@
+# Članak 83.
+Sektor za financije koordinira pripremu i izradu strateških i financijskih planskih dokumenata Ministarstva i ustanova socijalne skrbi u nadležnosti Ministarstva; izrađuje obrazloženje financijskog plana, prikuplja, obrađuje i analizira financijske pokazatelje poslovanja; pruža stručnu pomoć unutarnjim ustrojstvenim jedinicama u vezi s planiranjem i trošenjem sredstava; priprema i izrađuje mjerila i kriterije za financiranje decentraliziranih funkcija u sustavu socijalne skrbi; koordinira razvoj financijskog upravljanja i sustava unutarnjih kontrola, provođenje samoprocjene sustava unutarnjih kontrola i pripremu Izjave o fiskalnoj odgovornosti u Ministarstvu i ustanovama socijalne skrbi iz nadležnosti Ministarstva; prati provođenje izvršavanja financijskih planova proračunskih korisnika u nadležnosti Ministarstva; obavlja poslove područne riznice za ustanove socijalne skrbi; obavlja računsku i suštinsku kontrolu računa prije isplate i vodi blagajničko poslovanje; obavlja obračun i isplatu plaća i naknada za Ministarstvo; prati izvršenje EU projekata u nadležnosti Ministarstva; vodi knjigovodstvene evidencije financijskog i materijalnog poslovanja; osigurava čuvanje, pohranu i dostupnost dokumenata i evidencija iz svoje nadležnosti radi osiguravanja odgovarajućeg revizijskog traga te obavlja druge poslove u okviru svog djelokruga.
+U Sektoru za financije ustrojavaju se:
+7.1.1. Služba za strateško planiranje i sustav unutarnjih kontrola
+7.1.2. Služba za financijsko planiranje i decentralizirane funkcije
+7.1.3. Služba za izvršavanje financijskih planova ustanova i provedbu ugovora za pružanje socijalnih usluga
+7.1.4. Služba za likvidaturu i platni promet
+7.1.5. Služba za praćenje izvršenja EU projekata i knjigovodstvo.
+7.1.1. Služba za strateško planiranje i sustav unutarnjih kontrola

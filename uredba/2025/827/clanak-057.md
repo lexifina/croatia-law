@@ -1,0 +1,3 @@
+# Članak 57.
+Odjel za odobravanje poziva iz područja socijalnog uključivanja obavlja stručne i administrativne poslovne procese vezane uz koordinaciju pripreme, provjeru kvalitete, kontrolu i odobrenje postupaka dodjele bespovratnih sredstava u području socijalnog uključivanja i socijalnih inovacija u okviru programa u nadležnosti Uprave. Sudjeluje u postupku izrade i izmjena kriterija odabira i metodologije odabira operacija, surađuje s drugim unutarnjim ustrojstvenim jedinicama, kao i drugim relevantnim tijelima te obavlja i druge poslove u okviru svog djelokruga.
+6.2.2.2. Odjel za odobravanje poziva iz područja zdravstva i materijalne deprivacije

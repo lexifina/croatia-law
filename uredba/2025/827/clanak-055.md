@@ -1,0 +1,3 @@
+# Članak 55.
+Odjel za odobravanje poziva iz područja obrazovanja obavlja stručne i administrativne poslovne procese vezane uz koordinaciju pripreme, provjeru kvalitete, kontrolu i odobrenje postupaka dodjele bespovratnih sredstava u području obrazovanja u okviru programa u nadležnosti Uprave. Sudjeluje u postupku izrade i izmjena kriterija odabira i metodologije odabira operacija, surađuje s drugim unutarnjim ustrojstvenim jedinicama, kao i drugim relevantnim tijelima te obavlja i druge poslove u okviru svog djelokruga.
+6.2.2. Služba za odobravanje poziva iz područja socijalnog uključivanja i zdravstva

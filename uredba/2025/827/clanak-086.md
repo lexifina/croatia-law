@@ -1,0 +1,7 @@
+# Članak 86.
+Služba za izvršavanje financijskih planova ustanova i provedbu ugovora za pružanje socijalnih usluga prati provođenje izvršavanja financijskih planova ustanova socijalne skrbi u nadležnosti Ministarstva; prati namjensko trošenje sredstava; provjerava ispravnost zahtjeva za isplatu i raspoloživa sredstva u riznici; nadzire ostvarenje i trošenje namjenskih prihoda i primitaka ustanova socijalne skrbi; obavlja poslove područne riznice za ustanove socijalne skrbi u nadležnosti Ministarstva; prikuplja, obrađuje i prati, te kontrolira i ovjerava dokumentaciju koja potvrđuje izvršenje ugovorenih usluga po sklopljenim ugovorima za pružanje usluga u djelatnosti socijalne skrbi; provodi kontrolu izvršenja ugovorenih socijalnih usluga na licu mjesta; prati izvršenja državnog proračuna prikupljanjem, kontroliranjem i obrađivanjem zahtjeva za plaćanje s jedinstvenog računa riznice; izvršava zahtjeve za plaćanje za objedinjenu nabavu; ovjerava da je rashod opravdan i sukladan ugovoru te prosljeđuje dokumentaciju na izvršenje, osigurava čuvanje, pohranu i dostupnost dokumenata i evidencija iz svoje nadležnosti radi osiguravanja odgovarajućeg revizijskog traga te obavlja i druge poslove iz svog djelokruga.
+U Službi za izvršavanje financijskih planova ustanova i provedbu ugovora za pružanje socijalnih usluga ustrojavaju se:
+7.1.3.1. Odjel za izvršavanje financijskih planova ustanova socijalne skrbi
+7.1.3.2. Odjel za provedbu ugovora za pružanje socijalnih usluga.
+7.1.3.1. Odjel za izvršavanje financijskih planova ustanova
+socijalne skrbi

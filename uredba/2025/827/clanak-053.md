@@ -1,0 +1,6 @@
+# Članak 53.
+Služba za odobravanje poziva iz područja tržišta rada i obrazovanja obavlja stručne i administrativne poslove vezane za pripremu i provedbu postupaka dodjele bespovratnih sredstava i ostvarenje ciljeva programa u nadležnosti Uprave, koordinira, upravlja i kontrolira poslovne procese u Službi, sudjeluje u poslovnim procesima vezanim za upravljanje i unaprjeđenje procedura u okviru poziva iz područja tržišta rada i obrazovanja. Provodi kvalitativnu kontrolu kako bi se osigurala usklađenost s ciljevima programa i metodologijama te osigurava postizanje pokazatelja pojedinih specifičnih ciljeva/prioriteta kao i koordiniranje i nadzor njihove provedbe. Služba odobrava natječajnu dokumentaciju za dodjelu bespovratnih sredstava u području tržišta rada i obrazovanja u okviru programa u nadležnosti Uprave. Aktivno sudjeluje u izradi, izmjenama i dopunama kriterija odabira i metodologije odabira operacija, surađuje s drugim unutarnjim ustrojstvenim jedinicama, kao i drugim relevantnim tijelima te obavlja i druge poslove u okviru svog djelokruga.
+U Službi za odobravanje poziva iz područja tržišta rada i obrazovanja ustrojavaju se:
+6.2.1.1. Odjel za odobravanje poziva iz područja tržišta rada
+6.2.1.2. Odjel za odobravanje poziva iz područja obrazovanja.
+6.2.1.1. Odjel za odobravanje poziva iz područja tržišta rada

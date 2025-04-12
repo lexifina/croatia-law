@@ -1,0 +1,3 @@
+# Članak 48.
+Služba za pripremu poziva iz područja tržišta rada obavlja stručne i administrativne poslove koji se odnose na koordinaciju i planiranje vezano uz pripremu i provedbu poziva iz područja zapošljavanja i ulaganja iz tržišta rada, surađuje s drugim unutarnjim ustrojstvenim jedinicama, priprema bazu operacija za financiranje, kriterije za odabir operacija i natječajnu dokumentaciju. Služba priprema i provjerava kvalitetu natječajne dokumentacije za pozive na dostavu projektnih prijedloga iz područja tržišta rada u okviru programa u nadležnosti Uprave, objavljuje ih te obavlja i druge poslove u okviru svog djelokruga.
+6.1.2. Služba za pripremu poziva iz područja socijalnoga uključivanja

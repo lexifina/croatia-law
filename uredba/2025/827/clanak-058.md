@@ -1,0 +1,3 @@
+# Članak 58.
+Odjel za odobravanje poziva iz područja zdravstva i materijalne deprivacije obavlja stručne i administrativne poslovne procese vezane uz koordinaciju pripreme, provjeru kvalitete, kontrolu i odobrenje postupaka dodjele bespovratnih sredstava u području zdravstva i materijalne deprivacije u okviru programa u nadležnosti Uprave. Sudjeluje u postupku izrade i izmjena kriterija odabira i metodologije odabira operacija, surađuje s drugim unutarnjim ustrojstvenim jedinicama, kao i drugim relevantnim tijelima te obavlja i druge poslove u okviru svog djelokruga.
+6.2.3. Služba za analizu i upravljanje projektima

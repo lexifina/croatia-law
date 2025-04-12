@@ -1,0 +1,3 @@
+# Članak 50.
+Odjel za pripremu poziva za pružanje socijalnih usluga obavlja stručne i administrativne poslove vezane uz koordinaciju i planiranje poziva na dostavu projektnih prijedloga, pripremu natječajne dokumentacije za odobrenje, osigurava kvalitetu natječajne dokumentacije te objavljuje pozive na dostavu projektnih prijedloga iz područja poboljšanja dostupnosti i kvalitete usluga socijalne skrbi i socijalne zaštite u okviru programa iz nadležnosti Uprave. Odjel surađuje s drugim unutarnjim ustrojstvenim jedinicama, sudjeluje u odborima za ocjenjivanje te obavlja i druge poslove u okviru svog djelokruga.
+6.1.2.2. Odjel za pripremu poziva za aktivno uključivanje i suzbijanje materijalne deprivacije
