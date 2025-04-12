@@ -1,0 +1,6 @@
+# Članak 17.
+(1) Nadležno tijelo će iz redova svojih službenika, odnosno zaposlenika, odlukom imenovati Povjerenstvo za provedbu svakog pojedinog postupka javnog natječaja, koje mora imati neparan broj članova, i to najmanje tri člana, od kojih se jedan član imenuje predsjednikom Povjerenstva.
+(2) U Povjerenstvo iz stavka 1. ovoga članka, po ocjenjenoj potrebi mogu se imenovati i službenici drugih tijela državne uprave te službenici i predstavnici tijela jedinica lokalne ili područne (regionalne) samouprave.
+(3) Povjerenstvo iz stavka 1. ovoga članka provodi postupak javnog natječaja, vrši ocjenu i pregled ponuda i prijava, sastavlja zapisnik o provedenom javnom natječaju te predlaže donošenje Odluke o odabiru najpovoljnijeg ponuditelja i o raspolaganju nekretninom.
+(4) O postupku javnog natječaja vodi se zapisnik u koji se unose svi podaci o načinu i tijeku postupka te ga potpisuju predsjednik i članovi Povjerenstva.
+(5) Povjerenstvo iz stavka 1. ovoga članka će zapisnik o provedenom javnom natječaju, zajedno s prijedlogom odluke o odabiru najpovoljnijeg ponuditelja dostaviti gradonačelniku, županu, ministru ili ovlaštenoj osobi društva Državne nekretnine d. o. o. koji će odlučiti o prijedlogu.

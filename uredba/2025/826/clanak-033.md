@@ -1,0 +1,15 @@
+# Članak 33.
+(1) Uz zahtjev za raspolaganje nekretninama neposrednom pogodbom iz članka 30. stavka 1. podstavka 3. ove Uredbe pored dokumentacije iz članka 3. ove Uredbe podnositelj zahtjeva je dužan dostaviti:
+- dokaz da je osoba ili pravni slijednik osobe koja je ishodila rješenje o izvedenom stanju zgrade koja je ozakonjena sukladno posebnom propisu kojim se uređuje postupanje s nezakonito izgrađenim zgradama ujedno i graditelj ili pravni slijednik graditelja te ozakonjene zgrade za koju je utvrđena građevna čestica i
+- pravomoćno i izvršno rješenje o izvedenom stanju zgrade koja je ozakonjena sukladno posebnom propisu, sa svim propisanim sastavnim dijelovima tog rješenja i
+- pravomoćno i izvršno rješenje o utvrđivanju građevne čestice, doneseno sukladno posebnom propisu i
+- geodetski elaborat izrađen na temelju rješenja o utvrđivanju građevne čestice za koji je upravno tijelo za poslove prostornog uređenja i gradnje ili nadležno Ministarstvo izdalo potvrdu o njegovoj usklađenosti s tim rješenjem, odnosno planom u skladu s kojim je izrađen ukoliko posebnim propisom nije drugačije određeno te koji treba biti potvrđen od strane nadležnog ureda za katastar i
+- javnobilježnički ovjerenu izjavu podnositelja zahtjeva kojom isti pod materijalnom i kaznenom odgovornošću izjavljuje da je ozakonjeni objekt građen od strane podnositelja zahtjeva odnosno njegovog pravnog prednika.
+(2) Nadležno tijelo je dužno izvršiti očevid na terenu u cilju utvrđenja da li ozakonjena zgrada svojim izgledom i položajem u prostoru narušava vizuru krajolika, prostora, prirodu ili zaštićene spomenike kulture te može po potrebi zatražiti mišljenje nadležnih tijela državne uprave o tim činjenicama.
+(3) Nadležno tijelo neće raspolagati nekretninom temeljem članka 30. stavka 1. podstavka 3. ove Uredbe:
+- ako iz pribavljene dokumentacije proizlazi da je zgrada izgrađena i ozakonjena izvan građevinskog područja, i/ili
+- ako je ta zgrada na dan 21. lipnja 2011. na snimci DOF5/2011 u naravi predstavljala drveni objekt, i/ili
+- ako je ozakonjena zgrada u vrijeme kada je građena, bila u cijelosti izgrađena na šumskom ili poljoprivrednom zemljištu i/ili
+- ako utvrdi da ozakonjena zgrada svojim izgledom i položajem u prostoru narušava vizuru krajolika, prostora, prirodu ili zaštićene spomenike kulture i/ili
+- ako utvrdi da utvrđena građevna čestica za ozakonjenu zgradu okrnjuje i bitno umanjuje vrijednost preostalog dijela nekretnine u vlasništvu Republike Hrvatske.
+(4) U slučajevima iz stavka 3. ovoga članka, kao i u drugim slučajevima kada se utvrdi da nije moguće raspolagati neposrednom pogodbom temeljem članka 30. stavka 1. podstavka 3. ove Uredbe, osoba ili pravni slijednik osobe koja je ishodila rješenje o izvedenom stanju zgrade ozakonjene po posebnom propisu kojim se uređuje postupanje s nezakonito izgrađenim zgradama dužna je platiti naknadu za korištenje građevinskog zemljišta na kojem je izgrađena ozakonjena zgrada prema procjeni ovlaštene osobe iz članka 5. ove Uredbe, i to za cijelo razdoblje korištenja nekretnine.

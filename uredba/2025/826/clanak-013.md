@@ -1,0 +1,6 @@
+# Članak 13.
+(1) Prodaja nekretnina putem javnog natječaja može se provoditi u obliku:
+- javnog prikupljanja ponuda koje se provodi kao javni poziv upućen neodređenom krugu osoba za dostavu pisanih ponuda ili za dostavu ponuda putem elektroničkih sredstava komunikacije za raspolaganje ponuđenim nekretninama ili
+- javnog nadmetanja koje se provodi kao javni poziv upućen neodređenom krugu osoba koje će putem usmene javne dražbe ili putem elektroničke dražbe iskazati interes za raspolaganje ponuđenim nekretninama.
+(2) Javni poziv za javno prikupljanje ponuda i javno nadmetanje radi prodaje nekretnine nadležno tijelo objavljuje u jednom od visokotiražnih dnevnih listova, na mrežnoj stranici nadležnog tijela, na mrežnoj stranici Ministarstva i na mrežnoj stranici Hrvatske gospodarske komore.
+(3) Objava javnog poziva iz stavka 2. ovoga članka u visokotiražnom dnevnom listu može biti u skraćenom obliku na način da sadrži osnovne podatke za identifikaciju nekretnine, početnu cijenu nekretnine, jamčevinu i visinu naknade za izdvajanje nekretnine iz šumskogospodarskog područja, kao i obavijest da se cjeloviti javni poziv sa svim detaljima i uvjetima nalazi na mrežnoj stranici nadležnog tijela, Ministarstva i Hrvatske gospodarske komore.

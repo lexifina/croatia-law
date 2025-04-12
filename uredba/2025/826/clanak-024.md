@@ -1,0 +1,6 @@
+# Članak 24.
+(1) Sustavu javnog nadmetanja putem elektroničke javne dražbe pristupa se prijavom u IRN - modul natječaji, putem vjerodajnice visoke razine sigurnosti i to elektroničke osobne iskaznice Republike Hrvatske s kvalificiranim osobnim digitalnim certifikatom ili odgovarajućim poslovnim certifikatom, i to u roku koji je određen javnim pozivom za javno nadmetanje, a koji iznosi najmanje 30 dana od dana objave poziva u visokotiražnom dnevnom listu.
+(2) Prijavitelji su se dužni pridržavati pravila javnog nadmetanja propisanih ovom Uredbom i uvjeta objavljenih u pozivu za javno nadmetanje.
+(3) U svrhu sudjelovanja na elektroničkoj javnoj dražbi prijavitelj je dužan podnijeti prijavu za sudjelovanje u elektroničkoj javnoj dražbi uz prilaganje odgovarajuće dokumentacije, potvrđivanja odgovarajućih izjava i uplate odgovarajuće jamčevine sukladno uvjetima propisanim u javnom pozivu.
+(4) Nakon što Povjerenstvo iz članka 17. stavka 1. ove Uredbe evaluira zaprimljene prijave, priležeću dokumentacije i uplaćene jamčevine te utvrdi valjanost prijave, prijavitelj će u korisnički pretinac zaprimiti obavijest o tome da li ispunjava ili ne ispunjava uvjete za sudjelovanje na elektroničkoj javnoj dražbi.
+(5) Povjerenstvo iz članka 17. stavka 1. ove Uredbe dužno je evaluirati zaprimljene prijave iz stavka 1. ovoga članka u roku od najduže osam radnih dana.

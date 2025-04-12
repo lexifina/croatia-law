@@ -1,0 +1,9 @@
+## DIO ŠESTI
+## RAZVRGNUĆE SUVLASNIČKE ZAJEDNICE
+# Članak 46.
+(1) Suvlasnička zajednica nekretnina između Republike Hrvatske i trećih osoba može se razvrgnuti geometrijskom diobom, isplatom po tržišnoj cijeni te na druge načine propisane zakonom kojim se uređuje vlasništvo i druga stvarna prava.
+(2) Odluku o razvrgnuću i načinu razvrgnuća donosi nadležno tijelo sukladno odredbama Zakona, ovisno o vrijednosti suvlasničkog dijela nekretnine Republike Hrvatske, a ugovor o razvrgnuću u ime Republike Hrvatske sklapa gradonačelnik kada odluku o raspolaganju nekretninom donosi gradonačelnik, odnosno gradsko vijeće, župan kada odluku o raspolaganju donosi župan, odnosno županijska skupština, ovlaštena osoba društva Državne nekretnine d. o. o. kada odluku o raspolaganju donosi društvo Državne nekretnine d. o. o., a ministar kada odluku o raspolaganju donosi ministarstvo, odnosno Vlada Republike Hrvatske, ako odlukom o razvrgnuću nije drukčije određeno.
+(3) Prije donošenja odluke nadležnog tijela iz stavka 2. ovoga članka izrađuje se procjembeni elaborat kojim se utvrđuje tržišna vrijednost nekretnine u skladu s odredbom članka 5. ove Uredbe.
+(4) Suvlasnička zajednica nekretnina između Republike Hrvatske i trećih osoba razvrgnut će se geometrijskom diobom nekretnine kad je to moguće i samo ako je cijela nekretnina sukladno važećoj prostornoplanskoj dokumentaciji iste vrste i namjene.
+(5) Suvlasnička zajednica nekretnina iz stavka 1. ovoga članka može se razvrgnuti isplatom po tržišnoj cijeni i u slučajevima kad je geometrijska dioba moguća ili se ne radi o slučajevima razvrgnuća obvezatnom isplatom propisanom zakonom, ako nadležno tijelo ocijeni da je to gospodarski opravdano za Republiku Hrvatsku.
+(6) Ako dva ili više suvlasnika iste nekretnine iskažu interes za stjecanje suvlasničkog dijela Republike Hrvatske na toj nekretnini, Republika Hrvatska će raspolagati svojim suvlasničkim dijelom putem javnog natječaja.

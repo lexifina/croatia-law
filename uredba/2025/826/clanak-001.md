@@ -1,0 +1,22 @@
+## REPUBLIKE HRVATSKE
+## DIO PRVI
+## OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom uređuju se postupci raspolaganja nekretninama u vlasništvu Republike Hrvatske u svrhu prodaje, razvrgnuća suvlasničke zajednice, zamjene, davanja u zakup ili najam, a kojima sukladno odredbama Zakona o upravljanju nekretninama i pokretninama u vlasništvu Republike Hrvatske (»Narodne novine«, broj 155/23., u daljnjem tekstu: Zakon) raspolažu županije, gradovi sjedišta županije, veliki gradovi, društvo Državne nekretnine d.o.o., ministarstvo nadležno za državnu imovinu (u daljnjem tekstu: Ministarstvo) i Vlada Republike Hrvatske te postupci u vezi sa stjecanjem nekretnina i drugih stvarnih prava u korist Republike Hrvatske.
+(2) Odredbe ove Uredbe ne primjenjuju se na postupke davanja u zakup i kupoprodaju poslovnih prostora propisanim zakonom kojim se uređuje zakup i kupoprodaja poslovnog prostora.
+(3) Nekretnine u vlasništvu Republike Hrvatske (u daljnjem tekstu: nekretnine) na koje se primjenjuje ova Uredba su neizgrađeno građevinsko zemljište, građevine sa zemljištem za redovitu uporabu te građevine, stanovi i poslovni prostori, kamp, neprocijenjeno građevinsko zemljište, nekretnine pod posebnim načinom upravljanja, nekretnine od strateškog značaja za Republiku Hrvatsku, a na kojima je uspostavljeno vlasništvo Republike Hrvatske.
+(4) Neizgrađenim građevinskim zemljištem smatra se neizgrađeno građevinsko zemljište na kojem je uspostavljeno vlasništvo Republike Hrvatske, pod uvjetom da pravo upravljanja nije posebnim zakonom ili drugim aktom povjereno drugom tijelu.
+(5) Građevinom sa zemljištem za redovitu uporabu te građevine smatra se:
+- građevina izgrađena na nekretnini na kojoj je uspostavljeno vlasništvo Republike Hrvatske, na temelju ili bez odgovarajućeg akta gradnje, odnosno za koju je ishođeno rješenje o izvedenom stanju, s pripadajućim zemljištem za redovitu uporabu te građevine, a koja u naravi ne predstavlja stan ili poslovni prostor
+- ruševina i napuštena građevina, s pripadajućim zemljištem za redovitu uporabu tih građevina, je građevina izgrađena na nekretnini na kojoj je uspostavljeno vlasništvo Republike Hrvatske i koja je izgubila svoju prvotnu namjenu i više se ne koristi.
+(6) Stanovima i poslovnim prostorima, smatraju se:
+- stanovi
+- poslovni prostori
+- drugi posebni dijelovi nekretnina koji predstavljaju samostalnu uporabnu prostoriju,
+- druge stambene jedinice koje predstavljaju kuće u nizu i druge kuće u kojima se nalazi samo jedan ili više posebnih dijelova koji služe za stanovanje, u naravi stanovi
+a na kojima je uspostavljeno vlasništvo Republike Hrvatske, zajedno sa zemljištem nužnim za redovitu uporabu zgrade.
+(7) Kampom se smatra zemljište na kojem se nalazi kamp, a na kojem je uspostavljeno vlasništvo Republike Hrvatske, neovisno o tome nalazi li se u građevinskom području, na poljoprivrednom zemljištu odnosno u šumi ili na šumskom zemljištu u vlasništvu Republike Hrvatske, pri čemu se zemljištem na kojem se nalazi kamp, u smislu ovoga Zakona, smatraju i nekretnine koje su tako definirane propisom kojim se uređuje neprocijenjeno građevinsko zemljište.
+(8) Nekretninom od strateškog značaja za Republiku Hrvatsku smatra se nekretnina od čije se uporabe, korištenja ili raspolaganja može očekivati značajna korist za Republiku Hrvatsku i nekretnine koje služe za ispunjenje obveza Republike Hrvatske, a koje su Odlukom Vlade Republike Hrvatske utvrđene nekretninama od strateškog značaja za Republiku Hrvatsku.
+(9) Nekretninom pod posebnim načinom upravljanja smatra se nekretnina koja je postala vlasništvo Republike Hrvatske na temelju Uredbe o zabrani raspolaganja i preuzimanju sredstava određenih pravnih osoba na teritoriju Republike Hrvatske (»Narodne novine«, broj 40/92.), odnosno Zakona o zabrani raspolaganja i preuzimanju sredstava određenih pravnih osoba na teritoriju Republike Hrvatske (»Narodne novine«, br. 29/94. i 35/94.) i nekretnina koje su pod zabranom raspolaganja na temelju Uredbe o zabrani raspolaganja nekretninama na teritoriju Republike Hrvatske (»Narodne novine«, broj 36/91.)
+(10) Neprocijenjenim građevinskim zemljištem smatra se nekretnina koja je neprocijenjeno građevinsko zemljište, u smislu zakona kojim se uređuje neprocijenjeno građevinsko zemljište i na kojoj je uspostavljeno vlasništvo Republike Hrvatske.
+(11) Nadležno tijelo u smislu ove Uredbe je tijelo koje sukladno članku 12. stavcima 1. i 2. Zakona upravlja, odnosno kojemu su povjereni poslovi upravljanja nekretninama.
