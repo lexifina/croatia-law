@@ -1,0 +1,1 @@
+Na temelju članka 140. stavka 1. Zakona o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13., 148/13., 153/13., 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24. i 52/25.), ministar financija donosi
