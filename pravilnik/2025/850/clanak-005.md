@@ -1,0 +1,3 @@
+# Članak 5.
+(1) U postupku odobravanja objekta za obavljanje više različitih djelatnosti koje podliježu odobravanju u skladu s propisom kojim se uređuju službene kontrole, ukoliko se jedna od djelatnosti odobrava uz mjere prilagodbe propisane ovim Pravilnikom, sve ostale djelatnosti moraju se također odobriti u skladu s mjerama prilagodbe iz ovoga Pravilnika, odnosno objekt se kao cjelina odobrava kao objekt malog kapaciteta.
+(2) U objektima u kojima se obavlja više djelatnosti iz članka 4. stavka 1. podstavka 2., točaka 5., 6., 8., 9., 10., 11. i 15. ovoga Pravilnika, ukupna količina ulazne sirovine ne smije prelaziti 5.000 kilograma tjedno.

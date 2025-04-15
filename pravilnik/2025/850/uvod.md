@@ -1,0 +1,1 @@
+Na temelju članka 7. stavaka 3., 4. i 5. Zakona o higijeni hrane i mikrobiološkim kriterijima za hranu (»Narodne novine«, broj 83/22), ministar poljoprivrede, šumarstva i ribarstva, uz prethodnu suglasnost glavnog državnog inspektora, donosi

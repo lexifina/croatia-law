@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Garderobni i sanitarni prostor za radnike, prostor za skladištenje ambalaže te prostor za sredstva za čišćenje i dezinfekciju objekta može biti dislociran od radnog dijela ako se nalazi unutar kruga objekta, uz uvjet da radnici imaju osiguran ulaz u objekt u kojem je moguće izvršiti dezinfekciju obuće i higijensko pranje ruku,
+(2) U objektima koji su smješteni u istom krugu gdje je i privatni stambeni objekt, kao garderobni i sanitarni prostor može se koristiti privatni prostor koji je smješten u krugu objekta, uz uvjet da radnici imaju osiguran ulaz u objekt u kojem je moguće izvršiti dezinfekciju obuće i higijensko pranje ruku.
