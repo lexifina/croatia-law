@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 13. i članka 78. stavka 4. Zakona o održivoj uporabi pesticida (»Narodne novine«, broj 46/22) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23) ministar poljoprivrede, šumarstva i ribarstva uz prethodnu suglasnost ministra nadležnog za europske poslove, donosi
