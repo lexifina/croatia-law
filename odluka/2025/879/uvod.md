@@ -1,0 +1,1 @@
+Na temelju članka 5. i članka 6. stavka 1. Zakona o lokalnim izborima (»Narodne novine«, br. 144/12., 121/16., 98/19., 42/20., 144/20. i 37/21.), Vlada Republike Hrvatske je na sjednici održanoj 14. travnja 2025. donijela
