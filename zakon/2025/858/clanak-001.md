@@ -1,0 +1,12 @@
+# Članak 1.
+U Zakonu o tržištu toplinske energije (»Narodne novine«, br. 80/13., 14/14., 102/14., 95/15., 76/18. i 86/19.) članak 2. mijenja se i glasi:
+»(1) Ovim se Zakonom u pravni poredak Republike Hrvatske prenose sljedeće direktive:
+- Direktiva 2009/28/EZ Europskog parlamenta i Vijeća od 23. travnja 2009. o promicanju uporabe energije iz obnovljivih izvora energije i dopuni te naknadnom ukidanju Direktive 2001/77/EZ i Direktive 2003/30/EZ (SL L 140, 5. 6. 2009.),
+- Direktiva 2010/31/EU Europskog parlamenta i Vijeća od 19. svibnja 2010. o energetskim svojstvima zgrada (preinaka) (SL L 153, 18. 6. 2010.),
+- Direktiva 2012/27/EU Europskog parlamenta i Vijeća od 25. listopada 2012. o energetskoj učinkovitosti kojom se dopunjuju direktive 2009/125/EZ i 2010/30/EU i ukidaju direktive 2004/8/EZ i 2006/32/EZ (SL L 315, 14. 11. 2012.),
+- Direktiva (EU) 2023/1791 Europskog parlamenta i Vijeća od 13. rujna 2023. o energetskoj učinkovitosti i izmjeni Uredbe (EU) 2023/955 (preinaka) (Tekst značajan za EGP) (SL 231, 20/09/2023, p. 1 - 111),
+- Direktiva 2018/2001 Europskog parlamenta i Vijeća od 11. prosinca 2018. o promicanju uporabe energije iz obnovljivih izvora (preinaka) (Tekst značajan za EGP) (SL L 328, 21. 12. 2018.),
+- Direktiva (EU) 2023/2413 Europskog parlamenta i Vijeća od 18. listopada 2023. o izmjeni Direktive (EU) 2018/2001, Uredbe (EU) 2018/1999 i Direktive 98/70/EZ u pogledu promicanja energije iz obnovljivih izvora te o stavljanju izvan snage Direktive Vijeća (EU) 2015/652 (SL L, 2023/2413, 31. 10. 2023.).
+(2) Ovim se Zakonom osigurava provedba sljedećih akata Europske unije:
+- Delegirana uredba Komisije (EU) 2019/826 od 4. ožujka 2019. o izmjeni priloga VIII. i IX. Direktivi 2012/27/EU Europskog parlamenta i Vijeća u pogledu sadržaja sveobuhvatnih procjena potencijala za učinkovito grijanje i hlađenje i
+- Uredba (EU) 2018/1999 Europskog parlamenta i Vijeća od 11. prosinca 2018. o upravljanju energetskom unijom i djelovanjem u području klime, izmjeni uredaba (EZ) br. 663/2009 i (EZ) br. 715/2009 Europskog parlamenta i Vijeća, direktiva 94/22/EZ, 98/70/EZ, 2009/31/EZ, 2009/73/EZ, 2010/31/EU, 2012/27/EU i 2013/30/EU Europskog parlamenta i Vijeća, direktiva Vijeća 2009/119/EZ i (EU) 2015/652 te stavljanju izvan snage Uredbe (EU) br. 525/2013 Europskog parlamenta i Vijeća (SL L 328, 21. 12. 2018.) (u daljnjem tekstu: Uredba (EU) 2018/1999) u dijelu koji se odnosi na energetsku učinkovitost.«.

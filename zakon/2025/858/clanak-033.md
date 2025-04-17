@@ -1,0 +1,7 @@
+# Članak 33.
+(1) Vlada Republike Hrvatske donijet će odluku iz članka 17. stavka 1., koji je izmijenjen člankom 11. ovoga Zakona, najkasnije do 1. srpnja 2026.
+(2) Ministar će donijeti pravilnik iz članka 15. stavka 12., koji je izmijenjen člankom 9. ovoga Zakona, pravilnik iz članka 17. stavka 9., koji je izmijenjen člankom 11. ovoga Zakona i pravilnike iz članka 33. stavaka 14. i 15., koji su izmijenjeni člankom 17. ovoga Zakona, u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(3) Upravno vijeće Agencije će pravilnike iz članka 32. stavaka 1. i 3., koji je izmijenjen člankom 16. ovoga Zakona, uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(4) Agencija će Registar kupaca toplinske energije iz članka 11.c, koji je dodan člankom 7. ovoga Zakona, uskladiti s odredbama ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(5) Pravilnik o načinu raspodjele i obračunu troškova za isporučenu toplinsku energiju (»Narodne novine«, br. 99/14., 27/15. i 124/15.) ostaje na snazi do stupanja na snagu pravilnika iz članka 33. stavka 15., koji je izmijenjen člankom 17. ovoga Zakona.
+(6) Opći uvjeti za opskrbu toplinskom energijom (»Narodne novine«, br. 35/14.) i Opći uvjeti za isporuku toplinske energije (»Narodne novine«, br. 35/14. i 129/15.) ostaju na snazi do stupanja na snagu pravilnika iz članka 32. stavaka 1. i 3., koji je izmijenjen člankom 16. ovoga Zakona.

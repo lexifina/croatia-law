@@ -1,0 +1,4 @@
+# Članak 19.
+U članku 34. iza stavka 8. dodaju se stavci 9. i 10. koji glase:
+»(9) Opskrbljivač plinom u obvezi javne usluge dužan je opskrbljivati plinom proizvođače toplinske energije u zatvorenom i centralnom toplinskom sustavu, odnosno kupca toplinske energije u samostalnom toplinskom sustavu po reguliranim uvjetima u količinama potrebnim za proizvodnju toplinske energije za opskrbu krajnjeg kupaca iz kategorije kućanstva.
+(10) Proizvođač toplinske energije u zatvorenom i centralnom toplinskom sustavu, odnosno kupac toplinske energije u samostalnom toplinskom sustavu imaju pravo kupnje plina po reguliranim uvjetima, u količinama potrebnim za proizvodnju toplinske energije za opskrbu krajnjeg kupaca iz kategorije kućanstva, od opskrbljivača u obvezi javne usluge opskrbe plinom određenog odlukom Hrvatske energetske regulatorne agencije za distribucijsko područje na kojemu se nalaze proizvodni objekti.«.
