@@ -1,0 +1,6 @@
+## Nadležnost za nadzor nad postupcima vezanim za fluorirane stakleničke plinove
+# Članak 122.
+(1) Nadzor nad provedbom Uredbe (EU) 2024/573, ovoga Zakona i propisa donesenih na temelju ovoga Zakona provodi inspekcija zaštite okoliša i ovlašteni carinski službenici Carinske uprave, ako ovim Zakonom ili posebnim propisom nije drukčije propisano.
+(2) Inspekcijski nadzor koji se odnosi na provedbu Uredbe (EU) 2024/573, ovoga Zakona i propisa donesenih na temelju ovoga Zakona kojima se propisuje označavanje proizvoda koji sadržavaju fluorirane stakleničke plinove ili o njima ovise provodi tržišna inspekcija u skladu s djelokrugom propisanim posebnim propisom, osim u dijelu koji se odnosi na uporabu.
+(3) Ako prilikom carinskog nadzora u postupku puštanja robe u slobodni promet ili izvoza ovlašteni carinski službenici Carinske uprave utvrde osnovanu sumnju da deklarirana roba nije u skladu s odredbama Uredbe (EU) 2024/573 o prometu fluoriranih stakleničkih plinova, zaustavit će spornu pošiljku i postupiti sukladno svojoj nadležnosti.
+(4) Carinska uprava najkasnije do 30. travnja tekuće godine za prethodnu kalendarsku godinu podnosi izvješće Ministarstvu o primjerima nezakonite trgovine do kojih je došla na temelju nadzora.

@@ -1,0 +1,17 @@
+## Raspodjela emisijskih jedinica
+# Članak 40.
+(1) Operaterima postrojenja koji imaju dozvolu iz članka 33. stavka 1. ovoga Zakona raspodjeljuju se emisijske jedinice.
+(2) Za svako razdoblje trgovanja raspodjela emisijskih jedinica provodi se prodajom putem dražbe, ako ovim Zakonom nije određeno da se dodjeljuju besplatno.
+(3) Operateru postrojenja za proizvodnju električne energije, osim za proizvodnju električne energije iz otpadnih plinova, emisijske jedinice ne mogu se dodijeliti besplatno.
+(4) Od 2021. do 2025. godine količina emisijskih jedinica koja će se dodijeliti besplatno iznosi 30 % od količine utvrđene u skladu s odredbama Uredbe Komisije (EU) 2019/331 i njezinih izmjena i dopuna i važećim uputama Komisije donesenim na temelju Uredbe Komisije (EU) 2019/331 i njezinih izmjena i dopuna.
+(5) Od 2026. godine količina emisijskih jedinica koja će se dodijeliti postrojenjima besplatno smanjuje se u jednakim iznosima, uz iznimku centralnog grijanja, kako bi besplatna dodjela emisijskih jedinica dosegnula razinu nula u 2030. godini.
+(6) Iznimno od stavaka 4. i 5. ovoga članka, operaterima postrojenja koji obavljaju djelatnost u sektorima ili podsektorima koji su izloženi velikom riziku od izmještanja emisija stakleničkih plinova u treće zemlje količina emisijskih jedinica koja će se dodijeliti besplatno iznosi 100 % od količine utvrđene u skladu s odredbama Uredbe Komisije (EU) 2019/331 i njezinih izmjena i dopuna i važećim uputama Komisije donesenim na temelju Uredbe Komisije (EU) 2019/331 i njezinih izmjena i dopuna.
+(7) Emisijske jedinice koje se izdaju od 1. siječnja 2013. nadalje vrijede neograničeno, a emisijske jedinice koje se izdaju od 1. siječnja 2021. nadalje uključuju naznaku o tome u kojem su desetogodišnjem razdoblju od 1. siječnja 2021. nadalje izdane te su valjane za emisije od prve godine toga razdoblja nadalje.
+(8) Besplatne emisijske jedinice ne dodjeljuju se postrojenjima koja su prestala s radom.
+(9) Za postrojenja čija je dozvola za emisije stakleničkih plinova ukinuta te za postrojenja čiji rad ili ponovno započinjanje s radom tehnički nisu mogući smatra se da su prestala s radom.
+(10) Emisijske jedinice koje je izdalo nadležno tijelo druge države članice priznaju se u svrhu ispunjavanja obveza operatera, operatora zrakoplova i brodarskog društva iz članka 74. ovoga Zakona.
+(11) Emisijske jedinice dodjeljuju se besplatno postrojenjima u sektorima ili podsektorima koji su obuhvaćeni mjerama za ublažavanje rizika od izmještanja emisija ugljika utvrđenima Uredbom Komisije (EU) 2023/956, uz primjenu faktora smanjivanja besplatne dodjele emisijskih jedinica za proizvodnju robe navedene u Prilogu I. Uredbe (EU) 2023/956 (u daljnjem tekstu: CBAM faktor).
+(12) CBAM faktor jednak je 100 % do kraja 2025. godine, 97,5 % u 2026. godini, 95 % u 2027. godini, 90 % u 2028. godini, 77,5 % u 2029. godini, 51,5 % u 2030. godini, 39 % u 2031. godini, 26,5 % u 2032. godini i 14 % u 2033. godini.
+(13) Od 2034. godine ne primjenjuje se CBAM faktor.
+(14) Za besplatnu dodjelu emisijskih jedinica za razdoblje od 2026. do 2030. godine operateri postrojenja koja su prihvatljiva za besplatnu dodjelu emisijskih jedinica podnose zahtjev Ministarstvu u skladu s člancima 4. i 5. Uredbe Komisije (EU) 2019/331 i njezinim izmjenama i dopunama.
+(15) O zahtjevu za besplatnu dodjelu emisijskih jedinica iz stavka 14. ovoga članka Ministarstvo donosi rješenje.

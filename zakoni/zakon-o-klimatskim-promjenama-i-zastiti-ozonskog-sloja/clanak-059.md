@@ -1,0 +1,7 @@
+## Područje primjene u pomorskom prometu
+# Članak 59.
+(1) Područje primjene ovoga Zakona za djelatnost pomorskog prometa propisano je Dodatkom I. ovoga Zakona.
+(2) Predaja emisijskih jedinica u pogledu djelatnosti pomorskog prometa uz iznimku djelatnosti iz točke 30.c Dodatka I. ovoga Zakona primjenjuje se u odnosu na 50 % emisija iz brodova koji obavljaju putovanja iz luke pristajanja u nadležnosti države članice u luku pristajanja izvan nadležnosti države članice, 50 % emisija iz brodova koji obavljaju putovanja iz luke pristajanja izvan nadležnosti države članice u luku pristajanja u nadležnosti države članice, 100 % emisija iz brodova koji obavljaju putovanja iz luke pristajanja u nadležnosti države članice u luku pristajanja u nadležnosti države članice i 100 % emisija iz brodova unutar luke pristajanja u nadležnosti države članice.
+(3) Popis brodarskih društava koja obavljaju djelatnost pomorskog prometa iz Dodatka I. ovoga Zakona, a koja su na dan 1. siječnja 2024. ili s učinkom od toga dana obuhvaćena primjenom zahtjeva predaje emisijskih jedinica iz stavka 2. ovoga članka, objavljuje Komisija u provedbenom aktu i u tom popisu navodi upravljačko tijelo nadležno za brodarsko društvo.
+(4) Popis iz stavka 3. ovoga članka ne uključuje djelatnosti iz točke 30.c Dodatka I. ovoga Zakona.
+(5) Upravljačko tijelo nadležno za brodarsko društvo iz stavka 3. ovoga članka zadržava tu nadležnost i u slučaju naknadne promjene u djelatnostima ili registraciji brodarskog društva sve dok se te promjene ne odraze u ažuriranom popisu iz provedbenog akta Komisije.

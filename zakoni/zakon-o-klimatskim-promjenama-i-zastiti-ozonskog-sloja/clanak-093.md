@@ -1,0 +1,5 @@
+## GLAVA II. IZDAVANJE DOZVOLA I SUGLASNOSTI TE OSPOSOBLJAVANJE STRUČNIH OSOBA
+## Izdavanje dozvola
+# Članak 93.
+Ministarstvo rješenjem izdaje dozvole za obavljanje djelatnosti prikupljanja, provjere propuštanja, ugradnje i servisiranja rashladnih i klimatizacijskih uređaja i opreme te dizalica topline, servisiranja klimatizacijskih uređaja u motornim vozilima i nepokretnih protupožarnih sustava i aparata za gašenje požara te električnih rasklopnih uređaja koji sadržavaju tvari koje oštećuju ozonski sloj ili fluorirane stakleničke plinove ili o njima ovise, alternativne tvari amonijak (NH3), ugljikov dioksid (CO2) ili ugljikovodike i dozvole centrima za obavljanje djelatnosti prikupljanja, obnavljanja i oporabe tvari koje oštećuju ozonski sloj i fluoriranih stakleničkih plinova.
+Dozvola za djelatnost servisiranja rashladnih i klimatizacijskih uređaja i opreme, dizalica topline, klimatizacijskih uređaja u motornim vozilima, nepokretnih protupožarnih sustava, aparata za gašenje požara te električnih rasklopnih uređaja

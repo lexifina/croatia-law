@@ -1,0 +1,3 @@
+## Pravilnik
+# Članak 104.
+Program, uvjete i način polaganja stručnog ispita, obveze nositelja programa izobrazbe, sadržaj potvrde o pohađanju programa izobrazbe, nadzor nad radom nositelja programa izobrazbe, ustroj i način rada ispitnoga ocjenjivačkog tijela koje provodi stručni ispit, način i uvjete za odabir članova ispitnoga ocjenjivačkog tijela, način plaćanja naknade troškova za polaganje stručnog ispita i izdavanje uvjerenja o položenom stručnom ispitu te način vođenja Registra ovlaštenih osoba kojima je izdano uvjerenje o položenom stručnom ispitu propisuje pravilnikom ministar nadležan za klimatske promjene.

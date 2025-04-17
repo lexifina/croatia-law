@@ -1,0 +1,6 @@
+## Potvrda o upisu u Registar
+# Članak 95.
+(1) Pravna osoba i obrtnik mogu obavljati djelatnost uvoza i izvoza i stavljanja na tržište tvari koje oštećuju ozonski sloj, novih tvari i/ili fluoriranih stakleničkih plinova, uređaja i opreme prednapunjenih navedenim tvarima ako ishode potvrdu Ministarstva o upisu u Registar iz članka 96. stavka 1. ovoga Zakona.
+(2) Pravna osoba i obrtnik koji obavljaju djelatnost uvoza i izvoza i stavljanja na tržište proizvoda i opreme koja nije hermetički zatvorena, a napunjena je fluoriranim stakleničkim plinovima navedenima u Prilogu I. i Odjeljku 1. Priloga II. Uredbe 573/2024 ili alternativne tvari: amonijak (NH3), ugljikov dioksid (CO2) ili ugljikovodike, smiju prodavati krajnjem korisniku samo ako postoji dokaz da će ugradnju obaviti pravna osoba ili obrtnik koji je ishodio dozvolu iz članka 94. stavka 1. ovoga Zakona.
+(3) Operater definiran člankom 3. točkom 5. Uredbe (EU) 573/2024 može koristiti tvari koje oštećuju ozonski sloj za prijeko potrebnu laboratorijsku i analitičku primjenu, kao procesne agense ili kao sirovine, ako ishodi potvrdu Ministarstva o upisu u Registar iz članka 96. stavka 1. ovoga članka.
+(4) Vlada će uredbom iz članka 86. ovoga Zakona propisati opseg i način dokazivanja iz stavka 2. ovoga članka.

@@ -1,0 +1,2 @@
+# Članak 126.
+Stranke u inspekcijskom postupku inspekcije zaštite okoliša nad primjenom ovoga Zakona i propisa donesenih na temelju ovoga Zakona mogu biti: pravna osoba ili obrtnik koji postupa s tvarima koje oštećuju ozonski sloj i/ili s fluoriranim stakleničkim plinovima ili alternativnim tvarima (amonijak (NH3), ugljikov dioksid (CO2) ili ugljikovodici), dobavljač, operater postrojenja, operator zrakoplova i regulirani subjekt (u daljnjem tekstu: nadzirana osoba).

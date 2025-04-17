@@ -1,0 +1,7 @@
+## Nadležnost za nadzor nad postupcima vezanim za tvari koje oštećuju ozonski sloj
+# Članak 121.
+(1) Nadzor nad provedbom Uredbe (EZ) 2024/590 u dijelu koji se odnosi na uporabu, prikupljanje, obnavljanje, oporabu, uništavanje tvari koje oštećuju ozonski sloj i provjeru propuštanja, održavanje i servisiranje uređaja i opreme koja sadrži navedene tvari ili o njima ovisi provodi inspekcija zaštite okoliša.
+(2) Inspekcijski nadzor koji se odnosi na provedbu Uredbe (EU) 2024/590 i ovoga Zakona, u dijelu koji se odnosi na odredbe uredbe iz članka 86. ovog Zakona kojima se propisuje označavanje proizvoda koji sadrže tvari koje oštećuju ozonski sloj ili o njima ovise, provodi tržišna inspekcija u skladu s djelokrugom propisanim posebnim propisom, osim u dijelu koji se odnosi na uporabu.
+(3) Nadzor nad provedbom Uredbe (EU) 2024/590, u dijelu koji se odnosi na uvoz/izvoz, ponovni izvoz i provoz tvari koje oštećuju ozonski sloj, proizvoda i opreme koji sadrže tvari koje oštećuju ozonski sloj ili o njima ovise, provode ovlašteni carinski službenici Carinske uprave.
+(4) Ako u carinskom postupku puštanja robe u slobodni promet ili izvoza ovlašteni carinski službenici Carinske uprave utvrde da postoji osnovana sumnja da deklarirana roba nije u skladu s odredbama Uredbe (EU) 2024/590, zaustavit će spornu pošiljku i postupiti sukladno svojoj nadležnosti.
+(5) Carinska uprava najkasnije do 30. travnja tekuće godine za prethodnu kalendarsku godinu podnosi izvješće Ministarstvu o primjerima nezakonite trgovine do kojih je došla na temelju nadzora.

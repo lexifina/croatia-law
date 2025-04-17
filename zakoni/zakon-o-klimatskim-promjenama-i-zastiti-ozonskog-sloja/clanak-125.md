@@ -1,0 +1,2 @@
+# Članak 125.
+U provedbi inspekcijskog nadzora, u slučaju povrede ovoga Zakona i propisa donesenih na temelju njega, inspektor zaštite okoliša ima obvezu nadziranoj osobi narediti radnje odnosno rješenjem izreći upravne mjere za koje je ovlašten na temelju ovoga Zakona, izdati prekršajni nalog te podnijeti nadležnom tijelu optužni prijedlog zbog prekršaja ili kaznenu prijavu zbog sumnje na počinjenje kaznenog djela.
