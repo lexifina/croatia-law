@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o provedbi intervencija u sektoru pčelarstva unutar Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. (»Narodne novine«, broj 24/23, 46/24 i 90/24) u Prilogu I. Popis pomagala, pribora i opreme koja se koristi u pčelarskoj proizvodnji i uzgoju pčela za koju je moguće podnijeti zahtjev za isplatu u intervenciji nabava novih pomagala, pribora i opreme, podstavak 30. »pribor za otklapanje saća (vilica, nož, otklapač saća)« mijenja se i glasi: »pribor za otklapanje saća (vilica/otklapač, nož, ljestve za otklapanje, tacna za otklapanje)«.
+U odjeljku Pomagala, pribor i oprema čija je nabava ograničena na najviše jedan komad po korisniku intervencije u okviru provedbe Strateškog plana, iza podstavka 9. dodaje se podstavak 10. koja glasi:
+» - uređaj za otklapanje saća (ručni, automatski, poluautomatski) do 4.000,00 EUR prihvatljivog troška po korisniku«.

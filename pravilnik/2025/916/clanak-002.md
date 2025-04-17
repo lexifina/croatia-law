@@ -1,0 +1,3 @@
+# Članak 2.
+U Prilogu II. Popis opreme koja se koristi u pčelarskoj proizvodnji i uzgoju pčela za koju je moguće podnijeti zahtjev za isplatu u intervenciji racionalizacija selećeg pčelarstva, u dijelu Oprema čija je nabava ograničena na najviše jedan komad po korisniku intervencije u okviru provedbe Strateškog plana, podstavak 12. » - priključno vozilo bez vlastitog pogona s natkrivenim ili otkrivenim prostorom do uključujući 3.500 kg sa ili bez potpornog kotača, izuzev poluprikolica, traktorskih i kiper prikolica*« mijenja se i glasi:
+» - priključno vozilo bez vlastitog pogona s natkrivenim ili otkrivenim prostorom do uključujući 3.500 kg sa ili bez potpornog kotača, izuzev poluprikolica i traktorskih prikolica*«.
