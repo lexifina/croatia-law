@@ -1,0 +1,4 @@
+# Članak 5.
+(1) U postupku certificiranja tijela za izvansudsko rješavanje sporova u određenom području nezakonitog sadržaja ili opozivanja tog certifikata na temelju članka 21. Uredbe (EU) 2022/2065 te u postupku dodjeljivanja, suspendiranja ili opozivanja statusa pouzdanog prijavitelja za određenu vrstu nezakonitog sadržaja na temelju članka 22. Uredbe (EU) 2022/2065, Koordinator za digitalne usluge zatražit će mišljenje nadležnog tijela iz članka 6. ovoga Zakona nadležnog ovisno o vrsti nezakonitog sadržaja.
+(2) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donijet će pravilnik o kriterijima i načinu certificiranja tijela za izvansudsko rješavanje sporova.
+(3) Vijeće Hrvatske regulatorne agencije za mrežne djelatnosti donijet će pravilnik o kriterijima i načinu dodjeljivanja, suspendiranja ili opozivanja statusa pouzdanog prijavitelja.
