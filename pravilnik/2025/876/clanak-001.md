@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovim Pravilnikom propisuju se postupak i uvjeti za priznavanje inozemnih stručnih kvalifikacija u svrhu ostvarivanja prava na poslovni nastan za obavljanje regulirane profesije ovlaštenog zastupnika u području prava industrijskog vlasništva (u daljnjem tekstu: ovlaštenog zastupnika - patentni zastupnik i zastupnik za žigove) na području Republike Hrvatske, te za prekogranično obavljanje djelatnosti ovlaštenog zastupnika na privremenoj i povremenoj osnovi državljanina države ugovornice Ugovora o Europskom gospodarskom prostoru (u daljnjem tekstu: EGP) bez poslovnog nastana u Republici Hrvatskoj.
+(2) Na postupak i način provjere ispunjavanja uvjeta iz stavka 1. ovoga članka na odgovarajući se način primjenjuju odredbe zakona kojim se uređuje područje reguliranih profesija i priznavanje inozemnih stručnih kvalifikacija, zakona kojim se uređuje zastupanje u području prava industrijskog vlasništva i ovoga Pravilnika, uz primjenu odredbi zakona kojim se uređuje opći upravni postupak.
+(3) Pojmovi koji se koriste u ovom Pravilniku imaju značenje određeno zakonima iz stavka 2. ovoga članka.

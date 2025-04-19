@@ -1,0 +1,2 @@
+# Članak 3.
+Nositelj stručne kvalifikacije kojem je priznata inozemna stručna kvalifikacija, kao i osoba kojoj je odobreno prekogranično pružanje usluga na privremenoj i povremenoj osnovi na temelju inozemnih stručnih kvalifikacija u Republici Hrvatskoj, mora poznavati razinu hrvatskog jezika potrebnu za stručnu i nesmetanu komunikaciju pred Državnim zavodom za intelektualno vlasništvo, odnosno u mjeri potrebnoj za obavljanje regulirane profesije ovlaštenog zastupnika na području Republike Hrvatske.
