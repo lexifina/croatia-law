@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Prvom vijeću za odlučivanje o ustavnim tužbama, u sastavu sutkinja Lovorka Kušan, predsjednica Vijeća, te suci Andrej Abramović, Ante Galić, Biljana Kostadinov, Rajko Mlinarić i Frane Staničić, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula X. Y. A. iz V., na sjednici održanoj 23. travnja 2025. jednoglasno je donio
