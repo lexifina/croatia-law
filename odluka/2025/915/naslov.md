@@ -1,0 +1,1 @@
+Odluka o donošenju Programa obrazovanja za stjecanje djelomične kvalifikacije operativni djelatnik za sigurnost i civilnu zaštitu u odgojno-obrazovnim ustanovama / operativna djelatnica za sigurnost i civilnu zaštitu u odgojno-obrazovnim ustanovama
