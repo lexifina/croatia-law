@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine« br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i članka 103. stavka 2. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine« br. 80/13., 137/13., 98/19. i 33/23.), Vlada Republike Hrvatske je na sjednici održanoj 24. travnja 2025. donijela
