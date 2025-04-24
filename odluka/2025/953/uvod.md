@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 5. Zakona o osnutku Hrvatske kontrole zračne plovidbe (»Narodne novine«, br. 19/98., 20/00. - Odluka Ustavnog suda Republike Hrvatske i 51A/13.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 24. travnja 2025. donijela
