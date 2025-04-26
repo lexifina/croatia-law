@@ -1,0 +1,5 @@
+# Članak 10.
+(1) Odgojno-obrazovnu skupinu čine daroviti učenici podjednake obrazovne razine.
+(2) U odgojno-obrazovnoj skupini optimalno je uključeno do pet učenika.
+(3) Kada na određenome upisnom području postoji od tri do pet učenika kojima je utvrđena darovitost i teškoće u razvoju iz članka 2. stavka 3. ovoga Pravilnika te imaju rješenje o primjerenom programu osnovnoga ili srednjeg obrazovanja za učenike s teškoćama u razvoju i odluku iz članka 5. stavka 8. ovoga Pravilnika, uz prethodnu suglasnost ministarstva nadležnoga za obrazovanje, posebni razredni odjeli mogu biti ustrojeni kao kombinirani razredni odjeli od I. do IV. razreda ili od V. do VIII. razreda odgojno-obrazovne ustanove koja provodi osnovnoškolsko obrazovanje (u daljnjem tekstu: osnovna škola) i od I. do završnoga razreda odgojno-obrazovne ustanove koja provodi srednjoškolsko obrazovanje (u daljnjem tekstu: srednja škola).
+(4) Iznimno od stavka 3. ovoga članka, uz prethodnu suglasnost ministarstva nadležnoga za obrazovanje, posebni razredni odjeli mogu biti ustrojeni kao kombinirani razredni odjeli od I. do VIII. razreda osnovne škole.
