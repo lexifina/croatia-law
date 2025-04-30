@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o kaznenom postupku (»Narodne novine« br. 152/08., 76/09., 80/11., 121/11. - pročišćeni tekst, 91/12. - Odluka Ustavnog suda Republike Hrvatske, 143/12., 56/13., 145/13., 152/14., 70/17., 126/19., 126/19. - Rješenje Ustavnog suda Republike Hrvatske, 130/20. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 80/22. i 36/24.) u članku 80. stavku 1. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«.
