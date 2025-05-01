@@ -1,0 +1,6 @@
+## Uvjeti za raspored na radno mjesto
+# Članak 35.
+(1) Poslove glavnog sportskog inspektora može obavljati osoba koja, osim zakonom utvrđenih uvjeta za prijam u državnu službu, ima stečenu razinu 7.1.sv ili 7.1.st HKO-a iz znanstvenog područja društvenih znanosti, polje pravo, najmanje šest godina radnog iskustva na odgovarajućim poslovima i položen državni ispit.
+(2) Poslove višeg sportskog inspektora – specijalista može obavljati osoba koja, osim zakonom utvrđenih uvjeta za prijam u državnu službu, ima stečenu razinu 7.1.sv ili 7.1.st HKO-a iz znanstvenog područja društvenih znanosti, najmanje pet godina radnog iskustva na odgovarajućim poslovima, od čega najmanje dvije godine na poslovima inspekcijskog nadzora, i položen državni ispit.
+(3) Poslove višeg sportskog inspektora može obavljati osoba koja, osim zakonom utvrđenih uvjeta za prijam u državnu službu, ima stečenu razinu 7.1.sv ili 7.1.st HKO-a iz znanstvenog područja društvenih znanosti, najmanje četiri godine radnog iskustva na odgovarajućim poslovima i položen državni ispit.
+(4) Poslove sportskog inspektora može obavljati osoba koja, osim zakonom utvrđenih uvjeta za prijam u državnu službu, ima stečenu razinu 7.1.sv ili 7.1.st HKO-a iz znanstvenog područja društvenih znanosti, najmanje tri godine radnog iskustva na odgovarajućim poslovima i položen državni ispit.
