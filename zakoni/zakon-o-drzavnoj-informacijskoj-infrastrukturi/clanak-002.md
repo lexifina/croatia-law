@@ -1,0 +1,4 @@
+## Svrha i cilj Zakona
+# Članak 2.
+(1) Svrha ovoga Zakona je osiguranje učinkovitosti rada korisnika digitalizacijom procesa, unaprjeđenjima i modernizacijom usluga, primjenom načela državne informacijske infrastrukture i interoperabilnih rješenja kroz korištenje informacijsko-komunikacijskih tehnoloških rješenja.
+(2) Cilj ovoga Zakona je unaprjeđenje načina korištenja i primjene informacijsko-komunikacijske tehnologije u digitalizaciji procesa, međusobnoj elektroničkoj komunikaciji i sigurnoj razmjeni podataka između korisnika državne informacijske infrastrukture, kao i u pružanju e-usluga u nacionalnim i prekograničnim slučajevima, za sigurnu elektroničku komunikaciju i dostavu akata korisnicima te fizičkim i pravnim osobama, te za mrežni pristup različitim informacijama i otvorenim podacima koje objavljuju korisnici državne informacijske infrastrukture.
