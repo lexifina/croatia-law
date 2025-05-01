@@ -1,0 +1,5 @@
+# Članak 4.
+(1) Zavod je javna ustanova na koju se primjenjuju propisi o ustanovama, ako Zakonom o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 80/13., 137/13., 98/19. i 33/23. - u daljnjem tekstu: Zakon) nije drukčije određeno.
+(2) Zavod ima svojstvo pravne osobe s pravima, obvezama i odgovornošću utvrđenim Zakonom i ovim Statutom.
+(3) Zavod organizira i provodi poslove obveznoga zdravstvenog osiguranja u okviru kojih osigurava prava za slučaj ozljede na radu i profesionalne bolesti, mjere specifične zdravstvene zaštite radnika u skladu sa zakonom kojim se uređuje zdravstvena zaštita, posebnim zakonima i pravilnicima donesenim na temelju tih zakona te poslove dopunskoga i dodatnoga zdravstvenog osiguranja u skladu sa zakonom kojim se uređuje dobrovoljno zdravstveno osiguranje, kao i poslove u vezi provedbe zakona kojim se uređuju rodiljne i roditeljske potpore.
+(4) U rješavanju o pravima i obvezama iz obveznoga zdravstvenog osiguranja, dopunskoga i dodatnoga zdravstvenog osiguranja te o pravima na rodiljne i roditeljske potpore Zavod ima javne ovlasti.

@@ -1,0 +1,8 @@
+# Članak 54.
+(1) Pomoćnikom ravnatelja Zavoda za pravne poslove može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.
+(2) Pomoćnikom ravnatelja Zavoda za zdravstvenu zaštitu može biti imenovana osoba koja ima završen sveučilišni diplomski studij zdravstvenog smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.
+(3) Pomoćnikom ravnatelja Zavoda za ekonomske poslove može biti imenovana osoba koja ima završen sveučilišni diplomski studij ekonomskog smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.
+(4) Pomoćnikom ravnatelja Zavoda za kontrolu i kvalitetu može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog, ekonomskog, zdravstvenog ili drugog društvenog smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.
+(5) Pomoćnikom ravnatelja za informatičku tehnologiju može biti imenovana osoba koja ima završen sveučilišni diplomski studij informatičkog, matematičkog, tehničkog, prirodnog ili drugog odgovarajućeg smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.
+(6) Pomoćnikom ravnatelja Zavoda za dobrovoljno zdravstveno osiguranje može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog, ekonomskog, zdravstvenog ili drugog društvenog smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.
+(7) Pomoćnikom ravnatelja Zavoda za medicinske poslove može biti imenovana osoba koja ima završen sveučilišni diplomski studij pravnog, ekonomskog ili zdravstvenog smjera i pet godina radnog iskustva na temelju stečenog tog akademskog naziva.

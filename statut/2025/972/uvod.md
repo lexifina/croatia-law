@@ -1,0 +1,1 @@
+Na osnovi članka 103. stavka 1. točke 1. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, broj 80/13., 137/13., 98/19. i 33/23.) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, broj 76/93., 29/97., 47/99., 35/08., 127/19. i 151/22.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 23. sjednici održanoj 31. ožujka 2025. godine donijelo je

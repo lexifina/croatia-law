@@ -1,0 +1,3 @@
+# Članak 56.
+(1) Pomoćnik ravnatelja Zavoda organizira, kontrolira i vodi poslove ustrojstvenih jedinica kojima rukovodi i pruža stručnu pomoć ravnatelju Zavoda u obavljanju poslova iz njegova djelokruga.
+(2) U vođenju poslova iz stavka 1. ovoga članka pomoćnik ravnatelja Zavoda ovlašten je davati naloge i upute za rad iz svoga djelokruga upraviteljima područnih ureda Zavoda i voditeljima njihovih ispostava, rukovoditeljima unutarnjih ustrojstvenih jedinica Direkcije Zavoda i drugim radnicima Zavoda kojima je neposredno nadređen i koji organizacijski pripadaju djelokrugu poslova za koje je on odgovoran te nadležnim tijelima Zavoda predlagati organizaciju rada i uvjete za razvoj djelatnosti Zavoda.

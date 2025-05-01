@@ -1,0 +1,3 @@
+# Članak 77.
+(1) Statut Zavoda i drugi opći akti Zavoda kojima se uređuju prava i obveze osiguranih osoba Zavoda iz obveznoga zdravstvenog osiguranja, obveznoga zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti te prava i obveza osiguranika dopunskoga i dodatnoga zdravstvenog osiguranja koje provodi Zavod objavljuju se u »Narodnim novinama« osim općih akata za koje je Zakonom utvrđeno da se objavljuju samo na mrežnoj stranici Zavoda.
+(2) Statut Zavoda i drugi opći akti Zavoda iz stavka 1. ovoga članka mogu stupiti na snagu najranije prvoga dana od dana objave u »Narodnim novinama«.
