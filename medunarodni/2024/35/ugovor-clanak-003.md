@@ -1,0 +1,5 @@
+# Članak 3.
+1) Ovime se osniva Zajednički odbor ministara, u daljnjem tekstu »Zajednički odbor«, sastavljen od po jednog predstavnika svake ugovorne stranke. Zajednički odbor odgovoran je za sve mjere i odluke potrebne kako bi se osigurala provedba ovog Ugovora, uključujući odobravanje evaluacijskih izvješća. Barem svake druge godine Zajednički odbor usvaja program rada za CEEPUS IV suradnju.
+2) Zajednički odbor sastaje se prema potrebi, ali barem svake druge godine. Usvaja vlastiti poslovnik. Odbor izabire jednog od svojih članova za predsjedatelja na dvije godine. Može uspostaviti radne skupine potrebne za provedbu ovog Ugovora te odlučiti o njihovom sastavu.
+3) Zajednički odbor ulaže sve napore da do svih odluka dođe konsenzusom. Ukoliko se iscrpe svi napori, a konsenzus ne bude postignut, odluke se, kao posljednjim sredstvom, usvajaju dvotrećinskom većinom glasova članova Zajedničkog odbora koji su nazočni (osobno ili online).
+4) Zajednički odbor jednoglasno usvaja odluke o ukupnom iznosu mjeseci CEEPUS IV stipendija u skladu s člankom 1. stavkom 6.
