@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i članka 85. Zakona o tržištu rada (»Narodne novine«, br. 118/18., 32/20., 18/22., 156/23. i 152/24.), Vlada Republike Hrvatske je na sjednici održanoj 2. svibnja 2025. donijela
