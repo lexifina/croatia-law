@@ -1,0 +1,21 @@
+## PREKRŠAJNE ODREDBE
+## Prekršaji proizvođača
+# Članak 12.
+(1) Novčanom kaznom u iznosu od 7000,00 do 35.000,00 eura kaznit će se za prekršaj pravna osoba – proizvođač ako:
+1. nije osigurao da su proizvodi koje je stavio na tržište projektirani i proizvedeni u skladu s općim sigurnosnim zahtjevom utvrđenim u članku 5. Uredbe (EU) 2023/988 (članak 9. stavak 1. Uredbe (EU) 2023/988)
+2. nije proveo internu analizu rizika ni izradio tehničku dokumentaciju koja sadržava najmanje opći opis proizvoda i njegove bitne karakteristike relevantne za procjenu njegove sigurnosti prije stavljanja svojih proizvoda na tržište (članak 9. stavak 2. Uredbe (EU) 2023/988)
+3. nije ažurirao tehničku dokumentaciju iz članka 9. stavka 2. Uredbe (EU) 2023/988 (članak 9. stavak 3. Uredbe (EU) 2023/988)
+4. nije osigurao dostupnost tehničke dokumentacije iz članka 9. stavka 2. Uredbe (EU) 2023/988 tijelima za nadzor tržišta u razdoblju od deset godina nakon što je proizvod stavljen na tržište (članak 9. stavak 3. Uredbe (EU) 2023/988)
+5. nije stavio na raspolaganje tehničku dokumentaciju iz članka 9. stavka 2. Uredbe (EU) 2023/988 na zahtjev tijela za nadzor tržišta u razdoblju od deset godina nakon što je proizvod stavljen na tržište (članak 9. stavak 3. Uredbe (EU) 2023/988)
+6. nije uspostavio postupke za održavanje sukladnosti serijskih proizvedenih proizvoda s općim sigurnosnim zahtjevom utvrđenim u članku 5. Uredbe (EU) 2023/988 (članak 9. stavak 4. Uredbe (EU) 2023/988)
+7. nije osigurao da njegov proizvod nosi broj tipa, šarže ili serije ili drugi element koji omogućuje njegovu identifikaciju i da je potrošačima lako uočljiv i čitak ili, kad to ne dopušta veličina ili priroda proizvoda, da tražene informacije budu navedene na pakiranju ili u popratnom dokumentu (članak 9. stavak 5. Uredbe (EU) 2023/988)
+8. nije naveo svoje ime, registrirano trgovačko ime ili registrirani trgovački znak, poštansku adresu i e-adresu te, ako su različite, poštansku adresu ili e-adresu svoje jedinstvene točke za kontakt na proizvodu ili, kad to nije moguće, na pakiranju ili u popratnom dokumentu (članak 9. stavak 6. Uredbe (EU) 2023/988)
+9. nije osigurao da njegov proizvod prate jasne upute i informacije o sigurnosti na jeziku koji potrošači mogu lako razumjeti sukladno članku 4. ovoga Zakona, osim ako se proizvod može upotrebljavati sigurno i kako je predvidio proizvođač bez takvih uputa i informacija o sigurnosti (članak 9. stavak 7. Uredbe (EU) 2023/988)
+10. nije poduzeo mjere iz članka 9. stavka 8. podstavka 1. točaka (a) do (c) Uredbe (EU) 2023/988 kada smatra ili ima razloga vjerovati, na temelju informacija koje posjeduje, da je proizvod koji je stavio na tržište opasan proizvod na način uređen člankom 9. stavkom 8. podstavkom 2. Uredbe (EU) 2023/988 (članak 9. stavak 8. Uredbe (EU) 2023/988)
+11. nije pravodobno obavijestio druge gospodarske subjekte, odgovorne osobe i pružatelje internetskih platformi za trgovanje u predmetnom lancu opskrbe o svim sigurnosnim problemima koje je utvrdio (članak 9. stavak 10. Uredbe (EU) 2023/988)
+12. nije učinio javno dostupnima komunikacijske kanale kao što su telefonski broj, e-adresa ili poseban odjeljak svojih internetskih stranica, vodeći računa o potrebama osoba s invaliditetom u pogledu pristupačnosti, preko kojih im omogućuju da podnesu pritužbe i obavijeste proizvođače o svim nesrećama ili sigurnosnim problemima povezanima s proizvodom (članak 9. stavak 11. Uredbe (EU) 2023/988)
+13. nije istražio podnesene pritužbe i primljene informacije o nesrećama koje se odnose na sigurnost proizvoda koje je stavio na raspolaganje na tržištu za koje je podnositelj pritužbe naveo da su opasni (članak 9. stavak 12. Uredbe (EU) 2023/988)
+14. ne vodi interni registar pritužbi i opoziva proizvoda te svih korektivnih mjera koje su poduzete radi postizanja sukladnosti proizvoda sukladno članku 9. stavku 12. Uredbe (EU) 2023/988
+15. nije postupio sukladno članku 20. stavcima 1. do 3. Uredbe (EU) 2023/988 u slučaju nesreće koju je prouzročio njegov proizvod.
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 2000,00 do 6630,00 eura.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba – obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom u iznosu od 1000,00 do 8000,00 eura.
