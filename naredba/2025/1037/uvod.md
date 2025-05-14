@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 4. Zakona o biljnom zdravstvu (»Narodne novine«, br. 127/19. i 83/22.), ministar poljoprivrede, šumarstva i ribarstva uz prethodnu suglasnost glavnog državnog inspektora, donosi

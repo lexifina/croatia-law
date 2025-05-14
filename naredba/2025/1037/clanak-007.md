@@ -1,0 +1,4 @@
+## Jedinice lokalne i regionalne samouprave
+# Članak 7.
+(1) Jedinice lokalne, odnosno regionalne samouprave u slučajevima kada se poljoprivredno zemljište ne održava pogodnim za poljoprivrednu proizvodnju dužne su postupiti u skladu s propisom koji uređuje održavanje, zaštitu, korištenje, namjenu, naknadu i raspolaganje poljoprivrednim zemljištem.
+(2) Jedinice lokalne, odnosno regionalne samouprave u slučajevima kada se specijalizirani subjekti i osobe koje nisu specijalizirani subjekti, a u čijem su posjedu biljke domaćini sredozemne voćne muhe, ne pridržavaju mjera iz članka 4. i članka 5. točke 1. ove Naredbe dužne su postupiti u skladu s propisom koji uređuje provedbu agrotehničkih mjera i propisom koji uređuje održavanje, zaštitu, korištenje, namjenu, naknadu i raspolaganje poljoprivrednim zemljištem.
