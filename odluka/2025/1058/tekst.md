@@ -1,0 +1,7 @@
+I.
+Daje se odobrenje za sudjelovanje u Regiji Mura - Europskoj grupaciji za teritorijalnu suradnju s ograničenom odgovornošću, sa sjedištem u Tótszerdahelyu/Serdahelu, Mađarska:
+- Gradu Varaždinskim Toplicama i
+- Općini Martijanec
+te se odobrava Konvencija Regije Mura - Europske grupacije za teritorijalnu suradnju s ograničenom odgovornošću.
+II.
+Ova Odluka stupa na snagu danom donošenja, a objavit će se u »Narodnim novinama«.
