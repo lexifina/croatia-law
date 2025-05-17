@@ -1,0 +1,8 @@
+# Članak 12.
+(1) Groblja koja su po svojim parkovnim obilježjima i karakteristikama proglašena spomenicima parkovne arhitekture održavaju se i obnavljaju sukladno posebnim propisima.
+(2) Grobna mjesta na kojima je prestalo pravo korištenja grobnog mjesta, a koja imaju status kulturnog dobra, uključujući i grobna mjesta koja je proglasila dobrima od lokalnog značenja, održava i obnavlja jedinica lokalne samouprave sukladno propisima o zaštiti i očuvanju kulturnih dobara i sukladno odluci o proglašenju kulturnog dobra od lokalnog značenja.
+(3) Grobna mjesta u kojima su pokopani posmrtni ostaci znamenitih povijesnih osoba, posmrtni ostaci hrvatskih branitelja iz Domovinskog rata bez nasljednika ili posmrtni ostaci lokalno značajnih osoba, a na kojima je prestalo pravo korištenja grobnog mjesta ne dodjeljuju se novom korisniku grobnog mjesta, već ga, ako se utvrdi da nema korisnika grobnog mjesta, održava i obnavlja jedinica lokalne samouprave.
+(4) Odluku o proglašenju znamenite povijesne osobe iz stavka 3. ovoga članka, uz prethodno pribavljeno mišljenje Hrvatske akademije znanosti i umjetnosti i Hrvatskog instituta za povijest, donosi predstavničko tijelo jedinice lokalne samouprave.
+(5) Mišljenje o značenju znamenite povijesne osobe potrebno je zatražiti prilikom utvrđivanja grobnih mjesta kojima je prestalo pravo korištenja grobnog mjesta.
+(6) Mišljenje iz stavka 4. ovoga članka daje se na temelju obrazloženog prijedloga predstavničkog tijela jedinice lokalne samouprave.
+(7) Odluku o lokalno značajnoj osobi iz stavka 3. ovoga članka donosi predstavničko tijelo jedinice lokalne samouprave.

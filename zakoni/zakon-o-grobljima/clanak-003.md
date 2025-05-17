@@ -1,0 +1,8 @@
+# Članak 3.
+(1) Tijelo umrle osobe ukapa se u grobno mjesto koje je za života umrloj osobi bilo dodijeljeno tako da je bila korisnik grobnog mjesta ili u grobno mjesto u koje je imala pravo ukopa.
+(2) Tijelo umrle osobe ukapa se u grobno mjesto koje odlukom odredi upravitelj groblja ako umrla osoba nije bila korisnik grobnog mjesta niti je imala pravo ukopa u grobno mjesto.
+(3) Umrlu se osobu, u pravilu, ukapa na groblju koje se nalazi na području jedinice lokalne samouprave u kojoj je imala prebivalište.
+(4) Iznimno od stavka 3. ovoga članka, tijelo umrle osobe može se ukopati i na groblju izvan područja jedinice lokalne samouprave u kojoj je imala prebivalište ako je tako umrla osoba odredila za života ili ako tako odredi njezina obitelj odnosno osobe koje su se za života bile dužne skrbiti o umrloj osobi.
+(5) Iznimno od stavka 3. ovoga članka, tijelo umrle osobe može se ukopati izvan groblja ako to odobri tijelo jedinice lokalne samouprave nadležno za komunalne poslove, uz prethodno pozitivno mišljenje sanitarne inspekcije i tijela jedinice lokalne samouprave nadležnog za poslove zdravstva.
+(6) Kremirane posmrtne ostatke tijela umrle osobe dopušteno je prosipati na posebno određenom mjestu unutar groblja i/ili izvan groblja, u skladu s općim aktom predstavničkog tijela jedinice lokalne samouprave na čijem se području prosipaju kremirani posmrtni ostaci umrle osobe.
+(7) Upravitelj groblja uskratit će ukop i neće preuzeti tijelo umrle osobe ako mu nije dostavljena dozvola za ukop umrle osobe odnosno sprovodnica ako se tijelo umrle osobe u Republiku Hrvatsku prenosi iz inozemstva.
