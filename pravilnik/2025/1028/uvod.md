@@ -1,0 +1,1 @@
+Na temelju članka 93. stavka 3. Zakona o međunarodnoj i privremenoj zaštiti (»Narodne novine«, br. 70/15, 127/17 i 33/23, u daljnjem tekstu: Zakon), ministar rada, mirovinskoga sustava, obitelji i socijalne politike uz prethodnu suglasnost ministra prostornoga uređenja, graditeljstva i državne imovine donosi
