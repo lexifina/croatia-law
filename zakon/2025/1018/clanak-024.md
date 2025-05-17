@@ -1,0 +1,2 @@
+# Članak 24.
+Sve prijave koje su zaprimljene na objavljene javne pozive za odabir određenog područja za provođenje komasacije u skladu s Programom komasacije poljoprivrednog zemljišta do 2026. godine (»Narodne novine«, br. 140/22.), bez ostvarenih uvjeta o suglasnosti većine vlasnika zemljišta i najmanje ukupne površine iz članka 20. stavka 6. Zakona o komasaciji poljoprivrednog zemljišta (»Narodne novine«, br. 46/22.), nadležno povjerenstvo za provedbu javnog poziva administrativno će provjeriti, vrednovati i očitovati se ako su ispunjeni uvjeti iz članka 9. ovoga Zakona.
