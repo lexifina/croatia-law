@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« 52/19 i 42/20), a u svezi s člankom 52. Zakona o turizmu (»Narodne novine« 156/23), Skupština Turističke zajednice Splitsko-dalmatinske županije, uz prethodnu suglasnost Ministarstva turizma i sporta, na III sjednici održanoj dana 25. travnja 2025. godine, donijela je
