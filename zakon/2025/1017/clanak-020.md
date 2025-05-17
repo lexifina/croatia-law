@@ -1,0 +1,5 @@
+# Članak 20.
+(1) Agencija će uspostaviti registar zajednica obnovljive energije te donijeti pravila o registru zajednica obnovljive energije iz članka 3. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Agencija će uspostaviti poticajni okvir iz članka 52. stavka 4. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, br. 138/21. i 83/23.) i članka 14. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(3) Do uspostave poticajnog okvira iz članka 52. stavka 4. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, br. 138/21. i 83/23.) i članka 14. ovoga Zakona faktor cijene iz članka 13. ovoga Zakona iznosi 1.
+(4) Ministarstvo će donijeti plan za određivanje namjenskih područja za mrežnu infrastrukturu i infrastrukturu za skladištenje koja je potrebna za integriranje energije iz obnovljivih izvora u elektroenergetski sustav iz članka 31.a stavka 1., koji je dodan člankom 10. ovoga Zakona, u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
