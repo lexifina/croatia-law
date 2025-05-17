@@ -1,5 +1,0 @@
-## II. SUDJELOVANJE AZILANATA I STRANACA POD SUPSIDIJARNOM ZAŠTITOM U PLAĆANJU TROŠKOVA SMJEŠTAJA
-# Članak 3.
-Azilant odnosno stranac pod supsidijarnom zaštitom za kojeg centar za socijalnu skrb, u razdoblju dok mu se osigurava smještaj sukladno Zakonu, utvrdi da ima imovinu u smislu članka 4. stavka 1. točke 19. Zakona o socijalnoj skrbi, (»Narodne novine« br. 157/13, 152/14, 99/15, 52/16, 16/17 i 130/17, u daljnjem tekstu: Zakon o socijalnoj skrbi) kojom može podmirivati troškove smještaja, dužan je sudjelovati u plaćanju troškova smještaja kako slijedi:
-- azilant odnosno stranac pod supsidijarnom zaštitom koji živi sam i koji ima imovinu kojom može podmirivati troškove smještaja, dužan je sudjelovati u troškovima smještaja svom imovinom koja prelazi iznos od pet osnovica iz članka 27. stavka 2. Zakona o socijalnoj skrbi mjesečno
-- azilant odnosno stranac pod supsidijarnom zaštitom koji živi u kućanstvu koje ima imovinu kojom se mogu podmirivati troškovi smještaja dužan je sudjelovati u troškovima smještaja svom imovinom koja prelazi iznos od tri osnovice iz članka 27. stavka 2. Zakona o socijalnoj skrbi mjesečno po članu kućanstva.
