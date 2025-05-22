@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 1. Zakona o dentalnoj medicini (»Narodne novine« br. 121/03, 117/08 i 120/09) članka 27. točke 1. pročišćenog teksta Statuta Hrvatske komore dentalne medicine (»Narodne novine« br. 118/21), Skupština Hrvatske komore dentalne medicine je na 6. redovnoj sjednici, održanoj 6. lipnja 2024. godine, uz suglasnost ministra zdravstva donijela
