@@ -1,0 +1,1 @@
+Na temelju članka 2. stavka 1. točke 31. Zakona o sigurnosti prometa na cestama (»Narodne novine«, br. 67/08., 48/10., 74/11., 80/13., 158/13., 92/14., 64/15., 108/17., 70/19., 42/20., 85/22., 114/22., 133/23. i 145/24.) ministar poljoprivrede, šumarstva i ribarstva, uz prethodnu suglasnost ministra nadležnog za poslove prometa i ministra nadležnog za unutarnje poslove donosi
