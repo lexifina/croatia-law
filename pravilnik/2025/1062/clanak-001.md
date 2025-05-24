@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o stavljanju na tržište sjemena povrća (»Narodne novine« broj 115/22.) članak 2. mijenja se i glasi:
+»Ovim Pravilnikom u hrvatsko zakonodavstvo preuzima se sljedeći akt Europske unije:
+- Direktiva Vijeća 2002/55/EZ od 13. lipnja 2002. o stavljanju na tržište sjemena povrća (SL L 193, 20. 7. 2002.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2024/3010 od 29. studenoga 2024. o izmjeni direktiva Vijeća 2002/55/EZ i 2002/57/EZ te Direktive Komisije 93/61/EEZ u pogledu uvrštavanja na popis organizama štetnih za bilje na sjemenu i drugom biljnom reprodukcijskom materijalu (L, 4. 12. 2024.)«.
+- Direktiva Vijeća 2002/55/EZ od 13. lipnja 2002. o stavljanju na tržište sjemena povrća (SL L 193, 20. 7. 2002.) kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2024/3010 od 29. studenoga 2024. o izmjeni direktiva Vijeća 2002/55/EZ i 2002/57/EZ te Direktive Komisije 93/61/EEZ u pogledu uvrštavanja na popis organizama štetnih za bilje na sjemenu i drugom biljnom reprodukcijskom materijalu (L, 4. 12. 2024.)«.
