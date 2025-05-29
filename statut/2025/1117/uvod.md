@@ -1,0 +1,1 @@
+Na temelju članka 85. Zakona o tržištu rada (»Narodne novine« br. 118/18, 32/20, 18/22, 156/23 i 152/24) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine« br. 76/93, 29/97, 47/99, 35/08, 127/19 i 151/22) Upravno vijeće Hrvatskoga zavoda za zapošljavanje na sjednici održanoj 13. veljače 2025. godine donijelo je
