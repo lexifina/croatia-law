@@ -1,0 +1,4 @@
+O D L U K U
+I. Ustavna tužba se odbija u dijelu u kojem je podnesena povodu presude i rješenja Županijskog suda u Zagrebu broj: Gž Ob-161/2022-2 od 8. ožujka 2022.
+II Utvrđuje se da je zbog dugotrajnosti sudskog postupka podnositelju ustavne tužbe X. iz K., povrijeđeno pravo na suđenje u razumnom roku zajamčeno člankom 29. stavkom 1. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.) te se na temelju članka 63. stavka 3. Ustavnog zakona o Ustavnom sudu Republike Hrvatske ("Narodne novine" broj 99/99., 29/02. i 49/02. - pročišćeni tekst) određuje primjerena naknada u iznosu od 900,00 eura.
+III. Naknadu iz točke II. izreke ove odluke isplaćuje Državni proračun u roku od tri mjeseca od podnošenja zahtjeva podnositelja Ministarstvu pravosuđa, uprave i digitalne transformacije Republike Hrvatske za njezinu isplatu.
