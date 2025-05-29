@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za odlučivanje o ustavnim tužbama, u sastavu sudac Miroslav Šumanović, predsjednik Vijeća, te suci Mato Arlović, Dražen Bošnjaković, Biljana Kostadinov, Maša Marochini Zrinski i Rajko Mlinarić, članovi Vijeća, u postupku koji je ustavnom tužbom pokrenula M. M. iz S., na sjednici održanoj 29. svibnja 2025. jednoglasno je donio
