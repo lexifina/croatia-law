@@ -1,0 +1,4 @@
+## II. OSNIVANJE PRAVA GRAĐENJA
+# Članak 6.
+(1) Pravo građenja na građevinskom zemljištu u vlasništvu Republike Hrvatske može se osnovati u svrhu građenja komercijalnih, smještajnih, infrastrukturnih i drugih građevina, za koje je sukladno propisima koji uređuju prostorno uređenje i gradnju formirana građevna čestica.
+(2) Pravo građenja na nekretninama osniva se dvostrukim upisom toga prava u zemljišnu knjigu i to njegovim upisom kao tereta na zemljištu koje opterećuje te njegovim upisom kao posebnoga zemljišnoknjižnoga tijela u za to novoosnovanom zemljišnoknjižnom ulošku, a temeljem ugovora o osnivanju prava građenja sklopljenog s najpovoljnijim ponuditeljem koji je izabran u postupku javnog natječaja ili ugovora sklopljenog neposrednom pogodbom s nositeljem prava građenja u slučajevima propisanim zakonom.

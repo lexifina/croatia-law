@@ -1,0 +1,11 @@
+# Članak 11.
+U javnom pozivu uz navedeno u članku 10. ove Uredbe, od ponuditelja, odnosno prijavitelja će se zatražiti da dostavi i sljedeće:
+- osnovne podatke i dokumentaciju koja sadrži osnovne podatke o ponuditelju: ime i prezime ponuditelja/prijavitelja, prebivalište/boravište, osobni identifikacijski broj (OIB) za fizičke osobe i fizičke osobe koje imaju registrirani obrt ili obavljaju samostalnu profesionalnu djelatnost, odnosno naziv trgovačkog društva, sjedište, osobni identifikacijski broj (OIB) za pravne osobe te adresu elektroničke pošte i broj telefona radi kontakta
+- dokaz o izvršenoj uplati jamčevine na žiro račun nadležnog tijela
+- domaće pravne i fizičke osobe dužne su priložiti izvornik ili ovjerenu presliku ili elektronički zapis potvrde o stanju duga Ministarstva financija, Porezne uprave, koja ne smije biti starija od 30 dana od dana podnošenja ponude ili prijave
+- domaće fizičke osobe dužne su priložiti presliku važeće osobne iskaznice, a strane fizičke osobe presliku putovnice
+- domaće pravne, odnosno fizičke osobe moraju priložiti izvadak iz sudskog, obrtnog ili drugog registra, rješenje o upisu u odgovarajući upisnik samostalnih djelatnosti, a strane pravne osobe izvadak iz domicilnog registra s ovjerenim prijevodom sudskog tumača na hrvatski jezik
+- javnobilježnički ovjerenu izjavu ponuditelja, odnosno prijavitelja kojom se isti obvezuje da će, u slučaju ako njegova ponuda bude prihvaćena, sklopiti ugovor o osnivanju prava građenja u obliku ovršne isprave na njegov trošak, da u cijelosti prihvaća uvjete javnog natječaja, te da njegova ponuda ostaje na snazi 90 dana, računajući od dana otvaranja ponuda
+- javnobilježnički ovjerenu izjavu ponuditelja, odnosno prijavitelja kojom isti izjavljuje pod materijalnom i kaznenom odgovornošću da nema dugovanja s osnova korištenja državne imovine.
+- investicijski projekt s opisom objekata koji se namjeravaju graditi, troškovnikom ulaganja, brojem novozaposlenih osoba, opis sadržaja koji će biti smješteni u objektima, detaljno obrazloženom svrhom projekta, fiksnim rokovima izgradnje
+- pismo namjere prvoklasne poslovne banke koja ima kreditni rejting najmanje BBB da će na ime osiguranja izvršenja ugovornih obveza izdati neopozivu, bezuvjetnu i na prvi poziv naplativu bankarsku garanciju u korist Republike Hrvatske.

@@ -1,0 +1,6 @@
+# Članak 14.
+(1) Nadležna tijela će iz redova svojih službenika, odnosno zaposlenika, imenovati Povjerenstvo za provedbu svakog pojedinog javnog natječaja vezano za osnivanje prava građenja (u daljnjem tekstu: Povjerenstvo), koje mora imati neparan broj članova, i to najmanje tri člana, od kojih je jedan član predsjednik Povjerenstva.
+(2) U Povjerenstvo, po ocjenjenoj potrebi, mogu se imenovati i službenici drugih tijela državne uprave te službenici i predstavnici tijela jedinica lokalne ili područne (regionalne) samouprave, a s obzirom na svrhu projekta za koji se predlaže osnivanje prava građenja.
+(3) Povjerenstvo provodi postupak javnog natječaja, vrši ocjenu i pregled ponuda i prijava, sastavlja zapisnik o provedenom javnom natječaju te predlaže donošenje Odluke o odabiru najpovoljnijeg ponuditelja i osnivanju prava građenja.
+(4) O postupku javnog natječaja vodi se zapisnik, a u koje se unose svi podaci o načinu i tijeku postupka te isti zapisnik, potpisuju predsjednik i članovi Povjerenstva.
+(5) Povjerenstvo će zapisnik o provedenom javnom natječaju, zajedno s Prijedlogom odluke o odabiru najpovoljnijeg ponuditelja dostaviti čelniku nadležnog tijela koji će odlučiti o Prijedlogu odluke.

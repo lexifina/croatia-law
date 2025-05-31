@@ -1,0 +1,2 @@
+# Članak 7.
+Ovisno o procjeni ukupno utvrđene visine naknade za osnivanje prava građenja za cjelokupno razdoblje trajanja prava građenja iz članka 6. stavka 1. ove Uredbe, odluku o pokretanju postupka osnivanju prava građenja putem javnog natječaja, odnosno odluku o osnivanju prava građenja neposrednom pogodbom donosi gradonačelnik, gradsko vijeće, župan, županijska skupština, ministar nadležan za poslove državne imovine (u daljnjem tekstu: ministar) ili Vlada Republike Hrvatske, sukladno odredbama Zakona.

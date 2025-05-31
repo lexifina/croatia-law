@@ -1,0 +1,9 @@
+# Članak 17.
+(1) Sustavu javnog prikupljanja ponuda elektroničkim sredstvima komunikacije pristupa se prijavom u IRN, modul natječaji, putem vjerodajnice visoke razine sigurnosti i to elektroničke osobne iskaznice Republike Hrvatske s kvalificiranim osobnim digitalnim certifikatom ili odgovarajućim poslovnim certifikatom, i to u roku koji je određen javnim pozivom, a koji iznosi najmanje 30 dana od dana objave javnog poziva u visokotiražnom dnevnom listu.
+(2) Uz prijavu iz stavka 1. ovoga članka prijavitelj je dužan priložiti odgovarajuću dokumentaciju, potvrditi odgovarajuće izjave i priložiti dokaz o uplati odgovarajuće jamčevine sukladno uvjetima propisanim u javnom pozivu.
+(3) Nakon što Povjerenstvo evaluira zaprimljene prijave, priležeću dokumentacije i uplaćene jamčevine te utvrdi valjanost prijave, prijavitelj će u korisnički pretinac zaprimiti obavijest o tome ispunjava li ili ne ispunjava uvjete za podnošenje ponude.
+(4) Povjerenstvo je dužno evaluirati zaprimljene prijave iz stavka 1. ovoga članka u roku od najduže osam radnih dana.
+(5) Prijavitelji koji ispunjavaju uvjete za podnošenje ponude putem elektroničkih sredstava komunikacije dužni su predati ponude u roku od deset dana, a datum i vrijeme početka i završetka tog roka se određuje u javnom pozivu.
+(6) Ukoliko nitko od prijavitelja koji su ispunili uvjete za podnošenje ponuda elektroničkim sredstvima komunikacije ne podnese ponudu unutar roka iz stavka 5. ovoga članka, smatra se da prikupljanje ponuda nije uspjelo.
+(7) Kod elektroničkog javnog prikupljanja ponuda ponuditelj može dati samo jednu ponudu u odnosu na iznos početne cijene nekretnine i visina te ponude nije ograničena.
+(8) U zapisnik o provedenom postupku javnog prikupljanja ponuda putem elektroničkih sredstava komunikacije na odgovarajući način će se unijeti činjenice i podaci iz članka 15. stavaka 11., 12. i 13. ove Uredbe.
