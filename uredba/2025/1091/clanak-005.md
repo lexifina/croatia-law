@@ -1,0 +1,2 @@
+# Članak 5.
+Tijela iz članka 3. stavka 2. točke a) podtočke 2. ove Uredbe su u smislu ove Uredbe tijela koja su u okviru svojih nadležnosti obvezna poduzimati odgovarajuće aktivnosti s ciljem upravljanja nepravilnostima te su obvezna izvještavati o nepravilnostima prilikom slanja Izjave o upravljanju, a sukladno propisima Republike Hrvatske i Europske unije kojima se uređuje područje zaštite financijskih interesa Europske unije.
