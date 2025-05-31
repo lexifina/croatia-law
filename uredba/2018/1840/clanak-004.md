@@ -1,4 +1,0 @@
-# Članak 4.
-(1) Ovisno o visini naknade za osnivanje prava građenja, odluku o osnivanju prava građenja putem javnog natječaja, odluku o izboru najpovoljnije ponuditelja, kao i odluku o osnivanju prava građenja neposrednom pogodbom donosi tijelo nadležno sukladno odredbama članka 37. stavaka 4. i 5. Zakona, osim u slučaju kada se pravo građenja osniva u korist investitora u projekte obnovljivih izvora energije i visokoučinkovite kogeneracije izabranog u postupku po posebnom zakonu.
-(2) Ugovor o osnivanju prava građenja sklapa ministar nadležan za poslove državne imovine, osim ako odlukom tijela nadležnog sukladno odredbama članka 37. stavka 5. Zakona nije drukčije određeno.
-(3) Ugovor o osnivanju prava građenja za realizaciju projekta obnovljivih izvora energije i visokoučinkovite kogeneracije sklapa se temeljem odluke o izboru najpovoljnijeg ponuditelja izabranog u postupku koji je provelo središnje tijelo državne uprave nadležno po posebnom zakonu.

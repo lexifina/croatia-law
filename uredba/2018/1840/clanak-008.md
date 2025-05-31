@@ -1,4 +1,0 @@
-# Članak 8.
-(1) Javni poziv za javno prikupljanje ponuda za osnivanje prava građenja objavljivat će se u jednom od visokotiražnih dnevnih listova, na internetskim stranicama: Ministarstva, Hrvatske gospodarske komore, ministarstva u čijem djelokrugu poslova je svrha osnivanja prava građenja te na internetskim stranicama tijela nadležnog za investicije i konkurentnost.
-(2) Za investicijske projekte za koje se ocijeni potrebnim i opravdanim, tijelo nadležno sukladno odredbama članka 37. Zakona, može odrediti da se javni poziv za javno prikupljanje ponuda objavi i u jednom ili više visokotiražnih inozemnih listova.
-(3) Rok za podnošenje ponude povodom javnog poziva iz stavka 1. ovoga članka računa se od dana objave javnog poziva u dnevnom listu, što će se naznačiti u oglasima koji se objavljuju na internetskim stranicama iz stavka 1. ovog članka.
