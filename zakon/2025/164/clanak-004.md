@@ -1,0 +1,6 @@
+# Članak 4.
+Članak 5. mijenja se i glasi:
+»Odlučivanje o prijmu u službu, rasporedu na radno mjesto, premještaju, napredovanju, plaći, produženju roka za polaganje državnog ispita, stavljanju na raspolaganje, prestanku službe te zadržavanju u službi upravna je stvar o kojoj rješenjem odlučuje pročelnik ili službena osoba kojoj je rješavanje o tome utvrđeno opisom poslova radnog mjesta, sukladno pravilniku o unutarnjem redu, osim kad je ovim Zakonom izrijekom propisano da rješenje donosi pročelnik upravnog tijela.
+Odlučivanje o imenovanju i razrješenju pročelnika, plaći, produženju roka za polaganje državnog ispita, stavljanju na raspolaganje, prestanku službe te zadržavanju u službi pročelnika upravna je stvar o kojoj rješenjem odlučuje općinski načelnik, gradonačelnik odnosno župan.
+Na odlučivanje o pravima i obvezama iz službe, osim u slučaju iz stavaka 1. i 2. ovoga članka, odgovarajuće se primjenjuju odredbe općeg propisa o radu kojima se uređuje ostvarivanje prava i obveza iz radnog odnosa.
+O pravima i obvezama iz službe iz stavka 3. ovoga članka odlučuje pročelnik ili službena osoba kojoj je odlučivanje o tome utvrđeno u pravilniku o unutarnjem redu, a o pravima i obvezama pročelnika općinski načelnik, gradonačelnik odnosno župan.«.
