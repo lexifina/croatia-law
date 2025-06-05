@@ -1,0 +1,1 @@
+Na temelju članka 68. stavka 4. Zakona o lovstvu (»Narodne novine«, br. 99/18., 32/19., 32/20. i 127/24. - Odluka Ustavnog suda Republike Hrvatske), ministar poljoprivrede, šumarstva i ribarstva donosi
