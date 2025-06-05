@@ -1,0 +1,4 @@
+# Članak 22.
+Ako na početku financijske godine proračun još uvijek nije usvojen, svakog se mjeseca može potrošiti svota koja iznosi najviše jednu dvanaestinu odobrenih proračunskih sredstava za prethodnu financijsku godinu za bilo koje poglavlje ili potpoglavlje proračuna u skladu s odredbama financijskih pravila; međutim, ovaj aranžman ne utječe na stavljanje na raspolaganje odobrenih sredstava Instituta u iznosu većem od jedne dvanaestine iznosa predviđenog nacrtom proračuna u pripremi.
+Pod uvjetom da se poštuju drugi uvjeti iz prethodnog stavka, Visoko vijeće kvalificiranom većinom može odobriti rashode veće od jedne dvanaestine.
+Države ugovornice svakoga mjeseca na privremenoj osnovi i u skladu s omjerima utvrđenim za prethodnu financijsku godinu plaćaju iznose potrebne kako bi se osigurala primjena ovoga članka.
