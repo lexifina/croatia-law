@@ -1,0 +1,7 @@
+# Članak 15.
+(1) Proizvođači sjemena čuvanih sorti dužni su prije početka svake proizvodne sezone prijaviti površinu i područje sjemenske proizvodnje čuvanih sorti Agenciji kako bi se mogla pratiti proizvodnja.
+(2) Iznimno od stavka 1. ovoga članka, u slučaju izravno požetih mješavina, proizvođači sjemena dužni su prije početka svake proizvodne sezone Agenciji prijaviti količinu sjemena mješavina krmnog bilja za očuvanje koju namjeravaju prijaviti za stavljanje na tržište zajedno sa veličinom površine i lokacijom područja sakupljanja.
+(3) Iznimno od stavka 1. ovoga članka, u slučaju usjevno uzgojenih mješavina, proizvođači sjemena dužni su prije početka svake proizvodne sezone Agenciji prijaviti količinu sjemena mješavina krmnog bilja za očuvanje koju namjeravaju prijaviti za stavljanje na tržište zajedno sa veličinom i lokacijom područja sakupljanja i veličinom i lokacijom područja za umnožavanje.
+(4) Proizvođači sjemena čuvanih sorti, dužni su za svaku proizvodnu sezonu prijaviti Agenciji količine sjemena svake čuvane sorte koje su stavili na tržište.
+(5) Ministarstvo će na zahtjev Komisije i druge države članice izvijestiti o količini sjemena svake čuvane sorte iz stavka 4. ovoga članka koje je stavljeno na području Republike Hrvatske.
+(6) Ako je količina sjemena iz stavka 1., 2. i 3. ovoga članka veća od količine iz članka 14. ovoga Pravilnika, ministar će ograničiti količine koje pojedini proizvođač može staviti u promet.
