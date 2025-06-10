@@ -1,0 +1,1 @@
+Na temelju članka 33. stavka 8. Zakona o hrani (»Narodne novine«, broj 18/2023), te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/2019), ministar poljoprivrede, ribarstva i šumarstva, uz prethodnu suglasnost glavnog državnog inspektora i ministra vanjskih i europskih poslova donosi
