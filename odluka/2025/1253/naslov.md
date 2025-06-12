@@ -1,0 +1,1 @@
+Odluka o donošenju Programa razvoja sektora mesnog govedarstva u Republici Hrvatskoj za razdoblje do 2030. godine i Akcijskog plana za provedbu Programa razvoja sektora mesnog govedarstva u Republici Hrvatskoj za razdoblje do 2027. godine
