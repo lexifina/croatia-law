@@ -1,0 +1,3 @@
+# Članak 12.
+REGIONALNA SURADNJA
+Kako bi se promicali ciljevi ovoga Protokola, ugovorne stranke sa zajedničkim interesima za zaštitu morskog okoliša na određenom zemljopisnom području nastoje, uzimajući u obzir regionalne osobitosti, unaprijediti regionalnu suradnju, uključujući sklapanje regionalnih sporazuma usklađenih s ovim Protokolom o sprječavanju, smanjenju i, ako je moguće, uklanjanju onečišćenja uzrokovanog potapanjem ili spaljivanjem otpada ili drugih tvari na moru. Ugovorne stranke nastoje surađivati sa strankama regionalnih sporazuma kako bi razvile usklađene postupke kojih se ugovorne stranke različitih konvencija trebaju pridržavati.

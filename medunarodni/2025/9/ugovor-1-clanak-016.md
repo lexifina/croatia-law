@@ -1,0 +1,7 @@
+# Članak 16.
+RJEŠAVANJE SPOROVA
+1 Svi sporovi u vezi s tumačenjem ili primjenom ovoga Protokola rješavaju se u prvom redu pregovorima, posredovanjem ili mirenjem ili drugim mirnim sredstvima koje su izabrale stranke u sporu.
+2 Ako nije moguće postići dogovor u roku od dvanaest mjeseci nakon što jedna ugovorna stranka obavijesti drugu da između njih postoji spor, spor se na zahtjev stranke u sporu, rješava arbitražnim postupkom navedenim u Prilogu 3., osim ako se stranke u sporu ne slože koristiti jedan od postupaka navedenih u članku 287. stavku 1. Konvencije Ujedinjenih naroda o pravu mora iz 1982. Stranke u sporu mogu se tako dogovoriti, bez obzira na to jesu li ili nisu također države stranke Konvencije Ujedinjenih naroda o pravu mora iz 1982.
+3 U slučaju da se postigne dogovor o korištenju jednog od postupaka navedenih u članku 287. stavku 1. Konvencije Ujedinjenih naroda o pravu mora iz 1982., odredbe navedene u dijelu XV. te Konvencije koje se odnose na odabrani postupak također se primjenjuju mutatis mutandis.
+4 Razdoblje od dvanaest mjeseci navedeno u stavku 2. može se produljiti za još dvanaest mjeseci uz obostranu suglasnost stranaka.
+5 Neovisno o stavku 2., svaka država može, u trenutku kada izrazi suglasnost da je vezana ovim Protokolom, obavijestiti glavnog tajnika da će, kada je stranka u sporu o tumačenju ili primjeni članka 3.1. ili 3.2., njezina suglasnost biti potrebna prije nego što se spor može riješiti arbitražnim postupkom navedenim u Prilogu 3.

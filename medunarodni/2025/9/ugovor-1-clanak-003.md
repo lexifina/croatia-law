@@ -1,0 +1,6 @@
+# Članak 3.
+OPĆE OBVEZE
+1 Pri provedbi ovoga Protokola ugovorne stranke primjenjuju oprezan pristup zaštiti okoliša od potapanja otpada ili drugih tvari pri čemu se poduzimaju odgovarajuće preventivne mjere kada postoji opravdana sumnja da otpad ili druga tvar unesena u morski okoliš može nanijeti štetu čak i kada ne postoje čvrsti dokazi koji bi dokazali uzročnu vezu između ulaznih materijala i njihovih učinaka.
+2 Uzimajući u obzir pristup prema kojem bi onečišćivač u načelu trebao snositi trošak onečišćenja, svaka ugovorna stranka nastoji promicati prakse prema kojima oni koje je ovlastila za potapanje ili spaljivanje na moru snose troškove ispunjavanja zahtjeva za sprječavanje i nadzor onečišćenja za odobrene djelatnosti, uzimajući u obzir javni interes.
+3 Pri provedbi odredaba ovoga Protokola ugovorne stranke djeluju tako da ne premještaju, izravno ili neizravno, štetu ili vjerojatnost štete s jednog dijela okoliša na drugi ili pretvaraju jednu vrstu onečišćenja u drugu.
+4 Niti jedna odredba ovoga Protokola ne smije se tumačiti tako da sprječava ugovornim strankama pojedinačno ili zajedničko poduzimanje strožih mjera u skladu s međunarodnim pravom u pogledu sprječavanja, smanjenja i, ako je moguće, uklanjanja onečišćenja.

@@ -1,0 +1,7 @@
+# Članak 21.
+IZMJENA I DOPUNA PROTOKOLA
+1 Svaka ugovorna stranka može predložiti izmjene i dopune članaka ovoga Protokola. Tekst predložene izmjene i dopune Organizacija dostavlja ugovornim strankama najmanje šest mjeseci prije njegovog razmatranja na sastanku ugovornih stranaka ili izvanrednom sastanku ugovornih stranaka.
+2 Izmjene i dopune članaka ovoga Protokola donose se dvotrećinskom većinom glasova ugovornih stranaka koje su prisutne i glasuju na sastanku ugovornih stranaka ili izvanrednom sastanku ugovornih stranaka sazvanom u tu svrhu.
+3 Izmjena i dopuna stupa na snagu za ugovorne stranke koje su je prihvatile šezdesetog dana nakon što dvije trećine ugovornih stranaka polože ispravu o prihvatu izmjene i dopune kod Organizacije. Nakon toga, izmjena i dopuna stupa na snagu za sve druge ugovorne stranke šezdesetog dana nakon datuma na koji je ta ugovorna stranka položila svoju ispravu o prihvatu izmjene i dopune.
+4 Glavni tajnik obavješćuje ugovorne stranke o svim izmjenama i dopunama usvojenim na sastancima ugovornih stranaka i o datumu kada te izmjene i dopune stupaju na snagu općenito te za svaku ugovornu stranku.
+5 Nakon stupanja na snagu izmjene i dopune ovoga Protokola, svaka država koja postane ugovorna stranka ovoga Protokola postaje ugovorna stranka ovoga Protokola kako je izmijenjen, osim ako se dvije trećine ugovornih stranaka prisutnih i koje glasuju na sastanku ili izvanrednom sastanku ugovornih stranaka na kojem se usvaja izmjena i dopuna ne dogovore drukčije.
