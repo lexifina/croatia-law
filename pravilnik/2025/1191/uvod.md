@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 12. Zakona o eksplozivnim tvarima te proizvodnji i prometu oružja (»Narodne novine«, br. 70/17., 141/20. i 114/22.) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.) ministar unutarnjih poslova, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

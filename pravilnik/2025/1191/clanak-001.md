@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o načinu ispitivanja i označavanja vatrenog oružja, oružja iz kategorije C i naprava (»Narodne novine«, br. 54/18. i 27/21.) članak 1.a mijenja se i glasi:
+»Ovim Pravilnikom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+- Provedbena direktiva Komisije (EU) 2019/68 od 16. siječnja 2019. o utvrđivanju tehničkih specifikacija za označivanje vatrenog oružja i njegovih bitnih dijelova u skladu s Direktivom (EU) 2021/555 Europskog parlamenta i Vijeća o nadzoru nabave i posjedovanja oružja (Tekst značajan za EGP) (SL L 15, 17. 1. 2019.), kako je posljednji put izmijenjena Provedbenom direktivom Komisije (EU) 2024/325 оd 19. siječnja 2024. o izmjeni Provedbene direktive (EU) 2019/68 u pogledu minimalne dubine oznaka na vatrenom oružju i njegovim bitnim dijelovima (Tekst značajan za EGP) (SL L 2024/325, 22. 1. 2024.).
+- Provedbena direktiva Komisije (EU) 2019/69 od 16. siječnja 2019. o utvrđivanju tehničkih specifikacija oružja za uzbunjivanje i signalizaciju u skladu s Direktivom Vijeća 91/477/EEZ o nadzoru nabave i posjedovanja oružja (Tekst značajan za EGP) (SL L 15/22, 17. 1. 2019.).«
