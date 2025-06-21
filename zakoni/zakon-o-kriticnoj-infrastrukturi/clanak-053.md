@@ -1,0 +1,3 @@
+# Članak 53.
+(1) Danom stupanja na snagu ovoga Zakona pravne osobe i obrti koji obavljaju poslove privatne zaštite kritične infrastrukture na temelju ugovora sklopljenih do dana stupanja na snagu ovoga Zakona nastavljaju obavljati te poslove do isteka roka na koji je ugovor zaključen.
+(2) Do izdavanja certifikata iz članka 29. ovoga Zakona, a najdulje u razdoblju od godine dana od dana stupanja na snagu ovoga Zakona kritični subjekt može ugovorom povjeriti obavljanje poslova privatne zaštite objekata, mreža i sustava pravnoj osobi ili obrtu koji su podnijeli zahtjev za izdavanje certifikata iz članka 29. ovoga Zakona.

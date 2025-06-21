@@ -1,0 +1,6 @@
+## Drugi odgovarajući dokumenti i mjere
+# Članak 25.
+(1) Ako je kritični subjekt, na temelju posebnih propisa, proveo druge procjene rizika ili izradio dokumente koji su značajni za procjenu rizika kritičnog subjekta, može se koristiti tim procjenama i dokumentima u svrhu procjene rizika iz članka 22. ovoga Zakona.
+(2) Smatra se da je kritični subjekt izvršio obvezu izrade sigurnosnog plana ako je, na temelju posebnih propisa, izradio drugi planski dokument koji sadrži elemente propisane člankom 24. ovoga Zakona.
+(3) Nadležno tijelo utvrđuje usklađenost procjena odnosno dokumenata iz stavaka 1. i 2. ovoga članka s odredbama ovoga Zakona te dostavlja pisanu obavijest o jednakovrijednosti dokumenata kritičnom subjektu i Koordinativnom tijelu.
+(4) Pri izvršavanju nadzornih funkcija koje nadležna tijela provode na temelju posebnih propisa kojima se uređuje područje pružanja određenih ključnih usluga nadležno tijelo može utvrditi da su postojeće mjere za jačanje otpornosti koje je poduzeo kritični subjekt i koje se na odgovarajući i razmjeran način odnose na tehničke, sigurnosne i organizacijske mjere iz stavka 1. ovoga članka djelomično ili u cijelosti sukladne mjerama određenim nacionalnim aktom strateškog planiranja iz članka 11. stavka 1. ovoga Zakona.

@@ -1,0 +1,17 @@
+## Savjetodavne misije
+# Članak 42.
+(1) Koordinativno tijelo, na zahtjev nadležnog tijela i uz prethodnu suglasnost Vlade, može podnijeti Europskoj komisiji zahtjev za organiziranje savjetodavne misije kako bi se procijenile mjere otpornosti i zaštite kritične infrastrukture koje uspostavlja kritični subjekt koji je potvrdila Republika Hrvatska, a utvrđen je kao kritični subjekt od posebnog europskog značaja.
+(2) Europska komisija može, i na vlastitu inicijativu, kao i na zahtjev jedne ili više država članica kojima ili u kojima se pruža ključna usluga, organizirati savjetodavnu misiju, ako je s time suglasna država koja je utvrdila kritični subjekt.
+(3) Na obrazloženi zahtjev Europske komisije ili jedne ili više država kojima se pruža ili u kojima se pruža ključna usluga, Koordinativno tijelo će za potvrđeni kritični subjekt koji je od posebnog europskog značaja dostaviti:
+– relevantne dijelove procjene rizika kritičnog subjekta
+– popis relevantnih mjera za otpornost kritičnih subjekata poduzetih u skladu s člankom 24. ovoga Zakona
+– nadzorne ili mjere izvršavanja, uključujući procjene usklađenosti ili izdane naloge koje je njezino nadležno tijelo poduzelo na temelju članaka 45. do 48. ovoga Zakona u pogledu tog kritičnog subjekta.
+(4) Nalazi savjetodavne misije dostavljaju se Europskoj komisiji, Koordinativnom tijelu te državama kojima se pruža ili u kojima se pruža ključna usluga i kritičnom subjektu u roku od tri mjeseca nakon zaključenja savjetodavne misije.
+(5) Koordinativno tijelo, u suradnji s nadležnim tijelom, analizira nalaz iz stavka 4. ovoga članka i, ako je potrebno, savjetuje Europsku komisiju o tome ispunjava li kritični subjekt od posebnog europskog značaja svoje obveze i, prema potrebi, koje bi se mjere mogle poduzeti radi poboljšanja otpornosti tog kritičnog subjekta.
+(6) Europska komisija na temelju savjeta iz stavka 5. ovoga članka dostavlja mišljenje Koordinativnom tijelu o ispunjavanju obveza kritičnog subjekata i poboljšanju mjera.
+(7) Nadležno tijelo i kritični subjekt od posebnog europskog značaja dužni su uzeti u obzir mišljenje iz stavka 6. ovoga članka te Europskoj komisiji i državama članicama kojima se pruža ili u kojima se pruža ključna usluga dostavljati informacije o mjerama poduzetima na temelju tog mišljenja.
+(8) Ako je Republika Hrvatska potvrdila kritični subjekt od europskog značaja ili takav subjekt pruža usluge u Republici Hrvatskoj ili za Republiku Hrvatsku, u savjetodavnim misijama iz stavaka 1. i 2. ovoga članka sudjeluju i stručnjaci iz Republike Hrvatske, koje imenuje Europska komisija, u skladu s njihovim stručnim sposobnostima, nakon savjetovanja s državom članicom koja je utvrdila kritični subjekt.
+(9) Članovi savjetodavne misije moraju imati valjano i odgovarajuće uvjerenje o sigurnosnoj provjeri.
+(10) Europska komisija snosi troškove sudjelovanja u savjetodavnim misijama te organizira program svake savjetodavne misije, uz savjetovanje s članovima savjetodavne misije i u dogovoru s Koordinativnim tijelom.
+(11) Kritični subjekti od posebnog europskog značaja moraju omogućiti savjetodavnim misijama pristup informacijama, sustavima i objektima povezanima s pružanjem njihovih ključnih usluga potrebnim za provedbu savjetodavne misije.
+(12) Savjetodavne misije provode se u skladu s važećim nacionalnim pravom, poštujući odgovornost Republike Hrvatske za nacionalnu sigurnost i zaštitu sigurnosnih interesa.

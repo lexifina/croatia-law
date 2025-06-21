@@ -1,0 +1,5 @@
+## I. UVODNE ODREDBE
+## Predmet Zakona
+# Članak 1.
+(1) Ovim se Zakonom uređuje zaštita nacionalne kritične infrastrukture i infrastrukture od posebnog europskog značaja, načela zaštite i mjere otpornosti, koordinacija zaštite kritične infrastrukture, nacionalni okvir za otpornost kritičnih subjekata, utvrđivanje i potvrđivanje kritičnih subjekata, i kritičnih subjekata od posebnog europskog značaja, obveze kritičnih subjekata, definira sadržaj sigurnosnog plana, certificiranje pravnih osoba i obrta koji pružaju privatnu zaštitu kritične infrastrukture, obavješćivanje o incidentima, provjera podobnosti te uloga i obveze sigurnosnog koordinatora, postupanje s podacima o kritičnoj infrastrukturi te nadzor nad provedbom ovoga Zakona.
+(2) Ovaj se Zakon, u dijelu provedbe zaštite nacionalnih kritičnih infrastruktura, ne primjenjuje na tijela državne uprave i druga državna tijela u čijoj su nadležnosti poslovi nacionalne sigurnosti, javne sigurnosti, obrane ili poslovi provedbe zakona u svrhu sprječavanja, otkrivanja i istraživanja kaznenih djela.
