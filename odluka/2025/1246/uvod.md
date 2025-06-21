@@ -1,0 +1,1 @@
+Na temelju članka 101. stavka 1. točke 4., 6. i 8. Zakona o reviziji (»Narodne novine«, broj 127/17 27/24 i 85/24 dalje: Zakon), Upravno vijeće Hrvatske revizorske komore, na sjednici održanoj 26. 11. 2024., donosi
