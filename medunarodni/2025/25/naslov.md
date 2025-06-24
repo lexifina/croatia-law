@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Ugovora između Vlade Republike Hrvatske i Vlade Kraljevine Saudijske Arabije o izbjegavanju dvostrukog oporezivanja porezima na dohodak i na imovinu te sprječavanju porezne utaje i izbjegavanja plaćanja poreza
