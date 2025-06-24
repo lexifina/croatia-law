@@ -1,0 +1,2 @@
+# Članak 2.
+Naziv radnog mjesta policijskog službenika na kojemu se staž osiguranja računa u povećanom trajanju sastoji se od naziva radnog mjesta propisanog Uredbom o nazivima radnih mjesta, uvjetima za raspored i koeficijentima za obračun plaće u državnoj službi (»Narodne novine«, br. 22/24. i 33/24. - ispravak) i dodatnog naziva kojim se pobliže određuje vrsta poslova koja se na radnom mjestu obavlja.

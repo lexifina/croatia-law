@@ -1,0 +1,1 @@
+Na temelju članka 17. stavka 3. Zakona o policiji (»Narodne novine«, br. 34/11., 130/12., 89/14. - vjerodostojno tumačenje, 151/14., 33/15., 121/16., 66/19. i 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 12. lipnja 2025. donijela
