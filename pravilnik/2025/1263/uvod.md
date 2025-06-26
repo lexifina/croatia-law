@@ -1,0 +1,1 @@
+Na temelju odredbi članka 419.c. stavka 8. Zakona o osiguranju (»Narodne novine«, broj 30/2015, 112/2018, 63/2020, 133/2020, 151/2022 i 152/2024), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 12. lipnja 2025. donosi
