@@ -1,0 +1,1 @@
+Na temelju članaka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« 52/19 i 42/20), a u svezi s člankom 52. Zakona o turizmu (»Narodne novine« 156/23), Skupština Turističke zajednice Šibensko-kninske županije, uz prethodnu suglasnost Ministarstva turizma i sporta, na IV. sjednici održanoj 19. svibnja 2025. godine, donijela je
