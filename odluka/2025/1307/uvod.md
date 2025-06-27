@@ -1,0 +1,1 @@
+Na temelju članka 81. Ustava Republike Hrvatske te na temelju Strategije sprječavanja korupcije za razdoblje od 2021. do 2030. godine (»Narodne novine«, br. 120/21.) Hrvatski sabor na sjednici 27. lipnja 2025. donio je
