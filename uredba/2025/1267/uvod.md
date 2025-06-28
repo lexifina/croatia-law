@@ -1,0 +1,1 @@
+Na temelju članka 125. stavka 7. Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18., 115/18., 58/20. i 156/23.), Vlada Republike Hrvatske je na sjednici održanoj 18. lipnja 2025. donijela
