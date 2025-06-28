@@ -1,0 +1,7 @@
+## Obveze pružatelja usluga
+# Članak 15.
+(1) Pružatelj usluge dužan je osigurati sukladnost svojeg dizajna i pružanja usluge sa zahtjevima za pristupačnost propisanim ovim Zakonom.
+(2) Pružatelj usluge dužan je pripremiti potrebne informacije u skladu s Prilogom V. ovoga Zakona i objasniti način na koji se uslugom ispunjavaju zahtjevi za pristupačnost propisani ovim Zakonom.
+(3) Informacije iz stavka 2. ovoga članka moraju biti dostupne javnosti u pisanom i usmenom obliku, među ostalim, na način koji je pristupačan osobama s invaliditetom, a pružatelj usluge te informacije mora čuvati tijekom cijelog razdoblja pružanja usluge.
+(4) Pružatelj usluge dužan je provesti postupak kako bi pružao uslugu sukladno sa zahtjevima za pristupačnost propisanim ovim Zakonom te na odgovarajući način uzeti u obzir promjene svojstava pružanja usluge, promjene zahtjeva za pristupačnost i promjene usklađenih normi ili tehničke specifikacije na temelju kojih se za uslugu utvrđuje da ispunjava zahtjeve za pristupačnost propisane ovim Zakonom.
+(5) U slučaju nesukladnosti pružatelj usluge dužan je poduzeti mjere koje su potrebne kako bi se osigurala sukladnost usluge sa zahtjevima za pristupačnost propisanim ovim Zakonom, a ako usluga nije sukladna s tim zahtjevima, bez odgode o tome obavijestiti nadležna nacionalna tijela država članica u kojima se usluga pruža, posebno pružajući pojedinosti o nesukladnosti i svim poduzetim mjerama.

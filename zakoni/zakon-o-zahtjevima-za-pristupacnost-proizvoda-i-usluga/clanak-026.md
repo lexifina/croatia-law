@@ -1,0 +1,4 @@
+## Postupak primjenjiv na usluge koje nisu sukladne sa zahtjevima za pristupačnost propisanim ovim Zakonom
+# Članak 26.
+(1) Ako nadležni inspektor iz članka 25. ovoga Zakona u provedbi inspekcijskog nadzora utvrdi da usluga nije sukladna sa zahtjevima za pristupačnost propisanim ovim Zakonom, inspektor će bez odgode kroz zapisnik o inspekcijskom nadzoru zahtijevati od pružatelja usluge koji pruža uslugu da provede korektivne mjere radi otklanjanja nesukladnosti u okviru obveza koje su mu određene ovim Zakonom te će odrediti primjereni rok za izvršenje mjere.
+(2) Ako pružatelj usluge ne izvrši mjeru iz stavka l. ovoga članka u određenom roku, nadležni inspektor iz članka 25. ovoga Zakona donijet će rješenje kojim će pružatelju usluge narediti otklanjanje utvrđene nesukladnosti, određujući rok u kojem se ta nesukladnost mora otkloniti.

@@ -1,0 +1,14 @@
+## DIO TREĆI OBVEZE GOSPODARSKIH SUBJEKATA KOJI SE BAVE PROIZVODIMA I OBVEZE PRUŽATELJA USLUGA
+## Obveze proizvođača
+# Članak 9.
+(1) Kada stavlja svoj proizvod na tržište, proizvođač je dužan provjeriti je li proizvod oblikovan i proizveden u skladu sa zahtjevima za pristupačnost propisanim ovim Zakonom.
+(2) Proizvođač je dužan sastaviti tehničku dokumentaciju u skladu s Prilogom IV. ovoga Zakona i provesti postupak ocjenjivanja sukladnosti opisan u tom Prilogu ili osigurati provođenje tog postupka.
+(3) Kada je postupkom ocjenjivanja sukladnosti iz stavka 2. ovoga članka dokazana sukladnost proizvoda sa zahtjevima za pristupačnost propisanim ovim Zakonom, proizvođač je dužan sastaviti EU izjavu o sukladnosti i na proizvod staviti oznaku CE.
+(4) Proizvođač je dužan čuvati tehničku dokumentaciju i EU izjavu o sukladnosti pet godina nakon što je proizvod stavio na tržište.
+(5) Proizvođač je dužan osigurati provedbu postupka radi održavanja sukladnosti proizvodne serije s ovim Zakonom, pri čemu je dužan na primjeren način uzeti u obzir promjene u oblikovanju ili značajkama proizvoda te promjene u usklađenim normama ili tehničkim specifikacijama koje su navedene u EU izjavi o sukladnosti proizvoda.
+(6) Proizvođač je dužan osigurati da njegov proizvod nosi broj tipa, šarže ili serije ili koji drugi podatak koji omogućuje njegovu identifikaciju ili, kada to ne dopušta veličina ili priroda proizvoda, da se traženi podaci navedu na pakiranju ili u dokumentima koji prate proizvod.
+(7) Proizvođač na proizvodu ili, kada to nije moguće, na pakiranju proizvoda ili u dokumentu koji prati proizvod navodi svoje ime, registrirano trgovačko ime ili registrirani zaštitni znak i adresu na kojoj se od proizvođača može zatražiti informacija o proizvodu na pristupačan način.
+(8) Adresa iz stavka 7. ovoga članka mora sadržavati jedinstveno mjesto na kojem je moguće stupiti u kontakt s proizvođačem, a podaci za kontakt moraju biti na hrvatskom jeziku i latiničnom pismu.
+(9) Proizvođač je dužan osigurati da su proizvodu priložene upute i sigurnosne informacije na hrvatskom jeziku i latiničnom pismu, te da su takve upute i informacije te svako označivanje jasni, razumljivi i shvatljivi.
+(10) Proizvođač koji utvrdi ili ima razloga vjerovati da proizvod koji je stavio na tržište nije u skladu s ovim Zakonom, dužan je bez odgode poduzeti mjere koje su potrebne da proizvod ispuni zahtjeve sukladnosti ili ga, prema potrebi, povlači.
+(11) Ako proizvod nije u skladu sa zahtjevima za pristupačnost propisanim ovim Zakonom, proizvođač osim obveze propisane stavkom 10. ovoga članka bez odgode o tome obavješćuje nadležno nacionalno tijelo država članica u kojima je proizvod stavio na raspolaganje na tržištu, posebno pružajući detalje o nesukladnosti i svim poduzetim mjerama, te je u takvom slučaju dužan voditi evidenciju proizvoda koji nisu u skladu sa zahtjevima za pristupačnost propisanim ovim Zakonom i povezanih pritužbi.
