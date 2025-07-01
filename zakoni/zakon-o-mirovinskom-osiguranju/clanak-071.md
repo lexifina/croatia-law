@@ -1,0 +1,5 @@
+# Članak 71.
+(1) Ako obiteljsku mirovinu koriste dva ili više članova obitelji pa nekom od njih prestane pravo na mirovinu, ostalim članovima koji imaju pravo na obiteljsku mirovinu ponovno se određuje visina mirovine od dana od kojega je nekom od korisnika prestalo pravo na mirovinu, a ponovno određena mirovina isplaćuje se počevši od prvoga dana idućeg mjeseca nakon nastale promjene.
+(2) Ako se isplata dijela obiteljske mirovine obustavi, obiteljska se mirovina ponovno ne određuje za razdoblje dok te okolnosti traju.
+(3) Kada se bračnom drugu zbog zaposlenja odnosno obavljanja djelatnosti ili korištenja starosne mirovine, prijevremene starosne mirovine ili invalidske mirovine ne isplaćuje obiteljska mirovina koja mu pripada, ostalim se članovima obiteljska mirovina ponovno određuje kao da bračni drug nema pravo na obiteljsku mirovinu i tako određena mirovina isplaćuje se dok traje obustava isplate dijela mirovine koji pripada bračnom drugu.
+(4) Odredba stavka 3. ovoga članka primjenjuje se i kada obiteljska mirovina pripada bračnom drugu i razvedenom bračnom drugu, ako se samo jednom od njih obustavlja isplata pripadajućeg dijela mirovina.

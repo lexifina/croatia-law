@@ -1,0 +1,4 @@
+# Članak 57.
+(1) Pravo na invalidsku mirovinu zbog djelomičnog gubitka radne sposobnosti ima osiguranik iz članaka 11., 12. i 13. i članaka 16. do 22. ovoga Zakona kod kojega je zbog bolesti ili ozljede izvan rada prije navršene 65. godine života nastao djelomični gubitak radne sposobnosti iz članka 43. stavka 3. ovoga Zakona i ako mu navršeni mirovinski staž pokriva najmanje jednu trećinu radnog vijeka.
+(2) Radni vijek određuje se prema članku 55. stavku 3. ovoga Zakona, a na skraćivanje radnog vijeka odgovarajuće se primjenjuje odredba članka 55. stavka 4. ovoga Zakona.
+(3) Ako je djelomični gubitak radne sposobnosti osiguranika nastao zbog ozljede na radu ili profesionalne bolesti, pravo na invalidsku mirovinu zbog djelomičnog gubitka radne sposobnosti osiguranik stječe bez obzira na dužinu mirovinskog staža.

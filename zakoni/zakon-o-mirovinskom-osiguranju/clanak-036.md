@@ -1,0 +1,5 @@
+## POGLAVLJE II. PRIDODANI STAŽ
+# Članak 36.
+(1) Pridodani staž počinje na dan nastanka smanjenja radne sposobnosti uz preostalu radnu sposobnost, djelomičnog ili potpunog gubitka radne sposobnosti odnosno na dan smrti osiguranika.
+(2) Trajanje pridodanoga staža računa se tako da se za razdoblja od dana nastanka osiguranog rizika iz stavka 1. ovoga članka u kojima osiguranik nije ostvario staž osiguranja pribroje razdoblja do navršene 55. godine života osiguranika u trajanju od dvije trećine, a nakon 55. do navršene 60. godine života osiguranika u trajanju od jedne polovine.
+(3) Ako je osiguranik bio osiguran u državi u kojoj se primjenjuju uredbe Europske unije o koordinaciji sustava socijalne sigurnosti ili državi s kojom je sklopljen međunarodni ugovor o socijalnom osiguranju, pridodani se staž određuje razmjerno udjelu mirovinskog staža koji se računa prema ovome Zakonu i ukupnoga mirovinskog staža obračunanog pribrajanjem staža iz odnosne države, a u skladu s uredbama Europske unije o koordinaciji sustava socijalne sigurnosti ili međunarodnim ugovorom o socijalnom osiguranju s tom državom.

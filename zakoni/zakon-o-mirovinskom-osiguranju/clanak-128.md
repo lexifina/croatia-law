@@ -1,0 +1,4 @@
+# Članak 128.
+(1) Ako se nakon donošenja rješenja protiv kojega nema redovitoga pravnog lijeka u upravnom postupku sazna za nove činjenice ili se nađe odnosno stekne mogućnost da se upotrijebe novi dokazi koji bi sami ili u vezi s već izvedenim ili upotrijebljenim dokazima mogli dovesti do drukčijeg rješenja da su te činjenice odnosno dokazi bili izneseni ili upotrijebljeni u prijašnjem postupku, može se, iznimno od uvjeta i rokova iz zakona kojim se uređuje opći upravni postupak, obnoviti postupak iz mirovinskog osiguranja.
+(2) Obnova postupka iz mirovinskoga osiguranja može se pokrenuti na zahtjev stranke ili po službenoj dužnosti.
+(3) Prava utvrđena rješenjem donesenim u obnovljenom postupku, prema stavku 1. ovoga članka, pripadaju od prvoga dana idućeg mjeseca nakon podnošenja zahtjeva za obnovu postupka odnosno od prvoga dana idućeg mjeseca nakon rješavanja zahtjeva u obnovljenom postupku pokrenutom po službenoj dužnosti.

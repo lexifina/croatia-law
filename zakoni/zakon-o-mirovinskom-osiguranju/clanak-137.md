@@ -1,0 +1,4 @@
+# Članak 137.
+(1) Za dokumentaciju iz spisa koji je formiran u elektroničkom sustavu upravljanja dokumentacijom u upravnim i ostalim postupcima iz nadležnosti Zavoda, a kojemu je prilikom digitalizacije osigurana nepromjenjivost u odnosu na izvornik, kao i reprodukciju digitalne kopije izvornika smatrat će se da u tim postupcima imaju pravnu snagu jednaku izvornoj dokumentaciji.
+(2) Dokumentacija spisa iz stavka 1. ovoga članka formiranog digitalizacijom ima istu pravnu snagu kao i izvorna dokumentacija i u ostalim postupcima ili provođenju pojedinih pravnih radnji u postupcima koji se vode vezano uz prava iz mirovinskog osiguranja i na mirovinsko osiguranje, naknade štete i drugih iz mjerodavnosti Zavoda u kojima je ta dokumentacija iz spisa potrebna, osim ako posebnim zakonom nije drukčije određeno.
+(3) Dopušteno je dokazivati da je pojedina dokumentacija iz spisa ili digitalne kopije nevjerodostojna ili da je digitalna kopija neispravna.

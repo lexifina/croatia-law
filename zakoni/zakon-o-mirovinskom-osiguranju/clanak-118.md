@@ -1,0 +1,5 @@
+# Članak 118.
+(1) Postupak za ostvarivanje prava iz mirovinskog osiguranja pokreće se na zahtjev osiguranika, odnosno osigurane osobe, ako ovim Zakonom nije drukčije određeno.
+(2) Za vrijeme zaposlenja ili drugog svojstva koje je osnova osiguranja prema ovome Zakonu postupak za ostvarivanje prava na temelju smanjenja radne sposobnosti uz preostalu radnu sposobnost ili djelomičnog odnosno potpunog gubitka radne sposobnosti može se pokrenuti i na prijedlog izabranog doktora medicine primarne zdravstvene zaštite (u daljnjem tekstu: doktor medicine) ili samog osiguranika, nakon završetka liječenja odnosno nakon završene zdravstvene rehabilitacije.
+(3) Odredbe iz stavaka 1. i 2. ovoga članka primjenjuju se i kada se prava iz mirovinskog osiguranja ponovno određuju zbog nastalih promjena u stanju preostale radne sposobnosti.
+(4) Tijekom postupka za ostvarivanje prava na starosnu, prijevremenu starosnu mirovinu ili starosnu mirovinu za dugogodišnjeg osiguranika, ako osiguranik nastavlja raditi do polovice punog radnog vremena, poslodavac je dužan dostaviti prijavu o promjeni nastaloj tijekom osiguranja.
