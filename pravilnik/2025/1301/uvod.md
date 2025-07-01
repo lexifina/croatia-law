@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 21. Zakona o obveznim mirovinskim fondovima (»Narodne novine«, br. 19/14., 93/15., 64/18., 115/18., 58/20. i 156/23) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 26. lipnja 2025. godine donosi
