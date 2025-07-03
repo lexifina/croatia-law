@@ -1,0 +1,1 @@
+Na temelju članka 52. Zakona o financiranju vodnoga gospodarstva, (»Narodne novine«, br. 153/09, 90/11, 56/13, 154/14, 119/15, 120/16, 127/17 i 66/19) i članka 23. stavka 1. točka 4. Zakona o vodnim uslugama (NN 66/19), Skupština trgovačkog društva Vodovod i odvodnja na sjednici održanoj dana 29. svibnja 2025. skladu s člankom 24. stavkom 2. Zakona o vodnim uslugama, donijela je
