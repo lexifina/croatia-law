@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 4. Zakona o prostornom uređenju (»Narodne novine«, br. 153/13., 65/17., 114/18., 39/19., 98/19. i 67/23.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 3. srpnja 2025. donijela
