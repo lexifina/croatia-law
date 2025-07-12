@@ -1,0 +1,5 @@
+# Članak 8.
+Zahtjev za posebnu upotrebu pomorskog dobra za postojeće građevine iz članka 5. stavka 1. pod rednim brojem 2. ove Uredbe, koje Plovput d.o.o. koristi, sadrži:
+1. tablični prikaz svih postojećih građevina koje služe pristupu postojećim objektima sigurnosti plovidbe, a koji će sadržavati opis građevine, naziv i tip objekta sigurnosti plovidbe kojemu se pristupa, površinu građevine, naziv grada ili općine u kojoj je smještena građevina
+2. izvadak iz Registra objekata sigurnosti plovidbe koji sadrži osnovne atributne, navigacijske i administrativne podatke o svakom postojećem objektu sigurnosti plovidbe
+3. geodetsku situaciju s obuhvatom građevine na pomorskom dobru kojom se pristupa objektu sigurnosti plovidbe, prikazan na kopiji katastarskog plana, te na kopiji zemljišnoknjižnog plana ako na predmetnom području postoji dvojna numeracija, preklopljen na digitalnu ortofoto kartu s označenim svim lomnim točkama pomorskog dobra koje se daje na posebnu upotrebu, s iskazanom ukupnom površinom pomorskog dobra i popisom koordinata iskazanih u službenom koordinatnom sustavu Republike Hrvatske (HTRS96/TM), koju izrađuje ovlašteni inženjer geodezije.
