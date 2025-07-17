@@ -1,0 +1,5 @@
+## I. OPĆE ODREDBE
+## Predmet Odluke
+# Članak 1.
+(1) Ovom se Odlukom pobliže uređuju način provedbe nadzora nad primjenom glave III. (Tokeni vezani uz imovinu) i glave IV. (Tokeni e-novca) Uredbe (EU) 2023/1114 Europskog parlamenta i Vijeća od 31. svibnja 2023. o tržištima kriptoimovine i izmjeni uredaba (EU) br. 1093/2010 i (EU) br. 1095/2010 te direktiva 2013/36/EU i (EU) 2019/1937 (Tekst značajan za EGP) (SL L 150, 9. 6. 2023., u nastavku teksta: Uredba (EU) 2023/1114) i Zakona o provedbi Uredbe (EU) 2023/1114 o tržištima kriptoimovine (»Narodne novine«, br. 85/2024., u nastavku teksta: Zakon o provedbi Uredbe (EU) 2023/1114).
+(2) Pojedini pojmovi koji se upotrebljavaju u ovoj Odluci imaju istovjetno značenje kao pojmovi uređeni Uredbom (EU) br. 2023/1114 i Zakonom o provedbi Uredbe (EU) 2023/1114 te Zakonom o kreditnim institucijama (»Narodne novine«, br. 159/2013., 19/2015., 102/2015., 15/2018., 70/2019., 47/2020., 146/2020., 151/2022. i 145/2024.) i Uredbom (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i o izmjeni Uredbe (EU) br. 648/2012.
