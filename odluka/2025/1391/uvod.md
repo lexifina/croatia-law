@@ -1,0 +1,1 @@
+Na temelju članka 105. stavka 2. točke 2. Zakona o reviziji (»Narodne novine«, broj 127/17, 27/24, 85/24 i 145/24; dalje: Zakon), Skupština Hrvatske revizorske komore, na sjednici održanoj 25. lipnja 2025., donosi
