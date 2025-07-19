@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 19. stavak 3. mijenja se i glasi:
+»(3) Ako se tijekom obrade Zahtjeva za isplatu utvrdi nepravilnost, a za koju odlukom o utvrđenoj nepravilnosti koju donosi Upravljačko tijelo nije određeno odbijanje Zahtjeva za isplatu u cijelosti, Upravljačko tijelo će odbiti iznos nepravilnog troška od Zahtjeva za isplatu i izdati Rješenje o isplati iz stavka 1. točke a) ovoga članka u kojem će ukupan iznos biti umanjen za iznos nepravilnog troška. Ako utvrđena nepravilnost ujedno sadrži i elemente sumnje na prijevaru, Upravljačko tijelo će o tome izvijestiti Državno odvjetništvo Republike Hrvatske.«.
