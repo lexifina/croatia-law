@@ -1,0 +1,3 @@
+# Članak 8.
+U članku 13. stavak 2. mijenja se i glasi:
+»(2) Ako se tijekom obrade Zahtjeva za potporu utvrdi nepravilnost, a za koju odlukom o utvrđenoj nepravilnosti koju donosi Upravljačko tijelo nije određeno odbijanje zahtjeva za potporu u cijelosti, Upravljačko tijelo će odbiti iznos nepravilnog troška od ukupnih prihvatljivih troškova i izdati Rješenje o dodjeli sredstava u kojem će ukupan iznos za koji se dodjeljuje potpora biti umanjen za iznos nepravilnog troška. Ako utvrđena nepravilnost ujedno sadrži i elemente sumnje na prijevaru, Upravljačko tijelo će o tome izvijestiti Državno odvjetništvo Republike Hrvatske.«.
