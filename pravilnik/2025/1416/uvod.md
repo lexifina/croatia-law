@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 5., članka 52. stavka 5., članka 53. stavka 5. i članka 59. stavka 4. Zakona o zdravlju životinja (»Narodne novine«, br. 152/22 i 154/22) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23) ministar poljoprivrede, šumarstva i ribarstva, uz prethodnu suglasnost ministra za vanjske i europske poslove, donosi
