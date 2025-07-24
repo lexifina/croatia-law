@@ -1,0 +1,6 @@
+# Članak 7.
+Članak 173. mijenja se i glasi:
+»(1) Zdravstvenom radniku primalji - asistentici, fizioterapeutskom tehničaru, prvostupniku fizioterapije, zdravstveno-laboratorijskom tehničaru, prvostupniku medicinsko-laboratorijske dijagnostike, sanitarnom inženjeru, sanitarnom tehničaru, prvostupniku radne terapije, prvostupniku radiološke tehnologije, dentalnom tehničaru, dentalnom asistentu kojem je izdano odobrenje za samostalan rad i koji se prvi put zapošljava u zdravstvenoj ustanovi, trgovačkom društvu koje obavlja zdravstvenu djelatnost ili kod privatnog zdravstvenog radnika u zanimanju za koje je stekao stručnu kvalifikaciju osigurava se rad pod nadzorom.
+(2) Farmaceutski tehničar može raditi pod nadzorom u zdravstvenoj ustanovi ili kod privatnog zdravstvenog radnika.
+(3) Rad pod nadzorom iz stavaka 1. i 2. ovoga članka nije obvezan, a može trajati najdulje tri mjeseca.
+(4) Nadzor nad radom zdravstvenih radnika iz stavaka 1. i 2. ovoga članka provodi zdravstveni radnik najmanje iste stručne kvalifikacije s radnim stažem u struci od najmanje tri godine kojeg odredi ravnatelj zdravstvene ustanove odnosno osoba ovlaštena za vođenje poslova trgovačkog društva koje obavlja zdravstvenu djelatnost te privatni zdravstveni radnik.«.

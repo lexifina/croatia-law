@@ -1,0 +1,2 @@
+# Članak 16.
+Zdravstveni radnici iz članka 15. stavaka 1., 3. i 5. ovoga Zakona kojima je nakon stečene stručne kvalifikacije izdano odobrenje za samostalan rad prilikom prvog zapošljavanja u zanimanju za koje su stekli stručnu kvalifikaciju u zdravstvenoj ustanovi, trgovačkom društvu koje obavlja zdravstvenu djelatnost ili kod privatnog zdravstvenog radnika, od dana stupanja na snagu ovoga Zakona mogu raditi pod nadzorom sukladno članku 7. ovoga Zakona.

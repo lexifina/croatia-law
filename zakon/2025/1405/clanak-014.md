@@ -1,0 +1,3 @@
+# Članak 14.
+U članku 246. točka 30. mijenja se i glasi:
+»30. obavlja poslove u sustavu zdravstva neposredno u vidu zanimanja pružajući zdravstvenu zaštitu te koji sudjeluje u dijagnostičkim i terapijskim postupcima, a protiv njega je pokrenut kazneni postupak ili je pravomoćno osuđen za neko od kaznenih djela iz glave XVI. Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15. - ispravak, 101/17., 118/18., 126/19., 84/21., 114/22., 114/23. i 36/24.) - Kaznena djela protiv spolne slobode i glave XVII. istoga Zakona - Kaznena djela spolnog zlostavljanja i iskorištavanja djeteta (članak 156. stavak 1.)«.
