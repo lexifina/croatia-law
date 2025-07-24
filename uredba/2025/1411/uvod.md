@@ -1,0 +1,1 @@
+Na temelju članka 167. stavka 1. i članka 204. stavka 8. Zakona o plovidbi i lukama unutarnjih voda (»Narodne novine«, broj 144/21.), Vlada Republike Hrvatske je na sjednici održanoj 10. srpnja 2025. donijela
