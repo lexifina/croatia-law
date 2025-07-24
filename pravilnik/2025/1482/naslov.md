@@ -1,0 +1,1 @@
+Pravilnik o provedbi Programa potpore za sufinanciranje troškova proizvodnje hrvatskih poljoprivrednih i prehrambenih proizvoda registriranih u sustavu kvalitete zaštićenom oznakom izvornosti ili zaštićenom oznakom zemljopisnog podrijetla za razdoblje do 2027. godine

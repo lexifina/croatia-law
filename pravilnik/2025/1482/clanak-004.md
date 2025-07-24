@@ -1,0 +1,5 @@
+## Uvjeti prihvatljivosti korisnika
+# Članak 4.
+Prihvatljivi korisnici potpore su mikro, mala i srednja poduzeća, definirana člankom 2. Priloga I. Uredbe o poljoprivrednom izuzeću koja:
+a) proizvode poljoprivredne proizvode namijenjene prehrani ljudi koji su navedeni u Prilogu I. Ugovora o Europskoj uniji i Ugovora o funkcioniranju Europske unije (2016/C 202/01) ili se najvećim dijelom od njih sastoje, a koji su zaštićeni oznakom izvornosti ili oznakom zemljopisnog podrijetla, i
+b) su upisana u evidenciju izdanih Potvrda o sukladnosti proizvoda sa Specifikacijom proizvoda sukladno članku 95. stavku 7. Zakona o poljoprivredi (»Narodne novine«, br. 118/18., 42/20., 127/20. - USRH, 52/21., 152/22. i 152/24.) (u daljnjem tekstu: Zakon o poljoprivredi) i članku 24. Pravilnika o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda i neobveznom izrazu kvalitete »planinski proizvod« (»Narodne novine«, broj 38/19.) koje vodi Ministarstvo poljoprivrede, šumarstva i ribarstva (u daljnjem tekstu: Ministarstvo) u elektroničkom obliku.
