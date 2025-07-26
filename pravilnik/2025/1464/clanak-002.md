@@ -1,0 +1,5 @@
+# Članak 2.
+(1) Oglašavanje ponuda i potražnje za obavljanje poslova i usluga putem tiska i elektroničkih medija, koju objavu zatraže tražitelji zaposlenja odnosno poslodavci bez poduzimanja drugih aktivnosti usmjerenih na spajanje ponude i potražnje ne smatra se posredovanjem pri zapošljavanju u smislu ovoga Pravilnika.
+(2) Preuzimanje već objavljenih oglasa ponuda i potražnje za obavljanje poslova i usluga putem drugog tiska i elektroničkih medija, dozvoljeno je na način i u rokovima koji su uređeni pisanim sporazumom sklopljenim između oglašivača i oglašivača preuzimatelja.
+(3) Kriterije i uvjete za sklapanje sporazuma iz stavka 2. ovoga članka o preuzimanju oglasa ponuda i potražnje za obavljanje poslova i usluga objavljenih od strane Zavoda utvrđuje Upravno vijeće Zavoda.
+(4) Ako u provedbi inspekcijskog nadzora inspekcija rada Državnog inspektorata utvrdi da oglašivač preuzimatelj oglašava ponude i potražnje za obavljanje poslova i usluga koje su već objavljene putem drugog tiska i elektroničkih medija bez sporazuma iz stavka 2. ovoga članka, zabranit će takvo preuzimanje dok oglašivač i oglašivač preuzimatelj ne sklope sporazum.
