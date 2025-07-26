@@ -1,0 +1,1 @@
+Na temelju članka 136. stavka 4. Zakona o lijekovima (»Narodne novine«, br. 76/13, 90/14 i 100/18) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23), uz prethodnu suglasnost ministra vanjskih i europskih poslova, ministrica zdravstva donosi
