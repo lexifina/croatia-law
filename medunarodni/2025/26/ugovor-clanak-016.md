@@ -1,0 +1,5 @@
+# Članak 16.
+IZVOĐAČI I SPORTAŠI
+1. Neovisno o odredbama članaka 7. i 14., dohodak koji ostvari rezident države ugovornice kao izvođač, primjerice kao kazališni, filmski, radijski ili televizijski umjetnik, ili glazbenik, ili kao sportaš, od svojih osobnih aktivnosti kao takvih izvršenih u drugoj državi ugovornici, može se oporezivati u toj drugoj državi ugovornici.
+2. Ako dohodak u pogledu osobnih aktivnosti izvršenih u svojstvu izvođača ili sportaša ne pripada izvođaču ili sportašu osobno, već nekoj drugoj osobi, taj se dohodak može, neovisno o odredbama članaka 7. i 14., oporezivati u državi ugovornici u kojoj su aktivnosti izvođača ili sportaša izvršene.
+3. Odredbe stavaka 1. i 2. ne primjenjuju se na dohodak ostvaren od aktivnosti izvršenih u državi ugovornici od strane izvođača ili sportaša ako je posjet toj državi ugovornici u potpunosti ili većinom financiran iz javnih fondova druge države ugovornice ili njezinih političkih podjedinica ili lokalnih vlasti ili državnih tijela. U tom slučaju, dohodak se oporezuje samo u državi ugovornici čiji je izvođač ili sportaš rezident.

@@ -1,0 +1,4 @@
+# Članak 30.
+STUPANJE NA SNAGU
+1. Ovaj Ugovor stupa na snagu 15 dana nakon datuma primitka posljednje pisane obavijesti, kojom jedna država ugovornica obavješćuje drugu, diplomatskim putem, da su ispunjeni njezini unutarnji pravni uvjeti za stupanje na snagu ovog Ugovora. Ovaj Ugovor proizvodi učinak u odnosu na ostvareni dohodak i imovinu posjedovanu tijekom poreznih godina koje počinju na ili nakon prvog dana siječnja kalendarske godine koja slijedi nakon godine u kojoj ovaj Ugovor stupa na snagu.
+2. U odnosu na članak 25. ovaj Ugovor proizvodi učinak na zahtjeve podnesene na ili nakon prvog dana siječnja kalendarske godine koja slijedi nakon godine u kojoj ovaj Ugovor stupa na snagu i samo u odnosu na porezna razdoblja koja počinju na ili nakon prvog dana siječnja kalendarske godine koja slijedi nakon godine u kojoj ovaj Ugovor stupa na snagu.

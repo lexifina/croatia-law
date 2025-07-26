@@ -1,0 +1,12 @@
+# Članak 22.
+UKLANJANJE DVOSTRUKOG OPOREZIVANJA
+1. U slučaju Hrvatske:
+a) Ako rezident Hrvatske ostvari dohodak ili posjeduje imovinu koji se mogu oporezivati u Lihtenštajnu, u skladu s odredbama ovog Ugovora (osim u mjeri u kojoj te odredbe dozvoljavaju oporezivanje u Lihtenštajnu samo zato što je takav dohodak također dohodak koji je ostvario rezident Lihtenštajna ili zato što je takva imovina također imovina u vlasništvu rezidenta Lihtenštajna), Hrvatska će dopustiti:
+(i) kao odbitak od poreza na dohodak tog rezidenta, iznos koji je jednak porezu na dohodak plaćenom u Lihtenštajnu;
+(ii) kao odbitak od poreza na imovinu tog rezidenta, iznos koji je jednak porezu na imovinu plaćenom u Lihtenštajnu.
+Takav odbitak u oba slučaja, međutim, ne smije biti veći od onog dijela poreza na dohodak ili na imovinu koji je utvrđen prije odbitka, a koji se može, ovisno o slučaju, pripisati dohotku ili imovini koji se mogu oporezivati u Lihtenštajnu.
+b) Ako su, u skladu s bilo kojom odredbom Ugovora, dohodak koji ostvari ili imovina koju posjeduje rezident Hrvatske izuzeti od oporezivanja u Hrvatskoj, Hrvatska svejedno može, pri obračunu iznosa poreza na preostali dohodak ili imovinu takvoga rezidenta, uzeti u obzir izuzeti dohodak ili imovinu.
+2. U slučaju Lihtenštajna:
+a) Ako rezident Lihtenštajna ostvari dohodak ili posjeduje imovinu, u skladu s bilo kojom odredbom ovog Ugovora, koji se mogu oporezivati u Hrvatskoj, Lihtenštajn će, sukladno odredbama podstavka b), izuzeti takav dohodak ili imovinu od oporezivanja, ali svejedno može, pri obračunu iznosa poreza na preostali dohodak ili imovinu takvog rezidenta, uzeti u obzir izuzeti dohodak ili imovinu.
+b) Ako rezident Lihtenštajna ostvari dijelove dohotka, u skladu s odredbama članaka 10., 11., 12., 14., 15., 16. i 17. koji se mogu oporezivati u Hrvatskoj, Lihtenštajn će odbiti od lihtenštajnskog poreza na taj dohodak porez plaćen u skladu s propisima Hrvatske i odredbama ovog Ugovora. Međutim, iznos poreza koji se može odbiti ne smije biti veći od lihtenštajnske porezne obveze na dohodak ostvaren iz Hrvatske.
+c) Ako rezident Lihtenštajna ostvari dijelove dohotka ili posjeduje imovinu koji su, u skladu s odredbama ovog Ugovora, oporezivi samo u Hrvatskoj, Lihtenštajn će izuzeti taj dohodak ili imovinu od oporezivanja, ali svejedno može, pri obračunu iznosa poreza na preostali dohodak ili imovinu takvog rezidenta, uzeti u obzir izuzeti dohodak ili imovinu.
