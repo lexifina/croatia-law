@@ -1,0 +1,7 @@
+# Članak 3.
+(1) Ministarstvo će prije svakog raspolaganja pokretninama u vlasništvu Republike Hrvatske u smislu članka 2. ove Uredbe, izvršiti procjenu tržišne vrijednosti pokretnina, kao i procjenu vrijednosti naknade ako se pokretnina daje u najam, osim ako se pokretnina daje na uporabu.
+(2) Procjenu tržišne vrijednosti pokretnina u vlasništvu Republike Hrvatske obavlja osoba koja je za to ovlaštena propisima kojima je uređeno područje procjena vrijednosti pojedine vrste pokretnina.
+(3) Osoba ovlaštena za izradu procjembenog elaborata kojim se utvrđuju tržišne vrijednosti pokretnina u vlasništvu Republike Hrvatske izabrat će se provedbom odgovarajućeg postupka javne nabave, sukladno propisima kojima se uređuje javna nabava.
+(4) Za pokretnine u vlasništvu Republike Hrvatske prije svakog raspolaganja početna cijena pokretnina utvrdit će se odlukom ministra na temelju procjene osobe iz stavka 2. ovoga članka.
+(5) Odluku o pokretanju postupka raspolaganja i odluku o raspolaganju pokretninama u vlasništvu Republike Hrvatske čija je procijenjena vrijednost ili je ukupni iznos procijenjene naknade niži ili je jednak iznosu od 1.500.000,00 eura donosi ministar.
+(6) Odluku o pokretanju postupka raspolaganja i odluku o raspolaganju pokretninama u vlasništvu Republike Hrvatske čija procijenjena vrijednost iznosi više od 1.500.000,00 eura donosi Vlada Republike Hrvatske, na prijedlog Ministarstva.

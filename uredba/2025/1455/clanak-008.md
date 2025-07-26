@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Javni poziv za javno prikupljanje ponuda i javni poziv za javno nadmetanje radi prodaje pokretnina u vlasništvu Republike Hrvatske Ministarstvo objavljuje u jednom od visokotiražnih dnevnih listova, na mrežnoj stranici Ministarstva i na mrežnoj stranici Hrvatske gospodarske komore.
+(2) Objava poziva iz stavka 1. ovoga članka u visokotiražnom dnevnom listu može biti u skraćenom obliku na način da sadrži osnovne podatke o pokretnini, početnu cijenu pokretnine, jamčevinu kao i obavijest da se cjeloviti poziv sa svim detaljima i uvjetima nalazi na mrežnoj stranici Ministarstva i Hrvatske gospodarske komore.
