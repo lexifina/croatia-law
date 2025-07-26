@@ -1,0 +1,1 @@
+Na temelju članka 106. stavka 8. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, broj 145/24) ministrica kulture i medija, uz prethodnu suglasnost ministra nadležnog za gospodarstvo, donosi

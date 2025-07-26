@@ -1,0 +1,3 @@
+# Članak 7.
+(1) Pravna osoba u smislu ovog Pravilnika može obavljati poslove iz članka 2. stavka 1. točaka 1. do 4. ovoga Pravilnika ako za obavljanje registrirane djelatnosti osigura rad fizičke osobe iz članka 5. ovoga Pravilnika odnosno ako za obavljanje konzervatorsko-restauratorskih poslova određene uže specijalnosti osigura rad fizičke osobe iz članka 6. stavka 1. ovoga Pravilnika.
+(2) Odredba stavka 1. ovoga članka primjenjuje se i na obrtnika koji osigura rad fizičke osobe iz članka 5. i članka 6. stavka 1. ovoga Pravilnika, za slučaj kada obrtnik kao fizička osoba nema za te poslove dopuštenje u smislu ovoga Pravilnika.
