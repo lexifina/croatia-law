@@ -1,0 +1,2 @@
+# Članak 45.
+Gradski zavod za zaštitu spomenika kulture i prirode u Zagrebu obavljat će poslove iz članka 20. stavka 1. podstavka c), članka 21. stavka 1. podstavka c) i članka 34. stavka 3. podstavka 6. ovoga Pravilnika do preuzimanja poslova Gradskog zavoda za zaštitu spomenika kulture i prirode u Zagrebu od strane Ministarstva sukladno članku 127. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, broj 145/24).

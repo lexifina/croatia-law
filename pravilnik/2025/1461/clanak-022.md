@@ -1,0 +1,11 @@
+# Članak 22.
+(1) Prijavu za polaganje stručnog ispita razmatra Povjerenstvo na sjednici, o radu Povjerenstva vodi se zapisnik kojeg potpisuje predsjednik Povjerenstva, a jedan primjerak zapisnika dostavlja se Ministarstvu.
+(2) U postupku razmatranja prijave Povjerenstvo će provjeriti potpunost prijave i valjanost priložene dokumentacije te ako utvrdi da prijava nije potpuna ili da neki od priloga nije valjan, Povjerenstvo će o tome obavijestiti podnositelja i odgoditi razmatranje prijave, do dopune u propisanom roku.
+(3) Ako je razmatranje prijave odgođeno, obavijest iz stavka 2. ovoga članka treba sadržavati navod o razlogu odgode i uputu za ispravak ili dopunu prijave, uključujući i uputu za odabir teme i mentora pristupnicima za temu stručnog, odnosno predmet praktičnog rada, ako je predložena tema ocijenjena neprihvatljivom.
+(4) Ako pristupnik u roku od mjesec dana od zaprimanja obavijesti o traženju Povjerenstva ne dostavi dopunu, prijava će se odbaciti odnosno odbiti uz navođenje razloga neprihvaćanja prijave.
+(5) Ako je prijava potpuna i priložena dokumentacija valjana, Povjerenstvo upućuje dokumentaciju o izvršenim radovima na mišljenje konzervatoru-restauratoru uže specijalnosti s Liste izvjestitelja.
+(6) Izvjestitelj podnosi pisano izvješće Povjerenstvu u roku od mjesec dana od dana primitka zahtjeva Povjerenstva i dokumentacije s obrazloženim mišljenjem o stručnoj sposobnosti i kvaliteti izvedenih radova.
+(7) Odluku o prijavi za polaganje ispita za pristupnike čija je prijava potpuna Povjerenstvo je dužno donijeti u roku od 45 dana od krajnjeg roka prijave, o čemu se obavještava pristupnik. Za pristupnike prema stavcima 2., 3., 4. i 5. ovoga članka, dopuna prijave i obavijest o pravu na polaganje ispita dostavlja se u skladu s propisanim rokovima.
+(8) U obavijesti o prihvaćanju prijave Povjerenstvo obavještava podnositelja o uvjetima za izlazak na stručni ispit i roku predaje stručne radnje.
+(9) Pisanu radnju s pozitivnom ocjenom mentora u dva primjerka pristupnik je obvezan predati Povjerenstvu najkasnije mjesec dana prije ispitnog roka.
+(10) O mjestu, vremenu i rasporedu polaganja stručnog ispita pristupnici se obavještavaju najmanje dva tjedna prije održavanja stručnog ispita.

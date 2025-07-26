@@ -1,0 +1,2 @@
+# Članak 38.
+Ako su ispunjeni uvjeti za stjecanje višeg stručnog zvanja propisani ovim Pravilnikom, Stručno povjerenstvo podnosi Ministru prijedlog da donese rješenje kojim se usvaja zahtjev za stjecanje višeg stručnog zvanja, a ako uvjeti za stjecanje višeg stručnog zvanja nisu ispunjeni, Stručno povjerenstvo podnosi Ministru prijedlog da donese rješenje kojim se odbija zahtjev za stjecanje višeg stručnog zvanja.

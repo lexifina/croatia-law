@@ -1,0 +1,3 @@
+# Članak 36.
+(1) Izvjestitelj podnosi pisano izvješće Stručnom povjerenstvu u roku od 60 dana od dana primitka kandidatova zahtjeva i dokumentacije s obrazloženim mišljenjem o stručnoj sposobnosti, kvaliteti izvedenih radova i ispunjavanju stručnih i znanstvenih kriterija izraženih bodovima sukladno Stručnim i znanstvenim kriterijima iz Priloga 2. ovoga Pravilnika.
+(2) Ako je priložena dokumentacija nedostatna, izvjestitelj može u dogovoru sa Stručnim povjerenstvom zatražiti nadopunu zahtjeva i/ili obaviti očevid radi stručne prosudbe rada kandidata, a Stručno povjerenstvo može zatražiti stručno mišljenje nadležnog područnog konzervatorskog ureda ili službe Ministarstva.

@@ -1,0 +1,6 @@
+# Članak 11.
+(1) Za stjecanje stručnog zvanja konzervator-restaurator tehničar II. stupnja uvjeti su:
+- završeno srednjoškolsko obrazovanje konzervatorsko-restauratorskog, umjetničkog, humanističkog ili prirodoslovno-tehničkog usmjerenja
+- pet godina rada u užoj specijalnosti struke nakon stečenog stručnog zvanja konzervatora-restauratora tehničara I. stupnja
+- položen posebni dio stručnog ispita (B.2. Znanja uže specijalnosti iz Programa stručnog ispita iz Priloga 1. ovoga Pravilnika) za konzervatora-restauratora tehničara II. stupnja.
+(2) Iznimno, osoba koja prilikom zasnivanja radnog odnosa u Hrvatskom restauratorskom zavodu ili drugoj pravnoj osobi koja obavlja poslove na zaštiti i očuvanju kulturnih dobara kojoj je osnivač Republika Hrvatska, županija, Grad Zagreb, gradovi ili općine ima odgovarajuće radno iskustvo od šest godina rada na kulturnom dobru i obrazovanje propisano za stjecanje stručnog zvanja iz stavka 1. ovoga članka, stječe stručno zvanje konzervator-restaurator tehničar II. stupnja pod uvjetom da položi u roku od šest mjeseci od zasnivanja radnog odnosa propisane objedinjene stručne ispite za zvanja konzervator-restaurator tehničar I. stupnja i konzervator-restaurator tehničar II. stupnja.
