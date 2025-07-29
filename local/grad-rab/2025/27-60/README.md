@@ -1,0 +1,9 @@
+# I. Izmjena Programa utroška sredstava naknade za zadržavanje nezakonito izgrađenih zgrada u prostoru za 2025. godinu
+
+Official text as published (as-enacted). Later amendments are not applied.
+
+Source: [Službene novine Primorsko-goranske županije, 27/2025, 60](https://sn.pgz.hr/default.asp?Link=odluke&id=49781).
+
+Published: 2025-07-21. In force: 2025-07-29.
+
+[Text](tekst.md).
