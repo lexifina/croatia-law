@@ -1,0 +1,1 @@
+Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2025. godinu radi osiguranja sredstava za sanaciju štete od potresa te za poboljšanje uvjeta života stanovništva na potresom pogođenom području
