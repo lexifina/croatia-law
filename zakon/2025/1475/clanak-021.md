@@ -1,0 +1,3 @@
+# Članak 21.
+(1) Odgovorna osoba trgovačkog društva i druge pravne osobe iz članka 17.a stavka 1. koji je dodan člankom 4. ovoga Zakona dužna je usvojiti politiku i strategiju integriranog upravljanja rizicima, imenovati osobu koja rukovodi kontrolnom funkcijom za integrirano upravljanje rizicima i implementirati integrirano upravljanje rizicima, primjenjujući načelo razdvajanja poslovnih funkcija i dužnosti, u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Odgovorna osoba trgovačkog društva i druge pravne osobe iz članka 17.a stavka 1. koji je dodan člankom 4. ovoga Zakona dužna je u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona uskladiti akte poslovanja vezano za integrirano upravljanje rizicima iz stavka 1. ovoga članka.

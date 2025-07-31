@@ -1,0 +1,3 @@
+# Članak 23.
+(1) Osobe za nepravilnosti u ministarstvima i drugim tijelima državne uprave na razini razdjela organizacijske klasifikacije te jedinicama lokalne i područne (regionalne) samouprave koje su imenovane na temelju Zakona o sustavu unutarnjih kontrola u javnom sektoru (»Narodne novine«, br. 78/15. i 102/19.) nastavljaju obavljati poslove sukladno odredbama ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona.
+(2) Ako odgovorna osoba institucije iz članka 43. stavka 2. koji je izmijenjen člankom 18. ovoga Zakona nije imenovala osobu za nepravilnosti, dužna je imenovati osobu za nepravilnosti najkasnije u roku od 12 mjeseci od stupanja na snagu ovoga Zakona.
