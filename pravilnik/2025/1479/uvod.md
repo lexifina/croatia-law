@@ -1,0 +1,1 @@
+Na temelju članka 95. stavka 7. Zakona o državnim službenicima (»Narodne novine« br. 155/23 i 85/24) i članka 10. stavka 12. Zakona o plaćama u državnoj službi i javnim službama (»Narodne novine« br. 155/23), ministar unutarnjih poslova donosi
