@@ -1,0 +1,3 @@
+# Članak 54.
+(1) Do dana stupanja na snagu općih akata iz članka 52. ovoga Zakona prilikom podnošenja zahtjeva iz članka 10. stavka 1. ovoga Zakona magistar logopedije nije obvezan priložiti odobrenje za samostalan rad te mišljenje Komore o opravdanosti osnivanja privatne logopedske prakse u mreži javne zdravstvene službe odnosno mišljenje Komore o opravdanosti osnivanja privatne logopedske prakse izvan mreže javne zdravstvene službe.
+(2) Odobrenje za samostalan rad te mišljenje Komore iz stavka 1. ovoga članka magistar logopedije obvezan je ishoditi i dostaviti Ministarstvu u roku od tri godine od dana stupanja na snagu ovoga Zakona.
