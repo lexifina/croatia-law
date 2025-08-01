@@ -1,0 +1,3 @@
+# Članak 10.
+(1) Osigurane osobe koje su status u obveznom zdravstvenom osiguranju stekle prema članku 7. stavku 1. točki 16. Zakona o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13., 98/19. i 33/23.), koje se ne vode u evidenciji Hrvatskog zavoda za zapošljavanje kao nezaposlene osobe, obvezne su u roku od 90 dana od dana stupanja na snagu ovoga Zakona osobno pristupiti Zavodu radi provjere okolnosti na temelju kojih im je taj status utvrđen.
+(2) Osigurane osobe iz stavka 1. ovoga članka koje osobno ne pristupe Zavodu u roku iz stavka 1. ovoga članka Zavod će istekom toga roka odjaviti iz obveznoga zdravstvenog osiguranja po službenoj dužnosti, bez donošenja rješenja.

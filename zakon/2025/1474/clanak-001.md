@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o obveznom zdravstvenom osiguranju (»Narodne novine«, br. 80/13., 137/13., 98/19. i 33/23.) u članku 7. stavku 7. riječi: »točkom 13.« zamjenjuju se riječima: »točkama 13. i 16.«.
+Iza stavka 8. dodaje se stavak 9. koji glasi:
+»(9) Iznimno, osigurane osobe iz stavka 7. ovoga članka nemaju obvezu osobnog pristupa za vrijeme korištenja prava na rodiljne i roditeljske potpore ako imaju status osobe s invaliditetom kojoj je utvrđen treći ili četvrti stupanj težine invaliditeta, samohrani roditelji djece do sedme godine života, osobe koje u kućanstvu skrbe za teško bolesnog člana obitelji, kao i učenici i studenti koji su u postupku ponovnog upisa u obrazovnu ustanovu nakon prekida školovanja te ako zbog svoga zdravstvenog stanja ili drugog opravdanog razloga nisu u mogućnosti osobno pristupiti Zavodu radi provjere okolnosti na temelju kojih im je taj status utvrđen, dok traje objektivna nemogućnost, pod uvjetom da su o tome obavijestile Zavod.«.
