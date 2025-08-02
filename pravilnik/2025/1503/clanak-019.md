@@ -1,0 +1,4 @@
+# Članak 19.
+Članak 92. mijenja se i glasi:
+»(1) Pristup stalnim točkama geodetske osnove koje se nalaze u okviru objekata od posebnog značaja, dopušten je samo uz odobrenje nadležnog tijela sukladno zakonu kojim se uređuje upravljanje nekretninama i pokretninama u vlasništvu Republike Hrvatske odnosno pravnoj osobi koja na temelju posebnih zakona upravlja nekretninama u vlasništvu Republike Hrvatske odnosno općim i javnim dobrima.
+(2) Pristup stalnim točkama geodetske osnove koje se nalaze na područjima posebnih pravnih režima, dopušten je samo uz odobrenje nadležnog tijela sukladno zakonu kojim se uređuje upravljanje nekretninama i pokretninama u vlasništvu Republike Hrvatske odnosno pravnoj osobi koja na temelju posebnih zakona upravlja nekretninama u vlasništvu Republike Hrvatske odnosno općim i javnim dobrima.«.
