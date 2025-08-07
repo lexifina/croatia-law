@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 5., članka 10. stavka 9., članka 17. stavka 14., članka 22. stavka 5., članka 25. stavka 7., članka 27. stavka 3., članka 30. stavka 3., članka 31. stavka 3. Zakona o reviziji (»Narodne novine«, br. 127/17., 27/24., 85/24. i 145/24.) ministar financija donosi
