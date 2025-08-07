@@ -1,0 +1,4 @@
+# Članak 7.
+U članku 9. stavci 1. i 2. mijenjaju se i glase:
+»(1) Ako je u postupku provjere osiguranja kvalitete rada revizorskom društvu dana preporuka u skladu s člankom 91. Zakona u svrhu unaprjeđenja poslovanja i sustava unutarnjeg upravljanja kvalitetom ili smanjenja ili uklanjanja rizika kojima je ovlašteni revizor ili revizorsko društvo izloženo ili može biti izloženo u obavljanju svojih aktivnosti, revizorsko društvo je obvezno temeljem dane preporuke dostaviti Ministarstvu financija plan, rokove i dinamiku postupanja po preporuci, vodeći pri tome računa o razumnom roku za provedbu preporuka.
+(2) Rok za provedbu preporuke o sustavu unutarnjeg upravljanja kvalitetom revizorskog društva koji obavlja zakonsku reviziju i/ili provjeru izvještaja o održivosti subjekata od javnog interesa ne može biti dulji od 12 mjeseci.«.
