@@ -1,0 +1,1 @@
+Na temelju članka 18. stavka 13. Zakona o računovodstvu (»Narodne novine«, br. 85/24. i 145/24.) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19.) ministar financija uz prethodnu suglasnost ministra vanjskih i europskih poslova donosi
