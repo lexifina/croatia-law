@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 5. Zakona o gospodarenju otpadom (»Narodne novine«, broj 84/21. i 142/23. - Odluka Ustavnog suda Republike Hrvatske) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19. i 155/23.) ministrica zaštite okoliša i zelene tranzicije, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donijela je
