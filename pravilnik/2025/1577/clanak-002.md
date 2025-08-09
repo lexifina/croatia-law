@@ -1,0 +1,12 @@
+# Članak 2.
+(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+a) »Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju« (u daljnjem tekstu: Agencija za plaćanja) - tijelo koje vrši isplate korisnicima
+b) »Dozvola za akvakulturu« - isprava na temelju koje se smije obavljati gospodarska djelatnost akvakulture
+c) »Javni doprinos« - svi doprinosi financiranju operacija koji potječu iz proračuna nacionalnih, regionalnih ili lokalnih javnih tijela ili bilo koje Europske grupacije za teritorijalnu suradnju (EGTS) uspostavljene u skladu s Uredbom (EZ) br. 1082/2006 Europskog parlamenta i Vijeća od 5. srpnja 2006. o Europskoj grupaciji za teritorijalnu suradnju (EGTS) (SL L 210, 31. 7. 2006.), proračuna Europske unije stavljenog na raspolaganje fondovima iz članka 1. stavka 1. točke a) Uredbe (EU) 2021/1060, proračuna tijela javnog prava ili proračuna udruženja javnih tijela ili tijela javnog prava
+d) »Korisnik« - svaka fizička ili pravna osoba koja zadovolji uvjete ovoga Pravilnika
+e) »Malostonska kamenica (ZOI)« - registrirani naziv proizvoda Malostonska kamenica kao zaštićena oznaka izvornosti u skladu s Provedbenom uredbom Komisije (EU) 2020/1469 od 6. listopada 2020. o upisu naziva u registar zaštićenih oznaka izvornosti i zaštićenih oznaka zemljopisnog podrijetla »Malostonska kamenica« (ZOI) (SL L 334, 13. 10. 2020.)
+f) »Ministar« - čelnik središnjeg tijela državne uprave koje je nadležno za poslove ribarstva
+g) »Ministarstvo poljoprivrede, šumarstva i ribarstva (u daljnjem tekstu: Ministarstvo)« - središnje tijelo državne uprave nadležno za poslove ribarstva te u ovom slučaju davatelj potpore
+h) »Novigradska dagnja (ZOI)« - registrirani naziv proizvoda Novigradska dagnja kao zaštićena oznaka izvornosti u skladu s Provedbenom uredbom Komisije (EU) 2023/1308 od 21. lipnja 2023. o upisu u registar zaštićenih oznaka izvornosti i zaštićenih oznaka zemljopisnog podrijetla »Novigradska dagnja« (ZOI) (SL L 162, 28. 6. 2023.)
+i) »Radni dan« - svaki dan koji nije subota, nedjelja ili blagdan odnosno svaki dan kad Upravljačko tijelo radi.
+(2) Ostali pojmovi u smislu ovoga Pravilnika, imaju jednako značenje kao pojmovi uporabljeni u Uredbi (EU) br. 2021/1139, Uredbi (EU) br. 2021/1060 i Uredbi (EU) br. 1380/2013 Europskog parlamenta i Vijeća od 11. prosinca 2013. o zajedničkoj ribarstvenoj politici, izmjeni uredaba Vijeća (EZ) br. 1954/2003 i (EZ) br. 1224/2009 i stavljanju izvan snage uredaba (EZ) br. 2371/2002 i (EZ) br. 639/2004 i Odluke Vijeća 2004/585/EZ (SL L 354 od 28. 12. 2013.).
