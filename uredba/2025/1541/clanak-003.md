@@ -1,0 +1,2 @@
+# Članak 3.
+Okvirni broj državnih službenika i namještenika u Ministarstvu turizma i sporta, prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva turizma i sporta (»Narodne novine«, broj 11/25.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika u Ministarstvu turizma i sporta koji je sadržan u prilogu ove Uredbe i čini sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva turizma i sporta.

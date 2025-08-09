@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 1. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.), a u vezi s člankom 40. stavkom 1. Zakona o sportskoj inspekciji (»Narodne novine«, broj 72/25.), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2025. donijela
