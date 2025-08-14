@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 3. Zakona o veterinarstvu (»Narodne novine«, broj 82/13, 148/13, 115/18, 52/21, 83/22, 152/22 i 18/23) ministar poljoprivrede, šumarstva i ribarstva, uz prethodnu suglasnost ministra nadležnog za unutarnje poslove, ministra nadležnog za promet i glavnog državnog inspektora, donosi
