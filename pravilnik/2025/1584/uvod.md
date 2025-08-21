@@ -1,0 +1,1 @@
+Na temelju članka 257. stavak 10. Zakona o socijalnoj skrbi (»Narodne novine« br. 18/22, 46/22, 119/22, 71/23, 156/23, 61/25) ministar rada, mirovinskoga sustava, obitelji i socijalne politike donio je
