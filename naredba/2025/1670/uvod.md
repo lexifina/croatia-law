@@ -1,0 +1,1 @@
+Na temelju članka 42. stavka 1. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17., 14/19., 30/23. i 14/24.), a u svezi Odluke Vlade Republike Hrvatske o popisu iskrcajnih mjesta za plovila koja obavljaju gospodarski ribolov na moru (»Narodne novine«, br. 10/20., 145/20., 112/21. i 135/22.), ministar poljoprivrede, šumarstva i ribarstva donosi
