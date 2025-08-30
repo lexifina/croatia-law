@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Središnji registar preuzet će podatke iz članka 5. stavka 1. točaka 15. i 16. ove Uredbe upisane u evidenciju o državljanstvu za sve osobe koje imaju određen i dodijeljen OIB te podatke iz članka 8. ove Uredbe upisane u Zbirku podataka o prebivalištu i boravištu tijela državne uprave nadležnog za unutarnje poslove u roku određenom člankom 43. Zakona.
+(2) Za osobe upisane na temelju stavka 1. ovoga članka upisat će se podaci propisani člankom 4., člankom 5. stavkom 1. točkama od 1. do 14. i točkom 19. te stavkom 2., člancima 6. i 7. te člancima od 9. do 12. ove Uredbe u roku određenom člankom 43. Zakona.
