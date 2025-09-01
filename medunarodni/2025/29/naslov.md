@@ -1,0 +1,1 @@
+Uredba o objavi Ugovora o dodjeli bespovratnih sredstava tehničke pomoći između Razvojne banke Vijeća Europe i Republike Hrvatske za izradu Operativnog plana i Izvješća o izvedivosti za kaznionicu u Ličko-senjskoj županiji
