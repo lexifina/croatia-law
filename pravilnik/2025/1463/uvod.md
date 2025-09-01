@@ -1,0 +1,1 @@
+Na temelju članka 201. stavka 5. i članka 202. stavka 2. Zakona o radu (»Narodne novine«, broj 93/14., 127/17., 98/19., 151/22., 46/23. i 64/23. - Odluka Ustavnog suda), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
