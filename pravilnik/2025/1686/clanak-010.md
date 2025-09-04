@@ -1,0 +1,11 @@
+# Članak 10.
+Članak 31. mijenja se i glasi:
+»Način dostave korisnicima
+Članak 31.
+(1) U slučaju dostave korisnicima putem AGRONET-a, adresa elektroničke pošte na koju Agencija za plaćanja korisniku šalje obavijest o dostavi na AGRONET je isključivo adresa elektroničke pošte koja je predviđena za takvu namjenu u Evidenciji korisnika u ruralnom razvoju i ribarstvu (u daljnjem tekstu: Evidencija korisnika).
+(2) U slučaju dostave korisnicima putem AGRONET-a, korisnik je obvezan preuzeti akt Agencije za plaćanja/ugovor o financiranju/rješenje Ministarstva najkasnije u roku od pet dana od dana postavljanja istih na AGRONET i zaprimanja obavijesti u elektronički pretinac.
+(3) U slučaju dostave korisnicima putem AGRONET-a, dostava se smatra obavljenom u trenutku zapisa na AGRONET-u kada je korisnik preuzeo akt Agencije za plaćanja/ugovor o financiranju/rješenje Ministarstva. Ako korisnik ne preuzme akt Agencije za plaćanja/ugovor o financiranju/rješenje Ministarstva s AGRONET-a u roku od pet dana od dana postavljanja na AGRONET, dostava se smatra obavljenom istekom roka od pet dana od dana kada je akt Agencije za plaćanja/ugovor o financiranju/rješenje Ministarstva postavljeno na AGRONET.
+(4) U slučaju dostave preporučenom pošiljkom s povratnicom dostava se smatra obavljenom u trenutku kada je korisnik zaprimio preporučenu pošiljku, što se dokazuje datumom i potpisom na povratnici.
+(5) U slučaju neuspjele dostave preporučenom pošiljkom zbog promjene adrese sjedišta korisnika o čemu korisnik nije obavijestio Agenciju za plaćanja, akt Agencije za plaćanja/ugovor o financiranju/rješenje Ministarstva će se objaviti na oglasnoj ploči Agencije za plaćanja te se dostava smatra obavljenom istekom osmog dana od dana stavljanja na oglasnu ploču.
+(6) U slučaju dostave putem elektroničke pošte, isključujući dostavu putem AGRONET-a, ako je korisnik u zahtjevu pod podacima o kontakt osobi naveo adresu elektroničke pošte koja se razlikuje od adrese elektroničke pošte koja je navedena u Evidenciji korisnika, dostava se obavlja na obje adrese elektroničke pošte.
+(7) Dostava elektroničkim putem smatra se obavljenom u trenutku kad je zabilježena na poslužitelju za primanje takvih poruka. Korisnicima se preporučuje provjeravati sve pretince elektroničke pošte.«.

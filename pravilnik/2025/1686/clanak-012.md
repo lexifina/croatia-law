@@ -1,0 +1,6 @@
+# Članak 12.
+U članku 43. iza članka 4. dodaje se novi stavak 5. koji glasi:
+»(5) Agencija za plaćanja provjerava i one troškove provedbe projekta koji nisu prihvatljivi za sufinanciranje, ali utječu na ispunjavanje uvjeta prihvatljivosti i/ili kriterija odabira kada je korisnik ugovorom o financiranju preuzeo i obvezu iz stavka 4. članka 39. ovoga Pravilnika.«.
+Dosadašnji stavci 5., 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16. i 17. postaju stavci 6., 7., 8., 9., 10., 11., 12., 13., 14., 15., 16., 17. i 18.
+Dosadašnji stavak 15. koji postaje stavak 16. mijenja se i glasi:
+»(16) Ako korisnik u zahtjevu za isplatu uključi neprihvatljiv iznos za isplatu te ako udio zatraženog neprihvatljivog iznosa za isplatu u ukupnom iznosu za isplatu utvrđenom nakon administrativne kontrole zahtjeva za isplatu i/ili nakon kontrole na terenu premašuje 10 %, Agencija za plaćanja može primijeniti administrativnu kaznu. Administrativna kazna primjenjuje se u iznosu zatraženog neprihvatljivog iznosa za isplatu. Administrativna kazna se ne primjenjuje ako korisnik može dokazati Agenciji za plaćanja da nije kriv za uključivanje neprihvatljivog iznosa ili ako se Agencija za plaćanja na drugi način uvjeri da korisnik nije kriv.«.
