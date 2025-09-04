@@ -1,0 +1,14 @@
+## Uvjeti prihvatljivosti korisnika
+# Članak 7.
+(1) Prihvatljivi korisnici potpore iz Programa su organizatori skupova sa sjedištem u Republici Hrvatskoj.
+(2) Za aktivnosti iz članka 6. stavka 1. točke a) ovoga Pravilnika prihvatljivi korisnici su ustanove, znanstveno-stručne udruge, stručna udruženja (komore), fakulteti i sveučilišta.
+(3) Za aktivnosti iz članka 6. stavka 1. točke b) ovoga Pravilnika prihvatljivi korisnici su ustanove, stručna udruženja (komore), zadruge i zadružni savezi te proizvođačke organizacije, osim onih registriranih kao udruge.
+(4) Za aktivnosti iz članka 6. stavka 1. točke c) ovoga Pravilnika prihvatljivi korisnici su jedinice lokalne i područne (regionalne) samouprave, regionalne i lokalne razvojne agencije, trgovačka društva u vlasništvu jedinica lokalne i područne (regionalne) samouprave, trgovačka društva kojima je osnovna djelatnost po Nacionalnoj klasifikaciji djelatnosti u okviru razreda 82.30, stručna udruženja (komore), proizvođačke organizacije osim onih registriranih kao udruge, zadruge i zadružni savezi.
+(5) Stručna udruženja (komore), zadruge i zadružni savezi te trgovačka društva iz stavaka 2., 3. i 4. ovoga članka moraju biti registrirani najmanje dvije godine prije podnošenja Zahtjeva za dodjelu potpore.
+(6) Korisnik iz ovoga članka mora imati podmirene, odnosno uređene financijske obveze prema državnom proračunu Republike Hrvatske.
+(7) Korisnik iz ovoga članka za prijavljene prihvatljive troškove iz ovoga Programa i Pravilnika nije dobio financijska sredstva iz javnih izvora od tijela državne uprave, ureda i tijela Vlade Republike Hrvatske, javnih institucija, jedinica lokalne i područne (regionalne) samouprave odnosno sredstva iz fondova EU i međunarodnih fondova ili druge ostvarene javne potpore.
+(8) Korisnik iz ovoga članka je ispunio sve ugovorene obveze preuzete temeljem prijašnjih ugovora o dodjeli bespovratnih sredstava prema Ministarstvu te svim drugim davateljima financijskih sredstava iz javnih izvora.
+(9) Korisnik iz ovoga članka nije osobno ili putem osobe ovlaštene za zastupanje ni na koji način povezan s pružateljem roba ili usluga koji sudjeluju u provedbi skupa, osim u slučaju kada je prijavitelj jedinica lokalne samouprave, a pružatelj roba ili usluga komunalno poduzeće u vlasništvu jedinica lokalne samouprave, koje u skladu s propisom koji uređuje komunalne djelatnosti može izvršavati takve usluge.
+(10) Korisnici iz ovoga članka ne mogu biti registrirani temeljem propisa koji uređuje udruge, osim u slučaju znanstveno-stručne udruge za aktivnosti iz članka 6., stavka 1. točke a) ovoga Pravilnika.
+(11) Korisnici iz ovoga članka ne mogu biti registrirani temeljem propisa koji uređuje turističke zajednice i promicanje hrvatskog turizma.
+(12) Sve uvjete prihvatljivosti korisnika iz ovoga članka korisnik dokazuje dokumentacijom koja se propisuje Javnim pozivom.
