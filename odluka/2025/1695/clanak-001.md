@@ -1,0 +1,2 @@
+# Članak 1.
+Hrvatska narodna banka izdaje zlatne i srebrne numizmatičke kovanice »Gajeta falkuša« u sklopu serije numizmatičkih kovanica »Stari hrvatski brodovi«, s prigodnim motivima kojima se predstavlja falkuša, tradicijska ribarska brodica, vrsta gajete kakva se gradila u gradu Komiži na otoku Visu. Falkuša je stoljećima bila osnova privređivanja i života tamošnje ribarske zajednice, stoga se svrstava u važan dio kulturne, povijesne i gospodarske baštine Republike Hrvatske.
