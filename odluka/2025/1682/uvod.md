@@ -1,0 +1,1 @@
+Na temelju članka 91. stavka 5. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 96/25) i članka 22. točke 8. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, br. 28/14, 24/15, 73/19 i 147/20), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 26. kolovoza 2025., donosi
