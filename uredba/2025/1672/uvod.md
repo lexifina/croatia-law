@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 3. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i članka 18. stavka 1. Zakona o ravnopravnosti spolova (»Narodne novine«, br. 82/08. i 69/17.), Vlada Republike Hrvatske je na sjednici održanoj 28. kolovoza 2025. donijela
