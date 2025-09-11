@@ -1,0 +1,1 @@
+Na temelju članka 560. stavka 8. i članka 580. stavka 4. Zakona o tržištu kapitala (»Narodne novine« br. 65/18, 17/20, 83/21, 151/22 i 85/24), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 29. kolovoza 2025. godine donosi

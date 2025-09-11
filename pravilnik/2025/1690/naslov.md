@@ -1,0 +1,1 @@
+Pravilnik o izmjenama Pravilnika o periodičkom, statističkom i kapitalnom izvještavanju od strane središnjeg depozitorija vrijednosnih papira te izvještavanju od strane središnjeg depozitorija vrijednosnih papira iz druge države članice
