@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 6., članka 76. stavka 6. i članka 152. stavka 5. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18., 125/19., 147/20., 119/22., 156/22., 33/23., 36/24. i 102/25.), uz prethodno pribavljeno mišljenje nadležnih komora, ministrica zdravstva donosi
