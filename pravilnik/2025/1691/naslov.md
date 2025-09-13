@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o provedbi Programa državne potpore za kompenzaciju smanjene vrijednosti tovnih svinja isporučenih na klanje iz zone ograničenja III uslijed primjene posebnih mjera za kontrolu afričke svinjske kuge
