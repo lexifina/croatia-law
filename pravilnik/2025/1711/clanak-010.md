@@ -1,0 +1,7 @@
+## Obveze korisnika potpore
+# Članak 10.
+(1) Korisnici u sektoru mesnog govedarstva, ovčarstva i kozarstva se obvezuju u roku od 24 mjeseca od dana primitka potpore imati upisano u JRDŽ 10, 20, 30 ili 40 % više prihvatljivih grla krava, ovaca i/ili koza sukladno odabiru podnositelja, u odnosu na broj prihvatljivih krava, ovaca i/ili koza upisanih u JRDŽ na dan 31. prosinca godine koja prethodi godini podnošenja zahtjeva za potporu.
+(2) Korisnici u sektoru svinjogojstva obvezuju se po isteku 24 mjeseca od dana primitka potpore u roku od 30 dana imati evidentiranu minimalno jednu dojavu brojnog stanja svinja na gospodarstvu, te temeljem dojave/dojava imati na gospodarstvu 10, 20, 30 ili 40 % više krmača i/ili suprasnih krmača sukladno odabiru podnositelja, u odnosu na broj grla na temelju dojave koja je osnova za izračun potpore.
+(3) Ukoliko izračunata vrijednost broja grla iz stavaka 1. i 2. ovoga članka nije cijeli broj, broj grla se određuje na način da se dobivena vrijednost zaokružuje na viši cijeli broj.
+(4) Administrativnu kontrolu ispunjavanja obveza iz ovoga članka provodi Agencija za plaćanja na temelju dostavljene dokumentacije, podataka iz dostupnih registara i za ovu svrhu zatraženih podataka iz drugih registara.
+(5) Ukoliko se na temelju administrativne kontrole korisnika iz stavka 4. ovoga članka utvrdi da nije postupao u skladu s obvezama propisanim Programom i ovim Pravilnikom, isti je u obvezi vratiti puni iznos dobivene potpore.
