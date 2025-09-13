@@ -1,0 +1,9 @@
+# Članak 3.
+Iza članka 2. dodaju se članci 2.a i 2.b koji glase:
+»Članak 2.a
+(1) Podnositelj zahtjeva za izdavanje lokacijske dozvole je dužan tijelu koje je izdalo lokacijsku dozvolu prijaviti početak provedbe zahvata u prostoru iz članka 2. ovoga Pravilnika elektroničkim putem primjenom elektroničkog programa »eDozvola«, najkasnije u roku od osam dana prije početka provedbe.
+(2) U prijavi početka provedbe zahvata podnositelj zahtjeva je dužan navesti klasu, urudžbeni broj i datum izdavanja lokacijske dozvole, izvođača te uz prijavu priložiti dokaz da su ispunjeni uvjeti propisani lokacijskom dozvolom (da je u katastru formirana građevna čestica, ako je njeno formiranje predviđeno lokacijskom dozvolom i sl.).
+(3) Tijelo koje je izdalo lokacijsku dozvolu dužno je u roku od pet dana od primitka prijave početka provedbe zahvata u prostoru o tome putem elektroničkog programa »eDozvola« obavijestiti građevinsku inspekciju i inspekciju rada te upravno tijelo koje se bavi komunalnim redarstvom u jedinici lokalne samouprave odnosno Gradu Zagrebu na čijem se području provodi zahvat, te im na taj način omogućiti uvid u lokacijsku dozvolu, idejni projekt i dokaz da je u katastru formirana građevna čestica, ako je njeno formiranje predviđeno lokacijskom dozvolom.
+Članak 2.b
+(1) Zahvati u prostoru koji se prema posebnim propisima kojima se uređuje gradnja ne smatraju građenjem mogu se početi koristiti nakon što je tijelo koje je izdalo lokacijsku dozvolu očevidom utvrdilo da su radovi izvedeni unutar obuhvata zahvata određenog lokacijskom dozvolom, o čemu se izdaje potvrda.
+(2) Za ispunjavanje ostalih uvjeta određenih lokacijskom dozvolom te drugih uvjeta za provedbu zahvata određenih posebnim propisima odgovorni su podnositelj zahtjeva za izdavanje lokacijske dozvole i druga tijela nadležna prema posebnim propisima.«.

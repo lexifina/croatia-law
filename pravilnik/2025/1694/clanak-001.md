@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o zahvatima u prostoru koji se ne smatraju građenjem, a za koje se izdaje lokacijska dozvola (»Narodne novine«, broj 105/17 i 108/17) u članku 1. ispred riječi: »Ovim« stavlja se oznaka stavka: »(1)«, a iza riječi: »dozvola« stavlja se zarez i dodaju se riječi: »te se propisuje obveza prijave početka provedbe zahvata«.
+Iza stavka 1. dodaju se stavci 2. i 3. koji glase:
+»(2) U projektiranju i provedbi zahvata u prostoru iz stavka 1. ovoga članka, podnositelj zahtjeva za izdavanje lokacijske dozvole, projektant i izvođač dužni su pridržavati se svih posebnih propisa i pravila struke koji se odnose na njihovu provedbu te se isti moraju projektirati odnosno provoditi u skladu s prostornim planom.
+(3) Iznimno od stavka 2. ovoga članka, zahvati u prostoru iz stavka 1. ovoga članka za koje ne postoji obveza posebnog planiranja u prostornom planu, mogu se projektirati odnosno provoditi na svim onim prostorima na kojima za to ne postoje zapreke u prostornom planu, vodeći računa o tome da se istima ne ugrozi provedba rješenja iz prostornih planova.«
