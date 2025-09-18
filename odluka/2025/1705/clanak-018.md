@@ -1,0 +1,3 @@
+# Članak 18.
+Točka 264.d Upute mijenja se i glasi:
+»264.d Podaci se dostavljaju u obliku komprimiranih (ZIP) datoteka, od kojih svaka sadržava točno jedan modul XBRL-CSV za određeni izvještajni datum. Pritom se podaci iz članka 11.a ove Odluke dostavljaju u formatu usklađenom s tehničkom definicijom Europske središnje banke iz dokumenta »SFRDP XBRL filing information« koji to tijelo objavljuje na svojim internetskim stranicama. Svi ostali podaci obuhvaćeni točkom 264.a ove Upute dostavljaju se u formatu usklađenom s tehničkom definicijom Europskoga nadzornog tijela za bankarstvo iz dokumenta »EBA Filing Rules« koji to tijelo objavljuje na svojim internetskim stranicama.«

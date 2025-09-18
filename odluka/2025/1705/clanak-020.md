@@ -1,0 +1,3 @@
+# Članak 20.
+(1) S obzirom na prijelazno razdoblje za primjenu tehničkog formata iz članka 21. Odluke o izmjenama i dopunama Odluke o izvještajima za potrebe supervizije kreditnih institucija (»Narodne novine«, br. 76/2024.), podružnica iz EU-a dužna je Hrvatskoj narodnoj banci dostavljati izvještaje iz članka 11.a ove Odluke u formatu XBRL-CSV, na način propisan poglavljem III.3. Upute za sastavljanje i dostavljanje izvještaja za potrebe supervizije, počevši od prvoga referentnog datuma.
+(2) Prvi izvještaj iz članka 11.a ove Odluke podružnica iz EU-a dužna je Hrvatskoj narodnoj banci dostaviti sa stanjem na dan 31. ožujka 2026., i to najkasnije do 15. lipnja 2026.
