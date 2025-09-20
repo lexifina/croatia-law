@@ -1,0 +1,1 @@
+Na temelju članka 46. Zakona o upravljanju nekretninama i pokretninama u vlasništvu Republike Hrvatske (»Narodne novine«, broj 155/23.), Vlada Republike Hrvatske je na sjednici održanoj 11. rujna 2025. donijela
