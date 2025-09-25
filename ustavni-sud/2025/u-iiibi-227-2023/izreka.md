@@ -1,0 +1,5 @@
+O D L U K U
+I. Ustavna tužba se usvaja.
+II. Utvrđuje se da su podnositeljici ustavne tužbe X. X. u postupovnom aspektu povrijeđena prava zajamčena člankom 35. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.) i člankom 8. Konvencije za zaštitu ljudskih prava i temeljnih sloboda ("Narodne novine - Međunarodni ugovori" broj 18/97., 6/99. - pročišćeni tekst, 8/99. - ispravak, 14/02., 1/06., 13/17. i 6/24.).
+III. Zbog utvrđene povrede podnositeljici ustavne tužbe X. X. određuje se zadovoljština od 3.318,07 eura koja će joj biti isplaćena iz državnog proračuna u roku od tri mjeseca od dana podnošenja zahtjeva za isplatu Ministarstvu pravosuđa, uprave i digitalne transformacije Republike Hrvatske.
+IV. Na ime troška sastava ustavne tužbe podnositeljici X. X. određuje se iznos od 1.244,28 eura koji će biti isplaćen iz državnog proračuna u roku od tri mjeseca od dana podnošenja zahtjeva podnositeljice ustavne tužbe Ministarstvu pravosuđa, uprave i digitalne transformacije Republike Hrvatske za njegovu isplatu.
