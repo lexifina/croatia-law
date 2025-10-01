@@ -1,0 +1,13 @@
+## Ravnatelj
+# Članak 10.
+(1) Ravnatelja imenuje Upravno vijeće na temelju javnog natječaja. Javni natječaj raspisuje i provodi Upravno vijeće.
+(2) Za ravnatelja može biti imenovana osoba koja ima završen najmanje sveučilišni prijediplomski i diplomski studij ili sveučilišni integrirani prijediplomski i diplomski studij i najmanje desetogodišnje radno iskustvo u struci nakon završenog studija te koja ispunjava druge uvjete predviđene zakonom koji uređuje pravne osobe u vlasništvu Republike Hrvatske i Statutom Centra.
+(3) Ravnatelj se imenuje na razdoblje od četiri godine i može biti ponovno imenovan.
+(4) Ravnatelj može biti razriješen odlukom Upravnog vijeća i prije isteka razdoblja na koje je imenovan:
+1. na vlastiti zahtjev
+2. ako ne izvršava poslove propisane ovim Zakonom, zakonom koji uređuje pravne osobe u vlasništvu Republike Hrvatske, Statutom i drugim općim aktima Centra ili ako ih izvršava nesavjesno ili nestručno, što utvrđuje Upravno vijeće
+3. ako je pravomoćno osuđen za kaznena djela protiv čovječnosti i ljudskog dostojanstva (glava IX.), kazneno djelo protiv života i tijela (glava X.), kaznena djela protiv ljudskih prava i temeljnih sloboda (glava XI.), kaznena djela protiv osobne slobode (glava XIII.), kaznena djela protiv spolne slobode (glava XVI.), kaznena djela spolnog zlostavljanja i iskorištavanja djeteta (glava XVII.), kaznena djela protiv braka, obitelji i djece (glava XVIII.), kaznena djela protiv imovine (glava XXIII.), kaznena djela protiv gospodarstva (glava XXIV.), kaznena djela krivotvorenja (glava XXVI.), kaznena djela protiv službene dužnosti (glava XXVIII.), kaznena djela protiv pravosuđa (glava XXIX.), kaznena djela protiv javnog reda (glava XXX.), kaznena djela protiv Republike Hrvatske (glava XXXII.) i kaznena djela protiv strane države ili međunarodne organizacije (glava XXXIII.) iz Kaznenog zakona (»Narodne novine«, br. 125/11., 144/12., 56/15., 61/15., 101/17., 118/18., 126/19., 84/21., 114/22.,114/23. i 36/24.)
+4. ako je u odnosu na njega određena mjera ograničavanja u skladu sa zakonom koji uređuje mjere ograničavanja
+5. zbog drugih razloga predviđenih zakonom koji uređuje pravne osobe u vlasništvu Republike Hrvatske i Statutom Centra.
+(5) Ravnatelj kojem je isteklo razdoblje na koje je imenovan, osim u slučaju razrješenja prije isteka razdoblja na koje je imenovan, dužan je obavljati svoju dužnost do imenovanja novoga ravnatelja, a najdulje šest mjeseci od dana isteka razdoblja na koje je imenovan.
+(6) U slučaju razrješenja ravnatelja prije isteka razdoblja na koje je imenovan, Upravno vijeće imenuje osobu ovlaštenu za obavljanje poslova ravnatelja te u roku od 30 dana od dana razrješenja raspisuje javni natječaj za imenovanje ravnatelja.

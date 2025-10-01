@@ -1,0 +1,10 @@
+## Javne ovlasti Centra
+# Članak 18.
+(1) Centar kao javne ovlasti obavlja sljedeće poslove:
+1. potvrđuje procijenjenu i neprocijenjenu imovinu u postupku pretvorbe i privatizacije društvenih poduzeća
+2. u upravnom postupku ustupa dionice odnosno obveznice Republike Hrvatske bez naknade hrvatskim ratnim vojnim invalidima iz Domovinskog rata (u daljnjem tekstu: HRVI iz Domovinskog rata) i članovima uže i šire obitelji smrtno stradaloga odnosno nestaloga hrvatskog branitelja iz Domovinskog rata
+3. izvršava pravomoćna rješenja nadležnih upravnih tijela županija odnosno Grada Zagreba o utvrđivanju prava na naknadu sukladno zakonu koji uređuje naknadu za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine
+4. u upravnom postupku ukida rezervaciju dionica i poslovnih udjela određenu zbog neriješenih imovinskopravnih odnosa na procijenjenim nekretninama i rezervaciju dionica i poslovnih udjela izdanih u protuvrijednosti imovine uključene u vrijednosti društvenoga kapitala po knjigovodstvenoj vrijednosti, s time da rezervaciju određenu radi osiguranja naknade prijašnjim vlasnicima procijenjenih nekretnina ukida pod uvjetom da u odnosu na te nekretnine nije podnesen zahtjev sukladno zakonu koji uređuje naknadu za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine ili je taj zahtjev pravomoćno odbijen
+5. izdaje potvrde o usklađenosti geodetskog elaborata s uvjerenjem odnosno rješenjem Centra ili uvjerenjem odnosno rješenjem njegovih pravnih prednika kojim se utvrđuju nekretnine koje su procijenjene u vrijednost društvenog kapitala društvenog poduzeća u postupku pretvorbe na temelju Zakona o pretvorbi društvenih poduzeća (»Narodne novine«, br. 19/91., 83/92., 94/93., 2/94., 9/95. i 118/99.) odnosno koje su unesene u temeljni kapital trgovačkog društva u postupku privatizacije na temelju Zakona o privatizaciji (»Narodne novine«, br. 21/96., 71/97., 16/98. i 73/00.), kao javne isprave o činjenicama o kojima vodi službenu evidenciju
+6. obavlja i druge javne ovlasti određene posebnim propisima.
+(2) Protiv rješenja Centra u upravnim postupcima nije dopuštena žalba, ali se može pokrenuti upravni spor.

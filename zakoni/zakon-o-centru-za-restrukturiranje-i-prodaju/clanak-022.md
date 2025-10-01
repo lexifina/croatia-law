@@ -1,0 +1,9 @@
+## Uvjerenje o procijenjenim nekretninama
+# Članak 22.
+(1) Centar, na zahtjev stranke, izdaje uvjerenje o nekretninama procijenjenim u temeljni kapital kao javnu ispravu o činjenicama o kojima Centar vodi službenu evidenciju, a za potrebe upisa prava vlasništva nekretnina u zemljišne knjige odnosno polaganja u zbirku isprava.
+(2) Uvjerenjem o procijenjenim nekretninama potvrđuju se nekretnine koje su procijenjene u vrijednost društvenog kapitala društvenog poduzeća u postupku pretvorbe na temelju Zakona o pretvorbi društvenih poduzeća (»Narodne novine«, br. 19/91., 83/92., 94/93., 2/94., 9/95. i 118/99.) odnosno koje su unesene u temeljni kapital trgovačkog društva u postupku privatizacije na temelju Zakona o privatizaciji (»Narodne novine«, br. 21/96., 71/98., 16/98. i 73/00.).
+(3) Uvjerenjem o procijenjenim nekretninama potvrđuju se i nekretnine koje su u vrijednost društvenog kapitala u postupku pretvorbe društvenog poduzeća unesene po knjigovodstvenoj vrijednosti, a u protuvrijednosti kojih je rješenjem o suglasnosti na tu pretvorbu određena rezervacija dionica odnosno poslovnih udjela.
+(4) Centar naplaćuje naknadu za izdavanje uvjerenja iz stavka 1. ovoga članka, osim kada uvjerenja izdaje na zahtjev nadležnog državnog odvjetništva i tijela državne uprave.
+(5) Nekretnine koje nisu uvjerenjem iz stavka 1. ovoga članka ili uvjerenjem odnosno rješenjem pravnih prednika Centra potvrđene procijenjenim, jesu neprocijenjene nekretnine u smislu ovoga Zakona i zakona koji uređuje neprocijenjeno građevinsko zemljište.
+(6) Ministar financija pravilnikom propisuje visinu naknade za izdavanje uvjerenja iz stavka 1. ovoga članka.
+Ustupanje dionica odnosno obveznica Republike Hrvatske HRVI-ju iz Domovinskog rata i članovima uže i šire obitelji smrtno stradaloga odnosno nestalog hrvatskog branitelja iz Domovinskog rata
