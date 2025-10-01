@@ -1,0 +1,4 @@
+## Izvještaj o provedenom nadzoru
+# Članak 39.
+(1) Pisani izvještaj o obavljenom nadzoru koje nadzorni odbor pravne osobe u vlasništvu Republike Hrvatske dostavlja skupštini odnosno glavnoj skupštini sukladno zakonu koji uređuje osnivanje, ustroj, prestanak i statusne promjene trgovačkih društava, sadrži dodatne informacije o ispunjenju godišnjeg plana poslovanja, financijskih i nefinancijskih ciljeva, uključujući ciljeve povezane s čimbenicima održivosti, o čimbenicima rizika i o događajima relevantnima za poslovanje pravne osobe.
+(2) Nadzorni odbor pravne osobe u vlasništvu Republike Hrvatske vrši godišnju procjenu vlastitog rada i učinka te rada i učinka revizijskog odbora i drugih odbora nadzornog odbora. Izvještaj o provedenoj procjeni rada i učinka dostavlja se u okviru pisanog izvještaja o obavljenom nadzoru iz stavka 1. ovoga članka.

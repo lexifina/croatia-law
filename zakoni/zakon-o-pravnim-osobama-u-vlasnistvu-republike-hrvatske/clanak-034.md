@@ -1,0 +1,10 @@
+## Predstavljanje vlasničkog tijela u skupštini odnosno glavnoj skupštini
+# Članak 34.
+(1) Predstavnika vlasničkog tijela u skupštini odnosno glavnoj skupštini pravne osobe od posebnog interesa imenuje Vlada Republike Hrvatske.
+(2) Predstavnik vlasničkog tijela u skupštini odnosno glavnoj skupštini u ostalim trgovačkim društvima je čelnik vlasničkog tijela.
+(3) Predstavnici vlasničkog tijela u skupštini odnosno glavnoj skupštini pravne osobe u vlasništvu Republike Hrvatske dužni su glasovati na temelju prethodne analize svake točke dnevnog reda sjednice o kojoj se glasuje, u skladu sa strateškim ciljevima utvrđenim godišnjim i srednjoročnim planovima poslovanja te pravne osobe i vlasničkom politikom.
+(4) Kada predstavnik vlasničkog tijela opunomoći drugu osobu za predstavljanje vlasničkog tijela u skupštini odnosno glavnoj skupštini pravne osobe u vlasništvu Republike Hrvatske, dužan je toj osobi dati pisane upute o načinu glasovanja za svaku točku dnevnog reda o kojoj se glasuje.
+(5) Zapisnici sa sjednica skupština odnosno glavnih skupština pravnih osoba u vlasništvu Republike Hrvatske moraju biti dostupni na mrežnim stranicama tih pravnih osoba.
+(6) Članovi nadzornog odbora odnosno upravnog odbora, predsjednici odbora nadzornog odbora odnosno upravnog odbora te svi članovi uprave odnosno izvršni direktori prisustvuju sjednici skupštine odnosno glavne skupštine pravne osobe u vlasništvu Republike Hrvatske i odgovaraju na pitanja dioničara i imatelja poslovnih udjela.
+(7) Ako godišnji financijski izvještaji pravne osobe u vlasništvu Republike Hrvatske podliježu obvezi zakonske revizije u skladu s ovim Zakonom ili u skladu s propisima koji uređuju računovodstvo poduzetnika i reviziju, ovlašteni revizor obvezno prisustvuje sjednici skupštine odnosno glavne skupštine na kojoj se predstavljaju godišnji financijski izvještaji.
+(8) Odredbe stavaka 1., 2. i 3. ovoga članka primjenjuju se i na pravne osobe u vlasništvu Republike Hrvatske u kojima Republika Hrvatska nema prevladavajući utjecaj.

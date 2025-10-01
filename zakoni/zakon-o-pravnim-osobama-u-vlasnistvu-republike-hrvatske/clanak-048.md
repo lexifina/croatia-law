@@ -1,0 +1,9 @@
+## Izbor kandidata za člana uprave odnosno izvršnog direktora
+# Članak 48.
+(1) Kandidati za članove uprava odnosno kandidati za izvršne direktore u pravnim osobama u vlasništvu Republike Hrvatske biraju se postupkom javnog natječaja koji provodi nadzorni odnosno upravni odbor.
+(2) Odluku o imenovanju članova uprave odnosno izvršnih direktora pravne osobe u vlasništvu Republike Hrvatske donosi nadzorni odnosno upravni odbor najkasnije do isteka mandata postojećih članova uprave odnosno izvršnih direktora.
+(3) Prije donošenja odluke iz stavka 2. ovoga članka nadzorni odnosno upravni odbor pravne osobe u vlasništvu Republike Hrvatske obavit će konzultacije s Vladom Republike Hrvatske.
+(4) Iznimno od stavka 1. ovoga članka, u slučajevima nepostojanja minimalnog broja članova uprave odnosno izvršnih direktora, zbog čega pravnoj osobi u vlasništvu Republike Hrvatske može nastati šteta ili njezino poslovanje i obavljanje svakodnevnih djelatnosti može biti otežano, nadzorni odnosno upravni odbor može, do provedbe postupka izbora kandidata za člana uprave odnosno izvršnog direktora javnim natječajem, uz provedene konzultacije s Vladom Republike Hrvatske, donijeti odluku o imenovanju člana uprave odnosno izvršnog direktora bez provedbe postupka izbora kandidata javnim natječajem.
+(5) Pored razloga predviđenih zakonom koji uređuje osnivanje, ustroj, prestanak i statusne promjene trgovačkih društava i drugim propisima te osnivačkim i drugim aktima pravne osobe u vlasništvu Republike Hrvatske, važnim razlozima za opoziv odnosno razrješenje člana uprave odnosno izvršnog direktora smatraju se i:
+– nepostizanje financijskih ili nefinancijskih ciljeva, uključujući ciljeve povezane s čimbenicima održivosti
+– neispunjavanje ili neuredno ispunjavanje obveza predviđenih ovim Zakonom i drugim podzakonskim aktima donesenim na temelju ovoga Zakona.

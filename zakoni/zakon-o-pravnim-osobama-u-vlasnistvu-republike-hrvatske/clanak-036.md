@@ -1,0 +1,6 @@
+## Neovisni članovi nadzornog odbora
+# Članak 36.
+(1) Neovisni članovi nadzornog odbora pravne osobe u vlasništvu Republike Hrvatske su članovi nadzornog odbora koji su neovisni u odnosu na tu pravnu osobu u vlasništvu Republike Hrvatske kao i u odnosu na Republiku Hrvatsku i druge imatelje dionica odnosno poslovnih udjela ili nositelje osnivačkih prava u toj pravnoj osobi.
+(2) Na neovisne članove nadzornih odbora pravnih osoba u vlasništvu Republike Hrvatske primjenjuju se uvjeti neovisnosti propisani zakonom koji uređuje osnivanje, ustroj, prestanak i statusne promjene trgovačkih društava, bez obzira na pravni oblik pravnih osoba u vlasništvu Republike Hrvatske te bez obzira jesu li njihove dionice uvrštene na uređeno tržište radi trgovanja.
+(3) Članovi nadzornog odbora ne smatraju se neovisnima ako ne ispunjavaju uvjete za neovisne članove nadzornog odbora sukladno posebnim propisima koji se primjenjuju na pojedine pravne osobe u vlasništvu Republike Hrvatske.
+(4) Kriterije neovisnosti članova nadzornog odbora pravne osobe u vlasništvu Republike Hrvatske u odnosu na tu pravnu osobu i u odnosu na Republiku Hrvatsku i druge imatelje dionica odnosno poslovnih udjela ili nositelje osnivačkih prava propisuje Vlada Republike Hrvatske uredbom iz članka 51. ovoga Zakona.

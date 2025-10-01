@@ -1,0 +1,6 @@
+## Revizorsko društvo
+# Članak 54.
+(1) Isto revizorsko društvo može obavljati zakonsku reviziju godišnjih financijskih izvještaja i godišnjih konsolidiranih financijskih izvještaja iste pravne osobe u vlasništvu Republike Hrvatske najduže tijekom četiri uzastopne godine od dana stupanja na snagu ovoga Zakona.
+(2) Nakon isteka najduljeg razdoblja angažmana iz stavka 1. ovoga članka revizorsko društvo odnosno svi članovi mreže kojoj revizorsko društvo pripada ne smiju sljedeće četiri godine obavljati zakonsku reviziju iste pravne osobe u vlasništvu Republike Hrvatske niti sudjelovati u postupku odabira revizorskog društva za naredno razdoblje.
+(3) Prilikom izbora revizorskog društva pravna osoba u vlasništvu Republike Hrvatske dužna je u obzir uzeti ugled i neovisnost revizorskog društva te znanje i iskustvo u djelatnosti koju obavlja odnosna pravna osoba u vlasništvu Republike Hrvatske.
+(4) Zakonsku reviziju pravnih osoba od posebnog interesa koje se smatraju velikim pravnim osobama u vlasništvu Republike Hrvatske obavlja revizorsko društvo koje mora imati zaposlena najmanje tri ovlaštena revizora u punom radnom vremenu, pri čemu tu reviziju moraju obavljati najmanje dva ovlaštena revizora koji su zaposlenici tog revizorskog društva.
