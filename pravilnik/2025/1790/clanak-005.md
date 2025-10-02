@@ -1,0 +1,22 @@
+## II. UVJETI PRIHVATLJIVOSTI I OBVEZE KORISNIKA
+## Uvjeti prihvatljivosti
+# Članak 5.
+(1) Za ostvarivanje potpore, moraju biti ispunjeni sljedeći opći uvjeti:
+a) korisnik mora imati podmirene financijske obveze prema Državnom proračunu Republike Hrvatske po osnovi javnih davanja
+b) korisnik ne smije biti u stečaju, predstečajnom postupku, likvidaciji ili blokadi
+c) korisnik mora osigurati nepostojanje sukoba interesa s izvođačima radova i/ili ponuditeljima/dobavljačima roba i/ili usluga koji su predmet ulaganja odnosno nepostojanja ostalih slučajeva sukoba interesa iz članka 2. stavka 1. točke 18. ovoga Pravilnika
+d) troškovi koji su predmet potpore ne smiju biti financirani nikakvim drugim javnim doprinosima
+e) operacija ne smije biti fizički završena ili provedena u cijelosti u trenutku podnošenja Zahtjeva za potporu
+f) korisnik mora dati suglasnost za uvrštavanje u popis korisnika koji se objavljuje u skladu s člankom 49. stavkom 3. Uredbe (EU) br. 2021/1060
+g) korisnik mora dati suglasnost za izvještavanje javnosti o rezultatima operacije.
+(2) Uz opće uvjete iz stavka 1. ovoga članka, ako su predmet potpore ulaganja koja se provode na ribarskim plovilima, ribarsko plovilo koje je predmet potpore mora:
+a) imati važeću povlasticu u trenutku podnošenja Zahtjeva za potporu
+b) biti u funkciji u trenutku podnošenja Zahtjeva za potporu
+c) imati dostatnu minimalnu ribolovnu aktivnost od ukupno 60 ribolovnih dana ostvarenih u zadnje dvije kalendarske godine koje prethode godini podnošenja Zahtjeva za potporu.
+(3) Uz opće uvjete iz stavka 1. ovoga članka, korisnik iz članka 4. stavka 2. točke a) ovoga Pravilnika mora biti ovlaštenik važeće povlastice.
+(4) Uz opće uvjete iz stavka 1. ovoga članka, korisnik iz članka 4. stavka 2. točke b) ovoga Pravilnika mora biti registriran u Republici Hrvatskoj za obavljanje znanstvene djelatnosti.
+(5) Na temelju članka 11. Uredbe (EU) br. 2021/1139 neprihvatljivi su Zahtjevi za potporu korisnika ako je:
+a) počinio teški prekršaj na temelju članka 42. Uredbe Vijeća (EZ) br. 1005/2008 od 29. rujna 2008. o uspostavi sustava Zajednice za sprečavanje, suzbijanje i zaustavljanje nezakonitog, neprijavljenog i nereguliranog ribolova, o izmjeni uredaba (EEZ) br. 2847/93, (EZ) br. 1936/2001 i (EZ) br. 601/2004 i o stavljanju izvan snage uredaba (EZ) br. 1093/94 i (EZ) br. 1447/1999 (SL L 286 od 29. 10. 2008.) (u daljnjem tekstu: Uredba (EZ) br. 1005/2008) ili članka 90. Uredbe (EZ) br. 1224/2009 od 20. studenoga 2009. o uspostavi sustava kontrole Zajednice za osiguranje sukladnosti s pravilima zajedničke ribarstvene politike, o izmjeni uredbi (EZ) br. 847/96, (EZ) br. 2371/2002, (EZ) br. 811/2004, (EZ) br. 768/2005, (EZ) br. 2115/2005, (EZ) br. 2166/2005, (EZ) br. 388/2006, (EZ) br. 509/2007, (EZ) br. 676/2007, (EZ) br. 1098/2007, (EZ) br. 1300/2008, (EZ) br. 1342/2008 i o stavljanju izvan snage uredbi (EEZ) br. 2847/93, (EZ) br. 1627/94 i (EZ) br. 1966/2006 (SL L 343 od 22. 12. 2009.) ili drugog zakonodavnog akta Europskog parlamenta i Vijeća u okviru Zajedničke ribarstvene politike, a što je utvrđeno od strane nadležnog tijela
+b) bio ili jest uključen u rad, upravljanje ili posjedovanje ribarskog plovila koje se nalazi na Unijinom popisu nezakonitog, neprijavljenog i nereguliranog (NNN) ribolova iz članka 40. stavka 3. Uredbe (EZ) br. 1005/2008 ili plovila koje plovi pod zastavom zemlje s popisa nekooperativnih trećih zemalja iz članka 33. te Uredbe
+c) počinio prijevaru kako je definirana u članku 3. Direktive (EU) 2017/1371 u okviru Europskog fonda za pomorstvo i ribarstvo ili Europskog fonda za pomorstvo, ribarstvo i akvakulturu.
+(6) Detaljne odredbe za primjenu uvjeta prihvatljivosti iz stavka 5. ovoga članka propisane su Pravilima prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo, ribarstvo i akvakulturu, u skladu s Delegiranom uredbom Komisije (EU) 2022/2181 оd 29. lipnja 2022. o dopuni Uredbe (EU) 2021/1139 Europskog parlamenta i Vijeća o Europskom fondu za pomorstvo, ribarstvo i akvakulturu u pogledu razdoblja i datuma neprihvatljivosti zahtjeva za potporu (SL L 288, 9. 11. 2022.). Pravila prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo, ribarstvo i akvakulturu dostupna su na mrežnim stranicama Upravljačkog tijela (https://euribarstvo.hr/o-programu/propisi-smjernice/).
