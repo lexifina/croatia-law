@@ -1,0 +1,1 @@
+Na temelju članka 121. stavka 2. Zakona o visokom obrazovanju i znanstvenoj djelatnosti (»Narodne novine«, broj 119/22), a u vezi sa Zaključkom Vlade Republike Hrvatske (»Narodne novine«, broj 121/25) od 16. rujna 2025. godine, ministar znanosti, obrazovanja i mladih donosi
