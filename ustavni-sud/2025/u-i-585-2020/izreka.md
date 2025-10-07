@@ -1,0 +1,2 @@
+R J E Š E N J E
+Ne prihvaća se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 2., 23., 26., 28., 29., 32., 33., 34., 35., 38., 39., 41, 45., 46., 49., 50., 53. 54., 55. i 56. Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (''Narodne novine'' broj 78/15., 114/18. i 110/19.) i članaka 40., 41. stavaka 2. i 3., 42. stavaka 1. i 2. i članka 43. Zakona o izmjenama i dopunama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju (''Narodne novine'' broj 114/18.).
