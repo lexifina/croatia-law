@@ -1,0 +1,5 @@
+R J E Š E N J E
+I. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 32., 33., 34., 39. stavka 7., 115. a. stavka 1. alineja 2., 175. stavka 4., 215. stavaka 5., 6., 10. i 11., 235. stavaka 1. i 2., 359.a - 359.r (osim članka 359.k stavka 3.), 360. stavka 1. i 361. stavka 1. Zakona o kreditnim institucijama ("Narodne novine" broj 159/13., 19/15., 102/15., 15/18., 70/19., 47/20., 146/20., 151/22. i 145/24.).
+II. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 235.a stavka 3., 237. i 323. stavka 2. Zakona o kreditnim institucijama ("Narodne novine" broj 159/13., 19/15., 102/15., 15/18., 70/19., 47/20. i 146/20., 151/22. i 145/24.).
+III. Odbacuje se prijedlog za pokretanje postupka za ocjenu suglasnosti s Ustavom članka 69. stavka 2. Zakona o kreditnim institucijama ("Narodne novine" broj 159/13., 19/15., 102/15., 15/18., 70/19. i 47/20.).
+IV. Obustavlja se postupak u povodu prijedloga za pokretanje postupka za ocjenu suglasnosti s Ustavom članaka 359.k stavka 3. i 359.s Zakona o kreditnim institucijama ("Narodne novine" 159/13., 19/15., 102/15., 15/18., 70/19., 47/20. i 146/20.).
