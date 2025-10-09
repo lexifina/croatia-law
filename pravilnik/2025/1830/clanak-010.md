@@ -1,0 +1,3 @@
+# Članak 10.
+U članku 31. stavku 2. točka b) mijenja se i glasi:
+»b) vrijednost prihvatljivih izravnih troškova stručnih osoba koje su zaposlenici korisnika računa se na način da se vrijednost sata, kako je navedeno u točki a) ovoga stavka, pomnoži s brojem direktnih sati koje je zaposlenik korisnika proveo pružajući usluge prenašanja znanja u okviru edukacija navedenih u članku 8. ovoga Pravilnika, uvećanim za sate pripreme edukacija, demonstracijskih aktivnosti i rada s tematskim skupinama i inovativnim skupinama koji ne mogu biti veći od 50 % direktnih sati za aktivnosti na koju se priprema odnosi i sate administriranja koji ne mogu biti veći od 20 % direktnih sati«.
