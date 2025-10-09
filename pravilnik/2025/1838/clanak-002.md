@@ -1,0 +1,2 @@
+# Članak 2.
+Pravo na naknadu putnih troškova ima osiguranik, odnosno osigurana osoba kojoj je na temelju smanjenja radne sposobnosti uz preostalu radnu sposobnost izvršnim rješenjem Hrvatskog zavoda za mirovinsko osiguranje (u daljnjem tekstu: Zavod) priznato pravo na profesionalnu rehabilitaciju (u daljnjem tekstu: invalid rada), ako se profesionalna rehabilitacija obavlja u drugom mjestu, izvan mjesta prebivališta invalida rada.

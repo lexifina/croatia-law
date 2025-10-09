@@ -1,0 +1,2 @@
+# Članak 12.
+Stupanjem na snagu ovog Pravilnika prestaje važiti Pravilnik o naknadi putnih troškova u vezi s ostvarivanjem, odnosno korištenjem prava iz mirovinskog osiguranja (»Narodne novine«, broj 43/14 i 92/14) i Pravilnik o naknadi troškova za smještaj i prehranu u vezi s ostvarivanjem prava iz mirovinskog osiguranja i tijekom profesionalne rehabilitacije u drugom mjestu, izvan mjesta prebivališta (»Narodne novine«, broj 43/14).

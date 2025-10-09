@@ -1,0 +1,2 @@
+# Članak 6.
+Razdoblje za koje pripada naknada iz članka 5. stavka 1. i 2. ovoga Pravilnika određuje se prema broju dana stvarno provedenih na profesionalnoj rehabilitaciji izvan mjesta prebivališta u pojedinom mjesecu i utvrđuje se na temelju podataka iz mjesečnog izvještaja Centra za profesionalnu rehabilitaciju o provedenoj usluzi stručne podrške i praćenja tijekom obrazovanja i osposobljavanja ili usavršavanja s obrazovnim programom.

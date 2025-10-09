@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 96/25) i članka 22. točke 2. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, broj 28/14, 24/15, 73/19 i 147/20), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje na sjednici održanoj 1. listopada 2025., donosi
