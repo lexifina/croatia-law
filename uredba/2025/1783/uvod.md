@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 4. Zakona o institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj (»Narodne novine«, br. 116/21. i 31/25.), Vlada Republike Hrvatske je na sjednici održanoj 26. rujna 2025. donijela
