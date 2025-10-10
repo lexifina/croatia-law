@@ -1,0 +1,12 @@
+# Članak 6.
+(1) Meso divljih svinja može se premještati unutar i izvan zone ograničenja I te unutar i izvan zone nadziranja na području Republike Hrvatske pod sljedećim uvjetima:
+- provedeni su testovi za dokazivanje patogena afričke svinjske kuge s negativnim rezultatom za svaku divlju svinju prije premještanja i
+- meso divljih svinja premještaju lovci za osobnu uporabu u domaćinstvu ili izravnu opskrbu krajnjih potrošača ili lokalnih maloprodajnih objekata koji izravno opskrbljuju krajnje potrošače malim količinama mesa slobodnoživućih divljih svinja u skladu s člankom 27. Pravilnika o registraciji i odobravanju objekata te registraciji subjekata u poslovanju s hranom (»Narodne novine«, br. 123/19 i 3/21), ili
+- meso divljih svinja se premješta iz objekta određenog od Ministarstva u kojem se označava posebnom oznakom u skladu s člankom 10. stavcima 2. ili 3. Pravilnika iz članka 1. točke 29. ove Naredbe ili
+- označava se posebnom oznakom u skladu s člankom 9. stavcima 2. ili 3. Pravilnika iz članka 1. točke 29. ove Naredbe u svrhu premještanja u objekt za preradu određen od Ministarstva radi podvrgavanja jednom od postupaka obrade za umanjivanje rizika iz Priloga VII. Delegirane uredbe (EU) 2020/687.
+(2) Meso divljih svinja podrijetlom iz zone ograničenja II, zone ograničenja III, zone zaštite i zaražene zone, može se premještati samo unutar tih zona na području Republike Hrvatske pod sljedećim uvjetima:
+- provedeni su testovi za dokazivanje patogena afričke svinjske kuge s negativnim rezultatom za svaku divlju svinju prije premještanja
+- namijenjeno je za osobnu uporabu u domaćinstvu, ili
+- premješta se u objekt određen od Ministarstva u kojem se označava posebnom oznakom u skladu s člankom 9. stavcima 2. ili 3. Pravilnika iz članka 1. točke 29. ove Naredbe radi podvrgavanja jednom od postupaka obrade za umanjivanje rizika iz Priloga VII. Delegirane uredbe (EU) 2020/687
+- iz objekta određenog od Ministarstva iz podstavka 3. ovoga stavka meso divljih svinja označeno u skladu s člankom 9. stavcima 2. ili 3. Pravilnika iz članka 1. točke 29. ove Naredbe može se premještati u objekt za preradu određen od Ministarstva, unutar iste zone ograničenja ili što bliže njoj u plombiranim spremnicima.
+(3) Proizvodi od mesa divljih svinja iz stavka 1. podstavka 4. i stavka 2. podstavka 4. ovoga članka, nakon završetka postupka prerade prema Prilogu VII. Delegiranoj uredbi (EU) 2020/687 mogu se staviti na tržište Republike Hrvatske, drugih država članica ili trećih zemalja.
