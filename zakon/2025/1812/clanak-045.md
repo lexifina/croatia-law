@@ -1,0 +1,10 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 45.
+U Zakonu o izmjenama i dopunama Zakona o tržištu kapitala (»Narodne novine«, br. 85/24.) u članku 38. točke 2. i 3. mijenjaju se i glase:
+»2. za poslovne godine koje počinju 1. siječnja 2027. ili nakon tog datuma
+a) ako je izdavatelj veliki poduzetnik u smislu propisa Republike Hrvatske kojim se propisuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja u dijelu kojim se propisuje izvještavanje o održivosti, osim izdavatelja iz točke 1. podtočke a) ovoga članka ili
+b) ako je izdavatelj matično društvo velike grupe u smislu propisa Republike Hrvatske kojim se propisuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja u dijelu kojim se propisuje izvještavanje o održivosti, osim izdavatelja iz točke 1. podtočke b) ovoga članka
+3. za poslovne godine koje počinju 1. siječnja 2028. ili nakon tog datuma
+a) ako je izdavatelj mali i srednji poduzetnik, i koji nije mikropoduzetnik, u smislu propisa Republike Hrvatske kojim se propisuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja u dijelu kojim se propisuje izvještavanje o održivosti ili
+b) ako je izdavatelj mala i jednostavna kreditna institucija iz članka 4. stavka 1. točke 145. Uredbe (EU) br. 575/2013, pod uvjetom da je ili veliki poduzetnik ili mali i srednji poduzetnik, i koji nije mikropoduzetnik, sve u smislu propisa Republike Hrvatske kojim se propisuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja u dijelu kojim se propisuje izvještavanje o održivosti ili
+c) ako je izdavatelj vlastito društvo za osiguranje ili vlastito društvo za reosiguranje kako je propisano zakonom kojim su uređeni uvjeti za osnivanje i poslovanje društva za osiguranje, pod uvjetom da je ili veliki poduzetnik ili mali i srednji poduzetnik, i koji nije mikropoduzetnik, sve u smislu propisa Republike Hrvatske kojim se propisuje računovodstvo poduzetnika i primjena standarda financijskog izvještavanja u dijelu kojim se propisuje izvještavanje o održivosti.«.
