@@ -1,0 +1,9 @@
+## Registracija priznatih organizacija za podatkovni altruizam
+# Članak 17.
+(1) Fizička osoba obrtnik i osoba koja obavlja druge samostalne djelatnosti ili pravna osoba koja se želi registrirati za obavljanje djelatnosti podatkovnog altruizma zahtjev za upis u Registar priznatih organizacija za podatkovni altruizam podnose nadležnom tijelu za registraciju organizacija za podatkovni altruizam.
+(2) Zahtjev za registraciju iz stavka 1. ovoga članka mora sadržavati podatke iz članka 19. stavka 4. Uredbe (EU) 2022/868.
+(3) Nadležno tijelo za registraciju organizacija za podatkovni altruizam provjerava ispunjava li podnositelj zahtjeva uvjete utvrđene člankom 18. Uredbe (EU) 2022/868 i sadrži li zahtjev sve podatke propisane člankom 19. stavkom 4. Uredbe (EU) 2022/868.
+(4) Ako nadležno tijelo za registraciju organizacija za podatkovni altruizam utvrdi da podnositelj zahtjeva ispunjava uvjete utvrđene člankom 18. Uredbe (EU) 2022/868 i da njegov zahtjev sadrži sve podatke propisane člankom 19. stavkom 4. Uredbe (EU) 2022/868, donijet će rješenje o upisu podnositelja zahtjeva u Registar priznatih organizacija za podatkovni altruizam.
+(5) Nadležno tijelo za registraciju organizacija za podatkovni altruizam rješenjem će brisati priznatu organizaciju za podatkovni altruizam iz Registra priznatih organizacija za podatkovni altruizam ako joj je izrečena mjera zabrane obavljanja djelatnosti ili ako je zbog drugog razloga prestala postojati.
+(6) Nadležno tijelo za registraciju organizacija za podatkovni altruizam postupke upisa i brisanja priznatih organizacija za podatkovni altruizam iz Registara priznatih organizacija za podatkovni altruizam provodi po pravilima općeg upravnog postupka.
+(7) Protiv rješenja iz stavaka 4. i 5. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
