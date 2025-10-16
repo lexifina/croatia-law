@@ -1,0 +1,9 @@
+# Članak 8.
+(1) Oglašavanje igara na sreću dozvoljeno je na 5 % površine vanjskog dijela prostora casina, automat kluba i uplatnog mjesta kladionice te 5 % površine vanjskog dijela uplatnog mjesta za lutrijske igre priređivača, na kojem se nalazi glavni ulaz u prostor za igre na sreću, koje ne smije pozivati na igranje igara na sreću.
+(2) Oglašavanje lutrijskih igara dozvoljeno je na 1 % površine vanjskog dijela prostora na kojem se nalazi ulaz u prostor u kojem lutrijske igre priređuju ovlašteni partneri Hrvatske Lutrije d.o.o.
+(3) Iznimno, ako je temeljem postotka iz stavaka 1. i 2. ovoga članka veličina oglasne površine manja od 60 cm širine i 40 cm visine, oglasna površina može biti veličine do 60 cm širine i do 40 cm visine.
+(4) Oglašavanje igara u casinima, igara klađenja i igara na automatima na površini iz stavka 1. ovoga članka može sadržavati naziv i grafičku oznaku tvrtke priređivača, prepoznatljivu oznaku usluge priređivača te naziv vrste prostora za igre na sreću.
+(5) Zabranjena je upotreba svjetlećih natpisa i slikovnih prikaza, svjetlosnih efekata, LED svjetala, neonskog svjetla i drugih upadljivih vidova osvjetljenja te digitalnih ekrana na oglasnoj površini iz stavka 1. ovoga članka.
+(6) Ograničenja oglašavanja iz stavaka 4. i 5. ovoga članka ne primjenjuju se na uplatna mjesta za igre na sreću koja su otvorena unutar automat kluba, casina i uplatnog mjesta kladionice.
+(7) Iznimno od stavka 1. ovoga članka ako se casino nalazi u ugostiteljskom objektu skupine »hoteli« kategorije četiri ili pet zvjezdica, oglašavanje igara na sreću dozvoljeno je na 5 % vanjske površine navedenog ugostiteljskog objekta na kojem se nalazi ulaz u ugostiteljski objekt ili ulaz u casino.
+(8) Iznimno od stavka 5. ovoga članka, na oglasnoj površini iz stavka 7. ovoga članka mogu se koristiti svjetleći natpisi i svjetlosni efekti koji ne smiju treperiti.
