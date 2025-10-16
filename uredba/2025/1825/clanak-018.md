@@ -1,0 +1,3 @@
+# Članak 18.
+(1) Tijela javne vlasti utvrđena člankom 4. stavkom 1. ove Uredbe, koja se traganjem i spašavanjem osoba u pogibelji bave u svojoj redovitoj djelatnosti, dužna su u roku od tri mjeseca od dana stupanja na snagu ove Uredbe, Ministarstvu dostaviti pregled materijalno-tehničkih i drugih resursa za traganje i spašavanje te imenovati osobe zadužene za suradnju s lučkim kapetanijama u obavljanju traganja i spašavanja utvrđenih ovom Uredbom.
+(2) Ministarstvo će u suradnji s tijelima iz članka 4. stavka 1. ove Uredbe u roku od devet mjeseci od dana stupanja na snagu ove Uredbe, propisati standardne operativne postupke jedinica traganja i spašavanja.
