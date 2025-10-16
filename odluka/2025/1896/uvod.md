@@ -1,0 +1,1 @@
+Na temelju članka 8. Zakona o prihvaćanju članstva Republike Hrvatske u Inter-američkoj banci za razvoj (»Narodne novine«, broj 94/93.) i članka II. odjeljka 5. Ugovora o osnivanju Inter-američke investicijske korporacije (»Narodne novine - Međunarodni ugovori«, broj 1/19.), Vlada Republike Hrvatske je na sjednici održanoj 16. listopada 2025. donijela
