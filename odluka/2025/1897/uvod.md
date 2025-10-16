@@ -1,0 +1,1 @@
+Na temelju članka 25. stavaka 3. i 7. Zakona o klimatskim promjenama i zaštiti ozonskog sloja (»Narodne novine«, broj 67/25.), Vlada Republike Hrvatske je na sjednici održanoj 16. listopada 2025. donijela
