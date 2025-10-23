@@ -1,0 +1,7 @@
+## VIII. UVJETI OGRANIČENJA I OBUSTAVE ISPORUKE TOPLINSKE ENERGIJE
+# Članak 18.
+(1) Kupca toplinske energije koji ne plaća dospjele novčane obveze za isporučenu toplinsku energiju opskrbljivač toplinskom energijom dužan je pisanim putem i bez naknade upozoriti da, u roku ne kraćem od 15 dana od dana dostavljanja upozorenja, podmiri svoje dospjele novčane obveze odnosno postigne sporazum o ispunjenju obveza, pod prijetnjom obustave toplinske energije.
+(2) Ako kupac toplinske energije ne podmiri svoje dospjele novčane obveze u roku iz stavka 1. ovoga članka, odnosno u roku i na način određen sporazumom o ispunjenju obveza, opskrbljivač toplinskom energijom ima pravo u pisanom obliku zahtijevati od distributera toplinske energije obustavu opskrbe toplinskom energijom.
+(3) Kad kupac toplinske energije kojemu je obustavljena opskrba toplinskom energijom podmiri svoje dospjele novčane obveze, opskrbljivač toplinskom energijom dužan je unutar 24 sata poduzeti mjere za nastavak opskrbe toplinskom energijom kupca toplinske energije te bez odgađanja podnijeti zahtjev distributeru toplinske energije za nastavak opskrbe toplinskom energijom.
+(4) Distributer toplinske energije dužan je bez odgađanja postupiti po zahtjevu opskrbljivača toplinskom energijom iz stavka 3. ovoga članka i nastaviti opskrbu toplinskom energijom.
+(5) Za vrijeme obustave opskrbe toplinskom energijom kupac toplinske energije dužan je plaćati sve troškove, osim troškova energije.

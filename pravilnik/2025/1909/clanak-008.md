@@ -1,0 +1,5 @@
+# Članak 8.
+(1) Kupac toplinske energije ima pravo na promjenu opskrbljivača toplinskom energijom na način i po postupku propisanim Pravilnikom o općim uvjetima za opskrbu toplinskom energijom.
+(2) Kupac toplinske energije dužan je obavijestiti distributera toplinske energije i opskrbljivača toplinskom energijom o planiranim značajnijim promjenama na unutarnjim instalacijama zgrade/građevine, a distributer toplinske energije, kada to smatra potrebnim, uputit će kupca toplinske energije na podnošenje zahtjeva za izdavanje prethodne termoenergetske suglasnosti, odnosno termoenergetske suglasnosti.
+(3) Za obračunsko mjerno mjesto preko kojega se toplinskom energijom opskrbljuju krajnji kupci razvrstani u dva tarifna modela, kupac toplinske energije dužan je raspodijeliti utrošenu toplinsku energiju po tarifnim modelima i te podatke dostaviti opskrbljivaču toplinskom energijom.
+(4) Podatke iz stavka 3. ovoga članka opskrbljivač toplinskom energijom dužan je proslijediti proizvođaču toplinske energije i distributeru toplinske energije.

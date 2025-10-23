@@ -1,0 +1,1 @@
+Na temelju članka 32. stavka 3. Zakona o tržištu toplinske energije (»Narodne novine«, broj 80/13, 14/14 i 67/25), Hrvatska energetska regulatorna agencija je na sjednici Upravnog vijeća održanoj 16. listopada 2025. donijela

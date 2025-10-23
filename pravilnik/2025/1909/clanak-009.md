@@ -1,0 +1,7 @@
+# Članak 9.
+(1) Kupac toplinske energije dužan je obavljati djelatnost kupca toplinske energije sukladno odredbama Zakona o tržištu toplinske energije, Mrežnih pravila za distribuciju toplinske energije, Pravilnika o općim uvjetima za opskrbu toplinskom energijom i ovoga Pravilnika o općim uvjetima za isporuku.
+(2) Kupac toplinske energije dužan je voditi odvojeno analitičko knjigovodstvo za svaku zgradu/građevinu u kojoj obavlja djelatnost kupca toplinske energije, prema ugovoru o potrošnji toplinske energije, te jednom godišnje do 1. lipnja tekuće godine za prethodnu godinu, dostaviti pisano izvješće o svom poslovanju svim vlasnicima samostalnih uporabnih cjelina unutar te zgrade/građevine.
+(3) Kupac toplinske energije može uslugu upravljanja i održavanja unutarnjih instalacija povjeriti i drugoj pravnoj osobi s kojom je sklopio pisani ugovor.
+(4) Kupac toplinske energije dužan je na pisani zahtjev ovlaštenog predstavnika suvlasnika isprazniti i napuniti unutarnje instalacije u slučaju planiranih radova na unutarnjim instalacijama izvan ogrjevne sezone.
+(5) Kupac toplinske energije dužan je osigurati ili provesti potrebne mjere u slučaju hitnih intervencija na unutarnjim instalacijama u zgradi/građevini.
+(6) Kupac toplinske energije dužan je jednom godišnje, do 31. ožujka tekuće godine, dostaviti Agenciji podatke o obavljanju djelatnosti kupca toplinske energije u prethodnoj godini.
