@@ -1,0 +1,1 @@
+Pravilnik o podnošenju pritužbi na rad ponuditelja ili osobe koja traži uvrštenje za trgovanje kriptoimovinom koja nije token vezan uz imovinu ili token e-novca i pružatelja usluga povezanih s kriptoimovinom i postupanju Hrvatske agencije za nadzor financijskih usluga po zaprimljenim pritužbama
