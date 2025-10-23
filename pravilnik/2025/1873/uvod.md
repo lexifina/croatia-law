@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 12. i članka 17. stavka 9. Zakona o tržištu toplinske energije (»Narodne novine«, broj 80/13., 14/14., 102/14., 95/15., 76/18., 86/19. i 67/25.) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19. i 155/23.), ministar gospodarstva, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
