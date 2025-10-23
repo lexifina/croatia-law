@@ -1,0 +1,1 @@
+Na temelju članka 45. stavka 12. Zakona o provedbi Uredbe (EU) 2023/1114 o tržištima kriptoimovine (»Narodne novine«, broj 85/24) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. listopada 2025. donosi
