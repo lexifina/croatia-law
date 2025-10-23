@@ -1,0 +1,5 @@
+# Članak 35.
+(1) Kupca toplinske energije koji ne plati dospjelu novčanu obvezu u roku dospijeća, opskrbljivač toplinskom energijom može pisanim putem opomenuti.
+(2) Ako kupac toplinske energije ni nakon isteka roka iz opomene nije platio dospjelu novčanu obvezu, distributer toplinske energije ima pravo po pisanom nalogu opskrbljivača toplinskom energijom obustaviti opskrbu toplinskom energijom kupcu toplinske energije na obračunskom mjernom mjestu za koje nije plaćena dospjela novčana obveza.
+(3) Za vrijeme obustave opskrbe toplinskom energijom iz stavka 2. ovoga članka, kupac toplinske energije dužan je plaćati sve troškove osim troškova energije.
+(4) Nakon otklanjanja uzroka prekida iz stavka 2. ovoga članka, a nakon što kupac toplinske energije podmiri sve troškove prouzročene obustavom opskrbe toplinskom energijom, opskrbljivač toplinskom energijom dužan je bez odlaganja, a najkasnije u roku od 24 sata, podnijeti distributeru toplinske energije pisani zahtjev za nastavak opskrbe toplinskom energijom, kojemu je distributer toplinske energije dužan udovoljiti bez odlaganja.

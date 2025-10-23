@@ -1,0 +1,5 @@
+# Članak 40.
+(1) Mjerila toplinske energije, ukoliko to dozvoljavaju tehnički uvjeti, trebaju biti smještena na vidljivo mjesto s izravnim pristupom za ovlaštene osobe distributera toplinske energije, tako da je omogućeno očitavanje svih brojčanih, mjernih i podešenih vrijednosti.
+(2) Korisnik distribucijske mreže dužan je omogućiti ovlaštenim osobama distributera toplinske energije nesmetan pristup obračunskom mjernom mjestu radi očitanja mjerila toplinske energije.
+(3) Ako distributer toplinske energije nije mogao očitati stanje mjerila toplinske energije zbog nemogućnosti pristupa obračunskom mjernom mjestu, korisnik distribucijske mreže dužan je na pisani zahtjev distributera toplinske energije u ostavljenom roku dostaviti očitano stanje mjerila toplinske energije.
+(4) Ako korisnik distribucijske mreže učestalo ne omogućava pristup obračunskom mjernom mjestu ni nakon pisanih upozorenja, distributer toplinske energije ima pravo od korisnika distribucijske mreže zahtijevati izmještanje obračunskog mjernog mjesta na dostupno mjesto, a kao krajnju mjeru izmjestiti obračunsko mjerno mjesto, o trošku korisnika distribucijske mreže.

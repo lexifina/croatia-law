@@ -1,0 +1,4 @@
+# Članak 18.
+(1) Odredbe o obvezama i odgovornostima distributera toplinske energije u vezi s predanom ili preuzetom toplinskom energijom ne primjenjuju se za vrijeme više sile, pogona distribucijske mreže dok traju smetnje, izvanrednog pogona distribucijske mreže i izvanrednih okolnosti.
+(2) Pod izvanrednim pogonom u smislu ovoga Pravilnika o općim uvjetima za opskrbu razumijeva se takvo pogonsko stanje distribucijske mreže u kojem je zbog ispada iz pogona dijelova distribucijske mreže došlo do odstupanja od zadanih pogonskih veličina.
+(3) Pod izvanrednim okolnostima u smislu ovoga Pravilnika o općim uvjetima za opskrbu razumijevaju se slučajevi neispravnosti i kvarova na uređajima i postrojenjima za koje distributer toplinske energije nije mogao znati niti ih je mogao predvidjeti, a prouzročeni su postupanjem treće osobe.

@@ -1,0 +1,3 @@
+# Članak 33.
+(1) Ukoliko distributeru toplinske energije nije omogućeno očitanje mjerila toplinske energije u toplinskoj podstanici za jedno obračunsko razdoblje, distributer toplinske energije može prihvatiti stanje mjerila toplinske energije koje mu na njegov pisani zahtjev dostavi kupac toplinske energije, u protivnom distributer toplinske energije određuje stanje mjerila toplinske energije na temelju utrošene toplinske energije ostvarene u prethodnom obračunskom razdoblju ili u istom obračunskom razdoblju prethodne godine.
+(2) Stanje mjerila toplinske energije određeno na način opisan u stavku 1. ovoga članka ne može se koristiti za obračun toplinske energije više od dva puta uzastopno.

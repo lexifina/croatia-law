@@ -1,0 +1,5 @@
+# Članak 19.
+(1) Ako kupac toplinske energije ili opskrbljivač toplinskom energijom podnese pisani prigovor na kvalitetu toplinske energije, distributer toplinske energije dužan je provesti mjerenja u roku od tri dana od dana primitka prigovora, a pisano izvješće o rezultatima mjerenja kvalitete toplinske energije dostaviti podnositelju prigovora u daljnjem roku od osam dana.
+(2) Ukoliko rezultati mjerenja pokažu da je prigovor na kvalitetu toplinske energije osnovan, distributer toplinske energije dužan je poduzeti odgovarajuće mjere za poboljšanje kvalitete toplinske energije.
+(3) Ako je prigovor na kvalitetu toplinske energije neosnovan, troškove mjerenja snosi podnositelj prigovora iz stavka 1. ovoga članka, a ako je prigovor osnovan, troškove mjerenja snosi distributer toplinske energije.
+(4) Kupac toplinske energije i/ili opskrbljivač toplinskom energijom ima pravo zatražiti mjerenje kvalitete toplinske energije i izradu izvješća o rezultatima mjerenja kvalitete toplinske energije od ovlaštenog inženjera, te isto dostaviti distributeru toplinske energije.

@@ -1,0 +1,3 @@
+# Članak 34.
+(1) Kada distributer toplinske energije sam ili po prijavi opskrbljivača toplinskom energijom, odnosno kupca toplinske energije, utvrdi da mjerilo toplinske energije nepravilno radi ili da neko vrijeme nije obavljalo svoju funkciju, potrošnja toplinske energije određuje se na temelju utrošene toplinske energije ostvarene u prethodnom razdoblju ili u istom razdoblju prethodne godine.
+(2) Nakon određivanja potrošnje toplinske energije za mjerilo toplinske energije iz stavka 1. ovoga članka, distributer toplinske energije dužan je dostaviti podatke za obračun toplinske energije na način propisan člankom 31. ovih Općih uvjeta za opskrbu.

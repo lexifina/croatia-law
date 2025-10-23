@@ -1,0 +1,3 @@
+# Članak 12.
+(1) Sukladnost karakteristika termoenergetskih objekata i instalacija proizvođača toplinske energije u svezi povratnih utjecaja na distribucijsku mrežu i načina vođenja pogona, distributer toplinske energije može utvrditi ispitivanjima i mjerenjima prije priključenja proizvođača toplinske energije na distribucijsku mrežu i tijekom korištenja distribucijske mreže.
+(2) Ako se utvrdi da su utjecaji na kvalitetu i vođenje pogona distribucijske mreže, koje stvaraju termoenergetski objekti i instalacije proizvođača toplinske energije, veće od propisanih, distributer toplinske energije ima pravo zatražiti od proizvođača toplinske energije provođenje potrebnih mjera za dovođenje utjecaja u propisane granice.

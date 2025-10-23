@@ -1,0 +1,3 @@
+# Članak 8.
+(1) Ugovor o korištenju distribucijske mreže, ugovor o distribuciji toplinske energije i ugovor o prodaji toplinske energije, kao i sve izmjene i dopune tih ugovora, sklapaju se u pisanoj formi.
+(2) Sklapanjem ugovora iz stavka 1. ovoga članka ugovorne strane se obvezuju da tijekom važenja ugovora u cijelosti prihvaćaju odredbe ovoga Pravilnika o općim uvjetima za opskrbu, Mrežnih pravila za distribuciju toplinske energije, Metodologije utvrđivanja naknade za priključenje na distribucijsku mrežu i za povećanje priključne snage, Metodologije utvrđivanja iznosa tarifnih stavki za proizvodnju toplinske energije i Metodologije utvrđivanja iznosa tarifnih stavki za distribuciju toplinske energije.
