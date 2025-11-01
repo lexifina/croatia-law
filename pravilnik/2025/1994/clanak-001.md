@@ -1,0 +1,3 @@
+## O IZMJENAMA I DOPUNAMA PRAVILNIKA O RIBOLOVU JEGULJE (Anguilla anguilla)
+# Članak 1.
+U Pravilniku o ribolovu jegulje (Anguilla anguilla) (»Narodne novine« broj 110/23.) u članku 1. riječi: »GFCM/42/2018/1 o višegodišnjem planu upravljanja za jegulju u Sredozemnome moru i GFCM/45/2022/1 o višegodišnjem planu upravljanja za jegulju u Sredozemnome moru, kojom se mijenja Preporuka GFCM/42/2018/1« zamjenjuju se riječima: »GFCM/46/2023/16 o dugoročnom planu upravljanja za europsku jegulju u Sredozemnome moru, kojim se stavljaju izvan snage Preporuke GFCM/45/2022/1 i GFCM/42/2018/1 i Preporuku GFCM/47/2024/1 o dugoročnim mjerama za europsku jegulju u Sredozemnome moru«.
