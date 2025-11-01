@@ -1,0 +1,7 @@
+O FINANCIRANJU PONOVNE USPOSTAVE ZDRUŽENOG STALNOG POSTAVA U BLOKU 17 DRŽAVNOG MUZEJA AUSCHWITZ-BIRKENAU
+Bosna i Hercegovina, Republika Hrvatska, Crna Gora, Republika Sjeverna Makedonija, Republika Srbija i Republika Slovenija (u daljnjem tekstu stranke),
+potvrđujući predanost stranaka ponovnoj uspostavi združenog stalnog postava u Bloku 17 Državnog muzeja Auschwitz-Birkenau u Republici Poljskoj kao mjesta sjećanja za žrtve s područja bivše Jugoslavije u Koncentracijskom logoru i logoru za istrebljenje Auschwitz-Birkenau,
+predane načelima Konvencije o sprječavanju i kažnjavanju zločina genocida i Ohridske regionalne strategije za kulturnu suradnju u jugoistočnoj Europi (2014.) Vijeća ministara jugoistočne Europe - Unaprjeđenje kulture za održivi razvoj, i prepoznajući Državni muzej Auschwitz-Birkenau kao jedno od središnjih povijesnih spomen-mjesta u Europi na jedno od najmračnijih razdoblja u povijesti čovječanstva,
+podsjećajući na kohezivnu snagu kulturne baštine u svim njezinim oblicima i dimenzijama, ova inicijativa usmjerena je doprinijeti jačanju dijaloga, mira i pomirenja u regiji razvijanjem inovativnih i kreativnih pristupa očuvanju kulturnog sjećanja,
+zahvaljujući Organizaciji Ujedinjenih naroda za obrazovanje, znanost i kulturu - UNESCO na kontinuiranoj podršci razvoju projekta, Republici Austriji na naporima uloženima u obnovu paviljona i Republici Poljskoj na podržavanju ponovne uspostave združenog stalnog postava,
+sporazumjele su se kako slijedi:
