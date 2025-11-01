@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 3. Zakona o Središnjem registru osiguranika (»Narodne novine«, broj 159/2013, 39/2018 i 21/2022) Upravno vijeće Središnjeg registra osiguranika, na 234. sjednici održanoj 16. rujna 2025. godine donijelo je
