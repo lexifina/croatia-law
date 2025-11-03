@@ -1,0 +1,2 @@
+O D L U K U
+Utvrđuje se da se J. M. iz D. R. od 31. kolovoza 2025. do 30. rujna 2025. nezakonito nalazio u istražnom zatvoru, zbog čega mu je povrijeđeno ustavno pravo na osobnu slobodu zajamčeno člankom 22. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.) i pravo zajamčeno člankom 5. stavkom 1. točkom c) Konvencije za zaštitu ljudskih prava i temeljnih sloboda ("Narodne novine - Međunarodni ugovori" broj 18/97., 6/99. - pročišćeni tekst, 8/99. - ispravak, 14/02., 1/06., 13/17. i 6/24.).
