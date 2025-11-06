@@ -1,0 +1,1 @@
+Na temelju članka 249. stavka 2. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, br. 44/16, 126/19, 110/21, 76/22 i 152/24), Hrvatska agencija za nadzor financijskih usluga (dalje: Hanfa) na sjednici Upravnog vijeća održanoj 22. listopada 2025. godine donosi
