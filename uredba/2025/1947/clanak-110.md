@@ -1,0 +1,3 @@
+# Članak 110.
+Odjel za ugovaranje i horizontalne poslove obavlja poslove vezano za koordiniranje i sudjelovanje u izradi pravila kojima se utvrđuju uvjeti za provedbu ITU mehanizma, izradu sporazuma o provedbi između tijela vezano za ITU mehanizam, koordiniranje izrade priručnika o postupanju za Sektor, izradu odluka o financiranju, pripremu ugovora o dodjeli bespovratnih sredstava, obavljanje poslova vezano za ljudske potencijale Sektora, koordiniranje upravljanjem rizicima na razini Sektora, koordiniranje suradnje s revizorima, sudjelovanje u vrednovanju ITU mehanizma, obavlja poslove vezane uz informiranje i komunikaciju, te obavlja druge poslove iz svoga djelokruga.
+6.3.2. Služba I. za provedbu programa urbanoga razvoja

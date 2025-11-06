@@ -1,0 +1,3 @@
+# Članak 30.
+Odjel za objedinjene poslove koordinacije fondova Europske unije, obavlja poslove koordinacije programiranja fondova Europske unije, uz uključivanje odgovarajućih dionika u proces planiranja, obavlja poslove te pruža stručnu i administrativnu podrška u radu NKO-a, prati razine rashoda koji se odnose na provedbu fondova Europske unije u Republici Hrvatskoj, nadzire pripremu i podnosi godišnje račune Europskoj komisiji za programe koji se financiraju iz fondova Europske unije, prati osiguranje poštivanja horizontalnih načela i partnerskog načela fondova Europske unije te obavlja druge poslove iz svoga djelokruga.
+4.1.1.2. Odjel za strateško praćenje i programiranje fondova Europske unije

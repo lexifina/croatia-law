@@ -1,0 +1,6 @@
+# Članak 115.
+Služba II. za provedbu programa urbanoga razvoja na urbanim područjima Rijeka, Pula, Pazin, Čakovec, Bjelovar, Varaždin, Osijek, Slavonski Brod, Koprivnica, Krapina, Šibenik i Vukovar obavlja poslove pripreme i objave poziva na dostavu projektnih prijedloga, pružanja podrške u pripremi dokumentacije, izrade programa državnih potpora i programa potpora male vrijednosti, surađuje s tijelima u sustavu uključenima u provedbu ITU mehanizma, prati provedbu projekata, provodi proračunsko planiranje, financijsko upravljanje i izvještavanje za ITU mehanizam, sudjeluje u aktivnostima povezanim s korištenjem financijskih instrumenata u okviru provedbe ITU mehanizma, sudjeluje u izradi dodatka ugovoru o dodjeli bespovratnih sredstava, te obavlja druge poslove iz svoga djelokruga.
+U Službi II. za provedbu programa urbanoga razvoja, ustrojavaju se:
+6.3.3.1. Odjel za pripremu poziva i praćenje provedbe projekata za urbana područja Rijeka, Pula, Pazin, Čakovec, Bjelovar i Varaždin
+6.3.3.2. Odjel za pripremu poziva i praćenje provedbe projekata za urbana područja Osijek, Slavonski Brod, Koprivnica, Krapina, Šibenik i Vukovar.
+6.3.3.1. Odjel za pripremu poziva i praćenje provedbe projekata za urbana područja Rijeka, Pula, Pazin, Čakovec, Bjelovar i Varaždin

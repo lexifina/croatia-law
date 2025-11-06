@@ -1,0 +1,6 @@
+# Članak 170.
+Služba za postupanje po prigovorima u izvršenju ugovora postupa po prigovorima u izvršenju ugovora iz Operativnog programa »Konkurentnost i kohezija« 2014. - 2020., Programa Konkurentnost i kohezija 2021. - 2027., Integriranog teritorijalnog ulaganja, Europske teritorijalne suradnje te drugih programa, uključujući obradu podnesaka te pripremu prijedloga akata vezanih uz prigovore, po potrebi obavlja i poslove vezano za postupanje po prigovorima vezanim za postupke odabira operacija, komunicira s Europskom komisijom po pitanju prigovora u izvršenju ugovora, obavlja poslove izvještavanja te surađuje s nadležnim ustrojstvenim jedinicama po pitanju praćenja prakse i postupanja u upravnim sporovima u izvršenju ugovora, doprinosi aktivnostima vezanima uz pripremu i primjenu regulatornog i provedbenog okvira za upravljanje fondovima EU, te obavlja druge poslove iz svoga djelokruga.
+U Službi za postupanje po prigovorima u izvršenju ugovora, ustrojavaju se:
+10.2.1. Odjel za pripremu rješenja o prigovorima u izvršenju ugovora iz OPKK i PKK
+10.2.2. Odjel za pripremu rješenja o prigovorima u izvršenju ugovora iz ITP i drugih programa.
+10.2.1. Odjel za pripremu rješenja o prigovorima u izvršenju ugovora iz OPKK i PKK

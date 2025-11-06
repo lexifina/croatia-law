@@ -1,0 +1,8 @@
+# Članak 74.
+Služba za financijske instrumente obavlja poslove provedbe programa Operativnog programa »Konkurentnost i kohezija« 2014. - 2020., Programa Konkurentnost i kohezija 2021. - 2027. i Integriranog teritorijalnog programa 2021. - 2027. te drugih programa iz djelokruga Uprave, odnosno Ministarstva u narednim financijskim razdobljima EU u dijelu koji se odnosi na pripremu korištenja te upravljanje provedbom financijskih instrumenata: odgovorna je za izradu i revidiranje Ex ante procjene koja mora biti dovršena prije dodjele programskih doprinosa financijskim instrumentima, razrađuje provedbene modalitete, uvjete korištenja sredstava i dizajnira financijske proizvode prihvatljive za sufinanciranje Europskim fondom za regionalni razvoj, utvrđuje (potencijalne) korisnike financijskih instrumenata uključujući tijela koja provode financijske instrumente, financijske posrednike i krajnje primatelje te priprema sporazume i druge akte kojima se uređuje njihov međuodnos, komunicira s tijelima zaduženim za njihovu provedbu, upravlja financijskim sredstvima namijenjenim financijskim instrumentima te je zadužena za praćenje i izvještavanje o provedbi istih, uključujući pripremu podloga i doprinosa za izmjenu programa, poslove Upravljačkog tijela u dijelu koji se odnosi na komunikacijske aktivnosti operativnih programa iz nadležnosti Ministarstva, te obavlja druge poslove iz svoga djelokruga.
+U Službi za financijske instrumente, ustrojavaju se:
+5.3.3.1. Odjel za dizajn financijskih instrumenata
+5.3.3.2. Odjel za pravne poslove financijskih instrumenata
+5.3.3.3. Odjel za provedbu financijskih instrumenata
+5.3.3.4. Odjel za plaćanja i praćenje provedbe financijskih instrumenata.
+5.3.3.1. Odjel za dizajn financijskih instrumenata

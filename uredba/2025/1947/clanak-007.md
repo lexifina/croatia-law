@@ -1,0 +1,6 @@
+# Članak 7.
+Služba za opće poslove i uredsko poslovanje obavlja poslove vezane uz zaštitu osoba, imovine i objekta Ministarstva, poslove upravljanja poslovnim prostorima koje koristi Ministarstvo, sudjeluje u postupcima sklapanja ugovora o zakupu poslovnih prostora, obavlja poslove opremanja prostorija Ministarstva sredstvima rada, obavlja poslove održavanja voznog parka Ministarstva, provodi postupke sklapanja ugovora koji se odnose na korištenje i održavanje voznog parka Ministarstva, vodi propisane evidencije o korištenju i održavanju službenih vozila, obavlja poslove organizacije vanjske dostave, prijevoza državnih dužnosnika i državnih službenika Ministarstva, organizira rad čajne kuhinje, obavlja poslove u vezi s provedbom zakonskih i podzakonskih propisa iz područja zaštite na radu i protupožarne zaštite, vodi evidenciju o ozljedama na radu i profesionalnim bolestima, koordinira izradu planskih dokumenata obrane na razini Ministarstva te sudjeluje u pripremi prijedloga planskih dokumenata obrane na razini Republike Hrvatske, obavlja poslove uredskog poslovanja, te obavlja druge poslove iz svoga djelokruga.
+U Službi za opće poslove i uredsko poslovanje, ustrojavaju se:
+2.1.2.1. Odjel za opće poslove
+2.1.2.2. Odjel za uredsko poslovanje.
+2.1.2.1. Odjel za opće poslove
