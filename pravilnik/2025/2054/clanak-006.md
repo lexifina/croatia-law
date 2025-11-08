@@ -1,0 +1,5 @@
+## Iznos potpore
+# Članak 6.
+(1) Iznos potpore utvrđuje se sukladno broju stradalih zajednica, a temeljem podataka Državnog inspektorata o provedenim inspekcijskim nadzorima na stradalim pčelinjacima tijekom 2025. godine.
+(2) Financijska sredstva predviđena Programom proporcionalno će se raspodijeliti prihvatljivim korisnicima sukladno broju stradalih zajednica, a maksimalno do iznosa od 185,00 EUR po pčelinjoj zajednici.
+(3) Maksimalni iznos potpore po pčelinoj zajednici iz stavka 2. ovoga članka predstavlja izračun izgubljene dobiti, temeljen na podacima iz Priloga III. - Godišnja dojava proizvodnih pokazatelja pčelinjaka za 2024. godinu, dostavljenih od strane pčelara u skladu s Pravilnikom o provedbi intervencija u sektoru pčelarstva unutar Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027. (»Narodne novine«, br. 24/23., 46/24., 90/24., 70/25. i 105/25.), a izračunat je kao umnožak prosječne proizvodnje meda po košnici (19,00 kg) i prodajne cijene meda (9,78 EUR/kg).
