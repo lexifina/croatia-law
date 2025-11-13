@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 3. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17., 14/19., 30/23. i 14/24.) i članka 12.a stavka 3. Pravilnika o ribolovu jegulje (Anguilla anguilla) (»Narodne novine«, br. 110/23. i 135/25.), ministar poljoprivrede, šumarstva i ribarstva, donosi
