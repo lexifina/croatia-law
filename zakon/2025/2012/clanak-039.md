@@ -1,0 +1,2 @@
+# Članak 39.
+Djelatna vojna osoba koja je do dana stupanja na snagu ovoga Zakona stekla pravo iz članka 138. stavaka 1. i 2. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23. i 14/24.) i koja ima stečeni akademski stupanj odnosno akademski naziv koji nije uvjet za obavljanje poslova ustrojbenog mjesta i ne odnosi se na područje kojim se djelatna vojna osoba bavi u okviru poslova svojeg ustrojbenog mjesta, zadržava pravo na navedeni dodatak do prestanka službe.

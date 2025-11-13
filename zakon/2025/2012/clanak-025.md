@@ -1,0 +1,5 @@
+# Članak 25.
+Članak 138. mijenja se i glasi:
+»(1) Osnovna plaća djelatne vojne osobe uvećat će se za 8 % djelatnim vojnim osobama koje imaju akademski stupanj magistra znanosti odnosno za 15 % djelatnim vojnim osobama koje imaju akademski stupanj doktora znanosti, ako to nije uvjet za obavljanje poslova ustrojbenog mjesta, ali se odnosi na područje kojim se djelatna vojna osoba bavi u okviru poslova svojeg ustrojbenog mjesta.
+(2) Osnovna plaća djelatne vojne osobe uvećat će se za 8 % djelatnim vojnim osobama koje su završile sveučilišni specijalistički studij i stekle akademski naziv sveučilišnoga specijalista, ako to nije uvjet za obavljanje poslova ustrojbenog mjesta, ali se odnosi na područje kojim se djelatna vojna osoba bavi u okviru poslova svojeg ustrojbenog mjesta.
+(3) Pravo na uvećanje osnovne plaće za 8 % ostvaruju i djelatne vojne osobe koje su završile četvrtu razinu slijedno-rastuće vojne izobrazbe i stekle inozemnu visokoškolsku kvalifikaciju koju je u svrhu stručnog priznavanja priznala nadležna agencija za znanost i visoko obrazovanje u Republici Hrvatskoj.«.
