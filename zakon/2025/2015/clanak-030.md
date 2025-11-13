@@ -1,0 +1,9 @@
+# Članak 30.
+U članku 124. stavci 3., 4. i 5. mijenjaju se i glase:
+»(3) Za državnoodvjetničkog savjetnika u općinskom, županijskom i posebnom državnom odvjetništvu može biti primljena osoba koja ima završen sveučilišni diplomski studij prava odnosno sveučilišni integrirani prijediplomski i diplomski studij prava te položen pravosudni ispit.
+(4) Za višeg državnoodvjetničkog savjetnika u općinskom, županijskom i posebnom državnom odvjetništvu i državnoodvjetničkog savjetnika u Državnom odvjetništvu Republike Hrvatske može biti imenovana osoba koja ima završen sveučilišni diplomski studij prava odnosno sveučilišni integrirani prijediplomski i diplomski studij prava, položen pravosudni ispit i koja je radila najmanje dvije godine kao državnoodvjetnički ili sudski savjetnik, sudac, državni odvjetnik ili zamjenik državnog odvjetnika, odvjetnik ili javni bilježnik odnosno osoba koja je radila na drugim pravnim poslovima nakon položenog pravosudnog ispita najmanje pet godina.
+(5) Viši državnoodvjetnički savjetnik - specijalist u općinskom, županijskom i posebnom državnom odvjetništvu može biti osoba koja je najmanje četiri godine radila kao državnoodvjetnički ili sudski savjetnik, pravosudni dužnosnik, odvjetnik ili javni bilježnik odnosno osoba koja je najmanje osam godina nakon položenog pravosudnog ispita radila na drugim pravnim poslovima.«.
+Iza stavka 5. dodaju se novi stavci 6. i 7. koji glase:
+»(6) Na kriterije i postupak ocjenjivanja državnoodvjetničkih savjetnika, viših državnoodvjetničkih savjetnika i viših državnoodvjetničkih savjetnika - specijalista ne primjenjuju se propisi o državnim službenicima i namještenicima.
+(7) Ministar nadležan za poslove pravosuđa metodologijom će propisati kriterije i postupak ocjenjivanja državnoodvjetničkih savjetnika, viših državnoodvjetničkih savjetnika i viših državnoodvjetničkih savjetnika - specijalista.«.
+Dosadašnji stavci 6. i 7. postaju stavci 8. i 9.

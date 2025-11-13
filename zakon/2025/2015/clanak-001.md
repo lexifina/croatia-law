@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o Državnom odvjetništvu (»Narodne novine«, br. 67/18. i 21/22.) članak 7. mijenja se i glasi:
+»Svatko ima pravo podnijeti pisano ili usmeno predstavku na rad državnog odvjetnika ili zamjenika državnog odvjetnika zbog odugovlačenja postupka u kojem je stranka ili ima pravni interes odnosno zbog nedoličnog ili neprimjerenog ponašanja državnog odvjetnika, zamjenika državnog odvjetnika ili drugog zaposlenika u službenim odnosima sa strankom koje je suprotno etičkom kodeksu i dobiti odgovor na nju u roku od najkasnije 30 dana od dana njezina zaprimanja u nadležnom državnom odvjetništvu.«.
