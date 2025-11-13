@@ -1,0 +1,18 @@
+## Mišljenje Povjerenstva
+# Članak 14.
+(1) Ministarstvo financija može na pisani prijedlog Povjerenstva od stranog ulagatelja koji provodi ulaganje u Republici Hrvatskoj i/ili obveznika u kojem se strano ulaganje planira provesti zatražiti dostavu dodatne dokumentacije, podataka ili drugih informacija važnih za donošenje mišljenja o podnesenom zahtjevu za odobrenje stranog ulaganja.
+(2) U slučaju iz stavka 1. ovoga članka Ministarstvo financija će stranom ulagatelju i/ili obvezniku odrediti primjereni rok za dostavu dodatne dokumentacije, podataka ili drugih informacija, koji ne može biti duži od 15 dana.
+(3) Ako strani ulagatelj ili obveznik iz stavka 1. ovoga članka ne postupi po zahtjevu Ministarstva financija odnosno ne dostavi traženu dodatnu dokumentaciju, podatke ili druge informacije u roku iz stavka 2. ovoga članka, ili ne postupi u propisanom roku po zahtjevu Nacionalne kontaktne točke iz članka 9. stavaka 4. i 5. ovoga Zakona, Povjerenstvo će izraditi i donijeti mišljenje iz stavka 1. ovoga članka prema dokumentaciji kojom raspolaže i drugim dostupnim informacijama i podatcima, uz obvezu naznake i ocjene okolnosti od kakvog je utjecaja na donošenje navedenog mišljenja imalo nepostupanje stranog ulagatelja ili obveznika po zahtjevu Povjerenstva ili Nacionalne kontaktne točke.
+(4) Prilikom donošenja mišljenja Povjerenstvo je dužno:
+1. procijeniti rizik negativnog utjecaja stranog ulaganja uzimajući u obzir najmanje sljedeće čimbenike rizika:
+a) je li strani ulagatelj pod izravnom ili neizravnom kontrolom tijela javne vlasti treće države, među ostalim putem vlasničke strukture ili znatnih financijskih sredstava
+b) je li strani ulagatelj već uključen u aktivnosti kojima se utječe na sigurnost i/ili javni poredak u nekoj državi članici
+c) postoji li ozbiljan rizik da je strani ulagatelj uključen u nezakonite aktivnosti
+2. uzeti u obzir primjedbe, mišljenja, stručna obrazloženja te druge informacije Komisije i država članica
+3. uzeti u obzir mišljenje Komisije o utjecaju stranog ulaganja na projekte ili programe u interesu Unije
+4. izvršiti provjeru i utvrditi jesu li prema osobama iz članka 13. stavka 7. ovoga Zakona, sukladno zakonu kojim se uređuju mjere ograničavanja, primijenjene mjere ograničavanja ili su uvrštene na sankcijske popise, ili ako za te osobe postoji sumnja ili razlog za sumnju da se radi o osobama na koje bi se trebali primijeniti kriteriji za uvrštavanje na određeni sankcijski popis
+5. izvršiti provjeru dobrog ugleda stranog ulagatelja i njegovih odgovornih osoba
+6. uzeti u obzir akte Vlade kojima se uređuju strateško planiranje za otpornost kritičnih subjekata te nacionalna procjena rizika kritične infrastrukture, donesene na temelju zakona kojim se uređuje područje kritičnih infrastruktura i
+7. uzeti u obzir akte Vlade kojima se uređuju srednjoročno strateško planiranje te nacionalni program upravljanja kibernetičkim krizama, donesene na temelju zakona kojim se uređuje područje kibernetičke sigurnosti.
+(5) Povjerenstvo je dužno najkasnije u roku od 90 dana od dana podnošenja urednog zahtjeva za odobrenje stranog ulaganja izraditi i donijeti mišljenje o utjecaju na sigurnost i/ili javni poredak te ga bez odgode, a najkasnije u roku od tri dana, dostaviti Ministarstvu financija.
+(6) Iznimno od stavka 5. ovoga članka, rok za izradu i donošenje mišljenja može se produljiti za 30 dana kada Povjerenstvo ocijeni da je za utvrđivanje pravog stanja stvari odnosno potpunog činjeničnog stanja i ocjenu dokaza potrebno zatražiti dodatnu dokumentaciju ili izvršiti dodatne provjere ili analize, o čemu je bez odgode dužna izvijestiti stranke u postupku.

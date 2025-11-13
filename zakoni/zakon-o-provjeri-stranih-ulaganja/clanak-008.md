@@ -1,0 +1,9 @@
+## DIO DRUGI NADLEŽNA TIJELA ZA PROVEDBU POSTUPKA PROVJERE STRANIH ULAGANJA
+## Povjerenstvo za provjeru stranih ulaganja
+# Članak 8.
+(1) Vlada Republike Hrvatske (u daljnjem tekstu: Vlada) donosi odluku o osnivanju Povjerenstva za provjeru stranih ulaganja (u daljnjem tekstu: Povjerenstvo), kojom se uređuje ustroj, način rada te druga pitanja od važnosti za učinkovitu primjenu ovoga Zakona, a koje koordinira Ministarstvo financija.
+(2) Zadaća Povjerenstva je koordinacija međuinstitucionalne suradnje i učinkovitog protoka informacija između tijela javne vlasti uključenih u provedbu ovoga Zakona i Uredbe (EU) 2019/452.
+(3) Osim zadaća iz stavka 2. ovoga članka Povjerenstvo je zaduženo za analizu i procjenu rizika negativnog utjecaja stranog ulaganja identificiranih obveznika, donošenje mišljenja na temelju kojega Ministarstvo financija odlučuje u postupku provjere stranog ulaganja, usuglašavanje stajališta, koordinaciju i praćenje zajedničkih politika i aktivnosti u postizanju strateških i operativnih ciljeva u području provođenja mjera, radnji i postupaka radi provjere stranih ulaganja, kao i za ostale poslove koji su mu povjereni ovim Zakonom.
+(4) Za obavljanje poslova i zadataka nužnih za provedbu ovoga Zakona te donošenje odluka iz djelokruga rada Povjerenstva, predstavnici Povjerenstva koriste administrativne, tehničke i stručne resurse nadležnih tijela iz članka 10. stavka 1. ovoga Zakona, a ako je nužno u svrhu donošenja mišljenja u postupku provjere stranog ulaganja, mogu dodatno zatražiti pravnu i stručnu pomoć kroz međuinstitucionalnu suradnju.
+(5) Povjerenstvo čine predstavnici Ministarstva financija i predstavnici nadležnih tijela iz članka 10. stavka 1. ovoga Zakona.
+(6) Vlada može odlukom u Povjerenstvo imenovati i predstavnike drugih tijela koja sudjeluju u postupku provjere stranih ulaganja.
