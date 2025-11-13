@@ -1,0 +1,4 @@
+# Članak 29.
+U članku 49. stavak 1. mijenja se i glasi:
+»(1) Čim sazna za vjerojatnost da određena osoba na svojim bankovnim računima prima, drži ili na drugi način posluje s prihodima ostvarenima kaznenim djelima iz članka 21. ovoga Zakona, a ti su prihodi važni za izvide i istragu tih kaznenih djela ili podliježu prisilnom oduzimanju prema odredbama zakona kojim se uređuju pretpostavke kažnjivosti i sankcije koje se mogu izreći počiniteljima kaznenih djela, zakona kojim se uređuje kazneni postupak i zakona kojim se uređuje odgovornost pravnih osoba za kaznena djela, Ured će zahtjevom zatražiti od banke dostavljanje podataka o tim računima.«.
+U stavku 5. riječi: »50.000,00 kuna« zamjenjuju se riječima: »6630,00 eura«, a riječi: »5.000.000,00 kuna« zamjenjuju se riječima: »663.610,00 eura«.

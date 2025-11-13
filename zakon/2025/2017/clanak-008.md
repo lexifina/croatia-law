@@ -1,0 +1,4 @@
+# Članak 8.
+Članak 8. mijenja se i glasi:
+»(1) Za zamjenika ravnatelja u Ured može biti raspoređen državni odvjetnik ili zamjenik državnog odvjetnika koji je najmanje osam godina obnašao pravosudnu dužnost te koji ima izražene sklonosti i sposobnosti za istraživanje najtežih i najsloženijih kaznenih djela.
+(2) Stručno znanje i sposobnost državnog odvjetnika ili zamjenika državnog odvjetnika iz stavka 1. ovoga članka za istraživanje najtežih i najsloženijih kaznenih djela utvrđuje se na temelju mišljenja o radu kandidata koje za državnog odvjetnika daje neposredno viši državni odvjetnik, a za zamjenika državnog odvjetnika državni odvjetnik u državnom odvjetništvu u kojem zamjenik obnaša državnoodvjetničku dužnost i ocjene o obnašanju državnoodvjetničke dužnosti, koja mora biti najmanje »vrlo uspješno obnaša dužnost«.«.
