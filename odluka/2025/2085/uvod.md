@@ -1,0 +1,1 @@
+Na temelju članka 30.h stavka 9. Zakona o društveno poticanoj stanogradnji (»Narodne novine«, br. 109/01., 82/04., 76/07., 38/09., 86/12., 7/13. - ispravak, 26/15., 57/18., 66/19., 58/21. - Odluka Ustavnog suda Republike Hrvatske i 72/25.), Vlada Republike Hrvatske je na sjednici održanoj 13. studenoga 2025. donijela
