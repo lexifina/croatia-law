@@ -1,0 +1,9 @@
+## IV. PRIVREMENA NACIONALNA ZAŠTITA
+## Privremena nacionalna zaštita
+# Članak 19.
+(1) Zavod rješenjem o privremenoj nacionalnoj zaštiti, sukladno članku 18. stavku 1. Uredbe (EU) 2023/2411, odobrava privremenu nacionalnu zaštitu naziva kao oznake zemljopisnog podrijetla u Republici Hrvatskoj koja ima učinak od dana podnošenja zahtjeva Uredu sukladno članku 21. ovoga Zakona.
+(2) Privremena nacionalna zaštita obuhvaća zaštitu sukladno odredbi članka 40. Uredbe (EU) 2023/2411 i odnosi se samo na područje Republike Hrvatske.
+(3) Proizvođač koji proizvodi obrtnički ili industrijski proizvod čiji je naziv zaštićen privremenom nacionalnom zaštitom obvezan je taj proizvod proizvoditi u skladu sa specifikacijom proizvoda, a takav proizvod koji proizvođač stavlja na tržište mora udovoljavati zahtjevima iz specifikacije.
+(4) Za vrijeme trajanja privremene nacionalne zaštite proizvođač može na tržište staviti obrtnički ili industrijski proizvod označen nazivom zaštićenim privremenom nacionalnom zaštitom ako je za taj proizvod izdan certifikat iz članka 29. stavka 5. ovoga Zakona.
+(5) Privremena nacionalna zaštita prestaje važiti na dan donošenja odluke Ureda o zahtjevu za registraciju ili na dan povlačenja zahtjeva za registraciju, sukladno članku 18. stavku 2. Uredbe (EU) 2023/2411.
+(6) U slučaju povlačenja zahtjeva za registraciju koji je podnesen Uredu sukladno članku 21. ovoga Zakona ili odbijanja zahtjeva za registraciju od strane Ureda, proizvođač je dužan povući s tržišta, bez odgode, a najkasnije u roku od 30 dana od dana povlačenja zahtjeva za registraciju, ili u slučaju odbijanja zahtjeva za registraciju od strane Ureda od dana objave odluke Ureda o odbijanju zahtjeva za registraciju, obrtnički ili industrijski proizvod koji je označen nazivom zaštićenim privremenom nacionalnom zaštitom sukladno članku 20. ovoga Zakona i za koji je prethodno izdan certifikat iz članka 29. stavka 5. ovoga Zakona.

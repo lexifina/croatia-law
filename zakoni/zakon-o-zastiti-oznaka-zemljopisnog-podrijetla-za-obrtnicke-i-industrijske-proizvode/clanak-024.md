@@ -1,0 +1,4 @@
+## Pravo na upotrebu registrirane oznake
+# Članak 24.
+(1) Proizvođač koji proizvodi obrtnički ili industrijski proizvod označen registriranom oznakom zemljopisnog podrijetla sukladno članku 48. Uredbe (EU) 2023/2411 obavezan je taj proizvod proizvoditi u skladu sa specifikacijom proizvoda, a proizvod označen registriranom oznakom zemljopisnog podrijetla koji je proizvođač stavio na tržište mora udovoljavati zahtjevima iz specifikacije.
+(2) Proizvođač može na tržište staviti obrtnički i industrijski proizvod označen registriranom oznakom zemljopisnog podrijetla sukladno članku 48. Uredbe (EU) 2023/2411 samo ako je za taj proizvod prethodno izvršena provjera sukladnosti sa specifikacijom proizvoda i ako je izdan certifikat o odobrenju za upotrebu oznake zemljopisnog podrijetla iz članka 29. stavka 5. ovoga Zakona.

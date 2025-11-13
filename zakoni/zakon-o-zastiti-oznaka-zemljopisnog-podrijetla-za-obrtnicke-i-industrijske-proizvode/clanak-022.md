@@ -1,0 +1,10 @@
+## Nedostaci zahtjeva za registraciju u fazi postupka na razini Europske unije
+# Članak 22.
+(1) Ako Zavod sukladno članku 23. stavku 6. Uredbe (EU) 2023/2411 zaprimi obavijest Ureda o potrebi dopune i/ili izmjene zahtjeva za registraciju, o tome obavještava podnositelja zahtjeva za registraciju i poziva ga da izmjene i/ili dopune zahtjeva za registraciju dostavi Zavodu u roku koji odredi Zavod.
+(2) Ako je radi dopune ili izmjene zahtjeva za registraciju iz stavka 1. ovoga članka podnositelj zahtjeva za registraciju napravio jednu ili više značajnih izmjena specifikacije proizvoda, na odgovarajući način primjenjuju se odredbe iz članaka 8. do 15. te članka 16. stavaka 1. i 2. ovoga Zakona.
+(3) Ako izmjene specifikacije proizvoda iz stavka 2. ovoga članka nisu značajne, Zavod dostavlja izmjene i/ili dopune zahtjeva za registraciju Uredu.
+(4) Ako podnositelj zahtjeva za registraciju ne dostavi Zavodu izmjene i/ili dopune zahtjeva za registraciju u roku iz stavka 1. ovoga članka, Zavod o tome obavještava Ured.
+(5) Ako u postupku savjetovanja radi postizanja sporazumnog rješenja u postupku povodom prigovora podnositelj zahtjeva za registraciju nije obavijestio Zavod o ishodu postupka savjetovanja ili nije postignuto sporazumno rješenje, po isteku roka iz članka 15. stavka 3. ovoga Zakona Zavod o tome obavještava Ured i dostavlja izmjene i/ili dopune zahtjeva za registraciju Uredu.
+(6) Ako Zavod utvrdi da su izmjene specifikacije proizvoda kao rezultat provedenog postupka savjetovanja značajne, te izmjene objavljuje u glasilu Zavoda i one podliježu ponovnom nacionalnom postupku prigovora sukladno člancima 13. do 16. ovoga Zakona.
+(7) Ako sporazumnim rješenjem nije došlo do izmjene specifikacije proizvoda ili Zavod procijeni da izmjene specifikacije proizvoda nisu značajne, Zavod o tome obavještava Ured i dostavlja izmjene i/ili dopune zahtjeva za registraciju Uredu.
+(8) Ako nakon objave izmijenjenog zahtjeva za registraciju prigovor nije podnesen, Zavod dostavlja izmjene i/ili dopune zahtjeva za registraciju Uredu.

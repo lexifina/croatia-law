@@ -1,0 +1,8 @@
+## Supstancijalno ispitivanje zahtjeva za registraciju
+# Članak 11.
+(1) Ako utvrdi da zahtjev za registraciju udovoljava uvjetima iz članka 10. stavka 1. ovoga Zakona, Zavod će na temelju podataka sadržanih u zahtjevu za registraciju ispitati jesu li ispunjeni uvjeti iz članka 6. Uredbe (EU) 2023/2411 te postoje li zapreke za registraciju iz članaka 42. i 43. Uredbe (EU) 2023/2411.
+(2) Ako u postupku ispitivanja utvrdi da zahtjev za registraciju ne ispunjava uvjete iz članka 6. Uredbe (EU) 2023/2411 odnosno da postoje zapreke za registraciju iz članaka 42. i 43. Uredbe (EU) 2023/2411, Zavod poziva zaključkom podnositelja zahtjeva za registraciju da izmjene i/ili dopune zahtjeva za registraciju dostavi u roku od 60 dana od dana primitka zaključka.
+(3) Na prijedlog podnositelja zahtjeva za registraciju rok za dostavu izmjena i/ili dopuna zahtjeva za registraciju iz stavka 2. ovoga članka Zavod može produžiti za najviše 30 dana.
+(4) Ako podnositelj zahtjeva za registraciju nije u roku iz stavka 2. ovoga članka dostavio tražene izmjene i/ili dopune zahtjeva za registraciju ili je Zavod utvrdio da dostavljenim izmjenama i/ili dopunama nisu ispunjeni uvjeti iz članka 6. Uredbe (EU) 2023/2411 odnosno da i dalje postoje zapreke za registraciju iz članaka 42. i 43. Uredbe (EU) 2023/2411, Zavod donosi rješenje o odbijanju zahtjeva.
+(5) Ako utvrdi da podneseni zahtjev za registraciju u cijelosti ispunjava uvjete iz članka 6. Uredbe (EU) 2023/2411 te da ne postoje zapreke za registraciju iz članaka 42. i 43. Uredbe (EU) 2023/2411, Zavod objavljuje zahtjev za registraciju zajedno sa specifikacijom proizvoda u glasilu Zavoda.
+(6) Podaci iz zahtjeva koji se objavljuju u glasilu Zavoda propisuju se pravilnikom iz članka 9. stavka 2. ovoga Zakona.

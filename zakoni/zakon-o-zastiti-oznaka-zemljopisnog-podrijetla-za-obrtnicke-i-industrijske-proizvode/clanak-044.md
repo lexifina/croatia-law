@@ -1,0 +1,4 @@
+# Članak 44.
+(1) Na zahtjeve u postupcima registracije oznaka zemljopisnog podrijetla na temelju Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga (»Narodne novine«, br. 173/03., 186/03., 54/05., 76/07., 49/11. i 46/18.) koji su započeti, a nisu dovršeni do stupanja na snagu ovoga Zakona, primjenjuje se članak 70. Uredbe (EU) 2023/2411.
+(2) Podnositelji zahtjeva za registraciju u postupcima iz stavka 1. ovoga članka dužni su obavijestiti Zavod o namjeri pokretanja postupka registracije oznaka na razini Europske unije na temelju Uredbe (EU) 2023/2411 uz dostavu zahtjeva iz članka 9. ovoga Zakona, najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(3) U slučaju izostanka obavijesti iz stavka 2. ovoga članka Zavod donosi rješenje o obustavi postupka.
