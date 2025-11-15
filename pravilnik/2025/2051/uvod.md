@@ -1,0 +1,1 @@
+Na temelju članka 151. stavka 3. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 96/25.) ministar rada, mirovinskoga sustava, obitelji i socijalne politike uz prethodnu suglasnost ministra nadležnog za financije donosi
