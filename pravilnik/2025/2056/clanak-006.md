@@ -1,0 +1,4 @@
+# Članak 6.
+(1) Prilikom plombiranja inspektor i ovlaštena osoba će voditi računa da se predmeti plombiranja ne oštete, te odrediti mjere, ako je potrebno, o otklanjanju bilo kakvih daljnjih mogućnosti nepovoljnog utjecaja na sigurnost rada ili okoliš.
+(2) U slučaju plombiranja u svrhu privremenog zadržavanja radi izvršavanja rješenja inspektora ili ovlaštene osobe ministarstva nadležnog za unutarnje poslove i Carinske uprave, nadzirana osoba/subjekt odgovoran je za poduzimanje svih sigurnosnih mjera kako ne bi došlo do bilo kakve štete plombiranih objekata, dijelova objekata, postrojenja, pogona, opreme, uređaja, sredstva za rad, plovila, alata ili drugih predmeta te privremeno zadržanih proizvoda ribarstva i akvakulture čiji promet ili korištenje više nije dozvoljeno.
+(3) Sve nastale troškove u svezi privremenog zadržavanja iz stavka 2. ovog članka snosi odgovorna stranka.

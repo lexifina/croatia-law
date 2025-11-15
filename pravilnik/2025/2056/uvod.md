@@ -1,0 +1,1 @@
+Na temelju članka 70. stavka 4. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/2017, 130/2017 i 14/2019), članka 65. stavka 4. Zakona o slatkovodnom ribarstvu (»Narodne novine«, broj 63/2019) i članka 33. stavka 1. Zakona o akvakulturi (»Narodne novine«, broj 130/2017, 111/2018, 44/2020, 30/2023 i 14/2024), ministar poljoprivrede, šumarstva i ribarstva donosi
