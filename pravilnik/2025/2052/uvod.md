@@ -1,0 +1,1 @@
+Na temelju članka 30. stavka 2. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 96/25.) ministar rada, mirovinskoga sustava, obitelji i socijalne politike uz prethodnu suglasnost ministra nadležnog za financije donosi

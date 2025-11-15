@@ -1,0 +1,2 @@
+# Članak 9.
+Kada Porezna uprava provodi naplatu javnih davanja na temelju posebnih propisa te naplatu prati na računu posebno određenom za tu namjenu, svaka uplata evidentira se sukladno člancima 128. i 129. Općeg poreznog zakona (»Narodne novine«, br. 115/16., 106/18., 121/19., 32/20., 42/20., 114/22. i 152/24.), a razdoblje osiguranja na koje se dug odnosi priznaje se u cijelosti kada je podmiren ukupni dug doprinosa za predmetno razdoblje.
