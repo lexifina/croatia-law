@@ -1,0 +1,9 @@
+## IV. POSTUPAK NADZORA I KONTORLE
+# Članak 14.
+(1) U postupku nadzora i kontrole iz članka 3. stavka 2. ovoga Pravilnika, vještak-revizor, odnosno vijeće vještaka-revizora, može obaviti izvanredni kontrolni pregled po službenoj dužnosti, o čemu donosi nalaz i mišljenje.
+(2) Ako u postupku nadzora i kontrole vještak-revizor, odnosno vijeće vještaka-revizora smatraju da nije potrebno obavljanje izvanrednog kontrolnog pregleda, donose mišljenje na temelju priložene medicinske dokumentacije kojim se ne mijenja ranija ocjena.
+(3) Na izvanrednom kontrolnom pregledu iz stavka 1. ovoga članka utvrđuje se je li nalaz i mišljenje na kojemu se temelji pravomoćno rješenje o pravu, pravilan i donesen u skladu s propisima koji su važili u trenutku kada je pravo ostvareno.
+(4) Ako je na rješenje Zavoda, doneseno na temelju nalaza i mišljenja iz stavka 1. ovoga članka, podnesena žalba, predmet se u povodu žalbe dostavlja ministarstvu, a vijeće vještaka-revizora donosi nalaz i mišljenje u povodu žalbe.
+(5) Vijeće vještaka-revizora će u povodu žalbe iz stavka 3. ovoga članka, razmatrajući razloge i nove činjenice istaknute u žalbi, utvrditi postoje li razlozi za promjenu nalaza i mišljenja iz stavka 1. ovoga članka, je li potrebna dodatna medicinska obrada ili neposredni pregled osiguranika te na osnovi tako provedenog postupka donijeti nalaz i mišljenje.
+(6) Nalaz i mišljenje doneseni u postupku iz stavaka 1. i 4. ovoga članka prije donošenja rješenja o pravu, neovisno o donesenoj ocjeni podliježe reviziji, koju ne mogu obavljati vještaci-revizori, odnosno vijeće vještaka-revizora koji su donijeli taj nalaz i mišljenje.
+(7) Revizija nalaza i mišljenja donesenog na izvanrednom kontrolnom pregledu iz stavka 5. ovoga članka mora biti obavljena najkasnije 60 dana prije isteka roka za donošenje rješenja u postupku nadzora i kontrole iz članka 134. stavka 3. Zakona.

@@ -1,0 +1,4 @@
+# Članak 12.
+(1) Obrasci iz članka 11. stavka 1. ovoga Pravilnika izrađuju se u četiri primjerka.
+(2) Dva primjerka obrazaca iz članka 11. stavka 1. ovoga Pravilnika dostavljaju se ustrojstvenoj jedinici ZOSI-ja, koja potom jedan primjerak dostavlja zajedno s nalazom i mišljenjem koji je bio predmet revizije, odnosno nalazom i mišljenjem usklađenim s mišljenjem vještaka-revizora ustrojstvenoj jedinici Hrvatskog zavoda za mirovinsko osiguranje (u daljnjem tekstu: Zavod) koja je podnijela zahtjev za vještačenje, a dva primjerka se pohranjuju u arhivi ministarstva.
+(3) Svi primjerci mišljenja vještaka-revizora, odnosno vijeća vještaka-revizora moraju imati propisani žig i potpis vještaka-revizora, odnosno članova vijeća vještaka-revizora i rukovoditelja nadležne ustrojstvene jedinice u ministarstvu.
