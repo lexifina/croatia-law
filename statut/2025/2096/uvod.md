@@ -1,0 +1,1 @@
+Na temelju članka 12. i 15. Zakona o turističkim zajednicama i promicanju hrvatskog turizma (»Narodne novine« 52/2019 i 42/20), a u svezi s člankom 52. Zakona o turizmu (»Narodne novine« 156/23), Skupština Turističke zajednice Ličko-senjske županije, uz prethodnu suglasnost Ministarstva turizma i sporta, na II. sjednici održanoj 31. listopada 2025., donijela je
