@@ -1,0 +1,5 @@
+## X. PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 30.
+(1) Svi postojeći ugrađivači/očitavači razdjelnika na dan stupanja na snagu ovog Pravilnika dužni su zatražiti ovlaštenje za ugradnju, očitavanje i održavanje razdjelnika iz članka 14. ovog Pravilnika od opskrbljivača toplinskom energijom, najkasnije u roku od tri mjeseca od dana stupanja na snagu ovoga Pravilnika.
+(2) Obvezne zahtjeve na tehničkom sustavu zgrade iz članka 3. ovog Pravilnika, dužni su ispuniti krajnji kupci prilikom zamjene postojećih razdjelnika novima po isteku roka valjanosti razdjelnika određenog od proizvođača razdjelnika, ukoliko te zahtjeve nisu napravili prilikom ugradnje razdjelnika prije donošenja ovog Pravilnika.
+(3) Svim krajnjim kupcima koji imaju ugrađen sustav daljinskog očitanja razdjelnika ili kalorimetara iz članka 25. ovog Pravilnika, ugrađivač/očitavač razdjelnika ili kalorimetara dužan je dati sve pristupne podatke (licence, lozinke i sl.) za neometano korištenje koji omogućuje očitanje podataka i od strane nekog drugog ugrađivača/očitavača razdjelnika ili kalorimetara, najkasnije u roku od 3 mjeseca od dana stupanja na snagu ovoga Pravilnika.

@@ -1,0 +1,9 @@
+## V. UGRADNJA, RAD I ODRŽAVANJE SUSTAVA DALJINSKOG OČITAVANJA RAZDJELNIKA I KALORIMETARA
+## Sustav daljinskog očitavanja razdjelnika i kalorimeatra
+# Članak 25.
+(1) Sustav daljinskog očitavanja ugrađivač/očitavač razdjelnika i ugrađivač/očitavač kalorimetara ugrađuje u zajedničke dijelove zgrade prilikom ugradnje razdjelnika ili kalorimetara, za bežično očitavanje razdjelnika ili kalorimetara.
+(2) Sustav daljinskog očitavanja je vlasništvo krajnjih kupaca ili je kod krajnjih kupaca u najmu.
+(3) Neovisno o stavku 2. ovog članka, krajnjim kupcima se prilikom ugradnje sustava daje serijski broj sustava, licenca, lozinke i drugi potrebni podaci za neometano korištenje koje omogućuje očitanje podataka i od strane nekog drugog ugrađivača/očitavača razdjelnika ili kalorimetara.
+(4) Sustav daljinskog očitavanja iz stavka 1. ovog članka može biti priključen na standardni napon mreže 230 V AC ili napajan baterijski, ovisno je li zgrada ima priključak na elektroenergetsku mrežu u zajedničkim dijelovima zgrade ili ne.
+Ugrađivač/očitavač razdjelnika i ugrađivač/očitavač kalorimetara mora koristiti samo sustav daljinskog očitavanja iz stavka 1. ovog članka koji podržava otvorene protokole, kako bi u slučaju gubitka ovlaštenja ugrađivač/očitavač razdjelnika, ili raskida ugovora s krajnjim kupcima, novi ugrađivač/očitavač razdjelnika i novi ugrađivač/očitavač kalorimetara mogao preuzeti taj sustav uz minimalne troškove za krajnje kupce.
+(5) Ugrađivač/očitavač razdjelnika i ugrađivač/očitavač kalorimetara dužni su imati opremu za daljinsko očitavanje sustava daljinskog očitavanja iz stavka 1. ovoga članka, koja osim što očitava stanje razdjelnika ili kalorimetara, mora prikupiti i informaciju o stanju razdjelnika ili kalorimetra, odnosno o statusu aktivnog rada ili greške i šifru greške kako bi se ustanovila vrsta greške i datum nastanka greške odnosno kvara.

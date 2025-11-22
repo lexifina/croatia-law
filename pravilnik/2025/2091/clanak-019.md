@@ -1,0 +1,18 @@
+## Očitavanje razdjelnika i kalorimetara
+# Članak 19.
+(1) Ugrađivač/očitavač razdjelnika radi obradu očitanih podataka s razdjelnika, dok ugrađivač/očitavač kalorimetara radi obradu očitanih vrijednosti s kalorimetara.
+(2) Ugrađivač/očitavač razdjelnika i ugrađivač/očitavač kalorimetara dužan je očitavati razdjelnike ili kalorimetre minimalno jednom mjesečno te podatke zadnji dan u mjesecu dostaviti kupcu toplinske energije u roku koji odredi kupac toplinske energije.
+(3) Obrada očitanih podataka iz stavka 1. ovog članka uključuje podatke iz digitalne platforme iz članka 18. stavka 10. ovoga Pravilnika i članka 21. stavka 6. ovoga Pravilnika, te uključuje podatke o svim razdjelnicima ili kalorimetrima za samostalnu uporabnu cjelinu na zajedničkom mjerilu toplinske energije i podatke o statusu razdjelnika ili kalorimetra s datumom nastanka greške i neočitanim razdjelnicima i kalorimetrima.
+(4) Status razdjelnika ili kalorimetra pokazuje je li razdjelnik ili kalorimetar ispravan ili radi s greškom, odnosno je li u kvaru i je li neočitan.
+(5) Opravdani uzroci neočitanih razdjelnika ili kalorimetara su:
+- razdjelnik ili kalorimetar je privremeno izgubio signal sa sustavom daljinskog očitavanja iz članka 25. ovog Pravilnika,
+- razdjelnik ili kalorimetar pokazuju grešku odnosno u kvaru su, a krajnji kupac nije omogućio popravak,
+- jakost signala razdjelnika ili kalorimetra je pala radi istrošenosti baterije, a krajnji kupac nije omogućio zamjenu prema uvjetima iz ugovora iz članka 18. ovog Pravilnika,
+- jakost signala sustava daljinskog očitavanja iz članka X. ovog Pravilnika je pala radi istrošenosti baterije, a krajnji kupci nisu omogućili zamjenu prema uvjetima iz ugovora iz članka 18. ovog Pravilnika,
+- razdjelnici ili kalorimetri su onesposobljeni, uklonjeni ili neispravni krivnjom krajnjeg kupca i nisu prijavljeni ugrađivaču/očitavaču razdjelnika ili kalorimetara.
+- razdjelnik ili kalorimetar pokazuje grešku odnosno u kvaru je, a krajnji kupac nije omogućio popravak u radno vrijeme ugrađivača/očitavača razdjelnika ili kalorimetra.
+(6) Na temelju obrade očitanih podataka iz stavka 1. ovog članka, ugrađivač/očitavač razdjelnika ili kalorimetara dužan je napraviti evideniciju razdjelnika ili kalorimetara s greškom i neočitanih razdjelnika ili kalorimetara, s nabrojenim uzrocima zašto nisu očitani, te onih sa značajnim odstupanjima u broju impulsa koje primijeti ugrađivač/očitavač razdjelnika, te ju dostavlja krajnjem kupcu, ovlaštenom predstavniku suvlasnika i kupcu toplinske energije prema odredbama ovog Pravilnika.
+(7) Svi neočitani razdjelnici i kalorimetri i razdjelnici i kalorimetri kod kojih se javlja greška, ugrađivač/očitavač razdjelnika ili kalorimetara mora servisirati, odnosno popraviti ili zamijeniti novim najkasnije u roku od 60 dana od datuma nastanka kvara odnosno greške.
+(8) Na upit ovlaštenog predstavnika suvlasnika ugrađivač/očitavač razdjelnika ili kalorimetara dužan je dostaviti dokaz da je greška na neočitanim razdjelnicima ili kalorimetrima otklonjena ili podatak da je ugrađivač/očitavač razdjelnika ili kalorimetara bio spriječen od strane krajnjih kupaca otkloniti grešku odnosno kvar.
+(9) Ako krajnji kupci ili ovlašteni predstavnik suvlasnika ne mogu pristupiti digitalnoj platformi za očitanim podacima s razdjelnika i statusu razdjelnika dužni su o tome obavijestiti ugrađivača/očitavača razdjelnika te je isti dužan omogućiti pristup digitalnoj platformi najkasnije u roku od 60 dana od prijave.
+(10) Dokaz o servisiranju neočitanih razdjelnika ili kalorimetara iz stavka 8. ovog članka je ispravno popunjen radni nalog potpisan od krajnjeg kupca.
