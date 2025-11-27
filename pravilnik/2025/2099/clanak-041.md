@@ -1,0 +1,12 @@
+## Odluka o besplatnoj dodjeli robe
+# Članak 41.
+(1) Ako Povjerenstvo utvrdi da su ispunjeni uvjeti za besplatnu dodjelu robe:
+1. čija je procijenjena vrijednost niža ili jednaka iznosu od 15.000,00 eura, donosi odluku o besplatnoj dodjeli robe na temelju članka 45. stavka 3. Zakona,
+2. čija procijenjena vrijednost prelazi iznos od 15.000,00 eura, Povjerenstvo ministru financija dostavlja obrazloženi prijedlog za donošenje odluke o besplatnoj dodjeli na temelju članka 45. stavka 4. Zakona.
+(2) Prilikom provedbe stavka 1. ovog članka, razmatrajući zahtjev podnositelja iz članka 40. stavka 3. ovog Pravilnika, procjenjuje se svrha korištenja robe u okviru obavljanja djelatnosti podnositelja zahtjeva kako bi se, u slučaju iz članka 45. stavka 2. Zakona, dodijelila podnositelju zahtjeva kod kojeg je, uz procjenu načina korištenja robe i kapacitete podnositelja za prihvat i pravilno korištenje robe, izraženiji veći doprinos javnom interesu.
+(3) Javni interes u slučaju besplatne dodjele robe koja predstavlja predmete povijesne, arheološke, etnografske, kulturne, umjetničke ili znanstvene vrijednosti treba obuhvatiti sve one aspekte kojima se osigurava da ti predmeti budu zaštićeni, očuvani i dostupni u javnom interesu, odnosno da doprinose zajednici i društvu u cjelini.
+(4) Javni interes u slučaju besplatne dodjele robe podobne za obavljanje humanitarne ili socijalne djelatnosti postoji kada se zatražena besplatna dodjele robe odnosi na djelatnosti, projekte ili aktivnosti koje doprinose općem dobru, društvenom razvoju, kvaliteti života građana ili unapređenju zajednice. Kriterij postojanja javnog interesa osobito uključuje doprinos rješavanju konkretnih socijalnih potreba ili problema zajednice, kao i broj korisnika koji će imati koristi od djelatnosti odnosno aktivnosti u okviru te djelatnosti, za koje će se koristiti roba.
+(5) Odluka o besplatnoj dodjeli:
+1. dostavlja se osobi kojoj je roba besplatno dodijeljena i carinskom uredu nadležnom prema mjestu oduzimanja ili ustupa robe
+2. objavljuje se na mrežnim stranicama Carinske uprave.
+(6) Ako osoba kojoj je besplatno dodijeljena roba ne provede carinske formalnosti u roku od 40 dana od dana dostavljene odluke o besplatnoj dodjeli smatra se da je odustala od besplatno dodijeljene robe. Za takvu robu ponovno se donosi odluka o besplatnoj dodjeli između ostalih prihvatljivih podnositelja zahtjeva ili određuje drugo carinsko dopušteno raspolaganje.

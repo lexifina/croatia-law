@@ -1,0 +1,1 @@
+Na temelju članka 48. Zakona o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, broj 40/16 i 52/25) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19 i 155/23) ministar financija, uz prethodnu suglasnost ministra vanjskih i europskih poslova donosi
