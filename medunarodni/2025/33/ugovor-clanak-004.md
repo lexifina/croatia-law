@@ -1,0 +1,3 @@
+# Članak 4.
+1. Ugovorne stranke su suglasne da se područja upravljanja i održavanja pojedinog objekta za premošćivanje kao i troškovi tih radova, uključujući mogućnost građenja, privremeno odrede u jednakim dijelovima (po načelu pola-pola), osim ako ugovorne stranke postignu drukčiji sporazum. Radovi u području građenja, održavanja ili upravljanja objektima za premošćivanje obračunavaju se u neto cijeni nakon što su završeni. Sve ostale troškove (porez i/ili carinu ili druge pristojbe) svaka ugovorna stranka snosi za sebe.
+2. Radovi koji se mogu odnositi na postavljanje znakova obavijesti o blizini granice neće započeti bez suglasnosti tijela ugovornih stranaka nadležnih za njihovo postavljanje te za nadzor državne granice.

@@ -1,0 +1,6 @@
+# Članak 8.
+1. Ugovorne stranke suglasne su da stručnjaci koje imenuju upravitelji zajednički obavljaju preglede stanja objekata za premošćivanje najmanje jednom godišnje. Zaključci pregleda i opis potrebnih intervencija unijet će se u zapisnik.
+2. Glavni pregled objekata za premošćivanje upravitelji će obavljati najmanje svakih pet (5) godina. Upravitelji će zajednički procijeniti rezultate takvih glavnih provjera i poduzeti potrebne mjere.
+3. U slučaju bilo kakvog nepredviđenog događaja upravitelji su dužni zajednički izvršiti izvanredni pregled objekta za premošćivanje. Zaključci pregleda i opis potrebnih intervencija bit će uneseni u zapisnik.
+4. Tijekom pripremnih radova za provedbu, kao i tijekom izvođenja građevinskih radova i tijekom jamstvenog roka, upravitelji će usklađivati svoj napredak i međusobno tekuće se informirati o poduzetim mjerama. Radovi na održavanju moraju se izvoditi u skladu s važećim propisima ugovornih stranaka.
+5. Ako zakonske odredbe, kojima se uređuje održavanje cesta u Republici Hrvatskoj i Republici Sloveniji, obuhvaćaju različite vrste radova, upravitelji iz članka 6. ovog Sporazuma će posebnim dogovorom uskladiti poslove održavanja objekata za premošćivanje s važećim zakonskim odredbama.
