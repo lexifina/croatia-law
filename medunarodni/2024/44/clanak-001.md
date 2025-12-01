@@ -1,0 +1,2 @@
+# Članak 1.
+Potvrđuje se Sporazum o suradnji između Europske unije i njezinih država članica, s jedne strane, i Švicarske Konfederacije, s druge strane o europskim programima satelitske navigacije, sastavljen u Bruxellesu 18. prosinca 2013. u izvorniku na bugarskom, češkom, danskom, engleskom, estonskom, finskom, francuskom, grčkom, hrvatskom, latvijskom, litavskom, mađarskom, malteškom, nizozemskom, njemačkom, poljskom, portugalskom, rumunjskom, slovačkom, slovenskom, španjolskom, talijanskom i švedskom jeziku.

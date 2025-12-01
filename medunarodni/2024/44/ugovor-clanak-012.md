@@ -1,0 +1,8 @@
+# Članak 12.
+STANDARDI, CERTIFICIRANJE
+I REGULATORNE MJERE
+1. Prepoznajući vrijednost koordiniranog pristupa na međunarodnim forumima normizacije i certificiranja u pogledu globalnih usluga satelitske navigacije, stranke posebno zajednički podržavaju razvoj standarda programa Galileo i EGNOS i promiču njihovu primjenu diljem svijeta, naglašavajući interoperabilnost s ostalim sustavima GNSS-a.
+Jedan od ciljeva te koordinacije će biti promicanje širokog i inovativnog korištenja usluga programa Galileo kao svjetskog navigacijskog standarda i standarda određivanja vremena u svrhu otvorenog pristupa, za komercijalne svrhe i zaštitu ljudskog života. Stranke stvaraju povoljne uvjeta za razvoj aplikacija programa Galileo.
+2. Radi promicanja i provedbe ciljeva ovog Sporazuma stranke, prema potrebi, surađuju u svim pitanjima u vezi s GNSS-om koja se javljaju posebno u Međunarodnoj organizaciji civilnog zrakoplovstva, Međunarodnoj pomorskoj organizaciji i Međunarodnoj telekomunikacijskoj uniji.
+3. Stranke osiguravaju da mjere povezane s tehničkim standardima, zahtjevima certificiranja i licenciranja te postupci koji se odnose na europski GNSS ne predstavljaju nepotrebne prepreke trgovini. Domaći zahtjevi temelje se na objektivnim, nediskriminirajućim, unaprijed utvrđenim transparentnim kriterijima.
+4. Stranke također poduzimaju potrebne regulatorne mjere kako bi dopustile korištenje u punom opsegu prijamnika GALILEO, zemaljskih i svemirskih segmenata na područjima pod njihovom jurisdikcijom. U tom pogledu, Švicarska programu Galileo dodjeljuje tretman na području pod njezinom jurisdikcijom ne manje povoljan od onog kojeg primjenjuje na bilo koje slične sustave za radionavigacijske satelitske usluge.

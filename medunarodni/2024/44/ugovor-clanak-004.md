@@ -1,0 +1,5 @@
+# Članak 4.
+AKTIVNOSTI SURADNJE
+1. Sektori za aktivnosti suradnje u satelitskoj navigaciji i određivanju vremena su radiofrekvencijski spektar, znanstveno istraživanje i osposobljavanje, javna nabava, industrijska suradnja, prava intelektualnog vlasništva, nadzor izvoza, trgovina i razvoj tržišta, norme, certifikacijske i regulatorne mjere, sigurnost, razmjena klasificiranih informacija, razmjene osoblja i pristup uslugama. Stranke mogu izmijeniti ovaj popis sektora u skladu s člankom 25.
+2. Ovaj Sporazum ne utječe na institucionalnu autonomiju Europske unije pri uređenju programa europskog GNSS-a niti na strukturu koju je Europska unija postavila za izvođenje programa europskog GNSS-a. Ovaj Sporazum također ne utječe na primjenjive regulatorne mjere kojima se provode obveze o neširenju, nadzor izvoza, nadzor nematerijalnih prijenosa tehnologije, niti utječe na mjere nacionalne sigurnosti.
+3. Podložno njihovim primjenjivim regulatornim mjerama, stranke potiču, u najvećoj mogućoj mjeri, aktivnosti suradnje u skladu s ovim Sporazumom, s ciljem pružanja usporedivih mogućnosti za sudjelovanje u njihovim aktivnostima u područjima navedenima u stavku 1.
