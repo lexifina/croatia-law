@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o sadržaju i strukturi izvještaja izdavatelja za razdoblja tijekom godine te obliku i načinu njihovog dostavljanja Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, broj 114/18, 27/21, 26/22 i 32/23) u članku 2. točki 2. riječi: »(»Narodne novine«, br. 65/18, 17/20, 83/21 i 151/22)« zamjenjuju se riječima: »(»Narodne novine«, br. 65/18, 17/20, 83/21, 151/22, 85/24 i 126/25)«.

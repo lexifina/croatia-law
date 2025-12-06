@@ -1,0 +1,1 @@
+Na temelju članka 470. Zakona o tržištu kapitala (»Narodne novine«, broj 65/18, 17/20, 83/21, 151/22, 85/24 i 126/25), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 25. studenoga 2025. godine donosi
