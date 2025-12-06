@@ -1,0 +1,4 @@
+# Članak 1.
+U Pravilniku o voćnim džemovima, želeima, marmeladama, pekmezu te zaslađenom kesten pireu (»Narodne novine«, broj 84/19.) članak 2. mijenja se i glasi:
+»Ovim Pravilnikom u hrvatsko zakonodavstvo preuzimaju se sljedeći akti Europske unije:
+- Direktiva Vijeća (EU) 2001/113/EZ od 20. prosinca 2001. o voćnim džemovima, želeima, marmeladama i zaslađenom kesten pireu namijenjenim za konzumaciju (SL L 10, 12. 1. 2002.), kako je posljednji put izmijenjena Direktivom 2024/1438 Europskog parlamenta i Vijeća od 14. svibnja 2024. o izmjeni direktiva Vijeća 2001/110/EZ o medu, 2001/112/EZ o voćnim sokovima i određenim sličnim proizvodima namijenjenim prehrani ljudi, 2001/113/EZ o voćnim džemovima, želeima i marmeladama te zaslađenom kesten pireu namijenjenim prehrani ljudi i 2001/114/EZ o određenim vrstama ugušćenog (kondenziranog) mlijeka i mlijeka u prahu za prehranu ljudi (SL L, 1438, 24. 5. 2024.).«.
