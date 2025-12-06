@@ -1,0 +1,1 @@
+Na temelju odredbe članka 6. Ustava Republike Hrvatske (»Narodne novine« 56/90, 135/97, 113/00, 28/01, 76/10, 5/14) te članka 6. i članka 10. Zakona o političkim strankama (»Narodne novine« 76/93, 111/96, 164/98, 36/01, 1/07), izvanredni sabor političke stranke DOM I NACIONALNO OKUPLJANJE je na sjednici održanoj 6. prosinca 2025. godine usvojio
