@@ -1,0 +1,1 @@
+Na temelju članka 181. stavka 2. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18., 125/19., 147/20., 119/22., 156/22., 33/23., 145/23., 36/24. i 102/25.), uz prethodno pribavljeno mišljenje Hrvatskog zavoda za zdravstveno osiguranje i nadležnih komora, ministrica zdravstva donosi
