@@ -1,0 +1,5 @@
+# Članak 16.
+U članku 35. iza stavka 1. dodaju se novi stavci 2. i 3. koji glase:
+»(2) Sastavni subjekt skupine multinacionalnih poduzeća koji je u svrhu oporezivanja rezident u Republici Hrvatskoj obvezan je Ministarstvo financija, Poreznu upravu izvijestiti o tome je li krajnje matično društvo ili zamjensko matično društvo ili sastavni subjekt, u roku najkasnije četiri mjeseca nakon isteka razdoblja za koje se utvrđuje porez na dobit u skladu s propisom kojim se uređuje oporezivanje dobiti.
+(3) Sastavni subjekt skupine multinacionalnih poduzeća koji je u svrhu oporezivanja rezident u Republici Hrvatskoj, a koji nije krajnje matično društvo, zamjensko matično društvo niti sastavni subjekt, obvezan je Ministarstvo financija, Poreznu upravu izvijestiti o identitetu i poreznoj rezidentnosti subjekta koji podnosi izvješće u roku najkasnije četiri mjeseca nakon isteka razdoblja za koje utvrđuje porez na dobit u skladu s propisom kojim se uređuje oporezivanje dobiti.«.
+Dosadašnji stavci 2. i 3. postaju stavci 4. i 5.

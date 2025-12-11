@@ -1,0 +1,17 @@
+# Članak 9.
+Članak 14. mijenja se i glasi:
+»U smislu ovoga Zakona pojedini pojmovi imaju sljedeće značenje:
+1. druga jurisdikcija je:
+a) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija o financijskim računima i dodatak sporazumu nadležnih tijela o automatskoj razmjeni informacija o financijskim računima na temelju međunarodnog sporazuma i koja na temelju sporazuma dostavlja informacije iz članka 26. ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+b) druga jurisdikcija s kojom je Europska unija sklopila sporazum na temelju kojega ta država dostavlja informacije iz članka 26. ovoga Zakona Ministarstvu financija, Poreznoj upravi i koja je navedena na popisu koji je objavila Europska komisija
+c) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija o dohotku ostvarenom putem digitalnih platformi i koja na temelju sporazuma razmjenjuje informacije iz članka 35.l ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+d) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni informacija u skladu s okvirom za izvješćivanje o kriptoimovini i koja na temelju sporazuma razmjenjuje informacije iz članka 35.u ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+e) druga jurisdikcija koja s Republikom Hrvatskom ima sklopljen sporazum između nadležnih tijela o automatskoj razmjeni Prijava s informacijama o dopunskom porezu koja na temelju sporazuma razmjenjuje informacije iz članka 35.ae ovoga Zakona te je navedena na popisu objavljenom na službenim mrežnim stranicama Ministarstva financija, Porezne uprave
+2. porezno tijelo jest tijelo državne uprave, tijelo jedinice područne (regionalne) samouprave ili tijelo jedinice lokalne samouprave u čijem su djelokrugu poslovi utvrđivanja, nadzora i naplate poreza
+3. nadležno tijelo države članice je tijelo države članice nadležno za administrativnu suradnju u području poreza
+4. povezana poduzeća znače kada jedno poduzeće izravno ili neizravno sudjeluje u upravljanju, kontroli ili kapitalu drugog poduzeća ili ako iste osobe sudjeluju, izravno ili neizravno, u upravljanju, kontroli ili kapitalu poduzeća
+5. poduzeće podrazumijeva svaki oblik poslovanja
+6. primici od neskrbničkih dividendi su dohodak od dividendi ili drugi dohodak koji se u državi članici platitelja smatra dividendama, a koji se isplaćuju ili doznačuju na račun koji nije skrbnički račun
+7. proizvodi životnog osiguranja koji nisu obuhvaćeni drugim pravnim instrumentima Europske unije o razmjeni informacija i drugim sličnim mjerama su ugovori o osiguranju, osim ugovora o osiguranju uz mogućnost isplate otkupne vrijednosti police koji podliježu izvješćivanju, u kojima se naknade iz ugovora plaćaju u slučaju smrti ugovaratelja osiguranja
+8. adresa distribuiranog zapisa je adresa distribuiranog zapisa kako je navedena u Uredbi (EU) 2023/1114
+9. klijent je svaki posrednik ili relevantni porezni obveznik koji prima usluge, uključujući pomoć, savjete, usmjeravanje ili smjernice, od posrednika koji podliježe obvezi čuvanja profesionalne tajne u vezi s prekograničnim aranžmanom o kojem se izvješćuje.«.

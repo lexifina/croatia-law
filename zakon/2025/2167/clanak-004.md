@@ -1,0 +1,6 @@
+# Članak 4.
+U članku 7.a iza stavka 3. dodaju se novi stavci 4., 5. i 6. koji glase:
+»(4) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću prikupljanja propisanih informacija u smislu ovoga Zakona koju su obvezni provoditi pružatelji usluga povezanih s kriptoimovinom koji izvješćuju te jesu li pružatelji usluga povezanih s kriptoimovinom koji izvješćuju utvrdili vrstu kriptoimovine o kojoj se izvješćuje u pogledu koje su pružatelji usluga povezanih s kriptoimovinom koji izvješćuju proveli transakcije o kojima se izvješćuje i jesu li o njima izvijestili u roku koji je propisan člankom 35.v stavkom 1. ovoga Zakona.
+(5) Ministarstvo financija, Porezna uprava provodi nadzor nad točnošću i potpunosti popunjenih izvješća i jesu li pružatelji usluga povezanih s kriptoimovimom koji izvješćuju podnijeli propisano izvješće u roku propisanim člankom 35.v stavkom 1. ovoga Zakona.
+(6) Agencija provodi nadzor nad točnošću prikupljanja propisanih informacija koje se odnose na postupke dubinske analize stranke koja se smatra korisnikom kriptoimovine, a koje su postupke obvezni provoditi pružatelji usluga povezanih s kriptoimovinom u skladu s odredbama propisa kojim se uređuje sprječavanje pranja novca i financiranja terorizma.«.
+Dosadašnji stavci 4. do 7. postaju stavci 7. do 10.

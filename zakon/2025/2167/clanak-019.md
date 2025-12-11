@@ -1,0 +1,3 @@
+# Članak 19.
+U članku 35.l stavku 1. točki 12. briše se točka na kraju rečenice i dodaje se točka 13. koja glasi:
+»13. oznaku usluge identifikacije i državu članicu izdavanja, ako se operater platforme koji izvješćuje oslanja na izravnu potvrdu identiteta i boravišta prodavatelja putem usluge identifikacije koju je država članica ili Europska unija stavila na raspolaganje radi utvrđivanja identiteta i porezne rezidentnosti prodavatelja, u takvim slučajevima nije potrebno državi članici izdavanja oznake usluge identifikacije priopćiti informacije iz članka 35.l stavka 1. točaka 3. do 7. ovoga Zakona.«.

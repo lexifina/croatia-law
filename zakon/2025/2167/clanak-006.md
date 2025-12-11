@@ -1,0 +1,5 @@
+# Članak 6.
+Članak 10.a mijenja se i glasi:
+»(1) Ministarstvo financija, Porezna uprava, izvještajne financijske institucije, posrednici, operateri platformi koji izvješćuju i pružatelji usluga povezanih s kriptoimovinom koji izvješćuju smatraju se voditeljima obrade podataka kada samostalno ili zajednički utvrđuju svrhu i načine obrade osobnih podataka u skladu s propisom kojim se uređuje zaštita osobnih podataka.
+(2) Izvještajne financijske institucije, posrednik, operateri platforme za izvješćivanje ili pružatelji usluga povezanih s kriptoimovinom koji izvješćuju obavještavaju osobu o kojoj se izvješćuje da će informacije koje se na nju odnose prikupljati i dostavljati u skladu s ovim Zakonom te pružaju toj osobi sve informacije u skladu s propisima kojima se uređuje zaštita osobnih podataka prije izvješćivanja o tim informacijama kako bi osoba mogla ostvariti svoja prava na zaštitu podataka.
+(3) Operateri platforme koja izvješćuje obavještavaju prodavatelje o kojima se izvješćuje o prijavljenoj naknadi.«.
