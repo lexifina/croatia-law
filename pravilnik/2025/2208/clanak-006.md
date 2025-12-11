@@ -1,0 +1,3 @@
+# Članak 6.
+U članku 33. stavak 15. mijenja se i glasi:
+»(15) Ako korisnik u zahtjevu za isplatu uključi neprihvatljiv iznos za isplatu te ako udio zatraženog neprihvatljivog iznosa za isplatu u ukupnom iznosu za isplatu utvrđenom nakon administrativne kontrole zahtjeva za isplatu i/ili nakon kontrole na terenu premašuje 10 %, Agencija za plaćanja može primijeniti administrativnu kaznu. Administrativna kazna primjenjuje se u iznosu zatraženog neprihvatljivog iznosa za isplatu. Administrativna kazna se ne primjenjuje ako korisnik može dokazati Agenciji za plaćanja da nije kriv za uključivanje neprihvatljivog iznosa ili ako se Agencija za plaćanja na drugi način uvjeri da korisnik nije kriv.«.

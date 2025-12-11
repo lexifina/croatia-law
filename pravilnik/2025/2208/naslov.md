@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o provedbi intervencije 73.05. »Rekonstrukcija (konverzija) degradiranih šuma« iz Strateškog plana Zajedničke poljoprivredne politike Republike Hrvatske za razdoblje 2023. - 2027.
