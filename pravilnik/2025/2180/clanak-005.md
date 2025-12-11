@@ -1,0 +1,2 @@
+# Članak 5.
+Obiteljski medijator koji nije dostavio dokaze o provedenoj obiteljskoj medijaciji, sudjelovanju u metodskoj superviziji i edukacijama na način i u roku propisanom člankom 13. stavkom 6. Pravilnika o sadržaju i načinu vođenja Registra obiteljskih medijatora, uvjetima stručne osposobljenosti obiteljskih medijatora, prostornim uvjetima i načinu provođenja obiteljske medijacije (»Narodne novine«, broj 29/21), dužan je isto dostaviti najkasnije do 31. prosinca 2026. godine.
