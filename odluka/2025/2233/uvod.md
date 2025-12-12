@@ -1,0 +1,1 @@
+Na temelju članka 141. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 96/25.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 12. prosinca 2025. donijela
