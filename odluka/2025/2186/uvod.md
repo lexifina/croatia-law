@@ -1,0 +1,1 @@
+Na osnovi članka 14.b stavka 5. Zakona o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, broj 85/06., 150/08, 71/10, 53/20, 120/21 i 23/23) i članka 29. točke 14. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 74/25.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 36. sjednici održanoj 26. studenoga 2025. godine donijelo je
