@@ -1,3 +1,0 @@
-# Članak 4.
-(1) Uredbe koje je Vlada Republike Hrvatske donijela na temelju Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, br. 145/23.), koje vrijede na dan stupanja na snagu ovoga Zakona ostaju na snazi, a najdulje do 15. prosinca 2025.
-(2) Uredba o dopuni Zakona o šumama (»Narodne novine«, br. 101/23.) i Uredba o izmjeni Zakona o predškolskom odgoju i obrazovanju (»Narodne novine«, br. 101/23.), koje je Vlada Republike Hrvatske donijela na temelju Zakona o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora (»Narodne novine«, br. 149/22.) ostaju na snazi, a najdulje do 15. prosinca 2025.
