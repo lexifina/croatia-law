@@ -1,0 +1,3 @@
+O D L U K U
+I. Utvrđuje se da Općinski sud u S. nije udovoljio zahtjevima kontradiktornosti postupka i jednakosti oružja pri određivanju istražnog zatvora u predmetu broj: Kvm-30/2025, Km-6/2025, čime je maloljetnoj podnositeljici povrijedio prava zajamčena postupovnim aspektom članka 22. i člankom 24. stavkom 3. Ustava Republike Hrvatske ("Narodne novine" broj 56/90., 135/97., 113/00., 28/01., 76/10. i 5/14.).
+II. Utvrđuje se da je trajanjem žalbenog postupka protiv rješenja izvanraspravnog vijeća Općinskog suda u S. broj: Kvm-30/2025-7, Km-6/2025 od 22. siječnja 2025. maloljetnoj podnositeljici A. B. povrijeđeno pravo na djelotvornu sudsku kontrolu zakonitosti određivanja istražnog zatvora zajamčeno člankom 24. stavkom 3. Ustava.
