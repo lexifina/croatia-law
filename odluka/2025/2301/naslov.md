@@ -1,0 +1,1 @@
+Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2025. godinu radi osiguranja sredstava za sanaciju štete od potresa na području Grada Zagreba, Sisačko-moslavačke županije, Zagrebačke županije i Karlovačke županije

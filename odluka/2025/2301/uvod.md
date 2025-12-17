@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 4. Zakona o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije (»Narodne novine«, broj 21/23.), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2025. donijela
