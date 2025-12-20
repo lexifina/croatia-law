@@ -1,0 +1,12 @@
+## Temeljna načela natječaja
+# Članak 4.
+(1) Priprema i provedba natječaja temelji se na načelima ravnopravnosti i jednakog postupanja, anonimnosti, transparentnosti, tržišnog natjecanja i zabrane diskriminacije, razmjernog nagrađivanja, profesionalnosti i nepristranosti ocjenjivanja, javnosti te sprječavanju sukoba interesa.
+I. Načelo ravnopravnosti i jednakog postupanja postiže se osiguranjem jednakog pristupa informacijama svim natjecateljima kao i jednakom primjenom svih uvjeta provedbe natječaja na sve natjecatelje.
+II. Načelo anonimnosti postiže se osiguranjem obavezne tajnosti podataka o natjecateljima tijekom zaprimanja, pregleda i ocjene natječajnih rješenja.
+III. Načelo transparentnosti postiže se javno objavljenom, jasnom i nedvosmislenom natječajnom dokumentacijom. Svrha natječaja i namjere naručitelja moraju biti navedene u natječajnoj dokumentaciji. Postupak ocjenjivanja i odluke ocjenjivačkog suda moraju biti dokumentirani i javno dostupni od trenutka objave rezultata natječaja.
+IV. Načelo tržišnog natjecanja i zabrane diskriminacije osigurava se zabranom primjene ograničavajućih ili diskriminirajućih kriterija na natjecatelje.
+V. Načelo razmjernog nagrađivanja postiže se određivanjem primjerene novčane nagrade u ovisnosti o složenosti natječajnog zadatka s ciljem promicanja visoko kvalitetnih rješenja iz područja arhitekture i urbanizma koja vode prema visokoj kulturi izgrađenog prostora i očuvanju okoliša te doprinose stručnom usavršavanju arhitekata i inženjera u graditeljstvu.
+VI. Načelo profesionalnosti i nepristranosti ocjenjivanja osigurava se odabirom i neovisnim radom članova ocjenjivačkog suda čija je stručnost povezana s predmetom Natječaja.
+VII. Načelo javnosti osigurava se kroz mogućnost participacije zainteresirane javnosti u postupku izrade natječajnog programa, sudjelovanjem natjecatelja u natječaju, javno dostupne objave natječajne dokumentacije te javne objave i javnog predstavljanja rezultata natječaja.
+VIII. Načelo sprječavanja sukoba interesa osigurava se poduzimanjem prikladnih mjera za učinkovito sprječavanje, prepoznavanje i uklanjanje sukobe interesa u postupku pripreme i provedbe natječaja, a kako bi se izbjeglo narušavanje tržišnog natjecanja i osiguralo jednaki tretman svih natjecatelja.
+(2) Smatra se kako se u pripremi i provedbi natječaja poštuju temeljna načela ako se svi dionici natječaja ravnaju u skladu s odredbama ovog Pravilnika.
