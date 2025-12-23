@@ -1,0 +1,2 @@
+# Članak 19.
+Hrvatska agencija za nadzor financijskih usluga dužna je u roku od 30 dana od dana stupanja na snagu članaka 4., 6., 9. i 14. ovoga Zakona i članka 267. stavka 4. koji je dodan člankom 15. ovoga Zakona obavijestiti Europsko nadzorno tijelo za vrijednosne papire i tržišta kapitala da je, sukladno članku 6. ovoga Zakona, tijelo za prikupljanje kako je definirano u članku 2. točki 2. Uredbe (EU) 2023/2859.
