@@ -1,0 +1,3 @@
+## Pravni akt Europske unije
+# Članak 2.
+Ovim se Zakonom osigurava provedba Uredbe (EU) 2023/1115 Europskog parlamenta i Vijeća od 31. svibnja 2023. o stavljanju na raspolaganje na tržištu Unije i izvozu iz Unije određene robe i određenih proizvoda povezanih s deforestacijom i degradacijom šuma te o stavljanju izvan snage Uredbe (EU) br. 995/2010 (SL L 150, 9. 6. 2023.), kako je posljednji put izmijenjena Uredbom (EU) 2024/3234 Europskog parlamenta i Vijeća od 19. prosinca 2024. o izmjeni Uredbe (EU) 2023/1115 u pogledu odredaba koje se odnose na datum početka primjene (SL L, 2024/3234, 23. 12. 2024.) (u daljnjem tekstu: Uredba (EU) 2023/1115).

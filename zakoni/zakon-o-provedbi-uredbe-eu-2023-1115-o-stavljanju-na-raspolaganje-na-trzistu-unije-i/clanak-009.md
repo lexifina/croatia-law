@@ -1,0 +1,13 @@
+## III. PROVOĐENJE PROVJERA I NADZOR
+## Agencija
+# Članak 9.
+(1) Agencija provodi provjere u skladu s člankom 16. Uredbe (EU) 2023/1115.
+(2) Zaposlenik Agencije koji obavlja provjere ima status službene osobe za obavljanje svih potrebnih radnji u tom postupku sukladno ovom Zakonu.
+(3) O provedenoj provjeri zaposlenik Agencije sastavlja zapisnik o utvrđenim činjenicama.
+(4) Ako se u provedbi provjere podataka putem Informacijskog sustava iz članka 33. Uredbe (EU) 2023/1115 (u daljnjem tekstu: Informacijski sustav) kod nadziranog subjekta ne utvrde nepravilnosti, zaposlenik Agencije unosi u Informacijski sustav zapisnik o utvrđenim činjenicama i dostavlja ga nadziranom subjektu.
+(5) Ako se u provedbi provjere utvrdi da nadzirani subjekt u postupanju nije usklađen s Uredbom (EU) 2023/1115 ili da relevantni proizvod koji je stavljen na tržište ili koji je stavljen na raspolaganje na tržištu ili koji je izvezen nije usklađen, zaposlenik Agencije će zapisnik unijeti u Informacijski sustav te u roku od 24 sata obavijestiti nadzirani subjekt, inspekciju nadležnu prema relevantnoj robi i relevantnim proizvodima iz Priloga I. Uredbe (EU) 2023/1115 i Carinsku upravu radi daljnjeg postupanja u skladu s ovim Zakonom i propisima kojima se određuje nadležnost tih tijela.
+(6) Ako se na temelju podataka iz Informacijskog sustava ne može nedvojbeno utvrditi postoje li nepravilnosti, radi osiguravanja učinkovitog nadzora Agencija je ovlaštena provesti neposredan pregled i provjeru relevantnih proizvoda, dokumentacije i evidencije.
+(7) Tijekom provođenja provjera iz stavka 6. ovoga članka zaposlenik Agencije ima ovlasti zatražiti izjave, informacije, objašnjenja i druge podatke o činjenicama važnim za provođenje provjera.
+(8) U provedbi provjera iz stavka 6. ovoga članka zaposlenik Agencije ovlašten je fotografirati ili snimiti osobe, pregledati, fotografirati ili snimiti zgrade, objekte, poslovne prostorije i druge prostorije i prostore, luke, proizvode, uređaje, opremu, sredstva rada, vozila, poslovne knjige, registre, evidencije, audiozapise i videozapise, mrežne stranice, računalne programe, dokumente, ugovore, isprave i drugu poslovnu dokumentaciju koja omogućuje uvid u poslovanje pravne i fizičke osobe.
+(9) Zaposlenik Agencije ovlašten je u postupku provjera zatražiti i pregledati javnu ispravu na temelju koje se može provjeriti i utvrditi identitet osobe, a osoba koja podliježe provjeri i/ili sudionik zatečen prilikom provjere i/ili druga osoba zatečena na mjestu provjere, na njegov zahtjev, dužna mu je takvu ispravu predočiti.
+(10) Agencija surađuje i razmjenjuje informacije s nadležnim tijelima iz članka 4. ovoga Zakona u skladu s člankom 27. Uredbe (EU) 2023/1115.

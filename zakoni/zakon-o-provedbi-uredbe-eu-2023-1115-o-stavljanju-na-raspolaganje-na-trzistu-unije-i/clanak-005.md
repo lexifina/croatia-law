@@ -1,0 +1,23 @@
+## Poslovi i ovlasti Agencije
+# Članak 5.
+(1) Agencija obavlja sljedeće poslove:
+– preispituje i procjenjuje rizike u sustavu dužne pažnje koje izrađuju gospodarski subjekti ili ovlašteni zastupnici u skladu s člancima 10. i 11. Uredbe (EU) 2023/1115
+– pruža stručnu i tehničku pomoć gospodarskim subjektima, daje smjernice i osigurava razmjenu informacija u skladu s člankom 15. Uredbe (EU) 2023/1115
+– provodi provjere u skladu s člankom 16. Uredbe (EU) 2023/1115 i izrađuje prijedlog godišnjeg plana provjera u skladu s člankom 16. stavkom 5. Uredbe (EU) 2023/1115, koji sadrže nacionalne kriterije rizika u skladu s člankom 16. stavcima 3. i 4. Uredbe (EU) 2023/1115 u frekvencijama provjera u skladu s člankom 16. stavcima 8., 9. i 10. Uredbe (EU) 2023/1115
+– u skladu s člankom 17. Uredbe (EU) 2023/1115 utvrđuje situacije kada relevantni proizvodi predstavljaju tako visok rizik od neusklađenosti s člankom 3. Uredbe (EU) 2023/1115, evidentira takve situacije u informacijskom sustavu iz članka 33. Uredbe (EU) 2023/1115 te od Inspekcije i Carinske uprave traži provođenje hitnih privremenih mjera iz članka 23. Uredbe (EU) 2023/1115
+– u skladu s člancima 18. i 19. Uredbe (EU) 2023/1115 provodi provjere sustava dužne pažnje, postupaka za procjenu rizika i smanjenje rizika te provjere svih gospodarskih subjekata i trgovaca neovisno o tome jesu li malo i srednje poduzetništvo (MSP) ili nisu
+– surađuje s Inspekcijom i Carinskom upravom, u skladu s člancima 21. i 27. Uredbe (EU) 2023/1115 surađuje i s nadležnim tijelima drugih država članica Europske unije i Europskom komisijom, kao i s upravnim tijelima trećih zemalja povezanih s poslovima ključnim za provedbu Uredbe (EU) 2023/1115
+– u skladu s člankom 22. Uredbe (EU) 2023/1115 koordinira izradu nacionalnog izvješća nadležnih tijela iz članka 4. ovoga Zakona te najkasnije do 30. travnja svake godine izvješćuje Europsku komisiju i javnost o primjeni Uredbe (EU) 2023/1115 za prethodnu kalendarsku godinu
+– određuje provedbu korektivne mjere gospodarskim subjektima ili trgovcima koji nisu usklađeni s Uredbom (EU) 2023/1115, sukladno članku 24. stavku 2. točki (a) Uredbe (EU) 2023/1115
+– vodi i javno objavljuje na svojim mrežnim stranicama popis s gospodarskim subjektima i trgovcima u skladu s člankom 25. stavkom 2. točkama (d) i (f) Uredbe (EU) 2023/1115 te odgovara za točnost popisa koji sadrži opće podatke gospodarskih subjekata i trgovaca (osobni identifikacijski broj (OIB), matični broj, godina osnivanja, ime osnivača, adresa, djelatnost i podaci za kontakt), opis načina i datum kršenja Uredbe (EU) 2023/1115
+– obavještava Europsku komisiju o pravomoćnim presudama protiv pravnih osoba i sankcijama sukladno članku 25. stavku 3. Uredbe (EU) br. 2023/1115
+– obavještava Carinsku upravu o potrebi poduzimanja mjera u skladu s člankom 26. stavcima 7. i 9. Uredbe (EU) 2023/1115
+– koordinira i provodi suradnju i razmjenu informacija među nadležnim tijelima u skladu s člankom 27. Uredbe (EU) 2023/1115
+– predstavlja nacionalnu kontakt točku i pruža tehničku i drugu pomoć gospodarskim subjektima i trgovcima, daje upute i podršku na nacionalnoj razini gospodarskim subjektima i trgovcima vezano za informacijski sustav iz članka 33. Uredbe (EU) 2023/1115
+– predstavlja Republiku Hrvatsku prilikom međunarodne suradnje vezano za primjenu ovoga Zakona, uključujući i suradnju u skladu s člankom 33. Uredbe (EU) 2023/1115
+– u suradnji s Europskom komisijom, u skladu s odrednicama članka 29. Uredbe (EU) 2023/1115, procjenjuje i utvrđuje postoje li u Republici Hrvatskoj deforestrirane/iskrčene površine koje su prenamijenjene u poljoprivredne ili uzgojne površine
+– ima ovlasti traženja povrata ukupnih troškova svojih aktivnosti povezanih sa slučajevima neusklađenosti u skladu s člankom 20. Uredbe (EU) 2023/1115
+– procjenjuje potkrijepljene sumnje fizičkih ili pravnih osoba u skladu s člankom 31. Uredbe (EU) 2023/1115
+– surađuje s ostalim javnopravnim tijelima u obavljanju poslova vezanih uz provedbu Uredbe (EU) 2023/1115 te osigurava zaštitu podataka i čuvanje poslovne tajne u skladu s propisima kojima se uređuje zaštita podataka i čuvanje poslovne tajne.
+(2) Godišnji plan provjera iz stavka 1. podstavka 3. ovoga članka odlukom donosi Upravno vijeće Agencije, uz prethodno mišljenje ministra nadležnog za poslove zaštite okoliša i ministra nadležnog za poljoprivredu i šumarstvo do kraja tekuće godine za iduću godinu, a objavljuje se na mrežnim stranicama Agencije.
+(3) Sukladno članku 16. točki 7. Uredbe (EU) 2023/1115 godišnji plan iz stavka 2. ovoga članka Agencija dostavlja Europskoj komisiji u roku od 30 dana od dana njegova donošenja.
