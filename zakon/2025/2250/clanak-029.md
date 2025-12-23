@@ -1,0 +1,2 @@
+# Članak 29.
+Danom stupanja na snagu ovoga Zakona prestaje važiti Uredba o utvrđivanju statusa bivših nositelja stanarskih prava i članova njihovih obitelji te uvjetima i postupku njihovog stambenog zbrinjavanja (»Narodne novine«, br. 133/13.) i Uredba o postupku i uvjetima ostvarivanja prava u provedbi Programa pomoći Vlade Republike Hrvatske za povratak Hrvata u Bosnu i Hercegovinu (»Narodne novine«, br. 47/14.).

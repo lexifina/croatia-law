@@ -1,0 +1,11 @@
+# Članak 14.
+Članak 31. mijenja se i glasi:
+»(1) Korisnik s kojim se sukladno ovom Zakonu sklapa ugovor o darovanju ili kupoprodaji stambene jedinice ne smije istu otuđiti u roku od pet godina od sklapanja ugovora bez suglasnosti Ministarstva.
+(2) Ugovor iz stavka 1. ovoga članka obvezno mora sadržavati odredbu o zabrani otuđenja stambene jedinice u roku od pet godina od sklapanja ugovora.
+(3) U zemljišnu knjigu se istodobno s upisom prava vlasništva na temelju ugovora upisuje i zabilježba zabrane otuđenja.
+(4) U slučaju obročne otplate i prodaje neuseljivog stana ugovor o prodaji mora sadržavati i odredbu o založnom pravu na nekretnini koja je predmet prodaje te se istodobno s upisom prava vlasništva na temelju ugovora upisuje i založno pravo za iznos kupoprodajne cijene.
+(5) Založno pravo na nekretnini koja je predmet stambenog zbrinjavanja iz članka 7. stavka 1. točke 6. ovoga Zakona upisuje se u iznosu početne cijene stana bez popusta.
+(6) Nakon isteka roka zabrane otuđenja sud će na prijedlog vlasnika brisati zabilježbu zabrane otuđenja.
+(7) Suglasnost za brisanje zabilježbe zabrane otuđenja, kao i suglasnost za otuđenje nekretnine prije isteka roka iz stavka 1. ovoga članka Ministarstvo može dati u iznimnim situacijama kada zbog dobi i/ili zdravstvenog stanja ili nastanka ili progresije invaliditeta, povećanja obitelji rođenjem ili usvajanjem djece ili drugog opravdanog razloga stanovanje u određenoj stambenoj jedinici više ne zadovoljava stambene ili druge egzistencijalne potrebe vlasnika.
+(8) Korisnik koji otuđi nekretninu protivno odredbi stavka 1. ovoga članka dužan je u državni proračun uplatiti razliku između kupoprodajne cijene kojom je stekao vlasništvo i tržišne cijene nekretnine, a prilikom darovanja tržišnu vrijednost darovane nekretnine, u oba slučaja sa zakonskom zateznom kamatom koja teče od stjecanja nekretnine do isplate razlike u cijeni odnosno do isplate vrijednosti nekretnine.
+(9) Predmetom prijenosa vlasništva korisniku stambenog zbrinjavanja može biti i zemljište veće od zemljišta za redovitu upotrebu obiteljske kuće ako se ta kuća te pomoćne, gospodarske i druge građevine koje služe upotrebi nalaze na takvom zemljištu, a najviše do 2000 m².«.
