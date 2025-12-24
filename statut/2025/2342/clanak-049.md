@@ -1,0 +1,3 @@
+# Članak 49.
+(1) U područnoj ustrojstvenoj jedinici obavljanje poslova organizira, kontrolira i vodi rukovoditelj područne ustrojstvene jedinice (predstojnik Područne službe u Zagrebu, upravitelj samostalne ustrojstvene jedinice 1 u područnoj službi i predstojnik područnog ureda) u sklopu prava i nadležnosti, utvrđenih ovim Statutom i općim aktima Zavoda iz članka 14. ovoga Statuta.
+(2) Rukovoditelja područne ustrojstvene jedinice u slučaju njegove nenazočnosti ili spriječenosti, sa svim ovlastima i odgovornostima u obavljanju njegovih poslova, zamjenjuje radnik kojeg ovlasti ravnatelj Zavoda.

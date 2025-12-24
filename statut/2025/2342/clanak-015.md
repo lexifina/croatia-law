@@ -1,0 +1,33 @@
+## Poslovi ustrojstvenih jedinica Zavoda
+# Članak 15.
+U Središnjoj službi Zavoda obavljaju se sljedeći poslovi:
+- koordinacija i nadzor u primjeni Zakona, Statuta i drugih općih akata Zavoda te uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- utvrđivanje i provedba politike razvoja i unapređenja mirovinskog osiguranja predlaganjem nadležnom ministarstvu potrebnih mjera i iniciranje donošenja odgovarajućih propisa
+- poslovi tijela za vezu primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti na području mirovinskog osiguranja, doplatka za djecu i određivanja zakonodavstva države članice Europske unije koje se na osiguranika primjenjuje
+- sudjelovanje u radu izaslanstava u međudržavnim pregovorima i pregovorima s inozemnim nositeljima socijalnog osiguranja u vezi s provedbom međunarodnih ugovora o socijalnom osiguranju i sklapanjem novih ugovora iz toga područja
+- pružanje međunarodne pravne pomoći u provedbi uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- izrada prijedloga općih akata za provedbu mirovinskog osiguranja i drugih općih akata Zavoda
+- rješavanje u drugom stupnju o pravu na mirovinsko osiguranje, pravima i obvezama iz mirovinskog osiguranja, pravu na doplatak za djecu i pravu na nacionalnu naknadu za starije osobe
+- rješavanje u drugom stupnju o pravima iz mirovinskog osiguranja i doplatka za djecu primjenom međunarodnih ugovora o socijalnom osiguranju
+- rješavanje u drugom stupnju o pravima primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti na području mirovinskog osiguranja, doplatka za djecu i zakonodavstva države članice Europske unije koje se primjenjuje na osiguranika
+- rješavanje u drugom stupnju o prijenosu mirovinskih prava u sustav mirovinskog osiguranja Europske unije stečenih u sustavu obveznog mirovinskog osiguranja u Republici Hrvatskoj prije stupanja u službu institucije, tijela, ureda ili agencije Europske unije, kao i o prijenosu, odnosno prihvatu mirovinskih prava stečenih u sustavu mirovinskog osiguranja Europske unije u sustav obveznog mirovinskog osiguranja u Republici Hrvatskoj, nakon prestanka službe u instituciji, tijelu, uredu ili agenciji Europske unije
+- revizija rješenja o svojstvu osiguranika i mirovinskom stažu
+- poslovi u vezi s upravnim sporovima
+- poslovi nadzora, kontrole i instruktaže
+- poslovi unutarnje revizije
+- poslovi razvoja i koordinacije sustava unutarnjih kontrola
+- zastupanje Zavoda na sudu, pred državnim tijelima i pravnim osobama s javnim ovlastima
+- poslovi u vezi s naknadom štete
+- poslovi u vezi s povratom nepripadne isplate iz mirovinskog osiguranja, doplatka za djecu i nacionalne naknade za starije osobe
+- poslovi u vezi s naplatom potraživanja između država primjenom uredbi Europske unije o koordinaciji sustava socijalne sigurnosti i međunarodnih ugovora o socijalnom osiguranju
+- upravljanje prihodima mirovinskog osiguranja
+- financijsko poslovanje koje obuhvaća izradu prijedloga financijskog plana, izvršavanje financijskog plana, primjenu proračunskog računovodstva te izradu financijskih i drugih izvješća
+- ekonomsko-financijski poslovi vezani uz obračun i isplatu mirovinskih primanja, doplatka za djecu i nacionalne naknade za starije osobe
+- upravljanje i raspolaganje imovinom Zavoda te obavljanje drugih imovinskopravnih poslova
+- poslovi razvoja i osiguranja cjelovite informatičke podrške poslovnom sustavu Zavoda i razmjene podataka s drugim sustavima
+- poslovi upravljanja i razvoja ljudskih potencijala
+- priprema sjednica tijela Zavoda, poslovi internog informiranja u Zavodu, davanje službenih priopćenja i komunikacija s medijima, poslovi korisničkog infocentra te ostali poslovi predstavljanja poslovanja Zavoda u javnosti
+- provedba postupaka javne nabave
+- poslovi u vezi s ostvarivanjem prava na pristup informacijama, zaštitom osobnih podatka i informacijskom sigurnosti
+- administrativno tehnički i drugi poslovi utvrđeni Zakonom i drugim propisima, Statutom i općim aktima iz članka 14. ovoga Statuta
+- ostali poslovi u skladu s obvezama utvrđenim propisima.

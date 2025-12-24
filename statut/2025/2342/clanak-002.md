@@ -1,0 +1,2 @@
+# Članak 2.
+Zavod je osnovan Zakonom o mirovinskom osiguranju (»Narodne novine«, broj 102/98) radi ostvarivanja prava radnika, poljoprivrednika, obrtnika i drugih osiguranih osoba iz obveznog mirovinskog osiguranja na temelju generacijske solidarnosti te je pravni sljednik Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske, Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske i Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske.

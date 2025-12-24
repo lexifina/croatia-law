@@ -1,0 +1,1 @@
+Na temelju članka 141. Zakona o mirovinskom osiguranju (»Narodne novine«, broj 96/25) i članka 54. stavka 1. Zakona o ustanovama (»Narodne novine«, broj 76/93, 29/97, 47/99, 35/08, 127/19 i 151/22), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 19. studenoga 2025., donijelo je

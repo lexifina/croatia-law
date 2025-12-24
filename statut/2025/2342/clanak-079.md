@@ -1,0 +1,2 @@
+# Članak 79.
+Profesionalnom tajnom Zavoda smatraju se osobni podaci radnika Zavoda, osiguranika i korisnika prava iz mirovinskog osiguranja, doplatka za djecu, nacionalne naknade za starije osobe i drugih osoba koje saznaju radnici Zavoda u obavljanju svoga zanimanja i svojih poslova ili koje saznaju članovi Upravnog vijeća i drugih tijela Zavoda, a čije bi neovlašteno otkrivanje bilo protivno propisima o zaštiti osobnih podataka.
