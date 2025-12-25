@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o nadzornim izvještajima i informacijama o pitanjima bitnim za obavljanje nadzora ili za praćenje usklađenosti obveznika u smislu Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine«, broj 76/23) u Upitniku za procjenu rizika, koji čini PRILOG 1. uz Pravilnik, obrazac - Upitnik za procjenu rizika - Pitanja za obveznike zamjenjuje se novim obrascem s istim nazivom.

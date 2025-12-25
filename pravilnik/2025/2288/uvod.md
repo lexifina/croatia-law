@@ -1,0 +1,1 @@
+Na temelju članka 67. stavka 7. Zakona o sprječavanju pranja novca i financiranja terorizma (»Narodne novine« broj 108/17, 39/19, 151/22), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. prosinca 2025. godine donosi
