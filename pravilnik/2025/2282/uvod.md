@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 9. i članka 53.a stavka 9. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine« broj 19/14, 29/18, 115/18, 156/23 i 52/25, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. prosinca 2025. godine donosi
