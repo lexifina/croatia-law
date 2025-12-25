@@ -1,0 +1,2 @@
+# Članak 6.
+Svi postupci povodom zahtjeva za izdavanje odobrenja za obavljanje funkcije člana uprave Društva odnosno povodom zahtjeva za izdavanje odobrenja za obavljanje funkcije člana nadzornog odbora Društva, a koji nisu dovršeni do stupanja na snagu ovog Pravilnika, dovršit će se u skladu s odredbama Pravilnika o uvjetima za obavljanje funkcije člana uprave i člana nadzornog odbora mirovinskog osiguravajućeg društva (»Narodne novine« broj 121/19, 121/24).
