@@ -1,0 +1,1 @@
+Na temelju članka 49.b stavka 11. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« br. 22/14, 29/18, 115/18, 156/23 i 52/25), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. prosinca 2025. godine donosi
