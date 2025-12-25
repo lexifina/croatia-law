@@ -1,0 +1,9 @@
+# Članak 1.
+U Pravilniku o uvjetima za izdavanje odobrenja za rad i odobrenja za stjecanje kvalificiranog udjela u mirovinskom osiguravajućem društvu (»Narodne novine« br. 121/19) u članku 3. stavku 1. točka 5. briše se.
+Dosadašnje točke 6. do 12. sada postaju točke 5. do 11.
+Dosadašnja točka 7. koja sada postaje točka 6. mijenja se i glasi:
+»6. projekcije izvještaja i izračuna iz članka 16. stavka 2. točaka 3., 4. i 5. Zakona za sljedećih pet poslovnih godina, koje trebaju biti izrađene na propisanim obrascima u skladu s pravilnikom koji propisuje strukturu i sadržaj financijskih izvještaja Društva i pravilnikom koji propisuje adekvatnost kapitala Društva i dostavljene uz program u pisanom obliku i u elektroničkom obliku u skladu s tehničkim uputama koje će Hanfa objaviti na svojim mrežnim stranicama,«.
+Dosadašnje točka 9. koja sada postaje točka 8. mijenja se i glasi:
+»8. plan izdvajanja poslova ili funkcija na pružatelja usluge u smislu članka 63. Zakona, što ne isključuje obvezu Društva podnijeti Hanfi zahtjev za izdavanje odobrenja za izdvajanje poslova ili funkcija sa svim podacima i dokumentacijom propisanom člankom 64. Zakona i pravilnikom Hanfe iz stavka 5. istoga članka nakon ishođenja odobrenja za rad,«.
+Stavak 2. mijenja se i glasi:
+»(2) Namjeravani stjecatelj kvalificiranog udjela u Društvu podnosi Hanfi zahtjev za izdavanje odobrenja za stjecanje kvalificiranog udjela u skladu s člankom 5. ovoga Pravilnika, a zahtjev za izdavanje odobrenja za obavljanje funkcije člana uprave i zahtjev za izdavanje odobrenja za obavljanje funkcije člana nadzornog odbora podnose se Hanfi u skladu s pravilnikom Hanfe koji propisuje uvjete za obavljanje funkcije člana uprave i člana nadzornog odbora Društva, jer o navedenim zahtjevima Hanfa može istodobno odlučivati pri odlučivanju o zahtjevu za izdavanje odobrenja za rad Društvu.«.

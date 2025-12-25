@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 4., članka 26. stavka 8. i članka 35. stavka 3. Zakona o mirovinskim osiguravajućim društvima (»Narodne novine« br. 22/14, 29/18, 115/18, 156/23, 52/25), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. prosinca 2025. godine donijela je

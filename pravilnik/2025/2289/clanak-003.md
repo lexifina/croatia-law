@@ -1,0 +1,2 @@
+# Članak 3.
+Svi postupci povodom zahtjeva za izdavanje odobrenja za rad Društva odnosno zahtjeva za izdavanje odobrenja za izravno ili neizravno stjecanje ili povećanje kvalificiranog udjela u Društvu, a koji nisu dovršeni do stupanja na snagu ovog Pravilnika, dovršit će se u skladu s odredbama Pravilnika o uvjetima za izdavanje odobrenja za rad i odobrenja za stjecanje kvalificiranog udjela u mirovinskom osiguravajućem društvu (»Narodne novine« br. 121/19).
