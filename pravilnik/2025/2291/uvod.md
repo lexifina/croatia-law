@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 20., članka 25. stavka 5., članka 26. stavka 7. i članka 58. stavka 4. Zakona o sanaciji kreditnih institucija i investicijskih društava (»Narodne novine«, 146/20, 21/22, 27/24 i 145/24), Hrvatska agencija za nadzor financijskih usluga, na sjednici Upravnog vijeća održanoj 9. prosinca 2025. godine donosi
