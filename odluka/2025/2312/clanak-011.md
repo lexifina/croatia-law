@@ -1,0 +1,2 @@
+# Članak 11.
+Stupanjem na snagu ove Odluke, prestaje važiti Odluka o naknadi za razvoj, Gospić, (»Narodne novine« broj 108/2023), Odluka o naknadi za razvoj, Brinje (»Narodne novine« broj 101/2021), Odluka o naknadi za razvoj, Korenica, (»Narodne novine« broj 85/2022) Odluka o naknadi za razvoj, klasa: 325-03/13-01/01, urbroj: 2125/12-01-13-01 od 16. 9. 2013., Udbina, Odluka o naknadi za razvoj, Vrhovine (»Narodne novine« broj 78/2022).
