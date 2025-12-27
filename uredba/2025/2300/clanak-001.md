@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom utvrđuje se visina i namjena naknade, način financiranja jedinice lokalne i područne (regionalne) samouprave na čijem području se uspostavljaju ili nalaze građevine za zbrinjavanje radioaktivnog otpada koje su vlasništvo Fonda za financiranje razgradnje i zbrinjavanja radioaktivnog otpada i istrošenoga nuklearnog goriva Nuklearne elektrane Krško te koje predstavljaju Centar za zbrinjavanje radioaktivnog otpada, ustrojstvenu jedinicu Fonda.

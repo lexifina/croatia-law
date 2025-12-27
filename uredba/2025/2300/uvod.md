@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 7. Zakona o Fondu za financiranje razgradnje i zbrinjavanja radioaktivnog otpada i istrošenoga nuklearnog goriva Nuklearne elektrane Krško (»Narodne novine«, br. 107/07. i 21/22.), Vlada Republike Hrvatske je na sjednici održanoj 17. prosinca 2025. donijela
