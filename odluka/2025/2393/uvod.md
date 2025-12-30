@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 1. Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2025. godinu (»Narodne novine«, br. 149/24., 134/25. i 136/25.), a u vezi s člankom 60. Zakona o proračunu (»Narodne novine«, broj 144/21.), Vlada Republike Hrvatske je na sjednici održanoj 30. prosinca 2025. donijela
