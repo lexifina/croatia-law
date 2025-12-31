@@ -1,0 +1,4 @@
+## VI. ZAVRŠNA ODREDBA
+## Stupanje na snagu Pravilnika
+# Članak 14.
+Ovaj Pravilnik stupa na snagu prvoga dana od dana objave u »Narodnim novinama«.
