@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 5. i članka 136.a stavka 9. Zakona o alternativnim investicijskim fondovima (»Narodne novine« broj 21/18, 126/19, 110/21, 83/23 i 152/24; dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 18. prosinca 2025. godine donosi

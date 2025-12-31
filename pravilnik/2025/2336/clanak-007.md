@@ -1,0 +1,4 @@
+## NADZORNI IZVJEŠTAJI PODRUŽNICA
+# Članak 7.
+(1) Podružnica UAIF-a iz treće države dužna je sastaviti financijske izvještaje koji su propisani u pravilniku koji regulira sastavljanje, dostavu i objavljivanje polugodišnjih i godišnjih financijskih izvještaja UAIF-a u dijelovima koji su primjenjivi na istu, s time da je obvezna minimalno dostaviti Hanfi podatke o ostvarenim prihodima podružnice od upravljanja AIF-ovima (naknada za upravljanje, naknada za izlaz, naknada za uspješnost) i rashode podružnice od upravljanja AIF-ovima (transakcijski troškovi, troškovi promidžbe, troškovi prodajnih zastupnika te ostali troškovi od upravljanja fondom).
+(2) Podaci iz stavka 1. ovoga članka dostavljaju se na način i u rokovima kako je propisano pravilnikom koji regulira sastavljanje, dostavu i objavljivanje godišnjih financijskih izvještaja UAIF-a.
