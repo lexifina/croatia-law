@@ -1,0 +1,11 @@
+# Članak 3.
+U članku 47. stavci 2., 3. i 4. mijenjaju se i glase:
+»(2) Poduzetnik iz stavka 1. ovoga članka koji je obveznik sastavljanja godišnjeg izvještaja u skladu s člankom 21. ovoga Zakona dostavlja Financijskoj agenciji radi javne objave potpuni i točan:
+1. godišnji izvještaj, revizorski izvještaj, ako njegovi godišnji financijski izvještaji podliježu zakonskoj reviziji u skladu s člankom 20. ovoga Zakona, te izvještaj o provjeri izvještaja o održivosti, ako je obveznik izvještavanja o održivosti u skladu s člankom 29. ovoga Zakona
+2. konsolidirani godišnji izvještaj, revizorski izvještaj, ako njegovi godišnji konsolidirani financijski izvještaji podliježu zakonskoj reviziji u skladu s člankom 20. ovoga Zakona i ako je obveznik konsolidacije u skladu s odredbama ovoga Zakona, te izvještaj o provjeri izvještaja o održivosti, ako je obveznik izvještavanja o održivosti na konsolidiranoj osnovi u skladu s člankom 32. ovoga Zakona.
+(3) Poduzetnik iz stavka 1. ovoga članka koji nije obveznik sastavljanja godišnjeg izvještaja u skladu s člankom 21. ovoga Zakona dostavlja Financijskoj agenciji radi javne objave potpune i točne:
+1. godišnje financijske izvještaje i revizorski izvještaj, ako njegovi godišnji financijski izvještaji podliježu zakonskoj reviziji u skladu s člankom 20. ovoga Zakona
+2. godišnje konsolidirane financijske izvještaje i revizorski izvještaj, ako njegovi godišnji financijski izvještaji podliježu zakonskoj reviziji u skladu s člankom 20. ovoga Zakona i ako je obveznik konsolidacije u skladu s odredbama ovoga Zakona.
+(4) Poduzetnik iz stavka 1. ovoga članka, uz izvještaje iz stavaka 2. i 3. ovoga članka, dužan je Financijskoj agenciji dostaviti i odluku o utvrđivanju godišnjih financijskih izvještaja te odluku o upotrebi dobiti ili pokriću gubitka, s time da se, u slučaju da odluka o upotrebi dobiti ili pokriću gubitka nije usvojena do isteka roka za javnu objavu iz stavka 5. ovoga članka, dostavlja prijedlog odluke o upotrebi dobiti ili pokriću gubitka u roku za javnu objavu, a usvojenu odluku po održavanju glavne skupštine.«.
+U stavku 10. točka 2. mijenja se i glasi:
+»2. godišnje financijske izvještaje i revizorski izvještaj, ako njegovi godišnji financijski izvještaji podliježu zakonskoj reviziji u skladu s člankom 20. ovoga Zakona, osim ako drugim propisima nije određeno drukčije.«.
