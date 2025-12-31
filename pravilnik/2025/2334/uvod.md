@@ -1,0 +1,1 @@
+Na temelju članka 20. stavka 6. Zakona o rodiljnim i roditeljskim potporama (»Narodne novine«, br. 152/22 i 34/25) ministrica zdravstva uz prethodnu suglasnost ministra nadležnog za demografiju, donosi
