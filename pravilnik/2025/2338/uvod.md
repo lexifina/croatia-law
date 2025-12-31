@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 7., članka 65. stavka 2., članka 66., članka 217. stavka 3. i članka 253. stavka 9. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016, 126/2019, 110/21, 76/22 i 152/24), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 18. prosinca 2025. godine donijela je
