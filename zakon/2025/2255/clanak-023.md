@@ -1,0 +1,4 @@
+## Postupci u tijeku
+# Članak 23.
+(1) Ovlaštenim revizorima kojima je neprekinuto trogodišnje razdoblje stalnog stručnog usavršavanja započelo prema odredbama Zakona o reviziji (»Narodne novine«, br. 127/17., 27/24., 85/24. i 145/24.) obveza stalnog stručnog usavršavanja dovršit će se prema odredbama ovoga Zakona.
+(2) Iznimno od stavka 1. ovoga članka, na ovlaštene revizore kojima je neprekinuto trogodišnje razdoblje stalnog stručnog usavršavanja započelo prema odredbama Zakona o reviziji (»Narodne novine«, br. 127/17., 27/24., 85/24. i 145/24.), u pogledu ostvarivanja 60 sati stalnog stručnog usavršavanja na trogodišnjoj razini iz osnovnih aktivnosti, primjenjuju se odredbe Zakona o reviziji (»Narodne novine«, br. 127/17., 27/24., 85/24. i 145/24.) i Pravilnika o stalnom stručnom usavršavanju ovlaštenih revizora (»Narodne novine«, br. 104/18. i 144/20.).
