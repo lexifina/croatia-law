@@ -1,0 +1,1 @@
+Na temelju članka 19.a Zakona o porezu na dohodak (»Narodne novine«, broj 115/2016, 106/2018, 121/2019, 32/2020, 138/2020, 151/2022, 114/23 i 152/24) i članka 31. Statuta Općine Trnovec Bartolovečki (»Službeni vjesnik Varaždinske županije« broj 15/21. i 88/25), Općinsko vijeće Općine Trnovec Bartolovečki na 3. sjednici održanoj 20. studenoga 2025. godine donosi
