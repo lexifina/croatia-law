@@ -1,0 +1,22 @@
+## Dokaz pravnog interesa
+# Članak 65.
+(1) Dokazom pravnog interesa za izdavanje građevinske dozvole smatra se:
+1. izvadak iz zemljišne knjige iz kojeg je vidljivo da je investitor vlasnik ili nositelj prava građenja na građevnoj čestici ili građevini na kojoj se namjerava graditi
+2. predugovor, ugovor ili ugovor sklopljen pod uvjetom na temelju kojeg je investitor stekao ili će steći pravo vlasništva ili pravo građenja, ugovor o uporabi sklopljen sukladno zakonu kojim se propisuje upravljanje i raspolaganje nekretninama u vlasništvu Republike Hrvatske
+3. odluka nadležnog tijela na temelju koje je investitor stekao pravo vlasništva ili pravo građenja
+4. ugovor o ortaštvu sklopljen s vlasnikom nekretnine čiji je cilj zajedničko građenje
+5. suglasnost suvlasnika zemljišta odnosno vlasnika postojeće građevine u slučaju rekonstrukcije te građevine, ako posebnim zakonom nije drukčije određeno
+6. suglasnost tijela nadležnog za upravljanje nekretninama u vlasništvu Republike Hrvatske odnosno u vlasništvu jedinice lokalne i područne (regionalne) samouprave ili
+7. suglasnost fiducijarnog vlasnika dana dotadašnjem vlasniku nekretnine koji je investitor.
+(2) Dokazom pravnog interesa za izdavanje građevinske dozvole u pogledu obuhvata zahvata u prostoru smatra se:
+1. izvadak, ugovor, odluka ili suglasnost iz stavka 1. ovoga članka
+2. izvadak iz zemljišne knjige iz kojeg je vidljivo da je investitor nositelj prava služnosti
+3. predugovor, ugovor ili ugovor sklopljen pod uvjetom na temelju kojeg je investitor stekao ili će steći pravo služnosti, zakupa ili korištenja
+4. odluka nadležne državne vlasti na temelju koje je investitor stekao pravo služnosti ili
+5. suglasnost tijela nadležnog za upravljanje nekretninama u vlasništvu Republike Hrvatske odnosno u vlasništvu jedinice lokalne i područne (regionalne) samouprave.
+(3) Potpis vlasnika nekretnine odnosno nositelja prava građenja na predugovoru, ugovoru odnosno suglasnosti iz stavaka 1. i 2. ovoga članka mora biti ovjeren od javnog bilježnika, osim ako je vlasnik tijelo državne uprave, drugo državno tijelo, tijelo jedinice lokalne i/ili područne (regionalne) samouprave, pravna osoba kojoj je osnivač Republika Hrvatska ili jedinica lokalne i/ili područne (regionalne) samouprave.
+(4) Dokazom pravnog interesa za izdavanje građevinske dozvole u pogledu nekretnine na kojoj stjecanje stvarnih prava nije moguće ili se prema posebnom zakonu pravo građenja stječe koncesijom smatra se ugovor o koncesiji kojim se stječe pravo građenja ili drugi akt određen posebnim zakonom, a jedinica lokalne samouprave svoj pravni interes za građenje na pomorskom dobru dokazuje planom upravljanja pomorskim dobrom za tekuću godinu ili drugim aktom određenim posebnim zakonom.
+(5) Dokazom pravnog interesa za izdavanje građevinske dozvole za građevinu za koju se prema posebnom zakonu izdaje lokacijska dozvola u slučajevima iz stavaka 1. i 2. ovoga članka smatra se i odluka Vlade Republike Hrvatske o utvrđivanju interesa Republike Hrvatske ili poziv na odredbu posebnog zakona kojom je utvrđen interes Republike Hrvatske za građenje građevine za koju je zatražena građevinska dozvola, ako je investitor podnio zahtjev za izvlaštenje ili ako je investitor podnio zahtjev za rješavanje imovinskopravnih odnosa na zemljištu, građevinama ili drugim nekretninama u vlasništvu Republike Hrvatske, jedinice područne (regionalne) ili lokalne samouprave.
+(6) Iznimno od stavka 5. ovoga članka, za građevine linijske infrastrukture investitor nije dužan dostaviti dokaz da je podnio zahtjev za rješavanje imovinskopravnih odnosa za građenje na zemljištu u vlasništvu Republike Hrvatske ako nakon njezine izgradnje zemljište i dalje ostaje u vlasništvu Republike Hrvatske, osim u slučaju potrebe osnivanja prava služnosti na zemljištu u vlasništvu Republike Hrvatske u korist druge pravne ili fizičke osobe.
+(7) Dokazom pravnog interesa za izdavanje građevinske dozvole za građenje građevine čije je građenje u interesu Republike Hrvatske na javnoj cesti, nerazvrstanoj cesti, željezničkoj infrastrukturi i javnom vodnom dobru smatra se suglasnost tijela koje upravlja tom cestom, željezničkom infrastrukturom ili javnim vodnim dobrom.
+(8) Dokazom pravnog interesa za izdavanje građevinske dozvole za rekonstrukciju infrastrukturnih građevina za koje ne postoji obveza formiranja građevne čestice sukladno posebnom propisu, a čije je građenje u interesu Republike Hrvatske i za koje je investitor ishodio odgovarajući akt za građenje i uporabu, smatra se izjava investitora o upravljanju tom građevinom.

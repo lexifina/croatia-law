@@ -1,0 +1,5 @@
+## Stručni nadzor i postupanje s građevnim otpadom prilikom uklanjanja građevine
+# Članak 111.
+(1) Prilikom uklanjanja građevina ne smije se utjecati na stabilnost okolnog i drugog zemljišta i/ili ispunjavanje temeljnih zahtjeva drugih građevina niti ugroziti život i zdravlje ljudi ili drugi javni interes.
+(2) Stručni nadzor ne provodi se prilikom uklanjanja građevina za manje složene zgrade i građevine koje se grade bez građevinske dozvole ili građevina koje uklanja građevinska inspekcija na temelju rješenja kojim je naređeno uklanjanje građevine, a prilikom uklanjanja drugih građevina ili njihovih dijelova stručni nadzor provodi se samo u odnosu na mehaničku otpornost i stabilnost te zaštitu od štetnih učinaka na higijenu i zdravlje povezanih s građevinom.
+(3) S građevnim otpadom nastalim uklanjanjem građevine mora se postupati sukladno odredbama ovoga Zakona i propisima kojima se uređuje gospodarenje otpadom, a izvođač je dužan osigurati dokaze o postupanju s građevinskim otpadom nastalim uklanjanjem građevine u skladu s propisom kojim se uređuje gospodarenje otpadom.

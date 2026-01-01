@@ -1,0 +1,4 @@
+## Upoznavanje javnosti i zainteresirane javnosti
+# Članak 78.
+(1) Građevinska dozvola za građenje građevine za koju su utvrđene mjere u postupku procjene utjecaja na okoliš, postupku ocjene o potrebi procjene utjecaja na okoliš odnosno u postupku ocjene prihvatljivosti zahvata za ekološku mrežu objavljuje se na elektroničkoj oglasnoj ploči najmanje 30 dana radi upoznavanja javnosti i zainteresirane javnosti zajedno sa sažetkom ispunjavanja mjera koje se utvrđuju u postupku procjene utjecaja na okoliš, postupku ocjene o potrebi procjene utjecaja na okoliš odnosno u postupku ocjene prihvatljivosti zahvata za ekološku mrežu koji je priložen uz zahtjev za izdavanje građevinske dozvole.
+(2) Na projektnu dokumentaciju koja je sastavni dio građevinske dozvole za čije je izdavanje, sukladno ovom Zakonu, nadležno Ministarstvo ne primjenjuje se poseban propis kojim se uređuje pravo na pristup informacijama.

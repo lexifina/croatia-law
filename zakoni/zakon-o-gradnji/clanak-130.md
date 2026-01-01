@@ -1,0 +1,4 @@
+## Projekti
+# Članak 130.
+(1) Glavni projekt građevine u kojemu je tehničko rješenje građevine izrađeno na temelju Zakona o gradnji (»Narodne novine«, br. 153/13., 20/17., 39/19., 125/19. i 145/24.) smatra se valjanim dokumentom za izdavanje akta na temelju kojega se odobrava građenje odnosno valjanim dokumentom za prijavu početka građenja građevine koja se gradi bez građevinske dozvole na temelju glavnog projekta, ako je zahtjev za izdavanje tog akta zajedno s glavnim projektom podnesen u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Tipski projekt za koji je izdano rješenje o tipskom projektu u skladu sa Zakonom o gradnji (»Narodne novine«, br. 153/13., 20/17., 39/19., 125/19. i 145/24.) može se rabiti dok se ne izmijeni propis kojim se utječe na tehničko rješenje dano tipskim projektom, a najdulje osam godina od dana pravomoćnosti rješenja o tipskom projektu.

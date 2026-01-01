@@ -1,0 +1,6 @@
+## Idejni projekt za manje složene zgrade
+# Članak 33.
+(1) Idejni projekt za manje složene zgrade je skup međusobno usklađenih nacrta i dokumenata kojima se daju osnovna oblikovno funkcionalna i tehnička rješenja zgrade te prikaz smještaja zgrade u prostoru (u daljnjem tekstu: idejni projekt).
+(2) Idejni projekt izrađuje se u skladu s uvjetima za građenje građevina propisanim prostornim planom, uvjetima priključenja, posebnim uvjetima nadležnog tijela prema propisu kojim se uređuje zaštita i očuvanje kulturnih dobara u slučaju u kojem je manje složena zgrada pojedinačno zaštićeno kulturno dobro ili se nalazi unutar zaštićene kulturno-povijesne cjeline, ovim Zakonom, tehničkim propisima i drugim propisima donesenim na temelju ovoga Zakona, drugim propisima kojima se uređuju zahtjevi i uvjeti za građevinu te pravilima struke.
+(3) Idejni projekt izrađuju ovlašteni arhitekt i ovlašteni inženjeri drugih struka, a glavni projektant odgovoran je za međusobnu usklađenost svih dijelova projekta.
+(4) Obvezni sadržaj i elemente idejnog projekta za manje složene zgrade, način opremanja, označavanja, način i značenje ovjere idejnog projekta iz stavka 1. ovoga članka propisuje ministar pravilnikom iz članka 30. stavka 5. ovoga Zakona.

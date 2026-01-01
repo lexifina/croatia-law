@@ -1,0 +1,11 @@
+## Izdavanje uporabne dozvole
+# Članak 102.
+(1) Uporabna dozvola za građevinu izgrađenu odnosno radove izvedene na temelju građevinske dozvole izdaje se u roku od osam dana od dana obavljenoga tehničkog pregleda ako se utvrdi da:
+1. je uz zahtjev za njezino izdavanje priložena propisana dokumentacija
+2. je građevina izgrađena u skladu s građevinskom dozvolom, u pogledu ispunjavanja temeljnih zahtjeva za građevinu, lokacijskih uvjeta i drugih uvjeta određenih građevinskom dozvolom
+3. je građevina priključena na prometnu površinu i druge građevine i uređaje komunalne ili druge infrastrukture određene građevinskom dozvolom
+4. su privremene građevine izgrađene u okviru pripremnih radova, oprema gradilišta, neutrošeni građevinski i drugi materijal te otpad uklonjeni i propisno zbrinuti u skladu s propisom kojim se uređuje gospodarenje otpadom, a zemljište na području gradilišta i na prilazu gradilišta dovedeno u uredno stanje, osim za složenu građevinu ako su radovi na preostalim dijelovima građevine u tijeku i privremene građevine ne utječu na uporabu dijela građevine za koju se izdaje uporabna dozvola i
+5. je na tehničkom pregledu predočena sva propisana dokumentacija iz članka 93. ovoga Zakona.
+(2) Iznimno od stavka 1. točke 2. ovoga članka, uporabna dozvola za manje složenu zgradu izdaje se u roku od osam dana od obavljenog tehničkog pregleda ako se utvrdi da je izgrađena u skladu s lokacijskim uvjetima utvrđenima u građevinskoj dozvoli i idejnim projektom u pogledu namjene, najvećih vanjskih mjera svih nadzemnih i podzemnih dijelova građevine, oblika i veličina građevne čestice i smještaja građevine na građevnoj čestici.
+(3) Okolnost da je naknadno, bez volje i bez utjecaja investitora primjerice za cestu ili drugu infrastrukturu, došlo do promjene oblika građevne čestice ne utječe na izdavanje uporabne dozvole iz stavaka 1. i 2. ovoga članka.
+(4) Uporabna dozvola za građevine i radove određene pravilnikom iz članka 85. stavka 4. ovoga Zakona izdaje se u roku od osam dana od obavljenog tehničkog pregleda ako se utvrdi njihova usklađenost s prostornim planom i glavnim projektom u pogledu ispunjavanja temeljnih zahtjeva za građevinu te ako su ispunjeni uvjeti iz stavka 1. točaka 3., 4. i 5. ovoga članka.

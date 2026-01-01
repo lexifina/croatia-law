@@ -1,0 +1,3 @@
+# Članak 118.
+(1) Postupak zbog teške povrede službene dužnosti službenika upravnog tijela odnosno pravne osobe s javnim ovlastima te teže povrede dužnosti i ugleda ovlaštenog arhitekta odnosno ovlaštenog inženjera, propisane ovim Zakonom ili posebnim propisima, uočenog u provedbi nadzora nad provedbom ovoga Zakona, pokreće se po zahtjevu ministra.
+(2) Ako se u nadzoru utvrdi da je povrijeđen ovaj Zakon i/ili propis donesen na temelju ovoga Zakona, Ministarstvo odnosno tijelo državne uprave koje obavlja poslove građevinske inspekcije ima pravo i obvezu podnijeti optužni prijedlog ili kaznenu prijavu.

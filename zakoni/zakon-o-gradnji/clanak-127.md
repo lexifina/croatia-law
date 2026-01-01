@@ -1,0 +1,5 @@
+## Prekršaji u vezi s utvrđivanjem posebnih uvjeta i uvjeta priključenja i izdavanjem potvrda na projekt
+# Članak 127.
+Novčanom kaznom u iznosu od 3000,00 do 6600,00 eura kaznit će se za prekršaj odgovorna osoba javnopravnog tijela ako:
+1. javnopravna tijelo čija odgovorna osoba ne utvrdi posebne uvjete ili uvjete priključenja ili postupak njihova utvrđivanja rješenjem obustavi te utvrđene uvjete ili rješenje o obustavi ne dostavi u elektroničkom programu eDozvola u roku od 30 dana od dana zaprimanja poziva za utvrđivanje posebnih uvjeta i uvjeta priključenja (članak 48. stavak 1.)
+2. javnopravno tijelo čija odgovorna osoba ne izda potvrdu na glavni projekt ili postupak njezina izdavanja rješenjem ne obustavi te potvrdu ili rješenje o obustavi ne dostavi upravnom tijelu, projektantu i investitoru u roku od 15 dana od dana primitka zahtjeva upravnog tijela odnosno u roku od 30 dana ako je zatražena potvrda na glavni projekt za građevinu za koju građevinsku dozvolu izdaje Ministarstvo (članak 66. stavak 4.).

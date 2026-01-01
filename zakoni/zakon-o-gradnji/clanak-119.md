@@ -1,0 +1,3 @@
+## Poništenje ili izmjena rješenja Ministarstva
+# Članak 119.
+Kada je protiv rješenja Ministarstva pokrenut upravni spor, Ministarstvo može do okončanja spora poništiti ili izmijeniti svoje rješenje zbog onih razloga zbog kojih bi sud mogao poništiti takvo rješenje.

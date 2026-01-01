@@ -1,0 +1,7 @@
+## Žalba odnosno tužba protiv rješenja o obustavi postupka izdavanja potvrde na glavni projekt
+# Članak 67.
+(1) Na postupke žalbe odnosno tužbe na rješenje javnopravnog tijela o obustavi postupka izdavanja potvrde na glavni projekt primjenjuje se odredba članka 49. ovoga Zakona.
+(2) Investitor je dužan dostaviti dokaz o izjavljivanju žalbe u roku od 15 dana ili pokretanju upravnog spora protiv rješenja o obustavi postupka izdavanja potvrde na glavni projekt u roku od 30 dana od dana primitka rješenja upravnom tijelu ili Ministarstvu koje u tom slučaju postupak izdavanja građevinske dozvole prekida do pravomoćnosti odluke o žalbi ili tužbi.
+(3) Ako investitor ne postupi u skladu sa stavkom 2. ovoga članka ili protiv rješenja o obustavi postupka izdavanja potvrde na glavni projekt ne izjavi žalbu ili ne pokrene upravni spor, zahtjev za izdavanje građevinske dozvole se odbija.
+(4) Tijelo nadležno za odlučivanje o žalbi i sud dužni su upravnom tijelu ili Ministarstvu radi znanja dostaviti odluku o žalbi ili tužbi protiv rješenja o obustavi postupka izdavanja potvrde na glavni projekt elektroničkim putem.
+(5) Ako tijelo nadležno za odlučivanje o žalbi izjavljenoj protiv rješenja iz stavka 1. ovoga članka poništi rješenje javnopravnog tijela o obustavi postupka, javnopravno tijelo dužno je postupiti prema odluci tijela nadležnog za odlučivanje o žalbi u roku od 15 dana od dana primitka drugostupanjskog rješenja za građevinu za koju građevinsku dozvolu izdaje upravno tijelo ili u roku od 30 dana za građevinu za koju građevinsku dozvolu izdaje Ministarstvo.

@@ -1,0 +1,12 @@
+## Odstupanje od temeljnih zahtjeva
+# Članak 14.
+(1) Ako se rekonstruira građevina koja je pojedinačno zaštićeno kulturno dobro ili se nalazi unutar zaštićene kulturno-povijesne cjeline, može se, uz prethodnu suglasnost Ministarstva, odstupiti od temeljnih zahtjeva za građevinu ako bi se njima narušila bitna spomenička svojstva.
+(2) Ako se rekonstruira građevina da bi se osobama smanjene pokretljivosti osigurao nesmetani pristup, kretanje, boravak i rad, može se, uz prethodnu suglasnost Ministarstva, odstupiti od temeljnih zahtjeva za građevinu.
+(3) Prethodna suglasnost iz stavaka 1. i 2. ovoga članka Ministarstvo izdaje na zahtjev investitora i prilaže se uz zahtjev za građevinsku dozvolu ili uz prijavu početka građenja za građevine koje se mogu graditi ili izvoditi bez građevinske dozvole, u skladu s pravilnikom iz članka 85. stavka 4. ovoga Zakona.
+(4) Uz zahtjev za izdavanje prethodne suglasnosti iz stavka 3. ovoga članka investitor prilaže:
+1. mišljenje ministarstva nadležnog za zaštitu i očuvanje kulturnih dobara za građevinu iz stavka 1. ovoga članka, koje sadrži spomenička obilježja kulturnog dobra, uz poziv na odgovarajuću odluku o proglašenju statusa kulturnog dobra, s naglaskom na dijelove građevine koji se ne smiju mijenjati radi očuvanja kulturne baštine Republike Hrvatske odnosno dijelove koje je dopušteno ili djelomično dopušteno mijenjati i na koji način, te prihvatljiva tehnička rješenja iz projekta radi osiguravanja pojedinog elementa pristupačnosti odnosno prihvatljive zamjenske mjere
+2. mišljenje ministarstva nadležnog za zaštitu od požara u slučaju iz stavaka 1. i 2. ovoga članka ako se odstupa od temeljnog zahtjeva sigurnosti u slučaju požara
+3. glavni projekt u kojem se, ako se u slučaju iz stavaka 1. i 2. ovoga članka ne može osigurati ispunjavanje temeljnog zahtjeva za građevinu, moraju navesti razlozi i obrazloženje tehničke neizvedivosti ispunjavanja temeljnog zahtjeva te odrediti zamjenske mjere za isto.
+(5) Prethodna suglasnost iz stavaka 1. i 2. ovoga članka može se izdati ako u svrhu ispunjavanja temeljnog zahtjeva za građevinu nije moguće izvesti odgovarajuće tehničko rješenje ili je mogućnost izvođenja rješenja takva da bi uložena vrijednost bila u bitnom nerazmjeru u odnosu na korist.
+(6) Prethodna suglasnost iz stavaka 1. i 2. ovoga članka može se izdati ako je projektom dokazano da se određenim postupkom, zahvatom ili mjerom na odgovarajući način djelomično nadomjestilo cjelovito tehničko rješenje.
+(7) Prethodna suglasnost iz stavaka 1. i 2. ovoga članka nije upravni akt.
