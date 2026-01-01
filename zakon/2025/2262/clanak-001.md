@@ -1,0 +1,2 @@
+# Članak 1.
+U Zakonu o porezu na dodanu vrijednost (»Narodne novine«, br. 73/13., 99/13. - Rješenje Ustavnog suda Republike Hrvatske, 148/13., 153/13. - Rješenje Ustavnog suda Republike Hrvatske, 143/14., 115/16., 106/18., 121/19., 138/20., 39/22., 113/22., 33/23., 114/23., 35/24., 152/24. i 52/25.) u članku 44. stavku 3. riječi: »do 20-og dana u mjesecu« zamjenjuju se riječima: »do zadnjeg dana u tekućem mjesecu«.
