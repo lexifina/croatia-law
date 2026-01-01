@@ -1,0 +1,7 @@
+# Članak 8.
+Porez na nekretnine plaćaju domaće i strane, pravne i fizičke osobe koje su vlasnici nekretnina na dan 31. ožujka godine za koju se utvrđuje porez, a koje se nalaze na području Općine Sveti Ilija.
+Nekretnina je svaka stambena zgrada ili stambeni dio stambeno-poslovne zgrade ili stan te svaki drugi samostalni funkcionalni prostor namijenjen stanovanju. Nekretninom se ne smatraju gospodarstvene zgrade koje služe samo za smještaj poljoprivrednih strojeva, oruđa i drugog pribora te nekretnine za koje se prema odluci o komunalnoj naknadi određuje koeficijent namjene za proizvodni ili neproizvodni poslovni prostor.
+Iznimno od stavka 1. ovoga članka, ako se ne može utvrditi vlasnik, porez na nekretnine plaća korisnik nekretnine određen prema odredbama propisa kojim se uređuje komunalno gospodarstvo.
+Za novoizgrađene nekretnine obveza plaćanja poreza na nekretnine nastaje danom izvršnosti uporabne dozvole godine za koju se utvrđuje porez odnosno danom početka korištenja nekretnine koja se koristi bez uporabne dozvole.
+Porez na nekretnine plaća se u visini od 1,50 eura/m² korisne površine nekretnine.
+Obveznik poreza na nekretnine dužan je do 31. ožujka godine za koju se utvrđuje porez poreznom tijelu prijaviti promjenu podataka bitnih za utvrđivanje obveze plaćanja poreza na nekretnine, a osobito promjenu obračunske površine nekretnine odnosno promjenu namjene nekretnine koja utječe na obračun poreza ili dokaze koji utječu na ostvarivanje uvjeta za oslobođenje od plaćanja poreza na nekretnine.
