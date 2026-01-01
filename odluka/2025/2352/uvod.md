@@ -1,0 +1,1 @@
+Na temelju članka 79. stavka 3. Zakona o tržištu rada (»Narodne novine« broj 118/18, 32/20, 18/22, 156/23 i 152/24), ministar rada, mirovinskoga sustava, obitelji i socijalne politike, uz suglasnost ministra financija, donosi
