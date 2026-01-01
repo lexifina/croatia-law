@@ -1,0 +1,1 @@
+Na temelju članka 46. stavka 7. Zakona o obnovljivim izvorima energije i visokoučinkovitoj kogeneraciji (»Narodne novine«, br. 138/21., 83/23. i 78/25.), Vlada Republike Hrvatske je na sjednici održanoj 23. prosinca 2025. donijela
