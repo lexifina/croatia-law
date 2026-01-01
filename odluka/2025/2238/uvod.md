@@ -1,0 +1,1 @@
+Na temelju članka 41. stavka 6. Zakona o obiteljskom poljoprivrednom gospodarstvu (»Narodne novine«, br. 29/18., 32/19. i 18/23.) ministar poljoprivrede, šumarstva i ribarstva uz suglasnost ministra nadležnog za poslove pravosuđa, uprave i digitalne transformacije donosi
