@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 7. Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave (»Narodne novine«, br. 127/17, 138/20, 151/22 i 114/23), potpredsjednik Vlade Republike Hrvatske i ministar financija donosi
