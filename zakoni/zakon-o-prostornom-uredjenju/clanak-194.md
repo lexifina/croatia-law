@@ -1,0 +1,4 @@
+## Izdavanje dozvole za promjenu namjene i uporabu građevine
+# Članak 194.
+(1) Dozvola za promjenu namjene i uporabu građevine izdaje se ako je podnositelj zahtjeva uz zahtjev priložio propisanu dokumentaciju te ako se u postupku utvrdi da je nova namjena građevine odnosno njezine samostalne uporabne cjeline i/ili lokacijski uvjet koji se namjeravaju promijeniti u skladu s prostornim planom i da građevina odnosno njezina samostalna uporabna cjelina ispunjava uvjete propisane posebnim propisima za novu namjenu i/ili drugi lokacijski uvjet.
+(2) Dozvola za promjenu namjene i uporabu građevine za koju se promjenu namjene prema posebnom propisu provodi postupak ocjene odnosno procjene utjecaja zahvata na okoliš ili postupak ocjene prihvatljivosti zahvata za ekološku mrežu izdaje se ako su ispunjeni uvjeti iz stavka 1. ovoga članka i ako javnopravno tijelo koje je provelo taj postupak izda potvrdu da je promjena namjene u skladu s rješenjem donesenim u tom postupku.

@@ -1,0 +1,4 @@
+## Izmjena, dopuna i poništenje lokacijske dozvole
+# Članak 244.
+(1) Lokacijska dozvola izdana na temelju Zakona o prostornom uređenju (»Narodne novine« br. 30/94., 68/98., 61/00., 32/02. i 100/04.), Zakona o prostornom uređenju i gradnji (»Narodne novine« br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) te Zakona o prostornom uređenju (»Narodne novine« br. 153/13., 65/17., 114/18., 39/19., 98/19. i 67/23.) može se mijenjati, dopunjavati ili poništiti pod istim uvjetima kao i lokacijska dozvola donesena na temelju ovoga Zakona.
+(2) U postupku donošenja rješenja o izmjeni i/ili dopuni lokacijske dozvole iz stavka 1. ovoga Zakona za zahvate u prostoru unutar lučkih područja kojima se planira ili gradi lučka nadgradnja (suprastruktura) smještena na morskom dijelu lučkog područja ne primjenjuje se članak 61. točka 10. ovoga Zakona.

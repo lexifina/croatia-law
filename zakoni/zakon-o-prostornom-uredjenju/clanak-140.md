@@ -1,0 +1,9 @@
+## Odluka o koncesiji/dozvoli prema posebnom propisu
+# Članak 140.
+(1) Odluka o davanju koncesije koja obuhvaća provedbu zahvata u prostoru donosi se na temelju lokacijske dozvole, urbanističkog projekta ili infrastrukturnog projekta.
+(2) Odluka o provedbi javnog nadmetanja za istraživanje i eksploataciju čvrstih mineralnih sirovina može se donijeti za prostore planirane prostornim planom u tu svrhu, uz prethodno mišljenje Ministarstva.
+(3) Odluka o provedbi javnog nadmetanja za istraživanje ugljikovodika i geotermalnih voda iz kojih se može koristiti akumulirana toplina u energetske svrhe može se donijeti za sve prostore na kojima ne postoje zapreke u prostornim planovima za obavljanje tih istraživanja, uz prethodno mišljenje Ministarstva.
+(4) Površine poljoprivredne namjene na kojima su planirani infrastrukturni koridori, eksploatacijska polja čvrstih mineralnih sirovina, energetske građevine za obnovljive izvore energije nije moguće davati u zakup za podizanje trajnih nasada.
+(5) Površine na kojima je dana koncesija i površine poljoprivrednog zemljišta dane u zakup za podizanje trajnih nasada ne mogu biti predmet izmjena prostornih planova u razdoblju do tri godine prije isteka koncesije odnosno zakupa.
+(6) Prostorni planovi ili njihova izmjena odnosno dopuna koji su doneseni u razdoblju od tri godine prije isteka koncesije odnosno zakupa moraju sadržavati odredbe kojima se omogućava nužna rekonstrukcija i/ili uporaba tih površina sukladno postojećoj i planiranoj namjeni i stečenim pravima.
+(7) Za površine za koje je dodijeljena koncesija ili koje su dane u zakup za podizanje trajnih nasada davatelj koncesije odnosno zakupodavac dužan je u informacijski sustav dostaviti prostorne podatke o obuhvatu koncesija i koncesijske ugovore kojima su ograničena određena prava raspolaganja.

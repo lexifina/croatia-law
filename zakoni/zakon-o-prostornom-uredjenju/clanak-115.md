@@ -1,0 +1,4 @@
+## Sadržaj odluke o izradi prostornog plana
+# Članak 115.
+(1) Odluka o izradi prostornog plana sadrži ciljeve i programska polazišta za donošenje prostornog plana, obuhvat prostornog plana, popis javnopravnih tijela te drugih sudionika korisnika prostora koji sudjeluju u izradi prostornog plana, te ostale elemente ovisno o vrsti prostornog plana i postupku njegove izradi kao što su to izrada novog plana, njegove izmjene i/ili dopune odnosno zasebno stavljanje izvan snage, koji se uređuju pravilnikom iz članka 79. stavka 3. ovoga Zakona.
+(2) Postupak izrade i donošenja izmjena i dopuna prostornog plana užeg područja i s time povezanih izmjena i dopuna prostornog plana šireg područja mogu se provoditi istodobno, pri čemu se donose vezane odluke o izradi izmjena i dopuna ta dva prostorna plana.

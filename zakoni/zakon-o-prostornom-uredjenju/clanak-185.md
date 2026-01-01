@@ -1,0 +1,5 @@
+## Promjena koordinata lomnih točaka
+# Članak 185.
+(1) Promjena koordinata lomnih točaka građevne čestice odnosno obuhvata zahvata u prostoru te jedne ili više građevina na toj čestici izrađenih u GML formatu, do koje dođe nakon izdavanja potvrde iz članka 204. ovoga Zakona zbog homogenizacije katastarskog plana ili drugih promjena u katastarskom operatu koje ne utječu na vlasništvo i druga stvarna prava, ne smatra se izmjenom lokacijskih uvjeta zbog koje je potrebno izmijeniti i/ili dopuniti akt za provedbu zahvata u prostoru.
+(2) Činjenicu da promjene u katastarskom operatu iz stavka 1. ovoga članka ne utječu na vlasništvo i druga stvarna prava podnositelj zahtjeva dokazuje potvrdom ovlaštenog inženjera geodezije koji je izradio GML datoteku.
+(3) U slučaju promjene koordinata lomnih točaka iz stavka 1. ovoga članka podnositelj zahtjeva dostavlja potvrdu iz stavka 2. ovoga članka te novu GML datoteku upravnom tijelu odnosno Ministarstvu radi izmjene GML datoteke u informacijskom sustavu.

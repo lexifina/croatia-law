@@ -1,0 +1,6 @@
+## Pravni lijekovi i troškovi postupka
+# Članak 191.
+(1) Dokaz o izjavljivanju žalbe odnosno pokretanju upravnog spora protiv rješenja kojim se odbija izdavanje potvrde podnositelj zahtjeva je u roku od deset dana od dana izjavljivanja žalbe odnosno pokretanja upravnog spora dužan dostaviti upravnom tijelu odnosno Ministarstvu koje u tom slučaju postupak izdavanja dozvole za uporabu zahvata u prostoru prekida do pravomoćnosti odluke o žalbi odnosno tužbi.
+(2) Tijelo nadležno za odlučivanje o žalbi dužno je upravnom tijelu odnosno Ministarstvu radi znanja dostaviti odluku o žalbi protiv rješenja o odbijanju izdavanja potvrde.
+(3) Ako podnositelj zahtjeva ne postupi u skladu sa stavkom 1. ovoga članka ili protiv rješenja o odbijanju izdavanja potvrde ne izjavi žalbu odnosno ne pokrene upravni spor, zahtjev za izdavanje dozvole za uporabu zahvata u prostoru se odbija.
+(4) Ako se očevid iz članka 190. stavka 1. ovoga Zakona obavlja izvan mjesta u kojem se nalazi sjedište ili ispostava tijela graditeljstva, javnopravnog tijela odnosno adresa druge osobe koja sudjeluje na očevidu, podnositelj zahtjeva dužan je nadoknaditi tijelu graditeljstva, javnopravnom tijelu odnosno toj osobi putne troškove i dnevnice predstavnika koji su bili na očevidu u visini određenoj posebnim propisima.

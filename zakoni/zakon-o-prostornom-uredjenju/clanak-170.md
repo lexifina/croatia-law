@@ -1,0 +1,6 @@
+## Očitovanje javnopravnih tijela
+# Članak 170.
+(1) Javnopravna tijela dužna su se očitovati o tome je li idejni projekt izrađen u skladu s posebnim propisima iz njihove nadležnosti te dostaviti posebne uvjete odnosno uvjete priključenja na idejni projekt u roku od 30 dana od dana poziva na utvrđivanje posebnih uvjeta.
+(2) Ako javnopravno tijelo u roku iz stavka 1. ovoga članka ne dostavi očitovanje da je idejni projekt izrađen u skladu s posebnim propisima odnosno ne dostavi posebne uvjete i uvjete priključenja, smatra se da su posebni uvjeti izdani odnosno da se građevinu može priključiti na infrastrukturu.
+(3) Ako su u posebnim uvjetima odnosno uvjetima priključenja navedeni uvjeti za koje nije nadležno javnopravno tijelo koje ih je izdalo, ili ako su ti uvjeti protivni odredbama prostornog plana ili posebnim propisima, ne smatraju se važećim dijelovima posebnih uvjeta odnosno uvjeta priključenja.
+(4) Javnopravno tijelo od upravnog tijela odnosno Ministarstva ne može u svrhu utvrđivanja posebnih uvjeta i uvjeta priključenja tražiti plaćanje predujma troškova, troškova utvrđivanja posebnih uvjeta odnosno uvjeta priključenja niti za dostavu odnosno izradu drugih dokumenata ili elaborata i ne smiju navoditi ime investitora koji je dužan izraditi pojedine dijelove infrastrukture s obzirom na to da je isto predmet posebnih propisa.

@@ -1,0 +1,7 @@
+## Rok za donošenje prostornih planova
+# Članak 238.
+(1) Danom stupanja na snagu ovoga Zakona, za prostorne planove donesene na temelju Zakona o prostornom uređenju (»Narodne novine« br. 30/94., 68/98., 35/99., 61/00., 32/02. i 100/04.), Zakona o prostornom uređenju i gradnji (»Narodne novine« br. 76/07., 38/09., 55/11., 90/11., 50/12. i 55/12.) i Zakona o prostornom uređenju (»Narodne novine« br. 153/13., 65/17., 114/18., 39/19., 98/19. i 67/23.) ne može se donijeti odluka o izradi njihovih izmjena i dopuna, osim kao prostornih planova nove generacije.
+(2) Prostorni planovi iz stavka l. ovoga članka prestaju važiti u roku od sedam godina od dana stupanja na snagu ovoga Zakona.
+(3) U roku iz stavka 2. ovoga članka potrebno je donijeti nove prostorne planove sukladno odredbama ovoga Zakona.
+(4) Prostorni planovi kojima se planiraju igrališta za golf moraju se uskladiti s odredbama ovoga Zakona u roku od pet godina od dana stupanja na snagu ovoga Zakona tako da se površina igrališta za golf koja je bila uključena u građevinsko područje ne može prostorno preraspodijeliti u novo građevinsko područje.
+(5) Odredbe ovoga članka ne odnose se na prostorne planove državne razine, prostorne planove područja posebnih obilježja koje su donijele županijske skupštine niti na prostorne planove za koje su se postupci izrade, transformacije ili izmjene i dopune te donošenja, do donošenja ovoga Zakona, proveli ili se vode kroz sustav ePlanovi.

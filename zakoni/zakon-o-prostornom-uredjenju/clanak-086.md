@@ -1,0 +1,8 @@
+## Postupak osiguravanja usklađenosti
+# Članak 86.
+(1) Jedinice lokalne i područne (regionalne) samouprave dužne su osigurati međusobnu usklađenost prostornih planova sukladno članku 85. ovoga Zakona.
+(2) Ako Ministarstvo utvrdi neusklađenost prostornih planova prema članku 85. stavcima 1. do 4. ovoga Zakona, naredit će rješenjem nadležnoj jedinici lokalne ili područne (regionalne) samouprave početak postupka za otklanjanje neusklađenosti u roku od 90 dana.
+(3) Protiv rješenja iz stavka 2. ovoga članka ne može se izjaviti žalba, ali se može pokrenuti upravni spor.
+(4) Jedinice lokalne i područne (regionalne) samouprave dužne su od zaprimanja rješenja Ministarstva iz stavka 2. ovoga članka u roku od 30 dana donijeti odluku o izradi izmjene i dopune neusklađenih prostornih planova u svrhu njihova usklađivanja te ih uskladiti u roku od 180 dana.
+(5) Ako jedinica lokalne i područne (regionalne) samouprave, nakon dobivenog rješenja iz stavka 2. ovoga članka ne postupi na način propisan u stavku 4. ovoga članka odnosno ako ne ispravi neusklađenost u roku propisanom rješenjem iz stavka 2. ovoga članka, Ministarstvo će takav neusklađeni prostorni plan obustaviti od primjene, a prilikom izdavanja akata za provedbu zahvata u prostoru primijenit će se odredbe ovoga Zakona i odredbe plana više razine odnosno šireg područja.
+(6) Nakon donesene odluke o obustavi od primjene, Ministarstvo u roku od 30 dana od donošenja odluke o obustavi podnosi zahtjev Visokom upravnom sudu Republike Hrvatske za ocjenu zakonitosti prostornog plana ili njegove pojedine odredbe koja nije u skladu s člankom 85. ovoga Zakona.

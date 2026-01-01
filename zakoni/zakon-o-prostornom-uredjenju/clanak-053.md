@@ -1,0 +1,8 @@
+## Integrirana infrastruktura
+# Članak 53.
+(1) Integrirana infrastruktura zahtijeva određivanje višenamjenskih ili jednonamjenskih koridora linijske infrastrukture, u pravilu u području koridora cestovne i željezničke infrastrukture te usklađenje planiranih trasa određenih vrsta linijskih infrastrukturnih građevina s trasama drugih vrsta linijskih infrastrukturnih građevina ili cestovne, željezničke i druge infrastrukture i njihovih pripadajućih građevina kao što su mostovi, tuneli, nadvožnjaci, odmorišta i drugo, u odnosu na smještaj u prostoru i rokove gradnje.
+(2) Prilikom izvođenja građevinskih radova na cesti, željezničkoj pruzi ili drugoj linijskoj infrastrukturi, nositelj takvog zahvata koji namjerava poduzeti zahvat u prostoru dužan je, u suradnji s upraviteljima postojećih linijskih infrastrukturnih građevina, osigurati razvoj te organizirati gradnju, premještanje i zaštitu novih linijskih infrastrukturnih građevina u koridoru.
+(3) Projekt integrirane infrastrukture mora se provoditi po načelu fleksibilnosti i najmanje štete prilikom zahvata na pojedinim vrstama linijskih infrastrukturnih građevina. Tehnologija gradnje linijskih infrastrukturnih građevina mora omogućavati da se većina zahvata održavanja i rekonstrukcije tih građevina obavlja u revizijskim oknima, bez iskopa javnih i drugih površina.
+(4) Planiranjem integrirane infrastrukture mora se osigurati povezan, siguran i učinkovit prijelaz između različitih oblika prometa tako da:
+1. infrastrukturni koridori omoguće jednostavno i sigurno povezivanje pješačkog, biciklističkog, javnog i cestovnog prometa te pristup važnim čvorištima mobilnosti
+2. prometna rješenja spriječe prostorne i sigurnosne konflikte među korisnicima i potiču prelazak na održive oblike kretanja.

@@ -1,0 +1,10 @@
+## Planiranje kampa
+# Članak 67.
+(1) Kamp se planira u izdvojenom građevinskom području izvan naselja ugostiteljsko-turističke namjene i u građevinskom području naselja unutar površine ugostiteljsko-turističke namjene prema sljedećim općim uvjetima:
+1. obvezno je u što većoj mjeri očuvati zatečenu vegetaciju, prirodne dijelove obale i krajobrazne vrijednosti
+2. smještajne jedinice u obuhvatu kampa ne smiju svojim izgledom, veličinom i smještajem narušavati zatečeni prirodni krajobraz te se moraju moći ukloniti bez trajne devastacije prostora u kojem su smještene
+3. najmanje 40 % ukupne površine kampa mora biti uređeno kao parkovni nasadi i/ili prirodno zelenilo
+4. najveća dopuštena izgrađenost iznosi 30 % ukupne površine kampa, u koju površinu se uračunavaju i modularno-montažne kućice (pokretne kućice), neovisno o tome jesu li čvrsto povezane s tlom
+5. najviše 30 % površine kampa mogu zauzimati prometne i parkirališne površine.
+(2) U kampu, u izdvojenom građevinskom području izvan naselja ugostiteljsko-turističke namjene, u pojasu od 25 m od obalne crte nije moguće planirati građenje, postavljati modularno-montažne kućice (pokretne kućice) niti poduzimati zahvate u prostoru osim uređenja plaža, parkova, perivoja, javnog i zaštitnog zelenila, a u pojasu od 25 m do 100 m od obalne crte nije moguće planirati građenje, postavljati modularno-montažne kućice (pokretne kućice), niti poduzimati zahvate u prostoru osim otvorenih bazena, sportskih igrališta na otvorenom, sanitarnih čvorova, sunčališta, šetnica i otvorenih terasa i površina za smještaj opreme za kampiranje.
+(3) U kampu, u građevinskom području unutar naselja ugostiteljsko-turističke namjene, u pojasu od 25 metara od obalne crte nije moguće planirati građevine, postavljati modularno-montažne kućice (pokretne kućice) niti poduzimati zahvate u prostoru osim otvorenih bazena, sportskih igrališta na otvorenom, sunčališta, šetnica, otvorenih terasa, sanitarnih čvorova, uređenih plaža te uređivanja površina prirodnih plaža, parkova, perivoja, javnog i zaštitnog zelenila.

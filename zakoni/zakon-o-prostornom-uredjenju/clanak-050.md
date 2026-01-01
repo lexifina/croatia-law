@@ -1,0 +1,4 @@
+## Građenje građevina priuštivog stanovanja
+# Članak 50.
+(1) Na površinama koje su prostornim planom namijenjene priuštivom stanovanju, kao i na površinama iz članka 49. stavka 1. točke 1. ovoga Zakona, građevine priuštivog stanovanja mogu se smjestiti u prostor na temelju lokacijske dozvole i/ili građevinske dozvole.
+(2) Na površinama unutar građevinskog područja iz članka 49. stavka 1. točaka 2. do 5., i iznimno, u nedostatku površina iz članka 49. stavka 1. ovoga Zakona, na površinama određenima prostornim planom kao ostalo zemljište (PŠ) koje je infrastrukturno opremljeno, a nalazi se u kontaktnom području s postojećim građevinskim područjem naselja u koje je integrirano, građevine priuštivog stanovanja mogu se smjestiti u prostor na temelju urbanističkog projekta sukladno programima priuštivog stanovanja donesenim na temelju propisa iz područja priuštivog stanovanja.

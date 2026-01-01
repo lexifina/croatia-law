@@ -1,0 +1,11 @@
+## Dostava lokacijske dozvole
+# Članak 181.
+(1) Lokacijska dozvola odnosno rješenje o odbijanju, odbacivanju ili obustavi postupka povodom zahtjeva za izdavanje lokacijske dozvole dostavlja se:
+1. podnositelju zahtjeva u korisnički pretinac informacijskog sustava povezanog na državnu informacijsku infrastrukturu odnosno putem pošte ako podnositelj zahtjeva nema korisnički pretinac
+2. strankama koje su izvršile uvid u spis predmeta ili su se javile upravnom tijelu odnosno Ministarstvu odgovarajućom primjenom članka 176. ovoga Zakona
+3. strankama koje nisu izvršile uvid u spis predmeta i nisu se javile upravnom tijelu odnosno Ministarstvu objavom na elektroničkoj oglasnoj ploči u trajanju od osam dana.
+(2) Uz lokacijsku dozvolu, podnositelju zahtjeva dostavlja se projekt koji je sastavni dio akta u elektroničkom obliku na način iz stavka 1. točke 1. ovoga članka.
+(3) U slučaju dostave iz stavka 1. točke 3. ovoga članka, lokacijska dozvola odnosno rješenje o odbijanju, odbacivanju ili obustavi postupka izdavanja lokacijske dozvole smatraju se dostavljenim istekom osmoga dana od dana objave na elektroničkoj oglasnoj ploči.
+(4) Dostava elektroničkim putem u korisnički pretinac informacijskog sustava povezan na državnu informacijsku infrastrukturu smatra se obavljenom potvrdom primitka pismena, a najkasnije istekom osmog dana od dana kad je pismeno zabilježeno na poslužitelju za primanje poruka.
+(5) O lokacijskoj dozvoli za zahvat koji je bio predmetom postupka procjene utjecaja na okoliš, postupka ocjene o potrebi procjene utjecaja na okoliš ili postupka ocjene o prihvatljivosti zahvata za ekološku mrežu prema posebnim propisima, informira se javnost i zainteresirana javnost objavom lokacijske dozvole na elektroničkoj oglasnoj ploči.
+(6) Javnost i zainteresirana javnost obavještava se putem elektroničke oglasne ploče za zahvat u prostoru koji se prema propisima kojima se uređuje gradnja ne smatra građenjem, a koji je bio predmetom postupka procjene utjecaja na okoliš, postupka ocjene o potrebi procjene utjecaja na okoliš ili postupka ocjene o prihvatljivosti zahvata za ekološku mrežu prema posebnim propisima o podnesenom zahtjevu za izdavanje lokacijske dozvole, sadržaju tog zahtjeva, podnesenim dokumentima uz taj zahtjev i o izdanoj lokacijskoj dozvoli.

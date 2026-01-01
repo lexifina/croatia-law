@@ -1,0 +1,5 @@
+## Stranke u postupku izdavanja lokacijske dozvole
+# Članak 175.
+(1) Stranka u postupku izdavanja lokacijske dozvole je podnositelj zahtjeva, vlasnik nekretnine za koju se izdaje lokacijska dozvola, koncesionar i nositelj drugih stvarnih prava na toj nekretnini, Republika Hrvatska zastupana po nadležnom državnom odvjetništvu za zahvate na području pomorskog dobra i koji s njim graniče, te vlasnik i nositelj drugih stvarnih prava na nekretnini koja neposredno graniči s nekretninom za koju se izdaje lokacijska dozvola.
+(2) Iznimno od stavka 1. ovoga članka, stranka u postupku izdavanja lokacijske dozvole za provedbu zahvata u prostoru koji je od interesa za Republiku Hrvatsku ili koju izdaje Ministarstvo su podnositelj zahtjeva, vlasnik nekretnine za koju se izdaje lokacijska dozvola, koncesionar ili zakupnik poljoprivrednog zemljišta u vlasništvu Republike Hrvatske ili jedinice lokalne samouprave i nositelj drugih stvarnih prava na toj nekretnini.
+(3) Prije izdavanja lokacijske dozvole upravno tijelo odnosno Ministarstvo dužno je strankama pružiti mogućnost uvida u spis predmeta radi izjašnjenja (u daljnjem tekstu: uvid u spis predmeta).

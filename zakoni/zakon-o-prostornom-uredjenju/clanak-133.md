@@ -1,0 +1,4 @@
+## Objava odluke o donošenju prostornog plana
+# Članak 133.
+(1) Odluka o donošenju prostornog plana državne razine objavljuje se u »Narodnim novinama«, odluka o donošenju prostornog plana koji donosi županijska skupština odnosno skupština Grada Zagreba objavljuje se u službenom glasilu jedinice područne (regionalne) samouprave koja je odluku donijela, a odluka o donošenju prostornog plana koji donosi gradsko odnosno općinsko vijeće objavljuje se u službenom glasilu jedinice lokalne samouprave, a ako toga glasila nema, tada u službenom glasilu jedinice područne (regionalne) samouprave.
+(2) Odluka o donošenju prostornog plana objavljuje se i u informacijskom sustavu putem elektroničkog sustava ePlanovi najkasnije 15 dana od dana objave te odluke u službenom glasilu iz stavka 1. ovoga članka.

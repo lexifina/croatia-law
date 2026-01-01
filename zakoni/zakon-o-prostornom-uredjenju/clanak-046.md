@@ -1,0 +1,6 @@
+## Preraspodjela građevinskih područja
+# Članak 46.
+(1) U postojećim građevinskim područjima, utvrđenim važećim prostornim planovima mogu se vršiti preraspodjele površina iz jednog građevinskog područja u drugo, ili iz jednog dijela građevinskog područja u drugi dio, osim ako ovim Zakonom nije propisano drukčije.
+(2) Preraspodjelom površina iz stavka 1. ovoga članka moraju se očuvati postojeće i stvoriti nove smislene prostorne cjeline, pri čemu se iz građevinskih područja ne smiju isključiti postojeće građevine i uređene površine, niti ugrožavati stečena prava korisnika prostora temeljena na aktima za provedbu zahvata u prostoru.
+(3) Preraspodjeli površina iz stavka 1. ovoga članka pristupa se na temelju prethodno izvršene višekriterijske analize, a metodologija za izradu višekriterijske analize odredit će se pravilnikom iz članka 79. stavka 3. ovoga Zakona.
+(4) Prilikom preraspodjele ili širenja građevinskih područja, dijelom građevinskog područja naselja i izdvojenog dijela građevinskog područja naselja ne može se smatrati niti u prostornim planovima određivati jedna ili više katastarskih čestica čija je ukupna površina manja od 5000 m², a koje nisu prostorno i infrastrukturno povezane s postojećim građevinskim područjem istog naselja ili postojećim izdvojenim dijelom građevinskog područja istog naselja.
