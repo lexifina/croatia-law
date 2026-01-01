@@ -1,0 +1,2 @@
+# Članak 8.
+Visina naknade za korištenje voda za splavarenje, uključujući i rafting, vožnju kanuima i drugim sličnim plovilima, ako se te djelatnosti obavljaju kao gospodarske, osim u slučaju iz članka 170. stavka 2. Zakona o vodama (»Narodne novine«, br. 66/19., 84/21. i 47/23.), iznosi 6,64 eura godišnje po svakom putničkom mjestu u plovilu, utvrđenom u vodopravnoj dozvoli, neovisno o popunjenosti.
