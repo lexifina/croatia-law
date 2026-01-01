@@ -1,6 +1,0 @@
-## IV. SADRŽAJ PLANA OPORAVKA U SMANJENOM OPSEGU
-## Primjena plana oporavka u smanjenom opsegu
-# Članak 14.
-(1) Investicijsko društvo iz članka 2. točke 5. ovoga Pravilnika čiji prekid poslovanja ne bi imao negativan učinak na financijska tržišta, druga investicijska društva ili kreditne institucije ili na uvjete financiranja s obzirom na njegovu veličinu, model poslovanja i povezanost s drugim investicijskim društvima ili kreditnim institucijama ili financijskim sustavom u cjelini, plan oporavka može usvojiti i primjenjivati u smanjenom opsegu.
-(2) Investicijsko društvo koje se ne smatra značajnim sukladno članku 2. točki 6. ovoga Pravilnika može izraditi plan oporavka u smanjenom opsegu o čemu je dužno izvijestiti Hanfu.
-(3) Iznimno, od stavka 2. ovoga članka, Hanfa može investicijskom društvu rješenjem naložiti izradu plana oporavka u punom ili proširenom opsegu u slučaju u kojem investicijsko društvo prestane ispunjavati uvjete za primjenu plana oporavka u smanjenom opsegu, ili u slučaju kada se utvrdi da bi njegova propast i likvidacija u redovnom postupku zbog insolventnosti vjerojatno imala značajan negativan učinak na financijska tržišta, na druge institucije ili na uvjete financiranja.

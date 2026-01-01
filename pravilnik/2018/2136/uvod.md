@@ -1,1 +1,0 @@
-Na temelju odredbe članka 178. stavka 10. Zakona o tržištu kapitala (»Narodne novine« br. 65/18), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 22. studenoga 2018. donosi
