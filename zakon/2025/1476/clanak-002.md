@@ -1,0 +1,4 @@
+# Članak 2.
+U članku 3. stavku 1. iza točke 32. briše se točka i dodaju se točke 33. i 34. koje glase:
+»33. »paket besplatnih usluga« je paket usluga koji je vezan za račun za plaćanje na koji potrošač prima redovita primanja i koji ima obilježja iz poglavlja IV.a ovoga Zakona
+34. »redovita primanja« su plaća, mirovina, stipendija, naknada plaće za vrijeme privremene nesposobnosti za rad, novčana naknada za vrijeme nezaposlenosti te naknade iz članka 24. stavka 9. ovoga Zakona, kao i sva druga redovita primanja potrošača koja se isplaćuju na račun za plaćanje kod banke sukladno propisima kojima se uređuju radni odnosi, mirovinsko osiguranje i porez na dohodak te sukladno drugim važećim propisima u Republici Hrvatskoj ili koja su kao takva određena internim pravilima kreditne institucije.«.
