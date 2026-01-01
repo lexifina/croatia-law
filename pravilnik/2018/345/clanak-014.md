@@ -1,7 +1,0 @@
-# Članak 14.
-(1) Njegovatelj koji je privremeno nesposoban za rad prema propisima iz obveznog zdravstvenog osiguranja, dužan je prvostupanjskom tijelu u roku 24 sata od utvrđivanja privremene nesposobnosti za rad (u daljnjem tekstu: privremena nesposobnost) dostaviti dokaz o istome te o njezinom očekivanom trajanju bolovanja.
-(2) U slučaju da iz dokaza iz stavka 1. ovog članka proizlazi da je očekivano trajanje privremene nesposobnosti duže od 42 dana, neovisno o tome tko je obveznik obračuna i isplate naknade plaće za vrijeme privremene nesposobnosti, za razdoblje od 43. dana do potpunog prestanka bolovanja njegovatelju se rješenjem prvostupanjskog tijela utvrđuje mirovanje prava po osnovi statusa njegovatelja, a za HRVI pristupa se izboru njegovatelja na zamjeni.
-(3) HRVI za vrijeme privremene nesposobnosti njegovatelja u trajanju do 42 dana ima pravo na smještaj u:
-- specijalnu zdravstvenu odnosno bolničku ustanovu za bolničku medicinsku rehabilitaciju i fizikalnu terapiju, sukladno propisu kojima se uređuje to pravo i na temelju odluke nadležnog povjerenstva Ministarstva za bolničku medicinsku rehabilitaciju i fizikalnu terapiju ili
-- ustanovu za pružanje podrške i usluga braniteljsko-stradalničkoj populaciji i drugim osobama, koju osniva Ministarstvo, po propisima o osnivanju i korištenju usluga navedene ustanove.
-(4) Osoba u statusu njegovatelja za vrijeme privremene nesposobnosti ima pravo na naknadu plaće sukladno propisima iz obveznog zdravstvenog osiguranja.
