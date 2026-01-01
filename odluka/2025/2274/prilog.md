@@ -1,0 +1,143 @@
+FINANCIJSKI PLAN HRVATSKIH AUTOCESTA ZA 2026. GODINU I PROJEKCIJE
+ZA 2027. I 2028. GODINU
+I. OPĆI DIO
+A. SAŽETAK RAČUNA PRIHODA I RASHODA
+B. SAŽETAK RAČUNA FINANCIRANJA
+A. RAČUN PRIHODA I RASHODA
+PRIHODI POSLOVANJA I PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE
+Razred i naziv | Izvršenje
+2024. | Tekući plan
+2025. | Plan
+2026. | Projekcija
+2027. | Projekcija
+2028.
+1 | 2 | 3 | 4 | 5 | 6
+6 PRIHODI POSLOVANJA | 535.596.687,27 | 561.193.995 | 617.726.371 | 617.274.011 | 576.780.348
+7 PRIHODI OD PRODAJE NEFINANCIJSKE IMOVINE | 0,00 | 0 | 0 | 0 | 0
+PRIHODI UKUPNO | 535.596.687,27 | 561.193.995 | 617.726.371 | 617.274.011 | 576.780.348
+3 RASHODI POSLOVANJA | 280.661.808,93 | 267.302.202 | 263.972.806 | 268.188.552 | 277.248.218
+4 RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 131.056.929,98 | 115.789.825 | 253.332.480 | 228.932.614 | 166.916.062
+RASHODI UKUPNO | 411.718.738,91 | 383.092.027 | 517.305.286 | 497.121.166 | 444.164.280
+RAZLIKA - VIŠAK/MANJAK | 123.877.948,36 | 178.101.968 | 100.421.085 | 120.152.845 | 132.616.068
+Razred i naziv | Izvršenje
+2024. | Tekući plan
+2025. | Plan
+2026. | Projekcija
+2027. | Projekcija
+2028.
+1 | 2 | 3 | 4 | 5 | 6
+8 PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 36.961.850,21 | 24.165.505 | 47.052.690 | 59.380.000 | 48.291.062
+5 IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 168.918.579,37 | 94.351.097 | 89.367.930 | 84.526.847 | 92.358.716
+RAZLIKA PRIMITAKA I IZDATAKA | -131.956.729,16 | -70.185.592 | -42.315.240 | -25.146.847 | -44.067.654
+PRIJENOS SREDSTAVA IZ PRETHODNE GODINE | 64.090.093,23 | 56.011.312 | 163.927.688 | 222.033.533 | 317.039.531
+PRIJENOS SREDSTAVA U SLJEDEĆE RAZDOBLJE | -56.011.312,43 | -163.927.688 | -222.033.533 | -317.039.531 | -405.587.945
+NETO FINANCIRANJE | -123.877.948,36 | -178.101.968 | -100.421.085 | -120.152.845 | -132.616.068
+VIŠAK/MANJAK + NETO FINANCIRANJE | 0,00 | 0 | 0 | 0 | 0
+Razred/
+skupina | Naziv | Izvršenje
+2024. | Tekući plan
+2025. | Plan
+2026. | Projekcija
+2027. | Projekcija
+2028.
+1 | 2 | 3 | 4 | 5 | 6
+| UKUPNO PRIHODI | 535.596.687,27 | 561.193.995 | 617.726.371 | 617.274.011 | 576.780.348
+6 | PRIHODI POSLOVANJA | 535.596.687,27 | 561.193.995 | 617.726.371 | 617.274.011 | 576.780.348
+63 | Pomoći iz inozemstva i od subjekata unutar općeg proračuna | 63.563.735,21 | 22.000.000 | 78.950.000 | 80.001.220 | 40.205.530
+64 | Prihodi od imovine | 37.101.903,26 | 30.767.553 | 30.390.226 | 28.886.648 | 28.188.675
+65 | Prihodi od upravnih i administrativnih pristojbi, pristojbi po posebnim propisima i naknada | 99.495,73 | 101.425 | 102.000 | 102.000 | 102.000
+66 | Prihodi od prodaje proizvoda i robe te pruženih usluga, prihodi od donacija te povrati po protestiranim jamstvima | 434.831.553,07 | 508.325.017 | 508.284.145 | 508.284.143 | 508.284.143
+RASHODI POSLOVANJA I RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE
+Razred/
+skupina | Naziv | Izvršenje
+2024. | Tekući plan
+2025. | Plan
+2026. | Projekcija
+2027. | Projekcija
+2028.
+1 | 2 | 3 | 4 | 5 | 6
+| UKUPNO RASHODI | 411.718.738,91 | 383.092.027 | 517.305.286 | 497.121.166 | 444.164.280
+3 | RASHODI POSLOVANJA | 280.661.808,93 | 267.302.202 | 263.972.806 | 268.188.552 | 277.248.218
+31 | Rashodi za zaposlene | 97.205.931,18 | 110.393.786 | 114.209.711 | 116.052.129 | 118.166.966
+32 | Materijalni rashodi | 44.074.907,96 | 47.086.510 | 54.121.512 | 55.088.764 | 56.837.205
+34 | Financijski rashodi | 138.410.849,79 | 109.423.613 | 95.508.983 | 96.915.059 | 102.111.447
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 128.988,78
+38 | Rashodi za donacije, kazne, naknade šteta i kapitalne pomoći | 841.131,22 | 398.293 | 132.600 | 132.600 | 132.600
+4 | RASHODI ZA NABAVU NEFINANCIJSKE IMOVINE | 131.056.929,98 | 115.789.825 | 253.332.480 | 228.932.614 | 166.916.062
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 10.292.671,36 | 5.549.922 | 10.972.000 | 4.600.000 | 9.500.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 78.582.923,50 | 73.739.903 | 192.360.480 | 184.332.614 | 106.416.062
+45 | Rashodi za dodatna ulaganja na nefinancijskoj imovini | 42.181.335,12 | 36.500.000 | 50.000.000 | 40.000.000 | 51.000.000
+B. RAČUN FINANCIRANJA
+Razred/
+skupina | Naziv | Izvršenje
+2024. | Tekući plan
+2025. | Plan
+2026. | Projekcija
+2027. | Projekcija
+2028.
+1 | 2 | 3 | 4 | 5 | 6
+8 | PRIMICI OD FINANCIJSKE IMOVINE I ZADUŽIVANJA | 36.961.850,21 | 24.165.505 | 47.052.690 | 59.380.000 | 48.291.062
+84 | Primici od zaduživanja | 36.961.850,21 | 24.165.505 | 47.052.690 | 59.380.000 | 48.291.062
+5 | IZDACI ZA FINANCIJSKU IMOVINU I OTPLATE ZAJMOVA | 168.918.579,37 | 94.351.097 | 89.367.930 | 84.526.847 | 92.358.716
+51 | Izdaci za dane zajmove i jamčevne pologe | 71.120.577,62
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 97.798.001,75 | 94.351.097 | 89.367.930 | 84.526.847 | 92.358.716
+II. POSEBNI DIO
+Šifra | Naziv | Izvršenje
+2024. | Tekući plan
+2025. | Plan
+2026. | Projekcija
+2027. | Projekcija
+2028.
+1 | 2 | 3 | 4 | 5 | 6
+007 | HRVATSKE AUTOCESTE | 580.637.318,28 | 477.443.124 | 606.673.216 | 581.648.013 | 536.522.996
+7000 | ADMINISTRATIVNO UPRAVLJANJE I OPREMANJE | 128.518.290,37 | 146.813.078 | 156.453.173 | 154.257.764 | 155.591.310
+A700000 | ADMINISTRACIJA I UPRAVLJANJE | 124.511.737,20 | 136.865.480 | 142.877.383 | 144.257.764 | 145.591.310
+3 | Rashodi poslovanja | 124.511.737,20 | 136.865.480 | 142.877.383 | 144.257.764 | 145.591.310
+31 | Rashodi za zaposlene | 97.205.931,18 | 110.393.786 | 114.209.711 | 116.052.129 | 118.166.966
+32 | Materijalni rashodi | 19.836.840,79 | 20.459.510 | 23.331.777 | 23.238.764 | 23.405.005
+34 | Financijski rashodi | 6.498.845,23 | 5.613.891 | 5.203.295 | 4.834.271 | 3.886.739
+36 | Pomoći dane u inozemstvo i unutar općeg proračuna | 128.988,78
+38 | Rashodi za donacije, kazne, naknade šteta i kapitalne pomoći | 841.131,22 | 398.293 | 132.600 | 132.600 | 132.600
+K700000 | OPREMANJE | 1.885.418,92 | 2.897.972 | 4.942.790 | 4.300.000 | 4.300.000
+4 | Rashodi za nabavu nefinancijske imovine | 1.885.418,92 | 2.897.972 | 4.942.790 | 4.300.000 | 4.300.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 1.885.418,92 | 2.897.972 | 4.942.790 | 4.300.000 | 4.300.000
+K700001 | INFORMATIZACIJA | 1.080.974,51 | 2.085.737 | 2.896.000 | 2.500.000 | 2.500.000
+4 | Rashodi za nabavu nefinancijske imovine | 1.080.974,51 | 2.085.737 | 2.896.000 | 2.500.000 | 2.500.000
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 296.623,45 | 890.732 | 1.222.000 | 1.000.000 | 1.000.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 784.351,06 | 1.195.005 | 1.674.000 | 1.500.000 | 1.500.000
+K700002 | OBNOVA VOZNOG PARKA | 1.036.966,18 | 4.963.889 | 5.737.000 | 3.200.000 | 3.200.000
+4 | Rashodi za nabavu nefinancijske imovine | 1.036.966,18 | 4.963.889 | 5.737.000 | 3.200.000 | 3.200.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 1.036.966,18 | 4.963.889 | 5.737.000 | 3.200.000 | 3.200.000
+K700003 | POSLOVNE ZGRADE | 3.193,56
+4 | Rashodi za nabavu nefinancijske imovine | 3.193,56
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 3.193,56
+7001 | SERVISIRANJE UNUTARNJEG DUGA | 243.491.592,57 | 144.835.135 | 131.607.359 | 132.478.461 | 147.696.820
+A700001 | ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA U JAVNOM SEKTORU | 109.788.695,24 | 39.607.219 | 39.537.246 | 41.366.535 | 47.107.678
+3 | Rashodi poslovanja | 24.820.145,98 | 24.363.874 | 24.293.901 | 24.099.167 | 23.685.357
+34 | Financijski rashodi | 24.820.145,98 | 24.363.874 | 24.293.901 | 24.099.167 | 23.685.357
+5 | Izdaci za financijsku imovinu i otplate zajmova | 84.968.549,26 | 15.243.345 | 15.243.345 | 17.267.368 | 23.422.321
+51 | Izdaci za dane zajmove i jamčevne pologe | 71.120.577,62
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 13.847.971,64 | 15.243.345 | 15.243.345 | 17.267.368 | 23.422.321
+A700002 | ZAJMOVI OD TUZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA IZVAN JAVNOG SEKTORA | 133.702.897,33 | 105.227.916 | 92.070.113 | 91.111.926 | 100.589.142
+3 | Rashodi poslovanja | 93.196.037,26 | 70.510.701 | 59.239.348 | 62.342.536 | 69.988.252
+34 | Financijski rashodi | 93.196.037,26 | 70.510.701 | 59.239.348 | 62.342.536 | 69.988.252
+5 | Izdaci za financijsku imovinu i otplate zajmova | 40.506.860,07 | 34.717.215 | 32.830.765 | 28.769.390 | 30.600.890
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 40.506.860,07 | 34.717.215 | 32.830.765 | 28.769.390 | 30.600.890
+7002 | SERVISIRANJE VANJSKOG DUGA | 57.338.991,36 | 53.325.684 | 48.066.259 | 44.129.174 | 42.886.604
+A700003 | ZAJMOVI OD INOZEMNIH BANAKA I OSTALIH FINANCIJSKIH INSTITUCIJA U JAVNOM SEKTORU | 57.338.991,36 | 53.325.684 | 48.066.259 | 44.129.174 | 42.886.604
+3 | Rashodi poslovanja | 13.895.821,32 | 8.935.147 | 6.772.439 | 5.639.085 | 4.551.099
+34 | Financijski rashodi | 13.895.821,32 | 8.935.147 | 6.772.439 | 5.639.085 | 4.551.099
+5 | Izdaci za financijsku imovinu i otplate zajmova | 43.443.170,04 | 44.390.537 | 41.293.820 | 38.490.089 | 38.335.505
+54 | Izdaci za otplatu glavnice primljenih kredita i zajmova | 43.443.170,04 | 44.390.537 | 41.293.820 | 38.490.089 | 38.335.505
+7003 | PROGRAM GRAĐENJA I IZVANREDNOG ODRŽAVANJA AUTOCESTA | 127.050.376,81 | 105.842.227 | 239.756.690 | 218.932.614 | 156.916.062
+K700003 | GRAĐENJE AUTOCESTA | 84.869.041,69 | 69.342.227 | 189.756.690 | 178.932.614 | 105.916.062
+4 | Rashodi za nabavu nefinancijske imovine | 84.869.041,69 | 69.342.227 | 189.756.690 | 178.932.614 | 105.916.062
+41 | Rashodi za nabavu neproizvedene dugotrajne imovine | 9.996.047,91 | 4.659.190 | 9.750.000 | 3.600.000 | 8.500.000
+42 | Rashodi za nabavu proizvedene dugotrajne imovine | 74.872.993,78 | 64.683.037 | 180.006.690 | 175.332.614 | 97.416.062
+K700004 | IZVANREDNO - INVESTICIJSKO ODRŽAVANJE | 42.181.335,12 | 36.500.000 | 50.000.000 | 40.000.000 | 51.000.000
+4 | Rashodi za nabavu nefinancijske imovine | 42.181.335,12 | 36.500.000 | 50.000.000 | 40.000.000 | 51.000.000
+45 | Rashodi za dodatna ulaganja na nefinancijskoj imovini | 42.181.335,12 | 36.500.000 | 50.000.000 | 40.000.000 | 51.000.000
+7004 | PROGRAM REDOVNOG ODRŽAVANJA | 24.238.067,17 | 26.627.000 | 30.789.735 | 31.850.000 | 33.432.200
+A700005 | REDOVNO ODRŽAVANJE | 24.238.067,17 | 26.627.000 | 30.789.735 | 31.850.000 | 33.432.200
+3 | Rashodi poslovanja | 24.238.067,17 | 26.627.000 | 30.789.735 | 31.850.000 | 33.432.200
+32 | Materijalni rashodi | 24.238.067,17 | 26.627.000 | 30.789.735 | 31.850.000 | 33.432.200
