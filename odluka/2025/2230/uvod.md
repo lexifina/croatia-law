@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka 31. Statuta Općine Povljana (»Službeni glasnik Zadarske županije« broj 13/21 i 11/23), Općinsko vijeće Općine Povljana na sjednici održanoj 28. studenoga 2025. godine donosi
