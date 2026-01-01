@@ -1,0 +1,1 @@
+Na temelju članka 19. a Zakona o porezu na dohodak (»Narodne novine« broj 115/16, 106/18, 121/19, 32/20, 138/20, 151/22, 114/23 i 152/24) i članka 32. Statuta Općine Otok (»Službeni glasnik Općine Otok« br. 5/21 - pročišćeni tekst), Općinsko vijeće Općine Otok na 6. sjednici održanoj 27. studenoga 2025. godine, donosi
