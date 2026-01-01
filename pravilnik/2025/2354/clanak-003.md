@@ -1,0 +1,21 @@
+## Pojmovi
+# Članak 3.
+(1) Izrazi koji se koriste u Zakonu o poljoprivredi (»Narodne novine«, br. 118/18., 42/20., 127/20. - Odluka Ustavnog suda Republike Hrvatske, 52/21., 152/22. i 152/24.) (u daljnjem tekstu: Zakon) koriste se i u ovom Pravilniku.
+(2) U smislu ovoga Pravilnika pojedini pojmovi imaju sljedeće značenje:
+1. uvoz je svako unošenje pošiljaka voća i povrća, određenih prerađenih proizvoda od voća i povrća i banana iz trećih zemalja koje su namijenjene stavljanju na tržište Europske unije ili za osobnu uporabu ili potrošnju na carinskom području Europske unije
+2. izvoz je svako iznošenje pošiljaka voća i povrća, određenih prerađenih proizvoda od voća i povrća i banana iz carinskog područja Europske unije
+3. uvoznik je svaki trgovac koji podnosi ili u čije ime se podnosi carinska deklaracija za puštanje pošiljaka voća i povrća, određenih prerađenih proizvoda od voća i povrća i banana u slobodni promet na carinskom području Europske unije
+4. izvoznik je svaki trgovac koji podnosi ili u čije ime se podnosi carinska deklaracija za pošiljke voća i povrća, određenih prerađenih proizvoda od voća i povrća i banana namijenjenih izvozu u treće zemlje
+5. treće zemlje jesu sve zemlje koje nisu članice Europske unije
+6. nadležni inspektor je inspektor Državnog inspektorata, a podrazumijeva poljoprivrednog inspektora i fitosanitarnog inspektora
+7. UNECE standardi su međunarodni standardi koje je odobrila Gospodarska komisija Ujedinjenih naroda za Europu
+8. potvrda o usklađenosti voća, povrća i banana s tržišnim standardima je potvrda iz Priloga III. Provedbene uredbe Komisije (EU) 2023/2430 (u daljnjem tekstu: potvrda o usklađenosti)
+9. certifikat OECD Sheme za primjenu međunarodnih standarda za voće i povrće (u daljnjem tekstu: OECD certifikat) je certifikat koji je izdalo ovlašteno tijelo zemlje izvoznice, članice OECD Sheme za primjenu međunarodnih standarda za voće i povrće ili ga izdaje nadležni inspektor za izvoz u zemlje članice OECD Sheme za primjenu međunarodnih standarda za voće i povrće
+10. Upisnik trgovaca voćem i povrćem, određenim prerađenim proizvodima od voća i povrća i bananama (u daljnjem tekstu: Upisnik trgovaca) je elektronička baza podataka o trgovcima voćem i povrćem, određenim prerađenim proizvodima od voća i povrća i bananama koju u skladu s člankom 131. Zakona uspostavlja i vodi Ministarstvo poljoprivrede, šumarstva i ribarstva (u daljnjem tekstu Ministarstvo).
+11. trgovac je pravna ili fizička osoba u smislu odredbe članka 3. stavka 2. Provedbene uredbe Komisije (EU) 2023/2430 i članka 11. ovoga Pravilnika
+12. ovlašteni trgovac je trgovac voćem i povrćem ovlašten rješenjem Ministarstva za obavljanje kontrole usklađenosti voća i povrća s tržišnim standardima, označavanje svakog pakiranja proizvoda u fazi otpreme korištenjem obrasca iz Priloga I. i potpisivanje potvrde o usklađenosti s tržišnim standardima Europske unije za svježe voće i povrće iz Priloga III. Provedbene uredbe Komisije (EU) 2023/2430
+13. proizvodno područje iz članka 5. stavka 1. točke (a) podtočke ii. i stavka 2. istog članka Delegirane uredbe Komisije (EU) 2023/2429 predstavlja administrativno teritorijalno područje jedne županije, osim u slučaju Grada Zagreba i Zagrebačke županije koji zajedno čine jedno proizvodno područje
+14. Jedinstvena kontaktna točka je mjesto pri kojem se na razini Republike Hrvatske, Europske unije i cijelog Europskog gospodarskog prostora pružaju informacije o uvjetima poslovanja u Republici Hrvatskoj, prvenstveno za pravo poslovnog nastana i slobodu pružanja usluga, u skladu sa zakonom kojim su uređene usluge
+15. viša sila podrazumijeva sljedeće vrste prirodnih nepogoda: olujni i orkanski vjetar, poplava, suša, tuča, kiša koja se smrzava u dodiru s podlogom, mraz te snježni nanos
+16. IMSOC sustav (Information Management System for Official Controls) je računalni sustav za upravljanje informacijama za službene kontrole, uspostavljen od strane Europske komisije u suradnji s državama članicama, za upravljanje podacima, informacijama i dokumentima povezanima s poljoprivredno-prehrambenim lancem i njihovu automatsku razmjenu u skladu s Uredbom Europskog parlamenta i Vijeća (EU) 2017/625 i Provedbenom uredbom Komisije (EU) br. 2019/1705.
+(3) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje, odnose se jednako na muški i ženski rod.

@@ -1,0 +1,2 @@
+# Članak 40.
+Ovaj Pravilnik stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim članka 5. stavka 5. ovoga Pravilnika u dijelu koji se odnosi na voće i povrće iz dijela IX. Priloga I. Uredbe (EU) br. 1308/2013. koje podliježe posebnom tržišnom standardu i koje poljoprivrednik prodaje krajnjem potrošaču za osobnu potrošnju na tržnicama u Republici Hrvatskoj, članka 6. stavka 2., članka 6. stavka 8. točke c), članka 7. i članka 8. ovoga Pravilnika koji stupaju na snagu 1. srpnja 2026.
