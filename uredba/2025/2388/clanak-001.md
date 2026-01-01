@@ -1,0 +1,4 @@
+## I. OPĆE ODREDBE
+# Članak 1.
+(1) Ovom Uredbom uređuju se obveze operatera postrojenja, operatora zrakoplova, brodarskih društava te reguliranih subjekata, praćenje i izvješćivanje o emisijama iz postrojenja, zrakoplovnih djelatnosti i pomorskih djelatnosti, način i mjerila za isključivanje malih postrojenja koja podliježu ekvivalentnim mjerama, način i mjerila za isključivanje malih postrojenja, pravila o praćenju i verifikaciji podataka iz izvješća o emisijama, osiguranje kvalitete podataka, način raspolaganja emisijskim jedinicama, pravila o praćenju i verifikaciji podataka iz izvješća o emisijama za regulirane subjekte, način primjene financijskih mjera u korist sektora izloženih riziku istjecanja ugljika, provjera izvješća o emisijama vezanim za mehanizam za graničnu naknadu na ugljik, pristup informacijama i način dostave podataka nadležnim tijelima Europske unije.
+(2) Sastavni dio ove Uredbe je Prilog I. Staklenički plinovi.

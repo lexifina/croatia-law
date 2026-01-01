@@ -1,0 +1,5 @@
+## VI. FINANCIJSKE MJERE I MEHANIZAM ZA GRANIČNU NAKNADU NA UGLJIK
+## Financijske mjere u korist sektora izloženih riziku istjecanja ugljika
+# Članak 15.
+(1) Ministarstvo izrađuje popis djelatnosti i financijskih mjera iz članka 109. stavka 10. Zakona na temelju analize sektora odnosno podsektora koji se smatraju izloženima značajnom riziku od izmještanja emisija stakleničkih plinova u treće zemlje zbog troškova vezanih za emisije stakleničkih plinova ugrađenih u cijene električne energije.
+(2) Analize iz stavka 1. ovoga članka uključivati će postojeće financijske potpore u Republici Hrvatskoj za sektore, odnosno podsektore navedene u Prilogu I. Smjernica za određene mjere državne potpore povezane sa sustavom trgovanja emisijskim jedinicama stakleničkih plinova nakon 2021. (2020/C 317/04) (SL C 317/5, 25. 9. 2020.) i dopuni Smjernica za određene mjere državne potpore povezane sa sustavom trgovanja emisijskim jedinicama stakleničkih plinova nakon 2021. (2021/C 528/01) (SL C 528/1 od 30. 12. 2021.).
