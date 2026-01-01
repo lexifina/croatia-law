@@ -1,0 +1,25 @@
+## OPĆE ODREDBE
+# Članak 1.
+Ovim Pravilnikom uređuju se obveznici, način plaćanja, vrste i visina naknada koje naplaćuje Hrvatska agencija za nadzor financijskih usluga (dalje u tekstu: Hanfa) na temelju ovlaštenja propisanih
+- Zakonom o Hrvatskoj agenciji za nadzor financijskih usluga (»Narodne novine«, broj 140/05, 154/11 i 12/12, dalje u tekstu: Zakon o Hanfi)
+- Zakonom o tržištu kapitala (»Narodne novine«, broj 65/18,17/20,83/21, 151/22, 85/24 i 126/25, dalje u tekstu: ZTK)
+- Zakonom o preuzimanju dioničkih društava (»Narodne novine«, broj 109/07, 36/09, 108/12, 90/13, 99/13, 148/13 i 151/25, dalje u tekstu: ZPDD)
+- Zakonom o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 44/16,126/19, 110/2176/22 i 125/24, dalje u tekstu: ZOIFJP)
+- Zakonom o alternativnim investicijskim fondovima (»Narodne novine«, broj 21/18, 126/19, 110/21, 83/23 i 152/24, dalje u tekstu: ZAIF)
+- Zakonom o osiguranju (»Narodne novine«, broj 30/15, 112/18, 63/20, 133/20, 151/22, 152/24 i 151/25, dalje u tekstu: ZOS)
+- Zakonom o obveznim mirovinskim fondovima (»Narodne novine«, broj 19/14, 93/15, 64/18, 115/18, 58/20, 156/23, dalje u tekstu: ZOMF)
+- Zakonom o dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 19/14, 29/18 ,115/18, 156/23 i 52/25, dalje u tekstu: ZDMF)
+- Zakonom o mirovinskim osiguravajućim društvima (»Narodne novine«, broj 22/14, 29/18,115/18, 156/23 i 52/25, dalje u tekstu: ZMOD)
+- Zakonom o doživotnoj otpremnini odnosno dokupu mirovine (»Narodne novine«, broj 153/13, dalje u tekstu: ZDODM)
+- Zakonom o leasingu (»Narodne novine«, broj 141/13, dalje u tekstu: ZOL)
+- Zakonom o faktoringu (»Narodne novine«, br. 94/14, 85/15 i 41/16, dalje u tekstu: ZOF)
+- Zakonom o provedbi Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. godine o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju (»Narodne novine«, broj 54/13 i 123/23, dalje u tekstu: Zakon o provedbi Uredbe EMIR)
+- Zakonom o provedbi Uredbe (EU) br. 909/2014 Europskog parlamenta i Vijeća od 23. srpnja 2014. o poboljšanju namire vrijednosnih papira u Europskoj uniji i o središnjim depozitorijima vrijednosnih papira te izmjeni direktiva 98/26/EZ i 2014/65/EU te Uredbe (EU) br. 236/2012 (»Narodne novine«, broj 44/16, 123/23 i 152/24, dalje u tekstu: Zakon o provedbi Uredbe CSDR)
+- Uredbom (EU) 2017/1129 Europskog parlamenta i Vijeća od 14. lipnja 2017. o prospektu koji je potrebno objaviti prilikom javne ponude vrijednosnih papira ili prilikom uvrštavanja za trgovanje na uređenom tržištu te stavljanju izvan snage Direktive 2003/71/EZ (dalje u tekstu: Uredba (EU) br. 2017/1129)
+- Zakonom o provedbi Uredbe (EU) 2016/1011 o indeksima koji se upotrebljavaju kao referentne vrijednosti (»Narodne novine«, broj 57/18, 46/21 i 123/23, dalje u tekstu: Zakon o provedbi Uredbe o indeksima)
+- Uredbom (EU) 2019/2033 Europskog parlamenta i Vijeća od 27. studenoga 2019. o bonitetnim zahtjevima za investicijska društva i o izmjeni uredaba (EU) br. 1093/2010, (EU) br. 575/2013, (EU) br. 600/2014 i (EU) br. 806/2014 (dalje u tekstu: IFR)
+- Zakonom o izdavanju pokrivenih obveznica i javnom nadzoru pokrivenih obveznica (»Narodne novine«, broj 53/22 i 151/25, dalje u tekstu: Zakon o izdavanju pokrivenih obveznica i javnom nadzoru pokrivenih obveznica)
+- Zakonom o provedbi Uredbe (EU) 2021/23 o okviru za oporavak i sanaciju središnjih drugih ugovornih strana (»Narodne novine«, broj 119/22, dalje u tekstu: Zakon o provedbi Uredbe CCP RRR)
+- Uredbom (EU) 2023/1114 Europskog parlamenta i Vijeća od 31. svibnja 2023. o tržištima kriptoimovine i izmjeni uredaba (EU) br. 1093/2010 i (EU) br. 1095/2010 te direktiva 2013/36/EU i (EU) 2019/1937 (SL L 150, 9.6.2023.) (dalje u tekstu: Uredba (EU) 2023/1114 Europskog parlamenta i Vijeća od 31. svibnja 2023. o tržištima kriptoimovine)
+- Zakonom o provedbi Uredbe (EU) 2023/1114 o tržištima kriptoimovine (»Narodne novine«, broj 85/24, dalje u tekstu: Zakon o provedbi Uredbe (EU) 2023/1114 o tržištima kriptoimovine)
+- Zakonom o provedbi Uredbe (EU) 2020/1503 o europskim pružateljima usluga skupnog financiranja (»Narodne novine«, broj 144/21 i 83/23, dalje u tekstu: Zakon o provedbi Uredbe (EU) 2020/1503).
