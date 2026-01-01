@@ -1,0 +1,1 @@
+Na temelju članka 104. stavka 2. i članka 135. stavka 2. Zakona o veterinarstvu (»Narodne novine«, br. 82/13., 148/13., 115/18., 52/21., 83/22., 152/22. i 18/23.), ministar poljoprivrede, šumarstva i ribarstva donosi

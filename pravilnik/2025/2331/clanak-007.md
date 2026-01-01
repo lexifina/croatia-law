@@ -1,0 +1,9 @@
+## Uvećanje naknade za sakupljanje, preradu i uklanjanje nusproizvoda K1 i K2
+# Članak 7.
+(1) Ako koncesionar odnosno pravna ili fizička osoba iz članka 101. stavka 2. Zakona o veterinarstvu (»Narodne novine«, br.: 82/13., 148/13., 115/18., 52/21., 83/22. i 18/23) (u daljnjem tekstu: Zakon) s kojom koncesionar ima sklopljen podugovor o sakupljanju nusproizvoda K1 i K2 tijekom sakupljanja nusproizvoda K1 i K2 utvrde da su nusproizvodi promijenjeni zbog raspadanja ili kvarenja, zbog neodgovarajućeg uskladištenja i postupanja s nusproizvodima prije sakupljanja, proizvođač nusproizvoda je obvezan platiti naknadu iz članaka 5. i 6. ovoga Pravilnika uvećanu za 50 %.
+(2) Promjene na nusproizvodima iz stavka 1. ovoga članka evidentira koncesionar odnosno pravna ili fizička osoba iz stavka 1. ovoga Pravilnika u komercijalnom dokumentu i računalnoj aplikaciji iz članka 8. ovoga Pravilnika.
+(3) Naknada iz članaka 5. i 6. ovoga Pravilnika uvećava se za 50 % ako se sakupljanje, prerada i uklanjanje nusproizvoda obavlja nedjeljom i u dane državnih blagdana na zahtjev proizvođača nusproizvoda, Ministarstva ili Državnog inspektorata.
+(4) Dodatno ostvarene troškove sakupljanja nusproizvoda s udaljenih ili teško dostupnih područja (npr. troškove prijevoz trajektom) iz članka 6. ovoga Pravilnika podmiruje proizvođač nusproizvoda.
+(5) Proizvođač nusproizvoda plaća uvećanu naknadu iz članaka 5. i 6. ovoga Pravilnika za 25,00 € po utovarnom mjestu ako je težina sakupljenih nusproizvoda manja od 100 kilograma.
+(6) Proizvođač nusproizvoda plaća naknadu iz članka 5. ovoga Pravilnika uvećanu za troškove deambalažiranja i zbrinjavanja ambalaže ako su nusproizvodi u ambalaži.
+(7) Naknada iz članka 6. stavka 1. ovoga Pravilnika uvećava se za 1,50 € po kilometru za poseban individualni prijevoz lešine za potrebe obdukcije i/ili uzorkovanja.
