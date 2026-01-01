@@ -1,0 +1,10 @@
+## POREZNOG ZAKONA
+# Članak 1.
+U Općem poreznom zakonu (»Narodne novine« br. 115/16., 106/18., 121/19., 32/20., 42/20., 114/22. i 152/24.) u članku 8. stavku 5. točki 4. riječ: »pisani« briše se.
+Iza stavka 14. dodaju se stavci 15. do 20. koji glase:
+»(15) Obveza čuvanja porezne tajne nije povrijeđena ako Ministarstvo financija, Porezna uprava jednom godišnje daje upravnom tijelu jedinice lokalne ili područne (regionalne) samouprave nadležnom za proračun i financije analitičke podatke o naplati lokalnih poreza koji pripadaju jedinici lokalne ili područne (regionalne) samouprave, čija je naplata povjerena Poreznoj upravi sukladno propisu kojim se uređuju lokalni porezi.
+(16) Obveza čuvanja porezne tajne nije povrijeđena ako Ministarstvo financija, Porezna uprava periodično daje upravnom tijelu jedinice lokalne ili područne (regionalne) samouprave nadležnom za proračun i financije podatke o naplati poreza na dohodak koji pripadaju jedinici lokalne ili područne (regionalne) samouprave sukladno propisu kojim se uređuje raspodjela prihoda od poreza na dohodak.
+(17) Podaci iz stavaka 15. i 16. ovoga članka daju se u svrhu praćenja naplate prihoda i primitaka iz nadležnosti jedinice lokalne ili područne (regionalne) samouprave, uplate u proračun i evidentiranja u proračunu sukladno propisu kojim se uređuje planiranje, izrada, donošenje i izvršavanje proračuna te se u druge svrhe ne mogu koristiti.
+(18) Podaci iz stavka 15. ovoga članka odnose se na: OIB, ime i prezime ili naziv poreznog obveznika te podatke o obvezama, uplatama i dospjelom dugovanju po pojedinoj vrsti lokalnog poreza.
+(19) Ovlaštene osobe jedinice lokalne ili područne (regionalne) samouprave kojima će biti omogućen pristup podacima iz stavaka 15. i 16. ovoga članka u svrhu propisanu stavkom 17. ovoga članka obvezne su čuvati te podatke kao poreznu tajnu sukladno odredbama ovoga članka.
+(20) Ministar financija pravilnikom propisuje opseg i vrstu podataka iz stavka 16. ovoga članka te rokove i način dostave podataka iz stavaka 15. i 16. ovoga članka.«.
