@@ -1,0 +1,4 @@
+## Primjena načela, utvrditi radniku pravo iz rada/po osnovi rada, koje je za njega najpovoljnije
+# Članak 13.
+Ako je neko pravo iz radnog odnosa različito uređeno ugovorom o radu, Pravilnikom o radu ili ovim Kolektivnim ugovorom ili zakonom, voljom poslodavca (odluka, rješenje, ugovor i sl.) primjenjuje se za radnika najpovoljnije pravo.
+Načelo zabrane diskriminacije[17](Članak 7. stavak 4. ZOR-a propisuje, da je izravna i neizravna diskriminacija na području rada i uvjeta rada zabranjena. To propisuje i posebni Zakon o suzbijanju diskriminacije, NN, 85/08 i 112/12. (aktom izravne diskriminacije smatra se postupanje uvjetovano nekim od osnova iz članka 1. stavka 1. ovoga Zakona kojim se osoba stavlja ili je bila stavljena ili bi mogla biti stavljena u nepovoljniji položaj od druge osobe u usporedivoj situaciji).)

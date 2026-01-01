@@ -1,0 +1,3 @@
+# Članak 141.
+Za izračun prosječne vrijednosti boda iz poslovanja poslodavca/godina ili kraće razdoblje, poslodavac koristi podatak iz plana usluga/godina iz djelatnosti, mjereno količinom bodova, kako je navedeno u prethodnom članku, te podatak o visini ugovorenih sredstava za zdravstvenu zaštitu s HZZO-om prema broju osiguranika o kojima on skrbi.
+Dijeleći iznos ugovorenih sredstava sa planiranim brojem bodova = planirana/moguća količina određene vrste usluga i vrijednost tih usluga/godina, limitirano ukupnim ugovorenim iznosom, poslodavac utvrđuje prosječnu vrijednost boda, pa time i prosječnu cijenu rada radnika u usluzi koji je obavio ili sudjelovao u njenom obavljanju, prema kalkulaciji HZZO-a.

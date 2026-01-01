@@ -1,0 +1,3 @@
+# Članak 125.
+Obračunati iznos plaće iz prethodnog članka, za radnika predstavlja iznos njegove primjerene plaće, prema opisanoj definiciji iz ovog Kolektivnog ugovora i čini osnovicu 2 za obračun dodataka na plaću za periodsku povišicu radniku iz članka 113. ovog Kolektivnog ugovora (plaća koja se obračunava za jednaki rad).
+Obračunati iznos plaće iz prethodnog stavka može biti isti, manji ili veći od iznosa kalkulativne plaće. Obračunati iznos kalkulativne plaće ne može biti manji od iznosa minimalne plaće, a veći, ne može biti veći od maksimalnog iznosa primjerene plaće, također prema odredbama ovog Kolektivnog ugovora, ako poslodavac ne odluči drugačije.

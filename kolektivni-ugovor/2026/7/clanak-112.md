@@ -1,0 +1,10 @@
+## MJERILA I KRITERIJI ZA OBRAČUN PLAĆE ZRPP I PRAVNIM OSOBAMA KOJE SU UKLJUČENE
+## U MREŽU JZS
+## Zajedničke odredbe
+# Članak 112.
+Razrada poglavlja o plaćama radnika obuhvaća tri različita pojma plaće, svaki sa svojim sadržajem/definicijom i to kako slijedi:
+1. brutoiznos = osnovica 1 (dalje: osnovica 1) za izračun plaće, a to je iznos koji utvrđuje Vlada RH svojom odlukom ili u Temeljnom kolektivnom ugovoru kojeg je u ime Države sklopila sa Sindikatom javnih službi ili na osnovi njegovih izmjena i dopuna, sa istom navedenom svrhom,
+2. pomnožena s koeficijentom utvrđenim za svako radno mjesto u djelatnosti zdravstva, kao relativnim iznosom vrijednosti poslova koje radnik obavlja prema rasporedu poslodavca za poslove radnog mjesta,
+3. da bi se dobio brutoiznos plaće koji podliježe povećanju za dodatak za minuli rad (periodska povišica) i druge dodatke iz ovog Kolektivnog ugovora.
+Iznos osnovice 1 iz stavka 1. pod 1., s obzirom na pretpostavku njene promjene uzrokovane promjenama u fiskalnoj politici Države, rastu BDP-a, financijskom planu HZZO-a i drugim parametrima ekonomske politike Države, Udruga objavljuje s pravnom snagom kao prilog I. uz Kolektivni ugovor, kao i sve promjene tijekom razdoblja njegove primjene i to u časopisu »Privatna praksa u zdravstvu« koji se dostavlja članovima pozivom na odredbe iz ovog stavka Kolektivnog ugovora.
+Koeficijenti složenosti iz stavka 1. pod 2. za poslove tipskih radnih mjesta u zdravstvenim djelatnostima privatnog zdravstva, kao izvadak iz Uredbe o nazivima radnih mjesta, uvjetima za raspored i koeficijentima za obračun plaće u javnim službama, NN, 22/24. (u daljnjem tekstu: Uredba), čine prilog br. II. uz ovaj Kolektivni ugovor i to kao njegov sastavni dio, s tim, da se svaka promjena uvjetovana istom razinom donošenja objavljuje u časopisu »Privatna praksa u zdravstvu« temeljem koje podatak iz objave dobiva pravnu snagu obveznosti, jer indirektno čini sastavni dio ovog Kolektivnog ugovora (uzročno-posljedično povezan s citiranom normom ovog članka).

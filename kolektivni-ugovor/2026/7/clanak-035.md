@@ -1,0 +1,3 @@
+# Članak 35.
+Sve podatke koje u procesu liječenja u ordinaciji ili zdravstvenoj ustanovi, odnosno trgovačkom društvu za zdravstvenu djelatnost (dalje: zdravstvene pravne osobe) sazna radnik tog/takvog poslodavca, iste ne smije iznositi i prezentirati trećima, pod prijetnjom činjenja povrede radne dužnosti i primjenu odgovarajuće sankcije, kako je propisano ovim Kolektivnim ugovorom.
+Podatke iz prethodnog stavka trećima može prezentirati samo poslodavac, i to one za koje mu je pacijent dao svoju privolu, tj. samo za svrhu liječenja ili nastavka liječenja kod drugog zdravstvenog radnika privatne prakse ili zdravstvene pravne osobe, za koju je pacijent dao privolu, koje su u statusu kooperanta prema poslodavcu za istu svrhu.

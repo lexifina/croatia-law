@@ -1,0 +1,5 @@
+## Utvrđivanje iznosa primjerene plaće
+# Članak 145.
+Kalkulativni iznos plaće radnika iz članka 123. ovog Kolektivnog ugovora, poslodavac, koji obavlja ljekarničku djelatnost, množi s koeficijentom odnosa prosječne vrijednosti boda iz stavka 5. prethodnog članka i baznog iznosa za usporedbu iz stavka 6. istog članka. Dobiveni iznos plaće za obračun, glede isplate, matematičkim postupkom korigira iznos kalkulativne plaće/radnik na manji i/ili viši iznos, tj. do iznosa primjerene plaće iz članka 124. stavak 2. ovog Kolektivnog ugovora, a najviše do maksimalnog iznosa iz članka 126. i 127. istog Kolektivnog ugovora.«.
+Veći iznos plaće od najvišeg iznosa primjerene plaće, kako je navedeno u prethodnom stavku određuje poslodavac prema svom nahođenju i mogućnosti, vodeći računa da ne ugrozi djelatnost, razvoj i svoj drugi vlasnički interes, uz uvjete iz članka 112. ovog Kolektivnog ugovora.
+Elementi za izračun primjerene plaće za radnika, koji obavlja poslove za poslodavca medicinsku sestru, u primarnoj razini zz, za poslove zdravstvene njege i rehabilitacije bolesnika u kući

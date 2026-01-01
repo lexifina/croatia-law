@@ -1,0 +1,6 @@
+# Članak 9.
+Radnik, koji je nastavio rad za novog poslodavca, poslodavca iz članka 1. ovog Kolektivnog ugovora, primjenom pravnog instituta prijenosa ugovora o radu, ostvaruje prava iz rada i po osnovi rada za novog poslodavca u nesmanjenom opsegu, prema opsegu koji je ostvario kod bivšeg poslodavca.
+Ako radnik kod prijenosa ugovora o radu nije ostvario sva prava iz rada i po osnovu rada za bivšeg poslodavca, novi poslodavac po načelu solidarnosti odgovara radniku i za nenamirena/dospjela prava iz rada za bivšeg poslodavca.
+Institut prijenosa ugovora o radu, prema opisu/intencijama iz ZOR-a, u privatnom zdravstvu Hrvatske primjenjuje se kod statusnih promjena, kada zdravstveni radnik privatne prakse zamjenjuje djelatnost iz tog statusa u novi status zdravstvene ustanove ili trgovačkog društva za obavljanje zdravstvene djelatnosti, koji postaju pravni slijednici njegove privatne prakse.
+Identično tome, pravni institut prijenosa ugovora primjenjuje se i kod podjela pravnih osoba - subjekata zdravstva iz članka 1. ovog Kolektivnog ugovora.
+Nadležnost za primjenu - načelo kompetencije[15](Pravo odlučivanja ustanove/osobe ili mjerodavnost, nadležnost, koji je ovlašten - također iz Hrvatskog enciklopedijskog rječnika, izdanje Liber, Zagreb, 2002. g.)

@@ -1,0 +1,2 @@
+# Članak 14.
+Prava i obveze utemeljene ovim Kolektivnim ugovorom, na području rada i uvjeta rada, uključujući kriterije za odabir i uvjete pri zapošljavanju, napredovanju, profesionalnom usmjeravanju, stručnom osposobljavanju i usavršavanju, te prekvalifikaciji jednaka su za sve radnike i podliježu primjeni propisa o izravnoj i neizravnoj diskriminaciji, odnosno postupanje suprotno tome je zabranjeno.
