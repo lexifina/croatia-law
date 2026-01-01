@@ -1,0 +1,19 @@
+## Cestarina
+# Članak 7.
+(1) Cestarina se plaća u iznosu određenom na temelju duljine naplatne dionice i na temelju naplatne skupine vozila, a može obuhvaćati jednu ili više sljedećih pristojbi i naknada:
+– infrastrukturnu pristojbu
+– naknadu zbog zagušenja
+– pristojbu za vanjske troškove.
+(2) Dio troškova onečišćenja zraka zbog prometa nadoknađuje se naplatom posebne naknade za okoliš za vozila na motorni pogon, sukladno propisima o zaštiti okoliša i energetskoj učinkovitosti, te nije uključen u pristojbu za vanjske troškove iz stavka 1. ovoga članka.
+(3) Cestarina se naplaćuje za sva vozila, laka i teška, koja upotrebljavaju autocestu ili objekt pod naplatom.
+(4) Vozila se za potrebe naplate cestarine raspoređuju u naplatne skupine sukladno broju osovina i/ili dimenziji i/ili maksimalno dopuštenoj ukupnoj težini vozila u opterećenom stanju i/ili drugim parametrima klasifikacije vozila koji odražavaju oštećivanje ceste, uz uvjet da se parametri za klasifikaciju vozila temelje na karakteristikama vozila koji su vidljivi ili su naznačeni u prometnoj dozvoli vozila odnosno dokumentima izdanim od strane proizvođača vozila ako prometna dozvola ne sadrži tehničke karakteristike vozila, a subjekti za naplatu cestarine imaju pravo zatražiti na uvid prometnu dozvolu vozila odnosno dokument koji je izdao proizvođač vozila ako prometna dozvola ne sadrži tehničke karakteristike vozila.
+(5) Cestarinom se ne smije diskriminirati korisnike prema državljanstvu korisnika, državi poslovnog nastana, državi registracije vozila, a niti s obzirom na polazište odnosno odredište.
+(6) Postupak utvrđivanja visine cestarine, pripadnost naplaćenih sredstava te namjena korištenja istih propisani su zakonom kojim se uređuje cestovna infrastruktura.
+(7) Ukupan iznos cestarine, iznos infrastrukturne pristojbe, iznos pristojbe za vanjske troškove i iznos naknade zbog zagušenja, ako se primjenjuju, moraju biti naznačeni na računu koji se izdaje korisniku.
+(8) Ministarstvo najmanje šest mjeseci prije uvođenja novih ili bitno izmijenjenih cestarina, određenih na temelju infrastrukturnih pristojbi, pristojbi za vanjske troškove i/ili naknada zbog zagušenja, o tome obavještava Europsku komisiju i provodi postupak za dobivanje mišljenja Europske komisije.
+(9) Subjekti za naplatu cestarine obvezni su do 25. ožujka tekuće godine za prethodnu godinu na mrežnim stranicama javno objavljivati podatke o naplaćenim cestarinama.
+(10) Ministar pravilnikom propisuje:
+– naplatne skupine u koje se raspoređuju vozila u svrhu naplate cestarine
+– metodologije utvrđivanja i izračuna cestarine i koncesijske cestarine, svih troškova koji ulaze u infrastrukturne troškove, troškove financiranja, infrastrukturne pristojbe, pristojbu za vanjske troškove koja se odnosi na troškove zaštite od buke i/ili onečišćenja zraka zbog prometa i /ili emisija CO2 zbog prometa, visinu pristojbe za vanjske troškove po pojedinoj autocesti odnosno dionici autoceste, naknade zbog zagušenja, utvrđivanje najviše razine infrastrukturnih pristojbi, umanjenje infrastrukturnih pristojbi za vozila koja ispunjavaju najviše ekološke standarde u pogledu emisijskih razreda i emisije CO2, kao i umanjenja infrastrukturnih pristojbi u svrhu učinkovitog korištenja autoceste i podizanja razine sigurnosti na autocesti, metodologiju izračunavanja prosječne naplaćene cestarine koja je razmjerna troškovima izgradnje, održavanja, upravljanja i razvoja mreže autocesta, a iskazana je kao ukupan prihod od cestarina u određenom vremenskom razdoblju podijeljen s brojem prevaljenih kilometara svih vozila koja su platila cestarinu na određenoj mreži autocesta
+– podatke koje Ministarstvo dostavlja Europskoj komisiji radi usklađivanja infrastrukturnih pristojbi i pristojbi za vanjske troškove i
+– strukturu podataka koji se javno objavljuju na temelju stavka 9. ovoga članka.

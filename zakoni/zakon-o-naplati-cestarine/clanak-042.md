@@ -1,0 +1,9 @@
+## Nadzor naplate cestarine koji provode subjekti za naplatu cestarine
+# Članak 42.
+(1) Kada se neplaćanje cestarine utvrdi naknadnom provjerom podataka iz ESNC-a, subjekt za naplatu cestarine će vlasnika vozila, korisnika vozila na temelju ugovora o leasingu ili sličnog ugovora odnosno osobu identificiranu na drugi način pisanim putem obavijestiti o neplaćanju cestarine dostavom isprave iz članka 22. stavka 6. ovoga Zakona.
+(2) Obavijest o neplaćanju cestarine iz stavka 1. ovoga članka dostavlja se poštanskom pošiljkom ili kroz korisnički pretinac u okviru državne informacijske infrastrukture kada su ostvarene mogućnosti za dostavu elektroničkim putem.
+(3) Za osobu kojoj se obavijest o neplaćanju cestarine šalje kroz korisnički pretinac iz stavka 2. ovoga članka, dostava se smatra obavljenom po isteku osmog dana od dana slanja obavijesti o neplaćanju cestarine u korisnički pretinac.
+(4) Za osobu kojoj je upućena obavijest o neplaćanju cestarine poštanskom pošiljkom dostava se smatra obavljenom po isteku roka od 28 dana od dana izdavanja obavijesti.
+(5) Ako se ne postupi u skladu s obavijesti iz stavka 1. ovoga članka, subjekt za naplatu cestarine dostavlja Ministarstvu vjerodostojnu dokumentaciju o neplaćanju cestarine radi provedbe inspekcijskog nadzora naplate cestarine.
+(6) Ako je nadzornik utvrdio da korisnik krši obveze iz članaka 18. do 21. ovoga Zakona, a korisnik odbije uključenje u ESNC u skladu s člankom 16. ovoga Zakona, odbije platiti naknade iz članka 22. stavka 1. ovoga Zakona odnosno odbije otkloniti druge povrede obveza iz članaka 18. do 21. ovoga Zakona, subjekt za naplatu cestarine dostavlja Ministarstvu vjerodostojnu dokumentaciju o provedenom nadzoru tijekom kojeg nisu otklonjene povrede obveza iz članaka 18. do 21. ovoga Zakona, radi provedbe inspekcijskog nadzora naplate cestarine.
+(7) Obvezan sadržaj, službeni jezik i obrasce za obavještavanje iz stavka 1. ovoga članka pravilnikom propisuje ministar.

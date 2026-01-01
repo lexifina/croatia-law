@@ -1,0 +1,11 @@
+## IV. POSEBNE ODREDBE VEZANE ZA PLAĆANJE CESTARINE
+## Cestarina za osobe s invaliditetom
+# Članak 23.
+(1) Osobe s invaliditetom, koje sukladno zakonu kojim se uređuju povlastice u prometu ne plaćaju cestarinu za uporabu autoceste odnosno objekta pod naplatom za osobni automobil kojim se prevoze za osobne potrebe u smislu zakona kojim se uređuje prijevoz u cestovnom prometu, ostvaruju pravo na oslobađanje od plaćanja cestarine tako da se za svaku upotrebu autoceste odnosno objekta pod naplatom provede uključenje u ESNC unosom oznaka s registarske pločice osobnog automobila i važeće isprave na temelju koje ostvaruju pravo na oslobađanje cestarine izdane prema zakonu kojim se uređuju povlastice u prometu (u daljnjem u tekstu: Nacionalna iskaznica), koja u tom slučaju zamjenjuje valjano sredstvo plaćanja.
+(2) Uključenje u ESNC iz stavka 1. ovoga članka provodi se isključivo na namjenskim stazama za brzo uključenje u ESNC iz članka 16. stavka 3. podstavka 3. ovoga Zakona, a vrijedi tijekom jedne upotrebe autoceste odnosno objekta pod naplatom i prestaje izlaskom s naplatne dionice pod upravljanjem jednog subjekta za naplatu cestarine.
+(3) Osoba s invaliditetom, kojoj je izdana Nacionalna iskaznica s kojom je provedeno uključenje u ESNC iz stavka 1. ovoga članka, tijekom te upotrebe autoceste odnosno objekta pod naplatom mora se nalaziti u osobnom automobilu.
+(4) Uključenje u ESNC iz stavka 1. ovoga članka nije dozvoljeno ako već postoji uključenje za drugo vozilo uz istu Nacionalnu iskaznicu.
+(5) Ako se osoba s invaliditetom ne nalazi u osobnom automobilu za koji je provedeno uključenje iz stavka 1. ovoga članka, vozač je prije upotrebe autoceste odnosno objekta pod naplatom dužan osigurati uključenje u ESNC u skladu s člankom 16. stavkom 7. ovoga Zakona.
+(6) Osoba s invaliditetom dužna je, u svrhu utvrđivanja njezine prisutnosti u osobnom automobilu, tijekom nadzora plaćanja cestarine dati na uvid Nacionalnu iskaznicu.
+(7) Subjektima za naplatu cestarine se iz sredstava državnog proračuna nadoknađuje iznos cestarine koji nisu ostvarili zbog primjene odredbi stavka 1. ovoga članka.
+(8) Dokumentaciju za ostvarivanje prava na nadoknadu iznosa cestarine iz stavka 7. ovoga članka pravilnikom propisuje ministar uz prethodnu suglasnost ministra nadležnog za financije.

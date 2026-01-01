@@ -1,0 +1,4 @@
+## Prestanak važenja propisa
+# Članak 66.
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti članak 1.a stavak 1. točke 5. i 9., članak 9. stavci 1. do 18. i stavci 22. i 23., članak 9.c, članak 10., članak 10.a, članak 11., članak11.a, članak 12., članak 12.a, članak 13., članak 13.a, članak 14., članak 14.a, članak 14.b, članak 15., članak 75. stavak 5., članak 112. stavak 1. točka 9. i članak 113 stavak 1. točka 1. Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14., 110/19., 144/21., 114/22., 4/23. – Odluka Ustavnog suda Republike Hrvatske i 133/23.).
+(2) Odredbe članka 2. stavka 1. točke 22., članka 9. stavaka 19, 20. i 21., članka 89.a, članka 90. u dijelu koji se odnosi na cestarinu i članka 115. Zakona o cestama (»Narodne novine«, br. 84/11., 22/13., 54/13., 148/13., 92/14., 110/19., 144/21., 114/22., 4/23. – Odluka Ustavnog suda Republike Hrvatske i 133/23.) prestaju važiti 1. ožujka 2027.

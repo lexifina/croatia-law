@@ -1,0 +1,17 @@
+## Nadzor naplate cestarine koji provodi Ministarstvo
+# Članak 46.
+(1) Inspekcijski nadzor iz članka 41. stavka 4. ovoga Zakona obavljaju inspektori naplate cestarine.
+(2) Kada tijekom inspekcijskog nadzora inspektor naplate cestarine utvrdi počinjenje prekršaja iz glave IX. ovoga Zakona, ovlašten je izdati prekršajni nalog.
+(3) Inspektor naplate cestarine ovlašten je rješenjem privremeno isključiti vozilo iz prometa oduzimanjem prometne dozvole i registarskih pločica vozila ako je vozač tijekom nadzora iz članka 41. stavka 1. ovoga Zakona odbio otkloniti povrede obveza iz članaka 18. do 21. ovoga Zakona.
+(4) Rješenjem iz stavka 3. ovoga članka određuje se privremeno oduzimanje prometne dozvole i registarskih pločica vozila do ispunjenja obveza iz članaka 18. do 21. ovoga Zakona, u trajanju najdulje do tri dana, uz obvezu vraćanja navedenih isprava nakon što prestanu razlozi za njihovo privremeno oduzimanje ili istekne rok na koji su isprave oduzete.
+(5) Protiv rješenja iz stavka 3. ovoga članka nije dopuštena žalba, ali se može pokrenuti upravni spor.
+(6) Ako vozač ne postupi dobrovoljno prema izreci rješenja iz stavka 3. ovoga članka, odnosno ne preda prometnu dozvolu i registarske pločice vozila, o čemu će inspektora naplate cestarine obavijestiti nadzornik, inspektor naplate cestarine ovlašten je zatražiti asistenciju policije.
+(7) O privremenom oduzimanju prometne dozvole i registarskih pločica vozila inspektor naplate cestarine obavještava nadležno tijelo koje ih je izdalo.
+(8) Ako se u roku od osam dana od isteka roka za preuzimanje prometne dozvole i registarskih pločica vozila privremeno oduzetih po rješenju iz stavka 3. ovoga članka iste ne preuzme, bit će dostavljene tijelu koje ih je izdalo.
+(9) Inspektor naplate cestarine ovlašten je, radi sprječavanja u činjenju novih prekršaja, vozaču za kojeg postoji osnova sumnje da je počinitelj prekršaja iz ovoga Zakona naredbom odrediti mjeru opreza privremenog oduzimanja vozačke dozvole za upravljanje vozilom, najdulje do tri dana.
+(10) Inspektor naplate cestarine može, radi uručenja počinitelju prekršaja, prekršajni nalog iz stavka 2. ovoga članka, rješenje iz stavka 3. ovoga članka i naredbu iz stavka 9. ovoga članka dostaviti nadležnom nadzorniku korištenjem komunikacijskih uređaja na daljinu.
+(11) Nadzornik je tijekom obavljanja poslova iz članka 43. ovoga Zakona ovlašten dostaviti prekršajni nalog iz stavka 2. ovoga članka, rješenje iz stavka 3. ovoga članka i naredbu iz stavka 9. ovoga članka te prihvatiti predaju prometne dozvole, registarskih pločica vozila i vozačke dozvole, pod uvjetom da se dobrovoljno predaju.
+(12) O preuzimanju prometne dozvole, registarskih pločica vozila i vozačke dozvole nadzornik izdaje potvrdu, koja sadrži podatak o mjestu na kojem se privremeno oduzete isprave mogu preuzeti i rok za njihovo preuzimanje.
+(13) Ako naredbom iz stavka 9. ovoga članka odredi mjeru opreza privremenog oduzimanja vozačke dozvole, inspektor naplate cestarine obavijestit će o tome policiju radi izvršenja izrečene mjere opreza.
+(14) Privremeno oduzetu vozačku dozvolu čiju je predaju prihvatio nadzornik u skladu sa stavkom 11. ovoga članka nadzornik predaje najbližoj policijskoj postaji.
+(15) Ako vozač ne preuzme privremeno oduzetu vozačku dozvolu po isteku mjere opreza, a najkasnije u roku od tri dana od dana isteka, vozačka dozvola dostavit će se policijskoj upravi ili policijskoj postaji koja ju je izdala odnosno drugom tijelu koje ju je izdalo.

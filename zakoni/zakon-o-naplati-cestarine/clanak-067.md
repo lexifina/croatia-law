@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 67.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članka 14., članka 15. stavaka 1. do 5., članaka 16. do 22., članka 23. stavaka 1. do 7., članaka 24. do 27., članka 28. stavaka 1. do 15., članaka 29. do 31., članka 32. stavaka 1., 2. i 3., članaka 33. do 37., članka 38. stavaka 1. do 9., članka 39. stavaka 1. do 6., članka 40., članka 41. stavaka 1. do 7., članka 42. stavaka 1. do 6., članka 43., članka 44. stavaka 1. do 9., članaka 45. i 46., članka 47. stavaka 1., 2. i 3., članaka 48. i 49. te članaka 52. do 57., koji stupaju na snagu 1. ožujka 2027.
