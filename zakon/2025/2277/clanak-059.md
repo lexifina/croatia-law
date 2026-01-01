@@ -1,0 +1,2 @@
+# Članak 59.
+Vlada će odlukom osnovati povjerenstvo sa zadaćom davanja suglasnosti na odluke Hrvatske banke za obnovu i razvitak o odobrenju jamstava iz članka 58. ovoga Zakona te istom odlukom pobliže urediti njegov sastav, djelokrug i način rada.

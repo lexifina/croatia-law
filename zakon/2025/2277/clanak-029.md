@@ -1,0 +1,4 @@
+# Članak 29.
+(1) Korisnici koji se financiraju iz Proračuna obvezni su nadležnom ministarstvu dostaviti mjesečno izvješće o zasnivanju i o prestanku radnog odnosa radnika do 5. u mjesecu za prethodni mjesec.
+(2) Korisnici koji se financiraju iz Proračuna i kojima nadležno ministarstvo obračunava i/ili doznačava proračunska sredstva u 2026. godini za plaće i druge rashode obvezni su nadležnom ministarstvu dostaviti rješenje o zasnivanju i o prestanku radnog odnosa radnika odnosno ugovor o radu i prestanku ugovora o radu radnika u roku od osam dana od dana zasnivanja ili prestanka radnog odnosa.
+(3) Izvanproračunski korisnici državnog proračuna kojima se iz Proračuna dodjeljuju subvencije i/ili pomoći iz razdjela nadležnih ministarstava dužni su prije sklapanja kolektivnih ugovora i/ili donošenja propisa i drugih akata kojima se uređuju materijalna prava zaposlenika dobiti prethodnu suglasnost nadležnog ministarstva o tim aktima.

@@ -1,0 +1,3 @@
+# Članak 27.
+(1) Ovrhe koje su provedene na teret aktivnosti A539287 Obveze po sudskim sporovima, a iz nadležnosti su korisnika, korisnik je dužan najkasnije u roku od 14 radnih dana od dana zaprimanja mjesečnog izvještaja Financijske agencije (FINA) preknjižiti na svoju proračunsku poziciju.
+(2) Ako korisnik najkasnije u roku od 14 radnih dana od dana zaprimanja mjesečnog izvještaja ne preknjiži ovrhe iz stavka 1. ovog članka na svoje proračunske pozicije odnosno ne dostavi Ministarstvu i Financijskoj agenciji (FINA) obavijest da ovrhe nisu iz njegove nadležnosti, sredstva će na njegove proračunske pozicije preknjižiti Ministarstvo.

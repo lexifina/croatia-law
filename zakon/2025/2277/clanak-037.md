@@ -1,0 +1,3 @@
+# Članak 37.
+(1) Doprinosi za mirovinsko osiguranje na temelju generacijske solidarnosti i obvezno zdravstveno osiguranje koji su uplaćeni za osiguranike, prema članku 23. Zakona o obnovi i razvoju Grada Vukovara (»Narodne novine«, br. 44/01., 90/05., 80/08., 38/09. i 148/13.) i Odluci o primjeni poticajnih mjera na području Grada Iloka, Općine Tovarnik i Općine Lovas (»Narodne novine«, br. 24/02.), vratit će se poslodavcima sa sjedištem odnosno s prebivalištem na području Grada Vukovara, Iloka te Lovasa i Tovarnika na teret financijskog plana Fonda za obnovu i razvoj Grada Vukovara.
+(2) Poslodavci iz stavka 1. ovoga članka zahtjev za povrat doprinosa podnose Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje.

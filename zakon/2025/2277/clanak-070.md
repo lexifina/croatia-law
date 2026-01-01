@@ -1,0 +1,7 @@
+# Članak 70.
+(1) Odluka o kriterijima za dodjelu pomoći na ime poticaja za dobrovoljno funkcionalno odnosno stvarno spajanje jedinica lokalne samouprave (»Narodne novine«, br. 88/22.) ostaje na snazi i u 2026. godini.
+(2) Naputak o načinu isplate beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave, Hrvatskom zavodu za mirovinsko osiguranje i Hrvatskom zavodu za zdravstveno osiguranje (»Narodne novine«, br. 46/20., 5/21. i 73/21.) ostaje na snazi i u 2026. godini u dijelu koji se odnosi na povrat beskamatnih zajmova danih na temelju njega.
+(3) Odluka o isplati razlike iznosa uvećanja plaće za prekovremeni rad radnicima u djelatnosti zdravstva i zdravstvenog osiguranja (»Narodne novine, br. 101/21. i 147/21.) ostaje na snazi i u 2026. godini.
+(4) Povjerenstvo iz članka 59. ovoga Zakona, osnovano na temelju Odluke o osnivanju Povjerenstva sa zadaćom davanja suglasnosti na odluke Hrvatske banke za obnovu i razvitak o odobrenju jamstava, klasa: 022-03/23-04/139, urbroj: 50301-05/16-23-2, od 6. travnja 2023., nastavlja s radom i u 2026. godini.
+(5) Povjerenstvo iz stavka 4. ovoga članka odlučuje o davanju suglasnosti na odluke Hrvatske banke za obnovu i razvitak o odobrenju jamstava iz članka 58. ovoga Zakona.
+(6) Naputak o izradi i dostavi mjesečnog plana plaćanja rashoda i izdataka proračunskih korisnika državnog proračuna (»Narodne novine, br. 38/25.) ostaje na snazi i u 2026. godini.

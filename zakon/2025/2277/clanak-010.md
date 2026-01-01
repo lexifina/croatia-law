@@ -1,0 +1,9 @@
+# Članak 10.
+(1) Vlada donosi odluke o isplati sredstava za podmirivanje dijela dospjelih obveza bolničkih zdravstvenih ustanova kojima su osnivači Republika Hrvatska i jedinice lokalne i područne (regionalne) samouprave prema dobavljačima lijekova, potrošnog i ugradbenog medicinskog materijala na prijedlog Ministarstva zdravstva na koji je prethodnu suglasnost dalo Ministarstvo.
+(2) Sredstva iz stavka 1. ovoga članka osiguravaju se na pozicijama Ministarstva zdravstva aktivnosti A618207 Administracija i upravljanje, skupini računa 32 Materijalni rashodi.
+(3) Sredstva iz stavka 1. ovoga članka mogu se, uz prethodnu suglasnost Ministarstva, preraspodjeljivati tijekom proračunske godine, i to bez ograničenja unutar aktivnosti A618207 Administracija i upravljanje.
+(4) Sredstva iz stavka 1. ovoga članka za bolničke zdravstvene ustanove kojima je osnivač Republika Hrvatska mogu se, uz prethodnu suglasnost Ministarstva, preraspodijeliti bez ograničenja na pozicije bolničkih zdravstvenih ustanova kojima je osnivač Republika Hrvatska.
+(5) Za preraspodjelu sredstava iz stavka 4. ovoga članka bolnička zdravstvena ustanova kojoj je osnivač Republika Hrvatska može naknadno utvrditi aktivnosti unutar svog financijskog plana, uz prethodnu suglasnost Ministarstva.
+(6) Ministarstvo zdravstva će bolničkim zdravstvenim ustanovama kojima su osnivači jedinice lokalne i područne (regionalne) samouprave sredstva iz stavka 1. ovoga članka isplaćivati kao namjensku pomoć.
+(7) Ministarstvo zdravstva će s jedinicama lokalne i područne (regionalne) samouprave potpisati ugovore o načinu utroška sredstava namjenske pomoći doznačenih u skladu s ovim člankom.
+(8) Jedinice lokalne i područne (regionalne) samouprave dužne su pratiti utrošak sredstava koja će biti doznačena bolničkim zdravstvenim ustanovama, a o utrošku sredstava dužne su izvijestiti Ministarstvo zdravstva i Ministarstvo na način i u rokovima koji se utvrde u ugovorima iz stavka 7. ovoga članka.

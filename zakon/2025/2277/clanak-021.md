@@ -1,0 +1,2 @@
+# Članak 21.
+Korisnici koji prenose sredstva subvencija, pomoći i ostalih rashoda na temelju javnih poziva, natječaja i drugih akata dužni su dinamiku prijenosa sredstava uspostaviti u skladu s dinamikom realizacije aktivnosti i projekata te dospijećem obveza za koje se prenose sredstva, sukladno načelima dobrog financijskog upravljanja, a posebno u skladu s načelima ekonomičnosti, učinkovitosti i djelotvornosti.
