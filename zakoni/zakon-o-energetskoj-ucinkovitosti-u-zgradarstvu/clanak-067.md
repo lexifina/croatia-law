@@ -1,0 +1,3 @@
+## Programi certificiranja ili programi istovrijednih kvalifikacija za projektante sustava obnovljivih izvora energije
+# Članak 67.
+Programi certificiranja ili programi istovrijednih kvalifikacija za projektante svih oblika sustava grijanja i hlađenja iz obnovljivih izvora, solarnih fotonaponskih sustava, uključujući skladištenje energije te mjesta za punjenje električnog vozila koja omogućuju upravljanje potrošnjom, provode se sukladno propisima kojima se uređuju poslovi i djelatnosti prostornog uređenja i gradnje u okviru kojih se propisuje obavljanje stručnih poslova i djelatnosti projektiranja, zadaće struka, stručni ispit i stručno usavršavanje.

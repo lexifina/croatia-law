@@ -1,0 +1,4 @@
+## Ugovor o energetskom učinku u zgradarstvu
+# Članak 60.
+(1) Ugovorom o energetskom učinku u zgradarstvu pružatelj energetske usluge korisniku energetske usluge obvezuje se provesti ulaganja koja se odnose na radove ili usluge, u mjere energetske učinkovitosti kojima se postiže zajamčena ušteda energije i/ili ušteda vode i/ili ušteda pripadajućih troškova u odnosu na referentnu potrošnju energije i/ili pripadajućih troškova, na način da rizik i koristi takvog ugovaranja preuzme pružatelj energetske usluge, a korisnik se pružatelju energetske usluge obvezuje za trajanja ugovora plaćati naknadu temeljenu na ugovorenoj novčanoj vrijednosti energetskih ušteda koje su ostvarene i utvrđene.
+(2) Na pitanja sadržaja, načina provedbe, praćenja i verifikacije ušteda te ulaganja pružatelja energetske usluge primjenjuju se odgovarajuće odredbe zakona kojim se uređuje područje energetske učinkovitosti.

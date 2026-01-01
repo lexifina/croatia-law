@@ -1,0 +1,5 @@
+## Učestalost i opseg redovitih pregleda sustava hlađenja ili klimatizacije u zgradi
+# Članak 19.
+(1) Vlasnik zgrade odnosno njezina posebnog dijela dužan je osigurati redoviti pregled dostupnih dijelova sustava hlađenja ili klimatizacije odnosno kombiniranih sustava klimatizacije i ventilacije efektivne nazivne snage veće od 70 kW najmanje jednom u deset godina, a što se može obaviti i zajedno s energetskim pregledom zgrade.
+(2) Pregledi iz stavka 1. ovoga članka uključuju procjenu učinkovitosti i dimenzioniranja sustava hlađenja ili klimatizacije u usporedbi s potrebama hlađenja zgrade i njima se, prema potrebi, uzimaju u obzir sposobnosti sustava hlađenja ili klimatizacije odnosno kombiniranog sustava klimatizacije i ventilacije za optimizaciju njegove učinkovitosti u tipičnim ili prosječnim uvjetima rada.
+(3) Ako nije bilo promjena u sustavu hlađenja ili klimatizacije odnosno u kombiniranom sustavu klimatizacije i ventilacije prostora ili u pogledu potreba hlađenja zgrade nakon pregleda provedenog u skladu sa stavcima 1. i 2. ovoga članka, nije potrebno ponoviti procjenu dimenzioniranja sustava hlađenja ili klimatizacije.

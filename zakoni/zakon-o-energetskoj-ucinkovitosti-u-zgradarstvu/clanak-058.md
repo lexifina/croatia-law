@@ -1,0 +1,7 @@
+## Energetska obnova višestambene zgrade putem financijskog instrumenta
+# Članak 58.
+(1) Projekti energetske obnove višestambenih zgrada financirani iz fondova Europske unije i drugih javnih i privatnih sredstava koji se provode putem financijskih instrumenata provode se sukladno sporazumima koji su potpisani u vezi s potporom koju pružaju financijski instrumenti, uključujući onu za vlasnički kapital, zajmove, jamstva ili ostale oblike ulaganja koji se pružaju primateljima.
+(2) Prijavitelj projekta odnosno krajnji primatelj financijskog instrumenta za projekte financirane iz fondova Europske unije i drugih javnih i privatnih sredstava za energetsku obnovu višestambene zgrade je zajednica suvlasnika putem upravitelja zgrade ili putem izabranog predstavnika suvlasnika odnosno opunomoćenika.
+(3) Odluku o sklapanju ugovora o energetskoj obnovi višestambene zgrade u smislu odredbe članka 6. stavka 1. točke 3. ovoga Zakona donose suvlasnici zgrade na temelju natpolovične većine suvlasnika.
+(4) Sporazum kojim se pruža potpora financijskim instrumentom za projekte financirane iz fondova Europske unije i drugih javnih i privatnih sredstava može, među ostalim, sadržavati podatak o posebnom računu zgrade za provedbu projekta na koji se uplaćuju sredstva programskog doprinosa.
+(5) Sredstva programskog doprinosa uplaćena na poseban račun zgrade za provedbu projekta iz stavka 4. ovoga članka izuzeta su od ovrhe.

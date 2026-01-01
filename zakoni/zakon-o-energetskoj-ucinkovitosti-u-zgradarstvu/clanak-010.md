@@ -1,0 +1,8 @@
+## Zgrade s nultim emisijama
+# Članak 10.
+(1) Sve nove zgrade za koje se zahtjev za izdavanje lokacijske ili građevinske dozvole za koju se ne izdaje lokacijska dozvola podnosi od 1. siječnja 2030., a za nove zgrade čiji su vlasnici javna tijela za koje se zahtjev za izdavanje lokacijske ili građevinske dozvole za koju se ne izdaje lokacijska dozvola podnosi od 1. siječnja 2028. moraju biti »zgrade s nultim emisijama«.
+(2) Oznaka za »zgrade s nultim emisijama«, u Iskaznici energetskih svojstava zgrade kao rezultat proračuna u dijelu glavnog projekta koji se odnosi na racionalnu uporabu energije i toplinsku zaštitu u zgradama te energetskom certifikatu zgrade, je »ZEB«.
+(3) Od datuma navedenih u stavku 1. ovoga članka glavni projekt nove zgrade, koji se prilaže uz zahtjev za izdavanje građevinske dozvole i/ili uz prijavu početka građenja, mora biti izrađen u skladu s odredbama za zgrade s nultim emisijama prema pravilniku iz članka 8. ovoga Zakona.
+(4) Energetskim certifikatom zgrade koji se prilaže zahtjevu za izdavanje uporabne dozvole dokazuje se da je zgrada izgrađena kao zgrada s nultim emisijama.
+(5) Nadležno tijelo ne smije izdati građevinsku dozvolu za novu zgradu za koju se zahtjevu za izdavanje građevinske dozvole obvezno prilaže glavni projekt ako prema rokovima iz stavka 1. ovoga članka, uvidom u priloženu dokumentaciju, utvrdi da zgrada ne ispunjava zahtjeve iz stavka 2. ovoga članka.
+(6) Nadležno tijelo ne smije izdati uporabnu dozvolu za novu zgradu ako prema rokovima iz stavka 1. ovoga članka, uvidom u priloženu dokumentaciju, utvrdi da zgrada ne ispunjava zahtjeve iz stavaka 2. i 4. ovoga članka.

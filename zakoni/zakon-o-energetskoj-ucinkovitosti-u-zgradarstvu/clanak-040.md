@@ -1,0 +1,3 @@
+## Pravilnik o energetskom pregledu zgrade i energetskom certificiranju, ovlaštenim osobama te neovisnoj kontroli
+# Članak 40.
+Način provedbe energetskog pregleda zgrade i redovitih pregleda sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, sadržaj izvješća o tim pregledima, način energetskog certificiranja, sadržaj i izgled energetskog certifikata, zgrade s malim energetskim potrebama, način provedbe neovisne kontrole energetskog certifikata i izvješća o redovitom pregledu sustava grijanja i sustava hlađenja ili klimatizacije u zgradi, sadržaj i način provedbe programa stručnog osposobljavanja prema Modulu 1 i Modulu 2, provjere znanja stručne osposobljenosti i obveznog usavršavanja ovlaštenih osoba, sadržaj registra propisuje ministar pravilnikom.
