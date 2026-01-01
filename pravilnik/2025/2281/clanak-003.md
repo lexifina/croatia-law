@@ -1,0 +1,3 @@
+# Članak 3.
+(1) Društvo za zastupanje u osiguranju, društvo za brokerske poslove u osiguranju i/ili u reosiguranju, sporedni posrednik u osiguranju, obrtnik zastupnik u osiguranju, obrtnik broker u osiguranju i/ili reosiguranju, kreditna institucija, Financijska agencija, HP - Hrvatska pošta d.d., leasing-društvo i investicijsko društvo dužno je sastavljati statistički izvještaj.
+(2) Osobe iz stavka 1. ovog članka dužne su sastavljati statistički izvještaj iz stavka 1. ovoga članka sa stanjem na dan 30. lipnja (polugodišnji statistički izvještaj) i 31. prosinca (godišnji statistički izvještaj).

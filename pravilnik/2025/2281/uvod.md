@@ -1,0 +1,1 @@
+Na temelju članka 428. točaka 3. i 4. Zakona o osiguranju (»Narodne novine«, broj 30/15, 112/18, 63/20, 133/20, 151/22 i 152/24) te članka 18. stavka 14. Zakona o računovodstvu (»Narodne novine« broj 85/24, 145/24), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 9. prosinca 2025. donijela je

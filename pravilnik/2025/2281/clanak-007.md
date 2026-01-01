@@ -1,0 +1,2 @@
+# Članak 7.
+Izvještaji iz članaka 5. i 6. ovoga Pravilnika dostavljaju se Hanfi u skladu s tehničkim uputama objavljenim na mrežnim stranicama Hanfe, i to Tehničkom uputom za korištenje sustava za dostavu podataka u elektroničkom obliku Hrvatske agencije za nadzor financijskih usluga i Tehničkom uputom za primjenu elektroničkog potpisa u postupku izvješćivanja Hrvatske agencije za nadzor financijskih usluga.
