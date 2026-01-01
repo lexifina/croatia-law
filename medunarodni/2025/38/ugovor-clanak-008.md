@@ -1,0 +1,7 @@
+# Članak 8.
+PRELAZAK LIJEKOVA KOJI SADRŽE OPOJNE I PSIHOTROPNE TVARI PREKO GRANICE
+1. Odredbe članaka 6. i 7. ovog Sporazuma koje se odnose na prelazak opreme i materijalnih dobara pomoći preko granice primjenjuju se i za unos lijekova koji sadrže opojne i psihotropne tvari na državno područje države stranke koja traži pomoć i povrat nepotrošenih količina lijekova stranci koja pruža pomoć.
+2. Unošenje i iznošenje lijekova koji sadrže opojne i psihotropne tvari, ne smatraju se uvozom i izvozom lijekova u smislu međunarodnih sporazuma o lijekovima koji sadrže opojne i psihotropne tvari.
+3. Lijekovi koji sadrže opojne i psihotropne tvari mogu se unijeti samo u količinama koje su potrebne u svrhu medicinske pomoći, a može ih se upotrebljavati samo pod nadzorom medicinskog osoblja s odgovarajućom stručnom naobrazbom u skladu s nacionalnim zakonodavstvom stranke iz koje dolazi postrojba za civilnu zaštitu (pojedinac).
+4. Prilikom prelaska državne granice stranke koja traži pomoć, voditelj postrojbe za civilnu zaštitu (pojedinac) daje graničnim službenicima izjavu u kojoj se navode nomenklatura i količine lijekova koji sadrže opojne i psihotropne tvari. Na pakiranja koja sadrže navedene lijekove potrebno je staviti jasno vidljivu oznaku s natpisom »containing narcotic substances«.
+5. O potrošenim lijekovima koji sadrže opojne i psihotropne tvari stranka koja pruža pomoć izvješćuje stranku koja traži pomoć.
