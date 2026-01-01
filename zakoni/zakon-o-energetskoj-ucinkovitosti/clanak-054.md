@@ -1,0 +1,18 @@
+## Obveze financijskih institucija
+# Članak 54.
+(1) Kreditne institucije, uključujući Hrvatsku banku za obnovu i razvitak i Hrvatsku agenciju za malo gospodarstvo, inovacije i investicije dužne su:
+a) surađivati s Fondom ili tijelima državne uprave na uspostavljanju novih ili uporabi postojećih financijskih instrumenata za mjere za poboljšanje energetske učinkovitosti kako bi se maksimalno iskoristile pogodnosti financiranja iz više izvora i kombinacije bespovratnih sredstava, financijskih instrumenata i tehničke pomoći za poboljšanje energetske učinkovitosti
+b) donijeti mjere kojima se promiču kreditni proizvodi u području energetske učinkovitosti, kao što su zelene hipoteke i zeleni krediti, osigurani i neosigurani, nuditi ih široko i na nediskriminirajući način te omogućiti vidljivost i dostupnost potrošačima
+c) ponuditi kreditne proizvode za energetsku učinkovitost koji zadovoljavaju potrebe različitih tipova klijenata i tržišnih segmenata kako bi potencijalni klijenti imali pristup velikom broju mogućnosti na tržištu
+d) procjenjivati interese svojih postojećih i potencijalnih klijenata za poboljšanje energetske učinkovitosti njihove imovine i/ili za nabavu energetski učinkovite opreme te im ponuditi namjenski proizvod kreditiranja energetske učinkovitosti koji najbolje odgovara njihovim interesima
+e) osigurati nediskriminaciju zajmova za energetsku učinkovitost u odnosu na druge zajmove u svom portfelju kako bi se osiguralo da potrošači mogu izabrati najprikladniji proizvod za njih, bez obzira na primjenjiva pravila o razmatranju rizika
+f) poštivati pravila o objavljivanju informacija na temelju Delegirane uredbe Komisije (EU) 2021/2178 i
+g) poštovati zahtjeve u pogledu objavljivanja okolišnih, socijalnih i upravljačkih rizika u skladu s člankom 449.a Uredbe (EU) 575/2013.
+(2) Ministarstvo i Fond dužni su osigurati da se bankama i drugim kreditnim institucijama pruže informacije o:
+– prilikama za sudjelovanje u financiranju mjera za poboljšanje energetske učinkovitosti, među ostalim putem uspostavljanja javno-privatnih partnerstava
+– načinima poticanja uspostave instrumenata kreditnog jamstva za ulaganja u energetsku učinkovitost
+– sustavima gospodarenja energijom iz članka 29. i energetskim pregledima iz članka 30. ovoga Zakona kao podlogama za donošenje odluka o financiranju mjera za poboljšanje energetske učinkovitosti u poduzećima
+– mogućnostima i alatima dostupnima iz proračuna Unije i predloženima u okviru inicijative »Pametno financiranje za pametne zgrade« i u Komunikaciji Komisije od 14. listopada 2020. naslovljenoj »Val obnove za Europu – ozelenjivanje zgrada, otvaranje radnih mjesta, poboljšanje života«.
+(3) Kreditne institucije dužne su Hrvatskoj agenciji za nadzor financijskih usluga, jednom godišnje, do 30. siječnja tekuće godine za prošlu godinu, dostaviti podatke o visini uloženih sredstava svake kreditne institucije u mjere energetske učinkovitosti za svaki program financiranja energetske učinkovitosti koji je kreditna institucija provela te o visini i vrsti kreditnih proizvoda koje je plasirala.
+(4) Za potrebe godišnjeg izvještaja o napretku u postizanju ciljeva iz članka 11. ovoga Zakona Hrvatska agencija za nadzor financijskih usluga dužna je Ministarstvu najkasnije do 1. ožujka tekuće godine za prošlu godinu dostaviti podatke iz stavka 3. ovoga članka.
+(5) Osim obveza iz stavka 1. ovoga članka Hrvatska banka za obnovu i razvitak i Hrvatska agencija za malo gospodarstvo, inovacije i investicije dužne su razmotriti uspostavu javnih jamstava za projekte poboljšanja energetske učinkovitosti za potrebe različitih tipova klijenata i tržišnih segmenata – stambenih, komercijalnih, industrijskih i javnih.

@@ -1,0 +1,5 @@
+## Program suzbijanja energetskog siromaštva
+# Članak 15.
+(1) S ciljem smanjenja broja kućanstva u riziku od energetskog siromaštva Vlada Republike Hrvatske donosi odlukom program suzbijanja energetskog siromaštva, u skladu s NECP-om iz članka 11. ovoga Zakona.
+(2) U programu suzbijanja energetskog siromaštva iz stavka 1. ovoga članka Vlada Republike Hrvatske utvrđuje kriterije za utvrđivanje građana odnosno kućanstava u riziku od energetskog siromaštva, koji uključuju materijalnu ugroženost, udio troškova energije u ukupnom raspoloživom dohotku kućanstva, količinu potrošene energije, energetsku učinkovitost zgrade, kao i ostale relevantne pokazatelje iz područja socijalne skrbi te pokazatelje za praćenje i izvještavanje o energetskom siromaštvu.
+(3) Program suzbijanja energetskog siromaštva iz stavka 1. ovoga članka sadrži ciljeve smanjenja broja kućanstava u riziku od energetskog siromaštva, pokazatelje za praćenje ostvarenja tih ciljeva te mjere poboljšanja energetske učinkovitosti i obnove zgrada u kojima se nalaze kućanstva u riziku od energetskog siromaštva i mjere informiranja i zaštite potrošača u skladu s člankom 49. ovoga Zakona.

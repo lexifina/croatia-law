@@ -1,0 +1,16 @@
+## Energetska usluga za javna tijela
+# Članak 25.
+(1) Javni i sektorski naručitelji dužni su prilikom nabave usluga koje imaju značajan utjecaj na potrošnju energije izraditi usporednu financijsku i energetsku analizu izvedivosti ugovaranja najmanje dva načina provedbe takve usluge, od kojih je jedan obvezno model energetske usluge odnosno sklapanja dugoročnih ugovora o energetskom učinku kojima se osigurava dugoročna ušteda energije.
+(2) Analiza iz stavka 1. ovoga članka obvezno se provodi prije pokretanja postupka javne nabave za usluge opskrbe toplinskom energijom ili energentom za grijanje i hlađenje prostora, usluge održavanja i obnove zgrada, usluge modernizacije javne rasvjete, usluge vodoopskrbe ili usluge održavanja i obnove postrojenja koja imaju značajnu potrošnju energije, pri čemu se značajnom potrošnjom energije smatra potrošnja dijela sustava postojeće potrošnje energije koja je veća od 10 % potrošnje energije cjelokupnog sustava.
+(3) Analiza iz stavka 1. ovoga članka obvezna je za sve zgrade javnih tijela ukupne korisne površine poda kondicioniranog dijela zgrade veće od 750 m².
+(4) Ako analiza iz stavka 1. ovoga članka pokaže isplativost nabave energetske usluge odnosno sklapanje ugovora o energetskom učinku, javni i sektorski naručitelji dužni su provesti javnu nabavu energetske usluge.
+(5) Sredstva za plaćanje naknade za energetsku uslugu, do vrijednosti određene ugovorom o energetskom učinku, smatraju se rashodom u okviru redovitih materijalnih troškova.
+(6) Ministarstvo je dužno pratiti provedbu projekata energetske učinkovitosti prema modelu energetske usluge, analizirati učinke te o tome izvještavati u sklopu godišnjeg izvješća o napretku postignutom u ostvarenju nacionalnih ciljeva energetske učinkovitosti iz članka 13. ovoga Zakona.
+(7) Ministarstvo je dužno promovirati energetske usluge objavom sljedećih informacija na internetskoj platformi o energetskoj učinkovitosti iz članka 47. ovoga Zakona:
+1. obrazac sa standardiziranim dijelovima ugovora o energetskom učinku koji mora biti u skladu s odredbama članka 27. ovoga Zakona
+2. informacije o dostupnim financijskim instrumentima, poticajima, bespovratnim sredstvima, revolving fondovima, jamstvima, programima osiguranja i zajmovima kojima se podupire provedba projekata prema modelu energetske usluge
+3. informacije o dostupnim pružateljima energetskih usluga
+4. informacije o dostupnim metodama za mjerenje i verifikaciju ušteda energije i
+5. poveznicu na informacije iz članka 26. stavka 4. ovoga Zakona.
+(8) Distributeri energije, operatori distribucijskih sustava i opskrbljivači energijom dužni su suzdržati se od svih aktivnosti koje mogu onemogućiti potražnju za energetskim uslugama ili mjerama za poboljšanje energetske učinkovitosti ili njihovu isporuku, ili spriječiti razvoj tržišta za takve usluge ili mjere, uključujući sprečavanje pristupa tržištu za konkurente ili zloporabu vladajućeg položaja.
+(9) Način ugovaranja energetske usluge za javna tijela, metodologiju za analizu iz stavka 1. ovoga članka, obveze pružatelja i naručitelja energetske usluge, sadržaj ugovora o energetskom učinku te proračunsko praćenje energetske usluge za naručitelje upisane u registar zgrada javnih tijela iz članka 21. ovoga Zakona Vlada Republike Hrvatske propisuje uredbom.

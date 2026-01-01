@@ -1,0 +1,5 @@
+## Internetska platforma o energetskoj učinkovitosti
+# Članak 47.
+(1) S ciljem pružanja sveobuhvatnih informacija o energetskoj učinkovitosti svim relevantnim sudionicima na tržištu Ministarstvo u suradnji s ministarstvom nadležnim za poslove graditeljstva uspostavlja internetsku platformu o energetskoj učinkovitosti za pružanje informacija o dostupnim mjerama politike za poboljšanje energetske učinkovitosti, pojedinačnim aktivnostima kojima se poboljšava energetska učinkovitost, zakonskom okviru za energetsku učinkovitost te raspoloživim instrumentima financiranja.
+(2) Internetska platforma iz stavka 1. ovoga članka sadrži relevantne informacije za građane, za građane u riziku od energetskog siromaštva, ranjive kupce i kućanstva s niskim prihodima, za poduzeća, za mala i srednja poduzeća i obrte, i za javna tijela.
+(3) Internetska platforma iz stavka 1. ovoga članka sadrži i poveznice na druge platforme razvijene od drugih tržišnih sudionika kojima se ostvaruje cilj iz stavka 1. ovoga članka.

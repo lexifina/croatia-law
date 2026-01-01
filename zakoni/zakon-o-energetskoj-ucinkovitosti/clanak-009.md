@@ -1,0 +1,7 @@
+## Praćenje primjene načela »energetska učinkovitost na prvom mjestu«
+# Članak 9.
+(1) Ministarstvo je obvezno pratiti primjenu načela »energetska učinkovitost na prvom mjestu«.
+(2) Ministarstvo jednom godišnje do 30. rujna tekuće godine za prethodnu godinu izrađuje izvješće o:
+– učinku regulatornih okvira, uključujući financijske propise te odluke o politikama, planiranju i velikim ulaganjima iz članka 8. stavka 1. i stavka 2. ovoga Zakona, na potrošnju energije, energetsku učinkovitost i energetske sustave
+– tome kako je načelo »energetska učinkovitost na prvom mjestu« uzeto u obzir u nacionalnim, regionalnim i lokalnim odlukama o planovima, politikama i velikim ulaganjima povezanima s nacionalnim i regionalnim energetskim sustavima, uključujući procjenu primjene i koristi načela »energetska učinkovitost na prvom mjestu« u energetskim sustavima u odnosu na potrošnju energije te popis aktivnosti poduzetih kako bi se uklonile sve nepotrebne regulatorne ili neregulatorne prepreke u provedbi načela »energetska učinkovitost na prvom mjestu« i rješenja na strani potražnje energije, uključujući identifikaciju nacionalnog zakonodavstva i mjera koji su u suprotnosti s načelom »energetska učinkovitost na prvom mjestu«.
+(3) Izvješće iz stavka 2. ovoga članka sastavni je dio godišnjeg izvješća o napretku postignutom u ostvarenju nacionalnih ciljeva energetske učinkovitosti iz članka 13. ovoga Zakona.

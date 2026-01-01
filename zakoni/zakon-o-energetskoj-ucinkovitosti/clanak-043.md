@@ -1,0 +1,15 @@
+## Ispunjenje obveze uplatom naknade za energetsku učinkovitost u Fond za zaštitu okoliša i energetsku učinkovitost
+# Članak 43.
+(1) Dio ili cjelokupnu godišnju obvezu uštede energije iz članka 42. stavka 1. ovoga Zakona stranka obveznica može ostvariti uplatom naknade za energetsku učinkovitost u Fond, u skladu s člankom 41. stavkom 8. ovoga Zakona.
+(2) O namjeri ispunjenja obveze uštede energije u sljedećoj godini na način utvrđen stavkom 1. ovoga članka i visini ušteda koje se namjeravaju tako ispuniti stranka obveznica pisanim putem obavještava Ministarstvo do 31. prosinca tekuće godine.
+(3) Ministarstvo će, po službenoj dužnosti, rješenjem stranki obveznici odrediti iznos sukladno stavku 2. ovoga članka koji je stranka obveznica na ime obvezne uštede dužna uplatiti Fondu s rokom uplate od 30 dana od dana dostave rješenja.
+(4) Protiv rješenja iz stavka 3. ovoga članka žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(5) Iznos iz stavka 3. ovoga članka određuje se tako da se prijavljeni dio obvezne uštede u kWh pomnoži jediničnom naknadom, izraženom u euro/kWh.
+(6) Jedinična naknada iz stavka 5. ovoga članka određuje se na temelju ulaganja Fonda i kumulativnih ušteda energije iz projekata koje je sufinancirao Fond u sektoru kućanstava.
+(7) Jedinična naknada iz stavka 5. ovoga članka korigira se svake godine, u odnosu na utvrđenu korigiranu jediničnu naknadu iz prošle godine, primjenom odnosno množenjem Indeksom potrošačkih cijena koji objavljuje Državni zavod za statistiku za prošlu kalendarsku godinu.
+(8) Jedinična naknada iz stavka 5. ovoga članka korigirana u skladu sa stavkom 7. ovoga članka bit će objavljena na mrežnim stranicama Ministarstva i na internetskoj platformi o energetskoj učinkovitosti iz članka 47. ovoga Zakona u roku od sedam dana od dana službene objave Državnog zavoda za statistiku.
+(9) Fond je dužan sva sredstva prikupljena sukladno stavku 1. ovoga članka evidentirati na posebnom analitičkom knjigovodstvenom računu i ulagati u mjere poboljšanja energetske učinkovitosti u kućanstvima, uključujući mjere suzbijanja energetskog siromaštva u skladu s člankom 49. ovoga Zakona te ostvariti uštede energije barem jednake onima koje je trebala ostvariti stranka obveznica i o učincima izvijestiti Ministarstvo najkasnije do 31. ožujka tekuće godine za prošlu godinu.
+(10) Jedinična naknada za neostvareni iznos ušteda energije iz članka 42. stavka 14. i stavka 17. ovoga Zakona utvrđuje se kao peterostruka vrijednost jedinične naknade iz stavka 13. ovoga članka.
+(11) Uplatom naknade iz stavka 1. ovoga članka Ministarstvo stranki obveznici priznaje ostvarenje kumulativnih ušteda energije koje odgovaraju provedbi mjere poboljšanja energetske učinkovitosti sa životnim vijekom od 25 godina.
+(12) Rješenje iz stavka 3. ovoga članka Ministarstvo će dostaviti i Fondu prilikom dostave stranki obveznici radi vođenja evidencije Fonda.
+(13) Vrijednost jedinične naknade iz stavka 5. ovoga članka za prvu kalendarsku godinu primjene ovoga Zakona iznosi 0,0413 euro/kWh.

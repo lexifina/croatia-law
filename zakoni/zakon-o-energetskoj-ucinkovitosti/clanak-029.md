@@ -1,0 +1,9 @@
+## IV. ENERGETSKA UČINKOVITOST PODUZEĆA
+## Obveza uvođenja sustava gospodarenja energijom
+# Članak 29.
+(1) Poduzeća čija je prosječna godišnja krajnja potrošnja energije, izračunata na temelju potrošnje svih energenata u prethodne tri godine, veća od 23,61 GWh, dužna su uvesti sustav gospodarenja energijom koji je certificiralo akreditirano neovisno tijelo prema relevantnim europskim ili međunarodnim normama.
+(2) Poduzeća iz stavka 1. ovoga članka obvezu uvođenja sustava gospodarenja energijom mogu ostvariti i:
+– uvođenjem sustava upravljanja okolišem koji u sebi sadrži sustav gospodarenja energijom na razini cijelog poduzeća u skladu s minimalnim kriterijima iz članka 31. ovoga Zakona, na temelju certifikata koji je izdalo akreditirano neovisno tijelo prema relevantnim europskim ili međunarodnim normama ili
+– provedbom ugovora o energetskom učinku u skladu s člancima 27. i 28. ovoga Zakona, ako ugovor ima odredbe vezane uz sustavno gospodarenje energijom pod uvjetom da se sustavnim gospodarenjem energijom obuhvaćaju svi značajni energetsko troškovni centri na razini cijelog poduzeća te da isti uključuje sustavno gospodarenje energijom u okviru cjelokupnog poslovnog procesa.
+(3) Dokaz izvršenja obveze iz stavka 1. ovoga članka je certifikat koji je izdalo akreditirano neovisno tijelo sukladno zakonu kojim se uređuje područje akreditacija.
+(4) Ako obveznici iz stavka 1. ovoga članka koriste neku od mogućnosti iz stavka 2. ovoga članka, dužni su Ministarstvu dostaviti certifikat koji je izdalo akreditirano neovisno tijelo za uvedeni sustav upravljanja okolišem i izvješće o sustavnom gospodarenju energijom koji je sastavni dio tog sustava odnosno ugovor o energetskom učinku, poštujući eventualne poslovne tajne, iz kojeg su vidljive odredbe vezane uz sustavno gospodarenje energijom.
