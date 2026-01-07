@@ -1,0 +1,5 @@
+## Zajmovi čiji je povrat osiguran nekretninom
+# Članak 23.
+(1) Društvo za osiguranje dužno je prilikom ugovaranja nekretnine kao instrumenta osiguranja tražbine uzeti u obzir sve okolnosti u vezi nekretnine, uključujući i sva ograničenja propisana posebnim zakonima vezana za postupak prisilne naplate tražbine na nekretnini te procijeniti rizike koji iz navedenih okolnosti i/ili ograničenja proizlaze ili bi mogli proizaći, a koje bi mogle biti od utjecaja na opseg naplate tražbine s osnova tog instrumenta osiguranja.
+(2) Društvo za osiguranje dužno je redovito pratiti vrijednost nekretnine koja je instrument osiguranja potraživanja za cijelo vrijeme trajanja poslovnog odnosa iz kojega proizlazi potraživanje za zajam te provesti procjenu tržišne vrijednosti nekretnine ako postoje indikatori da se promijenila.
+(3) Društvo za osiguranje treba propisati načine i pokazatelje praćenja kretanja vrijednosti nekretnine koja je instrument osiguranja potraživanja kao i način, metodu i rokove vrednovanja tržišne vrijednosti nekretnine koja je predmet osiguranja potraživanja po zajmu, na način kako je to propisano odredbama članka 27. ovoga Pravilnika.
