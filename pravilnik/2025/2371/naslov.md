@@ -1,0 +1,1 @@
+Pravilnik o uvjetima za obavljanje funkcije člana uprave, člana nadzornog odbora i prokurista društva za osiguranje odnosno društva za reosiguranje i ovlaštenog zastupnika podružnice društva za osiguranje odnosno društva za reosiguranje

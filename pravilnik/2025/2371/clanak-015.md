@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 15.
+(1) Stupanjem na snagu ovoga Pravilnika prestaju važiti odredbe Pravilnika o uvjetima za obavljanje funkcije člana uprave, člana nadzornog odbora i prokurista društva za osiguranje odnosno društva za reosiguranje i ovlaštenog zastupnika podružnice društva za osiguranje odnosno društva za reosiguranje (»Narodne novine« broj 102/20 i 30/23).
+(2) Postupci povodom zahtjeva za izdavanje odobrenja za obavljanje funkcije člana uprave Društva kao i postupci povodom zahtjeva za izdavanje odobrenja za obavljanje funkcije člana nadzornog odbora Društva, a koji su započeti prema odredbama Pravilnika o uvjetima za obavljanje funkcije člana uprave, člana nadzornog odbora i prokurista društva za osiguranje odnosno društva za reosiguranje i ovlaštenog zastupnika podružnice društva za osiguranje odnosno društva za reosiguranje (»Narodne novine« broj 102/20 i 30/23), završit će se primjenom odredaba toga Pravilnika.
