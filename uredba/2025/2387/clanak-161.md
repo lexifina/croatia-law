@@ -1,0 +1,6 @@
+# Članak 161.
+Sektor inspekcije sigurnosti cesta i žičara nadzire i usklađuje obavljanje poslova iz djelokruga rada Službe inspekcije autocesta i složenih cestovnih objekata, te Službe inspekcije državnih, županijskih, lokalnih i nerazvrstanih cesta, te žičara, te koordinira suradnju Sektora s drugim ustrojstvenim jedinicama ovog Ministarstva i tijelima državne uprave. Sektor obavlja poslove najsloženijih nadzora iz područja inspekcije cesta iz nadležnosti Sektora. Sektor inicira izmjene i dopune zakona i drugih propisa iz domene građenja, rekonstruiranja i održavanja javnih cesta, te zakona iz domene prometa žičara za prijevoz osoba. Sektor surađuje u izradi nacrta zakona i drugih propisa, te koordinira rad sa istoimenim službama država članica EU. Organizira i provodi prometno-edukativne akcije iz svog djelokruga. Na nivou Sektora se obavljaju poslovi koji se odnose na sudjelovanje Sektora u radu tijela Europske unije u područjima iz njegove nadležnosti, te izrađuje planove rada i izvješća o radu sektora.
+U Sektoru inspekcije sigurnosti cesta i žičara ustrojavaju se:
+11.2.1. Služba inspekcije državnih, županijskih, lokalnih i nerazvrstanih cesta i žičara
+11.2.2. Služba inspekcije autocesta i složenih cestovnih objekata.
+11.2.1. Služba inspekcije državnih, županijskih, lokalnih i nerazvrstanih cesta i žičara

@@ -1,0 +1,31 @@
+# Članak 171.
+Državni tajnici za svoj rad odgovorni su ministru i Vladi Republike Hrvatske.
+Glavni tajnik Ministarstva za svoj rad odgovoran je ministru i Vladi Republike Hrvatske.
+Tajnik kabineta ministra za svoj rad odgovoran je ministru i nadležnom državnom tajniku.
+Ravnatelji su za svoj rad odgovorni nadležnom državnom tajniku, ministru i Vladi Republike Hrvatske.
+Glavni inspektor je za svoj rad odgovoran nadležnom državnom tajniku, ministru i Vladi Republike Hrvatske.
+Načelnici sektora, načelnik sektora za inspekcijske poslove i načelnik sektora za europske fondove i međunarodne financijske mehanizme u sastavu upravne organizacije odgovorni su za svoj rad ministru, nadležnom državnom tajniku i ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu sektor nalazi.
+Lučki kapetani i voditelj Nacionalnog centra sigurnosti plovidbe odgovorni su za svoj rad ministru, nadležnom državnom tajniku i ravnatelju uprave koji upravlja upravnom organizacijom u čijem se sastavu lučka kapetanija i Nacionalni centar sigurnosti plovidbe (NCSP) nalaze.
+Pročelnik Područnog ureda za vodne putove Vukovar odgovoran je za svoj rad ministru, nadležnom državnom tajniku i ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu Područni ured za vodne putove Vukovar nalazi.
+Načelnici sektora za inspekcijske poslove u Inspektoratu sigurnosti cestovnog prometa odgovorni su za svoj rad ministru, nadležnom državnom tajniku i glavnom inspektoru.
+Načelnik sektora koji rukovodi radom samostalnog sektora odgovoran je za svoj rad ministru i nadležnom državnom tajniku.
+Načelnici sektora u sastavu Glavnog tajništva odgovorni su za svoj rad ministru, nadležnom državnom tajniku i glavnom tajniku Ministarstva.
+Voditelji službi u sastavu upravne organizacije odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu sektor nalazi i načelniku sektora.
+Voditelji službi za inspekcijske poslove u sastavu upravne organizacije odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu služba nalazi i načelniku sektora za inspekcijske poslove.
+Voditelji službi za europske fondove i međunarodne financijske mehanizme u sastavu upravne organizacije odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu sektor nalazi i načelniku sektora za europske fondove i međunarodne financijske mehanizme.
+Voditelji službi u sastavu Područnog ureda za vodne putove Vukovar odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu Područni ured nalazi i pročelniku Područnog ureda za vodne putove Vukovar.
+Voditelji službi, voditelji službi za inspekcijske poslove i kapetani ispostava u sastavu lučkih kapetanija odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja upravnom organizacijom u čijem se sastavu lučka kapetanija nalazi i lučkom kapetanu.
+Voditelj Nacionalne središnjice za usklađivanje traganja i spašavanja na moru, voditelj Nacionalne središnjice za nadzor i upravljanje pomorskim prometom i voditelj Nacionalne RIS središnjice odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja tom upravnom organizacijom i voditelju Nacionalnog centra sigurnosti plovidbe.
+Voditelji službi u sastavu Glavnog tajništva odgovorni su za svoj rad ministru, nadležnom državnom tajniku, glavnom tajniku Ministarstva i načelniku sektora.
+Voditelji službe za inspekcijske poslove u sastavu Inspektorata sigurnosti cestovnog prometa odgovorni su za svoj rad ministru, nadležnom državnom tajniku, glavnom inspektoru i načelniku sektora za inspekcijske poslove.
+Voditelj službe koji rukovodi radom samostalne službe odgovoran je za svoj rad ministru i nadležnom državnom tajniku.
+Voditelji službi u sastavu samostalnog sektora odgovoran je za svoj rad ministru, nadležnom državnom tajniku i načelniku sektora.
+Voditelji odjela u sastavu upravne organizacije odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja tom upravnom organizacijom, načelniku sektora i voditelju službe.
+Voditelji odjela za europske fondove i međunarodne financijske mehanizme u sastavu upravne organizacije odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja tom upravnom organizacijom, načelniku sektora za europske fondove i međunarodne financijske mehanizme i voditelju službe za europske fondove i međunarodne financijske mehanizme.
+Voditelji VTS centara u sastavu Nacionalnog centra sigurnosti plovidbe (NCSP), Nacionalne središnjice za nadzor i upravljanje pomorskim prometom (VTS Hrvatska) odgovorni su za svoj rad ministru, nadležnom državnom tajniku, ravnatelju uprave koji upravlja tom upravnom organizacijom, voditelju Nacionalnog centra sigurnosti plovidbe i voditelju Nacionalne središnjice za nadzor i upravljanje pomorskim prometom.
+Voditelji odjela i voditelj odjela za informatičke poslove u sastavu Glavnog tajništva odgovorni su za svoj rad ministru, nadležnom državnom tajniku, glavnom tajniku Ministarstva, načelniku sektora i voditelju službe.
+Voditelj odjela za informatičke poslove u sastavu Glavnog tajništva odgovoran je za svoj rad ministru, nadležnom državnom tajniku, glavnom tajniku Ministarstva, načelniku sektora i voditelju službe.
+Voditelji odjela za inspekcijske poslove u sastavu Inspektorata sigurnosti cestovnog prometa i cesta odgovorni su za svoj rad ministru, nadležnom državnom tajniku, glavnom inspektoru, načelniku sektora za inspekcijske poslove i voditelju službe za inspekcijske poslove.
+Voditelji odjela u sastavu samostalnog sektora odgovorni su za svoj rad ministru, nadležnom državnom tajniku, načelniku sektora i voditelju službe.
+Voditelj ispostave Slavonski Brod u sastavu Područnog ureda za vodne putove Vukovar odgovoran je za svoj rad ministru, nadležnom državnom tajniku, ravnatelju koji upravlja tom upravnom organizacijom, pročelniku Područnog ureda za vodne putove Vukovar i voditelju službe.
+Voditelji pododsjeka u sastavu Glavnog tajništva odgovorni su za svoj rad ministru, nadležnom državnom tajniku, glavnom tajniku Ministarstva, načelniku sektora, voditelju službe i voditelju odjela.

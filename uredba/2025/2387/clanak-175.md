@@ -1,0 +1,2 @@
+# Članak 175.
+Pitanja od značaja za rad Ministarstva koja nisu uređena zakonom, Uredbom o općim pravilima za unutarnje ustrojstvo tijela državne uprave (»Narodne novine«, broj 70/19.) i ovom Uredbom, uređuju se Pravilnikom o unutarnjem redu Ministarstva, a osobito broj potrebnih službenika i namještenika s naznakom njihovih osnovnih poslova i zadaća te stručnih uvjeta potrebnih za njihovo obavljanje, kao i njihove ovlasti i odgovornosti.
