@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), a u vezi s člankom 23. Zakona o knjižnicama i knjižničnoj djelatnosti (»Narodne novine« br. 17/19., 98/19., 114/22. i 36/24.), Vlada Republike Hrvatske je na sjednici održanoj 14. siječnja 2026. donijela
