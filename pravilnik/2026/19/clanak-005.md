@@ -1,0 +1,21 @@
+## II. UVJETI PRIHVATLJIVOSTI I OBVEZE KORISNIKA
+## Uvjeti prihvatljivosti
+# Članak 5.
+(1) Za vrijeme trajanja privremene obustave, moraju biti ispunjeni sljedeći uvjeti:
+a) ribarsko plovilo mora posjedovati važeću povlasticu
+b) ribarsko plovilo mora biti u funkciji
+c) iznimno od točke b) ovoga stavka u slučaju da je plovilo bilo u tijeku pregleda za obnovu klase i Svjedodžbe o sposobnosti broda za plovilo, potvrda Hrvatskog registra brodova o tijeku pregleda za obnovu klase i Svjedodžbe o sposobnosti broda za plovidbu
+d) ribarsko plovilo mora biti upisano u Registar ribarske flote Republike Hrvatske
+e) ribarsko plovilo mora imati dostatnu minimalnu ribolovnu aktivnost od ukupno 120 ribolovnih dana ostvarenih tijekom zadnje dvije kalendarske godine koje prethode godini podnošenja Zahtjeva za potporu i isplatu
+f) ribarsko plovilo mora biti autorizirano u segmentu plivaričarskog ribolova
+g) ribarsko plovilo mora imati najmanje 51 posto ribolovne aktivnosti ostvarene u dijelu plivaričarskog ribolova tijekom zadnje dvije kalendarske godine koje prethode godini podnošenja Zahtjeva za potporu i isplatu u odnosu na ukupnu ribolovnu aktivnost ostvarenu tim plovilom tijekom istoga razdoblja
+h) privremena obustava ne smije biti financirana nikakvim drugim javnim doprinosima
+i) korisnik mora dati suglasnost za objavljivanje informacija o dodijeljenoj potpori u skladu sa dijelom I. poglavljem 3. odjeljkom 3.2.4. točkom 105. Smjernica
+j) nalaz izvršene kontrole na terenu mora biti pozitivan
+k) korisnik ne smije biti poduzetnik u teškoćama iz članka 2. stavka 1. točke i) ovoga Pravilnika.
+(2) Na temelju dijela I. poglavlja 3. odjeljka 3.2.6. točke 136. podtočke a) Smjernica neprihvatljivi su Zahtjevi za potporu korisnika koji ne poštuju pravila Zajedničke ribarstvene politike.
+(3) Na temelju dijela I. poglavlja 3. odjeljka 3.1.3. točke 61. podtočaka a) i b) Smjernica i članka 11. Uredbe (EU) br. 2021/1139, neprihvatljivi su Zahtjevi za potporu korisnika ako je:
+a) počinio teški prekršaj na temelju članka 42. Uredbe Vijeća (EZ) br. 1005/2008 od 29. rujna 2008. o uspostavi sustava Zajednice za sprečavanje, suzbijanje i zaustavljanje nezakonitog, neprijavljenog i nereguliranog ribolova, o izmjeni uredaba (EEZ) br. 2847/93, (EZ) br. 1936/2001 i (EZ) br. 601/2004 i o stavljanju izvan snage uredaba (EZ) br. 1093/94 i (EZ) br. 1447/1999 (SL L 286 od 29.10.2008.) (u daljnjem tekstu: Uredba (EZ) br. 1005/2008) ili članka 90. Uredbe (EZ) br. 1224/2009 od 20. studenoga 2009. o uspostavi sustava kontrole Zajednice za osiguranje sukladnosti s pravilima zajedničke ribarstvene politike, o izmjeni uredbi (EZ) br. 847/96, (EZ) br. 2371/2002, (EZ) br. 811/2004, (EZ) br. 768/2005, (EZ) br. 2115/2005, (EZ) br. 2166/2005, (EZ) br. 388/2006, (EZ) br. 509/2007, (EZ) br. 676/2007, (EZ) br. 1098/2007, (EZ) br. 1300/2008, (EZ) br. 1342/2008 i o stavljanju izvan snage uredbi (EEZ) br. 2847/93, (EZ) br. 1627/94 i (EZ) br. 1966/2006 (SL L 343 od 22. 12. 2009.) ili drugog zakonodavnog akta Europskog parlamenta i Vijeća u okviru Zajedničke ribarstvene politike, a što je utvrđeno od strane nadležnog tijela
+b) bio ili jest uključen u rad, upravljanje ili posjedovanje ribarskog plovila koje se nalazi na Unijinom popisu nezakonitog, neprijavljenog i nereguliranog (NNN) ribolova iz članka 40. stavka 3. Uredbe (EZ) br. 1005/2008 ili plovila koje plovi pod zastavom zemlje s popisa nekooperativnih trećih zemalja iz članka 33. te Uredbe
+c) počinio prijevaru kako je definirana u članku 3. Direktive (EU) 2017/1371 u okviru Europskog fonda za pomorstvo i ribarstvo ili Europskog fonda za pomorstvo, ribarstvo i akvakulturu.
+(4) Detaljne odredbe za primjenu uvjeta prihvatljivosti iz stavka 3. ovoga članka propisane su Pravilima prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo, ribarstvo i akvakulturu, u skladu s Delegiranom uredbom Komisije (EU) 2022/2181 оd 29. lipnja 2022. o dopuni Uredbe (EU) 2021/1139 Europskog parlamenta i Vijeća o Europskom fondu za pomorstvo, ribarstvo i akvakulturu u pogledu razdoblja i datuma neprihvatljivosti zahtjeva za potporu (SL L 288, 9. 11. 2022.). Pravila prihvatljivosti i sukladnosti zahtjeva za potporu u okviru Europskog fonda za pomorstvo, ribarstvo i akvakulturu dostupna su na mrežnim stranicama Uprave ribarstva (https://euribarstvo.hr/).
