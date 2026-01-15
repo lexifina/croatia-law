@@ -1,0 +1,1 @@
+Na temelju članka 11. stavka 2. Zakona o obrazovanju odraslih (»Narodne novine«, broj 144/21) i članka 22. stavka 1. Zakona o dadiljama (»Narodne novine«, broj 37/13 i 98/19), uz prethodno mišljenje Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike, ministar znanosti, obrazovanja i mladih donosi
