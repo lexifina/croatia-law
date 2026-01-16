@@ -1,0 +1,1 @@
+Na temelju članka 22. stavka 1. Zakona o socijalnoj skrbi (»Narodne novine«, br. 18/22., 46/22., 119/22., 71/23., 156/23. i 61/25.), Vlada Republike Hrvatske je na sjednici održanoj 14. siječnja 2026. donijela
