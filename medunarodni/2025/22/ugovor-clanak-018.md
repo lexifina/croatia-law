@@ -1,0 +1,3 @@
+# Članak 18.
+ZEMLJOPISNO PODRUČJE PRIMJENE
+Uspostava upravljačkih alata za pojedina područja, među ostalim morska zaštićena područja, ne uključuje područja pod nacionalnom jurisdikcijom i ne predstavlja osnovu za ostvarivanje ili odbijanje bilo kakvih prava na suverenitet, suverenih prava ili jurisdikcije, uključujući u odnosu na povezane sporove. Konferencija stranaka neće razmatrati prijedloge o uspostavi takvih upravljačkih alata za pojedina područja, uključujući morska zaštićena područja, i takvi se prijedlozi neće tumačiti kao priznavanje ili nepriznavanje bilo kakvih prava na suverenitet, suverenih prava ili jurisdikcije.

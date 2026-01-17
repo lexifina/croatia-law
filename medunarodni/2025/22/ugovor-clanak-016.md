@@ -1,0 +1,7 @@
+# Članak 16.
+PRAĆENJE I TRANSPARENTNOST
+1. Praćenje i transparentnost aktivnosti povezanih s morskim genetskim resursima i informacijama o digitalnim sljedovima o morskim genetskim resursima na područjima izvan nacionalne jurisdikcije provode se obavješćivanjem mehanizma za razmjenu informacija, upotrebom standardiziranih identifikacijskih oznaka serije »BBNJ« u skladu s ovim dijelom i putem postupaka koje je Konferencija stranaka utvrdila po preporuci odbora za pristup i podjelu dobiti.
+2. Stranke periodično podnose odboru za pristup i podjelu dobiti izvješća o provedbi odredaba ovog dijela o aktivnostima koje se odnose na morske genetske resurse i informacijama o digitalnim sljedovima o morskim genetskim resursima na područjima izvan nacionalne jurisdikcije te o podjeli dobiti od tih aktivnosti, u skladu s ovim dijelom.
+3. Odbor za pristup i podjelu dobiti sastavlja izvješće na temelju informacija primljenih u okviru mehanizma za razmjenu informacija i stavlja ga na raspolaganje strankama koje mogu podnijeti primjedbe. Odbor za pristup i podjelu dobiti podnosi Konferenciji stranaka na razmatranje izvješće s primljenim primjedbama. Uzimajući u obzir preporuku odbora za pristup i podjelu dobiti, Konferencija stranaka može donijeti odgovarajuće smjernice za provedbu ovog članka u kojima se uzimaju u obzir nacionalne mogućnosti i okolnosti stranaka.
+DIO III.
+MJERE KAO ŠTO SU UPRAVLJAČKI ALATI ZA POJEDINA PODRUČJA, UKLJUČUJUĆI MORSKA ZAŠTIĆENA PODRUČJA

@@ -1,0 +1,17 @@
+# Članak 1.
+KORIŠTENJE POJMOVA
+Za potrebe ovog Sporazuma:
+1. »Upravljački alat za pojedino područje« znači alat za zemljopisno definirano područje, uključujući zaštićeno morsko područje, putem kojeg se upravlja jednim ili više sektora ili aktivnosti radi postizanja posebnih ciljeva očuvanja i održivog korištenja u skladu s ovim Sporazumom.
+2. »Područja izvan nacionalne jurisdikcije« znači otvoreno more i Zona.
+3. »Biotehnologija« znači svaka tehnologija koja se koristi biološkim sustavima, živim organizmima ili njihovim proizvodima za izradu ili izmjenu proizvoda ili postupaka posebne namjene.
+4. »Prikupljanje in situ«, u odnosu na morske genetske resurse, znači prikupljanje ili uzorkovanje morskih genetskih resursa na područjima izvan nacionalne jurisdikcije.
+5. »Konvencija« znači Konvencija Ujedinjenih naroda o pravu mora od 10. prosinca 1982.
+6. »Kumulativni utjecaji« znači kombinirani i rastući utjecaji koji su posljedica različitih aktivnosti, uključujući poznate prošle i sadašnje te razumno predvidive aktivnosti, ili ponavljanja sličnih aktivnosti tijekom vremena te klimatskih promjena, zakiseljavanja oceana i povezanih utjecaja.
+7. »Procjena utjecaja na okoliš« znači postupak za utvrđivanje i procjenu mogućih utjecaja neke aktivnosti na temelju kojeg se donose odluke.
+8. »Morski genetski resursi« znači bilo koji materijal morskog biljnog, životinjskog, mikrobnog ili drugog podrijetla koji sadržava funkcionalne jedinice nasljeđa stvarne ili potencijalne vrijednosti.
+9. »Morsko zaštićeno područje« znači zemljopisno definirano morsko područje koje je određeno i kojim se upravlja kako bi se postigli posebni dugoročni ciljevi očuvanja bioraznolikosti i na kojem je, ovisno o području, moguće održivo korištenje ako je u skladu s ciljevima očuvanja.
+10. »Morska tehnologija« uključuje, među ostalim, informacije i podatke u formatu prilagođenom korisnicima, koji se odnose na znanost o moru i povezane morske postupke i usluge, priručnike, smjernice, kriterije, standarde i referentne materijale, opremu za uzorkovanje i metodološku opremu, objekte za promatranja i opremu za in situ i laboratorijska promatranja, analizu i provođenje pokusa, računala i računalni softver, uključujući modele i tehnike modeliranja, povezanu biotehnologiju te stručnost, znanje, vještine i tehničko, znanstveno i pravno znanje i iskustvo te analitičke metode očuvanja i održivog korištenja morske bioraznolikosti.
+11. »Stranka« znači država ili organizacija za regionalnu gospodarsku integraciju koja je pristala biti vezana ovom Sporazumom i za koju je ovaj Sporazum na snazi.
+12. »Organizacija za regionalnu gospodarsku integraciju« znači organizacija koju čine suverene države unutar određene regije na koju su njezine države članice prenijele nadležnost za pitanja uređena ovim Sporazumom i koja je propisno ovlaštena, u skladu sa svojim unutarnjim postupcima, potpisati, ratificirati, odobriti, prihvatiti ili pristupiti ovom Sporazumu.
+13. »Održivo korištenje« znači korištenje komponenti bioraznolikosti na način i u mjeri koji ne vode dugoročnom propadanju bioraznolikosti kako bi se očuvao njezin potencijal da ispuni potrebe i težnje sadašnjih i budućih naraštaja.
+14. »Korištenje morskih genetskih resursa« znači provođenje istraživanja i razvoja u području genetskog i/ili biokemijskog sastava morskih genetskih resursa, među ostalim primjenom biotehnologije, kako je definirano u stavku 3.

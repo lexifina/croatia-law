@@ -1,0 +1,7 @@
+# Članak 43.
+DODATNI NAČINI PROVEDBE PRIJENOSA MORSKE TEHNOLOGIJE
+1. Stranke dijele dugoročnu viziju o važnosti potpunog razvoja i prijenosa tehnologije za uključivu, pravičnu i učinkovitu suradnju i sudjelovanje u aktivnostima koje se poduzimaju na temelju ovog Sporazuma s ciljem potpunog ostvarivanja njegovih ciljeva.
+2. Prijenos morske tehnologije na temelju ovog Sporazuma provodi se po poštenim i najpogodnijim uvjetima, uključujući po povoljnim i povlaštenim uvjetima, te u skladu s uzajamno dogovorenim uvjetima i ciljevima ovog Sporazuma.
+3. Stranke promiču i potiču gospodarske i pravne uvjete za prijenos morske tehnologije strankama državama u razvoju, uzimajući u obzir posebne okolnosti malih otočnih država u razvoju i najslabije razvijenih zemalja, što može uključivati poticaje za poduzeća i institucije.
+4. Pri prijenosu morske tehnologije uzimaju se u obzir sva prava nad takvim tehnologijama i svi legitimni interesi, među ostalim, prava i obveze posjednika, dobavljača i primatelja morske tehnologije, a posebno uzimajući u obzir interese i potrebe država u razvoju za postizanje ciljeva ovog Sporazuma.
+5. Morska tehnologija prenesena u skladu s ovim dijelom primjerena je, relevantna i, u mjeri u kojoj je to moguće, pouzdana, cjenovno pristupačna, ažurirana, prihvatljiva za okoliš i dostupna u pristupačnom obliku za stranke države u razvoju, uzimajući u obzir posebne okolnosti malih otočnih država u razvoju i najslabije razvijenih zemalja.

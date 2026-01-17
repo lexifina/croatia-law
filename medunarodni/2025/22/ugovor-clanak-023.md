@@ -1,0 +1,15 @@
+# Članak 23.
+ODLUČIVANJE
+1. Opće je pravilo da se odluke i preporuke iz ovog dijela donose konsenzusom.
+2. Ako konsenzus nije postignut, odluke i preporuke iz ovog dijela donose se tročetvrtinskom većinom stranaka koje su prisutne i glasuju, a Konferencija stranaka prije toga dvotrećinskom većinom stranaka koje su prisutne i glasuju utvrđuje da su iscrpljeni svi napori za postizanje konsenzusa.
+3. Odluke donesene na temelju ovog dijela stupaju na snagu 120 dana nakon sastanka Konferencije stranaka na kojem su donesene te su obvezujuće za sve stranke.
+4. Svaka stranka može u razdoblju od 120 dana iz stavka 3. pisanom obaviješću tajništvu podnijeti prigovor na odluku donesenu u skladu s ovim dijelom, koja nije obvezujuća za tu stranku. Prigovor na odluku može se povući u bilo kojem trenutku pisanom obaviješću tajništvu, a nakon toga odluka je obvezujuća za tu stranku 90 dana nakon datuma obavijesti u kojoj se navodi da je prigovor povučen.
+5. Stranka koja podnosi prigovor u skladu sa stavkom 4. uz prigovor tajništvu u pisanom obliku dostavlja obrazloženje svojeg prigovora, koje se temelji na jednom ili više sljedećih razloga:
+(a) odluka nije u skladu s ovim Sporazumom ili s pravima i obvezama stranke koja podnosi prigovor na temelju Konvencije;
+(b) odlukom se neopravdano formalno ili stvarno diskriminira stranka koja podnosi prigovor;
+(c) stranka ne može postupiti u skladu s odlukom u trenutku podnošenja prigovora nakon što je u tu svrhu uložila sve razumne napore.
+6. Stranka koja podnosi prigovor u skladu sa stavkom 4., u mjeri u kojoj je to izvedivo, primjenjuje alternativne mjere ili pristupe koji su po učinku jednaki odluci na koju je uložila prigovor i ne donosi mjere niti poduzima radnje kojima bi ugrozila učinkovitost odluke na koju je uložila prigovor, osim ako su takve mjere ili djelovanja ključni za ostvarivanje prava i ispunjavanje obveza stranke koja ulaže prigovor u skladu s Konvencijom.
+7. Stranka koja podnosi prigovor na sljedećem redovnom sastanku Konferencije stranaka podnosi izvješće nakon obavijesti iz stavka 4., a nakon toga periodično, o provedbi stavka 6. kako bi se prikupile informacije za praćenje i preispitivanje u skladu s člankom 26.
+8. Prigovor na odluku donesenu u skladu sa stavkom 4. može se pisanom obaviješću tajništvu ponoviti svake tri godine nakon stupanja na snagu odluke samo ako stranka koja podnosi prigovor to i dalje smatra potrebnim. Takva pisana obavijest uključuje obrazloženje početnog prigovora.
+9. Ako nije zaprimljena obavijest o ponavljanju u skladu sa stavkom 8., prigovor se smatra automatski povučenim te nakon toga odluka postaje obvezujuća za tu stranku 120 dana nakon automatskog povlačenja tog prigovora. Tajništvo obavješćuje stranku 60 dana prije datuma automatskog povlačenja prigovora.
+10. Odluke Konferencije stranaka donesene na temelju ovog dijela i prigovore na te odluke tajništvo objavljuje i prosljeđuje svim državama i relevantnim pravnim instrumentima i okvirima te relevantnim globalnim, regionalnim, podregionalnim i sektorskim tijelima.

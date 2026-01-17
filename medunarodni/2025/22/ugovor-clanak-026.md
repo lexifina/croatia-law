@@ -1,0 +1,9 @@
+# Članak 26.
+PRAĆENJE I PREISPITIVANJE
+1. Stranke pojedinačno ili zajednički izvješćuju Konferenciju stranaka o provedbi upravljačkih alata za pojedina područja, uključujući morska zaštićena područja, uspostavljenih na temelju ovog dijela, i povezanih mjera. Tajništvo objavljuje ta izvješća, kao i informacije i preispitivanje iz stavaka 2. i 3.
+2. Relevantni pravni instrumenti i okviri te relevantna globalna, regionalna, podregionalna i sektorska tijela pozivaju se da Konferenciji stranaka dostave informacije o provedbi mjera koje su donijeli radi postizanja ciljeva upravljačkih alata za pojedina područja, uključujući morska zaštićena područja, uspostavljenih na temelju ovog dijela.
+3. Znanstveno i tehničko tijelo prati i periodično preispituje upravljačke alate za pojedina područja, uključujući morska zaštićena područja, uspostavljene na temelju ovog dijela, uključujući povezane mjere, pri čemu uzima u obzir izvješća i informacije iz stavka 1. odnosno stavka 2.
+4. U okviru preispitivanja iz stavka 3. znanstveno i tehničko tijelo ocjenjuje učinkovitost upravljačkih alata za pojedina područja, uključujući morska zaštićena područja, uspostavljenih na temelju ovog dijela, uključujući povezane mjere i napredak u postizanju njihovih ciljeva, te daje savjete i preporuke Konferenciji stranaka.
+5. Nakon preispitivanja Konferencija stranaka prema potrebi donosi odluke ili preporuke o izmjeni, proširenju ili ukidanju upravljačkih alata za pojedina područja, uključujući morska zaštićena područja, i svih povezanih mjera koje je donijela Konferencija stranaka, u skladu s najboljim dostupnim znanstvenim spoznajama i informacijama i, ako je dostupno, relevantnim tradicionalnim znanjem autohtonih naroda i lokalnih zajednica, uzimajući u obzir pristup predostrožnosti i ekosustavni pristup.
+DIO IV.
+PROCJENA UTJECAJA NA OKOLIŠ

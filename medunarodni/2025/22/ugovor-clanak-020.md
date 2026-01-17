@@ -1,0 +1,3 @@
+# Članak 20.
+OBJAVLJIVANJE I PRELIMINARNO PREISPITIVANJE PRIJEDLOGA
+Po primitku prijedloga u pisanom obliku tajništvo objavljuje prijedlog i prosljeđuje ga znanstvenom i tehničkom tijelu na preliminarno preispitivanje. Preispitivanjem se nastoji utvrditi sadržava li prijedlog informacije propisane u članku 19., uključujući okvirne kriterije opisane u ovom dijelu i Prilogu I. Tajništvo objavljuje rezultate tog preispitivanja i dostavlja ih podnositelju prijedloga. Podnositelj prijedloga ponovno dostavlja prijedlog tajništvu, uzimajući u obzir preliminarno preispitivanje znanstvenog i tehničkog tijela. Tajništvo obavješćuje stranke i objavljuje taj ponovno dostavljeni prijedlog te organizira savjetovanja u skladu s člankom 21.

@@ -1,0 +1,3 @@
+# Članak 35.
+PRAĆENJE UTJECAJA ODOBRENIH AKTIVNOSTI
+Na temelju najboljih dostupnih znanstvenih spoznaja i informacija i, ako je dostupno, relevantnih tradicionalnih znanja autohtonih naroda i lokalnih zajednica, stranke prate utjecaje svih aktivnosti na područjima izvan nacionalne jurisdikcije koje dopuštaju ili u kojima sudjeluju kako bi utvrdile mogu li te aktivnosti onečistiti ili štetno utjecati na morski okoliš. Konkretno, svaka stranka u skladu s uvjetima utvrđenima u odobrenju aktivnosti prati utjecaje koje odobrene aktivnosti pod njezinom jurisdikcijom ili kontrolom imaju na okoliš i sve povezane utjecaje, kao što utjecaji na gospodarstvo, društvo, kulturu i zdravlje ljudi.

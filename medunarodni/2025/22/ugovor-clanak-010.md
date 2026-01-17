@@ -1,0 +1,7 @@
+# Članak 10.
+PRIMJENA
+1. Odredbe ovog Sporazuma primjenjuju se na aktivnosti povezane s morskim genetskim resursima i informacijama o digitalnim sljedovima o morskim genetskim resursima na područjima izvan nacionalne jurisdikcije, koje se prikupljaju i generiraju nakon stupanja na snagu ovog Sporazuma za dotičnu stranku. Primjena odredaba ovog Sporazuma proširuje se na korištenje morskih genetskih resursa i informacija o digitalnim sljedovima o morskim genetskim resursima na područjima izvan nacionalne jurisdikcije, koje su prikupljene ili generirane prije stupanja na snagu, osim ako se stranka u pisanom obliku na temelju članka 70. pri potpisivanju, ratifikaciji, odobrenju ili prihvatu ovog Sporazuma ili pri pristupanju ovom Sporazumu pozove na izuzeće.
+2. Odredbe ovoga dijela ne primjenjuju se na:
+(a) ribolov uređen relevantnim međunarodnim pravom i aktivnosti povezane s ribolovom; ili
+(b) ribu ili druge žive morske resurse za koje je poznato da su ulovljeni tijekom ribolova i s njim povezanih aktivnosti na područjima izvan nacionalne jurisdikcije, osim ako su takva riba ili drugi živi morski resursi regulirani kao korištenje u skladu s ovim dijelom.
+3. Obveze iz ovog dijela ne primjenjuju se na vojne aktivnosti stranke, uključujući vojne aktivnosti državnih plovila i zrakoplova koji se koriste u nekomercijalne svrhe. Obveze iz ovog dijela povezane s korištenjem morskih genetskih resursa i informacijama o digitalnim sljedovima o morskim genetskim resursima na područjima izvan nacionalne jurisdikcije primjenjuju se na nevojne aktivnosti stranke.

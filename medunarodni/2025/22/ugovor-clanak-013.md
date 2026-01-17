@@ -1,0 +1,3 @@
+# Članak 13.
+TRADICIONALNO ZNANJE AUTOHTONIH NARODA I LOKALNIH ZAJEDNICA POVEZANO S MORSKIM GENETSKIM RESURSIMA NA PODRUČJIMA IZVAN NACIONALNE JURISDIKCIJE
+Stranke poduzimaju zakonodavne ili upravne mjere ili mjere politike, prema potrebi i ovisno o slučaju, kako bi osigurale da se tradicionalnom znanju autohtonih naroda i lokalnih zajednica povezanom s morskim genetskim resursima na područjima izvan nacionalne jurisdikcije može pristupiti samo uz dobrovoljan, prethodni i informirani pristanak ili odobrenje i uključivanje tih autohtonih naroda i lokalnih zajednica. Mehanizam za razmjenu informacija može olakšati pristup tom tradicionalnom znanju. Tom tradicionalnom znanju se pristupa i upotrebljava ga se prema uzajamno dogovorenim uvjetima.

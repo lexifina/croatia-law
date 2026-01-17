@@ -1,0 +1,3 @@
+# Članak 4.
+IZUZEĆA
+Ovaj se Sporazum ne primjenjuje na ratne brodove, vojne zrakoplove i pomoćna vojna plovila. Osim dijela II., ovaj se Sporazum ne primjenjuje na druga plovila ili zrakoplove kojima je vlasnik ili kojima upravlja stranka i koji se trenutačno koriste samo u državne nekomercijalne svrhe. Međutim, svaka stranka osigurava, donošenjem prikladnih mjera koje ne narušavaju operacije ni operativnu sposobnost takvih plovila ili zrakoplova kojima je ona vlasnik ili kojima upravlja, da aktivnosti takvih plovila ili zrakoplova budu, koliko je to razumno i izvedivo, u skladu s ovim Sporazumom.

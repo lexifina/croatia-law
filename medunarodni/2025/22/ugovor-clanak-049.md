@@ -1,0 +1,6 @@
+# Članak 49.
+ZNANSTVENO I TEHNIČKO TIJELO
+1. Ovime se osniva znanstveno i tehničko tijelo.
+2. Znanstveno i tehničko tijelo sastoji se od članova koji djeluju u svojstvu stručnjaka i u najboljem interesu Sporazuma, koje imenuju stranke, a bira Konferencija stranaka, koji raspolažu odgovarajućim kvalifikacijama, uzimajući u obzir rodnu ravnotežu, pravičnu zemljopisnu zastupljenost i potrebu za multidisciplinarnim stručnim znanjem, kao i relevantno znanstveno i tehničko stručno znanje i stručnost u pogledu relevantnog tradicionalnog znanja autohtonih naroda i lokalnih zajednica. Konferencija stranaka na prvom sastanku utvrđuje mandat i načine rada znanstvenog i tehničkog tijela, uključujući postupak odabira i uvjete mandata članova.
+3. Znanstveno i tehničko tijelo može se, prema potrebi, osloniti na odgovarajuće savjete iz relevantnih pravnih instrumenata i okvira te relevantnih globalnih, regionalnih, podregionalnih i sektorskih tijela, kao i drugih znanstvenika i stručnjaka.
+4. Pod nadležnošću i vodstvom Konferencije stranaka i uzimajući u obzir multidisciplinarno stručno znanje iz stavka 2., znanstveno i tehničko tijelo daje znanstvene i tehničke savjete Konferenciji stranaka, obavlja funkcije koje su mu dodijeljene ovim Sporazumom i druge funkcije koje odredi Konferencija stranaka te podnosi izvješća Konferenciji stranaka o svom radu.
