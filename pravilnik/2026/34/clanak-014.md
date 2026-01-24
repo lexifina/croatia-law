@@ -1,0 +1,8 @@
+# Članak 14.
+U članku 51. iza stavka 7. dodaju se stavci 8., 9., 10, 11., 12. i 13. koji glase:
+»(8) Dostava zahtjeva za dopunu i/ili obrazloženje u skladu sa stavkom 2. ovog članka može se obaviti putem AGRONET-a, u tom slučaju adresa elektroničke pošte na koju Agencija za plaćanja korisniku šalje zahtjeva za dopunu i/ili obrazloženje je isključivo adresa elektroničke pošte koja je predviđena za takvu namjenu u evidenciji korisnika.
+(9) U slučaju dostave korisnicima putem AGRONET-a, korisnik je obvezan preuzeti zahtjev za dopunu i/ili obrazloženje Agencije za plaćanja najkasnije u roku od pet dana od dana postavljanja istih na AGRONET i zaprimanja obavijesti u elektronički pretinac.
+(10) U slučaju dostave korisnicima putem AGRONET-a, dostava se smatra obavljenom u trenutku zapisa na AGRONET-u kada je korisnik preuzeo zahtjev za dopunu i/ili obrazloženje Agencije za plaćanja.
+(11) Ako korisnik ne preuzme zahtjev za dopunu i/ili obrazloženje Agencije za plaćanja s AGRONET-a u roku od pet dana od dana postavljanja na AGRONET, dostava se smatra obavljenom istekom roka od pet dana od dana kada je zahtjev za dopunu i/ili obrazloženje Agencija za plaćanja postavila na AGRONET.
+(12) U slučaju dostave putem elektroničke pošte, isključujući dostavu putem AGRONET-a, ako je korisnik u zahtjevu pod podacima o kontakt osobi naveo adresu elektroničke pošte koja se razlikuje od adrese elektroničke pošte koja je navedena u evidenciji korisnika, dostava se obavlja na obje adrese elektroničke pošte.
+(13) Dostava elektroničkim putem smatra se obavljenom u trenutku kad je zabilježena na poslužitelju za primanje takvih poruka.«.

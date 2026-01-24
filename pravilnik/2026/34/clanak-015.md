@@ -1,0 +1,13 @@
+# Članak 15.
+Članak 53. mijenja se i glasi:
+»(1) Korisnik podnosi izvješće o utrošenom predujmu Agenciji za plaćanja jednom godišnje najkasnije do 15. listopada.
+(2) U slučaju nedostavljanja ili dostavljanja nepravovremenog ili nepotpunog izvješća iz stavka 1. ovoga članka, Agencija za plaćanja će pisanim putem, putem elektroničke pošte ili AGRONET-a (na adresu elektroničke pošte koja je predviđena za takvu namjenu u evidenciji korisnika) zatražiti naknadnu dostavu te odrediti korisniku rok od sedam dana za dostavljanje.
+(3) Korisnik je dužan izvješće iz stavka 1. ovoga članka dopuniti, ispraviti i/ili obrazložiti, dostavom tražene dokumentacije Agenciji za plaćanja elektroničkim putem ili preporučeno poštom ili osobno na adresu Agencije za plaćanja.
+(4) Zbog nepravovremenog dostavljanja dopuna i/ili obrazloženja iz stavka 2. ovoga članka Agencija za plaćanje će primijeniti financijske korekcije iz članka 68. stavka 1. ovoga Pravilnika, osim u slučaju više sile i/ili katastrofalnih događaja.
+(5) Predložak izvješća o iskorištenju predujma s uputom za popunjavanje objavljuje se na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr).
+(6) U slučaju slanja zahtjeva za dopunu i/ili obrazloženje preporučenom pošiljkom, ako korisnik nije preuzeo pošiljku prilikom prve dostave, dostava preporučene pošiljke bit će ponovljena samo još jednom uz objavu obavijesti na mrežnim stranicama Agencije za plaćanja (www.apprrr.hr) te će se time smatrati da je korisnik obaviješten o roku za dopunu i/ili obrazloženje.
+(7) U slučaju dostave korisnicima putem AGRONET-a, korisnik je obvezan preuzeti zahtjev za dopunu i/ili obrazloženje Agencije za plaćanja najkasnije u roku od pet dana od dana postavljanja istih na AGRONET i zaprimanja obavijesti u elektronički pretinac.
+(8) U slučaju dostave korisnicima putem AGRONET-a, dostava se smatra obavljenom u trenutku zapisa na AGRONET-u kada je korisnik preuzeo zahtjev za dopunu i/ili obrazloženje Agencije za plaćanja.
+(9) Ako korisnik ne preuzme zahtjev za dopunu i/ili obrazloženje Agencije za plaćanja s AGRONET-a u roku od pet dana od dana postavljanja na AGRONET, dostava se smatra obavljenom istekom roka od pet dana od dana kada je zahtjev za dopunu i/ili obrazloženje Agencija za plaćanja postavila na AGRONET.
+(10) U slučaju dostave putem elektroničke pošte, isključujući dostavu putem AGRONET-a, ako je korisnik u zahtjevu pod podacima o kontakt osobi naveo adresu elektroničke pošte koja se razlikuje od adrese elektroničke pošte koja je navedena u evidenciji korisnika, dostava se obavlja na obje adrese elektroničke pošte.
+(11) Dostava elektroničkim putem smatra se obavljenom u trenutku kad je zabilježena na poslužitelju za primanje takvih poruka.«.
