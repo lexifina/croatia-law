@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o meteorološkoj i hidrološkoj djelatnosti (»Narodne novine« br. 66/19, 114/22), glavni ravnatelj Državnog hidrometeorološkog zavoda, uz prethodnu suglasnost ministrice nadležne za zaštitu okoliša klasa: 011-01/25-01/1090, urbroj: 517-09-2-25-4 od 18. prosinca 2025. godine, donio je
