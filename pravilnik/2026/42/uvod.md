@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 13. Zakona o plaćama u državnoj službi i javnim službama (»Narodne novine«, broj 155/23.), a u vezi s odredbama Uredbe o postupku, kriterijima i načinu ocjenjivanja rada zaposlenih u javnim službama (»Narodne novine«, broj 127/24.) ministar poljoprivrede, šumarstva i ribarstva donosi
