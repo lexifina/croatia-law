@@ -1,0 +1,1 @@
+Na temelju članka 85. stavka 3. Zakona o službi u Oružanim snagama Republike Hrvatske (»Narodne novine«, br. 73/13., 75/15., 50/16., 30/18., 125/19., 155/23., 158/23., 14/24. i 136/25.), donosim
