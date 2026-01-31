@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 6., članka 101. stavka 1. točke 10. i članka 108. stavka 1. točke 3. Zakona o reviziji (»Narodne novine«, broj 127/17, 27/24, 85/24 i 145/24) i članka 17. točke 10. Statuta Hrvatske revizorske komore (»Narodne novine«, broj 77/24), Upravno vijeće Hrvatske revizorske komore je na sjednici održanoj 10. prosinca 2025. donijelo
