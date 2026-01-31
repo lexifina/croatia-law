@@ -1,0 +1,3 @@
+## Prijelazna odredba
+# Članak 2.
+Za potrebe podnošenja obrasca OPZ-STAT-1 za 2025. godinu, iznimno od članka 1. ovog Pravilnika primjenjuje se Pravilnik o provedbi Općeg poreznog zakona (»Narodne novine«, broj 45/19, 35/29, 43/20, 50/20, 70/20, 74/20, 103/20, 114/20, 144/20, 2/211, 26/21, 43/21, 106/21, 144/21 i 156/22) u dijelu koji se odnosi na statistička izvješća o činjenicama bitnim za oporezivanje (članak 73.), obveznike sastavljanja statističkih izvješća (članak 74.) definicije dospjelih a nenaplaćenih potraživanja (članak 75.) i sadržaj obrasca OPZ-STAT-1 (članak 77.) do 31. prosinca 2026. godine.
