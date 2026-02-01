@@ -1,0 +1,3 @@
+# Članak 31.
+(1) Geodetski elaborati izrađeni u svrhu propisanom člankom 5. stavkom 1. oznakama GE1a te GE9 do GE28 ovoga Pravilnika ne podliježu potvrđivanju od strane tijela nadležnog za prostorno uređenje i gradnju.
+(2) Suglasnosti na geodetske elaborate čija je provedba posredno ili neposredno vezana za pomorsko dobro, za nekretnine koje su u službenim evidencijama katastra i zemljišnih knjiga upisane kao pomorsko dobro te za sve nekretnine koje predstavljaju pomorsko dobro prema zakonu kojim se uređuje pomorsko dobro i morske luke, a još nisu kao takve upisane kao pomorsko dobro, daje ministarstvo nadležno za pomorsko dobro i morske luke.

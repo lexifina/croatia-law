@@ -1,0 +1,3 @@
+## G22 Geodetski elaborat za ispravljanje nedostataka na katastarskom planu
+# Članak 24.
+Geodetskim elaboratom za ispravljanje nedostataka na katastarskom planu otklanjaju se tehnički propusti koji su nastali prilikom pogreške u održavanju analognih katastarskih planova, prevođenja katastarskog plana u digitalni oblik, za potrebe poboljšanja dijelova već homogeniziranog katastarskog plana u ograničenom opsegu na grupi katastarskih čestica ili kada se utvrdi da na katastarskom planu nije provedena promjena temeljem pregledanog i potvrđenog geodetskog elaborata, a isti je proveden u popisno-knjižnom dijelu katastarskog operata te nije potrebno prikupljati i obrađivati podatke o katastarskoj čestici.

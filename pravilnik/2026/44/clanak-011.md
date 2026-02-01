@@ -1,0 +1,5 @@
+## GE11 Geodetski elaborat za evidentiranje, brisanje ili promjenu podataka o zgradama
+# Članak 11.
+(1) U geodetskim elaboratima za evidentiranje, brisanje ili promjenu podataka o zgradama iskazuju se podaci o svim zgradama koje su na katastarskoj čestici izgrađene, kao i o zgradama koje su u pogledu položaja, oblika ili načina uporabe promijenjene u odnosu na već evidentirane ili koje na terenu više ne postoje.
+(2) Geodetski elaborat iz stavka 1. ovoga članka se izrađuje kao samostalna svrha samo ako položaj lomnih točaka granica katastarskih čestica evidentiranih u katastarskom operatu na kojima je izgrađena zgrada ne odstupa više od standarda položajne točnosti propisane člankom 26. stavkom 2. Zakona u odnosu na položaj lomnih točaka granica katastarskih čestica obilježenih vidljivim trajnim oznakama na terenu.
+(3) U geodetskim elaboratima kojima osnovna svrha nije evidentiranje, brisanje ili promjena podataka o zgradama, iskazuju se i podaci o neevidentiranim i promijenjenim zgradama koje postoje na katastarskim česticama koje su predmet izrade geodetskog elaborata prema novom stanju.

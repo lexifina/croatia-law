@@ -1,0 +1,4 @@
+## GE9 Geodetski elaborat za evidentiranje pomorskog dobra odnosno lučkog područja luke posebne namjene ili vodnog dobra
+# Članak 9.
+(1) Geodetski elaborat za evidentiranje pomorskog dobra odnosno lučkog područja luke posebne namjene izrađuje se na temelju izvršnog rješenja o određivanju granice pomorskog dobra odnosno lučkog područja luke posebne namjene ili drugog odgovarajućeg akta kojim je granica pomorskog dobra odnosno lučkog područja luke posebne namjene utvrđena i obavezno sadrži potvrdu županijskog povjerenstva za granice pomorskog dobra o njegovoj usklađenosti s rješenjem odnosno aktom o utvrđivanju granice pomorskog dobra odnosno lučkog područja luke posebne namjene.
+(2) Geodetski elaborat za evidentiranje vodnog dobra izrađuje se na temelju odluke o utvrđivanju vanjske granice inundacijskog pojasa i obavezno sadrži potvrdu nadležnog tijela o njegovoj usklađenosti s tom odlukom.

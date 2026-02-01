@@ -1,0 +1,7 @@
+# Članak 62.
+(1) Kada se geodetski elaborat ne izrađuje putem sustava digitalnih geodetskih elaborata u katastarski ured se dostavlja digitalni zapis svih sastavnih dijelova geodetskog elaborata izrađenih u skladu sa člankom 61. stavkom 2. ovoga Pravilnika.
+(2) Ostali primjerci geodetskog elaborata izrađuju se kada je to potrebno i ne mogu sadržavati dodatne dijelove po zahtjevu naručitelja.
+(3) Ovlašteni geodetski izvoditelji za naručitelje mogu izrađivati različita dodatna izvješća i prikaze koji se temelje na podacima pregledanog i potvrđenog geodetskog elaborata.
+(4) Dodaci geodetskom elaboratu uvezuju se u posebnu knjigu i dostavljaju naručitelju uz pregledani i potvrđeni primjerak geodetskog elaborata.
+(5) Naslovna strana i sadržaj dodatka geodetskom elaboratu istovjetna je sa stranicom pripadajućeg geodetskog elaborata, ali uz naznaku » - dodatak geodetskom elaboratu«.
+(6) Sastavne dijelove geodetskog elaborata, elektroničkim potpisom potpisuje samo odgovorna osoba iz članka 36. ovoga Pravilnika ili službenik ovlašten za obavljanje stručnih geodetskih poslova iz ustrojstvene jedinice katastarskog ureda koja je izradila geodetski elaborat, osim naslovne stranice koju elektroničkim potpisom može potpisati i odgovorna osoba u pravnoj osobi odnosno uredu ovlaštenog inženjera geodezije ili zajedničkom geodetskom uredu odnosno voditelj ustrojstvene jedinice katastarskog ureda koja je izradila geodetski elaborat.

@@ -1,0 +1,4 @@
+# Članak 37.
+(1) Geodetski elaborati se izrađuju tako da se jednim geodetskim elaboratom obrađuju katastarske čestice unutar jedne katastarske općine.
+(2) Na području katastarskih općina za koje se zemljišne knjige vode prema podacima katastarskog plana koji više nije u službenoj uporabi te ne odgovaraju područjem i granicama katastarskih općina u katastarskom operatu (u zemljišnoj knjizi se vodi više različitih katastarskih općina), geodetski elaborati sadrže zasebne prijavne listove za zemljišnu knjigu za svaku glavnu knjigu u kojima su upisane katastarske čestice koje su predmet geodetskog elaborata.
+(3) Kod izrade geodetskog elaborata iz članka 25. ovoga Pravilnika, stavak 1. ovoga članka primjenjuje se na način da se jednim geodetskim elaboratom mogu obraditi katastarske čestice koje se pripisuju u katastarsku općinu odnosno otpisuju iz katastarske općine za koje se geodetski elaborat izrađuje.

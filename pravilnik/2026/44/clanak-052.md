@@ -1,0 +1,7 @@
+## Prijavni list za katastar
+# Članak 52.
+(1) U prijavnom listu za katastar za katastarske čestice koje su predmet geodetskog elaborata iskazuje se stanje podataka u posjedovnom listu prije izrade geodetskog elaborata i predloženo novo stanje tih podataka koje treba uspostaviti nakon provedbe geodetskog elaborata.
+(2) Podaci o osobama upisanim u posjedovne listove, podaci o katastarskim česticama i podaci o zgradama i drugim građevinama prema postojećem stanju upisanom u posjedovne listove i prema predloženom novom stanju tih podataka sistematiziraju se u prijavnom listu za katastar.
+(3) Površine dijelova katastarskih čestica koji se upotrebljavaju na različiti način iskazuju se sukladno odredbama pravilnika iz članka 39. Zakona kojima su propisani površinski kriteriji da bi se dio katastarske čestice iskazao posebnim načinom uporabe.
+(4) Ukoliko su u postupku izrade geodetskog elaborata prikupljeni podaci o uspostavljenim posebnim pravnim režimima na zemljištu, podaci o tim režimima se iskazuju u prijavnom listu iz stavka 1. ovoga članka i u prijavnom listu iz članka 54. ovoga Pravilnika sukladno Zakonu vezano uz obavijest nadležnog zemljišnoknjižnog odjela općinskog suda, a odluke kojima su posebni pravni režimi uspostavljeni prilažu se prijavnom listu za katastar.
+(5) Standardni izgled i ostali sadržaj prijavnog lista iz stavka 1. ovoga članka propisan je tehničkim specifikacijama iz članka 32. ovoga Pravilnika.
