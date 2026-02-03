@@ -1,0 +1,1 @@
+Na temelju članka 5. stavka 2. Zakona o Državnoj komisiji za kontrolu postupaka javne nabave (»Narodne novine«, br. 18/13., 127/13., 74/14., 98/19. i 41/21.), Vlada Republike Hrvatske je na sjednici održanoj 23. siječnja 2026. donijela
