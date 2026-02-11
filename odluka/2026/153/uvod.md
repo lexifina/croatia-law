@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), a u vezi s člankom 9. stavkom 2. Zakona o Hrvatskoj matici iseljenika (»Narodne novine«, broj 94/18.), Vlada Republike Hrvatske je na sjednici održanoj 11. veljače 2026. donijela
