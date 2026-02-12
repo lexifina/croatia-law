@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 8. Zakona o zaštiti i očuvanju kulturnih dobara (»Narodne novine«, br. 145/24 i 151/25), uz prethodnu suglasnost ministra vanjskih i europskih poslova, ministrica kulture i medija donosi
