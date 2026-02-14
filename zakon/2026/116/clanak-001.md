@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o nadzoru državne granice (»Narodne novine«, br. 83/13., 27/16., 114/22. i 151/22.) u članku 2. stavku 1. podstavak 2. mijenja se i glasi:
+» - Uredba (EU) 2016/399 Europskog parlamenta i Vijeća od 9. ožujka 2016. o Zakoniku Unije o pravilima kojima se uređuje kretanje osoba preko granica (Zakonik o schengenskim granicama) (kodifikacija) (SL L 77, 23. 3. 2016.) kako je posljednji put izmijenjena Uredbom (EU) 2024/1717 Europskog parlamenta i Vijeća od 13. lipnja 2024. o izmjeni Uredbe (EU) 2016/399 o Zakoniku Unije o pravilima kojima se uređuje kretanje osoba preko granica (SL L 2024/1717, 20. 6. 2024.) (u daljnjem tekstu: Uredba (EU) 2016/399),«.
