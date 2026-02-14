@@ -1,0 +1,3 @@
+# Članak 28.
+(1) Za osobe koje su sukladno članku 9. stavku 2. Zakona o civilnim stradalnicima iz Domovinskog rata (»Narodne novine«, br. 84/21.) podnijele zahtjev za ostvarivanje statusa civilnog invalida iz Domovinskog rata, a nisu ostvarile status civilnog invalida iz Domovinskog rata po osnovi bolesti jer im je u postupku vještačenja utvrđen postotak oštećenja organizma između 20 % i 60 %, po službenoj dužnosti pokrenut će se postupak radi utvrđivanja uvjeta za priznavanje statusa civilnog invalida iz Domovinskog rata sukladno članku 2. ovoga Zakona.
+(2) U postupku pokrenutom sukladno stavku 1. ovoga članka nije potrebno ponovno pribavljati nalaz i mišljenje prvostupanjskog liječničkog vijeća, već se predmet šalje na revizijsko liječničko vijeće.

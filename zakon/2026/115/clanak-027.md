@@ -1,0 +1,5 @@
+# Članak 27.
+(1) Korisnicima koji su na dan stupanja na snagu ovoga Zakona korisnici prava na osobnu invalidninu, posebnog dodatka, dodatka za njegu i pomoć druge osobe, ortopedskog dodatka, obiteljske invalidnine, povećane i uvećane obiteljske invalidnine, novčane naknade u iznosu obiteljske invalidnine, novčane naknade u iznosu povećane i uvećane obiteljske invalidnine i novčane naknade za civilne stradalnike prema Zakonu o civilnim stradalnicima iz Domovinskog rata (»Narodne novine«, br. 84/21.), po službenoj dužnosti iznos prava uskladit će se s odredbama ovoga Zakona.
+(2) Prevođenje iz stavka 1. ovoga članka izvršit će po službenoj dužnosti nadležno upravno tijelo županije odnosno Grada Zagreba.
+(3) Korisnicima iz stavka 1. ovoga članka kojima se priznato pravo određuje u većem iznosu, pravo se priznaje od 1. siječnja 2026., a počevši s isplatom u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
+(4) Donošenje rješenja u vezi s prevođenjem iz stavka 1. ovoga članka izvršit će se u roku od godine dana od dana stupanja na snagu ovoga Zakona.
