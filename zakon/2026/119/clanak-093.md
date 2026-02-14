@@ -1,0 +1,3 @@
+## Stupanje na snagu
+# Članak 93.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«, osim odredbi članaka 45., 46. i 47. ovoga Zakona, odredbe članka 397. stavka 1. točaka 58.a, 58.b koje su dodane člankom 85. ovoga Zakona, odredbe članka 397. stavka 1. točke 58. koja je izmijenjena člankom 85. ovoga Zakona i odredbe članka 398. stavka 1. točke 57. koja je brisana člankom 86. ovoga Zakona koje stupaju na snagu 16. travnja 2026., odredbe članka 397. stavka 1. točaka 28.a, 28.b, 28.c, 28.d koje su dodane člankom 85. ovoga Zakona koje stupaju na snagu 17. travnja 2026., odredbe članka 58. ovoga Zakona koja stupa na snagu 16. travnja 2027. i odredbe članka 56. ovoga Zakona koja stupa na snagu 10. siječnja 2028.

@@ -1,0 +1,2 @@
+# Članak 77.
+U članku 351. stavku 5. na kraju rečenice briše se točka, stavlja zarez i dodaju riječi: »te u slučaju provođenja tajnog nadzora iz članka 348. stavka 3. ovoga Zakona, obavijest o neposrednom nadzoru Agencija će dostaviti subjektu nadzora nakon obavljenog tajnog nadzora, a najkasnije u roku od 30 dana od dana sklapanja ugovora iz članka 99. ovoga Zakona, kada je takav ugovor sklopljen.«.

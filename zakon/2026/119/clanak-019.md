@@ -1,0 +1,5 @@
+# Članak 19.
+U članku 47. iza stavka 2. dodaju se novi stavak 3. i stavak 4. koji glase:
+»(3) Ako društvo za upravljanje upravlja ili namjerava upravljati UCITS fondom na inicijativu treće osobe, uključujući slučajeve kada taj UCITS fond koristi ime treće osobe koja je inicijator ili kada društvo za upravljanje delegira poslove u skladu s člankom 70. ovoga Zakona na treću osobu koja je inicijator, društvo za upravljanje dužno je, uzimajući u obzir eventualne sukobe interesa, Agenciji bez odgode dostaviti detaljna objašnjenja i dokaze o usklađenosti sa stavkom 1. točkom 5. ovoga članka.
+(4) Društvo za upravljanje iz stavka 3. ovoga članka dužno je posebno navesti razumne korake koje je poduzelo kako bi spriječilo sukobe interesa koji proizlaze iz odnosa s trećom osobom ili, ako se ti sukobi interesa ne mogu spriječiti, kako ih utvrđuje, njima upravlja, prati i, prema potrebi, objavljuje, a kako bi spriječilo da oni negativno utječu na interese UCITS fonda i njegovih ulagatelja.«.
+Dosadašnji stavak 3. postaje stavak 5.

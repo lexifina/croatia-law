@@ -1,0 +1,4 @@
+# Članak 62.
+U članku 224. stavku 2. točki 3. iza riječi: »pažnju« stavlja se zarez i dodaju riječi: »osim kada je ta treća osoba središnji depozitorij vrijednosnih papira (CSD) koji nastupa u svojstvu CSD ulagatelja kako je definiran u delegiranom aktu donesenom na temelju članka 29. stavka 3. i članka 48. stavka 10. Uredbe (EU) br. 909/2014,«.
+Stavak 6. mijenja se i glasi:
+»(6) U smislu ovoga članka, pružanje usluga od strane središnjeg depozitorija vrijednosnih papira koji djeluje u svojstvu CSD izdavatelja kako je definiran u delegiranom aktu donesenom na temelju članka 29. stavka 3. i članka 48. stavka 10. Uredbe (EU) br. 909/2014 ne smatra se delegiranjem poslova skrbništva, dok se pružanje usluga od strane središnjeg depozitorija vrijednosnih papira koji djeluje u svojstvu CSD ulagatelja kako je definiran u tom delegiranom aktu smatra delegiranjem poslova skrbništva.«.

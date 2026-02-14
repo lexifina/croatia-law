@@ -1,0 +1,5 @@
+# Članak 34.
+U članku 99. stavak 3. mijenja se i glasi:
+»(3) Kod originarnog stjecanja udjela ugovor o ulaganju sklopljen je kada je ulagatelj podnio uredan zahtjev za izdavanje udjela i izvršio valjanu uplatu iznosa iz zahtjeva ili kada je ulagatelj podnio uredan zahtjev za izdavanje udjela i društvo za upravljanje ima ugovoren aranžman kojim osigurava jamstvo uplate iznosa naznačenog u zahtjevu za izdavanje udjela, sve sukladno uvjetima određenim u prospektu i pravilima UCITS fonda, a društvo za upravljanje ne odbije sklapanje ugovora. U svim ostalim slučajevima ugovor o ulaganju je sklopljen u trenutku kada društvo odnosno voditelj registra upiše stjecatelja u registar udjela.«.
+Stavak 5. mijenja se i glasi:
+»(5) Uplaćenim sredstvima iz stavka 3. ovoga članka društvo za upravljanje smije raspolagati u svrhu ulaganja tek nakon što ulagatelj bude upisan u registar udjela, osim ako iz prospekta i pravila ne proizlazi drugačije, u kojem slučaju je društvo za upravljanje dužno pribaviti izričiti pisani pristanak podnositelja zahtjeva na takvo ulaganje.«.
