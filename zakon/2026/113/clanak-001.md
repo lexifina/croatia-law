@@ -1,0 +1,4 @@
+## (EZ) BR. 1102/2008
+# Članak 1.
+U Zakonu o provedbi Uredbe (EU) 2017/852 Europskog parlamenta i Vijeća od 17. svibnja 2017. o živi i stavljanju izvan snage Uredbe (EZ) br. 1102/2008 (»Narodne novine«, br. 115/18.) članak 2. mijenja se i glasi:
+»Ovim se Zakonom osigurava provedba Uredbe (EU) 2017/852 Europskog parlamenta i Vijeća od 17. svibnja 2017. o živi i stavljanju izvan snage Uredbe (EZ) br. 1102/2008 (Tekst značajan za EGP) (SL L 137/1, 24. 5. 2017.) kako je posljednji put izmijenjena Uredbom (EU) 2024/1849 Europskog parlamenta i Vijeća od 13. lipnja 2024. o izmjeni Uredbe (EU) 2017/852 o živi u pogledu zubnog amalgama i drugih proizvoda kojima je dodana živa, a koji podliježu ograničenjima izvoza, uvoza i proizvodnje (Tekst značajan za EGP) (SL L 2024/1849, 10. 7. 2024.) - u daljnjem tekstu: Uredba (EU) 2017/852.«.
