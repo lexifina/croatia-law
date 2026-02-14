@@ -1,0 +1,30 @@
+# Članak 16.
+Članak 17. mijenja se i glasi:
+»(1) Srednjim UAIF-om smatra se UAIF koji:
+1. izravno ili neizravno, preko društva s kojim je UAIF povezan zajedničkim upravljanjem ili kontrolom, ili znatnim izravnim ili neizravnim udjelom, upravlja AIF-ovima čija je ukupna imovina veća od 50.000.000,00 eura, ali ne prelazi prag od 100.000.000,00 eura, uključujući i imovinu stečenu korištenjem financijske poluge, ili
+2. izravno ili neizravno, preko društva s kojim je UAIF povezan zajedničkim upravljanjem ili kontrolom, ili znatnim izravnim ili neizravnim udjelom, upravlja AIF-ovima čija je ukupna imovina veća od 200.000.000,00 eura, ali ne prelazi prag od 500.000.000,00 eura, ako AIF-ovi kojima upravlja ne koriste financijsku polugu i ne predviđaju mogućnost ostvarivanja prava isplate tijekom razdoblja od pet godina nakon datuma početnog ulaganja u svaki AIF.
+(2) Srednji UAIF smije udjele AIF-ova kojima upravlja distribuirati isključivo profesionalnim i/ili kvalificiranim ulagateljima.
+(3) Srednji UAIF dužan je od Agencije ishoditi odobrenje za rad srednjeg UAIF-a, pri čemu se na odgovarajući način primjenjuju odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona o izdavanju odobrenja za rad UAIF-a.
+(4) Na srednji UAIF ne primjenjuju se sljedeće odredbe ovoga Zakona:
+1. članak 11. stavak 1. podstavak 2. ovoga Zakona, odnosno srednji UAIF ne smije u skladu s ovim Zakonom pružati dodatne usluge. Srednji UAIF smije pružati usluge iz članka 11. stavka 1. podstavka 2. ovoga Zakona ako za njih ishodi odobrenje Agencije sukladno odredbama zakona kojim je uređeno tržište kapitala ili Uredbe (EU) 2016/1011 odnosno odobrenje nadležnog tijela sukladno odredbama zakona kojim se uređuju način, uvjeti i postupak servisiranja i kupoprodaje potraživanja
+2. članak 13. stavak 2. ovoga Zakona, odnosno srednji UAIF smije, osim djelatnosti iz članka 11. stavka 1. podstavka 1. ovoga Zakona, obavljati i druge djelatnosti te za njihovo obavljanje ne treba dobiti odobrenje Agencije sukladno odredbama ovoga Zakona, osim ako je takvo odobrenje propisano posebnim zakonom
+3. članak 24. ovoga Zakona, odnosno srednji UAIF ne mora osigurati dodatni iznos kapitala
+4. članak 40. stavak 1. točka b) ovoga Zakona te članci 49., 50. i 51. ovoga Zakona, odnosno srednji UAIF osnovan kao društvo s ograničenom odgovornošću ne mora imati nadzorni odbor
+5. članak 41. stavci 1., 2. i 4. ovoga Zakona, odnosno srednji UAIF može imati jednog člana uprave koji vodi poslove i zastupa UAIF
+6. članak 42. stavak 1. točka 9. i stavak 6. ovoga Zakona, odnosno član uprave srednjeg UAIF-a smije biti član uprave odnosno prokurist drugog trgovačkog društva, osim društava iz članka 43. ovoga Zakona. Član uprave srednjeg UAIF-a ne mora znati hrvatski jezik tečno u govoru i pismu da bi mogao obavljati tu funkciju
+7. članak 53. stavak 1. točka 5. ovoga Zakona u dijelu koji se odnosi na mjere i postupke u pogledu mrežnih i informacijskih sustava koji su uspostavljeni i kojima se upravlja u skladu s Uredbom (EU) 2022/2554
+8. članak 53. stavak 2., članak 56. stavak 3., članak 57. te članak 58. stavci 6. i 9. ovoga Zakona, odnosno srednji UAIF ne mora ustrojiti kontrolne funkcije
+9. članak 59. stavci 2. i 4. ovoga Zakona, odnosno srednji UAIF nije dužan redovito provoditi testiranja otpornosti na stres, u uobičajenim i iznimnim uvjetima likvidnosti
+10. članci 61., 62. i 63. ovoga Zakona, odnosno srednji UAIF nije dužan uspostaviti i provoditi politike primitaka
+11. članak 79. stavak 2. ovoga Zakona, odnosno srednji UAIF može prenijeti poslove upravljanja AIF-om na drugi UAIF bez odobrenja Agencije, ali uz obavještavanje Agencije
+12. članak 153. stavak 2. točka b) ovoga Zakona, odnosno posao vrednovanja ne mora biti funkcionalno nezavisan od upravljanja imovinom AIF-a ako UAIF može osigurati mjere koje osiguravaju sprječavanje sukoba interesa i sprječavanje neprimjerenog utjecaja na radnike srednjeg UAIF-a koji obavljaju navedene poslove
+13. članak 164. stavak 1. točka 4. ovoga Zakona, odnosno srednji UAIF nije dužan za AIF kojim upravlja usvojiti i objaviti polugodišnje izvještaje prema odredbama poglavlja III. ovoga dijela Zakona
+14. članak 171. stavak 3. ovoga Zakona, odnosno srednji UAIF nije dužan izraditi polugodišnji izvještaj AIF-a
+15. članak 176. ovoga Zakona, odnosno na srednji UAIF ne primjenjuju se zahtjevi za drugim objavama i obavijestima ulagatelja
+16. članak 177. stavci 4. do 7. ovoga Zakona, odnosno srednji UAIF ima manji opseg obveznog redovitog izvještavanja Agencije
+17. članci 178. do 183. ovoga Zakona, odnosno na srednji UAIF ne primjenjuju se posebne odredbe koje se odnose na korištenje financijske poluge i stjecanje kontrole nad neuvrštenim društvima ili izdavateljima.
+(5) Na srednji UAIF ne primjenjuju se odredbe članaka 12. do 15., članaka 39. do 56., članka 60. stavka 2. točaka d), e), g) i h) i stavka 4., članaka 61. i 62., članaka 107. do 109., članka 110. stavaka 3. i 5., članka 111. te članaka 112. do 116. Delegirane uredbe Komisije (EU) br. 231/2013 od 19. prosinca 2012. o dopuni Direktive 2011/61/EU Europskog parlamenta i Vijeća u odnosu na izuzeća, opće uvjete poslovanja, depozitare, financijsku polugu, transparentnost i nadzor (Tekst značajan za EGP) (SL L 83, 22. 3. 2013.).
+(6) Srednji UAIF dužan je u svome poslovanju i u svim materijalima namijenjenim ulagateljima jasno i nedvosmisleno naznačiti da nije dužan primjenjivati sve odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona te upozoriti na rizike koji iz toga proizlaze za ulagatelje.
+(7) Agencija pravilnikom propisuje sadržaj zahtjeva za izdavanje odobrenja za rad srednjeg UAIF-a te dokumentaciju koja se prilaže zahtjevu.
+(8) Agencija pravilnikom propisuje sustave unutarnjih kontrola za mali UAIF namijenjene osiguravanju učinkovitog obavljanja njihove djelatnosti.
+(9) Agencija pravilnikom propisuje mjere i postupke koje je srednji UAIF dužan uspostaviti u pogledu mrežnih i informacijskih sustava kojima upravlja u svrhu postizanja digitalne operativne otpornosti.«.

@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 2. stavku 1. točka 1. mijenja se i glasi:
+»1. Direktiva 2011/61/EU Europskog parlamenta i Vijeća od 8. lipnja 2011. o upraviteljima alternativnih investicijskih fondova i o izmjeni direktiva 2003/41/EZ i 2009/65/EZ te uredbi (EZ) br. 1060/2009 i (EU) br. 1095/2010 (Tekst značajan za EGP) (SL L 174, 1. 7. 2011.), kako je posljednji put izmijenjena Direktivom (EU) 2024/927 Europskog parlamenta i Vijeća od 13. ožujka 2024. o izmjeni Direktiva 2011/61/EU i 2009/65/EZ u pogledu postupaka delegiranja, upravljanja rizikom likvidnosti, nadzornog izvješćivanja, pružanja usluga depozitara i skrbništva te odobravanja zajmova od strane alternativnih investicijskih fondova (Tekst značajan za EGP) (SL L, 2024/927, 26. 3. 2024.) (u daljnjem tekstu: Direktiva 2011/61/EU).«.
+Na kraju točke 3. briše se točka i dodaje se točka 4. koja glasi:
+»4. Direktiva (EU) 2023/2864 Europskog parlamenta i Vijeća od 13. prosinca 2023. o izmjeni određenih direktiva u pogledu uspostave i funkcioniranja jedinstvene europske pristupne točke (Tekst značajan za EGP) (SL L 2023/2864, 20. 12. 2023.) (u daljnjem tekstu: Direktiva (EU) 2023/2864).«.

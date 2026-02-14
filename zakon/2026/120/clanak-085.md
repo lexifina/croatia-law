@@ -1,0 +1,5 @@
+# Članak 85.
+U članku 194. stavku 1. točka 3. mijenja se i glasi:
+»3. depozitar mora dokazati da je treća osoba izabrana primjenom dužne pažnje, osim kada je ta treća osoba središnji depozitorij vrijednosnih papira (CSD) koji djeluje u svojstvu CSD-a ulagatelja, kako je definiran u delegiranom aktu donesenom na temelju članka 29. stavka 3. i članka 48. stavka 10. Uredbe (EU) br. 909/2014, i da će depozitar u svako doba s dužnom pažnjom i učinkovito nadzirati obavljanje delegiranih poslova i«.
+Stavak 6. mijenja se i glasi:
+»(6) U smislu ovoga članka, pružanje usluga od strane središnjeg depozitorija vrijednosnih papira koji djeluje u svojstvu CSD-a izdavatelja, kako je definiran u delegiranom aktu donesenom na temelju članka 29. stavka 3. i članka 48. stavka 10. Uredbe (EU) br. 909/2014, ne smatra se delegiranjem poslova skrbništva, dok se pružanje usluga od strane središnjeg depozitorija vrijednosnih papira koji djeluje u svojstvu CSD-a ulagatelja, kako je definiran u tom delegiranom aktu, smatra delegiranjem poslova skrbništva.«.

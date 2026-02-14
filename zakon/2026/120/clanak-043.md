@@ -1,0 +1,6 @@
+# Članak 43.
+Članak 71. mijenja se i glasi:
+»(1) UAIF koji svoje poslove namjerava delegirati trećim osobama da u njegovo ime obavljaju jedan ili više poslova iz članka 11. stavka 3. ovoga Zakona ili usluga iz članka 11. stavka 1. podstavka 2. ovoga Zakona dužan je o tome obavijestiti Agenciju prije nego što delegiranje stupi na snagu.
+(2) O delegiranju poslova i/ili usluga iz stavka 1. ovoga članka UAIF i treća osoba sklapaju ugovor u pisanom obliku. Ugovorom mora biti određeno da je treća osoba dužna omogućiti provođenje nadzora nad delegiranim poslom i/ili uslugama radnicima Agencije.
+(3) Ugovor iz stavka 2. ovoga članka ne može stupiti na snagu ako UAIF, u skladu sa stavkom 1. ovoga članka, o tome nije prethodno obavijestio Agenciju.
+(4) UAIF, koji je na temelju članka 67. stavka 1. ovoga Zakona dužan održavati internetsku stranicu, dužan je na njoj objaviti podatak o poslovima i/ili uslugama koji su delegirani na treću osobu, kao i identitet treće osobe. Ako treća osoba dalje delegira obavljanje delegiranih poslova i/ili usluga, prema odredbama članka 74. stavka 1. ovoga Zakona, UAIF će na svojoj internetskoj stranici objaviti i taj podatak, uz identitet te osobe, odmah nakon stupanja na snagu toga ugovora.«.

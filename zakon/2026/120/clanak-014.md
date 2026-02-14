@@ -1,0 +1,20 @@
+# Članak 14.
+Članak 16. mijenja se i glasi:
+»(1) Registriranim UAIF-om smatra se UAIF koji:
+1. izravno ili neizravno, preko društva s kojim je UAIF povezan zajedničkim upravljanjem ili kontrolom, ili znatnim izravnim ili neizravnim udjelom, upravlja AIF-ovima čija ukupna imovina ne prelazi prag od 50.000.000,00 eura, uključujući imovinu stečenu korištenjem financijske poluge, ili
+2. izravno ili neizravno, preko društva s kojim je UAIF povezan zajedničkim upravljanjem ili kontrolom, ili znatnim izravnim ili neizravnim udjelom, upravlja AIF-ovima čija ukupna imovina ne prelazi prag od 200.000.000,00 eura, ako AIF-ovi kojima upravlja ne koriste financijsku polugu i ne predviđaju mogućnost ostvarivanja prava isplate tijekom razdoblja od pet godina nakon datuma početnog ulaganja u svaki AIF.
+(2) Prije početka obavljanja djelatnosti upravljanja AIF-om iz članka 11. stavka 1. podstavka 1. ovoga Zakona UAIF koji namjerava poslovati kao registrirani UAIF dužan je Agenciji podnijeti zahtjev za upis u registar iz članka 8. stavka 2. ovoga Zakona i dostaviti sljedeće podatke:
+1. relevantne pojedinosti o UAIF-u koje uključuju naziv, pravni oblik, sjedište i adresu, članove upravljačkog i nadzornog tijela, ako je to primjenjivo, članove UAIF-a i imatelje kvalificiranog udjela s naznakom njihovih udjela u UAIF-u te informacijom jesu li oni povezane osobe UAIF-a
+2. relevantne pojedinosti o AIF-ovima kojima upravlja koje uključuju naziv AIF-ova, informacije o investicijskim strategijama AIF-ova kojima upravlja te podatke o osobi koja obavlja poslove depozitara iz članka 16.f ovoga Zakona, ako se udjeli AIF-a distribuiraju, i kvalificiranim ulagateljima
+3. dokaz da fizičke osobe stvarni vlasnici UAIF-a i članovi uprave ili upravnog odbora UAIF-a, njihovi suradnici i članovi nadzornog odbora, kada je to primjenjivo, imaju dobar ugled u smislu pravilnika iz članka 42. stavka 10. ovoga Zakona.
+(3) Agencija će rješenjem odbiti zahtjev za upis u registar ako ocijeni da podnositelj zahtjeva ne ispunjava uvjete iz stavaka 1. i 2. ovoga članka.
+(4) Registrirani UAIF dužan je:
+1. redovito obavještavati Agenciju o glavnim instrumentima kojima trguje, glavnim izloženostima te najvažnijim koncentracijama AIF-ova kojima upravlja, kako bi Agencija mogla učinkovito pratiti sistemske rizike
+2. bez odgode obavijestiti Agenciju ako više ne ispunjava uvjete iz stavaka 1. i 2. ovoga članka
+3. bez odgode obavijestiti Agenciju o promjeni stvarnih vlasnika UAIF-a, članova uprave odnosno upravnog odbora, njihovih suradnika i/ili članova nadzornog odbora i
+4. na zahtjev Agencije, dostaviti informacije o svim drugim okolnostima i činjenicama potrebnima za izvršavanje njezinih dužnosti i ovlasti.
+(5) U slučaju promjena iz članka 4. točke 3. ovoga Zakona registrirani UAIF dužan je Agenciji dostaviti dokaz da te osobe imaju dobar ugled u smislu pravilnika iz članka 42. stavka 10. ovoga Zakona.
+(6) Nakon upisa u registar iz članka 8. stavka 2. ovoga Zakona registrirani UAIF može djelatnost iz članka 11. stavka 1. podstavka 1. ovoga Zakona upisati u sudski registar kao djelatnost.
+(7) Registrirani UAIF smije udjele AIF-ova kojima upravlja distribuirati isključivo profesionalnim i/ili kvalificiranim ulagateljima.
+(8) Registrirani UAIF dužan je u svome poslovanju i u svim materijalima namijenjenim ulagateljima jasno i nedvosmisleno naznačiti da je dužan isključivo primjenjivati odredbe ovoga članka, članaka 16.a do 16.f te članaka 19. i 20. ovoga Zakona i ukratko opisati obveze iz navedenih članaka odnosno da nije dužan primjenjivati ostale odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona te upozoriti na rizike koji iz toga proizlaze za ulagatelje.
+(9) Registrirani UAIF dužan je u dokumentima AIF-a kojim upravlja jasno i nedvosmisleno naglasiti da taj AIF nije dobio odobrenje za osnivanje sukladno odredbama ovoga Zakona nego je u skladu s člankom 8. stavkom 2. ovoga Zakona upisan u registar registriranih AIF-ova i da se na taj AIF ne primjenjuju odredbe ovoga Zakona i propisa donesenih na temelju ovoga Zakona, osim onih iz stavka 8. ovoga članka.«.
