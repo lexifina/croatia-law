@@ -1,0 +1,7 @@
+## Infrastrukturni razvoj otoka
+# Članak 26.
+(1) Program kojim se potiče infrastrukturni razvoj otoka, koji donosi ministar odlukom, odnosi se na sve nastanjene otoke Republike Hrvatske, s posebnim naglaskom na pučinske otoke i otoke sa specifičnim položajem te je usmjeren na infrastrukturne projekte kojima se izvršavaju zahvati u prostoru prema ključnim odrednicama razvoja otoka iz članka 18. ovoga Zakona.
+(2) Ministarstvo jednom godišnje, na temelju programa iz stavka 1. ovoga članka, na svojim mrežnim stranicama raspisuje javni poziv za dostavu prijedloga infrastrukturnih projekata iz stavka 1. ovoga članka za odobravanje financijskih sredstava.
+(3) Predlagatelji projekata iz stavka 1. ovoga članka jesu jedinice lokalne i područne (regionalne) samouprave kojima nastanjeni otoci teritorijalno i administrativno pripadaju.
+(4) Nositelj provedbe investicije iz stavka 1. ovoga članka, koja se odnosi na vodno-komunalnu infrastrukturu, jedinstveni je javni isporučitelj vodnih usluga na uslužnom području na kojem se nalazi jedinica lokalne samouprave iz stavka 3. ovoga članka, u skladu s propisima koji uređuju vodne usluge.
+(5) Sredstva iz stavka 2. ovoga članka osiguravaju se ovisno o mogućnostima i sukladno za tu namjenu osiguranim sredstvima u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva i dodjeljuju se na temelju sklopljenoga ugovora s Ministarstvom nakon provedenoga javnoga poziva iz stavka 2. ovoga članka.

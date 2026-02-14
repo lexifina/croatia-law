@@ -1,0 +1,6 @@
+## Poticanje razvoja civilnoga društva na otocima
+# Članak 29.
+(1) U skladu s ključnim odrednicama razvoja otoka iz članka 18. ovoga Zakona, Ministarstvo potiče stvaranje povoljnoga okružja za razvoj civilnoga društva na otocima jačajući ulogu i kapacitete organizacija civilnoga društva te podržavajući njihovo umrežavanje, međusektorsku suradnju i uključivanje lokalnoga stanovništva u aktivnosti, programe i projekte koje te organizacije provode na otocima.
+(2) Ministar odlukom donosi program na temelju kojega se jednom godišnje raspisuje javni poziv za dodjelu financijske podrške organizacijama civilnoga društva koje imaju sjedište i djeluju na području otoka.
+(3) Prilikom dodjele financijske podrške iz stavka 2. ovoga članka prednost imaju organizacije civilnoga društva s pučinskih otoka i otoka sa specifičnim položajem, kao i one koje potiču i provode programe međusektorske suradnje i umrežavanja organizacija civilnoga društva.
+(4) Sredstva za ostvarivanje financijske podrške iz stavka 2. ovoga članka osiguravaju se ovisno o mogućnostima i sukladno za tu namjenu osiguranim sredstvima u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva, a dodjeljuju se korisnicima iz stavka 2. ovoga članka na temelju sklopljenoga ugovora s Ministarstvom.

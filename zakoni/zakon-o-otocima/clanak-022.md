@@ -1,0 +1,9 @@
+## Poticanje vodoopskrbnih sustava na otocima
+# Članak 22.
+(1) U skladu s ključnim odrednicama razvoja otoka iz članka 18. ovoga Zakona, Ministarstvo potiče razvoj vodno-komunalne infrastrukture u smislu rekonstrukcije postojeće mreže javne vodoopskrbe, izgradnje novih vodoopskrbnih sustava radi proširenja mreže te izgradnje uređaja za desalinizaciju bočate i morske vode na otocima, s posebnim naglaskom na pučinske otoke i otoke sa specifičnim položajem.
+(2) Jedinici lokalne samouprave koja sudjeluje u financiranju građevine iz stavka 1. ovoga članka Ministarstvo dodjeljuje sredstva u okviru javnoga poziva i programa iz članka 26. ovoga Zakona.
+(3) Nositelj provedbe investicije iz stavka 2. ovoga članka jedinstveni je javni isporučitelj vodnih usluga na uslužnom području na kojem se nalazi jedinica lokalne samouprave iz stavka 2. ovoga članka u skladu s propisima koji uređuju vodne usluge.
+(4) Iznimno od stavka 1. ovoga članka, Ministarstvo bespovratnim sredstvima sufinancira alternativne i individualne sustave vodoopskrbe fizičkim osobama nositeljima kućanstava u otočnim naseljima u kojima ne postoji sustav javne vodoopskrbe niti je njegova izgradnja planirana višegodišnjim planom gradnje nadležnoga javnog isporučitelja vodnih usluga tijekom najmanje četiriju sljedećih godina.
+(5) O činjenicama iz stavka 4. ovoga članka nadležni javni isporučitelj vodnih usluga izdaje potvrdu na pisani zahtjev fizičke osobe nositelja kućanstva.
+(6) Sredstva iz stavka 4. ovoga članka dodjeljuju se u okviru javnoga poziva koji objavljuje Ministarstvo na temelju programa kojim se definira poticanje alternativnih i individualnih sustava vodoopskrbe, koji donosi ministar odlukom.
+(7) Sredstva iz stavaka 2. i 4. ovoga članka osiguravaju se ovisno o mogućnostima i sukladno za tu namjenu osiguranim sredstvima u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva.

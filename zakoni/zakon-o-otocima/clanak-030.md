@@ -1,0 +1,5 @@
+## Poticanje konkurentnosti i rasta poduzetništva na otocima
+# Članak 30.
+(1) Radi poticanja konkurentnosti i rasta poduzetništva na otocima otočni poslodavci mogu ostvariti potporu male vrijednosti za mjeru očuvanja radnih mjesta za svakoga radnika koji ima prebivalište na otoku i koji kod istoga otočnog poslodavca radi najmanje šest mjeseci bez prekida u razdoblju za koje se potpora dodjeljuje, sukladno pravilima o potporama male vrijednosti.
+(2) Prilikom dodjele potpore iz stavka 1. ovoga članka prednost imaju poslodavci koji svoju djelatnost obavljaju na pučinskim otocima i otocima sa specifičnim položajem.
+(3) Sredstva za ostvarivanje potpore iz stavka 1. ovoga članka dodjeljuju se ovisno o mogućnostima i sukladno za tu namjenu osiguranim sredstvima u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva i dodjeljuju se jednom godišnje putem javnoga poziva, u skladu s programom kojim se definira potpora male vrijednosti za otočne poslodavce sukladno važećim pravilima o potporama, koji donosi ministar odlukom.

@@ -1,0 +1,9 @@
+## Gospodarenje otpadom na otocima
+# Članak 33.
+(1) Fond za zaštitu okoliša i energetsku učinkovitost (u daljnjem tekstu: Fond) sufinancira prihvatljive troškove prijevoza otpada s otoka na kopno morskim putem, kako je utvrđeno općim aktima Fonda i sukladno raspoloživim financijskim sredstvima Fonda.
+(2) Fond sufinancira i prihvatljive troškove izgradnje i opremanja građevina za gospodarenje otpadom na otocima koje su u sustavu centara za gospodarenje otpadom (pretovarne stanice) te građevina i lokacija koje su od lokalnoga interesa, poput sanacije službenih odlagališta, lokacija odbačenoga otpada u okoliš, reciklažnih dvorišta i mini pretovarnih stanica na otocima kako je utvrđeno općim aktima Fonda i sukladno raspoloživim sredstvima Fonda.
+(3) Fond, u suradnji s jedinicama lokalne samouprave na otocima, provodi akcije organiziranoga prikupljanja otpada radi edukacije i poticanja stanovništva na pravilno zbrinjavanje, u skladu s propisima kojima se uređuje gospodarenje otpadom.
+(4) Program kojim se definira sufinanciranje troškova gospodarenja otpadom na otocima donosi ministar odlukom.
+(5) Ministarstvo korisnicima koji imaju sklopljen ugovor s Fondom o neposrednom sufinanciranju prihvatljivih troškova iz stavaka 1. i 2. ovoga članka sufinancira preostale prihvatljive troškove iz ugovora koje Fond ne sufinancira.
+(6) Ministarstvo financijska sredstva iz stavka 5. ovoga članka dodjeljuje na temelju programa iz stavka 4. ovoga članka, u okviru javnoga poziva koji objavljuje Ministarstvo.
+(7) Financijska sredstva iz stavka 5. ovoga članka osiguravaju se ovisno o mogućnostima i sukladno za tu namjenu osiguranim sredstvima u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva i dodjeljuju se korisnicima iz stavka 5. ovoga članka na temelju sklopljenoga ugovora s Ministarstvom.

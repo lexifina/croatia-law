@@ -1,0 +1,12 @@
+## Provedbeni propisi i programi koji ostaju na snazi
+# Članak 44.
+(1) Nacionalni plan razvoja otoka 2021. – 2027. primjenjuje se do isteka razdoblja na koje je donesen.
+(2) Državni program zaštite i korištenja malih, povremeno nastanjenih i nenastanjenih otoka i okolnoga mora primjenjuje se do donošenja Državnoga programa iz članka 35. stavka 1. ovoga Zakona.
+(3) Državni program sređivanja i usklađenja katastra i zemljišnih knjiga na otocima 2023. – 2027. od 22. veljače 2024. primjenjuje se do isteka razdoblja na koje je donesen.
+(4) Do stupanja na snagu pravilnika iz članka 27. stavka 8. ovoga Zakona ostaje na snazi Pravilnik o provedbi Programa »Hrvatski otočni proizvod« u vezi s djelokrugom, brojem članova i sastavom stručnih povjerenstava za dodjelu oznake »Hrvatski otočni proizvod«, načinu vođenja evidencije subjekata kojima je dodijeljena oznaka »Hrvatski otočni proizvod« i načinu provođenja kontrole nad korištenjem oznake »Hrvatski otočni proizvod« (»Narodne novine«, br. 139/21.).
+(5) Pravilnik o načinu vrednovanja zahtjeva za dodjelu bespovratnih financijskih sredstava, načinu rada te sastavu i broju članova Povjerenstva za provedbu javnog poziva za promociju programa »Hrvatski otočni proizvod« (»Narodne novine«, br. 127/21.) ostaje na snazi do donošenja programa iz članka 27. stavka 1. ovoga Zakona.
+(6) Pravilnik o provedbi programa poticanja razvoja civilnog društva na otocima (»Narodne novine«, br. 88/21.) ostaje na snazi do donošenja programa iz članka 29. stavka 2. ovoga Zakona.
+(7) Do donošenja programa iz članka 27. stavka 1. ovoga Zakona primjenjuje se Program »Hrvatski otočni proizvod«, klasa: 304-01/22-04/16, urbroj: 538-08-1-1-2/258-22-1, od 25. kolovoza 2022.
+(8) Do donošenja programa iz članka 29. stavka 2. ovoga Zakona primjenjuje se Program poticanja razvoja civilnog društva na otocima 2021. – 2027., klasa: 302-03/19-01/6, urbroj: 538-07-1-1/415-21-8, od 28. srpnja 2024.
+(9) Do donošenja programa iz članka 30. stavka 3. ovoga Zakona primjenjuje se Program dodjele potpore male vrijednosti otočnim poslodavcima za pokretanje gospodarskih aktivnosti i očuvanje radnih mjesta, klasa: 304-01/24-02/2, urbroj: 538-08-2-1/250-24-1, od 28. ožujka 2024.
+(10) Do donošenja programa iz članka 21. stavka 2. ovoga Zakona primjenjuje se Program dodjele potpora male vrijednosti otočnim gospodarskim subjektima za troškove prijevoza vode plovilom vodonoscem i/ili autocisternom, klasa: 304-01/24-04/1, urbroj: 538-08-2-2/572-24-1, od 30. ožujka 2024.

@@ -1,0 +1,4 @@
+## Opskrba otočnih gospodarskih subjekata vodom
+# Članak 21.
+(1) Fizičke i pravne osobe koje obavljaju gospodarsku djelatnost u otočnom naselju ili dijelu otočnoga naselja koji nije priključen na sustav javne vodoopskrbe (otočni gospodarski subjekti) mogu ostvariti bespovratna financijska sredstva za mjeru financiranja 100 % troškova prijevoza vode plovilom vodonoscem i/ili autocisternom, koja im se isplaćuju izravno.
+(2) Sredstva za provedbu mjere iz stavka 1. ovoga članka osiguravaju se ovisno o mogućnostima i sukladno sredstvima za tu namjenu osiguranim u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva i dodjeljuju se jednom godišnje putem javnoga poziva koji objavljuje Ministarstvo u skladu s programom kojim se definira financiranje troškova prijevoza vode plovilom vodonoscem i/ili autocisternom za otočne gospodarske subjekte, koji donosi ministar odlukom.

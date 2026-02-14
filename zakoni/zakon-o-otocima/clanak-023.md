@@ -1,0 +1,7 @@
+## Ekološko zbrinjavanje otpadnih voda iz kućanstava
+# Članak 23.
+(1) U otočnim naseljima ili dijelovima otočnih naselja koji nisu priključeni na sustav javne odvodnje niti je njegova izgradnja planirana višegodišnjim planom gradnje nadležnoga javnog isporučitelja vodnih usluga tijekom najmanje sljedećih četiriju godina, Ministarstvo potiče ekološko zbrinjavanje sanitarnih otpadnih voda iz kućanstava u skladu s aktom o odvodnji otpadnih voda definiranim zakonom kojim se uređuju vode, s posebnim naglaskom na pučinske otoke i otoke sa specifičnim položajem.
+(2) Ministarstvo potiče aktivnosti iz stavka 1. ovoga članka tako da dodjeljuje bespovratna financijska sredstva ovisno o mogućnostima i sukladno za tu namjenu osiguranim sredstvima u državnom proračunu Republike Hrvatske na proračunskoj glavi Ministarstva.
+(3) Prijavitelji za dodjelu sredstava iz stavka 2. ovoga članka fizičke su osobe nositelji kućanstava iz stavka 1. ovoga članka.
+(4) O činjenicama iz stavka 1. ovoga članka i tehničkim uvjetima i pretpostavkama koje su dužni zadovoljiti individualni sustavi odvodnje nadležni javni isporučitelj vodnih usluga dostavlja potvrdu na zahtjev prijavitelja iz stavka 3. ovoga članka.
+(5) Sredstva iz stavka 2. ovoga članka dodjeljuju se u okviru javnoga poziva koji objavljuje Ministarstvo na temelju programa kojim se definira poticanje ekološkoga zbrinjavanja otpadnih voda iz kućanstava iz stavka 1. ovoga članka, koji donosi ministar odlukom.
