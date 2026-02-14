@@ -1,0 +1,5 @@
+# Članak 40.
+U članku 510. iza stavka 5. dodaju se stavci 6., 7. i 8. koji glase:
+»(6) Ako vijeće ocijeni da bi svojom odlukom odstupilo od ustaljene prakse ili odluke proširenog vijeća Vrhovnog suda, ili da praksa Vrhovnog suda u vezi s pravnim pitanjem o kojem odlučuje nije jedinstvena, ili da zbog drugih važnih razloga treba omogućiti da se o zahtjevu za zaštitu zakonitosti odluči u širem sastavu, odluku će prepustiti proširenom vijeću Vrhovnog suda.
+(7) Prošireno vijeće iz stavka 6. ovoga članka čine predsjednik Kaznenog odjela Vrhovnog suda, sudac izvjestitelj vijeća kojem je predmet bio dodijeljen u rad, voditelj službe za praćenje i proučavanje sudske prakse Kaznenog odjela Vrhovnog suda i četiri suca Vrhovnog suda određena slučajnim odabirom, počevši od sudaca Kaznenog odjela Vrhovnog suda. Proširenom vijeću predsjeda predsjednik Kaznenog odjela Vrhovnog suda.
+(8) O prepuštanju odluke proširenom vijeću i o sastavu tog vijeća stranke će se obavijestiti najkasnije 15 dana prije održavanja sjednice proširenog vijeća.«.

@@ -1,0 +1,7 @@
+# Članak 29.
+Članak 346. mijenja se i glasi:
+»(1) Okrivljenik ima pravo podnijeti pisani odgovor na optužnicu u roku od 15 dana od primitka optužnice. U složenim predmetima okrivljenik i branitelj mogu odmah nakon primitka optužnice zatražiti produljenje roka za podnošenje odgovora na optužnicu, o čemu će predsjednik optužnog vijeća odlučiti rješenjem. Predsjednik vijeća odlučuje o tom zahtjevu odmah, a može, ovisno o složenosti predmeta, produljiti rok za podnošenje odgovora na optužnicu najdulje za 15 dana. Žalba protiv rješenja predsjednika optužnog vijeća nije dopuštena.
+(2) Ako se optužnica odnosi na kaznena djela za koja je propisana novčana kazna ili kazna zatvora do pet godina, rok za podnošenje odgovora na optužnicu je osam dana od primitka optužnice.
+(3) Odgovor na optužnicu može podnijeti i branitelj bez posebne okrivljenikove ovlasti, ali ne i protiv njegove volje.
+(4) Okrivljenik se može odreći prava na podnošenje odgovora na optužnicu.
+(5) Oštećenik ili njegov opunomoćenik, ako ga ima, ima pravo pisano obrazložiti imovinskopravni zahtjev, upozoriti na dokaze o krivnji okrivljenika te predložiti privremene mjere osiguranja imovinskopravnog zahtjeva (članak 160.) u roku od 15 dana od zaprimanja obavijesti iz članka 345. stavka 5. ovoga Zakona, odnosno u roku od osam dana od zaprimanja obavijesti iz članka 345. stavka 5. ovoga Zakona ako se optužnica odnosi na kaznena djela iz stavka 2. ovoga članka.«.
