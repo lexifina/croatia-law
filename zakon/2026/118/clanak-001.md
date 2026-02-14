@@ -1,0 +1,3 @@
+# Članak 1.
+U Zakonu o mirovinskim osiguravajućim društvima (»Narodne novine«, br. 22/14., 29/18., 115/18., 156/23. i 52/25.) u članku 2. podstavak 6. mijenja se i glasi:
+» - Direktiva (EU) 2016/2341 Europskog parlamenta i Vijeća od 14. prosinca 2016. o djelatnostima i nadzoru institucija za strukovno mirovinsko osiguranje (SL L 354, 23. 12. 2016.) kako je posljednji put izmijenjena Direktivom (EU) 2023/2864 Europskog parlamenta i Vijeća od 13. prosinca 2023. o izmjeni određenih direktiva u pogledu uspostave i funkcioniranja jedinstvene europske pristupne točke (SL L 2023/2864, 20. 12. 2023.).«.
