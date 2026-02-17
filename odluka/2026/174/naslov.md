@@ -1,0 +1,1 @@
+Odluka o davanju ovlasti Ministarstvu zdravstva za davanje suglasnosti zdravstvenoj ustanovi za davanje u zakup poslovnog prostora i/ili zemljišta odnosno dijela poslovnog prostora i/ili dijela zemljišta

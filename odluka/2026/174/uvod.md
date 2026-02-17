@@ -1,0 +1,1 @@
+Na temelju članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), a u vezi s člankom 58. Zakona o ustanovama (»Narodne novine«, br. 76/93., 29/97. - ispravak, 47/99. - ispravak, 35/08., 127/19. i 151/22.), Vlada Republike Hrvatske je na sjednici održanoj 17. veljače 2026. donijela
