@@ -1,0 +1,7 @@
+## Registar imenovanih subjekata koji imaju poslovni nastan i pravnih zastupnika
+# Članak 14.
+(1) Pružatelji usluga koji imaju poslovni nastan ili nude usluge na državnom području Republike Hrvatske obavještavaju Hrvatsku regulatornu agenciju za mrežne djelatnosti o podacima za kontakt imenovanih subjekata koji imaju poslovni nastan ili pravnih zastupnika te o svim promjenama tih podataka. Podaci za kontakt sadržavaju ime, poštansku adresu, e-adresu i telefonski broj imenovanog subjekata koji ima poslovni nastan ili pravnog zastupnika.
+(2) Pružatelji usluga iz stavka 1. ovoga članka obavještavaju Hrvatsku regulatornu agenciju za mrežne djelatnosti o tome koji se od službenih jezika Europske unije, osim onih navedenih u članku 10. ovoga Zakona, mogu koristiti pri obraćanju imenovanim subjektima koji imaju poslovni nastan i pravnim zastupnicima.
+(3) Ako pružatelj usluga imenuje nekoliko imenovanih subjekata koji imaju poslovni nastan ili pravnih zastupnika, za svakoga određuje područje djelovanja, u okviru mjesne nadležnosti županijskih sudova.
+(4) Podatke iz stavaka 1., 2. i 3. ovoga članka pružatelji usluga dostavljaju na obrascu objavljenom na službenim mrežnim stranicama Hrvatske regulatorne agencije za mrežne djelatnosti.
+(5) Hrvatska regulatorna agencija za mrežne djelatnosti dostavlja podatke iz ovoga članaka tijelu iz članka 3. ovoga Zakona radi objave na za to predviđenoj mrežnoj stranici Europske pravosudne mreže u kaznenim stvarima.

@@ -1,0 +1,6 @@
+## I. OPĆE ODREDBE
+## Predmet Zakona
+# Članak 1.
+(1) Ovim se Zakonom osigurava provedba Uredbe (EU) 2023/1543 Europskog parlamenta i Vijeća od 12. srpnja 2023. o europskim nalozima za dostavljanje i europskim nalozima za čuvanje elektroničkih dokaza u kaznenim postupcima i za izvršenje kazni zatvora nakon kaznenog postupka (SL L 191, 28. 7. 2023.) (u daljnjem tekstu: Uredba (EU) 2023/1543).
+(2) Ovim se Zakonom u hrvatsko zakonodavstvo preuzima Direktiva (EU) 2023/1544 Europskog parlamenta i Vijeća od 12. srpnja 2023. o utvrđivanju usklađenih pravila za imenovanje imenovanih subjekata koji imaju poslovni nastan i za imenovanje pravnih zastupnika za potrebe prikupljanja elektroničkih dokaza u kaznenim postupcima (SL L 191, 28. 7. 2023.) (u daljnjem tekstu: Direktiva (EU) 2023/1544).
+(3) Ovim se Zakonom određuju nadležna tijela i postupanje nadležnih tijela u postupku pribavljanja elektroničkih dokaza u kaznenim postupcima, pravila za imenovanje imenovanih subjekata koji imaju poslovni nastan i za imenovanje pravnih zastupnika određenih pružatelja usluga koji nude usluge u Europskoj uniji za potrebe prikupljanja elektroničkih dokaza u kaznenim postupcima te prekršajne odredbe povezane s kršenjem odredbi akata iz stavaka 1. i 2. ovoga članka.
