@@ -1,0 +1,8 @@
+## VREMENSKA OGRANIČENJA
+# Članak 7.
+(1) Ribolov plavoperajne tune plivaricama tunolovkama dozvoljen je od prvog dana važenja Odobrenja za ribolov tune, a najranije od 19. svibnja u 00:00 sati do 1. srpnja u 24:00 sata ili do iskorištenja dodijeljene ulovne kvote unutar tog razdoblja.
+(2) Iznimno od stavka 1. ovoga članka, ribolov plavoperajne tune u Jadranskom moru (GSA 17 i GSA 18) plivaricama tunolovkama koje obavljaju ribolov za potrebe uzgoja u Jadranskom moru dozvoljen je najranije od 26. svibnja u 00:00 sati do 15. srpnja u 24:00 sata ili do iskorištenja dodijeljene ulovne kvote unutar tog razdoblja.
+(3) Ribolov plavoperajne tune u ciljanom gospodarskom ribolovu tune udičarskim alatima dozvoljen je od prvog dana važenja Odobrenja za ribolov tune, a najranije od 15. veljače u 00:00 sati do 31. prosinca u 24:00 sata, ili do iskorištenja dodijeljene godišnje ulovne kvote unutar tog razdoblja.
+(4) Iznimno od stavka 3. ovoga članka, ribolov plavoperajne tune plutajućim parangalom dozvoljen je od prvog dana važenja Odobrenja za ribolov tune, a najranije od 1. travnja u 00:00 sati do 31. prosinca u 24:00 sata, ili do iskorištenja dodijeljene godišnje ulovne kvote unutar tog razdoblja.
+(5) Ribolov plavoperajne tune u sportskom ribolovu dozvoljen je od 1. svibnja u 00:00 sati do 1. studenoga u 24:00 sata, ili do iskorištenja dodijeljene godišnje ulovne kvote unutar tog razdoblja.
+(6) Ribolov plavoperajne tune u rekreacijskom ribolovu dozvoljen je od prvog dana važenja Potvrde za rekreacijski ribolov trofejnih primjeraka tune, a najranije od 1. srpnja u 00:00 sati do 1. studenog u 24:00 sata, ili do iskorištenja dodijeljene godišnje ulovne kvote unutar tog razdoblja.
