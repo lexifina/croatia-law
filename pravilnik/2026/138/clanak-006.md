@@ -1,0 +1,6 @@
+## Posebni uvjeti za sudjelovanje
+# Članak 6.
+(1) Za voditelja twinning projekta ili projekta tehničke pomoći može se predložiti carinski službenik koji ima najmanje pet godina radnog iskustva na poslovima carinskog službenika, najmanje dvije godine radnog iskustva u rukovođenju na poslovima iz opisa projekta te koji ima iskustvo na radu u projektnim aktivnostima.
+(2) Za dugoročnog twinning savjetnika za provedbu twinning projekta i dugoročnog stručnjaka za provedbu projekta tehničke pomoći, ovisno o uvjetima pojedinog projekta, može se predložiti carinski službenik koji ima najmanje pet godina radnog iskustva na poslovima carinskog službenika, najmanje dvije godine radnog iskustva u rukovođenju na poslovima iz opisa projekta te koji ima iskustvo na radu u projektnim aktivnostima.
+(3) Za kratkoročnog stručnjaka za provedbu projekta, ovisno o uvjetima i zahtjevima pojedinog projekta, može se predložiti carinski službenik koji ima najmanje tri godine radnog iskustva na poslovima carinskog službenika i najmanje dvije godine radnog iskustva u obavljanju stručnih poslova u području koje pokriva pojedini projekt.
+(4) Uz ispunjavanje uvjeta iz stavka 1., 2. i 3. ovoga članka i članka 5. ovoga Pravilnika neophodno je znanje engleskog jezika te uputno znanje jezika države u kojoj se provodi projekt.
