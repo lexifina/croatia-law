@@ -1,0 +1,4 @@
+## Razina zdravstvene zaštite u državi primateljici
+# Članak 35.
+(1) Osobama iz članka 34. stavka 1. ovoga Pravilnika osigurava se pravo na korištenje zdravstvene zaštite u inozemstvu koja se ne može odgoditi do povratka u Republiku Hrvatsku.
+(2) Osobe iz članka 34. stavka 1. ovoga Pravilnika, u slučaju potrebe dugotrajnog liječenja, odnosno liječenja koje izaziva velike troškove za Ministarstvo, obvezne su s navedenim upoznati nadležne službe Ministarstva, radi ocjenjivanja potrebe povratka ili dolaska na liječenje u Republiku Hrvatsku.

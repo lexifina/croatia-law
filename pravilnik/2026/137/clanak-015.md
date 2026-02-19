@@ -1,0 +1,3 @@
+# Članak 15.
+(1) U slučaju iz članka 14. ovoga Pravilnika, nakon što Carinska uprava zaprimi obavijest međunarodne institucije, strane carinske administracije, stručne organizacije i tijela ili agencije Europske unije o izboru carinskog službenika, ravnatelj donosi rješenje o mirovanju prava i obveza iz državne službe za vrijeme trajanja mandata u međunarodnoj instituciji, organizaciji ili tijelu Europske unije.
+(2) U slučaju da međunarodna institucija, strana carinska administracija, stručna organizacija i tijelo ili agencija Europske unije prije isteka mandata ponudi carinskom službeniku produljenje mandata, carinski službenik, ukoliko namjerava prihvatiti produljenje mandata, prethodno mora zatražiti suglasnost iz članka 5. ovoga Pravilnika za produljenje mandata.

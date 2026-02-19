@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Carinski službenik koji se upućuje na rad u inozemstvo s Carinskom upravom sklapa ugovor kojim se reguliraju međusobna prava i obveze.
+(2) Ugovorom iz stavka 1. ovog članka utvrđuje se trajanje rada u inozemstvu te prava i obveze sukladno propisima i pravilima međunarodne institucije, strane carinske administracije, stručne organizacije i tijela ili agencije Europske unije u koje se upućuje.
+(3) Ugovor iz stavka 1. ovoga članka sklapa se na određeno vrijeme, u skladu s pravilima međunarodne institucije, strane carinske administracije, stručne organizacije i tijela ili agencije Europske unije u koje se carinski službenik upućuje.
+(4) Ugovor iz stavka 1. ovoga članka može se, na temelju zahtjeva međunarodne institucije, strane carinske administracije, stručne organizacije i tijela ili agencije Europske unije, i uz suglasnost carinskog službenika, te ako je to u interesu Carinske uprave, produžiti najviše jednom, sukladno pravilima međunarodne institucije, strane carinske administracije, stručne organizacije i tijela ili agencije Europske unije, o čemu odluku donosi ravnatelj Carinske uprave.
