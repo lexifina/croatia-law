@@ -1,0 +1,1 @@
+Na temelju članka 4. stavka 5. Zakona o Nacionalnom centru za vanjsko vrednovanje obrazovanja (»Narodne novine«, br. 151/04., 116/21. i 40/25.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 26. veljače 2026. donijela
