@@ -1,0 +1,1 @@
+Odluka o izmjeni Odluke o osnivanju Radne skupine za strateško usmjeravanje i pripremu stajališta Republike Hrvatske za pregovore o Višegodišnjem financijskom okviru Europske unije za razdoblje nakon 2027.
