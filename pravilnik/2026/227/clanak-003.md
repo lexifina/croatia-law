@@ -1,0 +1,10 @@
+# Članak 3.
+(1) Za potrebe ovoga Pravilnika primjenjuju se pojmovi za »meso«, »mesne proizvode« i »proizvode ribarstva« iz Uredbe (EZ) br. 853/2004 Europskog parlamenta i Vijeća od 29. travnja 2004. o utvrđivanju određenih higijenskih pravila za hranu životinjskog podrijetla, te za »veterinarski lijek« iz Uredbe (EU) 2019/6 Europskog parlamenta i Vijeća od 11. prosinca 2018. o veterinarsko-medicinskim proizvodima i stavljanju izvan snage Direktive 2001/82/EZ.
+(2) Uz pojmove iz stavka 1. ovoga članka primjenjuju se sljedeći pojmovi:
+1. »farmske životinje« - domaće životinje vrste goveda, svinje, ovce, koze, domaći kopitari, perad i kunići, te divlje životinje navedenih vrsta i divlji preživači koji se uzgajaju na objektu
+2. »nedopuštena primjena« - primjena neodobrenih tvari ili proizvoda, ili primjena tvari i proizvoda koji su sukladno propisima o veterinarskim lijekovima odobreni za stavljanje u promet, ali za namjenu ili pod drugim uvjetima koji nisu u skladu s propisima o veterinarskim lijekovima
+3. »terapijska primjena« - u skladu s člankom 6. ovoga Pravilnika, primjena odobrene tvari na pojedinoj farmskoj životinji, nakon pregleda veterinara, u svrhu tretiranja kod problema plodnosti (uključujući prekid neželjenog graviditeta) i, u slučaju beta-agonista za indukciju kontrakcija glatkih mišića maternice (tokolize) u krava kod teljenja kao i za tretiranje respiratornih problema, podotrohleitisa i laminitisa i induciranje tokolize kod kopitara
+4. »zootehnička primjena« - primjena:
+- na pojedinoj farmskoj životinji bilo koje tvari koja je odobrena u skladu s člankom 7. ovoga Pravilnika, u svrhu sinkronizacije estrusa i pripreme davateljice i primateljice za implantaciju embrija, nakon pregleda životinje od strane doktora veterinarske medicine ili, u skladu s člankom 7. stavkom 2. ovoga Pravilnika, pod njegovom odgovornošću
+- kod životinja akvakulture, kada se u svrhu promjene spola skupini rasplodnih životinja daje proizvod izdan na veterinarski recept i pod odgovornošću doktora veterinarske medicine.
+(3) Izrazi koji se koriste u ovom propisu, a imaju rodno značenje odnose se jednako na muški i ženski rod.

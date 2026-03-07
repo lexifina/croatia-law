@@ -1,0 +1,2 @@
+# Članak 12.
+Ako se na temelju rezultata provedenih kontrola utvrdi da zemlja podrijetla životinja ili njihovih proizvoda ne udovoljava zahtjevima propisanim odredbama ovoga Pravilnika, Državni inspektorat postupa u skladu s člancima 66. i 67. Zakona o službenim kontrolama i drugim službenim aktivnostima koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja, zdravlju bilja i sredstvima za zaštitu bilja (»Narodne novine«, broj 52/21), (u daljnjem tekstu: Zakon o službenim kontrolama) i člancima 8, 102. - 108. Uredbe (EU) 2017/625.

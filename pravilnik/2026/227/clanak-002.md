@@ -1,0 +1,4 @@
+# Članak 2.
+Ovim se Pravilnikom u pravni poredak Republike Hrvatske, sukladno Odluci o instrumentima za usklađivanje zakonodavstva, prenosi Direktiva Vijeća 96/22/EZ od 29. travnja 1996. o zabrani primjene na farmskim životinjama određenih tvari koje imaju hormonski ili tireostatski učinak i beta-agonista te kojom se ukidaju Direktive 81/602/EEZ, 88/146/EEZ i 88/299/EEZ, kako je izmijenjena i dopunjena sljedećim pravnim aktima Europske unije:
+- Direktivom 2003/74/EZ Europskog parlamenta i Vijeća od 22. rujna 2003. o izmjeni Direktive Vijeća 96/22/EZ od 29. travnja 1996. o zabrani primjene na farmskim životinjama određenih tvari koje imaju hormonski ili tireostatski učinak i beta-agonista i
+- Direktivom 2008/97/EZ Europskog parlamenta i Vijeća od 19. studenoga 2008. o izmjeni Direktive Vijeća 96/22/EZ od 29. travnja 1996. o zabrani primjene na farmskim životinjama određenih tvari koje imaju hormonski ili tireostatski učinak i beta-agonista.

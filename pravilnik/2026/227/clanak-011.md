@@ -1,0 +1,4 @@
+# Članak 11.
+(1) Ne dovodeći u pitanje odredbe propisa kojim se uređuje područje veterinarskih lijekova, subjekti koji kupuju ili proizvode tvari koje imaju tireostatski, estrogeni, androgeni ili gestageni učinak i beta-agoniste, subjekti koji posjeduju odobrenje za stavljanje u promet navedenih tvari i subjekti koji kupuju ili od takvih tvari proizvode farmaceutske i veterinarske lijekove moraju voditi evidenciju po kronološkom redu.
+(2) Evidencija iz stavka 1. ovoga članka mora sadržavati proizvedene ili nabavljene količine i one prodane ili korištene za proizvodnju farmaceutskih i veterinarskih lijekova i imena/nazive subjekata kojima su te količine prodane ili od kojih su nabavljene.
+(3) Evidencija iz stavka 1. ovoga članka mora biti dostupna na zahtjev Državnom inspektoratu i Ministarstvu poljoprivrede, šumarstva i ribarstva, a kada se vodi u elektroničkom obliku, tada treba biti dostupna u obliku ispisa.
