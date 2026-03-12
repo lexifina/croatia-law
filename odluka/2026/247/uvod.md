@@ -1,0 +1,1 @@
+Na temelju članka 34. stavka 3. Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji (»Narodne novine«, br. 121/17, 98/19, 84/21 i 156/23) i članka 22. točke 5. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, br. 155/25), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 2. ožujka 2026., donosi
