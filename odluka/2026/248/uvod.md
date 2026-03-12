@@ -1,0 +1,1 @@
+Na temelju članka 90. stavka 4. Zakona o mirovinskom osiguranju (»Narodne novine«, br. 96/25) i članka 22. točke 4. Statuta Hrvatskog zavoda za mirovinsko osiguranje (»Narodne novine«, br. 155/25), Upravno vijeće Hrvatskog zavoda za mirovinsko osiguranje, na sjednici održanoj 2. ožujka 2026., donosi
