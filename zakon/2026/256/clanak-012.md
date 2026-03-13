@@ -1,0 +1,2 @@
+# Članak 12.
+Ministar nadležan za obrazovanje uskladit će Pravilnik o odgovarajućoj vrsti i razini obrazovanja odgojno-obrazovnih i ostalih radnika u dječjem vrtiću, ustanovama te drugim pravnim i fizičkim osobama koje provode programe ranog i predškolskog odgoja i obrazovanja (»Narodne novine«, br. 145/24. i 62/25. - ispravak) s odredbama ovoga Zakona u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona.

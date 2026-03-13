@@ -1,0 +1,20 @@
+# Članak 2.
+Članak 24. mijenja se i glasi:
+»(1) U dječjem vrtiću na poslovima njege, odgoja i obrazovanja, socijalne i zdravstvene zaštite te skrbi o djeci rade sljedeći odgojno-obrazovni radnici: odgojitelj i stručni suradnik: pedagog, psiholog, logoped, edukacijski rehabilitator i socijalni pedagog te medicinska sestra kao zdravstvena voditeljica.
+(2) Odgojno-obrazovni radnici u dječjem vrtiću moraju imati odgovarajuću vrstu i razinu obrazovanja te utvrđenu zdravstvenu sposobnost za obavljanje poslova iz stavka 1. ovoga članka.
+(3) Poslove odgojitelja djece od navršenih šest mjeseci života do polaska u osnovnu školu može obavljati osoba koja je završila studij odgovarajuće vrste propisane pravilnikom iz stavka 13. ovoga članka i razine za rad na radnome mjestu odgojitelja, a koji može biti:
+a) sveučilišni prijediplomski studij,
+b) stručni prijediplomski studij,
+c) studij kojim je stečena viša stručna sprema u skladu s prijašnjim propisima,
+d) sveučilišni diplomski studij,
+e) stručni diplomski studij.
+(4) Ako se na natječaj ne javi osoba koja ispunjava uvjete iz stavka 3. ovoga članka, poslove odgojitelja može obavljati osoba koja je završila učiteljski studij, i to: sveučilišni integrirani prijediplomski i diplomski studij, stručni diplomski studij ili četverogodišnji stručni studij primarnoga obrazovanja i koja je završila program za stjecanje odgojno-obrazovnih kompetencija za rad s djecom rane i predškolske dobi.
+(5) Ako se na natječaj ne javi osoba koja ispunjava uvjete iz stavaka 3. i 4. ovoga članka, poslove odgojitelja može obavljati osoba koja je završila učiteljski studij, i to: sveučilišni integrirani prijediplomski i diplomski studij ili stručni diplomski studij ili četverogodišnji stručni studij primarnoga obrazovanja, uz uvjet da u roku od dvije godine od dana zasnivanja radnoga odnosa završi program za stjecanje odgojno-obrazovnih kompetencija za rad s djecom rane i predškolske dobi.
+(6) Ako osoba iz stavka 5. ovoga članka ne završi program za stjecanje odgojno-obrazovnih kompetencija za rad s djecom rane i predškolske dobi u roku od dvije godine od dana zasnivanja radnoga odnosa, prestaje joj radni odnos istekom roka za završetak programa za stjecanje odgojno-obrazovnih kompetencija za rad s djecom rane i predškolske dobi.
+(7) Osoba iz stavka 5. ovoga članka zasniva radni odnos kao nestručna osoba do stjecanja odgojno-obrazovnih kompetencija za rad s djecom rane i predškolske dobi te može izvoditi odgojno-obrazovni rad s djecom kao jedan od dvaju odgojitelja u odgojno-obrazovnoj skupini, i to uz odgojitelja koji ima odgovarajuću kvalifikaciju iz stavka 3. ovoga članka.
+(8) Poslove odgojitelja koji izvodi isključivo program predškole pri osnovnim školama za djecu koja ne pohađaju dječji vrtić, uz osobu iz stavka 3. ovoga članka, može izvoditi i osoba koja je završila učiteljski studij, na određeno vrijeme, najdulje do kraja trajanja programa predškole u jednoj pedagoškoj godini.
+(9) Poslove stručnoga suradnika može obavljati osoba koja je završila sveučilišni diplomski studij ili stručni diplomski studij odgovarajuće vrste.
+(10) Poslove medicinske sestre kao zdravstvene voditeljice može obavljati osoba koja je završila sveučilišni prijediplomski studij ili stručni prijediplomski studij sestrinstva, odnosno studij kojim je stečena viša stručna sprema u djelatnosti sestrinstva u skladu s prijašnjim propisima, kao i osoba koja je završila sveučilišni diplomski studij ili stručni diplomski studij sestrinstva.
+(11) Osim odgojno-obrazovnih radnika iz stavka 1. ovoga članka, u dječjim vrtićima rade i druge osobe koje obavljaju administrativno-tehničke i pomoćne poslove (u daljnjem tekstu: ostali radnici).
+(12) Program za stjecanje odgojno-obrazovnih kompetencija za rad s djecom rane i predškolske dobi izvodi visoko učilište koje ima dopusnicu za izvođenje studija ranoga i predškolskog odgoja i obrazovanja.
+(13) Odgovarajuću vrstu obrazovanja odgojno-obrazovnih radnika te razinu i vrstu ostalih radnika u dječjem vrtiću, kao i potrebnu razinu i vrstu obrazovanja za izvođenje programa iz članka 23. stavka 2. ovoga Zakona propisuje ministar nadležan za obrazovanje pravilnikom.«.
