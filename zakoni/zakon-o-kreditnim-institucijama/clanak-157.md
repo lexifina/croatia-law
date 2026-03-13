@@ -1,0 +1,12 @@
+## Odlučivanje o statusu značajne podružnice kada je Hrvatska narodna banka konsolidirajuće nadzorno tijelo
+# Članak 157.
+(1) Ako Hrvatska narodna banka kao konsolidirajuće nadzorno tijelo zaprimi zahtjev nadležnog tijela druge države članice da podružnicu koja pruža usluge na području te države članice smatra značajnom podružnicom, Hrvatska narodna banka surađuje s nadležnim tijelom te države članice pri donošenju zajedničke odluke o statusu značajne podružnice.
+(2) Odluka iz stavka 1. ovoga članka dostavlja se relevantnim nadležnim tijelima.
+(3) Ako zajednička odluka o značajnosti podružnice nije donesena u roku od dva mjeseca od dana zaprimanja zahtjeva iz stavka 1. ovoga članka, a nadležno tijelo te države članice u roku od iduća dva mjeseca donese odluku da se podružnici iz stavka 1. ovoga članka dodjeljuje status značajne podružnice, ta je odluka obvezujuća i za Hrvatsku narodnu banku.
+(4) Hrvatska narodna banka nadležnim tijelima države članice u kojoj kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu prosljeđuje informacije iz članka 145. stavka 6. točaka 3. i 4. ovoga Zakona te u suradnji s tim nadležnim tijelima planira i koordinira aktivnosti iz članka 139. stavka 1. točke 3. ovoga Zakona.
+(5) Ako u kreditnoj instituciji iz stavka 1. ovoga članka nastane izvanredno stanje, Hrvatska narodna banka o tome bez odgode obavještava osobe iz članka 165. stavka 1. točke 1. i članka 167. stavka 1. ovoga Zakona te Europski odbor za sistemske rizike.
+(6) Hrvatska narodna banka nadležnim tijelima države članice u kojoj kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu prosljeđuje sljedeće informacije:
+1. procjenu rizika kreditne institucije koja ima značajnu podružnicu na pojedinačnoj ili konsolidiranoj osnovi u skladu s člankom 98. stavkom 1. i člankom 99. stavkom 1. ovoga Zakona i ako je to moguće procjenu rizika iz članka 141. stavaka 2. i 3. ovoga Zakona
+2. odluke o izrečenim supervizorskim mjerama iz članaka 105. i 110. ovoga Zakona koje su relevantne za tu podružnicu i
+3. odluke u vezi s validacijom internih modela koje su relevantne za tu podružnicu.
+(7) Hrvatska narodna banka savjetuje se s nadležnim tijelom države članice u kojoj kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajnu podružnicu o operativnim postupcima propisanima za planove oporavka likvidnosti, ako je to relevantno za likvidnosni rizik u valuti države članice domaćina.

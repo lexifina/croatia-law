@@ -1,0 +1,12 @@
+## Prekršaji u vezi s nadzorom nad primjenom ovoga Zakona
+# Članak 384.
+(1) Za prekršaj kaznit će se kreditna institucija novčanom kaznom od 10.000,00 eura do 100.000,00 eura:
+1. ako ovlaštenoj osobi Hrvatske narodne banke ne omogući da obavi neposredni nadzor nad njezinim poslovanjem u sjedištu kreditne institucije i na ostalim mjestima na kojima kreditna institucija, odnosno druga osoba na temelju ovlaštenja kreditne institucije, obavlja djelatnosti i poslove u vezi s kojima Hrvatska narodna banka provodi nadzor, što je protivno odredbi članka 305. stavka 1. ovoga Zakona
+2. ako ovlaštenoj osobi, na njezin zahtjev, ne omogući da obavi kontrolu poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije, kao i kontrolu informacijske tehnologije i drugih pridruženih tehnologija, u opsegu potrebnom za obavljanje pojedinog nadzora, što je protivno odredbi članka 305. stavka 2. ovoga Zakona
+3. ako ovlaštenoj osobi, na njezin zahtjev, ne uruči računalne ispise, preslike poslovnih knjiga, poslovne dokumentacije te administrativne ili poslovne evidencije u papirnatom obliku ili u obliku elektroničkog zapisa na mediju i u obliku koji zahtijeva ovlaštena osoba, što je protivno odredbi članka 305. stavka 3. ovoga Zakona
+4. ako ovlaštenoj osobi ne osigura standardno sučelje za pristup sustavu za upravljanje bazama podataka kojima se koristi kreditna institucija, u svrhu provođenja nadzora potpomognutog računalnim programima, što je protivno odredbi članka 305. stavka 4. ovoga Zakona
+5. ako ne izvrši nadzorne mjere naložene rješenjem Hrvatske narodne banke, što je protivno odredbi članka 306. stavka 6. ovoga Zakona.
+(2) Za prekršaj kaznit će se i odgovorna osoba pravne osobe koja počini prekršaj iz stavka 1. ovoga članka novčanom kaznom od 1000,00 eura do 5000,00 eura.
+(3) Za prekršaj kaznit će se pravna osoba novčanom kaznom od 10.000,00 eura do 100.000,00 eura ako se u svojem nazivu koristi ili u pravnom prometu upotrebljava riječi »kreditna institucija«, »banka«, »štedna banka«, »stambena štedionica« ili »štedionica« odnosno izvedenice tih riječi, što je protivno odredbama članka 5., članka 330. stavaka 3. i 4. i članka 336. ovoga Zakona.
+(4) Za prekršaj iz stavka 3. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom u iznosu od 1000,00 do 5000,00 eura.
+(5) Za prekršaj iz stavka 3. ovoga članka kaznit će se fizička osoba novčanom kaznom u iznosu od 1000,00 do 5000,00 eura.

@@ -1,0 +1,5 @@
+## Zahtjev za održavanje zaštitnog sloja za sistemski rizik
+# Članak 239.
+(1) Kreditna institucija dužna je održavati zaštitni sloj za sistemski rizik na pojedinačnoj, potkonsolidiranoj ili konsolidiranoj osnovi na način i u skladu s dijelom prvim, glavom II. Uredbe (EU) br. 575/2013.
+(2) Kreditna institucija dužna je zaštitni sloj za sistemski rizik, izračunan i održavan u skladu s odlukom iz članka 238. ovoga Zakona, održavati redovnim osnovnim kapitalom, kako je propisano u skladu s dijelom prvim, glavom II. Uredbe (EU) br. 575/2013, u visini i na način koji odredi Hrvatska narodna banka.
+(3) Na kreditnu instituciju koja ne ispunjava zahtjev iz stavaka 1. i 2. ovoga članka primjenjuju se odredbe članka 250. stavaka 2., 3. i 5., članka 255. i, kada je to moguće, članka 256. ovoga Zakona, a u slučaju da primjena tih odredbi ne dovede do zadovoljavajućeg poboljšanja redovnoga osnovnoga kapitala kreditne institucije za potrebe relevantnog sistemskog rizika, Hrvatska narodna banka može naložiti dodatne mjere u skladu s ovim Zakonom.

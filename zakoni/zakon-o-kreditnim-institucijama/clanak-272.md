@@ -1,0 +1,7 @@
+## Sazivanje glavne skupštine od strane Hrvatske narodne banke
+# Članak 272.
+(1) Ako je Hrvatska narodna banka na temelju članka 271. stavka 1. točke 3. ovoga Zakona naložila kreditnoj instituciji sazivanje glavne skupštine, a kreditna institucija nije izvršila naloženu mjeru na način i u rokovima kako su naloženi rješenjem, Hrvatska narodna banka može sazvati glavnu skupštinu kreditne institucije, utvrditi dnevni red i prijedlog odluka koje na njoj treba donijeti.
+(2) Za potrebe održavanja glavne skupštine iz stavka 1. ovoga članka izvještaj o poslovanju kreditne institucije sastavlja Hrvatska narodna banka na temelju obavljene supervizije i čini ga dostupnim dioničarima.
+(3) Kada Hrvatska narodna banka na temelju stavka 1. ovoga članka saziva glavnu skupštinu radi povećanja ili smanjenja temeljnoga kapitala, izvještaj iz članka 263. stavka 3. Zakona o trgovačkim društvima (»Narodne novine«, br. 111/93., 34/99., 121/99., 52/00., 118/03., 107/07., 146/08., 137/09., 125/11., 152/11., 111/12., 68/13., 110/15., 40/19., 34/22., 114/22., 18/23., 130/23. i 136/24.) sastavlja i podnosi Hrvatska narodna banka.
+(4) Hrvatska narodna banka glavnu skupštinu iz stavka 1. ovoga članka saziva najmanje 30 dana prije dana njezina održavanja, a u taj rok ne uračunava se dan objave poziva.
+(5) Na dnevni red koji predloži Hrvatska narodna banka dioničari ne mogu dati protuprijedlog ni prijedlog dopune dnevnog reda.

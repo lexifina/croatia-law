@@ -1,0 +1,3 @@
+## Velike izloženosti koje proizlaze iz kredita osiguranih nekretninama
+# Članak 209.
+Kreditna institucija, u skladu s člankom 402. stavcima 1. i 2. Uredbe (EU) br. 575/2013, ne može pri izračunu vrijednosti izloženosti u svrhu provedbe članka 395. Uredbe (EU) br. 575/2013 umanjiti vrijednost izloženosti ili dijela izloženosti koja je, u skladu s člankom 125. stavkom 1. Uredbe (EU) br. 575/2013, osigurana stambenim nekretninama ili je, u skladu s člankom 126. stavkom 1. Uredbe (EU) br. 575/2013, osigurana poslovnim nekretninama za založeni iznos tržišne vrijednosti ili hipotekarne vrijednosti te nekretnine.

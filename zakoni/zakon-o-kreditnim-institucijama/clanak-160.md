@@ -1,0 +1,6 @@
+## GLAVA XII. SURADNJA S NADLEŽNIM TIJELIMA I RAZMJENA INFORMACIJA
+## Suradnja između nadležnih i nadzornih tijela Republike Hrvatske
+# Članak 160.
+(1) Hrvatska narodna banka, Hrvatska agencija za nadzor financijskih usluga i nadzorna tijela u Republici Hrvatskoj dostavljaju na zahtjev pojedinog nadležnog tijela tom tijelu sve informacije o kreditnoj ili financijskoj instituciji koje su mu potrebne u postupku provođenja zadataka supervizije i nadzora nad kreditnom ili financijskom institucijom, u postupku vezanom za izdavanje odobrenja i suglasnosti ili pri odlučivanju o drugim pojedinačnim zahtjevima iz njegove nadležnosti.
+(2) Tijela iz stavka 1. ovoga članka međusobno se obavještavaju o ukidanju odobrenja, nezakonitostima i nepravilnostima koje utvrde tijekom obavljanja supervizije i nadzora i o izrečenim mjerama za njihovo otklanjanje ako su ti nalazi i izrečene mjere bitni za rad tog drugog tijela.
+(3) Ako neko tijelo koje nije nadležno tijelo ima ovlasti za sanaciju, Hrvatska narodna banka i to tijelo usko surađuju i konzultiraju se u pripremi sanacijskog plana, kao i u svim drugim situacijama u kojima ovaj Zakon i propisi kojima su u nacionalno pravo država članica prenesene Direktiva 2013/36/EU, Direktiva 2014/59/EU ili Uredba (EU) br. 575/2013 zahtijevaju suradnju i međusobnu konzultaciju.

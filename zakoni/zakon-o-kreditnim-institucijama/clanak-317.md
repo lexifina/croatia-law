@@ -1,0 +1,15 @@
+## Prigovori potrošača
+# Članak 317.
+(1) Hrvatska narodna banka ovlaštena je u okviru svojih nadležnosti nad kreditnim institucijama pratiti pridržava li se kreditna institucija objavljenih internih akata kojima se uređuju poslovni odnosi kreditne institucije i potrošača, ugovora koje je sklopila s potrošačem, odredbi ovoga Zakona koje se odnose na zaštitu potrošača, odredbi propisa donesenih na temelju ovoga Zakona i odredbi drugih zakona kojima se uređuje zaštita potrošača, za čiji je nadzor ovlaštena po tim zakonima.
+(2) Hrvatska narodna banka ovlaštena je pratiti pridržava li se:
+1. kreditna institucija iz druge države članice koja neposredno ili preko podružnice pruža uzajamno priznate usluge na području Republike Hrvatske i
+2. kreditna institucija iz treće zemlje koja je od Hrvatske narodne banke dobila odobrenje za osnivanje podružnice kreditne institucije iz treće zemlje objavljenih internih akata kojima se uređuju poslovni odnosi kreditne institucije i potrošača, ugovora koje je sklopila sa svojim potrošačem, odredbi ovoga Zakona koje se odnose na zaštitu potrošača, odredbi propisa donesenih na temelju ovoga Zakona, odredbi drugih zakona kojima se uređuje zaštita potrošača, za čiji je nadzor ovlaštena po tim zakonima.
+(3) Hrvatska narodna banka može od kreditne institucije zahtijevati da u roku koji ona odredi dostavi dodatne podatke, izvještaje i druge akte koje ocijeni potrebnima za provedbu zaštite potrošača.
+(4) Ako potrošač smatra da se kreditna institucija ne pridržava uvjeta iz ugovora o pružanju bankovnih odnosno financijskih usluga, objavljenih internih akata kojima se uređuju poslovni odnosi kreditne institucije i potrošača, odredbi ovoga Zakona koje se odnose na zaštitu potrošača, odredbi propisa donesenih na temelju ovoga Zakona i odredbi drugih zakona kojima se uređuje zaštita potrošača, može svoj prigovor na postupke kreditne institucije uputiti kreditnoj instituciji.
+(5) Kreditna institucija dužna je povjeriti poslove rješavanja prigovora potrošača najmanje jednoj osobi koja je u radnom odnosu s tom kreditnom institucijom.
+(6) Kreditna institucija sa sjedištem izvan Republike Hrvatske koja na području Republike Hrvatske pruža usluge preko podružnice dužna je poslove rješavanja prigovora potrošača iz Republike Hrvatske povjeriti najmanje jednoj osobi koja je u radnom odnosu s tom kreditnom institucijom, a koja radi u podružnici u Republici Hrvatskoj.
+(7) Kreditna institucija imenuje osobu za praćenje procesa upravljanja prigovorima potrošača.
+(8) Ako je potrošač nezadovoljan odgovorom ili rješenjem kreditne institucije na njegov uloženi prigovor, može o tome obavijestiti Hrvatsku narodnu banku.
+(9) Hrvatska narodna banka ne rješava pojedinačne prigovore potrošača.
+(10) Hrvatska narodna banka prati periodično kretanje broja prigovora potrošača po pojedinoj kreditnoj instituciji.
+(11) Kreditna institucija dužna je dostaviti Hrvatskoj narodnoj banci informacije o tržišnom ponašanju u obuhvatu, na način i u rokovima određenima podzakonskim propisom iz članka 322. točke 4. ovoga Zakona.

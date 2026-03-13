@@ -1,0 +1,7 @@
+## Ugovaranje kamatnih stopa
+# Članak 314.
+(1) Ako kreditna institucija nudi ugovaranje promjenjive kamatne stope, dužna je prije sklapanja ugovora o depozitu upozoriti potrošača na sve rizike promjenjivosti kamatne stope te jasno i nedvojbeno, u ugovoru o depozitu, ugovoriti parametre koji utječu na promjenu ugovorene kamatne stope.
+(2) Kreditna institucija dužna je parametre odnosno referentne vrijednosti koje utječu na promjenu ugovorene kamatne stope kod ugovora o kreditu, neovisno o ukupnom iznosu i vrsti kredita koji kreditna institucija odobrava potrošaču, i kod ugovora o depozitu objaviti i redovito ažurirati u poslovnim prostorijama i na svojoj internetskoj stranici.
+(3) Kreditna institucija dužna je arhivsku evidenciju o parametrima odnosno referentnim vrijednostima iz stavka 2. ovoga članka koji utječu na promjenu ugovorene kamatne stope kod ugovora o depozitu i ugovora o kreditu koji nije stambeni potrošački kredit učiniti dostupnom na svojim internetskim stranicama.
+(4) Kratkoročni depoziti i kratkoročni krediti ne smiju biti ugovoreni s promjenjivom kamatnom stopom, a u smislu ovoga Zakona kratkoročne usluge su usluge koje se ugovaraju na rok do 12 mjeseci.
+(5) Promotivne ili akcijske kamatne stope koje se nude pri prodaji usluga na točno određeni rok istekom kojeg se visina te kamatne stope korigira na visinu tržišne, trenutačno važeće kamatne stope kreditna institucija smije ugovoriti samo na kratkoročne usluge.

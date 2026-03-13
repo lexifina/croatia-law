@@ -1,0 +1,5 @@
+## Imenovanje revizorskog društva
+# Članak 219.
+(1) Odluku o imenovanju revizorskog društva uprava kreditne institucije dužna je dostaviti Hrvatskoj narodnoj banci u roku od osam dana od dana donošenja odluke.
+(2) Kreditna institucija dužna je za pružanje zakonske revizije i revizije za potrebe Hrvatske narodne banke sklopiti ugovor samo s revizorskim društvom koje ispunjava uvjet iz članka 220. ovoga Zakona.
+(3) Revizorsko društvo dužno je za svaku kreditnu instituciju koja mu je povjerila obavljanje zakonske revizije godišnjih financijskih izvještaja i/ili godišnjih konsolidiranih financijskih izvještaja (u daljnjem tekstu: zakonska revizija) do 31. listopada tekuće godine dostaviti Hrvatskoj narodnoj banci plan obavljanja zakonske revizije za tu poslovnu godinu, iz kojeg se vide područja poslovanja koja će biti predmet zakonske revizije, opis sadržaja planirane zakonske revizije po pojedinim područjima i predviđeno trajanje zakonske revizije, kvantitativna razina značajnosti koja se primjenjuje za provođenje zakonske revizije s obrazloženjem kvalitativnih čimbenika koji su razmatrani pri određivanju razine značajnosti.

@@ -1,0 +1,8 @@
+## Suradnja nadzornih tijela u slučaju kada je jedno od društava kćeri društvo za osiguranje ili društvo ovlašteno za pružanje investicijskih usluga
+# Članak 150.
+(1) Kada kreditna institucija, financijski holding, mješoviti financijski holding ili mješoviti holding kontrolira jedno ili više društava kćeri koja su društva za osiguranje ili društva ovlaštena za pružanje investicijskih usluga, koja podliježu izdavanju odobrenja za rad, Hrvatska narodna banka surađuje s nadzornim tijelima odgovornima za nadzor tih društava.
+(2) U slučaju iz stavka 1. ovoga članka, Hrvatska narodna banka s nadzornim tijelima razmjenjuje informacije koje bi mogle olakšati obavljanje njihovih zadaća te omogućuje nadzor nad aktivnostima i općim financijskim položajem nadziranih društava.
+(3) Informacije dobivene u okviru supervizije na konsolidiranoj osnovi, a posebno svaka razmjena informacija između nadzornih tijela, podliježu obvezi čuvanja povjerljivih informacija.
+(4) Ako Hrvatska narodna banka kao konsolidirajuće nadzorno tijelo nije određena i kao koordinator prema propisima kojima se uređuje nadzor financijskih konglomerata, Hrvatska narodna banka surađuje s koordinatorom za matični mješoviti financijski holding u primjeni odredbi ovoga Zakona i Uredbe (EU) br. 575/2013 na konsolidiranoj osnovi.
+(5) Hrvatska narodna banka u svrhu provedbe stavka 4. ovoga članka s koordinatorom sklapa pisani sporazum o međusobnoj suradnji.
+(6) Kada je Hrvatska narodna banka konsolidirajuće nadzorno tijelo, sastavlja popis financijskih holdinga i mješovitih financijskih holdinga iz članka 11. Uredbe (EU) br. 575/2013 i prosljeđuje ga odgovarajućim nadležnim tijelima drugih država članica, Europskom nadzornom tijelu za bankarstvo i Europskoj komisiji.

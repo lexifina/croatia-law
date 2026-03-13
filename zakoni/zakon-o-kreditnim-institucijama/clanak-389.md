@@ -1,0 +1,3 @@
+## Prestanak važenja
+# Članak 389.
+Danom stupanja na snagu ovoga Zakona prestaju važiti Zakon o kreditnim institucijama (»Narodne novine«, br. 159/13., 19/15., 102/15., 15/18., 70/19., 47/20., 146/20., 151/22. i 145/24.), Odluka o predstavništvima kreditnih institucija iz trećih zemalja (»Narodne novine«, br. 47/14.), Odluka o pobližim uvjetima osnivanja, poslovanja, izvješćivanja i prestanka podružnice kreditne institucije iz treće zemlje u Republici Hrvatskoj (»Narodne novine«, br. 81/14., 4/21., 19/21. i 139/22.) i Odluka o kupoprodaji plasmana kreditnih institucija (»Narodne novine«, br. 127/14., 24/18., 26/21. i 139/22.).

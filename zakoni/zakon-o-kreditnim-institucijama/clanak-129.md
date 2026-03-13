@@ -1,0 +1,5 @@
+## Radnje za sprječavanje ili kažnjavanje kršenja i za zaštitu općeg dobra
+# Članak 129.
+(1) Iznimno od odredbi članaka 125. i 127. ovoga Zakona, Hrvatska narodna banka može, u okviru svojih ovlasti iz ovoga Zakona poduzeti radnje za sprječavanje ili kažnjavanje kršenja počinjenih na području Republike Hrvatske, odredbi ovoga Zakona i podzakonskih propisa donesenih na temelju ovoga Zakona ili propisa koji su doneseni u svrhu zaštite općeg dobra u Republici Hrvatskoj, a za čiji je nadzor ovlaštena po tim propisima.
+(2) Radnje iz stavka 1. ovoga članka mogu uključivati i sprječavanje kreditne institucije iz druge države članice koja na području Republike Hrvatske pruža usluge preko podružnice ili neposredno da na području Republike Hrvatske sklapa nove pravne poslove.
+(3) Na ukidanje podružnice na odgovarajući način primjenjuju se odredbe zakona kojim se uređuju trgovačka društva, a koje se odnose na ukidanje trgovačkog društva, pri čemu je osim Vlade Republike Hrvatske ovlašteni tužitelj i Hrvatska narodna banka.

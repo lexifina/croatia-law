@@ -1,0 +1,4 @@
+## Promjena podataka o poslovanju podružnice
+# Članak 59.
+(1) Kreditna institucija koja je dobila odobrenje za osnivanje podružnice u drugoj državi članici koja namjerava promijeniti neki od podataka iz članka 56. stavka 1. ovoga Zakona ili matična kreditna institucija financijske institucije iz članka 57. ovoga Zakona koja namjerava promijeniti neki od podataka iz članka 57. stavka 2. ovoga Zakona, dužna je najmanje mjesec dana prije provođenja promjene o tome obavijestiti Hrvatsku narodnu banku radi njezina postupanja u skladu s člancima 56. i 57. ovoga Zakona, i nadležno tijelo države članice domaćina.
+(2) Obavijest iz stavka 1. ovoga članka kreditna institucija dužna je dostaviti u sadržaju koji je propisan Delegiranom uredbom Komisije (EU) br. 1151/2014 i na način propisan Provedbenom uredbom Komisije (EU) br. 926/2014.

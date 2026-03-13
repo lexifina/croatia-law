@@ -1,0 +1,10 @@
+## POGLAVLJE II. POSTUPAK IZRICANJA NOVČANE KAZNE, UPOZORENJA I UPRAVNE MJERE
+## Ispitni postupak
+# Članak 364.
+(1) U svrhu utvrđivanja svih činjenica i okolnosti koje su bitne za odlučivanje o izricanju novčane kazne, upozorenja i upravne mjere Hrvatska narodna banka provodi ispitni postupak u skladu sa zakonom kojim se uređuje opći upravni postupak.
+(2) Pri provođenju ispitnog postupka iz stavka 1. ovoga članka Hrvatska narodna banka ima i ovlasti koje ima u postupku provođenja supervizije.
+(3) Pri provođenju ispitnog postupka iz stavka 1. ovoga članka Hrvatska narodna banka može se koristiti cjelokupnom dokumentacijom i svim informacijama prikupljenima u postupku supervizije nad kreditnom institucijom te ako ocijeni potrebnim i dokumentacijom drugih nadležnih tijela prikupljenom u okviru njihove nadzorne ovlasti ili drugih tijela u okviru njihove zakonom dane ovlasti.
+(4) Pri provođenju ispitnog postupka iz stavka 1. ovoga članka Hrvatska narodna banka može zatražiti očitovanje stranke o svim činjenicama, okolnostima i pravnim pitanjima koja su važna za odlučivanje i koja mogu utjecati na određivanje novčane kazne ili upozorenja i upravne mjere, odnosno koja mogu utjecati na visinu novčane kazne (olakotne i otegotne okolnosti), te dostavu podataka i dokumentacije relevantne za utvrđivanje činjeničnog stanja i predlaganje ostalih dokaza, kao i očitovanje o imovnom stanju.
+(5) Hrvatska narodna banka za dostavu očitovanja i dokumentacije iz stavka 4. ovoga članka određuje rok u kojem se stranka ima pravo očitovati, koji ne može biti kraći od osam ni dulji od 30 dana.
+(6) Iznimno od stavka 5. ovoga članka, Hrvatska narodna banka iz opravdanih razloga može na zahtjev stranke produljiti rok za dostavu očitovanja za najdulje 30 dana.
+(7) Ako se stranka ne očituje u roku iz stavaka 5. i 6. ovoga članka, činjenice i okolnosti relevantne za utvrđivanje činjeničnog stanja i utvrđivanje kriterija za izricanje novčane kazne ili upozorenja i upravne mjere, Hrvatska narodna banka utvrdit će po službenoj dužnosti, na temelju vlastitih saznanja, raspoloživih podataka i dokumentacije.

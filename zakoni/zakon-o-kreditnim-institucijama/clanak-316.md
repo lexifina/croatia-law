@@ -1,0 +1,7 @@
+## Promjena vjerovnika kod ugovora o kreditu
+# Članak 316.
+(1) Kreditna institucija dužna je osigurati da potrošač, čiji je ugovor o kreditu ili tražbina iz ugovora o kreditu prenesena na stjecatelja ili na treću osobu na koju je stjecatelj prenio ugovor o kreditu ili tražbinu iz ugovora o kreditu, ne dođe kod tog stjecatelja ili kod te treće osobe, u nepovoljniji položaj na osnovi zaštite potrošača u odnosu na položaj koji je kao dužnik imao prema kreditnoj instituciji.
+(2) Kreditna institucija može ustupiti tražbinu iz ugovora o kreditu ili prenijeti ugovor o kreditu samo na vjerovnika koji je u skladu sa zakonom kojim se uređuju potrošački krediti i stambeni potrošački krediti ovlašten odobravati kredite.
+(3) Kreditna institucija solidarno odgovara sa stjecateljem ili trećom osobom iz stavka 1. ovoga članka za štetu nastalu potrošaču zbog toga što je potrošač došao pravno ili stvarno u nepovoljniji položaj u odnosu na položaj koji je kao dužnik imao prema kreditnoj instituciji.
+(4) U slučaju promjene vjerovnika kod ugovora o kreditu kreditna institucija dužna je obavijestiti dužnika o promjeni vjerovnika, a uz tu obavijest dužna je dostaviti i izvještaj o ukupnom stanju dugovanja sa stanjem na dan promjene vjerovnika i strukturu dugovanja prema sljedećim stavkama: glavnica, kamata, naknade i drugi troškovi.
+(5) Odredbe ovoga članka primjenjuju se na kupoprodaju potraživanja koja nije uređena zakonom kojim se uređuju način, uvjeti i postupak servisiranja i kupoprodaje potraživanja.

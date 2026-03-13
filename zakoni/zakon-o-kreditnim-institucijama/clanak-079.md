@@ -1,0 +1,16 @@
+## Sustav upravljanja podružnice iz treće zemlje
+# Članak 79.
+(1) Podružnica iz treće zemlje imenuje najmanje dvije osobe koje će biti odgovorne za vođenje poslova podružnice i koje će voditi poslove podružnice s područja Republike Hrvatske.
+(2) Osobe iz stavka 1. ovoga članka su osobe koje su u poslovanju podružnice ovlaštene za zastupanje društva osnivača te su dužne prije imenovanja i upisa u sudski registar dobiti prethodnu suglasnost od Hrvatske narodne banke.
+(3) Osobe iz stavka 1. ovoga članka u svakom trenutku moraju ispunjavati uvjete iz članka 44. ovoga Zakona.
+(4) Na postupak izdavanja i ukidanja prethodne suglasnosti iz stavka 2. ovoga članka na odgovarajući način primjenjuju se odredbe glave VI. ovoga Zakona.
+(5) Podružnica iz treće zemlje imenuje upravljački odbor koji se sastoji od osoba iz stavka 1. ovoga članka i osoba koje će izvršavati ovlasti nadzornog odbora iz glave VI. ovoga Zakona, a koje moraju ispunjavati uvjete iz članka 48. ovoga Zakona.
+(6) Na podružnicu iz treće zemlje na odgovarajući način primjenjuju se odredbe o sustavu upravljanja iz glave XV. poglavlja II., IV., V. i VI. ovoga Zakona.
+(7) Podružnica iz treće zemlje dužna je u skladu s glavom XV. poglavljem V. ovoga Zakona uspostaviti sustav unutarnjih kontrola i imenovati voditelje internih kontrolnih funkcija na koje se na odgovarajući način primjenjuju odredbe glave VII. ovoga Zakona.
+(8) Podružnica iz treće zemlje dužna je uspostaviti linije izvješćivanja upravljačkom tijelu glavnog društva koje obuhvaćaju sve značajne rizike i politike upravljanja rizikom i njihove izmjene te uspostaviti odgovarajuće IKT sustave i kontrole radi usklađenosti s tim politikama.
+(9) Podružnica iz treće zemlje dužna je pratiti i upravljati eksternalizacijom svojih poslovnih procesa te osigurati Hrvatskoj narodnoj banci potpuni pristup svim informacijama koje su joj potrebne za izvršavanje njezinih supervizorskih ovlasti.
+(10) Podružnica iz treće zemlje koja sudjeluje u naizmjeničnim operacijama (engl. back-to-back) ili operacijama unutar grupe dužna je imati odgovarajuće resurse za utvrđivanje i pravilno upravljanje kreditnim rizikom druge ugovorne strane ako se značajni rizici povezani s računovodstvenom imovinom koja je evidentirana u poslovnim knjigama podružnice iz treće zemlje prenose na drugu ugovornu stranu.
+(11) Ako glavno društvo podružnice iz treće zemlje obavlja njezine ključne ili važne funkcije, te se funkcije obavljaju u skladu s internim politikama ili procedurama odnosno sporazumima unutar grupe, a podružnica iz treće zemlje dužna je osigurati Hrvatskoj narodnoj banci pristup svim informacijama koje su joj potrebne za obavljanje njezinih supervizorskih ovlasti.
+(12) Podružnica iz treće zemlje dužna je angažirati ovlaštenog revizora da za svaku poslovnu godinu da ocjenu primjene i stalne usklađenosti podružnice iz treće zemlje sa zahtjevima utvrđenima u ovom članku te Hrvatskoj narodnoj banci najmanje jednom godišnje podnosi izvješće o nalazima i zaključcima te ocjene.
+(13) Na ocjenu iz stavka 12. ovoga članka na odgovarajući se način primjenjuju odredbe o računovodstvu i reviziji za potrebe Hrvatske narodne banke iz glave XVII. ovoga Zakona.
+(14) Hrvatska narodna banka podzakonskim propisom uređuje zahtjeve iz ovoga članka za sustav upravljanja podružnice iz treće zemlje.

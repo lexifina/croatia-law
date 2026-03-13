@@ -1,0 +1,9 @@
+## GLAVA VIII. UPRAVLJAČKO TIJELO I NOSITELJI KLJUČNIH FUNKCIJA FINANCIJSKOG HOLDINGA I MJEŠOVITOG FINANCIJSKOG HOLDINGA U RH
+## Uvjeti za članstvo u upravljačkom tijelu i nositelje ključnih funkcija financijskog holdinga i mješovitog financijskog holdinga u RH
+# Članak 54.
+(1) Financijski holding ili mješoviti financijski holding, koji nema odobrenje u skladu s člankom 87. ovoga Zakona, dužan je osigurati da članovi njegova upravljačkog tijela imaju dobar ugled i posjeduju odgovarajuće znanje, vještine i iskustvo kako je navedeno u članku 44. stavku 1. točkama 1. i 2. i članku 48. stavku 1. točkama 1. i 2. ovoga Zakona za obavljanje svojih dužnosti, pri čemu se uzima u obzir specifična uloga financijskog holdinga ili mješovitog financijskog holdinga.
+(2) Financijski holding ili mješoviti financijski holding iz stavka 1. ovoga članka dužan je:
+1. osigurati primjerenost članova svojeg upravljačkog tijela
+2. Hrvatsku narodnu banku obavijestiti o svakoj promjeni svojih članova upravljačkog tijela u roku od osam dana od dana provođenja promjene, te dostaviti informaciju o ispunjavanju uvjeta iz stavka 1. ovoga članka.
+(3) Financijski holding ili mješoviti financijski holding koji podnosi zahtjev za odobrenje u skladu s člankom 87. ovoga Zakona dužan je pri podnošenju zahtjeva za izdavanje odobrenja za rad i prije svakog ponovnog imenovanja člana upravljačkog tijela zatražiti prethodnu suglasnost Hrvatske narodne banke, te se na njega primjenjuju odredbe za članove upravljačkog tijela propisane člancima 41. do 51. ovoga Zakona i podzakonski propis donesen na temelju članka 44. stavka 9. i članka 48. stavka 18. ovoga Zakona.
+(4) Financijski holding ili mješoviti financijski holding koji je u skladu s člankom 87. ovoga Zakona dobio odobrenje Hrvatske narodne banke dužan je identificirati ključne funkcije te imenovati nositelje ključnih funkcija u skladu s glavom VII. ovoga Zakona.

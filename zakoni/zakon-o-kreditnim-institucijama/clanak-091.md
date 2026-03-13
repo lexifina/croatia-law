@@ -1,0 +1,9 @@
+# Članak 91.
+(1) Kada financijski holding ili mješoviti financijski holding ima poslovni nastan u Republici Hrvatskoj te kada Hrvatska narodna banka nije konsolidirajuće nadzorno tijelo, razmjenjuje s konsolidirajućim nadležnim tijelom informacije vezane za taj holding.
+(2) U slučaju iz stavka 1. ovoga članka Hrvatska narodna banka surađuje s konsolidirajućim nadzornim tijelom radi donošenja zajedničke odluke o ispunjenju uvjeta iz članka 87. stavka 11. i članka 88. stavka 2. ili 5. ovoga Zakona i nalaganju mjera iz članka 89. ovoga Zakona ovoga Zakona.
+(3) Zajednička odluka iz stavka 2. ovoga članka donosi se u roku od dva mjeseca od dana primitka procjene koju je izradilo konsolidirajuće nadzorno tijelo.
+(4) Ako je zajednička odluka iz stavka 3. ovoga članka donesena, Hrvatska narodna banka na temelju nje donosi rješenje i dostavlja ga financijskom holdingu ili mješovitom financijskom holdingu koji ima poslovni nastan u Republici Hrvatskoj.
+(5) Ako postoje različita mišljenja u vezi s donošenjem zajedničke odluke iz stavka 3. ovoga članka, Hrvatska narodna banka suzdržava se od donošenja odluke i traži posredovanje Europskog nadzornog tijela za bankarstvo u skladu s člankom 19. Uredbe (EU) br. 1093/2010.
+(6) Ako Europsko nadzorno tijelo za bankarstvo donese odluku u roku od mjesec dana od primitka zahtjeva za posredovanje, zajednička odluka donosi se u skladu s tom odlukom.
+(7) Ako Europsko nadzorno tijelo za bankarstvo ne donese odluku u roku od mjesec dana od primitka zahtjeva za posredovanje, Hrvatska narodna banka samostalno donosi odluku.
+(8) Hrvatska narodna banka ne može zatražiti posredovanje Europskog nadzornog tijela za bankarstvo iz stavka 5. ovoga članka nakon isteka razdoblja od dva mjeseca od primitka procjene konsolidirajućeg nadzornog tijela ili nakon donošenja zajedničke odluke.

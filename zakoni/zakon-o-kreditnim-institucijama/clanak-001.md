@@ -1,0 +1,4 @@
+## GLAVA I. OPĆE ODREDBE
+## Predmet Zakona
+# Članak 1.
+Ovim se Zakonom uređuju uvjeti za osnivanje, poslovanje i prestanak rada kreditnih institucija sa sjedištem u Republici Hrvatskoj, uvjeti pod kojima pravne osobe sa sjedištem izvan Republike Hrvatske mogu pružati bankovne i/ili financijske usluge u Republici Hrvatskoj, supervizija poslovanja kreditnih institucija, uključujući nadzorne ovlasti i alate za superviziju kreditnih institucija od strane Hrvatske narodne banke te superviziju kreditnih institucija od strane Hrvatske narodne banke na način koji je usklađen s pravilima navedenima u Uredbi (EU) br. 575/2013, javna objava od strane Hrvatske narodne banke na području bonitetne regulative i supervizije kreditnih institucija, pravila i postupci koji se odnose na oporavak kreditnih institucija, pravila i nadzor zaštite potrošača i pravila i postupci koji se odnose na izricanje upravnih sankcija, upravnih mjera i periodičnih penala.

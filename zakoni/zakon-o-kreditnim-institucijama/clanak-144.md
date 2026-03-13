@@ -1,0 +1,8 @@
+## Sporazumi o koordinaciji i suradnji
+# Članak 144.
+(1) Radi omogućavanja i uspostave djelotvorne supervizije na konsolidiranoj osnovi Hrvatska narodna banka s drugim nadležnim tijelima država članica uključenima u tu superviziju sklapa pisane sporazume o koordinaciji i suradnji.
+(2) Sporazumima iz stavka 1. ovoga članka mogu se konsolidirajućem nadzornom tijelu povjeriti dodatni poslovi, a mogu se specificirati i procedure u postupku donošenja odluka i procedure za suradnju s drugim nadležnim tijelima.
+(3) Hrvatska narodna banka može bilateralnim sporazumom u skladu s člankom 28. Uredbe (EU) br. 1093/2010 prenijeti nadležnost za superviziju društva kćeri koje je kreditna institucija sa sjedištem u Republici Hrvatskoj nadležnom tijelu koje je izdalo odobrenje za rad i koje nadzire njezinu matičnu kreditnu instituciju.
+(4) Hrvatska narodna banka može bilateralnim sporazumom u skladu s člankom 28. Uredbe (EU) br. 1093/2010 preuzeti nadležnost za superviziju kreditne institucije iz države članice koja je društvo kći kreditne institucije sa sjedištem u Republici Hrvatskoj od nadležnog tijela koje je izdalo odobrenje za rad i koje nadzire tu kreditnu instituciju.
+(5) Ako konsolidirajuće i nadležno tijelo za financijski holding ili mješoviti financijski holding koji je dobio odobrenje u skladu s člankom 87. ovoga Zakona nisu isti, Hrvatska narodna banka kao konsolidirajuće ili nadležno tijelo sklapa sporazum o koordinaciji i suradnji iz stavka 1. ovoga članka s drugim nadležnim tijelima u državi članici u kojoj financijski holding ili mješoviti financijski holding ima poslovni nastan.
+(6) Hrvatska narodna banka obavještava Europsko nadzorno tijelo za bankarstvo o postojanju i sadržaju bilateralnih sporazuma iz stavaka 3. i 4. ovoga članka.

@@ -1,0 +1,13 @@
+## Planovi oporavka grupe
+# Članak 260.
+(1) Matična kreditna institucija u EU-u sa sjedištem u RH dužna je izraditi plan oporavka grupe, usvojiti ga i dostaviti Hrvatskoj narodnoj banci.
+(2) Plan oporavka grupe iz stavka 1. ovoga članka:
+1. sadržava plan oporavka cijele grupe kreditnih institucija u EU-u i
+2. utvrđuje mjere oporavka čija se provedba zahtijeva na razini matične kreditne institucije u EU-u i svakog društva kćeri pojedinačno.
+(3) Hrvatska narodna banka članici grupe može naložiti izradu i dostavu plana oporavka na pojedinačnoj osnovi.
+(4) Cilj plana oporavka grupe je postizanje stabilnosti grupe kreditnih institucija u grupi kao cjeline ili bilo koje članice te grupe u situacijama financijskog poremećaja, radi rješavanja ili uklanjanja uzroka poremećaja ili poboljšanja financijskog položaja te grupe ili članica te grupe, pri čemu valja istodobno voditi računa o financijskom položaju drugih društava u toj grupi.
+(5) Plan oporavka grupe uključuje mehanizme kojima se osiguravaju koordinacija i dosljednost mjera oporavka koje treba poduzeti na razini matične kreditne institucije u EU-u, na razini financijskog holdinga u EU-u, mješovitoga financijskog holdinga u EU-u i mješovitoga holdinga u EU-u, matičnog financijskog holdinga u RH, matičnog financijskog holdinga u EU-u, matičnoga mješovitoga holdinga u RH, matičnoga mješovitoga holdinga u EU-u, kao i mjera koje treba poduzeti na razini društava kćeri i, prema potrebi, u skladu s ovim Zakonom na razini značajnih podružnica.
+(6) Plan oporavka grupe i bilo koji plan sastavljen za pojedino društvo kćer uključuje elemente navedene u članku 258. ovoga Zakona i podzakonskom propisu koji je donesen na temelju članka 258. stavka 15. ovoga Zakona, a, prema potrebi, ti planovi uključuju mjere za financijsku potporu unutar grupe usvojene na temelju sporazuma o financijskoj potpori unutar grupe koji je postignut u skladu s glavom XIX. poglavljem II. ovoga Zakona.
+(7) Plan oporavka grupe uključuje raspon mogućnosti oporavka koji navodi mjere za rješavanje scenarija predviđenih podzakonskim propisom, a za svaki od tih scenarija planom oporavka grupe utvrđuje se postoje li prepreke u provedbi mjera za oporavak unutar grupe, uključujući one na razini pojedinačnih subjekata obuhvaćenih planom, te postoje li sadržajne praktične i pravne prepreke za brz prijenos regulatornog kapitala ili otplatu obveza ili imovine unutar grupe.
+(8) Uprava kreditne institucije koja sastavlja plan oporavka grupe u skladu sa stavkom 1. ovoga članka procjenjuje i odobrava plan oporavka grupe prije nego što ga dostavi konsolidirajućem nadzornom tijelu.
+(9) Na plan oporavka grupe iz ovoga članka primjenjuju se članci 258. i 259. ovoga Zakona.

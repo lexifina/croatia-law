@@ -1,0 +1,4 @@
+## Informiranje o kreditu i depozitu
+# Članak 309.
+(1) Ako pri informiranju o kreditu potrošač zatraži informaciju o iznosu kredita koji bi mu kreditna institucija mogla odobriti odnosno pri informiranju o depozitu zatraži informaciju o uvjetima za polaganje depozita u kreditnoj instituciji, kreditna institucija dužna je bez naknade potrošaču dati u pisanom obliku na papiru ili nekom drugom trajnom mediju personalizirane informacije koje su mu potrebne za usporedbu različitih ponuda na tržištu i donošenje odluke o sklapanju ugovora o kreditu ili depozitu.
+(2) Personalizirane informacije koje je kreditna institucija dužna dati potrošaču moraju obuhvaćati najmanje informacije propisane zakonom kojim se uređuju potrošački krediti, odnosno drugim propisima kojima se uređuju primanje depozita i odobravanje kredita.

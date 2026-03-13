@@ -1,0 +1,3 @@
+## Ograničenja u odnosu na vrstu i oblike instrumenata u kojima varijabilni primici mogu biti dodijeljeni
+# Članak 202.
+Kreditna institucija može upotrijebiti instrumente za dodjelu varijabilnih primitaka u obliku redovnih dionica kreditne institucije koja je izravno ili neizravno nadređena kreditnoj instituciji ili u obliku instrumenata povezanih s redovnim dionicama kreditne institucije koja je izravno ili neizravno nadređena kreditnoj instituciji samo ako upravljanje kapitalom na razini grupe kreditnih institucija u kojoj je kreditna institucija članica onemogućuje ili znatno otežava upotrebu instrumenata koje je izdala sama kreditna institucija.

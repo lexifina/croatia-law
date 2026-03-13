@@ -1,0 +1,5 @@
+## Osnivanje kolegija supervizora za značajne podružnice
+# Članak 158.
+(1) Ako kolegij supervizora iz članka 140. ovoga Zakona nije osnovan, a kreditna institucija sa sjedištem u Republici Hrvatskoj ima značajne podružnice u drugim državama članicama, Hrvatska narodna banka osniva kolegij supervizora i predsjeda njime kako bi se omogućila suradnja uređena člankom 119. te razmjena informacija iz članka 145. stavka 6. točaka 3. i 4. ovoga Zakona.
+(2) Nakon konzultacija s relevantnim nadležnim tijelima Hrvatska narodna banka uređuje pisanim aktom osnivanje i rad kolegija iz stavka 1. ovoga članka te određuje koje od relevantnih nadležnih tijela prisustvuje sastancima ili na drugi način sudjeluje u radu kolegija, vodeći računa o mogućem utjecaju planiranih supervizorskih aktivnosti posebno u odnosu na stabilnost financijskog sustava u njihovim državama i obvezama iz članka 157. ovoga Zakona.
+(3) Hrvatska narodna banka pravodobno i redovito obavještava sve članove kolegija supervizora o planiranim sastancima i glavnim pitanjima koja će biti predmetom rasprave te o zauzetim stavovima i poduzetim mjerama.

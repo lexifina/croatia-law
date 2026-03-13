@@ -1,0 +1,10 @@
+## Odluka o uvođenju posebnog rukovodstva u podružnici iz treće zemlje
+# Članak 288.
+(1) Hrvatska narodna banka donosi odluku o uvođenju posebnog rukovodstva u podružnici iz treće zemlje u Republici Hrvatskoj (u daljnjem tekstu: odluka o posebnom rukovodstvu) u sljedećim slučajevima:
+1. ako je podružnici iz treće zemlje naloženo provođenje supervizorskih mjera, a ona ih u roku određenom za njihovo provođenje nije počela provoditi ili ih nije provela, zbog čega bi daljnje poslovanje te podružnice moglo ugroziti njezinu likvidnost odnosno solventnost te je nužna zaštita interesa njezinih vjerovnika
+2. ako podružnica iz treće zemlje unatoč naloženim supervizorskim mjerama nije dosegnula bilo koju stopu kapitala iz članka 92. Uredbe (EU) br. 575/2013 ili
+3. ako je ugrožena ili bi daljnje poslovanje podružnice iz treće zemlje moglo ugroziti njezinu likvidnost odnosno solventnost te je nužna zaštita interesa njezinih vjerovnika.
+(2) Iznimno od odredbi stavka 1. ovoga članka, ako Hrvatska narodna banka utvrdi postojanje činjenica koje s velikom vjerojatnošću upućuju na poboljšanje stanja u podružnici, može odgoditi donošenje odluke o posebnom rukovodstvu.
+(3) Odluka o posebnom rukovodstvu donosi se u obliku rješenja kojim se utvrđuju razlozi za uvođenje posebnog rukovodstva u konkretnom slučaju, imena članova posebnog rukovodstva, opseg poslova koje obavlja i/ili kojima upravlja pojedini član posebnog rukovodstva i razdoblje trajanja posebnog rukovodstva, koje ne smije biti duže od jedne godine računajući od dana donošenja rješenja.
+(4) Hrvatska narodna banka imenuje posebno rukovodstvo za razdoblje koje ne može biti duže od 12 mjeseci i može ga produžiti za još 12 mjeseci ako ocijeni da i dalje postoji neki od uvjeta iz stavka 1. ovoga članka te će u slučaju produženja mandata dioničarima učiniti dostupnim obrazloženje takve odluke.
+(5) Hrvatska narodna banka ovlaštena je davati posebnom rukovodstvu naloge za vođenje poslovanja te podružnice i odrediti poslove koje posebno rukovodstvo može poduzeti samo uz prethodnu suglasnost Hrvatske narodne banke.

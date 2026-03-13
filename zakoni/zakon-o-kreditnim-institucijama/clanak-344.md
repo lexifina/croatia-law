@@ -1,0 +1,8 @@
+## Uvid u spis
+# Članak 344.
+(1) Tijekom postupka supervizije Hrvatske narodne banke, kao i tijekom postupka za izricanje upravne sankcije, stranka u postupku ovlaštena je izvršiti uvid u spis.
+(2) Spis iz stavka 1. ovoga članka sastoji se od svih dokumenata koje je Hrvatska narodna banka primila, izradila ili prikupila za vrijeme vođenja postupka, neovisno o mediju na kojem su pohranjeni.
+(3) Uvid u spis omogućuje se stranki ili s pomoću uređaja za pohranu elektroničkih podataka, uključujući bilo koji uređaj koji može biti dostupan u budućnosti, ili putem preslike dostupnih spisa u papirnatom obliku dostavljenih stranki koji se stranki šalju poštom ili pozivanjem stranaka da pregledaju dostupne spise u prostorijama Hrvatske narodne banke.
+(4) Iznimno od stavka 1. ovoga članka, pravo na uvid u spis ne odnosi se na povjerljive informacije koje je Hrvatska narodna banka primila u svrhu obavljanja supervizije ili drugih zadataka na koje je ovlaštena ili koje je Hrvatska narodna banka primila u postupku razmjena informacija s drugim nadzornim tijelima u Republici Hrvatskoj ili izvan nje, ili na interne dokumente koje je izradila Hrvatska narodna banka u postupku supervizije, ili postupku za izricanje upravne sankcije, upravne mjere i periodičnih penala.
+(5) Iznimno od stavka 1. ovoga članka, pravo na uvid u spis ne odnosi se na informacije koje predstavljaju poslovnu ili profesionalnu tajnu pravne osobe ili predstavljaju osobne podatke fizičke osobe koja nije stranka u postupku.
+(6) Omogućivanje uvida u spis stranki u postupku ne utječe na pravo Hrvatske narodne banke da otkriva ili upotrebljava informacije potrebne za dokazivanje povrede prava.

@@ -1,0 +1,3 @@
+## Ukidanje odobrenja financijskom holdingu i mješovitom financijskom holdingu
+# Članak 92.
+Hrvatska narodna banka ukida odobrenje iz članka 87. ovoga Zakona ako matični financijski holding u RH, matični mješoviti financijski holding u RH, matični financijski holding iz EU-a sa sjedištem u RH i matični mješoviti financijski holding iz EU-a sa sjedištem u RH ne poduzmu mjere potrebne za osiguravanje usklađenosti dijela trećeg, četvrtog, šestog i sedmog Uredbe (EU) br. 575/2013 ili zahtjeva vezanog uz visinu dodatnog regulatornog kapitala koji je svojim rješenjem naložila Hrvatska narodna banka u skladu s člankom 105. stavkom 1. točkom 1. ovoga Zakona, ili posebnog zahtjeva vezanog uz likvidnost u skladu s člankom 105. stavkom 1. točkom 16. ovoga Zakona.
