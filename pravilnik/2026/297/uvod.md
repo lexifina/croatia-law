@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 2. Zakona o upravljanju nekretninama i pokretninama u vlasništvu Republike Hrvatske (»Narodne novine«, broj 155/23.), ministar prostornoga uređenja, graditeljstva i državne imovine donosi

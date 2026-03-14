@@ -1,0 +1,6 @@
+## III. DOSTAVA SKLOPLJENIH UGOVORA O RASPOLAGANJU I OBJAVLJENIH JAVNIH POZIVA ZA KUPNJU NEKRETNINA
+# Članak 5.
+(1) Nadležna tijela dužna su odmah po sklapanju pravnog posla raspolaganja nekretninama dostaviti Ministarstvu primjerak sklopljenog ugovora putem elektroničke pošte, a u slučaju sklapanja pravnog posla kojim se otuđuje nekretnina uz ugovor su dužna dostaviti i mišljenje nadležnog državnog odvjetništva o pravnoj valjanosti toga pravnog posla.
+(2) U slučajevima otuđenja nekretnine temeljem sklopljenog ugovora o kupoprodaji ili sporazuma o razvrgnuću suvlasničke zajednice nadležna tijela dužna su Ministarstvu naknadno, po ispunjenju ugovornih uvjeta, dostaviti i tabularnu ispravu radi usklađivanja podataka u poslovnim knjigama Ministarstva i unosa podataka u Internom registru nekretnina.
+(3) U slučaju raskida sklopljenog pravnog posla raspolaganja nekretninama, nadležno tijelo dužno je u roku 15 dana od dana raskida obavijestiti Ministarstvo putem elektroničke pošte o raskidu ugovora uz dostavu sporazuma ili drugog odgovarajućeg dokumenta o raskidu ugovora.
+(4) U slučaju sklapanja dodatka ugovoru nadležno tijelo dužno je u roku 15 dana od dana sklapanja dodatka ugovoru obavijestiti Ministarstvo dostavom sklopljenog dodatka ugovoru putem elektroničke pošte.
