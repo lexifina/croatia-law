@@ -1,7 +1,0 @@
-## Sadržaj programa korištenja
-# Članak 5.
-(1) Program korištenja šumskog zemljišta u svrhu odmora, rekreacije i sporta, postavljanja pomičnih naprava, reklamnih panoa, štandova, montažno-demontažnih tendi te privremenih kioska i drugih građevina gotove konstrukcije, građevinske (bruto) površine do 15 m2, sadrži: osnovne podatke o ponuditelju, lokaciji zemljišta, opis aktivnosti koje se planiraju provoditi na predmetnom zemljištu te podatke o planiranim investicijama.
-(2) Program korištenja šumskog zemljišta u svrhu pašarenja sadrži: podatke o ponuditelju, opis gospodarstva, podatke o lokaciji zemljišta, proizvodnoj cjelini za koju se prijavljuje, a koja odgovara njegovim potrebama prema izračunu prosječnog odnosa broja grla stoke i zemljišta potrebnog za pašarenje po hektaru, obvezu ponuditelja na izjednačavanje potrebnog broja uvjetnih grla u roku dvije godine u slučaju primjene odredbe članka 4. stavka 8. ove Uredbe.
-(3) Iznimno od stavka 2. ovoga članka, Program korištenja šumskog zemljišta za kratkoročni zakup ne sadrži podatke o proizvodnoj cjelini i obvezi ponuditelja na izjednačavanje potrebnog broja uvjetnih grla.
-(4) Proizvodna cjelina, u smislu ove Uredbe, je površina šumskog zemljišta jednog ili više odsjeka, čija ukupna površina nije veća od 60 ha.
-(5) Program korištenja šumskog zemljišta u svrhu osnivanja i uzgajanja kultura kratkih ophodnji sadrži: osnovne podatke o ponuditelju, biljnu vrstu za osnivanje i uzgoj kultura, te podatke o planiranim investicijama u proizvodnju drvenastih vrsta kratkih ophodnji.

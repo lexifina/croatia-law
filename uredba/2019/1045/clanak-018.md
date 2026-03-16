@@ -1,5 +1,0 @@
-## Produljenje ugovora o zakupu
-# Članak 18.
-(1) Ugovor o zakupu sklopljen temeljem ove Uredbe može se, na zahtjev zakupnika, produljiti na razdoblje do deset godina ili do ispunjenja uvjeta iz članka 2. stavka 5. ove Uredbe na istoj površini pod uvjetima koje odredi javni šumoposjednik, ukoliko je u proteklom razdoblju zakupnik uredno i na vrijeme ispunjavao sve obveze preuzete ugovorom o zakupu.
-(2) Uz zahtjev za produljenjem ugovora o zakupu u svrhu pašarenja, uz uvjete iz stavka 1. ovoga članka zakupnik je dužan dostaviti uvjerenje o broju uvjetnih grla iz Jedinstvenog registra domaćih životinja izdano od nadležnog središnjeg tijela državne uprave te uvjerenje Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju o površinama evidentiranim u ARKOD sustavu kao dokaz ispunjavanja uvjeta odnosa prosječne površine zemljišta evidentiranih u ARKOD sustavu i broja uvjetnih grla stoke sukladno članku 4. stavku 7. ove Uredbe.
-(3) Zahtjev za produljenje ugovora o zakupu podnosi se javnom šumoposjedniku najranije u zadnjoj godini trajanja zakupa, a najkasnije 30 dana prije isteka ugovora o zakupu.
