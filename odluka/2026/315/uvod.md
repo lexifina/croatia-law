@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 5., a u vezi s člankom 12. stavkom 1. točkom 1. Zakona o morskom ribarstvu (»Narodne novine«, br. 62/17., 130/17., 14/19., 30/23. i 14/24.) ministar poljoprivrede, šumarstva i ribarstva donosi
