@@ -1,0 +1,1 @@
+Na temelju članka 39. stavka 2. Zakona o poljoprivredi (»Narodne novine«, br. 118/18., 42/20., 127/20. - Odluka Ustavnog suda Republike Hrvatske, 52/21., 152/22. i 152/24.), Vlada Republike Hrvatske je na sjednici održanoj 23. ožujka 2026. donijela
