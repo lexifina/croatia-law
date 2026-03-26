@@ -1,0 +1,10 @@
+## Evidencija, razmjena i čuvanje podataka Carinske uprave
+# Članak 32.
+(1) Carinska uprava vodi i upravlja evidencijama podataka prikupljenih u skladu s člancima 3. i 4., člankom 5. stavkom 3. i člankom 6. Uredbe (EU) 2018/1672 u skladu s tehničkim pravilima iz članka 16. stavka 1. točke (c) Uredbe (EU) 2018/1672.
+(2) Carinska uprava evidentira podatke o prijenosu gotovine iz članaka 24. i 25. i članka 26. stavka 1. točke 5. ovoga Zakona.
+(3) Carinska uprava obvezna je o prikupljenim podacima o prijenosu gotovine iz članaka 24. i 25. ovoga Zakona obavijestiti Ured za sprječavanje pranja novca najkasnije u roku od tri dana od dana prijenosa gotovine.
+(4) Carinska uprava obvezna je o prikupljenim podacima o prijenosu gotovine iz članka 26. stavka 1. točke 5. ovoga Zakona za koju postoje naznake da je povezana s kriminalnom aktivnošću, neovisno o iznosu, obavijestiti Ured za sprječavanje pranja novca najkasnije prvi sljedeći radni dan od dana prijenosa gotovine.
+(5) Carinska uprava evidenciju podataka o prijenosu gotovine iz članaka 24. i 25. ovoga Zakona i prijenosu gotovine iz članka 26. stavka 1. točke 5. ovoga Zakona za koju postoje naznake da je povezana s kriminalnom aktivnošću, neovisno o iznosu, čuva pet godina od dana prikupljanja te se to razdoblje može dodatno produljiti na tri godine ako:
+1. Ured za sprječavanje pranja novca, nakon što je proveo temeljitu procjenu potrebe i proporcionalnosti takvog daljnjeg čuvanja i ako smatra da je to opravdano za potrebe izvršavanja njegovih zadaća u pogledu borbe protiv pranja novca ili financiranja terorizma, utvrdi da je daljnje čuvanje nužno ili
+2. nadležna tijela, nakon što su provela temeljitu procjenu potrebe i proporcionalnosti takvog daljnjeg čuvanja podataka i ako smatraju da je opravdano za potrebe izvršavanja njihovih zadaća u pogledu provođenja učinkovitih kontrola u vezi s obvezom prijavljivanja gotovine, utvrde da je daljnje čuvanje nužno.
+(6) Istekom rokova iz stavka 5. ovoga članka osobni podaci i informacije prikupljeni u skladu sa stavcima 1. i 2. ovoga članka brišu se, a dokumentacija uništava u skladu sa zakonom kojim se uređuje zaštita osobnih podataka.

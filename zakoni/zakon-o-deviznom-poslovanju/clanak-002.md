@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Zakonom osigurava provedba Uredbe (EU) 2018/1672 Europskog parlamenta i Vijeća od 23. listopada 2018. o kontrolama gotovine koja se unosi u Uniju ili iznosi iz Unije i stavljanju izvan snage Uredbe (EZ) br. 1889/2005 (SL L 284, 12. 11. 2018.), kako je ispravljena Ispravkom Uredbe (EU) 2018/1672 Europskog parlamenta i Vijeća od 23. listopada 2018. o kontrolama gotovine koja se unosi u Uniju ili iznosi iz Unije i stavljanju izvan snage Uredbe (EZ) br. 1889/2005 (SL L 435, 23. 12. 2020.) (u daljnjem tekstu: Uredba (EU) 2018/1672).

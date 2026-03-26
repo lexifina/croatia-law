@@ -1,0 +1,2 @@
+# Članak 41.
+Novčanom kaznom u iznosu od 660,00 do 13.260,00 eura kaznit će se za prekršaj fizička osoba ako pri ulasku u Europsku uniju preko Republike Hrvatske ili pri izlasku iz Europske unije preko Republike Hrvatske ne ispuni obvezu prijave Carinskoj upravi odnosno policijskom službeniku gotovine koju nosi u vrijednosti od 10.000,00 eura ili više, u pisanom obliku ili elektronički putem obrasca za prijavu, ili ako da netočne ili nepotpune podatke ili ne stavi na raspolaganje gotovinu za kontrolu (članak 3. Uredbe (EU) 2018/1672).

@@ -1,0 +1,3 @@
+# Članak 47.
+(1) Financijski inspektorat i Carinska uprava, kada obavljaju nadzor, privremeno će, uz potvrdu, zadržati gotovinu u eurima i stranu gotovinu te gotovinu iz članka 26. ovoga Zakona, kao i dokumentaciju i druge predmete kojima je izvršen prekršaj, koji su rezultat prekršaja ili koji mogu poslužiti kao dokaz u prekršajnom postupku, prema propisima koji vrijede za prekršajni postupak.
+(2) Privremeno zadržanu gotovinu nadzorna tijela iz stavka 1. ovoga članka dužna su bez odgode, a najkasnije prvi sljedeći radni dan uplatiti na posebne račune Financijskog inspektorata i Carinske uprave.

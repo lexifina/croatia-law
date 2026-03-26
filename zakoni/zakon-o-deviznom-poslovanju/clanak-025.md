@@ -1,0 +1,4 @@
+# Članak 25.
+(1) Ako se gotovina bez pratnje u vrijednosti od 10.000,00 eura ili više unosi u Republiku Hrvatsku iz druge države članice ili iznosi iz Republike Hrvatske u drugu državu članicu, na zahtjev ovlaštenog carinskog službenika, pošiljatelj ili primatelj gotovine ili njihov zastupnik, ovisno o slučaju, dužan je podnijeti prijavu u smislu objavljivanja u roku od 30 dana putem obrasca koji sadržava podatke iz članka 4. stavka 2. Uredbe (EU) 2018/1672.
+(2) Ovlašteni carinski službenici mogu zadržati gotovinu iz stavka 1. ovoga članka sve dok pošiljatelj, primatelj ili njihov zastupnik ne podnese prijavu u smislu objavljivanja.
+(3) Obveza objavljivanja iz stavka 1. ovoga članka ne smatra se ispunjenom ako prijava nije podnesena prije isteka roka, ako su dane informacije netočne ili nepotpune ili ako se gotovina ne stavi na raspolaganje radi kontrole.

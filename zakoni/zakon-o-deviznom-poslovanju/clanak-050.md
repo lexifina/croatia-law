@@ -1,0 +1,5 @@
+## Certifikati za računalne programe izdani prije stupanja na snagu ovoga Zakona i objava registra certificiranih programa
+# Članak 50.
+(1) Danom stupanja na snagu ovoga Zakona prestaju važiti svi certifikati koje je Hrvatska narodna banka izdala u skladu sa Zakonom o deviznom poslovanju (»Narodne novine«, br. 96/03., 140/05., 132/06., 150/08., 92/09., 133/09., 153/09., 145/10., 76/13., 52/21. i 141/22.), osim certifikata izdanih nakon 1. prosinca 2022.
+(2) Hrvatska narodna banka će u roku od 30 dana od dana stupanja na snagu ovoga Zakona objaviti registar certificiranih programa iz članka 22. stavka 2. ovoga Zakona u koji će biti upisani svi računalni programi za koje je Hrvatska narodna banka nakon 1. prosinca 2022. izdala certifikat u skladu sa Zakonom o deviznom poslovanju (»Narodne novine«, br. 96/03., 140/05., 132/06., 150/08., 92/09., 133/09., 153/09., 145/10., 76/13., 52/21. i 141/22.).
+(3) Računalni program za koji je certifikat Hrvatske narodne banke prestao važiti prema stavku 1. ovoga članka proizvođač programa ne smije nuditi ovlaštenom mjenjaču ili stavljati u pravni promet, a ovlašteni mjenjač ne smije koristiti u svom mjenjačkom poslovanju.

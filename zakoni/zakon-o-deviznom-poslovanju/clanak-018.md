@@ -1,0 +1,12 @@
+## Obavještavanje o promjenama u odnosu na ovlaštenog mjenjača
+# Članak 18.
+(1) Ovlašteni mjenjač dužan je obavijestiti Hrvatsku narodnu banku o promjeni svog pravnog oblika, tvrtke, sjedišta ili poslovne adrese u roku od osam dana od dana upisa promjene u sudski registar ili obrtni registar ili drugi odgovarajući registar.
+(2) Ovlašteni mjenjač iz članka 8. stavka 1. točaka 1. i 2. ovoga Zakona dužan je u roku od osam dana od nastanka promjene obavijestiti Hrvatsku narodnu banku o promjenama u odnosu na osobe iz članka 13. stavka 1. točke 3. ovoga Zakona te, uz obavijest, dostaviti dokaz o ispunjavanju uvjeta dobrog ugleda tih osoba u skladu s odredbama članka 14. stavka 1. točke 1. ovoga Zakona.
+(3) Za promjenu iz stavka 1. ovoga članka koja se ne upisuje u sudski registar Republike Hrvatske ovlašteni mjenjač dužan je dostaviti i dokaz o toj promjeni.
+(4) Ovlašteni mjenjač iz članka 8. stavka 1. točke 3. ovoga Zakona dužan je u roku od tri dana od dana podnošenja prijave obavijestiti Hrvatsku narodnu banku o podnesenoj prijavi nadležnom upravnom tijelu za upis promjene u obrtni registar, kada je prijava vezana uz sljedeće slučajeve:
+1. obrtu ili zajedničkom obrtu ovlaštenog mjenjača pristupa novi vlasnik obrta ili
+2. obrt ovlaštenog mjenjača prenosi se, prema pravilima iz zakona kojim se uređuje obrt ili u skladu s ugovorom o ortaštvu, na novog vlasnika koji nije obuhvaćen odobrenjem Hrvatske narodne banke za obavljanje mjenjačkih poslova.
+(5) Podnositelj prijave za upis promjene iz stavka 4. ovoga članka dužan je Hrvatskoj narodnoj banci podnijeti zahtjev za izdavanje odobrenja za obavljanje mjenjačkih poslova u roku od tri dana od podnošenja prijave za upis te promjene u obrtni registar.
+(6) Nasljednik preminulog ovlaštenog mjenjača obrtnika pojedinca dužan je u roku od osam dana od dana podnošenja prijave obavijestiti Hrvatsku narodnu banku o podnesenoj prijavi nadležnom upravnom tijelu za upis nastavka vođenja obrta kao privremeni poslovođa do prijenosa obrta, kao i o podnesenoj prijavi za upis prijenosa obrta.
+(7) Nakon upisa promjene iz stavka 4. ovoga članka u obrtni registar za koju nije podnesen zahtjev iz stavka 5. ovoga članka zabranjeno je obavljanje mjenjačkih poslova putem obrta na koji se upisana promjena odnosi, osim ako podnositelj zahtjeva iz stavka 5. ovoga članka dokaže opravdani razlog za propuštanje roka.
+(8) Ovlašteni mjenjač dužan je na zahtjev Hrvatske narodne banke dostaviti informacije i dokaze o ispunjavanju uvjeta iz članka 13. stavka 1. ovoga Zakona, u roku koji odredi Hrvatska narodna banka.

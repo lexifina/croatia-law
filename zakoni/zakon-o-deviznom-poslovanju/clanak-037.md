@@ -1,0 +1,7 @@
+## Prekršaji kreditne institucije
+# Članak 37.
+(1) Novčanom kaznom u iznosu od 5000,00 do 60.000,00 eura kaznit će se kreditna institucija:
+1. ako protivno članku 9. stavku 6. ovoga Zakona odbije ovlaštenom mjenjaču otvoriti račun za plaćanje ili pružiti uslugu povezanu s tim računom na objektivan, nediskriminirajući i razmjeran način (članak 9. stavak 6.)
+2. ako protivno članku 9. stavku 7. ovoga Zakona Hrvatskoj narodnoj banci ili Financijskom inspektoratu ne dostavi obavijest iz članka 9. stavka 7. ovoga Zakona s obrazloženjem (članak 9. stavak 7.)
+3. ako protivno članku 54. stavku 2. ovoga Zakona ne dostavi Hrvatskoj narodnoj banci posljednje Zbirno izvješće o kupnjama i prodajama strane gotovine i otkupu čekova koji glase na stranu valutu, koje su ostvarili ovlašteni mjenjači u kalendarskom mjesecu koji prethodi kalendarskom mjesecu u kojem je stupio na snagu ovaj Zakon, sa sadržajem iz članka 10. i Priloga br. 3A Upute za izradu zaštićenog programa, koja je sastavni dio Odluke o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove (»Narodne novine«, br. 85/19., 101/20., 68/22., 137/22. i 62/23.), u XML formatu, u skladu s XSD shemom iz članka 45. iste Upute, u roku od 15 dana od dana stupanja na snagu ovoga Zakona (članak 54. stavak 2.).
+(2) Novčanom kaznom u iznosu od 600,00 do 6000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba iz uprave kreditne institucije.

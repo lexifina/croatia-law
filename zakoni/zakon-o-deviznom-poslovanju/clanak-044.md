@@ -1,0 +1,5 @@
+# Članak 44.
+(1) Novčanom kaznom u iznosu od 5300,00 do 53.080,00 eura kaznit će se za prekršaj pravna osoba ako kao pošiljatelj ili primatelj ili zastupnik pošiljatelja ili primatelja u roku od 30 dana od primitka zahtjeva Carinske uprave ne podnese prijavu u smislu objavljivanja gotovine u vrijednosti od 10.000,00 eura ili više koja se unosi u Republiku Hrvatsku iz druge države članice ili iznosi iz Republike Hrvatske u drugu državu članicu, u pisanom obliku ili elektronički putem obrasca za prijavu, ili ako da netočne ili nepotpune podatke (članak 4. Uredbe (EU) 2018/1672) ili ne stavi na raspolaganje gotovinu za kontrolu (članak 25. ovoga Zakona).
+(2) Novčanom kaznom u iznosu od 390,00 do 13.260,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi.
+(3) Novčanom kaznom u iznosu od 3310,00 do 33.180,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka obrtnik i fizička osoba koja obavlja drugu samostalnu djelatnost.
+(4) Novčanom kaznom u iznosu od 660,00 do 13.260,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka fizička osoba.

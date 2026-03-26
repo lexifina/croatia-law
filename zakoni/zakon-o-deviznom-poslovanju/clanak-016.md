@@ -1,0 +1,15 @@
+## Ukidanje odobrenja za obavljanje mjenjačkih poslova
+# Članak 16.
+(1) Hrvatska narodna banka ukinut će odobrenje za obavljanje mjenjačkih poslova:
+1. ako ovlašteni mjenjač nije započeo s obavljanjem mjenjačkih poslova u roku od 12 mjeseci od dana dostave odobrenja
+2. ako utvrdi da ovlašteni mjenjač ne ispunjava uvjete iz članka 13. stavka 1. ovoga Zakona 3. ako ovlašteni mjenjač obavlja mjenjačke poslove, a da pritom nema upisanu djelatnost obavljanja mjenjačkih poslova u skladu s člankom 9. stavkom 2. ovoga Zakona
+4. ako je ovlašteni mjenjač pravomoćno kažnjen za prekršaj iz članka 35. stavka 1. točaka 1. ili 2. ovoga Zakona ili ako je prekršaj iz članka 36. ovoga Zakona počinjen u povratu ili je predmet tog prekršaja vrijednost stranog gotovog novca ili gotovog novca eura veća od 30.000,00 eura
+5. ako u provedenoj obnovi postupka utvrdi da je odobrenje izdano na temelju neistinite ili netočne dokumentacije, podatka ili izjave bitne za donošenje odobrenja
+6. ako ovlašteni mjenjač, koji je odobrenje dobio na temelju predugovora o korištenju certificiranog računalnog programa u roku određenom u odobrenju Hrvatske narodne banke, ne dostavi ugovor o korištenju certificiranog programa ili ako ovlašteni mjenjač koji je odobrenje dobio bez dostavljene potvrde o autentičnosti ugrađenog certificiranog programa u roku određenom u odobrenju Hrvatske narodne banke ne dostavi potvrdu o autentičnosti ugrađenog certificiranog programa
+7. ako ovlašteni mjenjač ne dostavi zatražene informacije i dokaze na zahtjev Hrvatske narodne banke iz članka 18. stavka 8. ovoga Zakona, u ostavljenom roku
+8. ako ovlašteni mjenjač dostavi Hrvatskoj narodnoj banci obavijest u pisanom obliku da više ne namjerava obavljati mjenjačke poslove
+9. ako utvrdi da je u odnosu na obrt ovlaštenog mjenjača u obrtni registar upisana promjena iz članka 18. stavka 4. ovoga Zakona za koju nije podnesen zahtjev za izdavanje odobrenja iz članka 18. stavka 5. ovoga Zakona.
+(2) Iznimno od stavka 1. točke 1. ovoga članka, Hrvatska narodna banka neće ukinuti odobrenje za obavljanje mjenjačkih poslova ako utvrdi da je ovlaštenom mjenjaču bilo onemogućeno započeti s obavljanjem mjenjačkih poslova zbog opravdanog razloga.
+(3) Protiv rješenja iz stavka 1. ovoga članka kojim se ukida odobrenje za obavljanje mjenjačkih poslova žalba nije dopuštena, ali se može pokrenuti upravni spor.
+(4) Na temelju rješenja iz stavka 1. ovoga članka, koje će Hrvatska narodna banka priložiti svojoj obavijesti o njegovu donošenju, nadležni registarski sud odnosno registarsko tijelo po službenoj dužnosti brisat će subjektu upisa na koje se to rješenje odnosi djelatnost obavljanja mjenjačkih poslova iz sudskog odnosno obrtnog registra.
+(5) Ovlašteni mjenjač kojemu je ukinuto odobrenje za obavljanje mjenjačkih poslova zbog razloga iz stavka 1. točaka 2. do 5. ovoga članka ne može podnijeti novi zahtjev za izdavanje odobrenja za obavljanje tih poslova prije isteka roka od godine dana od dana dostave rješenja o ukidanju odobrenja.
