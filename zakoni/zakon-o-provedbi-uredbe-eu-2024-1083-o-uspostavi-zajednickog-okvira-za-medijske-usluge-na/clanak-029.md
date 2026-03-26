@@ -1,0 +1,11 @@
+# Članak 29.
+(1) Danom stupanja na snagu ovoga Zakona Agencija za elektroničke medije osnovana Zakonom o elektroničkim medijima (»Narodne novine«, br. 111/21. i 114/22.) nastavlja s radom kao Agencija za medije.
+(2) Predsjednik, zamjenik predsjednika i članovi Vijeća za elektroničke medije, koji su imenovani na temelju Zakona o elektroničkim medijima (»Narodne novine«, br. 111/21. i 114/22.), nastavljaju s radom i nakon stupanja na snagu ovoga Zakona, do isteka razdoblja na koje su imenovani.
+(3) Ravnatelj Agencije za elektroničke medije nastavlja s radom i nakon stupanja na snagu ovoga Zakona, do dana imenovanja ravnatelja Agencije za medije u skladu s ovim Zakonom.
+(4) Vijeće Agencije za medije će u roku od 30 dana od dana stupanja na snagu ovoga Zakona utvrditi Prijedlog statuta Agencije za medije i dostaviti ga na prethodnu suglasnost Hrvatskome saboru.
+(5) Do stupanja na snagu Statuta Agencije za medije na odgovarajući se način primjenjuju odredbe Statuta Agencije za elektroničke medije.
+(6) Vijeće Agencije za medije će u roku od 60 dana od dana stupanja na snagu Statuta Agencije za medije raspisati javni natječaj za imenovanje ravnatelja Agencije za medije te u roku od sljedećih 30 dana imenovati ravnatelja.
+(7) Vijeće Agencije za medije će u roku od šest mjeseci od dana stupanja na snagu Statuta Agencije za medije donijeti druge opće akte Agencije za medije, propisane ovim Zakonom i posebnim propisima.
+(8) Predsjednik Vijeća Agencije za medije će u roku od 15 dana od dana stupanja na snagu Statuta Agencije za medije podnijeti prijavu za usklađivanje upisa Agencije za medije u sudskom registru.
+(9) Danom stupanja na snagu ovoga Zakona radnici stručne službe Agencije za elektroničke medije nastavljaju s radom kao radnici stručne službe Agencije za medije, na poslovima na kojima su zatečeni u trenutku stupanja na snagu ovoga Zakona, te zadržavaju stečene položaje do sklapanja novih ugovora o radu u skladu s općim aktima Agencije za medije iz stavka 7. ovoga članka.
+(10) Agencija za medije je pravni sljednik Agencije za elektroničke medije te preuzima cjelokupnu pokretnu i nepokretnu imovinu, poslovni prostor i opremu, pismohranu i drugu dokumentaciju, novčana sredstva i račune te sva druga prava i obveze.

@@ -1,0 +1,2 @@
+# Članak 31.
+Postupci započeti po odredbama Zakona o medijima (»Narodne novine«, br. 59/04., 84/11., 81/13. i 114/22.) i Zakona o elektroničkim medijima (»Narodne novine«, br. 111/21. i 114/22.) do dana stupanja na snagu ovoga Zakona dovršit će se po odredbama Zakona o medijima (»Narodne novine«, br. 59/04., 84/11., 81/13. i 114/22.) i Zakona o elektroničkim medijima (»Narodne novine«, br. 111/21. i 114/22.) i propisa donesenih na temelju tog Zakona.
