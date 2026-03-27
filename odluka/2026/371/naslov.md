@@ -1,0 +1,1 @@
+Odluka o dodjeli beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave u 2026. godini zbog nemogućnosti podmirenja dospjelih obveza po pravomoćnim sudskim i upravnim odlukama ili nagodbama
