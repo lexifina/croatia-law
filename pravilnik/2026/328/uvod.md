@@ -1,0 +1,1 @@
+Na temelju članka 19. stavka 4. i članka 28. stavka 2. Zakona o nadzoru predmeta od plemenitih kovina (»Narodne novine«, broj 36/15 i 114/22) glavna ravnateljica Državnog zavoda za mjeriteljstvo donosi
