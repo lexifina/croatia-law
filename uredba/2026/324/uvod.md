@@ -1,0 +1,1 @@
+Na temelju članka 54. stavka 2. Zakona o izmjenama i dopunama Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi (»Narodne novine«, broj 17/25.), Vlada Republike Hrvatske je na sjednici održanoj 18. ožujka 2026. donijela
