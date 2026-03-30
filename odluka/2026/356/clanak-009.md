@@ -1,0 +1,8 @@
+# Članak 9.
+Članak 77. mijenja se i glasi:
+»1. Ako druga ugovorna strana ne ispuni neku od obveza utvrđenih u članku 76. stavku 1. ove Odluke, Eurosustav će izreći novčanu sankciju za svaki takav događaj neispunjavanja obveza. Za potrebe dijela petog ove Odluke, svaka pojedinačna imovina mobilizirana kao kolateral na koju utječe takav događaj neispunjavanja obveza smatra se slučajem neispunjavanja obveza. Primjenjiva novčana sankcija sastoji se od sljedećeg:
+(a) fiksnog iznosa od 500 EUR za svaki događaj neispunjavanja obveza o kojemu je HNB obavijestio drugu ugovornu stranu, bez obzira na broj imovine mobilizirane kao kolateral na koju utječe taj događaj neispunjavanja obveza
+(b) promjenjivog iznosa za svaku imovinu mobiliziranu kao kolateral na koju utječe događaj neispunjavanja obveza, izračunat u skladu s Prilogom VII. odjeljkom I. Smjernice ESB/2014/60.
+2. Ukupna primjenjiva novčana sankcija izračunata u skladu sa stavkom 1. ovog članka i Prilogom VII. Smjernice ESB/2014/60 umanjuje se za 50 % u bilo kojem od sljedećih slučajeva samoprijavljenog neispunjavanja obveza:
+(a) ako druga ugovorna strana otkloni neispunjavanje obveze iz članka 76. stavka 1. točke (c) ove Odluke i obavijesti HNB o tom otklanjanju prije nego što HNB, ESB ili vanjski revizor obavijesti drugu ugovornu stranu o neispunjavanju obveza
+(b) ako druga ugovorna strana obavijesti HNB o događaju neispunjavanja obveza koji nije otkrio HNB ili ESB, a nastao je u vezi s imovinom koja je demobilizirana. Umanjenje novčane sankcije ne primjenjuje se na imovinu za koju je u tijeku postupak provjere o kojemu druga ugovorna strana ima saznanja zbog obavijesti HNB-a, ESB-a ili vanjskog revizora.«
