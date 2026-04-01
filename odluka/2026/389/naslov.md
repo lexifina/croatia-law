@@ -1,0 +1,1 @@
+Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za djelatnost trgovine (od 25. rujna 2024. godine) - druge izmjene i dopune
