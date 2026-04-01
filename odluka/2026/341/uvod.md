@@ -1,0 +1,1 @@
+Na temelju članka 8. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 23. ožujka 2026. donijela
