@@ -1,0 +1,5 @@
+## Pojedinačne izjave i raspodjela dužnosti
+# Članak 8.
+(1) Ne dovodeći u pitanje opću zajedničku odgovornost uprave i nadzornog odbora, kreditna institucija dužna je sastavljati, održavati i ažurirati pojedinačne izjave u kojima se utvrđuju pojedinačne funkcije i dužnosti predsjednika uprave i svih članova uprave, višeg rukovodstva te nositelja ključnih funkcija.
+(2) Kreditna institucija dužna je sastavljati, održavati i ažurirati raspodjelu dužnosti, koja uključuje pojedinosti o linijama izvješćivanja, linijama odgovornosti i opis dužnosti za predsjednika i članove uprave, predsjednika i članove nadzornog odbora, više rukovodstvo, nositelje ključnih funkcija uključujući voditelje internih kontrolnih funkcija, glavnog financijskog direktora, direktora interne revizije, osobe odgovorne za funkciju sprječavanja pranja novca i financiranja terorizma, kao i za ostale osobe koje su dio sustava upravljanja.
+(3) Kreditna institucija dužna je pojedinačne izjave i raspodjele dužnosti u bilo kojem trenutku staviti na raspolaganje te na zahtjev pravodobno dostaviti Hrvatskoj narodnoj banci, među ostalim u svrhu dobivanja odobrenja za rad.

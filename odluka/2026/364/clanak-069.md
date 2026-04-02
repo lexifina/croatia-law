@@ -1,0 +1,5 @@
+## Sklonost preuzimanju rizika
+# Članak 69.
+(1) Uprava kreditne institucije dužna je donijeti jasno definirane izjave o sklonosti preuzimanju IRRBB rizika kao prihvatljivi utjecaj fluktuacije kamatnih stopa na obje mjere IRRBB-a te ih provoditi putem sveobuhvatnog okvira za preuzimanje rizika, tj. politika i postupaka za ograničavanje i kontrolu IRRBB-a, a sklonost preuzimanju rizika u smislu IRRBB-a trebala bi se odraziti u limitima.
+(2) Kreditna institucija dužna je u okvirima za sklonost preuzimanju rizika utvrditi i odobriti ovlasti i linije odgovornosti za odluke o upravljanju IRRBB-om te instrumente, strategije zaštite i mogućnosti preuzimanja rizika IRRBB-a.
+(3) Kreditna institucija dužna je pri utvrđivanju svoje sklonosti preuzimanju rizika voditi računa o rizicima za neto kamatne prihode kao posljedici računovodstvenog tretmana transakcija iz knjige pozicija kojima se ne trguje. Rizik ne smije biti ograničen samo na prihode od kamata i rashode, već je potrebno odvojeno uzeti u obzir učinke promjena kamatnih stopa na tržišnu vrijednost instrumenata.

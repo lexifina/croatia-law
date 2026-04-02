@@ -1,0 +1,8 @@
+## Ukupni interni limit u slučaju kada nisu utvrđeni pojedinačni interni limiti
+# Članak 97.
+(1) Ako kreditna institucija ne može ispuniti zahtjeve iz članka 93. ove Odluke ili zahtjeve iz članka 94. ove Odluke, dužna je odrediti ukupni interni limit za izloženosti prema svim subjektima bankarstva u sjeni u visini koja ne prelazi 25 % osnovnoga kapitala.
+(2) Ako kreditna institucija može ispuniti zahtjeve iz članka 93. ove Odluke i zahtjeve iz članka 94. ove Odluke, ali ne može prikupiti dovoljno informacija za određivanje internih limita iz članaka 95. i 96. ove Odluke, za izloženosti prema tim subjektima dužna je odrediti ukupni interni limit u visini koja ne prelazi 25 % osnovnoga kapitala. Za izloženosti prema preostalim subjektima bankarstva u sjeni kreditna institucija dužna je odrediti pojedinačne interne limite i ukupni interni limit u skladu s člancima 95. i 96. ove Odluke.
+(3) U slučaju iz stavka 2. ovog članka najveći iznos izloženosti kreditne institucije prema svim subjektima bankarstva u sjeni ne smije prelaziti manji od sljedećih iznosa:
+1. ukupni interni limit u skladu s člankom 96. ove Odluke koji se odnosi na izloženosti prema preostalim subjektima bankarstva u sjeni za koje su određeni pojedinačni interni limiti ili
+2. zbroj iznosa od 25 % i iznosa pojedinačnih internih limita određenih za preostale subjekte bankarstva u sjeni.
+(4) Ako ukupna izloženost kreditne institucije prema svim subjektima bankarstva u sjeni prelazi visinu određenu ukupnim internim limitom iz stavaka 1. ili 2. ovog članka, u prekoračenje tog limita ne uključuju se izloženosti u knjizi trgovanja kreditne institucije u skladu s člankom 395. stavkom 5. Uredbe (EU) br. 575/2013.
