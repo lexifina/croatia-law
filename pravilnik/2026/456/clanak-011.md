@@ -1,0 +1,10 @@
+## PRIJENOS ODOBRENJA
+# Članak 11.
+(1) Vlasnici plovila kojima je izdano Odobrenje iz članka 10. stavka 2. ovoga Pravilnika, mogu tijekom kalendarske godine podnijeti zahtjev za prebacivanje Odobrenja na drugo plovilo iznimno, u slučaju nemogućnosti obavljanja ribolova uzrokovanog havarijom ili teškim kvarom plovila, odnosno uslijed druge teške okolnosti zbog koje nije moguće iskoristiti dodijeljenu individualnu udičarsku kvotu tune, a o čemu prilažu valjanu dokumentaciju.
+(2) Odobrenje iz stavka 1. ovoga članka je moguće prenijeti samo jednom tijekom kalendarske godine i to isključivo na plovilo do 12 metara duljine.
+(3) Zajedno s prijenosom Odobrenja sukladno stavcima 1. i 2. ovoga članka prenosi se i individualna udičarska kvota tune dodijeljena plovilu na koje je izdano Odobrenje uzimajući u obzir količinu iskorištene kvote do trenutka prijenosa Odobrenja.
+(4) Prijenos Odobrenja i pripadajuće individualne udičarske kvote tune sukladno stavcima 1. i 3. ovoga članka između dva plovila smije se obaviti isključivo bez financijske ili druge naknade.
+(5) Prijenos Odobrenja iz stavka 1. ovoga članka Ministarstvo može odobriti ili odbiti ocjenjujući okolnosti, dokumentaciju priloženu zahtjevu za prebacivanje Odobrenja ili druge dokaze u smislu opravdanosti zahtjeva. Prijenos Odobrenja može se izvršiti isključivo uz suglasnost Međunarodne komisije za očuvanje atlantskih tuna (ICCAT).
+(6) Ako je do prijenosa Odobrenja iz stavka 1. ovoga članka u jednoj kalendarskoj godini došlo zbog havarije ili teškog kvara plovila ili pogonskog stroja, a navedeni uzroci nisu otklonjeni do početka ulovne sezone u sljedećoj kalendarskoj godini, na zahtjev vlasnika neispravnog plovila, uz priložene dokaze o nemogućnosti otklanjanja uzroka neoperativnosti plovila, može se takav prijenos Odobrenja odobriti i u toj godini.
+(7) Uzastopni prijenos Odobrenja iz stavka 6. ovoga članka može se odobriti samo jednom.
+(8) Prijenos Odobrenja izdanih sukladno članku 10. stavku 7. ovoga Pravilnika vrši se sukladno postupcima propisanim pravilnikom kojim se uređuju ribolovne mogućnosti i ribolov igluna.

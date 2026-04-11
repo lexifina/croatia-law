@@ -1,0 +1,7 @@
+# Članak 17.
+(1) U svrhu izdavanja Odobrenja za tekuću godinu, ponuditelji koji su ostvarili pravo na individualnu kvotu tune putem javnog natječaja dužni su u roku od 5 kalendarskih dana od dana izvršenja uplate iz članka 15. stavka 1. ovoga Pravilnika podnijeti Zahtjev za izdavanje Odobrenja sukladno članku 26. stavku 1. Zakona o morskom ribarstvu mjesno nadležnoj područnoj jedinici/ispostavi Ministarstva.
+(2) Ministarstvo će izdati Odobrenje za kalendarsku godinu ponuditelju ako je njegovo plovilo opremljeno VMS uređajem te e-očevidnikom. Odobrenje sadrži podatke o plovilu kojim se ribolov smije obavljati, ribolovnom alatu i ribolovnim zonama u kojima je dopušteno obavljanje ribolova te maksimalnoj dozvoljenoj ukupnoj ulovnoj količini u kalendarskoj godini sukladno javnom natječaju.
+(3) Oblik i sadržaj Odobrenja iz stavka 2. ovoga članka propisan je na obrascu koji je tiskan u Prilogu 1. ovoga Pravilnika i njegov je sastavni dio, a izdaje se za kalendarsku godinu.
+(4) Ako vlasnik plovila ne podnese zahtjev u propisanom roku, smatrat će se da odustaje od dodjele kvote.
+(5) Plovila koja su ostvarila pravo na individualnu kvotu putem javnog natječaja upisuju se u Registar ulovnih plovila koji vodi Ministarstvo.
+(6) Prijenos Odobrenja izdanih na temelju javnog natječaja tijekom kalendarske godine dozvoljen je isključivo u skladu s postupkom propisanim člankom 11. stavcima 1. - 5. ovoga Pravilnika.

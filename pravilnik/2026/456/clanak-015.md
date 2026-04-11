@@ -1,0 +1,4 @@
+# Članak 15.
+(1) U roku propisanom u javnom natječaju najbolji ponuditelji za nastavak procedure za ostvarivanje prava na dodjelu individualne kvote u tekućoj godini dužni su na adresu elektroničke pošte: natjecaj.tune@mps.hr dostaviti potvrdu da je u državni proračun Republike Hrvatske izvršena uplata iznosa navedenog u ponudi.
+(2) Nakon ispunjavanja uvjeta iz stavka 1. ovoga članka, Ministarstvo na plovila iz ponude koja nemaju VMS uređaj odnosno e-očevidnik osigurava postavljanje tih uređaja, pri čemu je ponuditelj odgovoran za osiguravanje tehničkih uvjeta za postavljanje istih.
+(3) U slučaju da tehnički uvjeti iz stavka 2. ovoga članka nisu osigurani od strane ponuditelja Ministarstvo obavještava ponuditelja na adresu elektroničke pošte dostavljenu u ponudi za javni natječaj o krajnjem roku za ispunjavanje obveze.

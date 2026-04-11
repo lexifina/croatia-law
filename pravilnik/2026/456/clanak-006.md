@@ -1,0 +1,6 @@
+## KRITERIJI ZA RASPODJELU INDIVIDUALNE UDIČARSKE KVOTE TUNE NA TEMELJU POVIJESNIH ULOVA
+# Članak 6.
+(1) Udičarska kvota tune alocirana na temelju povijesnih ulova se u tekućoj godini raspoređuje na plovila koja udovoljavaju uvjetima iz članka 5. ovoga Pravilnika prema sljedećim kriterijima:
+a) 70 % kvote raspoređuje se ravnomjerno na sva plovila
+b) 30 % kvote raspoređuje se na sva plovila u omjeru koji odgovara njihovom pojedinačnom udjelu u zbroju ulova tune udičarskim alatima svih plovila unutar ove kategorije kroz razdoblje od prethodne tri kalendarske godine na način da se svakom plovilu ukupan ulov kroz razdoblje od prethodne tri godine umanjuje za količinu najmanjeg godišnjeg ulova unutar tog trogodišnjeg razdoblja. Kao referentna količina za prethodnu godinu, uzima se količina ulova zabilježena u elektroničkoj bazi Geoinformacijskog sustava ribarstva.
+(2) U slučaju da tijekom kalendarske godine dođe do povećanja udičarske kvote tune namijenjene ovoj kategoriji ribolova sukladno pravilniku kojim se regulira raspodjela ribolovnih mogućnosti za ulov tune, navedeno povećanje kvote raspoređuje se u skladu s ključem raspodjele za kalendarsku godinu, a koji je rezultat primjene stavka 1. ovoga članka.

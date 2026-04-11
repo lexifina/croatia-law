@@ -1,0 +1,4 @@
+## ISKORIŠTENJE UDIČARSKE KVOTE TUNE
+# Članak 12.
+(1) Individualna udičarska kvota tune dodijeljena sukladno članku 6. ovoga Pravilnika, umanjuje se za 20 % ako je plovilo u prethodnoj godini iskoristilo manje od 65 % dodijeljene individualne udičarske kvote tune.
+(2) Količina ulovne kvote za koju je umanjena individualna udičarska kvota tune za pojedino plovilo sukladno stavku 1. ovoga članka, ravnomjerno se raspoređuje na plovila kojima je individualna udičarska kvota tune dodijeljena sukladno članku 6. ovoga Pravilnika, a koja su u prethodnoj godini iskoristila više od 95 % dodijeljene individualne udičarske kvote tune. Ako nijedno plovilo nije iskoristilo više od 95 % dodijeljene individualne udičarske kvote tune u protekloj godini, kvota umanjena sukladno stavku 1. ravnomjerno se raspoređuje na tri plovila s najvećim postotkom iskorištenja u protekloj godini.
