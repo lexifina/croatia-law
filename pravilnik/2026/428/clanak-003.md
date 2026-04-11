@@ -1,0 +1,3 @@
+# Članak 3.
+U članku 13. stavak 3. mijenja se i glasi:
+»(3) Ako su Dodatni ili drugi odgovarajući ispiti položeni u organizaciji drugog subjekta koji organizira ispite u skladu s odredbama ovoga Pravilnika, uz zahtjev za izdavanje ovlaštenja za obavljanje poslova ovlaštenog aktuara dostavljaju se potvrda o ispitima položenima kod tog subjekta, izjave iz članka 8. stavka 1. točaka 4. i 5. ovoga Pravilnika te dokaz o radnom iskustvu od najmanje tri godine u obavljanju aktuarskih poslova, dok je drugu dokumentaciju iz članka 8. stavka 1. ovoga Pravilnika potrebno dostaviti Hanfi samo u slučaju promjene podataka u toj dokumentaciji.«.
