@@ -1,0 +1,1 @@
+Na temelju članka 37. stavaka 3. i 4. Zakona o prijevozu opasnih tvari (»Narodne novine«, broj 79/07,), a u svezi s člankom 97. alineja 4. Zakona o eksplozivnim tvarima te proizvodnji i prometu oružja (»Narodne novine« broj 70/17) ministar mora, prometa i infrastrukture uz suglasnost s ministrom unutarnjih poslova i ministrom znanosti, obrazovanja i mladih, donosi
