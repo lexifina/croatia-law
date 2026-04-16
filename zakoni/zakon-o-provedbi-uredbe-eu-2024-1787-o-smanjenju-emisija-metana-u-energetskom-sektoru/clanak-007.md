@@ -1,0 +1,6 @@
+## Inspekcijski nadzori
+# Članak 7.
+(1) Inspekcijski nadzor nad primjenom ovoga Zakona i Uredbe (EU) 2024/1787 u dijelu koji se odnosi na istraživanje i eksploataciju nafte i fosilnog plina, sabiranje i preradu fosilnog plina i podzemno skladištenje plina, za neaktivne, privremeno zatvorene te trajno zatvorene i napuštene bušotine, aktivne podzemne i površinske ugljenokope, zatvorene podzemne i napuštene podzemne ugljenokope provodi rudarska inspekcija Državnog inspektorata.
+(2) Inspekcijski nadzor nad primjenom ovoga Zakona i Uredbe (EU) 2024/1787 u dijelu koji se odnosi na terminale za ukapljeni prirodni plin i na transport i distribuciju kupljene nafte i fosilnog plina provode inspektori nadležni za zaštitu od požara i inspektori nadležni za civilnu zaštitu Ministarstva unutarnjih poslova.
+(3) Tijela iz stavaka 1. i 2. ovoga članka u obavljanju inspekcijskih poslova sukladno Uredbi (EU) 2024/1787 surađuju s nadležnim tijelom iz članka 5. ovoga Zakona.
+(4) Ako u provedbi nadzora ovlaštena službena osoba tijela iz stavaka 1. i 2. ovoga članka utvrdi povredu odredbi ovoga Zakona, rješenjem će nadziranom subjektu narediti otklanjanje utvrđenih nedostataka odnosno nepravilnosti u određenom roku.
