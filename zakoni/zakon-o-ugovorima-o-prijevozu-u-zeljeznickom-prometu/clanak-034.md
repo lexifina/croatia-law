@@ -1,0 +1,10 @@
+## Oslobađanje od odgovornosti zbog posebne opasnosti
+# Članak 34.
+Prijevoznik se oslobađa od odgovornosti ako gubitak ili oštećenje pošiljke nastane zbog posebne opasnosti koja je u vezi s jednom ili više navedenih okolnosti:
+1. s prijevozom koji se obavlja u otvorenom vagonu na temelju postojećih propisa ili ugovora postignutoga s pošiljateljem i navedenoga u teretnom listu, ovisno o šteti koju pošiljka trpi zbog atmosferskih prilika, za pošiljku koja se prevozi u jedinicama kombiniranog prijevoza i u zatvorenim cestovnim vozilima koja se prevoze na vagonima neće se smatrati da se prevozi u otvorenim vagonima; ako za prijevoz pošiljke u otvorenim vagonima pošiljatelj koristi pokrivače, prijevoznik će pretpostaviti istu odgovornost koju ima za prijevoz u otvorenim vagonima bez pokrivača, čak i u pogledu pošiljke koja se, prema općim uvjetima prijevoza, ne prevozi u otvorenim vagonima
+2. s time što pošiljka nije zapakirana ili nije dostatno zapakirana te je zbog tih nedostataka po svojoj naravi izložena gubitku ili oštećenju
+3. s utovarom pošiljke, neispravnim tovarenjem i istovarom, kada utovar ili istovar obavlja pošiljatelj ili primatelj na temelju važećih propisa ili ugovora sklopljenoga s pošiljateljem ili primateljem
+4. s naravi pošiljke koja je po svojim svojstvima osobito izložena potpunomu ili djelomičnom gubitku ili oštećenju zbog lomljenja, hrđanja, truljenja, hladnoće, topline, curenja, sušenja, rasipanja ili slično
+5. s time što je pošiljka koja je isključena od prijevoza ili se prima na prijevoz uz posebne uvjete predana na prijevoz s neispravnom, netočnom ili nepotpunom naznakom na teretnom listu ili što pošiljatelj ne poduzima mjere opreza koje su propisane za pošiljku koja se prima na prijevoz uz posebne uvjete
+6. s posebnom opasnosti kojoj su izložene žive životinje prilikom prijevoza ili
+7. s prijevozom živih životinja ili drugih pošiljki koje se na temelju općih uvjeta prijevoza ili ugovora s pošiljateljem navedenoga u teretnom listu mora obaviti uz pratnju, ako gubitak ili oštećenje nastanu zato što pratitelj propusti ukloniti opasnost u vezi s prijevozom te pošiljke.

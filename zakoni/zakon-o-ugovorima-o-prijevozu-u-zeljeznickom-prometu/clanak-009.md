@@ -1,0 +1,7 @@
+## Teretni list
+# Članak 9.
+(1) Pošiljatelj za svaku pošiljku prijevozniku mora predati teretni list.
+(2) Za svaku pošiljku izdaje se poseban teretni list. Jednim teretnim listom može se predati na prijevoz samo pošiljka koja se može prevesti u jednom vagonu, osim ako se radi o robi takvih dimenzija da je za utovar potrebno više vagona ili ako je ugovorom o prijevozu drukčije određeno.
+(3) Općim uvjetima prijevoza određuje se koja se pošiljka ne smije predati na prijevoz s jednim teretnim listom.
+(4) Obrazac teretnog lista istovjetan je modelu propisanom u naslovu II. članku 6. stavku 8. Zakona o potvrđivanju Protokola od 3. lipnja 1999. godine o izmjenama Konvencije o međunarodnom željezničkom prijevozu (COTIF) od 9. svibnja 1980. godine (Protokol 1999.) i Konvencije o međunarodnom željezničkom prijevozu (COTIF) od 9. svibnja 1980. godine u verziji Protokola o izmjenama od 3. lipnja 1999. godine s pripadajućim dodacima (»Narodne novine«, br. 12/00.) (u daljnjem tekstu: Zakon o prihvatu COTIF-a). U željezničkom prijevozu tereta mogu se koristiti prateći obrasci teretnog lista propisani Zakonom o prihvatu COTIF-a.
+(5) Teretni list i duplikat teretnog lista mogu biti u elektroničkom obliku koji se može pretvoriti u pisani oblik. Postupci koji se koriste za evidentiranje i obradu podataka, u pogledu dokazne vrijednosti elektroničkog teretnog lista, moraju biti funkcionalno istovjetni.

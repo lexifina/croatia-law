@@ -1,0 +1,7 @@
+## POGLAVLJE IV. NACIONALNI SUSTAV ELEKTRONIČKE POHRANE I RAZMJENE PODATAKA U PRIJEVOZU TERETA
+# Članak 42.
+(1) Ministarstvo nadležno za poslove prometa uspostavlja Nacionalni sustav elektroničke pohrane i razmjene podataka u prijevozu tereta.
+(2) Nacionalni sustav elektroničke pohrane i razmjene podataka o prijevozu tereta ima sljedeće funkcionalnosti: propisno autentificiranu identifikaciju i ovlaštenje službenika nadležnih tijela pri svakom podnošenju zahtjeva za pristup podacima koji se odnose na eFTI, posredovanje u vezi sa zahtjevima za pristup podacima koji se odnose na eFTI koje podnose službenici nadležnih tijela, uključujući preuzimanje informacija zatraženih na odgovarajućoj platformi ili platformama za eFTI, putem sigurnih veza s platformama.
+(3) Agencija za komercijalnu djelatnost, proizvodno, uslužno i trgovačko d.o.o. odgovorna je za uspostavljanje, smještaj, razvoj, dostupnost, praćenje, ažuriranje i održavanje te za sigurnost informacija iz sljedećih komponenti: pristupne točke nadležnih tijela – AAP (engl. Authorized Access Points), registar ovlaštenja, portal za eFTI (engl. eFTI gate), mehanizam pretraživanja i korisničku aplikaciju.
+(4) Poslove navedene u stavku 3. ovoga članka Agencija za komercijalnu djelatnost, proizvodno, uslužno i trgovačko d.o.o. obavlja kao javnu ovlast.
+(5) Sredstva za financiranje Nacionalnog sustava elektroničke pohrane i razmjene podataka u prijevozu tereta te obavljanja javne ovlasti na temelju ovoga članka osigurana su u državnom proračunu Republike Hrvatske.

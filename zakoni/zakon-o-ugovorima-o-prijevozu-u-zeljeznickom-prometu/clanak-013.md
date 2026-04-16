@@ -1,0 +1,9 @@
+## Provjera i utvrđivanje mase i sadržaja pošiljke
+# Članak 13.
+(1) Pošiljatelj u teretni list mora upisati masu i sadržaj pošiljke, uključujući broj paketa, njihove oznake i brojeve, te odgovara za točnost unesenih podataka.
+(2) Prijevoznik ima pravo u svakom trenutku provjeriti jesu li uvjeti prijevoza zadovoljeni i odgovara li pošiljka stavkama u teretnom listu koji je načinio pošiljatelj.
+(3) U slučaju iz stavka 2. ovoga članka masa pošiljke ustanovit će se na otpremnom ili prvom prikladnom usputnom kolodvoru. Ako se provjera odnosi na sadržaj pošiljke, to valja obaviti, ako je moguće, u nazočnosti pošiljatelja. Ako pošiljatelj nije nazočan prilikom ustanovljavanja mase i sadržaja pošiljke iz stavka 2. ovoga članka, u pogledu njegovih daljnjih prava, obveza i odgovornosti smatra se kao da je bio nazočan.
+(4) Ako pošiljka ne odgovara stavkama na teretnom listu ili ako odredbe koje se odnose na prijevoz pošiljke glede uvjeta nisu zadovoljene, rezultat provjere mora se unijeti i ovjeriti u primjerku teretnog lista koji prati pošiljku, kao i u duplikat teretnog lista, ako ga prijevoznik još uvijek posjeduje. U tom će slučaju troškovi provjere teretiti pošiljku.
+(5) O rezultatima provjere i novonastalim okolnostima prijevoznik će obavijestiti pošiljatelja najkasnije do kraja radnog dana u kojem je saznao za njih.
+(6) Prijevoznik je odgovoran za nastalu štetu ako je prilikom predaje pošiljke primatelju provjerom ustanovljena manja masa ili drukčiji sadržaj pošiljke od one koju je prijevoznik utvrdio u slučaju iz stavka 4. ovoga članka.
+(7) Prijevoznik nije odgovoran za štetu ako se ustanovi da masa i sadržaj pošiljke ne odgovaraju navodima iz teretnog lista, koje prijevoznik nije ovjerio, osobito ako je vagon odnosno intermodalna jedinica na vagonu predana primatelju s ispravnim originalnim plombama.
