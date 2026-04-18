@@ -1,0 +1,1 @@
+Pravilnik o izmjenama i dopunama Pravilnika o ispravama, dokumentima i podacima o pomorskom prometu te o njihovoj dostavi, prikupljanju i razmjeni, kao i o načinu i uvjetima izdavanja odobrenja za slobodan promet s obalom
