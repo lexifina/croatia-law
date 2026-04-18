@@ -1,0 +1,2 @@
+# Članak 16.
+Prilog 1 (Tiskanica 1), Prilog 2 (Tiskanica 2) i Prilog (Tiskanica 3) Pravilnika o načinu i postupku privlačenja, oglašavanja i odabira za prijam u djelatnu vojnu službu i kadetsku službu (»Narodne novine«, br. 158/13., 77/15., 14/17. i 91/18.) mijenjaju se te se Prilog 1 (Tiskanica 1), Prilog 2 (Tiskanica 2) i Prilog 3 (Tiskanica 3) nalaze u prilogu ovoga Pravilnika i njegov su sastavni dio.
