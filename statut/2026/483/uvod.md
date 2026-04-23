@@ -1,0 +1,1 @@
+Na temelju članka 6. stavka 2. Zakona o Fondu za zaštitu okoliša i energetsku učinkovitost (»Narodne novine« broj 107/03 i 144/12), Upravni odbor Fonda za zaštitu okoliša i energetsku učinkovitost, na sjednici održanoj 30. ožujka 2026., donio je

@@ -1,0 +1,2 @@
+# Članak 53.
+Stupanjem na snagu ovoga Statuta prestaje važiti Statut Fonda za zaštitu okoliša energetsku učinkovitost (»Narodne novine« broj 193/03, 73/04, 116/08, 101/09, 118/11, 67/13, 70/14 i 155/14 - pročišćeni tekst), osim odredbi članaka 11., 34., 34.a, 34.b, 34.c, 34.d, 34.e i 34.f, koje ostaju na snazi do stupanja na snagu općih akata iz članka 45. stavka 2. podstavaka 1. i 2. ovog Statuta.

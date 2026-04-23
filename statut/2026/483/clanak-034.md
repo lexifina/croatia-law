@@ -1,0 +1,4 @@
+## VI. NAMJENA, RASPOREĐIVANJE I KORIŠTENJE SREDSTAVA FONDA
+# Članak 34.
+(1) Fond svojim sredstvima financira programe, projekte i slične aktivnosti utvrđene programom rada Fonda sukladno strateškim i planskim dokumentima i programima u području zaštite okoliša, gospodarenje otpadom, zaštite prirode, zaštite zraka i klimatskih aktivnosti, energetske učinkovitosti, obnovljivih izvora energije i zelene tranzicije, za namjene utvrđene Zakonom o Fondu i drugim posebnim propisima koji uređuju djelokrug rada Fonda.
+(2) Za programe, projekte i slične aktivnosti koji se provode temeljem programa i drugih akata Vlade RH odnosno drugih nadležnih tijela ili posebnog propisa iz djelokruga rada Fonda, koja se ne uređuju općim aktima Fonda, postupak dodjele sredstava Fonda provodi se u skladu s tim aktima.
