@@ -1,0 +1,4 @@
+# Članak 1.
+U Zakonu o tržištu kapitala (»Narodne novine«, br. 65/18., 17/20., 83/21., 151/22., 85/24. i 126/25.) u članku 2. stavku 1. iza točke 23. briše se točka i dodaju se točke 24. i 25. koje glase:
+»24. Direktiva (EU) 2024/1619 Europskog parlamenta i Vijeća od 31. svibnja 2024. o izmjeni Direktive 2013/36/EU u pogledu nadzornih ovlasti, sankcija, podružnica iz trećih zemalja i okolišnih, socijalnih i upravljačkih rizika (Tekst značajan za EGP) (SL L 2024/1619, 19. 6. 2024.) (u daljnjem tekstu: Direktiva (EU) 2024/1619)
+25. Direktiva (EU) 2026/470 Europskog parlamenta i Vijeća o izmjeni direktiva (EU) 2006/43/EC, 2013/34/EU, (EU) 2022/2464 i (EU) 2024/1760 u pogledu određenih zahtjeva za korporativno izvješćivanje o održivosti i određenih zahtjeva dubinske analize za održivo poslovanje (Tekst značajan za EGP) (SL L 2026/470, 26. 2. 2026.) (u daljnjem tekstu: Direktiva (EU) 2026/470).«.
