@@ -1,0 +1,37 @@
+## Značenje oznaka korištenih u e-ONTO-u
+# Članak 3.
+(1) Unos podataka uključujući i odabir određene oznake u e-ONTO-u smatra se izjavom o postupanju s otpadom koju daje osoba koja je unijela podatke u e-ONTO.
+(2) Oznake iz stavka 1. ovoga članka su:
+− UVL (ulaz vlastitog otpada) znači da osoba koja vodi e-ONTO je proizvođač otpada i proglasila je određenu količinu neke tvari ili predmet otpadom na lokaciji za koju vodi Očevidnik o nastanku i tijeku otpada
+− URD (ulaz reciklažno dvorište) znači da osoba koja vodi e-ONTO je zaprimila otpad u stacionarnom ili mobilnom reciklažnom dvorištu
+− UOD (ulaz odlagalište) znači da osoba koja vodi e-ONTO ujedno i upravlja odlagalištem i privremeno skladišti određenu pošiljku otpada koju, sukladno posebnom propisu koji uređuje odlaganje otpada, ne smije u to vrijeme odložiti
+− UP-broj pratećeg lista (ulaz uz Prateći list) znači da osoba koja vodi e-ONTO je zaprimila pošiljku otpada od druge osobe koju je pratio Prateći list
+− UT-redni broj izjave o vlasništvu otpada (ulaz otkupom u trgovini otpadom na malo) znači da osoba koja vodi e-ONTO je zaprimila otpad otkupom u trgovini na malo
+− UZ po notif. (Uvoz po notifikaciji) znači da osoba koja vodi e-ONTO je zaprimila otpad koji potječe s područja izvan teritorija Republike Hrvatske, a za kojega se provodi notifikacijski postupak
+− UZ bez notif. (Uvoz bez notifikacije) znači da osoba koja vodi e-ONTO je zaprimila pošiljku otpada koji potječe s područja izvan teritorija Republike Hrvatske i koju je pratio ispunjeni obrazac Aneksa VII i za koju nije bila propisana obveza provođenja notifikacijskog postupka
+− UPK (Ulaz PKO) znači da osoba koja vodi e-ONTO je preuzela otpad, koji se smatra posebnim kategorijom otpada, od prodavatelja proizvoda kojem je posebnim propisom koji uređuje gospodarenje posebnim kategorijama otpada nametnuta obveza preuzimanja tog otpada od kupca, ili kad preuzme otpad od fizičke osobe (građanina), pri čemu je posebnim propisom koji uređuje poslovanje posebnom kategorijom otpada propisano da se za taj slučaj ne ispunjava prateći list
+− K (Ulaz korekcija) znači da osoba koja vodi e-ONTO ispravlja podatke o unesenom otpadu
+− Novi PL (novi ePL-O) znači da osoba koja vodi e-ONTO stvara novi elektronički prateći list u e-ONTO-u za odabrani ključni broj otpada
+− Novi PL scenarij: MUT-MM znači da osoba koja vodi e-ONTO zaprima otpad u mobilnom reciklažnom dvorištu (automatska detekcija postupka putem e-ONTO-a)
+− Novi PL scenarij: MT-MM znači da osoba koja vodi e-ONTO vodi mobilno reciklažno dvorište i predaje otpad trećoj osobi (automatska detekcija postupka putem e-ONTO-a)
+− Novi PL scenarij: MS-MM znači da osoba koja vodi e-ONTO vodi mobilno reciklažno dvorište i predaje otpad na lokaciju kojom upravlja ista tvrtka koja upravlja i mobilnim reciklažnim dvorištem (automatska detekcija postupka putem e-ONTO-a)
+− Interni PL znači da osoba koja vodi e-ONTO stvara novi elektronički prateći list u e-ONTO-u koji će pratiti pošiljku otpada u prijenosu sa jedne svoje lokacije na drugu lokaciju kojom upravlja ta ista osoba
+− IO-oznaka (izlaz obradom) znači da osoba koja vodi e-ONTO je obradila otpad nekim postupkom na lokaciji za koju se vodi e-ONTO
+− IZ po notif. (Izvoz po notifikaciji) znači da osoba koja vodi e-ONTO predaje otpad izvan Republike Hrvatske, pri čemu je potrebno provesti notifikacijski postupak
+− IZ bez notif. (Izvoz bez notifikacije) znači da osoba koja vodi e-ONTO predaje otpad izvan Republike Hrvatske, pri čemu pošiljku otpada prati ispunjeni obrazac Aneksa VII za što nije potrebno provesti notifikacijski postupak
+− K (Izlaz korekcija) znači da osoba koja vodi e-ONTO ispravlja podatke o izlazu otpada
+− IRC znači da je osoba koja vodi e-ONTO obavila recikliranje otpada u proizvodnom procesu u industriji pri čemu je otpad zamijenio primarnu sirovinu
+− I-USO znači da je osoba koja vodi e-ONTO ukinula status otpada za određenu oporabljenu količinu otpada sukladno upisu u Očevidnik ukidanja statusa otpada
+− IP-broj pratećeg lista (novi ePL-O) znači da osoba koja vodi e-ONTO stvara novi ePL-O za odabrani ključni broj otpada
+− Uvoz po notif. - prijevoznik znači da je osoba koja vodi e-ONTO prijevoznik otpada i zaprimio je otpad koji potječe izvan teritorija Republike Hrvatske i evidentira ga isključivo u e-ONTO-P obrascu pri čemu je za taj otpad potrebno provesti notifikacijski postupak
+− Uvoz bez notif. - prijevoznik znači da je osoba koja vodi e-ONTO prijevoznik otpada i zaprimio je otpad koji potječe izvan teritorija Republike Hrvatske i evidentira ga isključivo u e-ONTO-P obrascu pri čemu pošiljku prati obrazac Aneksa VII te se za taj otpad ne provodi notifikacijski postupak
+− Uvoz po notif. - trgovac/posrednik znači da je osoba koja vodi e-ONTO trgovac otpadom ili posrednik u gospodarenju otpadom i nema posjed otpada i organizira uvoz pošiljke otpada koja podliježe notifikacijskom postupku i koja potječe izvan teritorija Republike Hrvatske
+− Uvoz bez notif. - trgovac/posrednik znači da je osoba koja vodi e-ONTO trgovac otpadom ili posrednik u gospodarenju otpadom i nema posjed otpada i organizira uvoz pošiljke otpada koja ne podliježe notifikacijskom postupku i koja potječe izvan teritorija Republike Hrvatske.
+− Promet PL - prijevoznik i preuzimatelj su ista osoba znači da osoba koja vodi e-ONTO istovremeno obavlja funkciju prijevoznika i preuzimatelja otpada pri čemu osoba koja predaje otpad nije e-ONTO korisnik
+− Promet PL - znači da osoba koja vodi e-ONTO obavlja funkciju prijevoznika otpada pri čemu osoba koja predaje otpad nije e-ONTO korisnik, a preuzimatelj je druga pravna osoba ili fizička osoba - obrtnik
+− JU-novi PL-O znači da je osoba koja vodi e-ONTO davatelj javne usluge sakupljanja komunalnog otpada i prikuplja otpad u sklopu te javne usluge, pri čemu se ova oznaka može koristiti samo za sljedeće vrste otpada: 15 01 01, 15 01 02, 15 01 03, 15 01 04, 15 01 05, 15 01 06, 15 01 07, 15 01 09, 20 01 01, 20 01 02, 20 01 08, 20 01 10, 20 01 11, 20 01 39, 20 01 40, 20 03 01, 20 02 01 i 20 03 07
+− SJP-novi PL-O znači da osoba koja vodi e-ONTO sakuplja otpadni papir, staklo, metal, plastiku ili tekstil putem spremnika postavljenih na javnoj površini, pri čemu se ova oznaka može koristiti samo za sljedeće vrste otpada: 15 01 01, 15 01 02, 15 01 03, 15 01 04, 15 01 05, 15 01 06, 15 01 07, 15 01 09, 20 01 01, 20 01 02, 20 01 10, 20 01 11, 20 01 39 i 20 01 40
+− Izvoz po notif. - prijevoznik znači da je osoba koja vodi e-ONTO prijevoznik pošiljke otpada i predaje pošiljku otpada izvan teritorija Republike Hrvatske i evidentira se isključivo u e-ONTO-P obrascu te za taj otpad je potrebno provesti notifikacijski postupak
+− Izvoz bez notif. - prijevoznik znači da je osoba koja vodi e-ONTO prijevoznik pošiljke otpada i predaje pošiljku otpada izvan teritorija Republike Hrvatske i evidentira se isključivo u e-ONTO-P obrascu te za taj otpad nije potrebno provesti notifikacijski postupak
+− Izvoz po notif. - trgovac/posrednik znači da je osoba koja vodi e-ONTO posrednik u gospodarenju otpadom ili trgovac otpadom pri čemu se otpad nema u posjedu, a organizira slanje pošiljke otpada koji podliježe notifikacijskom postupku izvan teritorija Republike Hrvatske
+− Izvoz bez notif. - trgovac/posrednik znači da je osoba koja vodi e-ONTO posrednik u gospodarenju otpadom ili trgovac otpadom pri čemu se otpad nema u posjedu, a organizira slanje pošiljke otpada koji ne podliježe notifikacijskom postupku izvan teritorija Republike Hrvatske.
