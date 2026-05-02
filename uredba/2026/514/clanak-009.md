@@ -1,0 +1,2 @@
+# Članak 9.
+Ministarstvo će za organizaciju civilnog društva koja je ostvarila najviše bodova i s kojom ima namjeru sklopiti ugovor o zakupu zatražiti od nadležnog ministarstva za poslove pravosuđa dostavu posebnog uvjerenja o podacima iz kaznene evidencije sukladno odredbama Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji (»Narodne novine«, br. 143/12., 105/15., 32/17. i 53/22.).

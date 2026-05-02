@@ -1,0 +1,5 @@
+# Članak 14.
+(1) Povjerenstvo koje provodi postupak javnog natječaja ima sedam članova od kojih je jedan predsjednik Povjerenstva i jedan zamjenik predsjednika Povjerenstva.
+(2) Povjerenstvo se sastoji od pet stalnih članova koje čine tri predstavnika Ministarstva, od kojih je jedan ujedno i predsjednik Povjerenstva, jedan predstavnik Ureda za udruge, jedan predstavnik Ministarstva financija i dva povremena člana koje čine predstavnici onih tijela državne uprave u čiju propisanu nadležnost ulaze djelatnosti za koje se provodi javni natječaj odnosno za natječaj iz članka 12. ove Uredbe dva povremena člana su predstavnici ministarstva nadležnog za hrvatske branitelje, a za natječaj iz članka 13. ove Uredbe, dva povremena člana su predstavnici ministarstva nadležnog za kulturu.
+(3) Povjerenstvo odlučuje ispunjava li prijavitelj sve uvjete za sudjelovanje u postupku javnog natječaja, ocjenjuje zaprimljene prijave i sastavlja rang listu prijavitelja te predlaže ministru donošenje odluke o davanju u zakup nekretnine i sklapanju ugovora o zakupu.
+(4) Članovi Povjerenstva i njihovi zamjenici ne primaju naknadu za rad u Povjerenstvu.
