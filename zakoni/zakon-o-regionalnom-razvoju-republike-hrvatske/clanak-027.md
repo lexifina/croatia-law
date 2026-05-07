@@ -1,0 +1,8 @@
+## Održivi urbani razvoj
+# Članak 27.
+(1) Održivi urbani razvoj usmjeren je osnaživanju svih tipova urbanih područja Republike Hrvatske te su gradovi dužni, boljim korištenjem svojih potencijala, preuzeti aktivnu ulogu pokretača razvoja ne samo specifičnih urbanih područja već svih teritorijalnih cjelina i ukupnoga nacionalnog prostora.
+(2) Ciljevi održivoga urbanog razvoja jesu:
+– razvoj pametnih, učinkovitih i povezanih gradova koji ostvaruju ekonomski rast i kompetitivnost, integriraju digitalne inovacije u gradsku infrastrukturu, usluge i upravljanje, podupiru otpornost urbanoga područja, podupiru uključivost kulturne baštine kao resursa u razvoju, pružaju priuštivo i održivo stanovanje, pružaju sigurnost javnih mjesta i kritične infrastrukture te pridonose povećanju kvalitete života i standarda stanovništva
+– razvoj zelenih gradova koji pridonose poboljšanju kvalitete, zdravlja i otpornosti urbanoga okoliša, potičući učinkovitije i održivije korištenje resursa, prilagodbu klimatskim promjenama, poticanje energetske tranzicije, primjenu koncepta zelene i plave infrastrukture te primjenu suvremenih modela gospodarenja otpadom
+– razvoj gradova sa snažnim zelenim gospodarstvom uz primjenu modela kružnoga gospodarstva, održivoga turizma, poticanje ekoloških inovacija u gospodarskim procesima i aktivnostima, potporu stjecanju i unaprjeđenju zelenih vještina potrebnih za snažniji razvoj zelenoga gospodarstva, poticanje ekološki odgovorne i društveno uključive lokalne proizvodnje ključne za održivi urbani razvoj te potporu malim poduzećima u poticanju njihove gospodarske aktivnosti i otvaranju radnih mjesta.
+(3) Održivi urbani razvoj Ministarstvo provodi putem mehanizma integriranih teritorijalnih ulaganja i drugih teritorijalnih alata.
