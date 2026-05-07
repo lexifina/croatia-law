@@ -1,0 +1,1 @@
+Na temelju članka 248. stavka 3. Zakona o socijalnoj skrbi (»Narodne novine«, broj 18/22., 46/22., 119/22., 71/23., 156/23. i 61/25.), članka 69. stavka 4. Zakona o osobnoj asistenciji (»Narodne novine«, broj 71/23.) i članka 32. stavka 4. Zakona o inkluzivnom dodatku (»Narodne novine«, broj 156/23.), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
