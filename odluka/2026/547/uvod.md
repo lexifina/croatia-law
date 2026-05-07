@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 2. točke 10. i članka 86. stavaka 1. i 3. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) i članka 10. stavka 10. Zakona o platnom prometu (»Narodne novine«, br. 66/2018., 114/2022. i 136/2024.), guverner Hrvatske narodne banke donosi
