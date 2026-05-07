@@ -1,0 +1,3 @@
+# Članak 99.
+(1) APN i javne ustanove što su ih osnovale jedinice lokalne samouprave za potrebe osiguranja priuštivog stanovanja dužne su u roku od godine dana od dana stupanja na snagu ovoga Zakona uskladiti svoje poslovanje s odredbama ovoga Zakona.
+(2) U svrhu uključivanja u nacionalni program priuštivog stanovanja za 2027. godinu jedinice lokalne i područne (regionalne) samouprave mogu do 15. lipnja 2026. dostaviti APN-u iskaz potreba za priuštivim stanovanjem na svom području za sljedeću godinu što uključuje analizu stambenog jaza, dostupno zemljište za gradnju, namjenu tog zemljišta i komunalnu opremljenost.

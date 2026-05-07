@@ -1,0 +1,8 @@
+# Članak 30.
+(1) U sklopu zgrada poslovne namjene te zgrada javne i društvene namjene u vlasništvu Republike Hrvatske, jedinica lokalne samouprave, jedinica područne (regionalne) samouprave ili javnih ustanova kojima je osnivač Republika Hrvatska, jedinica lokalne samouprave ili jedinica područne (regionalne) samouprave, kao i na građevnim česticama tih zgrada mogu se graditi stanovi ili rekonstruirati zgrade za najam osobama koje rade u tim zgradama ili zaposlenicima vlasnika zgrade, po priuštivoj najamnini.
+(2) Ukupna vrijednosna stambena površina u zgradama iz stavka 1. ovoga članka ne može biti veća od 20 % vrijednosne površine poslovnog odnosno javnog dijela zgrade.
+(3) Vlasništvom nekretnine ili dijela nekretnine iz stavka 1. ovoga članka moguće je raspolagati samo ako je stjecatelj nekretnine Republika Hrvatska, jedinica lokalne samouprave, jedinica područne (regionalne) samouprave ili javna ustanova kojoj je osnivač Republika Hrvatska, jedinica lokalne samouprave ili jedinica područne (regionalne) samouprave.
+(4) Iznos priuštive najamnine za stanove iz stavka 1. ovoga članka određuje vlasnik zgrade, s time da taj iznos ne može biti veći od iznosa priuštive najamnine kako je predviđen ovim Zakonom.
+(5) Mogućnost korištenja stanova iz stavka 1. ovoga članka samo za najam osobama koje rade u tim zgradama ili zaposlenicima vlasnika zgrade po priuštivoj najamnini određuje se izrekom lokacijske ili građevinske dozvole za gradnju odnosno rekonstrukciju zgrade.
+(6) Vlasnik je obvezan podnijeti nadležnom općinskom sudu prijedlog upisa ograničenja raspolaganja nekretninom iz stavka 1. ovoga članka u roku od 90 dana od dana pravomoćnosti uporabne dozvole.
+(7) Pravni poslovi sklopljeni protivno stavku 3. ovoga članka su ništetni.

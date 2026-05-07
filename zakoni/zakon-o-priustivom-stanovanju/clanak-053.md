@@ -1,0 +1,3 @@
+# Članak 53.
+(1) APN odnosno javna ustanova za priuštivo stanovanje obvezna je voditi cjelovitu internu evidenciju prodanih stanova, garaža, garažnih i parkirnih mjesta, poslovnih prostora, stanova danih u najam i poslovnih prostora danih u zakup u zgradi namijenjenoj priuštivom stanovanju izgrađenoj na temelju ovoga Zakona te pratiti plaćanje najamnine i zakupa za te stanove odnosno poslovne prostore.
+(2) Javna ustanova za priuštivo stanovanje obvezna je tromjesečno dostavljati APN-u izvješće o prihodima ostvarenim od prodaje, najma odnosno zakupa stanova te poslovnih prostora iz stavka 1. ovoga članka.

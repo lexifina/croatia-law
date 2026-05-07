@@ -1,0 +1,13 @@
+# Članak 35.
+(1) Nakon izvršnosti građevinske dozvole za građenje zgrade namijenjene priuštivom stanovanju APN odnosno javna ustanova za priuštivo stanovanje u javnim glasilima i na svojim mrežnim stranicama objavljuje javni poziv za prikupljanje ponuda za kupnju stana po priuštivoj cijeni i za kupnju poslovnog prostora.
+(2) APN odnosno javna ustanova za priuštivo stanovanje pristigle ponude za kupnju stana razvrstava u skladu s ovim Zakonom i odlukom iz članka 36. stavka 1. ovoga Zakona te ih uvrštava na listu reda prvenstva za kupnju stana.
+(3) U postupku uvrštavanja na listu reda prvenstva za kupnju stana od podnositelja ponude za kupnju stana neće se kao dokaz za ispunjavanje određenih uvjeta i mjerila tražiti dokumenti koji su dostupni u javno objavljenim registrima sukladno propisu o određivanju temeljnih registara, a koji proizlazi iz propisa kojim se uređuje državna informacijska infrastruktura.
+(4) Istinitost podataka u pogledu ispunjavanja određenih uvjeta i mjerila za kupnju stana prema utvrđenoj listi reda prvenstva za kupnju stana podnositelj zahtjeva dokazuje izjavom danom kod javnog bilježnika pod kaznenom i materijalnom odgovornošću te, po potrebi, odgovarajućim dokumentima neposredno prije sklapanja ugovora o kupnji stana.
+(5) Podnositelj ponude koji do sklapanja predugovora za kupnju stana ne dokaže ispunjavanje uvjeta i mjerila za kupnju stana po priuštivoj cijeni briše se s liste reda prvenstva za kupnju stana.
+(6) Prijave pristigle nakon roka određenog javnim pozivom za podnošenje prijava ne uzimaju se u obzir te se ne razvrstavaju i ne uvrštavaju na listu reda prvenstva za kupnju stana.
+(7) Lista reda prvenstva za kupnju stana po priuštivoj cijeni te njezine naknadne izmjene objavljuju se na mrežnim stranicama APN-a odnosno javne ustanove za priuštivo stanovanje.
+(8) Podnositelj prijave koji smatra da mu nisu pravilno obračunani bodovi pri izradi liste reda prvenstva za kupnju stana ima pravo izjaviti prigovor protiv liste reda prvenstva ravnatelju APN-a odnosno javne ustanove za priuštivo stanovanje, u roku od osam dana od dana objave liste reda prvenstva.
+(9) O prigovoru iz stavka 8. ovoga članka ravnatelj APN-a odnosno javne ustanove za priuštivo stanovanje obvezan je odlučiti rješenjem u roku od 30 dana od dana izjavljivanja prigovora.
+(10) Protiv rješenja iz stavka 9. ovoga članka može se izjaviti žalba o kojoj odlučuje Ministarstvo.
+(11) Kupci poslovnih prostora biraju se putem javnog natječaja isključivo za djelatnosti koje služe stanarima i lokalnoj zajednici.
+(12) Predugovor o kupoprodaji poslovnog prostora mora sadržavati odredbe o načinu i dinamici plaćanja, pravima i obvezama ugovornih strana te mjerama osiguranja povrata uplata u slučaju neizvršenja ugovora.

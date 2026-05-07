@@ -1,0 +1,4 @@
+# Članak 5.
+(1) APN u obavljanju poslova povjerenih mu ovim Zakonom posluje javnim sredstvima i sredstvima koja se pribavljaju na tržištu kapitala od poslovnih banaka i drugih financijskih institucija, kupaca stanova, kupaca poslovnih prostora, najmoprimaca stanova, zakupnika poslovnih prostora te drugih osoba koje sukladno ovom Zakonu mogu sudjelovati u osiguranju sredstava za priuštivo stanovanje.
+(2) Financijsko poslovanje u vezi s gradnjom odnosno gospodarenjem svake pojedine zgrade odnosno zahvatom u prostoru koji predstavlja jednu cjelinu APN vodi odvojeno.
+(3) APN je obvezan iz financijskih sredstava osiguranih na njegovim pozicijama u državnom proračunu Republike Hrvatske, kada je nositelj investitorskog posla, osigurati financiranje gradnje zgrade do potpune dovršenosti ako pojedini sudionici u gradnji nisu izvršili svoje ugovorne obveze ili dio zgrade nije pravodobno prodan i zbog drugih nepredviđenih okolnosti.

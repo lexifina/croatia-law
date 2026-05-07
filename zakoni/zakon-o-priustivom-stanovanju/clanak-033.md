@@ -1,0 +1,2 @@
+# Članak 33.
+Prije pristupanja građenju na određenoj lokaciji APN odnosno javna ustanova za priuštivo stanovanje dužna je izraditi kalkulaciju predvidivih troškova gradnje pažnjom dobroga gospodarstvenika s prikazom financijske konstrukcije prema izvorima financiranja, okvirno utvrditi predvidivu priuštivu prodajnu cijenu stana i priuštivu najamninu te predvidivu prodajnu cijenu posebnih dijelova koji se ne prodaju po priuštivoj cijeni i izraditi kalkulacije obročne otplate, kao i iznose povratnog priljeva sredstava od prodaje, najma i zakupa.

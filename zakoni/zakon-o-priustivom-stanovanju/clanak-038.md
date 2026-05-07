@@ -1,0 +1,3 @@
+# Članak 38.
+(1) APN odnosno javna ustanova za priuštivo stanovanje nakon objave liste reda prvenstva za kupnju stana u skladu s tom listom s ponuditeljem sklapa predugovor o kupoprodaji stana kojim se utvrđuje predvidiva cijena stana odnosno predvidiva cijena poslovnog prostora u skladu s kojim ponuditelj plaća vlastito učešće.
+(2) Nakon izvršnosti uporabne dozvole i po obračunu troškova gradnje APN odnosno javna ustanova za priuštivo stanovanje s ponuditeljem sklapa ugovor o kupoprodaji stana s konačno određenom priuštivom cijenom stana odnosno cijenom poslovnog prostora koja ne može biti viša od 5 % od predvidive priuštive cijene stana odnosno cijene poslovnog prostora utvrđene predugovorom i ne može se naknadno povećavati.

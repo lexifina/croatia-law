@@ -1,0 +1,2 @@
+# Članak 54.
+Javna ustanova za priuštivo stanovanje koja u državni proračun Republike Hrvatske ne uplati sredstva iz članka 52. stavka 1. ovoga Zakona u propisanom roku ili APN-u ne dostavi izvješće iz članka 53. stavka 2. ovoga Zakona nema pravo na dobivanje sredstava iz državnog proračuna Republike Hrvatske do uplate dužnih sredstava s pripadajućom kamatom odnosno do dostave izvješća, a o čemu APN obavještava Ministarstvo, Ministarstvo financija i Državni ured za reviziju.

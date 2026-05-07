@@ -1,0 +1,3 @@
+# Članak 83.
+(1) Državna tijela, jedinice lokalne samouprave, jedinice područne (regionalne) samouprave, trgovačka društva, sindikati, udruge građana i druge pravne osobe mogu zajedno s NSZ-om biti sudionici u poslu gradnje stanova za svoje zaposlenike i u tu svrhu oni mogu NSZ-u na temelju ugovora ustupiti građevinsko zemljište, osnivati pravo građenja u korist NSZ-a, dati novčana sredstva i NSZ ovlastiti da za njih obavi druge poslove.
+(2) Odredbe članka 82. ovoga Zakona ne primjenjuju se na NSZ koji ograničava svoje aktivnosti samo na gradnju stambenih zgrada za potrebe pravnih osoba iz stavka 1. ovoga članka.

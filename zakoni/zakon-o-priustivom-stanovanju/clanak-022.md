@@ -1,0 +1,4 @@
+# Članak 22.
+(1) Za financiranje gradnje zgrada i aktiviranje praznih stambenih nekretnina APN odnosno javna ustanova za priuštivo stanovanje mogu koristiti i sredstva Hrvatske banke za obnovu i razvitak, europskih razvojnih i investicijskih banaka, kao i sredstva fondova Europske unije i fondova registriranih u Republici Hrvatskoj.
+(2) APN i javne ustanove za priuštivo stanovanje mogu sklapati sporazume o suradnji s poslovnim bankama radi olakšanog pristupa građana kreditima za priuštivo stanovanje, putem javnog poziva kako ne bi došlo do selektivne prednosti za pojedine banke.
+(3) Sva financijska sredstva moraju se koristiti u skladu s pravilima o državnim potporama Europske unije, a višak prihoda od prodaje nekretnina, najamnina i otplate kredita koristi se isključivo za daljnju gradnju i održavanje vlastitog stambenog fonda te aktiviranje praznih nekretnina odnosno putem revolving modela.

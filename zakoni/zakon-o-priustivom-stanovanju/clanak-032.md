@@ -1,0 +1,13 @@
+# Članak 32.
+(1) Iznimno od članka 31. stavka 1. ovoga Zakona, APN odnosno javna ustanova može objaviti javni poziv za kupnju građevinskog zemljišta pod posebnim uvjetima s otkupom cijelog projekta stanogradnje.
+(2) Pravna ili fizička osoba ovlaštena za poslove građenja može APN-u odnosno javnoj ustanovi prema uvjetima iz javnog poziva iz stavka 1. ovoga članka ponuditi građevinsko zemljište u svom vlasništvu i određenu projektnu dokumentaciju za gradnju zgrade na tom zemljištu ili zgradu koju je potrebno rekonstruirati ili završiti, u kojem slučaju APN s tom osobom može sklopiti ugovor o građenju s odredbom »ključ u ruke« sukladno zakonu kojim je uređeno područje gradnje i područje obveznih odnosa, neposredno bez javnog nadmetanja pod uvjetom da:
+1. APN odnosno javna ustanova za priuštivo stanovanje na temelju podataka o stambenom jazu ili listi reda prvenstva ocijeni da postoji stvaran interes za kupnju ili najam stanova, odnosno da su prodaja i najam stanova u zgradi izvjesni
+2. APN odnosno javna ustanova raspiše javni poziv na kojem mogu sudjelovati svi zainteresirani ponuditelji
+3. predvidivi trošak građenja nije veći od etalonske cijene građenja
+4. cijena zemljišta nije viša od 20 % etalonske cijene građenja vrijednosne površine zgrade koja će se graditi na tom zemljištu
+5. projekt zadovoljava uvjete i potrebe propisane ovim Zakonom i propisima donesenim na temelju ovoga Zakona te zakonima i propisima kojima se uređuju područja prostornog uređenja, gradnje i energetske učinkovitosti
+6. izvođač ponudi odgovarajuća jamstva za kvalitetno i pravodobno izvršenje radova te otklanjanje nedostataka, odnosno na temelju ugovora osigura za te namjene instrumente osiguranja koja su neopoziva i koja su na prvi poziv
+7. su sva imovinska autorskopravna pitanja iskorištavanja projektno-tehničke dokumentacije odnosno autorskog djela arhitekture prethodno na odgovarajući način regulirana kako bi se ista mogla prenijeti na APN odnosno na javnu ustanovu za priuštivo stanovanje.
+(3) Ako se na javni poziv iz stavka 1. ovoga članka javi više zainteresiranih ponuditelja, APN odnosno javna ustanova odabrat će ponudu koja najviše odgovara uvjetima javnog poziva.
+(4) Ako APN odnosno javna ustanova za priuštivo stanovanje ocijeni da je projektna dokumentacija ponuđena na javnom pozivu iz stavka 1. ovoga članka odgovarajuća, može je otkupiti od ponuditelja po tržišnoj cijeni.
+(5) Ako projektna dokumentacija ponuđena na javnom pozivu iz stavka 1. ovoga članka nije odgovarajuća ili dostatna za građenje, poslovi izrade potrebne projektne dokumentacije mogu se obuhvatiti ugovorom o građenju s odredbom »ključ u ruke«, ili se za izradu potrebne projektne dokumentacije provodi odgovarajući postupak javne nabave.

@@ -1,0 +1,9 @@
+# Članak 76.
+(1) Ukupan rok obročne otplate sredstava za rekonstrukciju i obnovu zgrade iz članka 73. stavka 2. ovoga Zakona, uključivo mogući poček plaćanja obroka te razdoblje otplate kreditnih sredstava banke, ne može biti duži od 35 godina od dana sklapanja ugovora o kreditu.
+(2) U prvom dijelu obročne otplate, koji ne može biti duži od 20 godina, otplaćuju se kreditna sredstva banke na ime odobrenog kredita, a u drugom dijelu, nakon podmirenja duga banci, otplaćuju se javna sredstva.
+(3) Mjesečni obrok pri obročnoj otplati utvrđuje se tako da je njegova visina za cijelo razdoblje otplate ujednačena.
+(4) Za rekonstrukciju i obnovu zgrade uz obročnu otplatu korisnici potpore osiguravaju financijska sredstva kao vlastito učešće najmanje u iznosu od 10 % predračunske vrijednosti potrebnih radova, dok se preostalih 90 % dijeli tako da se dio od 50 % odnosi na kredit poslovne banke, a 40 % predstavlja zajam APN-a.
+(5) Kod zajma za rekonstrukciju i obnovu zgrade kamata na vrijednost javnih sredstava sadržanih u vrijednosti potrebnih radova za razdoblje počeka do podmirenja duga banci obračunava se po kamatnoj stopi u visini od 1 % godišnje konformno i pripisuje glavnici, a za razdoblje otplate obračunava se po kamatnoj stopi u visini od 1 % godišnje dekurzivno.
+(6) Visina kamatne stope i ostali uvjeti otplate kreditnih sredstava koja osigurava banka određuju se u skladu s uvjetima utvrđenim sporazumom o poslovnoj suradnji između APN-a i banke.
+(7) Tijekom obročne otplate sredstava za rekonstrukciju i obnovu zgrade moguće je, ovisno o uvjetima banke, izvršiti prekid otplate i platiti odjednom ukupni preostali dug s pripadajućom kamatom na javna sredstva za razdoblje do prekida otplate.
+(8) Prilikom davanja zajma za rekonstrukciju i obnovu zgrade upisuje se založno pravo na nekretnini.

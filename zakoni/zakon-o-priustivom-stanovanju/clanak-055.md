@@ -1,0 +1,9 @@
+## POGLAVLJE III. AKTIVACIJA PRAZNIH STAMBENIH NEKRETNINA
+# Članak 55.
+(1) APN može na tržištu pribavljati raspoložive stambene nekretnine radi njihova davanja u podnajam po priuštivoj najamnini.
+(2) Financijska sredstva za pribavljanje na tržištu stambenih nekretnina iz stavka 1. ovoga članka osiguravaju se u državnom proračunu Republike Hrvatske, u skladu s nacionalnim programom priuštivog stanovanja i mogućnostima na glavi APN-a.
+(3) Za financiranje ove mjere moguće je koristiti i sredstva iz članka 22. stavaka 1. i 2. ovoga Zakona.
+(4) Za pribavljanje na tržištu stambenih nekretnina iz stavka 1. ovoga članka mogu se koristiti i financijska sredstva koja jedinice lokalne samouprave ili jedinice područne (regionalne) samouprave, ovisno o mogućnostima i potrebama, osiguraju u svojem proračunu.
+(5) Sredstva ostvarena od podnajma stambenih nekretnina iz stavka 1. ovoga članka namjenski su prihod APN-a i služe za pokrivanje dijela troškova koji nastaju isplatom naknade za davanje stambene nekretnine u najam odnosno lokalne medijalne cijene najma osobama s kojima je sklopljen ugovor o najmu stambene nekretnine radi davanja nekretnine u podnajam po priuštivoj najamnini (u daljnjem tekstu: ugovor o najmu stambene nekretnine).
+(6) Postupak i uvjete provedbe javnih poziva za vlasnike stambenih nekretnina i podnajmoprimce te razvrstavanja ponuda i uvrštavanja na listu prvenstva za sklapanje ugovora o najmu i podnajmu stambene nekretnine, kriterije za uporabivost stambene nekretnine i manje radove na uređenju do uporabljivosti stambene nekretnine, uvjete za sklapanje ugovora o najmu i podnajmu stambene nekretnine i način izračuna naknade za davanje stambene nekretnine u najam i podnajam određuje Vlada Republike Hrvatske odlukom o donošenju Programa priuštivog najma.
+(7) Lokalnu medijalnu cijenu najma za svaku jedinicu lokalne samouprave i za svaku katastarsku općinu u Gradu Zagrebu odlukom propisuje ministar.

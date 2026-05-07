@@ -1,0 +1,10 @@
+# Članak 49.
+(1) APN odnosno javna ustanova za priuštivo stanovanje pristigle prijave za najam stana razvrstava u skladu s ovim Zakonom i odlukom iz članka 48. stavka 1. ovoga Zakona te ih uvrštava na listu reda prvenstva za najam stana.
+(2) U postupku uvrštavanja na listu reda prvenstva za najam stana od podnositelja prijave za najam stana neće se kao dokaz za ispunjavanje određenih uvjeta i mjerila tražiti dokumenti koji su dostupni u javno objavljenim registrima sukladno propisu o određivanju temeljnih registara, a koji proizlazi iz propisa kojim se uređuje državna informacijska infrastruktura.
+(3) Istinitost podataka u pogledu ispunjavanja određenih uvjeta i mjerila za najam stana prema utvrđenoj listi reda prvenstva za najam stana podnositelj zahtjeva dokazuje izjavom danom kod javnog bilježnika pod kaznenom i materijalnom odgovornošću te, po potrebi, odgovarajućim dokumentima neposredno prije sklapanja ugovora o najmu stana.
+(4) Podnositelj prijave koji do sklapanja ugovora o najmu stana ne dokaže ispunjavanje uvjeta i mjerila za najam stana po priuštivoj cijeni briše se s liste reda prvenstva za najam stana.
+(5) Prijave pristigle nakon roka određenog javnim pozivom za podnošenje prijava ne uzimaju se u obzir te se ne razvrstavaju i ne uvrštavaju na listu reda prvenstva za najam stana.
+(6) Lista reda prvenstva za najam stana objavljuje se na mrežnim stranicama APN-a odnosno javne ustanove za priuštivo stanovanje.
+(7) Podnositelj prijave koji smatra da mu nisu pravilno obračunani bodovi pri izradi liste reda prvenstva za najam stana ima pravo izjaviti prigovor protiv liste reda prvenstva ravnatelju APN-a odnosno javne ustanove za priuštivo stanovanje, u roku od osam dana od objave liste reda prvenstva.
+(8) O prigovoru iz stavka 7. ovoga članka ravnatelj APN-a odnosno javne ustanove za priuštivo stanovanje obvezan je odlučiti rješenjem u roku od 30 dana od dana izjavljivanja prigovora.
+(9) Protiv rješenja iz stavka 8. ovoga članka može se izjaviti žalba o kojoj odlučuje Ministarstvo.

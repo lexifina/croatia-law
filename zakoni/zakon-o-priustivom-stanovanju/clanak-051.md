@@ -1,0 +1,16 @@
+# Članak 51.
+(1) Najmoprimac stana plaća priuštivu najamninu APN-u odnosno javnoj ustanovi za priuštivo stanovanje u iznosu i rokovima utvrđenim ugovorom o najmu stana.
+(2) Priuštiva najamnina predstavlja iznos u eurima mjesečno koji se dobiva prema izrazu:
+a) N = (P × 0,30) – T
+b) N = priuštiva najamnina; P = ukupni prihod uže obitelji; T = režijski troškovi stanovanja i troškovi održavanja.
+(3) Prihod iz stavka 2. ovoga članka utvrđuje se na temelju potvrde o ukupnom dohotku u prethodnoj godini koju je izdalo Ministarstvo financija, Porezna uprava, za najmoprimca i sve članove uže obitelji.
+(4) Prihodom iz stavka 2. ovoga članka ne smatraju se naknade iz sustava socijalne skrbi, povremena primanja preko Hrvatskog zavoda za mirovinsko osiguranje te učeničke i studentske stipendije.
+(5) Najmoprimac se obvezuje dostavljati APN-u potvrde Ministarstva financija, Porezne uprave o ukupnom dohotku u prethodnoj godini za najmoprimca i sve članove uže obitelji jednom godišnje do 31. ožujka za svaku godinu trajanja ugovora o najmu stambene nekretnine.
+(6) Ako se najmoprimcu ili njegovim članovima uže obitelji povećaju prihodi za više od 15 % na godišnjoj razini, najmoprimac je obvezan APN-u odnosno javnoj ustanovi za priuštivo stanovanje dokumentirano javiti novo stanje prihoda u roku od 30 dana od dana povećanja prihoda.
+(7) Ako se najmoprimcu ili njegovim članovima uže obitelji smanje prihodi za više od 10 % na godišnjoj razini, najmoprimac može APN-u odnosno javnoj ustanovi za priuštivo stanovanje dokumentirano javiti novo stanje prihoda.
+(8) Najmoprimac se obvezuje dostavljati APN-u odnosno javnoj ustanovi za priuštivo stanovanje izjavu ovjerenu kod javnog bilježnika i druge dokaze kojima će dokazati postoje li stambene nekretnine u vlasništvu najmoprimca ili članova njegove uže obitelji, jednom godišnje, u siječnju.
+(9) Ako najmoprimac ili članovi njegove uže obitelji steknu useljivu stambenu nekretninu, obvezni su o tome obavijestiti APN u roku od 15 dana od dana stjecanja te su, od dana stjecanja takve nekretnine do isteka ugovora o najmu, obvezni plaćati lokalnu medijalnu cijenu najma koju je objavilo Ministarstvo.
+(10) Iznimno od stavka 9. ovoga članka, ako najmoprimac ili članovi njegove uže obitelji steknu useljivu stambenu nekretninu na području jedinice lokalne samouprave u kojoj su u priuštivom najmu, ugovor o priuštivom najmu se raskida s otkaznim rokom od tri mjeseca uz plaćanje lokalne medijalne cijene najma od dana stjecanja useljive nekretnine.
+(11) APN odnosno javna ustanova za priuštivo stanovanje nakon saznanja o novim prihodima ili useljivim stambenim nekretninama najmoprimca ili članova njegove uže obitelji izračunava novi iznos priuštive najamnine te u skladu s novim izračunom sklapa s najmoprimcem ugovor o izmjeni ugovora o najmu stambene nekretnine u roku od 15 dana od dana zaprimanja novog stanja prihoda.
+(12) Nepostupanje najmoprimca u skladu sa stavcima 5., 6., 8. i 9. ovoga članka ili nesklapanje ugovora o izmjeni ugovora o najmu stana u slučaju povećanja promjene prihoda najmoprimca ili članova njegove uže obitelji predstavlja razlog za jednostrani otkaz ugovora o najmu stambene nekretnine.
+(13) Neovisno o uvjetima propisanim odredbama ovoga članka, priuštiva najamnina ne može biti manja od dva eura po m² stana.
