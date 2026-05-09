@@ -1,0 +1,1 @@
+Na temelju članka 50.a stavka 2. Zakona o predškolskom odgoju i obrazovanju (»Narodne novine«, br. 10/97., 107/07., 94/13., 98/19., 57/22., 101/23., 145/23., 145/24. i 22/26.), Vlada Republike Hrvatske je na sjednici održanoj 7. svibnja 2026. donijela
