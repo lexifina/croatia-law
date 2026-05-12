@@ -1,0 +1,1 @@
+Na temelju članka 91. stavka 10. Zakona o obveznim mirovinskim fondovima (»Narodne novine«, broj 19/14, 93/15, 64/18, 115/18, 58/20 i 156/23), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 23. travnja 2026. godine donosi
