@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 2. podstavak 1. mijenja se i glasi:
+»Azbest jesu sljedeći vlaknasti silikati koji su razvrstani kao karcinogeni kategorije 1.A u skladu s Prilogom VI. dijelom 3. Uredbe (EZ) br. 1272/2008 Europskog parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označivanju i pakiranju tvari i smjesa, o izmjeni i stavljanju izvan snage Direktive 67/548/EEZ i Direktive 1999/45/EZ i o izmjeni Uredbe (EZ) br. 1907/2006 (Tekst značajan za EGP) (SL L 353, 31. 12. 2008.): azbest aktinolit, azbest amozit (grinerit), azbest antofilit, azbest krizotil, azbest krokidolit i azbest tremolit.«.
