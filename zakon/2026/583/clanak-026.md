@@ -1,0 +1,2 @@
+# Članak 26.
+Odredba članka 10. stavka 3. koji je izmijenjen odredbom članka 5. ovoga Zakona ne primjenjuje se na zahtjev za izdavanje rješenja o izvedenom stanju koji je pravomoćno odbijen na temelju Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine« br. 86/12., 143/13., 65/17. i 14/19.) zbog razloga što podnositelj zahtjeva nije priložio zakonom propisanu dokumentaciju ili nije platio naknadu za zadržavanje nezakonito izgrađene zgrade u prostoru.
