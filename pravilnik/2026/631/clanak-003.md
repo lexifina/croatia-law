@@ -1,0 +1,6 @@
+# Članak 3.
+U članku 3. iza stavka 2. dodaju se stavci 3. do 6. koji glase:
+»(3) Iznimno od stavka 1. ovoga članka, troškovi distribucije udjela UCITS fonda koji koristi uvjetnu odgođenu prodajnu naknadu iz članka 2.a ovoga Pravilnika, uključujući naknade distributerima i posrednicima, mogu se, ako je to predviđeno prospektom fonda, tretirati kao vremenski raspoređeni unaprijed plaćeni izdaci te se privremeno kapitalizirati i amortizirati tijekom unaprijed određenog razdoblja.
+(4) Izdaci iz stavka 3. ovoga članka predstavljaju unaprijed plaćene ili odgođeno priznate troškove UCITS fonda, koji ne ovise o nastanku UOPN-a niti predstavljaju potraživanje UCITS fonda prema ulagateljima, već se priznaju kao imovina fonda isključivo radi vremenskog raspoređivanja njihova utjecaja na imovinu fonda.
+(5) Troškovi iz stavka 3. ovoga članka ne smatraju se konačnim troškovima UCITS fonda u trenutku njihova nastanka, već se njihov konačni teret utvrđuje ovisno o trajanju ulaganja pojedinog ulagatelja.
+(6) Iznosi UOPN-a naplaćeni u skladu s člankom 2.a ovoga Pravilnika mogu se upotrijebiti za umanjenje preostalog neamortiziranog iznosa izdataka iz stavka 3. ovoga članka, pri čemu se takvo umanjenje ne smatra terećenjem ulagatelja u smislu članka 248. stavka 5. Zakona.«
