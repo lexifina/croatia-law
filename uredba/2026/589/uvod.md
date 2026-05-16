@@ -1,0 +1,1 @@
+Na temelju članka 78. stavaka 1. i 3. i članka 84. stavka 4. Zakona o zaštiti okoliša (»Narodne novine«, br. 80/13., 153/13., 78/15., 12/18. i 118/18.), Vlada Republike Hrvatske je na sjednici održanoj 7. svibnja 2026. donijela
