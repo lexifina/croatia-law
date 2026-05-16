@@ -1,0 +1,5 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 86.
+(1) Ministar nadležan za politiku javne nabave će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti Pravilnik o dokumentaciji o nabavi te ponudi u postupcima javne nabave (»Narodne novine«, br. 65/17., 75/20. i 92/25.), Pravilnik o planu nabave, registru ugovora, prethodnom savjetovanju i analizi tržišta u javnoj nabavi (»Narodne novine«, br. 101/17., 144/20. i 30/23.) i Pravilnik o izobrazbi u području javne nabave (»Narodne novine«, br. 154/23. i 94/25.) s odredbama ovoga Zakona.
+(2) Ministar nadležan za vanjske i europske poslove će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti Pravilnik o javnoj nabavi u diplomatskim misijama i konzularnim uredima Republike Hrvatske u inozemstvu (»Narodne novine«, br. 69/17.) s odredbama ovoga Zakona.
+(3) Naručitelji će u roku od tri mjeseca od dana stupanja na snagu ovoga Zakona uskladiti opće akte kojima se uređuju pravila, uvjeti i postupci jednostavne nabave te planove nabave s odredbama ovoga Zakona.

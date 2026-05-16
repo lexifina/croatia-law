@@ -1,0 +1,5 @@
+# Članak 37.
+U članku 265. stavku 1. točka 1. mijenja se i glasi:
+»1. Izjavu s ovjerenim potpisom kod nadležne sudske ili upravne vlasti, javnog bilježnika ili strukovnog ili trgovinskog tijela, kojom gospodarski subjekt te osobe iz članka 251. ovoga Zakona potvrđuju da u odnosu na njih nisu ispunjene osnove za isključenje propisane člankom 251. stavcima 1. i 2. ovoga Zakona te kojom gospodarski subjekt potvrđuje da u odnosu na njega nije ispunjena osnova za isključenje propisana člankom 251. stavkom 3. ovoga Zakona«.
+Stavak 2. mijenja se i glasi:
+»(2) Ako se u državi poslovnog nastana gospodarskog subjekta ne izdaju dokumenti iz stavka 1. točaka 2. i 3. ovoga članka ili ako ne obuhvaćaju sve okolnosti iz članka 252. stavka 1. i članka 254. stavka 1. točke 2. ovoga Zakona, oni mogu biti zamijenjeni izjavom pod prisegom ili, ako izjava pod prisegom prema pravu dotične države ne postoji, izjavom davatelja s ovjerenim potpisom kod nadležne sudske ili upravne vlasti, javnog bilježnika ili strukovnog ili trgovinskog tijela.«.

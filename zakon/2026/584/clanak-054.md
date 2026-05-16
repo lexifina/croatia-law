@@ -1,0 +1,5 @@
+# Članak 54.
+U članku 310. stavak 1. mijenja se i glasi:
+»(1) Nakon dostave odluke o odabiru ili poništenju, na zahtjev natjecatelja ili ponuditelja zaprimljen najkasnije dan prije isteka roka za žalbu, javni naručitelj obvezan je najkasnije idući radni dan do 16:00 sati omogućiti uvid u cjelokupnu dokumentaciju dotičnog postupka putem EOJN HR, uključujući zapisnike, dostavljene ponude ili zahtjeve za sudjelovanje, osim u one dokumente koji su označeni tajnima te one dokumente koji sadrže podatke o mrežnim i informacijskim sustavima kojima se naručitelj služi u svom poslovanju ili u pružanju svojih usluga, informacije o mjerama za zaštitu i sprječavanje incidenata, sve sukladno propisima o kibernetičkoj sigurnosti, kao ni u one dijelove ponuda koji sadrže podatke čije bi otkrivanje moglo predstavljati prijetnju sa stajališta kibernetičke sigurnosti.«.
+Stavak 2. mijenja se i glasi:
+»(2) Na zahtjev natjecatelja ili ponuditelja za uvid iz stavka 1. ovoga članka koji se ostvaruje u prostorijama javnog naručitelja, zaprimljen najkasnije dan prije isteka roka za žalbu, javni naručitelj obvezan je isti uvid omogućiti najkasnije idući radni dan do 16:00 sati.«.
