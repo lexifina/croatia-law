@@ -1,0 +1,2 @@
+# Članak 20.
+Naziv Glave IV. iznad članka 56. mijenja se i glasi: »NADZOR, PRAĆENJE PROVEDBE UREDBE (EU) BR. 305/2011, UREDBE (EU) 2024/3110, OVOGA ZAKONA I INSPEKCIJSKI NADZOR«.
