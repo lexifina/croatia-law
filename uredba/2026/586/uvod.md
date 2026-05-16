@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 3. Zakona o Registru zaposlenih i centraliziranom obračunu plaća u državnoj službi i javnim službama (»Narodne novine«, broj 59/23.), Vlada Republike Hrvatske je na sjednici održanoj 7. svibnja 2026. donijela
