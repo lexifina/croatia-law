@@ -1,0 +1,2 @@
+# Članak 1.
+Hrvatska narodna banka izdaje zlatne i srebrne numizmatičke kovanice »Vučedolska kultura«, s prigodnim motivima koji prikazuju neke od elemenata vučedolske kulture, koja slovi za najstariju europsku civilizaciju, a koji su pronađeni na arheološkom lokalitetu Vučedol, smještenom nedaleko od grada Vukovara uz obalu Dunava. Vučedol je jedan od najznačajnijih lokaliteta eneolitika i čini važan dio povijesne baštine Republike Hrvatske i Europe.
