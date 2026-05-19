@@ -1,0 +1,15 @@
+# Članak 6.
+U članku 11. stavku 1. točka c) mijenja se i glasi:
+»c) u slučaju podizanja novih/restrukturiranja postojećih višegodišnjih nasada u sklopu intervencije 73.10. i 73.12., korisnik je u obvezi planirati ulaganje u suvremeni (odgovarajućeg sortimenta i opremljen sustavima za zaštitu nasada), tržišno orijentirani nasad te izraditi tehnološki elaborat u skladu s pravilima struke i predloškom koji će biti objavljen uz natječaj, poštujući relevantne tehnološke smjernice (gdje je primjenjivo), a koji mora biti odobren od strane stručnih službi koje će biti propisane natječajem«.
+Točka d) mijenja se i glasi:
+»d) u slučaju restrukturiranja i/ili opremanja višegodišnjih nasada u sklopu intervencije 73.10. i 73.12., površine na kojima se planira provedba restrukturiranja i/ili opremanja moraju u trenutku podnošenja zahtjeva za potporu biti prijavljene u Upisniku voćnjaka i/ili u Upisniku maslinika i/ili Vinogradarskom registru pod vrstama uporabe poljoprivrednog zemljišta voćnjak ili mješoviti višegodišnji nasad ili maslinik ili vinograd u skladu s posebnim propisom koji uređuje evidenciju uporabe poljoprivrednog zemljišta«.
+Točka i) alineja treća mijenja se i glasi:
+- » - u slučaju ulaganja u restrukturiranje postojećih i/ili podizanje novih višegodišnjih nasada i/ili ulaganja u podizanje nasada aromatičnog i ljekovitog bilja i/ili jagoda i/ili ulaganja u opremanje istih ako korisnik nema pravo vlasništva na lokaciji ulaganja korisnik mora imati ugovor o najmu/koncesiji/plodouživanju/zakupu/služnosti koji mora biti sklopljen na rok od najmanje 10 godina računajući od trenutka podnošenja zahtjeva za potporu, osim ako je kupnja zemljišta predmet ulaganja. Ugovor mora biti sklopljen između korisnika i vlasnika koji je kao vlasnik upisan u zemljišne knjige te ugovor mora biti upisan u zemljišne knjige«.
+U stavku 1. iza točke l) dodaje se nova točka m):
+m) projekt se može podnijeti / odnositi isključivo na jednu vrstu proizvodnje kako je određeno u kriterijima odabira.
+Stavak 3. mijenja se i glasi:
+»(3) Ako Agencija za plaćanja tijekom administrativne kontrole zahtjeva za potporu utvrdi da nisu ispunjeni uvjeti prihvatljivosti iz stavaka 1. i 2. ovoga članka, trošak neće biti prihvatljiv za sufinanciranje ili će korisniku izdati odluku o odbijanju zahtjeva za potporu u skladu s člankom 38. ovoga Pravilnika.«
+Stavak 11. mijenja se i glasi:
+»(11) Ulaganje mora biti stavljeno u funkciju/uporabu ili biti spremno za uporabu, u suprotnom Agencija za plaćanja neće odobriti isplatu potpore za trošak koji nije stavljen u funkciju/uporabu ili spreman za uporabu ili će izdati odluku o odbijanju zahtjeva za isplatu i/ili odluku o povratu sredstava ako su sredstva isplaćena, u skladu s člankom 45. ovoga Pravilnika.
+Stavak 12. mijenja se i glasi:
+»(12) Korisnik mora omogućiti obavljanje posjeta ulaganju/kontrole na terenu, u suprotnom će Agencija za plaćanja izdati odluku o odbijanju zahtjeva za isplatu i/ili odluku o povratu sredstava ako su sredstva isplaćena, u skladu s člankom 45. ovoga Pravilnika.«
