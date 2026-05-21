@@ -1,0 +1,6 @@
+## Obavještavanje subjekta nadzora o provedenom tajnom nadzoru
+# Članak 8.
+(1) Hanfa će najkasnije u roku od 30 dana od dana sklapanja ugovora iz članka 686. stavka 3. Zakona, kada je takav ugovor sklopljen, subjektu nadzora dostaviti obavijest o provedenom nadzoru.
+(2) U slučaju da se tajni nadzor provodi kao dio nadzora subjekta nadzora i obavijest o nadzoru ne sadrži informaciju o provođenju tajnog nadzora, Hanfa će najkasnije u roku iz stavka 1. ovoga članka subjektu nadzora dostaviti dopunu obavijesti o neposrednom nadzoru s informacijom o provedenom tajnom nadzoru.
+(3) U obavijesti o provedenom tajnom nadzoru Hanfa će obavijestiti subjekta nadzora o načinu i roku povrata novčanih sredstava i/ili raspolaganja financijskim instrumentima kupljenima od strane tajnog kupca temeljem ugovora sklopljenog u okviru tajnog nadzora. Ugovor ne proizvodi pravne učinke između ugovornih strana i namijenjen je isključivo za potrebe dokazivanja činjenica utvrđenih u tom postupku nadzora..
+(4) Iznimno, u slučaju sklapanja ugovora o pružanju investicijskih usluga po kojem se provjerava postupanje subjekata nadzora tijekom ispunjavanja obveza iz sklopljenog ugovora, Hanfa će subjektu nadzora dostaviti obavijest o provedenom nadzoru iz članka 685. stavka 5. Zakona u roku od 30 dana od dana provedene posljednje radnje u sklopu tajnog nadzora.

@@ -1,0 +1,1 @@
+Na temelju članka 686. stavka 4. Zakona o tržištu kapitala (»Narodne novine«, broj 65/18, 17/20, 83/21, 151/22, 58/24, 126/25 i 45/26) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 5. svibnja 2026. donosi
