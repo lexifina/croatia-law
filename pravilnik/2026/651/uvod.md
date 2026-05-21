@@ -1,0 +1,1 @@
+Na temelju članka 12. stavka 1. točaka 2. i 11. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/17., 130/17., 14/19., 30/23. i 14/24.) i članka 38. stavaka 2. i 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.) ministar poljoprivrede, šumarstva i ribarstva uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi

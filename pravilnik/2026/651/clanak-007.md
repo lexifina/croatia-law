@@ -1,0 +1,6 @@
+## Postupanje sa slučajnim ulovom osjetljivih vrsta
+# Članak 7.
+(1) Zapovjednici ribarskih plovila dužni su kod ribolova plivaricom srdelarom, koliko god je to moguće, izbjegavati okruživanje osjetljivih vrsta hrskavičnjača, morskih kornjača, morskih ptica ili morskih sisavaca navedenih u posebnom propisu kojim se uređuje oblik, sadržaj i način vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru.
+(2) Ukoliko se prilikom obavljanja ribolova plivaricom srdelarom slučajno zapašu i primjerci osjetljivih vrsta iz stavka 1. ovoga članka, ti se primjerci moraju pustiti živi i neozlijeđeni te se njihova prisutnost mora na odgovarajući način zabilježiti u očevidniku.
+(3) Ukoliko se primjerci osjetljivih vrsta iz stavka 1. ovoga članka ozlijede prilikom obavljanja ribolova, takve je primjerke dozvoljeno izvući na plovilo i iskrcati radi pružanja pomoći, odnosno spašavanja, pod uvjetom da su nadležna nacionalna tijela propisno i službeno obaviještena prije povratka u luku.
+(4) Ukoliko primjerci osjetljivih vrsta iz stavka 1. ovoga članka uginu tijekom obavljanja ribolova, takvi se ishodi također moraju na odgovarajući način zabilježiti u očevidniku sukladno posebnom propisu kojim se uređuje oblik, sadržaj i način vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru.

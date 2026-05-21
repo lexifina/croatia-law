@@ -1,0 +1,2 @@
+# Članak 2.
+Ovim se Pravilnikom osigurava provedba Uredbe (EU) 2019/1241 Europskog parlamenta i Vijeća od 20. lipnja 2019. o očuvanju ribolovnih resursa i zaštiti morskih ekosustava putem tehničkih mjera, o izmjeni uredbi Vijeća (EZ) br. 2019/2006, (EZ) br. 1224/2009 i uredbi (EU) br. 1380/2013, (EU) 2016/1139, (EU) 2018/973, (EU) 2019/472 i (EU) 2019/1022 Europskog parlamenta i Vijeća te o stavljanju izvan snage uredbi Vijeća (EZ) br. 894/97, (EZ) br. 850/98, (EZ) br. 2549/2000, (EZ) br. 254/2002, (EZ) br. 812/2004 i (EZ) br. 2187/2005.
