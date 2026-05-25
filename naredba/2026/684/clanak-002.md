@@ -1,0 +1,2 @@
+# Članak 2.
+Stupanjem na snagu ove Naredbe prestaje važiti Akcijski plan o poduzimanju mjera za sprječavanje širenja i suzbijanje sredozemne voćne muhe (Ceratitis capitata) u dolini rijeke Neretve za razdoblje 2025. - 2027. donesen na temelju članka 8. Naredbe, a koji je odobrio ministar poljoprivrede, šumarstva i ribarstva, klasa: 320-20/21-01/25, urbroj: 525-06/236-25-40, 10. lipnja 2025. godine.
