@@ -1,0 +1,5 @@
+## Obveza razmjene informacija
+# Članak 30.
+(1) Agencija za plaćanja će društvima za osiguranje dostaviti popis zaprimljenih zahtjeva za isplatu potpore, s imenom i OIB-om korisnika, brojevima polica osiguranja, kao i popis Zahtjeva za isplatu potpore koji su odbijeni, i to nakon pravomoćnosti Odluke o odbijanju. Društva za osiguranje će Agenciji za plaćanja dostavljati podatke u ukupnoj vrijednosti naplaćenih šteta po policama osiguranja koje su sufinancirane iz podintervencije 76.01.01.
+(2) Prava i obveze Agencije za plaćanja i društava za osiguranje bit će regulirana Sporazumom o suradnji i po potrebi njihovim dodatcima. Police osiguranja društava za osiguranje koja nisu sklopila Sporazum o suradnji s Agencijom za plaćanja (ili odgovarajuće dodatke sporazumu), nisu prihvatljive za sufinanciranje u sklopu podintervencije 76.01.01.
+(3) Kako bi se umanjila mogućnost pogrešaka koje se odnose na podatke o česticama koje su evidentirane u ARKOD sustavu (broj čestice, površina), a koji se unose u police osiguranja, uspostavljena je razmjena podataka koji su javno dostupni putem web servisa.
