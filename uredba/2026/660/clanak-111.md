@@ -1,0 +1,2 @@
+# Članak 111.
+Do stupanja na snagu posebnog propisa kojim će se urediti nazivi i koeficijenti za obračun plaće za odnosna radna mjesta, na položaj voditelja područne službe primjenjivat će se odredbe o koeficijentu za obračun plaće, platnom razredu i uvjetima za raspored propisane za jedinstveno radno mjesto voditelja službe, a na položaj voditelja ispostave primjenjivat će se odredbe o koeficijentu za obračun plaće, platnom razredu i uvjetima za raspored propisane za jedinstveno radno mjesto voditelja odjela.

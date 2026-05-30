@@ -1,0 +1,9 @@
+## 11. SEKTOR ZA DIGITALIZACIJU PODATKOVNE INFRASTRUKTURE I INOVATIVNU STATISTIKU
+# Članak 90.
+Sektor za digitalizaciju podatkovne infrastrukture i inovativnu statistiku obavlja poslove izrade i provedbe strategije razvoja digitalizacije podatkovne infrastrukture Zavoda, poslove projektiranja i izgradnje digitalne infrastrukture za uspostavu pristupa i preuzimanje podataka iz novih izvora podataka, uključujući i velike podatke (Big dana), te njihovu integraciju s postojećim bazama. Obavlja poslove vezane za tehnološki i funkcionalni razvoj podatkovne infrastrukture za uspostavu sustava pripreme podataka za ponovnu upotrebu (otvoreni podaci). Obavlja poslove vezane za definiranje i razvoj statističkih metoda za procese statističke proizvodnje te nacrte uzorka za statistička istraživanja; bavi se analiziranjem, sezonskim i kalendarskim prilagođavanjem vremenskih serija primjenom odgovarajućih metoda, te razvoj i uspostavu inovativnih statistika. Pruža tehničku potporu javnom sektoru za ponovnu upotrebnu podataka u dijelu koji uključuje mjere zaštite podataka uključujući tehnike kao što su pseudonimizacija i anonimizacija i sl. Surađuje s drugim ustrojstvenim jedinicama i drugim stručnim tijelima na nacionalnoj i međunarodnoj razini u obavljanju poslova iz svoga djelokruga. Provodi aktivnosti vezane uz razvoj sustava unutarnjih kontrola u svom djelokrugu te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru za digitalizaciju podatkovne infrastrukture i inovativnu statistiku ustrojavaju se:
+11.1. Služba za razvoj infrastrukture za integraciju s novim izvorima podataka
+11.2. Služba za projektiranje infrastrukture za integraciju s novim izvorima podataka
+11.3. Služba statističkih metoda i razvoja inovativnih statistika
+11.4. Služba za tehničku potporu javnom sektoru za ponovnu upotrebu podataka.
+11.1. Služba za razvoj infrastrukture za integraciju s novim izvorima podataka

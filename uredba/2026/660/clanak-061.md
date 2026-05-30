@@ -1,0 +1,6 @@
+# Članak 61.
+Služba statistike radne aktivnosti i životnih uvjeta obavlja sljedeće poslove: pripremu, izradu i razvoj metodologija i klasifikacija u skladu s međunarodnim statističkim standardima i nacionalnim potrebama, provedbu i obradu statističkih istraživanja kojima se prati statistika dohotka, potrošnje, radne aktivnosti stanovništva; analizu, publiciranje i diseminaciju statističkih podataka i pokazatelja domaćim korisnicima, Eurostatu i drugim međunarodnim korisnicima; proučava i definira nove (administrativne) izvore podataka radi smanjenja opterećenja ispitanika; u suradnji s ostalim nadležnim ustrojstvenim jedinicama Zavoda radi na standardizaciji kontrola prikupljenih podataka. Statistička istraživanja provode se prema metodologiji i preporukama Eurostata i međunarodnim klasifikacijama te u skladu s nacionalnim potrebama. Rezultati istraživanja se iskazuju prema osnovnim demografskim, ekonomskim i socijalnim karakteristikama kućanstava. Obavlja i druge poslove u okviru svoga djelokruga.
+U Službi statistike radne aktivnosti i životnih uvjeta ustrojavaju se:
+8.2.1. Odjel statistike radne aktivnosti
+8.2.2. Odjel statistike životnih uvjeta.
+8.2.1. Odjel statistike radne aktivnosti

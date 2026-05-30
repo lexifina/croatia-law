@@ -1,0 +1,3 @@
+# Članak 86.
+Odjel upravljanja mrežnom infrastrukturom i održavanja sigurnosti sustava obavlja sljedeće poslove: projektira komunikacijsku infrastrukturu, planira uvođenje, održavanje i upravljanje komunikacijskom i računalnom infrastrukturom, instalira i održava nadzorne i upravljačke komunikacijske programe, testira, prati rad i podešava parametre za bolje funkcioniranje komunikacijske i računalne opreme. Planira i provodi procedure za privremeno i trajno čuvanje podataka na magnetskim medijima. Obavlja i druge poslove u okviru svoga djelokruga.
+10.5. Služba tehničke podrške za prikupljanje podataka

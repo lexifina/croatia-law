@@ -1,0 +1,6 @@
+# Članak 46.
+Služba statistike zaštite okoliša i energije obavlja sljedeće poslove: izrađuje, razvija i objavljuje podatke iz područja statistike zaštite okoliša i statistike energije; provodi obradu, analizu, procjenjivanje, objavljivanje i međunarodnu razmjenu statističkih podataka za kompilaciju i izradu statistike zaštite okoliša i energije; izrađuje izvještaje o kvaliteti i druge relevantne pokazatelje za navedena područja prema nacionalnim zahtjevima i razvoju međunarodne statističke prakse; definira zahtjeve za informatičkom podrškom i ostalim tehničkim aspektima za provedbu istraživanja u statistici zaštite okoliša i statistici energije; sudjeluje u pripremi, definiranju i izradi novih metodologija, klasifikacija i izračuna sukladno propisima EU i stručnim preporukama Eurostata te dostavlja rezultate statističkih pokazatelja za statistiku zaštite okoliša i statistiku energije Republike Hrvatske u Eurostat. Služba prati stanje i predlaže mjere za unaprjeđenje poslovanja. Obavlja i druge poslove u okviru svoga djelokruga.
+U Službi statistike zaštite okoliša i energije ustrojavaju se:
+6.3.1. Odjel statistike zaštite okoliša
+6.3.2. Odjel statistike energije.
+6.3.1. Odjel statistike zaštite okoliša

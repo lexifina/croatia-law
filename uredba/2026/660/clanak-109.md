@@ -1,0 +1,3 @@
+# Članak 109.
+Pravilnikom o unutarnjem redu Zavoda utvrđuje se radna mjesta u Zavodu, potreban broj državnih službenika i namještenika na svakom mjestu i uvjeti za raspored s naznakom osnovnih poslova koji se obavljaju na svakom radnom mjestu, stručni i drugi uvjeti potrebni za njihovo obavljanje, potrebne kompetencije te druga pitanja od značenja za organizaciju i način rada Zavoda koja nisu uređena uredbom kojom se uređuju opća pravila za unutarnje ustrojstvo tijela državne uprave i ovom Uredbom.
+Pravilnik o unutarnjem redu Zavoda donosi glavni ravnatelj Zavoda, uz prethodno pribavljenu suglasnost tijela državne uprave nadležnog za službeničke odnose.

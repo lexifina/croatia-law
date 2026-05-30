@@ -1,0 +1,3 @@
+# Članak 92.
+Služba za projektiranje infrastrukture za integraciju s novim izvorima podataka obavlja sljedeće poslove: projektiranje digitalne infrastrukture za integraciju podatkovnih baza Zavoda i novih izvora podataka te uspostavu sustava pripreme podataka za ponovnu upotrebu (otvoreni podaci); upravljanje aktivnostima i praćene izgradnje infrastrukture integracije podatkovnih sustava Zavoda s novim izvorima podataka. Ostvaruje stručnu suradnju s drugim ustrojstvenim jedinicama Zavoda, te drugim tijelima javne vlasti, europskim i međunarodnim tijelima i organizacijama u pitanjima iz djelokruga Službe Obavlja i druge poslove u okviru svoga djelokruga.
+11.3. Služba statističkih metoda i razvoja inovativnih statistika

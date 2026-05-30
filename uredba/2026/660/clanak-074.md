@@ -1,0 +1,10 @@
+## 10. SEKTOR INFORMATIČKIH TEHNOLOGIJA
+# Članak 74.
+Sektor informatičkih tehnologija obavlja sljedeće poslove: pružanje tehnološke osnove za računalnu obradu statističkih istraživanja: planiranje, izbor i implementaciju informatičkih tehnologija kojima će se unaprijediti prikupljanje, obrada podataka statističkih istraživanja, izgraditi statističke baze podataka, uvesti suvremene metode diseminacije i razmjene statističkih podataka između tijela državne uprave i ostalih korisnika u zemlji i inozemstvu, te omogućiti podršku u odlučivanju temeljenom na kvalitetnim i pravovremenim statističkim podacima; planiranje, sudjelovanje u nabavi, implementaciji i održavanju računalnih resursa koji služe izgradnji i stalnom unaprjeđenju statističkog informacijskog sustava; analizira, koordinira i integrira standarde informacijske sigurnosti; primjenjuje standarde informacijske sigurnosti prema preporuka Eurostata. Sektor daje podršku ustrojstvenim jedinicama Zavoda u korištenju novih informatičkih tehnologija te postupku obrade velikih i nestandardnih statističkih istraživanja (npr. Popis stanovništva). Sudjeluje u planiranju i provedbi projekata iz svoga djelokruga koji se financiraju iz sredstava EU, uključujući darovnice. Surađuje s drugim ustrojstvenim jedinicama i drugim stručnim tijelima na nacionalnoj i međunarodnoj razini u obavljanju poslova iz svoga djelokruga. Sudjeluje u izradi strateških i programskih dokumenata, planova i izvješća iz svoga djelokruga. Provodi aktivnosti vezane uz razvoj sustava unutarnjih kontrola u svom djelokrugu te obavlja i druge poslove u okviru svoga djelokruga.
+U Sektoru informatičkih tehnologija ustrojavaju se:
+10.1. Služba za projektiranje, razvoj, integraciju i održavanje informatičkih sustava
+10.2. Služba za organizaciju, održavanje, testiranje i nadogradnju sustava obrade podataka
+10.3. Služba izrade programske podrške za obradu podataka i proizvodnju rezultata
+10.4. Služba informatičkih infrastruktura, podrške i kibernetičke sigurnosti
+10.5. Služba tehničke podrške za prikupljanje podataka.
+10.1. Služba za projektiranje, razvoj, integraciju i održavanje informatičkih sustava
