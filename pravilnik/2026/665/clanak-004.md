@@ -1,0 +1,9 @@
+## UTVRĐIVANJE DOPUNSKE POREZNE OBVEZE
+## Podaci za utvrđivanje dopunske porezne obveze
+# Članak 4.
+(1) Na temelju članka 46. stavka 8. Zakona, odgovorni subjekt dužan je za Podskupinu RH preuzeti i obveze vezane uz podnošenje i osiguravanje dostupnosti podataka sadržanih u prijavi iz članka 46. stavka 7. Zakona, koja se ovisno o propisanim uvjetima podnosi prema članku 46. stavku 2. ili stavku 3. Zakona i koja ovisno o propisanim uvjetima sadrži podatke iz članka 46. stavka 5. ili stavka 6. Zakona.
+(2) Sukladno članku 46. stavku 10. Zakona, smatra se da je prijava iz članka 46. stavka 7. Zakona podnesena, ako je podnesena prijava s informacijama o dopunskom porezu u skladu s propisima o administrativnoj suradnji u području poreza.
+(3) Propisima o administrativnoj suradnji u području poreza iz stavka 2. ovoga članka smatraju se Zakon o administrativnoj suradnji u području poreza i Pravilnik o automatskoj razmjeni informacija u području poreza, u dijelovima koji utvrđuju postupak podnošenja, sadržaj, oblik, pojmove i pravila za ispunjavanje prijave s informacijama o dopunskom porezu.
+(4) Ako odgovorni subjekt utvrdi kako u propisanom roku iz članka 46. stavka 7. Zakona neće biti u drugoj državi ili jurisdikciji podnesena prijava iz stavka 2. ovoga članka ili neće biti moguće osigurati dostupnost podataka iz podnesene prijave iz stavka 2. ovoga članka u drugoj državi ili jurisdikciji, a prijavu ne podnese drugi subjekt iz Podskupine RH prema propisima iz stavka 3. ovoga članka, odgovorni subjekt je dužan postupiti prema stavku 1. ovoga članka.
+(5) U slučaju iz stavka 4. ovoga članka odgovorni subjekt primjenjuje posebne propise iz stavka 3. ovoga članka.
+(6) Ako odgovorni subjekt ne postupi prema stavku 4. ovoga članka, Porezna uprava može postupiti na način utvrđen člankom 2. stavkom 7. ovoga Pravilnika te pozvati odgovornog subjekta ili bilo kojeg sastavnog subjekta za podnošenje prijave iz stavka 2. ovoga članka.

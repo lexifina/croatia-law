@@ -1,0 +1,10 @@
+## ODGOVORNI SASTAVNI SUBJEKT
+## Prijava odgovornog subjekta
+# Članak 2.
+(1) Odgovorni subjekt iz članka 46. stavka 8. Zakona dužan je utvrditi za skupinu multinacionalnog poduzeća (u daljnjem tekstu: skupina MNP) ili veliku domaću skupinu sve sastavne subjekte, koji su u Republici Hrvatskoj obveznici primjene Zakona i koji moraju biti uključeni u izračun dopunskih poreznih obveza utvrđenih člankom 5. stavkom 5. Zakona.
+(2) Za potrebe primjene ovoga Pravilnika, svi sastavni subjekti skupine MNP ili velike domaće skupine koji se nalaze u Republici Hrvatskoj, a koji su utvrđeni kao obveznici primjene Zakona nazivaju se Podskupina RH.
+(3) Odgovorni subjekt utvrđuje za Podskupinu RH pod kojim nazivom će ista biti evidentirana za potrebe primjene Zakona i ovoga Pravilnika, a to može biti naziv koji se koristi pri sastavljanju konsolidiranih financijskih izvještaja.
+(4) Odgovorni subjekt iz stavka 1. ovoga članka dužan je do zadnjeg dana utvrđenog za podnošenje prijave iz članka 49. stavka 1. Zakona dostaviti u Poreznu upravu informaciju o preuzimanju svih prava i obveza iz porezno-pravnog odnosa u skladu s općim poreznim propisom koja se odnosi na primjenu Zakona za određenu Podskupinu RH.
+(5) Uz informaciju iz stavka 4. ovoga članka odgovorni subjekt dostavlja popis sastavnih subjekata Podskupine RH za koje je u skladu s člankom 46. stavkom 8. Zakona preuzeo sva prava i obveze iz porezno-pravnog odnosa u skladu s općim poreznim propisom.
+(6) Podatke iz stavaka 3., 4. i 5. ovoga članka, odgovorni subjekt dostavlja ovisno o utvrđenim obvezama iz Zakona i ovoga Pravilnika na Obrascu MGP - DP1 iz članka 6. ovoga Pravilnika ili/i na Obrascu MGP - DP2 iz članka 7. ovoga Pravilnika.
+(7) Ako sastavni subjekti Podskupine RH ne postupe prema odredbama članka 46. stavka 8. Zakona i ovoga članka, Porezna uprava će pozvati bilo kojeg sastavnog subjekta Podskupine RH za ispunjenje obveze, kada prema dostupnim javnim podacima i evidencijama s kojima raspolaže utvrdi postojanje obveza iz Zakona.
