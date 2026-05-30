@@ -1,0 +1,11 @@
+# Članak 13.
+(1) Učenici obveznici i Učenici ostali u kalendarskoj godini u kojoj završavaju završni razred srednjeg obrazovanja imaju pravo na polaganje prijavljenih ispita državne mature bez obveze plaćanja novčane naknade.
+(2) Pristupnici iz RH i Pristupnici izvan RH imaju pravo na polaganje prijavljenih ispita državne mature uz obvezu plaćanja novčane naknade.
+(3) Iznimno od stavka 2. ovoga članka, Pristupnici izvan RH koji su hrvatski državljani, u kalendarskoj godini u kojoj završavaju završni razred srednjeg obrazovanja, imaju pravo na polaganje prijavljenih ispita državne mature bez obveze plaćanja novčane naknade.
+(4) Pristupnici iz stavka 2. ovoga članka koji su izvršili uplatu novčane naknade, a naknadno opravdaju svoj izostanak sukladno članku 14. stavku 3, imaju pravo na polaganje tog ispita državne mature na prvom sljedećem ispitnom roku bez obveze plaćanja novčane naknade ili pravo na povrat sredstava.
+(5) Učenici iz stavka 1. i pristupnici iz stavka 3. ovoga članka koji zbog opravdanih razloga iz članka 13. stavka 2. nisu iskoristili pravo polaganja ispita državne mature bez plaćanja novčane naknade imaju pravo na polaganje prijavljenih ispita državne mature bez obveze plaćanja novčane naknade na prvom sljedećem roku.
+(6) Učenici i pristupnici s invaliditetom koji imaju stupanj tjelesnog oštećenja 60 posto i više (prema rješenju koje izdaje Hrvatski zavod za mirovinsko osiguranje) imaju trajno pravo na polaganje prijavljenih ispita državne mature bez obveze plaćanja novčane naknade uz dostavljanje dokaza o invaliditetu Centru.
+(7) Obveznici plaćanja novčane naknade istu su dužni uplatiti najkasnije 30 dana prije početka prvoga ispitnog roka, odnosno 15 dana prije početka drugoga ispitnog roka.
+(8) Obveznicima plaćanja novčane naknade koji nisu novčanu naknadu uplatili u rokovima iz stavka 7. ovoga članka prijavljeni ispiti bit će odjavljeni i neće moći pristupiti polaganju ispita u ispitnome roku.
+(9) Obveznicima plaćanja novčane naknade kojima je izrečena mjera poništavanja svih ispita i zabrana polaganja svih ispita na jednom ispitnom roku, uplaćena naknada neće biti vraćena.
+(10) Iznos novčane naknade za polaganje ispita državne mature za pojedine kategorije pristupnika utvrđuje se odlukom Vlade Republike Hrvatske.

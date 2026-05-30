@@ -1,0 +1,7 @@
+# Članak 16.
+(1) U jednome danu mogu se polagati najviše dva ispita državne mature.
+(2) Ako učenik, odnosno pristupnik zakasni na početak ispita manje od 30 minuta, može pristupiti polaganju ispita, pri čemu mu se vrijeme polaganja ne produžuje.
+(3) Na ispit državne mature koji se sastoji od više dijelova, a koji se provodi s kraćim prekidom između tih dijelova, učenik odnosno pristupnik može pristupiti polaganju ispita samo ako je zakasnio na početak prvog dijela ispita manje od 30 minuta, pri čemu mu se vrijeme polaganja ispita ne produžuje.
+(4) Ako učenik, odnosno pristupnik zakasni na početak ispita državne mature više od 30 minuta ili zakasni na ispit ili dio ispita koji uključuje slušanje i/ili reprodukciju zvučnih zapisa, ne može pristupiti ispitu te će se smatrati da je iskoristio ispitni rok.
+(5) Iznimno od stavka 4. ovoga članka ako učenik odnosno pristupnik zbog opravdanog razloga zakasni na ispit državne mature više od 30 minuta ili zakasni na ispit ili dio ispita koji uključuje slušanje i/ili reprodukciju zvučnih zapisa, ispitno povjerenstvo odnosno Centar može odlučiti da učenik odnosno pristupnik nije iskoristio ispitni rok na kojem je zakasnio na ispit.
+(6) Opravdanim razlogom iz stavka 5. ovoga članka smatra se onaj razlog koji je bio takve naravi da je onemogućio učenika odnosno pristupnika da pristupi ispitu državne mature na vrijeme, a dokazuje se vjerodostojnom dokumentacijom.
