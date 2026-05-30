@@ -1,0 +1,1 @@
+Na temelju članka 71. stavka 6. Zakona o pružanju usluga u turizmu (»Narodne novine«, br. 130/17, 25/19, 98/19, 42/20, 70/21 i 126/25) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23), ministar turizma i sporta uz prethodnu suglasnost ministra vanjskih i europskih poslova i prethodno mišljenje ministra nadležnog za obrazovanje, donosi

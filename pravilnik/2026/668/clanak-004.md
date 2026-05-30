@@ -1,0 +1,7 @@
+# Članak 4.
+(1) Stručni ispit za turističkog vodiča (u daljnjem tekstu: stručni ispit) sastoji se od općeg i posebnog dijela.
+(2) Opći dio stručnog ispita polaže se za područje Republike Hrvatske.
+(3) Posebni dio stručnog ispita polaže se po regijama za zaštićene cjeline (lokalitete) kako su utvrđene posebnim propisom kojim se uređuje popis zaštićenih cjelina (lokaliteta).
+(4) Posebnom dijelu stručnog ispita može pristupiti kandidat koji je položio opći dio stručnog ispita.
+(5) Kandidatu koji traži priznavanje inozemnih stručnih kvalifikacija u svrhu ostvarivanja prava na poslovni nastan za pružanje usluga turističkog vodiča, postojanje obveze i opseg polaganja stručnog ispita utvrđuje se rješenjem u skladu s posebnim propisima kojima se uređuje priznavanje inozemnih stručnih kvalifikacija.
+(6) Iznimno od stavka 4. ovoga članka, posebnom dijelu stručnog ispita koji se odnosi na lokalitete vezane uz Domovinski rat može pristupiti kandidat državljanin druge države ugovornice Ugovora o Europskom gospodarskom prostoru i Švicarske Konfederacije koji ispunjava uvjete za pružanje usluga turističkog vodiča na privremenoj i povremenoj osnovi u Republici Hrvatskoj sukladno posebnim propisima kojima se uređuje priznavanje inozemnih stručnih kvalifikacija, bez obveze polaganja općeg dijela stručnog ispita i posebnog dijela stručnog ispita koji se odnosi na zaštićene cjeline (lokalitete) koji nisu vezani uz Domovinski rat.
