@@ -1,0 +1,4 @@
+# Članak 62.
+U članku 240. stavku 1. iza riječi: »koja obavlja djelatnost zastupanja ili posredovanja za digitalnu radnu platformu obavljanje te djelatnosti,« dodaju se riječi: »putem svih takvih platformi«, a iza riječi: »ako utvrdi da je tijekom nadzora za poslodavca« dodaju se riječi: »ili korisnika, kada je poslodavac agencija za privremeno zapošljavanje,«.
+Stavak 4. mijenja se i glasi:
+»(4) Kada policijski službenik Ministarstva, postupajući u okviru svog djelokruga, utvrdi da je za poslodavca radio državljanin treće zemlje protivno odredbama ovoga Zakona kojim je propisana obveza ishođenja dozvole za boravak i rad ili potvrde o prijavi rada, podnijet će optužni prijedlog ili izdati prekršajni nalog protiv radnika - državljanina treće zemlje i o tome bez odgode obavijestiti nadležno tijelo iz članka 239. stavka 1. ovoga Zakona.«.

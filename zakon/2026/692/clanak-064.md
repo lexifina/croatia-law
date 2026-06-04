@@ -1,0 +1,17 @@
+# Članak 64.
+U članku 247. stavku 2. točki 1. podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+U točki 2. podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+U točki 3. riječi: »a poslodavac:« zamjenjuju se riječima: »ako poslodavac:«.
+U podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+Na kraju podstavka 3. briše se točka i dodaju se podstavci 4., 5. i 6. koji glase:
+» - zapošljava ili se koristi radom državljanina treće zemlje na području onih policijskih uprava u kojima zanimanje za koje je izdana potvrda iz članka 91. stavka 3. podstavka 1. i stavka 4. ovoga Zakona odnosno dano pozitivno mišljenje Hrvatskog zavoda za zapošljavanje iz članka 100. stavka 6. ili članka 103.c stavka 5. ili članka 103.d stavka 6. ili članka 103.e stavka 5. ovoga Zakona odnosno koji je naveden u potvrdi iz članka 91. stavka 3. podstavaka 2. do 4. ovoga Zakona nije deficitarno (članak 88. stavak 11.)
+- zapošljava ili se koristi radom državljanina treće zemlje na poslovima odnosno na području onih policijskih uprava koje nisu navedene u članku 110. točki 32. (članak 88. stavak 14.)
+- zapošljava ili se koristi radom državljanina treće zemlje na području onih policijskih uprava u kojima nije proveden test tržišta rada za zanimanje za koje je poslodavcu izdana potvrda iz članka 91. stavka 3. podstavka 1. i stavka 4. ovoga Zakona odnosno dano pozitivno mišljenje Hrvatskog zavoda za zapošljavanje iz članka 100. stavka 6. ili članka 103.c stavka 5. ili članka 103.d stavka 6. ili članka 103.e stavka 5. ovoga Zakona odnosno koje je navedeno u potvrdi iz članka 91. stavka 3. podstavaka 2. do 4. ovoga Zakona (članak 88. stavak 16.).«.
+U stavku 6. točki 1. podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+U točki 3. riječi: »a korisnik:« zamjenjuju se riječima: »ako korisnik:«.
+Na kraju podstavka 2. briše se točka i dodaju se podstavci 3. i 4. koji glase:
+» - koristi rad državljanina treće zemlje na području onih policijskih uprava u kojima zanimanje za koje je korisniku izdana potvrda iz članka 91. stavka 4. ovoga Zakona odnosno dano pozitivno mišljenje Hrvatskog zavoda za zapošljavanje iz članka 100. stavka 6. ovoga Zakona odnosno koji je naveden u potvrdi iz članka 91. stavka 4. ovoga Zakona nije deficitarno (članak 88. stavak 12.)
+- koristi rad državljanina treće zemlje na području onih policijskih uprava u kojima nije proveden test tržišta rada za zanimanje za koje je korisniku izdana potvrda iz članka 91. stavka 4. ovoga Zakona odnosno dano pozitivno mišljenje Hrvatskog zavoda za zapošljavanje iz članka 100. stavka 6. ovoga Zakona odnosno koji je naveden u potvrdi iz članka 91. stavka 4. ovoga Zakona (članak 88. stavak 17.).«.
+Iza stavka 6. dodaje se novi stavak 7. koji glasi:
+»(7) Za prekršaje iz stavka 6. ovoga članka kaznit će se novčanom kaznom u iznosu od 1500,00 do 3000,00 eura za svakog državljanina treće zemlje odgovorna osoba u korisniku - pravnoj osobi.«.
+Dosadašnji stavci 7. - 10. postaju stavci 8. - 11.

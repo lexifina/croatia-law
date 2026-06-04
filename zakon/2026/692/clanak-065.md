@@ -1,0 +1,10 @@
+# Članak 65.
+U članku 250. stavku 1. podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+U stavku 2. podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+U stavku 3. riječi: »iz članka 129. stavaka 7. i 9.« zamjenjuju se riječima: »iz članka 129. stavaka 7., 8. i 10.«.
+U stavku 4. podstavku 2. riječi: »članka 103.c stavka 4.« zamjenjuju se riječima: »članka 103.c stavka 5.«, a riječi: »članka 103.d stavka 3.« zamjenjuju se riječima: »članka 103.d stavka 6.«.
+Na kraju podstavka 3. briše se točka i dodaju se podstavci 4., 5. i 6. koji glase:
+» - radi na području onih policijskih uprava u kojima zanimanje za koje mu je izdana potvrda iz članka 91. stavka 3. podstavka 1. i stavka 4. ovoga Zakona odnosno dano pozitivno mišljenje Hrvatskog zavoda za zapošljavanje iz članka 100. stavka 6. ili članka 103.c stavka 5. ili članka 103.d stavka 6. ili članka 103.e stavka 5. ovoga Zakona odnosno koji je naveden u potvrdi iz članka 91. stavka 3. podstavaka 2. do 4. ovoga Zakona nije deficitarno (članak 88. stavak 10.)
+- radi na poslovima odnosno na području onih policijskih uprava koje nisu navedene u članku 110. točki 32. ovoga Zakona (članak 88. stavak 13.)
+- radi na području onih policijskih uprava u kojima nije proveden test tržišta rada za zanimanje za koje mu je izdana potvrda iz članka 91. stavka 3. podstavka 1. i stavka 4. ovoga Zakona odnosno dano pozitivno mišljenje Hrvatskog zavoda za zapošljavanje iz članka 100. stavka 6. ili članka 103.c stavka 5. ili članka 103.d stavka 6. ili članka 103.e stavka 5. ovoga Zakona odnosno koji je naveden u potvrdi iz članka 91. stavka 3. podstavaka 2. do 4. ovoga Zakona (članak 88. stavak 15.).«.
+U stavku 5. podstavku 1. riječi: »iz članka 129. stavaka 7. i 9.« zamjenjuju se riječima: »iz članka 129. stavaka 7., 8. i 10.«.

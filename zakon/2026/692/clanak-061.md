@@ -1,0 +1,3 @@
+# Članak 61.
+U članku 239. stavak 1. mijenja se i glasi:
+»(1) Inspekcijski nadzor nad provedbom odredbi ovoga Zakona koje se odnose na rad državljana trećih zemalja te na uvjete rada i prava upućenih radnika obavljaju inspektori i državni službenici nadležnih tijela državne uprave u okviru svoje nadležnosti, sukladno posebnim propisima, a inspekcijski nadzor nad smještajem sezonskih radnika iz članka 104. ovoga Zakona i smještajem državljana trećih zemalja kojima je izdana dozvola za boravak i rad na temelju članka 97. ovoga Zakona ili je produljena kada smještaj osigurava poslodavac ili je posrednik u osiguravanju smještaja obavljaju inspektori Državnog inspektorata.«.
