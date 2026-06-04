@@ -1,0 +1,3 @@
+# Članak 15.
+(1) Odredbama ove glave ne umanjuje se pravo manje značajnoga nadziranog subjekta da Hrvatskoj narodnoj banci podnese zahtjev za izdavanje prethodnog odobrenja za uključivanje dobiti tekuće godine ostvarene tijekom poslovne godine ili dobiti tekuće godine ostvarene na kraju poslovne godine u redovni osnovni kapital o kojemu će Hrvatska narodna banka odlučiti rješenjem.
+(2) Ako Hrvatska narodna banka ocijeni da nisu ispunjeni uvjeti iz članka 26. stavka 2. Uredbe (EU) br. 575/2013, obavijest iz članka 12. stavka 1. ove Odluke smatrat će se zahtjevom te će Hrvatska narodna banka rješenjem odbiti taj zahtjev.

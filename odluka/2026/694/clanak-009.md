@@ -1,0 +1,3 @@
+# Članak 9.
+(1) Ako nakon izdavanja odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala Europsko nadzorno tijelo za bankarstvo u vezi s člankom 80. Uredbe (EU) br. 575/2013. izda mišljenje u vezi s propisanim uvjetima, Hrvatska narodna banka može pri obavljanju supervizije preispitati usklađenost instrumenta s tim mišljenjem.
+(2) Ocijeni li Hrvatska narodna banka da instrument nije u skladu s mišljenjem iz stavka 1. ovog članka, naložit će manje značajnom nadziranom subjektu da uskladi instrument s mišljenjem Europskoga nadzornog tijela za bankarstvo, izradi procjenu usklađenosti instrumenta s propisanim uvjetima u skladu s člankom 6. ove Odluke i dostavi usklađenu dokumentaciju i procjenu Hrvatskoj narodnoj banci.

@@ -1,0 +1,1 @@
+Odluka o dokumentaciji koja se prilaže zahtjevu za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala i postupku uključivanja dobiti tekuće godine u redovni osnovni kapital

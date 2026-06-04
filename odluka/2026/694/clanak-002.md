@@ -1,0 +1,9 @@
+# Članak 2.
+(1) U smislu ove Odluke, pojedini pojmovi imaju sljedeće značenje:
+1. Zakon je Zakon o kreditnim institucijama (»Narodne novine«, br. 22/2026.) i sve njegove izmjene i dopune.
+2. Uredba (EU) br. 575/2013 jest Uredba (EU) br. 575/2013 Europskog parlamenta i Vijeća od 26. lipnja 2013. o bonitetnim zahtjevima za kreditne institucije i investicijska društva i o izmjeni Uredbe (EU) br. 648/2012 (Službeni list EU L 176/2013) i sve njezine izmjene i dopune.
+3. Delegirana uredba Komisije (EU) br. 241/2014 jest Delegirana uredba Komisije (EU) br. 241/2014 od 7. siječnja 2014. o dopuni Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća u pogledu regulatornih tehničkih standarda za kapitalne zahtjeve za institucije (Službeni list EU L 74/2014) i sve njezine izmjene i dopune.
+4. Provedbena uredba Komisije (EU) br. 2024/3172 jest Provedbena uredba Komisije (EU) 2024/3172 od 29. studenoga 2024. o utvrđivanju provedbenih tehničkih standarda za primjenu Uredbe (EU) br. 575/2013 Europskog parlamenta i Vijeća u pogledu informacija iz dijela osmog glava II. i III. te uredbe koje institucije javno objavljuju i stavljanju izvan snage Provedbene uredbe Komisije (EU) 2021/637 i sve njezine izmjene i dopune.
+5. Uredba (EU) br. 1024/2013 jest Uredba Vijeća (EU) br. 1024/2013 od 15. listopada 2013. o dodjeli određenih zadaća Europskoj središnjoj banci u vezi s politikama bonitetnog nadzora kreditnih institucija (Službeni list EU L 287/2013) i sve njezine izmjene i dopune.
+6. Zakon o trgovačkim društvima jest Zakon o trgovačkim društvima (»Narodne novine«, br. 111/1993., 34/1999, 121/1999., 52/2000., 118/2003., 107/2007., 146/2008., 137/2009., 125/2011., 152/2011., 111/2012., 68/2013., 110/2015., 40/2019., 34/2022., 114/2022., 18/2023., 130/2023., 136/2024.) i sve njegove izmjene i dopune.
+(2) Ostali pojmovi iz ove Odluke imaju istovjetno značenje kao pojmovi upotrijebljeni u propisima iz stavka 1. ovog članka.
