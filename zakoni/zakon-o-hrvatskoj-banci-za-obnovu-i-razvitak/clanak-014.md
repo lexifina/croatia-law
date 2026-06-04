@@ -1,0 +1,7 @@
+## Razmjena informacija za potrebe procjene kreditne sposobnosti ili upravljanja kreditnim rizikom
+# Članak 14.
+(1) Hrvatska banka za obnovu i razvitak i kreditne institucije sa sjedištem u Republici Hrvatskoj koje imaju odobrenje za rad, kao i kreditne institucije koje su na temelju zakona kojim se uređuju kreditne institucije ovlaštene pružati uzajamno priznate usluge na području Republike Hrvatske dužne su, na zahtjev, međusobno razmjenjivati informacije, uključujući osobne podatke koji se odnose na njihove klijente ili su u vezi s njihovim klijentima, u svrhu procjene kreditne sposobnosti ili upravljanja kreditnim rizikom.
+(2) Informacije i osobni podaci koji se moraju razmjenjivati u skladu sa stavkom 1. ovoga članka moraju biti nužni za procjenu kreditne sposobnosti ili upravljanje kreditnim rizikom, a što uključuje kategorije informacija i osobnih podataka propisane zakonom kojim se uređuju kreditne institucije.
+(3) Informacije i osobni podaci iz ovoga članka mogu se razmjenjivati najdulje četiri godine od dana kada je obveza u potpunosti podmirena ili na drugi način zatvorena.
+(4) Hrvatska banka za obnovu i razvitak i kreditne institucije ne smiju odbiti razmjenu informacija i osobnih podataka iz ovoga članka na temelju činjenice da Hrvatska banka za obnovu i razvitak ili kreditna institucija koristi drukčiji način razmjene podataka.
+(5) Razmjena informacija i osobnih podataka iz ovoga članka može se odvijati i posredstvom pravne osobe koja prikuplja i razmjenjuje podatke između kreditnih i/ili financijskih institucija.
