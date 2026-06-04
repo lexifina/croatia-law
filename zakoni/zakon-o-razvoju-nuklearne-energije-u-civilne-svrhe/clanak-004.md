@@ -1,0 +1,13 @@
+## Pojmovi i definicije
+# Članak 4.
+(1) Pojedini pojmovi u smislu ovoga Zakona imaju sljedeće značenje:
+1. Akcijski plan za razvoj nuklearne energije u civilne svrhe (u daljnjem tekstu: Plan) – definira aktivnosti, nositelje i rokove potrebne za razvoj nuklearne energije u civilne svrhe u Republici Hrvatskoj
+2. dekarbonizacija – sustavni proces smanjenja emisija stakleničkih plinova, osobito ugljikova (IV) oksida, kroz prijelaz na niskougljične i klimatski neutralne tehnologije i izvore energije, u skladu s tehničkim kriterijima i ciljem postizanja klimatske neutralnosti do 2050. godine
+3. mikro nuklearni reaktori (u daljnjem tekstu: MNR – engl. Micro Modular Reactors) – su nuklearni reaktori vrlo male snage, dizajnirani da budu kompaktni, sigurni i jednostavni za instalaciju, dužeg ciklusa, automatskog načina rada, obično namijenjeni za otočni režim pogona
+4. mali modularni reaktori (u daljnjem tekstu: MMR – engl. Small Modular Reactors) – napredni nuklearni sustavi male i srednje snage, projektirani za serijsku izgradnju, fleksibilno upravljanje i povećanu sigurnost unutar tehnologija 3. i 3+ generacije nuklearnih elektrana
+5. napredni modularni reaktori (u daljnjem tekstu: NMR – engl. Advanced Modular Reactors) – napredni nuklearni sustavi male i srednje snage, projektirani za serijsku izgradnju, fleksibilno upravljanje i povećanu sigurnost unutar tehnologije 4. generacije nuklearnih elektrana
+6. nuklearne elektrane – energetska postrojenja koja koriste nuklearne reakcije u reaktoru za proizvodnju električne i toplinske energije
+7. nuklearna infrastruktura – obuhvaća sveobuhvatne i dugoročne regulatorne, tehničke i institucionalne okvire za sigurnu primjenu nuklearne energije
+8. Program za razvoj nuklearne energije u civilne svrhe (u daljnjem tekstu: Program) – uključuje elemente u svrhu ostvarenja cilja, korake za ostvarenje cilja razvoja i primjene nuklearne energije u civilne svrhe
+9. referentna nuklearna elektrana – nuklearno energetsko postrojenje licencirano i s dozvolom za gradnju u zemlji nositelja tehnologije prema općeprihvaćenim smjernicama nuklearne sigurnosti kako ih definira Međunarodna agencija za atomsku energiju (u daljnjem tekstu: MAAE), Euratom i Američka nuklearna regulatorna komisija. Tehnologija na kojoj se bazira referentna nuklearna elektrana mora biti provjerena i uspješno demonstrirana na elektranama koje su u pogonu u zemlji nositeljici tehnologije.
+(2) Pojmovi uporabljeni u ovom Zakonu imaju značenje određeno zakonom kojim se uređuje područje radiološke i nuklearne sigurnosti te drugim propisima kojima se regulira ovo područje.
