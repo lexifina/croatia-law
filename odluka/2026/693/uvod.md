@@ -1,0 +1,1 @@
+Na temelju članka 97. stavka 13. Zakona o kreditnim institucijama (»Narodne novine«, br. 22/2026.; u daljnjem tekstu: Zakon o kreditnim institucijama) i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi

@@ -1,0 +1,7 @@
+## II. NAČIN PROVEDBE SUPERVIZIJE
+## II.1. SUPERVIZIJA KONTINUIRANIM NADZOROM
+## Način provođenja kontinuiranog nadzora
+# Članak 3.
+(1) Superviziju kontinuiranim nadzorom obavljaju ovlaštenici po zaposlenju.
+(2) Supervizijom kontinuiranim nadzorom Hrvatska narodna banka analizira supervizorske podatke koje su kreditne institucije dužne dostavljati Hrvatskoj narodnoj banci, druga izvješća i informacije koje kreditna institucija dostavlja Hrvatskoj narodnoj banci, nesupervizorske podatke o kreditnoj instituciji koji su javno dostupni, izvještaj o provedenom neposrednom nadzoru i podatke prikupljene supervizorskim upitima kreditnoj instituciji odnosno putem sastanaka s predstavnicima kreditne institucije, njezinim vanjskim revizorima financijskih izvještaja te drugim supervizorima i predstavnicima relevantnih nadležnih tijela u Republici Hrvatskoj i inozemstvu, kao i podatke iz drugih izvora.
+(3) Hrvatska narodna banka postupak supervizorske provjere i ocjene iz članka 98. Zakona o kreditnim institucijama provodi u skladu s odredbama Zakona o kreditnim institucijama i ove Odluke, smjernicama kojima se uređuju zajednički postupci i metodologijama za postupak nadzorne provjere i ocjene i nadzorno testiranje otpornosti na stres koje donosi Europsko nadzorno tijelo za bankarstvo te u skladu s metodologijama provođenja supervizorske provjere i ocjene Europske središnje banke i Hrvatske narodne banke.
