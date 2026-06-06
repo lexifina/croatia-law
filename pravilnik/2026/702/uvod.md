@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 7. Zakona o osobnoj asistenciji (»Narodne novine«, br. 71/23., 154/25. - Odluka Ustavnog suda Republike Hrvatske i 157/25. - Uredba o izmjenama Zakona o osobnoj asistenciji), ministar rada, mirovinskoga sustava, obitelji i socijalne politike donosi
