@@ -1,0 +1,2 @@
+# Članak 2.
+Status osiguranika dopunskoga zdravstvenog osiguranja (u daljnjem tekstu: osiguranik) stječe osigurana osoba Zavoda obvezno zdravstveno osigurana u skladu sa zakonom kojim se uređuje obvezno zdravstveno osiguranje (u daljnjem tekstu: osigurana osoba) koja je, u skladu sa Zakonom o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, broj 85/06., 150/08., 71/10., 53/20., 120/21. i 23/23. - u daljnjem tekstu: Zakon) i općim aktima Zavoda donesenim na temelju Zakona, sklopila sa Zavodom ugovor o dopunskom zdravstvenom osiguranju.

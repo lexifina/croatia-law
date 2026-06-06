@@ -1,0 +1,1 @@
+Na osnovi članka 14.g Zakona o dobrovoljnom zdravstvenom osiguranju (»Narodne novine«, broj 85/06., 150/08., 71/10., 53/20., 120/21. i 23/23.) i članka 32. stavka 1. točke 5. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, 74/25.), Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 46. sjednici održanoj 26. svibnja 2026. godine donijelo je
