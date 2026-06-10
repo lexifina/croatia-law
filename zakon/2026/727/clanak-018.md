@@ -1,0 +1,2 @@
+# Članak 18.
+Tijekom prve tri godine primjene zahtjeva za izvještavanje o održivosti iz članaka 5. i 8. ovoga Zakona, ako nisu dostupne sve potrebne informacije o njegovu lancu vrijednosti, poduzetnik odnosno matično društvo opisuje napore koje je uložio u pribavljanje potrebnih informacija o svojem lancu vrijednosti, razloge zbog kojih nije bilo moguće pribaviti sve potrebne informacije te planove za pribavljanje svih potrebnih informacija u budućnosti.
