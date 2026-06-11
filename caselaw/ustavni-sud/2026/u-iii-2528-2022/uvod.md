@@ -1,0 +1,1 @@
+Ustavni sud Republike Hrvatske, u Drugom vijeću za odlučivanje o ustavnim tužbama, u sastavu sudac Ante Galić, predsjednik Vijeća, te suci Andrej Abramović, Lovorka Kušan, Rajko Mlinarić, Frane Staničić i Miroslav Šumanović, u postupku koji je ustavnom tužbom pokrenula X.Y. iz S., koju zastupa V. P., odvjetnik u S., na sjednici održanoj 11. lipnja 2026. jednoglasno je donio
