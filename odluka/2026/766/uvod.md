@@ -1,0 +1,1 @@
+Na temelju članka 43. stavka 1. Zakona o cestama (»Narodne novine« br. 84/11., 22/13., 54/13., 148/13., 92/14., 110/19., 144/21., 114/22., 4/23. - Odluka Ustavnog suda Republike Hrvatske, 133/23. i 156/25.), Vlada Republike Hrvatske je na sjednici održanoj 11. lipnja 2026. donijela
