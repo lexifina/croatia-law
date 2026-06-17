@@ -1,0 +1,4 @@
+# Članak 3.
+U članku 27.a stavci 1. i 2. mijenjaju se i glase:
+»(1) Odvjetnička društva iz države članice Europske unije, države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj i iz države članice Svjetske trgovinske organizacije mogu u Republici Hrvatskoj osnivati svoje podružnice, sukladno obvezama Republike Hrvatske prema međunarodnim ugovorima, zakonu kojim se uređuju trgovačka društva i ovom Zakonu.
+(2) Podružnice odvjetničkih društava iz države članice Europske unije i države pristupnice Kodeksa o liberalizaciji kretanja kapitala i Kodeksa o liberalizaciji nevidljivih transakcija Organizacije za gospodarsku suradnju i razvoj mogu u Republici Hrvatskoj pružati pravne usluge koje uključuju usluge savjetovanja o pravu svoje matične države, o pravu Europske unije, međunarodnom pravu i pravu Republike Hrvatske.«.
