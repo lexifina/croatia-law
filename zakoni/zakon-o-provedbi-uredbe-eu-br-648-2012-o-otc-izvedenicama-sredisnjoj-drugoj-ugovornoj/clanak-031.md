@@ -1,0 +1,13 @@
+## Periodični penali u slučaju trajnog kršenja članka 32. ovoga Zakona
+# Članak 31.
+(1) Agencija može izreći periodične penale pravnim osobama u slučaju trajnog, kontinuiranog ili ponavljajućeg kršenja odredbi Uredbe (EU) br. 648/2012 koje su navedene u članku 32. ovoga Zakona.
+(2) Agencija može izreći periodične penale kada je povreda još uvijek u tijeku, radi prisiljavanja pravne osobe na ispunjavanje obveze koja se krši, da prekine s kršenjem odredbi ovoga Zakona ili Uredbe (EU) br. 648/2012 odnosno da pruži informacije koje se traže rješenjem Agencije iz članka 24. ovoga Zakona ili da se podvrgne nadzoru Agencije koji Agencija provodi u skladu s člancima 8. i 9. ovoga Zakona.
+(3) Periodični penali moraju biti djelotvorni i razmjerni, a gornja granica jest:
+– za periodične penale iz članka 32. stavka 1. ovoga Zakona 3 % prosječnog dnevnog prihoda u prethodnoj poslovnoj godini po danu povrede
+– za periodične penale iz članka 32. stavka 2. ovoga Zakona 1 % prosječnog dnevnog prihoda u prethodnoj poslovnoj godini po danu povrede.
+(4) Periodični penali računaju se za svaki dan trajanja kršenja iz stavka 1. ovoga članka.
+(5) U rješenju o izricanju periodičnih penala Agencija navodi dan od kojega počinju teći periodični penali i rok na koji se periodični penali izriču, a koji ne može biti duži od šest mjeseci od datuma određenog u rješenju o izricanju periodičnih penala, pri čemu se ovaj rok može produžiti kod periodičnih penala iz članka 32. stavka 1. ovoga Zakona, a sukladno uvjetima iz članka 7.a Uredbe (EU) br. 648/2012.
+(6) Stranka protiv koje je postupak pokrenut dužna je otkloniti utvrđene povrede odredbi ovoga Zakona te Agenciji podnijeti izvještaj o mjerama koje je poduzela za njihovo otklanjanje, unutar roka iz stavka 5. ovoga članka koji je odredila Agencija.
+(7) Kada izvještaj iz stavka 6. ovoga članka nije potpun ili iz dokumentacije u prilogu ne proizlazi da su nezakonitosti otklonjene, Agencija nalaže nadopunu izvještaja i rok u kojemu se izvještaj mora nadopuniti.
+(8) Izvještaju iz stavka 6. ovoga članka stranka protiv koje je postupak pokrenut dužna je priložiti dokumentaciju i druge dokaze iz kojih je vidljivo jesu li utvrđene povrede odredbi ovoga Zakona otklonjene.
+(9) Ako je stranka protiv koje je postupak pokrenut mjeru izvršila nakon isteka roka iz stavka 5. ovoga članka, Agencija rješenjem o utvrđivanju ukupnog iznosa periodičnih penala utvrđuje dan prestanka povrede koji je nastupio nakon isteka roka iz stavka 5. ovoga članka, ukupan iznos periodičnih penala za sve dane trajanja povrede i rok u kojemu je stranka dužna platiti navedeni iznos.

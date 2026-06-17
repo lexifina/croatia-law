@@ -1,0 +1,3 @@
+## Prijenos propisa Europske unije
+# Članak 2.
+Ovim se Zakonom osigurava provedba Uredbe (EU) br. 648/2012 Europskog parlamenta i Vijeća od 4. srpnja 2012. o OTC izvedenicama, središnjoj drugoj ugovornoj strani i trgovinskom repozitoriju kako je zadnje izmijenjena Uredbom (EU) 2024/2987 Europskog parlamenta i Vijeća od 27. studenoga 2024. o izmjeni uredaba (EU) br. 648/2012, (EU) br. 575/2013 i (EU) 2017/1131 u pogledu mjera za ublažavanje prekomjernih izloženosti prema središnjim drugim ugovornim stranama trećih zemalja i poboljšanje učinkovitosti tržišta poravnanja u Uniji (Tekst značajan za EGP) (SL L, 2024/2987, 4. 12. 2024.) (u daljnjem tekstu: Uredba (EU) br. 648/2012).

@@ -1,0 +1,4 @@
+## Prekršaji matičnog društva nefinancijske druge ugovorne strane
+# Članak 37.
+(1) Novčanom kaznom u iznosu do 6000,00 eura kaznit će se za prekršaj subjekt koji je matično društvo u grupi dio koje je nefinancijska druga ugovorna strana koja ispunjava uvjete iz članka 10. stavka 1. podstavka 2. Uredbe (EU) br. 648/2012, i na koju se primjenjuje izuzeće iz članka 9. stavka 1. podstavka 5. Uredbe (EU) br. 648/2012, kada tjedno ne izvješćuje Agenciju o neto zbirnim pozicijama po vrsti izvedenica te nefinancijske druge ugovorne strane protivno članku 9. stavku 1. podstavku 3. Uredbe (EU) br. 648/2012.
+(2) Novčanom kaznom u iznosu do 3000,00 eura kaznit će se za prekršaj iz stavka 1. ovoga članka i odgovorna osoba subjekta koji je matično društvo u grupi dio koje je nefinancijska druga ugovorna strana koja ispunjava uvjete iz članka 10. stavka 1. podstavka 2. Uredbe (EU) br. 648/2012.

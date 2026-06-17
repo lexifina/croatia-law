@@ -1,0 +1,43 @@
+## Ostali prekršaji druge ugovorne strane
+# Članak 36.
+(1) Novčanom kaznom u iznosu od 5000,00 do 25.000,00 eura kaznit će se za prekršaj druga ugovorna strana ako:
+1. ne obavijesti u propisanom roku Agenciju odnosno HNB o primjeni izuzeća od poravnanja kod unutargrupnih transakcija u skladu s člankom 4. stavkom 2. točkom a) Uredbe (EU) br. 648/2012
+2. počne primjenjivati izuzeća od poravnanja kod unutargrupnih transakcija prije isteka roka od 30 kalendarskih dana, protivno članku 4. stavku 2. točki b) Uredbe (EU) br. 648/2012
+3. kao financijska druga ugovorna strana ne obavijesti ESMA-u i nadležno tijelo sukladno podjeli nadležnosti iz članka 5. ovoga Zakona da je postala podložna obvezi poravnanja, protivno članku 4.a stavku 1. podstavku 2. podtočki i. Uredbe (EU) br. 648/2012
+4. kao financijska druga ugovorna strana ne uspostavi u propisanom roku dogovore o poravnanju u skladu s člankom 4.a stavkom 1. podstavkom 2. podtočkom ii. Uredbe (EU) br. 648/2012
+5. kao financijska druga ugovorna strana ne izvrši poravnanje svih ugovora o OTC izvedenicama koji se odnose na bilo koju vrstu OTC izvedenica koja podliježe obvezi poravnanja u skladu s člankom 4.a stavkom 1. podstavkom 2. podtočkom iii. Uredbe (EU) br. 648/2012
+6. kao financijska druga ugovorna strana ne izvršava obvezu poravnanja u skladu s člankom 4.a stavkom 2. Uredbe (EU) br. 648/2012
+7. u roku od šest mjeseci od nastanka obveze posjedovanja aktivnog računa ne otvori aktivni račun u skladu s člankom 7.a stavkom 1. Uredbe (EU) br. 648/2012
+8. u roku od šest mjeseci od nastanka obveze posjedovanja aktivnog računa ne obavijesti ESMA-u i/ili Agenciju o nastanku obveze otvaranja i održavanja aktivnog računa u skladu s člankom 7.a stavkom 1. Uredbe (EU) br. 648/2012
+9. ne osigura da su u odnosu na aktivni račun kontinuirano ispunjeni zahtjevi iz članka 7.a stavka 3. točaka a) do d) Uredbe (EU) br. 648/2012
+10. ne osigura da su u roku od šest mjeseci u odnosu na aktivni račun ispunjeni zahtjevi iz članka 7.a stavka 3. točaka a) do c) Uredbe (EU) br. 648/2012 u skladu s člankom 7.a stavkom 4. Uredbe (EU) br. 648/2012
+11. najmanje jednom godišnje ne provodi testiranje na stres u skladu s člankom 7.a stavkom 4. Uredbe (EU) br. 648/2012
+12. ne dostavlja obavijest svakih šest mjeseci nadležnom tijelu u skladu s člankom 7.b stavkom 1. Uredbe (EU) br. 648/2012
+13. obavijest iz članka 7.b stavka 1. Uredbe (EU) br. 648/2012 ne sadrži informacije u skladu s člankom 7.b stavkom 1. Uredbe (EU) br. 648/2012
+14. ne dostavlja obavijest svakih šest mjeseci Agenciji u skladu s člankom 7.b stavkom 2. Uredbe (EU) br. 648/2012
+15. obavijest iz članka 7.b stavka 2. Uredbe (EU) br. 648/2012 ne sadrži informacije u skladu s člankom 7.b stavkom 2. Uredbe (EU) br. 648/2012
+16. ne dostavi u propisanom roku podatke o sklapanju i/ili izmjenama i/ili raskidu ugovora o izvedenicama trgovinskom repozitoriju u skladu s člankom 9. stavkom 1. Uredbe (EU) br. 648/2012
+17. ne uspostavi odgovarajuće postupke i aranžmane kako bi osigurala kvalitetu podataka o kojima se izvješćuje trgovinski repozitorij u skladu s člankom 9. stavkom 1. podstavkom 2. i tehničkim standardima iz članka 9. stavka 5. Uredbe (EU) br. 648/2012
+18. ne obavijesti Agenciju o namjeri da se koristi izuzećem u skladu s člankom 9. stavkom 1. podstavkom 6. Uredbe (EU) br. 648/2012
+19. ne vodi evidenciju o svim ugovorima o izvedenicama koje su sklopile i o svim izmjenama najmanje pet godina nakon prekida ugovora u skladu s člankom 9. stavkom 2. Uredbe (EU) br. 648/2012
+20. ne osigura dostavu podataka o ugovoru o izvedenicama ESMA-i u skladu s člankom 9. stavkom 3. Uredbe (EU) br. 648/2012
+21. protivno članku 9. stavku 1.e Uredbe (EU) br. 648/2012 dostavi neispravne i/ili udvostručene podatke o pojedinostima o ugovorima o izvedenicama u izvješćima
+22. kao financijska druga ugovorna strana ne izvješćuje o pojedinostima i/ili dostavljene pojedinosti nisu u skladu s člankom 9. stavkom 1.a podstavkom 1. Uredbe (EU) br. 648/2012
+23. kao nefinancijska druga ugovorna strana ne osigura ispravnost pojedinosti o ugovorima o OTC izvedenicama u skladu s člankom 9. stavkom 1.a podstavkom 2. Uredbe (EU) br. 648/2012
+24. kao nefinancijska druga ugovorna strana ne izvješćuje o pojedinostima i/ili dostavljene pojedinosti nisu u skladu s člankom 9. stavkom 1.a podstavkom 3. Uredbe (EU) br. 648/2012
+25. kao nefinancijska druga ugovorna strana ne izvješćuje o pojedinostima i/ili dostavljene pojedinosti nisu ispravne prema trgovinskom repozitoriju vezano uz ugovore o OTC izvedenicama koje je sklopila s poslovnim subjektom s poslovnim nastanom u trećoj zemlji u slučajevima u kojima je obvezna izvješćivati u skladu s člankom 9. stavkom 1.a podstavkom 4. Uredbe (EU) br. 648/2012
+26. kao društvo za upravljanje UCITS-om ne izvješćuje trgovinski repozitorij, u skladu s člankom 9. stavkom 1.b Uredbe (EU) br. 648/2012
+27. kao društvo za upravljanje alternativnim investicijskim fondom (UAIF) ne izvješćuje trgovinski repozitorij, u skladu s člankom 9. stavkom 1.c Uredbe (EU) br. 648/2012
+28. kao subjekt koji djeluje u ime institucije za strukovno mirovinsko osiguranje ne izvješćuje trgovinski repozitorij, u skladu s člankom 9. stavkom 1.d Uredbe (EU) br. 648/2012
+29. kao nefinancijska druga ugovorna strana ne obavijesti ESMA-u i/ili Agenciju u skladu s člankom 10. stavkom 1. podstavkom 2. točkom a) Uredbe (EU) br. 648/2012
+30. kao nefinancijska druga ugovorna strana ne uspostavi u propisanom roku dogovore o poravnanju, u skladu s člankom 10. stavkom 1. podstavkom 2. točkom b) Uredbe (EU) br. 648/2012
+31. kao nefinancijska druga ugovorna strana ne izvršava obvezu poravnanja svih ugovora o OTC izvedenicama u skladu s člankom 10. stavkom 1. podstavkom 2. točkom c) Uredbe (EU) br. 648/2012
+32. kao nefinancijska druga ugovorna strana postupa protivno članku 10. stavku 2. Uredbe (EU) br. 648/2012 na način da ne nastavlja izvršavati obvezu poravnanja, iako je podložna toj obvezi u skladu s člankom 4. ili člankom 10. stavkom 1. podstavkom 2. Uredbe (EU) br. 648/2012, sve dok nadležnom tijelu, sukladno podjeli nadležnosti iz članka 5. ovoga Zakona, ne dokaže da njezina zbirna prosječna pozicija na kraju mjeseca za prethodnih 12 mjeseci ne premašuje prag poravnanja utvrđen na temelju članka 10. stavka 4. točke (b) Uredbe (EU) br. 648/2012
+33. kao nefinancijska druga ugovorna strana postupa protivno članku 10. stavku 3. Uredbe (EU) br. 648/2012 na način da u izračun pozicija ne uključi sve ugovore o OTC izvedenicama koje je sklopila sama nefinancijska druga ugovorna strana ili drugi nefinancijski subjekti u grupi kojoj ona pripada, a koji objektivno mjerljivo ne smanjuju rizike koji se izravno odnose na komercijalnu aktivnost ili aktivnost financiranja poslovanja te nefinancijske druge ugovorne strane ili grupe
+34. kao financijska druga ugovorna strana i/ili kao nefinancijska druga ugovorna strana iz članka 10. Uredbe (EU) br. 648/2012 ne utvrđuju tekuću tržišnu vrijednost važećih ugovora na dnevnoj osnovi ili kada tržišni uvjeti sprječavaju vrednovanje u skladu s tekućom tržišnom vrijednošću, ne obavljaju vrednovanje u skladu s člankom 11. stavkom 2. podstavkom 1. Uredbe (EU) br. 648/2012
+35. kao nefinancijska druga ugovorna strana iz članka 10. Uredbe (EU) br. 648/2012, koja nakon što postane obvezna utvrđivati tekuću tržišnu vrijednost važećih ugovora na dnevnoj osnovi iz članka 11. stavka 2. podstavka 1. Uredbe (EU) br. 648/2012, ne uspostavi potrebne mehanizme u skladu s člankom 11. stavkom 2. podstavkom 2. Uredbe (EU) br. 648/2012
+36. kao nefinancijska druga ugovorna strana iz članka 10. Uredbe (EU) br. 648/2012, koja nakon što postane obvezna uspostaviti prikladne procedure za upravljanje rizicima koji koje zahtijevaju pravodobnu, točnu i prikladno odvojenu razmjenu kolaterala vezanih uz ugovore o OTC izvedenicama u skladu s člankom 11. stavkom 3. podstavkom 1. Uredbe (EU) br. 648/2012, ne uspostavi potrebne mehanizme u skladu s člankom 11. stavkom 3. podstavkom 2. Uredbe (EU) br. 648/2012
+37. kao nefinancijska druga ugovorna strana ne obavijesti Agenciju o namjeri primjene izuzeća iz članka 11. stavka 7. Uredbe (EU) br. 648/2012 u skladu s člankom 11. stavkom 7. podstavkom 2. Uredbe (EU) br. 648/2012
+38. kao nefinancijska druga ugovorna strana ne obavijesti Agenciju o namjeri primjene izuzeća iz članka 11. stavka 9. Uredbe (EU) br. 648/2012 u skladu s člankom 11. stavkom 9. podstavkom 2. Uredbe (EU) br. 648/2012
+39. javno ne objavi informacije o izuzeću za unutargrupne transakcije u skladu s člankom 11. stavkom 11. Uredbe (EU) br. 648/2012.
+(2) Novčanom kaznom u iznosu do 3300,00 eura kaznit će se za prekršaje iz stavka 1. ovoga članka i odgovorna osoba u pravnoj osobi druge ugovorne strane.
