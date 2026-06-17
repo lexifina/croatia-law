@@ -1,0 +1,6 @@
+# Članak 16.
+U članku 35. stavku 2. točka 2. mijenja se i glasi:
+»2. osnovna obilježja proizvoda, kao što su njegova dostupnost, koristi, rizici, izvedba, sastav, okolišna ili društvena obilježja, pripadci, aspekti kružnosti kao što su trajnost, mogućnost popravka ili recikliranja, postojanje postprodajnih usluga potrošaču i sustava rješavanja pritužbi, metode i datum proizvodnje ili nabave, dostava, podobnost za ostvarivanje svrhe, način korištenja, količina, specifikacija, zemljopisno ili tržišno podrijetlo, rezultati koji se očekuju od njegove uporabe ili rezultati i bitni pokazatelji testova ili provjera provedenih na proizvodu«.
+U stavku 3. točki 3. briše se točka na kraju rečenice i dodaju se točke 4. i 5. koje glase:
+»4. iznošenje tvrdnje o prihvatljivosti za okoliš u vezi s budućom okolišnom učinkovitošću bez jasnih, objektivnih, javno dostupnih i provjerljivih obveza utvrđenih u detaljnom i realističnom planu provedbe koji uključuje mjerljive i vremenski ograničene ciljeve i druge relevantne elemente potrebne za potporu njegovoj provedbi, kao što je raspodjela resursa, i koji redovito provjerava stručna treća strana čiji su nalazi dostupni potrošačima
+5. oglašavanje nebitnih pogodnosti za potrošače koje ne proizlaze niti iz jednog obilježja proizvoda ili poslovanja.«.
