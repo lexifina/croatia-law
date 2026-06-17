@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Izdavatelj kartica razvit će funkcionalni sustav iz članka 21. stavka 1. podstavka 4. koji je dodan člankom 12. ovoga Zakona u roku od 12 mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Do potpune uspostave sustava iz članka 21. stavka 1. podstavka 4. koji je dodan člankom 12. ovoga Zakona postupci i evidencije u području osposobljavanja vozača za prijevoz opasnih tvari i sigurnosnih savjetnika za prijevoz opasnih tvari i izdavanja elektroničkog dopuštenja za prijevoz opasnih tvari provode se u papirnatom ili u elektroničkom obliku sukladno odredbama Zakona o prijevozu opasnih tvari (»Narodne novine«, br. 79/07. i 70/17.).

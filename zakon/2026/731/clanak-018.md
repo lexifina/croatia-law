@@ -1,0 +1,4 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 18.
+(1) Postupci izdavanja dozvola za obavljanje poslova radionice koji su započeti po odredbama Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, br. 75/13., 36/15., 46/17. i 152/22.), a nisu dovršeni do stupanja na snagu ovoga Zakona, dovršit će se prema odredbama toga Zakona.
+(2) Dozvole iz članka 12. Zakona o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, br. 75/13., 36/15., 46/17. i 152/22.) izdane sukladno Zakonu o radnom vremenu, obveznim odmorima mobilnih radnika i uređajima za bilježenje u cestovnom prijevozu (»Narodne novine«, br. 75/13., 36/15., 46/17. i 152/22.) vrijede do isteka roka na koji su izdane.
