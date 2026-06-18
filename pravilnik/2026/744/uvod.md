@@ -1,0 +1,1 @@
+Na temelju članka 16. stavka 9., članka 108. stavka 5., članka 209. stavka 6. i članka 209.a stavka 6. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, broj 21/18., 126/19., 110/21, 83/23., 152/24. i 13/26.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 1. lipnja 2026. godine donosi
