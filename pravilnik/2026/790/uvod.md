@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o hidrografskoj djelatnosti (»Narodne novine«, br. 68/98., 110/98. - ispr., 163/03. i 71/14.), ministar mora, prometa i infrastrukture uz suglasnost ministra financija donosi

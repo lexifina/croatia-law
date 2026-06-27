@@ -1,0 +1,19 @@
+## Zahtjev za izdavanjem rješenja za obavljanje djelatnosti hidrografske izmjere
+# Članak 21.
+(1) Rješenje iz članka 20. ovoga Pravilnika Ministarstvo izdaje na temelju zahtjeva ovlaštene pravne osobe, a koji se zahtjev može podnijeti i elektroničkim putem.
+(2) Zahtjev mora sadržavati dokaze o ispunjavanju uvjeta za obavljanje određene djelatnosti hidrografske izmjere i kategorije izmjere u skladu s odredbama ovoga Pravilnika te upravne pristojbe sukladno posebnom propisu.
+(3) Uz zahtjev iz stavka 2. ovoga članka ovlaštena pravna osoba mora priložiti:
+a) izvadak iz sudskog registra, odnosno izvadak iz obrtnog registra s podacima o registriranoj djelatnosti hidrografske izmjere za koju se traži izdavanje ovlaštenja, ne starije od šest mjeseci
+b) popis opreme s potrebnim tehničkim podacima i dokazom o vlasništvu ili pravu korištenja opreme s uvjerenjima proizvođača o kalibraciji opreme
+c) dokaz o vlasništvu ili pravu korištenja plovnog objekta gospodarske namjene, za određenu djelatnost hidrografske izmjere, koji udovoljava uvjetima iz ovoga Pravilnika
+d) ime i prezime odgovorne osobe u ovlaštenoj pravnoj osobi
+e) popis voditelja izmjere zaposlenih u ovlaštenoj pravnoj osobi u punom radnom vremenu (ime i prezime, OIB ili drugi identifikacijski broj) s dokazima o njihovoj stručnoj spremi, radnom iskustvu, obavljenim poslovima iz djelatnosti hidrografske izmjere razine za koju se traži davanje ovlaštenja te osposobljenosti za rukovanje opremom i uređajima
+f) popis zaposlenika u punom radnom vremenu (ime i prezime, OIB ili drugi identifikacijski broj) s dokazima o njihovoj stručnoj spremi, radnom iskustvu, obavljenim poslovima iz djelatnosti hidrografske izmjere razine za koju se traži davanje ovlaštenja te osposobljenosti za rukovanje opremom i uređajima
+g) dokaz o sklopljenom osiguranju od odgovornosti za štetu koju bi obavljanjem poslova djelatnosti hidrografske izmjere ovlaštena pravna osoba ili njezini zaposlenici mogla učiniti trećim osobama u iznosu osiguranja od najmanje 132.722,81 EUR, za vrijeme trajanja ovlaštenja, a koje pokriva štetu iz hidrografske djelatnosti nastalu u Republici Hrvatskoj za vrijeme trajanja ovlaštenja
+h) popis dosadašnjih radova obavljenih u djelatnosti hidrografske izmjere za koju se traži davanje ovlaštenja odnosno izjavu da takvih radova nije bilo
+i) izjavu da pravnoj osobi ili odgovornoj osobi u pravnoj osobi nije izrečena pravomoćna i osuđujuća presuda za jedno ili više kaznenih dijela iz područja gospodarskog kriminaliteta, ovjerena kod javnog bilježnika
+j) uvjerenje nadležnog suda da se protiv podnositelja zahtjeva ne vodi kazneni postupak, koje nije starije od 6 mjeseci.
+(4) U radno iskustvo iz stavka 3. točke e) i f) ovoga članka uračunava se ukupno vrijeme trajanja pojedinog ugovora o radu sklopljenog s domaćom ili stranom pravnom osobom ovlaštenom za obavljanje poslova djelatnosti hidrografske izmjere, a koji ugovor se dostavlja Ministarstvu, zajedno s popisom odrađenih poslova djelatnosti hidrografske izmjere za koje se traži izdavanje ovlaštenja, izdanim od ovlaštene osobe.
+(5) Voditelj izmjere iz stavka 3. točke e) ovoga članka mora imati najmanje 5 godina radnog iskustva na poslovima djelatnosti hidrografske izmjere na moru u zemlji ili inozemstvu, obzirom na razinu ovlaštenja za koju ovlaštena pravna osoba traži izdavanje ovlaštenja.
+(6) U svezi s popisom odrađenih poslova djelatnosti hidrografske izmjere iz stavka 4. ovoga članka, za voditelja izmjere traži se uvjet od najmanje 10 obavljenih hidrografskih izmjera odnosno najmanje 5 obavljenih poslova u djelatnosti hidrografske izmjere za koju se traži davanje ovlaštenja za zaposlenika u punom radnom vremenu.
+(7) U svezi sa stavkom 4. ovoga članka, ukoliko se radi o stranoj pravnoj osobi, ugovor o radu i popis odrađenih poslova hidrografske djelatnosti mora biti preveden na hrvatski jezik od strane ovlaštenog prevoditelja.

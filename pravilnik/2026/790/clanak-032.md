@@ -1,0 +1,10 @@
+## DIO ŠESTI
+## UVJETI I NAČIN NADZORA OBAVLJANJA DJELATNOSTI HIDROGRAFSKE IZMJERE
+## Inspekcijski nadzor
+# Članak 32.
+(1) S ciljem osiguravanja sveobuhvatnog nadzora obavljanja djelatnosti hidrografske izmjere, Ministarstvo i lučke kapetanije, u suradnji s Institutom, provode inspekcijski nadzor vodeći računa o sljedećim ciljevima:
+a) pregledati najmanje 20 % ovlaštenih pravnih osoba godišnje
+b) pregledati najmanje 20 % ovlaštenih pravnih osoba koje imaju ovlaštenje za HIDRO - Ekskluzivni uvjeti, HIDRO - Posebni uvjeti i HIDRO - 1a, a osobito tijekom trajanja radova djelatnosti hidrografske izmjere namijenjene gradnji ili rekonstrukciji građevina ili drugih zahvata u prostoru za koje je posebnim propisom potrebno ishoditi akt prostornog uređenja ili gradnje, a prije njezine uporabe, odnosno prije izdavanja uporabne dozvole u skladu s posebnim propisima (izmjera izvedenog stanja).
+(2) Inspektor sigurnosti plovidbe ili ovlašteni službenik Ministarstva dužan je prilikom pripreme za obavljanje inspekcijskog nadzora upoznati se sa svim dostupnim podacima o predmetu nadzora, primjenjivim odredbama Zakona, kao i rezultatima prethodno obavljenih inspekcijskih nadzora te obaviti uvid u navedene podatke dostupne kroz odgovarajuće baze podataka koje vodi Ministarstvo i Institut.
+(3) Ako je za obavljanje određenog inspekcijskog nadzora potrebna posebna stručnost ili specifična znanja, inspektor sigurnosti plovidbe ili ovlašteni službenik Ministarstva može prije donošenja odluke zatražiti nalaz ili mišljenje stalnog povjerenstva iz članka 33. ovoga Pravilnika.
+(4) Inspektori sigurnosti plovidbe ili ovlašteni službenik Ministarstva koji obavljaju nadzor, kao i osobe čiji je nalaz ili mišljenje zatraženo, ne smiju imati nikakvog poslovnog interesa u svezi ovlaštene pravne osobe, investitora ili naručitelja poslova hidrografske djelatnosti kao niti nositelja zahvata, investitora građevine ili drugog zahvata u prostoru ili ovlaštenika koncesije na pomorskom dobru koji je predmet inspekcijskog nadzora.

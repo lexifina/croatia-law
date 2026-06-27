@@ -1,0 +1,5 @@
+## DIO PRVI
+## OPĆE ODREDBE
+## Predmet Pravilnika
+# Članak 1.
+Ovim Pravilnikom propisuje se postupak ovlašćivanja, razine ovlaštenja, tehnički i stručni uvjeti koje moraju ispunjavati pravne osobe, odnosno fizičke osobe - obrtnici (u daljnjem tekstu: ovlaštene pravne osobe) za obavljanje djelatnosti izmjere dubina mora, marinske geodezije, snimanje objekata u priobalju i moru, snimanje objekata na morskom dnu i podmorju, geologije i geofizike mora te oceanologije iz članka 7. stavka 1. Zakona o hidrografskoj djelatnosti (u daljnjem tekstu: Zakon), uvjeti i način obavljanja i nadzora obavljanja tih djelatnosti, način i uvjeti za pregled i ovjeru podataka istraživanja, prikupljenih i obrađenih podataka, odnosno hidrografskih originala i hidrografskih elaborata ovlaštenih pravnih osoba, visina naknade za pregled i ovjeru podataka istraživanja, prikupljenih i obrađenih podataka, odnosno hidrografskih elaborata ovlaštenih pravnih osoba i osnovice za njen obračun, kao i način korištenja te naknade.
