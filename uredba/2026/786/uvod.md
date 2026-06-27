@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 3. Zakona o institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj (»Narodne novine«, br. 116/21. i 31/25.), Vlada Republike Hrvatske je na sjednici održanoj 17. lipnja 2026. donijela
