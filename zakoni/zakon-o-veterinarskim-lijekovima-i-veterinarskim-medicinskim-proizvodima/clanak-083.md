@@ -1,0 +1,7 @@
+## Farmakovigilancijske dužnosti nositelja odobrenja za stavljanje veterinarskog lijeka u promet
+# Članak 83.
+(1) Nositelji odobrenja za stavljanje veterinarskog lijeka u promet uspostavljaju svoj farmakovigilancijski sustav i postupaju u skladu s člankom 77. Uredbe (EU) 2019/6.
+(2) Nositelj odobrenja za stavljanje u promet obvezan je u provedbi članka 77. stavka 3. Uredbe (EU) 2019/6 imenovati lokalnog ili regionalnog predstavnika.
+(3) Za lokalnog ili regionalnog predstavnika iz stavka 2. ovoga članka može biti imenovana osoba sa završenim odgovarajućim sveučilišnim prijediplomskim studijem i sveučilišnim diplomskim studijem ili sveučilišnim integriranim prijediplomskim i diplomskim studijem iz područja: veterina, farmacija, medicina, kemija, farmaceutska kemija i tehnologija ili biologija medicine, koja je obvezna služiti se hrvatskim jezikom u govoru i pismu, a za strane državljane obvezan je dokaz o jezičnoj kompetenciji hrvatskog jezika razine B2 (strani državljani) sukladno zajedničkom europskom referentnom okviru za jezike (ZEROJ).
+(4) Nositelj odobrenja iz stavka 1. ovoga članka imenuje jednu ili više kvalificiranih osoba odgovornih za farmakovigilanciju koje ispunjavaju uvjete u skladu s člankom 77. stavkom 8. Uredbe (EU) 2019/6 te izvršavaju zadaće iz članka 78. Uredbe (EU) 2019/6.
+(5) Nositelj odobrenja za stavljanje u promet o imenovanju iz stavka 2. ovoga članka obavješćuje HVI u skladu s uputom objavljenom na mrežnim stranicama HVI-ja.

@@ -1,0 +1,6 @@
+## Izmjene odobrenja za stavljanje veterinarskog lijeka u promet koje zahtijevaju ocjenjivanje
+# Članak 13.
+(1) U slučaju izmjene odobrenja za stavljanje veterinarskog lijeka u promet koja zahtijeva ocjenjivanje, nositelj odobrenja obvezan je podnijeti HVI-ju zahtjev za izmjenu odobrenja za stavljanje veterinarskog lijeka u promet, u skladu s člankom 62. Uredbe (EU) 2019/6.
+(2) Izmjena odobrenja za stavljanje veterinarskog lijeka u promet koja zahtijeva ocjenjivanje odnosi se na prijenos odobrenja za stavljanje veterinarskog lijeka u promet iz članaka 16. i 17. ovoga Zakona.
+(3) Povodom zahtjeva za izmjenu odobrenja HVI izrađuje izvješće o ocjeni izmjene ili mišljenje o izmjeni u skladu s člankom 66. stavkom 3. Uredbe (EU) 2019/6 i izdaje rješenje o odobrenju izmjene s rokom za provedbu izmjene u skladu s člankom 68. stavkom 1. Uredbe (EU) 2019/6 ili donosi rješenje o odbijanju izmjene, u skladu s člankom 67. Uredbe (EU) 2019/6.
+(4) Ako odobrena izmjena zahtijeva izmjenu podataka u sažetku opisa svojstava lijeka i/ili uputi o veterinarskom lijeku i/ili označivanju lijeka za odobrenu izmjenu, HVI odobrava novi izmijenjeni sažetak opisa svojstava lijeka i/ili uputu o lijeku i/ili označivanje lijeka.
