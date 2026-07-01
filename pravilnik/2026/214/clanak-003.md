@@ -1,0 +1,11 @@
+# Članak 3.
+(1) Izrazi koji se koriste u Zakonu o poljoprivredi (»Narodne novine«, br. 118/18., 42/20., 127/20. - Odluka Ustavnog suda Republike Hrvatske, 52/21., 152/22. i 152/24., u daljnjem tekstu: Zakon) koriste se i u ovom Pravilniku.
+(2) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
+1. poljoprivrednik u FSDN istraživanju je fizička ili pravna osoba ili skupina fizičkih ili pravnih osoba koja obavlja poljoprivrednu djelatnost na području Republike Hrvatske i daje podatke i informacije u okviru FSDN istraživanja
+2. FSDN istraživanje je godišnje istraživanje o strukturnim, proizvodnim, ekonomskim i financijskim podacima poljoprivrednika te okolišnim i socijalnim podacima iz članka 10. Provedbene uredbe Komisije (EU) br. 2025/2145 o izmjeni Provedbene uredbe (EU) 2024/2746
+3. FSDN metodologija je metodologija koja definira način i format vođenja podataka u skladu s Provedbenom uredbom Komisije (EU) br. 2025/2145 o izmjeni Provedbene uredbe (EU) 2024/2746
+4. tipologija poljoprivrednih gospodarstava je jedinstvena klasifikacija poljoprivrednih gospodarstava u Europskoj uniji, u skladu s Prilogom IV. Provedbene uredbe Komisije (EU) br. 2025/2145 o izmjeni Provedbene uredbe (EU) 2024/2746
+5. plan odabira je plan za odabir poljoprivrednika koji podnose izvješća, sastavljen u skladu s člankom 5. stavkom 1. Uredbe Vijeća (EZ) br. 1217/2009, kako je izmijenjena Uredbom (EU) 2023/2674, i obuhvaća elemente kojima se osigurava reprezentativni uzorak za područje istraživanja
+6. izvješće za Europsku komisiju (u daljnjem tekstu: Izvješće za EK) je izvješće koje ministarstvo nadležno za poslove poljoprivrede (u daljnjem tekstu: Ministarstvo) dostavlja računalnom sustavu za dostavljanje i kontrolu Europske komisije u skladu s člankom 10. Provedbene uredbe Komisije (EU) br. 2025/2145 o izmjeni Provedbene uredbe (EU) 2024/2746.
+7. prikupljač podataka je fizička ili pravna osoba koja provodi aktivnosti prikupljanja podataka i/ili odabire poljoprivrednika za potrebe FSDN istraživanja, sukladno planu odabira.
+8. reprezentativni uzorak poljoprivrednika je broj poljoprivrednika u FSDN istraživanju koji se utvrđuje statističkim metodama u skladu s odredbama članaka 4., 5., 6. i 7. Provedbene uredbe Komisije (EU) br. 2025/2145 o izmjeni Provedbene uredbe (EU) 2024/2746.

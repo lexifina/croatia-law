@@ -1,0 +1,5 @@
+# Članak 2.
+Ovim Pravilnikom osigurava se provedba sljedećih akata Europske unije:
+- Uredba Vijeća (EZ) br. 1217/2009 od 30. studenoga 2009. o uspostavi sustava za prikupljanje knjigovodstvenih podataka o prihodima i poslovnim aktivnostima poljoprivrednih gospodarstava u Europskoj zajednici (SL L 328, 15. 12. 2009.), kako je posljednji puta izmijenjena Uredbom (EU) br. 2023/2674 od 22. studenoga 2023. o pretvorbi sustava poljoprivrednih knjigovodstvenih podataka u mrežu podataka o održivosti
+- Provedbena Uredba Komisije (EU) 2024/2746 od 25. listopada 2024. o utvrđivanju pravila za primjenu Uredbe Vijeća (EZ) br. 1217/2009 o uspostavi mreže podataka o održivosti poljoprivrednih gospodarstava i stavljanju izvan snage Provedbene uredbe Komisije (EU) 2015/220
+- Delegirana Uredba Komisije (EU) br. 2024/1417 od 13. ožujka 2024. o dopuni Uredbe Vijeća (EZ) br. 1217/2009 o uspostavi mreže podataka o održivosti poljoprivrednih gospodarstava pravilima za godišnje utvrđivanje prihoda, analizu održivosti i pristup podacima za potrebe istraživanja te o stavljanju izvan snage Delegirane uredbe Komisije (EU) br. 1198/2014.
