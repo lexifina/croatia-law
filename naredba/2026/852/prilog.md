@@ -1,0 +1,25 @@
+PRILOG
+Obrazac o provedenom dokumentacijskom, identifikacijskom i fizičkom pregledu pošiljke ovaca i/ili koza
+Referentni broj certifikata: ______________________________
+Jedinstveni registracijski/odobreni broj odredišnog objekta:
+__________________________________________________
+Datum prispijeća pošiljke (dopreme): ______________________
+Broj, vrsta i kategorija životinja: __________________________
+Datum pregleda: _____________________________________
+Rezultat pregleda (zaokružiti):
+SUKLADNO | NESUKLADNO*
+*Opisati utvrđene nesukladnosti: _________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+Jedinstveni registracijski broj daljnjih odredišnih objekata (članak 3. stavak 5. Naredbe):
+__________________________________________________
+__________________________________________________
+__________________________________________________
+__________________________________________________
+Ime i prezime nadležnoga ovlaštenog veterinara delegiranog tijela koji je proveo pregled:
+__________________________________________________
+Naziv delegiranog tijela:
+__________________________________________________
+Potpis i pečat

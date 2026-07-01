@@ -1,0 +1,12 @@
+# Članak 3.
+(1) Iznimno od članka 1. stavka 1. podstavka 5. ove Naredbe, ovce i/ili koze porijeklom s objekata smještenih u zonama ograničenja mogu se premještati isključivo radi upućivanja na klanje u klaonice, u skladu s odredbama Delegirane uredbe (EU) 2020/687.
+(2) Klaonice iz stavka 1. ovoga članka moraju imati uspostavljene i u okviru službene kontrole odobrene postupke kojima se osigurava da se životinje koje potječu iz zone ograničenja zaprimaju, drže i kolju odvojeno ili u različito vrijeme od životinja koje ne potječu iz zone ograničenja, uz provedbu čišćenja i dezinfekcije kojima se sprječava svaki rizik od širenja bolesti.
+(3) Trupovi dobiveni od ovaca i/ili koza iz stavka 1. ovoga članka nakon post mortem pregleda moraju se označiti posebnom zdravstvenom oznakom u skladu s člankom 9. Pravilnika o oznakama zdravstvene ispravnosti, identifikacijskim oznakama i posebnim oznakama hrane životinjskog podrijetla te utvrđivanju popisa objekata za umanjenje rizika od afričke svinjske kuge (»Narodne novine«, broj 76/23).
+(4) Meso porijeklom od trupova iz stavka 3. ovoga članka može se stavljati u javnu potrošnju isključivo nakon provedbe postupka toplinske obrade u skladu s Prilogom VII Delegirane uredbe (EU) 2020/687, uključujući postupak pečenja ili kuhanja mesa, kojim se osigurava umanjenje rizika od širenja kuge malih preživača.
+(5) Toplinska obrada iz stavka 4. ovoga članka može se provoditi u:
+- odobrenim objektima za preradu, isključujući postupak pečenja mesa
+- registriranim objektima u poslovanju s hranom koji pripremaju hranu za krajnjeg potrošača (ugostiteljski objekti, pečenjare, catering i sl.), samo za postupak pečenja ili kuhanja mesa
+- odobrenim catering objektima koji opskrbljuju druge subjekte u poslovanju s hranom, samo za postupak pečenja ili kuhanja mesa.
+(6) Subjekti koji posluju u objektima iz stavka 5. ovoga članka postupak toplinske obrade obavezni su uvrstiti kao kritičnu kontrolnu točku u sustav samokontrole temeljen na načelima HACCP sustava prema članku 5. Uredbe br. 852/2004., i provoditi ga na način da se u mesu postiže temperatura u središtu od najmanje 80 ºC ili temperatura u središtu 70 ºC najmanje 30 minuta (sukladno Prilogu VII Delegirane uredbe (EU) 2020/687).
+(7) Subjekti koji provode toplinsku obradu dužni su osigurati sljedivost mesa.
+(8) Po izvršenoj otpremi trupova iz stavka 3. ovoga članka, klaonice su dužne distribucijsku listu dostaviti na dnevnoj razini nadležnoj sanitarnoj inspekciji.
