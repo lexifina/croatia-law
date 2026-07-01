@@ -1,0 +1,5 @@
+# Članak 1.
+U Pravilniku o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi (»Narodne novine«, broj 20/20., 87/20., 104/21., 46/22., 111/22., 17/23., 87/23., 3/24., 86/24. i 151/24) u članku 1. stavku 2. iza točke 86. dodaju se točke 87., 88., i 89. koje glase:
+»87. Delegirana direktiva Komisije (EU) 2025/1802 od 8. rujna 2025. o izmjeni Direktive 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za olovo u lemovima s visokim temperaturama taljenja (Tekst značajan za EGP) (SL L 2025/1802, 21. 11. 2025.)
+88. Delegirana direktiva Komisije (EU) 2025/2363 od 8. rujna 2025. o izmjeni Direktive 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za olovo u staklenim i keramičkim komponentama (Tekst značajan za EGP) (SL L 2025/2363, 21. 11. 2025.)
+89. Delegirana direktiva Komisije (EU) 2025/2364 od 8. rujna 2025. o izmjeni Direktive 2011/65/EU Europskog parlamenta i Vijeća u pogledu izuzeća za olovo kao elementa u čeličnim, aluminijskim i bakrenim legurama (Tekst značajan za EGP) (SL L 2025/2364, 21. 11. 2025.).«.
