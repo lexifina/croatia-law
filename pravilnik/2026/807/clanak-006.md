@@ -1,0 +1,3 @@
+## Predmet tajnog nadzora
+# Članak 6.
+Predmet tajnog nadzora Hanfe obuhvaća, u skladu s člankom 345. Zakona, djelatnosti i usluge iz članka 13. Zakona ili s njima povezane aktivnosti koje su predmet pružanja usluga od strane subjekta nadzora, a osobito može uključivati procjenu primjene pravila o poslovnom ponašanju subjekta nadzora te o poštenom tretmanu ulagatelja, provjeru ispunjavanja zahtjeva u vezi s pružanjem informacija ulagateljima, distribucijskih aktivnosti i marketinga, zaštite ulagatelja te drugih aktivnosti u skladu s odredbama Zakona te drugim važećim propisima koji uređuju trgovanje udjelima UCITS fonda.
