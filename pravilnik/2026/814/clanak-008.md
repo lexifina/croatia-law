@@ -1,0 +1,2 @@
+# Članak 8.
+PRILOG 9 i Obrazac IZVJEŠTAJ O VALUTNOJ IZLOŽENOSTI FONDA, brišu se.
