@@ -1,0 +1,3 @@
+## Predmet tajnog nadzora
+# Članak 6.
+Predmet tajnog nadzora Hanfe obuhvaća, u skladu s člankom 231. Zakona, djelatnosti i usluge iz članka 11. Zakona ili s njima povezane aktivnosti od strane subjekta nadzora, a osobito može uključivati procjenu primjene pravila o poslovnom ponašanju UAIF-a i poštenom tretmanu ulagatelja, provjeru ispunjavanja zahtjeva u vezi s pružanjem informacija ulagateljima, distribucijskih aktivnosti i marketinga, zaštite malih ulagatelja, kada je primjenjivo, te drugih aktivnosti u skladu s odredbama Zakona te drugim važećim propisima koji uređuju trgovanje udjelima AIF-ova.

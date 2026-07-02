@@ -1,0 +1,1 @@
+Na temelju članka 234. stavka 5. Zakona o alternativnim investicijskim fondovima (»Narodne novine«, broj 1/18, 126/19, 110/21, 83/23, 152/24 i 13/26) Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 17. lipnja 2026. donosi
