@@ -1,0 +1,3 @@
+## Nadležnost suda u Republici Hrvatskoj za postupke u stranoj državi
+# Članak 13.
+Fizička ili pravna osoba s prebivalištem ili sjedištem u Republici Hrvatskoj protiv koje je tužitelj s prebivalištem ili sjedištem izvan Europske unije pokrenuo postupak u državi koja nije članica Europske unije, a koji postupak je prema pravu Republike Hrvatske zlonamjerni sudski postupak protiv javnog djelovanja, može pred sudom u Republici Hrvatskoj na čijem području ima prebivalište ili sjedište pokrenuti postupak za naknadu štete i/ili troškova postupka koji su nastali u vezi s postupkom pred sudom strane države.
