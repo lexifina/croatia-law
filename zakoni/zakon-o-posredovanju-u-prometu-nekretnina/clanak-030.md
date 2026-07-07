@@ -1,0 +1,7 @@
+## Posredovanje za obje strane
+# Članak 30.
+(1) Posrednik može u vezi s posredovanjem za istu nekretninu naplatiti posredničku naknadu od nalogodavca i od treće osobe koja postaje nalogodavac, pod uvjetom da je sa svakom stranom sklopio zaseban ugovor o posredovanju.
+(2) Uz naknadu iz stavka 1. ovoga članka posrednik može naplatiti i zasebno ugovorene troškove iz članka 17. stavka 5. podstavka 5. ovoga Zakona.
+(3) Ako posrednik za istu nekretninu ima sklopljen ugovor o posredovanju s dva nalogodavca te je u tim ugovorima ugovoreno da posredničku naknadu plaćaju obje ugovorne strane, ukupan iznos posredničke naknade naplaćene od oba nalogodavca za istu nekretninu ne smije prelaziti najviši iznos posredničke naknade određene važećim cjenikom u vrijeme sklapanja tih ugovora o posredovanju sukladno članku 17. stavku 6. i članku 20. ovoga Zakona.
+(4) Ako posrednik za istu nekretninu ima sklopljen ugovor o posredovanju s dva nalogodavca te je u tim ugovorima ugovoreno da posredničku naknadu plaća samo jedna ugovorna strana, posrednik može toj ugovornoj strani naplatiti posredničku naknadu isključivo do najviše polovice iznosa posredničke naknade određene važećim cjenikom u vrijeme sklapanja tog ugovora o posredovanju sukladno članku 17. stavku 6. i članku 20. ovoga Zakona.
+(5) Posrednik je dužan prije sklapanja ugovora o posredovanju pisanim putem upoznati ugovorne strane s visinom pojedinačnih posredničkih naknada i njihovim ukupnim iznosom.
