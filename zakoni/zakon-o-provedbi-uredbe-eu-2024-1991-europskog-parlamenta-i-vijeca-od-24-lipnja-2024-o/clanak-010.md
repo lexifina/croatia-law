@@ -1,0 +1,5 @@
+## Izvješćivanje
+# Članak 10.
+(1) Izvješćivanje, sukladno članku 21. stavcima 1. i 2. Uredbe (EU) 2024/1991, koordinira nadležno tijelo iz članka 4. stavka 1. točke 1. ovoga Zakona te dostavlja Komisiji potrebne podatke i informacije u propisanim rokovima i formatu koji, sukladno članku 21. stavku 3. Uredbe (EU) 2024/1991, utvrđuje Komisija.
+(2) U prikupljanju podataka za izradu izvješća nadležno tijelo iz članka 4. stavka 1. točke 1. ovoga Zakona zatražit će podatke i od nadležnih tijela iz članka 4. stavka 1. točaka 2. do 6. ovoga Zakona, kao i drugih tijela državne uprave, javnih ustanova i drugih institucija, ovisno o potrebama.
+(3) Nadležna tijela iz članka 4. ovoga Zakona osiguravaju da su informacije iz stavaka 1. i 2. ovoga članka prikladne, ažurirane i dostupne javnosti u skladu s odredbama propisa kojim se uređuje zaštita okoliša, propisa kojim se uređuju pravila za uspostavu, održavanje i razvoj Nacionalne infrastrukture prostornih podataka u Republici Hrvatskoj te propisa kojim se uređuje pravo na pristup informacijama, sukladno članku 21. stavku 8. Uredbe (EU) 2024/1991.
