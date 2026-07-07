@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 4., članka 16. stavka 2., članka 22. stavka 12. i članka 23. stavka 3. Zakona o uvjetima za pružanje usluga carinskog zastupanja (»Narodne novine«, br. 57/18.) ministar financija donosi
