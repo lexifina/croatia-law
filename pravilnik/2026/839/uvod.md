@@ -1,0 +1,1 @@
+Na temelju članka 77. stavka 2. Zakona o provedbi carinskog zakonodavstva Europske unije (»Narodne novine«, br. 40/16. i 52/25.) ministar financija, uz prethodnu suglasnost ministra poljoprivrede, šumarstva i ribarstva donosi
