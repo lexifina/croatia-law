@@ -1,0 +1,8 @@
+## VI. PRIJELAZNE I ZAVRŠNE ODREDBE
+## Usklađivanje i donošenje akata
+# Članak 27.
+(1) Vlada će u roku od 120 dana od dana stupanja na snagu ovoga Zakona donijeti Odluku o davanju suglasnosti za osnivanje Slobodne zone Zagreb i Odluku o davanju suglasnosti za osnivanje Slobodne zone Luka Rijeka – Škrljevo sukladno odredbama ovoga Zakona.
+(2) Odluka o davanju koncesije za osnivanje Slobodne zone Zagreb (»Narodne novine«, br. 101/97., 114/12., 14/14., 91/18., 83/20. i 113/22.) i Odluka o davanju koncesije za osnivanje Slobodne zone Luka Rijeka – Škrljevo (»Narodne novine«, br. 90/13. i 83/20.) ostaju na snazi do dana stupanja na snagu odluka iz stavka 1. ovoga članka.
+(3) Vlada će uskladiti Odluku o davanju suglasnosti Lučkoj upravi Rijeka za osnivanje Slobodne zone luke Rijeka (»Narodne novine«, br. 63/97., 62/02., 83/03., 67/09., 78/13., 90/13., 20/14., 40/15., 119/23. i 4/25.), Odluku o davanju suglasnosti Lučkoj upravi Split za osnivanje Slobodne zone luke Split (»Narodne novine«, br. 160/98. i 92/05.), Odluku o davanju suglasnosti Lučkoj upravi Pula za osnivanje Slobodne zone luke Pula (»Narodne novine«, br. 25/99.) i Odluku o davanju suglasnosti Lučkoj upravi Ploče za osnivanje Slobodne zone luke Ploče (»Narodne novine«, br. 137/99.) s odredbama ovoga Zakona u roku od 120 dana od dana stupanja na snagu ovoga Zakona.
+(4) Ministarstvo će sklopiti ugovore iz članka 9. ovoga Zakona u roku od 60 dana od dana stupanja na snagu odluka iz stavaka 1. i 3. ovoga članka odnosno od završetka postupka usklađivanja odluka iz stavka 3. ovoga članka.
+(5) Nositelji suglasnosti dužni su u roku od 90 dana od dana stupanja na snagu ovoga Zakona uskladiti akte o osnivanju zone s odredbama ovoga Zakona.
