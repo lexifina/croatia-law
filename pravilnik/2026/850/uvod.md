@@ -1,0 +1,1 @@
+Na temelju članka 50. stavka 3. Zakona o računovodstvu (»Narodne novine«, br. 85/24., 145/24., 151/25. i 59/26.) i prijedloga Državnog zavoda za statistiku, klasa: 956-01/26-01/1, urbroj: 555-01-04-02-26-1, ministar financija donosi
