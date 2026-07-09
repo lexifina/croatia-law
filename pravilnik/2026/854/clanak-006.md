@@ -1,0 +1,6 @@
+# Članak 6.
+(1) Kompetencije iz područja upravljanja u zdravstvu stječu se na visokom učilištu koje je osnovano u skladu sa zakonom kojim se uređuje visoko obrazovanje i znanstvena djelatnost, završetkom odgovarajućeg sveučilišnog specijalističkog studija, doktorskog studija odnosno programa cjeloživotnog obrazovanja ili završetkom odgovarajućeg stručnog usavršavanja pri Državnoj školi za javnu upravu.
+(2) Iznimno od stavka 1. ovoga članka kompetencije iz područja upravljanja u zdravstvu mogu se steći i na visokom učilištu druge države osnovanom u skladu s propisima te druge države.
+(3) Dokaz o stečenim kompetencijama iz stavaka 1. i 2. ovoga članka i satima nastave izdaje visoko učilište na kojem su kompetencije stečene odnosno Državna škola za javnu upravu.
+(4) Kompetencije iz područja upravljanja u zdravstvu priznaju se osobi koja ima ukupno četiri godine radnog iskustva na radnom mjestu ravnatelja i/ili zamjenika ravnatelja zdravstvene ustanove kojoj je osnivač Republika Hrvatska ili jedinica lokalne i područne (regionalne) samouprave odnosno Grada Zagreba.
+(5) Potvrdu o radnom iskustvu iz stavka 4. ovoga članka izdaje na zahtjev zdravstvena ustanova u kojoj je ostvareno radno iskustvo na radnom mjestu ravnatelja i/ili zamjenika ravnatelja ili se potvrđuje Ugovorom o radu.
