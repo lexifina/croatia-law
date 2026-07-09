@@ -1,0 +1,1 @@
+Na temelju članka 109. stavka 4. točke k) Zakona o klimatskim promjenama i zaštiti ozonskog sloja (»Narodne novine«, broj 67/25.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 9. srpnja 2026. donijela
