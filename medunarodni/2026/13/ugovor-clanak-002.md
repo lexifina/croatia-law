@@ -1,0 +1,3 @@
+# Članak 2.
+1. Državljani bilo koje stranke, nositelji valjane diplomatske putovnice koji su članovi diplomatske misije, konzularnog ureda ili predstavnici u međunarodnoj organizaciji smještenoj na državnom području druge stranke, kao i članovi njihove obitelji koji su dio njihova kućanstva i nositelji su valjane diplomatske putovnice, prije ulaska na državno područje te stranke trebaju pribaviti odgovarajući vizu u veleposlanstvu druge stranke.
+2. Osobe spomenute u stavku 1. ovoga članka, nakon akreditacije, mogu bez vize ulaziti, prolaziti kroz, boraviti na i napuštati državno područje druge stranke tijekom trajanja njihove službene dužnosti.
