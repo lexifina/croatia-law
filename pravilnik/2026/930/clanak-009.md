@@ -1,0 +1,3 @@
+# Članak 9.
+U članku 41. stavak 21. mijenja se i glasi:
+»(21) Korisnik koji posjeduje stoku, uključujući i korisnika koji uslužno tovi stoku za organizatora tova iz stavka 20. ovoga članka, obvezan je u spremištima stajskog gnoja u cilju vezanja amonijaka, primjenjivati adsorbense na pretežitoj bazi zeolita clinoptilolita ili bentonita koji se dodaje tijekom godine zahtjeva u spremište stajskog gnoja u količini koja odgovara najmanje 0,5 % suhe tvari količine stajskog gnoja korištenog u ovoj intervenciji, a što dokazuje preslikom računa koji je obvezan dostaviti Agenciji za plaćanja do 31. prosinca godine zahtjeva.«
