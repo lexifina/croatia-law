@@ -1,0 +1,1 @@
+Na temelju članka 51. stavka 18., članka 52. stavka 4., članka 53. stavka 4., članka 54. stavka 2., članka 58. i članka 65.a stavka 7. Zakona o obveznim mirovinskim fondovima (»Narodne novine«, broj 19/14., 93/15., 102/15., 64/18., 115/18., 58/20. i 156/23.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 7. srpnja 2026. godine donosi
