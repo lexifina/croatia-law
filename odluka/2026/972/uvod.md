@@ -1,0 +1,1 @@
+Na temelju članka 10. stavka 1. podstavka 2. Zakona o sustavu civilne zaštite (»Narodne novine«, br. 82/15., 118/18., 31/20., 20/21. i 114/22.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2026. donijela
