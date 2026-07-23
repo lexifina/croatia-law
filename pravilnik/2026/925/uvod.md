@@ -1,0 +1,1 @@
+Na temelju članka 94. stavka 5. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 44/16, 126/19, 110/21, 76/22, 152/24, 13/26, dalje u tekstu: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 7. srpnja 2026. godine donosi
