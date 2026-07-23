@@ -1,0 +1,3 @@
+# Članak 5.
+U članku 14. stavku 1. točki 3. iza riječi: »fondu« dodaje se zarez, a riječi: »u pisanom obliku poštom ili na drugom odgovarajućem trajnom mediju u skladu s člankom 112. Zakona.« zamjenjuju se riječima: »u skladu s člankom 112. Zakona, u elektroničkom obliku ili u tiskanom obliku, ako je ulagatelj zatražio primitak informacija i/ili dokumenata u tiskanom obliku.«.
+U stavku 2. iza riječi: »stavka 1.« dodaju se riječi: »točke 1.«, a riječi: »Tehničkom uputom za korištenje servisa unosa WEB obrazaca i dostavu dokumentacije u elektroničkom obliku« zamjenjuju se riječima: »Tehničkom uputom za korištenje sustava za dostavu podataka u elektroničkom obliku Hrvatske agencije za nadzor financijskih usluga reports.hanfa.hr«.

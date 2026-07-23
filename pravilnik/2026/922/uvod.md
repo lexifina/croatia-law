@@ -1,0 +1,1 @@
+Na temelju članka 338. stavka 5., članka 341., članka 342. stavka 8. i članka 343. stavka 4. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine«, broj 44/16., 126/19., 110/21., 76/22., 152/24. i 13/26.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 7. srpnja 2026. godine donosi
