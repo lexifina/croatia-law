@@ -1,0 +1,1 @@
+Na temelju članka 123. stavka 3., članka 127. stavka 4., članka 130. stavka 3. i članka 134. stavka 9. Zakona o dobrovoljnim mirovinskim fondovima (»Narodne novine«, broj 19/14., 29/18., 115/18., 156/23., 52/25. i 13/26.), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 7. srpnja 2026. godine donosi

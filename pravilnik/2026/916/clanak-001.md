@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o uvjetima za ostvarivanje prava na mirovinu temeljem dobrovoljnog mirovinskog osiguranja, registru članova te obustavi uplata i isplata iz dobrovoljnog mirovinskog fonda (»Narodne novine«, broj 2/20. i 52/24.) u članku 2. točki 2. riječi: »(»Narodne novine« broj 19/2014, 29/2018, 115/2018 i 156/2023),« zamjenjuju se riječima: »(»Narodne novine«, broj 19/14., 29/18., 115/18., 156/23., 52/25. i 13/26.)«.
