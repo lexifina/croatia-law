@@ -1,0 +1,5 @@
+# Članak 2.
+U članku 2. stavku 2. riječi: »pomoćnih djelatnosti iz članka 13. stavka 1. točke 2. podtočaka a), b) i c)« zamjenjuju se riječima: »dodatnih usluga iz članka 13. stavka 1. podstavka 2. točke 1. i točke 2. podtočaka a), b) i c)«.
+U stavku 5. riječi: »djelatnosti iz članka 13. stavka 1. točke 2. podtočaka a), b) i c)« zamjenjuju se riječima: »dodatne usluge iz članka 13. stavka 1. podstavka 2. točke 1. i točke 2. podtočaka a), b) i c)«.
+Iza stavka 5. dodaje se stavak 6. koji glasi:
+»(6) Ako se zahtjev za izdavanje ili proširenje odobrenja za rad odnosi na pružanje usluge iz članka 13. stavka 1. podstavka 2. točke 3. Zakona, društvo za upravljanje dužno je, osim dokumentacije iz članka 4. ovoga Pravilnika, priložiti i dokumentaciju u skladu s Uredbom (EU) 2016/1011 Europskog parlamenta i Vijeća od 8. lipnja 2016. o indeksima koji se upotrebljavaju kao referentne vrijednosti u financijskim instrumentima i financijskim ugovorima ili za mjerenje uspješnosti investicijskih fondova i o izmjeni direktiva 2008/48/EZ i 2014/17/EU te Uredbe (EU) br. 596/2014 (Tekst značajan za EGP) (SL L 171, 29. 6. 2016.).«.
