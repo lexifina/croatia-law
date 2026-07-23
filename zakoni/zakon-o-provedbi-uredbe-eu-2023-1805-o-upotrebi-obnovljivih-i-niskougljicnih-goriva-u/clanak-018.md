@@ -1,0 +1,4 @@
+## VII. ZAVRŠNI DIO
+## Stupanje na snagu
+# Članak 18.
+Ovaj Zakon stupa na snagu osmoga dana od dana objave u »Narodnim novinama«.
