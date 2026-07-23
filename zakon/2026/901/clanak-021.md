@@ -1,0 +1,5 @@
+## PRIJELAZNE I ZAVRŠNE ODREDBE
+# Članak 21.
+(1) Postupci vezani za izdavanje dozvola za obavljanje autotaksi prijevoza putnika u unutarnjem cestovnom prometu, započeti po Zakonu o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18., 98/19., 30/21., 89/21. − Odluka i Rješenje Ustavnog suda Republike Hrvatske, 114/22. i 136/24.), a nisu dovršeni do stupanja na snagu ovoga Zakona dovršit će se prema odredbama toga Zakona.
+(2) Jedinice lokalne samouprave, odnosno Grad Zagreb te pravne i fizičke osobe − obrtnici, koji postupaju sukladno odredbama članka 47. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18., 98/19., 30/21., 89/21. − Odluka i Rješenje Ustavnog suda Republike Hrvatske, 114/22. i 136/24.), moraju se uskladiti s odredbama ovoga Zakona najkasnije do 31. ožujka 2027.
+(3) Digitalne radne platforme putem kojih se može realizirati narudžba usluge autotaksi prijevoza dužne su uskladiti svoje poslovanje s odredbama članka 10. ovoga Zakona najkasnije u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
