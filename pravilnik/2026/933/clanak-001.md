@@ -1,0 +1,2 @@
+# Članak 1.
+U Pravilniku o Upisniku proizvođača drvenastih kultura kratkih ophodnji (»Narodne novine«, broj 110/18), u članku 3. riječi: »središnje tijelo državne uprave nadležno za obavljanje upravnih i drugih poslova u području poljoprivrede i šumarstva (u daljnjem tekstu: Ministarstvo)« zamjenjuju se riječima: »nadležni upravni odjel za poljoprivredu i šumarstvo u jedinici područne (regionalne) samouprave odnosno Grada Zagreba (u daljnjem tekstu: nadležni upravni odjel)«.
