@@ -1,0 +1,1 @@
+Odluka o produljenju primjene odredbi o materijalnim i nematerijalnim pravima državnih službenika i namještenika zaposlenih u državnim tijelima ostvarenih temeljem Kolektivnog ugovora za državne službenike i namještenike
