@@ -1,0 +1,11 @@
+# Članak 2.
+U članku 3. ispred riječi: »Pojedini pojmovi« dodaje se oznaka stavka: »(1)«.
+U točki 1) iza riječi: »Ministarstva poljoprivrede« dodaje se zarez i riječi: »šumarstva i ribarstva (u daljnjem tekstu: Ministarstvo«).«.
+U točki 1) iza brojčane oznake »152/22« dodaje se veznik »i« i brojčana oznaka »152/24«.
+Iza točke 9. dodaju se točke 10), 11), 12) i 13) koje glase:
+»10) poduzetnik u teškoćama je poduzetnik u postupku predstečaja, stečaja ili likvidacije sukladno odredbama Smjernica o državnim potporama za sanaciju i restrukturiranje nefinancijskih poduzetnika u teškoćama (2014C 249/01, 31. 7. 2014.), ako je primjenjivo u odnosu na Prilog I, Ugovora o Europskoj uniji i Ugovora o funkcioniranju Europske unije.
+11) nepravilnost je povreda odredaba prava Europske unije koja proizlazi iz učinjene ili propuštene radnje od strane gospodarskog subjekta, a što je dovelo ili je moglo dovesti u pitanje opći proračun Europske unije ili proračune kojima Europska unija upravlja, bilo smanjenjem ili gubitkom prihoda iz vlastitih sredstava prikupljenih izravno u ime Europske unije, ili neopravdanim izdacima u smislu članka 1. stavka 2. Uredbe Vijeća (EZ, Euratom) br. 2988/95 od 18. prosinca 1995. o zaštiti financijskih interesa Europskih zajednica (SL L 312, 23. 12. 1995.)
+12) sumnja na prijevaru je nepravilnost koja je razlog za pokretanje postupaka na nacionalnoj razini kako bi se utvrdilo postojanje postupanja s namjerom, osobito prijevare, iz članaka 3. i 4. Direktive (EU) br. 2017/1371 Europskog parlamenta i Vijeća od 5. srpnja 2017. o suzbijanju prijevara počinjenih protiv financijskih interesa Unije kaznenopravnim sredstvima (SL L 198, 28. 7. 2017.) (u daljnjem tekstu: Direktiva (EU) br. 2017/1371)
+13) financijska korekcija je instrument kojim se, nakon što je Agencija za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju (u daljnjem tekstu: Agencija za plaćanja) utvrdila nepravilnost koju je počinio korisnik, umanjuju bespovratna sredstva ili nalaže povrat cijelog ili dijela financiranja isplaćenog korisniku.«.
+Iza stavka 1. dodaje se novi stavak 2. koji glasi:
+»(2) Izrazi koji se koriste u ovom Pravilniku, a imaju rodno značenje odnose se jednako na muški i ženski rod.«.
