@@ -1,0 +1,1 @@
+Na temelju članka 36. stavka 9., članka 39. stavka 10. i članka 44. stavka 5. Zakona o otvorenim investicijskim fondovima s javnom ponudom (»Narodne novine« broj 44/2016, 126/19, 110/21, 76/22, 152/24 i 13/26, dalje: Zakon), Hrvatska agencija za nadzor financijskih usluga na sjednici Upravnog vijeća održanoj 15. srpnja 2026. godine donosi
