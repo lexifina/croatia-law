@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 2. Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu (»Narodne novine«, br. 116/18., 85/22., 92/24. i 105/25.), Vlada Republike Hrvatske je na sjednici održanoj 23. srpnja 2026. donijela
