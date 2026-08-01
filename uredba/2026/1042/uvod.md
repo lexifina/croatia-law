@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 1. Zakona o postupanju s nezakonito izgrađenim zgradama (»Narodne novine«, br. 86/12., 143/13., 65/17., 14/19. i 48/26.), Vlada Republike Hrvatske je na sjednici održanoj 30. srpnja 2026. donijela

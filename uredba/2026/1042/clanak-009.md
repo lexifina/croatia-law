@@ -1,0 +1,5 @@
+# Članak 9.
+(1) Jednokratnim plaćanjem iz članka 8. stavka 1. ove Uredbe smatra se plaćanje cjelokupnog iznosa naknade utvrđene rješenjem putem jedne ili više uplata, koja obveza se utvrđuje u roku od 30 dana od dana dostave rješenja o naknadi.
+(2) Kod jednokratnog plaćanja naknade izvršene u roku iz stavka 1. ovoga članka, obvezniku se odobrava popust od 25 % na visinu naknade utvrđenu izračunom u skladu s odredbama ove Uredbe, s time da iznos naknade s obračunatim popustom ne može biti manji od 150,00 eura po zgradi.
+(3) Visina naknade bez popusta i iznos naknade s obračunatim popustom utvrđuje se u svakom rješenju s jednokratnim plaćanjem naknade.
+(4) Propuštanjem plaćanja cjelokupnog iznosa naknade s popustom u roku iz stavka 1. ovoga članka, neovisno o tome da li plaćanje nije izvršeno u dijelu ili u cijelosti te neovisno o razlozima neplaćanja, obveznik nema pravo na popust i obvezan je platiti visinu naknade utvrđenu izračunom bez popusta, sa zateznom kamatom koja se obračunava na dospjeli neplaćeni dio tog iznosa bez popusta.
