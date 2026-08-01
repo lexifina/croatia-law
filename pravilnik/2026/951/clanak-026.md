@@ -1,0 +1,4 @@
+# Članak 26.
+(1) Zahtjev za intervenciju iz članka 25. ovoga Pravilnika, znanstveno-istraživačke institucije čiji je projekt odabran na Javnom natječaju, podnose Agenciji za plaćanja do 31. srpnja tekuće intervencijske godine.
+(2) Zahtjev mora sadržavati preslike originala računa izdanih i plaćenih od datuma izdavanja Odluke o odabiru projekta do trenutka podnošenja Zahtjeva za tekuću intervencijsku godinu u skladu s odabranom ponudom i Odlukom o odabiru projekta kao i dodatnu dokumentaciju u skladu s Javnim natječajem, dokumentaciju u skladu s člankom 5. stavkom 14. te dokazima iz članka 5. stavaka 9. i 10. ovoga Pravilnika.
+(3) Uz Zahtjev korisnik je dužan dostaviti dokumentaciju na temelju koje je moguće provesti kontrolu postupka u skladu sa zakonom kojim je uređena javna nabava.(4) Sva dokumentacija iz stavaka 2. i 3. ovoga članka učitava se u PDF formatu.
