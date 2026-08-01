@@ -1,0 +1,2 @@
+# Članak 13.
+Ministar će Pravilnik o sadržaju i obliku obrazaca na kojima se podnose podnesci u izvansudskom postupku i postupku stečaja potrošača (»Narodne novine«, br. 2/16. i 1/19.) i Pravilnik o utvrđivanju lista povjerenika u postupku stečaja potrošača (»Narodne novine«, br. 12/16., 1/19., 141/20. i 82/24.) uskladiti s odredbama ovoga Zakona u roku od 30 dana od dana stupanja na snagu ovoga Zakona.
