@@ -1,0 +1,1 @@
+Na temelju članka 27. stavka 2. i članka 105. stavka 9. Zakona o zemljišnim knjigama (»Narodne novine«, br. 63/19., 128/22., 155/23. i 127/24.) ministar pravosuđa, uprave i digitalne transformacije donosi
