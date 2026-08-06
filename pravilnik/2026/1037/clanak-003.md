@@ -1,0 +1,2 @@
+# Članak 3.
+U cijelom tekstu Pravilnika o načinu vođenja očevidnika i spisa predmeta osoba pod skrbništvom, načinu popisa i opisa njihove imovine, podnošenju izvješća i polaganju računa skrbnika te sadržaju i obliku anticipiranih naredbi (»Narodne novine«, broj 19/21) riječi: »centar za socijalnu skrb« u određenom broju i padežu zamjenjuju se riječima: »Hrvatski zavod za socijalni rad« u odgovarajućem broju i padežu.
