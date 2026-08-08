@@ -1,0 +1,2 @@
+# Članak 2.
+U članku 102. stavku 1. iza riječi: »u suradnji s ministarstvom nadležnim za unutarnje poslove obavlja poslove kontinuiranog osposobljavanja carinskih i policijskih službenika za suzbijanje raznih pojavnih oblika krijumčarenja i zlouporabe droga;« dodaju se riječi: »organizira i provodi stručno osposobljavanje carinskih službenika - vodiča službenih pasa i dresuru službenih pasa raznih namjena;«.
