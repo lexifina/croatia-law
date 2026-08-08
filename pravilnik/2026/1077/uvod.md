@@ -1,0 +1,1 @@
+Na temelju članka 55. stavka 10. Zakona o morskom ribarstvu (»Narodne novine«, broj 62/17, 130/17, 14/19, 30/23 i 14/24) i članka 28. stavka 7. Zakona o akvakulturi (»Narodne novine«, broj 130/17, 111/18, 144/20, 30/23 i 14/24), ministar poljoprivrede, šumarstva i ribarstva donosi
