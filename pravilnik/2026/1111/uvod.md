@@ -1,0 +1,1 @@
+Na temelju članka 24. stavka 9. Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18., 98/19., 82/23. i 151/25.), ministar prostornoga uređenja, graditeljstva i državne imovine donosi
