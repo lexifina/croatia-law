@@ -1,0 +1,5 @@
+## Šutnja nadležnih tijela države izdavanja
+# Članak 195.
+(1) Kad nadležno tijelo države izdavanja ne odgovori na dostavljene obavijesti domaćeg nadležnog tijela o kršenju mjera opreza iz priznate odluke tog tijela, domaći sud pozvat će nadležno tijelo države izdavanja da u roku od deset radnih dana dostavi odluku povodom te obavijesti.
+(2) Ako nadležno tijelo države izdavanja ne dostavi odluku o produljenju trajanja mjera opreza ili obavijest o potrebi daljnjeg izvršavanja mjera opreza u smislu članka 192. stavka 4. ovoga Zakona po službenoj dužnosti, domaći sud zatražit će dostavljanje takve odluke u roku iz stavka 1. ovoga članka, uz upozorenje da će biti obustavljeno daljnje izvršavanje mjere opreza ako odluka ne bude dostavljena.
+(3) Ako nakon isteka roka iz stavka 1. ovoga članka nadležno tijelo države izdavanja ne dostavi traženu odluku ni obavijest o potrebi daljnjeg izvršavanja mjera opreza u smislu članka 192. stavka 4. ovoga Zakona, domaći sud će ukinuti mjere opreza i o tome će izvijestiti državu izdavanja radi prelaska nadležnosti za izvršenje mjera na tu državu.

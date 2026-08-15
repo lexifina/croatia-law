@@ -1,0 +1,7 @@
+## Prekogranično provođenje posebnih dokaznih radnji
+# Članak 36.
+(1) Kada se u okviru domaćeg postupka provode posebne dokazne radnje nadziranog prijevoza i isporuke predmeta kaznenog djela ili tajnog praćenja i tehničkog snimanja osoba i predmeta koje bi se trebale nastaviti provoditi izvan državnog područja Republike Hrvatske, a na državnom području druge države članice ili države stranke Konvencije o provedbi Schengenskog sporazuma, državno odvjetništvo koje postupa u predmetu zatražit će odobrenje od te države prije negoli je prijeđena njezina državna granica.
+(2) Obrazloženi pisani zahtjev zajedno s nalogom suca istrage za provođenje posebne dokazne radnje dostavit će se nadležnom tijelu druge države članice ili države stranke Konvencije o provedbi Schengenskog sporazuma. Zahtjev se dostavlja i u prijevodu na službeni jezik zamoljene države.
+(3) Kad zbog posebno žurnih razloga nije bilo moguće obavijestiti nadležno tijelo iz stavka 2. ovoga članka prije ulaska na državno područje država članica ili države stranke Konvencije o provedbi Schengenskog sporazuma, nadležno državno odvjetništvo žurno će obavijestiti nadležno tijelo iz stavka 2. ovoga članka o prelasku državne granice bez prethodnog odobrenja, kao i o razlozima. Uz obavijest će se dostaviti zahtjev iz stavka 2. ovoga članka.
+(4) Kad nije moguće utvrditi koje je tijelo nadležno za davanje odobrenja, nadležno državno odvjetništvo obratit će se za pomoć Europskoj pravosudnoj mreži u kaznenim stvarima ili nacionalnom članu Republike Hrvatske u Eurojustu.
+10. OSTALE ODREDBE

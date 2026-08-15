@@ -1,0 +1,5 @@
+## Ispitivanje svjedoka ili vještaka putem telefonske konferencije
+# Članak 98.
+(1) Nadležno pravosudno tijelo može za potrebe vođenja domaćeg kaznenog postupka izdati europski istražni nalog u svrhu ispitivanja osobe koja se nalazi na državnom području druge države članice u svojstvu svjedoka ili vještaka putem telefonske konferencije, ako nije primjereno ili moguće da se osoba koja treba biti ispitana osobno pojavi na državnom području Republike Hrvatske te nakon ispitivanja ostalih primjerenih sredstava, na način predviđen stavkom 3. ovoga članka.
+(2) Kada nadležno županijsko državno odvjetništvo zaprimi europski istražni nalog koji je izdan u svrhu ispitivanja osobe koja se nalazi u Republici Hrvatskoj u svojstvu svjedoka ili vještaka putem telefonske konferencije, odlučit će o provođenju te radnje sukladno domaćem pravu.
+(3) Ako nije drukčije dogovoreno između nadležnog županijskog državnog odvjetništva iz stavka 2. ovoga članka i nadležnog tijela države izdavanja, Članak 97. stavci 5. do 8. ovoga Zakona primjenjuju se na odgovarajući način na ispitivanja putem telefonske konferencije.

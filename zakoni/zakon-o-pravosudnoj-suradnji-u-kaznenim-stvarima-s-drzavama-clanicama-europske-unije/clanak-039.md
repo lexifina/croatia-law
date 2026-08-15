@@ -1,0 +1,3 @@
+## Naknada štete nastale izvršavanjem naloga
+# Članak 39.
+Ako je zbog izvršenja naloga za osiguranje imovine, europskog istražnog naloga ili odluke o oduzimanju imovine ili predmeta koje je izdalo domaće pravosudno tijelo država izvršavanja na temelju obveze prema svom nacionalnom pravu nadoknadila nekoj od osoba iz članka 38. stavka 1. ovoga Zakona štetu prouzročenu izvršenjem tih odluka, Republika Hrvatska će, neovisno o tome jesu li te osobe u Republici Hrvatskoj podnijele zahtjev iz članka 38. stavka 3. ovoga Zakona, nadoknaditi svaki iznos isplaćen po osnovi odgovornosti za štetu u državi izvršavanja, osim ako, i u mjeri u kojoj su šteta ili kakav njezin dio prouzročeni isključivo postupanjem te države.

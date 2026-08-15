@@ -1,0 +1,5 @@
+## Izvršenje europskog istražnog naloga kojim je zatražena uporaba prikrivenih istražitelja
+# Članak 106.
+(1) Kada nadležno županijsko državno odvjetništvo zaprimi europski istražni nalog kojim je zatražena uporaba prikrivenih istražitelja, zatražit će od suca istrage provođenje te istražne mjere.
+(2) Uz razloge za nepriznavanje ili neizvršenje iz članka 83. ovoga Zakona, izvršenje europskog istražnog naloga također je moguće odbiti i kada nije bilo moguće postići sporazum s nadležnim tijelom države izdavanja o pojedinostima vezanim za uporabu prikrivenih istražitelja.
+(3) Uporaba prikrivenih istražitelja provodi se u skladu s domaćim pravom. Domaća tijela koja izvršavaju europski istražni nalog imaju isključivo pravo djelovanja, upravljanja i nadzora nad aktivnostima povezanima s uporabom prikrivenih istražitelja. Trajanje ove mjere, detaljni uvjeti i pravni status uključenih službenika tijekom provedbe ove mjere dogovara se s nadležnim tijelom države izdavanja, ali nikada suprotno domaćem pravu.

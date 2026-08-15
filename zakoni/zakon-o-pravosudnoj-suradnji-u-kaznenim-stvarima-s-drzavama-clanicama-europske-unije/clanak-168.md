@@ -1,0 +1,4 @@
+## Stvarna i mjesna nadležnost za izvršavanje odluka o priznanju
+# Članak 168.
+(1) Sud iz članka 9. stavka 1. podstavka 5. ovoga Zakona će pravomoćnu odluku o priznanju strane sudske odluke kojom su izrečene probacijske mjere, alternativne sankcije ili je odobren uvjetni otpust s izdržavanja kazne ili mjere koja uključuje oduzimanje slobode dostaviti nadležnom probacijskom uredu te će nadzirati njezino izvršenje.
+(2) Županijski sud prema mjestu posljednjeg prebivališta ili boravišta osuđenika odnosno prema mjestu prebivališta ili boravišta osuđenikove obitelji ili bliskih srodnika nadležan je za upućivanje osuđenika na izvršavanje kazne zatvora ili mjera koje uključuju oduzimanje slobode izrečenih pravomoćnom i izvršnom odlukom o priznanju strane presude ili probacijske odluke kojom je osuđeniku odobren uvjetni otpust s izdržavanja.

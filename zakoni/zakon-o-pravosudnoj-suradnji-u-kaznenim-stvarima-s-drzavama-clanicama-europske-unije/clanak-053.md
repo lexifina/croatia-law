@@ -1,0 +1,4 @@
+## Obustava postupka izvršenja europskog uhidbenog naloga
+# Članak 53.
+(1) Sud obustavlja rješenjem postupak izvršenja europskog uhidbenog naloga ako se tražena osoba više ne nalazi na državnom području Republike Hrvatske ili ako je država izdavanja stavila izvan snage europski uhidbeni nalog.
+(2) Ako je rješenje kojim se odobrava predaja tražene osobe postalo pravomoćno, a nastupile su okolnosti zbog kojih bi se predaja morala odbiti ili obustaviti postupak izvršenja europskog uhidbenog naloga, sud će po službenoj dužnosti ili na prijedlog stranaka ponovno ispitati donesenu odluku. Kada sud utvrdi da više ne postoje uvjeti za izvršenje europskog uhidbenog naloga, svoju prijašnju odluku stavit će izvan snage te donijeti rješenje kojim se obustavlja postupak izvršenja europskog uhidbenog naloga odnosno rješenje kojim se odbija predaja.

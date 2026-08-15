@@ -1,0 +1,6 @@
+## Pravna sredstva
+# Članak 38.
+(1) Protiv odluka o priznanju i izvršenju naloga za osiguranje imovine, europskog istražnog naloga ili odluke o oduzimanju imovine ili predmeta stranke i treća osoba koja je u dobroj vjeri stekla određena prava na imovini koja je predmet tih odluka, a radi zaštite svojih opravdanih interesa, imaju pravo žalbe u skladu s domaćim pravom.
+(2) Podnošenje žalbe protiv odluke o priznanju europskog istražnog naloga ili odluke o oduzimanju imovine ili predmeta odgađa njezino izvršenje i predaju predmeta do okončanja postupka povodom žalbe, dok žalba protiv odluke o priznanju naloga za osiguranje imovine ne zadržava njezino izvršenje.
+(3) Zahtjev za preispitivanje osnovanosti izdavanja naloga za osiguranje imovine i odluke o oduzimanju imovine ili predmeta te opravdanosti izdavanja i postojanja uvjeta za izdavanje europskog istražnog naloga u smislu članka 76. ovoga Zakona može se podnijeti samo nadležnom tijelu u državi izdavanja, u skladu s nacionalnim pravom te države.
+(4) O podnošenju žalbe iz stavka 1. ovoga članka i žalbenim razlozima sud će odmah izvijestiti tijelo koje je izdalo nalog. Odluku donesenu povodom podnesene žalbe sud će dostaviti tijelu koje je izdalo nalog.

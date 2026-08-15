@@ -1,0 +1,7 @@
+## Upućivanje odluka o mjerama opreza
+# Članak 197.
+(1) Nadležno tijelo iz članka 12. stavka 3. ovoga Zakona proslijedit će rješenje o izrečenoj mjeri opreza nadležnom tijelu države članice u kojoj osoba prema kojoj su mjere izrečene ima zakonito i uobičajeno prebivalište. Osoba prema kojoj su izrečene mjere opreza na zapisnik će dati pristanak da će se vratiti u državu izvršenja, uz upozorenje da ako se ne javi nadležnom tijelu u državi izvršenja, protiv nje će biti određen istražni zatvor.
+(2) Osim nadležnom tijelu u smislu stavka 1. ovoga članka, nadležno tijelo može rješenje o izrečenim mjerama opreza, na zahtjev osobe na koju se te mjere odnose, proslijediti nadležnom tijelu neke druge države članice ako tijelo te druge države na to pristane i ako osoba da pristanak u smislu stavka 1. ovoga članka.
+(3) Uz rješenje o izrečenim mjerama opreza nadležno tijelo iz stavka 1. ovoga članka dostavit će i potpisanu potvrdu s ovjerom njezina sadržaja na standardnom obrascu koji je sastavni dio ovoga Zakona (Prilog 10.), posredstvom sigurnog komunikacijskog sredstva podobnog za ispis. Izvornik rješenja o mjerama opreza ili ovjerena preslika te originalna potvrda bit će dostavljeni državi izvršenja na njezino traženje.
+(4) Do zaprimanja obavijesti od nadležnog tijela države izvršenja o priznanju odluke o izrečenim mjerama opreza nadležna tijela izvršavat će mjere koje je izreklo domaće pravosudno tijelo.
+(5) O tijeku izvršenja izrečenih mjera opreza nadležna tijela neposredno će komunicirati.

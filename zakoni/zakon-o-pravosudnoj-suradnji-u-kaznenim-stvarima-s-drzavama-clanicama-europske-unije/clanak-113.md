@@ -1,0 +1,6 @@
+## Nalog za osiguranje imovine
+# Članak 113.
+(1) Nadležno državno odvjetništvo izdat će nalog za osiguranje oduzimanja imovine iz članka 4. stavka 1. točke 11. ovoga Zakona koja se nalazi u drugoj državi članici u svrhu omogućavanja naknadnog oduzimanja te imovine za potrebe kaznenih postupaka koji se vode u Republici Hrvatskoj.
+(2) Nadležno državno odvjetništvo ispunit će potvrdu, čiji je standardni obrazac sastavni dio ovoga Zakona (Prilog 3.), i ovjeriti točnost njezina sadržaja te je zajedno s odlukom neposredno dostaviti nadležnom tijelu države članice za koju opravdano vjeruje da se u njoj nalaze predmeti ili imovina odnosno boravište fizičke osobe ili sjedište pravne osobe kod koje se oni nalaze.
+(3) Ako rješenje o osiguranju oduzimanja imovine bude ukinuto ili preinačeno, nadležno državno odvjetništvo dužno je o tome odmah obavijestiti nadležno tijelo države izvršenja posredstvom sigurnog komunikacijskog sredstva podobnog za ispis, uz uvjet da država izvršenja pristaje na takav način prosljeđivanja.
+(4) Dostava rješenja o osiguranju oduzimanja imovine protivniku osiguranja može biti odgođena samo iznimno na prijedlog državnog odvjetnika, ako je to nužno da se ne ugrozi svrha oduzimanja imovine. Dostava rješenja može se odgoditi najdulje 30 dana od njegova donošenja.

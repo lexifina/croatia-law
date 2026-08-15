@@ -1,0 +1,10 @@
+## Postupak priznanja i izvršenja
+# Članak 169.
+(1) Kad nadležni sud zaprimi stranu presudu ili probacijsku odluku, provjerit će je li uz nju dostavljena potvrda u smislu odredbe članka 183. stavka 1. ovoga Zakona te jesu li ispunjeni sljedeći uvjeti:
+1. osuđenik ima prebivalište ili boravište u Republici Hrvatskoj i vratio se u Republiku Hrvatsku ili se želi vratiti u Republiku Hrvatsku ili
+2. osuđenik je zatražio prosljeđivanje presude ili probacijske odluke nadležnim tijelima Republike Hrvatske u svrhu njihova priznanja i izvršavanja, iako nisu ispunjeni uvjeti iz točke 1. ovoga stavka, a ministarstvo nadležno za poslove pravosuđa dalo je suglasnost državi izdavanja za takvo prosljeđivanje.
+(2) U slučaju propisanom stavkom 1. točkom 2. ovoga članka ministarstvo nadležno za poslove pravosuđa će prilikom davanja suglasnosti državi izdavanja da proslijedi presudu ili probacijsku odluku Republici Hrvatskoj u svrhu njezina priznanja i izvršavanja posebno voditi računa o lakšoj rehabilitaciji i integraciji osuđenika u društvo.
+(3) Sud odnosno ministarstvo nadležno za poslove pravosuđa u slučajevima iz stavaka 1. i 2. ovoga članka utvrdit će ima li osuđenik odnosno njegova obitelj ili bliski srodnici prebivalište ili boravište u Republici Hrvatskoj, posjeduje li osuđenik kakvu nepokretnu imovinu u Republici Hrvatskoj ili druge osobne i društvene okolnosti koje ga povezuju s Republikom Hrvatskom.
+(4) Sud može od države izdavanja zatražiti dostavljanje otpravka presude ili probacijske odluke odnosno njihove ovjerene kopije zajedno s izvornikom potvrde.
+(5) Nakon postupka provedenog na temelju stavaka 1. do 4. ovoga članka sud će bez odgode donijeti odluku o priznanju strane presude ili probacijske odluke, osim ako utvrdi postojanje neke od osnova za odbijanje priznanja i izvršavanje presude odnosno probacijske odluke iz članaka 174. i 175. ovoga Zakona.
+(6) Sud će odluku o priznanju strane presude ili probacijske odluke u roku od osam dana od njezine pravomoćnosti i izvršnosti dostaviti nadležnom sudu iz članka 168. ovoga Zakona.

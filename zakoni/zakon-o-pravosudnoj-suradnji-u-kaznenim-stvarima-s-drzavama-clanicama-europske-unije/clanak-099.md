@@ -1,0 +1,4 @@
+## Izdavanje europskog istražnog naloga u svrhu pribavljanja podataka o bankovnim i drugim financijskim računima
+# Članak 99.
+(1) Nadležno pravosudno tijelo može za potrebe vođenja domaćeg kaznenog postupka izdati europski istražni nalog kako bi se pribavili podaci o računima koji se vode u bankama ili drugim financijskim institucijama koje se nalaze na državnom području države izvršenja, a koje fizička ili pravna osoba drži ili na drugi način njima raspolaže.
+(2) Nadležno pravosudno tijelo prilikom izdavanja u europskom istražnom nalogu navodi zašto smatra da bi zatraženi podaci mogli biti od važnosti za domaći kazneni postupak te na temelju čega pretpostavlja da se računi vode u određenim bankama ili drugim financijskim institucijama u državi izvršenja i, u mjeri u kojoj je moguće, koje bi banke ili druge financijske institucije mogle biti uključene. Također, u europski istražni nalog unosi sve dostupne podatke koji mogu olakšati njegovo izvršenje.
