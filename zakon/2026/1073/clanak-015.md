@@ -1,0 +1,3 @@
+# Članak 15.
+U članku 190. stavak 3. mijenja se i glasi:
+»(3) Ako ovim Zakonom nije drukčije određeno, rješenje o prekršaju kojim se okrivljenik proglašava krivim ima odgovarajući sadržaj prema članku 183. ovoga Zakona. Ako je okrivljeniku izrečena novčana kazna, u izreci rješenja o prekršaju odredit će se rok njezina plaćanja. Izrekom rješenja o prekršaju okrivljenika će se također upozoriti da ako u roku koji mu je određen za plaćanje novčane kazne uplati dvije trećine izrečene novčane kazne, smatrat će se da je novčana kazna u cjelini uplaćena u skladu s člankom 152. stavkom 3. ovoga Zakona.«.
