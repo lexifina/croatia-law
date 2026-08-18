@@ -1,0 +1,3 @@
+# Članak 25.
+Danom stupanja na snagu ovoga Pravilnika prestaje važiti Odluka o obvezi uvođenja funkcije praćenja usklađenosti poslovanja u pravnim osobama u većinskom državnom vlasništvu (»Narodne novine«, broj 99/2019).
+Danom stupanja na snagu ovog Pravilnika stavljaju se van snage Smjernice za funkciju praćenja usklađenosti poslovanja u pravnim osobama u većinskom vlasništvu Republike Hrvatske Ministarstva financija iz lipnja 2024. godine (dalje u tekstu: Smjernice), koje Smjernice je donio ministar financija Odlukom o donošenju Smjernica za funkciju praćenja usklađenosti u pravnim osobama u većinskom vlasništvu Republike Hrvatske, klasa: 432-01/24-01/18, urbroj: 513-13-02-02-24-1, od 5. lipnja 2024. godine.

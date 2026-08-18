@@ -1,0 +1,5 @@
+## Uspostavljanje etičkih standarda i mehanizama za prijavu nezakonitosti i nepravilnosti
+# Članak 13.
+(1) Funkcija usklađenosti sudjeluje u uspostavi etičkih standarda i mehanizama za prijavu nezakonitosti i nepravilnosti te prati primjenu navedenih standarda i mehanizama.
+(2) Uspostavljanje etičkih standarda uključuje uspostavljanje mjera i postupaka za upravljanje mogućim sukobima interesa, davanje i primanje darova, borbu protiv korupcije, sprječavanje i otkrivanje stranog podmićivanja, sprječavanje favoriziranja, nepotizma ili kronizma, uspostavu etičkih standarda u procesima upravljanja ljudskim resursima, dubinsku analizu ključnih poslovnih partnera, transparentnost poslovanja i pravedno postupanje prema dobavljačima, kupcima, radnicima te ostalim dionicima, informiranje poslovnih partnera o obvezama prema zakonima i etičkim standardima, reguliranje pitanja iznuda i prisila, donacija i sponzorstava.
+(3) Funkcija usklađenosti redovito, a najmanje jednom svake dvije godine, procjenjuje primjerenost i učinkovitost uspostavljenih etičkih standarda i mehanizama za prijavu nezakonitosti i nepravilnosti te po potrebi predlaže njihove izmjene i dopune.
