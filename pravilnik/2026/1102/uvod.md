@@ -1,0 +1,1 @@
+Na temelju članka 14. stavka 10., članka 18. stavka 4. i članka 26. stavka 5. Zakona o medijaciji (»Narodne novine«, broj 27/26.) ministar nadležan za poslove pravosuđa, uprave i digitalne transformacije donosi
