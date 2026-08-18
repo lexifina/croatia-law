@@ -1,3 +1,0 @@
-# Članak 13.
-(1) Institucije za medijaciju koje su dobile suglasnost iz članka 10. stavka 1. Pravilnika o registru izmiritelja i standardima za akreditiranje institucija za mirenje i izmiritelja (»Narodne novine«, broj 59/11.) Centar će pozvati da u roku od 30 dana dostave podatke o medijatorima i/ili trenerima koji provode medijaciju odnosno obuku u toj instituciji, a upisani su u Registar medijatora.
-(2) Instituciji za medijaciju koja ne dostavi podatke o najmanje tri medijatora Centar će uskratiti suglasnost za provođenje medijacije, a instituciji za medijaciju koja ne dostavi podatke o najmanje tri trenera Centar će uskratiti suglasnost za provođenje obuke za medijatora odnosno trenera.

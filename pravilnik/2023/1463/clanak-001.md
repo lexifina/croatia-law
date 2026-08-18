@@ -1,3 +1,0 @@
-## I. OPĆE ODREDBE
-# Članak 1.
-Pravilnikom o institucijama za medijaciju (dalje u tekstu: Pravilnik) propisuju se uvjeti za davanje suglasnosti institucijama za medijaciju za provođenje obuke za medijatora i trenera te za provođenje medijacije, način provođenja osnovne i dodatne obuke za medijatora i obuke za trenera, vođenje evidencije polaznika obuke za medijatora i obuke za trenera, sadržaj i način dostave informacija Centru za mirno rješavanje sporova (dalje u tekstu: Centar) od strane institucija za medijaciju o postupcima mirnog rješavanja sporova, njihovu trajanju i ishodu te sadržaj, način vođenja i oblik registra institucija za medijaciju te način upisa u Registar institucija za medijaciju.
