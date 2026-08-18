@@ -1,0 +1,2 @@
+# Članak 12.
+Upisi iz Registra medijatora koji su izvršeni na temelju Pravilnika o registru izmiritelja i standardima za akreditiranje institucija za mirenje i izmiritelja (»Narodne novine«, broj 13/10.), Pravilnika o registru izmiritelja i standardima za akreditiranje institucija za mirenje i izmiritelja (»Narodne novine«, broj 59/11.) i Pravilnika o registru medijatora (»Narodne novine«, broj 100/23.) Nacionalni centar će po službenoj dužnosti prenijeti u Registar iz članka 11. ovoga Pravilnika.
