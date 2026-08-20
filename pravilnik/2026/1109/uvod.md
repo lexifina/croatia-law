@@ -1,0 +1,1 @@
+Na temelju članka 48.a Zakona o stambenom zbrinjavanju na potpomognutim područjima (»Narodne novine«, br. 106/18., 98/19., 82/23. i 151/25.; u daljnjem tekstu: Zakon), ministar prostornoga uređenja, graditeljstva i državne imovine donosi
