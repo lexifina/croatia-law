@@ -1,0 +1,2 @@
+# Članak 7.
+Pravne osobe mogu umjesto oznake »NEKLASIFICIRANO« koristiti drugu oznaku utvrđenu internim propisima, koja utvrđuje ograničenja korištenja i pristupa podatku na način da se podatak označen tom oznakom koristi samo u službene svrhe i može biti dostupan isključivo onim fizičkim osobama, tijelima i pravnim osobama koje imaju potrebu korištenja takvog podatka u službene svrhe i radi obavljanja poslova iz njihovog djelokruga.

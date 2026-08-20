@@ -1,0 +1,1 @@
+Na temelju članka 44. stavka 6. Zakona o kritičnoj infrastrukturi (»Narodne novine«, br. 89/25.), a u vezi s člankom 10. Zakona o tajnosti podataka (»Narodne novine«, broj 79/07. i 86/12.), ministar unutarnjih poslova donosi
