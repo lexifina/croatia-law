@@ -1,0 +1,1 @@
+Zakon o potvrđivanju Ugovora između Republike Hrvatske i Organizacije za hranu i poljoprivredu Ujedinjenih naroda o uspostavi Subregionalnog tehničkog ureda Opće komisije za ribarstvo Sredozemlja, za jadransku subregiju, u Republici Hrvatskoj, u Splitu
