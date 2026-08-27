@@ -1,0 +1,1 @@
+Na temelju članka 8. stavka 1. Zakona o sanaciji javnih ustanova (»Narodne novine«, br. 136/12., 151/14., 27/16. i 73/19.), Vlada Republike Hrvatske je na sjednici održanoj 27. kolovoza 2026. donijela
