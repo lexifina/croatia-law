@@ -1,0 +1,3 @@
+# Članak 20.
+(1) Postupci imenovanja i trajnog premještaja zamjenika državnih odvjetnika, stegovni postupci protiv zamjenika državnih odvjetnika te postupci imenovanja državnih odvjetnika započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Državnoodvjetničkom vijeću (»Narodne novine«, br. 67/18., 126/19., 80/22. i 155/23.).
+(2) Pravila o načinu provođenja pisane provjere znanja i ocjenjivanju pisanih radnji kandidata za zamjenika Glavnog državnog odvjetnika Republike Hrvatske i zamjenika županijskih državnih odvjetnika, koji nisu pravosudni dužnosnici (»Narodne novine«, br. 39/23.) Vijeće će uskladiti s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.

@@ -1,0 +1,3 @@
+# Članak 19.
+(1) Kandidati za zamjenike općinskih državnih odvjetnika koji nisu završili Državnu školu za pravosudne dužnosnike i koji su pravosudni ispit položili prije 1. rujna 2009. u postupku imenovanja sudjeluju s brojem bodova na pravosudnom ispitu na način da kandidati koji su položili pravosudni ispit sudjeluju sa 75 bodova, a kandidati koji su pravosudni ispit položili s posebnom pohvalom s 90 bodova.
+(2) Kandidati za zamjenike općinskih državnih odvjetnika koji nisu završili Državnu školu za pravosudne dužnosnike i koji su pravosudni ispit položili nakon 1. rujna 2009., a prije stupanja na snagu ovoga Zakona, u postupku imenovanja sudjeluju s brojem bodova ostvarenim na pravosudnom ispitu.
