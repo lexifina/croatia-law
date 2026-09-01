@@ -1,0 +1,3 @@
+# Članak 17.
+(1) Postupci imenovanja i trajnog premještaja sudaca, stegovni postupci protiv sudaca te postupci udaljenja od obavljanja sudačke dužnosti započeti do stupanja na snagu ovoga Zakona dovršit će se prema odredbama Zakona o Državnom sudbenom vijeću (»Narodne novine«, br. 116/10., 57/11., 130/11., 13/13. - Odluka Ustavnog suda Republike Hrvatske, 28/13., 82/15., 67/18., 126/19., 80/22., 16/23. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 83/23. - Odluka Ustavnog suda Republike Hrvatske i 155/23.).
+(2) Pravila o vrednovanju kandidata u postupku imenovanja sudaca prvostupanjskih, županijskih i visokih sudova (»Narodne novine«, br. 132/22.) Vijeće će uskladiti s odredbama ovoga Zakona u roku od 60 dana od dana stupanja na snagu ovoga Zakona.
