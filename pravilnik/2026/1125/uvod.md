@@ -1,0 +1,1 @@
+Na osnovi članka 15. stavka 2. Zakona o javnoj nabavi (»Narodne novine«, broj 120/16., 114/22. i 48/26.), članka 29. stavka 1. točke 14. i članka 33. stavka 2. Statuta Hrvatskog zavoda za zdravstveno osiguranje (»Narodne novine«, broj 74/25.) Upravno vijeće Hrvatskog zavoda za zdravstveno osiguranje na 50. izvanrednoj sjednici održanoj 11. kolovoza 2026. godine donijelo je
