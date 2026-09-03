@@ -1,4 +1,0 @@
-# Članak 6.
-Povjerenstvo obavlja razgovor s pristupnicima u svrhu stjecanja uvida u opća znanja, znanja specifična za pojedinu specijalizaciju, motiviranost pristupnika, kvalitetu socijalnog kontakta, verbalne i neverbalne sposobnosti i opći dojam. Povjerenstvo može vlastitom odlukom ocijeniti pristupnike i u drugim kategorijama prilagođenim potrebama i naravi specijalizacije za koju se provodi natječaj.
-Svaki od članova Povjerenstva nakon obavljenog razgovora s pristupnikom ocjenjuje ga s najviše 1,5 bodova, a obvezan je ocjenu obrazložiti na obrascu iz Priloga I. koji je sastavni dio ovoga Pravilnika.
-Prijedlog kandidata za prijam na specijalizaciju utvrđuje se zbrajanjem bodova koje su pristupnici ostvarili na temelju provedenog bodovanja prema pojedinom mjerilu iz članka 3. ovoga Pravilnika i razgovora s Povjerenstvom, pod uvjetom da su rezultati psihološkog testiranja uspješni.
