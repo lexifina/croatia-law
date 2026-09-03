@@ -1,0 +1,1 @@
+Na temelju članka 183. stavka 3. Zakona o zdravstvenoj zaštiti (»Narodne novine«, br. 100/18., 125/19., 147/20., 119/22., 156/22., 33/23., 36/24. i 102/25.) ministrica zdravstva, uz prethodno pribavljeno mišljenje Hrvatske liječničke komore, Hrvatske komore dentalne medicine, Hrvatske komore medicinskih biokemičara i Hrvatske ljekarničke komore, donosi
