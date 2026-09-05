@@ -1,0 +1,3 @@
+# Članak 2.
+U članku 7. stavak 3. briše se.
+Dosadašnji stavak 4. postaje stavak 3.
