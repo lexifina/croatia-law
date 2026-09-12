@@ -1,0 +1,1 @@
+Pravilnik o provedbi intervencije 78.A.01. »Krizna plaćanja poljoprivrednicima nakon prirodnih katastrofa, nepovoljnih klimatskih prilika ili katastrofalnih događaja« iz Strateškog plana zajedničke poljoprivredne politike Republike Hrvatske 2023. - 2027.
