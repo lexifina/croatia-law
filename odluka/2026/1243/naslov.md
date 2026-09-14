@@ -1,0 +1,1 @@
+Odluka o donošenju Nacionalnog plana za razvoj industrije Republike Hrvatske za razdoblje od 2027. do 2034. godine i Akcijskog plana za provedbu Nacionalnog plana za razvoj industrije Republike Hrvatske za razdoblje od 2027. do 2030. godine
