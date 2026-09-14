@@ -1,0 +1,1 @@
+Odluka o davanju suglasnosti na Odluku Županijske skupštine Primorsko-goranske županije o II. izmjenama Odluke o davanju koncesije na pomorskom dobru za izgradnju i gospodarsko korištenje luke posebne namjene - sportska luka Opatija, Grad Opatija
