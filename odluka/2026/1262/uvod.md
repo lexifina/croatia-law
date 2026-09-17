@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 1. Zakona o poticanju razvoja malog gospodarstva (»Narodne novine«, b r. 29/02., 63/07., 53/12., 56/13. i 121/16.) i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, b r. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.), Vlada Republike Hrvatske je na sjednici održanoj 17. rujna 2026. donijela
