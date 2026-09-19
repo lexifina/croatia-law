@@ -1,0 +1,1 @@
+Na temelju članka 4. Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti (»Narodne novine«, br. 126/21.) i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19. i 155/23.), ministar mora, prometa i infrastrukture, uz prethodnu suglasnost ministra nadležnog za gospodarstvo i ministra vanjskih i europskih poslova, donosi

@@ -1,0 +1,4 @@
+## Davanje prednosti aktivnostima nadzora tržišta i uzajamna pomoć među tijelima
+# Članak 27.
+(1) Tijelo nadležno za nadzor tržišta za uređaje navedene u provedbenom propisu iz članka 25. stavka 1. ovoga Pravilnika daje prioritet te surađuje s tijelima za nadzor tržišta drugih država članica Europske unije putem Mreže Unije za sukladnost proizvoda, uspostavljene člankom 29. Uredbe (EU) 2019/1020.
+(2) Tijelo nadležno za nadzor tržišta osigurava ulaganje najvećih napora kako bi se pomoglo drugim tijelima za nadzor tržišta tijekom režima za izvanredne okolnosti na unutarnjem tržištu, uz ostalo mobilizacijom i upućivanjem stručnih timova radi privremenog povećanja broja članova osoblja tijela za nadzor tržišta koja zatraže pomoć, ili pružanjem logističke potpore, kao što je jačanje kapaciteta za ispitivanje uređaja na koje se odnosi članak 25. ovoga Pravilnika.
