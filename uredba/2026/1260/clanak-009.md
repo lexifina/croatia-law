@@ -1,0 +1,2 @@
+# Članak 9.
+Okvirni broj državnih službenika i namještenika Ministarstva turizma i sporta prikazan u tablici koja je sastavni dio Uredbe o unutarnjem ustrojstvu Ministarstva truizma i sporta (»Narodne novine«, br. 11/25. i 108/25.), zamjenjuje se Okvirnim brojem državnih službenika i namještenika Ministarstva turizma i sporta koji je prikazan u tablici u prilogu ove Uredbe i sastavni je dio Uredbe o unutarnjem ustrojstvu Ministarstva turizma i sporta.
