@@ -1,0 +1,1 @@
+Na temelju članka 81. stavka 6. Zakona o zaštiti potrošača (»Narodne novine«, broj 19/22, 59/23, 59/26) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, broj 66/19, 155/23), ministar gospodarstva, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
