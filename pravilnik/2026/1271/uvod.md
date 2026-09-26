@@ -1,0 +1,1 @@
+Na temelju članka 112.b stavka 6. Zakona o zaštiti potrošača (»Narodne novine«, broj 19/22, 59/23, 59/26) te članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19 i 155/23), ministar gospodarstva, uz prethodnu suglasnost ministra vanjskih i europskih poslova, donosi
