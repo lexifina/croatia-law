@@ -1,0 +1,1 @@
+Na temelju članka 15. stavka 4. Zakona o pravosudnoj suradnji u kaznenim stvarima s državama članicama Europske unije (»Narodne novine«, broj 86/26.), ministar pravosuđa, uprave i digitalne transformacije donosi

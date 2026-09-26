@@ -1,0 +1,3 @@
+# Članak 1.
+(1) Ovim Pravilnikom propisuje se broj osoba za kontakt s Europskom pravosudnom mrežom u kaznenim stvarima (u daljnjem tekstu: kontaktne točke) u Ministarstvu pravosuđa, uprave i digitalne transformacije (u daljnjem tekstu: Ministarstvo), u nadležnim sudovima i državnim odvjetništvima te njihova mjesna nadležnost.
+(2) Ovim Pravilnikom propisuje se i način određivanja kontaktnih točaka koje obnašaju dužnost nacionalnog dopisnika (korespondenta) za Europsku pravosudnu mrežu u kaznenim stvarima te dužnost dopisnika (korespondenta) Europske pravosudne mreže u kaznenim stvarima za tehnička pitanja.
