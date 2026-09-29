@@ -1,0 +1,12 @@
+## Strane ovlaštene osobe
+# Članak 12.
+(1) Ovlaštena pravna i fizička osoba iz druge države članice Europske unije odnosno države ugovornice Europskog gospodarskog prostora, može u Republici Hrvatskoj obavljati poslove provođenja energetskog pregleda pod istim uvjetima kao i tuzemne pravne i fizičke osobe ako se prije početka prvog posla u Republici Hrvatskoj registrira pri Ministarstvu u registar ovlaštenih osoba iz članka 22. ovoga Pravilnika.
+(2) Ovlaštena strana pravna osoba uz prijavu u registar Ministarstva iz stavka 1. ovoga članka dužna je priložiti:
+− dokaz da je u Republici Hrvatskoj ili u drugoj državi članici Europske unije odnosno državi ugovornici Europskog gospodarskog prostora osiguran od odgovornosti za štetu koju bi obavljanjem poslova provođenja energetskih pregleda poduzeća mogao učiniti poduzeću ili drugim osobama
+− ovlaštenje za obavljanje poslova iz stavka 1. ovoga članka u državi članici iz koje dolazi.
+(3) Ako se u državi članici iz koje dolazi strana pravna osoba poslovi provođenja energetskih pregleda obavljaju bez posebnog ovlaštenja, uz prijavu u registar Ministarstva potrebno je priložiti dokaze iz članka 14. stavak 3. točke 1. - 5.
+(4) Ministarstvo provjerava da se protiv pravne osobe i odgovorne osobe u pravnoj osobi ne vodi kazneni postupak zbog kaznenog djela koje se goni po službenoj dužnosti, i da protiv pravne osobe i protiv odgovorne osobe u pravnoj osobi nije izrečena pravomoćna osuđujuća presuda za jedno ili više kaznenih djela koja se gone po službenoj dužnosti.
+(5) Ovlaštena strana fizička osoba uz prijavu u registar Ministarstva iz stavka 1. ovoga članka dužna je priložiti ovlaštenje za obavljanje poslova iz stavka 1. ovoga članka u državi članici iz koje dolazi.
+(6) Ako strana fizička osoba dolazi iz države članice Europske unije odnosno države ugovornice Europskog gospodarskog prostora gdje se poslovi provođenja energetskih pregleda obavljaju bez posebnog ovlaštenja treba prilikom zahtjeva za ovlaštenjem dostaviti isprave iz članka 13. stavka 3. točke 1. - 6. odnosno jednakovrijedne dokumente iz članka 13. stavka 3. točke 5. i 6.
+(7) Ministarstvo izdaje potvrdu podnositelju koji ispunjava propisane uvjete za obavljanje poslova provođenja energetskog pregleda u skladu s odredbama ovoga Pravilnika.
+(8) Za stranu osobu kojoj je Ministarstvo izdalo rješenje po članku 32. Zakona, primjenjuju se odredbe o načinu provedbe energetskog pregleda poduzeća sukladno ovom Pravilniku i Zakonu.

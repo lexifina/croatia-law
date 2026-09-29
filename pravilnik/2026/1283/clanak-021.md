@@ -1,0 +1,8 @@
+## Postupanje ovlaštenih osoba
+# Članak 21.
+(1) Energetski pregled poduzeća provodi za to ovlaštena pravna osoba, koju u poslu provedbe energetskog pregleda predstavlja imenovana osoba kao voditelj stručnog tima i potpisnik izvješća o energetskom pregledu poduzeća.
+(2) Ovlaštena pravna osoba iz stavka 1. ovoga članka dužna je osigurati da energetski pregled poduzeća obavljaju najmanje dvije ovlaštene fizičke osobe, od kojih jedna mora biti strojarske struke.
+(3) Ako poslovni i proizvodni proces poduzeća zahtijeva znanja iz struka koje nisu obuhvaćene strukama ovlaštenih osoba za provedbu energetskog pregleda poduzeća iz stavka 2. ovoga članka, imenovana osoba iz stavka 1. ovoga članka dužna je osigurati uključivanje stručnjaka iz struka koje pokrivaju te procese.
+(4) Imenovana osoba iz stavka 1. ovoga članka dužna je osigurati da je u provedbu energetskog pregleda poduzeća uključena najmanje jedna osoba zaposlena u tom poduzeću na poslovima upravljanja, održavanja ili drugim poslovima vezanim uz proizvodne i poslovne procese u poduzeću.
+(5) Ukoliko ovlaštena pravna osoba ne zapošljava fizičke osobe svih potrebnih struka iz stavka 2. ovoga članka, dužna je odgovarajuće poslove povjeriti ovlaštenim osobama koje ispunjavaju tražene uvjete.
+(6) Ovlaštena pravna osoba, ovlaštena fizička osoba može u provedbu energetskog pregleda uključiti i druge stručnjake specijalizirane za pojedine tehnologije, procese ili tehničke sustave koji ne posjeduju ovlaštenje za provedbu energetskog pregleda poduzeća, pri čemu odgovornost za provedbu energetskog pregleda i sadržaj izvješća snosi nositelj ovlaštenja.
