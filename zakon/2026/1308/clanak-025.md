@@ -1,0 +1,7 @@
+# Članak 25.
+Članak 50. mijenja se i glasi:
+»(1) Za potrebe izvođenja sveučilišnog studija jezika i književnosti na visokom učilištu može se zaposliti lektor hrvatskog odnosno stranog jezika. Kriterije za izbor na radno mjesto lektora hrvatskog odnosno stranog jezika utvrđuje visoko učilište općim aktom.
+(2) Na temelju međunarodnih ugovora i drugih međunarodnopravnih akata na visoka učilišta u inozemstvu upućuju se lektori hrvatskoga jezika i književnosti na temelju ugovora o radu na određeno vrijeme sklopljenog s ministarstvom nadležnim za visoko obrazovanje.
+(3) Ukupno trajanje ugovora o radu na određeno vrijeme za obavljanja poslova lektora hrvatskoga jezika iz stavka 2. ovoga članka može, zbog iskazane potrebe visokog učilišta u inozemstvu za radom lektora, uz suglasnost ministarstva nadležnog za visoko obrazovanje, trajati neprekinuto dulje od tri godine, ali ne dulje od osam godina.
+(4) Lektoru koji je prije sklapanja ugovora o radu na određeno vrijeme iz stavka 2. ovoga članka bio zaposlen na neodređeno vrijeme u sustavu obrazovanja u Republici Hrvatskoj, jamči se povratak na radno mjesto u roku od 30 dana od dana prestanka ugovora o radu na visokom učilištu u inozemstvu.
+(5) Uvjete za izbor i zasnivanje radnog odnosa, sukladno potrebama visokog učilišta u inozemstvu za radom lektora hrvatskoga jezika i književnosti, pravilnikom propisuje ministar nadležan za visoko obrazovanje.«.

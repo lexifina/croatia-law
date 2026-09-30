@@ -1,0 +1,3 @@
+# Članak 29.
+U članku 57. stavak 6. mijenja se i glasi:
+»(6) Visoka učilišta mogu ustrojiti programe stručnog usavršavanja za potrebe cjeloživotnog učenja te razlikovne obveze studenata za potrebe promjene studija odnosno upisa na studij, dovršetka ranije započetog studija i priznavanja kompetencija stečenih izvan studija, a koje su uvjet za upis na studij, pri čemu se program stručnog usavršavanja za potrebe cjeloživotnog učenja ne smatra studijem, a može se financirati putem vaučera u svrhu pristupa tržištu rada ako je usklađen sa standardom zanimanja i standardom kvalifikacije ili skupom ishoda učenja iz Registra Hrvatskog kvalifikacijskog okvira.«.
