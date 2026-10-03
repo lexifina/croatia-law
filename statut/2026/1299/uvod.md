@@ -1,0 +1,1 @@
+Na temelju članka 30. Zakona o socijalnopedagoškoj djelatnosti (»Narodne novine« 98/19, 18/22), Skupština Hrvatske komore socijalnih pedagoga, uz prethodnu suglasnost Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike, klasa: 550-06/26-11/35, urbroj: 524-09-01-03/2-26-6 od 14. srpnja 2026. na sjednici održanoj 17. kolovoza 2026. donijela je
