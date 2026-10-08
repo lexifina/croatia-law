@@ -1,0 +1,1 @@
+Na temelju članka 13. stavka 9. Zakona o prijevozu u cestovnom prometu (»Narodne novine«, br. 41/18., 98/19., 30/21., 89/21. - Odluka i Rješenje Ustavnog suda Republike Hrvatske, 114/22., 136/24. i 77/26.) ministar mora, prometa i infrastrukture donosi
