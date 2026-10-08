@@ -1,4 +1,0 @@
-# Članak 8.
-(1) Informacijske i tehničke platforme, odnosno rješenja koja čine jedinstveno sučelje moraju biti interoperabilna, dostupna i kompatibilna sa SafeSeaNet sustavom te, prema potrebi, s računalnim sustavima propisanima u Odluci br. 70/2008/EZ Europskog parlamenta i Vijeća od 15. siječnja 2008. o kompjutoriziranom okružju za carinu i trgovinu.
-(2) Isprave, dokumenti i podaci zaprimljeni službenim postupkom prijave dostupni su u nacionalnom SafeSeaNet sustavu u skladu s posebnim propisom te se stavljaju na raspolaganje drugim državama članicama na zahtjev putem SafeSeaNet sustava, uključujući, prema potrebi, i podatke zaprimljene u skladu s posebnim pravnim aktima Europske unije koji uređuju područje carine i granične kontrole.
-(3) Jedinstveno sučelje povezuje SafeSeaNet, e-Carinu i druge informacijske sustave.
