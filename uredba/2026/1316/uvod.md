@@ -1,0 +1,1 @@
+Na temelju članka 60. stavka 6. Pomorskog zakonika (»Narodne novine«, br. 181/04., 76/07., 146/08., 61/11., 56/13., 26/15. i 17/19.), Vlada Republike Hrvatske je na sjednici održanoj 29. rujna 2026. donijela

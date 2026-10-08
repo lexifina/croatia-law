@@ -1,0 +1,4 @@
+# Članak 5.
+(1) U skladu s člankom 8. EMSWe Uredbe, obveza prijave od strane deklaranta, kako su definirani člankom 2. EMSWe Uredbe, jedinstvenim nacionalnim pomorskim sučeljem obavlja se jednokratno.
+(2) Jedinstvenim nacionalnim pomorskim sučeljem osigurava se da svaki subjekt zaprima, dostavlja i razmjenjuje onu obvezu prijave, kako je definirana člankom 2. EMSWe Uredbe, koja je za taj subjekt relevantna odnosno iz područja za koje je taj subjekt nadležan u skladu s odredbama posebnih propisa koji utvrđuju djelokrug tog subjekta.
+(3) Obveza prijave, kako je definirana člankom 2. EMSWe Uredbe, koja proizlazi iz nacionalnog zakonodavstva i zahtjeva, obuhvaća informacije odnosno podatke i dokumente iz djelokruga subjekata u skladu s odredbama posebnih propisa koji uređuju nadležnosti odnosno upravna područja iz članka 4. stavka 2. ove Uredbe.

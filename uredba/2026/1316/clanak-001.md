@@ -1,0 +1,2 @@
+# Članak 1.
+Ovom Uredbom utvrđuju se način i uvjeti usklađene dostave i razmjene podataka i dokumenata o pomorskom prometu jedinstvenim sučeljem za formalnosti u pomorskom prometu (u daljnjem tekstu: jedinstveno nacionalno pomorsko sučelje), između broda i nadležnih tijela državne uprave, između tijela državne uprave međusobno te međunarodne razmjene, s ciljem smanjenja administrativnog opterećenja i unaprjeđenja kvalitete javnih usluga standardiziranjem i racionaliziranjem obveze prijave po principu jednokratne dostave informacija.
