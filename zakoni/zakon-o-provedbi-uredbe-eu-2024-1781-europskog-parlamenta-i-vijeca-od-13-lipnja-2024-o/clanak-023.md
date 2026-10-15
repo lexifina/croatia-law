@@ -1,0 +1,17 @@
+## Prekršaji distributera
+# Članak 23.
+(1) Novčanom kaznom od 5000,00 do 30.000,00 eura kaznit će se za prekršaj pravna osoba – distributer ako:
+a) stavi na raspolaganje na tržištu proizvod koji nije sukladan s delegiranim aktom donesenim na temelju članka 4. Uredbe (EU) 2024/1781 (članak 30. stavak 1. Uredbe (EU) 2024/1781)
+b) stavi na raspolaganje na tržištu proizvod bez CE oznake ili oznake sukladnosti donesene u skladu s člankom 4. stavkom 6. točkom (d) Uredbe (EU) 2024/1781 ili bez digitalne putovnice (članak 30. stavak 2. točka a) Uredbe (EU) 2024/1781)
+c) stavi na raspolaganje na tržištu proizvod za koji nisu priloženi potrebni dokumenti i digitalne upute na hrvatskom jeziku, sukladno odredbama članka 5. ovoga Zakona, a koje moraju biti jasne, razumljive i čitljive (članak 30. stavak 2. točka b) Uredbe (EU) 2024/1781)
+d) stavi na raspolaganje na tržištu proizvod za koji proizvođač i uvoznik nisu ispunili zahtjeve utvrđene u članku 27. stavcima 5. i 6. te u članku 29. stavku 3. Uredbe (EU) 2024/1781 (članak 30. stavak 2. točka c) Uredbe (EU) 2024/1781)
+e) stavi na raspolaganje na tržište proizvode za koje nije osigurao njihovu sukladnost ili ima razloga vjerovati da određeni proizvodi nisu sukladni sa zahtjevima utvrđenima u primjenjivim delegiranim aktima donesenima na temelju članka 4. Uredbe (EU) 2024/1781 (članak 30. stavak 3. podstavak 1. Uredbe (EU) 2024/1781)
+f) nije osigurao uvjete skladištenja ili prijevoza proizvoda koji su pod njegovom nadležnošću na način da ne ugrožavaju sukladnost proizvoda sa zahtjevima utvrđenima u primjenjivom delegiranom aktu donesenom na temelju članka 4. Uredbe (EU) 2024/1781 (članak 30. stavak 3. podstavak 2. Uredbe (EU) 2024/1781)
+g) nije poduzeo potrebne korektivne mjere kako bi proizvod učinio sukladnim ili ga odmah nije povukao s tržišta ili opozvao, a ima razloga vjerovati da proizvod obuhvaćen delegiranim aktom koji je stavio na tržište nije sukladan sa zahtjevima utvrđenima u delegiranom aktu donesenom na temelju članka 4. Uredbe (EU) 2024/1781 (članak 30. stavak 4. podstavak 1. Uredbe (EU) 2024/1781)
+h) nije odmah obavijestio nadležno tijelo za nadzor tržišta o sumnji na nesukladnost proizvoda i o svim poduzetim korektivnim mjerama (članak 30. stavak 4. podstavak 2. Uredbe (EU) 2024/1781)
+i) nije dostavio na obrazložen zahtjev nadležnog nacionalnog tijela sve informacije i dokumentaciju koja je potrebna za dokazivanje sukladnosti proizvoda, na jeziku lako razumljivom inspektoru, u papirnatom ili elektroničkom obliku, u roku od 15 dana nakon što je to tijelo primilo zahtjev (članak 30. stavak 5. podstavak 1. Uredbe (EU) 2024/1781)
+j) nije surađivao s nadležnim nacionalnim tijelom u pogledu svih poduzetih korektivnih mjera kako bi se ispravio svaki slučaj nesukladnosti sa zahtjevima utvrđenima u primjenjivom delegiranom aktu donesenom na temelju članka 4. Uredbe (EU) 2024/1781 (članak 30. stavak 5. podstavak 2. Uredbe (EU) 2024/1781)
+k) postupa suprotno odredbama Pravilnika iz članka 19. ovoga Zakona.
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 1000,00 do 6000,00 eura.
+(3) Za prekršaje iz stavka 1. ovoga članka kaznit će se fizička osoba – obrtnik i osoba koja obavlja drugu samostalnu djelatnost novčanom kaznom od 5000,00 eura do 20.000,00 eura.
+(4) Za prekršaje iz stavka 1. ovoga članka subjekt se može privremeno isključiti iz postupaka javne nabave u razdoblju od 1 do najviše 12 mjeseci ako je to u razmjeru s težinom počinjenog prekršaja i prekršaja koji se mogu očekivati.

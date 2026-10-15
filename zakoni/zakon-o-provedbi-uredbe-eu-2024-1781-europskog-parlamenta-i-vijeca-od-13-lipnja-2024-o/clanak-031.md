@@ -1,0 +1,7 @@
+## Isključivanje iz postupaka javne nabave
+# Članak 31.
+(1) Kada je gospodarskom subjektu izrečena kazna za prekršaje iz članka 20. stavka 1., članka 21. stavka 1., članka 22. stavka 1., članka 23. stavka 1., članka 24. stavka 1., članka 25. stavka 1., članka 26. stavka 1., članka 27. stavka 1., članka 28. stavka 1., članka 29. stavka 1. i članka 30. stavka 1. ovoga Zakona, odnosno kada im je izrečena kazna privremenog isključenja iz postupaka javne nabave, naručitelji su obvezni, ako zaprime ponudu od tih gospodarskih subjekata u razdoblju za koje je isključenje utvrđeno, primijeniti osnovu za isključenje sukladno odredbama propisa koji uređuju javnu nabavu.
+(2) Popis gospodarskih subjekata kojima je izrečeno privremeno isključenje iz postupaka javne nabave sukladno ovom članku javno se objavljuje na službenim mrežnim stranicama ministarstva nadležnog za gospodarstvo.
+(3) Popis iz stavka 2. ovoga članka mora sadržavati: naziv gospodarskog subjekta, OIB, razdoblje isključenja te pravnu osnovu na temelju koje je gospodarskom subjektu određeno privremeno isključenje iz postupaka javne nabave.
+(4) U slučaju izricanja kazne privremenog isključenja gospodarskog subjekta iz postupaka javne nabave, tijelo koje ju je donijelo dužno je bez odgode obavijestiti ministarstvo nadležno za gospodarstvo te dostaviti rješenje i podatke iz stavka 3. ovoga članka.
+(5) Ministarstvo nadležno za gospodarstvo, kao tijelo koje vodi popis iz stavka 2. ovoga članka, odgovorno je za točnost i ažurnost unesenih podataka.
