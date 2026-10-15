@@ -1,0 +1,8 @@
+## Elaborat o rezervama i eksploatacijsko polje
+# Članak 67.
+(1) U roku od šest mjeseci od provedenih istražnih radova iz dozvole za istraživanje geotermalnih voda investitor je dužan Ministarstvu dostaviti elaborat o rezervama geotermalnih voda izrađen u skladu s pravilnikom iz članka 41. ovoga Zakona, s prijedlogom za razvrstavanje u klase i kategorije i prijedlogom koordinata vršnih točaka eksploatacijskog polja, izraženih u službenom referentnom koordinatnom sustavu Republike Hrvatske (HTRS96/TM).
+(2) Na temelju elaborata iz stavka 1. ovoga članka, a nakon dostave potvrde o usklađenosti predloženog eksploatacijskog polja s prostornim planovima, Ministarstvo donosi rješenje o utvrđivanju količina i kakvoći rezervi i eksploatacijskog polja, a koje sadrži i nalog za upis utvrđenog eksploatacijskog polja u registar eksploatacijskih polja.
+(3) Po izvršnosti rješenja iz stavka 2. ovoga članka investitor stječe pravni interes za rješavanje imovinsko-pravnih odnosa u skladu s člankom 111. ovoga Zakona za zemljišne čestice na čijim površinama će se nalaziti naftno-rudarski objekti i postrojenja unutar granica eksploatacijskog polja i čestica na čijim površinama će se nalaziti naftno-rudarski objekti i postrojenja koji su u tehnološkoj vezi.
+(4) Eksploatacijsko polje geotermalnih voda može se proširiti na zahtjev investitora za vrijeme trajanja ugovora o eksploataciji geotermalnih voda pod uvjetom da područje za koje je podnesen zahtjev:
+– da je za isto dokazano rasprostiranje ležišta izvan granica postojećeg eksploatacijskog polja i
+– raspoloživo je za izdavanje dozvole za istraživanje i eksploataciju geotermalnih voda u skladu s odredbama članka 16. ovoga Zakona.

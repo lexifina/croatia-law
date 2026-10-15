@@ -1,0 +1,5 @@
+## Izdavanje dozvola u okviru dolina
+# Članak 105.
+(1) Na pojedinačne projekte u dolinama primjenjuju se odredbe članka 104. ovoga Zakona pri čemu se za svaku dolinu određuje jedinstvena kontaktna točka u Ministarstvu.
+(2) Jedinstvena kontaktna točka nositeljima projekata stavlja na raspolaganje predloške u kojima se navode dozvole potrebne za projekte u dolinama. Ti predlošci uključuju informacije o svim značajkama projekta i mjerama koje su predviđene za izbjegavanje ili sprečavanje znatnih štetnih utjecaja na okoliš i prirodu, kako bi se osiguralo da samo projekti sa znatnim utjecajima na okoliš i prirodu podliježu procjeni na temelju propisa koji uređuje zaštitu okoliša i prirode i kako bi nadležnom tijelu bilo lakše utvrditi treba li projekt podlijegati procjeni utjecaja na okoliš ili drugom odgovarajućem postupku.
+(3) Ako su ispunjeni uvjeti propisani propisima kojima se uređuje zaštita okoliša i prirode, mogu se u pojedinačnom postupku proglasiti projektima od prevladavajućeg javnog interesa.

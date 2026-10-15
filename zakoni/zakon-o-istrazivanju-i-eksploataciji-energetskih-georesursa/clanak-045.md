@@ -1,0 +1,4 @@
+## Pravo na otkup pridobivenih ugljikovodika
+# Članak 45.
+(1) Republika Hrvatska ima pravo prvenstva na otkup pridobivenih ugljikovodika koji sukladno dozvoli za istraživanje i eksploataciju ugljikovodika i ugovoru o istraživanju i podjeli eksploatacije ugljikovodika ili ugovora o eksploataciji pripadaju investitoru na osnovi tržišnih uvjeta utvrđenih sukladno članku 47. ovoga Zakona.
+(2) Ako ugljikovodici kojima raspolaže Republika Hrvatska nisu dovoljni za zadovoljenje opskrbe tržišta Republike Hrvatske, investitor ima obvezu prodati svoje količine, koje nisu obvezane prema postojećim ugovorima koje je investitor sklopio u svrhu prodaje ugljikovodika, za potrebe potrošnje Republike Hrvatske pravnoj osobi koju Vlada odredi odlukom i pod uvjetima utvrđenim sukladno članku 47. ovoga Zakona.

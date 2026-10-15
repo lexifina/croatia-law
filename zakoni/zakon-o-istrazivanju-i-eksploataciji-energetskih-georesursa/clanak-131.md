@@ -1,0 +1,5 @@
+## Ovlaštene osobe za izradu naftno-rudarskih projekata
+# Članak 131.
+(1) Naftno-rudarske projekte mogu izrađivati samo pravne osobe registrirane za poslove izrade naftno-rudarskih projekata i koje imaju zaposlenu u punom radnom vremenu najmanje jednu odgovornu stručnu osobu koja ispunjava uvjete propisane pravilnikom iz članka 123. ovoga Zakona odnosno moraju imati zaposlenog odgovornog projektanta iz stavka 2. ovoga članka.
+(2) Pravne osobe koje izrađuju naftno-rudarske projekte moraju prije početka izrade projekta imenovati odgovornog projektanta naftno-rudarskog projekta i projektante pojedinih dijelova naftno-rudarskog projekta koje ispunjavaju uvjete propisane pravilnikom iz članka 123. ovoga Zakona.
+(3) Pravna osoba iz stavka 2. ovoga članka, za izradu posebnih dijelova naftno-rudarskih projekata, a koje ne može izrađivati odgovorna osoba iz stavka 1. ovoga članka, treba imati sklopljen pisani ugovor s osobama ovlaštenim za izradu takvih posebnih dijelova naftno-rudarskih projekata.

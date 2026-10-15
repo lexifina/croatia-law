@@ -1,0 +1,10 @@
+## Podaci prikupljeni pri istraživanju ili eksploataciji
+# Članak 118.
+Vrste geoloških, geokemijskih, geofizičkih, inženjerskih podataka i rezultata iz članka 117. ovoga Zakona su, ali bez ograničenja, sljedeći:
+1. geofizički podaci koji uključuju seizmičke, gravimetrijske i magnetometrijske te ostale geofizičke podatke dobivene magnetotelurskim, geoelektričnim, georadarskim, satelitskim i drugim mjerenjima. Podaci se odnose na sve izvorno snimljene, obrađene, specijalno obrađene i reobrađene podatke te izvedene rezultate, analize i studije tih podataka
+2. podaci prikupljeni pri rekognosciranju odnosno preliminarnom regionalnom istraživanju
+3. geokemijski podaci koji uključuju izvorne podatke, karte lokacija te sve interpretirane podatke geokemijskog mjerenja sa svim informacijama o točnim lokacijama i primijenjenim analitičkim metodama i standardima, uključujući referentne standarde i prezentacije rezultata svih testiranih uzoraka i završne studije
+4. bušotinski podaci koji uključuju projekte, izvorne i interpretirane podatke prikupljene pri izradi bušotine i podatke dobivene mjerenjima u kanalu bušotine te završne rezultate i sve izvještaje, analize i sve derivate proizašle iz podataka. Podaci se odnose na sve geološke, geofizičke, geokemijske i inženjerske podatke u izvornom, obrađenom i interpretiranom obliku
+5. podaci o pridobivanju ugljikovodika, geotermalnih voda, plina iz podzemnih skladišta plina te podaci o geološkom skladištenju ugljikova dioksida
+6. fizički podaci koji uključuju sve jezgre, bočne jezgre, uzorke krhotina uzetih sa sita i uzorke fluida uzetih pri izradi bušotine i hidrodinamičkim mjerenjima u istoj pri čemu investitor ima pravo zadržati dio uzoraka krhotina i jezgara te fluida potrebnih za vlastita istraživanja
+7. izvještaji, dnevni izvještaji o naftno-rudarskim radovima istraživanja ili eksploatacije, interpretacije, analize, prezentacije, elaborati i studije sastavljene na temelju podataka prikupljenih pri istraživanju ili eksploataciji.

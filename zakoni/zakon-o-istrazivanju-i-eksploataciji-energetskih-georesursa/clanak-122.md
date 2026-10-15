@@ -1,0 +1,11 @@
+## POGLAVLJE II. RUKOVOĐENJE NAFTNO-RUDARSKIM RADOVIMA
+## Odgovorni voditelj naftno-rudarskih radova
+# Članak 122.
+(1) Odgovorni voditelj naftno-rudarskih radova je stručna osoba koja organizira, vodi i nadzire izvođenje naftno-rudarskih radova te uz investitora odgovara za provedbu radova u skladu s odobrenim projektom, ovim Zakonom i posebnim propisima iz područja zaštite na radu i zaštite okoliša te je odgovoran za pravilno vođenje tehničke dokumentacije i pravilnu primjenu projektnih rješenja.
+(2) Investitor imenuje odgovornog voditelja izvođenja naftno-rudarskih radova u dodijeljenom istražnom prostoru i na utvrđenom eksploatacijskom polju, u roku od 30 dana od dana dodjele odnosno utvrđivanja istoga.
+(3) Odgovorni voditelj naftno-rudarskih radova mora biti zaposlen kod investitora i imati odgovarajuću stručnu spremu, radno iskustvo i položen odgovarajući stručni ispit iz područja naftnog-rudarstva ili geologije.
+(4) Iznimno od stavka 3. ovoga članka, odgovorni voditelj naftno-rudarskih radova na istražnom prostoru energetskih georesursa te na eksploatacijskom polju geotermalne vode za energetske svrhe ne mora biti zaposlen kod investitora, ali mora imati sklopljen ugovor kojim se osigurava stručna odgovornost, dostupnost i nadzor nad sigurnim i zakonitim korištenjem geotermalnih resursa, kao i vođenje tehničke dokumentacije te komunikacija s nadležnim tijelima.
+(5) Odgovorni voditelj iz stavka 4. ovoga članka na temelju sklopljenog ugovora može biti imenovan za najviše pet prostora, bez obzira radi li se o istražnim prostorima, eksploatacijskim poljima ili kombinaciji.
+(6) Ako odgovorni voditelj naftno-rudarskih radova nije zaposlen kod investitora, investitor mora imati zaposlenu jednu osobu visoke stručne spreme iz područja naftnog-rudarstva, geologije ili drugog srodnog tehničkog područja.
+(7) Stručni ispit iz naftnog-rudarstva propisan je pravilnikom iz članka 123. stavka 7. ovoga Zakona.
+(8) Investitor je dužan Ministarstvu i Agenciji podnositi izvješća o obavljenim naftno-rudarskim radovima, kao i ispunjavati sve druge obveze koje proizlaze iz odredbi ovoga Zakona i propisa donesenih na temelju njega, a za čiju je pripremu odgovoran odgovorni voditelj naftno-rudarskih radova.

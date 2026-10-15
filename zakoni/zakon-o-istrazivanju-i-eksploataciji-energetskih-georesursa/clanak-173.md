@@ -1,0 +1,16 @@
+## Brisanje ili smanjenje istražnog prostora ili eksploatacijskog polja
+# Članak 173.
+(1) Investitor može podnijeti zahtjev Ministarstvu za brisanje ili smanjenje istražnog prostora ili eksploatacijskog polja uz koji dostavlja plan sanacije s procijenjenim troškom sanacije istražnog prostora ili eksploatacijskog polja ili dijela istog i naftno-rudarskih objekata koji se nalaze na tom prostoru.
+(2) Ministarstvo nakon primitka zahtjeva iz stavka 1. ovoga članka utvrđuje mogućnost daljnjeg istraživanja i/ili eksploatacije prostora u odnosu na koji je podnesen zahtjev iz stavka 1. ovoga članka.
+(3) Ako Ministarstvo ne utvrdi mogućnost daljnje eksploatacije, obavještava o tome investitora te dostavlja rješenje kojim potvrđuje plan sanacije ili nalaže investitoru reviziju dostavljenog plana sanacije, uključujući i procijenjeni trošak sanacije. Nakon izdavanja rješenja kojim se odobrava plan sanacije investitor je dužan provesti sanaciju u skladu s odobrenim planom sanacije te uz primjenu članka 172. ovoga Zakona.
+(4) Ako Ministarstvo utvrdi mogućnost daljnje eksploatacije, obavještava o tome investitora koji je obvezan sklopiti sporazum o prijenosu obveze sanacije iz članka 176. ovoga Zakona.
+(5) Ministarstvo donosi rješenje o brisanju istražnog prostora ili eksploatacijskog polja odnosno novo rješenje o utvrđivanju istražnog prostora ili eksploatacijskog polja u skladu sa zahtjevom investitora iz stavka 1. ovoga članka:
+1. nakon dostave potvrde iz članka 172. stavka 5. ovoga Zakona kada je propisana obveza sanacije u skladu sa stavkom 3. ovoga članka
+2. nakon što je sklopljen sporazum o prijenosu obveze sanacije iz članka 176. ovoga Zakona ako je utvrđena mogućnost daljnje eksploatacije u skladu sa stavkom 4. ovoga članka.
+(6) Ministarstvo može po službenoj dužnosti rješenjem utvrditi prestanak važenja dozvole zbog nastupa okolnosti iz članka 38. stavka 4. ovoga Zakona, obustave radova iz članka 115. ovoga Zakona ili drugih razloga propisanih ovim Zakonom. Ako Ministarstvo u istom rješenju utvrdi mogućnost daljnjeg korištenja prostora u istu ili drugu svrhu, Ministarstvo rješenjem odgađa obvezu investitora na provedbu sanacije do okončanja postupka nadmetanja za dodjelu nove dozvole sukladno odredbama ovoga Zakona, ali najdulje do donošenja rješenja iz stavka 7. ovoga članka i nalaže dostavu podataka iz članka 178. ovoga Zakona.
+(7) Prije izdavanja dozvole novom investitoru, Ministarstvo rješenjem utvrđuje status postojećih naftno-rudarskih objekata i postrojenja, kojim se:
+– utvrđuju objekti koji se preuzimaju od strane novog nositelja prava i koje investitor preuzima u dozvoli
+– utvrđuju objekti koji se ne preuzimaju, za koje se prethodnom investitoru rješenjem nalaže provedba sanacije u skladu s ovim Zakonom, ako takvi objekti postoje.
+(8) Dozvola novom investitoru može se izdati na temelju rješenja iz stavka 7. ovoga članka samo ako je sporazum iz članka 176. ovoga Zakona stupio na snagu u roku od dvije godine od dana njegova sklapanja.
+(9) Odgoda obveze sanacije ne utječe na obvezu održavanja važećeg jamstva za sanaciju od strane investitora kojem je izdano rješenje iz stavka 6. ovoga članka.
+(10) Ministarstvo izvještava rudarsku inspekciju Državnog inspektorata o izdavanju rješenja iz stavka 5. ovoga članka.

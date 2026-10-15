@@ -1,0 +1,6 @@
+## Postupak radi izdavanja dozvole
+# Članak 77.
+(1) Nakon utvrđivanja eksploatacijskog polja sukladno članku 38. ovoga Zakona investitor pokreće postupak za izdavanje dozvole za geološko skladištenje ugljikova dioksida, osim u slučaju predviđenom člankom 75. stavcima 3. i 6. ovoga Zakona kada se za geološko skladištenje uz korištenje ugljikova dioksida pokreće postupak za izdavanje dozvole za geološko skladištenje ugljikova dioksida na utvrđenom eksploatacijskom polju ugljikovodika.
+(2) Ministarstvo izdaje dozvolu za geološko skladištenje ugljikova dioksida, u skladu s odredbama ovoga Zakona.
+(3) Ministarstvo osigurava da nijedan skladišni geoprostor ne bude u funkciji bez dozvole za geološko skladištenje ugljikova dioksida, da je za svaki skladišni geoprostor zadužen samo jedan operator i da na toj lokaciji nije dozvoljeno proturječno korištenje.
+(4) Prilikom izdavanja dozvole za geološko skladištenje ugljikova dioksida daje se prednost investitoru koji je prethodno ishodio dozvolu za istraživanje u svrhu geološkog skladištenja ugljikova dioksida pod uvjetom da je istraživanje lokacije završeno, da su svi uvjeti utvrđeni u dozvoli za istraživanje zadovoljeni i da je zahtjev za dozvolu za geološko skladištenje ugljikova dioksida podnesen u roku važenja dozvole za istraživanje u svrhu geološkog skladištenja ugljikova dioksida.

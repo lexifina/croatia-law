@@ -1,0 +1,11 @@
+## Financijsko jamstvo
+# Članak 92.
+(1) Investitor je dužan dostaviti financijsko jamstvo u roku koji je propisan u dozvoli za istraživanje ili geološko skladištenje ugljikova dioksida. Ako investitor ne dostavi financijsko jamstvo u roku i obliku koji je propisan dozvolom za istraživanje ili geološko skladištenje ugljikova dioksida, Ministarstvo ukida dozvolu za istraživanje ili geološko skladištenje ugljikova dioksida.
+(2) Financijsko jamstvo iz stavka 1. ovoga članka daje se u svrhu ispunjavanja svih obveza iz dozvole za istraživanje ili dozvole za geološko skladištenje ugljikova dioksida, uključujući zahtjeve u pogledu provedenih radova, zatvaranja, razdoblja nakon zatvaranja, kao i za ostale potrebne radnje sanacije istražnog prostora ili eksploatacijskog polja određene ovim Zakonom, kao i svih obveza koje proizlaze iz uključivanja skladišnoga geoprostora u područje primjene propisa kojima se utvrđuje trgovanje kvotama stakleničkih plinova.
+(3) Jamstvo mora biti neopozivo, bezuvjetno, na »prvi poziv« i »bez prigovora« i glasiti na Ministarstvo te valjano i učinkovito tijekom važenja dozvole za istraživanje ili geološko skladištenje ugljikova dioksida te u slučajevima određenim ovim Zakonom.
+(4) Financijsko jamstvo iz stavka 1. ovoga članka periodički se prilagođava promjenama procijenjenog rizika propuštanja, procijenjenim troškovima svih obveza koje proizlaze iz dozvole za istraživanje ili dozvole za geološko skladištenje ugljikova dioksida, te obvezama koje proizlaze iz uključivanja skladišnoga geoprostora u područje primjene propisa kojima se uređuje trgovanje emisijskih jedinica stakleničkih plinova.
+(5) Financijsko jamstvo iz stavka 1. ovoga članka ostaje važeće i na snazi:
+1. nakon što je podzemno skladište zatvoreno u skladu s člankom 90. stavkom 1. točkama 1. i 2. ovoga Zakona, dok odgovornost za podzemno skladište nije prenesena na Ministarstvo u skladu s člankom 91. ovoga Zakona
+2. nakon ukidanja dozvole za geološko skladištenje ugljikova dioksida u skladu s člankom 83. stavkom 3. ovoga Zakona:
+a) do izdavanja nove dozvole za geološko skladištenje ugljikova dioksida
+b) ako je podzemno skladište zatvoreno u skladu s člankom 90. stavkom 1. točkom 3. ovoga Zakona, do prijenosa odgovornosti u skladu s člankom 91. ovoga Zakona, pod uvjetom da su financijske obveze iz članka 93. ovoga Zakona ispunjene.

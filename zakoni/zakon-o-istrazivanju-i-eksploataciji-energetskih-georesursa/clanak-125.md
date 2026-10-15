@@ -1,0 +1,8 @@
+## Idejni projekt
+# Članak 125.
+(1) Idejni projekt za naftno-rudarske objekte i postrojenja izrađuje se kao stručna podloga za prethodnu ocjenu prihvatljivosti zahvata na ekološku mrežu, za izradu dokumentacije na temelju koje se provodi postupak procjene utjecaja zahvata na okoliš ili ocjene o potrebi procjene utjecaja zahvata na okoliš te za izradu idejnog projekta za ishođenje lokacijske dozvole.
+(2) Idejni projekt izrađuje se za projekt razrade i eksploatacije iz članka 126. ovoga Zakona, dopunski projekt razrade i eksploatacije iz članka 127. ovoga Zakona, projekt bušotine iz članka 128. stavka 1. točaka 1., 2. i 3. ovoga Zakona i kao projekt geofizičkih snimanja koji se izrađuje za naftno-rudarske radove koji se odnose na snimanje geofizičkih podataka.
+(3) Iznimno od stavka 2. ovoga članka, nije potrebno izraditi idejni projekt za dopunski projekt razrade i eksploatacije ukoliko isti obrađuje samo izmjenu dinamike pridobivanja energetskoga georesursa.
+(4) Ministarstvo na idejni projekt iz stavaka 1. i 2. ovoga članka izdaje suglasnost u roku od 15 dana od dostave idejnog projekta ili traži izmjene i dopune.
+(5) Nakon ishođenja potrebnih akata iz stavka 1. ovoga članka, a prije početka izvođenja naftno-rudarskih radova prema idejnom projektu geofizičkih snimanja, investitor je dužan početak i završetak izvođenja naftno-rudarskih radova prema idejnom projektu geofizičkih snimanja prijaviti Ministarstvu, Agenciji i rudarskoj inspekciji Državnog inspektorata.
+(6) Ishođeni akti iz stavka 1. ovoga članka sastavni su dio projekata iz članaka 126. do 129. i 142. ovoga Zakona.

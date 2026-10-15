@@ -1,0 +1,7 @@
+## Istražni radovi trgovačkog društva Republike Hrvatske
+# Članak 10.
+(1) Ako na nadmetanju za izdavanje dozvole u skladu s odredbama ovoga Zakona nije izdana dozvola, ministar nadležan za energetiku može odlukom povjeriti Agenciji ili trgovačkom društvu Republike Hrvatske provedbu istražnih radova.
+(2) Ako je po provedbi istraživanja iz stavka 1. ovoga članka utvrđen potencijal za eksploataciju odnosno korištenje energetskoga georesursa, Ministarstvo odlukom pokreće nadmetanje za eksploataciju u skladu s odredbama ovoga Zakona.
+(3) Dokumentacijom za nadmetanje može se utvrditi i obveza sudjelovanja Agencije ili trgovačkog društva Republike Hrvatske u postotku ne manjem od 30 %.
+(4) U slučaju iz stavka 3. ovoga članka, najbolje ocijenjeni ponuditelj i Agencija ili trgovačko društvo Republike Hrvatske sklapaju ugovor o zajedničkom ulaganju te se na sklapanje ugovora i ugovora o eksploataciji na odgovarajući način primjenjuju odredbe članka 9. ovoga Zakona pri čemu ugovorom o zajedničkom ulaganju može biti propisan način i omjer povrata troškova radova istraživanja provedenih u skladu sa stavkom 1. ovoga članka.
+(5) Ako na nadmetanju u skladu s odredbama ovoga Zakona nije sklopljen ugovor o eksploataciji ministar može odlukom povjeriti Agenciji ili trgovačkom društvu Republike Hrvatske da provede radove eksploatacije te u tom slučaju sklapa ugovor o eksploataciji sukladno odredbama ovoga Zakona.

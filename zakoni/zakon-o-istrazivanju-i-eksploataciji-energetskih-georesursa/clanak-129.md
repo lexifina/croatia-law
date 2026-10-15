@@ -1,0 +1,10 @@
+## Pojednostavnjeni projekt
+# Članak 129.
+(1) Pojednostavnjeni projekt izrađuje se za nebitna odstupanja pri građenju ili rekonstrukciji izgrađenih naftno-rudarskih objekata i postrojenja te za izvođenje remontnih radova sa stimulacijom ležišta, propisanih pravilnikom iz članka 133. ovoga Zakona, te za prenamjenu istražnih, ocjenskih ili razradno/eksploatacijskih bušotina, a kada se ne mijenjaju lokacijski uvjeti sukladno propisu kojim se uređuje prostorno uređenje.
+(2) Moguća nebitna odstupanja propisana su pravilnikom iz članka 133. ovoga Zakona.
+(3) Kada se pojednostavnjeni projekt izrađuje sukladno stavku 1. ovoga članka, investitor je dužan jedan primjerak pojednostavnjenog projekta, s prikazom uklapanja tehničkog rješenja iz pojednostavnjenog projekta u postojeću provjerenu naftno-rudarsku projektnu dokumentaciju odnosno provjereni projekt razrade i eksploatacije ili provjereni dopunski projekt razrade i eksploatacije ili provjereni projekt bušotine, dostaviti Ministarstvu.
+(4) Ministarstvo je dužno u roku od 15 dana od dostave pojednostavnjenoga projekta iz stavka 1. ovoga članka utvrditi uklapaju li se tehnička rješenja iz pojednostavnjenoga projekta u projekte navedene u stavku 3. ovoga članka i o tome investitoru izdati rješenje.
+(5) Investitor, nakon izvršnosti rješenja Ministarstva iz stavka 4. ovoga članka, može započeti s izvođenjem naftno-rudarskih radova prema pojednostavnjenom projektu.
+(6) Ako je investitor dužan dostaviti garanciju iz članka 175. ovoga Zakona, može započeti s izvođenjem naftno-rudarskih radova prema pojednostavnjenom projektu nakon dostave garancije.
+(7) Investitor je dužan početak i završetak izvođenja naftno-rudarskih radova prema pojednostavnjenom projektu prijaviti Ministarstvu, Agenciji i rudarskoj inspekciji Državnog inspektorata.
+(8) Projekt iz stavka 1. ovoga članka ne smije biti u suprotnosti s provjerenim projektima na temelju kojih je sklopljen ugovor o eksploataciji, kao i s projektom bušotine te građevinskom i uporabnom dozvolom naftno-rudarskog objekta ili postrojenja.

@@ -1,0 +1,17 @@
+# Članak 186.
+(1) Novčanom kaznom u iznosu od 130.000,00 do 265.440,00 eura kaznit će se za najteži prekršaj pravna osoba:
+1. ako obavlja protupravnu eksploataciju iz članka 6. stavka 1. točke 69. ovoga Zakona
+2. ako ne provodi nadzor postrojenja za utiskivanje ugljikova dioksida, bušotina za utiskivanje ugljikova dioksida, skladišnog kompleksa, uključujući i oblake ugljikova dioksida i neposrednog okoliša utisnih bušotina u skladu s člankom 86. stavkom 1. ovoga Zakona
+3. ako ne obavijesti Ministarstvo i rudarsku inspekciju Državnog inspektorata i ne poduzme korektivne mjere, uključujući i mjere koje se odnose na zaštitu zdravlja ljudi potrebne za sprečavanje istjecanja ugljikova dioksida i uklanjanje drugih nepravilnosti koje predstavljaju rizik od istjecanja ugljikova dioksida iz podzemnog skladišta iz članka 89. stavka 1. ovoga Zakona
+4. ako ne ispuni obvezu pojedinačnog doprinosa iz članka 99. stavka 1. ovoga Zakona što je utvrdilo Ministarstvo rješenjem iz članka 99. stavka 11. ovoga Zakona
+5. ako investitor protivno članku 121. stavku 11. ovoga Zakona prodaje količine pridobivene tijekom probne eksploatacije, a da nije platio propisane naknade
+6. ako obavlja istraživanje bez dozvole odnosno protivno dozvoli izdanoj po ovome Zakonu i/ili ugovoru sklopljenom na temelju ovoga Zakona, protivno naftno-rudarskoj dokumentaciji iz članka 128. stavaka 1. i 2. ovoga Zakona ili protivno mišljenju Agencije na godišnji radni program i budžetu iz članka 116. stavka 1. ovoga Zakona
+7. ako gradi naftno-rudarske objekte i postrojenja bez izdane građevinske dozvole ili protivno izdanoj građevinskoj dozvoli iz članka 148. stavka 1. ovoga Zakona
+8. ako se naftno-rudarski objekti i postrojenja koriste bez uporabne dozvole iz članka 160. stavka 1. ovoga Zakona, osim kada je podnesen zahtjev za legalizacijom odnosnog naftno-rudarskog objekta ili postrojenja iz članka 193. ovoga Zakona
+9. ako nakon završetka ili trajnog obustavljanja izvođenja naftno-rudarskih radova ne provede sve potrebne mjere osiguranja i ne provede sanaciju naftno-rudarskog objekta/postrojenja, istražnog prostora ili eksploatacijskog polja protivno obvezama propisanim člankom 172. stavkom 1., člankom 172. stavkom 9., člankom 173. stavkom 3. i člankom 178. stavkom 6. točkom 4. ovoga Zakona
+10. ako započne s izvođenjem naftno-rudarskih radova prije dostave garancije za sanaciju iz članka 175. stavaka 1., 2. i 3. ovoga Zakona
+11. ako ne započne s uplatama u fond za sanaciju u skladu s procijenjenim planom sanacije sadržanim u provjerenom projektu razrade i eksploatacije iz članka 175. stavka 7. ovoga Zakona
+12. ako se u postupku inspekcijskog nadzora utvrdi da investitor nije u propisanom roku ishodio važeće uvjerenje o ispravnosti odnosno druga odgovarajuća uvjerenja koja proizlaze iz zakonskih propisa kojima se ureduje zaštita i sigurnost na radu zbog kojih je predviđena mjera zabrane korištenja naftno-rudarskih objekata ili postrojenja u skladu s odredbama članka 182. stavka 1. točke 11. ovoga Zakona.
+(2) Za prekršaje iz stavka 1. ovoga članka kaznit će se i odgovorna osoba u pravnoj osobi novčanom kaznom od 10.000,00 do 13.260,00 eura.
+(3) Za prekršaje iz stavka 1. točaka 1., 5., 6. i 7. ovoga članka, kaznit će se i fizička osoba – obrtnik novčanom kaznom od 30.000,00 do 80,000,00 eura.
+(4) Za prekršaje iz stavka 1. točaka 1., 5., 6. i 7. ovoga članka, kaznit će se i fizička osoba novčanom kaznom od 20.000,00 do 50.000,00 eura.

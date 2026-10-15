@@ -1,0 +1,3 @@
+## Pravilnik o građenju
+# Članak 169.
+Stručna sprema osoba koje rukovode naftno-rudarskim radovima, obvezni sadržaj i elementi projekata građenja naftno-rudarskih objekata i postrojenja, način opremanja i označavanja projekta, sadržaj pisane izjave izvođača o izvedenim radovima i uvjetima održavanja naftno-rudarskih objekata i postrojenja, sadržaj završnog izvješća nadzornog inženjera, sadržaj izjave ovlaštenog inženjera geodezije, sadržaj programa probne eksploatacije i izvješća o obavljenoj probnoj eksploataciji, način obavljanja tehničkog pregleda te ostali detalji vezani za gradnju naftno-rudarskih objekata i postrojenja propisuju se pravilnikom koji donosi ministar nadležan za energetiku, a uz prethodnu suglasnost ministra nadležnog za graditeljstvo.
