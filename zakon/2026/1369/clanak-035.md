@@ -1,0 +1,3 @@
+# Članak 35.
+(1) Agencija je dužna Pravilnik o općim uvjetima za korištenje mreže i opskrbu električnom energijom (»Narodne novine«, br. 100/22., 134/24. i 19/25.) i Pravilnik o uvjetima kvalitete opskrbe električnom energijom (»Narodne novine«, br. 84/22.) te Pravila o promjeni opskrbljivača i agregatora (»Narodne novine«, br. 84/22.) uskladiti s odredbama članka 14. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.
+(2) Operatori sustava dužni su Pravila o priključenju na prijenosnu mrežu (HOPS, 7/2023) i Pravila o priključenju na distribucijsku mrežu (HEP-ODS, 7/2023) uskladiti s pravilima iz članaka 7. i 14. ovoga Zakona u roku od šest mjeseci od dana stupanja na snagu ovoga Zakona.

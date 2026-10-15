@@ -1,0 +1,5 @@
+# Članak 24.
+U članku 104. stavak 3. mijenja se i glasi:
+»(3) Desetogodišnji plan razvoja prijenosne mreže mora biti usklađen s važećom strategijom energetskog razvoja Republike Hrvatske, Strategijom prostornog razvoja Republike Hrvatske i prostornim planovima, važećim integriranim nacionalnim energetskim klimatskim planom, desetogodišnjim planom razvoja distribucijske mreže, zahtjevima za priključenje na prijenosnu mrežu, planovima razvoja susjednih prijenosnih mreža, nacionalnom procjenom adekvatnosti resursa, izvješćem o procijenjenim potrebama za fleksibilnošću te odredbama mrežnih pravila prijenosnog sustava koje se odnose na planiranje razvoja prijenosne mreže.«.
+Iza stavka 16. dodaje se stavak 17. koji glasi:
+»(17) Operator prijenosnog sustava u desetogodišnjem planu razvoja iz stavka 1. ovoga članka treba s operatorom transportnog sustava plina i operatorom transportnih mreža za vodik razmjenjivati sve informacije potrebne za izradu desetogodišnjeg plana razvoja sustava električne energije, plina i/ili vodika.«.

@@ -1,0 +1,11 @@
+# Članak 13.
+Iza članka 29. dodaju se naslov iznad članka i članak 29.a koji glase:
+»Upravljanje rizicima opskrbljivača
+Članak 29.a
+(1) Agencija, uzimajući u obzir veličinu opskrbljivača ili strukturu tržišta, najmanje jednom u tri godine provodi testiranja otpornosti na stres koja trebaju osigurati da opskrbljivači:
+a) imaju i provode odgovarajuće strategije zaštite kako bi ograničili rizik od promjena u veleprodajnoj opskrbi električnom energijom za gospodarsku održivost svojih ugovora s kupcima, uz istodobno održavanje likvidnosti i praćenje cjenovnih signala s kratkoročnih tržišta
+b) poduzimaju mjere upravljanja rizicima opskrbe, uključujući osiguravanje odgovarajuće ugovorene nabave električne energije, diversifikaciju dobavnih izvora te održavanje financijske i operativne sposobnosti za uredno izvršavanje obveza opskrbe krajnjih kupaca, radi ograničavanja rizika od prekida opskrbe.
+(2) Strategije zaštite opskrbljivača od rizika iz stavka 1. ovoga članka donosi svaki opskrbljivač po prethodno pribavljenom odobrenju Agencije.
+(3) Strategije zaštite opskrbljivača od rizika iz stavka 2. ovoga članka sadrže mjere i instrumente za upravljanje rizikom promjene veleprodajnih cijena električne energije i rizikom opskrbe, a mogu uključivati ugovore o kupnji električne energije kako su definirani u članku 2. točki 77. Uredbe (EU) 2019/943, terminske ugovore, financijske instrumente zaštite od rizika te druge tržišno dostupne instrumente kojima se osigurava dugoročna stabilnost opskrbe i smanjuje izloženost tržišnim rizicima.
+(4) Ako postoje dovoljno razvijena tržišta za ugovore o kupnji električne energije koja omogućuju učinkovito tržišno natjecanje, Agencija mora zahtijevati da se strategijama zaštite opskrbljivača iz stavka 1. ovoga članka dio izloženosti opskrbljivača riziku promjena veleprodajnih cijena električne energije obuhvati primjenom ugovora o kupnji električne energije proizvedene iz obnovljivih izvora koji odgovaraju trajanju njihove izloženosti riziku na strani potrošača, pod uvjetom da se poštuje pravo tržišnog natjecanja.
+(5) Agencija, u okviru svojih nadležnosti, poduzima regulatorne i nadzorne mjere radi povećanja dostupnosti proizvoda za zaštitu od rizika energetskim zajednicama građana i zajednicama obnovljive energije te potiče razvoj transparentnih i nediskriminirajućih tržišnih uvjeta za njihovo korištenje.«.
