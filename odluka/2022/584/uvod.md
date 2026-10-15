@@ -1,1 +1,0 @@
-Na temelju članka 5. stavka 11. Zakona o tržištu električne energije (»Narodne novine«, br. 111/21) (u daljnjem tekstu: Zakon), a u vezi s člankom 137. stavkom 11. Zakona, ministar gospodarstva i održivog razvoja, uz suglasnost ministra nadležnog za pomorstvo, donosi
