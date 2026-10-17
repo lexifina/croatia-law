@@ -1,0 +1,4 @@
+# Članak 7.
+(1) U slučaju da kreditna institucija sudjeluje u transakciji sekuritizacije kao inicijator, izvorni zajmodavac, sponzor ili osnivač SSPN-a, revizorsko društvo dužno je ocijeniti usklađenost sa STS kriterijima i zahtjevima iz članaka od 19. do 22., članaka od 23. do 26. ili članaka od 26.a do 26.e. Uredbe (EU) 2017/2402, a ovisno o vrsti sekuritizacije.
+(2) Pri davanju ocjene revizorsko društvo dužno je opisati na koji je način potvrđena usklađenost s STS kriterijima utvrđenima u člancima od 20. do 22. ili člancima od 24. do 26. ili člancima od 26.b do 26.e.
+(3) Revizorsko društvo dužno je u izvješću o reviziji upozoriti ako su identificirani rizici kojima je kreditna institucija izložena, a koji proizlaze iz sekuritizacije i koji nisu na odgovarajući način obuhvaćeni postojećim sustavom upravljanja rizicima kreditne institucije.

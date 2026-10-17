@@ -1,0 +1,1 @@
+Na temelju članka 223. stavka 10. i članka 224. stavka 7. Zakona o kreditnim institucijama (»Narodne novine«, br. 22/2026.) i članka 43. stavka 2. točke 10. Zakona o Hrvatskoj narodnoj banci (»Narodne novine«, br. 75/2008., 54/2013. i 47/2020.) guverner Hrvatske narodne banke donosi
