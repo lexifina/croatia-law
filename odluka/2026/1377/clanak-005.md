@@ -1,0 +1,5 @@
+## Ugled, odgovarajuća stručna znanja, sposobnosti i iskustvo uprave ili člana višeg rukovodstva
+# Članak 5.
+(1) Ako stjecatelj namjerava imenovati nove osobe u upravi, pri njihovoj procjeni u skladu s kriterijem iz članka 36. stavka 1. točke 2. Zakona o kreditnim institucijama, stjecatelj je dužan dokazati da te osobe imaju dobar ugled, odgovarajuća stručna znanja, sposobnosti i iskustvo u skladu s člancima 44. i 46. Zakona o kreditnim institucijama.
+(2) Ako stjecatelj namjerava imenovati nove osobe koje će obavljati izvršne funkcije unutar kreditne institucije odgovorne za svakodnevno vođenje njezina poslovanja, dužan je dokazati da te osobe raspolažu odgovarajućim stručnim znanjima, sposobnostima i iskustvom potrebnim za člana višeg rukovodstva kreditne institucije.
+(3) Na procjenu ispunjavanja uvjeta iz ovog članka na odgovarajući se način primjenjuju odredbe Odluke o procjeni primjerenosti predsjednika uprave, člana uprave, predsjednika nadzornog odbora, člana nadzornog odbora i nositelja ključnih funkcija u kreditnoj instituciji.
