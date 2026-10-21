@@ -1,0 +1,1 @@
+Na temelju članka 23. stavka 3. Zakona o igrama na sreću (»Narodne novine«, br. 87/09., 35/13., 158/13., 41/14., 143/14., 114/22. i 72/25.), Vlada Republike Hrvatske je na sjednici održanoj 21. listopada 2026. donijela
