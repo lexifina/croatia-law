@@ -1,0 +1,1 @@
+Pravilnik o provedbi Programa potpora skupinama proizvođača za izradu ili izmjenu specifikacije za zaštićene oznake izvornosti, zaštićene oznake zemljopisnog podrijetla i zajamčeno tradicionalne specijalitete za poljoprivredne i prehrambene proizvode u 2026. godini
