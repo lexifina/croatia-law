@@ -1,0 +1,7 @@
+## Sadržaj nacionalnog programa priuštivog stanovanja
+# Članak 4.
+(1) Nacionalni program priuštivog stanovanja sadržava prilagođene elemente iz članka 3. ovoga Pravilnika za konsolidirani prikaz projekata koji se planiraju provesti.
+(2) Nacionalni program priuštivog stanovanja opisuje pojedine jedinice lokalne, odnosno regionalne (područne) samouprave čiji je program priuštivog stanovanja odobren (ili njegov pojedini projekt) od strane povjerenstva iz članka 8. stavka 11. Zakona (dalje u tekstu: Povjerenstvo), kao i onih jedinica lokalne samouprave koje nisu izradile svoj program priuštivog stanovanja a zatražile su od APN-a da poduzme aktivnosti za priuštivo stanovanje ili ako je nedostatna aktivnost jedinice lokalne samouprave, a APN je sukladno strateškim dokumentima i nacionalnim planovima Republike Hrvatske ocijenio potrebnim započeti aktivnosti za priuštivo stanovanje.
+(3) Skraćeni opis stanja daje se za svaku obuhvaćenu jedinicu lokalne, odnosno regionalne (područne) samouprave.
+(4) U nacionalnom programu posebno se iskazuju za svaku obuhvaćenu jedinicu lokalne, odnosno regionalne (područne) samouprave stambeni jaz, indeks priuštivosti, doprinos jedinice lokalne samouprave za povećanje priuštivosti stanovanja, posebne potrebe za stanovanjem te financijski okvir koji sadržava plan prihoda i rashoda za provedbu projekta i mjera priuštivog stanovanja.
+(5) APN na temelju članka 4. stavka 2. Zakona u koordinaciji s Ministarstvom usklađuje obim nacionalnog programa priuštivog stanovanja.
