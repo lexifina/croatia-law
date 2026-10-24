@@ -1,0 +1,1 @@
+Na temelju članka 9. stavka 2. Zakona o nadzoru državne granice (»Narodne novine«, br. 83/13., 27/16., 114/22., 151/22. i 13/26.), Vlada Republike Hrvatske je na sjednici održanoj 14. listopada 2026. donijela
