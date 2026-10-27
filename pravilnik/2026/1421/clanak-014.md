@@ -1,0 +1,4 @@
+## Javnost i transparentnost rada partnerskog vijeća
+# Članak 14.
+(1) Javnost rada partnerskog vijeća osigurava se pravovremenom objavom informacija i dokumenata na mrežnim stranicama koji su na temelju Zakona i ovog Pravilnika dostupni široj javnosti.
+(2) Tijelo koje obavlja administrativne i stručne poslove za rad partnerskog vijeća na svojim mrežnim stranicama dužno je javno objaviti informacije i dokumente o načinu odabira članova partnerskog vijeća, popis članova partnerskog vijeća i njihovih zamjena, poduzetim radnjama kojima se osigurava aktivno sudjelovanje partnera u radu partnerskog vijeća, održanim sjednicama i savjetovanjima s partnerima, doprinosu partnera u pripremi, izradi, provedbi, praćenju i vrednovanju akata strateškog planiranja razvoja, te druge relevantne informacije.

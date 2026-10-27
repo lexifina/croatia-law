@@ -1,0 +1,5 @@
+## Djelokrug rada partnerskih vijeća
+# Članak 12.
+(1) Partnersko vijeće je savjetodavno tijelo putem kojeg se osigurava ostvarivanje načela partnerstva u pripremi, izradi, provedbi, praćenju i vrednovanju akata strateškog planiranja politike regionalnoga razvoja.
+(2) Tijelo nadležno za pripremu akta strateškog planiranja uključuje u svoj rad partnersko vijeće i to prilikom analize i identifikacije potreba razvoja, određivanja i odabira prioriteta i s njima povezanih ciljeva, dodjeljivanja sredstava, utvrđivanja pokazatelja uspješnosti, provedbe horizontalnih načela, a predstavnike partnerskog vijeća uključuje u praćenje provedbe akta strateškog planiranja.
+(3) Partnersko vijeće posebno pridonosi prepoznavanju zajedničkih razvojnih prioriteta različitih dionika, prepoznavanju i predlaganju strateških projekata te praćenju njihovih učinaka na razvoj područja, jačanju kapaciteta dionika za sudjelovanje u provedbi politike regionalnoga razvoja, uspostavi integriranog razvoja uvažavanjem potreba različitih kategorija dionika razvoja.
