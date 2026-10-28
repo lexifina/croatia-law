@@ -69,6 +69,27 @@ The author of a commit is the act that made the change: `NN 113/2000`, with an a
 - The record ends 2013-12-01: no later change to the Constitution is known to us. The consolidated texts are
   informational; only the printed Narodne novine is authoritative.
 
+## Laws in force (zakoni/), from November 2026
+
+Since 3 November 2026 the repository also holds Croatia's laws in force, one folder per law under `zakoni/<slug>/`, listed
+in [`data/zakoni.json`](data/zakoni.json). They are added in parts, newest laws first, so the list grows over time.
+
+- **The first published text only.** Each law is one commit holding the text as first published in Narodne novine:
+  the oldest version available here. Later amending acts are not applied yet, so a law amended since then reads as
+  enacted, not as it reads today. Each commit's `Label:` says so. Amendments are to follow as later commits.
+- **Dated by entry into force.** The `In-force:` day is read from the law's own "stupa na snagu" sentence ("danom
+  objave", "osmoga dana od dana objave", or a date) and quoted in `Evidence:`; the publication day is the issue's day.
+  The commit is dated at noon in Zagreb on that day. Laws whose in-force day is still to come are left out until it comes.
+- **What counts as a law in force.** A law (or decree with the force of law) in the Narodne novine yearly index that is
+  not an amending act, a consolidated text, a pure repeal law or a yearly budget law, and that no later law repeals in
+  full. A law counts as repealed when a later law says it "prestaje važiti" or puts it "izvan snage", naming it by its
+  title and its Narodne novine number, or when a later law has the same title. Lexifina applied this reading; it can
+  miss a repeal worded otherwise, and implicit repeal is not shown.
+- **What is left out.** Annexes printed after the signatures, and laws whose page we could not read reliably into
+  articles (a number used twice, no in-force sentence). Those laws are not in the repository yet.
+- Files: `zakoni/<slug>/naslov.md` is the title; `zakoni/<slug>/clanak-NNN.md` is one article, laid out as below.
+  Authors and committers of these commits are `Lexifina`; the law is named in the subject and in `Source:`.
+
 ## Files
 
 `ustav/izvorisne-osnove.md` is the preamble; `ustav/clanak-NNN.md` is one article. The `#` line is the article number;
