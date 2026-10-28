@@ -1,0 +1,125 @@
+{
+ "built": "2026-10-28",
+ "source": "https://narodne-novine.nn.hr",
+ "versions": [
+  {
+   "tag": "nn/1990-56",
+   "in_force": "1990-12-22",
+   "author": "NN 56/1990",
+   "kind": "Ustav",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/56/1091",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/1990/56/1092",
+   "derived": null,
+   "staged": false,
+   "evidence": "Odluka o proglašenju (NN 56/1990, 1091): \"Proglašava se i stupa na snagu Ustav Republike Hrvatske\", 22. prosinca 1990.",
+   "sha256": {
+    "1990_12_56_1091": "8e8f36ebc1a3fb80b3343875e7a6db4c3f16f3a093ac3905aaf829a13663cacf",
+    "1990_12_56_1092": "badd6e3bc9ea5d865bea39bfacc72ff9837131f9bae77c5f4622d1a1aa69347d"
+   }
+  },
+  {
+   "tag": "nn/1997-135",
+   "in_force": "1997-12-15",
+   "author": "NN 135/1997",
+   "kind": "Ustavni zakon",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/135/1944",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/8/121",
+   "derived": null,
+   "staged": false,
+   "evidence": "čl. 20: \"Ovaj Ustavni zakon stupa na snagu danom objave u Narodnim novinama\" (NN 135/1997, 15. prosinca 1997.).",
+   "sha256": {
+    "1997_12_135_1944": "f610318c0096b1510d3aa5582185fe236ebc4d50947c18ecbffeda2516088a38",
+    "1998_01_8_121": "db6af069d210fae1bf8d90e011d30749a791deeb54c45e951ad52db6f220b2fb"
+   }
+  },
+  {
+   "tag": "nn/2000-113",
+   "in_force": "2000-11-09",
+   "author": "NN 113/2000",
+   "kind": "Promjena Ustava",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/113/2224",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/124/2332",
+   "derived": null,
+   "staged": false,
+   "evidence": "čl. 76: \"Promjena Ustava stupa na snagu danom proglašenja\"; proglašena Odlukom od 9. studenoga 2000.",
+   "sha256": {
+    "2000_11_113_2224": "a3ce27c6fd49c2253e6b600c8ebd70570a3374e839bf14f1014a10e215dab4e0",
+    "2000_12_124_2332": "bf2af36b81ae0adc09671692c6ad8e86da9c66f9b5570e7e17e7ee4e55878d63"
+   }
+  },
+  {
+   "tag": "nn/2001-28",
+   "in_force": "2001-03-28",
+   "author": "NN 28/2001",
+   "kind": "Promjena Ustava",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/28/487",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/41/705",
+   "derived": null,
+   "staged": false,
+   "evidence": "čl. 146.c: \"Promjena Ustava Republike Hrvatske stupa na snagu kad ju proglasi Zastupnički dom\"; proglašena Odlukom od 28. ožujka 2001.",
+   "sha256": {
+    "2001_04_28_487": "481fa9e80885d23936179d96ff6018fd67c7bba12887f3f9bf53212886b321ee",
+    "2001_05_41_705": "a539ab3b68fd8d4eac2429f32e34d92afbf1f9a3d9d56ff16f9eb01d4e0a4b11"
+   }
+  },
+  {
+   "tag": "nn/2001-55",
+   "in_force": "2001-03-28",
+   "author": "NN 55/2001 (ispravak)",
+   "kind": "Ispravak",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/55/883",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/41/705",
+   "derived": "ispravak",
+   "staged": false,
+   "evidence": "Ispravak (NN 55/2001, 883) ispravlja pogreške pročišćenog teksta NN 41/2001 \"nakon izvršenog uspoređivanja s izvornim tekstom\"; ispravljeni tekst vrijedi od dana kad je Promjena NN 28/2001 stupila na snagu.",
+   "sha256": {
+    "2001_05_41_705": "a539ab3b68fd8d4eac2429f32e34d92afbf1f9a3d9d56ff16f9eb01d4e0a4b11",
+    "2001_06_55_883": "c8956a5bde6d3f5de5ce4b60fcdc87b694b9fb170920909b4684e5c2f3b9def3"
+   }
+  },
+  {
+   "tag": "nn/2010-76",
+   "in_force": "2010-06-16",
+   "author": "NN 76/2010",
+   "kind": "Promjena Ustava",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/76/2214",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/85/2422",
+   "derived": null,
+   "staged": false,
+   "evidence": "čl. 31: \"Promjena Ustava stupa na snagu danom proglašenja\" (16. lipnja 2010.), osim odredbi koje stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji.",
+   "sha256": {
+    "2010_06_76_2214": "9a4c8dadf095c3621b393c04b3c809f94236dd62ae3566fa6fe1bb304b0af42f",
+    "2010_07_85_2422": "2b1f6295c6adba44a7250f29abeb929ce5f7e795eaafd5b3abbb6e57b1a1a274"
+   }
+  },
+  {
+   "tag": "nn/2010-76-eu",
+   "in_force": "2013-07-01",
+   "author": "NN 76/2010",
+   "kind": "Promjena Ustava",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/76/2214",
+   "text": null,
+   "derived": null,
+   "staged": true,
+   "evidence": "čl. 31 NN 76/2010 (čl. 152 teksta NN 85/2010): čl. 9. st. 2. u dijelu o predaji, čl. 133. st. 4. te čl. 144., 145. i 146. \"stupaju na snagu danom pristupanja Republike Hrvatske Europskoj uniji\"; taj je dan 1. srpnja 2013. (Ugovor o pristupanju, SL L 112, 24.4.2012., čl. 3. st. 2.; izvan NN).",
+   "sha256": {
+    "2010_06_76_2214": "9a4c8dadf095c3621b393c04b3c809f94236dd62ae3566fa6fe1bb304b0af42f"
+   }
+  },
+  {
+   "tag": "nn/2014-5",
+   "in_force": "2013-12-01",
+   "author": "NN 5/2014 (referendum 2013)",
+   "kind": "Promjena Ustava (narodna ustavotvorna inicijativa)",
+   "act": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/5/93",
+   "text": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/85/2422",
+   "derived": "referendum",
+   "staged": false,
+   "evidence": "Odluka Ustavnog suda SuP-O-1/2014 (NN 5/2014, 93), točka III.: \"peta promjena Ustava Republike Hrvatske stupila na snagu 1. prosinca 2013.\"; tekst članka 62. kako ga navodi ta odluka.",
+   "sha256": {
+    "2010_07_85_2422": "2b1f6295c6adba44a7250f29abeb929ce5f7e795eaafd5b3abbb6e57b1a1a274",
+    "2014_01_5_93": "83f65d46bd43465e43397678849d81ce785ea8e2b60eb7bb56f1cf724a2f2bc4"
+   }
+  }
+ ]
+}

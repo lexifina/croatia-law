@@ -1,0 +1,30 @@
+Reuse of this material is NOT cleared. The repository is private for that reason.
+
+Source of the text: Narodne novine (https://narodne-novine.nn.hr), the official gazette of the Republic of Croatia,
+published by Narodne novine d.d., Zagreb. The text of the Constitution of the Republic of Croatia (NN 56/1990 and its
+changes), its consolidated texts (NN 8/1998, 124/2000, 41/2001, 55/2001, 85/2010) and the Constitutional Court
+decision NN 5/2014 no. 93 was read from the public pages, one request at a time and at no more than three requests
+per second, as the page "Pristup podatcima" asks. Attribution: "Narodne novine d.d., narodne-novine.nn.hr".
+
+What Narodne novine's terms of use say ("Opći uvjeti korištenja", under "Zaštita autorskog prava"), in the original:
+
+    Svi sadržaji objavljeni na ovim internetskim stranicama zaštićeni su autorskim pravom i mogu se koristiti samo
+    pod uvjetima propisanima Zakonom.
+
+("All content published on these web pages is protected by copyright and may be used only under the conditions
+prescribed by law.") The same terms say that Narodne novine d.d. take reasonable care that the information is complete
+and accurate but are not liable for inaccuracy or incompleteness. The "Pristup podatcima" page says that use of the
+online database is "dostupno svima, anonimno i besplatno" (available to everyone, anonymously and free of charge) and
+invites crawlers and scripts to index and use the content (sitemaps, ELI metadata, an API), at no more than three
+requests per second. It states no licence for copying or republishing the texts.
+
+Whether, and on what conditions, the text of the Constitution or of a gazette page may be copied and republished is
+therefore unclear to us. We have not decided it and have not asked Narodne novine d.d. Until that is settled the
+repository stays private and no licence is granted for the law text. This is not legal advice.
+
+zakon.hr (a private, unofficial site with consolidated versions) was not used as a source of text; its terms forbid
+automated extraction. Its list of amending acts was used only as a pointer to which Narodne novine issues to read, as
+REPRODUCE.md says.
+
+Everything that is not law text (the history as commits, the commit messages, the tools) was made by Lexifina; no
+licence is granted for it either until the question above is settled.
