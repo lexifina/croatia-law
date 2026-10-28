@@ -65,6 +65,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "uredba-o-popisu-obveznika-primjene-zakona-o-javnoj-nabavi",
+  "title": "Uredba o popisu obveznika primjene Zakona o javnoj nabavi",
+  "nn": "83/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/83/2036",
+  "kind": "zakon",
+  "issuer": "Vlada Republike Hrvatske",
+  "enacted": "2009-07-11",
+  "published": "2009-07-15",
+  "in_force": "2009-07-15",
+  "files": 20,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-izmjeni-i-dopuni-zakona-o-morskom-ribarstvu",
   "title": "Zakon izmjeni i dopuni Zakona o morskom ribarstvu",
   "nn": "55/2011",
@@ -100,6 +113,32 @@
   "enacted": "2017-11-30",
   "published": "2017-12-06",
   "in_force": "2017-12-14",
+  "files": 22,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-agenciji-za-regulaciju-trzista-zeljeznickih-usluga",
+  "title": "Zakon o Agenciji za regulaciju tržišta željezničkih usluga",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2482",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 27,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-agenciji-za-strukovno-obrazovanje-i-obrazovanje-odraslih",
+  "title": "Zakon o Agenciji za strukovno obrazovanje i obrazovanje odraslih",
+  "nn": "24/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/24/573",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-02-12",
+  "published": "2010-02-22",
+  "in_force": "2010-03-02",
   "files": 22,
   "version": "prvi objavljeni tekst"
  },
@@ -205,6 +244,19 @@
   "published": "2019-12-27",
   "in_force": "2020-01-04",
   "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-biogorivima-za-prijevoz",
+  "title": "Zakon o biogorivima za prijevoz",
+  "nn": "65/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/65/1454",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-05-22",
+  "published": "2009-06-05",
+  "in_force": "2009-06-13",
+  "files": 40,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -351,6 +403,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-djelatnostima-u-zdravstvu",
+  "title": "Zakon o djelatnostima u zdravstvu",
+  "nn": "87/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/87/2127",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-07-10",
+  "published": "2009-07-21",
+  "in_force": "2009-07-29",
+  "files": 89,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-dobrovoljnim-mirovinskim-fondovima",
   "title": "Zakon o dobrovoljnim mirovinskim fondovima",
   "nn": "19/2014",
@@ -361,6 +426,19 @@
   "published": "2014-02-12",
   "in_force": "2014-02-20",
   "files": 325,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-dodatku-na-mirovine-ostvarene-prema-zakonu-o-mirovinskom-osiguranju",
+  "title": "Zakon o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2478",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 8,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -504,6 +582,19 @@
   "published": "2018-07-18",
   "in_force": "2018-07-26",
   "files": 24,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-drzavnoj-potpori-za-obrazovanje-i-izobrazbu",
+  "title": "Zakon o državnoj potpori za obrazovanje i izobrazbu",
+  "nn": "109/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3177",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-10-05",
+  "published": "2007-10-24",
+  "in_force": "2007-11-01",
+  "files": 14,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -702,6 +793,45 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-financijskim-konglomeratima",
+  "title": "Zakon o financijskim konglomeratima",
+  "nn": "147/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/147/4044",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2008-12-05",
+  "published": "2008-12-18",
+  "in_force": "2009-01-01",
+  "files": 41,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-financijskom-inspektoratu-republike-hrvatske",
+  "title": "Zakon o Financijskom inspektoratu Republike Hrvatske",
+  "nn": "85/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2731",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2008-07-09",
+  "published": "2008-07-21",
+  "in_force": "2008-07-29",
+  "files": 46,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-financijskom-osiguranju",
+  "title": "Zakon o financijskom osiguranju",
+  "nn": "76/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2396",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": null,
+  "published": "2007-07-23",
+  "in_force": "2008-01-01",
+  "files": 15,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-financijskom-poslovanju-i-predstecajnoj-nagodbi",
   "title": "Zakon o financijskom poslovanju i predstečajnoj nagodbi",
   "nn": "108/2012",
@@ -754,6 +884,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-financiranju-vodnoga-gospodarstva",
+  "title": "Zakon o financiranju vodnoga gospodarstva",
+  "nn": "153/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3745",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-12-11",
+  "published": "2009-12-21",
+  "in_force": "2010-01-01",
+  "files": 99,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-fiskalizaciji",
   "title": "Zakon o fiskalizaciji",
   "nn": "89/2025",
@@ -790,6 +933,19 @@
   "published": "2018-11-09",
   "in_force": "2018-11-17",
   "files": 62,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-fondu-za-financiranje-razgradnje-i-zbrinjavanja-radioaktivnog-otpada-i",
+  "title": "Zakon o Fondu za financiranje razgradnje i zbrinjavanja radioaktivnog otpada i istrošenoga nuklearnog goriva Nuklearne elektrane Krško",
+  "nn": "107/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3132",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-10-03",
+  "published": "2007-10-19",
+  "in_force": "2007-10-27",
+  "files": 26,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -975,6 +1131,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-hrvatskoj-komori-inzenjera-tehnologije-prometa-i-transporta",
+  "title": "Zakon o Hrvatskoj komori inženjera tehnologije prometa i transporta",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2481",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 36,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-hrvatskoj-matici-iseljenika",
   "title": "Zakon o Hrvatskoj matici iseljenika",
   "nn": "94/2018",
@@ -985,6 +1154,19 @@
   "published": "2018-10-24",
   "in_force": "2018-11-01",
   "files": 17,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-hrvatskoj-narodnoj-banci",
+  "title": "Zakon o Hrvatskoj narodnoj banci",
+  "nn": "75/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/75/2484",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": null,
+  "published": "2008-07-01",
+  "in_force": "2008-07-09",
+  "files": 120,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1001,6 +1183,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-hrvatskoj-radioteleviziji",
+  "title": "Zakon o Hrvatskoj radioteleviziji",
+  "nn": "137/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/137/3515",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-12-03",
+  "published": "2010-12-08",
+  "in_force": "2010-12-08",
+  "files": 60,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-hrvatskoj-zakladi-za-znanost",
   "title": "Zakon o Hrvatskoj zakladi za znanost",
   "nn": "57/2022",
@@ -1011,6 +1206,19 @@
   "published": "2022-05-20",
   "in_force": "2022-05-28",
   "files": 23,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-hrvatskom-crvenom-krizu",
+  "title": "Zakon o Hrvatskom Crvenom križu",
+  "nn": "71/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/71/2136",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-05-28",
+  "published": "2010-06-10",
+  "in_force": "2010-06-18",
+  "files": 49,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1063,6 +1271,32 @@
   "published": "2023-12-27",
   "in_force": "2024-01-01",
   "files": 75,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-igrama-na-srecu",
+  "title": "Zakon o igrama na sreću",
+  "nn": "87/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/87/2128",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-07-10",
+  "published": "2009-07-21",
+  "in_force": "2010-01-01",
+  "files": 82,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-informacijskoj-sigurnosti",
+  "title": "Zakon o informacijskoj sigurnosti",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2484",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 31,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1196,6 +1430,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-izborima-opcinskih-nacelnika-gradonacelnika-zupana-i-gradonacelnika-grada-zagreba",
+  "title": "Zakon o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba",
+  "nn": "109/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3178",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-10-05",
+  "published": "2007-10-24",
+  "in_force": "2007-11-01",
+  "files": 96,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-hrvatski-sabor",
   "title": "Zakon o izbornim jedinicama za izbor zastupnika u Hrvatski sabor",
   "nn": "114/2023",
@@ -1300,6 +1547,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-izvrsavanju-rada-za-opce-dobro-na-slobodi-i-uvjetne-osude-sa-zastitnim-nadzorom-u",
+  "title": "Zakon o izvršavanju rada za opće dobro na slobodi i uvjetne osude sa zaštitnim nadzorom u prekršajnom postupku",
+  "nn": "75/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1785",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-19",
+  "published": "2009-06-30",
+  "in_force": "2009-07-08",
+  "files": 15,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-izvrsavanju-sankcija-izrecenih-maloljetnicima-za-kaznena-djela-i-prekrsaje",
   "title": "Zakon o izvršavanju sankcija izrečenih maloljetnicima za kaznena djela i prekršaje",
   "nn": "133/2012",
@@ -1310,6 +1570,19 @@
   "published": "2012-12-03",
   "in_force": "2013-01-01",
   "files": 66,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-jamstvenom-fondu-za-gospodarski-oporavak-i-razvitak",
+  "title": "Zakon o jamstvenom fondu za gospodarski oporavak i razvitak",
+  "nn": "20/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/20/484",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-02-05",
+  "published": "2010-02-12",
+  "in_force": "2010-02-12",
+  "files": 21,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1375,6 +1648,32 @@
   "published": "2023-02-28",
   "in_force": "2023-03-08",
   "files": 74,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-kaznenim-djelima-protiv-trzista-kapitala",
+  "title": "Zakon o kaznenim djelima protiv tržišta kapitala",
+  "nn": "152/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/152/4151",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2008-12-15",
+  "published": "2008-12-24",
+  "in_force": "2009-01-01",
+  "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-kaznenom-postupku",
+  "title": "Zakon o kaznenom postupku",
+  "nn": "152/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/152/4149",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2008-12-15",
+  "published": "2008-12-24",
+  "in_force": "2009-01-01",
+  "files": 576,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1937,6 +2236,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-muzejima-ivana-mestrovica",
+  "title": "Zakon o Muzejima Ivana Meštrovića",
+  "nn": "76/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2397",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": null,
+  "published": "2007-07-23",
+  "in_force": "2007-07-31",
+  "files": 21,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-nabavi-i-posjedovanju-oruzja-gradjana",
   "title": "Zakon o nabavi i posjedovanju oružja građana",
   "nn": "94/2018",
@@ -2158,6 +2470,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-nedopustenom-oglasavanju",
+  "title": "Zakon o nedopuštenom oglašavanju",
+  "nn": "43/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/43/984",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-03-27",
+  "published": "2009-04-08",
+  "in_force": "2009-04-16",
+  "files": 18,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-neprocijenjenom-gradjevinskom-zemljistu",
   "title": "Zakon o neprocijenjenom građevinskom zemljištu",
   "nn": "50/2020",
@@ -2210,6 +2535,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-o-izmjenama-i-dopunama-zakona-o-umirovljenickom-fondu",
+  "title": "Zakon o o izmjenama i dopunama Zakona o Umirovljeničkom fondu",
+  "nn": "41/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/41/1373",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-04-20",
+  "published": "2007-04-21",
+  "in_force": "2007-04-21",
+  "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-obalnoj-strazi-republike-hrvatske",
   "title": "Zakon o Obalnoj straži Republike Hrvatske",
   "nn": "125/2019",
@@ -2246,6 +2584,19 @@
   "published": "2018-10-31",
   "in_force": "2018-11-08",
   "files": 22,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-obestecenju-radnika-profesionalno-izlozenih-azbestu",
+  "title": "Zakon o obeštećenju radnika profesionalno izloženih azbestu",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2477",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 12,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2379,6 +2730,45 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-obveznom-zdravstvenom-nadzoru-radnika-profesionalno-izlozenih-azbestu",
+  "title": "Zakon o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2475",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 14,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-odgodi-uskladjivanja-mirovina-u-razdoblju-od-1-sijecnja-do-31-prosinca-2011-godine",
+  "title": "Zakon o odgodi usklađivanja mirovina u razdoblju od 1. siječnja do 31. prosinca 2011. godine",
+  "nn": "139/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/139/3540",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-11-23",
+  "published": "2010-12-10",
+  "in_force": "2011-01-01",
+  "files": 3,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-odgoju-i-obrazovanju-u-osnovnoj-i-srednjoj-skoli",
+  "title": "Zakon o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+  "nn": "87/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/87/2789",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "2008-07-15",
+  "published": "2008-07-25",
+  "in_force": "2008-08-02",
+  "files": 168,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-odnosima-republike-hrvatske-s-hrvatima-izvan-republike-hrvatske",
   "title": "Zakon o odnosima Republike Hrvatske s Hrvatima izvan Republike Hrvatske",
   "nn": "124/2011",
@@ -2441,6 +2831,19 @@
   "published": "2022-12-22",
   "in_force": "2022-12-30",
   "files": 20,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-opcem-upravnom-postupku",
+  "title": "Zakon o općem upravnom postupku",
+  "nn": "47/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/47/1065",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-03-27",
+  "published": "2009-04-16",
+  "in_force": "2010-01-01",
+  "files": 172,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2509,6 +2912,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-osnivanju-agencije-za-placanja-u-poljoprivredi-ribarstvu-i-ruralnom-razvoju",
+  "title": "Zakon o osnivanju Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju",
+  "nn": "30/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/651",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-02-20",
+  "published": "2009-03-09",
+  "in_force": "2009-03-17",
+  "files": 20,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-osnivanju-agencije-za-ugljikovodike",
   "title": "Zakon o osnivanju Agencije za ugljikovodike",
   "nn": "14/2014",
@@ -2558,6 +2974,19 @@
   "published": "2015-10-13",
   "in_force": "2015-10-21",
   "files": 19,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-osnovici-place-u-javnim-sluzbama",
+  "title": "Zakon o osnovici plaće u javnim službama",
+  "nn": "39/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/39/872",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-03-27",
+  "published": "2009-03-31",
+  "in_force": "2009-04-01",
+  "files": 5,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2730,6 +3159,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-placama-u-lokalnoj-i-podrucnoj-regionalnoj-samoupravi",
+  "title": "Zakon o plaćama u lokalnoj i područnoj (regionalnoj) samoupravi",
+  "nn": "28/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/665",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-02-19",
+  "published": "2010-03-03",
+  "in_force": "2010-03-11",
+  "files": 28,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-platnom-prometu",
   "title": "Zakon o platnom prometu",
   "nn": "66/2018",
@@ -2795,6 +3237,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-podrucjima-posebne-drzavne-skrbi",
+  "title": "Zakon o područjima posebne državne skrbi",
+  "nn": "86/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/86/2750",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "2008-07-15",
+  "published": "2008-07-23",
+  "in_force": "2008-07-31",
+  "files": 36,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-pogrebnickoj-djelatnosti",
   "title": "Zakon o pogrebničkoj djelatnosti",
   "nn": "36/2015",
@@ -2831,6 +3286,19 @@
   "published": "2011-03-23",
   "in_force": "2011-03-31",
   "files": 129,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-policijskim-poslovima-i-ovlastima",
+  "title": "Zakon o policijskim poslovima i ovlastima",
+  "nn": "76/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1835",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-30",
+  "published": "2009-07-01",
+  "in_force": "2009-07-01",
+  "files": 107,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2883,6 +3351,19 @@
   "published": "2019-06-28",
   "in_force": "2019-07-06",
   "files": 38,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-popisu-stanovnistva-kucanstava-i-stanova-u-republici-hrvatskoj-2011-godine",
+  "title": "Zakon o popisu stanovništva, kućanstava i stanova u Republici Hrvatskoj 2011. godine",
+  "nn": "92/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/92/2587",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-07-15",
+  "published": "2010-07-24",
+  "in_force": "2010-08-01",
+  "files": 51,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3003,6 +3484,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-posebnom-porezu-na-place-mirovine-i-druge-primitke",
+  "title": "Zakon o posebnom porezu na plaće, mirovine i druge primitke",
+  "nn": "94/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/94/2357",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-07-31",
+  "published": "2009-08-01",
+  "in_force": "2009-08-01",
+  "files": 14,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnom-porezu-na-primitke-od-samostalne-djelatnosti-i-ostale-primitke",
+  "title": "Zakon o posebnom porezu na primitke od samostalne djelatnosti i ostale primitke",
+  "nn": "119/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/119/2931",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-09-24",
+  "published": "2009-10-01",
+  "in_force": "2009-10-01",
+  "files": 19,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-poslovima-i-djelatnostima-prostornog-uredjenja-i-gradnje",
   "title": "Zakon o poslovima i djelatnostima prostornog uređenja i gradnje",
   "nn": "78/2015",
@@ -3039,6 +3546,19 @@
   "published": "2012-12-21",
   "in_force": "2013-01-01",
   "files": 75,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-postupanju-i-uvjetima-gradnje-radi-poticanja-ulaganja",
+  "title": "Zakon o postupanju i uvjetima gradnje radi poticanja ulaganja",
+  "nn": "69/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/69/1664",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-05",
+  "published": "2009-06-17",
+  "in_force": "2009-06-17",
+  "files": 48,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3130,6 +3650,19 @@
   "published": "2012-10-31",
   "in_force": "2012-11-08",
   "files": 73,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-potpori-za-ocuvanje-radnih-mjesta",
+  "title": "Zakon o potpori za očuvanje radnih mjesta",
+  "nn": "94/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/94/2358",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-07-30",
+  "published": "2009-08-01",
+  "in_force": "2009-08-01",
+  "files": 17,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3302,6 +3835,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-prestanku-rada-agencije-za-promicanje-izvoza-i-ulaganja",
+  "title": "Zakon o prestanku rada Agencije za promicanje izvoza i ulaganja",
+  "nn": "124/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3204",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-10-22",
+  "published": "2010-11-08",
+  "in_force": "2010-11-08",
+  "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-preuzimanju-dionickih-drustava",
+  "title": "Zakon o preuzimanju dioničkih društava",
+  "nn": "109/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/109/3173",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-10-05",
+  "published": "2007-10-24",
+  "in_force": "2007-11-01",
+  "files": 64,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-prijenosu-i-obradi-podataka-o-putnicima-u-zracnom-prometu-u-svrhu-sprjecavanja",
   "title": "Zakon o prijenosu i obradi podataka o putnicima u zračnom prometu u svrhu sprječavanja, otkrivanja, istraživanja i vođenja kaznenog postupka za kaznena djela terorizma i druga teška kaznena djela",
   "nn": "46/2018",
@@ -3364,6 +3923,19 @@
   "published": "2025-02-03",
   "in_force": "2025-02-11",
   "files": 25,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-prijevozu-opasnih-tvari",
+  "title": "Zakon o prijevozu opasnih tvari",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2480",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2008-01-01",
+  "files": 67,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3455,6 +4027,19 @@
   "published": "2026-04-29",
   "in_force": "2026-05-07",
   "files": 102,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-privatnim-detektivima",
+  "title": "Zakon o privatnim detektivima",
+  "nn": "24/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/24/528",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-02-06",
+  "published": "2009-02-23",
+  "in_force": "2009-03-03",
+  "files": 42,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4901,6 +5486,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sigurnosnim-provjerama",
+  "title": "Zakon o sigurnosnim provjerama",
+  "nn": "85/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2729",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2008-07-09",
+  "published": "2008-07-21",
+  "in_force": "2008-08-20",
+  "files": 47,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sigurnosnoj-zastiti-pomorskih-brodova-i-luka",
   "title": "Zakon o sigurnosnoj zaštiti pomorskih brodova i luka",
   "nn": "108/2017",
@@ -4940,6 +5538,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sigurnosti-prometa-na-cestama",
+  "title": "Zakon o sigurnosti prometa na cestama",
+  "nn": "67/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/67/2224",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "2008-05-30",
+  "published": "2008-06-09",
+  "in_force": "2008-06-17",
+  "files": 311,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sigurnosti-u-zeljeznickom-prometu",
+  "title": "Zakon o sigurnosti u željezničkom prometu",
+  "nn": "40/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/40/1343",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-03-30",
+  "published": "2007-04-18",
+  "in_force": "2007-04-26",
+  "files": 114,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sjemenu-sadnom-materijalu-i-priznavanju-sorti-poljoprivrednog-bilja",
   "title": "Zakon o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja",
   "nn": "110/2021",
@@ -4976,6 +5600,19 @@
   "published": "2026-06-29",
   "in_force": "2026-07-07",
   "files": 32,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sluzbenicima-i-namjestenicima-u-lokalnoj-i-podrucnoj-regionalnoj-samoupravi",
+  "title": "Zakon o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi",
+  "nn": "86/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/86/2752",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "2008-07-15",
+  "published": "2008-07-23",
+  "in_force": "2008-07-31",
+  "files": 130,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5028,6 +5665,19 @@
   "published": "2013-06-18",
   "in_force": "2013-06-26",
   "files": 237,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-smanjenju-mirovina-odredjenih-prema-zakonu-o-pravima-i-duznostima-zastupnika-u",
+  "title": "Zakon o smanjenju mirovina određenih prema Zakonu o pravima i dužnostima zastupnika u Hrvatskom saboru",
+  "nn": "86/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/86/2123",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-07-17",
+  "published": "2009-07-18",
+  "in_force": "2009-07-18",
+  "files": 5,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5252,6 +5902,45 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-strukovnom-obrazovanju",
+  "title": "Zakon o strukovnom obrazovanju",
+  "nn": "30/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/652",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-02-20",
+  "published": "2009-03-09",
+  "in_force": "2009-03-17",
+  "files": 45,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-strukturnoj-potpori-i-uredjenju-trzista-u-ribarstvu",
+  "title": "Zakon o strukturnoj potpori i uređenju tržišta u ribarstvu",
+  "nn": "153/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/153/3747",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-12-11",
+  "published": "2009-12-21",
+  "in_force": "2010-01-01",
+  "files": 46,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-studentskom-zboru-i-drugim-studentskim-organizacijama",
+  "title": "Zakon o studentskom zboru i drugim studentskim organizacijama",
+  "nn": "71/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/71/2182",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": null,
+  "published": "2007-07-09",
+  "in_force": "2007-07-17",
+  "files": 20,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-subvencioniranju-i-drzavnom-jamstvu-stambenih-kredita",
   "title": "Zakon o subvencioniranju i državnom jamstvu stambenih kredita",
   "nn": "31/2011",
@@ -5353,6 +6042,19 @@
   "published": "2018-07-27",
   "in_force": "2018-08-04",
   "files": 102,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sumskom-reprodukcijskom-materijalu",
+  "title": "Zakon o šumskom reprodukcijskom materijalu",
+  "nn": "75/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/75/1784",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-19",
+  "published": "2009-06-30",
+  "in_force": "2009-07-08",
+  "files": 69,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5460,6 +6162,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-tajnosti-podataka",
+  "title": "Zakon o tajnosti podataka",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2483",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 36,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-tehnickim-zahtjevima-za-proizvode-i-ocjenjivanju-sukladnosti",
   "title": "Zakon o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti",
   "nn": "126/2021",
@@ -5496,6 +6211,19 @@
   "published": "2013-06-17",
   "in_force": "2013-06-25",
   "files": 12,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-trgovini",
+  "title": "Zakon o trgovini",
+  "nn": "87/2008",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/87/2790",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "2008-07-15",
+  "published": "2008-07-25",
+  "in_force": "2008-08-02",
+  "files": 85,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5626,6 +6354,19 @@
   "published": "2019-05-22",
   "in_force": "2019-05-23",
   "files": 38,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-turistickom-i-ostalom-gradjevinskom-zemljistu-neprocijenjenom-u-postupku",
+  "title": "Zakon o turističkom i ostalom građevinskom zemljištu neprocijenjenom u postupku pretvorbe i privatizacije",
+  "nn": "92/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/92/2589",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-07-15",
+  "published": "2010-07-24",
+  "in_force": "2010-08-01",
+  "files": 37,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5837,6 +6578,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-uredjenju-trzista-poljoprivrednih-proizvoda",
+  "title": "Zakon o uređenju tržišta poljoprivrednih proizvoda",
+  "nn": "149/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/149/3637",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-12-02",
+  "published": "2009-12-15",
+  "in_force": "2009-12-23",
+  "files": 40,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-uredjivanju-imovinskopravnih-odnosa-u-svrhu-izgradnje-infrastrukturnih-gradjevina",
   "title": "Zakon o uređivanju imovinskopravnih odnosa u svrhu izgradnje infrastrukturnih građevina",
   "nn": "80/2011",
@@ -5847,6 +6601,32 @@
   "published": "2011-07-13",
   "in_force": "2011-07-21",
   "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-uredu-za-suzbijanje-korupcije-i-organiziranog-kriminaliteta",
+  "title": "Zakon o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+  "nn": "76/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/76/1834",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-30",
+  "published": "2009-07-01",
+  "in_force": "2009-07-01",
+  "files": 72,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-uskladistenju-i-skladisnici-za-zitarice-i-industrijsko-bilje",
+  "title": "Zakon o uskladištenju i skladišnici za žitarice i industrijsko bilje",
+  "nn": "79/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1878",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-24",
+  "published": "2009-07-08",
+  "in_force": "2009-07-16",
+  "files": 27,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5977,6 +6757,19 @@
   "published": "2018-06-27",
   "in_force": "2018-07-05",
   "files": 36,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-uvjetima-za-stjecanje-prava-na-starosnu-mirovinu-radnika-profesionalno-izlozenih",
+  "title": "Zakon o uvjetima za stjecanje prava na starosnu mirovinu radnika profesionalno izloženih azbestu",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2476",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 9,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6146,6 +6939,19 @@
   "published": "2019-07-10",
   "in_force": "2019-07-18",
   "files": 117,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-volonterstvu",
+  "title": "Zakon o volonterstvu",
+  "nn": "58/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/58/1863",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-05-18",
+  "published": "2007-06-06",
+  "in_force": "2007-06-14",
+  "files": 41,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6357,6 +7163,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zastiti-od-buke",
+  "title": "Zakon o zaštiti od buke",
+  "nn": "30/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/30/648",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-02-20",
+  "published": "2009-03-09",
+  "in_force": "2009-03-17",
+  "files": 28,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zastiti-od-nasilja-u-obitelji",
   "title": "Zakon o zaštiti od nasilja u obitelji",
   "nn": "70/2017",
@@ -6367,6 +7186,32 @@
   "published": "2017-07-19",
   "in_force": "2018-01-01",
   "files": 32,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastiti-od-neionizirajuceg-zracenja",
+  "title": "Zakon o zaštiti od neionizirajućeg zračenja",
+  "nn": "91/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/91/2571",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-07-09",
+  "published": "2010-07-23",
+  "in_force": "2010-07-31",
+  "files": 37,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastiti-od-pozara",
+  "title": "Zakon o zaštiti od požara",
+  "nn": "92/2010",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/92/2588",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2010-07-15",
+  "published": "2010-07-24",
+  "in_force": "2010-08-01",
+  "files": 73,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6474,6 +7319,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zastiti-pucanstva-od-zaraznih-bolesti",
+  "title": "Zakon o zaštiti pučanstva od zaraznih bolesti",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2486",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 85,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastiti-trzisnog-natjecanja",
+  "title": "Zakon o zaštiti tržišnog natjecanja",
+  "nn": "79/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/79/1877",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-24",
+  "published": "2009-07-08",
+  "in_force": "2010-10-01",
+  "files": 80,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zastiti-zivotinja",
   "title": "Zakon o zaštiti životinja",
   "nn": "102/2017",
@@ -6565,6 +7436,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zicarama-za-prijevoz-osoba",
+  "title": "Zakon o žičarama za prijevoz osoba",
+  "nn": "79/2007",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/79/2479",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2007-07-13",
+  "published": "2007-07-30",
+  "in_force": "2007-08-07",
+  "files": 88,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zigu",
   "title": "Zakon o žigu",
   "nn": "14/2019",
@@ -6588,6 +7472,19 @@
   "published": "2014-07-28",
   "in_force": "2014-08-05",
   "files": 83,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zracnom-prometu",
+  "title": "Zakon o zračnom prometu",
+  "nn": "69/2009",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/69/1663",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2009-06-05",
+  "published": "2009-06-17",
+  "in_force": "2009-06-25",
+  "files": 175,
   "version": "prvi objavljeni tekst"
  }
 ]
