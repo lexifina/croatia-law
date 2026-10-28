@@ -30,5 +30,10 @@
   "citation": {
     "file": "([a-z]+)/clanak-0*([0-9]+[a-z]*)\\.md",
     "cites": "(član(ak|ka|ku|kom)|čl\\.) ?{n}([^0-9]|$)"
-  }
+  },
+  "label": "Croatia",
+  "language": "hr",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "record_note": "Checked against the official source on 2026-10-28."
 }
