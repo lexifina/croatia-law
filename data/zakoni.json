@@ -364,6 +364,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-blagdanima-spomendanu-i-neradnim-danima-u-republici-hrvatskoj",
+  "title": "Zakon o blagdanima, spomendanu i neradnim danima u Republici Hrvatskoj",
+  "nn": "33/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/33/674",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-04-19",
+  "published": "1996-04-30",
+  "in_force": "1996-05-08",
+  "files": 9,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-brdsko-planinskim-podrucjima",
   "title": "Zakon o brdsko-planinskim područjima",
   "nn": "118/2018",
@@ -387,6 +400,19 @@
   "published": "2000-06-23",
   "in_force": "2000-07-01",
   "files": 14,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-ceku",
+  "title": "Zakon o čeku",
+  "nn": "74/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1288",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-10-06",
+  "published": "1994-10-18",
+  "in_force": "1994-10-26",
+  "files": 30,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -676,6 +702,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-drzavnim-robnim-zalihama",
+  "title": "Zakon o državnim robnim zalihama",
+  "nn": "68/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/813",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-04-24",
+  "published": "1998-05-12",
+  "in_force": "1998-05-20",
+  "files": 38,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-drzavnim-sluzbenicima",
   "title": "Zakon o državnim službenicima",
   "nn": "155/2023",
@@ -686,6 +725,19 @@
   "published": "2023-12-22",
   "in_force": "2024-01-01",
   "files": 177,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-drzavnim-sluzbenicima-i-namjestenicima-i-o-placama-nositelja-pravosudnih-duznosti",
+  "title": "Zakon o državnim službenicima i namještenicima i o plaćama nositelja pravosudnih dužnosti",
+  "nn": "74/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1285",
+  "kind": "zakon",
+  "issuer": "Sabor Republike Hrvatske",
+  "enacted": "1994-10-04",
+  "published": "1994-10-18",
+  "in_force": "1994-10-26",
+  "files": 196,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -754,6 +806,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-drzavnoj-statistici",
+  "title": "Zakon o državnoj statistici",
+  "nn": "52/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/915",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-23",
+  "published": "1994-07-07",
+  "in_force": "1994-07-15",
+  "files": 48,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-drzavnom-inspektoratu",
   "title": "Zakon o državnom inspektoratu",
   "nn": "115/2018",
@@ -790,6 +855,19 @@
   "published": "2018-07-25",
   "in_force": "2018-09-01",
   "files": 138,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-drzavnom-pravobraniteljstvu",
+  "title": "Zakon o Državnom pravobraniteljstvu",
+  "nn": "75/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/75/1275",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-09-20",
+  "published": "1995-09-29",
+  "in_force": "1995-10-07",
+  "files": 97,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1261,6 +1339,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-hidrografskoj-djelatnosti",
+  "title": "Zakon o hidrografskoj djelatnosti",
+  "nn": "68/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/814",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-04-24",
+  "published": "1998-05-12",
+  "in_force": "1998-05-20",
+  "files": 57,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-higijeni-hrane-i-mikrobioloskim-kriterijima-za-hranu",
   "title": "Zakon o higijeni hrane i mikrobiološkim kriterijima za hranu",
   "nn": "83/2022",
@@ -1297,6 +1388,19 @@
   "published": "2017-12-06",
   "in_force": "2017-12-14",
   "files": 218,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-hrvatskim-drzavnim-nagradama-za-znanost",
+  "title": "Zakon o hrvatskim državnim nagradama za znanost",
+  "nn": "108/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1779",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-12-13",
+  "published": "1995-12-28",
+  "in_force": "1996-01-05",
+  "files": 24,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1349,6 +1453,19 @@
   "published": "2026-05-27",
   "in_force": "2026-06-04",
   "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-hrvatskoj-garancijskoj-agenciji",
+  "title": "Zakon o Hrvatskoj garancijskoj agenciji",
+  "nn": "29/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/507",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM",
+  "enacted": null,
+  "published": "1994-04-11",
+  "in_force": "1994-04-19",
+  "files": 19,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1495,6 +1612,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-hrvatskom-registru-brodova",
+  "title": "Zakon o hrvatskom registru brodova",
+  "nn": "81/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/81/1399",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM",
+  "enacted": "1996-09-20",
+  "published": "1996-10-02",
+  "in_force": "1996-10-10",
+  "files": 24,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-hrvatskom-znakovnom-jeziku-i-ostalim-sustavima-komunikacije-gluhih-i",
   "title": "Zakon o hrvatskom znakovnom jeziku i ostalim sustavima komunikacije gluhih i gluhoslijepih osoba u Republici Hrvatskoj",
   "nn": "82/2015",
@@ -1625,6 +1755,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-inspekciji-rada",
+  "title": "Zakon o inspekciji rada",
+  "nn": "59/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/59/1184",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-28",
+  "published": "1996-07-17",
+  "in_force": "1996-07-25",
+  "files": 39,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-inspektoratu-rada",
   "title": "Zakon o Inspektoratu rada",
   "nn": "19/2014",
@@ -1703,6 +1846,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-istraznim-povjerenstvima",
+  "title": "Zakon o istražnim povjerenstvima",
+  "nn": "24/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/430",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-03-15",
+  "published": "1996-03-26",
+  "in_force": "1996-04-03",
+  "files": 27,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-izborima-opcinskih-nacelnika-gradonacelnika-zupana-i-gradonacelnika-grada-zagreba",
   "title": "Zakon o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba",
   "nn": "109/2007",
@@ -1726,6 +1882,32 @@
   "published": "1999-11-05",
   "in_force": "1999-11-13",
   "files": 110,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-izbornim-jedinicama-za-izbor-clanova-predstavnickih-tijela-jedinica-lokalne",
+  "title": "ZAKON O IZBORNIM JEDINICAMA ZA IZBOR ČLANOVA PREDSTAVNIČKIH TIJELA JEDINICA LOKALNE SAMOUPRAVE I JEDINICA LOKALNE UPRAVE I SAMOUPRAVE",
+  "nn": "14/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/14/2209",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-02-07",
+  "published": "1997-02-07",
+  "in_force": "1997-02-07",
+  "files": 64,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-izbornim-jedinicama-za-izbor-clanova-predstavnickih-tijela-novoustrojenih",
+  "title": "Zakon o izbornim jedinicama za izbor članova predstavničkih tijela novoustrojenih jedinica lokalne samouprave i uprave na području Zagrebačke županije",
+  "nn": "69/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/69/1202",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-09-20",
+  "published": "1995-09-21",
+  "in_force": "1995-09-21",
+  "files": 7,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1872,6 +2054,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-jadroliniji-rijeka",
+  "title": "Zakon o Jadroliniji, Rijeka",
+  "nn": "11/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/11/155",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-01-31",
+  "published": "1996-02-09",
+  "in_force": "1996-02-17",
+  "files": 26,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-jamstvenom-fondu-za-gospodarski-oporavak-i-razvitak",
   "title": "Zakon o jamstvenom fondu za gospodarski oporavak i razvitak",
   "nn": "20/2010",
@@ -1934,6 +2129,32 @@
   "published": "1999-11-30",
   "in_force": "1999-12-08",
   "files": 40,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-javnom-prijevozu-u-linijskom-obalnom-pomorskom-prometu",
+  "title": "Zakon o javnom prijevozu u linijskom obalnom pomorskom prometu",
+  "nn": "131/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/131/1889",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-11-21",
+  "published": "1997-12-05",
+  "in_force": "1997-12-13",
+  "files": 27,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-javnom-priopcavanju",
+  "title": "Zakon o javnom priopćavanju",
+  "nn": "83/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/83/1473",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-10-02",
+  "published": "1996-10-08",
+  "in_force": "1996-10-08",
+  "files": 49,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2132,6 +2353,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-konvalidaciji",
+  "title": "Zakon o konvalidaciji",
+  "nn": "104/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/104/1606",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-09-26",
+  "published": "1997-10-08",
+  "in_force": "1997-10-08",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-koristenju-psa-pomagaca",
   "title": "Zakon o korištenju psa pomagača",
   "nn": "39/2019",
@@ -2155,6 +2389,19 @@
   "published": "2026-03-05",
   "in_force": "2026-03-13",
   "files": 391,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-kreditnim-poslovima-s-inozemstvom",
+  "title": "Zakon o kreditnim poslovima s inozemstvom",
+  "nn": "43/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/43/838",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA SABORA",
+  "enacted": "1996-05-17",
+  "published": "1996-05-31",
+  "in_force": "1996-06-08",
+  "files": 30,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2340,6 +2587,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-lukama-unutarnjih-voda",
+  "title": "Zakon o lukama unutarnjih voda",
+  "nn": "142/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/142/1745",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-10-09",
+  "published": "1998-10-28",
+  "in_force": "1998-11-05",
+  "files": 84,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-medicinski-pomognutoj-oplodnji",
   "title": "Zakon o medicinski pomognutoj oplodnji",
   "nn": "86/2012",
@@ -2509,6 +2769,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-mjenici",
+  "title": "Zakon o mjenici",
+  "nn": "74/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1287",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-09-30",
+  "published": "1994-10-18",
+  "in_force": "1994-10-26",
+  "files": 115,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-mjerama-ogranicavanja",
   "title": "Zakon o mjerama ograničavanja",
   "nn": "133/2023",
@@ -2600,6 +2873,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-nabavi-roba-usluga-i-ustupunju-radova",
+  "title": "Zakon o nabavi roba, usluga i ustupunju radova",
+  "nn": "142/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/142/2020",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1997-12-19",
+  "published": "1997-12-31",
+  "in_force": "1998-01-08",
+  "files": 64,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-nacinu-i-uvjetima-podmirivanja-obveza-po-kreditima-i-drugim-poslovima-iz",
+  "title": "Zakon o načinu i uvjetima podmirivanja obveza po kreditima i drugim poslovima iz sporazuma s vladama članicama Pariškog kluba",
+  "nn": "34/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/34/697",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-04-19",
+  "published": "1996-05-03",
+  "in_force": "1996-05-11",
+  "files": 13,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-nacinu-izvrsenja-presuda-europskog-suda-za-ljudska-prava-u-skupini-predmeta",
   "title": "Zakon o načinu izvršenja presuda Europskog suda za ljudska prava u skupini predmeta Statileo protiv Hrvatske (broj zahtjeva: 12027/10 i dr.) i Odluke Ustavnog suda Republike Hrvatske broj: U-I-3242/2018 i dr.",
   "nn": "36/2024",
@@ -2636,6 +2935,19 @@
   "published": "2013-05-10",
   "in_force": "2013-05-18",
   "files": 38,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-nacionalnoj-klasifikaciji-djelatnosti",
+  "title": "Zakon o nacionalnoj klasifikaciji djelatnosti",
+  "nn": "98/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/98/1719",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-12-29",
+  "published": "1994-12-31",
+  "in_force": "1994-12-31",
+  "files": 14,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2740,6 +3052,32 @@
   "published": "2023-10-23",
   "in_force": "2023-10-31",
   "files": 14,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-najmu-stanova",
+  "title": "Zakon o najmu stanova",
+  "nn": "91/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/91/1598",
+  "kind": "zakon",
+  "issuer": "Sabor Republike Hrvatske",
+  "enacted": "1996-10-11",
+  "published": "1996-10-28",
+  "in_force": "1996-11-05",
+  "files": 55,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-najvisoj-mirovini",
+  "title": "Zakon o najvišoj mirovini",
+  "nn": "162/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/162/1996",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-12-11",
+  "published": "1998-12-22",
+  "in_force": "1998-12-22",
+  "files": 4,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2873,6 +3211,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-nistavnosti-odredjenih-vrsta-ugovora-o-osiguranju-i-ugovora-o-kreditu",
+  "title": "Zakon o ništavnosti određenih vrsta ugovora o osiguranju i ugovora o kreditu",
+  "nn": "9/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/160",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1994-01-27",
+  "published": "1994-02-10",
+  "in_force": "1994-02-18",
+  "files": 10,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-nistetnosti-odredjenih-pravnih-akata-pravosudnih-tijela-bivse-jna-bivse-sfrj-i",
   "title": "Zakon o ništetnosti određenih pravnih akata pravosudnih tijela bivše JNA, bivše SFRJ i Republike Srbije",
   "nn": "124/2011",
@@ -2896,6 +3247,19 @@
   "published": "2017-07-21",
   "in_force": "2017-07-29",
   "files": 12,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-novcanim-poticajima-i-naknadama-u-poljoprivredi",
+  "title": "Zakon o novčanim poticajima i naknadama u poljoprivredi",
+  "nn": "29/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/508",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-03-24",
+  "published": "1994-04-11",
+  "in_force": "1994-04-19",
+  "files": 31,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2990,6 +3354,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-obiljezavanju-mjesta-masovnih-grobnica-zrtava-iz-domovinskog-rata",
+  "title": "Zakon o obilježavanju mjesta masovnih grobnica žrtava iz Domovinskog rata",
+  "nn": "100/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/100/1963",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-11-14",
+  "published": "1996-11-28",
+  "in_force": "1996-12-06",
+  "files": 12,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-obiteljskom-poljoprivrednom-gospodarstvu",
   "title": "Zakon o obiteljskom poljoprivrednom gospodarstvu",
   "nn": "29/2018",
@@ -3000,6 +3377,19 @@
   "published": "2018-03-28",
   "in_force": "2018-04-05",
   "files": 54,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-obnovi",
+  "title": "Zakon o obnovi",
+  "nn": "24/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/428",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-03-15",
+  "published": "1996-03-26",
+  "in_force": "1996-04-03",
+  "files": 72,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3107,6 +3497,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-obvezama-i-pravima-drzavnih-duznosnika",
+  "title": "Zakon o obvezama i pravima državnih dužnosnika",
+  "nn": "101/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1395",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-07-10",
+  "published": "1998-07-28",
+  "in_force": "1998-07-28",
+  "files": 24,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-obveznim-i-stvarnopravnim-odnosima-u-zracnom-prometu",
+  "title": "Zakon o obveznim i stvarnopravnim odnosima u zračnom prometu",
+  "nn": "132/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/132/1597",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-09-25",
+  "published": "1998-10-09",
+  "in_force": "1998-10-17",
+  "files": 188,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-obveznim-mirovinskim-fondovima",
   "title": "Zakon o obveznim mirovinskim fondovima",
   "nn": "19/2014",
@@ -3146,6 +3562,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-odgodi-primjene-zakona-o-porezu-na-dodanu-vrijednost",
+  "title": "Zakon o odgodi primjene Zakona o porezu na dodanu vrijednost",
+  "nn": "106/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/106/2028",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-12-06",
+  "published": "1996-12-17",
+  "in_force": "1996-12-17",
+  "files": 3,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-odgodi-uskladjivanja-mirovina-u-razdoblju-od-1-sijecnja-do-31-prosinca-2011-godine",
   "title": "Zakon o odgodi usklađivanja mirovina u razdoblju od 1. siječnja do 31. prosinca 2011. godine",
   "nn": "139/2010",
@@ -3169,6 +3598,19 @@
   "published": "2008-07-25",
   "in_force": "2008-08-02",
   "files": 168,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-odgovornosti-za-nuklearnu-stetu",
+  "title": "Zakon o odgovornosti za nuklearnu štetu",
+  "nn": "143/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/143/1760",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-10-09",
+  "published": "1998-10-30",
+  "in_force": "1998-11-07",
+  "files": 31,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3211,6 +3653,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-odvjetnistvu",
+  "title": "Zakon o odvjetništvu",
+  "nn": "9/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/157",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": null,
+  "published": "1994-02-10",
+  "in_force": "1994-02-18",
+  "files": 88,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-ogranicavanju-uporabe-duhanskih-i-srodnih-proizvoda",
   "title": "Zakon o ograničavanju uporabe duhanskih i srodnih proizvoda",
   "nn": "45/2017",
@@ -3237,6 +3692,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-opcem-oprostu",
+  "title": "Zakon o općem oprostu",
+  "nn": "80/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/80/1390",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-09-20",
+  "published": "1996-09-27",
+  "in_force": "1996-10-05",
+  "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-opcem-upravnom-postupku",
   "title": "Zakon o općem upravnom postupku",
   "nn": "47/2009",
@@ -3260,6 +3728,19 @@
   "published": "2015-03-17",
   "in_force": "2016-01-01",
   "files": 465,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-osiguranju-izvoznih-poslova-od-nekomercijalnih-rizika",
+  "title": "Zakon o osiguranju izvoznih poslova od nekomercijalnih rizika",
+  "nn": "53/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/953",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-28",
+  "published": "1994-07-08",
+  "in_force": "1994-07-16",
+  "files": 20,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3510,6 +3991,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-ovlasti-vlade-republike-hrvatske-da-uredbama-uredjuje-pitanja-iz-djelokruga",
+  "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+  "nn": "72/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/72/1224",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-09-20",
+  "published": "1995-09-26",
+  "in_force": "1995-09-26",
+  "files": 4,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-ovlasti-vlade-republike-hrvatske-da-uredbama-uredjuje-pojedina-pitanja-iz",
   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
   "nn": "146/2025",
@@ -3520,6 +4014,19 @@
   "published": "2025-12-03",
   "in_force": "2025-12-15",
   "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-ovlasti-vlade-republike-hrvatske-da-uredbama-uredjuje-pojedina-pitanja-iz-nn-104-1997",
+  "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+  "nn": "104/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/104/1607",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-09-26",
+  "published": "1997-10-08",
+  "in_force": "1997-10-08",
+  "files": 4,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3614,6 +4121,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-placama-ovlastenih-drzavnih-revizora",
+  "title": "Zakon o plaćama ovlaštenih državnih revizora",
+  "nn": "86/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/86/1163",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA SABORA",
+  "enacted": "1998-06-05",
+  "published": "1998-06-19",
+  "in_force": "1998-06-27",
+  "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placama-sluzbenika-i-namjestenika-u-javnim-sluzbama",
+  "title": "Zakon o plaćama službenika i namještenika u javnim službama",
+  "nn": "74/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1286",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-10-06",
+  "published": "1994-10-18",
+  "in_force": "1994-10-26",
+  "files": 29,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-placama-sudaca-i-drugih-pravosudnih-duznosnika",
   "title": "Zakon o plaćama sudaca i drugih pravosudnih dužnosnika",
   "nn": "10/1999",
@@ -3653,6 +4186,175 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-placanju-doplatne-marke-1700-godina-grada-splita-u-unutarnjem-postanskom-prometu",
+  "title": "Zakon o plaćanju doplatne marke \"1700 godina grada Splita\" u unutarnjem poštanskom prometu",
+  "nn": "48/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/921",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-07",
+  "published": "1996-06-18",
+  "in_force": "1996-06-26",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatne-marke-200-obljetnica-rodjenja-i-135-obljetnica-smrti-antuna",
+  "title": "Zakon o plaćanju doplatne marke \"200. obljetnica rođenja i 135. obljetnica smrti Antuna Mihanovića\" u unutarnjem poštanskom prometu",
+  "nn": "100/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/100/1964",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-11-14",
+  "published": "1996-11-28",
+  "in_force": "1996-12-06",
+  "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatne-marke-800-godina-spomena-imena-osijeka-u-unutarnjem-postanskom",
+  "title": "Zakon o plaćanju doplatne marke \"800. godina spomena imena Osijeka\" u unutarnjem poštanskom prometu",
+  "nn": "48/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/920",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-07",
+  "published": "1996-06-18",
+  "in_force": "1996-06-26",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatne-marke-hrvatska-liga-protiv-raka-u-unutarnjem-postanskpm-prometu",
+  "title": "Zakon o plaćanju doplatne marke \"Hrvatska liga protiv raka\" u unutarnjem poštanskpm prometu",
+  "nn": "52/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/917",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-23",
+  "published": "1994-07-07",
+  "in_force": "1994-07-07",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatne-marke-izgradnja-spomen-doma-dr-ante-starcevic-u-unutarnjem",
+  "title": "Zakon o plaćanju doplatne marke \"Izgradnja spomen-doma dr. Ante Starčević\" u unutarnjem poštanskom prometu",
+  "nn": "90/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/90/1584",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-10-11",
+  "published": "1996-10-25",
+  "in_force": "1996-11-02",
+  "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatne-marke-obiljezavanje-600-te-obljetnice-dominikanskog-sveucilista",
+  "title": "Zakon o plaćanju doplatne marke \"Obilježavanje 600-te obljetnice Dominikanskog sveučilišta\" u unutarnjem poštanskom prometu",
+  "nn": "87/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/87/1518",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-10-02",
+  "published": "1996-10-16",
+  "in_force": "1996-10-24",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatnih-maraka-u-unutarnjem-postanskom-prometu",
+  "title": "Zakon o plaćanju doplatnih maraka u unutarnjem poštanskom prometu",
+  "nn": "52/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/916",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-21",
+  "published": "1994-07-07",
+  "in_force": "1994-07-15",
+  "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatnih-maraka-u-unutarnjem-postanskom-prometu-u-godini-1996",
+  "title": "Zakon o plaćanju doplatnih maraka u unutarnjem poštanskom prometu u godini 1996.",
+  "nn": "16/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/16/240",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-02-16",
+  "published": "1996-02-28",
+  "in_force": "1996-03-07",
+  "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doplatnih-maraka-u-unutrasnjem-postanskom-prometu",
+  "title": "Zakon  o plaćanju doplatnih maraka u unutrašnjem poštanskom prometu,",
+  "nn": "20/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/20/378",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-03-10",
+  "published": "1995-03-24",
+  "in_force": "1995-04-01",
+  "files": 7,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doprinosa-za-doplatak-za-djecu-u-1995-godini",
+  "title": "Zakon o plaćanju doprinosa za doplatak za djecu u 1995. godini",
+  "nn": "95/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1644",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": null,
+  "published": "1994-12-27",
+  "in_force": "1995-01-04",
+  "files": 4,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-i-invalidsko-osiguranje-individualnih",
+  "title": "Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje individualnih poljoprivrednika u 1995. godini",
+  "nn": "95/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1642",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-12-21",
+  "published": "1994-12-27",
+  "in_force": "1995-01-04",
+  "files": 3,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-i-invalidsko-osiguranje-radnika",
+  "title": "Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika",
+  "nn": "13/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/13/198",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-01-30",
+  "published": "1998-01-31",
+  "in_force": "1998-01-31",
+  "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-i-invalidsko-osiguranje-samostalnih-privrednika",
+  "title": "Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika",
+  "nn": "13/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/13/199",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-01-30",
+  "published": "1998-01-31",
+  "in_force": "1998-01-31",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-osiguranje-od-1-lipnja-do-31-prosinca-2000-godine",
   "title": "Zakon o plaćanju doprinosa za mirovinsko osiguranje od 1. lipnja do 31. prosinca 2000. godine",
   "nn": "54/2000",
@@ -3663,6 +4365,19 @@
   "published": "2000-05-31",
   "in_force": "2000-05-31",
   "files": 9,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-osiguranje-u-1999-godini",
+  "title": "Zakon o plaćanju doprinosa za mirovinsko osiguranje u 1999. godini",
+  "nn": "164/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/164/2016",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-12-18",
+  "published": "1998-12-28",
+  "in_force": "1998-12-28",
+  "files": 8,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3689,6 +4404,19 @@
   "published": "2021-12-27",
   "in_force": "2022-01-04",
   "files": 377,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-plovputu-split",
+  "title": "Zakon o Plovputu, Split",
+  "nn": "73/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/73/1257",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1997-06-27",
+  "published": "1997-07-14",
+  "in_force": "1997-07-22",
+  "files": 26,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3991,6 +4719,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-porezu-na-promet-proizvoda-i-usluga",
+  "title": "Zakon o porezu na promet proizvoda i usluga",
+  "nn": "95/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1636",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-12-21",
+  "published": "1994-12-27",
+  "in_force": "1995-01-04",
+  "files": 58,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-porodnom-dopustu-majki-koje-obavljaju-samostalnu-djelatnost-i-nezaposlenih-majki",
+  "title": "Zakon o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki",
+  "nn": "24/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/24/429",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-03-15",
+  "published": "1996-03-26",
+  "in_force": "1996-04-03",
+  "files": 11,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-posebnim-pravima-iz-mirovinskog-osiguranja-i-prava-po-osnovi-nezaposlenosti",
   "title": "Zakon o posebnim pravima iz mirovinskog osiguranja i prava po osnovi nezaposlenosti zaposlenika u Istarskim ugljenokopima \"Tupljak\" d. d. Labi",
   "nn": "19/1999",
@@ -4027,6 +4781,32 @@
   "published": "2011-04-20",
   "in_force": "2011-04-20",
   "files": 12,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnom-porezu-na-bezalkoholna-pica",
+  "title": "Zakon o posebnom porezu na bezalkoholna pića",
+  "nn": "51/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/902",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-28",
+  "published": "1994-07-11",
+  "in_force": "1994-07-11",
+  "files": 22,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnom-porezu-na-duhanske-preradjevine",
+  "title": "Zakon o posebnom porezu na duhanske prerađevine",
+  "nn": "51/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/900",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-28",
+  "published": "1994-07-11",
+  "in_force": "1994-07-11",
+  "files": 34,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4069,6 +4849,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-posebnom-porezu-na-naftne-derivate",
+  "title": "Zakon o posebnom porezu na naftne derivate",
+  "nn": "51/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/899",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-28",
+  "published": "1994-07-11",
+  "in_force": "1994-07-11",
+  "files": 26,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnom-porezu-na-pivo",
+  "title": "Zakon o posebnom porezu na pivo",
+  "nn": "51/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/901",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-06-28",
+  "published": "1994-07-11",
+  "in_force": "1994-07-11",
+  "files": 22,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-posebnom-porezu-na-place-mirovine-i-druge-primitke",
   "title": "Zakon o posebnom porezu na plaće, mirovine i druge primitke",
   "nn": "94/2009",
@@ -4092,6 +4898,19 @@
   "published": "2009-10-01",
   "in_force": "2009-10-01",
   "files": 19,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnom-porezu-na-uvoz-automobila",
+  "title": "Zakon o posebnom porezu na uvoz automobila",
+  "nn": "51/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/904",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": null,
+  "published": "1994-07-11",
+  "in_force": "1994-07-11",
+  "files": 15,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4212,6 +5031,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-postupku-preuzimanja-dionickih-drustava",
+  "title": "Zakon o postupku preuzimanja dioničkih društava",
+  "nn": "124/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/124/1806",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-11-07",
+  "published": "1997-11-20",
+  "in_force": "1997-11-20",
+  "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-poticanju-ulaganja",
   "title": "Zakon o poticanju ulaganja",
   "nn": "63/2022",
@@ -4300,6 +5132,19 @@
   "published": "1999-11-30",
   "in_force": "1999-12-08",
   "files": 20,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-pravima-samostalnih-umjetnika-i-poticanju-kulturnog-i-umjetnickog-stvaralastva",
+  "title": "Zakon o pravima samostalnih umjetnika i poticanju kulturnog i umjetničkog stvaralaštva",
+  "nn": "43/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/43/839",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-05-17",
+  "published": "1996-05-31",
+  "in_force": "1996-06-08",
+  "files": 30,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4407,6 +5252,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-predskolskom-odgoju-i-naobrazbi",
+  "title": "Zakon o predškolskom odgoju i naobrazbi",
+  "nn": "10/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/10/152",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1997-01-17",
+  "published": "1997-01-30",
+  "in_force": "1997-02-07",
+  "files": 62,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-predstavnickim-tuzbama-za-zastitu-kolektivnih-interesa-i-prava-potrosaca",
   "title": "Zakon o predstavničkim tužbama za zaštitu kolektivnih interesa i prava potrošača",
   "nn": "59/2023",
@@ -4446,6 +5304,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-prenosenju-sredstava-drzavnog-proracuna-fondovima-mirovinskog-i-invallidskog",
+  "title": "Zakon o prenošenju sredstava državnog proračuna fondovima mirovinskog i invallidskog osiguranja te usklađivanju mirovina",
+  "nn": "102/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/102/1410",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-07-10",
+  "published": "1998-07-29",
+  "in_force": "1998-08-06",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-presadjivanju-ljudskih-organa-u-svrhu-lijecenja",
   "title": "Zakon o presađivanju ljudskih organa u svrhu liječenja",
   "nn": "144/2012",
@@ -4469,6 +5340,32 @@
   "published": "2010-11-08",
   "in_force": "2010-11-08",
   "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-pretvorbi-prava-na-drustvenim-sredstvima-bivsih-drustveno-politickih-organizacija",
+  "title": "Zakon o pretvorbi prava na društvenim sredstvima bivših društveno-političkih organizacija",
+  "nn": "70/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1210",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-06-18",
+  "published": "1997-07-07",
+  "in_force": "1997-07-15",
+  "files": 12,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-pretvorbi-zagrebackog-velesajma",
+  "title": "Zakon o pretvorbi Zagrebačkog velesajma",
+  "nn": "55/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/55/1070",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-28",
+  "published": "1996-07-10",
+  "in_force": "1996-07-18",
+  "files": 10,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4680,6 +5577,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-privatizacijskim-investicijskim-fondovima",
+  "title": "Zakon o privatizacijskim investicijskim fondovima",
+  "nn": "109/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1659",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-10-03",
+  "published": "1997-10-20",
+  "in_force": "1997-10-20",
+  "files": 43,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-privatnim-detektivima",
   "title": "Zakon o privatnim detektivima",
   "nn": "24/2009",
@@ -4703,6 +5613,19 @@
   "published": "2020-02-12",
   "in_force": "2020-02-20",
   "files": 104,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-privremenom-neprimjenjivanju-zakona-o-provodjenju-rezolucija-vijeca-sigurnosti",
+  "title": "Zakon o privremenom neprimjenjivanju Zakona o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore)",
+  "nn": "80/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/80/1391",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-09-20",
+  "published": "1996-09-27",
+  "in_force": "1996-10-05",
+  "files": 5,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4742,6 +5665,19 @@
   "published": "2022-06-17",
   "in_force": "2022-06-25",
   "files": 32,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-priznavanju-istovrijednosti-stranih-skolskih-svjedodzbi-i-diploma",
+  "title": "Zakon o priznavanju istovrijednosti stranih školskih svjedodžbi i diploma",
+  "nn": "57/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/57/1160",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-28",
+  "published": "1996-07-12",
+  "in_force": "1996-07-20",
+  "files": 23,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5941,6 +6877,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-puckim-otvorenim-ucilistima",
+  "title": "Zakon o pučkim otvorenim učilištima",
+  "nn": "54/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/54/820",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-05-16",
+  "published": "1997-05-27",
+  "in_force": "1997-06-04",
+  "files": 9,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-puckom-pravobranitelju",
   "title": "Zakon o pučkom pravobranitelju",
   "nn": "76/2012",
@@ -6019,6 +6968,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-razdvajanju-hrvatske-poste-i-telekomunikacija-na-hrvatsku-postu-i-hrvatske",
+  "title": "Zakon o razdvajanju Hrvatske pošte i telekomunikacija na Hrvatsku poštu i Hrvatske telekomunikacije",
+  "nn": "101/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/101/1396",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-07-10",
+  "published": "1998-07-28",
+  "in_force": "1998-08-05",
+  "files": 11,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-razminiranju",
+  "title": "Zakon o razminiranju",
+  "nn": "19/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/19/332",
+  "kind": "zakon",
+  "issuer": "PREDSJEDNIK REPUBLIKE HRVATSKE",
+  "enacted": "1996-03-01",
+  "published": "1996-03-08",
+  "in_force": "1996-03-08",
+  "files": 33,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-razmjeni-podataka-izmedju-tijela-za-provedbu-zakona-drzava-clanica-europske-unije",
   "title": "Zakon o razmjeni podataka između tijela za provedbu zakona država članica Europske unije",
   "nn": "17/2025",
@@ -6042,6 +7017,19 @@
   "published": "2026-05-27",
   "in_force": "2026-06-04",
   "files": 16,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-referendumu-i-drugim-oblicima-osobnog-sudjelovanja-u-obavljanju-drzavne-vlasti-i",
+  "title": "Zakon o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne samouprave",
+  "nn": "33/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/33/673",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-04-19",
+  "published": "1996-04-30",
+  "in_force": "1996-05-08",
+  "files": 69,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6214,6 +7202,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sanaciji-i-restrukturiranju-banaka",
+  "title": "Zakon o sanaciji i restrukturiranju banaka",
+  "nn": "44/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/776",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": null,
+  "published": "1994-06-03",
+  "in_force": "1994-06-11",
+  "files": 22,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sanaciji-javnih-ustanova",
   "title": "Zakon o sanaciji javnih ustanova",
   "nn": "136/2012",
@@ -6383,6 +7384,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sklapanju-i-izvrsavanju-medjunarodnih-ugovora",
+  "title": "Zakon o sklapanju i izvršavanju međunarodnih ugovora",
+  "nn": "28/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/28/542",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-03-29",
+  "published": "1996-04-12",
+  "in_force": "1996-04-20",
+  "files": 45,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-slatkovodnom-ribarstvu",
   "title": "Zakon o slatkovodnom ribarstvu",
   "nn": "63/2019",
@@ -6539,6 +7553,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sportu-nn-111-1997",
+  "title": "Zakon o športu",
+  "nn": "111/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/111/1670",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-10-03",
+  "published": "1997-10-22",
+  "in_force": "1997-10-30",
+  "files": 81,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sportu-nn-141-2022",
+  "title": "Zakon o sportu",
+  "nn": "141/2022",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/141/2135",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2022-11-29",
+  "published": "2022-12-06",
+  "in_force": "2023-01-01",
+  "files": 130,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sprjecavanju-nereda-na-sportskim-natjecanjima",
   "title": "Zakon o sprječavanju nereda na športskim natjecanjima",
   "nn": "117/2003",
@@ -6549,6 +7589,19 @@
   "published": "2003-07-23",
   "in_force": "2003-07-23",
   "files": 33,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sprjecavanju-pranja-novca",
+  "title": "Zakon o sprječavanju pranja novca",
+  "nn": "69/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/69/1189",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA SABORA",
+  "enacted": "1997-06-18",
+  "published": "1997-07-04",
+  "in_force": "1997-11-01",
+  "files": 25,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6630,6 +7683,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sredstvima-za-doplatak-za-djecu",
+  "title": "Zakon o sredstvima za doplatak za djecu",
+  "nn": "88/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/88/1192",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-06-19",
+  "published": "1998-06-26",
+  "in_force": "1998-07-04",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-stambenoj-stednji-i-drzavnom-poticanju-stambene-stednje",
+  "title": "Zakon o stambenoj štednji i državnom poticanju stambene štednje",
+  "nn": "109/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/109/1660",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1997-10-03",
+  "published": "1997-10-20",
+  "in_force": "1998-01-01",
+  "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-stambenom-potrosackom-kreditiranju",
   "title": "Zakon o stambenom potrošačkom kreditiranju",
   "nn": "101/2017",
@@ -6695,6 +7774,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-stocarstvu",
+  "title": "Zakon o stočarstvu",
+  "nn": "70/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/70/1212",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-06-18",
+  "published": "1997-07-07",
+  "in_force": "1997-07-15",
+  "files": 67,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-strancima",
   "title": "Zakon o strancima",
   "nn": "133/2020",
@@ -6747,6 +7839,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-strucno-pedagoskom-nadzoru",
+  "title": "Zakon o stručno-pedagoškom nadzoru",
+  "nn": "73/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/73/1256",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1997-06-27",
+  "published": "1997-07-14",
+  "in_force": "1997-07-22",
+  "files": 16,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-strukovnom-obrazovanju",
   "title": "Zakon o strukovnom obrazovanju",
   "nn": "30/2009",
@@ -6770,6 +7875,19 @@
   "published": "2009-12-21",
   "in_force": "2010-01-01",
   "files": 46,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-studentskom-zboru",
+  "title": "Zakon o studentskom zboru",
+  "nn": "139/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/139/1975",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-12-12",
+  "published": "1997-12-23",
+  "in_force": "1997-12-31",
+  "files": 49,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6877,6 +7995,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sudskom-registru",
+  "title": "Zakon o sudskom registru",
+  "nn": "1/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/1/1",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "1994-12-29",
+  "published": "1995-01-05",
+  "in_force": "1995-01-05",
+  "files": 89,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sumama",
   "title": "Zakon o šumama",
   "nn": "68/2018",
@@ -6900,6 +8031,19 @@
   "published": "2009-06-30",
   "in_force": "2009-07-08",
   "files": 69,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sumskom-sjemenu-i-sumskim-sadnicama",
+  "title": "Zakon o šumskom sjemenu i šumskim sadnicama",
+  "nn": "68/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/812",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-04-24",
+  "published": "1998-05-12",
+  "in_force": "1998-05-20",
+  "files": 87,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -7436,6 +8580,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-upravnim-pristojbama-u-podrucju-prava-industrijskog-vlasnistva",
+  "title": "Zakon o upravnim pristojbama u području prava industrijskog vlasništva",
+  "nn": "55/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/55/1069",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-28",
+  "published": "1996-07-10",
+  "in_force": "1996-07-10",
+  "files": 17,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-upravnim-sporovima",
   "title": "Zakon o upravnim sporovima",
   "nn": "36/2024",
@@ -7537,6 +8694,19 @@
   "published": "2009-07-08",
   "in_force": "2009-07-16",
   "files": 27,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-uskladjivanju-mirovina-i-drugih-novcanih-primanja-iz-mirovinskog-i-invalidskog",
+  "title": "Zakon o usklađivanju mirovina i drugih novčanih primanja iz mirovinskog i invalidskog osiguranja, te upravljanju fondovima mirovinskog i invalidskog osiguranja",
+  "nn": "20/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/20/278",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-02-07",
+  "published": "1997-02-19",
+  "in_force": "1997-02-19",
+  "files": 8,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -7722,6 +8892,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-vanjskim-poslovima",
+  "title": "Zakon o vanjskim poslovima",
+  "nn": "48/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/918",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-06-07",
+  "published": "1996-06-18",
+  "in_force": "1996-06-26",
+  "files": 75,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-vatrogastvu",
   "title": "Zakon o vatrogastvu",
   "nn": "125/2019",
@@ -7745,6 +8928,19 @@
   "published": "2026-06-29",
   "in_force": "2026-06-29",
   "files": 143,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-veterinarskim-lijekovima-i-veterinarsko-medicinskim-proizvodima",
+  "title": "Zakon o veterinarskim lijekovima i veterinarsko-medicinskim proizvodima",
+  "nn": "79/1998",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/79/1056",
+  "kind": "uredba sa zakonskom snagom",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1998-05-22",
+  "published": "1998-06-05",
+  "in_force": "1998-06-13",
+  "files": 58,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -7904,6 +9100,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zabrani-raspolaganja-i-preuzimanju-sredstava-odredjenih-pravnih-osoba-na",
+  "title": "Zakon o zabrani raspolaganja i preuzimanju sredstava određenih pravnih osoba na teritoriju Republike Hrvatske",
+  "nn": "29/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/509",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": null,
+  "published": "1994-04-11",
+  "in_force": "1994-04-19",
+  "files": 13,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zadrugama",
   "title": "Zakon o zadrugama",
   "nn": "34/2011",
@@ -7953,6 +9162,19 @@
   "published": "2018-11-30",
   "in_force": "2019-03-01",
   "files": 52,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zakladama-i-fondacijama",
+  "title": "Zakon o zakladama i fondacijama",
+  "nn": "36/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/36/722",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-05-16",
+  "published": "1995-06-01",
+  "in_force": "1995-06-09",
+  "files": 48,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -8018,6 +9240,32 @@
   "published": "2011-11-07",
   "in_force": "2011-11-15",
   "files": 47,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zapaljivim-tekucinama-i-plinovima",
+  "title": "Zakon o zapaljivim tekućinama i plinovima",
+  "nn": "108/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/108/1778",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-12-13",
+  "published": "1995-12-28",
+  "in_force": "1996-01-05",
+  "files": 29,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zaposljavanju",
+  "title": "Zakon o zapošljavanju",
+  "nn": "59/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/59/1182",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1996-06-28",
+  "published": "1996-07-17",
+  "in_force": "1996-07-25",
+  "files": 87,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -8177,6 +9425,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zastiti-osoba-i-imovine",
+  "title": "Zakon o zaštiti osoba i imovine",
+  "nn": "83/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/83/1474",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-09-27",
+  "published": "1996-10-08",
+  "in_force": "1996-10-16",
+  "files": 100,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zastiti-osoba-s-dusevnim-smetnjama",
   "title": "ZAKON O ZAŠTITI OSOBA S DUŠEVNIM SMETNJAMA",
   "nn": "76/2014",
@@ -8294,6 +9555,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zastiti-sorti-poljoprivrednog-bilja",
+  "title": "Zakon o zaštiti sorti poljoprivrednog bilja",
+  "nn": "131/1997",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/131/1888",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1997-11-21",
+  "published": "1997-12-05",
+  "in_force": "1997-12-13",
+  "files": 53,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastiti-tajnosti-podataka",
+  "title": "Zakon o zaštiti tajnosti podataka",
+  "nn": "108/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/108/2091",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1996-12-13",
+  "published": "1996-12-23",
+  "in_force": "1996-12-31",
+  "files": 37,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zastiti-topografija-poluvodickih-proizvoda",
   "title": "Zakon o zaštiti topografija poluvodičkih proizvoda",
   "nn": "173/2003",
@@ -8343,6 +9630,32 @@
   "published": "2019-12-27",
   "in_force": "2020-01-01",
   "files": 109,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastitnim-pristojbama-pri-uvozu-poljoprivrednih-i-prehrambenih-proizvoda",
+  "title": "Zakon o zaštitnim pristojbama pri uvozu poljoprivrednih i prehrambenih proizvoda",
+  "nn": "36/1995",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/36/724",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1995-05-16",
+  "published": "1995-06-01",
+  "in_force": "1995-06-09",
+  "files": 17,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zateznim-kamatama",
+  "title": "Zakon o zateznim kamatama",
+  "nn": "28/1996",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/28/543",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA SABORA",
+  "enacted": "1996-03-29",
+  "published": "1996-04-12",
+  "in_force": "1996-04-20",
+  "files": 8,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -8460,6 +9773,32 @@
   "published": "2009-06-17",
   "in_force": "2009-06-25",
   "files": 175,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakona-o-placanju-doprinosa-za-mirovinsko-i-invalidsko-osiguranje-radnika-u-1995-godini",
+  "title": "Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1995. godini",
+  "nn": "95/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1641",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-12-21",
+  "published": "1994-12-27",
+  "in_force": "1995-01-04",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakona-o-placanju-doprinosa-za-mirovinsko-i-invalidsko-osiguranje-samostalnih-privrednika",
+  "title": "Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1995. godini",
+  "nn": "95/1994",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1643",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM SABORA REPUBLIKE HRVATSKE",
+  "enacted": "1994-12-21",
+  "published": "1994-12-27",
+  "in_force": "1995-01-04",
+  "files": 3,
   "version": "prvi objavljeni tekst"
  }
 ]
