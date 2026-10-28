@@ -26,5 +26,9 @@
       "decided_here": false
     }
   },
-  "tool": "tools/ustav.py"
+  "tool": "tools/ustav.py",
+  "citation": {
+    "file": "([a-z]+)/clanak-0*([0-9]+[a-z]*)\\.md",
+    "cites": "(član(ak|ka|ku|kom)|čl\\.) ?{n}([^0-9]|$)"
+  }
 }
