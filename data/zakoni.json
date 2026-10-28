@@ -1,5 +1,18 @@
 [
  {
+  "slug": "carinski-zakon",
+  "title": "Carinski zakon",
+  "nn": "78/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1392",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-23",
+  "in_force": "1999-07-31",
+  "files": 265,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "kazneni-zakon",
   "title": "Kazneni zakon",
   "nn": "125/2011",
@@ -65,6 +78,45 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "uredba-o-carinskoj-tarifi-za-2002-godinu",
+  "title": "Uredba o Carinskoj tarifi za 2002. godinu",
+  "nn": "113/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/113/1875",
+  "kind": "uredba sa zakonskom snagom",
+  "issuer": "Vlada Republike Hrvatske",
+  "enacted": "2001-12-06",
+  "published": "2001-12-19",
+  "in_force": "2002-01-01",
+  "files": 4,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "uredba-o-kategorijama-vrstama-i-klasifikaciji-otpada-s-katalogom-otpada-i-listom-opasnog",
+  "title": "Uredba o kategorijama, vrstama i klasifikaciji otpada s katalogom otpada i listom opasnog otpada",
+  "nn": "50/2005",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/50/963",
+  "kind": "uredba sa zakonskom snagom",
+  "issuer": "Vlada Republike Hrvatske",
+  "enacted": null,
+  "published": "2005-04-18",
+  "in_force": "2005-04-26",
+  "files": 11,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "uredba-o-odredjivanju-granice-pomorskog-dobra-na-dijelu-k-o-hvar",
+  "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Hvar",
+  "nn": "105/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/105/1726",
+  "kind": "uredba sa zakonskom snagom",
+  "issuer": "Vlada Republike Hrvatske",
+  "enacted": "2001-11-22",
+  "published": "2001-11-28",
+  "in_force": "2001-12-06",
+  "files": 6,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "uredba-o-popisu-obveznika-primjene-zakona-o-javnoj-nabavi",
   "title": "Uredba o popisu obveznika primjene Zakona o javnoj nabavi",
   "nn": "83/2009",
@@ -117,6 +169,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-agenciji-za-odgoj-i-obrazovanje",
+  "title": "Zakon o Agenciji za odgoj i obrazovanje",
+  "nn": "85/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2020",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-07-13",
+  "published": "2006-07-26",
+  "in_force": "2006-08-03",
+  "files": 29,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-agenciji-za-regulaciju-trzista-zeljeznickih-usluga",
   "title": "Zakon o Agenciji za regulaciju tržišta željezničkih usluga",
   "nn": "79/2007",
@@ -156,6 +221,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-akreditaciji",
+  "title": "Zakon o akreditaciji",
+  "nn": "158/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2259",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-09-25",
+  "published": "2003-10-07",
+  "in_force": "2003-10-15",
+  "files": 13,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-akvakulturi",
   "title": "Zakon o akvakulturi",
   "nn": "130/2017",
@@ -192,6 +270,19 @@
   "published": "2016-12-23",
   "in_force": "2016-12-31",
   "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-arbitrazi",
+  "title": "Zakon o arbitraži",
+  "nn": "88/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/88/1498",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-09-28",
+  "published": "2001-10-11",
+  "in_force": "2001-10-19",
+  "files": 53,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -283,6 +374,19 @@
   "published": "2018-12-27",
   "in_force": "2019-01-04",
   "files": 35,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-carinskoj-tarifi",
+  "title": "Zakon o carinskoj tarifi",
+  "nn": "61/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1340",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "2000-06-14",
+  "published": "2000-06-23",
+  "in_force": "2000-07-01",
+  "files": 14,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -416,6 +520,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-dobrobiti-zivotinja",
+  "title": "Zakon o dobrobiti životinja",
+  "nn": "19/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/19/400",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-02-05",
+  "published": "1999-02-25",
+  "in_force": "1999-03-05",
+  "files": 44,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-dobrovoljnim-mirovinskim-fondovima",
   "title": "Zakon o dobrovoljnim mirovinskim fondovima",
   "nn": "19/2014",
@@ -426,6 +543,19 @@
   "published": "2014-02-12",
   "in_force": "2014-02-20",
   "files": 325,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-dobrovoljnom-zdravstvenom-osiguranju",
+  "title": "Zakon o dobrovoljnom zdravstvenom osiguranju",
+  "nn": "85/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2016",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-07-13",
+  "published": "2006-07-26",
+  "in_force": "2006-08-03",
+  "files": 41,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -452,6 +582,32 @@
   "published": "2022-12-22",
   "in_force": "2022-12-23",
   "files": 25,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-doplatku-za-djecu",
+  "title": "Zakon o doplatku za djecu",
+  "nn": "94/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1588",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-10-19",
+  "published": "2001-10-30",
+  "in_force": "2001-11-07",
+  "files": 42,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-doprinosima-za-obvezna-osiguranja",
+  "title": "Zakon o doprinosima za obvezna osiguranja",
+  "nn": "147/2002",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/147/2338",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2002-11-29",
+  "published": "2002-12-10",
+  "in_force": "2002-12-18",
+  "files": 55,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -611,6 +767,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-drzavnom-izbornom-povjerenstvu-republike-hrvatske",
+  "title": "Zakon o Državnom izbornom povjerenstvu Republike Hrvatske",
+  "nn": "44/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/44/1081",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-03-31",
+  "published": "2006-04-21",
+  "in_force": "2006-04-29",
+  "files": 32,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-drzavnom-odvjetnistvu",
   "title": "Zakon o državnom odvjetništvu",
   "nn": "67/2018",
@@ -647,6 +816,19 @@
   "published": "2018-07-25",
   "in_force": "2018-09-01",
   "files": 112,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-duhanu",
+  "title": "Zakon o duhanu",
+  "nn": "69/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/69/1285",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-18",
+  "published": "1999-07-05",
+  "in_force": "1999-07-13",
+  "files": 47,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -699,6 +881,19 @@
   "published": "2021-10-14",
   "in_force": "2021-10-22",
   "files": 109,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-elektronickoj-trgovini",
+  "title": "Zakon o elektroničkoj trgovini",
+  "nn": "173/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2504",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-10-15",
+  "published": "2003-10-31",
+  "in_force": "2003-11-08",
+  "files": 14,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -949,6 +1144,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-fondu-za-zastitu-okolisa-i-energetsku-ucinkovitost",
+  "title": "Zakon o Fondu za zaštitu okoliša i energetsku učinkovitost",
+  "nn": "107/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/107/1405",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-06-24",
+  "published": "2003-07-04",
+  "in_force": "2003-07-12",
+  "files": 28,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-genetski-modificiranim-organizmima",
   "title": "Zakon o genetski modificiranim organizmima",
   "nn": "126/2019",
@@ -972,6 +1180,19 @@
   "published": "2023-04-07",
   "in_force": "2023-04-15",
   "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-gnojivima-i-poboljsivacima-tla",
+  "title": "Zakon o gnojivima i poboljšivačima tla",
+  "nn": "163/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2346",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": null,
+  "published": "2003-10-16",
+  "in_force": "2003-10-24",
+  "files": 25,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1079,6 +1300,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-hrvatskoj-agenciji-za-nadzor-financijskih-usluga",
+  "title": "Zakon o Hrvatskoj agenciji za nadzor financijskih usluga",
+  "nn": "140/2005",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2639",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2005-11-17",
+  "published": "2005-11-28",
+  "in_force": "2005-11-28",
+  "files": 29,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-hrvatskoj-agenciji-za-poljoprivredu-i-hranu",
   "title": "Zakon o Hrvatskoj agenciji za poljoprivredu i hranu",
   "nn": "111/2018",
@@ -1128,6 +1362,19 @@
   "published": "2021-12-27",
   "in_force": "2022-01-04",
   "files": 43,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-hrvatskoj-izvjestajnoj-novinskoj-agenciji",
+  "title": "Zakon o Hrvatskoj izvještajnoj novinskoj agenciji",
+  "nn": "96/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1612",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-10-25",
+  "published": "2001-11-07",
+  "in_force": "2001-11-15",
+  "files": 41,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1287,6 +1534,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-industrijskom-dizajnu",
+  "title": "Zakon o industrijskom dizajnu",
+  "nn": "173/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2498",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-10-15",
+  "published": "2003-10-31",
+  "in_force": "2003-11-08",
+  "files": 29,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-industrijskom-oblicju",
+  "title": "Zakon o industrijskom obličju",
+  "nn": "78/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1395",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-23",
+  "in_force": "1999-07-31",
+  "files": 60,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-informacijskoj-sigurnosti",
   "title": "Zakon o informacijskoj sigurnosti",
   "nn": "79/2007",
@@ -1443,6 +1716,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-izborima-zastupnika-u-hrvatski-drzavni-sabor",
+  "title": "Zakon o izborima zastupnika u Hrvatski državni Sabor",
+  "nn": "116/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/116/1854",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-10-29",
+  "published": "1999-11-05",
+  "in_force": "1999-11-13",
+  "files": 110,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-hrvatski-sabor",
   "title": "Zakon o izbornim jedinicama za izbor zastupnika u Hrvatski sabor",
   "nn": "114/2023",
@@ -1547,6 +1833,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-izvrsavanju-odluke-o-privremenom-financiranju-javnih-izdataka-republike-hrvatske",
+  "title": "Zakon o izvršavanju Odluke o privremenom financiranju javnih izdataka Republike Hrvatske za razdoblje od 1. siječnja do 31. ožujka 2000.",
+  "nn": "128/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2018",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-11-12",
+  "published": "1999-11-30",
+  "in_force": "1999-12-08",
+  "files": 3,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-izvrsavanju-rada-za-opce-dobro-na-slobodi-i-uvjetne-osude-sa-zastitnim-nadzorom-u",
   "title": "Zakon o izvršavanju rada za opće dobro na slobodi i uvjetne osude sa zaštitnim nadzorom u prekršajnom postupku",
   "nn": "75/2009",
@@ -1622,6 +1921,19 @@
   "published": "2016-12-21",
   "in_force": "2017-01-01",
   "files": 453,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-javnom-okupljanju",
+  "title": "Zakon o javnom okupljanju",
+  "nn": "128/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2020",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-11-12",
+  "published": "1999-11-30",
+  "in_force": "1999-12-08",
+  "files": 40,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -1924,6 +2236,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-lijekovima-i-medicinskim-proizvodima",
+  "title": "Zakon o lijekovima i medicinskim proizvodima",
+  "nn": "121/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1712",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-07-17",
+  "published": "2003-07-29",
+  "in_force": "2003-08-06",
+  "files": 94,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-listi-profesionalnih-bolesti",
   "title": "Zakon o Listi profesionalnih bolesti",
   "nn": "48/2026",
@@ -2051,6 +2376,19 @@
   "published": "2026-03-18",
   "in_force": "2026-03-26",
   "files": 43,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-medijima",
+  "title": "Zakon o medijima",
+  "nn": "59/2004",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/59/1324",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2004-04-30",
+  "published": "2004-05-10",
+  "in_force": "2004-05-18",
+  "files": 35,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2314,6 +2652,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-nacionalnoj-zakladi-za-znanost-visoko-skolstvo-i-tehnologijski-razvoj-republike",
+  "title": "Zakon o Nacionalnoj zakladi za znanost, visoko školstvo i tehnologijski razvoj Republike Hrvatske",
+  "nn": "117/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1956",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-12-14",
+  "published": "2001-12-24",
+  "in_force": "2002-01-01",
+  "files": 23,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-nacionalnom-preventivnom-mehanizmu-za-sprecavanje-mucenja-i-drugih-okrutnih",
   "title": "Zakon o Nacionalnom preventivnom mehanizmu za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja",
   "nn": "18/2011",
@@ -2415,6 +2766,19 @@
   "published": "2025-12-24",
   "in_force": "2026-01-01",
   "files": 68,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-naplati-dospjelih-a-nenaplacenih-poreza-carina-doprinosa-i-drzavnih-jamstava",
+  "title": "Zakon o naplati dospjelih a nenaplaćenih poreza, carina, doprinosa i državnih jamstava",
+  "nn": "117/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1955",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-12-14",
+  "published": "2001-12-24",
+  "in_force": "2001-12-24",
+  "files": 17,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2535,6 +2899,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-novcanim-poticajima-i-naknadama-u-poljoprivredi-i-ribarstvu",
+  "title": "Zakon o novčanim poticajima i naknadama u poljoprivredi i ribarstvu",
+  "nn": "29/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/29/582",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-03-12",
+  "published": "1999-03-26",
+  "in_force": "1999-04-03",
+  "files": 59,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-o-izmjenama-i-dopunama-zakona-o-umirovljenickom-fondu",
   "title": "Zakon o o izmjenama i dopunama Zakona o Umirovljeničkom fondu",
   "nn": "41/2007",
@@ -2623,6 +3000,19 @@
   "published": "2018-03-28",
   "in_force": "2018-04-05",
   "files": 54,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-obnovi-i-razvoju-grada-vukovara",
+  "title": "Zakon o obnovi i razvoju Grada Vukovara",
+  "nn": "44/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/728",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-05-03",
+  "published": "2001-05-16",
+  "in_force": "2001-05-24",
+  "files": 33,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2727,6 +3117,19 @@
   "published": "2014-02-12",
   "in_force": "2014-02-20",
   "files": 246,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-obveznim-osiguranjima-u-prometu",
+  "title": "Zakon o obveznim osiguranjima u prometu",
+  "nn": "151/2005",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2921",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2005-12-09",
+  "published": "2005-12-23",
+  "in_force": "2006-01-01",
+  "files": 73,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -2964,6 +3367,32 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-osnivanju-sveucilista-u-dubrovniku",
+  "title": "Zakon o osnivanju Sveučilišta u Dubrovniku",
+  "nn": "163/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/163/2345",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-10-01",
+  "published": "2003-10-16",
+  "in_force": "2003-10-24",
+  "files": 16,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-osnivanju-sveucilista-u-puli",
+  "title": "Zakon o osnivanju Sveučilišta u Puli",
+  "nn": "111/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2450",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-09-29",
+  "published": "2006-10-11",
+  "in_force": "2006-10-19",
+  "files": 17,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-osnivanju-sveucilista-u-slavonskom-brodu",
   "title": "Zakon o osnivanju Sveučilišta u Slavonskom Brodu",
   "nn": "110/2015",
@@ -3133,6 +3562,45 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-oznakama-zemljopisnog-podrijetla-proizvoda-i-usluga",
+  "title": "Zakon o oznakama zemljopisnog podrijetla proizvoda i usluga",
+  "nn": "78/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1396",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-23",
+  "in_force": "1999-07-31",
+  "files": 36,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-parku-prirode-kopacki-rit",
+  "title": "Zakon o Parku prirode \"Kopački rit",
+  "nn": "45/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/45/872",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-04-23",
+  "published": "1999-05-11",
+  "in_force": "1999-05-19",
+  "files": 4,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-patentima",
+  "title": "Zakon o patentima",
+  "nn": "78/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1393",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-23",
+  "in_force": "1999-07-31",
+  "files": 97,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-patentu",
   "title": "Zakon o patentu",
   "nn": "16/2020",
@@ -3143,6 +3611,19 @@
   "published": "2020-02-12",
   "in_force": "2020-02-20",
   "files": 163,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placama-sudaca-i-drugih-pravosudnih-duznosnika",
+  "title": "Zakon o plaćama sudaca i drugih pravosudnih dužnosnika",
+  "nn": "10/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/245",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-01-29",
+  "published": "1999-02-01",
+  "in_force": "1999-02-01",
+  "files": 14,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3169,6 +3650,19 @@
   "published": "2010-03-03",
   "in_force": "2010-03-11",
   "files": 28,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-placanju-doprinosa-za-mirovinsko-osiguranje-od-1-lipnja-do-31-prosinca-2000-godine",
+  "title": "Zakon o plaćanju doprinosa za mirovinsko osiguranje od 1. lipnja do 31. prosinca 2000. godine",
+  "nn": "54/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1193",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "2000-05-25",
+  "published": "2000-05-31",
+  "in_force": "2000-05-31",
+  "files": 9,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3211,6 +3705,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-podjeli-trgovackog-drustva-hz-hrvatske-zeljeznice-d-o-o",
+  "title": "Zakon o podjeli trgovačkog društva HŽ - Hrvatske željeznice d.o.o.",
+  "nn": "153/2005",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2963",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2005-12-15",
+  "published": "2005-12-28",
+  "in_force": "2005-12-28",
+  "files": 11,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-podrucjima-i-sjedistima-drzavnih-odvjetnistava",
   "title": "Zakon o područjima i sjedištima državnih odvjetništava",
   "nn": "67/2018",
@@ -3247,6 +3754,19 @@
   "published": "2008-07-23",
   "in_force": "2008-07-31",
   "files": 36,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-podrucjima-zupanija-gradova-i-opcina-u-republici-hrvatskoj",
+  "title": "Zakon o područjima županija, gradova i općina u Republici Hrvatskoj",
+  "nn": "86/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2045",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-07-13",
+  "published": "2006-07-28",
+  "in_force": "2006-07-28",
+  "files": 40,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3354,6 +3874,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-popisu-stanovnistva-kucanstava-i-stanova-2001",
+  "title": "Zakon o popisu stanovništva, kućanstava i stanova 2001.",
+  "nn": "64/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1405",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "2000-06-27",
+  "published": "2000-07-05",
+  "in_force": "2000-07-13",
+  "files": 45,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-popisu-stanovnistva-kucanstava-i-stanova-u-republici-hrvatskoj-2011-godine",
   "title": "Zakon o popisu stanovništva, kućanstava i stanova u Republici Hrvatskoj 2011. godine",
   "nn": "92/2010",
@@ -3393,6 +3926,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-poreznom-savjetnistvu",
+  "title": "Zakon o poreznom savjetništvu",
+  "nn": "127/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2354",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA SABORA",
+  "enacted": "2000-12-07",
+  "published": "2000-12-20",
+  "in_force": "2000-12-28",
+  "files": 33,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-porezu-na-dodanu-vrijednost",
   "title": "Zakon o porezu na dodanu vrijednost",
   "nn": "73/2013",
@@ -3419,6 +3965,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-porezu-na-premije-osiguranja-od-automobilske-odgovornosti",
+  "title": "Zakon o porezu na premije osiguranja od automobilske odgovornosti",
+  "nn": "107/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1759",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-11-28",
+  "published": "2001-12-05",
+  "in_force": "2001-12-13",
+  "files": 15,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-porezu-na-promet-nekretnina",
   "title": "Zakon o porezu na promet nekretnina",
   "nn": "115/2016",
@@ -3429,6 +3988,32 @@
   "published": "2016-12-09",
   "in_force": "2017-01-01",
   "files": 40,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnim-pravima-iz-mirovinskog-osiguranja-i-prava-po-osnovi-nezaposlenosti",
+  "title": "Zakon o posebnim pravima iz mirovinskog osiguranja i prava po osnovi nezaposlenosti zaposlenika u Istarskim ugljenokopima \"Tupljak\" d. d. Labi",
+  "nn": "19/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/19/399",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-02-05",
+  "published": "1999-02-25",
+  "in_force": "1999-02-25",
+  "files": 8,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posebnim-uvjetima-za-stavljanje-brasna-na-trziste",
+  "title": "Zakon o posebnim uvjetima za stavljanje brašna na tržište",
+  "nn": "48/2004",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/48/1101",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2004-04-02",
+  "published": "2004-04-14",
+  "in_force": "2004-07-01",
+  "files": 15,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3520,6 +4105,19 @@
   "published": "2015-07-17",
   "in_force": "2015-07-25",
   "files": 112,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-posredovanju-i-zastupanju-u-osiguranju",
+  "title": "Zakon o posredovanju i zastupanju u osiguranju",
+  "nn": "27/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/545",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-03-05",
+  "published": "1999-03-19",
+  "in_force": "1999-03-27",
+  "files": 39,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3676,6 +4274,32 @@
   "published": "2023-11-07",
   "in_force": "2023-11-15",
   "files": 29,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-pravima-i-duznostima-zastupnika-u-hrvatskom-drzavnom-saboru",
+  "title": "Zakon o pravima i dužnostima zastupnika u Hrvatskom državnom saboru",
+  "nn": "55/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/55/1211",
+  "kind": "uredba sa zakonskom snagom",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "2000-05-24",
+  "published": "2000-06-01",
+  "in_force": "2000-06-09",
+  "files": 25,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-pravima-iz-mirovinskog-osiguranja-djelatnih-vojnih-osoba-i-ovlastenih-sluzbenih",
+  "title": "Zakon o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba",
+  "nn": "128/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2011",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-10-22",
+  "published": "1999-11-30",
+  "in_force": "1999-12-08",
+  "files": 20,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -3978,6 +4602,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-prikupljanju-podataka-po-osiguranicima-o-obveznim-doprinosima-porezu-na-dohodak-i",
+  "title": "Zakon o prikupljanju podataka po osiguranicima o obveznim doprinosima, porezu na dohodak i prirezu porezu na dohodak",
+  "nn": "114/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1877",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-12-07",
+  "published": "2001-12-20",
+  "in_force": "2001-12-28",
+  "files": 24,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-primjeni-ljudskih-tkiva-i-stanica",
   "title": "Zakon o primjeni ljudskih tkiva i stanica",
   "nn": "144/2012",
@@ -4030,6 +4667,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-privatizaciji-hrvatskih-telekomunikacija-d-d",
+  "title": "Zakon o privatizaciji Hrvatskih telekomunikacija d.d.",
+  "nn": "65/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/65/1195",
+  "kind": "zakon",
+  "issuer": "-",
+  "enacted": "1999-06-11",
+  "published": "1999-06-25",
+  "in_force": "1999-07-03",
+  "files": 12,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-privatnim-detektivima",
   "title": "Zakon o privatnim detektivima",
   "nn": "24/2009",
@@ -4066,6 +4716,19 @@
   "published": "2024-12-13",
   "in_force": "2025-01-01",
   "files": 44,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-priznanju-hrvatskoga-sabora-zlatni-grb",
+  "title": "Zakon o priznanju Hrvatskoga sabora \"Zlatni grb\"",
+  "nn": "66/2002",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/66/1125",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2002-05-28",
+  "published": "2002-06-07",
+  "in_force": "2002-06-07",
+  "files": 14,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4121,6 +4784,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-proglasenju-nacionalnog-parka-sjeverni-velebit",
+  "title": "Zakon o proglašenju Nacionalnog parka \"Sjeverni Velebit",
+  "nn": "58/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/58/1067",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-05-28",
+  "published": "1999-06-09",
+  "in_force": "1999-06-17",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-proglasenju-parka-prirode-dinara",
   "title": "Zakon o proglašenju Parka prirode »Dinara«",
   "nn": "14/2021",
@@ -4131,6 +4807,58 @@
   "published": "2021-02-12",
   "in_force": "2021-02-20",
   "files": 13,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-proglasenju-parka-prirode-lastovsko-otocje",
+  "title": "Zakon o proglašenju Parka prirode \"Lastovsko otočje\"",
+  "nn": "111/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2451",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-09-29",
+  "published": "2006-10-11",
+  "in_force": "2006-10-19",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-proglasenju-parka-prirode-papuk",
+  "title": "Zakon o proglašenju Parka prirode \"Papuk",
+  "nn": "45/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/45/871",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-04-23",
+  "published": "1999-05-11",
+  "in_force": "1999-05-19",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-proglasenju-parka-prirode-ucka",
+  "title": "Zakon o proglašenju Parka prirode \"Učka",
+  "nn": "45/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/45/870",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-04-23",
+  "published": "1999-05-11",
+  "in_force": "1999-05-19",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-proglasenju-parka-prirode-vransko-jezer",
+  "title": "Zakon o proglašenju Parka prirode \"Vransko jezer",
+  "nn": "77/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1366",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-21",
+  "in_force": "1999-07-29",
+  "files": 5,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -4157,6 +4885,32 @@
   "published": "2020-03-06",
   "in_force": "2020-03-14",
   "files": 31,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-proglasenju-zumberka-i-samoborskog-gorja-parkom-prirode",
+  "title": "Zakon o proglašenju Žumberka i Samoborskog gorja parkom prirode",
+  "nn": "58/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/58/1068",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-05-28",
+  "published": "1999-06-09",
+  "in_force": "1999-06-17",
+  "files": 5,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-proizvodnji-distribuciji-i-opskrbi-toplinskom-energijom",
+  "title": "Zakon o proizvodnji, distribuciji i opskrbi toplinskom energijom",
+  "nn": "42/2005",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/812",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": null,
+  "published": "2005-04-01",
+  "in_force": "2005-04-09",
+  "files": 42,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5200,6 +5954,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-putnim-ispravama-hrvatskih-drzavljana",
+  "title": "Zakon o putnim ispravama hrvatskih državljana",
+  "nn": "77/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1365",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-21",
+  "in_force": "1999-07-29",
+  "files": 62,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-racunovodstvu",
   "title": "Zakon o računovodstvu",
   "nn": "85/2024",
@@ -5408,6 +6175,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-reviziji-pretvorbe-i-privatizacije",
+  "title": "Zakon o reviziji pretvorbe i privatizacije",
+  "nn": "44/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/727",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-05-03",
+  "published": "2001-05-16",
+  "in_force": "2001-05-24",
+  "files": 19,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-rodiljnim-i-roditeljskim-potporama",
   "title": "Zakon o rodiljnim i roditeljskim potporama",
   "nn": "152/2022",
@@ -5473,6 +6253,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sanitarnoj-inspekciji",
+  "title": "Zakon o sanitarnoj inspekciji",
+  "nn": "27/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/547",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-03-05",
+  "published": "1999-03-19",
+  "in_force": "1999-03-27",
+  "files": 43,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-savjetima-mladih",
   "title": "Zakon o savjetima mladih",
   "nn": "41/2014",
@@ -5483,6 +6276,19 @@
   "published": "2014-03-31",
   "in_force": "2014-04-08",
   "files": 31,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sestrinstvu",
+  "title": "Zakon o sestrinstvu",
+  "nn": "121/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1710",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-07-17",
+  "published": "2003-07-29",
+  "in_force": "2003-08-06",
+  "files": 16,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -5733,6 +6539,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sprjecavanju-nereda-na-sportskim-natjecanjima",
+  "title": "Zakon o sprječavanju nereda na športskim natjecanjima",
+  "nn": "117/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/117/1634",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-07-15",
+  "published": "2003-07-23",
+  "in_force": "2003-07-23",
+  "files": 33,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sprjecavanju-pranja-novca-i-financiranja-terorizma",
   "title": "Zakon o sprječavanju pranja novca i financiranja terorizma",
   "nn": "108/2017",
@@ -5863,6 +6682,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-stedno-kreditnim-zadrugama",
+  "title": "Zakon o štedno-kreditnim zadrugama",
+  "nn": "84/2002",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/84/1389",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2002-07-03",
+  "published": "2002-07-17",
+  "in_force": "2002-07-25",
+  "files": 25,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-strancima",
   "title": "Zakon o strancima",
   "nn": "133/2020",
@@ -5899,6 +6731,19 @@
   "published": "2022-12-06",
   "in_force": "2022-12-14",
   "files": 28,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-strucnim-nazivima-i-akademskim-stupnjevima",
+  "title": "Zakon o stručnim nazivima i akademskim stupnjevima",
+  "nn": "128/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2019",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-11-12",
+  "published": "1999-11-30",
+  "in_force": "1999-12-08",
+  "files": 18,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6110,6 +6955,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-sustavu-obrane-od-tuce",
+  "title": "Zakon o sustavu obrane od tuče",
+  "nn": "53/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/53/843",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-05-31",
+  "published": "2001-06-13",
+  "in_force": "2001-06-21",
+  "files": 20,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-sustavu-osiguranja-depozita",
   "title": "Zakon o sustavu osiguranja depozita",
   "nn": "146/2020",
@@ -6120,6 +6978,19 @@
   "published": "2020-12-28",
   "in_force": "2021-01-01",
   "files": 51,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-sustavu-provedbe-programa-europske-unije-i-sustavu-provedbe-projekata",
+  "title": "Zakon o sustavu provedbe programa Europske unije i sustavu provedbe projekata financiranih iz sredstava zajmova i darovnica iz ostalih inozemnih izvora",
+  "nn": "58/2006",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/58/1376",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2006-05-18",
+  "published": "2006-05-26",
+  "in_force": "2006-06-03",
+  "files": 26,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6159,6 +7030,19 @@
   "published": "2022-12-22",
   "in_force": "2023-01-01",
   "files": 25,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-suzbijanju-zlouporabe-opojnih-droga",
+  "title": "Zakon o suzbijanju zlouporabe opojnih droga",
+  "nn": "107/2001",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1756",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2001-11-23",
+  "published": "2001-12-05",
+  "in_force": "2001-12-13",
+  "files": 69,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6315,6 +7199,19 @@
   "published": "2013-06-28",
   "in_force": "2013-07-06",
   "files": 59,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-trzistu-vrijednosnih-papira",
+  "title": "Zakon o tržištu vrijednosnih papira",
+  "nn": "84/2002",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/84/1390",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2002-07-03",
+  "published": "2002-07-17",
+  "in_force": "2002-07-25",
+  "files": 156,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6523,6 +7420,19 @@
   "published": "2016-12-09",
   "in_force": "2017-01-01",
   "files": 34,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-upravnim-pristojbama-u-podrucju-intelektualnog-vlasnistva",
+  "title": "Zakon o upravnim pristojbama u području intelektualnog vlasništva",
+  "nn": "64/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1406",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "2000-06-27",
+  "published": "2000-07-05",
+  "in_force": "2000-07-13",
+  "files": 18,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -6744,6 +7654,19 @@
   "published": "2020-07-22",
   "in_force": "2020-07-23",
   "files": 44,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-uvjetima-odobravanja-kredita-i-zajmova-odredjenih-pravnih-osoba",
+  "title": "Zakon o uvjetima odobravanja kredita i zajmova određenih pravnih osoba",
+  "nn": "97/2000",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1912",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM",
+  "enacted": "2000-09-28",
+  "published": "2000-09-30",
+  "in_force": "2000-09-30",
+  "files": 6,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -7176,6 +8099,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zastiti-od-ionizirajucih-zracenja",
+  "title": "Zakon o zaštiti od ionizirajućih zračenja",
+  "nn": "27/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/27/546",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-03-05",
+  "published": "1999-03-19",
+  "in_force": "1999-03-27",
+  "files": 55,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zastiti-od-nasilja-u-obitelji",
   "title": "Zakon o zaštiti od nasilja u obitelji",
   "nn": "70/2017",
@@ -7280,6 +8216,19 @@
   "version": "prvi objavljeni tekst"
  },
  {
+  "slug": "zakon-o-zastiti-planova-rasporeda-integriranih-sklopova",
+  "title": "Zakon o zaštiti planova rasporeda integriranih sklopova",
+  "nn": "78/1999",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/78/1397",
+  "kind": "zakon",
+  "issuer": "ZASTUPNIČKI DOM HRVATSKOGA DRŽAVNOG SABORA",
+  "enacted": "1999-06-30",
+  "published": "1999-07-23",
+  "in_force": "1999-07-23",
+  "files": 26,
+  "version": "prvi objavljeni tekst"
+ },
+ {
   "slug": "zakon-o-zastiti-potrosaca",
   "title": "Zakon o zaštiti potrošača",
   "nn": "19/2022",
@@ -7290,6 +8239,19 @@
   "published": "2022-02-11",
   "in_force": "2022-05-28",
   "files": 161,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastiti-prava-pacijenata",
+  "title": "Zakon o zaštiti prava pacijenata",
+  "nn": "169/2004",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/169/2953",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2004-11-19",
+  "published": "2004-12-03",
+  "in_force": "2004-12-11",
+  "files": 16,
   "version": "prvi objavljeni tekst"
  },
  {
@@ -7329,6 +8291,19 @@
   "published": "2007-07-30",
   "in_force": "2007-08-07",
   "files": 85,
+  "version": "prvi objavljeni tekst"
+ },
+ {
+  "slug": "zakon-o-zastiti-topografija-poluvodickih-proizvoda",
+  "title": "Zakon o zaštiti topografija poluvodičkih proizvoda",
+  "nn": "173/2003",
+  "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/173/2497",
+  "kind": "zakon",
+  "issuer": "Hrvatski sabor",
+  "enacted": "2003-10-15",
+  "published": "2003-10-31",
+  "in_force": "2003-11-08",
+  "files": 17,
   "version": "prvi objavljeni tekst"
  },
  {
