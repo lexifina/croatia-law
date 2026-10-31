@@ -1,0 +1,1 @@
+Na temelju članka 7. stavka 6. Zakona o carinskoj službi (»Narodne novine«, br. 68/13., 30/14., 115/16., 39/19., 98/19., 155/23. i 36/24.), Vlada Republike Hrvatske je na sjednici održanoj 21. listopada 2026. donijela
