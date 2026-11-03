@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4565 acts, 4,565 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4569 acts, 4,569 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -83,7 +83,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2371, of which 318 amending acts)
+## odluka (2374, of which 318 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -128,6 +128,7 @@
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Uniji Mjanmaru, sa sjedištem u Kuala Lumpuru | [`odluka/2016/1724/`](odluka/2016/1724/) | in force | 1 | 2016-07-21 | 2016-07-21 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2016. | [`odluka/2016/1807/`](odluka/2016/1807/) | in force | 1 | 2016-09-10 | 2016-09-10 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2016. | [`odluka/2016/1808/`](odluka/2016/1808/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2016. godini | [`odluka/2016/1844/`](odluka/2016/1844/) | in force | 1 | 2016-09-24 | 2016-09-24 |
 | Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke | [`odluka/2016/2152/`](odluka/2016/2152/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/28-11-2016 od 10. studenoga 2016. | [`odluka/2016/2439/`](odluka/2016/2439/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/29-11-2016 od 10. studenoga 2016. | [`odluka/2016/2440/`](odluka/2016/2440/) | in force | 1 | 2016-11-10 | 2016-11-10 |
@@ -137,6 +138,7 @@
 | Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2016. godinu | [`odluka/2017/30/`](odluka/2017/30/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Laoskoj Narodnoj Demokratskoj Republici, sa sjedištem u Kuala Lumpuru | [`odluka/2017/408/`](odluka/2017/408/) | in force | 1 | 2017-02-16 | 2017-02-16 |
 | Odluka o davanju suglasnosti na Statut Centra za profesionalnu rehabilitaciju Osijek | [`odluka/2017/983/`](odluka/2017/983/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+| Odluka o izmjenama Odluke o donošenju popisa robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava | [`odluka/2017/1678/`](odluka/2017/1678/) | in force | 1 | 2017-07-27 | 2017-07-27 |
 | Odluka o izmjenama i dopunama Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske | [`odluka/2017/1687/`](odluka/2017/1687/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
 | Odluka o prestanku važenja Odluke o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj | [`odluka/2017/1732/`](odluka/2017/1732/) | in force | 1 | 2017-07-12 | 2017-07-12 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Washingtonu | [`odluka/2017/1787/`](odluka/2017/1787/) | in force | 1 | 2017-09-01 | 2017-09-01 |
@@ -150,6 +152,7 @@
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indiji, sa sjedištem u New Delhiju | [`odluka/2017/1918/`](odluka/2017/1918/) | in force | 1 | 2017-07-26 | 2017-07-26 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatskeu Slovačkoj Republici, sa sjedištem u Bratislavi | [`odluka/2017/1919/`](odluka/2017/1919/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2017. | [`odluka/2017/2081/`](odluka/2017/2081/) | in force | 1 | 2017-09-08 | 2017-09-08 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju dječjeg vrtića u naselju Pirovac | [`odluka/2017/2462/`](odluka/2017/2462/) | in force | 1 | 2017-11-11 | 2017-11-11 |
 | Odluka o izmjenama Odluke o naknadama i nagradi za rad predsjednika i članova Državnoodvjetničkog vijeća | [`odluka/2017/2465/`](odluka/2017/2465/) | in force | 1 | 2017-11-11 | 2017-11-11 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici i Republici San Marinu | [`odluka/2017/2720/`](odluka/2017/2720/) | in force | 1 | 2017-11-22 | 2017-11-22 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Nigeriji, sa sjedištem u Londonu | [`odluka/2017/2898/`](odluka/2017/2898/) | in force | 1 | 2017-12-01 | 2017-12-01 |
@@ -3963,11 +3966,12 @@
 | Pravilnik o izmjenama i dopuni Pravilnika o registru identifikacijskih kodova i infrastrukture za alternativna goriva | [`pravilnik/2026/1459/`](pravilnik/2026/1459/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
 | Pravilnik o provedbi Programa potpore za očuvanje proizvodnje mlijeka na području zona ograničenja zbog izbijanja kuge malih preživača | [`pravilnik/2026/1460/`](pravilnik/2026/1460/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 
-## statut (50, of which 19 amending acts)
+## statut (51, of which 19 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje | [`statut/2017/2311/`](statut/2017/2311/) | amending act | 1 | 2017-10-12 | 2017-10-12 |
+| Izmjena Statuta Hrvatske komore dentalne medicine | [`statut/2017/2482/`](statut/2017/2482/) | in force | 1 | 2017-11-11 | 2017-11-11 |
 | Izmjene i dopune Statuta Hrvatske komore inženjera strojarstva | [`statut/2020/423/`](statut/2020/423/) | amending act | 1 | 2020-02-22 | 2020-02-22 |
 | Izmjene i dopune Statuta Hrvatske javnobilježničke komore | [`statut/2020/527/`](statut/2020/527/) | amending act | 1 | 2020-03-05 | 2020-03-05 |
 | Statut Turističke zajednice Dubrovačko-neretvanske županije | [`statut/2020/821/`](statut/2020/821/) | in force | 1 | 2020-04-07 | 2020-04-07 |

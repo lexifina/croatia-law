@@ -1056,6 +1056,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1808"
 },
 {
+"slug": "odluka-2016-1844",
+"path": "odluka/2016/1844",
+"kind": "odluka",
+"year": "2016",
+"number": "1844",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2016. godini",
+"short": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2016. godini",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-09-24",
+"latest": "2016-09-24",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/83/1844"
+},
+{
 "slug": "pravilnik-2016-1947",
 "path": "pravilnik/2016/1947",
 "kind": "pravilnik",
@@ -1292,6 +1309,23 @@
 "from": "2017-07-08",
 "latest": "2017-07-08",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/65/1531"
+},
+{
+"slug": "odluka-2017-1678",
+"path": "odluka/2017/1678",
+"kind": "odluka",
+"year": "2017",
+"number": "1678",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izmjenama Odluke o donošenju popisa robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+"short": "Odluka o izmjenama Odluke o donošenju popisa robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-07-27",
+"latest": "2017-07-27",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1678"
 },
 {
 "slug": "odluka-2017-1687",
@@ -1532,6 +1566,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2311"
 },
 {
+"slug": "odluka-2017-2462",
+"path": "odluka/2017/2462",
+"kind": "odluka",
+"year": "2017",
+"number": "2462",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju dječjeg vrtića u naselju Pirovac",
+"short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju dječjeg vrtića u naselju Pirovac",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-11-11",
+"latest": "2017-11-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/107/2462"
+},
+{
 "slug": "odluka-2017-2465",
 "path": "odluka/2017/2465",
 "kind": "odluka",
@@ -1547,6 +1598,23 @@
 "from": "2017-11-11",
 "latest": "2017-11-11",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/107/2465"
+},
+{
+"slug": "statut-2017-2482",
+"path": "statut/2017/2482",
+"kind": "statut",
+"year": "2017",
+"number": "2482",
+"withdrawn_by": null,
+"reason": null,
+"title": "Izmjena Statuta Hrvatske komore dentalne medicine",
+"short": "Izmjena Statuta Hrvatske komore dentalne medicine",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-11-11",
+"latest": "2017-11-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/107/2482"
 },
 {
 "slug": "odluka-2017-2720",
