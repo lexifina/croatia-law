@@ -2357,6 +2357,27 @@
    ]
   },
   {
+   "slug": "naredba-2020-2477",
+   "path": "naredba/2020/2477",
+   "short": "Naredba o mjerama za sprječavanje pojave i širenja influence ptica na zaraženim i ugroženim područjima Republike Hrvatske",
+   "title": "Naredba o mjerama za sprječavanje pojave i širenja influence ptica na zaraženim i ugroženim područjima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/130/2477",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_11_130_2477.html",
+     "sha256": "ba62bf84b205c47437c3c9e1167d3741603bf777717ee94ed25fa55888d98e0f"
+    },
+    {
+     "from": "2021-12-05",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_132_2208.html",
+     "sha256": "1b1735b2f8e1d59a6070044ac1e05a1e79eb2cd06b3c6cba1a3ffe8fbc4743a9"
+    }
+   ]
+  },
+  {
    "slug": "naredba-2020-2735",
    "path": "naredba/2020/2735",
    "short": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2021. godinu",
@@ -2537,6 +2558,27 @@
    ]
   },
   {
+   "slug": "odluka-2020-1089",
+   "path": "odluka/2020/1089",
+   "short": "Odluka o načinu korištenja dječjih igrališta i otvorenih sportskih igrališta te načinu bavljenja rekreativnim sportom na otvorenom za vrijeme trajanja proglašene epidemije bolesti COVID-19",
+   "title": "Odluka o načinu korištenja dječjih igrališta i otvorenih sportskih igrališta te načinu bavljenja rekreativnim sportom na otvorenom za vrijeme trajanja proglašene epidemije bolesti COVID-19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/54/1089",
+   "versions": [
+    {
+     "from": "2020-05-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_54_1089.html",
+     "sha256": "8daf9289168cfaeb12e7317b75f50a88d18d474cac900f631afb45e59f9216f9"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_35_422.html",
+     "sha256": "094e3edc74f0fbddf0a691924a7e6ba6d2387dddc80081ddede15bce51af23c0"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-1090",
    "path": "odluka/2020/1090",
    "short": "Odluka o izmjenama i dopunama Odluke o načinu održavanja pogreba i posljednjih ispraćaja",
@@ -2548,6 +2590,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_54_1090.html",
      "sha256": "9e9ab61bde8eb45ea05dbe7a6d52f9f2caf904be01b0516db62dfffd231eea33"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-1094",
+   "path": "odluka/2020/1094",
+   "short": "Odluka o načinu izvođenja nastave u osnovnim i srednjim školama kao i na visokim učilištima te obavljanju redovnog rada ustanova predškolskog odgoja i obrazovanja",
+   "title": "Odluka o načinu izvođenja nastave u osnovnim i srednjim školama kao i na visokim učilištima te obavljanju redovnog rada ustanova predškolskog odgoja i obrazovanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/55/1094",
+   "versions": [
+    {
+     "from": "2020-05-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_55_1094.html",
+     "sha256": "f616e0763025c631e2e47b67a0d1c9dc4da8fb7df99ac1740946fe8cf9d4f112"
+    },
+    {
+     "from": "2020-09-05",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_99_1876.html",
+     "sha256": "5d8d6162884d33d4c3dc4c6ce12f90f760736e18ecaa1ac8d96741b595557689"
     }
    ]
   },
@@ -2608,6 +2671,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_55_1104.html",
      "sha256": "004f1e1283793660e143f4e45dad4d90dd513681a25777dc7671f2b94a600b06"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-1112",
+   "path": "odluka/2020/1112",
+   "short": "Odluka o mjerama za vozače teretnih vozila međunarodnog transporta za vrijeme proglašene epidemije bolesti COVID-19",
+   "title": "Odluka o mjerama za vozače teretnih vozila međunarodnog transporta za vrijeme proglašene epidemije bolesti COVID-19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/55/1112",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_55_1112.html",
+     "sha256": "c332b085dc1c7ec185ca082a4d3a50fdec15985cea871c7c1d9f3613005dfb41"
+    },
+    {
+     "from": "2022-03-18",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_35_420.html",
+     "sha256": "ea7d870c3d9ccc9508a3ffc13e57796ec9466453069253a8a43dfdf6e07e527c"
     }
    ]
   },
@@ -2982,7 +3066,7 @@
      "from": "2020-05-27",
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_63_1264.html",
-     "sha256": "65b803e2714692997a0a3aafc174c18205378d1ea7ed3d2ec8f36b9d4d8bcef6"
+     "sha256": "422b657152d085ceb1212e496b5540db274f230ef46d366d6988263c7ed72767"
     }
    ]
   },
@@ -3437,6 +3521,27 @@
    ]
   },
   {
+   "slug": "odluka-2020-1438",
+   "path": "odluka/2020/1438",
+   "short": "Odluka o kontroli pridržavanja Preporuke za sprječavanje zaraze bolešću COVID-19 u ugostiteljskoj djelatnosti noćnih klubova",
+   "title": "Odluka o kontroli pridržavanja Preporuke za sprječavanje zaraze bolešću COVID-19 u ugostiteljskoj djelatnosti noćnih klubova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/74/1438",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_06_74_1438.html",
+     "sha256": "b8d61490190bac735733524d5e22d41645194d5de128e82c916aff574eacc37f"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_547.html",
+     "sha256": "80cf3bcd49c2ccd1a02c598355b035242b5a0d3299440a8faf39254e8be416c5"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-1468",
    "path": "odluka/2020/1468",
    "short": "Odluka o otpisu potraživanja po računima za stanove i poslovne prostore u vlasništvu Republike Hrvatske zbog epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 i potresa koji je pogodio područje Grada Zagreba, Zagrebačke županije i Krapinsko-zagorske županije",
@@ -3507,7 +3612,7 @@
      "from": "2020-07-16",
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_07_78_1485.html",
-     "sha256": "2564bd029006f4af1910ca8bc488eb2faf0f977ddf65630d5db771d93b93a80f"
+     "sha256": "a80cb4fa96f0d4c9703dd1e567d7c2a271ec31049971100e6d7b2bbc71a7cce4"
     }
    ]
   },
@@ -3782,6 +3887,27 @@
    ]
   },
   {
+   "slug": "odluka-2020-1783",
+   "path": "odluka/2020/1783",
+   "short": "Odluka o iznosu tarifnih stavki za distribuciju plina za energetski subjekt HEP-PLIN d.o.o., Cara Hadrijana 7, Osijek",
+   "title": "Odluka o iznosu tarifnih stavki za distribuciju plina za energetski subjekt HEP-PLIN d.o.o., Cara Hadrijana 7, Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/94/1783",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_94_1783.html",
+     "sha256": "8f9f9bdcd25cdb9c8d83291d41a4a638512197b25d08a6ea503ceedbae5697ae"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_141_2408.html",
+     "sha256": "784a0966f66113de5b5c98262b832d570e0d9d4f014b34adceb552fe45f07c95"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-1784",
    "path": "odluka/2020/1784",
    "short": "Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. rujna do 31. prosinca 2020. te za razdoblje od 1. siječnja do 31. ožujka 2021. za energetski subjekt HEP-PLIN d.o.o., Cara Hadrijana 7, Osijek",
@@ -3823,6 +3949,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_95_1802.html",
      "sha256": "44f0ac712c82cbad3d5ab38b4e2afc4e25ffa6c0e85690c338b8e8fa4ae65d24"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-1803",
+   "path": "odluka/2020/1803",
+   "short": "Odluka o uvođenju nužne epidemiološke mjere ograničenja svadbenih svečanosti za područje Brodsko-posavske županije",
+   "title": "Odluka o uvođenju nužne epidemiološke mjere ograničenja svadbenih svečanosti za područje Brodsko-posavske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/95/1803",
+   "versions": [
+    {
+     "from": "2020-08-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_95_1803.html",
+     "sha256": "dd5f4838ffd344e44360e74093dd4cbe8ace226f62ac7dd6f6e7424467e2ab32"
+    },
+    {
+     "from": "2020-08-28",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_98_1845.html",
+     "sha256": "ccc7d971bb6641286203fbc62160673893ff7eebef9e1190dc09a66d46091879"
     }
    ]
   },
@@ -3887,6 +4034,27 @@
    ]
   },
   {
+   "slug": "odluka-2020-1876",
+   "path": "odluka/2020/1876",
+   "short": "Odluka o načinu izvođenja nastave u osnovnim i srednjim školama kao i na visokim učilištima te obavljanju rada u ustanovama predškolskog odgoja i obrazovanja u uvjetima epidemije COVID-19",
+   "title": "Odluka o načinu izvođenja nastave u osnovnim i srednjim školama kao i na visokim učilištima te obavljanju rada u ustanovama predškolskog odgoja i obrazovanja u uvjetima epidemije COVID-19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/99/1876",
+   "versions": [
+    {
+     "from": "2020-09-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_99_1876.html",
+     "sha256": "5d8d6162884d33d4c3dc4c6ce12f90f760736e18ecaa1ac8d96741b595557689"
+    },
+    {
+     "from": "2021-09-04",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_97_1755.html",
+     "sha256": "5ca98997270b178c1419cc56d9b5ca4f05b68e85c60845eff4e36b2a9f7d5d75"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-1877",
    "path": "odluka/2020/1877",
    "short": "Odluka o raspisivanju prijevremenih izbora za zamjenika župana Šibensko-kninske županije iz reda pripadnika srpske nacionalne manjine",
@@ -3898,6 +4066,48 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_99_1877.html",
      "sha256": "ea24e776aad43e40ad27e8e61d8a05a6c1d3835677391c53a6e1433c482de1ba"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-1885",
+   "path": "odluka/2020/1885",
+   "short": "Odluka o nužnoj mjeri pojačane kontrole provođenja Upute za sprječavanje i suzbijanje epidemije COVID-19 za pružatelje socijalnih usluga u sustavu socijalne skrbi",
+   "title": "Odluka o nužnoj mjeri pojačane kontrole provođenja Upute za sprječavanje i suzbijanje epidemije COVID-19 za pružatelje socijalnih usluga u sustavu socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/99/1885",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_99_1885.html",
+     "sha256": "e9f28ea9283317ce89a22c54d774778e2b0572b3c15436feac1ff2bae74ca836"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_548.html",
+     "sha256": "4fb84311abc5e2c7badab23aaff186569d8c4e259b902c1f910205f60355d971"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-1895",
+   "path": "odluka/2020/1895",
+   "short": "Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Otočca",
+   "title": "Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Otočca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/100/1895",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_100_1895.html",
+     "sha256": "0e4cc3d659b71ff2fbf8b173bc4f9831caa2b2aa0a9afae3d17f3c5cc534b864"
+    },
+    {
+     "from": "2020-09-22",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_09_104_1952.html",
+     "sha256": "b29b836a5a798ffa3eb913ead6589151f6dc4033ea4da98aef3337d06f69ce51"
     }
    ]
   },
@@ -5462,6 +5672,27 @@
    ]
   },
   {
+   "slug": "odluka-2020-2715",
+   "path": "odluka/2020/2715",
+   "short": "Odluka o gradskim porezima Grada Kutine",
+   "title": "Odluka o gradskim porezima Grada Kutine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/140/2715",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_140_2715.html",
+     "sha256": "8c2f8d67ad088783ed01cd7eef50348a36374bfdc8483ff2281b7cc9534dc044"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_148_2101.html",
+     "sha256": "61c9078d697c9c97faf37c64a1d3face545670d3d5f714f474a44cbd82a1f4ac"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-2716",
    "path": "odluka/2020/2716",
    "short": "Odluka o izmjenama Odluke o lokalnim porezima i o prirezu porezu na dohodak Grada Zagreba",
@@ -5488,6 +5719,27 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_140_2717.html",
      "sha256": "1c4cc500e1571303ca993320cf127dea40b2e91af7bf7900ea6a98167ef6e703"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-2731",
+   "path": "odluka/2020/2731",
+   "short": "Odluka o osnivanju Vijeća za demografsku revitalizaciju Republike Hrvatske",
+   "title": "Odluka o osnivanju Vijeća za demografsku revitalizaciju Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/141/2731",
+   "versions": [
+    {
+     "from": "2020-12-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_141_2731.html",
+     "sha256": "a07989c4cf06643f3316fdc4f1038007b317881bf66301e19d670ed6413fddc5"
+    },
+    {
+     "from": "2024-11-30",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_11_137_2263.html",
+     "sha256": "11e8d27a793f780cfec35c73b699e83dc99a0cb6d0cce895ad8ce403c3af901b"
     }
    ]
   },
@@ -5533,6 +5785,27 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_141_2740.html",
      "sha256": "43b1695ec6d0584af8ba1b663cbe30985013192888881b84ff5356c95ed561b5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-2745",
+   "path": "odluka/2020/2745",
+   "short": "Odluka o zabrani napuštanja županije prema mjestu prebivališta ili boravišta u Republici Hrvatskoj",
+   "title": "Odluka o zabrani napuštanja županije prema mjestu prebivališta ili boravišta u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/141/2745",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_141_2745.html",
+     "sha256": "2fa55e36e47b00cbda33783408b4b8170a8da6245d67b12d0cd6cbfb9b6f2e13"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_147_2865.html",
+     "sha256": "86b0c4adc78ed66d1cc3405e51a7a2f6c2c4f6eecf726dc287d3bff10d1b9a38"
     }
    ]
   },
@@ -6162,7 +6435,7 @@
      "from": "2020-03-18",
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_26_626.html",
-     "sha256": "3826cc82d909f11e7106cc8205aa78126825f62b034ae2945371059b86d3719a"
+     "sha256": "13d65de6eb86b203075ee81a0cc3eb01bd7b87111c8a23934dd1fe84a5b3e142"
     }
    ]
   },
@@ -6282,7 +6555,7 @@
      "from": "2020-03-21",
      "units": 14,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_28_667.html",
-     "sha256": "8fbf18f169577fae2e1e0e7bb4eb8bbc0fe46e1f2dcec6610f151c6c52fe7057"
+     "sha256": "7bb86fcc151a2140e826a54f0e5109800ec067374e76628b589d71f056cf9bec"
     }
    ]
   },
@@ -6358,6 +6631,111 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_33_719.html",
      "sha256": "1465f144603e432221f689bb9178c3ef36013ed08d6e8599b57c736837dc0353"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-725",
+   "path": "odluka/2020/725",
+   "short": "Odluka o utvrđivanju ovlaštenih zdravstvenih ustanova u kojima se obavlja stručna procjena radi ostvarivanja statusa hrvatskog ratnog vojnog invalida po osnovi bolesti, pogoršanja bolesti odnosno pojave bolesti kao posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske, za 2020. godinu",
+   "title": "Odluka o utvrđivanju ovlaštenih zdravstvenih ustanova u kojima se obavlja stručna procjena radi ostvarivanja statusa hrvatskog ratnog vojnog invalida po osnovi bolesti, pogoršanja bolesti odnosno pojave bolesti kao posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske, za 2020. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/33/725",
+   "versions": [
+    {
+     "from": "2020-03-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_33_725.html",
+     "sha256": "2af9c5594407b0ecccfd19bf8ed83c492cc08bf99e9b2a1e96c95c9164f275ba"
+    },
+    {
+     "from": "2021-07-31",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_07_84_1556.html",
+     "sha256": "a69b7185bc759afceccdf0dde2bd5431bc83416132a242454b88ec43ac1611be"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-732",
+   "path": "odluka/2020/732",
+   "short": "Odluka o mjerama ograničavanja javnog prijevoza u linijskom obalnom pomorskom prometu",
+   "title": "Odluka o mjerama ograničavanja javnog prijevoza u linijskom obalnom pomorskom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/34/732",
+   "versions": [
+    {
+     "from": "2020-03-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_34_732.html",
+     "sha256": "d99dd6a7edab5544094beace6f401b99e83936b42d0fc40be61f2575995dc535"
+    },
+    {
+     "from": "2020-05-18",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_59_1192.html",
+     "sha256": "1e16c0256a075e3c5483813a088f7a58d1c01632f1fd38eba4ce6e1c06d793d0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-738",
+   "path": "odluka/2020/738",
+   "short": "Odluka o uvođenju nužne mjere posebne organizacije rada epidemiološke službe i posebnih epidemioloških mjera vezanih uz virus SARS CoV-2 za vrijeme proglašene epidemije bolesti COVID19",
+   "title": "Odluka o uvođenju nužne mjere posebne organizacije rada epidemiološke službe i posebnih epidemioloških mjera vezanih uz virus SARS CoV-2 za vrijeme proglašene epidemije bolesti COVID19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/35/738",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_35_738.html",
+     "sha256": "282092687b1a8cec5e94083c8b5783d059dfb5f4bcb8d8749ef87056dedfc2ee"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_544.html",
+     "sha256": "5295568787ac3a6430ea36f97b93879d5e79d7ca5427d6a09b3982663e6ce737"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-739",
+   "path": "odluka/2020/739",
+   "short": "Odluka o uvođenju nužne mjere posebne organizacije hitne medicinske službe i sanitetskog prijevoza za vrijeme proglašene epidemije bolesti COVID19",
+   "title": "Odluka o uvođenju nužne mjere posebne organizacije hitne medicinske službe i sanitetskog prijevoza za vrijeme proglašene epidemije bolesti COVID19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/35/739",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_35_739.html",
+     "sha256": "cff9a6c502862711dd69ad6c108f21cd7ea9d2bacf8d31973cb22a262df2a197"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_545.html",
+     "sha256": "1ea062b4bc7a7ef2806188deedd4a88d3c22a15327f35d7d26cdf476ff4bb4f2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-740",
+   "path": "odluka/2020/740",
+   "short": "Odluka o općim i specifičnim mjerama zaštite koje obavezno provode pružatelji usluge taxi prijevoza",
+   "title": "Odluka o općim i specifičnim mjerama zaštite koje obavezno provode pružatelji usluge taxi prijevoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/35/740",
+   "versions": [
+    {
+     "from": "2020-03-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_35_740.html",
+     "sha256": "0253903ebf37f1b96d6b00709dfb00fcaa4c19cd8096f5db2ad27a8b939a8298"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_541.html",
+     "sha256": "543e561414e476dc5dcb4ed748607293924e828a356ea93929e26edfeea0c6d2"
     }
    ]
   },
@@ -6497,6 +6875,27 @@
    ]
   },
   {
+   "slug": "odluka-2020-773",
+   "path": "odluka/2020/773",
+   "short": "Odluka o općinskim porezima Općine Dvor",
+   "title": "Odluka o općinskim porezima Općine Dvor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/36/773",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_36_773.html",
+     "sha256": "132046fd2c7e565f18889b6a8ed912b86e7bd4171b87f644219bebd3b5c9def0"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_157_2443.html",
+     "sha256": "c66d928fc8d387ac28fab14353b4423c8bc1905608e5924fac7075304ea52b3a"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2020-793",
    "path": "odluka/2020/793",
    "short": "Odluka o provedbi Provedbene uredbe Komisije (EU) 2020/402 od 14. ožujka 2020. o uvođenju obveze predočenja odobrenja u slučaju izvoza određenih proizvoda",
@@ -6523,6 +6922,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_37_794.html",
      "sha256": "80121721757d355edbc38f44ae75d32b725c8d2522ab6db857a1fddc6bd15031"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-809",
+   "path": "odluka/2020/809",
+   "short": "Odluka o uvođenju nužne mjere posebne organizacije ustanova socijalne skrbi i drugih pružatelja socijalnih usluga za vrijeme proglašene epidemije bolesti COVID-19",
+   "title": "Odluka o uvođenju nužne mjere posebne organizacije ustanova socijalne skrbi i drugih pružatelja socijalnih usluga za vrijeme proglašene epidemije bolesti COVID-19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/37/809",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_37_809.html",
+     "sha256": "e1785a4f1f972ef04edcb0b33a305c4f9ea084780a2bb46d73c6f305c0157ec1"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_546.html",
+     "sha256": "a173af28e662e34d5738a46ca57e2f7b4a6d88d0a910b12fd403951997a3decd"
     }
    ]
   },
@@ -6583,6 +7003,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_04_41_852.html",
      "sha256": "e593c417de2ac6d0cb16f16f8fb221c465cea4132da9733155d2027307bcbe40"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2020-855",
+   "path": "odluka/2020/855",
+   "short": "Odluka o ograničavanju korištenja sredstava predviđenih Državnim proračunom Republike Hrvatske i financijskim planovima izvanproračunskih korisnika Državnog proračuna za 2020. godinu",
+   "title": "Odluka o ograničavanju korištenja sredstava predviđenih Državnim proračunom Republike Hrvatske i financijskim planovima izvanproračunskih korisnika Državnog proračuna za 2020. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/41/855",
+   "versions": [
+    {
+     "from": "2020-04-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_04_41_855.html",
+     "sha256": "d633d813c67742db9acf2fe5f7027838d53df6987d0527697a52db0d400df294"
+    },
+    {
+     "from": "2020-05-20",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_58_1175.html",
+     "sha256": "e321763b31963a8ecb73de960035dd596b04a69d975cfea503a7f01a2c05dc40"
     }
    ]
   },
@@ -6672,7 +7113,7 @@
      "from": "2020-04-10",
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_04_44_904.html",
-     "sha256": "6f782cc7a6a9b37930733ca561d510677e9834257159b5f0d0430ead0f2f163a"
+     "sha256": "6403f5f23de7bbfb014fe4b95c47e809d706455dcf915a76999c021db2ee920b"
     }
    ]
   },
@@ -7157,6 +7598,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2020-1188",
+   "path": "pravilnik/2020/1188",
+   "short": "Pravilnik o registru geografskih imena",
+   "title": "Pravilnik o registru geografskih imena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/59/1188",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_59_1188.html",
+     "sha256": "585f41213da0765b7d104e6e3e33efcff6f6efb05f58473a58a3aa223ebdacb4"
+    },
+    {
+     "from": "2025-08-02",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_106_1500.html",
+     "sha256": "29f64f80f064112ba16f7db3755c7324445383a0aee9107c43d503e49a6fae76"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2020-1189",
    "path": "pravilnik/2020/1189",
    "short": "Pravilnik o katastarskoj izmjeri",
@@ -7198,6 +7660,27 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_60_1219.html",
      "sha256": "428c4184ef218d69d5e222e091b366f926a5a60837c9e28c2d0340fc131093ef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-1221",
+   "path": "pravilnik/2020/1221",
+   "short": "Pravilnik o načinu korištenja vaučera za neizvršene ugovore o putovanju u paket-aranžmanu",
+   "title": "Pravilnik o načinu korištenja vaučera za neizvršene ugovore o putovanju u paket-aranžmanu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/60/1221",
+   "versions": [
+    {
+     "from": "2020-05-23",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_05_60_1221.html",
+     "sha256": "219f2597c9cb0d629be407eae2afa908b9e81a9bd50d862041da25b71b566ef1"
+    },
+    {
+     "from": "2021-06-26",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_06_70_1335.html",
+     "sha256": "cb5c38f50252cd325ac2ff0f93c2ca7304246d87eb001572cbb26230e35d5274"
     }
    ]
   },
@@ -9312,7 +9795,7 @@
      "from": "2020-02-15",
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_02_15_324.html",
-     "sha256": "cb97cf1696da665da8358381f0be3e879580e09fa36b015211418a71077b2d38"
+     "sha256": "f41fcb8fccc0f2eda970ce5461f65952fa0096dd906b52dceb85dca7e212c299"
     }
    ]
   },
@@ -9707,6 +10190,48 @@
    ]
   },
   {
+   "slug": "pravilnik-2020-64",
+   "path": "pravilnik/2020/64",
+   "short": "Pravilnik o visini naknade za utvrđivanje stručne sposobnosti zrakoplovnog osoblja te utvrđivanje udovoljavanju uvjeta za izdavanje, produžavanje, obnavljanje i priznavanje dozvole, ovlaštenja i posebnih ovlasti zrakoplovnog osoblja",
+   "title": "Pravilnik o visini naknade za utvrđivanje stručne sposobnosti zrakoplovnog osoblja te utvrđivanje udovoljavanju uvjeta za izdavanje, produžavanje, obnavljanje i priznavanje dozvole, ovlaštenja i posebnih ovlasti zrakoplovnog osoblja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/5/64",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_01_5_64.html",
+     "sha256": "22eeddf9c0838c334de4ebcf161f0a2c8ae6e0c1e46d8003ed0e760cfad9605e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_119_1844.html",
+     "sha256": "fb2f5a041f29589a2ee86ce8a2ef875fca7cca91ca0d4cd1f856ed2aeee94f96"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-65",
+   "path": "pravilnik/2020/65",
+   "short": "Pravilnik o visini naknade za izvršeni pregled i provjeru plovidbenosti zrakoplova",
+   "title": "Pravilnik o visini naknade za izvršeni pregled i provjeru plovidbenosti zrakoplova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/5/65",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_01_5_65.html",
+     "sha256": "aab6cf913701a8679b9d5347a9f0d45d6e8dbd5edbe74a1ddc5e3ce60eb715ba"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_121_1872.html",
+     "sha256": "2e4942883573a363f2d0a37aa8efd4b158f9dad732d375536cadb8a711ff60f8"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2020-656",
    "path": "pravilnik/2020/656",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o priznavanju inozemnih stručnih kvalifikacija turističkog vodiča i voditelja poslova turističke agencije",
@@ -9763,6 +10288,27 @@
      "units": 17,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_01_5_67.html",
      "sha256": "1c91eda5071f2955cca42c87a03f34d13bcb677fd9cbbd8fa964b8101ca126db"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-671",
+   "path": "pravilnik/2020/671",
+   "short": "Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Ureda predsjednika Republike Hrvatske",
+   "title": "Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Ureda predsjednika Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/30/671",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_30_671.html",
+     "sha256": "604f74f5eb3a258b93f45ce19632b7f3a882d5e0cfe2d658f331d44d45d84f5e"
+    },
+    {
+     "from": "2022-05-14",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_53_685.html",
+     "sha256": "22a00ccafae4195af1c36c04a082bcd4cb7cee64c19e231d9b413f0be473f206"
     }
    ]
   },
@@ -9883,6 +10429,27 @@
      "units": 16,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_36_761.html",
      "sha256": "5d362bb7f5c26ed616eebd71a7cb45ce9ea098226b2fe19c32fd3b58ddb67a0f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-763",
+   "path": "pravilnik/2020/763",
+   "short": "Pravilnik o očevidniku kazališta",
+   "title": "Pravilnik o očevidniku kazališta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/36/763",
+   "versions": [
+    {
+     "from": "2020-04-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_36_763.html",
+     "sha256": "03c6325b9146bfd032bbd73bf9139c24e7eb53bf5bf30af7ad55256ea5fb635c"
+    },
+    {
+     "from": "2023-11-28",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_11_139_1897.html",
+     "sha256": "b9afe22450297accd2b39771a550df223c2d202b3f8566f883ddfc15ecfc0fbc"
     }
    ]
   },
@@ -10637,6 +11204,111 @@
    ]
   },
   {
+   "slug": "uredba-2020-1812",
+   "path": "uredba/2020/1812",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/97/1812",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 155,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_97_1812.html",
+     "sha256": "644ccdaac3353fc9ca36b2d2e337c40a772b8568335064eb1e6adac3d9200729"
+    },
+    {
+     "from": "2025-01-28",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_9_74.html",
+     "sha256": "cf7e7b83a941eda2cf5845812205c113d190348d95e38ba1a11c3bd23c7e0078"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-1816",
+   "path": "uredba/2020/1816",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva i održivog razvoja",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva i održivog razvoja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/97/1816",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 261,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_97_1816.html",
+     "sha256": "fe9711085178d15cadad34575bd3315aa314f613e818d3b9af6c2009086bdd70"
+    },
+    {
+     "from": "2024-06-22",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_71_1212.html",
+     "sha256": "7a06c1a763550a7e11d1417d3985c47564afab9a710a09c72b412228fdd0a23f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-1828",
+   "path": "uredba/2020/1828",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za demografiju i mlade",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za demografiju i mlade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/97/1828",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_97_1828.html",
+     "sha256": "803b02f59a45b500a0af656acc9a17b6d3f975b2099d1b46d5f2509cba134099"
+    },
+    {
+     "from": "2023-06-17",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_62_1027.html",
+     "sha256": "9ce3d64239bad17f8dbe8cde344c7054c6ee76c180bb850e853fbff823607c21"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-1829",
+   "path": "uredba/2020/1829",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/97/1829",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_97_1829.html",
+     "sha256": "eb790144ea78954fa16fd48e66b598708bcc527585b1b7f17d7d8ffe4a77a8f2"
+    },
+    {
+     "from": "2022-05-19",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_54_700.html",
+     "sha256": "bad63151dd08ee3e3a9db46f3e22d676f62221f11249c716869731e3eef84fdf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-1831",
+   "path": "uredba/2020/1831",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/97/1831",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 62,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_97_1831.html",
+     "sha256": "3cf771d8b7142efa7d9fb9f07007fd7775fb07b0e38a4e0edd3cdf7fe76ac863"
+    },
+    {
+     "from": "2022-03-05",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_23_280.html",
+     "sha256": "2a3f7d1e1a4a5f74aae50a5f738d9c64e3031ee8b2398051743e4f8a623dfc2d"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2020-2008",
    "path": "uredba/2020/2008",
    "short": "Uredba o osnivanju Državne vatrogasne škole",
@@ -10757,6 +11429,27 @@
    ]
   },
   {
+   "slug": "uredba-2020-2890",
+   "path": "uredba/2020/2890",
+   "short": "Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na motorna vozila",
+   "title": "Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na motorna vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/148/2890",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_12_148_2890.html",
+     "sha256": "e9622ffccd6153c20842163c1d22d8c4ac0b541c46dd2f6586af5cfcf13a6ceb"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2525.html",
+     "sha256": "01eeb1b2297d91a3fbfb39524284acb5b1287a3898ee0db29bbcb87c6aea0a63"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2020-2891",
    "path": "uredba/2020/2891",
    "short": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2021. godinu",
@@ -10813,6 +11506,48 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_02_22_534.html",
      "sha256": "6f5f3e7dcbd42ea21a02ae764f35acce56091d9fe8b2b70326c50e2e20fa9252"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-716",
+   "path": "uredba/2020/716",
+   "short": "Uredba o visini trošarine na alkohol i alkoholna pića",
+   "title": "Uredba o visini trošarine na alkohol i alkoholna pića",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/33/716",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_33_716.html",
+     "sha256": "1a460e58b24195d8b6675efa5d299296f533d69ccdd96f50bda27aff8ecb0d22"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2522.html",
+     "sha256": "18c466c0b509717f5bc550485b87536a92a803c3eb6ae212bb079ee0d41c918d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-717",
+   "path": "uredba/2020/717",
+   "short": "Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na kavu i bezalkoholna pića",
+   "title": "Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na kavu i bezalkoholna pića",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/33/717",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_03_33_717.html",
+     "sha256": "9f8444731acab6f11e9754cfbe99c115804366e82cb1ec0ebbe1dc589740216b"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2524.html",
+     "sha256": "bf02564ccd1095eb4e2251f109f6e88493a7f3a99f8840588079f795b29e3ca3"
     }
    ]
   },
@@ -14282,6 +15017,27 @@
    ]
   },
   {
+   "slug": "odluka-2021-2328",
+   "path": "odluka/2021/2328",
+   "short": "Odluka o gradskim porezima i prirezu porezu na dohodak Grada Otočca",
+   "title": "Odluka o gradskim porezima i prirezu porezu na dohodak Grada Otočca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/138/2328",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_138_2328.html",
+     "sha256": "7978b99c3d24f70920deed89462109822bb5ff530b72c2e1a3a745f3f46f89c9"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_152_2232.html",
+     "sha256": "d5c90b8834671700d35152e0a0bbea563127722b2a65d909650dc9970e791b31"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-2329",
    "path": "odluka/2021/2329",
    "short": "Odluka o izmjeni Odluke o porezima Grada Rijeke",
@@ -14413,6 +15169,48 @@
      "units": 13,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_141_2406.html",
      "sha256": "18b33268e224e1789548c518f5fc029ed807e4931bb144c1f0ead1c741188c69"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-2413",
+   "path": "odluka/2021/2413",
+   "short": "Odluka o cjeniku nestandardnih usluga operatora sustava skladišta plina",
+   "title": "Odluka o cjeniku nestandardnih usluga operatora sustava skladišta plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/141/2413",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_141_2413.html",
+     "sha256": "9fda049db21eeea910112a9ff938dfa3a7216ef996b8e983bda04f83cd3d11a9"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1602.html",
+     "sha256": "69de1febc9c6038ef7330ab71ae3152c6c77e35e5475b1330717dc5f9d4c3cb8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-2415",
+   "path": "odluka/2021/2415",
+   "short": "Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne usluge",
+   "title": "Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne usluge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/141/2415",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_141_2415.html",
+     "sha256": "6aa748684842e96bc52e834f591b89f71ec57c4b43ad9b808e0f4ff248193ba6"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1601.html",
+     "sha256": "fc72c6fc90b2eb647d83e3a9e59cf6e39a2df1fe134d0e1aac5823d31ce6804b"
     }
    ]
   },
@@ -14987,6 +15785,27 @@
    ]
   },
   {
+   "slug": "odluka-2021-281",
+   "path": "odluka/2021/281",
+   "short": "Odluka o osnivanju Vijeća za djecu",
+   "title": "Odluka o osnivanju Vijeća za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/14/281",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_02_14_281.html",
+     "sha256": "7eadf45f421ab077d99a3eb6124733b0216402e9a4a05f9203f9e4d1ebccad4a"
+    },
+    {
+     "from": "2024-09-06",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_09_104_1808.html",
+     "sha256": "d31773c85fe2e8fdf46b6b8765607e2ca299df51ae4271b9f7dcad45029aafea"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-283",
    "path": "odluka/2021/283",
    "short": "Odluka o izmjenama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom",
@@ -15347,6 +16166,27 @@
    ]
   },
   {
+   "slug": "odluka-2021-572",
+   "path": "odluka/2021/572",
+   "short": "Odluka o osnivanju Savjeta za mlade",
+   "title": "Odluka o osnivanju Savjeta za mlade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/26/572",
+   "versions": [
+    {
+     "from": "2021-03-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_03_26_572.html",
+     "sha256": "0b2fae110e3e6112f510cceef93c2dfe8be897b6f016baeb7b8ec41519aad10a"
+    },
+    {
+     "from": "2024-01-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_01_10_196.html",
+     "sha256": "f65c91c98c00d631c8d54a8d0f7b1e9efcc3c003bc4593cc141ab19f2cc0353c"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-580",
    "path": "odluka/2021/580",
    "short": "Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje Grada Dubrovnika, Općine Konavle, Općine Župa dubrovačka, Općine Dubrovačko primorje i Općine Ston",
@@ -15692,6 +16532,27 @@
    ]
   },
   {
+   "slug": "odluka-2021-744",
+   "path": "odluka/2021/744",
+   "short": "Odluka o porezima Grada Daruvara",
+   "title": "Odluka o porezima Grada Daruvara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/35/744",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_35_744.html",
+     "sha256": "79308e58661dc1cca639be8281f8a7f99574c9ee04d918b6f45593ac0ca2d6ab"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_145_2010.html",
+     "sha256": "e912588fcc5096fbe9b0a12ab61e40169abcf4f5a4a68931ae0a25f94cc34f51"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-753",
    "path": "odluka/2021/753",
    "short": "Odluka o porezima Općine Tisno",
@@ -15962,6 +16823,48 @@
    ]
   },
   {
+   "slug": "odluka-2021-847",
+   "path": "odluka/2021/847",
+   "short": "Odluka o uvođenju nužnih epidemioloških mjera za područje Požeško-slavonske županije",
+   "title": "Odluka o uvođenju nužnih epidemioloških mjera za područje Požeško-slavonske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/43/847",
+   "versions": [
+    {
+     "from": "2021-04-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_43_847.html",
+     "sha256": "f601fc613a4c857b64d26c65710ae462fb34d69efb444002e30cfb8cc818d9ab"
+    },
+    {
+     "from": "2021-06-08",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_06_63_1216.html",
+     "sha256": "dd63d2bd0c7e189a752b7012a37c9972042c23e84fe1326ff27a93f5f4536fe5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-848",
+   "path": "odluka/2021/848",
+   "short": "Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Metkovića, Grada Ploče, Grada Opuzena, Općine Pojezerje, Općine Slivno, Općine Kula Norinska i Općine Zažablje",
+   "title": "Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Metkovića, Grada Ploče, Grada Opuzena, Općine Pojezerje, Općine Slivno, Općine Kula Norinska i Općine Zažablje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/43/848",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_43_848.html",
+     "sha256": "758ee5055fffd0f734e69b0f4ced0e900bf6b4e47613b5d47607776943350907"
+    },
+    {
+     "from": "2021-05-03",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_46_955.html",
+     "sha256": "d562a6fd30fa28281e88cd2aa49d4a3e49e8f07b47d99e10e993f1cb04738415"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2021-859",
    "path": "odluka/2021/859",
    "short": "Odluka o visini naknade za zdravstvene preglede vozača i kandidata za vozače",
@@ -16093,6 +16996,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_46_936.html",
      "sha256": "9e769e90a8360c28e79dd975f179f7f8ced3e9cef59617197f6327bd29e9a1d1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2021-937",
+   "path": "odluka/2021/937",
+   "short": "Odluka o osnivanju Nacionalnog vijeća za razvoj socijalnih politika",
+   "title": "Odluka o osnivanju Nacionalnog vijeća za razvoj socijalnih politika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/937",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_46_937.html",
+     "sha256": "b1297878f6a5c2c3307305bd27061e331d7334ade388a64c57b7df5f15c2728d"
+    },
+    {
+     "from": "2025-01-02",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_2_10.html",
+     "sha256": "a370ab9ec35f359422826bd86be71da44d020d52ca2d8cca9221a6cc3173144c"
     }
    ]
   },
@@ -16607,6 +17531,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2021-1193",
+   "path": "pravilnik/2021/1193",
+   "short": "Pravilnik o radu Agencije za zaštitu osobnih podataka",
+   "title": "Pravilnik o radu Agencije za zaštitu osobnih podataka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/61/1193",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_06_61_1193.html",
+     "sha256": "2ce5f0168a96a729dbc57512697f422b6e1a85dad3eb3ec6fcf45c7315b1734a"
+    },
+    {
+     "from": "2025-08-02",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_106_1512.html",
+     "sha256": "9530c0bdba77e2f11f86a369f57bd516768546255d45a2ad8e6a72220b5b8b75"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2021-1198",
    "path": "pravilnik/2021/1198",
    "short": "Pravilnik o postupanju prilikom opće procjene privremenosti rada upućenoga radnika i privremenosti poduzimanja ekonomskih aktivnosti poslodavca u Republici Hrvatskoj",
@@ -16813,6 +17758,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_06_68_1320.html",
      "sha256": "3eea855a0ba97ea94b4eacb8968da6d6754965bd6eb7d5e8a1bfbe18bc4d8129"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-1355",
+   "path": "pravilnik/2021/1355",
+   "short": "Pravilnik o sadržaju Akcijskog programa zaštite voda od onečišćenja uzrokovanog nitratima poljoprivrednog podrijetla",
+   "title": "Pravilnik o sadržaju Akcijskog programa zaštite voda od onečišćenja uzrokovanog nitratima poljoprivrednog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/72/1355",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_06_72_1355.html",
+     "sha256": "75efd7c90bce5ea581e9ad74ae45ef87701865c45fba0dabc3bf91c513c3f7c3"
+    },
+    {
+     "from": "2025-06-28",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_95_1295.html",
+     "sha256": "069efa3a71f57c8dd4e0588691ed756c1405338eec66a47a1cce1ec3590ceb69"
     }
    ]
   },
@@ -17222,6 +18188,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2021-1649",
+   "path": "pravilnik/2021/1649",
+   "short": "Pravilnik o tržišnim standardima za jaja",
+   "title": "Pravilnik o tržišnim standardima za jaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/90/1649",
+   "versions": [
+    {
+     "from": "2021-08-21",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_08_90_1649.html",
+     "sha256": "01b06c18ae3e5b9488e78285bf0e14e49b3e79fed3c136c7a2b5d7828881c186"
+    },
+    {
+     "from": "2024-07-13",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_07_80_1367.html",
+     "sha256": "2325e515c4924a4d1ec4626ec80f102d327fb9bfadef978e7d1c623947ba030a"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2021-1675",
    "path": "pravilnik/2021/1675",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjera Nacionalnog pčelarskog programa za razdoblje od 2020. do 2022. godine",
@@ -17518,6 +18505,27 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_100_1804.html",
      "sha256": "8ead9c71bab1c44b68598f30833a9937c45438b48626a462eaf2a673b209559f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-1827",
+   "path": "pravilnik/2021/1827",
+   "short": "Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti",
+   "title": "Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/102/1827",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_102_1827.html",
+     "sha256": "f413252fbf0588a10546ce8544e9011f218afab688bf78675b5d0fbd6fcc5ceb"
+    },
+    {
+     "from": "2022-09-22",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_106_1553.html",
+     "sha256": "3ad44a5ef1073b7c9face796b27a5b65b311138667964550afb95e7b07970c1c"
     }
    ]
   },
@@ -19142,6 +20150,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2021-939",
+   "path": "pravilnik/2021/939",
+   "short": "Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete od raznih vrsta ptica i ostalih životinja na šaranskim ribnjacima",
+   "title": "Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete od raznih vrsta ptica i ostalih životinja na šaranskim ribnjacima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/939",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_46_939.html",
+     "sha256": "47a1fd129ff4452f657511736444a5f52b45f340c462147a6868b3977ac19fdb"
+    },
+    {
+     "from": "2024-09-05",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_09_103_1791.html",
+     "sha256": "e044e09b6e5b0a3986835e587b1d9932d6467fe6489a9242d265d871434fc8c2"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2021-962",
    "path": "pravilnik/2021/962",
    "short": "Pravilnik o praćenju emisija onečišćujućih tvari u zrak iz nepokretnih izvora",
@@ -19408,6 +20437,27 @@
      "units": 14,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_147_2533.html",
      "sha256": "05dd910ccf49ae34a44e85c8006818f94a18debcfeef5c4f985cf0f9a9926078"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-2534",
+   "path": "uredba/2021/2534",
+   "short": "Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođača kojeg su opskrbljivači električne energije dužni preuzeti od operatora tržišta električne energije",
+   "title": "Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođača kojeg su opskrbljivači električne energije dužni preuzeti od operatora tržišta električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/147/2534",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_147_2534.html",
+     "sha256": "9ad8028512f90504167a48cfa26d5c1d42597a85041246d53d5e52e8ba712e57"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2526.html",
+     "sha256": "82d123a33dc285bd6c4ed7326f4bb6eb360742cb7eea6a3dc643bb7e5614abb4"
     }
    ]
   },
@@ -20173,6 +21223,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_90_1394.html",
      "sha256": "536ed4a29ec4dbf79f08d1e102931270fec9f9fa6239fcd0f1cd227998fef454"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2022-1410",
+   "path": "naredba/2022/1410",
+   "short": "Naredba o mjerama suzbijanja i sprječavanja pojave bedrenice na području Republike Hrvatske",
+   "title": "Naredba o mjerama suzbijanja i sprječavanja pojave bedrenice na području Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/92/1410",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_92_1410.html",
+     "sha256": "b165a01e40a7c15ddceb2fad1104215abae7f07353590d04dfcec6d87185f6e1"
+    },
+    {
+     "from": "2025-07-24",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_105_1484.html",
+     "sha256": "e828a3f4954468f5a0194b4af7010d4fb49ec92c43f96e4d5630cb5af50a9b32"
     }
    ]
   },
@@ -21137,6 +22208,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-1413",
+   "path": "odluka/2022/1413",
+   "short": "Odluka o izdavanju kompleta optjecajnoga kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja »2022.«",
+   "title": "Odluka o izdavanju kompleta optjecajnoga kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja »2022.«",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/92/1413",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_92_1413.html",
+     "sha256": "a350c8f0cafbe3113d57afd3fa307d6db888589d8dff15e718d8b13a15038e8e"
+    },
+    {
+     "from": "2022-12-22",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_150_2309.html",
+     "sha256": "976b01d60d0802aedf7635b1ee53f184dbd9e64d677151eccd1424870ce75077"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-1418",
    "path": "odluka/2022/1418",
    "short": "Odluka o izmjeni i dopuni Odluke o naknadi za razvoj trgovačkog društva Vodoopskrba i odvodnja Pregrada d.o.o., Pregrada",
@@ -21223,6 +22315,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1437.html",
      "sha256": "cbdb33900a1f3c1af4770312752bad2f4f9de040d36004fb2463a1622dd8cf14"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-144",
+   "path": "odluka/2022/144",
+   "short": "Odluka o gradskim porezima Grada Knina",
+   "title": "Odluka o gradskim porezima Grada Knina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/14/144",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_14_144.html",
+     "sha256": "8979e65d4832d740ffe7d209405d54bc2d556781f7294c614deb393dd1111965"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_154_2331.html",
+     "sha256": "c73e044dec6c161071c7d06870d2d28c517d6ed8a0f7a70f1d8fcd4e81644cf3"
     }
    ]
   },
@@ -21812,6 +22925,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-1600",
+   "path": "odluka/2022/1600",
+   "short": "Odluka o cjeniku nestandardnih usluga operatora transportnog sustava",
+   "title": "Odluka o cjeniku nestandardnih usluga operatora transportnog sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/108/1600",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1600.html",
+     "sha256": "ef3e14be8982964fbd2b160a5066d9bd786df09e6e7449eacf0c4273662d32e8"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_154_2307.html",
+     "sha256": "9a0ff20a8f7171e1bcb0fea6ec4dab7248760ab79cde26573b5c9aab4f8c518e"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-1601",
    "path": "odluka/2022/1601",
    "short": "Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne usluge",
@@ -21838,6 +22972,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1602.html",
      "sha256": "69de1febc9c6038ef7330ab71ae3152c6c77e35e5475b1330717dc5f9d4c3cb8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-1606",
+   "path": "odluka/2022/1606",
+   "short": "Odluka o iznosu tarifnih stavki za distribuciju plina",
+   "title": "Odluka o iznosu tarifnih stavki za distribuciju plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/108/1606",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1606.html",
+     "sha256": "b170010d2e84cf11c02750c34e14367981c4b4d89395a1c67b0007a316de76d1"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_09_122_1745.html",
+     "sha256": "6df5fd2d512919e3e9cedc51ade44b36c96df05bcc2fb11ef59a056217fe93da"
     }
    ]
   },
@@ -21883,6 +23038,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_109_1617.html",
      "sha256": "536337172997ac71497527a5dfa28c3ec48c611718bc047f7c2ee4d26bce1661"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-1629",
+   "path": "odluka/2022/1629",
+   "short": "Odluka o primjerenom upravljanju informacijskim sustavom",
+   "title": "Odluka o primjerenom upravljanju informacijskim sustavom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/110/1629",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_110_1629.html",
+     "sha256": "edfa0df8f43737bb17046e29cd91338966342015c1e01a4edcf909cc810bebd6"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_152_2522.html",
+     "sha256": "2d1a18fc35a120eb569426b8a8bceeceb36cdd4c1bc900dd869861d3d13f5801"
     }
    ]
   },
@@ -22468,6 +23644,27 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_133_2014.html",
      "sha256": "426746bddf6ca9f30bb06b959e75d514d4850a3e1b247d37eb2fb84eb602ba55"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-2027",
+   "path": "odluka/2022/2027",
+   "short": "Odluka o obvezi dostavljanja izvješća o podacima poslovanja s gotovim novcem",
+   "title": "Odluka o obvezi dostavljanja izvješća o podacima poslovanja s gotovim novcem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/134/2027",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_134_2027.html",
+     "sha256": "aa12bcfb03faca43b57ae2d4445227714603994649121425aa5c84732cce6093"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_153_2248.html",
+     "sha256": "3dcb7dcdd13760f83dd6eec75882787fc4cf50e0b8fa60ef28574732b1580fd4"
     }
    ]
   },
@@ -23147,6 +24344,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-2365",
+   "path": "odluka/2022/2365",
+   "short": "Odluka o lokalnim porezima Općine Unešić",
+   "title": "Odluka o lokalnim porezima Općine Unešić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/151/2365",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2365.html",
+     "sha256": "0d83da0c5e9061edec41e878d73b5c2ad21da42a732f0f59a457c1fb8750f65d"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_148_2138.html",
+     "sha256": "e11869c0ad67d9987c8495be0b921f343429d4e81e4e1ed27473fc49ca0bed0c"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-2388",
    "path": "odluka/2022/2388",
    "short": "Odluka o isplati jednokratnog novčanog primanja korisnicima prava u sustavu socijalne skrbi radi ublažavanja posljedica rasta troškova života",
@@ -23672,6 +24890,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-2553",
+   "path": "odluka/2022/2553",
+   "short": "Odluka o općinskim porezima Općine Jalžabet",
+   "title": "Odluka o općinskim porezima Općine Jalžabet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2553",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2553.html",
+     "sha256": "da440501f60b7e2051aed2c877c28a69d178a4ad215f1ed3798a636bbbb1585a"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_564.html",
+     "sha256": "bec3607e46489a2e42a53ced531d36be26a917410fba6357ef97b4d3a6525ce7"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-256",
    "path": "odluka/2022/256",
    "short": "Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za ožujak 2022.",
@@ -23698,6 +24937,48 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_23_282.html",
      "sha256": "d48ab0ec6435d7ee3abae90a2d0ffe73d5c61eab7f6b3bf46eefb37c57e2f4d3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-283",
+   "path": "odluka/2022/283",
+   "short": "Odluka o osnovici za izračun iznosa zajamčene minimalne naknade",
+   "title": "Odluka o osnovici za izračun iznosa zajamčene minimalne naknade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/23/283",
+   "versions": [
+    {
+     "from": "2022-02-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_23_283.html",
+     "sha256": "818bf38759c788d58920f750f9aa414c9d5a2f23c215f24de42a26149fc8574e"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_158_2512.html",
+     "sha256": "edf80e323e3d48893b2f7e7399b01e19d8cd09d839d2cd6b7783e2f43040eb42"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-285",
+   "path": "odluka/2022/285",
+   "short": "Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine",
+   "title": "Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/23/285",
+   "versions": [
+    {
+     "from": "2022-02-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_23_285.html",
+     "sha256": "49932e25cbe080576f838b32f3b10d16e73757a3034199d27cbc2c1411153cf3"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_133_1999.html",
+     "sha256": "6366d19225e8e07abfa1aebc064b7d17572983490d7a3b64b80efdd90df1dbb5"
     }
    ]
   },
@@ -24062,6 +25343,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-437",
+   "path": "odluka/2022/437",
+   "short": "Odluka o iznosu tarifnih stavki za skladištenje plina",
+   "title": "Odluka o iznosu tarifnih stavki za skladištenje plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/36/437",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_36_437.html",
+     "sha256": "4db5c69d714681ad754281106548e08da96d6ace4adfa09682a98e2c8eb580ca"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1597.html",
+     "sha256": "e805766d9ecbc7ef25c8e6cf199f3f2b08aeb6311ba9786008b7ed50ea15b5aa"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-45",
    "path": "odluka/2022/45",
    "short": "Odluka o oslobađanju obveze plaćanja članarine",
@@ -24238,6 +25540,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_41_506.html",
      "sha256": "619a078ed74380e851be5f68d2f395dac378d81f58a6bcc0c947a7e1a3b20fbf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2022-536",
+   "path": "odluka/2022/536",
+   "short": "Odluka o posebnim sigurnosnim mjerama u zdravstvenom sustavu i sustavu socijalne skrbi radi zaštite pučanstva od zaraze i prijenosa te suzbijanja bolesti COVID-19",
+   "title": "Odluka o posebnim sigurnosnim mjerama u zdravstvenom sustavu i sustavu socijalne skrbi radi zaštite pučanstva od zaraze i prijenosa te suzbijanja bolesti COVID-19",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/44/536",
+   "versions": [
+    {
+     "from": "2022-04-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_44_536.html",
+     "sha256": "681f748d5a39b0d38a69b75b37ba6f6c083e00e2d37eb0175fad7e2913f5c6b1"
+    },
+    {
+     "from": "2022-05-26",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_58_839.html",
+     "sha256": "24a940be4df8344ac7665ab664a0359d2827f967ed2c586bf481dc0782795095"
     }
    ]
   },
@@ -26102,6 +27425,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2022-1553",
+   "path": "pravilnik/2022/1553",
+   "short": "Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti",
+   "title": "Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/106/1553",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_106_1553.html",
+     "sha256": "3ad44a5ef1073b7c9face796b27a5b65b311138667964550afb95e7b07970c1c"
+    },
+    {
+     "from": "2023-07-07",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_70_1167.html",
+     "sha256": "178de50a3f69f20bce07508941cd1cd425ffb5c43b68ef84d274ad052b9a43fa"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2022-1554",
    "path": "pravilnik/2022/1554",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena žitarica",
@@ -26578,6 +27922,48 @@
      "units": 26,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_126_1919.html",
      "sha256": "939241506306089da2d237d4ea1d9942ce8f58eacc7a738a056b12577a44ad01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-1943",
+   "path": "pravilnik/2022/1943",
+   "short": "Pravilnik o Jedinstvenom informacijskom sustavu mineralnih sirovina",
+   "title": "Pravilnik o Jedinstvenom informacijskom sustavu mineralnih sirovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/128/1943",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_128_1943.html",
+     "sha256": "0ee819006188d1ac4ebd24123b686897862097840c59c244066c390096f9428b"
+    },
+    {
+     "from": "2024-07-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_07_84_1461.html",
+     "sha256": "fecf731bd35310dcd69a02a978d563cc9ff755be76ac5112d9c3a2104183b781"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2022-1944",
+   "path": "pravilnik/2022/1944",
+   "short": "Pravilnik o polaganju stručnog ispita iz rudarstva",
+   "title": "Pravilnik o polaganju stručnog ispita iz rudarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/128/1944",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_128_1944.html",
+     "sha256": "12ff651202fe939297c9e01aeac4e503f63acdaf1ec5ce9e401208776fafedb4"
+    },
+    {
+     "from": "2024-07-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_07_84_1465.html",
+     "sha256": "eeaf684f3b59b7276f6716c2cfd4a503307b2409a825bbbea7367b6d31d3f358"
     }
    ]
   },
@@ -28862,6 +30248,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2022-864",
+   "path": "pravilnik/2022/864",
+   "short": "Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim inspekcijskim pregledima i poduzetim mjerama sportske inspekcije",
+   "title": "Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim inspekcijskim pregledima i poduzetim mjerama sportske inspekcije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/60/864",
+   "versions": [
+    {
+     "from": "2022-06-04",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_60_864.html",
+     "sha256": "0bc5ad1038ab2f849eb5e2d3b8486c65b8f6291447e76146b4ebacca7f0df447"
+    },
+    {
+     "from": "2025-10-18",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_10_128_1844.html",
+     "sha256": "7c299d0e9a0744a665846aa8e9ff014c8d88e09bbc2e3762752df9de83c5ddd5"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2022-87",
    "path": "pravilnik/2022/87",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele državne potpore male vrijednosti u ribarstvu",
@@ -29132,6 +30539,27 @@
    ]
   },
   {
+   "slug": "uredba-2022-2516",
+   "path": "uredba/2022/2516",
+   "short": "Uredba o Zakonu o hitnoj intervenciji za rješavanje pitanja visokih cijena električne energije",
+   "title": "Uredba o Zakonu o hitnoj intervenciji za rješavanje pitanja visokih cijena električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2516",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2516.html",
+     "sha256": "694e40796828a06a7d039e1fe0a3ad194469d6f365fa9c74811be11f62b8f0da"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_71_1174.html",
+     "sha256": "0188a2b43e6cc5da10ceb8b0521805c02027b3c679d82ef2ff30923489a34860"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-2517",
    "path": "uredba/2022/2517",
    "short": "Uredba o izmjeni Zakona o obveznim odnosima",
@@ -29323,6 +30751,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_7_70.html",
      "sha256": "f2391d94d55790c568513291bc72bc061db7fea742974ad3fdc20b43fe4f5cd1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-700",
+   "path": "uredba/2022/700",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/700",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_54_700.html",
+     "sha256": "bad63151dd08ee3e3a9db46f3e22d676f62221f11249c716869731e3eef84fdf"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_72_1224.html",
+     "sha256": "1b91a01653cfbb14f1602ed1e921c9d113eae4f26003b73d247348faa1a58e61"
     }
    ]
   },
@@ -30703,6 +32152,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_78_1244.html",
      "sha256": "6c95d57551c9c2f0ae9d4330ed29409939194de0dda569938c1a4bfc2577eb0a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-1247",
+   "path": "odluka/2023/1247",
+   "short": "Odluka o umanjenju plaće i dodataka na plaću državnim službenicima i namještenicima za vrijeme sudjelovanja u štrajku",
+   "title": "Odluka o umanjenju plaće i dodataka na plaću državnim službenicima i namještenicima za vrijeme sudjelovanja u štrajku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/78/1247",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_78_1247.html",
+     "sha256": "0abdcd5b741d585c1322ec1730f3ded28f625bd37fae13cd13de6e9aa1818bd7"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_87_1350.html",
+     "sha256": "0d4671ab69f8ed054e03b636bb00d361f8f89c3f835b1a746144dbdf5ab7b187"
     }
    ]
   },
@@ -32612,6 +34082,27 @@
    ]
   },
   {
+   "slug": "odluka-2023-1970",
+   "path": "odluka/2023/1970",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Breznica",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Breznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/143/1970",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_143_1970.html",
+     "sha256": "940da5490d86d8c9a2432929519b58e58b116ef1bafa56a5a71064df34334e37"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_30_319.html",
+     "sha256": "4295a815e6915cc0e9535818ac206c764283dc01811a7b1667fc41cb383bf3f3"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-1971",
    "path": "odluka/2023/1971",
    "short": "Odluka o općinskim porezima Općine Jasenovac",
@@ -32638,6 +34129,27 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_143_1976.html",
      "sha256": "63eee17d484642140ec5c0e849d4a1c1dbed4e0a6cf98d3ba445217723783e59"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-1978",
+   "path": "odluka/2023/1978",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Veliki Bukovec",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Veliki Bukovec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/143/1978",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_143_1978.html",
+     "sha256": "c1a73fba0dc38e2ef237b768e673d5fa437c62bfd538dd8ba5aaa171af2b2e01"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_151_2498.html",
+     "sha256": "f54d63813a66016152fe303f54e0cae50f60a6f68451602f2d770446440b475f"
     }
    ]
   },
@@ -32762,6 +34274,48 @@
    ]
   },
   {
+   "slug": "odluka-2023-2011",
+   "path": "odluka/2023/2011",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Daruvara",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Daruvara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/145/2011",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_145_2011.html",
+     "sha256": "d32f66fff3bcba76b031815283c89c429cd6308f70c1f5fc384254fa12ae781e"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_10_129_1886.html",
+     "sha256": "d3d54d88c7fa10fe04e1fd1caa25c43cd1c532134c741d4c2223f35783ce9ba9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-2013",
+   "path": "odluka/2023/2013",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Knina",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Knina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/145/2013",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_145_2013.html",
+     "sha256": "b9dca4028cace1614978644e6b919eeb5a7b81c937383332ba9a8db540b50637"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_154_2559.html",
+     "sha256": "adeeb31501f2aafe0d55592fa4267dfb457a33c1c47e7ba0f6ad027a4fe9d349"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-2018",
    "path": "odluka/2023/2018",
    "short": "Odluka o izmjeni Odluke o općinskim porezima Općine Ivankovo",
@@ -32863,6 +34417,27 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_146_2042.html",
      "sha256": "874d5916329c1cd4f881432f983c5108ca2c3761d395598443f78e10995714e0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-2047",
+   "path": "odluka/2023/2047",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Petrijanec",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Petrijanec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/146/2047",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_146_2047.html",
+     "sha256": "79f85feac3f60a2e982d9d37ed15fb312abd78665158fd0680de7e28cb0f63f0"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_33_369.html",
+     "sha256": "abbc881ee5a04bc95a9e98238e1c543839c3b052c4e3e32ee14c02422553e21e"
     }
    ]
   },
@@ -33047,6 +34622,27 @@
    ]
   },
   {
+   "slug": "odluka-2023-2084",
+   "path": "odluka/2023/2084",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vodnjana - Dignano",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vodnjana - Dignano",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/147/2084",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_147_2084.html",
+     "sha256": "ce7667082136139259aabdd7babf25a4228ec722b5dcb813f8406b3f3fbe3416"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_34_404.html",
+     "sha256": "d53498f2491e01f02f14ef58efffd817c0d13f2287107ee3841f5c6cc1069426"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-2085",
    "path": "odluka/2023/2085",
    "short": "Odluka o izmjenama Odluke o lokalnim porezima Grada Vrbovskog",
@@ -33167,6 +34763,27 @@
    ]
   },
   {
+   "slug": "odluka-2023-2107",
+   "path": "odluka/2023/2107",
+   "short": "Odluka o lokalnim porezima Općine Dežanovac",
+   "title": "Odluka o lokalnim porezima Općine Dežanovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/148/2107",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_148_2107.html",
+     "sha256": "95ba0654e999427f38dc9a6954b5060715bb03d612064f1986057c65e615fd82"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_46_613.html",
+     "sha256": "712af1eeac28046aff4839f9c33eb39062d4510361684bc4037f6c775b5cddc5"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-2115",
    "path": "odluka/2023/2115",
    "short": "Odluka o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu na području Općine Lasinja",
@@ -33178,6 +34795,27 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_148_2115.html",
      "sha256": "2ded982ccefea2138801ab740871fe2b626bda541c0316a437b8773a96c7fc50"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-2118",
+   "path": "odluka/2023/2118",
+   "short": "Odluka o visini poreznih stopa poreza na dohodak na području Općine Lupoglav",
+   "title": "Odluka o visini poreznih stopa poreza na dohodak na području Općine Lupoglav",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/148/2118",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_148_2118.html",
+     "sha256": "ac428a31bc0b5bfc4ac91c5149c90e398572b85bb6e59db4021c0d1a49e082fe"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_35_455.html",
+     "sha256": "ee81588d4ab878e2e9695debbc5bd085aead7273a3dcfc07f527e8ea5c47bba4"
     }
    ]
   },
@@ -33617,6 +35255,27 @@
    ]
   },
   {
+   "slug": "odluka-2023-2255",
+   "path": "odluka/2023/2255",
+   "short": "Odluka o porezima Grada Trogira",
+   "title": "Odluka o porezima Grada Trogira",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/153/2255",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_153_2255.html",
+     "sha256": "1dc77f4ad1345c7d066a15bc42e005fdab7fde410b09f48224f4362633cc9f20"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_33_350.html",
+     "sha256": "d4d5ddb7ca9900c8e942ca255524337a9ab1b878152a13d14d744e021e301e89"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-2260",
    "path": "odluka/2023/2260",
    "short": "Odluka o općinskim porezima Općine Biskupija",
@@ -33643,6 +35302,27 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_153_2263.html",
      "sha256": "31873a6f7168100d60242e49a4a77ee95db56cb34656093a4dd76525888d04e2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-2265",
+   "path": "odluka/2023/2265",
+   "short": "Odluka o lokalnim porezima Općine Darda",
+   "title": "Odluka o lokalnim porezima Općine Darda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/153/2265",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_153_2265.html",
+     "sha256": "a8dab2c877bd6368ad027c89c09c2c5ed4ff1f4aac57b41cca18ed77b4788a51"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_40_561.html",
+     "sha256": "57a57d0822416d24ebc3b1c7dcef95ed77ccdaf6ec920241a3747bce0e88fe8e"
     }
    ]
   },
@@ -34138,6 +35818,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_156_2404.html",
      "sha256": "b33203753670bb3ef2186a2645c05112f9c7cdb931c8182248809c886acbfb32"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-2405",
+   "path": "odluka/2023/2405",
+   "short": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Makarske",
+   "title": "Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Makarske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/156/2405",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_156_2405.html",
+     "sha256": "b0db6285ec934e8ccf9d581d38e951579e9ba82845c05a2826327a5724d8933f"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_33_347.html",
+     "sha256": "c860585b118cd26f38fde67e29802f763ac20ea1558bdecfb349edec9ece2a73"
     }
    ]
   },
@@ -35117,6 +36818,27 @@
    ]
   },
   {
+   "slug": "odluka-2023-2512",
+   "path": "odluka/2023/2512",
+   "short": "Odluka o osnovici za izračun iznosa zajamčene minimalne naknade",
+   "title": "Odluka o osnovici za izračun iznosa zajamčene minimalne naknade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/158/2512",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_158_2512.html",
+     "sha256": "edf80e323e3d48893b2f7e7399b01e19d8cd09d839d2cd6b7783e2f43040eb42"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_151_2480.html",
+     "sha256": "b10285834a4e264abeb2b6aa2f9eabb69534bfcb4587b20b2940be31eda1aea9"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-2513",
    "path": "odluka/2023/2513",
    "short": "Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine za 2024. godinu",
@@ -35552,6 +37274,27 @@
    ]
   },
   {
+   "slug": "odluka-2023-418",
+   "path": "odluka/2023/418",
+   "short": "Odluka o sufinanciranju troškova režija za privremeno stambeno zbrinjavanje prema Programu zbrinjavanja korisnika mobilnih stambenih jedinica na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
+   "title": "Odluka o sufinanciranju troškova režija za privremeno stambeno zbrinjavanje prema Programu zbrinjavanja korisnika mobilnih stambenih jedinica na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/26/418",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_26_418.html",
+     "sha256": "06f1ea09201ff21f01247d7a6d32859b9a6843527e49fe6fa01ed6548621acab"
+    },
+    {
+     "from": "2023-07-29",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_87_1352.html",
+     "sha256": "4f239875118ce1db8976b552297e5d4980bbb3edb103f8251b2afcaff8a9e851"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2023-419",
    "path": "odluka/2023/419",
    "short": "Odluka o načinu plaćanja i visini zajedničke pričuve za zgrade oštećene potresom na području Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
@@ -35788,6 +37531,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_27_468.html",
      "sha256": "03e048c3c1b1195caf0b0c6ee8c44b13b4fd9e1a15cd9f532844b713454ba724"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-473",
+   "path": "odluka/2023/473",
+   "short": "Odluka o donošenju Programa mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
+   "title": "Odluka o donošenju Programa mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/28/473",
+   "versions": [
+    {
+     "from": "2023-03-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_28_473.html",
+     "sha256": "75afe50be7ae0c7f007d0aa52d5d496ce482376048e126079901ed356a3c8ff9"
+    },
+    {
+     "from": "2024-12-31",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_154_2549.html",
+     "sha256": "186d752c5128c6456dc8a88f68cd53631e77d3db180de53387a9d13c00fd62ae"
     }
    ]
   },
@@ -36163,6 +37927,27 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_04_39_675.html",
      "sha256": "7f1f87ad590b8b15bcf6b299bb391b74f8d11038d23aa5406590104c04f9535e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2023-695",
+   "path": "odluka/2023/695",
+   "short": "Odluka o lokalnim porezima Općine Donji Lapac",
+   "title": "Odluka o lokalnim porezima Općine Donji Lapac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/39/695",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_04_39_695.html",
+     "sha256": "9fc7ab2e970f38d2458ba79aabb0e8474ba51e14fe8589a02a2a1c9e5d2aee8a"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_157_2440.html",
+     "sha256": "3c11021d5d3c52cc1f77e40de79db3989703d0ab2ee06ea2581c564f2c7365b7"
     }
    ]
   },
@@ -37412,6 +39197,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2023-1434",
+   "path": "pravilnik/2023/1434",
+   "short": "Pravilnik o sastavu i načinu rada Komisije za procjenu potrebe korisnika za uslugom osobne asistencije",
+   "title": "Pravilnik o sastavu i načinu rada Komisije za procjenu potrebe korisnika za uslugom osobne asistencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/96/1434",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_96_1434.html",
+     "sha256": "2b98203f5f99f72baebd86e763af3b8a702dff66f2170726a262ab4da90563ad"
+    },
+    {
+     "from": "2026-06-06",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_56_702.html",
+     "sha256": "18d10027014669ef6c86f4ab0522274b57e328a5a735a2f2cafc56e6b806faa8"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2023-1438",
    "path": "pravilnik/2023/1438",
    "short": "Pravilnik o izmjenama Pravilnika o sastavu i načinu rada povjerenstva za izbor udomitelja za obavljanje udomiteljstva kao zanimanja",
@@ -38657,6 +40463,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2023-328",
+   "path": "pravilnik/2023/328",
+   "short": "Pravilnik o obliku, sadržaju i načinu vođenja registra kulturnih dobara Republike Hrvatske",
+   "title": "Pravilnik o obliku, sadržaju i načinu vođenja registra kulturnih dobara Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/19/328",
+   "versions": [
+    {
+     "from": "2023-02-25",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_02_19_328.html",
+     "sha256": "c057f348d8a8a14fa49aa96337cec374c2a5ebe2d07ce6a93eed9e098af99990"
+    },
+    {
+     "from": "2025-10-18",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_10_128_1842.html",
+     "sha256": "5193eff3b390a69a38a02793d402a45be4990016a0c7122e59a9368c59dc8894"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2023-329",
    "path": "pravilnik/2023/329",
    "short": "Pravilnik o evidencijama u arhivima",
@@ -39013,6 +40840,27 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_30_523.html",
      "sha256": "6f1b58bc7f4e6757c1289017fa925a55b3913fff1a319b30ba64691d9dc6dd34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-524",
+   "path": "pravilnik/2023/524",
+   "short": "Pravilnik o vrednovanju imovine mirovinskog osiguravajućeg društva",
+   "title": "Pravilnik o vrednovanju imovine mirovinskog osiguravajućeg društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/30/524",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_30_524.html",
+     "sha256": "30b33c8eb12bd30bb7c59c4f19b542abb35dd1615f41c61a76842f93f504948f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_152_2531.html",
+     "sha256": "7261e845a5ef57dcf7f8be6e08e32e03c54e267170625f5a063a3cbd6e5db7f4"
     }
    ]
   },
@@ -39422,6 +41270,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2023-87",
+   "path": "pravilnik/2023/87",
+   "short": "Pravilnik o postupku i načinu osnivanja Majstorske škole",
+   "title": "Pravilnik o postupku i načinu osnivanja Majstorske škole",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/5/87",
+   "versions": [
+    {
+     "from": "2023-01-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_01_5_87.html",
+     "sha256": "ffcbbe65a57f203dfbc64afdec1f9992e357bb46a2c232603283013c4a30df48"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_114_1370.html",
+     "sha256": "ca8f770aa0f8f2741d8d09f033a13daf28785282f5c5ec55f37044247ed4b0fd"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2023-872",
    "path": "pravilnik/2023/872",
    "short": "Pravilnik o pristupu sobi s podacima i korištenju podataka",
@@ -39812,6 +41681,27 @@
    ]
   },
   {
+   "slug": "uredba-2023-1348",
+   "path": "uredba/2023/1348",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/87/1348",
+   "versions": [
+    {
+     "from": "2023-08-05",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_87_1348.html",
+     "sha256": "12a61ebd6e9645240ff34f2cfe1c631523679f6b9c9450e83d872b457de38bad"
+    },
+    {
+     "from": "2024-06-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_72_1226.html",
+     "sha256": "7b4e6d973d170364cb9005c28f22b26fe22c69ab2311167f89e35f50d93dbe56"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-1349",
    "path": "uredba/2023/1349",
    "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
@@ -39853,6 +41743,27 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_97_1439.html",
      "sha256": "2ddd49cf57e99f677811ab438f5351eb728b20966beff920930717787f886fac"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1468",
+   "path": "uredba/2023/1468",
+   "short": "Uredba o izmjeni Zakona o predškolskom odgoju i obrazovanju",
+   "title": "Uredba o izmjeni Zakona o predškolskom odgoju i obrazovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/101/1468",
+   "versions": [
+    {
+     "from": "2023-09-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_101_1468.html",
+     "sha256": "f53f75efe15456a8dbef94e9a5ba505cd4efb5f5925a99d9d328e281ae19d9ae"
+    },
+    {
+     "from": "2026-03-13",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_03_22_256.html",
+     "sha256": "7667a825d357d21dac62dc1e91801f4076e2bdaa52207353eb91d8b9024429b7"
     }
    ]
   },
@@ -39928,6 +41839,27 @@
      "units": 22,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_11_131_1800.html",
      "sha256": "1b05a33da67e9054681685bd3dc8a866ed59a1cd91ee59aa445221ec591e0305"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-2504",
+   "path": "uredba/2023/2504",
+   "short": "Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske",
+   "title": "Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/158/2504",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_158_2504.html",
+     "sha256": "bc839db38254be188fcc4ab083182165371373ade9f310e091901352bc0ea940"
+    },
+    {
+     "from": "2024-02-15",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_14_258.html",
+     "sha256": "be098be3101523436777907c0ecef9dc58ec6ddd5786875ca13541c004ed1a4d"
     }
    ]
   },
@@ -40108,6 +42040,27 @@
      "units": 30,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_33_584.html",
      "sha256": "5331e1716aaeb8912ede4c449d86ba2c612162f07582a2fdc757302858e27ea7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-621",
+   "path": "uredba/2023/621",
+   "short": "Uredba o Tarifi sudskih pristojbi",
+   "title": "Uredba o Tarifi sudskih pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/37/621",
+   "versions": [
+    {
+     "from": "2023-04-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_37_621.html",
+     "sha256": "4838974566d02f9a11d86e412aee5d2139ba026d6e70e87cd2799fd78594a7e2"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_50_624.html",
+     "sha256": "9c095bcb0f6f20fda56e24a7cecf68d28d90d3494ece0e420cad5b4f20545519"
     }
    ]
   },
@@ -42587,6 +44540,27 @@
    ]
   },
   {
+   "slug": "odluka-2024-1877",
+   "path": "odluka/2024/1877",
+   "short": "Odluka o sanaciji Doma za starije osobe Ličko-senjske županije",
+   "title": "Odluka o sanaciji Doma za starije osobe Ličko-senjske županije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/111/1877",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_09_111_1877.html",
+     "sha256": "f7fee5cbe55275cdc5a0395187ce4f8efc002c6ee1426078a56623f413541267"
+    },
+    {
+     "from": "2026-08-27",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_95_1156.html",
+     "sha256": "c0719539adb5f06ad8334f598a2c877526432f86a8058867cee8d5f5bac696d3"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2024-1916",
    "path": "odluka/2024/1916",
    "short": "Odluka Agencije za elektroničke medije, klasa: UP/I-614-03/24-02/03, urbroj: 114-03/04-24-02 od 30. rujna 2024.",
@@ -42658,6 +44632,27 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_10_117_1955.html",
      "sha256": "9dd203cd34d3eaee05ff0c5d3e3d77f411996b77bca5ec75f90ca00cfb7a5417"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2024-196",
+   "path": "odluka/2024/196",
+   "short": "Odluka o osnivanju Savjeta za mlade Vlade Republike Hrvatske",
+   "title": "Odluka o osnivanju Savjeta za mlade Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/10/196",
+   "versions": [
+    {
+     "from": "2024-01-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_01_10_196.html",
+     "sha256": "f65c91c98c00d631c8d54a8d0f7b1e9efcc3c003bc4593cc141ab19f2cc0353c"
+    },
+    {
+     "from": "2025-06-12",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_89_1236.html",
+     "sha256": "f99ba41ce4931f7c6388ebdddc7abdd727d34a1563ffd7c25ec1887a6fe4612f"
     }
    ]
   },
@@ -44248,6 +46243,27 @@
      "units": 14,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_19_312.html",
      "sha256": "19a57d3bbe206436c568b60e06d8aa0f1424c100d4cb09a5f1d83e9587dbfbf7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2024-322",
+   "path": "odluka/2024/322",
+   "short": "Odluka o Registru ovlaštenih pružatelja usluga servisiranja kredita i načinu podnošenja obavijesti o prekograničnom poslovanju",
+   "title": "Odluka o Registru ovlaštenih pružatelja usluga servisiranja kredita i načinu podnošenja obavijesti o prekograničnom poslovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/20/322",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_20_322.html",
+     "sha256": "e103a92b1a77f26059d6ebb6b5a5486c446397e3f651e3b8d52f8653cd1248c4"
+    },
+    {
+     "from": "2024-12-28",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_150_2473.html",
+     "sha256": "50a20eb7f704fb537d6f0cc7cb1da7c3c7f6a0da5eba19398404b7c05b3e8744"
     }
    ]
   },
@@ -47987,6 +50003,48 @@
    ]
   },
   {
+   "slug": "pravilnik-2024-2492",
+   "path": "pravilnik/2024/2492",
+   "short": "Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti",
+   "title": "Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/151/2492",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_151_2492.html",
+     "sha256": "a9b05409b55d8474253bdd269312096f73cd06ba9c75bbfa58dbe118542b64c0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_154_2310.html",
+     "sha256": "24a055a5e0c8f4fed75bff6aa08b0bbd6743de056a102369afe0fc19059a3f64"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2024-2523",
+   "path": "pravilnik/2024/2523",
+   "short": "Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2025. godinu",
+   "title": "Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2025. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/152/2523",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_152_2523.html",
+     "sha256": "c25d65755f434ef2fb110adf287c6d15d23380546e400f53f726c4a13d14c7e7"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_157_2373.html",
+     "sha256": "9fad4f08de9cdfadcb54c74b8e1611904b676c0d311cb58b75baaddf42b9426c"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2024-2528",
    "path": "pravilnik/2024/2528",
    "short": "Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog mirovinskog fonda",
@@ -49442,6 +51500,27 @@
    ]
   },
   {
+   "slug": "uredba-2024-1693",
+   "path": "uredba/2024/1693",
+   "short": "Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu",
+   "title": "Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/92/1693",
+   "versions": [
+    {
+     "from": "2024-08-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_08_92_1693.html",
+     "sha256": "51e9110b1316c0f1a79485cee242c5b95d32d8e8521a7ae8885033bfe5b93c7f"
+    },
+    {
+     "from": "2025-07-31",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_105_1477.html",
+     "sha256": "dde63ab85b83a2feb080f53b1329d3c7203adfa081dc3f4bb0bc3bd28608cefc"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-1694",
    "path": "uredba/2024/1694",
    "short": "Uredba o visini dodataka na osnovni koeficijent za radna mjesta profesionalnih vatrogasaca",
@@ -50102,6 +52181,27 @@
    ]
   },
   {
+   "slug": "zakon-2024-2367",
+   "path": "zakon/2024/2367",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2367",
+   "versions": [
+    {
+     "from": "2024-12-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_145_2367.html",
+     "sha256": "3fd638f0f9504862e0ddf0a1ee013402d5851b4af1a7a10798bcf5027e3f3c86"
+    },
+    {
+     "from": "2025-12-15",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_146_2166.html",
+     "sha256": "d7bdfa6a35e9adbe4c04981e4a1cef6f3f11cc545a2a8901607f658bf10e697a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-2370",
    "path": "zakon/2024/2370",
    "short": "Zakon o izmjenama i dopunama Zakona o kreditnim institucijama",
@@ -50672,6 +52772,27 @@
    ]
   },
   {
+   "slug": "naredba-2025-1175",
+   "path": "naredba/2025/1175",
+   "short": "Naredba o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa te kuge malih preživača u Republici Hrvatskoj",
+   "title": "Naredba o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa te kuge malih preživača u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/86/1175",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_86_1175.html",
+     "sha256": "ea85421f5a7214855d8b01f4488346da9b3893f5da8fe04d676da0a167b377b0"
+    },
+    {
+     "from": "2025-10-16",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_10_129_1875.html",
+     "sha256": "9640c19d88a89fa9f8dcb3ea7c6e1fb4829dca2ff371179b18a200b36667e18b"
+    }
+   ]
+  },
+  {
    "slug": "naredba-2025-1484",
    "path": "naredba/2025/1484",
    "short": "Naredba o prestanku važenja Naredbe o mjerama suzbijanja i sprječavanja pojave bedrenice na području Republike Hrvatske",
@@ -50683,6 +52804,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_105_1484.html",
      "sha256": "e828a3f4954468f5a0194b4af7010d4fb49ec92c43f96e4d5630cb5af50a9b32"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2025-1491",
+   "path": "naredba/2025/1491",
+   "short": "Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Općini Jagodnjak",
+   "title": "Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Općini Jagodnjak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/106/1491",
+   "versions": [
+    {
+     "from": "2025-07-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_106_1491.html",
+     "sha256": "cfef8aee23a9c455f961f24827d1c663dd216988cd7be9a008438788fc8a18e6"
+    },
+    {
+     "from": "2025-10-10",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_10_128_1845.html",
+     "sha256": "dca1b62b388229618dc8abf9b11ed558ae8172baea1dd0cb8f92452696c9c9c7"
     }
    ]
   },
@@ -50818,6 +52960,27 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_156_2357.html",
      "sha256": "adb45e9e503a5255de85a5f6113547d90723d03aa150cd4aaa186f8854bab728"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2025-2366",
+   "path": "naredba/2025/2366",
+   "short": "Naredba o mjerama kontrole i sprječavanja kuge malih preživača u Republici Hrvatskoj",
+   "title": "Naredba o mjerama kontrole i sprječavanja kuge malih preživača u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/157/2366",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_157_2366.html",
+     "sha256": "f6b4880a1e8059a37b52c41dad8933ce12ea5062c97277f2ae23f710144f21ca"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_70_852.html",
+     "sha256": "fb4cb68b7f37edcf5d665c5bf79a4d63a6c10868ca6a3d7668e10425ea736bd3"
     }
    ]
   },
@@ -56297,6 +58460,48 @@
    ]
   },
   {
+   "slug": "odluka-2025-981",
+   "path": "odluka/2025/981",
+   "short": "Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djeteta",
+   "title": "Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djeteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/75/981",
+   "versions": [
+    {
+     "from": "2025-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_05_75_981.html",
+     "sha256": "2afba60e787a867fbc94a9593fbe8681b79d0aa11685dd45383227b6713dbe7c"
+    },
+    {
+     "from": "2026-06-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_66_803.html",
+     "sha256": "5e616da514f868d2e07978262741575a03dc76dac14b6d3ae86878f606c7a496"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2025-982",
+   "path": "odluka/2025/982",
+   "short": "Odluka o tablici o prosječnim potrebama maloljetnog djeteta",
+   "title": "Odluka o tablici o prosječnim potrebama maloljetnog djeteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/75/982",
+   "versions": [
+    {
+     "from": "2025-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_05_75_982.html",
+     "sha256": "cf380f8ccf72ad9af434cff6adfd98e259243a20928c7f37555b18d995941037"
+    },
+    {
+     "from": "2026-06-25",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_66_804.html",
+     "sha256": "00bdda180d0c93177fec859e35c257846898a378fdf9b4d477b52fbf07de3530"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2025-986",
    "path": "odluka/2025/986",
    "short": "Odluka o davanju naknadne suglasnosti na Statut o izmjenama i dopunama Statuta Hrvatskoga zavoda za zapošljavanje",
@@ -59938,6 +62143,27 @@
      "units": 18,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_93_1267.html",
      "sha256": "9cebcac72ed2466315c680adbbb809bffb8aab2fc9d52814cd7e542286ab2464"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-1291",
+   "path": "uredba/2025/1291",
+   "short": "Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode",
+   "title": "Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/95/1291",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_95_1291.html",
+     "sha256": "8134a7835bfb970b482d4692f213bc58caa58d0b0b353ba8e64b5304b279048a"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_158_2389.html",
+     "sha256": "6462c5ae591f0f2798a4672084c40a363c98007f5459af0cc7bb67a67e98beb7"
     }
    ]
   },
@@ -64037,6 +66263,27 @@
    ]
   },
   {
+   "slug": "odluka-2026-570",
+   "path": "odluka/2026/570",
+   "short": "Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/47/570",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_47_570.html",
+     "sha256": "4b61a70510e5308761e6c74128020a046dfee22f599be035121532a289dd3dd7"
+    },
+    {
+     "from": "2026-10-15",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_111_1319.html",
+     "sha256": "7435e173ee2569d7855b5776e56fee578b6eb41d82dc1de343057120a89216ff"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2026-590",
    "path": "odluka/2026/590",
    "short": "Odluka o izmjenama Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije",
@@ -64453,6 +66700,27 @@
      "units": 16,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_68_822.html",
      "sha256": "1600c6499a151054235ea43a252b3245bac261e0d7fede51528e91072de9647d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2026-83",
+   "path": "odluka/2026/83",
+   "short": "Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika",
+   "title": "Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/11/83",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_01_11_83.html",
+     "sha256": "0e694ee52df9e42ddf15ec39da59d935942aafd20f7d3636e69d91c5cb69e404"
+    },
+    {
+     "from": "2026-10-21",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_121_1441.html",
+     "sha256": "13f7592efeed134e9c2d273cad6491b96ef91ee2367afa3287cef804a7e7f1d6"
     }
    ]
   },
@@ -65053,6 +67321,21 @@
      "units": 17,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1100.html",
      "sha256": "5c180291e7381a451c038b5ba7aac715f50d3ddaed2ccd9c4d87da932080d7dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-1101",
+   "path": "pravilnik/2026/1101",
+   "short": "Pravilnik o registru medijatora",
+   "title": "Pravilnik o registru medijatora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/87/1101",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1101.html",
+     "sha256": "a630a57c1397a20ab75dd03ed51a28a1a73b90ae3b3165a7d8e2bf7e1fd117a3"
     }
    ]
   },
@@ -66823,6 +69106,21 @@
      "units": 42,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_65_790.html",
      "sha256": "a919556df054d06ca13379c9588f132b395ac30e14f58194bca1a8247e94d412"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-801",
+   "path": "pravilnik/2026/801",
+   "short": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
+   "title": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/66/801",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_66_801.html",
+     "sha256": "f79c050d9010359c42f6393d644ce3dbadd0718dceadd5602c438d41a114a1ea"
     }
    ]
   },
@@ -68653,36 +70951,6 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_77_904.html",
      "sha256": "093fc91e633ab83af171d47ca67de004c376e2c1852ddaec9da54c5e0c09b6f2"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2026-1101",
-   "path": "pravilnik/2026/1101",
-   "short": "Pravilnik o registru medijatora",
-   "title": "Pravilnik o registru medijatora",
-   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/87/1101",
-   "versions": [
-    {
-     "from": "2026-08-18",
-     "units": 18,
-     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1101.html",
-     "sha256": "a630a57c1397a20ab75dd03ed51a28a1a73b90ae3b3165a7d8e2bf7e1fd117a3"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2026-801",
-   "path": "pravilnik/2026/801",
-   "short": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
-   "title": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
-   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/66/801",
-   "versions": [
-    {
-     "from": "2026-07-02",
-     "units": 4,
-     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_66_801.html",
-     "sha256": "f79c050d9010359c42f6393d644ce3dbadd0718dceadd5602c438d41a114a1ea"
     }
    ]
   }

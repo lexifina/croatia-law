@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4579 acts, 4,579 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4687 acts, 4,795 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -38,7 +38,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (40, of which 8 amending acts)
+## naredba (45, of which 8 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -47,6 +47,7 @@
 | Naredba o mjerama zaštite zdravlja životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2020. godini | [`naredba/2020/155/`](naredba/2020/155/) | in force | 1 | 2020-01-18 | 2020-01-18 |
 | Naredba o privremenom stavljanju izvan snage Naredbe o ograničenju prometa na cestama (»Narodne novine«, broj 64/09) | [`naredba/2020/932/`](naredba/2020/932/) | in force | 1 | 2020-03-31 | 2020-03-31 |
 | Naredba o prestanku važenja Naredbe o mjerama za sprječavanje pojave i širenja influence ptica na području Republike Hrvatske | [`naredba/2020/1936/`](naredba/2020/1936/) | in force | 1 | 2020-09-18 | 2020-09-18 |
+| Naredba o mjerama za sprječavanje pojave i širenja influence ptica na zaraženim i ugroženim područjima Republike Hrvatske | [`naredba/2020/2477/`](naredba/2020/2477/) | repealed 2021-12-05 | 2 | 2020-11-26 | 2021-12-05 |
 | Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2021. godinu | [`naredba/2020/2735/`](naredba/2020/2735/) | in force | 1 | 2020-12-26 | 2020-12-26 |
 | Naredba o izmjeni i dopuni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2021. godini | [`naredba/2021/147/`](naredba/2021/147/) | amending act | 1 | 2021-01-28 | 2021-01-28 |
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Zadarske županije | [`naredba/2021/540/`](naredba/2021/540/) | amending act | 1 | 2021-03-18 | 2021-03-18 |
@@ -55,6 +56,7 @@
 | Naredba o izmjeni i dopuni Naredbe o mjerama za sprječavanje pojave i širenja influence ptica na području Republike Hrvatske | [`naredba/2022/675/`](naredba/2022/675/) | amending act | 1 | 2022-05-05 | 2022-05-05 |
 | Naredba o poduzimanju mjera za sprječavanje širenja i suzbijanje crne štitaste uši araukarije - Lindingaspis rossi (Maskell) | [`naredba/2022/1083/`](naredba/2022/1083/) | in force | 1 | 2022-07-05 | 2022-07-05 |
 | Naredba o izmjenama i dopunama Naredbe o mjerama zaštite zdravlja životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2022. godini | [`naredba/2022/1394/`](naredba/2022/1394/) | amending act | 1 | 2022-08-04 | 2022-08-04 |
+| Naredba o mjerama suzbijanja i sprječavanja pojave bedrenice na području Republike Hrvatske | [`naredba/2022/1410/`](naredba/2022/1410/) | repealed 2025-07-24 | 2 | 2022-08-11 | 2025-07-24 |
 | Naredba o poduzimanju mjera za sprječavanje širenja i suzbijanje azijske strizibube - Anoplophora chinensis (forster 1771 ) | [`naredba/2022/2093/`](naredba/2022/2093/) | in force | 1 | 2022-12-08 | 2022-12-08 |
 | Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2023. godinu | [`naredba/2023/182/`](naredba/2023/182/) | in force | 1 | 2023-01-21 | 2023-01-21 |
 | Naredba o izmjenama Naredbe o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2023. godinu | [`naredba/2023/766/`](naredba/2023/766/) | in force | 1 | 2023-04-22 | 2023-04-22 |
@@ -66,7 +68,9 @@
 | Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2025. godinu | [`naredba/2025/214/`](naredba/2025/214/) | in force | 1 | 2025-02-13 | 2025-02-13 |
 | Naredba o izmjeni Naredbe o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2025. godinu | [`naredba/2025/231/`](naredba/2025/231/) | in force | 1 | 2025-02-15 | 2025-02-15 |
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Splitsko-dalmatinske županije | [`naredba/2025/784/`](naredba/2025/784/) | amending act | 1 | 2025-04-05 | 2025-04-05 |
+| Naredba o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa te kuge malih preživača u Republici Hrvatskoj | [`naredba/2025/1175/`](naredba/2025/1175/) | repealed 2025-10-16 | 2 | 2025-06-05 | 2025-10-16 |
 | Naredba o prestanku važenja Naredbe o mjerama suzbijanja i sprječavanja pojave bedrenice na području Republike Hrvatske | [`naredba/2025/1484/`](naredba/2025/1484/) | in force | 1 | 2025-07-24 | 2025-07-24 |
+| Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Općini Jagodnjak | [`naredba/2025/1491/`](naredba/2025/1491/) | repealed 2025-10-10 | 2 | 2025-07-26 | 2025-10-10 |
 | Naredba o dopunama i izmjenama Naredbe o provedbi i financiranju mjera sprječavanja, kontrole i nadziranja bolesti životinja na području Republike Hrvatske | [`naredba/2025/1534/`](naredba/2025/1534/) | amending act | 1 | 2025-07-31 | 2025-07-31 |
 | Naredba o prestanku važenja Naredbe o mjerama sprječavanja pojave i ranog otkrivanja slinavke i šapa i kuge malih preživača u Republici Hrvatskoj | [`naredba/2025/1875/`](naredba/2025/1875/) | in force | 1 | 2025-10-16 | 2025-10-16 |
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Šibensko-kninske županije | [`naredba/2025/2115/`](naredba/2025/2115/) | amending act | 1 | 2025-11-29 | 2025-11-29 |
@@ -74,6 +78,7 @@
 | Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2026. godinu | [`naredba/2025/2237/`](naredba/2025/2237/) | in force | 1 | 2025-12-13 | 2025-12-13 |
 | Naredba o poduzimanju i sufinanciranju mjera za sprječavanje širenja i suzbijanje zlatne žutice vinove loze (Grapevine flavescence dorée) koju uzrokuje fitoplazma Candidatus Phytoplasma vitis | [`naredba/2025/2304/`](naredba/2025/2304/) | in force | 1 | 2025-12-19 | 2025-12-19 |
 | Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2026. godinu | [`naredba/2025/2357/`](naredba/2025/2357/) | in force | 1 | 2025-12-25 | 2025-12-25 |
+| Naredba o mjerama kontrole i sprječavanja kuge malih preživača u Republici Hrvatskoj | [`naredba/2025/2366/`](naredba/2025/2366/) | repealed 2026-07-01 | 2 | 2025-12-30 | 2026-07-01 |
 | Naredba o zabrani uporabe didušikovog monoksida (N₂O) | [`naredba/2026/617/`](naredba/2026/617/) | in force | 1 | 2026-06-01 | 2026-06-01 |
 | Naredba o prestanku važenja Naredbe o poduzimanju mjera za sprječavanje širenja i suzbijanje sredozemne voćne muhe - Ceratitis capitata (Wiedemann) | [`naredba/2026/684/`](naredba/2026/684/) | in force | 1 | 2026-05-25 | 2026-05-25 |
 | Naredba o izmjenama Naredbe o popisu iskrcajnih mjesta za iskrcaj ulova s ribarskih plovila koja obavljaju gospodarski ribolov na moru | [`naredba/2026/703/`](naredba/2026/703/) | in force | 1 | 2026-05-30 | 2026-05-30 |
@@ -83,7 +88,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2384, of which 322 amending acts)
+## odluka (2448, of which 322 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -246,6 +251,11 @@
 | Odluka o izmjeni Odluke o obustavi izvođenja nastave u visokim učilištima, srednjim i osnovnim školama te redovnog rada ustanova predškolskog odgoja i obrazovanja i uspostavi nastave na daljinu | [`odluka/2020/711/`](odluka/2020/711/) | in force | 1 | 2020-03-19 | 2020-03-19 |
 | Odluka o usvajanju Izmjena Programa »ESIF mikro i mali zajmovi« i »ESIF jamstva« Hrvatske agencije za malo gospodarstvo, inovacije i investicije | [`odluka/2020/718/`](odluka/2020/718/) | in force | 1 | 2020-03-19 | 2020-03-19 |
 | Odluka o dopuni Odluke o zabrani novog zapošljavanja službenika i namještenika u javnim službama | [`odluka/2020/719/`](odluka/2020/719/) | amending act | 1 | 2020-03-28 | 2020-03-28 |
+| Odluka o utvrđivanju ovlaštenih zdravstvenih ustanova u kojima se obavlja stručna procjena radi ostvarivanja statusa hrvatskog ratnog vojnog invalida po osnovi bolesti, pogoršanja bolesti odnosno pojave bolesti kao posljedice sudjelovanja u obrani suvereniteta Republike Hrvatske, za 2020. godinu | [`odluka/2020/725/`](odluka/2020/725/) | repealed 2021-07-31 | 2 | 2020-03-28 | 2021-07-31 |
+| Odluka o mjerama ograničavanja javnog prijevoza u linijskom obalnom pomorskom prometu | [`odluka/2020/732/`](odluka/2020/732/) | repealed 2020-05-18 | 2 | 2020-03-21 | 2020-05-18 |
+| Odluka o uvođenju nužne mjere posebne organizacije rada epidemiološke službe i posebnih epidemioloških mjera vezanih uz virus SARS CoV-2 za vrijeme proglašene epidemije bolesti COVID19 | [`odluka/2020/738/`](odluka/2020/738/) | repealed 2022-04-09 | 2 | 2020-03-23 | 2022-04-09 |
+| Odluka o uvođenju nužne mjere posebne organizacije hitne medicinske službe i sanitetskog prijevoza za vrijeme proglašene epidemije bolesti COVID19 | [`odluka/2020/739/`](odluka/2020/739/) | repealed 2022-04-09 | 2 | 2020-03-23 | 2022-04-09 |
+| Odluka o općim i specifičnim mjerama zaštite koje obavezno provode pružatelji usluge taxi prijevoza | [`odluka/2020/740/`](odluka/2020/740/) | repealed 2022-04-09 | 2 | 2020-03-21 | 2022-04-09 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Srbiji, sa sjedištem u Beogradu | [`odluka/2020/745/`](odluka/2020/745/) | in force | 1 | 2020-03-25 | 2020-03-25 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Kambodži, sa sjedištem u Kuala Lumpuru | [`odluka/2020/746/`](odluka/2020/746/) | in force | 1 | 2020-03-18 | 2020-03-18 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kirigijskoj Republici, sa sjedištem u Nur-Sultanu | [`odluka/2020/747/`](odluka/2020/747/) | in force | 1 | 2020-03-18 | 2020-03-18 |
@@ -255,12 +265,15 @@
 | Odluka o otvaranju računa za donacije financijskih sredstava u akciji »Hrvatska protiv koronavirusa« | [`odluka/2020/751/`](odluka/2020/751/) | in force | 1 | 2020-03-24 | 2020-03-24 |
 | Odluka o namjeni korištenja sredstava i odgodi plaćanja novčane naknade zbog neispunjenja obveze kvotnog zapošljavanja osoba s invaliditetom | [`odluka/2020/762/`](odluka/2020/762/) | in force | 1 | 2020-03-20 | 2020-03-20 |
 | Odluka o izmjenama Odluke o obveznoj pričuvi | [`odluka/2020/772/`](odluka/2020/772/) | in force | 1 | 2020-03-25 | 2020-03-25 |
+| Odluka o općinskim porezima Općine Dvor | [`odluka/2020/773/`](odluka/2020/773/) | repealed 2024-01-01 | 2 | 2020-01-01 | 2024-01-01 |
 | Odluka o provedbi Provedbene uredbe Komisije (EU) 2020/402 od 14. ožujka 2020. o uvođenju obveze predočenja odobrenja u slučaju izvoza određenih proizvoda | [`odluka/2020/793/`](odluka/2020/793/) | in force | 1 | 2020-03-28 | 2020-03-28 |
 | Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Uljanik | [`odluka/2020/794/`](odluka/2020/794/) | in force | 1 | 2020-03-26 | 2020-03-26 |
+| Odluka o uvođenju nužne mjere posebne organizacije ustanova socijalne skrbi i drugih pružatelja socijalnih usluga za vrijeme proglašene epidemije bolesti COVID-19 | [`odluka/2020/809/`](odluka/2020/809/) | repealed 2022-04-09 | 2 | 2020-03-25 | 2022-04-09 |
 | Odluka o uvođenju izvanrednog međugradskog prometa | [`odluka/2020/810/`](odluka/2020/810/) | in force | 1 | 2020-03-25 | 2020-03-25 |
 | Odluka o izmjeni i dopuni Odluke o zabrani napuštanja mjesta prebivališta i stalnog boravka u Republici Hrvatskoj | [`odluka/2020/833/`](odluka/2020/833/) | amending act | 1 | 2020-04-01 | 2020-04-01 |
 | Odluka Agencije za elektroničke medije klasa: UP/I-612-12/20-02/0002, urbroj: 567-06/04-20-04 od 18. ožujka 2020. | [`odluka/2020/844/`](odluka/2020/844/) | in force | 1 | 2020-03-18 | 2020-03-18 |
 | Odluka o izmjeni i dopuni Odluke o Uredu predsjednika Republike Hrvatske | [`odluka/2020/852/`](odluka/2020/852/) | amending act | 1 | 2020-04-04 | 2020-04-04 |
+| Odluka o ograničavanju korištenja sredstava predviđenih Državnim proračunom Republike Hrvatske i financijskim planovima izvanproračunskih korisnika Državnog proračuna za 2020. godinu | [`odluka/2020/855/`](odluka/2020/855/) | repealed 2020-05-20 | 2 | 2020-04-04 | 2020-05-20 |
 | Odluka o privremenom odgađanju primjene fiskalnih pravila | [`odluka/2020/856/`](odluka/2020/856/) | in force | 1 | 2020-04-02 | 2020-04-02 |
 | Odluka o provedbi privremene izvanredne mjere pomoći malim mljekarama s problemima u poslovanju uzrokovanih epidemijom bolesti COVID-19 | [`odluka/2020/858/`](odluka/2020/858/) | in force | 1 | 2020-04-02 | 2020-04-02 |
 | Odluka o uvjetima i kriterijima koje pri javnoj nabavi moraju zadovoljiti poljoprivredni i prehrambeni proizvodi | [`odluka/2020/859/`](odluka/2020/859/) | in force | 1 | 2020-04-04 | 2020-04-04 |
@@ -284,11 +297,14 @@
 | Odluka o ukidanju nužne mjere zabrane napuštanja mjesta prebivališta i stalnog boravka na području cijele Primorsko-goranske županije | [`odluka/2020/1070/`](odluka/2020/1070/) | in force | 1 | 2020-04-30 | 2020-04-30 |
 | Odluka o izmjeni Odluke o ukidanju nužne mjere zabrane napuštanja mjesta prebivališta i stalnog boravka na području Ličko-senjske županije | [`odluka/2020/1071/`](odluka/2020/1071/) | in force | 1 | 2020-04-30 | 2020-04-30 |
 | Odluka o izmjenama i dopuni Odluke o mjerama prilikom sklapanja braka i životnog partnerstva | [`odluka/2020/1088/`](odluka/2020/1088/) | amending act | 1 | 2020-05-04 | 2020-05-04 |
+| Odluka o načinu korištenja dječjih igrališta i otvorenih sportskih igrališta te načinu bavljenja rekreativnim sportom na otvorenom za vrijeme trajanja proglašene epidemije bolesti COVID-19 | [`odluka/2020/1089/`](odluka/2020/1089/) | repealed 2022-03-18 | 2 | 2020-05-04 | 2022-03-18 |
 | Odluka o izmjenama i dopunama Odluke o načinu održavanja pogreba i posljednjih ispraćaja | [`odluka/2020/1090/`](odluka/2020/1090/) | amending act | 1 | 2020-05-04 | 2020-05-04 |
+| Odluka o načinu izvođenja nastave u osnovnim i srednjim školama kao i na visokim učilištima te obavljanju redovnog rada ustanova predškolskog odgoja i obrazovanja | [`odluka/2020/1094/`](odluka/2020/1094/) | repealed 2020-09-05 | 2 | 2020-05-11 | 2020-09-05 |
 | Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2020. godinu | [`odluka/2020/1095/`](odluka/2020/1095/) | in force | 1 | 2020-05-09 | 2020-05-09 |
 | Odluka o donošenju Nacionalnog plana djelovanja za uporabu frekvencijskog pojasa 470-790 MHz | [`odluka/2020/1096/`](odluka/2020/1096/) | in force | 1 | 2020-05-07 | 2020-05-07 |
 | Odluka o stavljanju izvan snage Odluke o organizaciji rada tijela državne uprave za vrijeme trajanja epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 | [`odluka/2020/1097/`](odluka/2020/1097/) | in force | 1 | 2020-05-11 | 2020-05-11 |
 | Odluka o upisu ulovnih ribarskih plovila koja obavljaju ribolov plivaricom tunolovkom u Registar ulovnih brodova ICCAT-a (ICCAT RECORD OF BFT CATCHING VESSELS) u 2020. godini | [`odluka/2020/1104/`](odluka/2020/1104/) | in force | 1 | 2020-05-09 | 2020-05-09 |
+| Odluka o mjerama za vozače teretnih vozila međunarodnog transporta za vrijeme proglašene epidemije bolesti COVID-19 | [`odluka/2020/1112/`](odluka/2020/1112/) | repealed 2022-03-18 | 2 | 2020-05-07 | 2022-03-18 |
 | Odluka o izmjeni i dopuni Odluke o odvijanju i načinu organizacije javnog prometa za vrijeme trajanja proglašene epidemije bolesti COVID-19 | [`odluka/2020/1134/`](odluka/2020/1134/) | amending act | 1 | 2020-05-11 | 2020-05-11 |
 | Odluka o stavljanju izvan snage Odluke o zabrani napuštanja mjesta prebivališta i stalnog boravka u Republici Hrvatskoj | [`odluka/2020/1135/`](odluka/2020/1135/) | in force | 1 | 2020-05-11 | 2020-05-11 |
 | Odluka o donošenju Izmjena i dopune Programa energetske obnove obiteljskih kuća za razdoblje od 2014. do 2020. godine s detaljnim planom za razdoblje od 2014. do 2016. godine | [`odluka/2020/1146/`](odluka/2020/1146/) | amending act | 1 | 2020-05-14 | 2020-05-14 |
@@ -344,6 +360,7 @@
 | Odluka o davanju suglasnosti na Odluku Županijske skupštine Splitsko-dalmatinske županije o izmjenama Odluke o osnivanju Lučke uprave Splitsko-dalmatinske županije | [`odluka/2020/1388/`](odluka/2020/1388/) | in force | 1 | 2020-06-18 | 2020-06-18 |
 | Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2020./2021. | [`odluka/2020/1409/`](odluka/2020/1409/) | in force | 1 | 2020-06-25 | 2020-06-25 |
 | Odluka Agencije za elektroničke medije klasa: 612-12/10-02/0046, urbroj: 567-06-20-28 od 18. lipnja 2020. | [`odluka/2020/1411/`](odluka/2020/1411/) | in force | 1 | 2020-06-18 | 2020-06-18 |
+| Odluka o kontroli pridržavanja Preporuke za sprječavanje zaraze bolešću COVID-19 u ugostiteljskoj djelatnosti noćnih klubova | [`odluka/2020/1438/`](odluka/2020/1438/) | repealed 2022-04-09 | 2 | 2020-06-26 | 2022-04-09 |
 | Odluka o otpisu potraživanja po računima za stanove i poslovne prostore u vlasništvu Republike Hrvatske zbog epidemije bolesti COVID-19 uzrokovane virusom SARS-CoV-2 i potresa koji je pogodio područje Grada Zagreba, Zagrebačke županije i Krapinsko-zagorske županije | [`odluka/2020/1468/`](odluka/2020/1468/) | in force | 1 | 2020-07-04 | 2020-07-04 |
 | Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka u Novigradskom moru | [`odluka/2020/1469/`](odluka/2020/1469/) | in force | 1 | 2020-07-02 | 2020-07-02 |
 | Odluka o dopuni Odluke o utvrđivanju Nacionalne i sveučilišne knjižnice u Zagrebu jednim od središnjih prostora za provedbu aktivnosti Predsjedanja Republike Hrvatske Vijećem Europske unije 2020 u Republici Hrvatskoj | [`odluka/2020/1470/`](odluka/2020/1470/) | amending act | 1 | 2020-07-02 | 2020-07-02 |
@@ -367,14 +384,19 @@
 | Odluka o izboru predsjednice, potpredsjednice i članova Odbora za poljoprivredu Hrvatskoga sabora | [`odluka/2020/1713/`](odluka/2020/1713/) | in force | 1 | 2020-07-31 | 2020-07-31 |
 | Odluka o izmjeni Odluke o uvođenju nužne epidemiološke mjere za Vukovarsko-srijemsku županiju | [`odluka/2020/1753/`](odluka/2020/1753/) | in force | 1 | 2020-08-04 | 2020-08-04 |
 | Odluka o izmjenama i dopunama Odluke o velikim izloženostima kreditnih institucija | [`odluka/2020/1769/`](odluka/2020/1769/) | amending act | 1 | 2020-08-22 | 2020-08-22 |
+| Odluka o iznosu tarifnih stavki za distribuciju plina za energetski subjekt HEP-PLIN d.o.o., Cara Hadrijana 7, Osijek | [`odluka/2020/1783/`](odluka/2020/1783/) | repealed 2022-01-01 | 2 | 2020-09-01 | 2022-01-01 |
 | Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. rujna do 31. prosinca 2020. te za razdoblje od 1. siječnja do 31. ožujka 2021. za energetski subjekt HEP-PLIN d.o.o., Cara Hadrijana 7, Osijek | [`odluka/2020/1784/`](odluka/2020/1784/) | in force | 1 | 2020-09-01 | 2020-09-01 |
 | Odluka o izmjeni i dopuni Odluke o nužnoj mjeri ograničavanja radnog vremena ugostiteljskih objekata iz kategorije »Barovi« | [`odluka/2020/1801/`](odluka/2020/1801/) | amending act | 1 | 2020-08-21 | 2020-08-21 |
 | Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Imotskog i općina Cista Provo, Lovreć, Lokvičići, Podbablje, Proložac, Runovići, Zagvozd i Zmijavci | [`odluka/2020/1802/`](odluka/2020/1802/) | in force | 1 | 2020-08-22 | 2020-08-22 |
+| Odluka o uvođenju nužne epidemiološke mjere ograničenja svadbenih svečanosti za područje Brodsko-posavske županije | [`odluka/2020/1803/`](odluka/2020/1803/) | repealed 2020-08-28 | 2 | 2020-08-25 | 2020-08-28 |
 | Odluka o uvođenju nužne epidemiološke mjere načina održavanja priredbi, festivala i drugih manifestacija na području Međimurske županije | [`odluka/2020/1844/`](odluka/2020/1844/) | in force | 1 | 2020-08-28 | 2020-08-28 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2020. | [`odluka/2020/1853/`](odluka/2020/1853/) | in force | 1 | 2020-09-10 | 2020-09-10 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2020. | [`odluka/2020/1854/`](odluka/2020/1854/) | in force | 1 | 2020-09-10 | 2020-09-10 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2020. | [`odluka/2020/1855/`](odluka/2020/1855/) | in force | 1 | 2020-09-10 | 2020-09-10 |
+| Odluka o načinu izvođenja nastave u osnovnim i srednjim školama kao i na visokim učilištima te obavljanju rada u ustanovama predškolskog odgoja i obrazovanja u uvjetima epidemije COVID-19 | [`odluka/2020/1876/`](odluka/2020/1876/) | repealed 2021-09-04 | 2 | 2020-09-05 | 2021-09-04 |
 | Odluka o raspisivanju prijevremenih izbora za zamjenika župana Šibensko-kninske županije iz reda pripadnika srpske nacionalne manjine | [`odluka/2020/1877/`](odluka/2020/1877/) | in force | 1 | 2020-09-17 | 2020-09-17 |
+| Odluka o nužnoj mjeri pojačane kontrole provođenja Upute za sprječavanje i suzbijanje epidemije COVID-19 za pružatelje socijalnih usluga u sustavu socijalne skrbi | [`odluka/2020/1885/`](odluka/2020/1885/) | repealed 2022-04-09 | 2 | 2020-09-03 | 2022-04-09 |
+| Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Otočca | [`odluka/2020/1895/`](odluka/2020/1895/) | repealed 2020-09-22 | 2 | 2020-09-08 | 2020-09-22 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Ukrajini, sa sjedištem u Odesi | [`odluka/2020/1900/`](odluka/2020/1900/) | in force | 1 | 2020-09-04 | 2020-09-04 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Ukrajini, sa sjedištem u Odesi | [`odluka/2020/1901/`](odluka/2020/1901/) | in force | 1 | 2020-09-04 | 2020-09-04 |
 | Odluka o izmjenama Odluke o osnivanju Nacionalnog koordinacijskog odbora za europske strukturne i investicijske fondove i instrumente Europske unije u Republici Hrvatskoj | [`odluka/2020/1903/`](odluka/2020/1903/) | in force | 1 | 2020-09-10 | 2020-09-10 |
@@ -473,11 +495,14 @@
 | Odluka o načinu ispravljanja pogrešaka i stavljanju izvan snage odluka donesenih u neupravnom postupku | [`odluka/2020/2684/`](odluka/2020/2684/) | in force | 1 | 2020-12-22 | 2020-12-22 |
 | Odluka o donošenju Dugoročne strategije obnove nacionalnog fonda zgrada do 2050. godine | [`odluka/2020/2704/`](odluka/2020/2704/) | in force | 1 | 2020-12-14 | 2020-12-14 |
 | Odluka o potvrđivanju Izmjena i dopuna Statuta Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2020/2705/`](odluka/2020/2705/) | amending act | 1 | 2020-12-14 | 2020-12-14 |
+| Odluka o gradskim porezima Grada Kutine | [`odluka/2020/2715/`](odluka/2020/2715/) | repealed 2024-01-01 | 2 | 2021-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o lokalnim porezima i o prirezu porezu na dohodak Grada Zagreba | [`odluka/2020/2716/`](odluka/2020/2716/) | in force | 1 | 2021-01-01 | 2021-01-01 |
 | Odluka o izmjenama Odluke o porezima Grada Svetog Ivana Zeline | [`odluka/2020/2717/`](odluka/2020/2717/) | in force | 1 | 2021-01-01 | 2021-01-01 |
+| Odluka o osnivanju Vijeća za demografsku revitalizaciju Republike Hrvatske | [`odluka/2020/2731/`](odluka/2020/2731/) | repealed 2024-11-30 | 2 | 2020-12-19 | 2024-11-30 |
 | Odluka o davanju prethodne suglasnosti na Prijedlog statuta Fonda za obnovu Grada Zagreba, Krapinsko-zagorske županije i Zagrebačke županije | [`odluka/2020/2732/`](odluka/2020/2732/) | in force | 1 | 2020-12-17 | 2020-12-17 |
 | Odluka o dopunama Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika »SA-09« | [`odluka/2020/2733/`](odluka/2020/2733/) | amending act | 1 | 2020-12-17 | 2020-12-17 |
 | Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 2021. godinu | [`odluka/2020/2740/`](odluka/2020/2740/) | in force | 1 | 2021-01-01 | 2021-01-01 |
+| Odluka o zabrani napuštanja županije prema mjestu prebivališta ili boravišta u Republici Hrvatskoj | [`odluka/2020/2745/`](odluka/2020/2745/) | repealed 2020-12-29 | 2 | 2020-12-23 | 2020-12-29 |
 | Odluka o izmjenama Odluke o uvođenju nužnih epidemioloških mjera za područje Varaždinske županije | [`odluka/2020/2746/`](odluka/2020/2746/) | in force | 1 | 2020-12-22 | 2020-12-22 |
 | Odluka o donošenju Plana i programa mjera zdravstvene zaštite 2020. - 2022. | [`odluka/2020/2753/`](odluka/2020/2753/) | in force | 1 | 2020-12-29 | 2020-12-29 |
 | Odluka o posebnoj sigurnosnoj mjeri određivanja Klinike za plućne bolesti Jordanovac, Kliničkog bolničkog centra Zagreb za zbrinjavanje pacijenata s teškim kompleksnim patološkim stanjem kao posljedicom preboljele bolesti COVID-19 uzrokovane virusom SARS-CoV-2 | [`odluka/2020/2778/`](odluka/2020/2778/) | in force | 1 | 2020-12-24 | 2020-12-24 |
@@ -531,6 +556,7 @@
 | Odluka o usklađenju sredstava jamstvenog pologa za 2021. godinu | [`odluka/2021/226/`](odluka/2021/226/) | in force | 1 | 2021-02-11 | 2021-02-11 |
 | Odluka o donošenju Programa dodjele potpora male vrijednosti za sanaciju šteta od potresa poduzetnicima koji obavljaju djelatnosti prerade drva i proizvodnje namještaja na području Sisačko-moslavačke, Zagrebačke i Karlovačke županije | [`odluka/2021/279/`](odluka/2021/279/) | in force | 1 | 2021-02-11 | 2021-02-11 |
 | Odluka o provedbi Provedbene uredbe Komisije (EU) 2021/111 оd 29. siječnja 2021. o uvođenju obveze predočenja odobrenja u slučaju izvoza određenih proizvoda | [`odluka/2021/280/`](odluka/2021/280/) | in force | 1 | 2021-02-13 | 2021-02-13 |
+| Odluka o osnivanju Vijeća za djecu | [`odluka/2021/281/`](odluka/2021/281/) | repealed 2024-09-06 | 2 | 2021-02-11 | 2024-09-06 |
 | Odluka o izmjenama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2021/283/`](odluka/2021/283/) | in force | 1 | 2021-02-11 | 2021-02-11 |
 | Odluka o dopuni Odluke o uvođenju nužnih epidemioloških mjera za područje Krapinsko-zagorske županije | [`odluka/2021/290/`](odluka/2021/290/) | amending act | 1 | 2021-02-13 | 2021-02-13 |
 | Odluka o uvođenju nužne epidemiološke mjere obustave rada casina, automat klubova i uplatnih mjesta za klađenje na području Istarske županije | [`odluka/2021/299/`](odluka/2021/299/) | in force | 1 | 2021-02-15 | 2021-02-15 |
@@ -553,6 +579,7 @@
 | Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu odnosno zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2020. | [`odluka/2021/550/`](odluka/2021/550/) | in force | 1 | 2021-03-18 | 2021-03-18 |
 | Odluka o faktoru osnovne mirovine od 1. siječnja 2021. | [`odluka/2021/551/`](odluka/2021/551/) | in force | 1 | 2021-03-18 | 2021-03-18 |
 | Odluka o donošenju Nacionalnog plana razvoja širokopojasnog pristupa u Republici Hrvatskoj u razdoblju od 2021. do 2027. godine | [`odluka/2021/571/`](odluka/2021/571/) | in force | 1 | 2021-03-11 | 2021-03-11 |
+| Odluka o osnivanju Savjeta za mlade | [`odluka/2021/572/`](odluka/2021/572/) | repealed 2024-01-25 | 2 | 2021-03-11 | 2024-01-25 |
 | Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje Grada Dubrovnika, Općine Konavle, Općine Župa dubrovačka, Općine Dubrovačko primorje i Općine Ston | [`odluka/2021/580/`](odluka/2021/580/) | in force | 1 | 2021-03-13 | 2021-03-13 |
 | Odluka o izmjenama i dopunama Odluke o kupoprodaji plasmana kreditnih institucija | [`odluka/2021/582/`](odluka/2021/582/) | amending act | 1 | 2021-03-20 | 2021-03-20 |
 | Odluka o izmjeni i dopuni Odluke o lokalnim porezima Grada Labina | [`odluka/2021/598/`](odluka/2021/598/) | amending act | 1 | 2021-02-01 | 2021-02-01 |
@@ -573,6 +600,7 @@
 | Odluka o određivanju nadležnog tijela za sigurnost opskrbe električnom energijom | [`odluka/2021/717/`](odluka/2021/717/) | in force | 1 | 2021-04-10 | 2021-04-10 |
 | Odluka o dopuni Odluke o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola za školsku godinu 2020./2021. | [`odluka/2021/721/`](odluka/2021/721/) | amending act | 1 | 2021-04-03 | 2021-04-03 |
 | Odluka o izmjeni naziva Moderne galerije u Nacionalni muzej moderne umjetnosti | [`odluka/2021/722/`](odluka/2021/722/) | in force | 1 | 2021-04-01 | 2021-04-01 |
+| Odluka o porezima Grada Daruvara | [`odluka/2021/744/`](odluka/2021/744/) | repealed 2024-01-01 | 2 | 2022-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Tisno | [`odluka/2021/753/`](odluka/2021/753/) | in force | 1 | 2022-01-01 | 2022-01-01 |
 | Odluka o promjeni granice pomorskog dobra radi građenja, rekonstrukcije i održavanja državne ceste DC403 | [`odluka/2021/760/`](odluka/2021/760/) | in force | 1 | 2021-04-08 | 2021-04-08 |
 | Odluka o promjeni granice pomorskog dobra radi građenja, rekonstrukcije i održavanja državne ceste DC66 i DC75 | [`odluka/2021/761/`](odluka/2021/761/) | in force | 1 | 2021-04-08 | 2021-04-08 |
@@ -590,10 +618,13 @@
 | Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2021. godinu | [`odluka/2021/837/`](odluka/2021/837/) | in force | 1 | 2021-04-24 | 2021-04-24 |
 | Odluka o izmjenama i dopuni Odluke o osnivanju Nacionalnog vijeća za održivi razvoj | [`odluka/2021/838/`](odluka/2021/838/) | amending act | 1 | 2021-04-24 | 2021-04-24 |
 | Odluka o izmjeni i dopuni Odluke o uvođenju nužnih epidemioloških mjera za područje Osječko-baranjske županije | [`odluka/2021/846/`](odluka/2021/846/) | amending act | 1 | 2021-04-24 | 2021-04-24 |
+| Odluka o uvođenju nužnih epidemioloških mjera za područje Požeško-slavonske županije | [`odluka/2021/847/`](odluka/2021/847/) | repealed 2021-06-08 | 2 | 2021-04-24 | 2021-06-08 |
+| Odluka o uvođenju nužnih epidemioloških mjera za područje Grada Metkovića, Grada Ploče, Grada Opuzena, Općine Pojezerje, Općine Slivno, Općine Kula Norinska i Općine Zažablje | [`odluka/2021/848/`](odluka/2021/848/) | repealed 2021-05-03 | 2 | 2021-04-26 | 2021-05-03 |
 | Odluka o visini naknade za zdravstvene preglede vozača i kandidata za vozače | [`odluka/2021/859/`](odluka/2021/859/) | in force | 1 | 2021-05-04 | 2021-05-04 |
 | Odluka o uvođenju nužne epidemiološke mjere za područje Krapinsko-zagorske županije | [`odluka/2021/860/`](odluka/2021/860/) | in force | 1 | 2021-04-27 | 2021-04-27 |
 | Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2021./2022. | [`odluka/2021/924/`](odluka/2021/924/) | in force | 1 | 2021-05-06 | 2021-05-06 |
 | Odluka o izradi Smjernica za rad nadzornih i revizijskih odbora u pravnim osobama od posebnog interesa za Republiku Hrvatsku te pravnim osobama kojima upravlja Centar za restrukturiranje i prodaju | [`odluka/2021/936/`](odluka/2021/936/) | in force | 1 | 2021-05-08 | 2021-05-08 |
+| Odluka o osnivanju Nacionalnog vijeća za razvoj socijalnih politika | [`odluka/2021/937/`](odluka/2021/937/) | repealed 2025-01-02 | 2 | 2021-04-29 | 2025-01-02 |
 | Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje Brodsko-posavske županije | [`odluka/2021/946/`](odluka/2021/946/) | in force | 1 | 2021-05-01 | 2021-05-01 |
 | Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje Šibensko-kninske županije | [`odluka/2021/947/`](odluka/2021/947/) | in force | 1 | 2021-05-01 | 2021-05-01 |
 | Odluka o izmjeni Odluke o uvođenju nužnih epidemioloških mjera za područje Zadarske županije | [`odluka/2021/949/`](odluka/2021/949/) | in force | 1 | 2021-05-01 | 2021-05-01 |
@@ -758,6 +789,7 @@
 | Odluka o izmjeni Odluke o isplati materijalnih prava i drugih naknada državnim službenicima zaposlenima na poslovima protuminskog djelovanja | [`odluka/2021/2318/`](odluka/2021/2318/) | in force | 1 | 2021-12-20 | 2021-12-20 |
 | Odluka o izmjenama Odluke o sigurnosnoj mjeri privremene zabrane ulaska u Republiku Hrvatsku za osobe koje dolaze iz Južnoafričke Republike, Bocwane, Kraljevine Eswatini, Lesota, Namibije, Zimbabvea, Hong Konga i Republike Mozambik | [`odluka/2021/2324/`](odluka/2021/2324/) | in force | 1 | 2021-12-16 | 2021-12-16 |
 | Odluka o katastarskoj izmjeri na području Grada Zagreba za katastarsku općinu Kupinečki Kraljevec | [`odluka/2021/2327/`](odluka/2021/2327/) | in force | 1 | 2021-12-16 | 2021-12-16 |
+| Odluka o gradskim porezima i prirezu porezu na dohodak Grada Otočca | [`odluka/2021/2328/`](odluka/2021/2328/) | repealed 2024-01-01 | 2 | 2022-01-01 | 2024-01-01 |
 | Odluka o izmjeni Odluke o porezima Grada Rijeke | [`odluka/2021/2329/`](odluka/2021/2329/) | in force | 1 | 2022-01-01 | 2022-01-01 |
 | Odluka o izmjeni Odluke o autorizaciji plovila za sakupljanje crvenog koralja (Corallium rubrum) s rokom važenja do 30. lipnja 2022. godine | [`odluka/2021/2349/`](odluka/2021/2349/) | in force | 1 | 2021-12-18 | 2021-12-18 |
 | Odluka o izmjeni i dopuni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke | [`odluka/2021/2351/`](odluka/2021/2351/) | amending act | 1 | 2022-01-01 | 2022-01-01 |
@@ -767,6 +799,8 @@
 | Odluka o III. izmjenama Odluke o gradskim porezima Grada Belog Manastira | [`odluka/2021/2404/`](odluka/2021/2404/) | in force | 1 | 2022-01-01 | 2022-01-01 |
 | Odluka o I. izmjenama i dopunama Odluke o lokalnim porezima Grada Delnica | [`odluka/2021/2405/`](odluka/2021/2405/) | amending act | 1 | 2022-01-01 | 2022-01-01 |
 | Odluka o porezima Općine Perušić | [`odluka/2021/2406/`](odluka/2021/2406/) | in force | 1 | 2022-01-01 | 2022-01-01 |
+| Odluka o cjeniku nestandardnih usluga operatora sustava skladišta plina | [`odluka/2021/2413/`](odluka/2021/2413/) | repealed 2022-10-01 | 2 | 2022-01-01 | 2022-10-01 |
+| Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne usluge | [`odluka/2021/2415/`](odluka/2021/2415/) | repealed 2022-10-01 | 2 | 2022-01-01 | 2022-10-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Tajlandu, sa sjedištem u Jakarti | [`odluka/2021/2417/`](odluka/2021/2417/) | in force | 1 | 2021-12-20 | 2021-12-20 |
 | Odluka o dopuni Odluke o nužnim epidemiološkim mjerama kojima se ograničavaju okupljanja i uvode druge nužne epidemiološke mjere i preporuke radi sprječavanja prijenosa bolesti COVID-19 putem okupljanja | [`odluka/2021/2420/`](odluka/2021/2420/) | amending act | 1 | 2021-12-24 | 2021-12-24 |
 | Odluka o izmjenama i dopunama Odluke o Uredu predsjednika Republike Hrvatske | [`odluka/2021/2437/`](odluka/2021/2437/) | amending act | 1 | 2021-12-25 | 2021-12-25 |
@@ -819,6 +853,7 @@
 | Odluka o izmjenama Odluke o nužnoj epidemiološkoj mjeri obveznog korištenja maski za lice ili medicinskih maski | [`odluka/2022/134/`](odluka/2022/134/) | in force | 1 | 2022-02-01 | 2022-02-01 |
 | Odluka o izmjenama Odluke o privremenoj zabrani i ograničavanju prelaska preko graničnih prijelaza Republike Hrvatske | [`odluka/2022/135/`](odluka/2022/135/) | in force | 1 | 2022-02-01 | 2022-02-01 |
 | Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2021. godinu | [`odluka/2022/137/`](odluka/2022/137/) | in force | 1 | 2022-02-01 | 2022-02-01 |
+| Odluka o gradskim porezima Grada Knina | [`odluka/2022/144/`](odluka/2022/144/) | repealed 2024-01-01 | 2 | 2022-01-01 | 2024-01-01 |
 | Odluka o materijalnim i nematerijalnim pravima, drugim naknadama te visini osnovice za obračun plaće državnih službenika i namještenika | [`odluka/2022/158/`](odluka/2022/158/) | in force | 1 | 2022-02-10 | 2022-02-10 |
 | Odluka o usvajanju Izmjena Programa jamstava za kredite za poduzetnike aktivne u području kulture i kreativnih industrija | [`odluka/2022/159/`](odluka/2022/159/) | in force | 1 | 2022-02-03 | 2022-02-03 |
 | Odluka o dopuni Odluke o utvrđivanju Popisa posebno skupih lijekova | [`odluka/2022/174/`](odluka/2022/174/) | amending act | 1 | 2022-02-10 | 2022-02-10 |
@@ -839,6 +874,8 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Klek | [`odluka/2022/255/`](odluka/2022/255/) | in force | 1 | 2022-02-07 | 2022-02-07 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za ožujak 2022. | [`odluka/2022/256/`](odluka/2022/256/) | in force | 1 | 2022-03-01 | 2022-03-01 |
 | Odluka o materijalnim i nematerijalnim pravima, drugim naknadama te visini osnovice za obračun plaće službenika i namještenika u javnim službama | [`odluka/2022/282/`](odluka/2022/282/) | in force | 1 | 2022-03-01 | 2022-03-01 |
+| Odluka o osnovici za izračun iznosa zajamčene minimalne naknade | [`odluka/2022/283/`](odluka/2022/283/) | repealed 2024-01-01 | 2 | 2022-02-26 | 2024-01-01 |
+| Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine | [`odluka/2022/285/`](odluka/2022/285/) | repealed 2023-01-01 | 2 | 2022-02-26 | 2023-01-01 |
 | Odluka o donošenju Programa razvoja brdsko-planinskih područja za razdoblje 2022. - 2025. | [`odluka/2022/286/`](odluka/2022/286/) | in force | 1 | 2022-02-24 | 2022-02-24 |
 | Odluka o donošenju Programa održivog društvenog i gospodarskog razvoja potpomognutih područja za razdoblje 2022. - 2025. | [`odluka/2022/287/`](odluka/2022/287/) | in force | 1 | 2022-02-24 | 2022-02-24 |
 | Odluka o davanju suglasnosti na Odluku Županijske skupštine Dubrovačko-neretvanske županije o izmjenama i dopunama Odluke o osnivanju Lučke uprave Dubrovačko-neretvanske županije za luke županijskog i lokalnog značaja | [`odluka/2022/288/`](odluka/2022/288/) | amending act | 1 | 2022-02-24 | 2022-02-24 |
@@ -863,6 +900,7 @@
 | Odluka o prestanku važenja Odluke o načinu održavanja pogreba i posljednjih ispraćaja | [`odluka/2022/423/`](odluka/2022/423/) | in force | 1 | 2022-03-18 | 2022-03-18 |
 | Odluka o prestanku važenja Odluke o mjerama prilikom sklapanja braka i životnog partnerstva | [`odluka/2022/424/`](odluka/2022/424/) | in force | 1 | 2022-03-18 | 2022-03-18 |
 | Odluka o izmjenama i dopuni Odluke o uvođenju posebnih sigurnosnih mjera obveznog testiranja na virus SARS-CoV-2 i obveznog predočenja dokaza o testiranju, cijepljenju ili preboljenju zarazne bolesti COVID-19 u djelatnosti socijalne skrbi | [`odluka/2022/426/`](odluka/2022/426/) | amending act | 1 | 2022-03-18 | 2022-03-18 |
+| Odluka o iznosu tarifnih stavki za skladištenje plina | [`odluka/2022/437/`](odluka/2022/437/) | repealed 2022-10-01 | 2 | 2022-04-01 | 2022-10-01 |
 | Odluka o visini naknada za obavljanje poslova regulacije energetskih djelatnosti | [`odluka/2022/452/`](odluka/2022/452/) | in force | 1 | 2022-04-02 | 2022-04-02 |
 | Odluka o donošenju Nacionalnog plana razvoja javne uprave za razdoblje od 2022. do 2027. godine i Akcijskog plana provedbe Nacionalnog plana razvoja javne uprave za razdoblje od 2022. do 2024. godine | [`odluka/2022/453/`](odluka/2022/453/) | in force | 1 | 2022-03-23 | 2022-03-23 |
 | Odluka o donošenju Nacionalnog plana razvoja pravosudnog sustava za razdoblje od 2022. do 2027. godine i Akcijskog plana provedbe Nacionalnog plana razvoja pravosudnog sustava za razdoblje od 2022. do 2024. godine | [`odluka/2022/454/`](odluka/2022/454/) | in force | 1 | 2022-03-23 | 2022-03-23 |
@@ -873,6 +911,7 @@
 | Odluka o izmjeni Odluke o privremenoj zabrani i ograničavanju prelaska preko graničnih prijelaza Republike Hrvatske | [`odluka/2022/502/`](odluka/2022/502/) | in force | 1 | 2022-04-01 | 2022-04-01 |
 | Odluka o donošenju Programa energetske obnove zgrada javnog sektora za razdoblje do 2030. godine | [`odluka/2022/505/`](odluka/2022/505/) | in force | 1 | 2022-03-31 | 2022-03-31 |
 | Odluka o usvajanju izmjena i dopune Programa dodjele državnih potpora sektoru mora, prometa, prometne infrastrukture i povezanim djelatnostima u aktualnoj pandemiji COVID-a 19 | [`odluka/2022/506/`](odluka/2022/506/) | amending act | 1 | 2022-03-31 | 2022-03-31 |
+| Odluka o posebnim sigurnosnim mjerama u zdravstvenom sustavu i sustavu socijalne skrbi radi zaštite pučanstva od zaraze i prijenosa te suzbijanja bolesti COVID-19 | [`odluka/2022/536/`](odluka/2022/536/) | repealed 2022-05-26 | 2 | 2022-04-09 | 2022-05-26 |
 | Odluka o privremenom ograničavanju prelaska preko graničnih prijelaza Republike Hrvatske | [`odluka/2022/538/`](odluka/2022/538/) | in force | 1 | 2022-04-09 | 2022-04-09 |
 | Odluka o prestanku važenja Odluke o nužnim epidemiološkim mjerama kojima se ograničavaju okupljanja i uvode druge nužne epidemiološke mjere i preporuke radi sprječavanja prijenosa bolesti COVID-19 putem okupljanja | [`odluka/2022/539/`](odluka/2022/539/) | in force | 1 | 2022-04-09 | 2022-04-09 |
 | Odluka o prestanku važenja Odluke o načinu organizacije javnog prijevoza putnika radi sprječavanja širenja bolesti COVID-19 | [`odluka/2022/540/`](odluka/2022/540/) | in force | 1 | 2022-04-09 | 2022-04-09 |
@@ -993,6 +1032,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Đurđevac III | [`odluka/2022/1372/`](odluka/2022/1372/) | in force | 1 | 2022-07-21 | 2022-07-21 |
 | Odluka o ukidanju Odluke o uzajamnom priznavanju mjere makrobonitetne politike iz Preporuke Europskog odbora za sistemske rizike od 16. srpnja 2018. o izmjeni Preporuke ESRB/2015/2 o procjeni prekograničnih učinaka mjera makrobonitetne politike i o dobrovoljnoj uzajamnosti za mjere makrobonitetne politike ( ESRB/2018/5) | [`odluka/2022/1373/`](odluka/2022/1373/) | in force | 1 | 2022-08-06 | 2022-08-06 |
 | Odluka o izmjeni i dopuni Odluke o efektivnoj kamatnoj stopi | [`odluka/2022/1405/`](odluka/2022/1405/) | amending act | 1 | 2022-08-16 | 2022-08-16 |
+| Odluka o izdavanju kompleta optjecajnoga kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja »2022.« | [`odluka/2022/1413/`](odluka/2022/1413/) | repealed 2022-12-22 | 2 | 2022-08-11 | 2022-12-22 |
 | Odluka o izmjeni i dopuni Odluke o naknadi za razvoj trgovačkog društva Vodoopskrba i odvodnja Pregrada d.o.o., Pregrada | [`odluka/2022/1418/`](odluka/2022/1418/) | amending act | 1 | 2022-08-20 | 2022-08-20 |
 | Odluka o donošenju Nacionalnog akcijskog plana energetske učinkovitosti za razdoblje od 2022. do 2024. godine | [`odluka/2022/1432/`](odluka/2022/1432/) | in force | 1 | 2022-08-18 | 2022-08-18 |
 | Odluka o povećanju sigurnosti opskrbe plinom izgradnjom plinovoda Zlobin - Bosiljevo i povećanjem kapaciteta LNG terminala na 6,1 milijardu kubičnih metara plina godišnje | [`odluka/2022/1433/`](odluka/2022/1433/) | in force | 1 | 2022-08-18 | 2022-08-18 |
@@ -1035,11 +1075,14 @@
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. listopada 2022. do 31. prosinca 2022. | [`odluka/2022/1594/`](odluka/2022/1594/) | in force | 1 | 2022-10-01 | 2022-10-01 |
 | Odluka o iznosu tarifnih stavki za skladištenje plina | [`odluka/2022/1597/`](odluka/2022/1597/) | in force | 1 | 2022-10-01 | 2022-10-01 |
 | Odluka o naknadi za organiziranje tržišta plina | [`odluka/2022/1598/`](odluka/2022/1598/) | in force | 1 | 2022-10-01 | 2022-10-01 |
+| Odluka o cjeniku nestandardnih usluga operatora transportnog sustava | [`odluka/2022/1600/`](odluka/2022/1600/) | repealed 2026-01-01 | 2 | 2022-10-01 | 2026-01-01 |
 | Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne usluge | [`odluka/2022/1601/`](odluka/2022/1601/) | in force | 1 | 2022-10-01 | 2022-10-01 |
 | Odluka o cjeniku nestandardnih usluga operatora sustava skladišta plina | [`odluka/2022/1602/`](odluka/2022/1602/) | in force | 1 | 2022-10-01 | 2022-10-01 |
+| Odluka o iznosu tarifnih stavki za distribuciju plina | [`odluka/2022/1606/`](odluka/2022/1606/) | repealed 2025-10-01 | 2 | 2022-10-01 | 2025-10-01 |
 | Odluka o davanju suglasnosti na Odluku Županijske skupštine Zadarske županije o izmjenama i dopunama Odluke o osnivanju Lučke uprave za luke županijskog i lokalnog značaja | [`odluka/2022/1607/`](odluka/2022/1607/) | amending act | 1 | 2022-09-19 | 2022-09-19 |
 | Odluka o katastarskoj izmjeri na području Grada Vrbovca za katastarsku općinu Vrbovec i dijelove katastarskih općina: Luka, Brčevec i Poljana | [`odluka/2022/1616/`](odluka/2022/1616/) | in force | 1 | 2022-09-22 | 2022-09-22 |
 | Odluka o katastarskoj izmjeri na području Grada Đakova za dijelove katastarskih općina Ivanovci Đakovački i Viškovci | [`odluka/2022/1617/`](odluka/2022/1617/) | in force | 1 | 2022-09-22 | 2022-09-22 |
+| Odluka o primjerenom upravljanju informacijskim sustavom | [`odluka/2022/1629/`](odluka/2022/1629/) | repealed 2025-01-17 | 2 | 2023-04-01 | 2025-01-17 |
 | Odluka o izmjeni Odluke o davanju koncesije za osnivanje Slobodne zone Zagreb | [`odluka/2022/1662/`](odluka/2022/1662/) | in force | 1 | 2022-09-29 | 2022-09-29 |
 | Odluka o katastarskoj izmjeri na području Općine Mrkopalj za dijelove k.o. Sunger, k.o. Begovo Razdolje i k.o. Mrkopalj | [`odluka/2022/1799/`](odluka/2022/1799/) | in force | 1 | 2022-10-08 | 2022-10-08 |
 | Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji potpore miru »EU NAVFOR Somalija - ATALANTA« | [`odluka/2022/1803/`](odluka/2022/1803/) | in force | 1 | 2022-10-20 | 2022-10-20 |
@@ -1071,6 +1114,7 @@
 | Odluka o donošenju Nacionalnog plana razvoja akvakulture za razdoblje do 2027. godine | [`odluka/2022/1998/`](odluka/2022/1998/) | in force | 1 | 2022-11-10 | 2022-11-10 |
 | Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine za 2023. godinu | [`odluka/2022/1999/`](odluka/2022/1999/) | in force | 1 | 2023-01-01 | 2023-01-01 |
 | Odluka o prestanku rada Hrvatskog sustava velikih plaćanja i Nacionalnoga klirinškog sustava | [`odluka/2022/2014/`](odluka/2022/2014/) | in force | 1 | 2022-11-12 | 2022-11-12 |
+| Odluka o obvezi dostavljanja izvješća o podacima poslovanja s gotovim novcem | [`odluka/2022/2027/`](odluka/2022/2027/) | repealed 2024-01-01 | 2 | 2023-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o gradskim porezima Grada Slatine | [`odluka/2022/2031/`](odluka/2022/2031/) | in force | 1 | 2023-01-01 | 2023-01-01 |
 | Odluka o izmjeni Odluke o popisu iskrcajnih mjesta za ribarska plovila koja obavljaju gospodarski ribolov na moru | [`odluka/2022/2034/`](odluka/2022/2034/) | in force | 1 | 2022-11-17 | 2022-11-17 |
 | Odluka o prestanku važenja Odluke o izvješćivanju o stanju određenih potraživanja i obveza u stranim sredstvima plaćanja | [`odluka/2022/2059/`](odluka/2022/2059/) | in force | 1 | 2023-01-02 | 2023-01-02 |
@@ -1115,6 +1159,7 @@
 | Odluka o općinskim porezima Općine Blato | [`odluka/2022/2327/`](odluka/2022/2327/) | in force | 1 | 2023-01-01 | 2023-01-01 |
 | Odluka o izmjenama i dopuni Odluke o objavljivanju Hrvatskih standarda financijskog izvještavanja | [`odluka/2022/2328/`](odluka/2022/2328/) | amending act | 1 | 2022-12-29 | 2022-12-29 |
 | Odluka o porezima Općine Matulji | [`odluka/2022/2364/`](odluka/2022/2364/) | in force | 1 | 2023-01-01 | 2023-01-01 |
+| Odluka o lokalnim porezima Općine Unešić | [`odluka/2022/2365/`](odluka/2022/2365/) | repealed 2024-01-01 | 2 | 2023-01-01 | 2024-01-01 |
 | Odluka o isplati jednokratnog novčanog primanja korisnicima prava u sustavu socijalne skrbi radi ublažavanja posljedica rasta troškova života | [`odluka/2022/2388/`](odluka/2022/2388/) | in force | 1 | 2022-12-22 | 2022-12-22 |
 | Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za suzbijanje HIV/AIDS-a | [`odluka/2022/2392/`](odluka/2022/2392/) | in force | 1 | 2022-12-22 | 2022-12-22 |
 | Odluka o porezima Općine Brinje | [`odluka/2022/2400/`](odluka/2022/2400/) | in force | 1 | 2023-01-01 | 2023-01-01 |
@@ -1142,6 +1187,7 @@
 | Odluka o donošenju Plana sprječavanja i smanjenja nastajanja otpada od hrane Republike Hrvatske za razdoblje od 2023. do 2028. godine | [`odluka/2022/2535/`](odluka/2022/2535/) | in force | 1 | 2022-12-29 | 2022-12-29 |
 | Odluka o donošenju Izmjena i dopuna Nacionalnog programa provedbe Strategije zbrinjavanja radioaktivnog otpada, iskorištenih izvora i istrošenog nuklearnog goriva (Program za razdoblje do 2025. godine s pogledom do 2060. godine) | [`odluka/2022/2536/`](odluka/2022/2536/) | amending act | 1 | 2022-12-29 | 2022-12-29 |
 | Odluka o izmjeni i dopuni Odluke o porezima Grada Pazina | [`odluka/2022/2552/`](odluka/2022/2552/) | amending act | 1 | 2023-01-01 | 2023-01-01 |
+| Odluka o općinskim porezima Općine Jalžabet | [`odluka/2022/2553/`](odluka/2022/2553/) | repealed 2025-03-01 | 2 | 2023-01-01 | 2025-03-01 |
 | Odluka o izmjenama i dopunama Odluke o lokalnim porezima Općine Darda | [`odluka/2023/13/`](odluka/2023/13/) | amending act | 1 | 2023-01-01 | 2023-01-01 |
 | Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Sračinec | [`odluka/2023/29/`](odluka/2023/29/) | amending act | 1 | 2023-01-05 | 2023-01-05 |
 | Odluka o iznosu državnih poticajnih sredstava za stambenu štednju prikupljenu u 2023. godini | [`odluka/2023/32/`](odluka/2023/32/) | in force | 1 | 2023-01-13 | 2023-01-13 |
@@ -1215,6 +1261,7 @@
 | Odluka o dopuni Odluke o visini naknade za rad udomitelja | [`odluka/2023/391/`](odluka/2023/391/) | amending act | 1 | 2023-03-02 | 2023-03-02 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Češkoj Republici, sa sjedištem u Brnu | [`odluka/2023/412/`](odluka/2023/412/) | in force | 1 | 2023-02-23 | 2023-02-23 |
 | Odluka o rasporedu neutrošenih sredstava Državnog proračuna Republike Hrvatske za 2023. godinu | [`odluka/2023/417/`](odluka/2023/417/) | in force | 1 | 2023-03-02 | 2023-03-02 |
+| Odluka o sufinanciranju troškova režija za privremeno stambeno zbrinjavanje prema Programu zbrinjavanja korisnika mobilnih stambenih jedinica na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2023/418/`](odluka/2023/418/) | repealed 2023-07-29 | 2 | 2023-03-04 | 2023-07-29 |
 | Odluka o načinu plaćanja i visini zajedničke pričuve za zgrade oštećene potresom na području Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2023/419/`](odluka/2023/419/) | in force | 1 | 2023-03-04 | 2023-03-04 |
 | Odluka o određivanju tijela koje utvrđuje najviše cijene usluga, radova i građevnih proizvoda koje se mogu prihvatiti za isplatu novčanih pomoći prema Zakonu o obnovi zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2023/420/`](odluka/2023/420/) | in force | 1 | 2023-03-04 | 2023-03-04 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Osnovne škole Čulinec s dvodijelnom sportskom dvoranom i dječjim vrtićem | [`odluka/2023/421/`](odluka/2023/421/) | in force | 1 | 2023-03-11 | 2023-03-11 |
@@ -1231,6 +1278,7 @@
 | Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2023. | [`odluka/2023/466/`](odluka/2023/466/) | in force | 1 | 2023-03-16 | 2023-03-16 |
 | Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu odnosno zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2022. | [`odluka/2023/467/`](odluka/2023/467/) | in force | 1 | 2023-03-16 | 2023-03-16 |
 | Odluka o faktoru osnovne mirovine od 1. siječnja 2023. | [`odluka/2023/468/`](odluka/2023/468/) | in force | 1 | 2023-03-16 | 2023-03-16 |
+| Odluka o donošenju Programa mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2023/473/`](odluka/2023/473/) | repealed 2024-12-31 | 2 | 2023-03-11 | 2024-12-31 |
 | Odluka o donošenju Nacionalnog plana za ravnopravnost spolova za razdoblje do 2027. godine i Akcijskog plana za provedbu Nacionalnog plana za razdoblje do 2024. godine | [`odluka/2023/475/`](odluka/2023/475/) | in force | 1 | 2023-03-09 | 2023-03-09 |
 | Odluka o sustavu upravljanja i praćenja provedbe važnih projekata od zajedničkog europskog interesa (VPZEI) | [`odluka/2023/476/`](odluka/2023/476/) | in force | 1 | 2023-03-09 | 2023-03-09 |
 | Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Čabra, Gradskog vijeća Grada Varaždina, Općinskog vijeća Općine Kali i Općinskog vijeća Općine Kukljica | [`odluka/2023/496/`](odluka/2023/496/) | in force | 1 | 2023-03-16 | 2023-03-16 |
@@ -1249,6 +1297,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za III. zonu (zone izlaganja 3., 4., 10., 13. i 15.) | [`odluka/2023/662/`](odluka/2023/662/) | in force | 1 | 2023-03-15 | 2023-03-15 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Gorica Nova | [`odluka/2023/663/`](odluka/2023/663/) | in force | 1 | 2023-03-29 | 2023-03-29 |
 | Odluka o oslobođenju od obveze plaćanja najamnine za korištenje stanova u vlasništvu Republike Hrvatske za vrijeme privremenog stambenog zbrinjavanja | [`odluka/2023/675/`](odluka/2023/675/) | in force | 1 | 2023-04-06 | 2023-04-06 |
+| Odluka o lokalnim porezima Općine Donji Lapac | [`odluka/2023/695/`](odluka/2023/695/) | repealed 2024-01-01 | 2 | 2023-01-01 | 2024-01-01 |
 | Odluka o izmjenama i dopunama br. 7 Ugovora o koncesiji za financiranje, građenje, upravljanje i održavanje »Jadranske autoceste« - dionica Dragonja - Pula i Kanfanar - Pazin - Matulji | [`odluka/2023/726/`](odluka/2023/726/) | amending act | 1 | 2023-04-13 | 2023-04-13 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Banićevac novi | [`odluka/2023/735/`](odluka/2023/735/) | in force | 1 | 2023-04-06 | 2023-04-06 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Republici Indoneziji, sa sjedištem u Seminyaku | [`odluka/2023/740/`](odluka/2023/740/) | in force | 1 | 2023-04-04 | 2023-04-04 |
@@ -1309,6 +1358,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Sitno Nova za I. zonu | [`odluka/2023/1211/`](odluka/2023/1211/) | in force | 1 | 2023-06-16 | 2023-06-16 |
 | Odluka o donošenju dopuna Nacionalnog plana specijalističkog usavršavanja zdravstvenih radnika za petogodišnje razdoblje (2020. - 2024.) | [`odluka/2023/1240/`](odluka/2023/1240/) | amending act | 1 | 2023-07-13 | 2023-07-13 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Indoneziji, sa sjedištem u Surabayi | [`odluka/2023/1244/`](odluka/2023/1244/) | in force | 1 | 2023-06-28 | 2023-06-28 |
+| Odluka o umanjenju plaće i dodataka na plaću državnim službenicima i namještenicima za vrijeme sudjelovanja u štrajku | [`odluka/2023/1247/`](odluka/2023/1247/) | repealed 2023-07-27 | 2 | 2023-07-13 | 2023-07-27 |
 | Odluka o izmjeni Odluke o pravnim osobama od posebnog interesa za Republiku Hrvatsku | [`odluka/2023/1248/`](odluka/2023/1248/) | in force | 1 | 2023-07-22 | 2023-07-22 |
 | Odluka o iznosu pomoći za pojedinu općinu, grad i županiju kojoj su zbog pada broja stanovnika smanjena sredstva fiskalnog izravnanja za 2023. godinu | [`odluka/2023/1279/`](odluka/2023/1279/) | in force | 1 | 2023-07-20 | 2023-07-20 |
 | Odluka o donošenju izmjena i dopuna strukovnog kurikuluma za stjecanje kvalifikacije WEB DIZAJNER (211224) u obrazovnom sektoru GRAFIČKA TEHNOLOGIJA I AUDIO-VIZUALNO OBLIKOVANJE | [`odluka/2023/1281/`](odluka/2023/1281/) | amending act | 1 | 2023-07-27 | 2023-07-27 |
@@ -1413,8 +1463,10 @@
 | Odluka o porezima Grada Pazina | [`odluka/2023/1966/`](odluka/2023/1966/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg porezna na dohodak na području Općine Bilice | [`odluka/2023/1968/`](odluka/2023/1968/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Bilice | [`odluka/2023/1969/`](odluka/2023/1969/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Breznica | [`odluka/2023/1970/`](odluka/2023/1970/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o općinskim porezima Općine Jasenovac | [`odluka/2023/1971/`](odluka/2023/1971/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Tar-Vabriga - Torre-Abrega | [`odluka/2023/1976/`](odluka/2023/1976/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Veliki Bukovec | [`odluka/2023/1978/`](odluka/2023/1978/) | repealed 2025-01-01 | 2 | 2024-01-01 | 2025-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Grubišnoga Polja | [`odluka/2023/1987/`](odluka/2023/1987/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Grada Supetra | [`odluka/2023/1989/`](odluka/2023/1989/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Klinča Sela | [`odluka/2023/1992/`](odluka/2023/1992/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1423,6 +1475,8 @@
 | Odluka o visini poreznih stopa poreza na dohodak Općine Lekenik | [`odluka/2023/1995/`](odluka/2023/1995/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o usklađivanju prihodovnog cenzusa za ostvarivanje prava na plaćanje premije dopunskoga zdravstvenog osiguranja u 2024. godini | [`odluka/2023/2008/`](odluka/2023/2008/) | amending act | 1 | 2023-12-14 | 2023-12-14 |
 | Odluka o porezima Grada Daruvara | [`odluka/2023/2010/`](odluka/2023/2010/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Daruvara | [`odluka/2023/2011/`](odluka/2023/2011/) | repealed 2026-01-01 | 2 | 2024-01-01 | 2026-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Knina | [`odluka/2023/2013/`](odluka/2023/2013/) | repealed 2025-01-01 | 2 | 2024-01-01 | 2025-01-01 |
 | Odluka o izmjeni Odluke o općinskim porezima Općine Ivankovo | [`odluka/2023/2018/`](odluka/2023/2018/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. siječnja 2024. do 31. ožujka 2024. | [`odluka/2023/2031/`](odluka/2023/2031/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Belišća | [`odluka/2023/2032/`](odluka/2023/2032/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1430,6 +1484,7 @@
 | Odluka o izmjeni Odluke o porezima Grada Zadra | [`odluka/2023/2038/`](odluka/2023/2038/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Brdovec | [`odluka/2023/2039/`](odluka/2023/2039/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Gradac | [`odluka/2023/2042/`](odluka/2023/2042/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Petrijanec | [`odluka/2023/2047/`](odluka/2023/2047/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Velika Kopanica | [`odluka/2023/2051/`](odluka/2023/2051/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o najvišem postotku naknade depozitaru za 2024. godinu | [`odluka/2023/2058/`](odluka/2023/2058/) | in force | 1 | 2023-12-13 | 2023-12-13 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Buja - Buie | [`odluka/2023/2061/`](odluka/2023/2061/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1441,6 +1496,7 @@
 | Odluka o porezima Grada Paga | [`odluka/2023/2074/`](odluka/2023/2074/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Valpova | [`odluka/2023/2079/`](odluka/2023/2079/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Grada Velike Gorice | [`odluka/2023/2083/`](odluka/2023/2083/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Vodnjana - Dignano | [`odluka/2023/2084/`](odluka/2023/2084/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o izmjenama Odluke o lokalnim porezima Grada Vrbovskog | [`odluka/2023/2085/`](odluka/2023/2085/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Vrlike | [`odluka/2023/2087/`](odluka/2023/2087/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Grada Zaprešića | [`odluka/2023/2089/`](odluka/2023/2089/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1449,7 +1505,9 @@
 | Odluka o visni poreznih stopa godišnjeg poreza na dohodak na području Općine Brinje | [`odluka/2023/2103/`](odluka/2023/2103/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Cerna | [`odluka/2023/2104/`](odluka/2023/2104/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o porezima Općine Cerovlje | [`odluka/2023/2106/`](odluka/2023/2106/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o lokalnim porezima Općine Dežanovac | [`odluka/2023/2107/`](odluka/2023/2107/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o paušalnom oporezivanju djelatnosti iznajmljivanja i organiziranja smještaja u turizmu na području Općine Lasinja | [`odluka/2023/2115/`](odluka/2023/2115/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa poreza na dohodak na području Općine Lupoglav | [`odluka/2023/2118/`](odluka/2023/2118/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o visini paušalnog poreza za djelatnost iznajmljivanja i organiziranja smještaja u turizmu na području Općine Lupoglav | [`odluka/2023/2119/`](odluka/2023/2119/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama i dopunama Odluke o porezima Općine Negoslavci | [`odluka/2023/2124/`](odluka/2023/2124/) | amending act | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o lokalnim porezima Općine Oprtalj - Portole | [`odluka/2023/2126/`](odluka/2023/2126/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1479,8 +1537,10 @@
 | Odluka o zamjeni gotovog novca kune | [`odluka/2023/2247/`](odluka/2023/2247/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o obvezi dostavljanja izvješća o podacima poslovanja s gotovim novcem | [`odluka/2023/2248/`](odluka/2023/2248/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o gradskim porezima Grada Pregrade | [`odluka/2023/2253/`](odluka/2023/2253/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o porezima Grada Trogira | [`odluka/2023/2255/`](odluka/2023/2255/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o općinskim porezima Općine Biskupija | [`odluka/2023/2260/`](odluka/2023/2260/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Bol | [`odluka/2023/2263/`](odluka/2023/2263/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o lokalnim porezima Općine Darda | [`odluka/2023/2265/`](odluka/2023/2265/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa poreza na dohodak na području Općine Darda | [`odluka/2023/2266/`](odluka/2023/2266/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o lokalnim porezima Općine Erdut | [`odluka/2023/2269/`](odluka/2023/2269/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Erdut | [`odluka/2023/2270/`](odluka/2023/2270/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1514,6 +1574,7 @@
 | Odluka o izmjenama Odluke o gradskim porezima Grada Križevaca | [`odluka/2023/2402/`](odluka/2023/2402/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Križevaca | [`odluka/2023/2403/`](odluka/2023/2403/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o stavljanju izvan snage Odluke o prirezu porezu na dohodak Grada Križevaca | [`odluka/2023/2404/`](odluka/2023/2404/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Makarske | [`odluka/2023/2405/`](odluka/2023/2405/) | repealed 2025-03-01 | 2 | 2024-01-01 | 2025-03-01 |
 | Odluka o izmjeni i dopuni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Novog Marofa | [`odluka/2023/2406/`](odluka/2023/2406/) | amending act | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o izmjenama Odluke o porezima Grada Požege | [`odluka/2023/2407/`](odluka/2023/2407/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Požege | [`odluka/2023/2408/`](odluka/2023/2408/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1578,6 +1639,7 @@
 | Odluka o izmjenama Odluke o naknadi za razvoj KD Vodovod i kanalizacija d.o.o., Rijeka | [`odluka/2023/2502/`](odluka/2023/2502/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o centraliziranom financiranju specijalističkog usavršavanja doktora medicine | [`odluka/2023/2509/`](odluka/2023/2509/) | in force | 1 | 2023-12-28 | 2023-12-28 |
 | Odluka o donošenju Nacionalnog plana razvoja kulture i medija za razdoblje od 2023. do 2027. godine | [`odluka/2023/2510/`](odluka/2023/2510/) | in force | 1 | 2023-12-28 | 2023-12-28 |
+| Odluka o osnovici za izračun iznosa zajamčene minimalne naknade | [`odluka/2023/2512/`](odluka/2023/2512/) | repealed 2025-01-01 | 2 | 2024-01-01 | 2025-01-01 |
 | Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine za 2024. godinu | [`odluka/2023/2513/`](odluka/2023/2513/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o udjelu sredstava fiskalnog izravnanja za pojedinu općinu, grad i županiju u ukupnim sredstvima fiskalnog izravnanja s iznosom sredstava fiskalnog izravnanja za 2024. godinu | [`odluka/2023/2518/`](odluka/2023/2518/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Nina | [`odluka/2023/2521/`](odluka/2023/2521/) | in force | 1 | 2024-01-01 | 2024-01-01 |
@@ -1602,6 +1664,7 @@
 | Odluka Agencije za elektroničke medije klasa: 614-03/23-05/0228, urbroj: 114-03/04-24-06 od 18. siječnja 2023. | [`odluka/2024/183/`](odluka/2024/183/) | in force | 1 | 2024-01-18 | 2024-01-18 |
 | Odluka Agencije za elektroničke medije klasa: 614-03/23-05/0228, urbroj: 114-03/04-24-07 od 18. siječnja 2024. | [`odluka/2024/184/`](odluka/2024/184/) | in force | 1 | 2024-01-18 | 2024-01-18 |
 | Odluka o isplati materijalnih i nematerijalnih prava te drugih naknada za zaposlenike ostvarenih iz rada i po osnovi rada temeljem granskih kolektivnih ugovora | [`odluka/2024/195/`](odluka/2024/195/) | in force | 1 | 2024-01-27 | 2024-01-27 |
+| Odluka o osnivanju Savjeta za mlade Vlade Republike Hrvatske | [`odluka/2024/196/`](odluka/2024/196/) | repealed 2025-06-12 | 2 | 2024-01-25 | 2025-06-12 |
 | Odluka o odobrenju za rad pružatelju usluge servisiranja kredita | [`odluka/2024/205/`](odluka/2024/205/) | in force | 1 | 2024-02-06 | 2024-02-06 |
 | Odluka o sadržaju i načinu obavještavanja Hrvatske narodne banke u slučaju kupoprodaje neprihodonosnoga kredita | [`odluka/2024/206/`](odluka/2024/206/) | in force | 1 | 2024-02-06 | 2024-02-06 |
 | Odluka o sadržaju procedura za rješavanje prigovora dužnika | [`odluka/2024/207/`](odluka/2024/207/) | in force | 1 | 2024-02-06 | 2024-02-06 |
@@ -1616,6 +1679,7 @@
 | Odluka o donošenju Programa razvoja sektora mljekarstva u Republici Hrvatskoj za razdoblje do 2030. godine i Akcijskog plana za provedbu Programa razvoja sektora mljekarstva u Republici Hrvatskoj za razdoblje do 2025. godine | [`odluka/2024/304/`](odluka/2024/304/) | in force | 1 | 2024-02-15 | 2024-02-15 |
 | Odluka o upisu ulovnih ribarskih plovila udičarskim alatima u Registar ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2024. godini | [`odluka/2024/308/`](odluka/2024/308/) | in force | 1 | 2024-02-17 | 2024-02-17 |
 | Odluka o provođenju nadzora i izricanju nadzornih mjera u vezi s pružanjem usluga servisiranja kredita | [`odluka/2024/312/`](odluka/2024/312/) | in force | 1 | 2024-02-24 | 2024-02-24 |
+| Odluka o Registru ovlaštenih pružatelja usluga servisiranja kredita i načinu podnošenja obavijesti o prekograničnom poslovanju | [`odluka/2024/322/`](odluka/2024/322/) | repealed 2024-12-28 | 2 | 2024-02-29 | 2024-12-28 |
 | Odluka o izmjenama Odluke o dodatnim kriterijima za procjenu kreditne sposobnosti potrošača te provođenju postupka naplate dospjelih neplaćenih obveza i dobrovoljne namire | [`odluka/2024/323/`](odluka/2024/323/) | in force | 1 | 2024-02-29 | 2024-02-29 |
 | Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Republici Čileu, sa sjedištem u Punta Arenasu | [`odluka/2024/334/`](odluka/2024/334/) | in force | 1 | 2024-02-15 | 2024-02-15 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Republici Čileu, sa sjedištem u Punta Arenasu | [`odluka/2024/336/`](odluka/2024/336/) | in force | 1 | 2024-02-16 | 2024-02-16 |
@@ -1810,6 +1874,7 @@
 | Odluka o izmjenama Odluke o potrebnim znanjima i stručnosti osoblja kreditnih institucija i kreditnih posrednika te o zahtjevima i postupku za izdavanje odobrenja za pružanje usluga kreditnog posredovanja | [`odluka/2024/1858/`](odluka/2024/1858/) | in force | 1 | 2024-09-26 | 2024-09-26 |
 | Odluka o izmjeni i dopuni Nacionalnih kriterija za izbor na nastavno radno mjesto na veleučilištu | [`odluka/2024/1859/`](odluka/2024/1859/) | amending act | 1 | 2024-10-01 | 2024-10-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Privlaka | [`odluka/2024/1860/`](odluka/2024/1860/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o sanaciji Doma za starije osobe Ličko-senjske županije | [`odluka/2024/1877/`](odluka/2024/1877/) | repealed 2026-08-27 | 2 | 2024-10-03 | 2026-08-27 |
 | Odluka Agencije za elektroničke medije, klasa: UP/I-614-03/24-02/03, urbroj: 114-03/04-24-02 od 30. rujna 2024. | [`odluka/2024/1916/`](odluka/2024/1916/) | in force | 1 | 2024-09-30 | 2024-09-30 |
 | Odluka o osnivanju Nacionalnog vijeća za kružno gospodarstvo | [`odluka/2024/1922/`](odluka/2024/1922/) | in force | 1 | 2024-10-10 | 2024-10-10 |
 | Odluka o prodajnim objektima koji obavljaju djelatnost trgovine na malo za određene proizvode na dan blagdana 1. studenoga 2024. - Svi sveti | [`odluka/2024/1927/`](odluka/2024/1927/) | in force | 1 | 2024-10-12 | 2024-10-12 |
@@ -2046,6 +2111,8 @@
 | Odluka o utvrđivanju letova koji se izuzimaju od plaćanja naknada u zračnoj plovidbi | [`odluka/2025/953/`](odluka/2025/953/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/954/`](odluka/2025/954/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o rasporedu sredstava koja se u državnom proračunu Republike Hrvatske osiguravaju za potrebe nacionalnih manjina u 2025. godini | [`odluka/2025/957/`](odluka/2025/957/) | in force | 1 | 2025-04-26 | 2025-04-26 |
+| Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djeteta | [`odluka/2025/981/`](odluka/2025/981/) | repealed 2026-06-25 | 2 | 2025-05-03 | 2026-06-25 |
+| Odluka o tablici o prosječnim potrebama maloljetnog djeteta | [`odluka/2025/982/`](odluka/2025/982/) | repealed 2026-06-25 | 2 | 2025-05-03 | 2026-06-25 |
 | Odluka o davanju naknadne suglasnosti na Statut o izmjenama i dopunama Statuta Hrvatskoga zavoda za zapošljavanje | [`odluka/2025/986/`](odluka/2025/986/) | amending act | 1 | 2025-05-02 | 2025-05-02 |
 | Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za djelatnost trgovine (od 25. rujna 2024. godine) - prve izmjene i dopune | [`odluka/2025/1034/`](odluka/2025/1034/) | amending act | 1 | 2025-06-01 | 2025-06-01 |
 | Odluka o zatvaranju za promet postojećeg pješačkog prijelaza | [`odluka/2025/1052/`](odluka/2025/1052/) | in force | 1 | 2025-04-30 | 2025-04-30 |
@@ -2289,6 +2356,7 @@
 | Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2025. godinu | [`odluka/2026/73/`](odluka/2026/73/) | in force | 1 | 2026-01-29 | 2026-01-29 |
 | Odluka o usklađenju sredstava jamstvenog pologa za 2026. godinu | [`odluka/2026/74/`](odluka/2026/74/) | in force | 1 | 2026-01-29 | 2026-01-29 |
 | Odluka o usklađivanju svote nacionalne naknade za starije osobe od 1. siječnja 2026. | [`odluka/2026/75/`](odluka/2026/75/) | in force | 1 | 2026-02-05 | 2026-02-05 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2026/83/`](odluka/2026/83/) | repealed 2026-10-21 | 2 | 2026-01-28 | 2026-10-21 |
 | Odluka o donošenju Programa ugradnje dizala i uređaja za olakšan pristup za slabo pokretne osobe u postojeće zgrade | [`odluka/2026/84/`](odluka/2026/84/) | in force | 1 | 2026-01-29 | 2026-01-29 |
 | Odluka o donošenju Programa uređenja pročelja za postojeće zgrade | [`odluka/2026/85/`](odluka/2026/85/) | in force | 1 | 2026-01-29 | 2026-01-29 |
 | Odluka o visini osnovice za obračun plaće zaposlenicima u javnim službama u 2026. godini | [`odluka/2026/86/`](odluka/2026/86/) | in force | 1 | 2026-01-31 | 2026-01-31 |
@@ -2356,6 +2424,7 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Demokratskoj Republici Timor-Lesteu | [`odluka/2026/564/`](odluka/2026/564/) | in force | 1 | 2026-04-27 | 2026-04-27 |
 | Odluka o izmjeni Odluke o ribarskim plovilima autoriziranima za rad u Jabučkom džepu za razdoblje 2022. - 2026. godine | [`odluka/2026/567/`](odluka/2026/567/) | in force | 1 | 2026-05-07 | 2026-05-07 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Diklo Novo | [`odluka/2026/569/`](odluka/2026/569/) | in force | 1 | 2026-04-24 | 2026-04-24 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/570/`](odluka/2026/570/) | repealed 2026-10-15 | 2 | 2026-05-21 | 2026-10-15 |
 | Odluka o izmjenama Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2026/590/`](odluka/2026/590/) | in force | 1 | 2026-05-07 | 2026-05-07 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Ogulin I | [`odluka/2026/618/`](odluka/2026/618/) | in force | 1 | 2026-05-04 | 2026-05-04 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za dio katastarske općine Omišalj - Njivice za 3. zonu | [`odluka/2026/619/`](odluka/2026/619/) | in force | 1 | 2026-05-06 | 2026-05-06 |
@@ -2472,7 +2541,7 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Torinu | [`odluka/2026/1456/`](odluka/2026/1456/) | in force | 1 | 2026-10-15 | 2026-10-15 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2026/1483/`](odluka/2026/1483/) | amending act | 1 | 2026-10-31 | 2026-10-31 |
 
-## pravilnik (1499, of which 497 amending acts)
+## pravilnik (1520, of which 497 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2511,6 +2580,8 @@
 | Pravilnik o prestanku važenja Pravilnika o unutarnjem ustrojstvu i načinu rada Tajništva i njegovih službi | [`pravilnik/2020/55/`](pravilnik/2020/55/) | in force | 1 | 2020-01-11 | 2020-01-11 |
 | Pravilnik o proizvodnji brašna i pekarskih proizvoda | [`pravilnik/2020/61/`](pravilnik/2020/61/) | in force | 1 | 2020-01-16 | 2020-01-16 |
 | Pravilnik o izmjenama Pravilnika o energetskom pregledu za velika poduzeća | [`pravilnik/2020/63/`](pravilnik/2020/63/) | in force | 1 | 2020-01-23 | 2020-01-23 |
+| Pravilnik o visini naknade za utvrđivanje stručne sposobnosti zrakoplovnog osoblja te utvrđivanje udovoljavanju uvjeta za izdavanje, produžavanje, obnavljanje i priznavanje dozvole, ovlaštenja i posebnih ovlasti zrakoplovnog osoblja | [`pravilnik/2020/64/`](pravilnik/2020/64/) | repealed 2023-01-01 | 2 | 2020-01-23 | 2023-01-01 |
+| Pravilnik o visini naknade za izvršeni pregled i provjeru plovidbenosti zrakoplova | [`pravilnik/2020/65/`](pravilnik/2020/65/) | repealed 2023-01-01 | 2 | 2020-01-23 | 2023-01-01 |
 | Pravilnik o stavljanju izvan snage Pravilnika o zahtjevima zajedničkih zrakoplovnih vlasti i upravnim postupcima koji se primjenjuju na komercijalni zračni prijevoz helikopterom | [`pravilnik/2020/66/`](pravilnik/2020/66/) | in force | 1 | 2020-01-23 | 2020-01-23 |
 | Pravilnik o državnim etalonima | [`pravilnik/2020/67/`](pravilnik/2020/67/) | in force | 1 | 2020-01-23 | 2020-01-23 |
 | Pravilnik o izvještavanju o izuzećima od primjene pozicijskih limita u robnim izvedenicama i o izvještavanju o pozicijama u robnim izvedenicama | [`pravilnik/2020/69/`](pravilnik/2020/69/) | in force | 1 | 2020-01-23 | 2020-01-23 |
@@ -2559,6 +2630,7 @@
 | Pravilnik o izmjeni Pravilnika o uvjetima prostora, opremljenosti prostora odgovarajućom opremom i ostalim uvjetima za obavljanje djelatnosti dadilje | [`pravilnik/2020/636/`](pravilnik/2020/636/) | in force | 1 | 2020-03-19 | 2020-03-19 |
 | Pravilnik o izmjenama i dopunama Pravilnika o priznavanju inozemnih stručnih kvalifikacija turističkog vodiča i voditelja poslova turističke agencije | [`pravilnik/2020/656/`](pravilnik/2020/656/) | amending act | 1 | 2020-03-21 | 2020-03-21 |
 | Pravilnik o izmjenama i dopunama Pravilnika o davanju odobrenja za stavljanje lijeka u promet | [`pravilnik/2020/659/`](pravilnik/2020/659/) | amending act | 1 | 2020-03-21 | 2020-03-21 |
+| Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Ureda predsjednika Republike Hrvatske | [`pravilnik/2020/671/`](pravilnik/2020/671/) | repealed 2022-05-14 | 2 | 2020-03-23 | 2022-05-14 |
 | Pravilnik o izmjeni i dopuni Pravilnika o uređivanju šuma | [`pravilnik/2020/678/`](pravilnik/2020/678/) | amending act | 1 | 2020-03-26 | 2020-03-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere Informiranje u državama članicama iz Nacionalnog programa pomoći sektoru vina za razdoblje od 2019. do 2023. godine | [`pravilnik/2020/679/`](pravilnik/2020/679/) | amending act | 1 | 2020-03-19 | 2020-03-19 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obavljanju inspekcijskog nadzora sigurnosti plovidbe | [`pravilnik/2020/712/`](pravilnik/2020/712/) | amending act | 1 | 2020-03-20 | 2020-03-20 |
@@ -2566,6 +2638,7 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i načinu vođenja i dostave podataka o ulovu u gospodarskom ribolovu na moru | [`pravilnik/2020/736/`](pravilnik/2020/736/) | amending act | 1 | 2020-03-24 | 2020-03-24 |
 | Pravilnik o mjerilima za određivanje iznosa i namjeni naknade ostvarene za sklapanje braka izvan službene prostorije | [`pravilnik/2020/760/`](pravilnik/2020/760/) | in force | 1 | 2020-04-02 | 2020-04-02 |
 | Pravilnik o mjerilima za određivanje iznosa i namjeni naknade ostvarene za sklapanje životnog partnerstva izvan službene prostorije | [`pravilnik/2020/761/`](pravilnik/2020/761/) | in force | 1 | 2020-04-02 | 2020-04-02 |
+| Pravilnik o očevidniku kazališta | [`pravilnik/2020/763/`](pravilnik/2020/763/) | repealed 2023-11-28 | 2 | 2020-04-02 | 2023-11-28 |
 | Pravilnik o obračunu i naplati naknade za korištenje voda | [`pravilnik/2020/765/`](pravilnik/2020/765/) | in force | 1 | 2020-03-26 | 2020-03-26 |
 | Pravilnik o zdravstvenim pregledima za utvrđivanje zdravstvene sposobnosti za držanje i nošenje oružja | [`pravilnik/2020/766/`](pravilnik/2020/766/) | in force | 1 | 2020-04-02 | 2020-04-02 |
 | Pravilnik o nadležnosti, sastavu i načinu rada drugostupanjskog zdravstvenog povjerenstva za utvrđivanje zdravstvene sposobnosti za držanje i nošenje oružja | [`pravilnik/2020/767/`](pravilnik/2020/767/) | in force | 1 | 2020-04-02 | 2020-04-02 |
@@ -2611,9 +2684,11 @@
 | Pravilnik o izmjenama Pravilnika o stavljanju na tržište sjemenskog krumpira | [`pravilnik/2020/1128/`](pravilnik/2020/1128/) | in force | 1 | 2020-05-31 | 2020-05-31 |
 | Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti - COVID-19« pridnenim povlačnim mrežama - koćama za svibanj/lipanj 2020. godine | [`pravilnik/2020/1153/`](pravilnik/2020/1153/) | in force | 1 | 2020-05-16 | 2020-05-16 |
 | Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.12. »Mjere zaštite zdravlja i dobrobiti životinja« | [`pravilnik/2020/1154/`](pravilnik/2020/1154/) | in force | 1 | 2020-05-16 | 2020-05-16 |
+| Pravilnik o registru geografskih imena | [`pravilnik/2020/1188/`](pravilnik/2020/1188/) | repealed 2025-08-02 | 2 | 2020-05-28 | 2025-08-02 |
 | Pravilnik o katastarskoj izmjeri | [`pravilnik/2020/1189/`](pravilnik/2020/1189/) | in force | 1 | 2020-05-28 | 2020-05-28 |
 | Pravilnik o uvjetima prostora i opreme, stručnih i drugih radnika za obavljanje djelatnosti pružanja pomoći i podrške korištenjem psa pomagača te sastavu i načinu rada Povjerenstva za utvrđivanje uvjeta | [`pravilnik/2020/1218/`](pravilnik/2020/1218/) | in force | 1 | 2020-05-30 | 2020-05-30 |
 | Pravilnik o evidenciji pravnih i fizičkih osoba koje obavljaju djelatnost pružanja pomoći i podrške korištenjem psa pomagača ili terapijskog psa | [`pravilnik/2020/1219/`](pravilnik/2020/1219/) | in force | 1 | 2020-05-30 | 2020-05-30 |
+| Pravilnik o načinu korištenja vaučera za neizvršene ugovore o putovanju u paket-aranžmanu | [`pravilnik/2020/1221/`](pravilnik/2020/1221/) | repealed 2021-06-26 | 2 | 2020-05-23 | 2021-06-26 |
 | Pravilnik o izmjenama Pravilnika o sigurnosti hrane za životinje | [`pravilnik/2020/1222/`](pravilnik/2020/1222/) | in force | 1 | 2020-05-30 | 2020-05-30 |
 | Pravilnik o izmjenama Pravilnika o napredovanju učitelja, nastavnika, stručnih suradnika i ravnatelja u osnovnim i srednjim školama i učeničkim domovima | [`pravilnik/2020/1223/`](pravilnik/2020/1223/) | in force | 1 | 2020-05-30 | 2020-05-30 |
 | Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila brzine u cestovnom prometu | [`pravilnik/2020/1225/`](pravilnik/2020/1225/) | in force | 1 | 2020-05-30 | 2020-05-30 |
@@ -2791,6 +2866,7 @@
 | Pravilnik o dopuni Pravilnika o provedbi Općeg poreznog zakona | [`pravilnik/2021/842/`](pravilnik/2021/842/) | amending act | 1 | 2021-04-24 | 2021-04-24 |
 | Pravilnik o izmjeni Pravilnika o naknadama troškova zbog posebnih uvjeta rada sudaca privremeno upućenih na rad u drugi sud | [`pravilnik/2021/923/`](pravilnik/2021/923/) | in force | 1 | 2021-05-06 | 2021-05-06 |
 | Pravilnik o izmjenama Pravilnika o izmjenama i dopunama Pravilnika o energetskom pregledu zgrade i energetskom certificiranju | [`pravilnik/2021/926/`](pravilnik/2021/926/) | amending act | 1 | 2021-04-29 | 2021-04-29 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete od raznih vrsta ptica i ostalih životinja na šaranskim ribnjacima | [`pravilnik/2021/939/`](pravilnik/2021/939/) | repealed 2024-09-05 | 2 | 2021-05-01 | 2024-09-05 |
 | Pravilnik o praćenju emisija onečišćujućih tvari u zrak iz nepokretnih izvora | [`pravilnik/2021/962/`](pravilnik/2021/962/) | in force | 1 | 2021-05-11 | 2021-05-11 |
 | Pravilnik o izmjenama i dopunama Pravilnika o sigurnosti igračaka | [`pravilnik/2021/978/`](pravilnik/2021/978/) | amending act | 1 | 2021-05-13 | 2021-05-13 |
 | Pravilnik o izmjeni Pravilnika o kriterijima za provjeru razine tjelesne motoričke sposobnosti za osobu koja se prima u policiju | [`pravilnik/2021/1006/`](pravilnik/2021/1006/) | in force | 1 | 2021-05-15 | 2021-05-15 |
@@ -2809,6 +2885,7 @@
 | Pravilnik o dopuni Pravilnika o provedbi mjere Destilacija vina u kriznim slučajevima te mjere Potpora za krizno skladištenje vina iz Nacionalnog programa pomoći sektoru vina za razdoblje od 2019. do 2023. godine | [`pravilnik/2021/1121/`](pravilnik/2021/1121/) | amending act | 1 | 2021-05-27 | 2021-05-27 |
 | Pravilnik o dopuni Pravilnika o ribolovnim mogućnostima i ribolovu igluna (Xiphias gladius) | [`pravilnik/2021/1122/`](pravilnik/2021/1122/) | amending act | 1 | 2021-05-27 | 2021-05-27 |
 | Pravilnik o pristupu povjerljivim podacima Državnog zavoda za statistiku unutar sustava službene statistike | [`pravilnik/2021/1140/`](pravilnik/2021/1140/) | in force | 1 | 2021-06-05 | 2021-06-05 |
+| Pravilnik o radu Agencije za zaštitu osobnih podataka | [`pravilnik/2021/1193/`](pravilnik/2021/1193/) | repealed 2025-08-02 | 2 | 2021-06-09 | 2025-08-02 |
 | Pravilnik o postupanju prilikom opće procjene privremenosti rada upućenoga radnika i privremenosti poduzimanja ekonomskih aktivnosti poslodavca u Republici Hrvatskoj | [`pravilnik/2021/1198/`](pravilnik/2021/1198/) | in force | 1 | 2021-06-10 | 2021-06-10 |
 | Pravilnik o izmjenama i dopunama Pravilnika o ustroju i načinu rada matičnih povjerenstava i provedbi postupka izbora | [`pravilnik/2021/1202/`](pravilnik/2021/1202/) | amending act | 1 | 2021-06-10 | 2021-06-10 |
 | Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na državnu stipendiju za studente pripadnike romske nacionalne manjine | [`pravilnik/2021/1223/`](pravilnik/2021/1223/) | in force | 1 | 2021-06-17 | 2021-06-17 |
@@ -2822,6 +2899,7 @@
 | Pravilnik o nositeljima, sadržaju i postupcima izrade planskih dokumenata u civilnoj zaštiti te načinu informiranja javnosti o postupku njihovog donošenja | [`pravilnik/2021/1281/`](pravilnik/2021/1281/) | in force | 1 | 2021-06-24 | 2021-06-24 |
 | Pravilnik o minimalnom sadržaju plana oporavka društva za osiguranje i društva za reosiguranje | [`pravilnik/2021/1319/`](pravilnik/2021/1319/) | in force | 1 | 2021-07-01 | 2021-07-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu rada Povjerenstva za polaganje završnog ispita u Državnoj školi za pravosudne dužnosnike | [`pravilnik/2021/1320/`](pravilnik/2021/1320/) | amending act | 1 | 2021-07-01 | 2021-07-01 |
+| Pravilnik o sadržaju Akcijskog programa zaštite voda od onečišćenja uzrokovanog nitratima poljoprivrednog podrijetla | [`pravilnik/2021/1355/`](pravilnik/2021/1355/) | repealed 2025-06-28 | 2 | 2021-06-30 | 2025-06-28 |
 | Pravilnik o dopuni Pravilnika o obavljanju gospodarskog ribolova na moru ronjenjem | [`pravilnik/2021/1356/`](pravilnik/2021/1356/) | amending act | 1 | 2021-06-30 | 2021-06-30 |
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu izvršavanja mjera opreza | [`pravilnik/2021/1373/`](pravilnik/2021/1373/) | amending act | 1 | 2021-07-08 | 2021-07-08 |
 | Pravilnik o utvrđivanju liste likvidatora | [`pravilnik/2021/1419/`](pravilnik/2021/1419/) | in force | 1 | 2021-07-10 | 2021-07-10 |
@@ -2843,6 +2921,7 @@
 | Pravilnik o utvrđivanju prosječnih energetskih vrijednosti goriva | [`pravilnik/2021/1623/`](pravilnik/2021/1623/) | in force | 1 | 2021-08-14 | 2021-08-14 |
 | Pravilnik o provedbi Programa poticanja razvoja civilnog društva na otocima | [`pravilnik/2021/1626/`](pravilnik/2021/1626/) | in force | 1 | 2021-08-14 | 2021-08-14 |
 | Pravilnik o resekuritizaciji, objavi informacija o privatnim sekuritizacijama i mrežnim stranicama te izdavanju odobrenja trećim stranama koje provjeravaju STS usklađenost | [`pravilnik/2021/1630/`](pravilnik/2021/1630/) | in force | 1 | 2021-08-14 | 2021-08-14 |
+| Pravilnik o tržišnim standardima za jaja | [`pravilnik/2021/1649/`](pravilnik/2021/1649/) | repealed 2024-07-13 | 2 | 2021-08-21 | 2024-07-13 |
 | Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjera Nacionalnog pčelarskog programa za razdoblje od 2020. do 2022. godine | [`pravilnik/2021/1675/`](pravilnik/2021/1675/) | amending act | 1 | 2021-08-26 | 2021-08-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obrascima u ovršnom postupku, načinu elektroničke komunikacije između sudionika i načinu dodjele predmeta u rad javnom bilježniku | [`pravilnik/2021/1690/`](pravilnik/2021/1690/) | amending act | 1 | 2021-09-15 | 2021-09-15 |
 | Pravilnik o izgledu i sadržaju obrasca o prodaji ili pokušaju transakcije streljiva, sastavnih dijelova streljiva i oružja koja se opravdano smatra sumnjivom | [`pravilnik/2021/1739/`](pravilnik/2021/1739/) | in force | 1 | 2021-09-09 | 2021-09-09 |
@@ -2860,6 +2939,7 @@
 | Pravilnik o polaganju ispita iz poznavanja hrvatskoga jezika i latiničnog pisma u postupku odobrenja dugotrajnog boravišta | [`pravilnik/2021/1800/`](pravilnik/2021/1800/) | in force | 1 | 2021-09-23 | 2021-09-23 |
 | Pravilnik o izmjeni Pravilnika o načinima, postupcima i elementima vrednovanja učenika u osnovnoj i srednjoj školi | [`pravilnik/2021/1801/`](pravilnik/2021/1801/) | in force | 1 | 2021-09-23 | 2021-09-23 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru obalnim mrežama potegačama | [`pravilnik/2021/1804/`](pravilnik/2021/1804/) | amending act | 1 | 2021-09-16 | 2021-09-16 |
+| Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti | [`pravilnik/2021/1827/`](pravilnik/2021/1827/) | repealed 2022-09-22 | 2 | 2021-09-30 | 2022-09-22 |
 | Pravilnik o sadržaju plana miniranja i izvješća o miniranju | [`pravilnik/2021/1830/`](pravilnik/2021/1830/) | in force | 1 | 2021-10-02 | 2021-10-02 |
 | Pravilnik o izmjenama i dopunama Pravilnika o učestalosti, sadržaju, opsegu i načinu izvođenja povremenih sigurnosnih pregleda nuklearnih postrojenja | [`pravilnik/2021/1833/`](pravilnik/2021/1833/) | amending act | 1 | 2021-10-02 | 2021-10-02 |
 | Pravilnik o izmjenama i dopunama Pravilnika o ovlašćivanju stručnih tehničkih servisa za obavljanje poslova radiološke sigurnosti | [`pravilnik/2021/1848/`](pravilnik/2021/1848/) | amending act | 1 | 2021-10-05 | 2021-10-05 |
@@ -2993,6 +3073,7 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o načinu ostvarivanja prava na jednokratnu novčanu pomoć | [`pravilnik/2022/796/`](pravilnik/2022/796/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika o znanstvenim i umjetničkim područjima, poljima i granama | [`pravilnik/2022/798/`](pravilnik/2022/798/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
 | Pravilnik o opremljenosti pojedinih vrsta uslužnih objekata | [`pravilnik/2022/838/`](pravilnik/2022/838/) | in force | 1 | 2022-06-02 | 2022-06-02 |
+| Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim inspekcijskim pregledima i poduzetim mjerama sportske inspekcije | [`pravilnik/2022/864/`](pravilnik/2022/864/) | repealed 2025-10-18 | 2 | 2022-06-04 | 2025-10-18 |
 | Pravilnik o izmjenama i dopuni Pravilnika o ovlastima, obvezama i načinu rada liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/2022/918/`](pravilnik/2022/918/) | amending act | 1 | 2022-06-11 | 2022-06-11 |
 | Pravilnik o izmjenama i dopunama Pravilnika o organizacijskim zahtjevima i pravilima poslovnog ponašanja za obavljanje investicijskih usluga i aktivnosti | [`pravilnik/2022/943/`](pravilnik/2022/943/) | amending act | 1 | 2022-06-16 | 2022-06-16 |
 | Pravilnik o rublju, odjeći, obući i posteljini za zatvorenike | [`pravilnik/2022/997/`](pravilnik/2022/997/) | in force | 1 | 2022-06-18 | 2022-06-18 |
@@ -3040,6 +3121,7 @@
 | Pravilnik o službenoj odori, označavanju i korištenju označenih prijevoznih sredstava Državnog inspektorata | [`pravilnik/2022/1498/`](pravilnik/2022/1498/) | in force | 1 | 2022-09-10 | 2022-09-10 |
 | Pravilnik o stručnoj osposobljenosti osoba koje sudjeluju u prijevozu opasnih tvari unutarnjim vodnim putovima | [`pravilnik/2022/1509/`](pravilnik/2022/1509/) | in force | 1 | 2022-09-15 | 2022-09-15 |
 | Pravilnik o kriterijima slabijeg imovnog stanja polaznika srednje škole radi plaćanja troškova smještaja u učeničkom domu | [`pravilnik/2022/1510/`](pravilnik/2022/1510/) | in force | 1 | 2022-09-15 | 2022-09-15 |
+| Pravilnik o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti | [`pravilnik/2022/1553/`](pravilnik/2022/1553/) | repealed 2023-07-07 | 2 | 2022-09-22 | 2023-07-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena žitarica | [`pravilnik/2022/1554/`](pravilnik/2022/1554/) | amending act | 1 | 2022-09-22 | 2022-09-22 |
 | Pravilnik o tehničkim i drugim mjerama kojima se gledatelji obavještavaju o plasmanu proizvoda u programima | [`pravilnik/2022/1563/`](pravilnik/2022/1563/) | in force | 1 | 2022-10-22 | 2022-10-22 |
 | Pravilnik o načinu i trajanju označavanja programa pod pokroviteljstvom | [`pravilnik/2022/1565/`](pravilnik/2022/1565/) | in force | 1 | 2022-10-22 | 2022-10-22 |
@@ -3070,6 +3152,8 @@
 | Pravilnik o mjerilima za rad službenika u zemljišnoknjižnim odjelima | [`pravilnik/2022/1905/`](pravilnik/2022/1905/) | in force | 1 | 2022-11-03 | 2022-11-03 |
 | Pravilnik o izmjenama Pravilnika o provedbi Programa potpore proizvođačima sjemenskog kukuruza zbog otežanih uvjeta poslovanja uzrokovanih ruskom invazijom na Ukrajinu | [`pravilnik/2022/1906/`](pravilnik/2022/1906/) | in force | 1 | 2022-10-27 | 2022-10-27 |
 | Pravilnik o mikrobiološkoj klasifikaciji i posebnim pravilima higijene živih školjkaša na proizvodnim područjima i područjima za ponovno polaganje | [`pravilnik/2022/1919/`](pravilnik/2022/1919/) | in force | 1 | 2023-01-02 | 2023-01-02 |
+| Pravilnik o Jedinstvenom informacijskom sustavu mineralnih sirovina | [`pravilnik/2022/1943/`](pravilnik/2022/1943/) | repealed 2024-07-25 | 2 | 2022-11-10 | 2024-07-25 |
+| Pravilnik o polaganju stručnog ispita iz rudarstva | [`pravilnik/2022/1944/`](pravilnik/2022/1944/) | repealed 2024-07-25 | 2 | 2022-11-10 | 2024-07-25 |
 | Pravilnik o izmjenama i dopunama Pravilnika o nacionalnom sustavu kvalitete poljoprivrednih i prehrambenih proizvoda "Dokazana kvaliteta" | [`pravilnik/2022/1945/`](pravilnik/2022/1945/) | amending act | 1 | 2022-11-10 | 2022-11-10 |
 | Pravilnik o obrascu izvješća o realizaciji financiranja javnih potreba u kulturi | [`pravilnik/2022/1951/`](pravilnik/2022/1951/) | in force | 1 | 2022-11-12 | 2022-11-12 |
 | Pravilnik o obrascu izvješća o provođenju programa i projekata | [`pravilnik/2022/1952/`](pravilnik/2022/1952/) | in force | 1 | 2022-11-12 | 2022-11-12 |
@@ -3169,6 +3253,7 @@
 | Pravilnik o hrvatskim audiovizualnim djelima | [`pravilnik/2023/56/`](pravilnik/2023/56/) | in force | 1 | 2023-01-13 | 2023-01-13 |
 | Pravilnik o naknadama za poslove biljnog zdravstva | [`pravilnik/2023/69/`](pravilnik/2023/69/) | in force | 1 | 2023-01-19 | 2023-01-19 |
 | Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Državnoodvjetničkog vijeća | [`pravilnik/2023/70/`](pravilnik/2023/70/) | in force | 1 | 2023-01-19 | 2023-01-19 |
+| Pravilnik o postupku i načinu osnivanja Majstorske škole | [`pravilnik/2023/87/`](pravilnik/2023/87/) | repealed 2027-01-01 | 2 | 2023-01-21 | 2027-01-01 |
 | Pravilnik o uvjetima i načinu pristupa i korištenja povjerljivih statističkih podataka Državnog zavoda za statistiku za znanstvene svrhe | [`pravilnik/2023/94/`](pravilnik/2023/94/) | in force | 1 | 2023-01-21 | 2023-01-21 |
 | Pravilnik o načinu utvrđivanja ispunjenosti uvjeta za otpis duga | [`pravilnik/2023/102/`](pravilnik/2023/102/) | in force | 1 | 2023-01-24 | 2023-01-24 |
 | Pravilnik o kriterijima za priznavanje prava na dodatno osiguranje dobrovoljnih vatrogasaca | [`pravilnik/2023/110/`](pravilnik/2023/110/) | in force | 1 | 2023-01-26 | 2023-01-26 |
@@ -3188,6 +3273,7 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o kriterijima za odabir kompetencija potrebnih za rad, za odabir pružatelja usluga i za dodjelu vaučera polaznicima formalnog ili neformalnog obrazovanja odraslih | [`pravilnik/2023/297/`](pravilnik/2023/297/) | amending act | 1 | 2023-02-22 | 2023-02-22 |
 | Pravilnik o izmjenama i dopunama Pravilnika o elektroničkoj žalbi u javnoj nabavi | [`pravilnik/2023/325/`](pravilnik/2023/325/) | amending act | 1 | 2023-02-25 | 2023-02-25 |
 | Pravilnik o izmjenama i dopunama Pravilnika o polaganju državne mature | [`pravilnik/2023/327/`](pravilnik/2023/327/) | amending act | 1 | 2023-02-25 | 2023-02-25 |
+| Pravilnik o obliku, sadržaju i načinu vođenja registra kulturnih dobara Republike Hrvatske | [`pravilnik/2023/328/`](pravilnik/2023/328/) | repealed 2025-10-18 | 2 | 2023-02-25 | 2025-10-18 |
 | Pravilnik o evidencijama u arhivima | [`pravilnik/2023/329/`](pravilnik/2023/329/) | in force | 1 | 2023-02-25 | 2023-02-25 |
 | Pravilnik o dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele državne potpore za štete na uzgajalištima dagnji | [`pravilnik/2023/330/`](pravilnik/2023/330/) | amending act | 1 | 2023-02-18 | 2023-02-18 |
 | Pravilnik o upravljanju zračnim prostorom | [`pravilnik/2023/342/`](pravilnik/2023/342/) | in force | 1 | 2023-02-28 | 2023-02-28 |
@@ -3208,6 +3294,7 @@
 | Pravilnik o sadržaju i tehničkim elementima projekata obnove, projekta za uklanjanje zgrade, projekta za građenje zamjenske obiteljske kuće i projekta za građenje višestambene i stambeno-poslovne zgrade oštećene potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`pravilnik/2023/494/`](pravilnik/2023/494/) | in force | 1 | 2023-03-11 | 2023-03-11 |
 | Pravilnik o izmjenama Pravilnika o planu nabave, registru ugovora, prethodnom savjetovanju i analizi tržišta u javnoj nabavi | [`pravilnik/2023/518/`](pravilnik/2023/518/) | in force | 1 | 2023-03-23 | 2023-03-23 |
 | Pravilnik o kontnom planu mirovinskog osiguravajućeg društva | [`pravilnik/2023/523/`](pravilnik/2023/523/) | in force | 1 | 2023-03-23 | 2023-03-23 |
+| Pravilnik o vrednovanju imovine mirovinskog osiguravajućeg društva | [`pravilnik/2023/524/`](pravilnik/2023/524/) | repealed 2025-01-01 | 2 | 2023-03-23 | 2025-01-01 |
 | Pravilnik o načinu provedbe ovrhe na novčanim sredstvima banke | [`pravilnik/2023/560/`](pravilnik/2023/560/) | in force | 1 | 2023-03-20 | 2023-03-20 |
 | Pravilnik o standardima kvalitete socijalnih usluga | [`pravilnik/2023/563/`](pravilnik/2023/563/) | in force | 1 | 2023-03-18 | 2023-03-18 |
 | Pravilnik o izmjenama Pravilnika o prostorno-tehničkim uvjetima za poslovni prostor u kojem se obavlja detektivska djelatnost | [`pravilnik/2023/567/`](pravilnik/2023/567/) | in force | 1 | 2023-03-30 | 2023-03-30 |
@@ -3286,6 +3373,7 @@
 | Pravilnik o provedbi Programa potpore sektoru svinjogojstva zbog onemogućene aktivnosti uslijed pojave afričke svinjske kuge | [`pravilnik/2023/1415/`](pravilnik/2023/1415/) | in force | 1 | 2023-08-12 | 2023-08-12 |
 | Pravilnik o jedinstvenom europskom broju za hitne službe 112 i drugim pozivnim brojevima hitnih služba | [`pravilnik/2023/1426/`](pravilnik/2023/1426/) | in force | 1 | 2023-08-26 | 2023-08-26 |
 | Pravilnik o dopunama Pravilnika o sustavu za praćenje, mjerenje i verifikaciju ušteda energije | [`pravilnik/2023/1432/`](pravilnik/2023/1432/) | amending act | 1 | 2023-08-31 | 2023-08-31 |
+| Pravilnik o sastavu i načinu rada Komisije za procjenu potrebe korisnika za uslugom osobne asistencije | [`pravilnik/2023/1434/`](pravilnik/2023/1434/) | repealed 2026-06-06 | 2 | 2023-08-31 | 2026-06-06 |
 | Pravilnik o izmjenama Pravilnika o sastavu i načinu rada povjerenstva za izbor udomitelja za obavljanje udomiteljstva kao zanimanja | [`pravilnik/2023/1438/`](pravilnik/2023/1438/) | in force | 1 | 2023-08-31 | 2023-08-31 |
 | Pravilnik o provedbi mjere I.10. »Trajni prestanak ribolovnih aktivnosti« | [`pravilnik/2023/1454/`](pravilnik/2023/1454/) | in force | 1 | 2023-08-29 | 2023-08-29 |
 | Pravilnik o izmjeni i dopuni Pravilnika o obliku, sadržaju i načinu postavljanja propisanih oznaka i signalizacije na graničnom prijelazu | [`pravilnik/2023/1458/`](pravilnik/2023/1458/) | amending act | 1 | 2023-09-06 | 2023-09-06 |
@@ -3570,6 +3658,8 @@
 | Pravilnik o dopunama Pravilnika o listi psihijatrijskih ustanova koje ispunjavaju uvjete za smještaj i liječenje djece odvojeno od punoljetnih osoba | [`pravilnik/2024/2443/`](pravilnik/2024/2443/) | amending act | 1 | 2024-12-26 | 2024-12-26 |
 | Pravilnik o izmjeni i dopunama Pravilnika o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi | [`pravilnik/2024/2487/`](pravilnik/2024/2487/) | amending act | 1 | 2025-01-01 | 2025-01-01 |
 | Pravilnik o uvjetima za sudjelovanje kopitara na natjecanjima te prikupljanju podataka s natjecanja | [`pravilnik/2024/2490/`](pravilnik/2024/2490/) | in force | 1 | 2024-12-31 | 2024-12-31 |
+| Pravilnik o plaćanju naknada za obavljanje poslova Hrvatske regulatorne agencije za mrežne djelatnosti | [`pravilnik/2024/2492/`](pravilnik/2024/2492/) | repealed 2026-01-01 | 2 | 2025-01-01 | 2026-01-01 |
+| Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2025. godinu | [`pravilnik/2024/2523/`](pravilnik/2024/2523/) | repealed 2026-01-01 | 2 | 2025-01-01 | 2026-01-01 |
 | Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja obveznog mirovinskog fonda | [`pravilnik/2024/2528/`](pravilnik/2024/2528/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Pravilnik o dozvoljenim ulaganjima i dodatnim ograničenjima ulaganja dobrovoljnog mirovinskog fonda | [`pravilnik/2024/2529/`](pravilnik/2024/2529/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Pravilnik o vrednovanju imovine mirovinskog osiguravajućeg društva | [`pravilnik/2024/2531/`](pravilnik/2024/2531/) | in force | 1 | 2025-01-01 | 2025-01-01 |
@@ -4032,7 +4122,7 @@
 | Statut političke stranke Republika | [`statut/2026/863/`](statut/2026/863/) | in force | 1 | 2025-12-12 | 2025-12-12 |
 | Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga | [`statut/2026/1299/`](statut/2026/1299/) | amending act | 1 | 2026-10-03 | 2026-10-03 |
 
-## uredba (271, of which 66 amending acts)
+## uredba (288, of which 66 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4047,6 +4137,8 @@
 | Uredba o prestanku važenja Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s trećim zemljama za određenu robu | [`uredba/2019/1855/`](uredba/2019/1855/) | in force | 1 | 2019-10-12 | 2019-10-12 |
 | Uredba o Središnjem registru državne imovine | [`uredba/2020/40/`](uredba/2020/40/) | in force | 1 | 2020-01-16 | 2020-01-16 |
 | Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2019. godini | [`uredba/2020/534/`](uredba/2020/534/) | in force | 1 | 2020-02-29 | 2020-02-29 |
+| Uredba o visini trošarine na alkohol i alkoholna pića | [`uredba/2020/716/`](uredba/2020/716/) | repealed 2023-01-01 | 2 | 2020-04-01 | 2023-01-01 |
+| Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na kavu i bezalkoholna pića | [`uredba/2020/717/`](uredba/2020/717/) | repealed 2023-01-01 | 2 | 2020-04-01 | 2023-01-01 |
 | Uredba o dopunama Uredbe o načinu, postupku i uvjetima procjene vrijednosti i prodaje turističkog zemljišta u vlasništvu jedinice lokalne samouprave te načinu, postupku i uvjetima za dobivanje koncesije na preostalom turističkom zemljištu u vlasništvu jedinice lokalne samouprave | [`uredba/2020/853/`](uredba/2020/853/) | amending act | 1 | 2020-04-04 | 2020-04-04 |
 | Uredba o dopuni Uredbe o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske | [`uredba/2020/854/`](uredba/2020/854/) | amending act | 1 | 2020-04-04 | 2020-04-04 |
 | Uredba o izmjeni i dopunama Uredbe o odgovornosti za štete u okolišu | [`uredba/2020/1017/`](uredba/2020/1017/) | amending act | 1 | 2020-05-02 | 2020-05-02 |
@@ -4062,6 +4154,11 @@
 | Uredba o dopuni Zakona o sportu | [`uredba/2020/1463/`](uredba/2020/1463/) | amending act | 1 | 2020-07-04 | 2020-07-04 |
 | Uredba o snimanju iz zraka | [`uredba/2020/1464/`](uredba/2020/1464/) | in force | 1 | 2020-07-11 | 2020-07-11 |
 | Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo | [`uredba/2020/1679/`](uredba/2020/1679/) | amending act | 1 | 2020-08-08 | 2020-08-08 |
+| Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova | [`uredba/2020/1812/`](uredba/2020/1812/) | repealed 2025-01-28 | 2 | 2020-09-08 | 2025-01-28 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva i održivog razvoja | [`uredba/2020/1816/`](uredba/2020/1816/) | repealed 2024-06-22 | 2 | 2020-09-08 | 2024-06-22 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za demografiju i mlade | [`uredba/2020/1828/`](uredba/2020/1828/) | repealed 2023-06-17 | 2 | 2020-09-08 | 2023-06-17 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva | [`uredba/2020/1829/`](uredba/2020/1829/) | repealed 2022-05-19 | 2 | 2020-09-08 | 2022-05-19 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje | [`uredba/2020/1831/`](uredba/2020/1831/) | repealed 2022-03-05 | 2 | 2020-09-08 | 2022-03-05 |
 | Uredba o osnivanju Državne vatrogasne škole | [`uredba/2020/2008/`](uredba/2020/2008/) | in force | 1 | 2020-10-10 | 2020-10-10 |
 | Uredba o visini minimalne plaće za 2021. godinu | [`uredba/2020/2307/`](uredba/2020/2307/) | in force | 1 | 2021-01-01 | 2021-01-01 |
 | Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2020/2308/`](uredba/2020/2308/) | in force | 1 | 2020-10-31 | 2020-10-31 |
@@ -4070,6 +4167,7 @@
 | Uredba o dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja | [`uredba/2020/2490/`](uredba/2020/2490/) | amending act | 1 | 2020-11-28 | 2020-11-28 |
 | Uredba o namjeni i načinu raspodjele sredstava Fonda za udružene turističke zajednice za 2020. godinu | [`uredba/2020/2657/`](uredba/2020/2657/) | in force | 1 | 2020-12-12 | 2020-12-12 |
 | Uredba o izmjenama Zakona o zdravstvenoj zaštiti | [`uredba/2020/2842/`](uredba/2020/2842/) | in force | 1 | 2020-12-31 | 2020-12-31 |
+| Uredba o načinu izračuna i visinama sastavnica za izračun posebnog poreza na motorna vozila | [`uredba/2020/2890/`](uredba/2020/2890/) | repealed 2023-01-01 | 2 | 2021-01-01 | 2023-01-01 |
 | Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2021. godinu | [`uredba/2020/2891/`](uredba/2020/2891/) | in force | 1 | 2021-01-01 | 2021-01-01 |
 | Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2021. godinu | [`uredba/2020/2892/`](uredba/2020/2892/) | in force | 1 | 2021-01-01 | 2021-01-01 |
 | Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon | [`uredba/2021/26/`](uredba/2021/26/) | in force | 1 | 2021-01-16 | 2021-01-16 |
@@ -4096,6 +4194,7 @@
 | Uredba o naknadama za postupke u području intelektualnog vlasništva i stručne usluge Državnog zavoda za intelektualno vlasništvo | [`uredba/2021/2043/`](uredba/2021/2043/) | in force | 1 | 2021-11-13 | 2021-11-13 |
 | Uredba o osnivanju Instituta za vode »Josip Juraj Strossmayer« | [`uredba/2021/2438/`](uredba/2021/2438/) | in force | 1 | 2022-01-01 | 2022-01-01 |
 | Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2022. godinu | [`uredba/2021/2533/`](uredba/2021/2533/) | in force | 1 | 2022-01-01 | 2022-01-01 |
+| Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođača kojeg su opskrbljivači električne energije dužni preuzeti od operatora tržišta električne energije | [`uredba/2021/2534/`](uredba/2021/2534/) | repealed 2023-01-01 | 2 | 2022-01-01 | 2023-01-01 |
 | Uredba o izmjeni Uredbe o utvrđivanju radnih mjesta u Ministarstvu unutarnjih poslova koja se popunjavaju bez objave natječaja | [`uredba/2022/70/`](uredba/2022/70/) | in force | 1 | 2022-01-25 | 2022-01-25 |
 | Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2022/83/`](uredba/2022/83/) | amending act | 1 | 2022-01-22 | 2022-01-22 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europske unije | [`uredba/2022/84/`](uredba/2022/84/) | amending act | 1 | 2022-01-29 | 2022-01-29 |
@@ -4106,6 +4205,7 @@
 | Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2022. godinu | [`uredba/2022/281/`](uredba/2022/281/) | in force | 1 | 2022-02-26 | 2022-02-26 |
 | Uredba o izmjenama i dopuni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava | [`uredba/2022/374/`](uredba/2022/374/) | amending act | 1 | 2022-04-01 | 2022-04-01 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike | [`uredba/2022/434/`](uredba/2022/434/) | amending act | 1 | 2022-03-26 | 2022-03-26 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva | [`uredba/2022/700/`](uredba/2022/700/) | repealed 2024-06-25 | 2 | 2022-05-19 | 2024-06-25 |
 | Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2022. | [`uredba/2022/726/`](uredba/2022/726/) | in force | 1 | 2022-05-21 | 2022-05-21 |
 | Uredba o graničnim kontrolnim postajama, inspekcijskim centrima, kontrolnim točkama te ostalim graničnim prijelazima i carinskim mjestima na kojima se provode službene kontrole robe i životinja koje ulaze u Europsku uniju | [`uredba/2022/727/`](uredba/2022/727/) | in force | 1 | 2022-05-21 | 2022-05-21 |
 | Uredba o izmjenama Uredbe o Uredu potpredsjednika Vlade Republike Hrvatske | [`uredba/2022/728/`](uredba/2022/728/) | in force | 1 | 2022-05-14 | 2022-05-14 |
@@ -4117,6 +4217,7 @@
 | Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2022/2089/`](uredba/2022/2089/) | amending act | 1 | 2022-12-08 | 2022-12-08 |
 | Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta policijskih službenika | [`uredba/2022/2295/`](uredba/2022/2295/) | in force | 1 | 2023-01-01 | 2023-01-01 |
 | Uredba o izmjenama i dopunama Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2022/2298/`](uredba/2022/2298/) | amending act | 1 | 2023-01-01 | 2023-01-01 |
+| Uredba o Zakonu o hitnoj intervenciji za rješavanje pitanja visokih cijena električne energije | [`uredba/2022/2516/`](uredba/2022/2516/) | repealed 2023-07-01 | 2 | 2023-01-01 | 2023-07-01 |
 | Uredba o izmjeni Zakona o obveznim odnosima | [`uredba/2022/2517/`](uredba/2022/2517/) | in force | 1 | 2023-01-01 | 2023-01-01 |
 | Uredba o dopuni Zakona o zdravstvenoj zaštiti | [`uredba/2022/2518/`](uredba/2022/2518/) | amending act | 1 | 2022-12-31 | 2022-12-31 |
 | Uredba o visini trošarine na alkohol i alkoholna pića | [`uredba/2022/2522/`](uredba/2022/2522/) | in force | 1 | 2023-01-01 | 2023-01-01 |
@@ -4138,6 +4239,7 @@
 | Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2023. godinu | [`uredba/2023/533/`](uredba/2023/533/) | in force | 1 | 2023-03-18 | 2023-03-18 |
 | Uredba o izmjenama Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad | [`uredba/2023/535/`](uredba/2023/535/) | in force | 1 | 2023-04-01 | 2023-04-01 |
 | Uredba o upravljanju i vođenju poslova lučkih uprava unutarnjih voda | [`uredba/2023/584/`](uredba/2023/584/) | in force | 1 | 2023-04-01 | 2023-04-01 |
+| Uredba o Tarifi sudskih pristojbi | [`uredba/2023/621/`](uredba/2023/621/) | repealed 2026-06-01 | 2 | 2023-04-08 | 2026-06-01 |
 | Uredba o smjernicama za izradu akata strateškog planiranja od nacionalnog značaja i od značaja za jedinice lokalne i područne (regionalne) samouprave | [`uredba/2023/622/`](uredba/2023/622/) | in force | 1 | 2023-04-08 | 2023-04-08 |
 | Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2022. godini | [`uredba/2023/791/`](uredba/2023/791/) | in force | 1 | 2023-04-29 | 2023-04-29 |
 | Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2023/793/`](uredba/2023/793/) | amending act | 1 | 2023-05-06 | 2023-05-06 |
@@ -4148,13 +4250,16 @@
 | Uredba o vrednovanju učinkovitosti poslovanja isporučitelja vodnih usluga | [`uredba/2023/1162/`](uredba/2023/1162/) | in force | 1 | 2023-07-16 | 2023-07-16 |
 | Uredba o kriterijima za provođenje javnog natječaja za izdavanje energetskog odobrenja i uvjetima izdavanja energetskog odobrenja | [`uredba/2023/1165/`](uredba/2023/1165/) | in force | 1 | 2023-07-07 | 2023-07-07 |
 | Uredba o programskom financiranju javnih visokih učilišta i javnih znanstvenih instituta u Republici Hrvatskoj | [`uredba/2023/1245/`](uredba/2023/1245/) | in force | 1 | 2023-07-22 | 2023-07-22 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske | [`uredba/2023/1348/`](uredba/2023/1348/) | repealed 2024-06-25 | 2 | 2023-08-05 | 2024-06-25 |
 | Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2023/1349/`](uredba/2023/1349/) | amending act | 1 | 2023-07-29 | 2023-07-29 |
 | Uredba o metodologijama vještačenja | [`uredba/2023/1430/`](uredba/2023/1430/) | in force | 1 | 2023-08-31 | 2023-08-31 |
 | Uredba o područjima matičnih ureda | [`uredba/2023/1439/`](uredba/2023/1439/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Uredba o izmjeni Zakona o predškolskom odgoju i obrazovanju | [`uredba/2023/1468/`](uredba/2023/1468/) | repealed 2026-03-13 | 2 | 2023-09-02 | 2026-03-13 |
 | Uredba o izmjeni i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova | [`uredba/2023/1470/`](uredba/2023/1470/) | amending act | 1 | 2023-09-09 | 2023-09-09 |
 | Uredba o visini minimalne plaće za 2024. godinu | [`uredba/2023/1740/`](uredba/2023/1740/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Uredba o provedbi Uredbe (EU) 2022/1925 Europskog parlamenta i Vijeća od 14. rujna 2022. o pravednim tržištima s mogućnošću neograničenog tržišnog natjecanja u digitalnom sektoru i izmjeni direktiva (EU) 2019/1937 i (EU) 2020/1828 (Akt o digitalnim tržištima) | [`uredba/2023/1799/`](uredba/2023/1799/) | in force | 1 | 2023-11-11 | 2023-11-11 |
 | Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2023. | [`uredba/2023/1800/`](uredba/2023/1800/) | in force | 1 | 2023-11-11 | 2023-11-11 |
+| Uredba o izmjeni Zakona o službi u Oružanim snagama Republike Hrvatske | [`uredba/2023/2504/`](uredba/2023/2504/) | repealed 2024-02-15 | 2 | 2023-12-30 | 2024-02-15 |
 | Uredba o načinu ocjene i postupku odobravanja investicijskih projekata | [`uredba/2023/2505/`](uredba/2023/2505/) | in force | 1 | 2023-12-30 | 2023-12-30 |
 | Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođača koji su opskrbljivači električne energije dužni preuzeti od operatora tržišta električne energije za 2024. godinu | [`uredba/2023/2506/`](uredba/2023/2506/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2024. godinu | [`uredba/2024/188/`](uredba/2024/188/) | in force | 1 | 2024-01-27 | 2024-01-27 |
@@ -4188,6 +4293,7 @@
 | Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za Hrvate izvan Republike Hrvatske | [`uredba/2024/1226/`](uredba/2024/1226/) | in force | 1 | 2024-06-25 | 2024-06-25 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede | [`uredba/2024/1227/`](uredba/2024/1227/) | amending act | 1 | 2024-06-25 | 2024-06-25 |
 | Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2024. | [`uredba/2024/1313/`](uredba/2024/1313/) | in force | 1 | 2024-07-06 | 2024-07-06 |
+| Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu | [`uredba/2024/1693/`](uredba/2024/1693/) | repealed 2025-07-31 | 2 | 2024-08-03 | 2025-07-31 |
 | Uredba o visini dodataka na osnovni koeficijent za radna mjesta profesionalnih vatrogasaca | [`uredba/2024/1694/`](uredba/2024/1694/) | in force | 1 | 2024-08-10 | 2024-08-10 |
 | Uredba o procjeni ekološkog rizika i rizika invazivnosti stranih vrsta | [`uredba/2024/1777/`](uredba/2024/1777/) | in force | 1 | 2024-09-07 | 2024-09-07 |
 | Uredba o Vijeću za vodne usluge | [`uredba/2024/1870/`](uredba/2024/1870/) | in force | 1 | 2024-10-01 | 2024-10-01 |
@@ -4248,6 +4354,7 @@
 | Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2025/1248/`](uredba/2025/1248/) | in force | 1 | 2025-06-24 | 2025-06-24 |
 | Uredba o izmjenama i dopunama Uredbe o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja | [`uredba/2025/1251/`](uredba/2025/1251/) | amending act | 1 | 2025-06-24 | 2025-06-24 |
 | Uredba o kriterijima za klasifikaciju izdavatelja kao namjenskog izdavatelja za financiranje ili sekuritizaciju infrastrukturnih projekata na području Republike Hrvatske | [`uredba/2025/1267/`](uredba/2025/1267/) | in force | 1 | 2025-06-28 | 2025-06-28 |
+| Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode | [`uredba/2025/1291/`](uredba/2025/1291/) | repealed 2026-01-01 | 2 | 2025-07-01 | 2026-01-01 |
 | Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova | [`uredba/2025/1292/`](uredba/2025/1292/) | in force | 1 | 2025-07-01 | 2025-07-01 |
 | Uredba o izmjenama Uredbe o tijelima u Sustavu upravljanja i kontrole za provedbu Programa Fonda za unutarnju sigurnost, Fonda za azil, migracije i integraciju i Fonda za integrirano upravljanje granicama Instrumenta za financijsku potporu u području upravljanja granicama i vizne politike za programsko razdoblje 2021. - 2027. | [`uredba/2025/1362/`](uredba/2025/1362/) | in force | 1 | 2025-07-12 | 2025-07-12 |
 | Uredba o Uredu za udruge | [`uredba/2025/1393/`](uredba/2025/1393/) | in force | 1 | 2025-07-19 | 2025-07-19 |
@@ -4308,7 +4415,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (303, of which 256 amending acts)
+## zakon (304, of which 256 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4508,6 +4615,7 @@
 | Zakon o izmjenama i dopunama Zakona o Financijskom inspektoratu Republike Hrvatske | [`zakon/2024/2246/`](zakon/2024/2246/) | amending act | 1 | 2024-12-05 | 2024-12-05 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti zraka | [`zakon/2024/2247/`](zakon/2024/2247/) | amending act | 1 | 2024-12-05 | 2024-12-05 |
 | Zakon o izmjenama i dopunama Zakona o poticanju ulaganja | [`zakon/2024/2250/`](zakon/2024/2250/) | amending act | 1 | 2024-11-28 | 2024-11-28 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskoga sabora | [`zakon/2024/2367/`](zakon/2024/2367/) | repealed 2025-12-15 | 2 | 2024-12-15 | 2025-12-15 |
 | Zakon o izmjenama i dopunama Zakona o kreditnim institucijama | [`zakon/2024/2370/`](zakon/2024/2370/) | amending act | 1 | 2024-12-21 | 2024-12-21 |
 | Zakon o izmjenama i dopunama Zakona o sanaciji kreditnih institucija i investicijskih društava | [`zakon/2024/2371/`](zakon/2024/2371/) | amending act | 1 | 2024-12-21 | 2024-12-21 |
 | Zakon o izmjenama i dopuni Zakona o računovodstvu | [`zakon/2024/2372/`](zakon/2024/2372/) | amending act | 1 | 2024-12-14 | 2024-12-14 |
