@@ -232,6 +232,14 @@ def in_force(text: str, pub: str, adopted: str | None) -> tuple[str, str]:
     raise Hold("in_force_unreadable:" + s.strip()[:160])
 
 
+INCOMING = ("amended_by", "changed_by", "repealed_by", "corrected_by", "consolidated_by")
+
+
+def eli_url(u: str) -> str:
+    """One spelling of an ELI address: some pages write 'https:/narodne-novine...' with one slash."""
+    return re.sub(r"^(https?):/+", r"\1://", u.strip()).rstrip("/")
+
+
 def eli_meta(t: str) -> dict:
     out: dict = defaultdict(list)
     for about, prop, val in re.findall(r'<meta about="([^"]+)" property="http://data\.europa\.eu/eli/ontology#(\w+)"\s+'
@@ -370,8 +378,9 @@ def page_facts(h: str, r: dict, raw: bytes) -> dict:
     own reading: the in-force day or why it is held. Depends on the page bytes only."""
     t = raw.decode("utf-8", "replace")
     meta = eli_meta(t)
-    links = [[prop, target.rstrip("/")] for prop in ("amends", "changes", "repeals", "corrects", "consolidates")
+    links = [[prop, eli_url(target)] for prop in ("amends", "changes", "repeals", "corrects", "consolidates")
              for target in meta.get(prop, [])]
+    inc = [[prop, eli_url(src)] for prop in INCOMING for src in meta.get(prop, [])]
     i = t.find('<div class="sl-content">')
     body = norm(re.sub(r"<[^>]+>", " ", t[i:])) if i >= 0 else ""
     cites = []
@@ -386,7 +395,8 @@ def page_facts(h: str, r: dict, raw: bytes) -> dict:
         for j, n in enumerate(nums):
             after = any(x[2] > n[2] or (x[2] == n[2] and x[0] > n[0]) for x in nums[j + 1:])
             cites.append([k, s, n[0], n[1], n[2], after, verb])
-    out = {"links": links, "cites": cites, "sha": hashlib.sha256(raw).hexdigest()}
+    out = {"links": links, "inc": inc, "eli": "ELI metadata" in t[:6000], "cites": cites,
+           "sha": hashlib.sha256(raw).hexdigest()}
     kind = KINDS.get(r.get("kind", ""))
     if kind:
         try:
@@ -417,6 +427,9 @@ def main():
     ap.add_argument("--frontier", choices=["all", "amenders"], default="all",
                     help="publish a year once every later document (all) or every later amender has been read")
     ap.add_argument("--compare-frontiers", action="store_true", help="self-check of the amender frontier; writes nothing")
+    ap.add_argument("--relations", help="relations.jsonl: per act, the ELI relations Narodne novine lists for it, with "
+                                        "the day they were read ({stem, status, fetched, incoming: [{rel, from_eli}]})")
+    ap.add_argument("--compare-early", action="store_true", help="self-check of the early release; writes nothing")
     a = ap.parse_args()
     src = Path(a.src)
     index: dict[str, dict] = {}
@@ -506,7 +519,7 @@ def main():
             break
 
     eli_of = lambda r: f"{SITE}/eli/sluzbeni/{r['year']}/{r['issue']}/{r['doc']}"  # noqa: E731
-    by_eli = {eli_of(r): h for h, r in index.items()}
+    by_eli = {eli_url(eli_of(r)): h for h, r in index.items()}
     pub_day = {h: r["date"] for h, r in index.items()}
     facts: dict[str, dict] = {}
     for h, r in index.items():
@@ -529,7 +542,7 @@ def main():
     for h, f in facts.items():
         r = index[h]
         for prop, target in f["links"]:
-            th = by_eli.get(target)
+            th = by_eli.get(eli_url(target))
             if th and th != h:
                 incoming[th].add((f"{prop}:{r['issue']}/{r['year']}-{r['doc']}", h))
         for k, s, n0, n1, n2, after, verb in f["cites"]:
@@ -578,9 +591,41 @@ def main():
         return sorted(x for x in hits if x != h and index[x]["date"] >= day
                       and (CHANGE_TITLE.search(index[x]["title"]) or cores[x] == c))
 
-    def evaluate(year_read, counts=lambda src, act: True):
+    # Relations Narodne novine lists for an act (its own page's ELI block, and the newest status-200 relations record)
+    rel: dict[str, dict] = {}
+    if a.relations and Path(a.relations).exists():
+        for ln in Path(a.relations).read_text(encoding="utf-8").splitlines():
+            try:
+                x = json.loads(ln)
+            except ValueError:
+                continue
+            if x.get("status") == 200 and x.get("stem") and x.get("fetched", "") >= rel.get(x["stem"], {}).get("fetched", ""):
+                rel[x["stem"]] = x
+    unread_days = sorted(r["date"] for h, r in index.items() if stem_of(h) not in files)
+    latest_unread = unread_days[-1] if unread_days else "0000-00-00"
+
+    def listed_incoming(h: str) -> list[str]:
+        f = facts.get(h) or {}
+        out = [f"{prop}:{src}" for prop, src in f.get("inc", [])]
+        x = rel.get(stem_of(h))
+        if x:
+            out += [f"{i.get('rel')}:{eli_url(i.get('from_eli', ''))}" for i in x.get("incoming", [])]
+        return sorted(set(out))
+
+    def early_ok(h: str, r: dict) -> bool:
+        """An act from 2015 on may be decided before the frontier reaches its year when Narodne novine's relations
+        record for it lists nothing that changes it and every document published from 14 days before that record
+        was read on has been read (the record may lag that long); the title and citation rules still apply."""
+        x = rel.get(stem_of(h))
+        if r["year"] < 2015 or not x or x.get("incoming"):
+            return False
+        since = (date.fromisoformat(x["fetched"][:10]) - timedelta(days=14)).isoformat()
+        return latest_unread < since
+
+    def evaluate(year_read, counts=lambda src, act: True, early=lambda h, r: False):
         """Decide every act. year_read(year): every document that could change an act of that year has been read.
-        counts(src, act): whether the page src is used as evidence against the act (for the frontier check)."""
+        counts(src, act): whether the page src is used as evidence against the act (for the frontier check).
+        early(h, r): the act may be decided before its year is read (early release)."""
         chosen: dict[int, list[tuple[str, str, dict, dict]]] = defaultdict(list)
         holds = []
         skipped = defaultdict(int)
@@ -605,9 +650,12 @@ def main():
             try:
                 if slug in rejects:
                     raise Hold("rejected:" + str(rejects[slug])[:200])
-                if not year_read(r["year"]):
-                    raise Hold(f"later_documents_not_all_read:frontier={frontier}")
                 f = facts.get(h)
+                li = listed_incoming(h)
+                if li:
+                    raise Hold("eli_incoming:" + ",".join(li[:5]))
+                if not year_read(r["year"]) and not early(h, r):
+                    raise Hold(f"later_documents_not_all_read:frontier={frontier}")
                 if f is None:
                     raise Hold("page_missing")
                 inc = sorted(lab for lab, src in incoming.get(h, ()) if counts(src, h))
@@ -660,8 +708,31 @@ def main():
                           "reasons": [x["reason"][:80] for x in full_holds if x["slug"] in set(missed[:20])]},
                          ensure_ascii=False))
         return
+    if a.compare_early:
+        # Self-check of the early release on years where everything has been read: for acts with a clean relations
+        # record, count as evidence only documents published from 14 days before the record was read (what early
+        # release relies on reading), and compare the held set with the full reading.
+        def recent_only(src: str, act: str) -> bool:
+            x = rel.get(stem_of(act))
+            if not x or x.get("incoming") or index[act]["year"] < 2015:
+                return True
+            since = (date.fromisoformat(x["fetched"][:10]) - timedelta(days=14)).isoformat()
+            return index[src]["date"] >= since
+        _, full_holds, _ = evaluate(lambda y: y >= frontier)
+        _, lite_holds, _ = evaluate(lambda y: y >= frontier, recent_only)
+        fh = {x["slug"] for x in full_holds}
+        lh = {x["slug"] for x in lite_holds}
+        cand = {x["slug"] for x in full_holds + lite_holds}
+        clean = sum(1 for h, r in index.items() if r["year"] >= max(frontier, 2015) and rel.get(stem_of(h))
+                    and not rel[stem_of(h)].get("incoming"))
+        missed = sorted(fh - lh)
+        print(json.dumps({"years_from": frontier, "clean_records_in_those_years": clean, "held_full": len(fh),
+                          "held_early": len(lh), "held_by_full_not_by_early": len(missed), "examples": missed[:20],
+                          "reasons": [x["reason"][:80] for x in full_holds if x["slug"] in set(missed[:20])],
+                          "acts_considered": len(cand)}, ensure_ascii=False))
+        return
     if a.frontier == "amenders":
-        chosen, holds, skipped = evaluate(lambda y: y >= am_frontier)
+        chosen, holds, skipped = evaluate(lambda y: y >= am_frontier, early=early_ok if rel else (lambda h, r: False))
     else:
         chosen, holds, skipped = evaluate(lambda y: y >= frontier)
 

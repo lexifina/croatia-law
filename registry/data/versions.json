@@ -2,6 +2,2076 @@
  "country": "HR",
  "acts": [
   {
+   "slug": "naredba-2015-2382",
+   "path": "naredba/2015/2382",
+   "short": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu",
+   "title": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/125/2382",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_11_125_2382.html",
+     "sha256": "e4e13eda359f592c42c09b36bfffa1c776552d75d70996e3190e810473ce0aa4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-1115",
+   "path": "odluka/2015/1115",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indoneziji i Filipinima, sa sjedištem u Jakarti",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indoneziji i Filipinima, sa sjedištem u Jakarti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/57/1115",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_05_57_1115.html",
+     "sha256": "90de9ffc8694ca02a18585c6464fea0c32c4a136fe984966f5d7899e87ceb0cf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-1148",
+   "path": "odluka/2015/1148",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Makedoniji, sa sjedištem u Skopju",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Makedoniji, sa sjedištem u Skopju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/59/1148",
+   "versions": [
+    {
+     "from": "2015-08-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_05_59_1148.html",
+     "sha256": "2d8afe249ec206fff095cacb7749b2c1ab17864af1d750d1d7bb20b386ae1f34"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-1231",
+   "path": "odluka/2015/1231",
+   "short": "Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vrgorca i gradonačelnika te zamjenika gradonačelnika Grada Vrgorca i Općinsko vijeće Općine Semeljci i općinskog načelnika te zamjenika općinskog načelnika Općine Semeljci",
+   "title": "Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vrgorca i gradonačelnika te zamjenika gradonačelnika Grada Vrgorca i Općinsko vijeće Općine Semeljci i općinskog načelnika te zamjenika općinskog načelnika Općine Semeljci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/64/1231",
+   "versions": [
+    {
+     "from": "2015-06-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_06_64_1231.html",
+     "sha256": "5d0535d6c491bd6f53385ab5998b287345750afab11e43e06148624e74463a0a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-1594",
+   "path": "odluka/2015/1594",
+   "short": "Odluka o punoj subvenciji participacije redovitih studenata u troškovima studija i sufinanciranju materijalnih troškova javnim visokim učilištima u Republici Hrvatskoj u akademskim godinama 2015./2016., 2016./2017. i 2017./2018.",
+   "title": "Odluka o punoj subvenciji participacije redovitih studenata u troškovima studija i sufinanciranju materijalnih troškova javnim visokim učilištima u Republici Hrvatskoj u akademskim godinama 2015./2016., 2016./2017. i 2017./2018.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/83/1594",
+   "versions": [
+    {
+     "from": "2015-07-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_07_83_1594.html",
+     "sha256": "8c272b7c17f713d8c137301913bab3132548f617cb8f4237490af1ddcb39b3f1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-1994",
+   "path": "odluka/2015/1994",
+   "short": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Litvi, sa sjedištem u Vilniusu",
+   "title": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Litvi, sa sjedištem u Vilniusu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/103/1994",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_09_103_1994.html",
+     "sha256": "b3ab294f64e8162e8bc47257cb09e8f7a4c7890cf8a082a8796e626a32126db0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2217",
+   "path": "odluka/2015/2217",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2217",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2217.html",
+     "sha256": "6ff41573d35881b14a578126dfcbb42789e529c53beea7801311b40c142b5402"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2218",
+   "path": "odluka/2015/2218",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Maleziji",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Maleziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2218",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2218.html",
+     "sha256": "a94f26e3e6abeb2fa412a2f06f9c91cdf3d0a6a01b241c3964c9f3a507a2cec8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2219",
+   "path": "odluka/2015/2219",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Portugalskoj Republici",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Portugalskoj Republici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2219",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2219.html",
+     "sha256": "f3bc46729c29d953debc2d4e5a4bdc84a9b4d2284e5dc12fb3ea32c2262c6b88"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2220",
+   "path": "odluka/2015/2220",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Nizozemskoj",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Nizozemskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2220",
+   "versions": [
+    {
+     "from": "2015-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2220.html",
+     "sha256": "6eb41894962ba1c6ff9648bbcac7fadb81ca674308d74cceb2f3b009003e1e22"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2223",
+   "path": "odluka/2015/2223",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Albaniji",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Albaniji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2223",
+   "versions": [
+    {
+     "from": "2015-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2223.html",
+     "sha256": "ed88fecce2b3cc253f42f2eeff54371eea6d414affeccc9eed2715ba00bbc52f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2224",
+   "path": "odluka/2015/2224",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Kosovo",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Kosovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2224",
+   "versions": [
+    {
+     "from": "2015-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2224.html",
+     "sha256": "a7155c86c523058fa21dbcba75eff38c8148dc80b596279c65c54182a33415f1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2225",
+   "path": "odluka/2015/2225",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kanadi",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kanadi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2225",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2225.html",
+     "sha256": "d3e712417a7eaf7a4e5625eab1900845e88a23c1fa15af2708a72b4dba86e24e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2226",
+   "path": "odluka/2015/2226",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske pri Svetoj Stolici",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske pri Svetoj Stolici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2226",
+   "versions": [
+    {
+     "from": "2015-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2226.html",
+     "sha256": "8c31f9812cb098ef9a4ccbbc35747819b7a9a2f95c1ae8385bbffb9ec44e84e9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2227",
+   "path": "odluka/2015/2227",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Japanu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Japanu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2227",
+   "versions": [
+    {
+     "from": "2015-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2227.html",
+     "sha256": "3ceeae457d0bb8daa497ca03e7543ec98aa208add837e6e6a7b5a08ac034ed60"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2228",
+   "path": "odluka/2015/2228",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Brazil",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Brazil",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/118/2228",
+   "versions": [
+    {
+     "from": "2015-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_118_2228.html",
+     "sha256": "0ac335ddf76cabd946724c44edfc3452573c4e50bfd93055e5998d1decf4cb07"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2243",
+   "path": "odluka/2015/2243",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Južnoj Africi",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Južnoj Africi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/119/2243",
+   "versions": [
+    {
+     "from": "2015-10-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_119_2243.html",
+     "sha256": "280851b79c03805e26d8d3bde37c41c98ce29b37535b2cb66592c3de51e88eb5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2308",
+   "path": "odluka/2015/2308",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Gabonskoj Republici",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Gabonskoj Republici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/122/2308",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_11_122_2308.html",
+     "sha256": "aae35d89fa7ef1c04b4c8b854746734893806fcae471b3067df5160bc448e3e6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2309",
+   "path": "odluka/2015/2309",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Burkini Faso",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Burkini Faso",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/122/2309",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_11_122_2309.html",
+     "sha256": "cd70f67cae62d8cae907ad1ad0aa081f94c9e90ae08ea8332a9a16cd923c7a2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-2569",
+   "path": "odluka/2015/2569",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Rumunjskoj",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Rumunjskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/137/2569",
+   "versions": [
+    {
+     "from": "2015-12-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_12_137_2569.html",
+     "sha256": "f0a3bae3f249b6df11c7cdabf127458ca76fa0364d0aab8c2d67f5479905e943"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2015-996",
+   "path": "odluka/2015/996",
+   "short": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Koreji, sa sjedištem u Seoulu",
+   "title": "Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Koreji, sa sjedištem u Seoulu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/51/996",
+   "versions": [
+    {
+     "from": "2015-04-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_05_51_996.html",
+     "sha256": "f1efb4fd0f45474202cfc842e322e3ca67d8efb99365a2d2594da52a7cb4e120"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-1388",
+   "path": "pravilnik/2015/1388",
+   "short": "Pravilnik o izmjeni Pravilnika o izboru i utvrđivanju javnih potreba u kulturi",
+   "title": "Pravilnik o izmjeni Pravilnika o izboru i utvrđivanju javnih potreba u kulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/72/1388",
+   "versions": [
+    {
+     "from": "2015-07-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_06_72_1388.html",
+     "sha256": "21af322c71ebba78cb06bcb21ae730ba0a4fe63edc6a0c40b0c47bb8b3b8cc2f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-1769",
+   "path": "pravilnik/2015/1769",
+   "short": "Pravilnik o izmjeni Pravilnika o određivanju područja s prirodnim ili ostalim posebnim ograničenjima",
+   "title": "Pravilnik o izmjeni Pravilnika o određivanju područja s prirodnim ili ostalim posebnim ograničenjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/91/1769",
+   "versions": [
+    {
+     "from": "2015-08-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_08_91_1769.html",
+     "sha256": "7bc83cd5854f2484cd8f347cfc884291a34be8693684db76afa117403c299b9a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-1908",
+   "path": "pravilnik/2015/1908",
+   "short": "Pravilnik o izmjenama Pravilnika o postupku javnog nadmetanja za utvrđivanje najpovoljnijeg ponuditelja na javnom pozivu za dodjelu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u zakup i zakup za ribnjake",
+   "title": "Pravilnik o izmjenama Pravilnika o postupku javnog nadmetanja za utvrđivanje najpovoljnijeg ponuditelja na javnom pozivu za dodjelu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u zakup i zakup za ribnjake",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/98/1908",
+   "versions": [
+    {
+     "from": "2015-09-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_09_98_1908.html",
+     "sha256": "42a10457ee2ee4ec78502e3a5a68d52cffbd1daee07288400e77ebb527d460c3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-1931",
+   "path": "pravilnik/2015/1931",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.1 \"Trajna obustava ribolovne aktivnosti\"",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.1 \"Trajna obustava ribolovne aktivnosti\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/99/1931",
+   "versions": [
+    {
+     "from": "2015-09-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_09_99_1931.html",
+     "sha256": "436672ad78f5dfed2556f5e4d416a0450518890d0755e18ccb627ec150c0615b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-2437",
+   "path": "pravilnik/2015/2437",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o promidžbi i ostalim informacijama za članove obveznih mirovinskih fondova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o promidžbi i ostalim informacijama za članove obveznih mirovinskih fondova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/128/2437",
+   "versions": [
+    {
+     "from": "2015-12-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_11_128_2437.html",
+     "sha256": "33fb7b0559c3986cd83902466e5b17e797f941cf858610e506fb7d205e589678"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-395",
+   "path": "pravilnik/2015/395",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima postavljanja i uporabe radijskih postaja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima postavljanja i uporabe radijskih postaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/18/395",
+   "versions": [
+    {
+     "from": "2015-02-26",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_02_18_395.html",
+     "sha256": "4e61fcbe6e732790e10b9a73fb463ce42fe01c6b4f45146df7e68b95766c3832"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2015-756",
+   "path": "pravilnik/2015/756",
+   "short": "Pravilnik o prestanku važenja Pravilnika o organiziranju, financiranju i donošenju programa festivala Splitsko ljeto",
+   "title": "Pravilnik o prestanku važenja Pravilnika o organiziranju, financiranju i donošenju programa festivala Splitsko ljeto",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/36/756",
+   "versions": [
+    {
+     "from": "2015-04-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_03_36_756.html",
+     "sha256": "6ad4ee32018a22deb70adb00b27adf93b6fd368d66586941bbbc5f339aa802c8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-138",
+   "path": "uredba/2015/138",
+   "short": "Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za opremu pod tlakom",
+   "title": "Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za opremu pod tlakom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/8/138",
+   "versions": [
+    {
+     "from": "2015-01-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_01_8_138.html",
+     "sha256": "d4bc15ef6fb79ee819e895c82c5dbf04df42c6e53420279f6d0cd9bb99c990e1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-1794",
+   "path": "uredba/2015/1794",
+   "short": "Uredba o izmjeni i dopunama Uredbe o osnivanju Agencije za poljoprivredno zemljište",
+   "title": "Uredba o izmjeni i dopunama Uredbe o osnivanju Agencije za poljoprivredno zemljište",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/93/1794",
+   "versions": [
+    {
+     "from": "2015-09-05",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_08_93_1794.html",
+     "sha256": "4a2e9dbb5c7c57944c42ae8b3bf12f1e9475256eb7d750cf7f9709316ccae97c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-2248",
+   "path": "uredba/2015/2248",
+   "short": "Uredba o dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu",
+   "title": "Uredba o dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/119/2248",
+   "versions": [
+    {
+     "from": "2015-10-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_10_119_2248.html",
+     "sha256": "2a8931cb5ddb7461392836be749050cf519797dbc1e3e8f287d1f656ed4552a5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-278",
+   "path": "uredba/2015/278",
+   "short": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2015. godinu",
+   "title": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2015. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/15/278",
+   "versions": [
+    {
+     "from": "2015-02-14",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_02_15_278.html",
+     "sha256": "29337e15a9643bbfb0145486a69b2e95e4135cf45c3408e58f55bd3cadf8d6a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-323",
+   "path": "uredba/2015/323",
+   "short": "Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva turizma",
+   "title": "Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/17/323",
+   "versions": [
+    {
+     "from": "2015-02-21",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_02_17_323.html",
+     "sha256": "8e6a657b7fcad26ba55a19120bab07f1a92427cd35179beb86114efe2d951718"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-824",
+   "path": "uredba/2015/824",
+   "short": "Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu",
+   "title": "Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/40/824",
+   "versions": [
+    {
+     "from": "2015-04-18",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2015_04_40_824.html",
+     "sha256": "532bd93b8ee8afad5e09e488ff1d64b4510ca139a13aace70a95162a23315223"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2016-1693",
+   "path": "naredba/2016/1693",
+   "short": "Naredba o izmjeni Naredbe o stavljanju na tržište upaljača sigurnih za djecu i zabrani stavljanja na tržište upaljača \"Noviteta\"",
+   "title": "Naredba o izmjeni Naredbe o stavljanju na tržište upaljača sigurnih za djecu i zabrani stavljanja na tržište upaljača \"Noviteta\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/71/1693",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_08_71_1693.html",
+     "sha256": "6ce4f1ae1355226125112424a179037f33268e5f0832f222f4c7c05b3908f1a1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1159",
+   "path": "odluka/2016/1159",
+   "short": "Odluka o postavljanju Ivana Jurića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Iraku, sa sjedištem u Bagdadu",
+   "title": "Odluka o postavljanju Ivana Jurića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Iraku, sa sjedištem u Bagdadu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/45/1159",
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_45_1159.html",
+     "sha256": "c87092385a3759b80d19cded4244672e318c7c96810c8b250d5acc29dae2b321"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1208",
+   "path": "odluka/2016/1208",
+   "short": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Socijalističkoj Republici Vijetnamu, sa sjedištem u Kuala Lumpuru",
+   "title": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Socijalističkoj Republici Vijetnamu, sa sjedištem u Kuala Lumpuru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/47/1208",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_47_1208.html",
+     "sha256": "c42c8be32c98a1da3f914957943c1517e78fe42fc4d3e98ca7434df5e66f00da"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1209",
+   "path": "odluka/2016/1209",
+   "short": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Bruneju Darussalamu, sa sjedištem u Kuala Lumpuru",
+   "title": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Bruneju Darussalamu, sa sjedištem u Kuala Lumpuru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/47/1209",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_47_1209.html",
+     "sha256": "c6c2b8508b401b3bf9e67e07013a6ad65e555bdd34f6d9e97a277f89f2a2c6de"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1210",
+   "path": "odluka/2016/1210",
+   "short": "Odluka o postavljanju prof. dr. sc. Nenada Preloga za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Mauricijusu, sa sjedištem u Pretoriji",
+   "title": "Odluka o postavljanju prof. dr. sc. Nenada Preloga za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Mauricijusu, sa sjedištem u Pretoriji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/47/1210",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_47_1210.html",
+     "sha256": "a79d0733d681f5b70d70c542e6faaa86fb5c6a7c6e6c522ddaf97a0da4ac95b0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1214",
+   "path": "odluka/2016/1214",
+   "short": "Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2016. - 2018.",
+   "title": "Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2016. - 2018.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/47/1214",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_47_1214.html",
+     "sha256": "7fb85f439bee5dc363c8c0112c2e34b1c648fc19a347a6eb0c74535935825ef8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1269",
+   "path": "odluka/2016/1269",
+   "short": "Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2016./2017.",
+   "title": "Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2016./2017.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/48/1269",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_48_1269.html",
+     "sha256": "e12321f98d9bcbb9bbe92713a324bcb9e150172987fd4cad2866ecad74e73e1d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1385",
+   "path": "odluka/2016/1385",
+   "short": "Odluka o katastarskoj izmjeri na području Općine Slivno za dio katastarske općine Slivno (nova k.o. Podgradina)",
+   "title": "Odluka o katastarskoj izmjeri na području Općine Slivno za dio katastarske općine Slivno (nova k.o. Podgradina)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/52/1385",
+   "versions": [
+    {
+     "from": "2016-06-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_06_52_1385.html",
+     "sha256": "2c261d4d77e0df6b1454ebec1b932ecfae642bd257f3c36b86f21f997be9a378"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1484",
+   "path": "odluka/2016/1484",
+   "short": "Odluka o izmjeni Odluke o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u misiji potpore miru \"RESOLUTE SUPPORT\" u Afganistanu",
+   "title": "Odluka o izmjeni Odluke o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u misiji potpore miru \"RESOLUTE SUPPORT\" u Afganistanu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/58/1484",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_06_58_1484.html",
+     "sha256": "4cd2adeceefad814d0445b2a035743959623ffe2039b621a27cedd2b4385d540"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1501",
+   "path": "odluka/2016/1501",
+   "short": "Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2016./2017.",
+   "title": "Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2016./2017.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/59/1501",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_06_59_1501.html",
+     "sha256": "8d7fc6edefa0f565c02bdc65fcd60777bd17b6a09fd892b8427dce78d8e06be5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1724",
+   "path": "odluka/2016/1724",
+   "short": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Uniji Mjanmaru, sa sjedištem u Kuala Lumpuru",
+   "title": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Uniji Mjanmaru, sa sjedištem u Kuala Lumpuru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/73/1724",
+   "versions": [
+    {
+     "from": "2016-07-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_08_73_1724.html",
+     "sha256": "222fe7847edb712d9a3d564106a14af2c9769e71003c4c6cca875c5ae0c65cee"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1807",
+   "path": "odluka/2016/1807",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2016.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1807",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_79_1807.html",
+     "sha256": "6af35bb9ba730a85c37aefce2b4051b5dbbbda2aedb175445c316adcc453ba06"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1808",
+   "path": "odluka/2016/1808",
+   "short": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2016.",
+   "title": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1808",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_79_1808.html",
+     "sha256": "310f2fcb0716e835e49a239aafaa019e19862d5d5017828852e8fa18ee56a95e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2152",
+   "path": "odluka/2016/2152",
+   "short": "Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/100/2152",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_100_2152.html",
+     "sha256": "1150fd5adc279749d808ae5e49fc6fcf4b8cbe012d4b77a6f6983fd8a6152671"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-242",
+   "path": "odluka/2016/242",
+   "short": "Odluka kojom se stavljaju van snage nastavni planovi i programi za učenike s teškoćama",
+   "title": "Odluka kojom se stavljaju van snage nastavni planovi i programi za učenike s teškoćama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/9/242",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_01_9_242.html",
+     "sha256": "00bada94f468f30ce48bc8aaf6d2ff04a9150a1c02a06cbf47dfdcaccf724632"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2439",
+   "path": "odluka/2016/2439",
+   "short": "Odluka Hrvatske obrtničke komore broj: 2-206-5706/28-11-2016 od 10. studenoga 2016.",
+   "title": "Odluka Hrvatske obrtničke komore broj: 2-206-5706/28-11-2016 od 10. studenoga 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/110/2439",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_110_2439.html",
+     "sha256": "41db4ac0be4e765b1110e74cb2bf0be6a35d879780f52cf0edd38f9f4e2ecae4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2440",
+   "path": "odluka/2016/2440",
+   "short": "Odluka Hrvatske obrtničke komore broj: 2-206-5706/29-11-2016 od 10. studenoga 2016.",
+   "title": "Odluka Hrvatske obrtničke komore broj: 2-206-5706/29-11-2016 od 10. studenoga 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/110/2440",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_110_2440.html",
+     "sha256": "89dec613dacb76df2eceeaa0d816b1a6ef55a87b5b8fd1fa106c3e1a83a87675"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2441",
+   "path": "odluka/2016/2441",
+   "short": "Odluka Hrvatske obrtničke komore broj: 2-206-5706/30-11-2016 od 10. studenoga 2016.",
+   "title": "Odluka Hrvatske obrtničke komore broj: 2-206-5706/30-11-2016 od 10. studenoga 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/110/2441",
+   "versions": [
+    {
+     "from": "2016-11-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_110_2441.html",
+     "sha256": "558f2567764a0d779a0dd814546c1b71b6bb99939be3bdbef31c25bdff5e22e6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-247",
+   "path": "odluka/2016/247",
+   "short": "Odluka o privremenom raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika",
+   "title": "Odluka o privremenom raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/10/247",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_01_10_247.html",
+     "sha256": "295aafd3283a8df321c0f1f22d13ddf328eb62d892d22e9056070a7a4da9648c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2556",
+   "path": "odluka/2016/2556",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Crnoj Gori",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Crnoj Gori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/116/2556",
+   "versions": [
+    {
+     "from": "2016-12-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_12_116_2556.html",
+     "sha256": "82153e28950cc0407f096f89c115cb9e1ba9bf444ce2d5a237ff3f13a94145f4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2690",
+   "path": "odluka/2016/2690",
+   "short": "Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju siječanj - lipanj 2017. godine",
+   "title": "Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju siječanj - lipanj 2017. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/123/2690",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_12_123_2690.html",
+     "sha256": "5626f9ea3be5c4e29ff30cacdbb57ee8c91d06a4a7cd2870e15111e77e4659bf"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-492",
+   "path": "odluka/2016/492",
+   "short": "Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2016. iz doznaka obveznog mirovinskog fonda",
+   "title": "Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2016. iz doznaka obveznog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/18/492",
+   "versions": [
+    {
+     "from": "2016-03-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_02_18_492.html",
+     "sha256": "438ef199d0eced949e869744bd60beecd0753e6dcdc4539333778753bd201614"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-762",
+   "path": "odluka/2016/762",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2016.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/25/762",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_03_25_762.html",
+     "sha256": "2a88a4a13ffd5203efbb854f40059fdb49cdc1e4319acc10c3684efa3a173245"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-763",
+   "path": "odluka/2016/763",
+   "short": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2016.",
+   "title": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/25/763",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_03_25_763.html",
+     "sha256": "15974bcaffa3ee51bc9b78a04cd21b22bc36009333094e0402b745ceae01441e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-764",
+   "path": "odluka/2016/764",
+   "short": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2016.",
+   "title": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/25/764",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_03_25_764.html",
+     "sha256": "3bd9c9bd6238d3d7607b7989835d1f4a0f0111b3f2e9d2b3d3b5e4fc93afaeb9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-767",
+   "path": "odluka/2016/767",
+   "short": "Odluka o faktoru osnovne mirovine od 1. siječnja 2016.",
+   "title": "Odluka o faktoru osnovne mirovine od 1. siječnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/25/767",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_03_25_767.html",
+     "sha256": "8b96bda1a23363f52d53996a0db70aca0897dc0a3e8c5ec6b3089840ffafd90f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-802",
+   "path": "odluka/2016/802",
+   "short": "Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju travanj - lipanj 2016.",
+   "title": "Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju travanj - lipanj 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/28/802",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_03_28_802.html",
+     "sha256": "34a656254437bcc21ae5572d299ac5f9ed73ca275bf18af54039caf3e908b0c0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-83",
+   "path": "odluka/2016/83",
+   "short": "Odluka o izmjenama Odluke o općinskim porezima Općine Mrkopalj",
+   "title": "Odluka o izmjenama Odluke o općinskim porezima Općine Mrkopalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/6/83",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_01_6_83.html",
+     "sha256": "bbc13ebb4dddd35d747f41c3d5506383521e0219a87d0fa5f06c38d22a2eb394"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-1633",
+   "path": "pravilnik/2016/1633",
+   "short": "Pravilnik o priznavanju inozemne stručne kvalifikacije za obavljanje poslova revizije",
+   "title": "Pravilnik o priznavanju inozemne stručne kvalifikacije za obavljanje poslova revizije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/67/1633",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_07_67_1633.html",
+     "sha256": "38e14054a2c4512c44359fe28a72993a3d8ef88cd0ccbed8a21006383342b486"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-1760",
+   "path": "pravilnik/2016/1760",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2016. godinu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2016. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/75/1760",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_08_75_1760.html",
+     "sha256": "175b9467f58c94b8326efa0cf759e2060acc7d64c675ece4d588a800a751b92a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-1947",
+   "path": "pravilnik/2016/1947",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/91/1947",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_10_91_1947.html",
+     "sha256": "b2bb16cb419a45f51f153d4b9c813788798a01dfcfae75c6240fed878f08e330"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2016-72",
+   "path": "pravilnik/2016/72",
+   "short": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.9. \"Privremeni prestanak ribolovnih aktivnosti\" okružujućim mrežama plivaricama - srdelarama za siječanj 2016. godine",
+   "title": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.9. \"Privremeni prestanak ribolovnih aktivnosti\" okružujućim mrežama plivaricama - srdelarama za siječanj 2016. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/5/72",
+   "versions": [
+    {
+     "from": "2016-01-16",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_01_5_72.html",
+     "sha256": "10b440895848b78ff061a4852e5c22e20c16e8920ea9b516bdc345cfa1f58b32"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-1141",
+   "path": "uredba/2016/1141",
+   "short": "Uredba o izmjenama i dopunama Uredbe o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera",
+   "title": "Uredba o izmjenama i dopunama Uredbe o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/44/1141",
+   "versions": [
+    {
+     "from": "2016-05-12",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_05_44_1141.html",
+     "sha256": "526a0d75abcdd7d62b95e61569eaad0bced26aa771b616e1bc9e6e16ff14c741"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-1800",
+   "path": "uredba/2016/1800",
+   "short": "Uredba o dopuni Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu",
+   "title": "Uredba o dopuni Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1800",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_79_1800.html",
+     "sha256": "300ec084cfcd821f00a0ba5457c0a5cc46948f7cc81dcca6c24cf23a4f138523"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-1446",
+   "path": "zakon/2016/1446",
+   "short": "Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/56/1446",
+   "versions": [
+    {
+     "from": "2016-06-25",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_06_56_1446.html",
+     "sha256": "5d2525a97c2366a621a1cae3ea58736fe263a90d12eaa70b1d4eb7ca0510057f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1687",
+   "path": "odluka/2017/1687",
+   "short": "Odluka o izmjenama i dopunama Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske",
+   "title": "Odluka o izmjenama i dopunama Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1687",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_70_1687.html",
+     "sha256": "a9b3043bf805112048447ea63981d58a71a32e75df262667f077566a55df5ca6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1732",
+   "path": "odluka/2017/1732",
+   "short": "Odluka o prestanku važenja Odluke o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj",
+   "title": "Odluka o prestanku važenja Odluke o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/72/1732",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_72_1732.html",
+     "sha256": "498bc917a850b05642b3f6fedea3f020c3d790e7168c4293ea0b4bb62c157449"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1787",
+   "path": "odluka/2017/1787",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Washingtonu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Washingtonu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1787",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1787.html",
+     "sha256": "49c9f27e5e3c682b705c3b3de9fd73e9680b9fec5b33398ac9ba904eeb1d120a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1788",
+   "path": "odluka/2017/1788",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Ujedinjenoj Kraljevini Velike Britanije i Sjeverne Irske, sa sjedištem u Londonu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Ujedinjenoj Kraljevini Velike Britanije i Sjeverne Irske, sa sjedištem u Londonu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1788",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1788.html",
+     "sha256": "aae9d4a8335b94f87d901b22b024f206884881160ed2fcf0c313b0bd792a37b8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1789",
+   "path": "odluka/2017/1789",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1789",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1789.html",
+     "sha256": "c3509090cfe9a546d9ad4a96342c11ea829bdd92b3bdb3bfa3d58ee108dd14a7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1792",
+   "path": "odluka/2017/1792",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Arapskoj Republici Egiptu, sa sjedištem u Kairu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Arapskoj Republici Egiptu, sa sjedištem u Kairu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1792",
+   "versions": [
+    {
+     "from": "2017-08-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1792.html",
+     "sha256": "fff00742a834b7244d0d17dbd051c22dbd0c211accaf91469dd77a74dfd9d7b4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1793",
+   "path": "odluka/2017/1793",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Helenskoj Republici, sa sjedištem u Ateni",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Helenskoj Republici, sa sjedištem u Ateni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1793",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1793.html",
+     "sha256": "55f1e3387d30183fe4f9acc60aae003c4cb2ea14ee9c803bf1f88ae31695366e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1794",
+   "path": "odluka/2017/1794",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Maroku, sa sjedištem u Rabatu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Maroku, sa sjedištem u Rabatu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1794",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1794.html",
+     "sha256": "fc30a8c879d7df1ee127e9fda5508d07b9887a02671411bf9613e99f76f213d2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1795",
+   "path": "odluka/2017/1795",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Mađarskoj sa sjedištem u Budimpešti",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Mađarskoj sa sjedištem u Budimpešti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/74/1795",
+   "versions": [
+    {
+     "from": "2017-09-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_74_1795.html",
+     "sha256": "f3bfbe86ced50206862d63582192c04182bffa21cb45492fa7ecd38cdbfa9119"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1917",
+   "path": "odluka/2017/1917",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Francuskoj Republici, sa sjedištem u Parizu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Francuskoj Republici, sa sjedištem u Parizu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1917",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_78_1917.html",
+     "sha256": "647e216e330ca538002451bb6dee25326323f95b58771c38eea902098fbadec1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1918",
+   "path": "odluka/2017/1918",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indiji, sa sjedištem u New Delhiju",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indiji, sa sjedištem u New Delhiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1918",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_78_1918.html",
+     "sha256": "71c812fb9ba7df681969c1277fae6f33290a1498655b507c2e5bbb0baa36f06e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1919",
+   "path": "odluka/2017/1919",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatskeu Slovačkoj Republici, sa sjedištem u Bratislavi",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatskeu Slovačkoj Republici, sa sjedištem u Bratislavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1919",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_78_1919.html",
+     "sha256": "dbd7a5c39e805fb1481d4f32062fba7414decd2f17e0a9ec786b5dbfa93315b2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-2081",
+   "path": "odluka/2017/2081",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2017.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2017.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/87/2081",
+   "versions": [
+    {
+     "from": "2017-09-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_87_2081.html",
+     "sha256": "69fb8d56be64558e1fcae9f75271498b29dd4fe803bad9467e152fe44d5851bd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-2465",
+   "path": "odluka/2017/2465",
+   "short": "Odluka o izmjenama Odluke o naknadama i nagradi za rad predsjednika i članova Državnoodvjetničkog vijeća",
+   "title": "Odluka o izmjenama Odluke o naknadama i nagradi za rad predsjednika i članova Državnoodvjetničkog vijeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/107/2465",
+   "versions": [
+    {
+     "from": "2017-11-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_107_2465.html",
+     "sha256": "a417ccb4a026f9fa595680836f26dacd3e2574b9147394f628978e1ab8e15ea0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-2720",
+   "path": "odluka/2017/2720",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici i Republici San Marinu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici i Republici San Marinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/118/2720",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_118_2720.html",
+     "sha256": "e67b17e8ce0d45ce52a1c567a6df751bee9fc1fb8ca7b5ff503bfb26fe39b1e8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-2898",
+   "path": "odluka/2017/2898",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Nigeriji, sa sjedištem u Londonu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Nigeriji, sa sjedištem u Londonu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2898",
+   "versions": [
+    {
+     "from": "2017-12-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_128_2898.html",
+     "sha256": "49ec5d050a1471708248d8f0eb1f7ee33737b6901844cae6d59cebc7f7b20fa8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-2899",
+   "path": "odluka/2017/2899",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Demokratskoj Republici Etiopiji, sa sjedištem u Kairu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Demokratskoj Republici Etiopiji, sa sjedištem u Kairu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2899",
+   "versions": [
+    {
+     "from": "2017-12-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_128_2899.html",
+     "sha256": "68ed10781a29e19829048204efc6bbe340650e1f33166c8ae49d828424945124"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-2900",
+   "path": "odluka/2017/2900",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Tunisu, sa sjedištem u Rabatu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Tunisu, sa sjedištem u Rabatu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2900",
+   "versions": [
+    {
+     "from": "2017-12-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_128_2900.html",
+     "sha256": "1acb21d4745d06dfe2d22a4f4dafdaf18675f11e2cd43402f9741ccbef7d93d1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-30",
+   "path": "odluka/2017/30",
+   "short": "Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2016. godinu",
+   "title": "Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2016. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/2/30",
+   "versions": [
+    {
+     "from": "2016-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_2_30.html",
+     "sha256": "7002405f27ec2583e4da605dcb8c2f600938ba58f0d1ffbecdc535bfc5f4357c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-408",
+   "path": "odluka/2017/408",
+   "short": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Laoskoj Narodnoj Demokratskoj Republici, sa sjedištem u Kuala Lumpuru",
+   "title": "Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Laoskoj Narodnoj Demokratskoj Republici, sa sjedištem u Kuala Lumpuru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/408",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_18_408.html",
+     "sha256": "e6c161483e86f4a42b240e42246c24828684b0a278f97602444d8e96060f7322"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-983",
+   "path": "odluka/2017/983",
+   "short": "Odluka o davanju suglasnosti na Statut Centra za profesionalnu rehabilitaciju Osijek",
+   "title": "Odluka o davanju suglasnosti na Statut Centra za profesionalnu rehabilitaciju Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/43/983",
+   "versions": [
+    {
+     "from": "2017-04-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_05_43_983.html",
+     "sha256": "5f641a6a8fc6b1303fdd5e5b894301754ca69a297ff2894b96d7887768da5445"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1324",
+   "path": "pravilnik/2017/1324",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva prema računovodstvenim propisima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva prema računovodstvenim propisima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/59/1324",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_59_1324.html",
+     "sha256": "a84361132c6f78dfed15056cc15d14f021f43ca5e57ddebd8a66c8de70c87139"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1531",
+   "path": "pravilnik/2017/1531",
+   "short": "Pravilnik o Registru prekršaja u morskom ribarstvu",
+   "title": "Pravilnik o Registru prekršaja u morskom ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/65/1531",
+   "versions": [
+    {
+     "from": "2017-07-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_65_1531.html",
+     "sha256": "50de9c5a36b6a2ae053ec8b12b9540ef8fbace7820fb0edadeeb8c646f1e00d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-179",
+   "path": "pravilnik/2017/179",
+   "short": "Pravilnik o dopuni Pravilnika o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o stipendiranju",
+   "title": "Pravilnik o dopuni Pravilnika o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o stipendiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/5/179",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_5_179.html",
+     "sha256": "aca778c097097d7e96d33d400a6adefde31b0b8d5911873ada379ed7885becb2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-862",
+   "path": "pravilnik/2017/862",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i statuta obveznog mirovinskog fonda i o informativnom prospektu obveznog mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i statuta obveznog mirovinskog fonda i o informativnom prospektu obveznog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/862",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_862.html",
+     "sha256": "f0329e2908c02ed6dcf7f22d5556d88bdce1c68fdae5fad85f5da6f770270280"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2017-2311",
+   "path": "statut/2017/2311",
+   "short": "Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje",
+   "title": "Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2311",
+   "versions": [
+    {
+     "from": "2017-10-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_100_2311.html",
+     "sha256": "8a32f89261a6a8b116f56c292183e8002fca01858950763fab5aa9910e8cd35d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1030",
+   "path": "odluka/2018/1030",
+   "short": "Odluka o lokalnim porezima Općine Vižinada - Visinada",
+   "title": "Odluka o lokalnim porezima Općine Vižinada - Visinada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/52/1030",
+   "versions": [
+    {
+     "from": "2018-06-14",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_06_52_1030.html",
+     "sha256": "96a73877d8bf02048dbd61a787b5ee8b2464a274c5e46edbbdee565fa4533287"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1034",
+   "path": "odluka/2018/1034",
+   "short": "Odluka o pokretanju projekta e-Poslovanje",
+   "title": "Odluka o pokretanju projekta e-Poslovanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/53/1034",
+   "versions": [
+    {
+     "from": "2018-06-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_06_53_1034.html",
+     "sha256": "18bb42d52b829163eb0408a5c52337a1334fbd6a7e9c551aab1ff1f5fddb1a6b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-106",
+   "path": "odluka/2018/106",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Islamskoj Republici Mauritaniji, sa sjedištem u Rabatu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Islamskoj Republici Mauritaniji, sa sjedištem u Rabatu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/3/106",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_01_3_106.html",
+     "sha256": "e0a1cd51dbf1936d01fb525cbd1e01b752b8d501997de519a7715486ca99f3af"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1494",
+   "path": "odluka/2018/1494",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Argentinskoj Republici, sa sjedištem u Buenos Airesu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Argentinskoj Republici, sa sjedištem u Buenos Airesu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/73/1494",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_73_1494.html",
+     "sha256": "ef5077ca2b60f56713cd020eb5a54c7f33d4e13ff18cdc0542e21f61f588fcd6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1496",
+   "path": "odluka/2018/1496",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Koreji, sa sjedištem u Seoulu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Koreji, sa sjedištem u Seoulu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/73/1496",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_73_1496.html",
+     "sha256": "3c3d6f59c046be079060482df06beabe6858c8dca0a3adaed241936b5f8b41ef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1497",
+   "path": "odluka/2018/1497",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Državi Izraelu, sa sjedištem u Tel Avivu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Državi Izraelu, sa sjedištem u Tel Avivu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/73/1497",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_73_1497.html",
+     "sha256": "77862f5b8c374364dc92b293b69baea5649ef738a38f3239e772f14ef79d79b7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1498",
+   "path": "odluka/2018/1498",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj, sa sjedištem u Ankari",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj, sa sjedištem u Ankari",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/73/1498",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_73_1498.html",
+     "sha256": "b0be750844bb923f8e1369269f275af72fb49d8d2872f081b348fc7b98cd593b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1499",
+   "path": "odluka/2018/1499",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici,sa sjedištem u Alžiru",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici,sa sjedištem u Alžiru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/73/1499",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_73_1499.html",
+     "sha256": "8632dcace49bb1aaf2e8598b4f0be7f8d832f08a2c764b73fd824f3d36546b78"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1501",
+   "path": "odluka/2018/1501",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Belgiji, sa sjedištem u Bruxellesu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Belgiji, sa sjedištem u Bruxellesu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/73/1501",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_73_1501.html",
+     "sha256": "fe95cab23e95b8612f0418708f2258f43cbbe3d9f1f4d0661401900641c65107"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1579",
+   "path": "odluka/2018/1579",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Australiji",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Australiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/78/1579",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_78_1579.html",
+     "sha256": "35d9952b5059b00dac34b83ca684c9c2b83a1772549eac75965b1d64620a7016"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1580",
+   "path": "odluka/2018/1580",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Sloveniji",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Sloveniji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/78/1580",
+   "versions": [
+    {
+     "from": "2018-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_78_1580.html",
+     "sha256": "fe2828c8f20f0cd083570621b3d9b7e9d3176d8132080615a7b7e44cc107ad86"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1581",
+   "path": "odluka/2018/1581",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Državi Kuvajtu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Državi Kuvajtu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/78/1581",
+   "versions": [
+    {
+     "from": "2018-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_08_78_1581.html",
+     "sha256": "5b0a0dde13d92c15226dc65c5b2c0d25f4e9e11755a59b2992893bcc6fe4d2c5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1599",
+   "path": "odluka/2018/1599",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Švicarskoj Konfederaciji, sa sjedištem u Bernu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Švicarskoj Konfederaciji, sa sjedištem u Bernu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/79/1599",
+   "versions": [
+    {
+     "from": "2018-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_09_79_1599.html",
+     "sha256": "4895fca6e31f4327eae3955e5e86c6f71bf3a323325bb4d16fe7c5fa226feeef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-1669",
+   "path": "odluka/2018/1669",
+   "short": "Odluka o sufinanciranju nabave udžbenika i pripadajućih dopunskih nastavnih sredstava za potrebe učenika osnovnih i srednjih škola u Republici Hrvatskoj za školsku godinu 2018./2019.",
+   "title": "Odluka o sufinanciranju nabave udžbenika i pripadajućih dopunskih nastavnih sredstava za potrebe učenika osnovnih i srednjih škola u Republici Hrvatskoj za školsku godinu 2018./2019.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/84/1669",
+   "versions": [
+    {
+     "from": "2018-09-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_09_84_1669.html",
+     "sha256": "28ebf3689283360af31f4e757d4d20e323fecf235916cbe29bf184e32a3316eb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-2393",
+   "path": "odluka/2018/2393",
+   "short": "Odluka o izmjeni Odluke o porezima Grada Ploča",
+   "title": "Odluka o izmjeni Odluke o porezima Grada Ploča",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/119/2393",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_12_119_2393.html",
+     "sha256": "734dcf5db47a543559e769bc8d17ce02adfbbfc852a7f4fc29e4912432579ec7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-250",
+   "path": "odluka/2018/250",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Demokratskoj Socijalističkoj Republici Šri Lanki, sa sjedištem u New Delhiju",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Demokratskoj Socijalističkoj Republici Šri Lanki, sa sjedištem u New Delhiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/11/250",
+   "versions": [
+    {
+     "from": "2018-01-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_11_250.html",
+     "sha256": "32c337b0e038a72433be9595fcc9494c08797a914d7a7c6be3efc2897bbd656f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-251",
+   "path": "odluka/2018/251",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Gani, sa sjedištem u Londonu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Gani, sa sjedištem u Londonu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/11/251",
+   "versions": [
+    {
+     "from": "2018-01-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_11_251.html",
+     "sha256": "d4305eef9fe1993bbb1845aefe0b92600efe8957fcca57d887a7fa0c94b89c4c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-352",
+   "path": "odluka/2018/352",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Panami, sa sjedištem u Washingtonu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Panami, sa sjedištem u Washingtonu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/352",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_17_352.html",
+     "sha256": "d9eaadf8372e4a50eed666aa0d996c5da5ecf37d2690139fce3d28aed77d607b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-353",
+   "path": "odluka/2018/353",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Gruziji, sa sjedištem u Ateni",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Gruziji, sa sjedištem u Ateni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/353",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_17_353.html",
+     "sha256": "61a0bfe543818cc8eab32d7e700b1d1e26321ca35eedb4f8449bd42045835965"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-354",
+   "path": "odluka/2018/354",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Armeniji, sa sjedištem u Ateni",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Armeniji, sa sjedištem u Ateni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/354",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_17_354.html",
+     "sha256": "9b7f7ecd15ffa79d119f832f8dd80f348afe3a376a62ac55341ee6df58e416b1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-355",
+   "path": "odluka/2018/355",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Narodnoj Republici Bangladešu, sa sjedištem u New Delhiju",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Narodnoj Republici Bangladešu, sa sjedištem u New Delhiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/355",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_17_355.html",
+     "sha256": "420171b75655826b5df45c5d7b02275df1d585d10ae38d53178de5d2000d6c19"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-356",
+   "path": "odluka/2018/356",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Estoniji, sa sjedištem u Helsinkiju",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Estoniji, sa sjedištem u Helsinkiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/17/356",
+   "versions": [
+    {
+     "from": "2018-02-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_17_356.html",
+     "sha256": "c31a3412499cfe7fe48da50b8f7cd8042573241648041fc8c48f019f8654f47b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-374",
+   "path": "odluka/2018/374",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Državi Katru, sa sjedištem u Dohi",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Državi Katru, sa sjedištem u Dohi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/18/374",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_02_18_374.html",
+     "sha256": "b2576167dc99b7cf57284a910b3fa5d2e278837da37c7e84add8d6510b639e43"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-455",
+   "path": "odluka/2018/455",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sjedinjenim Meksičkim Državama, sa sjedištem u Washingtonu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sjedinjenim Meksičkim Državama, sa sjedištem u Washingtonu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/24/455",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_03_24_455.html",
+     "sha256": "f86f331a4b6b7cf9a82b752ac6050b7475d8a146b8ea9fd917fcd28b04487fd5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-456",
+   "path": "odluka/2018/456",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Sudanu, sa sjedištem u Kairu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Sudanu, sa sjedištem u Kairu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/24/456",
+   "versions": [
+    {
+     "from": "2018-02-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_03_24_456.html",
+     "sha256": "a9f8769166231319fb975b733edc7cab77a67c815a282becd7d1a8874e4113ce"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-457",
+   "path": "odluka/2018/457",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Cipru, sa sjedištem u Ateni",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Cipru, sa sjedištem u Ateni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/24/457",
+   "versions": [
+    {
+     "from": "2018-03-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_03_24_457.html",
+     "sha256": "2603b529a90e358f93979db44e2f9128d8150a388cb29b61694e6007af982c48"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-46",
+   "path": "odluka/2018/46",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Libanonskoj Republici, sa sjedištem u Kairu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Libanonskoj Republici, sa sjedištem u Kairu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/2/46",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_01_2_46.html",
+     "sha256": "04ca5116ec316290e03673cb3cdcbd18de96fe5d885db602b599253220c6331e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-47",
+   "path": "odluka/2018/47",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Hašemitskoj Kraljevini Jordanu, sa sjedištem u Kairu",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Hašemitskoj Kraljevini Jordanu, sa sjedištem u Kairu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/2/47",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_01_2_47.html",
+     "sha256": "39613c645df9db7b51d2fdc08381dba7102832e59c7f49a6a34f77a7a55f9d0f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-505",
+   "path": "odluka/2018/505",
+   "short": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Demokratskoj Republici Nepalu, sa sjedištem u New Delhiju",
+   "title": "Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Demokratskoj Republici Nepalu, sa sjedištem u New Delhiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/26/505",
+   "versions": [
+    {
+     "from": "2018-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_03_26_505.html",
+     "sha256": "b5b211bdd1dc82f397152dec081777b66a477091ab326a2c86211ac83ca5ad84"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-506",
+   "path": "odluka/2018/506",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Kamerunu, sa sjedištem u Rabatu",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Kamerunu, sa sjedištem u Rabatu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/26/506",
+   "versions": [
+    {
+     "from": "2018-03-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_03_26_506.html",
+     "sha256": "81dffc5889ff84919244374c60dc2f0ff8c09679501c7e4bb4ac710196d6334c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-771",
+   "path": "odluka/2018/771",
+   "short": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske",
+   "title": "Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/40/771",
+   "versions": [
+    {
+     "from": "2018-04-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_40_771.html",
+     "sha256": "57dd8bf1451708038f945a19cde17112e0581eddd9feb44081b227a26c79df96"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-851",
+   "path": "odluka/2018/851",
+   "short": "Odluka o izmjeni i dopuni Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske",
+   "title": "Odluka o izmjeni i dopuni Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/45/851",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_45_851.html",
+     "sha256": "b24e532aa0b73b69fc2b90cee0278641eec0d61c1ea97649e92312b79f180cb2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2018-874",
+   "path": "odluka/2018/874",
+   "short": "Odluka o isplati materijalnih prava i drugih naknada za zaposlenike u djelatnosti socijalne skrbi",
+   "title": "Odluka o isplati materijalnih prava i drugih naknada za zaposlenike u djelatnosti socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/46/874",
+   "versions": [
+    {
+     "from": "2018-05-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_46_874.html",
+     "sha256": "0d64f57a494d077c533a88b4b4a5d704d1bcbb67d5044e822f764e4206676667"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-1772",
+   "path": "pravilnik/2018/1772",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na kolektivno osiguranje od posljedica nesretnog slučaja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na kolektivno osiguranje od posljedica nesretnog slučaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/91/1772",
+   "versions": [
+    {
+     "from": "2018-10-20",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_10_91_1772.html",
+     "sha256": "bf1262883536279695ad5534887f2b1578c0550d12154daf01a4bb5ce62c203d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-1782",
+   "path": "pravilnik/2018/1782",
+   "short": "Pravilnik o dodatnom stručnom usavršavanju prvostupnika medicinsko-laboratorijske dijagnostike u području citodijagnostike",
+   "title": "Pravilnik o dodatnom stručnom usavršavanju prvostupnika medicinsko-laboratorijske dijagnostike u području citodijagnostike",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/91/1782",
+   "versions": [
+    {
+     "from": "2018-10-20",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_10_91_1782.html",
+     "sha256": "e5587e0b3b19c100e31490766f49aed9dfeb7942c806f880304bcea52e7ebbac"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-888",
+   "path": "pravilnik/2018/888",
+   "short": "Pravilnik o informatičkom sustavu i jedinstvenom programskom rješenju za obradu podataka o tehničkim pregledima i registraciji vozila u stanicama za tehnički pregled vozila",
+   "title": "Pravilnik o informatičkom sustavu i jedinstvenom programskom rješenju za obradu podataka o tehničkim pregledima i registraciji vozila u stanicama za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/46/888",
+   "versions": [
+    {
+     "from": "2018-05-26",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_46_888.html",
+     "sha256": "5761ada0b11c21dddfd7f4b737dd8d34f97b8a5b88ccb4d5457e5be0b3e901ef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-890",
+   "path": "pravilnik/2018/890",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima koje mora ispunjavati stanica za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima koje mora ispunjavati stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/46/890",
+   "versions": [
+    {
+     "from": "2018-05-26",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_46_890.html",
+     "sha256": "b796f6d3dcdaf5e66aa8e94be2ee78a035c9fd707f5e6db214ff1e7e4ecca476"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-891",
+   "path": "pravilnik/2018/891",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/46/891",
+   "versions": [
+    {
+     "from": "2018-05-26",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_46_891.html",
+     "sha256": "b36dd9dfe706780d24e07501aaf75d42fc0561ec4e757628edd1ce8dc344c14e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2018-929",
+   "path": "pravilnik/2018/929",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima za izdavanje odobrenja za rad i odobrenja za stjecanje kvalificiranog udjela",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima za izdavanje odobrenja za rad i odobrenja za stjecanje kvalificiranog udjela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2018/48/929",
+   "versions": [
+    {
+     "from": "2018-06-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_05_48_929.html",
+     "sha256": "e6c0c5f609303e50e22eab0bd90d55c7a00dd79ad7b1b0e79545710a46704505"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2019-472",
+   "path": "odluka/2019/472",
+   "short": "Odluka o izmjenama i dopunama Odluke o kontnom planu za kreditne institucije",
+   "title": "Odluka o izmjenama i dopunama Odluke o kontnom planu za kreditne institucije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/23/472",
+   "versions": [
+    {
+     "from": "2019-03-16",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_03_23_472.html",
+     "sha256": "736d17e41b2b48c28661618be21ac5b62eb4e032a570dcc2a739d77f1e928fe0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2019-925",
+   "path": "odluka/2019/925",
+   "short": "Odluka o naknadi za superviziju kreditnih institucija za 2019. godinu",
+   "title": "Odluka o naknadi za superviziju kreditnih institucija za 2019. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/47/925",
+   "versions": [
+    {
+     "from": "2019-05-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_05_47_925.html",
+     "sha256": "9dee52bb0f84edbab3ec3f410c89538837b551312e0621c8f0178fc83c031377"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-2125",
+   "path": "pravilnik/2019/2125",
+   "short": "Pravilnik o izmjenama Pravilnika o utvrđivanju lista stečajnih upravitelja",
+   "title": "Pravilnik o izmjenama Pravilnika o utvrđivanju lista stečajnih upravitelja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/106/2125",
+   "versions": [
+    {
+     "from": "2019-11-14",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_11_106_2125.html",
+     "sha256": "b94de2cf5cd5c30d6d1ac360dc69c5339e3a01fee9021451118b22ca2b062d9a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-1855",
+   "path": "uredba/2019/1855",
+   "short": "Uredba o prestanku važenja Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s trećim zemljama za određenu robu",
+   "title": "Uredba o prestanku važenja Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s trećim zemljama za određenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/95/1855",
+   "versions": [
+    {
+     "from": "2019-10-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_10_95_1855.html",
+     "sha256": "a05c0d404e7ecc95c6e8ed294d642793ec673fbfd31e71678d7bfb7ec278134c"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2020-1637",
    "path": "naputak/2020/1637",
    "short": "Naputak o načinu provođenja mjera zaštite zdravlja životinja od zaraznih i nametničkih bolesti i njihovom financiranju",
@@ -62777,21 +64847,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2026-1101",
-   "path": "pravilnik/2026/1101",
-   "short": "Pravilnik o registru medijatora",
-   "title": "Pravilnik o registru medijatora",
-   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/87/1101",
-   "versions": [
-    {
-     "from": "2026-08-18",
-     "units": 18,
-     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1101.html",
-     "sha256": "a630a57c1397a20ab75dd03ed51a28a1a73b90ae3b3165a7d8e2bf7e1fd117a3"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2026-1102",
    "path": "pravilnik/2026/1102",
    "short": "Pravilnik o obrascima potvrda koje se izdaju na informativnom sastanku o medijaciji i u medijaciji",
@@ -64558,21 +66613,6 @@
      "units": 42,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_65_790.html",
      "sha256": "a919556df054d06ca13379c9588f132b395ac30e14f58194bca1a8247e94d412"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2026-801",
-   "path": "pravilnik/2026/801",
-   "short": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
-   "title": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
-   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/66/801",
-   "versions": [
-    {
-     "from": "2026-07-02",
-     "units": 4,
-     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_66_801.html",
-     "sha256": "f79c050d9010359c42f6393d644ce3dbadd0718dceadd5602c438d41a114a1ea"
     }
    ]
   },
@@ -66403,6 +68443,36 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_77_904.html",
      "sha256": "093fc91e633ab83af171d47ca67de004c376e2c1852ddaec9da54c5e0c09b6f2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-1101",
+   "path": "pravilnik/2026/1101",
+   "short": "Pravilnik o registru medijatora",
+   "title": "Pravilnik o registru medijatora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/87/1101",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1101.html",
+     "sha256": "a630a57c1397a20ab75dd03ed51a28a1a73b90ae3b3165a7d8e2bf7e1fd117a3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-801",
+   "path": "pravilnik/2026/801",
+   "short": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
+   "title": "Pravilnik o dopuni Pravilnika o zaštiti na radu na privremenim gradilištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/66/801",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_66_801.html",
+     "sha256": "f79c050d9010359c42f6393d644ce3dbadd0718dceadd5602c438d41a114a1ea"
     }
    ]
   }
