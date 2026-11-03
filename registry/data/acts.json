@@ -1073,6 +1073,40 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1808"
 },
 {
+"slug": "odluka-2016-1809",
+"path": "odluka/2016/1809",
+"kind": "odluka",
+"year": "2016",
+"number": "1809",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2016.",
+"short": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2016.",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-09-10",
+"latest": "2016-09-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1809"
+},
+{
+"slug": "odluka-2016-1819",
+"path": "odluka/2016/1819",
+"kind": "odluka",
+"year": "2016",
+"number": "1819",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om",
+"short": "Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2016-09-15",
+"latest": "2016-09-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/80/1819"
+},
+{
 "slug": "odluka-2016-1844",
 "path": "odluka/2016/1844",
 "kind": "odluka",
@@ -1122,6 +1156,23 @@
 "from": "2016-11-10",
 "latest": "2016-11-10",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/100/2152"
+},
+{
+"slug": "odluka-2016-2174",
+"path": "odluka/2016/2174",
+"kind": "odluka",
+"year": "2016",
+"number": "2174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o obustavi isplate sredstava za redovito godišnje financiranje iz državnog proračuna",
+"short": "Odluka o obustavi isplate sredstava za redovito godišnje financiranje iz državnog proračuna",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-11-02",
+"latest": "2016-11-02",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/102/2174"
 },
 {
 "slug": "odluka-2016-2439",
@@ -1326,6 +1377,23 @@
 "from": "2017-07-08",
 "latest": "2017-07-08",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/65/1531"
+},
+{
+"slug": "odluka-2017-1588",
+"path": "odluka/2017/1588",
+"kind": "odluka",
+"year": "2017",
+"number": "1588",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i drugim sudionicima u postupcima arbitraže pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori",
+"short": "Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i drugim sudionicima u postupcima arbitraže pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2017-07-12",
+"latest": "2017-07-12",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/67/1588"
 },
 {
 "slug": "odluka-2017-1678",
@@ -2431,6 +2499,23 @@
 "from": "2019-07-01",
 "latest": "2019-07-01",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/56/1072"
+},
+{
+"slug": "odluka-2019-1146",
+"path": "odluka/2019/1146",
+"kind": "odluka",
+"year": "2019",
+"number": "1146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o izmjenama i dopuni Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2019.",
+"short": "Odluka o izmjenama i dopuni Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2019.",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2019-06-20",
+"latest": "2019-06-20",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/60/1146"
 },
 {
 "slug": "odluka-2019-1712",

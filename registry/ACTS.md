@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4574 acts, 4,574 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4579 acts, 4,579 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -83,7 +83,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2379, of which 320 amending acts)
+## odluka (2384, of which 322 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -129,8 +129,11 @@
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Uniji Mjanmaru, sa sjedištem u Kuala Lumpuru | [`odluka/2016/1724/`](odluka/2016/1724/) | in force | 1 | 2016-07-21 | 2016-07-21 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2016. | [`odluka/2016/1807/`](odluka/2016/1807/) | in force | 1 | 2016-09-10 | 2016-09-10 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2016. | [`odluka/2016/1808/`](odluka/2016/1808/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2016. | [`odluka/2016/1809/`](odluka/2016/1809/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om | [`odluka/2016/1819/`](odluka/2016/1819/) | amending act | 1 | 2016-09-15 | 2016-09-15 |
 | Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2016. godini | [`odluka/2016/1844/`](odluka/2016/1844/) | in force | 1 | 2016-09-24 | 2016-09-24 |
 | Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke | [`odluka/2016/2152/`](odluka/2016/2152/) | in force | 1 | 2016-11-10 | 2016-11-10 |
+| Odluka o obustavi isplate sredstava za redovito godišnje financiranje iz državnog proračuna | [`odluka/2016/2174/`](odluka/2016/2174/) | in force | 1 | 2016-11-02 | 2016-11-02 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/28-11-2016 od 10. studenoga 2016. | [`odluka/2016/2439/`](odluka/2016/2439/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/29-11-2016 od 10. studenoga 2016. | [`odluka/2016/2440/`](odluka/2016/2440/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/30-11-2016 od 10. studenoga 2016. | [`odluka/2016/2441/`](odluka/2016/2441/) | in force | 1 | 2016-11-10 | 2016-11-10 |
@@ -139,6 +142,7 @@
 | Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2016. godinu | [`odluka/2017/30/`](odluka/2017/30/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Laoskoj Narodnoj Demokratskoj Republici, sa sjedištem u Kuala Lumpuru | [`odluka/2017/408/`](odluka/2017/408/) | in force | 1 | 2017-02-16 | 2017-02-16 |
 | Odluka o davanju suglasnosti na Statut Centra za profesionalnu rehabilitaciju Osijek | [`odluka/2017/983/`](odluka/2017/983/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+| Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i drugim sudionicima u postupcima arbitraže pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/2017/1588/`](odluka/2017/1588/) | in force | 1 | 2017-07-12 | 2017-07-12 |
 | Odluka o izmjenama Odluke o donošenju popisa robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava | [`odluka/2017/1678/`](odluka/2017/1678/) | in force | 1 | 2017-07-27 | 2017-07-27 |
 | Odluka o izmjenama i dopunama Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske | [`odluka/2017/1687/`](odluka/2017/1687/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
 | Odluka o prestanku važenja Odluke o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj | [`odluka/2017/1732/`](odluka/2017/1732/) | in force | 1 | 2017-07-12 | 2017-07-12 |
@@ -196,6 +200,7 @@
 | Odluka o izmjenama i dopunama Odluke o kontnom planu za kreditne institucije | [`odluka/2019/472/`](odluka/2019/472/) | amending act | 1 | 2019-03-16 | 2019-03-16 |
 | Odluka o naknadi za superviziju kreditnih institucija za 2019. godinu | [`odluka/2019/925/`](odluka/2019/925/) | in force | 1 | 2019-05-18 | 2019-05-18 |
 | Odluka o izmjeni Odluke o porezima Grada Ogulina | [`odluka/2019/1072/`](odluka/2019/1072/) | in force | 1 | 2019-07-01 | 2019-07-01 |
+| Odluka o izmjenama i dopuni Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2019. | [`odluka/2019/1146/`](odluka/2019/1146/) | amending act | 1 | 2019-06-20 | 2019-06-20 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2019. | [`odluka/2019/1712/`](odluka/2019/1712/) | in force | 1 | 2019-09-12 | 2019-09-12 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2019. | [`odluka/2019/1713/`](odluka/2019/1713/) | in force | 1 | 2019-09-12 | 2019-09-12 |
 | Odluka o dopuni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2020/41/`](odluka/2020/41/) | amending act | 1 | 2020-01-03 | 2020-01-03 |

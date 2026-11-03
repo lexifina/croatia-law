@@ -430,6 +430,9 @@ def main():
     ap.add_argument("--relations", help="relations.jsonl: per act, the ELI relations Narodne novine lists for it, with "
                                         "the day they were read ({stem, status, fetched, incoming: [{rel, from_eli}]})")
     ap.add_argument("--compare-early", action="store_true", help="self-check of the early release; writes nothing")
+    ap.add_argument("--early-release", action="store_true",
+                    help="decide acts from 2015 on before the frontier when their relations record is clean (off: the "
+                         "self-check found acts it would publish that a later text changes)")
     a = ap.parse_args()
     src = Path(a.src)
     index: dict[str, dict] = {}
@@ -732,7 +735,7 @@ def main():
                           "acts_considered": len(cand)}, ensure_ascii=False))
         return
     if a.frontier == "amenders":
-        chosen, holds, skipped = evaluate(lambda y: y >= am_frontier, early=early_ok if rel else (lambda h, r: False))
+        chosen, holds, skipped = evaluate(lambda y: y >= am_frontier, early=early_ok if rel and a.early_release else (lambda h, r: False))
     else:
         chosen, holds, skipped = evaluate(lambda y: y >= frontier)
 

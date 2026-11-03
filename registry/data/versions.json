@@ -722,6 +722,36 @@
    ]
   },
   {
+   "slug": "odluka-2016-1809",
+   "path": "odluka/2016/1809",
+   "short": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2016.",
+   "title": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2016.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/79/1809",
+   "versions": [
+    {
+     "from": "2016-09-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_79_1809.html",
+     "sha256": "b6af89ac95ca61cc2ecd15abc808575b07eaf66a61782fe6d007e9f49cd7f791"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-1819",
+   "path": "odluka/2016/1819",
+   "short": "Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om",
+   "title": "Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/80/1819",
+   "versions": [
+    {
+     "from": "2016-09-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_09_80_1819.html",
+     "sha256": "a847b74e6f8caa0812d504d3487bfca393f08ccb1928024ab3aa93bf174a1f91"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2016-1844",
    "path": "odluka/2016/1844",
    "short": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2016. godini",
@@ -748,6 +778,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_100_2152.html",
      "sha256": "1150fd5adc279749d808ae5e49fc6fcf4b8cbe012d4b77a6f6983fd8a6152671"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2016-2174",
+   "path": "odluka/2016/2174",
+   "short": "Odluka o obustavi isplate sredstava za redovito godišnje financiranje iz državnog proračuna",
+   "title": "Odluka o obustavi isplate sredstava za redovito godišnje financiranje iz državnog proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/102/2174",
+   "versions": [
+    {
+     "from": "2016-11-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_11_102_2174.html",
+     "sha256": "0578e74161d5326843d1eb0b57527d43d1aa727f93d43ab7a624553eb31148a6"
     }
    ]
   },
@@ -1063,6 +1108,21 @@
      "units": 18,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2016_06_56_1446.html",
      "sha256": "5d2525a97c2366a621a1cae3ea58736fe263a90d12eaa70b1d4eb7ca0510057f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2017-1588",
+   "path": "odluka/2017/1588",
+   "short": "Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i drugim sudionicima u postupcima arbitraže pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori",
+   "title": "Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i drugim sudionicima u postupcima arbitraže pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/67/1588",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_67_1588.html",
+     "sha256": "6380fe8c7e582e5338f635dee030df00acd64f74e330acc30f9b673994bda227"
     }
    ]
   },
@@ -2113,6 +2173,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_06_56_1072.html",
      "sha256": "e9a4d6a09f511fa9d90d5d7dfe480be8fc7caf2096b222cdd28460279526bcf0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2019-1146",
+   "path": "odluka/2019/1146",
+   "short": "Odluka o izmjenama i dopuni Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2019.",
+   "title": "Odluka o izmjenama i dopuni Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2019.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2019/60/1146",
+   "versions": [
+    {
+     "from": "2019-06-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_06_60_1146.html",
+     "sha256": "4c6bdd2e755ee91d284a7058197f70d51e4496fa96190edffe8c36a33c4ea24f"
     }
    ]
   },
