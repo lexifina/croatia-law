@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4689 acts, 4,799 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4690 acts, 4,801 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -2542,7 +2542,7 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Torinu | [`odluka/2026/1456/`](odluka/2026/1456/) | in force | 1 | 2026-10-15 | 2026-10-15 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2026/1483/`](odluka/2026/1483/) | amending act | 1 | 2026-10-31 | 2026-10-31 |
 
-## pravilnik (1521, of which 497 amending acts)
+## pravilnik (1522, of which 497 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3075,6 +3075,7 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o znanstvenim i umjetničkim područjima, poljima i granama | [`pravilnik/2022/798/`](pravilnik/2022/798/) | amending act | 1 | 2022-05-26 | 2022-05-26 |
 | Pravilnik o opremljenosti pojedinih vrsta uslužnih objekata | [`pravilnik/2022/838/`](pravilnik/2022/838/) | in force | 1 | 2022-06-02 | 2022-06-02 |
 | Pravilnik o obrascu i načinu vođenja očevidnika o obavljenim inspekcijskim pregledima i poduzetim mjerama sportske inspekcije | [`pravilnik/2022/864/`](pravilnik/2022/864/) | repealed 2025-10-18 | 2 | 2022-06-04 | 2025-10-18 |
+| Pravilnik o tržišnim standardima za meso peradi | [`pravilnik/2022/915/`](pravilnik/2022/915/) | repealed 2026-11-05 | 2 | 2022-06-11 | 2026-11-05 |
 | Pravilnik o izmjenama i dopuni Pravilnika o ovlastima, obvezama i načinu rada liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/2022/918/`](pravilnik/2022/918/) | amending act | 1 | 2022-06-11 | 2022-06-11 |
 | Pravilnik o izmjenama i dopunama Pravilnika o organizacijskim zahtjevima i pravilima poslovnog ponašanja za obavljanje investicijskih usluga i aktivnosti | [`pravilnik/2022/943/`](pravilnik/2022/943/) | amending act | 1 | 2022-06-16 | 2022-06-16 |
 | Pravilnik o rublju, odjeći, obući i posteljini za zatvorenike | [`pravilnik/2022/997/`](pravilnik/2022/997/) | in force | 1 | 2022-06-18 | 2022-06-18 |

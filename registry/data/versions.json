@@ -30320,6 +30320,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2022-915",
+   "path": "pravilnik/2022/915",
+   "short": "Pravilnik o tržišnim standardima za meso peradi",
+   "title": "Pravilnik o tržišnim standardima za meso peradi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/63/915",
+   "versions": [
+    {
+     "from": "2022-06-11",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_06_63_915.html",
+     "sha256": "d9d1188dc9cbe666019bd6861eb73b7bc67dd878de98f39bebd0650bd40d768e"
+    },
+    {
+     "from": "2026-11-05",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_123_1477.html",
+     "sha256": "603eba620093341ec8c038064db0fd93202fbe42c34db7381817f657e0de5be9"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2022-918",
    "path": "pravilnik/2022/918",
    "short": "Pravilnik o izmjenama i dopuni Pravilnika o ovlastima, obvezama i načinu rada liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje",
