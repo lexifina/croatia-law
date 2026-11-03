@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4569 acts, 4,569 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4574 acts, 4,574 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -83,7 +83,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2374, of which 318 amending acts)
+## odluka (2379, of which 320 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -91,6 +91,7 @@
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indoneziji i Filipinima, sa sjedištem u Jakarti | [`odluka/2015/1115/`](odluka/2015/1115/) | in force | 1 | 2015-05-19 | 2015-05-19 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Makedoniji, sa sjedištem u Skopju | [`odluka/2015/1148/`](odluka/2015/1148/) | in force | 1 | 2015-08-15 | 2015-08-15 |
 | Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vrgorca i gradonačelnika te zamjenika gradonačelnika Grada Vrgorca i Općinsko vijeće Općine Semeljci i općinskog načelnika te zamjenika općinskog načelnika Općine Semeljci | [`odluka/2015/1231/`](odluka/2015/1231/) | in force | 1 | 2015-06-11 | 2015-06-11 |
+| Odluka o izmjenama i dopuni Odluke o izmjenama uvjeta kredita odobrenih od strane Ministarstva poljoprivrede, ribarstva i ruralnog razvoja | [`odluka/2015/1526/`](odluka/2015/1526/) | amending act | 1 | 2015-07-16 | 2015-07-16 |
 | Odluka o punoj subvenciji participacije redovitih studenata u troškovima studija i sufinanciranju materijalnih troškova javnim visokim učilištima u Republici Hrvatskoj u akademskim godinama 2015./2016., 2016./2017. i 2017./2018. | [`odluka/2015/1594/`](odluka/2015/1594/) | in force | 1 | 2015-07-23 | 2015-07-23 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Litvi, sa sjedištem u Vilniusu | [`odluka/2015/1994/`](odluka/2015/1994/) | in force | 1 | 2015-09-22 | 2015-09-22 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici | [`odluka/2015/2217/`](odluka/2015/2217/) | in force | 1 | 2015-10-05 | 2015-10-05 |
@@ -174,6 +175,7 @@
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Cipru, sa sjedištem u Ateni | [`odluka/2018/457/`](odluka/2018/457/) | in force | 1 | 2018-03-05 | 2018-03-05 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Demokratskoj Republici Nepalu, sa sjedištem u New Delhiju | [`odluka/2018/505/`](odluka/2018/505/) | in force | 1 | 2018-03-08 | 2018-03-08 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Kamerunu, sa sjedištem u Rabatu | [`odluka/2018/506/`](odluka/2018/506/) | in force | 1 | 2018-03-08 | 2018-03-08 |
+| Odluka o izmjeni i dopuni Odluke o pravilima rada Hrvatskog sustava velikih plaćanja | [`odluka/2018/691/`](odluka/2018/691/) | amending act | 1 | 2018-04-21 | 2018-04-21 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske | [`odluka/2018/771/`](odluka/2018/771/) | in force | 1 | 2018-04-23 | 2018-04-23 |
 | Odluka o izmjeni i dopuni Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske | [`odluka/2018/851/`](odluka/2018/851/) | amending act | 1 | 2018-05-17 | 2018-05-17 |
 | Odluka o isplati materijalnih prava i drugih naknada za zaposlenike u djelatnosti socijalne skrbi | [`odluka/2018/874/`](odluka/2018/874/) | in force | 1 | 2018-05-19 | 2018-05-19 |
@@ -193,6 +195,9 @@
 | Odluka o izmjeni Odluke o porezima Grada Ploča | [`odluka/2018/2393/`](odluka/2018/2393/) | in force | 1 | 2019-01-01 | 2019-01-01 |
 | Odluka o izmjenama i dopunama Odluke o kontnom planu za kreditne institucije | [`odluka/2019/472/`](odluka/2019/472/) | amending act | 1 | 2019-03-16 | 2019-03-16 |
 | Odluka o naknadi za superviziju kreditnih institucija za 2019. godinu | [`odluka/2019/925/`](odluka/2019/925/) | in force | 1 | 2019-05-18 | 2019-05-18 |
+| Odluka o izmjeni Odluke o porezima Grada Ogulina | [`odluka/2019/1072/`](odluka/2019/1072/) | in force | 1 | 2019-07-01 | 2019-07-01 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2019. | [`odluka/2019/1712/`](odluka/2019/1712/) | in force | 1 | 2019-09-12 | 2019-09-12 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2019. | [`odluka/2019/1713/`](odluka/2019/1713/) | in force | 1 | 2019-09-12 | 2019-09-12 |
 | Odluka o dopuni Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2020/41/`](odluka/2020/41/) | amending act | 1 | 2020-01-03 | 2020-01-03 |
 | Odluka o porezima Općine Škabrnja | [`odluka/2020/88/`](odluka/2020/88/) | in force | 1 | 2020-01-01 | 2020-01-01 |
 | Odluka o iznosu državnih poticajnih sredstava za stambenu štednju prikupljenu u 2020. godini | [`odluka/2020/94/`](odluka/2020/94/) | in force | 1 | 2020-01-25 | 2020-01-25 |
