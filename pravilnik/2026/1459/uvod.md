@@ -1,0 +1,1 @@
+Na temelju članka 9.a stavka 8. Zakona o uspostavi infrastrukture za alternativna goriva (»Narodne novine«, broj 120/16 i 63/22, u daljnjem tekstu: Zakon), i članka 38. stavka 3. Zakona o sustavu državne uprave (»Narodne novine«, br. 66/19), ministar mora, prometa i infrastrukture uz prethodnu suglasnost ministra vanjskih i europskih poslova donosi
