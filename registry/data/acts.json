@@ -30738,6 +30738,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/108/1602"
 },
 {
+"slug": "odluka-2022-1603",
+"path": "odluka/2022/1603",
+"kind": "odluka",
+"year": "2022",
+"number": "1603",
+"withdrawn_by": null,
+"reason": null,
+"title": "Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni plin",
+"short": "Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni plin",
+"code": null,
+"status": "repealed 2026-01-01",
+"versions": 2,
+"from": "2022-10-01",
+"latest": "2026-01-01",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/108/1603"
+},
+{
 "slug": "odluka-2022-1606",
 "path": "odluka/2022/1606",
 "kind": "odluka",
@@ -41718,6 +41735,23 @@
 "from": "2023-09-06",
 "latest": "2023-09-06",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/99/1458"
+},
+{
+"slug": "pravilnik-2023-1463",
+"path": "pravilnik/2023/1463",
+"kind": "pravilnik",
+"year": "2023",
+"number": "1463",
+"withdrawn_by": null,
+"reason": null,
+"title": "Pravilnik o institucijama za medijaciju",
+"short": "Pravilnik o institucijama za medijaciju",
+"code": null,
+"status": "repealed 2026-08-18",
+"versions": 2,
+"from": "2023-09-07",
+"latest": "2026-08-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/100/1463"
 },
 {
 "slug": "odluka-2023-1464",

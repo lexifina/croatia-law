@@ -22976,6 +22976,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-1603",
+   "path": "odluka/2022/1603",
+   "short": "Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni plin",
+   "title": "Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni plin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/108/1603",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_108_1603.html",
+     "sha256": "10d26cfda4727de0948e34e0d2c4c1bcd1c8751bbe1ab51371ab642080b8b653"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_154_2306.html",
+     "sha256": "1acfb12d7053da48bff1b72babe2b3b175deb26c057f1e996632e2695c6ed6cf"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-1606",
    "path": "odluka/2022/1606",
    "short": "Odluka o iznosu tarifnih stavki za distribuciju plina",
@@ -39259,6 +39280,27 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_99_1458.html",
      "sha256": "eaa88b972e924a3187781e25bfa9248c0963a6accfacf237d5940e1371ad170c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-1463",
+   "path": "pravilnik/2023/1463",
+   "short": "Pravilnik o institucijama za medijaciju",
+   "title": "Pravilnik o institucijama za medijaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/100/1463",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_100_1463.html",
+     "sha256": "51097547e9a44b525039c784db0c8b21464703d5d89ab385df528c5ac8c5c98f"
+    },
+    {
+     "from": "2026-08-18",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1100.html",
+     "sha256": "5c180291e7381a451c038b5ba7aac715f50d3ddaed2ccd9c4d87da932080d7dd"
     }
    ]
   },

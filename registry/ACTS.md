@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4687 acts, 4,795 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4689 acts, 4,799 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -88,7 +88,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2448, of which 322 amending acts)
+## odluka (2449, of which 322 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1078,6 +1078,7 @@
 | Odluka o cjeniku nestandardnih usluga operatora transportnog sustava | [`odluka/2022/1600/`](odluka/2022/1600/) | repealed 2026-01-01 | 2 | 2022-10-01 | 2026-01-01 |
 | Odluka o cjeniku nestandardnih usluga opskrbljivača plinom u obvezi javne usluge | [`odluka/2022/1601/`](odluka/2022/1601/) | in force | 1 | 2022-10-01 | 2022-10-01 |
 | Odluka o cjeniku nestandardnih usluga operatora sustava skladišta plina | [`odluka/2022/1602/`](odluka/2022/1602/) | in force | 1 | 2022-10-01 | 2022-10-01 |
+| Odluka o cjeniku nestandardnih usluga operatora terminala za ukapljeni prirodni plin | [`odluka/2022/1603/`](odluka/2022/1603/) | repealed 2026-01-01 | 2 | 2022-10-01 | 2026-01-01 |
 | Odluka o iznosu tarifnih stavki za distribuciju plina | [`odluka/2022/1606/`](odluka/2022/1606/) | repealed 2025-10-01 | 2 | 2022-10-01 | 2025-10-01 |
 | Odluka o davanju suglasnosti na Odluku Županijske skupštine Zadarske županije o izmjenama i dopunama Odluke o osnivanju Lučke uprave za luke županijskog i lokalnog značaja | [`odluka/2022/1607/`](odluka/2022/1607/) | amending act | 1 | 2022-09-19 | 2022-09-19 |
 | Odluka o katastarskoj izmjeri na području Grada Vrbovca za katastarsku općinu Vrbovec i dijelove katastarskih općina: Luka, Brčevec i Poljana | [`odluka/2022/1616/`](odluka/2022/1616/) | in force | 1 | 2022-09-22 | 2022-09-22 |
@@ -2541,7 +2542,7 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Torinu | [`odluka/2026/1456/`](odluka/2026/1456/) | in force | 1 | 2026-10-15 | 2026-10-15 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2026/1483/`](odluka/2026/1483/) | amending act | 1 | 2026-10-31 | 2026-10-31 |
 
-## pravilnik (1520, of which 497 amending acts)
+## pravilnik (1521, of which 497 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3377,6 +3378,7 @@
 | Pravilnik o izmjenama Pravilnika o sastavu i načinu rada povjerenstva za izbor udomitelja za obavljanje udomiteljstva kao zanimanja | [`pravilnik/2023/1438/`](pravilnik/2023/1438/) | in force | 1 | 2023-08-31 | 2023-08-31 |
 | Pravilnik o provedbi mjere I.10. »Trajni prestanak ribolovnih aktivnosti« | [`pravilnik/2023/1454/`](pravilnik/2023/1454/) | in force | 1 | 2023-08-29 | 2023-08-29 |
 | Pravilnik o izmjeni i dopuni Pravilnika o obliku, sadržaju i načinu postavljanja propisanih oznaka i signalizacije na graničnom prijelazu | [`pravilnik/2023/1458/`](pravilnik/2023/1458/) | amending act | 1 | 2023-09-06 | 2023-09-06 |
+| Pravilnik o institucijama za medijaciju | [`pravilnik/2023/1463/`](pravilnik/2023/1463/) | repealed 2026-08-18 | 2 | 2023-09-07 | 2026-08-18 |
 | Pravilnik o psihosocijalnoj zaštiti, mjerilima i načinu postupanja u pružanju pomoći vatrogascima | [`pravilnik/2023/1467/`](pravilnik/2023/1467/) | in force | 1 | 2023-09-07 | 2023-09-07 |
 | Pravilnik o dodjeljivanju predmeta u rad javnim bilježnicima u postupku sporazumnog uređenja međe, sporazumnog razvrgnuća suvlasništva, proglašenja nestale osobe umrlom i dokazivanja smrti | [`pravilnik/2023/1520/`](pravilnik/2023/1520/) | in force | 1 | 2023-09-21 | 2023-09-21 |
 | Pravilnik o visini nagrade i naknade troškova javnog bilježnika kao povjerenika suda u postupku sporazumnog uređenja međe, sporazumnog razvrgnuća suvlasništva, proglašenja nestale osobe umrlom i dokazivanja smrti | [`pravilnik/2023/1521/`](pravilnik/2023/1521/) | in force | 1 | 2023-09-21 | 2023-09-21 |

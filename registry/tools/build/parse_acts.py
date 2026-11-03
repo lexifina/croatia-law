@@ -224,7 +224,9 @@ def in_force(text: str, pub: str, adopted: str | None) -> tuple[str, str]:
     m = re.search(r"\b(" + "|".join(o[:-2] for o in ORD) + r")(?:oga|og|i|ega|eg)\s+dana?\s+(?:od\s+dana|nakon\s+dana|nakon|od|po)\s+"
                   r"(?:njezine |njegove |njihove )?objav", cut)
     if m:
-        n = ORD[m.group(1) + "og"]
+        n = {o[:-2]: v for o, v in ORD.items()}.get(m.group(1))
+        if n is None:  # a stem the alternation matched but no ordinal spells that way (e.g. a typo): don't guess
+            raise Hold("in_force_ordinal_unread:" + m.group(0)[:60])
         return rel((p + timedelta(days=n)).isoformat(), f"{m.group(1)}oga dana od objave" + (" " + note if note else ""))
     if re.search(r"(?:sljedećeg|slijedećeg|idućeg|prvog)\s+dana\s+(?:od\s+dana|nakon\s+dana|nakon|od|po)\s+(?:njezine |njegove )?objav|"
                  r"dan(?:om)?\s+nakon\s+(?:dana\s+)?(?:njezine |njegove )?objav", cut):
