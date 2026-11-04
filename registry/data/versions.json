@@ -25886,6 +25886,27 @@
    ]
   },
   {
+   "slug": "odluka-2022-584",
+   "path": "odluka/2022/584",
+   "short": "Odluka o određivanju iznosa koncesijske naknade za elektroenergetsku infrastrukturu na pomorskom dobru",
+   "title": "Odluka o određivanju iznosa koncesijske naknade za elektroenergetsku infrastrukturu na pomorskom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/46/584",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_46_584.html",
+     "sha256": "8b72d8836295e5526936b4510989c2279f5a58672aa3995c3adaa0bf677faa01"
+    },
+    {
+     "from": "2026-10-15",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_114_1369.html",
+     "sha256": "26d7bc3cbf4b8f21c76e0b622b0139d71eefa09c4032d388de6fe3abdc0fdc7a"
+    }
+   ]
+  },
+  {
    "slug": "odluka-2022-587",
    "path": "odluka/2022/587",
    "short": "Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Sveti Ilija",

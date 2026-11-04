@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4700 acts, 4,811 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4701 acts, 4,813 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -88,7 +88,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2458, of which 331 amending acts)
+## odluka (2459, of which 331 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -930,6 +930,7 @@
 | Odluka o povećanju najniže osigurane svote temeljem ugovora o osiguranju od automobilske odgovornosti | [`odluka/2022/561/`](odluka/2022/561/) | in force | 1 | 2022-04-21 | 2022-04-21 |
 | Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2022. - 2024. | [`odluka/2022/562/`](odluka/2022/562/) | in force | 1 | 2022-04-08 | 2022-04-08 |
 | Odluka Agencije za elektroničke medije klasa: 612-12/20-02/0011, urbroj: 567-06-22-18 od 7. travnja 2022. o trajnom oduzimanju koncesije za obavljanje djelatnosti televizije | [`odluka/2022/571/`](odluka/2022/571/) | in force | 1 | 2022-04-07 | 2022-04-07 |
+| Odluka o određivanju iznosa koncesijske naknade za elektroenergetsku infrastrukturu na pomorskom dobru | [`odluka/2022/584/`](odluka/2022/584/) | repealed 2026-10-15 | 2 | 2022-03-31 | 2026-10-15 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Sveti Ilija | [`odluka/2022/587/`](odluka/2022/587/) | in force | 1 | 2022-04-05 | 2022-04-05 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za dio katastarske općine Okrug Novi za I. zonu | [`odluka/2022/593/`](odluka/2022/593/) | in force | 1 | 2022-04-11 | 2022-04-11 |
 | Odluka o donošenju Programa potpore posrednicima u lancu doniranja hrane i/ili banci hrane | [`odluka/2022/603/`](odluka/2022/603/) | in force | 1 | 2022-04-21 | 2022-04-21 |
