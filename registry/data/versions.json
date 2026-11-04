@@ -27668,6 +27668,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2022-1795",
+   "path": "pravilnik/2022/1795",
+   "short": "Pravilnik o sadržaju i obliku obavijesti o pravu potrošača na jednostrani raskid ugovora sklopljenih na daljinu i ugovora sklopljenih izvan poslovnih prostorija",
+   "title": "Pravilnik o sadržaju i obliku obavijesti o pravu potrošača na jednostrani raskid ugovora sklopljenih na daljinu i ugovora sklopljenih izvan poslovnih prostorija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/117/1795",
+   "versions": [
+    {
+     "from": "2022-10-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_117_1795.html",
+     "sha256": "49b3de90ba86355ed40169a9f25e51247f5ba9545e8ea55a98a231946ed00b27"
+    },
+    {
+     "from": "2026-09-26",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_105_1272.html",
+     "sha256": "d9becf1b1df46cb9ab60d0ceaa8617cd7a93329c5ce15f15848a5fecf16a8480"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2022-1796",
    "path": "pravilnik/2022/1796",
    "short": "Pravilnik o dopunama Pravilnika o ribolovnim mogućnostima i raspodjeli Državne kvote u 2022. godini za ribolov plavoperajne tune (Thunnus thynnus)",

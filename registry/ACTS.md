@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4701 acts, 4,813 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4702 acts, 4,815 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -2552,7 +2552,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (1522, of which 497 amending acts)
+## pravilnik (1523, of which 497 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3145,6 +3145,7 @@
 | Pravilnik o priznavanju ribarskih zadruga | [`pravilnik/2022/1767/`](pravilnik/2022/1767/) | in force | 1 | 2022-10-13 | 2022-10-13 |
 | Pravilnik o uvjetima i načinu provođenja sezonskog sniženja | [`pravilnik/2022/1792/`](pravilnik/2022/1792/) | in force | 1 | 2022-10-15 | 2022-10-15 |
 | Pravilnik o sadržaju i obliku obavijesti o ugovoru o vremenski ograničenoj uporabi (timeshare), dugotrajnom turističkom proizvodu, ponovnoj prodaji i zamjeni | [`pravilnik/2022/1794/`](pravilnik/2022/1794/) | in force | 1 | 2022-10-15 | 2022-10-15 |
+| Pravilnik o sadržaju i obliku obavijesti o pravu potrošača na jednostrani raskid ugovora sklopljenih na daljinu i ugovora sklopljenih izvan poslovnih prostorija | [`pravilnik/2022/1795/`](pravilnik/2022/1795/) | repealed 2026-09-26 | 2 | 2022-10-15 | 2026-09-26 |
 | Pravilnik o dopunama Pravilnika o ribolovnim mogućnostima i raspodjeli Državne kvote u 2022. godini za ribolov plavoperajne tune (Thunnus thynnus) | [`pravilnik/2022/1796/`](pravilnik/2022/1796/) | amending act | 1 | 2022-10-08 | 2022-10-08 |
 | Pravilnik o načinu označavanja imena naselja, ulica i trgova te načinu obilježavanja zgrada kućnim brojevima | [`pravilnik/2022/1798/`](pravilnik/2022/1798/) | in force | 1 | 2022-10-15 | 2022-10-15 |
 | Pravilnik o provedbi Programa potpore za istraživanja utjecaja različitih tehnologija i agrotehničkih mjera na održavanje matičnih nasada visokih kategorija za razdoblje od 2022. - 2024. godine | [`pravilnik/2022/1823/`](pravilnik/2022/1823/) | in force | 1 | 2022-10-20 | 2022-10-20 |
