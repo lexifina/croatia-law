@@ -504,8 +504,24 @@ def main():
     amend_re = re.compile(r"izmjen|dopun|ispravak|prestank|ukidan|stavljanju izvan snage|pročišćen|vjerodostojn|"
                           r"Ustavnog suda|upravnog suda", re.I)
 
+    # Pages robots.txt closes to us (docs.jsonl "skipped": "robots"; 91 in 2026, nearly all pardons) can never be
+    # read, so an amender among them would hold the frontier for good. Only these are left out, and only when the
+    # court and case type can't change a general act: first-instance administrative courts (Upravni sud u <city>:
+    # individual disputes; general acts are reviewed by the Visoki upravni sud), Constitutional Court constitutional
+    # complaints (U-III) and election cases (U-IP, U-VII*), and licence withdrawals from a named person.
+    robots_closed = set()
+    if (src / "docs.jsonl").exists():
+        with open(src / "docs.jsonl", encoding="utf-8") as f:
+            for line in f:
+                if '"skipped": "robots"' in line:
+                    robots_closed.add(json.loads(line)["href"])
+    cannot_amend = re.compile(r"Upravnog suda u |Ustavnog suda Republike Hrvatske broj: U-(?:III|IP|VII[A-Z]*)-|"
+                              r"oduzima odobrenje")
+
     def amender(r: dict) -> bool:
         kind = r.get("kind", "")
+        if r.get("href") in robots_closed and (PERSONAL.search(r.get("title", "")) or cannot_amend.search(r.get("title", ""))):
+            return False
         if kind in ("zakon", "izmjene i dopune", "pročišćeni tekst", "presuda", "ostalo") or amend_re.search(r.get("title", "")):
             return True
         return bool(KINDS.get(kind)) and not PERSONAL.search(r.get("title", ""))
