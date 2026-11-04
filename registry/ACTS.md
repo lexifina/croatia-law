@@ -1,6 +1,6 @@
 # Every act in this repository
 
-4690 acts, 4,801 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+4700 acts, 4,811 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (31, of which 8 amending acts)
 
@@ -88,7 +88,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (2449, of which 322 amending acts)
+## odluka (2458, of which 331 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2541,6 +2541,15 @@
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Aosti | [`odluka/2026/1455/`](odluka/2026/1455/) | in force | 1 | 2026-10-15 | 2026-10-15 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Torinu | [`odluka/2026/1456/`](odluka/2026/1456/) | in force | 1 | 2026-10-15 | 2026-10-15 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2026/1483/`](odluka/2026/1483/) | amending act | 1 | 2026-10-31 | 2026-10-31 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1495/`](odluka/2026/1495/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1496/`](odluka/2026/1496/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1497/`](odluka/2026/1497/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatske agencije za osiguranje depozita za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1498/`](odluka/2026/1498/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zdravstveno osiguranje za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1499/`](odluka/2026/1499/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Centra za restrukturiranje i prodaju za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1500/`](odluka/2026/1500/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih autocesta za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1501/`](odluka/2026/1501/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
 ## pravilnik (1522, of which 497 amending acts)
 
@@ -4418,7 +4427,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (304, of which 256 amending acts)
+## zakon (305, of which 257 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -4726,3 +4735,4 @@
 | Zakon o izmjenama i dopunama Zakona o visokom obrazovanju i znanstvenoj djelatnosti | [`zakon/2026/1308/`](zakon/2026/1308/) | amending act | 1 | 2026-09-30 | 2026-09-30 |
 | Zakon o izmjenama i dopunama Zakona o tržištu električne energije | [`zakon/2026/1369/`](zakon/2026/1369/) | amending act | 1 | 2026-10-15 | 2026-10-15 |
 | Zakon o izmjenama i dopunama Zakona o zahtjevima za pristupačnost proizvoda i usluga | [`zakon/2026/1371/`](zakon/2026/1371/) | amending act | 1 | 2026-10-15 | 2026-10-15 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2026. godinu | [`zakon/2026/1504/`](zakon/2026/1504/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
