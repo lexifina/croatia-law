@@ -96,3 +96,7 @@ Amended or repealed by:
 - Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
 - An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
 - Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
+
+## Version 2026-11-04
+
+The explicit amendments in NN 126/2026 are applied to this act. Source: https://narodne-novine.nn.hr/eli/sluzbeni/2026/126/1504. Article 7 of the amending act takes effect on the first day after publication (2026-11-03). This is a mechanically reconstructed amended text; the official as-enacted text remains in history.
