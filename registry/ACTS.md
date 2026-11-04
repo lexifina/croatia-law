@@ -1,12 +1,24 @@
 # Every act in this repository
 
-6300 acts, 6,413 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+7930 acts, 8,043 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## naputak (32, of which 8 amending acts)
+## naputak (44, of which 11 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Naputak o načinu odobravanja i korištenja financijskih kredita odnosno zajmova od strane javnih poduzeća i drugih pravnih osoba u državnom i pretežno, državnom vlasništvu i društvenih fondova | [`naputak/1993/1688/`](naputak/1993/1688/) | in force | 1 | 1993-09-24 | 1993-09-24 |
+| Naputak o izmjenama i dopunama Naputka o plaćanjima s računa banke | [`naputak/1994/111/`](naputak/1994/111/) | amending act | 1 | 1994-01-29 | 1994-01-29 |
+| Naputak o načinu polaganja i programu stručnih ispita za djelatnike koji obavljaju poslove normizacije, mjeriteljstva, certificiranja i nadzora predmeta od plemenitih kovina | [`naputak/1994/1096/`](naputak/1994/1096/) | in force | 1 | 1994-08-18 | 1994-08-18 |
+| Naputak za provedbu Uredbe o izmjeni i dopuni Zakona o platnom prometu u zemlji | [`naputak/1994/1213/`](naputak/1994/1213/) | amending act | 1 | 1994-10-01 | 1994-10-01 |
+| Naputak o provedbi uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`naputak/1995/737/`](naputak/1995/737/) | in force | 1 | 1995-06-01 | 1995-06-01 |
+| Naputak o izdavanju svjedodžbi o završenom srednjoškolskom obrazovanju učenicima koji su školske godine 1987/88. I 1988/89. Završili iv. Godinu programa odgojno-obrazovne struke | [`naputak/1995/1155/`](naputak/1995/1155/) | in force | 1 | 1995-09-08 | 1995-09-08 |
+| Naputak o obrascu, sadržaju i načinu vođenja očevidnika o obavljenim inspekcijskim pregledima inspektora zaštite okoliša | [`naputak/1995/1339/`](naputak/1995/1339/) | in force | 1 | 1995-10-14 | 1995-10-14 |
+| Naputak o izdavanju potvrde o imovnom stanju | [`naputak/1995/1501/`](naputak/1995/1501/) | in force | 1 | 1995-11-25 | 1995-11-25 |
+| Naputak o načinu naknade bivšim političkim zatvorenicima | [`naputak/1996/963/`](naputak/1996/963/) | in force | 1 | 1996-06-26 | 1996-06-26 |
+| Naputak o jodiranju kuhinjske soli | [`naputak/1996/1503/`](naputak/1996/1503/) | in force | 1 | 1996-10-09 | 1996-10-09 |
+| Naputak o izmjenama i dopunama Naputka o pomoćnim šifarnicima i ostalim podacima za vođenje sudskoga registra | [`naputak/1996/1975/`](naputak/1996/1975/) | amending act | 1 | 1996-11-29 | 1996-11-29 |
+| Naputak o provedbi Uredbe o usmjeravanju sredstava za stambeno zbrinjavanje hrvatskih branitelja iz Domovinskog rata i članovima njihovih obitelji | [`naputak/1997/569/`](naputak/1997/569/) | in force | 1 | 1997-04-24 | 1997-04-24 |
+| Naputak o postupku aktiviranja poticajnih sredstava Ministarstva turizma za razvitak malog i srednjeg poduzetništva u turizmu sa naglaskom na razvitak turizma na ruralnom prostoru za 1999. godinu | [`naputak/1999/1328/`](naputak/1999/1328/) | in force | 1 | 1999-07-08 | 1999-07-08 |
 | Naputak o načinu provođenja mjera zaštite zdravlja životinja od zaraznih i nametničkih bolesti i njihovom financiranju | [`naputak/2020/1637/`](naputak/2020/1637/) | in force | 1 | 2020-08-01 | 2020-08-01 |
 | Naputak o pravovaljanim ispravama nadležnih tijela kojima osoba s invaliditetom dokazuje svoj status | [`naputak/2020/2604/`](naputak/2020/2604/) | in force | 1 | 2020-12-10 | 2020-12-10 |
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2020. godini | [`naputak/2020/2772/`](naputak/2020/2772/) | amending act | 1 | 2020-12-24 | 2020-12-24 |
@@ -39,7 +51,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (95, of which 18 amending acts)
+## naredba (176, of which 30 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -93,6 +105,87 @@
 | Naredba o zračnim putovima | [`naredba/1993/1661/`](naredba/1993/1661/) | in force | 1 | 1993-09-08 | 1993-09-08 |
 | Naredba o izmjenama Naredbe o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja i njihovu financiranju u 1993. godini | [`naredba/1993/1990/`](naredba/1993/1990/) | in force | 1 | 1993-11-11 | 1993-11-11 |
 | Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 1994. godini | [`naredba/1993/2144/`](naredba/1993/2144/) | in force | 1 | 1993-12-17 | 1993-12-17 |
+| Naredba o dopuni Naredbe o visni naknade za izvršeni pregled zrakoplova, zavisno od kategorije, namjene i udovoljavanja posebnim uvjetima | [`naredba/1994/152/`](naredba/1994/152/) | amending act | 1 | 1994-02-12 | 1994-02-12 |
+| Naredba o dopunama Naredbe o visini naknada za provjeru stružne sposobnosti zrakoplovnog osoblja | [`naredba/1994/153/`](naredba/1994/153/) | amending act | 1 | 1994-02-12 | 1994-02-12 |
+| Naredba o izmjenama i dopuni Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvakske papkara i proizvoda podrijetlom od papkara | [`naredba/1994/387/`](naredba/1994/387/) | amending act | 1 | 1994-03-23 | 1994-03-23 |
+| Naredba o izmjeni i dopuni Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1994/706/`](naredba/1994/706/) | amending act | 1 | 1994-05-19 | 1994-05-19 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda proračuna, društvenih fondova te za financiranje drugih javnih potreba, načinu uplaćivanja tih prihoda i izvješćvanju.korisnika o njima | [`naredba/1994/825/`](naredba/1994/825/) | amending act | 1 | 1994-06-16 | 1994-06-16 |
+| Naredba o zabrani i ograničenju prometa na cestama Republike Hrvatske i ulicama Grada Zagreba | [`naredba/1994/1121/`](naredba/1994/1121/) | in force | 1 | 1994-08-31 | 1994-08-31 |
+| Naredba o ustanovljenju zabranjenih zona u unutrašnjim morskim vodama Republike Hrvatske | [`naredba/1994/1167/`](naredba/1994/1167/) | in force | 1 | 1994-09-21 | 1994-09-21 |
+| Naredba o utvrđivanju mjesečnih svota osobne invalidnine i drugih mjesečnih novčanih primanja, osnovice za određivanje opskrbnine i cenzusa novčanih prihoda od 1. siječnja 1994. godine | [`naredba/1994/1330/`](naredba/1994/1330/) | in force | 1 | 1994-10-27 | 1994-10-27 |
+| Naredba o usklađivanju svote cenzusa prihoda od poljoprivredne djelatnosti iz Zakona o zaštiti vojnih i civilnih invalida rata | [`naredba/1994/1476/`](naredba/1994/1476/) | in force | 1 | 1994-11-25 | 1994-11-25 |
+| Naredba o obveznom pretraživanju konja na zaraznu bolest infekcioznu anemiju kopitara i mjerama za njeno suzbijanje | [`naredba/1994/1528/`](naredba/1994/1528/) | in force | 1 | 1994-12-05 | 1994-12-05 |
+| Naredba o mjerama zaštite životinja od zaraznih i nametnićkih bolesti i njihovom financiranju u 1995. godini | [`naredba/1994/1629/`](naredba/1994/1629/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Naredba | [`naredba/1995/484/`](naredba/1995/484/) | in force | 1 | 1995-04-05 | 1995-04-05 |
+| Naredba o utvrđivanju mjesečnih svota osobne invalidnine, drugih mjesečnih novčanih primanja i osnovice za određivanje opskrbnine od 1. siječnja 1995. godine | [`naredba/1995/1066/`](naredba/1995/1066/) | in force | 1 | 1995-08-02 | 1995-08-02 |
+| Naredba o obveznom provođenju veterinarsko-sanitarnih mjera na novooslobođenom području Republike Hrvatske | [`naredba/1995/1141/`](naredba/1995/1141/) | in force | 1 | 1995-09-01 | 1995-09-01 |
+| Naredba o izmjenama Naredbe o visini zaštitne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1995/1280/`](naredba/1995/1280/) | in force | 1 | 1995-09-29 | 1995-09-29 |
+| Naredba o najvećem iznosu zakupnine za jedinice zakupa u zdravstvenim ustanovama primarne zdravstvene zaštite i lječilištima za 1996. godinu | [`naredba/1996/358/`](naredba/1996/358/) | in force | 1 | 1996-03-08 | 1996-03-08 |
+| Naredba o visini zaštitne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1996/847/`](naredba/1996/847/) | in force | 1 | 1996-06-01 | 1996-06-01 |
+| Naredba o izmjeni Naredbe o poduzimanju mjera za sprečavanje širenja i iskorjenjivanju bakterijske paleži Erwinia amylovora (Burill) Winslowet al. | [`naredba/1996/848/`](naredba/1996/848/) | in force | 1 | 1996-05-31 | 1996-05-31 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplačivanja prihoda proračuna i izvanproračunskih fondova te prihoda za financiranje drugih javnih potreba za 1996. godinu | [`naredba/1996/1292/`](naredba/1996/1292/) | amending act | 1 | 1996-08-07 | 1996-08-07 |
+| Naredba o najvećem iznosu zakupnine za jedinice zakupa u zdravstvenim ustanovama primarne zdravstvene zaštite i lječilištima za 1997. g | [`naredba/1996/2041/`](naredba/1996/2041/) | in force | 1 | 1996-12-17 | 1996-12-17 |
+| Naredba o utvrđivanju mjesečnh iznosa osobne invalidnine i drugih mjesečnih novčanih primanja, osnovice za određivanje opskrbnine i cenzusa novčanih prihoda od 1 | [`naredba/1997/79/`](naredba/1997/79/) | in force | 1 | 1997-01-17 | 1997-01-17 |
+| Naredba o utvrđivanju mjesečnih svota osobne invalidnine, drugih mjesečnih novčanih primanja i osnovice za određivanje opskrbnine od 1 | [`naredba/1997/254/`](naredba/1997/254/) | in force | 1 | 1997-02-14 | 1997-02-14 |
+| Naredba o zabrani upotrebe proteina podrijetlom od preživača (osim mlijeka i mliječnih prerađevina) u prehrani preživača | [`naredba/1997/387/`](naredba/1997/387/) | in force | 1 | 1997-03-12 | 1997-03-12 |
+| Naredba o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, umjeravanja etalona, ispitivanja uzoraka referencijskih materijala, ovjeravanja mjerila, provjere pakovina i | [`naredba/1997/603/`](naredba/1997/603/) | in force | 1 | 1997-06-01 | 1997-06-01 |
+| Naredba o prestanku važenja Naredbe o određivanju visine cijene obrasca odobrenja za plovidbu stranih jahti i stranih brodica namijenjenih razonodi ili športu u unutrašnjim morskim vodama i teritorija | [`naredba/1997/702/`](naredba/1997/702/) | in force | 1 | 1997-05-07 | 1997-05-07 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara (goveda, ovaca, koza i svinja) te proizvoda od tih životinja kao i životi | [`naredba/1997/859/`](naredba/1997/859/) | in force | 1 | 1997-05-21 | 1997-05-21 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske biljaka domaćina bakterijske paleži Erwinia amylovora (Burill) Winslow et. al. iz Republike Mađarske i Rumunj | [`naredba/1997/1356/`](naredba/1997/1356/) | in force | 1 | 1997-07-25 | 1997-07-25 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske biljaka domaćina bakterijske paleži - Erwinia amylovora (Burill) Winslow et. al. iz Republike Makedonije, Bos | [`naredba/1997/1357/`](naredba/1997/1357/) | in force | 1 | 1997-07-25 | 1997-07-25 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova te prihoda za financiranje drugih javnih potreba za 1997. godinu | [`naredba/1997/1480/`](naredba/1997/1480/) | amending act | 1 | 1997-09-10 | 1997-09-10 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Belgij | [`naredba/1997/1529/`](naredba/1997/1529/) | in force | 1 | 1997-09-15 | 1997-09-15 |
+| Naredba o visini troškova postupka priznavanja novostvorene sorte odnosno odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja | [`naredba/1997/1688/`](naredba/1997/1688/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Naredba o izmjeni Naredbe o vrsti i količini ribolovnih alata i opreme koja se smije upotrebljavati u gospodarskom ribolovu na moru | [`naredba/1997/1752/`](naredba/1997/1752/) | in force | 1 | 1997-11-13 | 1997-11-13 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko toritorija Republike Hrvatske ribe i ribljih proizvoda - svježih, zamrznutih ili prerađenih podrijetlom iz Kine - objekta No 3200/02226 | [`naredba/1997/1813/`](naredba/1997/1813/) | in force | 1 | 1997-11-07 | 1997-11-07 |
+| Naredba o visini naknada za uporabu uređaja i usluga kontrole letenja na teritoriju Republike Hrvatske | [`naredba/1998/49/`](naredba/1998/49/) | in force | 1 | 1998-01-01 | 1998-01-01 |
+| Naredba o prestanjku važenja Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz određ | [`naredba/1998/213/`](naredba/1998/213/) | in force | 1 | 1998-01-29 | 1998-01-29 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske ribe, glavonožaca, ljuskavaca (rakova, puževa, školjki i drugih vodenih i suhozem | [`naredba/1998/254/`](naredba/1998/254/) | in force | 1 | 1998-02-03 | 1998-02-03 |
+| Naredba o izmjeni Naredbe o najvećem iznosu zakupnine za jedinice zakupa u zdravstvenim ustanovama primarne zdravstvene zaštite i lječilištima za 1998. godinu | [`naredba/1998/312/`](naredba/1998/312/) | in force | 1 | 1998-02-25 | 1998-02-25 |
+| Naredba o izmjenama i dopunama Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 1998. godini | [`naredba/1998/1311/`](naredba/1998/1311/) | amending act | 1 | 1998-07-14 | 1998-07-14 |
+| Naredba o homologaciji vozila kategorije L u pogledu kočenja | [`naredba/1998/1323/`](naredba/1998/1323/) | in force | 1 | 1998-07-22 | 1998-07-22 |
+| Naredba o homologaciji vozila kategorija M, N i O u pogledu kočenja | [`naredba/1998/1324/`](naredba/1998/1324/) | in force | 1 | 1998-07-22 | 1998-07-22 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Kraljevine Nizozemske - regija Brabant | [`naredba/1998/1501/`](naredba/1998/1501/) | in force | 1 | 1998-08-11 | 1998-08-11 |
+| Naredba o zabrani i ograničenju prometa na cestama Republike Hrvatske, ulicama Grada Zagreba, općine Marija Bistrica i grada Splita | [`naredba/1998/1576/`](naredba/1998/1576/) | in force | 1 | 1998-09-25 | 1998-09-25 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova te prihoda za financiranje drugih javnih potreba u 1998. godini | [`naredba/1998/1610/`](naredba/1998/1610/) | amending act | 1 | 1998-10-13 | 1998-10-13 |
+| Naredba o izmjeni Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1998/1611/`](naredba/1998/1611/) | in force | 1 | 1998-10-13 | 1998-10-13 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Moldavije - regija Orgeyev | [`naredba/1998/1727/`](naredba/1998/1727/) | in force | 1 | 1998-10-19 | 1998-10-19 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih papkara te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Narod | [`naredba/1998/1728/`](naredba/1998/1728/) | in force | 1 | 1998-10-19 | 1998-10-19 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Savezn | [`naredba/1998/1729/`](naredba/1998/1729/) | in force | 1 | 1998-10-19 | 1998-10-19 |
+| Naredba o homologaciji teretnih motornih vozila, prikolica i poluprikolica s obzirom na njihovu bočnu zaštitu | [`naredba/1998/1736/`](naredba/1998/1736/) | in force | 1 | 1998-11-04 | 1998-11-04 |
+| Naredba o homologaciji retrovizora i motornih vozila na dva kotača s ili bez bočne prikolice u pogledu ugradbe retrovizora | [`naredba/1998/1737/`](naredba/1998/1737/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| Naredba o prestanku važenja Naredbe o zabrani stavljanja u promet svinja s područja Županije vukovarsko-srijemske i dijelova Županije osječko-baranjske | [`naredba/1998/1791/`](naredba/1998/1791/) | in force | 1 | 1998-11-04 | 1998-11-04 |
+| Naredba o homologaciji svjetala za maglu na cestovna motorna vozila | [`naredba/1998/1821/`](naredba/1998/1821/) | in force | 1 | 1998-11-20 | 1998-11-20 |
+| Naredba o homologaciji stražnjih svjetala za maglu za cestovna motorna vozila i njihove prikolice | [`naredba/1998/1824/`](naredba/1998/1824/) | in force | 1 | 1998-11-20 | 1998-11-20 |
+| Naredba o poduzimanju mjera za sprečavanje širenja i iskorjenjivanje bakterijske paleži - Erwinia amylovora (Burill) Winslow et al. | [`naredba/1998/1860/`](naredba/1998/1860/) | in force | 1 | 1998-11-23 | 1998-11-23 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Moldav | [`naredba/1998/1889/`](naredba/1998/1889/) | in force | 1 | 1998-11-23 | 1998-11-23 |
+| Naredba o najvećem iznosu zakupnine za jedinice zakupa u zdravstvenim ustanovama primarne zdravstvene zaštite i lječilištima za 1999. godinu | [`naredba/1999/66/`](naredba/1999/66/) | in force | 1 | 1999-01-19 | 1999-01-19 |
+| Naredba o homologaciji halogenih glavnih svjetala koja sa svjetlosnim izvorom čine nerastavljivu cjelinu ("HSB svjetla") za motorna vozila s asimetričnim kratkim i/ili s dugim svjetlosnim snopom moraju biti homologirana sukladno ovoj naredbi | [`naredba/1999/349/`](naredba/1999/349/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o homologaciji žarulja sa žarnom niti za uporabu u homologiranim svjetlima za motorna vozila i njihove prikolice | [`naredba/1999/350/`](naredba/1999/350/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o homologaciji naprava za čišćenje glavnih svjetala motornih vozila i motornih vozila s obzirom na naprave za čišćenje glavnih svjetala | [`naredba/1999/352/`](naredba/1999/352/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o homologaciji posebnih upozoravajućih svjetala za motorna vozila | [`naredba/1999/353/`](naredba/1999/353/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o homologaciji glavnih svjetala za mopede s halogenim HS2 žaruljama | [`naredba/1999/355/`](naredba/1999/355/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o izmjenama i dopunama Naredbe o homologaciji vozila s obzirom na ograničenje njihove najveće brzine i ugradnju uređaja za ograničenje brzine homologiranog tipa, te uređaja za ograničenje brzine | [`naredba/1999/361/`](naredba/1999/361/) | amending act | 1 | 1999-02-18 | 1999-02-18 |
+| Naredba o obveznom isticanju oznake o početku i završetku radnog vremena zdravstvenih ustanova i privatnih zdravstvenih djelatnika | [`naredba/1999/416/`](naredba/1999/416/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske peradi i proizvoda od peradi podrijetlom iz Bosne i Hercegovine - objekta "KOKA-PRODUKT" Gračanica | [`naredba/1999/472/`](naredba/1999/472/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Španjolske - regije Sevilla | [`naredba/1999/473/`](naredba/1999/473/) | in force | 1 | 1999-02-26 | 1999-02-26 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Narodne Republike Kine | [`naredba/1999/903/`](naredba/1999/903/) | in force | 1 | 1999-05-10 | 1999-05-10 |
+| Naredba o izmjenama i dopunama Naredbe o razdobljima za ponovno umjeravanje etalona i ovjernim razdobljima za ponovno ovjeravanje mjerila | [`naredba/1999/905/`](naredba/1999/905/) | amending act | 1 | 1999-05-22 | 1999-05-22 |
+| Naredba o izmjeni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 1999. godini | [`naredba/1999/1047/`](naredba/1999/1047/) | in force | 1 | 1999-06-02 | 1999-06-02 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku, provoza i provoza s pretovarom preko teritorija Republike Hrvatske biljaka domaćina bakterijske paleži - Erwinia amylovora (Bu | [`naredba/1999/1048/`](naredba/1999/1048/) | in force | 1 | 1999-06-02 | 1999-06-02 |
+| Naredba o sprečavanju širenja i suzbijanju smrdljive snijeti - Tilletia spp. | [`naredba/1999/1049/`](naredba/1999/1049/) | in force | 1 | 1999-06-02 | 1999-06-02 |
+| Naredba o homologaciji svjetala za vožnju po danu za motorna vozila | [`naredba/1999/1077/`](naredba/1999/1077/) | in force | 1 | 1999-06-17 | 1999-06-17 |
+| Naredba o homologaciji bočnih svjetala za označavanje motornih vozila i njihovih prikolica | [`naredba/1999/1079/`](naredba/1999/1079/) | in force | 1 | 1999-06-17 | 1999-06-17 |
+| Naredba o homologaciji glavnih svjetala za mopede s dugim i kratkim svjetlosnim snopom | [`naredba/1999/1080/`](naredba/1999/1080/) | in force | 1 | 1999-06-17 | 1999-06-17 |
+| Naredba o prestanku važenja Naredbe o privremenoj zabrani uvoza u Republiku Hrvatsku živih životinja, proizvoda životinjskog podrijetla i stočne hrane iz Republike Francuske | [`naredba/1999/1310/`](naredba/1999/1310/) | in force | 1 | 1999-07-07 | 1999-07-07 |
+| Naredba o prestanku važenja Naredbe o privremenoj zabrani uvoza u Republiku Hrvatsku živih životinja, proizvoda životinjskog podrijetla i stočne hrane iz Kraljevine Nizozemske | [`naredba/1999/1311/`](naredba/1999/1311/) | in force | 1 | 1999-07-07 | 1999-07-07 |
+| Naredba o zabrani uvoza u Repubiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih preživača, genetskog materijala, dijagnostičkih uzoraka i bioloških pripravaka podrijetlom od domaćih i divljih preživača iz Bugarske- regija Bourga, Iambol, Hasskovo i Kardjali | [`naredba/1999/1535/`](naredba/1999/1535/) | in force | 1 | 1999-08-24 | 1999-08-24 |
+| Naredba o stavljanju u promet poljoprivrednog sjemena strnih žita i trava koje odstupa od propisanih temeljnih zahtjeva o kakvoći sjemena | [`naredba/1999/1556/`](naredba/1999/1556/) | in force | 1 | 1999-09-02 | 1999-09-02 |
+| Naredba o prestanku važenja Naredbe o privremenoj zabrani uvoza u Republiku Hrvatsku živih životinja, proizvoda životinjskog podrijetla i stočne hrane iz Belgije | [`naredba/1999/1595/`](naredba/1999/1595/) | in force | 1 | 1999-09-08 | 1999-09-08 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih preživača, te proizvoda od navedenih životinja podrijetlom iz Turske | [`naredba/1999/1794/`](naredba/1999/1794/) | in force | 1 | 1999-10-04 | 1999-10-04 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova te prihoda za financiranje drugih javnih potreba u 1999. godini | [`naredba/1999/1926/`](naredba/1999/1926/) | amending act | 1 | 1999-11-16 | 1999-11-16 |
+| Naredba o obveznom pregledu mesa kopitara na trihinelu | [`naredba/1999/2088/`](naredba/1999/2088/) | in force | 1 | 1999-12-08 | 1999-12-08 |
+| Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara (goveda, ovaca, koza i svinja) te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Republike Turske | [`naredba/1999/2102/`](naredba/1999/2102/) | in force | 1 | 1999-12-10 | 1999-12-10 |
 | Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu | [`naredba/2015/2382/`](naredba/2015/2382/) | in force | 1 | 2015-11-19 | 2015-11-19 |
 | Naredba o izmjeni Naredbe o stavljanju na tržište upaljača sigurnih za djecu i zabrani stavljanja na tržište upaljača "Noviteta" | [`naredba/2016/1693/`](naredba/2016/1693/) | in force | 1 | 2016-08-03 | 2016-08-03 |
 | Naredba o mjerama zaštite zdravlja životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2020. godini | [`naredba/2020/155/`](naredba/2020/155/) | in force | 1 | 2020-01-18 | 2020-01-18 |
@@ -139,7 +232,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (3535, of which 418 amending acts)
+## odluka (4573, of which 541 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -1219,6 +1312,1044 @@
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1993. | [`odluka/1993/2269/`](odluka/1993/2269/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o stopi i osnovici za plaćanje doprinosa Hrvatskoj gospodarskoj komori za 1994. | [`odluka/1993/2272/`](odluka/1993/2272/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave | [`odluka/1993/2278/`](odluka/1993/2278/) | amending act | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o izmjenama Odluke o visini naknade za korištenje voda | [`odluka/1994/2/`](odluka/1994/2/) | in force | 1 | 1994-01-07 | 1994-01-07 |
+| Odluka o izmjenama Odluke o visini naknade za zaštitu voda | [`odluka/1994/3/`](odluka/1994/3/) | in force | 1 | 1994-01-07 | 1994-01-07 |
+| Odluka o osnivanju veleposlanstva Republike Hrvatske u Argentini sa sjedištem u Buenos Airesu | [`odluka/1994/17/`](odluka/1994/17/) | in force | 1 | 1994-01-06 | 1994-01-06 |
+| Odluka o prestanku važenja Odluke o visini posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1994/19/`](odluka/1994/19/) | in force | 1 | 1994-01-12 | 1994-01-12 |
+| Odluka o obvezi ovlaštenih banaka da drže određeni iznos u devizama kao minimalnu rezervu za održavanje likvidnosti u plaćanjima prema inozemstvu u 1994. godini | [`odluka/1994/83/`](odluka/1994/83/) | in force | 1 | 1994-01-19 | 1994-01-19 |
+| Odluka o izmjeni Odluke o visini godišnje naknade za uporabu cesta što se plaća na cestovna motorna i priključna vozila | [`odluka/1994/94/`](odluka/1994/94/) | in force | 1 | 1994-01-29 | 1994-01-29 |
+| Odluka o dopuni Odluke o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, ministara, drugih članova Vlade te dužnosnika koje imenuje i razrješava Vlad | [`odluka/1994/105/`](odluka/1994/105/) | amending act | 1 | 1994-01-28 | 1994-01-28 |
+| Odluka o dopuni Odluke o koeficijentima za utvrđivanje plaća djelatnika zaposlenih u organima i tijelima kojima se sredstva za rad osiguravaju u državnom proračunu | [`odluka/1994/106/`](odluka/1994/106/) | amending act | 1 | 1994-01-28 | 1994-01-28 |
+| Odluka o utvrđivanju općeg interesa za izgradnju međudržavnog graničnog prijelaza Harmica - Dobova | [`odluka/1994/107/`](odluka/1994/107/) | in force | 1 | 1994-01-28 | 1994-01-28 |
+| Odluka o visini kvota za korištenje kredita iz primarne emisije za veljaču 1994. godine | [`odluka/1994/117/`](odluka/1994/117/) | in force | 1 | 1994-02-01 | 1994-02-01 |
+| Odluka o izmjeni Odluke o potvrđivanju dozvola za osnivanje banke | [`odluka/1994/119/`](odluka/1994/119/) | in force | 1 | 1994-02-01 | 1994-02-01 |
+| Odluka o izmjeni Odluke o obvezi stavljanja u promet određenih količina brašna i kruha tipa 850 | [`odluka/1994/129/`](odluka/1994/129/) | in force | 1 | 1994-02-04 | 1994-02-04 |
+| Odluka o izmjeni Odluke o visini naknade za javne ceste | [`odluka/1994/130/`](odluka/1994/130/) | in force | 1 | 1994-02-12 | 1994-02-12 |
+| Odluka o davanju poslovne zgrade Republike Hrvatske u Supetru na otoku Braću na uporabu (posjed) Općinskom sudu u Supetru | [`odluka/1994/131/`](odluka/1994/131/) | in force | 1 | 1994-02-04 | 1994-02-04 |
+| Odluku o utvrđivanju općeg interesa za izgradnju cestovnog mosta na rijeci Kupi s pristupnim dionicama ceste | [`odluka/1994/132/`](odluka/1994/132/) | in force | 1 | 1994-02-04 | 1994-02-04 |
+| Odluka o primjeni odredaba Odluke o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstveng osiguranja | [`odluka/1994/171/`](odluka/1994/171/) | in force | 1 | 1994-02-10 | 1994-02-10 |
+| Odluka o izmjeni i dopuni Odluke o plaćanju posebne pristojbe na uvezenu robu u 1994. godini | [`odluka/1994/181/`](odluka/1994/181/) | amending act | 1 | 1994-02-11 | 1994-02-11 |
+| Odluka o utvrđivanju općeg interesa za rekonstrukciju spomeničkog kompleksa "Medvedgrad" | [`odluka/1994/183/`](odluka/1994/183/) | in force | 1 | 1994-02-11 | 1994-02-11 |
+| Odluka o izmjeni Odluke o ograničenju izvoza određenih proizvoda | [`odluka/1994/249/`](odluka/1994/249/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Odluka o privremenom usklađivanju doplatka za djecu od 1. siječnja 1994. | [`odluka/1994/269/`](odluka/1994/269/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o privremenom usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1994. | [`odluka/1994/270/`](odluka/1994/270/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o privremenoj visini minimalne mirovine od 1. siječnja 1994. | [`odluka/1994/273/`](odluka/1994/273/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o određivanju privremene osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1994. | [`odluka/1994/274/`](odluka/1994/274/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o posebnim uvjetima i kriterijima pod kojima se smatra da je članovima poljoprivrednog kućanstva bavljenje poljoprivredom jedino ili glavno zanimanje | [`odluka/1994/276/`](odluka/1994/276/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o zatvaranju Inozemnog ureda Republike Hrvatske u Buenos Airesu, Republika Argentina | [`odluka/1994/277/`](odluka/1994/277/) | in force | 1 | 1994-02-23 | 1994-02-23 |
+| Odluka o izmjenama Odluke o uvjetima primjene odredbi članka 18. Zakona o bankama i štedionicama | [`odluka/1994/285/`](odluka/1994/285/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o izmjeni Odluke o visini i načinu formiranja posebnih rezervi za osiguranje od potencijalnih gubitaka | [`odluka/1994/286/`](odluka/1994/286/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o izmjeni Odluke o načinu raspoređivanja rizične aktive i odgovarajućih izvanbilančnih stavki banaka i štedionica | [`odluka/1994/287/`](odluka/1994/287/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluku o visini kvota za korištenje kredita iz primarne emisije za ožujak 1994. godine | [`odluka/1994/288/`](odluka/1994/288/) | in force | 1 | 1994-03-01 | 1994-03-01 |
+| Odluka o davanju suglasnosti za osnivanje Generalnog konzulata Republike Italije u Republici Hrvatskoj, sa sjedištem u Rijeci | [`odluka/1994/298/`](odluka/1994/298/) | in force | 1 | 1994-03-03 | 1994-03-03 |
+| Odluka o izmjenama i dopunama Tarife o nagradama i naknadi troškove za rad odvjetnika | [`odluka/1994/310/`](odluka/1994/310/) | amending act | 1 | 1994-03-04 | 1994-03-04 |
+| Odluka o utvrdivanju iznosa za naknadu štete po osnovi osiguranja od automobilske odgovornosti | [`odluka/1994/335/`](odluka/1994/335/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Holbaeku, Kraljevina Danska | [`odluka/1994/358/`](odluka/1994/358/) | in force | 1 | 1994-03-14 | 1994-03-14 |
+| Odluka o zaštitnoj cijeni šećerne repe roda 1994. godine | [`odluka/1994/372/`](odluka/1994/372/) | in force | 1 | 1994-03-31 | 1994-03-31 |
+| Odluka o zaštitnim cijenama suncokreta i soje roda 1994. godine | [`odluka/1994/373/`](odluka/1994/373/) | in force | 1 | 1994-03-31 | 1994-03-31 |
+| Odluka o zaštitnoj cijeni sirovog duhana roda 1994. godine | [`odluka/1994/374/`](odluka/1994/374/) | in force | 1 | 1994-03-31 | 1994-03-31 |
+| Odluka o otvaranju sezonskog zračnog graničnog prijelaza za međunarodni promet u zračnoj luci "Brać" | [`odluka/1994/376/`](odluka/1994/376/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Odluka o dopunama Odluke o kriterijima i planu uvođenja doplatnih maraka | [`odluka/1994/377/`](odluka/1994/377/) | amending act | 1 | 1994-03-22 | 1994-03-22 |
+| Odluku o osnovici i stopi doprinosa Savezu udruženja hrvatskih obrtnika za 1994. godinu | [`odluka/1994/391/`](odluka/1994/391/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Odluka o prestanku važenja Odluke o ograničenju uvoza određenih proizvoda | [`odluka/1994/419/`](odluka/1994/419/) | in force | 1 | 1994-04-01 | 1994-04-01 |
+| Odluka o prirezu na porez na dohodak Grada Šibenika | [`odluka/1994/423/`](odluka/1994/423/) | in force | 1 | 1994-04-06 | 1994-04-06 |
+| Odluka o izmjeni Odluke o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1994/449/`](odluka/1994/449/) | in force | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o privremenom usklađivanju mirovina od 1. siječnja 1994. | [`odluka/1994/454/`](odluka/1994/454/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1993. | [`odluka/1994/455/`](odluka/1994/455/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1993. radi određivanja naknade plaće na drugom poslu | [`odluka/1994/456/`](odluka/1994/456/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1994. | [`odluka/1994/467/`](odluka/1994/467/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1994. | [`odluka/1994/474/`](odluka/1994/474/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i o uvjetima prestanka prava na mirovinu uslijed nastale promjene u imovnom stanju, odnosno prihodima, u godini 1994.2 | [`odluka/1994/475/`](odluka/1994/475/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o privremenom usklađivanju mirovina od 1. sijećnja 1994. | [`odluka/1994/476/`](odluka/1994/476/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1993. | [`odluka/1994/477/`](odluka/1994/477/) | in force | 1 | 1994-04-12 | 1994-04-12 |
+| Odluka o izmjenama Odluke o mjerilima za određivanje plaće i drugih primanja sudaca i drugih nositelja pravosudnih dužnosti | [`odluka/1994/497/`](odluka/1994/497/) | in force | 1 | 1994-04-08 | 1994-04-08 |
+| Odluka o osnivanju Odbora za gospodarske odnose s inozemstvom | [`odluka/1994/517/`](odluka/1994/517/) | in force | 1 | 1994-04-11 | 1994-04-11 |
+| Odluka o izmjeni Odluke o plaćanju posebne pristojbe na uvezenu robu u 1994. godini | [`odluka/1994/591/`](odluka/1994/591/) | in force | 1 | 1994-05-01 | 1994-05-01 |
+| Odluka o izmjeni Odluke o kriterijima za carinski kontingent | [`odluka/1994/601/`](odluka/1994/601/) | in force | 1 | 1994-04-29 | 1994-04-29 |
+| Odluka o osnivanju Generalnoga konzulata Republike Hrvatske u Milanu, Republika Italija | [`odluka/1994/618/`](odluka/1994/618/) | in force | 1 | 1994-04-26 | 1994-04-26 |
+| Odluka o povratu kredita korištenih temeljem Odluke o visini kvota za korištenje kredita iz primarne emisije za travanj 1994. godine | [`odluka/1994/642/`](odluka/1994/642/) | in force | 1 | 1994-05-04 | 1994-05-04 |
+| Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske Hrvatskom Crvenom križu | [`odluka/1994/649/`](odluka/1994/649/) | in force | 1 | 1994-05-06 | 1994-05-06 |
+| Odluka o kupnji nekretnine za potrebe Otvorenog kaznenog zavoda Valtura - Pula | [`odluka/1994/650/`](odluka/1994/650/) | in force | 1 | 1994-05-06 | 1994-05-06 |
+| Odluka o osnivanju Generalnoga konzulata Republike Hrvatske u Južnoafričkoj Republici, sa sjedištem u Johannesburgu | [`odluka/1994/659/`](odluka/1994/659/) | in force | 1 | 1994-05-05 | 1994-05-05 |
+| Odluka o izuzimanju nekretnina u k.o. Otočac od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1994/667/`](odluka/1994/667/) | in force | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o povlačenju iz optjecaja novčanica hrvatskog dinara | [`odluka/1994/686/`](odluka/1994/686/) | in force | 1 | 1994-05-13 | 1994-05-13 |
+| Odluka o izmjeni Odluke o kriterijima za određivanje koeficijenata za utvrđivanje plaće sucima i drugim nositeljima pravosudnih dužnosti kojima je koeficijent utvrđen u rasponu | [`odluka/1994/700/`](odluka/1994/700/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o podjeli Doma umirovljenika Split na dvije javne ustanove | [`odluka/1994/701/`](odluka/1994/701/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o izmjeni Odluke o osnivanju Komisije za invalide u Republici Hrvatskoj | [`odluka/1994/702/`](odluka/1994/702/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o otvaranju sezonskog graničnog prijelaza u luci Hvar | [`odluka/1994/703/`](odluka/1994/703/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1994. | [`odluka/1994/709/`](odluka/1994/709/) | in force | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1994. | [`odluka/1994/712/`](odluka/1994/712/) | in force | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o raspoređivanju sredstava za isplatu jednokratne novčane pomoći u godini 1994. | [`odluka/1994/713/`](odluka/1994/713/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o izmjeni Odluke o novčanoj nadoknadi udovici osiguranika koja nije stekla pravo na obiteljsku mirovinu | [`odluka/1994/718/`](odluka/1994/718/) | in force | 1 | 1994-05-20 | 1994-05-20 |
+| Odluka o jednokratnoj godišnjoj novčanoj pomoći u godini 1994. | [`odluka/1994/719/`](odluka/1994/719/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o primjeni Liste lijekova koji se osiguranim osobama mogu propisivati na teret sredstava Hrvatskog zavoda za zdravstveno osiguranje tijekom 1994. godine | [`odluka/1994/720/`](odluka/1994/720/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o stavljanju izvan snage Odluke o ovlaštenim liječnicima nadležnim za utvrđivanje privremene spriječenosti za rad | [`odluka/1994/721/`](odluka/1994/721/) | in force | 1 | 1994-05-19 | 1994-05-19 |
+| Odluka o izmjeni Odluke o rasporedivanju sredstava bivše Poštanske štedionice Beograd | [`odluka/1994/745/`](odluka/1994/745/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Odluka o davanju suglasnosti za osnivanje Konzulata Republike Bosne i Hercegovine u Republici Hrvatskoj, sa sjedištem u Splita | [`odluka/1994/746/`](odluka/1994/746/) | in force | 1 | 1994-05-26 | 1994-05-26 |
+| Odluka o davanju nekretnine Republike Hrvatske u Platu-Dubrovnik na uporabu (posjed) Ministarstvu unutarnjih poslova | [`odluka/1994/747/`](odluka/1994/747/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Odluka o zamjeni poljoprivrednog zemljišta u vlasništvu države | [`odluka/1994/748/`](odluka/1994/748/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Odluka o davanju suglasnosti za gradnju objekata na nekretninama u vlasništvu Republike Hrvatske, k. o. Goričan | [`odluka/1994/749/`](odluka/1994/749/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Odluka o izmjenama i dopuni Poslovnika Zastupničkog doma Sabora Republike Hrvatske | [`odluka/1994/761/`](odluka/1994/761/) | amending act | 1 | 1994-05-24 | 1994-05-24 |
+| Odluka o izmjeni Odluke o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske | [`odluka/1994/787/`](odluka/1994/787/) | in force | 1 | 1994-06-03 | 1994-06-03 |
+| Odluka o davanju suglasnosti za osnivanje Konzulata Republike Austrije u Republici Hrvatskoj, sa sjedištem u Rijeci | [`odluka/1994/796/`](odluka/1994/796/) | in force | 1 | 1994-06-02 | 1994-06-02 |
+| Odluka o udjelu u zajedničkom prihodu od posebnog poreza na naftne derivate u 1994. godini | [`odluka/1994/833/`](odluka/1994/833/) | in force | 1 | 1994-06-20 | 1994-06-20 |
+| Odluka o izmjenama Odluke o plaćanju posebne pristojbe na uvezenu robu u 1994. godini | [`odluka/1994/834/`](odluka/1994/834/) | in force | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o izmjeni Odluke o zaštitnoj cijeni pšenice roda 1994. godine | [`odluka/1994/843/`](odluka/1994/843/) | in force | 1 | 1994-06-25 | 1994-06-25 |
+| Odluka o izmjeni Odluke o zaštitnoj cijeni uljane repice roda 1994. godine | [`odluka/1994/844/`](odluka/1994/844/) | in force | 1 | 1994-06-25 | 1994-06-25 |
+| Odluka o izmjenama Odluke o mjerilima za određivanje plaće i drugih prirnanja sudaca Ustavnog suda Republike Hrvatske | [`odluka/1994/861/`](odluka/1994/861/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o izmjeni Odluke o kamatnoj stopi na dospjelu neplaćenu carinu i druge uvozne pristojbe | [`odluka/1994/871/`](odluka/1994/871/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o izmjeni Odluke o određivanju robe i drugih stvari koje se uvoze s carinskog područja drugih republika u sklopu bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1994/872/`](odluka/1994/872/) | in force | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o dopuni Odluke o određivanju poljoprivrednih i prehrambenih proizvoda za koje se pri uvozu plaća posebna pristojba | [`odluka/1994/873/`](odluka/1994/873/) | amending act | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o utvrđivanju visine boravišne pristojbe za 1995. godinu | [`odluka/1994/874/`](odluka/1994/874/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o darovanju nekretnina Gradu Gospiću | [`odluka/1994/875/`](odluka/1994/875/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o izmjeni Odluke o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima | [`odluka/1994/889/`](odluka/1994/889/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Odluka o dopuni Odluke o uvjetima pod kojima se domaća i strana valuta, ćekovi i drugi vrijednosni papiri mogu unositi i iznositi iz Republike Hrvatske u poštanskim i drugim pošiljkama | [`odluka/1994/891/`](odluka/1994/891/) | amending act | 1 | 1994-07-01 | 1994-07-01 |
+| Odluka o davanju pomoći županijama odnosno opčinama u sastavu županija za djelomično ublažavanje posljedica štete od elementarnih nepogoda nastalih u drugom polugodištu 1993. i početkom 1994. godine | [`odluka/1994/924/`](odluka/1994/924/) | in force | 1 | 1994-07-08 | 1994-07-08 |
+| Odluka o usklađivanju mirovina od 1. lipnja 1994. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1994/956/`](odluka/1994/956/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i nadoknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1994. | [`odluka/1994/959/`](odluka/1994/959/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o usklađivanju mirovina,doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. lipnja 1994. | [`odluka/1994/962/`](odluka/1994/962/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o uskladivanju naknada plača u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1994. | [`odluka/1994/967/`](odluka/1994/967/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. travnja 1994. | [`odluka/1994/970/`](odluka/1994/970/) | in force | 1 | 1994-07-09 | 1994-07-09 |
+| Odluka o izuzimanju nekretnine u k.o. Vrbovec od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1994/1020/`](odluka/1994/1020/) | in force | 1 | 1994-07-22 | 1994-07-22 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1994. | [`odluka/1994/1032/`](odluka/1994/1032/) | in force | 1 | 1994-07-30 | 1994-07-30 |
+| Odluka o davanju suglasnosti za osnivanje Konzulata Perua u Republici Hrvatskoj, sa sjedištem u Zagrebu | [`odluka/1994/1043/`](odluka/1994/1043/) | in force | 1 | 1994-07-21 | 1994-07-21 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim uatanovama i zdravstvenim djelatnicima privatne prakse za 1994. godinu | [`odluka/1994/1053/`](odluka/1994/1053/) | in force | 1 | 1994-07-29 | 1994-07-29 |
+| Odluka o izmjeni Odluke o uvjetima i načinu plaćanja gotovim novcem | [`odluka/1994/1074/`](odluka/1994/1074/) | in force | 1 | 1994-08-06 | 1994-08-06 |
+| Odluka o prestanku važenja Odluke o odobravanju reeskontnih i lombardnih kredita | [`odluka/1994/1076/`](odluka/1994/1076/) | in force | 1 | 1994-08-05 | 1994-08-05 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1994/1077/`](odluka/1994/1077/) | in force | 1 | 1994-08-05 | 1994-08-05 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Indiji, sa sjedištem u New Delhiju | [`odluka/1994/1081/`](odluka/1994/1081/) | in force | 1 | 1994-08-01 | 1994-08-01 |
+| Odluka o osnivanju Savjeta za zaštitu prirode | [`odluka/1994/1119/`](odluka/1994/1119/) | in force | 1 | 1994-08-31 | 1994-08-31 |
+| Odluka o upravljanju nacionalnim parkovima "Plitvička jezera", "Paklenica", "Risnjak", "Mljet", "Kornati", "Krka" i parkom prirode "Telašćica" | [`odluka/1994/1120/`](odluka/1994/1120/) | in force | 1 | 1994-08-31 | 1994-08-31 |
+| Odluka o vrijednosti boda za utvrđivanje naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta | [`odluka/1994/1143/`](odluka/1994/1143/) | in force | 1 | 1994-09-16 | 1994-09-16 |
+| Odluka o raspuštanju Općinskog vijeća općine Ivankovo | [`odluka/1994/1144/`](odluka/1994/1144/) | in force | 1 | 1994-09-08 | 1994-09-08 |
+| Odluka o raspuštanju Općinskog vijeća općine Tordinci | [`odluka/1994/1145/`](odluka/1994/1145/) | in force | 1 | 1994-09-08 | 1994-09-08 |
+| Odluka o osnivanju Generalnoga konzulata Republike Hrvatske u Kanadi, sa sjedištem u Mississaugi, Provincija Ontario | [`odluka/1994/1169/`](odluka/1994/1169/) | in force | 1 | 1994-09-13 | 1994-09-13 |
+| Odluka o izmjeni i dopuni Odluke o izdavanju novčanica i kovanog novca koji glase na novčanu jedinicu Republike Hrvatske | [`odluka/1994/1187/`](odluka/1994/1187/) | amending act | 1 | 1994-09-23 | 1994-09-23 |
+| Odluka o prijenosu novčanih sredstava državnog proračuna u depozit Narodne banke Hrvatske | [`odluka/1994/1199/`](odluka/1994/1199/) | in force | 1 | 1994-09-29 | 1994-09-29 |
+| Odluka o određivanju graničnog prijelaza Legrad | [`odluka/1994/1201/`](odluka/1994/1201/) | in force | 1 | 1994-09-29 | 1994-09-29 |
+| Odluka o odobravanju dnevnih kredita za štedne uloge i tekuče račune građana u kunama | [`odluka/1994/1206/`](odluka/1994/1206/) | in force | 1 | 1994-10-01 | 1994-10-01 |
+| Odluka o načinu i uvjetima odobravanja inicijalnih kredita bankama za premošćivanje nelikvidnosti | [`odluka/1994/1207/`](odluka/1994/1207/) | in force | 1 | 1994-10-01 | 1994-10-01 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1994/1209/`](odluka/1994/1209/) | in force | 1 | 1994-10-01 | 1994-10-01 |
+| Odluka o prestanku važenja Naputka o plaćanjima s računa banke | [`odluka/1994/1210/`](odluka/1994/1210/) | in force | 1 | 1994-10-01 | 1994-10-01 |
+| Odluka o izmjeni i dopuni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1994/1211/`](odluka/1994/1211/) | amending act | 1 | 1994-09-30 | 1994-09-30 |
+| Odluka o rasporedivanju sredstava za rekreaciju i oporavak umirovljenika te za organizirano pružanje pomoći i njege druge osobe u 1994. godini | [`odluka/1994/1215/`](odluka/1994/1215/) | in force | 1 | 1994-09-30 | 1994-09-30 |
+| Odluka o poslovima obveznika civilne službe | [`odluka/1994/1220/`](odluka/1994/1220/) | in force | 1 | 1994-10-07 | 1994-10-07 |
+| Odluka o prodaji motornog broda "Sv. Stjepan" | [`odluka/1994/1273/`](odluka/1994/1273/) | in force | 1 | 1994-10-14 | 1994-10-14 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Karmelu Svetog Josipa, Šarengrad | [`odluka/1994/1316/`](odluka/1994/1316/) | in force | 1 | 1994-10-20 | 1994-10-20 |
+| Odluka o izmjenama i dopunama Odluke o osnovicama, stopama, načinu obračuna i plačanju sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1994/1385/`](odluka/1994/1385/) | amending act | 1 | 1994-11-07 | 1994-11-07 |
+| Odluka o oslobađanju plaćanja posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1994/1392/`](odluka/1994/1392/) | in force | 1 | 1994-11-19 | 1994-11-19 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Los Angelesu, Savezna Država Californija, SAD | [`odluka/1994/1410/`](odluka/1994/1410/) | in force | 1 | 1993-11-17 | 1993-11-17 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Republici Italiji, sa sjedištem u Trstu | [`odluka/1994/1411/`](odluka/1994/1411/) | in force | 1 | 1994-10-10 | 1994-10-10 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Republici Čile, sa sjedištem u Antofagasti | [`odluka/1994/1450/`](odluka/1994/1450/) | in force | 1 | 1994-11-16 | 1994-11-16 |
+| Odluka o izmjenama Odluke o kriterijima i planu uvođenja doplatnih maraka | [`odluka/1994/1455/`](odluka/1994/1455/) | in force | 1 | 1994-11-16 | 1994-11-16 |
+| Odluka o prestanku primjene Platnog sporazuma izmedu Republike Hrvatske i Republike Slovenije | [`odluka/1994/1475/`](odluka/1994/1475/) | in force | 1 | 1994-11-25 | 1994-11-25 |
+| Odluka o prestanku važenja Odluke o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1994/1477/`](odluka/1994/1477/) | in force | 1 | 1994-12-01 | 1994-12-01 |
+| Odluka o prestanku važenja Odluke o načinu održavanja minimalne likvidnosti banaka | [`odluka/1994/1478/`](odluka/1994/1478/) | in force | 1 | 1995-01-09 | 1995-01-09 |
+| Odluka o usklađivanju mirovina od 1. listopada 1994. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1994/1482/`](odluka/1994/1482/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o visini minimalne mirovine od 1. listopada 1994. | [`odluka/1994/1484/`](odluka/1994/1484/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o iznimnom usklađivanju doplatka za djecu od 1. listopada 1994. | [`odluka/1994/1492/`](odluka/1994/1492/) | in force | 1 | 1994-11-26 | 1994-11-26 |
+| Odluka o mjerilima za određivanje plaće i drugih primanja koja pripadaju Predsjedniku Republike Hrvatske | [`odluka/1994/1520/`](odluka/1994/1520/) | in force | 1 | 1994-11-30 | 1994-11-30 |
+| Odluka o mjerilima za odredivanje plaće i drugih primanja koja pripadaju sucima Ustavnog suda Republike Hrvatske, nositeljima pravosudnih dužnosti i dužnosnicima koje imenuje i razrješuje Sabor Republ | [`odluka/1994/1521/`](odluka/1994/1521/) | in force | 1 | 1994-11-30 | 1994-11-30 |
+| Odluka o izmjeni Odluke o utvrđivanju plaća djelatnika u zdravstvu Republike Hrvatske | [`odluka/1994/1538/`](odluka/1994/1538/) | in force | 1 | 1994-12-08 | 1994-12-08 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1994. godinu | [`odluka/1994/1539/`](odluka/1994/1539/) | in force | 1 | 1994-12-08 | 1994-12-08 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - teretni uređaj | [`odluka/1994/1546/`](odluka/1994/1546/) | in force | 1 | 1995-01-01 | 1995-01-01 |
+| Odluka o davanju pomoći županijama, odnosno gradovima i općinama u sastavu županija za djelomićno ublažavanje posljedica štete od elementarnih nepogoda tijekom 1994. godine | [`odluka/1994/1554/`](odluka/1994/1554/) | in force | 1 | 1994-12-10 | 1994-12-10 |
+| Odluka o izmjeni Odluke o vrsti, količini i vrijednosti predmeta na koje se pri uvozu primjenjuju carinske povlastice | [`odluka/1994/1603/`](odluka/1994/1603/) | in force | 1 | 1994-12-24 | 1994-12-24 |
+| Odluka o povjeravanju prava lova u lovištima u vlasništvu države | [`odluka/1994/1621/`](odluka/1994/1621/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Odluka o raspisivanju javnog natječaja za davanje koncesije prava lova na lovištima u vlasništu države | [`odluka/1994/1622/`](odluka/1994/1622/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Odluka o opsegu prava obveznog zdravstvenog osiguranja za 1995. godinu | [`odluka/1994/1624/`](odluka/1994/1624/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Odluka o stopi i osnovici za obračunavanje doprinosa Hrvatskoj gospodarskoj komori u 1995. | [`odluka/1994/1649/`](odluka/1994/1649/) | in force | 1 | 1994-12-27 | 1994-12-27 |
+| Odluka o usklađivanju mirovina od 1. prosinca 1994. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1994/1670/`](odluka/1994/1670/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o visini minimalne mirovine od 1. prosinca 1994. | [`odluka/1994/1672/`](odluka/1994/1672/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. prosinca 1994. | [`odluka/1994/1673/`](odluka/1994/1673/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. prosinca 1994. | [`odluka/1994/1676/`](odluka/1994/1676/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1994. | [`odluka/1994/1678/`](odluka/1994/1678/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o uskladivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. prosinca 1994. | [`odluka/1994/1692/`](odluka/1994/1692/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o izmjeni Odluke o uvjetimia uz koje se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/1994/1710/`](odluka/1994/1710/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o izmjenama Odluke o načinu i rokovima dostavljanja izvješća o stanju sredstava banaka na računima u inozemstvu | [`odluka/1994/1711/`](odluka/1994/1711/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Odluka o izmjenama Odluke o valorizaciji katastarskog prihoda | [`odluka/1994/1721/`](odluka/1994/1721/) | in force | 1 | 1995-01-08 | 1995-01-08 |
+| Odluka o davanju nekretnine u vlasništvu Republike Hrvatske u Karlovcu u posjed Županiji Karlovačkoj radi obavljanja djelatnosti županijskih ureda | [`odluka/1995/109/`](odluka/1995/109/) | in force | 1 | 1995-02-02 | 1995-02-02 |
+| Odluka o dopunama Statuta Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hrvatske | [`odluka/1995/485/`](odluka/1995/485/) | amending act | 1 | 1995-04-13 | 1995-04-13 |
+| Odluka o dopuni Statuta Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1995/486/`](odluka/1995/486/) | amending act | 1 | 1995-04-13 | 1995-04-13 |
+| Odluka o izboru prvog potpredsjednika Zastupničkog doma Sabora Republike Hrvatske | [`odluka/1995/551/`](odluka/1995/551/) | in force | 1 | 1995-03-21 | 1995-03-21 |
+| Odluka o izmjeni i dopuni Odluke o plaćanju posebne pristojbe na uvezenu robu u 1995. godini | [`odluka/1995/562/`](odluka/1995/562/) | amending act | 1 | 1995-04-24 | 1995-04-24 |
+| Odluka o visini pristojbe za carinsko evidentiranje | [`odluka/1995/563/`](odluka/1995/563/) | in force | 1 | 1995-04-24 | 1995-04-24 |
+| Odluka o raspuštanju Općinskog vijeća Općine Orahovica | [`odluka/1995/564/`](odluka/1995/564/) | in force | 1 | 1995-04-24 | 1995-04-24 |
+| Odluku o promatraču Republike Hrvatske pri Međunarodnom sudu za kazneni postupak protiv osoba odgovornih za teška kršenja humanitarnog prava počinjena na području bivše Jugoslavije od 1991. godine | [`odluka/1995/570/`](odluka/1995/570/) | in force | 1 | 1995-04-27 | 1995-04-27 |
+| Odluku o osnivanju Veleposlanstva Republike Hrvatske u Republici Kazahstan, sa sjedištem u Almaty | [`odluka/1995/575/`](odluka/1995/575/) | in force | 1 | 1995-04-19 | 1995-04-19 |
+| Odluku o obilježavanju 5. obljetnice državnosti samostalne, suverene Republike Hrvatske | [`odluka/1995/580/`](odluka/1995/580/) | in force | 1 | 1995-04-25 | 1995-04-25 |
+| Odluka o izmjeni odIuke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1995/608/`](odluka/1995/608/) | in force | 1 | 1995-05-09 | 1995-05-09 |
+| Odluka o utvrdivanju Liste lijekova koji se osiguranim osobama mogu propisivati u bolnicama na teret sredstava Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1995/616/`](odluka/1995/616/) | in force | 1 | 1995-05-09 | 1995-05-09 |
+| Odluka o zaštitnoj cijeni suncokreta roda 1995. godine | [`odluka/1995/636/`](odluka/1995/636/) | in force | 1 | 1995-05-20 | 1995-05-20 |
+| Odluka o zaštitnoj cijeni lista duhana roda 1995. godine | [`odluka/1995/637/`](odluka/1995/637/) | in force | 1 | 1995-05-20 | 1995-05-20 |
+| Odluka o zaštitnoj cijeni soje roda 1995. godine | [`odluka/1995/638/`](odluka/1995/638/) | in force | 1 | 1995-05-20 | 1995-05-20 |
+| Odluka o zaštitnoj cijeni šećerne repe roda 1995. godine | [`odluka/1995/639/`](odluka/1995/639/) | in force | 1 | 1995-05-20 | 1995-05-20 |
+| Odluka o zaštitnoj cijeni uljane repice roda 1995. godine | [`odluka/1995/640/`](odluka/1995/640/) | in force | 1 | 1995-05-20 | 1995-05-20 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici i Federaciji Bosne i Hercegovine sa sjedištem u Tuzli | [`odluka/1995/659/`](odluka/1995/659/) | in force | 1 | 1995-05-12 | 1995-05-12 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju i zadaćama Odbora za obnovu Osječke Tvrđe | [`odluka/1995/664/`](odluka/1995/664/) | amending act | 1 | 1995-05-19 | 1995-05-19 |
+| Odluka o osnivanju veleposlanstva Republike Hrvatske u Islamskoj Republici Pakistan sa sjedištem u Islamabadu | [`odluka/1995/689/`](odluka/1995/689/) | in force | 1 | 1995-05-10 | 1995-05-10 |
+| Odluka o osnivanju veleposlanstva Republike Hrvatske u republici Indoneziji, sa sjedištem u Đakarti | [`odluka/1995/690/`](odluka/1995/690/) | in force | 1 | 1995-05-09 | 1995-05-09 |
+| Odluka o osnivanju veleposlanstva Republike Hrvatske u Kraljevini Nizozemskoj, sa sjedištem u Haagu | [`odluka/1995/691/`](odluka/1995/691/) | in force | 1 | 1995-05-10 | 1995-05-10 |
+| Odluka o ograničenju plasmana banaka | [`odluka/1995/713/`](odluka/1995/713/) | in force | 1 | 1995-05-26 | 1995-05-26 |
+| Odluka o izmjeni Odluke o uvjetima za odobrenje kratkoročnih kredita na osnovi zaloga blagajničkih zapisa (lombardni kredit) | [`odluka/1995/716/`](odluka/1995/716/) | in force | 1 | 1995-05-26 | 1995-05-26 |
+| Odluka o izmjenama Odluke o gornjoj granici zaduženosti određenih poduzeća kod banaka u Republici Hrvatskoj | [`odluka/1995/729/`](odluka/1995/729/) | in force | 1 | 1995-06-01 | 1995-06-01 |
+| Odluka o izuzimanju nekretnina u k.o. čamagajevci od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1995/731/`](odluka/1995/731/) | in force | 1 | 1995-06-01 | 1995-06-01 |
+| Odluka o izmjenama odluke o novčanim iznosima do kojih se ograničava odgovornost prijevoznika u zračnoj plovidbi | [`odluka/1995/748/`](odluka/1995/748/) | in force | 1 | 1995-06-14 | 1995-06-14 |
+| Odluka o izmjeni Odluke o plaćanju posebne pristojbe na uvezenu robu 1995. godini | [`odluka/1995/776/`](odluka/1995/776/) | in force | 1 | 1995-06-09 | 1995-06-09 |
+| Odluka o ponavljanju izbora za Općinsko vijeće Općine Tordinci | [`odluka/1995/778/`](odluka/1995/778/) | in force | 1 | 1995-06-09 | 1995-06-09 |
+| Odluka o puštanju u optjecaj novčanice od 10 kuna | [`odluka/1995/804/`](odluka/1995/804/) | in force | 1 | 1995-06-14 | 1995-06-14 |
+| Odluka o utvrđivanju visine boravišne pristojbe za 1996. Godinu | [`odluka/1995/816/`](odluka/1995/816/) | in force | 1 | 1995-06-16 | 1995-06-16 |
+| Odluka o davanju suglasnosti za osnivanje generalnog konzulata Republike Slovenije u Republici Hrvatskoj, sa sjedištem u Splitu | [`odluka/1995/844/`](odluka/1995/844/) | in force | 1 | 1995-06-21 | 1995-06-21 |
+| Odluka o davanju suglasnosti za osnivanje konzulata Kraljevine Španjolske u Republici Hrvatskoj, sa sjedištem u Splitu | [`odluka/1995/845/`](odluka/1995/845/) | in force | 1 | 1995-06-21 | 1995-06-21 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske Javnom poduzeću "Hrvatske ceste" | [`odluka/1995/856/`](odluka/1995/856/) | in force | 1 | 1995-06-30 | 1995-06-30 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1995. godinu | [`odluka/1995/866/`](odluka/1995/866/) | amending act | 1 | 1995-07-08 | 1995-07-08 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju rimokatoličke crkve u naselju Potpićan | [`odluka/1995/871/`](odluka/1995/871/) | in force | 1 | 1995-07-05 | 1995-07-05 |
+| Odluka o kriterijima i mjerilima za utvrđivanje visine naknade za korištenje cestovnog zemljišta i visine naknade od obavljanja pratećih djelatnosti na javnim cestama | [`odluka/1995/890/`](odluka/1995/890/) | in force | 1 | 1995-07-06 | 1995-07-06 |
+| Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Južnoafričkoj Republici, sa sjedištem u Johannesburgu | [`odluka/1995/960/`](odluka/1995/960/) | in force | 1 | 1995-06-26 | 1995-06-26 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka na naličju kovanog novca | [`odluka/1995/968/`](odluka/1995/968/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o puštanju u optjecaj prigodnog kovanog novca kuna i lipa "FAO" | [`odluka/1995/969/`](odluka/1995/969/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o puštanju u optjecaj prigodnog kovanog novca od 5 kuna "500. obljetnica tiskanja senjskog glagoljskog Misala" | [`odluka/1995/970/`](odluka/1995/970/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "1995." | [`odluka/1995/971/`](odluka/1995/971/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o osnovnim obilježjima prigodnog kovanog novca od 5 kuna "500. obljetnica tiskanja senjskog glagoljskog Misala" | [`odluka/1995/973/`](odluka/1995/973/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka s osnovnim obilježjima prigodnog kovanog novca kuna i lipa "FAO" | [`odluka/1995/974/`](odluka/1995/974/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o načinu i uvjetima odobravanja posebnog kredita s osnove isplate devizne štednje građana | [`odluka/1995/975/`](odluka/1995/975/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o prestanku važenja Odluke o posebnoj obveznoj rezervi na porast određenih plasmana banaka | [`odluka/1995/976/`](odluka/1995/976/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o dopuni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1995/977/`](odluka/1995/977/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o izmjeni i dopuni Odluke o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja minimalne likvidnosti u 1995. godini | [`odluka/1995/979/`](odluka/1995/979/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o izmjeni i dopuni Odluke o obvezi banaka da održavaju određeni odnos između deviznih potraživanja i devizni obveza | [`odluka/1995/980/`](odluka/1995/980/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o izmjeni Odluke o raspisivanju izbora za Općinsko vijeće Općine Orahovica | [`odluka/1995/1007/`](odluka/1995/1007/) | in force | 1 | 1995-07-17 | 1995-07-17 |
+| Odluka o izmjenama i dopunama Odluke o plaćanju posebne pristojbe na uvezenu robu u 1995. godini | [`odluka/1995/1055/`](odluka/1995/1055/) | amending act | 1 | 1995-08-11 | 1995-08-11 |
+| Odluka o izmjenama Odluke o opsegu kontingenata za izvoz i uvoz robe u 1995. godini | [`odluka/1995/1056/`](odluka/1995/1056/) | in force | 1 | 1995-08-11 | 1995-08-11 |
+| Odluka o ovlastima povjerenika Vlade Republike Hrvatske za uspostavu lokalne samouprave u oslobođenim jedinicama lokalne samouprave | [`odluka/1995/1087/`](odluka/1995/1087/) | in force | 1 | 1995-08-07 | 1995-08-07 |
+| Odluka o izmjeni Odluke o boji i oznakama službene odore ovlaštenih službenih osoba carinske službe Republike Hrvatske | [`odluka/1995/1117/`](odluka/1995/1117/) | in force | 1 | 1995-08-25 | 1995-08-25 |
+| Odluka o darovanju nekretnlna u vlasništvu Republike Hrvatske Samostanu Sestara sv. Križa Đakovo | [`odluka/1995/1120/`](odluka/1995/1120/) | in force | 1 | 1995-08-25 | 1995-08-25 |
+| Odluka o utvrđivanju interesa republike hrvatske za rekonstrukciju ceste MC-5 i MC-6 dionice Žuta Lokva Rapaići | [`odluka/1995/1132/`](odluka/1995/1132/) | in force | 1 | 1995-09-01 | 1995-09-01 |
+| Odluka o izmjeni Odluke o izdavanju blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1995/1159/`](odluka/1995/1159/) | in force | 1 | 1995-09-08 | 1995-09-08 |
+| Odluka o ukidanju Zavoda za preodgoj maloljetnika u Glini i osnivanju Kaznenog zavoda zatvorenog tipa u Glini i Zavoda za preodgoj maloljetnika u Turopolju | [`odluka/1995/1165/`](odluka/1995/1165/) | in force | 1 | 1995-09-07 | 1995-09-07 |
+| Odluka o raspuštanju Zastupničkog doma Sabora Republike Hrvatske | [`odluka/1995/1195/`](odluka/1995/1195/) | in force | 1 | 1995-09-20 | 1995-09-20 |
+| Odluka o raspisivanju izbora za zastupnike u Zastupnički dom Sabora Republike Hrvatske | [`odluka/1995/1199/`](odluka/1995/1199/) | in force | 1 | 1995-09-21 | 1995-09-21 |
+| Odluka o raspisivanju izbora za članove gradske skupštine grada Zagreba | [`odluka/1995/1248/`](odluka/1995/1248/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Gradskog vijeća grada Velika Gorica | [`odluka/1995/1249/`](odluka/1995/1249/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Gradskog vijeća grada Jastrebarsko | [`odluka/1995/1250/`](odluka/1995/1250/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Gradskog vijeća grada Zaprešića | [`odluka/1995/1251/`](odluka/1995/1251/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Gradskog vijeća grada Sveti Ivan Zelina | [`odluka/1995/1252/`](odluka/1995/1252/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Gradskog vijeća grada Vrbovca | [`odluka/1995/1253/`](odluka/1995/1253/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Dubravica | [`odluka/1995/1254/`](odluka/1995/1254/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Luka | [`odluka/1995/1255/`](odluka/1995/1255/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Bedenica | [`odluka/1995/1256/`](odluka/1995/1256/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Pokupsko | [`odluka/1995/1257/`](odluka/1995/1257/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Orle | [`odluka/1995/1258/`](odluka/1995/1258/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Stupnik | [`odluka/1995/1259/`](odluka/1995/1259/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Kravarsko | [`odluka/1995/1260/`](odluka/1995/1260/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Marija Gorica | [`odluka/1995/1261/`](odluka/1995/1261/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o raspisivanju izbora za članove Općinskog vijeća Općine Bistra | [`odluka/1995/1262/`](odluka/1995/1262/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o utvrđivanju visine naknade troškova izborne promidžbe za izbor zastupnika u Zastupnički dom Sabora Republike Hrvatske | [`odluka/1995/1263/`](odluka/1995/1263/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Uredba o minimalnoj plaći | [`odluka/1995/1278/`](odluka/1995/1278/) | in force | 1 | 1995-09-29 | 1995-09-29 |
+| Odluka o raspoređivanju sredstava za oporavak umirovljenika te za organizirano pružanje pomoći i njege druge osobe u 1995. godini | [`odluka/1995/1283/`](odluka/1995/1283/) | in force | 1 | 1995-09-29 | 1995-09-29 |
+| Odluka o prijenosu dionica "Gradnji" d.d., Osijek, radi namirivanja dijela dugovanja | [`odluka/1995/1290/`](odluka/1995/1290/) | in force | 1 | 1995-09-28 | 1995-09-28 |
+| Odluka o izmjeni Odluke o povećanju vrijednosti koeficijenata platnih razreda za pojedine službe | [`odluka/1995/1333/`](odluka/1995/1333/) | in force | 1 | 1995-10-06 | 1995-10-06 |
+| Odluka o uvjetima i načinu plačanja gotovim novcem | [`odluka/1995/1340/`](odluka/1995/1340/) | in force | 1 | 1995-10-06 | 1995-10-06 |
+| Odluka o dopuni Odluke o osnovicama, stopama, načinu obračuna i plaćanju sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1995/1352/`](odluka/1995/1352/) | amending act | 1 | 1995-10-18 | 1995-10-18 |
+| Odluka o izmjenama Odluke o visini naknade za izvanrednu uporabu javnih cesta | [`odluka/1995/1365/`](odluka/1995/1365/) | in force | 1 | 1995-10-18 | 1995-10-18 |
+| Odluka o sanaciji i restrukturiranju "Slavonske banke" d.d. Osijek | [`odluka/1995/1369/`](odluka/1995/1369/) | in force | 1 | 1995-10-20 | 1995-10-20 |
+| Odluka o određivanju stanova za službene potrebe | [`odluka/1995/1370/`](odluka/1995/1370/) | in force | 1 | 1995-10-16 | 1995-10-16 |
+| Odluka o raspuštanju Gradskog vijeća Grada Omiša | [`odluka/1995/1409/`](odluka/1995/1409/) | in force | 1 | 1995-11-03 | 1995-11-03 |
+| Odluka o izuzimanju nekretnina u k.o. Zabok od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1995/1410/`](odluka/1995/1410/) | in force | 1 | 1995-11-03 | 1995-11-03 |
+| Odluka o prodaji garaža kojima upravlja Vlada Repubilke Hrvatske | [`odluka/1995/1411/`](odluka/1995/1411/) | in force | 1 | 1995-10-25 | 1995-10-25 |
+| Odluka o raspisivanju javnog natječaja za davanje u zakup lovišta u vlasništvu države | [`odluka/1995/1428/`](odluka/1995/1428/) | in force | 1 | 1995-11-07 | 1995-11-07 |
+| Odluka o dopuni odluke o razvrstavanju željezničkih pruga I i II reda | [`odluka/1995/1503/`](odluka/1995/1503/) | amending act | 1 | 1995-11-25 | 1995-11-25 |
+| Odluka o davanju na uporabu nekretnina u Dubrovniku Gruška 44 u vlasništvu Republike Hrvatske Hrvatskom Crvenom križu Gradskom društvu Crvenog križa Dubrovnik | [`odluka/1995/1556/`](odluka/1995/1556/) | in force | 1 | 1995-10-02 | 1995-10-02 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Omiša | [`odluka/1995/1575/`](odluka/1995/1575/) | in force | 1 | 1995-11-29 | 1995-11-29 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Innsbrucku, Republika Austrija | [`odluka/1995/1592/`](odluka/1995/1592/) | in force | 1 | 1995-11-22 | 1995-11-22 |
+| Odluka o visini posebnih naknada za uporabu javnih cesta i određenih objekata na cestama | [`odluka/1995/1678/`](odluka/1995/1678/) | in force | 1 | 1995-12-14 | 1995-12-14 |
+| Odluka o zabrani dodjele stanarskih prava | [`odluka/1995/1728/`](odluka/1995/1728/) | in force | 1 | 1995-12-14 | 1995-12-14 |
+| Odluka o dostavljanju podataka o nekretninama u posjedu Republike Hrvatske | [`odluka/1995/1729/`](odluka/1995/1729/) | in force | 1 | 1995-12-18 | 1995-12-18 |
+| Odluka o prestanku valjanosti odluke o utvrđivanju osnovice plaće djelatnika u zdravstvu Republike Hrvatske | [`odluka/1995/1736/`](odluka/1995/1736/) | in force | 1 | 1995-12-18 | 1995-12-18 |
+| Odluka o privremenom financiranju izdataka državnog proračuna Republike Hrvatske za mjesec siječanj 1996. godine | [`odluka/1995/1738/`](odluka/1995/1738/) | in force | 1 | 1995-12-21 | 1995-12-21 |
+| Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u drugom polugodištu 1995. godine | [`odluka/1995/1739/`](odluka/1995/1739/) | in force | 1 | 1995-12-22 | 1995-12-22 |
+| Odluka o dodjeli pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u drugom polugodištu 1995. godine | [`odluka/1995/1740/`](odluka/1995/1740/) | in force | 1 | 1995-12-22 | 1995-12-22 |
+| Odluka o izmjenama odluke o razvrstavanju robe na oblike izvoza i uvoza | [`odluka/1995/1755/`](odluka/1995/1755/) | in force | 1 | 1995-12-22 | 1995-12-22 |
+| Odluka o stopi i osnovici za obračunavanje doprinosa hrvatskoj gospodarskoj komori u 1996. | [`odluka/1995/1792/`](odluka/1995/1792/) | in force | 1 | 1995-12-28 | 1995-12-28 |
+| Odluka o obveznicima, osnovici i stopi doprinosa Hrvatskoj gospodarskoj obrtničkoj komori za 1996. Godinu | [`odluka/1995/1793/`](odluka/1995/1793/) | in force | 1 | 1995-12-28 | 1995-12-28 |
+| Odluka o uputama za provedbu politike plaća u 1996. godini | [`odluka/1996/8/`](odluka/1996/8/) | in force | 1 | 1996-01-05 | 1996-01-05 |
+| Odluka o dopuni Odluke o obveznom upisu blagajničih zapisa Narodne banke Hrvatske | [`odluka/1996/52/`](odluka/1996/52/) | amending act | 1 | 1996-01-10 | 1996-01-10 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995. radi određivanja naknade plaće zbog manje plaće na drugom poslu | [`odluka/1996/61/`](odluka/1996/61/) | in force | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o osnivici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1996/67/`](odluka/1996/67/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova, odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1996/70/`](odluka/1996/70/) | amending act | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o privremenim valorizacijskim koeficijientima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1955 | [`odluka/1996/71/`](odluka/1996/71/) | in force | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o računanju vremena u 1996. godini | [`odluka/1996/86/`](odluka/1996/86/) | in force | 1 | 1996-01-30 | 1996-01-30 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju i izgradnju ceste Lokve-Bikarac-Podi | [`odluka/1996/88/`](odluka/1996/88/) | in force | 1 | 1996-01-22 | 1996-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju i rekonstrukciju LC Hum na Sutli-Lupinjak | [`odluka/1996/89/`](odluka/1996/89/) | in force | 1 | 1996-01-22 | 1996-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju magistralne ceste 2.1. Podberan-Kičer-Bederna, dionice Kičer-Tinjan, s obilaznicom "Tinjan" | [`odluka/1996/90/`](odluka/1996/90/) | in force | 1 | 1996-01-22 | 1996-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju ceste MC-29 dionica: Most otok Pag - kopno do grada Paga od km 21 + 455,35 | [`odluka/1996/91/`](odluka/1996/91/) | in force | 1 | 1996-01-22 | 1996-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju "Čvora Začretje" na dionici: Grubaševo-Krapina | [`odluka/1996/92/`](odluka/1996/92/) | in force | 1 | 1996-01-22 | 1996-01-22 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izvođenje rudarskih radova radi eksploatacije ugljena lignita na eksploatiranom polju "VRBOVO 1" | [`odluka/1996/93/`](odluka/1996/93/) | in force | 1 | 1996-01-22 | 1996-01-22 |
+| Zakon o izmjeni Zakona o privremenom preuzimanju i upravljanju određenom imovinom | [`odluka/1996/105/`](odluka/1996/105/) | in force | 1 | 1996-01-26 | 1996-01-26 |
+| Zakon o izmjeni Zakona o obveznim odnosima | [`odluka/1996/106/`](odluka/1996/106/) | in force | 1 | 1996-02-03 | 1996-02-03 |
+| Zakon o izmjeni Zakona o osnovnom školstvu | [`odluka/1996/107/`](odluka/1996/107/) | in force | 1 | 1996-01-26 | 1996-01-26 |
+| Odluka o prijenosu sredstava iz Zavoda za zapošljavanje u korist Državnog proračuna | [`odluka/1996/141/`](odluka/1996/141/) | in force | 1 | 1996-02-06 | 1996-02-06 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju visine zakupnine za poslovne prostore u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/148/`](odluka/1996/148/) | amending act | 1 | 1995-12-21 | 1995-12-21 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju uređaja za predtretman za biološko pročišćavanje voda u k. o. Batomalj | [`odluka/1996/171/`](odluka/1996/171/) | in force | 1 | 1996-02-09 | 1996-02-09 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju vodovoda "Sv. Nedjelja - Kolići - crpna stanica Zagorje" | [`odluka/1996/172/`](odluka/1996/172/) | in force | 1 | 1996-02-09 | 1996-02-09 |
+| Odluka o izmjenama i dopunama Odluke o ustanovljenju medalja za sudjelovanje u vojnoredarstvenim operacijama i u iznimnim pothvatima | [`odluka/1996/216/`](odluka/1996/216/) | amending act | 1 | 1996-02-21 | 1996-02-21 |
+| Odluka o izmjenama Odluke o uvjetima pod kojima strane osobe mogu stjecati potraživanja u valuti Republike Hrvatske | [`odluka/1996/217/`](odluka/1996/217/) | in force | 1 | 1996-02-21 | 1996-02-21 |
+| Odluka o određivanju poljoprivrednih i prehrambenih proizvoda za koje se pri uvozu plaća zaštitna pristojba | [`odluka/1996/250/`](odluka/1996/250/) | in force | 1 | 1996-02-28 | 1996-02-28 |
+| Odluka o sanaciji "Valjaonice čelika" d.d., Kumrovec | [`odluka/1996/251/`](odluka/1996/251/) | in force | 1 | 1996-02-28 | 1996-02-28 |
+| Odluka o sanaciji "TPK-EPO" d.d., Zagreb | [`odluka/1996/252/`](odluka/1996/252/) | in force | 1 | 1996-02-28 | 1996-02-28 |
+| Odluka o dopunama Odluke o posebnim mjerama carinskog nadzora pri uvozu, izvozu ili provozu određenih roba | [`odluka/1996/317/`](odluka/1996/317/) | amending act | 1 | 1996-03-06 | 1996-03-06 |
+| Odluka o otvaranju posebnog žiro računa Hrvatskog zavoda za zdravstveno osiguranje za transferna sredstva iz Državnog proračuna Republike Hrvatske | [`odluka/1996/324/`](odluka/1996/324/) | in force | 1 | 1996-03-06 | 1996-03-06 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1996. godinu | [`odluka/1996/325/`](odluka/1996/325/) | in force | 1 | 1996-03-06 | 1996-03-06 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za sanaciju i adaptaciju drvenih kuća i gospodarskih objekata _ Ruralne cjeline u Crkvenoj ulici u Kutini, te njihove revitalizacije novim sadržajima | [`odluka/1996/353/`](odluka/1996/353/) | in force | 1 | 1996-03-08 | 1996-03-08 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za proširenje groblja u Novskoj | [`odluka/1996/354/`](odluka/1996/354/) | in force | 1 | 1996-03-08 | 1996-03-08 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za proširenje groblja u Kršanu | [`odluka/1996/355/`](odluka/1996/355/) | in force | 1 | 1996-03-08 | 1996-03-08 |
+| Odluka o prijenosu osnivačkih prava nad javnom ustanovom Dječje odmaralište "Karlovac", p.o., Selce | [`odluka/1996/370/`](odluka/1996/370/) | in force | 1 | 1996-03-13 | 1996-03-13 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Cochabambi, Republika Bolivija | [`odluka/1996/401/`](odluka/1996/401/) | in force | 1 | 1996-03-11 | 1996-03-11 |
+| Odluka o izuzimanju nekretnina u k.o. Čepin od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/420/`](odluka/1996/420/) | in force | 1 | 1996-03-22 | 1996-03-22 |
+| Odluka o davanju suglasnosti za osnivanje Konzulata Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske u Republici Hrvatskoj, sa sjedištem u Splitu | [`odluka/1996/421/`](odluka/1996/421/) | in force | 1 | 1996-03-07 | 1996-03-07 |
+| Odluka o davanju suglasnosti za osnivanje Konzulata Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske u Republici Hrvatskoj, sa sjedištem u Dubrovniku | [`odluka/1996/422/`](odluka/1996/422/) | in force | 1 | 1996-03-07 | 1996-03-07 |
+| Odluka o davanju ovlaštenja Ministarstvu obrane Republike Hrvatske za prodaju nekretnina u vlasništvu Republike Hrvatske | [`odluka/1996/453/`](odluka/1996/453/) | in force | 1 | 1996-03-21 | 1996-03-21 |
+| Odluka o postupcima za ustroj i provedbu projekta Sustava Državne riznice | [`odluka/1996/477/`](odluka/1996/477/) | in force | 1 | 1996-04-03 | 1996-04-03 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1996. | [`odluka/1996/508/`](odluka/1996/508/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1996. | [`odluka/1996/511/`](odluka/1996/511/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1996. | [`odluka/1996/516/`](odluka/1996/516/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995. radi određivanja naknade plaće zbog manje plaće na drugom poslu | [`odluka/1996/540/`](odluka/1996/540/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o dopuni Poslovnika Županijskog doma Sabora Republike Hrvatske | [`odluka/1996/557/`](odluka/1996/557/) | amending act | 1 | 1996-03-27 | 1996-03-27 |
+| Odluka o izmjenama Odluke o određivanju proizvoda koji podliježu nadzoru kakvoće pri uvozu i izvozu | [`odluka/1996/561/`](odluka/1996/561/) | in force | 1 | 1996-04-12 | 1996-04-12 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Caracasu, Republika Venezuela | [`odluka/1996/577/`](odluka/1996/577/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o izuzimanju nekretnina u k.o. Petrijevci od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/588/`](odluka/1996/588/) | in force | 1 | 1996-04-17 | 1996-04-17 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Općini Cernik | [`odluka/1996/589/`](odluka/1996/589/) | in force | 1 | 1996-04-05 | 1996-04-05 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju i proširenje Ulice Domovinskog rata od Dubrovačke ulice do raskrižja sa Solinskom ulicom u Splitu - II faza | [`odluka/1996/590/`](odluka/1996/590/) | in force | 1 | 1996-04-17 | 1996-04-17 |
+| Odluka o izmjeni Odluke o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/591/`](odluka/1996/591/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Dubrovačke ulice s tunelom i pratećim sadržajima | [`odluka/1996/647/`](odluka/1996/647/) | in force | 1 | 1996-04-24 | 1996-04-24 |
+| Odluka o zaštitnoj cijeni pšenice roda 1996. godine | [`odluka/1996/648/`](odluka/1996/648/) | in force | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o zaštitnoj cijeni šećerne repe roda 1996. godine | [`odluka/1996/649/`](odluka/1996/649/) | in force | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o zaštitnoj cijeni uljane repice roda 1996. godine | [`odluka/1996/650/`](odluka/1996/650/) | in force | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o zaštitnoj cijeni suncokreta roda 1996. godine | [`odluka/1996/651/`](odluka/1996/651/) | in force | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o zaštitnoj cijeni soje roda 1996. godine | [`odluka/1996/652/`](odluka/1996/652/) | in force | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o zaštitnoj cijeni lista duhana roda 1996. godine | [`odluka/1996/653/`](odluka/1996/653/) | in force | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o osnivanju i zadaćama Hrvatskog nacionalnog odbora Svjetske izložbe EXPO "98 | [`odluka/1996/655/`](odluka/1996/655/) | in force | 1 | 1996-04-18 | 1996-04-18 |
+| Odluka o osnivanju Odbora za obilježavanje 15. svibnja kao Spomendana Bleiburških žrtava i žrtava Križnog puta | [`odluka/1996/676/`](odluka/1996/676/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Odluka o raspuštanju Gradske skupštine Grada Zagreba | [`odluka/1996/682/`](odluka/1996/682/) | in force | 1 | 1996-04-30 | 1996-04-30 |
+| Odluka o produženju roka za osnivanje lučke uprave u lukama u kojima je bio prekinut promet | [`odluka/1996/715/`](odluka/1996/715/) | in force | 1 | 1996-05-16 | 1996-05-16 |
+| Odluka o prestanku važenja Odluke o visini posebne pristojbe koja se plaća pri izvozu određenih proizvoda | [`odluka/1996/717/`](odluka/1996/717/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje Zagrebačke županije | [`odluka/1996/729/`](odluka/1996/729/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje Grada Ivanić-Grada | [`odluka/1996/730/`](odluka/1996/730/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje općine Kloštar Ivanić | [`odluka/1996/731/`](odluka/1996/731/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje općine Križ | [`odluka/1996/732/`](odluka/1996/732/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje općina otoka Paga - Pag i Novalju | [`odluka/1996/733/`](odluka/1996/733/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje općine Podgorač | [`odluka/1996/736/`](odluka/1996/736/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o raspisivanju savjetodavnog referenduma za područje Grada Novske | [`odluka/1996/738/`](odluka/1996/738/) | in force | 1 | 1996-05-10 | 1996-05-10 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u St. Paulu, Savezna Država Minnesota, Sjedinjene Američke Države | [`odluka/1996/758/`](odluka/1996/758/) | in force | 1 | 1996-05-06 | 1996-05-06 |
+| Odluka o odobrenju zamjene nekretnina u vlasništvu Republike Hrvatske | [`odluka/1996/763/`](odluka/1996/763/) | in force | 1 | 1996-05-14 | 1996-05-14 |
+| Odluka o dodjeli koncesije za polaganje i gospodarsko korištenje podmorske vodovodne cijevi na pomorskom dobru Cesarica uvala Vlaška Vela | [`odluka/1996/764/`](odluka/1996/764/) | in force | 1 | 1996-05-09 | 1996-05-09 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja 1996. | [`odluka/1996/774/`](odluka/1996/774/) | in force | 1 | 1996-05-14 | 1996-05-14 |
+| Odluka o davanju suglasnosti za osnivanje Konzulata Kraljevine Nizozemske u Republici Hrvatskoj, sa sjedištem u Dubrovniku | [`odluka/1996/817/`](odluka/1996/817/) | in force | 1 | 1996-05-23 | 1996-05-23 |
+| Odluka o puštanju u optjecaj prigodnog kovanog novca "Olimpijske igre - Atlanta 1996." | [`odluka/1996/861/`](odluka/1996/861/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Odluka o osnovnim obilježjima prigodnog kovanog novca "Olimpijske igre - Atlanta 1996." | [`odluka/1996/862/`](odluka/1996/862/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Odluka o puštanju u optjecaj prigodnog kovanog novca od 10 lipa "OUN" | [`odluka/1996/863/`](odluka/1996/863/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Odluka o osnovnim obilježjima prigodnog kovanog novca od 10 lipa "OUN" | [`odluka/1996/864/`](odluka/1996/864/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Odluka o puštanju u optjecaj prigodnog kovanog novca od 50 lipa "Europsko nogometno prvenstvo - Engleska 1996." | [`odluka/1996/865/`](odluka/1996/865/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Odluka o osnovnim obilježjima prigodnog kovanog novca od 50 lipa "Europsko nogometno prvenstvo - Engleska 1996." | [`odluka/1996/866/`](odluka/1996/866/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Odluka o dopuni Odluke o sezonskim graničnim prijelazima u Republici Hrvatskoj | [`odluka/1996/877/`](odluka/1996/877/) | amending act | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o izuzimanju određenih vrsta radova i nabave opreme od primjene Uredbe o postupku nabave roba i usluga i ustupanju radova | [`odluka/1996/909/`](odluka/1996/909/) | in force | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o izuzimanju nekretnine u k.o. Novska od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/910/`](odluka/1996/910/) | in force | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske Hrvatskom savezu slijepih | [`odluka/1996/912/`](odluka/1996/912/) | in force | 1 | 1996-06-06 | 1996-06-06 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Boliviji sa sjedištem u Santa Cruz de la Sierra | [`odluka/1996/939/`](odluka/1996/939/) | in force | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o utvrđivanju visine boravišne pristojbe za 1997. godinu | [`odluka/1996/973/`](odluka/1996/973/) | in force | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka o prestanku važenja Odluke o plaćanju posebne pristojbe na uvezenu robu u 1996. godini | [`odluka/1996/975/`](odluka/1996/975/) | in force | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka o prijenosu nekretnina u vlasništvo Gradu Splitu | [`odluka/1996/976/`](odluka/1996/976/) | in force | 1 | 1996-06-20 | 1996-06-20 |
+| Odluka o najpovoljnijoj ponudi za zakup poljoprivrednog zemljišta u vlasništvu države na području Županije Koprivničko-Križevačke | [`odluka/1996/994/`](odluka/1996/994/) | in force | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka o davanju suglasnosti za osnivanje privremenog konzularnog predstavništva Republike Češke u Republici Hrvatskoj, sa sjedištem u Opatiji | [`odluka/1996/1058/`](odluka/1996/1058/) | in force | 1 | 1996-07-04 | 1996-07-04 |
+| Odluka o dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/1062/`](odluka/1996/1062/) | amending act | 1 | 1996-07-08 | 1996-07-08 |
+| Odluka o izmjeni i dopuni Odluke o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1996/1063/`](odluka/1996/1063/) | amending act | 1 | 1996-07-08 | 1996-07-08 |
+| Odluka o izmjeni i dopuni Odluke o obvezi banaka da održavaju određeni odnos između deviznih potraživanja i deviznih obveza | [`odluka/1996/1064/`](odluka/1996/1064/) | amending act | 1 | 1996-07-08 | 1996-07-08 |
+| Odluka o raspuštanju Općinskog vijeća Općine Vir | [`odluka/1996/1075/`](odluka/1996/1075/) | in force | 1 | 1996-07-10 | 1996-07-10 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju vodospreme "Zavalatica" | [`odluka/1996/1195/`](odluka/1996/1195/) | in force | 1 | 1996-07-19 | 1996-07-19 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Seoulu, Republika Koreja | [`odluka/1996/1221/`](odluka/1996/1221/) | in force | 1 | 1996-07-11 | 1996-07-11 |
+| Odluka o prijenosu osnivačkih prava nad javnom ustanovom "Dom mladih", Rijeka | [`odluka/1996/1259/`](odluka/1996/1259/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju priključne ceste naselja Kučište - odvojak "Zamošće" | [`odluka/1996/1262/`](odluka/1996/1262/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Javnom poduzeću "Hrvatske ceste" | [`odluka/1996/1263/`](odluka/1996/1263/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Odluka o izmjenama i dopunama Odluke o Republičkom fondu "Kralj Zvonimir" | [`odluka/1996/1288/`](odluka/1996/1288/) | amending act | 1 | 1996-08-15 | 1996-08-15 |
+| Odluka o izmjeni i dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/1299/`](odluka/1996/1299/) | amending act | 1 | 1996-08-09 | 1996-08-09 |
+| Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1996/1322/`](odluka/1996/1322/) | amending act | 1 | 1996-08-31 | 1996-08-31 |
+| Odluka o visini osnovice za obavezno zdravstveno osiguranje i mirovinsko i invalidsko osiguranje za nezaposlenu osobu iz članka 30., 31. i 33. Zakona o zapošljavanju | [`odluka/1996/1327/`](odluka/1996/1327/) | in force | 1 | 1996-08-30 | 1996-08-30 |
+| Odluka o produženju roka iz članka 20. stavka 3. Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1996/1353/`](odluka/1996/1353/) | amending act | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Sabirnoga, transportnoga i elektroenergetskoga sustava naftnog polja Galovac-Pavljani u k. o. Galovac i k. o. Brezovac | [`odluka/1996/1355/`](odluka/1996/1355/) | in force | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o dopuni Odluke o odobravanju dnevnih kredita za štedne uloge i tekuće račune građana u kunama | [`odluka/1996/1361/`](odluka/1996/1361/) | amending act | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o izmjeni i dopuni Odluke o obveznoj rezervi banaka i štedionica | [`odluka/1996/1362/`](odluka/1996/1362/) | amending act | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o vraćanju cijena određenih proizvoda na određenu razinu | [`odluka/1996/1369/`](odluka/1996/1369/) | in force | 1 | 1996-09-14 | 1996-09-14 |
+| Odluka o dopuni Odluke o osnivanju i zadaćama Hrvatskog nacionalnog odbora Svjetske izložbe EXPO ž98 | [`odluka/1996/1396/`](odluka/1996/1396/) | amending act | 1 | 1996-09-26 | 1996-09-26 |
+| Odluka o raspuštanju općinskog vijeća općine Opuzen | [`odluka/1996/1401/`](odluka/1996/1401/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države općini Vodnjan | [`odluka/1996/1404/`](odluka/1996/1404/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Mati Antoliću | [`odluka/1996/1405/`](odluka/1996/1405/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Darku Laberu | [`odluka/1996/1406/`](odluka/1996/1406/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Marijanu Markoviću i Željku Markoviću | [`odluka/1996/1407/`](odluka/1996/1407/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Mladenu Hanževačkom | [`odluka/1996/1408/`](odluka/1996/1408/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Ladislavu Deželiću | [`odluka/1996/1409/`](odluka/1996/1409/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o dopuni Odluke o prodaji garaža u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/1414/`](odluka/1996/1414/) | amending act | 1 | 1996-09-26 | 1996-09-26 |
+| Odluka o prijenosu u vlasništvo zemljišta (šume) | [`odluka/1996/1424/`](odluka/1996/1424/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o zaduženju Republike Hrvatske kod Dresdner Bank Luxembourg | [`odluka/1996/1435/`](odluka/1996/1435/) | in force | 1 | 1996-10-03 | 1996-10-03 |
+| Odluka o osnivanju Povjerenstva za provedbu izbora u Istočnoj Slavoniji, Baranji i Zapadnom Srijemu | [`odluka/1996/1436/`](odluka/1996/1436/) | in force | 1 | 1996-10-04 | 1996-10-04 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Đuri Mikšecu | [`odluka/1996/1437/`](odluka/1996/1437/) | in force | 1 | 1996-10-04 | 1996-10-04 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Željku Urhu | [`odluka/1996/1438/`](odluka/1996/1438/) | in force | 1 | 1996-10-04 | 1996-10-04 |
+| Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. rujna 1996. | [`odluka/1996/1465/`](odluka/1996/1465/) | in force | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o zatvaranju Veleposlanstva Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici | [`odluka/1996/1494/`](odluka/1996/1494/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o najnižem iznosu nadoknade plaće | [`odluka/1996/1505/`](odluka/1996/1505/) | in force | 1 | 1996-10-09 | 1996-10-09 |
+| Odluka o izdavanju numizmatičkih kompleta prigodnog opticajnog kovanog novca Republike Hrvatske kuna i lipa izdanog u razdoblju 1994-1996. godine | [`odluka/1996/1532/`](odluka/1996/1532/) | in force | 1 | 1996-10-16 | 1996-10-16 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Hrvatskog savjeta za sigurnost prometa na cestama | [`odluka/1996/1549/`](odluka/1996/1549/) | amending act | 1 | 1996-10-26 | 1996-10-26 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Pula - lokacija Radio far | [`odluka/1996/1563/`](odluka/1996/1563/) | in force | 1 | 1996-10-17 | 1996-10-17 |
+| Odluka o osnivanju Istražnog povjerenstva radi utvrđivanja zakonitosti rada Državnog ravnateljstva za robne zalihe i drugih državnih tijela u svezi s izvozom pšenice i kukuruza i opravdanosti uvoza pš | [`odluka/1996/1587/`](odluka/1996/1587/) | in force | 1 | 1996-11-02 | 1996-11-02 |
+| Odluka o izmjeni Odluke o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1996/1611/`](odluka/1996/1611/) | in force | 1 | 1996-10-30 | 1996-10-30 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Arapskoj Republici Egipat | [`odluka/1996/1615/`](odluka/1996/1615/) | in force | 1 | 1996-10-28 | 1996-10-28 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Saveznoj Republici Brazil | [`odluka/1996/1616/`](odluka/1996/1616/) | in force | 1 | 1996-10-28 | 1996-10-28 |
+| Odluka o raspuštanju Općinskog vijeća Općine Kijevo | [`odluka/1996/1619/`](odluka/1996/1619/) | in force | 1 | 1996-11-06 | 1996-11-06 |
+| Odluka o raspuštanju Općinskog vijeća Općine Benkovac | [`odluka/1996/1620/`](odluka/1996/1620/) | in force | 1 | 1996-11-06 | 1996-11-06 |
+| Odluka o prestanku važenja Odluke o raspodjeli sredstava radio pretplate | [`odluka/1996/1621/`](odluka/1996/1621/) | in force | 1 | 1996-10-31 | 1996-10-31 |
+| Odluka o izmjeni Odluke o početku izdavanja iskaznice zdravstveno osigurane osobe i vremenu trajanja zamjene postojeće iskaznice | [`odluka/1996/1641/`](odluka/1996/1641/) | in force | 1 | 1996-11-14 | 1996-11-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za osnivanje slobodnih zona | [`odluka/1996/1900/`](odluka/1996/1900/) | in force | 1 | 1996-11-11 | 1996-11-11 |
+| Odluka o dopunama Odluke o kriterijima za carinski kontingent | [`odluka/1996/1983/`](odluka/1996/1983/) | amending act | 1 | 1996-12-04 | 1996-12-04 |
+| Odluka o dopuni Odluke o opsegu kontingenata za izvoz i uvoz robe u 1996. godini | [`odluka/1996/1985/`](odluka/1996/1985/) | amending act | 1 | 1996-12-04 | 1996-12-04 |
+| Odluka o izmjeni Odluke o davanju državnih lovišta u zakup | [`odluka/1996/1986/`](odluka/1996/1986/) | in force | 1 | 1996-12-04 | 1996-12-04 |
+| Odluka o ustrojavanju vojnostegovnih sudova i vojnostegovnih tužiteljstava | [`odluka/1996/1995/`](odluka/1996/1995/) | in force | 1 | 1996-12-14 | 1996-12-14 |
+| Odluka o osnivanju Komisije za ratne zločine | [`odluka/1996/1997/`](odluka/1996/1997/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| Odluka o prijenosu nekretnina u vlasništvo Općine Baška Voda | [`odluka/1996/2016/`](odluka/1996/2016/) | in force | 1 | 1996-12-13 | 1996-12-13 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - STABILITET (1996) | [`odluka/1996/2062/`](odluka/1996/2062/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA-UREĐAJ ZA RUKOVANJE TERETOM I NAPRAVE ZA DIZANJE (1996) | [`odluka/1996/2077/`](odluka/1996/2077/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - MATERIJALI (1996) | [`odluka/1996/2083/`](odluka/1996/2083/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| Odluka o davanju pomoći građanima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u 1996. godini | [`odluka/1996/2097/`](odluka/1996/2097/) | in force | 1 | 1996-12-24 | 1996-12-24 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni kod stranih i međunarodnih organizacija i ustanova, stranih konzularnih i diplomatskih predstavništava ili u osobnoj službi stranih državljana | [`odluka/1996/2123/`](odluka/1996/2123/) | in force | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o izmjenama odluke o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1996. | [`odluka/1996/2130/`](odluka/1996/2130/) | in force | 1 | 1996-12-24 | 1996-12-24 |
+| Odluka o stopi i osnovici za obračunavanje doprinosa Hrvatskoj gospodarskoj komori u 1997. godini | [`odluka/1996/2132/`](odluka/1996/2132/) | in force | 1 | 1996-12-23 | 1996-12-23 |
+| Odluka o visini i načinu obračuna naknade za vađenje pijeska i šljunka | [`odluka/1996/2162/`](odluka/1996/2162/) | in force | 1 | 1996-12-30 | 1996-12-30 |
+| Odluka o vrstama vojnih odora u oružanim snagama Republike Hrvatske | [`odluka/1997/4/`](odluka/1997/4/) | in force | 1 | 1997-01-11 | 1997-01-11 |
+| Odluka o dodjeli sredstava za pomoć, liječnje i rekreaciju Matici hrvatskih umirovljenika u godini 1996. | [`odluka/1997/12/`](odluka/1997/12/) | in force | 1 | 1997-01-03 | 1997-01-03 |
+| Odluka o dodjeli sredstava za pomoć, liječenje i rekreaciju Sindikatu umirovljenika Hrvatske u godini 1996. | [`odluka/1997/13/`](odluka/1997/13/) | in force | 1 | 1997-01-03 | 1997-01-03 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Saveznoj Republici Jugoslaviji, sa sjedištem u Beogradu | [`odluka/1997/23/`](odluka/1997/23/) | in force | 1 | 1996-12-02 | 1996-12-02 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem i inozemnom tržištu kapitala | [`odluka/1997/28/`](odluka/1997/28/) | in force | 1 | 1997-01-03 | 1997-01-03 |
+| Odluka o usklađivanju mirovina pripadnika HV od 1. prosinca 1996. | [`odluka/1997/54/`](odluka/1997/54/) | in force | 1 | 1997-01-16 | 1997-01-16 |
+| Odluka o davanju suglasnosti za osnivanje Generalnog konzulata Republike Turske u Republici Hrvatskoj, sa sjedištem u Rijeci | [`odluka/1997/66/`](odluka/1997/66/) | in force | 1 | 1997-01-15 | 1997-01-15 |
+| Odluka o računanju vremena u 1997. godini | [`odluka/1997/89/`](odluka/1997/89/) | in force | 1 | 1997-01-30 | 1997-01-30 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju plaće predsjednika Vlade Republike Hrvatske, potpredsjednika Vlade Republike Hrvatske, dužnosnika Republike Hrvatske i drugih dužnosnika koje imenuje | [`odluka/1997/90/`](odluka/1997/90/) | amending act | 1 | 1997-01-22 | 1997-01-22 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Robertu Rezleru | [`odluka/1997/91/`](odluka/1997/91/) | in force | 1 | 1997-01-22 | 1997-01-22 |
+| Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Rimokatoličkoj župi Uzvišenja sv. Križa | [`odluka/1997/92/`](odluka/1997/92/) | in force | 1 | 1997-01-22 | 1997-01-22 |
+| Odluka o ostavljanju u zvanju veleposlanika u Ministarstvu vanjskih poslova mr. Miljenka Žagara za vrijeme trajanja dužnosti ravnatelja Hrvatskog informativno-kulturnog zavoda | [`odluka/1997/103/`](odluka/1997/103/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o izmjeni Odluke o sanaciji i restrukturiranju Privredne banke, dioničko društvo, Zagreb | [`odluka/1997/118/`](odluka/1997/118/) | in force | 1 | 1997-01-28 | 1997-01-28 |
+| Odluka o davanju suglasnosti na sklapanje ugovora o kreditu između Republike Hrvatske i Export Development Corporation iz Ottawe, Kanada | [`odluka/1997/125/`](odluka/1997/125/) | in force | 1 | 1997-01-10 | 1997-01-10 |
+| Odluka o dopuni Odluke o određivanju proizvoda koji podliježu nadzoru kakvoće pri uvozu i izvozu | [`odluka/1997/164/`](odluka/1997/164/) | amending act | 1 | 1997-02-08 | 1997-02-08 |
+| Odluka o dopuni Odluke o naknadi troškova nadzora kakvoće proizvoda pri uvozu i izvozu | [`odluka/1997/165/`](odluka/1997/165/) | amending act | 1 | 1997-02-08 | 1997-02-08 |
+| Odluka o izmjeni i dopuni Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1997/173/`](odluka/1997/173/) | amending act | 1 | 1997-02-08 | 1997-02-08 |
+| Odluka o utvrđivanju visine novčanih primanja iz Zakona o zaštiti vojnih i civilnih invalida rata, te naknade za opremu novorođenog djeteta | [`odluka/1997/187/`](odluka/1997/187/) | in force | 1 | 1997-02-13 | 1997-02-13 |
+| Odluka o izmjenama i dopunama Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1997/219/`](odluka/1997/219/) | amending act | 1 | 1997-02-11 | 1997-02-11 |
+| Odluka o zaštitnoj cijeni soje roda 1997. godine | [`odluka/1997/220/`](odluka/1997/220/) | in force | 1 | 1997-02-19 | 1997-02-19 |
+| Odluka o zaštitnoj cijeni uljane repice roda 1997. godine | [`odluka/1997/221/`](odluka/1997/221/) | in force | 1 | 1997-02-19 | 1997-02-19 |
+| Odluka o zaštitnoj cijeni lista duhana roda 1997. godine | [`odluka/1997/222/`](odluka/1997/222/) | in force | 1 | 1997-02-19 | 1997-02-19 |
+| Odluka o zaštitnoj cijeni šećerne repe roda 1997. godine | [`odluka/1997/223/`](odluka/1997/223/) | in force | 1 | 1997-02-19 | 1997-02-19 |
+| Odluka o zaštitnoj cijeni pšenice roda 1997. godine | [`odluka/1997/224/`](odluka/1997/224/) | in force | 1 | 1997-02-19 | 1997-02-19 |
+| Odluka o zaštitnoj cijeni suncokreta roda 1997. godine | [`odluka/1997/225/`](odluka/1997/225/) | in force | 1 | 1997-02-19 | 1997-02-19 |
+| Odluka o raspisivanju izbora za zastupnike u Županijski dom Sabora Republike Hrvatske | [`odluka/1997/231/`](odluka/1997/231/) | in force | 1 | 1997-02-12 | 1997-02-12 |
+| Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave | [`odluka/1997/232/`](odluka/1997/232/) | in force | 1 | 1997-02-12 | 1997-02-12 |
+| Odluka o izmjeni Odluke o koncesiji prava lova na lovištima u vlasništvu države | [`odluka/1997/238/`](odluka/1997/238/) | in force | 1 | 1997-02-13 | 1997-02-13 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od USD 300.000.000,00 | [`odluka/1997/269/`](odluka/1997/269/) | in force | 1 | 1997-02-13 | 1997-02-13 |
+| Odluka o davanju suglasnosti na sklapanje Ugovora između Ministarstva obrane i Bell Helicopter Textron, Kanada i Ugovora o uvjetima financiranja između Ministarstva obrane i Export Development Corpora | [`odluka/1997/315/`](odluka/1997/315/) | in force | 1 | 1997-02-27 | 1997-02-27 |
+| Odluka o dipuni Statuta Republičkog fonda mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1997/320/`](odluka/1997/320/) | in force | 1 | 1997-02-28 | 1997-02-28 |
+| Odluka o prihvaćanju povećanja kapitala Europske banke za obnovu i razvoj i dodijeljenom broju dionica Republici Hrvatskoj | [`odluka/1997/374/`](odluka/1997/374/) | in force | 1 | 1997-03-07 | 1997-03-07 |
+| Odluka o davanju suglasnosti na sklapanje ugovora između Ministarstva poljoprivrede i šumarstva i "Torpedo" d.d. Rijeka o financiranju isporuke traktora korištenjem sredstava Proračuna | [`odluka/1997/375/`](odluka/1997/375/) | in force | 1 | 1997-03-04 | 1997-03-04 |
+| Odluka o prijenosu nekretnina u vlasništvo Hrvatske akademije znanosti i umjetnosti | [`odluka/1997/379/`](odluka/1997/379/) | in force | 1 | 1997-03-06 | 1997-03-06 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike privremeno izvan radnog odnosa | [`odluka/1997/400/`](odluka/1997/400/) | in force | 1 | 1997-03-20 | 1997-03-20 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1996. radi određivanja naknade plaće zbog manje plaće na drugom poslu. | [`odluka/1997/403/`](odluka/1997/403/) | in force | 1 | 1997-03-13 | 1997-03-13 |
+| Odluka o dopuni i izmjeni Odluke o visini minimalne mirovine od 1. prosinca 1996. | [`odluka/1997/404/`](odluka/1997/404/) | amending act | 1 | 1997-03-13 | 1997-03-13 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1996 | [`odluka/1997/409/`](odluka/1997/409/) | in force | 1 | 1997-03-13 | 1997-03-13 |
+| Odluka o izmjeni Odluke o carinskim, poreznim i drugim olakšicama stranih diplomatskih i konzularnih predstavništava u Republici Hrvatskoj | [`odluka/1997/414/`](odluka/1997/414/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o ukidanju komisije za nadzor nad radom humanitarnih organizacija | [`odluka/1997/415/`](odluka/1997/415/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o ukidanju Vijeća za socijalnu politiku | [`odluka/1997/416/`](odluka/1997/416/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o ukidanju vijeća za mladež | [`odluka/1997/417/`](odluka/1997/417/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o ukidanju Odbora za gospodarske odnose s inozemstvom | [`odluka/1997/418/`](odluka/1997/418/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o ukidanju Odbora za pravnu pomoć braniteljima Republike Hrvatske | [`odluka/1997/419/`](odluka/1997/419/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o ukidanju Komisije Vlade Republike Hrvatske za informatizaciju državne uprave, pravosuđa i javnih djelatnosti | [`odluka/1997/420/`](odluka/1997/420/) | in force | 1 | 1997-03-14 | 1997-03-14 |
+| Odluka o osnivanju Povjerenstva za utvrđivanje statusa "Hrvatskih branitelja" zdravstvenim djelatnicima i djelatnicima u zdravstvu | [`odluka/1997/453/`](odluka/1997/453/) | in force | 1 | 1997-03-21 | 1997-03-21 |
+| Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske u vlasništvo Sveučilišta Josipa Jurja Strossmayera u Osijeku | [`odluka/1997/487/`](odluka/1997/487/) | in force | 1 | 1997-03-27 | 1997-03-27 |
+| Odluka o izgradnji i investiranju u zdravstvene ustanove Republike Hrvatske | [`odluka/1997/489/`](odluka/1997/489/) | in force | 1 | 1997-03-28 | 1997-03-28 |
+| Odluka o utvrđivanju visine naknade troškova izborne promidžbe za izbor zastupnika u Županijski dom Sabora Republike Hrvatske | [`odluka/1997/502/`](odluka/1997/502/) | in force | 1 | 1997-04-02 | 1997-04-02 |
+| Odluka o izmjeni Odluke o posebnim mjerama carinskog nadzora pri uvozu, izvozu ili provozu određenih roba | [`odluka/1997/504/`](odluka/1997/504/) | in force | 1 | 1997-04-02 | 1997-04-02 |
+| Odluka o davanju suglasnosti na Statut Hrvatskog informativno-kulturnog zavoda | [`odluka/1997/506/`](odluka/1997/506/) | in force | 1 | 1997-04-02 | 1997-04-02 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Zamet | [`odluka/1997/518/`](odluka/1997/518/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Umag - područje Savudrije | [`odluka/1997/519/`](odluka/1997/519/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Odluka o donošenju općeobrazovnog dijela programa obrazovanja za obavljanje vezanih obrta | [`odluka/1997/523/`](odluka/1997/523/) | in force | 1 | 1997-04-12 | 1997-04-12 |
+| Odluka o podjeli Zavoda za smještaj i rehabilitaciju djece i mladeži Vrlika | [`odluka/1997/533/`](odluka/1997/533/) | in force | 1 | 1997-04-09 | 1997-04-09 |
+| Odluka o davanju suglasnosti Brodograđevnoj industriji "3. Maj" d.d. Rijeka na sklapanje ugovora o kreditu i jamstvu za gradnju 2 broda "3. Maj" Brodogradilište d.d., Rijeka za stranog naručitelja | [`odluka/1997/534/`](odluka/1997/534/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Odluka o prestanku važenja Odluke o visini i načinu plaćanja naknada za pokriće troškova za ispitivanje i žigosanje predmeta od plemenitih kovina | [`odluka/1997/546/`](odluka/1997/546/) | in force | 1 | 1997-04-19 | 1997-04-19 |
+| Odluka o prestanku važenja Odluke o visini i načinu plaćanja naknada za pokriće troškova tipnog ispitivanja mjerila, pregleda etalona, uzoraka referentnih tvari i mjerila | [`odluka/1997/547/`](odluka/1997/547/) | in force | 1 | 1997-04-19 | 1997-04-19 |
+| Odluka o izradi Nacionalne strategije i akcijskog plana zaštite biološke i krajobrazne raznolikosti | [`odluka/1997/567/`](odluka/1997/567/) | in force | 1 | 1997-04-16 | 1997-04-16 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za radnike u ožujku 1997. | [`odluka/1997/610/`](odluka/1997/610/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za radnike u travnju 1997 | [`odluka/1997/611/`](odluka/1997/611/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za korisnike koji su mirovinu ostvarili u republikama bivše SFRJ u ožujku 1997. | [`odluka/1997/612/`](odluka/1997/612/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za korisnike koji su mirovinu ostvarili u republikama bivše SFRJ u travnju 1997. | [`odluka/1997/613/`](odluka/1997/613/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za pripadnike bivše JNA u ožujku 1997. | [`odluka/1997/614/`](odluka/1997/614/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za pripadnike bivše JNA u travnju 1997. | [`odluka/1997/615/`](odluka/1997/615/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje od 1.siječnja 1997. za radnike | [`odluka/1997/618/`](odluka/1997/618/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o utvrđivanju svota doplatka za pomoć i njegu od 1. siječnja 1997. za radnike | [`odluka/1997/619/`](odluka/1997/619/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o utvrđivanju svote doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. siječnja 1997. za pripadnike bivše JNA | [`odluka/1997/620/`](odluka/1997/620/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1997. | [`odluka/1997/621/`](odluka/1997/621/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1997. | [`odluka/1997/624/`](odluka/1997/624/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za individualne poljoprivrednike u ožujku 1997. | [`odluka/1997/626/`](odluka/1997/626/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za samostalne privrednike u ožujku 1997. | [`odluka/1997/635/`](odluka/1997/635/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o isplati akontacije razlike mirovine za razdoblje od 1. veljače 1995. do 31. prosinca 1996. za samostalne privrednike u travnju 1997. | [`odluka/1997/636/`](odluka/1997/636/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Odluka o sazivanju prvog zasjedanja Županijskog doma Sabora Republike Hrvatske | [`odluka/1997/693/`](odluka/1997/693/) | in force | 1 | 1991-05-05 | 1991-05-05 |
+| Odluka o osnivanju Državnog povjerenstva za uspostavu ustavnopravnog poretka Republike Hrvatske na područjima Osječko-baranjske i Vukovarsko-srijemske županije koja su sada pod upravom UNTAES-a | [`odluka/1997/694/`](odluka/1997/694/) | in force | 1 | 1997-04-30 | 1997-04-30 |
+| Odluka o prijenosu nekretnine u vlasništvu Republike Hrvatske u vlasništvo Nadbiskupije Splitsko-Makarske u Splitu | [`odluka/1997/715/`](odluka/1997/715/) | in force | 1 | 1997-05-12 | 1997-05-12 |
+| Odluka o osnovnim obilježjima prigodnog optjecajnog kovanog novca od 25 kuna "HRVATSKO PODUNAVLJE | [`odluka/1997/719/`](odluka/1997/719/) | in force | 1 | 1997-05-13 | 1997-05-13 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "1997." | [`odluka/1997/720/`](odluka/1997/720/) | in force | 1 | 1997-05-13 | 1997-05-13 |
+| Odluka o produljenju mandata članova Upravnog odbora Zavoda za platni promet | [`odluka/1997/721/`](odluka/1997/721/) | in force | 1 | 1997-05-07 | 1997-05-07 |
+| Odluka o utvrđivanju visine boravišne pristojbe za 1998. godinu | [`odluka/1997/743/`](odluka/1997/743/) | in force | 1 | 1997-05-15 | 1997-05-15 |
+| Odluka o puštanju u optjecaj prigodnog optjecajnog kovanog novca od 25 kuna "HRVATSKO PODUNAVLJE | [`odluka/1997/745/`](odluka/1997/745/) | in force | 1 | 1997-05-15 | 1997-05-15 |
+| Odluka o izmjeni Odluke o osnivanju posebnog računa za kreditiranje razvitka i obnove poljoprivrede | [`odluka/1997/759/`](odluka/1997/759/) | in force | 1 | 1997-05-16 | 1997-05-16 |
+| Odluka o utvrđivanju visine naknade troškova izborne promidžbe | [`odluka/1997/808/`](odluka/1997/808/) | in force | 1 | 1997-05-23 | 1997-05-23 |
+| Odluka o davanju koncesije za osnivanje Slobodne zone Podi | [`odluka/1997/825/`](odluka/1997/825/) | in force | 1 | 1997-05-22 | 1997-05-22 |
+| Odluka o prihvaćanju članstva Narodne banke Hrvatske u Banci za međunarodna poravnanja (BIS) Bazel | [`odluka/1997/827/`](odluka/1997/827/) | in force | 1 | 1997-05-26 | 1997-05-26 |
+| Odluka o izmjeni Odluke o osnutku županijskih regionalnih komora | [`odluka/1997/828/`](odluka/1997/828/) | in force | 1 | 1997-06-04 | 1997-06-04 |
+| Odluka o prijelazu dijela korisnika državnog proračuna na izravnu isplatu s jedinstvenog računa riznice u 1997. godini | [`odluka/1997/843/`](odluka/1997/843/) | in force | 1 | 1997-06-04 | 1997-06-04 |
+| Odluka o puštanju u optjecaj prigodnog optjecajnog kovanog novca od 25 kuna "Prvi kongres hrvatskih esperantista | [`odluka/1997/939/`](odluka/1997/939/) | in force | 1 | 1997-06-11 | 1997-06-11 |
+| Odluka o izmjeni Odluke o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1997/947/`](odluka/1997/947/) | in force | 1 | 1997-06-21 | 1997-06-21 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju eksploatacijskog polja mineralne sirovine "Srednja Rijeka" Donji Miklouš, u k.o. Mikloš | [`odluka/1997/984/`](odluka/1997/984/) | in force | 1 | 1997-06-20 | 1997-06-20 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju i formiranje eksploatacijskog polja na k.č. broj 356/288, upisanoj u z.k.ul. broj 995, u k.o. Kunj | [`odluka/1997/985/`](odluka/1997/985/) | in force | 1 | 1997-06-20 | 1997-06-20 |
+| Odluka o zatvaranju Veleposlanstva Republike Hrvatske u Ujedinjenim Arapskim Emiratima | [`odluka/1997/996/`](odluka/1997/996/) | in force | 1 | 1997-06-16 | 1997-06-16 |
+| Odluka o izmjeni Odluke o određivanju robe i drugih stvari koje se uvoze iz drugih država ili područja nastalih raspadom bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1997/1034/`](odluka/1997/1034/) | in force | 1 | 1997-06-27 | 1997-06-27 |
+| Odluka o usklađivanju mirovina od 1. veljače 1995. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1058/`](odluka/1997/1058/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. veljače 1995. | [`odluka/1997/1061/`](odluka/1997/1061/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. lipnja 1995. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1064/`](odluka/1997/1064/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. srpnja 1995. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1070/`](odluka/1997/1070/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1076/`](odluka/1997/1076/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. svibnja 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1082/`](odluka/1997/1082/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. srpnja 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1088/`](odluka/1997/1088/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. prosinca 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1094/`](odluka/1997/1094/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. veljače 1995. | [`odluka/1997/1139/`](odluka/1997/1139/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. lipnja 1995. | [`odluka/1997/1145/`](odluka/1997/1145/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. srpnja 1995. | [`odluka/1997/1151/`](odluka/1997/1151/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1996. | [`odluka/1997/1157/`](odluka/1997/1157/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu od 1. svibnja 1996. | [`odluka/1997/1162/`](odluka/1997/1162/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. svibnja 1996. | [`odluka/1997/1163/`](odluka/1997/1163/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. srpnja 1996. | [`odluka/1997/1169/`](odluka/1997/1169/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. prosinca 1996. | [`odluka/1997/1175/`](odluka/1997/1175/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. veljače 1995. | [`odluka/1997/1177/`](odluka/1997/1177/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. lipnja 1995. | [`odluka/1997/1178/`](odluka/1997/1178/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. srpnja 1995. | [`odluka/1997/1179/`](odluka/1997/1179/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. siječnja 1996. | [`odluka/1997/1180/`](odluka/1997/1180/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. svibnja 1996. | [`odluka/1997/1181/`](odluka/1997/1181/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. srpnja 1996. | [`odluka/1997/1182/`](odluka/1997/1182/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. prosinca 1996. | [`odluka/1997/1183/`](odluka/1997/1183/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju srednjetlačnoga distributivnoga plinovoda oko Grada Bjelovara | [`odluka/1997/1217/`](odluka/1997/1217/) | in force | 1 | 1997-07-07 | 1997-07-07 |
+| Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u prvih pet mjeseci 1997. godine | [`odluka/1997/1223/`](odluka/1997/1223/) | in force | 1 | 1997-07-10 | 1997-07-10 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Finskoj, sa sjedištem u Helsinkiju | [`odluka/1997/1229/`](odluka/1997/1229/) | in force | 1 | 1997-06-30 | 1997-06-30 |
+| Odluka o promjeni svote carine po mjernoj jednici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1997/1262/`](odluka/1997/1262/) | in force | 1 | 1997-07-14 | 1997-07-14 |
+| Odluka o zatvaranju Veleposlanstva Republike Hrvatske u Republici Kazakstan, sa sjedištem u Almaty | [`odluka/1997/1264/`](odluka/1997/1264/) | in force | 1 | 1997-09-01 | 1997-09-01 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od DEM 300.000.000,00 | [`odluka/1997/1266/`](odluka/1997/1266/) | in force | 1 | 1997-07-11 | 1997-07-11 |
+| Odluka o izmjenama i dopunama Statuta Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske | [`odluka/1997/1314/`](odluka/1997/1314/) | amending act | 1 | 1997-07-16 | 1997-07-16 |
+| Odluka o osnivanju Vijeća za strateške odluke | [`odluka/1997/1316/`](odluka/1997/1316/) | in force | 1 | 1997-07-08 | 1997-07-08 |
+| Odluka o izmjeni Pravilnika o izmjenama i dopunama Pravilnika o naknadama za javnu izvedbu i priopćavanje javnosti glazbenih djela te naknadama za korištenje glazbenih izvedbenih materijala | [`odluka/1997/1333/`](odluka/1997/1333/) | amending act | 1 | 1997-05-20 | 1997-05-20 |
+| Odluka o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma | [`odluka/1997/1340/`](odluka/1997/1340/) | in force | 1 | 1997-07-25 | 1997-07-25 |
+| Odluka o dopuni Odluke o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1997/1395/`](odluka/1997/1395/) | amending act | 1 | 1997-08-16 | 1997-08-16 |
+| Odlukom o davanju suglasnosti na izdavanje jamstva (garancije) Republike Hrvatske Export Development Corporation iz Ottawe, Kanada, kao sredstva osiguranja za obvezu povrata zajma odobrenog RH Alan d. | [`odluka/1997/1438/`](odluka/1997/1438/) | in force | 1 | 1997-08-22 | 1997-08-22 |
+| Odluka o zajamčenoj cijeni suncokreta roda 1998. godine | [`odluka/1997/1488/`](odluka/1997/1488/) | in force | 1 | 1997-09-20 | 1997-09-20 |
+| Odluka o zajamčenoj cijeni soje roda 1998. godine | [`odluka/1997/1489/`](odluka/1997/1489/) | in force | 1 | 1997-09-20 | 1997-09-20 |
+| Odluka o zajamčenoj cijeni uljane repice roda 1998. godine | [`odluka/1997/1490/`](odluka/1997/1490/) | in force | 1 | 1997-09-20 | 1997-09-20 |
+| Odluka o zajamčenoj cijeni lista duhana roda 1998. godine | [`odluka/1997/1491/`](odluka/1997/1491/) | in force | 1 | 1997-09-20 | 1997-09-20 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Bakarac | [`odluka/1997/1492/`](odluka/1997/1492/) | in force | 1 | 1997-09-11 | 1997-09-11 |
+| Odluka o određivanju granice pomorskog dobra u dijelu k.o. Kostrena - Sveta Lucija | [`odluka/1997/1493/`](odluka/1997/1493/) | in force | 1 | 1997-09-11 | 1997-09-11 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1997/1508/`](odluka/1997/1508/) | in force | 1 | 1997-09-24 | 1997-09-24 |
+| Odluka o davanju suglasnosti brodograđevnoj industriji Ż3 majŽ d.d. Rijeka na sklapanje Ugovora o kreditu i jamstvu za gradnju dva broda Nov. 673 i Nov. 674 "3. maj" brodogradilište d.d. Rijeka za I | [`odluka/1997/1527/`](odluka/1997/1527/) | in force | 1 | 1997-09-12 | 1997-09-12 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Državi Izrael | [`odluka/1997/1532/`](odluka/1997/1532/) | in force | 1 | 1997-09-19 | 1997-09-19 |
+| Odluka o zatvaranju Konzulata Republike Hrvatske u Republici Finskoj | [`odluka/1997/1533/`](odluka/1997/1533/) | in force | 1 | 1997-09-19 | 1997-09-19 |
+| Odluka o kratkoročnom zaduženju Republike Hrvatske kod Union Bank of Switzerland | [`odluka/1997/1536/`](odluka/1997/1536/) | in force | 1 | 1997-09-18 | 1997-09-18 |
+| Odluka o dopuni Odluke o zabrani uvoza šećera | [`odluka/1997/1583/`](odluka/1997/1583/) | amending act | 1 | 1997-10-04 | 1997-10-04 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za kredit Bayerische Landesbank Girocentrale, Minchen, društvu Đuro Đaković Holding d.d., Slavonski Brod, za kreditiranje plasmana kombajna, berača | [`odluka/1997/1585/`](odluka/1997/1585/) | in force | 1 | 1997-10-01 | 1997-10-01 |
+| Odluka o raspuštanju Županijske skupštine Primorsko-goranske županije | [`odluka/1997/1597/`](odluka/1997/1597/) | in force | 1 | 1997-10-06 | 1997-10-06 |
+| Odluka o davanju u posjed nekretnina u vlasništvu Republike Hrvatske Obrtničkoj školi "Antun Horvat" u Đakov | [`odluka/1997/1599/`](odluka/1997/1599/) | in force | 1 | 1997-10-02 | 1997-10-02 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1997/1603/`](odluka/1997/1603/) | in force | 1 | 1997-10-06 | 1997-10-06 |
+| Odluka o osnovnim obilježjima prigodnog optjecajnog kovanog novca od 25 kuna "PRIMANJE REPUBLIKE HRVATSKE U ORGANIZACIJU UJEDINJENIH NARODA | [`odluka/1997/1604/`](odluka/1997/1604/) | in force | 1 | 1997-10-06 | 1997-10-06 |
+| Odluka o puštanju u opticaj prigodnog opticajnog kovanog novca od 25 kuna "Primanje Republike Hrvatske u Organizaciju ujedinjenih naroda | [`odluka/1997/1615/`](odluka/1997/1615/) | in force | 1 | 1997-10-08 | 1997-10-08 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Kostrena-Sv. Barbara | [`odluka/1997/1637/`](odluka/1997/1637/) | in force | 1 | 1997-10-09 | 1997-10-09 |
+| Odluka o osnivanju nacionalnog odbora za ostvarivanje programa uspostave povjerenja, ubrzanog povratka i normalizacije života na ratom stradalim područjima Republike Hrvatske | [`odluka/1997/1649/`](odluka/1997/1649/) | in force | 1 | 1997-10-09 | 1997-10-09 |
+| Odluka o raspuštanju Općinskog vijeća Općine Nerežišća | [`odluka/1997/1685/`](odluka/1997/1685/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Odluka o raspuštanju Općinskog vijeća Općine Gradac | [`odluka/1997/1686/`](odluka/1997/1686/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Odluka o raspisivanju izbora za članove Županijske skupštine Primorsko-goranske županije | [`odluka/1997/1732/`](odluka/1997/1732/) | in force | 1 | 1997-10-30 | 1997-10-30 |
+| Odluka o raspisivanju izbora za članove gradskih vijeća gradova: Vis, Orahovica, Makarska i Pregrada, te za članove općinskih vijeća: Civljane, Jelenje, Viškovo, Tučepi, Lanišće, Lastovo, Gradac, Nerežišća i Vinodolska općina | [`odluka/1997/1733/`](odluka/1997/1733/) | in force | 1 | 1997-10-30 | 1997-10-30 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Magistralnoga plinovoda DN 500 Zagreb-Karlovac | [`odluka/1997/1739/`](odluka/1997/1739/) | in force | 1 | 1997-11-04 | 1997-11-04 |
+| Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske u vlasništvo Dubrovačke Biskupije | [`odluka/1997/1740/`](odluka/1997/1740/) | in force | 1 | 1997-10-30 | 1997-10-30 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Plat | [`odluka/1997/1741/`](odluka/1997/1741/) | in force | 1 | 1997-10-30 | 1997-10-30 |
+| Odluka o izmjenama Odluke o zaduženosti određenih poduzeća | [`odluka/1997/1750/`](odluka/1997/1750/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o prestanku važenja Odluke o produljenju roka iz članka 4. stavka 2. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1997/1765/`](odluka/1997/1765/) | in force | 1 | 1997-11-07 | 1997-11-07 |
+| Odluka o izmjeni Odluke o opsegu kontingenata za izvoz robe u 1997. godini | [`odluka/1997/1766/`](odluka/1997/1766/) | in force | 1 | 1997-11-07 | 1997-11-07 |
+| Odluka o izmjeni i dopuni Odluke o zabrani uvoza šećera | [`odluka/1997/1767/`](odluka/1997/1767/) | amending act | 1 | 1997-11-07 | 1997-11-07 |
+| Odluka o davanju suglasnosti na Odluku o zamjeni nekretnina | [`odluka/1997/1837/`](odluka/1997/1837/) | in force | 1 | 1997-11-20 | 1997-11-20 |
+| Odluka o prijenosu prava vlasništva na nekretnini u vlasništvu Republike Hrvatske na Općinu Jelsa | [`odluka/1997/1869/`](odluka/1997/1869/) | in force | 1 | 1997-12-02 | 1997-12-02 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Zavrelje | [`odluka/1997/1870/`](odluka/1997/1870/) | in force | 1 | 1997-11-27 | 1997-11-27 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`odluka/1997/1871/`](odluka/1997/1871/) | in force | 1 | 1997-11-27 | 1997-11-27 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Bayerische Landesbank Girocentrale, Munchen, koji će se koristiti za kreditiranje poljoprivredne mehanizacije poljoprivrednim gos | [`odluka/1997/1880/`](odluka/1997/1880/) | in force | 1 | 1997-11-28 | 1997-11-28 |
+| Odluka o dopuni Odluke o sanaciji određenih poduzeća | [`odluka/1997/1896/`](odluka/1997/1896/) | amending act | 1 | 1997-12-09 | 1997-12-09 |
+| Odluka o uvjetima za obavljanje pojedinih bankovnih poslova | [`odluka/1997/1932/`](odluka/1997/1932/) | in force | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o osnovici i stopi za obračunavanje i plaćanje doprinosa Hrvatskoj gospodarskoj komori u 1998. godini | [`odluka/1997/1942/`](odluka/1997/1942/) | in force | 1 | 1997-12-20 | 1997-12-20 |
+| Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda za razdoblje od lipnja do listopada 1997. godine | [`odluka/1997/1980/`](odluka/1997/1980/) | in force | 1 | 1997-12-24 | 1997-12-24 |
+| Odluka o stavljanju izvan snage Odluke o osnivanju dioničkog društva Autocesta Rijeka-Zagreb- Goričan d.d. i dodjeli koncesije za građenje i gospodarenje autocestom Rijeka-Zagreb-Goričan | [`odluka/1997/1993/`](odluka/1997/1993/) | in force | 1 | 1997-12-23 | 1997-12-23 |
+| Odluka o isključenju iz opće uporabe dijela pomorskog dobra radi izgradnje objekta infrastrukture od interesa za Republiku Hrvatsku, na lokaciji "Plat-Dubrovnik | [`odluka/1997/1995/`](odluka/1997/1995/) | in force | 1 | 1997-12-18 | 1997-12-18 |
+| Odluka o prestanku primjene odredaba stavka 1. članka 32. Zakona o Hrvatskim željeznicama | [`odluka/1997/1996/`](odluka/1997/1996/) | in force | 1 | 1997-12-18 | 1997-12-18 |
+| Odluka o izmjeni Odluke o obustavi investicijskih ulaganja u zdravstvenim ustanovama uključenim u mrežu zdravstvene djelatnosti Republike Hrvatske | [`odluka/1997/2010/`](odluka/1997/2010/) | in force | 1 | 1997-12-29 | 1997-12-29 |
+| Odluka o davanju suglasnosti na Financijski plan za 1998. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/1997/2016/`](odluka/1997/2016/) | in force | 1 | 1997-12-30 | 1997-12-30 |
+| Odluka o izmjenama i dopuni Odluke o vrsti, količini i vrijednosti predmeta koji se uvoze uz primjenu carinskih povlastica | [`odluka/1997/2022/`](odluka/1997/2022/) | amending act | 1 | 1997-12-31 | 1997-12-31 |
+| Odluka o izmjeni Odluke o određivanju robe koja se izvozi na temelju kontingenata | [`odluka/1997/2025/`](odluka/1997/2025/) | in force | 1 | 1997-12-31 | 1997-12-31 |
+| Odluka o obveznim uputama za provedbu politike plaća u 1998. godini | [`odluka/1997/2027/`](odluka/1997/2027/) | in force | 1 | 1997-12-30 | 1997-12-30 |
+| Odluka o zajamčenoj cijeni pšenice roda 1998. godine | [`odluka/1997/4870/`](odluka/1997/4870/) | in force | 1 | 1997-09-20 | 1997-09-20 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Erste Bank, Beč, koji će se koristiti za kreditiranje isporuke motokultivatora TPS "Labinprogres" d.d., Labi | [`odluka/1998/6/`](odluka/1998/6/) | in force | 1 | 1997-12-22 | 1997-12-22 |
+| Odluka o izmjeni Odluke o davanju koncesije na pomorsko dobro u svrhu izgradnje i gospodarskog korištenja obale za prihvat ugljena i sustava ras- hladne vode, luke posebne namjene - industrijske luke | [`odluka/1998/17/`](odluka/1998/17/) | in force | 1 | 1997-12-30 | 1997-12-30 |
+| Odluka o osnivanju Povjerenstva za potporu potrošača | [`odluka/1998/28/`](odluka/1998/28/) | in force | 1 | 1998-01-08 | 1998-01-08 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Bakar | [`odluka/1998/29/`](odluka/1998/29/) | in force | 1 | 1998-01-08 | 1998-01-08 |
+| Odluka o dopuni Odluke o prodaji deviza domaćim fizičkim osobama | [`odluka/1998/44/`](odluka/1998/44/) | amending act | 1 | 1998-01-13 | 1998-01-13 |
+| Odluka o datumu početka osiguranja štednih uloga | [`odluka/1998/51/`](odluka/1998/51/) | in force | 1 | 1998-01-13 | 1998-01-13 |
+| Odluka o ustanovljenju posebne spomen medalje u prigodi posvemašnjeg vraćanja pod državni suverenitet, odnosno u ustavnopravni poredak Republike Hrvatske područja Hrvatskog Podunavlja koje je bilo pod | [`odluka/1998/56/`](odluka/1998/56/) | in force | 1 | 1998-01-16 | 1998-01-16 |
+| Odluka o računanju vremena u 1998. godini. | [`odluka/1998/60/`](odluka/1998/60/) | in force | 1 | 1998-01-24 | 1998-01-24 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu | [`odluka/1998/130/`](odluka/1998/130/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni kod | [`odluka/1998/131/`](odluka/1998/131/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za produženo mirovinsko i invalidsko osiguranje | [`odluka/1998/132/`](odluka/1998/132/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1998/133/`](odluka/1998/133/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završene izobrazbe nalaze na | [`odluka/1998/134/`](odluka/1998/134/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima | [`odluka/1998/135/`](odluka/1998/135/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom | [`odluka/1998/136/`](odluka/1998/136/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o najnižoj osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja i za plaćanje doprinosa za doplatak za djecu | [`odluka/1998/137/`](odluka/1998/137/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima | [`odluka/1998/138/`](odluka/1998/138/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o pokretanju postupka revizije poslova, odnosno radnih zadataka iz članka 3. i 4. Odluke o utvrđivanju poslova odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1998/139/`](odluka/1998/139/) | in force | 1 | 1998-02-04 | 1998-02-04 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske. | [`odluka/1998/150/`](odluka/1998/150/) | in force | 1 | 1998-01-28 | 1998-01-28 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Gradskom komunalnom poduzeću "Komunalac" d.o.o., Koprivnica | [`odluka/1998/154/`](odluka/1998/154/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću "Bjelovar" s p.o., Bjelovar | [`odluka/1998/156/`](odluka/1998/156/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom komunalnom poduzeću "Vodovod i kanalizacija", Split | [`odluka/1998/157/`](odluka/1998/157/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću za vodovod i kanalizaciju "Vodovod" s p.o., Makarska | [`odluka/1998/158/`](odluka/1998/158/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Komunalcu" d.o.o., Korenica | [`odluka/1998/159/`](odluka/1998/159/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom poduzeću "Vodovod", Omiš | [`odluka/1998/160/`](odluka/1998/160/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu i kanalizaciji" d.o.o., Karlovac | [`odluka/1998/161/`](odluka/1998/161/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodoprivredi" s p.o., Čakovec | [`odluka/1998/162/`](odluka/1998/162/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Zagorskom vodovodu" d.o.o., Zabok | [`odluka/1998/163/`](odluka/1998/163/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu" d.o.o. za vodoopskrbu i odvodnju, Slavonski Brod | [`odluka/1998/164/`](odluka/1998/164/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Komunalcu" d.o.o., Otočac | [`odluka/1998/165/`](odluka/1998/165/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o dodjeli koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb | [`odluka/1998/166/`](odluka/1998/166/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`odluka/1998/167/`](odluka/1998/167/) | in force | 1 | 1998-01-22 | 1998-01-22 |
+| Odluka o izmjeni Odluke o naknadama i nagradi za rad predsjednika i članova Državnog sudbenog vijeća | [`odluka/1998/182/`](odluka/1998/182/) | in force | 1 | 1998-01-30 | 1998-01-30 |
+| Odluka o prestanku važenja Odluke o postupcima za ustroj i provedbu projekta sustava državne rzinice | [`odluka/1998/208/`](odluka/1998/208/) | in force | 1 | 1998-01-29 | 1998-01-29 |
+| Odluka o izmjeni i dopuni Odluke o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1998/221/`](odluka/1998/221/) | amending act | 1 | 1997-10-23 | 1997-10-23 |
+| Odluka o izmjeni i dopuni Odluke o sanaciji i restrukturiranju Splitske banke d.d., Split | [`odluka/1998/283/`](odluka/1998/283/) | amending act | 1 | 1998-02-19 | 1998-02-19 |
+| Odluka o davanju suglasnosti za zatvaranje Konzulata Republike Hrvatske u Švicarskoj Konfederaciji, sa sjedištem u Solothurnu | [`odluka/1998/319/`](odluka/1998/319/) | in force | 1 | 1998-02-17 | 1998-02-17 |
+| Odluka o rasporedu sredstava Državnog proračuna Republike Hrvatske za 1998. godinu, za održavanje županijskih i lokalnih cesta | [`odluka/1998/321/`](odluka/1998/321/) | in force | 1 | 1998-02-27 | 1998-02-27 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Kärntner Landes - und hypothekenbank AG, Klagenfurt, koji će se koristiti za kreditiranje domaćih kupaca kod kupnje traktora "To | [`odluka/1998/348/`](odluka/1998/348/) | in force | 1 | 1998-02-20 | 1998-02-20 |
+| Odluka o davanju suglasnosti Virovitičko-podravskoj županiji na sklapanje ugovora o kreditu s Kärntner Landes - und hypothekenbank AG, Klagenfurt, za program kreditiranja domaćih kupaca kod kupnje tra | [`odluka/1998/349/`](odluka/1998/349/) | in force | 1 | 1998-02-20 | 1998-02-20 |
+| Odluka o dopuni Odluke o vrstama radijskih postaja za koje se ne izdaje dozvola | [`odluka/1998/367/`](odluka/1998/367/) | amending act | 1 | 1998-03-06 | 1998-03-06 |
+| Odluka o prijenosu nekretnine u vlasništvu Republike Hrvatske u vlasništvo Zadarskoj nadbiskupiji u Zadru | [`odluka/1998/389/`](odluka/1998/389/) | in force | 1 | 1998-03-05 | 1998-03-05 |
+| Odluka o prihvatu darovanja nekretnina | [`odluka/1998/390/`](odluka/1998/390/) | in force | 1 | 1998-03-05 | 1998-03-05 |
+| Odluka o najnižem iznosu osnovice za naplatu doprinosa za obvezno zdravstveno osiguranje osiguranika poljoprivrednika | [`odluka/1998/410/`](odluka/1998/410/) | in force | 1 | 1998-03-10 | 1998-03-10 |
+| Odluka o izmjeni Odluke o upravljanju nacionalnim parkovima "Plitvička jezera", "Paklenica", "Risnjak", "Mljet", "Kornati", "Krka" i parkom prirode "Telaščica" | [`odluka/1998/418/`](odluka/1998/418/) | in force | 1 | 1998-03-11 | 1998-03-11 |
+| Odluka o dodjeli koncesije za crpljenje mineralnih voda "Podravki" d.d., Koprivnica | [`odluka/1998/419/`](odluka/1998/419/) | in force | 1 | 1998-03-05 | 1998-03-05 |
+| Odluka o dodjeli koncesije za crpljenje mineralnih voda "Jamnici" d.d. Zagreb | [`odluka/1998/420/`](odluka/1998/420/) | in force | 1 | 1998-03-05 | 1998-03-05 |
+| Odluka o dodjeli koncesije za crpljenje mineralnih voda "Apatovačkoj kiselici" d.o.o. Križevci | [`odluka/1998/421/`](odluka/1998/421/) | in force | 1 | 1998-03-05 | 1998-03-05 |
+| Odluka o isplati naknade proizvođačima svježeg pasteriziranog mlijeka u 1998. godini | [`odluka/1998/457/`](odluka/1998/457/) | in force | 1 | 1998-03-17 | 1998-03-17 |
+| Odluka o proširenju primjene Kolektivnog ugovora o visini najniže plaće | [`odluka/1998/465/`](odluka/1998/465/) | in force | 1 | 1998-03-18 | 1998-03-18 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda Specijalnoj bolnici za medicinsku rehabilitaciju Daruvarske toplice | [`odluka/1998/483/`](odluka/1998/483/) | in force | 1 | 1998-03-12 | 1998-03-12 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda Turističko rekreacijskom centru "Mihanović" d.d., Tuheljske toplice | [`odluka/1998/484/`](odluka/1998/484/) | in force | 1 | 1998-03-12 | 1998-03-12 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda Specijalnoj bolnici za medicinsku rehabilitaciju Stubičke toplice | [`odluka/1998/485/`](odluka/1998/485/) | in force | 1 | 1998-03-12 | 1998-03-12 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda Ugostiteljsko turističkom poduzeću "Ivančica" d.d., Zlatar | [`odluka/1998/486/`](odluka/1998/486/) | in force | 1 | 1998-03-12 | 1998-03-12 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Murter - Betina | [`odluka/1998/487/`](odluka/1998/487/) | in force | 1 | 1998-03-12 | 1998-03-12 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom poduzeću "Vodovod Hrvatsko primorje" Južni ogranak d.o.o., Sen | [`odluka/1998/495/`](odluka/1998/495/) | in force | 1 | 1998-03-12 | 1998-03-12 |
+| Odluka o izdavanju obveznica Republike Hrvatske u iznosu od ESP 15.000.000.000,00 | [`odluka/1998/496/`](odluka/1998/496/) | in force | 1 | 1998-03-19 | 1998-03-19 |
+| Odluka o dopuni Odluke s oznakama činova i dužnosti u Oružanim snagama Republike Hrvatske | [`odluka/1998/516/`](odluka/1998/516/) | amending act | 1 | 1998-04-04 | 1998-04-04 |
+| Odluka o utvrđivanju vrijednosti etalonskog stana u 1998. godini | [`odluka/1998/520/`](odluka/1998/520/) | in force | 1 | 1998-01-16 | 1998-01-16 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Krmpote | [`odluka/1998/539/`](odluka/1998/539/) | in force | 1 | 1998-03-26 | 1998-03-26 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Poljane i k.o. Veprinac | [`odluka/1998/540/`](odluka/1998/540/) | in force | 1 | 1998-03-26 | 1998-03-26 |
+| Odluka o zamjeni nekretnina između Republike Hrvatske i Grada Imotskog | [`odluka/1998/541/`](odluka/1998/541/) | in force | 1 | 1998-03-26 | 1998-03-26 |
+| Odluka o izmjeni Odluke o davanju potpore poduzetnicima za korištenje usluga konzultanata, članova Hrvatske mreže konzultanata | [`odluka/1998/559/`](odluka/1998/559/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluka o izmjeni i dopuni Poslovnika o radu Komisije za praćenje rada Hrvatske mreže konzultanata | [`odluka/1998/560/`](odluka/1998/560/) | amending act | 1 | 1998-03-25 | 1998-03-25 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države na području Sisačko-moslavačke županije | [`odluka/1998/595/`](odluka/1998/595/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluka o dopuni Odluke o uvjetima za odobrenje kratkoročnog kredita na osnovi zaloga vrijednosnih papira (lombardni krediti) | [`odluka/1998/599/`](odluka/1998/599/) | amending act | 1 | 1998-04-06 | 1998-04-06 |
+| Odluka o izmjeni i dopuni Odluke o obvezi ovlaštenih banaka i štedionica da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1998/601/`](odluka/1998/601/) | amending act | 1 | 1998-04-06 | 1998-04-06 |
+| Odluka o izdavanju i prodaji prigodnoga zlatnog i srebrenog kovanog novca "100. obljetnica rođenja kardinala Alojzija Stepinca | [`odluka/1998/602/`](odluka/1998/602/) | in force | 1 | 1998-04-06 | 1998-04-06 |
+| Odluka o davanju koncesije (odobrenja) za prošireno eksploatacijsko polje plina "Gola" radi eksploatacije plin | [`odluka/1998/610/`](odluka/1998/610/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Preko | [`odluka/1998/611/`](odluka/1998/611/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Ledenice | [`odluka/1998/612/`](odluka/1998/612/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita koji će se koristiti za kreditiranje domaćih kupaca poljoprivredne mehanizacije | [`odluka/1998/622/`](odluka/1998/622/) | in force | 1 | 1998-04-03 | 1998-04-03 |
+| Odluka o osnivanju Koordinacije za europske integracije | [`odluka/1998/646/`](odluka/1998/646/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluku o davanju jamstva Vlade Republike Hrvatske i ovlaštenju Ministarstva financija da izda i ministru financija da potpiše jamstvo | [`odluka/1998/647/`](odluka/1998/647/) | in force | 1 | 1998-04-02 | 1998-04-02 |
+| Odluka o izmjenama i dopunama Odluke o troškovima u postupku bez međunarodnog elementa pred Stalnim izbranim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/1998/701/`](odluka/1998/701/) | amending act | 1 | 1998-04-29 | 1998-04-29 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Vijeća obrane i nacionalne sigurnosti | [`odluka/1998/706/`](odluka/1998/706/) | amending act | 1 | 1998-04-03 | 1998-04-03 |
+| Odluka o prestanku važenja Odluke o zabrani uvoza šećera | [`odluka/1998/721/`](odluka/1998/721/) | in force | 1 | 1998-05-02 | 1998-05-02 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom društvu "Vodovod i kanalizacija" d.o.o. - Rijeka - izvor "Dobrica" - Bakar | [`odluka/1998/739/`](odluka/1998/739/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe vodoopskrbnom poduzeću "Istarski vodovod" d.o.o. - Buzet | [`odluka/1998/740/`](odluka/1998/740/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom društvu "Vodovod i kanalizacija" d.o.o. - Rijeka - izvor "Perilo" - Bakar | [`odluka/1998/741/`](odluka/1998/741/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe poduzeću "Velkom" d.o.o. - Velika Gorica | [`odluka/1998/742/`](odluka/1998/742/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe poduzeću "Vodovod i odvodnja" d.o.o. - Zagreb | [`odluka/1998/743/`](odluka/1998/743/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu i odvodnji", Šibenik | [`odluka/1998/745/`](odluka/1998/745/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom društvu "Vodovod i kanalizacija" d.o.o. - Rijeka - izvor "Zvir 2" - Rijeka | [`odluka/1998/746/`](odluka/1998/746/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom društvu "Vodovod i kanalizacija" d.o.o. - Rijeka -izvor "Martinšćica" - Rijeka | [`odluka/1998/747/`](odluka/1998/747/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom javnom poduzeću "Rad" s p.o. iz Drniša | [`odluka/1998/748/`](odluka/1998/748/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Neretvansko-Pelješko-Korčulansko-Lastovskom vodovodu d.o.o., Korčula | [`odluka/1998/749/`](odluka/1998/749/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Komunalnom poduzeću" s p.o.o., Knin | [`odluka/1998/750/`](odluka/1998/750/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe KD "Vodovod i kanalizacija", Rijeka - Izvor Rječine | [`odluka/1998/751/`](odluka/1998/751/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu" d.o.o., Zadar | [`odluka/1998/753/`](odluka/1998/753/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe JKP "Usluga" d.o.o., Gospić | [`odluka/1998/754/`](odluka/1998/754/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu Dubrovnik" s p.o., Dubrovnik | [`odluka/1998/755/`](odluka/1998/755/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe poduzeću za komunalne djelatnosti "Ponikve" d.o.o., Krk | [`odluka/1998/756/`](odluka/1998/756/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Javnom komunalnom poduzeću "Vodovod i čistoća", Sinj | [`odluka/1998/757/`](odluka/1998/757/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama "Hrvatskim šumama", Zagreb, Ribnjačarstvu d.o.o., Lipovljani | [`odluka/1998/759/`](odluka/1998/759/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o davanju koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Ihtiološko-ornitološkom parku d.d., Jastrebarsko | [`odluka/1998/760/`](odluka/1998/760/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama za uzgoj riba u zatvorenim vodama Poljoprivrednom poduzeću Orahovica d.d., Orahovica | [`odluka/1998/761/`](odluka/1998/761/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Ribnjačarstvu Poljana d.d., Kaniška Iva | [`odluka/1998/762/`](odluka/1998/762/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Ribnjačarstvu Končanica d.d., Končanica | [`odluka/1998/763/`](odluka/1998/763/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću "Varkom" s p.o., Varaždin | [`odluka/1998/764/`](odluka/1998/764/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Ribnjačarstvu "Dubrava" d.o.o., Dubrava | [`odluka/1998/765/`](odluka/1998/765/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda Lječilištu Topusko | [`odluka/1998/766/`](odluka/1998/766/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Veterinarskoj stanici d.d., Koprivnica | [`odluka/1998/767/`](odluka/1998/767/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Ribnjačarstvu "Siščani-Dubrava" d.o.o., Siščani | [`odluka/1998/768/`](odluka/1998/768/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Jaruga | [`odluka/1998/769/`](odluka/1998/769/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Golubić | [`odluka/1998/770/`](odluka/1998/770/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Dioničkom društvu za proizvodnju ribe i riblje mlađi "Riba", Garešnica | [`odluka/1998/771/`](odluka/1998/771/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama Ribarskom centru d.o.o., Zagreb | [`odluka/1998/772/`](odluka/1998/772/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću "Izvor", Ploče | [`odluka/1998/773/`](odluka/1998/773/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o osnivanju Državnog povjerenstva za povijesne i ratne žrtve | [`odluka/1998/785/`](odluka/1998/785/) | in force | 1 | 1998-04-23 | 1998-04-23 |
+| Odluka o visini doprinosa u korist Hrvatskog Crvenog križa | [`odluka/1998/791/`](odluka/1998/791/) | in force | 1 | 1998-05-05 | 1998-05-05 |
+| Odluka o osnivanju Povjerenstva za pitanja kloniranja i ljudskog genoma | [`odluka/1998/792/`](odluka/1998/792/) | in force | 1 | 1998-05-06 | 1998-05-06 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države na području Vukovarsko-srijemske županije | [`odluka/1998/825/`](odluka/1998/825/) | in force | 1 | 1998-04-30 | 1998-04-30 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države na području Virovitičko-podravske županije | [`odluka/1998/844/`](odluka/1998/844/) | in force | 1 | 1998-04-30 | 1998-04-30 |
+| Odluka o prestanku važenja Odluke o zabrani uvoza živih svinja za klanje i svinjskog mesa | [`odluka/1998/858/`](odluka/1998/858/) | in force | 1 | 1998-05-19 | 1998-05-19 |
+| Odluka o prijenosu sredstava (nekretnine, pokretnine i materijalna prava) u vlasništvo Hrvatske kontrole zračne plovidbe, društvo s ograničenom odgovornošću | [`odluka/1998/859/`](odluka/1998/859/) | in force | 1 | 1998-05-14 | 1998-05-14 |
+| Odluka o izmjeni sastava Vijeća obrane i nacionalne sigurnosti | [`odluka/1998/880/`](odluka/1998/880/) | in force | 1 | 1998-05-18 | 1998-05-18 |
+| Odluka o izmjeni i dopuni Odluke o uvođenju depozita na inozemne financijske kredite, devizne depozite i izdane garancije | [`odluka/1998/890/`](odluka/1998/890/) | amending act | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o rješavanju statusa nepreuzetih djelatnika bivših organa i tijela uprave sa područja istočne Slavonije, Baranje i zapadnog Srijema | [`odluka/1998/892/`](odluka/1998/892/) | in force | 1 | 1998-05-26 | 1998-05-26 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1997. radi određivanja naknade plaće zbog manje plaće na drugom poslu | [`odluka/1998/908/`](odluka/1998/908/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. ožujka 1998. | [`odluka/1998/923/`](odluka/1998/923/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1998. | [`odluka/1998/924/`](odluka/1998/924/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1998. | [`odluka/1998/927/`](odluka/1998/927/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o usklađivanju doplatka za djecu i cenzus prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1998. | [`odluka/1998/928/`](odluka/1998/928/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja za godinu 1998. | [`odluka/1998/942/`](odluka/1998/942/) | in force | 1 | 1998-06-03 | 1998-06-03 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1998. | [`odluka/1998/944/`](odluka/1998/944/) | in force | 1 | 1998-06-03 | 1998-06-03 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1997. | [`odluka/1998/945/`](odluka/1998/945/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o izmjeni Odluke o novčanoj naknadi udovici osiguranika koja nije stekla pravo na obiteljsku mirovinu | [`odluka/1998/958/`](odluka/1998/958/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizacijama internatskog tipa | [`odluka/1998/959/`](odluka/1998/959/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1998/960/`](odluka/1998/960/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Dubrovnik | [`odluka/1998/980/`](odluka/1998/980/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Peruča | [`odluka/1998/982/`](odluka/1998/982/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za hidroenergetski sustav HE Orlovac | [`odluka/1998/983/`](odluka/1998/983/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, u HE Kraljevac | [`odluka/1998/984/`](odluka/1998/984/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za hidroenergetski sustav HE Sklope i HE Senj | [`odluka/1998/985/`](odluka/1998/985/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, u RHE Velebit | [`odluka/1998/986/`](odluka/1998/986/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Gojak | [`odluka/1998/987/`](odluka/1998/987/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Čakovec | [`odluka/1998/988/`](odluka/1998/988/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Varaždin | [`odluka/1998/989/`](odluka/1998/989/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za hidroenergetski sustav HE Vinodol | [`odluka/1998/990/`](odluka/1998/990/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, u HE Đale | [`odluka/1998/991/`](odluka/1998/991/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Rijeka | [`odluka/1998/992/`](odluka/1998/992/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, u HE Miljacka | [`odluka/1998/993/`](odluka/1998/993/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o davanju koncesije za korištenje vodne snage radi proizvodnje električne energije "Hrvatskoj elektroprivredi" d.d., Zagreb, za HE Dubrava | [`odluka/1998/994/`](odluka/1998/994/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Visa, Općinsko vijeće Općine Gradac i Općinsko vijeće Općine Pušća | [`odluka/1998/1024/`](odluka/1998/1024/) | in force | 1 | 1998-05-29 | 1998-05-29 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka i štedionica | [`odluka/1998/1033/`](odluka/1998/1033/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Nuova Banca di Credito di Trieste, Trst, koji će se koristiti za kreditiranje isporuke motokultivatora TPS "Labinprogres" d.d. Labin | [`odluka/1998/1060/`](odluka/1998/1060/) | in force | 1 | 1997-05-29 | 1997-05-29 |
+| Odluka o izmjenama Odluke o određivanju robe koja se izvozi na temelju kontingenata | [`odluka/1998/1089/`](odluka/1998/1089/) | in force | 1 | 1998-06-09 | 1998-06-09 |
+| Odluka o izmjenama Odluke o opsegu kontingenata za izvoz robe u 1998. godini | [`odluka/1998/1090/`](odluka/1998/1090/) | in force | 1 | 1998-06-09 | 1998-06-09 |
+| Odluka o prestanku važenja Odluke o zabrani izvoza pšenice i pšeničnog brašna | [`odluka/1998/1091/`](odluka/1998/1091/) | in force | 1 | 1998-06-09 | 1998-06-09 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Nerezine | [`odluka/1998/1092/`](odluka/1998/1092/) | in force | 1 | 1998-06-04 | 1998-06-04 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Senj | [`odluka/1998/1093/`](odluka/1998/1093/) | in force | 1 | 1998-06-04 | 1998-06-04 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju mjerno-redukcijske stanice (MRS) Magadenovac | [`odluka/1998/1094/`](odluka/1998/1094/) | in force | 1 | 1998-06-09 | 1998-06-09 |
+| Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Bayerische Vereinsbank, Munchen, koji će se koristiti za kreditiranje isporuke traktora tvrtke "Astra Industrija-Progres" d.o.o., Jastrebarsko | [`odluka/1998/1109/`](odluka/1998/1109/) | in force | 1 | 1998-06-03 | 1998-06-03 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnog kovanog novca od 25 kuna "Expo-Lisabon, 1998. | [`odluka/1998/1119/`](odluka/1998/1119/) | in force | 1 | 1998-06-09 | 1998-06-09 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "1998. | [`odluka/1998/1120/`](odluka/1998/1120/) | in force | 1 | 1998-06-09 | 1998-06-09 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnog kovanog novca od 25 kuna "Expo-Lisabon, 1998. | [`odluka/1998/1141/`](odluka/1998/1141/) | in force | 1 | 1998-06-11 | 1998-06-11 |
+| Odluka o izmjeni Odluke o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku zanimanja obavljaju profesionalnu djelatnost za osiguranike-vrhunske športaše koji amaterski obavljaju športsku djelatnost | [`odluka/1998/1156/`](odluka/1998/1156/) | in force | 1 | 1998-06-17 | 1998-06-17 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osnovica osiguranja iz prijašnjih godina prema razini osnovica osiguranja iz godine 1998. | [`odluka/1998/1157/`](odluka/1998/1157/) | in force | 1 | 1998-06-24 | 1998-06-24 |
+| Odluka o izmjenama i dopunama Odluke o Hrvatskoj komisiji za suradnju s Organizacijom Ujedinjenih naroda za prosvjetu, znanost i kulturu | [`odluka/1998/1177/`](odluka/1998/1177/) | amending act | 1 | 1998-06-24 | 1998-06-24 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju benzinske postaje sa pratećim sadržajima u k.o. Nedešćina | [`odluka/1998/1195/`](odluka/1998/1195/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju Tvornice cementa "Koromačno" - II faza, u k.o. Skitač | [`odluka/1998/1196/`](odluka/1998/1196/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o prestanku važenja Odluke o obvezi ovlaštenih banaka i štedionica da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1998/1208/`](odluka/1998/1208/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o izmjeni Odluke o iznošenju i unošenju efektivnih kuna u putničkom prometu s inozemstvom | [`odluka/1998/1210/`](odluka/1998/1210/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o izmjeni Odluke o visini i načinu formiranja posebnih rezervi za osiguranje od potencijalnih gubitaka banaka i štedionica | [`odluka/1998/1211/`](odluka/1998/1211/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o izmjeni Odluke o raspoređivanju aktivnih bilančnih i izvanbilančnih stavaka banaka i štedionica | [`odluka/1998/1212/`](odluka/1998/1212/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o izmjeni Odluke o načinu izračunavanja adekvatnosti kapitala i ponderirane rizične aktive banaka i štedionica | [`odluka/1998/1213/`](odluka/1998/1213/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o izmjeni Odluke o načinu izračunavanja kapitala banaka i štedionica | [`odluka/1998/1214/`](odluka/1998/1214/) | in force | 1 | 1998-06-26 | 1998-06-26 |
+| Odluka o izmjeni Odluke o načinu i uvjetima odobravanja kredita za premošćivanje nelikvidnosti banaka nad kojima je pokrenut postupak za ocjenu mogućnosti i ekonomske opravdanosti sanacije i restrukturiranja banke | [`odluka/1998/1215/`](odluka/1998/1215/) | in force | 1 | 1998-06-23 | 1998-06-23 |
+| Odluka o izmjenama i dopunama Poslovnika Zastupničkog doma Sabora Republike Hrvatske | [`odluka/1998/1218/`](odluka/1998/1218/) | amending act | 1 | 1998-06-19 | 1998-06-19 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Naftnog polja Crnac - buš. Crnac - 15, 16, 17, sa pristupnim putem, buš. Crnac 13, 14, buš. Crnac 12, 18, sa pristupnim putem i priključni | [`odluka/1998/1222/`](odluka/1998/1222/) | in force | 1 | 1998-06-30 | 1998-06-30 |
+| Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 1998. godinu Republičkog fonda mirovinskog i invalidskog osiguranja | [`odluka/1998/1228/`](odluka/1998/1228/) | amending act | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 1998. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1998/1229/`](odluka/1998/1229/) | amending act | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 1998. godinu Zavodu za zapošljavanje | [`odluka/1998/1230/`](odluka/1998/1230/) | amending act | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 1998. godinu sredstava doplatka za djecu | [`odluka/1998/1231/`](odluka/1998/1231/) | amending act | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o davanju suglasnosti na izmjene i dopune Financijskog plana za 1998. godinu Hrvatskih voda | [`odluka/1998/1232/`](odluka/1998/1232/) | amending act | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 1998. i 1999. godinu | [`odluka/1998/1251/`](odluka/1998/1251/) | in force | 1 | 1998-07-07 | 1998-07-07 |
+| Odluka o utvrđivanju visine boravišne pristojbe za 1999. godinu | [`odluka/1998/1252/`](odluka/1998/1252/) | in force | 1 | 1998-07-07 | 1998-07-07 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - oprema (1999) | [`odluka/1998/1265/`](odluka/1998/1265/) | in force | 1 | 1999-01-01 | 1999-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - sredstva za signalizaciju i pomagala za navigaciju (1999) | [`odluka/1998/1271/`](odluka/1998/1271/) | in force | 1 | 1999-01-01 | 1999-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - stabilitet, Izmjene i dopune (1998) | [`odluka/1998/1276/`](odluka/1998/1276/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - pregrađivanje, Izmjene i dopune (1998) | [`odluka/1998/1277/`](odluka/1998/1277/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - nadvođe, Izmjene i dopune (1998) | [`odluka/1998/1278/`](odluka/1998/1278/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - strojni uređaj, Izmjene i dopune (1998) | [`odluka/1998/1279/`](odluka/1998/1279/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - rashladni uređaji, Izmjene i dopune (1998) | [`odluka/1998/1282/`](odluka/1998/1282/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - materijali, Izmjene i dopune (1998) | [`odluka/1998/1283/`](odluka/1998/1283/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - tankeri za kemikalije, Izmjene i dopune (1998) | [`odluka/1998/1296/`](odluka/1998/1296/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - kontejneri, Izmjene i dopune (1998) | [`odluka/1998/1297/`](odluka/1998/1297/) | amending act | 1 | 1998-08-01 | 1998-08-01 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju naftovoda Slobodnica - Donja Vrba | [`odluka/1998/1304/`](odluka/1998/1304/) | in force | 1 | 1998-07-14 | 1998-07-14 |
+| Odluka o izmjeni Odluke o osnivanju i zadaćama Nacionalnog odbora za obrazovanje o ljudskim pravima | [`odluka/1998/1331/`](odluka/1998/1331/) | in force | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Libanonskoj Republici, sa sjedištem u Bejrutu | [`odluka/1998/1335/`](odluka/1998/1335/) | in force | 1 | 1998-07-01 | 1998-07-01 |
+| Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske u vlasništvo Caritasa Nadbiskupije Zagreb | [`odluka/1998/1348/`](odluka/1998/1348/) | in force | 1 | 1998-07-16 | 1998-07-16 |
+| Odluka o izmjeni Odluke o utvrđivanju granica vodnih područja | [`odluka/1998/1349/`](odluka/1998/1349/) | in force | 1 | 1998-07-28 | 1998-07-28 |
+| Odluka o izmjeni Odluke o utvrđivanju slivnih područja | [`odluka/1998/1350/`](odluka/1998/1350/) | in force | 1 | 1998-07-28 | 1998-07-28 |
+| Odluka o dodjeli koncesije za gospodarenje autocestom Zagreb - Goričan | [`odluka/1998/1403/`](odluka/1998/1403/) | in force | 1 | 1998-07-28 | 1998-07-28 |
+| Odluka o davanju koncesije za osnivanje slobodne zone Obrovac | [`odluka/1998/1404/`](odluka/1998/1404/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o izmjeni Odluke o zabrani uvoza pšenice, pšeničnog brašna, pšenične prekrupe i pšeničnih peleta | [`odluka/1998/1407/`](odluka/1998/1407/) | in force | 1 | 1998-07-28 | 1998-07-28 |
+| Odluka o izmjeni Odluke o sanaciji i restrukturiranju Privredne banke Zagreb, dioničko društvo, Zagreb | [`odluka/1998/1408/`](odluka/1998/1408/) | in force | 1 | 1998-07-28 | 1998-07-28 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`odluka/1998/1411/`](odluka/1998/1411/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Nin | [`odluka/1998/1412/`](odluka/1998/1412/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Sali | [`odluka/1998/1413/`](odluka/1998/1413/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Maranovići | [`odluka/1998/1415/`](odluka/1998/1415/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Tribanj | [`odluka/1998/1417/`](odluka/1998/1417/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Božava | [`odluka/1998/1418/`](odluka/1998/1418/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Sukošan | [`odluka/1998/1419/`](odluka/1998/1419/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Tkon | [`odluka/1998/1420/`](odluka/1998/1420/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o.Biograd | [`odluka/1998/1421/`](odluka/1998/1421/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Pag | [`odluka/1998/1422/`](odluka/1998/1422/) | in force | 1 | 1998-07-24 | 1998-07-24 |
+| Odluka o prestanku važenja Odluke o upravljanju nacionalnim parkovima "Plitvička jezera", "Paklenica", "Risnjak", "Mljet", "Kornati", "Krka" i parkom prirode "Telaščica" | [`odluka/1998/1424/`](odluka/1998/1424/) | in force | 1 | 1998-07-29 | 1998-07-29 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Povjerenstva za mirovinsku reformu | [`odluka/1998/1425/`](odluka/1998/1425/) | amending act | 1 | 1998-07-29 | 1998-07-29 |
+| Odluka o visini utvrđivanja uplate doprinosa za zapošljavanje | [`odluka/1998/1428/`](odluka/1998/1428/) | in force | 1 | 1998-07-29 | 1998-07-29 |
+| Odluka o izmjenama i dopunama Odluke o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1998/1451/`](odluka/1998/1451/) | amending act | 1 | 1998-08-08 | 1998-08-08 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Francuskoj Republici | [`odluka/1998/1454/`](odluka/1998/1454/) | in force | 1 | 1998-07-09 | 1998-07-09 |
+| Odluka o izmjeni i dopuni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka i štedionica za održavanje njihove dnevne likvidnosti | [`odluka/1998/1462/`](odluka/1998/1462/) | amending act | 1 | 1998-08-04 | 1998-08-04 |
+| Odluka o davanju suglasnosti Hrvatskim željeznicama za inozemstvo zaduženje kreditom EUROFIMA u visini do 40 mil. CHF | [`odluka/1998/1476/`](odluka/1998/1476/) | in force | 1 | 1998-07-31 | 1998-07-31 |
+| Odluka o dopuni Odluke o visini administrativnih pristojbi | [`odluka/1998/1495/`](odluka/1998/1495/) | amending act | 1 | 1998-08-11 | 1998-08-11 |
+| Odluka o raspisivanju izbora za Županijsku skupštinu Dubrovačko-nertvanske županije | [`odluka/1998/1496/`](odluka/1998/1496/) | in force | 1 | 1998-08-13 | 1998-08-13 |
+| Odluka o izmjeni Odluke o sanaciji "Cromax-a" d.d. Bjelovar | [`odluka/1998/1524/`](odluka/1998/1524/) | in force | 1 | 1998-08-28 | 1998-08-28 |
+| Odluka o izmjeni Odluke o odobravanju dnevnog kredita za premošćivanje problema tekuće nelikvidnosti | [`odluka/1998/1525/`](odluka/1998/1525/) | in force | 1 | 1998-09-01 | 1998-09-01 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Sjedinjenim Američkim Državama, Savezna Država Illinois, sa sjedištem u Chicagu | [`odluka/1998/1550/`](odluka/1998/1550/) | in force | 1 | 1998-08-27 | 1998-08-27 |
+| Odluka o davanju suglasnosti za sklapanje ugovora o kreditu za kupovinu zgrade Veleposlanstva Republike Hrvatske i zgrade za rezidenciju veleposlanika Republike Hrvatske u Berlinu | [`odluka/1998/1554/`](odluka/1998/1554/) | in force | 1 | 1998-09-09 | 1998-09-09 |
+| Odluka o prestanku sanacije "Cromax"-a d.d., Bjelovar | [`odluka/1998/1566/`](odluka/1998/1566/) | in force | 1 | 1998-09-22 | 1998-09-22 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Državi Izrael, sa sjedištem u Tel Avivu | [`odluka/1998/1572/`](odluka/1998/1572/) | in force | 1 | 1998-09-17 | 1998-09-17 |
+| Odluka o izmjenama Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1998/1602/`](odluka/1998/1602/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| Odluka o prestanku važenja Odluke o zabrani uvoza pšenice, pšeničnog brašna, pšenične prekrupe i pšeničnih peleta | [`odluka/1998/1603/`](odluka/1998/1603/) | in force | 1 | 1998-10-17 | 1998-10-17 |
+| Odluka o prestanku važenja Odluke o određivanju robe koja se izvozi na temelju kontingenata | [`odluka/1998/1604/`](odluka/1998/1604/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| Odluka o kratkoročnom zaduženju Republike Hrvatske u iznosu od USD 50.000.000,00 | [`odluka/1998/1615/`](odluka/1998/1615/) | in force | 1 | 1998-10-08 | 1998-10-08 |
+| Odluka o izmjeni i dopuni Odluke o uvođenju depozita na inozemne financijske kredite | [`odluka/1998/1645/`](odluka/1998/1645/) | amending act | 1 | 1998-10-19 | 1998-10-19 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. srpnja 1998. | [`odluka/1998/1654/`](odluka/1998/1654/) | in force | 1 | 1998-10-20 | 1998-10-20 |
+| Odluka o raspuštanju Općinskog vijeća Općine Ljubešćica | [`odluka/1998/1670/`](odluka/1998/1670/) | in force | 1 | 1998-10-20 | 1998-10-20 |
+| Odluka o raspuštanju Općinskog vijeća Općine Mače | [`odluka/1998/1671/`](odluka/1998/1671/) | in force | 1 | 1998-10-20 | 1998-10-20 |
+| Odluka o dopuni Odluke o kriterijima za carinski kontingent | [`odluka/1998/1672/`](odluka/1998/1672/) | amending act | 1 | 1998-10-20 | 1998-10-20 |
+| Odluka o zaduženju Republike Hrvatske u iznosu od USD 100.000.000,00 | [`odluka/1998/1719/`](odluka/1998/1719/) | in force | 1 | 1998-10-22 | 1998-10-22 |
+| Odluka o davanju suglasnosti na Izjavu o dopuni djelatnosti i usklađivanju općih akata i temeljnog kapitala ŻImostroja ImotskiŽ d.o.o., Imotski, sa Zakonom o trgovačkim društvima | [`odluka/1998/1720/`](odluka/1998/1720/) | amending act | 1 | 1998-10-15 | 1998-10-15 |
+| Odluka o plaći Predsjednika Republike Hrvatske | [`odluka/1998/1762/`](odluka/1998/1762/) | in force | 1 | 1998-10-30 | 1998-10-30 |
+| Odluka o plaći predsjednika Hrvatskoga državnog sabora | [`odluka/1998/1763/`](odluka/1998/1763/) | in force | 1 | 1998-10-30 | 1998-10-30 |
+| Odluka o plaći predsjednika Vlade Republike Hrvatske | [`odluka/1998/1764/`](odluka/1998/1764/) | in force | 1 | 1998-10-30 | 1998-10-30 |
+| Odluka o djelokrugu poslova potpredsjednika Vlade Republike Hrvatske | [`odluka/1998/1786/`](odluka/1998/1786/) | in force | 1 | 1998-10-26 | 1998-10-26 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 1998. godinu | [`odluka/1998/1793/`](odluka/1998/1793/) | amending act | 1 | 1998-11-04 | 1998-11-04 |
+| Odluka o privremenoj promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife | [`odluka/1998/1803/`](odluka/1998/1803/) | in force | 1 | 1998-11-10 | 1998-11-10 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Mače | [`odluka/1998/1832/`](odluka/1998/1832/) | in force | 1 | 1998-11-16 | 1998-11-16 |
+| Odluka o dopuni Odluke o produženju roka za naplatu izvoza robe i usluga iz članka 47. stavka 1. Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`odluka/1998/1841/`](odluka/1998/1841/) | amending act | 1 | 1998-11-17 | 1998-11-17 |
+| Odluka o izmjeni Odluke o davanju suglasnosti Vlade Republike Hrvatske za sklapanje Ugovora o kreditu za građenje državne ceste Solin-Klis | [`odluka/1998/1842/`](odluka/1998/1842/) | in force | 1 | 1998-10-29 | 1998-10-29 |
+| Odluka o Katalogu evidencija koji vode tijela državne uprave | [`odluka/1998/1929/`](odluka/1998/1929/) | in force | 1 | 1998-12-03 | 1998-12-03 |
+| Odluka o davanju suglasnosti Hrvatskim željeznicama za sklapanje Ugovora o kreditu s Bayerische Landesbank Girozentrale, München | [`odluka/1998/1930/`](odluka/1998/1930/) | in force | 1 | 1998-12-17 | 1998-12-17 |
+| Odluka o izdavanju državnog jamstva Hrvatskim željeznicama za otplatu kredita Bayerische Landesbank Girozentrale, München | [`odluka/1998/1931/`](odluka/1998/1931/) | in force | 1 | 1998-12-17 | 1998-12-17 |
+| Odluka o osnivanju Tehničkog potpornog centra kao vodeće tehničke skupine u slučaju nuklearne nesreće | [`odluka/1998/1932/`](odluka/1998/1932/) | in force | 1 | 1998-11-24 | 1998-11-24 |
+| Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda za razdoblje od siječnja do listopada 1998. godine | [`odluka/1998/1936/`](odluka/1998/1936/) | in force | 1 | 1998-12-11 | 1998-12-11 |
+| Odluka o stopi i osnovici za obračunavanje doprinosa Hrvatskoj gospodarskoj komori u 1999. godini | [`odluka/1998/1950/`](odluka/1998/1950/) | in force | 1 | 1998-12-10 | 1998-12-10 |
+| Odluka o utvrđivanju plaće zamjenika gradonačelnika Grada Zagreba, zamjenika tajnika Vlade i podžupana | [`odluka/1998/1952/`](odluka/1998/1952/) | in force | 1 | 1998-12-14 | 1998-12-14 |
+| Odluka o izmjeni Odluke o nadzornom izvješću za banke i štedionice i naputcima za popunjavanje nadzornog izvješća | [`odluka/1998/1961/`](odluka/1998/1961/) | in force | 1 | 1998-12-22 | 1998-12-22 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Kornati | [`odluka/1998/1970/`](odluka/1998/1970/) | in force | 1 | 1998-12-10 | 1998-12-10 |
+| Odluka o izmjeni i dopuni Odluke o kamatnim stopama Hrvatske narodne banke | [`odluka/1998/1975/`](odluka/1998/1975/) | amending act | 1 | 1998-12-16 | 1998-12-16 |
+| Odluka o izmjeni Odluke o opsegu, obliku i sadržaju programa revizije i izvještaja o reviziji banaka i štedionica | [`odluka/1998/1976/`](odluka/1998/1976/) | in force | 1 | 1998-12-16 | 1998-12-16 |
+| Odluka o osnivanju istražnog povjerenstva za ispitivanje okolnosti nastanka plana "Lisica", utvrđivanje njegovih autora i njihovih motiv | [`odluka/1998/1998/`](odluka/1998/1998/) | in force | 1 | 1998-12-11 | 1998-12-11 |
+| Odluka o davanju suglasnosti na Statut dioničkog društva Hrvatske pošte | [`odluka/1998/2008/`](odluka/1998/2008/) | in force | 1 | 1998-12-18 | 1998-12-18 |
+| Odluka o davanju suglasnosti na Statut dioničkog društva Hrvatske telekomunikacije | [`odluka/1998/2009/`](odluka/1998/2009/) | in force | 1 | 1998-12-18 | 1998-12-18 |
+| Odluka o davanju suglasnosti Javnoj ustanovi Nacionalni park Plitvička jezera za prodaju određenih nekretnina - objekata sa pripadajućom opremom | [`odluka/1998/2032/`](odluka/1998/2032/) | in force | 1 | 1998-12-18 | 1998-12-18 |
+| Odluka o osnivanju Povjerenstva za provedbu Programa aktivnosti Vlade na rješavanju problema nelikvidnosti | [`odluka/1998/2043/`](odluka/1998/2043/) | in force | 1 | 1998-12-24 | 1998-12-24 |
+| Odluka o utvrđivanju iznosa za naknadu štete po osnovi osiguranja vlasnika, odnosno korisnika brodica na motorni pogon od odgovornosti za štete nanesene trećim osobama | [`odluka/1998/2350/`](odluka/1998/2350/) | in force | 1 | 1998-02-17 | 1998-02-17 |
+| Odluka o određivanju svota na koje se mora ugovoriti osiguranje putnika u javnom prometu od posljedica nesretnog slučaja | [`odluka/1998/2360/`](odluka/1998/2360/) | in force | 1 | 1998-02-17 | 1998-02-17 |
+| Odluka o utvrđivanju iznosa za naknadu štete po osnovi osiguranja od automobilske odgovornosti | [`odluka/1998/2370/`](odluka/1998/2370/) | in force | 1 | 1998-02-17 | 1998-02-17 |
+| Odluka o izmjeni i dopuni Odluke o sanaciji i restrukturiranju Riječke banke d.d., Rijeka | [`odluka/1998/2380/`](odluka/1998/2380/) | amending act | 1 | 1998-02-17 | 1998-02-17 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja hrvatskih državljana zaposlenih u inozemstvu kod međunarodnih organizacija i stranih poslodava | [`odluka/1999/12/`](odluka/1999/12/) | in force | 1 | 1999-01-05 | 1999-01-05 |
+| Odluka o stalnim svotama doprinosa za obračunavanje i plaćanje doprinosa osoba osiguranih u određenim okolnostima za slučaj invalidnosti i tjelesnog oštećenja zbog ozljede na radu ili profesionalne bo | [`odluka/1999/13/`](odluka/1999/13/) | in force | 1 | 1999-01-05 | 1999-01-05 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Švicarskoj Konfederaciji sa sjedištem u Zurichu | [`odluka/1999/46/`](odluka/1999/46/) | amending act | 1 | 1999-01-04 | 1999-01-04 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama IPK Osijek "Ribnjačarstvo" d.o.o. Donji Miholjac | [`odluka/1999/58/`](odluka/1999/58/) | in force | 1 | 1999-01-14 | 1999-01-14 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju slivnih područja | [`odluka/1999/59/`](odluka/1999/59/) | amending act | 1 | 1999-01-27 | 1999-01-27 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju granica vodnih područja | [`odluka/1999/60/`](odluka/1999/60/) | amending act | 1 | 1999-01-27 | 1999-01-27 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe JP »Komunalac« p.o. iz Biograda na Moru | [`odluka/1999/76/`](odluka/1999/76/) | in force | 1 | 1999-01-14 | 1999-01-14 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe »Komrad« d.o.o., Slatina | [`odluka/1999/77/`](odluka/1999/77/) | in force | 1 | 1999-01-14 | 1999-01-14 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe »Vodoopskrba Kupa« d.o.o., Petrinja | [`odluka/1999/78/`](odluka/1999/78/) | in force | 1 | 1999-01-14 | 1999-01-14 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe »Đakovačkom vodovodu« d.o.o. iz Đakova | [`odluka/1999/81/`](odluka/1999/81/) | in force | 1 | 1999-01-14 | 1999-01-14 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama dioničkom društvu za uzgoj riba, trgovinu, ugostiteljstvo i turizam »Ribnjak 1905«, Ribnjak | [`odluka/1999/82/`](odluka/1999/82/) | in force | 1 | 1999-01-14 | 1999-01-14 |
+| Odluka o izmjeni Odluke o Hrvatskom komitetu za suradnju s Međunarodnim hidrološkim programom | [`odluka/1999/87/`](odluka/1999/87/) | in force | 1 | 1999-01-22 | 1999-01-22 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka i štedionica u stranoj valuti | [`odluka/1999/89/`](odluka/1999/89/) | in force | 1 | 1999-01-22 | 1999-01-22 |
+| Odluka o izmjeni Odluke o izdavanju blagajničkih zapisa Hrvatske narodne banke nominiranih u stranoj valuti | [`odluka/1999/90/`](odluka/1999/90/) | in force | 1 | 1999-01-22 | 1999-01-22 |
+| Odluka o dodjeli koncesije za crpljenje termalnih voda Hotelskom turističkom društvu Matija Gubec d.d., Stubičke Toplice | [`odluka/1999/96/`](odluka/1999/96/) | in force | 1 | 1999-01-21 | 1999-01-21 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Dugi Rat | [`odluka/1999/97/`](odluka/1999/97/) | in force | 1 | 1999-01-21 | 1999-01-21 |
+| Odluka o vrijednosti etalonskog stana u 1999. godini | [`odluka/1999/111/`](odluka/1999/111/) | in force | 1 | 1999-01-22 | 1999-01-22 |
+| Odluka o sanaciji i restrukturiranju Dubrovačke banke d.d. Dubrovnik (II) | [`odluka/1999/262/`](odluka/1999/262/) | in force | 1 | 1999-02-03 | 1999-02-03 |
+| Odluka o davanju državnog jamstva (garancije) Republike Hrvatske u korist Deutsche Bank AG, London i drugih sudjelujućih komercijalnih banaka | [`odluka/1999/263/`](odluka/1999/263/) | in force | 1 | 1999-01-28 | 1999-01-28 |
+| Odluka o davanju dvaju državnih jamstava (garancija) u korist Kreditanstalt für Wiederaufbau iz Frankfurta na Maini | [`odluka/1999/264/`](odluka/1999/264/) | in force | 1 | 1999-01-28 | 1999-01-28 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Brela | [`odluka/1999/279/`](odluka/1999/279/) | in force | 1 | 1999-02-04 | 1999-02-04 |
+| Odluka o izmjeni Odluke o Državnom protokolu Republike Hrvatske | [`odluka/1999/296/`](odluka/1999/296/) | in force | 1 | 1999-02-05 | 1999-02-05 |
+| Odluka o osnivanju Povjerenstva za provedbu Programa mjera Vlade za učinkovitiju naplatu doprinosa za mirovinsko i zdravstveno osiguranje | [`odluka/1999/298/`](odluka/1999/298/) | in force | 1 | 1999-02-04 | 1999-02-04 |
+| Odluka o raspuštanju Gradskog vijeća Grada Garešnice | [`odluka/1999/306/`](odluka/1999/306/) | in force | 1 | 1999-02-08 | 1999-02-08 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Garešnice | [`odluka/1999/307/`](odluka/1999/307/) | in force | 1 | 1999-02-08 | 1999-02-08 |
+| Odluka o izmjeni Odluke o dopuni Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1999/318/`](odluka/1999/318/) | amending act | 1 | 1999-02-11 | 1999-02-11 |
+| Odluka o izmjeni Odluke o utvrđivanju plaće određenih državnih dužnosnika | [`odluka/1999/319/`](odluka/1999/319/) | in force | 1 | 1999-02-11 | 1999-02-11 |
+| Odluka o prestanku važenja Odluke o odobravanju sredstava za poticanje zapošljavanja | [`odluka/1999/329/`](odluka/1999/329/) | in force | 1 | 1999-02-19 | 1999-02-19 |
+| a) Odluka o davanju suglasnosti na Odluku o najnižem iznosu osnovice za naplatu doprinosa za obvezno zdravstveno osiguranje osiguranika poljoprivrednika | [`odluka/1999/338/`](odluka/1999/338/) | in force | 1 | 1999-02-12 | 1999-02-12 |
+| Odluka o izmjeni i dopuni Odluke o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1999/339/`](odluka/1999/339/) | amending act | 1 | 1999-02-12 | 1999-02-12 |
+| Odluka o uvećanju koeficijenta platnog razreda za stanovita zvanja i položaje državnih službenika | [`odluka/1999/371/`](odluka/1999/371/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom trgovačkom društvu ŻVodovod ŽrnovnicaŽ d.o.o. Novi Vinodolski | [`odluka/1999/372/`](odluka/1999/372/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Odluka o utvrđivanju plaće zamjenika tajnika Zastupničkog doma i zamjenika tajnika Županijskog doma Hrvatskoga državnog Sabora | [`odluka/1999/406/`](odluka/1999/406/) | in force | 1 | 1999-02-25 | 1999-02-25 |
+| Odluka o visini osnovice za mirovinsko osiguranje za nezaposlenu osobu iz članaka 31. i 33. Zakona o zapošljavanju | [`odluka/1999/409/`](odluka/1999/409/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu Labin" d.o.o., Lab | [`odluka/1999/410/`](odluka/1999/410/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Odluka o dodjeli koncesije Komunalnom poduzeću "Našički vodovod" p.o., Našice za zahvaćanje voda za potrebe javne vodoopskr | [`odluka/1999/411/`](odluka/1999/411/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Odluka o osnivanju Nacionalnog odbora za obilježavanje 1999. godine kao Međunarodne godine starijih osoba | [`odluka/1999/413/`](odluka/1999/413/) | in force | 1 | 1999-02-18 | 1999-02-18 |
+| Odluka o izmjeni Odluke o osnivanju Misije Republike Hrvatske pri Organizaciji Ujedinjenih naroda, New York | [`odluka/1999/427/`](odluka/1999/427/) | in force | 1 | 1999-02-16 | 1999-02-16 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Mađarskoj sa sjedištem u Nagykanizsi | [`odluka/1999/428/`](odluka/1999/428/) | in force | 1 | 1999-02-09 | 1999-02-09 |
+| Odluka o odobrenju pokretanja postupka javnog nadmetanja Agenciji EKO-Kaštelanski zaljev | [`odluka/1999/453/`](odluka/1999/453/) | in force | 1 | 1999-02-25 | 1999-02-25 |
+| Odluka o odobrenju pokretanja postupka nadmetanja po pozivu Lučkoj upravi Split za izgradnju putničkog terminala Resnik - Divulje | [`odluka/1999/454/`](odluka/1999/454/) | in force | 1 | 1999-02-25 | 1999-02-25 |
+| Odluka o osnivanju Stalne misije Republike Hrvatske pri Organizaciji za europsku sigurnost i suradnju, Ujedinjenim narodima i međunarodnim organizacijama u Beču | [`odluka/1999/466/`](odluka/1999/466/) | in force | 1 | 1999-04-01 | 1999-04-01 |
+| Odluka o zatvaranju Stalne misije Republike Hrvatske pri Konferenciji o europskoj sigurnosti i suradnji (KESS-u) u Beču | [`odluka/1999/467/`](odluka/1999/467/) | in force | 1 | 1999-03-31 | 1999-03-31 |
+| Odluka o zatvaranju Stalne misije Republike Hrvatske pri Organizaciji Ujedinjenih naroda u Beču | [`odluka/1999/468/`](odluka/1999/468/) | in force | 1 | 1999-03-31 | 1999-03-31 |
+| Odluka o izmjeni Odluke o osnivanju dioničkog društva Autocesta Rijeka-Zagreb d.d. i dodjeli koncesije za građenje i gospodarenje Autocestom Rijeka-Zagreb | [`odluka/1999/470/`](odluka/1999/470/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničke bolnice "Merkur | [`odluka/1999/471/`](odluka/1999/471/) | amending act | 1 | 1999-03-04 | 1999-03-04 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Sabirno-transportnog sustava plinsko-kondenzatnog polja Gola - Plitka s pripadajućim objektima u k.o. Gola i k.o. Novačka | [`odluka/1999/489/`](odluka/1999/489/) | in force | 1 | 1999-03-04 | 1999-03-04 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od EUR 300.000.000,00 | [`odluka/1999/490/`](odluka/1999/490/) | in force | 1 | 1999-03-04 | 1999-03-04 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - stabilitet i nadvođe (1999) | [`odluka/1999/496/`](odluka/1999/496/) | in force | 1 | 1999-06-01 | 1999-06-01 |
+| Odluka o prihvaćanju povećanja kapitala Agencije za multilateralno garantiranje investicija | [`odluka/1999/526/`](odluka/1999/526/) | in force | 1 | 1999-03-11 | 1999-03-11 |
+| Odluka o davanju suglasnosti Lučkoj upravi Pula za osnivanje Slobodne zone luke Pula | [`odluka/1999/527/`](odluka/1999/527/) | in force | 1 | 1999-03-11 | 1999-03-11 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Saveznoj Republici Jugoslaviji, sa sjedištem u Subotici | [`odluka/1999/550/`](odluka/1999/550/) | in force | 1 | 1999-03-15 | 1999-03-15 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Saveznoj Republici Jugoslaviji, sa sjedištem u Kotoru | [`odluka/1999/551/`](odluka/1999/551/) | in force | 1 | 1999-03-15 | 1999-03-15 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države na području Bjelovarsko-bilogorske županije | [`odluka/1999/564/`](odluka/1999/564/) | in force | 1 | 1999-03-18 | 1999-03-18 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države na području Sisačko-moslavačke županije | [`odluka/1999/565/`](odluka/1999/565/) | in force | 1 | 1999-03-18 | 1999-03-18 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu države na području Virovitičko-podravske županije | [`odluka/1999/566/`](odluka/1999/566/) | in force | 1 | 1999-03-18 | 1999-03-18 |
+| Odluka o aktualnoj vrijednosti mirovine od 1 | [`odluka/1999/620/`](odluka/1999/620/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Odluka o izmjenama uvjeta i načina kreditiranja po Kreditnom programu zapošljavanja razvojačenih pripadnika Hrvatske vojske | [`odluka/1999/621/`](odluka/1999/621/) | in force | 1 | 1999-03-25 | 1999-03-25 |
+| Odluka o izmjenama Odluke o osnovici, stopi doprinosa, načinu obračuna i plaćanja doprinosa za zdravstvenu zaštitu stranaca u Republici Hrvatskoj | [`odluka/1999/627/`](odluka/1999/627/) | in force | 1 | 1999-04-08 | 1999-04-08 |
+| Odluka o osnivanju Istražnog povjerenstva radi utvrđivanja okolnosti i krivnje državnih i političkih tijela Socijalističke Republike Hrvatske za oduzimanje oružja od Teritorijalne obrane Hrvatske do 30. svibnja 1990. | [`odluka/1999/638/`](odluka/1999/638/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o izmjeni Odluke o uvođenju depozita na inozemne financijske kredite, devizne depozite i izdane garancije | [`odluka/1999/651/`](odluka/1999/651/) | in force | 1 | 1999-04-02 | 1999-04-02 |
+| Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja aktivnih i pasivnih kamata Hrvatske narodne banke | [`odluka/1999/655/`](odluka/1999/655/) | in force | 1 | 1999-04-02 | 1999-04-02 |
+| Odluka o izmjeni i dopuni Odluke o obveznoj rezervi banaka i štedionica u kunama | [`odluka/1999/656/`](odluka/1999/656/) | amending act | 1 | 1999-04-02 | 1999-04-02 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1999. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1999/659/`](odluka/1999/659/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. siječnja 1999. | [`odluka/1999/664/`](odluka/1999/664/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o utvrđivanju faktora korekcije za 1998. | [`odluka/1999/665/`](odluka/1999/665/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1998. radi određivanja naknade plaće zbog manje plaće na drugom poslu | [`odluka/1999/666/`](odluka/1999/666/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o zajamčenoj najnižoj svoti koja se isplaćuje korisniku mirovine od 1. siječnja 1999. | [`odluka/1999/669/`](odluka/1999/669/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu od 1. siječnja 1999. | [`odluka/1999/670/`](odluka/1999/670/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o visini doplatka za pomoć i njegu od 1. siječnja 1999. | [`odluka/1999/672/`](odluka/1999/672/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o utvrđivanju najniže mirovine za jednu godinu mirovinskog staža | [`odluka/1999/677/`](odluka/1999/677/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja | [`odluka/1999/678/`](odluka/1999/678/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u godini 1999. | [`odluka/1999/679/`](odluka/1999/679/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog osiguranja za godinu 1999. | [`odluka/1999/680/`](odluka/1999/680/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u 1999. god | [`odluka/1999/681/`](odluka/1999/681/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o dokupu staža osiguranja svećenika, redovnica i redovnika | [`odluka/1999/682/`](odluka/1999/682/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Odluka o prestanku važenja Odluke o nadzornom izvješću za banke i štedionice i naputcima za popunjavanje nadzornog izvješća | [`odluka/1999/749/`](odluka/1999/749/) | in force | 1 | 1999-04-15 | 1999-04-15 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Državi Izrael, sa sjedištem u Jeruzalemu | [`odluka/1999/759/`](odluka/1999/759/) | in force | 1 | 1999-04-07 | 1999-04-07 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Sabirnoga transportnog sustava plinsko-kondenzatnog polja Gola-Duboka u k.o. Novačka, Gola, Ždala, Molve, Novigrad Podravski i Virje | [`odluka/1999/767/`](odluka/1999/767/) | in force | 1 | 1999-04-20 | 1999-04-20 |
+| Odluka o dopuni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka i štedionica | [`odluka/1999/775/`](odluka/1999/775/) | amending act | 1 | 1999-04-20 | 1999-04-20 |
+| Odluka o izmjeni i dopuni Odluke o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "1999. | [`odluka/1999/780/`](odluka/1999/780/) | amending act | 1 | 1999-04-20 | 1999-04-20 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih prehrambenih proizvoda iz Dodataka A carinske tarife | [`odluka/1999/786/`](odluka/1999/786/) | in force | 1 | 1999-04-27 | 1999-04-27 |
+| Odluka o raspuštanju Općinskog vijeća Općine Gornji Kneginec | [`odluka/1999/787/`](odluka/1999/787/) | in force | 1 | 1999-04-23 | 1999-04-23 |
+| Odluka o osnivanju Nacionalnog odbora za djelatnosti: "Europa: Zajednička baština | [`odluka/1999/798/`](odluka/1999/798/) | in force | 1 | 1999-04-22 | 1999-04-22 |
+| Odluka o izmjeni Odluke o osnivanju Vijeća za poljoprivrednu politiku | [`odluka/1999/799/`](odluka/1999/799/) | in force | 1 | 1999-05-05 | 1999-05-05 |
+| Odluka o raspuštanju Općinskog vijeća Općine Pučišća | [`odluka/1999/835/`](odluka/1999/835/) | in force | 1 | 1999-05-03 | 1999-05-03 |
+| Odluka o raspuštanju Općinskog vijeća Općine Orle | [`odluka/1999/837/`](odluka/1999/837/) | in force | 1 | 1999-05-03 | 1999-05-03 |
+| Odluka o raspuštanju Gradskog vijeća Grada Trogira | [`odluka/1999/850/`](odluka/1999/850/) | in force | 1 | 1999-05-05 | 1999-05-05 |
+| Odluka o raspisivanju izbora za općinska vijeća općina Gornji Kneginec i Orle | [`odluka/1999/915/`](odluka/1999/915/) | in force | 1 | 1999-05-17 | 1999-05-17 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Trogira i općinska vijeća općina Klis i Pučišća | [`odluka/1999/916/`](odluka/1999/916/) | in force | 1 | 1999-05-17 | 1999-05-17 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama društvu Poljodar Tim d.o.o., Daruvar | [`odluka/1999/917/`](odluka/1999/917/) | in force | 1 | 1999-05-13 | 1999-05-13 |
+| Odluka o priznanju vojnih činova hrvatskim građanima koji su bili pripadnici različitih oružanih postrojbi, odnosno vojski na tlu Hrvatske | [`odluka/1999/938/`](odluka/1999/938/) | in force | 1 | 1999-05-10 | 1999-05-10 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju međunarodnog cestovnog graničnog prijelaza Vinjani Donji - Gorica | [`odluka/1999/942/`](odluka/1999/942/) | in force | 1 | 1999-05-20 | 1999-05-20 |
+| Odluka o donošenju Programa prostornog uređenja Republike Hrvatske | [`odluka/1999/944/`](odluka/1999/944/) | in force | 1 | 1999-05-29 | 1999-05-29 |
+| Odluka o sudjelovanju Republike Hrvatske u Dvanaestoj popuni sredstava Međunarodnog udruženja za razvoj (IDA) | [`odluka/1999/951/`](odluka/1999/951/) | in force | 1 | 1999-06-01 | 1999-06-01 |
+| Odluka o određivanju naknade za troškove polaganja stručnog bankarskog ispita | [`odluka/1999/957/`](odluka/1999/957/) | in force | 1 | 1999-05-24 | 1999-05-24 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Portugalskoj Republici | [`odluka/1999/964/`](odluka/1999/964/) | in force | 1 | 1999-05-19 | 1999-05-19 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradiliša Cres | [`odluka/1999/973/`](odluka/1999/973/) | in force | 1 | 1999-05-20 | 1999-05-20 |
+| Odluka o privremenoj koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Luke nautičkog turizma Kremik | [`odluka/1999/974/`](odluka/1999/974/) | in force | 1 | 1999-05-20 | 1999-05-20 |
+| Odluka o dopuni Odluke o osnivanju Privremenog stručnog povjerenstva za reviziju nalaza i mišljenja o invalidnosti | [`odluka/1999/1041/`](odluka/1999/1041/) | amending act | 1 | 1999-05-27 | 1999-05-27 |
+| Odluka o dopuni Odluke o dopuštenoj visini kala, rastepa, kvara i loma na proizvodima u trgovini i ugostiteljstvu | [`odluka/1999/1060/`](odluka/1999/1060/) | amending act | 1 | 1999-06-12 | 1999-06-12 |
+| Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe ŽKomradŽ d.o.o., Slatina | [`odluka/1999/1092/`](odluka/1999/1092/) | in force | 1 | 1999-06-10 | 1999-06-10 |
+| Odluka o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe dioničkom društvu IVKOM d.d., Ivanec | [`odluka/1999/1093/`](odluka/1999/1093/) | in force | 1 | 1999-06-10 | 1999-06-10 |
+| Odluka o dugoročnom zaduženju Republike Hrvatske u iznosu od USD 75.000.000,00 | [`odluka/1999/1116/`](odluka/1999/1116/) | in force | 1 | 1999-06-10 | 1999-06-10 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Vukovarsko-srijemske i Osječko-baranjske županije | [`odluka/1999/1163/`](odluka/1999/1163/) | in force | 1 | 1999-06-17 | 1999-06-17 |
+| Odluka o sjedištu i području na kojima djeluju uprave za obranu i uredi za obranu | [`odluka/1999/1165/`](odluka/1999/1165/) | in force | 1 | 1999-07-01 | 1999-07-01 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Bjelovarsko-bilogorske županije | [`odluka/1999/1167/`](odluka/1999/1167/) | in force | 1 | 1999-06-17 | 1999-06-17 |
+| Odluka o izmjeni Odluke o obvezi banaka da održavaju određeni odnos između deviznih potraživanja i deviznih obveza | [`odluka/1999/1174/`](odluka/1999/1174/) | in force | 1 | 1999-06-23 | 1999-06-23 |
+| Odluka o izmjeni Odluke o načinu i rokovima dostavljanja Izvješća o stanju deviznih sredstava ovlaštene banke i štedionice | [`odluka/1999/1175/`](odluka/1999/1175/) | in force | 1 | 1999-06-23 | 1999-06-23 |
+| Odluka o izmjeni i dopuni Odluke o ograničenju ulaganja banke u materijalnu imovinu i vlasničke uloge | [`odluka/1999/1180/`](odluka/1999/1180/) | amending act | 1 | 1999-06-23 | 1999-06-23 |
+| Odluka o povjeravanju obavljanja poslova operativne i informatičke potpore Sustavu državne riznice Republike Hrvatske | [`odluka/1999/1223/`](odluka/1999/1223/) | in force | 1 | 1999-06-23 | 1999-06-23 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Islamskoj Republici Pakistan | [`odluka/1999/1256/`](odluka/1999/1256/) | in force | 1 | 1999-06-21 | 1999-06-21 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Demokratskoj Socijalističkoj Republici Šri Lanki | [`odluka/1999/1266/`](odluka/1999/1266/) | in force | 1 | 1999-06-25 | 1999-06-25 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Stinice | [`odluka/1999/1290/`](odluka/1999/1290/) | in force | 1 | 1999-07-01 | 1999-07-01 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 1999. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/1999/1292/`](odluka/1999/1292/) | amending act | 1 | 1999-07-07 | 1999-07-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 1999. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1999/1293/`](odluka/1999/1293/) | amending act | 1 | 1999-07-07 | 1999-07-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 1999. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/1999/1294/`](odluka/1999/1294/) | amending act | 1 | 1999-07-07 | 1999-07-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 1999. godinu sredstava doplatka za djecu | [`odluka/1999/1295/`](odluka/1999/1295/) | amending act | 1 | 1999-07-07 | 1999-07-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 1999. godinu Hrvatskih voda | [`odluka/1999/1296/`](odluka/1999/1296/) | amending act | 1 | 1999-07-07 | 1999-07-07 |
+| Odluka o dopuni Odluke o nagradama i naknadi troškova sucima i drugim osobama u postupku pred Sudom časti pri Hrvatskoj gospodarskoj komori | [`odluka/1999/1315/`](odluka/1999/1315/) | amending act | 1 | 1999-07-17 | 1999-07-17 |
+| Odluka o dopuštenoj visini kala, rastepa, kvara, loma i tehnološkog manjka u ugostiteljstvu | [`odluka/1999/1317/`](odluka/1999/1317/) | in force | 1 | 1999-07-17 | 1999-07-17 |
+| Odluka o troškovima postupka pred Športskim arbitražnim sudištem pri Hrvatskom olimpijskom odboru | [`odluka/1999/1320/`](odluka/1999/1320/) | in force | 1 | 1999-07-09 | 1999-07-09 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Statuta Klinike za ortopediju Lovran | [`odluka/1999/1368/`](odluka/1999/1368/) | amending act | 1 | 1999-07-15 | 1999-07-15 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Austriji sa sjedištem u Grazu | [`odluka/1999/1404/`](odluka/1999/1404/) | in force | 1 | 1999-07-13 | 1999-07-13 |
+| Odluka o prijenosu koncesije za osnivanje Slobodne zone Obrovac | [`odluka/1999/1412/`](odluka/1999/1412/) | in force | 1 | 1999-07-22 | 1999-07-22 |
+| Odluka o izmjeni Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe "Vodovodu Pula" d.o.o., Pu | [`odluka/1999/1413/`](odluka/1999/1413/) | in force | 1 | 1999-07-22 | 1999-07-22 |
+| Odluka o izmjeni i dopuni Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1999/1414/`](odluka/1999/1414/) | amending act | 1 | 1999-08-04 | 1999-08-04 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za rješavanje "Problema 2000. | [`odluka/1999/1415/`](odluka/1999/1415/) | amending act | 1 | 1999-07-22 | 1999-07-22 |
+| Odluka o davanju suglasnosti za zaduženje u inozemstvu Hrvatske banke za obnovu i razvitak za tehnološku obnovu brodogradilišta | [`odluka/1999/1438/`](odluka/1999/1438/) | in force | 1 | 1999-08-07 | 1999-08-07 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Stabilitet (1999), broj | [`odluka/1999/1444/`](odluka/1999/1444/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Nadvođe (1999), broj | [`odluka/1999/1445/`](odluka/1999/1445/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Radiooprema (1999) | [`odluka/1999/1453/`](odluka/1999/1453/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Sprečavanje zagađivanja (1999) | [`odluka/1999/1461/`](odluka/1999/1461/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Baždarenje (1999) | [`odluka/1999/1466/`](odluka/1999/1466/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Kontejneri (1999) | [`odluka/1999/1467/`](odluka/1999/1467/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o oslobađanju pribavljanja viza za ulazak, odlazak ili prelazak preko teritorija Republike Hrvatske, za sudionike 2. svjetskih vojnih igara | [`odluka/1999/1475/`](odluka/1999/1475/) | in force | 1 | 1999-07-29 | 1999-07-29 |
+| Odluka o izuzimanju nabave opreme za posebne namjene za potrebe obrane od primjene Zakona o nabavi roba, usluga i ustupanju radova | [`odluka/1999/1476/`](odluka/1999/1476/) | in force | 1 | 1999-08-03 | 1999-08-03 |
+| Odluka o dopuni Odluke o posebnim mjerama carinskog nadzora pri uvozu, izvozu ili provozu određenih roba | [`odluka/1999/1477/`](odluka/1999/1477/) | amending act | 1 | 1999-08-03 | 1999-08-03 |
+| Odluka o izmjeni Odluke o davanju suglasnosti za zaduženje u inozemstvu Transeuropske autoceste d.o.o. Zagreb | [`odluka/1999/1481/`](odluka/1999/1481/) | in force | 1 | 1999-07-30 | 1999-07-30 |
+| Odluka o izmjeni Odluke o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Mediocredito Centrale S.p.A. Rim, koji će koristiti Transeuropska autocesta d.o.o. Zagreb | [`odluka/1999/1482/`](odluka/1999/1482/) | in force | 1 | 1999-07-30 | 1999-07-30 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Podravske Sesvete | [`odluka/1999/1532/`](odluka/1999/1532/) | in force | 1 | 1999-08-31 | 1999-08-31 |
+| Odluka o dopuni Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1999/1533/`](odluka/1999/1533/) | amending act | 1 | 1999-08-31 | 1999-08-31 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Vukovarsko-srijemske i Osječko-baranjske županije | [`odluka/1999/1549/`](odluka/1999/1549/) | in force | 1 | 1999-08-26 | 1999-08-26 |
+| Odluka o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama društvu s ograničenom odgovornošću Stari Ribnjak, Oriovac | [`odluka/1999/1574/`](odluka/1999/1574/) | in force | 1 | 1999-09-02 | 1999-09-02 |
+| Odluka o davanju suglasnosti za prijenos prava i obveza iz Odluke o dodjeli koncesije na vodama u svrhu uzgoja riba u zatvorenim vodama | [`odluka/1999/1575/`](odluka/1999/1575/) | in force | 1 | 1999-09-02 | 1999-09-02 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju crkve i samostana Sv. Leopolda Mandića u naselju Dubrava Zagreb, u k.o. Granešina | [`odluka/1999/1576/`](odluka/1999/1576/) | in force | 1 | 1999-09-09 | 1999-09-09 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju benzinske postaje | [`odluka/1999/1577/`](odluka/1999/1577/) | in force | 1 | 1999-09-09 | 1999-09-09 |
+| Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Statuta Novinsko-izdavačke ustanove EDIT Rijeka | [`odluka/1999/1585/`](odluka/1999/1585/) | amending act | 1 | 1999-09-09 | 1999-09-09 |
+| Odluka o proširenju primjene Kolektivnog ugovora o osnovici za plaće, božićnici i daru za djecu u 1999. godini | [`odluka/1999/1596/`](odluka/1999/1596/) | in force | 1 | 1999-09-15 | 1999-09-15 |
+| Odluka o dopuni Odluke o vrsti, količini i vrijednosti predmeta koji se uvoze uz primjenu carinskih povlastica | [`odluka/1999/1601/`](odluka/1999/1601/) | amending act | 1 | 1999-09-17 | 1999-09-17 |
+| Odluka o dodjeli koncesije za obavljanje javnih govornih usluga u nepokretnoj mreži iz članka 12. Zakona o telekomunikacijama i tržišnih telekomunikacijskih usluga u nepokretnoj mreži iz članka 25. Zakona o telekomunikacijama | [`odluka/1999/1602/`](odluka/1999/1602/) | in force | 1 | 1999-09-16 | 1999-09-16 |
+| Odluka o dodjeli koncesije za izgradnju i uporabu javnih telekomunikacija u globalnom sustavu pokretne mreže GSM | [`odluka/1999/1603/`](odluka/1999/1603/) | in force | 1 | 1999-09-16 | 1999-09-16 |
+| Odluka o dodjeli koncesije za izgradnju i uporabu javnih telekomunikacija u NMT sustavu | [`odluka/1999/1609/`](odluka/1999/1609/) | in force | 1 | 1999-09-16 | 1999-09-16 |
+| Odluka o obliku i sadržaju zahtjeva za davanje odobrenja za rad banke | [`odluka/1999/1652/`](odluka/1999/1652/) | in force | 1 | 1999-09-29 | 1999-09-29 |
+| Odluka o izmjeni Odluke o potanjim uvjetima za osnivanje i rad predstavništava inozemnih banaka u Republici Hrvatskoj | [`odluka/1999/1653/`](odluka/1999/1653/) | in force | 1 | 1999-09-30 | 1999-09-30 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju vapnenca - karbonatne sirovine za industrijsku preradu na eksploatacijskom polju "Zapužane" | [`odluka/1999/1662/`](odluka/1999/1662/) | in force | 1 | 1999-10-04 | 1999-10-04 |
+| Odluka o osnivanju Stručne radne skupine za izradu cjelovite reforme sustava lokalne samouprave u Republici Hrvatskoj | [`odluka/1999/1674/`](odluka/1999/1674/) | in force | 1 | 1999-10-06 | 1999-10-06 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 1999. | [`odluka/1999/1687/`](odluka/1999/1687/) | in force | 1 | 1999-10-16 | 1999-10-16 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 1999. | [`odluka/1999/1688/`](odluka/1999/1688/) | in force | 1 | 1999-10-16 | 1999-10-16 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 1999. | [`odluka/1999/1689/`](odluka/1999/1689/) | in force | 1 | 1999-10-16 | 1999-10-16 |
+| Odluka o usklađivanju mirovina i drugih primanja od 1. srpnja 1999., korisnika koji su ta primanja ostvarili do 31. prosinca 1998. | [`odluka/1999/1690/`](odluka/1999/1690/) | in force | 1 | 1999-10-16 | 1999-10-16 |
+| Odluka o raspuštanju Gradskog vijeća Grada Belog Manastira | [`odluka/1999/1719/`](odluka/1999/1719/) | in force | 1 | 1999-10-11 | 1999-10-11 |
+| Odluka o uvjetima studiranja sudionika Domovinskog rata u 1999./2000. školskoj godini | [`odluka/1999/1770/`](odluka/1999/1770/) | in force | 1 | 1999-10-06 | 1999-10-06 |
+| Odluka o dopuni Odluke o određivanju naloga za plaćanje s visokim prioritetom | [`odluka/1999/1778/`](odluka/1999/1778/) | amending act | 1 | 1999-10-20 | 1999-10-20 |
+| Odluka o izmjeni Odluke o izdavanju prigodnoga zlatnog i srebrenog kovanog novca u povodu 1700. obljetnice Dioklecijanove palače i osnutka Grada Splita | [`odluka/1999/1779/`](odluka/1999/1779/) | in force | 1 | 1999-10-20 | 1999-10-20 |
+| Odluka o dopuni Odluke o prodaji poslovnih prostora u vlasništvu Republike Hrvatske u zgradama namijenjenim stambenom zbrinjavanju hrvatskih ratnih vojnih invalida Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskog branitelja | [`odluka/1999/1781/`](odluka/1999/1781/) | amending act | 1 | 1999-10-14 | 1999-10-14 |
+| Zakon o dopunama Zakona o obveznim odnosima | [`odluka/1999/1822/`](odluka/1999/1822/) | amending act | 1 | 1999-11-06 | 1999-11-06 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Belog Manastira | [`odluka/1999/1840/`](odluka/1999/1840/) | in force | 1 | 1999-11-03 | 1999-11-03 |
+| Odluka o proglašavanju Dana sjećanja na žrtvu Vukovara 1991. | [`odluka/1999/1857/`](odluka/1999/1857/) | in force | 1 | 1999-11-05 | 1999-11-05 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Punat | [`odluka/1999/1869/`](odluka/1999/1869/) | in force | 1 | 1999-11-04 | 1999-11-04 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Hrvatskoga doma u Hrvatskoj Dubici u k.o. Dubica | [`odluka/1999/1920/`](odluka/1999/1920/) | in force | 1 | 1999-11-16 | 1999-11-16 |
+| Odluka o raspisivanju izbora za Zastupnički dom Hrvatskoga državnog sabora | [`odluka/1999/1980/`](odluka/1999/1980/) | in force | 1 | 1999-11-27 | 1999-11-27 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 1999. godinu | [`odluka/1999/1998/`](odluka/1999/1998/) | amending act | 1 | 1999-11-29 | 1999-11-29 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju crkve Sv. Ilije i športsko-rekreacijskog centra u Donjim Kukuruzarima | [`odluka/1999/2032/`](odluka/1999/2032/) | in force | 1 | 1999-12-01 | 1999-12-01 |
+| Odluka o uvjetima za odobrenje kratkoročnog kredita na osnovi zaloga vrijednosnih papira (lombardni krediti) za razdoblje prijelaza u 2000. godinu | [`odluka/1999/2080/`](odluka/1999/2080/) | in force | 1 | 1999-12-06 | 1999-12-06 |
+| Odluka o rokovima izdvajanja/održavanja obvezne rezerve banaka i štedionica u stranoj valuti za razdoblje prijelaza u 2000. godinu | [`odluka/1999/2081/`](odluka/1999/2081/) | in force | 1 | 1999-12-06 | 1999-12-06 |
+| Odluka o utvrđivanju visine naknade troškova izborne promidžbe za izbor zastupnika u Zastupnički dom Hrvatskoga državnog sabora | [`odluka/1999/2085/`](odluka/1999/2085/) | in force | 1 | 1999-12-08 | 1999-12-08 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju autobusnog kolodvora u Samoboru | [`odluka/1999/2086/`](odluka/1999/2086/) | in force | 1 | 1999-12-02 | 1999-12-02 |
+| Odluka o davanju suglasnosti Lučkoj upravi Ploče za osnivanje slobodne zone Luke Ploče | [`odluka/1999/2117/`](odluka/1999/2117/) | in force | 1 | 1999-12-09 | 1999-12-09 |
+| Odluka o koncesiji pomorskog dobra luke posebne namjene Kruščica i za izgradnju i gospodarsko korištenje benzinske stanice Kruščica | [`odluka/1999/2118/`](odluka/1999/2118/) | in force | 1 | 1999-12-09 | 1999-12-09 |
+| Odluka o izmjenama i dopunama Odluke o promjeni nazivlja i brojčanog označavanja robe za pojedine tarifne oznake u Carinskoj tarifi | [`odluka/1999/2134/`](odluka/1999/2134/) | amending act | 1 | 1999-12-25 | 1999-12-25 |
+| Odluka o prestanku važenja treće glave Poslovnika Ustavnog suda Republike Hrvatske | [`odluka/1999/2147/`](odluka/1999/2147/) | in force | 1 | 1999-12-15 | 1999-12-15 |
+| Odluka o stopi i osnovici za obračunavanje doprinosa Hrvatskoj gospodarskoj komori u 2000. godini | [`odluka/1999/2160/`](odluka/1999/2160/) | in force | 1 | 1999-12-22 | 1999-12-22 |
+| Odluka o dopuštenoj visini kala, rastepa, kvara i loma na žitaricama i proizvodima od žitarica i brašna | [`odluka/1999/2162/`](odluka/1999/2162/) | in force | 1 | 1999-12-30 | 1999-12-30 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna u povodu uvođenja Eura | [`odluka/1999/2225/`](odluka/1999/2225/) | in force | 1 | 1999-12-27 | 1999-12-27 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnog kovanog novca od 25 kuna u povodu uvođenja Eura | [`odluka/1999/2226/`](odluka/1999/2226/) | in force | 1 | 1999-12-27 | 1999-12-27 |
+| Odluka o obvezi rada županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 2. i 3. siječnja 2000. godine | [`odluka/1999/2279/`](odluka/1999/2279/) | in force | 1 | 1999-12-30 | 1999-12-30 |
+| Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za telekomunikacije | [`odluka/1999/2280/`](odluka/1999/2280/) | in force | 1 | 1999-12-30 | 1999-12-30 |
+| Odluka Ministarstva obrane Urbroj: 512-01-99-2002 od 20. prosinca 1999. | [`odluka/1999/2284/`](odluka/1999/2284/) | in force | 1 | 1999-12-31 | 1999-12-31 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Koreji, sa sjedištem u Seoulu | [`odluka/2015/996/`](odluka/2015/996/) | in force | 1 | 2015-04-27 | 2015-04-27 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indoneziji i Filipinima, sa sjedištem u Jakarti | [`odluka/2015/1115/`](odluka/2015/1115/) | in force | 1 | 2015-05-19 | 2015-05-19 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Makedoniji, sa sjedištem u Skopju | [`odluka/2015/1148/`](odluka/2015/1148/) | in force | 1 | 2015-08-15 | 2015-08-15 |
@@ -3679,7 +4810,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (1631, of which 523 amending acts)
+## pravilnik (1901, of which 626 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3791,6 +4922,276 @@
 | Pravilnik o izmjeni Pravilnika o ostvarivanju socijalne zaštite | [`pravilnik/1993/2181/`](pravilnik/1993/2181/) | in force | 1 | 1993-12-21 | 1993-12-21 |
 | Pravilnik o utvrđivanju zvanja učitelja i stručnih suradnika u osnovnim školama te postupku, načinu i uvjetima njihova stjecanja | [`pravilnik/1993/2206/`](pravilnik/1993/2206/) | in force | 1 | 1994-01-01 | 1994-01-01 |
 | Pravilnik o izmjeni Pravilnika o klasifikaciji,minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1993/2247/`](pravilnik/1993/2247/) | in force | 1 | 1993-12-30 | 1993-12-30 |
+| Pravilnik o Državnoj nagradi tehničke kulture Faust Vrančić | [`pravilnik/1994/5/`](pravilnik/1994/5/) | in force | 1 | 1994-01-07 | 1994-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izvršavanju vojne obveze i civilne službe | [`pravilnik/1994/73/`](pravilnik/1994/73/) | amending act | 1 | 1994-01-22 | 1994-01-22 |
+| Pravilnik o izmjeni Pravilnika o izdavanju licence za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1994/115/`](pravilnik/1994/115/) | in force | 1 | 1994-02-01 | 1994-02-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o standardima i normativima obveznog zdravstvenog osiguranja za 1994. godinu | [`pravilnik/1994/167/`](pravilnik/1994/167/) | amending act | 1 | 1994-02-10 | 1994-02-10 |
+| Pravilnik o vježbaonicama u srednjim školama | [`pravilnik/1994/218/`](pravilnik/1994/218/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Pravilnik o izmjeni Pravilnika o visini naknade za obvezne veterinarsko-sanitarne preglede i kontrole | [`pravilnik/1994/219/`](pravilnik/1994/219/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Pravilnik o izmjeni Pravilnika o novčanim naknadama vojnika i kadeta škola pričuvnih časnika za vrijeme služenja vojnog roka | [`pravilnik/1994/250/`](pravilnik/1994/250/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Pravilnik o izmjeni Pravilnika o uređajima i opremi koja se mora ugraditi u zrakoplov, ovisno o kategoriji i namjeni zrakoplova | [`pravilnik/1994/283/`](pravilnik/1994/283/) | in force | 1 | 1994-03-09 | 1994-03-09 |
+| Pravilnik o izmjeni i dopuni Pravilnika o ustrojavanju i vođenju knjige položenih ugovora | [`pravilnik/1994/307/`](pravilnik/1994/307/) | amending act | 1 | 1994-03-04 | 1994-03-04 |
+| Pravilnik o utvrđivanju uvjeta i načina pod kojima građani mogu prenijeti svoju deviznu štednju s organizacijske jedinice banke čije je sjedište izvan Republike Hrvatske na banke u Republici Hrvatskoj | [`pravilnik/1994/339/`](pravilnik/1994/339/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Pravilnik o obračunavanju, plaćanju i povratu poreza na promet pri izvozu i provozu određenih proizvoda u zemlje za koje je potreban pojačani carinski nadzor | [`pravilnik/1994/340/`](pravilnik/1994/340/) | in force | 1 | 1994-03-11 | 1994-03-11 |
+| Pravilnik o načinu vođenja evidencije o izvršenim laboratorijskim ispitivanjima | [`pravilnik/1994/411/`](pravilnik/1994/411/) | in force | 1 | 1994-04-02 | 1994-04-02 |
+| Pravilnik o visini naknade odvjetniku za obranu po službenoj dužnosti | [`pravilnik/1994/505/`](pravilnik/1994/505/) | in force | 1 | 1994-04-08 | 1994-04-08 |
+| Pravilnik o uvjetima za obavljanje djelatnosti tehničke kulture | [`pravilnik/1994/579/`](pravilnik/1994/579/) | in force | 1 | 1994-04-28 | 1994-04-28 |
+| Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u 1994/95. školskoj godini | [`pravilnik/1994/580/`](pravilnik/1994/580/) | in force | 1 | 1994-04-28 | 1994-04-28 |
+| Pravilnik o stručnom ispitu za zdravstvenog inspektora | [`pravilnik/1994/635/`](pravilnik/1994/635/) | in force | 1 | 1994-05-12 | 1994-05-12 |
+| Pravilnik o uvjetima i načinu provođenja privatnog zdravstvenog osiguranja | [`pravilnik/1994/652/`](pravilnik/1994/652/) | in force | 1 | 1994-05-14 | 1994-05-14 |
+| Pravilnik o načinu obavljanja nadzora nad stručnošću rada u djelatnosti zdravstva | [`pravilnik/1994/735/`](pravilnik/1994/735/) | in force | 1 | 1994-05-31 | 1994-05-31 |
+| Pravilnik o kalendaru rada osnovnih škola za 1994/85. školsku godinu | [`pravilnik/1994/750/`](pravilnik/1994/750/) | in force | 1 | 1994-06-04 | 1994-06-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izdavanju, raspačavanju, povlačenju iz upotrebe i zamjeni upravnih biljega Republike Hrvatske | [`pravilnik/1994/783/`](pravilnik/1994/783/) | amending act | 1 | 1994-06-03 | 1994-06-03 |
+| Pravilnik o dopunama Pravilnika o načinu obavljanja zdravstvenih pregleda osoba koje su kliconoše ili se sumnja da su kliconoše odredenih zaraznih bolesti | [`pravilnik/1994/823/`](pravilnik/1994/823/) | amending act | 1 | 1994-06-16 | 1994-06-16 |
+| Pravilnik o izmjeni Pravilnika o broju i sastavu članova posade zrakoplova | [`pravilnik/1994/949/`](pravilnik/1994/949/) | in force | 1 | 1994-07-07 | 1994-07-07 |
+| Pravilnik o izmjeni i dopuni Pravilnika o radu zdravstvenih djelatnika izvan punog radnog vremena | [`pravilnik/1994/990/`](pravilnik/1994/990/) | amending act | 1 | 1994-07-15 | 1994-07-15 |
+| Pravilnik o službenim odorama djelatnika carinske službe RepubIike Hrvatske | [`pravilnik/1994/1031/`](pravilnik/1994/1031/) | in force | 1 | 1994-07-30 | 1994-07-30 |
+| Pravilnik o izmjeni i dopuni Pravilnika o izdavanju licence za obavljanje međunarodnog cestovnog prijevoza | [`pravilnik/1994/1051/`](pravilnik/1994/1051/) | amending act | 1 | 1994-07-29 | 1994-07-29 |
+| Pravilnik o kriterijima i rokovima za utvrđivanje programa i osiguravanje sredstava za financiranje javnih potreba Republike Hrvatske u tehničkoj kulturi | [`pravilnik/1994/1089/`](pravilnik/1994/1089/) | in force | 1 | 1994-08-18 | 1994-08-18 |
+| Pravilnik o programu i načinu osposobljavanja pučanstva za provedbu preventivnih mjera zaštite od požara, gašenje požara i spašavanje ljudi i imovine ugroženih požarom | [`pravilnik/1994/1103/`](pravilnik/1994/1103/) | in force | 1 | 1994-08-27 | 1994-08-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obrascima službenih iskaznica ovlaštenih službenih osoba Ministarstva pravosuđa i uprave | [`pravilnik/1994/1135/`](pravilnik/1994/1135/) | amending act | 1 | 1994-09-10 | 1994-09-10 |
+| Pravilnik o međusobnim odnosima vatrogasnih postrojbi u vatrogasnim intervencijama | [`pravilnik/1994/1155/`](pravilnik/1994/1155/) | in force | 1 | 1994-09-16 | 1994-09-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stručnoj spremi, ispitima i dozvolama za rad članova posade zrakoplova | [`pravilnik/1994/1158/`](pravilnik/1994/1158/) | amending act | 1 | 1994-09-16 | 1994-09-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obliku i načinu vođenja trgovačke knjige | [`pravilnik/1994/1223/`](pravilnik/1994/1223/) | amending act | 1 | 1994-11-06 | 1994-11-06 |
+| Pravilnik o sadržaju i načinu registracije odluke o izboru odnosno ugovora o zapošljavanju radnika-pomorca kao člana posade broda | [`pravilnik/1994/1283/`](pravilnik/1994/1283/) | in force | 1 | 1994-10-22 | 1994-10-22 |
+| Pravilnik o izmjeni Pravilnika o privremenoj javnobilježnićkoj tarifi | [`pravilnik/1994/1402/`](pravilnik/1994/1402/) | in force | 1 | 1994-11-11 | 1994-11-11 |
+| Pravilnik o obrascu iskaznice državnog inspektora za poštu | [`pravilnik/1994/1404/`](pravilnik/1994/1404/) | in force | 1 | 1994-11-19 | 1994-11-19 |
+| Pravilnik o pečatu za pečačenje radijske postaje,telekomunikacijske i druge tehničke opreme | [`pravilnik/1994/1405/`](pravilnik/1994/1405/) | in force | 1 | 1994-11-19 | 1994-11-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika u obliku, sadržaju i uporabi obrazaca platnog prometa | [`pravilnik/1994/1443/`](pravilnik/1994/1443/) | amending act | 1 | 1994-11-18 | 1994-11-18 |
+| Pravilmik o načinu vodenja očevidnika o obavljenom nadzoru državnog inspektora pošte | [`pravilnik/1994/1456/`](pravilnik/1994/1456/) | in force | 1 | 1994-12-02 | 1994-12-02 |
+| Pravilnik o izmjenama Pravilnika o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnoj školi | [`pravilnik/1994/1460/`](pravilnik/1994/1460/) | in force | 1 | 1994-12-02 | 1994-12-02 |
+| Pravilnik o provjeri stručne osposobljenosti djelatnika autoškola i ovlaštenih ispitivača | [`pravilnik/1994/1537/`](pravilnik/1994/1537/) | in force | 1 | 1994-12-16 | 1994-12-16 |
+| Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1995. godinu | [`pravilnik/1994/1566/`](pravilnik/1994/1566/) | in force | 1 | 1994-12-12 | 1994-12-12 |
+| Pravilnik o dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1994/1632/`](pravilnik/1994/1632/) | amending act | 1 | 1994-12-30 | 1994-12-30 |
+| Pravilnik o iznljenama i dopunama Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova osiguranim osobama Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/1994/1633/`](pravilnik/1994/1633/) | amending act | 1 | 1994-12-22 | 1994-12-22 |
+| Pravilnik o izmjenama Pravilnika o pečatu za pečaćenje radijske postaje, telekomunikacijske i druge tehničke opreme | [`pravilnik/1994/1665/`](pravilnik/1994/1665/) | in force | 1 | 1995-01-06 | 1995-01-06 |
+| Pravilnik o izmjenama Pravilnika o kriterijima, postupku, načinu utvrđivanja i osiguranja križanja željezničke pruge i ceste | [`pravilnik/1994/1666/`](pravilnik/1994/1666/) | in force | 1 | 1995-01-06 | 1995-01-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o organizaciji, sastavu i radu stručnih organa vještačenja u mirovinskom i invalidskom osiguranju | [`pravilnik/1994/1687/`](pravilnik/1994/1687/) | amending act | 1 | 1995-01-06 | 1995-01-06 |
+| Pravilnik o izmjenama Pravilnika o organizaciji,sastavu i radu stručnih organa vještačenja u mirovinskom i invalidskom osiguranju | [`pravilnik/1995/464/`](pravilnik/1995/464/) | in force | 1 | 1995-04-08 | 1995-04-08 |
+| Pravilnik o odredivanju pravnih osoba u kojima se može obavljati civilna služba u Republici Hrvatskoj | [`pravilnik/1995/483/`](pravilnik/1995/483/) | in force | 1 | 1995-04-13 | 1995-04-13 |
+| Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1995/611/`](pravilnik/1995/611/) | amending act | 1 | 1995-05-17 | 1995-05-17 |
+| Pravilnik o kalendaru rada osnovnih škola za 1995 / 96. školsku knjigu | [`pravilnik/1995/781/`](pravilnik/1995/781/) | in force | 1 | 1995-06-17 | 1995-06-17 |
+| Pravilnik o načinu oglašanja rada zdravstvenih djelatnika privatne prakse | [`pravilnik/1995/782/`](pravilnik/1995/782/) | in force | 1 | 1995-06-09 | 1995-06-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju mreže i krlterija o dovoljnom broju stanica za tehnički pregled vozila | [`pravilnik/1995/811/`](pravilnik/1995/811/) | amending act | 1 | 1995-06-22 | 1995-06-22 |
+| Pravilnik o izmjeni Pravilnika o klasifikaciji, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata | [`pravilnik/1995/835/`](pravilnik/1995/835/) | in force | 1 | 1995-06-23 | 1995-06-23 |
+| Pravilnik o dopuni Pravilnika o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1995/864/`](pravilnik/1995/864/) | amending act | 1 | 1995-06-30 | 1995-06-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sastavu, ovlastima i načinu rada kontrolora i liječničkih komisija hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/1995/865/`](pravilnik/1995/865/) | amending act | 1 | 1995-06-30 | 1995-06-30 |
+| Pravilnik o obliku i sadržaju potvrde o naplati novčanih kazni | [`pravilnik/1995/964/`](pravilnik/1995/964/) | in force | 1 | 1995-07-20 | 1995-07-20 |
+| Pravilnik o dopunama Pravilnika o pripravničkom stažu zdravstvenih djelatnika | [`pravilnik/1995/965/`](pravilnik/1995/965/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
+| Pravilnik o zaštiti pojedinih vrsta vodozemaca (Amphibia) | [`pravilnik/1995/966/`](pravilnik/1995/966/) | in force | 1 | 1995-07-20 | 1995-07-20 |
+| Pravilnik o načinu i uvjetima dodjele sredstava za zapošljavanje nezaposlenih invalida rada i djece ometene u psihičkom ili fizičkom razvoju | [`pravilnik/1995/981/`](pravilnik/1995/981/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Pravilnik o slobodnim carinskim prodavaonicama | [`pravilnik/1995/1009/`](pravilnik/1995/1009/) | in force | 1 | 1995-07-25 | 1995-07-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uzimanju uzoraka i carinskim obilježjima | [`pravilnik/1995/1040/`](pravilnik/1995/1040/) | amending act | 1 | 1995-07-26 | 1995-07-26 |
+| Pravilnik o izmjeni Pravilnika o ukupnom trajanju vremena upravljanja vozilom, o radu udvojenih posada, o odmorima vozača i o individualnoj kontrolnoj knjižici | [`pravilnik/1995/1093/`](pravilnik/1995/1093/) | in force | 1 | 1995-08-09 | 1995-08-09 |
+| Pravilnik o uvjetima za obavljanje istraživanja u posebno zaštićenim dijelovima prirode na morskom dnu ili morskom podzemlju unutrašnjih morskih voda Republike Hrvatske | [`pravilnik/1995/1094/`](pravilnik/1995/1094/) | in force | 1 | 1995-08-09 | 1995-08-09 |
+| Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u 1995/1996. školskoj godini | [`pravilnik/1995/1167/`](pravilnik/1995/1167/) | in force | 1 | 1995-09-13 | 1995-09-13 |
+| Pravilnik o izmjeni Pravilnika o minimalnoj opremi i sadržaju brodske ljekarne | [`pravilnik/1995/1221/`](pravilnik/1995/1221/) | in force | 1 | 1995-09-25 | 1995-09-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu polaganja stručnog ispita i ispitnom programu za samostalno obavljanje geoloških istraživanja | [`pravilnik/1995/1357/`](pravilnik/1995/1357/) | amending act | 1 | 1995-10-20 | 1995-10-20 |
+| Pravilnik o obrascu Prijedloga za ocjenu državnog službenika i namještenika | [`pravilnik/1995/1389/`](pravilnik/1995/1389/) | in force | 1 | 1995-10-31 | 1995-10-31 |
+| Pravilnik o obrascu izjave o nepostojanju okolnosti koje predstavljaju zapreku za prijem u državnu službu | [`pravilnik/1995/1390/`](pravilnik/1995/1390/) | in force | 1 | 1995-10-31 | 1995-10-31 |
+| Pravilnik o dopuni Pravilnika o naknadi za uporabu radijskih frekvencija i načinu plaćanja | [`pravilnik/1995/1396/`](pravilnik/1995/1396/) | amending act | 1 | 1995-11-02 | 1995-11-02 |
+| Pravilnik o dopuni Pravilnika o vrstama radijskih postaja, koje mogu upotrebljavati stranci, strane pravne osobe i diplomatska zastupstva | [`pravilnik/1995/1397/`](pravilnik/1995/1397/) | amending act | 1 | 1995-11-02 | 1995-11-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o normi neposrednog odgojno-obrazovnog rada po nastavnim predmetima i načinu utvrđivanja broja izvršitelja na odgojno-obrazovnim i drugim poslovima u osnov | [`pravilnik/1995/1416/`](pravilnik/1995/1416/) | amending act | 1 | 1995-11-11 | 1995-11-11 |
+| Pravilnik o izmjeni Pravilnika o pošti | [`pravilnik/1995/1420/`](pravilnik/1995/1420/) | in force | 1 | 1995-11-11 | 1995-11-11 |
+| Pravilnik o izmjeni i dopuni pravilnika o vrsti i količini predmeta domaćinstva koji se mogu uvoziti temeljem carinske povlastice iz članka 21. Stavak 1. Točka 3. i 4. Carinskog zakona | [`pravilnik/1995/1758/`](pravilnik/1995/1758/) | amending act | 1 | 1996-01-01 | 1996-01-01 |
+| Pravilnik o izboru, načinu i postupku ostvarivanja prava osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima 100% I grupe | [`pravilnik/1995/1789/`](pravilnik/1995/1789/) | in force | 1 | 1995-12-28 | 1995-12-28 |
+| Pravilnik o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1996. godinu | [`pravilnik/1996/54/`](pravilnik/1996/54/) | in force | 1 | 1996-01-10 | 1996-01-10 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pošti | [`pravilnik/1996/81/`](pravilnik/1996/81/) | amending act | 1 | 1996-01-25 | 1996-01-25 |
+| Pravilnik | [`pravilnik/1996/147/`](pravilnik/1996/147/) | in force | 1 | 1996-02-06 | 1996-02-06 |
+| Pravilnik o oslobođenju od snašanja troškova pružanja javnobilježničkih usluga | [`pravilnik/1996/361/`](pravilnik/1996/361/) | in force | 1 | 1996-03-16 | 1996-03-16 |
+| Pravilnik o naknadama za dežurstva sudaca prekršajnih sudova | [`pravilnik/1996/385/`](pravilnik/1996/385/) | in force | 1 | 1996-03-21 | 1996-03-21 |
+| Pravilnik o izmjenama Pravilnika o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1996/398/`](pravilnik/1996/398/) | in force | 1 | 1996-03-14 | 1996-03-14 |
+| Pravilnik o hrvatskim normama | [`pravilnik/1996/415/`](pravilnik/1996/415/) | in force | 1 | 1996-03-28 | 1996-03-28 |
+| Pravilnik o mjerilima i načinu utvrđivanja duševne, tjelesne i zdravstvene sposobnosti pirotehničara | [`pravilnik/1996/502/`](pravilnik/1996/502/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1996/504/`](pravilnik/1996/504/) | in force | 1 | 1996-04-03 | 1996-04-03 |
+| Pravilnik o visini naknade za izdavanje rješenja kojim se utvrđuju nekretnine | [`pravilnik/1996/597/`](pravilnik/1996/597/) | in force | 1 | 1996-04-17 | 1996-04-17 |
+| Pravilnik o izmjeni i dopuni Pravilnika o upisniku o minimalnim uvjetima ugostiteljskih objekata koji se ne kategoriziraju i obrascu zahtjeva ugostitelja | [`pravilnik/1996/629/`](pravilnik/1996/629/) | amending act | 1 | 1996-04-27 | 1996-04-27 |
+| Pravilnik o dopuni Pravilnika o obrascu prijave i upisniku o pružanju ugostiteljskih usluga u objektima zatvorenog tipa | [`pravilnik/1996/630/`](pravilnik/1996/630/) | amending act | 1 | 1996-04-27 | 1996-04-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima za sigurnost željezničkog prometa kojima moraju udovoljavati željezničke pruge | [`pravilnik/1996/660/`](pravilnik/1996/660/) | amending act | 1 | 1996-05-04 | 1996-05-04 |
+| Pravilnik o kalendaru rada osnovnih škola i o početku i završetku nastave i trajanju odmora učenika srednjih škola u 1996/97. školskoj godini | [`pravilnik/1996/662/`](pravilnik/1996/662/) | in force | 1 | 1996-05-04 | 1996-05-04 |
+| Pravilnik o izmjeni i dopuni Pravilnika o postupku prijave i odjave turista i načinu vođenja popisa turista | [`pravilnik/1996/663/`](pravilnik/1996/663/) | amending act | 1 | 1996-05-04 | 1996-05-04 |
+| Pravilnik o vrsti dokumenata koje je kupac dionica, udjela, stvari i prava dužan dostaviti Hrvatskom fondu za privatizaciju prilikom sklapanja ugovora o kupnji | [`pravilnik/1996/719/`](pravilnik/1996/719/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Pravilnik o izmjeni Pravilnika o tehničkoj dokumentaciji radijske mreže i radijskih postaja za odašiljanje radijskih i televizijskih programa | [`pravilnik/1996/766/`](pravilnik/1996/766/) | in force | 1 | 1996-05-22 | 1996-05-22 |
+| Pravilnik o uvjetima i načinu zamjene dionica ili udjela | [`pravilnik/1996/856/`](pravilnik/1996/856/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Pravilnik o mjerama za otkrivanje, suzbijanje i iskorjenjivanje goveđe spongiformne encefalopatije | [`pravilnik/1996/859/`](pravilnik/1996/859/) | in force | 1 | 1996-06-05 | 1996-06-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o registraciji i opremi te uvjetima za upravljanje vozilima Ministarstva unutarnjih poslova Republike Hrvatske | [`pravilnik/1996/1167/`](pravilnik/1996/1167/) | amending act | 1 | 1996-07-20 | 1996-07-20 |
+| Pravilnik o dopunama Pravilnika o znacima što ih sudionicima u prometu na cestama daju ovlaštene službene osobe | [`pravilnik/1996/1168/`](pravilnik/1996/1168/) | amending act | 1 | 1996-07-20 | 1996-07-20 |
+| Pravilnik o očevidniku zahvaćenih i crpljenih količina vode | [`pravilnik/1996/1171/`](pravilnik/1996/1171/) | in force | 1 | 1996-07-20 | 1996-07-20 |
+| Pravilnik o izmjeni Pravilnika o koncesijama u javnim telekomunikacijama | [`pravilnik/1996/1225/`](pravilnik/1996/1225/) | in force | 1 | 1996-08-01 | 1996-08-01 |
+| Pravilnik o uvjetima za obavljanje djelatnosti visokih učiliša | [`pravilnik/1996/1226/`](pravilnik/1996/1226/) | in force | 1 | 1996-08-01 | 1996-08-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pripravničkom stažu zdravstvenih djelatnika | [`pravilnik/1996/1228/`](pravilnik/1996/1228/) | amending act | 1 | 1996-08-01 | 1996-08-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o ostvarivanju socijalne zaštite | [`pravilnik/1996/1230/`](pravilnik/1996/1230/) | amending act | 1 | 1996-08-01 | 1996-08-01 |
+| Pravilnik o primjeni računskog plana proračuna za Glavnu knjigu I (Knjiga prihoda i izdataka) | [`pravilnik/1996/1295/`](pravilnik/1996/1295/) | in force | 1 | 1996-08-09 | 1996-08-09 |
+| Pravilnik o primjeni računskog plana proračuna za Glavnu knjigu II (Knjiga imovine, obveza i izvora vlasništva) | [`pravilnik/1996/1296/`](pravilnik/1996/1296/) | in force | 1 | 1996-08-09 | 1996-08-09 |
+| Pravilnik o službenim odorama graničnih inspektora zaštite bilja Republike Hrvatske | [`pravilnik/1996/1315/`](pravilnik/1996/1315/) | in force | 1 | 1996-08-29 | 1996-08-29 |
+| Pravilnik o službenoj iskaznici državnog pravobranitelja i zamjenika državnog pravobranitelja | [`pravilnik/1996/1371/`](pravilnik/1996/1371/) | in force | 1 | 1996-09-28 | 1996-09-28 |
+| Pravilnik o izmjeni Pravilnika o naknadama za iskorištavanje snimljenih izvedaba umjetnika izvođača | [`pravilnik/1996/1373/`](pravilnik/1996/1373/) | in force | 1 | 1996-09-09 | 1996-09-09 |
+| Pravilnik o opsegu, uvjetima i načinu obavljanja poslova posredovanja pri zapošljavanju kada te poslove obavljaju pravne i fizičke osobe izvan Hrvatskog zavoda za zapošljavanje | [`pravilnik/1996/1444/`](pravilnik/1996/1444/) | in force | 1 | 1996-10-12 | 1996-10-12 |
+| Pravilnik o izmjeni Pravilnika o Stalnom izbranom sudištu pri Hrvatskoj gospodarskoj komori | [`pravilnik/1996/1509/`](pravilnik/1996/1509/) | in force | 1 | 1996-10-17 | 1996-10-17 |
+| Pravilnik o uvjetima koje mora ispunjavati ustanova koja obavlja tehnički nadzor | [`pravilnik/1996/1592/`](pravilnik/1996/1592/) | in force | 1 | 1996-11-02 | 1996-11-02 |
+| Pravilnik o načinu i postupku kontrole obavljanja platnog prometa kod ovlaštenih organizacija za obavljanje platnog prometa | [`pravilnik/1996/1612/`](pravilnik/1996/1612/) | in force | 1 | 1996-11-07 | 1996-11-07 |
+| Pravilnik o uvjetima i postupku za stjecanje prava na dopust trudnice ili žene koja doji dijete | [`pravilnik/1996/2000/`](pravilnik/1996/2000/) | in force | 1 | 1996-12-14 | 1996-12-14 |
+| Pravilnik o izmjeni Pravilnika o primjeni Zakona o porezu na promet proizvoda i usluga | [`pravilnik/1996/2139/`](pravilnik/1996/2139/) | in force | 1 | 1996-12-27 | 1996-12-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaja i uporabi obrazaca platnog prometa | [`pravilnik/1996/2152/`](pravilnik/1996/2152/) | amending act | 1 | 1996-12-27 | 1996-12-27 |
+| Pravilnik o dopuni Pravilnika o općim uvjetima za obavljanje telekomunikacijskih usluga | [`pravilnik/1997/32/`](pravilnik/1997/32/) | amending act | 1 | 1997-01-17 | 1997-01-17 |
+| Pravilnik o obavljanju lova ramponom | [`pravilnik/1997/44/`](pravilnik/1997/44/) | in force | 1 | 1997-03-01 | 1997-03-01 |
+| Pravilnik o dopuni Pravilnika o granicama u ribolovnom moru Republike Hrvatske | [`pravilnik/1997/157/`](pravilnik/1997/157/) | amending act | 1 | 1997-02-07 | 1997-02-07 |
+| Pravilnik o izmjeni Pravilnika o obavljanju privrednog i športskoga morskoga ribolova te zaštiti riba i drugih morskih organizama na području Velebitskog kanala | [`pravilnik/1997/158/`](pravilnik/1997/158/) | in force | 1 | 1997-02-07 | 1997-02-07 |
+| Pravilnik o uvjetima provedbe nastave i osposobljavanja osoba za čuvara | [`pravilnik/1997/189/`](pravilnik/1997/189/) | in force | 1 | 1997-02-13 | 1997-02-13 |
+| Pravilnik o radu Arbitražnog vijeća pri Hrvatskoj obrtničkoj komori | [`pravilnik/1997/303/`](pravilnik/1997/303/) | in force | 1 | 1997-03-01 | 1997-03-01 |
+| Pravilnik o dopuni Pravilnika o minimalnotehničkim uvjetima i načinu pružanja usluga putničkih agencija | [`pravilnik/1997/310/`](pravilnik/1997/310/) | amending act | 1 | 1997-03-05 | 1997-03-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima i uvjetima uporabe za objekte i tehničku opremu kabelske televizije | [`pravilnik/1997/422/`](pravilnik/1997/422/) | amending act | 1 | 1997-03-22 | 1997-03-22 |
+| Pravilnik o izmjeni i dopuni Pravilnika o ribolovnim alatima i opremi za mali ribolov | [`pravilnik/1997/439/`](pravilnik/1997/439/) | amending act | 1 | 1997-03-27 | 1997-03-27 |
+| Pravilnik o izmjenama Pravilnika o razvrstavanju građevina, građevinskih dijelova i prostora u kategorije ugroženosti od požara | [`pravilnik/1997/467/`](pravilnik/1997/467/) | in force | 1 | 1997-04-03 | 1997-04-03 |
+| Pravilnik o odori željezničkih djelatnika i načinu zaustavljanja prometa na prijelazu ceste preko željezničke pruge u istoj razini | [`pravilnik/1997/488/`](pravilnik/1997/488/) | in force | 1 | 1997-04-05 | 1997-04-05 |
+| Pravilnik o izmjeni Pravilnika o obavljanju ribolova pridnenom povlačnom mrežom koćom | [`pravilnik/1997/579/`](pravilnik/1997/579/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Pravilnik o uvjetima i mjerilima za ostvarivanje prava na stipendiju hrvatskim braniteljima iz Domovinskog rata | [`pravilnik/1997/581/`](pravilnik/1997/581/) | in force | 1 | 1997-04-26 | 1997-04-26 |
+| Pravilnik o postupku i načinu ostvarivanja prava na prilagodbu prilaza do zgrade i prilagodbu stana za kretanje u kolicima za potrebe hrvatskih ratnih vojnih invalida Domovinskog rata | [`pravilnik/1997/600/`](pravilnik/1997/600/) | in force | 1 | 1997-04-23 | 1997-04-23 |
+| Pravilnik o izmjenama Pravilnika o identifikacijskom kodu putničke agencije | [`pravilnik/1997/686/`](pravilnik/1997/686/) | in force | 1 | 1997-05-14 | 1997-05-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obaveznom potvrđivanju elemenata tipnih građevinskih konstrukcija na otpornost prema požaru te o uvjetima kojima moraju udovoljavati pravne osobe ovlaštene za atestiranje tih proizvoda | [`pravilnik/1997/687/`](pravilnik/1997/687/) | amending act | 1 | 1997-05-14 | 1997-05-14 |
+| Pravilnik o vrsti objekata namijenjenih za rad kojih inspekcija rada sudjeluje u postupku izdavanja građevnih dozvola i u tehničkim pregledima izgrađenih objekata | [`pravilnik/1997/704/`](pravilnik/1997/704/) | in force | 1 | 1997-05-17 | 1997-05-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zdravstvenoj ispravnosti vode za piće | [`pravilnik/1997/717/`](pravilnik/1997/717/) | amending act | 1 | 1997-05-21 | 1997-05-21 |
+| Pravilnik o načinu utvrđivanja visine kredita za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskog branitelja | [`pravilnik/1997/762/`](pravilnik/1997/762/) | in force | 1 | 1997-04-21 | 1997-04-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu izvođenja i stjecanja srednjoškolskog obrazovanja odraslih | [`pravilnik/1997/945/`](pravilnik/1997/945/) | amending act | 1 | 1997-06-21 | 1997-06-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o naknadi za obavljanje malog ribolova | [`pravilnik/1997/988/`](pravilnik/1997/988/) | amending act | 1 | 1997-06-28 | 1997-06-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju ribolova mrežama stajačicama | [`pravilnik/1997/1196/`](pravilnik/1997/1196/) | amending act | 1 | 1997-07-04 | 1997-07-04 |
+| Pravilnik o dopunama Pravilnika o tehničkim normativima za ventilacijske ili klimatizacijske sustave | [`pravilnik/1997/1202/`](pravilnik/1997/1202/) | amending act | 1 | 1997-07-12 | 1997-07-12 |
+| Pravilnik o izmjeni Pravilnika o obrascu prijave i Upisniku o pružanju ugostiteljskih usluga u objektima zatvorenog tipa | [`pravilnik/1997/1320/`](pravilnik/1997/1320/) | in force | 1 | 1997-07-29 | 1997-07-29 |
+| Pravilnik o izmjeni Pravilnika o Upisniku o minimalnim uvjetima ugostiteljskih objekata koji se ne kategoriziraju i obrascu zahtjeva ugostitelja | [`pravilnik/1997/1321/`](pravilnik/1997/1321/) | in force | 1 | 1997-07-29 | 1997-07-29 |
+| Pravilnik o izmjeni Pravilnika o Upisniku odobrenja za pružanje turističkih usluga građana | [`pravilnik/1997/1322/`](pravilnik/1997/1322/) | in force | 1 | 1997-07-29 | 1997-07-29 |
+| Pravilnik o izmjeni Pravilnika o Upisniku turističkih vodiča | [`pravilnik/1997/1323/`](pravilnik/1997/1323/) | in force | 1 | 1997-07-29 | 1997-07-29 |
+| Pravilnik o izmjeni Pravilnika o Upisniku putničkih agencija | [`pravilnik/1997/1324/`](pravilnik/1997/1324/) | in force | 1 | 1997-07-29 | 1997-07-29 |
+| Pravilnik o sadržaju i načinu financijskog izvješćivanja za jedinice lokalne samouprave u kojima su nastale područne promjene | [`pravilnik/1997/1354/`](pravilnik/1997/1354/) | in force | 1 | 1997-07-25 | 1997-07-25 |
+| Pravilnik o mjerilima i uvjetima za sklapanje ugovora o radu sa znanstvenim novacima radi specijalističkog usavršavanja | [`pravilnik/1997/1390/`](pravilnik/1997/1390/) | in force | 1 | 1997-08-16 | 1997-08-16 |
+| Pravilnik o izmjeni pravilnika o obavljanju privrednoga i športskoga morskoga ribolova te zaštiti riba i drugih morskih organizama na području Velebitskog kanala | [`pravilnik/1997/1391/`](pravilnik/1997/1391/) | in force | 1 | 1997-08-08 | 1997-08-08 |
+| Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom | [`pravilnik/1997/1399/`](pravilnik/1997/1399/) | in force | 1 | 1997-08-16 | 1997-08-16 |
+| Pravilnik o izmjenama Pravilnika o postupku za ostvarivanje prava na oslobađanje od plaćanja carine | [`pravilnik/1997/1415/`](pravilnik/1997/1415/) | in force | 1 | 1997-08-20 | 1997-08-20 |
+| Pravilnik o izmjeni Pravilnika o obavljanju ribolova mrežama stajačicama | [`pravilnik/1997/1481/`](pravilnik/1997/1481/) | in force | 1 | 1997-09-18 | 1997-09-18 |
+| Pravilnik o dopunama Pravilnika o kvaliteti aditiva za prehrambene proizvode | [`pravilnik/1997/1516/`](pravilnik/1997/1516/) | amending act | 1 | 1997-09-24 | 1997-09-24 |
+| Pravilnik o izmjenama i dopunama Pravilnika o kvaliteti jaja i proizvoda od jaja | [`pravilnik/1997/1517/`](pravilnik/1997/1517/) | amending act | 1 | 1997-09-24 | 1997-09-24 |
+| Pravilnik o dopuni Pravilnika o posebnim uvjetima koje moraju obavljati pravne osobe koje obavljaju djelatnost odvodnje otpadnih voda | [`pravilnik/1997/1590/`](pravilnik/1997/1590/) | amending act | 1 | 1997-10-11 | 1997-10-11 |
+| Pravilnik o dopuni Pravilnika o posebnim uvjetima za obavljanje vodoopskrbne djelatnosti | [`pravilnik/1997/1591/`](pravilnik/1997/1591/) | amending act | 1 | 1997-10-11 | 1997-10-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju, obliku i načinu izdavanja dozvole instruktora vožnje | [`pravilnik/1997/1601/`](pravilnik/1997/1601/) | amending act | 1 | 1997-10-14 | 1997-10-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku obavljanja nadzora kakvoće određenih proizvoda pri uvozu i izvozu | [`pravilnik/1997/1657/`](pravilnik/1997/1657/) | amending act | 1 | 1997-10-25 | 1997-10-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o kvaliteti jestivih ulja i masti biljnog porijekla, margarina, majoneze i njima srodnih proizvoda | [`pravilnik/1997/1689/`](pravilnik/1997/1689/) | amending act | 1 | 1997-11-01 | 1997-11-01 |
+| Pravilnik o vrsti stručne spreme školskih nadzornika i viših školskih nadzornika i drugih stručnih osoba koje se ovlašćuju za stručno - pedagoški nadzor | [`pravilnik/1997/1771/`](pravilnik/1997/1771/) | in force | 1 | 1997-11-15 | 1997-11-15 |
+| Pravilnik o izmjenama Pravilnika o utvrđivanju trgovačkih kategorija i klasa svinjskih trupova i polovica | [`pravilnik/1997/1865/`](pravilnik/1997/1865/) | in force | 1 | 1997-12-06 | 1997-12-06 |
+| Pravilnik o dopuni Pravilnika o kvaliteti jaja i proizvoda od jaja | [`pravilnik/1997/1866/`](pravilnik/1997/1866/) | amending act | 1 | 1997-12-06 | 1997-12-06 |
+| Pravilnik o uvjetima glede uređenja objekata, veterinarske opreme i stručnih djelatnika, kojima moraju udovoljavati pravne i fizičke osobe u sustavu provedbe veterinarske djelatnosti | [`pravilnik/1997/1948/`](pravilnik/1997/1948/) | in force | 1 | 1997-12-24 | 1997-12-24 |
+| Pravilnik o ribolovnim alatima i opremi za rekreacijsko-športski ribolov na moru | [`pravilnik/1997/1949/`](pravilnik/1997/1949/) | in force | 1 | 1998-01-01 | 1998-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stomatološkim pomagalima | [`pravilnik/1997/2007/`](pravilnik/1997/2007/) | amending act | 1 | 1998-01-06 | 1998-01-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o amortizaciji | [`pravilnik/1997/2029/`](pravilnik/1997/2029/) | amending act | 1 | 1997-12-31 | 1997-12-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini naknade za koncesiju u javnim telekomunikacijama i načinu plaćanja | [`pravilnik/1998/98/`](pravilnik/1998/98/) | amending act | 1 | 1998-01-29 | 1998-01-29 |
+| Pravilnik o izmjenama Pravilnika o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1998. godinu | [`pravilnik/1998/287/`](pravilnik/1998/287/) | in force | 1 | 1998-02-19 | 1998-02-19 |
+| Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu | [`pravilnik/1998/288/`](pravilnik/1998/288/) | in force | 1 | 1998-02-19 | 1998-02-19 |
+| Pravilnik o kalendaru rada osnovnih škola za školsku godinu 1998./99. | [`pravilnik/1998/488/`](pravilnik/1998/488/) | in force | 1 | 1998-03-28 | 1998-03-28 |
+| Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 1998./99. | [`pravilnik/1998/489/`](pravilnik/1998/489/) | in force | 1 | 1998-03-28 | 1998-03-28 |
+| Pravilnik o dopuni Pravilnika o uvjetima i načinu obavješćivanja potrošača o svojstvima proizvoda alkoholnih pića, duhana i duhanskih prerađevina koje se ne smatra reklamiranjem | [`pravilnik/1998/501/`](pravilnik/1998/501/) | amending act | 1 | 1998-03-31 | 1998-03-31 |
+| Pravilnik o dopuni Pravilnika o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1998. godinu | [`pravilnik/1998/688/`](pravilnik/1998/688/) | amending act | 1 | 1998-04-17 | 1998-04-17 |
+| Pravilnik o načinu i postupku ostvarivanja i neposredne isplate naknade za kvalitetno poljoprivredno sjeme, lavandino ulje, NPK mineralna gnojiva i sve vrste ribljih proizvoda | [`pravilnik/1998/735/`](pravilnik/1998/735/) | in force | 1 | 1998-04-28 | 1998-04-28 |
+| Pravilnik o dopuni Pravilnika o načinu upisa u sudski registar | [`pravilnik/1998/736/`](pravilnik/1998/736/) | amending act | 1 | 1998-04-28 | 1998-04-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku za ostvarivanje i neposrednu isplatu novčanih poticaja u poljoprivredi i ribarstvu | [`pravilnik/1998/776/`](pravilnik/1998/776/) | amending act | 1 | 1998-05-08 | 1998-05-08 |
+| Pravilnik o habilitacijskom postupku | [`pravilnik/1998/841/`](pravilnik/1998/841/) | in force | 1 | 1998-05-22 | 1998-05-22 |
+| Pravilnik o izmjeni i dopuni Pravilnika o načinu i postupku za ostvarivanje i neposrednu isplatu novčanih poticaja u poljoprivredi i ribarstvu | [`pravilnik/1998/1027/`](pravilnik/1998/1027/) | amending act | 1 | 1998-06-06 | 1998-06-06 |
+| Pravilnik o zaštiti pijavica (Hirudinea) | [`pravilnik/1998/1030/`](pravilnik/1998/1030/) | in force | 1 | 1998-06-06 | 1998-06-06 |
+| Pravilnik o izmjeni Pravilnika o ribolovnim alatima i opremi za mali ribolov | [`pravilnik/1998/1050/`](pravilnik/1998/1050/) | in force | 1 | 1998-06-11 | 1998-06-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o kalendaru rada osnovnih škola i o početku i završetku nastave te trajanju odmora učenika srednjih škola u školskoj godini 1997/98. | [`pravilnik/1998/1139/`](pravilnik/1998/1139/) | amending act | 1 | 1998-06-11 | 1998-06-11 |
+| Pravilnik o dopuni Pravilnika o kriterijima za primanje na pripravnički staž zdravstvenih djelatnika | [`pravilnik/1998/1140/`](pravilnik/1998/1140/) | amending act | 1 | 1998-06-19 | 1998-06-19 |
+| Pravilnik o dopuni Pravilnika o obuci, ispitima i provjeri znanja i vještina pirotehničara te sadržaju i izgledu ovlasti za razminiranje | [`pravilnik/1998/1146/`](pravilnik/1998/1146/) | amending act | 1 | 1998-06-20 | 1998-06-20 |
+| Pravilnik o socijalnom zbrinjavanju povratnika i useljenika | [`pravilnik/1998/1152/`](pravilnik/1998/1152/) | in force | 1 | 1998-06-16 | 1998-06-16 |
+| Pravilnik o načinu i postupku ostvarivanja naknade dijela cijene diesel goriva pravnim i fizičkim osobama koje obavljaju gospodarski ribolov na moru | [`pravilnik/1998/1168/`](pravilnik/1998/1168/) | in force | 1 | 1998-06-19 | 1998-06-19 |
+| Pravilnik o načinu osnivanja i rada tehničkih odbora | [`pravilnik/1998/1172/`](pravilnik/1998/1172/) | in force | 1 | 1998-06-27 | 1998-06-27 |
+| Pravilnik o izmjenama Pravilnika o obavljanju ribolova mrežama stajaćicama | [`pravilnik/1998/1182/`](pravilnik/1998/1182/) | in force | 1 | 1998-07-02 | 1998-07-02 |
+| Pravilnik o izmjenama Pravilnika o obavljanju ribolova pridnenom povlačnom mrežom koćom | [`pravilnik/1998/1183/`](pravilnik/1998/1183/) | in force | 1 | 1998-07-02 | 1998-07-02 |
+| Pravilnik o izmjenama Pravilnika o obavljanju privrednoga i športskoga morskoga ribolova te zaštiti riba i drugih morskih životinja na području Velebitskoga kanala | [`pravilnik/1998/1184/`](pravilnik/1998/1184/) | in force | 1 | 1998-07-02 | 1998-07-02 |
+| Pravilnik o programu stručnog ispita za čuvara | [`pravilnik/1998/1256/`](pravilnik/1998/1256/) | in force | 1 | 1998-07-08 | 1998-07-08 |
+| Pravilnik o izmjeni Pravilnika o obavljanju ribolova mrežama stajaćicama | [`pravilnik/1998/1309/`](pravilnik/1998/1309/) | in force | 1 | 1998-07-14 | 1998-07-14 |
+| Pravilnik o izmjenama Pravilnika o ribolovu ludrom, zagonicom i fružatom | [`pravilnik/1998/1310/`](pravilnik/1998/1310/) | in force | 1 | 1998-07-14 | 1998-07-14 |
+| Pravilnik o načinu utovara, pretovara i istovara pošiljaka životinja, sirovina, proizvoda i otpadaka životinjskog podrijetla i higijensko-tehničkim uvjetima kojima mora udovoljavati prijevozno sredstv | [`pravilnik/1998/1340/`](pravilnik/1998/1340/) | in force | 1 | 1998-07-25 | 1998-07-25 |
+| Pravilnik o prestanku važenja Pravilnika o provjeri znanja vozača kojima je izrečena zaštitna mjera u skladu sa zakonom | [`pravilnik/1998/1372/`](pravilnik/1998/1372/) | in force | 1 | 1998-07-30 | 1998-07-30 |
+| Pravilnik o naknadi za ceste za strano vozilo | [`pravilnik/1998/1391/`](pravilnik/1998/1391/) | in force | 1 | 1998-08-01 | 1998-08-01 |
+| Pravilnik o izmjenama Pravilnika o kriterijima, uvjetima i načinu korištenja sredstava za realizaciju razvojjnih programa poljoprivrede Republike Hrvatske | [`pravilnik/1998/1445/`](pravilnik/1998/1445/) | in force | 1 | 1998-08-08 | 1998-08-08 |
+| Pravilnik o izmjenama Pravilnika o visini cestarine za uporabu autocesta i objekata s naplatom | [`pravilnik/1998/1447/`](pravilnik/1998/1447/) | in force | 1 | 1998-07-31 | 1998-07-31 |
+| Pravilnik o uvijetima koje mora ispunjavati Županijski odnosno Gradski zavod za prostorno uređenje za obavljanje poslova izrade prostornih planova | [`pravilnik/1998/1448/`](pravilnik/1998/1448/) | in force | 1 | 1998-08-08 | 1998-08-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvijetima za ovlaštene mjeriteljske laboratorije za ovjeravanje uređaja kojima se nadzire rad vozača i kretanja vozila u cestovnom prometu | [`pravilnik/1998/1453/`](pravilnik/1998/1453/) | amending act | 1 | 1998-08-08 | 1998-08-08 |
+| Pravilnik o dopuni pravilnika o obavljanju ribolova pridenom povlačnom mrežom koćom | [`pravilnik/1998/1498/`](pravilnik/1998/1498/) | amending act | 1 | 1998-08-13 | 1998-08-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ribolovu ludrom, zagonicom i fružatom | [`pravilnik/1998/1499/`](pravilnik/1998/1499/) | amending act | 1 | 1998-08-13 | 1998-08-13 |
+| Pravilnik o uvjetima pod kojima strane pravne i fizičke osobe smiju obavljati istraživanja, ispitivanja, fotografiranja i mjerenja mora, morskoga dna i/ili morskoga podzemlja unutrašnjih morskih voda | [`pravilnik/1998/1536/`](pravilnik/1998/1536/) | in force | 1 | 1998-09-11 | 1998-09-11 |
+| Pravilnik o načinu postupanja i pohrani izjava o imovini | [`pravilnik/1998/1584/`](pravilnik/1998/1584/) | in force | 1 | 1998-09-29 | 1998-09-29 |
+| Pravilnik o načinu rada Povjerenstva za licenciranje rasplodnjaka | [`pravilnik/1998/1594/`](pravilnik/1998/1594/) | in force | 1 | 1998-10-15 | 1998-10-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o minimalno-tehničkim uvjetima i načinu pružanja usluga putničkih agencija | [`pravilnik/1998/1617/`](pravilnik/1998/1617/) | amending act | 1 | 1998-10-22 | 1998-10-22 |
+| Pravilnik o načinu i rokovima isplate dodatka uz mirovinu | [`pravilnik/1998/1647/`](pravilnik/1998/1647/) | in force | 1 | 1998-10-27 | 1998-10-27 |
+| Pravilnik o izmjeni i dopuni Pravilnika o pružanju ugostiteljskih usluga u pokretnim objektima | [`pravilnik/1998/1678/`](pravilnik/1998/1678/) | amending act | 1 | 1998-10-28 | 1998-10-28 |
+| Pravilnik o procjeni vrijednosti prikupljenih dionica u postupku osnivanja privatizacijskog investicijskog fonda | [`pravilnik/1998/1750/`](pravilnik/1998/1750/) | in force | 1 | 1998-10-28 | 1998-10-28 |
+| Pravilnik o vođenju grobnog očevidnika i registra umrlih osoba | [`pravilnik/1998/1776/`](pravilnik/1998/1776/) | in force | 1 | 1998-11-07 | 1998-11-07 |
+| Pravilnik o načinu oglašavanja i obavješćivanja o lijekovima i medicinskim proizvodima | [`pravilnik/1998/1781/`](pravilnik/1998/1781/) | in force | 1 | 1998-11-07 | 1998-11-07 |
+| Pravilnik o određivanju kazališnih djelatnika koji se smatraju kazališnim umjetnicima | [`pravilnik/1998/1804/`](pravilnik/1998/1804/) | in force | 1 | 1998-11-14 | 1998-11-14 |
+| Pravilnik o dopuni Pravilnika o obavljanju ribolova pridnenom povlačnom mrežom koćom | [`pravilnik/1998/1805/`](pravilnik/1998/1805/) | amending act | 1 | 1998-11-06 | 1998-11-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pošiljkama proizvoda životinjskoga podrijetla za koje ne postoje veterinarsko-zdravstvene smetnje pri uvozu u Republiku Hrvatsku i provozu preko teritorij | [`pravilnik/1998/1957/`](pravilnik/1998/1957/) | amending act | 1 | 1998-12-22 | 1998-12-22 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutrašnjih morskih voda i teritorijalnog mora Republike Hrvatske, te granicama plovidbe brodova i brodica | [`pravilnik/1998/1988/`](pravilnik/1998/1988/) | amending act | 1 | 1998-12-26 | 1998-12-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o održavanju i zaštiti javnih cesta | [`pravilnik/1998/2003/`](pravilnik/1998/2003/) | amending act | 1 | 1998-12-30 | 1998-12-30 |
+| Pravilnik o izmjeni Pravilnika o visini cestarine za uporabu autocesta i objekata s naplatom | [`pravilnik/1998/2034/`](pravilnik/1998/2034/) | in force | 1 | 1999-01-01 | 1999-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu propisivanja i naplaćivanja lijekova | [`pravilnik/1998/2040/`](pravilnik/1998/2040/) | amending act | 1 | 1999-01-06 | 1999-01-06 |
+| Pravilnik o programu i načinu stručnog usavršavanja i provjeri stručnosti nadzornika i drugih zaposlenika koji rade na stručnim poslovima tehničkih pregleda i registracije vozila | [`pravilnik/1998/2048/`](pravilnik/1998/2048/) | in force | 1 | 1999-01-07 | 1999-01-07 |
+| Pravilnik o dopuni Pravilnika o koncesijama u javnim telekomunikacijama | [`pravilnik/1999/31/`](pravilnik/1999/31/) | amending act | 1 | 1999-01-16 | 1999-01-16 |
+| Pravilnik o izmjenama Pravilnika o visini naknade za koncesiju u javnim telekomunikacijama i načinu plaćanja | [`pravilnik/1999/32/`](pravilnik/1999/32/) | in force | 1 | 1999-01-16 | 1999-01-16 |
+| Pravilnik o načinu plaćanja i obračunavanja doprinosa za mirovinsko osiguranje | [`pravilnik/1999/33/`](pravilnik/1999/33/) | in force | 1 | 1999-01-09 | 1999-01-09 |
+| Pravilnik o krvi i krvnim sastojcima | [`pravilnik/1999/310/`](pravilnik/1999/310/) | in force | 1 | 1999-02-16 | 1999-02-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima za prirodne mineralne, izvorske i stolne vode | [`pravilnik/1999/363/`](pravilnik/1999/363/) | amending act | 1 | 1999-02-26 | 1999-02-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku i uvjetima za priznavanje prava samostalnih umjetnika na uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava prora | [`pravilnik/1999/457/`](pravilnik/1999/457/) | amending act | 1 | 1999-03-11 | 1999-03-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pomorskim knjižicama, odobrenjima za ukrcanje i nadležnosti lučkih kapetanija za izdavanje | [`pravilnik/1999/494/`](pravilnik/1999/494/) | amending act | 1 | 1999-03-17 | 1999-03-17 |
+| Pravilnik o dopuni Pravilnika o javnobilježničkim protestnim upisnicima | [`pravilnik/1999/505/`](pravilnik/1999/505/) | amending act | 1 | 1999-03-20 | 1999-03-20 |
+| Pravilnik o izmjenama i dopunama Pravilnika o osnovama financiranja znanstveno-istraživačkog instituta | [`pravilnik/1999/573/`](pravilnik/1999/573/) | amending act | 1 | 1999-04-01 | 1999-04-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o osnovama financiranja visoke naobrazbe na javnim visokim učilištima | [`pravilnik/1999/574/`](pravilnik/1999/574/) | amending act | 1 | 1999-04-01 | 1999-04-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1999. godinu | [`pravilnik/1999/625/`](pravilnik/1999/625/) | amending act | 1 | 1999-03-31 | 1999-03-31 |
+| Pravilnik o stručnom bankarskom ispitu | [`pravilnik/1999/642/`](pravilnik/1999/642/) | in force | 1 | 1999-04-10 | 1999-04-10 |
+| Pravilnik o izmjeni Pravilnika o privrednom i sportskom ribolovu, uzgoju riba i drugih morskih životinja, vađenju spužava, koralja, školjkaša i morskog bilja | [`pravilnik/1999/709/`](pravilnik/1999/709/) | in force | 1 | 1999-04-17 | 1999-04-17 |
+| Pravilnik o postupku i načinu utvrđivanja obveza Republike Hrvatske za mirovinsko osiguranje | [`pravilnik/1999/710/`](pravilnik/1999/710/) | in force | 1 | 1999-04-17 | 1999-04-17 |
+| Pravilnik o kalendaru rada osnovnih škola za školsku godinu 1999./2000. | [`pravilnik/1999/739/`](pravilnik/1999/739/) | in force | 1 | 1999-04-20 | 1999-04-20 |
+| Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 1999./2000. | [`pravilnik/1999/740/`](pravilnik/1999/740/) | in force | 1 | 1999-04-20 | 1999-04-20 |
+| Pravilnik o izmjeni i dopuni Pravilnika o obrascu službene iskaznice i posebnoj oznaci ovlaštenih službenih osoba Carinske uprave Republike Hrvatske | [`pravilnik/1999/800/`](pravilnik/1999/800/) | amending act | 1 | 1999-05-05 | 1999-05-05 |
+| Pravilnik o poslovanju društva za poslovanje vrijednosnim papirima kada izvan organiziranog tržišta kupuju dionice privatizacijskih investicijskih fondova | [`pravilnik/1999/812/`](pravilnik/1999/812/) | in force | 1 | 1999-04-27 | 1999-04-27 |
+| Pravilnik o izmjeni Pravilnika o vrsti i količini predmeta kućanstva i osobnih stvari koje se mogu uvoziti temeljem carinskih i poreznih povlastica useljenika i povratnika | [`pravilnik/1999/854/`](pravilnik/1999/854/) | in force | 1 | 1999-05-05 | 1999-05-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vježbeničkom stažu veterinarskih djelatnika i načinu polaganja stručnog ispita | [`pravilnik/1999/868/`](pravilnik/1999/868/) | amending act | 1 | 1999-05-15 | 1999-05-15 |
+| Pravilnik o dopuni Pravilnika o visini naknade za koncesiju u javnim telekomunikacijama i načinu plaćanja | [`pravilnik/1999/887/`](pravilnik/1999/887/) | amending act | 1 | 1999-05-19 | 1999-05-19 |
+| Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući | [`pravilnik/1999/960/`](pravilnik/1999/960/) | amending act | 1 | 1999-06-01 | 1999-06-01 |
+| Pravilnik o izmjeni Pravilnika o kakvoći stočne hrane | [`pravilnik/1999/1046/`](pravilnik/1999/1046/) | in force | 1 | 1999-06-10 | 1999-06-10 |
+| Pravilnik o izmjenama Pravilnika o kriterijima za primanje na pripravnički staž zdravstvenih djelatnika | [`pravilnik/1999/1074/`](pravilnik/1999/1074/) | in force | 1 | 1999-06-17 | 1999-06-17 |
+| Pravilnik o izmjeni i dopuni Pravilnika o pripravničkom stažu zdravstvenih djelatnika | [`pravilnik/1999/1075/`](pravilnik/1999/1075/) | amending act | 1 | 1999-06-17 | 1999-06-17 |
+| Pravilnik o uvjetima glede stručnih djelatnika, prostorija i opreme koje moraju ispunjavati laboratoriji proizvođača namirnica i predmeta opće uporabe | [`pravilnik/1999/1161/`](pravilnik/1999/1161/) | in force | 1 | 1999-06-26 | 1999-06-26 |
+| Pravilnik o dopuni Pravilnika o određivanju pravnih osoba u kojima se može obavljati civilna služba u Republici Hrvatskoj | [`pravilnik/1999/1259/`](pravilnik/1999/1259/) | amending act | 1 | 1999-07-08 | 1999-07-08 |
+| Pravilnik o izmjeni Pravilnika o polaganju majstorskog ispita i ispita o stručnoj osposobljenosti | [`pravilnik/1999/1261/`](pravilnik/1999/1261/) | in force | 1 | 1999-06-28 | 1999-06-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obračunavanju i plaćanju posebnog poreza na natne derivate, iskazivanju i dostavljanju izvješća te pravu na povrat posebnog poreza | [`pravilnik/1999/1309/`](pravilnik/1999/1309/) | amending act | 1 | 1999-07-17 | 1999-07-17 |
+| Pravilnik o dopuni Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja za bolničko liječenje medicinskom rehabilitacijom i fizikalnom terapijom u kući | [`pravilnik/1999/1332/`](pravilnik/1999/1332/) | amending act | 1 | 1999-07-20 | 1999-07-20 |
+| Pravilnik o izmjeni i dopuni Pravilnika o naknadama za izlazak na očevid | [`pravilnik/1999/1389/`](pravilnik/1999/1389/) | amending act | 1 | 1999-07-21 | 1999-07-21 |
+| Pravilnik o dopunama Pravilnika o radnom vremenu u zdravstvenim ustanovama | [`pravilnik/1999/1390/`](pravilnik/1999/1390/) | amending act | 1 | 1999-07-29 | 1999-07-29 |
+| Pravilnik o dopunama Pravilnika o unutarnjem redu u Nacionalnom parku "Brijun | [`pravilnik/1999/1436/`](pravilnik/1999/1436/) | amending act | 1 | 1999-08-07 | 1999-08-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stručnoj spremi i pedagoško-psihološkom obrazovanju nastavnika u srednjem školstvu | [`pravilnik/1999/1437/`](pravilnik/1999/1437/) | amending act | 1 | 1999-08-07 | 1999-08-07 |
+| Pravilnik o izmjeni Pravilnika o izdavanju licence za obavljanje međunarodnoga cestovnog prijevoza | [`pravilnik/1999/1484/`](pravilnik/1999/1484/) | in force | 1 | 1999-08-03 | 1999-08-03 |
+| Pravilnik o korištenju bankovne garancije u carinskom postupku | [`pravilnik/1999/1488/`](pravilnik/1999/1488/) | in force | 1 | 1999-08-14 | 1999-08-14 |
+| Pravilnik o trgovanju nematerijaliziranim vrijednosnim papirima uključenim u usluge prijeboja i namire Središnje depozitarne agencije | [`pravilnik/1999/1506/`](pravilnik/1999/1506/) | in force | 1 | 1999-08-18 | 1999-08-18 |
+| Pravilnik o izmjeni Pravilnika o specijalističkom usavršavanju zdravstvenih djelatnika | [`pravilnik/1999/1634/`](pravilnik/1999/1634/) | in force | 1 | 1999-10-02 | 1999-10-02 |
+| Pravilnik o sadržaju izjave projektanta o usklađenosti glavnog odnosno idejnog projekta s odredbama posebnih zakona i drugih propisa | [`pravilnik/1999/1640/`](pravilnik/1999/1640/) | in force | 1 | 1999-10-05 | 1999-10-05 |
+| Pravilnik o dopuni Pravilnika o standardima i normativima prava iz obveznog zdravstvenog osiguranja za 1999. godinu | [`pravilnik/1999/1642/`](pravilnik/1999/1642/) | amending act | 1 | 1999-09-27 | 1999-09-27 |
+| Pravilnik o zaštiti od požara ugostiteljskih objekata | [`pravilnik/1999/1665/`](pravilnik/1999/1665/) | in force | 1 | 1999-10-12 | 1999-10-12 |
+| Pravilnik o načinu vođenja evidencije o izdatim putnim ispravama u diplomatskim misijama ili konzularnim uredima Republike Hrvatske u inozemstvu | [`pravilnik/1999/1783/`](pravilnik/1999/1783/) | in force | 1 | 1999-10-30 | 1999-10-30 |
+| Pravilnik o obliku, sadržaju i načinu vođenja očevidnika o korisnicima doplatka za djecu i djeci za koju pripada doplatak | [`pravilnik/1999/1785/`](pravilnik/1999/1785/) | in force | 1 | 1999-10-30 | 1999-10-30 |
+| Pravilnik o izmjeni Pravilnika o lukama nautičkog turizma | [`pravilnik/1999/1795/`](pravilnik/1999/1795/) | in force | 1 | 1999-11-02 | 1999-11-02 |
+| Pravilnik o posebnom porezu na luksuznu robu | [`pravilnik/1999/1833/`](pravilnik/1999/1833/) | in force | 1 | 1999-10-29 | 1999-10-29 |
+| Pravilnik o dopuni Pravilnika o dobroj proizvođačkoj praksi | [`pravilnik/1999/1912/`](pravilnik/1999/1912/) | amending act | 1 | 1999-11-20 | 1999-11-20 |
+| Pravilnik o izmjeni i dopuni Pravilnika o postupku i uvjetima za priznanje prava samostalnih umjetnika za uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava proračuna Republike Hrvatske | [`pravilnik/1999/1937/`](pravilnik/1999/1937/) | amending act | 1 | 1999-11-25 | 1999-11-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za ovlaštene mjeriteljske laboratorije za ovjeravanje uređaja kojima se nadzire rad vozača i kretanje vozila u cestovnom prometu | [`pravilnik/1999/1938/`](pravilnik/1999/1938/) | amending act | 1 | 1999-11-25 | 1999-11-25 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu postupanja s narkoticima i psihotropnim tvarima, postupku davanja suglasnosti za uvoz i izvoz narkotika i psihotropnih tvari, te uvjetima i načinu pr | [`pravilnik/1999/1965/`](pravilnik/1999/1965/) | in force | 1 | 1999-12-01 | 1999-12-01 |
+| Pravilnik o izmjeni Pravilnika o mjeriteljskim zahtjevima za uređaje s valjcima kojima se provjerava kočna sila po obodu kotača kod vozila na motorni pogon i priključnih vozila | [`pravilnik/1999/1966/`](pravilnik/1999/1966/) | in force | 1 | 1999-12-01 | 1999-12-01 |
+| Pravilnik o izmjenama Pravilnika o diplomatskim i službenim putovnicama i vizama Republike Hrvatske | [`pravilnik/1999/1974/`](pravilnik/1999/1974/) | in force | 1 | 2000-01-01 | 2000-01-01 |
+| Pravilnik o izmjeni Pravilnika o pripravničkom stažu zdravstvenih djelatnika | [`pravilnik/1999/2050/`](pravilnik/1999/2050/) | in force | 1 | 1999-12-11 | 1999-12-11 |
+| Pravilnik o izmjenama Pravilnika o načinu pregleda umrlih te o utvrđivanju vremena i uzroka smrti | [`pravilnik/1999/2089/`](pravilnik/1999/2089/) | in force | 1 | 1999-12-16 | 1999-12-16 |
+| Pravilnik o postupku utvrđivanja i ovjere rezervi mineralnih sirovina | [`pravilnik/1999/2136/`](pravilnik/1999/2136/) | in force | 1 | 1999-12-25 | 1999-12-25 |
+| Pravilnik o izmjeni Pravilnika o temeljnim zahtjevima o kakvoći poljoprivrednog sadnog materijala, načinu pakiranja, plombiranja, deklariranja i uvjetima držanja sadnog materijala | [`pravilnik/1999/2139/`](pravilnik/1999/2139/) | in force | 1 | 1999-12-17 | 1999-12-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom i srednjem školstvu | [`pravilnik/1999/2264/`](pravilnik/1999/2264/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu | [`pravilnik/1999/2265/`](pravilnik/1999/2265/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na osposobljavanje za samostalan život i rad | [`pravilnik/1999/2266/`](pravilnik/1999/2266/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkom nadzoru električnih postrojenja, instalacija i uređaja namijenjenih za rad u prostorima ugroženim eksplozivnom atmosferom | [`pravilnik/1999/2268/`](pravilnik/1999/2268/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima postavljanja i uporabe radijskih postaja | [`pravilnik/2015/395/`](pravilnik/2015/395/) | amending act | 1 | 2015-02-26 | 2015-02-26 |
 | Pravilnik o prestanku važenja Pravilnika o organiziranju, financiranju i donošenju programa festivala Splitsko ljeto | [`pravilnik/2015/756/`](pravilnik/2015/756/) | in force | 1 | 2015-04-07 | 2015-04-07 |
 | Pravilnik o izmjeni Pravilnika o izboru i utvrđivanju javnih potreba u kulturi | [`pravilnik/2015/1388/`](pravilnik/2015/1388/) | in force | 1 | 2015-07-08 | 2015-07-08 |
@@ -5315,7 +6716,7 @@
 | Pravilnik o izmjenama i dopuni Pravilnika o registru identifikacijskih kodova i infrastrukture za alternativna goriva | [`pravilnik/2026/1459/`](pravilnik/2026/1459/) | amending act | 1 | 2026-11-03 | 2026-11-03 |
 | Pravilnik o provedbi Programa potpore za očuvanje proizvodnje mlijeka na području zona ograničenja zbog izbijanja kuge malih preživača | [`pravilnik/2026/1460/`](pravilnik/2026/1460/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 
-## statut (58, of which 19 amending acts)
+## statut (60, of which 19 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5326,6 +6727,8 @@
 | Statut Hrvatskoga fonda za razvoj | [`statut/1991/968/`](statut/1991/968/) | in force | 1 | 1991-07-16 | 1991-07-16 |
 | Statut Saveza udruženja hrvatskih obrtnika | [`statut/1992/336/`](statut/1992/336/) | in force | 1 | 1992-04-02 | 1992-04-02 |
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
+| Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
+| Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
 | Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje | [`statut/2017/2311/`](statut/2017/2311/) | amending act | 1 | 2017-10-12 | 2017-10-12 |
 | Izmjena Statuta Hrvatske komore dentalne medicine | [`statut/2017/2482/`](statut/2017/2482/) | in force | 1 | 2017-11-11 | 2017-11-11 |
 | Izmjene i dopune Statuta Hrvatske komore inženjera strojarstva | [`statut/2020/423/`](statut/2020/423/) | amending act | 1 | 2020-02-22 | 2020-02-22 |
@@ -5378,7 +6781,7 @@
 | Statut političke stranke Republika | [`statut/2026/863/`](statut/2026/863/) | in force | 1 | 2025-12-12 | 2025-12-12 |
 | Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga | [`statut/2026/1299/`](statut/2026/1299/) | amending act | 1 | 2026-10-03 | 2026-10-03 |
 
-## uputa (17, of which 1 amending acts)
+## uputa (20, of which 2 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5399,8 +6802,11 @@
 | Uputa o provođenju dijela Sporazuma koji se odnosi na plaće | [`uputa/1993/444/`](uputa/1993/444/) | in force | 1 | 1993-03-31 | 1993-03-31 |
 | Uputa o provođenju dijela Sporazuma koji se odnosi na ostala materijalna prava radnika | [`uputa/1993/445/`](uputa/1993/445/) | in force | 1 | 1993-03-31 | 1993-03-31 |
 | Uputa za primjenu Zakona o utvrđivanju ratne štete | [`uputa/1993/1040/`](uputa/1993/1040/) | in force | 1 | 1993-06-07 | 1993-06-07 |
+| Uputa o popunjavanju obrazaca za registraciju kreditnih poslova s inozemstvom | [`uputa/1997/706/`](uputa/1997/706/) | in force | 1 | 1997-05-09 | 1997-05-09 |
+| Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
+| Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
 
-## uredba (418, of which 101 amending acts)
+## uredba (574, of which 126 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5534,6 +6940,162 @@
 | Uredba o izmjenama Zakona o prometu i oporezivanju duhanskih prerađevina | [`uredba/1993/2207/`](uredba/1993/2207/) | in force | 1 | 1993-12-27 | 1993-12-27 |
 | Uredba o premijama za određene proizvode upoljoprivredi i regresu za kvalitetno poljoprivredno sjeme i mineralnagnojiva | [`uredba/1993/2231/`](uredba/1993/2231/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Uredba o izmjeni Zakona o posebnim pristojbamapri uvozu poljoprivrednih i prehrambenih proizvoda | [`uredba/1993/2233/`](uredba/1993/2233/) | in force | 1 | 1993-12-30 | 1993-12-30 |
+| Uredba o iznosu minimalne plaće koja služi za utvrđivanje oporezivog dohotka,poreznih stopa i osobnih odbitaka | [`uredba/1994/92/`](uredba/1994/92/) | in force | 1 | 1994-01-21 | 1994-01-21 |
+| Uredba o izmjeni Zakona o visini kamata na iznose poreza, doprinosa, pristojbi i drugih javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1994/127/`](uredba/1994/127/) | in force | 1 | 1994-02-12 | 1994-02-12 |
+| Uredba o mogučnosti korištenja kredita i zajmova kod javnih poduzeča i drugih pravnih osoba u državnom i pretežno državnom vlasništvu | [`uredba/1994/209/`](uredba/1994/209/) | in force | 1 | 1994-02-17 | 1994-02-17 |
+| Uredba o upisu u sudski registar ustanova | [`uredba/1994/212/`](uredba/1994/212/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava zaisplatu mirovina | [`uredba/1994/244/`](uredba/1994/244/) | in force | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o dopuni Uredbe o posebnom porezu na kamate | [`uredba/1994/248/`](uredba/1994/248/) | amending act | 1 | 1994-02-25 | 1994-02-25 |
+| Uredba o dopuni Zakona o porezu na promet proizvoda i usluga | [`uredba/1994/367/`](uredba/1994/367/) | amending act | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o izmjeni Uredbe o mogućnosti korištenja kredita i zajmova kod javnih poduzeća i drugih pravnih osoba u državnom i pretežno državnom vlasništvu | [`uredba/1994/368/`](uredba/1994/368/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o izmjeni Uredbe o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Libijske Arapske Džamahirije | [`uredba/1994/369/`](uredba/1994/369/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o prestanku važenja Uredbe o evidencijskoj pristojbi pri prijenosu neotplaćenih dionica | [`uredba/1994/370/`](uredba/1994/370/) | in force | 1 | 1994-03-23 | 1994-03-23 |
+| Uredba o plaćama | [`uredba/1994/743/`](uredba/1994/743/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Uredba o utvrdivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/744/`](uredba/1994/744/) | in force | 1 | 1994-05-27 | 1994-05-27 |
+| Uredba o iznosu minimalne plaće koja služi za utvrđivanje oporezivog dohotka, poreznih stopa i osobnih odbitaka za razdoblje lipanj - listopad 1994. | [`uredba/1994/830/`](uredba/1994/830/) | in force | 1 | 1994-06-20 | 1994-06-20 |
+| Uredba o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`uredba/1994/831/`](uredba/1994/831/) | amending act | 1 | 1994-06-20 | 1994-06-20 |
+| Uredba o pokriću tečajnih razlika iz Ugovora o kreditu za Črnec Polje i agroindustrijski kompleks | [`uredba/1994/832/`](uredba/1994/832/) | in force | 1 | 1994-06-28 | 1994-06-28 |
+| Uredba o izmjeni Uredbe o visini stope zatezne kamate | [`uredba/1994/867/`](uredba/1994/867/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Uredba o izmjeni Uredbe o visini kamata na iznose javnih prihoda koji nisu plaćeni u propisanom roku | [`uredba/1994/868/`](uredba/1994/868/) | in force | 1 | 1994-06-30 | 1994-06-30 |
+| Uredba o izmjenama i dopunama Zakona o morskom ribarstvu | [`uredba/1994/1042/`](uredba/1994/1042/) | amending act | 1 | 1994-07-29 | 1994-07-29 |
+| Uredba o prestanku važenja Uredbe o posebnom porezu na kamate | [`uredba/1994/1117/`](uredba/1994/1117/) | in force | 1 | 1994-08-31 | 1994-08-31 |
+| Uredba o iznosu minimalne plaće koja služi za utvrđivanje oporezivog dohotka, poreznih stopa i osobnih odbitaka za razdoblje studeni - prosinac 1994. | [`uredba/1994/1379/`](uredba/1994/1379/) | in force | 1 | 1994-11-07 | 1994-11-07 |
+| Uredba o položajnim dodacima određenih državnih službenika | [`uredba/1994/1555/`](uredba/1994/1555/) | in force | 1 | 1994-12-09 | 1994-12-09 |
+| Uredba o utvrđivanju najviših iznosa mase sredstava za isplatu mirovina | [`uredba/1994/1560/`](uredba/1994/1560/) | in force | 1 | 1994-12-12 | 1994-12-12 |
+| Uredba o zabrani određenim pravnim osobama i tijelima isplate jednokratnih povećanja plaća, božićnica i ostalih materijalnih prava radnika | [`uredba/1994/1600/`](uredba/1994/1600/) | in force | 1 | 1994-12-16 | 1994-12-16 |
+| Uredba o izmjeni Uredbe o privremenom osiguranju sredstava za plaće i materijalne troškove pojedinih državnih tijela | [`uredba/1994/1650/`](uredba/1994/1650/) | in force | 1 | 1994-12-29 | 1994-12-29 |
+| Uredba o izmjeni i dopuni Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`uredba/1994/1700/`](uredba/1994/1700/) | amending act | 1 | 1994-12-30 | 1994-12-30 |
+| Uredba o izmjeni Uredbe o rasporedu dijela sredstava za sanaciju banaka | [`uredba/1994/1701/`](uredba/1994/1701/) | in force | 1 | 1994-12-30 | 1994-12-30 |
+| Uredba o poslovima kontrole letenja koji se obavljaju po nalogu Ministarstva obrane | [`uredba/1995/10/`](uredba/1995/10/) | in force | 1 | 1995-01-10 | 1995-01-10 |
+| Uredbu o prestanku primjenjivanja Uredbe o obračunavanju, plaćanju i povratu poreza na promet i posebnih poreza pri izvozu i provozu određnih proizvoda u zemlje za koje je potreban pojačni carinski na | [`uredba/1995/543/`](uredba/1995/543/) | in force | 1 | 1995-04-20 | 1995-04-20 |
+| Uredba o kreditiranju obnove ratom oštećenih i razrušenih stambenih i gospodarskih objekata | [`uredba/1995/746/`](uredba/1995/746/) | in force | 1 | 1995-06-06 | 1995-06-06 |
+| Uredba o izmjenama i dopunama Uredbe o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama kulture i razvrstavanju službenika i namještenika tih ustanova u platn | [`uredba/1995/854/`](uredba/1995/854/) | amending act | 1 | 1995-06-30 | 1995-06-30 |
+| Uredba o prestanku rada centara republičkih organa uprave | [`uredba/1995/855/`](uredba/1995/855/) | in force | 1 | 1995-07-08 | 1995-07-08 |
+| Uredba o prestanku važenja uredbe o solidarnoj štednji za financiranje obnove i obrane i korištenju te štednje za kupnju dionica | [`uredba/1995/1043/`](uredba/1995/1043/) | in force | 1 | 1995-07-28 | 1995-07-28 |
+| Uredba o osnivanju Zavoda za rehabilitaciju "Samaritanac" u Splitu | [`uredba/1995/1182/`](uredba/1995/1182/) | in force | 1 | 1995-09-20 | 1995-09-20 |
+| Uredba o izmjeni uredbe o privremenoj uporabi bonova pri prodaji naftnih derivata | [`uredba/1995/1279/`](uredba/1995/1279/) | in force | 1 | 1995-09-29 | 1995-09-29 |
+| Uredba o produženju važenja uredbi koje je Vlada Repubilke Hrvatske donijela na temelju zakonske ovlasti nakon 26. Rujna 1995. Godine | [`uredba/1995/1404/`](uredba/1995/1404/) | in force | 1 | 1995-10-28 | 1995-10-28 |
+| Uredba o raspolaganju dionicama i udjelima koje je Hrvatski fond za privatizaciju stekao temeljem Zakona o pretvorbi društvenih poduzeća | [`uredba/1995/1519/`](uredba/1995/1519/) | in force | 1 | 1995-11-22 | 1995-11-22 |
+| Uredba o prestanku važenja Uredbe agenciji za učinkovito korištenje i štednju energije | [`uredba/1995/1521/`](uredba/1995/1521/) | in force | 1 | 1995-11-22 | 1995-11-22 |
+| Uredba o izmjeni Uredbe o organiziranju i financiranju obnove ratom oštećenih obiteljskih kuća V. i VI. stupnja oštećenja | [`uredba/1995/1553/`](uredba/1995/1553/) | in force | 1 | 1995-11-24 | 1995-11-24 |
+| Uredba o posebnim uvjetima za osnivanje društva | [`uredba/1995/1652/`](uredba/1995/1652/) | in force | 1 | 1995-12-08 | 1995-12-08 |
+| Uredba o otkaznim i otpusnim rokovima za državne službenike | [`uredba/1995/1653/`](uredba/1995/1653/) | in force | 1 | 1995-12-16 | 1995-12-16 |
+| Uredba o izmjeni Uredbe o izmjenama Zakona o obrtu | [`uredba/1996/444/`](uredba/1996/444/) | in force | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o uništenju novčanica koje glase na dinare bivše SFRJ | [`uredba/1996/451/`](uredba/1996/451/) | in force | 1 | 1996-03-26 | 1996-03-26 |
+| Uredba o izmjeni i dopuni Uredbe o načelime za unutarnje ustrojstvo i o radnom vremenu tijela državne uprave | [`uredba/1996/468/`](uredba/1996/468/) | amending act | 1 | 1996-03-29 | 1996-03-29 |
+| Uredba o dopunama Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`uredba/1996/642/`](uredba/1996/642/) | amending act | 1 | 1996-04-24 | 1996-04-24 |
+| Uredba o gospodarenju šumama u oslobođenim akcijama "Bljesak" i "Oluja" | [`uredba/1996/681/`](uredba/1996/681/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Uredba o izmjenama Uredbe o Uredu za UNPROFOR i Promatračku misiju EZ | [`uredba/1996/712/`](uredba/1996/712/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Uredba o prestanku važenja uredbi sa zakonskom snagom | [`uredba/1996/755/`](uredba/1996/755/) | in force | 1 | 1996-05-14 | 1996-05-14 |
+| Uredba o uvjetima za dodjelu koncesija za obavljanje lučkih djelatnosti | [`uredba/1996/972/`](uredba/1996/972/) | in force | 1 | 1996-07-06 | 1996-07-06 |
+| Uredba o privremenoj uporabi bonova pri prodaji naftnih derivata | [`uredba/1996/1178/`](uredba/1996/1178/) | in force | 1 | 1996-07-15 | 1996-07-15 |
+| Uredba o izdavanju obveznica Republike Hrvatske radi zamjene dijela duga koji preuzima Republika Hrvatska po Novom financijskom sporazumu iz 1988. godine | [`uredba/1996/1258/`](uredba/1996/1258/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Uredba o privremenom neprimjenjivanju Zakona o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv tzv. SRJ (Srbije i Crne Gore) | [`uredba/1996/1351/`](uredba/1996/1351/) | in force | 1 | 1996-09-11 | 1996-09-11 |
+| Uredba o izmjenama Zakona o obrtu | [`uredba/1996/1434/`](uredba/1996/1434/) | in force | 1 | 1996-10-04 | 1996-10-04 |
+| Uredba o utvrđivanju mjesečnog dodatka uz mirovinu | [`uredba/1996/1939/`](uredba/1996/1939/) | in force | 1 | 1996-11-26 | 1996-11-26 |
+| Uredba o stavljanju izvan snage uredbi iz oblasti pravosuđa | [`uredba/1996/1993/`](uredba/1996/1993/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| Uredba o podjeli Hrvatskoga filološkoga instituta, Zagreb | [`uredba/1996/1996/`](uredba/1996/1996/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| UREDBU O OSNIVANJU VELEUČILIŠTA U DUBROVNIKU | [`uredba/1996/2053/`](uredba/1996/2053/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Uredba o prestanku važenja Uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima ("Narodne novine", br. 25/96 | [`uredba/1997/86/`](uredba/1997/86/) | in force | 1 | 1997-01-22 | 1997-01-22 |
+| Uredba o izmjeni Uredbe o mjerilima i postupku osnivanja služnosti plodouživanja | [`uredba/1997/88/`](uredba/1997/88/) | in force | 1 | 1997-01-30 | 1997-01-30 |
+| Uredba o Uredu za priopćavanje Vlade Republike Hrvatske | [`uredba/1997/116/`](uredba/1997/116/) | in force | 1 | 1997-01-28 | 1997-01-28 |
+| Uredba o izmjeni Uredbe o Hrvatskom stočarsko selekcijskom centru | [`uredba/1997/162/`](uredba/1997/162/) | in force | 1 | 1997-02-08 | 1997-02-08 |
+| Uredba o izmjeni Uredbe o osnivanju Zavoda za vinogradarstvo i vinarstvo | [`uredba/1997/163/`](uredba/1997/163/) | in force | 1 | 1997-02-08 | 1997-02-08 |
+| Uredba o izmjeni i dopuni Zakona o priznavanju novostvorenih, odobravanju uvođenja u proizvodnju stranih i zaštiti sorti poljoprivrednog i šumskog bilja | [`uredba/1997/484/`](uredba/1997/484/) | amending act | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o gospodarenju šumama oslobođenih akcijama "Bljesak" i "Olu | [`uredba/1997/486/`](uredba/1997/486/) | in force | 1 | 1997-03-28 | 1997-03-28 |
+| Uredba o izmjeni Uredbe o osnivanju Hrvatskog informativno-kulturnog zavoda | [`uredba/1997/501/`](uredba/1997/501/) | in force | 1 | 1997-04-02 | 1997-04-02 |
+| Uredba o određenim pravima osoba izabranih na dužnosti u jedinicama lokalne samouprave i jedinicama lokalne uprave i samouprave | [`uredba/1997/592/`](uredba/1997/592/) | in force | 1 | 1997-04-21 | 1997-04-21 |
+| Uredba o osnivanju Hrvatskog zavoda za zaštitu od zračenja | [`uredba/1997/757/`](uredba/1997/757/) | in force | 1 | 1997-05-24 | 1997-05-24 |
+| Uredba o ukidanju Ureda privremene uprave za uspostavu hrvatske vlasti na području istočne Slavonije, Baranje i zapadnog Srijema | [`uredba/1997/822/`](uredba/1997/822/) | in force | 1 | 1997-05-27 | 1997-05-27 |
+| Uredba o prestanku rada Fonda u stambenom gospodarstvu | [`uredba/1997/1003/`](uredba/1997/1003/) | in force | 1 | 1997-06-25 | 1997-06-25 |
+| Uredba o osnivanju Hrvatskog zavoda za toksikologiju | [`uredba/1997/1574/`](uredba/1997/1574/) | in force | 1 | 1997-10-07 | 1997-10-07 |
+| Uredba o početku rada županijskih uprava za ceste i društava kapitala iz Zakona o javnim cestama | [`uredba/1997/1683/`](uredba/1997/1683/) | in force | 1 | 1997-10-24 | 1997-10-24 |
+| Uredba o prestanku važenja Uredbe o Uredu za suradnju s mirovnim operacijama | [`uredba/1998/2/`](uredba/1998/2/) | in force | 1 | 1998-01-05 | 1998-01-05 |
+| Uredba o osnivanju Doma umirovljenika Zemunik | [`uredba/1998/383/`](uredba/1998/383/) | in force | 1 | 1998-03-10 | 1998-03-10 |
+| Uredba o izmjeni Uredbe o osnivanju Hrvatskog centra za mine | [`uredba/1998/385/`](uredba/1998/385/) | in force | 1 | 1998-03-10 | 1998-03-10 |
+| Uredba o izmjenama i dopunama Zakona o Hrvatskoj garancijskoj agenciji | [`uredba/1998/534/`](uredba/1998/534/) | amending act | 1 | 1998-03-31 | 1998-03-31 |
+| Uredba za provođenje Zakona o konvalidaciji akata izdanih u predmetima upravne naravi | [`uredba/1998/641/`](uredba/1998/641/) | in force | 1 | 1998-04-10 | 1998-04-10 |
+| Uredba za provođenje Zakona o konvalidaciji u predmetima sudbene naravi | [`uredba/1998/642/`](uredba/1998/642/) | in force | 1 | 1998-04-10 | 1998-04-10 |
+| Uredba o mjerilima za davanje suglasnosti općinama, gradovima i županijama za korištenje dotacija iz državnog proračuna Republike Hrvatske | [`uredba/1998/644/`](uredba/1998/644/) | in force | 1 | 1998-04-10 | 1998-04-10 |
+| Uredba o osnivanju Visoke učiteljske škole u Zagrebu | [`uredba/1998/968/`](uredba/1998/968/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Visoke učiteljske škole u Rijeci | [`uredba/1998/969/`](uredba/1998/969/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Visoke učiteljske škole u Gospiću | [`uredba/1998/970/`](uredba/1998/970/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Visoke učiteljske škole u Puli | [`uredba/1998/971/`](uredba/1998/971/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Visoke učiteljske škole u Splitu | [`uredba/1998/972/`](uredba/1998/972/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Visoke učiteljske škole u Osijeku | [`uredba/1998/973/`](uredba/1998/973/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Visoke učiteljske škole u Zadru | [`uredba/1998/974/`](uredba/1998/974/) | in force | 1 | 1998-05-27 | 1998-05-27 |
+| Uredba o osnivanju Ustanove za organiziranje i provođenje Drugih svjetskih vojnih igara u Zagrebu 1999. godine | [`uredba/1998/1221/`](uredba/1998/1221/) | in force | 1 | 1998-06-30 | 1998-06-30 |
+| Uredba o međuministarskom vijeću za osiguranje izvoza | [`uredba/1998/1529/`](uredba/1998/1529/) | in force | 1 | 1998-09-03 | 1998-09-03 |
+| Uredba o zajamčenoj cijeni uljane repice roda 1999. godine | [`uredba/1998/1539/`](uredba/1998/1539/) | in force | 1 | 1998-09-12 | 1998-09-12 |
+| Uredba o Uredu Vlade Republike Hrvatske za udruge | [`uredba/1998/1598/`](uredba/1998/1598/) | in force | 1 | 1998-10-09 | 1998-10-09 |
+| Uredba o unutarnjem ustrojstvu Ministarstva privatizacije | [`uredba/1998/1683/`](uredba/1998/1683/) | in force | 1 | 1998-10-29 | 1998-10-29 |
+| Uredba o osnivanju Srednje škole Prelog u Prelogu | [`uredba/1998/1775/`](uredba/1998/1775/) | in force | 1 | 1998-10-30 | 1998-10-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Turanj | [`uredba/1998/1876/`](uredba/1998/1876/) | in force | 1 | 1998-12-04 | 1998-12-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sali | [`uredba/1998/1877/`](uredba/1998/1877/) | in force | 1 | 1998-12-04 | 1998-12-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Komin | [`uredba/1998/1927/`](uredba/1998/1927/) | in force | 1 | 1998-12-17 | 1998-12-17 |
+| Uredba o produljenju rokova iz članaka 9. i 10. Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 68/98 | [`uredba/1998/2004/`](uredba/1998/2004/) | amending act | 1 | 1998-12-23 | 1998-12-23 |
+| Uredba o utvrđivanju položaja i zvanja službenika i poslova radnih mjesta namještenika u ustanovama zaštite prirode i okoliša i razvrstavanju službenika i namještenika tih ustanova u platne razrede | [`uredba/1998/2030/`](uredba/1998/2030/) | in force | 1 | 1999-01-06 | 1999-01-06 |
+| Uredba o stavljanju izvan snage Uredbe o najmu stanova u vlasništvu Republike Hrvatske na području hrvatskog Podunavlja | [`uredba/1998/2310/`](uredba/1998/2310/) | in force | 1 | 1998-02-13 | 1998-02-13 |
+| Uredba o zajamčenoj cijeni šećerne repe | [`uredba/1998/5380/`](uredba/1998/5380/) | in force | 1 | 1998-09-12 | 1998-09-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brtonigla i k.o. Lovrečica | [`uredba/1999/50/`](uredba/1999/50/) | in force | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton-Raslina | [`uredba/1999/51/`](uredba/1999/51/) | in force | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kostrena Sv. Barbara | [`uredba/1999/54/`](uredba/1999/54/) | in force | 1 | 1999-01-27 | 1999-01-27 |
+| Uredba o sniženju carinskih stopa za određenu robu | [`uredba/1999/68/`](uredba/1999/68/) | in force | 1 | 1999-01-20 | 1999-01-20 |
+| Uredba o podjeli imovine prava i obveza te rasporedu djelatnika Muzeja Hrvatskoga zagorja | [`uredba/1999/260/`](uredba/1999/260/) | in force | 1 | 1999-02-11 | 1999-02-11 |
+| Uredba o podjeli imovine, prava i obveza, te rasporedu djelatnika Muzejsko-galerijskog centra | [`uredba/1999/261/`](uredba/1999/261/) | in force | 1 | 1999-02-11 | 1999-02-11 |
+| Uredba o izmjenama i dopunama Uredbe o mjerilima za stambeno zbrinjavanje HRVI Domovinskog rata i članova obitelji poginuloga, umrloga, zatočenoga ili nestaloga hrvatskoga branitelja | [`uredba/1999/315/`](uredba/1999/315/) | amending act | 1 | 1999-02-12 | 1999-02-12 |
+| Uredba o dopuni Uredbe o povećanju koeficijenata platnog razreda i položajnim dodacima određenih službenika u javnim službama | [`uredba/1999/316/`](uredba/1999/316/) | amending act | 1 | 1999-02-19 | 1999-02-19 |
+| Uredba o računanju vremena u 1999. godini | [`uredba/1999/317/`](uredba/1999/317/) | in force | 1 | 1999-02-19 | 1999-02-19 |
+| Uredba o kriterijima za carinski kontingent | [`uredba/1999/407/`](uredba/1999/407/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Uredba o produljenju roka iz članka 10. Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo ("Narodne novine", broj 68/98 | [`uredba/1999/469/`](uredba/1999/469/) | amending act | 1 | 1999-03-05 | 1999-03-05 |
+| Uredba o osnivanju Srednje glazbene škole Novska | [`uredba/1999/561/`](uredba/1999/561/) | in force | 1 | 1999-04-01 | 1999-04-01 |
+| Uredba o izmjenama i dopunama Zakona o trgovini | [`uredba/1999/601/`](uredba/1999/601/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o povlasticama u unutarnjem putničkom prometu | [`uredba/1999/605/`](uredba/1999/605/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o uvjetima odobravanja kredita i zajmova određenih pravnih osoba | [`uredba/1999/606/`](uredba/1999/606/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`uredba/1999/607/`](uredba/1999/607/) | amending act | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o provođenju Rezolucije Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Socijalističke Narodne Libijske Arapske Džamahirije | [`uredba/1999/608/`](uredba/1999/608/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o gospodarenju šumama oslobođenim akcijama "Bljesak" i "Oluja" i šumama "Područja hrvatskog Podunavlja ranije pod upravo | [`uredba/1999/611/`](uredba/1999/611/) | in force | 1 | 1999-03-29 | 1999-03-29 |
+| Uredba o izmjeni Zakona o izmjenama i dopunama Zakona o prostornom uređenju | [`uredba/1999/737/`](uredba/1999/737/) | amending act | 1 | 1999-04-12 | 1999-04-12 |
+| Uredba o određivanju granice pomorskog doba na dijelu k.o. Banjol | [`uredba/1999/754/`](uredba/1999/754/) | in force | 1 | 1999-04-24 | 1999-04-24 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Hrvatske agencije za promicanje ulaganja | [`uredba/1999/834/`](uredba/1999/834/) | amending act | 1 | 1999-05-03 | 1999-05-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krk Grad | [`uredba/1999/878/`](uredba/1999/878/) | in force | 1 | 1999-05-19 | 1999-05-19 |
+| Uredba o zajamčenoj cijeni pšenice roda 1999. godine | [`uredba/1999/910/`](uredba/1999/910/) | in force | 1 | 1999-05-25 | 1999-05-25 |
+| Uredba o zajamčenoj cijeni lista duhana roda 1999. godine | [`uredba/1999/911/`](uredba/1999/911/) | in force | 1 | 1999-05-25 | 1999-05-25 |
+| Uredba o zajamčenoj cijeni soje roda 1999. godine | [`uredba/1999/912/`](uredba/1999/912/) | in force | 1 | 1999-05-25 | 1999-05-25 |
+| Uredba o zajamčenoj cijeni šećerne repe roda 1999. godine | [`uredba/1999/913/`](uredba/1999/913/) | in force | 1 | 1999-05-25 | 1999-05-25 |
+| Uredba o prestanku rada Ureda za ekonomiku i restrukturiranje javnih poduzeća | [`uredba/1999/1000/`](uredba/1999/1000/) | in force | 1 | 1999-05-31 | 1999-05-31 |
+| Uredba o stavljanju izvan snage Uredbe o Uredu za državnu imovinu | [`uredba/1999/1002/`](uredba/1999/1002/) | in force | 1 | 1999-05-31 | 1999-05-31 |
+| Uredba o privremenom neprimjenjivanju Uredbe o provođenju rezolucija Vijeća sigurnosti Ujedinjenih naroda u svezi sa sankcijama protiv Socijalističke Narodne Libijske Arapske Džamahirije | [`uredba/1999/1086/`](uredba/1999/1086/) | in force | 1 | 1999-06-11 | 1999-06-11 |
+| Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 1999. i 2000. godinu | [`uredba/1999/1090/`](uredba/1999/1090/) | in force | 1 | 1999-06-19 | 1999-06-19 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2000. godinu | [`uredba/1999/1091/`](uredba/1999/1091/) | in force | 1 | 1999-06-19 | 1999-06-19 |
+| Uredba o unutarnjem ustrojstvu Ministarstva prostornog uređenja, graditeljstva i stanovanja | [`uredba/1999/1200/`](uredba/1999/1200/) | in force | 1 | 1999-07-03 | 1999-07-03 |
+| Uredba o izmjenama i dopunama Uredbe o Agenciji za posredovanje u prometu određenim nekretninama | [`uredba/1999/1201/`](uredba/1999/1201/) | amending act | 1 | 1999-06-25 | 1999-06-25 |
+| Uredba o sniženju carinskih stopa pri uvozu opreme, uređaja, aparata i vozila i njihovih dijelova u koje se ugrađuju dijelovi proizvedeni u Republici Hrvatskoj | [`uredba/1999/1287/`](uredba/1999/1287/) | in force | 1 | 1999-07-13 | 1999-07-13 |
+| Uredba o osnivanju Srednje glazbene škole "Ferdo Livadić" u Samobo | [`uredba/1999/1303/`](uredba/1999/1303/) | in force | 1 | 1999-07-16 | 1999-07-16 |
+| Uredba o unutarnjem ustrojstvu Ministarstva razvitka, useljeništva i obnove | [`uredba/1999/1346/`](uredba/1999/1346/) | in force | 1 | 1999-07-14 | 1999-07-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novalja | [`uredba/1999/1371/`](uredba/1999/1371/) | in force | 1 | 1999-07-29 | 1999-07-29 |
+| Uredba o dopuni Carinskog zakona | [`uredba/1999/1599/`](uredba/1999/1599/) | amending act | 1 | 1999-09-17 | 1999-09-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Drvenik Veli | [`uredba/1999/1606/`](uredba/1999/1606/) | in force | 1 | 1999-09-28 | 1999-09-28 |
+| Uredba o izmjeni Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/1999/1618/`](uredba/1999/1618/) | in force | 1 | 1999-09-30 | 1999-09-30 |
+| Uredba o osnivanju Državnog arhiva u Gospiću | [`uredba/1999/1671/`](uredba/1999/1671/) | in force | 1 | 1999-10-14 | 1999-10-14 |
+| Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi | [`uredba/1999/1673/`](uredba/1999/1673/) | amending act | 1 | 1999-10-14 | 1999-10-14 |
+| Uredba o prestanku važenja Uredbe o plaćanju naknada za korištenje radnih dozvola iz kontingenata radnih dozvola za Saveznu Republiku Njemačku | [`uredba/1999/1716/`](uredba/1999/1716/) | in force | 1 | 1999-10-11 | 1999-10-11 |
+| Uredba o dopunama Zakona o sanaciji određenih poduzeća | [`uredba/1999/1761/`](uredba/1999/1761/) | amending act | 1 | 1999-10-15 | 1999-10-15 |
+| Uredba o utvrđivanju granice pomorskog dobra na dijelu k.o. Bol | [`uredba/1999/1764/`](uredba/1999/1764/) | in force | 1 | 1999-10-26 | 1999-10-26 |
+| Uredba o određivanju granice pomorskog dobra za područje k.o. Vir | [`uredba/1999/1800/`](uredba/1999/1800/) | in force | 1 | 1999-11-04 | 1999-11-04 |
+| Uredba o izmjeni Uredbe o Uredu za europske integracije | [`uredba/1999/1830/`](uredba/1999/1830/) | in force | 1 | 1999-10-29 | 1999-10-29 |
+| Uredba o osnivanju Hrvatske knjižnice za slijepe | [`uredba/1999/1848/`](uredba/1999/1848/) | in force | 1 | 1999-11-12 | 1999-11-12 |
+| Uredba o unutarnjem ustrojstvu Državnog ravnateljstva za državnu upravu i lokalnu samoupravu | [`uredba/1999/1919/`](uredba/1999/1919/) | in force | 1 | 1999-11-24 | 1999-11-24 |
+| Uredba o stambenom zbrinjavanju dužnosnika, djelatnih vojnih osoba, vojnih službenika i vojnih namještenika Ministarstva obrane i oružanih snaga Republike Hrvatske | [`uredba/1999/2084/`](uredba/1999/2084/) | in force | 1 | 1999-12-08 | 1999-12-08 |
+| Uredba o proglašenju 13. prosinca 1999. godine neradnim danom | [`uredba/1999/2113/`](uredba/1999/2113/) | in force | 1 | 1999-12-12 | 1999-12-12 |
+| Uredba o određivanju imovine i osoba, te uvjetima pod kojima se mogu osigurati kod stranog osiguratelja | [`uredba/1999/2116/`](uredba/1999/2116/) | in force | 1 | 1999-12-14 | 1999-12-14 |
+| Uredba o proglašenju 24. siječnja 2000. godine neradnim danom | [`uredba/1999/2164/`](uredba/1999/2164/) | in force | 1 | 1999-12-23 | 1999-12-23 |
+| Uredba o računanju vremena u 2000. godini | [`uredba/1999/2169/`](uredba/1999/2169/) | in force | 1 | 1999-12-24 | 1999-12-24 |
+| Uredba o naknadi plaće za dan izbora za zastupnike u Zastupnički dom Hrvatskoga državnog sabora | [`uredba/1999/2175/`](uredba/1999/2175/) | in force | 1 | 1999-12-27 | 1999-12-27 |
+| Uredba o izmjenama i dopunama Zakona o doplatku za djecu | [`uredba/1999/2176/`](uredba/1999/2176/) | amending act | 1 | 1999-12-27 | 1999-12-27 |
+| Uredba o dopuni Zakona o otocima | [`uredba/1999/2276/`](uredba/1999/2276/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
+| Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1999/2278/`](uredba/1999/2278/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
+| Uredba o izmjeni Carinskog zakona | [`uredba/1999/3000/`](uredba/1999/3000/) | in force | 1 | 1999-09-27 | 1999-09-27 |
 | Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za opremu pod tlakom | [`uredba/2015/138/`](uredba/2015/138/) | amending act | 1 | 2015-01-31 | 2015-01-31 |
 | Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2015. godinu | [`uredba/2015/278/`](uredba/2015/278/) | in force | 1 | 2015-02-14 | 2015-02-14 |
 | Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2015/323/`](uredba/2015/323/) | amending act | 1 | 2015-02-21 | 2015-02-21 |
@@ -5823,7 +7385,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (514, of which 338 amending acts)
+## zakon (582, of which 381 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6036,6 +7598,74 @@
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1994. godini | [`zakon/1993/2280/`](zakon/1993/2280/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Zakon o plaćanju doprinosa za doplatak za djecu u 1994. godini | [`zakon/1993/2282/`](zakon/1993/2282/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | NN 91A/93 - Zakon o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`zakon/1993/17711/`](zakon/1993/17711/) | in force | 1 | 1993-10-19 | 1993-10-19 |
+| Zakon o dopunama Zakona o financijskoj policiji | [`zakon/1994/494/`](zakon/1994/494/) | amending act | 1 | 1994-04-08 | 1994-04-08 |
+| Zakon o dopunama Zakona o izmjenama i dopunama zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje | [`zakon/1994/514/`](zakon/1994/514/) | amending act | 1 | 1994-04-19 | 1994-04-19 |
+| Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju | [`zakon/1994/779/`](zakon/1994/779/) | amending act | 1 | 1994-06-11 | 1994-06-11 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture | [`zakon/1994/919/`](zakon/1994/919/) | amending act | 1 | 1994-07-15 | 1994-07-15 |
+| Zakon o izmjeni Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1994/920/`](zakon/1994/920/) | in force | 1 | 1994-07-07 | 1994-07-07 |
+| Zakon o dopunama Zakona o pravima bivših političkih zatvorenika | [`zakon/1994/922/`](zakon/1994/922/) | amending act | 1 | 1994-07-07 | 1994-07-07 |
+| Zakon o izmjeni Zakona o zapošljavanju stranaca | [`zakon/1994/923/`](zakon/1994/923/) | in force | 1 | 1994-07-15 | 1994-07-15 |
+| Zakon o izmjenama i dopunama Zakona o ovjeravanju potpisa, rukopisa i prijepisa | [`zakon/1994/1250/`](zakon/1994/1250/) | amending act | 1 | 1994-10-10 | 1994-10-10 |
+| Zakon o dopuni Zakona o zaštiti prirode | [`zakon/1994/1251/`](zakon/1994/1251/) | amending act | 1 | 1994-10-18 | 1994-10-18 |
+| Zakon o prestanku važenja Zakona o radu organa koji postupaju po predstavkama i prijedlozima | [`zakon/1994/1252/`](zakon/1994/1252/) | in force | 1 | 1994-10-18 | 1994-10-18 |
+| Zakon o izmjenama i dopuni Pomorskog zakona | [`zakon/1994/1290/`](zakon/1994/1290/) | amending act | 1 | 1994-10-26 | 1994-10-26 |
+| Zakon o izmjenama i dopunama Zakona o stopama doprinosa za zdravstveno osiguranje | [`zakon/1994/1640/`](zakon/1994/1640/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
+| Zakon o izmjeni i dopuni Zakona o zapošljavanju | [`zakon/1994/1645/`](zakon/1994/1645/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
+| Odluka o donošenju Zakona o radu | [`zakon/1995/758/`](zakon/1995/758/) | in force | 1 | 1995-06-16 | 1995-06-16 |
+| Zakon o izmjeni Zakona o oprostu od krivičnog progona i postupka za krivična djela počinjena u oružanim sukobima i u ratu protiv Republike Hrvatske | [`zakon/1995/759/`](zakon/1995/759/) | in force | 1 | 1995-06-09 | 1995-06-09 |
+| Zakon o izmjenama i dopunama Zakona o utvrđivanju katastarskog prihoda | [`zakon/1995/1783/`](zakon/1995/1783/) | amending act | 1 | 1996-01-05 | 1996-01-05 |
+| Zakon o izmjeni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1995/1784/`](zakon/1995/1784/) | in force | 1 | 1996-01-05 | 1996-01-05 |
+| Zakon o prestanku važenja Zakona o popisu pučanstva u 1996. godini | [`zakon/1996/241/`](zakon/1996/241/) | in force | 1 | 1996-03-07 | 1996-03-07 |
+| Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`zakon/1996/333/`](zakon/1996/333/) | amending act | 1 | 1996-03-16 | 1996-03-16 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj radio-televiziji | [`zakon/1996/431/`](zakon/1996/431/) | amending act | 1 | 1996-03-26 | 1996-03-26 |
+| Zakon o izmjenama i dopunama Zakona o znanstvenoistraživačkoj djelatnosti | [`zakon/1996/574/`](zakon/1996/574/) | amending act | 1 | 1996-04-25 | 1996-04-25 |
+| Zakon o izmjeni Zakona o računanju vremena | [`zakon/1996/675/`](zakon/1996/675/) | in force | 1 | 1996-05-08 | 1996-05-08 |
+| Zakon o dopunama Zakona o cestama | [`zakon/1996/919/`](zakon/1996/919/) | amending act | 1 | 1996-06-26 | 1996-06-26 |
+| Zakon o izmjenama Zakona o visokim učilištima | [`zakon/1996/1003/`](zakon/1996/1003/) | in force | 1 | 1996-07-08 | 1996-07-08 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj ispravnosti i zdravstvenom nadzoru nad namirnicama i predmetima opće uporabe | [`zakon/1996/1073/`](zakon/1996/1073/) | amending act | 1 | 1996-07-18 | 1996-07-18 |
+| Zakon o preuzimanju dijela duga po novom financijskom sporazumu iz 1988. godine te o izdavanju obveznica Republike Hrvatske radi zamjene toga duga | [`zakon/1996/1517/`](zakon/1996/1517/) | in force | 1 | 1996-10-24 | 1996-10-24 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1996/1519/`](zakon/1996/1519/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
+| Zakon o izmjenama i dopunama Zakona o javnobilježničkim pristojbama | [`zakon/1996/1521/`](zakon/1996/1521/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
+| Zakon o dopuni Zakona o obnovi | [`zakon/1996/1522/`](zakon/1996/1522/) | amending act | 1 | 1996-10-24 | 1996-10-24 |
+| Zakon o izmjenama i dopunama Zakona o izborima zastupnika u Sabor Republike Hrvatske | [`zakon/1996/2092/`](zakon/1996/2092/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
+| Zakon o dopuni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika | [`zakon/1996/2093/`](zakon/1996/2093/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
+| Zakon o dopuni Zakona o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika | [`zakon/1996/2094/`](zakon/1996/2094/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
+| Zakon o izmjeni i dopuni Zakona o plaćanju doplatne marke Izgradnja Spomen-doma dr. Ante Starčević(r) u unutrašnjem poštanskom prometu | [`zakon/1996/2095/`](zakon/1996/2095/) | amending act | 1 | 1996-12-31 | 1996-12-31 |
+| Zakon o izmjeni Zakona o političkim strankama | [`zakon/1996/2169/`](zakon/1996/2169/) | in force | 1 | 1997-01-08 | 1997-01-08 |
+| Zakon o izmjeni Zakona o Nacionalnom parku "Kornati | [`zakon/1997/199/`](zakon/1997/199/) | in force | 1 | 1997-02-14 | 1997-02-14 |
+| Zakon o izmjenama Zakona o proglašenju šume Risnjak nacionalnim parkom | [`zakon/1997/201/`](zakon/1997/201/) | in force | 1 | 1997-02-14 | 1997-02-14 |
+| Zakon o izmjenama Zakona o proglašenju Plitvičkih jezera nacionalnim parkom | [`zakon/1997/202/`](zakon/1997/202/) | in force | 1 | 1997-02-14 | 1997-02-14 |
+| Zakon o stavljanju izvan snage Zakona o Zagrebačkoj županiji | [`zakon/1997/211/`](zakon/1997/211/) | in force | 1 | 1997-02-15 | 1997-02-15 |
+| Zakon o dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/1997/279/`](zakon/1997/279/) | amending act | 1 | 1997-02-27 | 1997-02-27 |
+| Zakon o izmjeni Zakona o privatizaciji | [`zakon/1997/1222/`](zakon/1997/1222/) | in force | 1 | 1997-07-09 | 1997-07-09 |
+| Zakon o izmjenama i dopunama Zakona o prosvjetnoj inspekciji | [`zakon/1997/1260/`](zakon/1997/1260/) | amending act | 1 | 1997-07-22 | 1997-07-22 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskim državnim nagradama za znanost | [`zakon/1997/1609/`](zakon/1997/1609/) | amending act | 1 | 1997-10-16 | 1997-10-16 |
+| Zakon o dopuni Zakona o sudovima | [`zakon/1997/1891/`](zakon/1997/1891/) | amending act | 1 | 1997-12-05 | 1997-12-05 |
+| Zakona o izmjenama Zakona o stopama doprinosa za zdravstveno osiguranje | [`zakon/1998/201/`](zakon/1998/201/) | in force | 1 | 1998-01-31 | 1998-01-31 |
+| Zakon o izmjenama i dopunama Zakona o područjima i sjedištima državnih odvjetništava | [`zakon/1998/451/`](zakon/1998/451/) | amending act | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o izmjeni i dopuni Zakona o stočarstvu | [`zakon/1998/453/`](zakon/1998/453/) | amending act | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o izmjeni Zakona o Gradu Zagrebu | [`zakon/1998/454/`](zakon/1998/454/) | in force | 1 | 1998-03-25 | 1998-03-25 |
+| Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1998/817/`](zakon/1998/817/) | amending act | 1 | 1998-05-20 | 1998-05-20 |
+| Zakon o izmjeni i dopuni Zakona o upravnim pristojbama | [`zakon/1998/819/`](zakon/1998/819/) | amending act | 1 | 1998-05-20 | 1998-05-20 |
+| Zakon o izmjenama i dopunama Zakona o turističkoj djelatnosti | [`zakon/1998/979/`](zakon/1998/979/) | amending act | 1 | 1998-06-06 | 1998-06-06 |
+| Zakon o izmjenama i dopunama Zakona o financiranju vodnog gospodarstva | [`zakon/1998/1194/`](zakon/1998/1194/) | amending act | 1 | 1998-06-26 | 1998-06-26 |
+| Zakon o izmjenama i dopunama Zakona o bankama i štedionicama | [`zakon/1998/1217/`](zakon/1998/1217/) | amending act | 1 | 1998-07-08 | 1998-07-08 |
+| Zakon o izmjeni Zakona o hrvatskim državnim nagradama za znanost | [`zakon/1998/1747/`](zakon/1998/1747/) | in force | 1 | 1998-11-05 | 1998-11-05 |
+| Zakon o prestanku važenja Zakona o osiguranju sredstava, ostvarivanju prava i načinu isplate minimalnih plaća i naknada određenim fizičkim i pravnim osobama | [`zakon/1998/1863/`](zakon/1998/1863/) | in force | 1 | 1998-12-02 | 1998-12-02 |
+| Zakon o izmjenama i dopuni Zakona o unutarnjim poslovima | [`zakon/1998/1984/`](zakon/1998/1984/) | amending act | 1 | 1998-12-26 | 1998-12-26 |
+| Zakon o izmjenama i dopunama Zakona o hrvatskim željeznicama | [`zakon/1998/1997/`](zakon/1998/1997/) | amending act | 1 | 1998-12-30 | 1998-12-30 |
+| Zakon o izmjenama Zakona o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/1999/401/`](zakon/1999/401/) | in force | 1 | 1999-03-05 | 1999-03-05 |
+| Zakon o izmjenama Zakona o Nacionalnom parku i spomen području Brioni | [`zakon/1999/873/`](zakon/1999/873/) | in force | 1 | 1999-05-19 | 1999-05-19 |
+| Zakon o dopunama Zakona o plaćanju doprinosa za mirovinsko osiguranje u 1999. godini | [`zakon/1999/1300/`](zakon/1999/1300/) | amending act | 1 | 1999-07-16 | 1999-07-16 |
+| Zakon o izmjenama Zakona o poreznoj upravi | [`zakon/1999/1301/`](zakon/1999/1301/) | in force | 1 | 1999-07-16 | 1999-07-16 |
+| Zakon o izmjenama i dopuni Zakona o gradnji | [`zakon/1999/1354/`](zakon/1999/1354/) | amending act | 1 | 1999-07-24 | 1999-07-24 |
+| Zakon o izmjenama Zakona o posebnom porezu na duhanske proizvode | [`zakon/1999/1744/`](zakon/1999/1744/) | in force | 1 | 1999-10-13 | 1999-10-13 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj garancijskoj agenciji | [`zakon/1999/1748/`](zakon/1999/1748/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o dopunama Zakona o elektroprivredi | [`zakon/1999/1751/`](zakon/1999/1751/) | amending act | 1 | 1999-10-21 | 1999-10-21 |
+| Zakon o izmjenama i dopunama Zakona o obnovi ugrožene spomeničke cjeline Dubrovnika | [`zakon/1999/2013/`](zakon/1999/2013/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu | [`zakon/2016/1446/`](zakon/2016/1446/) | amending act | 1 | 2016-06-25 | 2016-06-25 |
 | Zakon o izmjeni Zakona o obavljanju studentskih poslova | [`zakon/2020/329/`](zakon/2020/329/) | in force | 1 | 2020-02-13 | 2020-02-13 |
 | Zakon o izmjenama i dopunama Zakona o provedbi uredbi Europske unije iz područja platnog prometa | [`zakon/2020/330/`](zakon/2020/330/) | amending act | 1 | 2020-02-20 | 2020-02-20 |
