@@ -1,6 +1,0 @@
-## Pojmovnik
-# Članak 3.
-(1) Pojedini pojmovi u smislu ovoga Pravilnika imaju sljedeće značenje:
-a) pretpakirano meso peradi znači meso peradi zapakirano u skladu s uvjetima definiranim u članku 2. stavku 2. točke e) Uredbe (EU) br. 1169/2011 Europskog parlamenta i Vijeća od 25. listopada 2011. o informiranju potrošača o hrani, izmjeni uredbi (EZ) br. 1924/2006 i (EZ) br. 1925/2006 Europskog parlamenta i Vijeća te o stavljanju izvan snage Direktive Komisije 87/250/EEZ, Direktive Vijeća 90/496/EEZ, Direktive Komisije 1999/10/EZ, Direktive 2000/13/EZ Europskog parlamenta i Vijeća, direktiva Komisije 2002/67/EZ i 2008/5/EZ i Uredbe Komisije (EZ) br. 608/2004 (SL L 304, 22. 11. 2011.)
-b) nepretpakirano meso peradi u smislu ovoga Pravilnika ima jednako značenje kao i pojam definiran člankom 2. točkom d) Uredbe (EZ) br. 543/2008.
-(2) Ostali pojmovi u smislu ovoga Pravilnika imaju jednako značenje kao i pojmovi korišteni u Uredbi iz članka 2. ovoga Pravilnika te Prilogu II. Dijelu VIII. i Prilogu VII. Dijelu V. Uredbe (EU) br. 1308/2013 Europskog parlamenta i Vijeća od 17. prosinca 2013. o uspostavljanju zajedničke organizacije tržišta poljoprivrednih proizvoda i stavljanju izvan snage uredbi Vijeća (EEZ) br. 922/72, (EEZ) br. 234/79, (EZ) br. 1037/2001 i (EZ) br. 1234/2007 (SL L 347, 20. 12. 2013.).
