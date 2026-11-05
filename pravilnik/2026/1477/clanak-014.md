@@ -1,0 +1,6 @@
+# Članak 14.
+(1) U skladu s člankom 7. stavkom 1. Provedbene uredbe (EU) br. 2026/344, nadležna inspekcija provodi nediskriminirajuće nasumične kontrole smrznutih ili brzo smrznutih pilećih trupova ili komada mesa peradi koji se unose iz drugih država članica Europske unije ili uvoze iz trećih zemalja radi provjere usklađenosti serije s člankom 14. Delegirane uredbe (EU) br. 2026/343.
+(2) Uzorkovanje proizvoda iz stavka 1. ovoga članka obavlja se u skladištu distributera ili drugom prikladnom mjestu, u što kraćem roku, a proizvodi se ne smiju staviti na tržište do završetka službene kontrole i utvrđivanja usklađenosti.
+(3) Ako se proizvodi iz stavka 1. ovoga članka uvoze iz trećih zemalja, nadležna inspekcija provodi uzorkovanje u trenutku carinjenja.
+(4) Ako se analizom i prema potrebi, ponovnom analizom uzorka utvrdi da pošiljka nije u skladu sa zahtjevima iz članka 14. Delegirane uredbe (EU) br. 2026/343, nadležna inspekcija poduzima mjere propisane člankom 15. ovoga Pravilnika.
+(5) Obavješćivanje pošiljatelja, primatelja ili njihovih predstavnika o rezultatima kontrole te daljnje postupanje nadležne inspekcije provodi se u skladu s člankom 7. stavkom 5. Provedbene uredbe (EU) br. 2026/344.
