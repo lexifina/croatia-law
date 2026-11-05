@@ -1,0 +1,5 @@
+# Članak 51.
+Članak 354. mijenja se i glasi:
+»(1) Ako je financijski instrument izdavatelja primljen u trgovinu na jednom MTP-u koji je registriran kao rastuće tržište malih i srednjih poduzeća u državi članici Europske unije, on može biti primljen u trgovinu na nekom drugom mjestu trgovanja samo ako je izdavatelj o tome obaviješten i ako se izdavatelj nije usprotivio primanju financijskog instrumenta u trgovinu na tom drugom mjestu trgovanja.
+(2) U slučaju iz stavka 1. ovoga članka, ako je to drugo mjesto trgovanja drugo rastuće tržište malih i srednjih poduzeća ili segment rastućeg tržišta malih i srednjih poduzeća, izdavatelj ne podliježe obvezama vezanim uz korporativno upravljanje i obvezama vezanim za početno, stalno ili ad hoc objavljivanje informacija u odnosu na takav drugi MTP registriran kao rastuće tržište malih i srednjih poduzeća.
+(3) Ako drugo mjesto trgovanja iz stavka 1. ovoga članka nije rastuće tržište malih i srednjih poduzeća, izdavatelja se obavješćuje o svim obvezama kojima će podlijegati, a koje se odnose na korporativno upravljanje ili početno, stalno ili ad hoc objavljivanje u pogledu tog drugog mjesta trgovanja.«.

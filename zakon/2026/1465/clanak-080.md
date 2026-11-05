@@ -1,0 +1,11 @@
+# Članak 80.
+Članak 566. mijenja se i glasi:
+»(1) Središnji depozitorij dužan je donijeti i primjenjivati operativna pravila rada kojima detaljno određuje i objašnjava način obavljanja usluga koje pruža.
+(2) Prijedlog operativnih pravila rada središnjeg depozitorija sa sjedištem u Republici Hrvatskoj, kao i njihovih izmjena i dopuna, zajedno sa sažetim i jasnim obrazloženjem svrhe predloženih odredbi ili izmjena i dopuna odredbi operativnih pravila rada, središnji depozitorij učinit će dostupnim svim članovima i Agenciji najkasnije 15 dana prije njihova usvajanja, a pri čemu je središnji depozitorij dužan članove pozvati na dostavu primjedbi i prijedloga te, ako je moguće, prihvatiti primjedbe i prijedloge članova, uz obrazloženje prihvaćenih i odbijenih primjedaba i prijedloga.
+(3) Ako je to potrebno radi očuvanja stabilnosti sustava namire i financijskog tržišta, središnji depozitorij sa sjedištem u Republici Hrvatskoj može skratiti razdoblje savjetovanja s članovima iz stavka 2. ovoga članka, pri čemu je središnji depozitorij dužan Agenciji obrazložiti zbog kojih je razloga usvajanje izmjena hitno i nužno radi očuvanja stabilnosti sustava namire i financijskog tržišta.
+(4) Agencija može od središnjeg depozitorija sa sjedištem u Republici Hrvatskoj zatražiti izmjene prijedloga promjene operativnih pravila rada, ako je to potrebno da bi se osiguralo da su operativna pravila rada usklađena s odredbama Uredbe (EU) br. 909/2014 i ovoga Zakona.
+(5) Ako središnji depozitorij ne usvoji izmjene iz stavka 4. ovoga članka, Agencija rješenjem može naložiti njihovo usvajanje.
+(6) Kada središnji depozitorij dostavlja operativna pravila rada ili njihove promjene Agenciji, dužan je najmanje dostaviti:
+1. nacrt teksta operativnih pravila rada ili njihovih izmjena i dopuna, s tim da se, ako se radi o izmjenama i dopunama, dostavlja verzija u čistopisu i razlikovna verzija
+2. sažeta i jasna obrazloženja svrhe predloženih odredbi ili izmjena i dopuna odredbi operativnih pravila rada.
+(7) Središnji depozitorij dužan je objaviti operativna pravila na svojim internetskim stanicama najmanje sedam dana prije početka njihove primjene i u istom je roku o njihovu donošenju ili promjeni dužan obavijestiti Agenciju i korisnike svojih usluga.«.
