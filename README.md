@@ -1,5 +1,7 @@
 # Croatian Constitution, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Croatia's national law, which global-law reads at `croatia/national/acts/`.
+
 The Constitution of the Republic of Croatia (Ustav Republike Hrvatske) as a git repository. Each amending act is one
 commit, credited to that act and dated the day it took effect, at noon in Zagreb. The text is the official text published in
 [Narodne novine](https://narodne-novine.nn.hr): the Constitution as first published (NN 56/1990) and the consolidated
