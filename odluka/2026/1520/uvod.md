@@ -1,0 +1,1 @@
+Na temelju članka 1. i članka 31. stavka 2. Zakona o Vladi Republike Hrvatske (»Narodne novine«, br. 150/11., 119/14., 93/16., 116/18., 80/22. i 78/24.) i članka 8. stavka 2. Uredbe o mjerama za stabilnost domaćeg tržišta energije (»Narodne novine«, broj 101/26.), Vlada Republike Hrvatske je na sjednici održanoj 5. studenoga 2026. donijela
