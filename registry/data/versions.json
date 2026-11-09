@@ -4958,6 +4958,132 @@
    ]
   },
   {
+   "slug": "pravilnik-2017-1207",
+   "path": "pravilnik/2017/1207",
+   "short": "Pravilnik o načinu uzimanja uzoraka i načinu plaćanja troškova za uzimanje uzoraka predmeta od plemenitih kovina prilikom obavljanja inspekcijskog nadzora",
+   "title": "Pravilnik o načinu uzimanja uzoraka i načinu plaćanja troškova za uzimanje uzoraka predmeta od plemenitih kovina prilikom obavljanja inspekcijskog nadzora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/53/1207",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_53_1207.html",
+     "sha256": "d02675e69b13b8a9c8ebd734a76d3c5bdc6942ff2b9a0bea5d988733b8d98ccd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1208",
+   "path": "pravilnik/2017/1208",
+   "short": "Pravilnik o načinu rada u aktivnostima radijske komunikacije za potrebe djelovanja sustava civilne zaštite u velikim nesrećama i katastrofama",
+   "title": "Pravilnik o načinu rada u aktivnostima radijske komunikacije za potrebe djelovanja sustava civilne zaštite u velikim nesrećama i katastrofama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/53/1208",
+   "versions": [
+    {
+     "from": "2017-06-15",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_53_1208.html",
+     "sha256": "2c83685070c61505575df9d85bab35fd2ab45dbb95499c4b243cdc5eb2e8a0c0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1232",
+   "path": "pravilnik/2017/1232",
+   "short": "Pravilnik o dopuni Pravilnika o uvjetima za obavljanje pomorske kabotaže u Republici Hrvatskoj",
+   "title": "Pravilnik o dopuni Pravilnika o uvjetima za obavljanje pomorske kabotaže u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/56/1232",
+   "versions": [
+    {
+     "from": "2017-06-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_56_1232.html",
+     "sha256": "c73b109fc3edb78852ffcb404e6df91a6477cc2b076fc7097a895f48d792e87e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-125",
+   "path": "pravilnik/2017/125",
+   "short": "Pravilnik o izmjeni Pravilnika o kriterijima za izricanje pedagoških mjera",
+   "title": "Pravilnik o izmjeni Pravilnika o kriterijima za izricanje pedagoških mjera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/3/125",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_3_125.html",
+     "sha256": "12123acbe1d34cdc21918b563d109a0609e7cf78fa4038d03355ce58b84e710b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1269",
+   "path": "pravilnik/2017/1269",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o upisu sorti u sortnu listu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o upisu sorti u sortnu listu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/57/1269",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_57_1269.html",
+     "sha256": "71a64bb6fae78b043456ec16b2889c5e6df05113df4f188fd7441f947a423c3a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1271",
+   "path": "pravilnik/2017/1271",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku za ostvarivanje prava na sredstva iz naknade za korištenje općekorisnih funkcija šuma za izvršene radove u šumama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku za ostvarivanje prava na sredstva iz naknade za korištenje općekorisnih funkcija šuma za izvršene radove u šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/57/1271",
+   "versions": [
+    {
+     "from": "2017-06-22",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_57_1271.html",
+     "sha256": "55f00aa48ce1a7eeb92ac39bfdef7bf6e4fe758886d54b110c80601f57407391"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-128",
+   "path": "pravilnik/2017/128",
+   "short": "Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/3/128",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_3_128.html",
+     "sha256": "8009c8c800d7fd141131161b8a6102c8509fde825d4791ab8ed594cc8cf6271e"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_128_2932.html",
+     "sha256": "12d5b4fc84989187d9307041a2ef6106a5166117442a34831e3ee0cf68b24a9e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-13",
+   "path": "pravilnik/2017/13",
+   "short": "Pravilnik o izmjeni Pravilnika o vođenju evidencije o plaćenom porezu na premije osiguranja od automobilske odgovornosti i na premije kasko osiguranja cestovnih vozila",
+   "title": "Pravilnik o izmjeni Pravilnika o vođenju evidencije o plaćenom porezu na premije osiguranja od automobilske odgovornosti i na premije kasko osiguranja cestovnih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/1/13",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_1_13.html",
+     "sha256": "a95cfb02911d1f2d15b9d18c393b6a473bd22611d34c8875d93ffe265d6c40c2"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2017-1324",
    "path": "pravilnik/2017/1324",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva prema računovodstvenim propisima",
@@ -4969,6 +5095,96 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_59_1324.html",
      "sha256": "bc7594548c94fd083ef9e5498db06a88adfb02c0fab664d6e9750d17c2c99493"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1410",
+   "path": "pravilnik/2017/1410",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/61/1410",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_61_1410.html",
+     "sha256": "4d568b0361dfc1e0d0a32fc97f267c067d131c740e40163d9853264d2439cfef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1413",
+   "path": "pravilnik/2017/1413",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/61/1413",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_61_1413.html",
+     "sha256": "7214c002668ad8e9b3c2f50276fb2ff104919433f2808ea1f44678fa6f8c91e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1441",
+   "path": "pravilnik/2017/1441",
+   "short": "Pravilnik o izmjenama Pravilnika o normizaciji u Ministarstvu obrane i Oružanim snagama Republike Hrvatske",
+   "title": "Pravilnik o izmjenama Pravilnika o normizaciji u Ministarstvu obrane i Oružanim snagama Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/62/1441",
+   "versions": [
+    {
+     "from": "2017-07-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_62_1441.html",
+     "sha256": "9c0ca15d4395e8db710247ec32660ef0f298259a8bb5dbe0560664a909e1f20e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1471",
+   "path": "pravilnik/2017/1471",
+   "short": "Pravilnik o parametrima kvalitete i kvalitativnim klasama pšenice u otkupu pšenice roda 2017. godine",
+   "title": "Pravilnik o parametrima kvalitete i kvalitativnim klasama pšenice u otkupu pšenice roda 2017. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1471",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_64_1471.html",
+     "sha256": "8fa44e776b7e8130ef09ed884b25c32f0a633520a1dd51b91776c92f2e9795ac"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1472",
+   "path": "pravilnik/2017/1472",
+   "short": "Pravilnik o dopunama Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja",
+   "title": "Pravilnik o dopunama Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1472",
+   "versions": [
+    {
+     "from": "2017-07-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_64_1472.html",
+     "sha256": "f7dd778cb2f139781651da919ab0eca3cf6c1cd01f791f5f49487db29f7a2eef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1473",
+   "path": "pravilnik/2017/1473",
+   "short": "Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova",
+   "title": "Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/64/1473",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_64_1473.html",
+     "sha256": "221493f9f993aed485a7983cc2955596eae774f16c9cfa3c47eef6c06d3f8f08"
     }
    ]
   },
@@ -4988,6 +5204,213 @@
    ]
   },
   {
+   "slug": "pravilnik-2017-1535",
+   "path": "pravilnik/2017/1535",
+   "short": "Pravilnik o nadzoru nad provedbom Zakona o javnoj nabavi",
+   "title": "Pravilnik o nadzoru nad provedbom Zakona o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/65/1535",
+   "versions": [
+    {
+     "from": "2017-07-15",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_65_1535.html",
+     "sha256": "006d2b548190f6f44ea2db377553ef1f9ac283bb86754b32ef0664474172569d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-155",
+   "path": "pravilnik/2017/155",
+   "short": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za siječanj 2017. godine",
+   "title": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za siječanj 2017. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/4/155",
+   "versions": [
+    {
+     "from": "2017-01-14",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_4_155.html",
+     "sha256": "d3e469b4da44923594de4e14b56bec9677516066773ff96d3dbe41c464c0b875"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1638",
+   "path": "pravilnik/2017/1638",
+   "short": "Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge na obiteljskom poljoprivrednom gospodarstvu",
+   "title": "Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge na obiteljskom poljoprivrednom gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1638",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1638.html",
+     "sha256": "962ec33c123729fb9b1966c3f0fa74fc8f30c95819f155f4d7819612c3ddb885"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1639",
+   "path": "pravilnik/2017/1639",
+   "short": "Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji ugostiteljskih objekata iz skupine ostali ugostiteljski objekti za smještaj",
+   "title": "Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji ugostiteljskih objekata iz skupine ostali ugostiteljski objekti za smještaj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1639",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1639.html",
+     "sha256": "c08a71769a8d1494c46a5d4e4aa61cda0c944e83d7bbdf2947cbd288b5439fd9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1640",
+   "path": "pravilnik/2017/1640",
+   "short": "Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu",
+   "title": "Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1640",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1640.html",
+     "sha256": "4986f3610044ae1c9787d1603ac44261a64ecff1cfbc804f65ca4f62cf601df8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1750",
+   "path": "pravilnik/2017/1750",
+   "short": "Pravilnik o izmjeni Pravilnika o obavljanju poslova nadzora državne granice",
+   "title": "Pravilnik o izmjeni Pravilnika o obavljanju poslova nadzora državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/72/1750",
+   "versions": [
+    {
+     "from": "2017-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_72_1750.html",
+     "sha256": "5bd9e2acf933e0349213df2f5cf9a5e44e40b4a84f1eccf2103f6d812f3a3eaf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1753",
+   "path": "pravilnik/2017/1753",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/72/1753",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_72_1753.html",
+     "sha256": "c668bc62d9ac3e6a03c72bccfbe302e236ceb9e19609dc00f7b0037ea8c1e57c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1754",
+   "path": "pravilnik/2017/1754",
+   "short": "Pravilnik o državnim potporama sektoru poljoprivrede i ruralnom razvoju",
+   "title": "Pravilnik o državnim potporama sektoru poljoprivrede i ruralnom razvoju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/72/1754",
+   "versions": [
+    {
+     "from": "2017-07-29",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_72_1754.html",
+     "sha256": "d58cf4682b54fd82c244a6a11f01cda5f7f2438ee24a6ef755ee2e8784b31312"
+    },
+    {
+     "from": "2021-02-04",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_01_7_145.html",
+     "sha256": "a1ad2040b37ce09217f6b4d3dfed92fa35cb821754bea6f536e54fe26dbd9119"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1757",
+   "path": "pravilnik/2017/1757",
+   "short": "Pravilnik o izmjenama Pravilnika o izdavanju suglasnosti za stjecanje kvalificiranog udjela u leasing društvu i drugoj pravnoj osobi",
+   "title": "Pravilnik o izmjenama Pravilnika o izdavanju suglasnosti za stjecanje kvalificiranog udjela u leasing društvu i drugoj pravnoj osobi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/72/1757",
+   "versions": [
+    {
+     "from": "2017-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_72_1757.html",
+     "sha256": "02e58a5a090723d9eb9582058aad6ca9f3ca686533aa39eab26d739cf32b9d17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1758",
+   "path": "pravilnik/2017/1758",
+   "short": "Pravilnik o izmjeni Pravilnika o sadržaju te načinu i rokovima dostave redovitih izvješća leasing društava i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o izmjeni Pravilnika o sadržaju te načinu i rokovima dostave redovitih izvješća leasing društava i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/72/1758",
+   "versions": [
+    {
+     "from": "2017-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_72_1758.html",
+     "sha256": "0f1742b90ecc52809205ef7b4436534e93304f46183eb2d5b4d02ce65674cf63"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1773",
+   "path": "pravilnik/2017/1773",
+   "short": "Pravilnik o sadržaju i načinu vođenja evidencije o radnicima",
+   "title": "Pravilnik o sadržaju i načinu vođenja evidencije o radnicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1773",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_73_1773.html",
+     "sha256": "311f4b9b1e5d4f2a964bd3c8da7b912ea8529ae59a846b75013de1b40c2a0844"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_05_55_969.html",
+     "sha256": "ba2b0acf9f1659555065a180879dbd154a03a4af059046532fcbfddaef21993d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1775",
+   "path": "pravilnik/2017/1775",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere Restrukturiranje i konverzija vinograda iz Nacionalnog programa pomoći sektoru vina 2014. - 2018.",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere Restrukturiranje i konverzija vinograda iz Nacionalnog programa pomoći sektoru vina 2014. - 2018.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1775",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_73_1775.html",
+     "sha256": "9138b6f72eb89b72c1d97384e7ea1b63cdd433b80a49376e04490385d283424c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-178",
+   "path": "pravilnik/2017/178",
+   "short": "Pravilnik o izmjeni Pravilnika o ocjenjivanju djelatnih vojnih osoba",
+   "title": "Pravilnik o izmjeni Pravilnika o ocjenjivanju djelatnih vojnih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/5/178",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_5_178.html",
+     "sha256": "c7af3769cc1c84b695473d6beb67b7308a7e28f0b9c3627680c37c2652f02598"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2017-179",
    "path": "pravilnik/2017/179",
    "short": "Pravilnik o dopuni Pravilnika o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o stipendiranju",
@@ -5003,6 +5426,1743 @@
    ]
   },
   {
+   "slug": "pravilnik-2017-185",
+   "path": "pravilnik/2017/185",
+   "short": "Pravilnik o izmjenama Pravilnika o ustrojstvu i upravljanju vršnom nacionalnom internetskom domenom",
+   "title": "Pravilnik o izmjenama Pravilnika o ustrojstvu i upravljanju vršnom nacionalnom internetskom domenom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/5/185",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_5_185.html",
+     "sha256": "03c07f1cb8378256fcf5174b1d16a45d56d91fe5a9d5a78b98be4551686f44ed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1896",
+   "path": "pravilnik/2017/1896",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obvezama kreditne institucije i Državne agencije za osiguranje štednih uloga i sanaciju banaka u svezi osiguranja depozita i postupak isplate obeštećenja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obvezama kreditne institucije i Državne agencije za osiguranje štednih uloga i sanaciju banaka u svezi osiguranja depozita i postupak isplate obeštećenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/76/1896",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_76_1896.html",
+     "sha256": "2456ea49acc9e2b330f52bfef95e67f75e96f3298eca6a352c78a277df20253c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1905",
+   "path": "pravilnik/2017/1905",
+   "short": "Pravilnik o izmjeni Pravilnika o energetskom pregledu zgrade i energetskom certificiranju",
+   "title": "Pravilnik o izmjeni Pravilnika o energetskom pregledu zgrade i energetskom certificiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/77/1905",
+   "versions": [
+    {
+     "from": "2017-08-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_77_1905.html",
+     "sha256": "3301e29df44ccb07974e14ff8712819d6135cc446c76d8b03343fd4112a3829c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-196",
+   "path": "pravilnik/2017/196",
+   "short": "Pravilnik o izmjeni Pravilnika o provedbi Podmjere 6.1. »Potpora za pokretanje poslovanja mladim poljoprivrednicima«, Podmjere 6.2. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« i Podmjere 6.3. »Potpora razvoju malih poljoprivrednih gospodarstava« u okviru mjere M06 »Razvoj poljoprivrednih gospodarstava i poslovanja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "title": "Pravilnik o izmjeni Pravilnika o provedbi Podmjere 6.1. »Potpora za pokretanje poslovanja mladim poljoprivrednicima«, Podmjere 6.2. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« i Podmjere 6.3. »Potpora razvoju malih poljoprivrednih gospodarstava« u okviru mjere M06 »Razvoj poljoprivrednih gospodarstava i poslovanja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/6/196",
+   "versions": [
+    {
+     "from": "2017-01-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_6_196.html",
+     "sha256": "d6fb3b4b11cf7236556674208f28505ccbee69881e6e3387845baf933ea522de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1961",
+   "path": "pravilnik/2017/1961",
+   "short": "Pravilnik o izmjenama Pravilnika o inspekcijskom nadzoru i kontroli usklađenosti voća i povrća s tržišnim standardima",
+   "title": "Pravilnik o izmjenama Pravilnika o inspekcijskom nadzoru i kontroli usklađenosti voća i povrća s tržišnim standardima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/79/1961",
+   "versions": [
+    {
+     "from": "2017-08-12",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_79_1961.html",
+     "sha256": "665f918db8cb65afd800c48ab190f07e0d1a9cf0090378bb463b6c8e2fb3e1c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1962",
+   "path": "pravilnik/2017/1962",
+   "short": "Pravilnik o izmjeni Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja",
+   "title": "Pravilnik o izmjeni Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/79/1962",
+   "versions": [
+    {
+     "from": "2017-08-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_79_1962.html",
+     "sha256": "3ba263996c509b92dc54b426fc24066a61d3b2d9845b7475479dbf8f6ee9bfb9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1967",
+   "path": "pravilnik/2017/1967",
+   "short": "Pravilnik o praćenju kvalitete zraka",
+   "title": "Pravilnik o praćenju kvalitete zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/79/1967",
+   "versions": [
+    {
+     "from": "2017-08-19",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_79_1967.html",
+     "sha256": "d50dc7c56325d2d08fcf6a87085e578d710b4e1c797ab6462f74783237ebc322"
+    },
+    {
+     "from": "2020-07-02",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_06_72_1410.html",
+     "sha256": "e08e73774d5bd779806661c2838cf31282e1fa91cabff386ca5e098787c957e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-197",
+   "path": "pravilnik/2017/197",
+   "short": "Pravilnik o izmjenama Pravilnika o provedbi mjere M09 »Uspostava proizvođačkih grupa i organizacija« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "title": "Pravilnik o izmjenama Pravilnika o provedbi mjere M09 »Uspostava proizvođačkih grupa i organizacija« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/6/197",
+   "versions": [
+    {
+     "from": "2017-01-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_6_197.html",
+     "sha256": "19630f31d5dd5290f490c99b965e0a54a7f335cdaa799ea054529d3aff3d7bfd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1991",
+   "path": "pravilnik/2017/1991",
+   "short": "Pravilnik o izmjenama Pravilnika o registru zadužnica i bjanko zadužnica",
+   "title": "Pravilnik o izmjenama Pravilnika o registru zadužnica i bjanko zadužnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/82/1991",
+   "versions": [
+    {
+     "from": "2017-09-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_82_1991.html",
+     "sha256": "9e07b1fdbdd625fe1fc7d3cf8826255f78ea8eef9763b52e9b11353da8a9a69d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-1996",
+   "path": "pravilnik/2017/1996",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o ovjernim razdobljima za pojedina zakonita mjerila i načinu njihove primjene i o umjernim razdobljima za etalone koji se upotrebljavaju za ovjeravanje zakonitih mjerila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o ovjernim razdobljima za pojedina zakonita mjerila i načinu njihove primjene i o umjernim razdobljima za etalone koji se upotrebljavaju za ovjeravanje zakonitih mjerila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/82/1996",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_82_1996.html",
+     "sha256": "28d1d76f0eddae939a5b38e919c4b9ad632b56dc7398046ec1c816a1901d9566"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2062",
+   "path": "pravilnik/2017/2062",
+   "short": "Pravilnik o dopuni Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "title": "Pravilnik o dopuni Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/86/2062",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_86_2062.html",
+     "sha256": "22eca605dfa01c6ba4f53cd32a091df7367b8e4deeaee4e7d46c794a78146e89"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2063",
+   "path": "pravilnik/2017/2063",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o postupku i ovlastima u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga Republike Hrvatske",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o postupku i ovlastima u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/86/2063",
+   "versions": [
+    {
+     "from": "2017-09-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_86_2063.html",
+     "sha256": "2e9b44cdd877c971c9511e319f8ea90a7a4d716e55f175229a31baf07ae301c8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2064",
+   "path": "pravilnik/2017/2064",
+   "short": "Pravilnik o stručnom osposobljavanju izvršnih radnika željezničkog sustava",
+   "title": "Pravilnik o stručnom osposobljavanju izvršnih radnika željezničkog sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/86/2064",
+   "versions": [
+    {
+     "from": "2017-11-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_86_2064.html",
+     "sha256": "bd47753fb1ac2a10bfa12e40023d2394799484ff9108458574bd7a87956dcf50"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2154",
+   "path": "pravilnik/2017/2154",
+   "short": "Pravilnik o načinu postupanja policijskih službenika u postupku provjere podobnosti osobe",
+   "title": "Pravilnik o načinu postupanja policijskih službenika u postupku provjere podobnosti osobe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/92/2154",
+   "versions": [
+    {
+     "from": "2017-09-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_92_2154.html",
+     "sha256": "c5d59f1f23f20ae045510dcf25da90c4d792d60c9220372a555e653db2635ff6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2165",
+   "path": "pravilnik/2017/2165",
+   "short": "Pravilnik o načinu izračuna građevinske (bruto) površine zgrade",
+   "title": "Pravilnik o načinu izračuna građevinske (bruto) površine zgrade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/93/2165",
+   "versions": [
+    {
+     "from": "2017-09-23",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_93_2165.html",
+     "sha256": "2f7175d0d0d29b3e4351edd92166abcd7fb9e12073b71b963cc945cc4d59fbbe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2166",
+   "path": "pravilnik/2017/2166",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje djelatnosti brodarskog agenta",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje djelatnosti brodarskog agenta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/93/2166",
+   "versions": [
+    {
+     "from": "2017-09-23",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_93_2166.html",
+     "sha256": "0395161c6d572990dd99636144b5ddfea0d19f02110d67e8b0d10ec3fd4373c2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2167",
+   "path": "pravilnik/2017/2167",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o metodologiji za izradu analize poslovanja kritičnih infrastruktura",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o metodologiji za izradu analize poslovanja kritičnih infrastruktura",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/93/2167",
+   "versions": [
+    {
+     "from": "2017-09-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_93_2167.html",
+     "sha256": "1dfc2237c8f7427c061273fcab0bd8d6798c66c572954ab16fa64c8acf958986"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2182",
+   "path": "pravilnik/2017/2182",
+   "short": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« pridnenim povlačnim mrežama - koćama za rujan/listopad 2017. godine",
+   "title": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« pridnenim povlačnim mrežama - koćama za rujan/listopad 2017. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/94/2182",
+   "versions": [
+    {
+     "from": "2017-09-21",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_94_2182.html",
+     "sha256": "785b510c98a390c6b93f6744e422d04b66dd36763925daa940672d9271284bde"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2196",
+   "path": "pravilnik/2017/2196",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/95/2196",
+   "versions": [
+    {
+     "from": "2017-09-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_95_2196.html",
+     "sha256": "5590ebd196d51186d9c2c96f0c300e134afa73952b9a2a69dc21d13c7c4672e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2218",
+   "path": "pravilnik/2017/2218",
+   "short": "Pravilnik o izmjeni Pravilnika o cestarini",
+   "title": "Pravilnik o izmjeni Pravilnika o cestarini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/96/2218",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_96_2218.html",
+     "sha256": "c125d70176f92eaa6c83faebb91e2136e9de43be77b59d5ad9c533225099cfbc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-225",
+   "path": "pravilnik/2017/225",
+   "short": "Pravilnik o podnošenju trošarinskih obrazaca i obrazaca posebnih poreza uporabom sustava elektroničke razmjene podataka",
+   "title": "Pravilnik o podnošenju trošarinskih obrazaca i obrazaca posebnih poreza uporabom sustava elektroničke razmjene podataka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/7/225",
+   "versions": [
+    {
+     "from": "2017-02-15",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_7_225.html",
+     "sha256": "a7c640e65c644059a0a3706508f5dcbda15df4838e7b65695418ee14860ba056"
+    },
+    {
+     "from": "2022-05-19",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_05_56_790.html",
+     "sha256": "957fa8cc272f047235ff6501537d4b32b1c061b555856b8fba0d4aaaabf3c54b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-226",
+   "path": "pravilnik/2017/226",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/7/226",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_7_226.html",
+     "sha256": "3e9483bf2d08602c7fabdbfe7e7708bd7e3755c5879380003ce83ad6ec882239"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2273",
+   "path": "pravilnik/2017/2273",
+   "short": "Pravilnik o izmjenama Pravilnika o provedbi Školske sheme",
+   "title": "Pravilnik o izmjenama Pravilnika o provedbi Školske sheme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/98/2273",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_98_2273.html",
+     "sha256": "8dd4af00008a429f9c09cc52553b7c38a7b737d2a9f40e7a6deb38560cf1b9b5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2281",
+   "path": "pravilnik/2017/2281",
+   "short": "Pravilnik o evidenciji privremeno i trajno oduzetih predmeta i imovinske koristi ostvarene kaznenim djelom",
+   "title": "Pravilnik o evidenciji privremeno i trajno oduzetih predmeta i imovinske koristi ostvarene kaznenim djelom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/99/2281",
+   "versions": [
+    {
+     "from": "2017-10-14",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_99_2281.html",
+     "sha256": "f57a54253005b8739853186a869f0e57ad104be3169808f36688507f09e5261d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2288",
+   "path": "pravilnik/2017/2288",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijavljivanja i odjavljivanja, te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijavljivanja i odjavljivanja, te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/99/2288",
+   "versions": [
+    {
+     "from": "2017-10-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_99_2288.html",
+     "sha256": "21a0c7a7706d8b61108d566e71d84181a83da5b05e6b189f9379031096168593"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2307",
+   "path": "pravilnik/2017/2307",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o statusu i radu stranaca u Republici Hrvatskoj",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o statusu i radu stranaca u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2307",
+   "versions": [
+    {
+     "from": "2017-10-19",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_100_2307.html",
+     "sha256": "f7b12208d4521faee19d49d0b7c1225adeaa74ae8d337a569ed7ffd9da1d1deb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2309",
+   "path": "pravilnik/2017/2309",
+   "short": "Pravilnik o načinu evidentiranja izdanih i iskorištenih putnih karata u javnom pomorskom prometu",
+   "title": "Pravilnik o načinu evidentiranja izdanih i iskorištenih putnih karata u javnom pomorskom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/100/2309",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_100_2309.html",
+     "sha256": "955527d1b09347f7683bc37e1561e09b5ad87c08a5fc652fcc016cfeb79bd9d6"
+    },
+    {
+     "from": "2023-03-02",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_02_21_362.html",
+     "sha256": "910d5055d06e4c307d4f6d2f028b0778e5638e88aa21cd7c51686b243d352cf4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2337",
+   "path": "pravilnik/2017/2337",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere M04 »Ulaganja u fizičku imovinu«, podmjere 4.3. »Potpora za ulaganja u infrastrukturu vezano uz razvoj, modernizaciju i prilagodbu poljoprivrede i šumarstva«, tip operacije 4.3.1. »Investicije u osnovnu infrastrukturu javnog navodnjavanja« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere M04 »Ulaganja u fizičku imovinu«, podmjere 4.3. »Potpora za ulaganja u infrastrukturu vezano uz razvoj, modernizaciju i prilagodbu poljoprivrede i šumarstva«, tip operacije 4.3.1. »Investicije u osnovnu infrastrukturu javnog navodnjavanja« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/101/2337",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_101_2337.html",
+     "sha256": "e4a94ada043808ede33606f210150903a59615535a78de1dcf1f5a7966e9b225"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2348",
+   "path": "pravilnik/2017/2348",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o načinu vođenja evidencije vojnih obveznika i izvršavanju vojne obveze",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o načinu vođenja evidencije vojnih obveznika i izvršavanju vojne obveze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/102/2348",
+   "versions": [
+    {
+     "from": "2017-10-19",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_102_2348.html",
+     "sha256": "d6eeff6e5e90ade9b0d456280a8af35097465806d711c9931236acab28dd1a61"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2368",
+   "path": "pravilnik/2017/2368",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.4. »Prerada proizvoda ribarstva i akvakulture«",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.4. »Prerada proizvoda ribarstva i akvakulture«",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/103/2368",
+   "versions": [
+    {
+     "from": "2017-10-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_103_2368.html",
+     "sha256": "790bb853fa7c4fb6d8f37d5aa20daf90cd2a11b5db5a39ae0d443c5bf108f542"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2424",
+   "path": "pravilnik/2017/2424",
+   "short": "Pravilnik o obrambenom planiranju u Ministarstvu obrane i Oružanim snagama Republike Hrvatske",
+   "title": "Pravilnik o obrambenom planiranju u Ministarstvu obrane i Oružanim snagama Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/106/2424",
+   "versions": [
+    {
+     "from": "2017-11-08",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_106_2424.html",
+     "sha256": "7bca4db006f778e4c66accd1534bb7b0b153db75b041ff5fcd6b114b8065531f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2473",
+   "path": "pravilnik/2017/2473",
+   "short": "Pravilnik o izmjeni Pravilnika o naknadama za poslove zdravstvene zaštite bilja",
+   "title": "Pravilnik o izmjeni Pravilnika o naknadama za poslove zdravstvene zaštite bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/107/2473",
+   "versions": [
+    {
+     "from": "2017-11-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_107_2473.html",
+     "sha256": "832f221c2d62f870894201939b21160e5aa59820102e7d0f58fb82b4a8807670"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2515",
+   "path": "pravilnik/2017/2515",
+   "short": "Pravilnik o dopunama Pravilnika o zahvatima u prostoru koji se ne smatraju građenjem, a za koje se izdaje lokacijska dozvola",
+   "title": "Pravilnik o dopunama Pravilnika o zahvatima u prostoru koji se ne smatraju građenjem, a za koje se izdaje lokacijska dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/108/2515",
+   "versions": [
+    {
+     "from": "2017-11-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_108_2515.html",
+     "sha256": "f1af73cf286525ff456fd08bb1803634e501ff1e7a328156c59986510a2226eb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2662",
+   "path": "pravilnik/2017/2662",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o funkcionalnim kategorijama za određivanje mreže biciklističkih ruta",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o funkcionalnim kategorijama za određivanje mreže biciklističkih ruta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/114/2662",
+   "versions": [
+    {
+     "from": "2017-11-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_114_2662.html",
+     "sha256": "ca6fe367a67c7e751758f89056173332d1fc7557f0a0c5de5ddaa5c91aa4dd8e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2663",
+   "path": "pravilnik/2017/2663",
+   "short": "Pravilnik o sakupljanju zavičajnih divljih vrsta",
+   "title": "Pravilnik o sakupljanju zavičajnih divljih vrsta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/114/2663",
+   "versions": [
+    {
+     "from": "2017-11-30",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_114_2663.html",
+     "sha256": "2760e4ec0e54875d85b3f99dcc6fa1cb83fcd69fc1fef4da63bec89d5e0f2f20"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2681",
+   "path": "pravilnik/2017/2681",
+   "short": "Pravilnik o izmjeni Pravilnika o poticajima pri zapošljavanju osoba s invaliditetom",
+   "title": "Pravilnik o izmjeni Pravilnika o poticajima pri zapošljavanju osoba s invaliditetom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/116/2681",
+   "versions": [
+    {
+     "from": "2017-12-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_116_2681.html",
+     "sha256": "9d048f25c5fdd77607ab4e6919d4d166b2af3084f21db860769e96e123693a8c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2690",
+   "path": "pravilnik/2017/2690",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o amaterskim radijskim komunikacijama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o amaterskim radijskim komunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/116/2690",
+   "versions": [
+    {
+     "from": "2017-12-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_116_2690.html",
+     "sha256": "2bd4418ed2baef0923e0d56ed6f7fac1bbcee3b6c08fa855613d4ce1189f30ac"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2691",
+   "path": "pravilnik/2017/2691",
+   "short": "Pravilnik o stavljanju izvan snage Pravilnika o tehničkim uvjetima za elektroničku komunikacijsku mrežu poslovnih i stambenih zgrada",
+   "title": "Pravilnik o stavljanju izvan snage Pravilnika o tehničkim uvjetima za elektroničku komunikacijsku mrežu poslovnih i stambenih zgrada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/116/2691",
+   "versions": [
+    {
+     "from": "2017-12-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_116_2691.html",
+     "sha256": "4b6282406cad5fb964bb2ea75497eba7f4bf50fd26d346dd869273364e0ddd98"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2692",
+   "path": "pravilnik/2017/2692",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i provođenju te ocjenjivanju pisanog ispita i usmenog razgovora",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i provođenju te ocjenjivanju pisanog ispita i usmenog razgovora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/116/2692",
+   "versions": [
+    {
+     "from": "2017-11-25",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_116_2692.html",
+     "sha256": "50231285869b18e5aa95694571032c477c8b90a511863a9dd93f6ab9e9024e7b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2766",
+   "path": "pravilnik/2017/2766",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.22. »Dodana vrijednost, kvaliteta proizvoda i korištenje neželjenog ulova«",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.22. »Dodana vrijednost, kvaliteta proizvoda i korištenje neželjenog ulova«",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/121/2766",
+   "versions": [
+    {
+     "from": "2017-12-07",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_121_2766.html",
+     "sha256": "48621d577c8096a3d8689e4782f0b664c4109e520451778e9413c3cc1a98fb8d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2768",
+   "path": "pravilnik/2017/2768",
+   "short": "Pravilnik o izmjenama Pravilnika o rasporedu sredstava za održavanje, rekonstrukciju i građenje županijskih i lokalnih cesta županijskim upravama za ceste u 2017. godini",
+   "title": "Pravilnik o izmjenama Pravilnika o rasporedu sredstava za održavanje, rekonstrukciju i građenje županijskih i lokalnih cesta županijskim upravama za ceste u 2017. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/121/2768",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_121_2768.html",
+     "sha256": "ecf976910e569433160a795b64410cb1ffe037e73bebbc335e90e5a39a19758d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-277",
+   "path": "pravilnik/2017/277",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za dodjelu nagrada sportašima za sportska ostvarenja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za dodjelu nagrada sportašima za sportska ostvarenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/9/277",
+   "versions": [
+    {
+     "from": "2017-02-09",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_9_277.html",
+     "sha256": "c1d705efb384c374d8e98662ce4dae2694df2beac3f1b1b215237dd7986fd583"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2770",
+   "path": "pravilnik/2017/2770",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje kojima se određuje neprozirnost ispušnih plinova motora cestovnih vozila s kompresijskim paljenjem",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje kojima se određuje neprozirnost ispušnih plinova motora cestovnih vozila s kompresijskim paljenjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/121/2770",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_121_2770.html",
+     "sha256": "fccdb4bcdb7dbcc0bc0534fbb7a81a720332fffd3fe3b81087dc4de77412c1c0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2771",
+   "path": "pravilnik/2017/2771",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje s valjcima kojima se provjerava sila kočenja na obodu kotača kod vozila na motorni pogon i priključnih vozila (cestovnih vozila)",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje s valjcima kojima se provjerava sila kočenja na obodu kotača kod vozila na motorni pogon i priključnih vozila (cestovnih vozila)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/121/2771",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_121_2771.html",
+     "sha256": "8e410a6244901c0e35b846d7f61e84b638d86ec84ed34f153cc1ea124c8ecb96"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2842",
+   "path": "pravilnik/2017/2842",
+   "short": "Pravilnik o materijalnom zbrinjavanju",
+   "title": "Pravilnik o materijalnom zbrinjavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/125/2842",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 146,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_125_2842.html",
+     "sha256": "347fba6f03e14cbcade821fc9ec5a86d8c0c086402e087f8c12876710ab59536"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2843",
+   "path": "pravilnik/2017/2843",
+   "short": "Pravilnik o dostavi prijedloga državnih potpora, podataka o državnim potporama i potporama male vrijednosti te registru državnih potpora i potpora male vrijednosti",
+   "title": "Pravilnik o dostavi prijedloga državnih potpora, podataka o državnim potporama i potporama male vrijednosti te registru državnih potpora i potpora male vrijednosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/125/2843",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_125_2843.html",
+     "sha256": "6a3295fb62f8a1cfd7fefc7c85a969a2510508a10f0f3855a847cd1ee95c6483"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2860",
+   "path": "pravilnik/2017/2860",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke koje provodi Hrvatski centar za poljoprivredu, hranu i selo - Zavod za sjemenarstvo i rasadničarstvo",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke koje provodi Hrvatski centar za poljoprivredu, hranu i selo - Zavod za sjemenarstvo i rasadničarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/126/2860",
+   "versions": [
+    {
+     "from": "2017-12-26",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_126_2860.html",
+     "sha256": "7b7bf40614a5d20d9507129877d797b593c65027052aeb3eada45f4517e5415e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2861",
+   "path": "pravilnik/2017/2861",
+   "short": "Pravilnik o izmjenama Pravilnika o provedbi mjere 16 »Suradnja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "title": "Pravilnik o izmjenama Pravilnika o provedbi mjere 16 »Suradnja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/126/2861",
+   "versions": [
+    {
+     "from": "2017-12-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_126_2861.html",
+     "sha256": "a6ea6cf6278fd0f468dd60bf36f3ef6acc53add9e14719f624485b44fd881653"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2884",
+   "path": "pravilnik/2017/2884",
+   "short": "Pravilnik o izmjenama Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu",
+   "title": "Pravilnik o izmjenama Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2884",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_127_2884.html",
+     "sha256": "e8fb29fd0db3e3771184f02624357b645634e924fe7f2ffaa7ccdcd721e2a8f3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2929",
+   "path": "pravilnik/2017/2929",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih financijskih izvještaja Središnjeg klirinškog depozitarnog društva",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih financijskih izvještaja Središnjeg klirinškog depozitarnog društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2929",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_128_2929.html",
+     "sha256": "c2a69a64ea15f61fc1dd350c1249348f6e0d7bbf58c7ab1f3fd7f60ca51038f4"
+    },
+    {
+     "from": "2019-03-02",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_02_18_395.html",
+     "sha256": "4319ba3de2172991c337621f3047c8564d0d53b98449fee6c6821059bfc023e3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2930",
+   "path": "pravilnik/2017/2930",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju polugodišnjih i godišnjih financijskih izvještaja Fonda za zaštitu ulagatelja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju polugodišnjih i godišnjih financijskih izvještaja Fonda za zaštitu ulagatelja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2930",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_128_2930.html",
+     "sha256": "8efcafc184643cdf4bddb6e4d45f2c367727f6360a9288abe19cf47b30e9c94c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-2994",
+   "path": "pravilnik/2017/2994",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obrascima i evidencijama putnih isprava hrvatskih državljana te načinu dostave i preuzimanja izrađenih putovnica",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obrascima i evidencijama putnih isprava hrvatskih državljana te načinu dostave i preuzimanja izrađenih putovnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/130/2994",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_130_2994.html",
+     "sha256": "94995b84155d081c6487000c9cb4c67e04f090c4d17cf6c52100c37f3a21eeea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-303",
+   "path": "pravilnik/2017/303",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - manjih kotlova i peći na biomasu",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - manjih kotlova i peći na biomasu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/12/303",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_12_303.html",
+     "sha256": "dc10492c982ec26f180cbb5ee3e5002e96ed0a1669580738730addd797bca20a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-3039",
+   "path": "pravilnik/2017/3039",
+   "short": "Pravilnik o programu i načinu osnovnog osposobljavanja nadzornika tehničke ispravnosti vozila, načinu stručnog usavršavanja i provjeri stručnosti nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila",
+   "title": "Pravilnik o programu i načinu osnovnog osposobljavanja nadzornika tehničke ispravnosti vozila, načinu stručnog usavršavanja i provjeri stručnosti nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/132/3039",
+   "versions": [
+    {
+     "from": "2018-05-20",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_132_3039.html",
+     "sha256": "bb117616d19f31c98dfa7de18c6690048732579696cf827dffa3440a478a40ce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-304",
+   "path": "pravilnik/2017/304",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - solarnih toplinskih sustava",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - solarnih toplinskih sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/12/304",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_12_304.html",
+     "sha256": "b98d793fc8bb2338e4fe4b829d1be2d346e7d98ed1a355990714865a7f66e332"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-3045",
+   "path": "pravilnik/2017/3045",
+   "short": "Pravilnik o izmjenama Pravilnika o obiteljskoj medijaciji",
+   "title": "Pravilnik o izmjenama Pravilnika o obiteljskoj medijaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/132/3045",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_132_3045.html",
+     "sha256": "14d52524dbfef66de1e925f1809955883f6b8af5d4cc33def6a4165f6c15900c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-305",
+   "path": "pravilnik/2017/305",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - plitkih geotermalnih sustava i dizalica topline",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - plitkih geotermalnih sustava i dizalica topline",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/12/305",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_12_305.html",
+     "sha256": "e492dfd4b68d8d6c82c6159ead89b45722691fa16de8f0b283a63ffcc7fa57dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-3051",
+   "path": "pravilnik/2017/3051",
+   "short": "Pravilnik o izmjeni Pravilnika o strukturi i sadržaju te načinu i rokovima dostave financijskih i dodatnih izvještaja leasing društava",
+   "title": "Pravilnik o izmjeni Pravilnika o strukturi i sadržaju te načinu i rokovima dostave financijskih i dodatnih izvještaja leasing društava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/132/3051",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_132_3051.html",
+     "sha256": "93bfa3d8076e283ef396b55dbff962d0620515d329738aba0d99ddb8326970f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-3052",
+   "path": "pravilnik/2017/3052",
+   "short": "Pravilnik o izmjeni Pravilnika o kontnom planu leasing društva",
+   "title": "Pravilnik o izmjeni Pravilnika o kontnom planu leasing društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/132/3052",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_132_3052.html",
+     "sha256": "6054c749ce47221e9f51bd0d9b3b2e0436eb5e14cda53c0b23717bbbedd29816"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-3053",
+   "path": "pravilnik/2017/3053",
+   "short": "Pravilnik o izmjeni Pravilnika o financijskim i dodatnim izvještajima te kontnom planu faktoring društava",
+   "title": "Pravilnik o izmjeni Pravilnika o financijskim i dodatnim izvještajima te kontnom planu faktoring društava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/132/3053",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_132_3053.html",
+     "sha256": "28c276ddf9e2d4e9d9ed73d4a42dcab3c8d93de6e689c7fde2b7f6c50e6e6604"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-306",
+   "path": "pravilnik/2017/306",
+   "short": "Pravilnik o osiguranju sljedivosti tkiva od darivatelja do primatelja, načinu praćenja ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija, načinu vođenja evidencije i rokovima izvješćivanja te sadržaju tiskanice godišnjeg izvješća",
+   "title": "Pravilnik o osiguranju sljedivosti tkiva od darivatelja do primatelja, načinu praćenja ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija, načinu vođenja evidencije i rokovima izvješćivanja te sadržaju tiskanice godišnjeg izvješća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/12/306",
+   "versions": [
+    {
+     "from": "2017-02-16",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_12_306.html",
+     "sha256": "dce34adbccad9ba26e8a6cb3f039d0521df6a57fda70f3a90b466a711f0e32b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-356",
+   "path": "pravilnik/2017/356",
+   "short": "Pravilnik o dopunama Pravilnika o malom obalnom ribolovu",
+   "title": "Pravilnik o dopunama Pravilnika o malom obalnom ribolovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/15/356",
+   "versions": [
+    {
+     "from": "2017-02-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_15_356.html",
+     "sha256": "a93adcd72941787c7be5748d4a9f1f87534c390ba61588f4e3f3302a766b51a3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-357",
+   "path": "pravilnik/2017/357",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu plavoperajne tune (Thunnus thynnus)",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu plavoperajne tune (Thunnus thynnus)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/15/357",
+   "versions": [
+    {
+     "from": "2017-02-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_15_357.html",
+     "sha256": "c0d2b1e60fb63d4452d26e68a1d1bdd6e292a21ae9135609eb7bdde65b216070"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-387",
+   "path": "pravilnik/2017/387",
+   "short": "Pravilnik o izmjenama Pravilnika o registraciji poljoprivrednika koji posluju s hranom za životinje",
+   "title": "Pravilnik o izmjenama Pravilnika o registraciji poljoprivrednika koji posluju s hranom za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/16/387",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_16_387.html",
+     "sha256": "bb0dc7960fa18ae7e4f87cf440e450840e2bc8b2cb8e6e04545329905e07397c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-388",
+   "path": "pravilnik/2017/388",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere III.1. »Pripremna potpora«",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere III.1. »Pripremna potpora«",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/16/388",
+   "versions": [
+    {
+     "from": "2017-02-23",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_16_388.html",
+     "sha256": "c4bf91d665ddd6eb5157fd5e40fa643bff31fbcee5d6c4b5f62df53f30dccf7e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-404",
+   "path": "pravilnik/2017/404",
+   "short": "Pravilnik o stranim vrstama koje se mogu stavljati na tržište te invazivnim stranim vrstama",
+   "title": "Pravilnik o stranim vrstama koje se mogu stavljati na tržište te invazivnim stranim vrstama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/17/404",
+   "versions": [
+    {
+     "from": "2017-03-04",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_17_404.html",
+     "sha256": "ba3bab81401639d87ede2edd5351d13e975ed03d0f5d6c943d001b699ff07a3d"
+    },
+    {
+     "from": "2024-02-10",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_13_245.html",
+     "sha256": "945332bbed511d3c9301b8bf4f377bc13d49d3a5e350a282ff4501e328df9765"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-421",
+   "path": "pravilnik/2017/421",
+   "short": "Pravilnik o zaštiti na radu pri uporabi radne opreme",
+   "title": "Pravilnik o zaštiti na radu pri uporabi radne opreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/421",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_18_421.html",
+     "sha256": "b242e132beb932467f9ca32a59ed17901271e55fb68c34fcf4b67fb1a47fb456"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-422",
+   "path": "pravilnik/2017/422",
+   "short": "Pravilnik o izmjenama Pravilnika o statusu i financiranju Pulskoga filmskog festivala",
+   "title": "Pravilnik o izmjenama Pravilnika o statusu i financiranju Pulskoga filmskog festivala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/422",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_18_422.html",
+     "sha256": "7dd795c24c58548f46690a484eea2ab44cf5c4ad6091b8fdefad24bad14d1ce3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-423",
+   "path": "pravilnik/2017/423",
+   "short": "Pravilnik o izmjeni Pravilnika o obliku i sadržaju obrasca za prijavu podataka o osnovici za obračun članarine u turističkim zajednicama",
+   "title": "Pravilnik o izmjeni Pravilnika o obliku i sadržaju obrasca za prijavu podataka o osnovici za obračun članarine u turističkim zajednicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/423",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_18_423.html",
+     "sha256": "78bbb47349d52c0b407494fbd16b1d2f84c2b512c50cf0293563c5a57f82c6b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-424",
+   "path": "pravilnik/2017/424",
+   "short": "Pravilnik o izmjeni pravilnika o obliku, sadržaju i načinu vođenja knjige žalbi",
+   "title": "Pravilnik o izmjeni pravilnika o obliku, sadržaju i načinu vođenja knjige žalbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/424",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_18_424.html",
+     "sha256": "12ba35e9379ba43f1b7b39e4d56c582d3c55124124a4450a445834cffe291f33"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-425",
+   "path": "pravilnik/2017/425",
+   "short": "Pravilnik o drugim tehničkim zahtjevima koje, osim tehničkih zahtjeva u pogledu stupnja čistoće, moraju ispunjavati predmeti od plemenitih kovina",
+   "title": "Pravilnik o drugim tehničkim zahtjevima koje, osim tehničkih zahtjeva u pogledu stupnja čistoće, moraju ispunjavati predmeti od plemenitih kovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/18/425",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_18_425.html",
+     "sha256": "ea2da9ec40e5feac2f768e6f9e5eddb184833d1279c99a553e42c5980bde44ea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-447",
+   "path": "pravilnik/2017/447",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o određivanju područja s prirodnim ili ostalim posebnim ograničenjima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o određivanju područja s prirodnim ili ostalim posebnim ograničenjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/19/447",
+   "versions": [
+    {
+     "from": "2017-03-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_19_447.html",
+     "sha256": "86ee22c5c58fbac286e78aed77075d19c84f99dd0bb50b5bca5bc3ca52be2092"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-448",
+   "path": "pravilnik/2017/448",
+   "short": "Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda",
+   "title": "Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/19/448",
+   "versions": [
+    {
+     "from": "2017-03-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_19_448.html",
+     "sha256": "b05c8dc8746e7bf12aac203e5a7c52fc10a7c6c168655e45a5d58a9666697509"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-451",
+   "path": "pravilnik/2017/451",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu izdavanja i oduzimanja odobrenja za ambalažu za prijevoz radioaktivnih i nuklearnih materijala",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu izdavanja i oduzimanja odobrenja za ambalažu za prijevoz radioaktivnih i nuklearnih materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/19/451",
+   "versions": [
+    {
+     "from": "2017-03-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_19_451.html",
+     "sha256": "e54898d349081531bd4cd4393171ba40c5b419c6f3d8e02a573bbf75ecf8df08"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-477",
+   "path": "pravilnik/2017/477",
+   "short": "Pravilnik o izmjeni Pravilnika o obrascima zahtjeva dozvola za robu s dvojnom namjenom",
+   "title": "Pravilnik o izmjeni Pravilnika o obrascima zahtjeva dozvola za robu s dvojnom namjenom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/20/477",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_20_477.html",
+     "sha256": "f57f5805b490cd89e9f8e80fcead01a444291ac7b5ad1b2d54070653acde890b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-479",
+   "path": "pravilnik/2017/479",
+   "short": "Pravilnik o načinu obračuna i tarifi naknada",
+   "title": "Pravilnik o načinu obračuna i tarifi naknada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/20/479",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_20_479.html",
+     "sha256": "d125ba8675fcc648e1ecc2e8f28ba9d562b30beed031d359d995d805ea0207cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-481",
+   "path": "pravilnik/2017/481",
+   "short": "Pravilnik o izmjeni Pravilnika o vrsti i sadržaju projekata za javne ceste",
+   "title": "Pravilnik o izmjeni Pravilnika o vrsti i sadržaju projekata za javne ceste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/20/481",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_20_481.html",
+     "sha256": "587b0598bde950b543c19558f4f0f552a6562386ef471c7ef3a526972a99dde3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-482",
+   "path": "pravilnik/2017/482",
+   "short": "Pravilnik o izmjeni Pravilnika o nostrifikaciji projekata",
+   "title": "Pravilnik o izmjeni Pravilnika o nostrifikaciji projekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/20/482",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_20_482.html",
+     "sha256": "18a27095e0d5d2d283b134f12450e6ffb809bdbf63d65c2add90630034734b85"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-483",
+   "path": "pravilnik/2017/483",
+   "short": "Pravilnik o izmjeni Pravilnika o obveznom sadržaju i opremanju projekata građevina",
+   "title": "Pravilnik o izmjeni Pravilnika o obveznom sadržaju i opremanju projekata građevina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/20/483",
+   "versions": [
+    {
+     "from": "2017-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_20_483.html",
+     "sha256": "20f3133dad51b01a3857aaffca251126579daaf084b98a5fa2501453f293d8b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-495",
+   "path": "pravilnik/2017/495",
+   "short": "Pravilnik o dopuni Pravilnika o odori službenika jedinica lokalne samouprave koji obavlja poslove nadzora i premještanja nepropisno zaustavljenih i parkiranih vozila i poslove upravljanja prometom",
+   "title": "Pravilnik o dopuni Pravilnika o odori službenika jedinica lokalne samouprave koji obavlja poslove nadzora i premještanja nepropisno zaustavljenih i parkiranih vozila i poslove upravljanja prometom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/21/495",
+   "versions": [
+    {
+     "from": "2017-03-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_21_495.html",
+     "sha256": "c308fa1e414b59a5906b0ff177415dfa641240488ee296129b3fb247b7d4719c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-496",
+   "path": "pravilnik/2017/496",
+   "short": "Pravilnik o izmjenama Pravilnika o upisu u Upisnik trgovaca voćem i povrćem",
+   "title": "Pravilnik o izmjenama Pravilnika o upisu u Upisnik trgovaca voćem i povrćem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/21/496",
+   "versions": [
+    {
+     "from": "2017-03-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_21_496.html",
+     "sha256": "bf04800113cfce4ff59105a707fc2ca4d71ce887fb578f4effe455d55a39b0e2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-512",
+   "path": "pravilnik/2017/512",
+   "short": "Pravilnik Suda časti Hrvatske obrtničke komore",
+   "title": "Pravilnik Suda časti Hrvatske obrtničke komore",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/22/512",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_22_512.html",
+     "sha256": "f6e48ac1dbf518daa382eedff9386203926e8e44b7fcfa87c2d48e19a7d27ac0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-524",
+   "path": "pravilnik/2017/524",
+   "short": "Pravilnik o dopunama Pravilnika o tehničkim i drugim uvjetima elektroničkog poslovanja u zemljišnim knjigama",
+   "title": "Pravilnik o dopunama Pravilnika o tehničkim i drugim uvjetima elektroničkog poslovanja u zemljišnim knjigama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/23/524",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_23_524.html",
+     "sha256": "232c5af82ebb8e4e103564e75c9c18f458a1a251e0f2ac6dead40512bb062350"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-525",
+   "path": "pravilnik/2017/525",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o obveznom sadržaju idejnog projekta",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o obveznom sadržaju idejnog projekta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/23/525",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_23_525.html",
+     "sha256": "0d51568913fb003ff0ecdd02cb910e7478b12e8026e67b394691fce0176734c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-537",
+   "path": "pravilnik/2017/537",
+   "short": "Pravilnik o izmjenama Pravilnika o upisniku pružatelja medijskih usluga, elektroničkih publikacija i neprofitnih proizvođača audiovizualnog i/ili radijskog programa",
+   "title": "Pravilnik o izmjenama Pravilnika o upisniku pružatelja medijskih usluga, elektroničkih publikacija i neprofitnih proizvođača audiovizualnog i/ili radijskog programa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/23/537",
+   "versions": [
+    {
+     "from": "2017-03-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_23_537.html",
+     "sha256": "7f4e42660bfec969c80f444a8ff493c0bdda975ea543842f53ad88a9debd060c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-542",
+   "path": "pravilnik/2017/542",
+   "short": "Pravilnik o izmjenama Pravilnika o fitosanitarnom upisniku i biljnim putovnicama",
+   "title": "Pravilnik o izmjenama Pravilnika o fitosanitarnom upisniku i biljnim putovnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/542",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_542.html",
+     "sha256": "d68ca714d83e046e4c0223c8c6fb3e3f9a58da22bbcf01db431eb029a4e3a1f9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-543",
+   "path": "pravilnik/2017/543",
+   "short": "Pravilnik o izmjenama Pravilnika o upisu u upisnike dobavljača, laboratorija i uzorkivača poljoprivrednog sjemena i sadnog materijala",
+   "title": "Pravilnik o izmjenama Pravilnika o upisu u upisnike dobavljača, laboratorija i uzorkivača poljoprivrednog sjemena i sadnog materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/543",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_543.html",
+     "sha256": "be31253acb7ecf910a2c55b0d20a87d871f5a70ae9d20769db99d821fae564ce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-544",
+   "path": "pravilnik/2017/544",
+   "short": "Pravilnik o izmjenama Pravilnika o fitosanitarnim zahtjevima kojima mora udovoljavati drveni materijal za pakiranje u međunarodnom prometu",
+   "title": "Pravilnik o izmjenama Pravilnika o fitosanitarnim zahtjevima kojima mora udovoljavati drveni materijal za pakiranje u međunarodnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/544",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_544.html",
+     "sha256": "8b593b03b667f89b9071f19a76357bd0587a780081d2d9a4399ea0707a61e3f6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-545",
+   "path": "pravilnik/2017/545",
+   "short": "Pravilnik o izmjenama Pravilnika o kontroli poljoprivrednoga reprodukcijskog materijala koji se uvozi i obrascu prijave uvoza poljoprivrednoga reprodukcijskog materijala",
+   "title": "Pravilnik o izmjenama Pravilnika o kontroli poljoprivrednoga reprodukcijskog materijala koji se uvozi i obrascu prijave uvoza poljoprivrednoga reprodukcijskog materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/545",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_545.html",
+     "sha256": "d2085644c413139c3e2f1b8ffe1d546fba0c3204549a1ae5ffb73f6e90fad3b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-546",
+   "path": "pravilnik/2017/546",
+   "short": "Pravilnik o izmjenama Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama",
+   "title": "Pravilnik o izmjenama Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/546",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_546.html",
+     "sha256": "c20b98c7b4091ebc59a3ef02a451c71c630c714b4f2e02a32a28f908e37824ba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-549",
+   "path": "pravilnik/2017/549",
+   "short": "Pravilnik o načinu na koji se provodi ispitivanje tipa mjerila",
+   "title": "Pravilnik o načinu na koji se provodi ispitivanje tipa mjerila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/549",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_549.html",
+     "sha256": "bb42219286033a6a4bb79b1d07b3966add24b1541dcb4b1d33eca517cb575fa3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-559",
+   "path": "pravilnik/2017/559",
+   "short": "Pravilnik o dopunama Pravilnika o upisniku knjižnica i knjižnica u sastavu",
+   "title": "Pravilnik o dopunama Pravilnika o upisniku knjižnica i knjižnica u sastavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/25/559",
+   "versions": [
+    {
+     "from": "2017-03-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_25_559.html",
+     "sha256": "83ece0ca75fb7c427610bb1ee9b36fe5806e3c4b343f94de94a27dbea3b12d38"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-560",
+   "path": "pravilnik/2017/560",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena repa",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena repa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/25/560",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_25_560.html",
+     "sha256": "41b53526d704e7263b61d8bc5404c3e0f7a08b60ae8755ac38c5e4241fa6f350"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-580",
+   "path": "pravilnik/2017/580",
+   "short": "Pravilnik o dopunama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "title": "Pravilnik o dopunama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/26/580",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_26_580.html",
+     "sha256": "9ac2998f7e4768bf1bcb62f639e14c3aeb84fc9c7fc80ce6a2f00907fc07f38d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-590",
+   "path": "pravilnik/2017/590",
+   "short": "Pravilnik o izmjenama Pravilnika o stručnom ispitu za agenta posredovanja u prometu nekretnina",
+   "title": "Pravilnik o izmjenama Pravilnika o stručnom ispitu za agenta posredovanja u prometu nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/26/590",
+   "versions": [
+    {
+     "from": "2017-03-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_26_590.html",
+     "sha256": "be52a54d1960ffadb0ffabf49a085c492652a1124fb4c9d4147b778641fed2f3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-610",
+   "path": "pravilnik/2017/610",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja minski sumnjivog područja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja minski sumnjivog područja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/27/610",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_27_610.html",
+     "sha256": "02b8610cdc0188dca489840f619879ea5f5619cc51b4427741dce6640bedfd04"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-614",
+   "path": "pravilnik/2017/614",
+   "short": "Pravilnik o izmjenama Pravilnika o provedbi Mjere 07 »Temeljne usluge i obnova sela u ruralnim područjima« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "title": "Pravilnik o izmjenama Pravilnika o provedbi Mjere 07 »Temeljne usluge i obnova sela u ruralnim područjima« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/27/614",
+   "versions": [
+    {
+     "from": "2017-03-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_27_614.html",
+     "sha256": "6a9baee6deaf11e56ca7d79bcac9149007d2c481d5b78479d1f71cb4d68890b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-62",
+   "path": "pravilnik/2017/62",
+   "short": "Pravilnik o izmjenama Pravilnika o Fondu za poticanje pluralizma i raznovrsnosti elektroničkih medija",
+   "title": "Pravilnik o izmjenama Pravilnika o Fondu za poticanje pluralizma i raznovrsnosti elektroničkih medija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/2/62",
+   "versions": [
+    {
+     "from": "2017-01-12",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_2_62.html",
+     "sha256": "341edcd1c8fdff680765d6e8de03431777dd57bcd65a7d02c54bd0d50330b96f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-664",
+   "path": "pravilnik/2017/664",
+   "short": "Pravilnik o popisu i sadržaju dokumenata za odobrenje nuklearnih djelatnosti",
+   "title": "Pravilnik o popisu i sadržaju dokumenata za odobrenje nuklearnih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/664",
+   "versions": [
+    {
+     "from": "2017-04-08",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_29_664.html",
+     "sha256": "88e891eaaf68f5c914e1261c63a57ff0ccc6c7cbd08184ee67bc265834d63e4a"
+    },
+    {
+     "from": "2021-09-23",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_100_1799.html",
+     "sha256": "830d87d8718042547df476624fc0c77b42042f4b9b854561e86729d4222ceff1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-665",
+   "path": "pravilnik/2017/665",
+   "short": "Pravilnik o sadržaju zahtjeva za dobivanje suglasnosti za odobrenje za početak pokusnog rada nuklearnog postrojenja",
+   "title": "Pravilnik o sadržaju zahtjeva za dobivanje suglasnosti za odobrenje za početak pokusnog rada nuklearnog postrojenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/665",
+   "versions": [
+    {
+     "from": "2017-04-08",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_29_665.html",
+     "sha256": "132c5122a55a61a2d215660e35019f1b9f7ae73898326996b3927bc8901f8544"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-666",
+   "path": "pravilnik/2017/666",
+   "short": "Pravilnik o izvješću o analizi sigurnosti za nuklearna postrojenja",
+   "title": "Pravilnik o izvješću o analizi sigurnosti za nuklearna postrojenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/666",
+   "versions": [
+    {
+     "from": "2017-04-08",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_29_666.html",
+     "sha256": "b572773fd05d577f44f13fd4775796c2bfd3e96e67a17e104aabc112f82afac2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-668",
+   "path": "pravilnik/2017/668",
+   "short": "Pravilnik o uspostavi programa osiguranja kvalitete u upravljanju nuklearnim postrojenjima",
+   "title": "Pravilnik o uspostavi programa osiguranja kvalitete u upravljanju nuklearnim postrojenjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/29/668",
+   "versions": [
+    {
+     "from": "2017-04-08",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_29_668.html",
+     "sha256": "3ae0757136f75ed64345655495cea1d915d8e12ca1da939dc328187939018971"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-737",
+   "path": "pravilnik/2017/737",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi Mjere 03 »Sustavi kvalitete za poljoprivredne i prehrambene proizvode«, Podmjere 3.1. »Potpore za novo sudjelovanje u sustavima kvalitete« i Podmjere 3.2. »Potpora za aktivnosti informiranja i promoviranja koje provode skupine proizvođača na unutarnjem tržištu« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi Mjere 03 »Sustavi kvalitete za poljoprivredne i prehrambene proizvode«, Podmjere 3.1. »Potpore za novo sudjelovanje u sustavima kvalitete« i Podmjere 3.2. »Potpora za aktivnosti informiranja i promoviranja koje provode skupine proizvođača na unutarnjem tržištu« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/33/737",
+   "versions": [
+    {
+     "from": "2017-04-08",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_33_737.html",
+     "sha256": "0d0a6e675b792b63e7448b09955515682b2439e276f1f7ea15ae8f75316a2c4a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-738",
+   "path": "pravilnik/2017/738",
+   "short": "Pravilnik o radu knjižnice Državnog zavoda za statistiku",
+   "title": "Pravilnik o radu knjižnice Državnog zavoda za statistiku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/33/738",
+   "versions": [
+    {
+     "from": "2017-04-15",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_33_738.html",
+     "sha256": "2ca806807ef9c841555bcf2f0e607919c16b3f58c67a876b9ed65969a8af73c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-739",
+   "path": "pravilnik/2017/739",
+   "short": "Pravilnik o izmjenama Pravilnika o nazivnim količinama pretpakiranih proizvoda",
+   "title": "Pravilnik o izmjenama Pravilnika o nazivnim količinama pretpakiranih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/33/739",
+   "versions": [
+    {
+     "from": "2017-04-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_33_739.html",
+     "sha256": "59852d7ff9d1275aac7bf4770593d0e05689dd890e087b289884934ba433176f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-792",
+   "path": "pravilnik/2017/792",
+   "short": "Pravilnik o uvjetima i načinu ispitivanja elektrokemijskih sustava zaštite",
+   "title": "Pravilnik o uvjetima i načinu ispitivanja elektrokemijskih sustava zaštite",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/37/792",
+   "versions": [
+    {
+     "from": "2017-04-22",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_37_792.html",
+     "sha256": "bc08a0a3681b9ff3a3c732c7a8cb01fc45067d33397c0e1127fb5e92ab1be22f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-8",
+   "path": "pravilnik/2017/8",
+   "short": "Pravilnik o priređivanju zabavnih igara",
+   "title": "Pravilnik o priređivanju zabavnih igara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/1/8",
+   "versions": [
+    {
+     "from": "2017-01-03",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_1_8.html",
+     "sha256": "42f15a88d941f2047a38eace206a63c9792532df59922cbbdb08a84836a412c8"
+    },
+    {
+     "from": "2023-08-10",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_90_1395.html",
+     "sha256": "60a5fcd247f645de6bae6e2a60d4c3211987c5072231dde65416635a3a6633b1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-847",
+   "path": "pravilnik/2017/847",
+   "short": "Pravilnik o postupanju s privremeno oduzetim predmetima, domaćim ili stranim sredstvima plaćanja, vrijednosnicama i dokumentacijom",
+   "title": "Pravilnik o postupanju s privremeno oduzetim predmetima, domaćim ili stranim sredstvima plaćanja, vrijednosnicama i dokumentacijom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/847",
+   "versions": [
+    {
+     "from": "2017-04-29",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_847.html",
+     "sha256": "65742bd96b1f562a632e128bc508596a4f300a42b7442f67c6948a18a1b74c0a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-850",
+   "path": "pravilnik/2017/850",
+   "short": "Pravilnik o izmjenama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i registru povlastica",
+   "title": "Pravilnik o izmjenama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i registru povlastica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/850",
+   "versions": [
+    {
+     "from": "2017-04-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_850.html",
+     "sha256": "a1954b76d5a025caa9fd16e70de8368f626a77ea1b76a15798b75ccdc6c8c215"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-852",
+   "path": "pravilnik/2017/852",
+   "short": "Pravilnik o ukidanju Pravilnika o mjeriteljskim zahtjevima za mjerila mase - vage za građevinarstvo",
+   "title": "Pravilnik o ukidanju Pravilnika o mjeriteljskim zahtjevima za mjerila mase - vage za građevinarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/852",
+   "versions": [
+    {
+     "from": "2017-04-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_852.html",
+     "sha256": "8f5f9c3ec5f9e37aa84b2562534e2a313f67bfe426a8b1414f60ec43765d32b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-857",
+   "path": "pravilnik/2017/857",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i načinu za izbor te oduzimanju izdanog odobrenja za obavljanje poslova depozitara obveznog mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i načinu za izbor te oduzimanju izdanog odobrenja za obavljanje poslova depozitara obveznog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/857",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_857.html",
+     "sha256": "73ed6d08513b6d6e384ed1e6f7dbc27f9e0e7391000a8d238a76d7cb4da12205"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-858",
+   "path": "pravilnik/2017/858",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama mirovinskih društava koja upravljaju obveznim mirovinskim fondovima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama mirovinskih društava koja upravljaju obveznim mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/858",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_858.html",
+     "sha256": "b9163a54f3a0e6fbdbb5481dff70a1415976551bcfc74139da2233d6294753d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-861",
+   "path": "pravilnik/2017/861",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupcima, uvjetima i načinu prijenosa poslova upravljanja obveznim mirovinskim fondovima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupcima, uvjetima i načinu prijenosa poslova upravljanja obveznim mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/861",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_861.html",
+     "sha256": "cb62fdaa956fabb7f2f7e2ac7cf18ee4c2869b5180244874f4571fd6089c1917"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2017-862",
    "path": "pravilnik/2017/862",
    "short": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i statuta obveznog mirovinskog fonda i o informativnom prospektu obveznog mirovinskog fonda",
@@ -5014,6 +7174,303 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_862.html",
      "sha256": "c2dac27ce05dec377dac6d3409c1c7d1a1c3bb35847fa59b4926444c134b2c59"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-863",
+   "path": "pravilnik/2017/863",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad te stjecanju dionica ili poslovnih udjela mirovinskog društva za upravljanje obveznim mirovinskim fondovima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad te stjecanju dionica ili poslovnih udjela mirovinskog društva za upravljanje obveznim mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/863",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_863.html",
+     "sha256": "fb7f219c18ac3fdeef0573fd028beff3f7a2e71e5c11d68ebf2f8cf1a5f956c9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-887",
+   "path": "pravilnik/2017/887",
+   "short": "Pravilnik o vojnim specijalistima",
+   "title": "Pravilnik o vojnim specijalistima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/887",
+   "versions": [
+    {
+     "from": "2017-05-05",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_887.html",
+     "sha256": "65fb61a80c6b08ee8131234b60c71edc627c34d603bed1bbf7e8ce7e1c2b752a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-890",
+   "path": "pravilnik/2017/890",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2017. godini",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2017. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/890",
+   "versions": [
+    {
+     "from": "2017-04-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_890.html",
+     "sha256": "42713a2b0c88dc745fe55fdacac8973d1751dc53b25c7d2c717c58ead2090ea7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-895",
+   "path": "pravilnik/2017/895",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkom održavanju vodnih putova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkom održavanju vodnih putova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/895",
+   "versions": [
+    {
+     "from": "2017-05-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_895.html",
+     "sha256": "752e3e336f6b005567ae4198d4f3e2031c8a75142ac1ae18c536d18fe0e8a526"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-901",
+   "path": "pravilnik/2017/901",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku naknade štete članovima dobrovoljnog mirovinskog fonda i/ili dobrovoljnom mirovinskom fondu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku naknade štete članovima dobrovoljnog mirovinskog fonda i/ili dobrovoljnom mirovinskom fondu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/901",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_901.html",
+     "sha256": "5656bdebd4368e90102c0bdc28a715fe9fdf899bcb477bdccd133ceed72e845e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-905",
+   "path": "pravilnik/2017/905",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i načinu za izbor te oduzimanju izdanog odobrenja za obavljanje poslova depozitara dobrovoljnog mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i načinu za izbor te oduzimanju izdanog odobrenja za obavljanje poslova depozitara dobrovoljnog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/905",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_905.html",
+     "sha256": "31aca60e7420f0561b4f741937da60ea1a2ace86d5acc1fd9add6a0c3bfd33f5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-908",
+   "path": "pravilnik/2017/908",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupcima, uvjetima i načinu prijenosa poslova upravljanja dobrovoljnim mirovinskim fondom",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupcima, uvjetima i načinu prijenosa poslova upravljanja dobrovoljnim mirovinskim fondom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/908",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_908.html",
+     "sha256": "ea2991dc5755398e1779e5b15fc9269814fd9097bea6580d1bba33e9c1337955"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-909",
+   "path": "pravilnik/2017/909",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja, prospekta i statuta dobrovoljnog mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja, prospekta i statuta dobrovoljnog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/909",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_909.html",
+     "sha256": "e99de42dd23f683a88cb12f96a0cabf450fb51c1e0388c0301e9303f0fe2ae3d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-916",
+   "path": "pravilnik/2017/916",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad UAIF-a i malog UAIF-a te stjecanju kvalificiranog udjela UAIF-a",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad UAIF-a i malog UAIF-a te stjecanju kvalificiranog udjela UAIF-a",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/916",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_916.html",
+     "sha256": "76d5a7e25f539960620f5866e33fa4b81d0237e420957801ae18cbc49bc577cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-917",
+   "path": "pravilnik/2017/917",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o likvidaciji i prestanku AIF-ova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o likvidaciji i prestanku AIF-ova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/917",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_917.html",
+     "sha256": "761279372e9744e4d2d43220b148ea3620465c2dc7b7fb49a61683c4c518ccad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-921",
+   "path": "pravilnik/2017/921",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o prijenosu poslova upravljanja AIF-ovima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o prijenosu poslova upravljanja AIF-ovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/921",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_921.html",
+     "sha256": "4b6acab1eebfbf00f2c44eb37fa2ec07dcc8610b72c33130a40553e04baae147"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-922",
+   "path": "pravilnik/2017/922",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za nuđenje udjela AIF-a s privatnom ponudom",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za nuđenje udjela AIF-a s privatnom ponudom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/922",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_922.html",
+     "sha256": "d52783a2d8d66fe3ff921646263855eaabaf89a3aacac78c4616a00ea2acfd19"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-923",
+   "path": "pravilnik/2017/923",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za nuđenje udjela AIF-ova malim ulagateljima u Republici Hrvatskoj",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za nuđenje udjela AIF-ova malim ulagateljima u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/923",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_923.html",
+     "sha256": "0136a9f88728c4d143e6b1819806b5b433b1d72509fed7295f09e3cf117fbc8a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-924",
+   "path": "pravilnik/2017/924",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama otvorenih AIF-ova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama otvorenih AIF-ova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/924",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_924.html",
+     "sha256": "cee6159caa5b760280f9c33700fffdd167d74c90eb09729e5091df82b007fa7d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-925",
+   "path": "pravilnik/2017/925",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i rada AIF-a te davanju suglasnosti na pravila AIF-a",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i rada AIF-a te davanju suglasnosti na pravila AIF-a",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/925",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_925.html",
+     "sha256": "9cad8d9c22d100d1513fec8b7d07b3e3a4f63c37bff993574d4b05c098e4f3aa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-927",
+   "path": "pravilnik/2017/927",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za članstvo u upravi i nadzornom odboru UAIF-a te u nadzornom odboru zatvorenog AIF-a s vanjskim upraviteljem",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za članstvo u upravi i nadzornom odboru UAIF-a te u nadzornom odboru zatvorenog AIF-a s vanjskim upraviteljem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/927",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_927.html",
+     "sha256": "67c78758d641da819af58c4e0049380a9574a6324c1c5cc713e5aa9269e46e31"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-932",
+   "path": "pravilnik/2017/932",
+   "short": "Pravilnik o postupku naknade štete ulagateljima UCITS fonda i/ili UCITS fondu",
+   "title": "Pravilnik o postupku naknade štete ulagateljima UCITS fonda i/ili UCITS fondu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/932",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_932.html",
+     "sha256": "62e46eae90b7c62546896e63674e7011bf6e975ea0a3a7fba674b8ddee7d41ed"
+    },
+    {
+     "from": "2019-02-23",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_02_16_346.html",
+     "sha256": "505d018ba64d5a78ea6c2b954d4c86a12163a5422ad45729c4596223b36b303a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-937",
+   "path": "pravilnik/2017/937",
+   "short": "Pravilnik o uvjetima za nuđenje udjela UCITS fonda",
+   "title": "Pravilnik o uvjetima za nuđenje udjela UCITS fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/41/937",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_41_937.html",
+     "sha256": "2b164ccbc6ab8534f2964501cdf2ae2ff1ed903bc3eb6f34946bb0e4a6dae56e"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2019_12_126_2526.html",
+     "sha256": "968d8f9c61694f1c0a416ac765173a59c52600983c41f429514f7199f043e700"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2017-970",
+   "path": "pravilnik/2017/970",
+   "short": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za svibanj 2017. godine",
+   "title": "Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za svibanj 2017. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/42/970",
+   "versions": [
+    {
+     "from": "2017-04-29",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_42_970.html",
+     "sha256": "2c273830634a7ce4bb441b9fcaa0fafe4cdf020900c55d1aeee576f08ba87705"
     }
    ]
   },
@@ -5044,6 +7501,819 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_107_2482.html",
      "sha256": "7d5352fcbfd2df10d4e1eedde263b2e1ed5b1e890321ea1c1cc12f33aebd72da"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2017-2631",
+   "path": "statut/2017/2631",
+   "short": "Statut Agencije za osiguranje radničkih tražbina",
+   "title": "Statut Agencije za osiguranje radničkih tražbina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/112/2631",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_112_2631.html",
+     "sha256": "4c974961b97edd0748b9139ae9371cc7b6cd9799532c96150e60b02fdc1bf79f"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2017-885",
+   "path": "statut/2017/885",
+   "short": "Izmjene Statuta Hrvatske komore ovlaštenih inženjera geodezije",
+   "title": "Izmjene Statuta Hrvatske komore ovlaštenih inženjera geodezije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/40/885",
+   "versions": [
+    {
+     "from": "2017-05-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_40_885.html",
+     "sha256": "9e6db2e6834efc19045d60dcbf95a2905bd9eb10ae51f231407b7a7265b895bc"
+    }
+   ]
+  },
+  {
+   "slug": "statut-2017-980",
+   "path": "statut/2017/980",
+   "short": "Statut Damir Bajs Nezavisna lista",
+   "title": "Statut Damir Bajs Nezavisna lista",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/42/980",
+   "versions": [
+    {
+     "from": "2017-03-03",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_42_980.html",
+     "sha256": "8eca88591934ad2319d8ec0f657caf11b91e6c29d149c26d52e6511272d411ed"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1139",
+   "path": "uredba/2017/1139",
+   "short": "Uredba o izmjenama Uredbe o uvjetima za dolazak i boravak stranih jahti",
+   "title": "Uredba o izmjenama Uredbe o uvjetima za dolazak i boravak stranih jahti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/50/1139",
+   "versions": [
+    {
+     "from": "2017-05-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_05_50_1139.html",
+     "sha256": "fefe0ab9099bc91241302dc4172c9819bee4ea595529974a031a9feba9ca5a85"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-119",
+   "path": "uredba/2017/119",
+   "short": "Uredba o izmjenama Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "title": "Uredba o izmjenama Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/3/119",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_3_119.html",
+     "sha256": "aeb0de3ec1c3f8f21ab3a8e56980d1380ca1f456212a9ec0e3b98ec6448f8e51"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1296",
+   "path": "uredba/2017/1296",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu nabavu",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu nabavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/59/1296",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_59_1296.html",
+     "sha256": "50a4d95895262fa6c8d0f63b8d2db985803523a9c12e9080435d58e054ed7828"
+    },
+    {
+     "from": "2020-09-08",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_08_97_1830.html",
+     "sha256": "30e67ce27ef7d74ac76379f070aaac471ceb0077b7e0837be7605d3eea1e78c9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1297",
+   "path": "uredba/2017/1297",
+   "short": "Uredba o izmjenama Uredbe o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2017. godinu",
+   "title": "Uredba o izmjenama Uredbe o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2017. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/59/1297",
+   "versions": [
+    {
+     "from": "2017-06-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_59_1297.html",
+     "sha256": "c016c98b3fac669466f85785e1779fb0a5fd36b9867d8221a5c1a8e3bd79d2f1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1623",
+   "path": "uredba/2017/1623",
+   "short": "Uredba o prestanku važenja Uredbe o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama",
+   "title": "Uredba o prestanku važenja Uredbe o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1623",
+   "versions": [
+    {
+     "from": "2017-07-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1623.html",
+     "sha256": "8458111e8da8ba8a8456f48db6eee79fcd501879d72565ffcfa720b5770c9071"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1624",
+   "path": "uredba/2017/1624",
+   "short": "Uredba o prestanku važenja Uredbe o nadzoru nad provedbom Zakona o javnoj nabavi",
+   "title": "Uredba o prestanku važenja Uredbe o nadzoru nad provedbom Zakona o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1624",
+   "versions": [
+    {
+     "from": "2017-07-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1624.html",
+     "sha256": "7ac2e4badaed19caa0080b26aef9f4f54db9acbf58dbe1185554fcc3eb04dd7e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1922",
+   "path": "uredba/2017/1922",
+   "short": "Uredba o utvrđivanju visine boravišne pristojbe za 2018. godinu",
+   "title": "Uredba o utvrđivanju visine boravišne pristojbe za 2018. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1922",
+   "versions": [
+    {
+     "from": "2017-08-17",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_78_1922.html",
+     "sha256": "113d9271937022318dd94718dd827ef2a5c450dcf064241d0e4c384abc2fc49e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1925",
+   "path": "uredba/2017/1925",
+   "short": "Uredba o izmjenama Uredbe o osnivanju Državnog arhiva u Šibeniku",
+   "title": "Uredba o izmjenama Uredbe o osnivanju Državnog arhiva u Šibeniku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/78/1925",
+   "versions": [
+    {
+     "from": "2017-08-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_08_78_1925.html",
+     "sha256": "26937d278ece3693a654f37def37c3831be24bf16ebc168ed61f338dfff04b1b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-2204",
+   "path": "uredba/2017/2204",
+   "short": "Uredba o izmjenama i dopunama Uredbe o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere",
+   "title": "Uredba o izmjenama i dopunama Uredbe o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/96/2204",
+   "versions": [
+    {
+     "from": "2017-10-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_09_96_2204.html",
+     "sha256": "514ad6c0f9a595b12af43f6e45072904ccfe131c34af97348b0df3b0bb4607f5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-2403",
+   "path": "uredba/2017/2403",
+   "short": "Uredba o izmjeni Uredbe o Hrvatskom viznom informacijskom sustavu",
+   "title": "Uredba o izmjeni Uredbe o Hrvatskom viznom informacijskom sustavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/105/2403",
+   "versions": [
+    {
+     "from": "2017-11-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_105_2403.html",
+     "sha256": "2086ead6ab685b12f8039cc00c6dcaef01170b9596d45e889da0dcdb7c7086b0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-2461",
+   "path": "uredba/2017/2461",
+   "short": "Uredba o načinu i uvjetima osnivanja prava građenja i prava služnosti na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske",
+   "title": "Uredba o načinu i uvjetima osnivanja prava građenja i prava služnosti na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/107/2461",
+   "versions": [
+    {
+     "from": "2017-11-11",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_107_2461.html",
+     "sha256": "b13d982440e172db2aba3c694460153ddc74edbb5aa1c684adaff640a285cf76"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-2765",
+   "path": "uredba/2017/2765",
+   "short": "Uredba o osnivanju Arheološkog muzeja Osijek",
+   "title": "Uredba o osnivanju Arheološkog muzeja Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/121/2765",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_121_2765.html",
+     "sha256": "fbdabdd7880ff1c2929ae75677420a78ba55672ed0120c81ca1d795f7b5d8482"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-28",
+   "path": "uredba/2017/28",
+   "short": "Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi",
+   "title": "Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/2/28",
+   "versions": [
+    {
+     "from": "2017-01-12",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_01_2_28.html",
+     "sha256": "6c76dbeb6d19e20aae9108f085ae1236c9832ca4395d3ad9d1003941c4de2203"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-283",
+   "path": "uredba/2017/283",
+   "short": "Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2016. godini",
+   "title": "Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2016. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/10/283",
+   "versions": [
+    {
+     "from": "2017-02-04",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_10_283.html",
+     "sha256": "2998350a827f4326b0483bfeae9324cd5e6bf4ca2da58bd57b1173ed83b160b4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-2950",
+   "path": "uredba/2017/2950",
+   "short": "Uredba o dopunama Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o dopunama Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/129/2950",
+   "versions": [
+    {
+     "from": "2017-12-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_129_2950.html",
+     "sha256": "4f050a96e9fd8816d25dadbf8e9021dd06b0171616a459f40cc73fabc1fd8744"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-3012",
+   "path": "uredba/2017/3012",
+   "short": "Uredba o dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Uredba o dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/131/3012",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_131_3012.html",
+     "sha256": "6dcd076908a1a00036c2255a3c55d2b205369535567e26d492a4e4c851cce79a"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_100_1929.html",
+     "sha256": "7d7ed889905bd5f12f546e8c0752cc48ec0665fc0083ee8350a1cdca21b4243b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-3013",
+   "path": "uredba/2017/3013",
+   "short": "Uredba o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju",
+   "title": "Uredba o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/131/3013",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_131_3013.html",
+     "sha256": "de1e753b3cf9e0b8e399109267445e0a82e671b704e3db0e6c473efd1c73d773"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-350",
+   "path": "uredba/2017/350",
+   "short": "Uredba o ljetnom računanju vremena u 2017. godini",
+   "title": "Uredba o ljetnom računanju vremena u 2017. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/15/350",
+   "versions": [
+    {
+     "from": "2017-02-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_15_350.html",
+     "sha256": "76a1707dd67b5f4b5d39c1d6c9b84baabaa3ca77324abe33df673484eee36cf1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-435",
+   "path": "uredba/2017/435",
+   "short": "Uredba o izmjenama Uredbe o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj",
+   "title": "Uredba o izmjenama Uredbe o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/19/435",
+   "versions": [
+    {
+     "from": "2017-03-11",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_19_435.html",
+     "sha256": "b29389e20356408f611ddb46839fe67c0f47e225ef1ddf3e882b82c7dd065c1f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-436",
+   "path": "uredba/2017/436",
+   "short": "Uredba o izmjenama Uredbe o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara",
+   "title": "Uredba o izmjenama Uredbe o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/19/436",
+   "versions": [
+    {
+     "from": "2017-03-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_19_436.html",
+     "sha256": "0ea642e5dc0773f6d323ed06c5c541e6e046009e426108c2a10cc1baff7967ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-539",
+   "path": "uredba/2017/539",
+   "short": "Uredba o pružanju iznimne potpore za prilagodbu proizvođačima mlijeka",
+   "title": "Uredba o pružanju iznimne potpore za prilagodbu proizvođačima mlijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/24/539",
+   "versions": [
+    {
+     "from": "2017-03-18",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_24_539.html",
+     "sha256": "d6bc1e278d1849216d7a04a1c82b4e92cccc0cf1d6952eaf21bec92a0b327cb9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-552",
+   "path": "uredba/2017/552",
+   "short": "Uredba o prestanku važenja Uredbe o osnivanju Agencije za opremu pod tlakom",
+   "title": "Uredba o prestanku važenja Uredbe o osnivanju Agencije za opremu pod tlakom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/25/552",
+   "versions": [
+    {
+     "from": "2017-03-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_25_552.html",
+     "sha256": "84fc6014a85b721129dd0316c1db326fc4a72ccae75bdcb2c00d055bb97d0fcc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-593",
+   "path": "uredba/2017/593",
+   "short": "Uredba o sastavu i strukturi postrojbi civilne zaštite",
+   "title": "Uredba o sastavu i strukturi postrojbi civilne zaštite",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/27/593",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_27_593.html",
+     "sha256": "e7a8be174997f10b95570d3b8335f1b9f52dd8889a8705eebcbb83d95343a2ed"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-594",
+   "path": "uredba/2017/594",
+   "short": "Uredba o izmjenama i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita",
+   "title": "Uredba o izmjenama i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/27/594",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_03_27_594.html",
+     "sha256": "459c679cc35fb48894945a4cc8705e2dea738e5dc106847eae7b143fd57b54aa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-728",
+   "path": "uredba/2017/728",
+   "short": "Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2017. godinu",
+   "title": "Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2017. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/33/728",
+   "versions": [
+    {
+     "from": "2017-04-15",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_33_728.html",
+     "sha256": "5eb66cf2b7b80ed76e3ef0416ef487ccaafc534eea3e4eeca2363c25bcc7fb03"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-828",
+   "path": "uredba/2017/828",
+   "short": "Uredba o izmjenama i dopuni Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem",
+   "title": "Uredba o izmjenama i dopuni Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/39/828",
+   "versions": [
+    {
+     "from": "2017-04-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_39_828.html",
+     "sha256": "eb70aa557f2b7e662f73254b977b09b8956e69b44f8d449210a00c00e29e1866"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-982",
+   "path": "uredba/2017/982",
+   "short": "Uredba o provedbi postupka procjene učinaka propisa na malo gospodarstvo (test malog i srednjeg poduzetništva)",
+   "title": "Uredba o provedbi postupka procjene učinaka propisa na malo gospodarstvo (test malog i srednjeg poduzetništva)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/43/982",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_05_43_982.html",
+     "sha256": "62a4bd888d9f65003ef3342dc8b50a3032276630ba8e826119f24db67cb2c792"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1431",
+   "path": "zakon/2017/1431",
+   "short": "Zakon o izmjenama i dopuni Zakona o lovstvu",
+   "title": "Zakon o izmjenama i dopuni Zakona o lovstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/62/1431",
+   "versions": [
+    {
+     "from": "2017-07-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_06_62_1431.html",
+     "sha256": "4961f9b64d6299fff465974e3d04875aec280e2946e79441369691f2d5a238e8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1606",
+   "path": "zakon/2017/1606",
+   "short": "Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova",
+   "title": "Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1606",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1606.html",
+     "sha256": "a02d6c877f263d56888501897d7a2a687a47d3d5671f724c7aeacef876d1a76b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1608",
+   "path": "zakon/2017/1608",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1608",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1608.html",
+     "sha256": "b897871c745b74eb111daf8d37e28ee3f1a81952c6363507534d788ad9798c9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1609",
+   "path": "zakon/2017/1609",
+   "short": "Zakon o izmjenama i dopuni Zakona o državnim potporama",
+   "title": "Zakon o izmjenama i dopuni Zakona o državnim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/69/1609",
+   "versions": [
+    {
+     "from": "2017-07-22",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_69_1609.html",
+     "sha256": "3dbde02656518f0b735e507f7965e76560a7fdc59e4cabf1e460746440f98628"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1662",
+   "path": "zakon/2017/1662",
+   "short": "Zakon o prestanku važenja Zakona o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem",
+   "title": "Zakon o prestanku važenja Zakona o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1662",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_70_1662.html",
+     "sha256": "ea2fb4dfa45283638850a65d846c11666049888c1873b9b29f6bad7a4310c0c6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1664",
+   "path": "zakon/2017/1664",
+   "short": "Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "title": "Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1664",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_70_1664.html",
+     "sha256": "8fe98320d557427d27383e64a9894290905e84c793934e1ea32bfdeb3b126aba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1665",
+   "path": "zakon/2017/1665",
+   "short": "Zakon o izmjeni Zakona o udrugama",
+   "title": "Zakon o izmjeni Zakona o udrugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1665",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_70_1665.html",
+     "sha256": "73020436c994f4a9ee8075c97824fd6a99163ddf636662d0eed6dcd11d4fdbff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1666",
+   "path": "zakon/2017/1666",
+   "short": "Zakon o izmjeni i dopunama Zakona o osobnom imenu",
+   "title": "Zakon o izmjeni i dopunama Zakona o osobnom imenu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1666",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_70_1666.html",
+     "sha256": "13a48d0de294b8536774430528b1aa93044f8423619735283696477a29a3fa72"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1668",
+   "path": "zakon/2017/1668",
+   "short": "Zakon o izmjeni Zakona o sigurnosti i interoperabilnosti željezničkog sustava",
+   "title": "Zakon o izmjeni Zakona o sigurnosti i interoperabilnosti željezničkog sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/70/1668",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_70_1668.html",
+     "sha256": "1460f87f1cf27b776362599eb0f6b8046d91ad82f3dc09eda83263df1d5b897e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1765",
+   "path": "zakon/2017/1765",
+   "short": "Zakon o dopuni Zakona o zaštiti svjedoka",
+   "title": "Zakon o dopuni Zakona o zaštiti svjedoka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1765",
+   "versions": [
+    {
+     "from": "2017-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_73_1765.html",
+     "sha256": "39b0b3926537b677e609fa7778f6ee136c526e49b3b47d266800af5ecf8fc6c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1766",
+   "path": "zakon/2017/1766",
+   "short": "Zakon o izmjeni i dopuni Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave",
+   "title": "Zakon o izmjeni i dopuni Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1766",
+   "versions": [
+    {
+     "from": "2017-07-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_73_1766.html",
+     "sha256": "63eb66d08c1c426e88bbcb8235e3a3ae2e4df6135a6959e01ca78b1f40625537"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1768",
+   "path": "zakon/2017/1768",
+   "short": "Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata",
+   "title": "Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1768",
+   "versions": [
+    {
+     "from": "2017-08-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_73_1768.html",
+     "sha256": "7706a11f8f357fc183dc55ab3dfe693e260dda93e149f63209885062501f82f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-1771",
+   "path": "zakon/2017/1771",
+   "short": "Zakon o izmjenama i dopunama Zakona o željeznici",
+   "title": "Zakon o izmjenama i dopunama Zakona o željeznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/73/1771",
+   "versions": [
+    {
+     "from": "2017-08-03",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_07_73_1771.html",
+     "sha256": "385e82f62addda02d5a2a256397aa2eb6a63bd93c2765b6558728069800bd4f6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-2320",
+   "path": "zakon/2017/2320",
+   "short": "Zakon o prekograničnoj provedbi odluka o novčanoj kazni u području upućivanja radnika",
+   "title": "Zakon o prekograničnoj provedbi odluka o novčanoj kazni u području upućivanja radnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/101/2320",
+   "versions": [
+    {
+     "from": "2017-10-20",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_10_101_2320.html",
+     "sha256": "2d9faf343c40e85544b5e0bd21dd8be16e3d1a8fb2f088fe2c78ee3fedd14196"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2020_11_128_2438.html",
+     "sha256": "437cb8b5d4d2e07d3d3b966b21efd38e68c16d36974483d76d631709de039210"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-2705",
+   "path": "zakon/2017/2705",
+   "short": "Zakon o prestanku važenja Zakona o Fondu za naknadu oduzete imovine",
+   "title": "Zakon o prestanku važenja Zakona o Fondu za naknadu oduzete imovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/117/2705",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_11_117_2705.html",
+     "sha256": "6c0a1a0cccee3c9184c32ea1134d301284e80df02f04886d9a36a982cd1e8948"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-2875",
+   "path": "zakon/2017/2875",
+   "short": "Zakon o prestanku važenja Zakona o umirovljeničkom fondu",
+   "title": "Zakon o prestanku važenja Zakona o umirovljeničkom fondu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2875",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_127_2875.html",
+     "sha256": "b1e4353e7f2a90489b92e60a1a3de5281b1e541c6f1d2cf48c6dbd759626d331"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-2876",
+   "path": "zakon/2017/2876",
+   "short": "Zakon o izmjenama i dopuni Zakona o posebnom porezu na motorna vozila",
+   "title": "Zakon o izmjenama i dopuni Zakona o posebnom porezu na motorna vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2876",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_127_2876.html",
+     "sha256": "5bca156d90764670d0b05e33bd1eebbed51329cfc84e079e62364c513211642b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-2878",
+   "path": "zakon/2017/2878",
+   "short": "Zakon o izmjenama i dopunama Zakona o europskim radničkim vijećima",
+   "title": "Zakon o izmjenama i dopunama Zakona o europskim radničkim vijećima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/127/2878",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_127_2878.html",
+     "sha256": "17fce6df2d0788cd424457def0098019008926040f7b33d282b01ba3cb967aed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-2985",
+   "path": "zakon/2017/2985",
+   "short": "Zakon o izmjeni Zakona o minimalnoj plaći",
+   "title": "Zakon o izmjeni Zakona o minimalnoj plaći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/130/2985",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_12_130_2985.html",
+     "sha256": "eecb0f46a06e13ceeb43b2a4befba745f16b93106ad8d4fba7ba4d2d9145888d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-364",
+   "path": "zakon/2017/364",
+   "short": "Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja",
+   "title": "Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/16/364",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_16_364.html",
+     "sha256": "9c0d45d9bea79ef890edd8db4620cfe1beb707e0078f5613acd32e044d4bd678"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-365",
+   "path": "zakon/2017/365",
+   "short": "Zakon o prestanku važenja Zakona o potporama za očuvanje radnih mjesta",
+   "title": "Zakon o prestanku važenja Zakona o potporama za očuvanje radnih mjesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/16/365",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_02_16_365.html",
+     "sha256": "3c9b5a338f1b2763faeb6b182878801730a3e06cec3e22130a76f1de9a2daca1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-708",
+   "path": "zakon/2017/708",
+   "short": "Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji",
+   "title": "Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/32/708",
+   "versions": [
+    {
+     "from": "2017-04-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_04_32_708.html",
+     "sha256": "5ef962a3e7b9240a83275bebeedcd29bf94e50b9a6f20ccd98c3a093c6341bae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-999",
+   "path": "zakon/2017/999",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2017/44/999",
+   "versions": [
+    {
+     "from": "2017-05-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2017_05_44_999.html",
+     "sha256": "d28af28a16e47a9687d5b59678e713b3ca4b7ebbbc439b7290c06a1abc6aa125"
     }
    ]
   },

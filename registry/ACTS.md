@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9302 acts, 9,499 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9514 acts, 9,726 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (51, of which 12 amending acts)
 
@@ -5541,7 +5541,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2266, of which 721 amending acts)
+## pravilnik (2425, of which 779 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5934,10 +5934,96 @@
 | Pravilnik o priznavanju inozemne stručne kvalifikacije za obavljanje poslova revizije | [`pravilnik/2016/1633/`](pravilnik/2016/1633/) | in force | 1 | 2016-07-28 | 2016-07-28 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2016. godinu | [`pravilnik/2016/1760/`](pravilnik/2016/1760/) | amending act | 1 | 2016-08-25 | 2016-08-25 |
 | Pravilnik o izmjenama i dopunama Pravilnika o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2016/1947/`](pravilnik/2016/1947/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o priređivanju zabavnih igara | [`pravilnik/2017/8/`](pravilnik/2017/8/) | repealed 2023-08-10 | 2 | 2017-01-03 | 2023-08-10 |
 | Pravilnik o međusobnim odnosima jedinica područne (regionalne) samouprave i pravne osobe iz članka 46. stavka 4. Zakona o lokalnim porezima | [`pravilnik/2017/10/`](pravilnik/2017/10/) | in force | 1 | 2017-01-03 | 2017-01-03 |
 | Pravilnik o izmjeni Pravilnika o postupku ostvarivanja oslobođenja od plaćanja poreza za diplomatska i konzularna predstavništva, institucije i tijela Europske unije te međunarodne organizacije | [`pravilnik/2017/12/`](pravilnik/2017/12/) | in force | 1 | 2017-01-03 | 2017-01-03 |
+| Pravilnik o izmjeni Pravilnika o vođenju evidencije o plaćenom porezu na premije osiguranja od automobilske odgovornosti i na premije kasko osiguranja cestovnih vozila | [`pravilnik/2017/13/`](pravilnik/2017/13/) | in force | 1 | 2017-01-03 | 2017-01-03 |
+| Pravilnik o izmjenama Pravilnika o Fondu za poticanje pluralizma i raznovrsnosti elektroničkih medija | [`pravilnik/2017/62/`](pravilnik/2017/62/) | in force | 1 | 2017-01-12 | 2017-01-12 |
+| Pravilnik o izmjeni Pravilnika o kriterijima za izricanje pedagoških mjera | [`pravilnik/2017/125/`](pravilnik/2017/125/) | in force | 1 | 2017-01-19 | 2017-01-19 |
+| Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2017/128/`](pravilnik/2017/128/) | repealed 2017-12-29 | 2 | 2017-01-19 | 2017-12-29 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za siječanj 2017. godine | [`pravilnik/2017/155/`](pravilnik/2017/155/) | in force | 1 | 2017-01-14 | 2017-01-14 |
+| Pravilnik o izmjeni Pravilnika o ocjenjivanju djelatnih vojnih osoba | [`pravilnik/2017/178/`](pravilnik/2017/178/) | in force | 1 | 2017-01-19 | 2017-01-19 |
 | Pravilnik o dopuni Pravilnika o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o stipendiranju | [`pravilnik/2017/179/`](pravilnik/2017/179/) | amending act | 1 | 2017-01-19 | 2017-01-19 |
+| Pravilnik o izmjenama Pravilnika o ustrojstvu i upravljanju vršnom nacionalnom internetskom domenom | [`pravilnik/2017/185/`](pravilnik/2017/185/) | in force | 1 | 2017-01-26 | 2017-01-26 |
+| Pravilnik o izmjeni Pravilnika o provedbi Podmjere 6.1. »Potpora za pokretanje poslovanja mladim poljoprivrednicima«, Podmjere 6.2. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« i Podmjere 6.3. »Potpora razvoju malih poljoprivrednih gospodarstava« u okviru mjere M06 »Razvoj poljoprivrednih gospodarstava i poslovanja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2017/196/`](pravilnik/2017/196/) | in force | 1 | 2017-01-21 | 2017-01-21 |
+| Pravilnik o izmjenama Pravilnika o provedbi mjere M09 »Uspostava proizvođačkih grupa i organizacija« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2017/197/`](pravilnik/2017/197/) | in force | 1 | 2017-01-21 | 2017-01-21 |
+| Pravilnik o podnošenju trošarinskih obrazaca i obrazaca posebnih poreza uporabom sustava elektroničke razmjene podataka | [`pravilnik/2017/225/`](pravilnik/2017/225/) | repealed 2022-05-19 | 2 | 2017-02-15 | 2022-05-19 |
+| Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu održavanja reda u lukama i na ostalim dijelovima unutarnjih morskih voda i teritorijalnog mora Republike Hrvatske | [`pravilnik/2017/226/`](pravilnik/2017/226/) | amending act | 1 | 2017-01-26 | 2017-01-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za dodjelu nagrada sportašima za sportska ostvarenja | [`pravilnik/2017/277/`](pravilnik/2017/277/) | amending act | 1 | 2017-02-09 | 2017-02-09 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - manjih kotlova i peći na biomasu | [`pravilnik/2017/303/`](pravilnik/2017/303/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - solarnih toplinskih sustava | [`pravilnik/2017/304/`](pravilnik/2017/304/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i mjerilima za utvrđivanje sustava kvalitete usluga i radova za certificiranje instalatera obnovljivih izvora energije - plitkih geotermalnih sustava i dizalica topline | [`pravilnik/2017/305/`](pravilnik/2017/305/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Pravilnik o osiguranju sljedivosti tkiva od darivatelja do primatelja, načinu praćenja ozbiljnih štetnih događaja i ozbiljnih štetnih reakcija, načinu vođenja evidencije i rokovima izvješćivanja te sadržaju tiskanice godišnjeg izvješća | [`pravilnik/2017/306/`](pravilnik/2017/306/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Pravilnik o dopunama Pravilnika o malom obalnom ribolovu | [`pravilnik/2017/356/`](pravilnik/2017/356/) | amending act | 1 | 2017-02-25 | 2017-02-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu plavoperajne tune (Thunnus thynnus) | [`pravilnik/2017/357/`](pravilnik/2017/357/) | amending act | 1 | 2017-02-18 | 2017-02-18 |
+| Pravilnik o izmjenama Pravilnika o registraciji poljoprivrednika koji posluju s hranom za životinje | [`pravilnik/2017/387/`](pravilnik/2017/387/) | in force | 1 | 2017-03-02 | 2017-03-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere III.1. »Pripremna potpora« | [`pravilnik/2017/388/`](pravilnik/2017/388/) | amending act | 1 | 2017-02-23 | 2017-02-23 |
+| Pravilnik o stranim vrstama koje se mogu stavljati na tržište te invazivnim stranim vrstama | [`pravilnik/2017/404/`](pravilnik/2017/404/) | repealed 2024-02-10 | 2 | 2017-03-04 | 2024-02-10 |
+| Pravilnik o zaštiti na radu pri uporabi radne opreme | [`pravilnik/2017/421/`](pravilnik/2017/421/) | in force | 1 | 2017-03-09 | 2017-03-09 |
+| Pravilnik o izmjenama Pravilnika o statusu i financiranju Pulskoga filmskog festivala | [`pravilnik/2017/422/`](pravilnik/2017/422/) | in force | 1 | 2017-03-09 | 2017-03-09 |
+| Pravilnik o izmjeni Pravilnika o obliku i sadržaju obrasca za prijavu podataka o osnovici za obračun članarine u turističkim zajednicama | [`pravilnik/2017/423/`](pravilnik/2017/423/) | in force | 1 | 2017-03-09 | 2017-03-09 |
+| Pravilnik o izmjeni pravilnika o obliku, sadržaju i načinu vođenja knjige žalbi | [`pravilnik/2017/424/`](pravilnik/2017/424/) | in force | 1 | 2017-03-09 | 2017-03-09 |
+| Pravilnik o drugim tehničkim zahtjevima koje, osim tehničkih zahtjeva u pogledu stupnja čistoće, moraju ispunjavati predmeti od plemenitih kovina | [`pravilnik/2017/425/`](pravilnik/2017/425/) | in force | 1 | 2017-03-09 | 2017-03-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o određivanju područja s prirodnim ili ostalim posebnim ograničenjima | [`pravilnik/2017/447/`](pravilnik/2017/447/) | amending act | 1 | 2017-03-04 | 2017-03-04 |
+| Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda | [`pravilnik/2017/448/`](pravilnik/2017/448/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu izdavanja i oduzimanja odobrenja za ambalažu za prijevoz radioaktivnih i nuklearnih materijala | [`pravilnik/2017/451/`](pravilnik/2017/451/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Pravilnik o izmjeni Pravilnika o obrascima zahtjeva dozvola za robu s dvojnom namjenom | [`pravilnik/2017/477/`](pravilnik/2017/477/) | in force | 1 | 2017-03-16 | 2017-03-16 |
+| Pravilnik o načinu obračuna i tarifi naknada | [`pravilnik/2017/479/`](pravilnik/2017/479/) | in force | 1 | 2017-03-16 | 2017-03-16 |
+| Pravilnik o izmjeni Pravilnika o vrsti i sadržaju projekata za javne ceste | [`pravilnik/2017/481/`](pravilnik/2017/481/) | in force | 1 | 2017-03-16 | 2017-03-16 |
+| Pravilnik o izmjeni Pravilnika o nostrifikaciji projekata | [`pravilnik/2017/482/`](pravilnik/2017/482/) | in force | 1 | 2017-03-16 | 2017-03-16 |
+| Pravilnik o izmjeni Pravilnika o obveznom sadržaju i opremanju projekata građevina | [`pravilnik/2017/483/`](pravilnik/2017/483/) | in force | 1 | 2017-03-16 | 2017-03-16 |
+| Pravilnik o dopuni Pravilnika o odori službenika jedinica lokalne samouprave koji obavlja poslove nadzora i premještanja nepropisno zaustavljenih i parkiranih vozila i poslove upravljanja prometom | [`pravilnik/2017/495/`](pravilnik/2017/495/) | amending act | 1 | 2017-03-18 | 2017-03-18 |
+| Pravilnik o izmjenama Pravilnika o upisu u Upisnik trgovaca voćem i povrćem | [`pravilnik/2017/496/`](pravilnik/2017/496/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Pravilnik Suda časti Hrvatske obrtničke komore | [`pravilnik/2017/512/`](pravilnik/2017/512/) | in force | 1 | 2017-03-21 | 2017-03-21 |
+| Pravilnik o dopunama Pravilnika o tehničkim i drugim uvjetima elektroničkog poslovanja u zemljišnim knjigama | [`pravilnik/2017/524/`](pravilnik/2017/524/) | amending act | 1 | 2017-03-15 | 2017-03-15 |
+| Pravilnik o izmjeni i dopuni Pravilnika o obveznom sadržaju idejnog projekta | [`pravilnik/2017/525/`](pravilnik/2017/525/) | amending act | 1 | 2017-03-23 | 2017-03-23 |
+| Pravilnik o izmjenama Pravilnika o upisniku pružatelja medijskih usluga, elektroničkih publikacija i neprofitnih proizvođača audiovizualnog i/ili radijskog programa | [`pravilnik/2017/537/`](pravilnik/2017/537/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Pravilnik o izmjenama Pravilnika o fitosanitarnom upisniku i biljnim putovnicama | [`pravilnik/2017/542/`](pravilnik/2017/542/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o izmjenama Pravilnika o upisu u upisnike dobavljača, laboratorija i uzorkivača poljoprivrednog sjemena i sadnog materijala | [`pravilnik/2017/543/`](pravilnik/2017/543/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o izmjenama Pravilnika o fitosanitarnim zahtjevima kojima mora udovoljavati drveni materijal za pakiranje u međunarodnom prometu | [`pravilnik/2017/544/`](pravilnik/2017/544/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o izmjenama Pravilnika o kontroli poljoprivrednoga reprodukcijskog materijala koji se uvozi i obrascu prijave uvoza poljoprivrednoga reprodukcijskog materijala | [`pravilnik/2017/545/`](pravilnik/2017/545/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o izmjenama Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama | [`pravilnik/2017/546/`](pravilnik/2017/546/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o načinu na koji se provodi ispitivanje tipa mjerila | [`pravilnik/2017/549/`](pravilnik/2017/549/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o dopunama Pravilnika o upisniku knjižnica i knjižnica u sastavu | [`pravilnik/2017/559/`](pravilnik/2017/559/) | amending act | 1 | 2017-03-28 | 2017-03-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena repa | [`pravilnik/2017/560/`](pravilnik/2017/560/) | amending act | 1 | 2017-04-01 | 2017-04-01 |
+| Pravilnik o dopunama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede | [`pravilnik/2017/580/`](pravilnik/2017/580/) | amending act | 1 | 2017-03-30 | 2017-03-30 |
+| Pravilnik o izmjenama Pravilnika o stručnom ispitu za agenta posredovanja u prometu nekretnina | [`pravilnik/2017/590/`](pravilnik/2017/590/) | in force | 1 | 2017-03-30 | 2017-03-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu obavljanja poslova razminiranja, kontrole kvalitete, općeg i tehničkog izvida i obilježavanja minski sumnjivog područja | [`pravilnik/2017/610/`](pravilnik/2017/610/) | amending act | 1 | 2017-04-01 | 2017-04-01 |
+| Pravilnik o izmjenama Pravilnika o provedbi Mjere 07 »Temeljne usluge i obnova sela u ruralnim područjima« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2017/614/`](pravilnik/2017/614/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Pravilnik o popisu i sadržaju dokumenata za odobrenje nuklearnih djelatnosti | [`pravilnik/2017/664/`](pravilnik/2017/664/) | repealed 2021-09-23 | 2 | 2017-04-08 | 2021-09-23 |
+| Pravilnik o sadržaju zahtjeva za dobivanje suglasnosti za odobrenje za početak pokusnog rada nuklearnog postrojenja | [`pravilnik/2017/665/`](pravilnik/2017/665/) | in force | 1 | 2017-04-08 | 2017-04-08 |
+| Pravilnik o izvješću o analizi sigurnosti za nuklearna postrojenja | [`pravilnik/2017/666/`](pravilnik/2017/666/) | in force | 1 | 2017-04-08 | 2017-04-08 |
+| Pravilnik o uspostavi programa osiguranja kvalitete u upravljanju nuklearnim postrojenjima | [`pravilnik/2017/668/`](pravilnik/2017/668/) | in force | 1 | 2017-04-08 | 2017-04-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o provedbi Mjere 03 »Sustavi kvalitete za poljoprivredne i prehrambene proizvode«, Podmjere 3.1. »Potpore za novo sudjelovanje u sustavima kvalitete« i Podmjere 3.2. »Potpora za aktivnosti informiranja i promoviranja koje provode skupine proizvođača na unutarnjem tržištu« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2017/737/`](pravilnik/2017/737/) | amending act | 1 | 2017-04-08 | 2017-04-08 |
+| Pravilnik o radu knjižnice Državnog zavoda za statistiku | [`pravilnik/2017/738/`](pravilnik/2017/738/) | in force | 1 | 2017-04-15 | 2017-04-15 |
+| Pravilnik o izmjenama Pravilnika o nazivnim količinama pretpakiranih proizvoda | [`pravilnik/2017/739/`](pravilnik/2017/739/) | in force | 1 | 2017-04-15 | 2017-04-15 |
+| Pravilnik o uvjetima i načinu ispitivanja elektrokemijskih sustava zaštite | [`pravilnik/2017/792/`](pravilnik/2017/792/) | in force | 1 | 2017-04-22 | 2017-04-22 |
+| Pravilnik o postupanju s privremeno oduzetim predmetima, domaćim ili stranim sredstvima plaćanja, vrijednosnicama i dokumentacijom | [`pravilnik/2017/847/`](pravilnik/2017/847/) | in force | 1 | 2017-04-29 | 2017-04-29 |
+| Pravilnik o izmjenama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i registru povlastica | [`pravilnik/2017/850/`](pravilnik/2017/850/) | in force | 1 | 2017-04-22 | 2017-04-22 |
+| Pravilnik o ukidanju Pravilnika o mjeriteljskim zahtjevima za mjerila mase - vage za građevinarstvo | [`pravilnik/2017/852/`](pravilnik/2017/852/) | in force | 1 | 2017-04-29 | 2017-04-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i načinu za izbor te oduzimanju izdanog odobrenja za obavljanje poslova depozitara obveznog mirovinskog fonda | [`pravilnik/2017/857/`](pravilnik/2017/857/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama mirovinskih društava koja upravljaju obveznim mirovinskim fondovima | [`pravilnik/2017/858/`](pravilnik/2017/858/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupcima, uvjetima i načinu prijenosa poslova upravljanja obveznim mirovinskim fondovima | [`pravilnik/2017/861/`](pravilnik/2017/861/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i statuta obveznog mirovinskog fonda i o informativnom prospektu obveznog mirovinskog fonda | [`pravilnik/2017/862/`](pravilnik/2017/862/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad te stjecanju dionica ili poslovnih udjela mirovinskog društva za upravljanje obveznim mirovinskim fondovima | [`pravilnik/2017/863/`](pravilnik/2017/863/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o vojnim specijalistima | [`pravilnik/2017/887/`](pravilnik/2017/887/) | in force | 1 | 2017-05-05 | 2017-05-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2017. godini | [`pravilnik/2017/890/`](pravilnik/2017/890/) | amending act | 1 | 2017-04-28 | 2017-04-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkom održavanju vodnih putova | [`pravilnik/2017/895/`](pravilnik/2017/895/) | amending act | 1 | 2017-05-05 | 2017-05-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku naknade štete članovima dobrovoljnog mirovinskog fonda i/ili dobrovoljnom mirovinskom fondu | [`pravilnik/2017/901/`](pravilnik/2017/901/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju poslova, uvjetima i načinu za izbor te oduzimanju izdanog odobrenja za obavljanje poslova depozitara dobrovoljnog mirovinskog fonda | [`pravilnik/2017/905/`](pravilnik/2017/905/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupcima, uvjetima i načinu prijenosa poslova upravljanja dobrovoljnim mirovinskim fondom | [`pravilnik/2017/908/`](pravilnik/2017/908/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja, prospekta i statuta dobrovoljnog mirovinskog fonda | [`pravilnik/2017/909/`](pravilnik/2017/909/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad UAIF-a i malog UAIF-a te stjecanju kvalificiranog udjela UAIF-a | [`pravilnik/2017/916/`](pravilnik/2017/916/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o likvidaciji i prestanku AIF-ova | [`pravilnik/2017/917/`](pravilnik/2017/917/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o prijenosu poslova upravljanja AIF-ovima | [`pravilnik/2017/921/`](pravilnik/2017/921/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za nuđenje udjela AIF-a s privatnom ponudom | [`pravilnik/2017/922/`](pravilnik/2017/922/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za nuđenje udjela AIF-ova malim ulagateljima u Republici Hrvatskoj | [`pravilnik/2017/923/`](pravilnik/2017/923/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o statusnim promjenama otvorenih AIF-ova | [`pravilnik/2017/924/`](pravilnik/2017/924/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i rada AIF-a te davanju suglasnosti na pravila AIF-a | [`pravilnik/2017/925/`](pravilnik/2017/925/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za članstvo u upravi i nadzornom odboru UAIF-a te u nadzornom odboru zatvorenog AIF-a s vanjskim upraviteljem | [`pravilnik/2017/927/`](pravilnik/2017/927/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o postupku naknade štete ulagateljima UCITS fonda i/ili UCITS fondu | [`pravilnik/2017/932/`](pravilnik/2017/932/) | repealed 2019-02-23 | 2 | 2017-05-01 | 2019-02-23 |
+| Pravilnik o uvjetima za nuđenje udjela UCITS fonda | [`pravilnik/2017/937/`](pravilnik/2017/937/) | repealed 2020-01-01 | 2 | 2017-05-01 | 2020-01-01 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za svibanj 2017. godine | [`pravilnik/2017/970/`](pravilnik/2017/970/) | in force | 1 | 2017-04-29 | 2017-04-29 |
 | Pravilnik o izmjenama Pravilnika o lovostaju | [`pravilnik/2017/1033/`](pravilnik/2017/1033/) | in force | 1 | 2017-05-13 | 2017-05-13 |
 | Pravilnik o izmjenama Pravilnika o stručnoj službi za provedbu lovnogospodarske osnove | [`pravilnik/2017/1035/`](pravilnik/2017/1035/) | in force | 1 | 2017-05-13 | 2017-05-13 |
 | Pravilnik o zaštiti i korištenju arhivskoga i registraturnoga gradiva Ministarstva obrane i Oružanih snaga Republike Hrvatske | [`pravilnik/2017/1059/`](pravilnik/2017/1059/) | in force | 1 | 2017-05-18 | 2017-05-18 |
@@ -5963,8 +6049,81 @@
 | Pravilnik o izmjenama Pravilnika o postupku izbora radničkog vijeća | [`pravilnik/2017/1192/`](pravilnik/2017/1192/) | in force | 1 | 2017-06-10 | 2017-06-10 |
 | Pravilnik o izmjeni Pravilnika o postupku izbora predstavnika radnika iz Republike Hrvatske u pregovarački odbor i u vijeće radnika europskog društva i europske zadruge | [`pravilnik/2017/1193/`](pravilnik/2017/1193/) | in force | 1 | 2017-06-10 | 2017-06-10 |
 | Pravilnik o izmjeni Pravilnika o postupku izbora predstavnika radnika iz Republike Hrvatske u pregovarački odbor i u europsko radničko vijeće | [`pravilnik/2017/1194/`](pravilnik/2017/1194/) | in force | 1 | 2017-06-10 | 2017-06-10 |
+| Pravilnik o načinu uzimanja uzoraka i načinu plaćanja troškova za uzimanje uzoraka predmeta od plemenitih kovina prilikom obavljanja inspekcijskog nadzora | [`pravilnik/2017/1207/`](pravilnik/2017/1207/) | in force | 1 | 2017-06-15 | 2017-06-15 |
+| Pravilnik o načinu rada u aktivnostima radijske komunikacije za potrebe djelovanja sustava civilne zaštite u velikim nesrećama i katastrofama | [`pravilnik/2017/1208/`](pravilnik/2017/1208/) | in force | 1 | 2017-06-15 | 2017-06-15 |
+| Pravilnik o dopuni Pravilnika o uvjetima za obavljanje pomorske kabotaže u Republici Hrvatskoj | [`pravilnik/2017/1232/`](pravilnik/2017/1232/) | amending act | 1 | 2017-06-13 | 2017-06-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o upisu sorti u sortnu listu | [`pravilnik/2017/1269/`](pravilnik/2017/1269/) | amending act | 1 | 2017-07-01 | 2017-07-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku za ostvarivanje prava na sredstva iz naknade za korištenje općekorisnih funkcija šuma za izvršene radove u šumama | [`pravilnik/2017/1271/`](pravilnik/2017/1271/) | amending act | 1 | 2017-06-22 | 2017-06-22 |
 | Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva prema računovodstvenim propisima | [`pravilnik/2017/1324/`](pravilnik/2017/1324/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
+| Pravilnik o izmjenama i dopuni Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede | [`pravilnik/2017/1410/`](pravilnik/2017/1410/) | amending act | 1 | 2017-07-06 | 2017-07-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova | [`pravilnik/2017/1413/`](pravilnik/2017/1413/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
+| Pravilnik o izmjenama Pravilnika o normizaciji u Ministarstvu obrane i Oružanim snagama Republike Hrvatske | [`pravilnik/2017/1441/`](pravilnik/2017/1441/) | in force | 1 | 2017-07-08 | 2017-07-08 |
+| Pravilnik o parametrima kvalitete i kvalitativnim klasama pšenice u otkupu pšenice roda 2017. godine | [`pravilnik/2017/1471/`](pravilnik/2017/1471/) | in force | 1 | 2017-07-06 | 2017-07-06 |
+| Pravilnik o dopunama Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja | [`pravilnik/2017/1472/`](pravilnik/2017/1472/) | amending act | 1 | 2017-07-13 | 2017-07-13 |
+| Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru mrežama stajaćicama, klopkastim, udičarskim i probodnim ribolovnim alatima te posebnim načinima ribolova | [`pravilnik/2017/1473/`](pravilnik/2017/1473/) | in force | 1 | 2017-07-06 | 2017-07-06 |
 | Pravilnik o Registru prekršaja u morskom ribarstvu | [`pravilnik/2017/1531/`](pravilnik/2017/1531/) | in force | 1 | 2017-07-08 | 2017-07-08 |
+| Pravilnik o nadzoru nad provedbom Zakona o javnoj nabavi | [`pravilnik/2017/1535/`](pravilnik/2017/1535/) | in force | 1 | 2017-07-15 | 2017-07-15 |
+| Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge na obiteljskom poljoprivrednom gospodarstvu | [`pravilnik/2017/1638/`](pravilnik/2017/1638/) | in force | 1 | 2017-07-22 | 2017-07-22 |
+| Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji ugostiteljskih objekata iz skupine ostali ugostiteljski objekti za smještaj | [`pravilnik/2017/1639/`](pravilnik/2017/1639/) | in force | 1 | 2017-07-22 | 2017-07-22 |
+| Pravilnik o izmjenama Pravilnika o razvrstavanju i kategorizaciji objekata u kojima se pružaju ugostiteljske usluge u domaćinstvu | [`pravilnik/2017/1640/`](pravilnik/2017/1640/) | in force | 1 | 2017-07-22 | 2017-07-22 |
+| Pravilnik o izmjeni Pravilnika o obavljanju poslova nadzora državne granice | [`pravilnik/2017/1750/`](pravilnik/2017/1750/) | in force | 1 | 2017-07-29 | 2017-07-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice | [`pravilnik/2017/1753/`](pravilnik/2017/1753/) | amending act | 1 | 2017-07-22 | 2017-07-22 |
+| Pravilnik o državnim potporama sektoru poljoprivrede i ruralnom razvoju | [`pravilnik/2017/1754/`](pravilnik/2017/1754/) | repealed 2021-02-04 | 2 | 2017-07-29 | 2021-02-04 |
+| Pravilnik o izmjenama Pravilnika o izdavanju suglasnosti za stjecanje kvalificiranog udjela u leasing društvu i drugoj pravnoj osobi | [`pravilnik/2017/1757/`](pravilnik/2017/1757/) | in force | 1 | 2017-07-29 | 2017-07-29 |
+| Pravilnik o izmjeni Pravilnika o sadržaju te načinu i rokovima dostave redovitih izvješća leasing društava i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2017/1758/`](pravilnik/2017/1758/) | in force | 1 | 2017-07-29 | 2017-07-29 |
+| Pravilnik o sadržaju i načinu vođenja evidencije o radnicima | [`pravilnik/2017/1773/`](pravilnik/2017/1773/) | repealed 2024-10-01 | 2 | 2017-09-01 | 2024-10-01 |
+| Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere Restrukturiranje i konverzija vinograda iz Nacionalnog programa pomoći sektoru vina 2014. - 2018. | [`pravilnik/2017/1775/`](pravilnik/2017/1775/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obvezama kreditne institucije i Državne agencije za osiguranje štednih uloga i sanaciju banaka u svezi osiguranja depozita i postupak isplate obeštećenja | [`pravilnik/2017/1896/`](pravilnik/2017/1896/) | amending act | 1 | 2017-08-10 | 2017-08-10 |
+| Pravilnik o izmjeni Pravilnika o energetskom pregledu zgrade i energetskom certificiranju | [`pravilnik/2017/1905/`](pravilnik/2017/1905/) | in force | 1 | 2017-08-05 | 2017-08-05 |
+| Pravilnik o izmjenama Pravilnika o inspekcijskom nadzoru i kontroli usklađenosti voća i povrća s tržišnim standardima | [`pravilnik/2017/1961/`](pravilnik/2017/1961/) | in force | 1 | 2017-08-12 | 2017-08-12 |
+| Pravilnik o izmjeni Pravilnika o mjestima ulaska za pošiljke bilja, biljnih proizvoda i drugih nadziranih predmeta koji podliježu fitosanitarnom pregledu pri unošenju iz trećih zemalja | [`pravilnik/2017/1962/`](pravilnik/2017/1962/) | in force | 1 | 2017-08-19 | 2017-08-19 |
+| Pravilnik o praćenju kvalitete zraka | [`pravilnik/2017/1967/`](pravilnik/2017/1967/) | repealed 2020-07-02 | 2 | 2017-08-19 | 2020-07-02 |
+| Pravilnik o izmjenama Pravilnika o registru zadužnica i bjanko zadužnica | [`pravilnik/2017/1991/`](pravilnik/2017/1991/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ovjernim razdobljima za pojedina zakonita mjerila i načinu njihove primjene i o umjernim razdobljima za etalone koji se upotrebljavaju za ovjeravanje zakonitih mjerila | [`pravilnik/2017/1996/`](pravilnik/2017/1996/) | amending act | 1 | 2017-08-31 | 2017-08-31 |
+| Pravilnik o dopuni Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele | [`pravilnik/2017/2062/`](pravilnik/2017/2062/) | amending act | 1 | 2017-08-31 | 2017-08-31 |
+| Pravilnik o izmjeni i dopuni Pravilnika o postupku i ovlastima u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga Republike Hrvatske | [`pravilnik/2017/2063/`](pravilnik/2017/2063/) | amending act | 1 | 2017-09-07 | 2017-09-07 |
+| Pravilnik o stručnom osposobljavanju izvršnih radnika željezničkog sustava | [`pravilnik/2017/2064/`](pravilnik/2017/2064/) | in force | 1 | 2017-11-01 | 2017-11-01 |
+| Pravilnik o načinu postupanja policijskih službenika u postupku provjere podobnosti osobe | [`pravilnik/2017/2154/`](pravilnik/2017/2154/) | in force | 1 | 2017-09-21 | 2017-09-21 |
+| Pravilnik o načinu izračuna građevinske (bruto) površine zgrade | [`pravilnik/2017/2165/`](pravilnik/2017/2165/) | in force | 1 | 2017-09-23 | 2017-09-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za obavljanje djelatnosti brodarskog agenta | [`pravilnik/2017/2166/`](pravilnik/2017/2166/) | amending act | 1 | 2017-09-23 | 2017-09-23 |
+| Pravilnik o izmjeni i dopuni Pravilnika o metodologiji za izradu analize poslovanja kritičnih infrastruktura | [`pravilnik/2017/2167/`](pravilnik/2017/2167/) | amending act | 1 | 2017-09-23 | 2017-09-23 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« pridnenim povlačnim mrežama - koćama za rujan/listopad 2017. godine | [`pravilnik/2017/2182/`](pravilnik/2017/2182/) | in force | 1 | 2017-09-21 | 2017-09-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava redovitih studenata na državnu stipendiju u STEM područjima znanosti | [`pravilnik/2017/2196/`](pravilnik/2017/2196/) | amending act | 1 | 2017-09-30 | 2017-09-30 |
+| Pravilnik o izmjeni Pravilnika o cestarini | [`pravilnik/2017/2218/`](pravilnik/2017/2218/) | in force | 1 | 2017-10-05 | 2017-10-05 |
+| Pravilnik o izmjenama Pravilnika o provedbi Školske sheme | [`pravilnik/2017/2273/`](pravilnik/2017/2273/) | in force | 1 | 2017-10-05 | 2017-10-05 |
+| Pravilnik o evidenciji privremeno i trajno oduzetih predmeta i imovinske koristi ostvarene kaznenim djelom | [`pravilnik/2017/2281/`](pravilnik/2017/2281/) | in force | 1 | 2017-10-14 | 2017-10-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu prijavljivanja i odjavljivanja, te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju | [`pravilnik/2017/2288/`](pravilnik/2017/2288/) | amending act | 1 | 2017-10-14 | 2017-10-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o statusu i radu stranaca u Republici Hrvatskoj | [`pravilnik/2017/2307/`](pravilnik/2017/2307/) | amending act | 1 | 2017-10-19 | 2017-10-19 |
+| Pravilnik o načinu evidentiranja izdanih i iskorištenih putnih karata u javnom pomorskom prometu | [`pravilnik/2017/2309/`](pravilnik/2017/2309/) | repealed 2023-03-02 | 2 | 2018-03-01 | 2023-03-02 |
+| Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere M04 »Ulaganja u fizičku imovinu«, podmjere 4.3. »Potpora za ulaganja u infrastrukturu vezano uz razvoj, modernizaciju i prilagodbu poljoprivrede i šumarstva«, tip operacije 4.3.1. »Investicije u osnovnu infrastrukturu javnog navodnjavanja« iz programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2017/2337/`](pravilnik/2017/2337/) | amending act | 1 | 2017-10-20 | 2017-10-20 |
+| Pravilnik o izmjenama i dopuni Pravilnika o načinu vođenja evidencije vojnih obveznika i izvršavanju vojne obveze | [`pravilnik/2017/2348/`](pravilnik/2017/2348/) | amending act | 1 | 2017-10-19 | 2017-10-19 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.4. »Prerada proizvoda ribarstva i akvakulture« | [`pravilnik/2017/2368/`](pravilnik/2017/2368/) | in force | 1 | 2017-10-21 | 2017-10-21 |
+| Pravilnik o obrambenom planiranju u Ministarstvu obrane i Oružanim snagama Republike Hrvatske | [`pravilnik/2017/2424/`](pravilnik/2017/2424/) | in force | 1 | 2017-11-08 | 2017-11-08 |
+| Pravilnik o izmjeni Pravilnika o naknadama za poslove zdravstvene zaštite bilja | [`pravilnik/2017/2473/`](pravilnik/2017/2473/) | in force | 1 | 2017-11-11 | 2017-11-11 |
+| Pravilnik o dopunama Pravilnika o zahvatima u prostoru koji se ne smatraju građenjem, a za koje se izdaje lokacijska dozvola | [`pravilnik/2017/2515/`](pravilnik/2017/2515/) | amending act | 1 | 2017-11-16 | 2017-11-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o funkcionalnim kategorijama za određivanje mreže biciklističkih ruta | [`pravilnik/2017/2662/`](pravilnik/2017/2662/) | amending act | 1 | 2017-11-30 | 2017-11-30 |
+| Pravilnik o sakupljanju zavičajnih divljih vrsta | [`pravilnik/2017/2663/`](pravilnik/2017/2663/) | in force | 1 | 2017-11-30 | 2017-11-30 |
+| Pravilnik o izmjeni Pravilnika o poticajima pri zapošljavanju osoba s invaliditetom | [`pravilnik/2017/2681/`](pravilnik/2017/2681/) | in force | 1 | 2017-12-02 | 2017-12-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o amaterskim radijskim komunikacijama | [`pravilnik/2017/2690/`](pravilnik/2017/2690/) | amending act | 1 | 2017-12-02 | 2017-12-02 |
+| Pravilnik o stavljanju izvan snage Pravilnika o tehničkim uvjetima za elektroničku komunikacijsku mrežu poslovnih i stambenih zgrada | [`pravilnik/2017/2691/`](pravilnik/2017/2691/) | in force | 1 | 2017-12-02 | 2017-12-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu i provođenju te ocjenjivanju pisanog ispita i usmenog razgovora | [`pravilnik/2017/2692/`](pravilnik/2017/2692/) | amending act | 1 | 2017-11-25 | 2017-11-25 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.22. »Dodana vrijednost, kvaliteta proizvoda i korištenje neželjenog ulova« | [`pravilnik/2017/2766/`](pravilnik/2017/2766/) | in force | 1 | 2017-12-07 | 2017-12-07 |
+| Pravilnik o izmjenama Pravilnika o rasporedu sredstava za održavanje, rekonstrukciju i građenje županijskih i lokalnih cesta županijskim upravama za ceste u 2017. godini | [`pravilnik/2017/2768/`](pravilnik/2017/2768/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje kojima se određuje neprozirnost ispušnih plinova motora cestovnih vozila s kompresijskim paljenjem | [`pravilnik/2017/2770/`](pravilnik/2017/2770/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za uređaje s valjcima kojima se provjerava sila kočenja na obodu kotača kod vozila na motorni pogon i priključnih vozila (cestovnih vozila) | [`pravilnik/2017/2771/`](pravilnik/2017/2771/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| Pravilnik o materijalnom zbrinjavanju | [`pravilnik/2017/2842/`](pravilnik/2017/2842/) | in force | 1 | 2017-12-23 | 2017-12-23 |
+| Pravilnik o dostavi prijedloga državnih potpora, podataka o državnim potporama i potporama male vrijednosti te registru državnih potpora i potpora male vrijednosti | [`pravilnik/2017/2843/`](pravilnik/2017/2843/) | in force | 1 | 2017-12-23 | 2017-12-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke koje provodi Hrvatski centar za poljoprivredu, hranu i selo - Zavod za sjemenarstvo i rasadničarstvo | [`pravilnik/2017/2860/`](pravilnik/2017/2860/) | amending act | 1 | 2017-12-26 | 2017-12-26 |
+| Pravilnik o izmjenama Pravilnika o provedbi mjere 16 »Suradnja« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2017/2861/`](pravilnik/2017/2861/) | in force | 1 | 2017-12-26 | 2017-12-26 |
+| Pravilnik o izmjenama Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu | [`pravilnik/2017/2884/`](pravilnik/2017/2884/) | in force | 1 | 2017-12-28 | 2017-12-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju godišnjih financijskih izvještaja Središnjeg klirinškog depozitarnog društva | [`pravilnik/2017/2929/`](pravilnik/2017/2929/) | repealed 2019-03-02 | 2 | 2017-12-29 | 2019-03-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju polugodišnjih i godišnjih financijskih izvještaja Fonda za zaštitu ulagatelja | [`pravilnik/2017/2930/`](pravilnik/2017/2930/) | amending act | 1 | 2017-12-29 | 2017-12-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obrascima i evidencijama putnih isprava hrvatskih državljana te načinu dostave i preuzimanja izrađenih putovnica | [`pravilnik/2017/2994/`](pravilnik/2017/2994/) | amending act | 1 | 2018-01-01 | 2018-01-01 |
+| Pravilnik o programu i načinu osnovnog osposobljavanja nadzornika tehničke ispravnosti vozila, načinu stručnog usavršavanja i provjeri stručnosti nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila | [`pravilnik/2017/3039/`](pravilnik/2017/3039/) | in force | 1 | 2018-05-20 | 2018-05-20 |
+| Pravilnik o izmjenama Pravilnika o obiteljskoj medijaciji | [`pravilnik/2017/3045/`](pravilnik/2017/3045/) | in force | 1 | 2017-12-31 | 2017-12-31 |
+| Pravilnik o izmjeni Pravilnika o strukturi i sadržaju te načinu i rokovima dostave financijskih i dodatnih izvještaja leasing društava | [`pravilnik/2017/3051/`](pravilnik/2017/3051/) | in force | 1 | 2017-12-29 | 2017-12-29 |
+| Pravilnik o izmjeni Pravilnika o kontnom planu leasing društva | [`pravilnik/2017/3052/`](pravilnik/2017/3052/) | in force | 1 | 2017-12-29 | 2017-12-29 |
+| Pravilnik o izmjeni Pravilnika o financijskim i dodatnim izvještajima te kontnom planu faktoring društava | [`pravilnik/2017/3053/`](pravilnik/2017/3053/) | in force | 1 | 2017-12-29 | 2017-12-29 |
 | Pravilnik o izmjeni Pravilnika o provedbi tipa operacije 6.2.1. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2018/29/`](pravilnik/2018/29/) | in force | 1 | 2018-01-04 | 2018-01-04 |
 | Pravilnik o ukidanju Pravilnika o provođenju unutarnjeg nadzora i unutarnje kontrole u poreznoj upravi | [`pravilnik/2018/71/`](pravilnik/2018/71/) | in force | 1 | 2018-01-05 | 2018-01-05 |
 | Pravilnik o dopunama Pravilnika o osiguranju kvalitete krvi i krvnih pripravaka u zdravstvenim ustanovama | [`pravilnik/2018/72/`](pravilnik/2018/72/) | amending act | 1 | 2018-01-13 | 2018-01-13 |
@@ -7812,7 +7971,7 @@
 | Pravilnik o tržišnim standardima za meso peradi | [`pravilnik/2026/1477/`](pravilnik/2026/1477/) | in force | 1 | 2026-11-05 | 2026-11-05 |
 | Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda | [`pravilnik/2026/1480/`](pravilnik/2026/1480/) | amending act | 1 | 2026-11-05 | 2026-11-05 |
 
-## statut (64, of which 20 amending acts)
+## statut (67, of which 20 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -7825,8 +7984,11 @@
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Izmjene Statuta Hrvatske komore ovlaštenih inženjera geodezije | [`statut/2017/885/`](statut/2017/885/) | in force | 1 | 2017-05-04 | 2017-05-04 |
+| Statut Damir Bajs Nezavisna lista | [`statut/2017/980/`](statut/2017/980/) | in force | 1 | 2017-03-03 | 2017-03-03 |
 | Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje | [`statut/2017/2311/`](statut/2017/2311/) | amending act | 1 | 2017-10-12 | 2017-10-12 |
 | Izmjena Statuta Hrvatske komore dentalne medicine | [`statut/2017/2482/`](statut/2017/2482/) | in force | 1 | 2017-11-11 | 2017-11-11 |
+| Statut Agencije za osiguranje radničkih tražbina | [`statut/2017/2631/`](statut/2017/2631/) | in force | 1 | 2017-11-17 | 2017-11-17 |
 | Statut Hrvatske komore ovlaštenih inženjera geodezije | [`statut/2018/2113/`](statut/2018/2113/) | in force | 1 | 2018-12-13 | 2018-12-13 |
 | Statut Hrvatske agronomske komore | [`statut/2019/203/`](statut/2019/203/) | in force | 1 | 2019-02-02 | 2019-02-02 |
 | Statut Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`statut/2019/1731/`](statut/2019/1731/) | in force | 1 | 2019-08-27 | 2019-08-27 |
@@ -7906,7 +8068,7 @@
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
 
-## uredba (672, of which 150 amending acts)
+## uredba (699, of which 155 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8204,6 +8366,33 @@
 | Uredba o dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu | [`uredba/2015/2248/`](uredba/2015/2248/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
 | Uredba o izmjenama i dopunama Uredbe o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera | [`uredba/2016/1141/`](uredba/2016/1141/) | amending act | 1 | 2016-05-12 | 2016-05-12 |
 | Uredba o dopuni Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu | [`uredba/2016/1800/`](uredba/2016/1800/) | amending act | 1 | 2016-09-10 | 2016-09-10 |
+| Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi | [`uredba/2017/28/`](uredba/2017/28/) | in force | 1 | 2017-01-12 | 2017-01-12 |
+| Uredba o izmjenama Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj | [`uredba/2017/119/`](uredba/2017/119/) | in force | 1 | 2017-01-19 | 2017-01-19 |
+| Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2016. godini | [`uredba/2017/283/`](uredba/2017/283/) | in force | 1 | 2017-02-04 | 2017-02-04 |
+| Uredba o ljetnom računanju vremena u 2017. godini | [`uredba/2017/350/`](uredba/2017/350/) | in force | 1 | 2017-02-25 | 2017-02-25 |
+| Uredba o izmjenama Uredbe o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj | [`uredba/2017/435/`](uredba/2017/435/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Uredba o izmjenama Uredbe o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara | [`uredba/2017/436/`](uredba/2017/436/) | in force | 1 | 2017-03-11 | 2017-03-11 |
+| Uredba o pružanju iznimne potpore za prilagodbu proizvođačima mlijeka | [`uredba/2017/539/`](uredba/2017/539/) | in force | 1 | 2017-03-18 | 2017-03-18 |
+| Uredba o prestanku važenja Uredbe o osnivanju Agencije za opremu pod tlakom | [`uredba/2017/552/`](uredba/2017/552/) | in force | 1 | 2017-03-21 | 2017-03-21 |
+| Uredba o sastavu i strukturi postrojbi civilne zaštite | [`uredba/2017/593/`](uredba/2017/593/) | in force | 1 | 2017-04-01 | 2017-04-01 |
+| Uredba o izmjenama i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita | [`uredba/2017/594/`](uredba/2017/594/) | amending act | 1 | 2017-04-01 | 2017-04-01 |
+| Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2017. godinu | [`uredba/2017/728/`](uredba/2017/728/) | in force | 1 | 2017-04-15 | 2017-04-15 |
+| Uredba o izmjenama i dopuni Uredbe o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem | [`uredba/2017/828/`](uredba/2017/828/) | amending act | 1 | 2017-04-29 | 2017-04-29 |
+| Uredba o provedbi postupka procjene učinaka propisa na malo gospodarstvo (test malog i srednjeg poduzetništva) | [`uredba/2017/982/`](uredba/2017/982/) | in force | 1 | 2017-05-11 | 2017-05-11 |
+| Uredba o izmjenama Uredbe o uvjetima za dolazak i boravak stranih jahti | [`uredba/2017/1139/`](uredba/2017/1139/) | in force | 1 | 2017-05-27 | 2017-05-27 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu nabavu | [`uredba/2017/1296/`](uredba/2017/1296/) | repealed 2020-09-08 | 2 | 2017-06-29 | 2020-09-08 |
+| Uredba o izmjenama Uredbe o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2017. godinu | [`uredba/2017/1297/`](uredba/2017/1297/) | in force | 1 | 2017-06-29 | 2017-06-29 |
+| Uredba o prestanku važenja Uredbe o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama | [`uredba/2017/1623/`](uredba/2017/1623/) | in force | 1 | 2017-07-15 | 2017-07-15 |
+| Uredba o prestanku važenja Uredbe o nadzoru nad provedbom Zakona o javnoj nabavi | [`uredba/2017/1624/`](uredba/2017/1624/) | in force | 1 | 2017-07-15 | 2017-07-15 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2018. godinu | [`uredba/2017/1922/`](uredba/2017/1922/) | in force | 1 | 2017-08-17 | 2017-08-17 |
+| Uredba o izmjenama Uredbe o osnivanju Državnog arhiva u Šibeniku | [`uredba/2017/1925/`](uredba/2017/1925/) | in force | 1 | 2017-08-17 | 2017-08-17 |
+| Uredba o izmjenama i dopunama Uredbe o kriterijima za oslobođenje ili umanjenje upravno-kaznene mjere | [`uredba/2017/2204/`](uredba/2017/2204/) | amending act | 1 | 2017-10-05 | 2017-10-05 |
+| Uredba o izmjeni Uredbe o Hrvatskom viznom informacijskom sustavu | [`uredba/2017/2403/`](uredba/2017/2403/) | in force | 1 | 2017-11-04 | 2017-11-04 |
+| Uredba o načinu i uvjetima osnivanja prava građenja i prava služnosti na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske | [`uredba/2017/2461/`](uredba/2017/2461/) | in force | 1 | 2017-11-11 | 2017-11-11 |
+| Uredba o osnivanju Arheološkog muzeja Osijek | [`uredba/2017/2765/`](uredba/2017/2765/) | in force | 1 | 2017-12-14 | 2017-12-14 |
+| Uredba o dopunama Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2017/2950/`](uredba/2017/2950/) | amending act | 1 | 2017-12-23 | 2017-12-23 |
+| Uredba o dopunama Zakona o zdravstvenoj zaštiti | [`uredba/2017/3012/`](uredba/2017/3012/) | repealed 2019-01-01 | 2 | 2017-12-29 | 2019-01-01 |
+| Uredba o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju | [`uredba/2017/3013/`](uredba/2017/3013/) | amending act | 1 | 2017-12-29 | 2017-12-29 |
 | Uredba o izmjeni Uredbe o radnim mjestima ovlaštenih carinskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2018/59/`](uredba/2018/59/) | in force | 1 | 2018-01-13 | 2018-01-13 |
 | Uredba o dopuni Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi | [`uredba/2018/139/`](uredba/2018/139/) | amending act | 1 | 2018-01-12 | 2018-01-12 |
 | Uredba o izmjenama i dopunama Uredbe o okolišnoj dozvoli | [`uredba/2018/152/`](uredba/2018/152/) | amending act | 1 | 2018-01-20 | 2018-01-20 |
@@ -8583,7 +8772,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (756, of which 450 amending acts)
+## zakon (779, of which 463 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8865,6 +9054,29 @@
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu | [`zakon/2016/1446/`](zakon/2016/1446/) | amending act | 1 | 2016-06-25 | 2016-06-25 |
+| Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja | [`zakon/2017/364/`](zakon/2017/364/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
+| Zakon o prestanku važenja Zakona o potporama za očuvanje radnih mjesta | [`zakon/2017/365/`](zakon/2017/365/) | in force | 1 | 2017-03-02 | 2017-03-02 |
+| Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji | [`zakon/2017/708/`](zakon/2017/708/) | amending act | 1 | 2017-04-07 | 2017-04-07 |
+| Zakon o izmjenama i dopunama Zakona o pravima i dužnostima zastupnika u Hrvatskom saboru | [`zakon/2017/999/`](zakon/2017/999/) | amending act | 1 | 2017-05-13 | 2017-05-13 |
+| Zakon o izmjenama i dopuni Zakona o lovstvu | [`zakon/2017/1431/`](zakon/2017/1431/) | amending act | 1 | 2017-07-08 | 2017-07-08 |
+| Zakon o izmjenama i dopunama Zakona o ravnopravnosti spolova | [`zakon/2017/1606/`](zakon/2017/1606/) | amending act | 1 | 2017-07-22 | 2017-07-22 |
+| Zakon o izmjenama i dopunama Zakona o izvlaštenju i određivanju naknade | [`zakon/2017/1608/`](zakon/2017/1608/) | amending act | 1 | 2017-07-22 | 2017-07-22 |
+| Zakon o izmjenama i dopuni Zakona o državnim potporama | [`zakon/2017/1609/`](zakon/2017/1609/) | amending act | 1 | 2017-07-22 | 2017-07-22 |
+| Zakon o prestanku važenja Zakona o postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem | [`zakon/2017/1662/`](zakon/2017/1662/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o izmjeni Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta | [`zakon/2017/1664/`](zakon/2017/1664/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o izmjeni Zakona o udrugama | [`zakon/2017/1665/`](zakon/2017/1665/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o izmjeni i dopunama Zakona o osobnom imenu | [`zakon/2017/1666/`](zakon/2017/1666/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o izmjeni Zakona o sigurnosti i interoperabilnosti željezničkog sustava | [`zakon/2017/1668/`](zakon/2017/1668/) | in force | 1 | 2017-07-20 | 2017-07-20 |
+| Zakon o dopuni Zakona o zaštiti svjedoka | [`zakon/2017/1765/`](zakon/2017/1765/) | amending act | 1 | 2017-08-03 | 2017-08-03 |
+| Zakon o izmjeni i dopuni Zakona o referendumu i drugim oblicima osobnog sudjelovanja u obavljanju državne vlasti i lokalne i područne (regionalne) samouprave | [`zakon/2017/1766/`](zakon/2017/1766/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
+| Zakon o izmjenama Zakona o tržištu nafte i naftnih derivata | [`zakon/2017/1768/`](zakon/2017/1768/) | in force | 1 | 2017-08-03 | 2017-08-03 |
+| Zakon o izmjenama i dopunama Zakona o željeznici | [`zakon/2017/1771/`](zakon/2017/1771/) | amending act | 1 | 2017-08-03 | 2017-08-03 |
+| Zakon o prekograničnoj provedbi odluka o novčanoj kazni u području upućivanja radnika | [`zakon/2017/2320/`](zakon/2017/2320/) | repealed 2021-01-01 | 2 | 2017-10-20 | 2021-01-01 |
+| Zakon o prestanku važenja Zakona o Fondu za naknadu oduzete imovine | [`zakon/2017/2705/`](zakon/2017/2705/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Zakon o prestanku važenja Zakona o umirovljeničkom fondu | [`zakon/2017/2875/`](zakon/2017/2875/) | in force | 1 | 2017-12-28 | 2017-12-28 |
+| Zakon o izmjenama i dopuni Zakona o posebnom porezu na motorna vozila | [`zakon/2017/2876/`](zakon/2017/2876/) | amending act | 1 | 2018-01-01 | 2018-01-01 |
+| Zakon o izmjenama i dopunama Zakona o europskim radničkim vijećima | [`zakon/2017/2878/`](zakon/2017/2878/) | amending act | 1 | 2017-12-28 | 2017-12-28 |
+| Zakon o izmjeni Zakona o minimalnoj plaći | [`zakon/2017/2985/`](zakon/2017/2985/) | in force | 1 | 2018-01-01 | 2018-01-01 |
 | Zakon o Hrvatskoj poljoprivredno-šumarskoj savjetodavnoj službi | [`zakon/2018/312/`](zakon/2018/312/) | repealed 2019-01-01 | 2 | 2018-02-22 | 2019-01-01 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti prirode | [`zakon/2018/316/`](zakon/2018/316/) | amending act | 1 | 2018-02-22 | 2018-02-22 |
 | Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima | [`zakon/2018/317/`](zakon/2018/317/) | amending act | 1 | 2018-02-22 | 2018-02-22 |
