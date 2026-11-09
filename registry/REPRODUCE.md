@@ -20,6 +20,7 @@ This file is written by the build on 2026-11-09, the day the source data was ret
 | Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 8) |
 | Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 8) |
 | Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 8) |
+| Narodne novine, službeni dio (narodne-novine.nn.hr) | <https://narodne-novine.nn.hr> | 2026-11-09 | Official texts; not protected by copyright (ZAPSP čl. 8) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -27,21 +28,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 7751 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 8022 | |
+| 8051 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 8322 | |
 
-The build made 11257 commits:
+The build made 11557 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 10987 | first version of an act |
+| 11287 | first version of an act |
 | 270 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `buducnost`: laws not yet in force on 2026-11-09.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 11046 laws in the record.
-- 19109 tags.
+- 11649 laws in the record.
+- 19709 tags.
 
 ## Dates
 
@@ -53,8 +54,8 @@ When a law gives no date of its own, the default rule applies: Ustav Republike H
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `ed0df38f3703fb006409fec64e34bfd142ca621e05b129fc395fc57896d455ae` (113647757 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `57a43747859d3a0a8a29374325b006853d18227e`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `4f29303c2479e95b6bd42505684f24263d471b99`.
+- Corpus: sha256 `79d09deea308c90ed969412da9ec21a6d13121fd1e2ce3ca86fc6a26946eb538` (118721756 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `ca294ab3d2553b6e8322e838325b576a0939da6b`, `check.py` `f7f9c39fff1b1f9a3aded2ad3364a27fb0908033`, `on.py` `0be88de7820b2dafe9f94fa40472a48776aa4cf5`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -65,7 +66,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (91 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (98 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 

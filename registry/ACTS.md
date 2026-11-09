@@ -1,8 +1,8 @@
 # Every act in this repository
 
-10987 acts, 11,258 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+11287 acts, 11,558 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## naputak (60, of which 12 amending acts)
+## naputak (62, of which 12 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -19,6 +19,8 @@
 | Naputak o izmjenama i dopunama Naputka o pomoćnim šifarnicima i ostalim podacima za vođenje sudskoga registra | [`naputak/1996/1975/`](naputak/1996/1975/) | amending act | 1 | 1996-11-29 | 1996-11-29 |
 | Naputak o provedbi Uredbe o usmjeravanju sredstava za stambeno zbrinjavanje hrvatskih branitelja iz Domovinskog rata i članovima njihovih obitelji | [`naputak/1997/569/`](naputak/1997/569/) | in force | 1 | 1997-04-24 | 1997-04-24 |
 | Naputak o postupku aktiviranja poticajnih sredstava Ministarstva turizma za razvitak malog i srednjeg poduzetništva u turizmu sa naglaskom na razvitak turizma na ruralnom prostoru za 1999. godinu | [`naputak/1999/1328/`](naputak/1999/1328/) | in force | 1 | 1999-07-08 | 1999-07-08 |
+| Naputak o načinu provođenja Naredbe o provedbi oralne vakcinacije lisica na području Republike Hrvatske u 2013. godini | [`naputak/2013/2105/`](naputak/2013/2105/) | in force | 1 | 2013-07-19 | 2013-07-19 |
+| Naputak o provedbi projekta "Hrvatsko gospodarstvo i NATO" | [`naputak/2013/2958/`](naputak/2013/2958/) | in force | 1 | 2013-11-18 | 2013-11-18 |
 | Naputak o oslobađanju sanitarnog inspekcijskog nadzora pri uvozu voća i povrća u pogranično područje Republike Hrvatske proizvedenog u pograničnom području Bosna i Hercegovine | [`naputak/2014/948/`](naputak/2014/948/) | in force | 1 | 2014-04-19 | 2014-04-19 |
 | Naputak za primjenu odredbe članka 74. stavka 1. Zakona o poljoprivrednom zemljištu ("Narodne novine", broj 39/13) | [`naputak/2014/1056/`](naputak/2014/1056/) | in force | 1 | 2014-05-15 | 2014-05-15 |
 | Naputak o izradi nacrta akata u postupku izdavanja akata na temelju Zakona o prostornom uređenju i Zakona o gradnji te provedbi tih postupaka elektroničkim putem | [`naputak/2014/1057/`](naputak/2014/1057/) | in force | 1 | 2014-05-15 | 2014-05-15 |
@@ -67,7 +69,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (205, of which 39 amending acts)
+## naredba (216, of which 43 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -202,6 +204,17 @@
 | Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova te prihoda za financiranje drugih javnih potreba u 1999. godini | [`naredba/1999/1926/`](naredba/1999/1926/) | amending act | 1 | 1999-11-16 | 1999-11-16 |
 | Naredba o obveznom pregledu mesa kopitara na trihinelu | [`naredba/1999/2088/`](naredba/1999/2088/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara (goveda, ovaca, koza i svinja) te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Republike Turske | [`naredba/1999/2102/`](naredba/1999/2102/) | in force | 1 | 1999-12-10 | 1999-12-10 |
+| Naredba o stavljanju cigareta na tržište | [`naredba/2013/188/`](naredba/2013/188/) | in force | 1 | 2013-01-30 | 2013-01-30 |
+| Naredba o privremenim hitnim mjerama za sprječavanje unošenja i širenja bakterije Ralstonia solanacearum (Smith) Yabuuchi et al. iz Egipta | [`naredba/2013/444/`](naredba/2013/444/) | in force | 1 | 2013-03-02 | 2013-03-02 |
+| Naredba o izmjenama i dopunama Naredbe o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2013. godinu | [`naredba/2013/614/`](naredba/2013/614/) | amending act | 1 | 2013-03-22 | 2013-03-22 |
+| Naredba o dopuni Naredbe o razvrstavanju luka otvorenih za javni promet na području Zadarske županije | [`naredba/2013/965/`](naredba/2013/965/) | amending act | 1 | 2013-04-26 | 2013-04-26 |
+| Naredba o izmjenama i dopuni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2013. godini | [`naredba/2013/966/`](naredba/2013/966/) | amending act | 1 | 2013-05-04 | 2013-05-04 |
+| Naredba o prestanku važenja Naredbe o popisu trećih zemalja iz kojih je dozvoljen uvoz žive ribe, njihovih jaja i gameta namijenjenih uzgoju u Republici Hrvatskoj | [`naredba/2013/2400/`](naredba/2013/2400/) | in force | 1 | 2013-09-05 | 2013-09-05 |
+| Naredba o prestanku važenja Naredbe o popisu trećih zemalja, njihovih područja, zona ili kompartmenta iz kojih je dozvoljen uvoz svježeg mesa u Republiku Hrvatsku | [`naredba/2013/2401/`](naredba/2013/2401/) | in force | 1 | 2013-09-05 | 2013-09-05 |
+| Naredba o prestanku važenja Naredbe o popisu zemalja, njihovih područja ili dijelova iz kojih je dozvoljen uvoz i provoz određenih vrsta živih životinja | [`naredba/2013/2402/`](naredba/2013/2402/) | in force | 1 | 2013-09-05 | 2013-09-05 |
+| Naredba o vođenju nadzorne knjige o kapitalnim poslovima s inozemstvom | [`naredba/2013/2768/`](naredba/2013/2768/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2013. godini | [`naredba/2013/3072/`](naredba/2013/3072/) | amending act | 1 | 2013-12-02 | 2013-12-02 |
+| Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2014. godinu | [`naredba/2013/3297/`](naredba/2013/3297/) | in force | 1 | 2013-12-24 | 2013-12-24 |
 | Naredba o prestanku važenja Naredbe o povećanom odstrelu lisica | [`naredba/2014/64/`](naredba/2014/64/) | in force | 1 | 2014-01-18 | 2014-01-18 |
 | Naredba o prestanku važenja Naredbe o zabrani primjene određenih veterinarskih lijekova na životinjama koje se koriste za prehranu ljudi | [`naredba/2014/2238/`](naredba/2014/2238/) | in force | 1 | 2014-10-15 | 2014-10-15 |
 | Naredba o izmjenama i dopunama Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2014. godini | [`naredba/2014/2802/`](naredba/2014/2802/) | amending act | 1 | 2014-12-17 | 2014-12-17 |
@@ -277,7 +290,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (5991, of which 740 amending acts)
+## odluka (6240, of which 776 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2395,6 +2408,255 @@
 | Odluka o obvezi rada županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 2. i 3. siječnja 2000. godine | [`odluka/1999/2279/`](odluka/1999/2279/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za telekomunikacije | [`odluka/1999/2280/`](odluka/1999/2280/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka Ministarstva obrane Urbroj: 512-01-99-2002 od 20. prosinca 1999. | [`odluka/1999/2284/`](odluka/1999/2284/) | in force | 1 | 1999-12-31 | 1999-12-31 |
+| Odluka o objavljivanju pravila o državnim potporama sektoru brodogradnje | [`odluka/2013/43/`](odluka/2013/43/) | in force | 1 | 2013-01-07 | 2013-01-07 |
+| Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu Pompeii Unus d.o.o., Umag | [`odluka/2013/44/`](odluka/2013/44/) | in force | 1 | 2013-01-03 | 2013-01-03 |
+| Odluka o sufinanciranju međumjesnog javnog prijevoza za redovite učenike srednjih škola u razdoblju siječanj - lipanj 2013. godine | [`odluka/2013/84/`](odluka/2013/84/) | in force | 1 | 2013-01-10 | 2013-01-10 |
+| Odluka o određivanju nacionalnog IMI koordinatora | [`odluka/2013/130/`](odluka/2013/130/) | in force | 1 | 2013-01-21 | 2013-01-21 |
+| Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih proizvoda | [`odluka/2013/131/`](odluka/2013/131/) | in force | 1 | 2013-01-17 | 2013-01-17 |
+| Odluka o dopuni i izmjeni Odluke o mjerilima za utvrđivanje primanja i naknadama troškova znanstvenim, stručnim i javnim djelatnicima koji su članovi radnih tijela Hrvatskoga sabora ili su uključeni u njihov rad | [`odluka/2013/169/`](odluka/2013/169/) | amending act | 1 | 2013-01-24 | 2013-01-24 |
+| Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Kraljevini Danskoj sa sjedištem u Aarhusu | [`odluka/2013/170/`](odluka/2013/170/) | in force | 1 | 2013-01-18 | 2013-01-18 |
+| Odluka o zatvaranju Konzulata Republike Hrvatske u Argentinskoj Republici sa sjedištem u Rosariju | [`odluka/2013/172/`](odluka/2013/172/) | in force | 1 | 2013-01-18 | 2013-01-18 |
+| Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Grijanje Varaždin d.o.o., Međimurska 31, Varaždin, u Gradu Varaždinu | [`odluka/2013/182/`](odluka/2013/182/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Makedoniji, sa sjedištem u Strumici | [`odluka/2013/204/`](odluka/2013/204/) | in force | 1 | 2013-01-23 | 2013-01-23 |
+| Odluka o postavljanju Vite Huzjan za počasnu konzulicu Republike Hrvatske u Republici Makedoniji, sa sjedištem u Strumici | [`odluka/2013/205/`](odluka/2013/205/) | in force | 1 | 2013-01-23 | 2013-01-23 |
+| Odluka o postavljanju dr. sc. Maria Nobila za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Velikom Vojvodstvu Luksemburgu, sa sjedištem u Bruxellesu | [`odluka/2013/206/`](odluka/2013/206/) | in force | 1 | 2013-01-23 | 2013-01-23 |
+| Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2012. godinu | [`odluka/2013/256/`](odluka/2013/256/) | in force | 1 | 2013-02-06 | 2013-02-06 |
+| Odluka o usklađenju sredstava jamstvenog pologa za 2012. godinu | [`odluka/2013/257/`](odluka/2013/257/) | in force | 1 | 2013-02-06 | 2013-02-06 |
+| Odluka o neprihvaćanju ponude pristigle na temelju Obavijesti o namjeri davanja koncesije u svrhu gospodarskog korištenja pomorskog dobra - luke posebne namjene - industrijske luke Urinj | [`odluka/2013/268/`](odluka/2013/268/) | in force | 1 | 2013-02-06 | 2013-02-06 |
+| Odluka o izmjenama Odluke o sudjelovanju u fondovima za gospodarsku suradnju | [`odluka/2013/269/`](odluka/2013/269/) | in force | 1 | 2013-02-08 | 2013-02-08 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Sočiju | [`odluka/2013/282/`](odluka/2013/282/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Odluka o postavljanju Arkadija Novikova za počasnog konzula Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Sočiju | [`odluka/2013/283/`](odluka/2013/283/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Odluka o postavljanju Tomislava Bošnjaka za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kuvajtu, sa sjedištem u Dohi | [`odluka/2013/284/`](odluka/2013/284/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Odluka o postavljanju dr. sc. Dubravke Šimonović za izvanrednu i opunomoćenu veleposlanicu - šeficu Stalne misije Republike Hrvatske pri Organizaciji za europsku sigurnost i suradnju (OESS), Ujedinjenim narodima i međunarodnim organizacijama, sa sjedištem u Beču | [`odluka/2013/285/`](odluka/2013/285/) | in force | 1 | 2013-04-01 | 2013-04-01 |
+| Odluka o postavljanju prof. dr. sc. Damira Grubiše za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici San Marino, sa sjedištem u Rimu | [`odluka/2013/286/`](odluka/2013/286/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Odluka o postavljanju mr. sc. Branka Baričevića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Portugalskoj Republici, sa sjedištem u Lisabonu | [`odluka/2013/287/`](odluka/2013/287/) | in force | 1 | 2013-03-01 | 2013-03-01 |
+| Odluka o postavljanju Tomislava Bošnjaka za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sultanatu Omanu, sa sjedištem u Dohi | [`odluka/2013/288/`](odluka/2013/288/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Houstonu | [`odluka/2013/303/`](odluka/2013/303/) | in force | 1 | 2013-02-07 | 2013-02-07 |
+| Odluka o postavljanju Philipa J. Berquista za počasnog konzula Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Houstonu | [`odluka/2013/304/`](odluka/2013/304/) | in force | 1 | 2013-02-07 | 2013-02-07 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za gradnju Doma za starije i nemoćne osobe u Gradu Biogradu na Moru | [`odluka/2013/305/`](odluka/2013/305/) | in force | 1 | 2013-02-23 | 2013-02-23 |
+| Odluka o usvajanju Izmjena jamstvenih programa i općih uvjeta za izdavanje jamstava Hrvatske agencije za malo gospodarstvo | [`odluka/2013/340/`](odluka/2013/340/) | in force | 1 | 2013-02-14 | 2013-02-14 |
+| Odluka o izmjeni Odluke o provođenju međunarodnih mjera ograničavanja utvrđenih odlukom Vijeća Europske unije 2011/782/ZVSP u odnosu na Sirijsku Arapsku Republiku | [`odluka/2013/365/`](odluka/2013/365/) | in force | 1 | 2013-02-23 | 2013-02-23 |
+| Odluka o dopuni Odluke o utvrđivanju plaća i drugih primanja predsjednika i članova uprava trgovačkih društava | [`odluka/2013/366/`](odluka/2013/366/) | amending act | 1 | 2013-02-21 | 2013-02-21 |
+| Odluka o puštanju u optjecaj novčanica od 10 i 20 kuna s datumom izdanja 9. srpnja 2012. | [`odluka/2013/379/`](odluka/2013/379/) | in force | 1 | 2013-02-22 | 2013-02-22 |
+| Odluka o postavljanju prof. dr. sc. Damira Grubiše za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Malti, sa sjedištem u Rimu | [`odluka/2013/383/`](odluka/2013/383/) | in force | 1 | 2013-02-19 | 2013-02-19 |
+| Odluka o izmjenama i dopunama Odluke o provođenju međunarodnih mjera ograničavanja utvrđenih odlukama Vijeća Europske unije 2010/413/ZVSP, 2011/299/ZVSP i 2012/35/ZVSP u svezi sa situacijom u Islamskoj Republici Iranu | [`odluka/2013/388/`](odluka/2013/388/) | amending act | 1 | 2013-03-05 | 2013-03-05 |
+| Odluka o izmjenama i dopuni Odluke o načinu otvaranja transakcijskih računa | [`odluka/2013/392/`](odluka/2013/392/) | amending act | 1 | 2013-02-25 | 2013-02-25 |
+| Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt GTG Vinkovci d.o.o., Kralja Zvonimira 1, Vinkovci, u Gradu Vinkovci | [`odluka/2013/450/`](odluka/2013/450/) | in force | 1 | 2013-03-09 | 2013-03-09 |
+| Odluka o davanju suglasnosti na davanje u potkoncesiju dijela pomorskog dobra u luci posebne namjene - brodogradilištu Kraljevica | [`odluka/2013/478/`](odluka/2013/478/) | in force | 1 | 2013-02-28 | 2013-02-28 |
+| Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za olakšice | [`odluka/2013/488/`](odluka/2013/488/) | in force | 1 | 2013-02-28 | 2013-02-28 |
+| Odluka o izmjenama Odluke o ispravama i službenim obrascima čiji su sadržaj, oblik, način zaštite i obvezna primjena propisani zakonima i drugim propisima | [`odluka/2013/489/`](odluka/2013/489/) | in force | 1 | 2013-03-14 | 2013-03-14 |
+| Odluka o prestanku važenja Odluke o koncesiji na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma u uvali Luke, na dijelu k.o. Tisno | [`odluka/2013/490/`](odluka/2013/490/) | in force | 1 | 2013-02-28 | 2013-02-28 |
+| Odluka o minimalnim financijskim sredstvima za decentralizirano financiranje domova za starije i nemoćne osobe u 2013. godini | [`odluka/2013/494/`](odluka/2013/494/) | in force | 1 | 2013-03-16 | 2013-03-16 |
+| Odluka o minimalnim financijskim sredstvima za decentralizirane funkcije za zdravstvene ustanove u 2013. godini | [`odluka/2013/495/`](odluka/2013/495/) | in force | 1 | 2013-03-16 | 2013-03-16 |
+| Odluka o minimalnim financijskim sredstvima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2013. godini | [`odluka/2013/496/`](odluka/2013/496/) | in force | 1 | 2013-03-16 | 2013-03-16 |
+| Odluka o stavljanju izvan snage Odluke o izmjeni Odluke o utvrđivanju plaće ravnatelja Zavoda za sigurnost informacijskih sustava i Operativno-tehničkog centra za nadzor telekomunikacija | [`odluka/2013/524/`](odluka/2013/524/) | in force | 1 | 2013-03-12 | 2013-03-12 |
+| Odluka o stavljanju izvan snage Odluke o izmjeni Odluke o utvrđivanju plaće ravnatelja i zamjenika ravnatelja sigurnosno-obavještajnih agencija, predstojnika i zamjenika predstojnika Ureda Vijeća za nacionalnu sigurnost | [`odluka/2013/525/`](odluka/2013/525/) | in force | 1 | 2013-03-12 | 2013-03-12 |
+| Odluka o izmjeni Odluke o plaći predsjednika i članova Odbora za državnu službu | [`odluka/2013/526/`](odluka/2013/526/) | in force | 1 | 2013-03-12 | 2013-03-12 |
+| Odluka o pokretanju postupka za izbor povjerenika za informiranje | [`odluka/2013/538/`](odluka/2013/538/) | in force | 1 | 2013-03-14 | 2013-03-14 |
+| Odluka o postavljanju prof. dr. sc. Damira Grubiše za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Cipru, sa sjedištem u Rimu | [`odluka/2013/561/`](odluka/2013/561/) | in force | 1 | 2013-03-08 | 2013-03-08 |
+| Odluka o postavljanju Petra Uzorinca za generalnog konzula Republike Hrvatske u Saveznoj Republici Njemačkoj sa sjedištem u Münchenu | [`odluka/2013/593/`](odluka/2013/593/) | in force | 1 | 2013-04-01 | 2013-04-01 |
+| Odluka o izmjenama Odluke o "Nagradi Vicko Andrić" | [`odluka/2013/596/`](odluka/2013/596/) | in force | 1 | 2013-03-13 | 2013-03-13 |
+| Odluka o količini i strukturi obveznih zaliha nafte i naftnih derivata za 2013. godinu | [`odluka/2013/647/`](odluka/2013/647/) | in force | 1 | 2013-04-02 | 2013-04-02 |
+| Odluka o ovjeravanju agregata za istakanje goriva za motorna vozila i agregata za istakanje goriva za motorna vozila za UNP bez točnog prikaza maloprodajne cijene | [`odluka/2013/665/`](odluka/2013/665/) | in force | 1 | 2013-03-27 | 2013-03-27 |
+| Odluka o izmjeni i dopuni Odluke o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora | [`odluka/2013/714/`](odluka/2013/714/) | amending act | 1 | 2013-03-30 | 2013-03-30 |
+| Odluka o dopuni Odluke o posebnom standardu i mjerilima njegove primjene u provođenju specifične zdravstvene zaštite radnika | [`odluka/2013/715/`](odluka/2013/715/) | amending act | 1 | 2013-03-30 | 2013-03-30 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/12-05/0143, urbroj: 567-06-13-12 od 25. ožujka 2013. | [`odluka/2013/733/`](odluka/2013/733/) | in force | 1 | 2013-03-25 | 2013-03-25 |
+| Odluka o sudjelovanju u fondovima za gospodarsku suradnju | [`odluka/2013/742/`](odluka/2013/742/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Odluka o izdavanju numizmatičkih kompleta optjecajnoga kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja "2013." | [`odluka/2013/765/`](odluka/2013/765/) | in force | 1 | 2013-04-05 | 2013-04-05 |
+| Odluka o prestanku važenja Odluke o obvezi dostavljanja izvješća "Neto potraživanja banke od opće države i jamstva" | [`odluka/2013/766/`](odluka/2013/766/) | in force | 1 | 2013-04-15 | 2013-04-15 |
+| Odluka o prestanku važenja Odluke o statističkom izvješću banke | [`odluka/2013/767/`](odluka/2013/767/) | in force | 1 | 2013-04-15 | 2013-04-15 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2013. | [`odluka/2013/768/`](odluka/2013/768/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2013. | [`odluka/2013/769/`](odluka/2013/769/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2013. | [`odluka/2013/770/`](odluka/2013/770/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2012. | [`odluka/2013/771/`](odluka/2013/771/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2013. | [`odluka/2013/772/`](odluka/2013/772/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Odluka o stambenom zbrinjavanju povratnika - bivših nositelja stanarskog prava izvan područja posebne državne skrbi | [`odluka/2013/791/`](odluka/2013/791/) | in force | 1 | 2013-04-18 | 2013-04-18 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za gospodarske osnove | [`odluka/2013/841/`](odluka/2013/841/) | in force | 1 | 2013-04-15 | 2013-04-15 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "2013." | [`odluka/2013/876/`](odluka/2013/876/) | in force | 1 | 2013-04-16 | 2013-04-16 |
+| Odluka o Povjerenstvu za istraživanje, uređenje i održavanje vojnih groblja, groblja žrtava Drugog svjetskog rata i groblja poslijeratnog razdoblja | [`odluka/2013/884/`](odluka/2013/884/) | in force | 1 | 2013-04-11 | 2013-04-11 |
+| Odluka o izboru i zadaćama nositelja operativne provedbe Projekta objedinjavanja svjetlovodne infrastrukture u trgovačkim društvima u većinskom vlasništvu Republike Hrvatske | [`odluka/2013/886/`](odluka/2013/886/) | in force | 1 | 2013-04-11 | 2013-04-11 |
+| Odluka o određivanju tijela u kojem će se osnovati nacionalni Europski potrošački centar | [`odluka/2013/899/`](odluka/2013/899/) | in force | 1 | 2013-04-27 | 2013-04-27 |
+| Odluka o sanaciji Opće bolnice Nova Gradiška | [`odluka/2013/917/`](odluka/2013/917/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o sanaciji Bolnice za plućne bolesti i TBC Klenovnik | [`odluka/2013/920/`](odluka/2013/920/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o sanaciji Specijalne bolnice za kronične bolesti Novi Marof | [`odluka/2013/921/`](odluka/2013/921/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o sanaciji Opće županijske bolnice Pakrac | [`odluka/2013/926/`](odluka/2013/926/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o postavljanju mr. sc. Željka Belaja za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Paragvaju sa sjedištem u Buenos Airesu | [`odluka/2013/949/`](odluka/2013/949/) | in force | 1 | 2013-04-22 | 2013-04-22 |
+| Odluka o postavljanju mr. sc. Željka Belaja za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Istočnoj Republici Urugvaju sa sjedištem u Buenos Airesu | [`odluka/2013/950/`](odluka/2013/950/) | in force | 1 | 2013-04-22 | 2013-04-22 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2013/977/`](odluka/2013/977/) | amending act | 1 | 2013-05-01 | 2013-05-01 |
+| Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2013. godinu ("Narodne novine" 139/2012) u Razdjelu 020 Vlada Republike Hrvatske, Glava 21 Savjet za nacionalne manjine, Aktivnost A732003 potpore za programe ostvarivanja kulturne autonomije nacionalnih manjina, pozicija 381 Tekuće donacije u novcu | [`odluka/2013/997/`](odluka/2013/997/) | in force | 1 | 2013-05-07 | 2013-05-07 |
+| Odluka Agencije za elektroničke medije, klasa: 612-12/10-04/0044, urbroj: 567-06-13-43 od 15. travnja 2013. | [`odluka/2013/1045/`](odluka/2013/1045/) | in force | 1 | 2013-04-15 | 2013-04-15 |
+| Odluka o obvezi rada ureda državne uprave radi provedbe izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, za općinske načelnike, gradonačelnike i župane te njihove zamjenike, kao i za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda | [`odluka/2013/1059/`](odluka/2013/1059/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Novosibirsku | [`odluka/2013/1120/`](odluka/2013/1120/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o postavljanju Viktora Lvoviča Ovčinjikovog za počasnog konzula Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Novosibirsku | [`odluka/2013/1121/`](odluka/2013/1121/) | in force | 1 | 2013-05-02 | 2013-05-02 |
+| Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Sutomišćica | [`odluka/2013/1155/`](odluka/2013/1155/) | in force | 1 | 2013-05-09 | 2013-05-09 |
+| Odluka Vijeća za elektroničke medije klasa: 612-12/10-04/0044 od 29. travnja 2013. | [`odluka/2013/1159/`](odluka/2013/1159/) | in force | 1 | 2013-04-29 | 2013-04-29 |
+| Odluka o postavljanju prof. dr. sc. Ive Goldsteina za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kneževini Monaku, sa sjedištem u Parizu | [`odluka/2013/1163/`](odluka/2013/1163/) | in force | 1 | 2013-05-08 | 2013-05-08 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnog kovanog novca od 25 kuna "Republika Hrvatska članica Europske unije 1. VII. 2013." | [`odluka/2013/1187/`](odluka/2013/1187/) | in force | 1 | 2013-05-15 | 2013-05-15 |
+| Odluka o izmjeni i dopuni Odluke o privremenom ulasku stranaca u Republiku Hrvatsku, na osnovi valjanih schengenskih dozvola boravka i viza | [`odluka/2013/1226/`](odluka/2013/1226/) | amending act | 1 | 2013-05-30 | 2013-05-30 |
+| Odluka o provođenju međunarodnih mjera ograničavanja utvrđenih odlukama Vijeća Europske unije 2012/739/ZVSP, 2013/109/ZVSP i 2013/186/ZVSP u odnosu na Sirijsku Arapsku Republiku | [`odluka/2013/1241/`](odluka/2013/1241/) | in force | 1 | 2013-05-25 | 2013-05-25 |
+| Odluka o obvezi rada ureda državne uprave radi provedbe drugog kruga glasovanja za izbore za općinske načelnike, gradonačelnike i župane te njihove zamjenika | [`odluka/2013/1279/`](odluka/2013/1279/) | in force | 1 | 2013-05-24 | 2013-05-24 |
+| Odluka o uspostavi programa procjene broja individualne mase živih tuna (Thunnus thynnus) prilikom stavljanja u uzgojne kaveze | [`odluka/2013/1287/`](odluka/2013/1287/) | in force | 1 | 2013-05-29 | 2013-05-29 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Popisa dijagnostičkih terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2013/1293/`](odluka/2013/1293/) | amending act | 1 | 2013-06-01 | 2013-06-01 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/10-04/0044, urbroj: 567-06-13-49 od 21. svibnja 2013. | [`odluka/2013/1294/`](odluka/2013/1294/) | in force | 1 | 2013-05-21 | 2013-05-21 |
+| Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka i riba te obavljanja obrazovno-istraživačke djelatnosti na polju 51 B, 51 C, 51 D u Malostonskom zaljevu | [`odluka/2013/1303/`](odluka/2013/1303/) | in force | 1 | 2013-05-24 | 2013-05-24 |
+| Odluka o davanju suglasnosti na Statut Leksikografskog zavoda Miroslav Krleža | [`odluka/2013/1304/`](odluka/2013/1304/) | in force | 1 | 2013-05-29 | 2013-05-29 |
+| Odluka o obavljanju poslova podrške sustavu nadzora potrošnje plinskog ulja za gospodarske i javne namjene u plovidbi | [`odluka/2013/1305/`](odluka/2013/1305/) | in force | 1 | 2013-06-12 | 2013-06-12 |
+| Odluka o izmjenama i dopunama Odluke o superviziji grupe kreditnih institucija na konsolidiranoj osnovi | [`odluka/2013/1328/`](odluka/2013/1328/) | amending act | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o izmjenama i dopunama Odluke o adekvatnosti jamstvenoga kapitala kreditnih institucija | [`odluka/2013/1330/`](odluka/2013/1330/) | amending act | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o izmjenama i dopunama Odluke o javnoj objavi bonitetnih zahtjeva kreditnih institucija | [`odluka/2013/1332/`](odluka/2013/1332/) | amending act | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o postavljanju Igora Pokaza za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Bjelarus, sa sjedištem u Moskvi | [`odluka/2013/1353/`](odluka/2013/1353/) | in force | 1 | 2013-05-21 | 2013-05-21 |
+| Odluka o osnivanju Privremenog ureda Republike Hrvatske u Republici Litvi, sa sjedištem u Vilniusu, kao ispostavu Veleposlanstva Republike Hrvatske u Kraljevini Švedskoj, sa sjedištem u Stockholmu | [`odluka/2013/1354/`](odluka/2013/1354/) | in force | 1 | 2013-05-29 | 2013-05-29 |
+| Odluka o izmjenama Odluke o rodovima, službama, strukama i njihovim specijalnostima | [`odluka/2013/1357/`](odluka/2013/1357/) | in force | 1 | 2013-06-15 | 2013-06-15 |
+| Odluka o namjenskom višegodišnjem institucijskom financiranju znanstvene djelatnosti na javnim sveučilištima i javnim znanstvenim institutima u Republici Hrvatskoj u godinama 2013., 2014. i 2015. | [`odluka/2013/1367/`](odluka/2013/1367/) | in force | 1 | 2013-06-06 | 2013-06-06 |
+| Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Hrvatske agencije za poštu i elektroničke komunikacije | [`odluka/2013/1368/`](odluka/2013/1368/) | amending act | 1 | 2013-06-06 | 2013-06-06 |
+| Odluka o utvrđivanju iznosa naknade za izdavanje kartice goriva za plovidbu | [`odluka/2013/1370/`](odluka/2013/1370/) | in force | 1 | 2013-06-10 | 2013-06-10 |
+| Odluka o izdavanju numizmatičkoga kompleta prigodnoga optjecajnoga kovanog novca od 25 kuna s oznakom godine kovanja "2013." | [`odluka/2013/1375/`](odluka/2013/1375/) | in force | 1 | 2013-06-10 | 2013-06-10 |
+| Odluka o izmjenama i dopunama Odluke o objavljivanju Međunarodnih standarda financijskog izvještavanja | [`odluka/2013/1376/`](odluka/2013/1376/) | amending act | 1 | 2013-06-10 | 2013-06-10 |
+| Odluka Vijeća za elektroničke medije klasa: 612-12/13-02/0005 od 4. lipnja 2013. | [`odluka/2013/1400/`](odluka/2013/1400/) | in force | 1 | 2013-06-04 | 2013-06-04 |
+| Odluka o izmjenama i dopuni Odluke o visini naknada u postupku izdavanja i oduzimanja odobrenja za cisterne fiksno pričvršćene za vozilo u cestovnom prometu | [`odluka/2013/1417/`](odluka/2013/1417/) | amending act | 1 | 2013-06-14 | 2013-06-14 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna "Republika Hrvatska članica Europske unije 1. VII. 2013." | [`odluka/2013/1425/`](odluka/2013/1425/) | in force | 1 | 2013-06-14 | 2013-06-14 |
+| Odluka o puštanju u optjecaj novčanica od 100 i 200 kuna s datumom izdanja 9. srpnja 2012. | [`odluka/2013/1426/`](odluka/2013/1426/) | in force | 1 | 2013-06-14 | 2013-06-14 |
+| Odluka o oslobođenju od obveze fiskalizacije u prometu gotovinom veterinarske djelatnosti, provođenje mjera kontrole bolesti životinja od zaraznih i nametničkih bolesti, koje se provode izvan veterinarske ambulante i dokumentiranju posebnim evidencijama | [`odluka/2013/1442/`](odluka/2013/1442/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o oslobođenju od obveze fiskalizacije u prometu gotovinom pri prodaji robe u zrakoplovima na letovima Croatia Airlinesa d.d. | [`odluka/2013/1443/`](odluka/2013/1443/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o neprihvaćanju ponuda pristiglih na temelju Obavijesti o namjeri davanja koncesije na pomorskom dobru u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta na dijelu k.o. Solin, predio brodoremontno brodogradilište Vranjic | [`odluka/2013/1444/`](odluka/2013/1444/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o određivanju tijela u kojem će se osnovati nacionalni SOLVIT centar | [`odluka/2013/1445/`](odluka/2013/1445/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o koncesiji pomorskog dobra u svrhu posebne upotrebe Morske istraživačke postaje Martinska | [`odluka/2013/1446/`](odluka/2013/1446/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o izmjeni Odluke o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava za provedbu lokalnih izbora | [`odluka/2013/1447/`](odluka/2013/1447/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Odluka o izmjeni Odluke o osnivanju Misije Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju, sa sjedištem u Bruxellesu | [`odluka/2013/1476/`](odluka/2013/1476/) | in force | 1 | 2013-06-04 | 2013-06-04 |
+| Odluka o ukupnoj maksimalno dozvoljenoj ulaznoj količini divljih tuna (Thunnus thynnus) na uzgajališta tuna u 2013. godini | [`odluka/2013/1501/`](odluka/2013/1501/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Estoniji, sa sjedištem u Tallinnu | [`odluka/2013/1536/`](odluka/2013/1536/) | in force | 1 | 2013-06-17 | 2013-06-17 |
+| Odluka o postavljanju Jamesa B. Oatesa za počasnog konzula Republike Hrvatske u Republici Estoniji, sa sjedištem u Tallinnu | [`odluka/2013/1537/`](odluka/2013/1537/) | in force | 1 | 2013-06-17 | 2013-06-17 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/11-05/0158, urbroj: 567-06-13-28 od 12. lipnja 2013. | [`odluka/2013/1617/`](odluka/2013/1617/) | in force | 1 | 2013-06-12 | 2013-06-12 |
+| Odluka o postavljanju Tomislava Bošnjaka za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Saudijskoj Arabiji, sa sjedištem u Dohi | [`odluka/2013/1626/`](odluka/2013/1626/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Odluka o postavljanju Vladimira Drobnjaka za izvanrednog i opunomoćenog veleposlanika - stalnog predstavnika Republike Hrvatske pri Organizaciji Ujedinjenih naroda u New Yorku i svim njezinim tijelima | [`odluka/2013/1627/`](odluka/2013/1627/) | in force | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o sadržaju odluke o rasporedu i načinu ispravljanja pogrešaka u odluci | [`odluka/2013/1637/`](odluka/2013/1637/) | in force | 1 | 2013-06-28 | 2013-06-28 |
+| Odluka o izmjeni Odluke o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske | [`odluka/2013/1677/`](odluka/2013/1677/) | in force | 1 | 2013-07-01 | 2013-07-01 |
+| Odluka o pravilima za statutarnu certifikaciju pomorskih brodova, Dio 22. - Sprečavanje onečišćenja (2013.) - Izmjene i dopune broj 1 (2013) | [`odluka/2013/1696/`](odluka/2013/1696/) | amending act | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o postavljanju Mate Škrabala za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u svojstvu stalog predstavnika Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju | [`odluka/2013/1817/`](odluka/2013/1817/) | in force | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o potvrđivanju Pravilnika o dopuni Pravilnika o načinu rada Odbora za standarde financijskog izvještavanja | [`odluka/2013/1870/`](odluka/2013/1870/) | amending act | 1 | 2013-06-26 | 2013-06-26 |
+| Odluka o izmjeni i dopuni Programa prostornog uređenja Republike Hrvatske | [`odluka/2013/1871/`](odluka/2013/1871/) | amending act | 1 | 2013-07-11 | 2013-07-11 |
+| Odluka o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori, u sporovima u vezi s primjenom Zakona o provedbi uredbi Europske unije iz područja platnog prometa | [`odluka/2013/1885/`](odluka/2013/1885/) | in force | 1 | 2013-07-11 | 2013-07-11 |
+| Odluka Vijeća za elektroničke medije klasa: 612-12/12-05/0147, urbroj: 567-06-13-11 od 12. lipnja 2013. | [`odluka/2013/1887/`](odluka/2013/1887/) | in force | 1 | 2013-06-12 | 2013-06-12 |
+| Odluka o prirezu poreza na dohodak Općine Lukač | [`odluka/2013/1888/`](odluka/2013/1888/) | in force | 1 | 2013-07-11 | 2013-07-11 |
+| Odluka o dopuni Odluke o uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja | [`odluka/2013/1910/`](odluka/2013/1910/) | amending act | 1 | 2013-07-04 | 2013-07-04 |
+| Odluka Agencije za elektroničke medije, klasa: 612-12/12-05/0143, urbroj: 567-06-13-14 od 18. lipnja 2013. | [`odluka/2013/1913/`](odluka/2013/1913/) | in force | 1 | 2013-06-18 | 2013-06-18 |
+| Odluka o početku rada Područnog carinskog ureda Osijek | [`odluka/2013/1919/`](odluka/2013/1919/) | in force | 1 | 2013-07-08 | 2013-07-08 |
+| Odluka o početku rada Područnog carinskog ureda Rijeka | [`odluka/2013/1920/`](odluka/2013/1920/) | in force | 1 | 2013-07-08 | 2013-07-08 |
+| Odluka o početku rada Područnog carinskog ureda Split | [`odluka/2013/1921/`](odluka/2013/1921/) | in force | 1 | 2013-07-08 | 2013-07-08 |
+| Odluka o početku rada Područnog carinskog ureda Zagreb | [`odluka/2013/1922/`](odluka/2013/1922/) | in force | 1 | 2013-07-08 | 2013-07-08 |
+| Odluka o postavljanju Ranka Vilovića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Njemačkoj | [`odluka/2013/1943/`](odluka/2013/1943/) | in force | 1 | 2013-09-01 | 2013-09-01 |
+| Odluka o postavljanju Miroslava Pape za stalnog predstavnika Republike Hrvatske pri Vijeću Europe u Strasbourgu | [`odluka/2013/1944/`](odluka/2013/1944/) | in force | 1 | 2013-10-01 | 2013-10-01 |
+| Odluka Agencije za elektroničke medije, klasa: 612-12/13-02/0006, urbroj: 567-06-13-03 od 4. lipnja 2013. | [`odluka/2013/1952/`](odluka/2013/1952/) | in force | 1 | 2013-06-04 | 2013-06-04 |
+| Odluka o donošenju Programa osposobljavanja za poslove dadilje | [`odluka/2013/1962/`](odluka/2013/1962/) | in force | 1 | 2013-07-18 | 2013-07-18 |
+| Odluka o pokretanju postupka za ustrojavanje posebnih studijskih programa za potrebe Oružanih snaga Republike Hrvatske | [`odluka/2013/2018/`](odluka/2013/2018/) | in force | 1 | 2013-07-25 | 2013-07-25 |
+| Odluka o određivanju tijela u kojem će se osnovati Kontaktna točka za proizvode | [`odluka/2013/2019/`](odluka/2013/2019/) | in force | 1 | 2013-07-11 | 2013-07-11 |
+| Odluka o plaći ravnatelja i zamjenika ravnatelja Agencije za investicije i konkurentnost i Agencije za plaćanja u poljoprivredi, ribarstvu i ruralnom razvoju te plaći predsjednika Uprave, zamjenika predsjednika Uprave i članova Uprave Hrvatske agencije za malo gospodarstvo i investicije | [`odluka/2013/2020/`](odluka/2013/2020/) | in force | 1 | 2013-07-18 | 2013-07-18 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Veruda | [`odluka/2013/2021/`](odluka/2013/2021/) | in force | 1 | 2013-07-11 | 2013-07-11 |
+| Odluka o stavljanju izvan snage odluka o provođenju međunarodnih mjera ograničavanja donijetim sukladno Zakonu o međunarodnim mjerama ograničavanja | [`odluka/2013/2022/`](odluka/2013/2022/) | in force | 1 | 2013-07-25 | 2013-07-25 |
+| Odluka o donošenju Izvješća o stanju kakvoće zraka za područje Republike Hrvatske od 2008. do 2011. godine | [`odluka/2013/2140/`](odluka/2013/2140/) | in force | 1 | 2013-07-11 | 2013-07-11 |
+| Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Odluke o osnivanju Lučke uprave Poreč | [`odluka/2013/2145/`](odluka/2013/2145/) | amending act | 1 | 2013-07-18 | 2013-07-18 |
+| Odluka o izmjenama i dopunama Odluke o porezima Grada Slavonskog Broda | [`odluka/2013/2163/`](odluka/2013/2163/) | amending act | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o postavljanju Gordana Markotića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Srbiji, sa sjedištem u Beogradu | [`odluka/2013/2166/`](odluka/2013/2166/) | in force | 1 | 2013-09-01 | 2013-09-01 |
+| Odluka o postavljanju Josipa Buljevića za generalnog konzula Republike Hrvatske u Sjedinjenim Američkim Državama, Savezna Država California, sa sjedištem u Los Angelesu | [`odluka/2013/2169/`](odluka/2013/2169/) | in force | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Gruziji, sa sjedištem u Tbilisiju | [`odluka/2013/2170/`](odluka/2013/2170/) | in force | 1 | 2013-07-19 | 2013-07-19 |
+| Odluka o postavljanju Zuraba Bubuteishvilija za počasnog konzula Republike Hrvatske u Gruziji, sa sjedištem u Tbilisiju | [`odluka/2013/2171/`](odluka/2013/2171/) | in force | 1 | 2013-07-19 | 2013-07-19 |
+| Odluka o utvrđivanju nadležnog tijela za izdavanje i ovjeru potvrde kojom se traži suspenzija uvoznih carina na određeno oružje i vojnu opremu za potrebe Ministarstva obrane i Oružanih snaga Republike Hrvatske | [`odluka/2013/2192/`](odluka/2013/2192/) | in force | 1 | 2013-07-27 | 2013-07-27 |
+| Odluka o izmjenama Odluke o osnivanju trgovačkog društva "PLETER-USLUGE" d.o.o. | [`odluka/2013/2193/`](odluka/2013/2193/) | in force | 1 | 2013-07-27 | 2013-07-27 |
+| Odluka o prestanku važenja Pravilnika o izdavanju odobrenja za rad mirovinskog osiguravajućeg društva | [`odluka/2013/2211/`](odluka/2013/2211/) | in force | 1 | 2013-08-03 | 2013-08-03 |
+| Odluka o oslobođenju od obveze fiskalizacije u prometu gotovinom za prigodnu prodaju na sajmovima, priredbama i izložbama, do 1. listopada 2013. godine | [`odluka/2013/2222/`](odluka/2013/2222/) | in force | 1 | 2013-07-25 | 2013-07-25 |
+| Odluka o oslobođenju od obveze fiskalizacije u prometu gotovinom za djelatnost ovlaštenih mjenjača, do 1. listopada 2013. godine | [`odluka/2013/2223/`](odluka/2013/2223/) | in force | 1 | 2013-07-25 | 2013-07-25 |
+| Odluka o određivanju tijela u kojem će se osnovati Kontaktna točka za provedbu službenog obavješćivanja | [`odluka/2013/2224/`](odluka/2013/2224/) | in force | 1 | 2013-07-25 | 2013-07-25 |
+| Odluka o prestanku važenja Odluke o osnivanju Radne skupine za praćenje Akcijskog plana Desetljeća za uključivanje Roma 2005. - 2015. | [`odluka/2013/2225/`](odluka/2013/2225/) | in force | 1 | 2013-07-25 | 2013-07-25 |
+| Odluka o dopunama Odluke o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora | [`odluka/2013/2252/`](odluka/2013/2252/) | amending act | 1 | 2013-08-08 | 2013-08-08 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Austriji, sa sjedištem u Salzburgu | [`odluka/2013/2260/`](odluka/2013/2260/) | in force | 1 | 2013-07-26 | 2013-07-26 |
+| Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Austriji, sa sjedištem u Salzburgu | [`odluka/2013/2261/`](odluka/2013/2261/) | in force | 1 | 2013-07-26 | 2013-07-26 |
+| Odluka o proširenju primjene Kolektivnog ugovora za djelatnost humanitarnog razminiranja | [`odluka/2013/2264/`](odluka/2013/2264/) | in force | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o davanju suglasnosti na Odluku Županijske skupštine Splitsko-dalmatinske županije o izmjeni i dopuni Odluke o osnivanju Lučke uprave Splitsko-dalmatinske županije | [`odluka/2013/2278/`](odluka/2013/2278/) | amending act | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka o iznosu tarifnih stavki u Tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Plin VTC d.o.o., F. Rusana 2, Virovitica, u Gradu Virovitici | [`odluka/2013/2294/`](odluka/2013/2294/) | in force | 1 | 2013-09-01 | 2013-09-01 |
+| Odluka o usvajanju kreditnog programa "Mikro kreditiranje - prvi korak u poduzetništvo" | [`odluka/2013/2295/`](odluka/2013/2295/) | in force | 1 | 2013-08-01 | 2013-08-01 |
+| Odluka Agencije za elektroničke medije, klasa: 612-12/13-02/0003, ubroj: 567-02/01-13-03 od 31. srpnja 2013. | [`odluka/2013/2350/`](odluka/2013/2350/) | in force | 1 | 2013-07-31 | 2013-07-31 |
+| Odluka o raspisivanju prijevremenih izbora za zamjenika općinskog načelnika Općine Kneževi Vinogradi iz reda pripadnika hrvatskog naroda | [`odluka/2013/2355/`](odluka/2013/2355/) | in force | 1 | 2013-08-22 | 2013-08-22 |
+| Odluka o davanju suglasnosti na Odluku o izmjeni Odluke o utvrđivanju lučkog područja u lukama otvorenim za javni promet županijskog i lokalnog značaja na području Primorsko-goranske županije | [`odluka/2013/2408/`](odluka/2013/2408/) | in force | 1 | 2013-08-29 | 2013-08-29 |
+| Odluka o sufinanciranu međumjesnog javnog prijevoza za redovite učenike srednjih škola u razdoblju rujan - prosinac 2013. godine | [`odluka/2013/2410/`](odluka/2013/2410/) | in force | 1 | 2013-08-31 | 2013-08-31 |
+| Odluka o izmjenama Odluke o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2013. godini | [`odluka/2013/2412/`](odluka/2013/2412/) | in force | 1 | 2013-09-07 | 2013-09-07 |
+| Odluka o izmjenama Odluke o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2013. godini | [`odluka/2013/2413/`](odluka/2013/2413/) | in force | 1 | 2013-09-07 | 2013-09-07 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2013. | [`odluka/2013/2424/`](odluka/2013/2424/) | in force | 1 | 2013-09-10 | 2013-09-10 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2013. | [`odluka/2013/2425/`](odluka/2013/2425/) | in force | 1 | 2013-09-10 | 2013-09-10 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2013. | [`odluka/2013/2426/`](odluka/2013/2426/) | in force | 1 | 2013-09-10 | 2013-09-10 |
+| Odluka o osnovici za ostvarivanje prava po osnovi socijalne skrbi | [`odluka/2013/2445/`](odluka/2013/2445/) | in force | 1 | 2013-09-14 | 2013-09-14 |
+| Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Odluke o osnivanju Lučke uprave Umag - Novigrad | [`odluka/2013/2446/`](odluka/2013/2446/) | amending act | 1 | 2013-09-05 | 2013-09-05 |
+| Odluka o raspisivanju prijevremenih izbora za Općinsko vijeće Općine Sopje i Općinsko vijeće Općine Ivanska | [`odluka/2013/2447/`](odluka/2013/2447/) | in force | 1 | 2013-09-12 | 2013-09-12 |
+| Odluka o raspisivanju prijevremenih izbora za općinskog načelnika i zamjenika općinskog načelnika Općine Karlobag | [`odluka/2013/2448/`](odluka/2013/2448/) | in force | 1 | 2013-09-12 | 2013-09-12 |
+| Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu polaganja i gospodarskog korištenja pomorskih 110 kV i 35 kV kabela | [`odluka/2013/2461/`](odluka/2013/2461/) | in force | 1 | 2013-09-05 | 2013-09-05 |
+| Odluka o davanju suglasnosti na prijenos koncesije pomorskog dobra za posebnu upotrebu u svrhu gradnje kabelske veze 110 kV na dionici uvala Lora - obala Kaštel Sučurac | [`odluka/2013/2462/`](odluka/2013/2462/) | in force | 1 | 2013-09-05 | 2013-09-05 |
+| Odluka o izmjenama Odluke o osnivanju Lučke uprave Dubrovnik | [`odluka/2013/2463/`](odluka/2013/2463/) | in force | 1 | 2013-09-19 | 2013-09-19 |
+| Odluka o osnivanju Hrvatskog IPPC foruma | [`odluka/2013/2465/`](odluka/2013/2465/) | in force | 1 | 2013-09-19 | 2013-09-19 |
+| Odluka o prirezu porezu Općine Vladislavci | [`odluka/2013/2524/`](odluka/2013/2524/) | in force | 1 | 2013-10-01 | 2013-10-01 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom | [`odluka/2013/2594/`](odluka/2013/2594/) | in force | 1 | 2013-09-26 | 2013-09-26 |
+| Odluka o iznosu tarifnih stavki u tarifnom sustavu za usluge energetskih djelatnosti proizvodnje, distribucije i opskrbe toplinskom energijom za energetski subjekt Stambeno komunalno gospodarstvo d.o.o., Ivan Goran Kovačića 8, Ogulin, u Gradu Ogulinu | [`odluka/2013/2598/`](odluka/2013/2598/) | in force | 1 | 2013-11-01 | 2013-11-01 |
+| Odluka o raspolaganju sredstvima Fonda za razvoj turizma | [`odluka/2013/2606/`](odluka/2013/2606/) | in force | 1 | 2013-09-26 | 2013-09-26 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indoneziji | [`odluka/2013/2644/`](odluka/2013/2644/) | in force | 1 | 2013-10-01 | 2013-10-01 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Narodnoj Republici Kini | [`odluka/2013/2645/`](odluka/2013/2645/) | in force | 1 | 2013-10-15 | 2013-10-15 |
+| Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Češkoj Republici | [`odluka/2013/2646/`](odluka/2013/2646/) | in force | 1 | 2013-10-15 | 2013-10-15 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Maroko | [`odluka/2013/2647/`](odluka/2013/2647/) | in force | 1 | 2013-10-15 | 2013-10-15 |
+| Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Bugarskoj | [`odluka/2013/2648/`](odluka/2013/2648/) | in force | 1 | 2013-10-01 | 2013-10-01 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Bosni i Hercegovini | [`odluka/2013/2650/`](odluka/2013/2650/) | in force | 1 | 2013-10-01 | 2013-10-01 |
+| Odluka o donošenju Nacionalnog strateškog plana razvoja ribarstva | [`odluka/2013/2655/`](odluka/2013/2655/) | in force | 1 | 2013-10-05 | 2013-10-05 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoć za stanovanje korisnicima koji se griju na drva u 2013. godini | [`odluka/2013/2656/`](odluka/2013/2656/) | in force | 1 | 2013-10-12 | 2013-10-12 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2013. godini | [`odluka/2013/2657/`](odluka/2013/2657/) | in force | 1 | 2013-10-12 | 2013-10-12 |
+| Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2013. godini | [`odluka/2013/2658/`](odluka/2013/2658/) | in force | 1 | 2013-10-12 | 2013-10-12 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2013/2703/`](odluka/2013/2703/) | amending act | 1 | 2013-10-12 | 2013-10-12 |
+| Odluka o davanju suglasnosti na prijenos dijela koncesije pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka | [`odluka/2013/2728/`](odluka/2013/2728/) | in force | 1 | 2013-10-10 | 2013-10-10 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za osiguranje izvoza | [`odluka/2013/2767/`](odluka/2013/2767/) | in force | 1 | 2013-10-19 | 2013-10-19 |
+| Odluka o izmjenama i dopuni Odluke o načinu ostvarivanja poticaja pri zapošljavanju osoba s invaliditetom | [`odluka/2013/2774/`](odluka/2013/2774/) | amending act | 1 | 2013-10-18 | 2013-10-18 |
+| Odluka o izmjenama i dopunama Odluke o ograničavanju izloženosti kreditnih institucija valutnom riziku | [`odluka/2013/2797/`](odluka/2013/2797/) | amending act | 1 | 2013-10-31 | 2013-10-31 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Španjolskoj | [`odluka/2013/2799/`](odluka/2013/2799/) | in force | 1 | 2013-11-01 | 2013-11-01 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Poljskoj | [`odluka/2013/2800/`](odluka/2013/2800/) | in force | 1 | 2013-11-01 | 2013-11-01 |
+| Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava i biračkih odbora za provedbu prijevremenih i dopunskih izbora | [`odluka/2013/2831/`](odluka/2013/2831/) | amending act | 1 | 2013-10-24 | 2013-10-24 |
+| Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2014. - 2016. | [`odluka/2013/2832/`](odluka/2013/2832/) | in force | 1 | 2013-10-24 | 2013-10-24 |
+| Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica vezanih uz ubojstvo Stjepana Đurekovića | [`odluka/2013/2841/`](odluka/2013/2841/) | in force | 1 | 2013-10-25 | 2013-10-25 |
+| Odluka o vrsti i visini financijske potpore prognanicima i povratnicima | [`odluka/2013/2886/`](odluka/2013/2886/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+| Odluka o popisu postupaka liječenja koji se provode u okviru planirane prekogranične zdravstvene zaštite | [`odluka/2013/2894/`](odluka/2013/2894/) | in force | 1 | 2013-11-07 | 2013-11-07 |
+| Odluka o izmjenama i dopunama Odluke o prirezu poreza na dohodak Općine Sv. Lovreč | [`odluka/2013/2940/`](odluka/2013/2940/) | amending act | 1 | 2013-11-21 | 2013-11-21 |
+| Odluka o uvođenju radne obveze doktorima medicine u bolničkim zdravstvenim | [`odluka/2013/2945/`](odluka/2013/2945/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+| Odluka o obvezi rada ureda državne uprave radi provedbe državnog referenduma | [`odluka/2013/2946/`](odluka/2013/2946/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+| Odluka o financiranju programa vijeća i predstavnika nacionalnih manjina u 2013. godini | [`odluka/2013/2955/`](odluka/2013/2955/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+| Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2013. godinu | [`odluka/2013/2956/`](odluka/2013/2956/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji potpore miru ISAF u Afganistanu | [`odluka/2013/2973/`](odluka/2013/2973/) | in force | 1 | 2013-11-28 | 2013-11-28 |
+| Odluka o prestanku važenja Odluke o nastavnom planu i programu te organizaciji pedagoško-psihološkog obrazovanja učitelja u osnovnom školstvu i nastavnika u srednjem školstvu | [`odluka/2013/2980/`](odluka/2013/2980/) | in force | 1 | 2013-11-28 | 2013-11-28 |
+| Odluka o jediničnom iznosu novčanog poticaja za proizvodnju biogoriva u 2014. godinu | [`odluka/2013/3018/`](odluka/2013/3018/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Odluka o naknadi za superviziju kreditnih institucija za 2014. godinu | [`odluka/2013/3058/`](odluka/2013/3058/) | in force | 1 | 2013-12-07 | 2013-12-07 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2013/3060/`](odluka/2013/3060/) | in force | 1 | 2013-12-07 | 2013-12-07 |
+| Odluka o dodjeli Državne nagrade za volontiranje u 2013. godini | [`odluka/2013/3085/`](odluka/2013/3085/) | in force | 1 | 2013-12-04 | 2013-12-04 |
+| Odluka o visini naknade predsjedniku i članovima povjerenstava za provedbu državnog referenduma | [`odluka/2013/3093/`](odluka/2013/3093/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2013. godinu i projekcija za 2014. i 2015. godinu (NN br. 145A) | [`odluka/2013/3107/`](odluka/2013/3107/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2013. godinu i projekcija za 2014. i 2015. godinu (NN br. 145A) | [`odluka/2013/3108/`](odluka/2013/3108/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Agencije za upravljanje državnom imovinom za 2013. godinu i projekcija za 2014. i 2015. godinu i na Izmjene i dopune Financijskog plana Centra za restrukturiranje i prodaju za 2013. godinu i projekcija za 2014. i 2015. godinu (NN br. 145A) | [`odluka/2013/3109/`](odluka/2013/3109/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2013. godinu i projekcija za 2014. i 2015. godinu (NN br. 145A) | [`odluka/2013/3110/`](odluka/2013/3110/) | amending act | 1 | 2013-12-07 | 2013-12-07 |
+| Odluka o raspodjeli sredstava za financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini iz sredstava Državnog proračuna Republike Hrvatske za 2013. godinu | [`odluka/2013/3113/`](odluka/2013/3113/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Odluka o visini udjela iz prihoda od trošarina koji se izdvaja za proizvodnju biogoriva u 2014. godini | [`odluka/2013/3122/`](odluka/2013/3122/) | in force | 1 | 2013-12-11 | 2013-12-11 |
+| Odluka o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2014. | [`odluka/2013/3188/`](odluka/2013/3188/) | in force | 1 | 2013-12-17 | 2013-12-17 |
+| Odluka o izmjenama i dopunama Odluke o visini naknade za polaganje vozačkog ispita | [`odluka/2013/3197/`](odluka/2013/3197/) | amending act | 1 | 2013-12-24 | 2013-12-24 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske pri Organizaciji Ujedinjenih naroda u New Yorku | [`odluka/2013/3228/`](odluka/2013/3228/) | in force | 1 | 2013-12-11 | 2013-12-11 |
+| Odluka o postupku provjere kriterija za izuzeće od obveze i izrade analize koristi i troškova proizvodnih postrojenja za proizvodnju električne i toplinske energije koja se koriste kod vršnih opterećenja i postrojenja za proizvodnju rezervne električne energije | [`odluka/2013/3241/`](odluka/2013/3241/) | in force | 1 | 2013-12-19 | 2013-12-19 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Novom Zelandu | [`odluka/2013/3251/`](odluka/2013/3251/) | in force | 1 | 2013-12-17 | 2013-12-17 |
+| Odluka o osnivanju Privremenog ureda Republike Hrvatske u Republici Azerbajdžanu, sa sjedištem u Bakuu | [`odluka/2013/3252/`](odluka/2013/3252/) | in force | 1 | 2013-12-17 | 2013-12-17 |
+| Odluka o izmjenama Odluke o karti regionalnih potpora | [`odluka/2013/3256/`](odluka/2013/3256/) | in force | 1 | 2013-12-18 | 2013-12-18 |
+| Odluka o izmjeni i dopuni Odluke o izmjeni odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luka posebne namjene - luka nautičkog turizma Pula, Rab, Šimuni, Žut, Skradin, Trogir, Milna, Vrboska, Palmižana i Korčula | [`odluka/2013/3257/`](odluka/2013/3257/) | amending act | 1 | 2013-12-12 | 2013-12-12 |
+| Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2014. godini iz doznaka obveznog mirovinskog fonda | [`odluka/2013/3262/`](odluka/2013/3262/) | in force | 1 | 2013-12-28 | 2013-12-28 |
+| Odluka o prestanku važenja Odluke o obvezi dostavljanja Izvješća o trgovanju na novčanom tržištu | [`odluka/2013/3268/`](odluka/2013/3268/) | in force | 1 | 2014-01-03 | 2014-01-03 |
+| Odluka o prirezu poreza na dohodak Općine Škabrnje | [`odluka/2013/3271/`](odluka/2013/3271/) | in force | 1 | 2013-12-28 | 2013-12-28 |
+| Odluka o sufinanciranju međumjesnog javnog prijevoza za redovite učenike srednjih škola u razdoblju siječanj - lipanj 2014. godine | [`odluka/2013/3276/`](odluka/2013/3276/) | in force | 1 | 2013-12-24 | 2013-12-24 |
+| Odluka o obavljanju poslova podrške prekršajno-evidencijskom sustavu | [`odluka/2013/3278/`](odluka/2013/3278/) | in force | 1 | 2013-12-18 | 2013-12-18 |
+| Odluka o najvišem postotku naknade za upravljanje obveznom mirovinskom društvu za 2014. godinu | [`odluka/2013/3287/`](odluka/2013/3287/) | in force | 1 | 2013-12-31 | 2013-12-31 |
+| Odluka o najvišem postotku naknade banke skrbnika za 2014. godinu | [`odluka/2013/3288/`](odluka/2013/3288/) | in force | 1 | 2013-12-31 | 2013-12-31 |
+| Odluka o dodjeli Državne nagrade za humanitarni rad u 2013. godini | [`odluka/2013/3301/`](odluka/2013/3301/) | in force | 1 | 2013-12-10 | 2013-12-10 |
+| Odluka o načinu operativne provedbe Projekta objedinjavanja svjetlovodne infrastrukture u trgovačkim društvima u većinskom vlasništvu Republike Hrvatske | [`odluka/2013/3334/`](odluka/2013/3334/) | in force | 1 | 2013-12-18 | 2013-12-18 |
+| Odluka o otkazivanju Kolektivnog ugovora za zaposlenike u osnovnoškolskim ustanovama | [`odluka/2013/3335/`](odluka/2013/3335/) | in force | 1 | 2013-12-27 | 2013-12-27 |
+| Odluka o otkazivanju Kolektivnog ugovora za zaposlenike u srednjoškolskim ustanovama | [`odluka/2013/3336/`](odluka/2013/3336/) | in force | 1 | 2013-12-27 | 2013-12-27 |
+| Odluka o otkazivanju Kolektivnog ugovora za znanost i visoko obrazovanje | [`odluka/2013/3337/`](odluka/2013/3337/) | in force | 1 | 2013-12-27 | 2013-12-27 |
+| Odluka o davanju suglasnosti na Odluku o izmjeni Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`odluka/2013/3338/`](odluka/2013/3338/) | in force | 1 | 2013-12-18 | 2013-12-18 |
+| Odluka o izmjenama i dopunama Odluke o ograničenju ulaganja kreditnih institucija u kapital nefinancijskih institucija i materijalnu imovinu | [`odluka/2013/3370/`](odluka/2013/3370/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
 | Odluka o prodaji stanova u vlasništvu Republike Hrvatske na području Hrvatskog Podunavlja | [`odluka/2014/27/`](odluka/2014/27/) | in force | 1 | 2014-01-11 | 2014-01-11 |
 | Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 2014. godinu | [`odluka/2014/53/`](odluka/2014/53/) | in force | 1 | 2014-01-01 | 2014-01-01 |
 | Odluka o izmjeni i dopuni Odluke o porezima Grada Slavonskog Broda | [`odluka/2014/57/`](odluka/2014/57/) | amending act | 1 | 2014-01-16 | 2014-01-16 |
@@ -6273,7 +6535,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2945, of which 979 amending acts)
+## pravilnik (2983, of which 996 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6655,6 +6917,44 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu | [`pravilnik/1999/2265/`](pravilnik/1999/2265/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na osposobljavanje za samostalan život i rad | [`pravilnik/1999/2266/`](pravilnik/1999/2266/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
 | Pravilnik o izmjenama i dopunama Pravilnika o tehničkom nadzoru električnih postrojenja, instalacija i uređaja namijenjenih za rad u prostorima ugroženim eksplozivnom atmosferom | [`pravilnik/1999/2268/`](pravilnik/1999/2268/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izvanaerodromskom slijetanju i uzlijetanju helikoptera | [`pravilnik/2013/139/`](pravilnik/2013/139/) | amending act | 1 | 2013-01-29 | 2013-01-29 |
+| Pravilnik o izmjeni Pravilnika o određivanju visine stvarnih troškova uporabe podataka dokumentacije državne izmjere i katastra nekretnina | [`pravilnik/2013/1026/`](pravilnik/2013/1026/) | in force | 1 | 2013-05-08 | 2013-05-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2013. godinu | [`pravilnik/2013/1064/`](pravilnik/2013/1064/) | amending act | 1 | 2013-05-03 | 2013-05-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna pokazatelja likvidnosti i najmanjoj vrijednosti pokazatelja likvidnosti društva za osiguranje, odnosno društva za reosiguranje | [`pravilnik/2013/1065/`](pravilnik/2013/1065/) | amending act | 1 | 2013-05-03 | 2013-05-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja evidencija i izdavanja potvrda o primitku dobrovoljnih priloga (donacija) i članarina, izvješćima o primljenim donacijama za financiranje izborne promidžbe i izvješćima o troškovima (rashodima) izborne promidžbe te financijskim izvještajima za financiranje izborne promidžbe | [`pravilnik/2013/1124/`](pravilnik/2013/1124/) | amending act | 1 | 2013-05-08 | 2013-05-08 |
+| Pravilnik o izmjeni Pravilnika o dodatku na plaću i načinu isplate plaće | [`pravilnik/2013/1125/`](pravilnik/2013/1125/) | in force | 1 | 2013-05-16 | 2013-05-16 |
+| Pravilnik o dopuni Pravilnika o tehničkim zahtjevima za eksplozivne tvari | [`pravilnik/2013/1126/`](pravilnik/2013/1126/) | amending act | 1 | 2013-05-16 | 2013-05-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva osiguranja | [`pravilnik/2013/1160/`](pravilnik/2013/1160/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Pravilnik o načinu izvršavanja kazne maloljetničkog zatvora u kaznenom i prekršajnom postupku | [`pravilnik/2013/1176/`](pravilnik/2013/1176/) | in force | 1 | 2013-05-23 | 2013-05-23 |
+| Pravilnik o dopuni Pravilnika o stručnim zvanjima u konzervatorsko-restauratorskoj djelatnosti te uvjetima i načinu njihova stjecanja | [`pravilnik/2013/1183/`](pravilnik/2013/1183/) | amending act | 1 | 2013-05-23 | 2013-05-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprečavanje emisije plinovitih onečišćivača i onečišćivača u obliku čestica iz motora s unutrašnjim izgaranjem koji se ugrađuju u necestovne pokretne strojeve TPV 401 (izdanje 00) | [`pravilnik/2013/1185/`](pravilnik/2013/1185/) | amending act | 1 | 2013-05-23 | 2013-05-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkim zahtjevima i ocjeni sukladnosti uređaja i opreme namijenjene poslovima humanitarnog razminiranja | [`pravilnik/2013/1189/`](pravilnik/2013/1189/) | amending act | 1 | 2013-05-23 | 2013-05-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkim zahtjevima i utvrđivanju sukladnosti strojeva koji se koriste na poslovima humanitarnog razminiranja | [`pravilnik/2013/1190/`](pravilnik/2013/1190/) | amending act | 1 | 2013-05-23 | 2013-05-23 |
+| Pravilnik o dopuni Pravilnika o poslovima na kojima se ne smije zaposliti maloljetnika | [`pravilnik/2013/1214/`](pravilnik/2013/1214/) | amending act | 1 | 2013-05-28 | 2013-05-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o voćnim vinima | [`pravilnik/2013/1215/`](pravilnik/2013/1215/) | amending act | 1 | 2013-05-28 | 2013-05-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju najviših maloprodajnih cijena naftnih derivata | [`pravilnik/2013/1243/`](pravilnik/2013/1243/) | amending act | 1 | 2013-06-01 | 2013-06-01 |
+| Pravilnik o prestanku važenja Pravilnika o uvoznim i izvoznim dozvolama za poljoprivredne proizvode | [`pravilnik/2013/1248/`](pravilnik/2013/1248/) | in force | 1 | 2013-05-25 | 2013-05-25 |
+| Pravilnik o zdravstvenoj ispravnosti materijala i predmeta izrađenih od regenerirane celuloze koji dolaze u neposredan dodir s hranom | [`pravilnik/2013/1250/`](pravilnik/2013/1250/) | in force | 1 | 2013-07-02 | 2013-07-02 |
+| Pravilnik o zdravstvenoj ispravnosti materijala i predmeta izrađenih od keramike koji dolaze u neposredan dodir s hranom | [`pravilnik/2013/1251/`](pravilnik/2013/1251/) | in force | 1 | 2013-07-02 | 2013-07-02 |
+| Pravilnik o standardima kvalitete i sigurnosti organa za presađivanje | [`pravilnik/2013/1252/`](pravilnik/2013/1252/) | in force | 1 | 2013-06-01 | 2013-06-01 |
+| Pravilnik o načinu procjene obilježja preminulog davatelja i organa za presađivanje | [`pravilnik/2013/1253/`](pravilnik/2013/1253/) | in force | 1 | 2013-06-01 | 2013-06-01 |
+| Pravilnik o izmjenama Pravilnika o stručnom ispitu za rad na stručnim poslovima u turističkom uredu turističke zajednice | [`pravilnik/2013/1289/`](pravilnik/2013/1289/) | in force | 1 | 2013-06-06 | 2013-06-06 |
+| Pravilnik o izmjeni Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju stručne geodetske poslove | [`pravilnik/2013/1292/`](pravilnik/2013/1292/) | in force | 1 | 2013-06-06 | 2013-06-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-medicinskim proizvodima | [`pravilnik/2013/1322/`](pravilnik/2013/1322/) | amending act | 1 | 2013-06-13 | 2013-06-13 |
+| Pravilnik o ukidanju Pravilnika o mjeriteljskim i tehničkim zahtjevima za brodske spremnike | [`pravilnik/2013/1325/`](pravilnik/2013/1325/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Pravilnik o izmjeni Pravilnika o dodjeli adresa i brojeva | [`pravilnik/2013/1340/`](pravilnik/2013/1340/) | in force | 1 | 2013-06-13 | 2013-06-13 |
+| Pravilnik o izmjenama i dopuni Pravilnika o jednostavnim građevinama i radovima | [`pravilnik/2013/1360/`](pravilnik/2013/1360/) | amending act | 1 | 2013-06-15 | 2013-06-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju, obliku i načinu vođenja očevidnika inspektora Državnog inspektorata | [`pravilnik/2013/1362/`](pravilnik/2013/1362/) | amending act | 1 | 2013-06-15 | 2013-06-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o razvrstavanju i minimalnim uvjetima ugostiteljskih objekata iz skupina "Restorani", "Barovi", "Catering objekti" i "Objekti jednostavnih usluga" | [`pravilnik/2013/1373/`](pravilnik/2013/1373/) | amending act | 1 | 2013-06-18 | 2013-06-18 |
+| Pravilnik kojim se propisuju posebni uvjeti koji se primjenjuju pri uvozu kikirikija iz Gane i Indije, okre (bamije) i curry listova iz Indije te sjemenki lubenice iz Nigerije | [`pravilnik/2013/1384/`](pravilnik/2013/1384/) | in force | 1 | 2013-06-12 | 2013-06-12 |
+| Pravilnik o načinu rada Državnog registra o medicinski pomognutoj oplodnji i dodjeli jedinstvenog identifikacijskog broja | [`pravilnik/2013/1390/`](pravilnik/2013/1390/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o načinu davanja pristanka za uzimanje, čuvanje i pohranjivanje spolnih stanica, spolnih tkiva i zametaka | [`pravilnik/2013/1391/`](pravilnik/2013/1391/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o obrascu potvrde o uništenju spolnih stanica nakon povlačenja pristanka darivatelja | [`pravilnik/2013/1392/`](pravilnik/2013/1392/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o načinu izvješćivanja te o načinu vođenja evidencije i rokovima izvješćivanja o ozbiljnim štetnim događajima i ozbiljnim štetnim reakcijama u postupcima medicinski pomognute oplodnje | [`pravilnik/2013/1393/`](pravilnik/2013/1393/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o postupcima i kriterijima procjene darivatelja spolnih stanica, postupcima uzimanja spolnih stanica i postupcima zaprimanja i pohranjivanja spolnih stanica | [`pravilnik/2013/1394/`](pravilnik/2013/1394/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o sadržaju i obliku obrasca izvješća o broju i vrsti obavljenih postupaka medicinski pomognute oplodnje, o njihovoj uspješnosti te o pohranjenim spolnim stanicama, spolnim tkivima i zamecima | [`pravilnik/2013/1395/`](pravilnik/2013/1395/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o uvjetima u pogledu prostora, medicinsko-tehničke opreme i sustava kvalitete za provođenje postupaka medicinski pomognute oplodnje | [`pravilnik/2013/1396/`](pravilnik/2013/1396/) | in force | 1 | 2013-06-20 | 2013-06-20 |
+| Pravilnik o načinu davanja pristanka i identifikacije darivatelja spolnih stanica i zametaka | [`pravilnik/2013/1397/`](pravilnik/2013/1397/) | in force | 1 | 2013-06-20 | 2013-06-20 |
 | Pravilnik o izmjenama i dopunama Pravilnika o očevidniku vađenja šljunka i pijeska | [`pravilnik/2014/62/`](pravilnik/2014/62/) | amending act | 1 | 2014-01-18 | 2014-01-18 |
 | Pravilnik o izmjenama i dopunama Pravilnika o očevidniku deponiranog šljunka i pijeska | [`pravilnik/2014/63/`](pravilnik/2014/63/) | amending act | 1 | 2014-01-18 | 2014-01-18 |
 | Pravilnik o izmjenama i dopunama Pravilnika o rasporedu sredstava za financiranje građenja i održavanja javnih cesta županijskim upravama za ceste u 2013. godini | [`pravilnik/2014/76/`](pravilnik/2014/76/) | amending act | 1 | 2014-01-22 | 2014-01-22 |
