@@ -1,8 +1,8 @@
 # Every act in this repository
 
-9002 acts, 9,183 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9302 acts, 9,499 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## naputak (48, of which 12 amending acts)
+## naputak (51, of which 12 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -19,6 +19,9 @@
 | Naputak o izmjenama i dopunama Naputka o pomoćnim šifarnicima i ostalim podacima za vođenje sudskoga registra | [`naputak/1996/1975/`](naputak/1996/1975/) | amending act | 1 | 1996-11-29 | 1996-11-29 |
 | Naputak o provedbi Uredbe o usmjeravanju sredstava za stambeno zbrinjavanje hrvatskih branitelja iz Domovinskog rata i članovima njihovih obitelji | [`naputak/1997/569/`](naputak/1997/569/) | in force | 1 | 1997-04-24 | 1997-04-24 |
 | Naputak o postupku aktiviranja poticajnih sredstava Ministarstva turizma za razvitak malog i srednjeg poduzetništva u turizmu sa naglaskom na razvitak turizma na ruralnom prostoru za 1999. godinu | [`naputak/1999/1328/`](naputak/1999/1328/) | in force | 1 | 1999-07-08 | 1999-07-08 |
+| Naputak o načinu provođenja mjera kontrole zdravlja životinja propisanih Naredbom o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2017. godini | [`naputak/2017/390/`](naputak/2017/390/) | repealed 2020-08-01 | 2 | 2017-03-02 | 2020-08-01 |
+| Naputak o načinu rada Agencije za pravni promet i posredovanje nekretninama u provedbi Zakona o subvencioniranju stambenih kredita | [`naputak/2017/1897/`](naputak/2017/1897/) | in force | 1 | 2017-08-03 | 2017-08-03 |
+| Naputak o načinu primjene izuzeća od navođenja nutritivne deklaracije na hrani | [`naputak/2017/1963/`](naputak/2017/1963/) | in force | 1 | 2017-08-19 | 2017-08-19 |
 | Naputak o novčanim kaznama koje izriču građevinski inspektori | [`naputak/2018/445/`](naputak/2018/445/) | repealed 2020-07-15 | 2 | 2018-03-08 | 2020-07-15 |
 | Naputak o novčanim kaznama koje izriču komunalni redari | [`naputak/2018/446/`](naputak/2018/446/) | repealed 2024-12-21 | 2 | 2018-03-08 | 2024-12-21 |
 | Naputak o načinu uporabe, vraćanja i obnavljanja udžbenika i drugih obrazovnih materijala financiranih sredstvima iz Državnoga proračuna | [`naputak/2019/910/`](naputak/2019/910/) | in force | 1 | 2019-05-09 | 2019-05-09 |
@@ -55,7 +58,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (187, of which 32 amending acts)
+## naredba (192, of which 33 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -192,6 +195,11 @@
 | Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara (goveda, ovaca, koza i svinja) te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Republike Turske | [`naredba/1999/2102/`](naredba/1999/2102/) | in force | 1 | 1999-12-10 | 1999-12-10 |
 | Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu | [`naredba/2015/2382/`](naredba/2015/2382/) | in force | 1 | 2015-11-19 | 2015-11-19 |
 | Naredba o izmjeni Naredbe o stavljanju na tržište upaljača sigurnih za djecu i zabrani stavljanja na tržište upaljača "Noviteta" | [`naredba/2016/1693/`](naredba/2016/1693/) | in force | 1 | 2016-08-03 | 2016-08-03 |
+| Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2017. godinu | [`naredba/2017/59/`](naredba/2017/59/) | in force | 1 | 2017-01-05 | 2017-01-05 |
+| Naredba o razvrstaju luka otvorenih za javni promet na području Dubrovačko-neretvanske županije | [`naredba/2017/358/`](naredba/2017/358/) | in force | 1 | 2017-02-25 | 2017-02-25 |
+| Naredba o izmjeni Naredbe o visini naknade za utvrđivanje sposobnosti brodica za plovidbu i o visini naknade za baždarenje brodica | [`naredba/2017/973/`](naredba/2017/973/) | in force | 1 | 2017-05-01 | 2017-05-01 |
+| Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2018. godinu | [`naredba/2017/2923/`](naredba/2017/2923/) | in force | 1 | 2017-12-29 | 2017-12-29 |
+| Naredba o izmjenama i dopunama Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2017. godini | [`naredba/2017/2997/`](naredba/2017/2997/) | amending act | 1 | 2017-12-28 | 2017-12-28 |
 | Naredba o načinu i financiranju kontrole razmnožavanja napuštenih pasa na području Međimurske županije | [`naredba/2018/812/`](naredba/2018/812/) | in force | 1 | 2018-05-10 | 2018-05-10 |
 | Naredba o izmjeni Naredbe o poduzimanju mjera za sprječavanje širenja štetnog organizma Corythucha arcuata (Say, 1832) - hrastova mrežasta stjenica | [`naredba/2018/975/`](naredba/2018/975/) | in force | 1 | 2018-05-31 | 2018-05-31 |
 | Naredba o izmjenama i dopunama Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2018. godini | [`naredba/2018/1461/`](naredba/2018/1461/) | amending act | 1 | 2018-08-05 | 2018-08-05 |
@@ -247,7 +255,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (5016, of which 603 amending acts)
+## odluka (5281, of which 639 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2417,30 +2425,295 @@
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/30-11-2016 od 10. studenoga 2016. | [`odluka/2016/2441/`](odluka/2016/2441/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Crnoj Gori | [`odluka/2016/2556/`](odluka/2016/2556/) | in force | 1 | 2016-12-15 | 2016-12-15 |
 | Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju siječanj - lipanj 2017. godine | [`odluka/2016/2690/`](odluka/2016/2690/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu ROYAL CASINO d.o.o. | [`odluka/2017/29/`](odluka/2017/29/) | in force | 1 | 2016-12-29 | 2016-12-29 |
 | Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2016. godinu | [`odluka/2017/30/`](odluka/2017/30/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/09-02/0054, urbroj: 567-06-16-03 od 22. prosinca 2016. | [`odluka/2017/63/`](odluka/2017/63/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Odluka o provedbi Uredbe (EU, Euratom) br. 1141/2014 Europskog parlamenta i Vijeća od 22. listopada 2014. o statutu i financiranju europskih političkih stranaka i europskih političkih zaklada | [`odluka/2017/121/`](odluka/2017/121/) | in force | 1 | 2017-01-12 | 2017-01-12 |
+| Odluka o kriterijima za određivanje stupnjeva tajnosti podataka Vlade Republike Hrvatske | [`odluka/2017/141/`](odluka/2017/141/) | in force | 1 | 2017-01-14 | 2017-01-14 |
+| Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na lokaciji u Savudrijskoj vali - polja I., II., III. i IV. | [`odluka/2017/191/`](odluka/2017/191/) | in force | 1 | 2017-01-19 | 2017-01-19 |
+| Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na lokaciji u Savudrijskoj vali - polja A, C i E | [`odluka/2017/192/`](odluka/2017/192/) | in force | 1 | 2017-01-19 | 2017-01-19 |
+| Odluka o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na lokaciji u Savudrijskoj vali - polja B, D i F | [`odluka/2017/193/`](odluka/2017/193/) | in force | 1 | 2017-01-19 | 2017-01-19 |
+| Odluka o utvrđivanju Prijedloga urbanističkog plana uređenja državnog značaja »Vršna zona«, Medvednica, za javnu raspravu | [`odluka/2017/194/`](odluka/2017/194/) | in force | 1 | 2017-01-28 | 2017-01-28 |
+| Odluka o utvrđivanju Prijedloga urbanističkog plana uređenja državnog značaja »Skijaški kompleks«, Medvednica, za javnu raspravu | [`odluka/2017/195/`](odluka/2017/195/) | in force | 1 | 2017-01-28 | 2017-01-28 |
+| Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2016. godinu | [`odluka/2017/260/`](odluka/2017/260/) | in force | 1 | 2017-01-28 | 2017-01-28 |
+| Odluka o davanju prethodne suglasnosti na Izmjene i dopune Statuta Hrvatske regulatorne agencije za mrežne djelatnosti | [`odluka/2017/314/`](odluka/2017/314/) | amending act | 1 | 2017-02-09 | 2017-02-09 |
+| Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za financiranje materijalnih i financijskih rashoda centara za socijalnu skrb i troškova ogrjeva korisnicima koji se griju na drva u 2017. godini | [`odluka/2017/323/`](odluka/2017/323/) | in force | 1 | 2017-02-23 | 2017-02-23 |
+| Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentralizirano financiranje domova za starije i nemoćne osobe u 2017. godini | [`odluka/2017/324/`](odluka/2017/324/) | in force | 1 | 2017-02-23 | 2017-02-23 |
+| Odluka o usklađenju sredstava jamstvenog pologa za 2016. godinu | [`odluka/2017/340/`](odluka/2017/340/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Odluka o izmjenama Odluke o osnivanju Međuresorne radne skupine za osiguravanje ulaska Republike Hrvatske u schengenski prostor i uspostavu praćenja rada i evaluacije primjene schengenske pravne stečevine te radnih skupina za pojedina područja | [`odluka/2017/354/`](odluka/2017/354/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Odluka o prestanku važenja Metodoloških osnova za prikupljanje podataka o cijenama plina i električne energije koje se zaračunavaju industrijskim krajnjim korisnicima | [`odluka/2017/360/`](odluka/2017/360/) | in force | 1 | 2017-02-25 | 2017-02-25 |
+| Odluka Agencije za elektroničke medije, klasa: 612-12/09-02/0027, urbroj: 567-06-17-12 od 15. veljače 2017. | [`odluka/2017/391/`](odluka/2017/391/) | in force | 1 | 2017-02-15 | 2017-02-15 |
+| Odluka o prestanku važenja Odluke o prirezu porezu na dohodak Općine Đurmanec | [`odluka/2017/393/`](odluka/2017/393/) | in force | 1 | 2017-02-23 | 2017-02-23 |
+| Odluka o dopuni Odluke o ispravama i službenim obrascima čiji su sadržaj, oblik, način zaštite i obvezna primjena propisani zakonima i drugim propisima | [`odluka/2017/397/`](odluka/2017/397/) | amending act | 1 | 2017-03-04 | 2017-03-04 |
+| Odluku o izmjeni i dopuni Odluke o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja velike plave ribe (tune) u akvatoriju Vela Grška, u Općini Nerežišća, na otoku Braču | [`odluka/2017/398/`](odluka/2017/398/) | amending act | 1 | 2017-02-23 | 2017-02-23 |
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Laoskoj Narodnoj Demokratskoj Republici, sa sjedištem u Kuala Lumpuru | [`odluka/2017/408/`](odluka/2017/408/) | in force | 1 | 2017-02-16 | 2017-02-16 |
+| Odluka o davanju prethodne suglasnosti Ministarstvu gospodarstva, poduzetništva i obrta za angažiranje fizičke ili pravne osobe za obavljanje poslova odnosa s javnošću radi informiranja hrvatskih gospodarstvenika i cjelokupne javnosti o mjerama koje provodi Ministarstvo gospodarstva, poduzetništva i obrta sukladno Operativnom programu Konkurentnost i kohezija 2014. - 2020. | [`odluka/2017/438/`](odluka/2017/438/) | in force | 1 | 2017-03-02 | 2017-03-02 |
+| Odluka o izmjenama i dopuni Odluke o osnivanju Savjeta za mlade | [`odluka/2017/444/`](odluka/2017/444/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
+| Odluka o katastarskoj izmjeri na području Grada Ogulina za dio katastarske općine Ogulin | [`odluka/2017/450/`](odluka/2017/450/) | in force | 1 | 2017-03-04 | 2017-03-04 |
+| Odluka o ustroju registra anticipiranih naredbi i punomoći u elektroničkom obliku | [`odluka/2017/490/`](odluka/2017/490/) | in force | 1 | 2017-03-16 | 2017-03-16 |
+| Odluka o izmjenama i dopunama Odluke o koncesiji u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja bijele ribe u akvatoriju Vrgadskog kanala | [`odluka/2017/493/`](odluka/2017/493/) | amending act | 1 | 2017-03-08 | 2017-03-08 |
+| Odluka o izmjenama Odluke o »Nagradi Iso Velikanović« | [`odluka/2017/494/`](odluka/2017/494/) | in force | 1 | 2017-03-08 | 2017-03-08 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja »2017.« | [`odluka/2017/510/`](odluka/2017/510/) | in force | 1 | 2017-03-14 | 2017-03-14 |
+| Odluka o izmjeni Odluke o uvjetima i načinu na koji ovlašteni mjenjači obavljaju mjenjačke poslove | [`odluka/2017/511/`](odluka/2017/511/) | in force | 1 | 2017-03-21 | 2017-03-21 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2017. | [`odluka/2017/531/`](odluka/2017/531/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2017. | [`odluka/2017/532/`](odluka/2017/532/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2017. | [`odluka/2017/533/`](odluka/2017/533/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2017. | [`odluka/2017/534/`](odluka/2017/534/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2016. | [`odluka/2017/535/`](odluka/2017/535/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o faktoru osnovne mirovine od 1. siječnja 2017. | [`odluka/2017/536/`](odluka/2017/536/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o pokretanju postupka za ustrojavanje posebnog studija »Vojno pomorstvo« | [`odluka/2017/540/`](odluka/2017/540/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Odluka o iznosu naknade glavnom mentoru i mentoru | [`odluka/2017/548/`](odluka/2017/548/) | in force | 1 | 2017-03-25 | 2017-03-25 |
+| Odluka o prestanku važenja Statističkih standarda za godišnje istraživanje o utrošku sirovina, materijala i energenata u industriji (IND-21/REPRO) | [`odluka/2017/561/`](odluka/2017/561/) | in force | 1 | 2017-03-28 | 2017-03-28 |
+| Odluka o osnivanju Istražnog povjerenstva za utvrđivanje odgovornosti za rezultate upravljanja i raspolaganja financijskim i drugim resursima Imunološkog zavoda | [`odluka/2017/579/`](odluka/2017/579/) | in force | 1 | 2017-03-17 | 2017-03-17 |
+| Odluka o prestanku važenja Statističkih standarda za PRODCOM istraživanje o industrijskoj proizvodnji za 2009. (IND-21/PRODCOM) | [`odluka/2017/582/`](odluka/2017/582/) | in force | 1 | 2017-03-30 | 2017-03-30 |
+| Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2017. - 2019. | [`odluka/2017/595/`](odluka/2017/595/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o izmjenama Odluke o pokretanju projekta e-Poslovanje | [`odluka/2017/596/`](odluka/2017/596/) | in force | 1 | 2017-03-23 | 2017-03-23 |
+| Odluka o katastarskoj izmjeri na području Općine Drenje za katastarsku općinu Potnjani | [`odluka/2017/650/`](odluka/2017/650/) | in force | 1 | 2017-03-30 | 2017-03-30 |
+| Odluka o katastarskoj izmjeri na području Općine Lekenik za dio katastarske općine Vukojevac | [`odluka/2017/651/`](odluka/2017/651/) | in force | 1 | 2017-03-30 | 2017-03-30 |
+| Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i izvanbilančnih obveza kreditnih institucija | [`odluka/2017/653/`](odluka/2017/653/) | amending act | 1 | 2017-04-01 | 2017-04-01 |
+| Odluka o postavljanju Tončija Staničića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Moskvi | [`odluka/2017/658/`](odluka/2017/658/) | in force | 1 | 2017-04-12 | 2017-04-12 |
+| Odluka o izmjeni Odluke o osnivanju Lučke uprave Ploče | [`odluka/2017/698/`](odluka/2017/698/) | in force | 1 | 2017-04-13 | 2017-04-13 |
+| Odluka o izmjeni Odluke o određivanju tijela odgovornog za koordinaciju postupka izdavanja dozvola za projekte od zajedničkog interesa u energetskom sektoru | [`odluka/2017/699/`](odluka/2017/699/) | in force | 1 | 2017-04-13 | 2017-04-13 |
+| Odluka o izmjeni Odluke o proglašenju »Međunarodnog dana sjećanja na romske žrtve porajmosa/holokausta koji se obilježava 2. kolovoza« | [`odluka/2017/711/`](odluka/2017/711/) | in force | 1 | 2017-03-31 | 2017-03-31 |
+| Odluka o naknadi za superviziju kreditnih institucija za 2017. godinu | [`odluka/2017/742/`](odluka/2017/742/) | in force | 1 | 2017-04-15 | 2017-04-15 |
+| Odluka o rasporedu sredstava za interventne zahvate prema posebnom nalogu ministra županijskim upravama za ceste u 2017. godini | [`odluka/2017/785/`](odluka/2017/785/) | repealed 2017-12-13 | 2 | 2017-03-31 | 2017-12-13 |
+| Odluka o davanju naknadne suglasnosti na Izmjene i dopune Statuta Hrvatskoga zavoda za zapošljavanje | [`odluka/2017/790/`](odluka/2017/790/) | amending act | 1 | 2017-04-13 | 2017-04-13 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalne strategije za uključivanje Roma, za razdoblje od 2013. do 2020. godine | [`odluka/2017/791/`](odluka/2017/791/) | in force | 1 | 2017-04-15 | 2017-04-15 |
+| Odluka o izmjenama i dopuni Odluke o osnivanju Vijeća za gospodarska pitanja Predsjednice Republike Hrvatske | [`odluka/2017/801/`](odluka/2017/801/) | amending act | 1 | 2017-03-31 | 2017-03-31 |
+| Odluka o visini stope prireza porezu na dohodak Općine Stara Gradiška | [`odluka/2017/824/`](odluka/2017/824/) | in force | 1 | 2017-05-01 | 2017-05-01 |
+| Odluka o davanju suglasnosti na odluke Skupštine Istarske županije o dopunama Odluke o osnivanju Lučke uprave Pula | [`odluka/2017/830/`](odluka/2017/830/) | amending act | 1 | 2017-04-20 | 2017-04-20 |
+| Izmjene Statuta Hrvatske komore ovlaštenih inženjera geodezije | [`odluka/2017/867/`](odluka/2017/867/) | in force | 1 | 2017-03-31 | 2017-03-31 |
 | Odluka o davanju suglasnosti na Statut Centra za profesionalnu rehabilitaciju Osijek | [`odluka/2017/983/`](odluka/2017/983/) | in force | 1 | 2017-04-27 | 2017-04-27 |
+| Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2017./2018. | [`odluka/2017/991/`](odluka/2017/991/) | in force | 1 | 2017-05-11 | 2017-05-11 |
+| Odluka o obvezi rada ureda državne uprave radi provedbe izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave, za općinske načelnike, gradonačelnike i župane te njihove zamjenike | [`odluka/2017/1002/`](odluka/2017/1002/) | in force | 1 | 2017-05-04 | 2017-05-04 |
+| Odluka o instrumentima za usklađivanje zakonodavstva Republike Hrvatske s pravnom stečevinom Europske unije | [`odluka/2017/1003/`](odluka/2017/1003/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za zatočene i nestale osobe | [`odluka/2017/1004/`](odluka/2017/1004/) | repealed 2019-08-01 | 2 | 2017-05-04 | 2019-08-01 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna »25. obljetnica primanja Republike Hrvatske u Ujedinjene narode, 22. svibnja 1992. - 22. svibnja 2017.« | [`odluka/2017/1088/`](odluka/2017/1088/) | in force | 1 | 2017-05-13 | 2017-05-13 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna »25. obljetnica primanja Republike Hrvatske u Ujedinjene narode, 22. svibnja 1992. - 22. svibnja 2017.« | [`odluka/2017/1113/`](odluka/2017/1113/) | in force | 1 | 2017-05-18 | 2017-05-18 |
+| Odluka o izdavanju numizmatičkih kompleta optjecajnoga kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja » 2017.« | [`odluka/2017/1132/`](odluka/2017/1132/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+| Odluka o dopuni Odluke o zabrani novog zapošljavanja službenika | [`odluka/2017/1142/`](odluka/2017/1142/) | amending act | 1 | 2017-06-03 | 2017-06-03 |
+| Odluka o obvezi rada ureda državne uprave radi provedbe drugog kruga glasovanja za izbore za općinske načelnike, gradonačelnike i župane te njihove zamjenike te za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda | [`odluka/2017/1171/`](odluka/2017/1171/) | in force | 1 | 2017-06-01 | 2017-06-01 |
+| Odluka o davanju prethodne suglasnosti na Prijedlog dopuna Statuta Središnjeg registra osiguranika | [`odluka/2017/1172/`](odluka/2017/1172/) | amending act | 1 | 2017-06-01 | 2017-06-01 |
+| Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2017. godinu | [`odluka/2017/1224/`](odluka/2017/1224/) | in force | 1 | 2017-06-08 | 2017-06-08 |
+| Odluka o razvoju i održavanju informacijskog sustava za upravljanje programima obnove, stambenog zbrinjavanja i upravljanja nekretninama u vlasništvu Republike Hrvatske, iz djelokruga Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje | [`odluka/2017/1225/`](odluka/2017/1225/) | in force | 1 | 2017-06-08 | 2017-06-08 |
+| Odluka o izmjenama Odluke o zastupničkom paušalu | [`odluka/2017/1230/`](odluka/2017/1230/) | in force | 1 | 2017-07-01 | 2017-07-01 |
+| Odluka o katastarskoj izmjeri na području Općine Kali za katastarsku općinu Kali | [`odluka/2017/1233/`](odluka/2017/1233/) | in force | 1 | 2017-06-13 | 2017-06-13 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-612-12/17-02/0002, urbroj: 567-06-17-11 od 5. lipnja 2017. | [`odluka/2017/1234/`](odluka/2017/1234/) | in force | 1 | 2017-06-05 | 2017-06-05 |
+| Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2017./2018. | [`odluka/2017/1273/`](odluka/2017/1273/) | in force | 1 | 2017-06-22 | 2017-06-22 |
+| Odluka o katastarskoj izmjeri na području Općine Preko za katastarske općine Preko i Sutomišćica | [`odluka/2017/1274/`](odluka/2017/1274/) | in force | 1 | 2017-06-15 | 2017-06-15 |
+| Odluka o katastarskoj izmjeri na području Općine Povljana za dio katastarske općine Povljana | [`odluka/2017/1275/`](odluka/2017/1275/) | in force | 1 | 2017-06-15 | 2017-06-15 |
+| Odluka o postavljanju počasnog konzula Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Napulju | [`odluka/2017/1281/`](odluka/2017/1281/) | in force | 1 | 2017-06-08 | 2017-06-08 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije klesarski tehničar u obrazovnome sektoru graditeljstvo i geodezija | [`odluka/2017/1294/`](odluka/2017/1294/) | in force | 1 | 2017-06-24 | 2017-06-24 |
+| Odluka o izmjeni Odluke o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2017. godini | [`odluka/2017/1299/`](odluka/2017/1299/) | in force | 1 | 2017-06-29 | 2017-06-29 |
+| Odluka o osnivanju Vijeća za učenje i poučavanje hrvatskoga kao drugoga, stranog i nasljednog jezika | [`odluka/2017/1364/`](odluka/2017/1364/) | in force | 1 | 2017-06-21 | 2017-06-21 |
+| Odluka o donošenju Akcijskog plana za 2017. i 2018. godinu uz Strategiju suzbijanja korupcije za razdoblje od 2015. do 2020. godine | [`odluka/2017/1365/`](odluka/2017/1365/) | in force | 1 | 2017-06-21 | 2017-06-21 |
+| Odluka o proširenju primjene Standard Cost Model (SCM) metodologije za mjerenje i ciljano smanjenje administrativnog opterećenja gospodarstva | [`odluka/2017/1366/`](odluka/2017/1366/) | in force | 1 | 2017-07-01 | 2017-07-01 |
+| Odluka o izmjenama i dopuni Odluke o osnivanju Komisije za granice | [`odluka/2017/1367/`](odluka/2017/1367/) | amending act | 1 | 2017-06-21 | 2017-06-21 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-612-12/17-02/0003, urbroj: 567-06-17-02 od 20. lipnja 2017. | [`odluka/2017/1424/`](odluka/2017/1424/) | in force | 1 | 2017-06-20 | 2017-06-20 |
+| Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o izmjenama i dopunama Odluke o osnivanju Lučke uprave Pula | [`odluka/2017/1434/`](odluka/2017/1434/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
+| Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o dopunama Odluke o osnivanju Lučke uprave Poreč | [`odluka/2017/1435/`](odluka/2017/1435/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
+| Odluka o dopuni Odluke o donošenju Mreže osnovnih i srednjih škola, učeničkih domova i programa obrazovanja | [`odluka/2017/1438/`](odluka/2017/1438/) | amending act | 1 | 2017-07-08 | 2017-07-08 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Savjeta za razvoj civilnoga društva | [`odluka/2017/1439/`](odluka/2017/1439/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
+| Odluka o dopuni Odluke kojom se utvrđuju uvjeti i način preuzimanja podataka o dohocima i primicima iz Evidencije o dohocima i primicima | [`odluka/2017/1442/`](odluka/2017/1442/) | amending act | 1 | 2017-07-01 | 2017-07-01 |
+| Odluku o ribolovnim mogućnostima za ribolov igluna (Xiphias gladius) u 2017. godini | [`odluka/2017/1474/`](odluka/2017/1474/) | in force | 1 | 2017-07-06 | 2017-07-06 |
+| Odluka o izmjenama i dopunama Statuta Hrvatskog centra za zadružno poduzetništvo | [`odluka/2017/1476/`](odluka/2017/1476/) | amending act | 1 | 2017-07-06 | 2017-07-06 |
+| Odluka o donošenju Strategije radiološke i nuklearne sigurnosti za razdoblje 2017. - 2025. godine | [`odluka/2017/1530/`](odluka/2017/1530/) | in force | 1 | 2017-07-06 | 2017-07-06 |
+| Odluka o izmjenama i dopunama Odluke o upisu učenika u I. razred srednje škole u školskoj godini 2017./2018. | [`odluka/2017/1536/`](odluka/2017/1536/) | amending act | 1 | 2017-07-08 | 2017-07-08 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-612-12/17-02/0005, urbroj: 567-06-17-02 od 4. srpnja 2017. | [`odluka/2017/1586/`](odluka/2017/1586/) | in force | 1 | 2017-07-04 | 2017-07-04 |
+| Odluku o troškovima mirenja pred Centrom za mirenje pri Hrvatskoj gospodarskoj komori u sporovima između korisnika platnih usluga koji su primatelji plaćanja i njihovih pružatelja platnih usluga koji se odnose na prava i obveze iz Uredbe (EU) 2015/751 i /ili Zakona o provedbi uredbi Europske unije iz područja platnog prometa (»Narodne novine«, br. 50/16.) | [`odluka/2017/1587/`](odluka/2017/1587/) | in force | 1 | 2017-06-26 | 2017-06-26 |
 | Odluka o naknadi troškova i nagradi arbitrima, članovima tijela sudišta i drugim sudionicima u postupcima arbitraže pred Stalnim arbitražnim sudištem pri Hrvatskoj gospodarskoj komori | [`odluka/2017/1588/`](odluka/2017/1588/) | in force | 1 | 2017-07-12 | 2017-07-12 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije modni tehničar u obrazovnom sektoru tekstil i koža | [`odluka/2017/1592/`](odluka/2017/1592/) | in force | 1 | 2017-07-21 | 2017-07-21 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije tehničar modelar obuće i kožne galanterije u obrazovnom sektoru tekstil i koža | [`odluka/2017/1595/`](odluka/2017/1595/) | in force | 1 | 2017-07-21 | 2017-07-21 |
+| Odluka o gradskim porezima Grada Solina | [`odluka/2017/1653/`](odluka/2017/1653/) | in force | 1 | 2017-08-01 | 2017-08-01 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju skijališta »Panos« u sklopu projekta Sportsko-rekreativnog centra »Bijeli Vrh« u k.o. Vrhovine | [`odluka/2017/1672/`](odluka/2017/1672/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju ZIP LINE 1 žičare u sklopu projekta Sportsko-rekreativnog centra »Bijeli Vrh« u k.o. Vrhovine i k.o. Rudopolje | [`odluka/2017/1673/`](odluka/2017/1673/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju ZIP LINE 3 žičare u sklopu projekta Sportsko-rekreativnog centra » Bijeli Vrh« u k.o. Rudopolje i k.o. Vrhovine | [`odluka/2017/1674/`](odluka/2017/1674/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju poslovne građevine ugostiteljsko-turističke namjene u sklopu projekta Sportsko-rekreativnog centra »Bijeli Vrh« u k.o. Vrhovine | [`odluka/2017/1675/`](odluka/2017/1675/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Odluka o održavanju »Tjedna borbe protiv tuberkuloze« u razdoblju od 1. do 8. kolovoza u 2017. godini | [`odluka/2017/1676/`](odluka/2017/1676/) | in force | 1 | 2017-07-13 | 2017-07-13 |
+| Odluka o davanju suglasnosti za sklapanje i provođenje pravnih poslova u okviru poziva Operativnog programa Konkurentnost i kohezija u financijskom razdoblju 2014. - 2020. »Promicanje održivog korištenja prirodne baštine u nacionalnim parkovima i parkovima prirode« | [`odluka/2017/1677/`](odluka/2017/1677/) | in force | 1 | 2017-07-13 | 2017-07-13 |
 | Odluka o izmjenama Odluke o donošenju popisa robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava | [`odluka/2017/1678/`](odluka/2017/1678/) | in force | 1 | 2017-07-27 | 2017-07-27 |
 | Odluka o izmjenama i dopunama Odluke o danima rodova, službi, struka i posebnih dijelova Oružanih snaga Republike Hrvatske | [`odluka/2017/1687/`](odluka/2017/1687/) | amending act | 1 | 2017-07-27 | 2017-07-27 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije tehničar za mehatroniku u obrazovnom sektoru elektrotehnika i računalstvo | [`odluka/2017/1703/`](odluka/2017/1703/) | in force | 1 | 2017-07-28 | 2017-07-28 |
+| Odluka o izboru potpredsjednika odbora za Hrvate izvan Republike Hrvatske Hrvatskoga sabora | [`odluka/2017/1721/`](odluka/2017/1721/) | in force | 1 | 2017-07-14 | 2017-07-14 |
+| Odluku o izboru potpredsjednika Odbora za prostorno uređenje i graditeljstvo Hrvatskoga sabora | [`odluka/2017/1723/`](odluka/2017/1723/) | in force | 1 | 2017-07-14 | 2017-07-14 |
 | Odluka o prestanku važenja Odluke o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Turskoj | [`odluka/2017/1732/`](odluka/2017/1732/) | in force | 1 | 2017-07-12 | 2017-07-12 |
+| Odluka o dopuni Odluke o razvrstavanju željezničkih pruga | [`odluka/2017/1749/`](odluka/2017/1749/) | amending act | 1 | 2017-07-20 | 2017-07-20 |
+| Odluka o uvjetima i načinu provedbe aktivnosti i načinu nalaganja mjera u svrhu provedbe sanacijskih ovlasti | [`odluka/2017/1779/`](odluka/2017/1779/) | repealed 2021-05-27 | 2 | 2017-08-03 | 2021-05-27 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Washingtonu | [`odluka/2017/1787/`](odluka/2017/1787/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Ujedinjenoj Kraljevini Velike Britanije i Sjeverne Irske, sa sjedištem u Londonu | [`odluka/2017/1788/`](odluka/2017/1788/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu | [`odluka/2017/1789/`](odluka/2017/1789/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske pri Organizaciji Sjevernoatlantskog ugovora, sa sjedištem u Bruxellesu | [`odluka/2017/1791/`](odluka/2017/1791/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Arapskoj Republici Egiptu, sa sjedištem u Kairu | [`odluka/2017/1792/`](odluka/2017/1792/) | in force | 1 | 2017-08-13 | 2017-08-13 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Helenskoj Republici, sa sjedištem u Ateni | [`odluka/2017/1793/`](odluka/2017/1793/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Kraljevini Maroku, sa sjedištem u Rabatu | [`odluka/2017/1794/`](odluka/2017/1794/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Mađarskoj sa sjedištem u Budimpešti | [`odluka/2017/1795/`](odluka/2017/1795/) | in force | 1 | 2017-09-16 | 2017-09-16 |
+| Odluka o postavljanju generalnog konzula Republike Hrvatske u Saveznoj Republici Njemačkoj, sa sjedištem u Düsseldorfu | [`odluka/2017/1796/`](odluka/2017/1796/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o postavljanju konzula Republike Hrvatske u Australiji, sa sjedištem u Perthu | [`odluka/2017/1797/`](odluka/2017/1797/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novi Vinodolski | [`odluka/2017/1803/`](odluka/2017/1803/) | in force | 1 | 2017-07-27 | 2017-07-27 |
+| Odluka o izmjenama Odluke o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2017. | [`odluka/2017/1805/`](odluka/2017/1805/) | in force | 1 | 2017-07-29 | 2017-07-29 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije prehrambeni tehničar u obrazovnom sektoru poljoprivreda, prehrana i veterina | [`odluka/2017/1820/`](odluka/2017/1820/) | in force | 1 | 2017-08-05 | 2017-08-05 |
+| Odluka o porezima Grada Buja - Buie | [`odluka/2017/1823/`](odluka/2017/1823/) | repealed 2020-01-01 | 2 | 2017-08-01 | 2020-01-01 |
+| Odluka o visini naknade za sklapanje braka izvan službenih prostorija izvan redovnog radnog vremena | [`odluka/2017/1904/`](odluka/2017/1904/) | repealed 2020-04-02 | 2 | 2017-07-24 | 2020-04-02 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije EKOLOŠKI TEHNIČAR u obrazovnom sektoru GEOLOGIJA, RUDARSTVO, NAFTA I KEMIJSKA TEHNOLOGIJA | [`odluka/2017/1907/`](odluka/2017/1907/) | in force | 1 | 2017-08-12 | 2017-08-12 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Francuskoj Republici, sa sjedištem u Parizu | [`odluka/2017/1917/`](odluka/2017/1917/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Indiji, sa sjedištem u New Delhiju | [`odluka/2017/1918/`](odluka/2017/1918/) | in force | 1 | 2017-07-26 | 2017-07-26 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatskeu Slovačkoj Republici, sa sjedištem u Bratislavi | [`odluka/2017/1919/`](odluka/2017/1919/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o sufinanciranju nabave udžbenika i pripadajućih dopunskih nastavnih sredstava za školsku godinu 2017./2018. | [`odluka/2017/1926/`](odluka/2017/1926/) | amending act | 1 | 2017-08-17 | 2017-08-17 |
+| Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola za školsku godinu 2017./2018. | [`odluka/2017/1927/`](odluka/2017/1927/) | in force | 1 | 2017-08-17 | 2017-08-17 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za digitalnu ekonomiju | [`odluka/2017/1928/`](odluka/2017/1928/) | in force | 1 | 2017-08-17 | 2017-08-17 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije PRODAVAČ u obrazovnom sektoru EKONOMIJA, TRGOVINA I POSLOVNA ADMINISTRACIJA | [`odluka/2017/1946/`](odluka/2017/1946/) | in force | 1 | 2017-08-17 | 2017-08-17 |
+| Odluka o donošenju standarda kvalifikacije za stjecanje kvalifikacije PRODAVAČ u obrazovnom sektoru EKONOMIJA, TRGOVINA I POSLOVNA ADMINISTRACIJA | [`odluka/2017/1947/`](odluka/2017/1947/) | in force | 1 | 2017-08-17 | 2017-08-17 |
+| Odluka o redu prvenstva korištenja voda iz tijela podzemnih voda s vodocrpilišta Utinja vrelo | [`odluka/2017/1949/`](odluka/2017/1949/) | in force | 1 | 2017-07-18 | 2017-07-18 |
+| Odluka o katastarskoj izmjeri na području Općine Podgora za dio katastarske općine Igrane | [`odluka/2017/1950/`](odluka/2017/1950/) | in force | 1 | 2017-08-10 | 2017-08-10 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije TEHNIČAR GEODEZIJE I GEOINFORMATIKE u obrazovnom sektoru GRADITELJSTVO I GEODEZIJA | [`odluka/2017/1964/`](odluka/2017/1964/) | in force | 1 | 2017-08-19 | 2017-08-19 |
+| Odluka o redu prvenstva korištenja voda iz bunara Jadreški | [`odluka/2017/1975/`](odluka/2017/1975/) | in force | 1 | 2017-06-21 | 2017-06-21 |
+| Odluka o redu prvenstva korištenja voda iz izvorišta Gradole | [`odluka/2017/1976/`](odluka/2017/1976/) | in force | 1 | 2017-06-21 | 2017-06-21 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije medijski tehničar u obrazovnom sektoru grafička tehnologija i audio-vizualno oblikovanje | [`odluka/2017/1993/`](odluka/2017/1993/) | in force | 1 | 2017-08-31 | 2017-08-31 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije tehničar za vozila i vozna sredstva u obrazovnom sektoru promet i logistika | [`odluka/2017/2002/`](odluka/2017/2002/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije tehničar za jahte i marine u obrazovnom sektoru promet i logistika | [`odluka/2017/2005/`](odluka/2017/2005/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije tehničar za poštanske i financijske usluge u obrazovnom sektoru promet i logistika | [`odluka/2017/2008/`](odluka/2017/2008/) | in force | 1 | 2017-09-01 | 2017-09-01 |
+| Odluka o raspisivanju dopunskih izbora za članove predstavničkih tijela jedinica lokalne samouprave iz reda pripadnika nacionalne manjine | [`odluka/2017/2013/`](odluka/2017/2013/) | amending act | 1 | 2017-08-31 | 2017-08-31 |
+| Odluka o donošenju Strategije prometnog razvoja Republike Hrvatske za razdoblje od 2017. do 2030. godine | [`odluka/2017/2014/`](odluka/2017/2014/) | in force | 1 | 2017-08-24 | 2017-08-24 |
+| Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o izmjeni Odluke o osnivanju Lučke uprave Umag - Novigrad | [`odluka/2017/2015/`](odluka/2017/2015/) | in force | 1 | 2017-08-24 | 2017-08-24 |
+| Odluka o prestanku važenja Odluke o osnivanju Međuresorne radne skupine za praćenje implementacije Preporuke Vijeća Europske unije - Garancija za mlade | [`odluka/2017/2016/`](odluka/2017/2016/) | in force | 1 | 2017-08-24 | 2017-08-24 |
+| Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2017. godini | [`odluka/2017/2017/`](odluka/2017/2017/) | in force | 1 | 2017-09-02 | 2017-09-02 |
+| Odluka o izmjenama i dopuni Odluke o davanju koncesije za osnivanje Slobodne zone Kukuljanovo | [`odluka/2017/2019/`](odluka/2017/2019/) | amending act | 1 | 2017-08-24 | 2017-08-24 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije strojarski računalni tehničar u obrazovnom sektoru strojarstvo, brodogradnja i metalurgija | [`odluka/2017/2024/`](odluka/2017/2024/) | in force | 1 | 2017-09-02 | 2017-09-02 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije agrotehničar u obrazovnom sektoru poljoprivreda, prehrana i veterina | [`odluka/2017/2028/`](odluka/2017/2028/) | in force | 1 | 2017-09-03 | 2017-09-03 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije drvodjeljski tehničar dizajner u obrazovnom sektoru šumarstvo, prerada i obrada drva | [`odluka/2017/2031/`](odluka/2017/2031/) | in force | 1 | 2017-09-03 | 2017-09-03 |
+| Odluka o donošenju standarda kvalifikacije za stjecanje kvalifikacije drvodjeljski tehničar dizajner u obrazovnom sektoru šumarstvo, prerada i obrada drva | [`odluka/2017/2032/`](odluka/2017/2032/) | in force | 1 | 2017-09-03 | 2017-09-03 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije web dizajner u obrazovnom sektoru grafička tehnologija i audio-vizualno oblikovanje | [`odluka/2017/2034/`](odluka/2017/2034/) | in force | 1 | 2017-09-03 | 2017-09-03 |
+| Odluka o donošenju standarda zanimanja za stjecanje kvalifikacije ekonomist u obrazovnom sektoru ekonomija, trgovina i poslovna administracija | [`odluka/2017/2037/`](odluka/2017/2037/) | in force | 1 | 2017-09-03 | 2017-09-03 |
+| Odluka o donošenju standarda kvalifikacije za stjecanje kvalifikacije ekonomist u obrazovnom sektoru ekonomija, trgovina i poslovna administracija | [`odluka/2017/2038/`](odluka/2017/2038/) | in force | 1 | 2017-09-03 | 2017-09-03 |
+| Odluka o visini osnovice za obračun plaće u javnim službama | [`odluka/2017/2076/`](odluka/2017/2076/) | in force | 1 | 2017-09-01 | 2017-09-01 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2017. | [`odluka/2017/2081/`](odluka/2017/2081/) | in force | 1 | 2017-09-08 | 2017-09-08 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2017. | [`odluka/2017/2082/`](odluka/2017/2082/) | in force | 1 | 2017-09-08 | 2017-09-08 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2017. | [`odluka/2017/2083/`](odluka/2017/2083/) | in force | 1 | 2017-09-08 | 2017-09-08 |
+| Odluka o prestanku smanjenja mirovina, odnosno dodatka mirovini prema članku 3.a Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju | [`odluka/2017/2090/`](odluka/2017/2090/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka o raspodjeli sredstava za financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini iz sredstava Državnog proračuna Republike Hrvatske za 2017. godinu | [`odluka/2017/2092/`](odluka/2017/2092/) | in force | 1 | 2017-08-31 | 2017-08-31 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Malti, sa sjedištem u Valletti | [`odluka/2017/2144/`](odluka/2017/2144/) | in force | 1 | 2017-08-30 | 2017-08-30 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Livnu | [`odluka/2017/2145/`](odluka/2017/2145/) | in force | 1 | 2017-09-05 | 2017-09-05 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Vitezu | [`odluka/2017/2146/`](odluka/2017/2146/) | in force | 1 | 2017-09-05 | 2017-09-05 |
+| Odluka o izmjeni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Bosni i Hercegovini, sa sjedištem u Mostaru | [`odluka/2017/2147/`](odluka/2017/2147/) | in force | 1 | 2017-09-05 | 2017-09-05 |
+| Odluka o sudjelovanju Republike Hrvatske u 18-oj nadopuni sredstava Međunarodnog udruženja za razvoj (IDA) | [`odluka/2017/2163/`](odluka/2017/2163/) | in force | 1 | 2017-09-14 | 2017-09-14 |
+| Odluka o puštanju u optjecaj novčanice od 50 kuna s datumom izdanja 9. srpnja 2012. | [`odluka/2017/2168/`](odluka/2017/2168/) | in force | 1 | 2017-09-16 | 2017-09-16 |
+| Odluka o izmjeni Odluke o osnivanju Vijeća za domovinsku sigurnost Predsjednice Republike Hrvatske | [`odluka/2017/2172/`](odluka/2017/2172/) | in force | 1 | 2017-09-15 | 2017-09-15 |
+| Odluka o prestanku važenja Odluke o unutardnevnom kreditu | [`odluka/2017/2190/`](odluka/2017/2190/) | in force | 1 | 2017-09-28 | 2017-09-28 |
+| Odluka o donošenju Strategije Nacionalne infrastrukture prostornih podataka 2020. i Strateškog plana Nacionalne infrastrukture prostornih podataka za razdoblje 2017. - 2020. | [`odluka/2017/2205/`](odluka/2017/2205/) | in force | 1 | 2017-09-22 | 2017-09-22 |
+| Odluka o donošenju Nacionalne strategije zaštite od nasilja u obitelji, za razdoblje od 2017. do 2022. godine | [`odluka/2017/2206/`](odluka/2017/2206/) | in force | 1 | 2017-09-22 | 2017-09-22 |
+| Odluka o pokretanju postupaka za ustrojavanje diplomskih sveučilišnih studija, integriranih preddiplomskih i diplomskih sveučilišnih studija te poslijediplomskih studija za potrebe Oružanih snaga Republike Hrvatske | [`odluka/2017/2207/`](odluka/2017/2207/) | in force | 1 | 2017-10-05 | 2017-10-05 |
+| Odluka o davanju naknadne suglasnosti na Izmjenu i dopunu Statuta Hrvatskoga zavoda za zapošljavanje | [`odluka/2017/2208/`](odluka/2017/2208/) | amending act | 1 | 2017-09-22 | 2017-09-22 |
+| Odluka o davanju suglasnosti na Odluku Skupštine Istarske županije o izmjeni i dopuni Odluke o osnivanju Lučke uprave Rabac | [`odluka/2017/2209/`](odluka/2017/2209/) | amending act | 1 | 2017-09-22 | 2017-09-22 |
+| Odluka o donošenju Strategije socijalne skrbi za starije osobe u Republici Hrvatskoj za razdoblje od 2017. do 2020. godine | [`odluka/2017/2236/`](odluka/2017/2236/) | in force | 1 | 2017-09-28 | 2017-09-28 |
+| Odluka o donošenju Programa mjera zaštite i upravljanja morskim okolišem i obalnim područjem Republike Hrvatske | [`odluka/2017/2237/`](odluka/2017/2237/) | in force | 1 | 2017-09-28 | 2017-09-28 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0011 od 13. rujna 2017. | [`odluka/2017/2241/`](odluka/2017/2241/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0012 od 13. rujna 2017. | [`odluka/2017/2242/`](odluka/2017/2242/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0013 od 13. rujna 2017. | [`odluka/2017/2243/`](odluka/2017/2243/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0014 od 13. rujna 2017. | [`odluka/2017/2244/`](odluka/2017/2244/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0015 od 13. rujna 2017. | [`odluka/2017/2245/`](odluka/2017/2245/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0016 od 13. rujna 2017. | [`odluka/2017/2246/`](odluka/2017/2246/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0017 od 13. rujna 2017. | [`odluka/2017/2247/`](odluka/2017/2247/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0018 od 13. rujna 2017. | [`odluka/2017/2248/`](odluka/2017/2248/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0019 od 13. rujna 2017. | [`odluka/2017/2249/`](odluka/2017/2249/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0020 od 13. rujna 2017. | [`odluka/2017/2250/`](odluka/2017/2250/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0021 od 13. rujna 2017. | [`odluka/2017/2251/`](odluka/2017/2251/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0022 od 13. rujna 2017. | [`odluka/2017/2252/`](odluka/2017/2252/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0023 od 13. rujna 2017. | [`odluka/2017/2253/`](odluka/2017/2253/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0024 od 13. rujna 2017. | [`odluka/2017/2254/`](odluka/2017/2254/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0025 od 13. rujna 2017. | [`odluka/2017/2255/`](odluka/2017/2255/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0026 od 13. rujna 2017. | [`odluka/2017/2256/`](odluka/2017/2256/) | in force | 1 | 2017-10-01 | 2017-10-01 |
+| Odluka o katastarskoj izmjeri na području Općine Legrad za katastarsku općinu Kutnjak | [`odluka/2017/2257/`](odluka/2017/2257/) | in force | 1 | 2017-09-30 | 2017-09-30 |
+| Odluka o katastarskoj izmjeri na području Općine Đelekovec za katastarsku općinu Đelekovec | [`odluka/2017/2258/`](odluka/2017/2258/) | in force | 1 | 2017-09-30 | 2017-09-30 |
+| Odluka o katastarskoj izmjeri na području Općine Perušić za dijelove katastarskih općina Perušić 1, Konjsko Brdo i Kvarte | [`odluka/2017/2259/`](odluka/2017/2259/) | in force | 1 | 2017-09-30 | 2017-09-30 |
+| Odluka o otpisu potraživanja s naslova najma stambenih jedinica u vlasništvu Republike Hrvatske kojima upravlja Središnji državni ured za obnovu i stambeno zbrinjavanje | [`odluka/2017/2277/`](odluka/2017/2277/) | in force | 1 | 2017-10-07 | 2017-10-07 |
+| Odluka o usvajanju Jamstvenog programa »Poljoprivrednici« | [`odluka/2017/2278/`](odluka/2017/2278/) | in force | 1 | 2017-10-05 | 2017-10-05 |
+| Odluka o davanju prethodne suglasnosti Ministarstvu mora, prometa i infrastrukture za angažiranje fizičke ili pravne osobe za obavljanje poslova odnosa s javnošću i upravljanja komunikacijama radi informiranja javnosti o gospodarski i financijski značajnim projektima koji se planiraju financirati sredstvima Europske unije u okviru Operativnog programa »Konkurentnost i kohezija« 2014. - 2020. i Instrumenta za povezivanje Europe - CEF, a za koje postoji izniman javni interes | [`odluka/2017/2279/`](odluka/2017/2279/) | in force | 1 | 2017-10-05 | 2017-10-05 |
+| Odluka o katastarskoj izmjeri na području Grada Lipika za katastarsku općinu Brekinska | [`odluka/2017/2282/`](odluka/2017/2282/) | in force | 1 | 2017-10-07 | 2017-10-07 |
+| Odluka o katastarskoj izmjeri na području Općine Gornja Rijeka za dio katastarske općine Gornja Rijeka | [`odluka/2017/2283/`](odluka/2017/2283/) | in force | 1 | 2017-10-07 | 2017-10-07 |
+| Odluka o katastarskoj izmjeri na području Grada Pakraca za katastarske općine Pakrac i Prekopakra | [`odluka/2017/2310/`](odluka/2017/2310/) | in force | 1 | 2017-10-12 | 2017-10-12 |
+| Odluka o izboru tri suca Ustavnog suda Republike Hrvatske | [`odluka/2017/2323/`](odluka/2017/2323/) | in force | 1 | 2017-10-13 | 2017-10-13 |
+| Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u vezi okolnosti nastanka poslovnog koncerna Agrokor, njegove današnje pozicije na tržištu, nastanka njegovih poslovnih problema, a posebno dugovanja prema dobavljačima te ostalim vjerovnicima, uloge regulatora na tržištima vezano za Agrokorove poslovne aktivnosti i okolnosti koje su dovele do aktivnosti Vlade Republike Hrvatske prema Agrokoru odnosno prijedloga mogućih rješenja za situaciju u kojoj se Agrokor našao | [`odluka/2017/2344/`](odluka/2017/2344/) | in force | 1 | 2017-10-11 | 2017-10-11 |
+| Odluka o osnivanju Povjerenstva za gospodarske osnove | [`odluka/2017/2369/`](odluka/2017/2369/) | in force | 1 | 2017-10-20 | 2017-10-20 |
+| Odluka o katastarskoj izmjeri na području Općine Punitovci za katastarsku općinu Punitovci | [`odluka/2017/2373/`](odluka/2017/2373/) | in force | 1 | 2017-10-21 | 2017-10-21 |
+| Odluka o katastarskoj izmjeri na području Grada Našica za k.o. Martin i dijelove k.o. Pribiševci i Našice | [`odluka/2017/2374/`](odluka/2017/2374/) | in force | 1 | 2017-10-21 | 2017-10-21 |
+| Odluka o katastarskoj izmjeri na području Općine Brestovac za katastarske općine Daranovci i Zakorenje | [`odluka/2017/2375/`](odluka/2017/2375/) | in force | 1 | 2017-10-21 | 2017-10-21 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Trondheimu | [`odluka/2017/2385/`](odluka/2017/2385/) | in force | 1 | 2017-10-16 | 2017-10-16 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Bergenu | [`odluka/2017/2386/`](odluka/2017/2386/) | in force | 1 | 2017-10-16 | 2017-10-16 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Tromsøu | [`odluka/2017/2387/`](odluka/2017/2387/) | in force | 1 | 2017-10-16 | 2017-10-16 |
+| Odluka o postavljanju počasnog konzula Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Tromsøu | [`odluka/2017/2388/`](odluka/2017/2388/) | in force | 1 | 2017-10-16 | 2017-10-16 |
+| Odluka o postavljanju počasnog konzula Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Bergenu | [`odluka/2017/2389/`](odluka/2017/2389/) | in force | 1 | 2017-10-16 | 2017-10-16 |
+| Odluka o postavljanju počasne konzulice Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Trondheimu | [`odluka/2017/2390/`](odluka/2017/2390/) | in force | 1 | 2017-10-16 | 2017-10-16 |
+| Odluka o prestanku važenja Pravilnika o obrascima za dostavljanje statističkih podataka tijelima koja obavljaju poslove državne statistike | [`odluka/2017/2412/`](odluka/2017/2412/) | in force | 1 | 2017-11-04 | 2017-11-04 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju dječjeg vrtića u naselju Pirovac | [`odluka/2017/2462/`](odluka/2017/2462/) | in force | 1 | 2017-11-11 | 2017-11-11 |
+| Odluka o davanju suglasnosti na Odluku Županijske skupštine Zadarske županije o izmjenama Odluke o osnivanju Lučke uprave za luke županijskog i lokalnog značaja | [`odluka/2017/2463/`](odluka/2017/2463/) | in force | 1 | 2017-11-02 | 2017-11-02 |
+| Odluka o izmjenama Odluke o naknadama i nagradi za rad predsjednika i članova Državnog sudbenog vijeća | [`odluka/2017/2464/`](odluka/2017/2464/) | in force | 1 | 2017-11-11 | 2017-11-11 |
 | Odluka o izmjenama Odluke o naknadama i nagradi za rad predsjednika i članova Državnoodvjetničkog vijeća | [`odluka/2017/2465/`](odluka/2017/2465/) | in force | 1 | 2017-11-11 | 2017-11-11 |
+| Odluka o izmjenama Odluke o porezima Općine Pisarovina | [`odluka/2017/2483/`](odluka/2017/2483/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Pisarovina za katastarsku općinu Lučelnica | [`odluka/2017/2518/`](odluka/2017/2518/) | in force | 1 | 2017-11-09 | 2017-11-09 |
+| Odluka o davanju naknadne suglasnosti na Statut Agencije za osiguranje radničkih tražbina | [`odluka/2017/2545/`](odluka/2017/2545/) | in force | 1 | 2017-11-09 | 2017-11-09 |
+| Odluka o izmjenama i dopunama Odluke o uvjetima za otvaranje i funkcioniranje namjenskoga novčanog računa (DCA) u sustavu TARGET2-HR | [`odluka/2017/2562/`](odluka/2017/2562/) | amending act | 1 | 2017-11-13 | 2017-11-13 |
+| Odluka o katastarskoj izmjeri na području Općine Plitvička Jezera za katastarske općine Prijeboj i Plitvička Jezera | [`odluka/2017/2596/`](odluka/2017/2596/) | in force | 1 | 2017-11-16 | 2017-11-16 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Francuskoj Republici | [`odluka/2017/2620/`](odluka/2017/2620/) | in force | 1 | 2017-11-13 | 2017-11-13 |
+| Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici | [`odluka/2017/2621/`](odluka/2017/2621/) | in force | 1 | 2017-11-13 | 2017-11-13 |
+| Odluka o izmjeni Odluke o osnivanju Međuresorne radne skupine za osiguravanje ulaska Republike Hrvatske u schengenski prostor i uspostavu praćenja rada i evaluacije primjene schengenske pravne stečevine te radnih skupina za pojedina područja | [`odluka/2017/2622/`](odluka/2017/2622/) | in force | 1 | 2017-11-16 | 2017-11-16 |
+| Odluka o lokalnim porezima Općine Končanica | [`odluka/2017/2628/`](odluka/2017/2628/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2017. godinu i projekcija plana za 2018. i 2019. godinu | [`odluka/2017/2637/`](odluka/2017/2637/) | amending act | 1 | 2017-11-19 | 2017-11-19 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih cesta za 2017. godinu i projekcija plana za 2018. i 2019. godinu | [`odluka/2017/2638/`](odluka/2017/2638/) | amending act | 1 | 2017-11-19 | 2017-11-19 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Centra za restrukturiranje i prodaju za 2017. godinu i projekcija plana za 2018. i 2019. godinu | [`odluka/2017/2639/`](odluka/2017/2639/) | amending act | 1 | 2017-11-19 | 2017-11-19 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2017. godinu i projekcija plana za 2018. i 2019. godinu | [`odluka/2017/2640/`](odluka/2017/2640/) | amending act | 1 | 2017-11-19 | 2017-11-19 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2017. godinu i projekcija plana za 2018. i 2019. godinu | [`odluka/2017/2641/`](odluka/2017/2641/) | amending act | 1 | 2017-11-19 | 2017-11-19 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zdravstveno osiguranje za 2017. godinu i projekcija plana za 2018. i 2019. godinu | [`odluka/2017/2642/`](odluka/2017/2642/) | amending act | 1 | 2017-11-19 | 2017-11-19 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0062 od 2. studenoga 2017. | [`odluka/2017/2683/`](odluka/2017/2683/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka Ministarstva znanosti i obrazovanja, klasa: 602-01/16-03/00226, urbroj: 533-20-17-0063 od 2. studenoga 2017. | [`odluka/2017/2684/`](odluka/2017/2684/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o izmjeni Odluke o nagradama i naknadi troškova sucima i drugim osobama u postupku pred Sudom časti pri Hrvatskoj gospodarskoj komori | [`odluka/2017/2693/`](odluka/2017/2693/) | in force | 1 | 2017-12-02 | 2017-12-02 |
+| Odluka o izmjenama Odluke o porezima Općine Staro Petrovo Selo | [`odluka/2017/2699/`](odluka/2017/2699/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Kolan za dio katastarske općine Kolan | [`odluka/2017/2711/`](odluka/2017/2711/) | in force | 1 | 2017-11-30 | 2017-11-30 |
+| Odluka o katastarskoj izmjeri na području Općine Bibinje za dio katastarske općine Bibinje | [`odluka/2017/2712/`](odluka/2017/2712/) | in force | 1 | 2017-11-30 | 2017-11-30 |
+| Odluka o katastarskoj izmjeri na području Općine Sveti Filip i Jakov za katastarsku općinu Turanj | [`odluka/2017/2713/`](odluka/2017/2713/) | in force | 1 | 2017-11-30 | 2017-11-30 |
+| Odluka o izmjeni Odluke o nazivima i uvjetima za radna mjesta, poslovima koji se na njima obavljaju te koeficijentima složenosti poslova u ustavnom sudu Republike Hrvatske | [`odluka/2017/2715/`](odluka/2017/2715/) | in force | 1 | 2017-12-07 | 2017-12-07 |
+| Odluka o izmjenama i dopunama Odluke o općinskim porezima Općine Gornji Kneginec | [`odluka/2017/2717/`](odluka/2017/2717/) | amending act | 1 | 2017-12-07 | 2017-12-07 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici i Republici San Marinu | [`odluka/2017/2720/`](odluka/2017/2720/) | in force | 1 | 2017-11-22 | 2017-11-22 |
+| Odluka o isplati materijalnih prava i drugih naknada i o visini osnovice za obračun plaće u javnim službama | [`odluka/2017/2722/`](odluka/2017/2722/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Grada Obrovca za katastarsku općinu Kruševo | [`odluka/2017/2723/`](odluka/2017/2723/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Pakoštane za katastarsku općinu Pakoštane | [`odluka/2017/2724/`](odluka/2017/2724/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Pašman za katastarsku općinu Pašman | [`odluka/2017/2725/`](odluka/2017/2725/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Stankovci za katastarsku općinu Stankovci | [`odluka/2017/2726/`](odluka/2017/2726/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Jasenice za katastarsku općinu Zaton Obrovački | [`odluka/2017/2727/`](odluka/2017/2727/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o katastarskoj izmjeri na području Općine Lišane Ostrovičke za dio katastarske općine Lišane Ostrovičke i dio katastarske općine Vukšić | [`odluka/2017/2728/`](odluka/2017/2728/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o dopuni Odluke o donošenju Nastavnoga plana i programa za srednje glazbene škole, Nastavnoga plana i programa funkcionalne muzičke pedagogije (FMP) za srednje škole, Nastavnoga plana i programa za klasični balet i narodne plesove za srednje škole i Nastavnoga plana i programa za zanimanje Scenski plesač | [`odluka/2017/2769/`](odluka/2017/2769/) | amending act | 1 | 2017-12-14 | 2017-12-14 |
+| Odluka o izmjenama Odluke o porezima Općine Barban | [`odluka/2017/2774/`](odluka/2017/2774/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o izmjeni Odluke o općinskim porezima Općine Gunja | [`odluka/2017/2796/`](odluka/2017/2796/) | in force | 1 | 2017-12-16 | 2017-12-16 |
+| Odluka o gradskim porezima Grada Jastrebarskog | [`odluka/2017/2806/`](odluka/2017/2806/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o prestanku važenja Odluke o uvođenju naplate cestarine za uporabu tunela Sveti Ilija | [`odluka/2017/2821/`](odluka/2017/2821/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 2018. godinu | [`odluka/2017/2844/`](odluka/2017/2844/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o dodjeli Državne nagrade za humanitarni rad u 2017. godini | [`odluka/2017/2845/`](odluka/2017/2845/) | in force | 1 | 2017-12-12 | 2017-12-12 |
+| Odluka o rasporedu sredstava za interventne zahvate prema posebnom nalogu ministra županijskim upravama za ceste u 2017. godini | [`odluka/2017/2847/`](odluka/2017/2847/) | in force | 1 | 2017-12-13 | 2017-12-13 |
+| Odluka o izmjenama i dopunama Odluke o postupku procjenjivanja adekvatnosti internoga kapitala kreditne institucije | [`odluka/2017/2864/`](odluka/2017/2864/) | amending act | 1 | 2017-12-26 | 2017-12-26 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. siječnja do 31. ožujka 2018. godine | [`odluka/2017/2887/`](odluka/2017/2887/) | in force | 1 | 2018-01-01 | 2018-01-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Republici Nigeriji, sa sjedištem u Londonu | [`odluka/2017/2898/`](odluka/2017/2898/) | in force | 1 | 2017-12-01 | 2017-12-01 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Saveznoj Demokratskoj Republici Etiopiji, sa sjedištem u Kairu | [`odluka/2017/2899/`](odluka/2017/2899/) | in force | 1 | 2017-12-01 | 2017-12-01 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Tunisu, sa sjedištem u Rabatu | [`odluka/2017/2900/`](odluka/2017/2900/) | in force | 1 | 2017-12-01 | 2017-12-01 |
+| Odluka o najvišem postotku naknade depozitaru za 2018. godinu | [`odluka/2017/2933/`](odluka/2017/2933/) | in force | 1 | 2017-12-22 | 2017-12-22 |
+| Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2018. iz doznaka obveznog mirovinskog fonda | [`odluka/2017/2934/`](odluka/2017/2934/) | in force | 1 | 2017-12-29 | 2017-12-29 |
+| Odluka o izmjenama Odluke o gradskim porezima Grada Drniša | [`odluka/2017/2935/`](odluka/2017/2935/) | in force | 1 | 2017-12-29 | 2017-12-29 |
+| Odluka o izmjenama Odluke o gradskim porezima Grada Ozlja | [`odluka/2017/2937/`](odluka/2017/2937/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o donošenju Strategije procjene učinaka propisa za razdoblje od 2018. do 2023. godine | [`odluka/2017/2954/`](odluka/2017/2954/) | in force | 1 | 2017-12-21 | 2017-12-21 |
+| Odluka o otpisu potraživanja za stanove, poslovne prostore i garaže u vlasništvu Republike Hrvatske | [`odluka/2017/2955/`](odluka/2017/2955/) | in force | 1 | 2017-12-30 | 2017-12-30 |
+| Odluka o osnivanju Nacionalnog povjerenstva za upravljanje zračnim prostorom | [`odluka/2017/2958/`](odluka/2017/2958/) | repealed 2022-05-19 | 2 | 2017-12-21 | 2022-05-19 |
+| Odluka o davanju odobrenja Gradu Murskom Središću za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Pannon Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću« i odobrenju Konvencije | [`odluka/2017/2961/`](odluka/2017/2961/) | in force | 1 | 2017-12-21 | 2017-12-21 |
+| Odluka o davanju odobrenja općinama Legrad, Sveta Marija i Orehovica za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Regija Mura - Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću« i odobrenju Konvencije | [`odluka/2017/2962/`](odluka/2017/2962/) | in force | 1 | 2017-12-21 | 2017-12-21 |
+| Odluka o izmjenama Odluke o lokalnim porezima Grada Iloka | [`odluka/2017/2976/`](odluka/2017/2976/) | repealed 2019-07-01 | 2 | 2018-01-01 | 2019-07-01 |
+| Odluka o izmjenama Odluke o visini naknada za tehnički pregled i druge poslove koji se obavljaju u stanicama za tehničke preglede vozila | [`odluka/2017/2995/`](odluka/2017/2995/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o gradskim porezima Grada Lipika | [`odluka/2017/2999/`](odluka/2017/2999/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o izmjenama općinskih poreza Općine Nova Kapela | [`odluka/2017/3007/`](odluka/2017/3007/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o prestanku važenja Odluke o obavljanju poslova odnosa s javnošću | [`odluka/2017/3019/`](odluka/2017/3019/) | in force | 1 | 2017-12-28 | 2017-12-28 |
+| Odluka o osnivanju Povjerenstva za rješavanje mogućih prometnih problema na graničnom prijelazu Metković | [`odluka/2017/3024/`](odluka/2017/3024/) | in force | 1 | 2017-12-28 | 2017-12-28 |
+| Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2017. godinu | [`odluka/2017/3025/`](odluka/2017/3025/) | amending act | 1 | 2017-12-28 | 2017-12-28 |
+| Odluka o indikativnim iznosima tarifnih stavki za transport plina | [`odluka/2017/3049/`](odluka/2017/3049/) | repealed 2018-06-21 | 2 | 2017-12-30 | 2018-06-21 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja »2018.« | [`odluka/2017/3055/`](odluka/2017/3055/) | in force | 1 | 2017-12-30 | 2017-12-30 |
+| Odluka o prirezu poreza na dohodak Grada Hrvatske Kostajnice | [`odluka/2017/3062/`](odluka/2017/3062/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o izmjenama Odluke o porezima Grada Virovitice | [`odluka/2017/3066/`](odluka/2017/3066/) | in force | 1 | 2018-01-01 | 2018-01-01 |
+| Odluka o izmjeni Odluke o općinskim porezima Općine Gundinci | [`odluka/2017/3075/`](odluka/2017/3075/) | in force | 1 | 2018-01-06 | 2018-01-06 |
 | Odluka o troškovima Komisije za nadzor rada i reviziju ovlaštenja ovlaštenih osoba za poslove zaštite na radu | [`odluka/2018/31/`](odluka/2018/31/) | in force | 1 | 2018-01-11 | 2018-01-11 |
 | Odluka o izmjeni Odluke o načinu otvaranja transakcijskih računa | [`odluka/2018/38/`](odluka/2018/38/) | in force | 1 | 2018-01-03 | 2018-01-03 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Libanonskoj Republici, sa sjedištem u Kairu | [`odluka/2018/46/`](odluka/2018/46/) | in force | 1 | 2017-12-21 | 2017-12-21 |
@@ -5268,7 +5541,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2239, of which 717 amending acts)
+## pravilnik (2266, of which 721 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5661,8 +5934,35 @@
 | Pravilnik o priznavanju inozemne stručne kvalifikacije za obavljanje poslova revizije | [`pravilnik/2016/1633/`](pravilnik/2016/1633/) | in force | 1 | 2016-07-28 | 2016-07-28 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2016. godinu | [`pravilnik/2016/1760/`](pravilnik/2016/1760/) | amending act | 1 | 2016-08-25 | 2016-08-25 |
 | Pravilnik o izmjenama i dopunama Pravilnika o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2016/1947/`](pravilnik/2016/1947/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o međusobnim odnosima jedinica područne (regionalne) samouprave i pravne osobe iz članka 46. stavka 4. Zakona o lokalnim porezima | [`pravilnik/2017/10/`](pravilnik/2017/10/) | in force | 1 | 2017-01-03 | 2017-01-03 |
+| Pravilnik o izmjeni Pravilnika o postupku ostvarivanja oslobođenja od plaćanja poreza za diplomatska i konzularna predstavništva, institucije i tijela Europske unije te međunarodne organizacije | [`pravilnik/2017/12/`](pravilnik/2017/12/) | in force | 1 | 2017-01-03 | 2017-01-03 |
 | Pravilnik o dopuni Pravilnika o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o stipendiranju | [`pravilnik/2017/179/`](pravilnik/2017/179/) | amending act | 1 | 2017-01-19 | 2017-01-19 |
 | Pravilnik o izmjenama i dopunama Pravilnika o odobrenju osnivanja i statuta obveznog mirovinskog fonda i o informativnom prospektu obveznog mirovinskog fonda | [`pravilnik/2017/862/`](pravilnik/2017/862/) | amending act | 1 | 2017-05-01 | 2017-05-01 |
+| Pravilnik o izmjenama Pravilnika o lovostaju | [`pravilnik/2017/1033/`](pravilnik/2017/1033/) | in force | 1 | 2017-05-13 | 2017-05-13 |
+| Pravilnik o izmjenama Pravilnika o stručnoj službi za provedbu lovnogospodarske osnove | [`pravilnik/2017/1035/`](pravilnik/2017/1035/) | in force | 1 | 2017-05-13 | 2017-05-13 |
+| Pravilnik o zaštiti i korištenju arhivskoga i registraturnoga gradiva Ministarstva obrane i Oružanih snaga Republike Hrvatske | [`pravilnik/2017/1059/`](pravilnik/2017/1059/) | in force | 1 | 2017-05-18 | 2017-05-18 |
+| Pravilnik o izmjeni Pravilnika o minimalnim uvjetima za obavljanje provjera identiteta i zdravstvenog stanja bilja, biljnih proizvoda i drugih nadziranih predmeta koji se unose iz trećih zemalja, kad se te provjere obavljaju na mjestima koja nisu mjesta ulaska | [`pravilnik/2017/1060/`](pravilnik/2017/1060/) | in force | 1 | 2017-05-18 | 2017-05-18 |
+| Pravilnik o izmjenama i dopuni Pravilnika o provedbi izravne potpore poljoprivredi i IAKS mjera ruralnog razvoja za 2017. godinu | [`pravilnik/2017/1085/`](pravilnik/2017/1085/) | amending act | 1 | 2017-05-13 | 2017-05-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele | [`pravilnik/2017/1104/`](pravilnik/2017/1104/) | amending act | 1 | 2017-05-25 | 2017-05-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci | [`pravilnik/2017/1105/`](pravilnik/2017/1105/) | amending act | 1 | 2017-05-25 | 2017-05-25 |
+| Pravilnik o izmjenama Pravilnika o medu | [`pravilnik/2017/1107/`](pravilnik/2017/1107/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+| Pravilnik o izmjeni Pravilnika o sadržaju i obliku obrasca za prijavu djelatnosti uvoza, proizvodnje i distribucije materijala i predmeta koji dolaze u neposredni dodir s hranom | [`pravilnik/2017/1110/`](pravilnik/2017/1110/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+| Pravilnik o sadržaju zahtjeva za dobivanje suglasnosti za početak ili prestanak rada ili razgradnju nuklearnog postrojenja | [`pravilnik/2017/1112/`](pravilnik/2017/1112/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+| Pravilnik o statusnim promjenama društva za upravljanje UCITS fondovima | [`pravilnik/2017/1117/`](pravilnik/2017/1117/) | in force | 1 | 2017-05-25 | 2017-05-25 |
+| Pravilnik o ustroju i načinu rada područnih vijeća i matičnih odbora | [`pravilnik/2017/1118/`](pravilnik/2017/1118/) | repealed 2024-01-06 | 2 | 2017-05-17 | 2024-01-06 |
+| Pravilnik o izmjenama i dopuni Pravilnika o priznavanju i potporama za početak rada proizvođačkih organizacija | [`pravilnik/2017/1128/`](pravilnik/2017/1128/) | amending act | 1 | 2017-06-01 | 2017-06-01 |
+| Pravilnik o priznavanju inozemnih stručnih kvalifikacija iz područja športa | [`pravilnik/2017/1130/`](pravilnik/2017/1130/) | repealed 2023-08-12 | 2 | 2017-06-01 | 2023-08-12 |
+| Pravilnik o nositeljima, sadržaju i postupcima izrade planskih dokumenata u civilnoj zaštiti te načinu informiranja javnosti u postupku njihovog donošenja | [`pravilnik/2017/1131/`](pravilnik/2017/1131/) | repealed 2021-06-24 | 2 | 2017-06-01 | 2021-06-24 |
+| Pravilnik o izmjeni Pravilnika o ulovu i prometu igluna (Xiphias gladius) | [`pravilnik/2017/1163/`](pravilnik/2017/1163/) | in force | 1 | 2017-06-01 | 2017-06-01 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potprore u okviru Mjere III.1. »Pripremna potpora« | [`pravilnik/2017/1164/`](pravilnik/2017/1164/) | in force | 1 | 2017-06-01 | 2017-06-01 |
+| Pravilnik o ostvarivanju oslobođenja od carina | [`pravilnik/2017/1185/`](pravilnik/2017/1185/) | in force | 1 | 2017-06-10 | 2017-06-10 |
+| Pravilnik o odgovarajućem smještaju | [`pravilnik/2017/1187/`](pravilnik/2017/1187/) | repealed 2019-03-30 | 2 | 2017-06-10 | 2019-03-30 |
+| Pravilnik o uvjetima i načinu isplate novčane naknade u jednokratnom iznosu | [`pravilnik/2017/1188/`](pravilnik/2017/1188/) | repealed 2019-03-30 | 2 | 2017-06-10 | 2019-03-30 |
+| Pravilnik o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troškova | [`pravilnik/2017/1189/`](pravilnik/2017/1189/) | repealed 2019-03-30 | 2 | 2017-06-10 | 2019-03-30 |
+| Pravilnik o aktivnom traženju posla i raspoloživosti za rad | [`pravilnik/2017/1191/`](pravilnik/2017/1191/) | repealed 2019-03-30 | 2 | 2017-06-10 | 2019-03-30 |
+| Pravilnik o izmjenama Pravilnika o postupku izbora radničkog vijeća | [`pravilnik/2017/1192/`](pravilnik/2017/1192/) | in force | 1 | 2017-06-10 | 2017-06-10 |
+| Pravilnik o izmjeni Pravilnika o postupku izbora predstavnika radnika iz Republike Hrvatske u pregovarački odbor i u vijeće radnika europskog društva i europske zadruge | [`pravilnik/2017/1193/`](pravilnik/2017/1193/) | in force | 1 | 2017-06-10 | 2017-06-10 |
+| Pravilnik o izmjeni Pravilnika o postupku izbora predstavnika radnika iz Republike Hrvatske u pregovarački odbor i u europsko radničko vijeće | [`pravilnik/2017/1194/`](pravilnik/2017/1194/) | in force | 1 | 2017-06-10 | 2017-06-10 |
 | Pravilnik o izmjenama i dopunama Pravilnika o minimalnim standardima, načinu obračuna i mjerilima za izračun tehničkih pričuva prema računovodstvenim propisima | [`pravilnik/2017/1324/`](pravilnik/2017/1324/) | amending act | 1 | 2017-06-29 | 2017-06-29 |
 | Pravilnik o Registru prekršaja u morskom ribarstvu | [`pravilnik/2017/1531/`](pravilnik/2017/1531/) | in force | 1 | 2017-07-08 | 2017-07-08 |
 | Pravilnik o izmjeni Pravilnika o provedbi tipa operacije 6.2.1. »Potpora ulaganju u pokretanje nepoljoprivrednih djelatnosti u ruralnim područjima« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2018/29/`](pravilnik/2018/29/) | in force | 1 | 2018-01-04 | 2018-01-04 |
