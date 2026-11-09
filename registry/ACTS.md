@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10207 acts, 10,457 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10428 acts, 10,699 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (56, of which 12 amending acts)
 
@@ -5983,7 +5983,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2637, of which 854 amending acts)
+## pravilnik (2781, of which 913 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6366,10 +6366,83 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na osposobljavanje za samostalan život i rad | [`pravilnik/1999/2266/`](pravilnik/1999/2266/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
 | Pravilnik o izmjenama i dopunama Pravilnika o tehničkom nadzoru električnih postrojenja, instalacija i uređaja namijenjenih za rad u prostorima ugroženim eksplozivnom atmosferom | [`pravilnik/1999/2268/`](pravilnik/1999/2268/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
 | Pravilnik o izmjenama Pravilnika o organoleptičkom (senzornom) ocjenjivanju vina i voćnih vina | [`pravilnik/2015/16/`](pravilnik/2015/16/) | in force | 1 | 2015-01-10 | 2015-01-10 |
+| Pravilnik o provedbi vlastite procjene rizika i solventnosti | [`pravilnik/2015/27/`](pravilnik/2015/27/) | in force | 1 | 2015-01-10 | 2015-01-10 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru pridnevnom povlačnom mrežom - koćom | [`pravilnik/2015/42/`](pravilnik/2015/42/) | amending act | 1 | 2015-01-08 | 2015-01-08 |
+| Pravilnik o dopuni Pravilnika o uvjetima i načinu unošenja određenog bilja i biljnih proizvoda iz susjednih trećih zemalja u pogranično područje Republike Hrvatske | [`pravilnik/2015/44/`](pravilnik/2015/44/) | amending act | 1 | 2015-01-15 | 2015-01-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zaštitnim radionicama i integrativnim radionicama za zapošljavanje osoba s invaliditetom | [`pravilnik/2015/46/`](pravilnik/2015/46/) | amending act | 1 | 2015-01-15 | 2015-01-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o profesionalnoj rehabilitaciji i centrima za profesionalnu rehabilitaciju osoba s invaliditetom | [`pravilnik/2015/47/`](pravilnik/2015/47/) | amending act | 1 | 2015-01-15 | 2015-01-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja očevidnika zaposlenih osoba s invaliditetom | [`pravilnik/2015/49/`](pravilnik/2015/49/) | amending act | 1 | 2015-01-15 | 2015-01-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ostvarivanju prava na oslobođenje od carine | [`pravilnik/2015/60/`](pravilnik/2015/60/) | amending act | 1 | 2015-01-17 | 2015-01-17 |
+| Pravilnik o načinu isplate novčanih primanja i drugih troškova | [`pravilnik/2015/82/`](pravilnik/2015/82/) | repealed 2018-02-24 | 2 | 2015-01-22 | 2018-02-24 |
+| Pravilnik o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima te kontroli namjenskog trošenja sredstava | [`pravilnik/2015/83/`](pravilnik/2015/83/) | repealed 2018-03-10 | 2 | 2015-01-22 | 2018-03-10 |
+| Pravilnik o dopuni Pravilnika o kriterijima za razvrstavanje naselja u turističke razrede | [`pravilnik/2015/84/`](pravilnik/2015/84/) | amending act | 1 | 2015-01-15 | 2015-01-15 |
+| Pravilnik o prestanku važenja Pravilnika o korištenju nastavnih zvanja i njihovih kratica na veleučilištima i visokim školama u Republici Hrvatskoj | [`pravilnik/2015/86/`](pravilnik/2015/86/) | in force | 1 | 2015-01-14 | 2015-01-14 |
 | Pravilnik o stavljanju izvan snage Pravilnika o kontinuiranoj plovidbenosti zrakoplova i aeronautičkih proizvoda, dijelova i uređaja, te o ovlaštenju organizacija i osoblja uključenih u te poslove | [`pravilnik/2015/118/`](pravilnik/2015/118/) | in force | 1 | 2015-01-27 | 2015-01-27 |
 | Pravilnik o dostupnosti podataka potrošačima o ekonomičnosti potrošnje goriva i emisijama CO2 novih osobnih vozila | [`pravilnik/2015/128/`](pravilnik/2015/128/) | repealed 2021-10-28 | 2 | 2015-01-29 | 2021-10-28 |
+| Pravilnik o izmjeni Pravilnika o trošarinama | [`pravilnik/2015/186/`](pravilnik/2015/186/) | in force | 1 | 2015-01-24 | 2015-01-24 |
+| Pravilnik o organizaciji i načinu rada Vojno zdravstvenog središta Ministarstva obrane i Oružanih snaga Republike Hrvatske | [`pravilnik/2015/187/`](pravilnik/2015/187/) | repealed 2020-02-29 | 2 | 2015-01-31 | 2020-02-29 |
+| Pravilnik o sadržaju, obliku i načinu vođenja elektroničkog očevidnika inspektora cestovnog prometa i inspektora cesta | [`pravilnik/2015/189/`](pravilnik/2015/189/) | in force | 1 | 2015-01-31 | 2015-01-31 |
+| Pravilnik o izmjeni Pravilnika o provedbi modela poticanja proizvodnje u ribarstvu | [`pravilnik/2015/227/`](pravilnik/2015/227/) | in force | 1 | 2015-01-31 | 2015-01-31 |
+| Pravilnik o izmjeni Pravilnika o dodjeli potpore za sufinanciranje dijela troškova u ribarstvu u segmentu potrošnje plinskog ulja obojanog plavom bojom | [`pravilnik/2015/228/`](pravilnik/2015/228/) | in force | 1 | 2015-01-31 | 2015-01-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), iglua (Xiphias gladius) i iglana (Tetrapturus belone) | [`pravilnik/2015/229/`](pravilnik/2015/229/) | amending act | 1 | 2015-01-31 | 2015-01-31 |
+| Pravilnik o načinu formiranja rezervi sjemenskog materijala svojti šumskog drveća | [`pravilnik/2015/246/`](pravilnik/2015/246/) | in force | 1 | 2015-02-12 | 2015-02-12 |
+| Pravilnik o Programu dokumentacije koja prati plavoperajnu tunu (Thunnus thynnus), igluna (Xiphias gladius) i velikooku tunu (Thunnus obesus) na tržištu | [`pravilnik/2015/247/`](pravilnik/2015/247/) | in force | 1 | 2015-02-04 | 2015-02-04 |
+| Pravilnik o dopuni Pravilnika o poticajima pri zapošljavanju osoba s invaliditetom | [`pravilnik/2015/248/`](pravilnik/2015/248/) | amending act | 1 | 2015-02-12 | 2015-02-12 |
+| Pravilnik o sadržaju obavijesti o prisilnom zadržavanju u psihijatrijskoj ustanovi | [`pravilnik/2015/251/`](pravilnik/2015/251/) | in force | 1 | 2015-02-12 | 2015-02-12 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.2. "Privremena obustava ribolovnih aktivnosti" | [`pravilnik/2015/271/`](pravilnik/2015/271/) | in force | 1 | 2015-02-06 | 2015-02-06 |
+| Pravilnik o izmjeni Pravilnika o malom obalnom ribolovu | [`pravilnik/2015/288/`](pravilnik/2015/288/) | in force | 1 | 2015-02-14 | 2015-02-14 |
+| Pravilnik o načinu vođenja evidencije o obvezujućim izjavama, načinu pohranjivanja, čuvanja i ostvarivanja prava pristupa podacima iz obvezujućih izjava | [`pravilnik/2015/299/`](pravilnik/2015/299/) | in force | 1 | 2015-02-19 | 2015-02-19 |
+| Pravilnik o vrstama i načinu primjene mjera prisile prema osobi s težim duševnim smetnjama | [`pravilnik/2015/303/`](pravilnik/2015/303/) | in force | 1 | 2015-02-19 | 2015-02-19 |
+| Pravilnik o uvjetima i načinu obavljanja djelatnosti faktoring-društva | [`pravilnik/2015/309/`](pravilnik/2015/309/) | in force | 1 | 2015-02-19 | 2015-02-19 |
+| Pravilnik o sadržaju ugovora o faktoringu | [`pravilnik/2015/310/`](pravilnik/2015/310/) | in force | 1 | 2015-02-19 | 2015-02-19 |
+| Pravilnik o izmjeni i dopuni Pravilnika o Registru objekata leasinga | [`pravilnik/2015/312/`](pravilnik/2015/312/) | amending act | 1 | 2015-02-19 | 2015-02-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izdavanju memorijskih kartica | [`pravilnik/2015/331/`](pravilnik/2015/331/) | amending act | 1 | 2015-02-13 | 2015-02-13 |
+| Pravilnik o dopunama i izmjeni Pravilnika o dodjeli tržišne kompenzacije u ribarstvu | [`pravilnik/2015/333/`](pravilnik/2015/333/) | amending act | 1 | 2015-02-14 | 2015-02-14 |
+| Pravilnik o ustrojstvu i načinu rada Kriznog stožera Ministarstva zdravlja | [`pravilnik/2015/390/`](pravilnik/2015/390/) | in force | 1 | 2015-02-26 | 2015-02-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima postavljanja i uporabe radijskih postaja | [`pravilnik/2015/395/`](pravilnik/2015/395/) | amending act | 1 | 2015-02-26 | 2015-02-26 |
+| Pravilnik o izmjeni i dopuni Pravilnika o malom obalnom ribolovu | [`pravilnik/2015/411/`](pravilnik/2015/411/) | amending act | 1 | 2015-02-21 | 2015-02-21 |
+| Pravilnik o izmjeni Pravilnika o sadržaju i obveznim prostornim pokazateljima izvješća o stanju u prostoru | [`pravilnik/2015/413/`](pravilnik/2015/413/) | in force | 1 | 2015-02-28 | 2015-02-28 |
+| Pravilnik o dopunama Pravilnika o utvrđivanju cijene putovnice i putnog lista | [`pravilnik/2015/425/`](pravilnik/2015/425/) | amending act | 1 | 2015-03-03 | 2015-03-03 |
+| Pravilnik o priznavanju inozemnih stručnih kvalifikacija iz područja turizma | [`pravilnik/2015/458/`](pravilnik/2015/458/) | repealed 2016-01-30 | 2 | 2015-03-05 | 2016-01-30 |
+| Pravilnik o projektima JPP-a male vrijednosti | [`pravilnik/2015/484/`](pravilnik/2015/484/) | in force | 1 | 2015-03-07 | 2015-03-07 |
+| Pravilnik o dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva | [`pravilnik/2015/491/`](pravilnik/2015/491/) | amending act | 1 | 2015-03-07 | 2015-03-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stjecanju statusa povlaštenog proizvođača električne energije | [`pravilnik/2015/504/`](pravilnik/2015/504/) | amending act | 1 | 2015-03-05 | 2015-03-05 |
+| Pravilnik o stavljanju izvan snage Pravilnika o građevinama koje podliježu sanitarnom nadzoru te načinu obavljanja sanitarnog nadzora tijekom gradnje | [`pravilnik/2015/508/`](pravilnik/2015/508/) | in force | 1 | 2015-03-05 | 2015-03-05 |
+| Pravilnik o stavljanju izvan snage Pravilnika o sadržaju i načinu davanja potvrde o usklađenosti glavnog projekta sa sanitarno-tehničkim uvjetima gradnje i vrstama građevina koje podliježu sanitarnom nadzoru | [`pravilnik/2015/509/`](pravilnik/2015/509/) | in force | 1 | 2015-03-05 | 2015-03-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, načinu i postupku prijeboja potraživanja prema državnom proračunu s poreznim dugom | [`pravilnik/2015/554/`](pravilnik/2015/554/) | amending act | 1 | 2015-03-10 | 2015-03-10 |
+| Pravilnik o načinu korištenja Registra Europske unije | [`pravilnik/2015/557/`](pravilnik/2015/557/) | repealed 2023-08-31 | 2 | 2015-03-17 | 2023-08-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za nuđenje udjela UCITS fonda | [`pravilnik/2015/563/`](pravilnik/2015/563/) | amending act | 1 | 2015-03-17 | 2015-03-17 |
+| Pravilnik o izmjeni i dopuni Pravilnika o graničnim vrijednostima emisija otpadnih voda | [`pravilnik/2015/579/`](pravilnik/2015/579/) | amending act | 1 | 2015-03-19 | 2015-03-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i mjerilima za davanje ovlaštenja za kontrolu projekata | [`pravilnik/2015/582/`](pravilnik/2015/582/) | amending act | 1 | 2015-03-12 | 2015-03-12 |
+| Pravilnik o ustroju i provedbi mjera zaštite od ionizirajućeg zračenja | [`pravilnik/2015/592/`](pravilnik/2015/592/) | in force | 1 | 2015-03-14 | 2015-03-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju financijskih izvještaja i drugih izvještaja društva za upravljanje UCITS fondovima | [`pravilnik/2015/600/`](pravilnik/2015/600/) | amending act | 1 | 2015-03-21 | 2015-03-21 |
+| Pravilnik o dopuni Pravilnika o posebnom porezu na motorna vozila | [`pravilnik/2015/627/`](pravilnik/2015/627/) | amending act | 1 | 2015-03-19 | 2015-03-19 |
+| Pravilnik o dopuni Pravilnika o uvjetima za unutarnji ustroj općih i specijalnih bolnica | [`pravilnik/2015/632/`](pravilnik/2015/632/) | amending act | 1 | 2015-03-26 | 2015-03-26 |
+| Pravilnik o djelatnostima koje se smatraju industrijom | [`pravilnik/2015/665/`](pravilnik/2015/665/) | in force | 1 | 2015-03-28 | 2015-03-28 |
+| Pravilnik o elektroničkom zapisu podataka iz područja radnih odnosa | [`pravilnik/2015/667/`](pravilnik/2015/667/) | in force | 1 | 2015-03-28 | 2015-03-28 |
+| Pravilnik o sadržaju, načinu i rokovima zdravstvenih pregleda noćnih radnika | [`pravilnik/2015/669/`](pravilnik/2015/669/) | in force | 1 | 2015-03-28 | 2015-03-28 |
+| Pravilnik o korištenju osobnih automobila, mobilnih telefona, redovitih zrakoplovnih linija, poslovnih kreditnih kartica i sredstava reprezentacije | [`pravilnik/2015/754/`](pravilnik/2015/754/) | in force | 1 | 2015-04-07 | 2015-04-07 |
 | Pravilnik o prestanku važenja Pravilnika o organiziranju, financiranju i donošenju programa festivala Splitsko ljeto | [`pravilnik/2015/756/`](pravilnik/2015/756/) | in force | 1 | 2015-04-07 | 2015-04-07 |
+| Pravilnik o uvjetima u pogledu prostora, opreme i djelatnika Vojno zdravstvenog središta Ministarstva obrane i Oružanih snaga Republike Hrvatske | [`pravilnik/2015/774/`](pravilnik/2015/774/) | in force | 1 | 2015-04-09 | 2015-04-09 |
+| Pravilnik o izmjeni i dopuni Pravilnika o dozvoljenim ulaganjima i ograničenjima ulaganja UCITS fonda | [`pravilnik/2015/775/`](pravilnik/2015/775/) | amending act | 1 | 2015-04-02 | 2015-04-02 |
+| Pravilnik o izmjenama Pravilnika o boravku i radu visokokvalificiranih državljana trećih država u Republici Hrvatskoj | [`pravilnik/2015/786/`](pravilnik/2015/786/) | in force | 1 | 2015-04-11 | 2015-04-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu utvrđivanju uvjeta za ulazak i boravak u Republici Hrvatskoj državljana država članica Europskog gospodarskog prostora i članova njihovih obitelji te članova obitelji hrvatskih državljana | [`pravilnik/2015/788/`](pravilnik/2015/788/) | amending act | 1 | 2015-04-11 | 2015-04-11 |
+| Pravilnik o izmjeni i dopunama Pravilnika o sigurnosti igračaka | [`pravilnik/2015/792/`](pravilnik/2015/792/) | amending act | 1 | 2015-04-11 | 2015-04-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obveznom sadržaju idejnog projekta | [`pravilnik/2015/838/`](pravilnik/2015/838/) | amending act | 1 | 2015-04-22 | 2015-04-22 |
+| Pravilnik o ustrojstvu i načinu vođenja zbirki s automatskom obradom podataka o utvrđivanju istovjetnosti osumnjičenika | [`pravilnik/2015/851/`](pravilnik/2015/851/) | repealed 2021-01-07 | 2 | 2015-04-23 | 2021-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom - koćom | [`pravilnik/2015/881/`](pravilnik/2015/881/) | amending act | 1 | 2015-04-18 | 2015-04-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini naknade za sakupljanje, preradu i spaljivanje nusproizvoda životinjskog podrijetla koji nisu za prehranu ljudi | [`pravilnik/2015/882/`](pravilnik/2015/882/) | amending act | 1 | 2015-05-01 | 2015-05-01 |
+| Pravilnik o načinu oglašavanja o lijekovima | [`pravilnik/2015/884/`](pravilnik/2015/884/) | in force | 1 | 2015-04-25 | 2015-04-25 |
+| Pravilnik o obliku i načinu vođenja evidencije o izdanim rješenjima o odobrenju za obavljanje poslova ovjeravanja zakonitih mjerila i/ili pripreme zakonitih mjerila za ovjeravanje | [`pravilnik/2015/891/`](pravilnik/2015/891/) | in force | 1 | 2015-04-30 | 2015-04-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o klasifikaciji prodavaonica i drugih oblika trgovine na malo | [`pravilnik/2015/912/`](pravilnik/2015/912/) | amending act | 1 | 2015-05-02 | 2015-05-02 |
+| Pravilnik o izmjeni i dopunama Pravilnika o uvjetima za priznavanje jednakovaljanosti šumskog reprodukcijskog materijala i državama iz kojih se može uvoziti | [`pravilnik/2015/915/`](pravilnik/2015/915/) | amending act | 1 | 2015-05-02 | 2015-05-02 |
+| Pravilnik o uvjetima i načinu ostvarivanja prava na zdravstvenu zaštitu hrvatskih branitelja iz Domovinskog rata koja nisu utvrđena kao standard iz obveznog zdravstvenog osiguranja | [`pravilnik/2015/916/`](pravilnik/2015/916/) | repealed 2018-11-29 | 2 | 2015-05-02 | 2018-11-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju, izgledu i načinu vođenja upisnika o eksplozivnim tvarima | [`pravilnik/2015/928/`](pravilnik/2015/928/) | amending act | 1 | 2016-10-17 | 2016-10-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu označavanja eksplozivnih tvari | [`pravilnik/2015/929/`](pravilnik/2015/929/) | amending act | 1 | 2015-07-01 | 2015-07-01 |
+| Pravilnik o dopunama Pravilnika o policijskim časnicima za vezu | [`pravilnik/2015/973/`](pravilnik/2015/973/) | amending act | 1 | 2015-05-07 | 2015-05-07 |
+| Pravilnik o izmjenama Pravilnika o vrstama i kategorijama plovnih objekata nautičkog turizma | [`pravilnik/2015/979/`](pravilnik/2015/979/) | in force | 1 | 2015-05-14 | 2015-05-14 |
+| Pravilnik o prestanku važenja Pravilnika o smjernicama za izradu i provedbu programa nadziranja influence ptica u peradi i divljih ptica | [`pravilnik/2015/984/`](pravilnik/2015/984/) | in force | 1 | 2015-05-16 | 2015-05-16 |
+| Pravilnik o prestanku važenja Pravilnika o biosigurnosnim mjerama za smanjenje rizika od prijenosa visokopatogene influence ptica te uspostavi sustava ranog otkrivanja na rizičnim područjima | [`pravilnik/2015/985/`](pravilnik/2015/985/) | in force | 1 | 2015-05-16 | 2015-05-16 |
 | Pravilnik o načinu rada Povjerenstva za zaštitu prava korisnika usluga | [`pravilnik/2015/1020/`](pravilnik/2015/1020/) | repealed 2023-11-04 | 2 | 2015-05-21 | 2023-11-04 |
 | Pravilnik o popisu poslova izvršnih radnika željezničkog sustava | [`pravilnik/2015/1031/`](pravilnik/2015/1031/) | in force | 1 | 2015-05-23 | 2015-05-23 |
 | Pravilnik o dopuni Pravilnika o obavljanju gospodarskog ribolova na moru dredžama | [`pravilnik/2015/1060/`](pravilnik/2015/1060/) | amending act | 1 | 2015-05-21 | 2015-05-21 |
@@ -6417,10 +6490,81 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o postupku i načinu polaganja pomoćničkog ispita | [`pravilnik/2015/1691/`](pravilnik/2015/1691/) | amending act | 1 | 2015-08-12 | 2015-08-12 |
 | Pravilnik o tehničkim uvjetima za turističko vozilo | [`pravilnik/2015/1692/`](pravilnik/2015/1692/) | in force | 1 | 2015-09-03 | 2015-09-03 |
 | Pravilnik o izmjenama i dopunama Pravilnika o službenoj iskaznici i službenoj znački ovlaštenog carinskog službenika | [`pravilnik/2015/1719/`](pravilnik/2015/1719/) | amending act | 1 | 2015-08-15 | 2015-08-15 |
+| Pravilnik o izmjeni i dopuni Pravilnika o postupku i načinu korištenja prava na porez po tonaži broda | [`pravilnik/2015/1722/`](pravilnik/2015/1722/) | amending act | 1 | 2015-08-08 | 2015-08-08 |
+| Pravilnik o prestanku važenja Pravilnika o mjerama za sprječavanje unošenja i širenja uzročnika bolesti vretenastog gomolja krumpira - Potato spindle tuber viroida | [`pravilnik/2015/1724/`](pravilnik/2015/1724/) | in force | 1 | 2015-08-08 | 2015-08-08 |
+| Pravilnik o dopuni Pravilnika o graničnim prijelazima određenim za nekomercijalno premještanje kućnih ljubimaca | [`pravilnik/2015/1725/`](pravilnik/2015/1725/) | amending act | 1 | 2015-08-15 | 2015-08-15 |
+| Pravilnik o dopuni Pravilnika o prostronom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2015. godini | [`pravilnik/2015/1726/`](pravilnik/2015/1726/) | amending act | 1 | 2015-08-15 | 2015-08-15 |
+| Pravilnik o sigurnosti i zaštiti zdravlja na radu trudne radnice, radnice koja je nedavno rodila i radnice koja doji | [`pravilnik/2015/1767/`](pravilnik/2015/1767/) | in force | 1 | 2015-08-29 | 2015-08-29 |
 | Pravilnik o izmjeni Pravilnika o određivanju područja s prirodnim ili ostalim posebnim ograničenjima | [`pravilnik/2015/1769/`](pravilnik/2015/1769/) | in force | 1 | 2015-08-29 | 2015-08-29 |
+| Pravilnik o Mreži za ruralni razvoj | [`pravilnik/2015/1788/`](pravilnik/2015/1788/) | repealed 2018-08-02 | 2 | 2015-09-03 | 2018-08-02 |
+| Pravilnik o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru pridnenom povlačnom mrežom-koćom u 2015. godini | [`pravilnik/2015/1816/`](pravilnik/2015/1816/) | in force | 1 | 2015-09-03 | 2015-09-03 |
+| Pravilnik o načinu izvršavanja sigurnosne mjere zabrane upravljanja motornim vozilom | [`pravilnik/2015/1836/`](pravilnik/2015/1836/) | in force | 1 | 2015-09-12 | 2015-09-12 |
+| Pravilnik o izmjenama Pravilnika o stambenom zbrinjavanju | [`pravilnik/2015/1880/`](pravilnik/2015/1880/) | in force | 1 | 2015-09-12 | 2015-09-12 |
+| Pravilnik o tehničkim uvjetima za prometno-upravljački i signalno-sigurnosni željeznički infrastrukturni podsustav | [`pravilnik/2015/1883/`](pravilnik/2015/1883/) | in force | 1 | 2015-09-19 | 2015-09-19 |
+| Pravilnik o uvjetima i načinu ostvarivanja statusa i prava žrtve seksualnog nasilja u Domovinskom ratu | [`pravilnik/2015/1888/`](pravilnik/2015/1888/) | in force | 1 | 2015-09-19 | 2015-09-19 |
+| Pravilnik o ustrojstvu i načinu rada Povjerenstva za žrtve seksualnog nasilja | [`pravilnik/2015/1889/`](pravilnik/2015/1889/) | in force | 1 | 2015-09-19 | 2015-09-19 |
+| Pravilnik o načinu stjecanja statusa ovlaštene osobe obalne straže | [`pravilnik/2015/1906/`](pravilnik/2015/1906/) | repealed 2021-01-16 | 2 | 2015-09-22 | 2021-01-16 |
 | Pravilnik o izmjenama Pravilnika o postupku javnog nadmetanja za utvrđivanje najpovoljnijeg ponuditelja na javnom pozivu za dodjelu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u zakup i zakup za ribnjake | [`pravilnik/2015/1908/`](pravilnik/2015/1908/) | in force | 1 | 2015-09-22 | 2015-09-22 |
+| Pravilnik o izmjenama Pravilnika o početnoj zakupnini poljoprivrednog zemljišta u vlasništvu Republike Hrvatske za zakup i zakup za ribnjake te naknadi za vodu za ribnjake | [`pravilnik/2015/1909/`](pravilnik/2015/1909/) | in force | 1 | 2015-09-22 | 2015-09-22 |
 | Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.1 "Trajna obustava ribolovne aktivnosti" | [`pravilnik/2015/1931/`](pravilnik/2015/1931/) | in force | 1 | 2015-09-17 | 2015-09-17 |
+| Pravilnik o posebnim uvjetima za objekte u poslovanju s hranom životinjskog podrijetla koji se odobravaju pod posebnim uvjetima | [`pravilnik/2015/1951/`](pravilnik/2015/1951/) | repealed 2019-12-21 | 2 | 2015-09-26 | 2019-12-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obveznom sadržaju i opremanju projekata građevina | [`pravilnik/2015/2061/`](pravilnik/2015/2061/) | amending act | 1 | 2015-10-10 | 2015-10-10 |
+| Pravilnik o pretpostavkama i načinu izbora stečajnoga upravitelja metodom slučajnoga odabira | [`pravilnik/2015/2073/`](pravilnik/2015/2073/) | repealed 2023-10-17 | 2 | 2015-10-13 | 2023-10-17 |
+| Pravilnik o dopuni Pravilnika o mjerama prilagodbe zahtjevima propisa o hrani životinjskog podrijetla | [`pravilnik/2015/2078/`](pravilnik/2015/2078/) | amending act | 1 | 2015-10-13 | 2015-10-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o malom obalnom ribolovu | [`pravilnik/2015/2088/`](pravilnik/2015/2088/) | amending act | 1 | 2015-10-08 | 2015-10-08 |
+| Pravilnik o izmjenama Pravilnika o načinu provedbe stručnog nadzora građenja, obrascu, uvjetima i načinu vođenja građevinskog dnevnika te o sadržaju završnog izvješća nadzornog inženjera | [`pravilnik/2015/2091/`](pravilnik/2015/2091/) | in force | 1 | 2015-10-15 | 2015-10-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mjerilima za razvrstavanje lijekova te o propisivanju i izdavanju lijekova na recept | [`pravilnik/2015/2092/`](pravilnik/2015/2092/) | amending act | 1 | 2015-10-15 | 2015-10-15 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za infracrvene analizatore za mjerenje sadržaja proteina u zrnju poljoprivrednih vrsta | [`pravilnik/2015/2094/`](pravilnik/2015/2094/) | in force | 1 | 2015-10-15 | 2015-10-15 |
+| Pravilnik o izmjeni i dopuni Pravilnika o stjecanju statusa povlaštenog proizvođača električne energije | [`pravilnik/2015/2139/`](pravilnik/2015/2139/) | amending act | 1 | 2015-10-21 | 2015-10-21 |
+| Pravilnik o mjerilima za davanje odobrenja zdravstvenom radniku za sklapanje poslova iz djelatnosti poslodavca | [`pravilnik/2015/2175/`](pravilnik/2015/2175/) | repealed 2016-05-12 | 2 | 2015-10-27 | 2016-05-12 |
+| Pravilnik o radu vojne veterinarske inspekcije Ministarstva obrane i Oružanih snaga Republike Hrvatske | [`pravilnik/2015/2199/`](pravilnik/2015/2199/) | in force | 1 | 2015-10-31 | 2015-10-31 |
+| Pravilnik o izmjenama Pravilnika o izgledu, sadržaju i načinu vođenja zapisnika i dokumenata o sukladnosti godišnjeg stručno-tehničkog pregleda za žičare | [`pravilnik/2015/2200/`](pravilnik/2015/2200/) | in force | 1 | 2015-10-31 | 2015-10-31 |
+| Pravilnik o izmjeni Pravilnika o dodjeli novčanih sredstava za održavanje eko sustava šaranskih ribnjaka u 2015. godini | [`pravilnik/2015/2206/`](pravilnik/2015/2206/) | in force | 1 | 2015-10-27 | 2015-10-27 |
+| Pravilnik o izmjenama Pravilnika o uvjetima za određivanje područja na kojem će se osnivati ljekarne | [`pravilnik/2015/2207/`](pravilnik/2015/2207/) | in force | 1 | 2015-11-03 | 2015-11-03 |
+| Pravilnik o dopunama Pravilnika o obrascima i evidencijama putnih isprava hrvatskih državljana te načinu dostave i preuzimanju izrađenih putovnica | [`pravilnik/2015/2237/`](pravilnik/2015/2237/) | amending act | 1 | 2015-11-05 | 2015-11-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o privremenoj javnobilježničkoj tarifi | [`pravilnik/2015/2275/`](pravilnik/2015/2275/) | amending act | 1 | 2015-11-03 | 2015-11-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dodjeljivanju imena, oznake i jedinstvenog identifikacijskog broja plovila unutarnje plovidbe | [`pravilnik/2015/2277/`](pravilnik/2015/2277/) | amending act | 1 | 2015-11-10 | 2015-11-10 |
+| Pravilnik o Državnoj nagradi za humanitarni rad | [`pravilnik/2015/2284/`](pravilnik/2015/2284/) | repealed 2024-02-08 | 2 | 2015-11-03 | 2024-02-08 |
+| Pravilnik o ustrojavanju, sadržaju i načinu vođenja središnje elektroničke baze razvojnih projekata i razvojnih pokazatelja | [`pravilnik/2015/2292/`](pravilnik/2015/2292/) | in force | 1 | 2015-11-12 | 2015-11-12 |
+| Pravilnik o postupku i metodologiji vrednovanja politike regionalnog razvoja | [`pravilnik/2015/2295/`](pravilnik/2015/2295/) | in force | 1 | 2015-11-12 | 2015-11-12 |
+| Pravilnik o postupku utvrđivanja štete i njezine visine | [`pravilnik/2015/2324/`](pravilnik/2015/2324/) | in force | 1 | 2015-11-14 | 2015-11-14 |
+| Pravilnik o zaštitnim i sigurnosnim zonama oko vojnih lokacija i građevina | [`pravilnik/2015/2325/`](pravilnik/2015/2325/) | in force | 1 | 2015-11-14 | 2015-11-14 |
+| Pravilnik o izmjenama Pravilnika o informacijskom sustavu tržišta nekretnina | [`pravilnik/2015/2328/`](pravilnik/2015/2328/) | in force | 1 | 2015-11-07 | 2015-11-07 |
+| Pravilnik o naknadi troškova u prekršajnom postupku | [`pravilnik/2015/2334/`](pravilnik/2015/2334/) | in force | 1 | 2015-11-19 | 2015-11-19 |
+| Pravilnik o obavljanju stručnih geodetskih poslova u komasaciji | [`pravilnik/2015/2352/`](pravilnik/2015/2352/) | repealed 2023-10-26 | 2 | 2015-11-19 | 2023-10-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu raspodjele i obračunu troškova za isporučenu toplinsku energiju | [`pravilnik/2015/2357/`](pravilnik/2015/2357/) | amending act | 1 | 2015-11-14 | 2015-11-14 |
+| Pravilnik o dopunama Pravilnika o priznatim organizacijama za nadzor, pregled i certifikaciju brodova | [`pravilnik/2015/2360/`](pravilnik/2015/2360/) | amending act | 1 | 2016-01-01 | 2016-01-01 |
+| Pravilnik o izmjeni Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2015. godini | [`pravilnik/2015/2365/`](pravilnik/2015/2365/) | in force | 1 | 2015-11-14 | 2015-11-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o priznavanju i potporama za početak rada proizvođačkih organizacija | [`pravilnik/2015/2366/`](pravilnik/2015/2366/) | amending act | 1 | 2015-11-14 | 2015-11-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o kliničkim ispitivanjima lijekova i dobroj kliničkoj praksi | [`pravilnik/2015/2367/`](pravilnik/2015/2367/) | amending act | 1 | 2015-11-21 | 2015-11-21 |
+| Pravilnik o načinu obračuna i isplate jednokratnog novčanog primanja iz sredstava koja pripadaju Republici Hrvatskoj kao članu Umirovljeničkog fonda | [`pravilnik/2015/2370/`](pravilnik/2015/2370/) | in force | 1 | 2015-11-21 | 2015-11-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vođenju računovodstva društva za dokup mirovine | [`pravilnik/2015/2388/`](pravilnik/2015/2388/) | amending act | 1 | 2015-11-26 | 2015-11-26 |
+| Pravilnik o provedbi mjera Nacionalnog pčelarskog programa za razdoblje od 2014. do 2016. godine u 2016. godini | [`pravilnik/2015/2394/`](pravilnik/2015/2394/) | in force | 1 | 2015-11-28 | 2015-11-28 |
+| Pravilnik o načinu vođenja popisa turista te o obliku i sadržaju obrasca prijave turista turističkoj zajednici | [`pravilnik/2015/2395/`](pravilnik/2015/2395/) | in force | 1 | 2016-01-01 | 2016-01-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o promidžbi i ostalim informacijama za članove obveznih mirovinskih fondova | [`pravilnik/2015/2437/`](pravilnik/2015/2437/) | amending act | 1 | 2015-12-03 | 2015-12-03 |
+| Pravilnik o stručnom ispitu osoba koje obavljaju poslove graditeljstva i prostornoga uređenja | [`pravilnik/2015/2445/`](pravilnik/2015/2445/) | in force | 1 | 2015-12-05 | 2015-12-05 |
+| Pravilnik o dopuni Pravilnika o pripravničkom stažu doktora medicine | [`pravilnik/2015/2446/`](pravilnik/2015/2446/) | amending act | 1 | 2015-12-05 | 2015-12-05 |
+| Pravilnik o izmjeni i dopuni Pravilnika o dodjeli adresa i brojeva | [`pravilnik/2015/2449/`](pravilnik/2015/2449/) | amending act | 1 | 2015-12-05 | 2015-12-05 |
+| Pravilnik o izmjenama Pravilnika o izvođenju javnih vatrometa | [`pravilnik/2015/2462/`](pravilnik/2015/2462/) | in force | 1 | 2015-12-08 | 2015-12-08 |
+| Pravilnik o dodjeli potpore udruženjima u ribarstvu u 2015. godini | [`pravilnik/2015/2475/`](pravilnik/2015/2475/) | in force | 1 | 2015-12-03 | 2015-12-03 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. "Privremeni pretanak ribolovnih aktivnosti" pridnenim povlačnim mrežama - koćama | [`pravilnik/2015/2482/`](pravilnik/2015/2482/) | in force | 1 | 2015-12-05 | 2015-12-05 |
+| Pravilnik o dopuni Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2015. godini | [`pravilnik/2015/2491/`](pravilnik/2015/2491/) | amending act | 1 | 2015-12-10 | 2015-12-10 |
+| Pravilnik o izmjenama Pravilnika o osobama ovlaštenim za energetsko certificiranje, energetski pregled zgrade i redoviti pregled sustava grijanja i sustava hlađenja ili klimatizacije u zgradi | [`pravilnik/2015/2495/`](pravilnik/2015/2495/) | in force | 1 | 2015-12-17 | 2015-12-17 |
+| Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu prilagodbe za volatilnost na relevantnu vremensku strukturu bezrizičnih kamatnih stopa u izračunu najbolje procjene | [`pravilnik/2015/2503/`](pravilnik/2015/2503/) | in force | 1 | 2015-12-17 | 2015-12-17 |
+| Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu prijelazne mjere za relevantnu vremensku strukturu bezrizičnih kamatnih stopa | [`pravilnik/2015/2505/`](pravilnik/2015/2505/) | in force | 1 | 2015-12-17 | 2015-12-17 |
+| Pravilnik o sadržaju dokumentacije za izdavanje odobrenja za primjenu umanjenja iz prijelaznih mjera na tehničke pričuve | [`pravilnik/2015/2506/`](pravilnik/2015/2506/) | in force | 1 | 2015-12-17 | 2015-12-17 |
+| Pravilnik o izmjenama Pravilnika o utvrđivanju zdravstvene sposobnosti za vojnu službu | [`pravilnik/2015/2513/`](pravilnik/2015/2513/) | in force | 1 | 2016-01-01 | 2016-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i Registru povlastica | [`pravilnik/2015/2517/`](pravilnik/2015/2517/) | amending act | 1 | 2015-12-19 | 2015-12-19 |
+| Pravilnik o dopuni Pravilnika o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom - koćom | [`pravilnik/2015/2518/`](pravilnik/2015/2518/) | amending act | 1 | 2015-12-19 | 2015-12-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom | [`pravilnik/2015/2519/`](pravilnik/2015/2519/) | amending act | 1 | 2015-12-12 | 2015-12-12 |
+| Pravilnik o programu ispita o stručnoj osposobljenosti za zanimanje pogrebnik | [`pravilnik/2015/2521/`](pravilnik/2015/2521/) | in force | 1 | 2015-12-12 | 2015-12-12 |
+| Pravilnik o obliku, sadržaju i načinu vođenja evidencije osoba s položenim ispitom o stručnoj osposobljenosti za obavljanje pogrebničke djelatnosti | [`pravilnik/2015/2522/`](pravilnik/2015/2522/) | in force | 1 | 2015-12-12 | 2015-12-12 |
+| Pravilnik o dokumentaciji za izdavanje prethodnog odobrenja za radove na kulturnom dobru | [`pravilnik/2015/2528/`](pravilnik/2015/2528/) | in force | 1 | 2015-12-19 | 2015-12-19 |
+| Pravilnik o dopuni Pravilnika o pripravničkom stažu zdravstvenih radnika | [`pravilnik/2015/2548/`](pravilnik/2015/2548/) | amending act | 1 | 2015-12-24 | 2015-12-24 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obveznoj dostavi podataka u sektoru mlijeka i mliječnih proizvoda | [`pravilnik/2015/2555/`](pravilnik/2015/2555/) | amending act | 1 | 2015-12-19 | 2015-12-19 |
+| Pravilnik o izmjenama Pravilnika o paušalom oporezivanju samostalnih djelatnosti | [`pravilnik/2015/2572/`](pravilnik/2015/2572/) | in force | 1 | 2015-12-24 | 2015-12-24 |
+| Pravilnik o izmjenama Pravilnika o obavljanju poslova zaštite na radu | [`pravilnik/2015/2610/`](pravilnik/2015/2610/) | in force | 1 | 2015-12-31 | 2015-12-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.10. "Trajni prestanak ribolovnih aktivnosti" | [`pravilnik/2015/2646/`](pravilnik/2015/2646/) | amending act | 1 | 2016-01-01 | 2016-01-01 |
 | Pravilnik o načinu rada Odbora za standarde financijskog izvještavanja | [`pravilnik/2016/4/`](pravilnik/2016/4/) | repealed 2025-08-07 | 2 | 2016-01-02 | 2025-08-07 |
 | Pravilnik o vrstama i visini naknada Financijskoj agenciji za uslugu javne objave dokumentacije iz Registra godišnjih financijskih izvještaja | [`pravilnik/2016/5/`](pravilnik/2016/5/) | repealed 2020-04-08 | 2 | 2016-01-02 | 2020-04-08 |
 | Pravilnik o uvjetima za dobivanje dozvole za obavljanje poslova savjetovališta i načinu rada savjetovališta | [`pravilnik/2016/13/`](pravilnik/2016/13/) | in force | 1 | 2016-01-06 | 2016-01-06 |
@@ -8625,7 +8769,7 @@
 | Pravilnik o tržišnim standardima za meso peradi | [`pravilnik/2026/1477/`](pravilnik/2026/1477/) | in force | 1 | 2026-11-05 | 2026-11-05 |
 | Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda | [`pravilnik/2026/1480/`](pravilnik/2026/1480/) | amending act | 1 | 2026-11-05 | 2026-11-05 |
 
-## statut (67, of which 20 amending acts)
+## statut (70, of which 20 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8638,6 +8782,9 @@
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Statut Akcije bjelovarsko-bilogorske | [`statut/2015/1159/`](statut/2015/1159/) | in force | 1 | 2015-05-27 | 2015-05-27 |
+| Statut Centra za regionalne aktivnosti Programa prioritetnih akcija - Priority Actions Programme Regional Activity Centre | [`statut/2015/2019/`](statut/2015/2019/) | in force | 1 | 2015-10-06 | 2015-10-06 |
+| Statut političke stranke U ime obitelji - projekt Domovina | [`statut/2015/2241/`](statut/2015/2241/) | in force | 1 | 2015-09-05 | 2015-09-05 |
 | Izmjene Statuta Hrvatske komore ovlaštenih inženjera geodezije | [`statut/2017/885/`](statut/2017/885/) | in force | 1 | 2017-05-04 | 2017-05-04 |
 | Statut Damir Bajs Nezavisna lista | [`statut/2017/980/`](statut/2017/980/) | in force | 1 | 2017-03-03 | 2017-03-03 |
 | Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje | [`statut/2017/2311/`](statut/2017/2311/) | amending act | 1 | 2017-10-12 | 2017-10-12 |
@@ -8722,7 +8869,7 @@
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
 
-## uredba (724, of which 164 amending acts)
+## uredba (775, of which 185 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9012,12 +9159,63 @@
 | Uredba o dopuni Zakona o otocima | [`uredba/1999/2276/`](uredba/1999/2276/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1999/2278/`](uredba/1999/2278/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjeni Carinskog zakona | [`uredba/1999/3000/`](uredba/1999/3000/) | in force | 1 | 1999-09-27 | 1999-09-27 |
+| Uredba o izmjenama Zakona o državnim službenicima | [`uredba/2015/1/`](uredba/2015/1/) | in force | 1 | 2015-01-10 | 2015-01-10 |
+| Uredba o izmjeni i dopuni Zakona o obvezama i pravima državnih dužnosnika | [`uredba/2015/58/`](uredba/2015/58/) | amending act | 1 | 2015-01-10 | 2015-01-10 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta | [`uredba/2015/137/`](uredba/2015/137/) | amending act | 1 | 2015-01-31 | 2015-01-31 |
 | Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za opremu pod tlakom | [`uredba/2015/138/`](uredba/2015/138/) | amending act | 1 | 2015-01-31 | 2015-01-31 |
 | Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2015. godinu | [`uredba/2015/278/`](uredba/2015/278/) | in force | 1 | 2015-02-14 | 2015-02-14 |
+| Uredba o ljetnom računanju vremena u 2015. i 2016. godini | [`uredba/2015/279/`](uredba/2015/279/) | in force | 1 | 2015-02-14 | 2015-02-14 |
+| Uredba o izmjenama i dopunama Uredbe o provedbi projekata javno-privatnog partnerstva | [`uredba/2015/280/`](uredba/2015/280/) | amending act | 1 | 2015-02-14 | 2015-02-14 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode | [`uredba/2015/322/`](uredba/2015/322/) | amending act | 1 | 2015-02-21 | 2015-02-21 |
 | Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2015/323/`](uredba/2015/323/) | amending act | 1 | 2015-02-21 | 2015-02-21 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta | [`uredba/2015/324/`](uredba/2015/324/) | amending act | 1 | 2015-02-21 | 2015-02-21 |
+| Uredba o Hrvatskoj akademskoj i istraživačkoj mreži - CARNet | [`uredba/2015/478/`](uredba/2015/478/) | in force | 1 | 2015-03-07 | 2015-03-07 |
+| Uredba o izmjenama Uredbe o kriterijima za izricanje upravno-kaznene mjere | [`uredba/2015/480/`](uredba/2015/480/) | in force | 1 | 2015-03-07 | 2015-03-07 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2015/547/`](uredba/2015/547/) | amending act | 1 | 2015-03-17 | 2015-03-17 |
+| Uredba o izmjenama i dopunama Uredbe o klasifikaciji radnih mjesta policijskih službenika | [`uredba/2015/650/`](uredba/2015/650/) | amending act | 1 | 2015-03-28 | 2015-03-28 |
+| Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika | [`uredba/2015/651/`](uredba/2015/651/) | amending act | 1 | 2015-03-28 | 2015-03-28 |
 | Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu | [`uredba/2015/824/`](uredba/2015/824/) | in force | 1 | 2015-04-18 | 2015-04-18 |
+| Uredba o izmjeni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon | [`uredba/2015/865/`](uredba/2015/865/) | in force | 1 | 2015-04-18 | 2015-04-18 |
+| Uredba o načinu utvrđivanja jedinstvenog identifikatora | [`uredba/2015/997/`](uredba/2015/997/) | in force | 1 | 2015-05-20 | 2015-05-20 |
+| Uredba o izmjenama i dopunama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi | [`uredba/2015/1241/`](uredba/2015/1241/) | amending act | 1 | 2015-06-20 | 2015-06-20 |
+| Uredba o izmjenama Uredbe o utvrđivanju dužnosti djelatnih vojnih osoba na kojima se staž osiguranja računa s povećanim trajanjem i načinu računanja toga staža | [`uredba/2015/1366/`](uredba/2015/1366/) | in force | 1 | 2015-07-01 | 2015-07-01 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Državne škole za javnu upravu | [`uredba/2015/1371/`](uredba/2015/1371/) | amending act | 1 | 2015-07-08 | 2015-07-08 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2016. godinu | [`uredba/2015/1446/`](uredba/2015/1446/) | in force | 1 | 2015-07-18 | 2015-07-18 |
+| Uredba o dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2015/1447/`](uredba/2015/1447/) | amending act | 1 | 2015-07-18 | 2015-07-18 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2015/1448/`](uredba/2015/1448/) | in force | 1 | 2015-07-18 | 2015-07-18 |
+| Uredba o izmjenama Uredbe o kupoprodaji poslovnoga prostora u vlasništvu Republike Hrvatske | [`uredba/2015/1503/`](uredba/2015/1503/) | in force | 1 | 2015-07-25 | 2015-07-25 |
+| Uredba o izmjenama Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) i Prijelaznim instrumentom | [`uredba/2015/1506/`](uredba/2015/1506/) | in force | 1 | 2015-07-25 | 2015-07-25 |
+| Uredba o prestanku važenja Uredbe o Komisiji Vlade Republike Hrvatske za rješavanje sporova o pravima općina, gradova i županija i Liste arbitara Komisije Vlade Republike Hrvatske za rješavanje sporova o pravima općina, gradova i županija | [`uredba/2015/1586/`](uredba/2015/1586/) | in force | 1 | 2015-08-05 | 2015-08-05 |
+| Uredba o izmjeni Zakona o faktoringu | [`uredba/2015/1652/`](uredba/2015/1652/) | repealed 2016-05-10 | 2 | 2015-08-02 | 2016-05-10 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih | [`uredba/2015/1653/`](uredba/2015/1653/) | amending act | 1 | 2015-08-09 | 2015-08-09 |
+| Uredba o izmjeni i dopuni Zakona o mirovinskom osiguranju | [`uredba/2015/1790/`](uredba/2015/1790/) | amending act | 1 | 2015-09-01 | 2015-09-01 |
+| Uredba o izmjenama i dopunama Zakona o obveznim mirovinskim fondovima | [`uredba/2015/1791/`](uredba/2015/1791/) | amending act | 1 | 2015-09-01 | 2015-09-01 |
 | Uredba o izmjeni i dopunama Uredbe o osnivanju Agencije za poljoprivredno zemljište | [`uredba/2015/1794/`](uredba/2015/1794/) | amending act | 1 | 2015-09-05 | 2015-09-05 |
+| Uredba o dopuni Zakona o energiji | [`uredba/2015/1825/`](uredba/2015/1825/) | repealed 2015-09-26 | 2 | 2015-09-05 | 2015-09-26 |
+| Uredba o izmjenama i dopunama Zakona o tržištu električne energije | [`uredba/2015/1826/`](uredba/2015/1826/) | repealed 2015-10-03 | 2 | 2015-09-05 | 2015-10-03 |
+| Uredba o izmjenama i dopunama Zakona o tržištu toplinske energije | [`uredba/2015/1827/`](uredba/2015/1827/) | amending act | 1 | 2015-09-12 | 2015-09-12 |
+| Uredba o izmjeni Zakona o jedinstvenom tijelu vještačenja | [`uredba/2015/1828/`](uredba/2015/1828/) | in force | 1 | 2015-09-12 | 2015-09-12 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske | [`uredba/2015/1830/`](uredba/2015/1830/) | amending act | 1 | 2015-09-05 | 2015-09-05 |
+| Uredba o izmjeni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima | [`uredba/2015/1841/`](uredba/2015/1841/) | in force | 1 | 2015-09-17 | 2015-09-17 |
+| Uredba o pripajanju Agencije za regionalni razvoj Republike Hrvatske Središnjoj agenciji za financiranje i ugovaranje programa i projekata Europske unije | [`uredba/2015/1873/`](uredba/2015/1873/) | repealed 2018-03-17 | 2 | 2015-09-19 | 2018-03-17 |
+| Uredba o izmjenama Zakona o zaštiti i očuvanju kulturnih dobara | [`uredba/2015/1897/`](uredba/2015/1897/) | in force | 1 | 2015-09-22 | 2015-09-22 |
+| Uredba o dražbi određenih drvnih sortimenata | [`uredba/2015/1942/`](uredba/2015/1942/) | in force | 1 | 2015-09-26 | 2015-09-26 |
+| Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2015/1943/`](uredba/2015/1943/) | in force | 1 | 2015-09-19 | 2015-09-19 |
+| Uredba o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju nadležnih centara za socijalnu skrb | [`uredba/2015/1977/`](uredba/2015/1977/) | repealed 2016-01-01 | 2 | 2015-10-01 | 2016-01-01 |
+| Uredba o preuzimanju Direktive 2013/40/EU o napadima na informacijske sustave te Direktive 2014/62/EU o kaznenopravnoj zaštiti eura i drugih valuta od krivotvorenja | [`uredba/2015/1978/`](uredba/2015/1978/) | in force | 1 | 2015-09-26 | 2015-09-26 |
+| Uredba o kriterijima i načinu obračuna i plaćanja nagrade stečajnim upraviteljima | [`uredba/2015/2049/`](uredba/2015/2049/) | in force | 1 | 2015-10-10 | 2015-10-10 |
+| Uredba o izmjeni i dopuni Uredbe o klasifikaciji radnih mjesta policijskih službenika | [`uredba/2015/2192/`](uredba/2015/2192/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
+| Uredba o izmjeni i dopunama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš oksida sumpora izraženih kao sumporov dioksid i oksida dušika izraženih kao dušikov dioksid | [`uredba/2015/2193/`](uredba/2015/2193/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
+| Uredba o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva | [`uredba/2015/2244/`](uredba/2015/2244/) | amending act | 1 | 2015-11-07 | 2015-11-07 |
+| Uredba o jedinstvenom sučelju za formalnosti u pomorskom prometu | [`uredba/2015/2245/`](uredba/2015/2245/) | repealed 2026-10-08 | 2 | 2015-11-07 | 2026-10-08 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tisno | [`uredba/2015/2246/`](uredba/2015/2246/) | in force | 1 | 2015-11-07 | 2015-11-07 |
+| Uredba o izmjenama i dopunama Uredbe o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i izvještaja o primjeni fiskalnih pravila | [`uredba/2015/2247/`](uredba/2015/2247/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
 | Uredba o dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu | [`uredba/2015/2248/`](uredba/2015/2248/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
+| Uredba o načinu i uvjetima za obavljanje sigurnosnih istraga pomorskih nesreća i nezgoda | [`uredba/2015/2310/`](uredba/2015/2310/) | in force | 1 | 2015-11-14 | 2015-11-14 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave u prvom tromjesečju 2016. godine | [`uredba/2015/2311/`](uredba/2015/2311/) | in force | 1 | 2016-01-01 | 2016-01-01 |
+| Uredba o izmjenama i dopunama Zakona o računovodstvu | [`uredba/2015/2511/`](uredba/2015/2511/) | amending act | 1 | 2016-01-01 | 2016-01-01 |
+| Uredba o izmjenama Zakona o porezu na dohodak | [`uredba/2015/2554/`](uredba/2015/2554/) | in force | 1 | 2016-01-01 | 2016-01-01 |
+| Uredba o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju nadležnih centara za socijalnu skrb | [`uredba/2015/2607/`](uredba/2015/2607/) | repealed 2022-04-01 | 2 | 2016-01-01 | 2022-04-01 |
 | Uredba o izmjenama i dopuni Uredbe o Glavnom tajništvu Vlade Republike Hrvatske | [`uredba/2016/255/`](uredba/2016/255/) | amending act | 1 | 2016-01-30 | 2016-01-30 |
 | Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja | [`uredba/2016/256/`](uredba/2016/256/) | amending act | 1 | 2016-01-30 | 2016-01-30 |
 | Uredba o izmjeni i dopuni Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj | [`uredba/2016/484/`](uredba/2016/484/) | amending act | 1 | 2016-03-05 | 2016-03-05 |
@@ -9451,7 +9649,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (793, of which 470 amending acts)
+## zakon (816, of which 484 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9732,6 +9930,29 @@
 | Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama i dopunama Zakona o proračunu | [`zakon/2015/277/`](zakon/2015/277/) | amending act | 1 | 2015-02-14 | 2015-02-14 |
+| Zakon o izmjenama i dopuni Zakona o područjima posebne državne skrbi | [`zakon/2015/356/`](zakon/2015/356/) | amending act | 1 | 2015-02-26 | 2015-02-26 |
+| Zakon o dopuni Zakona o reprezentativnosti udruga poslodavaca i sindikata | [`zakon/2015/542/`](zakon/2015/542/) | amending act | 1 | 2015-03-17 | 2015-03-17 |
+| Zakon o prestanku važenja Zakona o listi tjelesnih oštećenja | [`zakon/2015/613/`](zakon/2015/613/) | in force | 1 | 2015-03-25 | 2015-03-25 |
+| Zakon o izmjenama Zakona o nasljeđivanju | [`zakon/2015/681/`](zakon/2015/681/) | in force | 1 | 2015-04-01 | 2015-04-01 |
+| Zakon o izmjenama i dopunama Zakona o Nacionalnom preventivnom mehanizmu za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja | [`zakon/2015/682/`](zakon/2015/682/) | amending act | 1 | 2015-04-01 | 2015-04-01 |
+| Zakon o izmjeni Zakona o uskrati prava na uvećanje plaće po osnovi ostvarenih godina radnog staža | [`zakon/2015/735/`](zakon/2015/735/) | in force | 1 | 2015-04-01 | 2015-04-01 |
+| Zakon o izmjeni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima | [`zakon/2015/736/`](zakon/2015/736/) | in force | 1 | 2015-04-07 | 2015-04-07 |
+| Zakon o izmjenama i dopunama Zakona o zračnim lukama | [`zakon/2015/1496/`](zakon/2015/1496/) | amending act | 1 | 2015-07-25 | 2015-07-25 |
+| Zakon o izmjenama i dopuni Zakona o doplatku za djecu | [`zakon/2015/1572/`](zakon/2015/1572/) | amending act | 1 | 2015-09-01 | 2015-09-01 |
+| Zakon o izmjenama i dopunama Zakona o osiguranju potraživanja radnika u slučaju stečaja poslodavca | [`zakon/2015/1577/`](zakon/2015/1577/) | amending act | 1 | 2015-09-01 | 2015-09-01 |
+| Zakon o izmjenama i dopunama Zakona o putnim ispravama hrvatskih državljana | [`zakon/2015/1578/`](zakon/2015/1578/) | amending act | 1 | 2015-08-01 | 2015-08-01 |
+| Zakon o izmjeni Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave | [`zakon/2015/1939/`](zakon/2015/1939/) | in force | 1 | 2016-01-01 | 2016-01-01 |
+| Zakon o dopuni Zakona o energiji | [`zakon/2015/1975/`](zakon/2015/1975/) | amending act | 1 | 2015-09-26 | 2015-09-26 |
+| Zakon o dopunama Zakona o registru birača | [`zakon/2015/2040/`](zakon/2015/2040/) | amending act | 1 | 2015-10-03 | 2015-10-03 |
+| Zakon o izmjenama i dopunama Zakona o Hrvatskoj gorskoj službi spašavanja | [`zakon/2015/2123/`](zakon/2015/2123/) | amending act | 1 | 2015-10-21 | 2015-10-21 |
+| Zakon o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`zakon/2015/2125/`](zakon/2015/2125/) | in force | 1 | 2015-10-21 | 2015-10-21 |
+| Zakon o izmjenama i dopunama Zakona o sigurnosti i interoperabilnosti željezničkog sustava | [`zakon/2015/2126/`](zakon/2015/2126/) | amending act | 1 | 2015-10-21 | 2015-10-21 |
+| Zakon o izmjeni Zakona o uvođenju Europske zadruge - Societas Cooperativa Europaea (SCE) | [`zakon/2015/2129/`](zakon/2015/2129/) | in force | 1 | 2015-11-01 | 2015-11-01 |
+| Zakon o izmjeni Zakona o uvođenju Europskog društva - Societas Europea (SE) i Europskog gospodarskog interesnog udruženja (EGIU) | [`zakon/2015/2130/`](zakon/2015/2130/) | in force | 1 | 2015-11-01 | 2015-11-01 |
+| Zakon o dopunama Zakona o sudskim pristojbama | [`zakon/2015/2133/`](zakon/2015/2133/) | amending act | 1 | 2015-11-01 | 2015-11-01 |
+| Zakon o izmjeni Zakona o javnobilježničkim pristojbama | [`zakon/2015/2134/`](zakon/2015/2134/) | in force | 1 | 2015-11-01 | 2015-11-01 |
+| Zakon o izmjenama i dopunama Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2015/2137/`](zakon/2015/2137/) | amending act | 1 | 2015-10-21 | 2015-10-21 |
 | Zakon o dopuni Zakona o nadzoru državne granice | [`zakon/2016/784/`](zakon/2016/784/) | amending act | 1 | 2016-03-26 | 2016-03-26 |
 | Zakon o izmjeni Zakona o faktoringu | [`zakon/2016/1064/`](zakon/2016/1064/) | in force | 1 | 2016-05-10 | 2016-05-10 |
 | Zakon o izmjenama i dopuni Zakona o zaštiti od buke | [`zakon/2016/1065/`](zakon/2016/1065/) | amending act | 1 | 2016-05-10 | 2016-05-10 |
