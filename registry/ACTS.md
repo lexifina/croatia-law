@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9814 acts, 10,036 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9907 acts, 10,141 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (51, of which 12 amending acts)
 
@@ -5732,7 +5732,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2534, of which 818 amending acts)
+## pravilnik (2588, of which 838 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6121,13 +6121,49 @@
 | Pravilnik o izmjenama Pravilnika o postupku javnog nadmetanja za utvrđivanje najpovoljnijeg ponuditelja na javnom pozivu za dodjelu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u zakup i zakup za ribnjake | [`pravilnik/2015/1908/`](pravilnik/2015/1908/) | in force | 1 | 2015-09-22 | 2015-09-22 |
 | Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.1 "Trajna obustava ribolovne aktivnosti" | [`pravilnik/2015/1931/`](pravilnik/2015/1931/) | in force | 1 | 2015-09-17 | 2015-09-17 |
 | Pravilnik o izmjenama i dopunama Pravilnika o promidžbi i ostalim informacijama za članove obveznih mirovinskih fondova | [`pravilnik/2015/2437/`](pravilnik/2015/2437/) | amending act | 1 | 2015-12-03 | 2015-12-03 |
+| Pravilnik o načinu rada Odbora za standarde financijskog izvještavanja | [`pravilnik/2016/4/`](pravilnik/2016/4/) | repealed 2025-08-07 | 2 | 2016-01-02 | 2025-08-07 |
+| Pravilnik o vrstama i visini naknada Financijskoj agenciji za uslugu javne objave dokumentacije iz Registra godišnjih financijskih izvještaja | [`pravilnik/2016/5/`](pravilnik/2016/5/) | repealed 2020-04-08 | 2 | 2016-01-02 | 2020-04-08 |
 | Pravilnik o uvjetima za dobivanje dozvole za obavljanje poslova savjetovališta i načinu rada savjetovališta | [`pravilnik/2016/13/`](pravilnik/2016/13/) | in force | 1 | 2016-01-06 | 2016-01-06 |
 | Pravilnik o uvjetima za dobivanje dozvole za obavljanje poslova posrednika | [`pravilnik/2016/19/`](pravilnik/2016/19/) | in force | 1 | 2016-01-09 | 2016-01-09 |
 | Pravilnik o izmjenama i dopunama Pravilnika o graničnim vrijednostima emisija otpadnih voda | [`pravilnik/2016/22/`](pravilnik/2016/22/) | amending act | 1 | 2016-01-16 | 2016-01-16 |
 | Pravilnik o uzajamnoj razmjeni informacija i izvješćivanju o kvaliteti zraka i obvezama za provedbu Odluke Komisije 2011/850/EU | [`pravilnik/2016/23/`](pravilnik/2016/23/) | repealed 2023-03-11 | 2 | 2016-01-16 | 2023-03-11 |
+| Pravilnik o utvrđivanju uvjeta zdravstvene sposobnosti članova posade plovila unutarnje plovidbe | [`pravilnik/2016/27/`](pravilnik/2016/27/) | in force | 1 | 2016-01-21 | 2016-01-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika Suda časti Hrvatske obrtničke komore | [`pravilnik/2016/28/`](pravilnik/2016/28/) | amending act | 1 | 2016-01-21 | 2016-01-21 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.9. "Privremeni prestanak ribolovnih aktivnosti" okružujućim mrežama plivaricama - srdelarama za prosinac 2015. godine | [`pravilnik/2016/71/`](pravilnik/2016/71/) | in force | 1 | 2016-01-16 | 2016-01-16 |
 | Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.9. "Privremeni prestanak ribolovnih aktivnosti" okružujućim mrežama plivaricama - srdelarama za siječanj 2016. godine | [`pravilnik/2016/72/`](pravilnik/2016/72/) | in force | 1 | 2016-01-16 | 2016-01-16 |
+| Pravilnik o izmjenama Pravilnika o sadržaju i načinu vođenja upisnika ustanova socijalne skrbi | [`pravilnik/2016/73/`](pravilnik/2016/73/) | in force | 1 | 2016-01-23 | 2016-01-23 |
+| Pravilnik o obliku, sadržaju i načinu vođenja Očevidnika savjetovališta i posrednika | [`pravilnik/2016/90/`](pravilnik/2016/90/) | in force | 1 | 2016-01-23 | 2016-01-23 |
+| Pravilnik o pretpostavkama i načinu izbora povjerenika metodom slučajnoga odabira | [`pravilnik/2016/91/`](pravilnik/2016/91/) | repealed 2019-01-10 | 2 | 2016-01-23 | 2019-01-10 |
+| Pravilnik o priznavanju inozemnih stručnih kvalifikacija iz područja turizma | [`pravilnik/2016/92/`](pravilnik/2016/92/) | repealed 2019-06-20 | 2 | 2016-01-30 | 2019-06-20 |
 | Pravilnik o prestanku važenja Pravilnika o pomoći Europskoj komisiji i suradnji između Europske komisije i Republike Hrvatske u znanstvenom razmatranju pitanja o hrani | [`pravilnik/2016/175/`](pravilnik/2016/175/) | in force | 1 | 2016-01-31 | 2016-01-31 |
 | Pravilnik o izmjenama Pravilnika o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje zdravstvene djelatnosti | [`pravilnik/2016/177/`](pravilnik/2016/177/) | in force | 1 | 2016-01-31 | 2016-01-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obrazovanju potrebnom za rukovanje izvorima ionizirajućeg zračenja i primjenu mjera radiološke sigurnosti | [`pravilnik/2016/259/`](pravilnik/2016/259/) | amending act | 1 | 2016-02-06 | 2016-02-06 |
+| Pravilnik o detaljnim pravilima i kriterijima poštivanja osobne okolnosti spola | [`pravilnik/2016/261/`](pravilnik/2016/261/) | in force | 1 | 2016-02-06 | 2016-02-06 |
+| Pravilnik o izmjeni Pravilnika o obavljanju gospodarskog ribolova na moru dredžama | [`pravilnik/2016/305/`](pravilnik/2016/305/) | in force | 1 | 2016-02-06 | 2016-02-06 |
+| Pravilnik o izmjeni Pravilnika o posebnim tehničkim zahtjevima za krv i krvne pripravke | [`pravilnik/2016/316/`](pravilnik/2016/316/) | in force | 1 | 2016-02-18 | 2016-02-18 |
+| Pravilnik o izdavanju svjedodžbe aerodroma i odobrenja za uporabu aerodroma | [`pravilnik/2016/384/`](pravilnik/2016/384/) | repealed 2025-10-18 | 2 | 2016-02-20 | 2025-10-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o prihvatljivosti izdataka u okviru Europskog socijalnog fonda | [`pravilnik/2016/386/`](pravilnik/2016/386/) | amending act | 1 | 2016-02-20 | 2016-02-20 |
+| Pravilnik o izmjenama i dopunama Pravilnika o provedbi Sheme školskog voća i povrća | [`pravilnik/2016/400/`](pravilnik/2016/400/) | amending act | 1 | 2016-02-25 | 2016-02-25 |
+| Pravilnik o izmjeni Pravilnika o obvezujućim mišljenjima, ispravku prijave, statističkim izvješćima i poreznoj nagodbi | [`pravilnik/2016/454/`](pravilnik/2016/454/) | in force | 1 | 2016-02-20 | 2016-02-20 |
+| Pravilnik o prihvatljivosti izdataka u okviru Fonda europske pomoći za najpotrebitije (FEAD) | [`pravilnik/2016/459/`](pravilnik/2016/459/) | in force | 1 | 2016-02-27 | 2016-02-27 |
+| Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje ovlaštenja za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju | [`pravilnik/2016/460/`](pravilnik/2016/460/) | repealed 2019-02-23 | 2 | 2016-02-27 | 2019-02-23 |
+| Pravilnik o izmjeni Pravilnika o Diplomatskoj akademiji i polaganju savjetničkog ispita | [`pravilnik/2016/465/`](pravilnik/2016/465/) | in force | 1 | 2016-03-03 | 2016-03-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima i tehničkim zahtjevima za europsku elektroničku naplatu cestarine i elementima interoperabilnosti | [`pravilnik/2016/468/`](pravilnik/2016/468/) | repealed 2016-07-02 | 2 | 2016-03-03 | 2016-07-02 |
+| Pravilnik o izmjeni i dopunama Pravilnika o obrascu zahtjeva i rješenja o odobravanju korištenja pravne pomoći | [`pravilnik/2016/581/`](pravilnik/2016/581/) | amending act | 1 | 2016-03-12 | 2016-03-12 |
+| Pravilnik o sadržaju i načinu vođenja evidencije isključivih prava na ponovnu uporabu informacija | [`pravilnik/2016/582/`](pravilnik/2016/582/) | in force | 1 | 2016-03-12 | 2016-03-12 |
+| Pravilnik o izmjenama Pravilnika o priređivanju zabavnih igara | [`pravilnik/2016/650/`](pravilnik/2016/650/) | in force | 1 | 2016-03-17 | 2016-03-17 |
+| Pravilnik o izmjeni Pravilnika o provedbi mjere Investicije u vinarije i marketing vina iz Nacionalnog programa pomoći sektoru vina 2014. - 2018. | [`pravilnik/2016/651/`](pravilnik/2016/651/) | in force | 1 | 2016-03-17 | 2016-03-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.4. "Prerada proizvoda ribarstva i akvakulture" | [`pravilnik/2016/724/`](pravilnik/2016/724/) | amending act | 1 | 2016-03-19 | 2016-03-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i stručnoj osposobljenosti brodaraca | [`pravilnik/2016/760/`](pravilnik/2016/760/) | amending act | 1 | 2016-03-31 | 2016-03-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju programa planiranog reosiguranja | [`pravilnik/2016/795/`](pravilnik/2016/795/) | amending act | 1 | 2016-04-02 | 2016-04-02 |
+| Pravilnik o dopunama Pravilnika o obavljanju inspekcijskog nadzora sigurnosti plovidbe | [`pravilnik/2016/815/`](pravilnik/2016/815/) | amending act | 1 | 2016-04-09 | 2016-04-09 |
+| Pravilnik o dopunama Pravilnika o uvjetima i načinu održavanja straže, te obavljanju drugih poslova na brodu kojima se osigurava sigurna plovidba i zaštita mora od onečišćenja | [`pravilnik/2016/816/`](pravilnik/2016/816/) | amending act | 1 | 2016-04-09 | 2016-04-09 |
+| Pravilnik o izmjeni i dopuni Pravilnika o obrascima i evidenciji osobnih iskaznica te organizacijskim, tehničkim i sigurnosnim mjerama u postupku izdavanja osobnih iskaznica | [`pravilnik/2016/823/`](pravilnik/2016/823/) | amending act | 1 | 2016-04-14 | 2016-04-14 |
+| Pravilnik o dopunama Pravilnika o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi, plutajući objekti i nepomični odobalni objekti | [`pravilnik/2016/842/`](pravilnik/2016/842/) | amending act | 1 | 2016-04-16 | 2016-04-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dodjeli potpore za "Razminiranje poljoprivrednog zemljišta" iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2016/843/`](pravilnik/2016/843/) | amending act | 1 | 2016-04-16 | 2016-04-16 |
+| Pravilnik o izmjenama i dopuni Pravilnika o postupku, uvjetima i načinu utvrđivanja prava na plaćanje premije dopunskog zdravstvenog osiguranja iz državnog proračuna | [`pravilnik/2016/848/`](pravilnik/2016/848/) | amending act | 1 | 2016-04-09 | 2016-04-09 |
+| Pravilnik o obavljanju provjere kvalitete aktivnosti unutarnje revizije | [`pravilnik/2016/984/`](pravilnik/2016/984/) | in force | 1 | 2016-04-27 | 2016-04-27 |
+| Pravilnik o načinu i uvjetima pristupa i zajedničkog korištenja elektroničke komunikacijske infrastrukture i druge povezane opreme | [`pravilnik/2016/991/`](pravilnik/2016/991/) | repealed 2023-06-27 | 2 | 2016-04-28 | 2023-06-27 |
 | Pravilnik o načinu izbora arbitra i provođenju postupka arbitraže u postupcima nadomještanja suglasnosti | [`pravilnik/2016/1002/`](pravilnik/2016/1002/) | repealed 2017-12-28 | 2 | 2016-04-30 | 2017-12-28 |
 | Pravilnik o dodjeli tržišne kompenzacije u ribarstvu | [`pravilnik/2016/1030/`](pravilnik/2016/1030/) | in force | 1 | 2016-04-29 | 2016-04-29 |
 | Pravilnik o provedbi modela poticanja proizvodnje u ribarstvu | [`pravilnik/2016/1031/`](pravilnik/2016/1031/) | in force | 1 | 2016-04-29 | 2016-04-29 |
@@ -6234,6 +6270,24 @@
 | Pravilnik o izmjenama Pravilnika o načinu naplate paušalnog iznosa boravišne pristojbe osoba koje pružaju usluge smještaja u domaćinstvu i seljačkom domaćinstvu | [`pravilnik/2016/2425/`](pravilnik/2016/2425/) | in force | 1 | 2017-01-01 | 2017-01-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu | [`pravilnik/2016/2426/`](pravilnik/2016/2426/) | amending act | 1 | 2016-12-08 | 2016-12-08 |
 | Pravilnik o dozvoljenim ulaganjima i ograničenjima ulaganja UCITS fonda | [`pravilnik/2016/2428/`](pravilnik/2016/2428/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede | [`pravilnik/2016/2491/`](pravilnik/2016/2491/) | amending act | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o dopunama Pravilnika o pravima, uvjetima i načinu korištenja prekogranične zdravstvene zaštite | [`pravilnik/2016/2496/`](pravilnik/2016/2496/) | amending act | 1 | 2016-12-08 | 2016-12-08 |
+| Pravilnik o izvođenju nastave dijela nastavnih predmeta i sadržaja utvrđenih nastavnim planom i programom na nekom od svjetskih jezika u srednjoj školi | [`pravilnik/2016/2567/`](pravilnik/2016/2567/) | in force | 1 | 2016-12-22 | 2016-12-22 |
+| Pravilnik o izmjenama Pravilnika o nacionalnoj mreži lokalnih akcijskih skupina u ribarstvu | [`pravilnik/2016/2568/`](pravilnik/2016/2568/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Pravilnik o izmjeni Pravilnika o iskaznici i znački sanitarnog inspektora | [`pravilnik/2016/2572/`](pravilnik/2016/2572/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu, ribogojstvu, akvakulturi te na povrat plaćene trošarine na bezolovni motorni benzin za namjene u ribolovu | [`pravilnik/2016/2590/`](pravilnik/2016/2590/) | amending act | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o dopunama Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom u 2016. godini | [`pravilnik/2016/2596/`](pravilnik/2016/2596/) | amending act | 1 | 2016-12-17 | 2016-12-17 |
+| Pravilnik o obvezi vođenja evidencije obračunskih komunalnih mjerila u uporabi | [`pravilnik/2016/2618/`](pravilnik/2016/2618/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| Pravilnik o izmjenama Pravilnika o prehrani pripadnika Oružanih snaga Republike Hrvatske | [`pravilnik/2016/2657/`](pravilnik/2016/2657/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o dostavi prijedloga državnih potpora, podataka o državnim potporama i potporama male vrijednosti te registru državnih potpora i potpora male vrijednosti | [`pravilnik/2016/2661/`](pravilnik/2016/2661/) | repealed 2017-12-23 | 2 | 2017-01-01 | 2017-12-23 |
+| Pravilnik o stavljanju izvan snage Pravilnika o dozvolama, ovlaštenjima i posebnim ovlastima kontrolora zračnog prometa | [`pravilnik/2016/2663/`](pravilnik/2016/2663/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2017. godinu | [`pravilnik/2016/2668/`](pravilnik/2016/2668/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dozvoljenim ulaganjima i ograničenjima ulaganja imovine za pokriće tehničkih pričuva mirovinskog osiguravajućeg društva | [`pravilnik/2016/2672/`](pravilnik/2016/2672/) | amending act | 1 | 2016-12-31 | 2016-12-31 |
+| Pravilnik o utvrđivanju zdravstvene sposobnosti, načinu i postupku utvrđivanja prisutnosti alkohola, opojnih droga i psihotropnih tvari u organizmu izvršnih radnika željezničkog sustava | [`pravilnik/2016/2679/`](pravilnik/2016/2679/) | in force | 1 | 2017-01-05 | 2017-01-05 |
+| Pravilnik o izmjeni Pravilnika o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom | [`pravilnik/2016/2721/`](pravilnik/2016/2721/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.10. »Trajni prestanak ribolovnih aktivnosti« | [`pravilnik/2016/2722/`](pravilnik/2016/2722/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Pravilnik o izmjeni Pravilnika o provedbi privremenih izvanrednih mjera potpore proizvođačima jabuka i mandarina za postupak povlačenja s tržišta za slobodnu distribuciju | [`pravilnik/2016/2723/`](pravilnik/2016/2723/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena uljarica i predivog bilja | [`pravilnik/2016/2724/`](pravilnik/2016/2724/) | amending act | 1 | 2017-01-07 | 2017-01-07 |
 | Pravilnik o priređivanju zabavnih igara | [`pravilnik/2017/8/`](pravilnik/2017/8/) | repealed 2023-08-10 | 2 | 2017-01-03 | 2023-08-10 |
 | Pravilnik o međusobnim odnosima jedinica područne (regionalne) samouprave i pravne osobe iz članka 46. stavka 4. Zakona o lokalnim porezima | [`pravilnik/2017/10/`](pravilnik/2017/10/) | in force | 1 | 2017-01-03 | 2017-01-03 |
 | Pravilnik o izmjeni Pravilnika o postupku ostvarivanja oslobođenja od plaćanja poreza za diplomatska i konzularna predstavništva, institucije i tijela Europske unije te međunarodne organizacije | [`pravilnik/2017/12/`](pravilnik/2017/12/) | in force | 1 | 2017-01-03 | 2017-01-03 |
@@ -8368,7 +8422,7 @@
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
 
-## uredba (699, of which 155 amending acts)
+## uredba (724, of which 164 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8664,11 +8718,36 @@
 | Uredba o izmjenama Uredbe o ustrojstvu i načinu rada Odbora za državnu službu | [`uredba/2015/824/`](uredba/2015/824/) | in force | 1 | 2015-04-18 | 2015-04-18 |
 | Uredba o izmjeni i dopunama Uredbe o osnivanju Agencije za poljoprivredno zemljište | [`uredba/2015/1794/`](uredba/2015/1794/) | amending act | 1 | 2015-09-05 | 2015-09-05 |
 | Uredba o dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu | [`uredba/2015/2248/`](uredba/2015/2248/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
+| Uredba o izmjenama i dopuni Uredbe o Glavnom tajništvu Vlade Republike Hrvatske | [`uredba/2016/255/`](uredba/2016/255/) | amending act | 1 | 2016-01-30 | 2016-01-30 |
+| Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja | [`uredba/2016/256/`](uredba/2016/256/) | amending act | 1 | 2016-01-30 | 2016-01-30 |
+| Uredba o izmjeni i dopuni Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj | [`uredba/2016/484/`](uredba/2016/484/) | amending act | 1 | 2016-03-05 | 2016-03-05 |
+| Uredba o izmjenama i dopuni Uredbe o upravljanju i vođenju poslova lučkih uprava unutarnjih voda | [`uredba/2016/834/`](uredba/2016/834/) | amending act | 1 | 2016-04-16 | 2016-04-16 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2016. godinu | [`uredba/2016/888/`](uredba/2016/888/) | in force | 1 | 2016-04-23 | 2016-04-23 |
+| Uredba o izmjenama Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu | [`uredba/2016/1048/`](uredba/2016/1048/) | in force | 1 | 2016-05-01 | 2016-05-01 |
+| Uredba o izmjenama i dopunama Uredbe o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture | [`uredba/2016/1049/`](uredba/2016/1049/) | amending act | 1 | 2016-05-01 | 2016-05-01 |
+| Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2015. godini | [`uredba/2016/1138/`](uredba/2016/1138/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Uredba o privremenoj izvanrednoj pomoći poljoprivrednicima u sektoru stočarstva | [`uredba/2016/1139/`](uredba/2016/1139/) | in force | 1 | 2016-05-19 | 2016-05-19 |
 | Uredba o izmjenama i dopunama Uredbe o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera | [`uredba/2016/1141/`](uredba/2016/1141/) | amending act | 1 | 2016-05-12 | 2016-05-12 |
+| Uredba o uvjetima, načinu i postupku raspolaganja tražbinama Republike Hrvatske s naslova duga po kreditima i protestiranim državnim jamstvima u predstečajnim i stečajnim postupcima | [`uredba/2016/1211/`](uredba/2016/1211/) | repealed 2024-02-03 | 2 | 2016-05-28 | 2024-02-03 |
+| Uredba o izmjeni Uredbe o uvjetima, načinu i postupku raspolaganja tražbinama s naslova poreznog duga u predstečajnom i stečajnom postupku | [`uredba/2016/1212/`](uredba/2016/1212/) | in force | 1 | 2016-05-28 | 2016-05-28 |
+| Uredba o preuzimanju Direktive 2014/54/EU o mjerama za lakše ostvarivanje prava zajamčenih radnicima u kontekstu slobode kretanja radnika | [`uredba/2016/1273/`](uredba/2016/1273/) | in force | 1 | 2016-05-31 | 2016-05-31 |
+| Uredba o osnivanju prava građenja na šumama i šumskom zemljištu u vlasništvu Republike Hrvatske | [`uredba/2016/1526/`](uredba/2016/1526/) | repealed 2019-09-21 | 2 | 2016-07-14 | 2019-09-21 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2017. godinu | [`uredba/2016/1667/`](uredba/2016/1667/) | in force | 1 | 2016-08-07 | 2016-08-07 |
+| Uredba o dopuni Uredbe o kriterijima za dodjelu zamjenskog poljoprivrednog zemljišta u vlasništvu Republike Hrvatske ovlaštenicima naknade za oduzeto poljoprivredno zemljište temeljem Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine | [`uredba/2016/1668/`](uredba/2016/1668/) | amending act | 1 | 2016-08-07 | 2016-08-07 |
+| Uredba o obrascu i načinu vrednovanja Gospodarskog programa korištenja poljoprivrednog zemljišta u vlasništvu Republike Hrvatske | [`uredba/2016/1799/`](uredba/2016/1799/) | in force | 1 | 2016-09-10 | 2016-09-10 |
 | Uredba o dopuni Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu | [`uredba/2016/1800/`](uredba/2016/1800/) | amending act | 1 | 2016-09-10 | 2016-09-10 |
+| Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2016. godinu | [`uredba/2016/1842/`](uredba/2016/1842/) | in force | 1 | 2016-09-24 | 2016-09-24 |
+| Uredba o korištenju novčanih sredstava koja se vode na posebnom računu suda | [`uredba/2016/1852/`](uredba/2016/1852/) | in force | 1 | 2016-09-22 | 2016-09-22 |
+| Uredba o izmjenama Uredbe o Glavnom tajništvu Vlade Republike Hrvatske | [`uredba/2016/2086/`](uredba/2016/2086/) | in force | 1 | 2016-10-28 | 2016-10-28 |
+| Uredba o izmjenama Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja | [`uredba/2016/2087/`](uredba/2016/2087/) | in force | 1 | 2016-10-28 | 2016-10-28 |
+| Uredba o izmjenama i dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2016. godinu | [`uredba/2016/2536/`](uredba/2016/2536/) | amending act | 1 | 2016-12-10 | 2016-12-10 |
+| Uredba o izmjenama i dopunama Uredbe o kriterijima za bodovanje zahtjeva za stambeno zbrinjavanje | [`uredba/2016/2537/`](uredba/2016/2537/) | amending act | 1 | 2016-12-17 | 2016-12-17 |
+| Uredba o izmjenama Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave | [`uredba/2016/2588/`](uredba/2016/2588/) | in force | 1 | 2016-12-17 | 2016-12-17 |
+| Uredba o izmjeni Zakona o tržištu kapitala | [`uredba/2016/2688/`](uredba/2016/2688/) | repealed 2018-01-01 | 2 | 2017-01-01 | 2018-01-01 |
 | Uredba o izmjenama Uredbe o poslovima i posebnim uvjetima rada u državnoj službi | [`uredba/2017/28/`](uredba/2017/28/) | in force | 1 | 2017-01-12 | 2017-01-12 |
 | Uredba o izmjenama Uredbe o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj | [`uredba/2017/119/`](uredba/2017/119/) | in force | 1 | 2017-01-19 | 2017-01-19 |
 | Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2016. godini | [`uredba/2017/283/`](uredba/2017/283/) | in force | 1 | 2017-02-04 | 2017-02-04 |
+| Uredba o izmjenama i dopuni Uredbe o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja | [`uredba/2017/293/`](uredba/2017/293/) | amending act | 1 | 2017-02-14 | 2017-02-14 |
 | Uredba o ljetnom računanju vremena u 2017. godini | [`uredba/2017/350/`](uredba/2017/350/) | in force | 1 | 2017-02-25 | 2017-02-25 |
 | Uredba o izmjenama Uredbe o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj | [`uredba/2017/435/`](uredba/2017/435/) | in force | 1 | 2017-03-11 | 2017-03-11 |
 | Uredba o izmjenama Uredbe o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara | [`uredba/2017/436/`](uredba/2017/436/) | in force | 1 | 2017-03-11 | 2017-03-11 |
@@ -9072,7 +9151,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (779, of which 463 amending acts)
+## zakon (793, of which 470 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9353,7 +9432,21 @@
 | Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o dopuni Zakona o nadzoru državne granice | [`zakon/2016/784/`](zakon/2016/784/) | amending act | 1 | 2016-03-26 | 2016-03-26 |
+| Zakon o izmjeni Zakona o faktoringu | [`zakon/2016/1064/`](zakon/2016/1064/) | in force | 1 | 2016-05-10 | 2016-05-10 |
+| Zakon o izmjenama i dopuni Zakona o zaštiti od buke | [`zakon/2016/1065/`](zakon/2016/1065/) | amending act | 1 | 2016-05-10 | 2016-05-10 |
+| Zakon o izmjenama i dopunama Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata | [`zakon/2016/1136/`](zakon/2016/1136/) | amending act | 1 | 2016-05-19 | 2016-05-19 |
+| Zakon o izmjenama Zakona o službi u Oružanim snagama Republike Hrvatske | [`zakon/2016/1334/`](zakon/2016/1334/) | in force | 1 | 2016-06-09 | 2016-06-09 |
 | Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu | [`zakon/2016/1446/`](zakon/2016/1446/) | amending act | 1 | 2016-06-25 | 2016-06-25 |
+| Zakon o izmjenama Zakona o pomorskom dobru i morskim lukama | [`zakon/2016/1447/`](zakon/2016/1447/) | in force | 1 | 2016-06-25 | 2016-06-25 |
+| Zakon o izmjenama i dopunama Zakona o sustavu državne uprave | [`zakon/2016/1971/`](zakon/2016/1971/) | amending act | 1 | 2016-10-16 | 2016-10-16 |
+| Zakon o izmjenama Zakona o sustavu državne uprave | [`zakon/2016/2201/`](zakon/2016/2201/) | in force | 1 | 2016-11-13 | 2016-11-13 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na motorna vozila | [`zakon/2016/2530/`](zakon/2016/2530/) | amending act | 1 | 2017-01-01 | 2017-01-01 |
+| Zakon o izmjeni Zakona o javnom bilježništvu | [`zakon/2016/2613/`](zakon/2016/2613/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Zakon o dopuni Zakona o poticanju razvoja malog gospodarstva | [`zakon/2016/2625/`](zakon/2016/2625/) | amending act | 1 | 2016-12-31 | 2016-12-31 |
+| Zakon o izmjenama Zakona o članarinama u turističkim zajednicama | [`zakon/2016/2627/`](zakon/2016/2627/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Zakon o izmjeni Zakona o policiji | [`zakon/2016/2628/`](zakon/2016/2628/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Zakon o dopunama Zakona o lokalnim izborima | [`zakon/2016/2629/`](zakon/2016/2629/) | amending act | 1 | 2016-12-31 | 2016-12-31 |
 | Zakon o izmjenama i dopunama Zakona o poticanju zapošljavanja | [`zakon/2017/364/`](zakon/2017/364/) | amending act | 1 | 2017-03-02 | 2017-03-02 |
 | Zakon o prestanku važenja Zakona o potporama za očuvanje radnih mjesta | [`zakon/2017/365/`](zakon/2017/365/) | in force | 1 | 2017-03-02 | 2017-03-02 |
 | Zakon o dopuni Zakona o pravnim posljedicama osude, kaznenoj evidenciji i rehabilitaciji | [`zakon/2017/708/`](zakon/2017/708/) | amending act | 1 | 2017-04-07 | 2017-04-07 |
