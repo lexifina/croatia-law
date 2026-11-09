@@ -1,29 +1,9 @@
 # Pravilnik o tržišnim standardima za meso peradi
 
-Pravilnik o tržišnim standardima za meso peradi · 2 versions, from 2022-06-11 (latest in force: 2022-06-11) · <https://narodne-novine.nn.hr/eli/sluzbeni/2022/63/915>
+Pravilnik o tržišnim standardima za meso peradi · 2 versions, from 2022-06-11 (latest in force: 2026-11-05) · <https://narodne-novine.nn.hr/eli/sluzbeni/2022/63/915>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| čl. 1 | [clanak-001.md](clanak-001.md) | 1 | 2026-11-05 |
-| čl. 2 | [clanak-002.md](clanak-002.md) | 1 | 2026-11-05 |
-| čl. 3 | [clanak-003.md](clanak-003.md) | 1 | 2026-11-05 |
-| čl. 4 | [clanak-004.md](clanak-004.md) | 1 | 2026-11-05 |
-| čl. 5 | [clanak-005.md](clanak-005.md) | 1 | 2026-11-05 |
-| čl. 6 | [clanak-006.md](clanak-006.md) | 1 | 2026-11-05 |
-| čl. 7 | [clanak-007.md](clanak-007.md) | 1 | 2026-11-05 |
-| čl. 8 | [clanak-008.md](clanak-008.md) | 1 | 2026-11-05 |
-| čl. 9 | [clanak-009.md](clanak-009.md) | 1 | 2026-11-05 |
-| čl. 10 | [clanak-010.md](clanak-010.md) | 1 | 2026-11-05 |
-| čl. 11 | [clanak-011.md](clanak-011.md) | 1 | 2026-11-05 |
-| čl. 12 | [clanak-012.md](clanak-012.md) | 1 | 2026-11-05 |
-| čl. 13 | [clanak-013.md](clanak-013.md) | 1 | 2026-11-05 |
-| čl. 14 | [clanak-014.md](clanak-014.md) | 1 | 2026-11-05 |
-| čl. 15 | [clanak-015.md](clanak-015.md) | 1 | 2026-11-05 |
-| čl. 16 | [clanak-016.md](clanak-016.md) | 1 | 2026-11-05 |
-| čl. 17 | [clanak-017.md](clanak-017.md) | 1 | 2026-11-05 |
-| čl. 18 | [clanak-018.md](clanak-018.md) | 1 | 2026-11-05 |
-| Naslov | [naslov.md](naslov.md) | 1 | 2026-11-05 |
-| Uvod | [uvod.md](uvod.md) | 1 | 2026-11-05 |
 
 Act id: `pravilnik-2022-915` (tags `pravilnik-2022-915/<day>`; `python tools/on.py <day> pravilnik-2022-915`).
 
