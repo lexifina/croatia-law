@@ -1,6 +1,6 @@
 # Every act in this repository
 
-9514 acts, 9,726 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9814 acts, 10,036 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (51, of which 12 amending acts)
 
@@ -58,7 +58,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (192, of which 33 amending acts)
+## naredba (195, of which 35 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -195,6 +195,9 @@
 | Naredba o prestanku važenja Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara (goveda, ovaca, koza i svinja) te proizvoda od tih životinja kao i životinjske hrane i stelje podrijetlom iz Republike Turske | [`naredba/1999/2102/`](naredba/1999/2102/) | in force | 1 | 1999-12-10 | 1999-12-10 |
 | Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2016. godinu | [`naredba/2015/2382/`](naredba/2015/2382/) | in force | 1 | 2015-11-19 | 2015-11-19 |
 | Naredba o izmjeni Naredbe o stavljanju na tržište upaljača sigurnih za djecu i zabrani stavljanja na tržište upaljača "Noviteta" | [`naredba/2016/1693/`](naredba/2016/1693/) | in force | 1 | 2016-08-03 | 2016-08-03 |
+| Naredba o izmjeni i dopunama Naredbe o plovidbi u prolazu u šibensku luku, u Pašmanskom tjesnacu, kroz prolaz Vela vrata, rijekama Neretvom i Zrmanjom, te o zabrani plovidbe Unijskim kanalom i kanalom Krušija, dijelovima Srednjeg kanala, Murterskog mora i Žirjanskog kanala | [`naredba/2016/2196/`](naredba/2016/2196/) | amending act | 1 | 2016-11-11 | 2016-11-11 |
+| Naredba o visini naknade za upotrebu pomorskog dobra | [`naredba/2016/2571/`](naredba/2016/2571/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Naredba o izmjenama i dopunama Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2016. godini | [`naredba/2016/2591/`](naredba/2016/2591/) | amending act | 1 | 2016-12-17 | 2016-12-17 |
 | Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2017. godinu | [`naredba/2017/59/`](naredba/2017/59/) | in force | 1 | 2017-01-05 | 2017-01-05 |
 | Naredba o razvrstaju luka otvorenih za javni promet na području Dubrovačko-neretvanske županije | [`naredba/2017/358/`](naredba/2017/358/) | in force | 1 | 2017-02-25 | 2017-02-25 |
 | Naredba o izmjeni Naredbe o visini naknade za utvrđivanje sposobnosti brodica za plovidbu i o visini naknade za baždarenje brodica | [`naredba/2017/973/`](naredba/2017/973/) | in force | 1 | 2017-05-01 | 2017-05-01 |
@@ -255,7 +258,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (5281, of which 639 amending acts)
+## odluka (5469, of which 663 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2394,37 +2397,225 @@
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Gabonskoj Republici | [`odluka/2015/2308/`](odluka/2015/2308/) | in force | 1 | 2015-10-30 | 2015-10-30 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Burkini Faso | [`odluka/2015/2309/`](odluka/2015/2309/) | in force | 1 | 2015-10-30 | 2015-10-30 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Rumunjskoj | [`odluka/2015/2569/`](odluka/2015/2569/) | in force | 1 | 2015-12-10 | 2015-12-10 |
+| Odluka kojom se potvrđuje da sustav TARGET2-HR udovoljava uvjetima iz Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata | [`odluka/2016/75/`](odluka/2016/75/) | in force | 1 | 2016-02-01 | 2016-02-01 |
 | Odluka o izmjenama Odluke o općinskim porezima Općine Mrkopalj | [`odluka/2016/83/`](odluka/2016/83/) | in force | 1 | 2016-01-28 | 2016-01-28 |
+| Odluka o donošenju Programa stjecanja pedagoških kompetencija za strukovne učitelje, suradnike u nastavi i mentore | [`odluka/2016/180/`](odluka/2016/180/) | in force | 1 | 2016-01-31 | 2016-01-31 |
 | Odluka kojom se stavljaju van snage nastavni planovi i programi za učenike s teškoćama | [`odluka/2016/242/`](odluka/2016/242/) | in force | 1 | 2016-02-04 | 2016-02-04 |
+| Odluka kojom se stavljaju van snage nastavni planovi i programi za stjecanje srednje stručne spreme | [`odluka/2016/243/`](odluka/2016/243/) | in force | 1 | 2016-02-04 | 2016-02-04 |
+| Odluka kojom se stavljaju van snage nastavni planovi i programi za stjecanje niže stručne spreme | [`odluka/2016/244/`](odluka/2016/244/) | in force | 1 | 2016-02-04 | 2016-02-04 |
+| Odluka o prestanku važenja Odluke o prikupljanju podataka o ostvarenim platnim transakcijama s inozemstvom između rezidenta i nerezidenta | [`odluka/2016/245/`](odluka/2016/245/) | in force | 1 | 2016-02-01 | 2016-02-01 |
 | Odluka o privremenom raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2016/247/`](odluka/2016/247/) | in force | 1 | 2016-01-26 | 2016-01-26 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-612-12/16-05/0001, urbroj: 567-06-16-01 od 25. siječnja 2016. | [`odluka/2016/262/`](odluka/2016/262/) | in force | 1 | 2016-01-25 | 2016-01-25 |
+| Odluka o izmjeni Odluke o izgledu, obliku, sadržaju i načinu korištenja iskaznice dopunskog zdravstvenog osiguranja | [`odluka/2016/292/`](odluka/2016/292/) | amending act | 1 | 2016-02-04 | 2016-02-04 |
+| Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2015. godinu | [`odluka/2016/293/`](odluka/2016/293/) | in force | 1 | 2016-02-04 | 2016-02-04 |
+| Odluka o raspisivanju prijevremenih izbora za gradsko vijeće i gradonačelnika te zamjenike gradonačelnika u gradovima Novoj Gradišci i Novalji te za općinsko vijeće i općinskog načelnika te zamjenike općinskog načelnika u općinama Matulji, Ražanac, Kolan, Kalnik, Ližnjan - Lisignano, Cestica i Gvozd | [`odluka/2016/397/`](odluka/2016/397/) | in force | 1 | 2016-02-18 | 2016-02-18 |
 | Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2016. iz doznaka obveznog mirovinskog fonda | [`odluka/2016/492/`](odluka/2016/492/) | in force | 1 | 2016-03-05 | 2016-03-05 |
+| Odluka o stavljanju izvan snage Programa izobrazbe o gospodarenju otpadom | [`odluka/2016/586/`](odluka/2016/586/) | in force | 1 | 2016-03-04 | 2016-03-04 |
+| Odluka o usklađenju sredstava jamstvenog pologa za 2015. godinu | [`odluka/2016/597/`](odluka/2016/597/) | in force | 1 | 2016-03-10 | 2016-03-10 |
+| Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava i biračkih odbora za provedbu prijevremenih izbora u jedinicama lokalne i područne (regionalne) samouprave u 2016. godini | [`odluka/2016/603/`](odluka/2016/603/) | in force | 1 | 2016-03-04 | 2016-03-04 |
+| Odluka koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije i sustavnom praćenju razvojnih inicijativa i projekata od osobitog strateškog značaja | [`odluka/2016/604/`](odluka/2016/604/) | repealed 2017-02-09 | 2 | 2016-03-04 | 2017-02-09 |
+| Odluka o davanju suglasnosti na davanje u potkoncesiju dijela pomorskog dobra u svrhu gospodarskog korištenja pomorskog dobra radi obavljanja djelatnosti uzgoja školjaka na području posebnog rezervata Malostonskog zaljeva i Malog mora | [`odluka/2016/605/`](odluka/2016/605/) | in force | 1 | 2016-03-04 | 2016-03-04 |
+| Odluka o davanju suglasnosti na prijenos koncesije na pomorskom dobru u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka | [`odluka/2016/606/`](odluka/2016/606/) | in force | 1 | 2016-03-04 | 2016-03-04 |
+| Odluka o davanju suglasnosti na prijenos koncesija na pomorskom dobru u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka na području posebnog rezervata Malostonskog zaljeva i Malog mora | [`odluka/2016/616/`](odluka/2016/616/) | in force | 1 | 2016-02-25 | 2016-02-25 |
+| Odluka o izmjeni Odluke o koncesiji na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma u uvali Luke, na dijelu k.o. Tisno | [`odluka/2016/617/`](odluka/2016/617/) | in force | 1 | 2016-02-25 | 2016-02-25 |
+| Odluka o naknadi za organiziranje tržišta plina | [`odluka/2016/652/`](odluka/2016/652/) | repealed 2022-10-01 | 2 | 2016-04-01 | 2022-10-01 |
+| Odluka o davanju suglasnosti na odredbe Statuta Hrvatskoga autokluba | [`odluka/2016/669/`](odluka/2016/669/) | in force | 1 | 2016-03-16 | 2016-03-16 |
+| Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu CASINO RESORT OPERATOR d.o.o. | [`odluka/2016/670/`](odluka/2016/670/) | in force | 1 | 2016-03-16 | 2016-03-16 |
+| Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu PARČINA EXPORT-IMPORT d.o.o. | [`odluka/2016/671/`](odluka/2016/671/) | in force | 1 | 2016-03-16 | 2016-03-16 |
+| Odluka o oduzimanju prava priređivanja igara na sreću na automatima trgovačkom društvu ŽETON d.o.o. | [`odluka/2016/672/`](odluka/2016/672/) | in force | 1 | 2016-03-16 | 2016-03-16 |
+| Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu GERMANIA SPORT d.o.o. | [`odluka/2016/673/`](odluka/2016/673/) | in force | 1 | 2016-03-16 | 2016-03-16 |
+| Odluka o izmjeni i dopuni Odluke o opskrbi banaka gotovim novcem | [`odluka/2016/727/`](odluka/2016/727/) | amending act | 1 | 2016-03-19 | 2016-03-19 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2016. | [`odluka/2016/762/`](odluka/2016/762/) | in force | 1 | 2016-03-31 | 2016-03-31 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2016. | [`odluka/2016/763/`](odluka/2016/763/) | in force | 1 | 2016-03-31 | 2016-03-31 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2016. | [`odluka/2016/764/`](odluka/2016/764/) | in force | 1 | 2016-03-31 | 2016-03-31 |
+| Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2016. | [`odluka/2016/765/`](odluka/2016/765/) | in force | 1 | 2016-03-31 | 2016-03-31 |
+| Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2015. | [`odluka/2016/766/`](odluka/2016/766/) | in force | 1 | 2016-03-31 | 2016-03-31 |
 | Odluka o faktoru osnovne mirovine od 1. siječnja 2016. | [`odluka/2016/767/`](odluka/2016/767/) | in force | 1 | 2016-03-31 | 2016-03-31 |
+| Odluka o cijeni plina po kojoj je proizvođač prirodnog plina, prirodni plin proizveden na području Republike Hrvatske dužan prodavati opskrbljivaču na veleprodajnom tržištu plina | [`odluka/2016/788/`](odluka/2016/788/) | in force | 1 | 2016-04-01 | 2016-04-01 |
 | Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju travanj - lipanj 2016. | [`odluka/2016/802/`](odluka/2016/802/) | in force | 1 | 2016-03-31 | 2016-03-31 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. travnja 2016. do 31. prosinca 2016. godine | [`odluka/2016/808/`](odluka/2016/808/) | in force | 1 | 2016-04-01 | 2016-04-01 |
+| Odluka o naknadi za superviziju kreditnih institucija za 2016. godinu | [`odluka/2016/849/`](odluka/2016/849/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o izmjenama i dopunama Odluke o upravljanju likvidnosnim rizikom | [`odluka/2016/850/`](odluka/2016/850/) | amending act | 1 | 2016-04-08 | 2016-04-08 |
+| Odluka o donošenju Strategije pametne specijalizacije Republike Hrvatske za razdoblje od 2016. do 2020. godine i Akcijskog plana za provedbu Strategije pametne specijalizacije Republike Hrvatske za razdoblje od 2016. do 2017. godine | [`odluka/2016/853/`](odluka/2016/853/) | in force | 1 | 2016-03-30 | 2016-03-30 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2016. godini | [`odluka/2016/891/`](odluka/2016/891/) | in force | 1 | 2016-04-23 | 2016-04-23 |
+| Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za financiranje materijalnih i financijskih rashoda centara za socijalnu skrb i troškova ogrjeva korisnicima koji se griju na drva u 2016. godini | [`odluka/2016/892/`](odluka/2016/892/) | in force | 1 | 2016-04-23 | 2016-04-23 |
+| Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentralizirano financiranje domova za starije i nemoćne osobe u 2016. godini | [`odluka/2016/893/`](odluka/2016/893/) | in force | 1 | 2016-04-23 | 2016-04-23 |
+| Odluka o obustavi postupka sanacije Doma zdravlja Petrinja | [`odluka/2016/897/`](odluka/2016/897/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Doma zdravlja Gospić | [`odluka/2016/898/`](odluka/2016/898/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Neuropsihijatrijske bolnice "Dr. Ivan Barbot" Popovača | [`odluka/2016/899/`](odluka/2016/899/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Specijalne bolnice za medicinsku rehabilitaciju Varaždinske Toplice | [`odluka/2016/900/`](odluka/2016/900/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće i veteranske bolnice "Hrvatski ponos" Knin | [`odluka/2016/901/`](odluka/2016/901/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Našice | [`odluka/2016/902/`](odluka/2016/902/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Zabok i bolnice hrvatskih veterana | [`odluka/2016/903/`](odluka/2016/903/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Varaždin | [`odluka/2016/904/`](odluka/2016/904/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće županijske bolnice Vukovar i bolnice hrvatskih veterana | [`odluka/2016/905/`](odluka/2016/905/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Virovitica | [`odluka/2016/906/`](odluka/2016/906/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće županijske bolnice Vinkovci | [`odluka/2016/907/`](odluka/2016/907/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice "Dr. Ivo Pedišić" Sisak | [`odluka/2016/908/`](odluka/2016/908/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće županijske bolnice Požega | [`odluka/2016/909/`](odluka/2016/909/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice "Dr. Tomislav Bardek" Koprivnica | [`odluka/2016/910/`](odluka/2016/910/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Karlovac | [`odluka/2016/911/`](odluka/2016/911/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Županijske bolnice Čakovec | [`odluka/2016/912/`](odluka/2016/912/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Bjelovar | [`odluka/2016/913/`](odluka/2016/913/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Šibensko-kninske županije | [`odluka/2016/914/`](odluka/2016/914/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Zadar | [`odluka/2016/915/`](odluka/2016/915/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice "Dr. Josip Benčević" Slavonski Brod | [`odluka/2016/916/`](odluka/2016/916/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Pula | [`odluka/2016/917/`](odluka/2016/917/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Opće bolnice Dubrovnik | [`odluka/2016/918/`](odluka/2016/918/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Klinike za infektivne bolesti "Dr. Fran Mihaljević" | [`odluka/2016/919/`](odluka/2016/919/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Klinike za dječje bolesti Zagreb | [`odluka/2016/920/`](odluka/2016/920/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Kliničke bolnice "Merkur" | [`odluka/2016/921/`](odluka/2016/921/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Kliničke bolnice Dubrava Zagreb | [`odluka/2016/922/`](odluka/2016/922/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Kliničkog bolničkog centra "Sestre milosrdnice" | [`odluka/2016/923/`](odluka/2016/923/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Kliničkog bolničkog centra Split | [`odluka/2016/925/`](odluka/2016/925/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Kliničkog bolničkog centra Rijeka | [`odluka/2016/926/`](odluka/2016/926/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o obustavi postupka sanacije Kliničkog bolničkog centra Zagreb | [`odluka/2016/927/`](odluka/2016/927/) | in force | 1 | 2016-04-16 | 2016-04-16 |
+| Odluka o izmjenama i dopunama Odluke o uvjetima za otvaranje i funkcioniranje namjenskog novčanog računa (DCA) u sustavu TARGET2-HR | [`odluka/2016/947/`](odluka/2016/947/) | amending act | 1 | 2016-04-15 | 2016-04-15 |
+| Odluka o dodjeli nagrade za volontiranje u 2015. godini | [`odluka/2016/989/`](odluka/2016/989/) | in force | 1 | 2016-04-20 | 2016-04-20 |
+| Odluka o izmjeni Odluke o kriterijima za upis ulovnih ribarskih plovila u Registar ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2016. godini | [`odluka/2016/1003/`](odluka/2016/1003/) | in force | 1 | 2016-04-23 | 2016-04-23 |
+| Odluka o izmjeni Odluke o rang-listi sudionika u malom obalnom ribolovu | [`odluka/2016/1004/`](odluka/2016/1004/) | in force | 1 | 2016-04-23 | 2016-04-23 |
+| Odluka o katastarskoj izmjeri na području Općine Poličnik za katastarsku općinu Briševo | [`odluka/2016/1014/`](odluka/2016/1014/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Odluka o katastarskoj izmjeri na području Općine Poličnik za katastarsku općinu Murvica | [`odluka/2016/1015/`](odluka/2016/1015/) | in force | 1 | 2016-04-26 | 2016-04-26 |
+| Odluka o utvrđivanju godišnje kvote dozvola za zapošljavanje stranaca za kalendarsku godinu 2016. | [`odluka/2016/1027/`](odluka/2016/1027/) | in force | 1 | 2016-04-29 | 2016-04-29 |
+| Odluka raspisivanju prijevremenih izbora za Općinsko vijeće i općinskog načelnika te zamjenika općinskog načelnika Općine Murter - Kornati i raspisivanju prijevremenih izbora za zamjenika općinskog načelnika Općine Viljevo iz reda pripadnika srpske nacionalne manjine | [`odluka/2016/1028/`](odluka/2016/1028/) | in force | 1 | 2016-04-28 | 2016-04-28 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/11-02/0032, urbroj: 567-06-16-22 od 22. travnja 2016. | [`odluka/2016/1099/`](odluka/2016/1099/) | in force | 1 | 2016-04-22 | 2016-04-22 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/11-02/0031 urbroj: 567-06-16-25 od 22. travnja 2016. | [`odluka/2016/1100/`](odluka/2016/1100/) | in force | 1 | 2016-04-22 | 2016-04-22 |
+| Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vrgorca i gradonačelnika te zamjenika gradonačelnika Grada Vrgorca | [`odluka/2016/1117/`](odluka/2016/1117/) | in force | 1 | 2016-05-05 | 2016-05-05 |
+| Odluka o kriterijima i postupku za prihvaćanje pokroviteljstva Vlade Republike Hrvatske | [`odluka/2016/1142/`](odluka/2016/1142/) | in force | 1 | 2016-05-19 | 2016-05-19 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju popisa trgovačkih društava i drugih pravnih osoba od strateškog i posebnog interesa za Republiku Hrvatsku | [`odluka/2016/1145/`](odluka/2016/1145/) | amending act | 1 | 2016-05-12 | 2016-05-12 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača | [`odluka/2016/1146/`](odluka/2016/1146/) | in force | 1 | 2016-04-20 | 2016-04-20 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva za procjenu i utvrđivanje prijedloga strateških projekata | [`odluka/2016/1147/`](odluka/2016/1147/) | in force | 1 | 2016-04-28 | 2016-04-28 |
+| Odluka o izmjenama Odluke o pokretanju projekta e-Građani | [`odluka/2016/1148/`](odluka/2016/1148/) | in force | 1 | 2016-05-04 | 2016-05-04 |
 | Odluka o postavljanju Ivana Jurića za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Iraku, sa sjedištem u Bagdadu | [`odluka/2016/1159/`](odluka/2016/1159/) | in force | 1 | 2016-05-03 | 2016-05-03 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Vijeća za državnu informacijsku infrastrukturu | [`odluka/2016/1161/`](odluka/2016/1161/) | amending act | 1 | 2016-05-14 | 2016-05-14 |
+| Odluka o Listi sigurnih zemalja podrijetla u postupku odobrenja međunarodne zaštite | [`odluka/2016/1166/`](odluka/2016/1166/) | in force | 1 | 2016-05-14 | 2016-05-14 |
+| Odluka o donošenju nastavnog plana i programa za zanimanje Grafički tehničar pripreme (210394), prilagođenog programa za učenike s teškoćama, u obrazovnom sektoru Grafička tehnologija i audio-vizualno oblikovanje, u trajanju od četiri godine | [`odluka/2016/1187/`](odluka/2016/1187/) | in force | 1 | 2016-05-26 | 2016-05-26 |
+| Odluka o katastarskoj izmjeri na području Općine Zemunik Donji za katastarsku općinu Zemunik | [`odluka/2016/1188/`](odluka/2016/1188/) | in force | 1 | 2016-05-19 | 2016-05-19 |
+| Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2016. godinu ("Narodne novine", broj 26/16) u Razdjelu 02021 Vlada Republike Hrvatske, Glava 21 Savjet za nacionalne manjine, Aktivnost A732003 potpore za programe ostvarivanja kulturne autonomije nacionalnih manjina, pozicija 381 Tekuće donacije | [`odluka/2016/1190/`](odluka/2016/1190/) | in force | 1 | 2016-05-18 | 2016-05-18 |
+| Odluka o nalozima za plaćanje | [`odluka/2016/1191/`](odluka/2016/1191/) | in force | 1 | 2016-06-06 | 2016-06-06 |
+| Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna, i lipa, s oznakom godine kovanja "2016." | [`odluka/2016/1192/`](odluka/2016/1192/) | in force | 1 | 2016-05-19 | 2016-05-19 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "2016." | [`odluka/2016/1193/`](odluka/2016/1193/) | in force | 1 | 2016-05-19 | 2016-05-19 |
+| Odluka o izmjeni i dopuni Odluke o smještaju zastupnika Hrvatskoga sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i klubova zastupnika | [`odluka/2016/1207/`](odluka/2016/1207/) | amending act | 1 | 2016-05-13 | 2016-05-13 |
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Socijalističkoj Republici Vijetnamu, sa sjedištem u Kuala Lumpuru | [`odluka/2016/1208/`](odluka/2016/1208/) | in force | 1 | 2016-05-12 | 2016-05-12 |
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Bruneju Darussalamu, sa sjedištem u Kuala Lumpuru | [`odluka/2016/1209/`](odluka/2016/1209/) | in force | 1 | 2016-05-12 | 2016-05-12 |
 | Odluka o postavljanju prof. dr. sc. Nenada Preloga za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Republici Mauricijusu, sa sjedištem u Pretoriji | [`odluka/2016/1210/`](odluka/2016/1210/) | in force | 1 | 2016-05-12 | 2016-05-12 |
 | Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2016. - 2018. | [`odluka/2016/1214/`](odluka/2016/1214/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Odluka o dopuni Odluke o korištenju rezidencijalnih objekata u vlasništvu Republike Hrvatske | [`odluka/2016/1215/`](odluka/2016/1215/) | amending act | 1 | 2016-05-21 | 2016-05-21 |
 | Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2016./2017. | [`odluka/2016/1269/`](odluka/2016/1269/) | in force | 1 | 2016-06-02 | 2016-06-02 |
+| Odluka kojom se potvrđuje da sustav EuroNKS udovoljava uvjetima iz Zakona o konačnosti namire u platnim sustavima i sustavima za namiru financijskih instrumenata | [`odluka/2016/1374/`](odluka/2016/1374/) | in force | 1 | 2016-06-06 | 2016-06-06 |
 | Odluka o katastarskoj izmjeri na području Općine Slivno za dio katastarske općine Slivno (nova k.o. Podgradina) | [`odluka/2016/1385/`](odluka/2016/1385/) | in force | 1 | 2016-06-07 | 2016-06-07 |
+| Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika "DR-02" | [`odluka/2016/1430/`](odluka/2016/1430/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika "DR-03" | [`odluka/2016/1431/`](odluka/2016/1431/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2016/1442/`](odluka/2016/1442/) | in force | 1 | 2016-07-13 | 2016-07-13 |
+| Odluka o katastarskoj izmjeri na području Općine Škabrnja za katastarsku općinu Škabrnja | [`odluka/2016/1463/`](odluka/2016/1463/) | in force | 1 | 2016-06-22 | 2016-06-22 |
+| Odluka o katastarskoj izmjeri na području Općine Galovac za katastarsku općinu Galovac | [`odluka/2016/1464/`](odluka/2016/1464/) | in force | 1 | 2016-06-22 | 2016-06-22 |
+| Odluka o katastarskoj izmjeri na području Općine Novigrad za katastarsku općinu Novigrad | [`odluka/2016/1465/`](odluka/2016/1465/) | in force | 1 | 2016-06-22 | 2016-06-22 |
 | Odluka o izmjeni Odluke o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u misiji potpore miru "RESOLUTE SUPPORT" u Afganistanu | [`odluka/2016/1484/`](odluka/2016/1484/) | in force | 1 | 2016-06-25 | 2016-06-25 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima korištenja službenih osobnih automobila, mobilnih telefona, sredstava za službena putovanja, poslovnih kreditnih kartica i sredstava reprezentacije | [`odluka/2016/1497/`](odluka/2016/1497/) | amending act | 1 | 2016-06-17 | 2016-06-17 |
+| Odluka o sastavnim dijelovima Sporazuma o pripremi i provedbi projekata | [`odluka/2016/1498/`](odluka/2016/1498/) | in force | 1 | 2016-07-07 | 2016-07-07 |
 | Odluka o uvjetima za prijam učenika u učeničke domove u školskoj godini 2016./2017. | [`odluka/2016/1501/`](odluka/2016/1501/) | in force | 1 | 2016-07-07 | 2016-07-07 |
+| Odluka o izmjenama Odluke o izvješćivanju o stanju određenih potraživanja i obveza u stranim sredstvima plaćanja | [`odluka/2016/1508/`](odluka/2016/1508/) | in force | 1 | 2016-07-01 | 2016-07-01 |
+| Odluka o izmjenama i dopunama Odluke o minimalno potrebnim deviznim potraživanjima | [`odluka/2016/1509/`](odluka/2016/1509/) | amending act | 1 | 2016-07-01 | 2016-07-01 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju platoa A5 u radnoj zoni R-27 Kukuljanovo | [`odluka/2016/1530/`](odluka/2016/1530/) | in force | 1 | 2016-07-14 | 2016-07-14 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju ZIP LINE 2 građevine u sklopu projekta Sportsko-rekreativnog centra "Bijeli Vrh" u k.o. Rudopolje | [`odluka/2016/1531/`](odluka/2016/1531/) | in force | 1 | 2016-07-14 | 2016-07-14 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju dječjeg vrtića Krnjevo (lokacija D4-17) u k.o. Zamet | [`odluka/2016/1532/`](odluka/2016/1532/) | in force | 1 | 2016-07-14 | 2016-07-14 |
+| Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika "SA-08" | [`odluka/2016/1534/`](odluka/2016/1534/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika "SA-09" | [`odluka/2016/1535/`](odluka/2016/1535/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika "SA-10" | [`odluka/2016/1536/`](odluka/2016/1536/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o izmjeni Odluke o izdavanju dozvole za istraživanje i eksploataciju ugljikovodika na kopnu u istražnom prostoru ugljikovodika "DR-04" | [`odluka/2016/1537/`](odluka/2016/1537/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o prihvaćanju Drugog nacionalnog plana za provedbu Stockholmske konvencije o postojanim organskim onečišćujućim tvarima u Republici Hrvatskoj | [`odluka/2016/1566/`](odluka/2016/1566/) | in force | 1 | 2016-06-08 | 2016-06-08 |
+| Odluka o poticanju izvansudskog rješavanja građanskih i trgovačkih sporova u kojima je stranka Republika Hrvatska, odnosno pravna osoba kojoj je jedini osnivač ili član, odnosno imatelj udjela u pretežitom dijelu Republika Hrvatska | [`odluka/2016/1568/`](odluka/2016/1568/) | in force | 1 | 2016-07-06 | 2016-07-06 |
+| Odluka o postavljanju mr. sc. Željka Vukosava za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Bolivarijanskoj Republici Venezueli, sa sjedištem u Braziliji | [`odluka/2016/1587/`](odluka/2016/1587/) | in force | 1 | 2016-07-06 | 2016-07-06 |
+| Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2016. godinu | [`odluka/2016/1589/`](odluka/2016/1589/) | in force | 1 | 2016-06-23 | 2016-06-23 |
+| Odluka o nabavnim kategorijama | [`odluka/2016/1591/`](odluka/2016/1591/) | in force | 1 | 2016-06-23 | 2016-06-23 |
+| Odluka o dokumentaciji koja se prilaže uz obavijest o namjeri primjene unutargrupnog izuzetka od obveze poravnanja iz članka 4. stavka 2. Uredbe (EU) br. 648/2012 | [`odluka/2016/1594/`](odluka/2016/1594/) | in force | 1 | 2016-07-21 | 2016-07-21 |
+| Odluka o izmjeni Odluke o osnivanju Vijeća za državnu informacijsku infrastrukturu | [`odluka/2016/1599/`](odluka/2016/1599/) | in force | 1 | 2016-07-16 | 2016-07-16 |
+| Odluka o donošenju Plana upravljanja vodnim područjima 2016. - 2021. | [`odluka/2016/1623/`](odluka/2016/1623/) | in force | 1 | 2016-07-06 | 2016-07-06 |
+| Odluka o katastarskoj izmjeri na području Općine Pakoštane za katastarsku općinu Vrana | [`odluka/2016/1627/`](odluka/2016/1627/) | in force | 1 | 2016-07-21 | 2016-07-21 |
+| Odluka o uvjetima za davanje financijske potpore grupe kreditnih institucija | [`odluka/2016/1629/`](odluka/2016/1629/) | in force | 1 | 2016-07-28 | 2016-07-28 |
+| Odluka o donošenju Strategije razvoja širokopojasnog pristupa u Republici Hrvatskoj u razdoblju od 2016. do 2020. godine | [`odluka/2016/1635/`](odluka/2016/1635/) | in force | 1 | 2016-07-13 | 2016-07-13 |
+| Odluka o izmjenama Odluke o zavičajnim divljim vrstama čije je uzimanje iz prirode i održivo korištenje dopušteno | [`odluka/2016/1637/`](odluka/2016/1637/) | in force | 1 | 2016-07-30 | 2016-07-30 |
+| Odluka o izmjenama Odluke o minimalno potrebnim deviznim potraživanjima | [`odluka/2016/1656/`](odluka/2016/1656/) | in force | 1 | 2016-08-11 | 2016-08-11 |
+| Odluka o raspisivanju prijevremenih izbora za zastupnike u Hrvatski sabor | [`odluka/2016/1664/`](odluka/2016/1664/) | in force | 1 | 2016-07-30 | 2016-07-30 |
+| Odluka o donošenju Nacionalne strategije za provedbu programa mlijeka u školama za razdoblje od 1. kolovoza 2016. do 31. srpnja 2017. godine | [`odluka/2016/1669/`](odluka/2016/1669/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o davanju suglasnosti na prijenos Ugovora o koncesiji za crpljenje mineralnih voda s društva Podravka d.d., Koprivnica na društvo Studenac d.o.o., Lipik (bunari: B-7 i B-8) | [`odluka/2016/1671/`](odluka/2016/1671/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o davanju suglasnosti na prijenos ugovora o koncesiji za zahvaćanje voda radi prodaje na tržištu i za tehnološke i slične potrebe s društva Podravka d.d., Koprivnica na društvo Studenac d.o.o., Lipik (bunari: BJ-1, BJ-2 I ZK-7) | [`odluka/2016/1672/`](odluka/2016/1672/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o davanju suglasnosti na prijenos Ugovora o koncesiji za crpljenje mineralnih voda za proizvodnju mineralne vode, radi prodaje na tržištu s društva Podravka d.d., Koprivnica na društvo Studenac d.o.o., Lipik (bunar ZK-5) | [`odluka/2016/1675/`](odluka/2016/1675/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o davanju suglasnosti na prijenos Ugovora o koncesiji za zahvaćanje pitke vode (prirodne izvorske vode) radi prodaje na tržištu s društva Podravka d.d., Koprivnica na društvo Studenac d.o.o., Lipik (bunar ZK-8) | [`odluka/2016/1676/`](odluka/2016/1676/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o prestanku važenja Odluke o osnivanju Stručnog povjerenstva za praćenje epidemiološkog stanja i prevenciju influence ptica ("Ptičja gripa") | [`odluka/2016/1681/`](odluka/2016/1681/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka o prestanku važenja Odluke o pokretanju Projekta objedinjavanja informacijskog sustava Hrvatskog zavoda za mirovinsko osiguranje u Shared Service Centru | [`odluka/2016/1682/`](odluka/2016/1682/) | in force | 1 | 2016-07-27 | 2016-07-27 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/07-02/0057 urbroj: 567-06-16-13 od 27. srpnja 2016. | [`odluka/2016/1705/`](odluka/2016/1705/) | in force | 1 | 2016-07-27 | 2016-07-27 |
 | Odluka o postavljanju Kreše Glavača za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Uniji Mjanmaru, sa sjedištem u Kuala Lumpuru | [`odluka/2016/1724/`](odluka/2016/1724/) | in force | 1 | 2016-07-21 | 2016-07-21 |
+| Odluka o donošenju nastavnog plana i okvirnog programa za zanimanje Tehničar zaštite prirode (330804) u obrazovnom sektoru šumarstvo, prerada i obrada drva u trajanju od četiri godine | [`odluka/2016/1747/`](odluka/2016/1747/) | in force | 1 | 2016-08-18 | 2016-08-18 |
+| Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju rujan - prosinac 2016. godine | [`odluka/2016/1767/`](odluka/2016/1767/) | in force | 1 | 2016-08-25 | 2016-08-25 |
+| Odluka o obvezi rada ureda državne uprave radi provedbe prijevremenih izbora za zastupnike u Hrvatski sabor | [`odluka/2016/1768/`](odluka/2016/1768/) | in force | 1 | 2016-08-19 | 2016-08-19 |
+| Odluka o raspisivanju prijevremenih izbora u Općinsko vijeće Općine Čeminac | [`odluka/2016/1769/`](odluka/2016/1769/) | in force | 1 | 2016-09-01 | 2016-09-01 |
+| Odluka o sufinanciranju nabave udžbenika i pripadajućih dopunskih nastavnih sredstava za potrebe učenika osnovnih i srednjih škola u Republici Hrvatskoj za školsku godinu 2016./2017. | [`odluka/2016/1801/`](odluka/2016/1801/) | amending act | 1 | 2016-09-10 | 2016-09-10 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2016. | [`odluka/2016/1807/`](odluka/2016/1807/) | in force | 1 | 2016-09-10 | 2016-09-10 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2016. | [`odluka/2016/1808/`](odluka/2016/1808/) | in force | 1 | 2016-09-10 | 2016-09-10 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2016. | [`odluka/2016/1809/`](odluka/2016/1809/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Odluka o izmjeni Odluke o kriterijima za upis ulovnih ribarskih plovila u Registar ICCAT-a (ICCAT Record od BFT Catching Ve+ssels) u 2016. godini | [`odluka/2016/1812/`](odluka/2016/1812/) | in force | 1 | 2016-09-08 | 2016-09-08 |
 | Odluka o izmjeni i dopuni Odluke o načinu oblikovanja maloprodajnih cijena lijekova i drugih sredstava koji nisu predmet ugovaranja s HZZO-om | [`odluka/2016/1819/`](odluka/2016/1819/) | amending act | 1 | 2016-09-15 | 2016-09-15 |
+| Odluka o izmjenama i dopunama Odluke o Uredu predsjednice Republike Hrvatske | [`odluka/2016/1820/`](odluka/2016/1820/) | amending act | 1 | 2016-09-17 | 2016-09-17 |
+| Odluka o Katastarskoj izmjeri na području općine Marijanci za katastarsku općinu Kunišnici | [`odluka/2016/1840/`](odluka/2016/1840/) | in force | 1 | 2016-09-15 | 2016-09-15 |
+| Odluka o raspodjeli sredstava za financiranje kulturnih, obrazovnih, znanstvenih, zdravstvenih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini iz sredstava Državnog proračuna Republike Hrvatske za 2016. godinu | [`odluka/2016/1843/`](odluka/2016/1843/) | in force | 1 | 2016-09-14 | 2016-09-14 |
 | Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2016. godini | [`odluka/2016/1844/`](odluka/2016/1844/) | in force | 1 | 2016-09-24 | 2016-09-24 |
+| Odluka o katastarskoj izmjeri na području Općine Koprivnički Ivanec za katastarsku općinu Kunovec | [`odluka/2016/1856/`](odluka/2016/1856/) | in force | 1 | 2016-09-22 | 2016-09-22 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnog kovanog novca od 25 kuna "25. obljetnica neovisnosti Republike Hrvatske, 8. listopada 1991. - 8. listopada 2016." | [`odluka/2016/1858/`](odluka/2016/1858/) | in force | 1 | 2016-09-21 | 2016-09-21 |
+| Odluka o izmjenama i dopunama Statuta Hrvatske obrtničke komore | [`odluka/2016/1861/`](odluka/2016/1861/) | amending act | 1 | 2016-09-29 | 2016-09-29 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnoga kovanog novca od 25 kuna "25. obljetnica neovisnosti Republike Hrvatske, 8. listopada 1991. - 8. listopada 2016." | [`odluka/2016/1891/`](odluka/2016/1891/) | in force | 1 | 2016-09-28 | 2016-09-28 |
+| Odluka o izmjenama Odluke o objavljivanju Jedinstvenoga okvirnoga kontnog plana | [`odluka/2016/1892/`](odluka/2016/1892/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/11-02/0031, urbroj: 567-06-16-26 od 21. rujna 2016. | [`odluka/2016/1893/`](odluka/2016/1893/) | in force | 1 | 2016-09-21 | 2016-09-21 |
+| Odluka Agencije za elektroničke medije klasa: 612-12/11-02/0032, urbroj: 567-06-16-28 od 21. rujna 2016. | [`odluka/2016/1894/`](odluka/2016/1894/) | in force | 1 | 2016-09-21 | 2016-09-21 |
+| Odluka o prestanku koncesije za posebnu uporabu pomorskog dobra u svrhu postavljanja podzemnog cjevovoda i izgradnje dijela ceste i građevine za smještaj opreme tehnološkog procesa sušenja PVC praha na novoformiranoj čestici zemljišta zemljišnoknjižne oznake 14051 prema novoj katastarskoj izmjeri za k.o. Omišalj | [`odluka/2016/1898/`](odluka/2016/1898/) | in force | 1 | 2016-09-28 | 2016-09-28 |
+| Odluka o prestanku koncesije pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sepen | [`odluka/2016/1899/`](odluka/2016/1899/) | in force | 1 | 2016-09-28 | 2016-09-28 |
+| Odluka o izmjeni Odluke o pojedinim oblicima zdravstvene zaštite iz obveznog zdravstvenog osiguranja koje se ostvaruje na osnovi uputnice i rokovima važenja uputnice | [`odluka/2016/1919/`](odluka/2016/1919/) | in force | 1 | 2016-10-08 | 2016-10-08 |
+| Odluka o ispravku Odluke o dodjeli medalje "Oluja", klasa: 061-01/16-03/02, urbroj: 71-03-01-01/3-16-01 od 28. travnja 2016 | [`odluka/2016/1935/`](odluka/2016/1935/) | in force | 1 | 2016-06-27 | 2016-06-27 |
+| Odluka o broju priređivača kojima se može dati pravo priređivanja igara na sreću na automatima na području Republike Hrvatske | [`odluka/2016/1954/`](odluka/2016/1954/) | in force | 1 | 2016-10-12 | 2016-10-12 |
+| Odluka o izmjenama i dopunama Odluke o upravljanju rizicima | [`odluka/2016/2006/`](odluka/2016/2006/) | amending act | 1 | 2017-01-01 | 2017-01-01 |
+| Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu Globus igre d.o.o. | [`odluka/2016/2088/`](odluka/2016/2088/) | in force | 1 | 2016-10-27 | 2016-10-27 |
+| Odluka o oduzimanju prava priređivanja igara na sreću na automatima trgovačkom društvu Parčina export-import d.o.o. | [`odluka/2016/2089/`](odluka/2016/2089/) | in force | 1 | 2016-10-27 | 2016-10-27 |
+| Odluka o izmjenama Odluke o izvješćivanju o novčanom tržištu | [`odluka/2016/2151/`](odluka/2016/2151/) | in force | 1 | 2017-01-02 | 2017-01-02 |
 | Odluka o izmjeni Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke | [`odluka/2016/2152/`](odluka/2016/2152/) | in force | 1 | 2016-11-10 | 2016-11-10 |
+| Odluka o izmjenama Odluke o blagajničkim zapisima Hrvatske narodne banke | [`odluka/2016/2153/`](odluka/2016/2153/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka o obustavi isplate sredstava za redovito godišnje financiranje iz državnog proračuna | [`odluka/2016/2174/`](odluka/2016/2174/) | in force | 1 | 2016-11-02 | 2016-11-02 |
+| Odluku o upravljanju likvidnosnim rizikom | [`odluka/2016/2260/`](odluka/2016/2260/) | repealed 2018-11-08 | 2 | 2017-01-01 | 2018-11-08 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-612-12/16-02/0001, urbroj: 567-06/04-16-04 od 14. studenoga 2016. | [`odluka/2016/2271/`](odluka/2016/2271/) | in force | 1 | 2016-11-14 | 2016-11-14 |
+| Odluka o povećanju najniže osigurane svote temeljem ugovora o osiguranju od automobilske odgovornosti | [`odluka/2016/2355/`](odluka/2016/2355/) | repealed 2022-04-21 | 2 | 2017-01-01 | 2022-04-21 |
+| Odluka o izmjeni Odluke o pokretanju postupka pregovora o sklapanju | [`odluka/2016/2357/`](odluka/2016/2357/) | in force | 1 | 2016-11-24 | 2016-11-24 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u operaciji potpore miru KFOR na Kosovu | [`odluka/2016/2376/`](odluka/2016/2376/) | in force | 1 | 2016-12-08 | 2016-12-08 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/28-11-2016 od 10. studenoga 2016. | [`odluka/2016/2439/`](odluka/2016/2439/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/29-11-2016 od 10. studenoga 2016. | [`odluka/2016/2440/`](odluka/2016/2440/) | in force | 1 | 2016-11-10 | 2016-11-10 |
 | Odluka Hrvatske obrtničke komore broj: 2-206-5706/30-11-2016 od 10. studenoga 2016. | [`odluka/2016/2441/`](odluka/2016/2441/) | in force | 1 | 2016-11-10 | 2016-11-10 |
+| Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Hrvatskih voda za 2016. godinu i projekcija plana za 2017. i 2018. godinu | [`odluka/2016/2445/`](odluka/2016/2445/) | amending act | 1 | 2016-12-02 | 2016-12-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Hrvatskih cesta za 2016. godinu i projekcija plana za 2017. i 2018. godinu | [`odluka/2016/2446/`](odluka/2016/2446/) | amending act | 1 | 2016-12-02 | 2016-12-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Centra za restrukturiranje i prodaju za 2016. godinu i projekcija plana za 2017. i 2018. godinu | [`odluka/2016/2447/`](odluka/2016/2447/) | amending act | 1 | 2016-12-02 | 2016-12-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Fonda za zaštitu okoliša i energetsku učinkovitost za 2016. godinu i projekcija plana za 2017. i 2018. godinu | [`odluka/2016/2448/`](odluka/2016/2448/) | amending act | 1 | 2016-12-02 | 2016-12-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2016. godinu i projekcija plana za 2017. i 2018. godinu | [`odluka/2016/2449/`](odluka/2016/2449/) | amending act | 1 | 2016-12-02 | 2016-12-02 |
+| Odluka o davanju suglasnosti na Izmjene i dopune financijskog plana Hrvatskog zavoda za zdravstveno osiguranje za 2016. godinu i projekcija plana za 2017. i 2018. godinu I. | [`odluka/2016/2450/`](odluka/2016/2450/) | amending act | 1 | 2016-12-02 | 2016-12-02 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-612-12/16-02/0002, urbroj: 567-06/04-16-11 od 30. studenoga 2016. | [`odluka/2016/2500/`](odluka/2016/2500/) | in force | 1 | 2016-11-30 | 2016-11-30 |
+| Odluka o najvišoj naknadi za pokrivanje troškova mirovinskog osiguravajućeg društva u 2017. iz doznaka obveznog mirovinskog fonda | [`odluka/2016/2503/`](odluka/2016/2503/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Odluka o naknadi za rad u komasacijskom povjerenstvu županije, Grada Zagreba i velikog grada | [`odluka/2016/2539/`](odluka/2016/2539/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+| Odluka o oduzimanju prava priređivanja igara na sreću na automatima trgovačkom društvu ALTERA GAME d.o.o. | [`odluka/2016/2540/`](odluka/2016/2540/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+| Odluka o izboru triju članova Otočnog vijeća | [`odluka/2016/2552/`](odluka/2016/2552/) | in force | 1 | 2016-12-09 | 2016-12-09 |
 | Odluka o postavljanju izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Crnoj Gori | [`odluka/2016/2556/`](odluka/2016/2556/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Odluka o izmjenama Odluke o Uredu predsjednice Republike Hrvatske | [`odluka/2016/2557/`](odluka/2016/2557/) | in force | 1 | 2016-12-15 | 2016-12-15 |
+| Odluka kojom se utvrđuje lista miritelja Gospodarsko-socijalnog vijeća za kolektivne radne sporove | [`odluka/2016/2566/`](odluka/2016/2566/) | in force | 1 | 2016-12-14 | 2016-12-14 |
+| Odluka o izmjeni i dopunama Odluke o osnivanju Vijeća za domovinsku sigurnost Predsjednice Republike Hrvatske | [`odluka/2016/2634/`](odluka/2016/2634/) | amending act | 1 | 2016-12-16 | 2016-12-16 |
+| Odluka o izmjeni Odluke o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu | [`odluka/2016/2658/`](odluka/2016/2658/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Odluka o visini otpremnine za državne službenike i namještenike Ministarstva obrane i Oružanih snaga Republike Hrvatske kojima služba prestane zbog preustroja ili smanjenja snaga | [`odluka/2016/2659/`](odluka/2016/2659/) | repealed 2018-10-25 | 2 | 2016-12-24 | 2018-10-25 |
+| Odluka o izmjenama Odluke o polaganju novčanog depozita kod Hrvatske narodne banke | [`odluka/2016/2665/`](odluka/2016/2665/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Odluka o izmjenama Odluke o kratkoročnom kreditu za likvidnost | [`odluka/2016/2666/`](odluka/2016/2666/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Odluka o najvišem postotku naknade depozitaru za 2017. godinu | [`odluka/2016/2669/`](odluka/2016/2669/) | in force | 1 | 2016-12-24 | 2016-12-24 |
+| Odluka o izmjeni i dopuni Odluke o prirezu porezu na dohodak Grada Pregrade | [`odluka/2016/2674/`](odluka/2016/2674/) | amending act | 1 | 2016-12-31 | 2016-12-31 |
+| Odluka o dopuni Odluke o visini naknada za tehnički pregled i druge poslove koji se obavljaju u stanicama za tehničke preglede vozila | [`odluka/2016/2676/`](odluka/2016/2676/) | amending act | 1 | 2017-01-01 | 2017-01-01 |
+| Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 2017. godinu | [`odluka/2016/2677/`](odluka/2016/2677/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. siječnja do 31. ožujka 2017. godine | [`odluka/2016/2683/`](odluka/2016/2683/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Odluka o naknadi za priključenje na plinski distribucijski ili transportni sustav i za povećanje priključnog kapaciteta za regulacijsko razdoblje 2017. - 2021. godina | [`odluka/2016/2685/`](odluka/2016/2685/) | repealed 2022-01-01 | 2 | 2017-01-01 | 2022-01-01 |
 | Odluka o kriterijima i načinu financiranja troškova javnog prijevoza redovitih učenika srednjih škola u razdoblju siječanj - lipanj 2017. godine | [`odluka/2016/2690/`](odluka/2016/2690/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Odluka o iznosu državnih poticajnih sredstava za stambenu štednju prikupljenu u 2017. godini | [`odluka/2016/2692/`](odluka/2016/2692/) | in force | 1 | 2016-12-31 | 2016-12-31 |
+| Odluka o prestanku koncesije za osnivanje Slobodne zone Varaždin d.o.o. | [`odluka/2016/2693/`](odluka/2016/2693/) | in force | 1 | 2016-12-29 | 2016-12-29 |
+| Odluka o izmjeni i dopuni Odluke o porezima Grada Čabra | [`odluka/2016/2735/`](odluka/2016/2735/) | amending act | 1 | 2017-01-07 | 2017-01-07 |
 | Odluka o oduzimanju prava priređivanja igara na sreću u casinima trgovačkom društvu ROYAL CASINO d.o.o. | [`odluka/2017/29/`](odluka/2017/29/) | in force | 1 | 2016-12-29 | 2016-12-29 |
 | Odluka o dopuni Odluke o visini, načinu i rokovima uplate sredstava trgovačkih društava od strateškog i posebnog interesa za Republiku Hrvatsku u Državni proračun Republike Hrvatske za 2016. godinu | [`odluka/2017/30/`](odluka/2017/30/) | amending act | 1 | 2016-12-29 | 2016-12-29 |
 | Odluka Agencije za elektroničke medije klasa: 612-12/09-02/0054, urbroj: 567-06-16-03 od 22. prosinca 2016. | [`odluka/2017/63/`](odluka/2017/63/) | in force | 1 | 2016-12-22 | 2016-12-22 |
@@ -5541,7 +5732,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2425, of which 779 amending acts)
+## pravilnik (2534, of which 818 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5930,10 +6121,119 @@
 | Pravilnik o izmjenama Pravilnika o postupku javnog nadmetanja za utvrđivanje najpovoljnijeg ponuditelja na javnom pozivu za dodjelu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske u zakup i zakup za ribnjake | [`pravilnik/2015/1908/`](pravilnik/2015/1908/) | in force | 1 | 2015-09-22 | 2015-09-22 |
 | Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.1 "Trajna obustava ribolovne aktivnosti" | [`pravilnik/2015/1931/`](pravilnik/2015/1931/) | in force | 1 | 2015-09-17 | 2015-09-17 |
 | Pravilnik o izmjenama i dopunama Pravilnika o promidžbi i ostalim informacijama za članove obveznih mirovinskih fondova | [`pravilnik/2015/2437/`](pravilnik/2015/2437/) | amending act | 1 | 2015-12-03 | 2015-12-03 |
+| Pravilnik o uvjetima za dobivanje dozvole za obavljanje poslova savjetovališta i načinu rada savjetovališta | [`pravilnik/2016/13/`](pravilnik/2016/13/) | in force | 1 | 2016-01-06 | 2016-01-06 |
+| Pravilnik o uvjetima za dobivanje dozvole za obavljanje poslova posrednika | [`pravilnik/2016/19/`](pravilnik/2016/19/) | in force | 1 | 2016-01-09 | 2016-01-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o graničnim vrijednostima emisija otpadnih voda | [`pravilnik/2016/22/`](pravilnik/2016/22/) | amending act | 1 | 2016-01-16 | 2016-01-16 |
+| Pravilnik o uzajamnoj razmjeni informacija i izvješćivanju o kvaliteti zraka i obvezama za provedbu Odluke Komisije 2011/850/EU | [`pravilnik/2016/23/`](pravilnik/2016/23/) | repealed 2023-03-11 | 2 | 2016-01-16 | 2023-03-11 |
 | Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 1.9. "Privremeni prestanak ribolovnih aktivnosti" okružujućim mrežama plivaricama - srdelarama za siječanj 2016. godine | [`pravilnik/2016/72/`](pravilnik/2016/72/) | in force | 1 | 2016-01-16 | 2016-01-16 |
+| Pravilnik o prestanku važenja Pravilnika o pomoći Europskoj komisiji i suradnji između Europske komisije i Republike Hrvatske u znanstvenom razmatranju pitanja o hrani | [`pravilnik/2016/175/`](pravilnik/2016/175/) | in force | 1 | 2016-01-31 | 2016-01-31 |
+| Pravilnik o izmjenama Pravilnika o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje zdravstvene djelatnosti | [`pravilnik/2016/177/`](pravilnik/2016/177/) | in force | 1 | 2016-01-31 | 2016-01-31 |
+| Pravilnik o načinu izbora arbitra i provođenju postupka arbitraže u postupcima nadomještanja suglasnosti | [`pravilnik/2016/1002/`](pravilnik/2016/1002/) | repealed 2017-12-28 | 2 | 2016-04-30 | 2017-12-28 |
+| Pravilnik o dodjeli tržišne kompenzacije u ribarstvu | [`pravilnik/2016/1030/`](pravilnik/2016/1030/) | in force | 1 | 2016-04-29 | 2016-04-29 |
+| Pravilnik o provedbi modela poticanja proizvodnje u ribarstvu | [`pravilnik/2016/1031/`](pravilnik/2016/1031/) | in force | 1 | 2016-04-29 | 2016-04-29 |
+| Pravilnik o sadržaju i načinu vođenja Registra jedinica za unutarnju reviziju i Registra ovlaštenih unutarnjih revizora za javni sektor | [`pravilnik/2016/1093/`](pravilnik/2016/1093/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Pravilnik o službenim pomorskim navigacijskim kartama i publikacijama, njihovom sadržaju, načinu i uvjetima izrade, izdavanja i održavanja | [`pravilnik/2016/1095/`](pravilnik/2016/1095/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Pravilnik o mjerilima za davanje odobrenja zdravstvenom radniku za sklapanje poslova iz djelatnosti poslodavca | [`pravilnik/2016/1097/`](pravilnik/2016/1097/) | in force | 1 | 2016-05-12 | 2016-05-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za unutarnji ustroj općih i specijalnih bolnica | [`pravilnik/2016/1324/`](pravilnik/2016/1324/) | amending act | 1 | 2016-06-07 | 2016-06-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za unutarnji ustroj kliničkih zdravstvenih ustanova | [`pravilnik/2016/1325/`](pravilnik/2016/1325/) | amending act | 1 | 2016-06-07 | 2016-06-07 |
+| Pravilnik o vrstama i načinu provođenja vježbi operativnih snaga sustava civilne zaštite | [`pravilnik/2016/1328/`](pravilnik/2016/1328/) | in force | 1 | 2016-06-07 | 2016-06-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za obavljanje djelatnosti komercijalnog prijevoza unutarnjim vodnim putovima | [`pravilnik/2016/1338/`](pravilnik/2016/1338/) | amending act | 1 | 2016-06-09 | 2016-06-09 |
+| Pravilnik o izmjenama i dopunama Pravilnika o športskom ribolovu u slatkovodnom ribarstvu | [`pravilnik/2016/1339/`](pravilnik/2016/1339/) | amending act | 1 | 2016-06-09 | 2016-06-09 |
+| Pravilnik o Očevidniku izdanih okolišnih dozvola | [`pravilnik/2016/1373/`](pravilnik/2016/1373/) | in force | 1 | 2016-06-11 | 2016-06-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupanju prema strancima | [`pravilnik/2016/1379/`](pravilnik/2016/1379/) | amending act | 1 | 2016-06-07 | 2016-06-07 |
+| Pravilnik o dodjeli potpore udruženjima u ribarstvu u 2016. godini | [`pravilnik/2016/1381/`](pravilnik/2016/1381/) | in force | 1 | 2016-06-07 | 2016-06-07 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore kroz sufinanciranje troškova kupnje ribolovnih alata, opreme i pogonskih strojeva za obavljanje gospodarskog ribolova na moru | [`pravilnik/2016/1383/`](pravilnik/2016/1383/) | in force | 1 | 2016-06-07 | 2016-06-07 |
+| Pravilnik o dopuni Pravilnika o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama te načinu sprječavanja širenja isteklih ulja u lukama | [`pravilnik/2016/1389/`](pravilnik/2016/1389/) | amending act | 1 | 2016-07-01 | 2016-07-01 |
+| Pravilnik o izmjenama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede | [`pravilnik/2016/1412/`](pravilnik/2016/1412/) | in force | 1 | 2016-06-18 | 2016-06-18 |
+| Pravilnik o izboru i utvrđivanju programa javnih potreba u kulturi | [`pravilnik/2016/1434/`](pravilnik/2016/1434/) | in force | 1 | 2016-06-23 | 2016-06-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za uzgoj konoplje, načinu prijave uzgoja maka te uvjetima za posjedovanje opojnih droga u veterinarstvu | [`pravilnik/2016/1458/`](pravilnik/2016/1458/) | amending act | 1 | 2016-06-29 | 2016-06-29 |
+| Pravilnik o tehničkim i drugim uvjetima koje moraju ispunjavati ovlaštene osobe za ispitivanje ispravnosti tehničkih sredstava i opreme civilne zaštite | [`pravilnik/2016/1469/`](pravilnik/2016/1469/) | in force | 1 | 2016-06-29 | 2016-06-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o primjeni odredaba Zakona o leasingu i drugih propisa na leasing društva u likvidaciji | [`pravilnik/2016/1476/`](pravilnik/2016/1476/) | amending act | 1 | 2016-07-01 | 2016-07-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o reviziji izvještaja leasing društva | [`pravilnik/2016/1477/`](pravilnik/2016/1477/) | amending act | 1 | 2016-07-01 | 2016-07-01 |
+| Pravilnik o sustavu unutarnjih kontrola u javnom sektoru | [`pravilnik/2016/1487/`](pravilnik/2016/1487/) | in force | 1 | 2016-07-02 | 2016-07-02 |
+| Pravilnik o zdravstvenim uvjetima kojima moraju udovoljavati radnici koji obavljaju poslove s izvorima neionizirajućeg zračenja | [`pravilnik/2016/1500/`](pravilnik/2016/1500/) | in force | 1 | 2016-07-01 | 2016-07-01 |
+| Pravilnik o zaštiti i korištenju arhivskog i registraturnog gradiva Državne geodetske uprave | [`pravilnik/2016/1502/`](pravilnik/2016/1502/) | in force | 1 | 2016-07-07 | 2016-07-07 |
+| Pravilnik o izmjeni Pravilnika o utvrđivanju sukladnosti motornih vozila i njihovih prikolica | [`pravilnik/2016/1517/`](pravilnik/2016/1517/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu polaganja ispita za ovlaštenog servisera te obliku i sadržaju službene iskaznice ovlaštenog servisera | [`pravilnik/2016/1518/`](pravilnik/2016/1518/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu polaganja ispita za ovlaštenog mjeritelja te obliku i sadržaju službene iskaznice ovlaštenog mjeritelja | [`pravilnik/2016/1519/`](pravilnik/2016/1519/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+| Pravilnik o izmjeni Pravilnika o utvrđivanju sukladnosti vozila na dva ili tri kotača i četverocikala | [`pravilnik/2016/1520/`](pravilnik/2016/1520/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+| Pravilnik o dopuni Pravilnika o sigurnosnim znakovima | [`pravilnik/2016/1556/`](pravilnik/2016/1556/) | amending act | 1 | 2016-07-14 | 2016-07-14 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. "Privremeni prestanak ribolovnih aktivnosti" okružujućim mrežama plivaricama - srdelarama za svibanj 2016. godine | [`pravilnik/2016/1579/`](pravilnik/2016/1579/) | in force | 1 | 2016-07-09 | 2016-07-09 |
+| Pravilnik o izmjeni Pravilnika o kategorizaciji medicinsko-tehničke opreme zdravstvenih ustanova | [`pravilnik/2016/1582/`](pravilnik/2016/1582/) | in force | 1 | 2016-07-19 | 2016-07-19 |
+| Pravilnik o uvjetima koji se primjenjuju prilikom nekomercijalnog premještanja kućnih ljubimaca u Republiku Hrvatsku | [`pravilnik/2016/1616/`](pravilnik/2016/1616/) | in force | 1 | 2016-07-23 | 2016-07-23 |
+| Pravilnik o smjernicama za izradu procjena rizika od katastrofa i velikih nesreća za područje Republike Hrvatske i jedinica lokalne i područne (regionalne) samouprave | [`pravilnik/2016/1617/`](pravilnik/2016/1617/) | in force | 1 | 2016-07-23 | 2016-07-23 |
+| Pravilnik o izmjeni Pravilnika o obveznom sadržaju idejnog projekta | [`pravilnik/2016/1625/`](pravilnik/2016/1625/) | in force | 1 | 2016-07-28 | 2016-07-28 |
+| Pravilnik o ukidanju Pravilnika o obliku, vrsti i broju primjeraka obveznih priloga uz zahtjev za odobrenje prospekta, kao i o obveznom sadržaju tog zahtjeva | [`pravilnik/2016/1632/`](pravilnik/2016/1632/) | in force | 1 | 2016-07-20 | 2016-07-20 |
 | Pravilnik o priznavanju inozemne stručne kvalifikacije za obavljanje poslova revizije | [`pravilnik/2016/1633/`](pravilnik/2016/1633/) | in force | 1 | 2016-07-28 | 2016-07-28 |
+| Pravilnik o izmjeni Pravilnika o prostornom i vremenskom ograničenju obavljanja ribolova na području Jabučke kotline | [`pravilnik/2016/1643/`](pravilnik/2016/1643/) | in force | 1 | 2016-07-23 | 2016-07-23 |
+| Pravilnik o načinu, uvjetima i ovlastima za obavljanje upravne istrage pomorske nesreće | [`pravilnik/2016/1648/`](pravilnik/2016/1648/) | in force | 1 | 2016-08-04 | 2016-08-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) | [`pravilnik/2016/1649/`](pravilnik/2016/1649/) | amending act | 1 | 2016-07-28 | 2016-07-28 |
+| Pravilnik o tehničkim zahtjevima sustava javnog uzbunjivanja stanovništva | [`pravilnik/2016/1652/`](pravilnik/2016/1652/) | in force | 1 | 2016-08-04 | 2016-08-04 |
+| Pravilnik o postupku uzbunjivanja stanovništva | [`pravilnik/2016/1653/`](pravilnik/2016/1653/) | in force | 1 | 2016-08-04 | 2016-08-04 |
+| Pravilnik o sadržaju, obliku i načinu vođenja očevidnika inspekcijskog nadzora u sustavu civilne zaštite | [`pravilnik/2016/1655/`](pravilnik/2016/1655/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o izmjenama Pravilnika o postupku odobravanja i uporabi pomoćnih nastavnih sredstava za nastavne predmete u osnovnim školama, gimnazijama, umjetničkim školama i općeobrazovne predmete u strukovnim školama | [`pravilnik/2016/1659/`](pravilnik/2016/1659/) | in force | 1 | 2016-08-04 | 2016-08-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o jedinstvenom registru računa | [`pravilnik/2016/1692/`](pravilnik/2016/1692/) | amending act | 1 | 2016-08-11 | 2016-08-11 |
+| Pravilnik o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje djelatnosti hitne medicine | [`pravilnik/2016/1696/`](pravilnik/2016/1696/) | repealed 2024-06-06 | 2 | 2016-08-11 | 2024-06-06 |
+| Pravilnik o obliku i sadržaju oznake čistoće predmeta od plemenitih kovina | [`pravilnik/2016/1699/`](pravilnik/2016/1699/) | in force | 1 | 2016-08-11 | 2016-08-11 |
+| Pravilnik o tehničkim uvjetima koje moraju ispunjavati radne prostorije i oprema za ispitivanje i žigosanje državnim žigom predmeta od plemenitih kovina | [`pravilnik/2016/1700/`](pravilnik/2016/1700/) | in force | 1 | 2016-08-11 | 2016-08-11 |
+| Pravilnik o ostvarivanju prava na oslobođenje od plaćanja mostarine | [`pravilnik/2016/1710/`](pravilnik/2016/1710/) | in force | 1 | 2016-08-14 | 2016-08-14 |
+| Pravilnik o izmjenama Pravilnika o dodjeli potpore za otkup povlastica ili ribolovnog alata upisanih u povlasticu za obavljanje gospodarskog ribolova na moru | [`pravilnik/2016/1713/`](pravilnik/2016/1713/) | in force | 1 | 2016-08-07 | 2016-08-07 |
+| Pravilnik o dopuni Pravilnika o mjerilima za razvrstavanje lijekova te o propisivanju i izdavanju lijekova na recept | [`pravilnik/2016/1715/`](pravilnik/2016/1715/) | amending act | 1 | 2016-08-14 | 2016-08-14 |
+| Pravilnik o zaštiti arhivskog i registraturnog gradiva Državnog sudbenog vijeća | [`pravilnik/2016/1718/`](pravilnik/2016/1718/) | in force | 1 | 2016-08-14 | 2016-08-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o strogo zaštićenim vrstama | [`pravilnik/2016/1745/`](pravilnik/2016/1745/) | amending act | 1 | 2016-08-18 | 2016-08-18 |
+| Pravilnik o izmjenama Pravilnika o prihvatljivosti izdataka u okviru Europskog socijalnog fonda | [`pravilnik/2016/1749/`](pravilnik/2016/1749/) | in force | 1 | 2016-08-20 | 2016-08-20 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ovlaštenju strojovođa | [`pravilnik/2016/1753/`](pravilnik/2016/1753/) | amending act | 1 | 2016-08-25 | 2016-08-25 |
+| Pravilnik o izmjeni i dopuni Pravilnika o dodjeljivanju imena, oznake i jedinstvenog identifikacijskog broja plovila unutarnje plovidbe | [`pravilnik/2016/1754/`](pravilnik/2016/1754/) | amending act | 1 | 2016-08-25 | 2016-08-25 |
+| Pravilnik o vođenju evidencija pripadnika operativnih snaga sustava civilne zaštite | [`pravilnik/2016/1758/`](pravilnik/2016/1758/) | in force | 1 | 2016-08-25 | 2016-08-25 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2016. godinu | [`pravilnik/2016/1760/`](pravilnik/2016/1760/) | amending act | 1 | 2016-08-25 | 2016-08-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima za izvođenje operacija zrakoplovima i o organizacijskim zahtjevima kojima moraju udovoljavati operatori zrakoplova | [`pravilnik/2016/1770/`](pravilnik/2016/1770/) | amending act | 1 | 2016-08-25 | 2016-08-25 |
+| Pravilnik o izmjenama i dopuni Pravilnika o plaćanju naknada za pravo uporabe adrese, brojeva i radiofrekvencijskog spektra | [`pravilnik/2016/1786/`](pravilnik/2016/1786/) | amending act | 1 | 2016-09-01 | 2016-09-01 |
+| Pravilnik o izmjeni Pravilnika o provedbi mjere M17 "Upravljanje rizicima", podmjere 17.1. "Osiguranje usjeva, životinja i biljaka" iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2016/1794/`](pravilnik/2016/1794/) | in force | 1 | 2016-09-08 | 2016-09-08 |
+| Pravilnik o izmjenama Pravilnika o uvjetima nuklearne sigurnosti za davanje suglasnosti za gradnju nuklearnog postrojenja | [`pravilnik/2016/1806/`](pravilnik/2016/1806/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Pravilnik o dopuni pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), i igluna (Xiphias gladius) i iglana (Tetrapturus belone) | [`pravilnik/2016/1825/`](pravilnik/2016/1825/) | amending act | 1 | 2016-09-10 | 2016-09-10 |
+| Pravilnik o izmjenama pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.10. »Trajni prestanak ribolovnih aktivnosti « | [`pravilnik/2016/1826/`](pravilnik/2016/1826/) | in force | 1 | 2016-09-10 | 2016-09-10 |
+| Pravilnik o izmjenama i dopunama pravilnika o načinu obračuna i rokovima uplate doprinosa te načinu vođenja i uporabi imovine namijenjene za obveze garancijskog fonda | [`pravilnik/2016/1830/`](pravilnik/2016/1830/) | amending act | 1 | 2016-09-17 | 2016-09-17 |
+| Pravilnik o pregledu sirovog mlijeka namijenjenog javnoj potrošnji | [`pravilnik/2016/1853/`](pravilnik/2016/1853/) | in force | 1 | 2016-09-29 | 2016-09-29 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9 "Privremeni prestanak ribolovnih aktivnosti" pridnenim povlačnim mrežama - kočama za rujan/listopad 2016. godine | [`pravilnik/2016/1905/`](pravilnik/2016/1905/) | in force | 1 | 2016-10-01 | 2016-10-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere IV.3. "Stavljanje na tržište proizvoda ribarstva i akvakulture" | [`pravilnik/2016/1907/`](pravilnik/2016/1907/) | amending act | 1 | 2016-10-01 | 2016-10-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o priznavanju i potporama za početak rada proizvođačkih organizacija | [`pravilnik/2016/1908/`](pravilnik/2016/1908/) | amending act | 1 | 2016-10-01 | 2016-10-01 |
+| Pravilnik o izmjenama Pravilnika o čamcima | [`pravilnik/2016/1936/`](pravilnik/2016/1936/) | in force | 1 | 2016-10-20 | 2016-10-20 |
+| Pravilnik o izmjeni i dopuni Pravilnika o športskom ribolovu u slatkovodnom ribarstvu | [`pravilnik/2016/1937/`](pravilnik/2016/1937/) | amending act | 1 | 2016-10-20 | 2016-10-20 |
+| Pravilnik o izmjeni Pravilnika o dodjeli novčanih sredstava za održavanje eko sustava šaranskih ribnjaka u 2016. godini | [`pravilnik/2016/1939/`](pravilnik/2016/1939/) | in force | 1 | 2016-10-13 | 2016-10-13 |
+| Pravilnik o izmjeni i dopuni Pravilnika o dokumentaciji za izdvajanje poslova ili funkcija društva za osiguranje odnosno društva za reosiguranje | [`pravilnik/2016/1942/`](pravilnik/2016/1942/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za izdavanje odobrenja za stjecanje kvalificiranog udjela u društvu za osiguranje odnosno društvu za reosiguranje | [`pravilnik/2016/1943/`](pravilnik/2016/1943/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o ponudi mirovinskih programa mirovinskih osiguravajućih društava | [`pravilnik/2016/1944/`](pravilnik/2016/1944/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o sadržaju zahtjeva za izdavanje odobrenja za prijenos odnosno preuzimanje portfelja osiguranja društva za osiguranje odnosno društva za reosiguranje | [`pravilnik/2016/1945/`](pravilnik/2016/1945/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o promidžbenim aktivnostima i mrežnoj stranici mirovinskog osiguravajućeg društva | [`pravilnik/2016/1946/`](pravilnik/2016/1946/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
 | Pravilnik o izmjenama i dopunama Pravilnika o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2016/1947/`](pravilnik/2016/1947/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o redovitim izvješćima mirovinskog osiguravajućeg društva | [`pravilnik/2016/1948/`](pravilnik/2016/1948/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o sadržaju i načinu vođenja registra mirovinskih osiguravajućih društava | [`pravilnik/2016/1949/`](pravilnik/2016/1949/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o sadržaju zahtjeva i dokumentaciji koja se dostavlja uz zahtjev za izdavanje odobrenja za provođenje statusnih promjena društva za osiguranje odnosno društva za reosiguranje | [`pravilnik/2016/1950/`](pravilnik/2016/1950/) | amending act | 1 | 2016-11-02 | 2016-11-02 |
+| Pravilnik o izmjeni i dopuni Pravilnika o ograničavanju uporabe određenih opasnih tvari u električnoj i elektroničkoj opremi | [`pravilnik/2016/1959/`](pravilnik/2016/1959/) | amending act | 1 | 2019-07-22 | 2019-07-22 |
+| Pravilnik o dopuni Pravilnika o provedbi Uredbe (EU) br. 376/2014 Europskog parlamenta i Vijeća o izvješćivanju, analizi i naknadnom postupanju u vezi s događajima u civilnom zrakoplovstvu | [`pravilnik/2016/1961/`](pravilnik/2016/1961/) | amending act | 1 | 2016-10-22 | 2016-10-22 |
+| Pravilnik o načinu prijave primatelja organa i načinu vođenja Nacionalne liste čekanja za organe te kriterijima dodjele organa | [`pravilnik/2016/1964/`](pravilnik/2016/1964/) | in force | 1 | 2016-10-22 | 2016-10-22 |
+| Pravilnik o izmjeni Pravilnika o poslovima na kojima se ne smije zaposliti maloljetnik | [`pravilnik/2016/1998/`](pravilnik/2016/1998/) | in force | 1 | 2016-10-27 | 2016-10-27 |
+| Pravilnik o izmjeni Pravilnika o razdobljima glavne sezone, predsezone, posezone i izvansezone u turističkim općinama i gradovima | [`pravilnik/2016/1999/`](pravilnik/2016/1999/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom | [`pravilnik/2016/2000/`](pravilnik/2016/2000/) | in force | 1 | 2016-10-20 | 2016-10-20 |
+| Pravilnik o postupku izvanrednog ispitivanja zakonitih mjerila u uporabi | [`pravilnik/2016/2072/`](pravilnik/2016/2072/) | in force | 1 | 2016-10-29 | 2016-10-29 |
+| Pravilnik o vođenju jedinstvene evidencije i informacijskih baza podataka o operativnim snagama, materijalnim sredstvima i opremi operativnih snaga sustava civilne zaštite | [`pravilnik/2016/2091/`](pravilnik/2016/2091/) | in force | 1 | 2016-11-04 | 2016-11-04 |
+| Pravilnik o odobravanju službenog mjesta | [`pravilnik/2016/2147/`](pravilnik/2016/2147/) | in force | 1 | 2016-11-10 | 2016-11-10 |
+| Pravilnik o postupanju s oduzetom i ustupljenom robom | [`pravilnik/2016/2148/`](pravilnik/2016/2148/) | repealed 2025-11-27 | 2 | 2016-11-10 | 2025-11-27 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za tlakomjere za mjerenje tlaka u gumama motornih vozila | [`pravilnik/2016/2149/`](pravilnik/2016/2149/) | in force | 1 | 2016-11-10 | 2016-11-10 |
+| Pravilnik o izmjenama i dopuni Pravilnika o mjestima zakloništa | [`pravilnik/2016/2160/`](pravilnik/2016/2160/) | amending act | 1 | 2016-11-12 | 2016-11-12 |
+| Pravilnik o dopuni Pravilnika o popisu normi i prihvaćenih pravila struke u primjeni zaštite novčarskih institucija | [`pravilnik/2016/2334/`](pravilnik/2016/2334/) | amending act | 1 | 2016-11-24 | 2016-11-24 |
+| Pravilnik o izmjenama Pravilnika o provedbi Podmjere 19.2. »Provedba operacija unutar CLLD strategije«, Podmjere 19.3. »Priprema i provedba aktivnosti suradnje LAG-a« i Podmjere 19.4. »Tekući troškovi i animacija« unutar Mjere 19. »Potpora lokalnom razvoju u okviru inicijative LEADER (CLLD - lokalni razvoj pod vodstvom zajednice)« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2016/2338/`](pravilnik/2016/2338/) | in force | 1 | 2016-12-01 | 2016-12-01 |
+| Pravilnik o postupku ispitivanja, načinu određivanja stupnja čistoće i žigosanju državnim žigom predmeta od plemenitih kovina | [`pravilnik/2016/2340/`](pravilnik/2016/2340/) | in force | 1 | 2016-12-01 | 2016-12-01 |
+| Pravilnik o obavještavanju kod trgovanja udjelima UCITS fondova u drugoj državi članici | [`pravilnik/2016/2348/`](pravilnik/2016/2348/) | in force | 1 | 2016-12-01 | 2016-12-01 |
+| Pravilnik o glavnim i napajajućim UCITS fondovima | [`pravilnik/2016/2349/`](pravilnik/2016/2349/) | in force | 1 | 2016-12-01 | 2016-12-01 |
+| Pravilnik o izmjenama i dopunama pravilnika o postupku i ovlastima u ostvarivanju prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika oružanih snaga Republike Hrvatske | [`pravilnik/2016/2358/`](pravilnik/2016/2358/) | amending act | 1 | 2016-12-03 | 2016-12-03 |
+| Pravilnik o izmjenama i dopuni Pravilnika o provedbi mjere M17 »Upravljanje rizicima«, podmjere 17.1. »Osiguranje usjeva, životinja i biljaka« iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2016/2360/`](pravilnik/2016/2360/) | amending act | 1 | 2016-11-26 | 2016-11-26 |
+| Pravilnik o izmjeni Pravilnika o očevidniku kazališta | [`pravilnik/2016/2422/`](pravilnik/2016/2422/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+| Pravilnik o izmjeni Pravilnika o sufinanciranju projekata odobrenih u okviru programa Europske unije Kreativna Europa - potprogram Kultura | [`pravilnik/2016/2423/`](pravilnik/2016/2423/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+| Pravilnik o izmjenama Pravilnika o načinu vođenja i sadržaju upisnika i evidencije o prometu pokretnim kulturnim dobrima i drugim kulturnim predmetima koji imaju umjetničko, povijesno, arheološko i drugo značenje | [`pravilnik/2016/2424/`](pravilnik/2016/2424/) | in force | 1 | 2016-12-08 | 2016-12-08 |
+| Pravilnik o izmjenama Pravilnika o načinu naplate paušalnog iznosa boravišne pristojbe osoba koje pružaju usluge smještaja u domaćinstvu i seljačkom domaćinstvu | [`pravilnik/2016/2425/`](pravilnik/2016/2425/) | in force | 1 | 2017-01-01 | 2017-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu | [`pravilnik/2016/2426/`](pravilnik/2016/2426/) | amending act | 1 | 2016-12-08 | 2016-12-08 |
+| Pravilnik o dozvoljenim ulaganjima i ograničenjima ulaganja UCITS fonda | [`pravilnik/2016/2428/`](pravilnik/2016/2428/) | in force | 1 | 2016-12-08 | 2016-12-08 |
 | Pravilnik o priređivanju zabavnih igara | [`pravilnik/2017/8/`](pravilnik/2017/8/) | repealed 2023-08-10 | 2 | 2017-01-03 | 2023-08-10 |
 | Pravilnik o međusobnim odnosima jedinica područne (regionalne) samouprave i pravne osobe iz članka 46. stavka 4. Zakona o lokalnim porezima | [`pravilnik/2017/10/`](pravilnik/2017/10/) | in force | 1 | 2017-01-03 | 2017-01-03 |
 | Pravilnik o izmjeni Pravilnika o postupku ostvarivanja oslobođenja od plaćanja poreza za diplomatska i konzularna predstavništva, institucije i tijela Europske unije te međunarodne organizacije | [`pravilnik/2017/12/`](pravilnik/2017/12/) | in force | 1 | 2017-01-03 | 2017-01-03 |
