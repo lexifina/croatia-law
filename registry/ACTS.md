@@ -1,6 +1,6 @@
 # Every act in this repository
 
-10728 acts, 10,999 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+10987 acts, 11,258 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (60, of which 12 amending acts)
 
@@ -6273,7 +6273,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2791, of which 915 amending acts)
+## pravilnik (2945, of which 979 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -6655,6 +6655,63 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu | [`pravilnik/1999/2265/`](pravilnik/1999/2265/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na osposobljavanje za samostalan život i rad | [`pravilnik/1999/2266/`](pravilnik/1999/2266/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
 | Pravilnik o izmjenama i dopunama Pravilnika o tehničkom nadzoru električnih postrojenja, instalacija i uređaja namijenjenih za rad u prostorima ugroženim eksplozivnom atmosferom | [`pravilnik/1999/2268/`](pravilnik/1999/2268/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o očevidniku vađenja šljunka i pijeska | [`pravilnik/2014/62/`](pravilnik/2014/62/) | amending act | 1 | 2014-01-18 | 2014-01-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o očevidniku deponiranog šljunka i pijeska | [`pravilnik/2014/63/`](pravilnik/2014/63/) | amending act | 1 | 2014-01-18 | 2014-01-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o rasporedu sredstava za financiranje građenja i održavanja javnih cesta županijskim upravama za ceste u 2013. godini | [`pravilnik/2014/76/`](pravilnik/2014/76/) | amending act | 1 | 2014-01-22 | 2014-01-22 |
+| Pravilnik o izmjeni Pravilnika o očuvanju i održivoj uporabi biljnih genetskih izvora | [`pravilnik/2014/77/`](pravilnik/2014/77/) | in force | 1 | 2014-01-22 | 2014-01-22 |
+| Pravilnik o zvanjima i stručnim ispitima pomoraca u Hrvatskoj ratnoj mornarici | [`pravilnik/2014/82/`](pravilnik/2014/82/) | in force | 1 | 2014-01-23 | 2014-01-23 |
+| Pravilnik o službi na brodovima u Oružanim snagama Republike Hrvatske | [`pravilnik/2014/83/`](pravilnik/2014/83/) | in force | 1 | 2014-01-23 | 2014-01-23 |
+| Pravilnik o popisu postojećih aktivnih tvari dopuštenih u biocidnim pripravcima | [`pravilnik/2014/89/`](pravilnik/2014/89/) | in force | 1 | 2014-01-23 | 2014-01-23 |
+| Pravilnik o dopunama Pravilnika o upućivanju pravosudnih dužnosnika i državnih službenika u međunarodne organizacije i misije u inozemstvu | [`pravilnik/2014/134/`](pravilnik/2014/134/) | amending act | 1 | 2014-01-30 | 2014-01-30 |
+| Pravilnik o izmjeni i dopuni Pravilnika o izdavanju vodopravnih akata | [`pravilnik/2014/169/`](pravilnik/2014/169/) | amending act | 1 | 2014-02-01 | 2014-02-01 |
+| Pravilnik o stjecanju privilegije za obavljanje radiotelefonske komunikacije | [`pravilnik/2014/195/`](pravilnik/2014/195/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Pravilnik o izmjenama Pravilnika o razvrstavanju, minimalnim uvjetima i kategorizaciji ugostiteljskih objekata kampova iz skupine "Kampovi i druge vrste ugostiteljskih objekata za smještaj" | [`pravilnik/2014/201/`](pravilnik/2014/201/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Pravilnik o izmjenama Pravilnika o tehničkoj ispravnosti automata i stolova za igre na sreću | [`pravilnik/2014/225/`](pravilnik/2014/225/) | in force | 1 | 2014-02-08 | 2014-02-08 |
+| Pravilnik o izmjeni Pravilnika o mjerilima za stavljanje lijekova na osnovnu i dopunsku listu lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/2014/230/`](pravilnik/2014/230/) | amending act | 1 | 2014-02-01 | 2014-02-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za obavljanje djelatnosti javne odvodnje | [`pravilnik/2014/330/`](pravilnik/2014/330/) | amending act | 1 | 2014-02-15 | 2014-02-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za obavljanje djelatnosti javne vodoopskrbe | [`pravilnik/2014/331/`](pravilnik/2014/331/) | amending act | 1 | 2014-02-15 | 2014-02-15 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu cilindričnih vodoravnih i okomitih spremnika za ovjeravanje | [`pravilnik/2014/334/`](pravilnik/2014/334/) | in force | 1 | 2014-02-15 | 2014-02-15 |
+| Pravilnik o postupku utvrđivanja najviše razine cijene udžbenika i pripadajućih dopunskih nastavnih sredstava | [`pravilnik/2014/374/`](pravilnik/2014/374/) | amending act | 1 | 2014-02-13 | 2014-02-13 |
+| Pravilnik o načinu osiguranja vojnih lokacija i građevina posebno važnih za obranu | [`pravilnik/2014/478/`](pravilnik/2014/478/) | in force | 1 | 2014-03-07 | 2014-03-07 |
+| Pravilnik o istraživanju i izvješćivanju o nesrećama i ostalim događajima ugrožavanja sigurnosti letenja vojnih zrakoplova | [`pravilnik/2014/479/`](pravilnik/2014/479/) | in force | 1 | 2014-03-07 | 2014-03-07 |
+| Pravilnik o obrazovanju maloljetnika za vrijeme izvršavanja sankcija | [`pravilnik/2014/482/`](pravilnik/2014/482/) | in force | 1 | 2014-03-07 | 2014-03-07 |
+| Pravilnik o kriterijima za obavljanje malog ribolova u 2014. godini | [`pravilnik/2014/500/`](pravilnik/2014/500/) | in force | 1 | 2014-03-08 | 2014-03-08 |
+| Pravilnik o izmjenama i dopuni Pravilnika o početnoj i prijelaznoj hrani za dojenčad | [`pravilnik/2014/502/`](pravilnik/2014/502/) | amending act | 1 | 2014-03-01 | 2014-03-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku obavljanja natječaja i o odlučivanju o odabiru korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost | [`pravilnik/2014/504/`](pravilnik/2014/504/) | amending act | 1 | 2014-03-08 | 2014-03-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu praćenja namjenskog korištenja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost i ugovorenih prava i obveza | [`pravilnik/2014/506/`](pravilnik/2014/506/) | amending act | 1 | 2014-03-08 | 2014-03-08 |
+| Pravilnik o izmjenama Pravilnika o pripravničkom stažu doktora medicine | [`pravilnik/2014/533/`](pravilnik/2014/533/) | in force | 1 | 2014-03-06 | 2014-03-06 |
+| Pravilnik o izmjeni Pravilnika o organizacijskim zahtjevima za društva za upravljanje UCITS fondovima | [`pravilnik/2014/565/`](pravilnik/2014/565/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+| Pravilnik o izmjeni Pravilnika o obliku i sadržaju obrasca kontrolne liste | [`pravilnik/2014/581/`](pravilnik/2014/581/) | in force | 1 | 2014-03-13 | 2014-03-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć | [`pravilnik/2014/584/`](pravilnik/2014/584/) | amending act | 1 | 2014-03-20 | 2014-03-20 |
+| Pravilnik o uvjetima za članstvo u upravi burze i postupku izdavanja suglasnosti članu uprave burze | [`pravilnik/2014/588/`](pravilnik/2014/588/) | in force | 1 | 2014-03-20 | 2014-03-20 |
+| Pravilnik o zaštiti šuma od požara | [`pravilnik/2014/599/`](pravilnik/2014/599/) | in force | 1 | 2014-03-22 | 2014-03-22 |
+| Pravilnik o sadržaju, obliku i načinu vođenja očevidnika inspektora u gospodarstvu | [`pravilnik/2014/636/`](pravilnik/2014/636/) | in force | 1 | 2014-03-29 | 2014-03-29 |
+| Pravilnik o izmjenama Pravilnika o aerodromima na vodi | [`pravilnik/2014/639/`](pravilnik/2014/639/) | in force | 1 | 2014-03-29 | 2014-03-29 |
+| Pravilnik o provedbi Mjere 101 "Ulaganja u poljoprivredna gospodarstva u svrhu restrukturiranja i postizanja standarda Zajednice" unutar IPARD programa | [`pravilnik/2014/640/`](pravilnik/2014/640/) | in force | 1 | 2014-03-22 | 2014-03-22 |
+| Pravilnik o provedbi Mjere 103 "Ulaganja u preradu i traženje poljoprivrednih i ribljih proizvoda u svrhu restrukturiranja tih aktivnosti i postizanja standarda Zajednice" unutar IPARD programa | [`pravilnik/2014/641/`](pravilnik/2014/641/) | in force | 1 | 2014-03-22 | 2014-03-22 |
+| Pravilnik o prestanku važenja Pravilnika o mjerama za sprječavanje širenja kukuruzne zlatice Diabrotica virgifera Le Conte | [`pravilnik/2014/679/`](pravilnik/2014/679/) | in force | 1 | 2014-04-03 | 2014-04-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište sjemena čuvanih sorti | [`pravilnik/2014/710/`](pravilnik/2014/710/) | amending act | 1 | 2014-04-05 | 2014-04-05 |
+| Pravilnik o dopuni Pravilnika o provedbi programa izravne potpore i pojedinih mjera državne potpore poljoprivredi u 2014. godini | [`pravilnik/2014/711/`](pravilnik/2014/711/) | amending act | 1 | 2014-03-29 | 2014-03-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2014. godinu | [`pravilnik/2014/720/`](pravilnik/2014/720/) | amending act | 1 | 2014-04-05 | 2014-04-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu polaganja, primjene te povratu instrumenata osiguranja plaćanja koji se koriste u carinskim postupcima | [`pravilnik/2014/750/`](pravilnik/2014/750/) | amending act | 1 | 2014-04-01 | 2014-04-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima zajedničkih zrakoplovnih vlasti i upravnim postupcima koji se primjenjuju na komercijalni zračni prijevoz helikopterom | [`pravilnik/2014/780/`](pravilnik/2014/780/) | amending act | 1 | 2014-04-10 | 2014-04-10 |
+| Pravilnik o sadržaju i izgledu ploče kojom se označava gradilište | [`pravilnik/2014/784/`](pravilnik/2014/784/) | in force | 1 | 2014-04-10 | 2014-04-10 |
+| Pravilnik o sadržaju pisane Izjave izvođača o izvedenim radovima i uvjetima održavanja građevine | [`pravilnik/2014/803/`](pravilnik/2014/803/) | in force | 1 | 2014-04-12 | 2014-04-12 |
+| Pravilnik o kriterijima za klasificiranje podataka iz djelokruga Državnog zavoda za radiološku i nuklearnu sigurnost | [`pravilnik/2014/806/`](pravilnik/2014/806/) | in force | 1 | 2014-04-12 | 2014-04-12 |
+| Pravilnik o sanitarno tehničkim i higijenskim te drugim uvjetima koje moraju ispunjavati vodoopskrbni objekti | [`pravilnik/2014/824/`](pravilnik/2014/824/) | in force | 1 | 2014-04-15 | 2014-04-15 |
+| Pravilnik o dopuni Pravilnika o visini pristojbi za veterinarski pregled pošiljaka iz trećih zemalja | [`pravilnik/2014/825/`](pravilnik/2014/825/) | amending act | 1 | 2014-04-15 | 2014-04-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o davanju odobrenja za obavljanje poslova ovlaštenim carinskim otpremnicima i ovlaštenim carinskim zastupnicima | [`pravilnik/2014/838/`](pravilnik/2014/838/) | amending act | 1 | 2014-04-10 | 2014-04-10 |
+| Pravilnik o izmjenama Pravilnika o provedbi mjere 202 - "Priprema i provedba lokalnih strategija ruralnog razvoja" unutar IPARD programa | [`pravilnik/2014/845/`](pravilnik/2014/845/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| Pravilnik o izmjenama Pravilnika o dokumentaciji potrebnoj za raspisivanje javnog poziva za zakup, zakup za ribnjake i zamjenu poljoprivrednog zemljišta u vlasništvu Republike Hrvatske | [`pravilnik/2014/846/`](pravilnik/2014/846/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| Pravilnik o izmjenama Pravilnika o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje ovlaštenja za obavljanje poslova zastupanja u osiguranju, odnosno posredovanja u osiguranju i reosiguranju | [`pravilnik/2014/856/`](pravilnik/2014/856/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| Pravilnik o izmjeni Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama | [`pravilnik/2014/866/`](pravilnik/2014/866/) | in force | 1 | 2014-06-01 | 2014-06-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o hitnoj medicinskoj službi na aerodromu | [`pravilnik/2014/924/`](pravilnik/2014/924/) | amending act | 1 | 2014-04-25 | 2014-04-25 |
+| Pravilnik o načinu konzultiranja i informiranja javnosti o nacrtu Strategije upravljanja vodama i Plana upravljanja vodnim područjima | [`pravilnik/2014/926/`](pravilnik/2014/926/) | in force | 1 | 2014-04-25 | 2014-04-25 |
+| Pravilnik o izmjeni Pravilnika o proizvodnji vina | [`pravilnik/2014/927/`](pravilnik/2014/927/) | in force | 1 | 2014-04-25 | 2014-04-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o organoleptičkom (senzornom) ocjenjivanju vina i voćnih vina | [`pravilnik/2014/928/`](pravilnik/2014/928/) | amending act | 1 | 2014-04-25 | 2014-04-25 |
+| Pravilnik o izmjeni Pravilnika o stavljanju u promet vina i vina sa zaštićenom oznakom izvornosti | [`pravilnik/2014/946/`](pravilnik/2014/946/) | in force | 1 | 2014-04-26 | 2014-04-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zvučnom snimanju rasprave u kaznenom postupku | [`pravilnik/2014/969/`](pravilnik/2014/969/) | amending act | 1 | 2014-05-01 | 2014-05-01 |
+| Pravilnik o izmjeni Pravilnika o troškovima za usluge i postupke koje provodi Hrvatski centar za poljoprivredu, hranu i selo - Zavod za sjemenarstvo i rasadničarstvo | [`pravilnik/2014/985/`](pravilnik/2014/985/) | in force | 1 | 2014-05-03 | 2014-05-03 |
 | Pravilnik o izmjeni Pravilnika o dodacima na plaću djelatnih vojnih osoba | [`pravilnik/2014/1006/`](pravilnik/2014/1006/) | in force | 1 | 2014-05-01 | 2014-05-01 |
 | Pravilnik o načinu i uvjetima postupanja sa skladišnicom za žitarice i industrijsko bilje | [`pravilnik/2014/1042/`](pravilnik/2014/1042/) | in force | 1 | 2014-05-13 | 2014-05-13 |
 | Pravilnik o provedbi postupka odobravanja biocidnih proizvoda | [`pravilnik/2014/1044/`](pravilnik/2014/1044/) | in force | 1 | 2014-05-13 | 2014-05-13 |
@@ -6665,6 +6722,103 @@
 | Pravilnik o službenoj odori inspektora rada | [`pravilnik/2014/1103/`](pravilnik/2014/1103/) | in force | 1 | 2014-05-22 | 2014-05-22 |
 | Pravilnik o izmjenama i dopunama Pravilnika o integriranoj proizvodnji poljoprivrednih proizvoda | [`pravilnik/2014/1107/`](pravilnik/2014/1107/) | amending act | 1 | 2014-05-22 | 2014-05-22 |
 | Pravilnik o ustroju, vođenju i korištenju podataka iz statističkih registara Državnog zavoda za statistiku | [`pravilnik/2014/1109/`](pravilnik/2014/1109/) | in force | 1 | 2014-05-22 | 2014-05-22 |
+| Pravilnik o provjeri kakvoće lijeka | [`pravilnik/2014/1118/`](pravilnik/2014/1118/) | in force | 1 | 2014-05-24 | 2014-05-24 |
+| Pravilnik o izmjenama Pravilnika o javnim ispravama u obrazovanju odraslih | [`pravilnik/2014/1152/`](pravilnik/2014/1152/) | in force | 1 | 2014-05-29 | 2014-05-29 |
+| Pravilnik o izmjeni Pravilnika o statusu i financiranju Pulskog filmskog festivala | [`pravilnik/2014/1153/`](pravilnik/2014/1153/) | in force | 1 | 2014-05-29 | 2014-05-29 |
+| Pravilnik o izmjenama i dopunama Pravilnika o držanju pčela i katastru pčelinje paše | [`pravilnik/2014/1245/`](pravilnik/2014/1245/) | amending act | 1 | 2014-06-05 | 2014-06-05 |
+| Pravilnik o izmjenama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva | [`pravilnik/2014/1247/`](pravilnik/2014/1247/) | in force | 1 | 2014-06-05 | 2014-06-05 |
+| Pravilnik o označavanju službenih vozila inspekcije cestovnog prometa i cesta | [`pravilnik/2014/1260/`](pravilnik/2014/1260/) | in force | 1 | 2014-06-07 | 2014-06-07 |
+| Pravilnik o izmjenama Pravilnika o uvjetima i načinu upotrebe sportsko-rekreativnih zrakoplova | [`pravilnik/2014/1262/`](pravilnik/2014/1262/) | in force | 1 | 2014-06-07 | 2014-06-07 |
+| Pravilnik o izmjenama Pravilnika o provedbi programa izravne potpore i pojedinih mjera državne potpore poljoprivredi u 2014. godini | [`pravilnik/2014/1263/`](pravilnik/2014/1263/) | in force | 1 | 2014-05-31 | 2014-05-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o metodologiji za izradu procjena ugroženosti i planova zaštite i spašavanja | [`pravilnik/2014/1281/`](pravilnik/2014/1281/) | amending act | 1 | 2014-06-10 | 2014-06-10 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu oslobođenja od plaćanje trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu | [`pravilnik/2014/1313/`](pravilnik/2014/1313/) | in force | 1 | 2014-06-07 | 2014-06-07 |
+| Pravilnik o izmjenama Pravilnika o mjerilima i načinu za određivanje cijena lijekova na veliko i o načinu izvješćivanja o cijenama na veliko | [`pravilnik/2014/1316/`](pravilnik/2014/1316/) | in force | 1 | 2014-06-14 | 2014-06-14 |
+| Pravilnik o ulaganjima društva za dokup mirovine | [`pravilnik/2014/1356/`](pravilnik/2014/1356/) | in force | 1 | 2014-06-21 | 2014-06-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o upravljanju i uređenju sustava za navodnjavanje | [`pravilnik/2014/1438/`](pravilnik/2014/1438/) | amending act | 1 | 2014-07-02 | 2014-07-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku homologacije motornih vozila na dva ili tri kotača, s obzirom na ugradbu uređaja za osvjetljavanje i svjetlosnu signalizaciju TPV 208 (izdanje 01) | [`pravilnik/2014/1459/`](pravilnik/2014/1459/) | amending act | 1 | 2014-07-01 | 2014-07-01 |
+| Pravilnik o izmjenama Pravilnika o strukturi i sadržaju godišnjih i polugodišnjih izvještaja i drugih izvještaja alternativnog investicijskog fonda | [`pravilnik/2014/1564/`](pravilnik/2014/1564/) | in force | 1 | 2014-07-12 | 2014-07-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-zdravstvenim zahtjevima za stavljanje u promet i uvoz životinja, sjemena, jajnih stanica i zametaka koji ne podliježu zahtjevima iz Dodatka A Pravilnika o veterinarskim i zootehničkim pregledima određenih životinja i proizvoda u prometu s državama članicama Europske unije | [`pravilnik/2014/1583/`](pravilnik/2014/1583/) | amending act | 1 | 2014-12-29 | 2014-12-29 |
+| Pravilnik o izmjenama Pravilnika o provedbi Mjere 103 "Ulaganja u preradu i trženje poljoprivrednih i ribljih proizvoda u svrhu restrukturiranja tih aktivnosti i dostizanja standarda zajednice" unutar IPARD programa | [`pravilnik/2014/1617/`](pravilnik/2014/1617/) | in force | 1 | 2014-07-19 | 2014-07-19 |
+| Pravilnik o izmjeni Pravilnika o poticanju ulaganja u proizvodnju audiovizualnih djela | [`pravilnik/2014/1619/`](pravilnik/2014/1619/) | in force | 1 | 2014-07-12 | 2014-07-12 |
+| Pravilnik o snimanju dokazne ili druge radnje u prethodnom i kaznenom postupku | [`pravilnik/2014/1707/`](pravilnik/2014/1707/) | in force | 1 | 2014-07-24 | 2014-07-24 |
+| Pravilnik o klanju životinja namijenjenih potrošnji u kućanstvu | [`pravilnik/2014/1709/`](pravilnik/2014/1709/) | in force | 1 | 2014-07-24 | 2014-07-24 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dodjeli tržišne kompenzacije u ribarstvu | [`pravilnik/2014/1710/`](pravilnik/2014/1710/) | amending act | 1 | 2014-07-16 | 2014-07-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za razvrstavanje bolničkih zdravstvenih ustanova u kategorije | [`pravilnik/2014/1725/`](pravilnik/2014/1725/) | amending act | 1 | 2014-07-26 | 2014-07-26 |
+| Pravilnik o postupku uzimanja uzoraka u provedbi carinske ovlasti pregleda robe | [`pravilnik/2014/1780/`](pravilnik/2014/1780/) | in force | 1 | 2014-07-31 | 2014-07-31 |
+| Pravilnik o izmjeni Pravilnika o rasporedu sredstava za financiranje građenja i održavanja javnih cesta županijskim upravama za ceste u 2014. godini | [`pravilnik/2014/1827/`](pravilnik/2014/1827/) | in force | 1 | 2014-08-02 | 2014-08-02 |
+| Pravilnik o dopuni Pravilnika o stjecanju statusa povlaštenog proizvođača električne energije | [`pravilnik/2014/1880/`](pravilnik/2014/1880/) | amending act | 1 | 2014-07-31 | 2014-07-31 |
+| Pravilnik o izmjeni Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) | [`pravilnik/2014/1894/`](pravilnik/2014/1894/) | in force | 1 | 2014-08-01 | 2014-08-01 |
+| Pravilnik o izmjeni Pravilnika o sadržaju i načinu vođenja očevidnika zaposlenih osoba s invaliditetom | [`pravilnik/2014/1935/`](pravilnik/2014/1935/) | in force | 1 | 2014-08-14 | 2014-08-14 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere 2.1. "Proizvodne investicije u akvakulturi" | [`pravilnik/2014/1957/`](pravilnik/2014/1957/) | in force | 1 | 2014-08-21 | 2014-08-21 |
+| Pravilnik o izboru mirovinskog osiguravajućeg društva u okviru obveznog mirovinskog osiguranja | [`pravilnik/2014/1963/`](pravilnik/2014/1963/) | in force | 1 | 2014-08-21 | 2014-08-21 |
+| Pravilnik o tjednim obvezama odgojno-obrazovnoga rada u umjetničkoj školi | [`pravilnik/2014/2003/`](pravilnik/2014/2003/) | in force | 1 | 2014-09-04 | 2014-09-04 |
+| Pravilnik o načinu rada i odlučivanja Povjerenstva za odlučivanje o sukobu interesa | [`pravilnik/2014/2028/`](pravilnik/2014/2028/) | in force | 1 | 2014-09-06 | 2014-09-06 |
+| Pravilnik o dopuni Pravilnika o prostornom i vremenskom ograničenju obavljanja gospodarskog ribolova na moru okružujućom mrežom plivaricom-srdelarom u 2014. godini | [`pravilnik/2014/2049/`](pravilnik/2014/2049/) | amending act | 1 | 2014-09-03 | 2014-09-03 |
+| Pravilnik o sadržaju obrasca mišljenja obiteljskog doktora medicine osobe lišene poslovne sposobnosti o stanju zdravlja štićenika s obzirom na razlog lišenja poslovne sposobnosti | [`pravilnik/2014/2050/`](pravilnik/2014/2050/) | in force | 1 | 2014-09-10 | 2014-09-10 |
+| Pravilnik o uvjetima koje moraju ispunjavati organizacije civilnog društva za provođenje programa stručne pripreme za posvojenje, obveznom sadržaju i načinu provedbe programa stručne pripreme potencijalnih posvojitelja te uvjetima stručne osposobljenosti radnika kao i načinu vođenja dokumentacije u svezi s provedbom stručne pripreme potencijalnih posvojitelja | [`pravilnik/2014/2051/`](pravilnik/2014/2051/) | in force | 1 | 2014-09-10 | 2014-09-10 |
+| Pravilnik o načinu vođenja očevidnika i spisa predmeta o posvojenju te sadržaju izvješća o prilagodbi djeteta u posvojiteljskoj obitelji | [`pravilnik/2014/2052/`](pravilnik/2014/2052/) | in force | 1 | 2014-09-10 | 2014-09-10 |
+| Pravilnik o provođenju nadzora nad ostvarivanjem osobnih odnosa djeteta i roditelja | [`pravilnik/2014/2060/`](pravilnik/2014/2060/) | in force | 1 | 2014-09-10 | 2014-09-10 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju uvjeta zdravstvene sposobnosti članova posade pomorskih brodova, brodica i jahti | [`pravilnik/2014/2080/`](pravilnik/2014/2080/) | amending act | 1 | 2014-09-13 | 2014-09-13 |
+| Pravilnik o sadržaju i trajanju programa predškole | [`pravilnik/2014/2081/`](pravilnik/2014/2081/) | in force | 1 | 2014-09-13 | 2014-09-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o minimalnim tehničkim i drugim uvjetima koji se odnose na prodajne objekte, opremu i sredstva u prodajnim objektima i uvjetima za prodaju robe izvan prodavaonica | [`pravilnik/2014/2095/`](pravilnik/2014/2095/) | amending act | 1 | 2014-09-18 | 2014-09-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dozvolama, ovlaštenjima i posebnim ovlastima kontrolora zračnog prometa | [`pravilnik/2014/2102/`](pravilnik/2014/2102/) | amending act | 1 | 2014-09-19 | 2014-09-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za obavljanje djelatnosti vodoistražnih radova i drugih hidrogeoloških radova, preventivne, redovne i izvanredne obrane od poplava, te upravljanja detaljnim građevinama za meliorizacijsku odvodnju i vodnim građevinama za navodnjavanje | [`pravilnik/2014/2159/`](pravilnik/2014/2159/) | amending act | 1 | 2014-10-02 | 2014-10-02 |
+| Pravilnik o načinu određivanja ratnog rasporeda te izdavanju, čuvanju, održavanju i vraćanju osobne vojne opreme | [`pravilnik/2014/2178/`](pravilnik/2014/2178/) | in force | 1 | 2014-09-27 | 2014-09-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o čamcima | [`pravilnik/2014/2211/`](pravilnik/2014/2211/) | amending act | 1 | 2014-10-09 | 2014-10-09 |
+| Pravilnik o dopuni Pravilnika o radionicama za tahografe | [`pravilnik/2014/2227/`](pravilnik/2014/2227/) | amending act | 1 | 2014-10-03 | 2014-10-03 |
+| Pravilnik o izmjeni i dopuni Pravilnika o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom - koćom | [`pravilnik/2014/2231/`](pravilnik/2014/2231/) | amending act | 1 | 2014-10-04 | 2014-10-04 |
+| Pravilnik o načinu uzimanja uzoraka biološkog materijala i provođenja molekularno-genetske analize | [`pravilnik/2014/2292/`](pravilnik/2014/2292/) | in force | 1 | 2014-10-18 | 2014-10-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o superanalizi vina, voćnih vina i drugih proizvoda od vina i voćnih vina | [`pravilnik/2014/2320/`](pravilnik/2014/2320/) | amending act | 1 | 2014-10-23 | 2014-10-23 |
+| Pravilnik o izmjenama Pravilnika o načinu motrenja oštećenosti šumskih ekosustava | [`pravilnik/2014/2346/`](pravilnik/2014/2346/) | in force | 1 | 2014-10-25 | 2014-10-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o provedbi privremenih izvanrednih mjera potpore proizvođačima voća i povrća za postupke povlačenja s tržišta, neubiranja i zelene berbe | [`pravilnik/2014/2347/`](pravilnik/2014/2347/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
+| Pravilnik o obustavi stavljanja lijeka u promet i povlačenju lijeka iz prometa | [`pravilnik/2014/2349/`](pravilnik/2014/2349/) | in force | 1 | 2014-10-25 | 2014-10-25 |
+| Pravilnik o vrsti podataka i načinu izrade izvješća o potrošnji lijekova | [`pravilnik/2014/2350/`](pravilnik/2014/2350/) | in force | 1 | 2014-10-25 | 2014-10-25 |
+| Pravilnik o stavljanju izvan snage Pravilnika o obavljanju pregleda inozemnih zrakoplova na stajanci i zahtjevima za potrebnim kvalifikacijama osoblja koje ih obavlja | [`pravilnik/2014/2357/`](pravilnik/2014/2357/) | in force | 1 | 2014-10-30 | 2014-10-30 |
+| Pravilnik o dodjeli potpore udruženjima u ribarstvu u 2014. godini | [`pravilnik/2014/2358/`](pravilnik/2014/2358/) | in force | 1 | 2014-10-30 | 2014-10-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o homologaciji tipa traktora za poljoprivredu i šumarstvo (izdanje 01) | [`pravilnik/2014/2359/`](pravilnik/2014/2359/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na emisiju štetnih sastojaka iz njihovih motora TPV 323 (izdanje 00) | [`pravilnik/2014/2360/`](pravilnik/2014/2360/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o izmjenama Pravilnika o očevidniku inspektora elektroničkih komunikacija | [`pravilnik/2014/2376/`](pravilnik/2014/2376/) | in force | 1 | 2014-11-01 | 2014-11-01 |
+| Pravilnik o izmjenama Pravilnika o pečatu inspektora elektroničkih komunikacija | [`pravilnik/2014/2378/`](pravilnik/2014/2378/) | in force | 1 | 2014-11-01 | 2014-11-01 |
+| Pravilnik o izmjenama Pravilnika o izobrazbi u području javne nabave | [`pravilnik/2014/2390/`](pravilnik/2014/2390/) | in force | 1 | 2014-11-04 | 2014-11-04 |
+| Pravilnik o izmjeni i dopuni Pravilnika o pripravničkom stažu zdravstvenih radnika | [`pravilnik/2014/2398/`](pravilnik/2014/2398/) | amending act | 1 | 2014-10-29 | 2014-10-29 |
+| Pravilnik o dopunama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i registru povlastica | [`pravilnik/2014/2418/`](pravilnik/2014/2418/) | amending act | 1 | 2014-11-06 | 2014-11-06 |
+| Pravilnik o stavljanju izvan snage Pravilnika o izvješćivanju i istraživanju događaja koji ugrožavaju sigurnost te nesreća i ozbiljnih nezgoda zrakoplova | [`pravilnik/2014/2434/`](pravilnik/2014/2434/) | in force | 1 | 2014-11-08 | 2014-11-08 |
+| Pravilnik o izdavanju suglasnosti za stjecanje kvalificiranog udjela u faktoring društvu i drugoj pravnoj osobi | [`pravilnik/2014/2454/`](pravilnik/2014/2454/) | in force | 1 | 2014-11-11 | 2014-11-11 |
+| Pravilnik o izračunu prosječnog dnevnog neto uvoza, odnosno unosa, prosječne dnevne potrošnje i količina zaliha nafte i naftnih derivata | [`pravilnik/2014/2481/`](pravilnik/2014/2481/) | in force | 1 | 2014-11-20 | 2014-11-20 |
+| Pravilnik o izmjenama i dopunama Pravilnika o provedbi Mjere 202 - "Priprema i provedba lokalnih strategija ruralnog razvoja" unutar IPARD programa | [`pravilnik/2014/2485/`](pravilnik/2014/2485/) | amending act | 1 | 2014-11-20 | 2014-11-20 |
+| Pravilnik o načinu prikupljanja medicinske dokumentacije te utvrđivanju uvjeta i pretpostavki za promjenu spola ili o životu u drugom rodnom identitetu | [`pravilnik/2014/2487/`](pravilnik/2014/2487/) | in force | 1 | 2014-11-20 | 2014-11-20 |
+| Pravilnik o izmjenama Pravilnika o utvrđivanju dodatnih privremenih izvanrednih mjera potpore proizvođačima određenog voća i povrća | [`pravilnik/2014/2585/`](pravilnik/2014/2585/) | in force | 1 | 2014-11-20 | 2014-11-20 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva | [`pravilnik/2014/2586/`](pravilnik/2014/2586/) | amending act | 1 | 2014-11-27 | 2014-11-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje | [`pravilnik/2014/2589/`](pravilnik/2014/2589/) | amending act | 1 | 2014-11-27 | 2014-11-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna granica solventnosti (adekvatnosti kapitala) društava za osiguranje i društava za reosiguranje | [`pravilnik/2014/2590/`](pravilnik/2014/2590/) | amending act | 1 | 2014-11-27 | 2014-11-27 |
+| Pravilnik o izmjenama i dopunama Statističkih standarda osiguranja | [`pravilnik/2014/2591/`](pravilnik/2014/2591/) | amending act | 1 | 2014-11-27 | 2014-11-27 |
+| Pravilnik o prestanku važenja Pravilnika o mjerama za sprječavanje unošenja i širenja kestenove ose šiškarice - Dryocosmus kuriphilus Yasumatsu | [`pravilnik/2014/2606/`](pravilnik/2014/2606/) | in force | 1 | 2014-11-29 | 2014-11-29 |
+| Pravilnik o izmjenama Pravilnika o aerosolnim raspršivačima | [`pravilnik/2014/2649/`](pravilnik/2014/2649/) | in force | 1 | 2014-12-06 | 2014-12-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju redovitih izvjšća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2014/2661/`](pravilnik/2014/2661/) | amending act | 1 | 2014-12-06 | 2014-12-06 |
+| Pravilnik o izmjeni Pravilnika o razdobljima glavne sezone, predsezone i izvansezone u turističkim općinama i gradovima | [`pravilnik/2014/2692/`](pravilnik/2014/2692/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o putovnici za kućne ljubimce | [`pravilnik/2014/2726/`](pravilnik/2014/2726/) | in force | 1 | 2014-12-29 | 2014-12-29 |
+| Pravilnik o načinu objave pravilnika o radu | [`pravilnik/2014/2734/`](pravilnik/2014/2734/) | in force | 1 | 2014-12-18 | 2014-12-18 |
+| Pravilnik o načinu dostave obavijesti za upis u evidenciju reprezentativnih sindikata | [`pravilnik/2014/2735/`](pravilnik/2014/2735/) | in force | 1 | 2014-12-18 | 2014-12-18 |
+| Pravilnik o iznosu i načinu isplate naknade za rad Povjerenstva za utvrđivanje reprezentativnosti | [`pravilnik/2014/2736/`](pravilnik/2014/2736/) | in force | 1 | 2014-12-18 | 2014-12-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupanju društava za osiguranje s pritužbama osiguranika, ugovaratelja osiguranja i korisnika iz ugovora o osiguranju | [`pravilnik/2014/2746/`](pravilnik/2014/2746/) | amending act | 1 | 2014-12-18 | 2014-12-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dodatnim poslovima koje može obavljati društvo za posredovanje u osiguranju i reosiguranju | [`pravilnik/2014/2747/`](pravilnik/2014/2747/) | amending act | 1 | 2014-12-18 | 2014-12-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o drugim uslugama koje može pružati društvo za zastupanje u osiguranju | [`pravilnik/2014/2748/`](pravilnik/2014/2748/) | amending act | 1 | 2014-12-18 | 2014-12-18 |
+| Pravilnik o izmjeni Pravilnika o registru vinograda, obveznim izjavama, pratećim dokumentima, podrumskoj evidenciji i proizvodnom potencijalu | [`pravilnik/2014/2768/`](pravilnik/2014/2768/) | in force | 1 | 2014-12-20 | 2014-12-20 |
+| Pravilnik o izmjenama Pravilnika o načinu i postupku izbora doktora specijaliste medicine rada | [`pravilnik/2014/2785/`](pravilnik/2014/2785/) | in force | 1 | 2014-12-17 | 2014-12-17 |
+| Pravilnik o izmjenama i dopuni Pravilnika o načinu prikupljanja podataka, vođenju registra te uvjetima korištenja podataka o šumskim požarima | [`pravilnik/2014/2804/`](pravilnik/2014/2804/) | amending act | 1 | 2014-12-25 | 2014-12-25 |
+| Pravilnik o dopunama Pravilnika o prostornim i tehničkim uvjetima za priređivanje igara na sreću u casinima, na automatima i uplatnim mjestima kladionica | [`pravilnik/2014/2839/`](pravilnik/2014/2839/) | amending act | 1 | 2014-12-20 | 2014-12-20 |
+| Pravilnik o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme zdravstvene ustanove koja pruža zdravstvenu zaštitu osobama lišenim slobode | [`pravilnik/2014/2845/`](pravilnik/2014/2845/) | in force | 1 | 2014-12-27 | 2014-12-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obliku i sadržaju financijskog i statističkog izvješća društava za zastupanje u osiguranju, odnosno društava za posredovanje u osiguranju i reosiguranju | [`pravilnik/2014/2851/`](pravilnik/2014/2851/) | amending act | 1 | 2014-12-27 | 2014-12-27 |
+| Pravilnik o stručnom osposobljavanju, dozvolama, ovlaštenjima i posebnim ovlastima pomoćnog zrakoplovnog osoblja koje obavlja poslove pružanja usluga zrakoplovne meteorologije | [`pravilnik/2014/2897/`](pravilnik/2014/2897/) | in force | 1 | 2014-12-31 | 2014-12-31 |
+| Pravilnik o sustavu upravljanja rizicima | [`pravilnik/2014/2923/`](pravilnik/2014/2923/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o dodatnom nadzoru društva za osiguranje odnosno društva za reosiguranje u grupi osiguravatelja | [`pravilnik/2014/2924/`](pravilnik/2014/2924/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost, te kriterijima i mjerilima za ocjenjivanje zahtjeva za dodjeljivanje sredstava Fonda | [`pravilnik/2014/2928/`](pravilnik/2014/2928/) | amending act | 1 | 2015-01-06 | 2015-01-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku objavljivanja natječaja i o odlučivanju o odabiru korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost | [`pravilnik/2014/2929/`](pravilnik/2014/2929/) | amending act | 1 | 2015-01-06 | 2015-01-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja očevidnika nekretnina i pokretnina koje se prodaju u ovršnom postupku | [`pravilnik/2014/2945/`](pravilnik/2014/2945/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o načinu i rokovima obračunavanja i plaćanja posebne naknade za okoliš na vozila na motorni pogon | [`pravilnik/2014/2950/`](pravilnik/2014/2950/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru | [`pravilnik/2014/2955/`](pravilnik/2014/2955/) | amending act | 1 | 2015-01-07 | 2015-01-07 |
+| Pravilnik o izmjeni i dopunama Pravilnika o uvjetima i načinu oslobođenja od plaćanja trošarine na energente koji se koriste kao pogonsko gorivo za plovidbu | [`pravilnik/2014/2974/`](pravilnik/2014/2974/) | amending act | 1 | 2015-01-08 | 2015-01-08 |
+| Pravilnik o dopunama Pravilnika o trošarinama | [`pravilnik/2014/2975/`](pravilnik/2014/2975/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
 | Pravilnik o izmjenama Pravilnika o organoleptičkom (senzornom) ocjenjivanju vina i voćnih vina | [`pravilnik/2015/16/`](pravilnik/2015/16/) | in force | 1 | 2015-01-10 | 2015-01-10 |
 | Pravilnik o provedbi vlastite procjene rizika i solventnosti | [`pravilnik/2015/27/`](pravilnik/2015/27/) | in force | 1 | 2015-01-10 | 2015-01-10 |
 | Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru pridnevnom povlačnom mrežom - koćom | [`pravilnik/2015/42/`](pravilnik/2015/42/) | amending act | 1 | 2015-01-08 | 2015-01-08 |
@@ -9069,7 +9223,7 @@
 | Pravilnik o tržišnim standardima za meso peradi | [`pravilnik/2026/1477/`](pravilnik/2026/1477/) | in force | 1 | 2026-11-05 | 2026-11-05 |
 | Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda | [`pravilnik/2026/1480/`](pravilnik/2026/1480/) | amending act | 1 | 2026-11-05 | 2026-11-05 |
 
-## statut (70, of which 20 amending acts)
+## statut (71, of which 20 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9082,6 +9236,7 @@
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Statut Hrvatske agencije za obvezne zalihe nafte i naftnih derivata | [`statut/2014/1321/`](statut/2014/1321/) | in force | 1 | 2014-06-07 | 2014-06-07 |
 | Statut Akcije bjelovarsko-bilogorske | [`statut/2015/1159/`](statut/2015/1159/) | in force | 1 | 2015-05-27 | 2015-05-27 |
 | Statut Centra za regionalne aktivnosti Programa prioritetnih akcija - Priority Actions Programme Regional Activity Centre | [`statut/2015/2019/`](statut/2015/2019/) | in force | 1 | 2015-10-06 | 2015-10-06 |
 | Statut političke stranke U ime obitelji - projekt Domovina | [`statut/2015/2241/`](statut/2015/2241/) | in force | 1 | 2015-09-05 | 2015-09-05 |
@@ -9169,7 +9324,7 @@
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
 
-## uredba (775, of which 185 amending acts)
+## uredba (829, of which 211 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -9459,6 +9614,60 @@
 | Uredba o dopuni Zakona o otocima | [`uredba/1999/2276/`](uredba/1999/2276/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1999/2278/`](uredba/1999/2278/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjeni Carinskog zakona | [`uredba/1999/3000/`](uredba/1999/3000/) | in force | 1 | 1999-09-27 | 1999-09-27 |
+| Uredba o određivanju zona i aglomeracija prema razinama onečišćenosti zraka na teritoriju Republike Hrvatske | [`uredba/2014/24/`](uredba/2014/24/) | in force | 1 | 2014-01-11 | 2014-01-11 |
+| Uredba o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije | [`uredba/2014/25/`](uredba/2014/25/) | in force | 1 | 2014-01-11 | 2014-01-11 |
+| Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu stručnog ispita | [`uredba/2014/26/`](uredba/2014/26/) | amending act | 1 | 2014-01-11 | 2014-01-11 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2014. godinu | [`uredba/2014/109/`](uredba/2014/109/) | in force | 1 | 2014-01-28 | 2014-01-28 |
+| Uredba o računanju vremena u 2014. godini | [`uredba/2014/439/`](uredba/2014/439/) | in force | 1 | 2014-03-01 | 2014-03-01 |
+| Uredba o obveznom sadržaju Plana upravljanja imovinom u vlasništvu Republike Hrvatske | [`uredba/2014/440/`](uredba/2014/440/) | in force | 1 | 2014-02-22 | 2014-02-22 |
+| Uredba o uvjetima i vrednovanju kriterija za davanje koncesije i sklapanje ugovora o javnoj usluzi za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu | [`uredba/2014/537/`](uredba/2014/537/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+| Uredba o visini i načinu plaćanja naknade za koncesiju za distribuciju plina i koncesiju za izgradnju distribucijskog sustava | [`uredba/2014/539/`](uredba/2014/539/) | in force | 1 | 2014-04-01 | 2014-04-01 |
+| Uredba o izmjenama i dopunama Uredbe o načinu provedbe plaćanja doprinosa prema plaći, primicima uz plaću, odnosno mjesečnoj osnovici za obračun doprinosa temeljem radnog odnosa | [`uredba/2014/540/`](uredba/2014/540/) | amending act | 1 | 2014-03-15 | 2014-03-15 |
+| Uredba o izmjenama Uredbe o osnivanju Arheološkog muzeja Narona | [`uredba/2014/541/`](uredba/2014/541/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+| Uredba o prestanku važenja Uredbe o osnivanju Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`uredba/2014/542/`](uredba/2014/542/) | in force | 1 | 2014-03-15 | 2014-03-15 |
+| Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2014. godinu | [`uredba/2014/669/`](uredba/2014/669/) | in force | 1 | 2014-04-03 | 2014-04-03 |
+| Uredba o izmjeni Uredbe o računovodstvu neprofitnih organizacija | [`uredba/2014/815/`](uredba/2014/815/) | in force | 1 | 2014-04-08 | 2014-04-08 |
+| Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru | [`uredba/2014/1163/`](uredba/2014/1163/) | amending act | 1 | 2014-05-31 | 2014-05-31 |
+| Uredba o izmjenama i dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti | [`uredba/2014/1342/`](uredba/2014/1342/) | amending act | 1 | 2014-06-21 | 2014-06-21 |
+| Uredba o izmjeni Uredbe o naknadi za istraživanje i eksploataciju ugljikovodika | [`uredba/2014/1343/`](uredba/2014/1343/) | in force | 1 | 2014-07-01 | 2014-07-01 |
+| Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova | [`uredba/2014/1555/`](uredba/2014/1555/) | amending act | 1 | 2014-07-12 | 2014-07-12 |
+| Uredba o izmjenama Uredbe o osnivanju Agencije za zaštitu okoliša | [`uredba/2014/1664/`](uredba/2014/1664/) | in force | 1 | 2014-07-22 | 2014-07-22 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Vransko jezero" | [`uredba/2014/1694/`](uredba/2014/1694/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Kopački rit" | [`uredba/2014/1695/`](uredba/2014/1695/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Papuk" | [`uredba/2014/1696/`](uredba/2014/1696/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Učka" | [`uredba/2014/1697/`](uredba/2014/1697/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Medvednica" | [`uredba/2014/1698/`](uredba/2014/1698/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Lastovsko područje" | [`uredba/2014/1699/`](uredba/2014/1699/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Žumberak - Samoborsko gorje" | [`uredba/2014/1701/`](uredba/2014/1701/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o izmjenama i dopunama Uredbe o graničnim vrijednostima emisija onečišćujućih tvari u zrak iz nepokretnih izvora | [`uredba/2014/1813/`](uredba/2014/1813/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Državnog zavoda za zaštitu prirode | [`uredba/2014/1814/`](uredba/2014/1814/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Javne ustanove "Nacionalni park Sjeverni Velebit" | [`uredba/2014/1815/`](uredba/2014/1815/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Javne ustanove "Park prirode Velebit" | [`uredba/2014/1816/`](uredba/2014/1816/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Javne ustanove "Park prirode Lonjsko polje" | [`uredba/2014/1817/`](uredba/2014/1817/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja | [`uredba/2014/1887/`](uredba/2014/1887/) | amending act | 1 | 2014-08-08 | 2014-08-08 |
+| Uredba o izmjeni Tarife upravnih pristojbi Zakona o upravnim pristojbama | [`uredba/2014/1889/`](uredba/2014/1889/) | in force | 1 | 2014-08-01 | 2014-08-01 |
+| Uredba o izmjeni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2014. godinu | [`uredba/2014/1890/`](uredba/2014/1890/) | in force | 1 | 2014-08-08 | 2014-08-08 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2015. godinu | [`uredba/2014/1989/`](uredba/2014/1989/) | in force | 1 | 2014-08-30 | 2014-08-30 |
+| Uredba o prestanku važenja Uredbe o određivanju osoba ovlaštenih za pokretanje postupka radi zaštite kolektivnih interesa potrošača | [`uredba/2014/2022/`](uredba/2014/2022/) | in force | 1 | 2014-09-06 | 2014-09-06 |
+| Uredba o izmjenama i dopunama Uredbe o uvjetima davanja koncesije za gospodarsko korištenje voda | [`uredba/2014/2282/`](uredba/2014/2282/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o izmjeni Uredbe o sustavu brze razmjene službenih obavijesti o proizvodima koji predstavljaju rizik za zdravlje i sigurnost potrošača (RAPEX) | [`uredba/2014/2283/`](uredba/2014/2283/) | in force | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) | [`uredba/2014/2284/`](uredba/2014/2284/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o vojnom graditeljstvu | [`uredba/2014/2383/`](uredba/2014/2383/) | in force | 1 | 2014-11-04 | 2014-11-04 |
+| Uredba o izmjeni Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi | [`uredba/2014/2384/`](uredba/2014/2384/) | in force | 1 | 2014-11-04 | 2014-11-04 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državne uprave za zaštitu i spašavanje | [`uredba/2014/2385/`](uredba/2014/2385/) | in force | 1 | 2014-11-04 | 2014-11-04 |
+| Uredba o izmjeni Uredbe o načinu povrata kupoprodajne cijene bez kamata hrvatskim braniteljima i članovima obitelji smrtno stradalog, zatočenog ili nestalog i umrlog hrvatskog branitelja iz Domovinskog rata | [`uredba/2014/2594/`](uredba/2014/2594/) | in force | 1 | 2014-11-29 | 2014-11-29 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja | [`uredba/2014/2595/`](uredba/2014/2595/) | amending act | 1 | 2014-11-29 | 2014-11-29 |
+| Uredba o izmjeni Uredbe o osnivanju Javne ustanove "Memorijalni centar Domovinskog rata Vukovar" | [`uredba/2014/2644/`](uredba/2014/2644/) | in force | 1 | 2014-12-06 | 2014-12-06 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave | [`uredba/2014/2711/`](uredba/2014/2711/) | amending act | 1 | 2014-12-16 | 2014-12-16 |
+| Uredba o izmjeni Uredbe o javnoj nabavi za potrebe obrane i sigurnosti | [`uredba/2014/2712/`](uredba/2014/2712/) | in force | 1 | 2014-12-16 | 2014-12-16 |
+| Uredba o prestanku važenja Uredbe o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske | [`uredba/2014/2713/`](uredba/2014/2713/) | in force | 1 | 2014-12-16 | 2014-12-16 |
+| Uredba o dopuni Zakona o sanaciji javnih ustanova | [`uredba/2014/2824/`](uredba/2014/2824/) | amending act | 1 | 2014-12-20 | 2014-12-20 |
+| Uredba o izmjeni Zakona o zaštiti na radu | [`uredba/2014/2906/`](uredba/2014/2906/) | in force | 1 | 2014-12-25 | 2014-12-25 |
+| Uredba o izmjenama i dopuni Zakona o zdravstvenoj zaštiti | [`uredba/2014/2908/`](uredba/2014/2908/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o financijskoj strukturi omotnice za mjere iz Programa izravne potpore za 2014. godinu | [`uredba/2014/2910/`](uredba/2014/2910/) | in force | 1 | 2014-12-25 | 2014-12-25 |
+| Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave | [`uredba/2014/2912/`](uredba/2014/2912/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o načinu trgovanja emisijskim jedinicama stakleničkih plinova | [`uredba/2014/2913/`](uredba/2014/2913/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o izmjeni i dopuni Uredbe o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja | [`uredba/2014/2914/`](uredba/2014/2914/) | amending act | 1 | 2014-12-25 | 2014-12-25 |
 | Uredba o izmjenama Zakona o državnim službenicima | [`uredba/2015/1/`](uredba/2015/1/) | in force | 1 | 2015-01-10 | 2015-01-10 |
 | Uredba o izmjeni i dopuni Zakona o obvezama i pravima državnih dužnosnika | [`uredba/2015/58/`](uredba/2015/58/) | amending act | 1 | 2015-01-10 | 2015-01-10 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta | [`uredba/2015/137/`](uredba/2015/137/) | amending act | 1 | 2015-01-31 | 2015-01-31 |
@@ -9949,7 +10158,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (816, of which 484 amending acts)
+## zakon (866, of which 501 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10230,6 +10439,56 @@
 | Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja | [`zakon/2014/270/`](zakon/2014/270/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o provedbi uredbi Europske unije o zaštiti životinja | [`zakon/2014/271/`](zakon/2014/271/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o zajedničkoj organizaciji tržišta poljoprivrednih proizvoda i posebnim mjerama i pravilima vezanim za tržište poljoprivrednih proizvoda | [`zakon/2014/272/`](zakon/2014/272/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o zaštićenim oznakama izvornosti, zaštićenim oznakama zemljopisnog podrijetla i zajamčeno tradicionalnim specijalitetima poljoprivrednih i prehrambenih proizvoda | [`zakon/2014/273/`](zakon/2014/273/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o provedbi Uredbe Vijeća (EZ) br. 834/2007 o ekološkoj proizvodnji i označavanju ekoloških proizvoda | [`zakon/2014/274/`](zakon/2014/274/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o hrani | [`zakon/2014/275/`](zakon/2014/275/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o informiranju potrošača o hrani | [`zakon/2014/276/`](zakon/2014/276/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o posebnim uvjetima za stavljanje brašna na tržište | [`zakon/2014/277/`](zakon/2014/277/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o vinu | [`zakon/2014/278/`](zakon/2014/278/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o vodama | [`zakon/2014/279/`](zakon/2014/279/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o morskom ribarstvu | [`zakon/2014/280/`](zakon/2014/280/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o slatkovodnom ribarstvu | [`zakon/2014/281/`](zakon/2014/281/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o stočarstvu | [`zakon/2014/282/`](zakon/2014/282/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o lovstvu | [`zakon/2014/283/`](zakon/2014/283/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja | [`zakon/2014/284/`](zakon/2014/284/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o šumskom reprodukcijskom materijalu | [`zakon/2014/285/`](zakon/2014/285/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o gnojivima i poboljšivačima tla | [`zakon/2014/286/`](zakon/2014/286/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o posredovanju u prometu nekretnina | [`zakon/2014/289/`](zakon/2014/289/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o strateškim robnim zalihama | [`zakon/2014/292/`](zakon/2014/292/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o biogorivima za prijevoz | [`zakon/2014/293/`](zakon/2014/293/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjenama Zakona o energiji | [`zakon/2014/296/`](zakon/2014/296/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o tržištu toplinske energije | [`zakon/2014/297/`](zakon/2014/297/) | in force | 1 | 2014-02-06 | 2014-02-06 |
+| Zakon o izmjeni Zakona o učinkovitom korištenju energije u neposrednoj potrošnji | [`zakon/2014/298/`](zakon/2014/298/) | in force | 1 | 2014-02-13 | 2014-02-13 |
+| Zakon o izmjenama i dopunama Zakona o žičarama za prijevoz osoba | [`zakon/2014/401/`](zakon/2014/401/) | amending act | 1 | 2014-02-27 | 2014-02-27 |
+| Zakon o izmjeni Zakona o elektroničkom potpisu | [`zakon/2014/510/`](zakon/2014/510/) | in force | 1 | 2014-03-06 | 2014-03-06 |
+| Zakon o izmjenama Zakona o boravišnoj pristojbi | [`zakon/2014/513/`](zakon/2014/513/) | in force | 1 | 2014-03-06 | 2014-03-06 |
+| Zakon o izmjenama i dopuni Zakona o međunarodnim mjerama ograničavanja | [`zakon/2014/730/`](zakon/2014/730/) | amending act | 1 | 2014-04-08 | 2014-04-08 |
+| Zakon o izmjenama i dopuni Zakona o potpori poljoprivredi i ruralnom razvoju | [`zakon/2014/731/`](zakon/2014/731/) | amending act | 1 | 2014-04-01 | 2014-04-01 |
+| Zakon o izmjenama Zakona o transparentnosti tokova javnih sredstava | [`zakon/2014/876/`](zakon/2014/876/) | in force | 1 | 2014-04-24 | 2014-04-24 |
+| Zakon o izmjeni Zakona o genetski modificiranim organizmima | [`zakon/2014/877/`](zakon/2014/877/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| Zakon o izmjeni Zakona o provedbi Uredbe (EZ) br. 1829/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o genetski modificiranoj hrani i hrani za životinje i Uredbe (EZ) br.1830/2003 Europskoga parlamenta i Vijeća od 22. rujna 2003. godine o sljedivosti i označavanju genetski modificiranih organizama i sljedivosti hrane i hrane za životinje proizvedenih od genetski modificiranih organizama kojom se izmjenjuje i dopunjuje Direktiva 2001/18/EZ | [`zakon/2014/878/`](zakon/2014/878/) | amending act | 1 | 2014-04-17 | 2014-04-17 |
+| Zakon o izmjeni Zakona o provedbi Uredbe (EZ) br. 258/97 Europskoga parlamenta i Vijeća od 27. siječnja 1997. godine o novoj hrani i sastojcima nove hrane | [`zakon/2014/879/`](zakon/2014/879/) | in force | 1 | 2014-04-17 | 2014-04-17 |
+| Zakon o izmjenama i dopunama Zakona o hidrografskoj djelatnosti | [`zakon/2014/1337/`](zakon/2014/1337/) | amending act | 1 | 2014-06-19 | 2014-06-19 |
+| Zakon o izmjenama i dopunama Zakona o zadrugama | [`zakon/2014/1415/`](zakon/2014/1415/) | amending act | 1 | 2014-07-02 | 2014-07-02 |
+| Zakon o izmjenama i dopunama Zakona o zračnom prometu | [`zakon/2014/1841/`](zakon/2014/1841/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2014/1844/`](zakon/2014/1844/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o izmjenama i dopunama Zakona o provedbi Uredbi Europske unije o zaštiti životinja | [`zakon/2014/1846/`](zakon/2014/1846/) | amending act | 1 | 2014-08-05 | 2014-08-05 |
+| Zakon o izmjenama i dopuni Zakona o Gradu Zagrebu | [`zakon/2014/2235/`](zakon/2014/2235/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2014. godinu | [`zakon/2014/2671/`](zakon/2014/2671/) | amending act | 1 | 2014-12-02 | 2014-12-02 |
+| Zakon o izmjeni Zakona o igrama na sreću | [`zakon/2014/2684/`](zakon/2014/2684/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina | [`zakon/2014/2685/`](zakon/2014/2685/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Zakon o izmjenama Zakona o brdsko-planinskim područjima | [`zakon/2014/2752/`](zakon/2014/2752/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi | [`zakon/2014/2753/`](zakon/2014/2753/) | amending act | 1 | 2014-12-20 | 2014-12-20 |
+| Zakon o izmjenama i dopuni Zakona o komunalnom gospodarstvu | [`zakon/2014/2755/`](zakon/2014/2755/) | amending act | 1 | 2014-12-20 | 2014-12-20 |
+| Zakon o izmjenama Zakona o plaćama sudaca i drugih pravosudnih dužnosnik | [`zakon/2014/2756/`](zakon/2014/2756/) | in force | 1 | 2014-12-15 | 2014-12-15 |
+| Zakon o izmjenama i dopunama Zakona o strateškim investicijskim projektima Republike Hrvatske | [`zakon/2014/2860/`](zakon/2014/2860/) | amending act | 1 | 2014-12-30 | 2014-12-30 |
+| Zakon o izmjenama i dopuni Zakona o osnivanju Agencije za investicije i konkurentnost | [`zakon/2014/2861/`](zakon/2014/2861/) | amending act | 1 | 2014-12-30 | 2014-12-30 |
+| Zakon o izmjenama i dopunama Zakona o javno-privatnom partnerstvu | [`zakon/2014/2862/`](zakon/2014/2862/) | amending act | 1 | 2014-12-30 | 2014-12-30 |
+| Zakon o izmjeni Zakona o ugostiteljskoj djelatnosti | [`zakon/2014/2868/`](zakon/2014/2868/) | in force | 1 | 2014-12-30 | 2014-12-30 |
+| Zakon o izmjeni Zakona o pružanju usluga u turizmu | [`zakon/2014/2869/`](zakon/2014/2869/) | in force | 1 | 2014-12-30 | 2014-12-30 |
 | Zakon o izmjenama i dopunama Zakona o proračunu | [`zakon/2015/277/`](zakon/2015/277/) | amending act | 1 | 2015-02-14 | 2015-02-14 |
 | Zakon o izmjenama i dopuni Zakona o područjima posebne državne skrbi | [`zakon/2015/356/`](zakon/2015/356/) | amending act | 1 | 2015-02-26 | 2015-02-26 |
 | Zakon o dopuni Zakona o reprezentativnosti udruga poslodavaca i sindikata | [`zakon/2015/542/`](zakon/2015/542/) | amending act | 1 | 2015-03-17 | 2015-03-17 |
