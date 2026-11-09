@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8539 acts, 8,685 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+8839 acts, 9,019 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (48, of which 12 amending acts)
 
@@ -5268,7 +5268,7 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 
-## pravilnik (2050, of which 672 amending acts)
+## pravilnik (2239, of which 717 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -5707,10 +5707,20 @@
 | Pravilnik o dopuni Pravilnika o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom | [`pravilnik/2018/718/`](pravilnik/2018/718/) | amending act | 1 | 2018-04-21 | 2018-04-21 |
 | Pravilnik o stjecanju statusa specijalista iz uže specijalizacije | [`pravilnik/2018/732/`](pravilnik/2018/732/) | in force | 1 | 2018-05-03 | 2018-05-03 |
 | Pravilnik o izmjenama Pravilnika o dodacima na plaću djelatnih vojnih osoba | [`pravilnik/2018/749/`](pravilnik/2018/749/) | in force | 1 | 2018-05-01 | 2018-05-01 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za svibanj 2018. godine | [`pravilnik/2018/774/`](pravilnik/2018/774/) | in force | 1 | 2018-05-03 | 2018-05-03 |
+| Pravilnik o izmjenama Pravilnika o stručnom usavršavanju u Pravosudnoj akademiji | [`pravilnik/2018/798/`](pravilnik/2018/798/) | in force | 1 | 2018-05-12 | 2018-05-12 |
+| Pravilnik o prostornim, tehničkim i sigurnosnim zahtjevima koje moraju zadovoljiti prodavaonice oružja i streljiva te prodavaonice pirotehničkih sredstava | [`pravilnik/2018/810/`](pravilnik/2018/810/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Pravilnik o obrazovanju potrebnom za rukovanje izvorima ionizirajućeg zračenja, primjenu mjera radiološke sigurnosti i upravljanje tehničkim procesima u nuklearnim postrojenjima | [`pravilnik/2018/814/`](pravilnik/2018/814/) | in force | 1 | 2018-05-17 | 2018-05-17 |
+| Pravilnik o sufinanciranju projekata odobrenih u okviru programa Europske unije Kreativna Europa - potprogram Kultura | [`pravilnik/2018/852/`](pravilnik/2018/852/) | repealed 2021-12-25 | 2 | 2018-05-24 | 2021-12-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vozačkim dozvolama | [`pravilnik/2018/879/`](pravilnik/2018/879/) | amending act | 1 | 2018-05-26 | 2018-05-26 |
+| Pravilnik o provedbi mjere 8, podmjere 8.6 Potpora za ulaganja u šumarske tehnologije i preradu, mobilizaciju i marketing šumskih proizvoda iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2018/882/`](pravilnik/2018/882/) | in force | 1 | 2018-05-26 | 2018-05-26 |
+| Pravilnik o izmjeni Pravilnika o postupku za ostvarivanje prava na sredstva iz naknade za korištenje općekorisnih funkcija šuma za izvršene radove u šumama | [`pravilnik/2018/883/`](pravilnik/2018/883/) | in force | 1 | 2018-05-26 | 2018-05-26 |
 | Pravilnik o informatičkom sustavu i jedinstvenom programskom rješenju za obradu podataka o tehničkim pregledima i registraciji vozila u stanicama za tehnički pregled vozila | [`pravilnik/2018/888/`](pravilnik/2018/888/) | in force | 1 | 2018-05-26 | 2018-05-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika o uvjetima koje mora ispunjavati stanica za tehnički pregled vozila | [`pravilnik/2018/890/`](pravilnik/2018/890/) | amending act | 1 | 2018-05-26 | 2018-05-26 |
 | Pravilnik o izmjenama i dopunama Pravilnika o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehnički pregled vozila | [`pravilnik/2018/891/`](pravilnik/2018/891/) | amending act | 1 | 2018-05-26 | 2018-05-26 |
 | Pravilnik o izmjeni i dopuni Pravilnika o uvjetima za izdavanje odobrenja za rad i odobrenja za stjecanje kvalificiranog udjela | [`pravilnik/2018/929/`](pravilnik/2018/929/) | amending act | 1 | 2018-06-02 | 2018-06-02 |
+| Pravilnik o osiguranju carinskog duga | [`pravilnik/2018/968/`](pravilnik/2018/968/) | in force | 1 | 2018-06-07 | 2018-06-07 |
+| Pravilnik o izmjeni i dopunama Pravilnika o ribolovnim mogućnostima i kriterijima raspodjele državne kvote i trajne individualne kvote u 2018. godini za ribolov plavoperajne tune (Thunnus thynnus) | [`pravilnik/2018/972/`](pravilnik/2018/972/) | amending act | 1 | 2018-05-31 | 2018-05-31 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izdavanju odobrenja za rad i stjecanju kvalificiranog udjela mirovinskog društva za upravljanje dobrovoljnim mirovinskim fondovima | [`pravilnik/2018/1016/`](pravilnik/2018/1016/) | amending act | 1 | 2018-06-12 | 2018-06-12 |
 | Pravilnik o postupku prijenosa kapitaliziranih sredstava doprinosa za mirovinsko osiguranje na temelju individualne kapitalizirane štednje | [`pravilnik/2018/1058/`](pravilnik/2018/1058/) | in force | 1 | 2018-06-16 | 2018-06-16 |
 | Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 5, tipa operacije 5.2.1. Obnova poljoprivrednog zemljišta i proizvodnog potencijala iz Programa ruralnog razvoja Republike Hrvatske za razdoblje 2014. - 2020. | [`pravilnik/2018/1059/`](pravilnik/2018/1059/) | amending act | 1 | 2018-06-09 | 2018-06-09 |
@@ -5818,7 +5828,186 @@
 | Pravilnik o Evidenciji hrvatskih branitelja iz Domovinskog rata | [`pravilnik/2018/2390/`](pravilnik/2018/2390/) | repealed 2021-12-04 | 2 | 2019-01-05 | 2021-12-04 |
 | Pravilnik o minimalnim tehničkim uvjetima za početak rada veteranskih centara | [`pravilnik/2018/2391/`](pravilnik/2018/2391/) | in force | 1 | 2019-01-05 | 2019-01-05 |
 | Pravilnik o izmjenama i dopuni Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti | [`pravilnik/2018/2394/`](pravilnik/2018/2394/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Pravilnik o minimalnim tehničkim uvjetima koje moraju ispunjavati sredstva videoelektroničke identifikacije | [`pravilnik/2019/5/`](pravilnik/2019/5/) | repealed 2024-02-01 | 2 | 2019-01-03 | 2024-02-01 |
+| Pravilnik o načinu i rokovima dostavljanja podataka Uredu za sprječavanje pranja novca o kaznenom djelu pranja novca, povezanim predikatnim kaznenim djelima ili kaznenom djelu financiranja terorizma | [`pravilnik/2019/10/`](pravilnik/2019/10/) | in force | 1 | 2019-01-03 | 2019-01-03 |
+| Pravilnik o načinu i rokovima dostavljanja podataka Uredu za sprječavanje pranja novca o kaznenim i drugim prijavama za kaznena djela pranje novca ili financiranja terorizma | [`pravilnik/2019/11/`](pravilnik/2019/11/) | in force | 1 | 2019-01-03 | 2019-01-03 |
+| Pravilnik o Registru nesolventnosti | [`pravilnik/2019/20/`](pravilnik/2019/20/) | in force | 1 | 2019-01-10 | 2019-01-10 |
+| Pravilnik o pretpostavkama i načinu izbora povjerenika metodom slučajnoga odabira | [`pravilnik/2019/21/`](pravilnik/2019/21/) | in force | 1 | 2019-01-10 | 2019-01-10 |
+| Pravilnik o dopuni Pravilnika o sadržaju i obliku obrazaca na kojima se podnose podnesci u izvansudskom postupku i postupku stečaja potrošača | [`pravilnik/2019/22/`](pravilnik/2019/22/) | amending act | 1 | 2019-01-10 | 2019-01-10 |
+| Pravilnik o izmjenama i dopuni Pravilnika o polaganju stručnog ispita, obuci i usavršavanju povjerenika | [`pravilnik/2019/23/`](pravilnik/2019/23/) | amending act | 1 | 2019-01-10 | 2019-01-10 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju lista povjerenika u postupku stečaja potrošača | [`pravilnik/2019/24/`](pravilnik/2019/24/) | amending act | 1 | 2019-01-10 | 2019-01-10 |
+| Pravilnik o izmjeni Pravilnika o uvjetima i načinu obavljanja poslova nadzora nepropisno zaustavljenih ili parkiranih vozila te uvjetima za obavljanje poslova premještanja nepropisno zaustavljenih ili parkiranih vozila | [`pravilnik/2019/40/`](pravilnik/2019/40/) | in force | 1 | 2019-01-12 | 2019-01-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju sukladnosti traktora za poljoprivredu i šumarstvo | [`pravilnik/2019/42/`](pravilnik/2019/42/) | amending act | 1 | 2019-01-12 | 2019-01-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju sukladnosti vozila na dva ili tri kotača i četverocikala | [`pravilnik/2019/43/`](pravilnik/2019/43/) | amending act | 1 | 2019-01-12 | 2019-01-12 |
+| Pravilnik o izmjenama i dopuni Pravilnika o dragovoljnom vojnom osposobljavanju | [`pravilnik/2019/61/`](pravilnik/2019/61/) | amending act | 1 | 2019-01-10 | 2019-01-10 |
+| Pravilnik o ispunjavanju uvjeta za obavljanje djelatnosti posredovanja u obavljanju studentskih poslova | [`pravilnik/2019/63/`](pravilnik/2019/63/) | in force | 1 | 2019-01-17 | 2019-01-17 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za siječanj/veljaču 2019. godine | [`pravilnik/2019/90/`](pravilnik/2019/90/) | in force | 1 | 2019-01-17 | 2019-01-17 |
+| Pravilnik o uvjetima i postupku za stjecanje prava na korištenje kopnenih voda radi obavljanja djelatnosti akvakulture | [`pravilnik/2019/172/`](pravilnik/2019/172/) | in force | 1 | 2019-01-24 | 2019-01-24 |
+| Pravilnik o izmjenama Pravilnika o načinu podnošenja prijave investicijskog projekta | [`pravilnik/2019/175/`](pravilnik/2019/175/) | in force | 1 | 2019-01-31 | 2019-01-31 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima kojima moraju udovoljavati veterinarske organizacije, veterinarska praksa i veterinarska služba u sustavu provedbe veterinarske djelatnosti | [`pravilnik/2019/195/`](pravilnik/2019/195/) | amending act | 1 | 2019-02-02 | 2019-02-02 |
+| Pravilnik o udžbeničkom standardu te članovima stručnih povjerenstava za procjenu udžbenika i drugih obrazovnih materijala | [`pravilnik/2019/196/`](pravilnik/2019/196/) | in force | 1 | 2019-01-26 | 2019-01-26 |
+| Pravilnik o djelomičnoj jednokratnoj isplati korisniku starosne i prijevremene starosne osnovne mirovine | [`pravilnik/2019/199/`](pravilnik/2019/199/) | repealed 2024-10-27 | 2 | 2019-02-02 | 2024-10-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o Stalnom arbitražnom sudištu pri Hrvatskoj gospodarskoj komori | [`pravilnik/2019/234/`](pravilnik/2019/234/) | amending act | 1 | 2019-02-07 | 2019-02-07 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.3. »Partnerstva između znanstvenika i ribara« | [`pravilnik/2019/253/`](pravilnik/2019/253/) | in force | 1 | 2019-02-07 | 2019-02-07 |
+| Pravilnik o izmjenama Pravilnika o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija | [`pravilnik/2019/257/`](pravilnik/2019/257/) | in force | 1 | 2019-02-14 | 2019-02-14 |
+| Pravilnik o izmjenama Pravilnika o provedbi postupka akreditacije regionalnih koordinatora | [`pravilnik/2019/258/`](pravilnik/2019/258/) | in force | 1 | 2019-02-14 | 2019-02-14 |
+| Pravilnik o načinu utvrđivanja obujma i površine građevina u svrhu obračuna komunalnog doprinosa | [`pravilnik/2019/304/`](pravilnik/2019/304/) | in force | 1 | 2019-02-21 | 2019-02-21 |
+| Pravilnik o odobrenju za obavljanje djelatnosti akvakulture na obiteljskom poljoprivrednom gospodarstvu | [`pravilnik/2019/305/`](pravilnik/2019/305/) | in force | 1 | 2019-02-21 | 2019-02-21 |
+| Pravilnik o mjerilima i načinu korištenja prihoda za posebne namjene i vlastitih prihoda Ministarstva financija, Carinske uprave | [`pravilnik/2019/336/`](pravilnik/2019/336/) | in force | 1 | 2019-02-23 | 2019-02-23 |
+| Pravilnik o Upisniku javnih i privatnih muzeja u Republici Hrvatskoj | [`pravilnik/2019/337/`](pravilnik/2019/337/) | in force | 1 | 2019-02-23 | 2019-02-23 |
+| Pravilnik o načinu i mjerilima za povezivanje u Sustav muzeja Republike Hrvatske | [`pravilnik/2019/338/`](pravilnik/2019/338/) | in force | 1 | 2019-02-23 | 2019-02-23 |
+| Pravilnik o lovočuvarskoj službi | [`pravilnik/2019/341/`](pravilnik/2019/341/) | in force | 1 | 2019-02-23 | 2019-02-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2019. godinu | [`pravilnik/2019/396/`](pravilnik/2019/396/) | amending act | 1 | 2019-03-02 | 2019-03-02 |
+| Pravilnik o izmjeni Pravilnika o teorijskom i praktičnom stručnom obrazovanju vježbenika u pravosudnim tijelima | [`pravilnik/2019/416/`](pravilnik/2019/416/) | in force | 1 | 2019-03-07 | 2019-03-07 |
+| Pravilnik o metodologiji izrade stručne dokumentacije radi utvrđivanja staža osiguranja s povećanim trajanjem | [`pravilnik/2019/417/`](pravilnik/2019/417/) | in force | 1 | 2019-03-07 | 2019-03-07 |
+| Pravilnik o cjeniku divljači | [`pravilnik/2019/419/`](pravilnik/2019/419/) | in force | 1 | 2019-03-07 | 2019-03-07 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele državne potpore u okviru programa potpore »Zaštita i obnova morske bioraznolikosti i morskih ekosustava i režimi naknade u okviru održivih ribolovnih aktivnosti« - kompenzacija za štete na ulovima koju uzrokuju sisavci | [`pravilnik/2019/421/`](pravilnik/2019/421/) | in force | 1 | 2019-02-28 | 2019-02-28 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele državne potpore male vrijednosti u ribarstvu | [`pravilnik/2019/422/`](pravilnik/2019/422/) | in force | 1 | 2019-02-28 | 2019-02-28 |
+| Pravilnik o dopunama Pravilnika o obavljanju gospodarskog ribolova na moru pridnenom povlačnom mrežom - koćom | [`pravilnik/2019/423/`](pravilnik/2019/423/) | amending act | 1 | 2019-02-28 | 2019-02-28 |
+| Pravilnik o dopunama Pravilnika o obavljanju gospodarskog ribolova na moru okružujućom mrežom plivaricom - srdelarom | [`pravilnik/2019/424/`](pravilnik/2019/424/) | amending act | 1 | 2019-02-28 | 2019-02-28 |
+| Pravilnik o izdavanju odobrenja za rad UAIF-a i dokumentaciji koja se dostavlja uz obavijest o stjecanju kvalificiranog udjela u UAIF-u | [`pravilnik/2019/430/`](pravilnik/2019/430/) | repealed 2020-12-17 | 2 | 2019-03-07 | 2020-12-17 |
+| Pravilnik o izmjeni i dopunama Pravilnika o mjerama prilagodbe zahtjevima propisa o hrani životinjskog podrijetla | [`pravilnik/2019/441/`](pravilnik/2019/441/) | amending act | 1 | 2019-03-09 | 2019-03-09 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele državne potpore za štete od raznih vrsta ptica i ostalih životinja na šaranskim ribnjacima u 2019. godini | [`pravilnik/2019/451/`](pravilnik/2019/451/) | in force | 1 | 2019-03-07 | 2019-03-07 |
+| Pravilnik o načinu vođenja evidencije o promjeni namjene poljoprivrednog zemljišta | [`pravilnik/2019/453/`](pravilnik/2019/453/) | in force | 1 | 2019-03-14 | 2019-03-14 |
+| Pravilnik o izmjenama Pravilnika o stručnom osposobljavanju za obavljanje djelatnosti akvakulture | [`pravilnik/2019/454/`](pravilnik/2019/454/) | in force | 1 | 2019-03-07 | 2019-03-07 |
+| Pravilnik o izmjeni i dopuni Pravilnika o utvrđivanju proračunskih i izvanproračunskih korisnika državnog proračuna i proračunskih i izvanproračunskih korisnika proračuna jedinica lokalne i područne (regionalne) samouprave te o načinu vođenja Registra proračunskih i izvanproračunskih korisnika | [`pravilnik/2019/468/`](pravilnik/2019/468/) | amending act | 1 | 2019-03-16 | 2019-03-16 |
+| Pravilnik o informacijskom sustavu u sportu | [`pravilnik/2019/497/`](pravilnik/2019/497/) | repealed 2023-11-25 | 2 | 2019-03-21 | 2023-11-25 |
+| Pravilnik o vrsti i visini naknada Hrvatske agencije za nadzor financijskih usluga | [`pravilnik/2019/538/`](pravilnik/2019/538/) | repealed 2026-01-01 | 2 | 2019-03-23 | 2026-01-01 |
+| Pravilnik o načinu provedbe zaštitnih mjera zabrane približavanja, uznemiravanja ili uhođenja žrtve nasilja u obitelji te mjere udaljenja iz zajedničkog kućanstva | [`pravilnik/2019/577/`](pravilnik/2019/577/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o aktivnom traženju posla i raspoloživosti za rad | [`pravilnik/2019/586/`](pravilnik/2019/586/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o odgovarajućem smještaju | [`pravilnik/2019/587/`](pravilnik/2019/587/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o uvjetima i načinu isplate novčane naknade u jednokratnom iznosu | [`pravilnik/2019/589/`](pravilnik/2019/589/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troškova | [`pravilnik/2019/590/`](pravilnik/2019/590/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o obavljanju djelatnosti u svezi sa zapošljavanjem | [`pravilnik/2019/591/`](pravilnik/2019/591/) | repealed 2025-07-26 | 2 | 2019-03-30 | 2025-07-26 |
+| Pravilnik o izmjenama Pravilnika o provedbi Uredbe (EU) br. 376/2014 Europskog parlamenta i Vijeća o izvješćivanju, analizi i naknadnom postupanju u vezi s događajima u civilnom zrakoplovstvu | [`pravilnik/2019/594/`](pravilnik/2019/594/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o stavljanju izvan snage Pravilnika o usklađivanju tehničkih propisa i upravnih postupaka u području civilnog zrakoplovstva | [`pravilnik/2019/595/`](pravilnik/2019/595/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o uvjetima koje moraju ispunjavati ovlašteni laboratoriji za potrebe inspekcijskih nadzora i službenih kontrola i referentni laboratoriji za ispitivanje predmeta opće uporabe | [`pravilnik/2019/596/`](pravilnik/2019/596/) | in force | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o strukturi i sadržaju financijskog i statističkog izvješća društava za zastupanje u osiguranju, odnosno društava za posredovanje u osiguranju i reosiguranju | [`pravilnik/2019/599/`](pravilnik/2019/599/) | amending act | 1 | 2019-03-30 | 2019-03-30 |
+| Pravilnik o izmjeni Pravilnika o organiziranju, financiranju i donošenju programa festivala Dubrovačke ljetne igre | [`pravilnik/2019/620/`](pravilnik/2019/620/) | in force | 1 | 2019-04-04 | 2019-04-04 |
+| Pravilnik o zdravstvenoj sposobnosti zrakoplovnog osoblja na koje se ne primjenjuje Uredba (EU) 2018/1139 Europskog parlamenta i Vijeća | [`pravilnik/2019/625/`](pravilnik/2019/625/) | in force | 1 | 2019-04-04 | 2019-04-04 |
+| Pravilnik o pravilima izdavanja certifikata o sukladnosti s propisima o hrani | [`pravilnik/2019/626/`](pravilnik/2019/626/) | in force | 1 | 2019-04-04 | 2019-04-04 |
+| Pravilnik o postupku izbora i načinu rada udruga registriranih za obavljanje djelatnosti iz područja zaštite ljudskih prava i neovisnih stručnjaka u Nacionalnom preventivnom mehanizmu za sprečavanje mučenja i drugih okrutnih, neljudskih ili ponižavajućih postupaka ili kažnjavanja | [`pravilnik/2019/628/`](pravilnik/2019/628/) | in force | 1 | 2019-04-04 | 2019-04-04 |
+| Pravilnik o tehničkim elementima, izdavanju i razmjeni elektroničkog računa i pratećih isprava u javnoj nabavi | [`pravilnik/2019/676/`](pravilnik/2019/676/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Pravilnik o vrsti i visini naknada za usluge zaprimanja i slanja elektroničkih računa za javne naručitelje u javnoj nabavi | [`pravilnik/2019/677/`](pravilnik/2019/677/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Pravilnik o povlasticama za obavljanje gospodarskog ribolova na moru u državnom vlasništvu | [`pravilnik/2019/717/`](pravilnik/2019/717/) | in force | 1 | 2019-04-05 | 2019-04-05 |
+| Pravilnik o rasporedu člana obveznog mirovinskog fonda u mirovinsko osiguravajuće društvo | [`pravilnik/2019/741/`](pravilnik/2019/741/) | in force | 1 | 2019-04-13 | 2019-04-13 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere »Ribarske luke, iskrcajna mjesta, burze riba i zakloništa« | [`pravilnik/2019/788/`](pravilnik/2019/788/) | in force | 1 | 2019-04-13 | 2019-04-13 |
+| Pravilnik o izmjeni Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i Registru povlastica | [`pravilnik/2019/789/`](pravilnik/2019/789/) | in force | 1 | 2019-04-13 | 2019-04-13 |
+| Pravilnik o visini naknada troškova za obavljanje usluga Hrvatske agencije za poljoprivredu i hranu | [`pravilnik/2019/795/`](pravilnik/2019/795/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu uzimanja krvi i urina od okrivljenika i drugih osoba te o uvjetima koje ovlaštene ustanove i tijela moraju ispunjavati da bi mogle obavljati poslove analize krvi i urina | [`pravilnik/2019/843/`](pravilnik/2019/843/) | amending act | 1 | 2019-05-02 | 2019-05-02 |
+| Pravilnik o sustavu obveze energetske učinkovitosti | [`pravilnik/2019/847/`](pravilnik/2019/847/) | repealed 2021-04-24 | 2 | 2019-05-02 | 2021-04-24 |
+| Pravilnik o prehrani pripadnika Oružanih snaga Republike Hrvatske | [`pravilnik/2019/858/`](pravilnik/2019/858/) | in force | 1 | 2019-05-01 | 2019-05-01 |
+| Pravilnik o dopuni Pravilnika o primjeni Konvencije o radu pomoraca iz 2006. godine | [`pravilnik/2019/867/`](pravilnik/2019/867/) | amending act | 1 | 2019-05-04 | 2019-05-04 |
+| Pravilnik o dopuni Pravilnika o dodacima na plaću djelatnih vojnih osoba | [`pravilnik/2019/883/`](pravilnik/2019/883/) | amending act | 1 | 2019-05-01 | 2019-05-01 |
+| Pravilnik o izmjeni Pravilnika o organiziranju, financiranju i donošenju programa Međunarodne smotre folklora Zagreb | [`pravilnik/2019/898/`](pravilnik/2019/898/) | in force | 1 | 2019-05-11 | 2019-05-11 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« okružujućim mrežama plivaricama - srdelarama za svibanj 2019. godine | [`pravilnik/2019/900/`](pravilnik/2019/900/) | in force | 1 | 2019-05-04 | 2019-05-04 |
+| Pravilnik o stambenim uvjetima za obavljanje udomiteljstva | [`pravilnik/2019/904/`](pravilnik/2019/904/) | in force | 1 | 2019-05-16 | 2019-05-16 |
+| Pravilnik o dodjeli nagrade udomiteljima | [`pravilnik/2019/905/`](pravilnik/2019/905/) | in force | 1 | 2019-05-16 | 2019-05-16 |
+| Pravilnik o načinu i postupku obiteljske procjene za obavljanje udomiteljstva | [`pravilnik/2019/906/`](pravilnik/2019/906/) | in force | 1 | 2019-05-16 | 2019-05-16 |
+| Pravilnik o sadržaju, obliku i načinu vođenja evidencije postupanja ribarskih inspektora i ovlaštenih osoba | [`pravilnik/2019/909/`](pravilnik/2019/909/) | repealed 2024-04-18 | 2 | 2019-05-16 | 2024-04-18 |
+| Pravilnik o spasilačko-vatrogasnoj zaštiti na aerodromu | [`pravilnik/2019/912/`](pravilnik/2019/912/) | in force | 1 | 2019-05-16 | 2019-05-16 |
+| Pravilnik o izmjenama Pravilnika o stručnom nadzoru uzgoja drvenastih kultura kratkih ophodnji | [`pravilnik/2019/977/`](pravilnik/2019/977/) | in force | 1 | 2019-05-25 | 2019-05-25 |
+| Pravilnik o provedbi Uredbe (EU) 2018/1139 o zajedničkim pravilima u području civilnog zrakoplovstva i osnivanju Agencije Europske unije za sigurnost zračnog prometa | [`pravilnik/2019/979/`](pravilnik/2019/979/) | in force | 1 | 2019-05-25 | 2019-05-25 |
+| Pravilnik o izmjenama Pravilnika o tehničkom održavanju vodnih putova | [`pravilnik/2019/980/`](pravilnik/2019/980/) | in force | 1 | 2019-05-25 | 2019-05-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obliku i sadržaju financijskih i dodatnih izvještaja društva za osiguranje odnosno društva za reosiguranje | [`pravilnik/2019/982/`](pravilnik/2019/982/) | amending act | 1 | 2019-05-25 | 2019-05-25 |
+| Pravilnik o izmjenama Pravilnika o stanovanju | [`pravilnik/2019/1030/`](pravilnik/2019/1030/) | in force | 1 | 2019-06-01 | 2019-06-01 |
+| Pravilnik o načinu korištenja vlastitih prihoda ostvarenih od obavljanja osnovne i ostale djelatnosti ustanova u kulturi | [`pravilnik/2019/1033/`](pravilnik/2019/1033/) | repealed 2026-03-27 | 2 | 2019-06-06 | 2026-03-27 |
+| Pravilnik o načinu motrenja oštećenosti šumskih ekosustava | [`pravilnik/2019/1036/`](pravilnik/2019/1036/) | in force | 1 | 2019-06-06 | 2019-06-06 |
+| Pravilnik o dodjeli stipendije za učenje hrvatskoga jezika u Republici Hrvatskoj i za internetsko učenje hrvatskoga jezika | [`pravilnik/2019/1040/`](pravilnik/2019/1040/) | in force | 1 | 2019-05-30 | 2019-05-30 |
+| Pravilnik o izmjenama i dopuni Pravilnika o načinu i uvjetima sklapanja ugovora o kadetskoj službi i ugovora o stipendiranju | [`pravilnik/2019/1050/`](pravilnik/2019/1050/) | amending act | 1 | 2019-06-01 | 2019-06-01 |
+| Pravilnik o dopuni Pravilnika o ribolovnim mogućnostima i raspodjeli državne kvote u 2019. godini za ribolov plavoperajne tune (Thunnus thynnus) | [`pravilnik/2019/1065/`](pravilnik/2019/1065/) | amending act | 1 | 2019-06-06 | 2019-06-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o gospodarenju medicinskim otpadom | [`pravilnik/2019/1066/`](pravilnik/2019/1066/) | amending act | 1 | 2019-06-13 | 2019-06-13 |
+| Pravilnik o izmjeni Pravilnika o boravku u prihvatnom centru za strance | [`pravilnik/2019/1080/`](pravilnik/2019/1080/) | in force | 1 | 2019-06-15 | 2019-06-15 |
+| Pravilnik o provedbi programa potpore za proizvođače mandarina za 2019. godinu | [`pravilnik/2019/1081/`](pravilnik/2019/1081/) | in force | 1 | 2019-06-08 | 2019-06-08 |
+| Pravilnik o izvanaerodromskom slijetanju i uzlijetanju helikoptera | [`pravilnik/2019/1082/`](pravilnik/2019/1082/) | in force | 1 | 2019-06-15 | 2019-06-15 |
+| Pravilnik o stručnom osposobljavanju za polaganje revizorskog ispita, revizorskom i posebnom ispitu te ispitu osposobljenosti | [`pravilnik/2019/1139/`](pravilnik/2019/1139/) | repealed 2024-12-01 | 2 | 2019-06-15 | 2024-12-01 |
+| Pravilnik o izmjeni Pravilnika o pomoćnicima u nastavi i stručnim komunikacijskim posrednicima | [`pravilnik/2019/1140/`](pravilnik/2019/1140/) | in force | 1 | 2019-06-15 | 2019-06-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu upotrebe ovjesne jedrilice, parajedrilice, padobrana s pogonom i jedrilice prazne mase do 80/100 kg | [`pravilnik/2019/1149/`](pravilnik/2019/1149/) | amending act | 1 | 2019-06-27 | 2019-06-27 |
+| Pravilnik o pružanju i korištenju usluga povjerenja | [`pravilnik/2019/1150/`](pravilnik/2019/1150/) | in force | 1 | 2019-06-20 | 2019-06-20 |
+| Pravilnik o izmjenama Pravilnika o sigurnosti igračaka | [`pravilnik/2019/1151/`](pravilnik/2019/1151/) | in force | 1 | 2019-11-18 | 2019-11-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o reviziji u društvu za osiguranje | [`pravilnik/2019/1156/`](pravilnik/2019/1156/) | amending act | 1 | 2019-06-27 | 2019-06-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stalnim sudskim vještacima | [`pravilnik/2019/1177/`](pravilnik/2019/1177/) | amending act | 1 | 2019-06-24 | 2019-06-24 |
+| Pravilnik o najmanjem iznosu pokrića odgovornosti za željezničke prijevoznike | [`pravilnik/2019/1178/`](pravilnik/2019/1178/) | in force | 1 | 2019-06-29 | 2019-06-29 |
+| Pravilnik o ugovornim odnosima pri otkupu pšenice | [`pravilnik/2019/1221/`](pravilnik/2019/1221/) | in force | 1 | 2019-06-27 | 2019-06-27 |
+| Pravilnik o organizaciji i provedbi produženoga boravka u osnovnoj školi | [`pravilnik/2019/1222/`](pravilnik/2019/1222/) | in force | 1 | 2019-07-04 | 2019-07-04 |
+| Pravilnik o izmjenama i dopuni Pravilnika o tehničkim pregledima vozila | [`pravilnik/2019/1245/`](pravilnik/2019/1245/) | amending act | 1 | 2019-07-06 | 2019-07-06 |
+| Pravilnik o sadržaju i načinu vođenja Registra udomitelja i registra smještenih korisnika te sadržaju obrasca za izvještavanje | [`pravilnik/2019/1246/`](pravilnik/2019/1246/) | in force | 1 | 2019-07-06 | 2019-07-06 |
+| Pravilnik o načinu i trajanju osposobljavanja i dodatnog usavršavanja udomitelja | [`pravilnik/2019/1247/`](pravilnik/2019/1247/) | in force | 1 | 2019-07-06 | 2019-07-06 |
+| Pravilnik o načinu obavljanja medicinsko-biokemijske djelatnosti u liječničkim ordinacijama | [`pravilnik/2019/1250/`](pravilnik/2019/1250/) | in force | 1 | 2019-07-06 | 2019-07-06 |
+| Pravilnik o izmjenama Pravilnika o obrascima zdravstvene dokumentacije djece predškolske dobi i evidencije u dječjem vrtiću | [`pravilnik/2019/1253/`](pravilnik/2019/1253/) | in force | 1 | 2019-07-06 | 2019-07-06 |
+| Pravilnik o dopuni Pravilnika o privremenoj javnobilježničkoj tarifi | [`pravilnik/2019/1262/`](pravilnik/2019/1262/) | amending act | 1 | 2019-07-11 | 2019-07-11 |
+| Pravilnik o izmjeni Pravilnika o plaćanju naknada za pravo uporabe adresa, brojeva i radiofrekvencijskog spektra | [`pravilnik/2019/1264/`](pravilnik/2019/1264/) | in force | 1 | 2019-07-11 | 2019-07-11 |
+| Pravilnik o registru šteta od prirodnih nepogoda | [`pravilnik/2019/1278/`](pravilnik/2019/1278/) | in force | 1 | 2019-07-13 | 2019-07-13 |
+| Pravilnik o poduzimanju radnji u postupku osnivanja trgovačkih društava na daljinu | [`pravilnik/2019/1279/`](pravilnik/2019/1279/) | in force | 1 | 2019-07-13 | 2019-07-13 |
+| Pravilnik o načinu revalorizacije zakupnine odnosno naknade za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske | [`pravilnik/2019/1280/`](pravilnik/2019/1280/) | repealed 2023-05-13 | 2 | 2019-07-13 | 2023-05-13 |
+| Pravilnik o stavljanju izvan snage Pravilnika o osnovama financiranja visoke naobrazbe na javnim visokim učilištima | [`pravilnik/2019/1281/`](pravilnik/2019/1281/) | in force | 1 | 2019-09-30 | 2019-09-30 |
+| Pravilnik o utvrđivanju nastanka osiguranog slučaja u sustavu zaštite ulagatelja na tržištu kapitala | [`pravilnik/2019/1315/`](pravilnik/2019/1315/) | in force | 1 | 2019-07-18 | 2019-07-18 |
+| Pravilnik o izmjenama Pravilnika o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere II.13. »Osiguranje akvakulturnih stokova« | [`pravilnik/2019/1354/`](pravilnik/2019/1354/) | in force | 1 | 2019-07-13 | 2019-07-13 |
+| Pravilnik o soli | [`pravilnik/2019/1472/`](pravilnik/2019/1472/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+| Pravilnik o načinu vođenja evidencija, izdavanja potvrda te unosa izvješća o financiranju političkih aktivnosti, izborne promidžbe i referenduma u informacijski sustav za nadzor financiranja | [`pravilnik/2019/1504/`](pravilnik/2019/1504/) | in force | 1 | 2019-08-01 | 2019-08-01 |
+| Pravilnik o najnižem i najvišem iznosu turističke pristojbe | [`pravilnik/2019/1505/`](pravilnik/2019/1505/) | in force | 1 | 2019-07-27 | 2019-07-27 |
+| Pravilnik o stavljanju izvan snage Pravilnika o ograničavanju uporabe pojedinih javnih cesta za promet teretnih vozila čija najveća dopuštena masa premašuje 7,5 tona | [`pravilnik/2019/1569/`](pravilnik/2019/1569/) | in force | 1 | 2019-08-02 | 2019-08-02 |
+| Pravilnik o uvjetima i načinu ostvarivanja prava na državnu stipendiju za posebne skupine studenata | [`pravilnik/2019/1579/`](pravilnik/2019/1579/) | repealed 2022-10-01 | 2 | 2019-08-10 | 2022-10-01 |
+| Pravilnik o dopuni Pravilnika o zajedničkome upisniku školskih ustanova u elektroničkome obliku - e-Matici | [`pravilnik/2019/1606/`](pravilnik/2019/1606/) | amending act | 1 | 2019-08-17 | 2019-08-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o unutarnjoj reviziji u javnom sektoru | [`pravilnik/2019/1619/`](pravilnik/2019/1619/) | amending act | 1 | 2019-08-22 | 2019-08-22 |
+| Pravilnik o izmjeni Pravilnika o ribolovnim mogućnostima i raspodjeli državne kvote u 2019. godini za ribolov plavoperajne tune (Thunnus thynnus) | [`pravilnik/2019/1620/`](pravilnik/2019/1620/) | in force | 1 | 2019-08-15 | 2019-08-15 |
+| Pravilnik o izmjeni i dopuni Pravilnika o ribolovu plavoperajne tune (Thunnus thynnus) udičarskim alatima i uvjetima i kriterijima za ostvarivanje prava na dodjelu individualne udičarske kvote | [`pravilnik/2019/1621/`](pravilnik/2019/1621/) | amending act | 1 | 2019-08-15 | 2019-08-15 |
+| Pravilnik o sadržaju, formatu i načinu dostave zahtjeva za izdavanje odobrenja za rad središnje druge ugovorne strane | [`pravilnik/2019/1624/`](pravilnik/2019/1624/) | in force | 1 | 2019-08-22 | 2019-08-22 |
+| Pravilnik o pojedinim oblicima zdravstvenih usluga koje se pružaju u djelatnosti zdravstvenog turizma te standardima i normativima za njihovo obavljanje | [`pravilnik/2019/1667/`](pravilnik/2019/1667/) | repealed 2024-01-13 | 2 | 2019-08-31 | 2024-01-13 |
+| Pravilnik o izmjeni i dopunama Pravilnika o standardima profesionalnog razvoja djelatnih vojnih osoba | [`pravilnik/2019/1670/`](pravilnik/2019/1670/) | amending act | 1 | 2019-09-05 | 2019-09-05 |
+| Pravilnik o provedbi Programa potpore za proizvođače jabuka za 2019. godinu | [`pravilnik/2019/1673/`](pravilnik/2019/1673/) | in force | 1 | 2019-08-29 | 2019-08-29 |
+| Pravilnik o izmjenama i dopuni Pravilnika o načinima, postupcima i elementima vrednovanja učenika u osnovnim i srednjim školama | [`pravilnik/2019/1709/`](pravilnik/2019/1709/) | amending act | 1 | 2019-09-05 | 2019-09-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o troškovima i naknadama koji se mogu plaćati iz imovine AIF-a | [`pravilnik/2019/1718/`](pravilnik/2019/1718/) | amending act | 1 | 2019-09-12 | 2019-09-12 |
+| Pravilnik o proširenju geografskog područja provedbe uzgojnih programa domaćih životinja | [`pravilnik/2019/1727/`](pravilnik/2019/1727/) | in force | 1 | 2019-09-14 | 2019-09-14 |
+| Pravilnik o načinu i uvjetima osnivanja prava građenja i prava služnosti na poljoprivrednom zemljištu u vlasništvu Republike Hrvatske | [`pravilnik/2019/1728/`](pravilnik/2019/1728/) | in force | 1 | 2019-09-14 | 2019-09-14 |
+| Pravilnik o pokazateljima rizika za procjenu rizika od uporabe pesticida | [`pravilnik/2019/1742/`](pravilnik/2019/1742/) | in force | 1 | 2019-09-19 | 2019-09-19 |
+| Pravilnik o načinu pokopa te obrascu suglasnosti za pokop posmrtnih ostataka mrtvorođenog djeteta kojeg roditelji odnosno članovi obitelji odbijaju preuzeti | [`pravilnik/2019/1748/`](pravilnik/2019/1748/) | in force | 1 | 2019-09-20 | 2019-09-20 |
+| Pravilnik o uvjetima, kriterijima i načinu dodjele potpore u okviru mjere I.9. »Privremeni prestanak ribolovnih aktivnosti« pridnenim povlačnim mrežama - koćama za rujan/listopad 2019. godine | [`pravilnik/2019/1760/`](pravilnik/2019/1760/) | in force | 1 | 2019-09-19 | 2019-09-19 |
+| Pravilnik o izmjeni Pravilnika o elektromagnetskoj kompatibilnosti | [`pravilnik/2019/1763/`](pravilnik/2019/1763/) | in force | 1 | 2019-09-26 | 2019-09-26 |
+| Pravilnik o izmjeni Pravilnika o izdavanju Europske profesionalne kartice | [`pravilnik/2019/1788/`](pravilnik/2019/1788/) | in force | 1 | 2019-10-03 | 2019-10-03 |
+| Pravilnik o sadržaju godišnjeg izvješća o radu Hrvatske komore socijalnih radnika | [`pravilnik/2019/1789/`](pravilnik/2019/1789/) | in force | 1 | 2019-10-03 | 2019-10-03 |
+| Pravilnik o izmjeni i dopunama Pravilnika o Hrvatskom upisniku oporuka | [`pravilnik/2019/1809/`](pravilnik/2019/1809/) | amending act | 1 | 2019-10-05 | 2019-10-05 |
+| Pravilnik o doniranju hrane i hrane za životinje | [`pravilnik/2019/1811/`](pravilnik/2019/1811/) | in force | 1 | 2019-10-05 | 2019-10-05 |
+| Pravilnik o osiguranju kvalitete krvi i krvnih pripravaka u zdravstvenim ustanovama | [`pravilnik/2019/1814/`](pravilnik/2019/1814/) | in force | 1 | 2019-10-05 | 2019-10-05 |
+| Pravilnik o akreditacijskim standardima za bolničke zdravstvene ustanove | [`pravilnik/2019/1825/`](pravilnik/2019/1825/) | in force | 1 | 2019-10-08 | 2019-10-08 |
+| Pravilnik o načinu, uvjetima i postupku za davanje akreditacije nositeljima zdravstvene djelatnosti | [`pravilnik/2019/1826/`](pravilnik/2019/1826/) | in force | 1 | 2019-10-08 | 2019-10-08 |
+| Pravilnik o lovostaju | [`pravilnik/2019/1848/`](pravilnik/2019/1848/) | in force | 1 | 2019-10-10 | 2019-10-10 |
+| Pravilnik o pokriću troškova plaća i doprinosa vježbenika | [`pravilnik/2019/1896/`](pravilnik/2019/1896/) | in force | 1 | 2019-10-19 | 2019-10-19 |
+| Pravilnik o izmjenama Pravilnika o tehničkom pregledu građevine | [`pravilnik/2019/1982/`](pravilnik/2019/1982/) | in force | 1 | 2019-10-24 | 2019-10-24 |
+| Pravilnik o izmjenama Pravilnika o održavanju građevina | [`pravilnik/2019/1983/`](pravilnik/2019/1983/) | in force | 1 | 2019-10-24 | 2019-10-24 |
+| Pravilnik o načinu obavljanja ribolova u posebnom staništu u akvatoriju ušća rijeke Raše u 2019. i 2020. godini | [`pravilnik/2019/1987/`](pravilnik/2019/1987/) | in force | 1 | 2019-10-17 | 2019-10-17 |
+| Pravilnik o načinu ostvarivanja prava na potporu za obrazovanje | [`pravilnik/2019/2039/`](pravilnik/2019/2039/) | in force | 1 | 2019-10-31 | 2019-10-31 |
+| Pravilnik o stručnim muzejskim zvanjima i drugim zvanjima u muzejskoj djelatnosti te uvjetima i načinu njihova stjecanja | [`pravilnik/2019/2089/`](pravilnik/2019/2089/) | in force | 1 | 2019-11-07 | 2019-11-07 |
+| Pravilnik o stručnim arhivskim zvanjima i drugim zvanjima u arhivskoj struci te uvjetima i načinu njihova stjecanja | [`pravilnik/2019/2090/`](pravilnik/2019/2090/) | in force | 1 | 2019-11-07 | 2019-11-07 |
+| Pravilnik o postupku prijma vježbenika u pravosudna tijela | [`pravilnik/2019/2122/`](pravilnik/2019/2122/) | in force | 1 | 2019-11-14 | 2019-11-14 |
 | Pravilnik o izmjenama Pravilnika o utvrđivanju lista stečajnih upravitelja | [`pravilnik/2019/2125/`](pravilnik/2019/2125/) | in force | 1 | 2019-11-14 | 2019-11-14 |
+| Pravilnik o načinu pribavljanja podataka, sadržaju izvješća te rokovima dostave podataka iz središnjeg depozitorija | [`pravilnik/2019/2145/`](pravilnik/2019/2145/) | in force | 1 | 2019-11-15 | 2019-11-15 |
+| Pravilnik o izmjeni i dopuni Pravilnika o vrsti i načinu dostave podataka državama članicama Europske unije, u svrhu istraživanja prometnih prekršaja | [`pravilnik/2019/2171/`](pravilnik/2019/2171/) | amending act | 1 | 2020-05-23 | 2020-05-23 |
+| Pravilnik o stručnoj službi za provedbu lovnogospodarskih planova | [`pravilnik/2019/2174/`](pravilnik/2019/2174/) | in force | 1 | 2019-11-16 | 2019-11-16 |
+| Pravilnik o lovačkim psima | [`pravilnik/2019/2176/`](pravilnik/2019/2176/) | in force | 1 | 2019-11-16 | 2019-11-16 |
+| Pravilnik o izmjeni i dopuni Pravilnika o poslovima na kojima se ne smije zaposliti maloljetnik | [`pravilnik/2019/2194/`](pravilnik/2019/2194/) | amending act | 1 | 2019-11-21 | 2019-11-21 |
+| Pravilnik o izmjenama i dopuni Pravilnika o radnom vremenu, odmorima i dopustima radnika na pomorskim ribarskim plovilima | [`pravilnik/2019/2195/`](pravilnik/2019/2195/) | amending act | 1 | 2019-11-21 | 2019-11-21 |
+| Pravilnik o potpori za privatno skladištenje | [`pravilnik/2019/2251/`](pravilnik/2019/2251/) | in force | 1 | 2019-11-21 | 2019-11-21 |
+| Pravilnik o prikupljanju i analizi statističkih i drugih podataka o radu sudova i državnih odvjetništava | [`pravilnik/2019/2273/`](pravilnik/2019/2273/) | in force | 1 | 2019-11-30 | 2019-11-30 |
+| Pravilnik o izmjenama Pravilnika o zaštiti životinja koje se koriste u znanstvene svrhe | [`pravilnik/2019/2320/`](pravilnik/2019/2320/) | in force | 1 | 2019-12-07 | 2019-12-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izračunu prosječnog dnevnog neto uvoza, prosječne dnevne potrošnje i količina obveznih zaliha nafte i naftnih derivata | [`pravilnik/2019/2322/`](pravilnik/2019/2322/) | amending act | 1 | 2019-12-07 | 2019-12-07 |
+| Pravilnik o osnovici za izračun i način naplate naknade za upravljanje imovinom | [`pravilnik/2019/2329/`](pravilnik/2019/2329/) | repealed 2024-12-21 | 2 | 2019-12-07 | 2024-12-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o interventnim pričuvama mirovinskog osiguravajućeg društva | [`pravilnik/2019/2330/`](pravilnik/2019/2330/) | amending act | 1 | 2019-12-07 | 2019-12-07 |
+| Pravilnik o izmjeni Pravilnika o načinu provedbe stručnog nadzora građenja, obrascu, uvjetima i načinu vođenja građevinskog dnevnika te o sadržaju završnog izvješća nadzornog inženjera | [`pravilnik/2019/2400/`](pravilnik/2019/2400/) | in force | 1 | 2019-12-19 | 2019-12-19 |
+| Pravilnik o korištenju javnog arhivskog gradiva | [`pravilnik/2019/2401/`](pravilnik/2019/2401/) | in force | 1 | 2019-12-19 | 2019-12-19 |
+| Pravilnik o uvjetima smještaja, opreme, zaštite i obrade arhivskog gradiva te broju i strukturi stručnog osoblja arhiva | [`pravilnik/2019/2402/`](pravilnik/2019/2402/) | in force | 1 | 2019-12-19 | 2019-12-19 |
+| Pravilnik o stručnom ispitu za obavljanje poslova savjetovanja, informiranja i izobrazbe potrošača | [`pravilnik/2019/2438/`](pravilnik/2019/2438/) | in force | 1 | 2019-12-21 | 2019-12-21 |
+| Pravilnik o izmjenama Pravilnika o stipendiranju studenata - pripadnika hrvatskog naroda izvan Republike Hrvatske | [`pravilnik/2019/2466/`](pravilnik/2019/2466/) | in force | 1 | 2019-12-19 | 2019-12-19 |
+| Pravilnik o izmjeni Pravilnika o postupku naknadne uplate doprinosa otpisanih zbog zastare ili nenaplativosti za osiguranike koji su sami za sebe obveznici doprinosa i obveznici plaćanja doprinosa | [`pravilnik/2019/2473/`](pravilnik/2019/2473/) | in force | 1 | 2019-12-26 | 2019-12-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o prenosivosti broja | [`pravilnik/2019/2477/`](pravilnik/2019/2477/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Pravilnik o troškovima koji se mogu plaćati iz imovine dobrovoljnog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova dobrovoljnog mirovinskog fonda | [`pravilnik/2019/2479/`](pravilnik/2019/2479/) | repealed 2024-09-17 | 2 | 2019-12-26 | 2024-09-17 |
+| Pravilnik o dopunama Pravilnika o proračunskom računovodstvu i računskom planu | [`pravilnik/2019/2539/`](pravilnik/2019/2539/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Pravilnik o izmjenama Pravilnika o financijskom izvještavanju u proračunskom računovodstvu | [`pravilnik/2019/2540/`](pravilnik/2019/2540/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati poduzetnici koji obavljaju stručno osposobljavanje pilota sportsko-rekreativnih zrakoplova, balona i jedrilica | [`pravilnik/2019/2544/`](pravilnik/2019/2544/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Pravilnik o izmjenama Pravilnika o ovlaštenju strojovođa | [`pravilnik/2019/2545/`](pravilnik/2019/2545/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Pravilnik o dopuni Pravilnika o polaganju državne mature | [`pravilnik/2019/2572/`](pravilnik/2019/2572/) | amending act | 1 | 2020-01-04 | 2020-01-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o podacima koje su energetski subjekti dužni dostavljati Ministarstvu | [`pravilnik/2019/2573/`](pravilnik/2019/2573/) | amending act | 1 | 2020-01-04 | 2020-01-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o izradi procjene rizika | [`pravilnik/2019/2615/`](pravilnik/2019/2615/) | amending act | 1 | 2020-01-08 | 2020-01-08 |
 | Pravilnik o dopunama Pravilnika o proračunskim klasifikacijama | [`pravilnik/2020/9/`](pravilnik/2020/9/) | amending act | 1 | 2020-01-10 | 2020-01-10 |
 | Pravilnik o izmjenama i dopunama Pravilnika o polugodišnjem i godišnjem izvještaju o izvršenju proračuna | [`pravilnik/2020/10/`](pravilnik/2020/10/) | amending act | 1 | 2020-01-10 | 2020-01-10 |
 | Pravilnik o izmjenama Pravilnika o arheološkim istraživanjima | [`pravilnik/2020/18/`](pravilnik/2020/18/) | in force | 1 | 2020-01-11 | 2020-01-11 |
@@ -7323,7 +7512,7 @@
 | Pravilnik o tržišnim standardima za meso peradi | [`pravilnik/2026/1477/`](pravilnik/2026/1477/) | in force | 1 | 2026-11-05 | 2026-11-05 |
 | Pravilnik o izmjenama i dopunama Pravilnika o troškovima koji se mogu plaćati iz imovine obveznog mirovinskog fonda te načinu i sadržaju izračuna pokazatelja ukupnih troškova obveznog mirovinskog fonda | [`pravilnik/2026/1480/`](pravilnik/2026/1480/) | amending act | 1 | 2026-11-05 | 2026-11-05 |
 
-## statut (60, of which 19 amending acts)
+## statut (64, of which 20 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -7338,6 +7527,10 @@
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
 | Izmjena i dopuna Statuta Hrvatskoga zavoda za zapošljavanje | [`statut/2017/2311/`](statut/2017/2311/) | amending act | 1 | 2017-10-12 | 2017-10-12 |
 | Izmjena Statuta Hrvatske komore dentalne medicine | [`statut/2017/2482/`](statut/2017/2482/) | in force | 1 | 2017-11-11 | 2017-11-11 |
+| Statut Hrvatske komore ovlaštenih inženjera geodezije | [`statut/2018/2113/`](statut/2018/2113/) | in force | 1 | 2018-12-13 | 2018-12-13 |
+| Statut Hrvatske agronomske komore | [`statut/2019/203/`](statut/2019/203/) | in force | 1 | 2019-02-02 | 2019-02-02 |
+| Statut Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`statut/2019/1731/`](statut/2019/1731/) | in force | 1 | 2019-08-27 | 2019-08-27 |
+| Izmjene i dopune Statuta Hrvatske komore arhitekata | [`statut/2019/1745/`](statut/2019/1745/) | amending act | 1 | 2019-09-11 | 2019-09-11 |
 | Izmjene i dopune Statuta Hrvatske komore inženjera strojarstva | [`statut/2020/423/`](statut/2020/423/) | amending act | 1 | 2020-02-22 | 2020-02-22 |
 | Izmjene i dopune Statuta Hrvatske javnobilježničke komore | [`statut/2020/527/`](statut/2020/527/) | amending act | 1 | 2020-03-05 | 2020-03-05 |
 | Statut Turističke zajednice Dubrovačko-neretvanske županije | [`statut/2020/821/`](statut/2020/821/) | in force | 1 | 2020-04-07 | 2020-04-07 |
@@ -7413,7 +7606,7 @@
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
 
-## uredba (575, of which 126 amending acts)
+## uredba (672, of which 150 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -7711,7 +7904,100 @@
 | Uredba o dopuni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2015. godinu | [`uredba/2015/2248/`](uredba/2015/2248/) | amending act | 1 | 2015-10-31 | 2015-10-31 |
 | Uredba o izmjenama i dopunama Uredbe o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera | [`uredba/2016/1141/`](uredba/2016/1141/) | amending act | 1 | 2016-05-12 | 2016-05-12 |
 | Uredba o dopuni Uredbe o organizacijskim i tehničkim standardima za povezivanje na državnu informacijsku infrastrukturu | [`uredba/2016/1800/`](uredba/2016/1800/) | amending act | 1 | 2016-09-10 | 2016-09-10 |
+| Uredba o izmjeni Uredbe o radnim mjestima ovlaštenih carinskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2018/59/`](uredba/2018/59/) | in force | 1 | 2018-01-13 | 2018-01-13 |
+| Uredba o dopuni Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi | [`uredba/2018/139/`](uredba/2018/139/) | amending act | 1 | 2018-01-12 | 2018-01-12 |
+| Uredba o izmjenama i dopunama Uredbe o okolišnoj dozvoli | [`uredba/2018/152/`](uredba/2018/152/) | amending act | 1 | 2018-01-20 | 2018-01-20 |
+| Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2018. godinu | [`uredba/2018/181/`](uredba/2018/181/) | in force | 1 | 2018-01-27 | 2018-01-27 |
+| Uredba o ljetnom računanju vremena u 2018., 2019., 2020. i 2021. godini | [`uredba/2018/209/`](uredba/2018/209/) | in force | 1 | 2018-02-03 | 2018-02-03 |
+| Uredba o preuzimanju Direktive 2012/29/EU Europskog parlamenta i Vijeća o uspostavi minimalnih standarda za prava, potporu i zaštitu žrtava kaznenih djela te o zamjeni Okvirne odluke Vijeća 2001/220/PUP | [`uredba/2018/296/`](uredba/2018/296/) | in force | 1 | 2018-02-17 | 2018-02-17 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje | [`uredba/2018/297/`](uredba/2018/297/) | amending act | 1 | 2018-02-17 | 2018-02-17 |
+| Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2017. godini | [`uredba/2018/375/`](uredba/2018/375/) | in force | 1 | 2018-02-24 | 2018-02-24 |
+| Uredba o određivanju lučkog područja luke Vukovar | [`uredba/2018/421/`](uredba/2018/421/) | in force | 1 | 2018-03-10 | 2018-03-10 |
+| Uredba o prestanku važenja Uredbe o pripajanju Agencije za regionalni razvoj Republike Hrvatske Središnjoj agenciji za financiranje i ugovaranje programa i projekata Europske unije | [`uredba/2018/459/`](uredba/2018/459/) | in force | 1 | 2018-03-17 | 2018-03-17 |
+| Uredba o načinu ustrojavanja, sadržaju i vođenju Središnjeg elektroničkog registra razvojnih projekata | [`uredba/2018/806/`](uredba/2018/806/) | repealed 2022-12-30 | 2 | 2018-05-17 | 2022-12-30 |
+| Uredba o načinu i kriterijima za davanje u zakup šumskog zemljišta u vlasništvu Republike Hrvatske | [`uredba/2018/991/`](uredba/2018/991/) | repealed 2019-06-08 | 2 | 2018-06-02 | 2019-06-08 |
+| Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2018. godinu | [`uredba/2018/992/`](uredba/2018/992/) | in force | 1 | 2018-06-09 | 2018-06-09 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za šport | [`uredba/2018/1188/`](uredba/2018/1188/) | in force | 1 | 2018-07-08 | 2018-07-08 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brela | [`uredba/2018/1338/`](uredba/2018/1338/) | in force | 1 | 2018-07-28 | 2018-07-28 |
+| Uredba o izmjenama Uredbe o plaćama policijskih službenika | [`uredba/2018/1341/`](uredba/2018/1341/) | in force | 1 | 2018-07-21 | 2018-07-21 |
+| Uredba o izmjenama i dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača | [`uredba/2018/1400/`](uredba/2018/1400/) | amending act | 1 | 2018-07-28 | 2018-07-28 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2019. godinu | [`uredba/2018/1447/`](uredba/2018/1447/) | in force | 1 | 2018-08-12 | 2018-08-12 |
+| Uredba o dopuni Zakona o tržištu toplinske energije | [`uredba/2018/1552/`](uredba/2018/1552/) | repealed 2019-09-13 | 2 | 2018-08-25 | 2019-09-13 |
+| Uredba o unutarnjem ustrojstvu ureda državne uprave u županijama | [`uredba/2018/1665/`](uredba/2018/1665/) | in force | 1 | 2018-09-22 | 2018-09-22 |
+| Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu | [`uredba/2018/1666/`](uredba/2018/1666/) | in force | 1 | 2018-09-29 | 2018-09-29 |
+| Uredba o izmjenama i dopuni Uredbe o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava | [`uredba/2018/1667/`](uredba/2018/1667/) | amending act | 1 | 2018-09-22 | 2018-09-22 |
+| Uredba o načinu izračuna početne zakupnine poljoprivrednog zemljišta u vlasništvu Republike Hrvatske te naknade za korištenje voda radi obavljanja djelatnosti akvakulture | [`uredba/2018/1747/`](uredba/2018/1747/) | in force | 1 | 2018-10-13 | 2018-10-13 |
+| Uredba o darovanju nekretnina u vlasništvu Republike Hrvatske | [`uredba/2018/1839/`](uredba/2018/1839/) | repealed 2025-03-08 | 2 | 2018-11-03 | 2025-03-08 |
+| Uredba o postupcima koji prethode sklapanju pravnih poslova raspolaganja nekretninama u vlasništvu Republike Hrvatske u svrhu osnivanja prava građenja i prava služnosti | [`uredba/2018/1840/`](uredba/2018/1840/) | repealed 2025-05-31 | 2 | 2018-11-03 | 2025-05-31 |
+| Uredba o postupcima koji prethode sklapanju pravnih poslova raspolaganja nekretninama u vlasništvu Republike Hrvatske u svrhu prodaje, razvrgnuća suvlasničke zajednice, zamjene, davanja u zakup ili najam te o postupcima u vezi sa stjecanjem nekretnina i drugih stvarnih prava u korist Republike Hrvatske | [`uredba/2018/1842/`](uredba/2018/1842/) | repealed 2025-04-12 | 2 | 2018-11-03 | 2025-04-12 |
+| Uredba o načinima raspolaganja dionicama i udjelima | [`uredba/2018/1843/`](uredba/2018/1843/) | in force | 1 | 2018-11-03 | 2018-11-03 |
+| Uredba o uvjetima i načinima upravljanja privremeno oduzetom imovinom u kaznenom postupku | [`uredba/2018/2015/`](uredba/2018/2015/) | repealed 2025-09-20 | 2 | 2018-12-01 | 2025-09-20 |
+| Uredba o visini trošarine na cigarete, sitno rezani duhan za savijanje cigareta i ostali duhan za pušenje | [`uredba/2018/2067/`](uredba/2018/2067/) | repealed 2020-04-01 | 2 | 2018-12-03 | 2020-04-01 |
+| Uredba o prestanku važenja Uredbe o osnivanju Agencije za regionalni razvoj Republike Hrvatske | [`uredba/2018/2094/`](uredba/2018/2094/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Stalne misije Republike Hrvatske pri Sjevernoatlantskom savezu | [`uredba/2018/2126/`](uredba/2018/2126/) | in force | 1 | 2018-12-15 | 2018-12-15 |
+| Uredba o prestanku važenja Uredbe o osnivanju Agencije za obnovu osječke Tvrđe | [`uredba/2018/2302/`](uredba/2018/2302/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Uredba o izmjenama Uredbe o visini naknade za zaštitu voda | [`uredba/2018/2303/`](uredba/2018/2303/) | in force | 1 | 2018-12-29 | 2018-12-29 |
+| Uredba o dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje | [`uredba/2018/2304/`](uredba/2018/2304/) | amending act | 1 | 2018-12-29 | 2018-12-29 |
+| Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2019. godinu | [`uredba/2019/28/`](uredba/2019/28/) | in force | 1 | 2019-01-05 | 2019-01-05 |
+| Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole za provedbu programa kojima se podržava cilj »Europska teritorijalna suradnja« u financijskom razdoblju 2014. - 2020. | [`uredba/2019/29/`](uredba/2019/29/) | in force | 1 | 2019-01-05 | 2019-01-05 |
+| Uredba o Uredu za ljudska prava i prava nacionalnih manjina | [`uredba/2019/126/`](uredba/2019/126/) | repealed 2025-08-02 | 2 | 2019-01-19 | 2025-08-02 |
+| Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2018. godini | [`uredba/2019/127/`](uredba/2019/127/) | in force | 1 | 2019-01-19 | 2019-01-19 |
+| Uredba o osnivanju Centra za profesionalnu rehabilitaciju Osijek | [`uredba/2019/186/`](uredba/2019/186/) | in force | 1 | 2019-01-26 | 2019-01-26 |
+| Uredba o osnivanju Centra za profesionalnu rehabilitaciju Rijeka | [`uredba/2019/187/`](uredba/2019/187/) | in force | 1 | 2019-01-26 | 2019-01-26 |
+| Uredba o osnivanju Centra za profesionalnu rehabilitaciju Split | [`uredba/2019/188/`](uredba/2019/188/) | in force | 1 | 2019-01-26 | 2019-01-26 |
+| Uredba o osnivanju Centra za profesionalnu rehabilitaciju »Zagreb« | [`uredba/2019/189/`](uredba/2019/189/) | in force | 1 | 2019-01-26 | 2019-01-26 |
+| Uredba o dopunama Uredbe o kriterijima i načinu obračuna i plaćanja nagrade povjerenicima u postupku stečaja potrošača | [`uredba/2019/190/`](uredba/2019/190/) | amending act | 1 | 2019-02-02 | 2019-02-02 |
+| Uredba o dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravstva | [`uredba/2019/295/`](uredba/2019/295/) | amending act | 1 | 2019-02-21 | 2019-02-21 |
+| Uredba o prodajnoj cijeni obiteljske kuće ili stana u državnom vlasništvu kojima upravlja Središnji državni ured za obnovu i stambeno zbrinjavanje | [`uredba/2019/477/`](uredba/2019/477/) | repealed 2024-04-06 | 2 | 2019-03-19 | 2024-04-06 |
+| Uredba o izmjeni Uredbe o klasifikaciji radnih mjesta policijskih službenika | [`uredba/2019/479/`](uredba/2019/479/) | in force | 1 | 2019-03-12 | 2019-03-12 |
+| Uredba o izmjenama i dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2019/481/`](uredba/2019/481/) | amending act | 1 | 2019-03-12 | 2019-03-12 |
+| Uredba o snimanju iz zraka | [`uredba/2019/572/`](uredba/2019/572/) | repealed 2020-07-11 | 2 | 2019-03-30 | 2020-07-11 |
+| Uredba o prestanku važenja Uredbe o visini naknade za obavljanje poslova upravljanja dionicama i poslovnim udjelima | [`uredba/2019/809/`](uredba/2019/809/) | in force | 1 | 2019-04-25 | 2019-04-25 |
+| Uredba o izmjenama i dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) | [`uredba/2019/810/`](uredba/2019/810/) | amending act | 1 | 2019-04-18 | 2019-04-18 |
+| Uredba o izmjeni i dopuni Uredbe o sustavu brze razmjene službenih obavijesti o proizvodima koji predstavljaju rizik za zdravlje i sigurnost potrošača (RAPEX) | [`uredba/2019/811/`](uredba/2019/811/) | amending act | 1 | 2019-04-18 | 2019-04-18 |
+| Uredba o dopuni Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za šport | [`uredba/2019/819/`](uredba/2019/819/) | amending act | 1 | 2019-04-27 | 2019-04-27 |
+| Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2019. godinu | [`uredba/2019/889/`](uredba/2019/889/) | in force | 1 | 2019-05-11 | 2019-05-11 |
+| Uredba o zakupu šumskog zemljišta u vlasništvu Republike Hrvatske | [`uredba/2019/1045/`](uredba/2019/1045/) | repealed 2026-03-16 | 2 | 2019-06-08 | 2026-03-16 |
+| Uredba o izmjenama i dopunama Uredbe o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske | [`uredba/2019/1047/`](uredba/2019/1047/) | amending act | 1 | 2019-06-01 | 2019-06-01 |
+| Uredba o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske | [`uredba/2019/1074/`](uredba/2019/1074/) | repealed 2025-01-25 | 2 | 2019-06-08 | 2025-01-25 |
+| Uredba o preuzimanju Okvirne odluke Vijeća 2009/905/PUP od 30. studenoga 2009. o akreditaciji pružatelja forenzičkih usluga koji obavljaju laboratorijske aktivnosti | [`uredba/2019/1122/`](uredba/2019/1122/) | in force | 1 | 2019-06-22 | 2019-06-22 |
+| Uredba o Uredu za zakonodavstvo | [`uredba/2019/1237/`](uredba/2019/1237/) | repealed 2025-01-18 | 2 | 2019-07-06 | 2025-01-18 |
+| Uredba o izmjeni Uredbe o Uredu za udruge | [`uredba/2019/1239/`](uredba/2019/1239/) | in force | 1 | 2019-07-06 | 2019-07-06 |
+| Uredba o izmjenama i dopuni Uredbe o popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava | [`uredba/2019/1240/`](uredba/2019/1240/) | amending act | 1 | 2019-07-05 | 2019-07-05 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova | [`uredba/2019/1639/`](uredba/2019/1639/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova | [`uredba/2019/1640/`](uredba/2019/1640/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2019/1641/`](uredba/2019/1641/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2019/1643/`](uredba/2019/1643/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva uprave | [`uredba/2019/1644/`](uredba/2019/1644/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja | [`uredba/2019/1645/`](uredba/2019/1645/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava | [`uredba/2019/1646/`](uredba/2019/1646/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva za demografiju, obitelj, mlade i socijalnu politiku | [`uredba/2019/1647/`](uredba/2019/1647/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2019/1648/`](uredba/2019/1648/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2019/1649/`](uredba/2019/1649/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede | [`uredba/2019/1650/`](uredba/2019/1650/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti i obrazovanja | [`uredba/2019/1651/`](uredba/2019/1651/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva zaštite okoliša i energetike | [`uredba/2019/1652/`](uredba/2019/1652/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva mora, prometa i infrastrukture | [`uredba/2019/1653/`](uredba/2019/1653/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva, poduzetništva i obrta | [`uredba/2019/1654/`](uredba/2019/1654/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnoga razvoja i fondova Europske unije | [`uredba/2019/1655/`](uredba/2019/1655/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva državne imovine | [`uredba/2019/1658/`](uredba/2019/1658/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2019/1659/`](uredba/2019/1659/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda | [`uredba/2019/1660/`](uredba/2019/1660/) | amending act | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo | [`uredba/2019/1661/`](uredba/2019/1661/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državnog zavoda za mjeriteljstvo | [`uredba/2019/1662/`](uredba/2019/1662/) | in force | 1 | 2019-08-24 | 2019-08-24 |
+| Uredba o dopuni Zakona o tržištu toplinske energije | [`uredba/2019/1746/`](uredba/2019/1746/) | amending act | 1 | 2019-09-13 | 2019-09-13 |
+| Uredba o osnivanju prava građenja i prava služnosti na šumi i šumskom zemljištu u vlasništvu Republike Hrvatske | [`uredba/2019/1752/`](uredba/2019/1752/) | in force | 1 | 2019-09-21 | 2019-09-21 |
+| Uredba o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i izvještaja o primjeni fiskalnih pravila | [`uredba/2019/1853/`](uredba/2019/1853/) | in force | 1 | 2019-10-12 | 2019-10-12 |
 | Uredba o prestanku važenja Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s trećim zemljama za određenu robu | [`uredba/2019/1855/`](uredba/2019/1855/) | in force | 1 | 2019-10-12 | 2019-10-12 |
+| Uredba o nazivu, sjedištu, organizaciji i upravljanju Međunarodnim središtem za obuku specijalnih zračnih snaga | [`uredba/2019/1890/`](uredba/2019/1890/) | in force | 1 | 2019-10-19 | 2019-10-19 |
+| Uredba o visini minimalne plaće | [`uredba/2019/2114/`](uredba/2019/2114/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Uredba o prestanku važenja Uredbe o kriterijima za dodjelu zamjenskog poljoprivrednog zemljišta u vlasništvu Republike Hrvatske ovlaštenicima naknade za oduzeto poljoprivredno zemljište temeljem Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine | [`uredba/2019/2115/`](uredba/2019/2115/) | in force | 1 | 2019-11-14 | 2019-11-14 |
+| Uredba o izmjenama i dopuni Uredbe o tehničkim standardima zaštite okoliša za smanjenje emisija hlapivih organskih spojeva koje nastaju tijekom punjenja motornih vozila benzinom na benzinskim postajama | [`uredba/2019/2143/`](uredba/2019/2143/) | amending act | 1 | 2019-11-15 | 2019-11-15 |
+| Uredba o načinu i uvjetima obračuna naknade za koncesiju za žičare | [`uredba/2019/2318/`](uredba/2019/2318/) | in force | 1 | 2019-12-07 | 2019-12-07 |
+| Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođača kojeg su opskrbljivači električne energije dužni preuzeti od operatora tržišta električne energije | [`uredba/2019/2359/`](uredba/2019/2359/) | repealed 2022-01-01 | 2 | 2020-01-01 | 2022-01-01 |
+| Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2020. godinu | [`uredba/2019/2587/`](uredba/2019/2587/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2020. godinu | [`uredba/2019/2588/`](uredba/2019/2588/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Uredba o izmjenama Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Selce | [`uredba/2019/2593/`](uredba/2019/2593/) | in force | 1 | 2020-01-07 | 2020-01-07 |
 | Uredba o Središnjem registru državne imovine | [`uredba/2020/40/`](uredba/2020/40/) | in force | 1 | 2020-01-16 | 2020-01-16 |
 | Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2019. godini | [`uredba/2020/534/`](uredba/2020/534/) | in force | 1 | 2020-02-29 | 2020-02-29 |
 | Uredba o visini trošarine na alkohol i alkoholna pića | [`uredba/2020/716/`](uredba/2020/716/) | repealed 2023-01-01 | 2 | 2020-04-01 | 2023-01-01 |
@@ -7732,10 +8018,13 @@
 | Uredba o snimanju iz zraka | [`uredba/2020/1464/`](uredba/2020/1464/) | in force | 1 | 2020-07-11 | 2020-07-11 |
 | Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo | [`uredba/2020/1679/`](uredba/2020/1679/) | amending act | 1 | 2020-08-08 | 2020-08-08 |
 | Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova | [`uredba/2020/1812/`](uredba/2020/1812/) | repealed 2025-01-28 | 2 | 2020-09-08 | 2025-01-28 |
+| Uredba o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2020/1814/`](uredba/2020/1814/) | repealed 2025-01-28 | 2 | 2020-09-08 | 2025-01-28 |
 | Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva i održivog razvoja | [`uredba/2020/1816/`](uredba/2020/1816/) | repealed 2024-06-22 | 2 | 2020-09-08 | 2024-06-22 |
 | Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za demografiju i mlade | [`uredba/2020/1828/`](uredba/2020/1828/) | repealed 2023-06-17 | 2 | 2020-09-08 | 2023-06-17 |
 | Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvoj digitalnog društva | [`uredba/2020/1829/`](uredba/2020/1829/) | repealed 2022-05-19 | 2 | 2020-09-08 | 2022-05-19 |
 | Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za obnovu i stambeno zbrinjavanje | [`uredba/2020/1831/`](uredba/2020/1831/) | repealed 2022-03-05 | 2 | 2020-09-08 | 2022-03-05 |
+| Uredba o unutarnjem ustrojstvu Hrvatske vatrogasne zajednice | [`uredba/2020/1834/`](uredba/2020/1834/) | in force | 1 | 2020-09-08 | 2020-09-08 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku | [`uredba/2020/1839/`](uredba/2020/1839/) | repealed 2026-05-30 | 2 | 2020-09-08 | 2026-05-30 |
 | Uredba o osnivanju Državne vatrogasne škole | [`uredba/2020/2008/`](uredba/2020/2008/) | in force | 1 | 2020-10-10 | 2020-10-10 |
 | Uredba o visini minimalne plaće za 2021. godinu | [`uredba/2020/2307/`](uredba/2020/2307/) | in force | 1 | 2021-01-01 | 2021-01-01 |
 | Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2020/2308/`](uredba/2020/2308/) | in force | 1 | 2020-10-31 | 2020-10-31 |
@@ -7761,6 +8050,7 @@
 | Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida | [`uredba/2021/934/`](uredba/2021/934/) | in force | 1 | 2021-05-08 | 2021-05-08 |
 | Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2021. | [`uredba/2021/1060/`](uredba/2021/1060/) | in force | 1 | 2021-05-22 | 2021-05-22 |
 | Uredba o izmjenama i dopuni Uredbe o poslovima s posebnim uvjetima rada u državnoj službi | [`uredba/2021/1214/`](uredba/2021/1214/) | amending act | 1 | 2021-06-15 | 2021-06-15 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja | [`uredba/2021/1315/`](uredba/2021/1315/) | amending act | 1 | 2021-07-01 | 2021-07-01 |
 | Uredba o uredskom poslovanju | [`uredba/2021/1415/`](uredba/2021/1415/) | in force | 1 | 2021-07-10 | 2021-07-10 |
 | Uredba o graničnim vrijednostima sadržaja hlapivih organskih spojeva u određenim bojama i lakovima koji se koriste u graditeljstvu i proizvodima za završnu obradu vozila | [`uredba/2021/1586/`](uredba/2021/1586/) | in force | 1 | 2021-08-07 | 2021-08-07 |
 | Uredba o izmjenama i dopunama Uredbe o središnjem informacijsko-tehnološkom sustavu elektroničke naplate upravnih pristojbi | [`uredba/2021/1587/`](uredba/2021/1587/) | amending act | 1 | 2021-08-07 | 2021-08-07 |
@@ -7993,7 +8283,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (583, of which 382 amending acts)
+## zakon (593, of which 388 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8275,6 +8565,16 @@
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu | [`zakon/2016/1446/`](zakon/2016/1446/) | amending act | 1 | 2016-06-25 | 2016-06-25 |
+| Zakon o izmjenama i dopuni Zakona o Nacionalnoj infrastrukturi prostornih podataka | [`zakon/2018/1025/`](zakon/2018/1025/) | amending act | 1 | 2018-06-14 | 2018-06-14 |
+| Zakon o izmjenama i dopuni Zakona o mirovinskom osiguranju | [`zakon/2018/1285/`](zakon/2018/1285/) | amending act | 1 | 2018-07-15 | 2018-07-15 |
+| Zakon o djelatnosti psihoterapije | [`zakon/2018/1307/`](zakon/2018/1307/) | repealed 2022-02-17 | 2 | 2018-07-26 | 2022-02-17 |
+| Zakon o izmjenama i dopunama Zakona o regulaciji energetskih djelatnosti | [`zakon/2018/1397/`](zakon/2018/1397/) | amending act | 1 | 2018-08-04 | 2018-08-04 |
+| Zakon o izmjenama i dopunama Zakona o osnivanju agencije za istraživanje nesreća u zračnom, pomorskom i željezničkom prometu | [`zakon/2018/1854/`](zakon/2018/1854/) | amending act | 1 | 2018-11-08 | 2018-11-08 |
+| Zakon o izmjenama i dopunama Zakona o autorskom pravu i srodnim pravima | [`zakon/2018/1855/`](zakon/2018/1855/) | amending act | 1 | 2018-11-08 | 2018-11-08 |
+| Zakon o prestanku važenja Zakona o Fondu za stipendiranje hrvatskih branitelja iz Domovinskog rata i djece hrvatskih branitelja iz Domovinskog rata | [`zakon/2018/1915/`](zakon/2018/1915/) | in force | 1 | 2018-11-17 | 2018-11-17 |
+| Zakon o izmjenama i dopunama Zakona o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2018/1916/`](zakon/2018/1916/) | amending act | 1 | 2018-11-17 | 2018-11-17 |
+| Zakon o izmjeni Zakona o porezu na promet nekretnina | [`zakon/2018/2060/`](zakon/2018/2060/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o prestanku važenja Zakona o Hrvatskoj poljoprivredno-šumarskoj savjetodavnoj službi | [`zakon/2018/2144/`](zakon/2018/2144/) | in force | 1 | 2019-01-01 | 2019-01-01 |
 | Zakon o izmjeni Zakona o obavljanju studentskih poslova | [`zakon/2020/329/`](zakon/2020/329/) | in force | 1 | 2020-02-13 | 2020-02-13 |
 | Zakon o izmjenama i dopunama Zakona o provedbi uredbi Europske unije iz područja platnog prometa | [`zakon/2020/330/`](zakon/2020/330/) | amending act | 1 | 2020-02-20 | 2020-02-20 |
 | Zakon o izmjeni i dopuni Zakona o provedbi uredbi Europske unije o prometu drva i proizvoda od drva | [`zakon/2020/331/`](zakon/2020/331/) | amending act | 1 | 2020-02-20 | 2020-02-20 |

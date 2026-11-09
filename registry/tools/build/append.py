@@ -313,7 +313,7 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
                    f'Restates the text in force from {day} after the correction of {first_day}, so that every '
                    'later day reads the corrected history.' + ('' if same else ' The text served for this day '
                                                                   'differed from the official one as well.')]
-        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {day}']
+        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {day}', f'Corrected: {day}']
         if h:
             trailers.append(f'{"Re-asserts" if same and prev is not None else "Corrects"}: {h}')
         out.append({'day': day, 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
