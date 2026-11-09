@@ -1,6 +1,6 @@
 # Every act in this repository
 
-8839 acts, 9,019 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+9002 acts, 9,183 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (48, of which 12 amending acts)
 
@@ -8283,7 +8283,7 @@
 | Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske | [`uredba/2026/1405/`](uredba/2026/1405/) | in force | 1 | 2026-10-24 | 2026-10-24 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (593, of which 388 amending acts)
+## zakon (756, of which 450 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8565,6 +8565,22 @@
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o inspekcijama u gospodarstvu | [`zakon/2016/1446/`](zakon/2016/1446/) | amending act | 1 | 2016-06-25 | 2016-06-25 |
+| Zakon o Hrvatskoj poljoprivredno-šumarskoj savjetodavnoj službi | [`zakon/2018/312/`](zakon/2018/312/) | repealed 2019-01-01 | 2 | 2018-02-22 | 2019-01-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti prirode | [`zakon/2018/316/`](zakon/2018/316/) | amending act | 1 | 2018-02-22 | 2018-02-22 |
+| Zakon o izmjenama i dopunama Zakona o genetski modificiranim organizmima | [`zakon/2018/317/`](zakon/2018/317/) | amending act | 1 | 2018-02-22 | 2018-02-22 |
+| Zakon o izmjenama i dopunama Zakona o obveznom zdravstvenom osiguranju i zdravstvenoj zaštiti stranaca u Republici Hrvatskoj | [`zakon/2018/318/`](zakon/2018/318/) | amending act | 1 | 2018-02-22 | 2018-02-22 |
+| Zakon o prestanku važenja Zakona o provedbi Uredbe Europske unije o europskim fondovima socijalnog poduzetništva | [`zakon/2018/403/`](zakon/2018/403/) | in force | 1 | 2018-03-09 | 2018-03-09 |
+| Zakon o prestanku važenja Zakona o provedbi Uredbe Europske unije o europskim fondovima poduzetničkog kapitala | [`zakon/2018/404/`](zakon/2018/404/) | in force | 1 | 2018-03-09 | 2018-03-09 |
+| Zakon o izmjenama i dopuni Zakona o strukovnom obrazovanju | [`zakon/2018/478/`](zakon/2018/478/) | amending act | 1 | 2018-03-22 | 2018-03-22 |
+| Zakon o dopuni Zakona o prikupljanju, obradi, povezivanju, korištenju i razmjeni podataka o primicima i javnim davanjima po osiguranicima | [`zakon/2018/479/`](zakon/2018/479/) | amending act | 1 | 2018-03-22 | 2018-03-22 |
+| Zakon o izmjenama i dopunama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom | [`zakon/2018/742/`](zakon/2018/742/) | amending act | 1 | 2018-05-05 | 2018-05-05 |
+| Zakon o izmjenama i dopuni Zakona o Središnjem registru osiguranika | [`zakon/2018/743/`](zakon/2018/743/) | amending act | 1 | 2018-05-05 | 2018-05-05 |
+| Zakon o prestanku važenja Zakona o Centru za praćenje poslovanja energetskog sektora i investicija | [`zakon/2018/861/`](zakon/2018/861/) | in force | 1 | 2018-05-26 | 2018-05-26 |
+| Zakon o izmjenama Zakona o patentu | [`zakon/2018/862/`](zakon/2018/862/) | in force | 1 | 2018-05-26 | 2018-05-26 |
+| Zakon o izmjenama Zakona o žigu | [`zakon/2018/863/`](zakon/2018/863/) | in force | 1 | 2018-05-26 | 2018-05-26 |
+| Zakon o izmjenama Zakona o industrijskom dizajnu | [`zakon/2018/864/`](zakon/2018/864/) | in force | 1 | 2018-05-26 | 2018-05-26 |
+| Zakon o izmjenama Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga | [`zakon/2018/865/`](zakon/2018/865/) | in force | 1 | 2018-05-26 | 2018-05-26 |
+| Zaklon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda | [`zakon/2018/866/`](zakon/2018/866/) | in force | 1 | 2018-05-26 | 2018-05-26 |
 | Zakon o izmjenama i dopuni Zakona o Nacionalnoj infrastrukturi prostornih podataka | [`zakon/2018/1025/`](zakon/2018/1025/) | amending act | 1 | 2018-06-14 | 2018-06-14 |
 | Zakon o izmjenama i dopuni Zakona o mirovinskom osiguranju | [`zakon/2018/1285/`](zakon/2018/1285/) | amending act | 1 | 2018-07-15 | 2018-07-15 |
 | Zakon o djelatnosti psihoterapije | [`zakon/2018/1307/`](zakon/2018/1307/) | repealed 2022-02-17 | 2 | 2018-07-26 | 2022-02-17 |
@@ -8575,6 +8591,153 @@
 | Zakon o izmjenama i dopunama Zakona o Zakladi hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2018/1916/`](zakon/2018/1916/) | amending act | 1 | 2018-11-17 | 2018-11-17 |
 | Zakon o izmjeni Zakona o porezu na promet nekretnina | [`zakon/2018/2060/`](zakon/2018/2060/) | in force | 1 | 2019-01-01 | 2019-01-01 |
 | Zakon o prestanku važenja Zakona o Hrvatskoj poljoprivredno-šumarskoj savjetodavnoj službi | [`zakon/2018/2144/`](zakon/2018/2144/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o akvakulturi | [`zakon/2018/2145/`](zakon/2018/2145/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o drvenastim kulturama kratkih ophodnji | [`zakon/2018/2146/`](zakon/2018/2146/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o zaštiti biljnih sorti | [`zakon/2018/2147/`](zakon/2018/2147/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjeni Zakona o obeštećenju radnika profesionalno izloženih azbestu | [`zakon/2018/2148/`](zakon/2018/2148/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o obveznom zdravstvenom nadzoru radnika profesionalno izloženih azbestu | [`zakon/2018/2149/`](zakon/2018/2149/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjeni i dopunama Zakona o zaštiti od buke | [`zakon/2018/2199/`](zakon/2018/2199/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o ograničavanju uporabe duhanskih i srodnih proizvoda | [`zakon/2018/2200/`](zakon/2018/2200/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o predmetima opće uporabe | [`zakon/2018/2201/`](zakon/2018/2201/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopuni Zakona o materijalima i predmetima koji dolaze u neposredan dodir s hranom | [`zakon/2018/2202/`](zakon/2018/2202/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 648/2004 Europskoga parlamenta i Vijeća od 31. ožujka 2004. godine o deterdžentima | [`zakon/2018/2203/`](zakon/2018/2203/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti od neionizirajućeg zračenja | [`zakon/2018/2204/`](zakon/2018/2204/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o kontaminantima | [`zakon/2018/2206/`](zakon/2018/2206/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o prehrambenim i zdravstvenim tvrdnjama te hrani obogaćenoj nutrijentima | [`zakon/2018/2207/`](zakon/2018/2207/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o uvozu hrane i hrane za životinje iz trećih zemalja | [`zakon/2018/2208/`](zakon/2018/2208/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o prehrambenim aditivima, aromama i prehrambenim enzimima | [`zakon/2018/2209/`](zakon/2018/2209/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EU) 2015/2283 Europskog parlamenta i Vijeća od 25. studenoga 2015. o novoj hrani | [`zakon/2018/2210/`](zakon/2018/2210/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 609/2013 Europskog parlamenta i Vijeća od 12. lipnja 2013. o hrani za dojenčad i malu djecu, hrani za posebne medicinske potrebe i zamjeni za cjelodnevnu prehranu pri redukcijskoj dijeti | [`zakon/2018/2211/`](zakon/2018/2211/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o zadrugama | [`zakon/2018/2213/`](zakon/2018/2213/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o javno-privatnom partnerstvu | [`zakon/2018/2214/`](zakon/2018/2214/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o poticanju ulaganja | [`zakon/2018/2215/`](zakon/2018/2215/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o strateškim investicijskim projektima Republike Hrvatske | [`zakon/2018/2216/`](zakon/2018/2216/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o dopuni Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju | [`zakon/2018/2217/`](zakon/2018/2217/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o prostornom uređenju | [`zakon/2018/2218/`](zakon/2018/2218/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju | [`zakon/2018/2236/`](zakon/2018/2236/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o prestanku važenja Zakona o osnivanju Agencije za investicije i konkurentnost | [`zakon/2018/2242/`](zakon/2018/2242/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o održivoj uporabi pesticida | [`zakon/2018/2245/`](zakon/2018/2245/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o biljnom zdravstvu | [`zakon/2018/2246/`](zakon/2018/2246/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 396/2005 o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla | [`zakon/2018/2247/`](zakon/2018/2247/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopuni Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja | [`zakon/2018/2248/`](zakon/2018/2248/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o šumama | [`zakon/2018/2249/`](zakon/2018/2249/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o hrani | [`zakon/2018/2250/`](zakon/2018/2250/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o higijeni hrane i mikrobiološkim kriterijima za hranu | [`zakon/2018/2251/`](zakon/2018/2251/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o veterinarstvu | [`zakon/2018/2252/`](zakon/2018/2252/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopunama Zakona o provedbi Uredbe (EZ) br. 1223/2009 Europskoga parlamenta i Vijeća od 30. studenoga 2009. godine o kozmetičkim proizvodima (preinačena verzija) | [`zakon/2018/2255/`](zakon/2018/2255/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 649/2012 o izvozu i uvozu opasnih kemikalija | [`zakon/2018/2256/`](zakon/2018/2256/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 1907/2006 Europskoga parlamenta i Vijeća EZ o registraciji, evaluaciji, autorizaciji i ograničavanju kemikalija | [`zakon/2018/2257/`](zakon/2018/2257/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o genetski modificiranim organizmima | [`zakon/2018/2259/`](zakon/2018/2259/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopunama Zakona o kemikalijama | [`zakon/2018/2260/`](zakon/2018/2260/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 528/2012 Europskoga parlamenta i Vijeća u vezi sa stavljanjem na raspolaganje na tržištu i uporabi biocidnih proizvoda | [`zakon/2018/2261/`](zakon/2018/2261/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjeni Zakona o Vladi Republike Hrvatske | [`zakon/2018/2289/`](zakon/2018/2289/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o prestanku važenja Zakona o poticanju zapošljavanja | [`zakon/2018/2334/`](zakon/2018/2334/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o prestanku važenja Zakona o Nacionalnoj zakladi za potporu učeničkom i studentskom standardu | [`zakon/2018/2340/`](zakon/2018/2340/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EU) 2015/757 Europskog parlamenta i Vijeća od 29. travnja 2015. o praćenju emisija ugljikova dioksida iz pomorskog prometa, izvješćivanju o njima i njihovoj verifikaciji te o izmjeni Direktive 2009/16/EZ | [`zakon/2018/2347/`](zakon/2018/2347/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EU) br. 517/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o fluoriranim stakleničkim plinovima i stavljanju izvan snage Uredbe (EZ) br. 842/2006 | [`zakon/2018/2348/`](zakon/2018/2348/) | in force | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama i dopuni Zakona o plovidbi i lukama unutarnjih voda | [`zakon/2018/2349/`](zakon/2018/2349/) | amending act | 1 | 2019-01-01 | 2019-01-01 |
+| Zakon o izmjenama Zakona o prekograničnom prometu i trgovini divljim vrstama | [`zakon/2019/274/`](zakon/2019/274/) | in force | 1 | 2019-02-15 | 2019-02-15 |
+| Zakon o izmjenama i dopuni Zakona o sprječavanju unošenja i širenja stranih te invazivnih stranih vrsta i upravljanju njima | [`zakon/2019/275/`](zakon/2019/275/) | amending act | 1 | 2019-02-15 | 2019-02-15 |
+| Zakon o izmjenama i dopunama Zakona o održivom gospodarenju otpadom | [`zakon/2019/277/`](zakon/2019/277/) | amending act | 1 | 2019-02-15 | 2019-02-15 |
+| Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EU) br. 511/2014 o mjerama usklađivanja za korisnike Protokola iz Nagoye o pristupu genetskim resursima te poštenoj i pravičnoj podjeli dobiti koja proizlazi iz njihova korištenja u Uniji | [`zakon/2019/278/`](zakon/2019/278/) | amending act | 1 | 2019-02-15 | 2019-02-15 |
+| Zakon o izmjenama Zakona o postupanju s nezakonito izgrađenim zgradama | [`zakon/2019/280/`](zakon/2019/280/) | in force | 1 | 2019-02-15 | 2019-02-15 |
+| Zakon o izmjeni i dopunama Zakona o nasljeđivanju | [`zakon/2019/281/`](zakon/2019/281/) | amending act | 1 | 2019-02-15 | 2019-02-15 |
+| Zakon o izmjenama i dopunama Zakona o edukacijsko-rehabilitacijskoj djelatnosti | [`zakon/2019/316/`](zakon/2019/316/) | amending act | 1 | 2019-02-23 | 2019-02-23 |
+| Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2019/318/`](zakon/2019/318/) | in force | 1 | 2019-03-01 | 2019-03-01 |
+| Zakon o izmjenama i dopunama Zakona o proizvodnji, remontu i prometu naoružanja i vojne opreme | [`zakon/2019/359/`](zakon/2019/359/) | amending act | 1 | 2019-02-28 | 2019-02-28 |
+| Zakon o izmjeni i dopuni Zakona o privatizaciji INA - Industrije nafte d.d. | [`zakon/2019/437/`](zakon/2019/437/) | amending act | 1 | 2019-03-09 | 2019-03-09 |
+| Zakon o izmjenama Zakona o općoj sigurnosti proizvoda | [`zakon/2019/643/`](zakon/2019/643/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjeni Zakona o alternativnom rješavanju potrošačkih sporova | [`zakon/2019/644/`](zakon/2019/644/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjeni Zakona o tehničkim zahtjevima za proizvode i ocjenjivanju sukladnosti | [`zakon/2019/645/`](zakon/2019/645/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjeni Zakona o elektroničkoj trgovini | [`zakon/2019/646/`](zakon/2019/646/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjeni Zakona o posredovanju u prometu nekretnina | [`zakon/2019/647/`](zakon/2019/647/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopunama Zakona o veterinarsko-medicinskim proizvodima | [`zakon/2019/649/`](zakon/2019/649/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o uskladištenju i skladišnici za žitarice i industrijsko bilje | [`zakon/2019/650/`](zakon/2019/650/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjeni Zakona o duhanu | [`zakon/2019/651/`](zakon/2019/651/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopuni Zakona o gnojivima i poboljšivačima tla | [`zakon/2019/652/`](zakon/2019/652/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 2003/2003 o gnojivima | [`zakon/2019/653/`](zakon/2019/653/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o provedbi Uredbe (EZ) br. 1107/2009 o stavljanju na tržište sredstava za zaštitu bilja | [`zakon/2019/654/`](zakon/2019/654/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o informiranju potrošača o hrani | [`zakon/2019/655/`](zakon/2019/655/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopuni Zakona o zaštiti životinja | [`zakon/2019/656/`](zakon/2019/656/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopuni Zakona o provedbi uredbi Europske unije o zaštiti životinja | [`zakon/2019/657/`](zakon/2019/657/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o obiteljskom poljoprivrednom gospodarstvu | [`zakon/2019/658/`](zakon/2019/658/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu | [`zakon/2019/659/`](zakon/2019/659/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o lovstvu | [`zakon/2019/660/`](zakon/2019/660/) | in force | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama i dopunama Zakona o službenim kontrolama koje se provode sukladno propisima o hrani, hrani za životinje, o zdravlju i dobrobiti životinja | [`zakon/2019/661/`](zakon/2019/661/) | amending act | 1 | 2019-04-01 | 2019-04-01 |
+| Zakon o izmjenama Zakona o građevnim proizvodima | [`zakon/2019/798/`](zakon/2019/798/) | in force | 1 | 2019-04-18 | 2019-04-18 |
+| Zakon o izmjenama i dopunama Zakona o suzbijanju zlouporabe droga | [`zakon/2019/799/`](zakon/2019/799/) | amending act | 1 | 2019-04-25 | 2019-04-25 |
+| Zakon o izmjeni i dopuni Zakona o tržištu električne energije | [`zakon/2019/994/`](zakon/2019/994/) | amending act | 1 | 2019-05-30 | 2019-05-30 |
+| Zakon o izmjenama Zakona o istraživanju i eksploataciji ugljikovodika | [`zakon/2019/995/`](zakon/2019/995/) | in force | 1 | 2019-05-30 | 2019-05-30 |
+| Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 850/2004 o postojanim organskim onečišćujućim tvarima | [`zakon/2019/996/`](zakon/2019/996/) | amending act | 1 | 2019-05-30 | 2019-05-30 |
+| Zakon o izmjenama i dopunama Zakona o međunarodnim mjerama ograničavanja | [`zakon/2019/1235/`](zakon/2019/1235/) | amending act | 1 | 2019-07-06 | 2019-07-06 |
+| Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2019/1291/`](zakon/2019/1291/) | amending act | 1 | 2019-07-18 | 2019-07-18 |
+| Zakon o izmjenama i dopunama Zakona o financiranju vodnoga gospodarstva | [`zakon/2019/1292/`](zakon/2019/1292/) | amending act | 1 | 2019-07-18 | 2019-07-18 |
+| Zakon o izmjenama i dopuni Zakona o zabrani i sprječavanju obavljanja neregistrirane djelatnosti | [`zakon/2019/1293/`](zakon/2019/1293/) | amending act | 1 | 2019-07-18 | 2019-07-18 |
+| Zakon o izmjenama i dopunama Zakona o policiji | [`zakon/2019/1296/`](zakon/2019/1296/) | amending act | 1 | 2019-07-18 | 2019-07-18 |
+| Zakon o izmjenama i dopunama Zakona o policijskim poslovima i ovlastima | [`zakon/2019/1449/`](zakon/2019/1449/) | amending act | 1 | 2019-08-01 | 2019-08-01 |
+| Zakon o dopunama Zakona o kreditnim institucijama | [`zakon/2019/1453/`](zakon/2019/1453/) | amending act | 1 | 2019-08-01 | 2019-08-01 |
+| Zakon o izmjenama i dopunama Zakona o tržištu nafte i naftnih derivata | [`zakon/2019/1862/`](zakon/2019/1862/) | amending act | 1 | 2019-10-17 | 2019-10-17 |
+| Zakon o izmjenama Zakona o vanjskim poslovima | [`zakon/2019/1916/`](zakon/2019/1916/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o protuminskom djelovanju | [`zakon/2019/1917/`](zakon/2019/1917/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o carinskoj službi | [`zakon/2019/1918/`](zakon/2019/1918/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o poreznoj upravi | [`zakon/2019/1919/`](zakon/2019/1919/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o besplatnoj pravnoj pomoći | [`zakon/2019/1920/`](zakon/2019/1920/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o izvlaštenju i određivanju naknade | [`zakon/2019/1921/`](zakon/2019/1921/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine | [`zakon/2019/1922/`](zakon/2019/1922/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o izvršavanju kazne zatvora | [`zakon/2019/1923/`](zakon/2019/1923/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o sprječavanju sukoba interesa | [`zakon/2019/1924/`](zakon/2019/1924/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o izborima zastupnika u Hrvatski sabor | [`zakon/2019/1926/`](zakon/2019/1926/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopunama Zakona o životnom partnerstvu osoba istog spola | [`zakon/2019/1927/`](zakon/2019/1927/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o osobnom imenu | [`zakon/2019/1929/`](zakon/2019/1929/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o registru birača | [`zakon/2019/1930/`](zakon/2019/1930/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o Registru vijeća, koordinacija vijeća i predstavnika nacionalnih manjina | [`zakon/2019/1931/`](zakon/2019/1931/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopuni Zakona o udrugama | [`zakon/2019/1932/`](zakon/2019/1932/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopuni Zakona o zakladama | [`zakon/2019/1933/`](zakon/2019/1933/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o državnim službenicima | [`zakon/2019/1934/`](zakon/2019/1934/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o lokalnim izborima | [`zakon/2019/1937/`](zakon/2019/1937/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o prostornom uređenju | [`zakon/2019/1939/`](zakon/2019/1939/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o radu | [`zakon/2019/1940/`](zakon/2019/1940/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o dadiljama | [`zakon/2019/1941/`](zakon/2019/1941/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o humanitarnoj pomoći | [`zakon/2019/1942/`](zakon/2019/1942/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o socijalnoj skrbi | [`zakon/2019/1943/`](zakon/2019/1943/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Obiteljskog zakona | [`zakon/2019/1944/`](zakon/2019/1944/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o kazalištima | [`zakon/2019/1947/`](zakon/2019/1947/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o arhivskom gradivu i arhivima | [`zakon/2019/1948/`](zakon/2019/1948/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o upravljanju javnim ustanovama u kulturi | [`zakon/2019/1949/`](zakon/2019/1949/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o šumskom reprodukcijskom materijalu | [`zakon/2019/1952/`](zakon/2019/1952/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o poljoprivrednom zemljištu | [`zakon/2019/1954/`](zakon/2019/1954/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o prosvjetnoj inspekciji | [`zakon/2019/1957/`](zakon/2019/1957/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o održivom gospodarenju otpadom | [`zakon/2019/1958/`](zakon/2019/1958/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o pomorskom dobru i morskim lukama | [`zakon/2019/1959/`](zakon/2019/1959/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o povlasticama u unutarnjem putničkom prometu | [`zakon/2019/1960/`](zakon/2019/1960/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o inspekciji cestovnog prometa i cesta | [`zakon/2019/1962/`](zakon/2019/1962/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o zadrugama | [`zakon/2019/1963/`](zakon/2019/1963/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o pogrebničkoj djelatnosti | [`zakon/2019/1964/`](zakon/2019/1964/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o trgovini | [`zakon/2019/1965/`](zakon/2019/1965/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o Državnoj komisiji za kontrolu postupaka javne nabave | [`zakon/2019/1966/`](zakon/2019/1966/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o rudarstvu | [`zakon/2019/1967/`](zakon/2019/1967/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji | [`zakon/2019/1968/`](zakon/2019/1968/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/2019/1969/`](zakon/2019/1969/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o pravima žrtava seksualnog nasilja za vrijeme oružane agresije na Republiku Hrvatsku u Domovinskom ratu | [`zakon/2019/1970/`](zakon/2019/1970/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o obveznom zdravstvenom osiguranju | [`zakon/2019/1971/`](zakon/2019/1971/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o sportu | [`zakon/2019/1972/`](zakon/2019/1972/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o obnovi | [`zakon/2019/1974/`](zakon/2019/1974/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o statusu prognanika i izbjeglica | [`zakon/2019/1975/`](zakon/2019/1975/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o stambenom zbrinjavanju na potpomognutim područjima | [`zakon/2019/1976/`](zakon/2019/1976/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopunama Zakona o poštanskim uslugama | [`zakon/2019/2214/`](zakon/2019/2214/) | amending act | 1 | 2019-11-23 | 2019-11-23 |
+| Zakon o izmjenama i dopunama Zakona o poslovima i djelatnostima prostornog uređenja i gradnje | [`zakon/2019/2215/`](zakon/2019/2215/) | amending act | 1 | 2019-11-23 | 2019-11-23 |
+| Zakon o izmjenama i dopunama Zakona o komori arhitekata i komorama inženjera u graditeljstvu i prostornom uređenju | [`zakon/2019/2216/`](zakon/2019/2216/) | amending act | 1 | 2019-11-23 | 2019-11-23 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2019. godinu | [`zakon/2019/2239/`](zakon/2019/2239/) | amending act | 1 | 2019-11-20 | 2019-11-20 |
+| Zakon o izmjeni i dopuni Zakona o posebnom porezu na motorna vozila | [`zakon/2019/2388/`](zakon/2019/2388/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopunama Zakona o prijevozu u linijskom i povremenom obalnom pomorskom prometu | [`zakon/2019/2390/`](zakon/2019/2390/) | amending act | 1 | 2019-12-19 | 2019-12-19 |
+| Zakon o izmjenama i dopunama Zakona o sudovima za mladež | [`zakon/2019/2528/`](zakon/2019/2528/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopuni Zakona o zaštiti od nasilja u obitelji | [`zakon/2019/2531/`](zakon/2019/2531/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjeni Zakona o Državnoodvjetničkom vijeću | [`zakon/2019/2532/`](zakon/2019/2532/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o prestanku važenja Zakona o provedbi Uredbe (EU) br. 517/2014 Europskog parlamenta i Vijeća od 16. travnja 2014. o fluoriranim stakleničkim plinovima i stavljanju izvan snage Uredbe (EZ) br. 842/2006 | [`zakon/2019/2555/`](zakon/2019/2555/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o prestanku važenja Zakona o provedbi Uredbe (EU) 2015/757 Europskog parlamenta i Vijeća od 29. travnja 2015. o praćenju emisija ugljikova dioksida iz pomorskog prometa, izvješćivanju o njima i njihovoj verifikaciji te o izmjeni Direktive 2009/16/EZ | [`zakon/2019/2556/`](zakon/2019/2556/) | in force | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama i dopuni Zakona o provedbi Uredbe (EZ) br. 1272/2008 Europskoga parlamenta i Vijeća od 16. prosinca 2008. o razvrstavanju, označavanju i pakiranju tvari i smjesa, kojom se izmjenjuju, dopunjuju i ukidaju Direktiva 67/548/EEZ i Direktiva 1999/45/EZ i izmjenjuje i dopunjuje Uredba (EZ) br. 1907/2006 | [`zakon/2019/2558/`](zakon/2019/2558/) | amending act | 1 | 2020-01-01 | 2020-01-01 |
+| Zakon o izmjenama Zakona o zaštiti prirode | [`zakon/2019/2559/`](zakon/2019/2559/) | in force | 1 | 2020-01-04 | 2020-01-04 |
+| Zakon o izmjenama Zakona o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave | [`zakon/2019/2561/`](zakon/2019/2561/) | in force | 1 | 2020-01-02 | 2020-01-02 |
 | Zakon o izmjeni Zakona o obavljanju studentskih poslova | [`zakon/2020/329/`](zakon/2020/329/) | in force | 1 | 2020-02-13 | 2020-02-13 |
 | Zakon o izmjenama i dopunama Zakona o provedbi uredbi Europske unije iz područja platnog prometa | [`zakon/2020/330/`](zakon/2020/330/) | amending act | 1 | 2020-02-20 | 2020-02-20 |
 | Zakon o izmjeni i dopuni Zakona o provedbi uredbi Europske unije o prometu drva i proizvoda od drva | [`zakon/2020/331/`](zakon/2020/331/) | amending act | 1 | 2020-02-20 | 2020-02-20 |
