@@ -1,0 +1,53 @@
+# Odluka o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima
+
+Odluka o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima · 1 versions, from 2012-03-29 (latest in force: 2012-03-29) · <https://narodne-novine.nn.hr/eli/sluzbeni/2012/42/1067>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Naslov | [naslov.md](naslov.md) | 0 |  |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
+| Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `odluka-2012-1067` (tags `odluka-2012-1067/<day>`; `python tools/on.py <day> odluka-2012-1067`).
+
+## Status
+
+**repealed, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o izmjenama i dopunama Odluke o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 49/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/49/958)
+- [Odluka o izmjenama i dopunama Odluke o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 30/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/30/610)
+- [Odluka o osnivanju Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 136/2020)](https://narodne-novine.nn.hr/eli/sluzbeni/2020/136/2593)
+
+Cited by:
+
+- [Rješenje o razrješenju dijela članova Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 79/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/79/1527)
+- [Rješenje o imenovanju dijela članova Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 79/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/79/1528)
+- [Rješenje o razrješenju članice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 125/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/125/2380)
+- [Rješenje o imenovanju članice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 125/2015)](https://narodne-novine.nn.hr/eli/sluzbeni/2015/125/2381)
+- [Rješenje o razrješenju predsjednice, dijela članova, tajnice i zamjenice tajnice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 128/2017)](https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2905)
+- [Rješenje o imenovanje predsjednice, dijela članova, tajnice i zamjenice tajnice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 128/2017)](https://narodne-novine.nn.hr/eli/sluzbeni/2017/128/2906)
+- [Rješenje o razrješenju nacionalnog koordinatora i člana Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 49/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/49/963)
+- [Rješenje o imenovanju nacionalnog koordinatora i člana Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 49/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/49/964)
+- [Rješenje o razrješenju dijela članova Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 77/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/77/1565)
+- [Rješenje o imenovanju dijela članova Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 77/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/77/1566)
+- [Rješenje o razrješenju člana Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 100/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/100/1957)
+- [Rješenje o imenovanju člana Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 100/2018)](https://narodne-novine.nn.hr/eli/sluzbeni/2018/100/1958)
+- [Rješenje o razrješenju predsjednice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 72/2019)](https://narodne-novine.nn.hr/eli/sluzbeni/2019/72/1549)
+- [Rješenje o imenovanju predsjednika Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 72/2019)](https://narodne-novine.nn.hr/eli/sluzbeni/2019/72/1550)
+- [Rješenje o razrješenju dijela članova Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 121/2019)](https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2397)
+- [Rješenje o imenovanju dijela članova Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 121/2019)](https://narodne-novine.nn.hr/eli/sluzbeni/2019/121/2398)
+- [Rješenje o razrješenju članice i zamjenice tajnice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 14/2020)](https://narodne-novine.nn.hr/eli/sluzbeni/2020/14/239)
+- [Rješenje o imenovanju članice i zamjenice tajnice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 14/2020)](https://narodne-novine.nn.hr/eli/sluzbeni/2020/14/240)
+- [Rješenje o razrješenju članice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 56/2020)](https://narodne-novine.nn.hr/eli/sluzbeni/2020/56/1116)
+- [Rješenje o imenovanju članice Nacionalnog odbora za suzbijanje trgovanja ljudima (NN 56/2020)](https://narodne-novine.nn.hr/eli/sluzbeni/2020/56/1117)
+
+## Decisions made by hand
+
+- An act is published here as first printed in Narodne novine, one version, from its page on narodne-novine.nn.hr; the issuer's name, the document number and the signature block (Klasa, Urbroj, place and date, signature) are not part of its text; for a law, the President's proclamation above it is not either.
+- Its one version takes effect on the day its own entry-into-force sentence names: the publication day ("danom objave"), the Nth day after it ("osmoga dana od dana objave" = publication day + 8), a calendar date, the first day of the next month, or the adoption day ("danom donošenja": the ELI date_document, else the place and date above the signature). When the sentence also names another gazette or a website, only a calendar date or the adoption day is read.
+- An act is published once every later document of the official part has been read. When one of them amends, corrects or repeals it by its ELI metadata, names it in an amending, correcting or repealing title, reuses its title, or cites it by name and Narodne novine number with a later number after its own or next to wording that changes or repeals it, the act is published as enacted and labelled ("amended, not consolidated", "repealed, not consolidated", "replaced, not consolidated" or "cited later, not consolidated"), with those documents listed (amended_by, cited_by). Before 2026-11-09 such acts were held back.
+- Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
+- An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
+- Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
