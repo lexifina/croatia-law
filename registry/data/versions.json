@@ -24092,6 +24092,2406 @@
    ]
   },
   {
+   "slug": "pravilnik-2002-1861",
+   "path": "pravilnik/2002/1861",
+   "short": "Pravilnik o postupku i načinu polaganja pomoćničkog ispita",
+   "title": "Pravilnik o postupku i načinu polaganja pomoćničkog ispita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/116/1861",
+   "versions": [
+    {
+     "from": "2002-10-03",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_116_1861.html",
+     "sha256": "a1aa980bb7c4e990294717b0abbc04503fae765365ec0a0c8e62a9c02107ecb3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1872",
+   "path": "pravilnik/2002/1872",
+   "short": "Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima",
+   "title": "Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/117/1872",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_117_1872.html",
+     "sha256": "fdb90e514dd5efb6ec80db037e4532af2cca69fb4b2dcc0196b09bb45c8ef55d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1943",
+   "path": "pravilnik/2002/1943",
+   "short": "Pravilnik o načinu i mjerilima za povezivanje u Sustav muzeja Republike Hrvatske",
+   "title": "Pravilnik o načinu i mjerilima za povezivanje u Sustav muzeja Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1943",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_120_1943.html",
+     "sha256": "da8510b15f814251304fa0badb4e736a648b694f1ba3d72d056857b151aca225"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1944",
+   "path": "pravilnik/2002/1944",
+   "short": "Pravilnik o uvjetima glede prostora, opreme i potrebnih stručnih i drugih djelatnika Centra za socijalnu skrb i podružnice",
+   "title": "Pravilnik o uvjetima glede prostora, opreme i potrebnih stručnih i drugih djelatnika Centra za socijalnu skrb i podružnice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1944",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_120_1944.html",
+     "sha256": "4c9727fcd61d94db5943e5449ec8f35aad71a12b71b0a6169f7965caf9490bb3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1945",
+   "path": "pravilnik/2002/1945",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vrsti doma za djecu i doma za odrasle osobe i njihovoj djelatnosti, te uvjetima glede prostora, opreme i potrebnih stručnih i drugih djelatnika doma socij",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vrsti doma za djecu i doma za odrasle osobe i njihovoj djelatnosti, te uvjetima glede prostora, opreme i potrebnih stručnih i drugih djelatnika doma socij",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1945",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 75,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_120_1945.html",
+     "sha256": "d1775bd1123e4e518bc520dc57d5c50b460fed1fbab03102bf5e0f1d6bbb1679"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1962",
+   "path": "pravilnik/2002/1962",
+   "short": "Pravilnik o uvjetima za oslobađanje od plaćanja doprinosa za osnovno zdravstveno osiguranje poljoprivrednika starijih od 65 godina",
+   "title": "Pravilnik o uvjetima za oslobađanje od plaćanja doprinosa za osnovno zdravstveno osiguranje poljoprivrednika starijih od 65 godina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/122/1962",
+   "versions": [
+    {
+     "from": "2002-10-26",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_122_1962.html",
+     "sha256": "39be963dd028a7853395d13e1d2b81cdcb081c8a167e38c0c0e237d821d02d8c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1996",
+   "path": "pravilnik/2002/1996",
+   "short": "Pravilnik o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih časnika",
+   "title": "Pravilnik o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih časnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/123/1996",
+   "versions": [
+    {
+     "from": "2002-10-16",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_123_1996.html",
+     "sha256": "df53d991f8377c53045b31e9fbf5f68ded6dfe7fd02d67d6d4c0c8d5e6e10615"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1997",
+   "path": "pravilnik/2002/1997",
+   "short": "Pravilnik o dopunama Pravilnika o načinu upisa u sudski registar",
+   "title": "Pravilnik o dopunama Pravilnika o načinu upisa u sudski registar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/123/1997",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_123_1997.html",
+     "sha256": "2942c05099ebe46d7f35ed541b01bdbbcb937d4c7da6402ade64b06984f9f893"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-1998",
+   "path": "pravilnik/2002/1998",
+   "short": "Pravilnik o dopunama Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (Zemljišnoknjižnog poslovnika)",
+   "title": "Pravilnik o dopunama Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (Zemljišnoknjižnog poslovnika)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/123/1998",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_123_1998.html",
+     "sha256": "05693d9f023144aa097813ba5bcd4301df51922330a88dd4d16061b68e2fcc9c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-20",
+   "path": "pravilnik/2002/20",
+   "short": "Pravilnik o izmjenama Pravilnika o kalendaru rada osnovnih škola za školsku 2001./2002. godinu",
+   "title": "Pravilnik o izmjenama Pravilnika o kalendaru rada osnovnih škola za školsku 2001./2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/1/20",
+   "versions": [
+    {
+     "from": "2002-01-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_1_20.html",
+     "sha256": "d812d5f8a2485f1417f3c79c2d954c462e9caac24ff02b0f74baf1012f12c45d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-201",
+   "path": "pravilnik/2002/201",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu korištenja sredstava za kreditiranje razvitka i obnove poljoprivrede",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu korištenja sredstava za kreditiranje razvitka i obnove poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/201",
+   "versions": [
+    {
+     "from": "2002-01-23",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_7_201.html",
+     "sha256": "88ee7c7828937694f68a2d873140880e7227810b44748b7d82271a50ca39e26d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2020",
+   "path": "pravilnik/2002/2020",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o davanju odobrenja za obavljanje poslova ovlaštenim carinskim otpremnicima i ovlaštenim carinskim zastupnicima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o davanju odobrenja za obavljanje poslova ovlaštenim carinskim otpremnicima i ovlaštenim carinskim zastupnicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/125/2020",
+   "versions": [
+    {
+     "from": "2002-11-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_125_2020.html",
+     "sha256": "26d359ee4ac6f2696189186a9d101f2c87106a697c6a484720f88efc5ffae983"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-204",
+   "path": "pravilnik/2002/204",
+   "short": "Pravilnik o izmjenama Pravilnika o sadržaju obrasca R-S",
+   "title": "Pravilnik o izmjenama Pravilnika o sadržaju obrasca R-S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/204",
+   "versions": [
+    {
+     "from": "2002-01-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_7_204.html",
+     "sha256": "692b422b3405da329b89dedaddf524de533b40f5392251752a3e5ba6e9285dd4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2063",
+   "path": "pravilnik/2002/2063",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o Državnoj nagradi športa \"Franjo Bučar\"",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o Državnoj nagradi športa \"Franjo Bučar\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/126/2063",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_126_2063.html",
+     "sha256": "b19263e0412d7a6b944e1d8d848aa93968a02b42aa2a842e0d0557b74c4ff4b1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2065",
+   "path": "pravilnik/2002/2065",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca R-S",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca R-S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/126/2065",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_126_2065.html",
+     "sha256": "ccf3a52efe70446f7bac2cccbea1e435b6afcab38c3c1996a4d23bb2473dc45a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2070",
+   "path": "pravilnik/2002/2070",
+   "short": "Pravilnik o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih vojnika i dočasnika",
+   "title": "Pravilnik o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih vojnika i dočasnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/127/2070",
+   "versions": [
+    {
+     "from": "2002-10-16",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_127_2070.html",
+     "sha256": "abbaaeb9e61691bca5cc4caced0b1601381a2ebd542afeddfd528a8619eb4f2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2071",
+   "path": "pravilnik/2002/2071",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za mjerila kojima se korigira obujam proteklog plina",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za mjerila kojima se korigira obujam proteklog plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/127/2071",
+   "versions": [
+    {
+     "from": "2002-11-08",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_127_2071.html",
+     "sha256": "6b404d8d39cc5c45749a3339f5742fccec39c8cc1bcde5c606aa885667c06b7d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2074",
+   "path": "pravilnik/2002/2074",
+   "short": "PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O IZDAVANJU ODOBRENJA ZA RAD MIROVINSKOG OSIGURAVAJUĆEG DRUŠTVA",
+   "title": "PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O IZDAVANJU ODOBRENJA ZA RAD MIROVINSKOG OSIGURAVAJUĆEG DRUŠTVA",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/128/2074",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_128_2074.html",
+     "sha256": "5924d8f274ad120f5186feee84ddd18a9320d280151a3a72b1b20de1c5d8e040"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2075",
+   "path": "pravilnik/2002/2075",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o dodatnim kriterijima ulaganja i investicijskim ograničenjima mirovinskih fondova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o dodatnim kriterijima ulaganja i investicijskim ograničenjima mirovinskih fondova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/128/2075",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_128_2075.html",
+     "sha256": "6f26bffd9d2ec56202eed808b62e64393205626a21834ab019627c3c30f1a82f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2076",
+   "path": "pravilnik/2002/2076",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o dokumentaciji koja se prilaže zahtjevu za autorizaciju",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o dokumentaciji koja se prilaže zahtjevu za autorizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/128/2076",
+   "versions": [
+    {
+     "from": "2002-11-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_128_2076.html",
+     "sha256": "410db0bc8f3f9728e46f2b20e36457b06ce801e8a23ff6c1dbd013bc55760bf6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-21",
+   "path": "pravilnik/2002/21",
+   "short": "Pravilnik o izmjenama Pravilnika o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2001./2002.",
+   "title": "Pravilnik o izmjenama Pravilnika o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2001./2002.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/1/21",
+   "versions": [
+    {
+     "from": "2002-01-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_1_21.html",
+     "sha256": "b75833fb3e4a43719bc543a8eb483df19ef94b7bdc1cad56d81003a4390795c9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-216",
+   "path": "pravilnik/2002/216",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o brodicama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o brodicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/8/216",
+   "versions": [
+    {
+     "from": "2002-02-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_8_216.html",
+     "sha256": "57a5a102b72835ed672065ca0459da295d8f00cae19927214aa4d466c712b73a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-220",
+   "path": "pravilnik/2002/220",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijevoza opasnih tvari u cestovnom prometu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijevoza opasnih tvari u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/220",
+   "versions": [
+    {
+     "from": "2002-01-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_220.html",
+     "sha256": "c08f52fb7df4dc3eb8e004d0090017144aa74a27907e4b8804034a26c438aa27"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-222",
+   "path": "pravilnik/2002/222",
+   "short": "Pravilnik u uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanja areometara i alkoholometara",
+   "title": "Pravilnik u uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanja areometara i alkoholometara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/222",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_222.html",
+     "sha256": "5d57146882cfa2fb22d02147c8f82137269d7103b58862a04517da5f5121cab5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-223",
+   "path": "pravilnik/2002/223",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje medicinskih injekcijskih štrcaljki",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje medicinskih injekcijskih štrcaljki",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/223",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_223.html",
+     "sha256": "aad50d74380601756bacf8e331820fe9a5db1f45dfb7854aebf0b2cd0e3d5e5a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-225",
+   "path": "pravilnik/2002/225",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za medicinske injekcijske štrcaljke",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za medicinske injekcijske štrcaljke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/225",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_225.html",
+     "sha256": "b26b32762287c18a7b78a3e39f55141b8408a5ace161e5c09bc2e8a08dd18b9e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-226",
+   "path": "pravilnik/2002/226",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje uklopnih satova",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje uklopnih satova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/226",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_226.html",
+     "sha256": "9add55a0930cf94a036a19360c2e9b5c11ae970af69998e5c273266c12a12265"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2263",
+   "path": "pravilnik/2002/2263",
+   "short": "Pravilnik o uvjetima i načinu korištenja godišnjeg odmora djelatnih vojnih osoba, službenika i namještenika",
+   "title": "Pravilnik o uvjetima i načinu korištenja godišnjeg odmora djelatnih vojnih osoba, službenika i namještenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/140/2263",
+   "versions": [
+    {
+     "from": "2002-12-06",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_140_2263.html",
+     "sha256": "828816d9993c9a7c7981b456b38cc66e23955d1ab74d6e39ab2164fa723d24ea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2267",
+   "path": "pravilnik/2002/2267",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima za kakvoću, pakiranje i deklariranje sjemena poljoprivrednog bilja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima za kakvoću, pakiranje i deklariranje sjemena poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/140/2267",
+   "versions": [
+    {
+     "from": "2002-11-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_140_2267.html",
+     "sha256": "c1a63bf091c55ba6729f840455f362e91329615407d0eed9ec905d4f1660ef21"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-227",
+   "path": "pravilnik/2002/227",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za tlakomjere za gume",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za tlakomjere za gume",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/227",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_227.html",
+     "sha256": "22ab4bcc70d389144377704c1d511551a8f92c6f1052775c40498ea0f66ad1a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-228",
+   "path": "pravilnik/2002/228",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za laktodenzimetre",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za laktodenzimetre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/228",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_228.html",
+     "sha256": "546035a3855bcd1970b22aa2c711b009df91c8676e5dc205354912f1defc7e3c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-229",
+   "path": "pravilnik/2002/229",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za butirometre",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za butirometre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/229",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_229.html",
+     "sha256": "9b76b12a2770360c312a2326271d2fdc41e95aced92cfc69c1563045d1fe87c4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2293",
+   "path": "pravilnik/2002/2293",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o nadzoru osovinskog pritiska, ukupno dozvoljene mase i dimenzija vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o nadzoru osovinskog pritiska, ukupno dozvoljene mase i dimenzija vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/141/2293",
+   "versions": [
+    {
+     "from": "2002-12-07",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_141_2293.html",
+     "sha256": "c1baf747853ee70dac4beae2b9236fb5b1a2abb10a8c0daa00fc6dc7484b0f28"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2294",
+   "path": "pravilnik/2002/2294",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o visini godišnje naknade za uporabu javnih cesta što se plaća pri registraciji motornih i priključnih vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o visini godišnje naknade za uporabu javnih cesta što se plaća pri registraciji motornih i priključnih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/141/2294",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_141_2294.html",
+     "sha256": "e862abac0825fa17bff3154dd89b8e57b812e60784da59a4df60f0ee21e8cf35"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2295",
+   "path": "pravilnik/2002/2295",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz ukupnih prihoda Hrvatskih cesta d.o.o. u 2002. godini",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz ukupnih prihoda Hrvatskih cesta d.o.o. u 2002. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/141/2295",
+   "versions": [
+    {
+     "from": "2002-11-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_11_141_2295.html",
+     "sha256": "701ad822f851d201ca3ec9bb0c341d4eced01c28eb36998580f777a222ff455f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-23",
+   "path": "pravilnik/2002/23",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o dodjeljivanju državnih stipendija i pripomoći studentima dodiplomskih i poslijediplomskih studija te poslijedoktorandima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o dodjeljivanju državnih stipendija i pripomoći studentima dodiplomskih i poslijediplomskih studija te poslijedoktorandima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/1/23",
+   "versions": [
+    {
+     "from": "2002-01-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_1_23.html",
+     "sha256": "960f9ac3984c81e6da4dacd2dab19e727baf25a3a09ca52e63290e555f85c0db"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-230",
+   "path": "pravilnik/2002/230",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje butirometara",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje butirometara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/230",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_230.html",
+     "sha256": "1bbfe4640cb8e63fda2ce43a445311c1cf65ba1beeb0b2e4439b932281564dcf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2309",
+   "path": "pravilnik/2002/2309",
+   "short": "Pravilnik o sadržaju zahtjeva za izdavanje i postupku izdavanja dozvola ovlaštenim društvima i osobama ovlaštenim za obavljanje poslova s vrijednosnim papirima",
+   "title": "Pravilnik o sadržaju zahtjeva za izdavanje i postupku izdavanja dozvola ovlaštenim društvima i osobama ovlaštenim za obavljanje poslova s vrijednosnim papirima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/143/2309",
+   "versions": [
+    {
+     "from": "2002-12-03",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_143_2309.html",
+     "sha256": "daf46d3fbb08c5622c73c9d87fb6290307c5347df80b146871f2b9b6c81a40a3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-231",
+   "path": "pravilnik/2002/231",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje mjerila vlažnosti zrna žitarica i sjemenki uljarica",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje mjerila vlažnosti zrna žitarica i sjemenki uljarica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/9/231",
+   "versions": [
+    {
+     "from": "2002-02-02",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_9_231.html",
+     "sha256": "61832c3d54e4498e60677a26064d8a6ccc78a6595c3849a00e322a448a7fd70c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2321",
+   "path": "pravilnik/2002/2321",
+   "short": "Pravilnik o lakim povredama službene dužnosti",
+   "title": "Pravilnik o lakim povredama službene dužnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/144/2321",
+   "versions": [
+    {
+     "from": "2002-12-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_144_2321.html",
+     "sha256": "6d948e0ca49322e44b3d56922c0acefdad306418bd65c7ae948b9ee8ecbb86e8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2327",
+   "path": "pravilnik/2002/2327",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o obrascima državnih matica, registru, izvacima i potvrdama koji se izdaju na temelju državnih matica",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o obrascima državnih matica, registru, izvacima i potvrdama koji se izdaju na temelju državnih matica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/145/2327",
+   "versions": [
+    {
+     "from": "2002-12-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_145_2327.html",
+     "sha256": "703ba9fc99c9ea6ca6c743c7eaeae02990aef1ae16daed72ddc85f79454f242e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2328",
+   "path": "pravilnik/2002/2328",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o sadržaju i obliku potvrde za sklapanje braka",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o sadržaju i obliku potvrde za sklapanje braka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/145/2328",
+   "versions": [
+    {
+     "from": "2002-12-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_145_2328.html",
+     "sha256": "5e6fe54f58e66b864eadde2eda14e0a2858ec406c998b368447faab7d8a6297b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2336",
+   "path": "pravilnik/2002/2336",
+   "short": "Pravilnik o izmjenama Pravilnika o naknadama za obavljanje poslova u prethodnom kaznenom postupku",
+   "title": "Pravilnik o izmjenama Pravilnika o naknadama za obavljanje poslova u prethodnom kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/146/2336",
+   "versions": [
+    {
+     "from": "2002-12-14",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_146_2336.html",
+     "sha256": "b26c1229f9e71039ec5d791ec81ee154e0f192d18c44c4ef200e8b3d1108fb87"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2368",
+   "path": "pravilnik/2002/2368",
+   "short": "Pravilnik o ostvarivanju prava na naknadu za učenje hrvatskog jezika i stipendiranje iseljenika, useljenika i pripadnika hrvatske nacionalne manjine",
+   "title": "Pravilnik o ostvarivanju prava na naknadu za učenje hrvatskog jezika i stipendiranje iseljenika, useljenika i pripadnika hrvatske nacionalne manjine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/148/2368",
+   "versions": [
+    {
+     "from": "2002-12-11",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_148_2368.html",
+     "sha256": "8c5764186c7468966eedf237d3546c18ab5807a4eaf03cd643fa86686f012c54"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2370",
+   "path": "pravilnik/2002/2370",
+   "short": "Pravilnik o izmjenama Pravilnika o matičnom broju",
+   "title": "Pravilnik o izmjenama Pravilnika o matičnom broju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/148/2370",
+   "versions": [
+    {
+     "from": "2002-12-19",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_148_2370.html",
+     "sha256": "427030a1dfafd62b211725f1198f943e3f9e0c95c98f3e721057141516a18ea4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2371",
+   "path": "pravilnik/2002/2371",
+   "short": "Pravilnik o izmjenama Pravilnika oobrascima i evidenciji putnih isprava hrvatskih državljana",
+   "title": "Pravilnik o izmjenama Pravilnika oobrascima i evidenciji putnih isprava hrvatskih državljana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/148/2371",
+   "versions": [
+    {
+     "from": "2002-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_148_2371.html",
+     "sha256": "2a9cd27c34eb0d6946c0b69a55184306a4c415c5195a219cf1fcaa09daabbf37"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2372",
+   "path": "pravilnik/2002/2372",
+   "short": "Pravilnik o izmjenama Pravilnika o obrascima isprava te obrascima i načinu vođenja evidencija o oružju i streljivu",
+   "title": "Pravilnik o izmjenama Pravilnika o obrascima isprava te obrascima i načinu vođenja evidencija o oružju i streljivu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/148/2372",
+   "versions": [
+    {
+     "from": "2002-12-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_148_2372.html",
+     "sha256": "19fea02bf5f72694fda6ee0efa976c29c1f31ccc5460cad0aaf8f5a58b39da48"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2392",
+   "path": "pravilnik/2002/2392",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o registraciji vozila na motorni pogon i priključnih vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o registraciji vozila na motorni pogon i priključnih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2392",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2392.html",
+     "sha256": "3f34d943db9a7085f6015a49aa43c3f018525e5f6b126ac75f7411b515e1f918"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2393",
+   "path": "pravilnik/2002/2393",
+   "short": "Pravilnik o izmjenama Pravilnika o vozačkim dozvolama",
+   "title": "Pravilnik o izmjenama Pravilnika o vozačkim dozvolama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2393",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2393.html",
+     "sha256": "6f7d5d19a4fd64884b0bd453d26ccfe087b98b7ab39e62ce9c7b1165ab5ea6c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2394",
+   "path": "pravilnik/2002/2394",
+   "short": "Pravilnik o izmjenama Pravilnika o detektivskoj iskaznici",
+   "title": "Pravilnik o izmjenama Pravilnika o detektivskoj iskaznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2394",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2394.html",
+     "sha256": "5b72a7c78694ec95f2a74a9ce62a0f17c484a3edc4ded1315ebfbeb3177f2ff1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2395",
+   "path": "pravilnik/2002/2395",
+   "short": "Pravilnik o izmjenama Pravilnika o dozvoli za miniranje",
+   "title": "Pravilnik o izmjenama Pravilnika o dozvoli za miniranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2395",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2395.html",
+     "sha256": "df76657e306a5aa296c9aca7e862094c1af87c802b65aa0a4ce459e4a3f25120"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2396",
+   "path": "pravilnik/2002/2396",
+   "short": "Pravilnik o izmjenama Pravilnika o iskaznici ovlaštenih osoba za obavljanje određenih poslova kontrole zaštite od požara",
+   "title": "Pravilnik o izmjenama Pravilnika o iskaznici ovlaštenih osoba za obavljanje određenih poslova kontrole zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2396",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2396.html",
+     "sha256": "f4cc398ff4510b97e4e7561792474be4f51dec9f1f5e5de08e49f7541f3a3c14"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2397",
+   "path": "pravilnik/2002/2397",
+   "short": "Pravilnik o izmjenama Pravilnika o tehničkim pregledima vozila",
+   "title": "Pravilnik o izmjenama Pravilnika o tehničkim pregledima vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2397",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2397.html",
+     "sha256": "2ac15d05c2c63d9d16891c695c16dec88ec9fec1c865fb3c1da4e6f958ad9e96"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2398",
+   "path": "pravilnik/2002/2398",
+   "short": "Pravilnik o izmjenama Pravilnika o obrascima i evidenciji prijave prebivališta i boravišta građana",
+   "title": "Pravilnik o izmjenama Pravilnika o obrascima i evidenciji prijave prebivališta i boravišta građana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2398",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2398.html",
+     "sha256": "84dcbe6bf61ef92179e2442a778945281e4b997cb04e1ed70d8fe5d9fbf53b6d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2399",
+   "path": "pravilnik/2002/2399",
+   "short": "Pravilnik o izmjeni Pravilnika o obuci i ispitima pirotehničara i pomoćnih djelatnika",
+   "title": "Pravilnik o izmjeni Pravilnika o obuci i ispitima pirotehničara i pomoćnih djelatnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2399",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2399.html",
+     "sha256": "1e2bb5657253941086cc4b2c96b34b7de5134ef55bc365c790efd8a64c75ab0a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-24",
+   "path": "pravilnik/2002/24",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o općim uvjetima koje moraju zadovoljiti ovlašteni laboratoriji i ovlaštene pravne osobe za provedbu potvrđivanja i načinu provedbe postupka ovlašćivanja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o općim uvjetima koje moraju zadovoljiti ovlašteni laboratoriji i ovlaštene pravne osobe za provedbu potvrđivanja i načinu provedbe postupka ovlašćivanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/1/24",
+   "versions": [
+    {
+     "from": "2002-01-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_1_24.html",
+     "sha256": "b5382f6fcaae71dba4d1fd5dc66e3fe0f9f27efb3b68a4bd7bf1959d48460f0f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2400",
+   "path": "pravilnik/2002/2400",
+   "short": "Pravilnik o izmjenama Pravilnika o zaštitarskoj iskaznici",
+   "title": "Pravilnik o izmjenama Pravilnika o zaštitarskoj iskaznici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2400",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2400.html",
+     "sha256": "e3cc2a906152d9586ab6ad0ebfd2e2741424a7876981ff0d5f2e8271dbcee2da"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2401",
+   "path": "pravilnik/2002/2401",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu obavljanja poslova razminiranja",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu obavljanja poslova razminiranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2401",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2401.html",
+     "sha256": "70e8352228457d585e6bfed9001f1396aee3507a0ae7ec1fa58235a9fdd71cbc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2405",
+   "path": "pravilnik/2002/2405",
+   "short": "Pravilnik o određivanju visine naknade štete nanesene ribama",
+   "title": "Pravilnik o određivanju visine naknade štete nanesene ribama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/149/2405",
+   "versions": [
+    {
+     "from": "2002-12-21",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_149_2405.html",
+     "sha256": "f42fb6402bc2f1af973c546a74e426f835b4cf2920596b8545f79a7ac3622063"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2458",
+   "path": "pravilnik/2002/2458",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima za davanje u zakup zdravstvenih ustanova primarne zdravstvene zaštite i lječilišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/150/2458",
+   "versions": [
+    {
+     "from": "2002-12-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_150_2458.html",
+     "sha256": "273bd936e12c7b4cc8463ce71cdd3242394b7ff8380a62f94a63869156663e5d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2460",
+   "path": "pravilnik/2002/2460",
+   "short": "Pravilnik o načinu obavljanja veterinarsko-sanitarnog pregleda i kontrole nojeva",
+   "title": "Pravilnik o načinu obavljanja veterinarsko-sanitarnog pregleda i kontrole nojeva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/150/2460",
+   "versions": [
+    {
+     "from": "2002-12-25",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_150_2460.html",
+     "sha256": "8fc703163de8080ff640cda15f63ea08e5a5963aeca1cd5f726224c65fecdeed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2465",
+   "path": "pravilnik/2002/2465",
+   "short": "Pravilnik o Stalnom izbranom sudištu pri Hrvatskoj gospodarskoj komori",
+   "title": "Pravilnik o Stalnom izbranom sudištu pri Hrvatskoj gospodarskoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/150/2465",
+   "versions": [
+    {
+     "from": "2002-12-25",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_150_2465.html",
+     "sha256": "ea8264651ff39fe5a2c17dd6588b096e2c79e0bb0b4dddc8874014c886938e05"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2466",
+   "path": "pravilnik/2002/2466",
+   "short": "Pravilnik o arbitraži pri Stalnom izbranom sudištu Hrvatske gospodarske komore (Zagrebačka pravila)",
+   "title": "Pravilnik o arbitraži pri Stalnom izbranom sudištu Hrvatske gospodarske komore (Zagrebačka pravila)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/150/2466",
+   "versions": [
+    {
+     "from": "2002-12-25",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_150_2466.html",
+     "sha256": "016ca0059b9ede035df52a1c65db3a55b887fd5ba759a4c3d29e5871126fedc8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2477",
+   "path": "pravilnik/2002/2477",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o posebnim uvjetima koje moraju ispunjavati pravne osobe koje se bave proizvodnjom, prometom, uporabom ili zbrinjavanjem otrova i o uvjetima koje moraju ispun",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o posebnim uvjetima koje moraju ispunjavati pravne osobe koje se bave proizvodnjom, prometom, uporabom ili zbrinjavanjem otrova i o uvjetima koje moraju ispun",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/151/2477",
+   "versions": [
+    {
+     "from": "2002-12-26",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_151_2477.html",
+     "sha256": "8de0c96a03c09d74d420a15d665a08bae294b1ea971b59e8787dda6ef43bde6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2479",
+   "path": "pravilnik/2002/2479",
+   "short": "Pravilnik o dodjeljivanju državnih stipendija redovitim studentima dodiplomskih studija i naknada dijela troškova školarine studentima poslijediplomskih studija",
+   "title": "Pravilnik o dodjeljivanju državnih stipendija redovitim studentima dodiplomskih studija i naknada dijela troškova školarine studentima poslijediplomskih studija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/151/2479",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_151_2479.html",
+     "sha256": "539234963c99f337ce5853b8740200040f9719ffa26035b7278622e862d4d482"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2490",
+   "path": "pravilnik/2002/2490",
+   "short": "Pravilnik o visini naknade za sabiranje i toplinsku preradu otpada životinjskog podrijetla",
+   "title": "Pravilnik o visini naknade za sabiranje i toplinsku preradu otpada životinjskog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/152/2490",
+   "versions": [
+    {
+     "from": "2002-12-19",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_152_2490.html",
+     "sha256": "23179caa8132cc0f0039228a33cac40b80f1c872f6af4ac3b4a2b37780659ad3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2492",
+   "path": "pravilnik/2002/2492",
+   "short": "Pravilnik o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "title": "Pravilnik o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/152/2492",
+   "versions": [
+    {
+     "from": "2002-12-27",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_152_2492.html",
+     "sha256": "fb4b82d8091b961b5e92427aae379c56500c47819bf0a0fb0650dbe165cd260b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2501",
+   "path": "pravilnik/2002/2501",
+   "short": "Pravilnik o utvrđivanju cijene osobne iskaznice",
+   "title": "Pravilnik o utvrđivanju cijene osobne iskaznice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2501",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_153_2501.html",
+     "sha256": "2b874f93f11f78be1a33a9e1a979c4736fc94f3945b277194d64f0ecc8e54980"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2502",
+   "path": "pravilnik/2002/2502",
+   "short": "Pravilnik o izmjenama Pravilnika o minimalnim tehničkim uvjetima za poslovne prostorije u kojima se obavlja trgovina i posredovanje u trgovini i uvjetima za prodaju robe izvan prostorija",
+   "title": "Pravilnik o izmjenama Pravilnika o minimalnim tehničkim uvjetima za poslovne prostorije u kojima se obavlja trgovina i posredovanje u trgovini i uvjetima za prodaju robe izvan prostorija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2502",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_153_2502.html",
+     "sha256": "503aa6fb6311963d1e02cd3fb376da8313328256148a676f74441acec561a413"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2503",
+   "path": "pravilnik/2002/2503",
+   "short": "Pravilnik o izmjeni i dopunama Pravilnika o pružanju ugostiteljskih usluga u pokretnim objektima",
+   "title": "Pravilnik o izmjeni i dopunama Pravilnika o pružanju ugostiteljskih usluga u pokretnim objektima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2503",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_153_2503.html",
+     "sha256": "3b2514be672b3679037fde6124185514b9149b461ef8370b73d31edc134a5987"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2504",
+   "path": "pravilnik/2002/2504",
+   "short": "Pravilnik o izmjeni Pravilnika o iskaznici turističkog vodiča",
+   "title": "Pravilnik o izmjeni Pravilnika o iskaznici turističkog vodiča",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2504",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_153_2504.html",
+     "sha256": "ddfb841eeb37dad0bea99981e8d22dfc668a8e32db7f16954522eef7d91f7895"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2505",
+   "path": "pravilnik/2002/2505",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o Upisniku ugovora o zastupanju turističkih zastupnika",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o Upisniku ugovora o zastupanju turističkih zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/153/2505",
+   "versions": [
+    {
+     "from": "2002-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_153_2505.html",
+     "sha256": "5bd89606c65d76f53a4db0f9246efcbbf5bac8aff061c12398d08f01a8692c81"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2567",
+   "path": "pravilnik/2002/2567",
+   "short": "Pravilnik o doprinosima za obvezna osiguranja",
+   "title": "Pravilnik o doprinosima za obvezna osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/158/2567",
+   "versions": [
+    {
+     "from": "2002-12-30",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_158_2567.html",
+     "sha256": "547aebf94d4aa89d17a765e2bb36ce2b4156b612a2533f8b5b99fe890a3d854f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-2569",
+   "path": "pravilnik/2002/2569",
+   "short": "Pravilnik o priređivanju nagradnih igara",
+   "title": "Pravilnik o priređivanju nagradnih igara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/158/2569",
+   "versions": [
+    {
+     "from": "2003-01-07",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_12_158_2569.html",
+     "sha256": "8415e42f77c0ea8518a000a2b27e96389a86178cfee90d71e39dfa5c3c59bc6c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-300",
+   "path": "pravilnik/2002/300",
+   "short": "Pravilnik o provođenju izbora za radničko vijeće",
+   "title": "Pravilnik o provođenju izbora za radničko vijeće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/12/300",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_12_300.html",
+     "sha256": "36d95a3454f13ca914d35ffb328e5feeb55c742a34007567df1ea106e0c58cda"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-301",
+   "path": "pravilnik/2002/301",
+   "short": "Pravilnik o unutarnjem redu u Parku prirode \"Velebit\"",
+   "title": "Pravilnik o unutarnjem redu u Parku prirode \"Velebit\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/12/301",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 112,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_12_301.html",
+     "sha256": "af3b94a52713420431cf2308bdc434fcd184764e5987e06adf67b277d5cc5a95"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-303",
+   "path": "pravilnik/2002/303",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi obrazaca platnog prometa",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obliku, sadržaju i uporabi obrazaca platnog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/12/303",
+   "versions": [
+    {
+     "from": "2002-02-06",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_12_303.html",
+     "sha256": "d51e3e011a027d85fb4ab41060241fafd18ade37011ce2e923cbeaceae82c082"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-323",
+   "path": "pravilnik/2002/323",
+   "short": "Pravilnik o preradi u ekološkoj proizvodnji",
+   "title": "Pravilnik o preradi u ekološkoj proizvodnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/13/323",
+   "versions": [
+    {
+     "from": "2002-02-16",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_13_323.html",
+     "sha256": "e6a5bfef469c0cb4ab45e0869da30599cb6cbb9a71820d80ec2f575a5b38afb2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-324",
+   "path": "pravilnik/2002/324",
+   "short": "Pravilnik o ekološkoj proizvodnji životinjskih proizvoda",
+   "title": "Pravilnik o ekološkoj proizvodnji životinjskih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/13/324",
+   "versions": [
+    {
+     "from": "2002-02-16",
+     "units": 143,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_13_324.html",
+     "sha256": "8f11f731c3949d788bb19346d46f64834c10878778f6376786a12850f4604f88"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-325",
+   "path": "pravilnik/2002/325",
+   "short": "Pravilnik o deklaraciji ekoloških proizvoda",
+   "title": "Pravilnik o deklaraciji ekoloških proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/13/325",
+   "versions": [
+    {
+     "from": "2002-02-16",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_13_325.html",
+     "sha256": "bbc3329e8cf47fe75f11095514750888aa4ee3f775ec4e030fe1a41170d6d569"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-326",
+   "path": "pravilnik/2002/326",
+   "short": "Pravilnik o uvjetima i načinu upisa u upisnike ekološke proizvodnje poljoprivrednih i prehrambenih proizvoda",
+   "title": "Pravilnik o uvjetima i načinu upisa u upisnike ekološke proizvodnje poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/13/326",
+   "versions": [
+    {
+     "from": "2002-02-16",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_13_326.html",
+     "sha256": "f595ffa04422d31d4c9292e8de8ba670d120540e31408375bfe22c911c81e4e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-348",
+   "path": "pravilnik/2002/348",
+   "short": "Pravilnik o temeljnim zahtjevima za zamjenske sklopove kočnih obloga",
+   "title": "Pravilnik o temeljnim zahtjevima za zamjenske sklopove kočnih obloga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/14/348",
+   "versions": [
+    {
+     "from": "2002-02-13",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_14_348.html",
+     "sha256": "c4f72483d853b170d192d6261953385c786016a1d84c65c01056aafa0fdc49f5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-394",
+   "path": "pravilnik/2002/394",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca R-S",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca R-S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/16/394",
+   "versions": [
+    {
+     "from": "2002-02-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_16_394.html",
+     "sha256": "e3e6bea04c93dd11785bea1a607d7aa66d4e6062a2a6feffb5bc749a1c0fb85d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-398",
+   "path": "pravilnik/2002/398",
+   "short": "Pravilnik o sadržaju izjave o pravima i obvezama policijskih službenika",
+   "title": "Pravilnik o sadržaju izjave o pravima i obvezama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/398",
+   "versions": [
+    {
+     "from": "2002-03-02",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_17_398.html",
+     "sha256": "8779b252d8f9a550a66351c3f2c2cbe53b5ece0715894ba505dee33d41eee7d7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-399",
+   "path": "pravilnik/2002/399",
+   "short": "Pravilnik o dopuni Pravilnika o obuci i ispitima pirotehničara i pomoćnih djelatnika",
+   "title": "Pravilnik o dopuni Pravilnika o obuci i ispitima pirotehničara i pomoćnih djelatnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/399",
+   "versions": [
+    {
+     "from": "2002-03-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_17_399.html",
+     "sha256": "738a8bf96123b27dcf58b49ab5975e3ee93eba00ceef8468de5d8464985c826e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-400",
+   "path": "pravilnik/2002/400",
+   "short": "Pravilnik o izmjeni Pravilnika o obrascima isprava te obrascima i načinu vođenja evidencija o oružju i streljivu",
+   "title": "Pravilnik o izmjeni Pravilnika o obrascima isprava te obrascima i načinu vođenja evidencija o oružju i streljivu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/400",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_17_400.html",
+     "sha256": "3edb9c9969f6eb5124c86b73f58f4b6541065f86d9135111110ab62cac752665"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-406",
+   "path": "pravilnik/2002/406",
+   "short": "Pravilnik o obavljanju nadzora nad poslovanjem Središnjeg registra osiguranika",
+   "title": "Pravilnik o obavljanju nadzora nad poslovanjem Središnjeg registra osiguranika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/406",
+   "versions": [
+    {
+     "from": "2002-03-02",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_17_406.html",
+     "sha256": "729e71eb96beb7356a3382d65cea5d9209f4468d771e84eb7c80801f80ec5dd6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-407",
+   "path": "pravilnik/2002/407",
+   "short": "Pravilnik o izdavanju ovlaštenja aktuaru u mirovinskom osiguravajućem društvu",
+   "title": "Pravilnik o izdavanju ovlaštenja aktuaru u mirovinskom osiguravajućem društvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/407",
+   "versions": [
+    {
+     "from": "2002-03-02",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_17_407.html",
+     "sha256": "04c0254483d4072802b9865bcee07b6dd0614ca4f19a448a157797c0e048f3cb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-408",
+   "path": "pravilnik/2002/408",
+   "short": "Pravilnik o dobrovoljnim mirovinskim programima",
+   "title": "Pravilnik o dobrovoljnim mirovinskim programima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/17/408",
+   "versions": [
+    {
+     "from": "2002-03-02",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_17_408.html",
+     "sha256": "882c0ee5b28cb82ef4fc7eaf66608078628d561894ce970bc84313b97a01dadb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-435",
+   "path": "pravilnik/2002/435",
+   "short": "Pravilnik o radu liječničkih povjerenstava u postupku za ostvarivanje prava po Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Pravilnik o radu liječničkih povjerenstava u postupku za ostvarivanje prava po Zakonu o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/435",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_435.html",
+     "sha256": "4f324ce22525f0cc355dcfc3facbd01294615bcdfad101953ebc418cc0593279"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-436",
+   "path": "pravilnik/2002/436",
+   "short": "Pravilnik o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata",
+   "title": "Pravilnik o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/436",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_436.html",
+     "sha256": "928390d15f0b4d922d74e13dabdfee11be6b024d38f851fa65671c8a7f304efd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-437",
+   "path": "pravilnik/2002/437",
+   "short": "Pravilnik o medicinskim indikacijama za razvrstavanje HRVI iz Domovinskog rata od I. do IV. skupine prema stupnju potrebe za njegom i pomoći druge osobe",
+   "title": "Pravilnik o medicinskim indikacijama za razvrstavanje HRVI iz Domovinskog rata od I. do IV. skupine prema stupnju potrebe za njegom i pomoći druge osobe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/437",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_437.html",
+     "sha256": "fc8ba1bb73b52e7bb8729bef6587e4cf6bb49734ad2efe3b630727ec9e21a2cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-438",
+   "path": "pravilnik/2002/438",
+   "short": "Pravilnik o oštećenju organizma po osnovi kojih HRVI iz Domovinskog rata ima pravo na ortopedski doplatak i razvrstavanju tih oštećenja u stupnjeve",
+   "title": "Pravilnik o oštećenju organizma po osnovi kojih HRVI iz Domovinskog rata ima pravo na ortopedski doplatak i razvrstavanju tih oštećenja u stupnjeve",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/438",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_438.html",
+     "sha256": "62058c397d3652f260443916bc76af193866a33372ece8ba5e8c0e5f594ee463"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-439",
+   "path": "pravilnik/2002/439",
+   "short": "Pravilnik o radu Povjerenstva za reviziju",
+   "title": "Pravilnik o radu Povjerenstva za reviziju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/439",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_439.html",
+     "sha256": "10b4d5259ebe3828bc1e5ee2fe76e07da3acdf4715721ebc20dd532c0c14c8bf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-440",
+   "path": "pravilnik/2002/440",
+   "short": "Pravilnik o dodjeli besplatnih udžbenika",
+   "title": "Pravilnik o dodjeli besplatnih udžbenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/440",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_440.html",
+     "sha256": "4ace60fc17e9b39b4341ab9827c2f35a119ee20d059b506e6455058a2a6339d9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-441",
+   "path": "pravilnik/2002/441",
+   "short": "Pravilnik o jedinstvenom registru hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Pravilnik o jedinstvenom registru hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/441",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_441.html",
+     "sha256": "d3d7bf540bae9b89928963797743ca7e6331c520d2bef2ace3fa6fb542f412fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-442",
+   "path": "pravilnik/2002/442",
+   "short": "Pravilnik o uvjetima i načinu korištenja sredstava naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta",
+   "title": "Pravilnik o uvjetima i načinu korištenja sredstava naknade koja se plaća zbog promjene namjene poljoprivrednog zemljišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/442",
+   "versions": [
+    {
+     "from": "2002-02-27",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_442.html",
+     "sha256": "65d55bb5f1d3b3d61af8b4e317aa3aed4a473c9311f867d6754f08309e20754f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-445",
+   "path": "pravilnik/2002/445",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za uređaje kojima se mjeri krvni tlak",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za uređaje kojima se mjeri krvni tlak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/445",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_445.html",
+     "sha256": "88b67f48dfd13f2af1c6a8fb8068885c6a01a73240a3e7d9ce347534d0381a36"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-446",
+   "path": "pravilnik/2002/446",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za manometre, vakuumometre i manovakuumometre",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za manometre, vakuumometre i manovakuumometre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/446",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_446.html",
+     "sha256": "fbc2250d231a6133dc6afff151b582a7a61c472a465a7063342eddd77b3bff85"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-447",
+   "path": "pravilnik/2002/447",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za uređaje za mjerenje duljine",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za uređaje za mjerenje duljine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/447",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_447.html",
+     "sha256": "fe205897e7d5aa01bedf2ae59c1e04a1fafb5353de04d8aca529f356e13ff746"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-448",
+   "path": "pravilnik/2002/448",
+   "short": "Pravilnik o izmjeni Pravilnika o mjeriteljskim zahtjevima za bačve, kante i balone",
+   "title": "Pravilnik o izmjeni Pravilnika o mjeriteljskim zahtjevima za bačve, kante i balone",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/18/448",
+   "versions": [
+    {
+     "from": "2002-03-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_02_18_448.html",
+     "sha256": "bcd4cfcd1b1e9f86e3d536b9703216dc0ee8baa4e0cde67a513181ef980e63cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-470",
+   "path": "pravilnik/2002/470",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima koje moraju ispunjavati ovlašteni zaposlenici Hrvatskog centra za razminiranje",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima koje moraju ispunjavati ovlašteni zaposlenici Hrvatskog centra za razminiranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/19/470",
+   "versions": [
+    {
+     "from": "2002-03-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_19_470.html",
+     "sha256": "34b83f3c0540a0266839c216f14e9fc4843ada39c784030b15220267c820031b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-471",
+   "path": "pravilnik/2002/471",
+   "short": "Pravilnik o izmjeni Pravilnika o službenim sjedištima javnih bilježnika",
+   "title": "Pravilnik o izmjeni Pravilnika o službenim sjedištima javnih bilježnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/19/471",
+   "versions": [
+    {
+     "from": "2002-03-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_19_471.html",
+     "sha256": "a6716d6afa11d0a77a156b29bb714c43be28758b376ea778d4e1d60d17bbac2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-473",
+   "path": "pravilnik/2002/473",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o mjeriteljskim zahtjevima za mjerila brzine vozila u cestovnom prometu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o mjeriteljskim zahtjevima za mjerila brzine vozila u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/19/473",
+   "versions": [
+    {
+     "from": "2002-03-09",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_19_473.html",
+     "sha256": "9e3c3a7d4dd4e1ab80455739af7618ff3416c810ca07678d62986e4bb6228c99"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-504",
+   "path": "pravilnik/2002/504",
+   "short": "Pravilnik o djelatnostima koje se mogu obavljati kao sezonski obrti",
+   "title": "Pravilnik o djelatnostima koje se mogu obavljati kao sezonski obrti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/21/504",
+   "versions": [
+    {
+     "from": "2002-03-06",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_21_504.html",
+     "sha256": "5e53182014409bc55566ac6d5644554425d8ef38cd1bdb9067d76d53fe0d68e8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-518",
+   "path": "pravilnik/2002/518",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o mjeriteljskim zahtjevima za pakovine",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o mjeriteljskim zahtjevima za pakovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/22/518",
+   "versions": [
+    {
+     "from": "2002-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_22_518.html",
+     "sha256": "c4b8b7a02b49ce1af9b0d5a7b9edaadb2533e678b720de0ef0bd67813c7c2815"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-545",
+   "path": "pravilnik/2002/545",
+   "short": "Pravilnik o pečatu za pečaćenje radijske postaje, telekomunikacijske, električne i druge tehničke opreme",
+   "title": "Pravilnik o pečatu za pečaćenje radijske postaje, telekomunikacijske, električne i druge tehničke opreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/24/545",
+   "versions": [
+    {
+     "from": "2002-03-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_24_545.html",
+     "sha256": "c9ebc159fe307b08c06f34f91d02954af0f8f357a1ecfa88cbb6f06776562a01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-547",
+   "path": "pravilnik/2002/547",
+   "short": "Pravilnik o izmjenama Pravilnika o naknadi za uporabu radijskih frekvencija i načinu plaćanja",
+   "title": "Pravilnik o izmjenama Pravilnika o naknadi za uporabu radijskih frekvencija i načinu plaćanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/24/547",
+   "versions": [
+    {
+     "from": "2002-03-21",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_24_547.html",
+     "sha256": "54c0ae6702ae4402abe46818dc64e5e888ab287def81e3d8181e358c9d9af99a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-570",
+   "path": "pravilnik/2002/570",
+   "short": "Pravilnik o uvjetima za ovlaštene mjeriteljske laboratorije za ovjeravanje taksometara",
+   "title": "Pravilnik o uvjetima za ovlaštene mjeriteljske laboratorije za ovjeravanje taksometara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/25/570",
+   "versions": [
+    {
+     "from": "2002-03-23",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_25_570.html",
+     "sha256": "1b022c0c81795846890fdb10f4c287eb54053ebc98e47befd940a9e8d4c05e31"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-608",
+   "path": "pravilnik/2002/608",
+   "short": "Pravilnik o priznanjima i nagradama za dostignuća na području zaštite okoliša",
+   "title": "Pravilnik o priznanjima i nagradama za dostignuća na području zaštite okoliša",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/26/608",
+   "versions": [
+    {
+     "from": "2002-03-19",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_26_608.html",
+     "sha256": "c6ff1f6232bacc065d338bd5a7a8a61382c80608b45dcb6e6983d0ce7e661056"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-609",
+   "path": "pravilnik/2002/609",
+   "short": "Pravilnik o informativnom prospektu mirovinskog fonda",
+   "title": "Pravilnik o informativnom prospektu mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/26/609",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_26_609.html",
+     "sha256": "9f24cbe07ba133a6d958969129c32165bd00385e3b2af905593a3fb904d0a4e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-619",
+   "path": "pravilnik/2002/619",
+   "short": "Pravilnik o kalendaru rada osnovnih škola za školsku godinu 2002./2003.",
+   "title": "Pravilnik o kalendaru rada osnovnih škola za školsku godinu 2002./2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/27/619",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_27_619.html",
+     "sha256": "418febbb4ebfb0bcee14faec0cc156988a4680838206cc345c0bfec98ee5b240"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-620",
+   "path": "pravilnik/2002/620",
+   "short": "Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2002./2003.",
+   "title": "Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2002./2003.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/27/620",
+   "versions": [
+    {
+     "from": "2002-03-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_27_620.html",
+     "sha256": "990e3a466493c73040378a193c08d4adb0048e5672a61823294a5ddf1eef3c34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-635",
+   "path": "pravilnik/2002/635",
+   "short": "Pravilnik o načinu ostvarivanja programa naukovanja i stručnog osposobljavanja za vezane obrte te o pravima, obvezama, praćenju, vrednovanju i ocjenjivanju naučnika",
+   "title": "Pravilnik o načinu ostvarivanja programa naukovanja i stručnog osposobljavanja za vezane obrte te o pravima, obvezama, praćenju, vrednovanju i ocjenjivanju naučnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/635",
+   "versions": [
+    {
+     "from": "2002-03-22",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_29_635.html",
+     "sha256": "b12516a33a4fe6f646b6a0e925189882c65a1e9f68e19ec20c4d01fb3405837d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-639",
+   "path": "pravilnik/2002/639",
+   "short": "Pravilnik o utvrđivanju postotka oštećenja organizma vojnih i civilnih invalida rata",
+   "title": "Pravilnik o utvrđivanju postotka oštećenja organizma vojnih i civilnih invalida rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/639",
+   "versions": [
+    {
+     "from": "2002-03-22",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_29_639.html",
+     "sha256": "db7584bbb22071cd65c59bcb5b6aab5c9a8f29d24b2def73b23be7642ede7128"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-640",
+   "path": "pravilnik/2002/640",
+   "short": "Pravilnik o medicinskim indikacijama za razvrstavanje vojnih i civilnih invalida rata od I. do IV. skupine prema stupnju potrebe za njegom i pomoći druge osobe",
+   "title": "Pravilnik o medicinskim indikacijama za razvrstavanje vojnih i civilnih invalida rata od I. do IV. skupine prema stupnju potrebe za njegom i pomoći druge osobe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/640",
+   "versions": [
+    {
+     "from": "2002-03-22",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_29_640.html",
+     "sha256": "2dd5151483003852c3540b9e6a0e0071565fc509a5ee332f2979faae2bf81962"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-641",
+   "path": "pravilnik/2002/641",
+   "short": "Pravilnik o oštećenju organizma na osnovi kojih vojni i civilni invalidi rata imaju pravo na ortopedski dodatak i o razvrstavanju tih oštećenja u stupnjeve",
+   "title": "Pravilnik o oštećenju organizma na osnovi kojih vojni i civilni invalidi rata imaju pravo na ortopedski dodatak i o razvrstavanju tih oštećenja u stupnjeve",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/641",
+   "versions": [
+    {
+     "from": "2002-03-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_29_641.html",
+     "sha256": "09237e86b915af3def0e281d5ef06e651212e8d43b707745a246470d9a7c909b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-643",
+   "path": "pravilnik/2002/643",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje tlakomjera za mjerenje krvnog tlaka",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje tlakomjera za mjerenje krvnog tlaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/643",
+   "versions": [
+    {
+     "from": "2002-03-30",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_29_643.html",
+     "sha256": "10658e363ed2bd91def83fd5da513a309feff330783146dd85cd97d2aa893b85"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-644",
+   "path": "pravilnik/2002/644",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje analizatora plinova",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati potvrđeni mjeriteljski laboratoriji za ovjeravanje analizatora plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/29/644",
+   "versions": [
+    {
+     "from": "2002-03-30",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_29_644.html",
+     "sha256": "f852239a265f5c1886f77135c45db526b2578a621233d960bc713f43c3787e7f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-671",
+   "path": "pravilnik/2002/671",
+   "short": "Pravilnik o postupku ostvarivanja prava na prilagodbu prilaza do zgrade i prilagodbu stana za potrebe hrvatskih ratnih vojnih invalida Domovinskog rata s ograničenom sposobnosti kretanja",
+   "title": "Pravilnik o postupku ostvarivanja prava na prilagodbu prilaza do zgrade i prilagodbu stana za potrebe hrvatskih ratnih vojnih invalida Domovinskog rata s ograničenom sposobnosti kretanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/31/671",
+   "versions": [
+    {
+     "from": "2002-03-27",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_31_671.html",
+     "sha256": "afdecce91cb480885891440f86d02225d70fdb9bb5ca360b7a2d5996f3328103"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-675",
+   "path": "pravilnik/2002/675",
+   "short": "Pravilnik o uvjetima koje moraju zadovoljiti potvrđeni mjeriteljski laboratoriji za ovjeravanje mjerila električnih veličina",
+   "title": "Pravilnik o uvjetima koje moraju zadovoljiti potvrđeni mjeriteljski laboratoriji za ovjeravanje mjerila električnih veličina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/31/675",
+   "versions": [
+    {
+     "from": "2002-04-04",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_31_675.html",
+     "sha256": "820c2bbfc4861f5794f6c05029cf675a2f2354364e3453398d3021bbec08bb19"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-68",
+   "path": "pravilnik/2002/68",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijevoza opasnih tvari u cestovnom prometu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijevoza opasnih tvari u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/2/68",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_2_68.html",
+     "sha256": "5cebaed04489cec0e7ed94740f75554fbdfd8e375d3cbd73f2ba70e8b0ef4c8a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-680",
+   "path": "pravilnik/2002/680",
+   "short": "Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima",
+   "title": "Pravilnik o izmjenama Pravilnika o ortopedskim i drugim pomagalima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/31/680",
+   "versions": [
+    {
+     "from": "2002-04-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_03_31_680.html",
+     "sha256": "2e6f0bd9a7e646d9f737d0f1a850c72c4cb996baec7a70b9fa821e0031b0bab0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-69",
+   "path": "pravilnik/2002/69",
+   "short": "Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz ukupnih prihoda Hrvatskih cesta d.o.o. u 2002. godini",
+   "title": "Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz ukupnih prihoda Hrvatskih cesta d.o.o. u 2002. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/2/69",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_2_69.html",
+     "sha256": "992b4a9f71be77acdddc6922fe320bae88212b3223ae8b7b8d5777cc6e16a4ee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-70",
+   "path": "pravilnik/2002/70",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje provode zdravstveni odgoj osoba koje rade u proizvodnji ili prometu namirnica",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati zdravstvene ustanove koje provode zdravstveni odgoj osoba koje rade u proizvodnji ili prometu namirnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/2/70",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_2_70.html",
+     "sha256": "3d46fa6cd8d8da0b3926679db8cb916ca13a62e85f3f9125cadd0974733164ab"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-735",
+   "path": "pravilnik/2002/735",
+   "short": "Pravilnik o načinu nošenja oružja i streljiva",
+   "title": "Pravilnik o načinu nošenja oružja i streljiva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/735",
+   "versions": [
+    {
+     "from": "2002-04-11",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_34_735.html",
+     "sha256": "d275228bbe37902f38b94300ae90595be1539760b748365858bf2c4782f55890"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-737",
+   "path": "pravilnik/2002/737",
+   "short": "Pravilnik o dopuni Pravilnika o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata",
+   "title": "Pravilnik o dopuni Pravilnika o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/737",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_34_737.html",
+     "sha256": "0c7fe10ff5540ab95bb713cd0bcf33f9c80da4c82ab0dfd7542a7f48fcca511b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-739",
+   "path": "pravilnik/2002/739",
+   "short": "Pravilnik o zaštiti gljiva (Fungi)",
+   "title": "Pravilnik o zaštiti gljiva (Fungi)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/739",
+   "versions": [
+    {
+     "from": "2002-04-03",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_34_739.html",
+     "sha256": "0cbe024ce3135a3a12d110ffcce5619c53fdcbe7e78f88e56577d6bdf22ee5cf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-741",
+   "path": "pravilnik/2002/741",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju mreže i kriterija o dostatnom broju stanica za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju mreže i kriterija o dostatnom broju stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/741",
+   "versions": [
+    {
+     "from": "2002-04-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_34_741.html",
+     "sha256": "9de0ff632444ba69a1cc1ac6ce4bb8a8bc5c530fbbf503cbdbfd3296162b7d63"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-742",
+   "path": "pravilnik/2002/742",
+   "short": "Pravilnik o izmjenama Pravilnika o naknadama za tehnički pregled vozila i drugim poslovima koji se obavljaju u stanicama za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama Pravilnika o naknadama za tehnički pregled vozila i drugim poslovima koji se obavljaju u stanicama za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/742",
+   "versions": [
+    {
+     "from": "2002-04-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_34_742.html",
+     "sha256": "7f06b8b6fd5b71940531dba821b7058055b4e7cd091308f900099c71ce679b1b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-744",
+   "path": "pravilnik/2002/744",
+   "short": "Pravilnik o izmjenama Pravilnika o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama Pravilnika o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/34/744",
+   "versions": [
+    {
+     "from": "2002-04-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_34_744.html",
+     "sha256": "202affe1c1b565f32d5a6fd411d637c0e43efecbf1b24b94a277100788e681c4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-755",
+   "path": "pravilnik/2002/755",
+   "short": "Pravilnik o izmjenama Pravilnika o naknadi za obavljanje telekomunikacijskih usluga i drugih telekomunikacijskih djelatnosti i načinu plaćanja",
+   "title": "Pravilnik o izmjenama Pravilnika o naknadi za obavljanje telekomunikacijskih usluga i drugih telekomunikacijskih djelatnosti i načinu plaćanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/35/755",
+   "versions": [
+    {
+     "from": "2002-04-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_755.html",
+     "sha256": "4a361cb942d957d6f37a3b9e3aadd7cc0379ddbca9394d6e2f063318511599e2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-756",
+   "path": "pravilnik/2002/756",
+   "short": "Pravilnik o načinu rada Povjerenstva za uvjetni otpust",
+   "title": "Pravilnik o načinu rada Povjerenstva za uvjetni otpust",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/35/756",
+   "versions": [
+    {
+     "from": "2002-04-13",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_756.html",
+     "sha256": "ed54120880b3388cbb475302384b94725a0fcc559144083bfeedfd995d430b4a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-757",
+   "path": "pravilnik/2002/757",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vrednovanju imovine i obveza mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vrednovanju imovine i obveza mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/35/757",
+   "versions": [
+    {
+     "from": "2002-04-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_757.html",
+     "sha256": "c44100a0cdfefe7f04bea4b2adda51fb2a1c44b1e90dfc8bd25334a627426931"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-758",
+   "path": "pravilnik/2002/758",
+   "short": "Pravilnik o dodatnim kriterijima ulaganja i investicijskim ograničenjma mirovinskih fondova",
+   "title": "Pravilnik o dodatnim kriterijima ulaganja i investicijskim ograničenjma mirovinskih fondova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/35/758",
+   "versions": [
+    {
+     "from": "2002-04-13",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_758.html",
+     "sha256": "b55fe526034bbc0e069522befddd8076728bb5595d89cf96c3c33aebc1cb250a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-759",
+   "path": "pravilnik/2002/759",
+   "short": "Pravilnik o nadzoru mirovinskih društava i mirovinskih fondova",
+   "title": "Pravilnik o nadzoru mirovinskih društava i mirovinskih fondova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/35/759",
+   "versions": [
+    {
+     "from": "2002-04-13",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_759.html",
+     "sha256": "3ddcf6e5e4687cfaf9d60586959db67078de514854fcf83c43ee05cb9c284cfe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-760",
+   "path": "pravilnik/2002/760",
+   "short": "Pravilnik o obrascu službene iskaznice",
+   "title": "Pravilnik o obrascu službene iskaznice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/35/760",
+   "versions": [
+    {
+     "from": "2002-04-13",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_760.html",
+     "sha256": "982858520f7fd3d55a13f7f1f01e6623bbbe455c171c65c91f8af6cc935df2f0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-773",
+   "path": "pravilnik/2002/773",
+   "short": "Pravilnik o operativnom djelovanju sustava obrane od tuče",
+   "title": "Pravilnik o operativnom djelovanju sustava obrane od tuče",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/36/773",
+   "versions": [
+    {
+     "from": "2002-04-10",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_36_773.html",
+     "sha256": "7d42c0cfa3e36e761ec1fb73eba28d5009f45bc192d958ff813ef247f28eaa28"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-860",
+   "path": "pravilnik/2002/860",
+   "short": "Pravilnik o mjerilima i postupku za utvrđivanje nesposobnosti za samostalan život i rad i nedostatak sredstava za uzdržavanje za osobe s prebivalištem u Republici Hrvatskoj kojima se zdravstvena zašti",
+   "title": "Pravilnik o mjerilima i postupku za utvrđivanje nesposobnosti za samostalan život i rad i nedostatak sredstava za uzdržavanje za osobe s prebivalištem u Republici Hrvatskoj kojima se zdravstvena zašti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/39/860",
+   "versions": [
+    {
+     "from": "2002-04-25",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_39_860.html",
+     "sha256": "4188310e1d7655c05acab2faa08c0d8c3de114f1dcdfcc8e93c2bc81fc1bb1c5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-868",
+   "path": "pravilnik/2002/868",
+   "short": "Pravilnik o prestanku važenja Pravilnika o mjerilima vrednovanja časopisa i publikacija s međunarodno priznatom recenzijom, kao i s njima po vrsnoći izjednačenih časopisa i publikacija",
+   "title": "Pravilnik o prestanku važenja Pravilnika o mjerilima vrednovanja časopisa i publikacija s međunarodno priznatom recenzijom, kao i s njima po vrsnoći izjednačenih časopisa i publikacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/40/868",
+   "versions": [
+    {
+     "from": "2002-04-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_40_868.html",
+     "sha256": "60df91b674a1f2a3125852b3298c7c26b6783d8c2a08be6de3e1aa81b67d55e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-895",
+   "path": "pravilnik/2002/895",
+   "short": "Pravilnik o načinu obavljanja poslova odjela osiguranja u kaznionicama i zatvorima",
+   "title": "Pravilnik o načinu obavljanja poslova odjela osiguranja u kaznionicama i zatvorima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/43/895",
+   "versions": [
+    {
+     "from": "2002-05-02",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_43_895.html",
+     "sha256": "b98713bf9cab6916f21dcc61ec3dfd79886f8e493d5992c53221617dc5861457"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-896",
+   "path": "pravilnik/2002/896",
+   "short": "Pravilnik o načinu primjene sredstava prisile",
+   "title": "Pravilnik o načinu primjene sredstava prisile",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/43/896",
+   "versions": [
+    {
+     "from": "2002-05-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_43_896.html",
+     "sha256": "229f11d8a72c24f17572cbd65c11569c63b654e61c1f6bd3ba70ff9e1ce6aa50"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-897",
+   "path": "pravilnik/2002/897",
+   "short": "Pravilnik o načinu provedbe inspekcijskog nadzora nad radom kaznionica, zatvora i Centra za izobrazbu",
+   "title": "Pravilnik o načinu provedbe inspekcijskog nadzora nad radom kaznionica, zatvora i Centra za izobrazbu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/43/897",
+   "versions": [
+    {
+     "from": "2002-05-02",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_43_897.html",
+     "sha256": "d90d2d7a1066290e9d29e335c2ab14d424162f94e3600cc82d6cf16cf690ce20"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-898",
+   "path": "pravilnik/2002/898",
+   "short": "Pravilnik o dopuni Pravilnika o radu i strukovnoj izobrazbi, popisu i opisu poslova zatvorenika, te naknadi za rad i nagradi",
+   "title": "Pravilnik o dopuni Pravilnika o radu i strukovnoj izobrazbi, popisu i opisu poslova zatvorenika, te naknadi za rad i nagradi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/43/898",
+   "versions": [
+    {
+     "from": "2002-05-02",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_43_898.html",
+     "sha256": "0db81a2f190ef45bbfec8ef6af2fcc1d3d222b2f66f79b8bdbb18030a80c9fcc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-901",
+   "path": "pravilnik/2002/901",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o zdravstvenoj ispravnosti dijetetskih namirnica",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o zdravstvenoj ispravnosti dijetetskih namirnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/44/901",
+   "versions": [
+    {
+     "from": "2002-05-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_44_901.html",
+     "sha256": "8476e7f24f7e1bbb330048716a580b898d82df86e42fafc84b376acb783a6b7f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-953",
+   "path": "pravilnik/2002/953",
+   "short": "Pravilnik o izmjeni Pravilnika o obavljanju djelatnosti kladionica",
+   "title": "Pravilnik o izmjeni Pravilnika o obavljanju djelatnosti kladionica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/47/953",
+   "versions": [
+    {
+     "from": "2002-04-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_47_953.html",
+     "sha256": "52268d28277d2468ab3c833f6cf3313a34b2275aa9edef8fdc7f13d354470bdb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-955",
+   "path": "pravilnik/2002/955",
+   "short": "Pravilnik o vođenju evidencije i dokumentacije domova socijalne skrbi, te načinu i rokovima za dostavu izvješća o korisnicima, vrstama usluga i drugim pitanjima",
+   "title": "Pravilnik o vođenju evidencije i dokumentacije domova socijalne skrbi, te načinu i rokovima za dostavu izvješća o korisnicima, vrstama usluga i drugim pitanjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/47/955",
+   "versions": [
+    {
+     "from": "2002-05-08",
+     "units": 73,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_47_955.html",
+     "sha256": "bb1cc7f7126669d7c7ff3911765f2a70e338d8537cefc91695064a617adc3084"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-956",
+   "path": "pravilnik/2002/956",
+   "short": "Pravilnik o listi strojeva i uređaja s povećanim opasnostima",
+   "title": "Pravilnik o listi strojeva i uređaja s povećanim opasnostima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/47/956",
+   "versions": [
+    {
+     "from": "2002-05-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_47_956.html",
+     "sha256": "d89da3b82f7d36da87891823802d60bab6660eba5e7f9d44e68c2d82c92f48b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-959",
+   "path": "pravilnik/2002/959",
+   "short": "Pravilnik o uvjetima za potvrđene mjeriteljske laboratorije za servisiranje i pripremanje mjerila toplinske energije za ovjeravanje",
+   "title": "Pravilnik o uvjetima za potvrđene mjeriteljske laboratorije za servisiranje i pripremanje mjerila toplinske energije za ovjeravanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/47/959",
+   "versions": [
+    {
+     "from": "2002-05-08",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_47_959.html",
+     "sha256": "8b4061775dcc0d3be689a666046a15c61c6a6bc8a4ef575a941deaee758ff5ad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-984",
+   "path": "pravilnik/2002/984",
+   "short": "Pravilnik o priručnicima i dokumentima koje mora imati zračni prijevoznik za stjecanje, izmjenu ili produživanje valjanosti svjedodžbe o sposobnosti",
+   "title": "Pravilnik o priručnicima i dokumentima koje mora imati zračni prijevoznik za stjecanje, izmjenu ili produživanje valjanosti svjedodžbe o sposobnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/984",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_984.html",
+     "sha256": "293a48d115d35bade6793cf1cc3971b2652b321e4967a04fe21bd12b72b7712d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-985",
+   "path": "pravilnik/2002/985",
+   "short": "Pravilnik o potpori za pokriće troškova prehrane studenata",
+   "title": "Pravilnik o potpori za pokriće troškova prehrane studenata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/985",
+   "versions": [
+    {
+     "from": "2002-05-08",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_985.html",
+     "sha256": "8249297af450772db48ee8e0652d8e99a055703697d6d17467841e8a3d5ab7e7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-986",
+   "path": "pravilnik/2002/986",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - staklene odmjerne tikvice s jednom mjernom crtom",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - staklene odmjerne tikvice s jednom mjernom crtom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/986",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_986.html",
+     "sha256": "c9867a586965dd241f581f47eb25305195e80ac47ed7d3dd17b991d424cf5599"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-987",
+   "path": "pravilnik/2002/987",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - kapaljke (pipete) s jednom mjernom crtom",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - kapaljke (pipete) s jednom mjernom crtom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/987",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_987.html",
+     "sha256": "214c5e39ce2d33d579f47a2d3fa996fc9642d3bea882095ea002afe3095b6ffb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-988",
+   "path": "pravilnik/2002/988",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - staklene birete za tekućinu",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - staklene birete za tekućinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/988",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_988.html",
+     "sha256": "f7005ca1f6f7164d6ec83efedfa7eb713a206a6e53e335a9c91464965109a8b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-989",
+   "path": "pravilnik/2002/989",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - kapaljke (pipete) za mješanje krvi kojima se broje krvna tjelešca",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - kapaljke (pipete) za mješanje krvi kojima se broje krvna tjelešca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/989",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_989.html",
+     "sha256": "02a37f8e1dd2db8694c23c0efeecadd0ba95e9060017f7e63dbd9f3e99d4a0f9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-990",
+   "path": "pravilnik/2002/990",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - graduirane odmjerne cilindre",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za laboratorijska mjerila - graduirane odmjerne cilindre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/990",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_990.html",
+     "sha256": "85e6fd49d2b5eb7f6332df47d2d89b9c30f09cc35df9b2507ca14c946509d2b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-991",
+   "path": "pravilnik/2002/991",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za alkoholometre",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za alkoholometre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/991",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_991.html",
+     "sha256": "969bd5c6a7517385e75b3833badd730b127e3434dbd5f8142bc8a6b671e296e8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-992",
+   "path": "pravilnik/2002/992",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za staklene živine termometre",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za staklene živine termometre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/51/992",
+   "versions": [
+    {
+     "from": "2002-05-16",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_51_992.html",
+     "sha256": "c2d36f09fe0eccb10e796fa6f5490e8bde5983ab9af92bcb02b43280d670238f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-998",
+   "path": "pravilnik/2002/998",
+   "short": "Pravilnik o vrsti i sadržaju projekata za javne ceste",
+   "title": "Pravilnik o vrsti i sadržaju projekata za javne ceste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/53/998",
+   "versions": [
+    {
+     "from": "2002-05-10",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_53_998.html",
+     "sha256": "e0ee9f3e7c71707563fd982cedf801845afb7f418e43be7f01f5fdc059bd844c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2002-999",
+   "path": "pravilnik/2002/999",
+   "short": "Pravilnik o statusu i financiranju Festivala igranog filma u Puli",
+   "title": "Pravilnik o statusu i financiranju Festivala igranog filma u Puli",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/53/999",
+   "versions": [
+    {
+     "from": "2002-05-18",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_53_999.html",
+     "sha256": "5b506d302743ce747795c8062b8d42762b09ac398025a2019ef38b13e09d57ac"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2003-1225",
    "path": "naputak/2003/1225",
    "short": "Naputak o povratu plaćenog poreza na dodanu vrijednost na uvezenu i u tuzemstvu nabavljenu opremu za tehnologijskoistraživačke i znanstvenoistraživačke projekte u 2003. godini",
@@ -30508,6 +32908,2106 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_82_994.html",
      "sha256": "d3a2cc00f25644cfbfe458786759e05645971b617105e6d490865f1d1bfd604a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1042",
+   "path": "pravilnik/2003/1042",
+   "short": "Pravilnik o određivanju pravnih osoba i tijela u kojima se obavlja civilna služba u Republici Hrvatskoj",
+   "title": "Pravilnik o određivanju pravnih osoba i tijela u kojima se obavlja civilna služba u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/84/1042",
+   "versions": [
+    {
+     "from": "2003-05-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_84_1042.html",
+     "sha256": "d9e6df0b4a9a067edf4e6770689172ddab5a511543ffda23d75dcd7f83c5a8d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1043",
+   "path": "pravilnik/2003/1043",
+   "short": "Pravilnik o načinu rada Povjerenstva za civilnu službu",
+   "title": "Pravilnik o načinu rada Povjerenstva za civilnu službu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/84/1043",
+   "versions": [
+    {
+     "from": "2003-05-30",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_84_1043.html",
+     "sha256": "d82bfcb9a006dcb4e9449d09265044ef5cae5a6956aa51a3c923d9f58b96ba06"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1047",
+   "path": "pravilnik/2003/1047",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima provedbe modela poticanja proizvodnje, modela potpore dohotku i programa očuvanja hrvatskih izvornih i zaštićenih pasmina",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima provedbe modela poticanja proizvodnje, modela potpore dohotku i programa očuvanja hrvatskih izvornih i zaštićenih pasmina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/86/1047",
+   "versions": [
+    {
+     "from": "2003-05-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_86_1047.html",
+     "sha256": "585b2344db5c53888d5423bdd5594b711cdc522b78bc0117593b984acff4dca0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1072",
+   "path": "pravilnik/2003/1072",
+   "short": "Pravilnik o izmjenama Pravilnika o iskaznici i znački sanitarnog inspektora",
+   "title": "Pravilnik o izmjenama Pravilnika o iskaznici i znački sanitarnog inspektora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/87/1072",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_87_1072.html",
+     "sha256": "101b313a945092eafced3f90c4039cda28358b01f79f764cb895b8205d228c42"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1083",
+   "path": "pravilnik/2003/1083",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Požane",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Požane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1083",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1083.html",
+     "sha256": "dfe77f155ddf8c882119d78df030285d547650be708cc9e28e0a08f1dde68f9a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1084",
+   "path": "pravilnik/2003/1084",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Plovanija",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Plovanija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1084",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1084.html",
+     "sha256": "d2516f4ce5be47d60fe1357113eeda25c30ad69896d924a042b77db75976a34d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1085",
+   "path": "pravilnik/2003/1085",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije u luci Umag",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije u luci Umag",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1085",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1085.html",
+     "sha256": "d4f80a8bc191a639288589de01d5bf17041e829d8f27b7ed04dfb625d261e399"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1086",
+   "path": "pravilnik/2003/1086",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije u luci Plomin",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije u luci Plomin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1086",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1086.html",
+     "sha256": "75d142c30f7698e574c8a2a0d6b4de779bc6d8584d4ab35d2d51ed3af095b58b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1087",
+   "path": "pravilnik/2003/1087",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Raša - Bršica",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Raša - Bršica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1087",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1087.html",
+     "sha256": "2c4958823c8968b807190ed2061965e513a200276f4dfb3d319932c702cc8821"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1088",
+   "path": "pravilnik/2003/1088",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Rovinj",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Rovinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1088",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1088.html",
+     "sha256": "8d63a851086eb8c1a8190d6cc32b0958d1afc73bfe254242f1fe9c147cb6542b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1089",
+   "path": "pravilnik/2003/1089",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Poreč",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Poreč",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1089",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1089.html",
+     "sha256": "087d1b558f4413319fb94c62e96697b945ec92222b43c53fa43447788a66a5d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1090",
+   "path": "pravilnik/2003/1090",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Novigrad",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije u luci Novigrad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1090",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1090.html",
+     "sha256": "3049c47afea16fc710fe134dadeacdc6412e650f2c716c1b7795e0fc5624c47d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1091",
+   "path": "pravilnik/2003/1091",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije u ACI Marini Umag",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije u ACI Marini Umag",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1091",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1091.html",
+     "sha256": "d66350939120d6ccdcb1e61685b627ec7af2671ac17362bffb870a5a319ed6b9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1092",
+   "path": "pravilnik/2003/1092",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza II. kategorije Buzet",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza II. kategorije Buzet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1092",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1092.html",
+     "sha256": "2f89886ec6398fff53055fed78566e769f18ff07bfefbdceaf8e12e53bfa8236"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1093",
+   "path": "pravilnik/2003/1093",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije u Zračnoj luci Pula",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije u Zračnoj luci Pula",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1093",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1093.html",
+     "sha256": "eb92af4554ad168c6b1c8d540b801241afa84d1cd9890d04d683f4b6bbfe8f37"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1094",
+   "path": "pravilnik/2003/1094",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Vrsar",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Vrsar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1094",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1094.html",
+     "sha256": "f4768adb53304a0f28d29c66cd7baac174b6f931e8af2f49c7ddc76575675d84"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1095",
+   "path": "pravilnik/2003/1095",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Užljebić",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Užljebić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1095",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1095.html",
+     "sha256": "1bda25582974197a381738e89eb483813c1c6f0de5bbfdd3ffc9c6331e110671"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1096",
+   "path": "pravilnik/2003/1096",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Ličko Petrovo Selo",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Ličko Petrovo Selo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1096",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1096.html",
+     "sha256": "e26183410fb3ea657681afa4b6a91434b7e408b878787421448ef381e16bada5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1097",
+   "path": "pravilnik/2003/1097",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Senj",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Senj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1097",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1097.html",
+     "sha256": "267afb3da677de66b094e5766e0c5e9c5611207f1800f849e13b3fe18ae4f937"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1098",
+   "path": "pravilnik/2003/1098",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Rupa",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Rupa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1098",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1098.html",
+     "sha256": "795926c716a9fda51f5337442fde035d4f5e8bebfd3619f791ab54a970905be2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1099",
+   "path": "pravilnik/2003/1099",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Pasjak",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Pasjak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1099",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1099.html",
+     "sha256": "749a3cd263466ec0f1b3bd55c0b7b4ca971145ccd87c48b4c57b3324d9327508"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1100",
+   "path": "pravilnik/2003/1100",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Brod na Kupi",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Brod na Kupi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1100",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1100.html",
+     "sha256": "35b8b9eca529c0c077bde60f56e5ac69aba9c3bf48946176b99a3e450a0b51a9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1101",
+   "path": "pravilnik/2003/1101",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Prezid",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Prezid",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1101",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1101.html",
+     "sha256": "1e863de19cfffa9285d56e0b1db0b434c787cd56e32146ba1fd5d034a04dfc29"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1102",
+   "path": "pravilnik/2003/1102",
+   "short": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Zamost",
+   "title": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Zamost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1102",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1102.html",
+     "sha256": "a8be016ecc63673ce5f076c2f8623c0ae2013aadd65c70d4f12fb304038b8409"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1103",
+   "path": "pravilnik/2003/1103",
+   "short": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Čabar",
+   "title": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Čabar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1103",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1103.html",
+     "sha256": "78a666837fbf78300a22e05096a5c37f4d8716efa63903c30f14d393ced21165"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1104",
+   "path": "pravilnik/2003/1104",
+   "short": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Blaževci",
+   "title": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Blaževci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1104",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1104.html",
+     "sha256": "d7078e3c01b13a67e37b84db5253393f7f7dfaeb095d92f8e33808c729671a2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1105",
+   "path": "pravilnik/2003/1105",
+   "short": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Lipa",
+   "title": "Pravilnik o određivanju područja stalnog graničnog prijelaza za pogranični promet Lipa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1105",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1105.html",
+     "sha256": "4f740a3780f48e9a32930905c7f2cf50f24f653fb88bed23966a0e0e8c30a617"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1106",
+   "path": "pravilnik/2003/1106",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Šapjane",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Šapjane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1106",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1106.html",
+     "sha256": "c6835b9ed6e6be443e64087d9f473fdbb372afb2b03a62715e5ce4204e5a4161"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1107",
+   "path": "pravilnik/2003/1107",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Mali Lošinj",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1107",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1107.html",
+     "sha256": "57365be3ad9b445328b6919155cd8b3ecbbe2c7794ea196bdd11122062bfb98a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1108",
+   "path": "pravilnik/2003/1108",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Mali Lošinj",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1108",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1108.html",
+     "sha256": "62fcc7f8408b2504e7b62137f8156d0142ff677530f0aeaeb596fb1f9545a88f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1109",
+   "path": "pravilnik/2003/1109",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije Rijeka (Omišalj - Krk)",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije Rijeka (Omišalj - Krk)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1109",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1109.html",
+     "sha256": "85247b01a8526c9888d322eeb3364809199e63d2794899db3eea6e31fb3fed7c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1110",
+   "path": "pravilnik/2003/1110",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Bregana",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Bregana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1110",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1110.html",
+     "sha256": "27e806905e796c3aea5a2968e532cf4642a41f1889f1967d4746d0728ce25e82"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1111",
+   "path": "pravilnik/2003/1111",
+   "short": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Bregana - Naselje",
+   "title": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Bregana - Naselje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1111",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1111.html",
+     "sha256": "22cb245c210173871b9c85ab536b4a06d9c88f360894b1f2d0e5141f89e565b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1112",
+   "path": "pravilnik/2003/1112",
+   "short": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Harmica",
+   "title": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Harmica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1112",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1112.html",
+     "sha256": "dc377214b893c85b8870c5cb93466beb625af174ff5edcd79e93236d0df2847c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1113",
+   "path": "pravilnik/2003/1113",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Savski Marof",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Savski Marof",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1113",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1113.html",
+     "sha256": "084d47a02f287938354fbfc6ebca52ebb5018e5ed30ea698482b3a7c155c3a17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1114",
+   "path": "pravilnik/2003/1114",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije u Zračnoj luci Zagreb",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije u Zračnoj luci Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1114",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1114.html",
+     "sha256": "125b79b42d2e103504b36900ea31db23b439b84d9a59635da02172dadca2b76a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1115",
+   "path": "pravilnik/2003/1115",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Strmica",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Strmica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1115",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1115.html",
+     "sha256": "cfc250a1741b4e2e6fd1dde9a9988452e6c0d0749085834588d862a7d6d7e23e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1116",
+   "path": "pravilnik/2003/1116",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Primošten - Kremik",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Primošten - Kremik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1116",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1116.html",
+     "sha256": "cd8604ae57b9bf77294c4c7b7129cdf42fbe1c20d094ace0452fd31f06ac09ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1117",
+   "path": "pravilnik/2003/1117",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Ličko Dugo Polje",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Ličko Dugo Polje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1117",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1117.html",
+     "sha256": "6852f20a6ac5a234f64345b724c144f211bb2df346d4664d088711da6cb5f5dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1118",
+   "path": "pravilnik/2003/1118",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije u Zračnoj luci Zadar",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije u Zračnoj luci Zadar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1118",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1118.html",
+     "sha256": "c477472d8f9f9d85cf519a611aa8d995fc897eaada59a88d2be9d6e78ce807d9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1119",
+   "path": "pravilnik/2003/1119",
+   "short": "Pravilnik o određivanju područja stalnog pomorskog graničnog prijelaza I. kategorije Zadar",
+   "title": "Pravilnik o određivanju područja stalnog pomorskog graničnog prijelaza I. kategorije Zadar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1119",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1119.html",
+     "sha256": "6fb372b0c63f3c89bf56cdf1311a4eb2ab5c6ed7eac76395f439c2db22356dc1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-112",
+   "path": "pravilnik/2003/112",
+   "short": "Pravilnik o uvjetima i postupku izbora učitelja za rad u dopunskoj nastavi s djecom hrvatskih građana u inozemstvu",
+   "title": "Pravilnik o uvjetima i postupku izbora učitelja za rad u dopunskoj nastavi s djecom hrvatskih građana u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/9/112",
+   "versions": [
+    {
+     "from": "2003-01-25",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_9_112.html",
+     "sha256": "ca8a2ff0854a485330489ebe20248471b1cebf4d80f60e32bcb0d0a88c008349"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1120",
+   "path": "pravilnik/2003/1120",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Sali",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Sali",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1120",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1120.html",
+     "sha256": "944773378a9a6e026fed71ebdb9627eafeb55362428cf91f624270674c8707cc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1121",
+   "path": "pravilnik/2003/1121",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Božava",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Božava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1121",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1121.html",
+     "sha256": "2687339acb2b9647df75286d80321bc7e3bf2d08ad1bfb6bcb246620ea09eccd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1122",
+   "path": "pravilnik/2003/1122",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Vinjani Donji",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Vinjani Donji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1122",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1122.html",
+     "sha256": "4a3613188e2d042f96e9697a39ea8b41a2fbdec7dfd20b30ab110bf1f16ac7cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1123",
+   "path": "pravilnik/2003/1123",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Aržano Prisika",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Aržano Prisika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1123",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1123.html",
+     "sha256": "f2f86c503b45d792e116d799526a765c9d95966a9e220491bdabfb81ea23cce3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1124",
+   "path": "pravilnik/2003/1124",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Orah - Orahovlje",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Orah - Orahovlje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1124",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1124.html",
+     "sha256": "9919ce137a5f265f41ac43fb7d6c4fc78941ebffb0eee33d1f20572026a4f883"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1125",
+   "path": "pravilnik/2003/1125",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Kamensko",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Kamensko",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1125",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1125.html",
+     "sha256": "b2b60e140526c585556c345c54c8e3da5061cb14b2972a8e9f474ebe8813aac2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1126",
+   "path": "pravilnik/2003/1126",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Vinjani Gornji",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza za putnički promet Vinjani Gornji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1126",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1126.html",
+     "sha256": "2da2867eb2735f7d5452882bdb45204220d983cbd27f286930b06b1c2b7b7906"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1127",
+   "path": "pravilnik/2003/1127",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Vis",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Vis",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1127",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1127.html",
+     "sha256": "059df6fd6de84802844cfa47a9de2971e03f7aeba9e887e74a6340c15ab593fe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1128",
+   "path": "pravilnik/2003/1128",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza Stari Grad",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza Stari Grad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1128",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1128.html",
+     "sha256": "90743b9ea8278e63a2278aea1f45ea7002f3209bc6da6eaf4b27d2d52b654fd0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1129",
+   "path": "pravilnik/2003/1129",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Luka Split",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Luka Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1129",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1129.html",
+     "sha256": "107709109d30462a1c84656f0083e318d90d4122d936cb6b1a004b6328cad7de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-113",
+   "path": "pravilnik/2003/113",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o radnom vremenu u zdravstvenim ustanovama koje imaju sklopljeni ugovor o provođenju zdravstvene zaštite s Hrvatskim zavodom za zdravstveno osiguranje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o radnom vremenu u zdravstvenim ustanovama koje imaju sklopljeni ugovor o provođenju zdravstvene zaštite s Hrvatskim zavodom za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/9/113",
+   "versions": [
+    {
+     "from": "2003-01-25",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_9_113.html",
+     "sha256": "8bd47447a4d7a6d5073d027ab927e179763df608d3ec783dfceec12a797cfcba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1130",
+   "path": "pravilnik/2003/1130",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Zračna luka Brač",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza II. kategorije Zračna luka Brač",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1130",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1130.html",
+     "sha256": "a9058d71870b2e5866dacb6fbbc2b1001953239c3cc7255c6bd658cfcad7f1f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1131",
+   "path": "pravilnik/2003/1131",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Luka Hvar",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Luka Hvar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1131",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1131.html",
+     "sha256": "9fa3f4991e9c26b514107781159b3c4db5de2867af6bd37b07cc607d01e1acf2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1132",
+   "path": "pravilnik/2003/1132",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije Zračna luka Split",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog zračnog graničnog prijelaza I. kategorije Zračna luka Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1132",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1132.html",
+     "sha256": "ebc0e1bd5af441202269f048bee1d8a3dee07ed6fcb3726ab0781861b2a35a2f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1133",
+   "path": "pravilnik/2003/1133",
+   "short": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Komiža",
+   "title": "Pravilnik o određivanju područja sezonskog međunarodnog pomorskog graničnog prijelaza II. kategorije Komiža",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1133",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1133.html",
+     "sha256": "8929acd9fa243aa494264d0ca008191520e604f69e001a105e6226a463843d95"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1135",
+   "path": "pravilnik/2003/1135",
+   "short": "Pravilnik o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom školstvu i nastavnika u srednjem školstvu",
+   "title": "Pravilnik o polaganju stručnog ispita učitelja i stručnih suradnika u osnovnom školstvu i nastavnika u srednjem školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/88/1135",
+   "versions": [
+    {
+     "from": "2003-06-05",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_88_1135.html",
+     "sha256": "e190f335b4f7be465f7abd1b9f354efc00ad6fb6fb77bccd9ea4bca56db78158"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1139",
+   "path": "pravilnik/2003/1139",
+   "short": "Pravilnik o dopuni Pravilnika o srednjoškolskom obrazovanju odraslih",
+   "title": "Pravilnik o dopuni Pravilnika o srednjoškolskom obrazovanju odraslih",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/89/1139",
+   "versions": [
+    {
+     "from": "2003-06-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_89_1139.html",
+     "sha256": "9fb6be29ba643150cfb1470236b70a7c95070da383f7907e8cdac9ac91a25898"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-114",
+   "path": "pravilnik/2003/114",
+   "short": "Pravilnik o izmjeni Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "title": "Pravilnik o izmjeni Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/9/114",
+   "versions": [
+    {
+     "from": "2003-01-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_9_114.html",
+     "sha256": "b776306db1576b8d603e00f00c1b2457d07db6b5e822f61e96fbb35917c0c092"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1143",
+   "path": "pravilnik/2003/1143",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca R-S",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju obrasca R-S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/89/1143",
+   "versions": [
+    {
+     "from": "2003-05-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_89_1143.html",
+     "sha256": "dee0f3d624ec400294b25e6184ba79ac2e950d5edfc751e2d3447079d9b28b6e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1144",
+   "path": "pravilnik/2003/1144",
+   "short": "Pravilnik o samostalnim djelatnostima koje se mogu paušalno oporezivati te načinu utvrđivanja i oporezivanja paušalnog dohotka",
+   "title": "Pravilnik o samostalnim djelatnostima koje se mogu paušalno oporezivati te načinu utvrđivanja i oporezivanja paušalnog dohotka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/90/1144",
+   "versions": [
+    {
+     "from": "2003-05-31",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_90_1144.html",
+     "sha256": "a7564b8a04ee5932c01a8b667a218eba5b4c403bb26f17a4935ae98255738242"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1147",
+   "path": "pravilnik/2003/1147",
+   "short": "Pravilnik o (načinu plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje",
+   "title": "Pravilnik o (načinu plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/90/1147",
+   "versions": [
+    {
+     "from": "2003-06-08",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_05_90_1147.html",
+     "sha256": "f21ca24d0d6aed77a8bb7736f5418bbe899b7ec98e4b8b67307afc68c2417344"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1162",
+   "path": "pravilnik/2003/1162",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima upisa u Upisnike poljoprivrednog sjemena i poljoprivrednog sadnog materijala",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima upisa u Upisnike poljoprivrednog sjemena i poljoprivrednog sadnog materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/91/1162",
+   "versions": [
+    {
+     "from": "2003-06-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_91_1162.html",
+     "sha256": "cd81bf6ed5ce3de9b434f1f2c76f837149708d47e7310b49e81650c5e8493688"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1175",
+   "path": "pravilnik/2003/1175",
+   "short": "Pravilnik o pravima roditelja djeteta s težim smetnjama u razvoju na dopust ili na rad s polovicom punog radnog vremena radi njege djeteta",
+   "title": "Pravilnik o pravima roditelja djeteta s težim smetnjama u razvoju na dopust ili na rad s polovicom punog radnog vremena radi njege djeteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/92/1175",
+   "versions": [
+    {
+     "from": "2003-06-12",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_92_1175.html",
+     "sha256": "1272088653d9930a8bf49a00268f98f49421435e49ed562ce3755106d850789b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1176",
+   "path": "pravilnik/2003/1176",
+   "short": "Pravilnik o mjerilima za priznavanje naziva primarijus",
+   "title": "Pravilnik o mjerilima za priznavanje naziva primarijus",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/92/1176",
+   "versions": [
+    {
+     "from": "2003-06-12",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_92_1176.html",
+     "sha256": "b1e2c23890322cb0b7386f4dbb5eb14be33490b282f8dba644c0850680e4b87b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1210",
+   "path": "pravilnik/2003/1210",
+   "short": "Pravilnik o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "title": "Pravilnik o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/95/1210",
+   "versions": [
+    {
+     "from": "2003-06-15",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_95_1210.html",
+     "sha256": "40555136928cd67e9df646887e92cafc6dbf0a0dc2de76d4a79d5fab7cc3be36"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1231",
+   "path": "pravilnik/2003/1231",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o distribuciji plina",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o distribuciji plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/97/1231",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_97_1231.html",
+     "sha256": "c89e62a347b6a9c6de3d92b35fd8483f2e1ac0b3fbae56f31568f4c1f8ff99fd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1232",
+   "path": "pravilnik/2003/1232",
+   "short": "Pravilnik o načinu i uvjetima ostvarivanja prava na dio troškova programa razvitka ribarstva u uzgojno selekcijskom radu",
+   "title": "Pravilnik o načinu i uvjetima ostvarivanja prava na dio troškova programa razvitka ribarstva u uzgojno selekcijskom radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/97/1232",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_97_1232.html",
+     "sha256": "f152388f14814979c98f8491252246358e86ccd80786c669e054973a041559f1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1234",
+   "path": "pravilnik/2003/1234",
+   "short": "Pravilnik o podacima koje su energetski subjekti dužni dostaviti Vijeću za regulaciju energetskih djelatnosti",
+   "title": "Pravilnik o podacima koje su energetski subjekti dužni dostaviti Vijeću za regulaciju energetskih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/97/1234",
+   "versions": [
+    {
+     "from": "2003-06-19",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_97_1234.html",
+     "sha256": "a34fc27ab74078e174e9af14e422e7af4b1dda95424fcfbbe711a87589a75541"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1263",
+   "path": "pravilnik/2003/1263",
+   "short": "Pravilnik o unutarnjem redu u \"Parku prirode Papuk\"",
+   "title": "Pravilnik o unutarnjem redu u \"Parku prirode Papuk\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/98/1263",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 100,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_98_1263.html",
+     "sha256": "380977111006aa0206dfcd74f294cb713855b48aa816eeea1f1d69c52f8272f8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1264",
+   "path": "pravilnik/2003/1264",
+   "short": "Pravilnik o načinu i postupku utrđivanja prisutnosti alkohola u organizmu djelatnika koji neposredno sudjeluju u obavljanju željezničkog prometa",
+   "title": "Pravilnik o načinu i postupku utrđivanja prisutnosti alkohola u organizmu djelatnika koji neposredno sudjeluju u obavljanju željezničkog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/98/1264",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_98_1264.html",
+     "sha256": "402658ab3b6e50de8bb17067b098635412952ba5fb3f561e6eeef13a23e290fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1265",
+   "path": "pravilnik/2003/1265",
+   "short": "Pravilnik o računovodstvu i financijskim izvještajima mirovinskih osiguravajućih društava",
+   "title": "Pravilnik o računovodstvu i financijskim izvještajima mirovinskih osiguravajućih društava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/98/1265",
+   "versions": [
+    {
+     "from": "2003-06-20",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_98_1265.html",
+     "sha256": "779a52ba4abddad83f9005ae7bcdd28731522c45ad93d8f2b68bade8c784974e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1309",
+   "path": "pravilnik/2003/1309",
+   "short": "Pravilnik o dopuni Pravilnika o visini naknade troškova za provedbu stručnog nadzora nad ekološkom proizvodnjom i troškova utvrđivanja sukladnosti s temeljnim zahtjevima",
+   "title": "Pravilnik o dopuni Pravilnika o visini naknade troškova za provedbu stručnog nadzora nad ekološkom proizvodnjom i troškova utvrđivanja sukladnosti s temeljnim zahtjevima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/101/1309",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_101_1309.html",
+     "sha256": "cb2b0b860bedc6cb0b610e4cd4455af9539411b734dc4cb27e6847e4449ce74a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1310",
+   "path": "pravilnik/2003/1310",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima za sigurnost željezničkog prometa kojima moraju udovoljavati željeznička vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima za sigurnost željezničkog prometa kojima moraju udovoljavati željeznička vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/101/1310",
+   "versions": [
+    {
+     "from": "2003-06-26",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_101_1310.html",
+     "sha256": "b4a4bd91617353cad2fba850dbb18a5774ece23e2220da9b970b96bcb77f1605"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-137",
+   "path": "pravilnik/2003/137",
+   "short": "Pravilnik o izmjenama Pravilnika o izboru, načinu i postupku ostvarivanja prava osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima iz Domovinskog rata 100% I. skupine",
+   "title": "Pravilnik o izmjenama Pravilnika o izboru, načinu i postupku ostvarivanja prava osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima iz Domovinskog rata 100% I. skupine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/10/137",
+   "versions": [
+    {
+     "from": "2003-01-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_10_137.html",
+     "sha256": "a5cbc4ba943f4e5eecd823bb52769249de589b5dd6a5939d48a2dca74eefbcf9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1370",
+   "path": "pravilnik/2003/1370",
+   "short": "Pravilnik o projektima potrebnim za osiguranje pristupačnosti građevina osobama s invaliditetom i drugim osobama smanjene pokretljivosti",
+   "title": "Pravilnik o projektima potrebnim za osiguranje pristupačnosti građevina osobama s invaliditetom i drugim osobama smanjene pokretljivosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/104/1370",
+   "versions": [
+    {
+     "from": "2003-07-05",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_06_104_1370.html",
+     "sha256": "93e3cb6dc6e4fc41f0a21da373b35f39842227c3310165538234587130022e43"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1384",
+   "path": "pravilnik/2003/1384",
+   "short": "Pravilnik o korištenju i opremanju službenih stanova",
+   "title": "Pravilnik o korištenju i opremanju službenih stanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1384",
+   "versions": [
+    {
+     "from": "2003-07-02",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_106_1384.html",
+     "sha256": "7b79ac09eb8d6eba0551eb5896eb1f58c54034386950bce725670e8bf43e3637"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1385",
+   "path": "pravilnik/2003/1385",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima kojima mora udovoljavati pomoćno zrakoplovno osoblje - zrakoplovno-tehničko osoblje kontrole zračne plovidbe",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima kojima mora udovoljavati pomoćno zrakoplovno osoblje - zrakoplovno-tehničko osoblje kontrole zračne plovidbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1385",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_106_1385.html",
+     "sha256": "614f565186b1e86045f3dc481ffece431fde5a0413b2cf2c76647f56f7f1f4f0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1386",
+   "path": "pravilnik/2003/1386",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s rengenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuća zračenja",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s rengenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuća zračenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1386",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_106_1386.html",
+     "sha256": "2e97fa0864396cfdd32cf09eedf909715d12e2e8770bb5cd005e0a1bc4ce9c73"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1387",
+   "path": "pravilnik/2003/1387",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s radioaktivnim izvorima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i mjerama zaštite od ionizirajućih zračenja za obavljanje djelatnosti s radioaktivnim izvorima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1387",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_106_1387.html",
+     "sha256": "ac12a4058bb0684c1102d49dde1fd221a5a1bd2d9f569e6397201427a05305d7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1389",
+   "path": "pravilnik/2003/1389",
+   "short": "Pravilnik o prestanku važenja Pravilnika o državnom stručnom ispitu za farmaceutskog inspektora",
+   "title": "Pravilnik o prestanku važenja Pravilnika o državnom stručnom ispitu za farmaceutskog inspektora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1389",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_106_1389.html",
+     "sha256": "797f6a8205c6b62c7629312b4719b1407b526af312152a994a50e29a9e291553"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1391",
+   "path": "pravilnik/2003/1391",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu korištenja sredstava Fonda za razvoj i zapošljavanje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu korištenja sredstava Fonda za razvoj i zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/106/1391",
+   "versions": [
+    {
+     "from": "2003-07-10",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_106_1391.html",
+     "sha256": "a3ad6105b5a757ac7a107899c71ddf579f66a3b67c26b733cf2c32f899dbe29d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-14",
+   "path": "pravilnik/2003/14",
+   "short": "Pravilnik o Programu za polaganje ribičkog ispita i Upisniku o izdanim uvjerenjima o položenom ribičkom ispitu",
+   "title": "Pravilnik o Programu za polaganje ribičkog ispita i Upisniku o izdanim uvjerenjima o položenom ribičkom ispitu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/3/14",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_3_14.html",
+     "sha256": "4e3454af6825b8d76acaa09b4a951a86bf614064b2daf03a7980e95cbb815428"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1410",
+   "path": "pravilnik/2003/1410",
+   "short": "Pravilnik o uvjetima tehničke ispravnosti automata za zabavne igre",
+   "title": "Pravilnik o uvjetima tehničke ispravnosti automata za zabavne igre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/107/1410",
+   "versions": [
+    {
+     "from": "2003-07-12",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_107_1410.html",
+     "sha256": "e24c19d1615bb85496381db0a75be5419d3c2b7b1e1db3a4891266120f651a34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1414",
+   "path": "pravilnik/2003/1414",
+   "short": "Pravilnik o načinu i uvjetima školovanja za potrebe oružanih snaga na vojnim učilištima, školama u građanstvu i inozemstvu",
+   "title": "Pravilnik o načinu i uvjetima školovanja za potrebe oružanih snaga na vojnim učilištima, školama u građanstvu i inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/107/1414",
+   "versions": [
+    {
+     "from": "2003-07-12",
+     "units": 89,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_107_1414.html",
+     "sha256": "2ebb824e44d56d863196d8bdf867d643cc4ceb6dc801a3958ec86beafa9e8cb8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1430",
+   "path": "pravilnik/2003/1430",
+   "short": "Pravilnik o dopunama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "title": "Pravilnik o dopunama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/108/1430",
+   "versions": [
+    {
+     "from": "2003-07-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_108_1430.html",
+     "sha256": "2af030d65c98a78469d8271cefb9043c3258fc7f233ce674306866f60110cc3a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1451",
+   "path": "pravilnik/2003/1451",
+   "short": "Pravilnik o načinu i kriterijima za utvrđivanje iznosa naknade za korištenje prijenosne i distribucijske mreže",
+   "title": "Pravilnik o načinu i kriterijima za utvrđivanje iznosa naknade za korištenje prijenosne i distribucijske mreže",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/109/1451",
+   "versions": [
+    {
+     "from": "2003-07-17",
+     "units": 76,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_109_1451.html",
+     "sha256": "db4ac8c85f541eecfbdb53d8b48459160a691624e02b6df92d15d036642fb505"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-149",
+   "path": "pravilnik/2003/149",
+   "short": "Pravilnik o izmjenama Pravilnika o pripravničkom stažu zdravstvenih djelatnika",
+   "title": "Pravilnik o izmjenama Pravilnika o pripravničkom stažu zdravstvenih djelatnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/11/149",
+   "versions": [
+    {
+     "from": "2003-01-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_11_149.html",
+     "sha256": "fd1d2c65f8dfcf317656d63167e96a39ab4b4951952c9cd77cadf06f55573df9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1491",
+   "path": "pravilnik/2003/1491",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima tehničke ispravnosti automata i stolova za igre na sreću",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima tehničke ispravnosti automata i stolova za igre na sreću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/110/1491",
+   "versions": [
+    {
+     "from": "2003-07-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_110_1491.html",
+     "sha256": "b65b06e1cf7d9c1c167874ab40942bd39a0765088105b1fbb7b518d6b9ef87b1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-15",
+   "path": "pravilnik/2003/15",
+   "short": "Pravilnik o Programu za polaganje ribočuvarskog ispita i Upisniku o izdanim uvjerenjima o položenom ribočuvarskom ispitu",
+   "title": "Pravilnik o Programu za polaganje ribočuvarskog ispita i Upisniku o izdanim uvjerenjima o položenom ribočuvarskom ispitu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/3/15",
+   "versions": [
+    {
+     "from": "2003-01-15",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_3_15.html",
+     "sha256": "9b83763819356cd692ab0697cef13665f140184083309c4bbd13e6500a904af0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-150",
+   "path": "pravilnik/2003/150",
+   "short": "Pravilnik o uvjetima za potvrđene mjeriteljske laboratorije za ovjeravanje brojila električne energije i načinu njihovog rada",
+   "title": "Pravilnik o uvjetima za potvrđene mjeriteljske laboratorije za ovjeravanje brojila električne energije i načinu njihovog rada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/11/150",
+   "versions": [
+    {
+     "from": "2003-01-30",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_11_150.html",
+     "sha256": "48d4f3fed541361f6b123ce6256a4d296d7089fac2198196d66fca5b9330da2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1505",
+   "path": "pravilnik/2003/1505",
+   "short": "Pravilnik o posebnim uvjetima za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe",
+   "title": "Pravilnik o posebnim uvjetima za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/111/1505",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_111_1505.html",
+     "sha256": "1251a311b6724ccd555d1e7a5c1ed7183d64a79a56b1e750f641f8fdc5e2360e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1536",
+   "path": "pravilnik/2003/1536",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih vojnika i dočasnika",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o standardima profesionalnog razvoja i postupku utvrđivanja nemogućnosti daljnjeg profesionalnog razvoja djelatnih vojnika i dočasnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/112/1536",
+   "versions": [
+    {
+     "from": "2003-07-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_112_1536.html",
+     "sha256": "7a103e5c1dda920787976e7c1a8e8713ddad5b1db4e3c9c60e7b03f2d61c6ef3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1537",
+   "path": "pravilnik/2003/1537",
+   "short": "Pravilnik o vrstama i visini naknade za korištenje usluga Registra godišnjih financijskih izvještaja",
+   "title": "Pravilnik o vrstama i visini naknade za korištenje usluga Registra godišnjih financijskih izvještaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/112/1537",
+   "versions": [
+    {
+     "from": "2003-07-16",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_112_1537.html",
+     "sha256": "6b26048364c807dcdfe80d5bc3401fa6dbe5bd13f3e1c493a31022cee51394f6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1544",
+   "path": "pravilnik/2003/1544",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima za opremu, zaštitne sustave i komponente namijenjene eksplozivnoj atmosferi plinova, para, maglica i prašina",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o temeljnim zahtjevima za opremu, zaštitne sustave i komponente namijenjene eksplozivnoj atmosferi plinova, para, maglica i prašina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/112/1544",
+   "versions": [
+    {
+     "from": "2003-07-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_112_1544.html",
+     "sha256": "c43b7262b0f72373a13c1e0f2a63f136804adf2a43eb4be5342e02af27ad7636"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1560",
+   "path": "pravilnik/2003/1560",
+   "short": "Pravilnik o informativnom prospektu dobrovoljnog mirovinskog fonda",
+   "title": "Pravilnik o informativnom prospektu dobrovoljnog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/113/1560",
+   "versions": [
+    {
+     "from": "2003-07-26",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_113_1560.html",
+     "sha256": "28900e5545606630901bb93d504b64016b39b1c45c10525dd52c8d01686e8735"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-163",
+   "path": "pravilnik/2003/163",
+   "short": "Pravilnik o dopuni Pravilnika o uvjetima i načinu stavljanja u promet sredstava za zaštitu bilja",
+   "title": "Pravilnik o dopuni Pravilnika o uvjetima i načinu stavljanja u promet sredstava za zaštitu bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/13/163",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_01_13_163.html",
+     "sha256": "7b872284813f01980d1f7d5aaf760971bb60649177abe9fe4705aa4142171702"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1652",
+   "path": "pravilnik/2003/1652",
+   "short": "Pravilnik o ispitu za obavljanje poslova brokera i investicijskog savjetnika",
+   "title": "Pravilnik o ispitu za obavljanje poslova brokera i investicijskog savjetnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/118/1652",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_118_1652.html",
+     "sha256": "028a976df19b3d5f6767d5d124cc48240469fa72ea50e30136d4d45a56ad8224"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1653",
+   "path": "pravilnik/2003/1653",
+   "short": "Pravilnik o sadržaju i načinu vođenja knjige naloga",
+   "title": "Pravilnik o sadržaju i načinu vođenja knjige naloga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/118/1653",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_118_1653.html",
+     "sha256": "610fe1ceda7623b5639014b5fe1abec8a1b0502b22818101cd717651b09fb3e4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1655",
+   "path": "pravilnik/2003/1655",
+   "short": "Pravilnik o sadržaju zahtjeva i prilozima za odobrenje prospekta i skraćenom prospektu",
+   "title": "Pravilnik o sadržaju zahtjeva i prilozima za odobrenje prospekta i skraćenom prospektu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/118/1655",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_118_1655.html",
+     "sha256": "5018444c6666e27756f687ccb9e381a1f09afacb6c12c61d22bad4d37c14f929"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1657",
+   "path": "pravilnik/2003/1657",
+   "short": "Pravilnik o sadržaju i obliku financijskih i poslovnih izvješća javnih dioničkih društava",
+   "title": "Pravilnik o sadržaju i obliku financijskih i poslovnih izvješća javnih dioničkih društava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/118/1657",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_118_1657.html",
+     "sha256": "9d4d0c8da2d21b0973a48a63650f23c3d9392190e58a603be0ce94fcd1f8fdc1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1662",
+   "path": "pravilnik/2003/1662",
+   "short": "Pravilnik o uvjetima koje moraju ispunjavati zdravstvene ustanove ili dijelovi zdravstvenih ustanova za dodjelu naziva klinika ili klinička ustanova",
+   "title": "Pravilnik o uvjetima koje moraju ispunjavati zdravstvene ustanove ili dijelovi zdravstvenih ustanova za dodjelu naziva klinika ili klinička ustanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/119/1662",
+   "versions": [
+    {
+     "from": "2003-08-02",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_119_1662.html",
+     "sha256": "f3126a36b1e84dc87425cd3e108fff373b5686a5511b12cba9d72f6610a3f498"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1665",
+   "path": "pravilnik/2003/1665",
+   "short": "Pravilnik o izradi Vodnogospodarske osnove Hrvatske",
+   "title": "Pravilnik o izradi Vodnogospodarske osnove Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/120/1665",
+   "versions": [
+    {
+     "from": "2003-08-03",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_120_1665.html",
+     "sha256": "e1472136c121ba515e019956ac5a13917e3a2a9db5f53dcf26a79533c9a81133"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1736",
+   "path": "pravilnik/2003/1736",
+   "short": "Pravilnik o dopuni Pravilnika o kriterijima, postupku, načinu utvrđivanja i osiguranja križanja željezničke pruge i ceste",
+   "title": "Pravilnik o dopuni Pravilnika o kriterijima, postupku, načinu utvrđivanja i osiguranja križanja željezničke pruge i ceste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/122/1736",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_07_122_1736.html",
+     "sha256": "1aec3ab53d147e6e23622f222fd5bd6c893c34971675e699d78d197a5b6c4a01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1804",
+   "path": "pravilnik/2003/1804",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim zahtjevima za pirotehnička sredstva za zabavu i o njihovom ispitivanju i nadzoru",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim zahtjevima za pirotehnička sredstva za zabavu i o njihovom ispitivanju i nadzoru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/124/1804",
+   "versions": [
+    {
+     "from": "2003-08-09",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_124_1804.html",
+     "sha256": "b160082220a4734a36b2af75366d24a844b6f9b25188069dedcdc68eec8a950b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1809",
+   "path": "pravilnik/2003/1809",
+   "short": "Pravilnik o mjerilima za određivanje plaće i drugih prava vojnim izaslanicima, članovima vojnih izaslanstava te članovima njihove uže obitelji",
+   "title": "Pravilnik o mjerilima za određivanje plaće i drugih prava vojnim izaslanicima, članovima vojnih izaslanstava te članovima njihove uže obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/125/1809",
+   "versions": [
+    {
+     "from": "2003-08-10",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_125_1809.html",
+     "sha256": "e629fbf954d0b2ba13f3f75ad882c5db1a607b7c3948f5e3cc9196f6b8c6b90f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1810",
+   "path": "pravilnik/2003/1810",
+   "short": "Pravilnik o zdravstvenoj ispravnosti vode za potrebe hemodijalize",
+   "title": "Pravilnik o zdravstvenoj ispravnosti vode za potrebe hemodijalize",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/125/1810",
+   "versions": [
+    {
+     "from": "2003-08-10",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_125_1810.html",
+     "sha256": "6deee3089cf87fdf7abba0687e2c22b6718d71d3dd85e27fad936feacf2eb242"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1851",
+   "path": "pravilnik/2003/1851",
+   "short": "Pravilnik o naknadi troškova u prekršajnom postupku",
+   "title": "Pravilnik o naknadi troškova u prekršajnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/126/1851",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_126_1851.html",
+     "sha256": "2552f578ae052ad126e5c800555e9479d9678ac11aa22148943c9f4a2e0152da"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1852",
+   "path": "pravilnik/2003/1852",
+   "short": "Pravilnik o sadržaju obrasca zahtjeva radnika za ostvarivanje prava u slučaju stečaja poslodavca",
+   "title": "Pravilnik o sadržaju obrasca zahtjeva radnika za ostvarivanje prava u slučaju stečaja poslodavca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/126/1852",
+   "versions": [
+    {
+     "from": "2003-08-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_126_1852.html",
+     "sha256": "c9921056697ee03347cfebab77c735445670714e271506f555f58acb2178a904"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1853",
+   "path": "pravilnik/2003/1853",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izradi procjene opasnosti",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izradi procjene opasnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/126/1853",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_126_1853.html",
+     "sha256": "b2fd677f0dbca87fb3b5ccefb22a90781104c8031211855921bf2eda03fb9c84"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1858",
+   "path": "pravilnik/2003/1858",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o korištenju cestovnog zemljišta i obavljanje pratećih djelatnosti",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o korištenju cestovnog zemljišta i obavljanje pratećih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/126/1858",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_126_1858.html",
+     "sha256": "82cb28ab7ef49f07b26933d27a46ae6caa9646810f8e3f4e278b42c7898fa2b8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1931",
+   "path": "pravilnik/2003/1931",
+   "short": "Pravilnik o dopuni Pravilnika o visini naknada za poslove zaštite bilja i biljnih proizvoda u poljoprivredi i šumarstvu",
+   "title": "Pravilnik o dopuni Pravilnika o visini naknada za poslove zaštite bilja i biljnih proizvoda u poljoprivredi i šumarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/130/1931",
+   "versions": [
+    {
+     "from": "2003-08-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_130_1931.html",
+     "sha256": "24e0b93b3018544a9efe6302bf6a9ef6cd971800b7870bec37e83e372f88f8ee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1933",
+   "path": "pravilnik/2003/1933",
+   "short": "Pravilnik o utvrđivanju mreže i kriterija o dostatnom broju stanica za tehnički pregled vozila",
+   "title": "Pravilnik o utvrđivanju mreže i kriterija o dostatnom broju stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/130/1933",
+   "versions": [
+    {
+     "from": "2003-08-21",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_130_1933.html",
+     "sha256": "debd0ce553e8b75dfc927b6ef25e81aad835b0ab70adbf0dd19ced7de7aa8ce5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1953",
+   "path": "pravilnik/2003/1953",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog graničnog prijelaza I. kategorije Čakovec",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog graničnog prijelaza I. kategorije Čakovec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1953",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1953.html",
+     "sha256": "13b0ac113948d21e8818003c6bb7744bbe5e5ae29638112ce9b596ad43577946"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1954",
+   "path": "pravilnik/2003/1954",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Kotoriba",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Kotoriba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1954",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1954.html",
+     "sha256": "b75e0d9cdf0ff140e825824e266e1f82f2348703adf3686f118ae0d22bb1732b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1955",
+   "path": "pravilnik/2003/1955",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Goričan",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Goričan",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1955",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1955.html",
+     "sha256": "27e80ef29ec24170ccf85c10b3bd730d7b5e491b78e3ec5e89d71b9a8112eaf0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1956",
+   "path": "pravilnik/2003/1956",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Trnovec",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Trnovec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1956",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1956.html",
+     "sha256": "9be12ae5ee9b69264919866b347075aa8cf4b914d2b878321b31565f12c1278a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1957",
+   "path": "pravilnik/2003/1957",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Mursko Središće",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Mursko Središće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1957",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1957.html",
+     "sha256": "d4372979fb6545dca19ea56aa424b2f3b4c9288f72f3ebd22856c0fc35e69d00"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1958",
+   "path": "pravilnik/2003/1958",
+   "short": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Bukovje",
+   "title": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Bukovje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1958",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1958.html",
+     "sha256": "3dc35213026145864999aec5a3e4ad58236b8ad295e3a8ec96bb81a174f962fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1959",
+   "path": "pravilnik/2003/1959",
+   "short": "Pravilnik o određivanju područja graničnog prijelaza za pogranični promet Banfi",
+   "title": "Pravilnik o određivanju područja graničnog prijelaza za pogranični promet Banfi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1959",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1959.html",
+     "sha256": "1b7ca89dcb1d9e05e9c72c432dd91d56c2d9c191ade9f724895a74a497e15cbc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1960",
+   "path": "pravilnik/2003/1960",
+   "short": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Baranjsko Petrovo Selo",
+   "title": "Pravilnik o određivanju područja stalnog međudržavnog cestovnog graničnog prijelaza II. kategorije Baranjsko Petrovo Selo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1960",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1960.html",
+     "sha256": "811dded5b078a04fcae86dbf4c35fbc20a4dba1db71c1f94700dd25326a230bb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1961",
+   "path": "pravilnik/2003/1961",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Batina",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Batina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1961",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1961.html",
+     "sha256": "c266150a0aef6d485fa98d696417c928948dbcf227115fb35f54d4e731a4654b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1962",
+   "path": "pravilnik/2003/1962",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Beli Manastir",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Beli Manastir",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1962",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1962.html",
+     "sha256": "1b58937b4594725e5d8fb6cf8ebeaa875533f41e42e4788f2177333e34e3ec37"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1963",
+   "path": "pravilnik/2003/1963",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Donji Miholjac",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Donji Miholjac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1963",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1963.html",
+     "sha256": "de6c927c540d353accc1f53aa0e2d65b0436c5bb8e86c315f65aca8b36ed6a98"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1964",
+   "path": "pravilnik/2003/1964",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Duboševica",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Duboševica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1964",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1964.html",
+     "sha256": "8dafae172c0603957f41b2af301ff71e1e3e92edb722adec9a05c74b619001e4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1965",
+   "path": "pravilnik/2003/1965",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Erdut",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Erdut",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1965",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1965.html",
+     "sha256": "18fcb77607fdc62a55d6c4b5a7d1d01dc2476f15b216df459ae67e7052d2029f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1966",
+   "path": "pravilnik/2003/1966",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Erdut",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog graničnog prijelaza I. kategorije Erdut",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1966",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1966.html",
+     "sha256": "d667812b03756e618a1310f081db56e3e3994286db1ea74c1dd3632d622cfed5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1967",
+   "path": "pravilnik/2003/1967",
+   "short": "Pravilnik o određivanju područja stalnog graničnog prijelaza za međunarodni promet I. kategorije na zračnoj luci Osijek",
+   "title": "Pravilnik o određivanju područja stalnog graničnog prijelaza za međunarodni promet I. kategorije na zračnoj luci Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1967",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1967.html",
+     "sha256": "75b2e4f236d9a7dc55766608afcccf25c6b30351ffb0dfdda32d8e99051621a0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1968",
+   "path": "pravilnik/2003/1968",
+   "short": "Pravilnik o određivanju područja stalnog graničnog prijelaza za međunarodni promet I. kategorije u riječnoj luci Osijek",
+   "title": "Pravilnik o određivanju područja stalnog graničnog prijelaza za međunarodni promet I. kategorije u riječnoj luci Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1968",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1968.html",
+     "sha256": "03d3c5aa161338ed3347fb069948bae05a9443af95067b1b4983a0ddea232ee8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1969",
+   "path": "pravilnik/2003/1969",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog prijelaza I. kategorije Metković",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog željezničkog prijelaza I. kategorije Metković",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1969",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1969.html",
+     "sha256": "2fe224a5d128c77fa7d5897128f81a1e1c54b1ba3a51f908dd962944f3553bac"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1970",
+   "path": "pravilnik/2003/1970",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Klek - Neum 1",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Klek - Neum 1",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1970",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1970.html",
+     "sha256": "d85c209bdaffe7fcc8ae3501febf009b771f77373a17c50b3e098702848e5c63"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1971",
+   "path": "pravilnik/2003/1971",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Gabela polje I",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Gabela polje I",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1971",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1971.html",
+     "sha256": "10f2a4275267a27e0db2d649d3ae63f083c2d3617ed4653c5acc677eb4cc46b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1972",
+   "path": "pravilnik/2003/1972",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Gornji Brgat",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza II. kategorije Gornji Brgat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1972",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1972.html",
+     "sha256": "a2e789d7d27417cafecbce83f8f7777a6ed9edd66bed30c27b7248116d8b8234"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1973",
+   "path": "pravilnik/2003/1973",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Zaton Doli - Neum 2",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Zaton Doli - Neum 2",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1973",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1973.html",
+     "sha256": "704010b52c3869ae3c5c45cf06365b46bf6f1474fec9a032c3f9b4d292108306"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1974",
+   "path": "pravilnik/2003/1974",
+   "short": "Pravilnik o određivanju područja stalnog međudržavnognog cestovnog graničnog prijelaza II. kategorije Vitaljina",
+   "title": "Pravilnik o određivanju područja stalnog međudržavnognog cestovnog graničnog prijelaza II. kategorije Vitaljina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1974",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1974.html",
+     "sha256": "35f35ce9e9d5af241ae44030678b80f6f3b54b95548dc9964b87f4be37c64e93"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1975",
+   "path": "pravilnik/2003/1975",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Karasovići",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog cestovnog graničnog prijelaza I. kategorije Karasovići",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1975",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1975.html",
+     "sha256": "6b0254c72fb422a018338e899a5e8fe15cdc4683a75ad763afdaa1de5e8b72b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1976",
+   "path": "pravilnik/2003/1976",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Ploče",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza I. kategorije Ploče",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1976",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1976.html",
+     "sha256": "032f67c24d1e1186aa56308c990b46116e86fd6ab4b513c0816acba1586c7c96"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1977",
+   "path": "pravilnik/2003/1977",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije Metković",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije Metković",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1977",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1977.html",
+     "sha256": "f61359d5eca0bf9b46e22e7c97ba9bc3fac54bf257b3dc4cf3a122d6e89e3c0a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2003-1978",
+   "path": "pravilnik/2003/1978",
+   "short": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije Ubli-Lastovo",
+   "title": "Pravilnik o određivanju područja stalnog međunarodnog pomorskog graničnog prijelaza II. kategorije Ubli-Lastovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/134/1978",
+   "versions": [
+    {
+     "from": "2003-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2003_08_134_1978.html",
+     "sha256": "17b41255f7bf7965d437f5e1d4be6bf7d9b85c451af7029606b2cf1a7fa70f86"
     }
    ]
   },
