@@ -1,6 +1,6 @@
 # Every act in this repository
 
-28596 acts, 29,022 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+28896 acts, 29,322 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (185, of which 25 amending acts)
 
@@ -14281,7 +14281,7 @@
 | Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 | Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (9433, of which 2579 amending acts)
+## pravilnik (9565, of which 2606 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -15585,8 +15585,35 @@
 | Pravilnik o dopuni Pravilnika o dopuštenom manjku s naslova kala, rastepa, kvara i loma na proizvodima u trgovini | [`pravilnik/2003/3276/`](pravilnik/2003/3276/) | amending act | 1 | 2004-01-06 | 2004-01-06 |
 | Pravilnik o mjerilima za utvrđivanje naknade za oduzeto građevinsko zemljište i poslovni prostor | [`pravilnik/2003/3301/`](pravilnik/2003/3301/) | amended, not consolidated | 1 | 2004-01-07 | 2004-01-07 |
 | Pravilnik o dopuni Pravilnika o sadržaju obrasca R-S | [`pravilnik/2003/3308/`](pravilnik/2003/3308/) | amending act | 1 | 2003-12-30 | 2003-12-30 |
+| Pravilnik o popisu pravnih i fizičkih osoba koje se bave djelatnošću izvoza neopasnog otpada | [`pravilnik/2004/5/`](pravilnik/2004/5/) | in force | 1 | 2004-01-07 | 2004-01-07 |
+| Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz ukupnih prihoda Hrvatskih cesta d.o.o. u 2004. godini | [`pravilnik/2004/6/`](pravilnik/2004/6/) | in force | 1 | 2004-01-15 | 2004-01-15 |
+| Pravilnik o stručnom nadzoru | [`pravilnik/2004/26/`](pravilnik/2004/26/) | amended, not consolidated | 1 | 2004-01-16 | 2004-01-16 |
 | Pravilnik o dopuni Pravilnika o uvjetima i načinu stavljanja u promet sredstava za zaštitu bilja | [`pravilnik/2004/124/`](pravilnik/2004/124/) | amending act | 1 | 2004-01-12 | 2004-01-12 |
 | Pravilnik o izmjenama i dopunama Pravilnika o ostvarivanju prava na potporu osiguranja od mogućih šteta proizvodnji u poljoprivredi, ribarstvu i šumarstvu | [`pravilnik/2004/219/`](pravilnik/2004/219/) | amending act | 1 | 2004-01-16 | 2004-01-16 |
+| Pravilnik o stručnom nadzoru nad radom medicinsko-biokemijskih laboratorija i medicinskim biokemičarima | [`pravilnik/2004/244/`](pravilnik/2004/244/) | cited later, not consolidated | 1 | 2004-01-29 | 2004-01-29 |
+| Pravilnik o izmjenama Pravilnika o uvjetima koje moraju ispunjavati zdravstvene ustanove ili dijelovi zdravstvenih ustanova za dodjelu naziva klinika ili klinička ustanova | [`pravilnik/2004/371/`](pravilnik/2004/371/) | in force | 1 | 2004-02-05 | 2004-02-05 |
+| Pravilnik o najmanjem broju članova posade za sigurnu plovidbu brodova unutarnje plovidbe | [`pravilnik/2004/433/`](pravilnik/2004/433/) | in force | 1 | 2004-03-01 | 2004-03-01 |
+| Pravilnik o izmjeni Pravilnika o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata | [`pravilnik/2004/531/`](pravilnik/2004/531/) | in force | 1 | 2004-02-11 | 2004-02-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi trgovačke mornarice Republike Hrvatske | [`pravilnik/2004/533/`](pravilnik/2004/533/) | amending act | 1 | 2004-02-19 | 2004-02-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima vozila u prometu na cestama | [`pravilnik/2004/534/`](pravilnik/2004/534/) | amending act | 1 | 2004-04-01 | 2004-04-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima provedbe modela poticanje proizvodnje, modela potpore dohotku i programa očuvanja hrvatskih izvornih i zaštićenih pasmina | [`pravilnik/2004/546/`](pravilnik/2004/546/) | amending act | 1 | 2004-02-16 | 2004-02-16 |
+| Pravilnik o načinu i rokovima obračunavanja i plaćanja posebne naknade za okoliš na vozila na motorni pogon | [`pravilnik/2004/549/`](pravilnik/2004/549/) | repealed, not consolidated | 1 | 2004-03-01 | 2004-03-01 |
+| Pravilnik o izmjeni i dopuni Pravilnika o tehničkim uvjetima za sigurnost željezničkog prometa kojima moraju udovoljavati željezničke pruge | [`pravilnik/2004/577/`](pravilnik/2004/577/) | amending act | 1 | 2004-02-26 | 2004-02-26 |
+| Pravilnik o izmjenama i dopunama Pravilnika o priređivanju kladioničkih igara | [`pravilnik/2004/703/`](pravilnik/2004/703/) | amending act | 1 | 2004-03-04 | 2004-03-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obrascima i načinu vođenja evidencije vjerskih zajednica u Republici Hrvatskoj | [`pravilnik/2004/706/`](pravilnik/2004/706/) | amending act | 1 | 2004-02-25 | 2004-02-25 |
+| Pravilnik o unutarnjem ustroju i postupku Povjerenstva za odlučivanje o sukobu interesa | [`pravilnik/2004/715/`](pravilnik/2004/715/) | in force | 1 | 2004-03-06 | 2004-03-06 |
+| Pravilnik o doprinosima za obvezna osiguranja | [`pravilnik/2004/716/`](pravilnik/2004/716/) | repealed, not consolidated | 1 | 2004-02-27 | 2004-02-27 |
+| Pravilnik o načinu provedbe zaštitnih mjera koje su Zakonom o zaštiti od nasilja u obitelji stavljene u nadležnost policije | [`pravilnik/2004/778/`](pravilnik/2004/778/) | repealed, not consolidated | 1 | 2004-03-11 | 2004-03-11 |
+| Pravilnik o postupku utvrđivanja odgovornosti za štetu i naknadi štete | [`pravilnik/2004/798/`](pravilnik/2004/798/) | repealed, not consolidated | 1 | 2004-03-13 | 2004-03-13 |
+| Pravilnik o izmjeni Pravilnika o utvrđivanju postotka oštećenja organizma vojnih i civilnih invalida rata | [`pravilnik/2004/845/`](pravilnik/2004/845/) | in force | 1 | 2004-03-11 | 2004-03-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mikrobiološkim standardima za namirnice | [`pravilnik/2004/846/`](pravilnik/2004/846/) | amending act | 1 | 2004-03-19 | 2004-03-19 |
+| Pravilnik o bitnim tehničkim zahtjevima, sigurnosti i zaštiti pri istraživanju i eksploataciji tekućih i plinovitih ugljikovodika iz podmorja Republike Hrvatske | [`pravilnik/2004/929/`](pravilnik/2004/929/) | repealed, not consolidated | 1 | 2004-03-30 | 2004-03-30 |
+| Pravilnik o određivanju kulturnih predmeta koji se smatraju nacionalnim blagom država članica Europske unije | [`pravilnik/2004/947/`](pravilnik/2004/947/) | amended, not consolidated | 1 | 2004-04-01 | 2004-04-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vježbeničkom stažu stručnih djelatnika u ustanovama socijalne skrbi | [`pravilnik/2004/950/`](pravilnik/2004/950/) | amending act | 1 | 2004-04-01 | 2004-04-01 |
+| Pravilnik o načinu utvrđivanja opće i posebne zdravstvene sposobnosti čuvara i zaštitara u privatnoj zaštiti | [`pravilnik/2004/951/`](pravilnik/2004/951/) | amended, not consolidated | 1 | 2004-04-01 | 2004-04-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mjeriteljskim zahtjevima za pakovine | [`pravilnik/2004/952/`](pravilnik/2004/952/) | amending act | 1 | 2004-04-01 | 2004-04-01 |
+| Pravilnik o proračunskom nadzoru | [`pravilnik/2004/990/`](pravilnik/2004/990/) | repealed, not consolidated | 1 | 2004-04-10 | 2004-04-10 |
+| Pravilnik o izmjenama Pravilnika o načinu i uvjetima provedbe modela poticanja proizvodnje, modela potpore dohotku i programa očuvanja hrvatskih izvornih i zaštićenih pasmina | [`pravilnik/2004/992/`](pravilnik/2004/992/) | in force | 1 | 2004-04-02 | 2004-04-02 |
 | Pravilnik o dopuni Pravilnika o načinu vođenja očevidnika o otrovima te o načinu dostave podataka iz očevidnika | [`pravilnik/2004/1021/`](pravilnik/2004/1021/) | amending act | 1 | 2004-04-13 | 2004-04-13 |
 | Pravilnik o izmjeni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova | [`pravilnik/2004/1025/`](pravilnik/2004/1025/) | in force | 1 | 2004-04-13 | 2004-04-13 |
 | Pravilnik o obliku, sadržaju i načinu vođenja očevidnika obveznika plaćanja posebne naknade za okoliš na vozila na motorni pogon | [`pravilnik/2004/1052/`](pravilnik/2004/1052/) | in force | 1 | 2004-04-06 | 2004-04-06 |
@@ -15687,6 +15714,111 @@
 | Pravilnik o veterinarsko-zdravstvenim uvjetima za izlov, uzgoj, pročišćavanje i stavljanje u promet živih školjkaša | [`pravilnik/2004/2204/`](pravilnik/2004/2204/) | cited later, not consolidated | 1 | 2004-09-02 | 2004-09-02 |
 | Pravilnik o mjerama za monitoring određenih tvari i njihovih rezidua u živim životinjama i proizvodima životinjskog podrijetla | [`pravilnik/2004/2208/`](pravilnik/2004/2208/) | amended, not consolidated | 1 | 2004-09-04 | 2004-09-04 |
 | Pravilnik o postupku i uvjetima za priznavanje prava samostalnih umjetnika na uplatu doprinosa za mirovinsko i invalidsko te zdravstveno osiguranje iz sredstava proračuna Republike Hrvatske | [`pravilnik/2004/2210/`](pravilnik/2004/2210/) | repealed, not consolidated | 1 | 2004-09-07 | 2004-09-07 |
+| Pravilnik o obliku, sadržaju i načinu vođenja očevidnika obveznika plaćanja naknade na emisiju u okoliš oksida sumpora izraženih kao sumporov dioksid | [`pravilnik/2004/2212/`](pravilnik/2004/2212/) | in force | 1 | 2004-09-08 | 2004-09-08 |
+| Pravilnik o obliku, sadržaju i načinu vođenja očevidnika obveznika plaćanja naknade na emisiju u okoliš oksida dušika izraženih kao dušikov dioksid | [`pravilnik/2004/2213/`](pravilnik/2004/2213/) | in force | 1 | 2004-09-08 | 2004-09-08 |
+| Pravilnik o obliku, sadržaju i načinu vođenja očevidnika obveznika plaćanja naknade na opterećivanje okoliša otpadom | [`pravilnik/2004/2214/`](pravilnik/2004/2214/) | in force | 1 | 2004-09-08 | 2004-09-08 |
+| Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati skloništa za životinje i higijenski servisi | [`pravilnik/2004/2234/`](pravilnik/2004/2234/) | in force | 1 | 2004-09-01 | 2004-09-01 |
+| Pravilnik o obrascima u zemljišnoknjižnom postupku | [`pravilnik/2004/2242/`](pravilnik/2004/2242/) | in force | 1 | 2004-09-18 | 2004-09-18 |
+| Pravilnik o izmjenama Pravilnika o koncesijama i dozvolama za obavljanje telekomunikacijskih usluga | [`pravilnik/2004/2245/`](pravilnik/2004/2245/) | in force | 1 | 2004-09-03 | 2004-09-03 |
+| Pravilnik o sigurnosti i zaštiti službenih podataka Ministarstva unutarnjih poslova | [`pravilnik/2004/2263/`](pravilnik/2004/2263/) | amended, not consolidated | 1 | 2004-09-07 | 2004-09-07 |
+| Pravilnik o dopuni Pravilnika o sadržaju obrasca zahtjeva radnika za ostvarivanje prava u slučaju stečaja poslodavca | [`pravilnik/2004/2264/`](pravilnik/2004/2264/) | amending act | 1 | 2004-09-07 | 2004-09-07 |
+| Pravilnik o izmjeni Pravilnika o lovostaji | [`pravilnik/2004/2284/`](pravilnik/2004/2284/) | in force | 1 | 2004-09-18 | 2004-09-18 |
+| Pravilnik o izmjenama i dopunama Pravilnika o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi trgovačke mornarice Republike Hrvatske | [`pravilnik/2004/2285/`](pravilnik/2004/2285/) | amending act | 1 | 2004-09-18 | 2004-09-18 |
+| Pravilnik o izradi gospodarske osnove i godišnjeg plana u slatkovodnom gospodarstvu | [`pravilnik/2004/2315/`](pravilnik/2004/2315/) | in force | 1 | 2004-09-28 | 2004-09-28 |
+| Pravilnik o pošiljkama životinja i proizvoda životinjskog podrijetla koje podliježu veterinarsko-zdravstvenoj kontroli, a za koje nije potrebno rješenje Uprave za veterinarstvo o nepostojanju veterinarsko-zdravstvene smetnje za uvoz i provoz tih pošiljaka te pošiljke životinjskog podrijetla koje ne podliježu veterinarsko-zdravstvenoj kontroli pri uvozu u Republiku Hrvatsku i provozu preko područja Republike Hrvatske | [`pravilnik/2004/2316/`](pravilnik/2004/2316/) | in force | 1 | 2004-09-28 | 2004-09-28 |
+| Pravilnik o tehničkim zahtjevima i postupku homologacije motornih vozila kategorije M i N s obzirom na naprave za vuču TPV 127 (izdanje 00) | [`pravilnik/2004/2370/`](pravilnik/2004/2370/) | in force | 1 | 2004-10-01 | 2004-10-01 |
+| Pravilnik o očevidnicima inspektora telekomunikacija i ovlaštenog radnika Hrvatske agencije za telekomunikacije | [`pravilnik/2004/2381/`](pravilnik/2004/2381/) | repealed, not consolidated | 1 | 2004-10-02 | 2004-10-02 |
+| Pravilnik o pečatu inspektora telekomunikacija i ovlaštenog radnika Hrvatske agencije za telekomunikacije | [`pravilnik/2004/2382/`](pravilnik/2004/2382/) | repealed, not consolidated | 1 | 2004-10-02 | 2004-10-02 |
+| Pravilnik o izmjenama i dopunama Pravilnika o načinu i uvjetima prodaje božićnih drvaca iz vlastite proizvodnje | [`pravilnik/2004/2395/`](pravilnik/2004/2395/) | amending act | 1 | 2004-10-07 | 2004-10-07 |
+| Pravilnik o provođenju monitoringa hrane radi utvrđivanja razina nutrijenata, kontaminata, aditiva, drugih sastojaka i tvari | [`pravilnik/2004/2396/`](pravilnik/2004/2396/) | cited later, not consolidated | 1 | 2004-10-07 | 2004-10-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o procjeni utjecaja na okoliš | [`pravilnik/2004/2408/`](pravilnik/2004/2408/) | amending act | 1 | 2004-10-08 | 2004-10-08 |
+| Pravilnik o jednostavnim građevinama za koje građevinska dozvola nije potrebna | [`pravilnik/2004/2424/`](pravilnik/2004/2424/) | amended, not consolidated | 1 | 2004-10-12 | 2004-10-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o određivanju zahvata u prostoru za koje se ne izdaje lokacijska dozvola | [`pravilnik/2004/2425/`](pravilnik/2004/2425/) | amending act | 1 | 2004-10-12 | 2004-10-12 |
+| Pravilnik o izmjenama i dopunama Pravilnika o prekršajnoj evidenciji | [`pravilnik/2004/2445/`](pravilnik/2004/2445/) | amending act | 1 | 2004-10-14 | 2004-10-14 |
+| Pravilnik o postupku utvrđivanja i rješavanja povreda državne granice | [`pravilnik/2004/2494/`](pravilnik/2004/2494/) | in force | 1 | 2004-10-13 | 2004-10-13 |
+| Pravilnik o posebnim uvjetima za obavljanje djelatnosti radija i televizije | [`pravilnik/2004/2496/`](pravilnik/2004/2496/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Pravilnik o dopuni Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta | [`pravilnik/2004/2525/`](pravilnik/2004/2525/) | amending act | 1 | 2004-10-15 | 2004-10-15 |
+| Pravilnik o najvišim dopuštenim razinama buke u sredini u kojoj ljudi rade i borave | [`pravilnik/2004/2548/`](pravilnik/2004/2548/) | repealed, not consolidated | 1 | 2004-10-27 | 2004-10-27 |
+| Pravilnik o visini novčane pomoći tražiteljima azila, azilantima i osobama pod privremenom zaštitom | [`pravilnik/2004/2549/`](pravilnik/2004/2549/) | in force | 1 | 2004-10-27 | 2004-10-27 |
+| Pravilnik o mjerama za suzbijanje i iskorjenjivanje bruceloze (B. melitensis) i uvjetima za određivanje zdravstvenog statusa stada ovaca i koza u odnosu na brucelozu (B. melitensis) | [`pravilnik/2004/2573/`](pravilnik/2004/2573/) | repealed, not consolidated | 1 | 2004-10-28 | 2004-10-28 |
+| Pravilnik o načinu obavljanja veterinarsko-zdravstvenih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske | [`pravilnik/2004/2586/`](pravilnik/2004/2586/) | repealed, not consolidated | 1 | 2004-10-30 | 2004-10-30 |
+| Pravilnik o načinu obavljanja veterinarsko-zdravstvenog pregleda i kontrola živih životinja u prometu preko granice Republike Hrvatske | [`pravilnik/2004/2587/`](pravilnik/2004/2587/) | repealed, not consolidated | 1 | 2004-10-30 | 2004-10-30 |
+| Pravilnik o posebnim staništima riba i drugih morskih organizama i regulacije ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu | [`pravilnik/2004/2597/`](pravilnik/2004/2597/) | repealed, not consolidated | 1 | 2004-11-02 | 2004-11-02 |
+| Pravilnik o uvjetima i načinu određivanja područja graničnog prijelaza | [`pravilnik/2004/2604/`](pravilnik/2004/2604/) | cited later, not consolidated | 1 | 2004-11-04 | 2004-11-04 |
+| Pravilnik o postupku određivanja privremenih graničnih prijelaza | [`pravilnik/2004/2605/`](pravilnik/2004/2605/) | repealed, not consolidated | 1 | 2004-11-04 | 2004-11-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu stavljanja u promet sredstava za zaštitu bilja | [`pravilnik/2004/2607/`](pravilnik/2004/2607/) | amending act | 1 | 2004-10-27 | 2004-10-27 |
+| Pravilnik o općim uvjetima za obavljanje poštanskih usluga | [`pravilnik/2004/2628/`](pravilnik/2004/2628/) | repealed, not consolidated | 1 | 2004-11-06 | 2004-11-06 |
+| Pravilnik o izmjeni Pravilnika o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu | [`pravilnik/2004/2651/`](pravilnik/2004/2651/) | amended, not consolidated | 1 | 2004-11-02 | 2004-11-02 |
+| Pravilnik o navođenju hranjivih vrijednosti hrane | [`pravilnik/2004/2675/`](pravilnik/2004/2675/) | repealed, not consolidated | 1 | 2004-11-11 | 2004-11-11 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjernih transformatora za ovjeravanje | [`pravilnik/2004/2696/`](pravilnik/2004/2696/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjerila vremena za periodično registriranje srednje vrijednosti vršne električne snage za ovjeravanje | [`pravilnik/2004/2697/`](pravilnik/2004/2697/) | cited later, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu vodomjera za ovjeravanje | [`pravilnik/2004/2698/`](pravilnik/2004/2698/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjerila duljine i kuta za ovjeravanje | [`pravilnik/2004/2699/`](pravilnik/2004/2699/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu staklenih termometara punjenih tekućinom za ovjeravanje | [`pravilnik/2004/2700/`](pravilnik/2004/2700/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu protočnih mjerila za tekućine osim vode za ovjeravanje | [`pravilnik/2004/2702/`](pravilnik/2004/2702/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu automatskih mjerila razine tekućine u nepokretnim spremnicima za ovjeravanje | [`pravilnik/2004/2703/`](pravilnik/2004/2703/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu protočnih mjerila obujma plina za ovjeravanje | [`pravilnik/2004/2704/`](pravilnik/2004/2704/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjerila kojima se ispravlja obujam proteklog plina za ovjeravanje | [`pravilnik/2004/2705/`](pravilnik/2004/2705/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu uređaja za pokazivanje obujma za ovjeravanje | [`pravilnik/2004/2706/`](pravilnik/2004/2706/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima kojima moraju udovoljavati pravne osobe koje obavljaju promet sredstvima za zaštitu bilja na veliko i malo, te o načinu i postupku osposobljavanj | [`pravilnik/2004/2717/`](pravilnik/2004/2717/) | amending act | 1 | 2004-11-08 | 2004-11-08 |
+| Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje mjerila brzine vozila u cestovnom prometu | [`pravilnik/2004/2719/`](pravilnik/2004/2719/) | cited later, not consolidated | 1 | 2004-11-16 | 2004-11-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sudskim službenicima i namještenicima | [`pravilnik/2004/2723/`](pravilnik/2004/2723/) | amending act | 1 | 2004-11-18 | 2004-11-18 |
+| Pravilnik o obliku, sadržaju i načinu postavljanja propisanih oznaka i signalizacije na graničnim prijelazima i uz državnu granicu | [`pravilnik/2004/2750/`](pravilnik/2004/2750/) | repealed, not consolidated | 1 | 2004-11-23 | 2004-11-23 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju djelatnosti u svezi sa zapošljavanjem izvan Hrvatskog zavoda za zapošljavanje | [`pravilnik/2004/2779/`](pravilnik/2004/2779/) | amending act | 1 | 2004-11-25 | 2004-11-25 |
+| Pravilnik o izmjenama Pravilnika o granicama u ribolovnom moru Republike Hrvatske | [`pravilnik/2004/2782/`](pravilnik/2004/2782/) | in force | 1 | 2004-11-17 | 2004-11-17 |
+| Pravilnik o tehničkim uvjetima koje mora ispunjavati stanica za tehnički pregled vozila | [`pravilnik/2004/2786/`](pravilnik/2004/2786/) | amended, not consolidated | 1 | 2004-11-25 | 2004-11-25 |
+| Pravilnik o stručnom nadzoru nad radom stanica za tehnički pregled vozila | [`pravilnik/2004/2787/`](pravilnik/2004/2787/) | amended, not consolidated | 1 | 2004-11-25 | 2004-11-25 |
+| Pravilnik o normativima rada i jedinstvenim elementima vrednovanja rezultata rada u stanicama za tehnički pregled vozila | [`pravilnik/2004/2788/`](pravilnik/2004/2788/) | repealed, not consolidated | 1 | 2004-11-25 | 2004-11-25 |
+| Pravilnik o informatičkom sustavu i jedinstvenomu programskom rješenju za obradu podataka o tehničkim pregledima i registraciji vozila u stanicama za tehnički pregled vozila | [`pravilnik/2004/2789/`](pravilnik/2004/2789/) | repealed, not consolidated | 1 | 2004-11-25 | 2004-11-25 |
+| Pravilnik o dopunama Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima i standardu elaborata prostornih planova | [`pravilnik/2004/2863/`](pravilnik/2004/2863/) | amending act | 1 | 2004-12-02 | 2004-12-02 |
+| Pravilnik o sastavu i načinu rada Povjerenstva za polaganje vozačkog ispita učenika koji se obrazuju za zanimanje vozač motornog vozila u redovitom srednjoškolskom obrazovnom programu | [`pravilnik/2004/2877/`](pravilnik/2004/2877/) | replaced, not consolidated | 1 | 2004-12-04 | 2004-12-04 |
+| Pravilnik o postupku priznavanja novih pasmina, sojeva i hibrida | [`pravilnik/2004/2879/`](pravilnik/2004/2879/) | cited later, not consolidated | 1 | 2004-12-04 | 2004-12-04 |
+| Pravilnik o vođenju matičnih knjiga i uzgojnih upisnika te upisu uzgojno valjanih životinja | [`pravilnik/2004/2880/`](pravilnik/2004/2880/) | amended, not consolidated | 1 | 2004-12-04 | 2004-12-04 |
+| Pravilnik o uvjetima koje moraju ispunjavati uzgojne organizacije za bavljenje uzgojem uzgojno valjanih životinja, te sadržaju očevidnika uzgojnih organizacija | [`pravilnik/2004/2881/`](pravilnik/2004/2881/) | cited later, not consolidated | 1 | 2004-12-04 | 2004-12-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru | [`pravilnik/2004/2882/`](pravilnik/2004/2882/) | amending act | 1 | 2004-11-26 | 2004-11-26 |
+| Pravilnik o izmjeni Pravilnika o Hrvatskom upisniku oporuka | [`pravilnik/2004/2883/`](pravilnik/2004/2883/) | in force | 1 | 2004-12-04 | 2004-12-04 |
+| Pravilnik o obrascu zahtjeva za izdavanje uvozne potvrde za uvoz robe s dvojnom namjenom | [`pravilnik/2004/2913/`](pravilnik/2004/2913/) | repealed, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Pravilnik o obrascu zahtjeva za izdavanje izvozne dozvole za izvoz robe s dvojnom namjenom | [`pravilnik/2004/2914/`](pravilnik/2004/2914/) | repealed, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Pravilnik o upisu u Upisnik uzorkivača poljoprivrednog sjemena | [`pravilnik/2004/2938/`](pravilnik/2004/2938/) | cited later, not consolidated | 1 | 2004-11-30 | 2004-11-30 |
+| Pravilnik o izmjenama Pravilnika o porezu na dohodak | [`pravilnik/2004/2956/`](pravilnik/2004/2956/) | amended, not consolidated | 1 | 2004-12-03 | 2004-12-03 |
+| Pravilnik o načinu i postupku provedbe javnog natječaja za raspodjelu sredstava Fonda za poticanje pluralizma i raznovrsnosti elektroničkih medija | [`pravilnik/2004/2974/`](pravilnik/2004/2974/) | repealed, not consolidated | 1 | 2004-12-14 | 2004-12-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu za turističke vodiče i ispitnom programu za turističke pratitelje | [`pravilnik/2004/2975/`](pravilnik/2004/2975/) | amending act | 1 | 2004-12-14 | 2004-12-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu za turističke animatore | [`pravilnik/2004/2976/`](pravilnik/2004/2976/) | amending act | 1 | 2004-12-14 | 2004-12-14 |
+| Pravilnik o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje taksimetara | [`pravilnik/2004/2982/`](pravilnik/2004/2982/) | cited later, not consolidated | 1 | 2004-12-14 | 2004-12-14 |
+| Pravilnik o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje mjerila koja se upotrebljavaju za ispitivanje električnih instalacija | [`pravilnik/2004/2983/`](pravilnik/2004/2983/) | amended, not consolidated | 1 | 2004-12-14 | 2004-12-14 |
+| Pravilnik o kavi, kavovinama te proizvodima od kave i kavovina | [`pravilnik/2004/3003/`](pravilnik/2004/3003/) | cited later, not consolidated | 1 | 2004-12-16 | 2004-12-16 |
+| Pravilnik o jakim alkoholnim i alkoholnim pićima | [`pravilnik/2004/3004/`](pravilnik/2004/3004/) | amended, not consolidated | 1 | 2004-12-16 | 2004-12-16 |
+| Pravilnik o prehrambenim aditivima | [`pravilnik/2004/3009/`](pravilnik/2004/3009/) | amended, not consolidated | 1 | 2004-12-17 | 2004-12-17 |
+| Pravilnik o odori i oznakama prometnih jedinica mladeži i školskih prometnih jedinica | [`pravilnik/2004/3021/`](pravilnik/2004/3021/) | cited later, not consolidated | 1 | 2004-12-18 | 2004-12-18 |
+| Pravilnik o načinu vođenja evidencije o pokusnim životinjama i vrstama pokusa | [`pravilnik/2004/3055/`](pravilnik/2004/3055/) | cited later, not consolidated | 1 | 2004-12-22 | 2004-12-22 |
+| Pravilnik o uvjetima držanja pokusnih životinja, posebnim uvjetima za nastambe i vrstama pokusa | [`pravilnik/2004/3056/`](pravilnik/2004/3056/) | repealed, not consolidated | 1 | 2004-12-22 | 2004-12-22 |
+| Pravilnik o upućivanju policijskih službenika na rad u inozemstvo | [`pravilnik/2004/3100/`](pravilnik/2004/3100/) | repealed, not consolidated | 1 | 2004-12-25 | 2004-12-25 |
+| Pravilnik o uvjetima koje mora ispunjavati ovlaŠtena struČna organizacija iz Članka 273. Zakona o sigurnosti prometa na cestama | [`pravilnik/2004/3102/`](pravilnik/2004/3102/) | replaced, not consolidated | 1 | 2004-12-25 | 2004-12-25 |
+| Pravilnik o uvjetima koje mora ispunjavati ovlaštena stručna organizacija iz članka 206. Zakona o sigurnosti prometa na cestama | [`pravilnik/2004/3103/`](pravilnik/2004/3103/) | replaced, not consolidated | 1 | 2004-12-25 | 2004-12-25 |
+| Pravilnik o načinu materijalnog zbrinjavanja oružanih snaga Republike Hrvatske | [`pravilnik/2004/3109/`](pravilnik/2004/3109/) | repealed, not consolidated | 1 | 2004-12-25 | 2004-12-25 |
+| Pravilnik o izmjeni Pravilnika o uvjetima za obavljanje udomiteljstva i postupku za odobravanja, obnavljanje i oduzimanje dozvole za obavljanje udomiteljstva | [`pravilnik/2004/3113/`](pravilnik/2004/3113/) | in force | 1 | 2004-12-17 | 2004-12-17 |
+| Pravilnik o izmjenama i dopunama Pravilnika o Sudu časti Hrvatske obrtničke komore | [`pravilnik/2004/3121/`](pravilnik/2004/3121/) | amending act | 1 | 2004-12-25 | 2004-12-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o polaganju stručnog ispita za ovlaštenoga carinskog zastupnika | [`pravilnik/2004/3138/`](pravilnik/2004/3138/) | amending act | 1 | 2004-12-28 | 2004-12-28 |
+| Pravilnik o zdravstvenoj ispravnosti vode za piće | [`pravilnik/2004/3147/`](pravilnik/2004/3147/) | repealed, not consolidated | 1 | 2004-12-30 | 2004-12-30 |
+| Pravilnik o dopunama Pravilnika o uvjetima za držanje otrova skupine III u prostorijama koje služe za druge potrebe | [`pravilnik/2004/3148/`](pravilnik/2004/3148/) | amending act | 1 | 2004-12-30 | 2004-12-30 |
+| Pravilnik o telekomunikacijskim uslugama | [`pravilnik/2004/3157/`](pravilnik/2004/3157/) | cited later, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o prenosivosti broja i predodabiru operatora | [`pravilnik/2004/3158/`](pravilnik/2004/3158/) | amended, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o ovlastima za obavljanje djelatnosti u telekomunikacijama | [`pravilnik/2004/3159/`](pravilnik/2004/3159/) | cited later, not consolidated | 1 | 2004-12-23 | 2004-12-23 |
+| Pravilnik o ograničenjima jakosti elektromagnetskih polja za radijsku opremu i telekomunikacijsku terminalnu opremu | [`pravilnik/2004/3160/`](pravilnik/2004/3160/) | repealed, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o uvjetima koje moraju ispunjavati korisnici sredstava Fonda za zaštitu okoliša i energetsku učinkovitost | [`pravilnik/2004/3163/`](pravilnik/2004/3163/) | repealed, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o uvjetima i načinu dodjeljivanja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost, te kriterijima i mjerilima za ocjenjivanje zahtjeva za dodjeljivanje sredstava Fonda | [`pravilnik/2004/3164/`](pravilnik/2004/3164/) | replaced, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o postupku objavljivanja natječaja i o odlučivanju o odabiru korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost | [`pravilnik/2004/3165/`](pravilnik/2004/3165/) | repealed, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o načinu praćenja namjenskog korištenja sredstava Fonda za zaštitu okoliša i energetsku učinkovitost i ugovorenih prava i obveza | [`pravilnik/2004/3166/`](pravilnik/2004/3166/) | amended, not consolidated | 1 | 2004-12-31 | 2004-12-31 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu uređaja za mjerenje udjela etilnog alkohola u izdahu ispitanika za ovjeravanje | [`pravilnik/2004/3178/`](pravilnik/2004/3178/) | replaced, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu analizatora plinova za ovjeravanje | [`pravilnik/2004/3179/`](pravilnik/2004/3179/) | replaced, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu mjerila vlažnosti zrna žitarica i sjemenki uljarica za ovjeravanje | [`pravilnik/2004/3180/`](pravilnik/2004/3180/) | amended, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Pravilnik o mreži i kriterijima o dovoljnom broju autoškola | [`pravilnik/2004/3212/`](pravilnik/2004/3212/) | replaced, not consolidated | 1 | 2004-12-29 | 2004-12-29 |
+| Pravilnik o stručnom usavršavanju i provjeri stručne osposobljenosti stručnih voditelja autoškola, predavača u autoškolama i instruktora vožnje | [`pravilnik/2004/3213/`](pravilnik/2004/3213/) | repealed, not consolidated | 1 | 2005-01-06 | 2005-01-06 |
+| Pravilnik o jedinstvenim minimalnim izračunskim elementima vrijednosti nastavnog sata u autoškoli | [`pravilnik/2004/3214/`](pravilnik/2004/3214/) | repealed, not consolidated | 1 | 2005-01-06 | 2005-01-06 |
+| Pravilnik o stručnom usavršavanju i provjeri stručne osposobljenosti ovlaštenih ispitivača | [`pravilnik/2004/3215/`](pravilnik/2004/3215/) | repealed, not consolidated | 1 | 2005-01-06 | 2005-01-06 |
+| Pravilnik o programu, načinu stručnog usavršavanja i provjeri stručnosti nadzornika tehničke ispravnosti vozila i referenata za poslove registracije vozila | [`pravilnik/2004/3219/`](pravilnik/2004/3219/) | replaced, not consolidated | 1 | 2005-01-06 | 2005-01-06 |
+| Pravilnik o mjerama za otkrivanje, suzbijanje i iskorjenjivanje klasične svinjske kuge | [`pravilnik/2004/3220/`](pravilnik/2004/3220/) | amended, not consolidated | 1 | 2005-01-01 | 2005-01-01 |
+| Pravilnik o standardima i normativima prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja za 2005. godinu | [`pravilnik/2004/3237/`](pravilnik/2004/3237/) | amended, not consolidated | 1 | 2004-12-30 | 2004-12-30 |
 | Pravilnik o načinu plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje | [`pravilnik/2005/8/`](pravilnik/2005/8/) | amended, not consolidated | 1 | 2005-01-03 | 2005-01-03 |
 | Pravilnik o zdravstvenim uvjetima za rad s izvorima ionizirajućih zračenja te mjerilima, sadržaju, načinu i rokovima čuvanja podataka o zdravstvenim pregledima osoba koje rade s izvorima ionizirajućih zračenja | [`pravilnik/2005/9/`](pravilnik/2005/9/) | repealed, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
 | Pravilnik o tehničkim zahtjevima i postupcima ocjene sukladnosti za neautomatske vage | [`pravilnik/2005/10/`](pravilnik/2005/10/) | amended, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
@@ -23719,7 +23851,7 @@
 | Pravilnik o Upisniku regionalnih koordinatora i lokalnih razvojnih agencija | [`pravilnik/2026/1490/`](pravilnik/2026/1490/) | in force | 1 | 2026-11-10 | 2026-11-10 |
 | Pravilnik o provedbi Programa potpore za provedbu jesenske sjetve u 2026. godini | [`pravilnik/2026/1522/`](pravilnik/2026/1522/) | in force | 1 | 2026-11-07 | 2026-11-07 |
 
-## statut (158, of which 23 amending acts)
+## statut (168, of which 23 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23732,6 +23864,16 @@
 | Statut Hrvatske kreditne banke za obnovu | [`statut/1992/1225/`](statut/1992/1225/) | in force | 1 | 1992-07-31 | 1992-07-31 |
 | Statut Nacionalnog odbora za preventivnu zaštitu i gašenje požara | [`statut/1994/1160/`](statut/1994/1160/) | in force | 1 | 1994-09-16 | 1994-09-16 |
 | Statut Akcije socijaldemokrata Hrvatske | [`statut/1999/1853/`](statut/1999/1853/) | in force | 1 | 1999-02-13 | 1999-02-13 |
+| Statut Hrvatske pučke stranke | [`statut/2001/1067/`](statut/2001/1067/) | cited later, not consolidated | 1 | 2001-04-28 | 2001-04-28 |
+| Statut Vijeća za regulaciju energetskih djelatnosti | [`statut/2002/1096/`](statut/2002/1096/) | in force | 1 | 2002-05-28 | 2002-05-28 |
+| Statut LIBRE - Stranke liberalnih demokrata | [`statut/2002/2019/`](statut/2002/2019/) | in force | 1 | 2002-09-21 | 2002-09-21 |
+| Statut Hrvatske stranke zelenih-Eko saveza | [`statut/2002/2193/`](statut/2002/2193/) | in force | 1 | 2002-09-01 | 2002-09-01 |
+| Statut Hrvatskog zavoda za zapošljavanje | [`statut/2003/1049/`](statut/2003/1049/) | amended, not consolidated | 1 | 2003-05-24 | 2003-05-24 |
+| Statut Savjeta za nacionalne manjine | [`statut/2003/1382/`](statut/2003/1382/) | in force | 1 | 2003-07-02 | 2003-07-02 |
+| Statut Hrvatske pučke seljačke stranke - 1904. | [`statut/2003/2443/`](statut/2003/2443/) | in force | 1 | 2003-07-12 | 2003-07-12 |
+| Statut Hrvatskog zavoda za socijalni rad | [`statut/2003/2680/`](statut/2003/2680/) | replaced, not consolidated | 1 | 2003-11-17 | 2003-11-17 |
+| Statut Fonda za zaštitu okoliša i energetsku učinkovitost | [`statut/2003/3042/`](statut/2003/3042/) | amended, not consolidated | 1 | 2003-12-17 | 2003-12-17 |
+| Statut Hrvatske stomatološke komore | [`statut/2004/1067/`](statut/2004/1067/) | amended, not consolidated | 1 | 2004-04-14 | 2004-04-14 |
 | Statut Agencije za plovne putove unutarnjih voda | [`statut/2005/34/`](statut/2005/34/) | amended, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Statut Agencije za strukovno obrazovanje | [`statut/2005/1016/`](statut/2005/1016/) | amended, not consolidated | 1 | 2005-04-25 | 2005-04-25 |
 | Statut Hrvatske energetske regulatorne agencije | [`statut/2005/1706/`](statut/2005/1706/) | replaced, not consolidated | 1 | 2005-07-23 | 2005-07-23 |
@@ -23882,7 +24024,7 @@
 | Statut političke stranke Dina Dogan - Nezavisna lista | [`statut/2026/887/`](statut/2026/887/) | amended, not consolidated | 1 | 2024-11-30 | 2024-11-30 |
 | Izmjene i dopuna Statuta Hrvatske komore socijalnih pedagoga | [`statut/2026/1299/`](statut/2026/1299/) | amending act | 1 | 2026-10-03 | 2026-10-03 |
 
-## uputa (28, of which 2 amending acts)
+## uputa (35, of which 2 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23906,6 +24048,13 @@
 | Uputa o popunjavanju obrazaca za registraciju kreditnih poslova s inozemstvom | [`uputa/1997/706/`](uputa/1997/706/) | in force | 1 | 1997-05-09 | 1997-05-09 |
 | Uputa o izmjenama i dopunama Upute za provođenje dijela programa statističkih istraživanja Republike Hrvatske koji se odnosi na plaće i materijalna prava zaposlenika u 1997. godini | [`uputa/1999/555/`](uputa/1999/555/) | amending act | 1 | 1999-03-19 | 1999-03-19 |
 | Uputa o vođenju kreditnih spisa | [`uputa/1999/744/`](uputa/1999/744/) | in force | 1 | 1999-04-15 | 1999-04-15 |
+| Uputa za jedinstvenu primjenu Odluke o načinu izračunavanja kapitala banke | [`uputa/2000/2319/`](uputa/2000/2319/) | cited later, not consolidated | 1 | 2000-12-08 | 2000-12-08 |
+| Uputa o upotrebi slovnih kratica i brojčanih oznaka za zemlje i novčane jedinice u platnom prometu s inozemstvom | [`uputa/2001/1840/`](uputa/2001/1840/) | repealed, not consolidated | 1 | 2001-12-22 | 2001-12-22 |
+| Uputa za provedbu članka 50. stavka 1. do 4. Zakona o platnom prometu u zemlji | [`uputa/2002/361/`](uputa/2002/361/) | in force | 1 | 2002-02-21 | 2002-02-21 |
+| Uputa o prikupljanju i objedinjavanju podataka o nepodmirenim obvezama poslovnih subjekata | [`uputa/2002/754/`](uputa/2002/754/) | repealed, not consolidated | 1 | 2002-04-13 | 2002-04-13 |
+| Uputa o načinu provedbe Odluke o načinu dostave i sadržaju podataka koji se dostavljaju Međunarodnom monetarnom fondu | [`uputa/2002/1853/`](uputa/2002/1853/) | in force | 1 | 2002-10-10 | 2002-10-10 |
+| Uputa o upotrebi slovnih kratica i brojčanih oznaka za države i zemlje i novčane jedinice u platnom prometu s inozemstvom | [`uputa/2003/1285/`](uputa/2003/1285/) | repealed, not consolidated | 1 | 2003-06-21 | 2003-06-21 |
+| Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2004/227/`](uputa/2004/227/) | repealed, not consolidated | 1 | 2004-01-27 | 2004-01-27 |
 | Uputa za provedbu Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom | [`uputa/2005/2555/`](uputa/2005/2555/) | amended, not consolidated | 1 | 2005-11-24 | 2005-11-24 |
 | Uputa o upotrebi šifara osnova naplate i plaćanja u platnom prometu s inozemstvom | [`uputa/2005/2557/`](uputa/2005/2557/) | amended, not consolidated | 1 | 2005-11-24 | 2005-11-24 |
 | Uputa o upotrebi slovnih kratica i brojčanih oznaka za države i zemlje i novčane jedinice u platnom prometu s inozemstvom | [`uputa/2006/2796/`](uputa/2006/2796/) | repealed, not consolidated | 1 | 2006-11-30 | 2006-11-30 |
@@ -23915,7 +24064,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (2454, of which 619 amending acts)
+## uredba (2605, of which 640 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -24205,6 +24354,157 @@
 | Uredba o dopuni Zakona o otocima | [`uredba/1999/2276/`](uredba/1999/2276/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjenama i dopunama Uredbe o ustrojavanju županijskih ureda | [`uredba/1999/2278/`](uredba/1999/2278/) | amending act | 1 | 2000-01-08 | 2000-01-08 |
 | Uredba o izmjeni Carinskog zakona | [`uredba/1999/3000/`](uredba/1999/3000/) | in force | 1 | 1999-09-27 | 1999-09-27 |
+| Uredba o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2000/1/`](uredba/2000/1/) | amended, not consolidated | 1 | 2000-01-04 | 2000-01-04 |
+| Uredba o dopuni Uredbe o broju igračnica koje mogu trajno ili povremeno poslovati na području Republike Hrvatske | [`uredba/2000/2/`](uredba/2000/2/) | amending act | 1 | 2000-01-04 | 2000-01-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje polje - Zablaće | [`uredba/2000/3/`](uredba/2000/3/) | replaced, not consolidated | 1 | 2000-01-12 | 2000-01-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica | [`uredba/2000/4/`](uredba/2000/4/) | replaced, not consolidated | 1 | 2000-01-12 | 2000-01-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. luka Šipan | [`uredba/2000/5/`](uredba/2000/5/) | in force | 1 | 2000-01-12 | 2000-01-12 |
+| Uredba o određivanju građevina od važnosti za Republiku Hrvatsku | [`uredba/2000/64/`](uredba/2000/64/) | repealed, not consolidated | 1 | 2000-01-27 | 2000-01-27 |
+| Uredba o dopunama Uredbe o dodacima za poslove s posebnim uvjetima rada | [`uredba/2000/65/`](uredba/2000/65/) | amending act | 1 | 2000-01-19 | 2000-01-19 |
+| Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2000/66/`](uredba/2000/66/) | amending act | 1 | 2000-01-27 | 2000-01-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Oprić | [`uredba/2000/81/`](uredba/2000/81/) | replaced, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Selo Donje | [`uredba/2000/82/`](uredba/2000/82/) | replaced, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
+| Uredba o ukidanju Ureda za europske integracije | [`uredba/2000/238/`](uredba/2000/238/) | in force | 1 | 2000-02-08 | 2000-02-08 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogomolje | [`uredba/2000/389/`](uredba/2000/389/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. sv. Anton | [`uredba/2000/390/`](uredba/2000/390/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Filip i Jakov | [`uredba/2000/391/`](uredba/2000/391/) | in force | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2000/392/`](uredba/2000/392/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lopud | [`uredba/2000/393/`](uredba/2000/393/) | in force | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivaju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2000/394/`](uredba/2000/394/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag | [`uredba/2000/395/`](uredba/2000/395/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/2000/396/`](uredba/2000/396/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/2000/397/`](uredba/2000/397/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/2000/398/`](uredba/2000/398/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva za europske integracije | [`uredba/2000/424/`](uredba/2000/424/) | repealed, not consolidated | 1 | 2000-03-07 | 2000-03-07 |
+| Uredba o izmjeni Uredbe o medicinskom vještačenju u mirovinskom osiguranju | [`uredba/2000/425/`](uredba/2000/425/) | in force | 1 | 2000-02-28 | 2000-02-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2000/426/`](uredba/2000/426/) | replaced, not consolidated | 1 | 2000-03-07 | 2000-03-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Privlaka | [`uredba/2000/427/`](uredba/2000/427/) | in force | 1 | 2000-03-07 | 2000-03-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Murter - Betina | [`uredba/2000/428/`](uredba/2000/428/) | replaced, not consolidated | 1 | 2000-03-07 | 2000-03-07 |
+| Uredba o izmjenama Zakona o doplatku za djecu | [`uredba/2000/446/`](uredba/2000/446/) | in force | 1 | 2000-02-29 | 2000-02-29 |
+| Uredba o načinu postupanja i pohrane izjava o imovini dužnosnika koje imenuje Vlada Republike Hrvatske | [`uredba/2000/540/`](uredba/2000/540/) | in force | 1 | 2000-03-08 | 2000-03-08 |
+| Uredba o unutarnjem ustrojstvu Ministarstva za javne radove, obnovu i graditeljstvo | [`uredba/2000/541/`](uredba/2000/541/) | replaced, not consolidated | 1 | 2000-03-08 | 2000-03-08 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prostornog uređenja | [`uredba/2000/542/`](uredba/2000/542/) | repealed, not consolidated | 1 | 2000-03-08 | 2000-03-08 |
+| Uredba o unutarnjem ustrojstvu Ministarstva za obrt, malo i srednje poduzetništvo | [`uredba/2000/543/`](uredba/2000/543/) | repealed, not consolidated | 1 | 2000-03-08 | 2000-03-08 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa, uprave i lokalne samouprave | [`uredba/2000/544/`](uredba/2000/544/) | amended, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2000/545/`](uredba/2000/545/) | in force | 1 | 2000-03-08 | 2000-03-08 |
+| Uredba o izmjenama i dopunama Uredbe o uredu za suradnju s Međunarodnim sudom pravde i Međunarodnim kaznenim sudom | [`uredba/2000/584/`](uredba/2000/584/) | amending act | 1 | 2000-03-15 | 2000-03-15 |
+| Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata | [`uredba/2000/585/`](uredba/2000/585/) | amended, not consolidated | 1 | 2000-03-23 | 2000-03-23 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2000/586/`](uredba/2000/586/) | repealed, not consolidated | 1 | 2000-03-23 | 2000-03-23 |
+| Uredba o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi | [`uredba/2000/653/`](uredba/2000/653/) | repealed, not consolidated | 1 | 2000-03-30 | 2000-03-30 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zdravstva | [`uredba/2000/696/`](uredba/2000/696/) | repealed, not consolidated | 1 | 2000-04-06 | 2000-04-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Klada | [`uredba/2000/841/`](uredba/2000/841/) | in force | 1 | 2000-04-11 | 2000-04-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis | [`uredba/2000/842/`](uredba/2000/842/) | replaced, not consolidated | 1 | 2000-04-11 | 2000-04-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dramalj | [`uredba/2000/843/`](uredba/2000/843/) | replaced, not consolidated | 1 | 2000-04-11 | 2000-04-11 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2000/849/`](uredba/2000/849/) | replaced, not consolidated | 1 | 2000-04-14 | 2000-04-14 |
+| Uredba o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2000/850/`](uredba/2000/850/) | replaced, not consolidated | 1 | 2000-04-14 | 2000-04-14 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede i šumarstva | [`uredba/2000/876/`](uredba/2000/876/) | replaced, not consolidated | 1 | 2000-04-19 | 2000-04-19 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa, uprave i lokalne samouprave | [`uredba/2000/877/`](uredba/2000/877/) | in force | 1 | 2000-04-06 | 2000-04-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Barbat | [`uredba/2000/878/`](uredba/2000/878/) | replaced, not consolidated | 1 | 2000-04-19 | 2000-04-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Senj | [`uredba/2000/879/`](uredba/2000/879/) | in force | 1 | 2000-04-19 | 2000-04-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2000/880/`](uredba/2000/880/) | replaced, not consolidated | 1 | 2000-04-19 | 2000-04-19 |
+| Uredba o uvjetima i postupku plaćanja povoljnije carine pri uvozu robe koja se besplatno prima iz inozemstva | [`uredba/2000/1013/`](uredba/2000/1013/) | amended, not consolidated | 1 | 2000-05-04 | 2000-05-04 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i veza | [`uredba/2000/1014/`](uredba/2000/1014/) | repealed, not consolidated | 1 | 2000-05-04 | 2000-05-04 |
+| Uredba o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2000/1015/`](uredba/2000/1015/) | repealed, not consolidated | 1 | 2000-04-26 | 2000-04-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. O. Crikvenica | [`uredba/2000/1059/`](uredba/2000/1059/) | replaced, not consolidated | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica | [`uredba/2000/1060/`](uredba/2000/1060/) | replaced, not consolidated | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o Uredu za državnu imovinu | [`uredba/2000/1061/`](uredba/2000/1061/) | repealed, not consolidated | 1 | 2000-05-03 | 2000-05-03 |
+| Uredba o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2000/1062/`](uredba/2000/1062/) | replaced, not consolidated | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo | [`uredba/2000/1087/`](uredba/2000/1087/) | replaced, not consolidated | 1 | 2000-05-19 | 2000-05-19 |
+| Uredba o dopuni Uredbe za provedbu carinskog zakona | [`uredba/2000/1088/`](uredba/2000/1088/) | amending act | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o dopunama Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo | [`uredba/2000/1089/`](uredba/2000/1089/) | amending act | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o dopunama Uredbe o državnoj ergeli lipicanaca | [`uredba/2000/1090/`](uredba/2000/1090/) | amending act | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o dopunama Uredbe o Hrvatskom stočarsko selekcijskom centru | [`uredba/2000/1091/`](uredba/2000/1091/) | amending act | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o dopunama Uredbe o Hrvatskom zavodu za poljoprivrednu savjetodavnu službu | [`uredba/2000/1092/`](uredba/2000/1092/) | amending act | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o dopunama Uredbe o osnivanju Zavoda za vinogradarstvo i vinarstvo | [`uredba/2000/1093/`](uredba/2000/1093/) | amending act | 1 | 2000-05-11 | 2000-05-11 |
+| Uredba o dopuni Uredbe o uredu za suradnju s Međunarodnim sudom pravde i Međunarodnim kaznenim sudom | [`uredba/2000/1105/`](uredba/2000/1105/) | amending act | 1 | 2000-05-12 | 2000-05-12 |
+| Uredba o izmjeni Uredbe za provedbu Carinskog zakona | [`uredba/2000/1106/`](uredba/2000/1106/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+| Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj | [`uredba/2000/1107/`](uredba/2000/1107/) | in force | 1 | 2000-05-12 | 2000-05-12 |
+| Uredba o izmjenama Uredbe o medicinskom vještačenju u mirovinskom osiguranju | [`uredba/2000/1137/`](uredba/2000/1137/) | in force | 1 | 2000-06-01 | 2000-06-01 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva za obrt, malo i srednje poduzetništvo | [`uredba/2000/1234/`](uredba/2000/1234/) | amending act | 1 | 2000-06-06 | 2000-06-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Veprinac | [`uredba/2000/1235/`](uredba/2000/1235/) | replaced, not consolidated | 1 | 2000-06-14 | 2000-06-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi | [`uredba/2000/1236/`](uredba/2000/1236/) | replaced, not consolidated | 1 | 2000-06-14 | 2000-06-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica | [`uredba/2000/1237/`](uredba/2000/1237/) | replaced, not consolidated | 1 | 2000-06-14 | 2000-06-14 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo | [`uredba/2000/1285/`](uredba/2000/1285/) | repealed, not consolidated | 1 | 2000-06-21 | 2000-06-21 |
+| Uredba o zajamčenoj cijeni pšenice roda 2000. godine | [`uredba/2000/1286/`](uredba/2000/1286/) | in force | 1 | 2000-06-21 | 2000-06-21 |
+| Uredba o zajamčenoj cijeni šećerne repe roda 2000. godine | [`uredba/2000/1288/`](uredba/2000/1288/) | in force | 1 | 2000-06-21 | 2000-06-21 |
+| Uredba o zajamčenoj cijeni soje roda 2000. godine | [`uredba/2000/1289/`](uredba/2000/1289/) | in force | 1 | 2000-06-21 | 2000-06-21 |
+| Uredba o zajamčenoj cijeni lista duhana roda 2000. godine | [`uredba/2000/1290/`](uredba/2000/1290/) | in force | 1 | 2000-06-21 | 2000-06-21 |
+| Uredba o zajamčenoj cijeni uljane repice roda 2000. godine | [`uredba/2000/1291/`](uredba/2000/1291/) | repealed, not consolidated | 1 | 2000-06-21 | 2000-06-21 |
+| Uredba o izmjeni i dopunama Uredbe o osnivanju Hrvatskog centra za razminiranje | [`uredba/2000/1292/`](uredba/2000/1292/) | amending act | 1 | 2000-06-13 | 2000-06-13 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije | [`uredba/2000/1327/`](uredba/2000/1327/) | amending act | 1 | 2000-06-28 | 2000-06-28 |
+| Uredba o dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pravosuđa, uprave i lokalne samouprave | [`uredba/2000/1328/`](uredba/2000/1328/) | amending act | 1 | 2000-06-20 | 2000-06-20 |
+| Uredba o Uredu za internetizaciju | [`uredba/2000/1351/`](uredba/2000/1351/) | replaced, not consolidated | 1 | 2000-07-05 | 2000-07-05 |
+| Uredba o uređivanju visine boravišne pristojbe za 2001. godine | [`uredba/2000/1352/`](uredba/2000/1352/) | in force | 1 | 2000-07-05 | 2000-07-05 |
+| Uredba o produženju važenja uredbi koje je Vlada Republike Hrvatske donijela na temelju zakonske ovlasti, a koje prestaju važiti 30. lipnja 2000. godine | [`uredba/2000/1388/`](uredba/2000/1388/) | in force | 1 | 2000-07-01 | 2000-07-01 |
+| Uredba o uvjetima i postupku plaćanja povoljnije carine pri uvozu opreme za tehnološku obnovu brodogradilišta | [`uredba/2000/1429/`](uredba/2000/1429/) | cited later, not consolidated | 1 | 2000-07-13 | 2000-07-13 |
+| Uredba o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2000/1435/`](uredba/2000/1435/) | repealed, not consolidated | 1 | 2000-07-07 | 2000-07-07 |
+| Uredba o unutarnjem ustrojstvu Državne uprave za vode | [`uredba/2000/1436/`](uredba/2000/1436/) | repealed, not consolidated | 1 | 2000-07-15 | 2000-07-15 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kali | [`uredba/2000/1437/`](uredba/2000/1437/) | in force | 1 | 2000-07-15 | 2000-07-15 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Supetar | [`uredba/2000/1438/`](uredba/2000/1438/) | replaced, not consolidated | 1 | 2000-07-15 | 2000-07-15 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska | [`uredba/2000/1439/`](uredba/2000/1439/) | replaced, not consolidated | 1 | 2000-07-15 | 2000-07-15 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Veliko Brdo | [`uredba/2000/1440/`](uredba/2000/1440/) | amended, not consolidated | 1 | 2000-07-15 | 2000-07-15 |
+| Uredba o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`uredba/2000/1511/`](uredba/2000/1511/) | amending act | 1 | 2000-07-17 | 2000-07-17 |
+| Uredba o izmjenama Uredbe o graničnim prijelazima u Republici Hrvatskoj | [`uredba/2000/1512/`](uredba/2000/1512/) | in force | 1 | 2000-07-17 | 2000-07-17 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Nin | [`uredba/2000/1513/`](uredba/2000/1513/) | in force | 1 | 2000-07-25 | 2000-07-25 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku | [`uredba/2000/1568/`](uredba/2000/1568/) | repealed, not consolidated | 1 | 2000-07-28 | 2000-07-28 |
+| Uredba o postotnom povećanju koeficijenata za učitelje i stručne suradnike u osnovnoškolskim ustanovama | [`uredba/2000/1592/`](uredba/2000/1592/) | cited later, not consolidated | 1 | 2000-08-01 | 2000-08-01 |
+| Uredba o izmjenama Uredbe o razvrstavanju u platne razrede poslova na kojima rade namještenici | [`uredba/2000/1593/`](uredba/2000/1593/) | amended, not consolidated | 1 | 2000-08-01 | 2000-08-01 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu obitelji, materinstva i mladeži | [`uredba/2000/1633/`](uredba/2000/1633/) | repealed, not consolidated | 1 | 2000-08-05 | 2000-08-05 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi | [`uredba/2000/1634/`](uredba/2000/1634/) | amending act | 1 | 2000-08-05 | 2000-08-05 |
+| Uredba o Uredu za strategiju razvitka Republike Hrvatske | [`uredba/2000/1654/`](uredba/2000/1654/) | amended, not consolidated | 1 | 2000-08-08 | 2000-08-08 |
+| Uredba o visini godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2000. i za 2001. godinu | [`uredba/2000/1655/`](uredba/2000/1655/) | in force | 1 | 2000-08-08 | 2000-08-08 |
+| Uredba o dopuni Uredbe za provedbu Carinskog zakona | [`uredba/2000/1656/`](uredba/2000/1656/) | amending act | 1 | 2000-08-08 | 2000-08-08 |
+| Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2000/1667/`](uredba/2000/1667/) | repealed, not consolidated | 1 | 2000-08-10 | 2000-08-10 |
+| Uredba o izmjeni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`uredba/2000/1724/`](uredba/2000/1724/) | in force | 1 | 2000-08-25 | 2000-08-25 |
+| Uredba o utvrđivanju postotka o kojem ovisi stjecanje prava na doplatak za djecu | [`uredba/2000/1725/`](uredba/2000/1725/) | in force | 1 | 2000-09-02 | 2000-09-02 |
+| Uredba o zajamčenoj cijeni uljane repice roda 2000. godine | [`uredba/2000/1726/`](uredba/2000/1726/) | in force | 1 | 2000-09-02 | 2000-09-02 |
+| Uredba o zajamčenoj cijeni suncokreta roda 2000. godine | [`uredba/2000/1727/`](uredba/2000/1727/) | in force | 1 | 2000-09-02 | 2000-09-02 |
+| Uredba o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo | [`uredba/2000/1782/`](uredba/2000/1782/) | repealed, not consolidated | 1 | 2000-09-14 | 2000-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kostrena - Sveta Lucija | [`uredba/2000/1783/`](uredba/2000/1783/) | in force | 1 | 2000-09-14 | 2000-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split | [`uredba/2000/1784/`](uredba/2000/1784/) | replaced, not consolidated | 1 | 2000-09-14 | 2000-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opuzen | [`uredba/2000/1785/`](uredba/2000/1785/) | in force | 1 | 2000-09-14 | 2000-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Slano | [`uredba/2000/1786/`](uredba/2000/1786/) | replaced, not consolidated | 1 | 2000-09-14 | 2000-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vela Luka | [`uredba/2000/1787/`](uredba/2000/1787/) | replaced, not consolidated | 1 | 2000-09-14 | 2000-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška | [`uredba/2000/1794/`](uredba/2000/1794/) | replaced, not consolidated | 1 | 2000-09-16 | 2000-09-16 |
+| Uredba o uvjetima sigurnosti plovidbe u lukama -- pristaništima unutarnjih voda | [`uredba/2000/1804/`](uredba/2000/1804/) | in force | 1 | 2000-09-20 | 2000-09-20 |
+| Uredba o određivanju mjerila za utvrđivanje plovnosti državnih plovnih putova | [`uredba/2000/1805/`](uredba/2000/1805/) | repealed, not consolidated | 1 | 2000-09-20 | 2000-09-20 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stari Grad | [`uredba/2000/1806/`](uredba/2000/1806/) | replaced, not consolidated | 1 | 2000-09-21 | 2000-09-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/2000/1807/`](uredba/2000/1807/) | replaced, not consolidated | 1 | 2000-09-21 | 2000-09-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/2000/1808/`](uredba/2000/1808/) | replaced, not consolidated | 1 | 2000-09-21 | 2000-09-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Punat | [`uredba/2000/1809/`](uredba/2000/1809/) | replaced, not consolidated | 1 | 2000-09-21 | 2000-09-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje Polje-Zablaće | [`uredba/2000/1810/`](uredba/2000/1810/) | replaced, not consolidated | 1 | 2000-09-21 | 2000-09-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Povljana | [`uredba/2000/1831/`](uredba/2000/1831/) | in force | 1 | 2000-09-27 | 2000-09-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tuliševica | [`uredba/2000/1832/`](uredba/2000/1832/) | replaced, not consolidated | 1 | 2000-09-27 | 2000-09-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tuliševica | [`uredba/2000/1833/`](uredba/2000/1833/) | replaced, not consolidated | 1 | 2000-09-27 | 2000-09-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Petrčane | [`uredba/2000/1834/`](uredba/2000/1834/) | replaced, not consolidated | 1 | 2000-09-27 | 2000-09-27 |
+| Uredba o osnivanju Ureda Vlade Republike Hrvatske za zatočene i nestale | [`uredba/2000/1867/`](uredba/2000/1867/) | repealed, not consolidated | 1 | 2000-09-26 | 2000-09-26 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata | [`uredba/2000/1868/`](uredba/2000/1868/) | in force | 1 | 2000-09-26 | 2000-09-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sukošan | [`uredba/2000/1875/`](uredba/2000/1875/) | in force | 1 | 2000-10-06 | 2000-10-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kučište | [`uredba/2000/1876/`](uredba/2000/1876/) | in force | 1 | 2000-10-06 | 2000-10-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Petrčane | [`uredba/2000/1877/`](uredba/2000/1877/) | in force | 1 | 2000-10-06 | 2000-10-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Oprić | [`uredba/2000/1878/`](uredba/2000/1878/) | replaced, not consolidated | 1 | 2000-10-06 | 2000-10-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omiš | [`uredba/2000/1879/`](uredba/2000/1879/) | replaced, not consolidated | 1 | 2000-10-06 | 2000-10-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`uredba/2000/1919/`](uredba/2000/1919/) | replaced, not consolidated | 1 | 2000-10-11 | 2000-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Slivno | [`uredba/2000/1920/`](uredba/2000/1920/) | replaced, not consolidated | 1 | 2000-10-11 | 2000-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran | [`uredba/2000/1921/`](uredba/2000/1921/) | replaced, not consolidated | 1 | 2000-10-11 | 2000-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška | [`uredba/2000/1922/`](uredba/2000/1922/) | replaced, not consolidated | 1 | 2000-10-11 | 2000-10-11 |
+| Uredba o zajamčenoj cijeni pšenice roda 2001. godine | [`uredba/2000/1969/`](uredba/2000/1969/) | in force | 1 | 2000-10-18 | 2000-10-18 |
+| Uredba o uvjetima kojima moraju udovoljavati luke unutarnjih voda i o mjerilima za njihovo razvrstavanje | [`uredba/2000/1988/`](uredba/2000/1988/) | cited later, not consolidated | 1 | 2000-10-25 | 2000-10-25 |
+| Uredba o dopuni Uredbe o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2000/2073/`](uredba/2000/2073/) | amending act | 1 | 2000-10-24 | 2000-10-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag | [`uredba/2000/2074/`](uredba/2000/2074/) | replaced, not consolidated | 1 | 2000-11-01 | 2000-11-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`uredba/2000/2075/`](uredba/2000/2075/) | replaced, not consolidated | 1 | 2000-11-01 | 2000-11-01 |
+| Uredba o izmjeni Uredbe o zastupniku vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu | [`uredba/2000/2233/`](uredba/2000/2233/) | in force | 1 | 2000-11-21 | 2000-11-21 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2000/2234/`](uredba/2000/2234/) | amending act | 1 | 2000-11-29 | 2000-11-29 |
+| Uredba o postotnom povećanju koeficijenta platnog razreda nastavnicima i stručnim suradnicima u srednjim školama i učeničkim domovima | [`uredba/2000/2235/`](uredba/2000/2235/) | in force | 1 | 2000-11-29 | 2000-11-29 |
+| Uredba o izmjeni tarife Zakona o upravnim pristojbama | [`uredba/2000/2242/`](uredba/2000/2242/) | amended, not consolidated | 1 | 2000-11-22 | 2000-11-22 |
+| Uredba o početku primjene Zakona o carinskoj tarifi u dijelu koji se odnosi na poglavlja 1. do 24. Carinske tarife | [`uredba/2000/2272/`](uredba/2000/2272/) | in force | 1 | 2000-11-29 | 2000-11-29 |
+| Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/2000/2282/`](uredba/2000/2282/) | replaced, not consolidated | 1 | 2000-12-01 | 2000-12-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o.Sutivan | [`uredba/2000/2299/`](uredba/2000/2299/) | replaced, not consolidated | 1 | 2000-12-14 | 2000-12-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar | [`uredba/2000/2300/`](uredba/2000/2300/) | replaced, not consolidated | 1 | 2000-12-14 | 2000-12-14 |
+| Uredba o Carinskoj tarifi za 2001. godinu | [`uredba/2000/2333/`](uredba/2000/2333/) | amended, not consolidated | 1 | 2001-01-01 | 2001-01-01 |
+| Uredba o prestanku rada Ureda za suradnju s Organizacijom za europsku sigurnost i suradnju (OESS) | [`uredba/2000/2365/`](uredba/2000/2365/) | in force | 1 | 2000-12-20 | 2000-12-20 |
+| Uredba o Uredu za suradnju s međunarodnim institucijama u Republici Hrvatskoj | [`uredba/2000/2366/`](uredba/2000/2366/) | repealed, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
+| Uredba o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika | [`uredba/2000/2413/`](uredba/2000/2413/) | amending act | 1 | 2000-12-28 | 2000-12-28 |
 | Uredba o skupnom izuzeću sporazuma o prijenosu tehnologije | [`uredba/2005/11/`](uredba/2005/11/) | repealed, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Uredba o ograničenjima uporabe radijskih frekvencija | [`uredba/2005/12/`](uredba/2005/12/) | cited later, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Uredba o osnivanju Agencije za strukovno obrazovanje | [`uredba/2005/155/`](uredba/2005/155/) | cited later, not consolidated | 1 | 2005-01-27 | 2005-01-27 |
