@@ -1,6 +1,6 @@
 # Every act in this repository
 
-26796 acts, 27,222 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+27096 acts, 27,522 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (185, of which 25 amending acts)
 
@@ -1293,7 +1293,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (12207, of which 1553 amending acts)
+## odluka (12507, of which 1596 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3987,6 +3987,11 @@
 | Odluka o prirezu porezu na dohodak Općine Lumbarda | [`odluka/2001/2050/`](odluka/2001/2050/) | in force | 1 | 2002-01-05 | 2002-01-05 |
 | Odluka o davanju suglasnosti Hrvatskoj elektroprivredi d.d. za osnivanje trgovačkog društva "Hrvatski nezavisni operator sustava i tržišta d.o.o." | [`odluka/2002/11/`](odluka/2002/11/) | in force | 1 | 2001-12-27 | 2001-12-27 |
 | Odluke o obveznicama, osnovici, stopi te načinu i rokovima za plaćanje doprinosa Hrvatskoj obrtničkoj komori za 2002. godinu | [`odluka/2002/25/`](odluka/2002/25/) | in force | 1 | 2001-12-13 | 2001-12-13 |
+| Odluka o porezima Grada Vrbovskog | [`odluka/2002/61/`](odluka/2002/61/) | repealed, not consolidated | 1 | 2002-01-11 | 2002-01-11 |
+| Odluka o općinskim porezima i prirezu porezu na dohodak Općine Dvor | [`odluka/2002/81/`](odluka/2002/81/) | repealed, not consolidated | 1 | 2002-01-08 | 2002-01-08 |
+| Odluka o općinskim porezima Općine Sv. Petar u Šumi | [`odluka/2002/82/`](odluka/2002/82/) | in force | 1 | 2002-01-16 | 2002-01-16 |
+| Odluka o općinskim porezima Općine Garčin | [`odluka/2002/83/`](odluka/2002/83/) | amended, not consolidated | 1 | 2002-01-16 | 2002-01-16 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Sloveniji, sa sjedištem u Mariboru | [`odluka/2002/99/`](odluka/2002/99/) | in force | 1 | 2002-01-03 | 2002-01-03 |
 | Odluka o prirezu porezu na dohodak Grada Metkovića | [`odluka/2002/112/`](odluka/2002/112/) | in force | 1 | 2002-01-19 | 2002-01-19 |
 | Odluka o prirezu porezu na dohodak Općine Barban | [`odluka/2002/115/`](odluka/2002/115/) | in force | 1 | 2002-01-19 | 2002-01-19 |
 | Odluka o općinskim porezima Općine Lastovo | [`odluka/2002/116/`](odluka/2002/116/) | amended, not consolidated | 1 | 2002-01-19 | 2002-01-19 |
@@ -4004,6 +4009,112 @@
 | Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 2001. godinu | [`odluka/2002/235/`](odluka/2002/235/) | in force | 1 | 2002-01-25 | 2002-01-25 |
 | Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite | [`odluka/2002/236/`](odluka/2002/236/) | amended, not consolidated | 1 | 2002-01-25 | 2002-01-25 |
 | Odluka o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osig | [`odluka/2002/237/`](odluka/2002/237/) | in force | 1 | 2002-01-25 | 2002-01-25 |
+| Odluka o naknadama i nagradi za rad predsjednika i članova Državnoodvjetničkog vijeća | [`odluka/2002/261/`](odluka/2002/261/) | amended, not consolidated | 1 | 2002-01-30 | 2002-01-30 |
+| Odluka o izmjeni Odluke o utvrđivanju plaća zamjenicima i pomoćnicima ravnatelja državnih upravnih organizacija | [`odluka/2002/262/`](odluka/2002/262/) | in force | 1 | 2002-01-30 | 2002-01-30 |
+| Odluka o stavljanju izvan snage Odluke o upravljanju određenim poslovnim prostorom u vlasništvu Republike Hrvatske | [`odluka/2002/263/`](odluka/2002/263/) | in force | 1 | 2002-01-30 | 2002-01-30 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju i sanaciju tehničkog građevnog kamena za kamenolom "Krečane"u k.o. Buzeta | [`odluka/2002/264/`](odluka/2002/264/) | in force | 1 | 2002-01-30 | 2002-01-30 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Državi Izrael, sa sjedištem u Ashdodu | [`odluka/2002/292/`](odluka/2002/292/) | in force | 1 | 2002-01-31 | 2002-01-31 |
+| Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od EUR 500.000.000,00 | [`odluka/2002/294/`](odluka/2002/294/) | replaced, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Makarske | [`odluka/2002/321/`](odluka/2002/321/) | in force | 1 | 2002-02-08 | 2002-02-08 |
+| Odluka o općinskim prirezima i porezima Općine Dubravica | [`odluka/2002/329/`](odluka/2002/329/) | repealed, not consolidated | 1 | 2002-01-24 | 2002-01-24 |
+| Odluka o izmjeni i dopunama Odluke o osnivanju Komisije za granice | [`odluka/2002/342/`](odluka/2002/342/) | amending act | 1 | 2002-02-13 | 2002-02-13 |
+| Odluka o vodećem broju banke | [`odluka/2002/351/`](odluka/2002/351/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o konstrukciji računa u banci | [`odluka/2002/352/`](odluka/2002/352/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o uvjetima i načinu otvaranja računa u banci | [`odluka/2002/353/`](odluka/2002/353/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o sadržaju registra računa poslovnih subjekata u banci | [`odluka/2002/354/`](odluka/2002/354/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o nalozima za plaćanje | [`odluka/2002/356/`](odluka/2002/356/) | repealed, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o izvršenju naloga za plaćanje iz sredstava na računima platitelja koji se vode u različitim bankama | [`odluka/2002/357/`](odluka/2002/357/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o Nacionalnom klirinškom sustavu | [`odluka/2002/358/`](odluka/2002/358/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o Hrvatskom sustavu velikih plaćanja i o namiri na računima banaka u Hrvatskoj narodnoj banci | [`odluka/2002/359/`](odluka/2002/359/) | repealed, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o terminskom planu obračuna preko međubankovnih platnih sustava | [`odluka/2002/360/`](odluka/2002/360/) | repealed, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o izmjenama i dopunama Odluke o rokovima i načinu dostave podataka iz knjiga dionica ili registra vrijednosnih papira u depozitorij Središnje depozitarne agencije | [`odluka/2002/374/`](odluka/2002/374/) | amending act | 1 | 2002-02-23 | 2002-02-23 |
+| Odluka o dopuni i izmjeni Odluke o općinskim porezima u Općini Pićan | [`odluka/2002/377/`](odluka/2002/377/) | amending act | 1 | 2002-02-23 | 2002-02-23 |
+| Odluka o izmjeni Odluke o utvrđivanju plaće članova tijela koja vode poslove pravnih osoba u pretežitom vlasništvu Republike Hrvatske | [`odluka/2002/385/`](odluka/2002/385/) | in force | 1 | 2002-02-14 | 2002-02-14 |
+| Odluka o određivanju količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava standardima kakvoće tekućih naftnih goriva propisanim Uredbom o standardima kakvoće tekućih naftnih goriva | [`odluka/2002/386/`](odluka/2002/386/) | in force | 1 | 2002-02-14 | 2002-02-14 |
+| Odluka o potvrđivanju Statuta Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2002/387/`](odluka/2002/387/) | amended, not consolidated | 1 | 2002-02-19 | 2002-02-19 |
+| Odluka o izmjenama i dopunama Odluke o programu prijama na vježbenički staž stručnih djelatnika - volontera u ustanovama socijalne skrbi | [`odluka/2002/404/`](odluka/2002/404/) | amending act | 1 | 2002-03-02 | 2002-03-02 |
+| Odluka o općim uvjetima za davanje odobrenja domaćoj osobi da drži devize na računu u inozemstvu | [`odluka/2002/409/`](odluka/2002/409/) | repealed, not consolidated | 1 | 2002-03-02 | 2002-03-02 |
+| Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "2002." | [`odluka/2002/410/`](odluka/2002/410/) | in force | 1 | 2002-02-22 | 2002-02-22 |
+| Odluka o davanju koncesije za osnivanje Slobodne zone Varaždin | [`odluka/2002/426/`](odluka/2002/426/) | amended, not consolidated | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju | [`odluka/2002/427/`](odluka/2002/427/) | in force | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Američkim Državama | [`odluka/2002/468/`](odluka/2002/468/) | replaced, not consolidated | 1 | 2002-02-22 | 2002-02-22 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Američkim Državama | [`odluka/2002/469/`](odluka/2002/469/) | replaced, not consolidated | 1 | 2002-02-22 | 2002-02-22 |
+| Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2002/480/`](odluka/2002/480/) | amended, not consolidated | 1 | 2002-03-05 | 2002-03-05 |
+| Odluka o preuzimanju obveza plaćanja sudskih pristojbi za umirovljenike koji su podnijeli tužbu Upravom sudu Republike Hrvatske protiv Republičkog fonda mirovinskog i invalidskog osiguranja radnika Hr | [`odluka/2002/487/`](odluka/2002/487/) | in force | 1 | 2002-03-06 | 2002-03-06 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za eksploataciju tehničkog kamena dijabaza i proširenje eksploatacijskog polja kamenoloma Hruškovec u k.o. Kalnik | [`odluka/2002/488/`](odluka/2002/488/) | in force | 1 | 2002-03-06 | 2002-03-06 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Lučke uprave Dubrovnik | [`odluka/2002/489/`](odluka/2002/489/) | amending act | 1 | 2002-03-06 | 2002-03-06 |
+| Odluka o oduzimanju koncesije u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Tribunj | [`odluka/2002/490/`](odluka/2002/490/) | in force | 1 | 2002-02-28 | 2002-02-28 |
+| Odluka o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Tribunj | [`odluka/2002/491/`](odluka/2002/491/) | cited later, not consolidated | 1 | 2002-02-28 | 2002-02-28 |
+| Odluka o davanju prethodne suglasnosti na Statut Vijeća za telekomunikacije | [`odluka/2002/492/`](odluka/2002/492/) | in force | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o davanju prethodne suglasnosti na Statut Vijeća za regulaciju energetskih djelatnosti | [`odluka/2002/493/`](odluka/2002/493/) | in force | 1 | 2002-02-21 | 2002-02-21 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/2002/505/`](odluka/2002/505/) | in force | 1 | 2002-03-06 | 2002-03-06 |
+| Odluka o rukovanju novčanicama i kovanim novcem kuna i lipa neprikladnim za promet | [`odluka/2002/520/`](odluka/2002/520/) | repealed, not consolidated | 1 | 2002-03-16 | 2002-03-16 |
+| Odluka o davanju suglasnosti na Odluku o najnižoj osnovici, ako plaća služi kao osnovica za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja | [`odluka/2002/533/`](odluka/2002/533/) | in force | 1 | 2002-03-07 | 2002-03-07 |
+| Odluka o primjeni poticajnih mjera na području Grada Iloka, Općine Tovarnik i Općine Lovas | [`odluka/2002/534/`](odluka/2002/534/) | in force | 1 | 2002-03-13 | 2002-03-13 |
+| Odluka o dopuni Odluke o naknadama i nagradi za rad predsjednika i članova Državnoodvjetničkog vijeća | [`odluka/2002/535/`](odluka/2002/535/) | amending act | 1 | 2002-03-13 | 2002-03-13 |
+| Odluka o prirezu poreza na dohodak Grada Vrbovca | [`odluka/2002/560/`](odluka/2002/560/) | repealed, not consolidated | 1 | 2002-03-13 | 2002-03-13 |
+| Odluka o najnižoj osnovici, ako plaća služi kao osnovica za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja | [`odluka/2002/573/`](odluka/2002/573/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o višim osnovicama osiguranja koje služe za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja za osiguranike koji su sami obveznici plaćanja doprinosa | [`odluka/2002/574/`](odluka/2002/574/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja članova uprave trgovačkih društava obvezno osiguranih prema članku 13. Zakona o m | [`odluka/2002/575/`](odluka/2002/575/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja trgovaca pojedinaca upisanih u odgovarajući registar | [`odluka/2002/576/`](odluka/2002/576/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja hrvatskih državljana koji su u Republici Hrvatskoj zaposleni kod stranih diplomat | [`odluka/2002/577/`](odluka/2002/577/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja hrvatskih državljana zaposlenih u inozemstvu kod međunarodnih organizacija i stra | [`odluka/2002/578/`](odluka/2002/578/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja za produženo osiguranje | [`odluka/2002/579/`](odluka/2002/579/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osoba koje se nakon završenog školovanja nalaze na obveznom praktičnom radu ili n | [`odluka/2002/580/`](odluka/2002/580/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osoba koje samostalno obavljaju profesionalnu djelatnost, vrhunskih športaša i ša | [`odluka/2002/581/`](odluka/2002/581/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovici osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja obrtnika | [`odluka/2002/582/`](odluka/2002/582/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovici osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja roditelja koji obavlja roditeljske dužnosti u prvoj godini života djeteta | [`odluka/2002/583/`](odluka/2002/583/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o osnovici osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja poljoprivrednika i članova njihovih kućanstava | [`odluka/2002/584/`](odluka/2002/584/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o stalnoj svoti doprinosa osoba osiguranih u određenim okolnostima za slučaj invalidnosti i tjelesnog oštećenja zbog ozljede na radu ili profesionalne bolesti | [`odluka/2002/585/`](odluka/2002/585/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o najnižoj svoti za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja osiguranika koji su na bolovanju, porodiljnom dopustu i dopustu radi njege djeteta s tež | [`odluka/2002/586/`](odluka/2002/586/) | in force | 1 | 2002-03-23 | 2002-03-23 |
+| Odluka o općinskim porezima Općine Končanica | [`odluka/2002/587/`](odluka/2002/587/) | in force | 1 | 2002-03-15 | 2002-03-15 |
+| Odluka o donošenju Financijskog plana Fonda za razvoj i zapošljavanje za 2002. godinu | [`odluka/2002/588/`](odluka/2002/588/) | in force | 1 | 2002-03-19 | 2002-03-19 |
+| Odluka o donošenju Financijskog plana Fonda za regionalni razvoj Republike Hrvatske za 2002. godinu | [`odluka/2002/589/`](odluka/2002/589/) | in force | 1 | 2002-03-19 | 2002-03-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Mala Subotica | [`odluka/2002/597/`](odluka/2002/597/) | in force | 1 | 2002-03-19 | 2002-03-19 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Vinica | [`odluka/2002/598/`](odluka/2002/598/) | in force | 1 | 2002-03-19 | 2002-03-19 |
+| Odluka o dopuni Odluke o osnivanju Lučke uprave Rijeka | [`odluka/2002/600/`](odluka/2002/600/) | amending act | 1 | 2002-03-19 | 2002-03-19 |
+| Odluka o određivanju cesta po kojima smiju motorna vozila prevoziti opasne tvari i o određivanja mjesta za parkiranje motornih vozila s opasnim tvarima | [`odluka/2002/618/`](odluka/2002/618/) | repealed, not consolidated | 1 | 2002-03-20 | 2002-03-20 |
+| Odluka o utvrđivanju cijene iskaznice zdravstveno osigurane osobe iz osnovnog zdravstvenog osiguranja | [`odluka/2002/626/`](odluka/2002/626/) | repealed, not consolidated | 1 | 2002-03-29 | 2002-03-29 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Meksičkim Državama, sa sjedištem u Ciudad de Mexicu | [`odluka/2002/633/`](odluka/2002/633/) | in force | 1 | 2002-03-19 | 2002-03-19 |
+| Odluka o izmjeni Odluke o naknadi za eksploataciju mineralnih sirovina | [`odluka/2002/661/`](odluka/2002/661/) | in force | 1 | 2002-03-21 | 2002-03-21 |
+| Odluka o davanju državnog jamstva Hrvatskoj narodnoj banci za otplatu kratkoročnog kredita za likvidnost Riječke banke d.d. Rijeka | [`odluka/2002/662/`](odluka/2002/662/) | in force | 1 | 2002-03-21 | 2002-03-21 |
+| Odluka o najnižoj osnovici za obračunavanje i plaćanje doprinosa za osnovno zdravstveno osiguranje | [`odluka/2002/676/`](odluka/2002/676/) | in force | 1 | 2002-03-27 | 2002-03-27 |
+| Odluka o osnovicama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz osnovnog zdravstvenog osiguranja | [`odluka/2002/678/`](odluka/2002/678/) | in force | 1 | 2002-03-27 | 2002-03-27 |
+| Odluka o osnovicama, stopi doprinosa, načinu obračuna i plaćanja doprinosa za osnovno zdravstveno osiguranje stranaca u Republici Hrvatskoj | [`odluka/2002/679/`](odluka/2002/679/) | in force | 1 | 2002-03-27 | 2002-03-27 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2002. | [`odluka/2002/681/`](odluka/2002/681/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2002. | [`odluka/2002/682/`](odluka/2002/682/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2002. | [`odluka/2002/683/`](odluka/2002/683/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o naknadi za troškove smještaja i prehrane za vrijeme profesionalne rehabilitacije izvan mjesta prebivališta korisnika u godini 2002. | [`odluka/2002/684/`](odluka/2002/684/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o naknadi putnih troškova u vezi s ostvarivanjem prava iz mirovinskog osiguranja za godinu 2002. | [`odluka/2002/685/`](odluka/2002/685/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao člana obitelji i uvjetima prestanka prava na obiteljsku mirovinu zbog nastale promjene u imovnom stanju, odnosno prihodima u godini 20 | [`odluka/2002/686/`](odluka/2002/686/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o početku primjene stope carine iz Carinske tarife za 2002. godinu koje se odnose na uvoz roba podrijetlom iz Republike Poljske i Kraljevine Norveške | [`odluka/2002/713/`](odluka/2002/713/) | cited later, not consolidated | 1 | 2002-03-29 | 2002-03-29 |
+| Odluka o isključenju dijela pomorskog dobra iz opće upotrebe za državnu cestu D-40 i davanju na posebnu upotrebu Hrvatskim cestama | [`odluka/2002/725/`](odluka/2002/725/) | amended, not consolidated | 1 | 2002-03-28 | 2002-03-28 |
+| Odluka o izmjeni Odluke o visini naknada za tehnički pregled i registraciju vozila i poslove koji su s tim povezani | [`odluka/2002/743/`](odluka/2002/743/) | in force | 1 | 2002-04-11 | 2002-04-11 |
+| Odluka o porezima Općine Motovun | [`odluka/2002/746/`](odluka/2002/746/) | in force | 1 | 2002-04-11 | 2002-04-11 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Pittsburghu | [`odluka/2002/763/`](odluka/2002/763/) | in force | 1 | 2002-04-03 | 2002-04-03 |
+| Odluka o visini naknada koje Agencija za nadzor mirovinskih fondova i osiguranja naplaćuje za pružanje usluga školovanja | [`odluka/2002/768/`](odluka/2002/768/) | in force | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za prevenciju poremećaja u ponašanju djece i mladeži i zaštitu djece s poremećajima u ponašanju | [`odluka/2002/769/`](odluka/2002/769/) | amending act | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Vijeća za djecu | [`odluka/2002/770/`](odluka/2002/770/) | amending act | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o utvrđivanju interesa Republike Hrvatske radi formiranja eksploatacijskog polja "Mali Kukor", radi eksploatacije mineralne sirovine - gipsa | [`odluka/2002/771/`](odluka/2002/771/) | in force | 1 | 2002-04-10 | 2002-04-10 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Statuta Kliničkog bolničkog centra Zagreb | [`odluka/2002/772/`](odluka/2002/772/) | amending act | 1 | 2002-04-04 | 2002-04-04 |
+| Odluka o prestanku važenja Odluke o određivanju naloga za plaćanje s visokim prioritetom | [`odluka/2002/778/`](odluka/2002/778/) | in force | 1 | 2002-04-18 | 2002-04-18 |
+| Odluka o uvjetima i načinu plaćanja gotovim novcem | [`odluka/2002/779/`](odluka/2002/779/) | in force | 1 | 2002-04-10 | 2002-04-10 |
+| Odluke o načinu obračuna, naplate i plaćanja kamata i naknada Hrvatske narodne banke | [`odluka/2002/780/`](odluka/2002/780/) | repealed, not consolidated | 1 | 2002-04-18 | 2002-04-18 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Gornji Kneginec | [`odluka/2002/841/`](odluka/2002/841/) | in force | 1 | 2002-04-16 | 2002-04-16 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2002/846/`](odluka/2002/846/) | in force | 1 | 2002-04-24 | 2002-04-24 |
+| Odluka o osnovnim obilježjima novčanice od 100 kuna - izdanje 7. ožujka 2002. | [`odluka/2002/847/`](odluka/2002/847/) | in force | 1 | 2002-04-16 | 2002-04-16 |
+| Odluka o izmjeni i dopuni Poslovnika Hrvatskoga sabora | [`odluka/2002/873/`](odluka/2002/873/) | amended, not consolidated | 1 | 2002-04-17 | 2002-04-17 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2002/902/`](odluka/2002/902/) | amended, not consolidated | 1 | 2002-04-25 | 2002-04-25 |
+| Odluka o izmjeni dopune Odluke o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2002/904/`](odluka/2002/904/) | amended, not consolidated | 1 | 2002-04-25 | 2002-04-25 |
+| Odluka o osnivanju konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Barceloni | [`odluka/2002/919/`](odluka/2002/919/) | amended, not consolidated | 1 | 2002-04-22 | 2002-04-22 |
+| Odluka o prirezu poreza na dohodak Grada Garešnice | [`odluka/2002/922/`](odluka/2002/922/) | in force | 1 | 2002-05-04 | 2002-05-04 |
+| Odluka o opsegu prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2002. godinu | [`odluka/2002/931/`](odluka/2002/931/) | in force | 1 | 2002-04-25 | 2002-04-25 |
+| Odluka o dopuni Odluke o davanju koncesije za osnivanje Slobodne zone Đuro Đaković - Slavonski Brod d.o.o. | [`odluka/2002/932/`](odluka/2002/932/) | amending act | 1 | 2002-04-25 | 2002-04-25 |
+| Odluka o dopunama Odluke o izdavanju Globalne obveznice Republike Hrvatske za naknadu imovine oduzete za vrijeme jugoslavenske komunističke vladavine | [`odluka/2002/961/`](odluka/2002/961/) | amending act | 1 | 2002-05-08 | 2002-05-08 |
+| Odluka o izmjenama i dopunama Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova | [`odluka/2002/962/`](odluka/2002/962/) | amending act | 1 | 2002-05-08 | 2002-05-08 |
+| Odluka o vrsti i cijeni police dopunskog zdravstvenog osiguranja | [`odluka/2002/965/`](odluka/2002/965/) | amending act | 1 | 2002-04-30 | 2002-04-30 |
+| Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja "2002." | [`odluka/2002/970/`](odluka/2002/970/) | cited later, not consolidated | 1 | 2002-05-03 | 2002-05-03 |
+| Odluka o terminskom planu obračuna preko međubankovnih platnih sustava | [`odluka/2002/983/`](odluka/2002/983/) | amended, not consolidated | 1 | 2002-05-07 | 2002-05-07 |
 | Odluka o prenamjeni luke posebne namjene - industrijske luke Antenal u luku otvorenu za javni promet | [`odluka/2002/1006/`](odluka/2002/1006/) | in force | 1 | 2002-05-09 | 2002-05-09 |
 | Odluka o prenamjeni luke posebne namjene - naftni terminal Omišalj | [`odluka/2002/1007/`](odluka/2002/1007/) | amended, not consolidated | 1 | 2002-05-09 | 2002-05-09 |
 | Odluka o dopuni Odluke o osnivanju Lučke uprave Rijeka | [`odluka/2002/1008/`](odluka/2002/1008/) | amending act | 1 | 2002-05-15 | 2002-05-15 |
@@ -4240,6 +4351,195 @@
 | Odluka o davanju državnog jamstva po zajmu između društva Hrvatske autoceste d.o.o. i grupe banaka (Zagrebačka banka d.d., Zagreb i DEPFA Investment Bank Limited) | [`odluka/2002/2547/`](odluka/2002/2547/) | in force | 1 | 2002-12-19 | 2002-12-19 |
 | Odluka o prirezu porezu na dohodak Grada Belišća | [`odluka/2002/2556/`](odluka/2002/2556/) | replaced, not consolidated | 1 | 2002-12-31 | 2002-12-31 |
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2002/2563/`](odluka/2002/2563/) | amended, not consolidated | 1 | 2002-12-24 | 2002-12-24 |
+| Odluka o prirezu porezu na dohodak Grada Ludbrega | [`odluka/2002/2564/`](odluka/2002/2564/) | repealed, not consolidated | 1 | 2003-01-01 | 2003-01-01 |
+| Odluka o izmjenama i dopunama Odluke o statističkom izvješću za banke i naputcima za popunjavanje statističkog izvješća | [`odluka/2002/2570/`](odluka/2002/2570/) | amending act | 1 | 2002-12-30 | 2002-12-30 |
+| Odluka o izmjenama i dopunama Statuta Hrvatske obrtničke komore | [`odluka/2002/2572/`](odluka/2002/2572/) | amending act | 1 | 2002-12-09 | 2002-12-09 |
+| Odluka o izmjeni i dopuni Odluke o obveznicima, osnovici i stopi te načinu i rokovima za plaćanje doprinosa Hrvatskoj obrtničkoj komori | [`odluka/2002/2573/`](odluka/2002/2573/) | amending act | 1 | 2002-12-10 | 2002-12-10 |
+| Odluka o izmjenama odluke o prirezu porezu na dohodak Općine Čeminac | [`odluka/2002/2576/`](odluka/2002/2576/) | in force | 1 | 2003-01-07 | 2003-01-07 |
+| Odluka o prirezu porezu na dohodak Općine Dežanovac | [`odluka/2002/2577/`](odluka/2002/2577/) | in force | 1 | 2003-01-07 | 2003-01-07 |
+| Odluka o prirezu porezu na dohodak Općine Vodnjan | [`odluka/2002/2578/`](odluka/2002/2578/) | in force | 1 | 2003-01-07 | 2003-01-07 |
+| Odluka o rasporedu tjednog i dnevnog radnog vremena djelatnih vojnih osoba, službenika i namještenika | [`odluka/2003/110/`](odluka/2003/110/) | repealed, not consolidated | 1 | 2003-01-25 | 2003-01-25 |
+| Odluka o izmjeni i dopuni Odluke o općinskim porezima Općine Mrkopalj | [`odluka/2003/118/`](odluka/2003/118/) | amending act | 1 | 2002-11-22 | 2002-11-22 |
+| Odluka o osnivanju Nacionalnog povjerenstva za suzbijanje HIV/AIDS-a | [`odluka/2003/126/`](odluka/2003/126/) | repealed, not consolidated | 1 | 2003-01-16 | 2003-01-16 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - brodogradilišta i luke nautičkog turizma Brodotrogir d.d., Trogir | [`odluka/2003/127/`](odluka/2003/127/) | in force | 1 | 2002-11-28 | 2002-11-28 |
+| Odluka o oduzimanju koncesije u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Sutomišćica | [`odluka/2003/128/`](odluka/2003/128/) | in force | 1 | 2003-01-16 | 2003-01-16 |
+| Odluka o oduzimanju koncesije u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Dugi Rat | [`odluka/2003/129/`](odluka/2003/129/) | in force | 1 | 2003-01-16 | 2003-01-16 |
+| Odluka o davanju suglasnosti na prijenos dijela ugovora o koncesiji pomorskog dobra u svrhu gradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novigrad, na drugu osobu | [`odluka/2003/130/`](odluka/2003/130/) | in force | 1 | 2003-01-16 | 2003-01-16 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Skradina | [`odluka/2003/131/`](odluka/2003/131/) | in force | 1 | 2003-01-16 | 2003-01-16 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Brestovac | [`odluka/2003/132/`](odluka/2003/132/) | amended, not consolidated | 1 | 2003-01-16 | 2003-01-16 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2003/144/`](odluka/2003/144/) | in force | 1 | 2003-01-29 | 2003-01-29 |
+| Odluka o dopuni Odluke o općim uvjetima za davanje odobrenja domaćoj osobi da drži devize na računu u inozemstvu | [`odluka/2003/145/`](odluka/2003/145/) | amending act | 1 | 2003-01-29 | 2003-01-29 |
+| Odluka o obveznom upisu blagajničkih zapisa Hrvatske narodne banke | [`odluka/2003/146/`](odluka/2003/146/) | amended, not consolidated | 1 | 2003-01-21 | 2003-01-21 |
+| Odluka o izmjeni Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja | [`odluka/2003/151/`](odluka/2003/151/) | in force | 1 | 2003-01-22 | 2003-01-22 |
+| Odluka o izmjeni Odluke o sadržaju, obliku, izgledu i načinu korištenja iskaznice dopunskog zdravstvenog osiguranja | [`odluka/2003/152/`](odluka/2003/152/) | amending act | 1 | 2003-01-22 | 2003-01-22 |
+| Odluka o utvrđivanju cijena rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe za 2 | [`odluka/2003/154/`](odluka/2003/154/) | in force | 1 | 2003-01-22 | 2003-01-22 |
+| Odluka o izmjeni Odluke o utvrđivanju Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2003/155/`](odluka/2003/155/) | amended, not consolidated | 1 | 2003-01-22 | 2003-01-22 |
+| Odluka o općinskim porezima Općine Vrhovine | [`odluka/2003/156/`](odluka/2003/156/) | amended, not consolidated | 1 | 2003-01-30 | 2003-01-30 |
+| Odluka o Nacionalnoj klasifikaciji djelatnosti - NKD 2002 | [`odluka/2003/161/`](odluka/2003/161/) | cited later, not consolidated | 1 | 2003-01-27 | 2003-01-27 |
+| Odluka o izmjeni Odluke o davanju suglasnosti na uvjete zaduženja u inozemstvu za nabavu protupožarnog zrakoplova CL-415 | [`odluka/2003/162/`](odluka/2003/162/) | in force | 1 | 2003-01-27 | 2003-01-27 |
+| Odluka o mjerilima za utvrđivanje primanja i naknadama troškova znanstvenim, stručnim i javnim djelatnicima koji su članovi radnih tijela Hrvatskoga sabora ili su uključeni u njihov rad | [`odluka/2003/189/`](odluka/2003/189/) | amended, not consolidated | 1 | 2003-01-23 | 2003-01-23 |
+| Odluka o zastupničkom paušalu | [`odluka/2003/190/`](odluka/2003/190/) | amended, not consolidated | 1 | 2003-01-23 | 2003-01-23 |
+| Odluka o davanju koncesije za osnivanje Slobodne zone Bjelovar | [`odluka/2003/195/`](odluka/2003/195/) | amended, not consolidated | 1 | 2003-01-23 | 2003-01-23 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 200.000.000,00 | [`odluka/2003/196/`](odluka/2003/196/) | replaced, not consolidated | 1 | 2003-01-23 | 2003-01-23 |
+| Odluka o referentnom prinosu obveznih mirovinskih fondova za 2002. | [`odluka/2003/205/`](odluka/2003/205/) | in force | 1 | 2003-02-06 | 2003-02-06 |
+| Odluka o porezima Općine Barban | [`odluka/2003/206/`](odluka/2003/206/) | replaced, not consolidated | 1 | 2003-02-06 | 2003-02-06 |
+| Odluka o kriterijima za davanje državnih jamstava | [`odluka/2003/214/`](odluka/2003/214/) | amended, not consolidated | 1 | 2003-01-23 | 2003-01-23 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Virovitice | [`odluka/2003/225/`](odluka/2003/225/) | in force | 1 | 2003-02-04 | 2003-02-04 |
+| Odluka o ograničavanju izloženosti banaka valutnom riziku | [`odluka/2003/230/`](odluka/2003/230/) | amended, not consolidated | 1 | 2003-02-12 | 2003-02-12 |
+| Odluka o klasifikaciji plasmana i potencijalnih obveza banaka | [`odluka/2003/231/`](odluka/2003/231/) | repealed, not consolidated | 1 | 2003-02-12 | 2003-02-12 |
+| Odluka o konsolidiranim financijskim izvješćima grupe banaka | [`odluka/2003/232/`](odluka/2003/232/) | repealed, not consolidated | 1 | 2003-02-04 | 2003-02-04 |
+| Odluka o reviziji financijskih izvješća i poslovnih funkcija banke | [`odluka/2003/233/`](odluka/2003/233/) | repealed, not consolidated | 1 | 2003-02-04 | 2003-02-04 |
+| Odluka o obavljanju nadzora nad poslovanjem banaka | [`odluka/2003/234/`](odluka/2003/234/) | repealed, not consolidated | 1 | 2003-02-12 | 2003-02-12 |
+| Odluka o uvjetima i postupku za osnivanje i rad predstavništva strane banke u Republici Hrvatskoj | [`odluka/2003/235/`](odluka/2003/235/) | repealed, not consolidated | 1 | 2003-02-12 | 2003-02-12 |
+| Odluka o prijenosu nekretnina u vlasništvo Fonda za obnovu i razvoj Grada Vukovara | [`odluka/2003/238/`](odluka/2003/238/) | amended, not consolidated | 1 | 2003-01-30 | 2003-01-30 |
+| Odluka o davanju suglasnosti za produljenje vremena trajanja koncesije na pomorskom dobru u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - privezišta Veli Rat | [`odluka/2003/239/`](odluka/2003/239/) | in force | 1 | 2003-01-30 | 2003-01-30 |
+| Odluka o dopuni Odluke o davanju suglasnosti Lučkoj upravi Rijeka za osnivanje Slobodne zone luke Rijeka | [`odluka/2003/1026/`](odluka/2003/1026/) | amending act | 1 | 2003-05-15 | 2003-05-15 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Šibenik | [`odluka/2003/1041/`](odluka/2003/1041/) | in force | 1 | 2003-05-15 | 2003-05-15 |
+| Odluka o izmjenama i dopunama Statuta Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2003/1048/`](odluka/2003/1048/) | amending act | 1 | 2003-06-01 | 2003-06-01 |
+| Odluka o davanju odobrenja za prijenos koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Novigrad | [`odluka/2003/1059/`](odluka/2003/1059/) | in force | 1 | 2003-05-02 | 2003-05-02 |
+| Odluka o izmjeni Odluke o prijenosu nekretnina u vlasništvu Republike Hrvatske u vlasništvo Općine Konavle | [`odluka/2003/1060/`](odluka/2003/1060/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala, u iznosu od 1.000.000.000,00 kuna | [`odluka/2003/1061/`](odluka/2003/1061/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+| Odluka o izmjenama Odluke o povjeravanju poslova upravljanja i raspolaganja imovinom Republike Hrvatske Povjerenstvu Vlade za upravljanje imovinom Republike Hrvatske | [`odluka/2003/1062/`](odluka/2003/1062/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+| Odluka o izmjeni i dopuni Odluke o općinskim porezima Općine Bedenica | [`odluka/2003/1080/`](odluka/2003/1080/) | repealed, not consolidated | 1 | 2003-06-04 | 2003-06-04 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Brestovec | [`odluka/2003/1081/`](odluka/2003/1081/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području grada Skradina | [`odluka/2003/1082/`](odluka/2003/1082/) | in force | 1 | 2003-05-22 | 2003-05-22 |
+| Odluka o izmjenama i dopunama Poslovnika Hrvatskoga sabora | [`odluka/2003/1149/`](odluka/2003/1149/) | amended, not consolidated | 1 | 2003-05-28 | 2003-05-28 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Tisno | [`odluka/2003/1152/`](odluka/2003/1152/) | in force | 1 | 2003-05-29 | 2003-05-29 |
+| Odluka o izdavanju obveznica Republike Hrvatske u iznosu do JPY 25.000.000.000,00 | [`odluka/2003/1153/`](odluka/2003/1153/) | in force | 1 | 2003-05-29 | 2003-05-29 |
+| Odluka o isplati novčane naknade u jednokratnom iznosu | [`odluka/2003/1177/`](odluka/2003/1177/) | repealed, not consolidated | 1 | 2003-06-12 | 2003-06-12 |
+| Odluka o jednokratnoj novčanoj pomoći i naknadi putnih i selidbenih troškova | [`odluka/2003/1178/`](odluka/2003/1178/) | replaced, not consolidated | 1 | 2003-06-12 | 2003-06-12 |
+| Odluka kojom se utvrđuje lista miritelja, odnosno članova mirovnog vijeća | [`odluka/2003/1180/`](odluka/2003/1180/) | in force | 1 | 2003-06-04 | 2003-06-04 |
+| Pravilnik o vojnoj stezi | [`odluka/2003/1209/`](odluka/2003/1209/) | replaced, not consolidated | 1 | 2003-06-15 | 2003-06-15 |
+| Odluka o izdavanja numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja "2003." | [`odluka/2003/1214/`](odluka/2003/1214/) | in force | 1 | 2003-06-07 | 2003-06-07 |
+| Odluka o davanju ovlaštenja za sazivanje konstituirajućih sjednica vijeća nacionalnih manjina | [`odluka/2003/1229/`](odluka/2003/1229/) | replaced, not consolidated | 1 | 2003-06-11 | 2003-06-11 |
+| Odluka o raspisivanju izbora za Općinsko vijeće Općine Fužine | [`odluka/2003/1261/`](odluka/2003/1261/) | repealed, not consolidated | 1 | 2003-06-12 | 2003-06-12 |
+| Odluka kojom se utvrđuje da Općinsko vijeće Općine Fužine nije konstituirano te da dosadašnji povjerenik Vlade Republike Hrvatske u Općini Fužine nastavlja s radom | [`odluka/2003/1262/`](odluka/2003/1262/) | repealed, not consolidated | 1 | 2003-06-12 | 2003-06-12 |
+| Odluka o davanju ovlaštenja Ministarstvu za javne radove, obnovu i graditeljstvo za kupnju stanova za stambeno zbrinjavanje povratnika koji nisu vlasnici kuće ili stana, a živjeli su u stanovima u društvenom vlasništvu (bivši nositelji stanarskog prava) na područjima Republike Hrvatske, koja su izvan područja posebne državne skrbi | [`odluka/2003/1292/`](odluka/2003/1292/) | cited later, not consolidated | 1 | 2003-06-17 | 2003-06-17 |
+| Odluka o izmjeni Odluke o osnivanju Konzulata Republike Hrvatske u Saveznoj Republici Njemačkoj sa sjedištem u Mainzu | [`odluka/2003/1306/`](odluka/2003/1306/) | in force | 1 | 2003-06-10 | 2003-06-10 |
+| Odluka o stavljanju izvan snage Odluke o raspisivanju izbora za Općinsko vijeće Općine Fužine | [`odluka/2003/1307/`](odluka/2003/1307/) | in force | 1 | 2003-06-18 | 2003-06-18 |
+| Odluka o stavljanju izvan snage Odluka kojom se utvrđuje da Općinsko vijeće Općine Fužine nije konstituirano, te da dosadašnji povjerenik Vlade Republike Hrvatske u Općini Fužine nastavlja s radom | [`odluka/2003/1308/`](odluka/2003/1308/) | in force | 1 | 2003-06-18 | 2003-06-18 |
+| Odluka o stavljanju izvan snage Obvezatnih uputa broj LS-I o obrascima za provođenje izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave i Obvezatnih uputa broj | [`odluka/2003/1324/`](odluka/2003/1324/) | in force | 1 | 2003-06-18 | 2003-06-18 |
+| Odluka o početku primjene stopa carine iz Uredbe o Carinskoj tarifi za 2003. godinu koje se odnose na uvoz roba podrijetlom iz Republike Turske | [`odluka/2003/1328/`](odluka/2003/1328/) | in force | 1 | 2003-06-18 | 2003-06-18 |
+| Odluka o davanju suglasnosti na Statut Zavoda za školstvo Republike Hrvatske | [`odluka/2003/1329/`](odluka/2003/1329/) | in force | 1 | 2003-06-18 | 2003-06-18 |
+| Zakon o dopunama Zakona o trgovini | [`odluka/2003/1369/`](odluka/2003/1369/) | amending act | 1 | 2003-07-04 | 2003-07-04 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti prirode | [`odluka/2003/1406/`](odluka/2003/1406/) | amending act | 1 | 2003-07-12 | 2003-07-12 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2003. godinu | [`odluka/2003/1418/`](odluka/2003/1418/) | in force | 1 | 2003-07-04 | 2003-07-04 |
+| Odluka o izvanrednim državnim mjerama za ublažavanje posljedica od suše u 2003. godini | [`odluka/2003/1427/`](odluka/2003/1427/) | in force | 1 | 2003-07-03 | 2003-07-03 |
+| Odluka o izmjenama i dopunama Odluke o kriterijima za davanje državnih jamstava | [`odluka/2003/1428/`](odluka/2003/1428/) | amending act | 1 | 2003-07-03 | 2003-07-03 |
+| Odluka o troškovima u postupcima arbitraže i mirenja | [`odluka/2003/1433/`](odluka/2003/1433/) | amended, not consolidated | 1 | 2003-07-08 | 2003-07-08 |
+| Odluka o naknadi troškova i nagradi arbitrima, članovima tijela Sudišta i drugim sudionicima u postupcima arbitraže i mirenja pred Stalnim izbranim sudištem i Centrom za mirenje Hrvatske gospodarske komore | [`odluka/2003/1434/`](odluka/2003/1434/) | repealed, not consolidated | 1 | 2003-07-16 | 2003-07-16 |
+| Odluka osnivanju Konzulata Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Kalinjingradu | [`odluka/2003/1440/`](odluka/2003/1440/) | in force | 1 | 2003-07-03 | 2003-07-03 |
+| Odluka o prirezu porezu na dohodak Grada Donjeg Miholjca | [`odluka/2003/1487/`](odluka/2003/1487/) | in force | 1 | 2003-07-17 | 2003-07-17 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Talijanskoj Republici sa sjedištem u Mundimitru | [`odluka/2003/1490/`](odluka/2003/1490/) | in force | 1 | 2003-07-04 | 2003-07-04 |
+| Odluka o izmjeni i dopuni Odluke o uvjetima i sadržaju provođenja primarne zdravstvene zaštite grupnom praksom za 2003. godinu | [`odluka/2003/1494/`](odluka/2003/1494/) | amending act | 1 | 2003-07-11 | 2003-07-11 |
+| Odluka o osnivanju Savjeta za mlade | [`odluka/2003/1499/`](odluka/2003/1499/) | amended, not consolidated | 1 | 2003-07-10 | 2003-07-10 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2003. godinu | [`odluka/2003/1501/`](odluka/2003/1501/) | amended, not consolidated | 1 | 2003-07-15 | 2003-07-15 |
+| Odluka o izmjenama i dopunama Odluke o određivanju cesta po kojima motorna vozila smiju prevoziti opasne tvari i o određivanju mjesta za parkiranje motornih vozila s opasnim tvarima | [`odluka/2003/1506/`](odluka/2003/1506/) | amending act | 1 | 2003-07-15 | 2003-07-15 |
+| Odluka o rasporedu osiguranih u Državnom proračunu Republike Hrvatske za 2003. godinu (ŻNarodne novineŽ, br. 154/2002) u Razdjelu 020 Vlada Republike Hrvatske, Glavi 25 Aktivnost: 513001; Etničke i na | [`odluka/2003/1509/`](odluka/2003/1509/) | in force | 1 | 2003-07-15 | 2003-07-15 |
+| Odluka o uvjetima i načinu poslovanja ovlaštenih mjenjača | [`odluka/2003/1510/`](odluka/2003/1510/) | amended, not consolidated | 1 | 2003-07-15 | 2003-07-15 |
+| Odluka o uvjetima za izdavanje odobrenja za otvaranje deviznog računa u inozemstvu | [`odluka/2003/1511/`](odluka/2003/1511/) | amended, not consolidated | 1 | 2003-07-23 | 2003-07-23 |
+| Odluka o uvjetima i načinu otvaranja i vođenja računa nerezidenata u banci | [`odluka/2003/1512/`](odluka/2003/1512/) | repealed, not consolidated | 1 | 2003-07-23 | 2003-07-23 |
+| Odluka o postupku otvaranja i vođenja deviznih računa i deviznih štednih uloga rezidenata u banci | [`odluka/2003/1513/`](odluka/2003/1513/) | amended, not consolidated | 1 | 2003-07-23 | 2003-07-23 |
+| Odluka o uvjetima za izdavanje odobrenja za osobne prijenose imovine u inozemstvo s osnove pomoći i poklona | [`odluka/2003/1514/`](odluka/2003/1514/) | amended, not consolidated | 1 | 2003-07-23 | 2003-07-23 |
+| Odluka o unošenju i iznošenju gotovine, čekova i materijalnih vrijednosnih papira | [`odluka/2003/1515/`](odluka/2003/1515/) | amended, not consolidated | 1 | 2003-07-23 | 2003-07-23 |
+| Odluku o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2003/1518/`](odluka/2003/1518/) | amended, not consolidated | 1 | 2003-07-15 | 2003-07-15 |
+| Odluka o dodjeli koncesije za izgradnju i gospodarsko korištenje lučke infrastrukture i suprastrukture u luci Plomin | [`odluka/2003/1534/`](odluka/2003/1534/) | in force | 1 | 2003-07-10 | 2003-07-10 |
+| Odluka o kriterijima isplate nagrade i troškova rada miritelja, odnosno članova mirovnoga vijeća u postupcima mirenja u kolektivnim radnim sporovima | [`odluka/2003/1543/`](odluka/2003/1543/) | in force | 1 | 2003-07-24 | 2003-07-24 |
+| Odluka o preferencijalnim carinskim kvotama pri uvozu određenih poljoprivrednih proizvoda | [`odluka/2003/1554/`](odluka/2003/1554/) | replaced, not consolidated | 1 | 2003-07-17 | 2003-07-17 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2003) | [`odluka/2003/1563/`](odluka/2003/1563/) | replaced, not consolidated | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Trup (2003) | [`odluka/2003/1564/`](odluka/2003/1564/) | in force | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Cjevovodi (2003) | [`odluka/2003/1565/`](odluka/2003/1565/) | replaced, not consolidated | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Električna oprema (2003) | [`odluka/2003/1566/`](odluka/2003/1566/) | replaced, not consolidated | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Radiooprema (2003 | [`odluka/2003/1567/`](odluka/2003/1567/) | in force | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Pomagala za navigaciju (2003) | [`odluka/2003/1568/`](odluka/2003/1568/) | replaced, not consolidated | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Protupožarna zaštita (2003) | [`odluka/2003/1569/`](odluka/2003/1569/) | replaced, not consolidated | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Zaštita pri radu i smještaj posade (2003) | [`odluka/2003/1570/`](odluka/2003/1570/) | in force | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Sprječavanje zagađivanja (2003) | [`odluka/2003/1571/`](odluka/2003/1571/) | in force | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o kontnom planu za banke | [`odluka/2003/1578/`](odluka/2003/1578/) | repealed, not consolidated | 1 | 2003-07-29 | 2003-07-29 |
+| Odluka o izmjenama i dopunama Odluke o obavljanju nadzora nad poslovanjem banaka | [`odluka/2003/1579/`](odluka/2003/1579/) | amending act | 1 | 2003-07-29 | 2003-07-29 |
+| Odluka o izmjeni i dopuni Odluke o konstrukciji računa u banci, vodećem broju banke, uvjetima i načinu otvaranja računa u banci i sadržaju registra računa poslovnih subjekata u banci | [`odluka/2003/1581/`](odluka/2003/1581/) | amending act | 1 | 2003-07-29 | 2003-07-29 |
+| Odluka o donošenju prostornog plana Nacionalnog parka Kornati | [`odluka/2003/1650/`](odluka/2003/1650/) | in force | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za djelatnost graditeljstva | [`odluka/2003/1666/`](odluka/2003/1666/) | amending act | 1 | 2003-08-03 | 2003-08-03 |
+| Odluka o preferencijalnim carinskim kvotama pri uvozu određenih poljoprivrednih proizvoda iz zemalja članica Europske unije | [`odluka/2003/1717/`](odluka/2003/1717/) | in force | 1 | 2003-07-24 | 2003-07-24 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Sjedinjenim Američkim Državama, sa sjedištem u Kansas Cityju | [`odluka/2003/1732/`](odluka/2003/1732/) | in force | 1 | 2003-07-23 | 2003-07-23 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2003. godinu | [`odluka/2003/1734/`](odluka/2003/1734/) | amended, not consolidated | 1 | 2003-07-30 | 2003-07-30 |
+| Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za provedbu Ugovora o sveobuhvatnoj zabrani nuklearnih pokusa | [`odluka/2003/1735/`](odluka/2003/1735/) | in force | 1 | 2003-07-30 | 2003-07-30 |
+| Odluka o osnivanju Nacionalnog povjerenstva za suzbijanje fascioloidoze | [`odluka/2003/1791/`](odluka/2003/1791/) | repealed, not consolidated | 1 | 2003-07-30 | 2003-07-30 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Tvornice kalničke mineralne i izvorske vode u k.o. Apatovac | [`odluka/2003/1792/`](odluka/2003/1792/) | in force | 1 | 2003-08-01 | 2003-08-01 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za koordinaciju potpore i financiranja obrazovnih, kulturnih, znanstvenih, sportskih i zdravstvenih programa i projekata hrvatskih manjina u susjednim i drugim zemljama i Hrvata u Bosni i Hercegovini, u 2003. godini | [`odluka/2003/1793/`](odluka/2003/1793/) | in force | 1 | 2003-07-30 | 2003-07-30 |
+| Odluka o prirezu porezu na dohodak Općine Markušica | [`odluka/2003/1949/`](odluka/2003/1949/) | repealed, not consolidated | 1 | 2003-08-22 | 2003-08-22 |
+| Odluka o davanju suglasnosti za prijenos dijela prava i obveza koncesionara Specijalne bolnice za medicinsku rehabilitaciju, Krapinske Toplice na Aqua Vivae d.d. Krapinske Toplice | [`odluka/2003/1992/`](odluka/2003/1992/) | in force | 1 | 2003-08-21 | 2003-08-21 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2003/2022/`](odluka/2003/2022/) | amended, not consolidated | 1 | 2003-08-29 | 2003-08-29 |
+| Odluka o osnivanju Veleposlanstva Republike Hrvatske u Velikoj Socijalističkoj Narodnoj Libijskoj Arapskoj Džamahiriji, sa sjedištem u Tripoliju | [`odluka/2003/2023/`](odluka/2003/2023/) | in force | 1 | 2003-08-07 | 2003-08-07 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sv. Petar, Pula | [`odluka/2003/2024/`](odluka/2003/2024/) | amended, not consolidated | 1 | 2003-08-28 | 2003-08-28 |
+| Odluka o izmjeni i dopuni Odluke o razvrstavanju luka posebne namjene | [`odluka/2003/2033/`](odluka/2003/2033/) | amending act | 1 | 2003-09-11 | 2003-09-11 |
+| Odluka o donošenju Pravilnika o postupku za dodjelu činova i promaknuću vojnih osoba u činove | [`odluka/2003/2038/`](odluka/2003/2038/) | repealed, not consolidated | 1 | 2003-09-13 | 2003-09-13 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Iloka | [`odluka/2003/2077/`](odluka/2003/2077/) | replaced, not consolidated | 1 | 2003-09-04 | 2003-09-04 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2003. | [`odluka/2003/2110/`](odluka/2003/2110/) | in force | 1 | 2003-09-23 | 2003-09-23 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2003. | [`odluka/2003/2111/`](odluka/2003/2111/) | in force | 1 | 2003-09-23 | 2003-09-23 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2003. | [`odluka/2003/2112/`](odluka/2003/2112/) | in force | 1 | 2003-09-23 | 2003-09-23 |
+| Odluka o osnivanju Nacionalnog odbora za obilježavanje desete obljetnice Međunarodne godine obitelji u Republici Hrvatskoj u 2004. godini | [`odluka/2003/2119/`](odluka/2003/2119/) | amended, not consolidated | 1 | 2003-09-11 | 2003-09-11 |
+| Odluka o izmjeni Odluke o izvanrednim mjerama za ublažavanje posljedica od suše u 2003. godini | [`odluka/2003/2120/`](odluka/2003/2120/) | in force | 1 | 2003-09-11 | 2003-09-11 |
+| Odluka o uvjetima i načinu obavljanja platnog prometa s inozemstvom | [`odluka/2003/2137/`](odluka/2003/2137/) | amended, not consolidated | 1 | 2003-09-25 | 2003-09-25 |
+| Odluka o načinu i uvjetima pod kojima rezidenti ulažu u strane vrijednosne papire i udjele u stranim investicijskim fondovima | [`odluka/2003/2138/`](odluka/2003/2138/) | repealed, not consolidated | 1 | 2003-09-25 | 2003-09-25 |
+| Odluka o načinu i uvjetima pod kojima nerezidenti ulažu u domaće vrijednosne papire i udjele u domaćim investicijskim fondovima | [`odluka/2003/2139/`](odluka/2003/2139/) | repealed, not consolidated | 1 | 2003-09-25 | 2003-09-25 |
+| Odluka o uvjetima pod kojima nerezidenti izdaju kratkoročne vrijednosne papire u Republici Hrvatskoj | [`odluka/2003/2140/`](odluka/2003/2140/) | repealed, not consolidated | 1 | 2003-09-25 | 2003-09-25 |
+| Odluka o plaćanju i naplati u stranim sredstvima plaćanja u zemlji | [`odluka/2003/2141/`](odluka/2003/2141/) | repealed, not consolidated | 1 | 2003-09-25 | 2003-09-25 |
+| Odluka o načinu i uvjetima pod kojima rezidenti u poslovanju s nerezidentima mogu primiti naplatu ili izvršiti plaćanje u gotovini u kunama, stranoj gotovini i čekovima | [`odluka/2003/2142/`](odluka/2003/2142/) | replaced, not consolidated | 1 | 2003-09-25 | 2003-09-25 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2003. godinu Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2003/2144/`](odluka/2003/2144/) | amending act | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2003. godinu Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2003/2145/`](odluka/2003/2145/) | amending act | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2003. godinu Hrvatskog zavoda za zapošljavanje | [`odluka/2003/2146/`](odluka/2003/2146/) | amending act | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana za 2003. godinu Hrvatskih voda | [`odluka/2003/2147/`](odluka/2003/2147/) | amending act | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka kojom postavljam mr. sc. FRANU KRNIĆA,izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Kraljevini Nizozemskoj, sa sjedištem u Den Haagu, i za stalnog predstavnika Republike Hrvatske pri Organizaciji za zabranu kemijskog oružja (OPCW), sa sjedištem u Den Haagu. Ova Odluka stupa na snagu danom donošenja. Broj: 01-081-03-3065/2 | [`odluka/2003/2151/`](odluka/2003/2151/) | in force | 1 | 2003-09-15 | 2003-09-15 |
+| Odluka kojom postavljam BOŽU KOVAČEVIĆA za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Ruskoj Federaciji, sa sjedištem u Moskvi. Ova Odluka stupa na snagu 15. listopada 2003. godine. Broj: 01-081-03-3020/2 | [`odluka/2003/2153/`](odluka/2003/2153/) | in force | 1 | 2003-10-15 | 2003-10-15 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo | [`odluka/2003/2160/`](odluka/2003/2160/) | amended, not consolidated | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čeminac | [`odluka/2003/2161/`](odluka/2003/2161/) | replaced, not consolidated | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podgorač | [`odluka/2003/2162/`](odluka/2003/2162/) | replaced, not consolidated | 1 | 2003-09-18 | 2003-09-18 |
+| Odluka o primjeni odredaba zakona i drugih propisa iz nadležnosti Hrvatske narodne banke na banke u likvidaciji | [`odluka/2003/2186/`](odluka/2003/2186/) | amended, not consolidated | 1 | 2003-09-24 | 2003-09-24 |
+| Odluka o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih korisnika proračuna Republike Hrvatske u prvom tromjesečju 2004. godine | [`odluka/2003/2188/`](odluka/2003/2188/) | amended, not consolidated | 1 | 2003-10-04 | 2003-10-04 |
+| Odluka o davanju suglasnosti na Privremeni financijski plan za prvo tromjesečje 2004. godine Hrvatskom zavodu za mirovinsko osiguranje | [`odluka/2003/2189/`](odluka/2003/2189/) | in force | 1 | 2003-10-04 | 2003-10-04 |
+| Odluka o davanju suglasnosti na Privremeni financijski plan za prvo tromjesečje 2004. godine Hrvatskom zavodu za zdravstveno osiguranje | [`odluka/2003/2190/`](odluka/2003/2190/) | in force | 1 | 2003-10-04 | 2003-10-04 |
+| Odluka o davanju suglasnosti na Privremeni financijski plan za prvo tromjesečje 2004. godine Hrvatskom zavodu za zapošljavanje | [`odluka/2003/2191/`](odluka/2003/2191/) | in force | 1 | 2003-10-04 | 2003-10-04 |
+| Odluka o davanju suglasnosti na Privremeni financijski plan za prvo tromjesečje 2004. godine Hrvatskim vodama | [`odluka/2003/2192/`](odluka/2003/2192/) | in force | 1 | 2003-10-04 | 2003-10-04 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi, za razdoblje rujan - prosinac 2003. godine | [`odluka/2003/2224/`](odluka/2003/2224/) | in force | 1 | 2003-09-30 | 2003-09-30 |
+| Odluka o najvišem iznosu novčane naknade za nezaposlenu osobu | [`odluka/2003/2225/`](odluka/2003/2225/) | replaced, not consolidated | 1 | 2003-09-30 | 2003-09-30 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Lučke uprave Zadar | [`odluka/2003/2226/`](odluka/2003/2226/) | amending act | 1 | 2003-09-30 | 2003-09-30 |
+| Odluka o prestanku važenja Upute o načinu i postupku izrade izvješća o stanju potraživanja u inozemstvu | [`odluka/2003/2242/`](odluka/2003/2242/) | in force | 1 | 2003-10-03 | 2003-10-03 |
+| Odluka o proširenju jurisdikcije Republike Hrvatske na Jadranskom moru | [`odluka/2003/2250/`](odluka/2003/2250/) | repealed, not consolidated | 1 | 2003-10-03 | 2003-10-03 |
+| Odluka o izmjeni i dopuni Odluke o smještaju zastupnika Hrvatskog sabora u Zagrebu u vrijeme zasjedanja Sabora, radnih tijela i Klubova zastupnika | [`odluka/2003/2262/`](odluka/2003/2262/) | amending act | 1 | 2003-10-01 | 2003-10-01 |
+| Odluka o osnivanju i zadaćama Vijeća za strukovno obrazovanje | [`odluka/2003/2268/`](odluka/2003/2268/) | in force | 1 | 2003-10-02 | 2003-10-02 |
+| Odluka o osnivanju i zadaćama Vijeća za opće i umjetničko obrazovanje | [`odluka/2003/2269/`](odluka/2003/2269/) | in force | 1 | 2003-10-02 | 2003-10-02 |
+| Odluka o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih proizvoda | [`odluka/2003/2270/`](odluka/2003/2270/) | amended, not consolidated | 1 | 2003-10-02 | 2003-10-02 |
+| Odluka o izmjeni i dopuni Odluke o odobrenju eksploatacijskog polja ugljikovodika Vučkovec | [`odluka/2003/2271/`](odluka/2003/2271/) | amending act | 1 | 2003-10-02 | 2003-10-02 |
+| Odluka o izmjeni i dopuni Odluke o odobrenju eksploatacijskog polja ugljikovodika Vukanovec | [`odluka/2003/2272/`](odluka/2003/2272/) | amending act | 1 | 2003-10-02 | 2003-10-02 |
+| Odluka o izmjenama i dopunama Odluke o dodjeli koncesije za zahvaćanje voda za potrebe javne vodoopskrbe Komunalnom poduzeću "Komunalac" s p.o., Ogulin | [`odluka/2003/2273/`](odluka/2003/2273/) | amending act | 1 | 2003-10-02 | 2003-10-02 |
+| Pravilnik o dopuni Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja | [`odluka/2003/2285/`](odluka/2003/2285/) | amending act | 1 | 2003-10-15 | 2003-10-15 |
+| Odluka o dodjeli pomoći gradovima i općinama za ublažavanje posljedica štete od elementarnih nepogoda, posebno suše u 2003. | [`odluka/2003/2291/`](odluka/2003/2291/) | in force | 1 | 2003-10-03 | 2003-10-03 |
+| Odluka o naknadi dijela sredstava pri uvozu osobnog automobila u visini plaćenog poreza na dodanu vrijednost za 2003. godinu | [`odluka/2003/2300/`](odluka/2003/2300/) | in force | 1 | 2003-10-02 | 2003-10-02 |
+| Zakon o izmjeni Zakona o nasljeđivanju | [`odluka/2003/2350/`](odluka/2003/2350/) | in force | 1 | 2003-10-24 | 2003-10-24 |
+| Odluka o raspuštanju Hrvatskoga sabora | [`odluka/2003/2354/`](odluka/2003/2354/) | replaced, not consolidated | 1 | 2003-10-17 | 2003-10-17 |
+| Odluka o raspisivanju izbora za zastupnike u Hrvatskom saboru | [`odluka/2003/2378/`](odluka/2003/2378/) | cited later, not consolidated | 1 | 2003-10-20 | 2003-10-20 |
+| Odluka o sudjelovanju pripadnika oružanih snaga Republike Hrvatske u mirovnoj misiji UN-a u Liberiji | [`odluka/2003/2400/`](odluka/2003/2400/) | in force | 1 | 2003-10-22 | 2003-10-22 |
+| Odluka o izradi Strategije razvitka jezične kulture | [`odluka/2003/2417/`](odluka/2003/2417/) | in force | 1 | 2003-10-16 | 2003-10-16 |
+| Odluka o osnivanju Povjerenstva za izradu pojmovnika za službene prijevode akata Europske unije, odnosno hrvatskog zakonodavstva na službeni jezik Europske unije | [`odluka/2003/2418/`](odluka/2003/2418/) | repealed, not consolidated | 1 | 2003-10-16 | 2003-10-16 |
+| Odluka o izdavanju službene verzije prijevoda propisa Republike Hrvatske na strane jezike i službenih prijevoda pravne stečevine Europske unije (acquis communautaire-a) na hrvatski jezik | [`odluka/2003/2419/`](odluka/2003/2419/) | in force | 1 | 2003-10-16 | 2003-10-16 |
+| Odluka o izmjenama Odluke o osnivanju Povjerenstva Vlade Republike Hrvatske za osobe s invaliditetom | [`odluka/2003/2420/`](odluka/2003/2420/) | in force | 1 | 2003-10-16 | 2003-10-16 |
+| Odluka o pokretanju postupka prisilne likvidacije Međimurske štedionice d.d. Čakovec | [`odluka/2003/2428/`](odluka/2003/2428/) | in force | 1 | 2003-10-15 | 2003-10-15 |
+| Odluka o obvezi rada ureda državne uprave u dane izbora | [`odluka/2003/2440/`](odluka/2003/2440/) | replaced, not consolidated | 1 | 2003-10-23 | 2003-10-23 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kneževi Vinogradi | [`odluka/2003/2467/`](odluka/2003/2467/) | amended, not consolidated | 1 | 2003-10-23 | 2003-10-23 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kneževi Vinogradi | [`odluka/2003/2468/`](odluka/2003/2468/) | amended, not consolidated | 1 | 2003-10-23 | 2003-10-23 |
+| Odluka o dopuni Odluke o preferencijalnoj carinskoj kvoti pri uvozu određenih poljoprivrednih proizvoda | [`odluka/2003/2469/`](odluka/2003/2469/) | amending act | 1 | 2003-10-23 | 2003-10-23 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Statuta Javne ustanove Park prirode Učka | [`odluka/2003/2470/`](odluka/2003/2470/) | amending act | 1 | 2003-10-23 | 2003-10-23 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2003. godinu | [`odluka/2003/2471/`](odluka/2003/2471/) | amended, not consolidated | 1 | 2003-10-28 | 2003-10-28 |
+| Odluka o davanju suglasnosti za sklapanje ugovora o financiranju između Europske investicijske banke i Trgovačkog društva Plinacro d.o.o., iz Zagreba, za Projekt izgradnje plinovodnog sustava u Republici Hrvatskoj | [`odluka/2003/2509/`](odluka/2003/2509/) | in force | 1 | 2003-10-29 | 2003-10-29 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana | [`odluka/2003/2510/`](odluka/2003/2510/) | in force | 1 | 2003-10-29 | 2003-10-29 |
+| Odluka o davanju suglasnosti na Statut Agencije za lijekove i medicinske proizvode | [`odluka/2003/2511/`](odluka/2003/2511/) | replaced, not consolidated | 1 | 2003-10-29 | 2003-10-29 |
+| Odluka o izmjenama Odluke o davanju ovlaštenja Ministarstvu obrane Republike Hrvatske za prodaju stanova u Klani, Zatrep 13 i 21 i Klani 19 | [`odluka/2003/2520/`](odluka/2003/2520/) | in force | 1 | 2003-10-31 | 2003-10-31 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Argentinskoj Republici, sa sjedištem u Rosariju | [`odluka/2003/2532/`](odluka/2003/2532/) | in force | 1 | 2003-10-24 | 2003-10-24 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2003. godinu | [`odluka/2003/2558/`](odluka/2003/2558/) | amended, not consolidated | 1 | 2003-11-04 | 2003-11-04 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2003/2574/`](odluka/2003/2574/) | amended, not consolidated | 1 | 2003-11-05 | 2003-11-05 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2003/2575/`](odluka/2003/2575/) | in force | 1 | 2003-11-13 | 2003-11-13 |
+| Odluka o utvrđivanju visine naknade troškova izborne promidžbe za izbor zastupnika u Hrvatski sabor | [`odluka/2003/2580/`](odluka/2003/2580/) | replaced, not consolidated | 1 | 2003-11-06 | 2003-11-06 |
 | Odluka o visini i načinu korištenja naknade koju plaćaju davatelji univerzalnih poštanskih usluga iz prihoda ostvarenog u prethodnoj godini | [`odluka/2005/14/`](odluka/2005/14/) | in force | 1 | 2004-12-29 | 2004-12-29 |
 | Odluka o izmjeni Odluke o načinu naplate troškova zdravstvene zaštite koje osobno snosi stranac | [`odluka/2005/49/`](odluka/2005/49/) | in force | 1 | 2005-01-13 | 2005-01-13 |
 | Odluka o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/73/`](odluka/2005/73/) | amended, not consolidated | 1 | 2005-01-11 | 2005-01-11 |
