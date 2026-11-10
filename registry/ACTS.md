@@ -1,6 +1,6 @@
 # Every act in this repository
 
-28896 acts, 29,322 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29196 acts, 29,622 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (185, of which 25 amending acts)
 
@@ -24064,7 +24064,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (2605, of which 640 amending acts)
+## uredba (2905, of which 661 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -24364,6 +24364,9 @@
 | Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2000/66/`](uredba/2000/66/) | amending act | 1 | 2000-01-27 | 2000-01-27 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Oprić | [`uredba/2000/81/`](uredba/2000/81/) | replaced, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Selo Donje | [`uredba/2000/82/`](uredba/2000/82/) | replaced, not consolidated | 1 | 2000-01-29 | 2000-01-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac | [`uredba/2000/91/`](uredba/2000/91/) | replaced, not consolidated | 1 | 2000-02-02 | 2000-02-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd | [`uredba/2000/92/`](uredba/2000/92/) | replaced, not consolidated | 1 | 2000-02-02 | 2000-02-02 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2000/93/`](uredba/2000/93/) | replaced, not consolidated | 1 | 2000-02-02 | 2000-02-02 |
 | Uredba o ukidanju Ureda za europske integracije | [`uredba/2000/238/`](uredba/2000/238/) | in force | 1 | 2000-02-08 | 2000-02-08 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogomolje | [`uredba/2000/389/`](uredba/2000/389/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. sv. Anton | [`uredba/2000/390/`](uredba/2000/390/) | replaced, not consolidated | 1 | 2000-03-02 | 2000-03-02 |
@@ -24402,6 +24405,11 @@
 | Uredba o određivanju granice pomorskog dobra na dijelu k. o. Barbat | [`uredba/2000/878/`](uredba/2000/878/) | replaced, not consolidated | 1 | 2000-04-19 | 2000-04-19 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k. o. Senj | [`uredba/2000/879/`](uredba/2000/879/) | in force | 1 | 2000-04-19 | 2000-04-19 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2000/880/`](uredba/2000/880/) | replaced, not consolidated | 1 | 2000-04-19 | 2000-04-19 |
+| Uredba o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2000/898/`](uredba/2000/898/) | repealed, not consolidated | 1 | 2000-04-22 | 2000-04-22 |
+| Uredba o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije | [`uredba/2000/959/`](uredba/2000/959/) | repealed, not consolidated | 1 | 2000-04-26 | 2000-04-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška | [`uredba/2000/960/`](uredba/2000/960/) | replaced, not consolidated | 1 | 2000-04-26 | 2000-04-26 |
+| Uredba o određivanju pomorskog dobra na dijelu k.o. Baška | [`uredba/2000/961/`](uredba/2000/961/) | in force | 1 | 2000-04-26 | 2000-04-26 |
+| Uredba o unutarnjem ustrojstvu Ministarstva prosvjete i športa | [`uredba/2000/989/`](uredba/2000/989/) | repealed, not consolidated | 1 | 2000-04-28 | 2000-04-28 |
 | Uredba o uvjetima i postupku plaćanja povoljnije carine pri uvozu robe koja se besplatno prima iz inozemstva | [`uredba/2000/1013/`](uredba/2000/1013/) | amended, not consolidated | 1 | 2000-05-04 | 2000-05-04 |
 | Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i veza | [`uredba/2000/1014/`](uredba/2000/1014/) | repealed, not consolidated | 1 | 2000-05-04 | 2000-05-04 |
 | Uredba o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2000/1015/`](uredba/2000/1015/) | repealed, not consolidated | 1 | 2000-04-26 | 2000-04-26 |
@@ -24505,6 +24513,298 @@
 | Uredba o prestanku rada Ureda za suradnju s Organizacijom za europsku sigurnost i suradnju (OESS) | [`uredba/2000/2365/`](uredba/2000/2365/) | in force | 1 | 2000-12-20 | 2000-12-20 |
 | Uredba o Uredu za suradnju s međunarodnim institucijama u Republici Hrvatskoj | [`uredba/2000/2366/`](uredba/2000/2366/) | repealed, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
 | Uredba o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika | [`uredba/2000/2413/`](uredba/2000/2413/) | amending act | 1 | 2000-12-28 | 2000-12-28 |
+| Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`uredba/2001/5/`](uredba/2001/5/) | amending act | 1 | 2001-01-05 | 2001-01-05 |
+| Uredba o izravnim mjerama kontrole cijena | [`uredba/2001/32/`](uredba/2001/32/) | amended, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju najviše razine cijena naftnih derivata | [`uredba/2001/33/`](uredba/2001/33/) | repealed, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o izmjeni Uredbe o carinskoj tarifi za 2001. godinu | [`uredba/2001/34/`](uredba/2001/34/) | in force | 1 | 2001-01-10 | 2001-01-10 |
+| Uredba o računanju vremena u 2001. godini | [`uredba/2001/35/`](uredba/2001/35/) | in force | 1 | 2001-01-10 | 2001-01-10 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi | [`uredba/2001/36/`](uredba/2001/36/) | replaced, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trget | [`uredba/2001/37/`](uredba/2001/37/) | in force | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna | [`uredba/2001/38/`](uredba/2001/38/) | replaced, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac | [`uredba/2001/39/`](uredba/2001/39/) | replaced, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar | [`uredba/2001/40/`](uredba/2001/40/) | replaced, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj | [`uredba/2001/42/`](uredba/2001/42/) | replaced, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol | [`uredba/2001/43/`](uredba/2001/43/) | replaced, not consolidated | 1 | 2001-01-18 | 2001-01-18 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/77/`](uredba/2001/77/) | in force | 1 | 2001-01-22 | 2001-01-22 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/101/`](uredba/2001/101/) | in force | 1 | 2001-01-26 | 2001-01-26 |
+| Uredba o Uredu Vlade Republike Hrvatske za unutarnji nadzor | [`uredba/2001/118/`](uredba/2001/118/) | amended, not consolidated | 1 | 2001-02-01 | 2001-02-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna | [`uredba/2001/119/`](uredba/2001/119/) | replaced, not consolidated | 1 | 2001-02-01 | 2001-02-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija i k.o. Volosko | [`uredba/2001/120/`](uredba/2001/120/) | replaced, not consolidated | 1 | 2001-02-01 | 2001-02-01 |
+| Uredba o uređivanju pojedinih pitanja nužnih za rad Hrvatskog geodetskog instituta | [`uredba/2001/161/`](uredba/2001/161/) | in force | 1 | 2001-02-08 | 2001-02-08 |
+| Uredba o izmjenama i dopuni Uredbe o Hrvatskom stočarsko selekcijskom centru | [`uredba/2001/162/`](uredba/2001/162/) | amending act | 1 | 2001-02-08 | 2001-02-08 |
+| Uredba o uvjetima i mjerilima za stambeno zbrinjavanje na područjima posebne državne skrbi | [`uredba/2001/193/`](uredba/2001/193/) | in force | 1 | 2001-02-14 | 2001-02-14 |
+| Uredba o Savjetu za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima i Uredu za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima | [`uredba/2001/194/`](uredba/2001/194/) | in force | 1 | 2001-02-06 | 2001-02-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Goveđari | [`uredba/2001/227/`](uredba/2001/227/) | in force | 1 | 2001-02-22 | 2001-02-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Suđurađ | [`uredba/2001/228/`](uredba/2001/228/) | in force | 1 | 2001-02-22 | 2001-02-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tuliševica i k.o. Lovran | [`uredba/2001/229/`](uredba/2001/229/) | in force | 1 | 2001-02-22 | 2001-02-22 |
+| Uredba o privremenom ograničenju izvoza kukuruza | [`uredba/2001/230/`](uredba/2001/230/) | repealed, not consolidated | 1 | 2001-02-22 | 2001-02-22 |
+| Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona | [`uredba/2001/231/`](uredba/2001/231/) | amending act | 1 | 2001-02-22 | 2001-02-22 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/232/`](uredba/2001/232/) | in force | 1 | 2001-02-18 | 2001-02-18 |
+| Uredba o posebnim uvjetima za obavljanje lučkih djelatnosti u lukama unutarnjih voda | [`uredba/2001/266/`](uredba/2001/266/) | cited later, not consolidated | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poljane | [`uredba/2001/267/`](uredba/2001/267/) | replaced, not consolidated | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj | [`uredba/2001/268/`](uredba/2001/268/) | replaced, not consolidated | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran | [`uredba/2001/269/`](uredba/2001/269/) | replaced, not consolidated | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/2001/270/`](uredba/2001/270/) | replaced, not consolidated | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna | [`uredba/2001/271/`](uredba/2001/271/) | replaced, not consolidated | 1 | 2001-03-01 | 2001-03-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kali | [`uredba/2001/287/`](uredba/2001/287/) | in force | 1 | 2001-03-07 | 2001-03-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nin | [`uredba/2001/288/`](uredba/2001/288/) | in force | 1 | 2001-03-07 | 2001-03-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Ston | [`uredba/2001/289/`](uredba/2001/289/) | in force | 1 | 2001-03-07 | 2001-03-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška i k.o. Batomalj | [`uredba/2001/290/`](uredba/2001/290/) | in force | 1 | 2001-03-07 | 2001-03-07 |
+| Uredba o izmjenama i dopunama Uredbe o uvjetima i postupku plaćanja povoljnije carine pri uvozu robe koja se besplatno prima iz inozemstva | [`uredba/2001/359/`](uredba/2001/359/) | amending act | 1 | 2001-03-22 | 2001-03-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`uredba/2001/360/`](uredba/2001/360/) | replaced, not consolidated | 1 | 2001-03-22 | 2001-03-22 |
+| Uredba o Uredu za ljudska prava | [`uredba/2001/394/`](uredba/2001/394/) | amended, not consolidated | 1 | 2001-03-21 | 2001-03-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lastovo | [`uredba/2001/395/`](uredba/2001/395/) | replaced, not consolidated | 1 | 2001-03-29 | 2001-03-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vela Luka | [`uredba/2001/396/`](uredba/2001/396/) | in force | 1 | 2001-03-29 | 2001-03-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stobreč | [`uredba/2001/397/`](uredba/2001/397/) | replaced, not consolidated | 1 | 2001-03-29 | 2001-03-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/2001/398/`](uredba/2001/398/) | replaced, not consolidated | 1 | 2001-03-29 | 2001-03-29 |
+| Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda | [`uredba/2001/436/`](uredba/2001/436/) | replaced, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Marina | [`uredba/2001/437/`](uredba/2001/437/) | replaced, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi | [`uredba/2001/438/`](uredba/2001/438/) | replaced, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline | [`uredba/2001/439/`](uredba/2001/439/) | replaced, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija | [`uredba/2001/440/`](uredba/2001/440/) | replaced, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Volosko | [`uredba/2001/441/`](uredba/2001/441/) | replaced, not consolidated | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o Stručnoj službi Vlade Republike Hrvatske | [`uredba/2001/498/`](uredba/2001/498/) | repealed, not consolidated | 1 | 2001-04-12 | 2001-04-12 |
+| Uredba o dopunama Uredbe o osnivanju Ureda Vlade Republike Hrvatske za zatočene i nestale | [`uredba/2001/499/`](uredba/2001/499/) | amending act | 1 | 2001-04-04 | 2001-04-04 |
+| Uredba o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom | [`uredba/2001/500/`](uredba/2001/500/) | in force | 1 | 2001-04-01 | 2001-04-01 |
+| Uredba o načinu raspodjele carinskih kvota za određene poljoprivredno-prehrambene proizvode podrijetlom iz zemalja članica Svjetske trgovinske organizacije za 2001. godinu | [`uredba/2001/551/`](uredba/2001/551/) | amended, not consolidated | 1 | 2001-04-18 | 2001-04-18 |
+| Uredba o izmjenama Uredbe o Hrvatskoj informacijsko-dokumentacijskoj referalnoj agenciji | [`uredba/2001/552/`](uredba/2001/552/) | in force | 1 | 2001-04-18 | 2001-04-18 |
+| Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije | [`uredba/2001/553/`](uredba/2001/553/) | replaced, not consolidated | 1 | 2001-04-10 | 2001-04-10 |
+| Uredba o vođenju Registra javnih cesta | [`uredba/2001/554/`](uredba/2001/554/) | in force | 1 | 2001-04-18 | 2001-04-18 |
+| Uredba o postupku provedbe programa - Razvoj na znanju utemeljenih poduzeća, te uvjetima i načinu financiranja Programa | [`uredba/2001/571/`](uredba/2001/571/) | repealed, not consolidated | 1 | 2001-04-19 | 2001-04-19 |
+| Uredba o uvjetima i postupku plaćanja povoljnije carine pri uvozu opreme za izgradnju dionice Bosiljevo-Sveti Rok autoceste Bregana-Zagreb-Dubrovnik | [`uredba/2001/605/`](uredba/2001/605/) | in force | 1 | 2001-04-27 | 2001-04-27 |
+| Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2001/644/`](uredba/2001/644/) | amended, not consolidated | 1 | 2001-04-25 | 2001-04-25 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split | [`uredba/2001/645/`](uredba/2001/645/) | replaced, not consolidated | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska | [`uredba/2001/646/`](uredba/2001/646/) | replaced, not consolidated | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lastovo | [`uredba/2001/647/`](uredba/2001/647/) | in force | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad | [`uredba/2001/648/`](uredba/2001/648/) | replaced, not consolidated | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sušak | [`uredba/2001/649/`](uredba/2001/649/) | in force | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2001/666/`](uredba/2001/666/) | repealed, not consolidated | 1 | 2001-04-27 | 2001-04-27 |
+| Uredba o plaćama policijskih službenika | [`uredba/2001/679/`](uredba/2001/679/) | repealed, not consolidated | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2001/680/`](uredba/2001/680/) | repealed, not consolidated | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o sjedištu i području na kojem se osnivaju i djeluju policijske uprave | [`uredba/2001/681/`](uredba/2001/681/) | repealed, not consolidated | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o dopuni Uredbe o određivanju najviše razine cijena naftnih derivata | [`uredba/2001/682/`](uredba/2001/682/) | amending act | 1 | 2001-05-03 | 2001-05-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bol | [`uredba/2001/694/`](uredba/2001/694/) | replaced, not consolidated | 1 | 2001-05-12 | 2001-05-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska | [`uredba/2001/695/`](uredba/2001/695/) | replaced, not consolidated | 1 | 2001-05-12 | 2001-05-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Živogošće | [`uredba/2001/696/`](uredba/2001/696/) | in force | 1 | 2001-05-12 | 2001-05-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brašina | [`uredba/2001/697/`](uredba/2001/697/) | replaced, not consolidated | 1 | 2001-05-12 | 2001-05-12 |
+| Uredba o načelima za unutarnje ustrojstvo tijela državne uprave | [`uredba/2001/714/`](uredba/2001/714/) | amended, not consolidated | 1 | 2001-05-11 | 2001-05-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad | [`uredba/2001/730/`](uredba/2001/730/) | replaced, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija | [`uredba/2001/731/`](uredba/2001/731/) | in force | 1 | 2001-05-24 | 2001-05-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Šibenik | [`uredba/2001/732/`](uredba/2001/732/) | replaced, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tribunj | [`uredba/2001/733/`](uredba/2001/733/) | replaced, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Primošten | [`uredba/2001/734/`](uredba/2001/734/) | replaced, not consolidated | 1 | 2001-05-24 | 2001-05-24 |
+| Uredba o uvjetima i postupku ostvarivanja carinske i poreznih olakšica hrvatskih branitelja i članova njihovih obitelji | [`uredba/2001/804/`](uredba/2001/804/) | amended, not consolidated | 1 | 2001-06-01 | 2001-06-01 |
+| Uredba o sadržaju izvješća za korištenje poticajnih mjera, poreznih i carinskih povlastica, te načinu njihova ostvarivanja | [`uredba/2001/850/`](uredba/2001/850/) | repealed, not consolidated | 1 | 2001-06-21 | 2001-06-21 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/851/`](uredba/2001/851/) | in force | 1 | 2001-06-17 | 2001-06-17 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/885/`](uredba/2001/885/) | in force | 1 | 2001-06-24 | 2001-06-24 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Visoke pomorske škole u Rijeci | [`uredba/2001/886/`](uredba/2001/886/) | amending act | 1 | 2001-06-20 | 2001-06-20 |
+| Uredba o uvrđivanju visine boravišne pristojbe za 2002. godinu | [`uredba/2001/937/`](uredba/2001/937/) | in force | 1 | 2001-07-07 | 2001-07-07 |
+| Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2002. godinu | [`uredba/2001/938/`](uredba/2001/938/) | in force | 1 | 2001-07-07 | 2001-07-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kostrena - Lucija | [`uredba/2001/975/`](uredba/2001/975/) | replaced, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`uredba/2001/976/`](uredba/2001/976/) | replaced, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Slivno | [`uredba/2001/977/`](uredba/2001/977/) | replaced, not consolidated | 1 | 2001-07-12 | 2001-07-12 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Ledenice | [`uredba/2001/978/`](uredba/2001/978/) | in force | 1 | 2001-07-12 | 2001-07-12 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/1005/`](uredba/2001/1005/) | in force | 1 | 2001-07-15 | 2001-07-15 |
+| Uredba o utvrđivanju roka iz članka 3. stavka 1. Zakona o kreditnim poslovima s inozemstvom | [`uredba/2001/1006/`](uredba/2001/1006/) | cited later, not consolidated | 1 | 2001-07-11 | 2001-07-11 |
+| Uredba o prestanku rada Ureda za granicu | [`uredba/2001/1007/`](uredba/2001/1007/) | in force | 1 | 2001-07-11 | 2001-07-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd | [`uredba/2001/1008/`](uredba/2001/1008/) | replaced, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2001/1009/`](uredba/2001/1009/) | replaced, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tkon | [`uredba/2001/1010/`](uredba/2001/1010/) | in force | 1 | 2001-07-19 | 2001-07-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`uredba/2001/1011/`](uredba/2001/1011/) | replaced, not consolidated | 1 | 2001-07-19 | 2001-07-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje Selo | [`uredba/2001/1012/`](uredba/2001/1012/) | in force | 1 | 2001-07-19 | 2001-07-19 |
+| Uredba o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme | [`uredba/2001/1027/`](uredba/2001/1027/) | repealed, not consolidated | 1 | 2001-07-13 | 2001-07-13 |
+| Uredba o prestanku rada Ureda za rezidencijalne potrebe | [`uredba/2001/1105/`](uredba/2001/1105/) | amended, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
+| Uredba o Uredu za protokol Vlade Republike Hrvatske | [`uredba/2001/1150/`](uredba/2001/1150/) | amended, not consolidated | 1 | 2001-07-31 | 2001-07-31 |
+| Uredba o mjerama sprečavanja nedopuštene prodaje roba na tržnicama i drugim otvorenim prostorima | [`uredba/2001/1151/`](uredba/2001/1151/) | repealed, not consolidated | 1 | 2001-08-08 | 2001-08-08 |
+| Uredba o izmjeni Zakona o područjima posebne državne skrbi | [`uredba/2001/1152/`](uredba/2001/1152/) | in force | 1 | 2001-08-08 | 2001-08-08 |
+| Uredba o izmjeni Uredbe o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme | [`uredba/2001/1153/`](uredba/2001/1153/) | in force | 1 | 2001-07-26 | 2001-07-26 |
+| Uredba o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2001/1185/`](uredba/2001/1185/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2001/1186/`](uredba/2001/1186/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2001/1187/`](uredba/2001/1187/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata | [`uredba/2001/1189/`](uredba/2001/1189/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2001/1190/`](uredba/2001/1190/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede i šumarstva | [`uredba/2001/1191/`](uredba/2001/1191/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i veza | [`uredba/2001/1192/`](uredba/2001/1192/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa, uprave i lokalne samouprave | [`uredba/2001/1193/`](uredba/2001/1193/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prostornog uređenja | [`uredba/2001/1194/`](uredba/2001/1194/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva prosvjete i športa | [`uredba/2001/1195/`](uredba/2001/1195/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi | [`uredba/2001/1196/`](uredba/2001/1196/) | in force | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2001/1197/`](uredba/2001/1197/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zdravstva | [`uredba/2001/1198/`](uredba/2001/1198/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije | [`uredba/2001/1199/`](uredba/2001/1199/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva za europske integracije | [`uredba/2001/1200/`](uredba/2001/1200/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva za javne radove, obnovu i graditeljstvo | [`uredba/2001/1201/`](uredba/2001/1201/) | in force | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva za obrt, malo i srednje poduzetništvo | [`uredba/2001/1202/`](uredba/2001/1202/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2001/1203/`](uredba/2001/1203/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državne uprave za vode | [`uredba/2001/1204/`](uredba/2001/1204/) | cited later, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu obitelji, materinstva i mladeži | [`uredba/2001/1205/`](uredba/2001/1205/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda | [`uredba/2001/1206/`](uredba/2001/1206/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo | [`uredba/2001/1207/`](uredba/2001/1207/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo | [`uredba/2001/1208/`](uredba/2001/1208/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku | [`uredba/2001/1209/`](uredba/2001/1209/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2001/1210/`](uredba/2001/1210/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za zakonodavstvo | [`uredba/2001/1211/`](uredba/2001/1211/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za odnose s javnošću | [`uredba/2001/1212/`](uredba/2001/1212/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske | [`uredba/2001/1213/`](uredba/2001/1213/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o izmjenama Uredbe o Uredu za projekt sukcesije | [`uredba/2001/1214/`](uredba/2001/1214/) | in force | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za suradnju s međunarodnim institucijama u Republici Hrvatskoj | [`uredba/2001/1215/`](uredba/2001/1215/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za nacionalne manjine | [`uredba/2001/1216/`](uredba/2001/1216/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o izmjenama i dopunama Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu | [`uredba/2001/1217/`](uredba/2001/1217/) | amending act | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Savjetu za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima i Uredu za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima | [`uredba/2001/1218/`](uredba/2001/1218/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za udruge | [`uredba/2001/1219/`](uredba/2001/1219/) | replaced, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za državnu imovinu | [`uredba/2001/1220/`](uredba/2001/1220/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu za internetizaciju | [`uredba/2001/1221/`](uredba/2001/1221/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o izmjeni Uredbe o Uredu za strategiju razvitka Republike Hrvatske | [`uredba/2001/1222/`](uredba/2001/1222/) | in force | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o Uredu Vlade Republike | [`uredba/2001/1223/`](uredba/2001/1223/) | amended, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o izmjenama Uredbe o Uredu za ljudska prava | [`uredba/2001/1224/`](uredba/2001/1224/) | in force | 1 | 2001-07-26 | 2001-07-26 |
+| Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije | [`uredba/2001/1225/`](uredba/2001/1225/) | repealed, not consolidated | 1 | 2001-08-03 | 2001-08-03 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2001/1242/`](uredba/2001/1242/) | amended, not consolidated | 1 | 2001-08-08 | 2001-08-08 |
+| Uredba o dopuni Zakona o zaštiti osoba i imovine | [`uredba/2001/1279/`](uredba/2001/1279/) | amending act | 1 | 2001-08-29 | 2001-08-29 |
+| Uredba o zajamčenoj cijeni lista duhana roda 2001. godine | [`uredba/2001/1280/`](uredba/2001/1280/) | in force | 1 | 2001-09-06 | 2001-09-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogomolje | [`uredba/2001/1299/`](uredba/2001/1299/) | replaced, not consolidated | 1 | 2001-09-15 | 2001-09-15 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trogir | [`uredba/2001/1300/`](uredba/2001/1300/) | replaced, not consolidated | 1 | 2001-09-15 | 2001-09-15 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar | [`uredba/2001/1301/`](uredba/2001/1301/) | replaced, not consolidated | 1 | 2001-09-15 | 2001-09-15 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/1325/`](uredba/2001/1325/) | in force | 1 | 2001-09-16 | 2001-09-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zavrelje | [`uredba/2001/1326/`](uredba/2001/1326/) | in force | 1 | 2001-09-20 | 2001-09-20 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`uredba/2001/1327/`](uredba/2001/1327/) | replaced, not consolidated | 1 | 2001-09-20 | 2001-09-20 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pražnica | [`uredba/2001/1328/`](uredba/2001/1328/) | in force | 1 | 2001-09-20 | 2001-09-20 |
+| Uredba o objedinjenom mjesečnom prikupljanju podataka po osiguranicima, o obveznim doprinosima, porezu na dohodak i prirezu na porez na dohodak od nesamostalnog rada i samostalne djelatnosti i o uplat | [`uredba/2001/1340/`](uredba/2001/1340/) | in force | 1 | 2001-09-14 | 2001-09-14 |
+| Uredba o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj | [`uredba/2001/1341/`](uredba/2001/1341/) | repealed, not consolidated | 1 | 2001-09-14 | 2001-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mirca | [`uredba/2001/1352/`](uredba/2001/1352/) | replaced, not consolidated | 1 | 2001-09-27 | 2001-09-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/2001/1353/`](uredba/2001/1353/) | replaced, not consolidated | 1 | 2001-09-27 | 2001-09-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Juraj | [`uredba/2001/1354/`](uredba/2001/1354/) | replaced, not consolidated | 1 | 2001-09-27 | 2001-09-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vrsi | [`uredba/2001/1355/`](uredba/2001/1355/) | in force | 1 | 2001-09-27 | 2001-09-27 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/1409/`](uredba/2001/1409/) | in force | 1 | 2001-09-30 | 2001-09-30 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2001/1505/`](uredba/2001/1505/) | amended, not consolidated | 1 | 2001-10-17 | 2001-10-17 |
+| Uredba o prestanku važenja Uredbe o privremenom ograničenju izvoza kukuruza | [`uredba/2001/1506/`](uredba/2001/1506/) | in force | 1 | 2001-10-17 | 2001-10-17 |
+| Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/2001/1593/`](uredba/2001/1593/) | replaced, not consolidated | 1 | 2001-10-30 | 2001-10-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jadranovo | [`uredba/2001/1594/`](uredba/2001/1594/) | replaced, not consolidated | 1 | 2001-11-07 | 2001-11-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Seget | [`uredba/2001/1595/`](uredba/2001/1595/) | replaced, not consolidated | 1 | 2001-11-07 | 2001-11-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar | [`uredba/2001/1596/`](uredba/2001/1596/) | replaced, not consolidated | 1 | 2001-11-07 | 2001-11-07 |
+| Uredba o osnivanju Zavoda za voćarstvo | [`uredba/2001/1648/`](uredba/2001/1648/) | cited later, not consolidated | 1 | 2001-11-14 | 2001-11-14 |
+| Uredba o osnivanju Zavoda za tlo | [`uredba/2001/1649/`](uredba/2001/1649/) | cited later, not consolidated | 1 | 2001-11-14 | 2001-11-14 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu | [`uredba/2001/1650/`](uredba/2001/1650/) | in force | 1 | 2001-11-14 | 2001-11-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Drvenik | [`uredba/2001/1651/`](uredba/2001/1651/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Biograd | [`uredba/2001/1652/`](uredba/2001/1652/) | replaced, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Trogir | [`uredba/2001/1653/`](uredba/2001/1653/) | in force | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Duće | [`uredba/2001/1654/`](uredba/2001/1654/) | replaced, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica | [`uredba/2001/1655/`](uredba/2001/1655/) | replaced, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Novi | [`uredba/2001/1656/`](uredba/2001/1656/) | replaced, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o određivanju lučkog područja luke Vukovar | [`uredba/2001/1657/`](uredba/2001/1657/) | repealed, not consolidated | 1 | 2001-11-22 | 2001-11-22 |
+| Uredba o izmjenama Uredbe o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za razdoblje od 1. srpnja do 31. prosinca 2001. g | [`uredba/2001/1675/`](uredba/2001/1675/) | in force | 1 | 2001-11-24 | 2001-11-24 |
+| Uredba o zajamčenoj cijeni pšenice roda 2002. godine | [`uredba/2001/1681/`](uredba/2001/1681/) | in force | 1 | 2001-11-29 | 2001-11-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`uredba/2001/1682/`](uredba/2001/1682/) | replaced, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Crikvenica | [`uredba/2001/1683/`](uredba/2001/1683/) | replaced, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Selce | [`uredba/2001/1684/`](uredba/2001/1684/) | replaced, not consolidated | 1 | 2001-11-29 | 2001-11-29 |
+| Uredba o Direkciji za korištenje službenih zrakoplova | [`uredba/2001/1702/`](uredba/2001/1702/) | amended, not consolidated | 1 | 2001-12-01 | 2001-12-01 |
+| Uredba o izmjeni Uredbe o carinskoj tarifi za 2001. godinu | [`uredba/2001/1703/`](uredba/2001/1703/) | in force | 1 | 2001-11-23 | 2001-11-23 |
+| Uredba o posebnim uvjetima za obavljanje trgovine na malo u određenim vrstama prodavaonica | [`uredba/2001/1723/`](uredba/2001/1723/) | cited later, not consolidated | 1 | 2001-12-06 | 2001-12-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica | [`uredba/2001/1724/`](uredba/2001/1724/) | replaced, not consolidated | 1 | 2001-12-06 | 2001-12-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Šmrika | [`uredba/2001/1725/`](uredba/2001/1725/) | in force | 1 | 2001-12-06 | 2001-12-06 |
+| Uredba o osnivanju Regionalnog središta za pružanje pomoći i uklanjanje posljedica katastrofa | [`uredba/2001/1774/`](uredba/2001/1774/) | repealed, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2001/1775/`](uredba/2001/1775/) | amending act | 1 | 2001-12-05 | 2001-12-05 |
+| Uredba o računanju vremena u 2002. godini | [`uredba/2001/1783/`](uredba/2001/1783/) | in force | 1 | 2001-12-15 | 2001-12-15 |
+| Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona | [`uredba/2001/1820/`](uredba/2001/1820/) | amending act | 1 | 2001-12-21 | 2001-12-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Okrug | [`uredba/2001/1821/`](uredba/2001/1821/) | replaced, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag | [`uredba/2001/1822/`](uredba/2001/1822/) | replaced, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Komiža | [`uredba/2001/1823/`](uredba/2001/1823/) | replaced, not consolidated | 1 | 2001-12-21 | 2001-12-21 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2001/1854/`](uredba/2001/1854/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2001/1855/`](uredba/2001/1855/) | amended, not consolidated | 1 | 2001-12-18 | 2001-12-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2001/1856/`](uredba/2001/1856/) | replaced, not consolidated | 1 | 2001-12-26 | 2001-12-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krapanj | [`uredba/2001/1857/`](uredba/2001/1857/) | in force | 1 | 2001-12-26 | 2001-12-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stobreč | [`uredba/2001/1858/`](uredba/2001/1858/) | in force | 1 | 2001-12-26 | 2001-12-26 |
+| Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2001/1972/`](uredba/2001/1972/) | repealed, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Uredba o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2002. | [`uredba/2001/1973/`](uredba/2001/1973/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
+| Uredba o izmjeni i dopuni Uredbe o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih sportu i razonodi u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske | [`uredba/2001/1974/`](uredba/2001/1974/) | amending act | 1 | 2002-01-04 | 2002-01-04 |
+| Uredba o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske | [`uredba/2001/1975/`](uredba/2001/1975/) | amended, not consolidated | 1 | 2001-12-27 | 2001-12-27 |
+| Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna | [`uredba/2001/2002/`](uredba/2001/2002/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Uredba o dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti | [`uredba/2001/2003/`](uredba/2001/2003/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Zaton | [`uredba/2002/10/`](uredba/2002/10/) | replaced, not consolidated | 1 | 2002-01-11 | 2002-01-11 |
+| Uredba o utvrđivanju lokacija postaja u državnoj mreži za trajno praćenje kakvoće zraka | [`uredba/2002/131/`](uredba/2002/131/) | repealed, not consolidated | 1 | 2002-01-24 | 2002-01-24 |
+| Uredba o izmjenama i dopunama Uredbe o carinskoj tarifi za 2002. godinu | [`uredba/2002/132/`](uredba/2002/132/) | amending act | 1 | 2002-01-16 | 2002-01-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar | [`uredba/2002/189/`](uredba/2002/189/) | replaced, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd | [`uredba/2002/190/`](uredba/2002/190/) | in force | 1 | 2002-01-31 | 2002-01-31 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/2002/191/`](uredba/2002/191/) | replaced, not consolidated | 1 | 2002-01-31 | 2002-01-31 |
+| Uredba o izmjeni Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu | [`uredba/2002/192/`](uredba/2002/192/) | in force | 1 | 2002-01-23 | 2002-01-23 |
+| Uredba o vrsti naoružanja i opreme policijskih službenika Ministarstva unutarnjih poslova | [`uredba/2002/1005/`](uredba/2002/1005/) | repealed, not consolidated | 1 | 2002-05-23 | 2002-05-23 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu za državnu imovinu | [`uredba/2002/1061/`](uredba/2002/1061/) | amending act | 1 | 2002-05-21 | 2002-05-21 |
+| Uredba o financiranju rada Vijeća za regulaciju energetskih djelatnosti | [`uredba/2002/1073/`](uredba/2002/1073/) | repealed, not consolidated | 1 | 2002-05-31 | 2002-05-31 |
+| Uredba o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom | [`uredba/2002/1074/`](uredba/2002/1074/) | amended, not consolidated | 1 | 2002-05-31 | 2002-05-31 |
+| Uredba o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme | [`uredba/2002/1085/`](uredba/2002/1085/) | amended, not consolidated | 1 | 2002-05-28 | 2002-05-28 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2002/1086/`](uredba/2002/1086/) | amended, not consolidated | 1 | 2002-05-28 | 2002-05-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag | [`uredba/2002/1130/`](uredba/2002/1130/) | replaced, not consolidated | 1 | 2002-06-19 | 2002-06-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Anton | [`uredba/2002/1131/`](uredba/2002/1131/) | replaced, not consolidated | 1 | 2002-06-19 | 2002-06-19 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brtonigla | [`uredba/2002/1132/`](uredba/2002/1132/) | in force | 1 | 2002-06-19 | 2002-06-19 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva za europske integracije | [`uredba/2002/1163/`](uredba/2002/1163/) | amending act | 1 | 2002-06-13 | 2002-06-13 |
+| Uredba o visini stope zatezne kamate | [`uredba/2002/1194/`](uredba/2002/1194/) | replaced, not consolidated | 1 | 2002-07-01 | 2002-07-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Obod | [`uredba/2002/1195/`](uredba/2002/1195/) | in force | 1 | 2002-06-27 | 2002-06-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bast - Baška Voda | [`uredba/2002/1196/`](uredba/2002/1196/) | replaced, not consolidated | 1 | 2002-06-27 | 2002-06-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac | [`uredba/2002/1197/`](uredba/2002/1197/) | in force | 1 | 2002-06-27 | 2002-06-27 |
+| Uredba o mjerama zaštite domaće proizvodnje od prekomjernog uvoza | [`uredba/2002/1204/`](uredba/2002/1204/) | amended, not consolidated | 1 | 2002-06-28 | 2002-06-28 |
+| Uredba o poslovima i posebnim uvjetima rada u državnoj službi | [`uredba/2002/1211/`](uredba/2002/1211/) | amended, not consolidated | 1 | 2002-06-21 | 2002-06-21 |
+| Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna | [`uredba/2002/1212/`](uredba/2002/1212/) | amending act | 1 | 2002-06-29 | 2002-06-29 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2003. godinu | [`uredba/2002/1220/`](uredba/2002/1220/) | in force | 1 | 2002-07-05 | 2002-07-05 |
+| Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2003. godinu | [`uredba/2002/1221/`](uredba/2002/1221/) | in force | 1 | 2002-07-05 | 2002-07-05 |
+| Uredba o izmjenama Uredbe o Carinskoj tarifi za 2002. godinu | [`uredba/2002/1263/`](uredba/2002/1263/) | in force | 1 | 2002-07-01 | 2002-07-01 |
+| Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`uredba/2002/1265/`](uredba/2002/1265/) | in force | 1 | 2002-07-01 | 2002-07-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž | [`uredba/2002/1274/`](uredba/2002/1274/) | in force | 1 | 2002-07-11 | 2002-07-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol | [`uredba/2002/1275/`](uredba/2002/1275/) | replaced, not consolidated | 1 | 2002-07-11 | 2002-07-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Marina | [`uredba/2002/1276/`](uredba/2002/1276/) | in force | 1 | 2002-07-11 | 2002-07-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2002/1377/`](uredba/2002/1377/) | replaced, not consolidated | 1 | 2002-07-24 | 2002-07-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2002/1378/`](uredba/2002/1378/) | replaced, not consolidated | 1 | 2002-07-24 | 2002-07-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2002/1379/`](uredba/2002/1379/) | replaced, not consolidated | 1 | 2002-07-24 | 2002-07-24 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat | [`uredba/2002/1380/`](uredba/2002/1380/) | replaced, not consolidated | 1 | 2002-07-24 | 2002-07-24 |
+| Uredba o sadržaju i metodologiji izrade programa održivog razvitka otoka, sa sadržajem i metodologijom izrade programa održivog razvitka otoka | [`uredba/2002/1572/`](uredba/2002/1572/) | in force | 1 | 2002-08-17 | 2002-08-17 |
+| Uredba o izmjenama i dopunama Zakona o naplati dospjelih a nenaplaćenih poreza, carina, doprinosa i državnih jamstava | [`uredba/2002/1581/`](uredba/2002/1581/) | amended, not consolidated | 1 | 2002-08-21 | 2002-08-21 |
+| Uredba o dodjeli stambenih kredita članovima obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata | [`uredba/2002/1618/`](uredba/2002/1618/) | amended, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška | [`uredba/2002/1619/`](uredba/2002/1619/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović | [`uredba/2002/1620/`](uredba/2002/1620/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`uredba/2002/1621/`](uredba/2002/1621/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Duće | [`uredba/2002/1622/`](uredba/2002/1622/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska | [`uredba/2002/1623/`](uredba/2002/1623/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj | [`uredba/2002/1624/`](uredba/2002/1624/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pomer | [`uredba/2002/1625/`](uredba/2002/1625/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Anton | [`uredba/2002/1626/`](uredba/2002/1626/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tomislavovac | [`uredba/2002/1627/`](uredba/2002/1627/) | in force | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet | [`uredba/2002/1628/`](uredba/2002/1628/) | replaced, not consolidated | 1 | 2002-08-27 | 2002-08-27 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Oprić | [`uredba/2002/1646/`](uredba/2002/1646/) | replaced, not consolidated | 1 | 2002-09-05 | 2002-09-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline | [`uredba/2002/1647/`](uredba/2002/1647/) | replaced, not consolidated | 1 | 2002-09-05 | 2002-09-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stari Grad | [`uredba/2002/1648/`](uredba/2002/1648/) | replaced, not consolidated | 1 | 2002-09-05 | 2002-09-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sutivan | [`uredba/2002/1649/`](uredba/2002/1649/) | in force | 1 | 2002-09-05 | 2002-09-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Štinjan | [`uredba/2002/1650/`](uredba/2002/1650/) | replaced, not consolidated | 1 | 2002-09-05 | 2002-09-05 |
+| Uredba o izmjeni Uredbe o Carinskoj tarifi za 2002. godinu | [`uredba/2002/1651/`](uredba/2002/1651/) | in force | 1 | 2002-09-01 | 2002-09-01 |
+| Uredba o osnivanju Agencije za promicanje izvoza i ulaganja | [`uredba/2002/1669/`](uredba/2002/1669/) | amended, not consolidated | 1 | 2002-09-12 | 2002-09-12 |
+| Uredba o zajamčenoj cijeni lista duhana roda 2002. godine | [`uredba/2002/1714/`](uredba/2002/1714/) | in force | 1 | 2002-09-18 | 2002-09-18 |
+| Uredba o zajamčenoj cijeni pšenice roda 2003. godine | [`uredba/2002/1715/`](uredba/2002/1715/) | in force | 1 | 2002-09-18 | 2002-09-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović i k.o. Sveti Anton | [`uredba/2002/1716/`](uredba/2002/1716/) | in force | 1 | 2002-09-18 | 2002-09-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet | [`uredba/2002/1717/`](uredba/2002/1717/) | replaced, not consolidated | 1 | 2002-09-18 | 2002-09-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj | [`uredba/2002/1718/`](uredba/2002/1718/) | replaced, not consolidated | 1 | 2002-09-18 | 2002-09-18 |
+| Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2002. godinu | [`uredba/2002/1749/`](uredba/2002/1749/) | amending act | 1 | 2002-09-16 | 2002-09-16 |
+| Uredba o dopuni Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2002/1750/`](uredba/2002/1750/) | amended, not consolidated | 1 | 2002-09-16 | 2002-09-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica | [`uredba/2002/1754/`](uredba/2002/1754/) | replaced, not consolidated | 1 | 2002-09-26 | 2002-09-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pomer | [`uredba/2002/1755/`](uredba/2002/1755/) | in force | 1 | 2002-09-26 | 2002-09-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna | [`uredba/2002/1756/`](uredba/2002/1756/) | replaced, not consolidated | 1 | 2002-09-26 | 2002-09-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trpanj | [`uredba/2002/1757/`](uredba/2002/1757/) | in force | 1 | 2002-09-26 | 2002-09-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Cres | [`uredba/2002/1821/`](uredba/2002/1821/) | replaced, not consolidated | 1 | 2002-10-04 | 2002-10-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor | [`uredba/2002/1822/`](uredba/2002/1822/) | replaced, not consolidated | 1 | 2002-10-04 | 2002-10-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jesenice | [`uredba/2002/1823/`](uredba/2002/1823/) | in force | 1 | 2002-10-04 | 2002-10-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet | [`uredba/2002/1824/`](uredba/2002/1824/) | replaced, not consolidated | 1 | 2002-10-04 | 2002-10-04 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis | [`uredba/2002/1825/`](uredba/2002/1825/) | replaced, not consolidated | 1 | 2002-10-04 | 2002-10-04 |
+| UREDBA O UNUTARNJEM USTROJSTVU MINISTARSTVA OBRANE | [`uredba/2002/1850/`](uredba/2002/1850/) | amended, not consolidated | 1 | 2002-10-02 | 2002-10-02 |
+| Uredba o razdoblju za koje se izdaje dozvola za obavljanje energetskih djelatnosti | [`uredba/2002/1855/`](uredba/2002/1855/) | repealed, not consolidated | 1 | 2002-10-03 | 2002-10-03 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton - Martinska | [`uredba/2002/1856/`](uredba/2002/1856/) | replaced, not consolidated | 1 | 2002-10-11 | 2002-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović | [`uredba/2002/1857/`](uredba/2002/1857/) | in force | 1 | 2002-10-11 | 2002-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj | [`uredba/2002/1858/`](uredba/2002/1858/) | replaced, not consolidated | 1 | 2002-10-11 | 2002-10-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Funtana | [`uredba/2002/1908/`](uredba/2002/1908/) | in force | 1 | 2002-10-18 | 2002-10-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Juraj | [`uredba/2002/1909/`](uredba/2002/1909/) | in force | 1 | 2002-10-18 | 2002-10-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška | [`uredba/2002/1910/`](uredba/2002/1910/) | in force | 1 | 2002-10-18 | 2002-10-18 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bakar | [`uredba/2002/1938/`](uredba/2002/1938/) | replaced, not consolidated | 1 | 2002-10-23 | 2002-10-23 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Punat | [`uredba/2002/1939/`](uredba/2002/1939/) | in force | 1 | 2002-10-23 | 2002-10-23 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica | [`uredba/2002/1940/`](uredba/2002/1940/) | replaced, not consolidated | 1 | 2002-10-23 | 2002-10-23 |
+| Uredba o izmjenama i dopunama Uredbe o Direkciji za korištenje službenih zrakoplova | [`uredba/2002/2003/`](uredba/2002/2003/) | amending act | 1 | 2002-10-31 | 2002-10-31 |
+| Uredba o osnivanju Državnog zavoda za zaštitu prirode | [`uredba/2002/2050/`](uredba/2002/2050/) | repealed, not consolidated | 1 | 2002-10-30 | 2002-10-30 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu Vlade Republike Hrvatske za unutarnji nadzor | [`uredba/2002/2051/`](uredba/2002/2051/) | amending act | 1 | 2002-11-07 | 2002-11-07 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`uredba/2002/2052/`](uredba/2002/2052/) | in force | 1 | 2002-11-07 | 2002-11-07 |
 | Uredba o skupnom izuzeću sporazuma o prijenosu tehnologije | [`uredba/2005/11/`](uredba/2005/11/) | repealed, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Uredba o ograničenjima uporabe radijskih frekvencija | [`uredba/2005/12/`](uredba/2005/12/) | cited later, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Uredba o osnivanju Agencije za strukovno obrazovanje | [`uredba/2005/155/`](uredba/2005/155/) | cited later, not consolidated | 1 | 2005-01-27 | 2005-01-27 |

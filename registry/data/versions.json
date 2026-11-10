@@ -10067,6 +10067,126 @@
    ]
   },
   {
+   "slug": "uredba-2000-898",
+   "path": "uredba/2000/898",
+   "short": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+   "title": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/40/898",
+   "versions": [
+    {
+     "from": "2000-04-22",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_40_898.html",
+     "sha256": "505ffcf31c435556fd3f52f9ac6b6f862d9ec714bf25e243852b67df76b99503"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-91",
+   "path": "uredba/2000/91",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/9/91",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_9_91.html",
+     "sha256": "33f742f69621879076e1bbe578e226a0883c9c4a922c989e63c362bbde65b73d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-92",
+   "path": "uredba/2000/92",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/9/92",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_9_92.html",
+     "sha256": "98e8f25bfa8e40a3408829946ef7f2929a990b0fc9fba9260b5b5dde886c54c4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-93",
+   "path": "uredba/2000/93",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/9/93",
+   "versions": [
+    {
+     "from": "2000-02-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_01_9_93.html",
+     "sha256": "09355a32502adc05c1d46e4e097c815c5cefe76df915c57d183504052004c7e0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-959",
+   "path": "uredba/2000/959",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/41/959",
+   "versions": [
+    {
+     "from": "2000-04-26",
+     "units": 77,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_41_959.html",
+     "sha256": "d36e581429fb05481910e5adc9858fcb82c809cc5f50376895fca0171ebbb9d1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-960",
+   "path": "uredba/2000/960",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/41/960",
+   "versions": [
+    {
+     "from": "2000-04-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_41_960.html",
+     "sha256": "cf6147ec241c303734552ec08b29ce7f5e1c5f3a379930c0acbad82c652855b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-961",
+   "path": "uredba/2000/961",
+   "short": "Uredba o određivanju pomorskog dobra na dijelu k.o. Baška",
+   "title": "Uredba o određivanju pomorskog dobra na dijelu k.o. Baška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/41/961",
+   "versions": [
+    {
+     "from": "2000-04-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_41_961.html",
+     "sha256": "7a6701d712ec7f81a67fd20a97e36e4c2f55ae7c71c8ab99ce037421fd368534"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-989",
+   "path": "uredba/2000/989",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva prosvjete i športa",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva prosvjete i športa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/42/989",
+   "versions": [
+    {
+     "from": "2000-04-28",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_04_42_989.html",
+     "sha256": "68e566ec2a137cebcc142e0a1fee03c388b61bde4f19b30b14b8cac84999188a"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2001-1579",
    "path": "naputak/2001/1579",
    "short": "Naputak o ekonomskoj i funkcijskoj klasifikaciji rashoda/izdataka i prihoda/primitaka",
@@ -18388,6 +18508,3096 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_111_1840.html",
      "sha256": "77597fc52dc9d52d4cb19ae96573fdaebf0163e005542dfa5b7556bbcb510c4f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1005",
+   "path": "uredba/2001/1005",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1005",
+   "versions": [
+    {
+     "from": "2001-07-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1005.html",
+     "sha256": "c4cd7b27f76e329c2bef7c0d1fbac739caf08c05334b6abd0c7263687f5bf983"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1006",
+   "path": "uredba/2001/1006",
+   "short": "Uredba o utvrđivanju roka iz članka 3. stavka 1. Zakona o kreditnim poslovima s inozemstvom",
+   "title": "Uredba o utvrđivanju roka iz članka 3. stavka 1. Zakona o kreditnim poslovima s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1006",
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1006.html",
+     "sha256": "125442815e94db78e307a16fe730bcbb96ee4a0841901855af9bdd24aa79def1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1007",
+   "path": "uredba/2001/1007",
+   "short": "Uredba o prestanku rada Ureda za granicu",
+   "title": "Uredba o prestanku rada Ureda za granicu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1007",
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1007.html",
+     "sha256": "0542ef369c72db578687e06d3c8f1c1104b6128a7a644dfe148b46e323dcadbb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1008",
+   "path": "uredba/2001/1008",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1008",
+   "versions": [
+    {
+     "from": "2001-07-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1008.html",
+     "sha256": "2a35cbe0fd805c068be3b6fd1e49c13937c53093274d73d9516af169a30f8bfc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1009",
+   "path": "uredba/2001/1009",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1009",
+   "versions": [
+    {
+     "from": "2001-07-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1009.html",
+     "sha256": "5c52e4cbd665fc36000775fd632d9b6f4e119d17904bb228d321ee05e0a34fb4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-101",
+   "path": "uredba/2001/101",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/5/101",
+   "versions": [
+    {
+     "from": "2001-01-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_5_101.html",
+     "sha256": "c4b0da0edb0d98adea98bb588596d6669689e9db6d6f0e7ec128bf9f6d3be95d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1010",
+   "path": "uredba/2001/1010",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tkon",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tkon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1010",
+   "versions": [
+    {
+     "from": "2001-07-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1010.html",
+     "sha256": "f036331ec6c022585cff235aaaac2a93093f08bb30c3540c3316b5167dadea99"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1011",
+   "path": "uredba/2001/1011",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1011",
+   "versions": [
+    {
+     "from": "2001-07-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1011.html",
+     "sha256": "e061b00b59889ed757638a6c544821608fb91bf5989f7994e55fb136d8229a5d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1012",
+   "path": "uredba/2001/1012",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje Selo",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donje Selo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1012",
+   "versions": [
+    {
+     "from": "2001-07-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1012.html",
+     "sha256": "0f2312941bdbf14280dc2036b5e5a21648be6c787727b07d163f3d799f978b84"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1027",
+   "path": "uredba/2001/1027",
+   "short": "Uredba o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme",
+   "title": "Uredba o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/63/1027",
+   "versions": [
+    {
+     "from": "2001-07-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_63_1027.html",
+     "sha256": "a638fe38f427b646f8dfa0d10c94fb2b12e5591d0eb2fd86272ffc9e07923c43"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1105",
+   "path": "uredba/2001/1105",
+   "short": "Uredba o prestanku rada Ureda za rezidencijalne potrebe",
+   "title": "Uredba o prestanku rada Ureda za rezidencijalne potrebe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1105",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1105.html",
+     "sha256": "4d8daa4c424f8bf2c820fbde3a3acd5f51751bf0d472df54400ae0e85b3bacd0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1150",
+   "path": "uredba/2001/1150",
+   "short": "Uredba o Uredu za protokol Vlade Republike Hrvatske",
+   "title": "Uredba o Uredu za protokol Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/69/1150",
+   "versions": [
+    {
+     "from": "2001-07-31",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_69_1150.html",
+     "sha256": "44e499bdc7b2f3bc819c9a64141a0cb605d525f05d4f19c6a3197e500eee50e8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1151",
+   "path": "uredba/2001/1151",
+   "short": "Uredba o mjerama sprečavanja nedopuštene prodaje roba na tržnicama i drugim otvorenim prostorima",
+   "title": "Uredba o mjerama sprečavanja nedopuštene prodaje roba na tržnicama i drugim otvorenim prostorima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/69/1151",
+   "versions": [
+    {
+     "from": "2001-08-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_69_1151.html",
+     "sha256": "eba28c1a3ec4501e4a14a9c39d7b5db42698876cf8d0f0f546cf187388845e1b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1152",
+   "path": "uredba/2001/1152",
+   "short": "Uredba o izmjeni Zakona o područjima posebne državne skrbi",
+   "title": "Uredba o izmjeni Zakona o područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/69/1152",
+   "versions": [
+    {
+     "from": "2001-08-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_69_1152.html",
+     "sha256": "867b9c3ea741c3c2a0701de78010c886f1b1886e17fc3b4ad0ab8dc2a8260e45"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1153",
+   "path": "uredba/2001/1153",
+   "short": "Uredba o izmjeni Uredbe o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme",
+   "title": "Uredba o izmjeni Uredbe o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/69/1153",
+   "versions": [
+    {
+     "from": "2001-07-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_69_1153.html",
+     "sha256": "5ffc42b412a16d7bf4a2d627d99eda71c2d276fd8bc4e62a389499e46fd74308"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-118",
+   "path": "uredba/2001/118",
+   "short": "Uredba o Uredu Vlade Republike Hrvatske za unutarnji nadzor",
+   "title": "Uredba o Uredu Vlade Republike Hrvatske za unutarnji nadzor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/6/118",
+   "versions": [
+    {
+     "from": "2001-02-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_6_118.html",
+     "sha256": "cc58b015f72036bf9ce37d9cc0e501a917b38067e358825b1c47c3c819136a94"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1185",
+   "path": "uredba/2001/1185",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1185",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 82,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1185.html",
+     "sha256": "265832b466f822757a20760a0d0d6065f5c7c966d4d0ff49ba2034f263d5b543"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1186",
+   "path": "uredba/2001/1186",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva obrane",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1186",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 497,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1186.html",
+     "sha256": "2db30762453d1eaa1b8ad50937c54180f17067c678f0e49a34230e89f52eb3a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1187",
+   "path": "uredba/2001/1187",
+   "short": "Uredba o unutarnjem ustrojstvu službe vanjskih poslova",
+   "title": "Uredba o unutarnjem ustrojstvu službe vanjskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1187",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 84,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1187.html",
+     "sha256": "2a05c3691124c400e892d2e3f2af59b63aecc5cf1f490c4fdef67d80fde1e024"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1189",
+   "path": "uredba/2001/1189",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva hrvatskih branitelja iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1189",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1189.html",
+     "sha256": "bdae302b725f57f89ff6364287929f8db67953a7ade77d10556ddd8045be4ebf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-119",
+   "path": "uredba/2001/119",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/6/119",
+   "versions": [
+    {
+     "from": "2001-02-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_6_119.html",
+     "sha256": "38aec446fd9a9342d01497446b6f01cbceed52d07446b7b7c8d71671804902b5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1190",
+   "path": "uredba/2001/1190",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva kulture",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1190",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1190.html",
+     "sha256": "1b4c17726d1dc167569a13b70ec87213dcf143d94d7fe81ead99bf60449468bf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1191",
+   "path": "uredba/2001/1191",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede i šumarstva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede i šumarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1191",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1191.html",
+     "sha256": "ad8f0be583a9590c5aaabb88dca16e1a822a648bbf92dac4d2a6df6340e018b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1192",
+   "path": "uredba/2001/1192",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i veza",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i veza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1192",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 59,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1192.html",
+     "sha256": "bad181f7ad52ba1b2788dc82ca868aeae0217b8fff755a68c51dfd282e52ff8e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1193",
+   "path": "uredba/2001/1193",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa, uprave i lokalne samouprave",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa, uprave i lokalne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1193",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 72,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1193.html",
+     "sha256": "b83061d40fc67143e44cac3a38e706d4ad73e316817f0ec61be0277ce77670c8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1194",
+   "path": "uredba/2001/1194",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prostornog uređenja",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prostornog uređenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1194",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1194.html",
+     "sha256": "57e6ff2cff0b80d768e8195c256052d13a0e8298db156fedb84533d77ed0e0ac"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1195",
+   "path": "uredba/2001/1195",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva prosvjete i športa",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva prosvjete i športa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1195",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1195.html",
+     "sha256": "aa456e159048b0e9681e6e9df4a04523ab88dc60d8596d39e48b62638fd76f5f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1196",
+   "path": "uredba/2001/1196",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva rada i socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1196",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1196.html",
+     "sha256": "73b399269079d08e3bb3a2b0ccbb30d7251a224a03d00911ffc18066056772aa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1197",
+   "path": "uredba/2001/1197",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva turizma",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1197",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1197.html",
+     "sha256": "65305e707acb75c87d9bd9daa794edb415cc78b7d650cf274f322cc908b52727"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1198",
+   "path": "uredba/2001/1198",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zdravstva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zdravstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1198",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1198.html",
+     "sha256": "c7c0625412bd617abfe176a8deb245ec2f900b73c4328e12d5869c1338ba979b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1199",
+   "path": "uredba/2001/1199",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti i tehnologije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1199",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1199.html",
+     "sha256": "c8b1bdb837814396c62b5abd26542e6d913e4083dd6413796d1f9d1eccaccd81"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-120",
+   "path": "uredba/2001/120",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija i k.o. Volosko",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija i k.o. Volosko",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/6/120",
+   "versions": [
+    {
+     "from": "2001-02-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_6_120.html",
+     "sha256": "fb95466b86a05138681d724e328c61a34673b022c3f7bba2520547878011c747"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1200",
+   "path": "uredba/2001/1200",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva za europske integracije",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva za europske integracije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1200",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1200.html",
+     "sha256": "c14bf5898c736dd0cb01fa67a652d6392caa1e8740a6fe3e3269d55efe8ab3fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1201",
+   "path": "uredba/2001/1201",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva za javne radove, obnovu i graditeljstvo",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva za javne radove, obnovu i graditeljstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1201",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1201.html",
+     "sha256": "03ffd1791946b0f1abe7a68096502db5b1a8f9062f0b0892fc839132dbb1800e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1202",
+   "path": "uredba/2001/1202",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva za obrt, malo i srednje poduzetništvo",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva za obrt, malo i srednje poduzetništvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1202",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1202.html",
+     "sha256": "88ccdb47424adca17b989b56e4bdd4a6eb0355a43f6893b76f36e9eba9adf318"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1203",
+   "path": "uredba/2001/1203",
+   "short": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+   "title": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1203",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1203.html",
+     "sha256": "34fc02cb3b82597364edb5f045fd787f6b1d2b5cc95ff3e80a761deaf28b9ca9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1204",
+   "path": "uredba/2001/1204",
+   "short": "Uredba o unutarnjem ustrojstvu Državne uprave za vode",
+   "title": "Uredba o unutarnjem ustrojstvu Državne uprave za vode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1204",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1204.html",
+     "sha256": "116a23a0d2938259b2258dc50bc32286cc8570670a114b6ef020959620ca1ccc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1205",
+   "path": "uredba/2001/1205",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu obitelji, materinstva i mladeži",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu obitelji, materinstva i mladeži",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1205",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1205.html",
+     "sha256": "cee799bde74209c4da7fceed43e2ebaca72fd0c7571766c9c9ce308477ca3200"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1206",
+   "path": "uredba/2001/1206",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1206",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1206.html",
+     "sha256": "2fb148c83d461231a585ba621414e133c7693180da0f869b57f6cced09fa904f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1207",
+   "path": "uredba/2001/1207",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1207",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1207.html",
+     "sha256": "d678efeda9dee60ed0d83afc161a9fd31f1d76c1e5858704fa2e8c7f54d6aa79"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1208",
+   "path": "uredba/2001/1208",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1208",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1208.html",
+     "sha256": "1eb29080f8859a33c0919a7586cfd9d14c06b8b0b9fd52a224404c6eb4ab86f5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1209",
+   "path": "uredba/2001/1209",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1209",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 64,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1209.html",
+     "sha256": "ac91db17b8cc936075102c0e5d90239a0863cf526948b7b9a25f5143fcc7bdbd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1210",
+   "path": "uredba/2001/1210",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog inspektorata",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog inspektorata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1210",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1210.html",
+     "sha256": "b260d9e91bec3fbabfd9100a433bc1b09e843e01460abbee074d7973c888a989"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1211",
+   "path": "uredba/2001/1211",
+   "short": "Uredba o Uredu za zakonodavstvo",
+   "title": "Uredba o Uredu za zakonodavstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1211",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1211.html",
+     "sha256": "672c7030bc036aa759ff2f030666122da8047cd90ffd0c178c826222cb8925f9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1212",
+   "path": "uredba/2001/1212",
+   "short": "Uredba o Uredu za odnose s javnošću",
+   "title": "Uredba o Uredu za odnose s javnošću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1212",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1212.html",
+     "sha256": "4d159fcd5443b887c0f816ef4df745daa3e13f9fecbd539b3d3956341f71bb11"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1213",
+   "path": "uredba/2001/1213",
+   "short": "Uredba o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske",
+   "title": "Uredba o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1213",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1213.html",
+     "sha256": "d7463b3bed493e3cd862b0e49eaa971a1ddacfbc759571a65e1656e2a9265723"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1214",
+   "path": "uredba/2001/1214",
+   "short": "Uredba o izmjenama Uredbe o Uredu za projekt sukcesije",
+   "title": "Uredba o izmjenama Uredbe o Uredu za projekt sukcesije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1214",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1214.html",
+     "sha256": "144a8f594f961f4693056e4a9f05ff93ca519c017e3f39ea7e50d3b4651a3c7b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1215",
+   "path": "uredba/2001/1215",
+   "short": "Uredba o Uredu za suradnju s međunarodnim institucijama u Republici Hrvatskoj",
+   "title": "Uredba o Uredu za suradnju s međunarodnim institucijama u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1215",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1215.html",
+     "sha256": "0ef01731f7be37ed400ab7a155c824dc61056a5ee44e18c0c2c6d67c5d339e79"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1216",
+   "path": "uredba/2001/1216",
+   "short": "Uredba o Uredu za nacionalne manjine",
+   "title": "Uredba o Uredu za nacionalne manjine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1216",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1216.html",
+     "sha256": "061a2747b116b414bd8b30f840fbd7cc710e85d9608fea65dea5ec10910fb7b5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1217",
+   "path": "uredba/2001/1217",
+   "short": "Uredba o izmjenama i dopunama Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1217",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1217.html",
+     "sha256": "0531e8216d227cf7f7a483f4754138ed80dc94bdd0ec6bbb4aa0404d59639d48"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1218",
+   "path": "uredba/2001/1218",
+   "short": "Uredba o Savjetu za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima i Uredu za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima",
+   "title": "Uredba o Savjetu za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima i Uredu za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1218",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1218.html",
+     "sha256": "93e364b9fd4f6475ab61180ee6133e97c3fb1ea7178ef3ed91616424e74bf407"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1219",
+   "path": "uredba/2001/1219",
+   "short": "Uredba o Uredu za udruge",
+   "title": "Uredba o Uredu za udruge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1219",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1219.html",
+     "sha256": "499157e2fa73c598b1d5a80ef259ea7146292a7ec95cf5c7b78d280d2b43cce8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1220",
+   "path": "uredba/2001/1220",
+   "short": "Uredba o Uredu za državnu imovinu",
+   "title": "Uredba o Uredu za državnu imovinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1220",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1220.html",
+     "sha256": "78b16152246e1526ef9a2d8b7c96bbfe5fd5ce04da74ffe7cfcfbf1de931a3f2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1221",
+   "path": "uredba/2001/1221",
+   "short": "Uredba o Uredu za internetizaciju",
+   "title": "Uredba o Uredu za internetizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1221",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1221.html",
+     "sha256": "d9e4019b4e43e516e5747a45c0e7b83914653dc01c665825023b79db5066c95a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1222",
+   "path": "uredba/2001/1222",
+   "short": "Uredba o izmjeni Uredbe o Uredu za strategiju razvitka Republike Hrvatske",
+   "title": "Uredba o izmjeni Uredbe o Uredu za strategiju razvitka Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1222",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1222.html",
+     "sha256": "a27895c6cdce88ecf6be18ed8a5865400d2b4eb645dbf0890f576b5c4fcfecaa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1223",
+   "path": "uredba/2001/1223",
+   "short": "Uredba o Uredu Vlade Republike",
+   "title": "Uredba o Uredu Vlade Republike",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1223",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1223.html",
+     "sha256": "e8e6c58c441f4e765987ef9c9a7ac1511805cb093e624ec1f6f59e4f3b12ff08"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1224",
+   "path": "uredba/2001/1224",
+   "short": "Uredba o izmjenama Uredbe o Uredu za ljudska prava",
+   "title": "Uredba o izmjenama Uredbe o Uredu za ljudska prava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1224",
+   "versions": [
+    {
+     "from": "2001-07-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1224.html",
+     "sha256": "3313c0239fe94f008510cea7e28455dc1fda79fec23f36213cf6f1869c4efd4a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1225",
+   "path": "uredba/2001/1225",
+   "short": "Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije",
+   "title": "Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/70/1225",
+   "versions": [
+    {
+     "from": "2001-08-03",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_70_1225.html",
+     "sha256": "15186431e388630cf32e5201409ba3c0c652cf12d8aa07fe6af84e55e229c86a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1242",
+   "path": "uredba/2001/1242",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/71/1242",
+   "versions": [
+    {
+     "from": "2001-08-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_71_1242.html",
+     "sha256": "b3bca7e6ba9cbb7c8f067945d8f6461bd699e28973e876efadd7e7498134fe55"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1279",
+   "path": "uredba/2001/1279",
+   "short": "Uredba o dopuni Zakona o zaštiti osoba i imovine",
+   "title": "Uredba o dopuni Zakona o zaštiti osoba i imovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/75/1279",
+   "versions": [
+    {
+     "from": "2001-08-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_75_1279.html",
+     "sha256": "a5841bd508e09f913e1c38ace9c6da36fcae7e64e58322b6fbdb2d15242f58c1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1280",
+   "path": "uredba/2001/1280",
+   "short": "Uredba o zajamčenoj cijeni lista duhana roda 2001. godine",
+   "title": "Uredba o zajamčenoj cijeni lista duhana roda 2001. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/75/1280",
+   "versions": [
+    {
+     "from": "2001-09-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_08_75_1280.html",
+     "sha256": "a4b1b328fd328ffd4d634ed85e453fbff9cbfaba9bb809b55aae1684afbf51ba"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1299",
+   "path": "uredba/2001/1299",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogomolje",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogomolje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/77/1299",
+   "versions": [
+    {
+     "from": "2001-09-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_77_1299.html",
+     "sha256": "188344a74aa2f3860e933e7c071c48ffbab48d05437dd5e6e69f4dfeae889e97"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1300",
+   "path": "uredba/2001/1300",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trogir",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trogir",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/77/1300",
+   "versions": [
+    {
+     "from": "2001-09-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_77_1300.html",
+     "sha256": "875838e4e5806df4a04c1be11dcb54a5d2f861b1068d88de244817c8566d3ef7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1301",
+   "path": "uredba/2001/1301",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/77/1301",
+   "versions": [
+    {
+     "from": "2001-09-15",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_77_1301.html",
+     "sha256": "07435632c9ab27ebd50ba5cbc8ce691a2b35913b21c9c7c892c2ec5189f33afe"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1325",
+   "path": "uredba/2001/1325",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/78/1325",
+   "versions": [
+    {
+     "from": "2001-09-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_78_1325.html",
+     "sha256": "6bbdd67f9c53db3ac499cd67e685a715b7454fe6e9d58e40101853446a64bb5a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1326",
+   "path": "uredba/2001/1326",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zavrelje",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zavrelje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/78/1326",
+   "versions": [
+    {
+     "from": "2001-09-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_78_1326.html",
+     "sha256": "c1c3023f0915a3af40b69c8c2a2d836cebddfaa14e8a33a71988a30656d74092"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1327",
+   "path": "uredba/2001/1327",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/78/1327",
+   "versions": [
+    {
+     "from": "2001-09-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_78_1327.html",
+     "sha256": "c991890d21b20ad8eef26722e259355df7ef9c2dc87413bcc15f4804cfe72018"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1328",
+   "path": "uredba/2001/1328",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pražnica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pražnica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/78/1328",
+   "versions": [
+    {
+     "from": "2001-09-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_78_1328.html",
+     "sha256": "fc95c3434050cb0ad1c70f4585b5774bd3d604f56b93440d201b84234b4d1ba6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1340",
+   "path": "uredba/2001/1340",
+   "short": "Uredba o objedinjenom mjesečnom prikupljanju podataka po osiguranicima, o obveznim doprinosima, porezu na dohodak i prirezu na porez na dohodak od nesamostalnog rada i samostalne djelatnosti i o uplat",
+   "title": "Uredba o objedinjenom mjesečnom prikupljanju podataka po osiguranicima, o obveznim doprinosima, porezu na dohodak i prirezu na porez na dohodak od nesamostalnog rada i samostalne djelatnosti i o uplat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/79/1340",
+   "versions": [
+    {
+     "from": "2001-09-14",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_79_1340.html",
+     "sha256": "773dd1ee2a43abf15f2f21f69ee0e8a641002ffb08ba5651a491024b87e2ac28"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1341",
+   "path": "uredba/2001/1341",
+   "short": "Uredba o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj",
+   "title": "Uredba o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/79/1341",
+   "versions": [
+    {
+     "from": "2001-09-14",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_79_1341.html",
+     "sha256": "94bc4bc6497a7a51bce21c4865a2182912b5c359b05dcb8b9e7b946c3d259ff7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1352",
+   "path": "uredba/2001/1352",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mirca",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mirca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/80/1352",
+   "versions": [
+    {
+     "from": "2001-09-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_80_1352.html",
+     "sha256": "3db31aa37ebf583449a02c5d2d88eb536b396340d992fa7b528204bdff935a4f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1353",
+   "path": "uredba/2001/1353",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/80/1353",
+   "versions": [
+    {
+     "from": "2001-09-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_80_1353.html",
+     "sha256": "f93baefaabdc7fb647c61b1ab8ec0cdd7e0b1b7882f64320a1b58df91be86ef7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1354",
+   "path": "uredba/2001/1354",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Juraj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Juraj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/80/1354",
+   "versions": [
+    {
+     "from": "2001-09-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_80_1354.html",
+     "sha256": "4e4eceb7edab124ccfe8a70c0f0148efc6641281197be16c68ac4af259a3d3c6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1355",
+   "path": "uredba/2001/1355",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vrsi",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vrsi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/80/1355",
+   "versions": [
+    {
+     "from": "2001-09-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_80_1355.html",
+     "sha256": "ce570f40e9244bb20e7b9ebc6710d49103e31d4287148ceb2eea678e0b92504b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1409",
+   "path": "uredba/2001/1409",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1409",
+   "versions": [
+    {
+     "from": "2001-09-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1409.html",
+     "sha256": "1b52fec253c6a235b49b17c92fb2dd17d097d0f3d78aff7411162abae3cc00f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1505",
+   "path": "uredba/2001/1505",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/89/1505",
+   "versions": [
+    {
+     "from": "2001-10-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_89_1505.html",
+     "sha256": "b5610cb8f1870a990d048f3c7fe03c5c4bd31db1103b830aff1dbfec533779a6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1506",
+   "path": "uredba/2001/1506",
+   "short": "Uredba o prestanku važenja Uredbe o privremenom ograničenju izvoza kukuruza",
+   "title": "Uredba o prestanku važenja Uredbe o privremenom ograničenju izvoza kukuruza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/89/1506",
+   "versions": [
+    {
+     "from": "2001-10-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_89_1506.html",
+     "sha256": "9838b52a2ff99ef8e2408494849642fce5356ffc1180c16017445a64bec6e953"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1593",
+   "path": "uredba/2001/1593",
+   "short": "Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1593",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1593.html",
+     "sha256": "630af7d71d35ede8b45a146e689dbc3b88346a9a236c8c7ca2f10bcae4a2f9cd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1594",
+   "path": "uredba/2001/1594",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jadranovo",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jadranovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1594",
+   "versions": [
+    {
+     "from": "2001-11-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1594.html",
+     "sha256": "5c199798b5675879d8a3ad65d9ecb7066e639f673d1a51b1e348bcfa86304b0a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1595",
+   "path": "uredba/2001/1595",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Seget",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Seget",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1595",
+   "versions": [
+    {
+     "from": "2001-11-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1595.html",
+     "sha256": "74cfd83b62416eeb694072429eeb212d46a152c4cfd9ccf8bf748a028e5c65ca"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1596",
+   "path": "uredba/2001/1596",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1596",
+   "versions": [
+    {
+     "from": "2001-11-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1596.html",
+     "sha256": "ca4e4ae646686a88ebda5e3d374945e810e72c6d20da20ff23a52f77e14a6cc3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-161",
+   "path": "uredba/2001/161",
+   "short": "Uredba o uređivanju pojedinih pitanja nužnih za rad Hrvatskog geodetskog instituta",
+   "title": "Uredba o uređivanju pojedinih pitanja nužnih za rad Hrvatskog geodetskog instituta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/8/161",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_8_161.html",
+     "sha256": "00d9ea980b634ad1339c5f76999e45351635a9b62d14c12646f3a78816d163f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-162",
+   "path": "uredba/2001/162",
+   "short": "Uredba o izmjenama i dopuni Uredbe o Hrvatskom stočarsko selekcijskom centru",
+   "title": "Uredba o izmjenama i dopuni Uredbe o Hrvatskom stočarsko selekcijskom centru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/8/162",
+   "versions": [
+    {
+     "from": "2001-02-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_8_162.html",
+     "sha256": "689b9903e6a36698958225e9810600e78696b33359f696c608c4f3f10414811d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1648",
+   "path": "uredba/2001/1648",
+   "short": "Uredba o osnivanju Zavoda za voćarstvo",
+   "title": "Uredba o osnivanju Zavoda za voćarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1648",
+   "versions": [
+    {
+     "from": "2001-11-14",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1648.html",
+     "sha256": "e3b40c3734dbfd1f59b3642fd5b137cc9f6bccd8515990f23eb4437ffe93c146"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1649",
+   "path": "uredba/2001/1649",
+   "short": "Uredba o osnivanju Zavoda za tlo",
+   "title": "Uredba o osnivanju Zavoda za tlo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1649",
+   "versions": [
+    {
+     "from": "2001-11-14",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1649.html",
+     "sha256": "1b5f5bce3dc72d95343c3d9f6c8bbb0e5e0d3fa1b0fd1d99fcdf8ea31ec3dcbc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1650",
+   "path": "uredba/2001/1650",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1650",
+   "versions": [
+    {
+     "from": "2001-11-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1650.html",
+     "sha256": "32f8f89bcba8850352dcb2e6681ae8203e78ad3fb973db3739e80fe46c681b89"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1651",
+   "path": "uredba/2001/1651",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Drvenik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Drvenik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1651",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1651.html",
+     "sha256": "8c5c9a342fe1877615ddc061719f0dbabfe1ea81004d452691f1d32a21b7882b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1652",
+   "path": "uredba/2001/1652",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Biograd",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Biograd",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1652",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1652.html",
+     "sha256": "079a2ef052e09d4e4c39e02497177ebb611c457f1352dd56697e41636c5e0ef2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1653",
+   "path": "uredba/2001/1653",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Trogir",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Trogir",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1653",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1653.html",
+     "sha256": "c7f94b0786b134c995012494f6358f8bfec7e3a1afa72d2da565d331ba0a247e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1654",
+   "path": "uredba/2001/1654",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Duće",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Duće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1654",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1654.html",
+     "sha256": "43c9dd1b852ac0dc486212e6bc98bc15b219d19fad104c6725a233559011b862"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1655",
+   "path": "uredba/2001/1655",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1655",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1655.html",
+     "sha256": "f282686be608a691ec910da138488ce61222412b6eff686cd68f60b1a72d141f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1656",
+   "path": "uredba/2001/1656",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Novi",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Novi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1656",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1656.html",
+     "sha256": "10c92eea4bac18b56dbd143b21d807e8564bf826512323e506b17f6ae19a47fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1657",
+   "path": "uredba/2001/1657",
+   "short": "Uredba o određivanju lučkog područja luke Vukovar",
+   "title": "Uredba o određivanju lučkog područja luke Vukovar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/100/1657",
+   "versions": [
+    {
+     "from": "2001-11-22",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_100_1657.html",
+     "sha256": "9c528d0515a503267dd700d74eacbf05774a1d5186c6c24f79e901b4bd927c22"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1675",
+   "path": "uredba/2001/1675",
+   "short": "Uredba o izmjenama Uredbe o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za razdoblje od 1. srpnja do 31. prosinca 2001. g",
+   "title": "Uredba o izmjenama Uredbe o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za razdoblje od 1. srpnja do 31. prosinca 2001. g",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/101/1675",
+   "versions": [
+    {
+     "from": "2001-11-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_101_1675.html",
+     "sha256": "2c4a8f5b4b4bda44e2a5b37f133b31b10538a9b74cfa130369c52d4bab14956d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1681",
+   "path": "uredba/2001/1681",
+   "short": "Uredba o zajamčenoj cijeni pšenice roda 2002. godine",
+   "title": "Uredba o zajamčenoj cijeni pšenice roda 2002. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/102/1681",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_102_1681.html",
+     "sha256": "3de2b218cb51a282abd2a81f93b88082055a4f96374506eb6bae5899fc37da24"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1682",
+   "path": "uredba/2001/1682",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/102/1682",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_102_1682.html",
+     "sha256": "63bf50307be70cbd12da9d5dd98f98a40452e22e228514087a1b6add215c98ca"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1683",
+   "path": "uredba/2001/1683",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Crikvenica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Crikvenica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/102/1683",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_102_1683.html",
+     "sha256": "213f855b22c15186958813207f95f76a375a938a1bf218a0f87ad0a7261d4cfe"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1684",
+   "path": "uredba/2001/1684",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Selce",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Selce",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/102/1684",
+   "versions": [
+    {
+     "from": "2001-11-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_102_1684.html",
+     "sha256": "0ab0067d5c024e9621dc54c4a757e4417e93cd97a7e602090f39e22ccc299e9d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1702",
+   "path": "uredba/2001/1702",
+   "short": "Uredba o Direkciji za korištenje službenih zrakoplova",
+   "title": "Uredba o Direkciji za korištenje službenih zrakoplova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/103/1702",
+   "versions": [
+    {
+     "from": "2001-12-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_103_1702.html",
+     "sha256": "ac4c38c9c4683052d8dedc4d23e3b4f7c415c670292e3fe534d803c4ab987486"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1703",
+   "path": "uredba/2001/1703",
+   "short": "Uredba o izmjeni Uredbe o carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/103/1703",
+   "versions": [
+    {
+     "from": "2001-11-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_103_1703.html",
+     "sha256": "b9d9eb1a759a4adb5f70ee3c1d6df56ab6f77603769047e0797e2ea3942be020"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1723",
+   "path": "uredba/2001/1723",
+   "short": "Uredba o posebnim uvjetima za obavljanje trgovine na malo u određenim vrstama prodavaonica",
+   "title": "Uredba o posebnim uvjetima za obavljanje trgovine na malo u određenim vrstama prodavaonica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/105/1723",
+   "versions": [
+    {
+     "from": "2001-12-06",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_105_1723.html",
+     "sha256": "b2f03691e31b1341cd66aef7f238e86524c1739c0628464875296fb0487db141"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1724",
+   "path": "uredba/2001/1724",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Crikvenica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/105/1724",
+   "versions": [
+    {
+     "from": "2001-12-06",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_105_1724.html",
+     "sha256": "71bb424d7e50b8cc9c149aab717a86094cab0af7abb82ce1d1a8c7dd3a3e0571"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1725",
+   "path": "uredba/2001/1725",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Šmrika",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Šmrika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/105/1725",
+   "versions": [
+    {
+     "from": "2001-12-06",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_105_1725.html",
+     "sha256": "daecafbdcad6ca9c3ac50c2fc09294de1cb05aee60f5e626bb423f7885ea7744"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1774",
+   "path": "uredba/2001/1774",
+   "short": "Uredba o osnivanju Regionalnog središta za pružanje pomoći i uklanjanje posljedica katastrofa",
+   "title": "Uredba o osnivanju Regionalnog središta za pružanje pomoći i uklanjanje posljedica katastrofa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1774",
+   "versions": [
+    {
+     "from": "2001-12-05",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1774.html",
+     "sha256": "cc42ceba14c6703e7ae9be2842e80f72fa739305b61c4f16a07acf081d6d6501"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1775",
+   "path": "uredba/2001/1775",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu službe vanjskih poslova",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu službe vanjskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1775",
+   "versions": [
+    {
+     "from": "2001-12-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1775.html",
+     "sha256": "1033a4cfa6e71d47359770d9ebc98821c62035518b32e4bb31752b812080f759"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1783",
+   "path": "uredba/2001/1783",
+   "short": "Uredba o računanju vremena u 2002. godini",
+   "title": "Uredba o računanju vremena u 2002. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/108/1783",
+   "versions": [
+    {
+     "from": "2001-12-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_108_1783.html",
+     "sha256": "01fbdf2d6f56cfa549aa4cad8dabead4800c1e509fe01f90c1b458ae8297245e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1820",
+   "path": "uredba/2001/1820",
+   "short": "Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona",
+   "title": "Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/110/1820",
+   "versions": [
+    {
+     "from": "2001-12-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_110_1820.html",
+     "sha256": "12096d658f98fbaf3482484d50e7666496da106914a0922cb39997373875f089"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1821",
+   "path": "uredba/2001/1821",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Okrug",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Okrug",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/110/1821",
+   "versions": [
+    {
+     "from": "2001-12-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_110_1821.html",
+     "sha256": "90a33fc1feed4b483e9c1861d036285fd2bc7dc8caa744e2c8df0a7146750008"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1822",
+   "path": "uredba/2001/1822",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/110/1822",
+   "versions": [
+    {
+     "from": "2001-12-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_110_1822.html",
+     "sha256": "53c3d10af31835ac70b5388419c879ec9aaeca4e75dee67892a08333339e694f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1823",
+   "path": "uredba/2001/1823",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Komiža",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Komiža",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/110/1823",
+   "versions": [
+    {
+     "from": "2001-12-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_110_1823.html",
+     "sha256": "49d413146a8d55dc261a74b250ea2d99fe2ba673cf9c42137211b346798a10ec"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1854",
+   "path": "uredba/2001/1854",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/112/1854",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_112_1854.html",
+     "sha256": "f0f799ce1080ad5b786b5dc4bbc066f5b1a29d851e615a83d16fa29731acac84"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1855",
+   "path": "uredba/2001/1855",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/112/1855",
+   "versions": [
+    {
+     "from": "2001-12-18",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_112_1855.html",
+     "sha256": "8b71fff326aeb6da221be9fe628624d3f4adb2aecf51d7e4cb3d8a15ca6f1785"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1856",
+   "path": "uredba/2001/1856",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/112/1856",
+   "versions": [
+    {
+     "from": "2001-12-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_112_1856.html",
+     "sha256": "62405e7d261c0fba43e854186eb42539ecc15aaff10691a929789abc171315c2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1857",
+   "path": "uredba/2001/1857",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krapanj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krapanj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/112/1857",
+   "versions": [
+    {
+     "from": "2001-12-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_112_1857.html",
+     "sha256": "519dfc73c229f66def71267b40a1b1e97d0be0ee3a6156d3df3936b095b2613e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1858",
+   "path": "uredba/2001/1858",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stobreč",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stobreč",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/112/1858",
+   "versions": [
+    {
+     "from": "2001-12-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_112_1858.html",
+     "sha256": "8c4ef2b0c56e36e97f2dc1f85ac42a8881e1c08cb20fe77416d39399d2a58736"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-193",
+   "path": "uredba/2001/193",
+   "short": "Uredba o uvjetima i mjerilima za stambeno zbrinjavanje na područjima posebne državne skrbi",
+   "title": "Uredba o uvjetima i mjerilima za stambeno zbrinjavanje na područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/10/193",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_10_193.html",
+     "sha256": "2a098ec75acc3d0578efc5be397cbbf4750956a27b60f091d985b7b895fea2dc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-194",
+   "path": "uredba/2001/194",
+   "short": "Uredba o Savjetu za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima i Uredu za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima",
+   "title": "Uredba o Savjetu za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima i Uredu za suradnju s Međunarodnim sudom pravde i međunarodnim kaznenim sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/10/194",
+   "versions": [
+    {
+     "from": "2001-02-06",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_10_194.html",
+     "sha256": "8ba126434bcd067760d5e29437249bcc081cdcee9fb0cb4d8854471a2c495190"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1972",
+   "path": "uredba/2001/1972",
+   "short": "Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "title": "Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/118/1972",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_118_1972.html",
+     "sha256": "51a75760ca24f64a66a54c59c06fa9d4fc0c2cc0f19ca7312b539c0c603ee10d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1973",
+   "path": "uredba/2001/1973",
+   "short": "Uredba o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2002.",
+   "title": "Uredba o načinu izračuna iznosa potpora izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2002.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/118/1973",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_118_1973.html",
+     "sha256": "54815ebe5965b7343e0ae9eeaccc0d2c8e060b83b605a2336020cff7cffd1d52"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1974",
+   "path": "uredba/2001/1974",
+   "short": "Uredba o izmjeni i dopuni Uredbe o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih sportu i razonodi u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske",
+   "title": "Uredba o izmjeni i dopuni Uredbe o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih sportu i razonodi u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/118/1974",
+   "versions": [
+    {
+     "from": "2002-01-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_118_1974.html",
+     "sha256": "2ee7b46d98822f9d5b9a53cb9ad827db4bafb56dc0afc53b76cad4d5b0215e17"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-1975",
+   "path": "uredba/2001/1975",
+   "short": "Uredba o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske",
+   "title": "Uredba o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/118/1975",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_118_1975.html",
+     "sha256": "61ee9465d2149f5a64c2ace356fa4c0f677046cb6a0437de0c27cb935b4f6a20"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-2002",
+   "path": "uredba/2001/2002",
+   "short": "Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna",
+   "title": "Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/119/2002",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_119_2002.html",
+     "sha256": "8617161437767a014545a265d14cc56d4412457dd7e18925e012e5f90e60cdfc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-2003",
+   "path": "uredba/2001/2003",
+   "short": "Uredba o dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti",
+   "title": "Uredba o dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/119/2003",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_119_2003.html",
+     "sha256": "0369e296bb57fe8dfd607083e5768eb508fda35f7bbdb7b934a3e242c4c99d91"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-227",
+   "path": "uredba/2001/227",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Goveđari",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Goveđari",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/227",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_227.html",
+     "sha256": "732e6da945af51da45601e7fde4ba72d66add7f3ff23952fc1b0469a1ad22356"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-228",
+   "path": "uredba/2001/228",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Suđurađ",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Suđurađ",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/228",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_228.html",
+     "sha256": "be26a92e31a7a4c645754e3942f5e8e49b1d24f91fdc55be06eb895025fa93d7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-229",
+   "path": "uredba/2001/229",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tuliševica i k.o. Lovran",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tuliševica i k.o. Lovran",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/229",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_229.html",
+     "sha256": "d62fb0f8e5132055dd0e146d4d6dceaae34e48599545300f8c9d840b06623f50"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-230",
+   "path": "uredba/2001/230",
+   "short": "Uredba o privremenom ograničenju izvoza kukuruza",
+   "title": "Uredba o privremenom ograničenju izvoza kukuruza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/230",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_230.html",
+     "sha256": "7b3a212ccffb1c137198fd8ab5776fc59b7d5a448099bb8f98f0d97b68e19a4e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-231",
+   "path": "uredba/2001/231",
+   "short": "Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona",
+   "title": "Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/231",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_231.html",
+     "sha256": "5fd86a9f2639b62b09b696b927df86e767511b4a28f7323aa14d274775e0824f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-232",
+   "path": "uredba/2001/232",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/232",
+   "versions": [
+    {
+     "from": "2001-02-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_232.html",
+     "sha256": "910227bf29d8a8763d9cba4a4b72b9f2b2477b271bd4d7ca85ac1e469c29bb11"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-266",
+   "path": "uredba/2001/266",
+   "short": "Uredba o posebnim uvjetima za obavljanje lučkih djelatnosti u lukama unutarnjih voda",
+   "title": "Uredba o posebnim uvjetima za obavljanje lučkih djelatnosti u lukama unutarnjih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/266",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_266.html",
+     "sha256": "39d04a1ed8cc693290f4fe12e95a29acd31f9085ef858037a4f11f8808e8837a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-267",
+   "path": "uredba/2001/267",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poljane",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poljane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/267",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_267.html",
+     "sha256": "284dce275e82572a83400c2bdc1edeafd2243da58440a1ad19a51c7cbfdb76f1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-268",
+   "path": "uredba/2001/268",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/268",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_268.html",
+     "sha256": "fdbdd8bc099218e2ff53b84a57682813173b18fea0023026b4f2d5c0115f0268"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-269",
+   "path": "uredba/2001/269",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/269",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_269.html",
+     "sha256": "c4ac1d11656f9d9a6e6a4cf15f046c401077a926ec11ec0901d0ef65abfbbeb9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-270",
+   "path": "uredba/2001/270",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/270",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_270.html",
+     "sha256": "ff17ae71c530a8a75f051104f6b9412d4008349016163916c671cf1009e79dc8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-271",
+   "path": "uredba/2001/271",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/271",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_271.html",
+     "sha256": "6beb1e57c68d3e7f4f0a9929a936f50230dda5dc8b7e195cd11f9719c13e63cc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-287",
+   "path": "uredba/2001/287",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kali",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kali",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/287",
+   "versions": [
+    {
+     "from": "2001-03-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_16_287.html",
+     "sha256": "4b960f908f92ad1fa02defb8076cfbd145709b73e025cfe0a64fff1a2177d420"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-288",
+   "path": "uredba/2001/288",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nin",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/288",
+   "versions": [
+    {
+     "from": "2001-03-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_16_288.html",
+     "sha256": "cd8727428a64dd79ffc9a11a8b24ca4110db5984aaf22b41c68b7d61878892d3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-289",
+   "path": "uredba/2001/289",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Ston",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Ston",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/289",
+   "versions": [
+    {
+     "from": "2001-03-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_16_289.html",
+     "sha256": "178c29ef05151f36aa67cb45dd66b24dbdbbc2f3633429f87460caa188603076"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-290",
+   "path": "uredba/2001/290",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška i k.o. Batomalj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška i k.o. Batomalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/290",
+   "versions": [
+    {
+     "from": "2001-03-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_16_290.html",
+     "sha256": "7f38c3d4f8045c5f8b72789a581485d78593fb7d44faeff70d3968563e6927b1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-32",
+   "path": "uredba/2001/32",
+   "short": "Uredba o izravnim mjerama kontrole cijena",
+   "title": "Uredba o izravnim mjerama kontrole cijena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/32",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_32.html",
+     "sha256": "591bf1c4490ca4192f33c712a408161ba59cdd647f0fb9eec1477ec50810f61b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-33",
+   "path": "uredba/2001/33",
+   "short": "Uredba o određivanju najviše razine cijena naftnih derivata",
+   "title": "Uredba o određivanju najviše razine cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/33",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_33.html",
+     "sha256": "68e6700b68226fe1a3f11c94893b3d3849ae5001e1d6ecd24567fe417243492d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-34",
+   "path": "uredba/2001/34",
+   "short": "Uredba o izmjeni Uredbe o carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/34",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_34.html",
+     "sha256": "d75ca1e5f088029f62d0dc10522ea2cf026d2eb4200e8ccaf8797375bb93333d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-35",
+   "path": "uredba/2001/35",
+   "short": "Uredba o računanju vremena u 2001. godini",
+   "title": "Uredba o računanju vremena u 2001. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/35",
+   "versions": [
+    {
+     "from": "2001-01-10",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_35.html",
+     "sha256": "2d6f10742319b6a1dd762be4d67119330b73c624d6d4a8828efa99b921b74c18"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-359",
+   "path": "uredba/2001/359",
+   "short": "Uredba o izmjenama i dopunama Uredbe o uvjetima i postupku plaćanja povoljnije carine pri uvozu robe koja se besplatno prima iz inozemstva",
+   "title": "Uredba o izmjenama i dopunama Uredbe o uvjetima i postupku plaćanja povoljnije carine pri uvozu robe koja se besplatno prima iz inozemstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/20/359",
+   "versions": [
+    {
+     "from": "2001-03-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_20_359.html",
+     "sha256": "f184ad50b91a2d215dcd741bf655f4f7cd0eaf0d71a23068e6fe586e94a67e1b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-36",
+   "path": "uredba/2001/36",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/36",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_36.html",
+     "sha256": "003155098b05abe3ff0a5c2de2b89c7bb4a3b316453e5484ad4fc0ac1a33435c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-360",
+   "path": "uredba/2001/360",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/20/360",
+   "versions": [
+    {
+     "from": "2001-03-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_20_360.html",
+     "sha256": "8fa41c3b7ad649726e96b0e6248a4e132c2dcf04428c518cd1fd996250bddee8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-37",
+   "path": "uredba/2001/37",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trget",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trget",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/37",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_37.html",
+     "sha256": "e463dce89d39cb7a122b94736e4bbd12dba7882808137192f7dc3a882ea72fd6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-38",
+   "path": "uredba/2001/38",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/38",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_38.html",
+     "sha256": "dcbbcc89a93711299df47ee2acb61d410d385a2d814c8c4ae46572cd80bd049b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-39",
+   "path": "uredba/2001/39",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/39",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_39.html",
+     "sha256": "4ce65b4f66e015aedd700bcda11113c68b85978a299df3e1c8e43f10510363b8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-394",
+   "path": "uredba/2001/394",
+   "short": "Uredba o Uredu za ljudska prava",
+   "title": "Uredba o Uredu za ljudska prava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/394",
+   "versions": [
+    {
+     "from": "2001-03-21",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_394.html",
+     "sha256": "c9e5c195b60f16fd91042958a076ea4e7823a6c67439592ca0680475c6a6ee4d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-395",
+   "path": "uredba/2001/395",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lastovo",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lastovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/395",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_395.html",
+     "sha256": "925d40cf87eb00dd9cbbb031267ce1a60da1d74cffc4fe2b97c4220e549534b8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-396",
+   "path": "uredba/2001/396",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vela Luka",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vela Luka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/396",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_396.html",
+     "sha256": "7b52df080e5c369b9df7fbd408a033f55cb0664a2c38802eda0279701082dbd7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-397",
+   "path": "uredba/2001/397",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stobreč",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stobreč",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/397",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_397.html",
+     "sha256": "2bdfa40cbdd3bfff1cf5aedbb37eb33bff180094dc2a800fa2ffc8b6034e10bb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-398",
+   "path": "uredba/2001/398",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/398",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_398.html",
+     "sha256": "c8696405de34c1ffc35ec095c7e40ef7265686fa9777d6097fc5eea99284b882"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-40",
+   "path": "uredba/2001/40",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/40",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_40.html",
+     "sha256": "ca6fad36e715807e969f718c52babc1118f18c50e6706839b52998a94ccde197"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-42",
+   "path": "uredba/2001/42",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/42",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_42.html",
+     "sha256": "1ef79f4af623d7c03527f0e465adba151d67157e3b90b46208c337c080767f4b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-43",
+   "path": "uredba/2001/43",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/2/43",
+   "versions": [
+    {
+     "from": "2001-01-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_2_43.html",
+     "sha256": "e77e2e8f4285d055e697d784a0b8a8ea921041d95f9e75c63cf51889c4b50117"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-436",
+   "path": "uredba/2001/436",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/436",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_24_436.html",
+     "sha256": "da8e6ddb1f8e308ed507d532f85b615dc7aed2dba28752f8a667f379db1bc516"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-437",
+   "path": "uredba/2001/437",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Marina",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Marina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/437",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_24_437.html",
+     "sha256": "40ae4dc0ae418306bd1068bd40c45e48be90fb8a69b6b570bc8cc70481b39ae3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-438",
+   "path": "uredba/2001/438",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/438",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_24_438.html",
+     "sha256": "9a8bc0385cedb4f1ed92c080bfee3a8700f1da653f285b01a1e38c9f8e22472d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-439",
+   "path": "uredba/2001/439",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/439",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_24_439.html",
+     "sha256": "2c7dca1be6b93d469353436df1cc3888195baa4efd06686446702b97c2f8a297"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-440",
+   "path": "uredba/2001/440",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Opatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/440",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_24_440.html",
+     "sha256": "324215f9bfffec6f10f48481eeaa26ee050d397f8f10f0c5cc283cd426912ec7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-441",
+   "path": "uredba/2001/441",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Volosko",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Volosko",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/441",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_24_441.html",
+     "sha256": "83c624f78e4062f54f87efb79a34a38ee7161ec5f90e82ed8684ef3568eee8ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-498",
+   "path": "uredba/2001/498",
+   "short": "Uredba o Stručnoj službi Vlade Republike Hrvatske",
+   "title": "Uredba o Stručnoj službi Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/29/498",
+   "versions": [
+    {
+     "from": "2001-04-12",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_29_498.html",
+     "sha256": "9b9a4d2c3a0a00818963ad7e3d6abf4ca1e8d7351764c20164dffd6d90d43fa8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-499",
+   "path": "uredba/2001/499",
+   "short": "Uredba o dopunama Uredbe o osnivanju Ureda Vlade Republike Hrvatske za zatočene i nestale",
+   "title": "Uredba o dopunama Uredbe o osnivanju Ureda Vlade Republike Hrvatske za zatočene i nestale",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/29/499",
+   "versions": [
+    {
+     "from": "2001-04-04",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_29_499.html",
+     "sha256": "365a940f28cffc83ba8485e8f7330aa9412923dae9e8ce976db4fd4293623adf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-5",
+   "path": "uredba/2001/5",
+   "short": "Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Uredba o izmjenama i dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/1/5",
+   "versions": [
+    {
+     "from": "2001-01-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_1_5.html",
+     "sha256": "9d09251bc99a7c2f549f2d31a6c3955abfa960a2efe020adac11d7f06050bb6a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-500",
+   "path": "uredba/2001/500",
+   "short": "Uredba o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom",
+   "title": "Uredba o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/29/500",
+   "versions": [
+    {
+     "from": "2001-04-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_29_500.html",
+     "sha256": "2aa55a325db5ae6a83d6874ea0dc48d2257994a253f5e8ea0c4bbd2940ddc2d5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-551",
+   "path": "uredba/2001/551",
+   "short": "Uredba o načinu raspodjele carinskih kvota za određene poljoprivredno-prehrambene proizvode podrijetlom iz zemalja članica Svjetske trgovinske organizacije za 2001. godinu",
+   "title": "Uredba o načinu raspodjele carinskih kvota za određene poljoprivredno-prehrambene proizvode podrijetlom iz zemalja članica Svjetske trgovinske organizacije za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/32/551",
+   "versions": [
+    {
+     "from": "2001-04-18",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_32_551.html",
+     "sha256": "74571db1e78c8765224125844afb77cc5a990de6226133a8d5c3e925ff6344e1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-552",
+   "path": "uredba/2001/552",
+   "short": "Uredba o izmjenama Uredbe o Hrvatskoj informacijsko-dokumentacijskoj referalnoj agenciji",
+   "title": "Uredba o izmjenama Uredbe o Hrvatskoj informacijsko-dokumentacijskoj referalnoj agenciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/32/552",
+   "versions": [
+    {
+     "from": "2001-04-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_32_552.html",
+     "sha256": "98950298c438e2b39812173a3f7e57ee2243e46a80f8b9e0fc52db46a6f19ff0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-553",
+   "path": "uredba/2001/553",
+   "short": "Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije",
+   "title": "Uredba o unutarnjem ustrojstvu i načinu rada Hrvatske informacijsko-dokumentacijske referalne agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/32/553",
+   "versions": [
+    {
+     "from": "2001-04-10",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_32_553.html",
+     "sha256": "f20e3c45c7219e5428261c965d7eefdc9b48c758bebd973b48a6e7958c50f93a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-554",
+   "path": "uredba/2001/554",
+   "short": "Uredba o vođenju Registra javnih cesta",
+   "title": "Uredba o vođenju Registra javnih cesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/32/554",
+   "versions": [
+    {
+     "from": "2001-04-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_32_554.html",
+     "sha256": "bf59f45894a89e7c9d7c5a77429c5c76d1f8ade7bb16974cc52d114fc6704c46"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-571",
+   "path": "uredba/2001/571",
+   "short": "Uredba o postupku provedbe programa - Razvoj na znanju utemeljenih poduzeća, te uvjetima i načinu financiranja Programa",
+   "title": "Uredba o postupku provedbe programa - Razvoj na znanju utemeljenih poduzeća, te uvjetima i načinu financiranja Programa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/33/571",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_571.html",
+     "sha256": "45da94aa5b21773aa01ae5dac100ad90744b02a2118813c48d765ffee4a98473"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-605",
+   "path": "uredba/2001/605",
+   "short": "Uredba o uvjetima i postupku plaćanja povoljnije carine pri uvozu opreme za izgradnju dionice Bosiljevo-Sveti Rok autoceste Bregana-Zagreb-Dubrovnik",
+   "title": "Uredba o uvjetima i postupku plaćanja povoljnije carine pri uvozu opreme za izgradnju dionice Bosiljevo-Sveti Rok autoceste Bregana-Zagreb-Dubrovnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/35/605",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_35_605.html",
+     "sha256": "03786c125b84009b725c5a4dcc1ed38370737815e4d23bff4c61cc5b2772d9d0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-644",
+   "path": "uredba/2001/644",
+   "short": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/644",
+   "versions": [
+    {
+     "from": "2001-04-25",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_37_644.html",
+     "sha256": "8e99cccffc85bb9201f2508a9a0be9018067f00118eca38351d477aa72eaeb7e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-645",
+   "path": "uredba/2001/645",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/645",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_37_645.html",
+     "sha256": "21abe50c8979ac24fc41eb653a830b49227ef0f6fed56223bddd03d69fbb9b03"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-646",
+   "path": "uredba/2001/646",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/646",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_37_646.html",
+     "sha256": "a957db232fe4353db324b626f008f3c625739c4f93a21914ae364e499fe2710c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-647",
+   "path": "uredba/2001/647",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lastovo",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lastovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/647",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_37_647.html",
+     "sha256": "7d3aacd325ab1b44b074bfcad9e2807128659708ba90c7891f930ca0e3d83b3e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-648",
+   "path": "uredba/2001/648",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/648",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_37_648.html",
+     "sha256": "8cd69ca506f269e1c33b5ffbcb6415d2cb5e38a9454a6d5cf9c65c5dad310a5c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-649",
+   "path": "uredba/2001/649",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sušak",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sušak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/649",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_37_649.html",
+     "sha256": "38501931b8a185474d61cc3619fc28c88105a9cc04cbbe601ed394e7012711a9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-666",
+   "path": "uredba/2001/666",
+   "short": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/38/666",
+   "versions": [
+    {
+     "from": "2001-04-27",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_38_666.html",
+     "sha256": "9581f7ad9ac097282cb5609df7190bcb87243ddc4f484b3bdff6dbd076f910b9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-679",
+   "path": "uredba/2001/679",
+   "short": "Uredba o plaćama policijskih službenika",
+   "title": "Uredba o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/39/679",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_39_679.html",
+     "sha256": "437aa71e5aade94a3cd81a4f26cd02d79a827c98f29d801f4612b2f182dd6526"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-680",
+   "path": "uredba/2001/680",
+   "short": "Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/39/680",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_39_680.html",
+     "sha256": "0524031bd001de7348cf0206f9054203cae0491afb01b729e23321eff23c6584"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-681",
+   "path": "uredba/2001/681",
+   "short": "Uredba o sjedištu i području na kojem se osnivaju i djeluju policijske uprave",
+   "title": "Uredba o sjedištu i području na kojem se osnivaju i djeluju policijske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/39/681",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_39_681.html",
+     "sha256": "8ab2521e9f4c831068ab5e24efbbae13f4e2133f2807f1ea9cfaa590ad581ce9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-682",
+   "path": "uredba/2001/682",
+   "short": "Uredba o dopuni Uredbe o određivanju najviše razine cijena naftnih derivata",
+   "title": "Uredba o dopuni Uredbe o određivanju najviše razine cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/39/682",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_39_682.html",
+     "sha256": "54d31e7a563d1d9eab17ff30eba878c1ccf0394cf114a7d77c36dacb57748e71"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-694",
+   "path": "uredba/2001/694",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bol",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/40/694",
+   "versions": [
+    {
+     "from": "2001-05-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_40_694.html",
+     "sha256": "8cf36b802922cfd1e638de3172c253735bd6f9dd085f18a4853964721a305494"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-695",
+   "path": "uredba/2001/695",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/40/695",
+   "versions": [
+    {
+     "from": "2001-05-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_40_695.html",
+     "sha256": "332097e5b613ac71fff5e92a918ddeb922de7634b757bf28788ccb156921f842"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-696",
+   "path": "uredba/2001/696",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Živogošće",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Živogošće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/40/696",
+   "versions": [
+    {
+     "from": "2001-05-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_40_696.html",
+     "sha256": "7fe7c14b82c9f9d76a6d8aa13b8e4ef2972aead338d1afd70dcc91cfbe7e24e8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-697",
+   "path": "uredba/2001/697",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brašina",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brašina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/40/697",
+   "versions": [
+    {
+     "from": "2001-05-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_40_697.html",
+     "sha256": "b24793db1c940f38f4447ae0f75f30b6439a673417ab9436aea46e2d7c4b3ba5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-714",
+   "path": "uredba/2001/714",
+   "short": "Uredba o načelima za unutarnje ustrojstvo tijela državne uprave",
+   "title": "Uredba o načelima za unutarnje ustrojstvo tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/43/714",
+   "versions": [
+    {
+     "from": "2001-05-11",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_43_714.html",
+     "sha256": "a47cea5a7ee48511a34433d891f9498c400db8d357b9907baa4614abaa97fca9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-730",
+   "path": "uredba/2001/730",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Novigrad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/730",
+   "versions": [
+    {
+     "from": "2001-05-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_44_730.html",
+     "sha256": "4a6534889dd53638d6a232176fb9995eda245d546a30ce2fbcfedd928ca90fc1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-731",
+   "path": "uredba/2001/731",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Savudrija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/731",
+   "versions": [
+    {
+     "from": "2001-05-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_44_731.html",
+     "sha256": "523d2f1ef76935ec738443c62401378a621ef315314c8423055e04d333f9db88"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-732",
+   "path": "uredba/2001/732",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Šibenik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Šibenik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/732",
+   "versions": [
+    {
+     "from": "2001-05-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_44_732.html",
+     "sha256": "78e851afd22fd5b557a2c96d6cb67e62b54745296b08380f30fa3fec7a16242f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-733",
+   "path": "uredba/2001/733",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tribunj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tribunj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/733",
+   "versions": [
+    {
+     "from": "2001-05-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_44_733.html",
+     "sha256": "4e75ad53ccc91e8751325fbb46b44336b283c8aa7eb3bd77b883227986c0eada"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-734",
+   "path": "uredba/2001/734",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Primošten",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Primošten",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/44/734",
+   "versions": [
+    {
+     "from": "2001-05-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_05_44_734.html",
+     "sha256": "1bb95674c695b522414a52979738e0e40ab2d2f0341712fa6857ede77ab89abb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-77",
+   "path": "uredba/2001/77",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/4/77",
+   "versions": [
+    {
+     "from": "2001-01-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_01_4_77.html",
+     "sha256": "178f35f28d1f86315f0be750790630ea4ba9438ae22e24a752336c8669e69908"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-804",
+   "path": "uredba/2001/804",
+   "short": "Uredba o uvjetima i postupku ostvarivanja carinske i poreznih olakšica hrvatskih branitelja i članova njihovih obitelji",
+   "title": "Uredba o uvjetima i postupku ostvarivanja carinske i poreznih olakšica hrvatskih branitelja i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/50/804",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_50_804.html",
+     "sha256": "4c944279f9af2133e9f300133c97138af1a65088d73868caf0fa287a03098dca"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-850",
+   "path": "uredba/2001/850",
+   "short": "Uredba o sadržaju izvješća za korištenje poticajnih mjera, poreznih i carinskih povlastica, te načinu njihova ostvarivanja",
+   "title": "Uredba o sadržaju izvješća za korištenje poticajnih mjera, poreznih i carinskih povlastica, te načinu njihova ostvarivanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/53/850",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_53_850.html",
+     "sha256": "496ecc6e0b2823f23b3861ab0a3732808c3a819c3a8110ffee94142cf8d2dca5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-851",
+   "path": "uredba/2001/851",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/53/851",
+   "versions": [
+    {
+     "from": "2001-06-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_53_851.html",
+     "sha256": "6125bfdb96bdfa904bc45970ddcfa1354debfd8b12e211bbcb0af04d06da6535"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-885",
+   "path": "uredba/2001/885",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/56/885",
+   "versions": [
+    {
+     "from": "2001-06-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_56_885.html",
+     "sha256": "58fab31b042755cc84bca1697f165bda67973f7ffbda524587c0941f3aac5cc8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-886",
+   "path": "uredba/2001/886",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Visoke pomorske škole u Rijeci",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Visoke pomorske škole u Rijeci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/56/886",
+   "versions": [
+    {
+     "from": "2001-06-20",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_56_886.html",
+     "sha256": "5109ff005de10ca58eb2916aa0c0cbb25fb83600a8a3848157292331f953df59"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-937",
+   "path": "uredba/2001/937",
+   "short": "Uredba o uvrđivanju visine boravišne pristojbe za 2002. godinu",
+   "title": "Uredba o uvrđivanju visine boravišne pristojbe za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/58/937",
+   "versions": [
+    {
+     "from": "2001-07-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_58_937.html",
+     "sha256": "7b17b05c221367f6a4e6fda0f31eab10c2a15faa1ff31a69a1c969c00ef4b141"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-938",
+   "path": "uredba/2001/938",
+   "short": "Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2002. godinu",
+   "title": "Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/58/938",
+   "versions": [
+    {
+     "from": "2001-07-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_58_938.html",
+     "sha256": "088bef2543c4e1a1def2858cf20a21090a540fd77a23f30f36709d09df87f446"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-975",
+   "path": "uredba/2001/975",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kostrena - Lucija",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kostrena - Lucija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/60/975",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_60_975.html",
+     "sha256": "c6dafb2063640cd17120a59d4df07660c1b7643ce53632fdc6a697e29e7a8383"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-976",
+   "path": "uredba/2001/976",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/60/976",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_60_976.html",
+     "sha256": "0e7bed454ac83e5a3a5ee4b6b97c8a663421cd336cf7b90d47ab49ba1781cf44"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-977",
+   "path": "uredba/2001/977",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Slivno",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Slivno",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/60/977",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_60_977.html",
+     "sha256": "4ea53a07a4dae8b9021f76434f8f6917df1f83ab7bf84b6e9fe49aadba549404"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-978",
+   "path": "uredba/2001/978",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Ledenice",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Ledenice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/60/978",
+   "versions": [
+    {
+     "from": "2001-07-12",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_60_978.html",
+     "sha256": "1927fbee4228b0ff092f61f0dcdd9781ce5ee19aa2d298e886298f27ebff035d"
     }
    ]
   },
@@ -28888,6 +32098,1296 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_35_754.html",
      "sha256": "7301172bf1fb84ab710168c58b160fdbf2b451ac7757caf77531ca3bc302e964"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-10",
+   "path": "uredba/2002/10",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Zaton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Zaton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/1/10",
+   "versions": [
+    {
+     "from": "2002-01-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_1_10.html",
+     "sha256": "92a4a8d9f53c18a9a79ccc405e93cf8e9a95052c5f773bb96906115e46d9a5bf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1005",
+   "path": "uredba/2002/1005",
+   "short": "Uredba o vrsti naoružanja i opreme policijskih službenika Ministarstva unutarnjih poslova",
+   "title": "Uredba o vrsti naoružanja i opreme policijskih službenika Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/54/1005",
+   "versions": [
+    {
+     "from": "2002-05-23",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_54_1005.html",
+     "sha256": "2e535973e271e02f627b8d8fc379dcbdf9ffd47f9d85a93900914a3a958bb8fe"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1061",
+   "path": "uredba/2002/1061",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Uredu za državnu imovinu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Uredu za državnu imovinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/58/1061",
+   "versions": [
+    {
+     "from": "2002-05-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_58_1061.html",
+     "sha256": "c68473e9d7b8e3b885647fdc1856821e77aea56603000534c5361bdcf83317df"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1073",
+   "path": "uredba/2002/1073",
+   "short": "Uredba o financiranju rada Vijeća za regulaciju energetskih djelatnosti",
+   "title": "Uredba o financiranju rada Vijeća za regulaciju energetskih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/60/1073",
+   "versions": [
+    {
+     "from": "2002-05-31",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_60_1073.html",
+     "sha256": "5db4f12d03d6ed08b678c4449d9296824561aa42ef6802f2e4f5de7460cde5c0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1074",
+   "path": "uredba/2002/1074",
+   "short": "Uredba o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom",
+   "title": "Uredba o osnivanju Agencije za prostore ugrožene eksplozivnom atmosferom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/60/1074",
+   "versions": [
+    {
+     "from": "2002-05-31",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_60_1074.html",
+     "sha256": "56a1bf948cba70aa213a34a5d5ec8886f2c89d5cf890600dbd9f1f6cdecb7112"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1085",
+   "path": "uredba/2002/1085",
+   "short": "Uredba o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme",
+   "title": "Uredba o dodacima na plaće za pojedina radna mjesta zdravstvenih djelatnika srednje i više stručne spreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/62/1085",
+   "versions": [
+    {
+     "from": "2002-05-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_62_1085.html",
+     "sha256": "6138a1de7089bb5e2be4a35d211471cb506d16c9cdc199dcad4d9712d708c1be"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1086",
+   "path": "uredba/2002/1086",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/62/1086",
+   "versions": [
+    {
+     "from": "2002-05-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_62_1086.html",
+     "sha256": "45c84062c429ddcda53abbc965c4cd916ea49d181b1c7be301a20f37dc775fd7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1130",
+   "path": "uredba/2002/1130",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/67/1130",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_67_1130.html",
+     "sha256": "ebf858cf33c25f180a9f567dcad0931cd9d4cad04064d387276dca6a386cabf0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1131",
+   "path": "uredba/2002/1131",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Anton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Anton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/67/1131",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_67_1131.html",
+     "sha256": "306e72fdec1c4737b524e810c289a2299dd67fc3a098e26ce8c5ef0fd8c7e1f9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1132",
+   "path": "uredba/2002/1132",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brtonigla",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Brtonigla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/67/1132",
+   "versions": [
+    {
+     "from": "2002-06-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_67_1132.html",
+     "sha256": "5e4f52038abd362f7699dec7006b67e68b0220b4623280d24e5225922445834d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1163",
+   "path": "uredba/2002/1163",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva za europske integracije",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva za europske integracije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/69/1163",
+   "versions": [
+    {
+     "from": "2002-06-13",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_69_1163.html",
+     "sha256": "1737afdb219dbd2dc1a367477200288f48fc12b8514af22ea90f259df49f67be"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1194",
+   "path": "uredba/2002/1194",
+   "short": "Uredba o visini stope zatezne kamate",
+   "title": "Uredba o visini stope zatezne kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/72/1194",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_72_1194.html",
+     "sha256": "2e127d5e5467a55e5bc62fe546c238321487bf4dffcf36736cb2a5b038528873"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1195",
+   "path": "uredba/2002/1195",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Obod",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Obod",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/72/1195",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_72_1195.html",
+     "sha256": "225f412619b87d5ce3a18d17da80819802b756320ea7308f15b19bc8d3801d17"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1196",
+   "path": "uredba/2002/1196",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bast - Baška Voda",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bast - Baška Voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/72/1196",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_72_1196.html",
+     "sha256": "e610bb17b1919a204e59251d9dd02f8efb08168893f2b83ace97818005fa6ccf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1197",
+   "path": "uredba/2002/1197",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pirovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/72/1197",
+   "versions": [
+    {
+     "from": "2002-06-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_72_1197.html",
+     "sha256": "26dbabe837e2d4464224330622b3f055aa9c329fd101b79d4b8c2512e478e66a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1204",
+   "path": "uredba/2002/1204",
+   "short": "Uredba o mjerama zaštite domaće proizvodnje od prekomjernog uvoza",
+   "title": "Uredba o mjerama zaštite domaće proizvodnje od prekomjernog uvoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/73/1204",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_73_1204.html",
+     "sha256": "b486e438ccede3b2417ecf740c65414da9506c9a8dd79c6bb0491d2968d2d8b6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1211",
+   "path": "uredba/2002/1211",
+   "short": "Uredba o poslovima i posebnim uvjetima rada u državnoj službi",
+   "title": "Uredba o poslovima i posebnim uvjetima rada u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1211",
+   "versions": [
+    {
+     "from": "2002-06-21",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_74_1211.html",
+     "sha256": "559d534dc5e659c62847d0d0355bc5b7caa82bb37086b7de9fcaa5e355e647f3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1212",
+   "path": "uredba/2002/1212",
+   "short": "Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna",
+   "title": "Uredba o izmjenama i dopunama Uredbe o računovodstvu proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/74/1212",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_74_1212.html",
+     "sha256": "20ec43e827ebef86194b6e679171e6c7c8183b1cf4f8999a6bc26a648ec9867e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1220",
+   "path": "uredba/2002/1220",
+   "short": "Uredba o utvrđivanju visine boravišne pristojbe za 2003. godinu",
+   "title": "Uredba o utvrđivanju visine boravišne pristojbe za 2003. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/75/1220",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_75_1220.html",
+     "sha256": "04d5d12bc4d31f9534873371f2198fbf0b85a7dd906d64df39ca596c16d4d325"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1221",
+   "path": "uredba/2002/1221",
+   "short": "Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2003. godinu",
+   "title": "Uredba o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma za 2003. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/75/1221",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_75_1221.html",
+     "sha256": "020ca5ebc34bcc6deb989603295d7bed2e54288188f3ba2a7d2c18763e4ee7af"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1263",
+   "path": "uredba/2002/1263",
+   "short": "Uredba o izmjenama Uredbe o Carinskoj tarifi za 2002. godinu",
+   "title": "Uredba o izmjenama Uredbe o Carinskoj tarifi za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/77/1263",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_77_1263.html",
+     "sha256": "e69be495ce80a88946f31e3b38c1a61ebb7bf5d85e110e65a05b018317fa9abc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1265",
+   "path": "uredba/2002/1265",
+   "short": "Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Uredba o produljenju roka iz članka 8. stavka 1. Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/78/1265",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_78_1265.html",
+     "sha256": "3a9e66e9409edeb8d14bd77ed4fca308b250141bd78ebd1c00967878311b3562"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1274",
+   "path": "uredba/2002/1274",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Gruž",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1274",
+   "versions": [
+    {
+     "from": "2002-07-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_79_1274.html",
+     "sha256": "6d93b88bbe37af6e2081228d1ca3b342ec0a0888cd0f421d6f6b7cf53d2bbba6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1275",
+   "path": "uredba/2002/1275",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Banjol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1275",
+   "versions": [
+    {
+     "from": "2002-07-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_79_1275.html",
+     "sha256": "0834f6ff42aa41ff9992c2093290b9e0b8758b125df157ff9cf281f2ef86e149"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1276",
+   "path": "uredba/2002/1276",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Marina",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Marina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1276",
+   "versions": [
+    {
+     "from": "2002-07-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_79_1276.html",
+     "sha256": "debd0dbba51daba2fdbb5341d369ae0b313d3974e94e3f41c4cd07b469a921a9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-131",
+   "path": "uredba/2002/131",
+   "short": "Uredba o utvrđivanju lokacija postaja u državnoj mreži za trajno praćenje kakvoće zraka",
+   "title": "Uredba o utvrđivanju lokacija postaja u državnoj mreži za trajno praćenje kakvoće zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/4/131",
+   "versions": [
+    {
+     "from": "2002-01-24",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_4_131.html",
+     "sha256": "311818ea5ad8e9aedf42d4d476d809e4e9b7aa549203588d6b54c63680097136"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-132",
+   "path": "uredba/2002/132",
+   "short": "Uredba o izmjenama i dopunama Uredbe o carinskoj tarifi za 2002. godinu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o carinskoj tarifi za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/4/132",
+   "versions": [
+    {
+     "from": "2002-01-16",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_4_132.html",
+     "sha256": "1de12192fa1c30445d551ddb7a778cd74f53b1afdbc0c496aabe5b5672ffcc47"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1377",
+   "path": "uredba/2002/1377",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1377",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1377.html",
+     "sha256": "5781a00cdb553e6c262e59c15eb0a51415b05865013057e24871a3139bad3744"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1378",
+   "path": "uredba/2002/1378",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1378",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1378.html",
+     "sha256": "ae5adbd3779e571263bf53e05aa2ade338ee110fbc987c4d237ec247bf8a6e95"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1379",
+   "path": "uredba/2002/1379",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1379",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1379.html",
+     "sha256": "e46ad44989688dc79365a7905592241d45076d77c367763458b431387a0e80d4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1380",
+   "path": "uredba/2002/1380",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Barbat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1380",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1380.html",
+     "sha256": "b2909dbc9d9e702a343764a933c794ba0ec3455095db0c793a06f4e486869829"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1572",
+   "path": "uredba/2002/1572",
+   "short": "Uredba o sadržaju i metodologiji izrade programa održivog razvitka otoka, sa sadržajem i metodologijom izrade programa održivog razvitka otoka",
+   "title": "Uredba o sadržaju i metodologiji izrade programa održivog razvitka otoka, sa sadržajem i metodologijom izrade programa održivog razvitka otoka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/94/1572",
+   "versions": [
+    {
+     "from": "2002-08-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_94_1572.html",
+     "sha256": "d1dd7ecead3dd7c09819e61383cfd943103870a4d5e54f8affd1807b331b9802"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1581",
+   "path": "uredba/2002/1581",
+   "short": "Uredba o izmjenama i dopunama Zakona o naplati dospjelih a nenaplaćenih poreza, carina, doprinosa i državnih jamstava",
+   "title": "Uredba o izmjenama i dopunama Zakona o naplati dospjelih a nenaplaćenih poreza, carina, doprinosa i državnih jamstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/95/1581",
+   "versions": [
+    {
+     "from": "2002-08-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_95_1581.html",
+     "sha256": "7e8d71bf2a7c9cbf2aaba2b42c829f1f1f2dc48105d8efe6577dfb2c89e82bb6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1618",
+   "path": "uredba/2002/1618",
+   "short": "Uredba o dodjeli stambenih kredita članovima obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata",
+   "title": "Uredba o dodjeli stambenih kredita članovima obitelji poginuloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1618",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1618.html",
+     "sha256": "b719c8ec9aeb9deaa42b45f2b2d8a4c8758487b15702b57d8c4348aa730fa34e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1619",
+   "path": "uredba/2002/1619",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1619",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1619.html",
+     "sha256": "971d66a5cfcd7f833c4e6249609f340517f4fd32287f2c55cda343baa33ceae1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1620",
+   "path": "uredba/2002/1620",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1620",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1620.html",
+     "sha256": "ab502cdccc50d7bb8a9574e5f6b994ddd5b900604a2d8be0d4fa4452ebee5608"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1621",
+   "path": "uredba/2002/1621",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1621",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1621.html",
+     "sha256": "3581e7d411adff3fd54a26d586a474b867bd5007223dbb25ec32ab5b5bc33c3b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1622",
+   "path": "uredba/2002/1622",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Duće",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Duće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1622",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1622.html",
+     "sha256": "cca7cd084dadd94b1fa083db64b2856e649911027c2742aca3e8536b6b99e7e1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1623",
+   "path": "uredba/2002/1623",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Makarska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1623",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1623.html",
+     "sha256": "bf9d2cb830e6ad44fb67f4db31f555de68af103e73cf49ce9942021cf4df18ec"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1624",
+   "path": "uredba/2002/1624",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1624",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1624.html",
+     "sha256": "fa35eb6038bc207a78a1f46ab1b1df5afa796ca57ca5926b7f2e2906f613f790"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1625",
+   "path": "uredba/2002/1625",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pomer",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pomer",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1625",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1625.html",
+     "sha256": "31bd2acbd20274fa0111b327ccaa0b93ba02f291a069dd5d6a72843c3767e171"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1626",
+   "path": "uredba/2002/1626",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Anton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Anton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1626",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1626.html",
+     "sha256": "831ad3e50796c58070fcce82751333bcb77fcf759459061eda27409c3ca91b72"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1627",
+   "path": "uredba/2002/1627",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tomislavovac",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Tomislavovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1627",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1627.html",
+     "sha256": "50b427b947f1997a024905e206c8ae8677abc7fac42b241371cf86fc83f1ae0b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1628",
+   "path": "uredba/2002/1628",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/97/1628",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_97_1628.html",
+     "sha256": "ba85c3ed5eac0fd131b1c4acda3ab4335f74e74a534bdc01cc6f9e916fbc0f52"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1646",
+   "path": "uredba/2002/1646",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Oprić",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Oprić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/100/1646",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_100_1646.html",
+     "sha256": "76f3583edbe56d87d31316373c5afdd2638aec64b1a69ef36696aa6156fd3b3f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1647",
+   "path": "uredba/2002/1647",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Soline",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/100/1647",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_100_1647.html",
+     "sha256": "9e4da37f54eaa62d8e02ff46303b8e54c59ea57e139333c668e9ad30d7ada944"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1648",
+   "path": "uredba/2002/1648",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stari Grad",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stari Grad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/100/1648",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_100_1648.html",
+     "sha256": "079b0d2b76ff3079844814300dcfe46fb85f27b6291da617a41ad246a81748fb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1649",
+   "path": "uredba/2002/1649",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sutivan",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sutivan",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/100/1649",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_100_1649.html",
+     "sha256": "a69844df1c0ac229bd912a739328303e23da98a2f9dd91bababce0c0a00adfc0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1650",
+   "path": "uredba/2002/1650",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Štinjan",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Štinjan",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/100/1650",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_100_1650.html",
+     "sha256": "af28c1431888c44ba2afa7f328bed1cd020fe6f3aefbc458c0c3fe405557bdfe"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1651",
+   "path": "uredba/2002/1651",
+   "short": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2002. godinu",
+   "title": "Uredba o izmjeni Uredbe o Carinskoj tarifi za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/100/1651",
+   "versions": [
+    {
+     "from": "2002-09-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_08_100_1651.html",
+     "sha256": "090b88c16fb7737e9b5ba3cdf6327017c7760d30ce179fd5e7c485ba88591b94"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1669",
+   "path": "uredba/2002/1669",
+   "short": "Uredba o osnivanju Agencije za promicanje izvoza i ulaganja",
+   "title": "Uredba o osnivanju Agencije za promicanje izvoza i ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/102/1669",
+   "versions": [
+    {
+     "from": "2002-09-12",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_102_1669.html",
+     "sha256": "332b6cde7a471aca2d21a3072817c8e610e3eca101a3fef5aa5c3b10b179c64a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1714",
+   "path": "uredba/2002/1714",
+   "short": "Uredba o zajamčenoj cijeni lista duhana roda 2002. godine",
+   "title": "Uredba o zajamčenoj cijeni lista duhana roda 2002. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/104/1714",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_104_1714.html",
+     "sha256": "dca5e25fa5a9ee9b2e90576272d0f4b37cb9a5cf071ce54c08e9f64c5a066006"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1715",
+   "path": "uredba/2002/1715",
+   "short": "Uredba o zajamčenoj cijeni pšenice roda 2003. godine",
+   "title": "Uredba o zajamčenoj cijeni pšenice roda 2003. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/104/1715",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_104_1715.html",
+     "sha256": "edad54145d40902eafad71f115ccb8f95e32f1f3511de90d7b00e882247a38d3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1716",
+   "path": "uredba/2002/1716",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović i k.o. Sveti Anton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović i k.o. Sveti Anton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/104/1716",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_104_1716.html",
+     "sha256": "a27d42d23859582f0e682f451e82e89b355e010c35259053f977a42326fd99ed"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1717",
+   "path": "uredba/2002/1717",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/104/1717",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_104_1717.html",
+     "sha256": "82573eb1a0023eb816b35583b56aae9429ebceea3eac326e408b810454560046"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1718",
+   "path": "uredba/2002/1718",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/104/1718",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_104_1718.html",
+     "sha256": "e9ea33ad3975998fab3718bd57cd6ed0c524fbaa74a04740045f72ea912d7276"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1749",
+   "path": "uredba/2002/1749",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2002. godinu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/108/1749",
+   "versions": [
+    {
+     "from": "2002-09-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_108_1749.html",
+     "sha256": "3b691c7fc0b995ae51881655dd3f898fbd05d5e8edbb9630ab549f5aeb6bd64f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1750",
+   "path": "uredba/2002/1750",
+   "short": "Uredba o dopuni Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "title": "Uredba o dopuni Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/108/1750",
+   "versions": [
+    {
+     "from": "2002-09-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_108_1750.html",
+     "sha256": "fbacebb13fe2a9c42d6590d6246f4eda7d269d921650a2b89186c1ef624e9e56"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1754",
+   "path": "uredba/2002/1754",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/109/1754",
+   "versions": [
+    {
+     "from": "2002-09-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_109_1754.html",
+     "sha256": "2e5d75bb7c8f2152e3ebfb5e7423f625a56eb794979f5cb8b1e3819f3ce3fd46"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1755",
+   "path": "uredba/2002/1755",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pomer",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pomer",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/109/1755",
+   "versions": [
+    {
+     "from": "2002-09-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_109_1755.html",
+     "sha256": "3023a0cde015332a0b640ce549954736af4b41dd1d4e2be49e342799cd132860"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1756",
+   "path": "uredba/2002/1756",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/109/1756",
+   "versions": [
+    {
+     "from": "2002-09-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_109_1756.html",
+     "sha256": "f1118032548f4a98c858adcd49385f8ce68b12ce05a4530492aa6d5636b580c8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1757",
+   "path": "uredba/2002/1757",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trpanj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Trpanj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/109/1757",
+   "versions": [
+    {
+     "from": "2002-09-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_109_1757.html",
+     "sha256": "a93e51328347353a56f3f30a458eafdc7cb69ec8ece96fdf5887f35daff182f9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1821",
+   "path": "uredba/2002/1821",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Cres",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Cres",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/112/1821",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_112_1821.html",
+     "sha256": "d401926860cc3943e055febf27455c03d7b8cc060f0d2dff027d46a903d29058"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1822",
+   "path": "uredba/2002/1822",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/112/1822",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_112_1822.html",
+     "sha256": "3e1bbd372a52a425378de000ad2e62be50a24cb709d5cb7a88182854104bb00b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1823",
+   "path": "uredba/2002/1823",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jesenice",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jesenice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/112/1823",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_112_1823.html",
+     "sha256": "1ce6b004f2f011c9fff8d4ecc3818a7bd74e5f15df4c1af95cc891d8062977b4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1824",
+   "path": "uredba/2002/1824",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zamet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/112/1824",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_112_1824.html",
+     "sha256": "a0288d651d866e4c08ef3cc283ebd8a92b9938678235dbbe096a3bb09e513131"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1825",
+   "path": "uredba/2002/1825",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/112/1825",
+   "versions": [
+    {
+     "from": "2002-10-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_09_112_1825.html",
+     "sha256": "4405cc043745c8bfd3e0c73435f52e50478afdfc50e968b1a731414636c6eefe"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1850",
+   "path": "uredba/2002/1850",
+   "short": "UREDBA O UNUTARNJEM USTROJSTVU MINISTARSTVA OBRANE",
+   "title": "UREDBA O UNUTARNJEM USTROJSTVU MINISTARSTVA OBRANE",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/115/1850",
+   "versions": [
+    {
+     "from": "2002-10-02",
+     "units": 226,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_115_1850.html",
+     "sha256": "03c18f1e2c65c24b751fbff32953735145b76dd503487f7d7e4de4e7a68ad8f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1855",
+   "path": "uredba/2002/1855",
+   "short": "Uredba o razdoblju za koje se izdaje dozvola za obavljanje energetskih djelatnosti",
+   "title": "Uredba o razdoblju za koje se izdaje dozvola za obavljanje energetskih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/116/1855",
+   "versions": [
+    {
+     "from": "2002-10-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_116_1855.html",
+     "sha256": "e3ddc972975cb2fd2395424db4d9095927949d39182e0813e55e361063b00931"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1856",
+   "path": "uredba/2002/1856",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton - Martinska",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton - Martinska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/116/1856",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_116_1856.html",
+     "sha256": "06b9ae8acbb865cef31b46fa25ac7db940a1da82c81f678264972e0ff6d21d8f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1857",
+   "path": "uredba/2002/1857",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bogović",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/116/1857",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_116_1857.html",
+     "sha256": "af3cd86ec2fd9152ca25ee2ccc54128a18d6eff8d32889a2892eb062b2a37e98"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1858",
+   "path": "uredba/2002/1858",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Mali Lošinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/116/1858",
+   "versions": [
+    {
+     "from": "2002-10-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_116_1858.html",
+     "sha256": "904e6cf6f08d4553a683a7dcf448a5c23a9effd6cac9ca9ab9cc5536a156f35f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-189",
+   "path": "uredba/2002/189",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Hvar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/189",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_7_189.html",
+     "sha256": "cc43c5c01daf52100cff444caac9f9d5189fcae28c3bba35eeaefeaa87a47774"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-190",
+   "path": "uredba/2002/190",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Biograd",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/190",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_7_190.html",
+     "sha256": "67c20a1c8b8dbb4ae1f4eb1c5becde8de7b417fb3f289aaebfb6b2d63647a1d5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1908",
+   "path": "uredba/2002/1908",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Funtana",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Funtana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1908",
+   "versions": [
+    {
+     "from": "2002-10-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_118_1908.html",
+     "sha256": "f519e912997521c207b3c9595a8c71bb4ea3181a4afcffaed6baec3bfec2fdb9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1909",
+   "path": "uredba/2002/1909",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Juraj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sv. Juraj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1909",
+   "versions": [
+    {
+     "from": "2002-10-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_118_1909.html",
+     "sha256": "5cb43223a22ae9c4391981e5318a95072db204f88092070a9ca97df462a9a9ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-191",
+   "path": "uredba/2002/191",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/191",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_7_191.html",
+     "sha256": "37a7d0a62d0ec89978e2a5c745b5896b6a9bac83e77dae0e8a43e6592ba8944b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1910",
+   "path": "uredba/2002/1910",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Baška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1910",
+   "versions": [
+    {
+     "from": "2002-10-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_118_1910.html",
+     "sha256": "b50ebd3261eb59e5edbe15b8208440d681a68183308c08313a985649066e7164"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-192",
+   "path": "uredba/2002/192",
+   "short": "Uredba o izmjeni Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu",
+   "title": "Uredba o izmjeni Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/7/192",
+   "versions": [
+    {
+     "from": "2002-01-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_01_7_192.html",
+     "sha256": "18cba92a03ffb38d671f846852204f40fc7f8ba1c5a4d145669cba2c8a30fda2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1938",
+   "path": "uredba/2002/1938",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bakar",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bakar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1938",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_120_1938.html",
+     "sha256": "278d5957e1d445652590f5b00787d56c8444a8c0f83eb49068d1027ef54becf5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1939",
+   "path": "uredba/2002/1939",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Punat",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Punat",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1939",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_120_1939.html",
+     "sha256": "3a56fcc4df6ea58c83f2e1e157f18b9dc570cd540cc7a8e8ef2986e85304bede"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-1940",
+   "path": "uredba/2002/1940",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kraljevica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/120/1940",
+   "versions": [
+    {
+     "from": "2002-10-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_120_1940.html",
+     "sha256": "392ca94ccf2f9cd4c54b259ba47c1ace8762472829ea9c821002bce6a840149a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-2003",
+   "path": "uredba/2002/2003",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Direkciji za korištenje službenih zrakoplova",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Direkciji za korištenje službenih zrakoplova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/124/2003",
+   "versions": [
+    {
+     "from": "2002-10-31",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_124_2003.html",
+     "sha256": "ab62ade9c8b8d0cf4913ec8b595463ff862de678f44d21cd722c8bbea522edad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-2050",
+   "path": "uredba/2002/2050",
+   "short": "Uredba o osnivanju Državnog zavoda za zaštitu prirode",
+   "title": "Uredba o osnivanju Državnog zavoda za zaštitu prirode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/126/2050",
+   "versions": [
+    {
+     "from": "2002-10-30",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_126_2050.html",
+     "sha256": "aa8944bbe38d4ee50aed91fe99431cc2d23dfd7989a9a008d0fd86ea5d2cc083"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-2051",
+   "path": "uredba/2002/2051",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Uredu Vlade Republike Hrvatske za unutarnji nadzor",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Uredu Vlade Republike Hrvatske za unutarnji nadzor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/126/2051",
+   "versions": [
+    {
+     "from": "2002-11-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_126_2051.html",
+     "sha256": "781149c75410349bb7fe475542825b5d5b4a1a4b0379bb789320b0985241bb7c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2002-2052",
+   "path": "uredba/2002/2052",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/126/2052",
+   "versions": [
+    {
+     "from": "2002-11-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_10_126_2052.html",
+     "sha256": "d5b86bf1d7963b50ee16926db7280b61c20d6dc978efbbe5c99003a7a91dd421"
     }
    ]
   },
