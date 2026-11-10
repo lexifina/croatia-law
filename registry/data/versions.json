@@ -7712,6 +7712,4506 @@
    ]
   },
   {
+   "slug": "pravilnik-2011-1800",
+   "path": "pravilnik/2011/1800",
+   "short": "Pravilnik o načinu izvršavanja odgojne mjere upućivanja u odgojni zavod",
+   "title": "Pravilnik o načinu izvršavanja odgojne mjere upućivanja u odgojni zavod",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1800",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 96,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1800.html",
+     "sha256": "ef2d741e525e7151cf68a79da3f8b56b154569ae9faf4d1e60257c51d6fd03a1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1801",
+   "path": "pravilnik/2011/1801",
+   "short": "Pravilnik o sadržaju, obliku i načinu podnošenja izvješća o obavljanju poslova veterinarske djelatnosti te o načinu vođenja i sadržaju službene evidencije i izvješća u klaonici",
+   "title": "Pravilnik o sadržaju, obliku i načinu podnošenja izvješća o obavljanju poslova veterinarske djelatnosti te o načinu vođenja i sadržaju službene evidencije i izvješća u klaonici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1801",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1801.html",
+     "sha256": "af4fe0f6f95c2e767c1ff6b068316a649b9ee9e8ee5517253296397a6546aa55"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-181",
+   "path": "pravilnik/2011/181",
+   "short": "Pravilnik o nagradama i naknadi troškova javnih bilježnika u ovršnom postupku",
+   "title": "Pravilnik o nagradama i naknadi troškova javnih bilježnika u ovršnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/181",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_8_181.html",
+     "sha256": "52532b5b8af0bec327c7faa2b80629e0148dbcb9fdd4c727e22952c5b6fa55cb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1813",
+   "path": "pravilnik/2011/1813",
+   "short": "Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i podržavanja dozvole i ovlaštenja zrakoplovnom osoblju za pripremu, otpremu i praćenje leta",
+   "title": "Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i podržavanja dozvole i ovlaštenja zrakoplovnom osoblju za pripremu, otpremu i praćenje leta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1813",
+   "versions": [
+    {
+     "from": "2011-08-02",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1813.html",
+     "sha256": "67ef9449ddd10dbc74faffd71263efca3a10cf0b36df1254f21944f486697c87"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1815",
+   "path": "pravilnik/2011/1815",
+   "short": "Pravilnik o dodacima hrani za životinje",
+   "title": "Pravilnik o dodacima hrani za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1815",
+   "versions": [
+    {
+     "from": "2011-08-02",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1815.html",
+     "sha256": "9246e3be9f11af1acd355f17aeb46a2f580a5d6079905a4eb31562ffaff4aaa8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1818",
+   "path": "pravilnik/2011/1818",
+   "short": "Pravilnik o posebnim uvjetima za uvoz guar gume podrijetlom ili isporučene iz Indije zbog rizika od kontaminiranosti pentaklorfenolom i dioksinima",
+   "title": "Pravilnik o posebnim uvjetima za uvoz guar gume podrijetlom ili isporučene iz Indije zbog rizika od kontaminiranosti pentaklorfenolom i dioksinima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1818",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1818.html",
+     "sha256": "9608d362b36faf9b198b8674b9f6aa24adf382ad75d48a7943d7aa7ad0092caa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1819",
+   "path": "pravilnik/2011/1819",
+   "short": "Pravilnik o posebnim uvjetima za uvoz suncokretovog ulja podrijetlom ili isporučenog iz Ukrajine zbog rizika o kontaminiranosti mineralnim uljem",
+   "title": "Pravilnik o posebnim uvjetima za uvoz suncokretovog ulja podrijetlom ili isporučenog iz Ukrajine zbog rizika o kontaminiranosti mineralnim uljem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1819",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1819.html",
+     "sha256": "e101d55b32016b3ccc0ba0d8ea163daee49954cc1b1abed011eaf81ec77f19ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-182",
+   "path": "pravilnik/2011/182",
+   "short": "Pravilnik o dopuni Pravilnika o uvjetima i načinu izdavanja rješenja o sigurnosti za obavljanje usluga željezničkog prijevoza",
+   "title": "Pravilnik o dopuni Pravilnika o uvjetima i načinu izdavanja rješenja o sigurnosti za obavljanje usluga željezničkog prijevoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/182",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_8_182.html",
+     "sha256": "2857751441c36833976af0da42af6c7be8c755339b7655182050dde4bfd14126"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1820",
+   "path": "pravilnik/2011/1820",
+   "short": "Pravilnik o posebnim uvjetima za uvoz određene hrane i hrane za životinje podrijetlom ili isporučene iz Kine",
+   "title": "Pravilnik o posebnim uvjetima za uvoz određene hrane i hrane za životinje podrijetlom ili isporučene iz Kine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1820",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1820.html",
+     "sha256": "9076a441cda9a7307d3b9e75e2e63b218a2fcd84ad0ca97a56775df4147184bb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1821",
+   "path": "pravilnik/2011/1821",
+   "short": "Pravilnik o izmjenama Pravilnika o posebnim uvjetima za uvoz hrane i hrane za životinje podrijetlom ili isporučene iz Japana nakon incidenta u nuklearnoj elektrani Fukushima",
+   "title": "Pravilnik o izmjenama Pravilnika o posebnim uvjetima za uvoz hrane i hrane za životinje podrijetlom ili isporučene iz Japana nakon incidenta u nuklearnoj elektrani Fukushima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1821",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1821.html",
+     "sha256": "24868b6bf8486115e5163e76e4665712f760ce3a5ddf4f59943f242c22ef0226"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1822",
+   "path": "pravilnik/2011/1822",
+   "short": "Pravilnik o dopunama Pravilnika o jakim alkoholnim pićima",
+   "title": "Pravilnik o dopunama Pravilnika o jakim alkoholnim pićima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/86/1822",
+   "versions": [
+    {
+     "from": "2011-07-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_86_1822.html",
+     "sha256": "7a7c990017bb0078a889a3797e135409e928478bb7dee808d2ffc1f165fd2377"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-183",
+   "path": "pravilnik/2011/183",
+   "short": "Pravilnik o izmjeni Pravilnika o plovidbi na unutarnjim vodama",
+   "title": "Pravilnik o izmjeni Pravilnika o plovidbi na unutarnjim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/183",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_8_183.html",
+     "sha256": "2ba38c5930dc320de84e795429f03f5956f7ef0d3ad21956a5aad200157ff6f6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-184",
+   "path": "pravilnik/2011/184",
+   "short": "Pravilnik o izmjeni Pravilnika o riječnim informacijskim servisima u unutarnjoj plovidbi",
+   "title": "Pravilnik o izmjeni Pravilnika o riječnim informacijskim servisima u unutarnjoj plovidbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/184",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_8_184.html",
+     "sha256": "adb2878c564eab4f8a7a22b0facc81059d0111936ce608c80cef4c008a253d15"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1850",
+   "path": "pravilnik/2011/1850",
+   "short": "Pravilnik o registru željezničkih vozila",
+   "title": "Pravilnik o registru željezničkih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/87/1850",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_87_1850.html",
+     "sha256": "62093236469920caf8c889fc8c3e80f3f89751307b6cf2af0c7377d39ffc8ce3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1852",
+   "path": "pravilnik/2011/1852",
+   "short": "Pravilnik o izmjenama Pravilnika o namjeni radiofrekcencijskog spektra",
+   "title": "Pravilnik o izmjenama Pravilnika o namjeni radiofrekcencijskog spektra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/87/1852",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_87_1852.html",
+     "sha256": "b650fdac827a1115d8332db7b9bb9e19aa93b3c54f7e9e2f05364050f86cb8a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1857",
+   "path": "pravilnik/2011/1857",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/87/1857",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_87_1857.html",
+     "sha256": "54a6c34adbf54c6c64dba081ff6423c6306627fb074ad58defd891c225481123"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-188",
+   "path": "pravilnik/2011/188",
+   "short": "Pravilnik o dokumentaciji koja se prilaže zahtjevu za autorizaciju",
+   "title": "Pravilnik o dokumentaciji koja se prilaže zahtjevu za autorizaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/188",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_8_188.html",
+     "sha256": "01d2a356cf3ec46f05b349165cb45c5f11c3d487ce2cd97363d910e6123a23f2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1880",
+   "path": "pravilnik/2011/1880",
+   "short": "Pravilnik o provjeri tehničkih rješenja iz zaštite od požara predviđenih u glavnom projektu",
+   "title": "Pravilnik o provjeri tehničkih rješenja iz zaštite od požara predviđenih u glavnom projektu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/88/1880",
+   "versions": [
+    {
+     "from": "2011-08-04",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_88_1880.html",
+     "sha256": "b6f9431924c50275c9da08018db7b7eca7f7c3d5d1af88b96de7384db29f74aa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1883",
+   "path": "pravilnik/2011/1883",
+   "short": "Pravilnik o zahvatima u prostoru u postupcima donošenja procjene utjecaja zahvata na okoliš i utvrđivanja objedinjenih uvjeta zaštite okoliša u kojima Ministarstvo unutarnjih poslova odnosno nadležna policijska uprava ne sudjeluje u dijelu koji se odnosi na zaštitu od požara",
+   "title": "Pravilnik o zahvatima u prostoru u postupcima donošenja procjene utjecaja zahvata na okoliš i utvrđivanja objedinjenih uvjeta zaštite okoliša u kojima Ministarstvo unutarnjih poslova odnosno nadležna policijska uprava ne sudjeluje u dijelu koji se odnosi na zaštitu od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/88/1883",
+   "versions": [
+    {
+     "from": "2011-08-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_88_1883.html",
+     "sha256": "4d9461356b42e9857698e070b9011dfc2cdc87085597bd8d518c1f78df1499e6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1884",
+   "path": "pravilnik/2011/1884",
+   "short": "Pravilnik o izmjenama Pravilnika o izobrazbi i stručnom ispitu djelatnika u humanitarnom razminiranju",
+   "title": "Pravilnik o izmjenama Pravilnika o izobrazbi i stručnom ispitu djelatnika u humanitarnom razminiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/88/1884",
+   "versions": [
+    {
+     "from": "2011-08-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_88_1884.html",
+     "sha256": "807e313de3b9640c5de8402229854d10eabf880abf251e7da69eddf5140860c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1885",
+   "path": "pravilnik/2011/1885",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obrascima i zbirkama podataka u postupku azila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obrascima i zbirkama podataka u postupku azila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/88/1885",
+   "versions": [
+    {
+     "from": "2011-08-04",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_88_1885.html",
+     "sha256": "f8debc775312ab0994f83d052b0e9951095881c83ea18359a8fc74723bc8f67b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-189",
+   "path": "pravilnik/2011/189",
+   "short": "Pravilnik o uvjetima kojima članovi uprave i nadzornog odbora mirovinskog društva moraju udovoljavati, sadržaju zahtjeva i dokumentaciji koja se prilaže uz zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave i nadzornog odbora mirovinskog društva",
+   "title": "Pravilnik o uvjetima kojima članovi uprave i nadzornog odbora mirovinskog društva moraju udovoljavati, sadržaju zahtjeva i dokumentaciji koja se prilaže uz zahtjev za izdavanje suglasnosti za obavljanje funkcije člana uprave i nadzornog odbora mirovinskog društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/189",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_8_189.html",
+     "sha256": "a3c677d9b2865809f3767fe2820754f5439de90b18b1d4f37bb03402a1be48a7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1896",
+   "path": "pravilnik/2011/1896",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o porezu na dodanu vrijednost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1896",
+   "versions": [
+    {
+     "from": "2011-08-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1896.html",
+     "sha256": "1a316645e3b04cacfef327492d26938431466ea33bba19e1dc09a7db513e4b34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1897",
+   "path": "pravilnik/2011/1897",
+   "short": "Pravilnik o prestanku važenja Pravilnika o ograničenjima jakosti elektromagnetskih polja za radijsku opremu i telekomunikacijsku terminalnu opremu",
+   "title": "Pravilnik o prestanku važenja Pravilnika o ograničenjima jakosti elektromagnetskih polja za radijsku opremu i telekomunikacijsku terminalnu opremu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1897",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1897.html",
+     "sha256": "1b15e5060e820ff02531633f031129a36a43e8b179f0f32f17906f45f20afa24"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1898",
+   "path": "pravilnik/2011/1898",
+   "short": "Pravilnik o izmjenama Pravilnika o uspostavljanju programa mjerenja učinkovitosti usluga u zračnoj plovidbi i mrežnih funkcija",
+   "title": "Pravilnik o izmjenama Pravilnika o uspostavljanju programa mjerenja učinkovitosti usluga u zračnoj plovidbi i mrežnih funkcija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1898",
+   "versions": [
+    {
+     "from": "2011-08-06",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1898.html",
+     "sha256": "d2b031cc4dfa8829181cbac52d240f9a05b2797b043c9430e87bdc16a01d0b68"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-19",
+   "path": "pravilnik/2011/19",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja na zdravstvenu njegu u kući osigurane osobe",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja na zdravstvenu njegu u kući osigurane osobe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/1/19",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_1_19.html",
+     "sha256": "6065b6b6a83c62d2c80080b797102f390a731057f2e1313fbff13f18b01f1143"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1900",
+   "path": "pravilnik/2011/1900",
+   "short": "Pravilnik o dobrim poljoprivrednim i okolišnim uvjetima",
+   "title": "Pravilnik o dobrim poljoprivrednim i okolišnim uvjetima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1900",
+   "versions": [
+    {
+     "from": "2011-08-06",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1900.html",
+     "sha256": "2b8b79399f4b5fafc2390cf4446fa4fb0e8f5003abea4161563da09e2f62844b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1901",
+   "path": "pravilnik/2011/1901",
+   "short": "Pravilnik o posebnim kriterijima za provedbu seroloških testova za praćenje učinkovitosti cjepiva protiv bjesnoće",
+   "title": "Pravilnik o posebnim kriterijima za provedbu seroloških testova za praćenje učinkovitosti cjepiva protiv bjesnoće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1901",
+   "versions": [
+    {
+     "from": "2011-08-06",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1901.html",
+     "sha256": "541c572a5f7822f506e9a4cfdbbb7376d7745e589105f8ff6396368d4cfb56a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1902",
+   "path": "pravilnik/2011/1902",
+   "short": "Pravilnik o mjerama za suzbijanje i iskorjenjivanje leptospiroze životinja",
+   "title": "Pravilnik o mjerama za suzbijanje i iskorjenjivanje leptospiroze životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1902",
+   "versions": [
+    {
+     "from": "2011-08-06",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1902.html",
+     "sha256": "3efbf4d6db0baf1e0f547fc2e7619b183aef59e1c6787128d19bd9f4129766f3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1903",
+   "path": "pravilnik/2011/1903",
+   "short": "Pravilnik o provedbi Pravilnika o posebnim kriterijima za provedbu seroloških testova za praćenje učinkovitosti cjepiva protiv bjesnoće",
+   "title": "Pravilnik o provedbi Pravilnika o posebnim kriterijima za provedbu seroloških testova za praćenje učinkovitosti cjepiva protiv bjesnoće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1903",
+   "versions": [
+    {
+     "from": "2011-08-06",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1903.html",
+     "sha256": "da180e7610b0d368986b4ba1c2a5d618dbd9372ac7bd0f822cf1c1039b42680f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1904",
+   "path": "pravilnik/2011/1904",
+   "short": "Pravilnik o soli",
+   "title": "Pravilnik o soli",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1904",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1904.html",
+     "sha256": "8fb186f4d7dc89026656fb9ee878a7804c881b67747752b7584f7f06e4505174"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1906",
+   "path": "pravilnik/2011/1906",
+   "short": "Pravilnik o uvjetima i načinu priznavanja prava na opskrbninu",
+   "title": "Pravilnik o uvjetima i načinu priznavanja prava na opskrbninu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1906",
+   "versions": [
+    {
+     "from": "2011-07-29",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1906.html",
+     "sha256": "8d2cc80f33d582575630f4a2daf81ba10a01b5283fc7b32769ff34c641f8af76"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1907",
+   "path": "pravilnik/2011/1907",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/89/1907",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_89_1907.html",
+     "sha256": "78c37b42d30d56ea72fc13856763efb70864155011dedf4765d4ce237c8dbe5c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1944",
+   "path": "pravilnik/2011/1944",
+   "short": "Pravilnik o nagradi za rad i naknadi troškova javnog ovršitelja",
+   "title": "Pravilnik o nagradi za rad i naknadi troškova javnog ovršitelja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/91/1944",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_91_1944.html",
+     "sha256": "c3e3ece3de109cf04e38bc3dd97c352f33ed92eefce6b56ebd6c048c35f67f3b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1947",
+   "path": "pravilnik/2011/1947",
+   "short": "Pravilnik o sufinanciranju projekata odobrenih u okviru programa za kulturu Europske unije Kultura 2007. - 2013.",
+   "title": "Pravilnik o sufinanciranju projekata odobrenih u okviru programa za kulturu Europske unije Kultura 2007. - 2013.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/91/1947",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_91_1947.html",
+     "sha256": "d5723d4e24b4bf9959d249785d09cbf57fc9ba4efb98dc700e8a1da33a660171"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1948",
+   "path": "pravilnik/2011/1948",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu označavanja imena naselja, ulica i trgova te o obilježavanju zgrada brojevima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu označavanja imena naselja, ulica i trgova te o obilježavanju zgrada brojevima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/91/1948",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_91_1948.html",
+     "sha256": "fdc64c6d6e9e410fdba8ed4849b76c88b66c00b05f0e451c3c0324891b0e1c14"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1964",
+   "path": "pravilnik/2011/1964",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o promidžbenim aktivnostima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o promidžbenim aktivnostima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/92/1964",
+   "versions": [
+    {
+     "from": "2011-08-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_92_1964.html",
+     "sha256": "378bc20c15d215eb9e7ebec6be9f31073a61e2bcd613a2e6733ec7ebe2278d17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1974",
+   "path": "pravilnik/2011/1974",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja evidencija i izdavanja potvrda o primitku dobrovoljnih priloga (donacija) i članarina, izvješćima o primljenim donacijama za financiranje izborne promidžbe i izvješćima o troškovima (rashodima) izborne promidžbe te financijskim izvještajima za financiranje izborne promidžbe",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu vođenja evidencija i izdavanja potvrda o primitku dobrovoljnih priloga (donacija) i članarina, izvješćima o primljenim donacijama za financiranje izborne promidžbe i izvješćima o troškovima (rashodima) izborne promidžbe te financijskim izvještajima za financiranje izborne promidžbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/93/1974",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_93_1974.html",
+     "sha256": "4a0655816ef4dfd2508d83a43221cffb299db6c6c84855d36894e0ebf9228dd2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-1976",
+   "path": "pravilnik/2011/1976",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/93/1976",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_93_1976.html",
+     "sha256": "16f0b6d20e25113a7c1bc40d585fbc0970c537e40a6eb58ded958111ca6a44fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-20",
+   "path": "pravilnik/2011/20",
+   "short": "Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/1/20",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_1_20.html",
+     "sha256": "5970cb8ed9efc77c8f984d003160119af6a790055412313271d4a8fcab5230d7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2002",
+   "path": "pravilnik/2011/2002",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje i društava za reosiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/94/2002",
+   "versions": [
+    {
+     "from": "2011-08-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_94_2002.html",
+     "sha256": "a20ccfc6c59bea61cd7f9d6a876f65502f26e2acae175fbcb31e2ac6f38e5584"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2003",
+   "path": "pravilnik/2011/2003",
+   "short": "Pravilnik o prirodnim mineralnim i prirodnim izvorskim vodama",
+   "title": "Pravilnik o prirodnim mineralnim i prirodnim izvorskim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/95/2003",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 47,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_95_2003.html",
+     "sha256": "4d3acaad2ba0199c29fb0bd636010d3e90520c4ed0a235b97c4bb75de46ef943"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2005",
+   "path": "pravilnik/2011/2005",
+   "short": "Pravilnik o izmjenama Pravilnika o načinu isplate novčanih primanja i drugih troškova",
+   "title": "Pravilnik o izmjenama Pravilnika o načinu isplate novčanih primanja i drugih troškova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/95/2005",
+   "versions": [
+    {
+     "from": "2011-08-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_95_2005.html",
+     "sha256": "1daf7734884badfb3dd39ea5dc91321adc9fea34352083aa742d8b5312bb1bcc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2017",
+   "path": "pravilnik/2011/2017",
+   "short": "Pravilnik o hitnim mjerama koje se primjenjuju na sjeme piskavice i određeno sjeme i mahunarke uvezene iz Egipta",
+   "title": "Pravilnik o hitnim mjerama koje se primjenjuju na sjeme piskavice i određeno sjeme i mahunarke uvezene iz Egipta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/97/2017",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_97_2017.html",
+     "sha256": "f5ced8698d11cddc50a145dc45eb1de56f5f9a00d06ad5f1d9707a4d9a553989"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2018",
+   "path": "pravilnik/2011/2018",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjera strukturne politike u ribarstvu kroz potporu razvoju akvakulture u 2011. godini",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjera strukturne politike u ribarstvu kroz potporu razvoju akvakulture u 2011. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/97/2018",
+   "versions": [
+    {
+     "from": "2011-08-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_97_2018.html",
+     "sha256": "c476437490eb6ca8aa97a0e8ea2091f40f86dc37c7e3ec6b33dea4925fff3390"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-203",
+   "path": "pravilnik/2011/203",
+   "short": "Pravilnik o prestanku važenja Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima, standardu elaborata i obveznih priloga prostornih planova",
+   "title": "Pravilnik o prestanku važenja Pravilnika o sadržaju, mjerilima kartografskih prikaza, obveznim prostornim pokazateljima, standardu elaborata i obveznih priloga prostornih planova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/9/203",
+   "versions": [
+    {
+     "from": "2011-01-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_9_203.html",
+     "sha256": "e92089ad4f558a8a0098db5bcd7f594ef8069746239dea5ddee33aa23df57f1d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2033",
+   "path": "pravilnik/2011/2033",
+   "short": "Pravilnik o postupku i ovlastima u postupku ostvarivanja prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga",
+   "title": "Pravilnik o postupku i ovlastima u postupku ostvarivanja prava na zdravstvenu zaštitu i prava na zdravstveno osiguranje pripadnika Oružanih snaga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/98/2033",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_98_2033.html",
+     "sha256": "0765434e237d8e2c5f9325bf323131756e844ebb211bc2d891f55e2626316ae5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2035",
+   "path": "pravilnik/2011/2035",
+   "short": "Pravilnik o odobrenim nacionalnim mjerama određenih država članica Europske unije za ograničavanje učinka određenih bolesti životinja akvakulture i slobodnoživućih akvatičnih životinja",
+   "title": "Pravilnik o odobrenim nacionalnim mjerama određenih država članica Europske unije za ograničavanje učinka određenih bolesti životinja akvakulture i slobodnoživućih akvatičnih životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/98/2035",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_98_2035.html",
+     "sha256": "2d4ec32790874b0af36f0154bc8164212999a658406d5bb5b086f7e617fbaaaf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2037",
+   "path": "pravilnik/2011/2037",
+   "short": "Pravilnik o izmjeni Pravilnika o utvrđivanju naknada za prenesena i ograničena prava na šumi i šumskom zemljištu",
+   "title": "Pravilnik o izmjeni Pravilnika o utvrđivanju naknada za prenesena i ograničena prava na šumi i šumskom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/98/2037",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_98_2037.html",
+     "sha256": "155fd9f06c5f1ecedef7c9dd37806f79283500d5e00743314919d750bc5cc238"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2041",
+   "path": "pravilnik/2011/2041",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku provedbe ovrhe na novčanim sredstvima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i postupku provedbe ovrhe na novčanim sredstvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/99/2041",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_99_2041.html",
+     "sha256": "25f0d3079a18287d5da16613a8bed59d2b2a22d3b9eb8cf0515327603115a7d5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2043",
+   "path": "pravilnik/2011/2043",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o Jedinstvenom registru računa",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o Jedinstvenom registru računa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/99/2043",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_99_2043.html",
+     "sha256": "c2b859c2d2c3d5e9f04e4990092dd3740bb4a9cabf8dde408401e0db755ae207"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2044",
+   "path": "pravilnik/2011/2044",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati pravne i fizičke osobe ovlaštene za održavanje željezničkih vozila",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati pravne i fizičke osobe ovlaštene za održavanje željezničkih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/99/2044",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_99_2044.html",
+     "sha256": "516c9124512c5a3999dc4cf13040bc63a38f4b608cb533a5a0467b41fc05d398"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2046",
+   "path": "pravilnik/2011/2046",
+   "short": "Pravilnik o izmjeni Pravilnika o interoperabilnosti u mreži upravljanja europskim zračnim prometom",
+   "title": "Pravilnik o izmjeni Pravilnika o interoperabilnosti u mreži upravljanja europskim zračnim prometom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/99/2046",
+   "versions": [
+    {
+     "from": "2011-09-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_99_2046.html",
+     "sha256": "5c2dbc099be957ed62485787b8835af7b48d2a4c53b10504a80ef3596010bf42"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2053",
+   "path": "pravilnik/2011/2053",
+   "short": "Pravilnik o naknadama za dežurstva sudaca, državnih odvjetnika, zamjenika državnih odvjetnika, službenika i namještenika",
+   "title": "Pravilnik o naknadama za dežurstva sudaca, državnih odvjetnika, zamjenika državnih odvjetnika, službenika i namještenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/100/2053",
+   "versions": [
+    {
+     "from": "2011-09-13",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_100_2053.html",
+     "sha256": "bd850ea6ca7609df0bd8bf0b37ef2caec88786068f9f29dce9a8175f7519b7e6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2055",
+   "path": "pravilnik/2011/2055",
+   "short": "Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz potporu razvoju prerade proizvoda ribarstva u 2011. godini",
+   "title": "Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz potporu razvoju prerade proizvoda ribarstva u 2011. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/100/2055",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_100_2055.html",
+     "sha256": "84b9e4690330154da322d3151642bde545ffc1ffda44b125ffe59174270aadd5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-207",
+   "path": "pravilnik/2011/207",
+   "short": "Pravilnik o izmjeni Pravilnika o ambalaži i ambalažnom otpadu",
+   "title": "Pravilnik o izmjeni Pravilnika o ambalaži i ambalažnom otpadu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/10/207",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_10_207.html",
+     "sha256": "1348290c2bf421f3140a61c5b9c5ebaedb604c5b450b6ef37647df674ab28ac2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2071",
+   "path": "pravilnik/2011/2071",
+   "short": "Pravilnik o iskazivanju potrošnje energije i ostalih resursa proizvoda povezanih s energijom, pomoću oznaka i standardiziranih informacija o proizvodu",
+   "title": "Pravilnik o iskazivanju potrošnje energije i ostalih resursa proizvoda povezanih s energijom, pomoću oznaka i standardiziranih informacija o proizvodu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/101/2071",
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_101_2071.html",
+     "sha256": "f34e3b34bba95da9251958a02908989f248ef100fd3d4824716cc656b66b921d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2078",
+   "path": "pravilnik/2011/2078",
+   "short": "PRAVILNIK O DOPUNI PRAVILNIKA O POSTUPKU VETERINARSKOG PREGLEDA NA GRANIČNIM VETERINARSKIM POSTAJAMA PROIZVODA KOJI SE UVOZE IZ TREĆIH ZEMALJA",
+   "title": "PRAVILNIK O DOPUNI PRAVILNIKA O POSTUPKU VETERINARSKOG PREGLEDA NA GRANIČNIM VETERINARSKIM POSTAJAMA PROIZVODA KOJI SE UVOZE IZ TREĆIH ZEMALJA",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/101/2078",
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_101_2078.html",
+     "sha256": "067ef4e052a166dfe1e1743bdedc1ce8e486ab3fe2256816fd4adbf2264836fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2079",
+   "path": "pravilnik/2011/2079",
+   "short": "Pravilnik o izmjeni Pravilnika o provođenju obveznog označavanja i registracije goveda",
+   "title": "Pravilnik o izmjeni Pravilnika o provođenju obveznog označavanja i registracije goveda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/101/2079",
+   "versions": [
+    {
+     "from": "2011-09-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_101_2079.html",
+     "sha256": "12067862430a5692312c3a2a898db9b36a1658b5001d1fb4ae7e91e78086abb2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2087",
+   "path": "pravilnik/2011/2087",
+   "short": "Pravilnik o provedbi Mjere 302 \"Diversifikacija i razvoj ruralnih gospodarskih aktivnosti\" unutar IPARD programa",
+   "title": "Pravilnik o provedbi Mjere 302 \"Diversifikacija i razvoj ruralnih gospodarskih aktivnosti\" unutar IPARD programa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/102/2087",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_102_2087.html",
+     "sha256": "70913e67c10eb5dc7076953dabce1d1a67cd65dcb6dd9d00eb0d56fef3cb351d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2104",
+   "path": "pravilnik/2011/2104",
+   "short": "Pravilnik o likvidnosti investicijskih društava",
+   "title": "Pravilnik o likvidnosti investicijskih društava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/102/2104",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_102_2104.html",
+     "sha256": "6cc0469b29a4856c0d5375bcc3755dbd5b2f95c7ae8169ff89e96efff0e3fe03"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2108",
+   "path": "pravilnik/2011/2108",
+   "short": "Pravilnik o izmjenama Pravilnika o potpori za kapitalna ulaganja u poljoprivredi",
+   "title": "Pravilnik o izmjenama Pravilnika o potpori za kapitalna ulaganja u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/103/2108",
+   "versions": [
+    {
+     "from": "2011-09-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_103_2108.html",
+     "sha256": "a2c8a6c77e2ff1e94c7ef218c731cf50055ddcd444edc625090b6f87fa1ac816"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2109",
+   "path": "pravilnik/2011/2109",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprječavanje unošenja i širenja crvene palmine pipe - Rhynchophorus ferrungineus (Oliver)",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprječavanje unošenja i širenja crvene palmine pipe - Rhynchophorus ferrungineus (Oliver)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/103/2109",
+   "versions": [
+    {
+     "from": "2011-09-20",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_103_2109.html",
+     "sha256": "f40fd28f996c7efc7faac3605904cf89810205f7ccb6851112892b4e15a15c82"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2114",
+   "path": "pravilnik/2011/2114",
+   "short": "Pravilnik o dopunama Pravilnika o jakim alkoholnim pićima",
+   "title": "Pravilnik o dopunama Pravilnika o jakim alkoholnim pićima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/104/2114",
+   "versions": [
+    {
+     "from": "2011-09-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_104_2114.html",
+     "sha256": "a2d0b0c971f158b69e5b210ae9efbec08d4645c6ad64226df68ae8eeb3a69966"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2120",
+   "path": "pravilnik/2011/2120",
+   "short": "Pravilnik o sadržaju obvezne evidencije i izvješća, načina prikupljanja, obrade i pohrane statističkih podataka iz područja primjene Zakona o zaštiti od nasilja u obitelji",
+   "title": "Pravilnik o sadržaju obvezne evidencije i izvješća, načina prikupljanja, obrade i pohrane statističkih podataka iz područja primjene Zakona o zaštiti od nasilja u obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/105/2120",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_105_2120.html",
+     "sha256": "4fd3fc7b2466d16d188a191527d6969619c60c8afc32a0922c71a6264dfec668"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2127",
+   "path": "pravilnik/2011/2127",
+   "short": "Pravilnik o obliku, sadržaju i načinu vođenja Registra vijeća, koordinacija vijeća i predstavnika nacionalnih manjina te obrascima za upis i izdavanje isprava",
+   "title": "Pravilnik o obliku, sadržaju i načinu vođenja Registra vijeća, koordinacija vijeća i predstavnika nacionalnih manjina te obrascima za upis i izdavanje isprava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/106/2127",
+   "versions": [
+    {
+     "from": "2011-09-24",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_106_2127.html",
+     "sha256": "c81f9bf06ab5dbe0bd530df3fe63e463d99f90542f68b685ab8e450b3139c62a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2128",
+   "path": "pravilnik/2011/2128",
+   "short": "Pravilnik o izmjenama Pravilnika o popisu pošiljaka koje podliježe veterinarskom pregledu u prometu preko granice Republike Hrvatske",
+   "title": "Pravilnik o izmjenama Pravilnika o popisu pošiljaka koje podliježe veterinarskom pregledu u prometu preko granice Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/106/2128",
+   "versions": [
+    {
+     "from": "2011-09-24",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_106_2128.html",
+     "sha256": "a40a28a97cb18699ed13a4c17bca15cad3f1a2faf1ae0af3ae363372bce9f2f3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2155",
+   "path": "pravilnik/2011/2155",
+   "short": "Pravilnik o izmjenama Pravilnika o homologaciji tipa traktora za poljoprivredu i šumarstvo (izdanje 01)",
+   "title": "Pravilnik o izmjenama Pravilnika o homologaciji tipa traktora za poljoprivredu i šumarstvo (izdanje 01)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/109/2155",
+   "versions": [
+    {
+     "from": "2011-10-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_109_2155.html",
+     "sha256": "c57cb637827a24021899ef5dc6580328edca7c1e9a3225d2695a4f9a00fd7ccd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-216",
+   "path": "pravilnik/2011/216",
+   "short": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka i metodama obavljanja kemijskih i fizikalnih analiza kakao-zrna, kakao-proizvoda, proizvoda sličnih čokoladi, bombonskih proizvoda, krem- proizvoda, keksa i proizvoda srodnih keksu",
+   "title": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka i metodama obavljanja kemijskih i fizikalnih analiza kakao-zrna, kakao-proizvoda, proizvoda sličnih čokoladi, bombonskih proizvoda, krem- proizvoda, keksa i proizvoda srodnih keksu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/11/216",
+   "versions": [
+    {
+     "from": "2011-02-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_11_216.html",
+     "sha256": "abb1a32a1e291e09b44fcff586ab2af472d229de8e95fb0856922617bbb4bf9e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2165",
+   "path": "pravilnik/2011/2165",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku uzbunjivanja stanovništva",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku uzbunjivanja stanovništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/110/2165",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_110_2165.html",
+     "sha256": "b1490d5eaedc236ec6f128c78a661284cce85af6442530291689f2ef233e5675"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-217",
+   "path": "pravilnik/2011/217",
+   "short": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka te obavljanja kemijskih i fizikalnih analiza radi kontrole kvalitete proizvoda od voća i povrća",
+   "title": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka te obavljanja kemijskih i fizikalnih analiza radi kontrole kvalitete proizvoda od voća i povrća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/11/217",
+   "versions": [
+    {
+     "from": "2011-02-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_11_217.html",
+     "sha256": "000d4ea69270603e4cc046cb0383f14b0a5f5dfb610c2c7c11c29f4615dea504"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2174",
+   "path": "pravilnik/2011/2174",
+   "short": "Pravilnik o dopuni Pravilnika o gospodarenju otpadnim gumama",
+   "title": "Pravilnik o dopuni Pravilnika o gospodarenju otpadnim gumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/111/2174",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_111_2174.html",
+     "sha256": "c526cdcaf7d7f3d72b62a62670cc8ad3e1444895afff2a0fd4aec4cb65ce1cad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2175",
+   "path": "pravilnik/2011/2175",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o načinima i uvjetima odlaganja otpada, kategorijama i uvjetima rada za odlagališta otpada",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o načinima i uvjetima odlaganja otpada, kategorijama i uvjetima rada za odlagališta otpada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/111/2175",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_111_2175.html",
+     "sha256": "2cf86e5ed27439ba9ea5ae12b1019edc795be0712deb82ca3b82f159610747f4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2177",
+   "path": "pravilnik/2011/2177",
+   "short": "Pravilnik o dopuni Pravilnika o pristupu stručnom usavršavanju",
+   "title": "Pravilnik o dopuni Pravilnika o pristupu stručnom usavršavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/112/2177",
+   "versions": [
+    {
+     "from": "2011-10-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_112_2177.html",
+     "sha256": "a72a9f604e98583f974c1a802510b630549f6b9890211310f146ad16b965abca"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2178",
+   "path": "pravilnik/2011/2178",
+   "short": "Pravilnik o izmjeni Pravilnika o dozvolama za obavljanje linijskog prijevoza putnika",
+   "title": "Pravilnik o izmjeni Pravilnika o dozvolama za obavljanje linijskog prijevoza putnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/112/2178",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_112_2178.html",
+     "sha256": "b5aa0f75fa2396c2c3c595c6d0cf4f1a9579c06d56d4a1772b041df18df7098c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2180",
+   "path": "pravilnik/2011/2180",
+   "short": "Pravilnik o hrani obogaćenoj nutrijentima (dodavanje vitamina, minerala i drugih tvari hrani)",
+   "title": "Pravilnik o hrani obogaćenoj nutrijentima (dodavanje vitamina, minerala i drugih tvari hrani)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/112/2180",
+   "versions": [
+    {
+     "from": "2011-10-08",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_112_2180.html",
+     "sha256": "5ad116329e6a08ddc5b6ec4931a067841360cb3f3dd3780dda89ca3fd74b786a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2183",
+   "path": "pravilnik/2011/2183",
+   "short": "Pravilnik o dopuni Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u muzejskoj struci",
+   "title": "Pravilnik o dopuni Pravilnika o uvjetima i načinu stjecanja stručnih zvanja u muzejskoj struci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/112/2183",
+   "versions": [
+    {
+     "from": "2011-10-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_112_2183.html",
+     "sha256": "b38d3a68f1244db018f5c7b08adfc01956d97ff5c8e8ce0ce88c22b3370293f3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2184",
+   "path": "pravilnik/2011/2184",
+   "short": "Pravilnik o uvjetima i postupku ostvarivanja prava na stanku za dojenje djeteta, prava na dopust trudne radnice, prava na dopust radnice koja je rodila i prava na dopust radnice koja doji dijete",
+   "title": "Pravilnik o uvjetima i postupku ostvarivanja prava na stanku za dojenje djeteta, prava na dopust trudne radnice, prava na dopust radnice koja je rodila i prava na dopust radnice koja doji dijete",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/112/2184",
+   "versions": [
+    {
+     "from": "2011-09-30",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_112_2184.html",
+     "sha256": "e3572f2b5afdec102274184567351e3c8b48226462e7a00ef75c0838dd776c9f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2185",
+   "path": "pravilnik/2011/2185",
+   "short": "Pravilnik o izmjeni Pravilnika o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na emisiju štetnih sastojaka iz njihovih motora TPV 323 (Izdanje 00)",
+   "title": "Pravilnik o izmjeni Pravilnika o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na emisiju štetnih sastojaka iz njihovih motora TPV 323 (Izdanje 00)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/112/2185",
+   "versions": [
+    {
+     "from": "2011-10-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_09_112_2185.html",
+     "sha256": "f4d92eda2a9dbde14d2c4cb0f0476c6ac083aa8008293f4c8667dc2eed99edee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2216",
+   "path": "pravilnik/2011/2216",
+   "short": "Pravilnik o očevidniku inspektora elektroničkih komunikacija",
+   "title": "Pravilnik o očevidniku inspektora elektroničkih komunikacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/113/2216",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_113_2216.html",
+     "sha256": "c522423ec4e1dec0687150bf7ba7113dda96542c78ee9a95dc2aaff93ffab7af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2217",
+   "path": "pravilnik/2011/2217",
+   "short": "Pravilnik o pečatu inspektora elektroničkih komunikacija",
+   "title": "Pravilnik o pečatu inspektora elektroničkih komunikacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/113/2217",
+   "versions": [
+    {
+     "from": "2011-10-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_113_2217.html",
+     "sha256": "83bdfb7d914789470ad2d0504a660216c1f789142e5bf08fe39d02ee7cf4075a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2219",
+   "path": "pravilnik/2011/2219",
+   "short": "Pravilnik o načinu i obliku vođenja registra objekata leasinga",
+   "title": "Pravilnik o načinu i obliku vođenja registra objekata leasinga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/113/2219",
+   "versions": [
+    {
+     "from": "2011-10-05",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_113_2219.html",
+     "sha256": "87b379f2c9173315ea1bafe4756dbd3c79703c9ae6f6328c338d0996d18353c8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2232",
+   "path": "pravilnik/2011/2232",
+   "short": "Pravilnik o uvjetima priznavanja uzgojnih organizacija koje vode ili uspostavljaju matičnu knjigu za uzgojno valjane kopitare",
+   "title": "Pravilnik o uvjetima priznavanja uzgojnih organizacija koje vode ili uspostavljaju matičnu knjigu za uzgojno valjane kopitare",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2232",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2232.html",
+     "sha256": "8957306d18d62ae5fa78770a966e3160229328326a1482fec8942be706447ff1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2233",
+   "path": "pravilnik/2011/2233",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu prijave bolesti životinja",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu prijave bolesti životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2233",
+   "versions": [
+    {
+     "from": "2011-10-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2233.html",
+     "sha256": "81f7bf8f41f526b61468d5545355c965840ca4921232094b73b2db5c0d7cb108"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2234",
+   "path": "pravilnik/2011/2234",
+   "short": "Pravilnik o izmjeni Pravilnika o Mreži za ruralni razvoj",
+   "title": "Pravilnik o izmjeni Pravilnika o Mreži za ruralni razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2234",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2234.html",
+     "sha256": "e418281e077be0cbe98b1e7f9d2dc6da6231adbcb717aaba7c2be0e0ab3fb68b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2249",
+   "path": "pravilnik/2011/2249",
+   "short": "Pravilnik o načinu rada Nacionalne kontaktne točke za prijenos i analizu droga",
+   "title": "Pravilnik o načinu rada Nacionalne kontaktne točke za prijenos i analizu droga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/115/2249",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_115_2249.html",
+     "sha256": "dae8a9b6d4738d6ee0136f7128d655556a5fed54f27159060707d7baf7bd295f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2250",
+   "path": "pravilnik/2011/2250",
+   "short": "Pravilnik o zahvatima u prostoru u kojima tijelo nadležno za zaštitu od požara ne sudjeluje u postupku izdavanja rješenja o uvjetima građenja, odnosno lokacijske dozvole",
+   "title": "Pravilnik o zahvatima u prostoru u kojima tijelo nadležno za zaštitu od požara ne sudjeluje u postupku izdavanja rješenja o uvjetima građenja, odnosno lokacijske dozvole",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/115/2250",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_115_2250.html",
+     "sha256": "799f10cf651232f7fbab5e868661cb1e9c93fe7e9065e8b10bdef9da5880d433"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2257",
+   "path": "pravilnik/2011/2257",
+   "short": "Pravilnik o sadržaju općeg akta iz područja zaštite od požara",
+   "title": "Pravilnik o sadržaju općeg akta iz područja zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/116/2257",
+   "versions": [
+    {
+     "from": "2011-10-22",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_116_2257.html",
+     "sha256": "b6d8aa25da6b48f3583574d40ebcc2581e35e0888a7a35a72235c2bcea078ff4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2258",
+   "path": "pravilnik/2011/2258",
+   "short": "Pravilnik o izmjenama Pravilnika o smještaju tražitelja azila, azilanata, stranaca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom",
+   "title": "Pravilnik o izmjenama Pravilnika o smještaju tražitelja azila, azilanata, stranaca pod supsidijarnom zaštitom i stranaca pod privremenom zaštitom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/116/2258",
+   "versions": [
+    {
+     "from": "2011-10-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_116_2258.html",
+     "sha256": "2f819fda87c61624dbb9e18cfdfb2605a9e3f57ab9094f97d2dfd95d0037df53"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2260",
+   "path": "pravilnik/2011/2260",
+   "short": "Pravilnik o naknadama za dežurstva sudaca, državnih odvjetnika i zamjenika državnih odvjetnika",
+   "title": "Pravilnik o naknadama za dežurstva sudaca, državnih odvjetnika i zamjenika državnih odvjetnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/116/2260",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_116_2260.html",
+     "sha256": "7815a4e3fd8b44279449d15d795b6c657f5fd64fd85eff86fb840529b21d3541"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2261",
+   "path": "pravilnik/2011/2261",
+   "short": "Pravilnik o koordiniranom višegodišnjem programu kontrole s ciljem osiguranja sukladnosti s maksimalno dopuštenim razinama ostataka pesticida i procjene izloženosti potrošača ostacima pesticida u i na hrani biljnog i životinjskog podrijetla",
+   "title": "Pravilnik o koordiniranom višegodišnjem programu kontrole s ciljem osiguranja sukladnosti s maksimalno dopuštenim razinama ostataka pesticida i procjene izloženosti potrošača ostacima pesticida u i na hrani biljnog i životinjskog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/116/2261",
+   "versions": [
+    {
+     "from": "2011-10-22",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_116_2261.html",
+     "sha256": "cf6c8191f1f6470e14d51fc6c5a087a91244ca1d75d220a7b885eea6a1486ebf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2262",
+   "path": "pravilnik/2011/2262",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke koje provodi Zavod za sjemenarstvo i rasadničarstvo",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke koje provodi Zavod za sjemenarstvo i rasadničarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/116/2262",
+   "versions": [
+    {
+     "from": "2011-10-22",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_116_2262.html",
+     "sha256": "30cb8c880559e3ec3988f7fd550f4a475919a91fec0ad5da72f0ad877858e4af"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2263",
+   "path": "pravilnik/2011/2263",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 101 i mjere 103 unutar IPARD programa",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 101 i mjere 103 unutar IPARD programa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/116/2263",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_116_2263.html",
+     "sha256": "980f15d7eac11afed3b382a85e759c967eafb7385578b26ca50f18df816f1160"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2278",
+   "path": "pravilnik/2011/2278",
+   "short": "Pravilnik o sadržaju i načinu vođenja evidencija iz područja zaštite od požara",
+   "title": "Pravilnik o sadržaju i načinu vođenja evidencija iz područja zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/118/2278",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_118_2278.html",
+     "sha256": "ef8ad7c02ecfc9fc1f56eac1ced1faf94f4f5fb9163167013c734e0c5069d23a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2279",
+   "path": "pravilnik/2011/2279",
+   "short": "Pravilnik o izmjenama Pravilnika o javnoovršiteljskim uredima i radnom vremenu",
+   "title": "Pravilnik o izmjenama Pravilnika o javnoovršiteljskim uredima i radnom vremenu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/118/2279",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_118_2279.html",
+     "sha256": "3867a1667d6af16a03155343b470f7be413ab3bc290562db63f2682a6e956b85"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2282",
+   "path": "pravilnik/2011/2282",
+   "short": "Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz sufinanciranje troškova kupnje opreme, ribolovnih alata, plovila i pogonskih strojeva za obavljanje gospodarskog ribolova na slatkim vodama u 2011. godini",
+   "title": "Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz sufinanciranje troškova kupnje opreme, ribolovnih alata, plovila i pogonskih strojeva za obavljanje gospodarskog ribolova na slatkim vodama u 2011. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/118/2282",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_118_2282.html",
+     "sha256": "3bf1268bc990aee46787ca9c87d3ee91fe2c6dca35f43a417759ac49cf99923f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-232",
+   "path": "pravilnik/2011/232",
+   "short": "Pravilnik o izmjenama Pravilnika o obliku i iznosu kapitala koja su društva za upravljanje investicijskim fondovima dužna održavati",
+   "title": "Pravilnik o izmjenama Pravilnika o obliku i iznosu kapitala koja su društva za upravljanje investicijskim fondovima dužna održavati",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/11/232",
+   "versions": [
+    {
+     "from": "2011-02-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_11_232.html",
+     "sha256": "dd30e193c7a1815b67a12e8629ea7784f677721453b8ee563b325fac1d63131c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2348",
+   "path": "pravilnik/2011/2348",
+   "short": "Pravilnik o tehničkim i drugim uvjetima koje moraju ispunjavati pravne osobe ovlaštene za ocjenu ispravnosti i podobnosti proizvoda za zaštitu od požara",
+   "title": "Pravilnik o tehničkim i drugim uvjetima koje moraju ispunjavati pravne osobe ovlaštene za ocjenu ispravnosti i podobnosti proizvoda za zaštitu od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2348",
+   "versions": [
+    {
+     "from": "2011-10-29",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_119_2348.html",
+     "sha256": "6bf6b28dea49cfc3897dfd0a4db33a1a2ff5a494499fddaf67f6add61a21be16"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2350",
+   "path": "pravilnik/2011/2350",
+   "short": "Pravilnik o izmjenama Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "title": "Pravilnik o izmjenama Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2350",
+   "versions": [
+    {
+     "from": "2011-10-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_119_2350.html",
+     "sha256": "7d1e3bd1436e33a9e5173b1378dc4f23aceee51fb231f2c3c8d1c79ebff7ee12"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2353",
+   "path": "pravilnik/2011/2353",
+   "short": "Pravilnik o unutarnjem redu u Nacionalnom parku \"Krka\"",
+   "title": "Pravilnik o unutarnjem redu u Nacionalnom parku \"Krka\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2353",
+   "versions": [
+    {
+     "from": "2011-10-29",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_119_2353.html",
+     "sha256": "0a7190bd32a455c4eb62cb2e17631f4100011bc05a920e6ed029b3949383ee3c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2358",
+   "path": "pravilnik/2011/2358",
+   "short": "Pravilnik o izmjeni Pravilnika o snimanju dokazne ili druge radnje u prethodnom i kaznenom postupku",
+   "title": "Pravilnik o izmjeni Pravilnika o snimanju dokazne ili druge radnje u prethodnom i kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/120/2358",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_120_2358.html",
+     "sha256": "06e5456ea01ba3a68ef345b87629b0f89aed3e8e3fb5958a264f20e8c4afde3a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2360",
+   "path": "pravilnik/2011/2360",
+   "short": "Pravilnik o ljekovitoj hrani za životinje",
+   "title": "Pravilnik o ljekovitoj hrani za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/120/2360",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_120_2360.html",
+     "sha256": "9f48bdeaba11ec278da1262fa91bc239fb9b80dc098b3421ce8686a6e4701047"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2362",
+   "path": "pravilnik/2011/2362",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprječavanje unošenja i širenja organizama štetnih za bilje, biljne proizvode i druge nadzirane predmete i mjerama suzbijanja tih organizama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/120/2362",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_120_2362.html",
+     "sha256": "636232ac790572b7f878f75f37f89b299304455afb684eaaf62bf4531abed3c5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2363",
+   "path": "pravilnik/2011/2363",
+   "short": "Pravilnik o izmjeni Pravilnika za sprječavanje pojave, kontrolu i iskorjenjivanje određenih transmisivnih spongiformnih encefalopatija",
+   "title": "Pravilnik o izmjeni Pravilnika za sprječavanje pojave, kontrolu i iskorjenjivanje određenih transmisivnih spongiformnih encefalopatija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/120/2363",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_120_2363.html",
+     "sha256": "d68a5b49609e0228158fb189232991e28927bf3f18c8b91c12424a54f2293ade"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2415",
+   "path": "pravilnik/2011/2415",
+   "short": "Pravilnik o načinu prikupljanja podataka te sadržaju i načinu vođenja zbirke podataka",
+   "title": "Pravilnik o načinu prikupljanja podataka te sadržaju i načinu vođenja zbirke podataka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2415",
+   "versions": [
+    {
+     "from": "2011-11-05",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_121_2415.html",
+     "sha256": "804e0f1a21be1ec4ba87a5d8ee8f88ee9c30a3665714f6fee7943366ecf5e720"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2416",
+   "path": "pravilnik/2011/2416",
+   "short": "Pravilnik o posebnim uvjetima za uvoz hrane i hrane za životinje podrijetlom ili isporučene iz Japana nakon incidenta u nuklearnoj elektrani Fukushima",
+   "title": "Pravilnik o posebnim uvjetima za uvoz hrane i hrane za životinje podrijetlom ili isporučene iz Japana nakon incidenta u nuklearnoj elektrani Fukushima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2416",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_121_2416.html",
+     "sha256": "fe451d468d53b59b1426ad85db39b85f2060ee1bd980ea7e9aa1d26f7dce6b01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2417",
+   "path": "pravilnik/2011/2417",
+   "short": "Pravilnik o izmjenama Pravilnika minimalnih tehničkih uvjeta za projektiranje i gradnju stanova iz Programa društveno poticane stanogradnje",
+   "title": "Pravilnik o izmjenama Pravilnika minimalnih tehničkih uvjeta za projektiranje i gradnju stanova iz Programa društveno poticane stanogradnje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2417",
+   "versions": [
+    {
+     "from": "2011-11-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_121_2417.html",
+     "sha256": "1b339fdf1c43e64afaffe33c22d5ef411a6e881923be0592aa7b89aab4b5758c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2418",
+   "path": "pravilnik/2011/2418",
+   "short": "Pravilnik o načinu prikupljanja medicinske dokumentacije o promjeni spola",
+   "title": "Pravilnik o načinu prikupljanja medicinske dokumentacije o promjeni spola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2418",
+   "versions": [
+    {
+     "from": "2011-11-05",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_121_2418.html",
+     "sha256": "1373fb2a14a160c681400734e68d3a1adb425b136f693560c3dbe88c60fc38a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2440",
+   "path": "pravilnik/2011/2440",
+   "short": "Pravilnik o upućivanju državnog odvjetnika za vezu u Eurojust",
+   "title": "Pravilnik o upućivanju državnog odvjetnika za vezu u Eurojust",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2440",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2440.html",
+     "sha256": "a4870932eb587fc2c47434f98078364c81ee83ba67bc0f870d3fce5bc8a64c9c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2441",
+   "path": "pravilnik/2011/2441",
+   "short": "Pravilnik o javnobilježničkim uredima",
+   "title": "Pravilnik o javnobilježničkim uredima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2441",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2441.html",
+     "sha256": "5a22f6f0e9eebfb64370d0bf9cd3021422a40669dcccf8d5abd38bdb3c35dda8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2442",
+   "path": "pravilnik/2011/2442",
+   "short": "Pravilnik o dopuni Pravilnika o službenim sjedištima javnih bilježnika",
+   "title": "Pravilnik o dopuni Pravilnika o službenim sjedištima javnih bilježnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2442",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2442.html",
+     "sha256": "fedfca74f76ad52aa4b9eb5166791b184460d25323c4414258d45c3fce35bcf6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2446",
+   "path": "pravilnik/2011/2446",
+   "short": "Pravilnik o izmjenama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i registru o izdanim povlasticama",
+   "title": "Pravilnik o izmjenama Pravilnika o povlastici za obavljanje gospodarskog ribolova na moru i registru o izdanim povlasticama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2446",
+   "versions": [
+    {
+     "from": "2011-11-02",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2446.html",
+     "sha256": "d20a75e65512dfcf4fac5ceae6deedb42872f79b31aa583aba3ccf80613e2ab6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2448",
+   "path": "pravilnik/2011/2448",
+   "short": "Pravilnik o kontroli bolovanja",
+   "title": "Pravilnik o kontroli bolovanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2448",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2448.html",
+     "sha256": "273ccfdb8509d08408028a1a167f87556cac1906f6a3516df9de817d29d9ee4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2449",
+   "path": "pravilnik/2011/2449",
+   "short": "Pravilnik o obrascu dnevnika rada doktora medicine na specijalističkom usavršavanju",
+   "title": "Pravilnik o obrascu dnevnika rada doktora medicine na specijalističkom usavršavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2449",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2449.html",
+     "sha256": "ae9a8cbe69ac8a5200e1165cd543c940e8b55a9cfde1daa0e56ff8602d1951b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-245",
+   "path": "pravilnik/2011/245",
+   "short": "Pravilnik o ostvarivanju prava na potporu osiguranja od mogućih šteta proizvodnji u poljoprivredi",
+   "title": "Pravilnik o ostvarivanju prava na potporu osiguranja od mogućih šteta proizvodnji u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/12/245",
+   "versions": [
+    {
+     "from": "2011-02-05",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_12_245.html",
+     "sha256": "e9e049ba95e7c4410fbe7fe872679c5c9e63f7691d3d47ada144d8a696c4e7ed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2450",
+   "path": "pravilnik/2011/2450",
+   "short": "Pravilnik o obrascu knjižice o specijalističkom usavršavanju doktora medicine",
+   "title": "Pravilnik o obrascu knjižice o specijalističkom usavršavanju doktora medicine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2450",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2450.html",
+     "sha256": "5dbe861d9322f883c1c0018a8171f33b77c724a03e19bdb079cd5394cba334b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-246",
+   "path": "pravilnik/2011/246",
+   "short": "Pravilnik o zaštiti životinja tijekom prijevoza i s prijevozom povezanih postupaka",
+   "title": "Pravilnik o zaštiti životinja tijekom prijevoza i s prijevozom povezanih postupaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/12/246",
+   "versions": [
+    {
+     "from": "2011-02-05",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_12_246.html",
+     "sha256": "fa66af7f505d931af58be6b76b7d6be6de7927b60e74c4765f6dee6d7a34ffff"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2465",
+   "path": "pravilnik/2011/2465",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/123/2465",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_123_2465.html",
+     "sha256": "c3f088f9710823bc55dc362e337aafd92b9f3f34ecdf0fa266ade187effb5b67"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-247",
+   "path": "pravilnik/2011/247",
+   "short": "Pravilnik o izravnim plaćanjima u poljoprivredi, potporama za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi",
+   "title": "Pravilnik o izravnim plaćanjima u poljoprivredi, potporama za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/12/247",
+   "versions": [
+    {
+     "from": "2011-01-28",
+     "units": 65,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_12_247.html",
+     "sha256": "31404cc4d427c7180e62f4dfca716771b6daad0235ab81c4543cc5f98e6eefc3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-248",
+   "path": "pravilnik/2011/248",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o obvezom označavanju i registraciji svinja",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o obvezom označavanju i registraciji svinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/12/248",
+   "versions": [
+    {
+     "from": "2011-02-05",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_12_248.html",
+     "sha256": "c8f11ab45f6a2f77bee2d857d5b3deb5743cafe12680ae0da8036b0c58c8568f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2491",
+   "path": "pravilnik/2011/2491",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vrstama i visini naknada za obavljanje poslova propisanih Zakonom o provedbi ovrhe na novčanim sredstvima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vrstama i visini naknada za obavljanje poslova propisanih Zakonom o provedbi ovrhe na novčanim sredstvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2491",
+   "versions": [
+    {
+     "from": "2011-11-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2491.html",
+     "sha256": "c4c22024c47d7c4b602f14341b83e70dbcce55491f8963d3de369cd5c169ec6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2492",
+   "path": "pravilnik/2011/2492",
+   "short": "Pravilnik o dopuni Pravilnika o provođenju obaveznog označavanja i registracije ovaca i koza",
+   "title": "Pravilnik o dopuni Pravilnika o provođenju obaveznog označavanja i registracije ovaca i koza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2492",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2492.html",
+     "sha256": "e8c0f5aa8e242ae9110154fd56da8ba48a0be85b6403e560b2facbfad844ca4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2493",
+   "path": "pravilnik/2011/2493",
+   "short": "Pravilnik o mjerilima za priznavanje naziva primarijus doktorima dentalne medicine",
+   "title": "Pravilnik o mjerilima za priznavanje naziva primarijus doktorima dentalne medicine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2493",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2493.html",
+     "sha256": "570ca51e05018636681f964f560e1d4cf938d9b89cad0b4de43b7b93cb1f3372"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2494",
+   "path": "pravilnik/2011/2494",
+   "short": "Pravilnik o mjerilima za priznavanje naziva primarijus doktorima medicine",
+   "title": "Pravilnik o mjerilima za priznavanje naziva primarijus doktorima medicine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2494",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2494.html",
+     "sha256": "b0c618a7019213e7a2fec59ffd4633532f258705b10b197b7e82d0c50261f18e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2495",
+   "path": "pravilnik/2011/2495",
+   "short": "Pravilnik o načinu rada povjerenstva za zaštitu prava korisnika usluga",
+   "title": "Pravilnik o načinu rada povjerenstva za zaštitu prava korisnika usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2495",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2495.html",
+     "sha256": "c3d5cbac9fe2df33c3056fe4186d46abca8dee30b82fa0eeb1cb20b268f7d4a2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2542",
+   "path": "pravilnik/2011/2542",
+   "short": "Pravilnik o vrstama i visini naknada Financijskoj agenciji za usluge javne objave godišnjih financijskih izvještaja i izdavanja dokumentacije iz Registra godišnjih financijskih izvještaja",
+   "title": "Pravilnik o vrstama i visini naknada Financijskoj agenciji za usluge javne objave godišnjih financijskih izvještaja i izdavanja dokumentacije iz Registra godišnjih financijskih izvještaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/126/2542",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_126_2542.html",
+     "sha256": "ec870534a23b18194d6ada44f1fe806e0cdbbc8955541ec6284640c632baf08b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2543",
+   "path": "pravilnik/2011/2543",
+   "short": "Pravilnik o dopuni Pravilnika o službenim sjedištima javnih bilježnika",
+   "title": "Pravilnik o dopuni Pravilnika o službenim sjedištima javnih bilježnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/126/2543",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_126_2543.html",
+     "sha256": "9e752891faf182673d86a3e1371bf68f4f7285eb8a0e938192b4f23e1578f35b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2544",
+   "path": "pravilnik/2011/2544",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stalnim sudskim vještacima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stalnim sudskim vještacima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/126/2544",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_126_2544.html",
+     "sha256": "2fc499207477e2af9cd257b4d78c2ae28fcb8370789af8250e6803bd2e59127e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2545",
+   "path": "pravilnik/2011/2545",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o ambalaži i ambalažnom otpadu",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o ambalaži i ambalažnom otpadu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/126/2545",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_126_2545.html",
+     "sha256": "013f03987c41d4602debc222fa078b1262bcd7e84b200f8a76fc23a87b8b4b64"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2547",
+   "path": "pravilnik/2011/2547",
+   "short": "Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/126/2547",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_126_2547.html",
+     "sha256": "f1ff56118f2461313714b0932e5272cbc68cd6a8f7b7b8192056d1b15e6c34ee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2548",
+   "path": "pravilnik/2011/2548",
+   "short": "Pravilnik o izmjenama Pravilnika o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u Mreži javne zdravstvene službe",
+   "title": "Pravilnik o izmjenama Pravilnika o postupku i načinu davanja mišljenja o opravdanosti osnivanja zdravstvenih ustanova, odnosno privatne prakse u Mreži javne zdravstvene službe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/126/2548",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_126_2548.html",
+     "sha256": "133c2fe75fb6c4a531c5bb475d85037f407c75533934275145903a6169c474d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2594",
+   "path": "pravilnik/2011/2594",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o izravnim plaćanjima u poljoprivredi, potporama za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o izravnim plaćanjima u poljoprivredi, potporama za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/129/2594",
+   "versions": [
+    {
+     "from": "2011-11-14",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_129_2594.html",
+     "sha256": "d3232bab640339bf782bd3bc4d5c3ba9725676130441f9318569ca321c0a43de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2595",
+   "path": "pravilnik/2011/2595",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/129/2595",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_129_2595.html",
+     "sha256": "544576dd9eb331cff2735dc286bbaec1fb5a0cdbcfc24c9747d5c654dd061e39"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2596",
+   "path": "pravilnik/2011/2596",
+   "short": "Pravilnik o izmjeni i dopunama Pravilnika o ocjenjivanju sukladnosti, ispravama o sukladnosti i označavanju građevnih proizvoda",
+   "title": "Pravilnik o izmjeni i dopunama Pravilnika o ocjenjivanju sukladnosti, ispravama o sukladnosti i označavanju građevnih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/129/2596",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_129_2596.html",
+     "sha256": "dd9b35418294ce8ca6d812e6df6006a75151ecf179d15ddc55b4b8de4db1b588"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2598",
+   "path": "pravilnik/2011/2598",
+   "short": "Pravilnik o specijalističkom usavršavanju doktora medicine iz obiteljske medicine",
+   "title": "Pravilnik o specijalističkom usavršavanju doktora medicine iz obiteljske medicine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/129/2598",
+   "versions": [
+    {
+     "from": "2011-11-22",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_129_2598.html",
+     "sha256": "0aaf8aa71bd066c6ca614ca0db04a9238dfbad7928259ac3826fed7da86f31b7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2616",
+   "path": "pravilnik/2011/2616",
+   "short": "Pravilnik o provedbi financijskog upravljanja i kontrola u javnom sektoru",
+   "title": "Pravilnik o provedbi financijskog upravljanja i kontrola u javnom sektoru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2616",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2616.html",
+     "sha256": "aee0f863eb2f38b822fc03b2be7f292de44a31ee3a191a72ba0df199cd3a9c04"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2668",
+   "path": "pravilnik/2011/2668",
+   "short": "Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima aviona",
+   "title": "Pravilnik o uvjetima i načinu stjecanja, izdavanja, obnavljanja i produžavanja dozvole i ovlaštenja zrakoplovnom osoblju - pilotima aviona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2668",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_133_2668.html",
+     "sha256": "64ad24224a1bff1bd6e2a641c1f280f053c216a233852353fc47dd09ff77a373"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2669",
+   "path": "pravilnik/2011/2669",
+   "short": "Pravilnik o uvjetima, načinu i postupku izdavanja i oduzimanja odobrenja za cisterne fiksno pričvršćene za vozilo u cestovnom prometu",
+   "title": "Pravilnik o uvjetima, načinu i postupku izdavanja i oduzimanja odobrenja za cisterne fiksno pričvršćene za vozilo u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2669",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_133_2669.html",
+     "sha256": "7929ee0d69630643e56718dfb4c981803318a87422351c466184f751a8e40f84"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2671",
+   "path": "pravilnik/2011/2671",
+   "short": "Pravilnik o uvjetima i postupku za ostvarivanje prava na korištenje kopnenih voda radi uzgoja riba i drugih vodenih organizama",
+   "title": "Pravilnik o uvjetima i postupku za ostvarivanje prava na korištenje kopnenih voda radi uzgoja riba i drugih vodenih organizama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2671",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_133_2671.html",
+     "sha256": "6a75a2ee2d9a598f5a3a37b77cd33f033ff70c903c54728fae9c2321f5f6d937"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2672",
+   "path": "pravilnik/2011/2672",
+   "short": "Pravilnik o izmjenama Pravilnika o specijalističkom usavršavanju doktor medicine",
+   "title": "Pravilnik o izmjenama Pravilnika o specijalističkom usavršavanju doktor medicine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2672",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_133_2672.html",
+     "sha256": "6bc31394b0fddb2e233fbdff0bae0e53885d964f633478630220ee664dc93f14"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2676",
+   "path": "pravilnik/2011/2676",
+   "short": "Pravilnik plaćanju naknada za obavljanje poslova Hrvatske agencije za poštu i elektroničke komunikacije",
+   "title": "Pravilnik plaćanju naknada za obavljanje poslova Hrvatske agencije za poštu i elektroničke komunikacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/133/2676",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_133_2676.html",
+     "sha256": "39445b5236dd2f826fb1c0173aea6bb1d5a8f231032d54ee82942d10965e6def"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2686",
+   "path": "pravilnik/2011/2686",
+   "short": "Pravilnik o izmjenama Pravilnika o primjeni Zakona o trošarinama što se odnose na plinsko ulje obojano plavom bojom za namjene u poljoprivredi ribolovu i akvakulturi",
+   "title": "Pravilnik o izmjenama Pravilnika o primjeni Zakona o trošarinama što se odnose na plinsko ulje obojano plavom bojom za namjene u poljoprivredi ribolovu i akvakulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/134/2686",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_134_2686.html",
+     "sha256": "15e28dfa6f35e48bd9c570308cb2a6708ed18868ee928d5c12ae7d3eb1090bf0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2687",
+   "path": "pravilnik/2011/2687",
+   "short": "Pravilnik o korištenju automata za prodaju toplih i hladnih napitaka, snekova, te jednostavnih jela u originalnom pakiranju za potrebe zaposlenika kod korisnika zone koji obavlja gospodarsku djelatnost u slobodnoj zoni",
+   "title": "Pravilnik o korištenju automata za prodaju toplih i hladnih napitaka, snekova, te jednostavnih jela u originalnom pakiranju za potrebe zaposlenika kod korisnika zone koji obavlja gospodarsku djelatnost u slobodnoj zoni",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/134/2687",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_134_2687.html",
+     "sha256": "c47709c00728a04490ee0c1583785cc701350e396fa5daa622fbed67b98dbad0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2702",
+   "path": "pravilnik/2011/2702",
+   "short": "Pravilnik o uvjetima za podnošenje zahtjeva i kriterijima za dodjelu zajedničkih pašnjaka",
+   "title": "Pravilnik o uvjetima za podnošenje zahtjeva i kriterijima za dodjelu zajedničkih pašnjaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/135/2702",
+   "versions": [
+    {
+     "from": "2011-12-03",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_135_2702.html",
+     "sha256": "0c60b9a96ac0af74e13dd889cd481207d7163bd33d76390122ab1227723b754a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2704",
+   "path": "pravilnik/2011/2704",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o energetskom certificiranju zgrada",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o energetskom certificiranju zgrada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/135/2704",
+   "versions": [
+    {
+     "from": "2011-12-03",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_135_2704.html",
+     "sha256": "13e2c86a9ca1e32d5f04879aefa1af0c7c328c87e2431d809f6f663d0f0b44a7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2727",
+   "path": "pravilnik/2011/2727",
+   "short": "Pravilnik o izmjenama Pravilnika o načinu raspodjele i obračunu troškova za isporučenu toplinsku energiju",
+   "title": "Pravilnik o izmjenama Pravilnika o načinu raspodjele i obračunu troškova za isporučenu toplinsku energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/136/2727",
+   "versions": [
+    {
+     "from": "2011-12-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_136_2727.html",
+     "sha256": "aa70af18ba0090f14ecf28fca863e40e300f415f632c3908781e35eb502b2b3f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2748",
+   "path": "pravilnik/2011/2748",
+   "short": "Pravilnik o obliku i sadržaju prijave poreza na promet nekretnina",
+   "title": "Pravilnik o obliku i sadržaju prijave poreza na promet nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/137/2748",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_137_2748.html",
+     "sha256": "e50f417498205d86e1c844dacb3a4f9e1edbf03632235a2e637bb4623b700db4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2749",
+   "path": "pravilnik/2011/2749",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o porezu na dobit",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/137/2749",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_137_2749.html",
+     "sha256": "fc17e2be3fcfc71c495c1b338be64baae9c25ae58a66369c82f944e9dadaaf92"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2750",
+   "path": "pravilnik/2011/2750",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/137/2750",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_137_2750.html",
+     "sha256": "8905c288754f214f12926343ca37989ddd1373496d5a55282bba70d2f82b53a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2756",
+   "path": "pravilnik/2011/2756",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/137/2756",
+   "versions": [
+    {
+     "from": "2011-12-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_137_2756.html",
+     "sha256": "d44f00dfa0804849de90c7f5101a4f13af50a7938a87d124bbeceeec9896ec99"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2767",
+   "path": "pravilnik/2011/2767",
+   "short": "Pravilnik o uvjetima, organizaciji i načinu obavljanja telemedicine",
+   "title": "Pravilnik o uvjetima, organizaciji i načinu obavljanja telemedicine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/138/2767",
+   "versions": [
+    {
+     "from": "2011-12-09",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_138_2767.html",
+     "sha256": "f23093fab3b622c0255ca7ef840e769d41152d7c0368af61babb2b31b6b9181b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2769",
+   "path": "pravilnik/2011/2769",
+   "short": "Pravilnik o homologaciji vozila",
+   "title": "Pravilnik o homologaciji vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/138/2769",
+   "versions": [
+    {
+     "from": "2011-12-09",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_138_2769.html",
+     "sha256": "c0026f0a42b446387c91e42326301dc29c59b6d4b5096d6c53472ea7fb675772"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-279",
+   "path": "pravilnik/2011/279",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o prometnim znakovima, signalizaciji i opremi na cestama",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o prometnim znakovima, signalizaciji i opremi na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/14/279",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_14_279.html",
+     "sha256": "02225c0578fac0febda643b164eec0d3ead5febb3f8b948d26820742cd63d872"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2822",
+   "path": "pravilnik/2011/2822",
+   "short": "Pravilnik o mjerama zaštite od požara kod građenja",
+   "title": "Pravilnik o mjerama zaštite od požara kod građenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2822",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2822.html",
+     "sha256": "db2a8cfc5689e66c9bda931fd82585861db7109c45c2b7427545a7bf4a166bd3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2823",
+   "path": "pravilnik/2011/2823",
+   "short": "Pravilnik o minimalnoj osobnoj zaštitnoj i tehničkoj opremi inspektora zaštite od požara",
+   "title": "Pravilnik o minimalnoj osobnoj zaštitnoj i tehničkoj opremi inspektora zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2823",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2823.html",
+     "sha256": "6170121da88a3c14e6c0b9ced074495c03196948b3094fc9e7ba111d04d9a4bd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2824",
+   "path": "pravilnik/2011/2824",
+   "short": "Pravilnik o revidentima iz zaštite od požara",
+   "title": "Pravilnik o revidentima iz zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2824",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2824.html",
+     "sha256": "496c885cbc73c6465406900106b67751125ee4a13525864d77f05da2d2d23b89"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2826",
+   "path": "pravilnik/2011/2826",
+   "short": "Pravilnik o stručnim ispitima u području zaštite od požara",
+   "title": "Pravilnik o stručnim ispitima u području zaštite od požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2826",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2826.html",
+     "sha256": "c84cc87e01d698cdfd53450ce35d3247fcf071be8b7a6ffe96cab4ec55b6f9b9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2827",
+   "path": "pravilnik/2011/2827",
+   "short": "Pravilnik o disciplinskoj odgovornosti policijskih službenika",
+   "title": "Pravilnik o disciplinskoj odgovornosti policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2827",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2827.html",
+     "sha256": "65c9f12dde21fe81a6326c4b8c72fa2b66c96279f54fd2cf306ea4ff7d433ad9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2828",
+   "path": "pravilnik/2011/2828",
+   "short": "Pravilnik o načinu provedbe unutarnje kontrole i nadzora rada službenika i ustrojstvenih jedinica Ministarstva unutarnjih poslova",
+   "title": "Pravilnik o načinu provedbe unutarnje kontrole i nadzora rada službenika i ustrojstvenih jedinica Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2828",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2828.html",
+     "sha256": "65510f5348b9f06cf9d5e1d260a46ceab9b0ccc92c3c7834fef16dcaf813043c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2830",
+   "path": "pravilnik/2011/2830",
+   "short": "Pravilnik o jedinstvenim minimalnim izračunskim elementima vrijednosti nastavnog sata u autoškoli",
+   "title": "Pravilnik o jedinstvenim minimalnim izračunskim elementima vrijednosti nastavnog sata u autoškoli",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2830",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2830.html",
+     "sha256": "409237740ac7a62b9c0592ed2d5c87fecaa248b46f1a2ea01c6c5d60e0b1524d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2831",
+   "path": "pravilnik/2011/2831",
+   "short": "Pravilnik o načinu postupanja policijskih službenika u obavljanju poslova nadzora i upravljanja prometom na cestama",
+   "title": "Pravilnik o načinu postupanja policijskih službenika u obavljanju poslova nadzora i upravljanja prometom na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2831",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2831.html",
+     "sha256": "cf90eff7fefa1a9cf8aee94ea023bd582ae7850048cc7ca64b492da7d0ccc66a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2833",
+   "path": "pravilnik/2011/2833",
+   "short": "Pravilnik o uvjetima i načinu dodjele spomen-značke ili kratkog vatrenog oružja",
+   "title": "Pravilnik o uvjetima i načinu dodjele spomen-značke ili kratkog vatrenog oružja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2833",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2833.html",
+     "sha256": "4450e956449cca3f6a09965de4ff41034da76a5873e71224ea7d1a1c34063510"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2839",
+   "path": "pravilnik/2011/2839",
+   "short": "Pravilnik o evidenciji odgojnih mjera",
+   "title": "Pravilnik o evidenciji odgojnih mjera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2839",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2839.html",
+     "sha256": "ec7d989df6eaaa01ef29884cfb065b01ab07e78c331efab33f32554fa459e5ab"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2840",
+   "path": "pravilnik/2011/2840",
+   "short": "Pravilnik o načinu izvršavanja odgojnih mjera - posebne obveze, upućivanje u disciplinski centar, pojačana briga i nadzor, pojačana briga i nadzor uz dnevni boravak u odgojnoj ustanovi, upućivanje u odgojnu ustanovu i upućivanje u posebnu odgojnu ustanovu",
+   "title": "Pravilnik o načinu izvršavanja odgojnih mjera - posebne obveze, upućivanje u disciplinski centar, pojačana briga i nadzor, pojačana briga i nadzor uz dnevni boravak u odgojnoj ustanovi, upućivanje u odgojnu ustanovu i upućivanje u posebnu odgojnu ustanovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/141/2840",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 137,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_141_2840.html",
+     "sha256": "bed0277229dd83a53eaad8a007e5ecf30026e36630198685eecaffbf018064fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2867",
+   "path": "pravilnik/2011/2867",
+   "short": "Pravilnik o pivu",
+   "title": "Pravilnik o pivu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/142/2867",
+   "versions": [
+    {
+     "from": "2011-12-17",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_142_2867.html",
+     "sha256": "a009d847b0fe5471fdeb73e7f5a1c8690071e31776848486596a5f2a288563b2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2869",
+   "path": "pravilnik/2011/2869",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o zaštitnim mjerama radi visoko patogene influence ptica i kretanju ptica - kućnih ljubimaca u pratnji vlasnika pri ulasku u Republiku Hrvatsku",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o zaštitnim mjerama radi visoko patogene influence ptica i kretanju ptica - kućnih ljubimaca u pratnji vlasnika pri ulasku u Republiku Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/142/2869",
+   "versions": [
+    {
+     "from": "2011-12-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_142_2869.html",
+     "sha256": "5e6f2312be1a3aadd70e32bb111864cb1e3313e047294c1b1a4e1aa11ac91521"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2872",
+   "path": "pravilnik/2011/2872",
+   "short": "Pravilnik o mirenju",
+   "title": "Pravilnik o mirenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/142/2872",
+   "versions": [
+    {
+     "from": "2011-12-17",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_142_2872.html",
+     "sha256": "7677742a73ba1295c075e8b91a2ef2f288c4e8b9568239d4b64d03ba4ba2f986"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2873",
+   "path": "pravilnik/2011/2873",
+   "short": "Pravilnik o Stalnom arbitražnom sudištu pri Hrvatskoj gospodarskoj komori",
+   "title": "Pravilnik o Stalnom arbitražnom sudištu pri Hrvatskoj gospodarskoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/142/2873",
+   "versions": [
+    {
+     "from": "2011-12-17",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_142_2873.html",
+     "sha256": "093ed038c00914d00b4f6db1f5ee6fb7dce1168e4fcd358b426f7419608e1c3c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2874",
+   "path": "pravilnik/2011/2874",
+   "short": "Pravilnik o arbitraži pri Stalnom arbitražnom sudištu Hrvatske gospodarske komore",
+   "title": "Pravilnik o arbitraži pri Stalnom arbitražnom sudištu Hrvatske gospodarske komore",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/142/2874",
+   "versions": [
+    {
+     "from": "2011-12-17",
+     "units": 64,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_142_2874.html",
+     "sha256": "e9cea6ec974bec7928b04d258fa4ea613e8bcbae0cc6a0c4e35e11cc1b6bc4db"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2913",
+   "path": "pravilnik/2011/2913",
+   "short": "Pravilnik o izmjeni i dopunama Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske",
+   "title": "Pravilnik o izmjeni i dopunama Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola proizvoda životinjskog podrijetla u prometu preko granice Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2913",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2913.html",
+     "sha256": "3e2631b66782da62ad91d2aa0421b0a946fd85a4c2e6523ba501f10f3afa8d00"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2914",
+   "path": "pravilnik/2011/2914",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2914",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2914.html",
+     "sha256": "297ee59fb0785584cbbbcffb775fc79986e9df336a02598b81407fcb27fd7aaa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2915",
+   "path": "pravilnik/2011/2915",
+   "short": "Pravilnik o obrascima i načinu vođenja evidencije humanitarne pomoći",
+   "title": "Pravilnik o obrascima i načinu vođenja evidencije humanitarne pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2915",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2915.html",
+     "sha256": "c8518ed3df7599f552dab6a017a6731e3dc8809a0f884238c400fcccdd6b45ef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2916",
+   "path": "pravilnik/2011/2916",
+   "short": "Pravilnik o državnoj nagradi za humanitarni rad",
+   "title": "Pravilnik o državnoj nagradi za humanitarni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2916",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2916.html",
+     "sha256": "a8f13b188d2ef53804e44927166b5a15d680ff50c485e292721c9e2076cc51c3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2917",
+   "path": "pravilnik/2011/2917",
+   "short": "Pravilnik o evidenciji radnog vremena za radnike školskih ustanova",
+   "title": "Pravilnik o evidenciji radnog vremena za radnike školskih ustanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2917",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2917.html",
+     "sha256": "23d686bc90b3e5ab9640a0e97e176ac150d70429a6e5000fdf050b7270800ef0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2918",
+   "path": "pravilnik/2011/2918",
+   "short": "Pravilnik o uvjetima i načinu ostvarivanja prava na dodjelu građevnog materijala izvan područja posebne državne skrbi",
+   "title": "Pravilnik o uvjetima i načinu ostvarivanja prava na dodjelu građevnog materijala izvan područja posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2918",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2918.html",
+     "sha256": "95dfe841780afecc0d6a45261f53c3267d1b3b497df6aab06c2ebc4d9dfeb3b5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2919",
+   "path": "pravilnik/2011/2919",
+   "short": "Pravilnik o načinu izgradnje i mjerilima za popravak, obnovu i izgradnju obiteljskih kuća dodjelom građevinskog materijala i višestambenih objekata na područjima posebne državne skrbi",
+   "title": "Pravilnik o načinu izgradnje i mjerilima za popravak, obnovu i izgradnju obiteljskih kuća dodjelom građevinskog materijala i višestambenih objekata na područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/144/2919",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_144_2919.html",
+     "sha256": "ec151361dc40072480ca7caeca3b5dd3a2fcca456cd7f402c2c6897ff904937b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2941",
+   "path": "pravilnik/2011/2941",
+   "short": "Pravilnik o izmjenama Pravilnika o načinu raspodjele i obračuna troškova za isporučenu toplinsku energiju",
+   "title": "Pravilnik o izmjenama Pravilnika o načinu raspodjele i obračuna troškova za isporučenu toplinsku energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2941",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2941.html",
+     "sha256": "507c65674c78108a29e10e85eb8cd6c16b23f32375bc0d67c547021bd74ced31"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2942",
+   "path": "pravilnik/2011/2942",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima vozila u prometu na cestama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima vozila u prometu na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2942",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2942.html",
+     "sha256": "c40d4d5483a5123aa9cba2c4061299fff89cde3c0ad565e12ffed9aa056958d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2943",
+   "path": "pravilnik/2011/2943",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2943",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2943.html",
+     "sha256": "09875a1b399415de682b4242e9a0a1b15dd596c49f6bac94cc993214860ba169"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2944",
+   "path": "pravilnik/2011/2944",
+   "short": "Pravilnik o uvjetima za korištenje požetog materijala zaštićene sorte na vlastitom poljoprivrednom imanju i kriterijima za utvrđivanje malih poljoprivrednih proizvođača",
+   "title": "Pravilnik o uvjetima za korištenje požetog materijala zaštićene sorte na vlastitom poljoprivrednom imanju i kriterijima za utvrđivanje malih poljoprivrednih proizvođača",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2944",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2944.html",
+     "sha256": "bade13507eaaf80965621b2d632386ab18491d74e4f1b132cc3996cd1203676e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2946",
+   "path": "pravilnik/2011/2946",
+   "short": "Pravilnik o dopuni Pravilnika o raspodjeli carinskih kvota za poljoprivredne i prehrambene proizvode",
+   "title": "Pravilnik o dopuni Pravilnika o raspodjeli carinskih kvota za poljoprivredne i prehrambene proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2946",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2946.html",
+     "sha256": "0d262f497e0edcac7cf801b2aba8fe95d88527927d88005936a0dcea105e9d36"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2950",
+   "path": "pravilnik/2011/2950",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sastavu i načinu rada tijela vještačenja u postupku ostvarivanja prava iz socijalne skrbi i drugih prava po posebnim propisima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sastavu i načinu rada tijela vještačenja u postupku ostvarivanja prava iz socijalne skrbi i drugih prava po posebnim propisima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2950",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2950.html",
+     "sha256": "f12ac19a88e6fc55fcc461233833c3d5c7f0f5606f8efd1d34a5e788f7ed413b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2951",
+   "path": "pravilnik/2011/2951",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i obliku svjedodžbi i drugih javnih isprava te pedagoškoj dokumentaciji i evidenciji u školskim ustanovama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i obliku svjedodžbi i drugih javnih isprava te pedagoškoj dokumentaciji i evidenciji u školskim ustanovama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2951",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2951.html",
+     "sha256": "618037d9e88b681b5643a9a41bfde536293e3bb7bebebd4940bb97d80a6a4cc1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2955",
+   "path": "pravilnik/2011/2955",
+   "short": "Pravilnik o dopuni Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "title": "Pravilnik o dopuni Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/145/2955",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_145_2955.html",
+     "sha256": "81ab744a2a5e93c30c4eefe0b282ae2d76cd762b3927ad2a8e4c08b3e5f1def0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2964",
+   "path": "pravilnik/2011/2964",
+   "short": "Pravilnik o izmjenama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "title": "Pravilnik o izmjenama Pravilnika o proglašavanju turističkih općina i gradova i o razvrstavanju naselja u turističke razrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/146/2964",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_146_2964.html",
+     "sha256": "937321a7fc8ccd86e48b9b182160982cf258102b976f8426de72debd4f8d459b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2974",
+   "path": "pravilnik/2011/2974",
+   "short": "Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/146/2974",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_146_2974.html",
+     "sha256": "c5671df4a31786c3e0b01d5ff308912e3816ad4234587a0af8750e45e67c0f37"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2975",
+   "path": "pravilnik/2011/2975",
+   "short": "Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2012. godinu",
+   "title": "Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2012. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/146/2975",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_146_2975.html",
+     "sha256": "94894ce07a7f2866ae017dc16d098e3490fc050bf7ed3d62db419b2505b3b5ba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2986",
+   "path": "pravilnik/2011/2986",
+   "short": "Pravilnik o izmjenama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "title": "Pravilnik o izmjenama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/147/2986",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_147_2986.html",
+     "sha256": "e70fd04880d63f15fe6282fa890f7e4616e943d5c2fff054b8ee3363f0f2302d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2988",
+   "path": "pravilnik/2011/2988",
+   "short": "Pravilnik o načinu utvrđivanja kvalitete sjemena svojti šumskog drveća",
+   "title": "Pravilnik o načinu utvrđivanja kvalitete sjemena svojti šumskog drveća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/147/2988",
+   "versions": [
+    {
+     "from": "2011-12-27",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_147_2988.html",
+     "sha256": "7370c4a9965222f8257bb64cc5cd9a58b2a52292cde2fc9e9288981345702743"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2994",
+   "path": "pravilnik/2011/2994",
+   "short": "Pravilnik o obrascu zahtjeva za odobravanje pravne pomoći, obrascu rješenja o odobravanju korištenja pravne pomoći i evidenciji izdanih rješenja o odobravanju korištenja pravne pomoći",
+   "title": "Pravilnik o obrascu zahtjeva za odobravanje pravne pomoći, obrascu rješenja o odobravanju korištenja pravne pomoći i evidenciji izdanih rješenja o odobravanju korištenja pravne pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2994",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_148_2994.html",
+     "sha256": "94ec253abe37e79ff2633fc5aef5c633685b544b738a64c15733465509a476ca"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2995",
+   "path": "pravilnik/2011/2995",
+   "short": "Pravilnik o kriterijima za vrednovanje projekata udruga ovlaštenih za pružanje primarne pravne pomoći i pravnih klinika te o načinu izvještavanja o izvršenju projekata",
+   "title": "Pravilnik o kriterijima za vrednovanje projekata udruga ovlaštenih za pružanje primarne pravne pomoći i pravnih klinika te o načinu izvještavanja o izvršenju projekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2995",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_148_2995.html",
+     "sha256": "4e00e7c4f89585488a79655f58083f203f8905c1a7cebeca875a32dfc97dc416"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2996",
+   "path": "pravilnik/2011/2996",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvoznim i izvoznim dozvolama za poljoprivredne proizvode",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvoznim i izvoznim dozvolama za poljoprivredne proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2996",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_148_2996.html",
+     "sha256": "e84fdee3cb7cfae08a31df33ba4278dc4b8d6215c23cbb9fb67ae143c03910e2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-2997",
+   "path": "pravilnik/2011/2997",
+   "short": "Pravilnik o izmjenama Pravilnika o izravnim plaćanjima u poljoprivredi, potporamka za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi",
+   "title": "Pravilnik o izmjenama Pravilnika o izravnim plaćanjima u poljoprivredi, potporamka za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/2997",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_148_2997.html",
+     "sha256": "b48003a2a5aa3a688f3cca386af2b3fa32983d1816cb84070ecc3a960ebcb314"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-300",
+   "path": "pravilnik/2011/300",
+   "short": "Pravilnik o obliku i sadržaju zadužnice",
+   "title": "Pravilnik o obliku i sadržaju zadužnice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/16/300",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_16_300.html",
+     "sha256": "47d4e532bc903a313c579a1ba2d41bb76e6aa6b71baefebc00ce9d7c5ab9666a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3003",
+   "path": "pravilnik/2011/3003",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru nad radom medicinskih sestara",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru nad radom medicinskih sestara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/148/3003",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_148_3003.html",
+     "sha256": "3e057c3edec1e7fb8d4b43664a00b9d481105cc2034fd82f7a3bab7552497f09"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-301",
+   "path": "pravilnik/2011/301",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obliku i sadržaju bjanko zadužnice",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obliku i sadržaju bjanko zadužnice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/16/301",
+   "versions": [
+    {
+     "from": "2011-02-04",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_16_301.html",
+     "sha256": "eabcfa26724a95b8d4aa8a44355c7bfab37751f9df3e8e7267cb59b0e94f0722"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-303",
+   "path": "pravilnik/2011/303",
+   "short": "Pravilnik o izmjenama Pravilnika o načinu utvrđivanja opće i posebne zdravstvene sposobnosti čuvara i zaštitara u privatnoj zaštiti",
+   "title": "Pravilnik o izmjenama Pravilnika o načinu utvrđivanja opće i posebne zdravstvene sposobnosti čuvara i zaštitara u privatnoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/16/303",
+   "versions": [
+    {
+     "from": "2011-02-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_16_303.html",
+     "sha256": "4b4881cd01803178fc44f67bba7269b39b71bd26878aa22edbfc5d6c34f86c8e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3060",
+   "path": "pravilnik/2011/3060",
+   "short": "Pravilnik o evidenciji uporabe poljoprivrednog zemljišta",
+   "title": "Pravilnik o evidenciji uporabe poljoprivrednog zemljišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/149/3060",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_149_3060.html",
+     "sha256": "f34e55c6310baad97fb0edf70bf7e24417aa61b97606cc160e0755caa10b8974"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3061",
+   "path": "pravilnik/2011/3061",
+   "short": "Pravilnik o izmjeni Pravilnika o akvakulturi",
+   "title": "Pravilnik o izmjeni Pravilnika o akvakulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/149/3061",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_149_3061.html",
+     "sha256": "6d6dd0b9927f5ec0b43be6571147c5fd2911b52f68ca98649365ab7502b691d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3062",
+   "path": "pravilnik/2011/3062",
+   "short": "Pravilnik o izmjeni Pravilnika o sadržaju diploma i dopunskih isprava u studiju",
+   "title": "Pravilnik o izmjeni Pravilnika o sadržaju diploma i dopunskih isprava u studiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/149/3062",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_149_3062.html",
+     "sha256": "31a5d7ac20fd3207bc93c175e9158cb8dbebed6a0c4ee6e3c116fcf4f31bcd66"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3142",
+   "path": "pravilnik/2011/3142",
+   "short": "Pravilnik o obrascima zahtjeva za novčane naknade i materijalnu pomoć, obrascu izjave o imovinskom stanju i poposu dokumentata o visini dohotka korisnika",
+   "title": "Pravilnik o obrascima zahtjeva za novčane naknade i materijalnu pomoć, obrascu izjave o imovinskom stanju i poposu dokumentata o visini dohotka korisnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/151/3142",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_151_3142.html",
+     "sha256": "93a9f92368ae82cffc6065793fd6d15963dbda1fc9419b6529feb6ddcff05c24"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3146",
+   "path": "pravilnik/2011/3146",
+   "short": "Pravilnik o izmjenama Pravilnika o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina",
+   "title": "Pravilnik o izmjenama Pravilnika o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/152/3146",
+   "versions": [
+    {
+     "from": "2011-12-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_152_3146.html",
+     "sha256": "f7d559c8cb66fa62adbf95ec4c2a60ae74bf147d3b6159ee9da078d1c16308c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3147",
+   "path": "pravilnik/2011/3147",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o pomoćnim tvarima u procesu proizvodnje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o pomoćnim tvarima u procesu proizvodnje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/152/3147",
+   "versions": [
+    {
+     "from": "2012-01-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_152_3147.html",
+     "sha256": "3ce0bc26ee5587e703f89ba544c1d09a87b4cd3b81004ed2a3b22d8be8957f5c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3151",
+   "path": "pravilnik/2011/3151",
+   "short": "Pravilnik o potvrdi i naknadi za pravo puta",
+   "title": "Pravilnik o potvrdi i naknadi za pravo puta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/152/3151",
+   "versions": [
+    {
+     "from": "2012-01-04",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_152_3151.html",
+     "sha256": "956d9b27809a5a6e3e4bf430e7beb4b4404d105327730bcf947b69500f115251"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3175",
+   "path": "pravilnik/2011/3175",
+   "short": "Pravilnik o ekološkoj proizvodnji u akvakulturi",
+   "title": "Pravilnik o ekološkoj proizvodnji u akvakulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3175",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3175.html",
+     "sha256": "afbe3c545ecd90aa912305c8d0ea197946b1359c303e2805e2ee0d427334d5c9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3176",
+   "path": "pravilnik/2011/3176",
+   "short": "Pravilnik o registraciji primarnih proizvođača hrane za životinje",
+   "title": "Pravilnik o registraciji primarnih proizvođača hrane za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3176",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3176.html",
+     "sha256": "8b7beed08d0e270c27ddc18aeb8e633582786e91dfe9f4049aec2f2fc4a7951d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3178",
+   "path": "pravilnik/2011/3178",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o mikrobiološkim kriterijima za hranu",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o mikrobiološkim kriterijima za hranu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3178",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3178.html",
+     "sha256": "bcda7f8ad7b35034897b8e75c1a1a134a0a33cb0d9fc6a570e44d4a70e700e39"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3179",
+   "path": "pravilnik/2011/3179",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati veterinarske organizacije, veterinarska praksa i veterinarska služba u sustavu provedbe veterinarske djelatnosti",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati veterinarske organizacije, veterinarska praksa i veterinarska služba u sustavu provedbe veterinarske djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3179",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3179.html",
+     "sha256": "13a28c6259f98030403b6c66119675ff98bfb06fd9d28bc818f831730eeadc85"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3182",
+   "path": "pravilnik/2011/3182",
+   "short": "Pravilnik o postupku objavljivanja natječaja i o odlučivanju o odabiru korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost",
+   "title": "Pravilnik o postupku objavljivanja natječaja i o odlučivanju o odabiru korisnika sredstava Fonda za zaštitu okoliša i energetsku učinkovitost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3182",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3182.html",
+     "sha256": "285491a442b27214d8ab648778513619c5bbdeb8b93df648dc918096df1d3945"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3183",
+   "path": "pravilnik/2011/3183",
+   "short": "Pravilnik o europskoj kartici zdravstvenog osiguranja",
+   "title": "Pravilnik o europskoj kartici zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3183",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3183.html",
+     "sha256": "b71814f2ff2574a90538a1383d2df30f44c06e60f8df800864de33b7fa8c0441"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3184",
+   "path": "pravilnik/2011/3184",
+   "short": "Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/153/3184",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_153_3184.html",
+     "sha256": "70167c66b14b4f8bded7ae291378c379e75846dc30516a41817e0e7015f5a461"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3219",
+   "path": "pravilnik/2011/3219",
+   "short": "Pravilnik o dopuni Pravilnika o tržišnim standardima za voće i povrće",
+   "title": "Pravilnik o dopuni Pravilnika o tržišnim standardima za voće i povrće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/154/3219",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_154_3219.html",
+     "sha256": "569ea5e87a88d3a88d1a91c00d30e73243375c2e0bb1d8a26c46116a21b35103"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-322",
+   "path": "pravilnik/2011/322",
+   "short": "Pravilnik o načinu i rokovima plaćanja sredstava iz prihoda jedinica lokalne i područne (regionalne) samouprave za rad ustrojstvenih oblika Hrvatskog Crvenog križa",
+   "title": "Pravilnik o načinu i rokovima plaćanja sredstava iz prihoda jedinica lokalne i područne (regionalne) samouprave za rad ustrojstvenih oblika Hrvatskog Crvenog križa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/18/322",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_18_322.html",
+     "sha256": "a5829d3912a180f22b6f9d0f44986899e351cbe3d82011371ff888c40bd37212"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3240",
+   "path": "pravilnik/2011/3240",
+   "short": "Pravilnik o izmjenama Pravilnika o vrednovanju imovine i obveza mirovinskog fonda",
+   "title": "Pravilnik o izmjenama Pravilnika o vrednovanju imovine i obveza mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/154/3240",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_154_3240.html",
+     "sha256": "80ac55d78eaacd6df73fad905d3db262ba52cdd7028e3a2f316e4e65987ee12d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-3241",
+   "path": "pravilnik/2011/3241",
+   "short": "Pravilnik o utvrđivanju vrijednosti imovine investicijskog fonda i izračunu neto vrijednosti imovine po udjelu ili po dionici investicijskog fonda",
+   "title": "Pravilnik o utvrđivanju vrijednosti imovine investicijskog fonda i izračunu neto vrijednosti imovine po udjelu ili po dionici investicijskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/154/3241",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_154_3241.html",
+     "sha256": "a86f0dcb8de6761a7803fb504d7e9864342a25c434dcfae7a79e8a5a3e64ccd7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-35",
+   "path": "pravilnik/2011/35",
+   "short": "Pravilnik o djelokrugu rada tajnika te administrativno-tehničkim i pomoćnim poslovima koji se obavljaju u srednjoškolskoj ustanovi",
+   "title": "Pravilnik o djelokrugu rada tajnika te administrativno-tehničkim i pomoćnim poslovima koji se obavljaju u srednjoškolskoj ustanovi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/2/35",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_2_35.html",
+     "sha256": "d30681b3937af9861fa3b3b9017eee83d2b778aa52b689f9ab329cfff97cc3f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-387",
+   "path": "pravilnik/2011/387",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske i državnih službenika i namještenika Ministarstva obrane u mirovnim operacijama i drugim aktivnostima u inozemstvu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske i državnih službenika i namještenika Ministarstva obrane u mirovnim operacijama i drugim aktivnostima u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/19/387",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_19_387.html",
+     "sha256": "7b23d7c5a6a7056bc396b709569d233c4b8d6469c0f3686f5cc82223d0561399"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-388",
+   "path": "pravilnik/2011/388",
+   "short": "Pravilnik o obavljanju djelatnosti u svezi sa zapošljavanjem",
+   "title": "Pravilnik o obavljanju djelatnosti u svezi sa zapošljavanjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/19/388",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_19_388.html",
+     "sha256": "ce464a8d0de7968a485f5de7fd2ae75bc3abaee32c5d47e833071e3bef1b3e04"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-397",
+   "path": "pravilnik/2011/397",
+   "short": "Pravilnik o obliku i sadržaju obrasca izvješća o imovini državnih odvjetnika i zamjenika državnih odvjetnika",
+   "title": "Pravilnik o obliku i sadržaju obrasca izvješća o imovini državnih odvjetnika i zamjenika državnih odvjetnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/19/397",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_19_397.html",
+     "sha256": "00acf909db61d5ff133eb4dc4b15464b4485686c08310d15a5379f2ca8904f77"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-399",
+   "path": "pravilnik/2011/399",
+   "short": "Pravilnik o unutarnjem ustrojstvu i načinu rada Tajništva i njegovih službi",
+   "title": "Pravilnik o unutarnjem ustrojstvu i načinu rada Tajništva i njegovih službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/19/399",
+   "versions": [
+    {
+     "from": "2011-01-28",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_19_399.html",
+     "sha256": "56fa5cdb85a8f8169ab88263c79ee55bbc9ed94ae65d73be6c8e65693d512e2d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-4",
+   "path": "pravilnik/2011/4",
+   "short": "Pravilnik o zdravstvenim pregledima vozača i kandidata za vozače",
+   "title": "Pravilnik o zdravstvenim pregledima vozača i kandidata za vozače",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/1/4",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_1_4.html",
+     "sha256": "c3318ba050b668a3195601d4e7a3ec30016b68bf768ddbf87bb7cb9b743d8dab"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-421",
+   "path": "pravilnik/2011/421",
+   "short": "Pravilnik o potporama turističkim zajednicama na turistički nerazvijenim područjima",
+   "title": "Pravilnik o potporama turističkim zajednicama na turistički nerazvijenim područjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/19/421",
+   "versions": [
+    {
+     "from": "2011-02-19",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_19_421.html",
+     "sha256": "ad115862e9aa817403fffa56edaf61597a546d750cd7a75b943f5ab1940bcd86"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-423",
+   "path": "pravilnik/2011/423",
+   "short": "Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Ministarstva pravosuđa Republike Hrvatske",
+   "title": "Pravilnik o kriterijima za određivanje stupnjeva tajnosti podataka Ministarstva pravosuđa Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/20/423",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_20_423.html",
+     "sha256": "105e1e071fd4fce2e40009806d88485093a939d60b44cad219c1c9d20cf2d7c1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-427",
+   "path": "pravilnik/2011/427",
+   "short": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti uzimanja uzoraka i ispitivanja voda",
+   "title": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti uzimanja uzoraka i ispitivanja voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/20/427",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_20_427.html",
+     "sha256": "ae9f8045a38069b80f368081afca8066d49da45c4c14d225b912eef6f0f3d77b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-441",
+   "path": "pravilnik/2011/441",
+   "short": "Pravilnik o farmakološki djelatnim tvarima i njihovoj klasifikaciji u odnosu na najveće dopuštene količine rezidua u hrani životinjskog podrijetla",
+   "title": "Pravilnik o farmakološki djelatnim tvarima i njihovoj klasifikaciji u odnosu na najveće dopuštene količine rezidua u hrani životinjskog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/21/441",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_21_441.html",
+     "sha256": "0c63b51dbf81485d6fed1d362584bf917be0d41bd317496a3fda2a9b75e970a7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-442",
+   "path": "pravilnik/2011/442",
+   "short": "Pravilnik o provedbi mjere potpore dohotku poljoprivrednih gospodarstava",
+   "title": "Pravilnik o provedbi mjere potpore dohotku poljoprivrednih gospodarstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/21/442",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_21_442.html",
+     "sha256": "8f013e1173ff6650a3c91d4e50dae18572a415d70469b6e4e679d2b657915138"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-449",
+   "path": "pravilnik/2011/449",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o informativnom prospektu zatvorenog mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o informativnom prospektu zatvorenog mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/21/449",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_21_449.html",
+     "sha256": "7789972ef61502d743a57dd864a09072a2ad5bacf8eee1a51502dc31077ffca9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-46",
+   "path": "pravilnik/2011/46",
+   "short": "Pravilnik o utvrđivanju rokova za osiguranje radnih, prostornih, tehničkih i drugih uvjeta u sjedištima županijskih i trgovačkih sudova nastalih spajanjem",
+   "title": "Pravilnik o utvrđivanju rokova za osiguranje radnih, prostornih, tehničkih i drugih uvjeta u sjedištima županijskih i trgovačkih sudova nastalih spajanjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/46",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_46.html",
+     "sha256": "2b5010712a0ddceba4382cc82f6b3c94084af63095e6a33e42580002c9f2c330"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-47",
+   "path": "pravilnik/2011/47",
+   "short": "Pravilnik o utvrđivanju rokova za osiguranje radnih, prostornih, tehničkih i drugih uvjeta u sjedištima županijskih državnih odvjetništava nastalih spajanjem",
+   "title": "Pravilnik o utvrđivanju rokova za osiguranje radnih, prostornih, tehničkih i drugih uvjeta u sjedištima županijskih državnih odvjetništava nastalih spajanjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/47",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_47.html",
+     "sha256": "1208043084bda753a4ff20597641dc7f515dec9304e45347876e954ac0ab6581"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-475",
+   "path": "pravilnik/2011/475",
+   "short": "Pravilnik o organiziranju, financiranju i donošenju programa festivala Splitsko ljeto",
+   "title": "Pravilnik o organiziranju, financiranju i donošenju programa festivala Splitsko ljeto",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/22/475",
+   "versions": [
+    {
+     "from": "2011-02-26",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_22_475.html",
+     "sha256": "fa5fcfadbab4bfe8db7ed7131feb18af9ed1feac351e709cb7840b3975f80533"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-482",
+   "path": "pravilnik/2011/482",
+   "short": "Pravilnik o elektromagnetskoj kompatibilnosti",
+   "title": "Pravilnik o elektromagnetskoj kompatibilnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/23/482",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_23_482.html",
+     "sha256": "87f643190c3613161f5b262373182f0bf6f6c46adabee916461c1ca4aee8ee61"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-483",
+   "path": "pravilnik/2011/483",
+   "short": "Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz izvora sredstava Hrvatskih cesta d.o.o. u 2011. godini",
+   "title": "Pravilnik o rasporedu sredstava za održavanje i građenje županijskih i lokalnih cesta iz izvora sredstava Hrvatskih cesta d.o.o. u 2011. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/23/483",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_23_483.html",
+     "sha256": "57821c2b6bc64acef1b4a8f8d472f9b43d1d5dd6be25fa3d1790529052ba2b6d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-485",
+   "path": "pravilnik/2011/485",
+   "short": "Pravilnik o izmjenama Pravilnika o tehničkim uvjetima kojima mora udovoljavati željeznički elektroenergetski infrastrukturni podsustav",
+   "title": "Pravilnik o izmjenama Pravilnika o tehničkim uvjetima kojima mora udovoljavati željeznički elektroenergetski infrastrukturni podsustav",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/23/485",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_23_485.html",
+     "sha256": "463bde10d1838df4ca6d82eaa9241892bb93843ca5c64448433da3621e155d7b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-486",
+   "path": "pravilnik/2011/486",
+   "short": "Pravilnik o izmjeni i dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva",
+   "title": "Pravilnik o izmjeni i dopunama Pravilnika o stručnom ispitu te upotpunjavanju i usavršavanju znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/23/486",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_23_486.html",
+     "sha256": "fae017c998adee93e93c079f6be24d12abab505099b777ab8af5cb89cea7de93"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-487",
+   "path": "pravilnik/2011/487",
+   "short": "Pravilnik o dopuni Pravilnika o produženju razdoblja stručnog usavršavanja znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva",
+   "title": "Pravilnik o dopuni Pravilnika o produženju razdoblja stručnog usavršavanja znanja osoba koje obavljaju poslove prostornog uređenja i graditeljstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/23/487",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_23_487.html",
+     "sha256": "a7dc34d5c7989ce4cf4e9f0f7f19e54b4c3ec3c1c04e58ddd3bff24de7a75956"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-488",
+   "path": "pravilnik/2011/488",
+   "short": "Pravilnik o načinu provedbe vanjskog vrednovanja i korištenju rezultata vanjskog vrednovanja školskih ustanova",
+   "title": "Pravilnik o načinu provedbe vanjskog vrednovanja i korištenju rezultata vanjskog vrednovanja školskih ustanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/23/488",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_23_488.html",
+     "sha256": "2dffa20323341237d6eca0b37960b3524a9e605fb5e7b849ba76220d8923e020"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-500",
+   "path": "pravilnik/2011/500",
+   "short": "Pravilnik o dopunama Pravilnika o voćnim vinima",
+   "title": "Pravilnik o dopunama Pravilnika o voćnim vinima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/24/500",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_24_500.html",
+     "sha256": "7d8a8b6863a99d63271fe650d46b6d43e871463ea058531fa53734bd6514c13e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-501",
+   "path": "pravilnik/2011/501",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/24/501",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_24_501.html",
+     "sha256": "5e981f79af86b43aaa7c81374a98d8d98869c727136c019039c672a566f5ad1e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-502",
+   "path": "pravilnik/2011/502",
+   "short": "Pravilnik o tehničkim zahtjevima za drvne ploče",
+   "title": "Pravilnik o tehničkim zahtjevima za drvne ploče",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/24/502",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_24_502.html",
+     "sha256": "40b195b612fb872f25383409a5f8f2ad78a0a3971331117d0501d8f6e96593bb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-504",
+   "path": "pravilnik/2011/504",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na najveću konstrukcijsku brzinu i platformu za teret TPV 302 (izdanje 01)",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na najveću konstrukcijsku brzinu i platformu za teret TPV 302 (izdanje 01)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/24/504",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_24_504.html",
+     "sha256": "097a7368556c98cf4a65f0e2d0ac1b377478c80d5cd14c5a12e07233ade5a5f9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-505",
+   "path": "pravilnik/2011/505",
+   "short": "Pravilnik o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na putnička sjedala TPV 308 (izdanje 01)",
+   "title": "Pravilnik o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na putnička sjedala TPV 308 (izdanje 01)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/24/505",
+   "versions": [
+    {
+     "from": "2011-03-03",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_24_505.html",
+     "sha256": "8019f37348c3e6e1014caec45871a590530b5bb735d7c94430e4cf369dfbe1bc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-51",
+   "path": "pravilnik/2011/51",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o akvakulturi",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o akvakulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/51",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_51.html",
+     "sha256": "04dd4971fd905e7e7b3f9f107c0de6eb56bb57cea63f29fa6f5ef880943ec9ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-517",
+   "path": "pravilnik/2011/517",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o doprinosima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o doprinosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/517",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_25_517.html",
+     "sha256": "2227ae9cf5d9ebcd7d6e9925ebcab244311f0fd3d14f07ef96166af02fe0549f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-518",
+   "path": "pravilnik/2011/518",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku prijeboja tražbine po osnovi prava na povrat isplaćene naknade plaće i prava na naknadu plaće s obvezom na osnovi duga za doprinose",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku prijeboja tražbine po osnovi prava na povrat isplaćene naknade plaće i prava na naknadu plaće s obvezom na osnovi duga za doprinose",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/518",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_25_518.html",
+     "sha256": "28badf0c497d5a2b4ca7ad9f27b1f1bd2d780151a796d65b459ddbd94461f000"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-52",
+   "path": "pravilnik/2011/52",
+   "short": "Pravilnik o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvoda ribarstva",
+   "title": "Pravilnik o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvoda ribarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/52",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_52.html",
+     "sha256": "ee456d9d7dff038875ed8e127f27c0845d42cecec3238f0027efecd0d50c4a0e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-523",
+   "path": "pravilnik/2011/523",
+   "short": "Pravilnik o izmjeni Pravilnika o stavljanju na tržište i korištenju hrane za životinje",
+   "title": "Pravilnik o izmjeni Pravilnika o stavljanju na tržište i korištenju hrane za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/523",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_25_523.html",
+     "sha256": "0c53221866aef19c3569817af573f90cfcc3d0898a7f500db043c2ad656152df"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-524",
+   "path": "pravilnik/2011/524",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o naknadama za poslove zdravstvene zaštite bilja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o naknadama za poslove zdravstvene zaštite bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/524",
+   "versions": [
+    {
+     "from": "2011-03-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_25_524.html",
+     "sha256": "6d10c4fa74b80dce6bb00718f7d2adf3df57316a7a0acd393d994f06294d80bf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-525",
+   "path": "pravilnik/2011/525",
+   "short": "Pravilnik o izmjenama Pravilnika o ribolovnim alatima i opremi za gospodarski ribolov na moru",
+   "title": "Pravilnik o izmjenama Pravilnika o ribolovnim alatima i opremi za gospodarski ribolov na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/525",
+   "versions": [
+    {
+     "from": "2011-02-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_25_525.html",
+     "sha256": "8b3208e8b9c8f0663c588b679cc3e791e268c1282780eb3de11dc83bbdfc8eac"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-53",
+   "path": "pravilnik/2011/53",
+   "short": "Pravilnik o tehničkim zahtjevima za građevine odvodnje otpadnih voda, kao i rokovima obvezne kontrole ispravnosti građevina odvodnje i pročišćavanja otpadnih voda",
+   "title": "Pravilnik o tehničkim zahtjevima za građevine odvodnje otpadnih voda, kao i rokovima obvezne kontrole ispravnosti građevina odvodnje i pročišćavanja otpadnih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/53",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_53.html",
+     "sha256": "a401bdfc4d8279ab3c7b869be92f2306ce24453e7961bc294452f722fafd4d2b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-54",
+   "path": "pravilnik/2011/54",
+   "short": "Pravilnik o sadržaju, postupku i metodologiji donošenja Strategije upravljanja vodama i Plana upravljanja vodnim područjima, načinu konzultiranja i informiranja javnosti i sastavu Savjeta vodnog područja",
+   "title": "Pravilnik o sadržaju, postupku i metodologiji donošenja Strategije upravljanja vodama i Plana upravljanja vodnim područjima, načinu konzultiranja i informiranja javnosti i sastavu Savjeta vodnog područja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/54",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_54.html",
+     "sha256": "ce0827ee6b66c3b25cee1a54a4317e796cdb0fbd9d1c06766b5d7ef3f6f93d0c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-553",
+   "path": "pravilnik/2011/553",
+   "short": "Pravilnik o ulovu, uzgoju i prometu tune (Tunnus thynnus), igluna (Xiphias gladius) i iglana (tetrapturus belone)",
+   "title": "Pravilnik o ulovu, uzgoju i prometu tune (Tunnus thynnus), igluna (Xiphias gladius) i iglana (tetrapturus belone)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/26/553",
+   "versions": [
+    {
+     "from": "2011-03-02",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_26_553.html",
+     "sha256": "88c2fb6bcc7672695d950f251153bee1af4f59011d182e68762b1870215e1238"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-554",
+   "path": "pravilnik/2011/554",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o maksimalnim razinama ostataka pesticida u i na hrani i hrani za životinje biljnog i životinjskog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/26/554",
+   "versions": [
+    {
+     "from": "2011-03-02",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_26_554.html",
+     "sha256": "d89585d90bb5cf13c3a0a7ccf6c490368280b43d78202970a986446b5be3b21c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-555",
+   "path": "pravilnik/2011/555",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vinskom i voćnom octu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vinskom i voćnom octu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/26/555",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_26_555.html",
+     "sha256": "cc01184e2f696a955b872d86a11ade4cb91e2cf5a4464b0983b9bcf50f647147"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-562",
+   "path": "pravilnik/2011/562",
+   "short": "Pravilnik o katalogu krmiva",
+   "title": "Pravilnik o katalogu krmiva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/27/562",
+   "versions": [
+    {
+     "from": "2011-06-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_27_562.html",
+     "sha256": "9caa9a86507ad5fdbc7b199eb80640ce86369b20f659c4e1452c4508773c5a46"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-563",
+   "path": "pravilnik/2011/563",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o voćnim sokovima i njima srodnim proizvodima namijenjenim za konzumaciju",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o voćnim sokovima i njima srodnim proizvodima namijenjenim za konzumaciju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/27/563",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_27_563.html",
+     "sha256": "04c456cb68512e4fdd1687995a5484e8371138efcdc3ea362ead123fa20977b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-577",
+   "path": "pravilnik/2011/577",
+   "short": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka i metodama kemijskih i fizikalnih analiza radi kontrole kvalitete octa i razblažene octene kiseline",
+   "title": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka i metodama kemijskih i fizikalnih analiza radi kontrole kvalitete octa i razblažene octene kiseline",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/577",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_577.html",
+     "sha256": "41d5cbaad1594a59863ce52788dcbfaf2174c0d7164f697d15aacd2f102e1338"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-578",
+   "path": "pravilnik/2011/578",
+   "short": "Pravilnik o prestanku važenja Pravilnika o metodama ispitivanja kvalitete jaja i proizvoda od jaja",
+   "title": "Pravilnik o prestanku važenja Pravilnika o metodama ispitivanja kvalitete jaja i proizvoda od jaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/578",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_578.html",
+     "sha256": "812909e919b3f1ff1331ec6a5cd9ef196b4296c02c4c1229a3a1dfc41fb57c97"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-579",
+   "path": "pravilnik/2011/579",
+   "short": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka i metodama i fizikalnih i kemijskih analiza za kontrolu kvalitete žita, mlinskih i pekarskih proizvoda, tjestenina i brzo smrznutih tijesta",
+   "title": "Pravilnik o prestanku važenja Pravilnika o metodama uzimanja uzoraka i metodama i fizikalnih i kemijskih analiza za kontrolu kvalitete žita, mlinskih i pekarskih proizvoda, tjestenina i brzo smrznutih tijesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/579",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_579.html",
+     "sha256": "c59e1989cb332934522cd64abe339a71f62f829535cb2c080ec133926847e11f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-580",
+   "path": "pravilnik/2011/580",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o jestivim kazeinima i kazeinatima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o jestivim kazeinima i kazeinatima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/580",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_580.html",
+     "sha256": "5ad48defc618e59d5930ce3c9ed97fb7706a06a553d192e22ec056df9e788023"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-581",
+   "path": "pravilnik/2011/581",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o voćnim vinima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o voćnim vinima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/581",
+   "versions": [
+    {
+     "from": "2011-03-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_581.html",
+     "sha256": "5ffe5f50b913afca3475b54f81eae2df101e1be6c629d53a7f1b6cfcb24636d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-582",
+   "path": "pravilnik/2011/582",
+   "short": "Pravilnik o specijalističkom usavršavanju medicinskih sestara - medicinskih tehničara u djelatnosti hitne medicinske pomoći",
+   "title": "Pravilnik o specijalističkom usavršavanju medicinskih sestara - medicinskih tehničara u djelatnosti hitne medicinske pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/582",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_582.html",
+     "sha256": "292a019a96f8bb5fb7bb676149a398bbccdcfe50dcaabadaee90dd24af8e9069"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-583",
+   "path": "pravilnik/2011/583",
+   "short": "Pravilnik o iskaznici i znački sanitarnog inspektora",
+   "title": "Pravilnik o iskaznici i znački sanitarnog inspektora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/583",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_583.html",
+     "sha256": "c03b33bc48ccde98134fa96262999853c00bf15b9587ddc584e6c76bfcdb75cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-584",
+   "path": "pravilnik/2011/584",
+   "short": "Pravilnik o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci",
+   "title": "Pravilnik o uvjetima i načinu stjecanja stručnih zvanja u knjižničarskoj struci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/584",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_584.html",
+     "sha256": "1d78b76978ea1abe13665c3322d9e7481ad64d19c02e9419b9232de608c5b16e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-585",
+   "path": "pravilnik/2011/585",
+   "short": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti javne vodoopskrbe",
+   "title": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti javne vodoopskrbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/585",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_585.html",
+     "sha256": "61c6299334e4c6a6c5ac07b2722f5173632bfa9ff483a4b645b3eac546ce81b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-586",
+   "path": "pravilnik/2011/586",
+   "short": "Pravilnik o posebnim uvjetima za obavljanje javne odvodnje",
+   "title": "Pravilnik o posebnim uvjetima za obavljanje javne odvodnje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/586",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_586.html",
+     "sha256": "582ee2ed380199af57d0eefebcdfc0e1c51c27f81f1f29f9af65002b9256737f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-587",
+   "path": "pravilnik/2011/587",
+   "short": "Pravilnik o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na priključna vratila TPV 318 (izdanje 01)",
+   "title": "Pravilnik o postupku homologacije traktora za poljoprivredu i šumarstvo s obzirom na priključna vratila TPV 318 (izdanje 01)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/587",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_587.html",
+     "sha256": "f84ca6b82130b601dc1d8f4e00f5586726a7ba7358cd95c0017c9e49a49e4681"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-588",
+   "path": "pravilnik/2011/588",
+   "short": "Pravilnik o službenoj iskaznici i znački inspektora za radiološku i nuklearnu sigurnost",
+   "title": "Pravilnik o službenoj iskaznici i znački inspektora za radiološku i nuklearnu sigurnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/28/588",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_28_588.html",
+     "sha256": "f0b516960ca246ea10feacaaf85f1fb1e370d34ed13d75f6ba9b668ad3811136"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-6",
+   "path": "pravilnik/2011/6",
+   "short": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti ispitivanja vodonepropusnosti građevina za odvodnju i pročišćavanje otpadnih voda",
+   "title": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti ispitivanja vodonepropusnosti građevina za odvodnju i pročišćavanje otpadnih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/1/6",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_1_6.html",
+     "sha256": "48fa7888b9e4c6aec331ddc8011f35fd1a02472fde1bba6841cd250d070de9e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-627",
+   "path": "pravilnik/2011/627",
+   "short": "Pravilnik o uvjetima i načinu izdavanja, produžavanja i obnavljanja dozvola i ovlaštenja pomoćnom zrakoplovnom osoblju koje obavlja poslove upravljanja i održavanja ATM opreme odobrene za operativno korištenje",
+   "title": "Pravilnik o uvjetima i načinu izdavanja, produžavanja i obnavljanja dozvola i ovlaštenja pomoćnom zrakoplovnom osoblju koje obavlja poslove upravljanja i održavanja ATM opreme odobrene za operativno korištenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/29/627",
+   "versions": [
+    {
+     "from": "2011-03-17",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_29_627.html",
+     "sha256": "5bd42636ddfcd4c6af7553f0e1de7502ca75df06c343bc06ff272178d492467b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-63",
+   "path": "pravilnik/2011/63",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru nad radom medicinskih sestara",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o stručnom nadzoru nad radom medicinskih sestara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/3/63",
+   "versions": [
+    {
+     "from": "2011-01-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_3_63.html",
+     "sha256": "403565e20ad8545201fe7fb85a59e3e7747ead8b1147aac64ca0f841e94e9b4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-651",
+   "path": "pravilnik/2011/651",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište reprodukcijskog sadnog materijala i sadnica namijenjenih za proizvodnju voća",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište reprodukcijskog sadnog materijala i sadnica namijenjenih za proizvodnju voća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/651",
+   "versions": [
+    {
+     "from": "2011-03-19",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_651.html",
+     "sha256": "e38b0b10f38a68e1f1751bfc18867e6e2b6084e4892beede65dbdac07efba08b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-652",
+   "path": "pravilnik/2011/652",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupku stručnog nadzora i nadzora pod stručnom kontrolom nad proizvodnjom poljoprivrednog reprodukcijskog materijala",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupku stručnog nadzora i nadzora pod stručnom kontrolom nad proizvodnjom poljoprivrednog reprodukcijskog materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/652",
+   "versions": [
+    {
+     "from": "2011-03-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_652.html",
+     "sha256": "bf2f9a164afdcc5bd5b9e75c40dc69d1aa038f9f5d59ded37a20401e1f25e6df"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-653",
+   "path": "pravilnik/2011/653",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište materijala za vegetativno umnažanje loze",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stavljanju na tržište materijala za vegetativno umnažanje loze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/653",
+   "versions": [
+    {
+     "from": "2011-03-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_653.html",
+     "sha256": "0ef7e5518b3595bfa7ac321e917b1da1c9dfefe00c50e8bf1128230f449c77ab"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-654",
+   "path": "pravilnik/2011/654",
+   "short": "Pravilnik o kriterijima za ustrojavanje radnih mjesta savjetnika za informacijsku sigurnost",
+   "title": "Pravilnik o kriterijima za ustrojavanje radnih mjesta savjetnika za informacijsku sigurnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/654",
+   "versions": [
+    {
+     "from": "2011-03-19",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_654.html",
+     "sha256": "3464b67ea9b9fe81a45f1ac96b45d5eaa5fa21a99f9132783282324343ba29e3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-655",
+   "path": "pravilnik/2011/655",
+   "short": "Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje mjerila toplinske energija",
+   "title": "Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje mjerila toplinske energija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/655",
+   "versions": [
+    {
+     "from": "2011-03-19",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_655.html",
+     "sha256": "5eb4e889e711f6b614b3c3a8e1b6fb8bba6ec37864c87e02a43824d953426519"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-66",
+   "path": "pravilnik/2011/66",
+   "short": "Pravilnik o dopuni Pravilnika o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu i akvakulturi",
+   "title": "Pravilnik o dopuni Pravilnika o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu i akvakulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/66",
+   "versions": [
+    {
+     "from": "2011-01-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_66.html",
+     "sha256": "6b0998f3a7f9160b2e6e67236f51e0a84e1af49d4c94bc8f493fadeca1c0905b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-67",
+   "path": "pravilnik/2011/67",
+   "short": "Pravilnik o načinu izrade i sadržaju Programa gospodarenja šumskim sjemenskim objektom u kategoriji \"kvalificiran\" ili \"testiran\"",
+   "title": "Pravilnik o načinu izrade i sadržaju Programa gospodarenja šumskim sjemenskim objektom u kategoriji \"kvalificiran\" ili \"testiran\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/67",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_67.html",
+     "sha256": "c94ff03155d44adf39fff706c831dd1056a802874b9c1190d0db0be00b97d753"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-672",
+   "path": "pravilnik/2011/672",
+   "short": "Pravilnik o nadzornim izvještajima za pravne osobe ovlaštene za pružanje investicijskih usluga i obavljanje investicijskih aktivnosti",
+   "title": "Pravilnik o nadzornim izvještajima za pravne osobe ovlaštene za pružanje investicijskih usluga i obavljanje investicijskih aktivnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/30/672",
+   "versions": [
+    {
+     "from": "2011-03-11",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_30_672.html",
+     "sha256": "202de1d4adf8fb23ad7d118d004e73ceb23d3aa5c75a152bb032ef3691025326"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-68",
+   "path": "pravilnik/2011/68",
+   "short": "Pravilnik o uvjetima i načinu upisa u Upisnik dobavljača šumskog reprodukcijskog materijala",
+   "title": "Pravilnik o uvjetima i načinu upisa u Upisnik dobavljača šumskog reprodukcijskog materijala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/68",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_68.html",
+     "sha256": "e4db1ef2efbcfb8a32e072a2cdf270d8cd0aa04ce6efa5550510517c1c5524f0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-69",
+   "path": "pravilnik/2011/69",
+   "short": "Pravilnik o načinu rada i zadaćama Povjerenstva za šumski reprodukcijski materijal",
+   "title": "Pravilnik o načinu rada i zadaćama Povjerenstva za šumski reprodukcijski materijal",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/69",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_69.html",
+     "sha256": "c0e5441a289a53a5d9902a435715d179594822d435a2a72ef71ba70f7019021e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-692",
+   "path": "pravilnik/2011/692",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o postupanju s primanjima i naknadama izuzetim od ovrhe",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o postupanju s primanjima i naknadama izuzetim od ovrhe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/692",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_692.html",
+     "sha256": "b3fd014431abc9fabbd207b7889c9c4411feb512dbb49c12806a1237345ef1fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-693",
+   "path": "pravilnik/2011/693",
+   "short": "Pravilnik o suradnji Obalne straže s tijelima nadležnima za morsko ribarstvo",
+   "title": "Pravilnik o suradnji Obalne straže s tijelima nadležnima za morsko ribarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/693",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_693.html",
+     "sha256": "18c763dad2338e35ae90cea734b5efe35ec18e7998b8020ac0ac6a89e9e4b986"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-699",
+   "path": "pravilnik/2011/699",
+   "short": "Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti i zaštićenim oznakama zemljopisnog podrijetla, tradicionalnim izrazima i označavanju vina",
+   "title": "Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti i zaštićenim oznakama zemljopisnog podrijetla, tradicionalnim izrazima i označavanju vina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/699",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_699.html",
+     "sha256": "f344d90115d9be036c32ce0237bc53e6de33b6451f9b4b957f2f0181289a32d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-7",
+   "path": "pravilnik/2011/7",
+   "short": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti sprečavanja širenja i otklanjanja posljedica izvanrednih i iznenadnih onečišćenja voda i vodnoga dobra",
+   "title": "Pravilnik o posebnim uvjetima za obavljanje djelatnosti sprečavanja širenja i otklanjanja posljedica izvanrednih i iznenadnih onečišćenja voda i vodnoga dobra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/1/7",
+   "versions": [
+    {
+     "from": "2011-01-11",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_1_7.html",
+     "sha256": "c9978318fb927c6f0b74f22fee881816c8f10d8f3c17121f865288c691f1ac10"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-70",
+   "path": "pravilnik/2011/70",
+   "short": "Pravilnik o obliku, sadržaju i načinu vođenja Registra šumskih sjemenskih objekata",
+   "title": "Pravilnik o obliku, sadržaju i načinu vođenja Registra šumskih sjemenskih objekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/70",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_70.html",
+     "sha256": "6ac9312dd6c5cb6d33b6682864eef19146d662f16128bef5aae62f52a28f314b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-702",
+   "path": "pravilnik/2011/702",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/702",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_702.html",
+     "sha256": "787d87960a32dbabbead9b8bc109d855df7f92c5deac7a5963416e153ad8da82"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-704",
+   "path": "pravilnik/2011/704",
+   "short": "Pravilnik o akreditacijskim standardima za bolničke zdravstvene ustanove",
+   "title": "Pravilnik o akreditacijskim standardima za bolničke zdravstvene ustanove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/704",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_704.html",
+     "sha256": "fcdd1b7b3da4c5ed735221c9d0db0a4aa41e1991c51f12fc2cd93a3e7462b3c2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-707",
+   "path": "pravilnik/2011/707",
+   "short": "Pravilnik o dopunama Pravilnika o popisu postojećih aktivnih tvari koje nisu dopuštene u biocidnim pripravcima",
+   "title": "Pravilnik o dopunama Pravilnika o popisu postojećih aktivnih tvari koje nisu dopuštene u biocidnim pripravcima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/707",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_707.html",
+     "sha256": "f7996f1718b337dbfb5b4d62d1ae536f7cae4af73bc916f5ac60d0c19f4e07fb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-71",
+   "path": "pravilnik/2011/71",
+   "short": "Pravilnik o provođenju ocjenjivanja potencijalnih šumskih sjemenskih objekata i stručnog nadzora",
+   "title": "Pravilnik o provođenju ocjenjivanja potencijalnih šumskih sjemenskih objekata i stručnog nadzora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/71",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_71.html",
+     "sha256": "2494ae1ef15f9d3279d43a13685360479c65876810d8695d3e09680abc69a053"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-711",
+   "path": "pravilnik/2011/711",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu isplate novčanih primanja i drugih troškova",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu isplate novčanih primanja i drugih troškova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/711",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_711.html",
+     "sha256": "09664a3041c44dd487819754f4b591a02d8a994cba0b91500f1ee329c63d0fde"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-712",
+   "path": "pravilnik/2011/712",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/31/712",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_31_712.html",
+     "sha256": "eab122c81603ede68a0188fc2c0625bcc4a10de6f571c0a96fc78eecc752a035"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-72",
+   "path": "pravilnik/2011/72",
+   "short": "Pravilnik o sadržaju, obliku i troškovima izdavanja glavne svjedodžbe",
+   "title": "Pravilnik o sadržaju, obliku i troškovima izdavanja glavne svjedodžbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/72",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_72.html",
+     "sha256": "1c839cc55773111f4d73f08c423be9ad962d78ea85abee2961687ded429e1ea8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-721",
+   "path": "pravilnik/2011/721",
+   "short": "Pravilnik o financijskom izvještavanju u proračunskom računovodstvu",
+   "title": "Pravilnik o financijskom izvještavanju u proračunskom računovodstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/32/721",
+   "versions": [
+    {
+     "from": "2011-03-26",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_32_721.html",
+     "sha256": "56e38fd0935b7f407c24fc7e3939e7b37b82a818a8a676ca227ea7307292e140"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-724",
+   "path": "pravilnik/2011/724",
+   "short": "Pravilnik o utvrđivanju zahtjeva za primjenu protokola za prijenos poruka o letu u svrhu obavješćivanja, koordinacije i prijenosa letova između jedinica kontrole zračnog prometa",
+   "title": "Pravilnik o utvrđivanju zahtjeva za primjenu protokola za prijenos poruka o letu u svrhu obavješćivanja, koordinacije i prijenosa letova između jedinica kontrole zračnog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/32/724",
+   "versions": [
+    {
+     "from": "2011-03-26",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_32_724.html",
+     "sha256": "f1dc8f89d7eb42df82ca176ff4092a37aa247138eaad90e6f80cca42adf8183f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-73",
+   "path": "pravilnik/2011/73",
+   "short": "Pravilnik o izmjeni Pravilnika o vrsti šumarskih radova, minimalnim uvjetima za njihovo izvođenje te radovima koje šumoposjednici mogu izvoditi samostalno",
+   "title": "Pravilnik o izmjeni Pravilnika o vrsti šumarskih radova, minimalnim uvjetima za njihovo izvođenje te radovima koje šumoposjednici mogu izvoditi samostalno",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/4/73",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_01_4_73.html",
+     "sha256": "f64d469562e77006dd7766c8524135d6f079a3f2b80d97f6f93d0fb9a74cc503"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-730",
+   "path": "pravilnik/2011/730",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-medicinskim proizvodima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o veterinarsko-medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/32/730",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_32_730.html",
+     "sha256": "89c36efccf5a722d6769791fe14f885e190a089cdedb6cc367bd3e9fa38a0d4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-731",
+   "path": "pravilnik/2011/731",
+   "short": "Pravilnik o izmjenama Pravilnika o označavanju vina oznakom zemljopisnog podrijetla",
+   "title": "Pravilnik o izmjenama Pravilnika o označavanju vina oznakom zemljopisnog podrijetla",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/32/731",
+   "versions": [
+    {
+     "from": "2011-03-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_32_731.html",
+     "sha256": "17bd1c9a14893824dd92532b06a1322b6e2cdbb15db30625b08fb8f3475877da"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-788",
+   "path": "pravilnik/2011/788",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima za izvođenje operacija zrakoplovima i o organizacijskim zahtjevima kojima moraju udovoljavati operatori zrakoplova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o zahtjevima za izvođenje operacija zrakoplovima i o organizacijskim zahtjevima kojima moraju udovoljavati operatori zrakoplova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/788",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_34_788.html",
+     "sha256": "183cf6bc277e88e460846bbde3a9dfbcaaea48d56bd1a5ffe69a25a67f21b4ec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-794",
+   "path": "pravilnik/2011/794",
+   "short": "Pravilnik o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovanih i srednjih škola za školsku godinu 2011./2012.",
+   "title": "Pravilnik o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovanih i srednjih škola za školsku godinu 2011./2012.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/34/794",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_34_794.html",
+     "sha256": "45a21deee6df4ff364f7e967a205ef861282691a42e4bf7488c41f9433c0e7b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2011-803",
+   "path": "pravilnik/2011/803",
+   "short": "Pravilnik o dopunama Pravilnika o stjecanju statusa povlaštenog proizvođača električne energije",
+   "title": "Pravilnik o dopunama Pravilnika o stjecanju statusa povlaštenog proizvođača električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/35/803",
+   "versions": [
+    {
+     "from": "2011-03-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_03_35_803.html",
+     "sha256": "4b420ed76971f8ded052c7ed73a250d3de0881ca93e9ff083733151c92fab9f1"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2012-1673",
    "path": "naputak/2012/1673",
    "short": "Naputak o otkrivanju, postupanju i izvješćivanju o nepravilnostima u upravljanju sredstvima proračuna, proračunskih i izvanproračunskih korisnika",
