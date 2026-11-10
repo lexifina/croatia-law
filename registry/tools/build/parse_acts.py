@@ -18,12 +18,19 @@ printed in Narodne novine. Its one version takes effect on the day its own entry
 snagu danom objave", "osmoga dana od dana objave", a calendar date, "danom donošenja"); there is no default day
 (Ustav čl. 90: a law takes effect at the earliest on the eighth day after publication unless it says otherwise).
 
-An act is held back (written to the report with the reason) when:
-- a later document's ELI metadata says it amends, changes, corrects or repeals it;
+An act is published as enacted and labelled (2026-11-09, romania-law's standard; before, it was held back), with the
+documents listed in amended_by / cited_by, when:
+- a later document's ELI metadata (or the act page's list of incoming relations) says it amends, changes, corrects or
+  repeals it;
 - a later document's title names it as amended, supplemented, corrected or repealed, or a later act of the same kind
-  has the same title (a replacement);
+  has the same title (a replacement); a later title that only holds its words counts when that document's text cites
+  the act's own number (or cites nothing);
 - a later text cites it by name and Narodne novine number with a later number after its own (an amended text), or
-  next to wording that changes or repeals it;
+  next to wording that changes or repeals it (the sentence read: a repeal or an amendment of it, else a citation).
+Label: "repealed, not consolidated" (a repeal), else "amended, not consolidated", else "replaced, not consolidated",
+else "cited later, not consolidated". An amending act is not changed by a later act of the same title or by a
+citation. A page published before the act never counts against it (an ELI metadata slip).
+An act is held back (written to the report with the reason) when:
 - not every later document has been read yet (the check above can't be complete); a page that could change acts but
   whose text Narodne novine has not put up yet (a new issue's pages first come without it) counts as not read while it
   is from the last --pending-days (7) days of the index;
@@ -48,7 +55,7 @@ import html
 import json
 import os
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -433,8 +440,11 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", required=True)
     ap.add_argument("--retrieved", required=True, help="the day the inputs were retrieved (YYYY-MM-DD)")
+    ap.add_argument("--on-main", help="registry/data/acts.json of the published repository (acts already published)")
     ap.add_argument("--exclude", help="data/zakoni.json of the published repository: laws already there are skipped")
     ap.add_argument("--report")
+    ap.add_argument("--excluded-report", help="JSON: for each act --exclude names (zakoni/), the label and the documents "
+                                              "that change it, by the same rules (when its year is read)")
     ap.add_argument("--rejects", help="JSON {slug: reason}: acts held back by hand")
     ap.add_argument("--cache", help="a file to keep each page's reading in between runs (same output, faster)")
     ap.add_argument("--frontier", choices=["all", "amenders"], default="all",
@@ -470,6 +480,12 @@ def main():
         if r.get("year") and r.get("doc"):
             index.setdefault(r["href"], r)
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
+    on_main = set()
+    if a.on_main and Path(a.on_main).exists():
+        on_main = {x["slug"] for x in json.loads(Path(a.on_main).read_text(encoding="utf-8"))["acts"]}
+    PERSONAL_MORE = re.compile(r"\bo\s+postavljanju\b|\bo\s+opozivu\b|\bo\s+(?:razrješenju|izboru|imenovanju)\b.*\b(?:"
+                               r"potpredsjedni\w*|predsjedni\w*|član\w*|suca|sudaca|sutkinj\w*|zamjeni\w*|ravnatelj\w*)\b|"
+                               r"\bo\s+izboru\s+(?:\w+\s+){0,2}(?:suca|sudaca|članova|člana)\b", re.I)
     excluded = set()
     if a.exclude and Path(a.exclude).exists():
         for z in json.loads(Path(a.exclude).read_text(encoding="utf-8")):
@@ -679,7 +695,175 @@ def main():
         return latest_unread < since
 
     repealed: dict[str, tuple] = {}  # slug -> repeal_day(): acts that get an empty version on their repeal day
+    marks: dict[str, dict] = {}  # slug -> {label, amended_by, cited_by}: acts published as enacted, labelled
+    excluded_ev: list[dict] = []  # acts published by the other builder (zakoni/): the same evidence, for their status
     consolidated = re.compile(r"(?:\(|-)\s*pročišćen\w*\s+tek\w*\s*\)?\s*$|^pročišćeni\s+tekst\b", re.I)
+    href_of_eli = lambda u: by_eli.get(eli_url(u))  # noqa: E731
+
+    def ref_of(src: str | None, url: str = "") -> dict:
+        if src and src in index:
+            rr = index[src]
+            return {"ref": f"nn:{rr['year']}/{rr['issue']}/{rr['doc']}", "title": f"{norm(rr['title'])} (NN {rr['issue']}/{rr['year']})",
+                    "url": eli_of(rr), "date": rr["date"]}
+        m = re.search(r"/eli/sluzbeni/(\d{4})/(\w+)/(\w+)", url)
+        return {"ref": f"nn:{m.group(1)}/{m.group(2)}/{m.group(3)}" if m else url, "title": "", "url": eli_url(url),
+                "date": ""}
+
+    HOW = {"amends": "amend", "changes": "amend", "amended_by": "amend", "changed_by": "amend", "corrects": "amend",
+           "corrected_by": "amend", "repeals": "repeal", "repealed_by": "repeal", "consolidates": "consolidated",
+           "consolidated_by": "consolidated"}
+
+    def title_how(x: str) -> str:
+        t = index[x]["title"]
+        if REPEAL_TITLE.search(t) and not re.search(r"izmjen|dopun", t, re.I):
+            return "repeal"
+        return "amend"
+
+    def evidence(h, r, kind, title, counts, rep, li) -> list[tuple[str, str | None, str]]:
+        """2026-11-09 (Romania standard): every later document that changes, repeals, replaces or cites the act, as
+        (how, document href or None, ELI url): the same rules that held an act back, now collected in full. An
+        amending act is not changed by a later act of the same title (another amendment of the same act) or by being
+        cited (as one that made a change)."""
+        ev = []
+        day = r["date"]
+        amending = bool(CHANGE_TITLE.search(title))
+        for x in li:
+            prop, _, url = x.partition(":")
+            src = href_of_eli(url)
+            if rep and src == rep and prop == "repealed_by":
+                continue
+            ev.append((HOW.get(prop, "amend"), src, url))
+        for lab, src in sorted(incoming.get(h, ())):
+            if not counts(src, h) or (src == rep and lab.startswith("repeals:")):
+                continue
+            if pub_day.get(src, "") < day:  # a page published before the act cannot change it (a metadata slip)
+                continue
+            ev.append((HOW.get(lab.split(":")[0], "amend"), src, eli_of(index[src])))
+        rep_named = rep if rep and REPEAL_TITLE.search(index[rep]["title"]) else None
+        k, s = subj(title)
+        own = issue_key(r["issue"], r["year"])
+
+        def about_it(x: str) -> bool:
+            """A later title that holds the act's words (not its exact name) counts only when that document's text
+            cites the act's own Narodne novine number, or cites no act at all (then it can't be told apart)."""
+            fx = facts.get(x) or {}
+            nums = {(c[2], c[3], c[4]) for c in fx.get("cites", [])}
+            return not nums or own in nums
+        if k:
+            # several acts of this kind share the exact name (a replaced act): a title naming it counts for the one
+            # its text cites
+            shared = len(same_title.get((k, s), [])) > 1
+            for d, x in titles_named.get((k, s), []):
+                if x != h and d >= day and x != rep_named and (not shared or about_it(x)):
+                    ev.append((title_how(x), x, eli_of(index[x])))
+            if not amending:
+                for d, x in same_title.get((k, s), []):
+                    if x != h and d >= day and x != rep:
+                        # an official consolidated text of it (pročišćeni tekst): amended, and the text exists
+                        if consolidated.search(index[x]["title"]):
+                            ev.append(("consolidated", x, eli_of(index[x])))
+                        # a later act of the same name replaces it, unless its text cites another act of this name
+                        # and not this one (then it is about that one)
+                        else:
+                            same = {(c[2], c[3], c[4]) for c in (facts.get(x) or {}).get("cites", [])
+                                    if c[0] == k and core(c[1]) == core(s)}
+                            if not same or own in same:
+                                ev.append(("replace", x, eli_of(index[x])))
+        if len(cores[h]) >= 2 and not amending:
+            for d, x in named_core.get(cores[h], []):
+                if x != h and d >= day and x != rep_named and about_it(x):
+                    ev.append((title_how(x), x, eli_of(index[x])))
+        for x in overlapping_later(h):
+            if x != rep and about_it(x):
+                how = title_how(x) if CHANGE_TITLE.search(index[x]["title"]) else "replace"
+                if not (amending and how == "replace"):
+                    ev.append((how, x, eli_of(index[x])))
+        if not amending:
+            only_one = kind_in_issue[own].get(kind, 0) == 1
+            for ck, cs, who, after, verb in cites.get(own, []):
+                if who == h or who == rep or ck != kind or pub_day.get(who, "") < r["date"] or not counts(who, h):
+                    continue
+                # Narodne novine numbers name an issue, not a document: with several acts of this kind in the issue,
+                # the cited name must be this act's whole name (up to case endings), not just its first 60 characters
+                if only_one or (k and same_subject(cs, s) and core(cs) == core(s)):
+                    if after or verb:
+                        ev.append((cite_how(who, own, kind, core(s)), who, eli_of(index[who])))
+        out = []
+        for how, src, url in ev:
+            st = index[src]["title"] if src in index else ""
+            # a Constitutional Court decision annuls provisions: the act is changed, not repealed as a whole
+            if re.search(r"Ustavnog\s+suda", st) and how == "repeal":
+                how = "amend"
+            # a regulation or decision cannot repeal or amend a law: such a link (ELI metadata) is not counted
+            if kind == "zakon" and src in index and KINDS.get(index[src].get("kind", "")) not in (None, "zakon") \
+                    and not re.search(r"Ustavnog\s+suda", st):
+                continue
+            out.append((how, src, url))
+        return out
+
+    sent_cache: dict[str, list[str]] = {}
+    NOMINATIVE = {"zakon": r"Zakon|Zakonik|Kodeks", "uredba": "Uredba", "pravilnik": "Pravilnik", "odluka": "Odluka",
+                  "naredba": "Naredba", "naputak": "Naputak", "uputa": "Uputa", "statut": "Statut"}
+
+    def cite_how(who: str, own: tuple, kind: str, words: frozenset | None = None) -> str:
+        """What a citing text does to the act: "repeal" when one of its sentences ends the act ("prestaje važiti",
+        "stavlja se izvan snage") citing its own number and naming no part of it; "amend" when a sentence opens on
+        the act ("U Pravilniku o ... (NN own)") and changes it ("mijenja se", "briše se", "dodaje se"); else "cite"."""
+        if who not in sent_cache:
+            st = stem_of(who)
+            t = gzip.decompress(files[st][2].read_bytes()).decode("utf-8", "replace") if st in files else ""
+            i = t.find('<div class="sl-content">')
+            sent_cache[who] = [x for ln in (lines_of(t[i:]) if i >= 0 else [])
+                               for x in re.split(r"(?<=[.;])\s+(?=[A-ZČĆŽŠĐ»(])", ln)]
+        stem_re = STEMS[[kk for kk, _ in STEMS].index(kind)][1]
+        for x in sent_cache[who]:
+            if own not in nn_list(x) or not re.search(stem_re, x, re.I) or (words and not words <= core(x)):
+                continue
+            # the act itself ends: "prestaje važiti Pravilnik o ... (NN own)" or "Pravilnik o ... (NN own) prestaje
+            # važiti", not something made under it ("prestaje važiti ovlaštenje doneseno na temelju Pravilnika ...")
+            # (B: the act named in the nominative, so not a fragment like "... člankom 68. Zakona o ... (NN own),
+            # prestaju važiti ..."), and its own number is the first in the brackets after its name (not one of the
+            # later numbers of another act cited "(NN 157/13., ..., 18/18. - Odluka Ustavnog suda, ...)")
+            ends = re.search("(?:" + REPEAL_WORDS.pattern + r")\s+(?:" + stem_re + r")\b", x, re.I) or re.match(
+                r"^\s*(?:\d+\.\s*|[a-z]\)\s*|\(\d+\)\s*|[-–]\s*)?(?:" + NOMINATIVE[kind] + r")\b[^;]*\)\s*,?\s*(?:"
+                + REPEAL_WORDS.pattern + ")", x)
+            if ends:
+                grp = next((g for g in re.findall(r"\(([^()]*)\)", x[ends.start():]) if nn_list(g)), "")
+                ends = nn_list(grp)[:1] == [own]
+            if ends:
+                return "amend" if PARTIAL.search(x) else "repeal"  # repealed except some provisions: changed
+            if re.match(r"^\s*(?:\d+\.\s*|[IVX]+\.\s*|\(\d+\)\s*)?U\s+" + stem_re, x, re.I) and \
+                    re.search(r"\b(?:mijenja|briše|brišu|dodaje|dodaju|zamjenjuj)", x):
+                return "amend"
+        return "cite"
+
+    def marks_of(ev) -> dict:
+        """{label, amended_by, cited_by} from the evidence: "amended, not consolidated" when a later document
+        amends, changes or corrects it (or names it so in its title); "repealed, not consolidated" when later
+        documents only repeal it; "replaced, not consolidated" when a later act of the same kind has its title;
+        "cited later, not consolidated" when a later text only cites it with later numbers or change wording."""
+        by: dict[str, dict] = {}
+        cited: dict[str, dict] = {}
+        for how, src, url in ev:
+            d = cited if how == "cite" else by
+            e = d.setdefault(ref_of(src, url)["ref"], {**ref_of(src, url), "how": []})
+            if how not in e["how"]:
+                e["how"].append(how)
+        cited = {k: v for k, v in cited.items() if k not in by}
+        hows = {x for e in by.values() for x in e["how"]}
+        if "repeal" in hows:  # ended: its last state is repealed, whatever amended it before
+            label = "repealed, not consolidated"
+        elif hows & {"amend", "consolidated"}:
+            label = "amended, not consolidated"
+        elif "replace" in hows:
+            label = "replaced, not consolidated"
+        else:
+            label = "cited later, not consolidated"
+        out = {"label": label}
+        for key, d in (("amended_by", by), ("cited_by", cited)):
+            if d:
+                out[key] = [{**e, "how": ",".join(sorted(e["how"]))} for e in sorted(d.values(), key=lambda e: (e["date"], e["ref"]))]
+        return out
 
     def evaluate(year_read, counts=lambda src, act: True, early=lambda h, r: False):
         """Decide every act. year_read(year): every document that could change an act of that year has been read.
@@ -687,6 +871,8 @@ def main():
         early(h, r): the act may be decided before its year is read (early release)."""
         chosen: dict[int, list[tuple[str, str, dict, dict]]] = defaultdict(list)
         repealed.clear()
+        marks.clear()
+        excluded_ev.clear()
         holds = []
         skipped = defaultdict(int)
         for h in sorted(index, key=lambda x: (index[x]["year"], stem_of(x))):
@@ -694,6 +880,13 @@ def main():
             kind = KINDS.get(r.get("kind", ""))
             if not kind:
                 skipped["kind:" + str(r.get("kind"))] += 1
+                # A list row with no kind whose title names one published here (no silent drop): held, with the reason
+                k0 = subj(r["title"])[0] if not r.get("kind") else None
+                if k0 and not PERSONAL.search(r["title"]) and not re.match(r"(?:Odluka|Rješenje)\s+Ustavnog\s+suda", r["title"]):
+                    doc0 = re.sub(r"[^a-z0-9-]", "", r["doc"].lower())
+                    holds.append({"slug": f"{k0}-{r['year']}-{doc0}", "nn": f"{r['issue']}/{r['year']}",
+                                  "title": norm(r["title"])[:160], "reason": "no_kind_in_list:the Narodne novine list gives "
+                                  "this document no kind", "url": eli_of(r)})
                 continue
             title = norm(r["title"])
             if re.match(r"(?:Odluka|Rješenje|Odluka i Rješenje)\s+Ustavnog\s+suda|Ispravak\b|Odluka o proglašenju\b", title):
@@ -707,39 +900,59 @@ def main():
             if PERSONAL.search(title):
                 skipped["personal"] += 1
                 continue
-            if eli_of(r) in excluded:
-                skipped["already_published"] += 1
-                continue
             doc = re.sub(r"[^a-z0-9-]", "", r["doc"].lower())
             slug = f"{kind}-{r['year']}-{doc}"
+            # 2026-11-09: more decisions about named people (ambassadors and honorary consuls posted, deputy speakers
+            # and committee members elected, ...) the PERSONAL pattern missed; acts already on main stay as published
+            if PERSONAL_MORE.search(title) and slug not in on_main:
+                skipped["personal"] += 1
+                continue
+            if eli_of(r) in excluded:
+                skipped["already_published"] += 1
+                # its status on main (zakoni/, the other builder's layer): the same evidence, when complete
+                if year_read(r["year"]):
+                    li = listed_incoming(h)
+                    ev = evidence(h, r, kind, title, counts, None, li)
+                    excluded_ev.append({"url": eli_of(r), "slug": slug, "title": title,
+                                        **(marks_of(ev) if ev else {"label": None})})
+                continue
             try:
                 if slug in rejects:
                     raise Hold("rejected:" + str(rejects[slug])[:200])
                 f = facts.get(h)
+                if not year_read(r["year"]) and not early(h, r):
+                    raise Hold(f"later_documents_not_all_read:frontier={frontier}")
+                if f is None:
+                    raise Hold("page_missing")
+                if "hold" in f:
+                    raise Hold(f["hold"])
                 li = listed_incoming(h)
                 rep = repeal_candidate(h, li) if li else None
-                if li and not rep:
-                    raise Hold("eli_incoming:" + ",".join(li[:5]))
-                try:
-                    checks(h, r, f, kind, title, year_read, counts, early, rep)
-                    if rep:
-                        found = repeal_day(rep, h, r, f)
-                        if not found:
-                            raise Hold("repeal_day_unknown")
+                # 2026-11-09 (Romania standard): an act a later document changes, repeals, replaces or cites is no
+                # longer held back: it is published as enacted and labelled, with the documents that change it
+                # (Narodne novine publishes no consolidated texts for nearly all acts). An act repealed as a whole
+                # by one act and changed by nothing else still gets its empty version on the repeal day.
+                ev = evidence(h, r, kind, title, counts, rep, li)
+                if rep and not ev:
+                    found = repeal_day(rep, h, r, f)
+                    if found:
                         repealed[slug] = found
-                except Hold:
-                    if rep:  # the act keeps its ELI hold reason when its repeal version can't be built
-                        raise Hold("eli_incoming:" + ",".join(li[:5]))
-                    raise
+                    else:
+                        ev = [("repeal", rep, eli_of(index[rep]))]
+                elif rep:
+                    ev.append(("repeal", rep, eli_of(index[rep])))
+                if ev:
+                    marks[slug] = marks_of(ev)
             except Hold as e:
-                holds.append({"slug": slug, "nn": f"{r['issue']}/{r['year']}", "title": title[:160], "reason": str(e)})
+                holds.append({"slug": slug, "nn": f"{r['issue']}/{r['year']}", "title": title[:160], "reason": str(e),
+                              "url": eli_of(r)})
                 continue
             chosen[r["year"]].append((slug, h, r, f))
         return chosen, holds, skipped
 
     def checks(h, r, f, kind, title, year_read, counts, early, rep):
-        """The hold rules for one act. rep: the one act that repeals it as a whole (repeal_candidate); its own
-        evidence (the repeal, a replacing act's same title, its citation of the act) does not count against it."""
+        """The hold rules for one act before 2026-11-09 (kept for --compare-frontiers / --compare-early, which
+        compare held sets). rep: the one act that repeals it as a whole (repeal_candidate)."""
         if not year_read(r["year"]) and not early(h, r):
             raise Hold(f"later_documents_not_all_read:frontier={frontier}")
         if f is None:
@@ -911,6 +1124,7 @@ def main():
     for year in sorted(chosen):
         rows = sorted(chosen[year], key=lambda x: x[0])
         fp = hashlib.sha256(json.dumps([[s, r["title"], f["sha"], f["ok"]] + ([list(repealed[s])] if s in repealed else [])
+                                        + ([marks[s]] if s in marks else [])
                                         for s, _, r, f in rows] + [a.retrieved, source],
                                        ensure_ascii=False).encode("utf-8")).hexdigest()
         f_part = PARTS / f"60-akti-{year}.json"
@@ -932,6 +1146,9 @@ def main():
             if prev and prev[1] and prev[0]["versions"][0]["sha256"] == f["sha"] and prev[0]["versions"][0]["from"] == day \
                     and prev[0]["title"] == norm(r["title"]) and prev[1].get("published") == pub \
                     and len(prev[0]["versions"]) == 1 and slug not in repealed:
+                for k in ("label", "amended_by", "cited_by"):
+                    prev[0].pop(k, None)
+                prev[0].update(marks.get(slug, {}))
                 acts.append(prev[0])
                 laws[slug] = prev[1]
                 continue
@@ -963,7 +1180,7 @@ def main():
                                  "credits": {k: [rslug] for k in units},
                                  "note": f"Repealed by {rlabel}, in force from {rday} ({rhow})."})
             acts.append({"slug": slug, "short": title, "title": title, "url": url, "first_law": slug, "earlier_laws": [],
-                         "versions": versions})
+                         "versions": versions, **marks.get(slug, {})})
         out = {"laws": laws, "acts": acts}
         out["sources"] = [{"name": "Narodne novine, službeni dio (narodne-novine.nn.hr)", "url": SITE,
                            "retrieved": a.retrieved, "licence": "Official texts; not protected by copyright (ZAPSP čl. 8)",
@@ -979,10 +1196,13 @@ def main():
             "date, the first day of the next month, or the adoption day (\"danom donošenja\": the ELI date_document, "
             "else the place and date above the signature). When the sentence also names another gazette or a website, "
             "only a calendar date or the adoption day is read.",
-            "An act is published only when every later document of the official part has been read and none of them "
+            "An act is published once every later document of the official part has been read. When one of them "
             "amends, corrects or repeals it by its ELI metadata, names it in an amending, correcting or repealing title, "
             "reuses its title, or cites it by name and Narodne novine number with a later number after its own or next to "
-            "wording that changes or repeals it; the others are held back until their later versions are built.",
+            "wording that changes or repeals it, the act is published as enacted and labelled (\"amended, not "
+            "consolidated\", \"repealed, not consolidated\", \"replaced, not consolidated\" or \"cited later, not "
+            "consolidated\"), with those documents listed (amended_by, cited_by). Before 2026-11-09 such acts were held "
+            "back.",
             "Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional "
             "Court decisions and corrections (Ispravak) are left out.",
             "An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal "
@@ -1018,13 +1238,16 @@ def main():
         tmp = Path(a.cache + ".tmp")
         tmp.write_bytes(gzip.compress(json.dumps(cache, ensure_ascii=False).encode("utf-8"), 3))
         tmp.replace(a.cache)
+    if a.excluded_report:
+        Path(a.excluded_report).write_text(json.dumps(sorted(excluded_ev, key=lambda x: x["slug"]), ensure_ascii=False,
+                                                      indent=0) + "\n", encoding="utf-8", newline="\n")
     if a.report:
         Path(a.report).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in holds), encoding="utf-8")
     reasons = defaultdict(int)
     for x in holds:
         reasons[x["reason"].split(":")[0]] += 1
     print(json.dumps({"documents": len(index), "pages": len(files), "pending_text": len(pending), "repeal_versions": len(repealed), "frontier": frontier, "amender_frontier": am_frontier, "frontier_mode": a.frontier,
-                      "published": sum(n for _, n in written), "held": len(holds), "held_by_reason": dict(reasons),
+                      "published": sum(n for _, n in written), "labelled": dict(Counter(m["label"] for m in marks.values())), "held": len(holds), "held_by_reason": dict(reasons),
                       "skipped": dict(skipped), "parts": len(written)}, ensure_ascii=False))
 
 
