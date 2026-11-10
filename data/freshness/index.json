@@ -1,0 +1,1102 @@
+{
+"shards": [
+{
+"shard": "naputak/1993",
+"kind": "naputak",
+"file": "data/freshness/naputak/1993.csv",
+"acts": 1
+},
+{
+"shard": "naputak/1994",
+"kind": "naputak",
+"file": "data/freshness/naputak/1994.csv",
+"acts": 3
+},
+{
+"shard": "naputak/1995",
+"kind": "naputak",
+"file": "data/freshness/naputak/1995.csv",
+"acts": 4
+},
+{
+"shard": "naputak/1996",
+"kind": "naputak",
+"file": "data/freshness/naputak/1996.csv",
+"acts": 3
+},
+{
+"shard": "naputak/1997",
+"kind": "naputak",
+"file": "data/freshness/naputak/1997.csv",
+"acts": 1
+},
+{
+"shard": "naputak/1999",
+"kind": "naputak",
+"file": "data/freshness/naputak/1999.csv",
+"acts": 1
+},
+{
+"shard": "naputak/2011",
+"kind": "naputak",
+"file": "data/freshness/naputak/2011.csv",
+"acts": 11
+},
+{
+"shard": "naputak/2012",
+"kind": "naputak",
+"file": "data/freshness/naputak/2012.csv",
+"acts": 6
+},
+{
+"shard": "naputak/2013",
+"kind": "naputak",
+"file": "data/freshness/naputak/2013.csv",
+"acts": 6
+},
+{
+"shard": "naputak/2014",
+"kind": "naputak",
+"file": "data/freshness/naputak/2014.csv",
+"acts": 12
+},
+{
+"shard": "naputak/2015",
+"kind": "naputak",
+"file": "data/freshness/naputak/2015.csv",
+"acts": 9
+},
+{
+"shard": "naputak/2016",
+"kind": "naputak",
+"file": "data/freshness/naputak/2016.csv",
+"acts": 3
+},
+{
+"shard": "naputak/2017",
+"kind": "naputak",
+"file": "data/freshness/naputak/2017.csv",
+"acts": 4
+},
+{
+"shard": "naputak/2018",
+"kind": "naputak",
+"file": "data/freshness/naputak/2018.csv",
+"acts": 4
+},
+{
+"shard": "naputak/2019",
+"kind": "naputak",
+"file": "data/freshness/naputak/2019.csv",
+"acts": 2
+},
+{
+"shard": "naputak/2020",
+"kind": "naputak",
+"file": "data/freshness/naputak/2020.csv",
+"acts": 9
+},
+{
+"shard": "naputak/2021",
+"kind": "naputak",
+"file": "data/freshness/naputak/2021.csv",
+"acts": 13
+},
+{
+"shard": "naputak/2022",
+"kind": "naputak",
+"file": "data/freshness/naputak/2022.csv",
+"acts": 7
+},
+{
+"shard": "naputak/2023",
+"kind": "naputak",
+"file": "data/freshness/naputak/2023.csv",
+"acts": 8
+},
+{
+"shard": "naputak/2024",
+"kind": "naputak",
+"file": "data/freshness/naputak/2024.csv",
+"acts": 9
+},
+{
+"shard": "naputak/2025",
+"kind": "naputak",
+"file": "data/freshness/naputak/2025.csv",
+"acts": 3
+},
+{
+"shard": "naputak/2026",
+"kind": "naputak",
+"file": "data/freshness/naputak/2026.csv",
+"acts": 2
+},
+{
+"shard": "naredba/1990",
+"kind": "naredba",
+"file": "data/freshness/naredba/1990.csv",
+"acts": 6
+},
+{
+"shard": "naredba/1991",
+"kind": "naredba",
+"file": "data/freshness/naredba/1991.csv",
+"acts": 14
+},
+{
+"shard": "naredba/1992",
+"kind": "naredba",
+"file": "data/freshness/naredba/1992.csv",
+"acts": 16
+},
+{
+"shard": "naredba/1993",
+"kind": "naredba",
+"file": "data/freshness/naredba/1993.csv",
+"acts": 14
+},
+{
+"shard": "naredba/1994",
+"kind": "naredba",
+"file": "data/freshness/naredba/1994.csv",
+"acts": 11
+},
+{
+"shard": "naredba/1995",
+"kind": "naredba",
+"file": "data/freshness/naredba/1995.csv",
+"acts": 4
+},
+{
+"shard": "naredba/1996",
+"kind": "naredba",
+"file": "data/freshness/naredba/1996.csv",
+"acts": 5
+},
+{
+"shard": "naredba/1997",
+"kind": "naredba",
+"file": "data/freshness/naredba/1997.csv",
+"acts": 13
+},
+{
+"shard": "naredba/1998",
+"kind": "naredba",
+"file": "data/freshness/naredba/1998.csv",
+"acts": 21
+},
+{
+"shard": "naredba/1999",
+"kind": "naredba",
+"file": "data/freshness/naredba/1999.csv",
+"acts": 27
+},
+{
+"shard": "naredba/2011",
+"kind": "naredba",
+"file": "data/freshness/naredba/2011.csv",
+"acts": 36
+},
+{
+"shard": "naredba/2012",
+"kind": "naredba",
+"file": "data/freshness/naredba/2012.csv",
+"acts": 38
+},
+{
+"shard": "naredba/2013",
+"kind": "naredba",
+"file": "data/freshness/naredba/2013.csv",
+"acts": 31
+},
+{
+"shard": "naredba/2014",
+"kind": "naredba",
+"file": "data/freshness/naredba/2014.csv",
+"acts": 17
+},
+{
+"shard": "naredba/2015",
+"kind": "naredba",
+"file": "data/freshness/naredba/2015.csv",
+"acts": 24
+},
+{
+"shard": "naredba/2016",
+"kind": "naredba",
+"file": "data/freshness/naredba/2016.csv",
+"acts": 15
+},
+{
+"shard": "naredba/2017",
+"kind": "naredba",
+"file": "data/freshness/naredba/2017.csv",
+"acts": 19
+},
+{
+"shard": "naredba/2018",
+"kind": "naredba",
+"file": "data/freshness/naredba/2018.csv",
+"acts": 14
+},
+{
+"shard": "naredba/2019",
+"kind": "naredba",
+"file": "data/freshness/naredba/2019.csv",
+"acts": 17
+},
+{
+"shard": "naredba/2020",
+"kind": "naredba",
+"file": "data/freshness/naredba/2020.csv",
+"acts": 9
+},
+{
+"shard": "naredba/2021",
+"kind": "naredba",
+"file": "data/freshness/naredba/2021.csv",
+"acts": 10
+},
+{
+"shard": "naredba/2022",
+"kind": "naredba",
+"file": "data/freshness/naredba/2022.csv",
+"acts": 17
+},
+{
+"shard": "naredba/2023",
+"kind": "naredba",
+"file": "data/freshness/naredba/2023.csv",
+"acts": 27
+},
+{
+"shard": "naredba/2024",
+"kind": "naredba",
+"file": "data/freshness/naredba/2024.csv",
+"acts": 11
+},
+{
+"shard": "naredba/2025",
+"kind": "naredba",
+"file": "data/freshness/naredba/2025.csv",
+"acts": 31
+},
+{
+"shard": "naredba/2026",
+"kind": "naredba",
+"file": "data/freshness/naredba/2026.csv",
+"acts": 11
+},
+{
+"shard": "odluka/1990",
+"kind": "odluka",
+"file": "data/freshness/odluka/1990.csv",
+"acts": 129
+},
+{
+"shard": "odluka/1991",
+"kind": "odluka",
+"file": "data/freshness/odluka/1991.csv",
+"acts": 224
+},
+{
+"shard": "odluka/1992",
+"kind": "odluka",
+"file": "data/freshness/odluka/1992.csv",
+"acts": 397
+},
+{
+"shard": "odluka/1993",
+"kind": "odluka",
+"file": "data/freshness/odluka/1993.csv",
+"acts": 326
+},
+{
+"shard": "odluka/1994",
+"kind": "odluka",
+"file": "data/freshness/odluka/1994.csv",
+"acts": 156
+},
+{
+"shard": "odluka/1995",
+"kind": "odluka",
+"file": "data/freshness/odluka/1995.csv",
+"acts": 103
+},
+{
+"shard": "odluka/1996",
+"kind": "odluka",
+"file": "data/freshness/odluka/1996.csv",
+"acts": 150
+},
+{
+"shard": "odluka/1997",
+"kind": "odluka",
+"file": "data/freshness/odluka/1997.csv",
+"acts": 177
+},
+{
+"shard": "odluka/1998",
+"kind": "odluka",
+"file": "data/freshness/odluka/1998.csv",
+"acts": 263
+},
+{
+"shard": "odluka/1999",
+"kind": "odluka",
+"file": "data/freshness/odluka/1999.csv",
+"acts": 189
+},
+{
+"shard": "odluka/2011",
+"kind": "odluka",
+"file": "data/freshness/odluka/2011.csv",
+"acts": 332
+},
+{
+"shard": "odluka/2012",
+"kind": "odluka",
+"file": "data/freshness/odluka/2012.csv",
+"acts": 293
+},
+{
+"shard": "odluka/2013",
+"kind": "odluka",
+"file": "data/freshness/odluka/2013.csv",
+"acts": 447
+},
+{
+"shard": "odluka/2014",
+"kind": "odluka",
+"file": "data/freshness/odluka/2014.csv",
+"acts": 474
+},
+{
+"shard": "odluka/2015",
+"kind": "odluka",
+"file": "data/freshness/odluka/2015.csv",
+"acts": 405
+},
+{
+"shard": "odluka/2016",
+"kind": "odluka",
+"file": "data/freshness/odluka/2016.csv",
+"acts": 335
+},
+{
+"shard": "odluka/2017",
+"kind": "odluka",
+"file": "data/freshness/odluka/2017.csv",
+"acts": 467
+},
+{
+"shard": "odluka/2018",
+"kind": "odluka",
+"file": "data/freshness/odluka/2018.csv",
+"acts": 355
+},
+{
+"shard": "odluka/2019",
+"kind": "odluka",
+"file": "data/freshness/odluka/2019.csv",
+"acts": 402
+},
+{
+"shard": "odluka/2020",
+"kind": "odluka",
+"file": "data/freshness/odluka/2020.csv",
+"acts": 675
+},
+{
+"shard": "odluka/2021",
+"kind": "odluka",
+"file": "data/freshness/odluka/2021.csv",
+"acts": 643
+},
+{
+"shard": "odluka/2022",
+"kind": "odluka",
+"file": "data/freshness/odluka/2022.csv",
+"acts": 556
+},
+{
+"shard": "odluka/2023",
+"kind": "odluka",
+"file": "data/freshness/odluka/2023.csv",
+"acts": 796
+},
+{
+"shard": "odluka/2024",
+"kind": "odluka",
+"file": "data/freshness/odluka/2024.csv",
+"acts": 422
+},
+{
+"shard": "odluka/2025",
+"kind": "odluka",
+"file": "data/freshness/odluka/2025.csv",
+"acts": 450
+},
+{
+"shard": "odluka/2026",
+"kind": "odluka",
+"file": "data/freshness/odluka/2026.csv",
+"acts": 238
+},
+{
+"shard": "pravilnik/1990",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1990.csv",
+"acts": 17
+},
+{
+"shard": "pravilnik/1991",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1991.csv",
+"acts": 31
+},
+{
+"shard": "pravilnik/1992",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1992.csv",
+"acts": 37
+},
+{
+"shard": "pravilnik/1993",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1993.csv",
+"acts": 23
+},
+{
+"shard": "pravilnik/1994",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1994.csv",
+"acts": 45
+},
+{
+"shard": "pravilnik/1995",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1995.csv",
+"acts": 28
+},
+{
+"shard": "pravilnik/1996",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1996.csv",
+"acts": 38
+},
+{
+"shard": "pravilnik/1997",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1997.csv",
+"acts": 48
+},
+{
+"shard": "pravilnik/1998",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1998.csv",
+"acts": 52
+},
+{
+"shard": "pravilnik/1999",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/1999.csv",
+"acts": 59
+},
+{
+"shard": "pravilnik/2011",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2011.csv",
+"acts": 468
+},
+{
+"shard": "pravilnik/2012",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2012.csv",
+"acts": 340
+},
+{
+"shard": "pravilnik/2013",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2013.csv",
+"acts": 563
+},
+{
+"shard": "pravilnik/2014",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2014.csv",
+"acts": 552
+},
+{
+"shard": "pravilnik/2015",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2015.csv",
+"acts": 506
+},
+{
+"shard": "pravilnik/2016",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2016.csv",
+"acts": 361
+},
+{
+"shard": "pravilnik/2017",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2017.csv",
+"acts": 359
+},
+{
+"shard": "pravilnik/2018",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2018.csv",
+"acts": 312
+},
+{
+"shard": "pravilnik/2019",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2019.csv",
+"acts": 355
+},
+{
+"shard": "pravilnik/2020",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2020.csv",
+"acts": 379
+},
+{
+"shard": "pravilnik/2021",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2021.csv",
+"acts": 271
+},
+{
+"shard": "pravilnik/2022",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2022.csv",
+"acts": 341
+},
+{
+"shard": "pravilnik/2023",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2023.csv",
+"acts": 279
+},
+{
+"shard": "pravilnik/2024",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2024.csv",
+"acts": 287
+},
+{
+"shard": "pravilnik/2025",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2025.csv",
+"acts": 238
+},
+{
+"shard": "pravilnik/2026",
+"kind": "pravilnik",
+"file": "data/freshness/pravilnik/2026.csv",
+"acts": 193
+},
+{
+"shard": "statut/1990",
+"kind": "statut",
+"file": "data/freshness/statut/1990.csv",
+"acts": 2
+},
+{
+"shard": "statut/1991",
+"kind": "statut",
+"file": "data/freshness/statut/1991.csv",
+"acts": 3
+},
+{
+"shard": "statut/1992",
+"kind": "statut",
+"file": "data/freshness/statut/1992.csv",
+"acts": 2
+},
+{
+"shard": "statut/1994",
+"kind": "statut",
+"file": "data/freshness/statut/1994.csv",
+"acts": 1
+},
+{
+"shard": "statut/1999",
+"kind": "statut",
+"file": "data/freshness/statut/1999.csv",
+"acts": 1
+},
+{
+"shard": "statut/2011",
+"kind": "statut",
+"file": "data/freshness/statut/2011.csv",
+"acts": 6
+},
+{
+"shard": "statut/2012",
+"kind": "statut",
+"file": "data/freshness/statut/2012.csv",
+"acts": 4
+},
+{
+"shard": "statut/2013",
+"kind": "statut",
+"file": "data/freshness/statut/2013.csv",
+"acts": 6
+},
+{
+"shard": "statut/2014",
+"kind": "statut",
+"file": "data/freshness/statut/2014.csv",
+"acts": 6
+},
+{
+"shard": "statut/2015",
+"kind": "statut",
+"file": "data/freshness/statut/2015.csv",
+"acts": 7
+},
+{
+"shard": "statut/2016",
+"kind": "statut",
+"file": "data/freshness/statut/2016.csv",
+"acts": 2
+},
+{
+"shard": "statut/2017",
+"kind": "statut",
+"file": "data/freshness/statut/2017.csv",
+"acts": 7
+},
+{
+"shard": "statut/2018",
+"kind": "statut",
+"file": "data/freshness/statut/2018.csv",
+"acts": 4
+},
+{
+"shard": "statut/2019",
+"kind": "statut",
+"file": "data/freshness/statut/2019.csv",
+"acts": 4
+},
+{
+"shard": "statut/2020",
+"kind": "statut",
+"file": "data/freshness/statut/2020.csv",
+"acts": 19
+},
+{
+"shard": "statut/2021",
+"kind": "statut",
+"file": "data/freshness/statut/2021.csv",
+"acts": 8
+},
+{
+"shard": "statut/2022",
+"kind": "statut",
+"file": "data/freshness/statut/2022.csv",
+"acts": 5
+},
+{
+"shard": "statut/2023",
+"kind": "statut",
+"file": "data/freshness/statut/2023.csv",
+"acts": 7
+},
+{
+"shard": "statut/2024",
+"kind": "statut",
+"file": "data/freshness/statut/2024.csv",
+"acts": 6
+},
+{
+"shard": "statut/2025",
+"kind": "statut",
+"file": "data/freshness/statut/2025.csv",
+"acts": 19
+},
+{
+"shard": "statut/2026",
+"kind": "statut",
+"file": "data/freshness/statut/2026.csv",
+"acts": 8
+},
+{
+"shard": "uputa/1991",
+"kind": "uputa",
+"file": "data/freshness/uputa/1991.csv",
+"acts": 1
+},
+{
+"shard": "uputa/1992",
+"kind": "uputa",
+"file": "data/freshness/uputa/1992.csv",
+"acts": 12
+},
+{
+"shard": "uputa/1993",
+"kind": "uputa",
+"file": "data/freshness/uputa/1993.csv",
+"acts": 4
+},
+{
+"shard": "uputa/1997",
+"kind": "uputa",
+"file": "data/freshness/uputa/1997.csv",
+"acts": 1
+},
+{
+"shard": "uputa/1999",
+"kind": "uputa",
+"file": "data/freshness/uputa/1999.csv",
+"acts": 2
+},
+{
+"shard": "uputa/2012",
+"kind": "uputa",
+"file": "data/freshness/uputa/2012.csv",
+"acts": 1
+},
+{
+"shard": "uputa/2014",
+"kind": "uputa",
+"file": "data/freshness/uputa/2014.csv",
+"acts": 1
+},
+{
+"shard": "uputa/2015",
+"kind": "uputa",
+"file": "data/freshness/uputa/2015.csv",
+"acts": 1
+},
+{
+"shard": "uredba/1990",
+"kind": "uredba",
+"file": "data/freshness/uredba/1990.csv",
+"acts": 5
+},
+{
+"shard": "uredba/1991",
+"kind": "uredba",
+"file": "data/freshness/uredba/1991.csv",
+"acts": 32
+},
+{
+"shard": "uredba/1992",
+"kind": "uredba",
+"file": "data/freshness/uredba/1992.csv",
+"acts": 66
+},
+{
+"shard": "uredba/1993",
+"kind": "uredba",
+"file": "data/freshness/uredba/1993.csv",
+"acts": 27
+},
+{
+"shard": "uredba/1994",
+"kind": "uredba",
+"file": "data/freshness/uredba/1994.csv",
+"acts": 26
+},
+{
+"shard": "uredba/1995",
+"kind": "uredba",
+"file": "data/freshness/uredba/1995.csv",
+"acts": 14
+},
+{
+"shard": "uredba/1996",
+"kind": "uredba",
+"file": "data/freshness/uredba/1996.csv",
+"acts": 16
+},
+{
+"shard": "uredba/1997",
+"kind": "uredba",
+"file": "data/freshness/uredba/1997.csv",
+"acts": 14
+},
+{
+"shard": "uredba/1998",
+"kind": "uredba",
+"file": "data/freshness/uredba/1998.csv",
+"acts": 27
+},
+{
+"shard": "uredba/1999",
+"kind": "uredba",
+"file": "data/freshness/uredba/1999.csv",
+"acts": 59
+},
+{
+"shard": "uredba/2011",
+"kind": "uredba",
+"file": "data/freshness/uredba/2011.csv",
+"acts": 116
+},
+{
+"shard": "uredba/2012",
+"kind": "uredba",
+"file": "data/freshness/uredba/2012.csv",
+"acts": 160
+},
+{
+"shard": "uredba/2013",
+"kind": "uredba",
+"file": "data/freshness/uredba/2013.csv",
+"acts": 146
+},
+{
+"shard": "uredba/2014",
+"kind": "uredba",
+"file": "data/freshness/uredba/2014.csv",
+"acts": 145
+},
+{
+"shard": "uredba/2015",
+"kind": "uredba",
+"file": "data/freshness/uredba/2015.csv",
+"acts": 114
+},
+{
+"shard": "uredba/2016",
+"kind": "uredba",
+"file": "data/freshness/uredba/2016.csv",
+"acts": 45
+},
+{
+"shard": "uredba/2017",
+"kind": "uredba",
+"file": "data/freshness/uredba/2017.csv",
+"acts": 91
+},
+{
+"shard": "uredba/2018",
+"kind": "uredba",
+"file": "data/freshness/uredba/2018.csv",
+"acts": 78
+},
+{
+"shard": "uredba/2019",
+"kind": "uredba",
+"file": "data/freshness/uredba/2019.csv",
+"acts": 96
+},
+{
+"shard": "uredba/2020",
+"kind": "uredba",
+"file": "data/freshness/uredba/2020.csv",
+"acts": 81
+},
+{
+"shard": "uredba/2021",
+"kind": "uredba",
+"file": "data/freshness/uredba/2021.csv",
+"acts": 48
+},
+{
+"shard": "uredba/2022",
+"kind": "uredba",
+"file": "data/freshness/uredba/2022.csv",
+"acts": 79
+},
+{
+"shard": "uredba/2023",
+"kind": "uredba",
+"file": "data/freshness/uredba/2023.csv",
+"acts": 77
+},
+{
+"shard": "uredba/2024",
+"kind": "uredba",
+"file": "data/freshness/uredba/2024.csv",
+"acts": 77
+},
+{
+"shard": "uredba/2025",
+"kind": "uredba",
+"file": "data/freshness/uredba/2025.csv",
+"acts": 89
+},
+{
+"shard": "uredba/2026",
+"kind": "uredba",
+"file": "data/freshness/uredba/2026.csv",
+"acts": 54
+},
+{
+"shard": "ustav/undated",
+"kind": "ustav",
+"file": "data/freshness/ustav/undated.csv",
+"acts": 1
+},
+{
+"shard": "zakon/1990",
+"kind": "zakon",
+"file": "data/freshness/zakon/1990.csv",
+"acts": 53
+},
+{
+"shard": "zakon/1991",
+"kind": "zakon",
+"file": "data/freshness/zakon/1991.csv",
+"acts": 73
+},
+{
+"shard": "zakon/1992",
+"kind": "zakon",
+"file": "data/freshness/zakon/1992.csv",
+"acts": 31
+},
+{
+"shard": "zakon/1993",
+"kind": "zakon",
+"file": "data/freshness/zakon/1993.csv",
+"acts": 52
+},
+{
+"shard": "zakon/1994",
+"kind": "zakon",
+"file": "data/freshness/zakon/1994.csv",
+"acts": 13
+},
+{
+"shard": "zakon/1995",
+"kind": "zakon",
+"file": "data/freshness/zakon/1995.csv",
+"acts": 4
+},
+{
+"shard": "zakon/1996",
+"kind": "zakon",
+"file": "data/freshness/zakon/1996.csv",
+"acts": 17
+},
+{
+"shard": "zakon/1997",
+"kind": "zakon",
+"file": "data/freshness/zakon/1997.csv",
+"acts": 9
+},
+{
+"shard": "zakon/1998",
+"kind": "zakon",
+"file": "data/freshness/zakon/1998.csv",
+"acts": 13
+},
+{
+"shard": "zakon/1999",
+"kind": "zakon",
+"file": "data/freshness/zakon/1999.csv",
+"acts": 12
+},
+{
+"shard": "zakon/2011",
+"kind": "zakon",
+"file": "data/freshness/zakon/2011.csv",
+"acts": 144
+},
+{
+"shard": "zakon/2012",
+"kind": "zakon",
+"file": "data/freshness/zakon/2012.csv",
+"acts": 122
+},
+{
+"shard": "zakon/2013",
+"kind": "zakon",
+"file": "data/freshness/zakon/2013.csv",
+"acts": 145
+},
+{
+"shard": "zakon/2014",
+"kind": "zakon",
+"file": "data/freshness/zakon/2014.csv",
+"acts": 115
+},
+{
+"shard": "zakon/2015",
+"kind": "zakon",
+"file": "data/freshness/zakon/2015.csv",
+"acts": 78
+},
+{
+"shard": "zakon/2016",
+"kind": "zakon",
+"file": "data/freshness/zakon/2016.csv",
+"acts": 46
+},
+{
+"shard": "zakon/2017",
+"kind": "zakon",
+"file": "data/freshness/zakon/2017.csv",
+"acts": 68
+},
+{
+"shard": "zakon/2018",
+"kind": "zakon",
+"file": "data/freshness/zakon/2018.csv",
+"acts": 130
+},
+{
+"shard": "zakon/2019",
+"kind": "zakon",
+"file": "data/freshness/zakon/2019.csv",
+"acts": 156
+},
+{
+"shard": "zakon/2020",
+"kind": "zakon",
+"file": "data/freshness/zakon/2020.csv",
+"acts": 84
+},
+{
+"shard": "zakon/2021",
+"kind": "zakon",
+"file": "data/freshness/zakon/2021.csv",
+"acts": 57
+},
+{
+"shard": "zakon/2022",
+"kind": "zakon",
+"file": "data/freshness/zakon/2022.csv",
+"acts": 70
+},
+{
+"shard": "zakon/2023",
+"kind": "zakon",
+"file": "data/freshness/zakon/2023.csv",
+"acts": 77
+},
+{
+"shard": "zakon/2024",
+"kind": "zakon",
+"file": "data/freshness/zakon/2024.csv",
+"acts": 67
+},
+{
+"shard": "zakon/2025",
+"kind": "zakon",
+"file": "data/freshness/zakon/2025.csv",
+"acts": 65
+},
+{
+"shard": "zakon/2026",
+"kind": "zakon",
+"file": "data/freshness/zakon/2026.csv",
+"acts": 41
+},
+{
+"shard": "zakoni/undated",
+"kind": "zakoni",
+"file": "data/freshness/zakoni/undated.csv",
+"acts": 754
+}
+]
+}

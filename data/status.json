@@ -1,0 +1,16 @@
+{
+ "note": "Update status of this repository, refreshed by every refresh run.",
+ "as_of": "2026-11-10T02:42:08+00:00",
+ "updates": "idle",
+ "last_published": "2026-11-07T00:02:04Z",
+ "published_last_24h": {
+  "commits": 0
+ },
+ "official_sources": [
+  {
+   "source": "Narodne novine, službeni dio (narodne-novine.nn.hr)",
+   "state": "available",
+   "last_successful_contact": "2026-11-10"
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "hr-freshness/1",
+ "as_of": "2026-11-10",
+ "checked_against_official_source": "2026-11-10",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "gazette-index": "every document of the official part of Narodne novine (narodne-novine.nn.hr) through the newest issue read, from the yearly search lists and each page with its ELI metadata; each scanned for acts it amends, changes, corrects, repeals, replaces or cites (its ELI links, the act page's list of incoming relations, its title and its text)"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "ustav",
+    "zakon",
+    "zakoni",
+    "uredba",
+    "odluka"
+   ],
+   "label": "the Constitution, laws, Government decrees and decisions"
+  },
+  "secondary": {
+   "days": 30,
+   "kinds": [
+    "pravilnik",
+    "naredba",
+    "naputak",
+    "uputa",
+    "statut"
+   ],
+   "label": "rules (pravilnici), orders, instructions and statutes"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 20594,
+  "by_status": {
+   "current": 12874,
+   "pending-change": 4244,
+   "stale": 0,
+   "unverified": 3476,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 83.1,
+  "pct_verified_30d": 83.1
+ },
+ "by_group": {
+  "national": {
+   "acts": 13683,
+   "by_status": {
+    "current": 8307,
+    "pending-change": 2451,
+    "stale": 0,
+    "unverified": 2925,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 78.6,
+   "pct_verified_30d": 78.6
+  },
+  "secondary": {
+   "acts": 6911,
+   "by_status": {
+    "current": 4567,
+    "pending-change": 1793,
+    "stale": 0,
+    "unverified": 551,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 92.0,
+   "pct_verified_30d": 92.0
+  }
+ },
+ "by_kind": {
+  "naputak": {
+   "acts": 121,
+   "by_status": {
+    "current": 76,
+    "pending-change": 32,
+    "stale": 0,
+    "unverified": 13,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 89.3,
+   "pct_verified_30d": 89.3
+  },
+  "naredba": {
+   "acts": 458,
+   "by_status": {
+    "current": 190,
+    "pending-change": 137,
+    "stale": 0,
+    "unverified": 131,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 71.4,
+   "pct_verified_30d": 71.4
+  },
+  "odluka": {
+   "acts": 9404,
+   "by_status": {
+    "current": 5642,
+    "pending-change": 1648,
+    "stale": 0,
+    "unverified": 2114,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 77.5,
+   "pct_verified_30d": 77.5
+  },
+  "pravilnik": {
+   "acts": 6182,
+   "by_status": {
+    "current": 4229,
+    "pending-change": 1575,
+    "stale": 0,
+    "unverified": 378,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 93.9,
+   "pct_verified_30d": 93.9
+  },
+  "statut": {
+   "acts": 127,
+   "by_status": {
+    "current": 71,
+    "pending-change": 47,
+    "stale": 0,
+    "unverified": 9,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 92.9,
+   "pct_verified_30d": 92.9
+  },
+  "uputa": {
+   "acts": 23,
+   "by_status": {
+    "current": 1,
+    "pending-change": 2,
+    "stale": 0,
+    "unverified": 20,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 13.0,
+   "pct_verified_30d": 13.0
+  },
+  "uredba": {
+   "acts": 1782,
+   "by_status": {
+    "current": 1105,
+    "pending-change": 391,
+    "stale": 0,
+    "unverified": 286,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 84.0,
+   "pct_verified_30d": 84.0
+  },
+  "ustav": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon": {
+   "acts": 1742,
+   "by_status": {
+    "current": 1323,
+    "pending-change": 142,
+    "stale": 0,
+    "unverified": 277,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 84.1,
+   "pct_verified_30d": 84.1
+  },
+  "zakoni": {
+   "acts": 754,
+   "by_status": {
+    "current": 236,
+    "pending-change": 270,
+    "stale": 0,
+    "unverified": 248,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 67.1,
+   "pct_verified_30d": 67.1
+  }
+ },
+ "sources": [
+  {
+   "source": "Narodne novine, službeni dio (narodne-novine.nn.hr)",
+   "url": "https://narodne-novine.nn.hr",
+   "last_successful_check": "2026-11-10",
+   "newest_issue_read": "129/2026",
+   "newest_issue_day": "2026-11-09",
+   "read_back_to_year": 2011,
+   "note": "Acts from before read_back_to_year are unverified until the read reaches their year."
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 183
+}
