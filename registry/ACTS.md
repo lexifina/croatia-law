@@ -1,6 +1,6 @@
 # Every act in this repository
 
-14587 acts, 14,915 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+14887 acts, 15,223 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (121, of which 21 amending acts)
 
@@ -591,7 +591,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (9239, of which 1156 amending acts)
+## odluka (9404, of which 1166 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -8890,6 +8890,7 @@
 | Odluka o porezima Općine Vižinada - Visinada | [`odluka/2023/2527/`](odluka/2023/2527/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Vrbanja | [`odluka/2023/2528/`](odluka/2023/2528/) | in force | 1 | 2024-01-01 | 2024-01-01 |
 | Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2024. - 2026. | [`odluka/2024/59/`](odluka/2024/59/) | in force | 1 | 2024-01-04 | 2024-01-04 |
+| Odluka o razvrstavanju jedinica lokalne i područne (regionalne) samouprave prema stupnju razvijenosti | [`odluka/2024/60/`](odluka/2024/60/) | cited later, not consolidated | 1 | 2024-01-13 | 2024-01-13 |
 | Odluka o osnovici za izračun iznosa inkluzivnog dodatka | [`odluka/2024/96/`](odluka/2024/96/) | in force | 1 | 2024-01-13 | 2024-01-13 |
 | Odluka o donošenju Nacionalnog programa opskrbe Republike Hrvatske lijekovima proizvedenim iz ljudske plazme 2024. - 2027. | [`odluka/2024/97/`](odluka/2024/97/) | in force | 1 | 2024-01-11 | 2024-01-11 |
 | Odluka o osnivanju Povjerenstva za utvrđivanje prijedloga kandidata za Glavnog državnog odvjetnika Republike Hrvatske | [`odluka/2024/98/`](odluka/2024/98/) | in force | 1 | 2024-01-11 | 2024-01-11 |
@@ -8915,6 +8916,8 @@
 | Odluka o usklađenju sredstava jamstvenog pologa za 2024. godinu | [`odluka/2024/239/`](odluka/2024/239/) | in force | 1 | 2024-02-01 | 2024-02-01 |
 | Odluka o uspostavi, sadržaju i korištenju Zbirke podataka o mjerama ograničavanja, fizičkim i pravnim osobama i drugim subjektima na koje se mjere ograničavanja odnose | [`odluka/2024/242/`](odluka/2024/242/) | in force | 1 | 2024-02-10 | 2024-02-10 |
 | Odluka o raspisivanju prijevremenih izbora za zamjenika općinskog načelnika Općine Pribislavec iz reda pripadnika romske nacionalne manjine | [`odluka/2024/243/`](odluka/2024/243/) | in force | 1 | 2024-02-08 | 2024-02-08 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/264/`](odluka/2024/264/) | repealed 2024-04-01 | 2 | 2024-02-22 | 2024-04-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/265/`](odluka/2024/265/) | amending act | 1 | 2024-02-22 | 2024-02-22 |
 | Odluka o visini dnevnice za službeno putovanje u inozemstvo za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/2024/277/`](odluka/2024/277/) | in force | 1 | 2024-02-08 | 2024-02-08 |
 | Odluka Agencije za elektroničke medije klasa: UP/I-614-03/23-02/0009, urbroj: 114-03/04-24-02 od 31. siječnja 2024. | [`odluka/2024/292/`](odluka/2024/292/) | in force | 1 | 2024-01-31 | 2024-01-31 |
 | Odluka Agencije za elektroničke medije klasa: 614-03/23-02/0010, urbroj:114-03/04-24-02 od 31. siječnja 2024. | [`odluka/2024/294/`](odluka/2024/294/) | in force | 1 | 2024-01-31 | 2024-01-31 |
@@ -8922,11 +8925,13 @@
 | Odluka o donošenju Programa razvoja sektora mljekarstva u Republici Hrvatskoj za razdoblje do 2030. godine i Akcijskog plana za provedbu Programa razvoja sektora mljekarstva u Republici Hrvatskoj za razdoblje do 2025. godine | [`odluka/2024/304/`](odluka/2024/304/) | in force | 1 | 2024-02-15 | 2024-02-15 |
 | Odluka o upisu ulovnih ribarskih plovila udičarskim alatima u Registar ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2024. godini | [`odluka/2024/308/`](odluka/2024/308/) | in force | 1 | 2024-02-17 | 2024-02-17 |
 | Odluka o provođenju nadzora i izricanju nadzornih mjera u vezi s pružanjem usluga servisiranja kredita | [`odluka/2024/312/`](odluka/2024/312/) | in force | 1 | 2024-02-24 | 2024-02-24 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2024/313/`](odluka/2024/313/) | replaced, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
 | Odluka o Registru ovlaštenih pružatelja usluga servisiranja kredita i načinu podnošenja obavijesti o prekograničnom poslovanju | [`odluka/2024/322/`](odluka/2024/322/) | repealed 2024-12-28 | 2 | 2024-02-29 | 2024-12-28 |
 | Odluka o izmjenama Odluke o dodatnim kriterijima za procjenu kreditne sposobnosti potrošača te provođenju postupka naplate dospjelih neplaćenih obveza i dobrovoljne namire | [`odluka/2024/323/`](odluka/2024/323/) | in force | 1 | 2024-02-29 | 2024-02-29 |
 | Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Republici Čileu, sa sjedištem u Punta Arenasu | [`odluka/2024/334/`](odluka/2024/334/) | in force | 1 | 2024-02-15 | 2024-02-15 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Republici Čileu, sa sjedištem u Punta Arenasu | [`odluka/2024/336/`](odluka/2024/336/) | in force | 1 | 2024-02-16 | 2024-02-16 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Čileu, sa sjedištem u Punta Arenasu | [`odluka/2024/337/`](odluka/2024/337/) | in force | 1 | 2024-02-16 | 2024-02-16 |
+| Odluka o određivanju temeljnih registara | [`odluka/2024/338/`](odluka/2024/338/) | repealed, not consolidated | 1 | 2024-02-22 | 2024-02-22 |
 | Odluka o donošenju Programa stambenog zbrinjavanja na području Sisačko-moslavačke županije gradnjom 36 višestambenih zgrada | [`odluka/2024/339/`](odluka/2024/339/) | in force | 1 | 2024-03-02 | 2024-03-02 |
 | Odluka o primjeni poticajnih mjera na području Općine Bogdanovci | [`odluka/2024/340/`](odluka/2024/340/) | in force | 1 | 2024-03-02 | 2024-03-02 |
 | Odluka o donošenju Dopuna Mreže telemedicinskih centara | [`odluka/2024/368/`](odluka/2024/368/) | amending act | 1 | 2024-03-07 | 2024-03-07 |
@@ -8934,23 +8939,35 @@
 | Odluka o izmjeni i dopuni Odluke o naknadi za obnovljive izvore energije i visokoučinkovitu kogeneraciju | [`odluka/2024/381/`](odluka/2024/381/) | amending act | 1 | 2024-03-01 | 2024-03-01 |
 | Odluka o izmjeni Odluke o postavljanju počasnog konzula Republike Hrvatske u Republici Poljskoj, sa sjedištem u Krakovu | [`odluka/2024/383/`](odluka/2024/383/) | in force | 1 | 2024-02-21 | 2024-02-21 |
 | Odluka o izmjeni i dopuni Odluke o osnivanju Konzulata Republike Hrvatske u Republici Poljskoj, sa sjedištem u Krakovu | [`odluka/2024/384/`](odluka/2024/384/) | amending act | 1 | 2024-02-21 | 2024-02-21 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2024/389/`](odluka/2024/389/) | in force | 1 | 2024-03-02 | 2024-03-02 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2024. | [`odluka/2024/390/`](odluka/2024/390/) | in force | 1 | 2024-03-09 | 2024-03-09 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2024. | [`odluka/2024/391/`](odluka/2024/391/) | in force | 1 | 2024-03-09 | 2024-03-09 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2024. | [`odluka/2024/392/`](odluka/2024/392/) | in force | 1 | 2024-03-09 | 2024-03-09 |
 | Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2024. | [`odluka/2024/393/`](odluka/2024/393/) | in force | 1 | 2024-03-09 | 2024-03-09 |
 | Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu odnosno zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2023. | [`odluka/2024/394/`](odluka/2024/394/) | in force | 1 | 2024-03-09 | 2024-03-09 |
 | Odluka o faktoru osnovne mirovine od 1. siječnja 2024. | [`odluka/2024/395/`](odluka/2024/395/) | in force | 1 | 2024-03-09 | 2024-03-09 |
+| Odluka o iznosu tarifnih stavki za prijenos električne energije | [`odluka/2024/421/`](odluka/2024/421/) | repealed, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
+| Odluka o dopuštenoj visini kala, rastepa, kvara i loma u ugostiteljstvu | [`odluka/2024/422/`](odluka/2024/422/) | amended, not consolidated | 1 | 2024-03-14 | 2024-03-14 |
 | Odluka o utvrđivanju prestanka mandata zamjenika predsjednice Suda časti Hrvatske obrtničke komore | [`odluka/2024/423/`](odluka/2024/423/) | in force | 1 | 2024-01-30 | 2024-01-30 |
 | Odluka o načinu vođenja poslova i izmirivanju obveza koje proizlaze iz članstva Republike Hrvatske u Međunarodnom monetarnom fondu | [`odluka/2024/430/`](odluka/2024/430/) | in force | 1 | 2024-03-11 | 2024-03-11 |
 | Odluka o izmjeni Odluke o prihvaćanju sredstava temeljem opće i posebne alokacije specijalnih prava vučenja Međunarodnog monetarnog fonda | [`odluka/2024/431/`](odluka/2024/431/) | in force | 1 | 2024-03-11 | 2024-03-11 |
 | Odluka o izmjeni Odluke o prihvaćanju sredstava na osnovi opće alokacije posebnih prava vučenja Međunarodnog monetarnog fonda | [`odluka/2024/432/`](odluka/2024/432/) | in force | 1 | 2024-03-11 | 2024-03-11 |
 | Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, znanstvenih, kulturnih, zdravstvenih, poljoprivrednih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2024. godinu | [`odluka/2024/433/`](odluka/2024/433/) | in force | 1 | 2024-03-09 | 2024-03-09 |
+| Odluka o nastavku potpore projektima od strateškog značaja za Hrvate izvan Republike Hrvatske | [`odluka/2024/434/`](odluka/2024/434/) | replaced, not consolidated | 1 | 2024-03-08 | 2024-03-08 |
+| Odluka o izmjeni Odluke o ribarskim plovilima autoriziranima za rad u Jabučkom džepu za razdoblje 2022. - 2026. godine | [`odluka/2024/438/`](odluka/2024/438/) | in force | 1 | 2024-03-09 | 2024-03-09 |
 | Odluka o izmjenama Odluke o sustavu upravljanja | [`odluka/2024/445/`](odluka/2024/445/) | in force | 1 | 2024-03-16 | 2024-03-16 |
+| Odluka o izmjenama i dopunama Odluke o opskrbi banaka gotovim novcem eura | [`odluka/2024/446/`](odluka/2024/446/) | amending act | 1 | 2024-03-16 | 2024-03-16 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/447/`](odluka/2024/447/) | amended, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/448/`](odluka/2024/448/) | repealed 2024-06-01 | 2 | 2024-04-01 | 2024-06-01 |
 | Odluka o izdavanju zlatnih numizmatičkih kovanica i srebrne numizmatičke kovanice »Crna gušterica« | [`odluka/2024/457/`](odluka/2024/457/) | in force | 1 | 2024-03-12 | 2024-03-12 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za IV. zonu (zone izlaganja 16. i 17.) | [`odluka/2024/469/`](odluka/2024/469/) | in force | 1 | 2024-03-07 | 2024-03-07 |
 | Odluka o raspuštanju Hrvatskoga sabora | [`odluka/2024/474/`](odluka/2024/474/) | in force | 1 | 2024-03-14 | 2024-03-14 |
 | Odluka o raspisivanju izbora za zastupnike u Hrvatski sabor | [`odluka/2024/485/`](odluka/2024/485/) | in force | 1 | 2024-03-15 | 2024-03-15 |
 | Odluka o raspisivanju izbora za članove u Europski parlament iz Republike Hrvatske | [`odluka/2024/486/`](odluka/2024/486/) | in force | 1 | 2024-04-09 | 2024-04-09 |
+| Odluka o isplati jednokratnog novčanog primanja hrvatskim braniteljima iz Domovinskog rata - korisnicima prava u sustavu skrbi o hrvatskim braniteljima iz Domovinskog rata i sustavu socijalne skrbi radi ublažavanja posljedica rasta troškova života | [`odluka/2024/492/`](odluka/2024/492/) | replaced, not consolidated | 1 | 2024-03-16 | 2024-03-16 |
+| Odluka o isplati jednokratnog novčanog primanja korisnicima mirovine radi ublažavanja posljedica rasta troškova života | [`odluka/2024/493/`](odluka/2024/493/) | replaced, not consolidated | 1 | 2024-03-16 | 2024-03-16 |
+| Odluka o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo | [`odluka/2024/494/`](odluka/2024/494/) | repealed, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2024/495/`](odluka/2024/495/) | replaced, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
 | Odluka o usvajanju Programa »Mikro i mali zajmovi za ruralni razvoj« | [`odluka/2024/507/`](odluka/2024/507/) | in force | 1 | 2024-03-14 | 2024-03-14 |
 | Odluka o usvajanju Programa »Pojedinačna jamstva za ruralni razvoj« | [`odluka/2024/508/`](odluka/2024/508/) | in force | 1 | 2024-03-14 | 2024-03-14 |
 | Odluka o usvajanju Jamstvenog programa » PLUS« | [`odluka/2024/509/`](odluka/2024/509/) | in force | 1 | 2024-03-14 | 2024-03-14 |
@@ -8958,17 +8975,22 @@
 | Odluka o sudjelovanju Republike Hrvatske u povećanju autoriziranog temeljnog kapitala Europske banke za obnovu i razvoj | [`odluka/2024/511/`](odluka/2024/511/) | in force | 1 | 2024-03-14 | 2024-03-14 |
 | Odluka o organiziranom privremenom smještaju stradalnika potresa na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije 22. ožujka 2020. te 28. i 29. prosinca 2020. | [`odluka/2024/512/`](odluka/2024/512/) | in force | 1 | 2024-03-21 | 2024-03-21 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. travnja 202 4. do 30. lipnja 2024. | [`odluka/2024/524/`](odluka/2024/524/) | in force | 1 | 2024-04-01 | 2024-04-01 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. travnja 2024. do 30. rujna 2024. | [`odluka/2024/525/`](odluka/2024/525/) | repealed, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
 | Odluka o produljenju primjene odredbi o materijalnim i nematerijalnim pravima zaposlenika u javnim službama ostvarenih temeljem granskih kolektivnih ugovora | [`odluka/2024/544/`](odluka/2024/544/) | in force | 1 | 2024-03-23 | 2024-03-23 |
 | Odluka o visini naknade troškova izborne promidžbe za izbor zastupnika u Hrvatski sabor | [`odluka/2024/545/`](odluka/2024/545/) | in force | 1 | 2024-03-23 | 2024-03-23 |
 | Odluka o donošenju Nacionalnog programa za zaštitu i promicanje dojenja za razdoblje od 2024. do 2027. godine | [`odluka/2024/547/`](odluka/2024/547/) | in force | 1 | 2024-03-20 | 2024-03-20 |
 | Odluka o usvajanju Programa Obrtna sredstva SP ZPP | [`odluka/2024/548/`](odluka/2024/548/) | in force | 1 | 2024-03-20 | 2024-03-20 |
 | Odluka o izmjeni Odluke o ustrojavanju Službeničkog suda za državne službenike sustava izvršavanja kazne zatvora u Ministarstvu pravosuđa | [`odluka/2024/549/`](odluka/2024/549/) | in force | 1 | 2024-03-14 | 2024-03-14 |
+| Odluka o nazivima i uvjetima za radna mjesta u Ustavnom sudu Republike Hrvatske | [`odluka/2024/555/`](odluka/2024/555/) | amended, not consolidated | 1 | 2024-03-30 | 2024-03-30 |
 | Odluka o proširenju primjene Kolektivnog ugovora za djelatnosti drvne i papirne industrije | [`odluka/2024/586/`](odluka/2024/586/) | in force | 1 | 2024-04-01 | 2024-04-01 |
 | Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) u 2024. godini | [`odluka/2024/589/`](odluka/2024/589/) | in force | 1 | 2024-03-28 | 2024-03-28 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za dio katastarske općine Novalja - nova za V. zonu | [`odluka/2024/592/`](odluka/2024/592/) | in force | 1 | 2024-03-15 | 2024-03-15 |
+| Odluka o izmjenama i dopunama Odluke o naknadi za razvoj komunalnih vodnih građevina | [`odluka/2024/599/`](odluka/2024/599/) | repealed, not consolidated | 1 | 2024-07-01 | 2024-07-01 |
 | Odluka o donošenju Akcijskog plana za administrativno rasterećenje gospodarstva za 2024. i 2025. godinu | [`odluka/2024/604/`](odluka/2024/604/) | in force | 1 | 2024-03-28 | 2024-03-28 |
 | Odluka o donošenju Programa politike »Put u digitalno desetljeće 2030.« | [`odluka/2024/605/`](odluka/2024/605/) | in force | 1 | 2024-03-30 | 2024-03-30 |
 | Odluka o davanju prethodne suglasnosti na Statut Hrvatske regulatorne agencije za mrežne djelatnosti | [`odluka/2024/606/`](odluka/2024/606/) | in force | 1 | 2024-03-28 | 2024-03-28 |
+| Odluka o izmjenama i dopuni Odluke o prodaji stanova u vlasništvu Republike Hrvatske | [`odluka/2024/607/`](odluka/2024/607/) | amending act | 1 | 2024-04-06 | 2024-04-06 |
+| Odluka o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva | [`odluka/2024/666/`](odluka/2024/666/) | repealed, not consolidated | 1 | 2024-04-01 | 2024-04-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Velika Vranovina Nova | [`odluka/2024/671/`](odluka/2024/671/) | in force | 1 | 2024-03-14 | 2024-03-14 |
 | Odluka o izmjeni i dopuni Odluke o financiranju troškova za stambeno zbrinjavanje raseljenih osoba iz Ukrajine u pojedinačnom smještaju | [`odluka/2024/721/`](odluka/2024/721/) | amending act | 1 | 2024-04-06 | 2024-04-06 |
 | Odluka o izmjeni Odluke o autorizaciji plovila za ribolov jegulje (Anguilla anguilla) s rokom važenja do 31. listopada 2025. godine | [`odluka/2024/728/`](odluka/2024/728/) | in force | 1 | 2024-04-06 | 2024-04-06 |
@@ -8977,14 +8999,23 @@
 | Odluka o Listi izmiritelja (medijatora) Centra za mirenje pri Hrvatskoj gospodarskoj komori | [`odluka/2024/756/`](odluka/2024/756/) | in force | 1 | 2024-04-18 | 2024-04-18 |
 | Odluka o izmjeni i dopuni Odluke o dopuštenoj visini tehnoloških manjkova u procesima proizvodnje, prerade, manipulacije, skladištenja i transporta nafte, prirodnog plina, proizvoda prerade nafte i plina, plinskog kondenzata, sirovina za proizvodnju maziva i naftnih derivata i distribuciju prirodnog plina | [`odluka/2024/757/`](odluka/2024/757/) | amending act | 1 | 2024-04-18 | 2024-04-18 |
 | Odluka o usvajanju Izmjena Programa »Subvencija kamatne stope iz sredstava Nacionalnog plana oporavka i otpornosti« Hrvatske agencije za malo gospodarstvo, inovacije i investicije | [`odluka/2024/765/`](odluka/2024/765/) | in force | 1 | 2024-04-10 | 2024-04-10 |
+| Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energenata na udomitelje | [`odluka/2024/778/`](odluka/2024/778/) | replaced, not consolidated | 1 | 2024-05-01 | 2024-05-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Hruševec Kupljenski | [`odluka/2024/785/`](odluka/2024/785/) | in force | 1 | 2024-04-08 | 2024-04-08 |
 | Odluka o izdavanju zlatne i srebrne numizmatičke kovanice »150. obljetnica rođenja Ivane Brlić-Mažuranić« | [`odluka/2024/794/`](odluka/2024/794/) | in force | 1 | 2024-04-20 | 2024-04-20 |
+| Odluka o Nacionalnoj klasifikaciji djelatnosti 2025. - NKD 2025. | [`odluka/2024/800/`](odluka/2024/800/) | cited later, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o rasporedu sredstava koja se u Državnom proračunu Republike Hrvatske osiguravaju za potrebe nacionalnih manjina u 2024. godini | [`odluka/2024/804/`](odluka/2024/804/) | amended, not consolidated | 1 | 2024-04-23 | 2024-04-23 |
 | Odluka o izmjeni Odluke o provođenju operacija monetarne politike | [`odluka/2024/833/`](odluka/2024/833/) | in force | 1 | 2024-05-06 | 2024-05-06 |
+| Odluka o zatvaranju za promet postojećeg pješačkog prijelaza | [`odluka/2024/834/`](odluka/2024/834/) | replaced, not consolidated | 1 | 2024-04-18 | 2024-04-18 |
+| Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djeteta | [`odluka/2024/837/`](odluka/2024/837/) | repealed 2025-05-03 | 2 | 2024-04-27 | 2025-05-03 |
+| Odluka o tablici o prosječnim potrebama maloljetnog djeteta | [`odluka/2024/838/`](odluka/2024/838/) | repealed 2025-05-03 | 2 | 2024-04-27 | 2025-05-03 |
+| Odluka o proširenju primjene Kolektivnoga ugovora ugostiteljstva | [`odluka/2024/839/`](odluka/2024/839/) | in force | 1 | 2024-05-01 | 2024-05-01 |
 | Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Raba i Općinskog vijeća Općine Otok, gradonačelnika i zamjenika gradonačelnika Grada Gospića te općinskog načelnika Općine Raša | [`odluka/2024/848/`](odluka/2024/848/) | in force | 1 | 2024-05-09 | 2024-05-09 |
 | Odluka o donošenju Akcijskog programa Strategije upravljanja morskim okolišem i obalnim područjem: Program mjera zaštite i upravljanja morskim okolišem i obalnim područjem Republike Hrvatske do 2027. | [`odluka/2024/849/`](odluka/2024/849/) | in force | 1 | 2024-04-26 | 2024-04-26 |
 | Odluka o provedbi Odluke br. 1104/2011/EU Europskog parlamenta i Vijeća od 25. listopada 2011. o pravilima za pristup javno reguliranoj usluzi koju pruža globalni navigacijski satelitski sustav uspostavljen u sklopu programa Galileo | [`odluka/2024/850/`](odluka/2024/850/) | in force | 1 | 2024-05-07 | 2024-05-07 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2024/873/`](odluka/2024/873/) | in force | 1 | 2024-05-01 | 2024-05-01 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2024/874/`](odluka/2024/874/) | amending act | 1 | 2024-05-01 | 2024-05-01 |
 | Odluka o katastarskoj izmjeri na području Općine Hrvace za dio katastarske općine Hrvace i dio katastarske općine Satrić | [`odluka/2024/889/`](odluka/2024/889/) | in force | 1 | 2024-05-04 | 2024-05-04 |
+| Odluka o katastarskoj izmjeri na području Općine Zagvozd za dio katastarske općine Zagvozd | [`odluka/2024/890/`](odluka/2024/890/) | replaced, not consolidated | 1 | 2024-05-04 | 2024-05-04 |
 | Odluka o katastarskoj izmjeri na području Općine Luka za katastarsku općinu Pluska | [`odluka/2024/891/`](odluka/2024/891/) | in force | 1 | 2024-05-04 | 2024-05-04 |
 | Odluka o katastarskoj izmjeri na području Općine Jelsa za dio katastarske općine Jelsa | [`odluka/2024/892/`](odluka/2024/892/) | in force | 1 | 2024-05-04 | 2024-05-04 |
 | Odluka o katastarskoj izmjeri na području Općine Cetingrad za dio katastarske općine Radovica | [`odluka/2024/893/`](odluka/2024/893/) | in force | 1 | 2024-05-04 | 2024-05-04 |
@@ -9021,6 +9052,7 @@
 | Odluka o katastarskoj izmjeri na području Općine Cetingrad za dio katastarske općine Maljevac | [`odluka/2024/944/`](odluka/2024/944/) | in force | 1 | 2024-05-09 | 2024-05-09 |
 | Odluka o sazivanju prvog zasjedanja Hrvatskoga sabora | [`odluka/2024/959/`](odluka/2024/959/) | in force | 1 | 2024-05-09 | 2024-05-09 |
 | Odluka o povjeravanju mandata za sastavljanje Vlade Republike Hrvatske | [`odluka/2024/960/`](odluka/2024/960/) | in force | 1 | 2024-05-10 | 2024-05-10 |
+| Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2024./2025. | [`odluka/2024/968/`](odluka/2024/968/) | amended, not consolidated | 1 | 2024-05-18 | 2024-05-18 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Donji Andrijevci | [`odluka/2024/974/`](odluka/2024/974/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1001/`](odluka/2024/1001/) | amending act | 1 | 2024-06-01 | 2024-06-01 |
 | Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/1002/`](odluka/2024/1002/) | repealed 2024-07-18 | 2 | 2024-06-01 | 2024-07-18 |
@@ -9183,7 +9215,14 @@
 | Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2024. godini | [`odluka/2024/2130/`](odluka/2024/2130/) | in force | 1 | 2024-11-14 | 2024-11-14 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području grada Rijeke | [`odluka/2024/2138/`](odluka/2024/2138/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/2149/`](odluka/2024/2149/) | amended, not consolidated | 1 | 2024-11-23 | 2024-11-23 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2024/2150/`](odluka/2024/2150/) | repealed 2025-03-20 | 2 | 2024-11-23 | 2025-03-20 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2024/2184/`](odluka/2024/2184/) | replaced, not consolidated | 1 | 2024-10-31 | 2024-10-31 |
+| Odluka o zatvaranju za promet postojećeg pješačkog prijelaza | [`odluka/2024/2185/`](odluka/2024/2185/) | replaced, not consolidated | 1 | 2024-11-06 | 2024-11-06 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2024/2186/`](odluka/2024/2186/) | replaced, not consolidated | 1 | 2024-11-06 | 2024-11-06 |
+| Odluka o kamatnim stopama na novčana sredstva kod Hrvatske narodne banke koja se ne odnose na operacije monetarne politike | [`odluka/2024/2207/`](odluka/2024/2207/) | amended, not consolidated | 1 | 2024-12-01 | 2024-12-01 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2024/2209/`](odluka/2024/2209/) | replaced, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o raspisivanju izbora za Predsjednika Republike Hrvatske | [`odluka/2024/2219/`](odluka/2024/2219/) | in force | 1 | 2024-11-28 | 2024-11-28 |
+| Odluka o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2024/2220/`](odluka/2024/2220/) | amended, not consolidated | 1 | 2024-11-21 | 2024-11-21 |
 | Odluka o izmjeni Odluke o kamatnim stopama na novčana sredstva kod Hrvatske narodne banke koja se ne odnose na operacije monetarne politike | [`odluka/2024/2239/`](odluka/2024/2239/) | in force | 1 | 2024-12-01 | 2024-12-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Zmijavci | [`odluka/2024/2257/`](odluka/2024/2257/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o provedbi zelene javne nabave | [`odluka/2024/2260/`](odluka/2024/2260/) | in force | 1 | 2025-01-01 | 2025-01-01 |
@@ -9197,6 +9236,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata za katastarsku općinu Bačkovica | [`odluka/2024/2292/`](odluka/2024/2292/) | in force | 1 | 2024-11-26 | 2024-11-26 |
 | Odluka o usklađivanju prihodovnog cenzusa za ostvarivanje prava na plaćanje premije dopunskoga zdravstvenog osiguranja u 2025. godini | [`odluka/2024/2293/`](odluka/2024/2293/) | amending act | 1 | 2024-12-12 | 2024-12-12 |
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2024. godinu za isplatu jednokratnoga novčanog primanja korisnicima mirovine i nacionalne naknade za starije osobe radi ublažavanja posljedica rasta troškova života | [`odluka/2024/2302/`](odluka/2024/2302/) | in force | 1 | 2024-12-05 | 2024-12-05 |
+| Odluka o isplati jednokratnoga novčanog primanja korisnicima mirovine i nacionalne naknade za starije osobe | [`odluka/2024/2303/`](odluka/2024/2303/) | in force | 1 | 2024-12-07 | 2024-12-07 |
 | Odluka o donošenju Višegodišnjeg programa gradnje regulacijskih i zaštitnih vodnih građevina i građevina za melioracije za razdoblje do 2030. godine | [`odluka/2024/2304/`](odluka/2024/2304/) | in force | 1 | 2024-12-05 | 2024-12-05 |
 | Odluka o izboru deset sudaca Ustavnog suda Republike Hrvatske | [`odluka/2024/2310/`](odluka/2024/2310/) | in force | 1 | 2024-12-07 | 2024-12-07 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Volosko | [`odluka/2024/2314/`](odluka/2024/2314/) | in force | 1 | 2024-12-02 | 2024-12-02 |
@@ -9218,9 +9258,20 @@
 | Odluka o najnižem dnevnom iznosu plaće sezonskog radnika u poljoprivredi za 2025. godinu | [`odluka/2024/2383/`](odluka/2024/2383/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o načinu provedbe nadzora sprječavanja pranja novca i financiranja terorizma i izricanju nadzornih mjera | [`odluka/2024/2401/`](odluka/2024/2401/) | in force | 1 | 2024-12-21 | 2024-12-21 |
 | Odluka o prestanku važenja Odluke o mjerama pružatelja platnih usluga u skladu s člankom 25. Uredbe (EU) 2015/847 | [`odluka/2024/2402/`](odluka/2024/2402/) | in force | 1 | 2024-12-30 | 2024-12-30 |
+| Odluka o iznosu tarifnih stavki za prijenos električne energije | [`odluka/2024/2403/`](odluka/2024/2403/) | repealed, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o iznosu tarifnih stavki za distribuciju električne energije | [`odluka/2024/2404/`](odluka/2024/2404/) | repealed, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o najvišem postotku naknade depozitaru za 2025. godinu | [`odluka/2024/2409/`](odluka/2024/2409/) | in force | 1 | 2024-12-14 | 2024-12-14 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Pokupsko | [`odluka/2024/2422/`](odluka/2024/2422/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Donja Kupčina Nova | [`odluka/2024/2444/`](odluka/2024/2444/) | in force | 1 | 2024-12-11 | 2024-12-11 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2449/`](odluka/2024/2449/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2450/`](odluka/2024/2450/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2451/`](odluka/2024/2451/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatske agencije za osiguranje depozita za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2452/`](odluka/2024/2452/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2453/`](odluka/2024/2453/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Centra za restrukturiranje i prodaju za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2454/`](odluka/2024/2454/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2455/`](odluka/2024/2455/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan HŽ Putničkog prijevoza za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2456/`](odluka/2024/2456/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan HŽ Infrastrukture za 2025. godinu i projekcije za 2026. i 2027. godinu | [`odluka/2024/2457/`](odluka/2024/2457/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Helenskoj Republici, sa sjedištem u Solunu | [`odluka/2024/2459/`](odluka/2024/2459/) | in force | 1 | 2024-12-13 | 2024-12-13 |
 | Odluka o visini izuzetih novčanih sredstava od ovrhe za 2025. godinu | [`odluka/2024/2463/`](odluka/2024/2463/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Poličnik | [`odluka/2024/2466/`](odluka/2024/2466/) | in force | 1 | 2024-12-12 | 2024-12-12 |
@@ -9228,14 +9279,19 @@
 | Odluka o izmjenama Odluke o provedbi Uredbe (EU) br. 575/2013 u dijelu kojim se uređuju ulaganja kreditnih institucija u kvalificirane udjele izvan financijskog sektora i o ograničenju ulaganja kreditnih institucija u materijalnu imovinu | [`odluka/2024/2468/`](odluka/2024/2468/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o izmjenama Odluke o provedbi Uredbe (EU) br. 575/2013 u dijelu vrednovanja imovine i izvanbilančnih stavki te izračunavanja regulatornoga kapitala i kapitalnih zahtjeva | [`odluka/2024/2469/`](odluka/2024/2469/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o izmjenama i dopunama Odluke o sustavu upravljanja | [`odluka/2024/2470/`](odluka/2024/2470/) | amending act | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o kontroli provjere autentičnosti i prikladnosti gotovog novca eura | [`odluka/2024/2472/`](odluka/2024/2472/) | amended, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o Registru ovlaštenih pružatelja usluga servisiranja kredita | [`odluka/2024/2473/`](odluka/2024/2473/) | in force | 1 | 2024-12-28 | 2024-12-28 |
 | Odluka o izmjenama Odluke o eksternalizaciji | [`odluka/2024/2474/`](odluka/2024/2474/) | in force | 1 | 2024-12-28 | 2024-12-28 |
+| Odluka o izmjenama i dopunama Odluke o načinu provedbe supervizije kreditnih institucija i izricanju supervizorskih mjera | [`odluka/2024/2475/`](odluka/2024/2475/) | repealed, not consolidated | 1 | 2024-12-28 | 2024-12-28 |
 | Odluka o izmjenama i dopunama Odluke o odbijanju godišnjih financijskih izvještaja kreditnih institucija i sadržaju revizije za potrebe Hrvatske narodne banke | [`odluka/2024/2476/`](odluka/2024/2476/) | amending act | 1 | 2024-12-28 | 2024-12-28 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. siječnja 2025. do 31. ožujka 2025. godine | [`odluka/2024/2477/`](odluka/2024/2477/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o osnovici za izračun iznosa zajamčene minimalne naknade za 2025. godinu | [`odluka/2024/2480/`](odluka/2024/2480/) | in force | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o osnovici za izračun iznosa drugih naknada u sustavu socijalne skrbi | [`odluka/2024/2481/`](odluka/2024/2481/) | repealed, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine za 2025. godinu | [`odluka/2024/2482/`](odluka/2024/2482/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o kriterijima i mjerilima za financiranje troškova stanovanja te iznosu sredstava za pojedinu jedinicu lokalne samouprave za 2025. godinu | [`odluka/2024/2483/`](odluka/2024/2483/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2024. godinu zbog osiguranja sredstava za otklanjanje poremećaja na domaćem tržištu energije | [`odluka/2024/2484/`](odluka/2024/2484/) | in force | 1 | 2024-12-20 | 2024-12-20 |
+| Odluka o objavi kamatne stope na zajmove između povezanih osoba | [`odluka/2024/2486/`](odluka/2024/2486/) | amended, not consolidated | 1 | 2024-12-31 | 2024-12-31 |
+| Odluka o Klasifikaciji proizvoda po djelatnostima Republike Hrvatske 2025. - KPD 2025. | [`odluka/2024/2491/`](odluka/2024/2491/) | amended, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o dopuštenoj visini kala, rastepa, kvara i loma u marikulturi | [`odluka/2024/2493/`](odluka/2024/2493/) | in force | 1 | 2024-12-31 | 2024-12-31 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Siska | [`odluka/2024/2495/`](odluka/2024/2495/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o izmjeni Odluke o porezima Grada Šibenika | [`odluka/2024/2496/`](odluka/2024/2496/) | in force | 1 | 2025-01-01 | 2025-01-01 |
@@ -9248,6 +9304,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za VI. zonu (zone izlaganja 5. i 12.) | [`odluka/2024/2542/`](odluka/2024/2542/) | in force | 1 | 2024-12-17 | 2024-12-17 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Županje | [`odluka/2024/2544/`](odluka/2024/2544/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o donošenju Programa mjera obnove zgrada oštećenih potresom na području Grada Zagreba, Krapinsko-zagorske županije, Zagrebačke županije, Sisačko-moslavačke županije i Karlovačke županije | [`odluka/2024/2549/`](odluka/2024/2549/) | in force | 1 | 2024-12-31 | 2024-12-31 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2024/2558/`](odluka/2024/2558/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Knina | [`odluka/2024/2559/`](odluka/2024/2559/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o općinskim porezima Općine Fužine | [`odluka/2024/2560/`](odluka/2024/2560/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Martijanec | [`odluka/2024/2561/`](odluka/2024/2561/) | in force | 1 | 2025-01-01 | 2025-01-01 |
@@ -9266,32 +9323,46 @@
 | Odluka o donošenju dopuna Nastavnog plana i okvirnog programa za područje ZDRAVSTVA za zanimanje sanitarni tehničar/sanitarna tehničarka (240604) | [`odluka/2025/36/`](odluka/2025/36/) | amending act | 1 | 2025-01-23 | 2025-01-23 |
 | Odluka o donošenju dopuna strukovnog kurikuluma za stjecanje strukovne kvalifikacije medicinska sestra opće njege/medicinski tehničar opće njege (241004) u obrazovnom sektoru Zdravstvo i socijalna skrb | [`odluka/2025/37/`](odluka/2025/37/) | amending act | 1 | 2025-01-23 | 2025-01-23 |
 | Odluka o mirovinskom društvu koje je za svaku kategoriju obveznih mirovinskih fondova ostvarilo najveći prinos prilagođen riziku u 2024. godini | [`odluka/2025/41/`](odluka/2025/41/) | in force | 1 | 2025-01-16 | 2025-01-16 |
+| Odluka o financiranju Hrvatske gospodarske komore | [`odluka/2025/42/`](odluka/2025/42/) | replaced, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
+| Odluka o uvjetima ostvarivanja dobrovoljnog članstva u Hrvatskoj gospodarskoj komori | [`odluka/2025/43/`](odluka/2025/43/) | replaced, not consolidated | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Draganić | [`odluka/2025/45/`](odluka/2025/45/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Dežanovac | [`odluka/2025/46/`](odluka/2025/46/) | in force | 1 | 2025-02-01 | 2025-02-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Gornji Mihaljevec | [`odluka/2025/47/`](odluka/2025/47/) | in force | 1 | 2025-01-01 | 2025-01-01 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Republici Senegalu, sa sjedištem u Rabatu | [`odluka/2025/52/`](odluka/2025/52/) | in force | 1 | 2024-12-16 | 2024-12-16 |
+| Odluka o nekretninama od strateškog značaja za Republiku Hrvatsku | [`odluka/2025/60/`](odluka/2025/60/) | cited later, not consolidated | 1 | 2025-01-25 | 2025-01-25 |
 | Odluka o izmjenama Odluke o iznosima sufinanciranja, mjerilima i kriterijima za sufinanciranje javne usluge u cestovnom prijevozu putnika | [`odluka/2025/62/`](odluka/2025/62/) | in force | 1 | 2025-01-16 | 2025-01-16 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/116/`](odluka/2025/116/) | replaced, not consolidated | 1 | 2025-01-20 | 2025-01-20 |
 | Odluka o osnivanju Nacionalne kontaktne točke za projekte u području kritičnih sirovina | [`odluka/2025/120/`](odluka/2025/120/) | in force | 1 | 2025-02-04 | 2025-02-04 |
 | Odluka o transakcijskim računima | [`odluka/2025/123/`](odluka/2025/123/) | in force | 1 | 2025-02-04 | 2025-02-04 |
 | Odluka o zaštiti novčanih sredstava korisnika platnih usluga i imatelja elektroničkog novca | [`odluka/2025/124/`](odluka/2025/124/) | in force | 1 | 2025-02-04 | 2025-02-04 |
 | Odluka o zajamčenom prinosu obveznih mirovinskih fondova za 2024. godinu | [`odluka/2025/125/`](odluka/2025/125/) | in force | 1 | 2025-01-28 | 2025-01-28 |
 | Odluka o usklađenju sredstava jamstvenog pologa za 2025. godinu | [`odluka/2025/126/`](odluka/2025/126/) | in force | 1 | 2025-01-28 | 2025-01-28 |
 | Odluka o usklađivanju svote nacionalne naknade za starije osobe od 1. siječnja 2025. | [`odluka/2025/136/`](odluka/2025/136/) | in force | 1 | 2025-02-06 | 2025-02-06 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/137/`](odluka/2025/137/) | replaced, not consolidated | 1 | 2025-01-21 | 2025-01-21 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2025/138/`](odluka/2025/138/) | repealed, not consolidated | 1 | 2025-01-24 | 2025-01-24 |
+| Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2025. godini | [`odluka/2025/142/`](odluka/2025/142/) | amended, not consolidated | 1 | 2025-02-01 | 2025-02-01 |
 | Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentralizirano financiranje domova za starije osobe u 2025. godini | [`odluka/2025/143/`](odluka/2025/143/) | in force | 1 | 2025-02-01 | 2025-02-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2025/153/`](odluka/2025/153/) | in force | 1 | 2025-02-01 | 2025-02-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2025/154/`](odluka/2025/154/) | in force | 1 | 2025-02-01 | 2025-02-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Čepin | [`odluka/2025/155/`](odluka/2025/155/) | in force | 1 | 2025-02-01 | 2025-02-01 |
 | Odluka o osnivanju Povjerenstva za provedbu Operativnog programa za bošnjačku nacionalnu manjinu | [`odluka/2025/171/`](odluka/2025/171/) | in force | 1 | 2025-01-31 | 2025-01-31 |
 | Odluka o izmjeni Odluke o osnivanju Nacionalnog vijeća za zaštitu na radu | [`odluka/2025/172/`](odluka/2025/172/) | in force | 1 | 2025-01-31 | 2025-01-31 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/176/`](odluka/2025/176/) | replaced, not consolidated | 1 | 2025-01-30 | 2025-01-30 |
 | Odluka o izmjenama i dopunama Statuta stranke LiPO | [`odluka/2025/178/`](odluka/2025/178/) | amending act | 1 | 2024-12-12 | 2024-12-12 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za proširenje i produbljenje površinskog kopa unutar postojećeg eksploatacijskog polja građevinskog pijeska i šljunka "Prudnica" na k.č.br. 895, k.o. Mali Bukovec | [`odluka/2025/183/`](odluka/2025/183/) | in force | 1 | 2025-02-15 | 2025-02-15 |
 | Odluka o osnivanju Međuresornog povjerenstva za zaštitu djece bez pratnje | [`odluka/2025/186/`](odluka/2025/186/) | in force | 1 | 2025-02-06 | 2025-02-06 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Pregrade | [`odluka/2025/216/`](odluka/2025/216/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o dodjeli beskamatnog zajma jedinicama lokalne i područne (regionalne) samouprave u 2025. godini zbog nemogućnosti podmirenja dospjelih obveza po pravomoćnim sudskim i upravnim odlukama ili nagodbama | [`odluka/2025/228/`](odluka/2025/228/) | in force | 1 | 2025-02-15 | 2025-02-15 |
 | Odluka o izmjenama i dopuni Odluke o sustavu upravljanja i praćenju provedbe aktivnosti u okviru Nacionalnog plana oporavka i otpornosti 2021. - 2026. | [`odluka/2025/229/`](odluka/2025/229/) | amending act | 1 | 2025-02-22 | 2025-02-22 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2025/232/`](odluka/2025/232/) | replaced, not consolidated | 1 | 2025-04-01 | 2025-04-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Baćinska Jezera | [`odluka/2025/285/`](odluka/2025/285/) | in force | 1 | 2025-02-10 | 2025-02-10 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Podgrađe nova | [`odluka/2025/286/`](odluka/2025/286/) | in force | 1 | 2025-02-10 | 2025-02-10 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Ivanca | [`odluka/2025/290/`](odluka/2025/290/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva | [`odluka/2025/308/`](odluka/2025/308/) | repealed, not consolidated | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o načinu dostave obavijesti depozitara o utvrđenim nepravilnostima i/ili nezakonitostima u poslovanju pružatelja PEPP-a | [`odluka/2025/317/`](odluka/2025/317/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Breznica | [`odluka/2025/319/`](odluka/2025/319/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o Uredu predsjednika Republike Hrvatske | [`odluka/2025/325/`](odluka/2025/325/) | amended, not consolidated | 1 | 2025-02-25 | 2025-02-25 |
+| Odluka o usvajanju Programa Mikro zajmovi za rast i uključenost | [`odluka/2025/328/`](odluka/2025/328/) | amended, not consolidated | 1 | 2025-02-21 | 2025-02-21 |
 | Odluka o donošenju Akcijskog plana zaštite i promicanja ljudskih prava za 2025. godinu i Akcijskog plana suzbijanja diskriminacije za 2025. godinu | [`odluka/2025/329/`](odluka/2025/329/) | in force | 1 | 2025-02-21 | 2025-02-21 |
 | Odluka o davanju odobrenja Sveučilištu Sjever i Sveučilištu Josipa Jurja Strossmayera u Osijeku za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Pannon Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću« i odobrenju Konvencije | [`odluka/2025/330/`](odluka/2025/330/) | in force | 1 | 2025-02-21 | 2025-02-21 |
 | Odluka o gradskim porezima Grada Belog Manastira | [`odluka/2025/343/`](odluka/2025/343/) | in force | 1 | 2025-03-01 | 2025-03-01 |
@@ -9300,12 +9371,14 @@
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Trogira | [`odluka/2025/349/`](odluka/2025/349/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o porezima Grada Trogira | [`odluka/2025/350/`](odluka/2025/350/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Valpova | [`odluka/2025/351/`](odluka/2025/351/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Vrlike | [`odluka/2025/353/`](odluka/2025/353/) | replaced, not consolidated | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Babina Greda | [`odluka/2025/354/`](odluka/2025/354/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Dragalić | [`odluka/2025/358/`](odluka/2025/358/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Končanica | [`odluka/2025/363/`](odluka/2025/363/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Maruševec | [`odluka/2025/367/`](odluka/2025/367/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Matulji | [`odluka/2025/368/`](odluka/2025/368/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Petrijanec | [`odluka/2025/369/`](odluka/2025/369/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa poreza na dohodak na području Općine Rešetari | [`odluka/2025/371/`](odluka/2025/371/) | replaced, not consolidated | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Ribnik | [`odluka/2025/372/`](odluka/2025/372/) | in force | 1 | 2025-03-06 | 2025-03-06 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Šandrovec | [`odluka/2025/374/`](odluka/2025/374/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak Općine Veliko Trgovišće | [`odluka/2025/375/`](odluka/2025/375/) | in force | 1 | 2025-03-01 | 2025-03-01 |
@@ -9321,12 +9394,14 @@
 | Odluka o izmjenama Odluke o financiranju troškova za stambeno zbrinjavanje raseljenih osoba iz Ukrajine u pojedinačnom smještaju | [`odluka/2025/416/`](odluka/2025/416/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o izmjenama i dopuni Odluke o osnivanju Nacionalnog vijeća za zaštitu potrošača | [`odluka/2025/417/`](odluka/2025/417/) | amending act | 1 | 2025-02-27 | 2025-02-27 |
 | Odluka o stavljanju izvan snage Odluke o usklađivanju prosječnih koeficijenata troškova života u državama u kojima Republika Hrvatska ima predstavništva | [`odluka/2025/428/`](odluka/2025/428/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo (od 25. rujna 2015. godine) - osme izmjene i dopune | [`odluka/2025/429/`](odluka/2025/429/) | amended, not consolidated | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o porezima Grada Lepoglave | [`odluka/2025/431/`](odluka/2025/431/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Nova Gradiška | [`odluka/2025/432/`](odluka/2025/432/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Splita | [`odluka/2025/434/`](odluka/2025/434/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Supetra | [`odluka/2025/436/`](odluka/2025/436/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Jelsa | [`odluka/2025/439/`](odluka/2025/439/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Sv. Lovreč | [`odluka/2025/445/`](odluka/2025/445/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Trnovec Bartolovečki | [`odluka/2025/447/`](odluka/2025/447/) | amended, not consolidated | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Čabra | [`odluka/2025/448/`](odluka/2025/448/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Lišane Ostrovičke | [`odluka/2025/450/`](odluka/2025/450/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Civljane | [`odluka/2025/452/`](odluka/2025/452/) | in force | 1 | 2025-03-01 | 2025-03-01 |
@@ -9345,6 +9420,8 @@
 | Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za godinu 2025. | [`odluka/2025/526/`](odluka/2025/526/) | in force | 1 | 2025-03-13 | 2025-03-13 |
 | Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu odnosno zvanju hrvatskog branitelja iz Domovinskog rata za godinu 2024. | [`odluka/2025/527/`](odluka/2025/527/) | in force | 1 | 2025-03-13 | 2025-03-13 |
 | Odluka o faktoru osnovne mirovine od 1. siječnja 2025. | [`odluka/2025/528/`](odluka/2025/528/) | in force | 1 | 2025-03-13 | 2025-03-13 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/529/`](odluka/2025/529/) | repealed 2025-07-17 | 2 | 2025-03-20 | 2025-07-17 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/530/`](odluka/2025/530/) | amending act | 1 | 2025-03-20 | 2025-03-20 |
 | Odluka o izmjenama Odluke o porezima Općine Breznički Hum | [`odluka/2025/560/`](odluka/2025/560/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o lokalnim porezima Općine Darda | [`odluka/2025/561/`](odluka/2025/561/) | in force | 1 | 2025-03-01 | 2025-03-01 |
 | Odluka o porezima Općine Jalžabet | [`odluka/2025/564/`](odluka/2025/564/) | in force | 1 | 2025-03-01 | 2025-03-01 |
@@ -9352,9 +9429,13 @@
 | Odluka o osnivanju Nacionalnog vijeća za održivi razvoj | [`odluka/2025/580/`](odluka/2025/580/) | in force | 1 | 2024-03-07 | 2024-03-07 |
 | Odluka o davanju ovlasti Središnjem državnom uredu za središnju javnu nabavu za provedbu postupaka središnje javne nabave za javne naručitelje koji nisu obuhvaćeni člankom 12. stavkom 1. Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za središnju javnu nabavu | [`odluka/2025/581/`](odluka/2025/581/) | in force | 1 | 2025-03-07 | 2025-03-07 |
 | Odluka o izmjeni Odluke o osnivanju Savjeta za razvoj civilnoga društva | [`odluka/2025/582/`](odluka/2025/582/) | in force | 1 | 2024-03-07 | 2024-03-07 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2025/584/`](odluka/2025/584/) | in force | 1 | 2025-03-11 | 2025-03-11 |
 | Odluka o naknadi za razvoj za razdoblje 2025. - 2028. trgovačkog društva Vodovod i kanalizacija d.o.o., Split | [`odluka/2025/601/`](odluka/2025/601/) | in force | 1 | 2025-03-20 | 2025-03-20 |
 | Odluka o lokalnim porezima Općine Dežanovac | [`odluka/2025/613/`](odluka/2025/613/) | in force | 1 | 2025-03-01 | 2025-03-01 |
+| Odluka o naknadi za razvoj trgovačkog društva Baranjski vodovod d.o.o. | [`odluka/2025/614/`](odluka/2025/614/) | amended, not consolidated | 1 | 2025-03-22 | 2025-03-22 |
 | Odluka o umanjenju plaće i dodataka na plaću zaposlenicima u sustavu osnovnog i srednjeg školstva te znanosti i visokog obrazovanja za vrijeme sudjelovanja u štrajku | [`odluka/2025/639/`](odluka/2025/639/) | in force | 1 | 2025-03-18 | 2025-03-18 |
+| Odluka o kriterijima kreditiranja potrošača | [`odluka/2025/657/`](odluka/2025/657/) | repealed, not consolidated | 1 | 2025-07-01 | 2025-07-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/658/`](odluka/2025/658/) | amending act | 1 | 2025-03-20 | 2025-03-20 |
 | Odluka Agencije za elektroničke medije klasa: 612-12/22-02/0002, urbroj: 114-03/04-25-13 od 12. ožujka 2025. | [`odluka/2025/660/`](odluka/2025/660/) | in force | 1 | 2025-03-12 | 2025-03-12 |
 | Odluka o načinu osiguranja, dinamici formiranja i zanavljanja obveznih zaliha nafte i naftnih derivata, organizaciji skladištenja i regionalnog rasporeda obveznih zaliha nafte i naftnih derivata | [`odluka/2025/680/`](odluka/2025/680/) | in force | 1 | 2025-03-29 | 2025-03-29 |
 | Odluka o izmjenama Odluke o određivanju Nacionalnog koordinacijskog središta za industriju, tehnologiju i istraživanja u području kibernetičke sigurnosti | [`odluka/2025/681/`](odluka/2025/681/) | in force | 1 | 2025-03-29 | 2025-03-29 |
@@ -9362,10 +9443,13 @@
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. travnja 202 5. do 30. lipnja 2025. | [`odluka/2025/688/`](odluka/2025/688/) | in force | 1 | 2025-04-01 | 2025-04-01 |
 | Odluka o postavljanju izvanredne i opunomoćene veleposlanice Republike Hrvatske u Salomonovim Otocima, sa sjedištem u Canberri | [`odluka/2025/710/`](odluka/2025/710/) | in force | 1 | 2025-03-20 | 2025-03-20 |
 | Odluka o donošenju Nacionalnog plana stambene politike Republike Hrvatske do 2030. i Akcijskog plana za provedbu Nacionalnog plana stambene politike Republike Hrvatske za razdoblje od 2025. do 2027. godine | [`odluka/2025/714/`](odluka/2025/714/) | in force | 1 | 2025-03-26 | 2025-03-26 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2025/716/`](odluka/2025/716/) | replaced, not consolidated | 1 | 2025-04-01 | 2025-04-01 |
+| Odluka o određivanju iznosa razlike između jediničnih cijena za centralne toplinske sustave i zatvorene toplinske sustave u odnosu na krajnje cijene isporučene toplinske energije | [`odluka/2025/717/`](odluka/2025/717/) | cited later, not consolidated | 1 | 2025-03-27 | 2025-03-27 |
 | Odluka o isplati jednokratnog novčanog primanja korisnicima mirovine i nacionalne naknade za starije osobe | [`odluka/2025/718/`](odluka/2025/718/) | in force | 1 | 2025-03-27 | 2025-03-27 |
 | Odluka o isplati jednokratnog novčanog primanja hrvatskim braniteljima iz Domovinskog rata - korisnicima prava u sustavu skrbi o hrvatskim braniteljima iz Domovinskog rata i sustavu socijalne skrbi radi ublažavanja posljedica rasta troškova života | [`odluka/2025/719/`](odluka/2025/719/) | in force | 1 | 2025-03-27 | 2025-03-27 |
 | Odluka o nastavku potpore projektu od strateškog značaja za Hrvate izvan Republike Hrvatske » Rasti gdje si posijan - vrtići na hrvatskom jeziku: izgradnja, rekonstrukcija i adaptacija« | [`odluka/2025/721/`](odluka/2025/721/) | in force | 1 | 2025-03-26 | 2025-03-26 |
 | Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, znanstvenih, kulturnih, zdravstvenih, poljoprivrednih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2025. godinu | [`odluka/2025/722/`](odluka/2025/722/) | in force | 1 | 2025-03-27 | 2025-03-27 |
+| Odluka o izmjenama Odluke o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo | [`odluka/2025/723/`](odluka/2025/723/) | in force | 1 | 2025-03-30 | 2025-03-30 |
 | Odluka o izmjenama i dopuni Odluke o osnivanju društva s ograničenom odgovornošću Agencije ALAN, Zagreb | [`odluka/2025/724/`](odluka/2025/724/) | amending act | 1 | 2025-04-03 | 2025-04-03 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Orahovica - Grad | [`odluka/2025/752/`](odluka/2025/752/) | in force | 1 | 2025-03-17 | 2025-03-17 |
 | Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za gospodarenje dabrom (Castor fiber L.) | [`odluka/2025/801/`](odluka/2025/801/) | in force | 1 | 2025-03-26 | 2025-03-26 |
@@ -9374,12 +9458,15 @@
 | Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za ocjenu trofeja i izložbe | [`odluka/2025/804/`](odluka/2025/804/) | in force | 1 | 2025-03-26 | 2025-03-26 |
 | Odluka o nastavku primjene Odluke o umanjenju plaće i dodataka na plaću zaposlenicima u sustavu osnovnog i srednjeg školstva te znanosti i visokog obrazovanja za vrijeme sudjelovanja u štrajku | [`odluka/2025/809/`](odluka/2025/809/) | in force | 1 | 2025-03-31 | 2025-03-31 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Punitovci Novi | [`odluka/2025/818/`](odluka/2025/818/) | in force | 1 | 2025-01-28 | 2025-01-28 |
+| Odluka o donošenju Smjernica politike državnih potpora za razdoblje 2025. - 2027. | [`odluka/2025/828/`](odluka/2025/828/) | repealed, not consolidated | 1 | 2025-04-03 | 2025-04-03 |
 | Odluka o obavljanju poslova subvencioniranja po kreditnim programima koje Hrvatska banka za obnovu i razvitak obavlja u svoje ime i za račun Republike Hrvatske | [`odluka/2025/829/`](odluka/2025/829/) | in force | 1 | 2025-04-05 | 2025-04-05 |
 | Odluka o određivanju usluge distribucije tiska na području Republike Hrvatske uslugom od općeg gospodarskog interesa | [`odluka/2025/830/`](odluka/2025/830/) | in force | 1 | 2025-04-03 | 2025-04-03 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju školske sportske dvorane uz postojeću zgradu Osnovne škole don Mihovila Pavlinovića u Podgori | [`odluka/2025/834/`](odluka/2025/834/) | in force | 1 | 2025-04-12 | 2025-04-12 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Gradići Novi za II. i III. zonu | [`odluka/2025/836/`](odluka/2025/836/) | in force | 1 | 2025-04-01 | 2025-04-01 |
 | Odluka o sudjelovanju Republike Hrvatske u selektivnom povećanju kapitala Međunarodne financijske korporacije | [`odluka/2025/870/`](odluka/2025/870/) | in force | 1 | 2025-04-10 | 2025-04-10 |
 | Odluka o prestanku važenja Odluke o osnivanju Ureda predsjednice Republike Hrvatske po prestanku obnašanja dužnosti | [`odluka/2025/871/`](odluka/2025/871/) | in force | 1 | 2025-04-10 | 2025-04-10 |
+| Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energenata na udomitelje | [`odluka/2025/874/`](odluka/2025/874/) | replaced, not consolidated | 1 | 2025-04-12 | 2025-04-12 |
+| Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne i područne (regionalne) samouprave | [`odluka/2025/879/`](odluka/2025/879/) | in force | 1 | 2025-04-15 | 2025-04-15 |
 | Odluka o raspisivanju izbora za općinske načelnike, gradonačelnike i župane te njihove zamjenike | [`odluka/2025/880/`](odluka/2025/880/) | in force | 1 | 2025-04-15 | 2025-04-15 |
 | Odluka o raspisivanju izbora za zamjenike općinskih načelnika, gradonačelnika i župana iz reda pripadnika nacionalnih manjina, odnosno iz reda pripadnika hrvatskog naroda | [`odluka/2025/881/`](odluka/2025/881/) | in force | 1 | 2025-04-15 | 2025-04-15 |
 | Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava za provedbu lokalnih izbora | [`odluka/2025/884/`](odluka/2025/884/) | in force | 1 | 2025-04-14 | 2025-04-14 |
@@ -9391,30 +9478,41 @@
 | Odluka o izdavanju zlatne i srebrne numizmatičke kovanice »Marija Jurić Zagorka« | [`odluka/2025/920/`](odluka/2025/920/) | in force | 1 | 2025-04-17 | 2025-04-17 |
 | Odluka o osnivanju Međuresornog povjerenstva za praćenje i analizu stanja izvoza u Sjedinjene Američke Države | [`odluka/2025/923/`](odluka/2025/923/) | in force | 1 | 2025-04-16 | 2025-04-16 |
 | Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) u 2025. godini | [`odluka/2025/928/`](odluka/2025/928/) | in force | 1 | 2025-04-19 | 2025-04-19 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/949/`](odluka/2025/949/) | replaced, not consolidated | 1 | 2025-04-11 | 2025-04-11 |
 | Odluka o utvrđivanju letova koji se izuzimaju od plaćanja naknada u zračnoj plovidbi | [`odluka/2025/953/`](odluka/2025/953/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/954/`](odluka/2025/954/) | in force | 1 | 2025-04-24 | 2025-04-24 |
 | Odluka o rasporedu sredstava koja se u državnom proračunu Republike Hrvatske osiguravaju za potrebe nacionalnih manjina u 2025. godini | [`odluka/2025/957/`](odluka/2025/957/) | in force | 1 | 2025-04-26 | 2025-04-26 |
+| Odluka o objavi cjenika i isticanju dodatne cijene kao mjera izravne kontrole cijena u trgovini na malo | [`odluka/2025/979/`](odluka/2025/979/) | repealed, not consolidated | 1 | 2025-05-15 | 2025-05-15 |
 | Odluka o minimalnim novčanim iznosima potrebnim za mjesečno uzdržavanje djeteta | [`odluka/2025/981/`](odluka/2025/981/) | repealed 2026-06-25 | 2 | 2025-05-03 | 2026-06-25 |
 | Odluka o tablici o prosječnim potrebama maloljetnog djeteta | [`odluka/2025/982/`](odluka/2025/982/) | repealed 2026-06-25 | 2 | 2025-05-03 | 2026-06-25 |
 | Odluka o davanju naknadne suglasnosti na Statut o izmjenama i dopunama Statuta Hrvatskoga zavoda za zapošljavanje | [`odluka/2025/986/`](odluka/2025/986/) | amending act | 1 | 2025-05-02 | 2025-05-02 |
 | Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za djelatnost trgovine (od 25. rujna 2024. godine) - prve izmjene i dopune | [`odluka/2025/1034/`](odluka/2025/1034/) | amending act | 1 | 2025-06-01 | 2025-06-01 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/1051/`](odluka/2025/1051/) | amending act | 1 | 2025-05-29 | 2025-05-29 |
 | Odluka o zatvaranju za promet postojećeg pješačkog prijelaza | [`odluka/2025/1052/`](odluka/2025/1052/) | in force | 1 | 2025-04-30 | 2025-04-30 |
+| Odluka o nastavku potpore projektima od strateškog značaja za Hrvate izvan Republike Hrvatske | [`odluka/2025/1056/`](odluka/2025/1056/) | replaced, not consolidated | 1 | 2025-05-15 | 2025-05-15 |
 | Odluka o davanju odobrenja Gradu Varaždinskim Toplicama i Općini Martijanec za sudjelovanje u Europskoj grupaciji za teritorijalnu suradnju pod nazivom »Regija Mura - Europska grupacija za teritorijalnu suradnju s ograničenom odgovornošću« i odobrenju Konvencije | [`odluka/2025/1058/`](odluka/2025/1058/) | in force | 1 | 2025-05-15 | 2025-05-15 |
 | Odluka o upisu ulovnih ribarskih plovila koja obavljaju ribolov plivaricom tunolovkom u Registar ulovnih plovila ICCAT-a (ICCAT Record of BFT Catching Vessels) u 2025. godini | [`odluka/2025/1065/`](odluka/2025/1065/) | in force | 1 | 2025-05-17 | 2025-05-17 |
+| Odluka o strukturi i sadržaju godišnjih financijskih izvještaja kreditnih institucija | [`odluka/2025/1066/`](odluka/2025/1066/) | cited later, not consolidated | 1 | 2025-05-24 | 2025-05-24 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Škalnica-nova | [`odluka/2025/1079/`](odluka/2025/1079/) | in force | 1 | 2025-04-29 | 2025-04-29 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Kaštel Gomilica | [`odluka/2025/1080/`](odluka/2025/1080/) | in force | 1 | 2025-05-07 | 2025-05-07 |
+| Odluka Agencije za elektroničke medije klasa: UP/I-614-03/25-02/05, urbroj: 114-03/04-25-02 od 14. svibnja 2025. | [`odluka/2025/1083/`](odluka/2025/1083/) | in force | 1 | 2025-05-14 | 2025-05-14 |
 | Odluka o izmjeni Odluke o osnivanju Konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Palma de Mallorci | [`odluka/2025/1087/`](odluka/2025/1087/) | in force | 1 | 2025-05-15 | 2025-05-15 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Palmi | [`odluka/2025/1088/`](odluka/2025/1088/) | in force | 1 | 2025-05-15 | 2025-05-15 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Narodnoj Republici Bangladešu, sa sjedištem u Dhaki | [`odluka/2025/1090/`](odluka/2025/1090/) | in force | 1 | 2025-05-15 | 2025-05-15 |
 | Odluka o osnivanju Povjerenstva za praćenje provedbe Operativnih programa nacionalnih manjina | [`odluka/2025/1096/`](odluka/2025/1096/) | in force | 1 | 2025-05-22 | 2025-05-22 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Interpretacijskog i posjetiteljskog centra »Dorina kuća« | [`odluka/2025/1097/`](odluka/2025/1097/) | in force | 1 | 2025-05-31 | 2025-05-31 |
+| Odluka o osnivanju Radne skupine za strateško usmjeravanje i pripremu stajališta Republike Hrvatske za pregovore o Višegodišnjem financijskom okviru Europske unije za razdoblje nakon 2027. | [`odluka/2025/1098/`](odluka/2025/1098/) | amended, not consolidated | 1 | 2025-05-22 | 2025-05-22 |
 | Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2025./2026. | [`odluka/2025/1107/`](odluka/2025/1107/) | in force | 1 | 2025-05-24 | 2025-05-24 |
 | Odluka o donošenju Akcijskog plana za razdoblje od 2025. do 2027. godine uz Strategiju sprječavanja korupcije za razdoblje od 2021. do 2030. godine | [`odluka/2025/1115/`](odluka/2025/1115/) | in force | 1 | 2025-05-27 | 2025-05-27 |
 | Odluku o donošenju Politike otvorenih podataka | [`odluka/2025/1116/`](odluka/2025/1116/) | in force | 1 | 2025-05-27 | 2025-05-27 |
+| Odluka o upravljanju kolateralom u kreditnim operacijama Eurosustava | [`odluka/2025/1123/`](odluka/2025/1123/) | amended, not consolidated | 1 | 2025-06-16 | 2025-06-16 |
 | Odluka o izmjenama Odluke o provođenju operacija monetarne politike | [`odluka/2025/1124/`](odluka/2025/1124/) | in force | 1 | 2025-06-16 | 2025-06-16 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2025/1125/`](odluka/2025/1125/) | replaced, not consolidated | 1 | 2025-07-01 | 2025-07-01 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Lučelnica | [`odluka/2025/1132/`](odluka/2025/1132/) | in force | 1 | 2025-05-16 | 2025-05-16 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/1133/`](odluka/2025/1133/) | replaced, not consolidated | 1 | 2025-05-23 | 2025-05-23 |
 | Odluku o osnivanju AFCOS-mreže | [`odluka/2025/1187/`](odluka/2025/1187/) | in force | 1 | 2025-06-05 | 2025-06-05 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za VII. zonu (zone izlaganja 23. i 26.) | [`odluka/2025/1192/`](odluka/2025/1192/) | in force | 1 | 2025-06-03 | 2025-06-03 |
+| Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2025./2026. | [`odluka/2025/1222/`](odluka/2025/1222/) | cited later, not consolidated | 1 | 2025-06-19 | 2025-06-19 |
 | Odluka o osnivanju Savjeta za razvoj politika za mlade Vlade Republike Hrvatske | [`odluka/2025/1236/`](odluka/2025/1236/) | in force | 1 | 2025-06-12 | 2025-06-12 |
 | Odluka o naknadama za polaganje revizorskog ispita, posebnog ispita i ispita osposobljenosti koje provodi Hrvatska revizorska komora | [`odluka/2025/1246/`](odluka/2025/1246/) | in force | 1 | 2025-06-21 | 2025-06-21 |
 | Odluka o donošenju Programa razvoja sektora svinjogojstva u Republici Hrvatskoj za razdoblje do 2030. godine i Akcijskog plana za provedbu Programa razvoja sektora svinjogojstva u Republici Hrvatskoj za razdoblje do 2027. godine | [`odluka/2025/1252/`](odluka/2025/1252/) | in force | 1 | 2025-06-12 | 2025-06-12 |
@@ -9430,6 +9528,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Taborište | [`odluka/2025/1298/`](odluka/2025/1298/) | in force | 1 | 2025-06-17 | 2025-06-17 |
 | Odluka o izmjenama Odluke o Nacionalnom vijeću za praćenje provedbe Strategije suzbijanja korupcije | [`odluka/2025/1307/`](odluka/2025/1307/) | in force | 1 | 2025-06-27 | 2025-06-27 |
 | Odluka o postavljanju počasne konzulice Republike Hrvatske u Kraljevini Maroku, sa sjedištem u Casablanci | [`odluka/2025/1320/`](odluka/2025/1320/) | in force | 1 | 2025-06-18 | 2025-06-18 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/1355/`](odluka/2025/1355/) | repealed, not consolidated | 1 | 2025-07-17 | 2025-07-17 |
 | Odluka o donošenju Akcijskog plana provedbe Nacionalnog plana razvoja pravosudnog sustava za razdoblje od 2022. do 2027. godine, za razdoblje od 2025. do 2027. godine | [`odluka/2025/1363/`](odluka/2025/1363/) | in force | 1 | 2025-07-03 | 2025-07-03 |
 | Odluka o utvrđivanju Prijedloga prostornog plana isključivoga gospodarskog pojasa Republike Hrvatske u Jadranskom moru za javnu raspravu | [`odluka/2025/1364/`](odluka/2025/1364/) | in force | 1 | 2025-07-12 | 2025-07-12 |
 | Odluka o usvajanju Programa Mali zajmovi za žene poduzetnice i poduzetnike početnike | [`odluka/2025/1365/`](odluka/2025/1365/) | in force | 1 | 2025-07-03 | 2025-07-03 |
@@ -9440,6 +9539,7 @@
 | Odluka o izvještajima za potrebe nadzora izdavatelja tokena vezanih uz imovinu | [`odluka/2025/1390/`](odluka/2025/1390/) | in force | 1 | 2025-07-17 | 2025-07-17 |
 | Odluka o izmjeni Odluke o stopi doprinosa i iznosu članarine Hrvatskoj revizorskoj komori (Narodne novine, broj 58/18 i 6/22) | [`odluka/2025/1391/`](odluka/2025/1391/) | in force | 1 | 2025-07-17 | 2025-07-17 |
 | Odluka o davanju suglasnosti na Odluku o izmjeni Statuta Hrvatske matice iseljenika | [`odluka/2025/1394/`](odluka/2025/1394/) | in force | 1 | 2025-07-10 | 2025-07-10 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2025/1406/`](odluka/2025/1406/) | repealed, not consolidated | 1 | 2025-07-01 | 2025-07-01 |
 | Odluka o osnivanju Povjerenstva za utvrđivanje sudbina žrtava zločina počinjenih neposredno nakon Drugoga svjetskog rata | [`odluka/2025/1412/`](odluka/2025/1412/) | in force | 1 | 2025-07-10 | 2025-07-10 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Srinjine Nova (MB 339148) za zonu 2 i 3 | [`odluka/2025/1417/`](odluka/2025/1417/) | in force | 1 | 2025-07-03 | 2025-07-03 |
 | Odluka o donošenju kurikula za nastavni predmet Ruski jezik i kultura u osnovnim i srednjim školama u Republici Hrvatskoj (model C) | [`odluka/2025/1430/`](odluka/2025/1430/) | in force | 1 | 2025-07-25 | 2025-07-25 |
@@ -9457,6 +9557,8 @@
 | Odluka o raspodjeli sredstava za financiranje obrazovnih, znanstvenih, kulturnih, zdravstvenih, poljoprivrednih i ostalih programa i projekata od interesa za hrvatski narod u Bosni i Hercegovini za 2025. godinu | [`odluka/2025/1549/`](odluka/2025/1549/) | in force | 1 | 2025-07-30 | 2025-07-30 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izvođenje radova eksploatacije mineralnih sirovina na eksploatacijskom polju tehničko-građevnog kamena »Grota« | [`odluka/2025/1551/`](odluka/2025/1551/) | in force | 1 | 2025-08-09 | 2025-08-09 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Metković - Grad za 5. zonu | [`odluka/2025/1553/`](odluka/2025/1553/) | in force | 1 | 2025-07-29 | 2025-07-29 |
+| Odluka o razvrstavanju javnih cesta | [`odluka/2025/1561/`](odluka/2025/1561/) | repealed, not consolidated | 1 | 2025-08-14 | 2025-08-14 |
+| Odluka o izmjeni Odluke o osnivanju Radne skupine za strateško usmjeravanje i pripremu stajališta Republike Hrvatske za pregovore o Višegodišnjem financijskom okviru Europske unije za razdoblje nakon 2027. | [`odluka/2025/1582/`](odluka/2025/1582/) | in force | 1 | 2025-07-30 | 2025-07-30 |
 | Odluka o katastarskoj izmjeri na području Grada Bjelovara za dio katastarske općine Gornje Plavnice | [`odluka/2025/1586/`](odluka/2025/1586/) | in force | 1 | 2025-08-14 | 2025-08-14 |
 | Odluka o katastarskoj izmjeri na području Grada Bjelovara za dio katastarske općine Ždralovi | [`odluka/2025/1587/`](odluka/2025/1587/) | in force | 1 | 2025-08-14 | 2025-08-14 |
 | Odluka o katastarskoj izmjeri na području Grada Garešnice za dio katastarske općine Garešnica | [`odluka/2025/1588/`](odluka/2025/1588/) | in force | 1 | 2025-08-14 | 2025-08-14 |
@@ -9508,6 +9610,7 @@
 | Odluka o katastarskoj izmjeri na području Općine Orle za dio katastarske općine Drnek | [`odluka/2025/1634/`](odluka/2025/1634/) | in force | 1 | 2025-08-14 | 2025-08-14 |
 | Odluka o katastarskoj izmjeri na području Grada Samobora za dio katastarske općine Vrbovec | [`odluka/2025/1635/`](odluka/2025/1635/) | in force | 1 | 2025-08-14 | 2025-08-14 |
 | Odluka o katastarskoj izmjeri na području Grada Velike Gorice za dijelove katastarskih općina Šiljakovina i Lukavec | [`odluka/2025/1636/`](odluka/2025/1636/) | in force | 1 | 2025-08-14 | 2025-08-14 |
+| Odluka o visini poreznih stopa godišnjeg poreza na dohodak Općine Vrsar - Orsera | [`odluka/2025/1641/`](odluka/2025/1641/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o raspisivanju dopunskih izbora za predstavnike nacionalnih manjina u predstavničkim tijelima jedinica lokalne samouprave | [`odluka/2025/1648/`](odluka/2025/1648/) | amending act | 1 | 2025-08-22 | 2025-08-22 |
 | Odluka o donošenju Nacionalnog programa zaštite potrošača za razdoblje do 2028. godine | [`odluka/2025/1655/`](odluka/2025/1655/) | in force | 1 | 2025-08-21 | 2025-08-21 |
 | Odluka o donošenju Programa demografske revitalizacije depopuliranih područja kroz subvenciju dijela glavnice zajma | [`odluka/2025/1656/`](odluka/2025/1656/) | in force | 1 | 2025-08-21 | 2025-08-21 |
@@ -9516,12 +9619,17 @@
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2025. godinu radi osiguranja sredstava za sanaciju štete od potresa na području Sisačko-moslavačke županije, Zagrebačke županije i Karlovačke županije | [`odluka/2025/1673/`](odluka/2025/1673/) | in force | 1 | 2025-08-28 | 2025-08-28 |
 | Odluka o usvajanju Programa Zajmovi za socijalne usluge u zajednici | [`odluka/2025/1674/`](odluka/2025/1674/) | in force | 1 | 2025-08-28 | 2025-08-28 |
 | Odluka o usvajanju Programa Mali zajmovi za industrijsku tranziciju | [`odluka/2025/1675/`](odluka/2025/1675/) | in force | 1 | 2025-08-28 | 2025-08-28 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2025/1679/`](odluka/2025/1679/) | in force | 1 | 2025-09-01 | 2025-09-01 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2025/1680/`](odluka/2025/1680/) | in force | 1 | 2025-09-01 | 2025-09-01 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2025. | [`odluka/2025/1681/`](odluka/2025/1681/) | in force | 1 | 2025-09-06 | 2025-09-06 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2025. | [`odluka/2025/1682/`](odluka/2025/1682/) | in force | 1 | 2025-09-06 | 2025-09-06 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2025. | [`odluka/2025/1683/`](odluka/2025/1683/) | in force | 1 | 2025-09-06 | 2025-09-06 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/1688/`](odluka/2025/1688/) | replaced, not consolidated | 1 | 2025-08-25 | 2025-08-25 |
 | Odluka o izmjenama i dopuni Odluke o razvrstavanju javnih cesta | [`odluka/2025/1693/`](odluka/2025/1693/) | amending act | 1 | 2025-09-13 | 2025-09-13 |
 | Odluka o izdavanju zlatnih i srebrnih numizmatičkih kovanica »Gajeta falkuša« | [`odluka/2025/1695/`](odluka/2025/1695/) | in force | 1 | 2025-09-06 | 2025-09-06 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/1702/`](odluka/2025/1702/) | replaced, not consolidated | 1 | 2025-09-02 | 2025-09-02 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. listopada 2025. do 31. prosinca 2025. | [`odluka/2025/1703/`](odluka/2025/1703/) | in force | 1 | 2025-10-01 | 2025-10-01 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2025/1704/`](odluka/2025/1704/) | replaced, not consolidated | 1 | 2025-10-01 | 2025-10-01 |
 | Odluka o izmjenama i dopunama Odluke o izvještajima za potrebe supervizije kreditnih institucija | [`odluka/2025/1705/`](odluka/2025/1705/) | amending act | 1 | 2025-09-18 | 2025-09-18 |
 | Odluka o donošenju Programa provedbe edukativnih, kulturnih i sportskih aktivnosti za predškolsku djecu te djecu od 1. do 4. razreda osnovne škole u lokalnim zajednicama | [`odluka/2025/1708/`](odluka/2025/1708/) | in force | 1 | 2025-09-11 | 2025-09-11 |
 | Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava i biračkih odbora za provedbu dopunskih izbora | [`odluka/2025/1709/`](odluka/2025/1709/) | amending act | 1 | 2025-09-11 | 2025-09-11 |
@@ -9529,12 +9637,27 @@
 | Odluka o izmjeni Odluke o opskrbi banaka gotovim novcem eura | [`odluka/2025/1717/`](odluka/2025/1717/) | in force | 1 | 2025-11-22 | 2025-11-22 |
 | Odluka o izmjeni Odluke o kontroli provjere autentičnosti i prikladnosti gotovog novca eura | [`odluka/2025/1718/`](odluka/2025/1718/) | in force | 1 | 2025-09-20 | 2025-09-20 |
 | Odluka o provedbi Uredbe (EU) 2024/1183 o uspostavi europskog okvira za digitalni identitet | [`odluka/2025/1725/`](odluka/2025/1725/) | in force | 1 | 2025-09-25 | 2025-09-25 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2025/1726/`](odluka/2025/1726/) | replaced, not consolidated | 1 | 2025-10-01 | 2025-10-01 |
 | Odluka o isplati jednokratnog novčanog primanja hrvatskim braniteljima iz Domovinskog rata - korisnicima prava u sustavu skrbi radi ublažavanja posljedica rasta troškova života | [`odluka/2025/1727/`](odluka/2025/1727/) | in force | 1 | 2025-09-18 | 2025-09-18 |
 | Odluka o određivanju Referentnog centra za more | [`odluka/2025/1728/`](odluka/2025/1728/) | in force | 1 | 2025-09-16 | 2025-09-16 |
+| Odluka o izmjenama Odluke o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo | [`odluka/2025/1729/`](odluka/2025/1729/) | in force | 1 | 2025-09-29 | 2025-09-29 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/1739/`](odluka/2025/1739/) | replaced, not consolidated | 1 | 2025-09-10 | 2025-09-10 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. listopada do 31. prosinca 2025. te za razdoblje od 1. siječnja do 30. rujna 2026. | [`odluka/2025/1744/`](odluka/2025/1744/) | repealed, not consolidated | 1 | 2025-10-01 | 2025-10-01 |
 | Odluka o iznosu tarifnih stavki za distribuciju plina | [`odluka/2025/1745/`](odluka/2025/1745/) | in force | 1 | 2025-10-01 | 2025-10-01 |
+| Odluka o određivanju visine naknade za vođenje jedinstvenog računovodstva osobnih računa članova obveznih mirovinskih fondova | [`odluka/2025/1787/`](odluka/2025/1787/) | replaced, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralne toplinske sustave Borovo Naselje i Olajnica za energetski subjekt Tehnostan d.o.o., Dr. Franje Tuđmana 23, Vukovar | [`odluka/2025/1802/`](odluka/2025/1802/) | replaced, not consolidated | 1 | 2025-10-02 | 2025-10-02 |
+| Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralne toplinske sustave Gornja Vežica i Vojak za energetski subjekt Energo d.o.o., Dolac 14, Rijeka | [`odluka/2025/1803/`](odluka/2025/1803/) | repealed 2026-10-01 | 2 | 2025-10-02 | 2026-10-01 |
+| Odluka o iznosu tarifnih stavki za distribuciju toplinske energije za centralne toplinske sustave Gornja Vežica i Vojak za energetski subjekt Energo d.o.o., Dolac 14, Rijeka | [`odluka/2025/1804/`](odluka/2025/1804/) | cited later, not consolidated | 1 | 2025-10-02 | 2025-10-02 |
+| Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralne toplinske sustave Zagreb, Osijek i Sisak za energetski subjekt HEP - Proizvodnja d.o.o., Ulica grada Vukovara 37, Zagreb | [`odluka/2025/1805/`](odluka/2025/1805/) | cited later, not consolidated | 1 | 2025-10-02 | 2025-10-02 |
+| Odluka o iznosu tarifnih stavki za distribuciju toplinske energije za centralne toplinske sustave Zagreb, Osijek, Sisak, Velika Gorica i Samobor za energetski subjekt HEP - Toplinarstvo d.o.o., Miševečka 15/a, Zagreb | [`odluka/2025/1806/`](odluka/2025/1806/) | in force | 1 | 2025-10-02 | 2025-10-02 |
+| Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralne toplinske sustave Velika Gorica i Samobor za energetski subjekt HEP - Toplinarstvo d.o.o., Miševečka 15/a, Zagreb | [`odluka/2025/1807/`](odluka/2025/1807/) | in force | 1 | 2025-10-02 | 2025-10-02 |
+| Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralni toplinski sustav Karlovac za energetski subjekt Gradska toplana d.o.o., Tina Ujevića 7, Karlovac | [`odluka/2025/1808/`](odluka/2025/1808/) | replaced, not consolidated | 1 | 2025-10-02 | 2025-10-02 |
+| Odluka o iznosu tarifnih stavki za distribuciju toplinske energije za centralni toplinski sustav Karlovac za energetski subjekt Gradska toplana d.o.o., Tina Ujevića 7, Karlovac | [`odluka/2025/1809/`](odluka/2025/1809/) | replaced, not consolidated | 1 | 2025-10-02 | 2025-10-02 |
 | Odluka o raspisivanju prijevremenih izbora za članove Gradskog vijeća Grada Đakova | [`odluka/2025/1816/`](odluka/2025/1816/) | in force | 1 | 2025-10-08 | 2025-10-08 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2025/1824/`](odluka/2025/1824/) | replaced, not consolidated | 1 | 2025-09-24 | 2025-09-24 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za 8. zonu (zone izlaganja 24. i 25.) | [`odluka/2025/1832/`](odluka/2025/1832/) | in force | 1 | 2025-09-29 | 2025-09-29 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Prekopakra | [`odluka/2025/1833/`](odluka/2025/1833/) | in force | 1 | 2025-09-30 | 2025-09-30 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2025/1835/`](odluka/2025/1835/) | repealed 2026-01-29 | 2 | 2025-10-23 | 2026-01-29 |
 | Odluka o davanju odobrenja Gradu Valpovu za sudjelovanje u Pannon Europskoj grupaciji za teritorijalnu suradnju s ograničenom odgovornošću i odobrenju Konvencije | [`odluka/2025/1841/`](odluka/2025/1841/) | in force | 1 | 2025-10-09 | 2025-10-09 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Mravince | [`odluka/2025/1847/`](odluka/2025/1847/) | in force | 1 | 2025-10-02 | 2025-10-02 |
 | Odluka Agencije za elektroničke medije klasa: UP/I-614-03/25-02/07, urbroj: 114-03/04-25-05 od 2. listopada 2025. | [`odluka/2025/1853/`](odluka/2025/1853/) | in force | 1 | 2025-10-02 | 2025-10-02 |
@@ -9545,6 +9668,7 @@
 | Odluka o prodajnim objektima koji obavljaju djelatnost trgovine na malo za određene proizvode na dan blagdana 1. studenoga 2025. - Svi sveti | [`odluka/2025/1895/`](odluka/2025/1895/) | in force | 1 | 2025-10-18 | 2025-10-18 |
 | Odluka o sudjelovanju Republike Hrvatske u općem povećanju kapitala Inter-američke investicijske korporacije | [`odluka/2025/1896/`](odluka/2025/1896/) | in force | 1 | 2025-10-16 | 2025-10-16 |
 | Odluka o osnivanju Povjerenstva za međusektorsku koordinaciju za politiku i mjere za ublažavanje i prilagodbu klimatskim promjenama | [`odluka/2025/1897/`](odluka/2025/1897/) | in force | 1 | 2025-10-16 | 2025-10-16 |
+| Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energenata na udomitelje | [`odluka/2025/1905/`](odluka/2025/1905/) | replaced, not consolidated | 1 | 2025-10-23 | 2025-10-23 |
 | Odluka o donošenju Plana upravljanja migracijama i azilom Republike Hrvatske za razdoblje do 2030. godine i provedbenog Akcijskog plana za razdoblje do 2027. | [`odluka/2025/1932/`](odluka/2025/1932/) | in force | 1 | 2025-10-24 | 2025-10-24 |
 | Odluka o potvrđivanju Statuta Središnjeg registra osiguranika | [`odluka/2025/1934/`](odluka/2025/1934/) | in force | 1 | 2025-10-24 | 2025-10-24 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Kuševac | [`odluka/2025/1945/`](odluka/2025/1945/) | in force | 1 | 2025-10-21 | 2025-10-21 |
@@ -9568,21 +9692,27 @@
 | Odluka o autorizaciji plovila za ribolov jegulje (Anguilla anguilla) | [`odluka/2025/2079/`](odluka/2025/2079/) | in force | 1 | 2025-11-13 | 2025-11-13 |
 | Odluka o naknadi za nadzor izdavatelja tokena vezanih uz imovinu i tokena e-novca | [`odluka/2025/2080/`](odluka/2025/2080/) | in force | 1 | 2025-11-20 | 2025-11-20 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Okučani | [`odluka/2025/2083/`](odluka/2025/2083/) | in force | 1 | 2024-01-01 | 2024-01-01 |
+| Odluka o raspoređivanju sredstava za rad političkih stranaka i nezavisnih zastupnika | [`odluka/2025/2084/`](odluka/2025/2084/) | replaced, not consolidated | 1 | 2025-10-01 | 2025-10-01 |
 | Odluka o donošenju Programa priuštivog najma | [`odluka/2025/2085/`](odluka/2025/2085/) | in force | 1 | 2025-11-13 | 2025-11-13 |
 | Odluka o načinu određivanja osnovica za izračun iznosa naknada u sustavu socijalne skrbi | [`odluka/2025/2086/`](odluka/2025/2086/) | in force | 1 | 2025-11-22 | 2025-11-22 |
+| Odluka o usvajanju Programa potpore Hrvatima u Bosni i Hercegovini u svrhu poticanja gospodarskog razvoja lokalne zajednice za razdoblje 2025. - 2027. | [`odluka/2025/2087/`](odluka/2025/2087/) | amended, not consolidated | 1 | 2025-11-13 | 2025-11-13 |
 | Odluka o visini, načinu i rokovima uplate sredstava trgovačkih društava u državnom vlasništvu u Državni proračun Republike Hrvatske za 2025. godinu | [`odluka/2025/2088/`](odluka/2025/2088/) | in force | 1 | 2025-11-13 | 2025-11-13 |
 | Odluka o visini naknade predsjednicima, potpredsjednicima i članovima izbornih povjerenstava i biračkih odbora za provedbu prijevremenih izbora | [`odluka/2025/2089/`](odluka/2025/2089/) | in force | 1 | 2025-11-13 | 2025-11-13 |
 | Odluka o dopuni Odluke o nazivima i uvjetima za radna mjesta u Ustavnom sudu Republike Hrvatske | [`odluka/2025/2094/`](odluka/2025/2094/) | amending act | 1 | 2025-11-22 | 2025-11-22 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Draganić 1 | [`odluka/2025/2095/`](odluka/2025/2095/) | in force | 1 | 2025-11-07 | 2025-11-07 |
+| Odluka o iznosu tarifnih stavki za zajamčenu opskrbu električnom energijom | [`odluka/2025/2116/`](odluka/2025/2116/) | replaced, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralni toplinski sustav Slavonija za energetski subjekt Brod-Plin d.o.o., Trg pobjede 5, Slavonski Brod | [`odluka/2025/2145/`](odluka/2025/2145/) | replaced, not consolidated | 1 | 2025-12-01 | 2025-12-01 |
 | Odluka o visini poreznih stopa poreza na dohodak na području Općine Rešetari | [`odluka/2025/2146/`](odluka/2025/2146/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Valladolidu | [`odluka/2025/2148/`](odluka/2025/2148/) | in force | 1 | 2025-11-21 | 2025-11-21 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Kraljevini Španjolskoj, sa sjedištem u Valladolidu | [`odluka/2025/2149/`](odluka/2025/2149/) | in force | 1 | 2025-11-21 | 2025-11-21 |
+| Odluka o nastavku potpore projektima od strateškog značaja za Hrvate izvan Republike Hrvatske | [`odluka/2025/2154/`](odluka/2025/2154/) | replaced, not consolidated | 1 | 2025-11-27 | 2025-11-27 |
 | Odluka o izmjenama Odluke o proglašenju projekata od strateškog značaja za Hrvate izvan Republike Hrvatske | [`odluka/2025/2155/`](odluka/2025/2155/) | in force | 1 | 2025-11-27 | 2025-11-27 |
 | Odluka o porezima Općine Sveti Ilija | [`odluka/2025/2162/`](odluka/2025/2162/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak Grada Vrlike | [`odluka/2025/2163/`](odluka/2025/2163/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Trnovec Bartolovečki | [`odluka/2025/2182/`](odluka/2025/2182/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Općine Veliko Trojstvo | [`odluka/2025/2183/`](odluka/2025/2183/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o usklađivanju prihodovnog cenzusa za ostvarivanje prava na plaćanje premije dopunskoga zdravstvenog osiguranja u 2026. godini | [`odluka/2025/2186/`](odluka/2025/2186/) | amending act | 1 | 2025-12-12 | 2025-12-12 |
+| Odluka o izmjenama i dopuni Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2025/2187/`](odluka/2025/2187/) | amended, not consolidated | 1 | 2025-12-05 | 2025-12-05 |
 | Odluka o uvjetima ostvarivanja dobrovoljnog članstva u Hrvatskoj gospodarskoj komori | [`odluka/2025/2200/`](odluka/2025/2200/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o financiranju Hrvatske gospodarske komore | [`odluka/2025/2201/`](odluka/2025/2201/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o izmjeni Odluke o visini poreznih stopa godišnjeg poreza na dohodak na području Grada Pule - Pola | [`odluka/2025/2203/`](odluka/2025/2203/) | in force | 1 | 2026-01-01 | 2026-01-01 |
@@ -9594,12 +9724,22 @@
 | Odluka o visini poreznih stopa godišnjeg poreza na dohodak na području Općine Povljana | [`odluka/2025/2230/`](odluka/2025/2230/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Izmjene i dopune Odluke o visini poreznih stopa godišnjeg poreza na dohodak Općine Vrsar - Orsera | [`odluka/2025/2231/`](odluka/2025/2231/) | amending act | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o iznosu državnih poticajnih sredstava za stambenu štednju prikupljenu u 2026. godini | [`odluka/2025/2232/`](odluka/2025/2232/) | in force | 1 | 2025-12-20 | 2025-12-20 |
+| Odluka o potvrđivanju Statuta Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2025/2233/`](odluka/2025/2233/) | in force | 1 | 2025-12-12 | 2025-12-12 |
 | Odluka o doprinosu Republike Hrvatske za održivo upravljanje vodnim resursima na području Županije Zapadnohercegovačke u Federaciji Bosne i Hercegovine | [`odluka/2025/2234/`](odluka/2025/2234/) | in force | 1 | 2025-12-12 | 2025-12-12 |
 | Odluka o objavi kamatne stope na zajmove između povezanih osoba | [`odluka/2025/2236/`](odluka/2025/2236/) | in force | 1 | 2025-12-31 | 2025-12-31 |
 | Odluka o visini izuzetih novčanih sredstava od ovrhe za 2026. godinu | [`odluka/2025/2238/`](odluka/2025/2238/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o iznosu tarifnih stavki za prijenos električne energije | [`odluka/2025/2240/`](odluka/2025/2240/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o iznosu tarifnih stavki za distribuciju električne energije | [`odluka/2025/2241/`](odluka/2025/2241/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o visini poreznih stopa poreza na dohodak Grada Belog Manastira | [`odluka/2025/2243/`](odluka/2025/2243/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2268/`](odluka/2025/2268/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2269/`](odluka/2025/2269/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2270/`](odluka/2025/2270/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatske agencije za osiguranje depozita za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2271/`](odluka/2025/2271/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2272/`](odluka/2025/2272/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Centra za restrukturiranje i prodaju za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2273/`](odluka/2025/2273/) | amended, not consolidated | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2274/`](odluka/2025/2274/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan HŽ Putničkog prijevoza za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2275/`](odluka/2025/2275/) | in force | 1 | 2026-01-01 | 2026-01-01 |
+| Odluka o davanju suglasnosti na Financijski plan HŽ Infrastrukture za 2026. godinu i projekcije za 2027. i 2028. godinu | [`odluka/2025/2276/`](odluka/2025/2276/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o najvišem postotku naknade depozitaru za 2026. godinu | [`odluka/2025/2292/`](odluka/2025/2292/) | in force | 1 | 2025-12-18 | 2025-12-18 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. siječnja 2026. do 31. ožujka 2026. | [`odluka/2025/2293/`](odluka/2025/2293/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2025. godinu radi osiguranja sredstava za sanaciju štete od potresa na području Grada Zagreba, Sisačko-moslavačke županije, Zagrebačke županije i Karlovačke županije | [`odluka/2025/2301/`](odluka/2025/2301/) | in force | 1 | 2025-12-17 | 2025-12-17 |
@@ -9622,6 +9762,8 @@
 | Odluka o izmjeni Odluke o cijeni police dopunskog zdravstvenog osiguranja | [`odluka/2025/2399/`](odluka/2025/2399/) | amending act | 1 | 2026-02-01 | 2026-02-01 |
 | Odluka o izmjeni Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2025/2400/`](odluka/2025/2400/) | in force | 1 | 2026-01-01 | 2026-01-01 |
 | Odluka o donošenju Programa obrazovanja za stjecanje cjelovite kvalifikacije dadilja | [`odluka/2026/6/`](odluka/2026/6/) | in force | 1 | 2026-01-15 | 2026-01-15 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/22/`](odluka/2026/22/) | repealed, not consolidated | 1 | 2026-01-29 | 2026-01-29 |
+| Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/23/`](odluka/2026/23/) | repealed, not consolidated | 1 | 2026-01-29 | 2026-01-29 |
 | Odluka o osnovici za izračun iznosa zajamčene minimalne naknade za 2026. godinu | [`odluka/2026/26/`](odluka/2026/26/) | in force | 1 | 2026-01-16 | 2026-01-16 |
 | Odluka o osnovici za izračun iznosa drugih naknada u sustavu socijalne skrbi | [`odluka/2026/27/`](odluka/2026/27/) | in force | 1 | 2026-01-16 | 2026-01-16 |
 | Odluka o osnovici za izračun iznosa naknade za rad udomitelja i iznosa opskrbnine za 2026. godinu | [`odluka/2026/28/`](odluka/2026/28/) | in force | 1 | 2026-01-16 | 2026-01-16 |
@@ -9633,6 +9775,7 @@
 | Odluka o Programu rada meteoroloških, hidroloških, meteorološko-oceanografskih i fenoloških postaja | [`odluka/2026/45/`](odluka/2026/45/) | in force | 1 | 2026-01-29 | 2026-01-29 |
 | Odluka o izmjenama i dopunama Odluke o opskrbi banaka gotovim novcem eura | [`odluka/2026/51/`](odluka/2026/51/) | amending act | 1 | 2026-02-01 | 2026-02-01 |
 | Odluka o smjernici 21.: Pojedinosti u vezi s ugovaranjem zakonske revizije s više revizorskih društava kod subjekata od javnog interesa | [`odluka/2026/57/`](odluka/2026/57/) | in force | 1 | 2026-01-31 | 2026-01-31 |
+| Odluka o naknadi za razvoj društva Moslavina d.o.o. | [`odluka/2026/59/`](odluka/2026/59/) | amended, not consolidated | 1 | 2026-01-31 | 2026-01-31 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Kirgiskoj Republici, sa sjedištem u Bishkeku | [`odluka/2026/67/`](odluka/2026/67/) | in force | 1 | 2026-01-14 | 2026-01-14 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Kirgiskoj Republici, sa sjedištem u Bishkeku | [`odluka/2026/68/`](odluka/2026/68/) | in force | 1 | 2026-01-14 | 2026-01-14 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Martin Novi | [`odluka/2026/69/`](odluka/2026/69/) | in force | 1 | 2026-01-23 | 2026-01-23 |
@@ -9646,15 +9789,19 @@
 | Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2026. godini | [`odluka/2026/124/`](odluka/2026/124/) | amended, not consolidated | 1 | 2026-02-07 | 2026-02-07 |
 | Odluka o minimalnim financijskim standardima, kriterijima i mjerilima za decentralizirano financiranje domova za starije osobe u 2026. godini | [`odluka/2026/125/`](odluka/2026/125/) | in force | 1 | 2026-02-07 | 2026-02-07 |
 | Odluka o izmjenama i dopunama Odluke o nazivima i uvjetima za radna mjesta u Ustavnom sudu Republike Hrvatske | [`odluka/2026/127/`](odluka/2026/127/) | amending act | 1 | 2026-02-14 | 2026-02-14 |
+| Odluka o izmjeni Odluke o osnivanju Radne skupine za strateško usmjeravanje i pripremu stajališta Republike Hrvatske za pregovore o Višegodišnjem financijskom okviru Europske unije za razdoblje nakon 2027. | [`odluka/2026/133/`](odluka/2026/133/) | in force | 1 | 2026-02-05 | 2026-02-05 |
+| Odluka o izmjeni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2026/134/`](odluka/2026/134/) | in force | 1 | 2026-02-05 | 2026-02-05 |
 | Odluka o rasporedu sredstava koja se u Državnom proračunu Republike Hrvatske osiguravaju za potrebe nacionalnih manjina u 2026. godini | [`odluka/2026/142/`](odluka/2026/142/) | in force | 1 | 2026-02-06 | 2026-02-06 |
 | Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Statuta Hrvatske matice iseljenika | [`odluka/2026/153/`](odluka/2026/153/) | amending act | 1 | 2026-02-11 | 2026-02-11 |
 | Odluka o davanju ovlasti Ministarstvu zdravstva za davanje suglasnosti zdravstvenoj ustanovi za davanje u zakup poslovnog prostora i/ili zemljišta odnosno dijela poslovnog prostora i/ili dijela zemljišta | [`odluka/2026/174/`](odluka/2026/174/) | in force | 1 | 2026-02-17 | 2026-02-17 |
 | Odluka o davanju ovlasti Ministarstvu zdravstva za davanje suglasnosti zdravstvenoj ustanovi kojoj je osnivač Republika Hrvatska za osnivanje prava služnosti | [`odluka/2026/175/`](odluka/2026/175/) | in force | 1 | 2026-02-17 | 2026-02-17 |
 | Odluka o određivanju pravne osobe u državnom vlasništvu ovlaštene za obavljanje poslova potrebnih za provedbu nacionalnih ispita | [`odluka/2026/223/`](odluka/2026/223/) | in force | 1 | 2026-02-26 | 2026-02-26 |
+| Odluka o izmjeni Odluke o financiranju troškova za stambeno zbrinjavanje raseljenih osoba iz Ukrajine u pojedinačnom smještaju | [`odluka/2026/224/`](odluka/2026/224/) | in force | 1 | 2026-02-28 | 2026-02-28 |
 | Odluka o proširenju primjene Kolektivnog ugovora o izmjenama i dopunama Kolektivnog ugovora za graditeljstvo (od 25. rujna 2015. godine) - devete izmjene i dopune i Ispravka Kolektivnog ugovora za graditeljstvo (pročišćeni tekst) | [`odluka/2026/226/`](odluka/2026/226/) | amending act | 1 | 2026-03-01 | 2026-03-01 |
 | Odluka o izmjeni Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2026/233/`](odluka/2026/233/) | in force | 1 | 2026-02-26 | 2026-02-26 |
 | Odluka o izmjeni Odluke o osnivanju Radne skupine za strateško usmjeravanje i pripremu stajališta Republike Hrvatske za pregovore o Višegodišnjem financijskom okviru Europske unije za razdoblje nakon 2027. | [`odluka/2026/236/`](odluka/2026/236/) | in force | 1 | 2026-02-26 | 2026-02-26 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za 9. zonu (zone izlaganja 21. i 22.) | [`odluka/2026/238/`](odluka/2026/238/) | in force | 1 | 2026-02-23 | 2026-02-23 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/242/`](odluka/2026/242/) | amending act | 1 | 2026-03-19 | 2026-03-19 |
 | Odluka o aktualnoj vrijednosti mirovine od 1. siječnja 2026 . | [`odluka/2026/243/`](odluka/2026/243/) | in force | 1 | 2026-03-12 | 2026-03-12 |
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. siječnja 2026. | [`odluka/2026/244/`](odluka/2026/244/) | in force | 1 | 2026-03-12 | 2026-03-12 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. siječnja 2026. | [`odluka/2026/245/`](odluka/2026/245/) | in force | 1 | 2026-03-12 | 2026-03-12 |
@@ -9671,6 +9818,7 @@
 | Odluka o informatičkim rješenjima za dostavu izvještaja za potrebe planiranja sanacije kreditnih institucija | [`odluka/2026/317/`](odluka/2026/317/) | in force | 1 | 2026-03-26 | 2026-03-26 |
 | Odluka o izmjenama i dopunama Odluke o načinu primjene pojednostavljenih obveza iz područja sanacije na kreditne institucije | [`odluka/2026/318/`](odluka/2026/318/) | amending act | 1 | 2026-03-26 | 2026-03-26 |
 | Odluka o donošenju Programa potpore za provedbu proljetne sjetve/sadnje u 2026. godini | [`odluka/2026/340/`](odluka/2026/340/) | in force | 1 | 2026-03-23 | 2026-03-23 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2026/341/`](odluka/2026/341/) | replaced, not consolidated | 1 | 2026-04-01 | 2026-04-01 |
 | Odluka o izmjenama Odluke o upravljanju kolateralom u kreditnim operacijama Eurosustava | [`odluka/2026/355/`](odluka/2026/355/) | in force | 1 | 2026-03-30 | 2026-03-30 |
 | Odluka o izmjenama i dopunama Odluke o provođenju operacija monetarne politike | [`odluka/2026/356/`](odluka/2026/356/) | amending act | 1 | 2026-03-30 | 2026-03-30 |
 | Odluka o raspisivanju prijevremenih izbora za članove Općinskog vijeća Općine Drenovci i Općinskog vijeća Općine Proložac | [`odluka/2026/358/`](odluka/2026/358/) | in force | 1 | 2026-03-26 | 2026-03-26 |
@@ -9688,9 +9836,12 @@
 | Odluka o puštanju na tržište obveznih zaliha nafte i naftnih derivata | [`odluka/2026/418/`](odluka/2026/418/) | in force | 1 | 2026-04-01 | 2026-04-01 |
 | Odluka o donošenju Akcijskog plana za provedbu Nacionalnog plana razvoja održivog turizma za razdoblje do 2027. godine | [`odluka/2026/453/`](odluka/2026/453/) | in force | 1 | 2026-04-09 | 2026-04-09 |
 | Odluka o donošenju Programa potpore razvoju poljoprivrednih projekata Hrvata u Bosni i Hercegovini za razdoblje 2026. - 2028. | [`odluka/2026/454/`](odluka/2026/454/) | in force | 1 | 2026-04-09 | 2026-04-09 |
+| Odluka o raspisivanju prijevremenih izbora za gradonačelnika i zamjenika gradonačelnika Grada Nova Gradiška | [`odluka/2026/462/`](odluka/2026/462/) | in force | 1 | 2026-04-16 | 2026-04-16 |
+| Odluka o izmjenama Odluke o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo | [`odluka/2026/487/`](odluka/2026/487/) | in force | 1 | 2026-04-16 | 2026-04-16 |
 | Odluka o autorizaciji plovila za ribolov igluna (Xiphias gladius) i plavoperajne tune (Thunnus thynnus) u 2026. godini | [`odluka/2026/494/`](odluka/2026/494/) | in force | 1 | 2026-04-18 | 2026-04-18 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Čučerje Novo za 10. zonu (zone izlaganja 20. i 30.) | [`odluka/2026/503/`](odluka/2026/503/) | in force | 1 | 2026-04-15 | 2026-04-15 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Republici Uzbekistanu, sa sjedištem u Taškentu | [`odluka/2026/507/`](odluka/2026/507/) | in force | 1 | 2026-04-13 | 2026-04-13 |
+| Odluka o nastavku potpore projektima od strateškog značaja za Hrvate izvan Republike Hrvatske | [`odluka/2026/516/`](odluka/2026/516/) | replaced, not consolidated | 1 | 2026-04-23 | 2026-04-23 |
 | Odluka o pokretanju postupka izmjene i dopune Nacionalne razvojne strategije Republike Hrvatske do 2030. godine | [`odluka/2026/517/`](odluka/2026/517/) | amending act | 1 | 2026-04-23 | 2026-04-23 |
 | Odluka o raspisivanju prijevremenih izbora za zamjenika općinskog načelnika Općine Krnjak iz reda pripadnika hrvatskoga naroda | [`odluka/2026/524/`](odluka/2026/524/) | in force | 1 | 2026-04-30 | 2026-04-30 |
 | Odluka o proširenju primjene Kolektivnog ugovora ugostiteljstva | [`odluka/2026/536/`](odluka/2026/536/) | in force | 1 | 2026-05-01 | 2026-05-01 |
@@ -9705,12 +9856,18 @@
 | Odluka o iznosu jedinične naknade za priključenje na mrežu | [`odluka/2026/552/`](odluka/2026/552/) | in force | 1 | 2026-05-01 | 2026-05-01 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Demokratskoj Republici Timor-Lesteu | [`odluka/2026/563/`](odluka/2026/563/) | in force | 1 | 2026-04-27 | 2026-04-27 |
 | Odluka o postavljanju počasnog konzula Republike Hrvatske u Demokratskoj Republici Timor-Lesteu | [`odluka/2026/564/`](odluka/2026/564/) | in force | 1 | 2026-04-27 | 2026-04-27 |
+| Odluka o kriterijima i visini naknade za smanjenje utjecaja porasta cijena energenata na udomitelje | [`odluka/2026/565/`](odluka/2026/565/) | replaced, not consolidated | 1 | 2026-05-07 | 2026-05-07 |
 | Odluka o izmjeni Odluke o ribarskim plovilima autoriziranima za rad u Jabučkom džepu za razdoblje 2022. - 2026. godine | [`odluka/2026/567/`](odluka/2026/567/) | in force | 1 | 2026-05-07 | 2026-05-07 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Diklo Novo | [`odluka/2026/569/`](odluka/2026/569/) | in force | 1 | 2026-04-24 | 2026-04-24 |
 | Odluka o utvrđivanju Dodatne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/570/`](odluka/2026/570/) | repealed 2026-10-15 | 2 | 2026-05-21 | 2026-10-15 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2026/571/`](odluka/2026/571/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Odluka o izmjenama Odluke o osnovama za sklapanje ugovora o provođenju specifične zdravstvene zaštite | [`odluka/2026/572/`](odluka/2026/572/) | in force | 1 | 2026-05-07 | 2026-05-07 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/573/`](odluka/2026/573/) | amending act | 1 | 2026-05-21 | 2026-05-21 |
+| Odluka o zatvaranju za promet postojećeg željezničko-cestovnog prijelaza | [`odluka/2026/574/`](odluka/2026/574/) | replaced, not consolidated | 1 | 2026-04-22 | 2026-04-22 |
 | Odluka o izmjenama Odluke o koordinaciji aktivnosti unutar okvira za gospodarsko upravljanje Europske unije | [`odluka/2026/590/`](odluka/2026/590/) | in force | 1 | 2026-05-07 | 2026-05-07 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Ogulin I | [`odluka/2026/618/`](odluka/2026/618/) | in force | 1 | 2026-05-04 | 2026-05-04 |
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za dio katastarske općine Omišalj - Njivice za 3. zonu | [`odluka/2026/619/`](odluka/2026/619/) | in force | 1 | 2026-05-06 | 2026-05-06 |
+| Odluka o izmjeni Odluke o osnivanju Vijeća za genetski modificirane organizme | [`odluka/2026/625/`](odluka/2026/625/) | in force | 1 | 2026-05-14 | 2026-05-14 |
 | Odluka o izdavanju zlatnih i srebrnih numizmatičkih kovanica »Vučedolska kultura« | [`odluka/2026/637/`](odluka/2026/637/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Odluka o izdavanju prigodne kovanice »100 godina Hrvatske radiotelevizije« (NN 50/2026) | [`odluka/2026/638/`](odluka/2026/638/) | in force | 1 | 2026-05-16 | 2026-05-16 |
 | Odluka o osnivanju Vijeća za urbani razvoj | [`odluka/2026/661/`](odluka/2026/661/) | in force | 1 | 2026-05-21 | 2026-05-21 |
@@ -9719,6 +9876,8 @@
 | Odluka o dokumentaciji koja se prilaže zahtjevu za izdavanje odobrenja za raspoređivanje instrumenata kapitala kao instrumenta regulatornoga kapitala i postupku uključivanja dobiti tekuće godine u redovni osnovni kapital | [`odluka/2026/694/`](odluka/2026/694/) | in force | 1 | 2026-06-04 | 2026-06-04 |
 | Odluka o dopuni Odluke o uspostavljanju državnih linija | [`odluka/2026/698/`](odluka/2026/698/) | amending act | 1 | 2026-05-28 | 2026-05-28 |
 | Odluka o upisu učenika u I. razred srednje škole u školskoj godini 2026./2027. | [`odluka/2026/701/`](odluka/2026/701/) | in force | 1 | 2026-05-30 | 2026-05-30 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2026/706/`](odluka/2026/706/) | amending act | 1 | 2026-06-01 | 2026-06-01 |
+| Odluka o početku i završetku nastavne godine, broju radnih dana i trajanju odmora učenika osnovnih i srednjih škola za školsku godinu 2026./2027. | [`odluka/2026/724/`](odluka/2026/724/) | cited later, not consolidated | 1 | 2026-06-11 | 2026-06-11 |
 | Odluku o promjeni granice pomorskog dobra radi rekonstrukcije dijela državne ceste DC117 s priključkom za ribarsku luku Komiža | [`odluka/2026/766/`](odluka/2026/766/) | in force | 1 | 2026-06-11 | 2026-06-11 |
 | Odluka o objavi okvira profesionalnih načela, standarda i smjernica Međunarodne organizacije vrhovnih revizijskih institucija (INTOSAI) | [`odluka/2026/769/`](odluka/2026/769/) | in force | 1 | 2026-06-20 | 2026-06-20 |
 | Odluka o donošenju Akcijskog plana za sprječavanje udomaćivanja i širenja štetnog organizma Popillia Japonica Newman za 2026. godinu | [`odluka/2026/775/`](odluka/2026/775/) | in force | 1 | 2026-06-15 | 2026-06-15 |
@@ -9729,6 +9888,7 @@
 | Odluka o stavljanju u službenu uporabu katastarskog operata katastra nekretnina za katastarsku općinu Dubrovnik Nova za zonu 3 | [`odluka/2026/805/`](odluka/2026/805/) | in force | 1 | 2026-06-18 | 2026-06-18 |
 | Odluka o potvrđivanju Izmjena Statuta Hrvatskog zavoda za mirovinsko osiguranje | [`odluka/2026/820/`](odluka/2026/820/) | in force | 1 | 2026-06-26 | 2026-06-26 |
 | Odluka o uvjetima za prijam učenika prvih razreda srednjih škola u učeničke domove u školskoj godini 2026./2027. | [`odluka/2026/822/`](odluka/2026/822/) | in force | 1 | 2026-06-27 | 2026-06-27 |
+| Odluka o izmjenama i dopunama Odluke o utvrđivanju Osnovne liste ortopedskih i drugih pomagala Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2026/825/`](odluka/2026/825/) | amending act | 1 | 2026-07-11 | 2026-07-11 |
 | Odluka o osnivanju Radne skupine za analizu, praćenje i koordinaciju promjene administrativnih cijena | [`odluka/2026/844/`](odluka/2026/844/) | in force | 1 | 2026-06-26 | 2026-06-26 |
 | Odluka o iznosu osnovice za određivanje prava iz Zakona o hrvatskim braniteljima iz Domovinskog rata i članovima njihovih obitelji za 2027. godinu | [`odluka/2026/845/`](odluka/2026/845/) | in force | 1 | 2026-07-09 | 2026-07-09 |
 | Odluka o iznosu osnovice za određivanje prava iz Zakona o civilnim stradalnicima iz Domovinskog rata za 2027. godinu | [`odluka/2026/846/`](odluka/2026/846/) | in force | 1 | 2026-07-09 | 2026-07-09 |
@@ -9767,8 +9927,11 @@
 | Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2026. | [`odluka/2026/1168/`](odluka/2026/1168/) | in force | 1 | 2026-09-05 | 2026-09-05 |
 | Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2026. | [`odluka/2026/1169/`](odluka/2026/1169/) | in force | 1 | 2026-09-05 | 2026-09-05 |
 | Odluka o visini naknade, načinu isplate i prihvatljivim troškovima za korištenje naknade zbog zaštićenih prirodnih područja | [`odluka/2026/1194/`](odluka/2026/1194/) | in force | 1 | 2026-09-15 | 2026-09-15 |
+| Odluka o nastavku provedbe mjere za smanjenje utjecaja porasta cijena energenata na pružatelje socijalnih usluga u Republici Hrvatskoj | [`odluka/2026/1211/`](odluka/2026/1211/) | in force | 1 | 2026-10-01 | 2026-10-01 |
+| Odluka o objavi cjenika proizvoda i usluga kao mjera izravne kontrole cijena | [`odluka/2026/1213/`](odluka/2026/1213/) | amended, not consolidated | 1 | 2026-10-01 | 2026-10-01 |
 | Odluka o isplati jednokratnog novčanog primanja braniteljsko-stradalničkoj populacij i iz Domovinskog rata u sustavu skrbi radi ublažavanja posljedica rasta troškova života | [`odluka/2026/1214/`](odluka/2026/1214/) | in force | 1 | 2026-09-12 | 2026-09-12 |
 | Odluka o izmjenama Odluke o subvencioniranju dijela krajnje cijene opskrbe plinom za krajnje kupce kategorije kućanstvo | [`odluka/2026/1215/`](odluka/2026/1215/) | in force | 1 | 2026-10-01 | 2026-10-01 |
+| Odluka o iznosu tarifnih stavki za javnu uslugu opskrbe plinom za razdoblje od 1. listopada do 31. prosinca 2026. godine | [`odluka/2026/1223/`](odluka/2026/1223/) | amended, not consolidated | 1 | 2026-10-01 | 2026-10-01 |
 | Odluka o iznosu tarifnih stavki za zajamčenu opskrbu plinom za krajnje kupce koji nisu kućanstvo za razdoblje od 1. listopada 2026. do 31. prosinca 2026. | [`odluka/2026/1224/`](odluka/2026/1224/) | in force | 1 | 2026-10-01 | 2026-10-01 |
 | Odluka o iznosu tarifnih stavki za distribuciju toplinske energije za centralni toplinski sustav Slavonija za energetski subjekt Brod-plin d.o.o., Trg pobjede 5, Slavonski Brod | [`odluka/2026/1225/`](odluka/2026/1225/) | in force | 1 | 2026-10-01 | 2026-10-01 |
 | Odluka o iznosu tarifnih stavki za proizvodnju toplinske energije za centralni toplinski sustav Slavonija za energetski subjekt Brod-plin d.o.o., Trg pobjede 5, Slavonski Brod | [`odluka/2026/1226/`](odluka/2026/1226/) | in force | 1 | 2026-10-01 | 2026-10-01 |
@@ -9834,8 +9997,10 @@
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih autocesta za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1501/`](odluka/2026/1501/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Putničkog prijevoza za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1502/`](odluka/2026/1502/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
 | Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana HŽ Infrastrukture za 2026. godinu i projekcija plana za 2027. i 2028. godinu | [`odluka/2026/1503/`](odluka/2026/1503/) | amending act | 1 | 2026-11-04 | 2026-11-04 |
+| Odluka o subvencioniranju dijela krajnje cijene isporučene toplinske energije za sve krajnje kupce osim za krajnje kupce koji koriste toplinsku energiju pretežito za poslovnu upotrebu | [`odluka/2026/1520/`](odluka/2026/1520/) | in force | 1 | 2026-11-07 | 2026-11-07 |
+| Odluka o raspisivanju izbora za članove Državnoodvjetničkog vijeće iz reda zamjenika državnih odvjetnika | [`odluka/2026/1523/`](odluka/2026/1523/) | in force | 1 | 2026-11-06 | 2026-11-06 |
 
-## pravilnik (2983, of which 996 amending acts)
+## pravilnik (3118, of which 1036 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -10217,6 +10382,141 @@
 | Pravilnik o izmjenama i dopunama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu | [`pravilnik/1999/2265/`](pravilnik/1999/2265/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
 | Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na osposobljavanje za samostalan život i rad | [`pravilnik/1999/2266/`](pravilnik/1999/2266/) | amending act | 1 | 1999-12-30 | 1999-12-30 |
 | Pravilnik o izmjenama i dopunama Pravilnika o tehničkom nadzoru električnih postrojenja, instalacija i uređaja namijenjenih za rad u prostorima ugroženim eksplozivnom atmosferom | [`pravilnik/1999/2268/`](pravilnik/1999/2268/) | amending act | 1 | 2000-01-07 | 2000-01-07 |
+| Pravilnik o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja u slučaju ozljede na radu i profesionalne bolesti | [`pravilnik/2011/11/`](pravilnik/2011/11/) | repealed, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o izmjenama Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz obveznog zdravstvenog osiguranja | [`pravilnik/2011/13/`](pravilnik/2011/13/) | amended, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o izmjeni Pravilnika o ovlastima i načinu rada ovlaštenih doktora i liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/2011/14/`](pravilnik/2011/14/) | in force | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o izmjenama Pravilnika o načinu propisivanja i izdavanja lijekova na recept | [`pravilnik/2011/15/`](pravilnik/2011/15/) | in force | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala | [`pravilnik/2011/16/`](pravilnik/2011/16/) | in force | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o izmjenama i dopunama Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu | [`pravilnik/2011/17/`](pravilnik/2011/17/) | amending act | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o izmjeni Pravilnika o načinu prijavljivanja i odjavljivanja te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju | [`pravilnik/2011/18/`](pravilnik/2011/18/) | in force | 1 | 2011-01-03 | 2011-01-03 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za infracrvene termometre za mjerenje najviše temperature ljudskog tijela | [`pravilnik/2011/105/`](pravilnik/2011/105/) | repealed, not consolidated | 1 | 2011-01-22 | 2011-01-22 |
+| Pravilnik o izmjenama i dopunama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja | [`pravilnik/2011/106/`](pravilnik/2011/106/) | amended, not consolidated | 1 | 2011-01-14 | 2011-01-14 |
+| Pravilnik o sadržaju i trajanju obrazovnog programa, uvjetima za pristup ispitu, postupku provođenja ispita za stjecanje zvanja ovlaštenog upravitelja mirovinskih fondova i uvjetima za dobivanje licence i važenje licence ovlaštenog upravitelja mirovinskih fondova | [`pravilnik/2011/120/`](pravilnik/2011/120/) | in force | 1 | 2011-01-22 | 2011-01-22 |
+| Pravilnik o obliku i iznosu kapitala koja su društva za upravljanje investicijskim fondovima dužna održavati | [`pravilnik/2011/121/`](pravilnik/2011/121/) | amended, not consolidated | 1 | 2011-01-22 | 2011-01-22 |
+| Pravilnik o izmjenama i dopunama Pravilnika o obliku i načinu vođenja odobrenja za obavljanje domaće radinosti ili sporednog zanimanja s listama proizvoda i usluga | [`pravilnik/2011/129/`](pravilnik/2011/129/) | amending act | 1 | 2011-01-17 | 2011-01-17 |
+| Pravilnik o izmjeni Pravilnika o ovlašćivanju službenih i referentnih laboratorija za hranu i hranu za životinje | [`pravilnik/2011/130/`](pravilnik/2011/130/) | in force | 1 | 2011-01-17 | 2011-01-17 |
+| Pravilnik o izmjenama Pravilnika o obveznom sadržaju, rokovima i obliku obveznih izvješća o radu investicijskih fondova, društava za upravljanje i depozitne banke | [`pravilnik/2011/1013/`](pravilnik/2011/1013/) | in force | 1 | 2011-04-21 | 2011-04-21 |
+| Pravilnik o izmjenama Pravilnika o financijskim izvještajima mirovinskih fondova | [`pravilnik/2011/1014/`](pravilnik/2011/1014/) | in force | 1 | 2011-04-21 | 2011-04-21 |
+| Pravilnik o visini novčane naknade za rad u Prvostupanjskom disciplinskom sudu Carinske uprave i Drugostupanjskom disciplinskom sudu Carinske uprave | [`pravilnik/2011/1022/`](pravilnik/2011/1022/) | repealed, not consolidated | 1 | 2011-04-23 | 2011-04-23 |
+| Pravilnik o tarifi za naknadu troškova i nagradu za obavljanje javne komisione djelatnosti | [`pravilnik/2011/1023/`](pravilnik/2011/1023/) | repealed, not consolidated | 1 | 2012-01-01 | 2012-01-01 |
+| Pravilnik o utvrđivanju visine iznosa radi osiguranja javnih komisionara od odgovornosti | [`pravilnik/2011/1024/`](pravilnik/2011/1024/) | repealed, not consolidated | 1 | 2012-01-01 | 2012-01-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o primjeni Zakona o trošarinama što se odnosi na plinsko ulje obojano plavom bojom za namjene u poljoprivredi, ribolovu i akvakulturi | [`pravilnik/2011/1031/`](pravilnik/2011/1031/) | amending act | 1 | 2011-04-18 | 2011-04-18 |
+| Pravilnik o evidenciji privremeno oduzete imovine u postupku oduzimanja imovinske koristi ostvarene kaznenim djelom i prekršajem | [`pravilnik/2011/1032/`](pravilnik/2011/1032/) | repealed, not consolidated | 1 | 2011-04-18 | 2011-04-18 |
+| Pravilnik o visini nagrade odvjetniku određenom za branitelja po službenoj dužnosti | [`pravilnik/2011/1033/`](pravilnik/2011/1033/) | repealed, not consolidated | 1 | 2011-05-01 | 2011-05-01 |
+| Pravilnik o područjima s težim uvjetima gospodarenja u poljoprivredi | [`pravilnik/2011/1034/`](pravilnik/2011/1034/) | repealed, not consolidated | 1 | 2011-04-26 | 2011-04-26 |
+| Pravilnik o zvanjima i stručnoj osposobljenosti brodaraca | [`pravilnik/2011/1055/`](pravilnik/2011/1055/) | repealed, not consolidated | 1 | 2011-05-16 | 2011-05-16 |
+| Pravilnik o uvjetima kojima moraju udovoljavati sajmovi za životinje | [`pravilnik/2011/1056/`](pravilnik/2011/1056/) | cited later, not consolidated | 1 | 2011-04-28 | 2011-04-28 |
+| Pravilnik o izmjenama Pravilnika o higijeni hrane životinjskog podrijetla | [`pravilnik/2011/1057/`](pravilnik/2011/1057/) | in force | 1 | 2011-04-28 | 2011-04-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o visini naknada za obvezne veterinarske preglede u prometu preko granice Republike Hrvatske | [`pravilnik/2011/1061/`](pravilnik/2011/1061/) | amending act | 1 | 2011-05-01 | 2011-05-01 |
+| Pravilnik o izmjeni Pravilnika o oznakama izvornosti i oznakama zemljopisnog podrijetla poljoprivrednih i prehrambenih proizvoda | [`pravilnik/2011/1062/`](pravilnik/2011/1062/) | in force | 1 | 2011-04-22 | 2011-04-22 |
+| Pravilnik o izmjeni Pravilnika o oznakama tradicionalnog ugleda poljoprivrednih i prehrambenih proizvoda | [`pravilnik/2011/1063/`](pravilnik/2011/1063/) | in force | 1 | 2011-04-22 | 2011-04-22 |
+| Pravilnik o dodacima prehrani | [`pravilnik/2011/1066/`](pravilnik/2011/1066/) | repealed, not consolidated | 1 | 2011-04-30 | 2011-04-30 |
+| Pravilnik o obrascu potvrde o smrti | [`pravilnik/2011/1068/`](pravilnik/2011/1068/) | cited later, not consolidated | 1 | 2011-04-30 | 2011-04-30 |
+| Pravilnik o načinu i uvjetima izvršavanja državnog proračuna te o načinu povrata sredstava u državni proračun i vođenja evidencija o povratu sredstava | [`pravilnik/2011/1085/`](pravilnik/2011/1085/) | repealed, not consolidated | 1 | 2011-04-27 | 2011-04-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o jednostavnim građevinama i radovima | [`pravilnik/2011/1086/`](pravilnik/2011/1086/) | amending act | 1 | 2011-05-05 | 2011-05-05 |
+| Pravilnik o izmjeni Pravilnika o načinu prijavljivanja i odjavljivanja te stjecanju statusa osigurane osobe u obveznom zdravstvenom osiguranju | [`pravilnik/2011/1088/`](pravilnik/2011/1088/) | in force | 1 | 2011-05-05 | 2011-05-05 |
+| Pravilnik o izmjenama i dopunama Pravilnika o ovlastima i načinu rada kontrolora Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/2011/1089/`](pravilnik/2011/1089/) | amending act | 1 | 2011-05-05 | 2011-05-05 |
+| Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz sufinanciranje troškova kupnje opreme, ribolovnih alata, plovila i pogonskih strojeva za obavljanje gospodarskog ribolova na moru u 2011. godini | [`pravilnik/2011/1112/`](pravilnik/2011/1112/) | in force | 1 | 2011-04-29 | 2011-04-29 |
+| Pravilnik o načinu vođenja evidencija i izdavanja potvrda o primitku dobrovoljnih priloga (donacija) i članarina, izvješćima o primljenim donacijama za financiranje izborne promidžbe i izvješćima o troškovima (rashodima) izborne promidžbe te financijskim izvještajima za financiranje izborne promidžbe | [`pravilnik/2011/1118/`](pravilnik/2011/1118/) | repealed, not consolidated | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o stručnom osposobljavanju i provjeri znanja za upravljanje i rukovanje energetskim postrojenjima | [`pravilnik/2011/1120/`](pravilnik/2011/1120/) | amending act | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o Registru prijevoznika i evidenciji posrednika u cestovnom prijevozu | [`pravilnik/2011/1121/`](pravilnik/2011/1121/) | repealed, not consolidated | 1 | 2011-12-01 | 2011-12-01 |
+| Pravilnik o izmjeni Pravilnika o načinu obavljanja veterinarskih pregleda i kontrola živih životinja u prometu preko granice Republike Hrvatske | [`pravilnik/2011/1122/`](pravilnik/2011/1122/) | in force | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku stručnog nadzora i nadzora pod stručnom kontrolom nad proizvodnjom poljoprivrednog reprodukcijskog materijala | [`pravilnik/2011/1123/`](pravilnik/2011/1123/) | amending act | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i obliku svjedodžbi i drugih javnih isprava te pedagoškoj dokumentaciji i evidenciji u školskim ustanovama | [`pravilnik/2011/1124/`](pravilnik/2011/1124/) | amending act | 1 | 2011-05-03 | 2011-05-03 |
+| Pravilnik o dopuni Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja | [`pravilnik/2011/1125/`](pravilnik/2011/1125/) | amending act | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o izmjeni Pravilnika o ovlastima i načinu rada ovlaštenih doktora i liječničkih povjerenstava Hrvatskog zavoda za zdravstveno osiguranje | [`pravilnik/2011/1127/`](pravilnik/2011/1127/) | in force | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o podnošenju poreznih prijava i drugih podataka elektroničkim putem | [`pravilnik/2011/1129/`](pravilnik/2011/1129/) | repealed, not consolidated | 1 | 2012-01-01 | 2012-01-01 |
+| Pravilnik o provedbi mjera strukturne politike u ribarstvu kroz sufinanciranje troškova kupnje opreme, ribolovnih alata, plovila i pogonskih strojeva za obavljanje gospodarskog ribolova na slatkim vodama u 2011. godini | [`pravilnik/2011/1130/`](pravilnik/2011/1130/) | replaced, not consolidated | 1 | 2011-05-04 | 2011-05-04 |
+| Pravilnik o izmjeni i dopuni Pravilnika o minimalnim uvjetima za zaštitu kokoši nesilica | [`pravilnik/2011/1131/`](pravilnik/2011/1131/) | amending act | 1 | 2011-05-12 | 2011-05-12 |
+| Pravilnik o posebnim uvjetima za uvoz hrane i hrane za životinje podrijetlom ili isporučene iz Japana nakon incidenta u nuklearnoj elektrani Fukushima | [`pravilnik/2011/1132/`](pravilnik/2011/1132/) | amended, not consolidated | 1 | 2011-05-04 | 2011-05-04 |
+| Pravilnik o početnoj cijeni poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na natječaju za prodaju i zakup, početnoj visini naknade na natječaju za dugogodišnji zakup i koncesiju za ribnjake | [`pravilnik/2011/1152/`](pravilnik/2011/1152/) | repealed, not consolidated | 1 | 2011-05-14 | 2011-05-14 |
+| Pravilnik o izmjenama Pravilnika o obavljanju gospodarskog ribolova na moru | [`pravilnik/2011/1154/`](pravilnik/2011/1154/) | in force | 1 | 2011-05-06 | 2011-05-06 |
+| Pravilnik o izmjeni i dopuni Pravilnika o načinu propisivanja i izdavanja lijekova na recept | [`pravilnik/2011/1155/`](pravilnik/2011/1155/) | amending act | 1 | 2011-05-06 | 2011-05-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za proizvodnju, smještaj i promet oružja i streljiva, popravljanje i prepravljanje oružja te vođenje civilnih strelišta | [`pravilnik/2011/1166/`](pravilnik/2011/1166/) | amended, not consolidated | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o izmjenama Pravilnika o visini godišnje naknade za uporabu javnih cesta što se plaća pri registraciji motornih i priključnih vozila | [`pravilnik/2011/1167/`](pravilnik/2011/1167/) | in force | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o pošiljkama za koje nije potrebno rješenje o veterinarskim uvjetima za uvoz | [`pravilnik/2011/1168/`](pravilnik/2011/1168/) | repealed, not consolidated | 1 | 2011-05-19 | 2011-05-19 |
+| Pravilnik o izmjenama Pravilnika o ulovu, uzgoju i prometu tune (Thunnus thynnus), igluna (Xiphias gladius) i iglana (Tetrapturus belone) | [`pravilnik/2011/1169/`](pravilnik/2011/1169/) | in force | 1 | 2011-05-11 | 2011-05-11 |
+| Pravilnik o uvjetima, organizaciji i načinu obavljanja djelatnosti sanitetskog prijevoza | [`pravilnik/2011/1173/`](pravilnik/2011/1173/) | repealed, not consolidated | 1 | 2011-05-19 | 2011-05-19 |
+| Pravilnik o izmjenama i dopunama Pravilnika o vizama | [`pravilnik/2011/1180/`](pravilnik/2011/1180/) | amending act | 1 | 2011-05-21 | 2011-05-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o provedbi mjere 301. "Poboljšanje i razvoj ruralne infrastrukture" unutar IPARD programa | [`pravilnik/2011/1184/`](pravilnik/2011/1184/) | amended, not consolidated | 1 | 2011-05-21 | 2011-05-21 |
+| Pravilnik o uporabi popravljenih ili pripremljenih ugrađenih zakonitih mjerila prije ovjeravanja | [`pravilnik/2011/1186/`](pravilnik/2011/1186/) | cited later, not consolidated | 1 | 2011-05-21 | 2011-05-21 |
+| Pravilnik o dopuni Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja | [`pravilnik/2011/1190/`](pravilnik/2011/1190/) | amending act | 1 | 2011-05-13 | 2011-05-13 |
+| Pravilnik o izmjenama i dopunama Pravilnika o metodama analiza toplinski obrađenog mlijeka za prehranu ljudi | [`pravilnik/2011/1213/`](pravilnik/2011/1213/) | amending act | 1 | 2011-05-26 | 2011-05-26 |
+| Pravilnik o postupku utvrđivanja psihofizičkoga stanja djeteta, učenika te sastavu stručnoga povjerenstva | [`pravilnik/2011/1214/`](pravilnik/2011/1214/) | replaced, not consolidated | 1 | 2011-05-18 | 2011-05-18 |
+| Pravilnik o organiziranju, financiranju i donošenju programa festivala Osorske glazbene večeri | [`pravilnik/2011/1216/`](pravilnik/2011/1216/) | in force | 1 | 2011-05-26 | 2011-05-26 |
+| Pravilnik o izmjeni Pravilnika o EU homologaciji i pojedinačnom odobravanju motornih vozila (izdanje 00) | [`pravilnik/2011/1240/`](pravilnik/2011/1240/) | in force | 1 | 2011-05-28 | 2011-05-28 |
+| Pravilnik o utvrđivanju staža osiguranja na temelju plaćenih doprinosa za mirovinsko osiguranje | [`pravilnik/2011/1263/`](pravilnik/2011/1263/) | repealed, not consolidated | 1 | 2011-06-02 | 2011-06-02 |
+| Pravilnik o vojnim odorama | [`pravilnik/2011/1268/`](pravilnik/2011/1268/) | repealed, not consolidated | 1 | 2011-05-27 | 2011-05-27 |
+| Pravilnik o izmjenama i dopunama Pravilnika o troškovima za usluge i postupke koje provodi Zavod za sjemenarstvo i rasadničarstvo | [`pravilnik/2011/1270/`](pravilnik/2011/1270/) | amending act | 1 | 2011-06-04 | 2011-06-04 |
+| Pravilnik o upisu u Upisnike u obavljanju poslova zaštite biljnih sorti | [`pravilnik/2011/1271/`](pravilnik/2011/1271/) | in force | 1 | 2011-06-04 | 2011-06-04 |
+| Pravilnik o organiziranju, financiranju i donošenju programa festivala Dubrovačke ljetne igre | [`pravilnik/2011/1274/`](pravilnik/2011/1274/) | amended, not consolidated | 1 | 2011-11-01 | 2011-11-01 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu upisa u Upisnik dobavljača šumskog reprodukcijskog materijala | [`pravilnik/2011/1275/`](pravilnik/2011/1275/) | amending act | 1 | 2011-06-04 | 2011-06-04 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za taksimetre ugrađene u taksi vozila | [`pravilnik/2011/1276/`](pravilnik/2011/1276/) | in force | 1 | 2011-06-04 | 2011-06-04 |
+| Pravilnik o izmjenama i dopunama Pravilnika o postupku homologacije motora s kompresijskim paljenjem i motora na plin namijenjenih za uporabu u vozilima, te vozila opremljenih takvim motorima s obzirom na smanjenje emisije plinovitih onečišćivača i onečišćujućih čestica iz motora TPV 141 (Izdanje 01) | [`pravilnik/2011/1277/`](pravilnik/2011/1277/) | amending act | 1 | 2011-06-04 | 2011-06-04 |
+| Pravilnik o registru izmiritelja i standardima za akreditiranje institucija za mirenje i izmiritelja | [`pravilnik/2011/1323/`](pravilnik/2011/1323/) | in force | 1 | 2011-06-07 | 2011-06-07 |
+| Pravilnik o izmjenama i dopunama Pravilnika o utvrđivanju cijena ukapljenog naftnog plina | [`pravilnik/2011/1324/`](pravilnik/2011/1324/) | amending act | 1 | 2011-05-30 | 2011-05-30 |
+| Pravilnik o izmjenama i dopunama Pravilnika o tržišnim standardima za voće i povrće | [`pravilnik/2011/1327/`](pravilnik/2011/1327/) | amending act | 1 | 2011-05-30 | 2011-05-30 |
+| Pravilnik o postupku utvrđivanju različitosti, ujednačenosti i postojanosti novih biljnih sorti u svrhu dodjeljivanja oplemenjivačkog prava i priznavanja sorti | [`pravilnik/2011/1373/`](pravilnik/2011/1373/) | in force | 1 | 2011-06-11 | 2011-06-11 |
+| Pravilnik o minimalnim uvjetima u pogledu prostora, radnika i medicinsko-tehničke opreme za obavljanje zdravstvene djelatnosti | [`pravilnik/2011/1374/`](pravilnik/2011/1374/) | repealed, not consolidated | 1 | 2011-06-11 | 2011-06-11 |
+| Pravilnik o izmjenama Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja | [`pravilnik/2011/1380/`](pravilnik/2011/1380/) | in force | 1 | 2011-06-03 | 2011-06-03 |
+| Pravilnik o načinu prijave bolesti životinja | [`pravilnik/2011/1386/`](pravilnik/2011/1386/) | repealed, not consolidated | 1 | 2011-06-14 | 2011-06-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o voćnim vinima | [`pravilnik/2011/1387/`](pravilnik/2011/1387/) | amending act | 1 | 2011-06-06 | 2011-06-06 |
+| Pravilnik o izmjenama i dopunama Pravilnika o mjerama za sprječavanje unošenja i širenja štetnog organizma - Anoplophora chinensis (Forster) | [`pravilnik/2011/1388/`](pravilnik/2011/1388/) | amending act | 1 | 2011-06-14 | 2011-06-14 |
+| Pravilnik o izmjeni Pravilnika o prehrambenim aditivima | [`pravilnik/2011/1389/`](pravilnik/2011/1389/) | in force | 1 | 2011-06-14 | 2011-06-14 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje mjerila koja se upotrebljavaju za ispitivanje električnih instalacija | [`pravilnik/2011/1390/`](pravilnik/2011/1390/) | in force | 1 | 2011-06-14 | 2011-06-14 |
+| Pravilnik o nadzoru i provjeri kvalitete rada revizorskih društava, samostalnih revizora, zajedničkih revizorskih ureda i ovlaštenih revizora | [`pravilnik/2011/1395/`](pravilnik/2011/1395/) | amended, not consolidated | 1 | 2011-06-06 | 2011-06-06 |
+| Pravilnik o označavanju, reklamiranju i prezentiranju hrane | [`pravilnik/2011/1404/`](pravilnik/2011/1404/) | repealed, not consolidated | 1 | 2011-06-16 | 2011-06-16 |
+| Pravilnik o izmjenama i dopunama Pravilnika o posebnim uvjetima za uvoz određene hrane iz određenih trećih zemalja zbog rizika od kontaminiranosti aflatoksinima | [`pravilnik/2011/1406/`](pravilnik/2011/1406/) | amending act | 1 | 2011-06-08 | 2011-06-08 |
+| Pravilnik o načinu i uvjetima za ostvarivanje prava policijskih službenika na građansko odijelo | [`pravilnik/2011/1418/`](pravilnik/2011/1418/) | in force | 1 | 2011-06-10 | 2011-06-10 |
+| Pravilnik o izmjenama i dopunama Pravilnika o zvanjima i svjedodžbama o osposobljenosti pomoraca | [`pravilnik/2011/1421/`](pravilnik/2011/1421/) | amending act | 1 | 2011-06-18 | 2011-06-18 |
+| Pravilnik o izuzimanju malih količina svježeg mesa podrijetlom od jata tovnih pilića i purana namijenjenih izravnoj opskrbi krajnjih potrošača iz primjene Pravilnika za kontrolu salmonela i drugih određenih uzročnika zoonoza koji se prenose hranom | [`pravilnik/2011/1422/`](pravilnik/2011/1422/) | in force | 1 | 2011-06-18 | 2011-06-18 |
+| Pravilnik o visini naknade za izdavanje uvjerenja kojim se utvrđuju nekretnine | [`pravilnik/2011/1425/`](pravilnik/2011/1425/) | in force | 1 | 2011-06-10 | 2011-06-10 |
+| Pravilnik o shemi testiranja za smanjenje prisutnosti serotipova salmonele u odraslih rasplodnih jata vrste Gallus gallus | [`pravilnik/2011/1430/`](pravilnik/2011/1430/) | in force | 1 | 2011-06-21 | 2011-06-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o žigu | [`pravilnik/2011/1455/`](pravilnik/2011/1455/) | amending act | 1 | 2011-06-15 | 2011-06-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o industrijskom dizajnu | [`pravilnik/2011/1456/`](pravilnik/2011/1456/) | amending act | 1 | 2011-06-15 | 2011-06-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga | [`pravilnik/2011/1457/`](pravilnik/2011/1457/) | amending act | 1 | 2011-06-15 | 2011-06-15 |
+| Pravilnik o izmjenama i dopunama Pravilnika o naknadama i nagradi za rad članova Žalbenih vijeća u području prava industrijskog vlasništva | [`pravilnik/2011/1458/`](pravilnik/2011/1458/) | amending act | 1 | 2011-06-23 | 2011-06-23 |
+| Pravilnik o uvjetima za utvrđivanje zona sanitarne zaštite izvorišta | [`pravilnik/2011/1460/`](pravilnik/2011/1460/) | amended, not consolidated | 1 | 2011-06-15 | 2011-06-15 |
+| Pravilnik o izmjenama i dopuni Pravilnika o uvjetima i načinu korištenja godišnjeg odmora djelatnih vojnih osoba, službenika i namještenika | [`pravilnik/2011/1488/`](pravilnik/2011/1488/) | amending act | 1 | 2011-06-25 | 2011-06-25 |
+| Pravilnik o stručnoj kontroli u ekološkoj proizvodnji | [`pravilnik/2011/1489/`](pravilnik/2011/1489/) | cited later, not consolidated | 1 | 2011-06-25 | 2011-06-25 |
+| Pravilnik o izmjenama i dopunama Pravilnika o prostornim i tehničkim uvjetima za priređivanje igara na sreću u casinima, na automatima i uplatnim mjestima kladionica | [`pravilnik/2011/1497/`](pravilnik/2011/1497/) | amending act | 1 | 2011-06-28 | 2011-06-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o priređivanju lutrijskih igara | [`pravilnik/2011/1498/`](pravilnik/2011/1498/) | amending act | 1 | 2011-06-28 | 2011-06-28 |
+| Pravilnik o izmjenama i dopunama Pravilnika o uvjetima tehničke ispravnosti automata za zabavne igre | [`pravilnik/2011/1500/`](pravilnik/2011/1500/) | amending act | 1 | 2011-06-28 | 2011-06-28 |
+| Pravilnik o dopuni Pravilnika o posebnim uvjetima za proizvodnju, smještaj i promet oružja i streljiva, popravljanje i prepravljanje oružja te vođenje civilnih strelišta | [`pravilnik/2011/1524/`](pravilnik/2011/1524/) | amended, not consolidated | 1 | 2011-06-29 | 2011-06-29 |
+| Pravilnik o ukidanju Pravilnika o obustavi trgovanja dionicama na burzama u Republici Hrvatskoj | [`pravilnik/2011/1527/`](pravilnik/2011/1527/) | in force | 1 | 2011-06-21 | 2011-06-21 |
+| Pravilnik o izmjenama i dopunama Pravilnika o polaganju javnoovršiteljskog ispita | [`pravilnik/2011/1532/`](pravilnik/2011/1532/) | amending act | 1 | 2011-06-28 | 2011-06-28 |
+| Pravilnik o stavljanju na tržište i korištenju hrane za životinje | [`pravilnik/2011/1533/`](pravilnik/2011/1533/) | cited later, not consolidated | 1 | 2011-07-06 | 2011-07-06 |
+| Pravilnik o izmjeni Pravilnika o žitaricama, mlinskim i pekarskim proizvodima, tjestenini, tijestu i proizvodima od tijesta | [`pravilnik/2011/1534/`](pravilnik/2011/1534/) | in force | 1 | 2011-06-28 | 2011-06-28 |
+| Pravilnik o ovlašćivanju stručnih tehničkih servisa za obavljanje stručnih poslova zaštite od ionizirajućeg zračenja | [`pravilnik/2011/1538/`](pravilnik/2011/1538/) | repealed, not consolidated | 1 | 2011-07-06 | 2011-07-06 |
+| Pravilnik o upravljanju protokom zračnog prometa | [`pravilnik/2011/1540/`](pravilnik/2011/1540/) | repealed, not consolidated | 1 | 2011-09-26 | 2011-09-26 |
+| Pravilnik o zahtjevima zdravlja životinja za nekomercijalno kretanje kućnih ljubimaca | [`pravilnik/2011/1577/`](pravilnik/2011/1577/) | amended, not consolidated | 1 | 2011-07-09 | 2011-07-09 |
+| Pravilnik o izmjenama Pravilnika o ispunjavanju Sigurnosno-tehničkog lista | [`pravilnik/2011/1578/`](pravilnik/2011/1578/) | in force | 1 | 2011-07-09 | 2011-07-09 |
+| Pravilnik o službenim sjedištima javnih ovršitelja | [`pravilnik/2011/1617/`](pravilnik/2011/1617/) | in force | 1 | 2011-07-14 | 2011-07-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o najmanjem broju članova posade za sigurnu plovidbu koji moraju imati pomorski brodovi, plutajući objekti i nepomični odobalni objekti | [`pravilnik/2011/1619/`](pravilnik/2011/1619/) | amending act | 1 | 2011-07-14 | 2011-07-14 |
+| Pravilnik o načinu prijavljivanja i izvještavanja o državnim potporama poljoprivredi i ruralnom razvoju | [`pravilnik/2011/1625/`](pravilnik/2011/1625/) | repealed, not consolidated | 1 | 2011-07-06 | 2011-07-06 |
+| Pravilnik o organiziranju, financiranju i donošenju programa festivala Varaždinske barokne večeri | [`pravilnik/2011/1628/`](pravilnik/2011/1628/) | in force | 1 | 2011-12-01 | 2011-12-01 |
+| Pravilnik o razvrstavanju i otvaranju vodnih putova na unutarnjim vodama | [`pravilnik/2011/1633/`](pravilnik/2011/1633/) | amended, not consolidated | 1 | 2011-07-15 | 2011-07-15 |
+| Pravilnik o potpori pri opskrbi redovnih polaznika odgojno-obrazovnih ustanova mlijekom i mliječnim proizvodima | [`pravilnik/2011/1654/`](pravilnik/2011/1654/) | repealed, not consolidated | 1 | 2012-01-01 | 2012-01-01 |
+| PRAVILNIK O PROVEDBI SUSTAVA PROIZVODNIH OGRANIČENJA U SEKTORU ŠEĆERA | [`pravilnik/2011/1656/`](pravilnik/2011/1656/) | amended, not consolidated | 1 | 2011-07-16 | 2011-07-16 |
+| Pravilnik o izmjeni Pravilnika o kontroli kakvoće soje, suncokreta i uljane repice u otkupu | [`pravilnik/2011/1657/`](pravilnik/2011/1657/) | in force | 1 | 2011-07-08 | 2011-07-08 |
+| Pravilnik o izmjenama i dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze | [`pravilnik/2011/1659/`](pravilnik/2011/1659/) | amending act | 1 | 2011-07-08 | 2011-07-08 |
+| Pravilnik o izmjenama Pravilnika o zaštićenim oznakama izvornosti i zaštićenim oznakama zemljopisnog podrijetla, tradicionalnim izrazima i označavanju vina | [`pravilnik/2011/1660/`](pravilnik/2011/1660/) | in force | 1 | 2011-07-08 | 2011-07-08 |
+| Pravilnik o izmjenama i dopunama pravilnika o najvećim dopuštenim količinama određenim kontaminanata u hrani | [`pravilnik/2011/1662/`](pravilnik/2011/1662/) | amending act | 1 | 2011-07-16 | 2011-07-16 |
+| Pravilnik o tehničkim i mjeriteljskim zahtjevima za mjerne sustave za mjerenje mase goriva u obliku stlačenog prirodnog plina za motorna vozila | [`pravilnik/2011/1663/`](pravilnik/2011/1663/) | in force | 1 | 2011-07-16 | 2011-07-16 |
+| Pravilnik o mjeriteljskim i tehničkim zahtjevima za tlakomjere za gume motornih vozila, koji raspolažu mogućnošću prednamještanja željenoga tlaka punjenja | [`pravilnik/2011/1665/`](pravilnik/2011/1665/) | repealed, not consolidated | 1 | 2011-07-16 | 2011-07-16 |
+| Pravilnik o posebnostima provedbe postupka provoza i postupka izvoza uporabom sustava elektroničke razmjene podataka | [`pravilnik/2011/1684/`](pravilnik/2011/1684/) | cited later, not consolidated | 1 | 2011-07-11 | 2011-07-11 |
+| Pravilnik o dopuni Pravilnika o označavanju, reklamiranju i prezentiranju hrane | [`pravilnik/2011/1687/`](pravilnik/2011/1687/) | amending act | 1 | 2011-07-11 | 2011-07-11 |
+| Pravilnik o sestrinskoj dokumentaciji u bolničkim zdravstvenim ustanovama | [`pravilnik/2011/1692/`](pravilnik/2011/1692/) | amended, not consolidated | 1 | 2011-07-19 | 2011-07-19 |
+| Pravilnik o standardima kvalitete zdravstvene zaštite i načinu njihove primjene | [`pravilnik/2011/1693/`](pravilnik/2011/1693/) | in force | 1 | 2011-07-19 | 2011-07-19 |
+| Pravilnik o izmjeni Pravilnika o značenju i uporabi signala, signalnih znakova i signalnih oznaka u željezničkom prometu | [`pravilnik/2011/1745/`](pravilnik/2011/1745/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| Pravilnik o provođenju obveznog označavanja i registracije goveda | [`pravilnik/2011/1746/`](pravilnik/2011/1746/) | repealed, not consolidated | 1 | 2011-09-01 | 2011-09-01 |
+| Pravilnik o izmjenama Pravilnika o obveznom označavanju i registraciji ovaca i koza | [`pravilnik/2011/1747/`](pravilnik/2011/1747/) | in force | 1 | 2011-07-22 | 2011-07-22 |
+| Pravilnik izmjenama Pravilnika o izravnim plaćanjima u poljoprivredi, potporama za očuvanje izvornih i zaštićenih pasmina domaćih životinja, potporama za ekološku i integriranu poljoprivrednu proizvodnju i potporama za područja s težim uvjetima gospodarenja u poljoprivredi | [`pravilnik/2011/1748/`](pravilnik/2011/1748/) | in force | 1 | 2011-07-14 | 2011-07-14 |
+| Pravilnik o izmjenama i dopunama Pravilnika o znaku zaštite okoliša | [`pravilnik/2011/1749/`](pravilnik/2011/1749/) | amending act | 1 | 2011-07-22 | 2011-07-22 |
+| Pravilnik o dopuni Pravilnika o ambalaži i ambalažnom otpadu | [`pravilnik/2011/1750/`](pravilnik/2011/1750/) | amending act | 1 | 2011-07-14 | 2011-07-14 |
+| Pravilnik o izmjeni i dopuni Pravilnika o obliku i načinu vođenja odobrenja za obavljanje domaće radinosti ili sporednog zanimanja s listama proizvoda i usluga | [`pravilnik/2011/1763/`](pravilnik/2011/1763/) | amending act | 1 | 2011-07-15 | 2011-07-15 |
+| Pravilnik o javnoovršiteljskim ispravama i obrascima za provedbu ovrhe pred javnim ovršiteljima | [`pravilnik/2011/1764/`](pravilnik/2011/1764/) | in force | 1 | 2012-01-01 | 2012-01-01 |
+| Pravilnik o zaštiti životinja u vrijeme usmrćivanja | [`pravilnik/2011/1783/`](pravilnik/2011/1783/) | cited later, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izvanaerodromskom slijetanju i uzlijetanju helikoptera | [`pravilnik/2013/139/`](pravilnik/2013/139/) | amending act | 1 | 2013-01-29 | 2013-01-29 |
 | Pravilnik o izmjeni Pravilnika o određivanju visine stvarnih troškova uporabe podataka dokumentacije državne izmjere i katastra nekretnina | [`pravilnik/2013/1026/`](pravilnik/2013/1026/) | in force | 1 | 2013-05-08 | 2013-05-08 |
 | Pravilnik o izmjenama i dopunama Pravilnika o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2013. godinu | [`pravilnik/2013/1064/`](pravilnik/2013/1064/) | amending act | 1 | 2013-05-03 | 2013-05-03 |
