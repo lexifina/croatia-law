@@ -50,127 +50,127 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 32809,
+  "acts": 33753,
   "by_status": {
-   "current": 21184,
-   "pending-change": 9759,
+   "current": 22161,
+   "pending-change": 10441,
    "stale": 0,
-   "unverified": 1866,
+   "unverified": 1151,
    "source-unavailable": 0
   },
-  "pct_verified_7d": 94.3,
-  "pct_verified_30d": 94.3
+  "pct_verified_7d": 96.6,
+  "pct_verified_30d": 96.6
  },
  "by_group": {
   "national": {
-   "acts": 21016,
+   "acts": 21736,
    "by_status": {
-    "current": 13725,
-    "pending-change": 5668,
+    "current": 14537,
+    "pending-change": 6189,
     "stale": 0,
-    "unverified": 1623,
+    "unverified": 1010,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 92.2,
-   "pct_verified_30d": 92.2
+   "pct_verified_7d": 95.4,
+   "pct_verified_30d": 95.4
   },
   "secondary": {
-   "acts": 11793,
+   "acts": 12017,
    "by_status": {
-    "current": 7459,
-    "pending-change": 4091,
+    "current": 7624,
+    "pending-change": 4252,
     "stale": 0,
-    "unverified": 243,
+    "unverified": 141,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 97.9,
-   "pct_verified_30d": 97.9
+   "pct_verified_7d": 98.8,
+   "pct_verified_30d": 98.8
   }
  },
  "by_kind": {
   "naputak": {
-   "acts": 197,
+   "acts": 205,
    "by_status": {
-    "current": 139,
-    "pending-change": 54,
+    "current": 147,
+    "pending-change": 58,
     "stale": 0,
-    "unverified": 4,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 98.0,
-   "pct_verified_30d": 98.0
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   },
   "naredba": {
-   "acts": 1312,
+   "acts": 1359,
    "by_status": {
-    "current": 682,
-    "pending-change": 569,
+    "current": 725,
+    "pending-change": 598,
     "stale": 0,
-    "unverified": 61,
+    "unverified": 36,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 95.4,
-   "pct_verified_30d": 95.4
+   "pct_verified_7d": 97.4,
+   "pct_verified_30d": 97.4
   },
   "odluka": {
-   "acts": 13775,
+   "acts": 14277,
    "by_status": {
-    "current": 9222,
-    "pending-change": 3321,
+    "current": 9833,
+    "pending-change": 3694,
     "stale": 0,
-    "unverified": 1232,
+    "unverified": 750,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 91.1,
-   "pct_verified_30d": 91.1
+   "pct_verified_7d": 94.7,
+   "pct_verified_30d": 94.7
   },
   "pravilnik": {
-   "acts": 10070,
+   "acts": 10227,
    "by_status": {
-    "current": 6549,
-    "pending-change": 3368,
+    "current": 6656,
+    "pending-change": 3486,
     "stale": 0,
-    "unverified": 153,
+    "unverified": 85,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 98.5,
-   "pct_verified_30d": 98.5
+   "pct_verified_7d": 99.2,
+   "pct_verified_30d": 99.2
   },
   "statut": {
-   "acts": 175,
+   "acts": 176,
    "by_status": {
-    "current": 80,
-    "pending-change": 87,
+    "current": 81,
+    "pending-change": 88,
     "stale": 0,
-    "unverified": 8,
+    "unverified": 7,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 95.4,
-   "pct_verified_30d": 95.4
+   "pct_verified_7d": 96.0,
+   "pct_verified_30d": 96.0
   },
   "uputa": {
-   "acts": 39,
+   "acts": 50,
    "by_status": {
-    "current": 9,
-    "pending-change": 13,
+    "current": 15,
+    "pending-change": 22,
     "stale": 0,
-    "unverified": 17,
+    "unverified": 13,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 56.4,
-   "pct_verified_30d": 56.4
+   "pct_verified_7d": 74.0,
+   "pct_verified_30d": 74.0
   },
   "uredba": {
-   "acts": 3612,
+   "acts": 3736,
    "by_status": {
-    "current": 2195,
-    "pending-change": 1261,
+    "current": 2290,
+    "pending-change": 1343,
     "stale": 0,
-    "unverified": 156,
+    "unverified": 103,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 95.7,
-   "pct_verified_30d": 95.7
+   "pct_verified_7d": 97.2,
+   "pct_verified_30d": 97.2
   },
   "ustav": {
    "acts": 1,
@@ -185,28 +185,28 @@
    "pct_verified_30d": 100.0
   },
   "zakon": {
-   "acts": 2874,
+   "acts": 2968,
    "by_status": {
-    "current": 2000,
-    "pending-change": 652,
+    "current": 2096,
+    "pending-change": 715,
     "stale": 0,
-    "unverified": 222,
+    "unverified": 157,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 92.3,
-   "pct_verified_30d": 92.3
+   "pct_verified_7d": 94.7,
+   "pct_verified_30d": 94.7
   },
   "zakoni": {
    "acts": 754,
    "by_status": {
-    "current": 307,
-    "pending-change": 434,
+    "current": 317,
+    "pending-change": 437,
     "stale": 0,
-    "unverified": 13,
+    "unverified": 0,
     "source-unavailable": 0
    },
-   "pct_verified_7d": 96.7,
-   "pct_verified_30d": 96.7
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
   }
  },
  "sources": [
@@ -216,10 +216,10 @@
    "last_successful_check": "2026-11-10",
    "newest_issue_read": "129/2026",
    "newest_issue_day": "2026-11-09",
-   "read_back_to_year": 1995,
+   "read_back_to_year": 1993,
    "note": "Acts from before read_back_to_year are unverified until the read reaches their year."
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 274
+ "shards": 275
 }

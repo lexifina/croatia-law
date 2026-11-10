@@ -4,13 +4,13 @@
 "shard": "naputak/1993",
 "kind": "naputak",
 "file": "data/freshness/naputak/1993.csv",
-"acts": 1
+"acts": 4
 },
 {
 "shard": "naputak/1994",
 "kind": "naputak",
 "file": "data/freshness/naputak/1994.csv",
-"acts": 3
+"acts": 8
 },
 {
 "shard": "naputak/1995",
@@ -226,13 +226,13 @@
 "shard": "naredba/1993",
 "kind": "naredba",
 "file": "data/freshness/naredba/1993.csv",
-"acts": 14
+"acts": 42
 },
 {
 "shard": "naredba/1994",
 "kind": "naredba",
 "file": "data/freshness/naredba/1994.csv",
-"acts": 11
+"acts": 30
 },
 {
 "shard": "naredba/1995",
@@ -448,13 +448,13 @@
 "shard": "odluka/1993",
 "kind": "odluka",
 "file": "data/freshness/odluka/1993.csv",
-"acts": 326
+"acts": 635
 },
 {
 "shard": "odluka/1994",
 "kind": "odluka",
 "file": "data/freshness/odluka/1994.csv",
-"acts": 156
+"acts": 349
 },
 {
 "shard": "odluka/1995",
@@ -670,13 +670,13 @@
 "shard": "pravilnik/1993",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/1993.csv",
-"acts": 23
+"acts": 85
 },
 {
 "shard": "pravilnik/1994",
 "kind": "pravilnik",
 "file": "data/freshness/pravilnik/1994.csv",
-"acts": 45
+"acts": 140
 },
 {
 "shard": "pravilnik/1995",
@@ -892,7 +892,7 @@
 "shard": "statut/1994",
 "kind": "statut",
 "file": "data/freshness/statut/1994.csv",
-"acts": 1
+"acts": 2
 },
 {
 "shard": "statut/1995",
@@ -1090,7 +1090,13 @@
 "shard": "uputa/1993",
 "kind": "uputa",
 "file": "data/freshness/uputa/1993.csv",
-"acts": 4
+"acts": 9
+},
+{
+"shard": "uputa/1994",
+"kind": "uputa",
+"file": "data/freshness/uputa/1994.csv",
+"acts": 6
 },
 {
 "shard": "uputa/1995",
@@ -1210,13 +1216,13 @@
 "shard": "uredba/1993",
 "kind": "uredba",
 "file": "data/freshness/uredba/1993.csv",
-"acts": 27
+"acts": 99
 },
 {
 "shard": "uredba/1994",
 "kind": "uredba",
 "file": "data/freshness/uredba/1994.csv",
-"acts": 26
+"acts": 78
 },
 {
 "shard": "uredba/1995",
@@ -1438,13 +1444,13 @@
 "shard": "zakon/1993",
 "kind": "zakon",
 "file": "data/freshness/zakon/1993.csv",
-"acts": 52
+"acts": 108
 },
 {
 "shard": "zakon/1994",
 "kind": "zakon",
 "file": "data/freshness/zakon/1994.csv",
-"acts": 13
+"acts": 51
 },
 {
 "shard": "zakon/1995",
