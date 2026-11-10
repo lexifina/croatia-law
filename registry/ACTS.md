@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18187 acts, 18,580 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+18487 acts, 18,880 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (121, of which 21 amending acts)
 
@@ -16347,7 +16347,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (1006, of which 249 amending acts)
+## uredba (1306, of which 326 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -16753,6 +16753,55 @@
 | Uredba o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`uredba/2011/3212/`](uredba/2011/3212/) | amending act | 1 | 2011-12-29 | 2011-12-29 |
 | Uredba o izmjenama Ovršnog zakona | [`uredba/2011/3213/`](uredba/2011/3213/) | in force | 1 | 2011-12-29 | 2011-12-29 |
 | Uredba o načelima za unutarnje ustrojstvo tijela državne uprave | [`uredba/2011/3215/`](uredba/2011/3215/) | repealed, not consolidated | 1 | 2011-12-29 | 2011-12-29 |
+| Uredba o Glavnom tajništvu Vlade Republike Hrvatske | [`uredba/2012/51/`](uredba/2012/51/) | repealed, not consolidated | 1 | 2012-01-05 | 2012-01-05 |
+| Uredba o izmjenama i dopunama Odluke o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih proračunskih korisnika Državnog proračuna Republike Hrvatske u prvom tromjesečju 2012. godine | [`uredba/2012/52/`](uredba/2012/52/) | amending act | 1 | 2012-01-05 | 2012-01-05 |
+| Uredba o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi | [`uredba/2012/76/`](uredba/2012/76/) | in force | 1 | 2012-01-12 | 2012-01-12 |
+| Uredba o Uredu predsjednika Vlade Republike Hrvatske | [`uredba/2012/77/`](uredba/2012/77/) | replaced, not consolidated | 1 | 2012-01-12 | 2012-01-12 |
+| Uredba o računanju vremena u 2012. godini | [`uredba/2012/78/`](uredba/2012/78/) | in force | 1 | 2012-01-20 | 2012-01-20 |
+| Uredba o izmjenama Uredbe o carinskoj tarifi za 2012. godinu | [`uredba/2012/79/`](uredba/2012/79/) | in force | 1 | 2012-01-13 | 2012-01-13 |
+| Uredba o nadzoru nad provedbom Zakona o javnoj nabavi | [`uredba/2012/278/`](uredba/2012/278/) | repealed, not consolidated | 1 | 2012-01-23 | 2012-01-23 |
+| Uredba o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama | [`uredba/2012/279/`](uredba/2012/279/) | repealed, not consolidated | 1 | 2012-01-23 | 2012-01-23 |
+| Uredba o objavama javne nabave | [`uredba/2012/280/`](uredba/2012/280/) | repealed, not consolidated | 1 | 2012-01-23 | 2012-01-23 |
+| Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i eruopskih poslova | [`uredba/2012/281/`](uredba/2012/281/) | in force | 1 | 2012-01-23 | 2012-01-23 |
+| Uredba o Uredu za zakonodavstvo | [`uredba/2012/486/`](uredba/2012/486/) | replaced, not consolidated | 1 | 2012-02-10 | 2012-02-10 |
+| Uredba o izmjenama i dopuni Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave | [`uredba/2012/487/`](uredba/2012/487/) | amending act | 1 | 2012-02-10 | 2012-02-10 |
+| Uredba o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava | [`uredba/2012/503/`](uredba/2012/503/) | amended, not consolidated | 1 | 2012-02-15 | 2012-02-15 |
+| Uredba o izmjeni Uredbe o visini vodnoga doprinosa | [`uredba/2012/519/`](uredba/2012/519/) | in force | 1 | 2012-02-17 | 2012-02-17 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2012/554/`](uredba/2012/554/) | repealed, not consolidated | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta | [`uredba/2012/555/`](uredba/2012/555/) | repealed, not consolidated | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o unutarnjem ustrojstvu Ministarstva rada i mirovinskog sustava | [`uredba/2012/556/`](uredba/2012/556/) | amended, not consolidated | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih | [`uredba/2012/557/`](uredba/2012/557/) | replaced, not consolidated | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2012/558/`](uredba/2012/558/) | replaced, not consolidated | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o unutarnjem ustrojstvu Državnog ureda za trgovinsku politiku | [`uredba/2012/559/`](uredba/2012/559/) | in force | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o Uredu za razminiranje | [`uredba/2012/560/`](uredba/2012/560/) | repealed, not consolidated | 1 | 2012-02-22 | 2012-02-22 |
+| Uredba o prestanku važenja Uredbe o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj | [`uredba/2012/575/`](uredba/2012/575/) | in force | 1 | 2012-02-23 | 2012-02-23 |
+| Uredba o izmjenama Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2012/640/`](uredba/2012/640/) | in force | 1 | 2012-03-01 | 2012-03-01 |
+| Uredba o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2012/656/`](uredba/2012/656/) | repealed, not consolidated | 1 | 2012-02-29 | 2012-02-29 |
+| Uredba o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornog uređenja | [`uredba/2012/665/`](uredba/2012/665/) | repealed, not consolidated | 1 | 2012-03-02 | 2012-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode | [`uredba/2012/666/`](uredba/2012/666/) | repealed, not consolidated | 1 | 2012-03-02 | 2012-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede | [`uredba/2012/667/`](uredba/2012/667/) | repealed, not consolidated | 1 | 2012-03-02 | 2012-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture | [`uredba/2012/668/`](uredba/2012/668/) | repealed, not consolidated | 1 | 2012-03-02 | 2012-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije | [`uredba/2012/669/`](uredba/2012/669/) | amended, not consolidated | 1 | 2012-03-02 | 2012-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2012/670/`](uredba/2012/670/) | repealed, not consolidated | 1 | 2012-03-05 | 2012-03-05 |
+| Uredba o unutarnjem ustrojstvu Ministarstva uprave | [`uredba/2012/671/`](uredba/2012/671/) | repealed, not consolidated | 1 | 2012-03-05 | 2012-03-05 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2012/672/`](uredba/2012/672/) | repealed, not consolidated | 1 | 2012-03-05 | 2012-03-05 |
+| Uredba o unutarnjem ustrojstvu Ministarstva branitelja | [`uredba/2012/673/`](uredba/2012/673/) | repealed, not consolidated | 1 | 2012-03-05 | 2012-03-05 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zdravlja | [`uredba/2012/674/`](uredba/2012/674/) | repealed, not consolidated | 1 | 2012-03-05 | 2012-03-05 |
+| Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta | [`uredba/2012/675/`](uredba/2012/675/) | repealed, not consolidated | 1 | 2012-03-05 | 2012-03-05 |
+| Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) | [`uredba/2012/689/`](uredba/2012/689/) | repealed, not consolidated | 1 | 2012-03-07 | 2012-03-07 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije | [`uredba/2012/690/`](uredba/2012/690/) | amending act | 1 | 2012-03-15 | 2012-03-15 |
+| Uredba o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2012/750/`](uredba/2012/750/) | amended, not consolidated | 1 | 2012-03-14 | 2012-03-14 |
+| Uredba o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu | [`uredba/2012/751/`](uredba/2012/751/) | repealed, not consolidated | 1 | 2012-03-14 | 2012-03-14 |
+| Uredba o unutarnjem ustrojstvu Državnog ureda za upravljanje državnom imovinom | [`uredba/2012/752/`](uredba/2012/752/) | replaced, not consolidated | 1 | 2012-03-14 | 2012-03-14 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2012. godinu | [`uredba/2012/754/`](uredba/2012/754/) | in force | 1 | 2012-03-14 | 2012-03-14 |
+| Uredba o izmjenama Uredbe o osnivanju Poslovno-inovacijske agencije Republike Hrvatske | [`uredba/2012/755/`](uredba/2012/755/) | in force | 1 | 2012-03-14 | 2012-03-14 |
+| Uredba o prestanku važenja Uredbe o Povjerenstvu Vlade Republike Hrvatske za granice jedinica lokalne samouprave i Poslovnika o radu Povjerenstva Vlade Republike Hrvatske za granice jedinica lokalne samouprave | [`uredba/2012/756/`](uredba/2012/756/) | in force | 1 | 2012-03-14 | 2012-03-14 |
+| Uredba o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2012/764/`](uredba/2012/764/) | repealed, not consolidated | 1 | 2012-03-15 | 2012-03-15 |
+| Uredba o mjerilima za razvrstavanje javnih cesta | [`uredba/2012/819/`](uredba/2012/819/) | cited later, not consolidated | 1 | 2012-03-29 | 2012-03-29 |
+| Uredba o Uredu za udruge | [`uredba/2012/820/`](uredba/2012/820/) | repealed, not consolidated | 1 | 2012-03-21 | 2012-03-21 |
+| Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme | [`uredba/2012/821/`](uredba/2012/821/) | in force | 1 | 2012-03-21 | 2012-03-21 |
+| Uredba o Uredu za suzbijanje zlouporabe droga | [`uredba/2012/924/`](uredba/2012/924/) | repealed, not consolidated | 1 | 2012-03-28 | 2012-03-28 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture | [`uredba/2012/925/`](uredba/2012/925/) | in force | 1 | 2012-03-28 | 2012-03-28 |
 | Uredba o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2012/1000/`](uredba/2012/1000/) | repealed, not consolidated | 1 | 2012-04-04 | 2012-04-04 |
 | Uredba o Uredu Vlade Republike Hrvatske za unutarnju reviziju | [`uredba/2012/1001/`](uredba/2012/1001/) | repealed, not consolidated | 1 | 2012-04-04 | 2012-04-04 |
 | Uredba o Uredu za ravnopravnost spolova | [`uredba/2012/1002/`](uredba/2012/1002/) | amended, not consolidated | 1 | 2012-04-04 | 2012-04-04 |
@@ -16814,10 +16863,211 @@
 | Uredba o izmjeni Uredbe o osnivanju Agencije za regionalni razvoj Republike Hrvatske | [`uredba/2012/1923/`](uredba/2012/1923/) | in force | 1 | 2012-07-31 | 2012-07-31 |
 | Uredba o izmjenama i dopunama Uredbe o visini naknade za korištenje voda | [`uredba/2012/1924/`](uredba/2012/1924/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
 | Uredba o izmjenama i dopuni Uredbe o osnivanju Središnjeg registra osiguranika | [`uredba/2012/1926/`](uredba/2012/1926/) | amending act | 1 | 2012-07-23 | 2012-07-23 |
+| Uredba o praćenju emisija stakleničkih plinova, politike i mjera za njihovo smanjenje u Republici Hrvatskoj | [`uredba/2012/2000/`](uredba/2012/2000/) | repealed, not consolidated | 1 | 2012-08-07 | 2012-08-07 |
+| Uredba o načinu ustrojavanja, sadržaju i vođenju Registra investicija | [`uredba/2012/2001/`](uredba/2012/2001/) | in force | 1 | 2012-07-30 | 2012-07-30 |
+| Uredba o izmjenama Uredbe o Carinskoj tarifi za 2012. godinu | [`uredba/2012/2002/`](uredba/2012/2002/) | in force | 1 | 2012-07-30 | 2012-07-30 |
+| Uredba o provedbi projekata javno-privatnog partnerstva | [`uredba/2012/2012/`](uredba/2012/2012/) | amended, not consolidated | 1 | 2012-08-01 | 2012-08-01 |
+| Uredba o javnoj nabavi za potrebe obrane i sigurnosti | [`uredba/2012/2024/`](uredba/2012/2024/) | repealed, not consolidated | 1 | 2012-08-10 | 2012-08-10 |
+| Uredba o Popisu robe vojne namjene i Popisu nevojnih ubojnih sredstava | [`uredba/2012/2025/`](uredba/2012/2025/) | repealed, not consolidated | 1 | 2012-08-10 | 2012-08-10 |
+| Uredba o izmjenama Uredbe o osnivanju Agencije za opremu pod tlakom | [`uredba/2012/2083/`](uredba/2012/2083/) | in force | 1 | 2012-08-03 | 2012-08-03 |
+| Uredba o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba | [`uredba/2012/2168/`](uredba/2012/2168/) | in force | 1 | 2012-08-24 | 2012-08-24 |
+| Uredba o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj | [`uredba/2012/2169/`](uredba/2012/2169/) | amended, not consolidated | 1 | 2012-09-01 | 2012-09-01 |
+| Uredba o naknadi za zadržavanje nezakonito izgrađene zgrade u prostoru | [`uredba/2012/2175/`](uredba/2012/2175/) | repealed, not consolidated | 1 | 2012-09-06 | 2012-09-06 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2012/2176/`](uredba/2012/2176/) | amended, not consolidated | 1 | 2012-09-06 | 2012-09-06 |
+| Uredba o izmjenama Uredbe o utvrđivanju dužnosti djelatnih vojnih osoba na kojima se staž osiguranja računa s povećanim trajanjem i načinu računanja toga staža | [`uredba/2012/2190/`](uredba/2012/2190/) | in force | 1 | 2012-09-01 | 2012-09-01 |
+| Uredba o izmjenama Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata | [`uredba/2012/2213/`](uredba/2012/2213/) | in force | 1 | 2012-09-13 | 2012-09-13 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2012/2214/`](uredba/2012/2214/) | amending act | 1 | 2012-09-13 | 2012-09-13 |
+| Uredba o izmjeni Uredbe o utvrđivanju poslova iz članka 4.a i 4.c Zakona o Financijskoj agenciji | [`uredba/2012/2302/`](uredba/2012/2302/) | in force | 1 | 2012-09-26 | 2012-09-26 |
+| Uredba o izmjenama Uredbe o Hrvatskoj poljoprivrednoj agenciji | [`uredba/2012/2303/`](uredba/2012/2303/) | in force | 1 | 2012-10-04 | 2012-10-04 |
+| Uredba o izmjenama Uredbe o Hrvatskom centru za konjogojstvo - Državne ergele Đakovo i Lipik | [`uredba/2012/2304/`](uredba/2012/2304/) | in force | 1 | 2012-10-04 | 2012-10-04 |
+| Uredba o kriterijima za dodjeljivanje državnih nagrada za vrhunska sportska postignuća | [`uredba/2012/2396/`](uredba/2012/2396/) | repealed, not consolidated | 1 | 2012-10-10 | 2012-10-10 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2012/2431/`](uredba/2012/2431/) | in force | 1 | 2012-10-11 | 2012-10-11 |
+| Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu | [`uredba/2012/2432/`](uredba/2012/2432/) | in force | 1 | 2012-10-19 | 2012-10-19 |
+| Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2012/2433/`](uredba/2012/2433/) | amended, not consolidated | 1 | 2012-10-19 | 2012-10-19 |
+| Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama | [`uredba/2012/2434/`](uredba/2012/2434/) | in force | 1 | 2012-10-19 | 2012-10-19 |
+| Uredba o razinama onečišćujućih tvari u zraku | [`uredba/2012/2521/`](uredba/2012/2521/) | repealed, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo | [`uredba/2012/2522/`](uredba/2012/2522/) | repealed, not consolidated | 1 | 2012-10-24 | 2012-10-24 |
+| Uredba o dopuni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) | [`uredba/2012/2523/`](uredba/2012/2523/) | amending act | 1 | 2012-10-24 | 2012-10-24 |
+| Uredba o izmjenama i dopunama Uredbe o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske | [`uredba/2012/2628/`](uredba/2012/2628/) | amending act | 1 | 2012-11-05 | 2012-11-05 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2012/2629/`](uredba/2012/2629/) | amended, not consolidated | 1 | 2012-11-13 | 2012-11-13 |
+| Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2012/2693/`](uredba/2012/2693/) | amending act | 1 | 2012-11-22 | 2012-11-22 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2012/2694/`](uredba/2012/2694/) | amending act | 1 | 2012-11-14 | 2012-11-14 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske | [`uredba/2012/2725/`](uredba/2012/2725/) | amending act | 1 | 2012-11-29 | 2012-11-29 |
+| Uredba o snimanju iz zraka | [`uredba/2012/2768/`](uredba/2012/2768/) | repealed, not consolidated | 1 | 2012-12-06 | 2012-12-06 |
+| Uredba o izmjeni Uredbi o Uredu za suzbijanje zlouporabe droge | [`uredba/2012/2769/`](uredba/2012/2769/) | in force | 1 | 2012-11-28 | 2012-11-28 |
+| Uredba o mjerilima razvoja elektroničke komunikacijske infrastrukture i druge povezane opreme | [`uredba/2012/2798/`](uredba/2012/2798/) | repealed, not consolidated | 1 | 2012-12-07 | 2012-12-07 |
+| Uredba o visini trošarine na cigarete i sitno rezani duhan | [`uredba/2012/2799/`](uredba/2012/2799/) | repealed, not consolidated | 1 | 2012-11-29 | 2012-11-29 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike porezne uprave | [`uredba/2012/2833/`](uredba/2012/2833/) | amending act | 1 | 2012-12-05 | 2012-12-05 |
+| Uredba o izmjeni Uredbe o kriterijima za dodjeljivanje državnih nagrada za vrhunska sportska postignuća | [`uredba/2012/2834/`](uredba/2012/2834/) | in force | 1 | 2012-12-05 | 2012-12-05 |
+| Uredba o Carinskoj tarifi za 2013. godinu | [`uredba/2012/2876/`](uredba/2012/2876/) | amended, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Uredba o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon | [`uredba/2012/2897/`](uredba/2012/2897/) | repealed, not consolidated | 1 | 2013-01-01 | 2013-01-01 |
+| Uredba o kupoprodaji poslovnog prostora u vlasništvu Republike Hrvatske | [`uredba/2012/2898/`](uredba/2012/2898/) | amended, not consolidated | 1 | 2012-12-20 | 2012-12-20 |
+| Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom | [`uredba/2012/2933/`](uredba/2012/2933/) | in force | 1 | 2012-12-22 | 2012-12-22 |
+| Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2012/2946/`](uredba/2012/2946/) | amending act | 1 | 2012-12-25 | 2012-12-25 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2013. godinu | [`uredba/2012/3086/`](uredba/2012/3086/) | in force | 1 | 2013-01-01 | 2013-01-01 |
+| Uredba o dopuni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon | [`uredba/2012/3087/`](uredba/2012/3087/) | amending act | 1 | 2013-01-01 | 2013-01-01 |
+| Uredba o izmjeni Zakona o zdravstvenoj zaštiti | [`uredba/2012/3088/`](uredba/2012/3088/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+| Uredba o izmjeni Zakona o obveznom zdravstvenom osiguranju | [`uredba/2012/3089/`](uredba/2012/3089/) | in force | 1 | 2012-12-21 | 2012-12-21 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava | [`uredba/2012/3090/`](uredba/2012/3090/) | in force | 1 | 2013-01-01 | 2013-01-01 |
+| Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi | [`uredba/2012/3091/`](uredba/2012/3091/) | amending act | 1 | 2012-12-21 | 2012-12-21 |
+| Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu | [`uredba/2012/3098/`](uredba/2012/3098/) | amending act | 1 | 2013-01-04 | 2013-01-04 |
+| Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita | [`uredba/2012/3099/`](uredba/2012/3099/) | amending act | 1 | 2012-12-27 | 2012-12-27 |
+| Uredba o izmjeni i dopuni Uredbe o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske | [`uredba/2012/3100/`](uredba/2012/3100/) | amending act | 1 | 2013-01-04 | 2013-01-04 |
+| Uredba o uvjetima, načinu i postupku raspolaganja tražbinama s naslova poreznog duga u postupku predstečajne nagodbe | [`uredba/2013/40/`](uredba/2013/40/) | repealed, not consolidated | 1 | 2013-01-07 | 2013-01-07 |
+| Uredba o izmjenama i dopuni Uredbe o uvjetima za kupnju obiteljske kuće ili stana u državnom vlasništvu na područjima posebne državne skrbi | [`uredba/2013/42/`](uredba/2013/42/) | amending act | 1 | 2013-01-15 | 2013-01-15 |
+| Uredba o računanju vremena u 2013. godini | [`uredba/2013/129/`](uredba/2013/129/) | in force | 1 | 2013-01-29 | 2013-01-29 |
+| Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona | [`uredba/2013/152/`](uredba/2013/152/) | amending act | 1 | 2013-01-31 | 2013-01-31 |
+| Uredba o medicinskom vještačenju u mirovinskom osiguranju | [`uredba/2013/175/`](uredba/2013/175/) | repealed, not consolidated | 1 | 2013-01-28 | 2013-01-28 |
+| Uredba o izmjeni Uredbe o određivanju lučkog područja luke Osijek | [`uredba/2013/176/`](uredba/2013/176/) | in force | 1 | 2013-02-05 | 2013-02-05 |
+| Uredba o izmjeni Uredbe o uvjetima za stjecanje policijskih zvanja, oznakama policijskih zvanja, funkcionalnim oznakama radnih mjesta, promaknuću i napredovanju kroz policijska zvanja | [`uredba/2013/244/`](uredba/2013/244/) | in force | 1 | 2013-02-14 | 2013-02-14 |
+| Uredba o izmjeni Uredbe o Uredu za suzbijanje zlouporabe droga | [`uredba/2013/266/`](uredba/2013/266/) | in force | 1 | 2013-02-16 | 2013-02-16 |
+| Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2013/267/`](uredba/2013/267/) | in force | 1 | 2013-02-16 | 2013-02-16 |
+| Uredba o dražbi emisijskih jedinica stakleničkih plinova | [`uredba/2013/324/`](uredba/2013/324/) | in force | 1 | 2013-02-26 | 2013-02-26 |
+| Uredba o izmjeni Tarife Zakona o upravnim pristojbama | [`uredba/2013/325/`](uredba/2013/325/) | in force | 1 | 2013-02-26 | 2013-02-26 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta | [`uredba/2013/326/`](uredba/2013/326/) | amending act | 1 | 2013-02-26 | 2013-02-26 |
+| Uredba o izgledu i sadržaju standardnih obrazaca i objavama koncesija | [`uredba/2013/338/`](uredba/2013/338/) | repealed, not consolidated | 1 | 2013-02-28 | 2013-02-28 |
+| Uredba o osnivanju Muzeja Vučedolske kulture | [`uredba/2013/384/`](uredba/2013/384/) | in force | 1 | 2013-03-05 | 2013-03-05 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog inspektorata | [`uredba/2013/385/`](uredba/2013/385/) | amending act | 1 | 2013-03-05 | 2013-03-05 |
+| Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2013/411/`](uredba/2013/411/) | amended, not consolidated | 1 | 2013-03-01 | 2013-03-01 |
+| Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave | [`uredba/2013/413/`](uredba/2013/413/) | in force | 1 | 2013-03-01 | 2013-03-01 |
+| Uredba o izmjeni Uredbe o vrijednosti koeficijenata složenosti poslova radnih mjesta, dodatku na uvjete rada, te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Carinske uprave | [`uredba/2013/414/`](uredba/2013/414/) | in force | 1 | 2013-03-01 | 2013-03-01 |
+| Uredba o izmjeni Uredbe o plaćama policijskih službenika | [`uredba/2013/415/`](uredba/2013/415/) | in force | 1 | 2013-03-01 | 2013-03-01 |
+| Uredba o izmjeni Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova | [`uredba/2013/416/`](uredba/2013/416/) | in force | 1 | 2013-03-01 | 2013-03-01 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2013. godinu | [`uredba/2013/492/`](uredba/2013/492/) | in force | 1 | 2013-03-16 | 2013-03-16 |
+| Uredba o izmjeni Uredbe o tržnom redu za žitarice | [`uredba/2013/523/`](uredba/2013/523/) | in force | 1 | 2013-03-19 | 2013-03-19 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravlja | [`uredba/2013/539/`](uredba/2013/539/) | amending act | 1 | 2013-03-21 | 2013-03-21 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva branitelja | [`uredba/2013/540/`](uredba/2013/540/) | amending act | 1 | 2013-03-21 | 2013-03-21 |
+| Uredba o Hrvatskom viznom informacijskom sustavu | [`uredba/2013/657/`](uredba/2013/657/) | amended, not consolidated | 1 | 2013-04-01 | 2013-04-01 |
+| Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje primarne i sekundarne pravne pomoći za 2013. godinu | [`uredba/2013/658/`](uredba/2013/658/) | in force | 1 | 2013-04-04 | 2013-04-04 |
+| Uredba o izmjenama i dopunama Uredbe o viznom sustavu | [`uredba/2013/699/`](uredba/2013/699/) | amending act | 1 | 2013-04-01 | 2013-04-01 |
+| Uredba o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć članova obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata, hrvatskog ratnog vojnog invalida iz Domovinskog rata i hrvatskog branitelja iz Domovinskog rata | [`uredba/2013/737/`](uredba/2013/737/) | amended, not consolidated | 1 | 2013-04-13 | 2013-04-13 |
+| Uredba o postupcima službenog obavješćivanja u području norma, tehničkih propisa te propisa o uslugama informacijskog društva | [`uredba/2013/738/`](uredba/2013/738/) | repealed, not consolidated | 1 | 2013-04-13 | 2013-04-13 |
+| Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`uredba/2013/739/`](uredba/2013/739/) | in force | 1 | 2013-04-13 | 2013-04-13 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije | [`uredba/2013/740/`](uredba/2013/740/) | amending act | 1 | 2013-04-13 | 2013-04-13 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta | [`uredba/2013/741/`](uredba/2013/741/) | amending act | 1 | 2013-04-13 | 2013-04-13 |
+| Uredba o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja | [`uredba/2013/881/`](uredba/2013/881/) | amended, not consolidated | 1 | 2013-04-25 | 2013-04-25 |
+| Uredba o usklađivanju područja građevnih proizvoda s Uredbom (EU) br. 305/2011 u prijelaznom razdoblju | [`uredba/2013/882/`](uredba/2013/882/) | cited later, not consolidated | 1 | 2013-04-25 | 2013-04-25 |
+| Uredba o visini minimalne plaće | [`uredba/2013/1016/`](uredba/2013/1016/) | replaced, not consolidated | 1 | 2013-06-01 | 2013-06-01 |
+| Uredba o izmjeni Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu | [`uredba/2013/1017/`](uredba/2013/1017/) | in force | 1 | 2013-05-08 | 2013-05-08 |
+| Uredba o izmjeni Uredbe o uvjetima davanja koncesija za gospodarsko korištenje voda | [`uredba/2013/1018/`](uredba/2013/1018/) | in force | 1 | 2013-05-08 | 2013-05-08 |
+| Uredba o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja | [`uredba/2013/1056/`](uredba/2013/1056/) | amended, not consolidated | 1 | 2013-05-11 | 2013-05-11 |
+| Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2013/1057/`](uredba/2013/1057/) | in force | 1 | 2013-05-11 | 2013-05-11 |
+| Uredba o osnivanju javne ustanove "Memorijalni centar Domovinskog rata Vukovar" | [`uredba/2013/1095/`](uredba/2013/1095/) | amended, not consolidated | 1 | 2013-05-15 | 2013-05-15 |
+| Uredba o Direkciji za korištenje službenih zrakoplova | [`uredba/2013/1096/`](uredba/2013/1096/) | in force | 1 | 2013-05-15 | 2013-05-15 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih | [`uredba/2013/1097/`](uredba/2013/1097/) | amending act | 1 | 2013-05-15 | 2013-05-15 |
+| Uredba o visini naknade za donošenje rješenja o izvedenom stanju | [`uredba/2013/1152/`](uredba/2013/1152/) | in force | 1 | 2013-05-18 | 2013-05-18 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije | [`uredba/2013/1153/`](uredba/2013/1153/) | amending act | 1 | 2013-05-18 | 2013-05-18 |
+| Uredba o Digitalnom informacijsko-dokumentacijskom uredu | [`uredba/2013/1298/`](uredba/2013/1298/) | repealed, not consolidated | 1 | 2013-06-12 | 2013-06-12 |
+| Uredba o obrascu i načinu vrednovanja Gospodarskog programa korištenja poljoprivrednog zemljišta u vlasništvu Republike Hrvatske | [`uredba/2013/1299/`](uredba/2013/1299/) | repealed, not consolidated | 1 | 2013-06-12 | 2013-06-12 |
+| Uredba o visini trošarine na cigarete, sitno rezani duhan i ostali duhan za pušenje | [`uredba/2013/1300/`](uredba/2013/1300/) | repealed, not consolidated | 1 | 2013-06-05 | 2013-06-05 |
+| Uredba o graničnim vrijednostima sadržaja hlapivih organskih spojeva u određenim bojama i lakovima koji se koriste u graditeljstvu i proizvodima za završnu obradu vozila | [`uredba/2013/1366/`](uredba/2013/1366/) | repealed, not consolidated | 1 | 2013-06-18 | 2013-06-18 |
+| Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena | [`uredba/2013/1440/`](uredba/2013/1440/) | in force | 1 | 2013-06-25 | 2013-06-25 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2013/1441/`](uredba/2013/1441/) | amended, not consolidated | 1 | 2013-06-25 | 2013-06-25 |
+| Uredba o izmjeni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon | [`uredba/2013/1538/`](uredba/2013/1538/) | in force | 1 | 2013-06-25 | 2013-06-25 |
+| Uredba o dopunama Uredbe o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama | [`uredba/2013/1539/`](uredba/2013/1539/) | amending act | 1 | 2013-06-29 | 2013-06-29 |
+| Uredba o izmjeni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) | [`uredba/2013/1540/`](uredba/2013/1540/) | in force | 1 | 2013-06-22 | 2013-06-22 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva zdravlja | [`uredba/2013/1541/`](uredba/2013/1541/) | in force | 1 | 2013-06-29 | 2013-06-29 |
+| Uredba o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera | [`uredba/2013/1551/`](uredba/2013/1551/) | amended, not consolidated | 1 | 2013-06-25 | 2013-06-25 |
+| Uredba o stambenom zbrinjavanju članova obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, hrvatskih ratnih vojnih invalida iz Domovinskog rata i dragovoljaca iz Domovinskog rata | [`uredba/2013/1565/`](uredba/2013/1565/) | repealed, not consolidated | 1 | 2013-07-04 | 2013-07-04 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2013/1566/`](uredba/2013/1566/) | amending act | 1 | 2013-07-04 | 2013-07-04 |
+| Uredba o graničnim prijelazima Republike Hrvatske | [`uredba/2013/1630/`](uredba/2013/1630/) | amended, not consolidated | 1 | 2013-07-01 | 2013-07-01 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture | [`uredba/2013/1631/`](uredba/2013/1631/) | amending act | 1 | 2013-07-01 | 2013-07-01 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede | [`uredba/2013/1679/`](uredba/2013/1679/) | repealed, not consolidated | 1 | 2013-06-29 | 2013-06-29 |
+| Uredba o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave | [`uredba/2013/1867/`](uredba/2013/1867/) | repealed, not consolidated | 1 | 2013-07-11 | 2013-07-11 |
+| Uredba o uspostavi sustava jamstva podrijetla električne energije | [`uredba/2013/1868/`](uredba/2013/1868/) | repealed, not consolidated | 1 | 2013-07-11 | 2013-07-11 |
+| Uredba o klasifikaciji radnih mjesta, carinskih zvanja i vrijednosti koeficijenata složenosti poslova carinskih službenika | [`uredba/2013/1916/`](uredba/2013/1916/) | repealed, not consolidated | 1 | 2013-07-08 | 2013-07-08 |
+| Uredba o radnim mjestima ovlaštenih carinskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2013/1917/`](uredba/2013/1917/) | amended, not consolidated | 1 | 2013-07-08 | 2013-07-08 |
+| Uredba o unutarnjem ustrojstvu Stalnog predstavništva Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju, sa sjedištem u Bruxellesu | [`uredba/2013/1946/`](uredba/2013/1946/) | in force | 1 | 2013-07-09 | 2013-07-09 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu ureda državne uprave u županijama | [`uredba/2013/1976/`](uredba/2013/1976/) | amending act | 1 | 2013-07-20 | 2013-07-20 |
+| Uredba o visini trošarina na motorne benzine, plinsko ulje i kerozin | [`uredba/2013/2088/`](uredba/2013/2088/) | repealed, not consolidated | 1 | 2013-07-23 | 2013-07-23 |
+| Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2013/2141/`](uredba/2013/2141/) | amending act | 1 | 2013-08-01 | 2013-08-01 |
+| Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavada za intelektualno vlasništvo | [`uredba/2013/2142/`](uredba/2013/2142/) | amending act | 1 | 2013-07-25 | 2013-07-25 |
+| Uredba o dopunama Uredbe o preoblikovanju Energetskog instituta Hrvoje Požar u ustanovu | [`uredba/2013/2143/`](uredba/2013/2143/) | amending act | 1 | 2013-08-01 | 2013-08-01 |
+| Uredba o izmjenama Zakona o boravišnoj pristojbi | [`uredba/2013/2188/`](uredba/2013/2188/) | in force | 1 | 2013-07-27 | 2013-07-27 |
+| Uredba o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih sportu i razonodi u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske | [`uredba/2013/2189/`](uredba/2013/2189/) | amended, not consolidated | 1 | 2013-07-27 | 2013-07-27 |
+| Uredba o utvrđivanju visine boravišne pristojbe za 2014. godinu | [`uredba/2013/2190/`](uredba/2013/2190/) | in force | 1 | 2013-08-03 | 2013-08-03 |
+| Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskog sustava | [`uredba/2013/2191/`](uredba/2013/2191/) | amending act | 1 | 2013-07-27 | 2013-07-27 |
+| Uredba o izvozu i uvozu robe koja bi se mogla koristiti za izvršenje smrtne kazne, mučenje ili drugo okrutno, neljudsko ili ponižavajuće postupanje ili kažnjavanje | [`uredba/2013/2262/`](uredba/2013/2262/) | amended, not consolidated | 1 | 2013-08-09 | 2013-08-09 |
+| Uredba o izmjenama i dopunama Uredbe o izgledu odora policijskih službenika Ministarstva unutarnjih poslova | [`uredba/2013/2263/`](uredba/2013/2263/) | amending act | 1 | 2013-08-09 | 2013-08-09 |
+| Uredba o izmjenama Zakona o udžbenicima za osnovnu i srednju školu | [`uredba/2013/2274/`](uredba/2013/2274/) | in force | 1 | 2013-08-10 | 2013-08-10 |
+| Uredba o izmjeni Zakona o učinkovitom korištenju energije u neposrednoj potrošnji | [`uredba/2013/2275/`](uredba/2013/2275/) | in force | 1 | 2013-08-03 | 2013-08-03 |
+| Uredba o prestanku važenja Uredbe o Popisu robe vojne namjene i Popisu nevojnih ubojnih sredstava | [`uredba/2013/2276/`](uredba/2013/2276/) | in force | 1 | 2013-08-03 | 2013-08-03 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2013/2289/`](uredba/2013/2289/) | repealed, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
+| Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih | [`uredba/2013/2290/`](uredba/2013/2290/) | repealed, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
+| Uredba o unutarnjem ustrojstvu Državnog ureda za obnovu i stambeno zbrinjavanje | [`uredba/2013/2291/`](uredba/2013/2291/) | replaced, not consolidated | 1 | 2013-08-15 | 2013-08-15 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2013/2292/`](uredba/2013/2292/) | repealed, not consolidated | 1 | 2013-08-08 | 2013-08-08 |
+| Uredba o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj | [`uredba/2013/2406/`](uredba/2013/2406/) | repealed, not consolidated | 1 | 2013-08-31 | 2013-08-31 |
+| Uredba o izmjenama i dopunama Uredbe o visini naknade za uređenje voda | [`uredba/2013/2407/`](uredba/2013/2407/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon | [`uredba/2013/2420/`](uredba/2013/2420/) | amended, not consolidated | 1 | 2013-09-03 | 2013-09-03 |
+| Uredba o dopunama Zakona o mirovinskom osiguranju | [`uredba/2013/2443/`](uredba/2013/2443/) | amending act | 1 | 2013-09-14 | 2013-09-14 |
+| Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi | [`uredba/2013/2444/`](uredba/2013/2444/) | amending act | 1 | 2013-09-07 | 2013-09-07 |
+| Uredba o kvaliteti tekućih naftnih goriva | [`uredba/2013/2458/`](uredba/2013/2458/) | repealed, not consolidated | 1 | 2013-09-12 | 2013-09-12 |
+| Uredba o dodjeljivanju trajnih novčanih mjesečnih naknada osvajačima medalja na olimpijskim igrama, paraolimpijskim igrama, olimpijskim igrama gluhih i svjetskim seniorskim prvenstvima u olimpijskim sportovima i disciplinama | [`uredba/2013/2459/`](uredba/2013/2459/) | repealed, not consolidated | 1 | 2013-09-19 | 2013-09-19 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije | [`uredba/2013/2460/`](uredba/2013/2460/) | amending act | 1 | 2013-09-19 | 2013-09-19 |
+| Uredba o unutarnjem ustrojstvu Državnog ureda za upravljanje državnom imovinom | [`uredba/2013/2518/`](uredba/2013/2518/) | in force | 1 | 2013-09-21 | 2013-09-21 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta "Nikola Tesla" u Gospiću | [`uredba/2013/2526/`](uredba/2013/2526/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Požegi | [`uredba/2013/2527/`](uredba/2013/2527/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta "Lavoslav Ružička" u Vukovaru | [`uredba/2013/2528/`](uredba/2013/2528/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Tehničkog veleučilišta u Zagrebu | [`uredba/2013/2529/`](uredba/2013/2529/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Zdravstvenog veleučilišta | [`uredba/2013/2530/`](uredba/2013/2530/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Karlovcu | [`uredba/2013/2531/`](uredba/2013/2531/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Šibeniku | [`uredba/2013/2532/`](uredba/2013/2532/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta "Marko Marulić" u Kninu | [`uredba/2013/2533/`](uredba/2013/2533/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Rijeci | [`uredba/2013/2534/`](uredba/2013/2534/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Slavonskom Brodu | [`uredba/2013/2535/`](uredba/2013/2535/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Međimurskog veleučilišta u Čakovcu | [`uredba/2013/2536/`](uredba/2013/2536/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici | [`uredba/2013/2537/`](uredba/2013/2537/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima | [`uredba/2013/2538/`](uredba/2013/2538/) | amending act | 1 | 2013-10-03 | 2013-10-03 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta | [`uredba/2013/2654/`](uredba/2013/2654/) | amending act | 1 | 2013-10-12 | 2013-10-12 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2013/2665/`](uredba/2013/2665/) | amending act | 1 | 2013-10-17 | 2013-10-17 |
+| Uredba o osnivanju Komisije za odnose s vjerskim zajednicama i Ureda Komisije za odnose s vjerskim zajednicama | [`uredba/2013/2725/`](uredba/2013/2725/) | amended, not consolidated | 1 | 2013-10-24 | 2013-10-24 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2013/2726/`](uredba/2013/2726/) | amending act | 1 | 2013-10-24 | 2013-10-24 |
+| Uredba o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske | [`uredba/2013/2760/`](uredba/2013/2760/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o mjerilima i kriterijima dodjele na korištenje nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna te drugih osoba | [`uredba/2013/2761/`](uredba/2013/2761/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o darovanju nekretnina u vlasništvu Republike Hrvatske | [`uredba/2013/2762/`](uredba/2013/2762/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o načinu raspolaganja nekretninama u vlasništvu Republike Hrvatske | [`uredba/2013/2763/`](uredba/2013/2763/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2013/2764/`](uredba/2013/2764/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o izmjeni Uredbe o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima | [`uredba/2013/2765/`](uredba/2013/2765/) | in force | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o naknadi za poticanje proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije | [`uredba/2013/2778/`](uredba/2013/2778/) | repealed, not consolidated | 1 | 2013-11-01 | 2013-11-01 |
+| Uredba o načinu prodaje dionica i poslovnih udjela | [`uredba/2013/2814/`](uredba/2013/2814/) | repealed, not consolidated | 1 | 2013-10-26 | 2013-10-26 |
+| Uredba o visini naknade za obavljanje poslova upravljanja dionicama i poslovnim udjelima | [`uredba/2013/2829/`](uredba/2013/2829/) | repealed, not consolidated | 1 | 2013-10-29 | 2013-10-29 |
+| Uredba o izmjeni Uredbe o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i izvještaja o primjeni fiskalnih pravila | [`uredba/2013/2830/`](uredba/2013/2830/) | in force | 1 | 2013-11-05 | 2013-11-05 |
+| Uredba o uvjetima za utvrđivanje i gubitak statusa izbjeglice, prognanika odnosno povratnika | [`uredba/2013/2883/`](uredba/2013/2883/) | in force | 1 | 2013-11-14 | 2013-11-14 |
+| Uredba o utvrđivanju statusa bivših nositelja stanarskih prava i članova njihovih obitelji, te uvjetima i postupku njihovog stambenog zbrinjavanja | [`uredba/2013/2884/`](uredba/2013/2884/) | repealed, not consolidated | 1 | 2013-11-14 | 2013-11-14 |
+| Uredba o izmjenama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru | [`uredba/2013/2885/`](uredba/2013/2885/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova | [`uredba/2013/2985/`](uredba/2013/2985/) | repealed, not consolidated | 1 | 2013-11-30 | 2013-11-30 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova | [`uredba/2013/2986/`](uredba/2013/2986/) | amending act | 1 | 2013-11-23 | 2013-11-23 |
+| Uredba o dopunama Uredbe o plaćama policijskih službenika | [`uredba/2013/2987/`](uredba/2013/2987/) | amending act | 1 | 2013-11-23 | 2013-11-23 |
+| Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2013/2988/`](uredba/2013/2988/) | amending act | 1 | 2013-11-23 | 2013-11-23 |
+| Uredba o dopunama Uredbe o klasifikaciji radnih mjesta policijskih službenika | [`uredba/2013/2989/`](uredba/2013/2989/) | amending act | 1 | 2013-11-23 | 2013-11-23 |
+| Uredba o financijskoj strukturi omotnice za mjere iz Programa izravne potpore za 2013. godinu | [`uredba/2013/3016/`](uredba/2013/3016/) | in force | 1 | 2013-11-28 | 2013-11-28 |
+| Uredba o izmjenama Uredbe o osnivanju Agencije za poljoprivredno zemljište | [`uredba/2013/3017/`](uredba/2013/3017/) | in force | 1 | 2013-12-05 | 2013-12-05 |
+| Uredba o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara | [`uredba/2013/3076/`](uredba/2013/3076/) | repealed, not consolidated | 1 | 2013-12-12 | 2013-12-12 |
+| Uredba o Uredu predsjednika Vlade Republike Hrvatske | [`uredba/2013/3091/`](uredba/2013/3091/) | repealed, not consolidated | 1 | 2013-12-07 | 2013-12-07 |
+| Uredba o izmjeni Uredbe o osnivanju Komisije za odnose s vjerskim zajednicama i Ureda Komisije za odnose s vjerskim zajednicama | [`uredba/2013/3092/`](uredba/2013/3092/) | in force | 1 | 2013-12-14 | 2013-12-14 |
+| Uredba o vrsti vatrenog naoružanja i streljiva koje koriste ovlašteni carinski službenici | [`uredba/2013/3121/`](uredba/2013/3121/) | repealed, not consolidated | 1 | 2013-12-18 | 2013-12-18 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2014. godinu | [`uredba/2013/3183/`](uredba/2013/3183/) | amended, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2013/3184/`](uredba/2013/3184/) | amended, not consolidated | 1 | 2013-12-24 | 2013-12-24 |
+| Uredba o izmjenama Uredbe o visini naknade za zaštitu voda | [`uredba/2013/3185/`](uredba/2013/3185/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o izmjenama Uredbe o visini vodnoga doprinosa | [`uredba/2013/3186/`](uredba/2013/3186/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje instrumentom pretpristupne pomoći (IPA) | [`uredba/2013/3253/`](uredba/2013/3253/) | repealed, not consolidated | 1 | 2013-12-12 | 2013-12-12 |
+| Uredba o visini minimalne plaće | [`uredba/2013/3274/`](uredba/2013/3274/) | replaced, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o izmjenama Zakona o boravišnoj pristojbi | [`uredba/2013/3308/`](uredba/2013/3308/) | in force | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o dopuni Zakona o igrama na sreću | [`uredba/2013/3309/`](uredba/2013/3309/) | amending act | 1 | 2013-12-28 | 2013-12-28 |
+| Uredba o izmjeni Zakona o prebivalištu | [`uredba/2013/3310/`](uredba/2013/3310/) | in force | 1 | 2013-12-29 | 2013-12-29 |
+| Uredba o izmjenama i dopunama Uredbe o računovodstvu neprofitnih organizacija | [`uredba/2013/3311/`](uredba/2013/3311/) | amended, not consolidated | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o izmjeni i dopunama Uredbe o indeksu razvijenosti | [`uredba/2013/3312/`](uredba/2013/3312/) | amending act | 1 | 2013-12-28 | 2013-12-28 |
+| Uredba o izmjeni i dopuni Zakona o zdravstvenoj zaštiti | [`uredba/2013/3332/`](uredba/2013/3332/) | amending act | 1 | 2014-01-01 | 2014-01-01 |
+| Uredba o izmjenama i dopuni Zakona o uskrati isplate pojedinih materijalnih prava zaposlenima u javnim službama | [`uredba/2013/3333/`](uredba/2013/3333/) | amending act | 1 | 2013-12-31 | 2013-12-31 |
 | Uredba o određivanju zona i aglomeracija prema razinama onečišćenosti zraka na teritoriju Republike Hrvatske | [`uredba/2014/24/`](uredba/2014/24/) | in force | 1 | 2014-01-11 | 2014-01-11 |
 | Uredba o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije | [`uredba/2014/25/`](uredba/2014/25/) | in force | 1 | 2014-01-11 | 2014-01-11 |
 | Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu stručnog ispita | [`uredba/2014/26/`](uredba/2014/26/) | amending act | 1 | 2014-01-11 | 2014-01-11 |
 | Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2014. godinu | [`uredba/2014/109/`](uredba/2014/109/) | in force | 1 | 2014-01-28 | 2014-01-28 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2014/148/`](uredba/2014/148/) | amended, not consolidated | 1 | 2014-02-01 | 2014-02-01 |
+| Uredba o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske | [`uredba/2014/175/`](uredba/2014/175/) | repealed, not consolidated | 1 | 2014-02-04 | 2014-02-04 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode | [`uredba/2014/176/`](uredba/2014/176/) | repealed, not consolidated | 1 | 2014-02-04 | 2014-02-04 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2014/177/`](uredba/2014/177/) | amending act | 1 | 2014-02-04 | 2014-02-04 |
+| Uredba o izmjenama i dopunama Uredbe o visini naknade za korištenje voda | [`uredba/2014/178/`](uredba/2014/178/) | amending act | 1 | 2014-04-01 | 2014-04-01 |
 | Uredba o računanju vremena u 2014. godini | [`uredba/2014/439/`](uredba/2014/439/) | in force | 1 | 2014-03-01 | 2014-03-01 |
 | Uredba o obveznom sadržaju Plana upravljanja imovinom u vlasništvu Republike Hrvatske | [`uredba/2014/440/`](uredba/2014/440/) | in force | 1 | 2014-02-22 | 2014-02-22 |
 | Uredba o uvjetima i vrednovanju kriterija za davanje koncesije i sklapanje ugovora o javnoj usluzi za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu | [`uredba/2014/537/`](uredba/2014/537/) | in force | 1 | 2014-03-15 | 2014-03-15 |
@@ -16827,10 +17077,24 @@
 | Uredba o prestanku važenja Uredbe o osnivanju Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`uredba/2014/542/`](uredba/2014/542/) | in force | 1 | 2014-03-15 | 2014-03-15 |
 | Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2014. godinu | [`uredba/2014/669/`](uredba/2014/669/) | in force | 1 | 2014-04-03 | 2014-04-03 |
 | Uredba o izmjeni Uredbe o računovodstvu neprofitnih organizacija | [`uredba/2014/815/`](uredba/2014/815/) | in force | 1 | 2014-04-08 | 2014-04-08 |
+| Uredba o unutarnjem ustrojstvu Ministarstva turizma | [`uredba/2014/1030/`](uredba/2014/1030/) | repealed, not consolidated | 1 | 2014-05-13 | 2014-05-13 |
+| Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave | [`uredba/2014/1031/`](uredba/2014/1031/) | repealed, not consolidated | 1 | 2014-05-13 | 2014-05-13 |
+| Uredba o načinu povrata kupoprodajne cijene bez kamata hrvatskim braniteljima i članovima obitelji smrtno stradalog, zatočenog ili nestalog i umrlog hrvatskog branitelja iz Domovinskog rata | [`uredba/2014/1032/`](uredba/2014/1032/) | amended, not consolidated | 1 | 2014-05-13 | 2014-05-13 |
+| Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole | [`uredba/2014/1082/`](uredba/2014/1082/) | amended, not consolidated | 1 | 2014-05-17 | 2014-05-17 |
+| Uredba o procjeni utjecaja zahvata na okoliš | [`uredba/2014/1138/`](uredba/2014/1138/) | amended, not consolidated | 1 | 2014-05-29 | 2014-05-29 |
 | Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru | [`uredba/2014/1163/`](uredba/2014/1163/) | amending act | 1 | 2014-05-31 | 2014-05-31 |
+| Uredba o izmjeni i dopuni Uredbe o načinu prodaje dionica i poslovnih udjela | [`uredba/2014/1252/`](uredba/2014/1252/) | amending act | 1 | 2014-05-31 | 2014-05-31 |
+| Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama | [`uredba/2014/1305/`](uredba/2014/1305/) | in force | 1 | 2014-06-14 | 2014-06-14 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2014/1338/`](uredba/2014/1338/) | repealed, not consolidated | 1 | 2014-06-19 | 2014-06-19 |
 | Uredba o izmjenama i dopunama Uredbe o spajanju javnih ustanova restauratorske djelatnosti | [`uredba/2014/1342/`](uredba/2014/1342/) | amending act | 1 | 2014-06-21 | 2014-06-21 |
 | Uredba o izmjeni Uredbe o naknadi za istraživanje i eksploataciju ugljikovodika | [`uredba/2014/1343/`](uredba/2014/1343/) | in force | 1 | 2014-07-01 | 2014-07-01 |
+| Uredba o procjeni vrijednosti nekretnina | [`uredba/2014/1396/`](uredba/2014/1396/) | repealed, not consolidated | 1 | 2014-06-26 | 2014-06-26 |
+| Uredba o načinu i kriterijima za davanje u zakup šumskog zemljišta u vlasništvu Republike Hrvatske | [`uredba/2014/1427/`](uredba/2014/1427/) | repealed, not consolidated | 1 | 2014-07-02 | 2014-07-02 |
+| Uredba o dobrovoljnom sudjelovanju organizacija u sustavu za ekološko upravljanje i neovisno ocjenjivanje (EMAS) | [`uredba/2014/1449/`](uredba/2014/1449/) | repealed, not consolidated | 1 | 2014-07-04 | 2014-07-04 |
+| Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2014/1450/`](uredba/2014/1450/) | amended, not consolidated | 1 | 2014-06-27 | 2014-06-27 |
 | Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova | [`uredba/2014/1555/`](uredba/2014/1555/) | amending act | 1 | 2014-07-12 | 2014-07-12 |
+| Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) i Prijelaznim instrumentom | [`uredba/2014/1662/`](uredba/2014/1662/) | amended, not consolidated | 1 | 2014-07-15 | 2014-07-15 |
+| Uredba o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) | [`uredba/2014/1663/`](uredba/2014/1663/) | repealed, not consolidated | 1 | 2014-07-22 | 2014-07-22 |
 | Uredba o izmjenama Uredbe o osnivanju Agencije za zaštitu okoliša | [`uredba/2014/1664/`](uredba/2014/1664/) | in force | 1 | 2014-07-22 | 2014-07-22 |
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Vransko jezero" | [`uredba/2014/1694/`](uredba/2014/1694/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Kopački rit" | [`uredba/2014/1695/`](uredba/2014/1695/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
@@ -16839,29 +17103,65 @@
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Medvednica" | [`uredba/2014/1698/`](uredba/2014/1698/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Lastovsko područje" | [`uredba/2014/1699/`](uredba/2014/1699/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Javne ustanove "Park prirode Žumberak - Samoborsko gorje" | [`uredba/2014/1701/`](uredba/2014/1701/) | amending act | 1 | 2014-07-24 | 2014-07-24 |
+| Uredba o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, hrvatskog ratnog vojnog invalida iz Domovinskog rata i hrvatskog branitelja iz Domovinskog rata | [`uredba/2014/1760/`](uredba/2014/1760/) | repealed, not consolidated | 1 | 2014-07-29 | 2014-07-29 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2014/1761/`](uredba/2014/1761/) | amended, not consolidated | 1 | 2014-07-22 | 2014-07-22 |
+| Uredba o izmjeni Tarife upravnih pristojbi Zakona o upravnim pristojbama | [`uredba/2014/1762/`](uredba/2014/1762/) | in force | 1 | 2014-07-29 | 2014-07-29 |
+| Uredba o izmjeni Zakona o pružanju usluga u turizmu | [`uredba/2014/1802/`](uredba/2014/1802/) | in force | 1 | 2014-07-25 | 2014-07-25 |
+| Uredba o izmjeni zakona o ugostiteljskoj djelatnosti | [`uredba/2014/1803/`](uredba/2014/1803/) | in force | 1 | 2014-07-25 | 2014-07-25 |
+| Uredba o naknadi štete po osnovi otuđenja mineralne sirovine | [`uredba/2014/1811/`](uredba/2014/1811/) | repealed, not consolidated | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima | [`uredba/2014/1812/`](uredba/2014/1812/) | repealed, not consolidated | 1 | 2014-08-02 | 2014-08-02 |
 | Uredba o izmjenama i dopunama Uredbe o graničnim vrijednostima emisija onečišćujućih tvari u zrak iz nepokretnih izvora | [`uredba/2014/1813/`](uredba/2014/1813/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
 | Uredba o izmjenama i dopunama Uredbe o osnivanju Državnog zavoda za zaštitu prirode | [`uredba/2014/1814/`](uredba/2014/1814/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
 | Uredba o izmjenama i dopuni Uredbe o osnivanju Javne ustanove "Nacionalni park Sjeverni Velebit" | [`uredba/2014/1815/`](uredba/2014/1815/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
 | Uredba o izmjenama i dopuni Uredbe o osnivanju Javne ustanove "Park prirode Velebit" | [`uredba/2014/1816/`](uredba/2014/1816/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
 | Uredba o izmjenama i dopuni Uredbe o osnivanju Javne ustanove "Park prirode Lonjsko polje" | [`uredba/2014/1817/`](uredba/2014/1817/) | amending act | 1 | 2014-08-02 | 2014-08-02 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obrane | [`uredba/2014/1886/`](uredba/2014/1886/) | amending act | 1 | 2014-08-08 | 2014-08-08 |
 | Uredba o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja | [`uredba/2014/1887/`](uredba/2014/1887/) | amending act | 1 | 2014-08-08 | 2014-08-08 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2014/1888/`](uredba/2014/1888/) | amending act | 1 | 2014-08-08 | 2014-08-08 |
 | Uredba o izmjeni Tarife upravnih pristojbi Zakona o upravnim pristojbama | [`uredba/2014/1889/`](uredba/2014/1889/) | in force | 1 | 2014-08-01 | 2014-08-01 |
 | Uredba o izmjeni Uredbe o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2014. godinu | [`uredba/2014/1890/`](uredba/2014/1890/) | in force | 1 | 2014-08-08 | 2014-08-08 |
+| Uredba o dopuni Zakona o tržištu toplinske energije | [`uredba/2014/1988/`](uredba/2014/1988/) | amending act | 1 | 2014-08-23 | 2014-08-23 |
 | Uredba o utvrđivanju visine boravišne pristojbe za 2015. godinu | [`uredba/2014/1989/`](uredba/2014/1989/) | in force | 1 | 2014-08-30 | 2014-08-30 |
 | Uredba o prestanku važenja Uredbe o određivanju osoba ovlaštenih za pokretanje postupka radi zaštite kolektivnih interesa potrošača | [`uredba/2014/2022/`](uredba/2014/2022/) | in force | 1 | 2014-09-06 | 2014-09-06 |
+| Uredba o dopuni Zakona o potpori poljoprivredi i ruralnom razvoju | [`uredba/2014/2069/`](uredba/2014/2069/) | amending act | 1 | 2014-09-06 | 2014-09-06 |
+| Uredba o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem "Ulaganje za rast i radna mjesta" | [`uredba/2014/2070/`](uredba/2014/2070/) | amended, not consolidated | 1 | 2014-09-13 | 2014-09-13 |
+| Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za regionalni razvoj Republike Hrvatske | [`uredba/2014/2128/`](uredba/2014/2128/) | amending act | 1 | 2014-09-27 | 2014-09-27 |
+| Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije | [`uredba/2014/2140/`](uredba/2014/2140/) | repealed, not consolidated | 1 | 2014-10-02 | 2014-10-02 |
+| Uredba o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem | [`uredba/2014/2141/`](uredba/2014/2141/) | amended, not consolidated | 1 | 2014-10-02 | 2014-10-02 |
+| Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon | [`uredba/2014/2168/`](uredba/2014/2168/) | amended, not consolidated | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zdravlja | [`uredba/2014/2190/`](uredba/2014/2190/) | repealed, not consolidated | 1 | 2014-10-08 | 2014-10-08 |
+| Uredba o tijelima u sustavima upravljanja i kontrole za provedbu programa kojima se podržava cilj "Europska teritorijalna suradnja" u financijskom razdoblju 2014. - 2020. | [`uredba/2014/2280/`](uredba/2014/2280/) | amended, not consolidated | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva | [`uredba/2014/2281/`](uredba/2014/2281/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
 | Uredba o izmjenama i dopunama Uredbe o uvjetima davanja koncesije za gospodarsko korištenje voda | [`uredba/2014/2282/`](uredba/2014/2282/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
 | Uredba o izmjeni Uredbe o sustavu brze razmjene službenih obavijesti o proizvodima koji predstavljaju rizik za zdravlje i sigurnost potrošača (RAPEX) | [`uredba/2014/2283/`](uredba/2014/2283/) | in force | 1 | 2014-10-18 | 2014-10-18 |
 | Uredba o dopuni Uredbe o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača) | [`uredba/2014/2284/`](uredba/2014/2284/) | amending act | 1 | 2014-10-18 | 2014-10-18 |
+| Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u Javnim službama | [`uredba/2014/2285/`](uredba/2014/2285/) | amended, not consolidated | 1 | 2014-10-18 | 2014-10-18 |
 | Uredba o vojnom graditeljstvu | [`uredba/2014/2383/`](uredba/2014/2383/) | in force | 1 | 2014-11-04 | 2014-11-04 |
 | Uredba o izmjeni Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi | [`uredba/2014/2384/`](uredba/2014/2384/) | in force | 1 | 2014-11-04 | 2014-11-04 |
 | Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državne uprave za zaštitu i spašavanje | [`uredba/2014/2385/`](uredba/2014/2385/) | in force | 1 | 2014-11-04 | 2014-11-04 |
+| Uredba o tijelima u Sustavu upravljanja i kontrole za provedbu Operativnog programa za pomorstvo i ribarstvo | [`uredba/2014/2439/`](uredba/2014/2439/) | repealed, not consolidated | 1 | 2014-11-11 | 2014-11-11 |
+| Uredba o tijelima u Sustavu upravljanja i kontrole korištenja Europskog poljoprivrednog fonda za ruralni razvoj | [`uredba/2014/2440/`](uredba/2014/2440/) | cited later, not consolidated | 1 | 2014-11-11 | 2014-11-11 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija | [`uredba/2014/2541/`](uredba/2014/2541/) | amending act | 1 | 2014-11-25 | 2014-11-25 |
+| Uredba o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture | [`uredba/2014/2542/`](uredba/2014/2542/) | amended, not consolidated | 1 | 2014-11-25 | 2014-11-25 |
 | Uredba o izmjeni Uredbe o načinu povrata kupoprodajne cijene bez kamata hrvatskim braniteljima i članovima obitelji smrtno stradalog, zatočenog ili nestalog i umrlog hrvatskog branitelja iz Domovinskog rata | [`uredba/2014/2594/`](uredba/2014/2594/) | in force | 1 | 2014-11-29 | 2014-11-29 |
 | Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornoga uređenja | [`uredba/2014/2595/`](uredba/2014/2595/) | amending act | 1 | 2014-11-29 | 2014-11-29 |
 | Uredba o izmjeni Uredbe o osnivanju Javne ustanove "Memorijalni centar Domovinskog rata Vukovar" | [`uredba/2014/2644/`](uredba/2014/2644/) | in force | 1 | 2014-12-06 | 2014-12-06 |
+| Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2014/2645/`](uredba/2014/2645/) | in force | 1 | 2014-12-06 | 2014-12-06 |
 | Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave | [`uredba/2014/2711/`](uredba/2014/2711/) | amending act | 1 | 2014-12-16 | 2014-12-16 |
 | Uredba o izmjeni Uredbe o javnoj nabavi za potrebe obrane i sigurnosti | [`uredba/2014/2712/`](uredba/2014/2712/) | in force | 1 | 2014-12-16 | 2014-12-16 |
 | Uredba o prestanku važenja Uredbe o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske | [`uredba/2014/2713/`](uredba/2014/2713/) | in force | 1 | 2014-12-16 | 2014-12-16 |
+| Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon | [`uredba/2014/2758/`](uredba/2014/2758/) | in force | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2014/2759/`](uredba/2014/2759/) | amended, not consolidated | 1 | 2014-12-13 | 2014-12-13 |
+| Uredba o izmjenama i dopunama Zakona o mirovinskom osiguranju | [`uredba/2014/2821/`](uredba/2014/2821/) | repealed, not consolidated | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`uredba/2014/2822/`](uredba/2014/2822/) | repealed, not consolidated | 1 | 2014-12-20 | 2014-12-20 |
+| Uredba o izmjeni Zakona o policiji | [`uredba/2014/2823/`](uredba/2014/2823/) | repealed, not consolidated | 1 | 2014-12-31 | 2014-12-31 |
 | Uredba o dopuni Zakona o sanaciji javnih ustanova | [`uredba/2014/2824/`](uredba/2014/2824/) | amending act | 1 | 2014-12-20 | 2014-12-20 |
+| Uredba o visini minimalne plaće | [`uredba/2014/2825/`](uredba/2014/2825/) | replaced, not consolidated | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2014/2826/`](uredba/2014/2826/) | amending act | 1 | 2014-12-27 | 2014-12-27 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama | [`uredba/2014/2827/`](uredba/2014/2827/) | amended, not consolidated | 1 | 2014-12-27 | 2014-12-27 |
+| Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja | [`uredba/2014/2828/`](uredba/2014/2828/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o standardu kakvoće vode | [`uredba/2014/2829/`](uredba/2014/2829/) | amending act | 1 | 2014-12-27 | 2014-12-27 |
+| Uredba o metodologiji vještačenja | [`uredba/2014/2894/`](uredba/2014/2894/) | repealed, not consolidated | 1 | 2015-01-01 | 2015-01-01 |
 | Uredba o izmjeni Zakona o zaštiti na radu | [`uredba/2014/2906/`](uredba/2014/2906/) | in force | 1 | 2014-12-25 | 2014-12-25 |
 | Uredba o izmjenama i dopuni Zakona o zdravstvenoj zaštiti | [`uredba/2014/2908/`](uredba/2014/2908/) | amending act | 1 | 2015-01-01 | 2015-01-01 |
 | Uredba o financijskoj strukturi omotnice za mjere iz Programa izravne potpore za 2014. godinu | [`uredba/2014/2910/`](uredba/2014/2910/) | in force | 1 | 2014-12-25 | 2014-12-25 |

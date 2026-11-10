@@ -25682,6 +25682,1491 @@
    ]
   },
   {
+   "slug": "uredba-2012-2000",
+   "path": "uredba/2012/2000",
+   "short": "Uredba o praćenju emisija stakleničkih plinova, politike i mjera za njihovo smanjenje u Republici Hrvatskoj",
+   "title": "Uredba o praćenju emisija stakleničkih plinova, politike i mjera za njihovo smanjenje u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/87/2000",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_87_2000.html",
+     "sha256": "c0121efd5d9564feb2260077aa8019cf053dfedc99672f2263ae4781f6536049"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2001",
+   "path": "uredba/2012/2001",
+   "short": "Uredba o načinu ustrojavanja, sadržaju i vođenju Registra investicija",
+   "title": "Uredba o načinu ustrojavanja, sadržaju i vođenju Registra investicija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/87/2001",
+   "versions": [
+    {
+     "from": "2012-07-30",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_87_2001.html",
+     "sha256": "6b7914a500b1e74a0e96321f8de0a6ef4f3cf2ddaed0f3ed50d5ce1bfab893e7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2002",
+   "path": "uredba/2012/2002",
+   "short": "Uredba o izmjenama Uredbe o Carinskoj tarifi za 2012. godinu",
+   "title": "Uredba o izmjenama Uredbe o Carinskoj tarifi za 2012. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/87/2002",
+   "versions": [
+    {
+     "from": "2012-07-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_07_87_2002.html",
+     "sha256": "925715ee10a62d73925b68bf679281122284751dc68bcf0be2475c1ea0ec3f97"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2012",
+   "path": "uredba/2012/2012",
+   "short": "Uredba o provedbi projekata javno-privatnog partnerstva",
+   "title": "Uredba o provedbi projekata javno-privatnog partnerstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/88/2012",
+   "versions": [
+    {
+     "from": "2012-08-01",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_88_2012.html",
+     "sha256": "bcbea21c05db26adb8dcce8405461933cbf3a85efd9d282797984ab147c36499"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2024",
+   "path": "uredba/2012/2024",
+   "short": "Uredba o javnoj nabavi za potrebe obrane i sigurnosti",
+   "title": "Uredba o javnoj nabavi za potrebe obrane i sigurnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/89/2024",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_89_2024.html",
+     "sha256": "8257dc2c503a36e053b8822a5620845267d6c360392beb9d172063b4e1eaccf2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2025",
+   "path": "uredba/2012/2025",
+   "short": "Uredba o Popisu robe vojne namjene i Popisu nevojnih ubojnih sredstava",
+   "title": "Uredba o Popisu robe vojne namjene i Popisu nevojnih ubojnih sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/89/2025",
+   "versions": [
+    {
+     "from": "2012-08-10",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_89_2025.html",
+     "sha256": "c851784bbf02913d286472623df9446c95f5ac6bcf6f81e531df0b29c81b1cc8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2083",
+   "path": "uredba/2012/2083",
+   "short": "Uredba o izmjenama Uredbe o osnivanju Agencije za opremu pod tlakom",
+   "title": "Uredba o izmjenama Uredbe o osnivanju Agencije za opremu pod tlakom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/90/2083",
+   "versions": [
+    {
+     "from": "2012-08-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_90_2083.html",
+     "sha256": "bce0388083021609ef4094f877b7a5767bf1152721c2e685a8d17fabf1968b48"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2168",
+   "path": "uredba/2012/2168",
+   "short": "Uredba o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba",
+   "title": "Uredba o izmjenama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba, policijskih službenika i ovlaštenih službenih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/97/2168",
+   "versions": [
+    {
+     "from": "2012-08-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_97_2168.html",
+     "sha256": "4cc7d02af1e3fe7a8ec54f5ffa264594cdfff2addc18820f964a0e6bf654bcf1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2169",
+   "path": "uredba/2012/2169",
+   "short": "Uredba o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "title": "Uredba o tijelima u sustavu upravljanja i kontrole korištenja strukturnih instrumenata Europske unije u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/97/2169",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_97_2169.html",
+     "sha256": "c5a9c85629a9a37b83e06eda62bff9e123e752dc0bd779d7c8e4b3449954128f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2175",
+   "path": "uredba/2012/2175",
+   "short": "Uredba o naknadi za zadržavanje nezakonito izgrađene zgrade u prostoru",
+   "title": "Uredba o naknadi za zadržavanje nezakonito izgrađene zgrade u prostoru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/98/2175",
+   "versions": [
+    {
+     "from": "2012-09-06",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_98_2175.html",
+     "sha256": "3ad8dcb5784099e54112c0a7e89f3c37f3caf43c7e691d29f9475b4d01dc1e51"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2176",
+   "path": "uredba/2012/2176",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/98/2176",
+   "versions": [
+    {
+     "from": "2012-09-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_98_2176.html",
+     "sha256": "91b598d194672ab385500a1167c76353129b0c4001c5c5fd396935d28e965afc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2190",
+   "path": "uredba/2012/2190",
+   "short": "Uredba o izmjenama Uredbe o utvrđivanju dužnosti djelatnih vojnih osoba na kojima se staž osiguranja računa s povećanim trajanjem i načinu računanja toga staža",
+   "title": "Uredba o izmjenama Uredbe o utvrđivanju dužnosti djelatnih vojnih osoba na kojima se staž osiguranja računa s povećanim trajanjem i načinu računanja toga staža",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/99/2190",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_08_99_2190.html",
+     "sha256": "c2c81992881812960e75eebe01acbbecbc6506bc251155d669f363d33380be6f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2213",
+   "path": "uredba/2012/2213",
+   "short": "Uredba o izmjenama Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata",
+   "title": "Uredba o izmjenama Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/100/2213",
+   "versions": [
+    {
+     "from": "2012-09-13",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_09_100_2213.html",
+     "sha256": "3197cc62a77d8cd476a7edc710733072bb058c22178a383d024f016bc8fcd00d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2214",
+   "path": "uredba/2012/2214",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/100/2214",
+   "versions": [
+    {
+     "from": "2012-09-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_09_100_2214.html",
+     "sha256": "bb80390bc84ae310c7d6a3c04d05e50e5617bbeef01dd0fd2111d8c165dc8342"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2302",
+   "path": "uredba/2012/2302",
+   "short": "Uredba o izmjeni Uredbe o utvrđivanju poslova iz članka 4.a i 4.c Zakona o Financijskoj agenciji",
+   "title": "Uredba o izmjeni Uredbe o utvrđivanju poslova iz članka 4.a i 4.c Zakona o Financijskoj agenciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/106/2302",
+   "versions": [
+    {
+     "from": "2012-09-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_09_106_2302.html",
+     "sha256": "4d26295f11fd012800a269e39a38604c0ae97b5580b913a37c480a5ca7235a5b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2303",
+   "path": "uredba/2012/2303",
+   "short": "Uredba o izmjenama Uredbe o Hrvatskoj poljoprivrednoj agenciji",
+   "title": "Uredba o izmjenama Uredbe o Hrvatskoj poljoprivrednoj agenciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/106/2303",
+   "versions": [
+    {
+     "from": "2012-10-04",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_09_106_2303.html",
+     "sha256": "e99c2eceb61deb2d3dc95112c9c75604bb0707f62da58c1357cca618841b7876"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2304",
+   "path": "uredba/2012/2304",
+   "short": "Uredba o izmjenama Uredbe o Hrvatskom centru za konjogojstvo - Državne ergele Đakovo i Lipik",
+   "title": "Uredba o izmjenama Uredbe o Hrvatskom centru za konjogojstvo - Državne ergele Đakovo i Lipik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/106/2304",
+   "versions": [
+    {
+     "from": "2012-10-04",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_09_106_2304.html",
+     "sha256": "8afea5fbce48c2fae23533ddcb23ef35fd9d3bb025cf970cae74bd13d707b52f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2396",
+   "path": "uredba/2012/2396",
+   "short": "Uredba o kriterijima za dodjeljivanje državnih nagrada za vrhunska sportska postignuća",
+   "title": "Uredba o kriterijima za dodjeljivanje državnih nagrada za vrhunska sportska postignuća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/111/2396",
+   "versions": [
+    {
+     "from": "2012-10-10",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_111_2396.html",
+     "sha256": "26da0c62f1005192d71e284cf195fa3a23d4cf908ebfbf3062d6feff89594726"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2431",
+   "path": "uredba/2012/2431",
+   "short": "Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Ministarstva obrane",
+   "title": "Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Ministarstva obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2431",
+   "versions": [
+    {
+     "from": "2012-10-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2431.html",
+     "sha256": "4cde04a0ba4e489f136cdd9f55f64911a27f5fc94ae9bbb892d09a396977a1e1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2432",
+   "path": "uredba/2012/2432",
+   "short": "Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu",
+   "title": "Uredba o izmjeni Uredbe o osnivanju Državne škole za javnu upravu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2432",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2432.html",
+     "sha256": "5124fb1229a98337b158b736ae3c1f9f26f7fe2ba5b197c59d482afb8a2195ab"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2433",
+   "path": "uredba/2012/2433",
+   "short": "Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2433",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2433.html",
+     "sha256": "3f664d6a02a12d5f32e90753bbd89f3f2d30f612bd8d48ae9cca84ff7e19d3bb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2434",
+   "path": "uredba/2012/2434",
+   "short": "Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama",
+   "title": "Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/112/2434",
+   "versions": [
+    {
+     "from": "2012-10-19",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_112_2434.html",
+     "sha256": "7d5abc13bb85659abec40e3256fa3ed868dab7982a82b66003de9902d2ff4ba4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2521",
+   "path": "uredba/2012/2521",
+   "short": "Uredba o razinama onečišćujućih tvari u zraku",
+   "title": "Uredba o razinama onečišćujućih tvari u zraku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/117/2521",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_117_2521.html",
+     "sha256": "6c657f28ee3ea1b6e30ba66bf7747901883887670576d08cf000d64be2b100b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2522",
+   "path": "uredba/2012/2522",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za intelektualno vlasništvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/117/2522",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 50,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_117_2522.html",
+     "sha256": "78277786d8d8ab0fd715119835a70b5fc95ab73a095abe531402f3712de3305b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2523",
+   "path": "uredba/2012/2523",
+   "short": "Uredba o dopuni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA)",
+   "title": "Uredba o dopuni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/117/2523",
+   "versions": [
+    {
+     "from": "2012-10-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_10_117_2523.html",
+     "sha256": "74f0be05b812b21b5c5a7ee9c5b7c8a48bfe8d8852d13f4a3225c517b2d2633e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2628",
+   "path": "uredba/2012/2628",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Uredu za opće poslove Hrvatskoga sabora i Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/121/2628",
+   "versions": [
+    {
+     "from": "2012-11-05",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_121_2628.html",
+     "sha256": "7ee5ac14dd6e67c7b7790e2f95e6cea53eb63a8dcc0f9206e80a0b786b776aeb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2629",
+   "path": "uredba/2012/2629",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/121/2629",
+   "versions": [
+    {
+     "from": "2012-11-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_121_2629.html",
+     "sha256": "8e01214509921fcc7a6d63b95f1c239b016e870630b15f9a1d30ac6d65d52609"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2693",
+   "path": "uredba/2012/2693",
+   "short": "Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/124/2693",
+   "versions": [
+    {
+     "from": "2012-11-22",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_124_2693.html",
+     "sha256": "18e9b47fe0989bb0fc8e2c56d4ecee3345c144b22b9de78ca62bb9a51eeb1fb6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2694",
+   "path": "uredba/2012/2694",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/124/2694",
+   "versions": [
+    {
+     "from": "2012-11-14",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_124_2694.html",
+     "sha256": "7282e86f46657a0ccde4c6090a2283995bf8c9edfeb774e7287ecfd6f2a6624d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2725",
+   "path": "uredba/2012/2725",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/128/2725",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_128_2725.html",
+     "sha256": "7dd49c8d0b39133435d450cd1f4732937365001992044314b53aa836f3a70eff"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2768",
+   "path": "uredba/2012/2768",
+   "short": "Uredba o snimanju iz zraka",
+   "title": "Uredba o snimanju iz zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/130/2768",
+   "versions": [
+    {
+     "from": "2012-12-06",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_130_2768.html",
+     "sha256": "afccc3f62b60f1275248243537afeb63ecfd0e44c4a10a4a135c0da42f9e7c7e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2769",
+   "path": "uredba/2012/2769",
+   "short": "Uredba o izmjeni Uredbi o Uredu za suzbijanje zlouporabe droge",
+   "title": "Uredba o izmjeni Uredbi o Uredu za suzbijanje zlouporabe droge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/130/2769",
+   "versions": [
+    {
+     "from": "2012-11-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_130_2769.html",
+     "sha256": "a4a2db72ef7ffaa0bd850d22f89bfda1bb1955d22f526392598ff1391c1117cc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-278",
+   "path": "uredba/2012/278",
+   "short": "Uredba o nadzoru nad provedbom Zakona o javnoj nabavi",
+   "title": "Uredba o nadzoru nad provedbom Zakona o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/10/278",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_10_278.html",
+     "sha256": "5af5aefd1806cfee8e921cb47b13dc28555c049b2ada9b561e9c30750c0f5908"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-279",
+   "path": "uredba/2012/279",
+   "short": "Uredba o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama",
+   "title": "Uredba o načinu izrade i postupanju s dokumentacijom za nadmetanje i ponudama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/10/279",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_10_279.html",
+     "sha256": "e39b6c8a6db1cc8d4ba22b6f8758bdcca0094bd52d957a2b2deb95de20f1b0ff"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2798",
+   "path": "uredba/2012/2798",
+   "short": "Uredba o mjerilima razvoja elektroničke komunikacijske infrastrukture i druge povezane opreme",
+   "title": "Uredba o mjerilima razvoja elektroničke komunikacijske infrastrukture i druge povezane opreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/131/2798",
+   "versions": [
+    {
+     "from": "2012-12-07",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_131_2798.html",
+     "sha256": "44845d6a64faab115ec25cdd96e84cdd499a3dbd56cf5beb3615aff2a20c2812"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2799",
+   "path": "uredba/2012/2799",
+   "short": "Uredba o visini trošarine na cigarete i sitno rezani duhan",
+   "title": "Uredba o visini trošarine na cigarete i sitno rezani duhan",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/131/2799",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_11_131_2799.html",
+     "sha256": "34ae09d4ad4f0153ea5266c6377d4657ad1166ce220043596aeb12bd1be17700"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-280",
+   "path": "uredba/2012/280",
+   "short": "Uredba o objavama javne nabave",
+   "title": "Uredba o objavama javne nabave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/10/280",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_10_280.html",
+     "sha256": "1841d731b419113e9f24a46b910ed9783cfdb0d6aa45549e2330ae0330177130"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-281",
+   "path": "uredba/2012/281",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i eruopskih poslova",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i eruopskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/10/281",
+   "versions": [
+    {
+     "from": "2012-01-23",
+     "units": 121,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_10_281.html",
+     "sha256": "b6b93dd1dad87554fd10c561b1bb52a19291329d0cfe0a11fbbbd26063a41e7f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2833",
+   "path": "uredba/2012/2833",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike porezne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike porezne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/134/2833",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_134_2833.html",
+     "sha256": "411f9232499258d5ce3e56ce792a70c721591c8f76687c9286a204c86695f3b7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2834",
+   "path": "uredba/2012/2834",
+   "short": "Uredba o izmjeni Uredbe o kriterijima za dodjeljivanje državnih nagrada za vrhunska sportska postignuća",
+   "title": "Uredba o izmjeni Uredbe o kriterijima za dodjeljivanje državnih nagrada za vrhunska sportska postignuća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/134/2834",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_134_2834.html",
+     "sha256": "884b34dbc9cc0256b51788163d1638c19ce9c4e151ff1fce5663d58f5b9f8075"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2876",
+   "path": "uredba/2012/2876",
+   "short": "Uredba o Carinskoj tarifi za 2013. godinu",
+   "title": "Uredba o Carinskoj tarifi za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/135/2876",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_135_2876.html",
+     "sha256": "022c2069c3a98a92c01c93f54b8940e654ce58adc1b22b73240440a3af92c223"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2897",
+   "path": "uredba/2012/2897",
+   "short": "Uredba o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "title": "Uredba o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/137/2897",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_137_2897.html",
+     "sha256": "a9f91598dd20f2167f864353c4357aba9df410847a50e0e9c57deddfeb3f9fd5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2898",
+   "path": "uredba/2012/2898",
+   "short": "Uredba o kupoprodaji poslovnog prostora u vlasništvu Republike Hrvatske",
+   "title": "Uredba o kupoprodaji poslovnog prostora u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/137/2898",
+   "versions": [
+    {
+     "from": "2012-12-20",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_137_2898.html",
+     "sha256": "d489cdb972d5d3589f56360db0bc60f49822b63c2d2ea9d08998f4aecc59f28c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2933",
+   "path": "uredba/2012/2933",
+   "short": "Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom",
+   "title": "Uredba o izmjeni Uredbe o Popisu robe s dvojnom namjenom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/138/2933",
+   "versions": [
+    {
+     "from": "2012-12-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_138_2933.html",
+     "sha256": "26257857547037f15071685229980a74508885c418fb2074b9ce6e9c970117b2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-2946",
+   "path": "uredba/2012/2946",
+   "short": "Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjeni i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/140/2946",
+   "versions": [
+    {
+     "from": "2012-12-25",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_140_2946.html",
+     "sha256": "aebbea9eaf97b5a7c2998031ca2e5a6323db09c71af0459f7ac253da24ea73e3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3086",
+   "path": "uredba/2012/3086",
+   "short": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2013. godinu",
+   "title": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3086",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3086.html",
+     "sha256": "e6669d69f8318d3de299af40737c1d45954bd3b420c243f329dbcd2a12981275"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3087",
+   "path": "uredba/2012/3087",
+   "short": "Uredba o dopuni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "title": "Uredba o dopuni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3087",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3087.html",
+     "sha256": "45477a2b1b32b14ae119c2d056634b82f53ccb25ae6a9c69e158a2b3e5088829"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3088",
+   "path": "uredba/2012/3088",
+   "short": "Uredba o izmjeni Zakona o zdravstvenoj zaštiti",
+   "title": "Uredba o izmjeni Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3088",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3088.html",
+     "sha256": "e4cad3c626ae17f44840a3bd202c15c0a505320ce54b4086cd9bc6b8f2d7387e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3089",
+   "path": "uredba/2012/3089",
+   "short": "Uredba o izmjeni Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Uredba o izmjeni Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3089",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3089.html",
+     "sha256": "3215249593f5802bf158a14ad57597f7ad11e84ebf612f7ad22d75a30b84bfbb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3090",
+   "path": "uredba/2012/3090",
+   "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava",
+   "title": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskoga sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3090",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3090.html",
+     "sha256": "b83bfdb86a01c73ec97f3f23cbc69b02cf2cc06f393aca9e65dd93f4d98e9e3b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3091",
+   "path": "uredba/2012/3091",
+   "short": "Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi",
+   "title": "Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/144/3091",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_144_3091.html",
+     "sha256": "efe9854f5f604914a7db8cb410e798221081b8ec62e9179e87238634e5b9a123"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3098",
+   "path": "uredba/2012/3098",
+   "short": "Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/145/3098",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_145_3098.html",
+     "sha256": "777328e625b6fd5a5b2d85f3fe0028adafe03bcaed70c5cf4c489f41802cf788"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3099",
+   "path": "uredba/2012/3099",
+   "short": "Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita",
+   "title": "Uredba o izmjeni i dopuni Uredbe o postupku, načinu polaganja i Programu državnog stručnog ispita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/145/3099",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_145_3099.html",
+     "sha256": "76b5ea100661254c7639bea473a3237c745ea103110bb5000922e8507429b3a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-3100",
+   "path": "uredba/2012/3100",
+   "short": "Uredba o izmjeni i dopuni Uredbe o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske",
+   "title": "Uredba o izmjeni i dopuni Uredbe o postupku, načinu i uvjetima za dobivanje koncesije na turističkom zemljištu u kampovima u suvlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/145/3100",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_12_145_3100.html",
+     "sha256": "c8421cea5bee1388e945d902d444677b8087f209a75ddebd821ea680ed256571"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-486",
+   "path": "uredba/2012/486",
+   "short": "Uredba o Uredu za zakonodavstvo",
+   "title": "Uredba o Uredu za zakonodavstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/17/486",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_17_486.html",
+     "sha256": "2198916f6f262ac142f4e47acc1131889db00d9ab92cb705ab066ae2012135bc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-487",
+   "path": "uredba/2012/487",
+   "short": "Uredba o izmjenama i dopuni Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave",
+   "title": "Uredba o izmjenama i dopuni Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/17/487",
+   "versions": [
+    {
+     "from": "2012-02-10",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_17_487.html",
+     "sha256": "7a16851acb36936d0fbc4dbe671102aeef9aa586a62369ce2efab6208ede641e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-503",
+   "path": "uredba/2012/503",
+   "short": "Uredba o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava",
+   "title": "Uredba o Uredu zastupnika Republike Hrvatske pred Europskim sudom za ljudska prava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/18/503",
+   "versions": [
+    {
+     "from": "2012-02-15",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_18_503.html",
+     "sha256": "b0d47fa70f781dc43f03b9f30f7099f6643a261b0da300db38139a1288e8773e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-51",
+   "path": "uredba/2012/51",
+   "short": "Uredba o Glavnom tajništvu Vlade Republike Hrvatske",
+   "title": "Uredba o Glavnom tajništvu Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/3/51",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_3_51.html",
+     "sha256": "e41733bcd968464ce5f4bd58d251efbd2fb384a778b56cda814400f4d85e9217"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-519",
+   "path": "uredba/2012/519",
+   "short": "Uredba o izmjeni Uredbe o visini vodnoga doprinosa",
+   "title": "Uredba o izmjeni Uredbe o visini vodnoga doprinosa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/19/519",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_19_519.html",
+     "sha256": "493e61625d756766d143636ce69e4504537a9213ff25f37c1fc34ccd56c276f3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-52",
+   "path": "uredba/2012/52",
+   "short": "Uredba o izmjenama i dopunama Odluke o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih proračunskih korisnika Državnog proračuna Republike Hrvatske u prvom tromjesečju 2012. godine",
+   "title": "Uredba o izmjenama i dopunama Odluke o privremenom financiranju poslova, funkcija i programa državnih tijela i drugih proračunskih korisnika Državnog proračuna Republike Hrvatske u prvom tromjesečju 2012. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/3/52",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_3_52.html",
+     "sha256": "52d2f0fdf54de97a7af0a6c2f70d2ef46cb0c0008c74286f0e4bb488b4257358"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-554",
+   "path": "uredba/2012/554",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva kulture",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/554",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_554.html",
+     "sha256": "1200375f1ded39361230ef0ee01a1e10465b76f14ae2308167b3f8ac018208a7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-555",
+   "path": "uredba/2012/555",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/555",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 54,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_555.html",
+     "sha256": "6858c429b5bea23eecdb80cbeed18ae13b6bc7522e98f3d26d07dcf0ff9897ec"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-556",
+   "path": "uredba/2012/556",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva rada i mirovinskog sustava",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva rada i mirovinskog sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/556",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 54,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_556.html",
+     "sha256": "d5df1e461034eafb04be299dac35d0dfaf47b4725a29e0c5108a05269ad89c82"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-557",
+   "path": "uredba/2012/557",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/557",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 60,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_557.html",
+     "sha256": "021564e23b2d7beca9e9879d77f4ee182d8a3e584bc016d0a0a5bbd2b1bbe828"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-558",
+   "path": "uredba/2012/558",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva turizma",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/558",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 75,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_558.html",
+     "sha256": "d26a762c8697c2ff01b62e1a5ce5e0415044c270394620a3e703cd0e9f9aa80d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-559",
+   "path": "uredba/2012/559",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog ureda za trgovinsku politiku",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog ureda za trgovinsku politiku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/559",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_559.html",
+     "sha256": "ede3b7dfc4ade6dd7e47e2ed177d599044328eddc6af48dc5b6708c77c58adbf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-560",
+   "path": "uredba/2012/560",
+   "short": "Uredba o Uredu za razminiranje",
+   "title": "Uredba o Uredu za razminiranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/21/560",
+   "versions": [
+    {
+     "from": "2012-02-22",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_21_560.html",
+     "sha256": "8656775c8b65fff9e21b260a2c01801fd9a77e8de076291d2a966c59bd6d5c9f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-575",
+   "path": "uredba/2012/575",
+   "short": "Uredba o prestanku važenja Uredbe o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj",
+   "title": "Uredba o prestanku važenja Uredbe o osnivanju Ureda za socijalno partnerstvo u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/22/575",
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_22_575.html",
+     "sha256": "1b9ddcb17ca11ae88d95cacdcea11760a9f39bebb8eee094abd7010bebce0cd9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-640",
+   "path": "uredba/2012/640",
+   "short": "Uredba o izmjenama Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "title": "Uredba o izmjenama Uredbe o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/25/640",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_25_640.html",
+     "sha256": "4a50efead039109d1cd2c931f9f707bd6832ec881596f2131fb2485fa0105a67"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-656",
+   "path": "uredba/2012/656",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva obrane",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/26/656",
+   "versions": [
+    {
+     "from": "2012-02-29",
+     "units": 178,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_02_26_656.html",
+     "sha256": "01975e97afbb9a246b2040036e4daba0bbb90ac1db94279daf2221d96ba1540b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-665",
+   "path": "uredba/2012/665",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornog uređenja",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva graditeljstva i prostornog uređenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/27/665",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 132,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_27_665.html",
+     "sha256": "6aa4a51d01bac63b66193c640dbf1ee39c97782901e369a64f267c17303ca839"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-666",
+   "path": "uredba/2012/666",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/27/666",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_27_666.html",
+     "sha256": "cb679b624f76385054954a96e2865ef12cbce21e210346be5dff15242e8ef53b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-667",
+   "path": "uredba/2012/667",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/27/667",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 229,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_27_667.html",
+     "sha256": "49004f464ba5514a9b88f8af00ee0813a9418f6c97bfb27895218a8c38ec9672"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-668",
+   "path": "uredba/2012/668",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/27/668",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 166,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_27_668.html",
+     "sha256": "2a840a4e137986ba3d083b01febf2ef3dc16330a75d26e7f2b0429a02098b779"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-669",
+   "path": "uredba/2012/669",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/27/669",
+   "versions": [
+    {
+     "from": "2012-03-02",
+     "units": 113,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_27_669.html",
+     "sha256": "d7cb2116d01dcb1465bcb99f5e569ef30d989757300b7e242d9ee01e2c0c9946"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-670",
+   "path": "uredba/2012/670",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/28/670",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 365,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_28_670.html",
+     "sha256": "5fbf0fe5ebe131ea401ac771fa61b5c649154bded06d51a327a6707f4bc448cc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-671",
+   "path": "uredba/2012/671",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva uprave",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/28/671",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 60,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_28_671.html",
+     "sha256": "164967df5d60b2497d2ac083bcb56e432b96fa2a5cb049f30906fc06276f73c7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-672",
+   "path": "uredba/2012/672",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/28/672",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 106,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_28_672.html",
+     "sha256": "4160c7217c726866ed34cf50cceef8db939197f975381fbe34d6c882b6528eda"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-673",
+   "path": "uredba/2012/673",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva branitelja",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva branitelja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/28/673",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_28_673.html",
+     "sha256": "b119b68c7d86648dc967c7ae7dc52fadfc6c30ce3cccf2f87b6ac0ca51ffe299"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-674",
+   "path": "uredba/2012/674",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/28/674",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 100,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_28_674.html",
+     "sha256": "c0fee00176f664e81868e3f79490a99894d21a479d69c76dca3fea1a7a09d565"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-675",
+   "path": "uredba/2012/675",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/28/675",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "units": 86,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_28_675.html",
+     "sha256": "5f935021f26ce00b81e98ad6b8798c3879b8285603cfa9a823dd0be3826fb09a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-689",
+   "path": "uredba/2012/689",
+   "short": "Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA)",
+   "title": "Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/29/689",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_29_689.html",
+     "sha256": "974b08ae94bd7037a9c6c601f35d282c100887895bf79f7ed4a94df27b5575e5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-690",
+   "path": "uredba/2012/690",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/29/690",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_29_690.html",
+     "sha256": "bba2f75ad248063eb1e78190439a6817ae7b4aa4414208d8102727f935fdd32b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-750",
+   "path": "uredba/2012/750",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog inspektorata",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog inspektorata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/31/750",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 56,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_31_750.html",
+     "sha256": "b7fa2246508e5257750afef9d35bced391fbfd05bb56362a22e25e07325381db"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-751",
+   "path": "uredba/2012/751",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog ureda za središnju javnu nabavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/31/751",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_31_751.html",
+     "sha256": "0460172242e95134d3c9f0cd0768a34a49ac6bd7a1d0b440ab825a3a2e4ac654"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-752",
+   "path": "uredba/2012/752",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog ureda za upravljanje državnom imovinom",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog ureda za upravljanje državnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/31/752",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_31_752.html",
+     "sha256": "7e8cfffad7c870b8190fd2c588f8b8ef6355a109f2fddb7359222f412a9df6a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-754",
+   "path": "uredba/2012/754",
+   "short": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2012. godinu",
+   "title": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2012. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/31/754",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_31_754.html",
+     "sha256": "768144b9d47b98d8ac64105df063bc12ee28c37daa27fc019b55502e3e3e42dd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-755",
+   "path": "uredba/2012/755",
+   "short": "Uredba o izmjenama Uredbe o osnivanju Poslovno-inovacijske agencije Republike Hrvatske",
+   "title": "Uredba o izmjenama Uredbe o osnivanju Poslovno-inovacijske agencije Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/31/755",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_31_755.html",
+     "sha256": "a7c45807c4b37186f538bc3c6c26c09b18e49680afa52db3f50a33cf011ac5ec"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-756",
+   "path": "uredba/2012/756",
+   "short": "Uredba o prestanku važenja Uredbe o Povjerenstvu Vlade Republike Hrvatske za granice jedinica lokalne samouprave i Poslovnika o radu Povjerenstva Vlade Republike Hrvatske za granice jedinica lokalne samouprave",
+   "title": "Uredba o prestanku važenja Uredbe o Povjerenstvu Vlade Republike Hrvatske za granice jedinica lokalne samouprave i Poslovnika o radu Povjerenstva Vlade Republike Hrvatske za granice jedinica lokalne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/31/756",
+   "versions": [
+    {
+     "from": "2012-03-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_31_756.html",
+     "sha256": "42517c58f2a82d37b4d180c68f84728374a3a0ac014239e229d836ba05a4d6b6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-76",
+   "path": "uredba/2012/76",
+   "short": "Uredba o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "title": "Uredba o izmjenama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/5/76",
+   "versions": [
+    {
+     "from": "2012-01-12",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_5_76.html",
+     "sha256": "f41357a89118cf06e1064e625c88195ca962c72df4c6ac1a62b630058996a0e4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-764",
+   "path": "uredba/2012/764",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/32/764",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 86,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_32_764.html",
+     "sha256": "94192cbc2a361d653f14c770b9fe9f7855f045e1be23bc3f517523491e526157"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-77",
+   "path": "uredba/2012/77",
+   "short": "Uredba o Uredu predsjednika Vlade Republike Hrvatske",
+   "title": "Uredba o Uredu predsjednika Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/5/77",
+   "versions": [
+    {
+     "from": "2012-01-12",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_5_77.html",
+     "sha256": "f7e907896ea046a2f7c8e583af5c001ae856a9692a0962502862585041c127f5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-78",
+   "path": "uredba/2012/78",
+   "short": "Uredba o računanju vremena u 2012. godini",
+   "title": "Uredba o računanju vremena u 2012. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/5/78",
+   "versions": [
+    {
+     "from": "2012-01-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_5_78.html",
+     "sha256": "e56bef126fe2d57fc4db3b83f40c55ecccce4a80ee66448b77cc2715486fd570"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-79",
+   "path": "uredba/2012/79",
+   "short": "Uredba o izmjenama Uredbe o carinskoj tarifi za 2012. godinu",
+   "title": "Uredba o izmjenama Uredbe o carinskoj tarifi za 2012. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/5/79",
+   "versions": [
+    {
+     "from": "2012-01-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_01_5_79.html",
+     "sha256": "3f532b2cbf1928bb0ee7b98efe87f5242d8b2f7a1ba9af9f34762c4899f4f636"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-819",
+   "path": "uredba/2012/819",
+   "short": "Uredba o mjerilima za razvrstavanje javnih cesta",
+   "title": "Uredba o mjerilima za razvrstavanje javnih cesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/819",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_819.html",
+     "sha256": "8f135dabe97344f26380ea564250b02bc29f2168be3df57552aedff4a5f4e934"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-820",
+   "path": "uredba/2012/820",
+   "short": "Uredba o Uredu za udruge",
+   "title": "Uredba o Uredu za udruge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/820",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_820.html",
+     "sha256": "4c1b088593ff02f453960cab5594824838aff668ea5e935bca2f929b56a4153d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-821",
+   "path": "uredba/2012/821",
+   "short": "Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme",
+   "title": "Uredba o izmjenama Uredbe o osnivanju Hrvatskog zavoda za norme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/821",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_34_821.html",
+     "sha256": "794aa9bf092431186a1b8207c37ab32f7817d6dbdb5d77fc28629726de7f02a2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-924",
+   "path": "uredba/2012/924",
+   "short": "Uredba o Uredu za suzbijanje zlouporabe droga",
+   "title": "Uredba o Uredu za suzbijanje zlouporabe droga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/36/924",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_36_924.html",
+     "sha256": "4535c4b2fcdbb0315ba7075e55cdefd6d59c3ed1f333d80dcf48d7c2fcd8bccd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-925",
+   "path": "uredba/2012/925",
+   "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture",
+   "title": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/36/925",
+   "versions": [
+    {
+     "from": "2012-03-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2012_03_36_925.html",
+     "sha256": "7dd65fbc1e6c027d72eb3cf31f8d59238653f5f915b31964223876e6860d5fe3"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2013-148",
    "path": "naputak/2013/148",
    "short": "Naputak o načinu provođenja Naredbe o provedbi oralne vakcinacije lisica na području Republike Hrvatske",
@@ -41473,6 +42958,2196 @@
      "units": 111,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_34_630.html",
      "sha256": "e4006f5f7c22c4f34655bc633e52ca40aa425715f0eaf06f43362035fc86c2b5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1016",
+   "path": "uredba/2013/1016",
+   "short": "Uredba o visini minimalne plaće",
+   "title": "Uredba o visini minimalne plaće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1016",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1016.html",
+     "sha256": "f5a94dd3fcfc2125c4d97d1a204fa964b6168ce5efd38abfa5306045d91df202"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1017",
+   "path": "uredba/2013/1017",
+   "short": "Uredba o izmjeni Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu",
+   "title": "Uredba o izmjeni Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1017",
+   "versions": [
+    {
+     "from": "2013-05-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1017.html",
+     "sha256": "c11ce15cf53525e167cc35057031c79ed5c5266329d6ca6a0cf662b92f12d223"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1018",
+   "path": "uredba/2013/1018",
+   "short": "Uredba o izmjeni Uredbe o uvjetima davanja koncesija za gospodarsko korištenje voda",
+   "title": "Uredba o izmjeni Uredbe o uvjetima davanja koncesija za gospodarsko korištenje voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/51/1018",
+   "versions": [
+    {
+     "from": "2013-05-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_51_1018.html",
+     "sha256": "9acd625fb18c21ac2d0d35039831e0efd2ec84a4c205f6defcac9913e2296493"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1056",
+   "path": "uredba/2013/1056",
+   "short": "Uredba o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja",
+   "title": "Uredba o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/52/1056",
+   "versions": [
+    {
+     "from": "2013-05-11",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_52_1056.html",
+     "sha256": "b9109e0ce26132b97d766a1c3ca60792d532182256cde8970238577f1e20e011"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1057",
+   "path": "uredba/2013/1057",
+   "short": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/52/1057",
+   "versions": [
+    {
+     "from": "2013-05-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_52_1057.html",
+     "sha256": "f77be319c3b0da63da79d82b5c40c14f32a43cf6810bb738037814924627bcfb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1095",
+   "path": "uredba/2013/1095",
+   "short": "Uredba o osnivanju javne ustanove \"Memorijalni centar Domovinskog rata Vukovar\"",
+   "title": "Uredba o osnivanju javne ustanove \"Memorijalni centar Domovinskog rata Vukovar\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1095",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1095.html",
+     "sha256": "1da5850687106479a454fd56c2bee3eae6f943424962dd74be959d107777fc17"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1096",
+   "path": "uredba/2013/1096",
+   "short": "Uredba o Direkciji za korištenje službenih zrakoplova",
+   "title": "Uredba o Direkciji za korištenje službenih zrakoplova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1096",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1096.html",
+     "sha256": "f9de9d613bcccdebd797aeed0f4246126e4e2421724d63d95e558116b0aafced"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1097",
+   "path": "uredba/2013/1097",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/54/1097",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_54_1097.html",
+     "sha256": "4eb4c53f8b645ac43397706aa7df04142b0a41b31fd9b331f975ca8e760b220c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1152",
+   "path": "uredba/2013/1152",
+   "short": "Uredba o visini naknade za donošenje rješenja o izvedenom stanju",
+   "title": "Uredba o visini naknade za donošenje rješenja o izvedenom stanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1152",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1152.html",
+     "sha256": "c2d5371b4730e7f94d83bffb93265518bbb75fc61d61fe3506c95636339980af"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1153",
+   "path": "uredba/2013/1153",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/56/1153",
+   "versions": [
+    {
+     "from": "2013-05-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_05_56_1153.html",
+     "sha256": "107aa8e1c8db301bbd2a692292ce322b1a98f08ea57955245d70edf7e6e8094e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-129",
+   "path": "uredba/2013/129",
+   "short": "Uredba o računanju vremena u 2013. godini",
+   "title": "Uredba o računanju vremena u 2013. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/8/129",
+   "versions": [
+    {
+     "from": "2013-01-29",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_01_8_129.html",
+     "sha256": "65d167138c51c3dfdb7653d1e36f23e49597701b1f9709607616df7e0c666a6e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1298",
+   "path": "uredba/2013/1298",
+   "short": "Uredba o Digitalnom informacijsko-dokumentacijskom uredu",
+   "title": "Uredba o Digitalnom informacijsko-dokumentacijskom uredu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/66/1298",
+   "versions": [
+    {
+     "from": "2013-06-12",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_66_1298.html",
+     "sha256": "3374670a57e245986ec8f26a7a202095875514ae59849ab2ed65c89c511ca522"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1299",
+   "path": "uredba/2013/1299",
+   "short": "Uredba o obrascu i načinu vrednovanja Gospodarskog programa korištenja poljoprivrednog zemljišta u vlasništvu Republike Hrvatske",
+   "title": "Uredba o obrascu i načinu vrednovanja Gospodarskog programa korištenja poljoprivrednog zemljišta u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/66/1299",
+   "versions": [
+    {
+     "from": "2013-06-12",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_66_1299.html",
+     "sha256": "413479800052786d5d7cca1fba5f937dbde93d15d455da75283f0cfe582453a6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1300",
+   "path": "uredba/2013/1300",
+   "short": "Uredba o visini trošarine na cigarete, sitno rezani duhan i ostali duhan za pušenje",
+   "title": "Uredba o visini trošarine na cigarete, sitno rezani duhan i ostali duhan za pušenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/66/1300",
+   "versions": [
+    {
+     "from": "2013-06-05",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_66_1300.html",
+     "sha256": "ea1e9677c3afc821fce5078ceeae624ab9e13a9d9949468c228da1e1920eab74"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1366",
+   "path": "uredba/2013/1366",
+   "short": "Uredba o graničnim vrijednostima sadržaja hlapivih organskih spojeva u određenim bojama i lakovima koji se koriste u graditeljstvu i proizvodima za završnu obradu vozila",
+   "title": "Uredba o graničnim vrijednostima sadržaja hlapivih organskih spojeva u određenim bojama i lakovima koji se koriste u graditeljstvu i proizvodima za završnu obradu vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/69/1366",
+   "versions": [
+    {
+     "from": "2013-06-18",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_69_1366.html",
+     "sha256": "6dabf1158f825ac5bd725e3361f8c24e2b36b5c1c7354dd1a9224eeef9e4c386"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1440",
+   "path": "uredba/2013/1440",
+   "short": "Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena",
+   "title": "Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/72/1440",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_72_1440.html",
+     "sha256": "8ed784989f68264661ad9b644cace73a4cedb40e724ebb03efcca67fd2166d4d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1441",
+   "path": "uredba/2013/1441",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/72/1441",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_72_1441.html",
+     "sha256": "4a0641f3dac5890f63af9d6234be497879ad15d672551885c336abaddc80d1e6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-152",
+   "path": "uredba/2013/152",
+   "short": "Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona",
+   "title": "Uredba o izmjenama i dopunama Uredbe za provedbu Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/10/152",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_01_10_152.html",
+     "sha256": "9e750cb2acfaa796453a787b6f708ed999a1a37b39200ffdbec6e687405a8bf5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1538",
+   "path": "uredba/2013/1538",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1538",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1538.html",
+     "sha256": "028b0e1ddc64c8aab5c82af63b646fd5d6166e4a778cbfa72e82e7367a386715"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1539",
+   "path": "uredba/2013/1539",
+   "short": "Uredba o dopunama Uredbe o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama",
+   "title": "Uredba o dopunama Uredbe o obvezama iz područja nacionalne sigurnosti Republike Hrvatske za pravne i fizičke osobe u telekomunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1539",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1539.html",
+     "sha256": "6b258e294e3154037a2ce4ddee4ca4d4e778d89aec901d7fe752527affa2c90d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1540",
+   "path": "uredba/2013/1540",
+   "short": "Uredba o izmjeni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA)",
+   "title": "Uredba o izmjeni Uredbe o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1540",
+   "versions": [
+    {
+     "from": "2013-06-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1540.html",
+     "sha256": "d0755a34aa418109f36fa5a87580711fb61f6ccad43f781fecf02ec4b1b49872"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1541",
+   "path": "uredba/2013/1541",
+   "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "title": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/76/1541",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_76_1541.html",
+     "sha256": "6ba54403a85aef3b42709d207dd5931f5076df990c170fab4909b5f66f4c9560"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1551",
+   "path": "uredba/2013/1551",
+   "short": "Uredba o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera",
+   "title": "Uredba o mjerama i naknadama za prekomjerne i špekulativne zalihe poljoprivrednih i prehrambenih proizvoda i proizvoda iz sektora šećera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/77/1551",
+   "versions": [
+    {
+     "from": "2013-06-25",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_77_1551.html",
+     "sha256": "ac009a79ea5ed891b051e1a050472d864b58068f7c1f68b75ec89dbd208228d0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1565",
+   "path": "uredba/2013/1565",
+   "short": "Uredba o stambenom zbrinjavanju članova obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, hrvatskih ratnih vojnih invalida iz Domovinskog rata i dragovoljaca iz Domovinskog rata",
+   "title": "Uredba o stambenom zbrinjavanju članova obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata, hrvatskih ratnih vojnih invalida iz Domovinskog rata i dragovoljaca iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/78/1565",
+   "versions": [
+    {
+     "from": "2013-07-04",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_78_1565.html",
+     "sha256": "e546d01f6fcd240bfa88ebc7753a9973ea1f02bddabc249f3dce9e573b70b5d7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1566",
+   "path": "uredba/2013/1566",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/78/1566",
+   "versions": [
+    {
+     "from": "2013-07-04",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_78_1566.html",
+     "sha256": "70a06db67d96d899cae20d81a24afb33591319029e1e5bb8890dacdf7c118d2d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1630",
+   "path": "uredba/2013/1630",
+   "short": "Uredba o graničnim prijelazima Republike Hrvatske",
+   "title": "Uredba o graničnim prijelazima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/79/1630",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_79_1630.html",
+     "sha256": "a51621bff86937d56ac899ef8557fecf3d054d8206ac4441f01b117ef4011ed2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1631",
+   "path": "uredba/2013/1631",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva pomorstva, prometa i infrastrukture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/79/1631",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_79_1631.html",
+     "sha256": "048e269139a6bef4c347a7077302d210d26bf23eea7757e46e77b11d24b1eecc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1679",
+   "path": "uredba/2013/1679",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1679",
+   "versions": [
+    {
+     "from": "2013-06-29",
+     "units": 255,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_06_80_1679.html",
+     "sha256": "2f379b04ca1865c05676393829eb764d3d911958df9febfe1871c81cde580d27"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-175",
+   "path": "uredba/2013/175",
+   "short": "Uredba o medicinskom vještačenju u mirovinskom osiguranju",
+   "title": "Uredba o medicinskom vještačenju u mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/12/175",
+   "versions": [
+    {
+     "from": "2013-01-28",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_01_12_175.html",
+     "sha256": "d68bf39db11405fa477460fe387ab0705a1a233a45856a4c80d344f5295358bd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-176",
+   "path": "uredba/2013/176",
+   "short": "Uredba o izmjeni Uredbe o određivanju lučkog područja luke Osijek",
+   "title": "Uredba o izmjeni Uredbe o određivanju lučkog područja luke Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/12/176",
+   "versions": [
+    {
+     "from": "2013-02-05",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_01_12_176.html",
+     "sha256": "7729fb412dd47b8d15f821b162930f33d708e78b632e2882afec15720ff85e0d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1867",
+   "path": "uredba/2013/1867",
+   "short": "Uredba o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave",
+   "title": "Uredba o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/84/1867",
+   "versions": [
+    {
+     "from": "2013-07-11",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_84_1867.html",
+     "sha256": "7f1beee1712c3f8f145ea01cc8bd03fcc06a078709d8b04e8d3c18897d0b30ba"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1868",
+   "path": "uredba/2013/1868",
+   "short": "Uredba o uspostavi sustava jamstva podrijetla električne energije",
+   "title": "Uredba o uspostavi sustava jamstva podrijetla električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/84/1868",
+   "versions": [
+    {
+     "from": "2013-07-11",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_84_1868.html",
+     "sha256": "bf28d504ca037bd4e39047f73990e1fdf81c72d62ecc2537e816239d6fd01f86"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1916",
+   "path": "uredba/2013/1916",
+   "short": "Uredba o klasifikaciji radnih mjesta, carinskih zvanja i vrijednosti koeficijenata složenosti poslova carinskih službenika",
+   "title": "Uredba o klasifikaciji radnih mjesta, carinskih zvanja i vrijednosti koeficijenata složenosti poslova carinskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/86/1916",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_86_1916.html",
+     "sha256": "5028f4a598216b822f2da3265aa7d25cafdb9002ab123fb2d077f9a88e3e4c04"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1917",
+   "path": "uredba/2013/1917",
+   "short": "Uredba o radnim mjestima ovlaštenih carinskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o radnim mjestima ovlaštenih carinskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/86/1917",
+   "versions": [
+    {
+     "from": "2013-07-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_86_1917.html",
+     "sha256": "7f5a41be37e2cf9fff14770570ed2c0c90919e104cd4eb16524b8f7f6b7baa18"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1946",
+   "path": "uredba/2013/1946",
+   "short": "Uredba o unutarnjem ustrojstvu Stalnog predstavništva Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju, sa sjedištem u Bruxellesu",
+   "title": "Uredba o unutarnjem ustrojstvu Stalnog predstavništva Republike Hrvatske pri Europskoj uniji i pri Europskoj zajednici za atomsku energiju, sa sjedištem u Bruxellesu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/88/1946",
+   "versions": [
+    {
+     "from": "2013-07-09",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_88_1946.html",
+     "sha256": "2d1c854f98c16a1a50177765768bccacabba85930e3b2cbeca14f6e8049e176f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-1976",
+   "path": "uredba/2013/1976",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu ureda državne uprave u županijama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu ureda državne uprave u županijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/90/1976",
+   "versions": [
+    {
+     "from": "2013-07-20",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_90_1976.html",
+     "sha256": "94b4f31a5ed97d02a32eb8d9ed51be913921a6793c2cecc5b762d2dc3301192f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2088",
+   "path": "uredba/2013/2088",
+   "short": "Uredba o visini trošarina na motorne benzine, plinsko ulje i kerozin",
+   "title": "Uredba o visini trošarina na motorne benzine, plinsko ulje i kerozin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/93/2088",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_93_2088.html",
+     "sha256": "ad7d22eeb67babdefb676ebc968b0f58222d6da46ccd389fa606c11533efa839"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2141",
+   "path": "uredba/2013/2141",
+   "short": "Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/96/2141",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_96_2141.html",
+     "sha256": "32580ecdad3df90630ff7253f171e6b591ccc149561fce88f204327f3d39175a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2142",
+   "path": "uredba/2013/2142",
+   "short": "Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavada za intelektualno vlasništvo",
+   "title": "Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavada za intelektualno vlasništvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/96/2142",
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_96_2142.html",
+     "sha256": "86b1eaea732f9abd91c681e25f25ba5abe858aecfad2b1ea948086421b61c58a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2143",
+   "path": "uredba/2013/2143",
+   "short": "Uredba o dopunama Uredbe o preoblikovanju Energetskog instituta Hrvoje Požar u ustanovu",
+   "title": "Uredba o dopunama Uredbe o preoblikovanju Energetskog instituta Hrvoje Požar u ustanovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/96/2143",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_96_2143.html",
+     "sha256": "fccc7ad82069cd9c737c4112873d913777153f0e535ced55bd429f0bf89b6dc1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2188",
+   "path": "uredba/2013/2188",
+   "short": "Uredba o izmjenama Zakona o boravišnoj pristojbi",
+   "title": "Uredba o izmjenama Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/97/2188",
+   "versions": [
+    {
+     "from": "2013-07-27",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_97_2188.html",
+     "sha256": "ba4d177bb8e2f7e3c0475f6a4e15a99638a2c658f9ad942d79d65d8d5c22fcb8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2189",
+   "path": "uredba/2013/2189",
+   "short": "Uredba o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih sportu i razonodi u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske",
+   "title": "Uredba o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih sportu i razonodi u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/97/2189",
+   "versions": [
+    {
+     "from": "2013-07-27",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_97_2189.html",
+     "sha256": "38a209453562c9f6a0f3d94bea6d13da4d2a4d1f32b2c1864ef164a086f5c430"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2190",
+   "path": "uredba/2013/2190",
+   "short": "Uredba o utvrđivanju visine boravišne pristojbe za 2014. godinu",
+   "title": "Uredba o utvrđivanju visine boravišne pristojbe za 2014. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/97/2190",
+   "versions": [
+    {
+     "from": "2013-08-03",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_97_2190.html",
+     "sha256": "635ed2e82332ad14821029bac41a37e59d83cbbfb52807af9a4318e9aa8745d1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2191",
+   "path": "uredba/2013/2191",
+   "short": "Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskog sustava",
+   "title": "Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Ministarstva rada i mirovinskog sustava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/97/2191",
+   "versions": [
+    {
+     "from": "2013-07-27",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_07_97_2191.html",
+     "sha256": "c110ab63b5aa9eeeb6c59642c270538988922bdb1c62f2ad2e2088804d540f2f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2262",
+   "path": "uredba/2013/2262",
+   "short": "Uredba o izvozu i uvozu robe koja bi se mogla koristiti za izvršenje smrtne kazne, mučenje ili drugo okrutno, neljudsko ili ponižavajuće postupanje ili kažnjavanje",
+   "title": "Uredba o izvozu i uvozu robe koja bi se mogla koristiti za izvršenje smrtne kazne, mučenje ili drugo okrutno, neljudsko ili ponižavajuće postupanje ili kažnjavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/100/2262",
+   "versions": [
+    {
+     "from": "2013-08-09",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_100_2262.html",
+     "sha256": "b90bc539c6feae2482ad72fccbe0879369e33a6f8518773be9d779a0ace95a04"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2263",
+   "path": "uredba/2013/2263",
+   "short": "Uredba o izmjenama i dopunama Uredbe o izgledu odora policijskih službenika Ministarstva unutarnjih poslova",
+   "title": "Uredba o izmjenama i dopunama Uredbe o izgledu odora policijskih službenika Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/100/2263",
+   "versions": [
+    {
+     "from": "2013-08-09",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_100_2263.html",
+     "sha256": "48a08aeac705e9c4cf84e248a00fe4fed4def1b28500e2edc32be49e1841ae5f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2274",
+   "path": "uredba/2013/2274",
+   "short": "Uredba o izmjenama Zakona o udžbenicima za osnovnu i srednju školu",
+   "title": "Uredba o izmjenama Zakona o udžbenicima za osnovnu i srednju školu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/101/2274",
+   "versions": [
+    {
+     "from": "2013-08-10",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_101_2274.html",
+     "sha256": "a66708d135ba2b116eee85d84003dcd08b1ad685a7eac10b1f811d830e418e4d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2275",
+   "path": "uredba/2013/2275",
+   "short": "Uredba o izmjeni Zakona o učinkovitom korištenju energije u neposrednoj potrošnji",
+   "title": "Uredba o izmjeni Zakona o učinkovitom korištenju energije u neposrednoj potrošnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/101/2275",
+   "versions": [
+    {
+     "from": "2013-08-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_101_2275.html",
+     "sha256": "68a179cfd628b736f992f49b67d8e1a60e08243c720f1e523912950439c0f83e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2276",
+   "path": "uredba/2013/2276",
+   "short": "Uredba o prestanku važenja Uredbe o Popisu robe vojne namjene i Popisu nevojnih ubojnih sredstava",
+   "title": "Uredba o prestanku važenja Uredbe o Popisu robe vojne namjene i Popisu nevojnih ubojnih sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/101/2276",
+   "versions": [
+    {
+     "from": "2013-08-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_101_2276.html",
+     "sha256": "b3d9d39b0468c5f0f9bfe26909569fd023899d6267fd503fa79fa81b32372363"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2289",
+   "path": "uredba/2013/2289",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/102/2289",
+   "versions": [
+    {
+     "from": "2013-08-15",
+     "units": 107,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_102_2289.html",
+     "sha256": "dfa382aabf8689a470319d5108f12646675a1bd6c7dce0ca5ae9de876cdda289"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2290",
+   "path": "uredba/2013/2290",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva socijalne politike i mladih",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/102/2290",
+   "versions": [
+    {
+     "from": "2013-08-15",
+     "units": 78,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_102_2290.html",
+     "sha256": "04301ccb30186be8955e2c4be78c30bf5815b027108e0d666eea747f7eea5c1f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2291",
+   "path": "uredba/2013/2291",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog ureda za obnovu i stambeno zbrinjavanje",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog ureda za obnovu i stambeno zbrinjavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/102/2291",
+   "versions": [
+    {
+     "from": "2013-08-15",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_102_2291.html",
+     "sha256": "00534cba50a33a9d52566d07ad51ad2eaf22ffed27a8aae022982e9188a79e16"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2292",
+   "path": "uredba/2013/2292",
+   "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/102/2292",
+   "versions": [
+    {
+     "from": "2013-08-08",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_102_2292.html",
+     "sha256": "85bc574f047274438f0b0ba39564d3cf8a77f0516576f344b25da6cdb86248e4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2406",
+   "path": "uredba/2013/2406",
+   "short": "Uredba o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj",
+   "title": "Uredba o emisijskim kvotama za određene onečišćujuće tvari u zraku u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/108/2406",
+   "versions": [
+    {
+     "from": "2013-08-31",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_108_2406.html",
+     "sha256": "8bd4ef35d72c0cdd1758b984ac7f82349f508e5ab3d2e13022cb01fbc5ee2671"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2407",
+   "path": "uredba/2013/2407",
+   "short": "Uredba o izmjenama i dopunama Uredbe o visini naknade za uređenje voda",
+   "title": "Uredba o izmjenama i dopunama Uredbe o visini naknade za uređenje voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/108/2407",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_08_108_2407.html",
+     "sha256": "09b4c9bcf7de48c80af10579e7a2f00f29c7e634229015cb516b44a6f2d24dd4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2420",
+   "path": "uredba/2013/2420",
+   "short": "Uredba o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "title": "Uredba o visini trošarine na motorne benzine, plinsko ulje i kerozin za pogon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/109/2420",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_109_2420.html",
+     "sha256": "c83925accd69336ed3c41723555681af328fdd7aa4d91d66928daaa5bd4a6c37"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-244",
+   "path": "uredba/2013/244",
+   "short": "Uredba o izmjeni Uredbe o uvjetima za stjecanje policijskih zvanja, oznakama policijskih zvanja, funkcionalnim oznakama radnih mjesta, promaknuću i napredovanju kroz policijska zvanja",
+   "title": "Uredba o izmjeni Uredbe o uvjetima za stjecanje policijskih zvanja, oznakama policijskih zvanja, funkcionalnim oznakama radnih mjesta, promaknuću i napredovanju kroz policijska zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/244",
+   "versions": [
+    {
+     "from": "2013-02-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_15_244.html",
+     "sha256": "26632308c1d0acc456751622473314b01539f3cb9958b8220f83fd15868571e0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2443",
+   "path": "uredba/2013/2443",
+   "short": "Uredba o dopunama Zakona o mirovinskom osiguranju",
+   "title": "Uredba o dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/112/2443",
+   "versions": [
+    {
+     "from": "2013-09-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_112_2443.html",
+     "sha256": "8be50d681f26339c6650ddbfbad89335df2f401a1af1cb39ce6f85da1b7427ab"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2444",
+   "path": "uredba/2013/2444",
+   "short": "Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi",
+   "title": "Uredba o izmjenama i dopunama Zakona o financijskom poslovanju i predstečajnoj nagodbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/112/2444",
+   "versions": [
+    {
+     "from": "2013-09-07",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_112_2444.html",
+     "sha256": "c7833edbe316f85d0849a0614b6e3219ceb98d8f8fd8b95392deba0f23d6ee08"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2458",
+   "path": "uredba/2013/2458",
+   "short": "Uredba o kvaliteti tekućih naftnih goriva",
+   "title": "Uredba o kvaliteti tekućih naftnih goriva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/113/2458",
+   "versions": [
+    {
+     "from": "2013-09-12",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_113_2458.html",
+     "sha256": "0f18089cbfdcf982521022da39b448d803a98e7162a42dce5eaad64ba888f8ed"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2459",
+   "path": "uredba/2013/2459",
+   "short": "Uredba o dodjeljivanju trajnih novčanih mjesečnih naknada osvajačima medalja na olimpijskim igrama, paraolimpijskim igrama, olimpijskim igrama gluhih i svjetskim seniorskim prvenstvima u olimpijskim sportovima i disciplinama",
+   "title": "Uredba o dodjeljivanju trajnih novčanih mjesečnih naknada osvajačima medalja na olimpijskim igrama, paraolimpijskim igrama, olimpijskim igrama gluhih i svjetskim seniorskim prvenstvima u olimpijskim sportovima i disciplinama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/113/2459",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_113_2459.html",
+     "sha256": "fd70cf42eda5eaf763dbc808164be458bfa866c825fb8c57b194083e917e2941"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2460",
+   "path": "uredba/2013/2460",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/113/2460",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_113_2460.html",
+     "sha256": "292ef873af5846e26995b604edb8376cbe7ab9ae6e80a0d9af824b52641090ca"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2518",
+   "path": "uredba/2013/2518",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog ureda za upravljanje državnom imovinom",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog ureda za upravljanje državnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/118/2518",
+   "versions": [
+    {
+     "from": "2013-09-21",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_118_2518.html",
+     "sha256": "7090463b05322b9f8dd2fab0213792a4db715ca2611c2d01616e7c984f29a686"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2526",
+   "path": "uredba/2013/2526",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta \"Nikola Tesla\" u Gospiću",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta \"Nikola Tesla\" u Gospiću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2526",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2526.html",
+     "sha256": "2979f4282e32d565584d121e87b2a448b639903688220e31caf3701e4594022b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2527",
+   "path": "uredba/2013/2527",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Požegi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Požegi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2527",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2527.html",
+     "sha256": "5f793247f0283e956ed346c215cc27438608875a049625d79c88d34141312465"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2528",
+   "path": "uredba/2013/2528",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta \"Lavoslav Ružička\" u Vukovaru",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta \"Lavoslav Ružička\" u Vukovaru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2528",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2528.html",
+     "sha256": "67d50449fe52c7680779f8c537330f63199dcaacda4a79641bcc8268c9787da8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2529",
+   "path": "uredba/2013/2529",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Tehničkog veleučilišta u Zagrebu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Tehničkog veleučilišta u Zagrebu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2529",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2529.html",
+     "sha256": "b589ef12dad5e9fbae6a8c3a61dd1c253e24a052d51bc91065cd09b47029b9ad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2530",
+   "path": "uredba/2013/2530",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Zdravstvenog veleučilišta",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Zdravstvenog veleučilišta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2530",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2530.html",
+     "sha256": "16febcc21b2cacd39597bf5a40a15d6ffef4f851bdbff5e58bd227339ba47019"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2531",
+   "path": "uredba/2013/2531",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Karlovcu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Karlovcu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2531",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2531.html",
+     "sha256": "3ac87734302743fa646a571f5bb0bcd67a44164f2aeb18484ea11d29a6e3592c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2532",
+   "path": "uredba/2013/2532",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Šibeniku",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Šibeniku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2532",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2532.html",
+     "sha256": "13a8809787cdfcd3daadc22664de96db040db2887746ce9f822d940b3dc97359"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2533",
+   "path": "uredba/2013/2533",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta \"Marko Marulić\" u Kninu",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta \"Marko Marulić\" u Kninu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2533",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2533.html",
+     "sha256": "d1e7f6ed86bd37a63233bbdeb41e4f267734750eabab575871418930545592d1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2534",
+   "path": "uredba/2013/2534",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Rijeci",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Veleučilišta u Rijeci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2534",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2534.html",
+     "sha256": "fdc77551fc47312c1f478713bf939e0ac3858b203150fccf16071a7df1fe5466"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2535",
+   "path": "uredba/2013/2535",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Slavonskom Brodu",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Veleučilišta u Slavonskom Brodu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2535",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2535.html",
+     "sha256": "8241028992c3bea98c21daddab00846a4066dbdef32e3e1ed1ed03ca4946d0c2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2536",
+   "path": "uredba/2013/2536",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Međimurskog veleučilišta u Čakovcu",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Međimurskog veleučilišta u Čakovcu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2536",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2536.html",
+     "sha256": "e0a52f1c776a780b8a1fcba479b8fc5bcb59c7963cd0f03bffa689def97ec4c2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2537",
+   "path": "uredba/2013/2537",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Visoke škole za menadžment u turizmu i informatici u Virovitici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2537",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2537.html",
+     "sha256": "58c40d0ed6a812b9856b38d2cb5602f52b7890b765e4f4e86609e0a3994899b1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2538",
+   "path": "uredba/2013/2538",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Visokog gospodarskog učilišta u Križevcima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/119/2538",
+   "versions": [
+    {
+     "from": "2013-10-03",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_09_119_2538.html",
+     "sha256": "bf817f649acda9a3314ac804f9952df7769aba62dddc40c4ae524058efbb4f7c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2654",
+   "path": "uredba/2013/2654",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/123/2654",
+   "versions": [
+    {
+     "from": "2013-10-12",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_123_2654.html",
+     "sha256": "ec88e6120bfd7b7ba1c5dbc37da0c036d9b0a396e23d93803859501e50f6436b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-266",
+   "path": "uredba/2013/266",
+   "short": "Uredba o izmjeni Uredbe o Uredu za suzbijanje zlouporabe droga",
+   "title": "Uredba o izmjeni Uredbe o Uredu za suzbijanje zlouporabe droga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/16/266",
+   "versions": [
+    {
+     "from": "2013-02-16",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_16_266.html",
+     "sha256": "981b78bf27d5457730c32069ee16d1f44c11c24de276587e6f4c679b51e00022"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2665",
+   "path": "uredba/2013/2665",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/124/2665",
+   "versions": [
+    {
+     "from": "2013-10-17",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_124_2665.html",
+     "sha256": "6f405afcee989104d6d373a1f42d3e2c0ab9c112b70c5b2b31a56eb83af92b26"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-267",
+   "path": "uredba/2013/267",
+   "short": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/16/267",
+   "versions": [
+    {
+     "from": "2013-02-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_16_267.html",
+     "sha256": "80dce4415d7fc7499e0f4b933a5b13d58a3741f67841be8963b92bab6b048657"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2725",
+   "path": "uredba/2013/2725",
+   "short": "Uredba o osnivanju Komisije za odnose s vjerskim zajednicama i Ureda Komisije za odnose s vjerskim zajednicama",
+   "title": "Uredba o osnivanju Komisije za odnose s vjerskim zajednicama i Ureda Komisije za odnose s vjerskim zajednicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/126/2725",
+   "versions": [
+    {
+     "from": "2013-10-24",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_126_2725.html",
+     "sha256": "b9226da63197a28fd3d613a138d49dafc3cbb1bd0454fcdd7a3e3b7ee7a413fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2726",
+   "path": "uredba/2013/2726",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/126/2726",
+   "versions": [
+    {
+     "from": "2013-10-24",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_126_2726.html",
+     "sha256": "73cf77c71c51233a5f0232cee063790991dd5228068b6f62f415a67f611c8153"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2760",
+   "path": "uredba/2013/2760",
+   "short": "Uredba o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske",
+   "title": "Uredba o metodama procjene tržišne vrijednosti, naknade za osnivanje prava građenja i naknade za osnivanje prava služnosti na nekretninama u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2760",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2760.html",
+     "sha256": "71253041d7a5ce6bc6db95b48def9a73c29d0cf84790660e7d7a73df180b9487"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2761",
+   "path": "uredba/2013/2761",
+   "short": "Uredba o mjerilima i kriterijima dodjele na korištenje nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna te drugih osoba",
+   "title": "Uredba o mjerilima i kriterijima dodjele na korištenje nekretnina za potrebe tijela državne uprave ili drugih tijela korisnika državnog proračuna te drugih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2761",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2761.html",
+     "sha256": "5b2d516089130fe129e4a2a17fd6d4a37ac7853ea6ae98385501426a92499417"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2762",
+   "path": "uredba/2013/2762",
+   "short": "Uredba o darovanju nekretnina u vlasništvu Republike Hrvatske",
+   "title": "Uredba o darovanju nekretnina u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2762",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2762.html",
+     "sha256": "7b6cd0815487b9a9b49b399b12fc4fe0a92a50b9b78113a8171097555b437d8c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2763",
+   "path": "uredba/2013/2763",
+   "short": "Uredba o načinu raspolaganja nekretninama u vlasništvu Republike Hrvatske",
+   "title": "Uredba o načinu raspolaganja nekretninama u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2763",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2763.html",
+     "sha256": "16d079c2695090bc8c1ec9195a58692ce9e2ec7c568e311ea41089efa186c667"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2764",
+   "path": "uredba/2013/2764",
+   "short": "Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2764",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2764.html",
+     "sha256": "26e2c51c1904cd8ed7b2aafa1f5d7e47942f86bf19e9a2f82f5b1105ab6c26ad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2765",
+   "path": "uredba/2013/2765",
+   "short": "Uredba o izmjeni Uredbe o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima",
+   "title": "Uredba o izmjeni Uredbe o zvanjima, znakovlju i uvjetima stjecanja zvanja državnih službenika odjela osiguranja u kaznionicama i zatvorima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/127/2765",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_127_2765.html",
+     "sha256": "e609ccdf96668ea7bef11f99fd1f0a11e7fae074278eef80d3ab8c2cddc2e358"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2778",
+   "path": "uredba/2013/2778",
+   "short": "Uredba o naknadi za poticanje proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije",
+   "title": "Uredba o naknadi za poticanje proizvodnje električne energije iz obnovljivih izvora energije i kogeneracije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/128/2778",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_128_2778.html",
+     "sha256": "2cdf8daee24251db71e4242c7a40a8eabea9131e64423acf72e2d7d0a7d603f2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2814",
+   "path": "uredba/2013/2814",
+   "short": "Uredba o načinu prodaje dionica i poslovnih udjela",
+   "title": "Uredba o načinu prodaje dionica i poslovnih udjela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/129/2814",
+   "versions": [
+    {
+     "from": "2013-10-26",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_129_2814.html",
+     "sha256": "0bed23b602b642442c5d840729573c60bc610366b129274e67d102df161feabd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2829",
+   "path": "uredba/2013/2829",
+   "short": "Uredba o visini naknade za obavljanje poslova upravljanja dionicama i poslovnim udjelima",
+   "title": "Uredba o visini naknade za obavljanje poslova upravljanja dionicama i poslovnim udjelima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/130/2829",
+   "versions": [
+    {
+     "from": "2013-10-29",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_130_2829.html",
+     "sha256": "c626d5a13b72fb5f069a895986473a1d60382ba55f5a37536f086ed92486ccbb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2830",
+   "path": "uredba/2013/2830",
+   "short": "Uredba o izmjeni Uredbe o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i izvještaja o primjeni fiskalnih pravila",
+   "title": "Uredba o izmjeni Uredbe o sastavljanju i predaji Izjave o fiskalnoj odgovornosti i izvještaja o primjeni fiskalnih pravila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/130/2830",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_10_130_2830.html",
+     "sha256": "8e849c8a321864a27e9a42ba366b90e88946cc3cf6d11d7e0f2aab16b365aae3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2883",
+   "path": "uredba/2013/2883",
+   "short": "Uredba o uvjetima za utvrđivanje i gubitak statusa izbjeglice, prognanika odnosno povratnika",
+   "title": "Uredba o uvjetima za utvrđivanje i gubitak statusa izbjeglice, prognanika odnosno povratnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/133/2883",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_133_2883.html",
+     "sha256": "30b14bce2c119d7e229b06ec945a0cbeba4610da416df3d3b4ca70a3f0bd87f4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2884",
+   "path": "uredba/2013/2884",
+   "short": "Uredba o utvrđivanju statusa bivših nositelja stanarskih prava i članova njihovih obitelji, te uvjetima i postupku njihovog stambenog zbrinjavanja",
+   "title": "Uredba o utvrđivanju statusa bivših nositelja stanarskih prava i članova njihovih obitelji, te uvjetima i postupku njihovog stambenog zbrinjavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/133/2884",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_133_2884.html",
+     "sha256": "d8756cb905a86762fcc0f1fe4dac8b10c6dee0ba2a39373877866f3329b4c8e6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2885",
+   "path": "uredba/2013/2885",
+   "short": "Uredba o izmjenama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru",
+   "title": "Uredba o izmjenama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/133/2885",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_133_2885.html",
+     "sha256": "42c1182dc2a3dd50c28589a1f7df7ec9fc73e9125affb38dbd785a931a192ada"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2985",
+   "path": "uredba/2013/2985",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/140/2985",
+   "versions": [
+    {
+     "from": "2013-11-30",
+     "units": 142,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_140_2985.html",
+     "sha256": "0a96f53cad6eaf8205006c36633a0ef03c7039338c866fae31f6d49ad1b5bb08"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2986",
+   "path": "uredba/2013/2986",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/140/2986",
+   "versions": [
+    {
+     "from": "2013-11-23",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_140_2986.html",
+     "sha256": "945b39c35e8e8b9bf8ff12abab3e1fa7bfea1ffedc96a2803003f35438db174f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2987",
+   "path": "uredba/2013/2987",
+   "short": "Uredba o dopunama Uredbe o plaćama policijskih službenika",
+   "title": "Uredba o dopunama Uredbe o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/140/2987",
+   "versions": [
+    {
+     "from": "2013-11-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_140_2987.html",
+     "sha256": "e04582761127b89ea34e0ab41ad633ba8f827a21011fb329e7b3123a68cef32d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2988",
+   "path": "uredba/2013/2988",
+   "short": "Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/140/2988",
+   "versions": [
+    {
+     "from": "2013-11-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_140_2988.html",
+     "sha256": "a4b3ff52eb8b22d8ca0b3dbea1bccdc25e6976872b63df49cf8ce7119a1ed2a0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-2989",
+   "path": "uredba/2013/2989",
+   "short": "Uredba o dopunama Uredbe o klasifikaciji radnih mjesta policijskih službenika",
+   "title": "Uredba o dopunama Uredbe o klasifikaciji radnih mjesta policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/140/2989",
+   "versions": [
+    {
+     "from": "2013-11-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_140_2989.html",
+     "sha256": "b9a8e7d07b75fe54cb4629f9fcf925889af140488aa815e53ef6072ae2942561"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3016",
+   "path": "uredba/2013/3016",
+   "short": "Uredba o financijskoj strukturi omotnice za mjere iz Programa izravne potpore za 2013. godinu",
+   "title": "Uredba o financijskoj strukturi omotnice za mjere iz Programa izravne potpore za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3016",
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_141_3016.html",
+     "sha256": "14e187326ceb213ae928b2d7ec1395a35a425df749cd93e721fb4e586ed89b3b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3017",
+   "path": "uredba/2013/3017",
+   "short": "Uredba o izmjenama Uredbe o osnivanju Agencije za poljoprivredno zemljište",
+   "title": "Uredba o izmjenama Uredbe o osnivanju Agencije za poljoprivredno zemljište",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/141/3017",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_11_141_3017.html",
+     "sha256": "afc2aaf64140891dc58e726185a129783cd801a49adb5166a663927c49430cc4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3076",
+   "path": "uredba/2013/3076",
+   "short": "Uredba o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara",
+   "title": "Uredba o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/144/3076",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_144_3076.html",
+     "sha256": "fbba3d699a413005c51c293f021fb0f2ea1a8569a4d1971558bf40f5cf17664d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3091",
+   "path": "uredba/2013/3091",
+   "short": "Uredba o Uredu predsjednika Vlade Republike Hrvatske",
+   "title": "Uredba o Uredu predsjednika Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/145/3091",
+   "versions": [
+    {
+     "from": "2013-12-07",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_145_3091.html",
+     "sha256": "062d7d39dbb0933d0dce568dd932de94b9b3d2d456065603af43a44ed9bfc7f1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3092",
+   "path": "uredba/2013/3092",
+   "short": "Uredba o izmjeni Uredbe o osnivanju Komisije za odnose s vjerskim zajednicama i Ureda Komisije za odnose s vjerskim zajednicama",
+   "title": "Uredba o izmjeni Uredbe o osnivanju Komisije za odnose s vjerskim zajednicama i Ureda Komisije za odnose s vjerskim zajednicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/145/3092",
+   "versions": [
+    {
+     "from": "2013-12-14",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_145_3092.html",
+     "sha256": "d49c799dcce23d5202167e5caa6fc5101f68d3b2ac6292fd0d03b60ebced87c6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3121",
+   "path": "uredba/2013/3121",
+   "short": "Uredba o vrsti vatrenog naoružanja i streljiva koje koriste ovlašteni carinski službenici",
+   "title": "Uredba o vrsti vatrenog naoružanja i streljiva koje koriste ovlašteni carinski službenici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/147/3121",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_147_3121.html",
+     "sha256": "87832653824f4a1178c855aea31be4799bcfd423e69105cba03bc28114c3681a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3183",
+   "path": "uredba/2013/3183",
+   "short": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2014. godinu",
+   "title": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2014. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/151/3183",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_151_3183.html",
+     "sha256": "c1d8f4dfc792382f78d977c909af596025ca3897e68978488d902b2c1a50bb3e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3184",
+   "path": "uredba/2013/3184",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/151/3184",
+   "versions": [
+    {
+     "from": "2013-12-24",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_151_3184.html",
+     "sha256": "ef4e06ba2dc40027d717717ecba8dd26a4671f0dc4cb87bf1075f35cf130a86f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3185",
+   "path": "uredba/2013/3185",
+   "short": "Uredba o izmjenama Uredbe o visini naknade za zaštitu voda",
+   "title": "Uredba o izmjenama Uredbe o visini naknade za zaštitu voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/151/3185",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_151_3185.html",
+     "sha256": "be31828d2ff2495ea5f82f11a150ecd865cf1da92ff403c85c0c894b3556a52d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3186",
+   "path": "uredba/2013/3186",
+   "short": "Uredba o izmjenama Uredbe o visini vodnoga doprinosa",
+   "title": "Uredba o izmjenama Uredbe o visini vodnoga doprinosa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/151/3186",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_151_3186.html",
+     "sha256": "d8eb6de83773e8b6b33081f160174120f2cc414fcded05d3de83c6c8b9d988ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-324",
+   "path": "uredba/2013/324",
+   "short": "Uredba o dražbi emisijskih jedinica stakleničkih plinova",
+   "title": "Uredba o dražbi emisijskih jedinica stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/324",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_19_324.html",
+     "sha256": "274d8a85c14b3bd68a291d43f692729b442753cdabc99df7ab862c42086b1695"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-325",
+   "path": "uredba/2013/325",
+   "short": "Uredba o izmjeni Tarife Zakona o upravnim pristojbama",
+   "title": "Uredba o izmjeni Tarife Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/325",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_19_325.html",
+     "sha256": "36c893e612899080f07c21abd7c48267ec51bf0014008fc9f5dd6a231f8a847f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3253",
+   "path": "uredba/2013/3253",
+   "short": "Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje instrumentom pretpristupne pomoći (IPA)",
+   "title": "Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje instrumentom pretpristupne pomoći (IPA)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/155/3253",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_155_3253.html",
+     "sha256": "cd6e5960a6fc23a8faa3b2e9396ab081b973b7a37b7ee319cc9422fe0b7fd812"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-326",
+   "path": "uredba/2013/326",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poduzetništva i obrta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/19/326",
+   "versions": [
+    {
+     "from": "2013-02-26",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_19_326.html",
+     "sha256": "544ba1f35517747f91837125acf863887f6bce796548b05439925e1a6be94bb1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3274",
+   "path": "uredba/2013/3274",
+   "short": "Uredba o visini minimalne plaće",
+   "title": "Uredba o visini minimalne plaće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/156/3274",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_156_3274.html",
+     "sha256": "d949604facd3564d998ca13fb2d7ca07bdce38cfd2d90c7a595b13d51abbf374"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3308",
+   "path": "uredba/2013/3308",
+   "short": "Uredba o izmjenama Zakona o boravišnoj pristojbi",
+   "title": "Uredba o izmjenama Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/158/3308",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_158_3308.html",
+     "sha256": "6b50751aa48899bebee05338de21ea6dae76a11d39b216fb34459bb2661a4582"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3309",
+   "path": "uredba/2013/3309",
+   "short": "Uredba o dopuni Zakona o igrama na sreću",
+   "title": "Uredba o dopuni Zakona o igrama na sreću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/158/3309",
+   "versions": [
+    {
+     "from": "2013-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_158_3309.html",
+     "sha256": "d204514948c3be5c0aa1aca0ea75966ebd12828c98823774f895f5f452d85a70"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3310",
+   "path": "uredba/2013/3310",
+   "short": "Uredba o izmjeni Zakona o prebivalištu",
+   "title": "Uredba o izmjeni Zakona o prebivalištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/158/3310",
+   "versions": [
+    {
+     "from": "2013-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_158_3310.html",
+     "sha256": "674cffb9e31b6352d8be5d6807f315ea2d40a9b54742e4475d13eb8558606640"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3311",
+   "path": "uredba/2013/3311",
+   "short": "Uredba o izmjenama i dopunama Uredbe o računovodstvu neprofitnih organizacija",
+   "title": "Uredba o izmjenama i dopunama Uredbe o računovodstvu neprofitnih organizacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/158/3311",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_158_3311.html",
+     "sha256": "d29563a6c0f9b460d8948a5be70781ab0579a8e0d3543927c825d144e0712430"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3312",
+   "path": "uredba/2013/3312",
+   "short": "Uredba o izmjeni i dopunama Uredbe o indeksu razvijenosti",
+   "title": "Uredba o izmjeni i dopunama Uredbe o indeksu razvijenosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/158/3312",
+   "versions": [
+    {
+     "from": "2013-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_158_3312.html",
+     "sha256": "945e3f3b97ff813a086abe99746ab5f4f8681d7394eb42eda694761b19794382"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3332",
+   "path": "uredba/2013/3332",
+   "short": "Uredba o izmjeni i dopuni Zakona o zdravstvenoj zaštiti",
+   "title": "Uredba o izmjeni i dopuni Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/159/3332",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_159_3332.html",
+     "sha256": "5b18ae54a8852434899304e2eab3fdc0c86cc50da1212cadcbcb29f1fdba7c2a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-3333",
+   "path": "uredba/2013/3333",
+   "short": "Uredba o izmjenama i dopuni Zakona o uskrati isplate pojedinih materijalnih prava zaposlenima u javnim službama",
+   "title": "Uredba o izmjenama i dopuni Zakona o uskrati isplate pojedinih materijalnih prava zaposlenima u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/159/3333",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_12_159_3333.html",
+     "sha256": "9d62bb018c47b9a64f63af05bd635ba2141717a3108843719489b39a37dc914d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-338",
+   "path": "uredba/2013/338",
+   "short": "Uredba o izgledu i sadržaju standardnih obrazaca i objavama koncesija",
+   "title": "Uredba o izgledu i sadržaju standardnih obrazaca i objavama koncesija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/20/338",
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_20_338.html",
+     "sha256": "2598d57cc2655a89ed95f8fcc52d20f2442e2576cd73a3f9cba634a15c8887b9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-384",
+   "path": "uredba/2013/384",
+   "short": "Uredba o osnivanju Muzeja Vučedolske kulture",
+   "title": "Uredba o osnivanju Muzeja Vučedolske kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/23/384",
+   "versions": [
+    {
+     "from": "2013-03-05",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_23_384.html",
+     "sha256": "1fa0a8785425ac4f3ed6353a46fa10aff4162f27273eecf694500b6612ed60ca"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-385",
+   "path": "uredba/2013/385",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog inspektorata",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog inspektorata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/23/385",
+   "versions": [
+    {
+     "from": "2013-03-05",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_23_385.html",
+     "sha256": "fa169ddb243e2336f08650df94e7944f62c3db649c02b1a9d822471a31ed7008"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-40",
+   "path": "uredba/2013/40",
+   "short": "Uredba o uvjetima, načinu i postupku raspolaganja tražbinama s naslova poreznog duga u postupku predstečajne nagodbe",
+   "title": "Uredba o uvjetima, načinu i postupku raspolaganja tražbinama s naslova poreznog duga u postupku predstečajne nagodbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/3/40",
+   "versions": [
+    {
+     "from": "2013-01-07",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_01_3_40.html",
+     "sha256": "36d9212f6be194dd3b8529cab146ed34cb9b78ce0434a197a30067c288b02802"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-411",
+   "path": "uredba/2013/411",
+   "short": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/411",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 59,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_411.html",
+     "sha256": "8b0ba114e8143670cd3717b722cbb1cbc53a4b121767c89ea49f995c125067ab"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-413",
+   "path": "uredba/2013/413",
+   "short": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave",
+   "title": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/413",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_413.html",
+     "sha256": "d9226c3493c3426cf32952a6d7dea9e2b1745851d0e35a04f6d5dcc9eaa9e1da"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-414",
+   "path": "uredba/2013/414",
+   "short": "Uredba o izmjeni Uredbe o vrijednosti koeficijenata složenosti poslova radnih mjesta, dodatku na uvjete rada, te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Carinske uprave",
+   "title": "Uredba o izmjeni Uredbe o vrijednosti koeficijenata složenosti poslova radnih mjesta, dodatku na uvjete rada, te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Carinske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/414",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_414.html",
+     "sha256": "3608087202fed320b1348070ff12718d5133ca7be75f782e689e9fad913b7417"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-415",
+   "path": "uredba/2013/415",
+   "short": "Uredba o izmjeni Uredbe o plaćama policijskih službenika",
+   "title": "Uredba o izmjeni Uredbe o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/415",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_415.html",
+     "sha256": "3ec965b87913f064a7a6c6c10aa32a1c32bcc25eef708bfac8b1b90bd06728db"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-416",
+   "path": "uredba/2013/416",
+   "short": "Uredba o izmjeni Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova",
+   "title": "Uredba o izmjeni Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/25/416",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_02_25_416.html",
+     "sha256": "0a37c602d0dbe76ec1811d06a3d7f523c9f884f9572703b4479c855ab8acaeb1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-42",
+   "path": "uredba/2013/42",
+   "short": "Uredba o izmjenama i dopuni Uredbe o uvjetima za kupnju obiteljske kuće ili stana u državnom vlasništvu na područjima posebne državne skrbi",
+   "title": "Uredba o izmjenama i dopuni Uredbe o uvjetima za kupnju obiteljske kuće ili stana u državnom vlasništvu na područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/3/42",
+   "versions": [
+    {
+     "from": "2013-01-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_01_3_42.html",
+     "sha256": "edf7473a7266a0031d1e789e02e651577925fe54bc408b1771a40a1ed948b824"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-492",
+   "path": "uredba/2013/492",
+   "short": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2013. godinu",
+   "title": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/29/492",
+   "versions": [
+    {
+     "from": "2013-03-16",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_29_492.html",
+     "sha256": "c5394b1c5193e60509755d5c9a131f9d64bdee1c505ab928b770a20111534dc2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-523",
+   "path": "uredba/2013/523",
+   "short": "Uredba o izmjeni Uredbe o tržnom redu za žitarice",
+   "title": "Uredba o izmjeni Uredbe o tržnom redu za žitarice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/30/523",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_30_523.html",
+     "sha256": "d30bcd91f3d9a4e8a1a14229c68fb56235761d0fc6bd50301aa24a856c14155d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-539",
+   "path": "uredba/2013/539",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/31/539",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_31_539.html",
+     "sha256": "ba19670068898854e0e4161e29b5ec530c3335cba592129cbfa9ba33a37b716e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-540",
+   "path": "uredba/2013/540",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva branitelja",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva branitelja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/31/540",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_31_540.html",
+     "sha256": "6e4b324334221b4bd4f8adb16ba00c25dfb1a1239448d99c60a60d95b11579b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-657",
+   "path": "uredba/2013/657",
+   "short": "Uredba o Hrvatskom viznom informacijskom sustavu",
+   "title": "Uredba o Hrvatskom viznom informacijskom sustavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/36/657",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_36_657.html",
+     "sha256": "668e97b6c2ab514f09efeeceffdf346c9e24b7bdd78edc97224b253b9fa71b13"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-658",
+   "path": "uredba/2013/658",
+   "short": "Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje primarne i sekundarne pravne pomoći za 2013. godinu",
+   "title": "Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje primarne i sekundarne pravne pomoći za 2013. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/36/658",
+   "versions": [
+    {
+     "from": "2013-04-04",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_36_658.html",
+     "sha256": "21cde02ccbe6083ba90afc26d72534bdcc3ec44da49f76c5d13e1bce073af4d0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-699",
+   "path": "uredba/2013/699",
+   "short": "Uredba o izmjenama i dopunama Uredbe o viznom sustavu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o viznom sustavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/38/699",
+   "versions": [
+    {
+     "from": "2013-04-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_03_38_699.html",
+     "sha256": "a43e28c0b8e0749c1ff613d1e0a72d31f54ec53da7f3406b3e4e7ce3233152fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-737",
+   "path": "uredba/2013/737",
+   "short": "Uredba o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć članova obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata, hrvatskog ratnog vojnog invalida iz Domovinskog rata i hrvatskog branitelja iz Domovinskog rata",
+   "title": "Uredba o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć članova obitelji smrtno stradalog hrvatskog branitelja iz Domovinskog rata, hrvatskog ratnog vojnog invalida iz Domovinskog rata i hrvatskog branitelja iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/40/737",
+   "versions": [
+    {
+     "from": "2013-04-13",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_40_737.html",
+     "sha256": "82adcd86ca39146a9d263876c026fb6aa364be6cba7a248873b57de106a23c04"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-738",
+   "path": "uredba/2013/738",
+   "short": "Uredba o postupcima službenog obavješćivanja u području norma, tehničkih propisa te propisa o uslugama informacijskog društva",
+   "title": "Uredba o postupcima službenog obavješćivanja u području norma, tehničkih propisa te propisa o uslugama informacijskog društva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/40/738",
+   "versions": [
+    {
+     "from": "2013-04-13",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_40_738.html",
+     "sha256": "3d3062085c7a78885f5b3dee56d543cca46b313d5e378cf5f3724536ef9c9f6e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-739",
+   "path": "uredba/2013/739",
+   "short": "Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "title": "Uredba o određivanju robe koja se izvozi i uvozi na temelju dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/40/739",
+   "versions": [
+    {
+     "from": "2013-04-13",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_40_739.html",
+     "sha256": "277ea8308fe8294c48dec1666963f7ed5eb83723babfc53faec2abd4fe39a22a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-740",
+   "path": "uredba/2013/740",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/40/740",
+   "versions": [
+    {
+     "from": "2013-04-13",
+     "units": 57,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_40_740.html",
+     "sha256": "d01881efa63400175301a9e4c5609be822aba5467c24f2343b744c67e065b84d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-741",
+   "path": "uredba/2013/741",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i sporta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/40/741",
+   "versions": [
+    {
+     "from": "2013-04-13",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_40_741.html",
+     "sha256": "978b3ad58b3a51145287284caf56ab571131ba5c19299b56e027d5676a290620"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-881",
+   "path": "uredba/2013/881",
+   "short": "Uredba o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja",
+   "title": "Uredba o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/46/881",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_46_881.html",
+     "sha256": "f74c1e8b2732b848ce8ba5ed33791a9d2abc59e363fe6bc62b3af702808a1400"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-882",
+   "path": "uredba/2013/882",
+   "short": "Uredba o usklađivanju područja građevnih proizvoda s Uredbom (EU) br. 305/2011 u prijelaznom razdoblju",
+   "title": "Uredba o usklađivanju područja građevnih proizvoda s Uredbom (EU) br. 305/2011 u prijelaznom razdoblju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/46/882",
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2013_04_46_882.html",
+     "sha256": "e486b0152f5a91d8674f8df4886ca89ebac92132ce6208e0a4ea7252e645c7f5"
     }
    ]
   },
@@ -57407,6 +61082,66 @@
    ]
   },
   {
+   "slug": "uredba-2014-1030",
+   "path": "uredba/2014/1030",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva turizma",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/55/1030",
+   "versions": [
+    {
+     "from": "2014-05-13",
+     "units": 88,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_55_1030.html",
+     "sha256": "667a0bb43bdd17d886389d925bdaf92d3086dfb4045a89d7aeee75bb5a8fb76b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1031",
+   "path": "uredba/2014/1031",
+   "short": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave",
+   "title": "Uredba o nazivima radnih mjesta i koeficijentima složenosti poslova, dodatku na uvjete rada te kriterijima i najvišem mogućem iznosu dodatka za natprosječne rezultate u radu za službenike Porezne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/55/1031",
+   "versions": [
+    {
+     "from": "2014-05-13",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_55_1031.html",
+     "sha256": "6b2c8c34e235edace05058d5f55a3972ad1a1f9260b88c426f1165409583014d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1032",
+   "path": "uredba/2014/1032",
+   "short": "Uredba o načinu povrata kupoprodajne cijene bez kamata hrvatskim braniteljima i članovima obitelji smrtno stradalog, zatočenog ili nestalog i umrlog hrvatskog branitelja iz Domovinskog rata",
+   "title": "Uredba o načinu povrata kupoprodajne cijene bez kamata hrvatskim braniteljima i članovima obitelji smrtno stradalog, zatočenog ili nestalog i umrlog hrvatskog branitelja iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/55/1032",
+   "versions": [
+    {
+     "from": "2014-05-13",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_55_1032.html",
+     "sha256": "f0277dcca7954d1122b3c6b095cb73edb2e66bdb40463cb73a109e6aeeb5fbfa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1082",
+   "path": "uredba/2014/1082",
+   "short": "Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole",
+   "title": "Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za učinkovito i sigurno obavljanje granične kontrole",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/57/1082",
+   "versions": [
+    {
+     "from": "2014-05-17",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_57_1082.html",
+     "sha256": "1d9a060327903add29f054c16b37705ae50b695de0b7fb2c6ac6701c22682a83"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-109",
    "path": "uredba/2014/109",
    "short": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2014. godinu",
@@ -57422,6 +61157,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-1138",
+   "path": "uredba/2014/1138",
+   "short": "Uredba o procjeni utjecaja zahvata na okoliš",
+   "title": "Uredba o procjeni utjecaja zahvata na okoliš",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/61/1138",
+   "versions": [
+    {
+     "from": "2014-05-29",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_61_1138.html",
+     "sha256": "e764f2cce42e20823b2a8b9658fe0577c89a025ea913d0282eedb719e9a3f659"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-1163",
    "path": "uredba/2014/1163",
    "short": "Uredba o izmjenama i dopunama Uredbe o postupku davanja koncesijskog odobrenja na pomorskom dobru",
@@ -57433,6 +61183,51 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_63_1163.html",
      "sha256": "59b9fa1906ad89706f0541a7e3a167ca9816b230a2cd0a735a0e4d930e49c846"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1252",
+   "path": "uredba/2014/1252",
+   "short": "Uredba o izmjeni i dopuni Uredbe o načinu prodaje dionica i poslovnih udjela",
+   "title": "Uredba o izmjeni i dopuni Uredbe o načinu prodaje dionica i poslovnih udjela",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/66/1252",
+   "versions": [
+    {
+     "from": "2014-05-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_05_66_1252.html",
+     "sha256": "69ed597595b827119f6325c91dc74eb6ee89398ac266459c4cafb3a18ba53a7f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1305",
+   "path": "uredba/2014/1305",
+   "short": "Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama",
+   "title": "Uredba o izmjenama Tarife upravnih pristojbi Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/69/1305",
+   "versions": [
+    {
+     "from": "2014-06-14",
+     "units": 34,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_69_1305.html",
+     "sha256": "1cc178e7bb199a3f0894051d40582cbe03506c19e153fa5f7bab87a2bdd242ef"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1338",
+   "path": "uredba/2014/1338",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/71/1338",
+   "versions": [
+    {
+     "from": "2014-06-19",
+     "units": 362,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_71_1338.html",
+     "sha256": "8c04a0def608360cc291302716e2483cb5f40015b4aebcdce31a0c25dcfcf3ed"
     }
    ]
   },
@@ -57467,6 +61262,81 @@
    ]
   },
   {
+   "slug": "uredba-2014-1396",
+   "path": "uredba/2014/1396",
+   "short": "Uredba o procjeni vrijednosti nekretnina",
+   "title": "Uredba o procjeni vrijednosti nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1396",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_74_1396.html",
+     "sha256": "8e88a8d1249b22d5f271d96e71d6c53b8c900d082be242f50c00282eab548dcf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1427",
+   "path": "uredba/2014/1427",
+   "short": "Uredba o načinu i kriterijima za davanje u zakup šumskog zemljišta u vlasništvu Republike Hrvatske",
+   "title": "Uredba o načinu i kriterijima za davanje u zakup šumskog zemljišta u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/76/1427",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_76_1427.html",
+     "sha256": "2dc195355d10e67668473a3f1c6f2343b6ebfe0559e499db04b1603c4a6ce0c5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1449",
+   "path": "uredba/2014/1449",
+   "short": "Uredba o dobrovoljnom sudjelovanju organizacija u sustavu za ekološko upravljanje i neovisno ocjenjivanje (EMAS)",
+   "title": "Uredba o dobrovoljnom sudjelovanju organizacija u sustavu za ekološko upravljanje i neovisno ocjenjivanje (EMAS)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/77/1449",
+   "versions": [
+    {
+     "from": "2014-07-04",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_77_1449.html",
+     "sha256": "56856633f294f1e5972d5354845f19cca38b6f98f09a1342e60da7a7679426b6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1450",
+   "path": "uredba/2014/1450",
+   "short": "Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/77/1450",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_06_77_1450.html",
+     "sha256": "af58d296aa5a26289f8e4555474414e02547f3a81594c43382be818c9d676082"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-148",
+   "path": "uredba/2014/148",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/9/148",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_01_9_148.html",
+     "sha256": "4a9a8b1703df2573be909a5536145c026043edc4ae9b13a66ee6238bded79ab8"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-1555",
    "path": "uredba/2014/1555",
    "short": "Uredba o izmjeni i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva vanjskih i europskih poslova",
@@ -57478,6 +61348,36 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_81_1555.html",
      "sha256": "ca7f6de15353c17ed2550d1043e92d5a41026c5621d736f4259a8859f6163893"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1662",
+   "path": "uredba/2014/1662",
+   "short": "Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) i Prijelaznim instrumentom",
+   "title": "Uredba o opsegu i sadržaju odgovornosti te ovlastima tijela nadležnih za upravljanje Instrumentom pretpristupne pomoći (IPA) i Prijelaznim instrumentom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/84/1662",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_84_1662.html",
+     "sha256": "6daf37a78674058f29869b9877abb1a51db481a5dadfd2272014d36f306bfce4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1663",
+   "path": "uredba/2014/1663",
+   "short": "Uredba o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača)",
+   "title": "Uredba o određivanju tijela za provedbu Uredbe (EZ-a) br. 2006/2004 Europskog parlamenta i Vijeća od 27. listopada 2004. o suradnji između nacionalnih tijela odgovornih za provedbu propisa o zaštiti potrošača (Uredba o suradnji u zaštiti potrošača)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/84/1663",
+   "versions": [
+    {
+     "from": "2014-07-22",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_84_1663.html",
+     "sha256": "7b49b59726826bf6ee4b936453d6dc1cd111ac62fbb736aacc83ad23cff8cdda"
     }
    ]
   },
@@ -57602,6 +61502,171 @@
    ]
   },
   {
+   "slug": "uredba-2014-175",
+   "path": "uredba/2014/175",
+   "short": "Uredba o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske",
+   "title": "Uredba o osnivanju prava građenja i prava služnosti na nekretninama u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/10/175",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_01_10_175.html",
+     "sha256": "c8f5d500d052699331fdb80a2c7d1936d57287be05634a07e6bc421a4f6d030f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-176",
+   "path": "uredba/2014/176",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša i prirode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/10/176",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_01_10_176.html",
+     "sha256": "9848d081e7e00aa8d3b53706eef1ebfcb32472ec1392c1434b89c0168e16452c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1760",
+   "path": "uredba/2014/1760",
+   "short": "Uredba o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, hrvatskog ratnog vojnog invalida iz Domovinskog rata i hrvatskog branitelja iz Domovinskog rata",
+   "title": "Uredba o uvjetima i postupku ostvarivanja prava na jednokratnu novčanu pomoć članovima obitelji smrtno stradaloga hrvatskog branitelja iz Domovinskog rata, hrvatskog ratnog vojnog invalida iz Domovinskog rata i hrvatskog branitelja iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/87/1760",
+   "versions": [
+    {
+     "from": "2014-07-29",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_87_1760.html",
+     "sha256": "bc5402567def7c4c889c1e0da525708e36a814b7b75c32b6683bec1799db16e8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1761",
+   "path": "uredba/2014/1761",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/87/1761",
+   "versions": [
+    {
+     "from": "2014-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_87_1761.html",
+     "sha256": "2da7352fcb6bc7e4d3e8f0937432e8b0c968131798a161667bb089f0dfe987b3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1762",
+   "path": "uredba/2014/1762",
+   "short": "Uredba o izmjeni Tarife upravnih pristojbi Zakona o upravnim pristojbama",
+   "title": "Uredba o izmjeni Tarife upravnih pristojbi Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/87/1762",
+   "versions": [
+    {
+     "from": "2014-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_87_1762.html",
+     "sha256": "c2799e407f97061d7ffe75602aaaba7b06f3172927c83062800524d7245f8690"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-177",
+   "path": "uredba/2014/177",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/10/177",
+   "versions": [
+    {
+     "from": "2014-02-04",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_01_10_177.html",
+     "sha256": "558b068e340ebb89602f250fea3b0ce8dcff780cddb5be0ce029bf12ee14a024"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-178",
+   "path": "uredba/2014/178",
+   "short": "Uredba o izmjenama i dopunama Uredbe o visini naknade za korištenje voda",
+   "title": "Uredba o izmjenama i dopunama Uredbe o visini naknade za korištenje voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/10/178",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_01_10_178.html",
+     "sha256": "309fed1fd6590442c91b74e41c085c43c7cb8364b5535dc9a926aa70a105ab5e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1802",
+   "path": "uredba/2014/1802",
+   "short": "Uredba o izmjeni Zakona o pružanju usluga u turizmu",
+   "title": "Uredba o izmjeni Zakona o pružanju usluga u turizmu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/89/1802",
+   "versions": [
+    {
+     "from": "2014-07-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_89_1802.html",
+     "sha256": "d7c879ead247af1fc5f1cec52d72444573c633a45a75793a2e3b420e60490e51"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1803",
+   "path": "uredba/2014/1803",
+   "short": "Uredba o izmjeni zakona o ugostiteljskoj djelatnosti",
+   "title": "Uredba o izmjeni zakona o ugostiteljskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/89/1803",
+   "versions": [
+    {
+     "from": "2014-07-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_89_1803.html",
+     "sha256": "d3229789a522fa5395f609961872ae32a6f2eb0edf430fc8b6fa387e43a20fc8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1811",
+   "path": "uredba/2014/1811",
+   "short": "Uredba o naknadi štete po osnovi otuđenja mineralne sirovine",
+   "title": "Uredba o naknadi štete po osnovi otuđenja mineralne sirovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/90/1811",
+   "versions": [
+    {
+     "from": "2014-08-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_90_1811.html",
+     "sha256": "0e17f6b9a0fc1bcd8eca46ec1364d370b36eb8713de0190a660ed5cf5d033dd2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1812",
+   "path": "uredba/2014/1812",
+   "short": "Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima",
+   "title": "Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/90/1812",
+   "versions": [
+    {
+     "from": "2014-08-02",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_90_1812.html",
+     "sha256": "edf9d3eff5b847ccf758ca8b25ed2ab85c3e2c9472d5fbe0c4978cc8a3010302"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-1813",
    "path": "uredba/2014/1813",
    "short": "Uredba o izmjenama i dopunama Uredbe o graničnim vrijednostima emisija onečišćujućih tvari u zrak iz nepokretnih izvora",
@@ -57677,6 +61742,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-1886",
+   "path": "uredba/2014/1886",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obrane",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/94/1886",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 73,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_94_1886.html",
+     "sha256": "1219947bddce38cedad01958abccfbbbb14684d6fc652d2decae09613a206f39"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-1887",
    "path": "uredba/2014/1887",
    "short": "Uredba o izmjenama i dopunama Uredbe o kriterijima, mjerilima i postupku za odgodu plaćanja, obročnu otplatu duga te prodaju, otpis ili djelomičan otpis potraživanja",
@@ -57688,6 +61768,21 @@
      "units": 23,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_94_1887.html",
      "sha256": "e92a5f4c87f5fcd990064e0d957a261d35435dbf8104b06791493678a863b439"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-1888",
+   "path": "uredba/2014/1888",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/94/1888",
+   "versions": [
+    {
+     "from": "2014-08-08",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_07_94_1888.html",
+     "sha256": "63d0105b88d386bb0383ae348ebce0d3a2e5af594c5ad56a834716bf820ebd3d"
     }
    ]
   },
@@ -57722,6 +61817,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-1988",
+   "path": "uredba/2014/1988",
+   "short": "Uredba o dopuni Zakona o tržištu toplinske energije",
+   "title": "Uredba o dopuni Zakona o tržištu toplinske energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/102/1988",
+   "versions": [
+    {
+     "from": "2014-08-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_08_102_1988.html",
+     "sha256": "c657e68260a4f2424aec84d8ad981c4c6df4e95fe99db7d1111eabd7d296bbba"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-1989",
    "path": "uredba/2014/1989",
    "short": "Uredba o utvrđivanju visine boravišne pristojbe za 2015. godinu",
@@ -57748,6 +61858,141 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_08_105_2022.html",
      "sha256": "33cdf73d9c68def80ce46a23711e8be7f26ac996221571ce529dfc251b0c2ed4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2069",
+   "path": "uredba/2014/2069",
+   "short": "Uredba o dopuni Zakona o potpori poljoprivredi i ruralnom razvoju",
+   "title": "Uredba o dopuni Zakona o potpori poljoprivredi i ruralnom razvoju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/107/2069",
+   "versions": [
+    {
+     "from": "2014-09-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_107_2069.html",
+     "sha256": "3130abf3edd225570b305904824c38f05e277f47fd3ce2032af30688f4aa31e8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2070",
+   "path": "uredba/2014/2070",
+   "short": "Uredba o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem \"Ulaganje za rast i radna mjesta\"",
+   "title": "Uredba o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem \"Ulaganje za rast i radna mjesta\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/107/2070",
+   "versions": [
+    {
+     "from": "2014-09-13",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_107_2070.html",
+     "sha256": "bea8462384036860be0cbb33cf9c1bc74245521c1dd97457f926681fb6a9b2aa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2128",
+   "path": "uredba/2014/2128",
+   "short": "Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za regionalni razvoj Republike Hrvatske",
+   "title": "Uredba o izmjeni i dopuni Uredbe o osnivanju Agencije za regionalni razvoj Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/111/2128",
+   "versions": [
+    {
+     "from": "2014-09-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_111_2128.html",
+     "sha256": "a92445ef0281796ec3c9fd70445c69ef7cf4bace4d2a7cf01f90bf43533675b0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2140",
+   "path": "uredba/2014/2140",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva regionalnog razvoja i fondova Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/112/2140",
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "units": 104,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_112_2140.html",
+     "sha256": "3d8b2e7212aa0111ccb9d26efbc4585b722093b36b3c06dffea6e07b167a8d1d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2141",
+   "path": "uredba/2014/2141",
+   "short": "Uredba o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem",
+   "title": "Uredba o izradi i provedbi dokumenata Strategije upravljanja morskim okolišem i obalnim područjem",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/112/2141",
+   "versions": [
+    {
+     "from": "2014-10-02",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_112_2141.html",
+     "sha256": "2201a2140fe92b96173b8f8f235c2ed40d8c64d7b2c2c8e03efaac333e4a59b2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2168",
+   "path": "uredba/2014/2168",
+   "short": "Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon",
+   "title": "Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/114/2168",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_114_2168.html",
+     "sha256": "a0c89cdfaa5ba6da491a0936e092da75b6e05ab6cf04630da3a1a4306c60f7e8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2190",
+   "path": "uredba/2014/2190",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zdravlja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/116/2190",
+   "versions": [
+    {
+     "from": "2014-10-08",
+     "units": 104,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_09_116_2190.html",
+     "sha256": "0074065fb2acf21beb35ced8474cf6de0864c9ef2b3c47f7deba2d8095829237"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2280",
+   "path": "uredba/2014/2280",
+   "short": "Uredba o tijelima u sustavima upravljanja i kontrole za provedbu programa kojima se podržava cilj \"Europska teritorijalna suradnja\" u financijskom razdoblju 2014. - 2020.",
+   "title": "Uredba o tijelima u sustavima upravljanja i kontrole za provedbu programa kojima se podržava cilj \"Europska teritorijalna suradnja\" u financijskom razdoblju 2014. - 2020.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/120/2280",
+   "versions": [
+    {
+     "from": "2014-10-18",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_10_120_2280.html",
+     "sha256": "cd34fc0ccf4fc035ad0fa02f215bd3dfbb6925075fd1b5e7ecf12fdd84128f40"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2281",
+   "path": "uredba/2014/2281",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/120/2281",
+   "versions": [
+    {
+     "from": "2014-10-18",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_10_120_2281.html",
+     "sha256": "6b4ad91ae6824c570d8cbad273362e55d00f8ebc9fa8e454be29ede7d98b96c9"
     }
    ]
   },
@@ -57793,6 +62038,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_10_120_2284.html",
      "sha256": "62953c43c03ed81dcd811cad98048ccdb9712211db51b146e378223035a8416e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2285",
+   "path": "uredba/2014/2285",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u Javnim službama",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u Javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/120/2285",
+   "versions": [
+    {
+     "from": "2014-10-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_10_120_2285.html",
+     "sha256": "640c8700862f416f6e6adc473d9cf24da02073abbf7259e23f0c5d840e168887"
     }
    ]
   },
@@ -57857,6 +62117,36 @@
    ]
   },
   {
+   "slug": "uredba-2014-2439",
+   "path": "uredba/2014/2439",
+   "short": "Uredba o tijelima u Sustavu upravljanja i kontrole za provedbu Operativnog programa za pomorstvo i ribarstvo",
+   "title": "Uredba o tijelima u Sustavu upravljanja i kontrole za provedbu Operativnog programa za pomorstvo i ribarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/129/2439",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_11_129_2439.html",
+     "sha256": "fbc0bbcc02fec249710afaf3d2a5859a115628bc78b3eae5c85768d6920040f0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2440",
+   "path": "uredba/2014/2440",
+   "short": "Uredba o tijelima u Sustavu upravljanja i kontrole korištenja Europskog poljoprivrednog fonda za ruralni razvoj",
+   "title": "Uredba o tijelima u Sustavu upravljanja i kontrole korištenja Europskog poljoprivrednog fonda za ruralni razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/129/2440",
+   "versions": [
+    {
+     "from": "2014-11-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_11_129_2440.html",
+     "sha256": "990b82b537e4e36d99447be02c6c3e8675a2aecfc9a3425707013a1620f86823"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-25",
    "path": "uredba/2014/25",
    "short": "Uredba o visini i načinu plaćanja naknade za koncesiju za distribuciju toplinske energije i koncesiju za izgradnju energetskih objekata za distribuciju toplinske energije",
@@ -57868,6 +62158,36 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_01_1_25.html",
      "sha256": "1c2c9b3c5e5d35beedd707e896460ddfe10e6fc09f50b15118b600836a3ff2f7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2541",
+   "path": "uredba/2014/2541",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/134/2541",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_11_134_2541.html",
+     "sha256": "c9fc64a01c6a5293edcfcc98e76fa18ffbb937147faf1d604a9e9b5de46fe89e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2542",
+   "path": "uredba/2014/2542",
+   "short": "Uredba o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture",
+   "title": "Uredba o uspostavljanju javnog Registra za koordinaciju projekata izgradnje državne informacijske infrastrukture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/134/2542",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_11_134_2542.html",
+     "sha256": "bae88ef51121c490f770c64079c666cf2beccaff7963b6b30b364e4657299894"
     }
    ]
   },
@@ -57932,6 +62252,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-2645",
+   "path": "uredba/2014/2645",
+   "short": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/140/2645",
+   "versions": [
+    {
+     "from": "2014-12-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_11_140_2645.html",
+     "sha256": "35a240cc777529459ae35a0b6af53e796f5f24db7728a117488f0c54ac2a1c8f"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-2711",
    "path": "uredba/2014/2711",
    "short": "Uredba o izmjenama i dopuni Uredbe o unutarnjem ustrojstvu Državne komisije za kontrolu postupaka javne nabave",
@@ -57977,6 +62312,81 @@
    ]
   },
   {
+   "slug": "uredba-2014-2758",
+   "path": "uredba/2014/2758",
+   "short": "Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon",
+   "title": "Uredba o izmjenama Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/147/2758",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_147_2758.html",
+     "sha256": "9052eca17ec1ace2f1676e599fbd31ad3eca7ae425f055a87987d7bca34cab26"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2759",
+   "path": "uredba/2014/2759",
+   "short": "Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/147/2759",
+   "versions": [
+    {
+     "from": "2014-12-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_147_2759.html",
+     "sha256": "eb4f60b0e687189222ab37b9db4201e9c35fa297d79af7987828342d2c1c583e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2821",
+   "path": "uredba/2014/2821",
+   "short": "Uredba o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "title": "Uredba o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2821",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2821.html",
+     "sha256": "e265262e795bda6af0b943b06ecd5be33b94ebcb6d8cd1692aa724380d93430b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2822",
+   "path": "uredba/2014/2822",
+   "short": "Uredba o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "title": "Uredba o izmjeni Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2822",
+   "versions": [
+    {
+     "from": "2014-12-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2822.html",
+     "sha256": "070c44a965ee9452efbf9ac9e09efd2eeeee57fde2863b1c1d96b7691dd316b7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2823",
+   "path": "uredba/2014/2823",
+   "short": "Uredba o izmjeni Zakona o policiji",
+   "title": "Uredba o izmjeni Zakona o policiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2823",
+   "versions": [
+    {
+     "from": "2014-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2823.html",
+     "sha256": "173152acb498e9a76ed41228d6d810a4e53f7e44730a1828c869cede19ef562e"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-2824",
    "path": "uredba/2014/2824",
    "short": "Uredba o dopuni Zakona o sanaciji javnih ustanova",
@@ -57988,6 +62398,96 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2824.html",
      "sha256": "f40b7cfd84a2cc42a713d8a4bf869123f56480487c74a01cfb94fafb13881d22"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2825",
+   "path": "uredba/2014/2825",
+   "short": "Uredba o visini minimalne plaće",
+   "title": "Uredba o visini minimalne plaće",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2825",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2825.html",
+     "sha256": "aabdf21b1eb0a108d6a5cc3a851f240f1bf1dc8f5e471814af1e02c75bb0242a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2826",
+   "path": "uredba/2014/2826",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2826",
+   "versions": [
+    {
+     "from": "2014-12-27",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2826.html",
+     "sha256": "35af0028a19fb396e2ef76f46303aeb342ded975bf3a4a989dba5fb76adee164"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2827",
+   "path": "uredba/2014/2827",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2827",
+   "versions": [
+    {
+     "from": "2014-12-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2827.html",
+     "sha256": "9f9399fc98066a1bc4a12a09b246c47ad503c88c038c25c2070cc320e71936cb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2828",
+   "path": "uredba/2014/2828",
+   "short": "Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja",
+   "title": "Uredba o izmjenama i dopuni Uredbe o određivanju štićenih osoba, objekata i prostora te provođenju njihove zaštite i osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2828",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2828.html",
+     "sha256": "36456c4a090b810264e196fc219239a9ec8c780db342c92154c930b7d1ee1ba4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2829",
+   "path": "uredba/2014/2829",
+   "short": "Uredba o izmjenama i dopunama Uredbe o standardu kakvoće vode",
+   "title": "Uredba o izmjenama i dopunama Uredbe o standardu kakvoće vode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/151/2829",
+   "versions": [
+    {
+     "from": "2014-12-27",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_151_2829.html",
+     "sha256": "ea3d27f28a779ed55bd3179b94490d4d4f2408e48e06d26eefba2ced77476cde"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-2894",
+   "path": "uredba/2014/2894",
+   "short": "Uredba o metodologiji vještačenja",
+   "title": "Uredba o metodologiji vještačenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/153/2894",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 78,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2014_12_153_2894.html",
+     "sha256": "5f13d1ee488280dc265d4ee365456358a033142bf2c27d40097633c4b560a5f6"
     }
    ]
   },
