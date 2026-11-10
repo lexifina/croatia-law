@@ -902,6 +902,4041 @@
    ]
   },
   {
+   "slug": "odluka-2005-1037",
+   "path": "odluka/2005/1037",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Turskoj, sa sjedištem u Izmiru",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Republici Turskoj, sa sjedištem u Izmiru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1037",
+   "versions": [
+    {
+     "from": "2005-04-18",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1037.html",
+     "sha256": "7b4c08d4bce5b89dd8e1ec067205fcfa393ee97327837a3a178eff75d7fa63f9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1038",
+   "path": "odluka/2005/1038",
+   "short": "Odluka o izmjenama i dopunama Odluke o Uredu predsjednika Republike Hrvatske",
+   "title": "Odluka o izmjenama i dopunama Odluke o Uredu predsjednika Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1038",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1038.html",
+     "sha256": "34f4093c6731785c22f246e9017cb33a37a89d434a1698e1ce21672a41886008"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1045",
+   "path": "odluka/2005/1045",
+   "short": "Odluka o osnivanju Međuresorske radne skupine za suzbijanje terorizma",
+   "title": "Odluka o osnivanju Međuresorske radne skupine za suzbijanje terorizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1045",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1045.html",
+     "sha256": "6b53ddc2d2335fac175d498414be564e940b08428ef438d209864464c5f94e01"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1046",
+   "path": "odluka/2005/1046",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnivanju Koordinacijske skupine i Tehničke radne skupine Vlade Republike Hrvatske za praćenje korištenja sredstava koje Republika Hrvatska dobiva iz inozemnih izvora",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnivanju Koordinacijske skupine i Tehničke radne skupine Vlade Republike Hrvatske za praćenje korištenja sredstava koje Republika Hrvatska dobiva iz inozemnih izvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1046",
+   "versions": [
+    {
+     "from": "2005-04-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1046.html",
+     "sha256": "3cdafe05b070beac26fa486ed14d4e996a5a7e6937f06e37217e68a2a141722e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1047",
+   "path": "odluka/2005/1047",
+   "short": "Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora",
+   "title": "Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1047",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1047.html",
+     "sha256": "7e6de4b451e7802619c108af2bcf041d5992c2dd0f9e5c45ff91017195aef635"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1048",
+   "path": "odluka/2005/1048",
+   "short": "Odluka o obvezi rada Ureda državne uprave na dan izbora",
+   "title": "Odluka o obvezi rada Ureda državne uprave na dan izbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/54/1048",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_54_1048.html",
+     "sha256": "0bdf19f98b145bda150ff8c76e82edea34d34bf33345561e74564e120ef64cca"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1057",
+   "path": "odluka/2005/1057",
+   "short": "Odluka o osnivanju Povjerenstva za gospodarske osnove",
+   "title": "Odluka o osnivanju Povjerenstva za gospodarske osnove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/55/1057",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_55_1057.html",
+     "sha256": "044c2a6a4e8aa631ee3cb5b09a9cf058dd666ffb174898cac3ff2a839c91d32e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1061",
+   "path": "odluka/2005/1061",
+   "short": "Odluka o kriterijima za određivanje depozita položenih pod značajno povoljnijim uvjetima",
+   "title": "Odluka o kriterijima za određivanje depozita položenih pod značajno povoljnijim uvjetima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/55/1061",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_55_1061.html",
+     "sha256": "520a059790e0d4eb71eb6e732550fc971e52259cbc2b8c0a31adbae5d6268e2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1062",
+   "path": "odluka/2005/1062",
+   "short": "Odluka o prestanku važenja Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova",
+   "title": "Odluka o prestanku važenja Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/55/1062",
+   "versions": [
+    {
+     "from": "2005-04-29",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_55_1062.html",
+     "sha256": "c68cc52dc697ff2a5e2ce3d6b56d407b9d807c7f3384d032a74e63bd9aaf8dc1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1091",
+   "path": "odluka/2005/1091",
+   "short": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini",
+   "title": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1091",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1091.html",
+     "sha256": "8cdcf70e3382ff1eef4b36dbf14ec86477cd6cc0c868f14b096a7a8f123dfab0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1093",
+   "path": "odluka/2005/1093",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalnog programa za Rome",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalnog programa za Rome",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1093",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1093.html",
+     "sha256": "cccc6f859648810424a5389beff7c0ea0ba91e0443c1a0041c0f31daa51624ed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1094",
+   "path": "odluka/2005/1094",
+   "short": "Odluka o izmjenama Odluke o osnivanju Vijeća za poljoprivrednu politiku",
+   "title": "Odluka o izmjenama Odluke o osnivanju Vijeća za poljoprivrednu politiku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1094",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1094.html",
+     "sha256": "097aded0b66fa9afe5f0a0c72c88c502259c2f3567dfc73c537bd40f8c882e51"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1096",
+   "path": "odluka/2005/1096",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Velike Gorice",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Velike Gorice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1096",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1096.html",
+     "sha256": "a551ecc0e0e0e853fe20c228536ce0bb99ad5413811da2310b1b38da816aed21"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1097",
+   "path": "odluka/2005/1097",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Tordinci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Tordinci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1097",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1097.html",
+     "sha256": "c2b84413c0f76336e00b6102beae0e5b4e7c0077d60401c70ed3ae9a535451ac"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1105",
+   "path": "odluka/2005/1105",
+   "short": "Odluka o dopuni Odluke o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu",
+   "title": "Odluka o dopuni Odluke o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1105",
+   "versions": [
+    {
+     "from": "2005-05-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1105.html",
+     "sha256": "f6e0910536229e6a0d10ddd092eb45648d31c93b5f5462438b789a61792d75e3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1113",
+   "path": "odluka/2005/1113",
+   "short": "Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja \"2005.\"",
+   "title": "Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja \"2005.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/57/1113",
+   "versions": [
+    {
+     "from": "2005-05-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_57_1113.html",
+     "sha256": "02be5aa1fa30d5a6f1683f439ee3d7e24d9cdaf051ff0cbfa05c4e913517f6c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1160",
+   "path": "odluka/2005/1160",
+   "short": "Odluka o stavljanju izvan snage Odluke o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Ivankovo",
+   "title": "Odluka o stavljanju izvan snage Odluke o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Ivankovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/60/1160",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_60_1160.html",
+     "sha256": "306840e48433dd15ac6ed5febf636cd7b5149c298755b67164b2e1be2ecfb7cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1170",
+   "path": "odluka/2005/1170",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/60/1170",
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_60_1170.html",
+     "sha256": "4c9f15983a5e57a47d84d155d3c916214a56ecaa4cef486a4c93922ce3637728"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1171",
+   "path": "odluka/2005/1171",
+   "short": "Odluka o izmjeni i dopuni Odluke o primjeni odredaba zakona i drugih propisa iz nadležnosti Hrvatske narodne banke na banke u likvidaciji",
+   "title": "Odluka o izmjeni i dopuni Odluke o primjeni odredaba zakona i drugih propisa iz nadležnosti Hrvatske narodne banke na banke u likvidaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/60/1171",
+   "versions": [
+    {
+     "from": "2005-05-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_60_1171.html",
+     "sha256": "2ff35e3c03e1e4760ac8f2a79bd9c6db50422692c77a7a81dc878512f3249ac2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1182",
+   "path": "odluka/2005/1182",
+   "short": "Odluka o početku rada Carinarnice Krapina",
+   "title": "Odluka o početku rada Carinarnice Krapina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/61/1182",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_61_1182.html",
+     "sha256": "44149ef70d5ef71c03fd64d3871d3b87e9ca0cbec7b7c764331247d19bd3d655"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1183",
+   "path": "odluka/2005/1183",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Erdut",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Erdut",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/61/1183",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_61_1183.html",
+     "sha256": "bdca27f7cdb4decce5c2d97118bc18f846f1ebdd6b5ee25bb2b27966862608f6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1199",
+   "path": "odluka/2005/1199",
+   "short": "Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za 2005. godinu",
+   "title": "Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1199",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1199.html",
+     "sha256": "0afc83a9f9f911f8873782282c04afc7626223ce33578b6131999b083f98e81e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1200",
+   "path": "odluka/2005/1200",
+   "short": "Odluka o osnovicama za utvrđivanje vrijednosnog boda pri prevođenju prava, prema osobnom činu i ustrojbenom mjestu hrvatskog branitelja iz Domovinskog rata za 2004. godinu",
+   "title": "Odluka o osnovicama za utvrđivanje vrijednosnog boda pri prevođenju prava, prema osobnom činu i ustrojbenom mjestu hrvatskog branitelja iz Domovinskog rata za 2004. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1200",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1200.html",
+     "sha256": "8a9012f37afac1ff49dc4064b673b155d3a000e32ce288209bea6e36819a960e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1201",
+   "path": "odluka/2005/1201",
+   "short": "Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za 2004. godinu",
+   "title": "Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za 2004. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1201",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1201.html",
+     "sha256": "f7e5879f13975e389bfd7b8f5d0b7fc487523bdc88a177f1097c3cb888bd921a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1203",
+   "path": "odluka/2005/1203",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1203",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1203.html",
+     "sha256": "9aff5ba103986106c01a50284cfd6303ed113204fa4d523f34584d920e993260"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1204",
+   "path": "odluka/2005/1204",
+   "short": "Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za 2004. godinu",
+   "title": "Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za 2004. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/62/1204",
+   "versions": [
+    {
+     "from": "2005-05-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_62_1204.html",
+     "sha256": "4c9ce70b43d3d4b14ff5b6b740c53a821b6df028cf1b8f6ca36750cd6929977b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1220",
+   "path": "odluka/2005/1220",
+   "short": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1220",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1220.html",
+     "sha256": "fcf3efcf3dd1a3a6e861ac49fbbdc047980604b34bb9b42e4604411983756bef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1221",
+   "path": "odluka/2005/1221",
+   "short": "Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1221",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1221.html",
+     "sha256": "c174e9672dce7bccaaf107c6cb70a0842e20b393c8e120764a7c858fb8822c3a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1222",
+   "path": "odluka/2005/1222",
+   "short": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/64/1222",
+   "versions": [
+    {
+     "from": "2005-05-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_64_1222.html",
+     "sha256": "9b3b12ef5132ed82b3ff5e8ded936bf51925285106d1f896527a0b904daae3ed"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1246",
+   "path": "odluka/2005/1246",
+   "short": "Odluka o uvođenju naplate cestarine na autocesti Rupa - Rijeka",
+   "title": "Odluka o uvođenju naplate cestarine na autocesti Rupa - Rijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1246",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_65_1246.html",
+     "sha256": "54ab2630d49d60f9b42589b3c7e76c83d1112d07bc28bdfb86adca5a80f517fd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1247",
+   "path": "odluka/2005/1247",
+   "short": "Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata Hrvata u Bosni i Hercegovini za 2005. godinu",
+   "title": "Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata Hrvata u Bosni i Hercegovini za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1247",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_65_1247.html",
+     "sha256": "68343037c9e81b5abc82ca89da7e5172125df3968312bf09801e0b8ba45cbf57"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1248",
+   "path": "odluka/2005/1248",
+   "short": "Odluka o danima rodova, struka, službi i posebnih dijelova oružanih snaga Republike Hrvatske",
+   "title": "Odluka o danima rodova, struka, službi i posebnih dijelova oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1248",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_65_1248.html",
+     "sha256": "79e243aff2338f0d1e214505f723809c45f75576d3e06a129946fc8eb15eef64"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1251",
+   "path": "odluka/2005/1251",
+   "short": "Odluka o načinu obavljanja ribolova u pojedinim posebnim staništima, određenim ribolovnim alatima i na određeno vrijeme",
+   "title": "Odluka o načinu obavljanja ribolova u pojedinim posebnim staništima, određenim ribolovnim alatima i na određeno vrijeme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/65/1251",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_65_1251.html",
+     "sha256": "5f7d877656b841669dbd91b515b077c49abbff841ab369f5476b6fdf83cd7637"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1288",
+   "path": "odluka/2005/1288",
+   "short": "Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi zaključenih ugovora između državnih tijela i tvrtki u vlasništvu ili djelomičnom vlasništvu dužnosnika",
+   "title": "Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi zaključenih ugovora između državnih tijela i tvrtki u vlasništvu ili djelomičnom vlasništvu dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/66/1288",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_66_1288.html",
+     "sha256": "f64c5c4f19545a0df10ea947e8f44a2a9193b77723bdc0e3cbc0ea0a1d6984b4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1296",
+   "path": "odluka/2005/1296",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/66/1296",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_66_1296.html",
+     "sha256": "0710c346ee460f45062232b541ecf0d3559394dcff97b1f9749c13110143a8bc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1297",
+   "path": "odluka/2005/1297",
+   "short": "Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Odluke o osnivanju lučke uprave za luke županijskog i lokalnog značaja",
+   "title": "Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Odluke o osnivanju lučke uprave za luke županijskog i lokalnog značaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/66/1297",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_66_1297.html",
+     "sha256": "b10cabf87384de05ca56c09e47e565715d9dbd8839684658b22ecf0ae3c573b1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1298",
+   "path": "odluka/2005/1298",
+   "short": "Odluka o izmjeni Odluke o davanju koncesije za osnivanje slobodne zone Osijek",
+   "title": "Odluka o izmjeni Odluke o davanju koncesije za osnivanje slobodne zone Osijek",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/66/1298",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_05_66_1298.html",
+     "sha256": "b2c1ea41f09948c41c67bebd2dfbd950fe8d135dca2425fad17fc173fa39d29d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-130",
+   "path": "odluka/2005/130",
+   "short": "Odluka o obvezi rada ureda državne uprave na dan izbora",
+   "title": "Odluka o obvezi rada ureda državne uprave na dan izbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/8/130",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_8_130.html",
+     "sha256": "d56ae694e81940764a90219e9ca6070823bdd174e8e8ada9599e8d15d73da537"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-131",
+   "path": "odluka/2005/131",
+   "short": "Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora",
+   "title": "Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/8/131",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_8_131.html",
+     "sha256": "ff3dd70a52795c90450db5b5f4dfe5015065519e170d050de890ebc772660bdb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1398",
+   "path": "odluka/2005/1398",
+   "short": "Odluka o davanju suglasnosti na Izmjenu Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom",
+   "title": "Odluka o davanju suglasnosti na Izmjenu Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/71/1398",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_71_1398.html",
+     "sha256": "c5e8424f4f76d1b0007750167280402e07073e1566df313e9a4c4f076ad6a2ff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-14",
+   "path": "odluka/2005/14",
+   "short": "Odluka o visini i načinu korištenja naknade koju plaćaju davatelji univerzalnih poštanskih usluga iz prihoda ostvarenog u prethodnoj godini",
+   "title": "Odluka o visini i načinu korištenja naknade koju plaćaju davatelji univerzalnih poštanskih usluga iz prihoda ostvarenog u prethodnoj godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/14",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_14.html",
+     "sha256": "101f5e7b811a032fe35eca8556d46a9f1773c93174829a8847727acc4c61b134"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1438",
+   "path": "odluka/2005/1438",
+   "short": "Odluka o visini naknada za obavljanje poslova regulacije energetskih djelatnosti",
+   "title": "Odluka o visini naknada za obavljanje poslova regulacije energetskih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1438",
+   "versions": [
+    {
+     "from": "2005-06-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_73_1438.html",
+     "sha256": "e823f6e8c392f87f05502168eff60274f8442dc75691842bbf9d75a6bf418a86"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1439",
+   "path": "odluka/2005/1439",
+   "short": "Odluka o davanju suglasnosti na Statut Kliničkoga bolničkog centra Rijeka",
+   "title": "Odluka o davanju suglasnosti na Statut Kliničkoga bolničkog centra Rijeka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/73/1439",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_73_1439.html",
+     "sha256": "e618e58cfe984baccd121f5d6e804536f1fdde920c8c33e2b67330e201fc3e09"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1464",
+   "path": "odluka/2005/1464",
+   "short": "Odluka o davanju suglasnosti trgovačkom društvu HT - Hrvatske telekomunikacije d.d. iz Zagreba na Standardnu ponudu za davanje usluga s dodanom vrijednosti od 6. svibnja 2005.",
+   "title": "Odluka o davanju suglasnosti trgovačkom društvu HT - Hrvatske telekomunikacije d.d. iz Zagreba na Standardnu ponudu za davanje usluga s dodanom vrijednosti od 6. svibnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/74/1464",
+   "versions": [
+    {
+     "from": "2005-06-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_74_1464.html",
+     "sha256": "5c52d9da4abaa2a6cec31f45b9e1867c024c87c567c2a38964f594b4c24f5b7b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1468",
+   "path": "odluka/2005/1468",
+   "short": "Odluka o pokretanju prethodnog postupka za uvođenje zaštitne mjere pri uvozu određenih vrsta goveđeg mesa",
+   "title": "Odluka o pokretanju prethodnog postupka za uvođenje zaštitne mjere pri uvozu određenih vrsta goveđeg mesa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1468",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_75_1468.html",
+     "sha256": "b859e3cf69c7320cada46078ddf1c8bce4ee00619b0c8cc43c3405c52710f19b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1469",
+   "path": "odluka/2005/1469",
+   "short": "Odluka o proširenju primjene izmjena i dopuna Kolektivnog ugovora za djelatnost trgovine",
+   "title": "Odluka o proširenju primjene izmjena i dopuna Kolektivnog ugovora za djelatnost trgovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1469",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_75_1469.html",
+     "sha256": "abccc75d4b7345e2bd7aac5c0f79cb8b9c700aab1259a151d05b01084a61a96f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1470",
+   "path": "odluka/2005/1470",
+   "short": "Odluka o proširenju primjene Kolektivnog ugovora za graditeljstvo - druge izmjene i dopune za 2004. godinu",
+   "title": "Odluka o proširenju primjene Kolektivnog ugovora za graditeljstvo - druge izmjene i dopune za 2004. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1470",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_75_1470.html",
+     "sha256": "a43b2c571901b7da5ea398533550dc1c85dee146939a62c082c4ec143106b3eb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1471",
+   "path": "odluka/2005/1471",
+   "short": "Odluka o proširenju primjene Dodatka I o izmjenama i dopunama Kolektivnog ugovora za ugostiteljstvo",
+   "title": "Odluka o proširenju primjene Dodatka I o izmjenama i dopunama Kolektivnog ugovora za ugostiteljstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1471",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_75_1471.html",
+     "sha256": "1b78185f4273b0450a0a35298e6eef00fd10a66136cd2375e901fad8d09e1fa7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1472",
+   "path": "odluka/2005/1472",
+   "short": "Odluka o proširenju primjene Kolektivnog ugovora za djelatnost drvne i papirne industrije",
+   "title": "Odluka o proširenju primjene Kolektivnog ugovora za djelatnost drvne i papirne industrije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1472",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_75_1472.html",
+     "sha256": "7a25e6637dfe4199f685ddfaa978bc11c082b7af946df86b102f5e88e9a47793"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1473",
+   "path": "odluka/2005/1473",
+   "short": "Odluka o proširenju primjene Kolektivnog ugovora poslodavaca i radnika u obrtu",
+   "title": "Odluka o proširenju primjene Kolektivnog ugovora poslodavaca i radnika u obrtu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/75/1473",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_75_1473.html",
+     "sha256": "696edfb7a57a080ab7c2a4522fd86b398c7c29a2f7db9c56416c911362699bd9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1488",
+   "path": "odluka/2005/1488",
+   "short": "Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za norme",
+   "title": "Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za norme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/76/1488",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_76_1488.html",
+     "sha256": "6539a68c2ae011d8e3d77e45744d493168a4f5239e91dfcfde1c2020544c747c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1489",
+   "path": "odluka/2005/1489",
+   "short": "Odluka o davanju suglasnosti na Statut Hrvatske akreditacijske agencije",
+   "title": "Odluka o davanju suglasnosti na Statut Hrvatske akreditacijske agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/76/1489",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_06_76_1489.html",
+     "sha256": "4843052c7818af78f2537cee6583c11f3b87b3a68e2a2ad1955168c51fcd68a7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1564",
+   "path": "odluka/2005/1564",
+   "short": "Odluka o izmjeni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Istanbulu, Republika Turska",
+   "title": "Odluka o izmjeni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Istanbulu, Republika Turska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/80/1564",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_80_1564.html",
+     "sha256": "a99d18d2f0887c3a4d41e8284d40c0d11841c29ead125a2dadc3e8566a507ac5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-157",
+   "path": "odluka/2005/157",
+   "short": "Odluka o sudjelovanju Republike Hrvatske u doplati sredstava Međunarodnog udruženja za razvoj",
+   "title": "Odluka o sudjelovanju Republike Hrvatske u doplati sredstava Međunarodnog udruženja za razvoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/157",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_157.html",
+     "sha256": "6f6a4822b057331203c2de4313a71667d1f1e3c98075230459e301471dfca088"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1575",
+   "path": "odluka/2005/1575",
+   "short": "Odluka o oduzimanju koncesije za priređivanje igara na sreću u Casinu",
+   "title": "Odluka o oduzimanju koncesije za priređivanje igara na sreću u Casinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1575",
+   "versions": [
+    {
+     "from": "2005-07-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_82_1575.html",
+     "sha256": "3bc32ae3aa32e2f1efbb956a08e586a77064ac8a5b7ee595597a9be938360011"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1576",
+   "path": "odluka/2005/1576",
+   "short": "Odluka o dodjeljivanju poslova savjetovanja za zaštitu potrošača udrugama za zaštitu potrošača u Zagrebu, Osijeku i Splitu",
+   "title": "Odluka o dodjeljivanju poslova savjetovanja za zaštitu potrošača udrugama za zaštitu potrošača u Zagrebu, Osijeku i Splitu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1576",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_82_1576.html",
+     "sha256": "051704feac796ff4cfc298c0ecee2298a6030873e6806bb12c0f1f9119820ff3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1577",
+   "path": "odluka/2005/1577",
+   "short": "Odluka o \"Nagradi Vicko Andrić\"",
+   "title": "Odluka o \"Nagradi Vicko Andrić\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1577",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_82_1577.html",
+     "sha256": "78bf2e1b45d26f438759c294a1150a0d389d7d01abf9cabf7709a691f67dc850"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1578",
+   "path": "odluka/2005/1578",
+   "short": "Odluka o \"Nagradi Iso Velikanović\"",
+   "title": "Odluka o \"Nagradi Iso Velikanović\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/82/1578",
+   "versions": [
+    {
+     "from": "2005-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_82_1578.html",
+     "sha256": "acd8d7a9e8ca7e1a7d8ec2bb8b6bd05e04d761230c9bfbb45fe055dbe5b727b5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-158",
+   "path": "odluka/2005/158",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Zagreba",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Zagreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/158",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_158.html",
+     "sha256": "0a62a925fb84ca95cd1f15cfe16b02729ae4a374f2d5593e4c11ce9718d33121"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-159",
+   "path": "odluka/2005/159",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/159",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_159.html",
+     "sha256": "9b87423c0273476b565dd84e217349b79ff9db401a056b5fcab0d14be3215d56"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1597",
+   "path": "odluka/2005/1597",
+   "short": "Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj misiji u Afganistanu (ISAF)",
+   "title": "Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj misiji u Afganistanu (ISAF)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/84/1597",
+   "versions": [
+    {
+     "from": "2005-07-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_84_1597.html",
+     "sha256": "00ab075b5768f19df986aed48b1559b0fb1f4f4ed9d75b67cb2658576d7721a6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-160",
+   "path": "odluka/2005/160",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Gradina",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Gradina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/160",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_160.html",
+     "sha256": "4cc09fd7e9a42a92b54d1230cdd16db6a601c634d20b4b991f5460f15e7ef583"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1645",
+   "path": "odluka/2005/1645",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 350.000.000,00",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 350.000.000,00",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/85/1645",
+   "versions": [
+    {
+     "from": "2005-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_85_1645.html",
+     "sha256": "76b8f19c4bfe54c6f2e6802e8127e161a737e436d9e63a9d113e8039acd14bf0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1646",
+   "path": "odluka/2005/1646",
+   "short": "Odluka o davanju prethodne suglasnosti na Statut Hrvatske energetske regulatorne agencije",
+   "title": "Odluka o davanju prethodne suglasnosti na Statut Hrvatske energetske regulatorne agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/85/1646",
+   "versions": [
+    {
+     "from": "2005-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_85_1646.html",
+     "sha256": "abdcb35de271459a9b62db2ecbc58ca2bb75ff4ebb0324df83d1b6990dc04275"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1692",
+   "path": "odluka/2005/1692",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Podrola - Rakalj",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Podrola - Rakalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/86/1692",
+   "versions": [
+    {
+     "from": "2005-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_86_1692.html",
+     "sha256": "804042e9de28fc190a3b790d52e82896b7f3e88fef5b4880bd5f0655f50f6293"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1693",
+   "path": "odluka/2005/1693",
+   "short": "Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za zatočene i nestale",
+   "title": "Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za zatočene i nestale",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/86/1693",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_86_1693.html",
+     "sha256": "5b22a92a5a30c946844f8c48522621c7a5f07248a72403d3803ea9455068d4e8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1694",
+   "path": "odluka/2005/1694",
+   "short": "Odluka o osnivanju Povjerenstva za pripremu i početak rada Muzeja Domovinskog rata",
+   "title": "Odluka o osnivanju Povjerenstva za pripremu i početak rada Muzeja Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/86/1694",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_86_1694.html",
+     "sha256": "d4c109c6a886a803333b2c0699a2ca477f7940f613b76c79afc80a3900b4b7a5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1695",
+   "path": "odluka/2005/1695",
+   "short": "Odluka o usvajanju Izmjena i dopuna programa Hrvatske agencije za malo gospodarstvo za odobravanje jamstava",
+   "title": "Odluka o usvajanju Izmjena i dopuna programa Hrvatske agencije za malo gospodarstvo za odobravanje jamstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/86/1695",
+   "versions": [
+    {
+     "from": "2005-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_86_1695.html",
+     "sha256": "c41937adf1333ee91ac79100af039b405ad62110fecb07da95bbd80c15eacd5c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-172",
+   "path": "odluka/2005/172",
+   "short": "Odluka o izmjenama i dopunama Odluke o Jedinstvenom registru računa poslovnih subjekata",
+   "title": "Odluka o izmjenama i dopunama Odluke o Jedinstvenom registru računa poslovnih subjekata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/172",
+   "versions": [
+    {
+     "from": "2005-01-19",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_172.html",
+     "sha256": "a12b7871b5ce0a9f3b26d0de7a46c26ac429ae258782ceccb0d14e9f9f1e605d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1735",
+   "path": "odluka/2005/1735",
+   "short": "Odluka o početku rada Carinarnice Varaždin",
+   "title": "Odluka o početku rada Carinarnice Varaždin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1735",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1735.html",
+     "sha256": "b5c0f9d96dbba3167af387fefd7dda5a16dcb0e1621eaafdf1824a0f64aa2269"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1736",
+   "path": "odluka/2005/1736",
+   "short": "Odluka o izmjeni Odluke o preferencijalnoj carinskoj kvoti pri uvozu određenoga poljoprivrednog proizvoda iz zemalja članica Europske unije",
+   "title": "Odluka o izmjeni Odluke o preferencijalnoj carinskoj kvoti pri uvozu određenoga poljoprivrednog proizvoda iz zemalja članica Europske unije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1736",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1736.html",
+     "sha256": "e3a23f34d7a8c85b8cc4a13f4c5858e6004edd90bc95898f06b83afa777c7f3c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1737",
+   "path": "odluka/2005/1737",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podravska Moslavina",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podravska Moslavina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1737",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1737.html",
+     "sha256": "a07e3e4f654caebc821d5371e3537fc5c497fa431290da8a61a857b5c9438e37"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1738",
+   "path": "odluka/2005/1738",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Dragalić",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Dragalić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1738",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1738.html",
+     "sha256": "8bfd4cc87d523cacfa989eaa5df75bed94ed9a13ac0a9e8fdd15f1c818521ad0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1739",
+   "path": "odluka/2005/1739",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kaptol",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kaptol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1739",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1739.html",
+     "sha256": "99fd7bb470081aa8463329a5c182219b1b47f36aabef303138a0b0ee5dd0b317"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1740",
+   "path": "odluka/2005/1740",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čaglin",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čaglin",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1740",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1740.html",
+     "sha256": "1e7c39364fb71a9923929ffee3decbff6a70fb4b57e0d4f131d1330b8b43b3a8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-175",
+   "path": "odluka/2005/175",
+   "short": "Odluka o prirezu porezu na dohodak Općine Pisarovina",
+   "title": "Odluka o prirezu porezu na dohodak Općine Pisarovina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/175",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_175.html",
+     "sha256": "dcf3fa83ab4b65eeaf6cfa7a04c4cbd0161010b61c377233ccb4b836cbac7f29"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1750",
+   "path": "odluka/2005/1750",
+   "short": "Odluka o uvjetima i načinu obavljanja platnog prometa s inozemstvom",
+   "title": "Odluka o uvjetima i načinu obavljanja platnog prometa s inozemstvom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1750",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1750.html",
+     "sha256": "648bdf2a63c7919ae136724dc51c7b1bbbec46305b94c24e81b990185a5cde3d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1751",
+   "path": "odluka/2005/1751",
+   "short": "Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna \"Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004.\"",
+   "title": "Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna \"Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1751",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1751.html",
+     "sha256": "f81f0e2388687b64685d23b1c467db9bcc418db47a4376ef805f18e022cd2374"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1752",
+   "path": "odluka/2005/1752",
+   "short": "Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca \"Zimske olimpijske igre 2006., Italija\"",
+   "title": "Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca \"Zimske olimpijske igre 2006., Italija\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1752",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1752.html",
+     "sha256": "fa755a5b83b8651452f9d0aa41cf55b691afdb018539b6ba839e51b3233f4b73"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1753",
+   "path": "odluka/2005/1753",
+   "short": "Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca \"Svjetsko nogometno prvenstvo 2006., Njemačka\"",
+   "title": "Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca \"Svjetsko nogometno prvenstvo 2006., Njemačka\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1753",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1753.html",
+     "sha256": "43670df7a41f3243d245511503588dad4f1d15e324ccdf726604bca1d614746a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1757",
+   "path": "odluka/2005/1757",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1757",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1757.html",
+     "sha256": "918632432dd6e6852914f91533c0554325aaf924d6f269caa690e90c2b99e797"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1758",
+   "path": "odluka/2005/1758",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko--protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osi",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko--protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1758",
+   "versions": [
+    {
+     "from": "2005-07-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_88_1758.html",
+     "sha256": "d38eed3c185b00ef6a553c301a5cb3c3422899a89fc8d1d60f77cb293297ef14"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-176",
+   "path": "odluka/2005/176",
+   "short": "Odluka o izmjeni i dopuni Odluke o općinskim porezima Općine Oprisavci",
+   "title": "Odluka o izmjeni i dopuni Odluke o općinskim porezima Općine Oprisavci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/10/176",
+   "versions": [
+    {
+     "from": "2005-01-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_10_176.html",
+     "sha256": "d75caae767550762d469bcd2c12680eec4e27c2139d1b703f5aa0ad8925f929c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1769",
+   "path": "odluka/2005/1769",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za mirovinsko osiguranje za 2005. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za mirovinsko osiguranje za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/89/1769",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_89_1769.html",
+     "sha256": "9bc3ad1f995c2a3e574c4422630603ea4d3981e0acef54a447cdad96bb7b026d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1770",
+   "path": "odluka/2005/1770",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zapošljavanje za 2005. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zapošljavanje za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/89/1770",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_89_1770.html",
+     "sha256": "7c8c36649d860355cbcc4fbc72ae2660be7fe147723fb2d73e4d352df484ea72"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1771",
+   "path": "odluka/2005/1771",
+   "short": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2005. godinu",
+   "title": "Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/89/1771",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_89_1771.html",
+     "sha256": "db2c0ec7b05c3fc10220ba81c4fbd0974f98319047433b979f74376fdd9a7ccb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1793",
+   "path": "odluka/2005/1793",
+   "short": "Odluka o puštanju u optjecaj prigodnoga optjecajnog kovanog novca od 25 kuna \"Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004.\"",
+   "title": "Odluka o puštanju u optjecaj prigodnoga optjecajnog kovanog novca od 25 kuna \"Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004.\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1793",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_90_1793.html",
+     "sha256": "83bb69d6da1e73aefcc9904b13707a8f00cebcf5367376cd5c467a96d3e3eeee"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1794",
+   "path": "odluka/2005/1794",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1794",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_90_1794.html",
+     "sha256": "739e62d635fbf9be119533588bb7042da5236a2e894f61b04f5850f83540538e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1841",
+   "path": "odluka/2005/1841",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Rugvica",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Rugvica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1841",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1841.html",
+     "sha256": "8bcdcec5e22f3dae37850844024bc0292a7d68725e475f0dc53537a7aa7eaadc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1842",
+   "path": "odluka/2005/1842",
+   "short": "Odluka o izmjeni Odluke o davanju suglasnosti Lučkoj upravi Split za osnivanje Slobodne zone luke Split",
+   "title": "Odluka o izmjeni Odluke o davanju suglasnosti Lučkoj upravi Split za osnivanje Slobodne zone luke Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1842",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1842.html",
+     "sha256": "20c14b46591b54122bb1493ebe4393f5195e0fd321296c96f9e3fa6c5c6220a2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1843",
+   "path": "odluka/2005/1843",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za pripremu i početak rada Muzeja Domovinskog rata",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za pripremu i početak rada Muzeja Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1843",
+   "versions": [
+    {
+     "from": "2005-07-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1843.html",
+     "sha256": "f270a3ba3333ac9da7cb57cdf335d8e8deeaee8598d7f7cdb84c4a4c4b3f3b70"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1844",
+   "path": "odluka/2005/1844",
+   "short": "Odluka o izmjenama i dopunama Odluke o osnivanju Međuresorske radne skupine za suradnju Republike Hrvatske s NATO-om i provedbu \"Akcijskog plana za članstvo\"",
+   "title": "Odluka o izmjenama i dopunama Odluke o osnivanju Međuresorske radne skupine za suradnju Republike Hrvatske s NATO-om i provedbu \"Akcijskog plana za članstvo\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1844",
+   "versions": [
+    {
+     "from": "2005-07-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1844.html",
+     "sha256": "f8b6ef95c01812d529f7492af823b19c79518fedf7dcf38f44951b919b0f92b8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1853",
+   "path": "odluka/2005/1853",
+   "short": "Odluka o prirezu poreza na dohodak Općine Rakovica",
+   "title": "Odluka o prirezu poreza na dohodak Općine Rakovica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/92/1853",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_07_92_1853.html",
+     "sha256": "d70ed0862845accf2e33dad8607e0f850bd9d2e35d2e6703712b5daa3ff12fb9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1892",
+   "path": "odluka/2005/1892",
+   "short": "Odluka o nedodjeljivanju koncesije za frekvenciju za obavljanje javnih telekomunikacijskih usluga trgovačkom društvu Adriacella d.o.o. iz Zagreba",
+   "title": "Odluka o nedodjeljivanju koncesije za frekvenciju za obavljanje javnih telekomunikacijskih usluga trgovačkom društvu Adriacella d.o.o. iz Zagreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/96/1892",
+   "versions": [
+    {
+     "from": "2005-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_96_1892.html",
+     "sha256": "50ce884547542ea7b3a26b85d857dc2e808f4b8efa83367196a3cf9bbbf8d30a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1906",
+   "path": "odluka/2005/1906",
+   "short": "Odluka o izmjenama i dopunama Odluke o izmjenama uvjeta kredita odobrenih od strane Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva",
+   "title": "Odluka o izmjenama i dopunama Odluke o izmjenama uvjeta kredita odobrenih od strane Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/98/1906",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_98_1906.html",
+     "sha256": "55257651824b87a394c04bc5cf5dd4e3ffc4b64711e8ff897e575bb080b549b5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1907",
+   "path": "odluka/2005/1907",
+   "short": "Odluka o prestanku provedbe Programa poticanja zapošljavanja",
+   "title": "Odluka o prestanku provedbe Programa poticanja zapošljavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/98/1907",
+   "versions": [
+    {
+     "from": "2005-08-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_98_1907.html",
+     "sha256": "e3d21f56d6363b579f6e502bd0d5fc42650fe105b224679a015b9d4958aedd14"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-191",
+   "path": "odluka/2005/191",
+   "short": "Odluka o osnivanju Nacionalnog odbora",
+   "title": "Odluka o osnivanju Nacionalnog odbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/12/191",
+   "versions": [
+    {
+     "from": "2005-01-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_12_191.html",
+     "sha256": "beedfaef2c534cf541378d163bd6657d72fa035f3a4e59fc16a9f948d2a69438"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1919",
+   "path": "odluka/2005/1919",
+   "short": "Odluka o izmjeni Odluke o visini otpremnine za državne službenike i namještenike Ministarstva obrane i Oružanih snaga Republike Hrvatske kojima služba prestaje zbog preustroja ili smanjenja snaga",
+   "title": "Odluka o izmjeni Odluke o visini otpremnine za državne službenike i namještenike Ministarstva obrane i Oružanih snaga Republike Hrvatske kojima služba prestaje zbog preustroja ili smanjenja snaga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/98/1919",
+   "versions": [
+    {
+     "from": "2005-08-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_98_1919.html",
+     "sha256": "ba8a2fbd45bd3fe79a9c2617b28fc2890661564ef60fa524f808c3d53de40bce"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1925",
+   "path": "odluka/2005/1925",
+   "short": "Odluka o osnivanju Konzulata Republike Hrvatske u Argentinskoj Republici, sa sjedištem u Cordobi",
+   "title": "Odluka o osnivanju Konzulata Republike Hrvatske u Argentinskoj Republici, sa sjedištem u Cordobi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1925",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1925.html",
+     "sha256": "4f511854480f1aa02f9453612af1d878b473695ccd1036c7bebaee971c3ebb41"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1929",
+   "path": "odluka/2005/1929",
+   "short": "Odluka o izmjeni Odluke o danima rodova, struka, službi i posebnih dijelova Oružanih snaga Republike Hrvatske",
+   "title": "Odluka o izmjeni Odluke o danima rodova, struka, službi i posebnih dijelova Oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1929",
+   "versions": [
+    {
+     "from": "2005-08-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1929.html",
+     "sha256": "5f6cc3f44a1297503b44a9cc399746560684f0f096c77e2eea0345c3cc5859dc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1930",
+   "path": "odluka/2005/1930",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Pregledi postojećih brodova (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Pregledi postojećih brodova (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1930",
+   "versions": [
+    {
+     "from": "2005-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1930.html",
+     "sha256": "7b0c74dfbda69d757f4553869667afc234f1d0b539d1b5e85e54e76f00a4a367"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1931",
+   "path": "odluka/2005/1931",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Baždarenje pomorskih brodova, brodica i jahti (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Baždarenje pomorskih brodova, brodica i jahti (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1931",
+   "versions": [
+    {
+     "from": "2005-09-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1931.html",
+     "sha256": "a8d7553a2f26ef15227f1b3c12f4334ff4a10c537a9e64261aae596112ce8a47"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1932",
+   "path": "odluka/2005/1932",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Statutarna certifikacija pomorske opreme (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Statutarna certifikacija pomorske opreme (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1932",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1932.html",
+     "sha256": "dbe761155891bacc5063832187214b33287bc09373e05c134e759c5aadf06e38"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1933",
+   "path": "odluka/2005/1933",
+   "short": "Odluka o prirezu porezu na dohodak Grada Varaždinske Toplice",
+   "title": "Odluka o prirezu porezu na dohodak Grada Varaždinske Toplice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/99/1933",
+   "versions": [
+    {
+     "from": "2005-08-24",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_99_1933.html",
+     "sha256": "d44a8ebb89ecaa89433d67b4fd67b8c094d2622117354d898cd0be3ac1078099"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1986",
+   "path": "odluka/2005/1986",
+   "short": "Odluka o proširenju primjene Kolektivnog ugovora za graditeljstvo - treće izmjene i dopune",
+   "title": "Odluka o proširenju primjene Kolektivnog ugovora za graditeljstvo - treće izmjene i dopune",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/104/1986",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_08_104_1986.html",
+     "sha256": "663ac87025c92c1cc5a55d367c3e5168f1bfea816575a0f5c1202c0d5137ba1d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-199",
+   "path": "odluka/2005/199",
+   "short": "Odluka o izmjeni Odluke o visini dnevnice za službeno putovanje i visini naknade za korisnike koji se financiraju iz sredstava državnog proračuna",
+   "title": "Odluka o izmjeni Odluke o visini dnevnice za službeno putovanje i visini naknade za korisnike koji se financiraju iz sredstava državnog proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/12/199",
+   "versions": [
+    {
+     "from": "2005-01-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_12_199.html",
+     "sha256": "7c0d59bb768313940982ece3c96fbdf56aa86b40b10ace7736d6f19efc0523c7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1991",
+   "path": "odluka/2005/1991",
+   "short": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2005.",
+   "title": "Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/106/1991",
+   "versions": [
+    {
+     "from": "2005-09-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_106_1991.html",
+     "sha256": "9d095e23a86aa577e78cf4ce00832a84f1dc287173751d33fb68cd5d7ca6f6a1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1992",
+   "path": "odluka/2005/1992",
+   "short": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2005.",
+   "title": "Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/106/1992",
+   "versions": [
+    {
+     "from": "2005-09-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_106_1992.html",
+     "sha256": "073322cac6e285e756d80e30fd9435ba6c99b7250ed5fe72f5af0206f2aebe63"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-1993",
+   "path": "odluka/2005/1993",
+   "short": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2005.",
+   "title": "Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2005.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/106/1993",
+   "versions": [
+    {
+     "from": "2005-09-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_106_1993.html",
+     "sha256": "c4dd230e02afdbec4f0547f550b1eb12d7c5a5f15c27db49c9d71218dc307968"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-200",
+   "path": "odluka/2005/200",
+   "short": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sepen",
+   "title": "Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sepen",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/12/200",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_12_200.html",
+     "sha256": "8fdffd1e729e5dc0473d1c818c38d834454374b504c757c9967e9c10eef682f4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2002",
+   "path": "odluka/2005/2002",
+   "short": "Odluka o raspodjeli sredstava za financiranje programa udruga koje njeguju suradnju i prijateljstvo među zemljama u okviru raspoloživih sredstava od igara na sreću osiguranih u Državnom proračunu za 2005. godinu",
+   "title": "Odluka o raspodjeli sredstava za financiranje programa udruga koje njeguju suradnju i prijateljstvo među zemljama u okviru raspoloživih sredstava od igara na sreću osiguranih u Državnom proračunu za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/108/2002",
+   "versions": [
+    {
+     "from": "2005-07-26",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_108_2002.html",
+     "sha256": "9afab30e58002879432093b6341e60f4a5a422778f39996d9a9c519d2cce7f7b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2010",
+   "path": "odluka/2005/2010",
+   "short": "Odluka o osnivanju Stručnog povjerenstva za praćenje epidemiološkog stanja i prevenciju influence ptica (\"Ptičja gripa\")",
+   "title": "Odluka o osnivanju Stručnog povjerenstva za praćenje epidemiološkog stanja i prevenciju influence ptica (\"Ptičja gripa\")",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/109/2010",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_109_2010.html",
+     "sha256": "4f34a1846ec52f4a76f8f1977ce072e813f264cf07c4493f2d2bb70745837b69"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2011",
+   "path": "odluka/2005/2011",
+   "short": "Odluka o osnivanju Povjerenstva za nadzor nad provedbom projekta \"Uvođenje biodizelskog goriva u Republiku Hrvatsku\"",
+   "title": "Odluka o osnivanju Povjerenstva za nadzor nad provedbom projekta \"Uvođenje biodizelskog goriva u Republiku Hrvatsku\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/109/2011",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_109_2011.html",
+     "sha256": "8395bc5878e2ac4185437c901675b918c2400ae51b7342d99bb1ba400602bf20"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2012",
+   "path": "odluka/2005/2012",
+   "short": "Odluka o oduzimanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana",
+   "title": "Odluka o oduzimanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/109/2012",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_109_2012.html",
+     "sha256": "9b1424602b578ca0b0a00b1e9b8d310a2a72e8f47e726289d20c1b4523c9b011"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2013",
+   "path": "odluka/2005/2013",
+   "short": "Odluka o davanju prethodne suglasnosti na Statut Umirovljeničkog fonda",
+   "title": "Odluka o davanju prethodne suglasnosti na Statut Umirovljeničkog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/109/2013",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_109_2013.html",
+     "sha256": "615a4113169d64366a6c6114f5cdad419b85dd5806edf6e0964b772dc1097c45"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2038",
+   "path": "odluka/2005/2038",
+   "short": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Visa, Općinsko vijeće Općine Stari Mikanovci, Općinsko vijeće Općine Stara Gradiška, Općinsko vijeće Općine Dvor, Općinsko vijeće Općine Petlovac i",
+   "title": "Odluka o raspisivanju izbora za Gradsko vijeće Grada Visa, Općinsko vijeće Općine Stari Mikanovci, Općinsko vijeće Općine Stara Gradiška, Općinsko vijeće Općine Dvor, Općinsko vijeće Općine Petlovac i",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2038",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2038.html",
+     "sha256": "1d1dc1d0edac1faeac4a3bd26b4e9700723334c1d9c9ac69914767303c6f401d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2039",
+   "path": "odluka/2005/2039",
+   "short": "Odluka o raspisivanju dopunskih izbora za predstavnike nacionalnih manjina u predstavničkim tijelima jedinica lokalne samouprave",
+   "title": "Odluka o raspisivanju dopunskih izbora za predstavnike nacionalnih manjina u predstavničkim tijelima jedinica lokalne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2039",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2039.html",
+     "sha256": "98964590b5da08be74869e0c95b3be4ee0b025c73762d1de816b9e8005a669b9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2040",
+   "path": "odluka/2005/2040",
+   "short": "Odluka o raspisivanju dopunskih izbora za pripadnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave",
+   "title": "Odluka o raspisivanju dopunskih izbora za pripadnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2040",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2040.html",
+     "sha256": "3c2ddd9da99a9e18e7f77136c1a4a149225a86a68d6a3ea08e8497cfae6c7ed0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2041",
+   "path": "odluka/2005/2041",
+   "short": "Odluka o raspisivanju ponovljenih izbora za predstavnika ukrajinske nacionalne manjine u Gradu Slavonskom Brodu",
+   "title": "Odluka o raspisivanju ponovljenih izbora za predstavnika ukrajinske nacionalne manjine u Gradu Slavonskom Brodu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2041",
+   "versions": [
+    {
+     "from": "2005-09-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2041.html",
+     "sha256": "91c074ec1b003fb6d9c6e95f9e40472caf34b0bd27e9ef8a9d53475710d3dc97"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2042",
+   "path": "odluka/2005/2042",
+   "short": "Odluka o iznosu administrativne pristojbe koja se plaća prilikom korištenja zdravstvene zaštite",
+   "title": "Odluka o iznosu administrativne pristojbe koja se plaća prilikom korištenja zdravstvene zaštite",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2042",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2042.html",
+     "sha256": "c0793999da5cb035bd1f207489fb8100a6a5913c1c458e2b7cbcb497cb4f4863"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2043",
+   "path": "odluka/2005/2043",
+   "short": "Odluka o davanju koncesije za osnivanje slobodne zone Kutina",
+   "title": "Odluka o davanju koncesije za osnivanje slobodne zone Kutina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2043",
+   "versions": [
+    {
+     "from": "2005-09-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2043.html",
+     "sha256": "1d381993d543bb48f89962a0e3ef67cd7ceb8752075a95b13858e5d28bd98dee"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2048",
+   "path": "odluka/2005/2048",
+   "short": "Odluka o plaćanju i naplati u stranim sredstvima plaćanja u zemlji",
+   "title": "Odluka o plaćanju i naplati u stranim sredstvima plaćanja u zemlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2048",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2048.html",
+     "sha256": "4b5edcf0891647c65f81f05383d824093951af9436c51400e14bf9d17d97d04b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2067",
+   "path": "odluka/2005/2067",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/112/2067",
+   "versions": [
+    {
+     "from": "2005-09-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_112_2067.html",
+     "sha256": "05a0f8a2d99b8a33c20624b4adc3be297e9293a677cbbe4be16746c8f647bbd5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2120",
+   "path": "odluka/2005/2120",
+   "short": "Odluka o davanju suglasnosti trgovačkog društva HT - Hrvatskih telekomunikacija d.d., Zagreb na Standardnu ponudu HT - Hrvatskih telekomunikacija d.d. za davanje usluga pristupa Internetu",
+   "title": "Odluka o davanju suglasnosti trgovačkog društva HT - Hrvatskih telekomunikacija d.d., Zagreb na Standardnu ponudu HT - Hrvatskih telekomunikacija d.d. za davanje usluga pristupa Internetu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/116/2120",
+   "versions": [
+    {
+     "from": "2005-08-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_116_2120.html",
+     "sha256": "be7cbb250d9a3fc01e02e1ca4cfec99dd124fd3242f7f7f2d00fbb97936f5b19"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2121",
+   "path": "odluka/2005/2121",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/116/2121",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_116_2121.html",
+     "sha256": "5ea27dd41a70451ed382a006970a4017c1e0166c45fd48308496886da54eba29"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2138",
+   "path": "odluka/2005/2138",
+   "short": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju zdenca izvorske vode (ZG-2) u k.o. Apatovec",
+   "title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju zdenca izvorske vode (ZG-2) u k.o. Apatovec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/117/2138",
+   "versions": [
+    {
+     "from": "2005-10-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_117_2138.html",
+     "sha256": "ea961b75ff3aa6fd5019256a2f448b56c153f15ca31b257231f2bd85782041db"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-216",
+   "path": "odluka/2005/216",
+   "short": "Odluka o puštanju u optjecaj kovanog novca, kuna i lipa s oznakom godine kovanja \"2005\"",
+   "title": "Odluka o puštanju u optjecaj kovanog novca, kuna i lipa s oznakom godine kovanja \"2005\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/13/216",
+   "versions": [
+    {
+     "from": "2005-01-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_13_216.html",
+     "sha256": "835376be8321cc1c3318268efc6d9ab4fa63e6712857c559ab86d9bd81239716"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2191",
+   "path": "odluka/2005/2191",
+   "short": "Odluka kojom postavljam TOMISLAVA VIDOŠEVIĆA za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu. Ova Odluka stupa na snagu 17. listopada 2005. godine.",
+   "title": "Odluka kojom postavljam TOMISLAVA VIDOŠEVIĆA za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu. Ova Odluka stupa na snagu 17. listopada 2005. godine.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2191",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2191.html",
+     "sha256": "5a740e5f60dea38c974ad05236bf7458d5ef55abce1b906e858eec1ca783bcd4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2211",
+   "path": "odluka/2005/2211",
+   "short": "Odluka o dopuni Odluke o oduzimanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana",
+   "title": "Odluka o dopuni Odluke o oduzimanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2211",
+   "versions": [
+    {
+     "from": "2005-09-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2211.html",
+     "sha256": "f19383262bbf56ac5be2e19c06e3f85c1bdfa27c89767833660495829579268f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2212",
+   "path": "odluka/2005/2212",
+   "short": "Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za transfuzijsku medicinu",
+   "title": "Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za transfuzijsku medicinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2212",
+   "versions": [
+    {
+     "from": "2005-10-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2212.html",
+     "sha256": "7f1f11cae05133bdada8c9fde2e877ef1b8b84f25362c5465cf245b8727a9568"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2213",
+   "path": "odluka/2005/2213",
+   "short": "Odluka o izmjeni Odluke o osnivanju Savjeta za mlade",
+   "title": "Odluka o izmjeni Odluke o osnivanju Savjeta za mlade",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2213",
+   "versions": [
+    {
+     "from": "2005-10-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2213.html",
+     "sha256": "8354b2bc4e64750c73fba0c8878466fc5e50014244bc9a8ffd9b91c3443d8212"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2214",
+   "path": "odluka/2005/2214",
+   "short": "Odluka o davanju suglasnosti na Statut Klinike za traumatologiju Zagreb",
+   "title": "Odluka o davanju suglasnosti na Statut Klinike za traumatologiju Zagreb",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2214",
+   "versions": [
+    {
+     "from": "2005-10-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2214.html",
+     "sha256": "92e77c3557e6b17737e34fe5b1eaf50582290637213a052e56c176536cd701c5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2265",
+   "path": "odluka/2005/2265",
+   "short": "Odluka o poništenju odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području grada Vinkovca (G-VK)",
+   "title": "Odluka o poništenju odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području grada Vinkovca (G-VK)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2265",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_121_2265.html",
+     "sha256": "8da1dd9543f78b571824166da3d824ca4934c389b2c11b96574b7907b785bb9c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2266",
+   "path": "odluka/2005/2266",
+   "short": "Odluka o poništenju odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području grada Nina (G-NN)",
+   "title": "Odluka o poništenju odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području grada Nina (G-NN)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2266",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_121_2266.html",
+     "sha256": "7a34e3b480235b317e9ce9471188692d9f93271c61b2fa6b905b091001e418d4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2270",
+   "path": "odluka/2005/2270",
+   "short": "Odluka o dodjeli jednokratne pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od oluje i bure iz studenoga 2004. godine te mraza i nanosa snijega iz veljače 2005. godine",
+   "title": "Odluka o dodjeli jednokratne pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od oluje i bure iz studenoga 2004. godine te mraza i nanosa snijega iz veljače 2005. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2270",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2270.html",
+     "sha256": "7dd1af998323c3a0ad47b7eb87e4cdd68cd963e5f79f605e7b945b90b3118cb7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2280",
+   "path": "odluka/2005/2280",
+   "short": "Odluka o osnivanju Specijalne misije Republike Hrvatske u Republici Iraku, sa sjedištem u Bagdadu",
+   "title": "Odluka o osnivanju Specijalne misije Republike Hrvatske u Republici Iraku, sa sjedištem u Bagdadu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2280",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2280.html",
+     "sha256": "d35a4bf75ef567210cdc2b5c8ffe4ca76226a72928cf1b55257271947c88d1b7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2283",
+   "path": "odluka/2005/2283",
+   "short": "Odluka o obvezi rada ureda državne uprave u dane izbora",
+   "title": "Odluka o obvezi rada ureda državne uprave u dane izbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2283",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2283.html",
+     "sha256": "8e4e53d445946dfb5e9a2868e66ae6ecb14adb710b84d265ae21691515524790"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2284",
+   "path": "odluka/2005/2284",
+   "short": "Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora",
+   "title": "Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2284",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2284.html",
+     "sha256": "480703d4e1fac20860bd8b61879d3e09bd2c3cec8e37bf3bd4dfe8667273f918"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2285",
+   "path": "odluka/2005/2285",
+   "short": "Odluka o određivanju visine naknade troškova izborne promidžbe za dopunske izbore predstavnika nacionalnih manjina i pripadnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave",
+   "title": "Odluka o određivanju visine naknade troškova izborne promidžbe za dopunske izbore predstavnika nacionalnih manjina i pripadnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2285",
+   "versions": [
+    {
+     "from": "2005-10-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2285.html",
+     "sha256": "0c2c6b964ff8a4852d5a4e9a8f4765a84b75391bd48493ff2de17d2d409bee08"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2286",
+   "path": "odluka/2005/2286",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2286",
+   "versions": [
+    {
+     "from": "2005-10-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2286.html",
+     "sha256": "d0dde79cd03b705df401fdcc20742ef1b549fe597e1d9c1f253ef618da5d708f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2298",
+   "path": "odluka/2005/2298",
+   "short": "Odluka o izmjeni i dopuni Odluke o postupku otvaranja i vođenja deviznih računa i deviznih štednih uloga rezidenata u banci",
+   "title": "Odluka o izmjeni i dopuni Odluke o postupku otvaranja i vođenja deviznih računa i deviznih štednih uloga rezidenata u banci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2298",
+   "versions": [
+    {
+     "from": "2005-10-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2298.html",
+     "sha256": "c56bd343a6506b939fca70cd3a7242cabd11fce86d6b5b24421b8e8c6b88887f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2304",
+   "path": "odluka/2005/2304",
+   "short": "Odluka o prirezu porezu na dohodak Općine Pirovac",
+   "title": "Odluka o prirezu porezu na dohodak Općine Pirovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2304",
+   "versions": [
+    {
+     "from": "2005-10-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2304.html",
+     "sha256": "98ca7e8b982351dce59e1632c0b58a3eb59f755ee39e3c55c6e560b889f8acf9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2357",
+   "path": "odluka/2005/2357",
+   "short": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini",
+   "title": "Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2357",
+   "versions": [
+    {
+     "from": "2005-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2357.html",
+     "sha256": "7b08bbc25c35215f54ec0fab84f9a084b5c22d128a6215d234cfc6f4b28a643d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2358",
+   "path": "odluka/2005/2358",
+   "short": "Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2005. godini",
+   "title": "Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2358",
+   "versions": [
+    {
+     "from": "2005-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2358.html",
+     "sha256": "8fdae7bd222ecd2a17dcbcbf15906aa43cd6fc17b9cf65578991db6a54596587"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2359",
+   "path": "odluka/2005/2359",
+   "short": "Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2005. godini",
+   "title": "Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2359",
+   "versions": [
+    {
+     "from": "2005-10-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2359.html",
+     "sha256": "afad3ff6eeba1d751b0b36c84c29551d9f03ec89b1f291bb90d4fe5c4a10e1d7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2360",
+   "path": "odluka/2005/2360",
+   "short": "Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju",
+   "title": "Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2360",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2360.html",
+     "sha256": "aa5eb57e895b8a6bf5d4a7cb641a15fde04f868a87b243423a486710ebda4a65"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2361",
+   "path": "odluka/2005/2361",
+   "short": "Odluka o naknadi štete za perad eutanaziranu provođenjem mjera za sprječavanje širenja influence ptica na području žarišta Ribnjaka \"Grudnjak\"",
+   "title": "Odluka o naknadi štete za perad eutanaziranu provođenjem mjera za sprječavanje širenja influence ptica na području žarišta Ribnjaka \"Grudnjak\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2361",
+   "versions": [
+    {
+     "from": "2005-10-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2361.html",
+     "sha256": "e50f38b829d4829975908a7a443f5537d7c1b0d86b30879388fe5aba552a609b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2390",
+   "path": "odluka/2005/2390",
+   "short": "Odluka o naknadi štete za perad eutanaziranu provođenjem mjera za sprječavanje širenja influence ptica na području žarišta \"Ribnjak 1905\" d.o.o., Našice",
+   "title": "Odluka o naknadi štete za perad eutanaziranu provođenjem mjera za sprječavanje širenja influence ptica na području žarišta \"Ribnjak 1905\" d.o.o., Našice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/129/2390",
+   "versions": [
+    {
+     "from": "2005-10-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_129_2390.html",
+     "sha256": "f33f32784a96d6181f67d2385e992c537c66b77137aff94b7f8987073e028c2a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2394",
+   "path": "odluka/2005/2394",
+   "short": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u znanstveno-nastavna zvanja",
+   "title": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u znanstveno-nastavna zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/129/2394",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_129_2394.html",
+     "sha256": "fd18c083202c8f5c1c03a60ece7485ce3851690cc5abb3240232c18ab2a356b8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2395",
+   "path": "odluka/2005/2395",
+   "short": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja",
+   "title": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/129/2395",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_129_2395.html",
+     "sha256": "95bed0c4fc35d3dda58d50f1bcc8314a07efe8688b3ef3c7817b71e1e72975e9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2396",
+   "path": "odluka/2005/2396",
+   "short": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u umjetničko-nastavna i nastavna zvanja u području umjetnosti",
+   "title": "Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u umjetničko-nastavna i nastavna zvanja u području umjetnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/129/2396",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_129_2396.html",
+     "sha256": "b27407296e73fd7a19112744a8d6c6e62ca2e66d055578dcc502ac5c20622c46"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2417",
+   "path": "odluka/2005/2417",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našica",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/131/2417",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_131_2417.html",
+     "sha256": "11ed4407e5bd9b8cc2c0b71cec14e1aa07bc23fdeb3aa387ae7eda53b451e25a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2418",
+   "path": "odluka/2005/2418",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Feričanci",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Feričanci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/131/2418",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_131_2418.html",
+     "sha256": "d4b4aee46afe358382cc3fdffc66dc577a110a35b9775bffea4866c414bd54c9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2419",
+   "path": "odluka/2005/2419",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Donjeg Miholjca",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Donjeg Miholjca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/131/2419",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_131_2419.html",
+     "sha256": "1ee0f21e1aaec0e744faf8d3759030a25d9a698f21f5816496de5fa16843cc26"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2420",
+   "path": "odluka/2005/2420",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Magadenovac",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Magadenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/131/2420",
+   "versions": [
+    {
+     "from": "2005-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_131_2420.html",
+     "sha256": "645ff7ac41d0c543ed43809ac5af8e1fb78f554f4a1c174f2dd70828105fb26e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2421",
+   "path": "odluka/2005/2421",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/131/2421",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_131_2421.html",
+     "sha256": "f9fd9e844519ba96c041786c98a1cea5c6135df2fee001e1ce0bdc6dae96cff7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2446",
+   "path": "odluka/2005/2446",
+   "short": "Odluka o visini troškova polaganja ispita o stručnoj osposobljenosti za obavljanje djelatnosti javnog cestovnog prijevoza",
+   "title": "Odluka o visini troškova polaganja ispita o stručnoj osposobljenosti za obavljanje djelatnosti javnog cestovnog prijevoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/132/2446",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_132_2446.html",
+     "sha256": "c7a7706bc1a24b36f999feebe22faf6264ed48a1ccccde633e3cb54120632f71"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2552",
+   "path": "odluka/2005/2552",
+   "short": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "title": "Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/136/2552",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_136_2552.html",
+     "sha256": "7c2da19f5c76d72322f410572a46bbe391915188d2f7901962b77d713be2d17c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2553",
+   "path": "odluka/2005/2553",
+   "short": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/136/2553",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_136_2553.html",
+     "sha256": "336c94d501dccd353a45e0432f2b333f8a41e31c912793ffcb4882bdbfd66b51"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2554",
+   "path": "odluka/2005/2554",
+   "short": "Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/136/2554",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_136_2554.html",
+     "sha256": "84f3bf72ece71ffa1cd646d76c67ab8cd18fd3d9ea5dcea0600c03208160a084"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2568",
+   "path": "odluka/2005/2568",
+   "short": "Odluka o osnivanju Odbora za Nagradu za promicanje prava djeteta",
+   "title": "Odluka o osnivanju Odbora za Nagradu za promicanje prava djeteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/137/2568",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_137_2568.html",
+     "sha256": "dabb7e7581dde57ce6446372b01aab471600b49f0edbd7e90f803e17d3c50c15"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2596",
+   "path": "odluka/2005/2596",
+   "short": "Odluka o izmjeni Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Magadenovac",
+   "title": "Odluka o izmjeni Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Magadenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/138/2596",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_138_2596.html",
+     "sha256": "f084100d51030a88f5b622782e9dc41dd690d25a3ccc074f7a865a546e6b2983"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2606",
+   "path": "odluka/2005/2606",
+   "short": "Odluka o prirezu porezu na dohodak Općine Jakovlje",
+   "title": "Odluka o prirezu porezu na dohodak Općine Jakovlje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/138/2606",
+   "versions": [
+    {
+     "from": "2005-12-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_138_2606.html",
+     "sha256": "12edaddffe9e6be21b0b5e326842d4e468172816918d93e095dbc220b80a8f41"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2627",
+   "path": "odluka/2005/2627",
+   "short": "Odluka o sadržaju i postupku davanja Izjave o načinu stjecanja i raspolaganja udjelima u Umirovljeničkom fondu",
+   "title": "Odluka o sadržaju i postupku davanja Izjave o načinu stjecanja i raspolaganja udjelima u Umirovljeničkom fondu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/139/2627",
+   "versions": [
+    {
+     "from": "2005-11-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_139_2627.html",
+     "sha256": "f34381d12ee31f34f17b78c44241dbb3cf6deb159f1014b939cb1eb6a2bb88b5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2641",
+   "path": "odluka/2005/2641",
+   "short": "Zakon o lovstvu",
+   "title": "Zakon o lovstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2641",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 108,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_140_2641.html",
+     "sha256": "796c0dc22b87f662c34c63a14b45a922c100fc3ff364526a2c7720b478e665f7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2642",
+   "path": "odluka/2005/2642",
+   "short": "Zakon o šumama",
+   "title": "Zakon o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2642",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_140_2642.html",
+     "sha256": "7fb48dd1f876f3aa1f597b2b226b6dd5eadee0c16f5f82e70e0a5feb83a60729"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2656",
+   "path": "odluka/2005/2656",
+   "short": "Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Šibenik",
+   "title": "Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Šibenik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/141/2656",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_141_2656.html",
+     "sha256": "813c357b16762754d87955624cd6e534e96bf3cc4b9e0e4b2672badf008d9ece"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2701",
+   "path": "odluka/2005/2701",
+   "short": "Odluka o prirezu porezu na dohodak Grada Đakova",
+   "title": "Odluka o prirezu porezu na dohodak Grada Đakova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/143/2701",
+   "versions": [
+    {
+     "from": "2005-12-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_143_2701.html",
+     "sha256": "030121dd0208b0228e9c82e620ebb62283e3aa52709871ae5ccbed77645adfe4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2720",
+   "path": "odluka/2005/2720",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2006. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2720",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2720.html",
+     "sha256": "7c1e7eb3576e90fcdd3d90733ce2d7f336c5c019a9daca9735a7bb9c3190cac0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2721",
+   "path": "odluka/2005/2721",
+   "short": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2006. godini",
+   "title": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2721",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2721.html",
+     "sha256": "17485f1bfef7ef354fae5e0474fd21e8cc9f45538aaf09f82301909bb2ef397d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2722",
+   "path": "odluka/2005/2722",
+   "short": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2006. godini",
+   "title": "Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2722",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2722.html",
+     "sha256": "50ea30996982ff4dd2c3623a5db1211994a214d9e6df7327d88a65518c62fdfc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2723",
+   "path": "odluka/2005/2723",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2006. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2723",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2723.html",
+     "sha256": "f945fd70959b01a3336b4760e4faf19784b4e80b33bdb39d0396de2170046ee3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2724",
+   "path": "odluka/2005/2724",
+   "short": "Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2006. godini",
+   "title": "Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2724",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2724.html",
+     "sha256": "6c5a2ce82403714daab53572346b003d98cdb6d5816df561cb473b15c8d6ef58"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2725",
+   "path": "odluka/2005/2725",
+   "short": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2006. godini",
+   "title": "Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2725",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2725.html",
+     "sha256": "814f45a200301014096f65d28ff69191caf6e633ebdaf3f2b0f99f193753b0ee"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2726",
+   "path": "odluka/2005/2726",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2726",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2726.html",
+     "sha256": "2b1a6852d547d9773a4c48cba803e03db78cc371850f3e080e05b16807b9ce61"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2733",
+   "path": "odluka/2005/2733",
+   "short": "Odluka o osnivanju Povjerenstva za gospodarske osnove",
+   "title": "Odluka o osnivanju Povjerenstva za gospodarske osnove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2733",
+   "versions": [
+    {
+     "from": "2005-12-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2733.html",
+     "sha256": "6e66f6108fe6d11a7fe2a9c018ac4ba7e66b4423fdd82923e991542acb48008b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2751",
+   "path": "odluka/2005/2751",
+   "short": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2751",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2751.html",
+     "sha256": "75819a80637e2a4d0ada6ae42352a9064fb8268addcc4e02e83350d31069051f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2752",
+   "path": "odluka/2005/2752",
+   "short": "Odluka o graničnoj obveznoj pričuvi",
+   "title": "Odluka o graničnoj obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2752",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2752.html",
+     "sha256": "e7e825cd0212338a11c6becfbc86befd118eedaea7c82b2a921d2848bcc456c2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2754",
+   "path": "odluka/2005/2754",
+   "short": "Odluka o prirezu porezu na dohodak Općine Visoko",
+   "title": "Odluka o prirezu porezu na dohodak Općine Visoko",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2754",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2754.html",
+     "sha256": "ab9f50aa09d64171da0ae6244e7c757eac007f331e6f646a722a4b66b77d2ef2"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2755",
+   "path": "odluka/2005/2755",
+   "short": "Odluka o izmjeni Odluke o prirezu porezu na dohodak Grada Ludbrega",
+   "title": "Odluka o izmjeni Odluke o prirezu porezu na dohodak Grada Ludbrega",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2755",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2755.html",
+     "sha256": "0842a03beda41705d263eb3999f04ad57578971da9520bab923166eaa0980c0f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2756",
+   "path": "odluka/2005/2756",
+   "short": "Odluka o izmjeni Odluke o uvođenju prireza porezu na dohodak Grada Nove Gradiške",
+   "title": "Odluka o izmjeni Odluke o uvođenju prireza porezu na dohodak Grada Nove Gradiške",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2756",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2756.html",
+     "sha256": "b69d813d8d102e23763b78cffb7fd2352fd57d47ca8ed21654a13a70b5679c67"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2795",
+   "path": "odluka/2005/2795",
+   "short": "Odluka o davanju ovlaštenja za donošenje odluke o raspisivanju javnog natječaja za dodjelu koncesija i odluke o dodjeli koncesije",
+   "title": "Odluka o davanju ovlaštenja za donošenje odluke o raspisivanju javnog natječaja za dodjelu koncesija i odluke o dodjeli koncesije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2795",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2795.html",
+     "sha256": "f2a7b698648fba40901f3a23b242cf4df4b628758c97720bd129ecfc60f5591f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2796",
+   "path": "odluka/2005/2796",
+   "short": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.500.000.000,00 kuna",
+   "title": "Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.500.000.000,00 kuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2796",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2796.html",
+     "sha256": "0219895edae7089540a23310f1bbeb3bb8afad481a43c6273a78a55d9f3c52cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2797",
+   "path": "odluka/2005/2797",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2797",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2797.html",
+     "sha256": "a4da4e13e5b476376b1269cc011f5d224e705153893f16e12e60ae25be4ee163"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2802",
+   "path": "odluka/2005/2802",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2802",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2802.html",
+     "sha256": "aefb2c662310f57fd49aa2fa07a8ae329e0ca109a7dd1c3d7ef29de245dc9792"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2803",
+   "path": "odluka/2005/2803",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Nadvođe (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Nadvođe (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2803",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2803.html",
+     "sha256": "5c53653117ca3bc51e1158d1e83996573d19c6fa315acd906447ebadeaeab624"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2804",
+   "path": "odluka/2005/2804",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Radioprema (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Radioprema (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2804",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2804.html",
+     "sha256": "1ca862798df6040f152858c3cc897fc8d6a765f8935c724ea96a2a655dae8fc8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2805",
+   "path": "odluka/2005/2805",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Pomagala za navigaciju (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Pomagala za navigaciju (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2805",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2805.html",
+     "sha256": "581b7ccecd0ca495b6c435e8f586c9523b245a4e87575ea4c88d5709ed77ae83"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2806",
+   "path": "odluka/2005/2806",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Sredstva za spašavanje (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Sredstva za spašavanje (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2806",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2806.html",
+     "sha256": "1ea6fa1aa553e967c1eb0b4d3ded86e9133b5800471a705093592ef29bdb84e9"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2807",
+   "path": "odluka/2005/2807",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Metalni nemetali (2005)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Metalni nemetali (2005)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2807",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2807.html",
+     "sha256": "e7dffbc98c783bd4651d8c5c914fc6ba82709ed4d69490d9c84db43babebe919"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2808",
+   "path": "odluka/2005/2808",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Sigurnosna zaštita broda (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Sigurnosna zaštita broda (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2808",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2808.html",
+     "sha256": "e5cb50af312a4c46ae9f2042c23ecdcd379f0dd509c2453a0b3f6e0e9d2a949f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2809",
+   "path": "odluka/2005/2809",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Protupožarna zaštita (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Protupožarna zaštita (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2809",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2809.html",
+     "sha256": "e2755de1062b28ea243e95900cedc76d0ddfd1b0c3aa3297172734d0893f9b96"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2810",
+   "path": "odluka/2005/2810",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojni uređaj i automatizacija (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojni uređaj i automatizacija (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2810",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2810.html",
+     "sha256": "2428c4ba6bafe26186a7166995226232038f0d90ae572e5b4eab5255f89d8ae0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2811",
+   "path": "odluka/2005/2811",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Cjevovodi (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Cjevovodi (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2811",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2811.html",
+     "sha256": "1bc4fa92defff922ba18c65b7c82df1685ad83c89d31cbd18d812a9d5d2bfce6"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2812",
+   "path": "odluka/2005/2812",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojevi (2006)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojevi (2006)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2812",
+   "versions": [
+    {
+     "from": "2006-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2812.html",
+     "sha256": "4b6e90ba045c227f4ad5b09a55cd1978553c02840b1656b86c83b2ac78388c37"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2820",
+   "path": "odluka/2005/2820",
+   "short": "Odluka o prirezu porezu na dohodak Općine Sibinj",
+   "title": "Odluka o prirezu porezu na dohodak Općine Sibinj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2820",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2820.html",
+     "sha256": "f08df94b6882e9e34581061055db3227d6ed549c0baa7c476badb53fa7761bdc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2821",
+   "path": "odluka/2005/2821",
+   "short": "Odluka o prirezu porezu na dohodak Općine Beretinec",
+   "title": "Odluka o prirezu porezu na dohodak Općine Beretinec",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2821",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2821.html",
+     "sha256": "ed12343f07b4ac9ae4c725011650d12efa6898014034d5855096fd4ba15e3d8f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2822",
+   "path": "odluka/2005/2822",
+   "short": "Odluka o prirezu porezu na dohodak Grada Čazme",
+   "title": "Odluka o prirezu porezu na dohodak Grada Čazme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2822",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2822.html",
+     "sha256": "adf9374224e75e17feecf23fd2e526c80ffb668651a822e69e99f4706c111896"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2844",
+   "path": "odluka/2005/2844",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za mirovinsko osiguranje za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za mirovinsko osiguranje za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2844",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2844.html",
+     "sha256": "fb58cc532942ef4f057e5a9b06f4207b0790867c2019e59593b51550fc10858f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2845",
+   "path": "odluka/2005/2845",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2845",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2845.html",
+     "sha256": "c9bef3c377c0ac5bf94d481fc3913bf4053201e40781eef900ca0d63263b934f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2846",
+   "path": "odluka/2005/2846",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zapošljavanje za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zapošljavanje za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2846",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2846.html",
+     "sha256": "d7b10d19e75b98e956ec807d29422184fae211702a35f91728caa5b8141de021"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2847",
+   "path": "odluka/2005/2847",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2847",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2847.html",
+     "sha256": "1537cf581a742d86407f651c499015d40b3edbcaabfe487ef38843f99261b992"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2848",
+   "path": "odluka/2005/2848",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2848",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2848.html",
+     "sha256": "c4c9f33e513eb2c3b2bb8537b4afe7d0f854fa88c159d78dc5a35487f6e1b551"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2849",
+   "path": "odluka/2005/2849",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2849",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2849.html",
+     "sha256": "aa9f7f6c7e8b3da9ab414d1c08cc77bbf6c7aa20fc52c55864a54a81a78d97ff"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2850",
+   "path": "odluka/2005/2850",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2850",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2850.html",
+     "sha256": "1955b5512e107e49789a7215358ec7442a12757a3eed437d38934a0eca65454a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2851",
+   "path": "odluka/2005/2851",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2851",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2851.html",
+     "sha256": "d4dd3e83a5e2a1331d891fdf9fc4d20ca4bf8625492a9f4972909745da6fbd74"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2852",
+   "path": "odluka/2005/2852",
+   "short": "Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2006. godinu",
+   "title": "Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/148/2852",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_148_2852.html",
+     "sha256": "c9b283c909adf74364289f1f9411cafb387cadd2a45b3508314f3114643def24"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2874",
+   "path": "odluka/2005/2874",
+   "short": "Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i potencijalnih obveza banaka",
+   "title": "Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i potencijalnih obveza banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/149/2874",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_149_2874.html",
+     "sha256": "552624efb453a91f567bba733b287d98a6e773c4234bd86df6c74c97b56ebeea"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2877",
+   "path": "odluka/2005/2877",
+   "short": "Odluka o općinskim porezima Općine Kijevo",
+   "title": "Odluka o općinskim porezima Općine Kijevo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/149/2877",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 59,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_149_2877.html",
+     "sha256": "f9fdb7b0fb75d5a1eaa7926bac7098791d191c594799de792247f77c2b1e8cdc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2917",
+   "path": "odluka/2005/2917",
+   "short": "Odluka o financiranju Hrvatske gospodarske komore u 2006. godini",
+   "title": "Odluka o financiranju Hrvatske gospodarske komore u 2006. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2917",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_150_2917.html",
+     "sha256": "241d3de8e63a0f5bfecebb5848a12d209c6340ff0a7f475dda77cf8f9b6a290e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2918",
+   "path": "odluka/2005/2918",
+   "short": "Odluka o prirezu porezu na dohodak Općine Cestica",
+   "title": "Odluka o prirezu porezu na dohodak Općine Cestica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2918",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_150_2918.html",
+     "sha256": "e1caf4f077ebe87b93ecac4c4bc18d6488bbc9c84bd91ed6f214d52c27b2d94e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2926",
+   "path": "odluka/2005/2926",
+   "short": "Odluka o preraspodjeli sredstava u Financijskom planu Hrvatskih autocesta za 2005. godinu",
+   "title": "Odluka o preraspodjeli sredstava u Financijskom planu Hrvatskih autocesta za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2926",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2926.html",
+     "sha256": "2ab9df69b0bb31b3920f69ba8b36cb82935ab228676c7c630dc33a471c159882"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2927",
+   "path": "odluka/2005/2927",
+   "short": "Odluka o osnivanju trgovačkog društva \"Pleter - usluge\" d.o.o.",
+   "title": "Odluka o osnivanju trgovačkog društva \"Pleter - usluge\" d.o.o.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2927",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2927.html",
+     "sha256": "12696af30945a6d0bd532d6aa00e207e670511c934b54ade550a2aec3b6c5dd1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2928",
+   "path": "odluka/2005/2928",
+   "short": "Odluka o potvrđivanju Odluke o izmjenama i dopunama Statuta Hrvatskog zavoda za zapošljavanje",
+   "title": "Odluka o potvrđivanju Odluke o izmjenama i dopunama Statuta Hrvatskog zavoda za zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2928",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2928.html",
+     "sha256": "af7ed3064ad15fa170c20ae9c5aabd9c894b8d2b5cecfcdefe84843ce18075a1"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2929",
+   "path": "odluka/2005/2929",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kaptol",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kaptol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2929",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2929.html",
+     "sha256": "6cbdf87d24b814bf78e1fafa9cfb3760bf6bcec917135d8925f2c22934a3a52e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2930",
+   "path": "odluka/2005/2930",
+   "short": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Darda",
+   "title": "Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Darda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2930",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2930.html",
+     "sha256": "248280bb668cefce2963d11b4ca3fcdd897322739ceaf2f04cff133ad6320cca"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2931",
+   "path": "odluka/2005/2931",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Velika",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Velika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2931",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2931.html",
+     "sha256": "575617fc9852d895f20cfdf39d98b64f8c2c5e46f7b4bc6df8877c8cec09316e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2932",
+   "path": "odluka/2005/2932",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Požege",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Požege",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2932",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2932.html",
+     "sha256": "0cdd026ddfa69501f753b7a865fb06f316bde495fc79c16f0147d09a496101e3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2933",
+   "path": "odluka/2005/2933",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2933",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2933.html",
+     "sha256": "9555562faa43a853cab09c4a8d396b41db7e3cd48f70530255731827633e8d6b"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2934",
+   "path": "odluka/2005/2934",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2934",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2934.html",
+     "sha256": "8469b21ab96bf9d63d06e588e5393e0aef3cbdd9e7a4d147181934f1dcd33987"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2935",
+   "path": "odluka/2005/2935",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2935",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2935.html",
+     "sha256": "7f7c540ed5e46b78f7eb539e29f820574d9252a69ad5989d87135ed4161d740c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2936",
+   "path": "odluka/2005/2936",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Davor",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Davor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2936",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2936.html",
+     "sha256": "7aa3afd01e8e64e46e1ba24cca7127bb19cf139f265a0046fdd8aaa5be7c75ef"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2937",
+   "path": "odluka/2005/2937",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Erdut",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Erdut",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2937",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2937.html",
+     "sha256": "31703299da80c3d6e61e9ade6e483bd0fed612bde3a6c5c6bbf7708c862f0d30"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2938",
+   "path": "odluka/2005/2938",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2938",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2938.html",
+     "sha256": "3129fb9ac4d91723b500b0a472ea7f19e14ebb1b040f9aac43ec18c1330dc56d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2939",
+   "path": "odluka/2005/2939",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Jakšić",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Jakšić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2939",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2939.html",
+     "sha256": "4e530014ceb3ce8c55214db13202554b63d2faa62fe557f034f2b3423a0a09dd"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2940",
+   "path": "odluka/2005/2940",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2940",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2940.html",
+     "sha256": "e84451b81f8fdb9af27fcc7aefa587b5b0632b27119a1f4f345b38b71973ae04"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2941",
+   "path": "odluka/2005/2941",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Viljevo",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Viljevo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2941",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2941.html",
+     "sha256": "5309cf1f831db0d5e941b7d21ddce63a5ea812102515cbc5c91eaf3a620c0bc8"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2942",
+   "path": "odluka/2005/2942",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našice",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2942",
+   "versions": [
+    {
+     "from": "2005-12-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2942.html",
+     "sha256": "0d0327e9182a5a478a01bd2fc4ce5ca3d9599a3a593f505decefbff8adf07997"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2950",
+   "path": "odluka/2005/2950",
+   "short": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "title": "Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2950",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2950.html",
+     "sha256": "b9bb4872efe7160dbcd5440927b902ac959b734349f272074c573021f8fc1884"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2961",
+   "path": "odluka/2005/2961",
+   "short": "Odluka o izmjeni Odluke o porezima Općine Lupoglav",
+   "title": "Odluka o izmjeni Odluke o porezima Općine Lupoglav",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2961",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2961.html",
+     "sha256": "2d4706a3865ca2ded15c4ab44a38cf174e759c1d66546a2b70048ad6c836aefc"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2978",
+   "path": "odluka/2005/2978",
+   "short": "Odluka o opsegu prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja za 2006. godinu",
+   "title": "Odluka o opsegu prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2978",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_153_2978.html",
+     "sha256": "cfa964a87702320bf89124225676901791fe752dac49ca9aa526475a7ae3e793"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2979",
+   "path": "odluka/2005/2979",
+   "short": "Odluka o utvrđivanju godišnje kvote radnih dozvola za zapošljavanje stranaca za kalendarsku godinu 2006.",
+   "title": "Odluka o utvrđivanju godišnje kvote radnih dozvola za zapošljavanje stranaca za kalendarsku godinu 2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2979",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_153_2979.html",
+     "sha256": "01ce915dfe3ffaf7d55c37b0ebdab49c6eb701aa3492a4b4fdf3ea80f8591411"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2980",
+   "path": "odluka/2005/2980",
+   "short": "Odluka o iznosu tarifa za transport plina za 2006. godinu",
+   "title": "Odluka o iznosu tarifa za transport plina za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2980",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_153_2980.html",
+     "sha256": "f8de3fabaf5ea132179621c138180be795d5ad4af135681d807eb6c917e24d96"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2981",
+   "path": "odluka/2005/2981",
+   "short": "Odluka o davanju suglasnosti na Statut Doma zdravlja Ministarstva unutarnjih poslova Republike Hrvatske",
+   "title": "Odluka o davanju suglasnosti na Statut Doma zdravlja Ministarstva unutarnjih poslova Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2981",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_153_2981.html",
+     "sha256": "7dffe1107a8b2bcd92a663278458c109c45da7338dc68477adf6d0ab3cb3e9e7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2985",
+   "path": "odluka/2005/2985",
+   "short": "Odluka o porezima Općine Jelsa",
+   "title": "Odluka o porezima Općine Jelsa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/153/2985",
+   "versions": [
+    {
+     "from": "2005-12-28",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_153_2985.html",
+     "sha256": "e4c542b7d7292b88170f032fe18552e33c05066533a3895a931f23a5b5542c78"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-2988",
+   "path": "odluka/2005/2988",
+   "short": "Odluka o visini osnovice za izračun plaća korisnika državnog proračuna",
+   "title": "Odluka o visini osnovice za izračun plaća korisnika državnog proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/2988",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_2988.html",
+     "sha256": "83476f6f5ae8ce40ca87f9f265307ad888deb45b6247234abc0bb3a22b1640bb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3013",
+   "path": "odluka/2005/3013",
+   "short": "Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3013",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3013.html",
+     "sha256": "a3f0404d8d40179678ad9d036e3c18e8b9aec81548d81adb096d941c48ad17cb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3014",
+   "path": "odluka/2005/3014",
+   "short": "Odluka o produljenju primjene Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "title": "Odluka o produljenju primjene Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3014",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3014.html",
+     "sha256": "95855d9ef17514c587695618d9f2a6a0aab4d132b31407f8143c2fe99ee4ce7f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3015",
+   "path": "odluka/2005/3015",
+   "short": "Odluka o produljenju primjene Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i optu",
+   "title": "Odluka o produljenju primjene Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i optu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3015",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3015.html",
+     "sha256": "0efc28abfab17f523765ff77ec97aa2cc55eeebb6bf92f9a86f8309ba965b6a3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3019",
+   "path": "odluka/2005/3019",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3019",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3019.html",
+     "sha256": "9f9a94ddecacfebdeef7a39a08f530a926a42b5342bd2ac533e702f1dd7fd799"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3020",
+   "path": "odluka/2005/3020",
+   "short": "Odluka o ukidanju Odluke o utvrđivanju cijene iskaznice zdravstveno osigurane osobe iz osnovnog zdravstvenog osiguranje",
+   "title": "Odluka o ukidanju Odluke o utvrđivanju cijene iskaznice zdravstveno osigurane osobe iz osnovnog zdravstvenog osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3020",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3020.html",
+     "sha256": "846084ba8e129db61d8f211648e4d8c66f8cb6999ea20c3c64a16f1e183a375e"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3021",
+   "path": "odluka/2005/3021",
+   "short": "Odluka o izmjenama i dopunama Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja",
+   "title": "Odluka o izmjenama i dopunama Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3021",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3021.html",
+     "sha256": "88c12cd0bc3528f4978aa3d5ab572338fb5a6676d9686c2af544c8e0dcce8dae"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3022",
+   "path": "odluka/2005/3022",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3022",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3022.html",
+     "sha256": "28bcc34c19bcff9be45d11855c9fde8ab6cabb5a6af10a1f8b5bcebbadc7ffbb"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3025",
+   "path": "odluka/2005/3025",
+   "short": "Odluka o dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3025",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3025.html",
+     "sha256": "7d1a523af05f61bae9d33c515e34c2862ba6c6c63e23a5801b20b99e9833d856"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3029",
+   "path": "odluka/2005/3029",
+   "short": "Odluka o prirezu porezu na dohodak Grada Belišća",
+   "title": "Odluka o prirezu porezu na dohodak Grada Belišća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3029",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3029.html",
+     "sha256": "09f0daec50461cd0aebf1f99976a3c038e0d9f5446977680ae76f8fcaf98e1fa"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-3030",
+   "path": "odluka/2005/3030",
+   "short": "Odluka o prirezu porezu na dohodak Općine Klenovnik",
+   "title": "Odluka o prirezu porezu na dohodak Općine Klenovnik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3030",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3030.html",
+     "sha256": "b3f37ccf3bacf11649810e31b6939ae11a2946de40c34e7f18414b7407c6f01c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-319",
+   "path": "odluka/2005/319",
+   "short": "Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "title": "Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/19/319",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_19_319.html",
+     "sha256": "29a4eb1e195dcf52774de7dda748bb4016a587b6f6dee5ae0e9474a5299b6358"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-338",
+   "path": "odluka/2005/338",
+   "short": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima značajki kakvoće tekućih naftnih goriva propisanih Uredbom o kakvoći tekućih naftnih goriva, kao i najveće dopušteno odstupanje od graničnih vrijednosti utvrđenih ovom Uredbom",
+   "title": "Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima značajki kakvoće tekućih naftnih goriva propisanih Uredbom o kakvoći tekućih naftnih goriva, kao i najveće dopušteno odstupanje od graničnih vrijednosti utvrđenih ovom Uredbom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/20/338",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_20_338.html",
+     "sha256": "af1c19f21377ba85818c7e54d373c1a4a92075ea5a24efc7593699625aed5492"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-339",
+   "path": "odluka/2005/339",
+   "short": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac",
+   "title": "Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/20/339",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_20_339.html",
+     "sha256": "66f092293f5ac4f191b8f05bbb18fd366ad4e869c3905b9f916c9a8989ca84b0"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-365",
+   "path": "odluka/2005/365",
+   "short": "Odluka o tehničkim pravilima Hrvatskog registra brodova za statutarnu certifikaciju brodica i jahti (2005.)",
+   "title": "Odluka o tehničkim pravilima Hrvatskog registra brodova za statutarnu certifikaciju brodica i jahti (2005.)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/20/365",
+   "versions": [
+    {
+     "from": "2005-03-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_20_365.html",
+     "sha256": "66884407c1be1d136e4801fe7fcb21f6fb9df65bed51bf10609a42cd72f8d598"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-399",
+   "path": "odluka/2005/399",
+   "short": "Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi",
+   "title": "Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/22/399",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_22_399.html",
+     "sha256": "ae78cd36467559cd4792dcf1d2c88778f7b5b9143273839ab39208059b503a8a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-400",
+   "path": "odluka/2005/400",
+   "short": "Odluka o izmjeni Odluke o minimalno potrebnim deviznim potraživanjima",
+   "title": "Odluka o izmjeni Odluke o minimalno potrebnim deviznim potraživanjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/22/400",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_22_400.html",
+     "sha256": "a15993b9d768ef096a9f23bb17cd19bf0ef7e7595db727d833b7eb62cc39c799"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-401",
+   "path": "odluka/2005/401",
+   "short": "Odluka o izmjenama i dopunama Odluke o obvezi dostavljanja izvješća \"Neto potraživanja banke od opće države i garancije\"",
+   "title": "Odluka o izmjenama i dopunama Odluke o obvezi dostavljanja izvješća \"Neto potraživanja banke od opće države i garancije\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/22/401",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_22_401.html",
+     "sha256": "5d490469cfbeaa7537d408820d968005127af413fcf07cc331078954063a0f1d"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-426",
+   "path": "odluka/2005/426",
+   "short": "Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilište \"Viktor Lenac\" d.d. Rijeka, sada u stečaju",
+   "title": "Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilište \"Viktor Lenac\" d.d. Rijeka, sada u stečaju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/24/426",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_24_426.html",
+     "sha256": "01fcd47e18c69e9b766aa74721538b68ae095df53ba9712cac4d24dc836475ae"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-439",
+   "path": "odluka/2005/439",
+   "short": "Odluka o davanju suglasnosti na Statut Klinike za plućne bolesti \"Jordanovac\"",
+   "title": "Odluka o davanju suglasnosti na Statut Klinike za plućne bolesti \"Jordanovac\"",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/26/439",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_26_439.html",
+     "sha256": "87f099a1dcd1731ac3c2e0d67b8cbd2c38ef9d332b3e553bdcca8e2451fd6fd3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-440",
+   "path": "odluka/2005/440",
+   "short": "Odluka o davanju suglasnosti na Statut Sveučilišne klinike za dijabetes, endokrinologiju i bolesti metabolizma Vuk Vrhovac",
+   "title": "Odluka o davanju suglasnosti na Statut Sveučilišne klinike za dijabetes, endokrinologiju i bolesti metabolizma Vuk Vrhovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/26/440",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_26_440.html",
+     "sha256": "6b9c6eb1f51d27b0c138a95c3f52751a3f205aca6eb972b46a796c5044663143"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-484",
+   "path": "odluka/2005/484",
+   "short": "Odluka o davanju suglasnosti na Statut Agencije za znanost i visoko obrazovanje",
+   "title": "Odluka o davanju suglasnosti na Statut Agencije za znanost i visoko obrazovanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/484",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_484.html",
+     "sha256": "121fae70096836d3589b5694346ac3f97fa2f0a2707cadbbf612eeffe369cef7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-49",
+   "path": "odluka/2005/49",
+   "short": "Odluka o izmjeni Odluke o načinu naplate troškova zdravstvene zaštite koje osobno snosi stranac",
+   "title": "Odluka o izmjeni Odluke o načinu naplate troškova zdravstvene zaštite koje osobno snosi stranac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/3/49",
+   "versions": [
+    {
+     "from": "2005-01-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_3_49.html",
+     "sha256": "cbd6c7e9ccd9752e066e5afb70c24b9c5c37d32e8d95bfea201ee8803ba26e39"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-515",
+   "path": "odluka/2005/515",
+   "short": "Odluka o referentnom prinosu obveznih mirovinskih fondova u 2004. godini",
+   "title": "Odluka o referentnom prinosu obveznih mirovinskih fondova u 2004. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/515",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_515.html",
+     "sha256": "35bdd78392eb27ce7d14b373c5e8cceaed2a4bba45df5d425edafefb27fb8b75"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-529",
+   "path": "odluka/2005/529",
+   "short": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "title": "Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/529",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_529.html",
+     "sha256": "ebd9c6c96c95757eb7637948e7143fffaaaba60c1a00b38334d95a83c11ccbe7"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-531",
+   "path": "odluka/2005/531",
+   "short": "Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za suzbijanje HIV/AIDS-a",
+   "title": "Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za suzbijanje HIV/AIDS-a",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/531",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_531.html",
+     "sha256": "7acb221b46721017a3658493bb423b8e76ac766317d76549ae14dc88149c3a5c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-532",
+   "path": "odluka/2005/532",
+   "short": "Odluka o davanju suglasnosti za izmjenu Statuta Agencije za plovne putove unutarnjih voda",
+   "title": "Odluka o davanju suglasnosti za izmjenu Statuta Agencije za plovne putove unutarnjih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/532",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_532.html",
+     "sha256": "393722883b7670746d9420347dc6efd1aeafc60b00f7148bb9040093eb4803a4"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-541",
+   "path": "odluka/2005/541",
+   "short": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/541",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_541.html",
+     "sha256": "709b57aade20d44e63690329ebebb52a2b0931acbed1e7ae11fda9bfa7cc893c"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-545",
+   "path": "odluka/2005/545",
+   "short": "Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "title": "Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/545",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_545.html",
+     "sha256": "21e371ece88a21d06d113cb8982629d4b7370b6f2ef1bc6e4bb5fc3b56ca8f54"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-546",
+   "path": "odluka/2005/546",
+   "short": "Odluka o izmjeni i dopuni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu",
+   "title": "Odluka o izmjeni i dopuni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/546",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_546.html",
+     "sha256": "8bb7a67fef1b18cd39893b37e5368c34b40d17b85a83a444f2233a338b860e5a"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-549",
+   "path": "odluka/2005/549",
+   "short": "Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi sa zaključenim ugovorima između državnih tijela i tvrtki u vlasništvu ili djelomičnom vlasništvu dužnosnika",
+   "title": "Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi sa zaključenim ugovorima između državnih tijela i tvrtki u vlasništvu ili djelomičnom vlasništvu dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/31/549",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_31_549.html",
+     "sha256": "9af9baf3ce1a3b1595b23bf87d832c2e20bdf53b2ed61ff24fe526aa04891b5f"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-550",
+   "path": "odluka/2005/550",
+   "short": "Odluka o utvrđivanju naknade za rad članovima Povjerenstva za odlučivanje o sukobu interesa koji nisu iz reda zastupnika",
+   "title": "Odluka o utvrđivanju naknade za rad članovima Povjerenstva za odlučivanje o sukobu interesa koji nisu iz reda zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/31/550",
+   "versions": [
+    {
+     "from": "2005-02-25",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_31_550.html",
+     "sha256": "753ff6e5386a6e88d50cf0639c1862c0e21488b2b5ae3f46ec3c5c13a9c21fe5"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-581",
+   "path": "odluka/2005/581",
+   "short": "Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2005. godinu (NN br. 171/2004) u Razdjelu 020 Vlada Republike Hrvatske, Glavi 21 Aktivnost: 3811: Tekuće donacije u n",
+   "title": "Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2005. godinu (NN br. 171/2004) u Razdjelu 020 Vlada Republike Hrvatske, Glavi 21 Aktivnost: 3811: Tekuće donacije u n",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/31/581",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_31_581.html",
+     "sha256": "1569df5173467240e1bae3079c374eb7bfefc52f6af7895b77175e08f9170ba3"
+    }
+   ]
+  },
+  {
+   "slug": "odluka-2005-604",
+   "path": "odluka/2005/604",
+   "short": "Odluka o davanju suglasnosti na izmjene lučkog područja Lučke uprave Pula",
+   "title": "Odluka o davanju suglasnosti na izmjene lučkog područja Lučke uprave Pula",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/604",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_604.html",
+     "sha256": "541807c9f74a8e910d65996aeaa19a0f9626e0797db5594b391b1905eb45d73f"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2006-2821",
    "path": "naputak/2006/2821",
    "short": "Naputak za provedbu prava članova obitelji zatočenog ili nestalog pripadnika Hrvatskog vijeća obrane i provedbu prava iz članka 6. Ugovora između Republike Hrvatske i Bosne i Hercegovine o suradnji na području prava stradalnika rata u Bosni i Hercegovini koji su bili pripadnici Hrvatskog vijeća obrane i članova njihovih obitelji",
@@ -4498,6 +8533,471 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_44_1124.html",
      "sha256": "2ca28e03a091537d0dccc6ad12a18c0697738c990a0b0ade3dcf3a34e415c6fd"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-1208",
+   "path": "naredba/2010/1208",
+   "short": "Naredba o izmjenama Naredbe o broju povlastica, količini i vrsti ulova i visini iznosa naknade za obavljanje gospodarskog ribolova",
+   "title": "Naredba o izmjenama Naredbe o broju povlastica, količini i vrsti ulova i visini iznosa naknade za obavljanje gospodarskog ribolova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/50/1208",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_50_1208.html",
+     "sha256": "b31ae27f7d7b8eba3f39762c9e4e7496a62600dd73089b87f778b1619151db4f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-1225",
+   "path": "naredba/2010/1225",
+   "short": "Naredba o izmjeni Naredbe o zaštiti riba i drugih morskih organizama",
+   "title": "Naredba o izmjeni Naredbe o zaštiti riba i drugih morskih organizama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/51/1225",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_04_51_1225.html",
+     "sha256": "acdf42edbf3dd5f7279a8d0ef7a2423efab0ebcbd6d5f2be121411c3217dfd4b"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-128",
+   "path": "naredba/2010/128",
+   "short": "Naredbe o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2010. godinu",
+   "title": "Naredbe o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2010. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/5/128",
+   "versions": [
+    {
+     "from": "2010-01-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_5_128.html",
+     "sha256": "b38475ac0eeea88263026060f2a5f532bc302bd8fc0ae40d69df47709eaab97c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-131",
+   "path": "naredba/2010/131",
+   "short": "Naredba o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz u Republičku Hrvatsku živih, smrznutih ili prerađenih školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvod ribarstva za prehranu ljudi",
+   "title": "Naredba o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz u Republičku Hrvatsku živih, smrznutih ili prerađenih školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvod ribarstva za prehranu ljudi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/5/131",
+   "versions": [
+    {
+     "from": "2010-01-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_5_131.html",
+     "sha256": "dfe8a4f370279fd7a354af0c0074d0c488f052571520eca177aa336d6ce084a3"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-1325",
+   "path": "naredba/2010/1325",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja afričke svinjske kuge",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja afričke svinjske kuge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/55/1325",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_05_55_1325.html",
+     "sha256": "a4580eff44724d8036961584fdc64ffce5ae624c53d87479b2a75e883f7e746d"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-150",
+   "path": "naredba/2010/150",
+   "short": "Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini",
+   "title": "Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/7/150",
+   "versions": [
+    {
+     "from": "2010-01-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_7_150.html",
+     "sha256": "4eef7c5ec5c928e5f198320469de189ef60e1ffc6508e7bab82904c700b0a4f6"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-187",
+   "path": "naredba/2010/187",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugi javnih potreba u 2010. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugi javnih potreba u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/9/187",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_01_9_187.html",
+     "sha256": "4db662d371dec04f77f300097c4e42f07d449a41e55766eb7862c368ad34c114"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-1945",
+   "path": "naredba/2010/1945",
+   "short": "Naredba o zabrani prometa sredstvima za zaštitu bilja koja sadrže aktivnu tvar tolilfluanid",
+   "title": "Naredba o zabrani prometa sredstvima za zaštitu bilja koja sadrže aktivnu tvar tolilfluanid",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/60/1945",
+   "versions": [
+    {
+     "from": "2010-05-13",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_05_60_1945.html",
+     "sha256": "217d8c03830a32a8e97f37b18f7b1c88cdb94eb19c97f277ecd28a72c08ee928"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-1971",
+   "path": "naredba/2010/1971",
+   "short": "Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku",
+   "title": "Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/61/1971",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_05_61_1971.html",
+     "sha256": "be3a8f7998390e7a7b22e377e4d5e57a2490ab9b55b0d2a7986217f8bbbfd6dc"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2055",
+   "path": "naredba/2010/2055",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/66/2055",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_05_66_2055.html",
+     "sha256": "7f544cc726cebaf4fe869b50ee02fdb26b7c61785121cc73890ef7d06824f7c9"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2082",
+   "path": "naredba/2010/2082",
+   "short": "Naredba o izmjenama i dopunama Naredbe o najvećoj dopuštenoj visini naknade za usluge peljarenja u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske",
+   "title": "Naredba o izmjenama i dopunama Naredbe o najvećoj dopuštenoj visini naknade za usluge peljarenja u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/68/2082",
+   "versions": [
+    {
+     "from": "2010-06-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_06_68_2082.html",
+     "sha256": "3a8d53956f4efb3d0db9f4ee47ee9dfef9dd0dc05a14b3e5925b3fdb4fd3764c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2175",
+   "path": "naredba/2010/2175",
+   "short": "Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku",
+   "title": "Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/73/2175",
+   "versions": [
+    {
+     "from": "2010-06-14",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_06_73_2175.html",
+     "sha256": "3ede24a8734f2f6bb0da5c325cd33979e51a05228c22d17456e327f9300b0c3f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2341",
+   "path": "naredba/2010/2341",
+   "short": "Naredba kojom se zabranjuje primjena na farmskim životinjama određenih tvari hormonskog i tireostatskog učinka i beta-agonista",
+   "title": "Naredba kojom se zabranjuje primjena na farmskim životinjama određenih tvari hormonskog i tireostatskog učinka i beta-agonista",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/82/2341",
+   "versions": [
+    {
+     "from": "2010-07-09",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_82_2341.html",
+     "sha256": "38ea5cf37e007d099d7fc045847c6dc69cd17ddca40956b5742979d271b202bd"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2368",
+   "path": "naredba/2010/2368",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/83/2368",
+   "versions": [
+    {
+     "from": "2010-07-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_83_2368.html",
+     "sha256": "bb1b3ce97a88bb24593c56960177d47eebc70f666835d1e8bcef5ddeb277129c"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2527",
+   "path": "naredba/2010/2527",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2527",
+   "versions": [
+    {
+     "from": "2010-07-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2527.html",
+     "sha256": "ad4c56672cb15a0b0df9b643efc15de4a06b7b6ea90a60754fe1de06cae7af4f"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2534",
+   "path": "naredba/2010/2534",
+   "short": "Naredba o standardnim operativnim postupcima za dodjelu i presađivanje očnih tkivnih presadaka",
+   "title": "Naredba o standardnim operativnim postupcima za dodjelu i presađivanje očnih tkivnih presadaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/89/2534",
+   "versions": [
+    {
+     "from": "2010-07-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_07_89_2534.html",
+     "sha256": "d1223b9dd62872a90a094cc6c81df5e5b5d1e4311d1cfe04083711669a439c26"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2728",
+   "path": "naredba/2010/2728",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/97/2728",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_08_97_2728.html",
+     "sha256": "e4e9b504a6556c1015bea0e6c532be71062b48899969dbf32b8eb99da7dea83d"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-2851",
+   "path": "naredba/2010/2851",
+   "short": "Naredba o popisu zemalja, njihovih područja ili dijelova iz kojih je dozvoljen uvoz i provoz određenih vrsta živih životinja",
+   "title": "Naredba o popisu zemalja, njihovih područja ili dijelova iz kojih je dozvoljen uvoz i provoz određenih vrsta živih životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/106/2851",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_09_106_2851.html",
+     "sha256": "9cf81c5643a4a439e464be8b471d474b379f3cb610e73867d39d413fb1d5002d"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-3120",
+   "path": "naredba/2010/3120",
+   "short": "Naredba o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz u Republiku Hrvatsku živih, smrznutih ili prerađenih školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvoda ribarstva za prehranu ljudi",
+   "title": "Naredba o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz u Republiku Hrvatsku živih, smrznutih ili prerađenih školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvoda ribarstva za prehranu ljudi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/120/3120",
+   "versions": [
+    {
+     "from": "2010-10-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_120_3120.html",
+     "sha256": "556cfecc106c225591c5e7e8882f45dd35238b34fc35db594474ef0b7b7792d5"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-3152",
+   "path": "naredba/2010/3152",
+   "short": "Naredba o vremenu otvorenosti aerodroma",
+   "title": "Naredba o vremenu otvorenosti aerodroma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/121/3152",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_10_121_3152.html",
+     "sha256": "aeb0de50a79c544ba798d981fc9c5f96e082613ecd13e6020def9be1c179b312"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-3225",
+   "path": "naredba/2010/3225",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/124/3225",
+   "versions": [
+    {
+     "from": "2010-11-08",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_11_124_3225.html",
+     "sha256": "c80ff7354cc468642a93a0598381e3a86096b1f124b3361012c3d05478fc9f0b"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-3456",
+   "path": "naredba/2010/3456",
+   "short": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2011. godinu",
+   "title": "Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2011. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/133/3456",
+   "versions": [
+    {
+     "from": "2010-12-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_133_3456.html",
+     "sha256": "5a48a3bffcf56e7c1b6ea38ab10b1784eedc5102f34351718960584f8d9b091b"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-3621",
+   "path": "naredba/2010/3621",
+   "short": "Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2011. godinu",
+   "title": "Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2011. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/143/3621",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_143_3621.html",
+     "sha256": "0f2065621b78f3fcbcc8331a81d767de6d2260756f37f3fee3606acc8e15b489"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-3684",
+   "path": "naredba/2010/3684",
+   "short": "Naredba o dopuni Naredbe o zaštiti riba i drugih morskih organizama",
+   "title": "Naredba o dopuni Naredbe o zaštiti riba i drugih morskih organizama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/145/3684",
+   "versions": [
+    {
+     "from": "2010-12-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_12_145_3684.html",
+     "sha256": "ac08eebaa0f665c316a2da091cc78e8d80dd73ec8cebbef7d3dfc48786c57f21"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-547",
+   "path": "naredba/2010/547",
+   "short": "Naredba o popisu trećih zemalja iz kojih je dozvoljen uvoz određenih mesnih proizvoda, obrađenih želudaca, mjehura i crijeva za prehranu ljudi",
+   "title": "Naredba o popisu trećih zemalja iz kojih je dozvoljen uvoz određenih mesnih proizvoda, obrađenih želudaca, mjehura i crijeva za prehranu ljudi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/22/547",
+   "versions": [
+    {
+     "from": "2010-02-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_22_547.html",
+     "sha256": "1dd6e421827cdf74dc3d4f9bb88e95b8fc04816446d10534e7ba2fe6ecea0389"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-570",
+   "path": "naredba/2010/570",
+   "short": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti",
+   "title": "Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/23/570",
+   "versions": [
+    {
+     "from": "2010-02-19",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_02_23_570.html",
+     "sha256": "9166a7346611775c7511a2c1e03338225dc2a2b87aa1d7b48fb4c68de0a60ad0"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-676",
+   "path": "naredba/2010/676",
+   "short": "Naredba o obveznom pregledu mesa svinja na prisutnost oblića roda trichinella kod klanja za osobnu uporabu u kućanstvu",
+   "title": "Naredba o obveznom pregledu mesa svinja na prisutnost oblića roda trichinella kod klanja za osobnu uporabu u kućanstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/28/676",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_28_676.html",
+     "sha256": "31a919aea25f9e8178576c2538b3ef6a9a0aeae2b86e7283434d695279a5c338"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-855",
+   "path": "naredba/2010/855",
+   "short": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/855",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_855.html",
+     "sha256": "c47144f8a0feb2d8e711402beac2f3cbdafc194e4bba38cfe016794d87aade53"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-860",
+   "path": "naredba/2010/860",
+   "short": "Naredba o izmjeni i dopuni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini",
+   "title": "Naredba o izmjeni i dopuni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/33/860",
+   "versions": [
+    {
+     "from": "2010-03-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_33_860.html",
+     "sha256": "92568e2d0ff8d1ff40b066e824fa7cb4dbc3af8ece4f13b724ca02f70bb589ad"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-882",
+   "path": "naredba/2010/882",
+   "short": "Naredba o zabrani prometa sredstvima za zaštitu bilja koja sadrže aktivne tvari bifentrin, dinokap, fenarimol i procimidon",
+   "title": "Naredba o zabrani prometa sredstvima za zaštitu bilja koja sadrže aktivne tvari bifentrin, dinokap, fenarimol i procimidon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/34/882",
+   "versions": [
+    {
+     "from": "2010-03-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_34_882.html",
+     "sha256": "2de20978713581b52f283d62787abf854c170f0277d4d51c166cd9c823c95f7b"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2010-954",
+   "path": "naredba/2010/954",
+   "short": "Naredba o izmjeni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini",
+   "title": "Naredba o izmjeni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/37/954",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2010_03_37_954.html",
+     "sha256": "97263ca429c66e9a5faa874c4500e8ca7db03ec83787d2c8cc010ae16b07417f"
     }
    ]
   },

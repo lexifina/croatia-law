@@ -1,6 +1,6 @@
 # Every act in this repository
 
-20139 acts, 20,565 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+20439 acts, 20,865 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (159, of which 23 amending acts)
 
@@ -166,7 +166,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (720, of which 120 amending acts)
+## naredba (751, of which 128 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -560,9 +560,40 @@
 | Naredba o iznosima osnovaca za obračun doprinosa za obvezna osiguranja za 2010. godinu | [`naredba/2009/3445/`](naredba/2009/3445/) | in force | 1 | 2009-11-27 | 2009-11-27 |
 | Naredba o mjerama za sprječavanje pojave, rano otkrivanje i kontrolu novog virusa influence A podtip H1N1 (2009) u uzgojima svinja | [`naredba/2009/3667/`](naredba/2009/3667/) | cited later, not consolidated | 1 | 2009-12-16 | 2009-12-16 |
 | Naredba o posebnim mjerama za uvoz proizvoda životunjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku | [`naredba/2010/10/`](naredba/2010/10/) | cited later, not consolidated | 1 | 2010-01-04 | 2010-01-04 |
+| Naredbe o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2010. godinu | [`naredba/2010/128/`](naredba/2010/128/) | amended, not consolidated | 1 | 2010-01-11 | 2010-01-11 |
+| Naredba o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz u Republičku Hrvatsku živih, smrznutih ili prerađenih školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvod ribarstva za prehranu ljudi | [`naredba/2010/131/`](naredba/2010/131/) | repealed, not consolidated | 1 | 2010-01-11 | 2010-01-11 |
+| Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini | [`naredba/2010/150/`](naredba/2010/150/) | repealed, not consolidated | 1 | 2010-01-13 | 2010-01-13 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugi javnih potreba u 2010. godini | [`naredba/2010/187/`](naredba/2010/187/) | amending act | 1 | 2010-01-18 | 2010-01-18 |
+| Naredba o popisu trećih zemalja iz kojih je dozvoljen uvoz određenih mesnih proizvoda, obrađenih želudaca, mjehura i crijeva za prehranu ljudi | [`naredba/2010/547/`](naredba/2010/547/) | repealed, not consolidated | 1 | 2010-02-17 | 2010-02-17 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti | [`naredba/2010/570/`](naredba/2010/570/) | repealed, not consolidated | 1 | 2010-02-19 | 2010-02-19 |
+| Naredba o obveznom pregledu mesa svinja na prisutnost oblića roda trichinella kod klanja za osobnu uporabu u kućanstvu | [`naredba/2010/676/`](naredba/2010/676/) | in force | 1 | 2010-03-03 | 2010-03-03 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini | [`naredba/2010/855/`](naredba/2010/855/) | amending act | 1 | 2010-03-17 | 2010-03-17 |
+| Naredba o izmjeni i dopuni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini | [`naredba/2010/860/`](naredba/2010/860/) | amending act | 1 | 2010-03-17 | 2010-03-17 |
+| Naredba o zabrani prometa sredstvima za zaštitu bilja koja sadrže aktivne tvari bifentrin, dinokap, fenarimol i procimidon | [`naredba/2010/882/`](naredba/2010/882/) | in force | 1 | 2010-03-27 | 2010-03-27 |
+| Naredba o izmjeni Naredbe o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2010. godini | [`naredba/2010/954/`](naredba/2010/954/) | in force | 1 | 2010-03-26 | 2010-03-26 |
 | Naredba o prestanku važenja Naredbe o popisu zemalja iz kojih je dozvoljen uvoz određenih mesnih proizvoda, obrađenih želudaca, mjehura i crijeva za prehranu ljudi iz trećih zemalja u Republiku Hrvatsku | [`naredba/2010/1027/`](naredba/2010/1027/) | in force | 1 | 2010-04-02 | 2010-04-02 |
 | Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi iz pojedinih zemalja članica EU radi sprječavanja unošenja influence ptica | [`naredba/2010/1060/`](naredba/2010/1060/) | in force | 1 | 2010-04-07 | 2010-04-07 |
 | Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini | [`naredba/2010/1124/`](naredba/2010/1124/) | amending act | 1 | 2010-04-14 | 2010-04-14 |
+| Naredba o izmjenama Naredbe o broju povlastica, količini i vrsti ulova i visini iznosa naknade za obavljanje gospodarskog ribolova | [`naredba/2010/1208/`](naredba/2010/1208/) | in force | 1 | 2010-05-01 | 2010-05-01 |
+| Naredba o izmjeni Naredbe o zaštiti riba i drugih morskih organizama | [`naredba/2010/1225/`](naredba/2010/1225/) | in force | 1 | 2010-04-26 | 2010-04-26 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske domaćih i divljih svinja i njihovih proizvoda radi sprječavanja unošenja afričke svinjske kuge | [`naredba/2010/1325/`](naredba/2010/1325/) | repealed, not consolidated | 1 | 2010-05-05 | 2010-05-05 |
+| Naredba o zabrani prometa sredstvima za zaštitu bilja koja sadrže aktivnu tvar tolilfluanid | [`naredba/2010/1945/`](naredba/2010/1945/) | in force | 1 | 2010-05-13 | 2010-05-13 |
+| Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku | [`naredba/2010/1971/`](naredba/2010/1971/) | replaced, not consolidated | 1 | 2010-05-19 | 2010-05-19 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja u Republiku Hrvatsku Newcastleske bolesti | [`naredba/2010/2055/`](naredba/2010/2055/) | repealed, not consolidated | 1 | 2010-05-28 | 2010-05-28 |
+| Naredba o izmjenama i dopunama Naredbe o najvećoj dopuštenoj visini naknade za usluge peljarenja u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske | [`naredba/2010/2082/`](naredba/2010/2082/) | amending act | 1 | 2010-06-10 | 2010-06-10 |
+| Naredba o posebnim mjerama za uvoz proizvoda životinjskog podrijetla iz određenih trećih zemalja u Republiku Hrvatsku | [`naredba/2010/2175/`](naredba/2010/2175/) | repealed, not consolidated | 1 | 2010-06-14 | 2010-06-14 |
+| Naredba kojom se zabranjuje primjena na farmskim životinjama određenih tvari hormonskog i tireostatskog učinka i beta-agonista | [`naredba/2010/2341/`](naredba/2010/2341/) | amended, not consolidated | 1 | 2010-07-09 | 2010-07-09 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini | [`naredba/2010/2368/`](naredba/2010/2368/) | amending act | 1 | 2010-07-05 | 2010-07-05 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini | [`naredba/2010/2527/`](naredba/2010/2527/) | amending act | 1 | 2010-07-19 | 2010-07-19 |
+| Naredba o standardnim operativnim postupcima za dodjelu i presađivanje očnih tkivnih presadaka | [`naredba/2010/2534/`](naredba/2010/2534/) | cited later, not consolidated | 1 | 2010-07-27 | 2010-07-27 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko područja Republike Hrvatske peradi i proizvoda od peradi radi sprječavanja unošenja influence ptica | [`naredba/2010/2728/`](naredba/2010/2728/) | repealed, not consolidated | 1 | 2010-08-11 | 2010-08-11 |
+| Naredba o popisu zemalja, njihovih područja ili dijelova iz kojih je dozvoljen uvoz i provoz određenih vrsta živih životinja | [`naredba/2010/2851/`](naredba/2010/2851/) | in force | 1 | 2010-09-08 | 2010-09-08 |
+| Naredba o popisu trećih zemalja i područja iz kojih je dozvoljen uvoz u Republiku Hrvatsku živih, smrznutih ili prerađenih školjkaša, bodljikaša, plaštenjaka, morskih puževa i proizvoda ribarstva za prehranu ljudi | [`naredba/2010/3120/`](naredba/2010/3120/) | repealed, not consolidated | 1 | 2010-10-27 | 2010-10-27 |
+| Naredba o vremenu otvorenosti aerodroma | [`naredba/2010/3152/`](naredba/2010/3152/) | amended, not consolidated | 1 | 2010-10-28 | 2010-10-28 |
+| Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2010. godini | [`naredba/2010/3225/`](naredba/2010/3225/) | amending act | 1 | 2010-11-08 | 2010-11-08 |
+| Naredba o iznosima osnovica za obračun doprinosa za obvezna osiguranja za 2011. godinu | [`naredba/2010/3456/`](naredba/2010/3456/) | in force | 1 | 2010-12-01 | 2010-12-01 |
+| Naredba o mjesečnoj osnovici za obračun doprinosa za obvezna osiguranja člana posade broda u međunarodnoj plovidbi za 2011. godinu | [`naredba/2010/3621/`](naredba/2010/3621/) | amended, not consolidated | 1 | 2010-12-20 | 2010-12-20 |
+| Naredba o dopuni Naredbe o zaštiti riba i drugih morskih organizama | [`naredba/2010/3684/`](naredba/2010/3684/) | amending act | 1 | 2010-12-24 | 2010-12-24 |
 | Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 2011. godini | [`naredba/2011/2/`](naredba/2011/2/) | repealed, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
 | Naredba o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2011. godini | [`naredba/2011/32/`](naredba/2011/32/) | amended, not consolidated | 1 | 2011-01-12 | 2011-01-12 |
 | Naredba o izmjeni i dopuni Naredbe o popisu zemalja iz kojih je dozvoljen uvoz određenih mesnih proizvoda, određenih želudaca, mjehura i crijeva za prehranu ljudi iz trećih zemalja u Republiku Hrvatsku | [`naredba/2011/102/`](naredba/2011/102/) | amending act | 1 | 2011-01-14 | 2011-01-14 |
@@ -891,7 +922,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (9404, of which 1166 amending acts)
+## odluka (9673, of which 1198 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -3009,6 +3040,275 @@
 | Odluka o obvezi rada županijskih ureda i Gradskog ureda Grada Zagreba za opću upravu na dane 2. i 3. siječnja 2000. godine | [`odluka/1999/2279/`](odluka/1999/2279/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za telekomunikacije | [`odluka/1999/2280/`](odluka/1999/2280/) | in force | 1 | 1999-12-30 | 1999-12-30 |
 | Odluka Ministarstva obrane Urbroj: 512-01-99-2002 od 20. prosinca 1999. | [`odluka/1999/2284/`](odluka/1999/2284/) | in force | 1 | 1999-12-31 | 1999-12-31 |
+| Odluka o visini i načinu korištenja naknade koju plaćaju davatelji univerzalnih poštanskih usluga iz prihoda ostvarenog u prethodnoj godini | [`odluka/2005/14/`](odluka/2005/14/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Odluka o izmjeni Odluke o načinu naplate troškova zdravstvene zaštite koje osobno snosi stranac | [`odluka/2005/49/`](odluka/2005/49/) | in force | 1 | 2005-01-13 | 2005-01-13 |
+| Odluka o obvezi rada ureda državne uprave na dan izbora | [`odluka/2005/130/`](odluka/2005/130/) | replaced, not consolidated | 1 | 2005-01-13 | 2005-01-13 |
+| Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora | [`odluka/2005/131/`](odluka/2005/131/) | replaced, not consolidated | 1 | 2005-01-13 | 2005-01-13 |
+| Odluka o sudjelovanju Republike Hrvatske u doplati sredstava Međunarodnog udruženja za razvoj | [`odluka/2005/157/`](odluka/2005/157/) | in force | 1 | 2005-01-27 | 2005-01-27 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Zagreba | [`odluka/2005/158/`](odluka/2005/158/) | in force | 1 | 2005-01-13 | 2005-01-13 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac | [`odluka/2005/159/`](odluka/2005/159/) | in force | 1 | 2005-01-13 | 2005-01-13 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Gradina | [`odluka/2005/160/`](odluka/2005/160/) | replaced, not consolidated | 1 | 2005-01-13 | 2005-01-13 |
+| Odluka o izmjenama i dopunama Odluke o Jedinstvenom registru računa poslovnih subjekata | [`odluka/2005/172/`](odluka/2005/172/) | amending act | 1 | 2005-01-19 | 2005-01-19 |
+| Odluka o prirezu porezu na dohodak Općine Pisarovina | [`odluka/2005/175/`](odluka/2005/175/) | in force | 1 | 2005-01-27 | 2005-01-27 |
+| Odluka o izmjeni i dopuni Odluke o općinskim porezima Općine Oprisavci | [`odluka/2005/176/`](odluka/2005/176/) | amending act | 1 | 2005-01-27 | 2005-01-27 |
+| Odluka o osnivanju Nacionalnog odbora | [`odluka/2005/191/`](odluka/2005/191/) | repealed, not consolidated | 1 | 2005-01-19 | 2005-01-19 |
+| Odluka o izmjeni Odluke o visini dnevnice za službeno putovanje i visini naknade za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/2005/199/`](odluka/2005/199/) | in force | 1 | 2005-01-24 | 2005-01-24 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Sepen | [`odluka/2005/200/`](odluka/2005/200/) | amended, not consolidated | 1 | 2005-01-20 | 2005-01-20 |
+| Odluka o puštanju u optjecaj kovanog novca, kuna i lipa s oznakom godine kovanja "2005" | [`odluka/2005/216/`](odluka/2005/216/) | in force | 1 | 2005-01-26 | 2005-01-26 |
+| Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/319/`](odluka/2005/319/) | amended, not consolidated | 1 | 2005-02-15 | 2005-02-15 |
+| Odluka o određivanju godišnje količine tekućih naftnih goriva koja se smije stavljati u promet na domaćem tržištu, a ne udovoljava graničnim vrijednostima značajki kakvoće tekućih naftnih goriva propisanih Uredbom o kakvoći tekućih naftnih goriva, kao i najveće dopušteno odstupanje od graničnih vrijednosti utvrđenih ovom Uredbom | [`odluka/2005/338/`](odluka/2005/338/) | in force | 1 | 2005-02-03 | 2005-02-03 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac | [`odluka/2005/339/`](odluka/2005/339/) | replaced, not consolidated | 1 | 2005-02-03 | 2005-02-03 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova za statutarnu certifikaciju brodica i jahti (2005.) | [`odluka/2005/365/`](odluka/2005/365/) | in force | 1 | 2005-03-01 | 2005-03-01 |
+| Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi | [`odluka/2005/399/`](odluka/2005/399/) | in force | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o izmjeni Odluke o minimalno potrebnim deviznim potraživanjima | [`odluka/2005/400/`](odluka/2005/400/) | in force | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o izmjenama i dopunama Odluke o obvezi dostavljanja izvješća "Neto potraživanja banke od opće države i garancije" | [`odluka/2005/401/`](odluka/2005/401/) | amending act | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi s izdanim državnim jamstvima kreditorima privatnog društva Brodogradilište "Viktor Lenac" d.d. Rijeka, sada u stečaju | [`odluka/2005/426/`](odluka/2005/426/) | in force | 1 | 2005-02-11 | 2005-02-11 |
+| Odluka o davanju suglasnosti na Statut Klinike za plućne bolesti "Jordanovac" | [`odluka/2005/439/`](odluka/2005/439/) | in force | 1 | 2005-02-17 | 2005-02-17 |
+| Odluka o davanju suglasnosti na Statut Sveučilišne klinike za dijabetes, endokrinologiju i bolesti metabolizma Vuk Vrhovac | [`odluka/2005/440/`](odluka/2005/440/) | in force | 1 | 2005-02-17 | 2005-02-17 |
+| Odluka o davanju suglasnosti na Statut Agencije za znanost i visoko obrazovanje | [`odluka/2005/484/`](odluka/2005/484/) | in force | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o referentnom prinosu obveznih mirovinskih fondova u 2004. godini | [`odluka/2005/515/`](odluka/2005/515/) | in force | 1 | 2005-03-10 | 2005-03-10 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za imovinu Vlade Republike Hrvatske i povjeravanja tom Povjerenstvu poslova upravljanja i raspolaganja imovinom Republike Hrvatske | [`odluka/2005/529/`](odluka/2005/529/) | in force | 1 | 2005-03-04 | 2005-03-04 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za suzbijanje HIV/AIDS-a | [`odluka/2005/531/`](odluka/2005/531/) | in force | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o davanju suglasnosti za izmjenu Statuta Agencije za plovne putove unutarnjih voda | [`odluka/2005/532/`](odluka/2005/532/) | in force | 1 | 2005-02-24 | 2005-02-24 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu | [`odluka/2005/541/`](odluka/2005/541/) | amending act | 1 | 2005-03-04 | 2005-03-04 |
+| Odluka o izmjeni Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu | [`odluka/2005/545/`](odluka/2005/545/) | in force | 1 | 2005-03-04 | 2005-03-04 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje za 2005. godinu | [`odluka/2005/546/`](odluka/2005/546/) | amending act | 1 | 2005-03-04 | 2005-03-04 |
+| Odluka o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi sa zaključenim ugovorima između državnih tijela i tvrtki u vlasništvu ili djelomičnom vlasništvu dužnosnika | [`odluka/2005/549/`](odluka/2005/549/) | amended, not consolidated | 1 | 2005-02-25 | 2005-02-25 |
+| Odluka o utvrđivanju naknade za rad članovima Povjerenstva za odlučivanje o sukobu interesa koji nisu iz reda zastupnika | [`odluka/2005/550/`](odluka/2005/550/) | amended, not consolidated | 1 | 2005-02-25 | 2005-02-25 |
+| Odluka o rasporedu sredstava osiguranih u Državnom proračunu Republike Hrvatske za 2005. godinu (NN br. 171/2004) u Razdjelu 020 Vlada Republike Hrvatske, Glavi 21 Aktivnost: 3811: Tekuće donacije u n | [`odluka/2005/581/`](odluka/2005/581/) | in force | 1 | 2005-03-07 | 2005-03-07 |
+| Odluka o davanju suglasnosti na izmjene lučkog područja Lučke uprave Pula | [`odluka/2005/604/`](odluka/2005/604/) | in force | 1 | 2005-03-24 | 2005-03-24 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Republici Turskoj, sa sjedištem u Izmiru | [`odluka/2005/1037/`](odluka/2005/1037/) | in force | 1 | 2005-04-18 | 2005-04-18 |
+| Odluka o izmjenama i dopunama Odluke o Uredu predsjednika Republike Hrvatske | [`odluka/2005/1038/`](odluka/2005/1038/) | amending act | 1 | 2005-04-19 | 2005-04-19 |
+| Odluka o osnivanju Međuresorske radne skupine za suzbijanje terorizma | [`odluka/2005/1045/`](odluka/2005/1045/) | amended, not consolidated | 1 | 2005-04-21 | 2005-04-21 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Koordinacijske skupine i Tehničke radne skupine Vlade Republike Hrvatske za praćenje korištenja sredstava koje Republika Hrvatska dobiva iz inozemnih izvora | [`odluka/2005/1046/`](odluka/2005/1046/) | amending act | 1 | 2005-04-27 | 2005-04-27 |
+| Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora | [`odluka/2005/1047/`](odluka/2005/1047/) | replaced, not consolidated | 1 | 2005-04-21 | 2005-04-21 |
+| Odluka o obvezi rada Ureda državne uprave na dan izbora | [`odluka/2005/1048/`](odluka/2005/1048/) | in force | 1 | 2005-04-21 | 2005-04-21 |
+| Odluka o osnivanju Povjerenstva za gospodarske osnove | [`odluka/2005/1057/`](odluka/2005/1057/) | replaced, not consolidated | 1 | 2005-04-29 | 2005-04-29 |
+| Odluka o kriterijima za određivanje depozita položenih pod značajno povoljnijim uvjetima | [`odluka/2005/1061/`](odluka/2005/1061/) | in force | 1 | 2005-04-29 | 2005-04-29 |
+| Odluka o prestanku važenja Odluke o davanju ovlasti jedinicama lokalne samouprave i Gradu Zagrebu za sklapanje ugovora o prodaji nacionaliziranih i konfisciranih stanova | [`odluka/2005/1062/`](odluka/2005/1062/) | in force | 1 | 2005-04-29 | 2005-04-29 |
+| Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini | [`odluka/2005/1091/`](odluka/2005/1091/) | in force | 1 | 2005-05-12 | 2005-05-12 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za praćenje provedbe Nacionalnog programa za Rome | [`odluka/2005/1093/`](odluka/2005/1093/) | in force | 1 | 2005-04-28 | 2005-04-28 |
+| Odluka o izmjenama Odluke o osnivanju Vijeća za poljoprivrednu politiku | [`odluka/2005/1094/`](odluka/2005/1094/) | in force | 1 | 2005-04-28 | 2005-04-28 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Velike Gorice | [`odluka/2005/1096/`](odluka/2005/1096/) | in force | 1 | 2005-04-28 | 2005-04-28 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Tordinci | [`odluka/2005/1097/`](odluka/2005/1097/) | in force | 1 | 2005-04-28 | 2005-04-28 |
+| Odluka o dopuni Odluke o visini otpremnine za djelatne vojne osobe kojima služba prestane zbog preustroja ili smanjenja snaga s pravom na mirovinu | [`odluka/2005/1105/`](odluka/2005/1105/) | amending act | 1 | 2005-05-12 | 2005-05-12 |
+| Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske, kuna i lipa, s oznakom godine kovanja "2005." | [`odluka/2005/1113/`](odluka/2005/1113/) | cited later, not consolidated | 1 | 2005-05-04 | 2005-05-04 |
+| Odluka o stavljanju izvan snage Odluke o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Ivankovo | [`odluka/2005/1160/`](odluka/2005/1160/) | amended, not consolidated | 1 | 2005-05-05 | 2005-05-05 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu | [`odluka/2005/1170/`](odluka/2005/1170/) | amending act | 1 | 2005-05-11 | 2005-05-11 |
+| Odluka o izmjeni i dopuni Odluke o primjeni odredaba zakona i drugih propisa iz nadležnosti Hrvatske narodne banke na banke u likvidaciji | [`odluka/2005/1171/`](odluka/2005/1171/) | amending act | 1 | 2005-05-11 | 2005-05-11 |
+| Odluka o početku rada Carinarnice Krapina | [`odluka/2005/1182/`](odluka/2005/1182/) | repealed, not consolidated | 1 | 2005-05-05 | 2005-05-05 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Erdut | [`odluka/2005/1183/`](odluka/2005/1183/) | replaced, not consolidated | 1 | 2005-05-05 | 2005-05-05 |
+| Odluka o visini najniže mirovine hrvatskom branitelju iz Domovinskog rata za 2005. godinu | [`odluka/2005/1199/`](odluka/2005/1199/) | in force | 1 | 2005-05-26 | 2005-05-26 |
+| Odluka o osnovicama za utvrđivanje vrijednosnog boda pri prevođenju prava, prema osobnom činu i ustrojbenom mjestu hrvatskog branitelja iz Domovinskog rata za 2004. godinu | [`odluka/2005/1200/`](odluka/2005/1200/) | in force | 1 | 2005-05-26 | 2005-05-26 |
+| Odluka o osnovicama za utvrđivanje vrijednosnog boda prema osobnom činu, ustrojbenom mjestu i zvanju hrvatskog branitelja iz Domovinskog rata za 2004. godinu | [`odluka/2005/1201/`](odluka/2005/1201/) | in force | 1 | 2005-05-26 | 2005-05-26 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/1203/`](odluka/2005/1203/) | amended, not consolidated | 1 | 2005-05-26 | 2005-05-26 |
+| Odluka o visini prosječnog troška s naslova priznate ozljede na radu i profesionalne bolesti za 2004. godinu | [`odluka/2005/1204/`](odluka/2005/1204/) | in force | 1 | 2005-05-18 | 2005-05-18 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2005/1220/`](odluka/2005/1220/) | amended, not consolidated | 1 | 2005-05-31 | 2005-05-31 |
+| Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi | [`odluka/2005/1221/`](odluka/2005/1221/) | in force | 1 | 2005-05-31 | 2005-05-31 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2005/1222/`](odluka/2005/1222/) | in force | 1 | 2005-05-31 | 2005-05-31 |
+| Odluka o uvođenju naplate cestarine na autocesti Rupa - Rijeka | [`odluka/2005/1246/`](odluka/2005/1246/) | cited later, not consolidated | 1 | 2005-05-20 | 2005-05-20 |
+| Odluka o osnivanju Povjerenstva za koordinaciju potpore i financiranje obrazovnih, kulturnih, znanstvenih i zdravstvenih programa i projekata Hrvata u Bosni i Hercegovini za 2005. godinu | [`odluka/2005/1247/`](odluka/2005/1247/) | in force | 1 | 2005-05-20 | 2005-05-20 |
+| Odluka o danima rodova, struka, službi i posebnih dijelova oružanih snaga Republike Hrvatske | [`odluka/2005/1248/`](odluka/2005/1248/) | amended, not consolidated | 1 | 2005-06-02 | 2005-06-02 |
+| Odluka o načinu obavljanja ribolova u pojedinim posebnim staništima, određenim ribolovnim alatima i na određeno vrijeme | [`odluka/2005/1251/`](odluka/2005/1251/) | repealed, not consolidated | 1 | 2005-05-25 | 2005-05-25 |
+| Odluka o izmjeni Odluke o osnivanju Istražnog povjerenstva za utvrđivanje činjenica u svezi zaključenih ugovora između državnih tijela i tvrtki u vlasništvu ili djelomičnom vlasništvu dužnosnika | [`odluka/2005/1288/`](odluka/2005/1288/) | in force | 1 | 2005-05-20 | 2005-05-20 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja radi obavljanja djelatnosti uzgoja školjaka i riba | [`odluka/2005/1296/`](odluka/2005/1296/) | amended, not consolidated | 1 | 2005-05-20 | 2005-05-20 |
+| Odluka o davanju suglasnosti na Odluku o izmjenama i dopunama Odluke o osnivanju lučke uprave za luke županijskog i lokalnog značaja | [`odluka/2005/1297/`](odluka/2005/1297/) | amending act | 1 | 2005-05-20 | 2005-05-20 |
+| Odluka o izmjeni Odluke o davanju koncesije za osnivanje slobodne zone Osijek | [`odluka/2005/1298/`](odluka/2005/1298/) | in force | 1 | 2005-05-20 | 2005-05-20 |
+| Odluka o davanju suglasnosti na Izmjenu Statuta Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`odluka/2005/1398/`](odluka/2005/1398/) | in force | 1 | 2005-06-02 | 2005-06-02 |
+| Odluka o visini naknada za obavljanje poslova regulacije energetskih djelatnosti | [`odluka/2005/1438/`](odluka/2005/1438/) | repealed, not consolidated | 1 | 2005-06-23 | 2005-06-23 |
+| Odluka o davanju suglasnosti na Statut Kliničkoga bolničkog centra Rijeka | [`odluka/2005/1439/`](odluka/2005/1439/) | in force | 1 | 2005-06-09 | 2005-06-09 |
+| Odluka o davanju suglasnosti trgovačkom društvu HT - Hrvatske telekomunikacije d.d. iz Zagreba na Standardnu ponudu za davanje usluga s dodanom vrijednosti od 6. svibnja 2005. | [`odluka/2005/1464/`](odluka/2005/1464/) | in force | 1 | 2005-06-07 | 2005-06-07 |
+| Odluka o pokretanju prethodnog postupka za uvođenje zaštitne mjere pri uvozu određenih vrsta goveđeg mesa | [`odluka/2005/1468/`](odluka/2005/1468/) | in force | 1 | 2005-06-20 | 2005-06-20 |
+| Odluka o proširenju primjene izmjena i dopuna Kolektivnog ugovora za djelatnost trgovine | [`odluka/2005/1469/`](odluka/2005/1469/) | amending act | 1 | 2005-06-28 | 2005-06-28 |
+| Odluka o proširenju primjene Kolektivnog ugovora za graditeljstvo - druge izmjene i dopune za 2004. godinu | [`odluka/2005/1470/`](odluka/2005/1470/) | amending act | 1 | 2005-06-28 | 2005-06-28 |
+| Odluka o proširenju primjene Dodatka I o izmjenama i dopunama Kolektivnog ugovora za ugostiteljstvo | [`odluka/2005/1471/`](odluka/2005/1471/) | amending act | 1 | 2005-06-28 | 2005-06-28 |
+| Odluka o proširenju primjene Kolektivnog ugovora za djelatnost drvne i papirne industrije | [`odluka/2005/1472/`](odluka/2005/1472/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+| Odluka o proširenju primjene Kolektivnog ugovora poslodavaca i radnika u obrtu | [`odluka/2005/1473/`](odluka/2005/1473/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+| Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za norme | [`odluka/2005/1488/`](odluka/2005/1488/) | in force | 1 | 2005-06-15 | 2005-06-15 |
+| Odluka o davanju suglasnosti na Statut Hrvatske akreditacijske agencije | [`odluka/2005/1489/`](odluka/2005/1489/) | in force | 1 | 2005-06-15 | 2005-06-15 |
+| Odluka o izmjeni Odluke o osnivanju Generalnog konzulata Republike Hrvatske u Istanbulu, Republika Turska | [`odluka/2005/1564/`](odluka/2005/1564/) | in force | 1 | 2005-06-28 | 2005-06-28 |
+| Odluka o oduzimanju koncesije za priređivanje igara na sreću u Casinu | [`odluka/2005/1575/`](odluka/2005/1575/) | in force | 1 | 2005-07-06 | 2005-07-06 |
+| Odluka o dodjeljivanju poslova savjetovanja za zaštitu potrošača udrugama za zaštitu potrošača u Zagrebu, Osijeku i Splitu | [`odluka/2005/1576/`](odluka/2005/1576/) | in force | 1 | 2005-06-30 | 2005-06-30 |
+| Odluka o "Nagradi Vicko Andrić" | [`odluka/2005/1577/`](odluka/2005/1577/) | amended, not consolidated | 1 | 2005-06-30 | 2005-06-30 |
+| Odluka o "Nagradi Iso Velikanović" | [`odluka/2005/1578/`](odluka/2005/1578/) | amended, not consolidated | 1 | 2005-06-30 | 2005-06-30 |
+| Odluka o sudjelovanju pripadnika Oružanih snaga Republike Hrvatske u mirovnoj misiji u Afganistanu (ISAF) | [`odluka/2005/1597/`](odluka/2005/1597/) | replaced, not consolidated | 1 | 2005-07-11 | 2005-07-11 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u kunskoj protuvrijednosti iznosa od EUR 350.000.000,00 | [`odluka/2005/1645/`](odluka/2005/1645/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+| Odluka o davanju prethodne suglasnosti na Statut Hrvatske energetske regulatorne agencije | [`odluka/2005/1646/`](odluka/2005/1646/) | replaced, not consolidated | 1 | 2005-07-08 | 2005-07-08 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Podrola - Rakalj | [`odluka/2005/1692/`](odluka/2005/1692/) | in force | 1 | 2005-07-08 | 2005-07-08 |
+| Odluka o osnivanju Povjerenstva Vlade Republike Hrvatske za zatočene i nestale | [`odluka/2005/1693/`](odluka/2005/1693/) | repealed, not consolidated | 1 | 2005-07-15 | 2005-07-15 |
+| Odluka o osnivanju Povjerenstva za pripremu i početak rada Muzeja Domovinskog rata | [`odluka/2005/1694/`](odluka/2005/1694/) | repealed, not consolidated | 1 | 2005-07-15 | 2005-07-15 |
+| Odluka o usvajanju Izmjena i dopuna programa Hrvatske agencije za malo gospodarstvo za odobravanje jamstava | [`odluka/2005/1695/`](odluka/2005/1695/) | amending act | 1 | 2005-07-08 | 2005-07-08 |
+| Odluka o početku rada Carinarnice Varaždin | [`odluka/2005/1735/`](odluka/2005/1735/) | in force | 1 | 2005-07-14 | 2005-07-14 |
+| Odluka o izmjeni Odluke o preferencijalnoj carinskoj kvoti pri uvozu određenoga poljoprivrednog proizvoda iz zemalja članica Europske unije | [`odluka/2005/1736/`](odluka/2005/1736/) | in force | 1 | 2005-07-14 | 2005-07-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Podravska Moslavina | [`odluka/2005/1737/`](odluka/2005/1737/) | in force | 1 | 2005-07-14 | 2005-07-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Dragalić | [`odluka/2005/1738/`](odluka/2005/1738/) | in force | 1 | 2005-07-14 | 2005-07-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kaptol | [`odluka/2005/1739/`](odluka/2005/1739/) | in force | 1 | 2005-07-14 | 2005-07-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Čaglin | [`odluka/2005/1740/`](odluka/2005/1740/) | in force | 1 | 2005-07-14 | 2005-07-14 |
+| Odluka o uvjetima i načinu obavljanja platnog prometa s inozemstvom | [`odluka/2005/1750/`](odluka/2005/1750/) | amended, not consolidated | 1 | 2005-07-28 | 2005-07-28 |
+| Odluka o osnovnim obilježjima prigodnoga optjecajnoga kovanog novca od 25 kuna "Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004." | [`odluka/2005/1751/`](odluka/2005/1751/) | in force | 1 | 2005-07-20 | 2005-07-20 |
+| Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca "Zimske olimpijske igre 2006., Italija" | [`odluka/2005/1752/`](odluka/2005/1752/) | cited later, not consolidated | 1 | 2005-07-20 | 2005-07-20 |
+| Odluka o izdavanju i prodaji prigodnoga srebrnoga kovanog novca "Svjetsko nogometno prvenstvo 2006., Njemačka" | [`odluka/2005/1753/`](odluka/2005/1753/) | cited later, not consolidated | 1 | 2005-07-20 | 2005-07-20 |
+| Odluka o izmjeni Odluke o utvrđivanju popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/2005/1757/`](odluka/2005/1757/) | amended, not consolidated | 1 | 2005-07-20 | 2005-07-20 |
+| Odluka o izmjeni Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko--protetskih pomagala, ortodonskih uređaja, udlaga, resekcijskih proteza, epiteza i opturatora za osi | [`odluka/2005/1758/`](odluka/2005/1758/) | in force | 1 | 2005-07-20 | 2005-07-20 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za mirovinsko osiguranje za 2005. godinu | [`odluka/2005/1769/`](odluka/2005/1769/) | amending act | 1 | 2005-07-22 | 2005-07-22 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskog zavoda za zapošljavanje za 2005. godinu | [`odluka/2005/1770/`](odluka/2005/1770/) | amending act | 1 | 2005-07-22 | 2005-07-22 |
+| Odluka o davanju suglasnosti na Izmjene i dopune Financijskog plana Hrvatskih voda za 2005. godinu | [`odluka/2005/1771/`](odluka/2005/1771/) | amending act | 1 | 2005-07-22 | 2005-07-22 |
+| Odluka o puštanju u optjecaj prigodnoga optjecajnog kovanog novca od 25 kuna "Republika Hrvatska kandidat za članstvo u Europskoj uniji 18. VI. 2004." | [`odluka/2005/1793/`](odluka/2005/1793/) | in force | 1 | 2005-07-25 | 2005-07-25 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/1794/`](odluka/2005/1794/) | amended, not consolidated | 1 | 2005-07-25 | 2005-07-25 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Rugvica | [`odluka/2005/1841/`](odluka/2005/1841/) | in force | 1 | 2005-07-22 | 2005-07-22 |
+| Odluka o izmjeni Odluke o davanju suglasnosti Lučkoj upravi Split za osnivanje Slobodne zone luke Split | [`odluka/2005/1842/`](odluka/2005/1842/) | in force | 1 | 2005-07-22 | 2005-07-22 |
+| Odluka o izmjeni Odluke o osnivanju Povjerenstva za pripremu i početak rada Muzeja Domovinskog rata | [`odluka/2005/1843/`](odluka/2005/1843/) | in force | 1 | 2005-07-27 | 2005-07-27 |
+| Odluka o izmjenama i dopunama Odluke o osnivanju Međuresorske radne skupine za suradnju Republike Hrvatske s NATO-om i provedbu "Akcijskog plana za članstvo" | [`odluka/2005/1844/`](odluka/2005/1844/) | amending act | 1 | 2005-07-22 | 2005-07-22 |
+| Odluka o prirezu poreza na dohodak Općine Rakovica | [`odluka/2005/1853/`](odluka/2005/1853/) | replaced, not consolidated | 1 | 2005-08-04 | 2005-08-04 |
+| Odluka o nedodjeljivanju koncesije za frekvenciju za obavljanje javnih telekomunikacijskih usluga trgovačkom društvu Adriacella d.o.o. iz Zagreba | [`odluka/2005/1892/`](odluka/2005/1892/) | in force | 1 | 2005-07-15 | 2005-07-15 |
+| Odluka o izmjenama i dopunama Odluke o izmjenama uvjeta kredita odobrenih od strane Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva | [`odluka/2005/1906/`](odluka/2005/1906/) | amending act | 1 | 2005-08-04 | 2005-08-04 |
+| Odluka o prestanku provedbe Programa poticanja zapošljavanja | [`odluka/2005/1907/`](odluka/2005/1907/) | in force | 1 | 2005-08-04 | 2005-08-04 |
+| Odluka o izmjeni Odluke o visini otpremnine za državne službenike i namještenike Ministarstva obrane i Oružanih snaga Republike Hrvatske kojima služba prestaje zbog preustroja ili smanjenja snaga | [`odluka/2005/1919/`](odluka/2005/1919/) | in force | 1 | 2005-08-10 | 2005-08-10 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Argentinskoj Republici, sa sjedištem u Cordobi | [`odluka/2005/1925/`](odluka/2005/1925/) | in force | 1 | 2005-08-03 | 2005-08-03 |
+| Odluka o izmjeni Odluke o danima rodova, struka, službi i posebnih dijelova Oružanih snaga Republike Hrvatske | [`odluka/2005/1929/`](odluka/2005/1929/) | in force | 1 | 2005-08-24 | 2005-08-24 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Pregledi postojećih brodova (2005) | [`odluka/2005/1930/`](odluka/2005/1930/) | in force | 1 | 2005-09-01 | 2005-09-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Baždarenje pomorskih brodova, brodica i jahti (2005) | [`odluka/2005/1931/`](odluka/2005/1931/) | in force | 1 | 2005-09-01 | 2005-09-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Statutarna certifikacija pomorske opreme (2005) | [`odluka/2005/1932/`](odluka/2005/1932/) | in force | 1 | 2006-01-01 | 2006-01-01 |
+| Odluka o prirezu porezu na dohodak Grada Varaždinske Toplice | [`odluka/2005/1933/`](odluka/2005/1933/) | in force | 1 | 2005-08-24 | 2005-08-24 |
+| Odluka o proširenju primjene Kolektivnog ugovora za graditeljstvo - treće izmjene i dopune | [`odluka/2005/1986/`](odluka/2005/1986/) | amending act | 1 | 2005-09-08 | 2005-09-08 |
+| Odluka o aktualnoj vrijednosti mirovine od 1. srpnja 2005. | [`odluka/2005/1991/`](odluka/2005/1991/) | in force | 1 | 2005-09-13 | 2005-09-13 |
+| Odluka o najnižoj mirovini za jednu godinu mirovinskog staža od 1. srpnja 2005. | [`odluka/2005/1992/`](odluka/2005/1992/) | in force | 1 | 2005-09-13 | 2005-09-13 |
+| Odluka o osnovici za određivanje naknade zbog tjelesnog oštećenja i o usklađivanju novčanih naknada zbog tjelesnog oštećenja od 1. srpnja 2005. | [`odluka/2005/1993/`](odluka/2005/1993/) | in force | 1 | 2005-09-13 | 2005-09-13 |
+| Odluka o raspodjeli sredstava za financiranje programa udruga koje njeguju suradnju i prijateljstvo među zemljama u okviru raspoloživih sredstava od igara na sreću osiguranih u Državnom proračunu za 2005. godinu | [`odluka/2005/2002/`](odluka/2005/2002/) | in force | 1 | 2005-07-26 | 2005-07-26 |
+| Odluka o osnivanju Stručnog povjerenstva za praćenje epidemiološkog stanja i prevenciju influence ptica ("Ptičja gripa") | [`odluka/2005/2010/`](odluka/2005/2010/) | repealed, not consolidated | 1 | 2005-09-08 | 2005-09-08 |
+| Odluka o osnivanju Povjerenstva za nadzor nad provedbom projekta "Uvođenje biodizelskog goriva u Republiku Hrvatsku" | [`odluka/2005/2011/`](odluka/2005/2011/) | repealed, not consolidated | 1 | 2005-09-08 | 2005-09-08 |
+| Odluka o oduzimanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana | [`odluka/2005/2012/`](odluka/2005/2012/) | amended, not consolidated | 1 | 2005-09-08 | 2005-09-08 |
+| Odluka o davanju prethodne suglasnosti na Statut Umirovljeničkog fonda | [`odluka/2005/2013/`](odluka/2005/2013/) | in force | 1 | 2005-09-08 | 2005-09-08 |
+| Odluka o raspisivanju izbora za Gradsko vijeće Grada Visa, Općinsko vijeće Općine Stari Mikanovci, Općinsko vijeće Općine Stara Gradiška, Općinsko vijeće Općine Dvor, Općinsko vijeće Općine Petlovac i | [`odluka/2005/2038/`](odluka/2005/2038/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Odluka o raspisivanju dopunskih izbora za predstavnike nacionalnih manjina u predstavničkim tijelima jedinica lokalne samouprave | [`odluka/2005/2039/`](odluka/2005/2039/) | amending act | 1 | 2005-09-21 | 2005-09-21 |
+| Odluka o raspisivanju dopunskih izbora za pripadnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave | [`odluka/2005/2040/`](odluka/2005/2040/) | amending act | 1 | 2005-09-21 | 2005-09-21 |
+| Odluka o raspisivanju ponovljenih izbora za predstavnika ukrajinske nacionalne manjine u Gradu Slavonskom Brodu | [`odluka/2005/2041/`](odluka/2005/2041/) | in force | 1 | 2005-09-21 | 2005-09-21 |
+| Odluka o iznosu administrativne pristojbe koja se plaća prilikom korištenja zdravstvene zaštite | [`odluka/2005/2042/`](odluka/2005/2042/) | in force | 1 | 2005-10-01 | 2005-10-01 |
+| Odluka o davanju koncesije za osnivanje slobodne zone Kutina | [`odluka/2005/2043/`](odluka/2005/2043/) | in force | 1 | 2005-09-15 | 2005-09-15 |
+| Odluka o plaćanju i naplati u stranim sredstvima plaćanja u zemlji | [`odluka/2005/2048/`](odluka/2005/2048/) | repealed, not consolidated | 1 | 2005-09-29 | 2005-09-29 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu | [`odluka/2005/2067/`](odluka/2005/2067/) | amending act | 1 | 2005-09-23 | 2005-09-23 |
+| Odluka o davanju suglasnosti trgovačkog društva HT - Hrvatskih telekomunikacija d.d., Zagreb na Standardnu ponudu HT - Hrvatskih telekomunikacija d.d. za davanje usluga pristupa Internetu | [`odluka/2005/2120/`](odluka/2005/2120/) | in force | 1 | 2005-08-10 | 2005-08-10 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/2121/`](odluka/2005/2121/) | amended, not consolidated | 1 | 2005-10-03 | 2005-10-03 |
+| Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju zdenca izvorske vode (ZG-2) u k.o. Apatovec | [`odluka/2005/2138/`](odluka/2005/2138/) | in force | 1 | 2005-10-05 | 2005-10-05 |
+| Odluka kojom postavljam TOMISLAVA VIDOŠEVIĆA za izvanrednog i opunomoćenog veleposlanika Republike Hrvatske u Talijanskoj Republici, sa sjedištem u Rimu. Ova Odluka stupa na snagu 17. listopada 2005. godine. | [`odluka/2005/2191/`](odluka/2005/2191/) | in force | 1 | 2005-10-17 | 2005-10-17 |
+| Odluka o dopuni Odluke o oduzimanju koncesije pomorskog dobra u svrhu izgradnje i gospodarskog korištenja luke posebne namjene - luke nautičkog turizma Agana | [`odluka/2005/2211/`](odluka/2005/2211/) | amending act | 1 | 2005-09-30 | 2005-09-30 |
+| Odluka o davanju suglasnosti na Statut Hrvatskog zavoda za transfuzijsku medicinu | [`odluka/2005/2212/`](odluka/2005/2212/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Odluka o izmjeni Odluke o osnivanju Savjeta za mlade | [`odluka/2005/2213/`](odluka/2005/2213/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Odluka o davanju suglasnosti na Statut Klinike za traumatologiju Zagreb | [`odluka/2005/2214/`](odluka/2005/2214/) | in force | 1 | 2005-10-06 | 2005-10-06 |
+| Odluka o poništenju odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području grada Vinkovca (G-VK) | [`odluka/2005/2265/`](odluka/2005/2265/) | in force | 1 | 2005-10-17 | 2005-10-17 |
+| Odluka o poništenju odluke Vijeća o dodjeli koncesije za obavljanje djelatnosti radija na području grada Nina (G-NN) | [`odluka/2005/2266/`](odluka/2005/2266/) | in force | 1 | 2005-10-17 | 2005-10-17 |
+| Odluka o dodjeli jednokratne pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od oluje i bure iz studenoga 2004. godine te mraza i nanosa snijega iz veljače 2005. godine | [`odluka/2005/2270/`](odluka/2005/2270/) | in force | 1 | 2005-10-20 | 2005-10-20 |
+| Odluka o osnivanju Specijalne misije Republike Hrvatske u Republici Iraku, sa sjedištem u Bagdadu | [`odluka/2005/2280/`](odluka/2005/2280/) | in force | 1 | 2005-10-11 | 2005-10-11 |
+| Odluka o obvezi rada ureda državne uprave u dane izbora | [`odluka/2005/2283/`](odluka/2005/2283/) | replaced, not consolidated | 1 | 2005-10-13 | 2005-10-13 |
+| Odluka o obvezi rada Ministarstva unutarnjih poslova na dan izbora | [`odluka/2005/2284/`](odluka/2005/2284/) | in force | 1 | 2005-10-13 | 2005-10-13 |
+| Odluka o određivanju visine naknade troškova izborne promidžbe za dopunske izbore predstavnika nacionalnih manjina i pripadnike hrvatskog naroda u predstavničkim tijelima jedinica lokalne samouprave | [`odluka/2005/2285/`](odluka/2005/2285/) | amending act | 1 | 2005-10-19 | 2005-10-19 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu | [`odluka/2005/2286/`](odluka/2005/2286/) | replaced, not consolidated | 1 | 2005-10-19 | 2005-10-19 |
+| Odluka o izmjeni i dopuni Odluke o postupku otvaranja i vođenja deviznih računa i deviznih štednih uloga rezidenata u banci | [`odluka/2005/2298/`](odluka/2005/2298/) | amending act | 1 | 2005-10-27 | 2005-10-27 |
+| Odluka o prirezu porezu na dohodak Općine Pirovac | [`odluka/2005/2304/`](odluka/2005/2304/) | repealed, not consolidated | 1 | 2005-10-27 | 2005-10-27 |
+| Odluka o izmjeni Odluke o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2005. godini | [`odluka/2005/2357/`](odluka/2005/2357/) | in force | 1 | 2005-10-26 | 2005-10-26 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2005. godini | [`odluka/2005/2358/`](odluka/2005/2358/) | in force | 1 | 2005-10-26 | 2005-10-26 |
+| Odluka o izmjenama Odluke o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2005. godini | [`odluka/2005/2359/`](odluka/2005/2359/) | in force | 1 | 2005-10-26 | 2005-10-26 |
+| Odluka o izmjenama Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju | [`odluka/2005/2360/`](odluka/2005/2360/) | in force | 1 | 2005-10-21 | 2005-10-21 |
+| Odluka o naknadi štete za perad eutanaziranu provođenjem mjera za sprječavanje širenja influence ptica na području žarišta Ribnjaka "Grudnjak" | [`odluka/2005/2361/`](odluka/2005/2361/) | in force | 1 | 2005-10-26 | 2005-10-26 |
+| Odluka o naknadi štete za perad eutanaziranu provođenjem mjera za sprječavanje širenja influence ptica na području žarišta "Ribnjak 1905" d.o.o., Našice | [`odluka/2005/2390/`](odluka/2005/2390/) | in force | 1 | 2005-10-27 | 2005-10-27 |
+| Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u znanstveno-nastavna zvanja | [`odluka/2005/2394/`](odluka/2005/2394/) | amended, not consolidated | 1 | 2005-10-31 | 2005-10-31 |
+| Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u nastavna zvanja | [`odluka/2005/2395/`](odluka/2005/2395/) | amended, not consolidated | 1 | 2005-10-31 | 2005-10-31 |
+| Odluka o nužnim uvjetima za ocjenu nastavne i stručne djelatnosti u postupku izbora u umjetničko-nastavna i nastavna zvanja u području umjetnosti | [`odluka/2005/2396/`](odluka/2005/2396/) | replaced, not consolidated | 1 | 2005-10-31 | 2005-10-31 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našica | [`odluka/2005/2417/`](odluka/2005/2417/) | replaced, not consolidated | 1 | 2005-10-28 | 2005-10-28 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Feričanci | [`odluka/2005/2418/`](odluka/2005/2418/) | replaced, not consolidated | 1 | 2005-10-28 | 2005-10-28 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Donjeg Miholjca | [`odluka/2005/2419/`](odluka/2005/2419/) | amended, not consolidated | 1 | 2005-10-28 | 2005-10-28 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Magadenovac | [`odluka/2005/2420/`](odluka/2005/2420/) | amended, not consolidated | 1 | 2005-10-28 | 2005-10-28 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu | [`odluka/2005/2421/`](odluka/2005/2421/) | replaced, not consolidated | 1 | 2005-11-03 | 2005-11-03 |
+| Odluka o visini troškova polaganja ispita o stručnoj osposobljenosti za obavljanje djelatnosti javnog cestovnog prijevoza | [`odluka/2005/2446/`](odluka/2005/2446/) | amended, not consolidated | 1 | 2005-11-07 | 2005-11-07 |
+| Odluka o izmjeni Odluke o kamatnim stopama i naknadama Hrvatske narodne banke | [`odluka/2005/2552/`](odluka/2005/2552/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2005/2553/`](odluka/2005/2553/) | amended, not consolidated | 1 | 2005-11-24 | 2005-11-24 |
+| Odluka o izmjeni Odluke o graničnoj obveznoj pričuvi | [`odluka/2005/2554/`](odluka/2005/2554/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Odluka o osnivanju Odbora za Nagradu za promicanje prava djeteta | [`odluka/2005/2568/`](odluka/2005/2568/) | replaced, not consolidated | 1 | 2005-11-16 | 2005-11-16 |
+| Odluka o izmjeni Odluke o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području općine Magadenovac | [`odluka/2005/2596/`](odluka/2005/2596/) | in force | 1 | 2005-11-17 | 2005-11-17 |
+| Odluka o prirezu porezu na dohodak Općine Jakovlje | [`odluka/2005/2606/`](odluka/2005/2606/) | repealed, not consolidated | 1 | 2005-12-01 | 2005-12-01 |
+| Odluka o sadržaju i postupku davanja Izjave o načinu stjecanja i raspolaganja udjelima u Umirovljeničkom fondu | [`odluka/2005/2627/`](odluka/2005/2627/) | amended, not consolidated | 1 | 2005-11-25 | 2005-11-25 |
+| Zakon o lovstvu | [`odluka/2005/2641/`](odluka/2005/2641/) | repealed, not consolidated | 1 | 2005-12-06 | 2005-12-06 |
+| Zakon o šumama | [`odluka/2005/2642/`](odluka/2005/2642/) | repealed, not consolidated | 1 | 2005-12-06 | 2005-12-06 |
+| Odluka o izmjeni Odluke o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - Brodogradilišta Šibenik | [`odluka/2005/2656/`](odluka/2005/2656/) | in force | 1 | 2005-11-24 | 2005-11-24 |
+| Odluka o prirezu porezu na dohodak Grada Đakova | [`odluka/2005/2701/`](odluka/2005/2701/) | amended, not consolidated | 1 | 2005-12-05 | 2005-12-05 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje redovite djelatnosti javnih vatrogasnih postrojbi u 2006. godini | [`odluka/2005/2720/`](odluka/2005/2720/) | in force | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba osnovnog školstva u 2006. godini | [`odluka/2005/2721/`](odluka/2005/2721/) | in force | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o kriterijima i mjerilima za utvrđivanje bilančnih prava za financiranje minimalnog financijskog standarda javnih potreba srednjih škola i učeničkih domova u 2006. godini | [`odluka/2005/2722/`](odluka/2005/2722/) | in force | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o minimalnim financijskim standardima za decentralizirane funkcije za zdravstvene ustanove u 2006. godini | [`odluka/2005/2723/`](odluka/2005/2723/) | amended, not consolidated | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o minimalnim financijskim standardima materijalnih i financijskih rashoda centara za socijalnu skrb i pomoći za podmirenje troškova stanovanja korisnicima koji se griju na drva u 2006. godini | [`odluka/2005/2724/`](odluka/2005/2724/) | amended, not consolidated | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o minimalnim financijskim standardima za decentralizirano financiranje domova za starije i nemoćne osobe u 2006. godini | [`odluka/2005/2725/`](odluka/2005/2725/) | in force | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu | [`odluka/2005/2726/`](odluka/2005/2726/) | replaced, not consolidated | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o osnivanju Povjerenstva za gospodarske osnove | [`odluka/2005/2733/`](odluka/2005/2733/) | repealed, not consolidated | 1 | 2005-12-07 | 2005-12-07 |
+| Odluka o izmjeni Odluke o obveznoj pričuvi | [`odluka/2005/2751/`](odluka/2005/2751/) | amended, not consolidated | 1 | 2005-12-20 | 2005-12-20 |
+| Odluka o graničnoj obveznoj pričuvi | [`odluka/2005/2752/`](odluka/2005/2752/) | repealed, not consolidated | 1 | 2005-12-20 | 2005-12-20 |
+| Odluka o prirezu porezu na dohodak Općine Visoko | [`odluka/2005/2754/`](odluka/2005/2754/) | in force | 1 | 2005-12-20 | 2005-12-20 |
+| Odluka o izmjeni Odluke o prirezu porezu na dohodak Grada Ludbrega | [`odluka/2005/2755/`](odluka/2005/2755/) | in force | 1 | 2005-12-20 | 2005-12-20 |
+| Odluka o izmjeni Odluke o uvođenju prireza porezu na dohodak Grada Nove Gradiške | [`odluka/2005/2756/`](odluka/2005/2756/) | in force | 1 | 2005-12-20 | 2005-12-20 |
+| Odluka o davanju ovlaštenja za donošenje odluke o raspisivanju javnog natječaja za dodjelu koncesija i odluke o dodjeli koncesije | [`odluka/2005/2795/`](odluka/2005/2795/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o izdavanju obveznica Republike Hrvatske uz plasman na domaćem tržištu kapitala u iznosu od 3.500.000.000,00 kuna | [`odluka/2005/2796/`](odluka/2005/2796/) | replaced, not consolidated | 1 | 2005-12-08 | 2005-12-08 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu | [`odluka/2005/2797/`](odluka/2005/2797/) | replaced, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Opći propisi (2005) | [`odluka/2005/2802/`](odluka/2005/2802/) | replaced, not consolidated | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Nadvođe (2005) | [`odluka/2005/2803/`](odluka/2005/2803/) | in force | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Radioprema (2005) | [`odluka/2005/2804/`](odluka/2005/2804/) | in force | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Pomagala za navigaciju (2005) | [`odluka/2005/2805/`](odluka/2005/2805/) | replaced, not consolidated | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Sredstva za spašavanje (2005) | [`odluka/2005/2806/`](odluka/2005/2806/) | in force | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Metalni nemetali (2005) | [`odluka/2005/2807/`](odluka/2005/2807/) | in force | 1 | 2005-12-31 | 2005-12-31 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Sigurnosna zaštita broda (2006) | [`odluka/2005/2808/`](odluka/2005/2808/) | in force | 1 | 2006-01-01 | 2006-01-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Protupožarna zaštita (2006) | [`odluka/2005/2809/`](odluka/2005/2809/) | in force | 1 | 2006-02-01 | 2006-02-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojni uređaj i automatizacija (2006) | [`odluka/2005/2810/`](odluka/2005/2810/) | in force | 1 | 2006-02-01 | 2006-02-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Cjevovodi (2006) | [`odluka/2005/2811/`](odluka/2005/2811/) | in force | 1 | 2006-02-01 | 2006-02-01 |
+| Odluka o tehničkim pravilima Hrvatskog registra brodova - Strojevi (2006) | [`odluka/2005/2812/`](odluka/2005/2812/) | replaced, not consolidated | 1 | 2006-02-01 | 2006-02-01 |
+| Odluka o prirezu porezu na dohodak Općine Sibinj | [`odluka/2005/2820/`](odluka/2005/2820/) | repealed, not consolidated | 1 | 2005-12-22 | 2005-12-22 |
+| Odluka o prirezu porezu na dohodak Općine Beretinec | [`odluka/2005/2821/`](odluka/2005/2821/) | in force | 1 | 2005-12-22 | 2005-12-22 |
+| Odluka o prirezu porezu na dohodak Grada Čazme | [`odluka/2005/2822/`](odluka/2005/2822/) | repealed, not consolidated | 1 | 2005-12-22 | 2005-12-22 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za mirovinsko osiguranje za 2006. godinu | [`odluka/2005/2844/`](odluka/2005/2844/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zdravstveno osiguranje za 2006. godinu | [`odluka/2005/2845/`](odluka/2005/2845/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog zavoda za zapošljavanje za 2006. godinu | [`odluka/2005/2846/`](odluka/2005/2846/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih voda za 2006. godinu | [`odluka/2005/2847/`](odluka/2005/2847/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih autocesta za 2006. godinu | [`odluka/2005/2848/`](odluka/2005/2848/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskih cesta za 2006. godinu | [`odluka/2005/2849/`](odluka/2005/2849/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Državne agencije za osiguranje štednih uloga i sanaciju banaka za 2006. godinu | [`odluka/2005/2850/`](odluka/2005/2850/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Hrvatskog fonda za privatizaciju za 2006. godinu | [`odluka/2005/2851/`](odluka/2005/2851/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o davanju suglasnosti na Financijski plan Fonda za zaštitu okoliša i energetsku učinkovitost za 2006. godinu | [`odluka/2005/2852/`](odluka/2005/2852/) | in force | 1 | 2005-12-16 | 2005-12-16 |
+| Odluka o izmjenama i dopunama Odluke o klasifikaciji plasmana i potencijalnih obveza banaka | [`odluka/2005/2874/`](odluka/2005/2874/) | amending act | 1 | 2005-12-27 | 2005-12-27 |
+| Odluka o općinskim porezima Općine Kijevo | [`odluka/2005/2877/`](odluka/2005/2877/) | repealed, not consolidated | 1 | 2005-12-27 | 2005-12-27 |
+| Odluka o financiranju Hrvatske gospodarske komore u 2006. godini | [`odluka/2005/2917/`](odluka/2005/2917/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Odluka o prirezu porezu na dohodak Općine Cestica | [`odluka/2005/2918/`](odluka/2005/2918/) | in force | 1 | 2005-12-29 | 2005-12-29 |
+| Odluka o preraspodjeli sredstava u Financijskom planu Hrvatskih autocesta za 2005. godinu | [`odluka/2005/2926/`](odluka/2005/2926/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Odluka o osnivanju trgovačkog društva "Pleter - usluge" d.o.o. | [`odluka/2005/2927/`](odluka/2005/2927/) | amended, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o potvrđivanju Odluke o izmjenama i dopunama Statuta Hrvatskog zavoda za zapošljavanje | [`odluka/2005/2928/`](odluka/2005/2928/) | amending act | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Kaptol | [`odluka/2005/2929/`](odluka/2005/2929/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o dodjeli koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Darda | [`odluka/2005/2930/`](odluka/2005/2930/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Velika | [`odluka/2005/2931/`](odluka/2005/2931/) | replaced, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Požege | [`odluka/2005/2932/`](odluka/2005/2932/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Koška | [`odluka/2005/2933/`](odluka/2005/2933/) | replaced, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Slatine | [`odluka/2005/2934/`](odluka/2005/2934/) | replaced, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Ivankovo | [`odluka/2005/2935/`](odluka/2005/2935/) | amended, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Davor | [`odluka/2005/2936/`](odluka/2005/2936/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Erdut | [`odluka/2005/2937/`](odluka/2005/2937/) | replaced, not consolidated | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Đurđenovac | [`odluka/2005/2938/`](odluka/2005/2938/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Jakšić | [`odluka/2005/2939/`](odluka/2005/2939/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Markušica | [`odluka/2005/2940/`](odluka/2005/2940/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Općine Viljevo | [`odluka/2005/2941/`](odluka/2005/2941/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o raspisivanju javnog natječaja za dodjelu koncesije za korištenje poljoprivrednog zemljišta u vlasništvu Republike Hrvatske na području Grada Našice | [`odluka/2005/2942/`](odluka/2005/2942/) | in force | 1 | 2005-12-14 | 2005-12-14 |
+| Odluka o preraspodjeli sredstava planiranih u Državnom proračunu Republike Hrvatske za 2005. godinu | [`odluka/2005/2950/`](odluka/2005/2950/) | in force | 1 | 2005-12-27 | 2005-12-27 |
+| Odluka o izmjeni Odluke o porezima Općine Lupoglav | [`odluka/2005/2961/`](odluka/2005/2961/) | in force | 1 | 2006-01-04 | 2006-01-04 |
+| Odluka o opsegu prava na zdravstvenu zaštitu iz osnovnoga zdravstvenog osiguranja za 2006. godinu | [`odluka/2005/2978/`](odluka/2005/2978/) | in force | 1 | 2005-12-28 | 2005-12-28 |
+| Odluka o utvrđivanju godišnje kvote radnih dozvola za zapošljavanje stranaca za kalendarsku godinu 2006. | [`odluka/2005/2979/`](odluka/2005/2979/) | amended, not consolidated | 1 | 2005-12-28 | 2005-12-28 |
+| Odluka o iznosu tarifa za transport plina za 2006. godinu | [`odluka/2005/2980/`](odluka/2005/2980/) | in force | 1 | 2006-01-01 | 2006-01-01 |
+| Odluka o davanju suglasnosti na Statut Doma zdravlja Ministarstva unutarnjih poslova Republike Hrvatske | [`odluka/2005/2981/`](odluka/2005/2981/) | in force | 1 | 2005-12-23 | 2005-12-23 |
+| Odluka o porezima Općine Jelsa | [`odluka/2005/2985/`](odluka/2005/2985/) | amended, not consolidated | 1 | 2005-12-28 | 2005-12-28 |
+| Odluka o visini osnovice za izračun plaća korisnika državnog proračuna | [`odluka/2005/2988/`](odluka/2005/2988/) | repealed, not consolidated | 1 | 2006-01-01 | 2006-01-01 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu | [`odluka/2005/3013/`](odluka/2005/3013/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o produljenju primjene Odluke o posebnim standardima i mjerilima njihove primjene u provođenju primarne zdravstvene zaštite iz osnovnog zdravstvenog osiguranja za 2005. godinu | [`odluka/2005/3014/`](odluka/2005/3014/) | cited later, not consolidated | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o produljenju primjene Odluke o utvrđivanju cijene rada i materijala zubotehničara za izradu stomatološko-protetskih pomagala, ortodontskih uređaja, udlaga, resekcijskih proteza, epiteza i optu | [`odluka/2005/3015/`](odluka/2005/3015/) | in force | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/3019/`](odluka/2005/3019/) | amended, not consolidated | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o ukidanju Odluke o utvrđivanju cijene iskaznice zdravstveno osigurane osobe iz osnovnog zdravstvenog osiguranje | [`odluka/2005/3020/`](odluka/2005/3020/) | in force | 1 | 2006-01-07 | 2006-01-07 |
+| Odluka o izmjenama i dopunama Odluke o sadržaju i obliku isprave kojom se dokazuje status osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranja | [`odluka/2005/3021/`](odluka/2005/3021/) | amending act | 1 | 2006-01-07 | 2006-01-07 |
+| Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/2005/3022/`](odluka/2005/3022/) | amended, not consolidated | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim radnicima za 2005. godinu | [`odluka/2005/3025/`](odluka/2005/3025/) | amending act | 1 | 2005-12-30 | 2005-12-30 |
+| Odluka o prirezu porezu na dohodak Grada Belišća | [`odluka/2005/3029/`](odluka/2005/3029/) | in force | 1 | 2006-01-07 | 2006-01-07 |
+| Odluka o prirezu porezu na dohodak Općine Klenovnik | [`odluka/2005/3030/`](odluka/2005/3030/) | in force | 1 | 2006-01-07 | 2006-01-07 |
 | Odluka o raspisivanju prijevremenih izbora za Gradsko vijeće Grada Vukovara | [`odluka/2011/1/`](odluka/2011/1/) | in force | 1 | 2011-01-03 | 2011-01-03 |
 | Odluka o standardima i normativima prava na zdravstvenu zaštitu iz obveznog zdravstvenog osiguranja za slučaj ozljede na radu i profesionalne bolesti s osnovama za sklapanje ugovora | [`odluka/2011/12/`](odluka/2011/12/) | repealed, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
 | Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite iz obveznog zdravstvenog osiguranja | [`odluka/2011/21/`](odluka/2011/21/) | amended, not consolidated | 1 | 2011-01-03 | 2011-01-03 |
