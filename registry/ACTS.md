@@ -1,14 +1,22 @@
 # Every act in this repository
 
-32054 acts, 32,480 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32354 acts, 32,780 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
-## naputak (197, of which 28 amending acts)
+## naputak (205, of which 29 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
 | Naputak o načinu odobravanja i korištenja financijskih kredita odnosno zajmova od strane javnih poduzeća i drugih pravnih osoba u državnom i pretežno, državnom vlasništvu i društvenih fondova | [`naputak/1993/1688/`](naputak/1993/1688/) | in force | 1 | 1993-09-24 | 1993-09-24 |
+| Naputak o plaćanjima s računa banke | [`naputak/1993/1801/`](naputak/1993/1801/) | repealed, not consolidated | 1 | 1993-10-24 | 1993-10-24 |
+| Naputak za provedbu Zakona o državnim maticama | [`naputak/1993/2039/`](naputak/1993/2039/) | amended, not consolidated | 1 | 1993-12-08 | 1993-12-08 |
+| Naputak o izmjenama i dopunama Naputka o plaćanjima s računa banke | [`naputak/1993/2059/`](naputak/1993/2059/) | amending act | 1 | 1993-12-01 | 1993-12-01 |
 | Naputak o izmjenama i dopunama Naputka o plaćanjima s računa banke | [`naputak/1994/111/`](naputak/1994/111/) | amending act | 1 | 1994-01-29 | 1994-01-29 |
+| Naputak o primjeni Odluke o utvrđivanju pojedinih oblika kapitala banaka i štedionica | [`naputak/1994/327/`](naputak/1994/327/) | replaced, not consolidated | 1 | 1994-03-09 | 1994-03-09 |
+| Naputak za jedinstvenu primjenu Odluke o načinu raspoređivanja rizične aktive i odgovarajučih izvanbilančnih stavki banaka i štedionica | [`naputak/1994/328/`](naputak/1994/328/) | amended, not consolidated | 1 | 1994-03-09 | 1994-03-09 |
+| Naputak o provedbi Uredbe o posebnom porezu na kamate | [`naputak/1994/341/`](naputak/1994/341/) | cited later, not consolidated | 1 | 1994-03-11 | 1994-03-11 |
 | Naputak o načinu polaganja i programu stručnih ispita za djelatnike koji obavljaju poslove normizacije, mjeriteljstva, certificiranja i nadzora predmeta od plemenitih kovina | [`naputak/1994/1096/`](naputak/1994/1096/) | in force | 1 | 1994-08-18 | 1994-08-18 |
+| Naputak o primjeni Odluke o uvjetima primjene odredbi članka 18. Zakona o bankama i štedionicama | [`naputak/1994/1098/`](naputak/1994/1098/) | cited later, not consolidated | 1 | 1994-08-10 | 1994-08-10 |
+| Naputak o primjeni Odluke o utvrđivanju pojedinih oblika kapitala banaka i štedionica | [`naputak/1994/1100/`](naputak/1994/1100/) | cited later, not consolidated | 1 | 1994-08-10 | 1994-08-10 |
 | Naputak za provedbu Uredbe o izmjeni i dopuni Zakona o platnom prometu u zemlji | [`naputak/1994/1213/`](naputak/1994/1213/) | amending act | 1 | 1994-10-01 | 1994-10-01 |
 | Naputak o provedbi uredbe o podmirivanju dospjelih neizmirenih obveza prema inozemnim kreditorima | [`naputak/1995/737/`](naputak/1995/737/) | in force | 1 | 1995-06-01 | 1995-06-01 |
 | Naputak o izdavanju svjedodžbi o završenom srednjoškolskom obrazovanju učenicima koji su školske godine 1987/88. I 1988/89. Završili iv. Godinu programa odgojno-obrazovne struke | [`naputak/1995/1155/`](naputak/1995/1155/) | in force | 1 | 1995-09-08 | 1995-09-08 |
@@ -204,7 +212,7 @@
 | Naputak o izmjenama i dopunama Naputka o načinu uplaćivanja prihoda proračuna, obveznih doprinosa te prihoda za financiranje drugih javnih potreba u 2026. godini | [`naputak/2026/470/`](naputak/2026/470/) | amending act | 1 | 2026-04-16 | 2026-04-16 |
 | Naputak o informacijskom sustavu gospodarenja otpadom | [`naputak/2026/518/`](naputak/2026/518/) | in force | 1 | 2026-05-02 | 2026-05-02 |
 
-## naredba (1312, of which 216 amending acts)
+## naredba (1359, of which 221 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -244,31 +252,78 @@
 | Naredba o izmjeni i dopuni Naredbe o ribolovu povlaćnim mrežama - koćama | [`naredba/1992/1577/`](naredba/1992/1577/) | amending act | 1 | 1992-09-25 | 1992-09-25 |
 | Naredba o vremenu u kojejm zrakoplovna pristaništa moraju biti otvorena | [`naredba/1992/1880/`](naredba/1992/1880/) | in force | 1 | 1992-10-26 | 1992-10-26 |
 | Naredba o izmjenama i dopunama Naredbe o organizaciji rada u osnovnim školama u 1992/93. školskoj godini | [`naredba/1992/2240/`](naredba/1992/2240/) | amending act | 1 | 1992-12-18 | 1992-12-18 |
+| Naredba o prometu vozila na motorni pogon i priključnih vozila na cestama u zimskim uvjetima | [`naredba/1993/114/`](naredba/1993/114/) | amended, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
+| Naredba o ograničenju prometa na cestama | [`naredba/1993/115/`](naredba/1993/115/) | amended, not consolidated | 1 | 1993-02-06 | 1993-02-06 |
+| Naredba o visini naknade za izdavanje svjedodžbe | [`naredba/1993/208/`](naredba/1993/208/) | repealed, not consolidated | 1 | 1993-02-13 | 1993-02-13 |
 | Naredba o izmjeni Naredbe o uvjetima i načinu naplate, raspolaganja i plaćanja gotovim novcem | [`naredba/1993/308/`](naredba/1993/308/) | in force | 1 | 1993-03-08 | 1993-03-08 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih živih papkara, proizvoda, sirovina i otpadaka podrijetlom od navedenih životinja iz Republi | [`naredba/1993/340/`](naredba/1993/340/) | repealed, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
 | Naredba o utvrđivanju mjesečnih svota osobne invalidnine i drugih mjesečnih novčanih primanja, osnovice za određivanje opskrbnine i cenzusa novčanih prihoda od 1. siječnja 1993. | [`naredba/1993/368/`](naredba/1993/368/) | in force | 1 | 1993-03-23 | 1993-03-23 |
+| Naredba o dopuni Naredbe za provođenje Rezolucije broj 757 (1992) Vijeća sigurnosti Ujedinjenih naroda na području prometa nekretninama | [`naredba/1993/386/`](naredba/1993/386/) | amending act | 1 | 1993-03-29 | 1993-03-29 |
+| Naredba o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1993/433/`](naredba/1993/433/) | amended, not consolidated | 1 | 1993-03-30 | 1993-03-30 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1993/443/`](naredba/1993/443/) | amending act | 1 | 1993-04-08 | 1993-04-08 |
+| Naredba o visini naknade za uporabu uređaja i usluga kontrole letenja na teritoriju Republike Hrvatske | [`naredba/1993/567/`](naredba/1993/567/) | repealed, not consolidated | 1 | 1993-04-15 | 1993-04-15 |
+| Naredba o izmjenama Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1993/568/`](naredba/1993/568/) | in force | 1 | 1993-04-15 | 1993-04-15 |
+| Naredba o visini naknade za izvršeni pregled zrakoplova, zavisno od kategorije, namjene i udovoljavanja posebnim uvjetima | [`naredba/1993/570/`](naredba/1993/570/) | repealed, not consolidated | 1 | 1993-04-24 | 1993-04-24 |
+| Naredba o visini naknada za provjeru stručne sposobnosti zrakoplovnog osoblja | [`naredba/1993/613/`](naredba/1993/613/) | repealed, not consolidated | 1 | 1993-04-29 | 1993-04-29 |
+| Naredba o utvrđivanju mjesečnih svota osobne invalidnine, drugih mjesečnih novčanih primanja i osnovice za određivanje opskrbnine od 1. travnja 1993. godine | [`naredba/1993/626/`](naredba/1993/626/) | replaced, not consolidated | 1 | 1993-04-26 | 1993-04-26 |
+| Naredba o visini naknade za svjedodžbu o zdravstvenom stanju životinja | [`naredba/1993/684/`](naredba/1993/684/) | replaced, not consolidated | 1 | 1993-05-07 | 1993-05-07 |
+| Naredba o visini naknade za baždarenje čamaca | [`naredba/1993/707/`](naredba/1993/707/) | repealed, not consolidated | 1 | 1993-05-12 | 1993-05-12 |
+| Naredba o visini naknade za utvrđivanje sposobnosti za plovidbu stranih jahti, sportskih jedrilica i sportskih čamaca | [`naredba/1993/708/`](naredba/1993/708/) | in force | 1 | 1993-05-12 | 1993-05-12 |
 | Naredba o visini naknade za utvrđivanje sposobnosti čamaca za plovidbu | [`naredba/1993/709/`](naredba/1993/709/) | in force | 1 | 1993-05-12 | 1993-05-12 |
+| Naredba o određivanju visine naknade za isprave koje izdaju lučke kapetanije i kapetanije pristaništa | [`naredba/1993/710/`](naredba/1993/710/) | repealed, not consolidated | 1 | 1993-05-12 | 1993-05-12 |
+| Naredba o određivanju cijene obrasca odobrenja za plovidbu stranih jahti i stranih čamaca namijenjenih razonodi ili športu u obalnom moru, rijekama i jezerima Republike Hrvatske. | [`naredba/1993/711/`](naredba/1993/711/) | in force | 1 | 1993-05-12 | 1993-05-12 |
+| Naredba za provođenje Uredbe o provođenju odredbe točke 12. Rezolucije Vijeća sigurnosti Ujedinjenih naroda 820 (1993.) | [`naredba/1993/914/`](naredba/1993/914/) | amended, not consolidated | 1 | 1993-05-21 | 1993-05-21 |
+| Naredba o izmjenama Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1993/951/`](naredba/1993/951/) | in force | 1 | 1993-05-26 | 1993-05-26 |
 | Naredba o zaštitnim mjerama i uvjetima pri uvozu i provozu goveda, ovaca, koza, svinja i ostalih papkara i njihovih proizvoda na teritoriju Republike Hrvatske u svezi sprečavanja unosa zarazne bolesti slinavke i šapa | [`naredba/1993/953/`](naredba/1993/953/) | in force | 1 | 1993-05-26 | 1993-05-26 |
 | Naredba o visini naknade za upotrebu uređaja i usluga kontrole letenja na području Republike Hrvatske | [`naredba/1993/1012/`](naredba/1993/1012/) | in force | 1 | 1993-06-22 | 1993-06-22 |
 | Naredba o utvrđivanju mjesečnih svota osobne invalidnine, drugih mjesečnih novčanih primanja i osnovice za određivanje opskrbnine od 1. travnja 1993. godine | [`naredba/1993/1201/`](naredba/1993/1201/) | in force | 1 | 1993-06-24 | 1993-06-24 |
 | Naredba o izmjenama i dopunama Naredbe o zaštitnim mjerama i uvjetima pri uvozu i provozu goveda, ovaca, koza, svinja i ostalih papkara i njihovih proizvoda na teritoriju Republike Hrvatske u svezi sp | [`naredba/1993/1220/`](naredba/1993/1220/) | amending act | 1 | 1993-06-25 | 1993-06-25 |
 | Naredba o izmjenama Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1993/1221/`](naredba/1993/1221/) | in force | 1 | 1993-06-25 | 1993-06-25 |
+| Naredba o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1993/1329/`](naredba/1993/1329/) | repealed, not consolidated | 1 | 1993-07-17 | 1993-07-17 |
 | Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda za financiranje javnih potreba, načinu njihova uplaćivanja i izvješćivanju korisnika o tim prihodima | [`naredba/1993/1444/`](naredba/1993/1444/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
+| Naredba o visini troškova postupka priznavanja novostvorene sorte odnosno odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja | [`naredba/1993/1519/`](naredba/1993/1519/) | replaced, not consolidated | 1 | 1993-07-30 | 1993-07-30 |
 | Naredba o graničnim koridorima | [`naredba/1993/1593/`](naredba/1993/1593/) | in force | 1 | 1993-08-20 | 1993-08-20 |
 | Naredba o utvrđivanju mjesečnih svota osobne invalidnine, drugih mjesečnih novčanih primanja i osnovice za određivanje ospkrbnine od 1. srpnja 1993. godine | [`naredba/1993/1655/`](naredba/1993/1655/) | in force | 1 | 1993-09-03 | 1993-09-03 |
 | Naredba o zračnim putovima | [`naredba/1993/1661/`](naredba/1993/1661/) | in force | 1 | 1993-09-08 | 1993-09-08 |
+| Naredba o graničnim prijelazima za koje su osnovane granične veterinarske stanice | [`naredba/1993/1687/`](naredba/1993/1687/) | repealed, not consolidated | 1 | 1993-10-02 | 1993-10-02 |
+| Naredba o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1993/1894/`](naredba/1993/1894/) | amended, not consolidated | 1 | 1993-10-26 | 1993-10-26 |
+| Naredba o izmjeni i dopunama Naredbe o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja i njihovu financiranju u 1993. godini | [`naredba/1993/1903/`](naredba/1993/1903/) | amending act | 1 | 1993-10-29 | 1993-10-29 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske domaćih i divljih svinja i proizvoda podrijetlom od navedenih životinja iz Savezne Republike Njemačke i Belgi | [`naredba/1993/1982/`](naredba/1993/1982/) | cited later, not consolidated | 1 | 1993-11-10 | 1993-11-10 |
 | Naredba o izmjenama Naredbe o mjerama sprečavanja pojave, otkrivanja i suzbijanja zaraznih i nametničkih bolesti životinja i njihovu financiranju u 1993. godini | [`naredba/1993/1990/`](naredba/1993/1990/) | in force | 1 | 1993-11-11 | 1993-11-11 |
+| Naredba o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvatske papkara i proizvoda podrijetlom od papkara | [`naredba/1993/2131/`](naredba/1993/2131/) | repealed, not consolidated | 1 | 1993-12-10 | 1993-12-10 |
 | Naredba o mjerama zaštite životinja od zaraznih i nametničkih bolesti i njihovom financiranju u 1994. godini | [`naredba/1993/2144/`](naredba/1993/2144/) | in force | 1 | 1993-12-17 | 1993-12-17 |
+| Naredba o izmjeni Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1993/2145/`](naredba/1993/2145/) | in force | 1 | 1993-12-17 | 1993-12-17 |
+| Naredba o uplatnim računima prihoda proračuna, društvenih fondova te za financiranje drugih javnih potreba, načinu uplaćivanja tih prihoda i izvješćivanju korisnika o njima | [`naredba/1993/2204/`](naredba/1993/2204/) | amended, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
+| Naredba o obveznom pretraživanju svih konja u Županiji Sisačko-moslavačkoj na zaraznu bolest Infekcioznu anemiju kopitara i mjerama za njeno suzbijanje | [`naredba/1994/27/`](naredba/1994/27/) | in force | 1 | 1994-01-12 | 1994-01-12 |
+| Naredba o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/28/`](naredba/1994/28/) | repealed, not consolidated | 1 | 1994-01-12 | 1994-01-12 |
+| Naredba o izmjenama Naredbe o puštanju u tečaj administrativnih biljega i mjeničnih blanketa Republike Hrvatske | [`naredba/1994/100/`](naredba/1994/100/) | in force | 1 | 1994-01-21 | 1994-01-21 |
 | Naredba o dopuni Naredbe o visni naknade za izvršeni pregled zrakoplova, zavisno od kategorije, namjene i udovoljavanja posebnim uvjetima | [`naredba/1994/152/`](naredba/1994/152/) | amending act | 1 | 1994-02-12 | 1994-02-12 |
 | Naredba o dopunama Naredbe o visini naknada za provjeru stružne sposobnosti zrakoplovnog osoblja | [`naredba/1994/153/`](naredba/1994/153/) | amending act | 1 | 1994-02-12 | 1994-02-12 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda proračuna, društvenih fondova te za financiranje drugih javnih potreba, načinu uplaćivanja tih prihoda i izvješćivanju korisnika o njima | [`naredba/1994/187/`](naredba/1994/187/) | amending act | 1 | 1994-02-11 | 1994-02-11 |
+| Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda proračuna, društvenih fondova te za financiranje drugih javnih potreba, načinu uplaćivanja tih prihoda i izvješćivanju korisnika o njima | [`naredba/1994/268/`](naredba/1994/268/) | amending act | 1 | 1994-02-28 | 1994-02-28 |
 | Naredba o izmjenama i dopuni Naredbe o zabrani uvoza u Republiku Hrvatsku i provoza preko teritorija Republike Hrvakske papkara i proizvoda podrijetlom od papkara | [`naredba/1994/387/`](naredba/1994/387/) | amending act | 1 | 1994-03-23 | 1994-03-23 |
+| Naredba o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1994/388/`](naredba/1994/388/) | amended, not consolidated | 1 | 1994-03-23 | 1994-03-23 |
+| Naredbu o visini naknade za sigurnost plovidbe koju plaćaju strane jahte i brodice namijenjene razonodi ili športu | [`naredba/1994/401/`](naredba/1994/401/) | repealed, not consolidated | 1 | 1994-03-25 | 1994-03-25 |
+| Naredba o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/421/`](naredba/1994/421/) | repealed, not consolidated | 1 | 1994-04-01 | 1994-04-01 |
 | Naredba o izmjeni i dopuni Naredbe o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1994/706/`](naredba/1994/706/) | amending act | 1 | 1994-05-19 | 1994-05-19 |
+| Naredba o izmjeni naredbe o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/785/`](naredba/1994/785/) | in force | 1 | 1994-06-11 | 1994-06-11 |
 | Naredba o izmjeni i dopuni Naredbe o uplatnim računima prihoda proračuna, društvenih fondova te za financiranje drugih javnih potreba, načinu uplaćivanja tih prihoda i izvješćvanju.korisnika o njima | [`naredba/1994/825/`](naredba/1994/825/) | amending act | 1 | 1994-06-16 | 1994-06-16 |
+| Naredba o ustanovljenju zabranjenih zona u unutrašnjim morskim vodama Republike Hrvatske | [`naredba/1994/983/`](naredba/1994/983/) | repealed, not consolidated | 1 | 1994-07-21 | 1994-07-21 |
+| Naredba o graničnim prijelazima za koje su osnovane granične veterinarske stanice | [`naredba/1994/1028/`](naredba/1994/1028/) | replaced, not consolidated | 1 | 1994-07-30 | 1994-07-30 |
+| Naredba o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/1063/`](naredba/1994/1063/) | repealed, not consolidated | 1 | 1994-08-09 | 1994-08-09 |
 | Naredba o zabrani i ograničenju prometa na cestama Republike Hrvatske i ulicama Grada Zagreba | [`naredba/1994/1121/`](naredba/1994/1121/) | in force | 1 | 1994-08-31 | 1994-08-31 |
 | Naredba o ustanovljenju zabranjenih zona u unutrašnjim morskim vodama Republike Hrvatske | [`naredba/1994/1167/`](naredba/1994/1167/) | in force | 1 | 1994-09-21 | 1994-09-21 |
+| Naredba o izmjeni Naredbe o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/1224/`](naredba/1994/1224/) | in force | 1 | 1994-10-15 | 1994-10-15 |
+| Naredba o visini troškova postupka priznavanja novostvorene sorte odnosno odobravanja uvođenja u proizvodnju strane sorte poljoprivrednog bilja | [`naredba/1994/1321/`](naredba/1994/1321/) | replaced, not consolidated | 1 | 1994-10-26 | 1994-10-26 |
 | Naredba o utvrđivanju mjesečnih svota osobne invalidnine i drugih mjesečnih novčanih primanja, osnovice za određivanje opskrbnine i cenzusa novčanih prihoda od 1. siječnja 1994. godine | [`naredba/1994/1330/`](naredba/1994/1330/) | in force | 1 | 1994-10-27 | 1994-10-27 |
+| Naredba o vremenu u kojem zračne luke moraju biti otvorene | [`naredba/1994/1331/`](naredba/1994/1331/) | replaced, not consolidated | 1 | 1994-10-27 | 1994-10-27 |
+| Naredba o izmjeni Naredbe o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/1380/`](naredba/1994/1380/) | in force | 1 | 1994-11-08 | 1994-11-08 |
 | Naredba o usklađivanju svote cenzusa prihoda od poljoprivredne djelatnosti iz Zakona o zaštiti vojnih i civilnih invalida rata | [`naredba/1994/1476/`](naredba/1994/1476/) | in force | 1 | 1994-11-25 | 1994-11-25 |
 | Naredba o obveznom pretraživanju konja na zaraznu bolest infekcioznu anemiju kopitara i mjerama za njeno suzbijanje | [`naredba/1994/1528/`](naredba/1994/1528/) | in force | 1 | 1994-12-05 | 1994-12-05 |
+| Naredba o žigovima i ispravama kojima se ovjerava ispravnost mjerila | [`naredba/1994/1607/`](naredba/1994/1607/) | in force | 1 | 1994-12-24 | 1994-12-24 |
+| Naredba o vrstama mjerila za koje se provodi mjeriteljski nadzor | [`naredba/1994/1608/`](naredba/1994/1608/) | repealed, not consolidated | 1 | 1994-12-24 | 1994-12-24 |
 | Naredba o mjerama zaštite životinja od zaraznih i nametnićkih bolesti i njihovom financiranju u 1995. godini | [`naredba/1994/1629/`](naredba/1994/1629/) | in force | 1 | 1994-12-22 | 1994-12-22 |
+| Naredba o izmjeni Naredbe o visini posebne pristojbe pri uvozu poljoprivrednih i prehrambenih proizvoda | [`naredba/1994/1664/`](naredba/1994/1664/) | in force | 1 | 1995-01-06 | 1995-01-06 |
 | Naredba o izmjeni i dopuni Naredbe o načinu uplaćivanja prihoda proračuna i izvanproračunskih fondova te prihoda za financiranje drugih javnih potreba | [`naredba/1995/31/`](naredba/1995/31/) | amended, not consolidated | 1 | 1995-01-16 | 1995-01-16 |
 | Naredba | [`naredba/1995/484/`](naredba/1995/484/) | in force | 1 | 1995-04-05 | 1995-04-05 |
 | Naredba o obveznom Trihineloskopskom pregledu mesa svinja kod klanja za potrebe vlastitog domaćinstva na području županije Vukovarsko-Srijemske | [`naredba/1995/703/`](naredba/1995/703/) | repealed, not consolidated | 1 | 1995-05-19 | 1995-05-19 |
@@ -1521,7 +1576,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (13775, of which 1705 amending acts)
+## odluka (14020, of which 1714 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2275,17 +2330,27 @@
 | Odluka o uskladivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. listopada 1992. | [`odluka/1992/2351/`](odluka/1992/2351/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o usklađivanju doplatka za pomoč i njegu od l. listopada 1992. | [`odluka/1992/2353/`](odluka/1992/2353/) | in force | 1 | 1993-01-07 | 1993-01-07 |
 | Odluka o određivanju banaka sa sjedištem u Republici Hrvatskoj koje će obavljati poslove likvidacije poslovanja glavnih filijala Jugobanke d.d. Beograd koje su poslovale na teritoriju Republike Hrvats | [`odluka/1992/2394/`](odluka/1992/2394/) | in force | 1 | 1992-12-31 | 1992-12-31 |
+| Odluka o raspisivanju izbora za zastupnike u Županijski dom Sabora Republike Hrvatske | [`odluka/1993/1/`](odluka/1993/1/) | replaced, not consolidated | 1 | 1993-01-06 | 1993-01-06 |
+| Odluka o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne samouprave i uprave | [`odluka/1993/2/`](odluka/1993/2/) | in force | 1 | 1993-01-06 | 1993-01-06 |
 | Odluka o utvrđivanju visine naknade troškova izborne promičbe za izbor zastupnika u Županijski dom Sabora Republike Hrvatske | [`odluka/1993/5/`](odluka/1993/5/) | in force | 1 | 1993-01-06 | 1993-01-06 |
 | Odluka o početku i završetku radnog vremena u tijeku radnog dana u ministarstvima, drugim samostalnim organima državne uprave i službama Vlade Republike Hrvatske | [`odluka/1993/28/`](odluka/1993/28/) | in force | 1 | 1993-01-11 | 1993-01-11 |
+| Rješenje o osnivanju Hrvatskog savjeta za sigurnost prometa na cestama | [`odluka/1993/52/`](odluka/1993/52/) | cited later, not consolidated | 1 | 1993-01-23 | 1993-01-23 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Vivodina - Metlika | [`odluka/1993/65/`](odluka/1993/65/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Kraljevini Danskoj, sa sjedištem u Kopenhagenu | [`odluka/1993/95/`](odluka/1993/95/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Islamskoj Republici Iran, sa sjedištem u Teheranu | [`odluka/1993/96/`](odluka/1993/96/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Albaniji, sa sjedištem u Tirani | [`odluka/1993/97/`](odluka/1993/97/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Arapskoj Republici Egipat, sa sjedištem u Kairu | [`odluka/1993/98/`](odluka/1993/98/) | in force | 1 | 1993-01-18 | 1993-01-18 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Turskoj, sa sjedištem u Ankari | [`odluka/1993/99/`](odluka/1993/99/) | in force | 1 | 1983-01-18 | 1983-01-18 |
+| Odluka o valorizaciji pomoći i naknada u socijalnoj skrbi | [`odluka/1993/110/`](odluka/1993/110/) | replaced, not consolidated | 1 | 1993-01-29 | 1993-01-29 |
+| Odluka o visini premije za određene proizvode u poljoprivredi | [`odluka/1993/111/`](odluka/1993/111/) | amended, not consolidated | 1 | 1993-01-29 | 1993-01-29 |
+| Odluka o kriterijima za određivanje koeficijenata za utvrđivanje plaće sucima i drugim nositeljima pravosudnih dužnosti kojima je koeficijent utvrđen u rasponu | [`odluka/1993/138/`](odluka/1993/138/) | amended, not consolidated | 1 | 1993-02-01 | 1993-02-01 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za veljaču 1993. godine | [`odluka/1993/143/`](odluka/1993/143/) | in force | 1 | 1993-02-01 | 1993-02-01 |
 | Odluka o izmjenama Odluke o visini opće kvote za korištenje kredita iz primarne emisije u I. tromjesečju 1993. godine | [`odluka/1993/144/`](odluka/1993/144/) | in force | 1 | 1993-02-01 | 1993-02-01 |
 | Odluka o izmjeni Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u dinarima | [`odluka/1993/145/`](odluka/1993/145/) | in force | 1 | 1993-02-01 | 1993-02-01 |
+| Odluka o izmjeni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1993/147/`](odluka/1993/147/) | in force | 1 | 1993-02-02 | 1993-02-02 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1993/148/`](odluka/1993/148/) | replaced, not consolidated | 1 | 1993-02-01 | 1993-02-01 |
+| Odluka o izmjenama i dopunama Statuta Hrvatske gospodarske komore | [`odluka/1993/151/`](odluka/1993/151/) | amending act | 1 | 1993-02-09 | 1993-02-09 |
+| Odluka o metodologiji za izradu planova obrane | [`odluka/1993/158/`](odluka/1993/158/) | replaced, not consolidated | 1 | 1993-02-03 | 1993-02-03 |
 | Odluka o pripremi i načinu provođenja mobilizacije organa državne uprave i pravnih osoba te službe motrenja i obavješćivanja | [`odluka/1993/160/`](odluka/1993/160/) | in force | 1 | 1993-02-03 | 1993-02-03 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Slovačkoj Republici, sa sjedištem u Bratislavi | [`odluka/1993/167/`](odluka/1993/167/) | in force | 1 | 1993-01-29 | 1993-01-29 |
 | Odluka o utvrđivanju općeg interesa za izgradnju i rekonstrukciju priključnoga puta broj 7 u naselju Kraljevečki Novaki-Sesvete, uz autocestu Istok-Popovec, u k.o.Sesvetski Kraljevec | [`odluka/1993/169/`](odluka/1993/169/) | in force | 1 | 1993-02-05 | 1993-02-05 |
@@ -2300,52 +2365,103 @@
 | Odluka o izuzimanju od zabrane prijenosa prava raspolaganja nekretninom u k.o. Šestine | [`odluka/1993/178/`](odluka/1993/178/) | in force | 1 | 1993-02-05 | 1993-02-05 |
 | Odluka o izuzimanju nekretnine od zabrane prijenosa prava raspolaganja u k.o. Grad Zagreb | [`odluka/1993/179/`](odluka/1993/179/) | in force | 1 | 1993-02-05 | 1993-02-05 |
 | Odluka o usklađivanju mirovina od 1. studenoga 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/191/`](odluka/1993/191/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. studenoga 1992 | [`odluka/1993/192/`](odluka/1993/192/) | in force | 1 | 1993-02-13 | 1993-02-13 |
 | Odluka o visini minimalne mirovine od 1. studenoga 1992 | [`odluka/1993/193/`](odluka/1993/193/) | in force | 1 | 1993-02-13 | 1993-02-13 |
 | Odluka o usklađivanju naknada osobnog dohotka u svez s pravom na zaposlavanje od 1. studenog 1992 | [`odluka/1993/194/`](odluka/1993/194/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenog 1992 | [`odluka/1993/195/`](odluka/1993/195/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštečenje od 1. studenog 1992 | [`odluka/1993/196/`](odluka/1993/196/) | in force | 1 | 1993-02-13 | 1993-02-13 |
 | Odluka o usklađivanju mirovina, doplatke za pomoć i njegu i novčanih naknada za tjelesno oštečenje od 1. studenoga 1992 | [`odluka/1993/197/`](odluka/1993/197/) | in force | 1 | 1993-02-13 | 1993-02-13 |
 | Odluka o iznimnom usklađivanju doplatka za djecu od 1. siječnja 1993 | [`odluka/1993/198/`](odluka/1993/198/) | in force | 1 | 1993-02-06 | 1993-02-06 |
 | Odluka o usklađivanju mirovina od 1. studenoga 1992 | [`odluka/1993/199/`](odluka/1993/199/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. studenoga 1992 | [`odluka/1993/200/`](odluka/1993/200/) | in force | 1 | 1993-02-13 | 1993-02-13 |
 | Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. studenoga 1992 | [`odluka/1993/201/`](odluka/1993/201/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštečenje od 1. studenoga 1992 | [`odluka/1993/202/`](odluka/1993/202/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1992 | [`odluka/1993/203/`](odluka/1993/203/) | in force | 1 | 1993-02-13 | 1993-02-13 |
+| Odluka o utvrđivanju vrijednosti bodova za | [`odluka/1993/213/`](odluka/1993/213/) | amended, not consolidated | 1 | 1993-02-05 | 1993-02-05 |
+| Odluka o utvrđivanju visine iznosa sredstava | [`odluka/1993/216/`](odluka/1993/216/) | amended, not consolidated | 1 | 1993-02-05 | 1993-02-05 |
 | Odluka o članstvu Republike Hrvatske u Međunarodnoj banci za obnovu i razvoj i njezinim afilijacijama | [`odluka/1993/219/`](odluka/1993/219/) | in force | 1 | 1993-02-15 | 1993-02-15 |
 | Odluka o osnivanju Vijeća za socijalnu politiku | [`odluka/1993/220/`](odluka/1993/220/) | in force | 1 | 1993-02-15 | 1993-02-15 |
+| Odluka o izmjeni i dopuni Odluke o načinu stjecanja potraživanja stranih osoba u domicilnoj valuti Republike Hrvatske | [`odluka/1993/221/`](odluka/1993/221/) | amended, not consolidated | 1 | 1993-02-15 | 1993-02-15 |
 | Odluka o izmjeni Odluke o prijavljivanju efektivnog stranog novca što ga građani Republike Hrvatske iznose iz Republike Hrvatske pri putovanju u inozemstvo, odnosno što ga strane fizičke osobe unose p | [`odluka/1993/222/`](odluka/1993/222/) | in force | 1 | 1993-02-15 | 1993-02-15 |
 | Odluka o izuzimanju nekretnine u k.o. Čakovec od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1993/223/`](odluka/1993/223/) | in force | 1 | 1993-02-15 | 1993-02-15 |
 | Odluka o prijenosu prava vlasništva nekretnine u k.o. Split | [`odluka/1993/224/`](odluka/1993/224/) | in force | 1 | 1993-02-15 | 1993-02-15 |
 | Odluka o davanju ovlaštenja ministru pravosuđa i uprave | [`odluka/1993/226/`](odluka/1993/226/) | in force | 1 | 1993-02-15 | 1993-02-15 |
+| Odluka o Hrvatskom komitetu za suradnju s Međunarodnim hidrološkim programom | [`odluka/1993/231/`](odluka/1993/231/) | amended, not consolidated | 1 | 1993-02-22 | 1993-02-22 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1993/253/`](odluka/1993/253/) | replaced, not consolidated | 1 | 1993-02-25 | 1993-02-25 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1993/254/`](odluka/1993/254/) | replaced, not consolidated | 1 | 1993-02-25 | 1993-02-25 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/255/`](odluka/1993/255/) | replaced, not consolidated | 1 | 1993-02-25 | 1993-02-25 |
+| Odluka o suglasnosti na cijenu prirodnoga plina | [`odluka/1993/256/`](odluka/1993/256/) | in force | 1 | 1993-02-25 | 1993-02-25 |
+| Odluka o suglasnosti na povećanje cijene električne energije | [`odluka/1993/257/`](odluka/1993/257/) | in force | 1 | 1993-02-25 | 1993-02-25 |
 | Odluka o suglasnosti na cijene pisama i dopisnica | [`odluka/1993/258/`](odluka/1993/258/) | in force | 1 | 1993-02-25 | 1993-02-25 |
 | Odluka o suglasnosti na povećanje cijene telefonskog impulsa | [`odluka/1993/259/`](odluka/1993/259/) | in force | 1 | 1993-02-25 | 1993-02-25 |
+| Odluka o izmjeni Odluke o visini naknade za javne ceste | [`odluka/1993/260/`](odluka/1993/260/) | in force | 1 | 1993-02-25 | 1993-02-25 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Portugal, sa sjedištem u Lisabonu | [`odluka/1993/270/`](odluka/1993/270/) | in force | 1 | 1993-02-22 | 1993-02-22 |
+| Odluka o visini minimalnog iznosa početnoga fonda sigurnosti i ukupnog uloga u trenutku osnivanja dioničkoga društva za osiguranje | [`odluka/1993/278/`](odluka/1993/278/) | cited later, not consolidated | 1 | 1993-03-03 | 1993-03-03 |
 | Odluka o utvrđivanju općeg interesa za izgradnju optičkoga telekomunikacijskoga kabela na relaciji Osijek-Đakovo | [`odluka/1993/280/`](odluka/1993/280/) | in force | 1 | 1993-03-03 | 1993-03-03 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Buzet - Sočerga | [`odluka/1993/281/`](odluka/1993/281/) | in force | 1 | 1993-03-03 | 1993-03-03 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za ožujak 1993. godine | [`odluka/1993/283/`](odluka/1993/283/) | in force | 1 | 1993-03-03 | 1993-03-03 |
+| Odluka o utvrđivanju visine minimalnog iznosa osnivačkog fonda banke u osnivanju | [`odluka/1993/284/`](odluka/1993/284/) | replaced, not consolidated | 1 | 1993-03-03 | 1993-03-03 |
+| Odluka o Rasporedu planiranog potrebnog broja bolesničkih ležaja u stacionarnim ustanovama za zbrinjavanje bolesnika s akutnim i kroničnim bolestima po županijama Republike Hrvatske | [`odluka/1993/285/`](odluka/1993/285/) | amended, not consolidated | 1 | 1993-03-03 | 1993-03-03 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Grčkoj, sa sjedištem u Ateni | [`odluka/1993/294/`](odluka/1993/294/) | in force | 1 | 1993-03-02 | 1993-03-02 |
 | Odluka o valorizaciji pomoći i naknada u socijalnoj skrbi | [`odluka/1993/300/`](odluka/1993/300/) | in force | 1 | 1993-03-08 | 1993-03-08 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Bukovje | [`odluka/1993/302/`](odluka/1993/302/) | in force | 1 | 1993-03-08 | 1993-03-08 |
 | Odluka o utvrđivanju općeg interesa za izgradnju cestovnog graničnog prijelaza Bregana naselje - Nova Vas | [`odluka/1993/303/`](odluka/1993/303/) | in force | 1 | 1993-03-08 | 1993-03-08 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Trnovec | [`odluka/1993/304/`](odluka/1993/304/) | in force | 1 | 1993-03-08 | 1993-03-08 |
 | Odluka o utvrđivanju općeg interesa za izgradnju Jadranske auto-ceste, dionice Maslenica - Zadar 1 | [`odluka/1993/305/`](odluka/1993/305/) | in force | 1 | 1993-03-08 | 1993-03-08 |
+| Odluka | [`odluka/1993/309/`](odluka/1993/309/) | replaced, not consolidated | 1 | 1993-03-08 | 1993-03-08 |
 | Odluka o usklađivanju mirovina od 1. prosinca 1992. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/310/`](odluka/1993/310/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. prosinca 1992. | [`odluka/1993/311/`](odluka/1993/311/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o visini minimalne mirovine od 1. prosinca 1992. | [`odluka/1993/312/`](odluka/1993/312/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o usklađivanju naknade osobnog dohotka u svezi s pravom na, prekvalifikaciju ili dokvalifikaciju i naknada osobnog dohotka u svezi s pravom na zaposlenje od 1. prosinca 1992. | [`odluka/1993/313/`](odluka/1993/313/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1992. | [`odluka/1993/314/`](odluka/1993/314/) | replaced, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1992. | [`odluka/1993/315/`](odluka/1993/315/) | replaced, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. prosinca 1992. | [`odluka/1993/316/`](odluka/1993/316/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1992. | [`odluka/1993/317/`](odluka/1993/317/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje osobnih dohodaka iz prijašnjih godina prema razini osobnih dohodaka iz godine 1992. radi određivanja naknade osobnog dohotka zbog manjeg osob | [`odluka/1993/318/`](odluka/1993/318/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1993. | [`odluka/1993/319/`](odluka/1993/319/) | in force | 1 | 1993-03-09 | 1993-03-09 |
 | Odluka o usklađivanju mirovina od 1. prosinca 1992. | [`odluka/1993/320/`](odluka/1993/320/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. prosinca 1992. | [`odluka/1993/321/`](odluka/1993/321/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o usklađivanju naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju od 1. prosinca 1992. | [`odluka/1993/322/`](odluka/1993/322/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1992. | [`odluka/1993/323/`](odluka/1993/323/) | replaced, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1992. | [`odluka/1993/324/`](odluka/1993/324/) | replaced, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1993/326/`](odluka/1993/326/) | replaced, not consolidated | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o utvrđivanju kalkulativnih prosjeka osobnih dohodaka inspektora Financijske policije i drugih radnika Financijske policije, Ministarstva financija | [`odluka/1993/336/`](odluka/1993/336/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o utvrđivanju općeg interesa za izgradnju graničnog prijelaza Banfi | [`odluka/1993/337/`](odluka/1993/337/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o izuzimanju nekretnina od zabrane prijenosa prava raspolaganja u k. o. Grad Zagreb, Ilica 149 | [`odluka/1993/338/`](odluka/1993/338/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o osnovici i stopi doprinosa Savezu udruženja hrvatskih obrtnika za 1993. godinu | [`odluka/1993/343/`](odluka/1993/343/) | in force | 1 | 1993-03-16 | 1993-03-16 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Makedoniji, sa sjedištem u Skopju | [`odluka/1993/375/`](odluka/1993/375/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o osnivanju Konzulata Republike Hrvatske u Švicarskoj Konfederaciji sa sjedištem u Zurichu | [`odluka/1993/376/`](odluka/1993/376/) | in force | 1 | 1993-03-16 | 1993-03-16 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava Državnog proračuna | [`odluka/1993/380/`](odluka/1993/380/) | repealed, not consolidated | 1 | 1993-03-29 | 1993-03-29 |
 | Odluka o stavljanju izvan snage Odluke o izuzimanju nekretnina od zabrane raspolaganja u k. o. Split | [`odluka/1993/381/`](odluka/1993/381/) | in force | 1 | 1993-03-29 | 1993-03-29 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/393/`](odluka/1993/393/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1993. | [`odluka/1993/394/`](odluka/1993/394/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1993. | [`odluka/1993/395/`](odluka/1993/395/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993. | [`odluka/1993/396/`](odluka/1993/396/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od 1. siječnja 1993. | [`odluka/1993/397/`](odluka/1993/397/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1993. | [`odluka/1993/398/`](odluka/1993/398/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o najnižoj svoti naknade osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993. | [`odluka/1993/399/`](odluka/1993/399/) | in force | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1993. | [`odluka/1993/400/`](odluka/1993/400/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1993. | [`odluka/1993/401/`](odluka/1993/401/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji, kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju odnosno prihoda u | [`odluka/1993/402/`](odluka/1993/402/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1993. | [`odluka/1993/403/`](odluka/1993/403/) | amended, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o visini mirovinske osnovice za određivanje invalidske mirovine, osobama osiguranim pod određenim okolnostima i osobama koje se nakon završenog školovanja nalaze na obveznom praktičnom radu il | [`odluka/1993/404/`](odluka/1993/404/) | in force | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o usklađvanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. siječnja 1993. | [`odluka/1993/405/`](odluka/1993/405/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1993. | [`odluka/1993/406/`](odluka/1993/406/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. siječnja 1993. | [`odluka/1993/407/`](odluka/1993/407/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o usklađivanju naknada osobnoga dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikacju i naknada osobnoga dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993. | [`odluka/1993/408/`](odluka/1993/408/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanje novčanih naknada za tjelesno oštećenje od 1. siječnja 1993. | [`odluka/1993/409/`](odluka/1993/409/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1993. | [`odluka/1993/410/`](odluka/1993/410/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o najnižoj svoti naknade osobnog dohotka u svezi s pravom na prekvalifikaciju ili dokvalifikacju i naknade osobnog dohotka u svezi s pravom na zaposlenje od 1. siječnja 1993. | [`odluka/1993/411/`](odluka/1993/411/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1993. | [`odluka/1993/412/`](odluka/1993/412/) | replaced, not consolidated | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1993/413/`](odluka/1993/413/) | in force | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o izmjeni Odluke o novčanoj naknadi udovica osiguranika koja nije stekla pravo na obiteljsku mirovinu | [`odluka/1993/414/`](odluka/1993/414/) | in force | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizcijama internatskog tipa | [`odluka/1993/415/`](odluka/1993/415/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja | [`odluka/1993/416/`](odluka/1993/416/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju, odnosno prihodima | [`odluka/1993/417/`](odluka/1993/417/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o visini posebnih naknada za uporabu javnih cesta i određenih objekata na cestama | [`odluka/1993/418/`](odluka/1993/418/) | amended, not consolidated | 1 | 1993-03-30 | 1993-03-30 |
+| Odluka o izmjenama Odluke o visini naknade za izvanrednu uporabu javnih cesta | [`odluka/1993/419/`](odluka/1993/419/) | in force | 1 | 1993-03-30 | 1993-03-30 |
 | Odluka o načinu utvrđivanja opće kvote za odobravanje kredita bankama iz primarne emisije u II. tromjesečju 1993. godine | [`odluka/1993/451/`](odluka/1993/451/) | in force | 1 | 1993-04-01 | 1993-04-01 |
+| Odluka o odobravanju reeskontnih i lombardnih kredita | [`odluka/1993/452/`](odluka/1993/452/) | repealed, not consolidated | 1 | 1993-04-01 | 1993-04-01 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za travanj 1993. godine | [`odluka/1993/454/`](odluka/1993/454/) | in force | 1 | 1993-04-01 | 1993-04-01 |
 | Odluka o izmjeni i dopuni Odluke o kamatnim stopama i stopama naklade Narodne banke Hrvatske | [`odluka/1993/455/`](odluka/1993/455/) | amending act | 1 | 1993-04-01 | 1993-04-01 |
 | Odluka o izmjeni Odluke o privremenoj odgodi vraćanja dijela kredita odobrenih iz primarne emisije pravnim osobama koje su pretrpjele štetu od ratnih razaranja | [`odluka/1993/456/`](odluka/1993/456/) | in force | 1 | 1993-04-01 | 1993-04-01 |
@@ -2355,6 +2471,7 @@
 | Odluka kojom Republika Hrvatska postaje vlasnik dijela društvene imovine hrvatskog olimpijskog centra "Bjelolasica" | [`odluka/1993/472/`](odluka/1993/472/) | in force | 1 | 1993-04-06 | 1993-04-06 |
 | Odluka o davanju pomoći općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u 1992. godini | [`odluka/1993/473/`](odluka/1993/473/) | in force | 1 | 1993-04-07 | 1993-04-07 |
 | Odluka o visini opće kvote za korištenje kredita iz primarne emisije u II. tromjesečju 1993. godine | [`odluka/1993/477/`](odluka/1993/477/) | in force | 1 | 1993-04-06 | 1993-04-06 |
+| Odluka o izmjeni vrijednosti boda Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1993/479/`](odluka/1993/479/) | in force | 1 | 1993-04-01 | 1993-04-01 |
 | Odluka o izmjenama i dopuni Odluke o visini naknade za korištenje voda | [`odluka/1993/533/`](odluka/1993/533/) | amending act | 1 | 1993-04-10 | 1993-04-10 |
 | Odluka o zaštitnoj cijeni kukuruza roda 1993. godine | [`odluka/1993/535/`](odluka/1993/535/) | in force | 1 | 1993-04-10 | 1993-04-10 |
 | Odluka o zaštitnoj cijeni sirovoga duhana roda 1993. godine | [`odluka/1993/536/`](odluka/1993/536/) | in force | 1 | 1993-04-10 | 1993-04-10 |
@@ -2363,12 +2480,22 @@
 | Odluka o uvjetima uz koje se može dati odobrenje da se naplate i plaćanja obavljaju u efektivnom stranom novcu | [`odluka/1993/539/`](odluka/1993/539/) | in force | 1 | 1993-04-10 | 1993-04-10 |
 | Odluka o izmjenama i dopunama Odluke o uvjetima i rokovima do kojih se može odobriti produženje roka naplate izvezene robe i usluge | [`odluka/1993/540/`](odluka/1993/540/) | amending act | 1 | 1993-04-10 | 1993-04-10 |
 | Odluka o utvrđivanju Programa statističkih istraživanja Republike Hrvatske za 1993. godinu | [`odluka/1993/543/`](odluka/1993/543/) | in force | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o izmjeni Odluke o socijalnom minimumu | [`odluka/1993/546/`](odluka/1993/546/) | in force | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o određivanju najnižih svota na koje se mora ugovoriti osiguranje putnika u javnom prijevozu, od Posljedica nesretnog slučaja | [`odluka/1993/547/`](odluka/1993/547/) | repealed, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
 | Odluka o utvrđivanju općeg interesa za premještanje trase magistralne ceste MC-12/3 Karlovac - Josipdol - Jezerane, dionica: Obilaznica Duga Resa | [`odluka/1993/548/`](odluka/1993/548/) | in force | 1 | 1993-04-14 | 1993-04-14 |
 | Odluka o utvrđivanju općeg interesa za premještanje trase magistralne ceste MC-12/3 Karlovac - Josipdol - Jezerane; dionica, Gornji Zvečaj | [`odluka/1993/549/`](odluka/1993/549/) | in force | 1 | 1993-04-14 | 1993-04-14 |
 | Odluka o utvrđivanju općeg interesa za izgradnju cestovnoga graničnoga prijelaza Hum na Sutli - Rogatec | [`odluka/1993/550/`](odluka/1993/550/) | in force | 1 | 1993-04-14 | 1993-04-14 |
 | Odluka o izmjeni i dopuni Odluke o prijenosu dijela sredstava s prolaznih žiro-računa ispostava, u korist redovnog žiro-računa Direkcije Republičkog fonda | [`odluka/1993/552/`](odluka/1993/552/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o dopuni Popisa dijagnostičkih i terapijskih postupaka - vremenski i kadrovski normativi | [`odluka/1993/555/`](odluka/1993/555/) | amended, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju vrijednosti bodova za primjenu Popisa dijagnostičkih i terapijskih postupaka - vremenski i kadrovski normativi u 1993. godini | [`odluka/1993/556/`](odluka/1993/556/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
 | Odluka o utvrđivanju iskorištenosti ugovorenog broja bolesničkih ležaja u zdravstvenim ustanovama za bolničko liječenje u 1993. godini | [`odluka/1993/557/`](odluka/1993/557/) | in force | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o izmjeni i dopuni Odluke o utvrđivanju visine iznosa sredstava koje Republički fond zdravstvenog osiguranja i zdravstva Hrvatske osigurava za isplatu plaća zdravstvenih djelatnika pripravnika | [`odluka/1993/558/`](odluka/1993/558/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o izmjenama i dopunama Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite u 1993. godini | [`odluka/1993/559/`](odluka/1993/559/) | amended, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/560/`](odluka/1993/560/) | repealed, not consolidated | 1 | 1993-04-22 | 1993-04-22 |
 | Odluka o vrijednosti boda za izračunavanje vrijednosti standarda ortopedskih i drugih pomagala | [`odluka/1993/561/`](odluka/1993/561/) | in force | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o kriterijima za utvrđivanje prekomjerne uporabe javnih cesta | [`odluka/1993/563/`](odluka/1993/563/) | repealed, not consolidated | 1 | 1993-04-14 | 1993-04-14 |
+| Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1993/591/`](odluka/1993/591/) | replaced, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/592/`](odluka/1993/592/) | replaced, not consolidated | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o suglasnosti na povećanje prodajnih cjena osnovnih naftnih derivata | [`odluka/1993/594/`](odluka/1993/594/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o suglasnosti na povećanje cijene telefonskog impulsa i cjene pisama i dopisnica | [`odluka/1993/595/`](odluka/1993/595/) | in force | 1 | 1993-04-20 | 1993-04-20 |
 | Odluka o izmjenama Odluke o određivanju najviših cijena pšeničnoga brašna i kruha tipa 850 | [`odluka/1993/596/`](odluka/1993/596/) | in force | 1 | 1993-04-20 | 1993-04-20 |
@@ -2427,16 +2554,31 @@
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za lipanj 1993. godine | [`odluka/1993/988/`](odluka/1993/988/) | in force | 1 | 1993-05-31 | 1993-05-31 |
 | Odluka o obveznicima, osnovicama i visini sredstava za zdravstvenu zaštitu i drugim pravima iz zdravstvenog osiguranja | [`odluka/1993/994/`](odluka/1993/994/) | in force | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju visine iznosa sredstava koje Republički fond zdravstvenog osiguranja i zdravstva Hrvatske osigurava za isplatu plaća zdravstvenih djelatnika pripravnika | [`odluka/1993/995/`](odluka/1993/995/) | amending act | 1 | 1993-05-31 | 1993-05-31 |
+| Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1993/1002/`](odluka/1993/1002/) | replaced, not consolidated | 1 | 1993-06-22 | 1993-06-22 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1993/1003/`](odluka/1993/1003/) | replaced, not consolidated | 1 | 1993-06-22 | 1993-06-22 |
+| Odluka o suglasnosti na cijene prirodnoga plina | [`odluka/1993/1004/`](odluka/1993/1004/) | replaced, not consolidated | 1 | 1993-06-22 | 1993-06-22 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/1005/`](odluka/1993/1005/) | replaced, not consolidated | 1 | 1993-06-22 | 1993-06-22 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1993/1006/`](odluka/1993/1006/) | replaced, not consolidated | 1 | 1993-06-22 | 1993-06-22 |
 | Odluka o izmjeni Odluke o najvišem iznosu telefonske pretplate | [`odluka/1993/1007/`](odluka/1993/1007/) | in force | 1 | 1993-06-22 | 1993-06-22 |
+| Odluka o koeficijentima za utvrđivanje plaća djelatnika zaposlenih u organima i tijelima kojima se sredstva za rad osiguravaju u državnom proračunu | [`odluka/1993/1008/`](odluka/1993/1008/) | amended, not consolidated | 1 | 1993-06-30 | 1993-06-30 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Saveznoj Republici Njemačkoj, sa sjedištem u Bremenu | [`odluka/1993/1018/`](odluka/1993/1018/) | in force | 1 | 1993-05-26 | 1993-05-26 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Japanu, sa sjedištem u Tokiju | [`odluka/1993/1019/`](odluka/1993/1019/) | in force | 1 | 1993-05-26 | 1993-05-26 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Kraljevini Tajland, sa sjedištem u Bangkoku | [`odluka/1993/1020/`](odluka/1993/1020/) | in force | 1 | 1993-05-26 | 1993-05-26 |
 | Odluka o usklađivanju mirovina od l. travnja 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/1042/`](odluka/1993/1042/) | in force | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. travnja 1993. | [`odluka/1993/1043/`](odluka/1993/1043/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o visini minimalne mirovine od l. travnja 1993. | [`odluka/1993/1044/`](odluka/1993/1044/) | in force | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od l. travnja 1993. | [`odluka/1993/1045/`](odluka/1993/1045/) | in force | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. travnja 1993. | [`odluka/1993/1046/`](odluka/1993/1046/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. travnja 1993. | [`odluka/1993/1047/`](odluka/1993/1047/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. travnja 1993. | [`odluka/1993/1048/`](odluka/1993/1048/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od l. travnja 1993. | [`odluka/1993/1049/`](odluka/1993/1049/) | in force | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o iznimnom usklađivanju doplatka za djecu od 1. srpnja 1993. | [`odluka/1993/1050/`](odluka/1993/1050/) | in force | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o usklađivanju mirovina od 1. travnja 1993. | [`odluka/1993/1051/`](odluka/1993/1051/) | in force | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. travnja 1993. | [`odluka/1993/1052/`](odluka/1993/1052/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. travnja 1993. | [`odluka/1993/1053/`](odluka/1993/1053/) | in force | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. travnja 1993. | [`odluka/1993/1054/`](odluka/1993/1054/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. travnja 1993. | [`odluka/1993/1055/`](odluka/1993/1055/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. travnja 1993. | [`odluka/1993/1056/`](odluka/1993/1056/) | replaced, not consolidated | 1 | 1993-06-08 | 1993-06-08 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Kraljevini Norveškoj, sa sjedištem u Oslu | [`odluka/1993/1064/`](odluka/1993/1064/) | in force | 1 | 1993-05-31 | 1993-05-31 |
 | Odluka o zaštitnim cijenama stoke u 1993. godini | [`odluka/1993/1140/`](odluka/1993/1140/) | in force | 1 | 1993-06-13 | 1993-06-13 |
 | Odluka o zaštitnoj cijeni mlijeka za 1993. godinu | [`odluka/1993/1141/`](odluka/1993/1141/) | in force | 1 | 1993-06-13 | 1993-06-13 |
@@ -2446,16 +2588,38 @@
 | Odluka o izmjenama i dopunama Odluke o ograničenju izvoza određenih proizvoda | [`odluka/1993/1151/`](odluka/1993/1151/) | amending act | 1 | 1993-06-16 | 1993-06-16 |
 | Odluka o utvrđivanju općeg interesa za izgradnju telefonskoga optičkoga kabela na dionici Slavonki Brod - Đakovo | [`odluka/1993/1152/`](odluka/1993/1152/) | in force | 1 | 1993-06-16 | 1993-06-16 |
 | Odluka o dopuni Odluke o visini naknade za javne ceste | [`odluka/1993/1173/`](odluka/1993/1173/) | amending act | 1 | 1993-06-18 | 1993-06-18 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/1178/`](odluka/1993/1178/) | repealed, not consolidated | 1 | 1993-06-24 | 1993-06-24 |
 | Odluka o dopuni Odluke o ograničenju uvoza određenih proizvoda | [`odluka/1993/1185/`](odluka/1993/1185/) | amending act | 1 | 1993-06-24 | 1993-06-24 |
 | Odluka o utvrđivanju visine boravišne pristojbe za 1994. godinu | [`odluka/1993/1186/`](odluka/1993/1186/) | in force | 1 | 1993-06-24 | 1993-06-24 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnoga pravca MC-2.1. dionica Podberam - Kičer - Baderna | [`odluka/1993/1187/`](odluka/1993/1187/) | in force | 1 | 1993-06-24 | 1993-06-24 |
 | Odluka o utvrđivanju općeg interesa za izgradnju trase optičkoga kabela, na dionici Đurdevac - Virovitica | [`odluka/1993/1188/`](odluka/1993/1188/) | in force | 1 | 1993-06-24 | 1993-06-24 |
 | Odluka o utvrđivanju općeg interesa za izgradnju spojne ceste magistralnih pravaca MC-2 i MC-5 preko naselja Trbušnjak u Senju, k.o. Senj | [`odluka/1993/1189/`](odluka/1993/1189/) | in force | 1 | 1993-06-24 | 1993-06-24 |
 | Pravilnik o eskontnoj stopi Narodne banke Hrvatske za srpanj 1993. godine | [`odluka/1993/1270/`](odluka/1993/1270/) | in force | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1993/1271/`](odluka/1993/1271/) | amended, not consolidated | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1993/1272/`](odluka/1993/1272/) | in force | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima | [`odluka/1993/1273/`](odluka/1993/1273/) | amended, not consolidated | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o izmjeni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1993/1274/`](odluka/1993/1274/) | in force | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o izmjeni i dopuni Odluke o prodaji bankama blagajničkih zapisa Narodne banke Hrvatske u 1993. godini | [`odluka/1993/1275/`](odluka/1993/1275/) | amending act | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o iznošenju i unošenju efektivnih hrvatskih dinara u putničkom prometu s inozemstvom | [`odluka/1993/1276/`](odluka/1993/1276/) | replaced, not consolidated | 1 | 1993-07-01 | 1993-07-01 |
+| Odluka o uvjetima i načinu plaćanja gotovim novcem | [`odluka/1993/1277/`](odluka/1993/1277/) | repealed, not consolidated | 1 | 1993-07-09 | 1993-07-09 |
+| Odluka o dopuni Odluke o plaćanju posebne takse na uvezenu robu u 1993. godini | [`odluka/1993/1282/`](odluka/1993/1282/) | amended, not consolidated | 1 | 1993-07-02 | 1993-07-02 |
 | Odluka o izmjenama Odluke o visini premije za određene proizvode u poljoprivredi | [`odluka/1993/1284/`](odluka/1993/1284/) | in force | 1 | 1993-07-02 | 1993-07-02 |
+| Odluka o izmjenama i dopunama Odluke o jedinstvenoj klasifikaciji djelatnosti | [`odluka/1993/1286/`](odluka/1993/1286/) | amended, not consolidated | 1 | 1993-07-02 | 1993-07-02 |
+| Odluka o sjedištu i području na kojima djeluju uprave za obranu i uredi za obranu | [`odluka/1993/1287/`](odluka/1993/1287/) | repealed, not consolidated | 1 | 1993-07-02 | 1993-07-02 |
+| Odluka o visini kvota za korištenje kredita iz primarne emisije u III. tromjesečju 1993. godine | [`odluka/1993/1288/`](odluka/1993/1288/) | amended, not consolidated | 1 | 1993-07-02 | 1993-07-02 |
+| Odluka o iznosima sudjelovanja osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/1289/`](odluka/1993/1289/) | replaced, not consolidated | 1 | 1993-07-10 | 1993-07-10 |
 | Odluka o prenošenju željezničkih tračničkih vozila u vlasništvo Javnog poduzeća "HŽ - Hrvatske željeznice" | [`odluka/1993/1290/`](odluka/1993/1290/) | in force | 1 | 1993-07-06 | 1993-07-06 |
+| Odluka o razvrstavanju magistralnih željezničkih pruga | [`odluka/1993/1291/`](odluka/1993/1291/) | repealed, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o visini naknade za obvezne zdravstvene preglede bilja u prometu preko granice Republike Hrvatske | [`odluka/1993/1292/`](odluka/1993/1292/) | in force | 1 | 1993-07-14 | 1993-07-14 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnog pravca plinovoda DN 300 Našice - Slavonski Brod | [`odluka/1993/1294/`](odluka/1993/1294/) | in force | 1 | 1993-07-06 | 1993-07-06 |
+| Odluka o razvrstavanju željezničkih pruga I. i II. reda | [`odluka/1993/1295/`](odluka/1993/1295/) | repealed, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1993/1299/`](odluka/1993/1299/) | replaced, not consolidated | 1 | 1993-07-07 | 1993-07-07 |
 | Odluka o suglasnosti na povećanje cijena električne energije | [`odluka/1993/1300/`](odluka/1993/1300/) | in force | 1 | 1993-07-07 | 1993-07-07 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1993/1302/`](odluka/1993/1302/) | replaced, not consolidated | 1 | 1993-07-07 | 1993-07-07 |
+| Odluka o najvišem iznosu telefonske pretplate | [`odluka/1993/1303/`](odluka/1993/1303/) | repealed, not consolidated | 1 | 1993-07-08 | 1993-07-08 |
+| Odluka o dopuni Odluke o sudjelovanju osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/1305/`](odluka/1993/1305/) | amending act | 1 | 1993-07-07 | 1993-07-07 |
+| Odluka o izmjeni i dopuni Popisa dijagnostičkih i terapijskih postupaka u zdravstvenim djelatnostima - vremenski i kadrovski normativi | [`odluka/1993/1306/`](odluka/1993/1306/) | amended, not consolidated | 1 | 1993-07-07 | 1993-07-07 |
+| Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora o provođenju zdravstvene zaštite u 1993. godini | [`odluka/1993/1308/`](odluka/1993/1308/) | amended, not consolidated | 1 | 1993-07-07 | 1993-07-07 |
 | Odluka o izmjeni i dopuni Odluke o utvrđivanju visine iznosa sredstava koja Republički fond zdravstvenog osiguranja i zdravstva Hrvatske osigurava za isplatu plaća zdravstvenih djelatnika pripravnika | [`odluka/1993/1309/`](odluka/1993/1309/) | amending act | 1 | 1993-07-07 | 1993-07-07 |
 | Odluka o utvrđivanju visine i namjene kredita do koje se Republički fond zdravstvenog osiguranja i zdravstva Hrvatske može zadužiti kod poslovnih banaka na teritoriju Hrvatske | [`odluka/1993/1317/`](odluka/1993/1317/) | in force | 1 | 1993-07-17 | 1993-07-17 |
 | Odluka o privremenom financiranju Općine Vrbovsko za 1993. godinu | [`odluka/1993/1341/`](odluka/1993/1341/) | in force | 1 | 1993-07-13 | 1993-07-13 |
@@ -2464,56 +2628,110 @@
 | Odluka o privremenom financiranju Općine Imotski za 1993. godinu | [`odluka/1993/1370/`](odluka/1993/1370/) | in force | 1 | 1993-07-13 | 1993-07-13 |
 | Odluka o privremenom financiranju Općine Vinkovci za 1993. godinu | [`odluka/1993/1371/`](odluka/1993/1371/) | in force | 1 | 1993-07-13 | 1993-07-13 |
 | Odluka o usklađivanju mirovina od 1. svibnja 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/1373/`](odluka/1993/1373/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1993. | [`odluka/1993/1374/`](odluka/1993/1374/) | replaced, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
 | Odluka o visini minimalne mirovine od 1. svibnja 1993. | [`odluka/1993/1375/`](odluka/1993/1375/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. svibnja 1993. | [`odluka/1993/1376/`](odluka/1993/1376/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1993. | [`odluka/1993/1378/`](odluka/1993/1378/) | replaced, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. svibnja 1993. | [`odluka/1993/1379/`](odluka/1993/1379/) | in force | 1 | 1993-07-14 | 1993-07-14 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1992. do 31. prosinca 1992. | [`odluka/1993/1380/`](odluka/1993/1380/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1993. do 30. travnja 1993. | [`odluka/1993/1381/`](odluka/1993/1381/) | amended, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. siječnja 1993. | [`odluka/1993/1384/`](odluka/1993/1384/) | replaced, not consolidated | 1 | 1993-07-13 | 1993-07-13 |
+| Odluka o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. siječnja 1993. | [`odluka/1993/1385/`](odluka/1993/1385/) | replaced, not consolidated | 1 | 1993-07-13 | 1993-07-13 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja radi određivanja zaštitnog dodatka uz mirovinu od 1. siječnja 1993. | [`odluka/1993/1386/`](odluka/1993/1386/) | replaced, not consolidated | 1 | 1993-07-13 | 1993-07-13 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1993. | [`odluka/1993/1387/`](odluka/1993/1387/) | replaced, not consolidated | 1 | 1993-07-13 | 1993-07-13 |
+| Odluka o visini doplatka za pomoć i njegu od 1. siječnja 1993. | [`odluka/1993/1388/`](odluka/1993/1388/) | replaced, not consolidated | 1 | 1993-07-13 | 1993-07-13 |
+| Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. siječnja 1993. | [`odluka/1993/1389/`](odluka/1993/1389/) | replaced, not consolidated | 1 | 1993-07-13 | 1993-07-13 |
+| Odluka o usklađivanju mirovina od 1. svibnja 1993. | [`odluka/1993/1390/`](odluka/1993/1390/) | replaced, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. svibnja 1993. | [`odluka/1993/1391/`](odluka/1993/1391/) | replaced, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. svibnja 1993. | [`odluka/1993/1392/`](odluka/1993/1392/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. svibnja 1993. | [`odluka/1993/1393/`](odluka/1993/1393/) | replaced, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1993. | [`odluka/1993/1394/`](odluka/1993/1394/) | replaced, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Republici Mađarskoj, sa sjedištem u Pečuhu | [`odluka/1993/1419/`](odluka/1993/1419/) | in force | 1 | 1993-07-06 | 1993-07-06 |
 | Odluka o prijenosu nekretnina u k o. Lipik na općinu Lipik | [`odluka/1993/1421/`](odluka/1993/1421/) | in force | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o osnivanju Komisije za suzbijanje zloupotrebe droga | [`odluka/1993/1422/`](odluka/1993/1422/) | amended, not consolidated | 1 | 1993-07-14 | 1993-07-14 |
+| Odluka o otvaranju sezonskog zračnog graničnog prijelaza za međunarodni promet | [`odluka/1993/1429/`](odluka/1993/1429/) | in force | 1 | 1993-07-16 | 1993-07-16 |
 | Odluka o utvrđivanju općeg interesa za izgradnju retencije"Čučerje" | [`odluka/1993/1430/`](odluka/1993/1430/) | in force | 1 | 1993-07-16 | 1993-07-16 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Vrbovsko | [`odluka/1993/1442/`](odluka/1993/1442/) | amending act | 1 | 1993-07-20 | 1993-07-20 |
 | Odluka o suglasnosti na cijenu električne energije | [`odluka/1993/1462/`](odluka/1993/1462/) | in force | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o suglasnosti na cijenu prirodnog plina | [`odluka/1993/1463/`](odluka/1993/1463/) | in force | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o neposrednim porezima Općine Nova Gradiška | [`odluka/1993/1464/`](odluka/1993/1464/) | in force | 1 | 1993-07-23 | 1993-07-23 |
+| Odluka o neposrednim porezima Općine Vrgorac | [`odluka/1993/1465/`](odluka/1993/1465/) | amended, not consolidated | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o dopuni Odluke o neposrednim porezima Općine Bjelovar | [`odluka/1993/1466/`](odluka/1993/1466/) | amending act | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Našice | [`odluka/1993/1467/`](odluka/1993/1467/) | amending act | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Split | [`odluka/1993/1468/`](odluka/1993/1468/) | amending act | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Šibenik | [`odluka/1993/1469/`](odluka/1993/1469/) | amending act | 1 | 1993-07-23 | 1993-07-23 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Virovitica | [`odluka/1993/1470/`](odluka/1993/1470/) | amending act | 1 | 1993-07-23 | 1993-07-23 |
+| Odluka o plaćanju poreza iz neto-plaća i drugih osobnih primanja | [`odluka/1993/1481/`](odluka/1993/1481/) | amended, not consolidated | 1 | 1993-07-28 | 1993-07-28 |
 | Odluka o doznačivanju (alokaciji) sredstava osiguranih prema Zakonu o financiranju obnove | [`odluka/1993/1482/`](odluka/1993/1482/) | in force | 1 | 1993-07-28 | 1993-07-28 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Čakovec | [`odluka/1993/1483/`](odluka/1993/1483/) | amending act | 1 | 1993-07-28 | 1993-07-28 |
 | Odluka o usklađivanju mirovina od 1. lipnja 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/1487/`](odluka/1993/1487/) | in force | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1993. | [`odluka/1993/1488/`](odluka/1993/1488/) | replaced, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
 | Odluka o visini minimalne mirovine od 1. lipnja 1993. | [`odluka/1993/1489/`](odluka/1993/1489/) | in force | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1993. | [`odluka/1993/1490/`](odluka/1993/1490/) | replaced, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1993. | [`odluka/1993/1491/`](odluka/1993/1491/) | amended, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1993. | [`odluka/1993/1492/`](odluka/1993/1492/) | replaced, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. lipnja 1993. | [`odluka/1993/1493/`](odluka/1993/1493/) | in force | 1 | 1993-07-29 | 1993-07-29 |
 | Odluka o izmjeni Odluke o usklađivanju mirovina od 1. siječnja 1993. do 30. travnja 1993. | [`odluka/1993/1494/`](odluka/1993/1494/) | in force | 1 | 1993-07-29 | 1993-07-29 |
 | Odluka o usklađivanju mirovina od 1. lipnja 1993. | [`odluka/1993/1495/`](odluka/1993/1495/) | in force | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. lipnja 1993. | [`odluka/1993/1496/`](odluka/1993/1496/) | replaced, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1993. | [`odluka/1993/1497/`](odluka/1993/1497/) | replaced, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1993. | [`odluka/1993/1498/`](odluka/1993/1498/) | amended, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1993. | [`odluka/1993/1499/`](odluka/1993/1499/) | replaced, not consolidated | 1 | 1993-07-29 | 1993-07-29 |
 | Odluka o alokaciji raspoloživih sredstava osiguranih prema Zakonu o financiranju obnove | [`odluka/1993/1508/`](odluka/1993/1508/) | in force | 1 | 1993-07-30 | 1993-07-30 |
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnoga telefonskog optičkoga kabela na dionici Bjelovar - Đurđevac | [`odluka/1993/1509/`](odluka/1993/1509/) | in force | 1 | 1993-07-30 | 1993-07-30 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/1510/`](odluka/1993/1510/) | replaced, not consolidated | 1 | 1993-07-30 | 1993-07-30 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/1517/`](odluka/1993/1517/) | repealed, not consolidated | 1 | 1993-07-30 | 1993-07-30 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima općine Otočac | [`odluka/1993/1523/`](odluka/1993/1523/) | amending act | 1 | 1993-08-06 | 1993-08-06 |
+| Odluka o visini posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1993/1524/`](odluka/1993/1524/) | repealed, not consolidated | 1 | 1993-08-06 | 1993-08-06 |
+| Odluka o oslobađanju plaćanja posebne pristojbe (prelevmana) pri uvozu šećera | [`odluka/1993/1525/`](odluka/1993/1525/) | replaced, not consolidated | 1 | 1993-08-06 | 1993-08-06 |
 | Odluka o osnivanju Komisije za nadzor nad radom humanitarnih organizacija | [`odluka/1993/1526/`](odluka/1993/1526/) | in force | 1 | 1993-07-20 | 1993-07-20 |
 | Odluka o podršci zahtjevu Međunarodnog olimpijskog komiteta da se 1994. godina proglasi godinom športa i olimpizma | [`odluka/1993/1527/`](odluka/1993/1527/) | in force | 1 | 1993-08-05 | 1993-08-05 |
 | Odluka o podršci zahtjevu Međunarodnog olimpijskog komiteta da Ujedinjeni narodi usvoje rezoluciju o olimpijskom primirju za vrijeme održavanja ljetnih i zimskih olimpijskih igara | [`odluka/1993/1528/`](odluka/1993/1528/) | in force | 1 | 1993-08-05 | 1993-08-05 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za kolovoz 1993. godine | [`odluka/1993/1530/`](odluka/1993/1530/) | in force | 1 | 1993-08-06 | 1993-08-06 |
+| Odluka o izmjeni Odluke o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima | [`odluka/1993/1531/`](odluka/1993/1531/) | in force | 1 | 1993-08-06 | 1993-08-06 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1993/1532/`](odluka/1993/1532/) | in force | 1 | 1993-08-06 | 1993-08-06 |
 | Odluka o dopuni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1993/1533/`](odluka/1993/1533/) | amending act | 1 | 1993-08-06 | 1993-08-06 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za produženo mirovinsko i invalidsko osiguranje | [`odluka/1993/1594/`](odluka/1993/1594/) | replaced, not consolidated | 1 | 1993-08-28 | 1993-08-28 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvats | [`odluka/1993/1595/`](odluka/1993/1595/) | in force | 1 | 1993-08-28 | 1993-08-28 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku z | [`odluka/1993/1597/`](odluka/1993/1597/) | in force | 1 | 1993-08-28 | 1993-08-28 |
+| Odluka o usklađivanju mirovina od 1. svibnja 1993. | [`odluka/1993/1598/`](odluka/1993/1598/) | amended, not consolidated | 1 | 1993-08-21 | 1993-08-21 |
+| Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1993/1601/`](odluka/1993/1601/) | replaced, not consolidated | 1 | 1993-08-25 | 1993-08-25 |
 | Odluka o dopuni Odluke o obvezi prijave cjenika odnosno tarifa određenih proizvoda i usluga | [`odluka/1993/1602/`](odluka/1993/1602/) | amending act | 1 | 1993-08-25 | 1993-08-25 |
 | Odluka o izmjenama i dopunama Odluke o jedinstvenoj klasifikaciji djelatnosti | [`odluka/1993/1610/`](odluka/1993/1610/) | amending act | 1 | 1993-08-30 | 1993-08-30 |
 | Odluka o neposrednim porezima Općine Labin | [`odluka/1993/1611/`](odluka/1993/1611/) | in force | 1 | 1993-08-30 | 1993-08-30 |
 | Odluka o neposrednim porezima Općine Križevci | [`odluka/1993/1612/`](odluka/1993/1612/) | in force | 1 | 1993-08-30 | 1993-08-30 |
 | Odluka o izmjenama i dopunama Odluke o neposrednim porezima Općine Rab | [`odluka/1993/1613/`](odluka/1993/1613/) | amending act | 1 | 1993-08-30 | 1993-08-30 |
 | Odluka o izmjeni Odluke o visini kvota za korištenje kredita iz primarne emisije u III. tromjesečju 1993. godine | [`odluka/1993/1624/`](odluka/1993/1624/) | in force | 1 | 1993-09-01 | 1993-09-01 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1993/1625/`](odluka/1993/1625/) | amended, not consolidated | 1 | 1993-09-01 | 1993-09-01 |
 | Odluka o izmjeni Odluke o kamatnim stopama i stopama naknade Narodne banke Hrvatske | [`odluka/1993/1626/`](odluka/1993/1626/) | in force | 1 | 1993-09-01 | 1993-09-01 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za rujan 1993. godine | [`odluka/1993/1627/`](odluka/1993/1627/) | in force | 1 | 1993-09-01 | 1993-09-01 |
 | Odluka o prodaji deviza Narodnoj banci Hrvatske uz istovremeni upis blagajničkih zapisa | [`odluka/1993/1628/`](odluka/1993/1628/) | in force | 1 | 1993-09-01 | 1993-09-01 |
 | Odluka o usklađivanju mirovina od 1. srpnja 1993. | [`odluka/1993/1630/`](odluka/1993/1630/) | in force | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1993. | [`odluka/1993/1631/`](odluka/1993/1631/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. srpnja 1993. | [`odluka/1993/1632/`](odluka/1993/1632/) | in force | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1993. | [`odluka/1993/1633/`](odluka/1993/1633/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1993. | [`odluka/1993/1634/`](odluka/1993/1634/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. srpnja 1993. | [`odluka/1993/1635/`](odluka/1993/1635/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
 | Odluka o usklađivanju mirovina od 1. srpnja 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/1636/`](odluka/1993/1636/) | in force | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. srpnja 1993. | [`odluka/1993/1637/`](odluka/1993/1637/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. srpnja 1993. | [`odluka/1993/1638/`](odluka/1993/1638/) | in force | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1993. | [`odluka/1993/1639/`](odluka/1993/1639/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1993. | [`odluka/1993/1640/`](odluka/1993/1640/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
 | Odluka o visini minimalne mirovine od 1. srpnja 1993. | [`odluka/1993/1641/`](odluka/1993/1641/) | in force | 1 | 1993-09-02 | 1993-09-02 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. srpnja 1993. | [`odluka/1993/1642/`](odluka/1993/1642/) | in force | 1 | 1993-09-02 | 1993-09-02 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. srpnja 1993. | [`odluka/1993/1643/`](odluka/1993/1643/) | replaced, not consolidated | 1 | 1993-09-02 | 1993-09-02 |
 | Odluka o izmjeni Odluke o usklađivanju mirovina od 1. svibnja 1993. | [`odluka/1993/1644/`](odluka/1993/1644/) | in force | 1 | 1993-09-02 | 1993-09-02 |
 | Odluka o izmjeni Odluke o neposrednim porezima Općine Orahovica | [`odluka/1993/1649/`](odluka/1993/1649/) | in force | 1 | 1993-09-03 | 1993-09-03 |
 | Odluka o davanju dijela poslovnih zgrada i prostorija Republike Hrvatske u posjed županijama | [`odluka/1993/1650/`](odluka/1993/1650/) | in force | 1 | 1993-09-03 | 1993-09-03 |
+| Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/1651/`](odluka/1993/1651/) | replaced, not consolidated | 1 | 1993-09-03 | 1993-09-03 |
 | Odluka o utvrđivanju općeg interesa za gradnju graničnoga prijelaza Bregana - nulta faza | [`odluka/1993/1652/`](odluka/1993/1652/) | in force | 1 | 1993-09-03 | 1993-09-03 |
+| Odluka o načinu vođenja poslova i izmirivanju obveza koje proizlaze iz članstva Republike Hrvatske u Međunarodnom monetarnom fondu i drugim međunarodnim financijskim organizacijama | [`odluka/1993/1663/`](odluka/1993/1663/) | repealed, not consolidated | 1 | 1993-09-11 | 1993-09-11 |
+| Odluka o plaćanju poreza iz neto-plaća i drugih osobnih primanja | [`odluka/1993/1670/`](odluka/1993/1670/) | amended, not consolidated | 1 | 1993-09-16 | 1993-09-16 |
+| Odluka o suglasnosti na povećanje cijena prijevoza putnika i stvari u unutarnjem željezničkom prometu | [`odluka/1993/1671/`](odluka/1993/1671/) | replaced, not consolidated | 1 | 1993-09-16 | 1993-09-16 |
+| Odluka o iznosima sudjelovanja osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/1673/`](odluka/1993/1673/) | amended, not consolidated | 1 | 1993-09-24 | 1993-09-24 |
+| Odluka o utvrđivanju vrijednosti timova primarne zdravstvene zaštite | [`odluka/1993/1674/`](odluka/1993/1674/) | replaced, not consolidated | 1 | 1993-09-16 | 1993-09-16 |
 | Odluka o utvrđivanju vrijednosti boda za primjenu Popisa dijagnostičkih i terapijskih postupaka, visine iznosa troškova za smještaj i prehranu bolesnika u stacionarnim zdravstvenim ustanovama i iznosa | [`odluka/1993/1675/`](odluka/1993/1675/) | in force | 1 | 1993-09-16 | 1993-09-16 |
+| Odluka o utvrđivanju visine iznosa sredstava koja Hrvatski zavod za zdravstveno osiguranje osigurava za isplatu plaća zdravstvenih djelatnika pripravnika i specijalizanata u zdravstvenim ustanovama | [`odluka/1993/1676/`](odluka/1993/1676/) | replaced, not consolidated | 1 | 1993-09-16 | 1993-09-16 |
 | Odluka o neposrednim porezima Općine Zadar | [`odluka/1993/1677/`](odluka/1993/1677/) | in force | 1 | 1993-09-21 | 1993-09-21 |
 | Odluka o neposrednim porezima Općine Županja | [`odluka/1993/1678/`](odluka/1993/1678/) | in force | 1 | 1993-09-21 | 1993-09-21 |
 | Odluka o dopuni Odluke o neposrednim porezima Općine Grubišno Polje | [`odluka/1993/1679/`](odluka/1993/1679/) | amending act | 1 | 1993-09-21 | 1993-09-21 |
@@ -2534,73 +2752,155 @@
 | Odluka o utvrđivanju općeg interesa za izgradnju magistralnoga plinovoda MRS Konjščina - MRS Sveti Ivan Zelina | [`odluka/1993/1724/`](odluka/1993/1724/) | in force | 1 | 1993-10-01 | 1993-10-01 |
 | Odluka o utvrđivanju općeg interesa za izgradnju plinovoda Strizivojna - Đakovo | [`odluka/1993/1725/`](odluka/1993/1725/) | in force | 1 | 1993-10-01 | 1993-10-01 |
 | Odluka o visini kvota za korištenje kredita iz primarne emisije za listopad 1993. godine | [`odluka/1993/1730/`](odluka/1993/1730/) | in force | 1 | 1993-10-01 | 1993-10-01 |
+| Odluka o odobravanju reeskontnih i lombardnih kredita | [`odluka/1993/1731/`](odluka/1993/1731/) | in force | 1 | 1993-10-01 | 1993-10-01 |
 | Odluka o eskontnoj stopi Narodne banke Hrvatske za listopad 1993. godine | [`odluka/1993/1733/`](odluka/1993/1733/) | in force | 1 | 1993-10-01 | 1993-10-01 |
 | Odluka o prestanku važenja Odluke o prodaji dijela deviza Narodnoj banci Hrvatske po osnovi otkupljenog efektivnog stranog novca po mjenjačkim poslovima i po osnovi otkupa deviza od domaćih i stranih | [`odluka/1993/1734/`](odluka/1993/1734/) | in force | 1 | 1993-10-01 | 1993-10-01 |
 | Odluka o izmjenama i dopunama Odluke o plaćanju posebne takse na uvezenu robu u 1993. godini | [`odluka/1993/1744/`](odluka/1993/1744/) | amending act | 1 | 1993-10-04 | 1993-10-04 |
+| Odluka o dopuni Odluke o kriterijima za carinski kontingent | [`odluka/1993/1745/`](odluka/1993/1745/) | amending act | 1 | 1993-10-04 | 1993-10-04 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/1748/`](odluka/1993/1748/) | amended, not consolidated | 1 | 1993-10-04 | 1993-10-04 |
+| Odluka o zaštitnoj cijeni pšenice roda 1994. godine | [`odluka/1993/1750/`](odluka/1993/1750/) | amended, not consolidated | 1 | 1993-10-12 | 1993-10-12 |
+| Odluka o zaštitnoj cijeni uljane repice roda 1994. godine | [`odluka/1993/1751/`](odluka/1993/1751/) | amended, not consolidated | 1 | 1993-10-12 | 1993-10-12 |
 | Odluka o suglasnosti na povećanje prodajnih cijena osnovnih naftnih derivata | [`odluka/1993/1752/`](odluka/1993/1752/) | in force | 1 | 1993-10-04 | 1993-10-04 |
 | Odluka o suglasnosti na iznos radijske i televizijske pretplate | [`odluka/1993/1753/`](odluka/1993/1753/) | in force | 1 | 1993-10-04 | 1993-10-04 |
 | Odluka o utvrđivanju općeg interesa za prenamjenu produktovoda Bosanski Brod - Opatovac u plinovod, dionica Slavonski Brod - Vinkovci | [`odluka/1993/1754/`](odluka/1993/1754/) | in force | 1 | 1993-10-04 | 1993-10-04 |
 | Odluka o obavljanju poslova Komisije za stambena pitanja Vlade Republike Hrvatske | [`odluka/1993/1762/`](odluka/1993/1762/) | in force | 1 | 1993-09-23 | 1993-09-23 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1993/1766/`](odluka/1993/1766/) | replaced, not consolidated | 1 | 1993-10-08 | 1993-10-08 |
+| Odluka o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1993/1767/`](odluka/1993/1767/) | repealed, not consolidated | 1 | 1993-10-08 | 1993-10-08 |
+| Odluka o kamatnim stopama i stopama naknade Narodne banke Hrvatske za listopad 1993. godine | [`odluka/1993/1768/`](odluka/1993/1768/) | in force | 1 | 1993-10-08 | 1993-10-08 |
+| Odluka o obveznoj rezervi banaka kod Narodne banke Hrvatske | [`odluka/1993/1769/`](odluka/1993/1769/) | amended, not consolidated | 1 | 1993-10-08 | 1993-10-08 |
 | Odluka o izmjeni Odluke o visini kvota za prodaju deviza Narodnoj banci Hrvatske za listopad 1993. godine | [`odluka/1993/1770/`](odluka/1993/1770/) | in force | 1 | 1993-10-08 | 1993-10-08 |
 | Odluka o izmjeni Odluke o prodaji bankama blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1993/1771/`](odluka/1993/1771/) | in force | 1 | 1993-10-08 | 1993-10-08 |
 | Odluka o davanju suglasnosti za osnivanje Generalnoga konzulata Republike Filipini u Zagrebu | [`odluka/1993/1790/`](odluka/1993/1790/) | in force | 1 | 1993-10-13 | 1993-10-13 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1993/1792/`](odluka/1993/1792/) | in force | 1 | 1993-10-15 | 1993-10-15 |
 | Odluka o dopuni Odluke o plaćanju posebne takse na uvezenu robu u 1993. godini | [`odluka/1993/1873/`](odluka/1993/1873/) | amending act | 1 | 1993-10-22 | 1993-10-22 |
+| Odluka o dopuni Odluke o kriterijima za carinski kontingent | [`odluka/1993/1874/`](odluka/1993/1874/) | amending act | 1 | 1993-10-22 | 1993-10-22 |
 | Odluka o izmjeni Odluke o određivanju najnižih svota na koje se mora ugovoriti osiguranje putnika u javnom prijevozu od posljedica nesretnoga slučaja | [`odluka/1993/1875/`](odluka/1993/1875/) | in force | 1 | 1993-10-22 | 1993-10-22 |
+| Odluka o utvrđivanju vrijednosti timova primarne zdravstvene zaštite | [`odluka/1993/1909/`](odluka/1993/1909/) | amended, not consolidated | 1 | 1993-10-29 | 1993-10-29 |
 | Odluka o utvrđivanju vrijednosti boda za primjenu Popisa dijagnostičkih i terapijskih postupaka, visine iznosa troškova za smještaj i prehranu bolesnika u stacioniranim zdravstvenim ustanovama i izno | [`odluka/1993/1910/`](odluka/1993/1910/) | in force | 1 | 1993-10-29 | 1993-10-29 |
 | Odluka o izmjeni Odluke o iznosima sudjelovanja osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/1912/`](odluka/1993/1912/) | in force | 1 | 1993-10-29 | 1993-10-29 |
+| Odluka o visini kvota za korištenje kredita za primarne emisije za studeni 1993. godine | [`odluka/1993/1919/`](odluka/1993/1919/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
 | Odluka o izmjeni i dopuni Odluke o načinu i uvjetima odobravanja kredita bankama za održavanje dnevne likvidnosti | [`odluka/1993/1920/`](odluka/1993/1920/) | amending act | 1 | 1993-11-02 | 1993-11-02 |
+| Odluka o kamatnim stopama Narodne banke Hrvatske | [`odluka/1993/1921/`](odluka/1993/1921/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Odluka o načinu i rokovima dostavljanja izvješća o kupljenim odnosno prodanim devizama na deviznom tržištu | [`odluka/1993/1922/`](odluka/1993/1922/) | repealed, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Odluka o načinu obavljanja platnog prometa s inozemstvom | [`odluka/1993/1923/`](odluka/1993/1923/) | amended, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Odluka o svoti deviza koju domaće fizičke osobe mogu iznositi iz Republike Hrvatske u putničkom prometu s inozemstvom | [`odluka/1993/1925/`](odluka/1993/1925/) | repealed, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Odluka o uvjetima pod kojima se domaća i strana valuta, čekovi i drugi vrijednosni papiri mogu unositi i iznositi iz Republike Hrvatske u poštanskim i drugim pošiljkama | [`odluka/1993/1926/`](odluka/1993/1926/) | repealed, not consolidated | 1 | 1993-11-02 | 1993-11-02 |
+| Odluka o prodaji deviza domaćim fizičkim osobama | [`odluka/1993/1932/`](odluka/1993/1932/) | amended, not consolidated | 1 | 1993-11-03 | 1993-11-03 |
 | Odluka o utvrđivanju općeg interesa za izgradnju retencije "Jazbina" na katastarskim česticama katastarske općine Remete | [`odluka/1993/1934/`](odluka/1993/1934/) | in force | 1 | 1993-11-03 | 1993-11-03 |
 | Odluka o utvrđivanju općeg interesa za izgradnju regionalne ceste RC 2440, dionice Otok - Vrbanja | [`odluka/1993/1935/`](odluka/1993/1935/) | in force | 1 | 1993-11-03 | 1993-11-03 |
 | Odluka o dopuni Odluke o neposrednim porezima Općine Vrgorac | [`odluka/1993/1946/`](odluka/1993/1946/) | amending act | 1 | 1993-11-05 | 1993-11-05 |
 | Odluka o izmjeni Odluke o neposrednim porezima Općine Vinkovci | [`odluka/1993/1947/`](odluka/1993/1947/) | in force | 1 | 1993-11-05 | 1993-11-05 |
 | Odluka o izmjenama Odluke o osnivanju Republičkoga fonda "Zrinski i Frankopani" | [`odluka/1993/1948/`](odluka/1993/1948/) | in force | 1 | 1993-11-05 | 1993-11-05 |
 | Odluka o usklađivanju mirovina od 1. listopada 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/1951/`](odluka/1993/1951/) | in force | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1993. | [`odluka/1993/1952/`](odluka/1993/1952/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
 | Odluka o visini minimalne mirovine od 1. listopada 1993. | [`odluka/1993/1953/`](odluka/1993/1953/) | in force | 1 | 1993-11-06 | 1993-11-06 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od l. listopada 1993. | [`odluka/1993/1954/`](odluka/1993/1954/) | in force | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. listopada 1993. | [`odluka/1993/1955/`](odluka/1993/1955/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. listopada 1993. | [`odluka/1993/1956/`](odluka/1993/1956/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. listopada 1993. | [`odluka/1993/1957/`](odluka/1993/1957/) | in force | 1 | 1993-11-06 | 1993-11-06 |
 | Odluka o usklađivanju mirovina od 1. rujna 1993. | [`odluka/1993/1958/`](odluka/1993/1958/) | in force | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o usklađivanju mirovina od 1. listopada 1993. | [`odluka/1993/1959/`](odluka/1993/1959/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. listopada 1993. | [`odluka/1993/1960/`](odluka/1993/1960/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. listopada 1993. | [`odluka/1993/1961/`](odluka/1993/1961/) | in force | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. listopada 1993. | [`odluka/1993/1962/`](odluka/1993/1962/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. listopada 1993. | [`odluka/1993/1963/`](odluka/1993/1963/) | replaced, not consolidated | 1 | 1993-11-06 | 1993-11-06 |
 | Odluka o određivanju zajamčene najniže svote koja se isplaćuje korisniku mirovine od 1. listopada 1993. | [`odluka/1993/1964/`](odluka/1993/1964/) | in force | 1 | 1993-11-05 | 1993-11-05 |
+| Odluka o izmjeni Odluke o vrsti, količini i vrijednosti predmeta na koje se pri uvozu primjenjuju carinske povlastice | [`odluka/1993/1969/`](odluka/1993/1969/) | in force | 1 | 1993-11-18 | 1993-11-18 |
+| Odluka o određivanju paušalnog iznosa za troškove kaznenog postupka | [`odluka/1993/1970/`](odluka/1993/1970/) | repealed, not consolidated | 1 | 1993-11-18 | 1993-11-18 |
 | Odluka o prestanku Poduzeća "Zrakoplovno-tehnički centar" Zagreb | [`odluka/1993/1971/`](odluka/1993/1971/) | in force | 1 | 1993-11-09 | 1993-11-09 |
 | Odluka o utvrđivanju općeg interesa za izgradnju otpremnog plinovoda DN 150 "Legrad Donja Dubrava" | [`odluka/1993/1972/`](odluka/1993/1972/) | in force | 1 | 1993-11-10 | 1993-11-10 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/1989/`](odluka/1993/1989/) | repealed, not consolidated | 1 | 1993-11-11 | 1993-11-11 |
+| Odluka o potanjim uvjetima za osnivanje i rad predstavništava inozemnih banaka u Republici Hrvatskoj | [`odluka/1993/2005/`](odluka/1993/2005/) | replaced, not consolidated | 1 | 1993-11-20 | 1993-11-20 |
 | Odluka o prestanku važenja Odluke o prodaji bankama blagajničkih zapisa Narodne banke Hrvatske u 1993. godini | [`odluka/1993/2006/`](odluka/1993/2006/) | in force | 1 | 1993-11-19 | 1993-11-19 |
 | Odluka o usklađivanju mirovina od 1. studenoga 1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/2013/`](odluka/1993/2013/) | in force | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. studenoga 1993. | [`odluka/1993/2014/`](odluka/1993/2014/) | replaced, not consolidated | 1 | 1993-11-24 | 1993-11-24 |
 | Odluka o visini minimalne mirovine od 1. studenoga 1993. | [`odluka/1993/2015/`](odluka/1993/2015/) | in force | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. studenoga 1993. | [`odluka/1993/2016/`](odluka/1993/2016/) | in force | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. studenoga 1993. | [`odluka/1993/2017/`](odluka/1993/2017/) | replaced, not consolidated | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1993. | [`odluka/1993/2018/`](odluka/1993/2018/) | replaced, not consolidated | 1 | 1993-11-24 | 1993-11-24 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. studenoga 1993. | [`odluka/1993/2019/`](odluka/1993/2019/) | in force | 1 | 1993-11-24 | 1993-11-24 |
 | Odluka o usklađivanju mirovina od 1. listopada 1993. | [`odluka/1993/2020/`](odluka/1993/2020/) | in force | 1 | 1993-11-24 | 1993-11-24 |
 | Odluka o usklađivanju mirovina od 1. studenoga 1993. | [`odluka/1993/2021/`](odluka/1993/2021/) | in force | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. studenoga 1993. | [`odluka/1993/2022/`](odluka/1993/2022/) | replaced, not consolidated | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezi s pravom na zaposlenje od 1. studenoga 1993. | [`odluka/1993/2023/`](odluka/1993/2023/) | in force | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. studenoga 1993. | [`odluka/1993/2024/`](odluka/1993/2024/) | replaced, not consolidated | 1 | 1993-11-24 | 1993-11-24 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. studenoga 1993. | [`odluka/1993/2025/`](odluka/1993/2025/) | replaced, not consolidated | 1 | 1993-11-24 | 1993-11-24 |
 | Zakon o posebnim uvjetima za obavljanje poslova međunarodnog otpremništva u svezi sa carinjenjem robe | [`odluka/1993/2030/`](odluka/1993/2030/) | in force | 1 | 1993-12-03 | 1993-12-03 |
 | Zakon o izmjenama i dopunama Zakona o carinskoj službi Republike Hrvatske | [`odluka/1993/2036/`](odluka/1993/2036/) | amending act | 1 | 1993-11-25 | 1993-11-25 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/2037/`](odluka/1993/2037/) | in force | 1 | 1993-11-25 | 1993-11-25 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1993/2045/`](odluka/1993/2045/) | replaced, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
 | Odluka o visini kvota za korištenje kredita iz primarne emisije za prosinac 1993. godine | [`odluka/1993/2046/`](odluka/1993/2046/) | in force | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1993/2047/`](odluka/1993/2047/) | in force | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1993/2048/`](odluka/1993/2048/) | amended, not consolidated | 1 | 1993-12-01 | 1993-12-01 |
+| Odluka o uvjetima uz koje se daje odobrenje da se potraživanje u inozemstvu naplati u efektivnom stranom novcu | [`odluka/1993/2049/`](odluka/1993/2049/) | amended, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o uvjetima uz koje se može dati odobrenje stranim pravnim osobama za polaganje efektivnog stranog novca na devizne račune | [`odluka/1993/2050/`](odluka/1993/2050/) | cited later, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o uvjetima uz koje domaće fizičke osobe mogu iz Republike Hrvatske iznositi čekove i druge vrijednosne papire koji glase na stranu valutu u putničkom prometu s inozemstvom | [`odluka/1993/2051/`](odluka/1993/2051/) | cited later, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
 | Odluka o dopuni Odluke o uvjetima pod kojima se domaća i strana valuta, čekovi i drugi vrijednosni papiri mogu unositi i iznositi iz Republike Hrvatske u poštanskim i drugim pošiljkama | [`odluka/1993/2052/`](odluka/1993/2052/) | amending act | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o uvjetima i kriterijima za davanje odobrenja za Obavljanje pojedinih vrsta bankovnih poslova | [`odluka/1993/2053/`](odluka/1993/2053/) | repealed, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o uvjetima primjene odredbi članka 18. Zakona o bankama i štedionicama | [`odluka/1993/2054/`](odluka/1993/2054/) | amended, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o utvrđivanju pojedinih oblika kapitala banaka i štedionica | [`odluka/1993/2055/`](odluka/1993/2055/) | cited later, not consolidated | 1 | 1993-12-01 | 1993-12-01 |
+| Odluka o načinu raspoređivanja rizične aktive i odgovarajućih izvanbilančnih stavki banaka i štedionica | [`odluka/1993/2056/`](odluka/1993/2056/) | amended, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o visini i načinu formiranja posebnih rezervi za osiguranje od potencijalnih gubitaka | [`odluka/1993/2057/`](odluka/1993/2057/) | amended, not consolidated | 1 | 1993-11-30 | 1993-11-30 |
+| Odluka o potvrđivanju dozvola za osnivanje banke | [`odluka/1993/2058/`](odluka/1993/2058/) | amended, not consolidated | 1 | 1993-11-29 | 1993-11-29 |
 | Odluka o dopuni Odluke o iznosima sudjelovanja osiguranika u troškovima zdravstvene zaštite | [`odluka/1993/2061/`](odluka/1993/2061/) | amending act | 1 | 1993-11-30 | 1993-11-30 |
 | Odluka o dopuni Odluke o utvrđivanju visine iznosa sredstava za isplatu plaća zdravstvenih djelatnika pripravnika i specijalizanata u zdravstvenim ustanovama | [`odluka/1993/2062/`](odluka/1993/2062/) | amending act | 1 | 1993-11-30 | 1993-11-30 |
 | Odluka o izmjeni Odluke o određivanju broja sudaca okružnih privrednih sudova u Republici Hrvatskoj | [`odluka/1993/2066/`](odluka/1993/2066/) | in force | 1 | 1993-12-03 | 1993-12-03 |
 | Odluka o dopuni Odluke o utvrđivanju vrijednosti timova primarne zdravstvene zaštite | [`odluka/1993/2106/`](odluka/1993/2106/) | amending act | 1 | 1993-12-03 | 1993-12-03 |
 | Odluka o dopuni Odluke o utvrđivanju vrijednosti boda za primjenu Popisa dijagnostičkih i terapijskih postupaka, visine iznosa troškova za smještaj i prehranu bolesnika u stacionarnim zdravstvenim ust | [`odluka/1993/2107/`](odluka/1993/2107/) | amending act | 1 | 1993-12-03 | 1993-12-03 |
 | Odluka o izmjeni Odluke o neposrednim porezima Općine Vrbovec | [`odluka/1993/2128/`](odluka/1993/2128/) | in force | 1 | 1993-12-10 | 1993-12-10 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1993. | [`odluka/1993/2146/`](odluka/1993/2146/) | amended, not consolidated | 1 | 1993-12-18 | 1993-12-18 |
 | Odluka o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1993. | [`odluka/1993/2148/`](odluka/1993/2148/) | in force | 1 | 1993-12-18 | 1993-12-18 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1993. | [`odluka/1993/2149/`](odluka/1993/2149/) | cited later, not consolidated | 1 | 1993-12-18 | 1993-12-18 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. listopada 1993. | [`odluka/1993/2150/`](odluka/1993/2150/) | replaced, not consolidated | 1 | 1993-12-18 | 1993-12-18 |
 | Odluka o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja | [`odluka/1993/2152/`](odluka/1993/2152/) | in force | 1 | 1993-12-18 | 1993-12-18 |
 | Odluka o izmjeni Odluke o naknadi putnih troškova u svezi s ostvarivanjem prava kada je osigurana osoba upućena u drugo mjesto radi ocjene radne sposobnosti | [`odluka/1993/2153/`](odluka/1993/2153/) | in force | 1 | 1993-12-18 | 1993-12-18 |
 | Odluka o danu i trenutku prijelaza na ljetno računanje vremena, te danu i trenutku povratka na srednjeeuropsko zonsko vrijeme u 1994. godini | [`odluka/1993/2154/`](odluka/1993/2154/) | in force | 1 | 1993-12-29 | 1993-12-29 |
 | Odluka o izmjeni Odluke o socijalnom minimumu | [`odluka/1993/2155/`](odluka/1993/2155/) | in force | 1 | 1993-12-21 | 1993-12-21 |
+| Odluka o dopuni Odluke o kriterijima za carinski kontingent | [`odluka/1993/2196/`](odluka/1993/2196/) | amending act | 1 | 1993-12-24 | 1993-12-24 |
 | Odluka o prestanku važenja Odluke o preferencijalnim carinskim stopama i neplaćanju drugih uvoznih pristojbi za uvoz robe iz određenih zemalja u razvoju | [`odluka/1993/2197/`](odluka/1993/2197/) | in force | 1 | 1993-12-24 | 1993-12-24 |
+| Odluka o namjenama i uvjetima uz koje se mogu odobravati devizni krediti domaćim osobama | [`odluka/1993/2198/`](odluka/1993/2198/) | amended, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
+| Odluka o uvjetima pod kojima strane osobe mogu stjecati potraživanja u valuti Republike Hrvatske | [`odluka/1993/2199/`](odluka/1993/2199/) | amended, not consolidated | 1 | 1993-12-24 | 1993-12-24 |
+| Odluka o načinu obavljanja mjenjačkih poslova | [`odluka/1993/2215/`](odluka/1993/2215/) | amended, not consolidated | 1 | 1993-12-27 | 1993-12-27 |
+| Odluka o uvjetima pod kojima se može odobriti naplata potraživanja iz inozemstva u netransferabilnoj valuti | [`odluka/1993/2216/`](odluka/1993/2216/) | cited later, not consolidated | 1 | 1993-12-27 | 1993-12-27 |
 | Odluka o uvjetima uz koje domaće pravne osobe mogu izvršiti prijeboj dugovanja i potraživanja s inozemstvom | [`odluka/1993/2217/`](odluka/1993/2217/) | in force | 1 | 1993-12-27 | 1993-12-27 |
+| Odluka o uvjetima uz koje se može odobriti produženje roka naplate izvezene robe i usluga | [`odluka/1993/2218/`](odluka/1993/2218/) | amended, not consolidated | 1 | 1993-12-27 | 1993-12-27 |
+| Odluka o općim uvjetima za davanje odobrenja domaćoj osobi da drži devize na računu u inozemstvu | [`odluka/1993/2219/`](odluka/1993/2219/) | repealed, not consolidated | 1 | 1993-12-27 | 1993-12-27 |
+| Odluka o uvjetima i načinu obavljanja devizne dokumentarne kontrole | [`odluka/1993/2220/`](odluka/1993/2220/) | replaced, not consolidated | 1 | 1993-12-27 | 1993-12-27 |
 | Odluka o provođenju odredbe članka 58. stavak 1. Zakona o bankama i štedionicama | [`odluka/1993/2221/`](odluka/1993/2221/) | in force | 1 | 1993-12-27 | 1993-12-27 |
+| Odluka o izmjenama i dopunama Statuta Hrvatske gospodarske komore | [`odluka/1993/2223/`](odluka/1993/2223/) | amending act | 1 | 1994-01-04 | 1994-01-04 |
+| Odluka o plaćanju posebne pristojbe na uvezenurobu u 1994. godini | [`odluka/1993/2234/`](odluka/1993/2234/) | amended, not consolidated | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o određivanju poljoprivrednih i prehrambenih proizvoda za koje se pri uvozu plaća posebna pristojba | [`odluka/1993/2235/`](odluka/1993/2235/) | repealed, not consolidated | 1 | 1993-12-30 | 1993-12-30 |
 | Odluka o izmjeni i dopuni Odluke o ograničenju izvoza određenih proizvoda | [`odluka/1993/2236/`](odluka/1993/2236/) | amending act | 1 | 1993-12-30 | 1993-12-30 |
 | Odluka o izmjenama Odluke o uvjetima za podizanjerobe koja je pod carinskim nadzorom prije obračuna i naplate carine i drugihopterećenja pri uvozu robe | [`odluka/1993/2237/`](odluka/1993/2237/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Odluka o utvrđivanju imovine i obveza Službe društvenog knjigovodstva Hrvatske koju preuzimaju Zavod za platni promet,Financijska policija i Državni ured za reviziju | [`odluka/1993/2238/`](odluka/1993/2238/) | in force | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o načinu dostave i sadržaju podataka koji se dostavljaju Međunarodnom monetarnom fondu | [`odluka/1993/2239/`](odluka/1993/2239/) | amended, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o visini dnevnice za službeno putovanje i visini naknada za korisnike koji se financiraju iz sredstava državnog proračuna | [`odluka/1993/2245/`](odluka/1993/2245/) | replaced, not consolidated | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1993/2249/`](odluka/1993/2249/) | replaced, not consolidated | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o izmjeni Odluke o prestanku važenja Odluke o načinu i uvjetima odobravanja posebnog kredita po štednim ulozima i tekućim računima građana u hrvatskim dinarima | [`odluka/1993/2250/`](odluka/1993/2250/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Odluka o visini kvota za korištenje kredita iz primarne emisije za siječanj 1994. godine | [`odluka/1993/2251/`](odluka/1993/2251/) | in force | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o kamatnim stopama Narodne banke Hrvatske | [`odluka/1993/2252/`](odluka/1993/2252/) | repealed, not consolidated | 1 | 1993-12-30 | 1993-12-30 |
+| Odluka o izmjeni Odluke o načinu i uvjetima korištenja obvezne rezerve banaka za održavanje njihove dnevne likvidnosti | [`odluka/1993/2253/`](odluka/1993/2253/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Odluka o dopuni Odluke o uvjetima uz koje se daje odobrenje da se potraživanje u inozemstvu naplati u efektivnom stranom novcu | [`odluka/1993/2254/`](odluka/1993/2254/) | amending act | 1 | 1993-12-30 | 1993-12-30 |
 | Odluka o dopuni Statuta Republičkog fonda mirovinskogi invalidskog osiguranja radnika Hrvatske | [`odluka/1993/2256/`](odluka/1993/2256/) | amending act | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o usklađivanju mirovina od 1. prosinca1993. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1993/2257/`](odluka/1993/2257/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. prosinca 1993. | [`odluka/1993/2258/`](odluka/1993/2258/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o visini minimalne mirovine od 1. prosinca1993. | [`odluka/1993/2259/`](odluka/1993/2259/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o usklađivanju naknada plaća u svezis pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezis pravom na zaposlenje od 1. prosinca 1993. | [`odluka/1993/2260/`](odluka/1993/2260/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o usklađivanju novčanih naknada za tjelesnooštećenje od 1. prosinca 1993. | [`odluka/1993/2261/`](odluka/1993/2261/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1993. | [`odluka/1993/2262/`](odluka/1993/2262/) | replaced, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o usklađivanju mirovina, doplatka zapomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. prosinca 1993. | [`odluka/1993/2263/`](odluka/1993/2263/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o usklađivanju mirovina od 1. prosinca1993. | [`odluka/1993/2264/`](odluka/1993/2264/) | replaced, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o dopuni Statuta Republičkog fonda mirovinskogi invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1993/2265/`](odluka/1993/2265/) | amending act | 1 | 1994-01-07 | 1994-01-07 |
+| Odluka o usklađivanju mirovina od 1. prosinca1993. | [`odluka/1993/2266/`](odluka/1993/2266/) | replaced, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o usklađivanju naknada plaća u svezis pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaća u svezis pravom na zaposlenje od 1. prosinca 1993. | [`odluka/1993/2268/`](odluka/1993/2268/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1993. | [`odluka/1993/2269/`](odluka/1993/2269/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1993. | [`odluka/1993/2270/`](odluka/1993/2270/) | replaced, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o osnutku županijskih regionalnih komora | [`odluka/1993/2271/`](odluka/1993/2271/) | amended, not consolidated | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o stopi i osnovici za plaćanje doprinosa Hrvatskoj gospodarskoj komori za 1994. | [`odluka/1993/2272/`](odluka/1993/2272/) | in force | 1 | 1993-12-30 | 1993-12-30 |
 | Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i drugih organa državne uprave | [`odluka/1993/2278/`](odluka/1993/2278/) | amending act | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o privremenom financiranju javnih potreba i Privremenom proračunu Republike Hrvatske u prvom tromjesečju 1994. godine | [`odluka/1993/2285/`](odluka/1993/2285/) | cited later, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Odluka o davanju pomoći županijama odnosno općinama u sastavu županija za djelomično ublažavanje posljedica štete od elementarnih nepogoda u 1993. godini | [`odluka/1993/2286/`](odluka/1993/2286/) | amended, not consolidated | 1 | 1994-01-01 | 1994-01-01 |
+| Odluka o valorizaciji katastarskoga prihoda | [`odluka/1993/2287/`](odluka/1993/2287/) | amended, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
 | Odluka o izmjenama Odluke o visini naknade za korištenje voda | [`odluka/1994/2/`](odluka/1994/2/) | in force | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o izmjenama Odluke o visini naknade za zaštitu voda | [`odluka/1994/3/`](odluka/1994/3/) | in force | 1 | 1994-01-07 | 1994-01-07 |
 | Odluka o osnivanju veleposlanstva Republike Hrvatske u Argentini sa sjedištem u Buenos Airesu | [`odluka/1994/17/`](odluka/1994/17/) | in force | 1 | 1994-01-06 | 1994-01-06 |
