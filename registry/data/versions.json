@@ -6902,6 +6902,2421 @@
    ]
   },
   {
+   "slug": "pravilnik-2005-2046",
+   "path": "pravilnik/2005/2046",
+   "short": "Pravilnik o nagradi za promicanje prava djeteta",
+   "title": "Pravilnik o nagradi za promicanje prava djeteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/111/2046",
+   "versions": [
+    {
+     "from": "2005-09-29",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_111_2046.html",
+     "sha256": "d1d878044a1d0c385c3a7e592e34b2c2b839f6b3b4f68494c56a956846536fad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-206",
+   "path": "pravilnik/2005/206",
+   "short": "Pravilnik o izmjeni Pravilnika o postupku i načinu izdavanja dopuštenja za odobravanje podvodnih aktivnosti u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske koji su zaštićeni kao k",
+   "title": "Pravilnik o izmjeni Pravilnika o postupku i načinu izdavanja dopuštenja za odobravanje podvodnih aktivnosti u unutarnjim morskim vodama i teritorijalnom moru Republike Hrvatske koji su zaštićeni kao k",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/12/206",
+   "versions": [
+    {
+     "from": "2005-02-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_12_206.html",
+     "sha256": "8984a66bf0d6749793357aa023fbf45479464fce43b9085edb04348b9fabbfd7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2096",
+   "path": "pravilnik/2005/2096",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o ambalaži i ambalažnom otpadu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o ambalaži i ambalažnom otpadu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/115/2096",
+   "versions": [
+    {
+     "from": "2005-09-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_09_115_2096.html",
+     "sha256": "eda340c25a18ad2725964caae1a677cfd93c35649a24bf408dd4284141b41805"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2118",
+   "path": "pravilnik/2005/2118",
+   "short": "Pravilnik o uvjetima i načinu prijevoza životinja",
+   "title": "Pravilnik o uvjetima i načinu prijevoza životinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/116/2118",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_116_2118.html",
+     "sha256": "66f5392089f1f679987e9f6567a9a910aa9497fc36d46ad277164a442a806d74"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2119",
+   "path": "pravilnik/2005/2119",
+   "short": "Pravilnik o zaštiti životinja pri klanju ili usmrćivanju",
+   "title": "Pravilnik o zaštiti životinja pri klanju ili usmrćivanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/116/2119",
+   "versions": [
+    {
+     "from": "2005-10-11",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_116_2119.html",
+     "sha256": "7f3c317e835b41598ad8a96046b747903703672b99dd8b5c0b3613e09799681e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2147",
+   "path": "pravilnik/2005/2147",
+   "short": "Pravilnik o kategorizaciji autobusnih kolodvora",
+   "title": "Pravilnik o kategorizaciji autobusnih kolodvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/117/2147",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_117_2147.html",
+     "sha256": "9486ad5a0077f9d63031571e40f3c35be30a38292f69500a6b36a8e92b2c67cc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2148",
+   "path": "pravilnik/2005/2148",
+   "short": "Pravilnik o načinu vođenja očevidnika o polascima i dolascima autobusa",
+   "title": "Pravilnik o načinu vođenja očevidnika o polascima i dolascima autobusa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/117/2148",
+   "versions": [
+    {
+     "from": "2005-10-13",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_117_2148.html",
+     "sha256": "37bbfb6d5d7771b6076e336bde17b47ba3705f482dd861c76241e599d863ed3e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2163",
+   "path": "pravilnik/2005/2163",
+   "short": "Pravilnik o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "title": "Pravilnik o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/118/2163",
+   "versions": [
+    {
+     "from": "2005-10-15",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_118_2163.html",
+     "sha256": "e21b4f0ff982d5d8bdbfcf82056d8457256c77dbd3c9279ae26cc7c8d0b3c6b5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2165",
+   "path": "pravilnik/2005/2165",
+   "short": "Pravilnik o određivanju daljinara i najmanjeg voznog vremena",
+   "title": "Pravilnik o određivanju daljinara i najmanjeg voznog vremena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/118/2165",
+   "versions": [
+    {
+     "from": "2005-10-15",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_118_2165.html",
+     "sha256": "559c96bedc12390f8ca547ec3b48acc8c868c391981025190821b64fd5f945dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2166",
+   "path": "pravilnik/2005/2166",
+   "short": "Pravilnik o izmjeni Pravilnika o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje manometara, vakuumometara, manovakuumometara, mjernih pretvornika tlaka, uređaja za mjerenje krvnog tlaka i tlakomjera za gume",
+   "title": "Pravilnik o izmjeni Pravilnika o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu za ovjeravanje manometara, vakuumometara, manovakuumometara, mjernih pretvornika tlaka, uređaja za mjerenje krvnog tlaka i tlakomjera za gume",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/118/2166",
+   "versions": [
+    {
+     "from": "2005-10-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_118_2166.html",
+     "sha256": "9c6286e4dce649f39c31ec69b07e88987df2b5aafa5ca29ce6f73a24bf30f987"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2167",
+   "path": "pravilnik/2005/2167",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o ustroju i načinu rada područnih vijeća i matičnih odbora",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o ustroju i načinu rada područnih vijeća i matičnih odbora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/118/2167",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_118_2167.html",
+     "sha256": "f34c347bcdb0575f48a8f702c8fb30abcc88d3889bc0b0a982d0f09f89386d01"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2171",
+   "path": "pravilnik/2005/2171",
+   "short": "Pravilnik o kriterijima izbora Društva za upravljanje Umirovljeničkim fondom",
+   "title": "Pravilnik o kriterijima izbora Društva za upravljanje Umirovljeničkim fondom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/119/2171",
+   "versions": [
+    {
+     "from": "2005-10-10",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_119_2171.html",
+     "sha256": "4f74f5a8d2573588271014d01f33dace5a997422b05190a71ee7506f7c0e36b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-22",
+   "path": "pravilnik/2005/22",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/22",
+   "versions": [
+    {
+     "from": "2005-01-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_22.html",
+     "sha256": "a765925ca9b1f49de24312d0a8d4421d59c02730044642fcf7cfb7e6b3403172"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2232",
+   "path": "pravilnik/2005/2232",
+   "short": "Pravilnik o posebnim uvjetima za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe",
+   "title": "Pravilnik o posebnim uvjetima za vozila kojima se obavlja javni cestovni prijevoz i prijevoz za vlastite potrebe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2232",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2232.html",
+     "sha256": "d58547fd97fcdd1b2a230f340645f6f59600869011faa024d4953f24fd79efce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2233",
+   "path": "pravilnik/2005/2233",
+   "short": "Pravilnik o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "title": "Pravilnik o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/120/2233",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_120_2233.html",
+     "sha256": "49d09ba63e89d5b251035d5bc951272ec03d4452d7ee3c65fcd71bee46feb286"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2256",
+   "path": "pravilnik/2005/2256",
+   "short": "Pravilnik o dopunama Pravilnika o obuci i ispitima pirotehničara i pomoćnih djelatnika",
+   "title": "Pravilnik o dopunama Pravilnika o obuci i ispitima pirotehničara i pomoćnih djelatnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2256",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_121_2256.html",
+     "sha256": "f990ddefa041de6828134960ebb5b5cacd0f2fddb98410088e97c9eccc3b23cb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2257",
+   "path": "pravilnik/2005/2257",
+   "short": "Pravilnik o izdavanju dozvole domaćem prijevozniku za korištenje stranog vozila",
+   "title": "Pravilnik o izdavanju dozvole domaćem prijevozniku za korištenje stranog vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2257",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_121_2257.html",
+     "sha256": "a2f05ab7e929961669ba9367a0bc348960a38246d21bc39a08ea3bfc2927fac2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2258",
+   "path": "pravilnik/2005/2258",
+   "short": "Pravilnik o vinskom i voćnom octu",
+   "title": "Pravilnik o vinskom i voćnom octu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2258",
+   "versions": [
+    {
+     "from": "2005-10-25",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_121_2258.html",
+     "sha256": "0bb8f07e3a2900e737ab4af6a72ccc1002858947d124682bc83f88b336b899c7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-228",
+   "path": "pravilnik/2005/228",
+   "short": "Pravilnik o izmjeni Pravilnika o porezu na dohodak",
+   "title": "Pravilnik o izmjeni Pravilnika o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/14/228",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_14_228.html",
+     "sha256": "e820bcfaaee2b3a3fc0f89877fa12a6d6e44ed5b73920e0110c03f82fa1dd942"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-229",
+   "path": "pravilnik/2005/229",
+   "short": "Pravilnik o izmjeni Pravilnika o porezu na dobit",
+   "title": "Pravilnik o izmjeni Pravilnika o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/14/229",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_14_229.html",
+     "sha256": "bfe04a6bde3fca7f1c37f2e50db77bbcc7f9f1bdd56e53045c60645806ac53a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2296",
+   "path": "pravilnik/2005/2296",
+   "short": "Pravilnik o postupku, načinu i rokovima dostave izvješća o raspodjeli i iskorištenosti stranih dozvola",
+   "title": "Pravilnik o postupku, načinu i rokovima dostave izvješća o raspodjeli i iskorištenosti stranih dozvola",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/122/2296",
+   "versions": [
+    {
+     "from": "2005-10-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_122_2296.html",
+     "sha256": "1c23d7b5cbcffb291a85e14bcca8fca2d7e46500888a1b8be51cd92481e0905f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-230",
+   "path": "pravilnik/2005/230",
+   "short": "Pravilnik o izmjeni Pravilnika o doprinosima za obvezna osiguranja",
+   "title": "Pravilnik o izmjeni Pravilnika o doprinosima za obvezna osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/14/230",
+   "versions": [
+    {
+     "from": "2005-01-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_14_230.html",
+     "sha256": "909ee01cdcc333fe2d6c8a42ff0ef6a9c4656379c76c5dece7e9b821d78985a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2308",
+   "path": "pravilnik/2005/2308",
+   "short": "Pravilnik o osnovnim telekomunikacijskim uslugama",
+   "title": "Pravilnik o osnovnim telekomunikacijskim uslugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/123/2308",
+   "versions": [
+    {
+     "from": "2005-10-29",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_123_2308.html",
+     "sha256": "793e102106015b72477d43142112105da7aa273f805b4eb9df1a67ebccf08d73"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2311",
+   "path": "pravilnik/2005/2311",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu obavljanja poslova razminiranja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu obavljanja poslova razminiranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/123/2311",
+   "versions": [
+    {
+     "from": "2005-10-29",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_123_2311.html",
+     "sha256": "45ea0c7e55997527dc8e30d0c3bed6a1da29b38165b217b52ed9d3a2527c0668"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2334",
+   "path": "pravilnik/2005/2334",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja eksperimentalnih programa u osnovnim školama",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja eksperimentalnih programa u osnovnim školama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/125/2334",
+   "versions": [
+    {
+     "from": "2005-10-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_125_2334.html",
+     "sha256": "a6b25ba9dba756ff76f7b071436e4c0328fe8f3c85c2b0962ec105ee1c92b549"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2335",
+   "path": "pravilnik/2005/2335",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/125/2335",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_125_2335.html",
+     "sha256": "bf7480e9726a2b5abc2e2fb3fe74521b6847aac15636fe47937632365cae3f4c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2369",
+   "path": "pravilnik/2005/2369",
+   "short": "Pravilnik o uvjetima i načinu utvrđivanja mjerodavnih tržišta u telekomunikacijama",
+   "title": "Pravilnik o uvjetima i načinu utvrđivanja mjerodavnih tržišta u telekomunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2369",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2369.html",
+     "sha256": "3bb5030567159ba4911c12c99f3b6a514c9a79b309e0e2403708fae325cd23f2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2371",
+   "path": "pravilnik/2005/2371",
+   "short": "Pravilnik o željezničkoj infrastrukturi",
+   "title": "Pravilnik o željezničkoj infrastrukturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2371",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2371.html",
+     "sha256": "b3197603d566879feb31624b37540fece4c4efe260e4e11b747b516674f1b9e4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2372",
+   "path": "pravilnik/2005/2372",
+   "short": "Pravilnik o uvjetima i načinu izdavanja rješenja o sigurnosti za upravljanje željezničkom infrastrukturom",
+   "title": "Pravilnik o uvjetima i načinu izdavanja rješenja o sigurnosti za upravljanje željezničkom infrastrukturom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2372",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2372.html",
+     "sha256": "b36d12cd2689f38a1363f53b2b05265d1345ea9f1db519e3fcda1c9b7449ed7f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2373",
+   "path": "pravilnik/2005/2373",
+   "short": "Pravilnik o uvjetima i načinu izdavanja rješenja o sigurnosti za obavljanje usluga željezničkog prijevoza",
+   "title": "Pravilnik o uvjetima i načinu izdavanja rješenja o sigurnosti za obavljanje usluga željezničkog prijevoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2373",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2373.html",
+     "sha256": "2e3cee27ccaff259d247c2e42e98f653903ad45c3d8fbcfede2cba45b7296f2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2374",
+   "path": "pravilnik/2005/2374",
+   "short": "Pravilnik o uvjetima i načinu izdavanja dozvole za obavljanje usluga željezničkog prijevoza i dozvole za upravljanje željezničkom infrastrukturom",
+   "title": "Pravilnik o uvjetima i načinu izdavanja dozvole za obavljanje usluga željezničkog prijevoza i dozvole za upravljanje željezničkom infrastrukturom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2374",
+   "versions": [
+    {
+     "from": "2005-11-03",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2374.html",
+     "sha256": "9464a18accdd9013c33e602e5caa52a8209d0934b8fbe8589dc7dcb90f66d30b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2375",
+   "path": "pravilnik/2005/2375",
+   "short": "Pravilnik o načinu i postupku provođenja ispita o stručnoj osposobljenosti za obavljanje djelatnosti javnog cestovnog prijevoza",
+   "title": "Pravilnik o načinu i postupku provođenja ispita o stručnoj osposobljenosti za obavljanje djelatnosti javnog cestovnog prijevoza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/127/2375",
+   "versions": [
+    {
+     "from": "2005-10-26",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_127_2375.html",
+     "sha256": "06c8cec29742bdf5f84dfbae3ede0ed8538fda2b9b144627d021fbe917f75d0f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-238",
+   "path": "pravilnik/2005/238",
+   "short": "Pravilnik o dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "title": "Pravilnik o dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/14/238",
+   "versions": [
+    {
+     "from": "2005-02-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_14_238.html",
+     "sha256": "60fb4a18015e3da63712670e3d17aac545f127c7d04d655b68c1254dd1cd2a5c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2393",
+   "path": "pravilnik/2005/2393",
+   "short": "Pravilnik o dopuni Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava",
+   "title": "Pravilnik o dopuni Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/129/2393",
+   "versions": [
+    {
+     "from": "2005-10-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_10_129_2393.html",
+     "sha256": "f0898246b1da68a1b8febd4ecfbb24b7968c1a1657578024ca3b56573ea91336"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-241",
+   "path": "pravilnik/2005/241",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (zemljišnoknjižnog poslovnika)",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o unutarnjem ustroju, vođenju zemljišnih knjiga i obavljanju drugih poslova u zemljišnoknjižnim odjelima sudova (zemljišnoknjižnog poslovnika)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/14/241",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_14_241.html",
+     "sha256": "d16236d6b4a4b7103c5804441c7a3573e75965fbfa10a6582a5974898a2dac43"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2443",
+   "path": "pravilnik/2005/2443",
+   "short": "Pravilnik o načinu provođenja, rokovima i mjerilima za obavljanje linijskog prijevoza putnika temeljem javnog poziva",
+   "title": "Pravilnik o načinu provođenja, rokovima i mjerilima za obavljanje linijskog prijevoza putnika temeljem javnog poziva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/132/2443",
+   "versions": [
+    {
+     "from": "2005-11-15",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_132_2443.html",
+     "sha256": "68c2916d36d61e25003e58b1ffa11704de83f8718365657aa9a886d039431c76"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2447",
+   "path": "pravilnik/2005/2447",
+   "short": "Pravilnik o prestanku važenja Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "title": "Pravilnik o prestanku važenja Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/132/2447",
+   "versions": [
+    {
+     "from": "2005-11-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_132_2447.html",
+     "sha256": "d255c807c527301e4035d77f34a1309a6ea18ba7f4b2ff35d9969117ea05a3a1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2493",
+   "path": "pravilnik/2005/2493",
+   "short": "Pravilnik o izdavanju veterinarsko-zdravstvenih svjedodžbi za žive životinje i proizvode životinjskog podrijetla u međunarodnom prometu",
+   "title": "Pravilnik o izdavanju veterinarsko-zdravstvenih svjedodžbi za žive životinje i proizvode životinjskog podrijetla u međunarodnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/134/2493",
+   "versions": [
+    {
+     "from": "2005-11-19",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_134_2493.html",
+     "sha256": "99a5506261039346b9cba9578af25d31d17b38536db8bb1eacbc87928cef0e8b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2494",
+   "path": "pravilnik/2005/2494",
+   "short": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih ovaca i koza",
+   "title": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih ovaca i koza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/134/2494",
+   "versions": [
+    {
+     "from": "2005-11-19",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_134_2494.html",
+     "sha256": "1f960c52b974b189c5d26ac29bc39bc0e26b57fc113084223438557a4f2736d8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2495",
+   "path": "pravilnik/2005/2495",
+   "short": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih svinja",
+   "title": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih svinja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/134/2495",
+   "versions": [
+    {
+     "from": "2005-11-19",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_134_2495.html",
+     "sha256": "e17ec770ccc59f9e6ead74c7213565ceb8865f03e9850aab29ebf0b81c746d12"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2496",
+   "path": "pravilnik/2005/2496",
+   "short": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih kopitara",
+   "title": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih kopitara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/134/2496",
+   "versions": [
+    {
+     "from": "2005-11-19",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_134_2496.html",
+     "sha256": "708f0709f6262e867af4688f0bb441b27fe6a52b5620a5c3c50ed23b06c3c8ce"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2497",
+   "path": "pravilnik/2005/2497",
+   "short": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih goveda",
+   "title": "Pravilnik o metodama za ispitivanje osobina i procjenu uzgojnih vrijednosti uzgojno valjanih goveda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/134/2497",
+   "versions": [
+    {
+     "from": "2005-11-19",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_134_2497.html",
+     "sha256": "f144e9b5238ed766c7eeb80045677b863094077a7542e1df4aa733f6ef621d2d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2498",
+   "path": "pravilnik/2005/2498",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o povlastici za uzgoj ribe i drugih morskih organizama i registru o izdanim povlasticama",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o povlastici za uzgoj ribe i drugih morskih organizama i registru o izdanim povlasticama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/134/2498",
+   "versions": [
+    {
+     "from": "2005-11-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_134_2498.html",
+     "sha256": "f68cdd0c30a84365caf003baf8cc6c0876cba0992d18fba1bca23e7f77bd98ef"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2525",
+   "path": "pravilnik/2005/2525",
+   "short": "Pravilnik o zahtjevima za stupnjeve djelovanja novih toplovodnih kotlova na tekuće i plinovito gorivo",
+   "title": "Pravilnik o zahtjevima za stupnjeve djelovanja novih toplovodnih kotlova na tekuće i plinovito gorivo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/135/2525",
+   "versions": [
+    {
+     "from": "2005-11-22",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_135_2525.html",
+     "sha256": "2bdff181ebb583c45a379e697aee82868ee235289c39400ee816e478d6059910"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2550",
+   "path": "pravilnik/2005/2550",
+   "short": "Pravilnik o uvjetima kojima moraju udovoljavati farme i uvjetima za zaštitu životinja na farmama",
+   "title": "Pravilnik o uvjetima kojima moraju udovoljavati farme i uvjetima za zaštitu životinja na farmama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/136/2550",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 64,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_136_2550.html",
+     "sha256": "26a549ecf77135e96206e6547c5705f2757a1c161cd48f7816e73c53171dd9ad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2551",
+   "path": "pravilnik/2005/2551",
+   "short": "Pravilnik o dopunama Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "title": "Pravilnik o dopunama Pravilnika o posebnim uvjetima koje moraju ispunjavati zaposleni u turističkom uredu turističke zajednice općine, grada, županije i Glavnom uredu Hrvatske turističke zajednice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/136/2551",
+   "versions": [
+    {
+     "from": "2005-11-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_136_2551.html",
+     "sha256": "e64e99c068cdf385832d2d7035cf9437d5c748febeed23283abe98a0c5901459"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2650",
+   "path": "pravilnik/2005/2650",
+   "short": "Pravilnik o naknadi za ceste za motorno vozilo registrirano izvan Republike Hrvatske",
+   "title": "Pravilnik o naknadi za ceste za motorno vozilo registrirano izvan Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2650",
+   "versions": [
+    {
+     "from": "2005-12-06",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_140_2650.html",
+     "sha256": "36bdf316fc7fabf1aa1db4c1407628e1a93828220b88a178725ff22c58af9fc8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2670",
+   "path": "pravilnik/2005/2670",
+   "short": "Pravilnik o načinu suradnje sa srodnim stranim i međunarodnim organizacijama u cilju razmjene organa, odnosno tkiva radi presađivanja",
+   "title": "Pravilnik o načinu suradnje sa srodnim stranim i međunarodnim organizacijama u cilju razmjene organa, odnosno tkiva radi presađivanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/141/2670",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_141_2670.html",
+     "sha256": "a725771d73b38f67d37873ce9096ae7f6a035ba58efeeb209191998db8d9298f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2671",
+   "path": "pravilnik/2005/2671",
+   "short": "Pravilnik o načinu čuvanja osobnih podataka darivatelja i primatelja dijelova ljudskog tijela u svrhu liječenja",
+   "title": "Pravilnik o načinu čuvanja osobnih podataka darivatelja i primatelja dijelova ljudskog tijela u svrhu liječenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/141/2671",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_11_141_2671.html",
+     "sha256": "bf68e5b27031b272814093b39d544e3f674bc5860304a0e16d8de287f7475541"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2699",
+   "path": "pravilnik/2005/2699",
+   "short": "Pravilnik o mjerama za osiguranje sigurnosti i kvalitete dijelova ljudskoga tijela za medicinsku upotrebu",
+   "title": "Pravilnik o mjerama za osiguranje sigurnosti i kvalitete dijelova ljudskoga tijela za medicinsku upotrebu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/143/2699",
+   "versions": [
+    {
+     "from": "2005-12-13",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_143_2699.html",
+     "sha256": "addb080d8afe623d9e4adb8141dbc9579f363f531e8c9da2454673d04e48f3e4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2730",
+   "path": "pravilnik/2005/2730",
+   "short": "Pravilnik o dopuni Pravilnika o uvjetima koje moraju ispunjavati ovlašteni zaposlenici Hrvatskog centra za razminiranje",
+   "title": "Pravilnik o dopuni Pravilnika o uvjetima koje moraju ispunjavati ovlašteni zaposlenici Hrvatskog centra za razminiranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2730",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2730.html",
+     "sha256": "b093c3f2bd6071d2c6c14bbcc3c844584aba1ec0f8ec1d00f15653d0a87d9179"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2731",
+   "path": "pravilnik/2005/2731",
+   "short": "Pravilnik o sigurnosnom savjetniku",
+   "title": "Pravilnik o sigurnosnom savjetniku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/144/2731",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_144_2731.html",
+     "sha256": "2145c1c8fcd914b9627974343730e86f25ed937492d40236c49833336fdd4b4b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2742",
+   "path": "pravilnik/2005/2742",
+   "short": "Pravilnik o uvjetima držanja, načinu obilježavanja i evidenciji zaštićenih životinja u zatočeništvu",
+   "title": "Pravilnik o uvjetima držanja, načinu obilježavanja i evidenciji zaštićenih životinja u zatočeništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2742",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2742.html",
+     "sha256": "42b8ff546c6de12dcd54bc5bd2f4e712aff68b5e467ae4070be774f373a5ae6e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2743",
+   "path": "pravilnik/2005/2743",
+   "short": "Pravilnik o tehničkim zahtjevima za eksplozivne tvari",
+   "title": "Pravilnik o tehničkim zahtjevima za eksplozivne tvari",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2743",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2743.html",
+     "sha256": "c6adb2d80af88c956c5684aaebff74fe3d02139fff37d34d10d3ea5bc05e7cea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2744",
+   "path": "pravilnik/2005/2744",
+   "short": "Pravilnik o temeljnim zahtjevima za zaštitu od požara elektroenergetskih postrojenja i uređaja",
+   "title": "Pravilnik o temeljnim zahtjevima za zaštitu od požara elektroenergetskih postrojenja i uređaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2744",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 49,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2744.html",
+     "sha256": "2e956b17e6b76d4d0ed587cf75f796d7b511df57c3cc37b09a6183f3eddb7955"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2745",
+   "path": "pravilnik/2005/2745",
+   "short": "Pravilnik o sigurnosnim zahtjevima za pirotehnička sredstva za zabavu i tehničku namjenu",
+   "title": "Pravilnik o sigurnosnim zahtjevima za pirotehnička sredstva za zabavu i tehničku namjenu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2745",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2745.html",
+     "sha256": "64ce03e9b877cd317b86f9a07d3e585ad68fc46da8307e70e6c956125adb9c18"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2746",
+   "path": "pravilnik/2005/2746",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o utvrđivanju mreže i kriterija o dovoljnom broju stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2746",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2746.html",
+     "sha256": "198f6d9cc37ac94160ca37fb5321e569184165511b27360d0d070bc8ab6512ee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2747",
+   "path": "pravilnik/2005/2747",
+   "short": "Pravilnik o količini brašna utrošenoga za proizvodnju pojedinih pekarskih proizvoda",
+   "title": "Pravilnik o količini brašna utrošenoga za proizvodnju pojedinih pekarskih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/146/2747",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_146_2747.html",
+     "sha256": "9633126e413ec97c220f80ffee26c6270b971cbfc1b4f42e8707fe3b3df219d3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-279",
+   "path": "pravilnik/2005/279",
+   "short": "Pravilnik o mjerilima i kriterijima, te postupku za ostvarivanje prava na podmirenje troškova javnog operatora iz sredstava državnog proračuna",
+   "title": "Pravilnik o mjerilima i kriterijima, te postupku za ostvarivanje prava na podmirenje troškova javnog operatora iz sredstava državnog proračuna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/16/279",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_16_279.html",
+     "sha256": "c80cdbfd5ff50dba0a602f461ef7d3f9993b257fe951b7d81e0c22dcab51a71d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-28",
+   "path": "pravilnik/2005/28",
+   "short": "Pravilnik o uvjetima i postupku izbora učitelja za rad u dopunskoj nastavi s djecom hrvatskih građana u inozemstvu",
+   "title": "Pravilnik o uvjetima i postupku izbora učitelja za rad u dopunskoj nastavi s djecom hrvatskih građana u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/28",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_28.html",
+     "sha256": "ef03527e2d08439b079e364b2a70f2bbebefbe8dbf15c3e929a05db650196e71"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2801",
+   "path": "pravilnik/2005/2801",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu za turističke vodiče i ispitnom programu za turističke pratitelje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stručnom ispitu za turističke vodiče i ispitnom programu za turističke pratitelje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2801",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_147_2801.html",
+     "sha256": "94dfb68fbb233b0e1663c710b36d2d4eeb5158900b7d3544a28ad504cad5e568"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-282",
+   "path": "pravilnik/2005/282",
+   "short": "Pravilnik o Dijagnostičkom priručniku za klasičnu svinjsku kugu",
+   "title": "Pravilnik o Dijagnostičkom priručniku za klasičnu svinjsku kugu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/16/282",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_16_282.html",
+     "sha256": "07f8ff3e71eee407222bf8505bd4312fec36d34fee4fec1aec86cf3e8dbe8457"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2861",
+   "path": "pravilnik/2005/2861",
+   "short": "Pravilnik o načinu propisivanja i izdavanja lijekova i pripravaka koji se koriste u veterinarskoj medicini",
+   "title": "Pravilnik o načinu propisivanja i izdavanja lijekova i pripravaka koji se koriste u veterinarskoj medicini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/149/2861",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_149_2861.html",
+     "sha256": "022cc3a1ea0b202acb677d13afd8fdbd569b8602d217c7957393e07a52766750"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2862",
+   "path": "pravilnik/2005/2862",
+   "short": "Pravilnik o izmjeni Pravilnika o mjerenju, razvrstavanju i obilježavanju neobrađenog drva",
+   "title": "Pravilnik o izmjeni Pravilnika o mjerenju, razvrstavanju i obilježavanju neobrađenog drva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/149/2862",
+   "versions": [
+    {
+     "from": "2005-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_149_2862.html",
+     "sha256": "dd6df636067d4831e50197bc1786fb906cc37e35d40306483ba3e4fe1c7cef20"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-29",
+   "path": "pravilnik/2005/29",
+   "short": "Pravilnik o uvjetima za stjecanje i obnavljanje licenci za upravljanje mirovinskim fondovima",
+   "title": "Pravilnik o uvjetima za stjecanje i obnavljanje licenci za upravljanje mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/29",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_29.html",
+     "sha256": "2fe4fb77ffd95e75a380260e5bdc748d6af043c581b639278c89eb1d8f3c27a6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2909",
+   "path": "pravilnik/2005/2909",
+   "short": "Pravilnik o unutarnjoj reviziji proračunskih korisnika",
+   "title": "Pravilnik o unutarnjoj reviziji proračunskih korisnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2909",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_150_2909.html",
+     "sha256": "91239af0e071c09aa3485a55a8f7d7cd9cb7dcb3a208f408a98615d955b357d7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2943",
+   "path": "pravilnik/2005/2943",
+   "short": "Pravilnik o pružanju zemaljskih usluga te vremenskim slotovima i usuglašavanju redova letenja na zračnim lukama",
+   "title": "Pravilnik o pružanju zemaljskih usluga te vremenskim slotovima i usuglašavanju redova letenja na zračnim lukama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2943",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2943.html",
+     "sha256": "e29cbf44ed1e5a93fe5fb86a5506c6b24081637c37cf3d9b495e4133361d8276"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2944",
+   "path": "pravilnik/2005/2944",
+   "short": "Pravilnik o nagradama i naknadi troškova javnih bilježnika u ovršnom postupku",
+   "title": "Pravilnik o nagradama i naknadi troškova javnih bilježnika u ovršnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2944",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2944.html",
+     "sha256": "7f23c3c6aea5745559c26a100f1cfa3c2dc05e4acb4a587d971aecaa7179f883"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2946",
+   "path": "pravilnik/2005/2946",
+   "short": "Pravilnik o postupku dodjele alogenih nesrodnih krvotvorenih matičnih stanica i radu registra mogućih darivatelja koštane moždine",
+   "title": "Pravilnik o postupku dodjele alogenih nesrodnih krvotvorenih matičnih stanica i radu registra mogućih darivatelja koštane moždine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2946",
+   "versions": [
+    {
+     "from": "2005-12-31",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_151_2946.html",
+     "sha256": "e330badff122cc6ea6189bab549538d6bd1a0813cbbdae6c81af750ba5c10113"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2951",
+   "path": "pravilnik/2005/2951",
+   "short": "Pravilnik o voćnim sokovima i nektarima te njima srodnim proizvodima",
+   "title": "Pravilnik o voćnim sokovima i nektarima te njima srodnim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2951",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2951.html",
+     "sha256": "29ea5015c2501414abd85e531a020de1e7794211a3ffd8286b6bcb47fe76b33f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2952",
+   "path": "pravilnik/2005/2952",
+   "short": "Pravilnik o dopunama Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava",
+   "title": "Pravilnik o dopunama Pravilnika o upisu u Upisnik poljoprivrednih gospodarstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2952",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2952.html",
+     "sha256": "277e482da82d085d388d726f34ae4df3aa219895555a25ff0d501998c4fad09c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2954",
+   "path": "pravilnik/2005/2954",
+   "short": "Pravilnik o kriterijima za dodjelu dijelova ljudskog tijela i vođenja nacionalne liste čekanja",
+   "title": "Pravilnik o kriterijima za dodjelu dijelova ljudskog tijela i vođenja nacionalne liste čekanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2954",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2954.html",
+     "sha256": "9add02710d155cfa4dc5c1ab2d24c9611ddad9058e711fd1b635c1b632ef59ed"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2955",
+   "path": "pravilnik/2005/2955",
+   "short": "Pravilnik o načinu pohrane i prijevoza dijelova ljudskog tijela namijenjenih presađivanju",
+   "title": "Pravilnik o načinu pohrane i prijevoza dijelova ljudskog tijela namijenjenih presađivanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2955",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2955.html",
+     "sha256": "c32f257b9e5e57e9cbb01152b1c3b3af71d14cb512f43c86b1bc85fa19ce0dd3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-2957",
+   "path": "pravilnik/2005/2957",
+   "short": "Pravilnik o postupku obavještavanja o smrti osoba koje dolaze u obzir kao darivatelji dijelova ljudskog tijela zbog presađivanja u svrhu liječenja",
+   "title": "Pravilnik o postupku obavještavanja o smrti osoba koje dolaze u obzir kao darivatelji dijelova ljudskog tijela zbog presađivanja u svrhu liječenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/152/2957",
+   "versions": [
+    {
+     "from": "2006-01-04",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_152_2957.html",
+     "sha256": "0787873b815f97e316428d826a4a02b5828271b5812c5bf93192b5c3d36d4acd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-30",
+   "path": "pravilnik/2005/30",
+   "short": "Pravilnik o uvjetima za stjecanje i obnavljanje licenci za upravljanje mirovinskim osiguravajućim društvima",
+   "title": "Pravilnik o uvjetima za stjecanje i obnavljanje licenci za upravljanje mirovinskim osiguravajućim društvima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/2/30",
+   "versions": [
+    {
+     "from": "2005-01-12",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_2_30.html",
+     "sha256": "7526d6bb97bdd7918152ad5c66f5b9a6873309a79eba8f1300bdfe04cfa73691"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-3001",
+   "path": "pravilnik/2005/3001",
+   "short": "Pravilnik o lovostaji",
+   "title": "Pravilnik o lovostaji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3001",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3001.html",
+     "sha256": "035e3d8338521a09a17d536fcf3a09b1a0852ea76c87be5e18347be105f4ecf0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-3008",
+   "path": "pravilnik/2005/3008",
+   "short": "Pravilnik o praćenju kakvoće zraka",
+   "title": "Pravilnik o praćenju kakvoće zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3008",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3008.html",
+     "sha256": "fd2d88e6bfd1d9c80907ff4a4e07e67f60a7240511f679095e237d6a4330d77e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-3010",
+   "path": "pravilnik/2005/3010",
+   "short": "Pravilnik o načinu vođenja očevidnika i dokumentacije u svezi s poslovima Centra za socijalnu skrb u području primjene Obiteljskog zakona o roditeljima i djeci",
+   "title": "Pravilnik o načinu vođenja očevidnika i dokumentacije u svezi s poslovima Centra za socijalnu skrb u području primjene Obiteljskog zakona o roditeljima i djeci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3010",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3010.html",
+     "sha256": "2404bdad95d7ee001e03a770a8582669b4b944fb92b90e7dc45566dd96aa8ef7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-3012",
+   "path": "pravilnik/2005/3012",
+   "short": "Pravilnik o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "title": "Pravilnik o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3012",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3012.html",
+     "sha256": "28c20ac4fa7c10bd46bb65c95e23dde2d42e7cc63405b3f9c13805cdb2d2811a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-3023",
+   "path": "pravilnik/2005/3023",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu propisivanja, izdavanja i naplaćivanja lijekova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3023",
+   "versions": [
+    {
+     "from": "2006-01-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3023.html",
+     "sha256": "f53fc63ac34ee97d74fe5a6beebefdbd1f0862076494cfcdc055d10c95f1aa78"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-3024",
+   "path": "pravilnik/2005/3024",
+   "short": "Pravilnik o dopuni Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "title": "Pravilnik o dopuni Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/155/3024",
+   "versions": [
+    {
+     "from": "2005-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_12_155_3024.html",
+     "sha256": "085d3f1b4aac20e8045e633231b3ee075cc2a431ed757616878425a2599d30b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-306",
+   "path": "pravilnik/2005/306",
+   "short": "Pravilnik o zaštiti i korištenju arhivskoga i registraturnog gradiva Ministarstva obrane i oružanih snaga Republike Hrvatske",
+   "title": "Pravilnik o zaštiti i korištenju arhivskoga i registraturnog gradiva Ministarstva obrane i oružanih snaga Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/18/306",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_18_306.html",
+     "sha256": "052126000e83f0c1d931f6d61a5877a81715ca7d9d91fa9786e14bfe2cb8a035"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-309",
+   "path": "pravilnik/2005/309",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje mjerila koja se upotrebljavaju za ispitivanje električnih instalacija",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje mjerila koja se upotrebljavaju za ispitivanje električnih instalacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/18/309",
+   "versions": [
+    {
+     "from": "2005-02-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_18_309.html",
+     "sha256": "e4d25868013279d54fa623e174816f39211c8e74eb2bbb02b339f754eff5e35e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-361",
+   "path": "pravilnik/2005/361",
+   "short": "Pravilnik o izmjenama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu",
+   "title": "Pravilnik o izmjenama Pravilnika o napredovanju učitelja i nastavnika u osnovnom i srednjem školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/20/361",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_20_361.html",
+     "sha256": "dbb1e5785ee124c85d47289e16465ff16c69e0f8d576e6b2bb2c90b83d799620"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-362",
+   "path": "pravilnik/2005/362",
+   "short": "Pravilnik o izmjenama Pravilnika o načinu i uvjetima napredovanja u struci i promicanju u položajna zvanja odgojitelja i stručnih suradnika u dječjim vrtićima",
+   "title": "Pravilnik o izmjenama Pravilnika o načinu i uvjetima napredovanja u struci i promicanju u položajna zvanja odgojitelja i stručnih suradnika u dječjim vrtićima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/20/362",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_20_362.html",
+     "sha256": "1736eb7b1e513464a7233b9c0ebd4dec6d147c1079a4adb7102ecf08af951941"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-374",
+   "path": "pravilnik/2005/374",
+   "short": "Pravilnik o posebnim uvjetima za početak osposobljavanja i uvjetima za upravljanje motornim vozilima C1 i C kategorije učenika koji se obrazuju za zanimanje vozač motornog vozila u redovitom srednjošk",
+   "title": "Pravilnik o posebnim uvjetima za početak osposobljavanja i uvjetima za upravljanje motornim vozilima C1 i C kategorije učenika koji se obrazuju za zanimanje vozač motornog vozila u redovitom srednjošk",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/21/374",
+   "versions": [
+    {
+     "from": "2005-02-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_21_374.html",
+     "sha256": "a0bc57ddfd0faa6b9be227f7766733d2b3408e1c740075904098c68351567110"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-375",
+   "path": "pravilnik/2005/375",
+   "short": "Pravilnik o označavanju i evidentiranju lakih prikolica",
+   "title": "Pravilnik o označavanju i evidentiranju lakih prikolica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/21/375",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_21_375.html",
+     "sha256": "c522d24196984273953a7b2ed63a65c8ef10782ee0fb5a6d3ca8a72592487d9e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-376",
+   "path": "pravilnik/2005/376",
+   "short": "Pravilnik o zvučnom snimanju tijeka glavne rasprave u kaznenom postupku",
+   "title": "Pravilnik o zvučnom snimanju tijeka glavne rasprave u kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/21/376",
+   "versions": [
+    {
+     "from": "2005-02-22",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_21_376.html",
+     "sha256": "ad0d9f73f83eeade1cc73eae159e1112df1290e94136742d814d680b1e48b47a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-396",
+   "path": "pravilnik/2005/396",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o naknadama troškova u svezi s obavljanjem službe, selidbenih troškova i troškova zbog odvojenog života od obitelji",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o naknadama troškova u svezi s obavljanjem službe, selidbenih troškova i troškova zbog odvojenog života od obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/22/396",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_22_396.html",
+     "sha256": "5e31e407d7fab84873fc65749e58b733cba2496fcd155ab37879972d4b492a26"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-459",
+   "path": "pravilnik/2005/459",
+   "short": "Pravilnik o plaćanju naknade za obavljanje telekomunikacijskih usluga i djelatnosti",
+   "title": "Pravilnik o plaćanju naknade za obavljanje telekomunikacijskih usluga i djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/26/459",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_26_459.html",
+     "sha256": "31835ea174c53823d9c38539020705d563b3ff85ab70cff65b6f5148da422678"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-460",
+   "path": "pravilnik/2005/460",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o koncesijama i dozvolama za obavljanje telekomunikacijskih usluga",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o koncesijama i dozvolama za obavljanje telekomunikacijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/26/460",
+   "versions": [
+    {
+     "from": "2005-02-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_26_460.html",
+     "sha256": "bd18f837991e502194c41a45c8f1375e63b370953e558a085c4b1fc436849713"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-462",
+   "path": "pravilnik/2005/462",
+   "short": "Pravilnik o dopuni Pravilnika o označavanju pasa",
+   "title": "Pravilnik o dopuni Pravilnika o označavanju pasa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/26/462",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_26_462.html",
+     "sha256": "c7db34dfba251a806db98f56d13fa10d3c1b8c8c0c9e12130f8969dce3232afe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-464",
+   "path": "pravilnik/2005/464",
+   "short": "Pravilnik o mjeriteljskim zahtjevima za automatska mjerila razine tekućine u nepokretnim spremnicima",
+   "title": "Pravilnik o mjeriteljskim zahtjevima za automatska mjerila razine tekućine u nepokretnim spremnicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/26/464",
+   "versions": [
+    {
+     "from": "2005-03-03",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_02_26_464.html",
+     "sha256": "40eed90232e9aeecfd09d0ae2972ffebac7a136cb96a9e6e6422c1d48b53fe21"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-501",
+   "path": "pravilnik/2005/501",
+   "short": "Pravilnik o prostornim i tehničkim uvjetima koje mora ispunjavati prostor u kojem se obavlja djelatnost privatne zaštite",
+   "title": "Pravilnik o prostornim i tehničkim uvjetima koje mora ispunjavati prostor u kojem se obavlja djelatnost privatne zaštite",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/501",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_501.html",
+     "sha256": "6ca3b97a0bd7e3e1fb7df3d9de3a27293bac8647b6b72781a538043ccdc265de"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-503",
+   "path": "pravilnik/2005/503",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o programu i načinu provjere osposobljenosti poslodavca ili njegovog ovlaštenika za obavljanje poslova zaštite na radu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o programu i načinu provjere osposobljenosti poslodavca ili njegovog ovlaštenika za obavljanje poslova zaštite na radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/503",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_503.html",
+     "sha256": "0fdd2733321795639973b7667cc7127399b24c13196139e0ab4ccfc328ce6f3a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-504",
+   "path": "pravilnik/2005/504",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati skloništa za životinje i higijenski servisi",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima kojima moraju udovoljavati skloništa za životinje i higijenski servisi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/504",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_504.html",
+     "sha256": "33bea1535c7332973db39abef253feeb6415e180a9bb8fcab84f06c22157bc36"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-505",
+   "path": "pravilnik/2005/505",
+   "short": "Pravilnik o dobroj praksi u prometu lijekova na veliko",
+   "title": "Pravilnik o dobroj praksi u prometu lijekova na veliko",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/505",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_505.html",
+     "sha256": "4a5cef43aca29d418cb00006213622f14a8abd815697e4ee0e515e2767599d2f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-506",
+   "path": "pravilnik/2005/506",
+   "short": "Pravilnik o vrsti podataka te načinu izrade izvješća o prometu gotovih lijekova",
+   "title": "Pravilnik o vrsti podataka te načinu izrade izvješća o prometu gotovih lijekova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/506",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_506.html",
+     "sha256": "73308b1d04eb1606c267f4022a274d7448adf75d9729c668dd16ecfbd213859a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-507",
+   "path": "pravilnik/2005/507",
+   "short": "Pravilnik o uvjetima za davanje dozvole specijaliziranim prodavaonicama za promet na malo lijekovima i medicinskim proizvodima",
+   "title": "Pravilnik o uvjetima za davanje dozvole specijaliziranim prodavaonicama za promet na malo lijekovima i medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/507",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_507.html",
+     "sha256": "3ba31f5d4c9b005fb2525f89d9f1f6da70e0677f584fbcc507acdf45607a8b40"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-508",
+   "path": "pravilnik/2005/508",
+   "short": "Pravilnik o uvjetima i postupku davanja dozvole za obavljanje prometa na veliko lijekovima te uvoza i izvoza lijekova",
+   "title": "Pravilnik o uvjetima i postupku davanja dozvole za obavljanje prometa na veliko lijekovima te uvoza i izvoza lijekova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/508",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_508.html",
+     "sha256": "0ea3f0526ce016d03611ff85f628db159569ef44d427e73a381ce983a97be04f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-509",
+   "path": "pravilnik/2005/509",
+   "short": "Pravilnik o načinu i mjestu provođenja psihosocijalnog tretmana",
+   "title": "Pravilnik o načinu i mjestu provođenja psihosocijalnog tretmana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/509",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_509.html",
+     "sha256": "bc662fc12ce05a4a1b6b1f1b9f3b5a3f95eee07802247cb581d4b747abc0dff7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-510",
+   "path": "pravilnik/2005/510",
+   "short": "Pravilnik o najvišim dopuštenim količinama ostataka veterinarskih lijekova u hrani",
+   "title": "Pravilnik o najvišim dopuštenim količinama ostataka veterinarskih lijekova u hrani",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/510",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_510.html",
+     "sha256": "48273fa31332160ae01d21a4182536299a0be59a9dcab8f25ec7fee499e6c08a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-513",
+   "path": "pravilnik/2005/513",
+   "short": "Pravilnik o evidentiranju i obilježavanju pomorskog dobra",
+   "title": "Pravilnik o evidentiranju i obilježavanju pomorskog dobra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/513",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_29_513.html",
+     "sha256": "4c2c6bc7bf5495ac77fe8ad1941e901874d0493e47695c248d574d31288186a2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-536",
+   "path": "pravilnik/2005/536",
+   "short": "Pravilnik o mjerama za suzbijanje infekcije Brucellom ovis",
+   "title": "Pravilnik o mjerama za suzbijanje infekcije Brucellom ovis",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/536",
+   "versions": [
+    {
+     "from": "2005-03-12",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_536.html",
+     "sha256": "f0499434ed810fc783fa9c7212f9b642032827c98895e82b063a7b54e12cac41"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-540",
+   "path": "pravilnik/2005/540",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o standardima i normativima prava na zdravstvenu zaštitu iz osnovnog zdravstvenog osiguranja za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/540",
+   "versions": [
+    {
+     "from": "2005-03-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_540.html",
+     "sha256": "8b68261570033984f779916ce3bf4350b90f318fc0ecbe89f57a3ab357b2e682"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-542",
+   "path": "pravilnik/2005/542",
+   "short": "Pravilnik o izmjenama Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja",
+   "title": "Pravilnik o izmjenama Pravilnika o pravima, uvjetima i načinu ostvarivanja prava iz osnovnog zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/542",
+   "versions": [
+    {
+     "from": "2005-03-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_542.html",
+     "sha256": "2c578e7b28fa4e8c136a375b025d973300eace27d570fbfb8297f0689985745c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-543",
+   "path": "pravilnik/2005/543",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o pravima, uvjetima i načinu korištenja zdravstvene zaštite u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/543",
+   "versions": [
+    {
+     "from": "2005-03-12",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_30_543.html",
+     "sha256": "c7a96146d133df89a614c2617337f7701357d591a6156cc4fa7e2b19b25c78d8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-583",
+   "path": "pravilnik/2005/583",
+   "short": "Pravilnik o dopunama Pravilnika o informatičkom sustavu i jedinstvenome programskom rješenju za obradu podataka o tehničkim pregledima i registraciji vozila u stanicama za tehnički pregled vozila",
+   "title": "Pravilnik o dopunama Pravilnika o informatičkom sustavu i jedinstvenome programskom rješenju za obradu podataka o tehničkim pregledima i registraciji vozila u stanicama za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/31/583",
+   "versions": [
+    {
+     "from": "2005-03-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_31_583.html",
+     "sha256": "b1dea5d2d40be8b1583d9b9911f3ac7b29f01a6562d61f0d99fdaab28632737f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-584",
+   "path": "pravilnik/2005/584",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima koje mora ispunjavati stanica za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima koje mora ispunjavati stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/31/584",
+   "versions": [
+    {
+     "from": "2005-03-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_31_584.html",
+     "sha256": "a27593870638224467fe45aea732ae440dd74bdca1296c53337518e0107fbcbc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-607",
+   "path": "pravilnik/2005/607",
+   "short": "Pravilnik o osnovnim elementima koje mora sadržavati stručno mišljenje u postupku posredovanja prije razvoda braka",
+   "title": "Pravilnik o osnovnim elementima koje mora sadržavati stručno mišljenje u postupku posredovanja prije razvoda braka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/607",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_607.html",
+     "sha256": "71f62762c3788a070333c29db780af08bd14ada8ba5b2d7f35255eba5e8d6a18"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-608",
+   "path": "pravilnik/2005/608",
+   "short": "Pravilnik o visini iznosa i načinu isplate naknade za skrbnika",
+   "title": "Pravilnik o visini iznosa i načinu isplate naknade za skrbnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/608",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_608.html",
+     "sha256": "1c36209d8371bdad0ddb133b670f6109566664f00808cb0538215515e07ee041"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-609",
+   "path": "pravilnik/2005/609",
+   "short": "Pravilnik o načinu vođenja očevidnika i dokumentacije u svezi s poslovima centra za socijalnu skrb u području braka i odnosa u braku",
+   "title": "Pravilnik o načinu vođenja očevidnika i dokumentacije u svezi s poslovima centra za socijalnu skrb u području braka i odnosa u braku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/609",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_609.html",
+     "sha256": "f6da31a92b42ff3b87852f47f468afc47894af64b83113740686aab8c48eac00"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-610",
+   "path": "pravilnik/2005/610",
+   "short": "Pravilnik o načinu vođenja očevidnika i spisa predmeta osoba pod skrbništvom, načinu popisa i opisa njihove imovine te podnošenja izvješća i polaganja računa skrbnika",
+   "title": "Pravilnik o načinu vođenja očevidnika i spisa predmeta osoba pod skrbništvom, načinu popisa i opisa njihove imovine te podnošenja izvješća i polaganja računa skrbnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/610",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_610.html",
+     "sha256": "cdfd1571568271c723caffe7625f5a797c7aa23e2a8c3cf44c1b9114c6d933e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-611",
+   "path": "pravilnik/2005/611",
+   "short": "Pravilnik o načinu vođenja očevidnika i spisa predmeta o posvojenju",
+   "title": "Pravilnik o načinu vođenja očevidnika i spisa predmeta o posvojenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/611",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_611.html",
+     "sha256": "abaf772b755117185864a6f89b4a4a70aafced7e5c2a372c570953b1b442b642"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-612",
+   "path": "pravilnik/2005/612",
+   "short": "Pravilnik o visini iznosa i načinu isplate naknade za provođenje nadzora nad roditeljskom skrbi",
+   "title": "Pravilnik o visini iznosa i načinu isplate naknade za provođenje nadzora nad roditeljskom skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/32/612",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_32_612.html",
+     "sha256": "ca955e0f29c0980850e41b539ece2f018f8f41ba6b8d2b07aec373012e25877c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-62",
+   "path": "pravilnik/2005/62",
+   "short": "Pravilnik o stručnom nadzoru nad sjemenskim usjevima poljoprivrednog bilja",
+   "title": "Pravilnik o stručnom nadzoru nad sjemenskim usjevima poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/4/62",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_4_62.html",
+     "sha256": "89443cb5b2c8a0649bf5974249201bae1a767f0ef8cee630c5a915ac88911984"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-63",
+   "path": "pravilnik/2005/63",
+   "short": "Pravilnik o temeljnim zahtjevima kakvoće, načinu ispitivanja, pakiranju i deklariranju sjemena poljoprivrednog bilja",
+   "title": "Pravilnik o temeljnim zahtjevima kakvoće, načinu ispitivanja, pakiranju i deklariranju sjemena poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/4/63",
+   "versions": [
+    {
+     "from": "2005-01-10",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_4_63.html",
+     "sha256": "4c3827c251c4eadbe01a4b3615ceaafce3ec91a1ca64b1af6f0fba62a00d443d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-64",
+   "path": "pravilnik/2005/64",
+   "short": "Pravilnik o očuvanju i korištenju biljnih i genetskih resursa te načinu rada i uređenju banke biljnih gena poljoprivrednog bilja",
+   "title": "Pravilnik o očuvanju i korištenju biljnih i genetskih resursa te načinu rada i uređenju banke biljnih gena poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/4/64",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_4_64.html",
+     "sha256": "00c246848346d7b3955a8c65c2a03ce5fcdd83c54bf3c68687165574a1b31f67"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-690",
+   "path": "pravilnik/2005/690",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o općem deklariranju ili označavanju hrane",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o općem deklariranju ili označavanju hrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/690",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_690.html",
+     "sha256": "708ae1ba2764af209a84289c3be2bcb9c64317e0fcefc7c25dd6f3e04b30e5d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-691",
+   "path": "pravilnik/2005/691",
+   "short": "Pravilnik o načinu obavljanja medicinsko-biokemijske djelatnosti u liječničkim ordinacijama",
+   "title": "Pravilnik o načinu obavljanja medicinsko-biokemijske djelatnosti u liječničkim ordinacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/691",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_691.html",
+     "sha256": "5f053ba397891a1009e98374e774390bac496ce8645e1ae7a06276b4e205e570"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-692",
+   "path": "pravilnik/2005/692",
+   "short": "Pravilnik o načinu obavljanja medicinsko-biokemijske djelatnosti uz bolesnika",
+   "title": "Pravilnik o načinu obavljanja medicinsko-biokemijske djelatnosti uz bolesnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/34/692",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_34_692.html",
+     "sha256": "57f1a4782f3afffbeccf4b6223dc0abf223d5a8abb36d21650d11221f7794284"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-71",
+   "path": "pravilnik/2005/71",
+   "short": "Pravilnik o poštanskom sustavu javnog operatora",
+   "title": "Pravilnik o poštanskom sustavu javnog operatora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/5/71",
+   "versions": [
+    {
+     "from": "2005-01-19",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_5_71.html",
+     "sha256": "5eadebb33e50c27b42d00c01b04a31ab3f723d77157f25b309afac594ee94b66"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-718",
+   "path": "pravilnik/2005/718",
+   "short": "Pravilnik o radu Povjerenstva za reviziju ocjene invalidnosti",
+   "title": "Pravilnik o radu Povjerenstva za reviziju ocjene invalidnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/37/718",
+   "versions": [
+    {
+     "from": "2005-03-21",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_37_718.html",
+     "sha256": "b0df60f35575f7dba90dc6e7779c4d857d2d6a6df7193b332d768190b66480a1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-776",
+   "path": "pravilnik/2005/776",
+   "short": "Pravilnik o dopuni Pravilnika o sadržaju, načinu izrade i postupku donošenja, odnosno odobravanja lovnogospodarske osnove, programa uzgoja divljači i programa zaštite divljači",
+   "title": "Pravilnik o dopuni Pravilnika o sadržaju, načinu izrade i postupku donošenja, odnosno odobravanja lovnogospodarske osnove, programa uzgoja divljači i programa zaštite divljači",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/776",
+   "versions": [
+    {
+     "from": "2005-04-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_776.html",
+     "sha256": "e134dc9e3fd4a2cc349e52e589775fe4dee8fb3f46a3500196401551900410b5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-777",
+   "path": "pravilnik/2005/777",
+   "short": "Pravilnik o vrednovanju znanstvenih organizacija",
+   "title": "Pravilnik o vrednovanju znanstvenih organizacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/777",
+   "versions": [
+    {
+     "from": "2005-04-02",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_777.html",
+     "sha256": "28194ba4b1353c67cc6333b3889543040286c4fa50a95371866447c798d22ded"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-780",
+   "path": "pravilnik/2005/780",
+   "short": "Pravilnik o postupku homologacije za zvučnoupozorne uređaje motornih vozila na dva ili tri kotača TPV 203 (Izdanje 00)",
+   "title": "Pravilnik o postupku homologacije za zvučnoupozorne uređaje motornih vozila na dva ili tri kotača TPV 203 (Izdanje 00)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/780",
+   "versions": [
+    {
+     "from": "2005-04-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_780.html",
+     "sha256": "c3aa8c7ddefe636f9ed991a1d3c2704fc8e844da045d5254fc9beb1e0b95b34e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-781",
+   "path": "pravilnik/2005/781",
+   "short": "Pravilnik o postupku homologacije motornih vozila na dva ili tri kotača s obzirom na mase i dimenzije TPV 209 (Izdanje 00)",
+   "title": "Pravilnik o postupku homologacije motornih vozila na dva ili tri kotača s obzirom na mase i dimenzije TPV 209 (Izdanje 00)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/781",
+   "versions": [
+    {
+     "from": "2005-04-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_781.html",
+     "sha256": "2c7cea478c18e5ca8e4cd52c30f533382d7a9d5170fb3471cbfe883ab283be9a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-782",
+   "path": "pravilnik/2005/782",
+   "short": "Pravilnik o postupku homologacije brzinomjera motornih vozila na dva ili tri kotača TPV 213 (Izdanje 00)",
+   "title": "Pravilnik o postupku homologacije brzinomjera motornih vozila na dva ili tri kotača TPV 213 (Izdanje 00)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/39/782",
+   "versions": [
+    {
+     "from": "2005-04-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_39_782.html",
+     "sha256": "df82b87e3e9f71537f043b79cc2a5e0883c9f9655bcb9d1b9158999dec891f80"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-793",
+   "path": "pravilnik/2005/793",
+   "short": "Pravilnik o dobroj proizvođačkoj praksi za lijekove",
+   "title": "Pravilnik o dobroj proizvođačkoj praksi za lijekove",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/40/793",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_40_793.html",
+     "sha256": "c82998b0287c426204b2a858931d4d444c0989ffaa5a608fa7ffc1aea7891198"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-796",
+   "path": "pravilnik/2005/796",
+   "short": "Pravilnik o izmjeni Pravilnika o registraciji vozila",
+   "title": "Pravilnik o izmjeni Pravilnika o registraciji vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/41/796",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_41_796.html",
+     "sha256": "ec880f66c550cdae903fd1fbbd3f05f2d73208b5d82216347f70f2b0a00be0aa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-8",
+   "path": "pravilnik/2005/8",
+   "short": "Pravilnik o načinu plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje",
+   "title": "Pravilnik o načinu plaćanja doprinosa za obvezno mirovinsko osiguranje na temelju individualne kapitalizirane štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/1/8",
+   "versions": [
+    {
+     "from": "2005-01-03",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_1_8.html",
+     "sha256": "624531add6df6ceb8e41f464d51c6901e59555cf9504ac03d6cca2d77cc5491c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-800",
+   "path": "pravilnik/2005/800",
+   "short": "Pravilnik o uvjetima koje moraju zadovoljavati plovni objekt, te fizička ili pravna osoba koja obavlja djelatnost iznajmljivanja plovila",
+   "title": "Pravilnik o uvjetima koje moraju zadovoljavati plovni objekt, te fizička ili pravna osoba koja obavlja djelatnost iznajmljivanja plovila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/41/800",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_41_800.html",
+     "sha256": "e9482c0c36d3191ab2b8ed8d4b2a1f86683e10e6d5e27a38501d30c0c89993db"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-802",
+   "path": "pravilnik/2005/802",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja evidencije fizičkih osoba koje samostalno obavljaju socijalnu skrb kao profesionalnu djelatnost",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o sadržaju i načinu vođenja evidencije fizičkih osoba koje samostalno obavljaju socijalnu skrb kao profesionalnu djelatnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/41/802",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_03_41_802.html",
+     "sha256": "61a910a8426e73fb408c0584c979ef0fb5d8901a987fa2ffe1e1d30f10f7524f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-819",
+   "path": "pravilnik/2005/819",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o zaštiti na radu za radne i pomoćne prostorije i prostore",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o zaštiti na radu za radne i pomoćne prostorije i prostore",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/819",
+   "versions": [
+    {
+     "from": "2005-04-09",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_42_819.html",
+     "sha256": "8fc513281b701f790e9246773625f3a0af52a5319b5b37044a0c6c7b60a0b6cb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-820",
+   "path": "pravilnik/2005/820",
+   "short": "Pravilnik o pivu i pivu s dodacima",
+   "title": "Pravilnik o pivu i pivu s dodacima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/820",
+   "versions": [
+    {
+     "from": "2005-04-09",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_42_820.html",
+     "sha256": "e992cb9c8098fd00e5e1b4e649d130dffb5ecb2c54a81f8edde9b532eb0c8dba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-821",
+   "path": "pravilnik/2005/821",
+   "short": "Pravilnik o dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "title": "Pravilnik o dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/42/821",
+   "versions": [
+    {
+     "from": "2005-04-09",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_42_821.html",
+     "sha256": "1481b6213f16d2cb91d6325ac51ef34e58f5821590de2b319c0a4ed6505dc0a7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-827",
+   "path": "pravilnik/2005/827",
+   "short": "Pravilnik o izboru, načinu i postupku ostvarivanja prava osoba koje pružaju njegu i pomoć HRVI iz Domovinskog rata 100 I. skupine",
+   "title": "Pravilnik o izboru, načinu i postupku ostvarivanja prava osoba koje pružaju njegu i pomoć HRVI iz Domovinskog rata 100 I. skupine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/43/827",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_43_827.html",
+     "sha256": "ab10b274afbe92128bcbbd260c06b4b5882ea45ee183e862b9557a5162561106"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-828",
+   "path": "pravilnik/2005/828",
+   "short": "Pravilnik o dodjeli stambenog kredita članovima obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata",
+   "title": "Pravilnik o dodjeli stambenog kredita članovima obitelji smrtno stradaloga, zatočenoga ili nestaloga hrvatskog branitelja iz Domovinskog rata i HRVI iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/43/828",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_43_828.html",
+     "sha256": "a05999678ce6d263b11de910f4e7a0e969accf99f34c52b8a0910f8f5c5fcff8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-858",
+   "path": "pravilnik/2005/858",
+   "short": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za obavljanje stručnih poslova zaštite i ionizirajućih zračenja",
+   "title": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za obavljanje stručnih poslova zaštite i ionizirajućih zračenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/44/858",
+   "versions": [
+    {
+     "from": "2005-04-13",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_44_858.html",
+     "sha256": "56168a2fbd2f324f26f9db5711b4fb2cc2176657a2a8e52ea8e3b11b077da312"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-88",
+   "path": "pravilnik/2005/88",
+   "short": "Pravilnik o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje, ispitivanje sukladnosti i provedbu službenih mjerenja za protočna mjerila za tekućine osim vode",
+   "title": "Pravilnik o uvjetima koje moraju ispunjavati pravne osobe za ovjeravanje, ispitivanje sukladnosti i provedbu službenih mjerenja za protočna mjerila za tekućine osim vode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/6/88",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_6_88.html",
+     "sha256": "cfc125a4c0952c7308f19f845a5cfde3873f056c00393adc33e46adea6087257"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-887",
+   "path": "pravilnik/2005/887",
+   "short": "Pravilnik o uvjetima i načinu provedbe tjelesne zaštite",
+   "title": "Pravilnik o uvjetima i načinu provedbe tjelesne zaštite",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/887",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_887.html",
+     "sha256": "d89b186969b613664c95fa504b1be91ba80bd710e6e8a6b18f46d59c208a867c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-888",
+   "path": "pravilnik/2005/888",
+   "short": "Pravilnik o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata",
+   "title": "Pravilnik o utvrđivanju postotka oštećenja organizma HRVI iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/888",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_888.html",
+     "sha256": "23093d93ef374c8f05e4a1b8d863656255e0f86da0245293a5dd8cff71fc622d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-889",
+   "path": "pravilnik/2005/889",
+   "short": "Pravilnik o oštećenju organizma po osnovi kojih HRVI iz Domovinskog rata ima pravo na ortopedski doplatak i razvrstavanju tih oštećenja u stupnjeve",
+   "title": "Pravilnik o oštećenju organizma po osnovi kojih HRVI iz Domovinskog rata ima pravo na ortopedski doplatak i razvrstavanju tih oštećenja u stupnjeve",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/889",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_889.html",
+     "sha256": "aa76479420f5b4ce06f27608ee509da5f94c478a6bf517955da2f818d38b5f77"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-890",
+   "path": "pravilnik/2005/890",
+   "short": "Pravilnik o medicinskim indikacijama za razvrstavanje HRVI iz Domovinskog rata od I. do IV. skupine prema stupnju potrebe za njegom i pomoći druge osobe",
+   "title": "Pravilnik o medicinskim indikacijama za razvrstavanje HRVI iz Domovinskog rata od I. do IV. skupine prema stupnju potrebe za njegom i pomoći druge osobe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/890",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_890.html",
+     "sha256": "5f447170d857d0bec939f61ae97eb0e9bcd2f5083192474eb750bb06fe69c352"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-891",
+   "path": "pravilnik/2005/891",
+   "short": "Pravilnik o korištenju prava na medicinsku odnosno fizikalnu rehabilitaciju hrvatskih ratnih vojnih invalida iz Domovinskog rata",
+   "title": "Pravilnik o korištenju prava na medicinsku odnosno fizikalnu rehabilitaciju hrvatskih ratnih vojnih invalida iz Domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/891",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_891.html",
+     "sha256": "c3754f1a4fc823b18da7768355a0cbfd35baf480edcf7b34199740d5428076f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-892",
+   "path": "pravilnik/2005/892",
+   "short": "Pravilnik o utvrđivanju zdravstvenih ustanova za vještačenje",
+   "title": "Pravilnik o utvrđivanju zdravstvenih ustanova za vještačenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/892",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_892.html",
+     "sha256": "7095ffb50255b7036b30a3ea315cd3bfe90e4972fb0721c6dd56b4a2670d2918"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-893",
+   "path": "pravilnik/2005/893",
+   "short": "Pravilnik o pristupu izdvojenog lokalnoj petlji",
+   "title": "Pravilnik o pristupu izdvojenog lokalnoj petlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/893",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_893.html",
+     "sha256": "444ffc1baa93c6f1681da69af5ec20846b7eb7640432ff6886cebee624096045"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-894",
+   "path": "pravilnik/2005/894",
+   "short": "Pravilnik o kalendaru rada osnovnih škola za školsku godinu 2005./2006.",
+   "title": "Pravilnik o kalendaru rada osnovnih škola za školsku godinu 2005./2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/894",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_894.html",
+     "sha256": "bbfab9658f6921e09361b0ae37c960a5ddd4ca15bb53d4d5a2f1993ef27ba6b4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-895",
+   "path": "pravilnik/2005/895",
+   "short": "Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2005./2006.",
+   "title": "Pravilnik o početku i završetku nastave i trajanju odmora učenika srednjih škola u školskoj godini 2005./2006.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/45/895",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_45_895.html",
+     "sha256": "989919148a12d921e71e0c6ed60cc4ebd73333ac6d2a42c4207e9157612b0740"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-9",
+   "path": "pravilnik/2005/9",
+   "short": "Pravilnik o zdravstvenim uvjetima za rad s izvorima ionizirajućih zračenja te mjerilima, sadržaju, načinu i rokovima čuvanja podataka o zdravstvenim pregledima osoba koje rade s izvorima ionizirajućih zračenja",
+   "title": "Pravilnik o zdravstvenim uvjetima za rad s izvorima ionizirajućih zračenja te mjerilima, sadržaju, načinu i rokovima čuvanja podataka o zdravstvenim pregledima osoba koje rade s izvorima ionizirajućih zračenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/1/9",
+   "versions": [
+    {
+     "from": "2005-01-11",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_1_9.html",
+     "sha256": "cde4e0c111186bca383a9826f1c59689d3ca04a383be41affcda7781fddb6321"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-913",
+   "path": "pravilnik/2005/913",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vezanim i povlaštenim obrtima i načinu izdavanja povlastica",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vezanim i povlaštenim obrtima i načinu izdavanja povlastica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/913",
+   "versions": [
+    {
+     "from": "2005-04-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_913.html",
+     "sha256": "78967ed340c43455037dadf2195db7eed33082d3dd2c5bbb30e95d46057ec51b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-917",
+   "path": "pravilnik/2005/917",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 0,2 i 0,5 S",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 0,2 i 0,5 S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/917",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_917.html",
+     "sha256": "53fc758aec0a490a4a94d40285c75ef80b475ed6d738cb77928f5a101b9e6bcb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-918",
+   "path": "pravilnik/2005/918",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za indukcijska brojila za električnu energiju",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za indukcijska brojila za električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/918",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 47,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_918.html",
+     "sha256": "8178af3fa4b7e56ef9df834a32dba6bcd26798a318467fd222b80d06319e09bc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-919",
+   "path": "pravilnik/2005/919",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila jalove električne energije razreda točnosti 2 i 3",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila jalove električne energije razreda točnosti 2 i 3",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/919",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_919.html",
+     "sha256": "ea2710ce3248ed18bce68cabdcf9e2672404753ffc4d71ca03424bd545d28c48"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-92",
+   "path": "pravilnik/2005/92",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima koje moraju ispunjavati stanice za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o tehničkim uvjetima koje moraju ispunjavati stanice za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/6/92",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_6_92.html",
+     "sha256": "fa8550b4a4a595a90f4101d12f312f8857ab126d2cc663e99671db0df69ab3f3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-920",
+   "path": "pravilnik/2005/920",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 1 i 2",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 1 i 2",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/47/920",
+   "versions": [
+    {
+     "from": "2005-04-19",
+     "units": 37,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_47_920.html",
+     "sha256": "5742f08eaa9b968da881e028a77f29b7b34046f3e3c18bd5d9ddec11838bb3a1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-93",
+   "path": "pravilnik/2005/93",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o stručnom nadzoru nad radom stanica za tehnički pregled vozila",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o stručnom nadzoru nad radom stanica za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/6/93",
+   "versions": [
+    {
+     "from": "2005-01-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_01_6_93.html",
+     "sha256": "e774183d39a2084b9af16ba2f73855ba034e4763f634edb46445ad13aa775cc6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-978",
+   "path": "pravilnik/2005/978",
+   "short": "Pravilnik o statusu i financiranju Festivala igranog filma u Puli",
+   "title": "Pravilnik o statusu i financiranju Festivala igranog filma u Puli",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/978",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_978.html",
+     "sha256": "a9e6fa42b60e03294ce5f635563d2b269efd5fccc95e4c62fa6955f7a779061e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-979",
+   "path": "pravilnik/2005/979",
+   "short": "Pravilnik o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja",
+   "title": "Pravilnik o rukovanju opasnim tvarima, uvjetima i načinu obavljanja prijevoza u pomorskom prometu, ukrcavanja i iskrcavanja opasnih tvari, rasutog i ostalog tereta u lukama, te načinu sprječavanja širenja isteklih ulja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/979",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 181,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_979.html",
+     "sha256": "eeb26de3a6ce41f6c3a99d6cafbd5304ee0adb5beaab3bab88a11fedad25e30d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-980",
+   "path": "pravilnik/2005/980",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijavljivanja i odjavljivanja, te trajanju statusa osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranje",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu prijavljivanja i odjavljivanja, te trajanju statusa osigurane osobe Hrvatskog zavoda za zdravstveno osiguranje iz osnovnog zdravstvenog osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/980",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_980.html",
+     "sha256": "6c69984ab877f87f1fe6fbf9fb5ed045e64d8df6382be57d48ca64ef54071bb9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2005-986",
+   "path": "pravilnik/2005/986",
+   "short": "Pravilnik o mirenju Centra za mirenje pri Hrvatskoj obrtničkoj komori",
+   "title": "Pravilnik o mirenju Centra za mirenje pri Hrvatskoj obrtničkoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/51/986",
+   "versions": [
+    {
+     "from": "2005-03-30",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2005_04_51_986.html",
+     "sha256": "63261afb925e4304e389e2346234c7d28ac1b239771e0ac5d937bba8bcd2d0e6"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2006-2821",
    "path": "naputak/2006/2821",
    "short": "Naputak za provedbu prava članova obitelji zatočenog ili nestalog pripadnika Hrvatskog vijeća obrane i provedbu prava iz članka 6. Ugovora između Republike Hrvatske i Bosne i Hercegovine o suradnji na području prava stradalnika rata u Bosni i Hercegovini koji su bili pripadnici Hrvatskog vijeća obrane i članova njihovih obitelji",
@@ -12568,6 +14983,2091 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_42_998.html",
      "sha256": "fee6ef7ce8b12bb292044c329e94beaa82ccbf762a36c7daa255919133ebbf17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1000",
+   "path": "pravilnik/2006/1000",
+   "short": "Pravilnik o izmjenama Pravilnika o jednostavnim tlačnim posudama",
+   "title": "Pravilnik o izmjenama Pravilnika o jednostavnim tlačnim posudama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/42/1000",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_42_1000.html",
+     "sha256": "fd42145fae564854836979ae0e0a77c9a87f66496f75c9cc777c2f2570b97d6a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1098",
+   "path": "pravilnik/2006/1098",
+   "short": "Pravilnik o izmjenama Pravilnika o tlačnoj opremi",
+   "title": "Pravilnik o izmjenama Pravilnika o tlačnoj opremi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/44/1098",
+   "versions": [
+    {
+     "from": "2006-03-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_44_1098.html",
+     "sha256": "de3725e62dfa18eb443ce317890fab1059ab943943b91e947017ed475037e10b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1103",
+   "path": "pravilnik/2006/1103",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o uvjetima za obavljanje zdravstvenih pregleda, vrsti i opsegu pregleda, načinu vođenja evidencije i medicinske dokumentacije vozača i kandidata za vozače",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o uvjetima za obavljanje zdravstvenih pregleda, vrsti i opsegu pregleda, načinu vođenja evidencije i medicinske dokumentacije vozača i kandidata za vozače",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/45/1103",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_45_1103.html",
+     "sha256": "ce0e956757edba3fadd157806635da924969e7efb0b5cb27bd54d87fcbf32f22"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1109",
+   "path": "pravilnik/2006/1109",
+   "short": "Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za obavljanje poslova ovlaštenog aktuara",
+   "title": "Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za obavljanje poslova ovlaštenog aktuara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/45/1109",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_45_1109.html",
+     "sha256": "4d3a31ba6002e07404f1d1f9a5f0e1427feae53f392407c67f2960ff28c60afc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1110",
+   "path": "pravilnik/2006/1110",
+   "short": "Pravilnik o sadržaju izvješća dioničara i imatelja udjela u fondu i vođenju poslovnih knjiga društva za upravljanje investicijskim fondovima",
+   "title": "Pravilnik o sadržaju izvješća dioničara i imatelja udjela u fondu i vođenju poslovnih knjiga društva za upravljanje investicijskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/45/1110",
+   "versions": [
+    {
+     "from": "2006-04-24",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_45_1110.html",
+     "sha256": "5a518298ac276e3357518f6b1734ddf9cab2e5d32e67bb625536e49a2829bf1c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1111",
+   "path": "pravilnik/2006/1111",
+   "short": "Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o vrsti i visini naknada i administrativnih pristojbi Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/45/1111",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_45_1111.html",
+     "sha256": "9ad812840955da494d3304df23252d26f4b4ff2e7bd0948c76ca841a4ccbfc97"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1137",
+   "path": "pravilnik/2006/1137",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obavljanju gospodarskog ribolova na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1137",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1137.html",
+     "sha256": "181cc29e252e7d08ff813cac0d468f62d4453d8378d2ff006eb36aa0a8ff0c8a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1138",
+   "path": "pravilnik/2006/1138",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o ribolovnim alatima i opremi za gospodarski ribolov na moru",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o ribolovnim alatima i opremi za gospodarski ribolov na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1138",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1138.html",
+     "sha256": "942575c3b2c698fa2dc46e848b15e29214ad84794f3af43b04cade0c61a17c1f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1140",
+   "path": "pravilnik/2006/1140",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/46/1140",
+   "versions": [
+    {
+     "from": "2006-05-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_46_1140.html",
+     "sha256": "7ea33a98082c3787920f5f5cff57b8c8699b6d21beb5749abe889ad4b1329bdb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1151",
+   "path": "pravilnik/2006/1151",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o obveznim evidencijama za obračun koncesijske naknade u casinima i automat-klubovima",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o obveznim evidencijama za obračun koncesijske naknade u casinima i automat-klubovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/47/1151",
+   "versions": [
+    {
+     "from": "2006-05-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_47_1151.html",
+     "sha256": "1975c03c1e5fe9d3d324d0665664431740a779d993cadd8b53bb03216403e245"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1152",
+   "path": "pravilnik/2006/1152",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima tehničke ispravnosti automata i stolova za igre na sreću",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima tehničke ispravnosti automata i stolova za igre na sreću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/47/1152",
+   "versions": [
+    {
+     "from": "2006-05-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_47_1152.html",
+     "sha256": "b3d5f1262671718ae1f62e7e7a42b6ab8c8ec8098b19b4c5c5464f0308fe974a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1154",
+   "path": "pravilnik/2006/1154",
+   "short": "Pravilnik o postupku uzbunjivanja stanovništva",
+   "title": "Pravilnik o postupku uzbunjivanja stanovništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/47/1154",
+   "versions": [
+    {
+     "from": "2006-05-06",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_04_47_1154.html",
+     "sha256": "cba839269634fc262ea2bf3b45f80f775af509d855d9ab8970074d0319115764"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1160",
+   "path": "pravilnik/2006/1160",
+   "short": "Pravilnik o osposobljavanju službenika Ministarstva unutarnjih poslova za vozače motornih vozila i načinu polaganja vozačkih ispita",
+   "title": "Pravilnik o osposobljavanju službenika Ministarstva unutarnjih poslova za vozače motornih vozila i načinu polaganja vozačkih ispita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/48/1160",
+   "versions": [
+    {
+     "from": "2006-05-10",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_48_1160.html",
+     "sha256": "cad554cced953d871a406c334da26e44398dd56ae5b12f766f3497fbe36f8fbc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1188",
+   "path": "pravilnik/2006/1188",
+   "short": "Pravilnik o načinu obavljanja poslova Hrvatskog zrakoplovnog saveza",
+   "title": "Pravilnik o načinu obavljanja poslova Hrvatskog zrakoplovnog saveza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/49/1188",
+   "versions": [
+    {
+     "from": "2006-05-11",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_49_1188.html",
+     "sha256": "62e3eaed5423d208694ddda2dce26c9c7adbeeed918f5614c00e2262a76cedba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-119",
+   "path": "pravilnik/2006/119",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o proračunskom nadzoru",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o proračunskom nadzoru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/6/119",
+   "versions": [
+    {
+     "from": "2006-01-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_6_119.html",
+     "sha256": "10d2c840e5d8e7c9923aff8bad00264148e00cd271444e1d935f39feb85c77d8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-121",
+   "path": "pravilnik/2006/121",
+   "short": "Pravilnik o obavljanju gospodarskog ribolova na moru",
+   "title": "Pravilnik o obavljanju gospodarskog ribolova na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/6/121",
+   "versions": [
+    {
+     "from": "2006-01-13",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_6_121.html",
+     "sha256": "ea6167a0f40bd4c678af2f9fdc8117457f089992f0759dde2e0c8e5a6b188b5f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1227",
+   "path": "pravilnik/2006/1227",
+   "short": "Pravilnik o dobroj laboratorijskoj praksi",
+   "title": "Pravilnik o dobroj laboratorijskoj praksi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/51/1227",
+   "versions": [
+    {
+     "from": "2006-05-16",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_51_1227.html",
+     "sha256": "d071c5330c16bee8fc856e414ba5e313a052b2ba08a1cf5e230aa7e90bac3022"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1228",
+   "path": "pravilnik/2006/1228",
+   "short": "Pravilnik o načinu rada koordinatora u postupcima uzimanja i presađivanja dijelova tijela u svrhu liječenja",
+   "title": "Pravilnik o načinu rada koordinatora u postupcima uzimanja i presađivanja dijelova tijela u svrhu liječenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/51/1228",
+   "versions": [
+    {
+     "from": "2006-05-16",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_51_1228.html",
+     "sha256": "9421fbedc353d98cfa845b6334dade2f3ef93786af731508ddbf960921a25c2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1257",
+   "path": "pravilnik/2006/1257",
+   "short": "Pravilnik o izmjeni Pravilnika o postupku podjele državnih nagrada za znanost",
+   "title": "Pravilnik o izmjeni Pravilnika o postupku podjele državnih nagrada za znanost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/52/1257",
+   "versions": [
+    {
+     "from": "2006-05-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_52_1257.html",
+     "sha256": "418b91f25c90f41a7a3cfefc991129ff60702648962c5befd5e0bb8ead3e2644"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1268",
+   "path": "pravilnik/2006/1268",
+   "short": "Pravilnik o načinu prijevoza opasnih tvari u cestovnom prometu",
+   "title": "Pravilnik o načinu prijevoza opasnih tvari u cestovnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1268",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1268.html",
+     "sha256": "6b42275e4271c0681d5d6915bba8d24683599e69e228e0754bf21afd804a848c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1270",
+   "path": "pravilnik/2006/1270",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vinskom i voćnom octu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vinskom i voćnom octu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1270",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1270.html",
+     "sha256": "15f6af98fad140e50e5e5e9c21dea495a3e48a673b0ba26cf368f3eb0cd6d536"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1272",
+   "path": "pravilnik/2006/1272",
+   "short": "Pravilnik o dokumentaciji za ocjenu aktivnih tvari sredstava za zaštitu bilja",
+   "title": "Pravilnik o dokumentaciji za ocjenu aktivnih tvari sredstava za zaštitu bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1272",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1272.html",
+     "sha256": "f318daf14331082c3076b6f22de816a3f2ebdd2020186155b07946b7e20ad2e5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1274",
+   "path": "pravilnik/2006/1274",
+   "short": "Pravilnik o dopuni Pravilnika o davanju i oduzimanju suglasnosti za obavljanje stručnih poslova prostornog uređenja",
+   "title": "Pravilnik o dopuni Pravilnika o davanju i oduzimanju suglasnosti za obavljanje stručnih poslova prostornog uređenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1274",
+   "versions": [
+    {
+     "from": "2006-10-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1274.html",
+     "sha256": "d13086a9bde194df9e2228b64bfbdcacb31cbe40d2ba3af47a3c098c1e56468a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1275",
+   "path": "pravilnik/2006/1275",
+   "short": "Pravilnik o izmjenama Pravilnika o službenoj odjeći viših graničnih sanitarnih inspektora i graničnih sanitarnih inspektora ministarstva nadležnog za zdravstvo",
+   "title": "Pravilnik o izmjenama Pravilnika o službenoj odjeći viših graničnih sanitarnih inspektora i graničnih sanitarnih inspektora ministarstva nadležnog za zdravstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/53/1275",
+   "versions": [
+    {
+     "from": "2006-05-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_53_1275.html",
+     "sha256": "80271d73ba9eba4f70cb56a1a6b29c90f8e9f156944dbf07e789f5e719fa471c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1312",
+   "path": "pravilnik/2006/1312",
+   "short": "Pravilnik o prestanku važenja Pravilnika o kvaliteti octene i razblažene octene kiseline",
+   "title": "Pravilnik o prestanku važenja Pravilnika o kvaliteti octene i razblažene octene kiseline",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/54/1312",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_54_1312.html",
+     "sha256": "4ad6ab9c7b89bf594dfbf62f370841dd1b639788fb05f79804e2886b7af4fde2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1317",
+   "path": "pravilnik/2006/1317",
+   "short": "Pravilnik o izmjenama Pravilnika o posebnom stažu ostvarenom u Domovinskom ratu",
+   "title": "Pravilnik o izmjenama Pravilnika o posebnom stažu ostvarenom u Domovinskom ratu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/55/1317",
+   "versions": [
+    {
+     "from": "2006-05-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_55_1317.html",
+     "sha256": "cd93a39667c9b51bfed0c6ad5acf69547edd18231ed92529fcfe4cb1ed46cb27"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1334",
+   "path": "pravilnik/2006/1334",
+   "short": "Pravilnik o obliku, sadržaju i načinu postavljanja propisanih znakova i signalizacije na graničnim prijelazima i uz državnu granicu",
+   "title": "Pravilnik o obliku, sadržaju i načinu postavljanja propisanih znakova i signalizacije na graničnim prijelazima i uz državnu granicu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/56/1334",
+   "versions": [
+    {
+     "from": "2006-05-30",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_56_1334.html",
+     "sha256": "2d16c81ae645195cd108b0a88cf0ba1791c7550f5a04d68add7e938b1a37dc26"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1364",
+   "path": "pravilnik/2006/1364",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila otpora uzemljenja čije je načelo rada kompenzacijska metoda",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila otpora uzemljenja čije je načelo rada kompenzacijska metoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/57/1364",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_57_1364.html",
+     "sha256": "9e11bfc85e4732d5c04ab9a58d0d20050a32d13b07f5c3bde88b44efbf027ba7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1365",
+   "path": "pravilnik/2006/1365",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za visokofrekventna mjerila otpora uzemljenja te za mjerila otpora uzemljenja čije je načelo rada mjerenje napona i struje (U-I metoda)",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za visokofrekventna mjerila otpora uzemljenja te za mjerila otpora uzemljenja čije je načelo rada mjerenje napona i struje (U-I metoda)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/57/1365",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_57_1365.html",
+     "sha256": "30154215ad88d5da26f6589719e366b829b68fb76fcb3666a7252bea17d9145c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1431",
+   "path": "pravilnik/2006/1431",
+   "short": "Pravilnik o sigurnosti i zaštiti službenih podataka Ministarstva unutarnjih poslova",
+   "title": "Pravilnik o sigurnosti i zaštiti službenih podataka Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/59/1431",
+   "versions": [
+    {
+     "from": "2006-05-29",
+     "units": 67,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_59_1431.html",
+     "sha256": "6da0d3acc1531f2c50df7b083d728b668e7ff76f108d755314fa244be95d7a2a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1432",
+   "path": "pravilnik/2006/1432",
+   "short": "Pravilnik o dokumentaciji za ocjenu i registraciju sredstava za zaštitu bilja",
+   "title": "Pravilnik o dokumentaciji za ocjenu i registraciju sredstava za zaštitu bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/59/1432",
+   "versions": [
+    {
+     "from": "2006-06-06",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_59_1432.html",
+     "sha256": "19014449a65ec8c0dfe3f7380e388ab07fb7c7f4279c014577d1c5ce5cd7ba6b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1473",
+   "path": "pravilnik/2006/1473",
+   "short": "Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje uređaja s valjcima za mjerenje kočne sile po obodu kotača kod vozila na motorni pogon i priključnih vozila",
+   "title": "Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje uređaja s valjcima za mjerenje kočne sile po obodu kotača kod vozila na motorni pogon i priključnih vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/61/1473",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_61_1473.html",
+     "sha256": "35d2c5070c47379b13a57e64a51904dcc0cdf3316d03277b1c0675cc8db21efd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1474",
+   "path": "pravilnik/2006/1474",
+   "short": "Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje analizatora plinova",
+   "title": "Pravilnik o uvjetima ovlašćivanja pravnih osoba za ovjeravanje analizatora plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/61/1474",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_05_61_1474.html",
+     "sha256": "e5fb78ca4d56ff0ce870e82f758030eb5291ef6394e3503255f489c55d112eb1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1500",
+   "path": "pravilnik/2006/1500",
+   "short": "Pravilnik o pasminama, broju i načinu korištenja lovačkih pasa za lov",
+   "title": "Pravilnik o pasminama, broju i načinu korištenja lovačkih pasa za lov",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/62/1500",
+   "versions": [
+    {
+     "from": "2006-06-10",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_62_1500.html",
+     "sha256": "aa6b27f11784456c1e277a93b72ebd17ffb421ecf87a433bd4f37a07f55bb260"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1502",
+   "path": "pravilnik/2006/1502",
+   "short": "Pravilnik o načinu lova s pticama grabljivicama",
+   "title": "Pravilnik o načinu lova s pticama grabljivicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/62/1502",
+   "versions": [
+    {
+     "from": "2006-06-10",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_62_1502.html",
+     "sha256": "3efde264db1c01c6984aacf6660cc2a69dd24e2190b73b9fbfcf0339313c039c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1503",
+   "path": "pravilnik/2006/1503",
+   "short": "Pravilnik o sustavu nadzora i praćenja ribarskih plovila",
+   "title": "Pravilnik o sustavu nadzora i praćenja ribarskih plovila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/62/1503",
+   "versions": [
+    {
+     "from": "2006-06-10",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_62_1503.html",
+     "sha256": "5da69e6c23a61942dd92f0075fdfc91fec69facf3422db76e948b3c2ea8fb89b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1516",
+   "path": "pravilnik/2006/1516",
+   "short": "Pravilnik o uljima od ploda i komine maslina",
+   "title": "Pravilnik o uljima od ploda i komine maslina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/63/1516",
+   "versions": [
+    {
+     "from": "2006-06-13",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_63_1516.html",
+     "sha256": "b378c02287a75adcdb1285c7356959b760b2d68e6e51a13ce9702d94394e7410"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1552",
+   "path": "pravilnik/2006/1552",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu korištenja sredstava za kreditiranje razvitka i obnove poljoprivrede",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu korištenja sredstava za kreditiranje razvitka i obnove poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/64/1552",
+   "versions": [
+    {
+     "from": "2006-06-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_64_1552.html",
+     "sha256": "8cf39923d1721a4ec3dfe949e1fb6be78e9d02a8f074470c06b9f55349f2e51d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-156",
+   "path": "pravilnik/2006/156",
+   "short": "Pravilnik o vrstama stanišnih tipova, karti staništa, ugroženim i rijetkim stanišnim tipovima te o mjerama za očuvanje stanišnih tipova",
+   "title": "Pravilnik o vrstama stanišnih tipova, karti staništa, ugroženim i rijetkim stanišnim tipovima te o mjerama za očuvanje stanišnih tipova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/7/156",
+   "versions": [
+    {
+     "from": "2006-01-24",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_7_156.html",
+     "sha256": "222b95e2b1bdbe97e6c4c21b244d111f953438d3e52843f19b7a1838a24c53d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-157",
+   "path": "pravilnik/2006/157",
+   "short": "Pravilnik o proglašavanju divljih svojti zaštićenim i strogo zaštićenim",
+   "title": "Pravilnik o proglašavanju divljih svojti zaštićenim i strogo zaštićenim",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/7/157",
+   "versions": [
+    {
+     "from": "2006-01-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_7_157.html",
+     "sha256": "9fc81455831ed6a8d3d775816a2d7fcbcfe67a5d524cf0b3e3edf03f0e6b72ea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1574",
+   "path": "pravilnik/2006/1574",
+   "short": "Pravilnik o uvjetima i načinu izdavanja Svjedodžbe o sposobnosti (Air Operator Certificate - AOC)",
+   "title": "Pravilnik o uvjetima i načinu izdavanja Svjedodžbe o sposobnosti (Air Operator Certificate - AOC)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/65/1574",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_65_1574.html",
+     "sha256": "76eeb79ebd94f1704e773ea4908a9418034be6d30c17d47f83dcebfda438ea43"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1581",
+   "path": "pravilnik/2006/1581",
+   "short": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu uporabe ovjesne jedrilice i parajedrilice",
+   "title": "Pravilnik o izmjenama Pravilnika o uvjetima i načinu uporabe ovjesne jedrilice i parajedrilice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/66/1581",
+   "versions": [
+    {
+     "from": "2006-06-20",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_66_1581.html",
+     "sha256": "9f6a65c6745c25de49dc6ea84faa3d489283db85506822d8c808c469ccb2b780"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1588",
+   "path": "pravilnik/2006/1588",
+   "short": "Pravilnik o sudu časti pri Hrvatskoj gospodarskoj komori",
+   "title": "Pravilnik o sudu časti pri Hrvatskoj gospodarskoj komori",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/66/1588",
+   "versions": [
+    {
+     "from": "2006-06-20",
+     "units": 77,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_66_1588.html",
+     "sha256": "612b53426b9f9c21293740a43047ab1eed7e764a1b162f66e81a80cd0a338430"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1594",
+   "path": "pravilnik/2006/1594",
+   "short": "Pravilnik o hrvatskim audiovizualnim djelima",
+   "title": "Pravilnik o hrvatskim audiovizualnim djelima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/66/1594",
+   "versions": [
+    {
+     "from": "2006-06-20",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_66_1594.html",
+     "sha256": "dee4c687474398780f03ed1672cb647b3e64e6612e972a339aa1455d3874aeae"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1606",
+   "path": "pravilnik/2006/1606",
+   "short": "Pravilnik o načinu lova u graničnom pojasu",
+   "title": "Pravilnik o načinu lova u graničnom pojasu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/67/1606",
+   "versions": [
+    {
+     "from": "2006-06-22",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_67_1606.html",
+     "sha256": "b481a5a58e5037c549a91ea622a2c7c11ea1791aa29a8db42d6cd8f376841521"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1607",
+   "path": "pravilnik/2006/1607",
+   "short": "Pravilnik o sadržaju i načinu vođenja središnje lovne evidencije",
+   "title": "Pravilnik o sadržaju i načinu vođenja središnje lovne evidencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/67/1607",
+   "versions": [
+    {
+     "from": "2006-06-22",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_67_1607.html",
+     "sha256": "88f7bfa5a3574ae7f4fc557e0e7570222658c9f89aaff96ab7c9d4679ebdc376"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1636",
+   "path": "pravilnik/2006/1636",
+   "short": "Pravilnik o načinu uporabe lovačkog oružja i naboja",
+   "title": "Pravilnik o načinu uporabe lovačkog oružja i naboja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/68/1636",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_68_1636.html",
+     "sha256": "560d3b98ed45b150f45b7c8f3041fcf2afc0443c91eb229157a4702b0501019a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1657",
+   "path": "pravilnik/2006/1657",
+   "short": "Pravilnik o veterinarsko-zdravstvenim uvjetima za stavljanje u promet",
+   "title": "Pravilnik o veterinarsko-zdravstvenim uvjetima za stavljanje u promet",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1657",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1657.html",
+     "sha256": "7b7bc11b7b6a170540f3a6f9cd2853e0b94b1c96d327eb6d8495e56845cf8548"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1660",
+   "path": "pravilnik/2006/1660",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o kriterijima, postupku, načinu utvrđivanja i osiguranja križanja željezničke pruge i ceste",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o kriterijima, postupku, načinu utvrđivanja i osiguranja križanja željezničke pruge i ceste",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/69/1660",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_69_1660.html",
+     "sha256": "5800ef1cb2fd0ee0e37aa0ada9bc9649639b0ba2e44c01afc8dd86221d4a47e6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1690",
+   "path": "pravilnik/2006/1690",
+   "short": "Pravilnik o vrednovanju imovine Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Pravilnik o vrednovanju imovine Fonda hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/70/1690",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_70_1690.html",
+     "sha256": "008678ac47d6c0489f5f96cfbd2e59d6de4d6657d609eeb7ec95575eeb5f370f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1718",
+   "path": "pravilnik/2006/1718",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o minimalno tehničko-tehnološkim uvjetima za proizvodnju vina i voćnih vina te prodaju vina, drugih proizvoda od grožđa i vina kao i voćnih vina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/71/1718",
+   "versions": [
+    {
+     "from": "2006-07-06",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_06_71_1718.html",
+     "sha256": "aa3eece114ca6b122a73d0ae84c1abb22c0669075e83d0e22bf4acc9eca7eaa3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1738",
+   "path": "pravilnik/2006/1738",
+   "short": "Pravilnik o voćnim vinima",
+   "title": "Pravilnik o voćnim vinima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/73/1738",
+   "versions": [
+    {
+     "from": "2006-07-11",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_73_1738.html",
+     "sha256": "0e74b2fb88f6725e07042955d668353b301fce4a3d8a806f6cf0615a3e6fe1e3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1739",
+   "path": "pravilnik/2006/1739",
+   "short": "Pravilnik o razmjeni informacija o zadržavanju pošiljaka bilja, biljnih proizvoda i drugih nadziranih predmeta ili štetnih organizama u izoliranom stanju, koji se unose iz trećih zemalja",
+   "title": "Pravilnik o razmjeni informacija o zadržavanju pošiljaka bilja, biljnih proizvoda i drugih nadziranih predmeta ili štetnih organizama u izoliranom stanju, koji se unose iz trećih zemalja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/73/1739",
+   "versions": [
+    {
+     "from": "2006-07-11",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_73_1739.html",
+     "sha256": "3e2b4f30d41b0e4a86e0363efb7ce0f0b4f8d6eaae5847530f44b5d3dfcdb09a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1741",
+   "path": "pravilnik/2006/1741",
+   "short": "Pravilnik o sudjelovanju pripadnika operativnih snaga zaštite i spašavanja u aktivnostima snaga za žurnu pomoć u katastrofama u inozemstvu",
+   "title": "Pravilnik o sudjelovanju pripadnika operativnih snaga zaštite i spašavanja u aktivnostima snaga za žurnu pomoć u katastrofama u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/73/1741",
+   "versions": [
+    {
+     "from": "2006-07-11",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_73_1741.html",
+     "sha256": "d1eb9ee485d12da5f78b6316c2514acfaff4ee4ead7f6172616a5358f7462f41"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1768",
+   "path": "pravilnik/2006/1768",
+   "short": "Pravilnik o obavljanju nuklearne djelatnosti",
+   "title": "Pravilnik o obavljanju nuklearne djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/74/1768",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_74_1768.html",
+     "sha256": "75d5c8b358a8a9159df79c8b74fca6e39214fda27332ba103bc33262396a1515"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1769",
+   "path": "pravilnik/2006/1769",
+   "short": "Pravilnik o posebnim uvjetima koje moraju ispunjavati stručne organizacije za obavljanje određenih poslova iz područja nuklearne sigurnosti",
+   "title": "Pravilnik o posebnim uvjetima koje moraju ispunjavati stručne organizacije za obavljanje određenih poslova iz područja nuklearne sigurnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/74/1769",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_74_1769.html",
+     "sha256": "0050b3035e4ceded5fcf8e1a4f824023b090efb15bf82d6d8c5412d2eef5caec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1778",
+   "path": "pravilnik/2006/1778",
+   "short": "Pravilnik o visini naknada za obvezne veterinarsko--zdravstvene preglede i kontrole",
+   "title": "Pravilnik o visini naknada za obvezne veterinarsko--zdravstvene preglede i kontrole",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/75/1778",
+   "versions": [
+    {
+     "from": "2006-07-15",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_75_1778.html",
+     "sha256": "82b6476b0ddb57c70c28bbb7c6a55831b17fa0ae96308e42b3c15ee940c29a32"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-179",
+   "path": "pravilnik/2006/179",
+   "short": "Pravilnik o sudjelovanju pripadnika oružanih snaga Republike Hrvatske i državnih službenika i namještenika Ministarstva obrane u mirovnim operacijama i drugim aktivnostima u inozemstvu",
+   "title": "Pravilnik o sudjelovanju pripadnika oružanih snaga Republike Hrvatske i državnih službenika i namještenika Ministarstva obrane u mirovnim operacijama i drugim aktivnostima u inozemstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/179",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_179.html",
+     "sha256": "aad0addee712fc14f12fef4656774b5a9962ba6971e1e22acc18fd6c7939afb4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1793",
+   "path": "pravilnik/2006/1793",
+   "short": "Pravilnik o voćnim džemovima, želeima, marmeladama, pekmezu te zaslađenom kesten pireu",
+   "title": "Pravilnik o voćnim džemovima, želeima, marmeladama, pekmezu te zaslađenom kesten pireu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1793",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_76_1793.html",
+     "sha256": "6508e0c6a18c3d88926b84fa7a7b965fd7346f095945eb03b529d76659e55ebe"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1794",
+   "path": "pravilnik/2006/1794",
+   "short": "Pravilnik o dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "title": "Pravilnik o dopunama Pravilnika o Nacionalnoj listi priznatih kultivara vinove loze",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1794",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_76_1794.html",
+     "sha256": "990238de7fa917d3231b3707e5781ffbeb6578f6324cdf4bcbdb3724dfb91423"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-180",
+   "path": "pravilnik/2006/180",
+   "short": "Pravilnik o hidrantskoj mreži za gašenje požara",
+   "title": "Pravilnik o hidrantskoj mreži za gašenje požara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/180",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_180.html",
+     "sha256": "19922279fc664f0d703cc9ff1d1ced499a6e6615153b585d0961542579d73093"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-181",
+   "path": "pravilnik/2006/181",
+   "short": "Pravilnik o dopunama Pravilnika o registraciji vozila",
+   "title": "Pravilnik o dopunama Pravilnika o registraciji vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/181",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_181.html",
+     "sha256": "af79e7d8745b94558d670add9abd81648556d5fecbcc98e5037a7d04c7d253a8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1813",
+   "path": "pravilnik/2006/1813",
+   "short": "Pravilnik o detaljnom obliku i najmanjem opsegu te sadržaju revizorskog pregleda i revizorskog izvješća društava za osiguranje",
+   "title": "Pravilnik o detaljnom obliku i najmanjem opsegu te sadržaju revizorskog pregleda i revizorskog izvješća društava za osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1813",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_76_1813.html",
+     "sha256": "42099c00e826b4e1764baeb26d61fb052253fbc35907112ffd83721293dcde9c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1815",
+   "path": "pravilnik/2006/1815",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje ovlaštenja za obavljanje poslova zastupanja, odnosno posredovanja u osiguranju",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje ovlaštenja za obavljanje poslova zastupanja, odnosno posredovanja u osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/76/1815",
+   "versions": [
+    {
+     "from": "2006-07-18",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_76_1815.html",
+     "sha256": "827aba20b1f3ac244caf8b352ab385876f48b0d9f8a339fcded9c85d9268c1b3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-183",
+   "path": "pravilnik/2006/183",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o priznavanju sorti poljoprivrednog bilja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o priznavanju sorti poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/183",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_183.html",
+     "sha256": "474c2414d6912fc9b534a6f7d604a799262b0cc5c80ff1b5b7f96d7c989f6c06"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-184",
+   "path": "pravilnik/2006/184",
+   "short": "Pravilnik o dopuni Pravilnika o uvjetima kojima moraju udovoljavati pravne osobe koje obavljaju promet sredstvima za zaštitu bilja na veliko i malo, te o načinu i postupku osposobljavanja zaposlenika koji čuvaju i izdaju sredstva za zaštitu bilja",
+   "title": "Pravilnik o dopuni Pravilnika o uvjetima kojima moraju udovoljavati pravne osobe koje obavljaju promet sredstvima za zaštitu bilja na veliko i malo, te o načinu i postupku osposobljavanja zaposlenika koji čuvaju i izdaju sredstva za zaštitu bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/8/184",
+   "versions": [
+    {
+     "from": "2006-01-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_8_184.html",
+     "sha256": "519b3529c590f2d229aa08c4cccf58696833ae3fa86261550a5cbfb9dc2b47c8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1857",
+   "path": "pravilnik/2006/1857",
+   "short": "Pravilnik o uvjetima korištenja i o naknadi za korištenje podataka preko elektroničkih medija sadržanih u upisnicima i drugim evidencijama Službe upisa",
+   "title": "Pravilnik o uvjetima korištenja i o naknadi za korištenje podataka preko elektroničkih medija sadržanih u upisnicima i drugim evidencijama Službe upisa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/77/1857",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_77_1857.html",
+     "sha256": "5d78a6bd4be1092f15a6c1fb82d5c7d6ad0df0f8f3cd406730598a790a9cc2ba"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1858",
+   "path": "pravilnik/2006/1858",
+   "short": "Pravilnik o standardima i tehnikama zaštite računarskog sustava i podataka koji se vode u Službi upisa",
+   "title": "Pravilnik o standardima i tehnikama zaštite računarskog sustava i podataka koji se vode u Službi upisa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/77/1858",
+   "versions": [
+    {
+     "from": "2006-07-12",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_77_1858.html",
+     "sha256": "18be78852339d73e2d450321561ae2a67ca4983f12604d5116c83a7a37f1b05c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1860",
+   "path": "pravilnik/2006/1860",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i mjestu provođenja psihosocijalnog tretmana",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu i mjestu provođenja psihosocijalnog tretmana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/78/1860",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_78_1860.html",
+     "sha256": "6e9aab5c6b5722bb66cfe0876bb499dacfac0384d3523cca6b9c7777845503a1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1862",
+   "path": "pravilnik/2006/1862",
+   "short": "Pravilnik o sadržaju posebnog izvještaja o ocjeni rada i učinkovitosti državnih službenika",
+   "title": "Pravilnik o sadržaju posebnog izvještaja o ocjeni rada i učinkovitosti državnih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/78/1862",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_78_1862.html",
+     "sha256": "1b88176ed9048dd9dd594a582c2eb409d766dced46d62c9c9a416ab6cd7c91c6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1872",
+   "path": "pravilnik/2006/1872",
+   "short": "Pravilnik o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje",
+   "title": "Pravilnik o načinu izračuna kapitala, jamstvenog kapitala i adekvatnosti kapitala društava za osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/78/1872",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_78_1872.html",
+     "sha256": "4cda178e0fa3a89d1e02f26868c4920ca2075af9eee84f94d09d2c0c9c4fd38b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1873",
+   "path": "pravilnik/2006/1873",
+   "short": "Pravilnik o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravila za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovo vrednovanje, usklađenost, pravila za upotrebu izvedenih financijskih instrumenata te način i rok izvještavanja",
+   "title": "Pravilnik o vrstama i obilježjima imovine za pokriće tehničkih pričuva, pravila za disperziju i ograničenje ulaganja imovine za pokriće tehničkih pričuva, njihovo vrednovanje, usklađenost, pravila za upotrebu izvedenih financijskih instrumenata te način i rok izvještavanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/78/1873",
+   "versions": [
+    {
+     "from": "2006-07-22",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_78_1873.html",
+     "sha256": "bb7cdd91434a63ec47d9122d9226668b4270c4c6ee3f63d9a3ed1c6875112bd0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1933",
+   "path": "pravilnik/2006/1933",
+   "short": "Pravilnik o izdavanju dozvole ili suglasnosti za obavljanje djelatnosti praćenja kakvoće zraka i praćenja emisija u zrak iz stacionarnih izvora",
+   "title": "Pravilnik o izdavanju dozvole ili suglasnosti za obavljanje djelatnosti praćenja kakvoće zraka i praćenja emisija u zrak iz stacionarnih izvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1933",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_79_1933.html",
+     "sha256": "95afe9b0f72c39f3116d36910e34b8caff052e47a16e59d20c99b9f05e8dbbbb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1948",
+   "path": "pravilnik/2006/1948",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vrstama pohvala i nagrada, uvjetima i postupku njihove dodjele",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1948",
+   "versions": [
+    {
+     "from": "2006-07-19",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1948.html",
+     "sha256": "9d73c75dce5e34e4559972df71ebbd30bbad458d15b7b77c8b46b1d0a0018515"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1949",
+   "path": "pravilnik/2006/1949",
+   "short": "Pravilnik o izmjenama Pravilnika o načinu vođenja očevidnika i dokumentacije u svezi s poslovima centra za socijalnu skrb u području primjene Obiteljskog zakona o roditeljima i djeci",
+   "title": "Pravilnik o izmjenama Pravilnika o načinu vođenja očevidnika i dokumentacije u svezi s poslovima centra za socijalnu skrb u području primjene Obiteljskog zakona o roditeljima i djeci",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1949",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1949.html",
+     "sha256": "41c9704a0badd195de4fb6f3dbefc395a9d439ed25219b72d0c2204d2a3028cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1950",
+   "path": "pravilnik/2006/1950",
+   "short": "Pravilnik o dopunama Pravilnika o uvjetima za davanje dozvole specijaliziranim prodavaonicama za promet na malo lijekovima i medicinskim proizvodima",
+   "title": "Pravilnik o dopunama Pravilnika o uvjetima za davanje dozvole specijaliziranim prodavaonicama za promet na malo lijekovima i medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1950",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1950.html",
+     "sha256": "7b83590e839f8610cf9d68f5c8fda0c8d7544c2f38018575c19e1adb4e222a3e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1951",
+   "path": "pravilnik/2006/1951",
+   "short": "Pravilnik o dopunama Pravilnika o dobroj praksi i uvjetima za davanje dozvole za promet medicinskim proizvodima",
+   "title": "Pravilnik o dopunama Pravilnika o dobroj praksi i uvjetima za davanje dozvole za promet medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/81/1951",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_81_1951.html",
+     "sha256": "2ae3566e730f9419550453df7a1996a66d9f3d1da6b42bca7528ad6386b5a1c4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1976",
+   "path": "pravilnik/2006/1976",
+   "short": "Pravilnik o izmjenama Pravilnika o provedbi SAPARD programa",
+   "title": "Pravilnik o izmjenama Pravilnika o provedbi SAPARD programa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/82/1976",
+   "versions": [
+    {
+     "from": "2006-07-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_82_1976.html",
+     "sha256": "e742a0f946587362115c656085f98fc58b82efec83e48295204945084a17c1d4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1977",
+   "path": "pravilnik/2006/1977",
+   "short": "Pravilnik o izmjeni Pravilnika o lovostaji",
+   "title": "Pravilnik o izmjeni Pravilnika o lovostaji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/82/1977",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_82_1977.html",
+     "sha256": "4043760e616f37f9c8991fa8553da0f6257adbd314fab4d971056e208e6f4c9a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-1979",
+   "path": "pravilnik/2006/1979",
+   "short": "Pravilnik o dopuni Pravilnika o načinu i mjerilima za povezivanje u sustav muzeja Republike Hrvatske",
+   "title": "Pravilnik o dopuni Pravilnika o načinu i mjerilima za povezivanje u sustav muzeja Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/82/1979",
+   "versions": [
+    {
+     "from": "2006-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_82_1979.html",
+     "sha256": "e0d18522a5c389dc0a2be3b31d6d44a4443a7dc543a1595bd411ddb79b7ae8c4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2",
+   "path": "pravilnik/2006/2",
+   "short": "Pravilnik o izmjeni Pravilnika o športskom ribolovu u slatkovodnom ribarstvu",
+   "title": "Pravilnik o izmjeni Pravilnika o športskom ribolovu u slatkovodnom ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/1/2",
+   "versions": [
+    {
+     "from": "2006-01-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_1_2.html",
+     "sha256": "5ede314543c473bb5fe03e54cd140f247d2e6e749faa0dba886af56e39edcdc8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2040",
+   "path": "pravilnik/2006/2040",
+   "short": "Pravilnik o dopuni i izmjeni Pravilnika o procjeni utjecaja na okoliš",
+   "title": "Pravilnik o dopuni i izmjeni Pravilnika o procjeni utjecaja na okoliš",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/85/2040",
+   "versions": [
+    {
+     "from": "2006-08-03",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_85_2040.html",
+     "sha256": "e2c9fc91130948ff6ee19abff77a5d21cb927c6b4dd6c82b36710f1213708a82"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2049",
+   "path": "pravilnik/2006/2049",
+   "short": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje fokometara",
+   "title": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje fokometara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2049",
+   "versions": [
+    {
+     "from": "2006-08-05",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_86_2049.html",
+     "sha256": "4f597fc8fe96bf75ceeee23a33f712269ae9f8950ef97127548bf42e05247f13"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2050",
+   "path": "pravilnik/2006/2050",
+   "short": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje medicinskih injekcijskih štrcaljki",
+   "title": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje medicinskih injekcijskih štrcaljki",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2050",
+   "versions": [
+    {
+     "from": "2006-08-05",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_86_2050.html",
+     "sha256": "2de72867c2edbdbb055d21ae3f946df2e0b6f452da3fd22cf9c5e09a277b5507"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2051",
+   "path": "pravilnik/2006/2051",
+   "short": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje laboratorijskih mjerila obujma",
+   "title": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje laboratorijskih mjerila obujma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2051",
+   "versions": [
+    {
+     "from": "2006-08-05",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_86_2051.html",
+     "sha256": "ce46bdc82582a01db790625ed39544516b97ce2437b04530e8dc2b25e4dd0715"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2052",
+   "path": "pravilnik/2006/2052",
+   "short": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje medicinskih (humanih) termometara",
+   "title": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje medicinskih (humanih) termometara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2052",
+   "versions": [
+    {
+     "from": "2006-08-05",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_86_2052.html",
+     "sha256": "8bd2ce2b2a82d4d30266b5c7db3fca5a84425aaa48c340df391b196096f059f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2053",
+   "path": "pravilnik/2006/2053",
+   "short": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje mjerila toplinske energije",
+   "title": "Pravilnik o uvjetima za davanje ovlaštenja pravnim osobama za ovjeravanje mjerila toplinske energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/86/2053",
+   "versions": [
+    {
+     "from": "2006-08-05",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_07_86_2053.html",
+     "sha256": "978174a5ee80d2018b49b5ae687fbf9af68516b9dc4edfd7da6fa86223c9174d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-207",
+   "path": "pravilnik/2006/207",
+   "short": "Pravilnik o razvrstavanju i otvaranju plovnih putova na unutarnjim vodama",
+   "title": "Pravilnik o razvrstavanju i otvaranju plovnih putova na unutarnjim vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/9/207",
+   "versions": [
+    {
+     "from": "2006-01-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_9_207.html",
+     "sha256": "767f0e461d9a723546d7da27f9ec8814f2be8d091e66e4695b258b56c5af8b31"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2101",
+   "path": "pravilnik/2006/2101",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/88/2101",
+   "versions": [
+    {
+     "from": "2006-08-10",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_88_2101.html",
+     "sha256": "72b7aa848d6925a2f2cd50935d1a7f03c632cfcca7b0fda7a1958035f56a1d34"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2158",
+   "path": "pravilnik/2006/2158",
+   "short": "Pravilnik o ovlaštenim ispitnim laboratorijima za kontrolu kakvoće hrane",
+   "title": "Pravilnik o ovlaštenim ispitnim laboratorijima za kontrolu kakvoće hrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/92/2158",
+   "versions": [
+    {
+     "from": "2006-08-25",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_92_2158.html",
+     "sha256": "a475efdc46ce0a98df87c5aa2382f96ee1c502a268280dcad411cc442cbae67d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2167",
+   "path": "pravilnik/2006/2167",
+   "short": "Pravilnik o uvjetima glede prostora, opreme i potrebnih stručnih i drugih radnika obiteljskog centra i podružnice obiteljskog centra te uvjetima i načinu pružanja usluga",
+   "title": "Pravilnik o uvjetima glede prostora, opreme i potrebnih stručnih i drugih radnika obiteljskog centra i podružnice obiteljskog centra te uvjetima i načinu pružanja usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/93/2167",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_93_2167.html",
+     "sha256": "3c98d09b17531dc04e3a73a2246f1161b71fed97cd645452f74db737c7695672"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2168",
+   "path": "pravilnik/2006/2168",
+   "short": "Pravilnik o sadržaju Upisnika ustanova socijalne skrbi za obiteljske centre",
+   "title": "Pravilnik o sadržaju Upisnika ustanova socijalne skrbi za obiteljske centre",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/93/2168",
+   "versions": [
+    {
+     "from": "2006-08-29",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_93_2168.html",
+     "sha256": "ee8822a57c67f0cb55477ec52c40206ccb46289ed79097d14705bd4f3e54a448"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2169",
+   "path": "pravilnik/2006/2169",
+   "short": "Pravilnik o dopuni Pravilnika o ribolovnim alatima i opremi za gospodarski ribolov na moru",
+   "title": "Pravilnik o dopuni Pravilnika o ribolovnim alatima i opremi za gospodarski ribolov na moru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/93/2169",
+   "versions": [
+    {
+     "from": "2006-08-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_93_2169.html",
+     "sha256": "6d5381a26b5f56956ea63e3aed1e3576e5722763b23ccfe3c50025682a7159b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2225",
+   "path": "pravilnik/2006/2225",
+   "short": "Pravilnik o dopuni Pravilnika o porezu na dohodak",
+   "title": "Pravilnik o dopuni Pravilnika o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2225",
+   "versions": [
+    {
+     "from": "2006-08-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2225.html",
+     "sha256": "3065172abdb8bded53490ccbb138f5acec0526c41e3f0221858e16eee48ff399"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2226",
+   "path": "pravilnik/2006/2226",
+   "short": "Pravilnik o matici, osobniku i drugim evidencijama koje se vode u kaznionicama i zatvorima",
+   "title": "Pravilnik o matici, osobniku i drugim evidencijama koje se vode u kaznionicama i zatvorima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2226",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2226.html",
+     "sha256": "15ec12a9d09349ef72cadfef526e2a44778e6fc43fb85fb682131a120351a0d1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2227",
+   "path": "pravilnik/2006/2227",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o posebnim staništima riba i drugih morskih organizama i regulaciji ribolova u Velebitskom kanalu, Novigradskom i Karinskom moru, Prokljanskom jezeru, Marinskom zaljevu i Neretvanskom kanalu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2227",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2227.html",
+     "sha256": "179ac256ea9c2ca015dd70a287aacaed209919831c7793e282080d6a10774919"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2228",
+   "path": "pravilnik/2006/2228",
+   "short": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "title": "Pravilnik o izmjeni i dopuni Pravilnika o uvjetima i načinu ostvarivanja prava na ortopedska i druga pomagala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/96/2228",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_08_96_2228.html",
+     "sha256": "938861ee4e125e6700e0065dd70a46d98c8eb1bb43e3da3bc324ba53c12e9ecd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2251",
+   "path": "pravilnik/2006/2251",
+   "short": "Pravilnik o obliku i iznosu temeljnog kapitala koja su društva za upravljanje investicijskim fondovima dužna održavati",
+   "title": "Pravilnik o obliku i iznosu temeljnog kapitala koja su društva za upravljanje investicijskim fondovima dužna održavati",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/97/2251",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_97_2251.html",
+     "sha256": "c8a18b1cd472db60b0a10dbce72c7c24faadbeeeb5c6a01f5433b9c6b82a7536"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2252",
+   "path": "pravilnik/2006/2252",
+   "short": "Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje dozvole ili licence za obavljanje poslova brokera, investicijskog savjetnika i ovlaštenog upravitelja mirovinskim fondovima",
+   "title": "Pravilnik o uvjetima za stjecanje i provjeru stručnih znanja potrebnih za dobivanje dozvole ili licence za obavljanje poslova brokera, investicijskog savjetnika i ovlaštenog upravitelja mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/97/2252",
+   "versions": [
+    {
+     "from": "2006-09-12",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_97_2252.html",
+     "sha256": "97f980004b703f7cd3cf59c5da566306425954bca81e79d775740a6d12544822"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2298",
+   "path": "pravilnik/2006/2298",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za izbor u znanstvena zvanja",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o uvjetima za izbor u znanstvena zvanja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/100/2298",
+   "versions": [
+    {
+     "from": "2006-09-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_100_2298.html",
+     "sha256": "4e29756f0d534f9a99a06f54d3b46fbec4957661c85fffd05133729adb1dda93"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2361",
+   "path": "pravilnik/2006/2361",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o načinu planiranja, programiranja, izradi i izvršenju proračuna Ministarstva obrane",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o načinu planiranja, programiranja, izradi i izvršenju proračuna Ministarstva obrane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/105/2361",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_105_2361.html",
+     "sha256": "babf8fa9db964633653fd3bfe46b3a9c6939b68d77992a12d2cce80d7d77553b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2370",
+   "path": "pravilnik/2006/2370",
+   "short": "Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2006. godinu",
+   "title": "Pravilnik o izračunu, visini i naplati naknada koje se plaćaju Hrvatskoj agenciji za nadzor financijskih usluga za 2006. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/105/2370",
+   "versions": [
+    {
+     "from": "2006-10-03",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_105_2370.html",
+     "sha256": "5f755e14c89987dacd84f8a3a6e715edfa18c2042ca13a7575805f6307931bc7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2373",
+   "path": "pravilnik/2006/2373",
+   "short": "Pravilnik o izmjeni Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "title": "Pravilnik o izmjeni Pravilnika o raspodjeli dozvola za međunarodni prijevoz tereta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/106/2373",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_09_106_2373.html",
+     "sha256": "ab740de517d948154722a9495cab5dcded400e8b380fc5c7cafbd8b66ac9dd9a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2387",
+   "path": "pravilnik/2006/2387",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o polaganju stručnog ispita za ovlaštenog carinskog zastupnika",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o polaganju stručnog ispita za ovlaštenog carinskog zastupnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/107/2387",
+   "versions": [
+    {
+     "from": "2006-10-10",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_107_2387.html",
+     "sha256": "6e599d33f8d9ea3eb0cdd30de870e8c7fc8e2e8b89e327a2b691f64a9fdb4dc9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2416",
+   "path": "pravilnik/2006/2416",
+   "short": "Pravilnik o izmjeni Pravilnika o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima, te kontroli namjenskih trošenja sredstava",
+   "title": "Pravilnik o izmjeni Pravilnika o načinu vođenja evidencije o obavljenim isplatama i dostavi izvješća o utrošenim sredstvima, te kontroli namjenskih trošenja sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/108/2416",
+   "versions": [
+    {
+     "from": "2006-10-04",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_108_2416.html",
+     "sha256": "a9461bf546960206f131367b30e22645d37d113203c8f439a7506156cc791d46"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2432",
+   "path": "pravilnik/2006/2432",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o provedbi programa razvitka seoskog prostora",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o provedbi programa razvitka seoskog prostora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/109/2432",
+   "versions": [
+    {
+     "from": "2006-10-06",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_109_2432.html",
+     "sha256": "cba441e7fff3a74d41e83254d224ba1d7c8bec136feae49980deb80e59529a61"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2435",
+   "path": "pravilnik/2006/2435",
+   "short": "Pravilnik o lakim povredama službene dužnosti",
+   "title": "Pravilnik o lakim povredama službene dužnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/109/2435",
+   "versions": [
+    {
+     "from": "2006-10-14",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_109_2435.html",
+     "sha256": "392e3fd659ae9900bb01a44c9825269eeaa4c8163e652dfcfd2b73403ec7f92b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2441",
+   "path": "pravilnik/2006/2441",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o promidžbi investicijskih fondova s javnom ponudom",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o promidžbi investicijskih fondova s javnom ponudom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/109/2441",
+   "versions": [
+    {
+     "from": "2006-10-14",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_109_2441.html",
+     "sha256": "372f89c217c4b48a7a5e76fb1ca9504c8fafcbef4a2b05ac9d0bb9f83f02ff8e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2442",
+   "path": "pravilnik/2006/2442",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o marketingu mirovinskih fondova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o marketingu mirovinskih fondova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/109/2442",
+   "versions": [
+    {
+     "from": "2006-10-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_109_2442.html",
+     "sha256": "43b4eaffb2faeac7fb940d0d41a35034219cfdea0a9e29cc2fd89367ed4e9137"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2464",
+   "path": "pravilnik/2006/2464",
+   "short": "Pravilnik o načinu ispunjavanja Sigurnosno-tehničkog lista",
+   "title": "Pravilnik o načinu ispunjavanja Sigurnosno-tehničkog lista",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/111/2464",
+   "versions": [
+    {
+     "from": "2006-10-19",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_111_2464.html",
+     "sha256": "f534cd140db4f814b688e1e26efcebb93adabe05d462c293c946638c4c465d00"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2471",
+   "path": "pravilnik/2006/2471",
+   "short": "Pravilnik o izmjeni Pravilnika o znaku pristupačnosti",
+   "title": "Pravilnik o izmjeni Pravilnika o znaku pristupačnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/112/2471",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_112_2471.html",
+     "sha256": "bc9ca5ea35aa0ce3212e3111642a3ccc7adfb63394d93116671c0fe8408d4dec"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2474",
+   "path": "pravilnik/2006/2474",
+   "short": "Pravilnik o postupku i načinu davanja suglasnosti za obavljanje poslova dobrovoljnoga zdravstvenog osiguranja",
+   "title": "Pravilnik o postupku i načinu davanja suglasnosti za obavljanje poslova dobrovoljnoga zdravstvenog osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/112/2474",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_112_2474.html",
+     "sha256": "eb74c5592093e659243f82fefb218f0b078a794964b609aa2bb88153ec34d5d6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2475",
+   "path": "pravilnik/2006/2475",
+   "short": "Pravilnik o izmjenama i dopuni Pravilnika o načinu razvrstavanja lijekova te propisivanju i izdavanju lijekova",
+   "title": "Pravilnik o izmjenama i dopuni Pravilnika o načinu razvrstavanja lijekova te propisivanju i izdavanju lijekova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/112/2475",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_112_2475.html",
+     "sha256": "7ea8937519062207a37afe35d747942b9031d4353c3e6d6626da9837eeea1952"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2534",
+   "path": "pravilnik/2006/2534",
+   "short": "Pravilnik o zaštiti arhivskoga i registraturnog gradiva Državne uprave za zaštitu i spašavanje",
+   "title": "Pravilnik o zaštiti arhivskoga i registraturnog gradiva Državne uprave za zaštitu i spašavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/114/2534",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_114_2534.html",
+     "sha256": "5c3702fc1c60db38c8bc88e110a2e1eb0d73bf2e30182f98c68ea084801c62d7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2541",
+   "path": "pravilnik/2006/2541",
+   "short": "Pravilnik o obustavi trgovanja dionica na burzama u Republici Hrvatskoj",
+   "title": "Pravilnik o obustavi trgovanja dionica na burzama u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/114/2541",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_114_2541.html",
+     "sha256": "0b120819c297762ecd78fbdf2eec40a5916edffd000b1690c8cbf931df6c8ba0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2561",
+   "path": "pravilnik/2006/2561",
+   "short": "Pravilnik o kakvoći jaja",
+   "title": "Pravilnik o kakvoći jaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/115/2561",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_115_2561.html",
+     "sha256": "96e5bb77c7881a63da8b1189b263ffabc4a0a78f83162bee1f950c690c6cab9b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2587",
+   "path": "pravilnik/2006/2587",
+   "short": "Pravilnik o jedinstvenim načelima za ocjenjivanje i registraciju sredstava za zaštitu bilja",
+   "title": "Pravilnik o jedinstvenim načelima za ocjenjivanje i registraciju sredstava za zaštitu bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2587",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2587.html",
+     "sha256": "c2e83bc3e88f7437477e7512024dfb11e29b2ad3bf71cbb17c4994f4eecc1d08"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2589",
+   "path": "pravilnik/2006/2589",
+   "short": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu lova",
+   "title": "Pravilnik o izmjeni Pravilnika o uvjetima i načinu lova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2589",
+   "versions": [
+    {
+     "from": "2006-10-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2589.html",
+     "sha256": "0d07fecd2337e532434257f40959ceeceb5ab36134e27e66de1bb49fb5ed4c0e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2592",
+   "path": "pravilnik/2006/2592",
+   "short": "Pravilnik o izmjenama Pravilnika o obrascu R-Sm",
+   "title": "Pravilnik o izmjenama Pravilnika o obrascu R-Sm",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2592",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2592.html",
+     "sha256": "04d280773a18425f6ec0c08b64779ab749e1b261cb1f6ea2c000d0ad3f1b73a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2603",
+   "path": "pravilnik/2006/2603",
+   "short": "Pravilnik o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga",
+   "title": "Pravilnik o sadržaju redovitih izvješća i izvješća na zahtjev Hrvatske agencije za nadzor financijskih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2603",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2603.html",
+     "sha256": "252c2da06df4032a54acdad7b2bb7fd6fee2f1dc0d954744e98a76fb733bf596"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2604",
+   "path": "pravilnik/2006/2604",
+   "short": "Pravilnik o tehničkim i organizacisjkim uvjetima za obavljanje poslova zastupanja u osiguranju na stanicama za tehnički pregled vozila",
+   "title": "Pravilnik o tehničkim i organizacisjkim uvjetima za obavljanje poslova zastupanja u osiguranju na stanicama za tehnički pregled vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2604",
+   "versions": [
+    {
+     "from": "2006-11-07",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2604.html",
+     "sha256": "64404f6b3a72c15222ab49308df8dc0c0aec90f1dc1f9022f50bd70da7f63668"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2607",
+   "path": "pravilnik/2006/2607",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o dodatnim kriterijima ulaganja i investicijskim ograničenjima mirovinskih fondova",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o dodatnim kriterijima ulaganja i investicijskim ograničenjima mirovinskih fondova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/116/2607",
+   "versions": [
+    {
+     "from": "2006-10-30",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_10_116_2607.html",
+     "sha256": "7be41f749e05b9159dafe1156455680c7101efb6094808517cf963d308fee6fc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2658",
+   "path": "pravilnik/2006/2658",
+   "short": "Pravilnik o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanja smeđe truleži gomolja krumpira i bakterijskog venuća krumpira i rajčice, koju prouzrokuje bakterija Ralstonia solanacearum (Smith) Yabuuchi et al.",
+   "title": "Pravilnik o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanja smeđe truleži gomolja krumpira i bakterijskog venuća krumpira i rajčice, koju prouzrokuje bakterija Ralstonia solanacearum (Smith) Yabuuchi et al.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/119/2658",
+   "versions": [
+    {
+     "from": "2006-11-14",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_119_2658.html",
+     "sha256": "d558de727bb2cb0f999fc5c52e1912e080731a8480c6659b3c1a01df92747265"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2659",
+   "path": "pravilnik/2006/2659",
+   "short": "Pravilnik o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanje prstenaste truleži gomolja krumpira, koju prouzrokuje bakterija Clavibacter michiganensis (Smith) Davi set al. ssp. Sepedonicus (Spieckermann et Kotthoff) Davi set al.",
+   "title": "Pravilnik o provođenju sustavnog istraživanja i mjera za sprječavanje širenja i suzbijanje prstenaste truleži gomolja krumpira, koju prouzrokuje bakterija Clavibacter michiganensis (Smith) Davi set al. ssp. Sepedonicus (Spieckermann et Kotthoff) Davi set al.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/119/2659",
+   "versions": [
+    {
+     "from": "2006-11-14",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_119_2659.html",
+     "sha256": "7449a954aaec7f24ddda30ba0f8e699eeb608d50fdf527353535a113f488e470"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2665",
+   "path": "pravilnik/2006/2665",
+   "short": "Pravilnik o izmjenama i dopunama Pravilnika o vrednovanju imovine i obveza mirovinskog fonda",
+   "title": "Pravilnik o izmjenama i dopunama Pravilnika o vrednovanju imovine i obveza mirovinskog fonda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/119/2665",
+   "versions": [
+    {
+     "from": "2006-11-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_119_2665.html",
+     "sha256": "8b8a89fbdddea2db46a787d9ba450c8cab74f2158ce684e43942ad4dc63e1beb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2708",
+   "path": "pravilnik/2006/2708",
+   "short": "Pravilnik o uvjetima i mjerilima za ostvarivanje prava na stipendiju i prava na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima",
+   "title": "Pravilnik o uvjetima i mjerilima za ostvarivanje prava na stipendiju i prava na naknadu dijela troškova školarine poslijediplomskih studija na visokim učilištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/123/2708",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_123_2708.html",
+     "sha256": "ec0dca011062d989042ffe5e80595a69c7792b12f6db0547076a14754f6ed4c3"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-276",
+   "path": "pravilnik/2006/276",
+   "short": "Pravilnik o izmjeni Pravilnika o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 0,2 S i 0,5 S",
+   "title": "Pravilnik o izmjeni Pravilnika o mjeriteljskim i tehničkim zahtjevima za statička brojila djelatne električne energije razreda točnosti 0,2 S i 0,5 S",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/11/276",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_11_276.html",
+     "sha256": "5d6f81940b89829c6d1ed9ced59fb788980ff1aeac2e383564e1b2022ac9dabf"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2760",
+   "path": "pravilnik/2006/2760",
+   "short": "Pravilnik o kakvoći rajčice",
+   "title": "Pravilnik o kakvoći rajčice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/124/2760",
+   "versions": [
+    {
+     "from": "2006-11-23",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_124_2760.html",
+     "sha256": "95c718f1318ff503ca656953796f518c3e14cea44172602b04339262654ef31b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2762",
+   "path": "pravilnik/2006/2762",
+   "short": "Pravilnik o gospodarenju otpadnim uljima",
+   "title": "Pravilnik o gospodarenju otpadnim uljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/124/2762",
+   "versions": [
+    {
+     "from": "2006-11-23",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_124_2762.html",
+     "sha256": "2488b1514a8ff5393fd614c1d4e540ab3a8e89f5d1ec121ce2b301782807c3d1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2769",
+   "path": "pravilnik/2006/2769",
+   "short": "Pravilnik o uvjetima i mjerama zaštite od ionizirajućeg zračenja za obavljanje djelatnosti s rendgenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuće zračenje",
+   "title": "Pravilnik o uvjetima i mjerama zaštite od ionizirajućeg zračenja za obavljanje djelatnosti s rendgenskim uređajima, akceleratorima i drugim uređajima koji proizvode ionizirajuće zračenje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/125/2769",
+   "versions": [
+    {
+     "from": "2006-11-25",
+     "units": 90,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_125_2769.html",
+     "sha256": "dc3152c60fb074714e1bc8b03554e69d17884933b348745fa6d7f8ea7dbe551b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2770",
+   "path": "pravilnik/2006/2770",
+   "short": "Pravilnik o uvjetima za primjenu izvora ionizirajućeg zračenja u medicini i stomatologiji",
+   "title": "Pravilnik o uvjetima za primjenu izvora ionizirajućeg zračenja u medicini i stomatologiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/125/2770",
+   "versions": [
+    {
+     "from": "2006-11-25",
+     "units": 52,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_125_2770.html",
+     "sha256": "f16f4688d7ecfa503f366ae2b9bbb2a69e541bd94c179ab733598c27da19b834"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-279",
+   "path": "pravilnik/2006/279",
+   "short": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila vremena za periodično registriranje srednje vrijednosti vršne električne snage",
+   "title": "Pravilnik o mjeriteljskim i tehničkim zahtjevima za mjerila vremena za periodično registriranje srednje vrijednosti vršne električne snage",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/11/279",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_11_279.html",
+     "sha256": "4883f55b0cb98070b8c9b951f6a1b908c34579682d6be829b3a06adbd7c67d75"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-281",
+   "path": "pravilnik/2006/281",
+   "short": "Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu taksimetara za ovjeravanje",
+   "title": "Pravilnik o tehničkim i mjeriteljskim zahtjevima za ovlašćivanje servisa za pripremu taksimetara za ovjeravanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/11/281",
+   "versions": [
+    {
+     "from": "2006-02-07",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_01_11_281.html",
+     "sha256": "cc79069310f96d6963749bea82981dda6b5f11556f2cb0de66798717ec76ffee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2822",
+   "path": "pravilnik/2006/2822",
+   "short": "Pravilnik o načinu uzorkovanja hrane za životinje",
+   "title": "Pravilnik o načinu uzorkovanja hrane za životinje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/128/2822",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_128_2822.html",
+     "sha256": "1c5be29ee3021500e31ba4f88455469009364b3a9afac63bb7b77651e8e6e61e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2824",
+   "path": "pravilnik/2006/2824",
+   "short": "Pravilnik o stjecanju statusa specijalista iz uže specijalnosti",
+   "title": "Pravilnik o stjecanju statusa specijalista iz uže specijalnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/128/2824",
+   "versions": [
+    {
+     "from": "2006-12-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_128_2824.html",
+     "sha256": "aba0fc78b22eed86124f7ab29bb07d028fe50f43a5676352c448c1ee2dce9493"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2876",
+   "path": "pravilnik/2006/2876",
+   "short": "Pravilnik o izmjeni Pravilnika o registraciji vozila",
+   "title": "Pravilnik o izmjeni Pravilnika o registraciji vozila",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2876",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2876.html",
+     "sha256": "6f265b2c7abe952f0d182b7bedbf95d82271ed80e3940b47f16b22750721909f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2877",
+   "path": "pravilnik/2006/2877",
+   "short": "Pravilnik o sadržaju i načinu vođenja Upisnika zaštićenih prirodnih vrijednosti",
+   "title": "Pravilnik o sadržaju i načinu vođenja Upisnika zaštićenih prirodnih vrijednosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2877",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2877.html",
+     "sha256": "ee0e2648528534130681aac389ba38685b6d9821df031ca44d33b71da22c059a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2878",
+   "path": "pravilnik/2006/2878",
+   "short": "Pravilnik o uvjetima koje mora ispunjavati brod i brodar za obavljanje međunarodnog linijskog pomorskog prometa",
+   "title": "Pravilnik o uvjetima koje mora ispunjavati brod i brodar za obavljanje međunarodnog linijskog pomorskog prometa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2878",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2878.html",
+     "sha256": "f68853795d5af43fa8e28779f3112126ff3e14891a7e86785414bc580a91e4e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2006-2879",
+   "path": "pravilnik/2006/2879",
+   "short": "Pravilnik o uvjetima koje mora ispunjavati brod i brodar za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu",
+   "title": "Pravilnik o uvjetima koje mora ispunjavati brod i brodar za obavljanje javnog prijevoza u linijskom obalnom pomorskom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/130/2879",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2006_11_130_2879.html",
+     "sha256": "ef5a9b987bfc62e8b62c9fc56fec90eb0fe5739bfaa6a082ae5314aa09bded7d"
     }
    ]
   },
