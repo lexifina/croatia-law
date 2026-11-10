@@ -10187,6 +10187,786 @@
    ]
   },
   {
+   "slug": "zakon-2000-1192",
+   "path": "zakon/2000/1192",
+   "short": "Zakon o stopama doprinosa za zdravstveno osiguranje",
+   "title": "Zakon o stopama doprinosa za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1192",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_54_1192.html",
+     "sha256": "14dd46a53cc8b1720cd3e9b4f4dc87ba561b3e447229c8ac36cb5f7e102ea38a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1194",
+   "path": "zakon/2000/1194",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1194",
+   "versions": [
+    {
+     "from": "2000-06-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_05_54_1194.html",
+     "sha256": "40f2dc3f7698bf1183c62367013eae319e3c32ec4451eee1790556e2b2448c78"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1260",
+   "path": "zakon/2000/1260",
+   "short": "Zakon o izmjenama i dopunama Zakona o obnovi",
+   "title": "Zakon o izmjenama i dopunama Zakona o obnovi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/57/1260",
+   "versions": [
+    {
+     "from": "2000-06-17",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_57_1260.html",
+     "sha256": "768760277f83f947acd83cfadb7197ee8a46eaf8d0dde4f4fea7fc071ed70a67"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1261",
+   "path": "zakon/2000/1261",
+   "short": "Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu",
+   "title": "Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/57/1261",
+   "versions": [
+    {
+     "from": "2000-06-17",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_57_1261.html",
+     "sha256": "5659f1947bf7efc4fa4921aff40fce92f8fbdee925037940ec874147b094e35c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1339",
+   "path": "zakon/2000/1339",
+   "short": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju",
+   "title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1339",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_61_1339.html",
+     "sha256": "7f816444d8bf755c6f54936a269ee31671b5f5a5f8834031d74597ab743073f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1348",
+   "path": "zakon/2000/1348",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti sorti poljoprivrednog bilja",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti sorti poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/62/1348",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_62_1348.html",
+     "sha256": "88d47c663704378bf19653e58e86acc710e90bf905921c07ce6e0c936e7a6389"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1379",
+   "path": "zakon/2000/1379",
+   "short": "Zakon o dopunama Zakona o plaćanju doprinosa za mirovinsko osiguranje od 1. lipnja do 31. prosinca 2000. godine",
+   "title": "Zakon o dopunama Zakona o plaćanju doprinosa za mirovinsko osiguranje od 1. lipnja do 31. prosinca 2000. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/63/1379",
+   "versions": [
+    {
+     "from": "2000-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_63_1379.html",
+     "sha256": "d024d26d64fa015e0e2386e7134af5267c9ae93c1ee89a10a66426097d5cb99f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1380",
+   "path": "zakon/2000/1380",
+   "short": "Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/63/1380",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_63_1380.html",
+     "sha256": "abe16f91af6adf6e1125cc10399b4617b7f44f68244b02f66ad5fae0205f8d28"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1381",
+   "path": "zakon/2000/1381",
+   "short": "Zakon o izmjenama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje",
+   "title": "Zakon o izmjenama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/63/1381",
+   "versions": [
+    {
+     "from": "2000-06-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_06_63_1381.html",
+     "sha256": "4becb2062600fb11c50b4998bdb9c4d95ec9f0e1f4265992053db894a4f2a86e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1407",
+   "path": "zakon/2000/1407",
+   "short": "Zakon o izmjenama i dopunama Zakona o doplatku za djecu",
+   "title": "Zakon o izmjenama i dopunama Zakona o doplatku za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1407",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1407.html",
+     "sha256": "e07756471003f19f3396852e33695eeec5cc238bb90f43c8a5cae785e33bbf66"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1408",
+   "path": "zakon/2000/1408",
+   "short": "Zakon o izmjenama i dopunama Zakona o razminiranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o razminiranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1408",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1408.html",
+     "sha256": "85d2cc3a9a821d278b83a1598e3f46e88276f7e6fd91d898ec591af71452b1bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1409",
+   "path": "zakon/2000/1409",
+   "short": "Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1409",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1409.html",
+     "sha256": "0c6bf57d5f8e14e71716041f2fb024fc1bf55f426efeb93992540bedbb167c37"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1410",
+   "path": "zakon/2000/1410",
+   "short": "Zakon o izmjenama Zakona o Fondu za naknadu oduzete imovine",
+   "title": "Zakon o izmjenama Zakona o Fondu za naknadu oduzete imovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1410",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1410.html",
+     "sha256": "f4a96aa204fcc1b41198a26237a6bcf42e32a3876d523a4d8c675dd691a76fae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1411",
+   "path": "zakon/2000/1411",
+   "short": "Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima",
+   "title": "Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1411",
+   "versions": [
+    {
+     "from": "2000-07-13",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1411.html",
+     "sha256": "9eca143056ef24fbbee6214cf99c001bb869268a042a84260ac1fcd0f7cc6ed5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1412",
+   "path": "zakon/2000/1412",
+   "short": "Zakon o izmjenama Zakona o Hrvatskoj garancijskoj agenciji",
+   "title": "Zakon o izmjenama Zakona o Hrvatskoj garancijskoj agenciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1412",
+   "versions": [
+    {
+     "from": "2000-07-05",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_64_1412.html",
+     "sha256": "b3c189745fa3c5e1ee567e68acbd5cb7cfa8ccbc3d081cf8163c6786ca269074"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1576",
+   "path": "zakon/2000/1576",
+   "short": "Zakon o poticanju ulaganja",
+   "title": "Zakon o poticanju ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1576",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1576.html",
+     "sha256": "0685601277804e77d4ace00f8fbf74619c82b0f6a05b4eed99758fef21ed9885"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1577",
+   "path": "zakon/2000/1577",
+   "short": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1577",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1577.html",
+     "sha256": "f8b3637c555e2550e7c2decd588a978d3092290f93f1525dca44ac987937dc34"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1578",
+   "path": "zakon/2000/1578",
+   "short": "Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima",
+   "title": "Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1578",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1578.html",
+     "sha256": "99989124369623430068aa0876d348f6dc6e6ff7d9267415bb2ee35c1f6dc700"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1579",
+   "path": "zakon/2000/1579",
+   "short": "Zakon o izmjenama i dopuni Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje",
+   "title": "Zakon o izmjenama i dopuni Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1579",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1579.html",
+     "sha256": "54195b18ff17425333ae86651886954266083259a216b2f40ac0564fb426e9b5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1580",
+   "path": "zakon/2000/1580",
+   "short": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1580",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1580.html",
+     "sha256": "e39780fd8d93c7e8b84615f06ef2ff8268bab8e0c94b9565250c434c6e457419"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1581",
+   "path": "zakon/2000/1581",
+   "short": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu",
+   "title": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1581",
+   "versions": [
+    {
+     "from": "2000-07-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1581.html",
+     "sha256": "e0d75f64f943060799fae38d96761759a75d2bb91bf31f30908987e6ea348163"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1582",
+   "path": "zakon/2000/1582",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1582",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1582.html",
+     "sha256": "1f5766bfc10b3e33cc16d5e8d958ff74e1e5ee340af7d2b1c9cae6673b28de83"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1583",
+   "path": "zakon/2000/1583",
+   "short": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "title": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1583",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1583.html",
+     "sha256": "18d15171fa37b4cad115c565a6fc8a76fee801ce67b7a6f3f0603d60535ad099"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1584",
+   "path": "zakon/2000/1584",
+   "short": "Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1584",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1584.html",
+     "sha256": "4df5988220056a44a3c398e3b9d9732164e60b24d7fb610d9d2ab917122f1cef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1585",
+   "path": "zakon/2000/1585",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/73/1585",
+   "versions": [
+    {
+     "from": "2000-07-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_07_73_1585.html",
+     "sha256": "25c588bb12564d88798d5309f0933c018b3e4776dc6fb7dc851cf613e12d1b09"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1909",
+   "path": "zakon/2000/1909",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnog sabora",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnog sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1909",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_97_1909.html",
+     "sha256": "9ba0dbcfd9865182ae3273add77b021b8d92497a936ff19797769ec879140a4d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1910",
+   "path": "zakon/2000/1910",
+   "short": "Zakon o povlasticama u unutarnjem putničkom prometu",
+   "title": "Zakon o povlasticama u unutarnjem putničkom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1910",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_97_1910.html",
+     "sha256": "1b94a2aaf1496c3873ba893e599b89473bece1777d89364764429cc0a49b269c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1911",
+   "path": "zakon/2000/1911",
+   "short": "Zakon o rješavanju potraživanja prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenih akcijama \"Bljesak\" i \"Oluja\" i područja istočne Hrvatske koja su integrirana u postupku mirne reintegracije",
+   "title": "Zakon o rješavanju potraživanja prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenih akcijama \"Bljesak\" i \"Oluja\" i područja istočne Hrvatske koja su integrirana u postupku mirne reintegracije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1911",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_97_1911.html",
+     "sha256": "c5308b65fa814deda9aef7342217da96adfe0cdc1fe4060b4c862fb647cfbac7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1913",
+   "path": "zakon/2000/1913",
+   "short": "Zakon o dopunama Zakona o morskim lukama",
+   "title": "Zakon o dopunama Zakona o morskim lukama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1913",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_97_1913.html",
+     "sha256": "9a78787f670bc233806c2b5fa353bfbd27024efdb9a388072b895ce412e8c3cd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1915",
+   "path": "zakon/2000/1915",
+   "short": "Zakon o dopunama Zakona o sanaciji određenih poduzeća",
+   "title": "Zakon o dopunama Zakona o sanaciji određenih poduzeća",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1915",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_97_1915.html",
+     "sha256": "1d21430531a6e056be50f598a10925f4420a392948d0d082b545228c2829dbb6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1916",
+   "path": "zakon/2000/1916",
+   "short": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu",
+   "title": "Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/97/1916",
+   "versions": [
+    {
+     "from": "2000-09-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_09_97_1916.html",
+     "sha256": "2f21f6b162945ed8e4f3972dd8a8650ccb66502e7d4eb4a24230662f1cf2b972"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1975",
+   "path": "zakon/2000/1975",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/101/1975",
+   "versions": [
+    {
+     "from": "2000-10-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_101_1975.html",
+     "sha256": "c068e091d1170e1b21f27f49711ecbf78722b415a45233c5eee18508c57f3728"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-1976",
+   "path": "zakon/2000/1976",
+   "short": "Zakon o izmjeni i dopuni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu",
+   "title": "Zakon o izmjeni i dopuni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/101/1976",
+   "versions": [
+    {
+     "from": "2000-10-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_101_1976.html",
+     "sha256": "60330fe1dea1eee296dd2a5194c0d954e63fa84f7b76d1622ec298f07edee6b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2040",
+   "path": "zakon/2000/2040",
+   "short": "Zakon o izmjenama i dopunama Zakona o knjižnicama",
+   "title": "Zakon o izmjenama i dopunama Zakona o knjižnicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/104/2040",
+   "versions": [
+    {
+     "from": "2000-10-28",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_10_104_2040.html",
+     "sha256": "1b97a002c9e09d49a58d14169675bd20e17ec67edc823a3b1d757453fd4c91ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2269",
+   "path": "zakon/2000/2269",
+   "short": "Zakon o izmjenama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu",
+   "title": "Zakon o izmjenama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/118/2269",
+   "versions": [
+    {
+     "from": "2000-11-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_11_118_2269.html",
+     "sha256": "a20f9a56f16321484d6a78142d14501264aaf26d1b3431820de01d72d325d22f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2355",
+   "path": "zakon/2000/2355",
+   "short": "Zakon o porezu na dohodak",
+   "title": "Zakon o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2355",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 56,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2355.html",
+     "sha256": "b11ad7b0e6936fdbd968f296da450a27a3e4c4125433cef6a36038618d1cb8e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2356",
+   "path": "zakon/2000/2356",
+   "short": "Zakon o porezu na dobit",
+   "title": "Zakon o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2356",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2356.html",
+     "sha256": "f82bc7332c30d9decb56f09b55f00270fd896cc6ded25c7034fb4eb60193419e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2357",
+   "path": "zakon/2000/2357",
+   "short": "Zakon o povećanju mirovina radi otklanjanja razlika u razini mirovina ostvarenih u različitim razdobljima",
+   "title": "Zakon o povećanju mirovina radi otklanjanja razlika u razini mirovina ostvarenih u različitim razdobljima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2357",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2357.html",
+     "sha256": "4189cbeb18fe88ed784674ac929442c867f9c479fc0ba6015930d5a7014e40eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2358",
+   "path": "zakon/2000/2358",
+   "short": "Zakon o izmjeni Zakona o mirovinskom osiguranju",
+   "title": "Zakon o izmjeni Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2358",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2358.html",
+     "sha256": "a4ff0b13661e09c1169ce5d500574f2bf28a9afd3ab2943b3bd8dd22129ef50c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2359",
+   "path": "zakon/2000/2359",
+   "short": "Zakon o plaćanju doprinosa za mirovinsko osiguranje u 2001. godini",
+   "title": "Zakon o plaćanju doprinosa za mirovinsko osiguranje u 2001. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2359",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2359.html",
+     "sha256": "f00a8925362f04f13f04ac80a4c5ff94afb6bc3b553b544c200f7ce45d7e15da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2360",
+   "path": "zakon/2000/2360",
+   "short": "Zakon o izmjenama i dopuni Zakona o kazalištima",
+   "title": "Zakon o izmjenama i dopuni Zakona o kazalištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2360",
+   "versions": [
+    {
+     "from": "2000-12-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_127_2360.html",
+     "sha256": "358873ee5bc0ea27f55e43fbc43f238d3ffc6e902b0e7851af6970beffafaae7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2383",
+   "path": "zakon/2000/2383",
+   "short": "Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću",
+   "title": "Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2383",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2383.html",
+     "sha256": "651fb939980b006bd2c8f9d72a2c956fdad17dea62ecd8ed2a8afd62d09c4756"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2384",
+   "path": "zakon/2000/2384",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2384",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 47,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2384.html",
+     "sha256": "8f5ef22d68206f27891aa89d214f4b0f002a3b7ef0db17bbb4450f1be036870b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2385",
+   "path": "zakon/2000/2385",
+   "short": "Zakon o izmjenama i dopunama Kaznenog zakona",
+   "title": "Zakon o izmjenama i dopunama Kaznenog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2385",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 80,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2385.html",
+     "sha256": "ccdf589ba010c828ab0b080c4c4fb00fbffe6a8bf74aa62e98818e476d95b7d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2386",
+   "path": "zakon/2000/2386",
+   "short": "Zakon o izmjenama i dopunama Stečajnog zakona",
+   "title": "Zakon o izmjenama i dopunama Stečajnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2386",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 74,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2386.html",
+     "sha256": "a713b6a2c8279b6297691842bf4a15110135d094e85892d28deb28ac81265d95"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2387",
+   "path": "zakon/2000/2387",
+   "short": "Zakon o izmjeni Zakona o izvršavanju kazne zatvora",
+   "title": "Zakon o izmjeni Zakona o izvršavanju kazne zatvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2387",
+   "versions": [
+    {
+     "from": "2000-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2387.html",
+     "sha256": "9f2ef7a320a76788b363b553ebc29c51dc8154d9eb7e256f5226f0efedac0e8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2388",
+   "path": "zakon/2000/2388",
+   "short": "Zakon o izmjenama i dopunama Zakona o visokim učilištima",
+   "title": "Zakon o izmjenama i dopunama Zakona o visokim učilištima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2388",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2388.html",
+     "sha256": "d97374aa13f107549667481bd6e09ed716cc79c620513fbe8f8529ff7472d720"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2389",
+   "path": "zakon/2000/2389",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2389",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2389.html",
+     "sha256": "efa9cbde55f787254c59ec6671a7d9724f4ae7dba31985b34501a7950d534f60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2390",
+   "path": "zakon/2000/2390",
+   "short": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2390",
+   "versions": [
+    {
+     "from": "2000-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2390.html",
+     "sha256": "bc019bbbcb3eb8f9ac1f18a61ea6c0c828a94085928336acc490f632e14cffb9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-2391",
+   "path": "zakon/2000/2391",
+   "short": "Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu",
+   "title": "Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2391",
+   "versions": [
+    {
+     "from": "2000-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_12_129_2391.html",
+     "sha256": "1ad4d1773ce2cc7ec9f6294e5c5b2d389156c99f9a850228ea089b8e516306f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-436",
+   "path": "zakon/2000/436",
+   "short": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/25/436",
+   "versions": [
+    {
+     "from": "2000-02-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_25_436.html",
+     "sha256": "27e26ee35b408fd6a9966fdce08030676125a0113f46fa7b77780f6ac2624182"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-437",
+   "path": "zakon/2000/437",
+   "short": "Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/25/437",
+   "versions": [
+    {
+     "from": "2000-02-29",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2000_02_25_437.html",
+     "sha256": "795ad9f0b75028720c2c6cc6b8fe791cf2ca5ac5acc0d8fd15c54b3d69b28ff9"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2001-1579",
    "path": "naputak/2001/1579",
    "short": "Naputak o ekonomskoj i funkcijskoj klasifikaciji rashoda/izdataka i prihoda/primitaka",
@@ -21598,6 +22378,1806 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_60_978.html",
      "sha256": "1927fbee4228b0ff092f61f0dcdd9781ce5ee19aa2d298e886298f27ebff035d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1001",
+   "path": "zakon/2001/1001",
+   "short": "Zakon o Gradu Zagrebu",
+   "title": "Zakon o Gradu Zagrebu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1001",
+   "versions": [
+    {
+     "from": "2001-07-11",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1001.html",
+     "sha256": "ebb73794e2dad7458beef6c149194c562d4b0766acd40af6caab5c0306ee0d8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1002",
+   "path": "zakon/2001/1002",
+   "short": "Zakon o izmjeni i dopunama Zakona o trgovini",
+   "title": "Zakon o izmjeni i dopunama Zakona o trgovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/62/1002",
+   "versions": [
+    {
+     "from": "2001-07-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_62_1002.html",
+     "sha256": "3b21c6f00a0706d1b82cf3ecea41ad3ad1e6dd7883d8c172bddef34debd280c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1049",
+   "path": "zakon/2001/1049",
+   "short": "Zakon o Hrvatskom registru o osobama s invaliditetom",
+   "title": "Zakon o Hrvatskom registru o osobama s invaliditetom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/64/1049",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_64_1049.html",
+     "sha256": "fed866d8e28108f97eeec25ef8a667d3096bf2f672b32fb27f1acbb21435550d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1050",
+   "path": "zakon/2001/1050",
+   "short": "Zakon o izmjenama i dopunama Zakona o obrtu",
+   "title": "Zakon o izmjenama i dopunama Zakona o obrtu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/64/1050",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 56,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_64_1050.html",
+     "sha256": "00dfa41c0d1aa0f614c8ade1351e0d0d85d884321509225cb7b6d5da2b2257ca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1051",
+   "path": "zakon/2001/1051",
+   "short": "Zakon o izmjenama i dopunama Zakona o zakladama i fundacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o zakladama i fundacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/64/1051",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_64_1051.html",
+     "sha256": "a5e466a3d68190ea96eaf04a3b8eed0e2a8aaab74e5253ea1ecf68198e978dc0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1083",
+   "path": "zakon/2001/1083",
+   "short": "Zakon o poljoprivredi",
+   "title": "Zakon o poljoprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/66/1083",
+   "versions": [
+    {
+     "from": "2001-07-28",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_66_1083.html",
+     "sha256": "dd0ce56596b3501f81229b87704a04b923993511bdfd338296a7eb426c07aaab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1084",
+   "path": "zakon/2001/1084",
+   "short": "Zakon o poljoprivrednom zemljištu",
+   "title": "Zakon o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/66/1084",
+   "versions": [
+    {
+     "from": "2001-07-28",
+     "units": 63,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_66_1084.html",
+     "sha256": "298ba315c9e2154d72ff4c5858175f42f974ed34ce9bed163d21c0e11566658e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1097",
+   "path": "zakon/2001/1097",
+   "short": "Zakon o carinskoj službi",
+   "title": "Zakon o carinskoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1097",
+   "versions": [
+    {
+     "from": "2001-08-23",
+     "units": 90,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1097.html",
+     "sha256": "88b05c2926589f34daec1d7e4fe895ffb7ab89d3e3c3113a637c0db2cc6fd9d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1098",
+   "path": "zakon/2001/1098",
+   "short": "Zakon o Poreznoj upravi",
+   "title": "Zakon o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1098",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1098.html",
+     "sha256": "9d5f7146d31b6850fa3e40b17d3526f259ef36554be17d6200e87be4e17ff783"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1099",
+   "path": "zakon/2001/1099",
+   "short": "Zakon o prestanku važenja Zakona o financijskoj policiji",
+   "title": "Zakon o prestanku važenja Zakona o financijskoj policiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1099",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1099.html",
+     "sha256": "691c2e52b24a88ee1df3e485a878317534a4cfa2fee9b64ac9f3665ef8f57b93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1100",
+   "path": "zakon/2001/1100",
+   "short": "Zakon o izmjenama Zakona o štedno-kreditnim zadrugama",
+   "title": "Zakon o izmjenama Zakona o štedno-kreditnim zadrugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1100",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1100.html",
+     "sha256": "1e2842c5dca372f971a141cb81eb26900180adb2439d8cd0b9dcffb962860996"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1101",
+   "path": "zakon/2001/1101",
+   "short": "Zakon o izmjeni Zakona o autorskom pravu",
+   "title": "Zakon o izmjeni Zakona o autorskom pravu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1101",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1101.html",
+     "sha256": "583fb04b1340da2207baf075cd3cfc22c27b738fa6058e6bc3d6eeadac72a5a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1102",
+   "path": "zakon/2001/1102",
+   "short": "Zakon o izmjenama Zakona o sprječavanju pranja novca",
+   "title": "Zakon o izmjenama Zakona o sprječavanju pranja novca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1102",
+   "versions": [
+    {
+     "from": "2001-07-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_67_1102.html",
+     "sha256": "e58c28a98c6fcdd95edc164295b8f2a7f5533c35371d1ff30ee02dadf13cfcfe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1120",
+   "path": "zakon/2001/1120",
+   "short": "Zakon o energiji",
+   "title": "Zakon o energiji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1120",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1120.html",
+     "sha256": "079efa85d10ab95ba48e7e5886a8282a0df7a0d9bf47fed97f87f6a0d360c42d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1121",
+   "path": "zakon/2001/1121",
+   "short": "Zakon o tržištu električne energije",
+   "title": "Zakon o tržištu električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1121",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1121.html",
+     "sha256": "7502bde5d0a20752cfb86abd7b4259b1f5c434149c4aefaf6dd25fa8c6041380"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1122",
+   "path": "zakon/2001/1122",
+   "short": "Zakon o regulaciji energetskih djelatnosti",
+   "title": "Zakon o regulaciji energetskih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1122",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1122.html",
+     "sha256": "1eb6c9cd01641e574571d3e0cd41c17170f1e309d5515e81480e729983569e06"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1123",
+   "path": "zakon/2001/1123",
+   "short": "Zakon o tržištu nafte i naftnih derivata",
+   "title": "Zakon o tržištu nafte i naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1123",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1123.html",
+     "sha256": "ee25037a4893f4b858e1bd171136720c940d4815101e2df03c44f3e10a3be5b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1124",
+   "path": "zakon/2001/1124",
+   "short": "Zakon o tržištu plina",
+   "title": "Zakon o tržištu plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1124",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1124.html",
+     "sha256": "d1c7093a0a68db3ede38c7fb6ba1d665c6a87fc02e321fd1137c676af6b62729"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1125",
+   "path": "zakon/2001/1125",
+   "short": "Zakon o izmjenama i dopunama Zakona o telekomunikacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o telekomunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1125",
+   "versions": [
+    {
+     "from": "2001-08-04",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1125.html",
+     "sha256": "fc1ad8cac570f41d9ad48696fe6f9874d7230cbc06437836e6c9cff778de7a7d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1126",
+   "path": "zakon/2001/1126",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji Hrvatskih telekomunikacija d.d.",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji Hrvatskih telekomunikacija d.d.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1126",
+   "versions": [
+    {
+     "from": "2001-07-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_07_68_1126.html",
+     "sha256": "b8e9c63ddbcf685c57bd538ab49841d726955f50fde807390ffce8ff0bf9ed9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1401",
+   "path": "zakon/2001/1401",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1401",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1401.html",
+     "sha256": "06971a7cf94b07be8e41495c641cc672e6791c3140cf37f62fd58a9f69645d25"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1402",
+   "path": "zakon/2001/1402",
+   "short": "Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki",
+   "title": "Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1402",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1402.html",
+     "sha256": "f25067342e44c9b4bfcded1f068a621ca01f1bf12e99ae5ab963df45faaf7ec2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1403",
+   "path": "zakon/2001/1403",
+   "short": "Zakon o dopunama Zakona o socijalnoj skrbi",
+   "title": "Zakon o dopunama Zakona o socijalnoj skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1403",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1403.html",
+     "sha256": "2e87f1b68dacdb721fed4eabc9056dad66b899075e98944ac8087c9236b9a4f4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1404",
+   "path": "zakon/2001/1404",
+   "short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1404",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1404.html",
+     "sha256": "44c03e74da6e5eee2f004736bc497a2005088e311a1b69ebcff86156021d0655"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1405",
+   "path": "zakon/2001/1405",
+   "short": "Zakon o izmjenama i dopuni Zakona o radu",
+   "title": "Zakon o izmjenama i dopuni Zakona o radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1405",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1405.html",
+     "sha256": "61bd5dfe44b6004f6d26ce41e98249ba7ada7d27d6f17427ab2aedbe4d2c5df0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1406",
+   "path": "zakon/2001/1406",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001.",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1406",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1406.html",
+     "sha256": "ec81480a4ab94ad3d0c666031a4ff7c564eb677554ebfd294699fc0e4441d96a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1407",
+   "path": "zakon/2001/1407",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1407",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1407.html",
+     "sha256": "347c4c2e74d807fd0dfeaa9de84ba1fcba29ae5dc5a3c157db931eadbfac9aaf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1408",
+   "path": "zakon/2001/1408",
+   "short": "Zakon o dopunama Zakona o najvišoj mirovini",
+   "title": "Zakon o dopunama Zakona o najvišoj mirovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/82/1408",
+   "versions": [
+    {
+     "from": "2001-09-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_82_1408.html",
+     "sha256": "07734dfc523abbbe9e82e6eb7c024fe98ff301f453a28d834cef8dd8219b7ae9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1426",
+   "path": "zakon/2001/1426",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/84/1426",
+   "versions": [
+    {
+     "from": "2001-09-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_09_84_1426.html",
+     "sha256": "82328c39691d2f7dcbbdfb536efbb5a625b8552fa872d905b6cb4be487566b94"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1496",
+   "path": "zakon/2001/1496",
+   "short": "Zakon o udrugama",
+   "title": "Zakon o udrugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/88/1496",
+   "versions": [
+    {
+     "from": "2001-10-19",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_88_1496.html",
+     "sha256": "4300412c109119741f8a14fb5d79b3c948b1796a00be8bd6d13d3309ac765d44"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1497",
+   "path": "zakon/2001/1497",
+   "short": "Zakon o Uredu za suzbijanje korupcije i organiziranog kriminala",
+   "title": "Zakon o Uredu za suzbijanje korupcije i organiziranog kriminala",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/88/1497",
+   "versions": [
+    {
+     "from": "2001-10-19",
+     "units": 71,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_88_1497.html",
+     "sha256": "fb31c94f7691512174b6d29f217be0105837979c26fe35339ff551a7fd571b6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1564",
+   "path": "zakon/2001/1564",
+   "short": "Zakon o uvjetima za obavljanje poslova zastupanja u carinskom postupku",
+   "title": "Zakon o uvjetima za obavljanje poslova zastupanja u carinskom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/92/1564",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_92_1564.html",
+     "sha256": "c477feadef378c84aee1f6b25ce99b27bb21efe43669b471382cd3acf21bff1c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1565",
+   "path": "zakon/2001/1565",
+   "short": "Zakon o Hrvatskom crvenom križu",
+   "title": "Zakon o Hrvatskom crvenom križu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/92/1565",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 30,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_92_1565.html",
+     "sha256": "b412e8f793bd28fb06d9d97b0b264cc39e96183debf4f26ddec2b531dbbb5b56"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1566",
+   "path": "zakon/2001/1566",
+   "short": "Zakon o izmjeni i dopunama Carinskog zakona",
+   "title": "Zakon o izmjeni i dopunama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/92/1566",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_92_1566.html",
+     "sha256": "b4919e4eddd57904437784a25ccc772fac591a005ce922f36aaee425873a659b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1567",
+   "path": "zakon/2001/1567",
+   "short": "Zakon o dopuni Zakona o ugostiteljskoj djelatnosti",
+   "title": "Zakon o dopuni Zakona o ugostiteljskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/92/1567",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_92_1567.html",
+     "sha256": "e5d8b578dc9750cf61879697d49557d1750e15f8f522f20e075cf55e7688e44c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1569",
+   "path": "zakon/2001/1569",
+   "short": "Zakon o izmjenama i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjenama i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/92/1569",
+   "versions": [
+    {
+     "from": "2001-11-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_92_1569.html",
+     "sha256": "6788e74c4a7504fb5d533d2701246cba62bc77ffecce396283f678751129d9d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1586",
+   "path": "zakon/2001/1586",
+   "short": "Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1586",
+   "versions": [
+    {
+     "from": "2001-11-07",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1586.html",
+     "sha256": "95cf5ec8a4a3e6da548ff9401711f65f91cb006eeb7d1bb744923e54b25de7fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1589",
+   "path": "zakon/2001/1589",
+   "short": "Zakon o izmjeni Zakona o Poreznoj upravi",
+   "title": "Zakon o izmjeni Zakona o Poreznoj upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1589",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1589.html",
+     "sha256": "4c73f8f39ef9c0029d4747dd471ff345ff036e40b2ed6feee31dee6a19455968"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1590",
+   "path": "zakon/2001/1590",
+   "short": "Zakon o izmjeni Zakona o područjima posebne državne skrbi",
+   "title": "Zakon o izmjeni Zakona o područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/94/1590",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_10_94_1590.html",
+     "sha256": "5d7cc12e409fbaaefaaf9205905e534d3148f7333a6eeab607959484c8ac6d21"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1610",
+   "path": "zakon/2001/1610",
+   "short": "Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu",
+   "title": "Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/95/1610",
+   "versions": [
+    {
+     "from": "2001-11-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_95_1610.html",
+     "sha256": "75d17dc3541d901bcc58369e345b5f9ff1b1394b1642b55cb5965f944111d50f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1611",
+   "path": "zakon/2001/1611",
+   "short": "Zakon o upravljanju javnim ustanovama u kulturi",
+   "title": "Zakon o upravljanju javnim ustanovama u kulturi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1611",
+   "versions": [
+    {
+     "from": "2001-11-15",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_96_1611.html",
+     "sha256": "251e71116f0618459b8c1c9ec5617019d3622ddca802b3db573a262eebd3ceb2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1613",
+   "path": "zakon/2001/1613",
+   "short": "Zakon o izmjenama i dopunama Zakona o javnom priopćavanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o javnom priopćavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1613",
+   "versions": [
+    {
+     "from": "2001-11-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_96_1613.html",
+     "sha256": "b5644df89bebc9b7a410bf441996c17496e75356468c1c4f5ca8a1c273838f65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1614",
+   "path": "zakon/2001/1614",
+   "short": "Zakon o izmjenama i dopuni Zakona o blagdanima, spomendanu i neradnim danima u Republici Hrvatskoj",
+   "title": "Zakon o izmjenama i dopuni Zakona o blagdanima, spomendanu i neradnim danima u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1614",
+   "versions": [
+    {
+     "from": "2001-11-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_96_1614.html",
+     "sha256": "679585c825477726df7d177ca04f0aa179ba233198cba07ecf4d61e2193c1f75"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1615",
+   "path": "zakon/2001/1615",
+   "short": "Zakon o dopuni Zakona o zaštiti osoba i imovine",
+   "title": "Zakon o dopuni Zakona o zaštiti osoba i imovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/96/1615",
+   "versions": [
+    {
+     "from": "2001-11-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_96_1615.html",
+     "sha256": "85bc2f0d5a8665c765eb377899f5db1d0c2697862d0da7607e41991e87d18c59"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1721",
+   "path": "zakon/2001/1721",
+   "short": "Zakon o izmjenama i dopunama Zakona o veterinarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o veterinarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/105/1721",
+   "versions": [
+    {
+     "from": "2001-12-06",
+     "units": 41,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_105_1721.html",
+     "sha256": "2ee80dae34ced2e7aa368bd583cc42a34bb957609ba7bceb2705719903cf7920"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1740",
+   "path": "zakon/2001/1740",
+   "short": "Zakon o slatkovodnom ribarstvu",
+   "title": "Zakon o slatkovodnom ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/106/1740",
+   "versions": [
+    {
+     "from": "2001-12-08",
+     "units": 95,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_11_106_1740.html",
+     "sha256": "aca6549c3a9e687659e9afff679aeb6dfc6dd6fd44f26824671b5e75ed9ddd88"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1757",
+   "path": "zakon/2001/1757",
+   "short": "Zakon o Fondu za regionalni razvoj Republike Hrvatske",
+   "title": "Zakon o Fondu za regionalni razvoj Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1757",
+   "versions": [
+    {
+     "from": "2001-12-05",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1757.html",
+     "sha256": "3c0f0fabb6209deb1983a9b3a0e213b5f7de61e5fc42e7961fe384c6f626ed14"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1758",
+   "path": "zakon/2001/1758",
+   "short": "Zakon o Fondu za razvoj i zapošljavanje",
+   "title": "Zakon o Fondu za razvoj i zapošljavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1758",
+   "versions": [
+    {
+     "from": "2001-12-05",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1758.html",
+     "sha256": "aa280b2137f795c7f9c88a41f5d4566d90d413dbbbce75db63253a6c34c8ca3c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1761",
+   "path": "zakon/2001/1761",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1761",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1761.html",
+     "sha256": "691dc2767f823a29c1e86e906c880634b46604e5f055b51b3df60bbf58610159"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1762",
+   "path": "zakon/2001/1762",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na kavu",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na kavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1762",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1762.html",
+     "sha256": "c843212a34f7d7d869f624c3c22d0b2d543c1be9ccb21e5bb87e6b080beb5e6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1763",
+   "path": "zakon/2001/1763",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1763",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1763.html",
+     "sha256": "27baaa9d33b06a5b3d45feaf1baf8c861cbc59dd946bb766d05efc3a9401ee3f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1764",
+   "path": "zakon/2001/1764",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1764",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1764.html",
+     "sha256": "d09570c928a95aca6732cde8fd92c2883cfb386d02babe22e60e9c220b476f3a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1765",
+   "path": "zakon/2001/1765",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1765",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1765.html",
+     "sha256": "4b99d583b9bbb1f24973800d244e6582249ba9548c48a01c47a773b39abd5e73"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1766",
+   "path": "zakon/2001/1766",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1766",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1766.html",
+     "sha256": "9d998dcb770cccb2bc1047bb6a6d4ed79c30e531ab0fc19c63ab79dcb3e409fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1767",
+   "path": "zakon/2001/1767",
+   "short": "Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave",
+   "title": "Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1767",
+   "versions": [
+    {
+     "from": "2001-12-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_107_1767.html",
+     "sha256": "31cfe16f3d5ff89af962ec22866e8cf54b6f8a5963bca064ce691069c661c8b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1794",
+   "path": "zakon/2001/1794",
+   "short": "Zakon o društveno poticanoj stanogradnji",
+   "title": "Zakon o društveno poticanoj stanogradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1794",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 35,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_109_1794.html",
+     "sha256": "59785383e48b5e9ff5f592f59c45cceaecbba3ea77aff9abfd53673b1bef7907"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1795",
+   "path": "zakon/2001/1795",
+   "short": "Zakon o izmjeni i dopunama Zakona o trgovini",
+   "title": "Zakon o izmjeni i dopunama Zakona o trgovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1795",
+   "versions": [
+    {
+     "from": "2001-12-11",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_109_1795.html",
+     "sha256": "62398ca57c923d1d4d58fbc2c40fa5cd034f0f4fce99b180584b726ee532faca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1796",
+   "path": "zakon/2001/1796",
+   "short": "Zakon o dopunama Zakona o mirovinskom osiguranju",
+   "title": "Zakon o dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1796",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_109_1796.html",
+     "sha256": "d2c09f15d7cdb24bc03c324503172276f92b37a5df198f39c3de0737d4069857"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1797",
+   "path": "zakon/2001/1797",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1797",
+   "versions": [
+    {
+     "from": "2001-12-19",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_109_1797.html",
+     "sha256": "44319b9b31e9251406961a3f6f4013c30a5daf0b774887ea77147fee8ca38c8f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1798",
+   "path": "zakon/2001/1798",
+   "short": "Zakon o dopuni zakona o telekomunikacijama",
+   "title": "Zakon o dopuni zakona o telekomunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1798",
+   "versions": [
+    {
+     "from": "2001-12-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_109_1798.html",
+     "sha256": "b48fd9397b60751f1056dfe191dfe3090b394181706e6c8058d70fef0e6e31d5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1799",
+   "path": "zakon/2001/1799",
+   "short": "Zakon o dopuni Zakona o regulaciji energetskih djelatnosti",
+   "title": "Zakon o dopuni Zakona o regulaciji energetskih djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/109/1799",
+   "versions": [
+    {
+     "from": "2001-12-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_109_1799.html",
+     "sha256": "853380828bda50437c93aaf2a364f592f24226ba58d791519b48b570fd193f71"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1878",
+   "path": "zakon/2001/1878",
+   "short": "Zakon o plaćanju doprinosa za osnovno zdravstveno osiguranje u 2002. godini",
+   "title": "Zakon o plaćanju doprinosa za osnovno zdravstveno osiguranje u 2002. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1878",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1878.html",
+     "sha256": "c387cc68070c7932fc7950d435088b6865397aad04ba6dd46b287af4f889acb4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1879",
+   "path": "zakon/2001/1879",
+   "short": "Zakon o plaćanju doprinosa za mirovinsko osiguranje za 2002. godinu",
+   "title": "Zakon o plaćanju doprinosa za mirovinsko osiguranje za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1879",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1879.html",
+     "sha256": "b7706963b1fb8f573f89fa8a5780cbf640fc099629cb2b7d7eda3454bc2146d6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1880",
+   "path": "zakon/2001/1880",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizacijskim investicijskim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizacijskim investicijskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1880",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1880.html",
+     "sha256": "ccfbc2b7b8c201fb25f3070e592424a5aaf9c6e6d138aaed5c0fff47fc7bc274"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1881",
+   "path": "zakon/2001/1881",
+   "short": "Zakon o izmjenama i dopunama Zakona o investicijskim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o investicijskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1881",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1881.html",
+     "sha256": "d0e08b68aca691a60f11c0fa0bc7c7f99a8f518523592ed9bfe66f15c189e0f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1883",
+   "path": "zakon/2001/1883",
+   "short": "Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima",
+   "title": "Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1883",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1883.html",
+     "sha256": "ce8ce701d613f3518ed4de732939d4ee829b2431db99d458cfe74e6ce3ca1a55"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1884",
+   "path": "zakon/2001/1884",
+   "short": "Zakon o izmjenama Zakona o zemljišnim knjigama",
+   "title": "Zakon o izmjenama Zakona o zemljišnim knjigama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1884",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1884.html",
+     "sha256": "3016b5d6da3e4ed04d6be9b4cc2b4fcfff561300a699988708775a1d04b67210"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1885",
+   "path": "zakon/2001/1885",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvlaštenju",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvlaštenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1885",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1885.html",
+     "sha256": "52c08d2fa9e55ca2927a757455bd2514803b98887b2b2e5058cf9c22bba4eac7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1886",
+   "path": "zakon/2001/1886",
+   "short": "Zakon o dopuni Zakona o osnovnom školstvu",
+   "title": "Zakon o dopuni Zakona o osnovnom školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1886",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1886.html",
+     "sha256": "290c3900fb4e7f8ef6a796df84e0b4fae234018d39861e1910420e1d3ae54796"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1887",
+   "path": "zakon/2001/1887",
+   "short": "Zakon o dopuni Zakona o srednjem školstvu",
+   "title": "Zakon o dopuni Zakona o srednjem školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1887",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1887.html",
+     "sha256": "d473f44793e0981996548753875393f3ace474a1cd42f2cb05471ee359b92c0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1888",
+   "path": "zakon/2001/1888",
+   "short": "Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1888",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1888.html",
+     "sha256": "a73e5c14df5775c72ffdefc2901ced7d4056834daeb9d9bc52b02a9108a06dbd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1889",
+   "path": "zakon/2001/1889",
+   "short": "Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1889",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1889.html",
+     "sha256": "41dd71e3fde037fcfe199eb0313bd5eaef590f73679c5beb23e3c51b0396829a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1890",
+   "path": "zakon/2001/1890",
+   "short": "Zakon o izmjeni Zakona o zapošljavanju",
+   "title": "Zakon o izmjeni Zakona o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1890",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1890.html",
+     "sha256": "9c544adcfcc23727e5315d81efa17fe621538cf6ceff4895a01ae730d1582a06"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1891",
+   "path": "zakon/2001/1891",
+   "short": "Zakon o izmjenama i dopuni Zakona o posebnom porezu na luksuzne proizvode",
+   "title": "Zakon o izmjenama i dopuni Zakona o posebnom porezu na luksuzne proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1891",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1891.html",
+     "sha256": "46d9e07cfcf7061043b663551b83034343b19539e9ce44f74ae5fe84d03a48b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1892",
+   "path": "zakon/2001/1892",
+   "short": "Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca",
+   "title": "Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1892",
+   "versions": [
+    {
+     "from": "2001-12-20",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1892.html",
+     "sha256": "c0b5677e8e14088cb30c7c301931e0185b5c5a265826c37a40d75a0202360e12"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1893",
+   "path": "zakon/2001/1893",
+   "short": "Zakon o izmjeni Zakona o javnim cestama",
+   "title": "Zakon o izmjeni Zakona o javnim cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1893",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1893.html",
+     "sha256": "77ea5e561d0cc3327283b32742cf15cb4173162367e317ef74fab01c2b473f95"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1894",
+   "path": "zakon/2001/1894",
+   "short": "Zakon o prestanku važenja Zakona o nadležnosti organa uprave u poslovima unošenja, raspačavanja i širenja inozemnih sredstava masovnog komuniciranja",
+   "title": "Zakon o prestanku važenja Zakona o nadležnosti organa uprave u poslovima unošenja, raspačavanja i širenja inozemnih sredstava masovnog komuniciranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1894",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1894.html",
+     "sha256": "300bb2ca9ba1d954e8efd4ff3ccd3a29475b54e36499e71b80cdc883aa94eb8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1895",
+   "path": "zakon/2001/1895",
+   "short": "Zakon o prestanku važenja Zakona o preuzimanju Zakona o unošenju i raspačavanju inozemnih sredstava masovnog komuniciranja i o inozemnoj informativnoj djelatnosti u Jugoslaviji koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "title": "Zakon o prestanku važenja Zakona o preuzimanju Zakona o unošenju i raspačavanju inozemnih sredstava masovnog komuniciranja i o inozemnoj informativnoj djelatnosti u Jugoslaviji koji se u Republici Hrvatskoj primjenjuje kao republički zakon",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1895",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_114_1895.html",
+     "sha256": "7d360b458ac00a162d7f0053d45948ccf6f198cd6a4c8fff08756bd278d0862c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-190",
+   "path": "zakon/2001/190",
+   "short": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "title": "Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/10/190",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_10_190.html",
+     "sha256": "80dfaccd39a9949f992b10cd2ad0970e6bcf8d2a8da1c78d8751ec455b7609fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1951",
+   "path": "zakon/2001/1951",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/116/1951",
+   "versions": [
+    {
+     "from": "2001-12-22",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_116_1951.html",
+     "sha256": "c052d9e76e2678a08b8df7ea36dc90449af9a6335d558a70403309cd13a06aba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1952",
+   "path": "zakon/2001/1952",
+   "short": "Zakon o platnom prometu u zemlji",
+   "title": "Zakon o platnom prometu u zemlji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1952",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 52,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1952.html",
+     "sha256": "b030f2acea3a9813c427afc262f4baf1c85031c9a4f7d283e232a2ca8ec3e5cc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1954",
+   "path": "zakon/2001/1954",
+   "short": "Zakon o javnoj nabavi",
+   "title": "Zakon o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1954",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 81,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1954.html",
+     "sha256": "7381bf16c9cd8b7733a11053b81c12aaee77d86f04f3064cca4c8db4b2b7fafd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1957",
+   "path": "zakon/2001/1957",
+   "short": "Zakon o sanaciji studentskih centara",
+   "title": "Zakon o sanaciji studentskih centara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1957",
+   "versions": [
+    {
+     "from": "2001-12-24",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1957.html",
+     "sha256": "a2ba4302061edf6b60e59f382cf9b7e5b45a30bd8cd72130009c25441d22a608"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1958",
+   "path": "zakon/2001/1958",
+   "short": "Zakon o udžbenicima za osnovnu i srednju školu",
+   "title": "Zakon o udžbenicima za osnovnu i srednju školu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1958",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1958.html",
+     "sha256": "aa1aa9ae847146a6eb73db47e28ec27492ca6328195409ef82105c8de8bba0a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1959",
+   "path": "zakon/2001/1959",
+   "short": "Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1959",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1959.html",
+     "sha256": "322d5d0902823b1e2873c55c354fd82b888ee0e014c15222f74df42f99edacf2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1960",
+   "path": "zakon/2001/1960",
+   "short": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+   "title": "Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1960",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 40,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1960.html",
+     "sha256": "12d3a7765d09fc6bbfc9b5edec494796e3c80c39c30df4813665b677d09f61ed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1961",
+   "path": "zakon/2001/1961",
+   "short": "Zakon o izmjenama i dopunama Zakona o gradnji",
+   "title": "Zakon o izmjenama i dopunama Zakona o gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1961",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1961.html",
+     "sha256": "504051d5605f5295959186d252df4b342c153a0f9aa150520cee94ce189cd8b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1962",
+   "path": "zakon/2001/1962",
+   "short": "Zakon o izmjenama i dopunama Zakona o vatrogastvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o vatrogastvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1962",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1962.html",
+     "sha256": "f67fcbaaac03079c3ce8492a610d95a436aea447dc22150aa9eb349ad73d70cb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-1963",
+   "path": "zakon/2001/1963",
+   "short": "Zakon o prestanku važenja Zakona o igrama na sreću i zabavnim igrama",
+   "title": "Zakon o prestanku važenja Zakona o igrama na sreću i zabavnim igrama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/117/1963",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_12_117_1963.html",
+     "sha256": "b0b79df8582b6cd77b643e045f0d99d3270c3f951a5cff5b94711b07fdb968df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-222",
+   "path": "zakon/2001/222",
+   "short": "Zakon o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda",
+   "title": "Zakon o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/222",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_222.html",
+     "sha256": "36d50a46e073ef5303fb69dc8ac7143c018926cdadccfad0832e4609b9eaecd7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-223",
+   "path": "zakon/2001/223",
+   "short": "Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/223",
+   "versions": [
+    {
+     "from": "2001-02-14",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_223.html",
+     "sha256": "c9334c94e8bd3104a01a40c9a12b5c51945806c8eef618b732736d040728c504"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-224",
+   "path": "zakon/2001/224",
+   "short": "Zakon o izmjenama i dopunama Zakona o oružju",
+   "title": "Zakon o izmjenama i dopunama Zakona o oružju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/224",
+   "versions": [
+    {
+     "from": "2001-02-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_12_224.html",
+     "sha256": "5d0af8934734c942a63de48c1c7c31615672c680d42ee70db64a01aaef99aac3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-262",
+   "path": "zakon/2001/262",
+   "short": "Zakon o izmjenama i dopunama Zakona o lovu",
+   "title": "Zakon o izmjenama i dopunama Zakona o lovu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/14/262",
+   "versions": [
+    {
+     "from": "2001-03-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_14_262.html",
+     "sha256": "50dfb192f86d2af272db03edf155d86130009bd7e186220741eeac3356e5979a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-283",
+   "path": "zakon/2001/283",
+   "short": "Zakon o izmjeni Zakona o obrani",
+   "title": "Zakon o izmjeni Zakona o obrani",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/283",
+   "versions": [
+    {
+     "from": "2001-02-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_16_283.html",
+     "sha256": "1f5ade19ea2ebaafc30dd6e47e5ace9cdec13ea91812798be533fb963b56635b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-284",
+   "path": "zakon/2001/284",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/16/284",
+   "versions": [
+    {
+     "from": "2001-03-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_02_16_284.html",
+     "sha256": "f35444b121668c8508e3593993e4f96a429b93365f380ecbeeead95f6dc9ce9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-308",
+   "path": "zakon/2001/308",
+   "short": "Zakon o Hrvatskoj radioteleviziji",
+   "title": "Zakon o Hrvatskoj radioteleviziji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/17/308",
+   "versions": [
+    {
+     "from": "2001-03-10",
+     "units": 58,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_17_308.html",
+     "sha256": "0746ff7a3c7092240c4461ada865c1dc834953da7e7396dc825a2e292081cd9c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-309",
+   "path": "zakon/2001/309",
+   "short": "Zakon o izmjenama i dopunama Zakona o radu",
+   "title": "Zakon o izmjenama i dopunama Zakona o radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/17/309",
+   "versions": [
+    {
+     "from": "2001-03-10",
+     "units": 78,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_17_309.html",
+     "sha256": "a83d321836ff35800dbc1a6d95f24b3ba7e9e5d10eb8c55c47a21790cc6dd6e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-392",
+   "path": "zakon/2001/392",
+   "short": "Zakon o izmjenama Zakona o popisu stanovništva, kućanstava i stanova 2001.",
+   "title": "Zakon o izmjenama Zakona o popisu stanovništva, kućanstava i stanova 2001.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/392",
+   "versions": [
+    {
+     "from": "2001-03-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_392.html",
+     "sha256": "24f2715dfbe4b1d11ceef8dde57aa21e3844fd852b42f9656f0b594989017b74"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-393",
+   "path": "zakon/2001/393",
+   "short": "Zakon o izmjenama i dopunama Zakona o spomen-području Jasenovac",
+   "title": "Zakon o izmjenama i dopunama Zakona o spomen-području Jasenovac",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/22/393",
+   "versions": [
+    {
+     "from": "2001-03-29",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_22_393.html",
+     "sha256": "cdd7abc7fe209b99757e543f6fa700c6eacd0374790848c6773dd8ad9f865d98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-412",
+   "path": "zakon/2001/412",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/23/412",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_23_412.html",
+     "sha256": "b3a87ca1ec85be215228074b08d3d8b0507cec00f0138cda2c729152a14d5dd0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-471",
+   "path": "zakon/2001/471",
+   "short": "Zakon o državnim službenicima i namještenicima",
+   "title": "Zakon o državnim službenicima i namještenicima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/27/471",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 132,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_27_471.html",
+     "sha256": "165c3e01a1620baf1e81daeaab08276bf55021c68d80cd6726a3d2f239f9938b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-472",
+   "path": "zakon/2001/472",
+   "short": "Zakon o plaćama u javnim službama",
+   "title": "Zakon o plaćama u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/27/472",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_27_472.html",
+     "sha256": "a5272fe2224dd41bd11431fd02f32d6870e967d1e1dd05e4aa7eb59dca82f9af"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-473",
+   "path": "zakon/2001/473",
+   "short": "Zakon o izmjeni i dopunama Zakona o socijalnoj skrbi",
+   "title": "Zakon o izmjeni i dopunama Zakona o socijalnoj skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/27/473",
+   "versions": [
+    {
+     "from": "2001-03-30",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_27_473.html",
+     "sha256": "849838d578b88a561bedc8d5959258c76abeddb6a5d12fe6008518c320b309da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-475",
+   "path": "zakon/2001/475",
+   "short": "Zakon o izmjeni Zakona o posebnom porezu na naftne derivate",
+   "title": "Zakon o izmjeni Zakona o posebnom porezu na naftne derivate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/27/475",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_03_27_475.html",
+     "sha256": "0cd99495b19fa9b4011d582170fe069038faa3d2f41777419204a7018c3b34ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-524",
+   "path": "zakon/2001/524",
+   "short": "Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/30/524",
+   "versions": [
+    {
+     "from": "2001-04-14",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_30_524.html",
+     "sha256": "8bca1b209edac2846b503723bc9de48e0e875cb3b264b05d0dfa66c2deeebff8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-525",
+   "path": "zakon/2001/525",
+   "short": "Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/30/525",
+   "versions": [
+    {
+     "from": "2001-04-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_30_525.html",
+     "sha256": "b2f5c6fc32de07545fcf55952bcf261230430f8bb5e3088207ef9d5492a9a4f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-550",
+   "path": "zakon/2001/550",
+   "short": "Zakon o izmjenama i dopunama Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata",
+   "title": "Zakon o izmjenama i dopunama Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/32/550",
+   "versions": [
+    {
+     "from": "2001-04-10",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_32_550.html",
+     "sha256": "367ba47e095b4bb1ad7552eb4f43d06366bcc3c9a4a5ba643593898e6d34e1e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-569",
+   "path": "zakon/2001/569",
+   "short": "Zakon o lokalnoj i područnoj (regionalnoj) samoupravi",
+   "title": "Zakon o lokalnoj i područnoj (regionalnoj) samoupravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/33/569",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 102,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_33_569.html",
+     "sha256": "2548dbb1dc91423e52230b00124052b6ea2438728d3be872ef78561345c1df1d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-634",
+   "path": "zakon/2001/634",
+   "short": "Zakon o izmjenama Zakona o političkim strankama",
+   "title": "Zakon o izmjenama Zakona o političkim strankama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/36/634",
+   "versions": [
+    {
+     "from": "2001-04-20",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_04_36_634.html",
+     "sha256": "1226a0641e72e25c7942fcfd981d57abfadb1d0c04b411776af13a70c709d7da"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-814",
+   "path": "zakon/2001/814",
+   "short": "Zakon o državnom odvjetništvu",
+   "title": "Zakon o državnom odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/51/814",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 155,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_51_814.html",
+     "sha256": "e06445e73b718e7c6ff31ce888804c81483e3aa608c7222633f8a58773cd83f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-816",
+   "path": "zakon/2001/816",
+   "short": "Zakon o izmjenama Kaznenog zakona",
+   "title": "Zakon o izmjenama Kaznenog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/51/816",
+   "versions": [
+    {
+     "from": "2001-06-14",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_51_816.html",
+     "sha256": "19829dd204b534d0ebfdbe8c0109d112d1db006ffc1b67c84261db9dd6e81e46"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-844",
+   "path": "zakon/2001/844",
+   "short": "Zakon o kulturnim vijećima",
+   "title": "Zakon o kulturnim vijećima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/53/844",
+   "versions": [
+    {
+     "from": "2001-06-21",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_53_844.html",
+     "sha256": "ce9c12699ffb12e48189716078911b90d5f7c33cf41da56386ceac356228fdeb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-960",
+   "path": "zakon/2001/960",
+   "short": "Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/960",
+   "versions": [
+    {
+     "from": "2001-06-30",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_960.html",
+     "sha256": "4d71a4aa74f15173ce182788169ab4b533e364cfb23cff7cb43d0266270abe78"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-961",
+   "path": "zakon/2001/961",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/961",
+   "versions": [
+    {
+     "from": "2001-06-30",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_961.html",
+     "sha256": "1259bee49c1aec4a1411bbf8203cb66000ee0a9ae8a1fae8ed3932550593ccf2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-962",
+   "path": "zakon/2001/962",
+   "short": "Zakon o izmjeni Zakona o mirovinskom osiguranju",
+   "title": "Zakon o izmjeni Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/962",
+   "versions": [
+    {
+     "from": "2001-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_962.html",
+     "sha256": "dcb95d6d70ad7a8a2d3d1f9152cd4b72b16c0f96297172b0da44bb5b265274ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-964",
+   "path": "zakon/2001/964",
+   "short": "Zakon o izmjeni Zakona o područjima i sjedištima sudova",
+   "title": "Zakon o izmjeni Zakona o područjima i sjedištima sudova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/964",
+   "versions": [
+    {
+     "from": "2001-07-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_964.html",
+     "sha256": "c2135fc8e0ffbfcccff2a5bd0e622977a9b11897f5730416a902a50d12912205"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-965",
+   "path": "zakon/2001/965",
+   "short": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/965",
+   "versions": [
+    {
+     "from": "2001-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_965.html",
+     "sha256": "d4d837159e656371ea03d441cdb534a98f0751b76afafc2013fe9e0cb578c2fd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-966",
+   "path": "zakon/2001/966",
+   "short": "Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/966",
+   "versions": [
+    {
+     "from": "2001-06-30",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_966.html",
+     "sha256": "c5c9f23d683e29c7f150d07c5bf1aec80d194d1c8e6aaa0a8b9525b163632752"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-968",
+   "path": "zakon/2001/968",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/968",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "units": 80,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_968.html",
+     "sha256": "341164e69c2003566651c54cbc93bf2b8251be67ea4fd8d2b951a910174eb51b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-973",
+   "path": "zakon/2001/973",
+   "short": "Zakon o izmjeni i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu",
+   "title": "Zakon o izmjeni i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/973",
+   "versions": [
+    {
+     "from": "2001-06-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2001_06_59_973.html",
+     "sha256": "3dfd6ee067e4f9cd4cc3f6d87bf060bf05b68148814ca0103f384b1d1ab36ff2"
     }
    ]
   },
@@ -34903,6 +37483,186 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_04_47_930.html",
      "sha256": "9facb62f0286e73e724574736e4990a1e14144306d944d225fac2b04687dbc60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1059",
+   "path": "zakon/2002/1059",
+   "short": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/58/1059",
+   "versions": [
+    {
+     "from": "2002-05-21",
+     "units": 196,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_05_58_1059.html",
+     "sha256": "c0d106ff972e0d094bf001a1555e405ca2a36a29be652cfd4070f51c39a2983a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1103",
+   "path": "zakon/2002/1103",
+   "short": "Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/64/1103",
+   "versions": [
+    {
+     "from": "2002-06-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_64_1103.html",
+     "sha256": "6f6ceaf9e3e99f114315d0e2fc306a81d33cbf9f8e0179de1b0b1ae1cf50ff8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1115",
+   "path": "zakon/2002/1115",
+   "short": "Odluka o izmjenama i dopunama Zakona o lukama unutarnjih voda",
+   "title": "Odluka o izmjenama i dopunama Zakona o lukama unutarnjih voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/65/1115",
+   "versions": [
+    {
+     "from": "2002-06-13",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_65_1115.html",
+     "sha256": "ed7e4b3a191465548b77d9b6ce9391a75ee85ef0b951539d18196de09dda4ccd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1116",
+   "path": "zakon/2002/1116",
+   "short": "Zakon o dopuni Zakona o javnim cestama",
+   "title": "Zakon o dopuni Zakona o javnim cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/65/1116",
+   "versions": [
+    {
+     "from": "2002-06-13",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_65_1116.html",
+     "sha256": "41e0fe35973e6cb170c071b9388fd2c6a3f84515dbb56df9508da7e441ab4718"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1126",
+   "path": "zakon/2002/1126",
+   "short": "Zakon o izmjenama i dopunama Zakona o matičnom broju",
+   "title": "Zakon o izmjenama i dopunama Zakona o matičnom broju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/66/1126",
+   "versions": [
+    {
+     "from": "2002-06-15",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_66_1126.html",
+     "sha256": "d04334f6d8c2b48dff4a2babcc83d8935e6ea78905114aa18055dc3aa15d25c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1127",
+   "path": "zakon/2002/1127",
+   "short": "Zakon o prestanku važenja Zakona o utvrđivanju ratnih i poratnih žrtava II. svjetskog rata",
+   "title": "Zakon o prestanku važenja Zakona o utvrđivanju ratnih i poratnih žrtava II. svjetskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/66/1127",
+   "versions": [
+    {
+     "from": "2002-06-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_06_66_1127.html",
+     "sha256": "f902a05752b3f1a470233f0e83d095a8772d050768bd7db9948adc53e87737bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1271",
+   "path": "zakon/2002/1271",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1271",
+   "versions": [
+    {
+     "from": "2002-07-03",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_79_1271.html",
+     "sha256": "0c972f1ac78240d9f3484275ca1aa814f6ab1e9ad81b61bbdd79de01cecc9dd5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1272",
+   "path": "zakon/2002/1272",
+   "short": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "title": "Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/79/1272",
+   "versions": [
+    {
+     "from": "2002-07-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_79_1272.html",
+     "sha256": "cb8d5a39b31b040902eae4c485e246fd3d736ac6ed943d5bdd99e835ba00e280"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1292",
+   "path": "zakon/2002/1292",
+   "short": "Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine",
+   "title": "Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/80/1292",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_80_1292.html",
+     "sha256": "fbda012a5c03a8cb94e2ff4b853c7d457d3c42d3786b4dcb09286fa74a6ba251"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1359",
+   "path": "zakon/2002/1359",
+   "short": "Zakon o pravnom položaju vjerskih zajednica",
+   "title": "Zakon o pravnom položaju vjerskih zajednica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1359",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1359.html",
+     "sha256": "2721888136b9f6278454a6a926d4d483c0694bc2336b037ee75b615116666a35"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1360",
+   "path": "zakon/2002/1360",
+   "short": "Zakon o priređivanju igara na sreću i nagradnih igara",
+   "title": "Zakon o priređivanju igara na sreću i nagradnih igara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1360",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 82,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1360.html",
+     "sha256": "9337ac34489456af66e4c6c62580b201bc70f464c2012d03b0ec173ef27d4a96"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-1361",
+   "path": "zakon/2002/1361",
+   "short": "Zakon o osnivanju Sveučilišta u Zadru",
+   "title": "Zakon o osnivanju Sveučilišta u Zadru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/83/1361",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2002_07_83_1361.html",
+     "sha256": "a983bd5d771755ff549f1cbd2d425f3df02dea24b3ccfac1d6769ac7da60b2a8"
     }
    ]
   },
@@ -58498,6 +61258,1746 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_105_2040.html",
      "sha256": "e4393b39ed969d226fa9358f0bb782471b49f7b50748fc578524e5d5553a7361"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2041",
+   "path": "uredba/2004/2041",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Grohote",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Grohote",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/105/2041",
+   "versions": [
+    {
+     "from": "2004-08-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_105_2041.html",
+     "sha256": "bf1d99f576fb21228df0887baa9dc26e7c0f575a743770a6c1552748584b6314"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2058",
+   "path": "uredba/2004/2058",
+   "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu",
+   "title": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/106/2058",
+   "versions": [
+    {
+     "from": "2004-07-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_106_2058.html",
+     "sha256": "4af1c0fa971e829348088dde9ad12b55d5ca60a4f3deb828fb7de3d17004d624"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2059",
+   "path": "uredba/2004/2059",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/106/2059",
+   "versions": [
+    {
+     "from": "2004-08-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_07_106_2059.html",
+     "sha256": "eb2e221d66f6257acbae14a563daa0c46a6f393a3162ee70c6ebd7e66c6c8b0b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2099",
+   "path": "uredba/2004/2099",
+   "short": "Uredba o dopuni Zakona o komunalnom gospodarstvu",
+   "title": "Uredba o dopuni Zakona o komunalnom gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2099",
+   "versions": [
+    {
+     "from": "2004-08-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2099.html",
+     "sha256": "0f9c36922b4fa2bc6dc4268883443596c5959d5d87bf94e9976e1dfabb4a9cb2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-21",
+   "path": "uredba/2004/21",
+   "short": "Uredba o prestanku rada Ureda za državnu imovinu",
+   "title": "Uredba o prestanku rada Ureda za državnu imovinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/2/21",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_2_21.html",
+     "sha256": "3f798bd2a9cab1d1966267ce280322d142b0c0f779c5a600365a79cbea6ebbd2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2100",
+   "path": "uredba/2004/2100",
+   "short": "Uredba o uvjetima kojima moraju udovoljavati luke",
+   "title": "Uredba o uvjetima kojima moraju udovoljavati luke",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2100",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2100.html",
+     "sha256": "ecb01ff1ede2d6f2be1953b35a8b9d0720f4919d76dad95c3d2aa8859d21d323"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2101",
+   "path": "uredba/2004/2101",
+   "short": "Uredba o razvrstaju luka otvorenih za javni promet i luka posebne namjene",
+   "title": "Uredba o razvrstaju luka otvorenih za javni promet i luka posebne namjene",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2101",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2101.html",
+     "sha256": "60c8a76b95a0a81a49058e9344d88ec3b8faa266f09837c97f94b402e99a6363"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2102",
+   "path": "uredba/2004/2102",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu od zračenja",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu od zračenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2102",
+   "versions": [
+    {
+     "from": "2004-08-11",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2102.html",
+     "sha256": "952e17ad2567c4cd51f881db99220163e7cf8267e09d93c848be95a70763b2fc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2103",
+   "path": "uredba/2004/2103",
+   "short": "Uredba o izmjeni Tarife Zakona o upravnim pristojbama",
+   "title": "Uredba o izmjeni Tarife Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2103",
+   "versions": [
+    {
+     "from": "2004-08-11",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2103.html",
+     "sha256": "1aef1cb0f2f4c7702d7a9d54e9f4f8490c7fbfd2e89736d6c18f1f98f2db9dd4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2104",
+   "path": "uredba/2004/2104",
+   "short": "Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena",
+   "title": "Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2104",
+   "versions": [
+    {
+     "from": "2004-08-19",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2104.html",
+     "sha256": "de8c880a4d3c0b2d4fcaacf993735437ffd4cec893ecff592e1ee95458fd7c5d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2105",
+   "path": "uredba/2004/2105",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/110/2105",
+   "versions": [
+    {
+     "from": "2004-08-11",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_110_2105.html",
+     "sha256": "36a3b566779357921af7819149fcacaf7bad83d989deaf396a2d712fc0391e74"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2186",
+   "path": "uredba/2004/2186",
+   "short": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+   "title": "Uredba o unutarnjem ustrojstvu Državne geodetske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/114/2186",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_08_114_2186.html",
+     "sha256": "2fdaefd9d57b8c183ab7f00f2fb5da933c3dc873e0e94f48383526e20f16f60d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-22",
+   "path": "uredba/2004/22",
+   "short": "Uredba o prestanku rada Savjeta za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima i Ureda za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima",
+   "title": "Uredba o prestanku rada Savjeta za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima i Ureda za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/2/22",
+   "versions": [
+    {
+     "from": "2004-01-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_2_22.html",
+     "sha256": "800e9ea5f4ced505fb60f099ccfd7cc96a3ac002b391fc840d0eeb1cb7c6ce18"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2215",
+   "path": "uredba/2004/2215",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/121/2215",
+   "versions": [
+    {
+     "from": "2004-09-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_121_2215.html",
+     "sha256": "f7937d75ed3a8502ba495e62aa5afdc24e7c50ae275d207a9292055d30b62901"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2216",
+   "path": "uredba/2004/2216",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donja Podstrana",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donja Podstrana",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/121/2216",
+   "versions": [
+    {
+     "from": "2004-09-09",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_121_2216.html",
+     "sha256": "900ae340d3bc8ac09a981ac283bc71801d049bcbf77cc5575d51c2e8960f1271"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2249",
+   "path": "uredba/2004/2249",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/124/2249",
+   "versions": [
+    {
+     "from": "2004-09-06",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_124_2249.html",
+     "sha256": "3b2ab348aaff5d7ba00ef149f2c731be2264ca067ec7dba83087c91fec432fea"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2250",
+   "path": "uredba/2004/2250",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Supetar i k.o. Mirca",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Supetar i k.o. Mirca",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/124/2250",
+   "versions": [
+    {
+     "from": "2004-09-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_124_2250.html",
+     "sha256": "87950ad0e821ec378a18c92d1d937be98ebcab8f5d8ac40751c56776cb853202"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2251",
+   "path": "uredba/2004/2251",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Pula",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Pula",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/124/2251",
+   "versions": [
+    {
+     "from": "2004-09-14",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_124_2251.html",
+     "sha256": "e5452aba2f1d7b92b8c598c82f6794042997a67ad089119e5d40f7f9c4fabe65"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2266",
+   "path": "uredba/2004/2266",
+   "short": "Uredba o izmjenama Uredbe o uredu za protokol Vlade Republike Hrvatske",
+   "title": "Uredba o izmjenama Uredbe o uredu za protokol Vlade Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/126/2266",
+   "versions": [
+    {
+     "from": "2004-09-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_126_2266.html",
+     "sha256": "d303cdaded23e00ceb4d5196c4f507b9be77fbfc125e2f71a70b1f6db75b52c6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2267",
+   "path": "uredba/2004/2267",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nerezine",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nerezine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/126/2267",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_126_2267.html",
+     "sha256": "f54846281b8cf5e4b32e32d6705e38724dee0aedbce34348514dd3aa6d716947"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2268",
+   "path": "uredba/2004/2268",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bilice",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bilice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/126/2268",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_126_2268.html",
+     "sha256": "3412711583330175e76384983edfec062db317a56320334eed2ee227a10e78eb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2269",
+   "path": "uredba/2004/2269",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/126/2269",
+   "versions": [
+    {
+     "from": "2004-09-16",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_126_2269.html",
+     "sha256": "66475c4d1e70c59cf550266faf4193dd2ae771f449720bcefa6446c6df9cf2c8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2291",
+   "path": "uredba/2004/2291",
+   "short": "Uredba o uređenju i zaštiti zaštićenog obalnog područja mora",
+   "title": "Uredba o uređenju i zaštiti zaštićenog obalnog područja mora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/128/2291",
+   "versions": [
+    {
+     "from": "2004-09-13",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_128_2291.html",
+     "sha256": "f8398b9ba55ac54e166d44566f1f44dcb854362586e19bbd0541ea5c8292b1a0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2295",
+   "path": "uredba/2004/2295",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Lubenice",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Lubenice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/129/2295",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_129_2295.html",
+     "sha256": "ceb20fd82f0daa31f12507dd4803a203d36ae6ed3e67c90b264128b108cb42fd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2296",
+   "path": "uredba/2004/2296",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Korita",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Korita",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/129/2296",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_129_2296.html",
+     "sha256": "5e38d87ac2cfc4c312b0e6f16ab27865d58bf8a8c3c4a817dff679a8a60dad73"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2297",
+   "path": "uredba/2004/2297",
+   "short": "Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/129/2297",
+   "versions": [
+    {
+     "from": "2004-09-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_09_129_2297.html",
+     "sha256": "cec548456a58b3c1355cd561148f1d88889b735c415944a621b0bf8f31d8236a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-230",
+   "path": "uredba/2004/230",
+   "short": "Uredba o postupku utvrđivanja granice pomorskog dobra",
+   "title": "Uredba o postupku utvrđivanja granice pomorskog dobra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/8/230",
+   "versions": [
+    {
+     "from": "2004-01-29",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_8_230.html",
+     "sha256": "9f76a7afe8c861fc0711d50f764906770c5eb7f0742a3e78815d383ea9e5195c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-231",
+   "path": "uredba/2004/231",
+   "short": "Uredba o izmjenama i dopunama Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/8/231",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_8_231.html",
+     "sha256": "895a39de6880997c3a84228f035eee8ef62b62afd962d65e8ea1f481801b8cae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-233",
+   "path": "uredba/2004/233",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Agenciji za pravni promet i posredovanje nekretninama",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Agenciji za pravni promet i posredovanje nekretninama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/8/233",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_8_233.html",
+     "sha256": "0267c78e4ba0909f4fcfdd8d95bbf02e1e4b104cb151cae80a3d21be8da6934a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-234",
+   "path": "uredba/2004/234",
+   "short": "Uredba o prestanku rada Ureda Vlade Republike Hrvatske za zatočene i nestale",
+   "title": "Uredba o prestanku rada Ureda Vlade Republike Hrvatske za zatočene i nestale",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/8/234",
+   "versions": [
+    {
+     "from": "2004-01-21",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_8_234.html",
+     "sha256": "d7bbf14182578bd694273d5196417d0c29af6f948acb8bba8e50ded91f9ea05d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2432",
+   "path": "uredba/2004/2432",
+   "short": "Uredba o postupku i načinu utvrđivanja antidampinške i kompenzacijske pristojbe",
+   "title": "Uredba o postupku i načinu utvrđivanja antidampinške i kompenzacijske pristojbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/139/2432",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_139_2432.html",
+     "sha256": "a197627f7fa8f54bab88ed0c1243bd2f57da850354a502a2b67077779dfe057c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2433",
+   "path": "uredba/2004/2433",
+   "short": "Uredba o načinu pohranjivanja i posebnim mjerama tehničke zaštite posebnih kategorija osobnih podataka",
+   "title": "Uredba o načinu pohranjivanja i posebnim mjerama tehničke zaštite posebnih kategorija osobnih podataka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/139/2433",
+   "versions": [
+    {
+     "from": "2004-10-14",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_139_2433.html",
+     "sha256": "b1f68b02069e6594bc184dd6b30642e80580a3d95ccb1d72d767fc823f67dbf0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2477",
+   "path": "uredba/2004/2477",
+   "short": "Uredba o darovima koje prime dužnosnici",
+   "title": "Uredba o darovima koje prime dužnosnici",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2477",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_141_2477.html",
+     "sha256": "eeabe19586fa8a22bafeca45be4fd681434619ebd4bb0b713d2215513eea3df5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2478",
+   "path": "uredba/2004/2478",
+   "short": "Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za sigurno i ekonomično obavljanje granične kontrole",
+   "title": "Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za sigurno i ekonomično obavljanje granične kontrole",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2478",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_141_2478.html",
+     "sha256": "67f5289ccaa5535c63b551959f3e0cf665b56bc6c2a16fd718884620a9153342"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2479",
+   "path": "uredba/2004/2479",
+   "short": "Uredba o izmjenama Tarife upravnih pristojbi iz Zakona o upravnim pristojbama",
+   "title": "Uredba o izmjenama Tarife upravnih pristojbi iz Zakona o upravnim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2479",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_141_2479.html",
+     "sha256": "303fc59577491a5171bb523243912357489040020c116c45ef8738e1fa57f36c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2480",
+   "path": "uredba/2004/2480",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Seget Donji",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Seget Donji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2480",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_141_2480.html",
+     "sha256": "bd1c5c85686a5c58198479bc5262be14dc6df631ae64b35138527d1436bf74a3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2481",
+   "path": "uredba/2004/2481",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Šibenik",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Šibenik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2481",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_141_2481.html",
+     "sha256": "dedf8b6043cad7681a3cd51d2246adf19fa42e36c22f05b6b55f4eb158724caf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2482",
+   "path": "uredba/2004/2482",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2482",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_141_2482.html",
+     "sha256": "fc9eed3d9472e1ff229b0014aef53332cd06887cfda5f93a7265f4406ed9e7ba"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2554",
+   "path": "uredba/2004/2554",
+   "short": "Uredba o djelokrugu, sadržaju i nositelju poslova certificiranja elektroničkih potpisa za tijela državne uprave",
+   "title": "Uredba o djelokrugu, sadržaju i nositelju poslova certificiranja elektroničkih potpisa za tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/146/2554",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_146_2554.html",
+     "sha256": "c84320e328f1b995f6b4379be5120a78457958a59c4f4d24f9a4a7f584ee19c3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2555",
+   "path": "uredba/2004/2555",
+   "short": "Uredba o izmjeni Uredbe o raspodjeli carinskih kvota za poljoprivredno-prehrambene proizvode podrijetlom iz zemalja Članica Svjetske trgovinske organizacije i zemalja s kojima je Republika Hrvatska sklopila Ugovor o slobodnoj trgovini i Sporazum o stabilizaciji i pridruŽivanju",
+   "title": "Uredba o izmjeni Uredbe o raspodjeli carinskih kvota za poljoprivredno-prehrambene proizvode podrijetlom iz zemalja Članica Svjetske trgovinske organizacije i zemalja s kojima je Republika Hrvatska sklopila Ugovor o slobodnoj trgovini i Sporazum o stabilizaciji i pridruŽivanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/146/2555",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_146_2555.html",
+     "sha256": "a8939473cd014997e1b01ac4b4474f3f8c8c4484e8ea06e91505ebb2066fbcdd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2556",
+   "path": "uredba/2004/2556",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pakoštane",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pakoštane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/146/2556",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_146_2556.html",
+     "sha256": "08a4ace1d45e32bece1190bbf095b07a1ff70607c7a7cd35d72774eec21b2145"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2557",
+   "path": "uredba/2004/2557",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/146/2557",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_10_146_2557.html",
+     "sha256": "a3da5588b81dfd96b661b2f680e4127c4e7205e36de5db620e0aa86fa0f345fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2673",
+   "path": "uredba/2004/2673",
+   "short": "Uredba o visini najviših dopuštenih ugovornih kamatnih stopa",
+   "title": "Uredba o visini najviših dopuštenih ugovornih kamatnih stopa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/153/2673",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_153_2673.html",
+     "sha256": "addf129c1064c84eafd706a1d5b0051c5318cd60983fa81f8c3fa15d2a8d318a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2674",
+   "path": "uredba/2004/2674",
+   "short": "Uredba o visini stope zatezne kamate",
+   "title": "Uredba o visini stope zatezne kamate",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/153/2674",
+   "versions": [
+    {
+     "from": "2004-11-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_153_2674.html",
+     "sha256": "b0d1145d095ec480d2cb4702bfdc2b4925e2560bf9470b587b1a9b984893a829"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2680",
+   "path": "uredba/2004/2680",
+   "short": "Uredba o osnivanju Hrvatskog zavoda za norme",
+   "title": "Uredba o osnivanju Hrvatskog zavoda za norme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2680",
+   "versions": [
+    {
+     "from": "2004-11-13",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_154_2680.html",
+     "sha256": "0f8572f2a3eccf92056b29ebec739dce6b5682b1a525dc9e8546ab14f16ebfa2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2681",
+   "path": "uredba/2004/2681",
+   "short": "Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Državnoga hidrometeorološkog zavoda",
+   "title": "Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Državnoga hidrometeorološkog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/154/2681",
+   "versions": [
+    {
+     "from": "2004-11-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_154_2681.html",
+     "sha256": "c9971ad32ef178e88c87cf32ad58c6c0ff59503e401fb78437d1fab8589e4589"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2748",
+   "path": "uredba/2004/2748",
+   "short": "Uredba o osnivanju Hrvatske akreditacijske agencije",
+   "title": "Uredba o osnivanju Hrvatske akreditacijske agencije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/158/2748",
+   "versions": [
+    {
+     "from": "2004-11-23",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_158_2748.html",
+     "sha256": "158c57c8444b64ed1742997f132063077c5353b35612a181cf49c062fe2af336"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2749",
+   "path": "uredba/2004/2749",
+   "short": "Uredba o skupnom izuzeću sporazuma između poduzetnika koji djeluju na istoj razini proizvodnje, odnosno distribucije",
+   "title": "Uredba o skupnom izuzeću sporazuma između poduzetnika koji djeluju na istoj razini proizvodnje, odnosno distribucije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/158/2749",
+   "versions": [
+    {
+     "from": "2004-11-23",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_158_2749.html",
+     "sha256": "daa7de5463288c2756a0543ca66b40e7cf5ad9ccb9ba20c50bc3fd56baa64193"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2760",
+   "path": "uredba/2004/2760",
+   "short": "Uredba o izmjenama i dopunama Uredbe o kakvoći tekućih naftnih goriva",
+   "title": "Uredba o izmjenama i dopunama Uredbe o kakvoći tekućih naftnih goriva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/159/2760",
+   "versions": [
+    {
+     "from": "2004-11-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_159_2760.html",
+     "sha256": "13928beaf2faceb2aefbfd68ff2cef066e9e14606a574f0f97afba9a4ae8f21b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2761",
+   "path": "uredba/2004/2761",
+   "short": "Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Središnjega državnog ureda za Hrvatsku",
+   "title": "Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Središnjega državnog ureda za Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/159/2761",
+   "versions": [
+    {
+     "from": "2004-11-17",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_159_2761.html",
+     "sha256": "2ed531e571f32b8925dd8f0ff7a0993b97b30c756b9cd4c424822b14d54cce29"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2837",
+   "path": "uredba/2004/2837",
+   "short": "Uredba o prestanku važenja Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o prestanku važenja Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/162/2837",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_162_2837.html",
+     "sha256": "fbc0c212f986a0818162e09ea48d72d0550a550c21f770cc1577bf56ff8474c5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2910",
+   "path": "uredba/2004/2910",
+   "short": "Uredba o carinskoj tarifi za 2005. godinu",
+   "title": "Uredba o carinskoj tarifi za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/165/2910",
+   "versions": [
+    {
+     "from": "2004-11-27",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_165_2910.html",
+     "sha256": "aa24b8e87e4bca1fd9683e8a183fabb19e8e0ef2ce93386343d8f1f6617f4c31"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2911",
+   "path": "uredba/2004/2911",
+   "short": "Uredba o računanju vremena u 2005. godini",
+   "title": "Uredba o računanju vremena u 2005. godini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/166/2911",
+   "versions": [
+    {
+     "from": "2004-12-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_166_2911.html",
+     "sha256": "d450b9854278d588c1d30b39b17ee34eaf2829f27fe72ab07411873d4f830730"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2926",
+   "path": "uredba/2004/2926",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za nuklearnu sigurnost",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog zavoda za nuklearnu sigurnost",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2926",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_167_2926.html",
+     "sha256": "4a98bd5d3c62bde2e545d4bb91285b2c708df5c24e532ba47e281505bde72478"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2927",
+   "path": "uredba/2004/2927",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državne geodetske uprave",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državne geodetske uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2927",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_167_2927.html",
+     "sha256": "37bf2f5e971862c18772465c3cc4cc76ac4bcac7ace76de2bde94fd26a070eca"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2928",
+   "path": "uredba/2004/2928",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2928",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_167_2928.html",
+     "sha256": "5e8a2ec39a0044e60e65b1b6e8855740a66a457d0eb14ef2a05b56ea92608182"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2929",
+   "path": "uredba/2004/2929",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Makarska",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Makarska",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2929",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_167_2929.html",
+     "sha256": "7a2e0a02885ae4d1069e7afe31534a9c864f9bd23a7240e413e46dfe84d6e5a2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-2930",
+   "path": "uredba/2004/2930",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Selo Gornje",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k. o. Selo Gornje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/167/2930",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_11_167_2930.html",
+     "sha256": "dea3153ee902c1050255ca479f56fe7031dc4d2d15f992b05c2c017990c9334b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3020",
+   "path": "uredba/2004/3020",
+   "short": "Uredba o osnivanju Lučke uprave Šibenik",
+   "title": "Uredba o osnivanju Lučke uprave Šibenik",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/174/3020",
+   "versions": [
+    {
+     "from": "2004-12-10",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_174_3020.html",
+     "sha256": "e49f461fb104c3d2aada31e693256c967f61943566878bdf897485f097a301d3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3045",
+   "path": "uredba/2004/3045",
+   "short": "Uredba o izmjeni Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata",
+   "title": "Uredba o izmjeni Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/176/3045",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_176_3045.html",
+     "sha256": "f7477bc0f1d9763979def98c360898d5842b9d266b4674be1d10648261c099b8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3046",
+   "path": "uredba/2004/3046",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poreč",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poreč",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/176/3046",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_176_3046.html",
+     "sha256": "e226a0e875cfe0afd93d922d11250f5bbe8b2118bed48a9f912644aa9f03a2c6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3047",
+   "path": "uredba/2004/3047",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/176/3047",
+   "versions": [
+    {
+     "from": "2004-12-22",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_176_3047.html",
+     "sha256": "4c10c089818e6c8287ab463893e54c14bf4e50730f77761ced46eb8e2c5b1024"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3096",
+   "path": "uredba/2004/3096",
+   "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva kulture",
+   "title": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/179/3096",
+   "versions": [
+    {
+     "from": "2004-12-17",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_179_3096.html",
+     "sha256": "d3b959162681864cfdccd1281259e87bb5c08285529bad8459c566a382cd46d8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-312",
+   "path": "uredba/2004/312",
+   "short": "Uredba o uvođenju izvozne carine za pšenično brašno",
+   "title": "Uredba o uvođenju izvozne carine za pšenično brašno",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/10/312",
+   "versions": [
+    {
+     "from": "2004-02-03",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_10_312.html",
+     "sha256": "c88c80fc53142b8c62c28e97c89ef5a18cef28d6997ba8da431a02a1f91912e5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-313",
+   "path": "uredba/2004/313",
+   "short": "Uredba o izmjenama i dopuni Uredbe o osnivanju Hrvatskog centra za razminiranje",
+   "title": "Uredba o izmjenama i dopuni Uredbe o osnivanju Hrvatskog centra za razminiranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/10/313",
+   "versions": [
+    {
+     "from": "2004-01-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_10_313.html",
+     "sha256": "3a64441dffc9e2a1ccbe9295ebe03764ab80dbce3a47b21dece73f5bb3329a4b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3144",
+   "path": "uredba/2004/3144",
+   "short": "Uredba o izmjeni Zakona o strancima",
+   "title": "Uredba o izmjeni Zakona o strancima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/182/3144",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_182_3144.html",
+     "sha256": "d577fdcb4de50a56039fc4e8a4e8a5d13fbc59fc998574d876f2c82f393d6486"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3185",
+   "path": "uredba/2004/3185",
+   "short": "Uredba o izmjenama i dopunama Uredbe o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske",
+   "title": "Uredba o izmjenama i dopunama Uredbe o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/185/3185",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_185_3185.html",
+     "sha256": "7b8c21460d192afbc2f702f57e9ad984e5280ad6057060395ca5e1a469903cd4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3186",
+   "path": "uredba/2004/3186",
+   "short": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2005. godinu",
+   "title": "Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/185/3186",
+   "versions": [
+    {
+     "from": "2004-12-27",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_185_3186.html",
+     "sha256": "c441f7d71c9b984f6480deb16f3af2f82f7ea6c8311f1c8bef3968c22c5e99db"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-319",
+   "path": "uredba/2004/319",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/319",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_319.html",
+     "sha256": "84c70ab650399bb13d1796f31cbe9530afcf8c9d8845c326c197351a79e0cd88"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3199",
+   "path": "uredba/2004/3199",
+   "short": "Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3199",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_187_3199.html",
+     "sha256": "5561cb0d7908e4892a29a7f302da1cb04e3940ea4df45751d58ad13b5b0ae6f0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-320",
+   "path": "uredba/2004/320",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/320",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_320.html",
+     "sha256": "047e4c2a3bf8e32627284159bd3285201f604f65a4ca87722ba9bb18c6fa1a40"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3200",
+   "path": "uredba/2004/3200",
+   "short": "Uredba o izmjeni Zakona o izmjenama i dopunama Stečajnog zakona",
+   "title": "Uredba o izmjeni Zakona o izmjenama i dopunama Stečajnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3200",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_187_3200.html",
+     "sha256": "c0d0d15dfcedaf30e489252a2924319e81cbfed14fc6e2f176d4ea97a634120c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3201",
+   "path": "uredba/2004/3201",
+   "short": "Uredba o izmjenama Zakona o kemikalijama",
+   "title": "Uredba o izmjenama Zakona o kemikalijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3201",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_187_3201.html",
+     "sha256": "99a1b97a8afe335ca04bc9d2a2d50419520d3f28652e555ef7169f00247d9a2a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3202",
+   "path": "uredba/2004/3202",
+   "short": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2005. godinu",
+   "title": "Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2005. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3202",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_187_3202.html",
+     "sha256": "b74c49bf2a0b4146c0d4a06ee9af70d9b10e8a89cfb9e60d3d9c94683264bf69"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3203",
+   "path": "uredba/2004/3203",
+   "short": "Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika",
+   "title": "Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3203",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_187_3203.html",
+     "sha256": "abf1618867f7ac48a6371a80f32eb1deab8a7ebf899d19f0c88f3d090e18fef4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3204",
+   "path": "uredba/2004/3204",
+   "short": "Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo",
+   "title": "Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/187/3204",
+   "versions": [
+    {
+     "from": "2005-01-06",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_187_3204.html",
+     "sha256": "ac9ee2533a02dfc29e9b902aacb01f744c1d6b49cd3392de82c6fd3dc5faa2db"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-321",
+   "path": "uredba/2004/321",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvojnu strategiju",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvojnu strategiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/321",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_321.html",
+     "sha256": "ee32d423bcb8293f2be364ec3a26a0945ec5374ef7511dd2f113afc8133a6bcd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-322",
+   "path": "uredba/2004/322",
+   "short": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za e-Hrvatsku",
+   "title": "Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za e-Hrvatsku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/322",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_322.html",
+     "sha256": "4e869f7b6393ff8f36f7d765a846364733d72fc86b38985c8d0de9dcd23e52a2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-323",
+   "path": "uredba/2004/323",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stinica",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stinica",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/323",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_323.html",
+     "sha256": "25ae1a4bf6b3b12a6690a76e8428b2fb100a01caa7611c3721859aeeab8e7ea7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-324",
+   "path": "uredba/2004/324",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Žedno",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Žedno",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/324",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_324.html",
+     "sha256": "6fdaf91f5f20b51fbca99092db8b29f7248fa8c5f450ba293296ee2f87e93e67"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-3241",
+   "path": "uredba/2004/3241",
+   "short": "Uredba o izmjeni zakona o reviziji pretvorbe i privatizacije",
+   "title": "Uredba o izmjeni zakona o reviziji pretvorbe i privatizacije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/189/3241",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_12_189_3241.html",
+     "sha256": "656e43cb385441d096444e92c8b1171f5ff440519355882c7f747a071a5367cc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-325",
+   "path": "uredba/2004/325",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poljane",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poljane",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/325",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_325.html",
+     "sha256": "8a307735163120170cc63307707a10cc5604c7c0e36f9247a6647b545581f80d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-326",
+   "path": "uredba/2004/326",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/326",
+   "versions": [
+    {
+     "from": "2004-02-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_326.html",
+     "sha256": "aa525d865eaeb8af7e08d69b60bd4ac731356d3ac72e0341e273949c064adf74"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-327",
+   "path": "uredba/2004/327",
+   "short": "Uredba o izmjenama i dopunama Uredbe o utvrđivanju poslova protuobavještajne zaštite i osiguranja određenih osoba, objekata i prostora",
+   "title": "Uredba o izmjenama i dopunama Uredbe o utvrđivanju poslova protuobavještajne zaštite i osiguranja određenih osoba, objekata i prostora",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/327",
+   "versions": [
+    {
+     "from": "2004-01-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_01_11_327.html",
+     "sha256": "44504cca6883be8524c70edde9f46a4489d5b83fa7fe43768aa9c8551a66b898"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-473",
+   "path": "uredba/2004/473",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva kulture",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva kulture",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/16/473",
+   "versions": [
+    {
+     "from": "2004-02-06",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_16_473.html",
+     "sha256": "a9318a62b8f4a8400d6d3f2780940f1690496e543209a789346250a43c33d8d3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-474",
+   "path": "uredba/2004/474",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/16/474",
+   "versions": [
+    {
+     "from": "2004-02-06",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_16_474.html",
+     "sha256": "ac9a0dab5314e401fb60491674a6a74a441fb728916fb12db29a785d2db52d68"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-489",
+   "path": "uredba/2004/489",
+   "short": "Uredba o prestanku rada Ureda za suradnju s međunarodnim institucijama u Republici Hrvatskoj",
+   "title": "Uredba o prestanku rada Ureda za suradnju s međunarodnim institucijama u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/17/489",
+   "versions": [
+    {
+     "from": "2004-02-09",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_17_489.html",
+     "sha256": "18d8a9d1c5c0c6b3e092392a4aa20bcc396c5c9166d9806158125620000603c4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-492",
+   "path": "uredba/2004/492",
+   "short": "Uredba o Uredu za ravnopravnost spolova",
+   "title": "Uredba o Uredu za ravnopravnost spolova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/18/492",
+   "versions": [
+    {
+     "from": "2004-02-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_18_492.html",
+     "sha256": "38fee583d775f2558d33fd743289878101e622a498c9ac377a54197a6214b6d6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-560",
+   "path": "uredba/2004/560",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/560",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_560.html",
+     "sha256": "fb53abab3ae6af6ca5ba6c5a5676d3d799823cae70d3dd4eb35561bf129b5139"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-561",
+   "path": "uredba/2004/561",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jezera",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jezera",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/561",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_561.html",
+     "sha256": "a35e5ca32051abe4a288cb61c30be7b5fcdfff9fa0d134b45178e3a2c044ec1f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-562",
+   "path": "uredba/2004/562",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Okrug",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Okrug",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/562",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_562.html",
+     "sha256": "e705b3f98ead1e94561b235912610db69d51d7be57e77e6e06e7e32814702def"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-563",
+   "path": "uredba/2004/563",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/563",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_563.html",
+     "sha256": "7a8bcfe8717fd21deb90dcf89bcecff797b37422cd51fe5df3f265dc8ebf2cb7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-564",
+   "path": "uredba/2004/564",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/564",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_564.html",
+     "sha256": "2355ea078789806c393b1a3f93e9d04a8ae63588b1aae0d440e3a1ec10dca145"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-565",
+   "path": "uredba/2004/565",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/565",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_565.html",
+     "sha256": "c34e8500deac9f9a511946ff6d866e3aa7eda4639c721c99e4cf9b60fb6ce87a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-566",
+   "path": "uredba/2004/566",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/566",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_566.html",
+     "sha256": "daa19baddaaf10accabf4dd9667dea7980fb7656c360b568e0d9f109565b0ccd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-567",
+   "path": "uredba/2004/567",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/567",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_567.html",
+     "sha256": "b70d2a9d3b26eee8eef3259abe8081c4bf450f4ce8727614ebe4000e6de02562"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-568",
+   "path": "uredba/2004/568",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/568",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_568.html",
+     "sha256": "ac7fa2e4c72a0a1be9e6cec5142b21409d25c2264b7776c0e7622bbc7db16185"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-569",
+   "path": "uredba/2004/569",
+   "short": "Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/569",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_569.html",
+     "sha256": "43ec3fda26f318c083bcbd8f56e414a2469b6de067f78a41674d296ce4edb353"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-570",
+   "path": "uredba/2004/570",
+   "short": "Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika",
+   "title": "Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/570",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_570.html",
+     "sha256": "b894a52255b155f391985d9b02adcf0d1a3c6da83edeeedf9b286267b5514abd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-571",
+   "path": "uredba/2004/571",
+   "short": "Uredba o izmjenama i dopunama Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/571",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_571.html",
+     "sha256": "684e786f9d5d131ef0b3988229b358404038a5a2023f047c90625572a10cfd5c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-572",
+   "path": "uredba/2004/572",
+   "short": "Uredba o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo",
+   "title": "Uredba o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/21/572",
+   "versions": [
+    {
+     "from": "2004-02-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_21_572.html",
+     "sha256": "d614fb5485c7f28aa88d54ec840fd607c709692c01829617c29b016b06a23bc8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-665",
+   "path": "uredba/2004/665",
+   "short": "Uredba o postupku davanja koncesije na pomorskom dobru",
+   "title": "Uredba o postupku davanja koncesije na pomorskom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/23/665",
+   "versions": [
+    {
+     "from": "2004-03-02",
+     "units": 47,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_23_665.html",
+     "sha256": "4052f95fa2d7ccc61a65f2a547933cd5fd6ab89354b190869e32a9a9fa1f19c3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-701",
+   "path": "uredba/2004/701",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/24/701",
+   "versions": [
+    {
+     "from": "2004-02-25",
+     "units": 80,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_24_701.html",
+     "sha256": "585a9979141b0f8e294eb3ed62804e34cda86c2da4dc39bc53e93a5bbe16dc4b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-702",
+   "path": "uredba/2004/702",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva mora, turizma, prometa i razvitka",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva mora, turizma, prometa i razvitka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/24/702",
+   "versions": [
+    {
+     "from": "2004-02-25",
+     "units": 131,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_02_24_702.html",
+     "sha256": "141f5a86c4275aa7131988ccb53e767b18f56ac072e3a3c99fe9d67984276239"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-746",
+   "path": "uredba/2004/746",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kaštel Lukšić",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kaštel Lukšić",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/26/746",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_26_746.html",
+     "sha256": "612c4e89b52238871d4df2179d2e9b500567b673f2a373b55b131e26b78b0a7e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-747",
+   "path": "uredba/2004/747",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/26/747",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_26_747.html",
+     "sha256": "4c0e36550b0280f3addc820c4d27105f22f0cf43bd2f82b038a95c9a104ef741"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-748",
+   "path": "uredba/2004/748",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bakar",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bakar",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/26/748",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_26_748.html",
+     "sha256": "d4d766de277f15c323612e8b99731059736b5df035af4425ef21e149c1c4cb1f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-749",
+   "path": "uredba/2004/749",
+   "short": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krk",
+   "title": "Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krk",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/26/749",
+   "versions": [
+    {
+     "from": "2004-03-09",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_26_749.html",
+     "sha256": "d05bbe91810aaf341c4b411d0cfa7a3dd3c78e688d85dd285c5b97d6e8472c9a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-811",
+   "path": "uredba/2004/811",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i Športa",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i Športa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/29/811",
+   "versions": [
+    {
+     "from": "2004-03-08",
+     "units": 65,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_29_811.html",
+     "sha256": "b4c818363386b54cdc7858c0514d317616b019c45bb2ff61addeabb6ab336849"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-812",
+   "path": "uredba/2004/812",
+   "short": "Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2004. godinu",
+   "title": "Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2004. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/29/812",
+   "versions": [
+    {
+     "from": "2004-03-08",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_29_812.html",
+     "sha256": "2d2ed4c16b9e23b0b51ae161add557e4e5ef34712c86b1b9883d7966db8a63f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-863",
+   "path": "uredba/2004/863",
+   "short": "Uredba o razini genetski modificiranih organizama u proizvodima ispod koje proizvodi koji se stavljaju na tržište ne moraju biti označeni kao proizvodi koji sadrže genetski modificirane organizme",
+   "title": "Uredba o razini genetski modificiranih organizama u proizvodima ispod koje proizvodi koji se stavljaju na tržište ne moraju biti označeni kao proizvodi koji sadrže genetski modificirane organizme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/34/863",
+   "versions": [
+    {
+     "from": "2004-03-17",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_34_863.html",
+     "sha256": "bd5bcef90bbad0314e1a3b3465beaf01d9717063f3b2231907d1a42db5ab52db"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-903",
+   "path": "uredba/2004/903",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/35/903",
+   "versions": [
+    {
+     "from": "2004-03-18",
+     "units": 148,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_35_903.html",
+     "sha256": "d66b5d895e84cca0ac0e28090a433e9d014c28de1077bfddcb572f9aa9dd48dd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-937",
+   "path": "uredba/2004/937",
+   "short": "Uredba o unutarnjem ustrojstvu službe vanjskih poslova",
+   "title": "Uredba o unutarnjem ustrojstvu službe vanjskih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/38/937",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 112,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_38_937.html",
+     "sha256": "987dcd6cf9b7854402ebbc4880e51737e1e9645945bd36e3a3806e9a0270b04f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-938",
+   "path": "uredba/2004/938",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva zdravstva i socijalne skrbi",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva zdravstva i socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/38/938",
+   "versions": [
+    {
+     "from": "2004-03-24",
+     "units": 74,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_38_938.html",
+     "sha256": "3ca2082b9f4e6cf7c7490f93e6db6ecfa5e085eef0ddbd28905e1a391b26ad78"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-939",
+   "path": "uredba/2004/939",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/38/939",
+   "versions": [
+    {
+     "from": "2004-03-24",
+     "units": 94,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_03_38_939.html",
+     "sha256": "193a34193c365ec3aadd70b49a8488096dc231cb0cf8880891aa7d41f2b77c85"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2004-989",
+   "path": "uredba/2004/989",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/42/989",
+   "versions": [
+    {
+     "from": "2004-04-02",
+     "units": 110,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2004_04_42_989.html",
+     "sha256": "5fd21ca4491fc2f93f8e626bde95e8dfd1b9a0a36147fef68b8750ec72eb2854"
     }
    ]
   },

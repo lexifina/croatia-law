@@ -1,6 +1,6 @@
 # Every act in this repository
 
-29496 acts, 29,922 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+29796 acts, 30,222 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (185, of which 25 amending acts)
 
@@ -24064,7 +24064,7 @@
 | Uputa o provedbi Odluke o obveznoj pričuvi | [`uputa/2014/2424/`](uputa/2014/2424/) | repealed, not consolidated | 1 | 2014-11-12 | 2014-11-12 |
 | Uputa za provedbu Odluke o obveznoj pričuvi | [`uputa/2015/2618/`](uputa/2015/2618/) | repealed, not consolidated | 1 | 2016-01-13 | 2016-01-13 |
 
-## uredba (3205, of which 687 amending acts)
+## uredba (3321, of which 709 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -25067,6 +25067,55 @@
 | Uredba o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje posebne naknade za okoliš na vozila na motorni pogon | [`uredba/2004/18/`](uredba/2004/18/) | repealed, not consolidated | 1 | 2004-03-01 | 2004-03-01 |
 | Uredba o prestanku rada Ureda za internetizaciju | [`uredba/2004/19/`](uredba/2004/19/) | in force | 1 | 2004-01-08 | 2004-01-08 |
 | Uredba o prestanku rada Ureda za strategiju razvitka Republike Hrvatske | [`uredba/2004/20/`](uredba/2004/20/) | in force | 1 | 2004-01-08 | 2004-01-08 |
+| Uredba o prestanku rada Ureda za državnu imovinu | [`uredba/2004/21/`](uredba/2004/21/) | in force | 1 | 2004-01-08 | 2004-01-08 |
+| Uredba o prestanku rada Savjeta za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima i Ureda za suradnju s Međunarodnim sudom i međunarodnim kaznenim sudovima | [`uredba/2004/22/`](uredba/2004/22/) | in force | 1 | 2004-01-08 | 2004-01-08 |
+| Uredba o postupku utvrđivanja granice pomorskog dobra | [`uredba/2004/230/`](uredba/2004/230/) | amended, not consolidated | 1 | 2004-01-29 | 2004-01-29 |
+| Uredba o izmjenama i dopunama Uredbe o načelima za unutarnje ustrojstvo tijela državne uprave | [`uredba/2004/231/`](uredba/2004/231/) | amending act | 1 | 2004-01-21 | 2004-01-21 |
+| Uredba o izmjenama i dopunama Uredbe o Agenciji za pravni promet i posredovanje nekretninama | [`uredba/2004/233/`](uredba/2004/233/) | amending act | 1 | 2004-01-21 | 2004-01-21 |
+| Uredba o prestanku rada Ureda Vlade Republike Hrvatske za zatočene i nestale | [`uredba/2004/234/`](uredba/2004/234/) | in force | 1 | 2004-01-21 | 2004-01-21 |
+| Uredba o uvođenju izvozne carine za pšenično brašno | [`uredba/2004/312/`](uredba/2004/312/) | in force | 1 | 2004-02-03 | 2004-02-03 |
+| Uredba o izmjenama i dopuni Uredbe o osnivanju Hrvatskog centra za razminiranje | [`uredba/2004/313/`](uredba/2004/313/) | amending act | 1 | 2004-01-26 | 2004-01-26 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu | [`uredba/2004/319/`](uredba/2004/319/) | amended, not consolidated | 1 | 2004-01-28 | 2004-01-28 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom | [`uredba/2004/320/`](uredba/2004/320/) | amended, not consolidated | 1 | 2004-01-28 | 2004-01-28 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za razvojnu strategiju | [`uredba/2004/321/`](uredba/2004/321/) | repealed, not consolidated | 1 | 2004-02-05 | 2004-02-05 |
+| Uredba o unutarnjem ustrojstvu Središnjeg državnog ureda za e-Hrvatsku | [`uredba/2004/322/`](uredba/2004/322/) | amended, not consolidated | 1 | 2004-01-28 | 2004-01-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Stinica | [`uredba/2004/323/`](uredba/2004/323/) | in force | 1 | 2004-02-05 | 2004-02-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Žedno | [`uredba/2004/324/`](uredba/2004/324/) | in force | 1 | 2004-02-05 | 2004-02-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poljane | [`uredba/2004/325/`](uredba/2004/325/) | in force | 1 | 2004-02-05 | 2004-02-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split | [`uredba/2004/326/`](uredba/2004/326/) | replaced, not consolidated | 1 | 2004-02-05 | 2004-02-05 |
+| Uredba o izmjenama i dopunama Uredbe o utvrđivanju poslova protuobavještajne zaštite i osiguranja određenih osoba, objekata i prostora | [`uredba/2004/327/`](uredba/2004/327/) | amending act | 1 | 2004-01-28 | 2004-01-28 |
+| Uredba o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2004/473/`](uredba/2004/473/) | amended, not consolidated | 1 | 2004-02-06 | 2004-02-06 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zaštite okoliša, prostornog uređenja i graditeljstva | [`uredba/2004/474/`](uredba/2004/474/) | repealed, not consolidated | 1 | 2004-02-06 | 2004-02-06 |
+| Uredba o prestanku rada Ureda za suradnju s međunarodnim institucijama u Republici Hrvatskoj | [`uredba/2004/489/`](uredba/2004/489/) | in force | 1 | 2004-02-09 | 2004-02-09 |
+| Uredba o Uredu za ravnopravnost spolova | [`uredba/2004/492/`](uredba/2004/492/) | amended, not consolidated | 1 | 2004-02-11 | 2004-02-11 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vis | [`uredba/2004/560/`](uredba/2004/560/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Jezera | [`uredba/2004/561/`](uredba/2004/561/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Okrug | [`uredba/2004/562/`](uredba/2004/562/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kampor | [`uredba/2004/563/`](uredba/2004/563/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Zaton | [`uredba/2004/564/`](uredba/2004/564/) | replaced, not consolidated | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Split | [`uredba/2004/565/`](uredba/2004/565/) | replaced, not consolidated | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Milna | [`uredba/2004/566/`](uredba/2004/566/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Sveti Juraj | [`uredba/2004/567/`](uredba/2004/567/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi | [`uredba/2004/568/`](uredba/2004/568/) | amended, not consolidated | 1 | 2004-02-18 | 2004-02-18 |
+| Uredba o dopuni Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju | [`uredba/2004/569/`](uredba/2004/569/) | amending act | 1 | 2004-02-18 | 2004-02-18 |
+| Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika | [`uredba/2004/570/`](uredba/2004/570/) | amending act | 1 | 2004-02-18 | 2004-02-18 |
+| Uredba o izmjenama i dopunama Uredbe o zastupniku Vlade Republike Hrvatske pred Europskim sudom za ljudska prava i o njegovu Uredu | [`uredba/2004/571/`](uredba/2004/571/) | amending act | 1 | 2004-02-18 | 2004-02-18 |
+| Uredba o izmjeni Uredbe o osnivanju Zavoda za sjemenarstvo i rasadničarstvo | [`uredba/2004/572/`](uredba/2004/572/) | in force | 1 | 2004-02-26 | 2004-02-26 |
+| Uredba o postupku davanja koncesije na pomorskom dobru | [`uredba/2004/665/`](uredba/2004/665/) | amended, not consolidated | 1 | 2004-03-02 | 2004-03-02 |
+| Uredba o unutarnjem ustrojstvu Ministarstva gospodarstva, rada i poduzetništva | [`uredba/2004/701/`](uredba/2004/701/) | amended, not consolidated | 1 | 2004-02-25 | 2004-02-25 |
+| Uredba o unutarnjem ustrojstvu Ministarstva mora, turizma, prometa i razvitka | [`uredba/2004/702/`](uredba/2004/702/) | amended, not consolidated | 1 | 2004-02-25 | 2004-02-25 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Kaštel Lukšić | [`uredba/2004/746/`](uredba/2004/746/) | in force | 1 | 2004-03-09 | 2004-03-09 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Lovran | [`uredba/2004/747/`](uredba/2004/747/) | in force | 1 | 2004-03-09 | 2004-03-09 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bakar | [`uredba/2004/748/`](uredba/2004/748/) | in force | 1 | 2004-03-09 | 2004-03-09 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Krk | [`uredba/2004/749/`](uredba/2004/749/) | replaced, not consolidated | 1 | 2004-03-09 | 2004-03-09 |
+| Uredba o unutarnjem ustrojstvu Ministarstva znanosti, obrazovanja i Športa | [`uredba/2004/811/`](uredba/2004/811/) | repealed, not consolidated | 1 | 2004-03-08 | 2004-03-08 |
+| Uredba o izmjenama i dopunama Uredbe o Carinskoj tarifi za 2004. godinu | [`uredba/2004/812/`](uredba/2004/812/) | amending act | 1 | 2004-03-08 | 2004-03-08 |
+| Uredba o razini genetski modificiranih organizama u proizvodima ispod koje proizvodi koji se stavljaju na tržište ne moraju biti označeni kao proizvodi koji sadrže genetski modificirane organizme | [`uredba/2004/863/`](uredba/2004/863/) | repealed, not consolidated | 1 | 2004-03-17 | 2004-03-17 |
+| Uredba o unutarnjem ustrojstvu Ministarstva pravosuđa | [`uredba/2004/903/`](uredba/2004/903/) | amended, not consolidated | 1 | 2004-03-18 | 2004-03-18 |
+| Uredba o unutarnjem ustrojstvu službe vanjskih poslova | [`uredba/2004/937/`](uredba/2004/937/) | repealed, not consolidated | 1 | 2004-04-01 | 2004-04-01 |
+| Uredba o unutarnjem ustrojstvu Ministarstva zdravstva i socijalne skrbi | [`uredba/2004/938/`](uredba/2004/938/) | repealed, not consolidated | 1 | 2004-03-24 | 2004-03-24 |
+| Uredba o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti | [`uredba/2004/939/`](uredba/2004/939/) | amended, not consolidated | 1 | 2004-03-24 | 2004-03-24 |
+| Uredba o unutarnjem ustrojstvu Ministarstva poljoprivrede, šumarstva i vodnoga gospodarstva | [`uredba/2004/989/`](uredba/2004/989/) | amended, not consolidated | 1 | 2004-04-02 | 2004-04-02 |
 | Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2004. godinu | [`uredba/2004/1035/`](uredba/2004/1035/) | cited later, not consolidated | 1 | 2004-04-06 | 2004-04-06 |
 | Uredba o izmjeni Uredbe o uvjetima za dolazak i boravak stranih jahti i brodica namijenjenih športu i razonodi u unutrašnjim morskim vodama i teritorijalnom moru Republike Hrvatske | [`uredba/2004/1086/`](uredba/2004/1086/) | in force | 1 | 2004-04-15 | 2004-04-15 |
 | Uredba o izmjenama Uredbe o osnivanju Fonda za profesionalnu rehabilitaciju i zapošljavanje osoba s invaliditetom | [`uredba/2004/1107/`](uredba/2004/1107/) | in force | 1 | 2004-04-14 | 2004-04-14 |
@@ -25105,6 +25154,73 @@
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Umag | [`uredba/2004/2038/`](uredba/2004/2038/) | in force | 1 | 2004-08-05 | 2004-08-05 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Murter - Betina | [`uredba/2004/2039/`](uredba/2004/2039/) | in force | 1 | 2004-08-05 | 2004-08-05 |
 | Uredba o određivanju granice pomorskog dobra na dijelu k.o. Vodice | [`uredba/2004/2040/`](uredba/2004/2040/) | in force | 1 | 2004-08-05 | 2004-08-05 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Grohote | [`uredba/2004/2041/`](uredba/2004/2041/) | in force | 1 | 2004-08-05 | 2004-08-05 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravu | [`uredba/2004/2058/`](uredba/2004/2058/) | in force | 1 | 2004-07-30 | 2004-07-30 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državnog zavoda za normizaciju i mjeriteljstvo | [`uredba/2004/2059/`](uredba/2004/2059/) | amending act | 1 | 2004-08-07 | 2004-08-07 |
+| Uredba o dopuni Zakona o komunalnom gospodarstvu | [`uredba/2004/2099/`](uredba/2004/2099/) | amending act | 1 | 2004-08-11 | 2004-08-11 |
+| Uredba o uvjetima kojima moraju udovoljavati luke | [`uredba/2004/2100/`](uredba/2004/2100/) | cited later, not consolidated | 1 | 2004-08-19 | 2004-08-19 |
+| Uredba o razvrstaju luka otvorenih za javni promet i luka posebne namjene | [`uredba/2004/2101/`](uredba/2004/2101/) | amended, not consolidated | 1 | 2004-08-19 | 2004-08-19 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za zaštitu od zračenja | [`uredba/2004/2102/`](uredba/2004/2102/) | replaced, not consolidated | 1 | 2004-08-11 | 2004-08-11 |
+| Uredba o izmjeni Tarife Zakona o upravnim pristojbama | [`uredba/2004/2103/`](uredba/2004/2103/) | amended, not consolidated | 1 | 2004-08-11 | 2004-08-11 |
+| Uredba o izmjeni Uredbe o izravnim mjerama kontrole cijena | [`uredba/2004/2104/`](uredba/2004/2104/) | in force | 1 | 2004-08-19 | 2004-08-19 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2004/2105/`](uredba/2004/2105/) | amending act | 1 | 2004-08-11 | 2004-08-11 |
+| Uredba o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2004/2186/`](uredba/2004/2186/) | amended, not consolidated | 1 | 2004-08-18 | 2004-08-18 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Središnjeg državnog ureda za upravljanje državnom imovinom | [`uredba/2004/2215/`](uredba/2004/2215/) | amending act | 1 | 2004-09-01 | 2004-09-01 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Donja Podstrana | [`uredba/2004/2216/`](uredba/2004/2216/) | replaced, not consolidated | 1 | 2004-09-09 | 2004-09-09 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva obitelji, branitelja i međugeneracijske solidarnosti | [`uredba/2004/2249/`](uredba/2004/2249/) | amending act | 1 | 2004-09-06 | 2004-09-06 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Supetar i k.o. Mirca | [`uredba/2004/2250/`](uredba/2004/2250/) | in force | 1 | 2004-09-14 | 2004-09-14 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Pula | [`uredba/2004/2251/`](uredba/2004/2251/) | in force | 1 | 2004-09-14 | 2004-09-14 |
+| Uredba o izmjenama Uredbe o uredu za protokol Vlade Republike Hrvatske | [`uredba/2004/2266/`](uredba/2004/2266/) | in force | 1 | 2004-09-08 | 2004-09-08 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Nerezine | [`uredba/2004/2267/`](uredba/2004/2267/) | in force | 1 | 2004-09-16 | 2004-09-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Bilice | [`uredba/2004/2268/`](uredba/2004/2268/) | replaced, not consolidated | 1 | 2004-09-16 | 2004-09-16 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Omišalj | [`uredba/2004/2269/`](uredba/2004/2269/) | replaced, not consolidated | 1 | 2004-09-16 | 2004-09-16 |
+| Uredba o uređenju i zaštiti zaštićenog obalnog područja mora | [`uredba/2004/2291/`](uredba/2004/2291/) | cited later, not consolidated | 1 | 2004-09-13 | 2004-09-13 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Lubenice | [`uredba/2004/2295/`](uredba/2004/2295/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Korita | [`uredba/2004/2296/`](uredba/2004/2296/) | in force | 1 | 2004-09-23 | 2004-09-23 |
+| Uredba o izmjenama i dopunama Uredbe o uvjetima za obavljanje trgovine na veliko i trgovine s inozemstvom za određenu robu | [`uredba/2004/2297/`](uredba/2004/2297/) | amending act | 1 | 2004-09-23 | 2004-09-23 |
+| Uredba o postupku i načinu utvrđivanja antidampinške i kompenzacijske pristojbe | [`uredba/2004/2432/`](uredba/2004/2432/) | cited later, not consolidated | 1 | 2004-10-14 | 2004-10-14 |
+| Uredba o načinu pohranjivanja i posebnim mjerama tehničke zaštite posebnih kategorija osobnih podataka | [`uredba/2004/2433/`](uredba/2004/2433/) | cited later, not consolidated | 1 | 2004-10-14 | 2004-10-14 |
+| Uredba o darovima koje prime dužnosnici | [`uredba/2004/2477/`](uredba/2004/2477/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Uredba o standardima i uvjetima koje moraju ispunjavati granični prijelazi za sigurno i ekonomično obavljanje granične kontrole | [`uredba/2004/2478/`](uredba/2004/2478/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Uredba o izmjenama Tarife upravnih pristojbi iz Zakona o upravnim pristojbama | [`uredba/2004/2479/`](uredba/2004/2479/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Seget Donji | [`uredba/2004/2480/`](uredba/2004/2480/) | in force | 1 | 2004-10-21 | 2004-10-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Šibenik | [`uredba/2004/2481/`](uredba/2004/2481/) | replaced, not consolidated | 1 | 2004-10-21 | 2004-10-21 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2004/2482/`](uredba/2004/2482/) | replaced, not consolidated | 1 | 2004-10-21 | 2004-10-21 |
+| Uredba o djelokrugu, sadržaju i nositelju poslova certificiranja elektroničkih potpisa za tijela državne uprave | [`uredba/2004/2554/`](uredba/2004/2554/) | cited later, not consolidated | 1 | 2004-10-20 | 2004-10-20 |
+| Uredba o izmjeni Uredbe o raspodjeli carinskih kvota za poljoprivredno-prehrambene proizvode podrijetlom iz zemalja Članica Svjetske trgovinske organizacije i zemalja s kojima je Republika Hrvatska sklopila Ugovor o slobodnoj trgovini i Sporazum o stabilizaciji i pridruŽivanju | [`uredba/2004/2555/`](uredba/2004/2555/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Pakoštane | [`uredba/2004/2556/`](uredba/2004/2556/) | in force | 1 | 2004-10-28 | 2004-10-28 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2004/2557/`](uredba/2004/2557/) | replaced, not consolidated | 1 | 2004-10-28 | 2004-10-28 |
+| Uredba o visini najviših dopuštenih ugovornih kamatnih stopa | [`uredba/2004/2673/`](uredba/2004/2673/) | in force | 1 | 2004-11-03 | 2004-11-03 |
+| Uredba o visini stope zatezne kamate | [`uredba/2004/2674/`](uredba/2004/2674/) | in force | 1 | 2004-11-03 | 2004-11-03 |
+| Uredba o osnivanju Hrvatskog zavoda za norme | [`uredba/2004/2680/`](uredba/2004/2680/) | amended, not consolidated | 1 | 2004-11-13 | 2004-11-13 |
+| Uredba o izmjeni i dopuni Uredbe o unutarnjem ustrojstvu Državnoga hidrometeorološkog zavoda | [`uredba/2004/2681/`](uredba/2004/2681/) | amending act | 1 | 2004-11-05 | 2004-11-05 |
+| Uredba o osnivanju Hrvatske akreditacijske agencije | [`uredba/2004/2748/`](uredba/2004/2748/) | amended, not consolidated | 1 | 2004-11-23 | 2004-11-23 |
+| Uredba o skupnom izuzeću sporazuma između poduzetnika koji djeluju na istoj razini proizvodnje, odnosno distribucije | [`uredba/2004/2749/`](uredba/2004/2749/) | repealed, not consolidated | 1 | 2004-11-23 | 2004-11-23 |
+| Uredba o izmjenama i dopunama Uredbe o kakvoći tekućih naftnih goriva | [`uredba/2004/2760/`](uredba/2004/2760/) | amending act | 1 | 2004-11-17 | 2004-11-17 |
+| Uredba o izmjeni Uredbe o unutarnjem ustrojstvu Središnjega državnog ureda za Hrvatsku | [`uredba/2004/2761/`](uredba/2004/2761/) | in force | 1 | 2004-11-17 | 2004-11-17 |
+| Uredba o prestanku važenja Uredbe o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2004/2837/`](uredba/2004/2837/) | in force | 1 | 2004-11-30 | 2004-11-30 |
+| Uredba o carinskoj tarifi za 2005. godinu | [`uredba/2004/2910/`](uredba/2004/2910/) | amended, not consolidated | 1 | 2004-11-27 | 2004-11-27 |
+| Uredba o računanju vremena u 2005. godini | [`uredba/2004/2911/`](uredba/2004/2911/) | in force | 1 | 2004-12-07 | 2004-12-07 |
+| Uredba o unutarnjem ustrojstvu Državnog zavoda za nuklearnu sigurnost | [`uredba/2004/2926/`](uredba/2004/2926/) | amended, not consolidated | 1 | 2004-11-30 | 2004-11-30 |
+| Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Državne geodetske uprave | [`uredba/2004/2927/`](uredba/2004/2927/) | amending act | 1 | 2004-11-30 | 2004-11-30 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Rogoznica | [`uredba/2004/2928/`](uredba/2004/2928/) | in force | 1 | 2004-12-08 | 2004-12-08 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Makarska | [`uredba/2004/2929/`](uredba/2004/2929/) | in force | 1 | 2004-12-08 | 2004-12-08 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k. o. Selo Gornje | [`uredba/2004/2930/`](uredba/2004/2930/) | in force | 1 | 2004-12-08 | 2004-12-08 |
+| Uredba o osnivanju Lučke uprave Šibenik | [`uredba/2004/3020/`](uredba/2004/3020/) | repealed, not consolidated | 1 | 2004-12-10 | 2004-12-10 |
+| Uredba o izmjeni Uredbe o nadzoru uvoza i izvoza neobrađenih dijamanata | [`uredba/2004/3045/`](uredba/2004/3045/) | in force | 1 | 2004-12-22 | 2004-12-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Poreč | [`uredba/2004/3046/`](uredba/2004/3046/) | in force | 1 | 2004-12-22 | 2004-12-22 |
+| Uredba o određivanju granice pomorskog dobra na dijelu k.o. Rogoznica | [`uredba/2004/3047/`](uredba/2004/3047/) | in force | 1 | 2004-12-22 | 2004-12-22 |
+| Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Ministarstva kulture | [`uredba/2004/3096/`](uredba/2004/3096/) | in force | 1 | 2004-12-17 | 2004-12-17 |
+| Uredba o izmjeni Zakona o strancima | [`uredba/2004/3144/`](uredba/2004/3144/) | in force | 1 | 2005-01-01 | 2005-01-01 |
+| Uredba o izmjenama i dopunama Uredbe o područjima na kojima djeluju carinarnice Carinske uprave Republike Hrvatske | [`uredba/2004/3185/`](uredba/2004/3185/) | amending act | 1 | 2005-01-01 | 2005-01-01 |
+| Uredba o načinu izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2005. godinu | [`uredba/2004/3186/`](uredba/2004/3186/) | amended, not consolidated | 1 | 2004-12-27 | 2004-12-27 |
+| Uredba o dopuni Zakona o obvezama i pravima državnih dužnosnika | [`uredba/2004/3199/`](uredba/2004/3199/) | amending act | 1 | 2004-12-29 | 2004-12-29 |
+| Uredba o izmjeni Zakona o izmjenama i dopunama Stečajnog zakona | [`uredba/2004/3200/`](uredba/2004/3200/) | amending act | 1 | 2004-12-29 | 2004-12-29 |
+| Uredba o izmjenama Zakona o kemikalijama | [`uredba/2004/3201/`](uredba/2004/3201/) | in force | 1 | 2004-12-29 | 2004-12-29 |
+| Uredba o kriterijima za utvrđivanje korisnika i načinu raspodjele dijela prihoda od igara na sreću za 2005. godinu | [`uredba/2004/3202/`](uredba/2004/3202/) | amended, not consolidated | 1 | 2004-12-29 | 2004-12-29 |
+| Uredba o izmjenama i dopunama Uredbe o plaćama policijskih službenika | [`uredba/2004/3203/`](uredba/2004/3203/) | amending act | 1 | 2004-12-29 | 2004-12-29 |
+| Uredba o izmjenama i dopunama Uredbe o naknadama za posebne troškove i troškove za pružanje informacijskih usluga Državnog zavoda za intelektualno vlasništvo | [`uredba/2004/3204/`](uredba/2004/3204/) | amending act | 1 | 2005-01-06 | 2005-01-06 |
+| Uredba o izmjeni zakona o reviziji pretvorbe i privatizacije | [`uredba/2004/3241/`](uredba/2004/3241/) | in force | 1 | 2004-12-31 | 2004-12-31 |
 | Uredba o skupnom izuzeću sporazuma o prijenosu tehnologije | [`uredba/2005/11/`](uredba/2005/11/) | repealed, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Uredba o ograničenjima uporabe radijskih frekvencija | [`uredba/2005/12/`](uredba/2005/12/) | cited later, not consolidated | 1 | 2005-01-12 | 2005-01-12 |
 | Uredba o osnivanju Agencije za strukovno obrazovanje | [`uredba/2005/155/`](uredba/2005/155/) | cited later, not consolidated | 1 | 2005-01-27 | 2005-01-27 |
@@ -27274,7 +27390,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (2259, of which 1342 amending acts)
+## zakon (2443, of which 1427 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -27555,6 +27671,190 @@
 | Zakon o izvršavanju zaštitnog nadzora i rada za opće dobro na slobodi | [`zakon/1999/2023/`](zakon/1999/2023/) | in force | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1999/2024/`](zakon/1999/2024/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
 | Zakon o izmjenama i dopunama Zakona o statusu prognanika i izbjeglica | [`zakon/1999/2025/`](zakon/1999/2025/) | amending act | 1 | 1999-12-08 | 1999-12-08 |
+| Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2000/436/`](zakon/2000/436/) | amending act | 1 | 2000-02-29 | 2000-02-29 |
+| Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2000/437/`](zakon/2000/437/) | amending act | 1 | 2000-02-29 | 2000-02-29 |
+| Zakon o stopama doprinosa za zdravstveno osiguranje | [`zakon/2000/1192/`](zakon/2000/1192/) | repealed, not consolidated | 1 | 2000-06-01 | 2000-06-01 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/2000/1194/`](zakon/2000/1194/) | amending act | 1 | 2000-06-01 | 2000-06-01 |
+| Zakon o izmjenama i dopunama Zakona o obnovi | [`zakon/2000/1260/`](zakon/2000/1260/) | amending act | 1 | 2000-06-17 | 2000-06-17 |
+| Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu | [`zakon/2000/1261/`](zakon/2000/1261/) | amending act | 1 | 2000-06-17 | 2000-06-17 |
+| Zakon o izmjenama i dopunama Zakona o prostornom uređenju | [`zakon/2000/1339/`](zakon/2000/1339/) | amending act | 1 | 2000-07-01 | 2000-07-01 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti sorti poljoprivrednog bilja | [`zakon/2000/1348/`](zakon/2000/1348/) | amending act | 1 | 2000-07-05 | 2000-07-05 |
+| Zakon o dopunama Zakona o plaćanju doprinosa za mirovinsko osiguranje od 1. lipnja do 31. prosinca 2000. godine | [`zakon/2000/1379/`](zakon/2000/1379/) | amending act | 1 | 2000-06-30 | 2000-06-30 |
+| Zakon o izmjenama i dopunama Zakona o obveznim i dobrovoljnim mirovinskim fondovima | [`zakon/2000/1380/`](zakon/2000/1380/) | amending act | 1 | 2000-07-01 | 2000-07-01 |
+| Zakon o izmjenama Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje | [`zakon/2000/1381/`](zakon/2000/1381/) | in force | 1 | 2000-06-30 | 2000-06-30 |
+| Zakon o izmjenama i dopunama Zakona o doplatku za djecu | [`zakon/2000/1407/`](zakon/2000/1407/) | amended, not consolidated | 1 | 2000-07-13 | 2000-07-13 |
+| Zakon o izmjenama i dopunama Zakona o razminiranju | [`zakon/2000/1408/`](zakon/2000/1408/) | amending act | 1 | 2000-07-05 | 2000-07-05 |
+| Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`zakon/2000/1409/`](zakon/2000/1409/) | amended, not consolidated | 1 | 2000-07-05 | 2000-07-05 |
+| Zakon o izmjenama Zakona o Fondu za naknadu oduzete imovine | [`zakon/2000/1410/`](zakon/2000/1410/) | in force | 1 | 2000-07-13 | 2000-07-13 |
+| Zakon o izmjenama i dopunama Zakona o arhivskom gradivu i arhivima | [`zakon/2000/1411/`](zakon/2000/1411/) | amending act | 1 | 2000-07-13 | 2000-07-13 |
+| Zakon o izmjenama Zakona o Hrvatskoj garancijskoj agenciji | [`zakon/2000/1412/`](zakon/2000/1412/) | in force | 1 | 2000-07-05 | 2000-07-05 |
+| Zakon o poticanju ulaganja | [`zakon/2000/1576/`](zakon/2000/1576/) | repealed, not consolidated | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi | [`zakon/2000/1577/`](zakon/2000/1577/) | amended, not consolidated | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o dopuni Zakona o vlasništvu i drugim stvarnim pravima | [`zakon/2000/1578/`](zakon/2000/1578/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjenama i dopuni Zakona o izvršenju sankcija izrečenih za krivična djela, privredne prijestupe i prekršaje | [`zakon/2000/1579/`](zakon/2000/1579/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2000/1580/`](zakon/2000/1580/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu | [`zakon/2000/1581/`](zakon/2000/1581/) | amending act | 1 | 2000-07-21 | 2000-07-21 |
+| Zakon o izmjenama i dopunama Zakona o porezu na dodanu vrijednost | [`zakon/2000/1582/`](zakon/2000/1582/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/2000/1583/`](zakon/2000/1583/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave | [`zakon/2000/1584/`](zakon/2000/1584/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o izmjenama i dopunama Zakona o privatizaciji | [`zakon/2000/1585/`](zakon/2000/1585/) | amending act | 1 | 2000-07-29 | 2000-07-29 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Hrvatskoga državnog sabora | [`zakon/2000/1909/`](zakon/2000/1909/) | repealed, not consolidated | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o povlasticama u unutarnjem putničkom prometu | [`zakon/2000/1910/`](zakon/2000/1910/) | repealed, not consolidated | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o rješavanju potraživanja prema poduzećima i drugim pravnim osobama s područja Republike Hrvatske oslobođenih akcijama "Bljesak" i "Oluja" i područja istočne Hrvatske koja su integrirana u postupku mirne reintegracije | [`zakon/2000/1911/`](zakon/2000/1911/) | in force | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o dopunama Zakona o morskim lukama | [`zakon/2000/1913/`](zakon/2000/1913/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o dopunama Zakona o sanaciji određenih poduzeća | [`zakon/2000/1915/`](zakon/2000/1915/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o izmjeni i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu | [`zakon/2000/1916/`](zakon/2000/1916/) | amending act | 1 | 2000-09-30 | 2000-09-30 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate | [`zakon/2000/1975/`](zakon/2000/1975/) | amending act | 1 | 2000-10-21 | 2000-10-21 |
+| Zakon o izmjeni i dopuni Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/2000/1976/`](zakon/2000/1976/) | amending act | 1 | 2000-10-13 | 2000-10-13 |
+| Zakon o izmjenama i dopunama Zakona o knjižnicama | [`zakon/2000/2040/`](zakon/2000/2040/) | amending act | 1 | 2000-10-28 | 2000-10-28 |
+| Zakon o izmjenama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2000. godinu | [`zakon/2000/2269/`](zakon/2000/2269/) | in force | 1 | 2000-11-28 | 2000-11-28 |
+| Zakon o porezu na dohodak | [`zakon/2000/2355/`](zakon/2000/2355/) | amended, not consolidated | 1 | 2000-12-28 | 2000-12-28 |
+| Zakon o porezu na dobit | [`zakon/2000/2356/`](zakon/2000/2356/) | repealed, not consolidated | 1 | 2000-12-28 | 2000-12-28 |
+| Zakon o povećanju mirovina radi otklanjanja razlika u razini mirovina ostvarenih u različitim razdobljima | [`zakon/2000/2357/`](zakon/2000/2357/) | in force | 1 | 2000-12-28 | 2000-12-28 |
+| Zakon o izmjeni Zakona o mirovinskom osiguranju | [`zakon/2000/2358/`](zakon/2000/2358/) | amended, not consolidated | 1 | 2000-12-20 | 2000-12-20 |
+| Zakon o plaćanju doprinosa za mirovinsko osiguranje u 2001. godini | [`zakon/2000/2359/`](zakon/2000/2359/) | amended, not consolidated | 1 | 2000-12-28 | 2000-12-28 |
+| Zakon o izmjenama i dopuni Zakona o kazalištima | [`zakon/2000/2360/`](zakon/2000/2360/) | amending act | 1 | 2000-12-28 | 2000-12-28 |
+| Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću | [`zakon/2000/2383/`](zakon/2000/2383/) | amending act | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjenama i dopunama Zakona o sudovima | [`zakon/2000/2384/`](zakon/2000/2384/) | amending act | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjenama i dopunama Kaznenog zakona | [`zakon/2000/2385/`](zakon/2000/2385/) | amended, not consolidated | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjenama i dopunama Stečajnog zakona | [`zakon/2000/2386/`](zakon/2000/2386/) | amending act | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjeni Zakona o izvršavanju kazne zatvora | [`zakon/2000/2387/`](zakon/2000/2387/) | amended, not consolidated | 1 | 2000-12-22 | 2000-12-22 |
+| Zakon o izmjenama i dopunama Zakona o visokim učilištima | [`zakon/2000/2388/`](zakon/2000/2388/) | amending act | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti | [`zakon/2000/2389/`](zakon/2000/2389/) | amended, not consolidated | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2000/2390/`](zakon/2000/2390/) | amended, not consolidated | 1 | 2000-12-30 | 2000-12-30 |
+| Zakon o izmjeni Zakona o izmjenama i dopunama Zakona o komunalnom gospodarstvu | [`zakon/2000/2391/`](zakon/2000/2391/) | amending act | 1 | 2000-12-22 | 2000-12-22 |
+| Zakon o izmjenama i dopunama Zakona o stambenoj štednji i državnom poticanju stambene štednje | [`zakon/2001/190/`](zakon/2001/190/) | amending act | 1 | 2001-02-14 | 2001-02-14 |
+| Zakon o ekološkoj proizvodnji poljoprivrednih i prehrambenih proizvoda | [`zakon/2001/222/`](zakon/2001/222/) | repealed, not consolidated | 1 | 2001-02-22 | 2001-02-22 |
+| Zakon o izmjenama i dopunama Zakona o novčanim poticajima i naknadama u poljoprivredi i ribarstvu | [`zakon/2001/223/`](zakon/2001/223/) | amending act | 1 | 2001-02-14 | 2001-02-14 |
+| Zakon o izmjenama i dopunama Zakona o oružju | [`zakon/2001/224/`](zakon/2001/224/) | amended, not consolidated | 1 | 2001-02-22 | 2001-02-22 |
+| Zakon o izmjenama i dopunama Zakona o lovu | [`zakon/2001/262/`](zakon/2001/262/) | amending act | 1 | 2001-03-01 | 2001-03-01 |
+| Zakon o izmjeni Zakona o obrani | [`zakon/2001/283/`](zakon/2001/283/) | in force | 1 | 2001-02-27 | 2001-02-27 |
+| Zakon o izmjenama i dopunama Zakona o pravima iz mirovinskog osiguranja djelatnih vojnih osoba i ovlaštenih službenih osoba | [`zakon/2001/284/`](zakon/2001/284/) | amending act | 1 | 2001-03-07 | 2001-03-07 |
+| Zakon o Hrvatskoj radioteleviziji | [`zakon/2001/308/`](zakon/2001/308/) | amended, not consolidated | 1 | 2001-03-10 | 2001-03-10 |
+| Zakon o izmjenama i dopunama Zakona o radu | [`zakon/2001/309/`](zakon/2001/309/) | amended, not consolidated | 1 | 2001-03-10 | 2001-03-10 |
+| Zakon o izmjenama Zakona o popisu stanovništva, kućanstava i stanova 2001. | [`zakon/2001/392/`](zakon/2001/392/) | in force | 1 | 2001-03-21 | 2001-03-21 |
+| Zakon o izmjenama i dopunama Zakona o spomen-području Jasenovac | [`zakon/2001/393/`](zakon/2001/393/) | amending act | 1 | 2001-03-29 | 2001-03-29 |
+| Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2001/412/`](zakon/2001/412/) | amended, not consolidated | 1 | 2001-06-01 | 2001-06-01 |
+| Zakon o državnim službenicima i namještenicima | [`zakon/2001/471/`](zakon/2001/471/) | amended, not consolidated | 1 | 2001-03-30 | 2001-03-30 |
+| Zakon o plaćama u javnim službama | [`zakon/2001/472/`](zakon/2001/472/) | cited later, not consolidated | 1 | 2001-03-30 | 2001-03-30 |
+| Zakon o izmjeni i dopunama Zakona o socijalnoj skrbi | [`zakon/2001/473/`](zakon/2001/473/) | amending act | 1 | 2001-03-30 | 2001-03-30 |
+| Zakon o izmjeni Zakona o posebnom porezu na naftne derivate | [`zakon/2001/475/`](zakon/2001/475/) | in force | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o izmjenama i dopuni Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2001/524/`](zakon/2001/524/) | amending act | 1 | 2001-04-14 | 2001-04-14 |
+| Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2001/525/`](zakon/2001/525/) | amending act | 1 | 2001-04-06 | 2001-04-06 |
+| Zakon o izmjenama i dopunama Zakona o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`zakon/2001/550/`](zakon/2001/550/) | amending act | 1 | 2001-04-10 | 2001-04-10 |
+| Zakon o lokalnoj i područnoj (regionalnoj) samoupravi | [`zakon/2001/569/`](zakon/2001/569/) | amended, not consolidated | 1 | 2001-04-11 | 2001-04-11 |
+| Zakon o izmjenama Zakona o političkim strankama | [`zakon/2001/634/`](zakon/2001/634/) | in force | 1 | 2001-04-20 | 2001-04-20 |
+| Zakon o državnom odvjetništvu | [`zakon/2001/814/`](zakon/2001/814/) | amended, not consolidated | 1 | 2001-06-14 | 2001-06-14 |
+| Zakon o izmjenama Kaznenog zakona | [`zakon/2001/816/`](zakon/2001/816/) | in force | 1 | 2001-06-14 | 2001-06-14 |
+| Zakon o kulturnim vijećima | [`zakon/2001/844/`](zakon/2001/844/) | repealed, not consolidated | 1 | 2001-06-21 | 2001-06-21 |
+| Zakon o izmjenama i dopunama Zakona o socijalnoj skrbi | [`zakon/2001/960/`](zakon/2001/960/) | amending act | 1 | 2001-06-30 | 2001-06-30 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/2001/961/`](zakon/2001/961/) | amended, not consolidated | 1 | 2001-06-30 | 2001-06-30 |
+| Zakon o izmjeni Zakona o mirovinskom osiguranju | [`zakon/2001/962/`](zakon/2001/962/) | in force | 1 | 2001-06-30 | 2001-06-30 |
+| Zakon o izmjeni Zakona o područjima i sjedištima sudova | [`zakon/2001/964/`](zakon/2001/964/) | in force | 1 | 2001-07-08 | 2001-07-08 |
+| Zakon o dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2001/965/`](zakon/2001/965/) | amending act | 1 | 2001-06-30 | 2001-06-30 |
+| Zakon o dopuni Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2001/966/`](zakon/2001/966/) | amending act | 1 | 2001-06-30 | 2001-06-30 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju kazne zatvora | [`zakon/2001/968/`](zakon/2001/968/) | amended, not consolidated | 1 | 2001-07-01 | 2001-07-01 |
+| Zakon o izmjeni i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu | [`zakon/2001/973/`](zakon/2001/973/) | amending act | 1 | 2001-06-30 | 2001-06-30 |
+| Zakon o Gradu Zagrebu | [`zakon/2001/1001/`](zakon/2001/1001/) | amended, not consolidated | 1 | 2001-07-11 | 2001-07-11 |
+| Zakon o izmjeni i dopunama Zakona o trgovini | [`zakon/2001/1002/`](zakon/2001/1002/) | amending act | 1 | 2001-07-19 | 2001-07-19 |
+| Zakon o Hrvatskom registru o osobama s invaliditetom | [`zakon/2001/1049/`](zakon/2001/1049/) | repealed, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o izmjenama i dopunama Zakona o obrtu | [`zakon/2001/1050/`](zakon/2001/1050/) | amended, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o izmjenama i dopunama Zakona o zakladama i fundacijama | [`zakon/2001/1051/`](zakon/2001/1051/) | amending act | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o poljoprivredi | [`zakon/2001/1083/`](zakon/2001/1083/) | repealed, not consolidated | 1 | 2001-07-28 | 2001-07-28 |
+| Zakon o poljoprivrednom zemljištu | [`zakon/2001/1084/`](zakon/2001/1084/) | amended, not consolidated | 1 | 2001-07-28 | 2001-07-28 |
+| Zakon o carinskoj službi | [`zakon/2001/1097/`](zakon/2001/1097/) | repealed, not consolidated | 1 | 2001-08-23 | 2001-08-23 |
+| Zakon o Poreznoj upravi | [`zakon/2001/1098/`](zakon/2001/1098/) | amended, not consolidated | 1 | 2001-08-01 | 2001-08-01 |
+| Zakon o prestanku važenja Zakona o financijskoj policiji | [`zakon/2001/1099/`](zakon/2001/1099/) | in force | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o izmjenama Zakona o štedno-kreditnim zadrugama | [`zakon/2001/1100/`](zakon/2001/1100/) | in force | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o izmjeni Zakona o autorskom pravu | [`zakon/2001/1101/`](zakon/2001/1101/) | in force | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o izmjenama Zakona o sprječavanju pranja novca | [`zakon/2001/1102/`](zakon/2001/1102/) | amended, not consolidated | 1 | 2001-07-24 | 2001-07-24 |
+| Zakon o energiji | [`zakon/2001/1120/`](zakon/2001/1120/) | amended, not consolidated | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o tržištu električne energije | [`zakon/2001/1121/`](zakon/2001/1121/) | repealed, not consolidated | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o regulaciji energetskih djelatnosti | [`zakon/2001/1122/`](zakon/2001/1122/) | repealed, not consolidated | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o tržištu nafte i naftnih derivata | [`zakon/2001/1123/`](zakon/2001/1123/) | repealed, not consolidated | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o tržištu plina | [`zakon/2001/1124/`](zakon/2001/1124/) | repealed, not consolidated | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o izmjenama i dopunama Zakona o telekomunikacijama | [`zakon/2001/1125/`](zakon/2001/1125/) | amending act | 1 | 2001-08-04 | 2001-08-04 |
+| Zakon o izmjenama i dopunama Zakona o privatizaciji Hrvatskih telekomunikacija d.d. | [`zakon/2001/1126/`](zakon/2001/1126/) | amending act | 1 | 2001-07-27 | 2001-07-27 |
+| Zakon o izmjenama i dopunama Zakona o zdravstvenom osiguranju | [`zakon/2001/1401/`](zakon/2001/1401/) | amended, not consolidated | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o izmjenama i dopunama Zakona o porodnom dopustu majki koje obavljaju samostalnu djelatnost i nezaposlenih majki | [`zakon/2001/1402/`](zakon/2001/1402/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o dopunama Zakona o socijalnoj skrbi | [`zakon/2001/1403/`](zakon/2001/1403/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/2001/1404/`](zakon/2001/1404/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o izmjenama i dopuni Zakona o radu | [`zakon/2001/1405/`](zakon/2001/1405/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o izmjenama i dopunama Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. | [`zakon/2001/1406/`](zakon/2001/1406/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/2001/1407/`](zakon/2001/1407/) | amended, not consolidated | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o dopunama Zakona o najvišoj mirovini | [`zakon/2001/1408/`](zakon/2001/1408/) | amending act | 1 | 2001-09-26 | 2001-09-26 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Hrvatskog sabora | [`zakon/2001/1426/`](zakon/2001/1426/) | repealed, not consolidated | 1 | 2001-09-29 | 2001-09-29 |
+| Zakon o udrugama | [`zakon/2001/1496/`](zakon/2001/1496/) | repealed, not consolidated | 1 | 2001-10-19 | 2001-10-19 |
+| Zakon o Uredu za suzbijanje korupcije i organiziranog kriminala | [`zakon/2001/1497/`](zakon/2001/1497/) | amended, not consolidated | 1 | 2001-10-19 | 2001-10-19 |
+| Zakon o uvjetima za obavljanje poslova zastupanja u carinskom postupku | [`zakon/2001/1564/`](zakon/2001/1564/) | repealed, not consolidated | 1 | 2001-11-01 | 2001-11-01 |
+| Zakon o Hrvatskom crvenom križu | [`zakon/2001/1565/`](zakon/2001/1565/) | replaced, not consolidated | 1 | 2001-11-01 | 2001-11-01 |
+| Zakon o izmjeni i dopunama Carinskog zakona | [`zakon/2001/1566/`](zakon/2001/1566/) | amending act | 1 | 2001-11-01 | 2001-11-01 |
+| Zakon o dopuni Zakona o ugostiteljskoj djelatnosti | [`zakon/2001/1567/`](zakon/2001/1567/) | amended, not consolidated | 1 | 2001-11-01 | 2001-11-01 |
+| Zakon o izmjenama i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2001/1569/`](zakon/2001/1569/) | amended, not consolidated | 1 | 2001-11-01 | 2001-11-01 |
+| Zakon o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji | [`zakon/2001/1586/`](zakon/2001/1586/) | amended, not consolidated | 1 | 2001-11-07 | 2001-11-07 |
+| Zakon o izmjeni Zakona o Poreznoj upravi | [`zakon/2001/1589/`](zakon/2001/1589/) | in force | 1 | 2001-10-30 | 2001-10-30 |
+| Zakon o izmjeni Zakona o područjima posebne državne skrbi | [`zakon/2001/1590/`](zakon/2001/1590/) | in force | 1 | 2001-10-30 | 2001-10-30 |
+| Zakon o izmjenama i dopuni Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 2001. godinu | [`zakon/2001/1610/`](zakon/2001/1610/) | amending act | 1 | 2001-11-02 | 2001-11-02 |
+| Zakon o upravljanju javnim ustanovama u kulturi | [`zakon/2001/1611/`](zakon/2001/1611/) | amended, not consolidated | 1 | 2001-11-15 | 2001-11-15 |
+| Zakon o izmjenama i dopunama Zakona o javnom priopćavanju | [`zakon/2001/1613/`](zakon/2001/1613/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
+| Zakon o izmjenama i dopuni Zakona o blagdanima, spomendanu i neradnim danima u Republici Hrvatskoj | [`zakon/2001/1614/`](zakon/2001/1614/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
+| Zakon o dopuni Zakona o zaštiti osoba i imovine | [`zakon/2001/1615/`](zakon/2001/1615/) | amending act | 1 | 2001-11-15 | 2001-11-15 |
+| Zakon o izmjenama i dopunama Zakona o veterinarstvu | [`zakon/2001/1721/`](zakon/2001/1721/) | amending act | 1 | 2001-12-06 | 2001-12-06 |
+| Zakon o slatkovodnom ribarstvu | [`zakon/2001/1740/`](zakon/2001/1740/) | repealed, not consolidated | 1 | 2001-12-08 | 2001-12-08 |
+| Zakon o Fondu za regionalni razvoj Republike Hrvatske | [`zakon/2001/1757/`](zakon/2001/1757/) | repealed, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
+| Zakon o Fondu za razvoj i zapošljavanje | [`zakon/2001/1758/`](zakon/2001/1758/) | repealed, not consolidated | 1 | 2001-12-05 | 2001-12-05 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na duhanske proizvode | [`zakon/2001/1761/`](zakon/2001/1761/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na kavu | [`zakon/2001/1762/`](zakon/2001/1762/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo | [`zakon/2001/1763/`](zakon/2001/1763/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića | [`zakon/2001/1764/`](zakon/2001/1764/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol | [`zakon/2001/1765/`](zakon/2001/1765/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate | [`zakon/2001/1766/`](zakon/2001/1766/) | amending act | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne i područne (regionalne) samouprave | [`zakon/2001/1767/`](zakon/2001/1767/) | amended, not consolidated | 1 | 2001-12-13 | 2001-12-13 |
+| Zakon o društveno poticanoj stanogradnji | [`zakon/2001/1794/`](zakon/2001/1794/) | repealed, not consolidated | 1 | 2001-12-19 | 2001-12-19 |
+| Zakon o izmjeni i dopunama Zakona o trgovini | [`zakon/2001/1795/`](zakon/2001/1795/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Zakon o dopunama Zakona o mirovinskom osiguranju | [`zakon/2001/1796/`](zakon/2001/1796/) | amending act | 1 | 2001-12-19 | 2001-12-19 |
+| Zakon o izmjenama i dopunama Zakona o pravima bivših političkih zatvorenika | [`zakon/2001/1797/`](zakon/2001/1797/) | amending act | 1 | 2001-12-19 | 2001-12-19 |
+| Zakon o dopuni zakona o telekomunikacijama | [`zakon/2001/1798/`](zakon/2001/1798/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Zakon o dopuni Zakona o regulaciji energetskih djelatnosti | [`zakon/2001/1799/`](zakon/2001/1799/) | amending act | 1 | 2001-12-11 | 2001-12-11 |
+| Zakon o plaćanju doprinosa za osnovno zdravstveno osiguranje u 2002. godini | [`zakon/2001/1878/`](zakon/2001/1878/) | in force | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o plaćanju doprinosa za mirovinsko osiguranje za 2002. godinu | [`zakon/2001/1879/`](zakon/2001/1879/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izmjenama i dopunama Zakona o privatizacijskim investicijskim fondovima | [`zakon/2001/1880/`](zakon/2001/1880/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izmjenama i dopunama Zakona o investicijskim fondovima | [`zakon/2001/1881/`](zakon/2001/1881/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izmjeni i dopuni Zakona o vlasništvu i drugim stvarnim pravima | [`zakon/2001/1883/`](zakon/2001/1883/) | amending act | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o izmjenama Zakona o zemljišnim knjigama | [`zakon/2001/1884/`](zakon/2001/1884/) | amended, not consolidated | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o izmjenama i dopunama Zakona o izvlaštenju | [`zakon/2001/1885/`](zakon/2001/1885/) | amending act | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o dopuni Zakona o osnovnom školstvu | [`zakon/2001/1886/`](zakon/2001/1886/) | amending act | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o dopuni Zakona o srednjem školstvu | [`zakon/2001/1887/`](zakon/2001/1887/) | amending act | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o izmjeni Zakona o obvezama i pravima državnih dužnosnika | [`zakon/2001/1888/`](zakon/2001/1888/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izmjeni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2001/1889/`](zakon/2001/1889/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izmjeni Zakona o zapošljavanju | [`zakon/2001/1890/`](zakon/2001/1890/) | in force | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o izmjenama i dopuni Zakona o posebnom porezu na luksuzne proizvode | [`zakon/2001/1891/`](zakon/2001/1891/) | amending act | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izmjeni i dopuni Zakona o sprječavanju pranja novca | [`zakon/2001/1892/`](zakon/2001/1892/) | amended, not consolidated | 1 | 2001-12-20 | 2001-12-20 |
+| Zakon o izmjeni Zakona o javnim cestama | [`zakon/2001/1893/`](zakon/2001/1893/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o prestanku važenja Zakona o nadležnosti organa uprave u poslovima unošenja, raspačavanja i širenja inozemnih sredstava masovnog komuniciranja | [`zakon/2001/1894/`](zakon/2001/1894/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o prestanku važenja Zakona o preuzimanju Zakona o unošenju i raspačavanju inozemnih sredstava masovnog komuniciranja i o inozemnoj informativnoj djelatnosti u Jugoslaviji koji se u Republici Hrvatskoj primjenjuje kao republički zakon | [`zakon/2001/1895/`](zakon/2001/1895/) | in force | 1 | 2001-12-28 | 2001-12-28 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 2002. godinu | [`zakon/2001/1951/`](zakon/2001/1951/) | amended, not consolidated | 1 | 2001-12-22 | 2001-12-22 |
+| Zakon o platnom prometu u zemlji | [`zakon/2001/1952/`](zakon/2001/1952/) | cited later, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o javnoj nabavi | [`zakon/2001/1954/`](zakon/2001/1954/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o sanaciji studentskih centara | [`zakon/2001/1957/`](zakon/2001/1957/) | in force | 1 | 2001-12-24 | 2001-12-24 |
+| Zakon o udžbenicima za osnovnu i srednju školu | [`zakon/2001/1958/`](zakon/2001/1958/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o izmjenama i dopunama Zakona o Vladi Republike Hrvatske | [`zakon/2001/1959/`](zakon/2001/1959/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o izmjenama i dopunama Zakona o ugostiteljskoj djelatnosti | [`zakon/2001/1960/`](zakon/2001/1960/) | amended, not consolidated | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o izmjenama i dopunama Zakona o gradnji | [`zakon/2001/1961/`](zakon/2001/1961/) | amending act | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o izmjenama i dopunama Zakona o vatrogastvu | [`zakon/2001/1962/`](zakon/2001/1962/) | amending act | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o prestanku važenja Zakona o igrama na sreću i zabavnim igrama | [`zakon/2001/1963/`](zakon/2001/1963/) | in force | 1 | 2002-01-01 | 2002-01-01 |
+| Zakon o izmjenama i dopunama Zakona o kaznenom postupku | [`zakon/2002/1059/`](zakon/2002/1059/) | amended, not consolidated | 1 | 2002-05-21 | 2002-05-21 |
+| Zakon o izmjenama i dopuni Zakona o plaćama sudaca i drugih pravosudnih dužnosnika | [`zakon/2002/1103/`](zakon/2002/1103/) | amending act | 1 | 2002-06-12 | 2002-06-12 |
+| Odluka o izmjenama i dopunama Zakona o lukama unutarnjih voda | [`zakon/2002/1115/`](zakon/2002/1115/) | amending act | 1 | 2002-06-13 | 2002-06-13 |
+| Zakon o dopuni Zakona o javnim cestama | [`zakon/2002/1116/`](zakon/2002/1116/) | amending act | 1 | 2002-06-13 | 2002-06-13 |
+| Zakon o izmjenama i dopunama Zakona o matičnom broju | [`zakon/2002/1126/`](zakon/2002/1126/) | amending act | 1 | 2002-06-15 | 2002-06-15 |
+| Zakon o prestanku važenja Zakona o utvrđivanju ratnih i poratnih žrtava II. svjetskog rata | [`zakon/2002/1127/`](zakon/2002/1127/) | in force | 1 | 2002-06-15 | 2002-06-15 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti osoba s duševnim smetnjama | [`zakon/2002/1271/`](zakon/2002/1271/) | amending act | 1 | 2002-07-03 | 2002-07-03 |
+| Zakon o izmjeni i dopuni Zakona o područjima županija, gradova i općina u Republici Hrvatskoj | [`zakon/2002/1272/`](zakon/2002/1272/) | amended, not consolidated | 1 | 2002-07-11 | 2002-07-11 |
+| Zakon o izmjenama i dopunama Zakona o naknadi za imovinu oduzetu za vrijeme jugoslavenske komunističke vladavine | [`zakon/2002/1292/`](zakon/2002/1292/) | amended, not consolidated | 1 | 2002-07-05 | 2002-07-05 |
+| Zakon o pravnom položaju vjerskih zajednica | [`zakon/2002/1359/`](zakon/2002/1359/) | cited later, not consolidated | 1 | 2002-07-24 | 2002-07-24 |
+| Zakon o priređivanju igara na sreću i nagradnih igara | [`zakon/2002/1360/`](zakon/2002/1360/) | repealed, not consolidated | 1 | 2002-07-24 | 2002-07-24 |
+| Zakon o osnivanju Sveučilišta u Zadru | [`zakon/2002/1361/`](zakon/2002/1361/) | in force | 1 | 2002-07-24 | 2002-07-24 |
 | Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu središnjih tijela državne uprave | [`zakon/2005/388/`](zakon/2005/388/) | amending act | 1 | 2005-02-16 | 2005-02-16 |
 | Zakon o izmjenama i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta | [`zakon/2005/638/`](zakon/2005/638/) | amended, not consolidated | 1 | 2005-03-22 | 2005-03-22 |
 | Zakon o izmjenama i dopunama Zakona o profesionalnoj rehabilitaciji i zapošljavanju osoba s invaliditetom | [`zakon/2005/639/`](zakon/2005/639/) | amending act | 1 | 2005-03-14 | 2005-03-14 |
