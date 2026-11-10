@@ -14537,6 +14537,1866 @@
    ]
   },
   {
+   "slug": "zakon-2011-1048",
+   "path": "zakon/2011/1048",
+   "short": "Zakon o izmjenama Zakona o izvlaštenju",
+   "title": "Zakon o izmjenama Zakona o izvlaštenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1048",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_45_1048.html",
+     "sha256": "6970a9e08b9d5d8455065818f97382f32f71c2ae5f7580cad5a01f8b5d130466"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1049",
+   "path": "zakon/2011/1049",
+   "short": "Zakon o izmjenama Zakona o obnovi",
+   "title": "Zakon o izmjenama Zakona o obnovi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1049",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_45_1049.html",
+     "sha256": "74e6592e92deec7e8459a03ff5eb1f618ba5ea3c58cd930b6ce70bbb901bfeb8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1050",
+   "path": "zakon/2011/1050",
+   "short": "Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija",
+   "title": "Zakon o izmjenama i dopunama Zakona o reguliranim profesijama i priznavanju inozemnih stručnih kvalifikacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1050",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_45_1050.html",
+     "sha256": "fa874e08ac623c6d6d7807d522d21498a63d621a62186b3845115125f8f2f78b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1051",
+   "path": "zakon/2011/1051",
+   "short": "Zakon o izmjenama i dopuni Zakona o priznavanju inozemnih obrazovnih kvalifikacija",
+   "title": "Zakon o izmjenama i dopuni Zakona o priznavanju inozemnih obrazovnih kvalifikacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1051",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_45_1051.html",
+     "sha256": "707e2c94cc245f0cb882ef796fb31922e46caca673a6e72057b086914066c8a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1093",
+   "path": "zakon/2011/1093",
+   "short": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNIM SLUŽBENICIMA",
+   "title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DRŽAVNIM SLUŽBENICIMA",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1093",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 73,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1093.html",
+     "sha256": "a6dfd647d1564883a87cbbcd74be60f861272dace69183318484b7e6e3bfd731"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1094",
+   "path": "zakon/2011/1094",
+   "short": "Zakon o izmjenama Zakona o Državnom inspektoratu",
+   "title": "Zakon o izmjenama Zakona o Državnom inspektoratu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1094",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1094.html",
+     "sha256": "fe5a1eddb83cb20bb12ac48d279e58cc42b1d1bf3caf6f942b5e78eeb5928507"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1095",
+   "path": "zakon/2011/1095",
+   "short": "Zakon o izmjenama Zakona o carinskoj službi",
+   "title": "Zakon o izmjenama Zakona o carinskoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1095",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1095.html",
+     "sha256": "bee8d4a14144793fcbef2607840aee2e2e83aab786c31ce68d81b206556022ff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1097",
+   "path": "zakon/2011/1097",
+   "short": "Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju",
+   "title": "Zakon o izmjenama Zakona o obveznom zdravstvenom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1097",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1097.html",
+     "sha256": "80e6db78057f56a0c05c9318dcafb860109a1b1fe0454a95f46055f2121c23ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1098",
+   "path": "zakon/2011/1098",
+   "short": "Zakon o izmjeni Zakona o upravnim pristojbama u području prava intelektualnog vlasništva",
+   "title": "Zakon o izmjeni Zakona o upravnim pristojbama u području prava intelektualnog vlasništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1098",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1098.html",
+     "sha256": "18a59dc6b6029aae92c34b311f3c46f1b14c55e1398d5054e8d6b234cbadea73"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1099",
+   "path": "zakon/2011/1099",
+   "short": "Zakon o izmjenama Zakona o zastupanju u području prava industrijskog vlasništva",
+   "title": "Zakon o izmjenama Zakona o zastupanju u području prava industrijskog vlasništva",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1099",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1099.html",
+     "sha256": "303e7449997550252d782c1eaa9a91b34cddb2d38e5e9b1820135bc2838b8540"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1100",
+   "path": "zakon/2011/1100",
+   "short": "Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu",
+   "title": "Zakon o izmjenama i dopunama Zakona o industrijskom dizajnu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1100",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1100.html",
+     "sha256": "7614374ffd6abafb20fea2a1ba6dd156fd442ed02dd790dac3e0b5a9d21f7e4a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1102",
+   "path": "zakon/2011/1102",
+   "short": "Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda",
+   "title": "Zakon o izmjenama Zakona o zaštiti topografija poluvodičkih proizvoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1102",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1102.html",
+     "sha256": "9b38d2b5627be6cc12a2a2d23392a8b1af70054fb0a9ffec85455d6047b0ed5a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1103",
+   "path": "zakon/2011/1103",
+   "short": "Zakon o izmjenama i dopuni Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga",
+   "title": "Zakon o izmjenama i dopuni Zakona o oznakama zemljopisnog podrijetla i oznakama izvornosti proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1103",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1103.html",
+     "sha256": "ae6d3f4f1f50db4e4e82a73aadce51c36acca49aaaec13d3f3313d9c3350dea3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1104",
+   "path": "zakon/2011/1104",
+   "short": "Zakon o izmjenama i dopunama Zakona o žigu",
+   "title": "Zakon o izmjenama i dopunama Zakona o žigu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1104",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1104.html",
+     "sha256": "2f47efccac7ab9c1d0f8fa58482c992f4e00fd366232275b793c223b401940a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1105",
+   "path": "zakon/2011/1105",
+   "short": "Zakon o izmjenama Zakona o državnim potporama",
+   "title": "Zakon o izmjenama Zakona o državnim potporama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1105",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1105.html",
+     "sha256": "7a0ebd8450ffe85059f7fb959d1704876be8f3d238eb2bc0ca5cbc4b31262e7f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1106",
+   "path": "zakon/2011/1106",
+   "short": "Zakon o izmjenama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji",
+   "title": "Zakon o izmjenama Zakona o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1106",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1106.html",
+     "sha256": "ff3df2500cc791fb7f5b9d866e88947c8caf349fc048dd742cd5b37707041e24"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1107",
+   "path": "zakon/2011/1107",
+   "short": "Zakon o izmjenama Zakona o komunalnom gospodarstvu",
+   "title": "Zakon o izmjenama Zakona o komunalnom gospodarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1107",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1107.html",
+     "sha256": "0390e6ba3187cc5973de9c7dc90642930d595be98c48442b8d1b80652d35eab2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1108",
+   "path": "zakon/2011/1108",
+   "short": "Zakon o izmjenama i dopunama Zakona o rudarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o rudarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1108",
+   "versions": [
+    {
+     "from": "2011-04-29",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1108.html",
+     "sha256": "d025f942f61c1243874c64b921bb963c301a1be5630c98b5eff18b74179f98e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1109",
+   "path": "zakon/2011/1109",
+   "short": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KEMIKALIJAMA",
+   "title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KEMIKALIJAMA",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/49/1109",
+   "versions": [
+    {
+     "from": "2011-05-07",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_04_49_1109.html",
+     "sha256": "06de60ebe3f9c8b393ad761ff394ff9b6bc822203da94f4431c93ca430eb63ca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1194",
+   "path": "zakon/2011/1194",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1194",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1194.html",
+     "sha256": "00948b7ac260ce5c0a53f077d05c4a5bbefa6dabff27b50724d496c65ae253cf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1195",
+   "path": "zakon/2011/1195",
+   "short": "Zakon o izmjenama Zakona o javno-privatnom partnerstvu",
+   "title": "Zakon o izmjenama Zakona o javno-privatnom partnerstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1195",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1195.html",
+     "sha256": "7bf0fddb6f99be2da1946612ed8b1d9cbe413d128db9bf9b76b00717ebff246b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1196",
+   "path": "zakon/2011/1196",
+   "short": "Zakon i izmjenama i dopunama Zakona o prostornom uređenju i gradnji",
+   "title": "Zakon i izmjenama i dopunama Zakona o prostornom uređenju i gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1196",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1196.html",
+     "sha256": "4a6bce99cc2e71777e1af86e592f9cc18642dea5a2f22174bfbfaf737002d523"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1197",
+   "path": "zakon/2011/1197",
+   "short": "Zakon o izmjenama Zakona o udžbenicima za osnovnu i srednju školu",
+   "title": "Zakon o izmjenama Zakona o udžbenicima za osnovnu i srednju školu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1197",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1197.html",
+     "sha256": "c7c00d10cd41b725c5b9f6a2c80d832d63480fcc0818c3dcb554233ca3d717cc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1198",
+   "path": "zakon/2011/1198",
+   "short": "Zakon o izmjeni Zakona o hrani",
+   "title": "Zakon o izmjeni Zakona o hrani",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1198",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1198.html",
+     "sha256": "073bff795818b5011de5820f538cb4605745fc04365c73d35271dccb0a394c36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1199",
+   "path": "zakon/2011/1199",
+   "short": "Zakon o izmjenama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja",
+   "title": "Zakon o izmjenama Zakona o sjemenu, sadnom materijalu i priznavanju sorti poljoprivrednog bilja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1199",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1199.html",
+     "sha256": "981ac083a5d6e98a88d4757bd3b8eff95a8a05300dac0c6a8f86e96fffa5cb4c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1200",
+   "path": "zakon/2011/1200",
+   "short": "Zakon o izmjeni i dopuni Zakona o biljnom zdravstvu",
+   "title": "Zakon o izmjeni i dopuni Zakona o biljnom zdravstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1200",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1200.html",
+     "sha256": "c18b3c95cb8e1e76ffed98ad655a42da3ad116bf414473e8a0763b3dfb8153c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1201",
+   "path": "zakon/2011/1201",
+   "short": "Zakon o izmjenama i dopunama Zakona o vinu",
+   "title": "Zakon o izmjenama i dopunama Zakona o vinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1201",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1201.html",
+     "sha256": "447d0aed43b72850d19376626a75b3cb47cff0da9da856e71cc86764fec46670"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1202",
+   "path": "zakon/2011/1202",
+   "short": "Zakon o izmjeni i dopuni Zakona o veterinarstvu",
+   "title": "Zakon o izmjeni i dopuni Zakona o veterinarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1202",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1202.html",
+     "sha256": "0c78e8494624c0c866ace794543f678a4a1c8ef8588faddac8b01807d36bec00"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1204",
+   "path": "zakon/2011/1204",
+   "short": "Zakon o izmjenama Zakona o inspekciji cestovnog prometa i cesta",
+   "title": "Zakon o izmjenama Zakona o inspekciji cestovnog prometa i cesta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1204",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1204.html",
+     "sha256": "cabafe789d13d382bee5071dc30b56027f0ab8f84761a8fb61c0fa615a6cbea3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1205",
+   "path": "zakon/2011/1205",
+   "short": "Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske",
+   "title": "Zakon o izmjenama i dopuni Zakona o Financijskom inspektoratu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/55/1205",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_55_1205.html",
+     "sha256": "bbc11ef4c1c3eb6ee62ecb1f14f55382534358b3c9d42686a8be66216210db1c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1254",
+   "path": "zakon/2011/1254",
+   "short": "Zakon o socijalnoj skrbi",
+   "title": "Zakon o socijalnoj skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1254",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 329,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1254.html",
+     "sha256": "5d19ab8757ef8ec44ecaa5bea8112fc84da8efcb6ba1614d67fb94ab7259660d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1256",
+   "path": "zakon/2011/1256",
+   "short": "Zakon o izmjeni i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "title": "Zakon o izmjeni i dopunama Zakona o Uredu za suzbijanje korupcije i organiziranog kriminaliteta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1256",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1256.html",
+     "sha256": "b68b99a8b0804c75a1d469485f30253d51100ad9d0b7b34528a1c599584a2d32"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1257",
+   "path": "zakon/2011/1257",
+   "short": "Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću",
+   "title": "Zakon o izmjenama i dopunama Zakona o Državnom sudbenom vijeću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1257",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1257.html",
+     "sha256": "c15c9a7f660ff2a299b1e83025c3e9f6eab9a6bdf7c46bbdc99e9c7aa87e2ec2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1258",
+   "path": "zakon/2011/1258",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1258",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1258.html",
+     "sha256": "8900f67bd042a7fcda7a768d0b2a32654392dee7651be9292c79412e8f281fc0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1259",
+   "path": "zakon/2011/1259",
+   "short": "Zakon o dopuni Kaznenog zakona",
+   "title": "Zakon o dopuni Kaznenog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1259",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1259.html",
+     "sha256": "6321de8146cc2aff5fc996181016d6b66ae328cb56b182ce2d8b05de116bec8c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1260",
+   "path": "zakon/2011/1260",
+   "short": "Zakon o izmjenama i dopunama Zakona o parničnom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o parničnom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1260",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 55,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1260.html",
+     "sha256": "2a2140a761f63381f1cdf1946de0208e2b28be67240d0cc9f0735f9eef3cfe9e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1261",
+   "path": "zakon/2011/1261",
+   "short": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o područjima posebne državne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1261",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1261.html",
+     "sha256": "cf1917aea02cc98518ff5b85d3b39dad2d64a6c05537a2d1bc1751462d2105b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1262",
+   "path": "zakon/2011/1262",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti prirode",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti prirode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/57/1262",
+   "versions": [
+    {
+     "from": "2011-06-02",
+     "units": 27,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_05_57_1262.html",
+     "sha256": "a81dbb1f417733f9c978ecde312015c43ced9f52ebc272cde452e51a79f99a43"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1353",
+   "path": "zakon/2011/1353",
+   "short": "Zakon o izmjenama i dopunama Zakona o radu",
+   "title": "Zakon o izmjenama i dopunama Zakona o radu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1353",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1353.html",
+     "sha256": "a17dede2730fe6e3cfa818f182a1a6ef3c45f11a2c460939c2097f6fa41605f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1354",
+   "path": "zakon/2011/1354",
+   "short": "Zakon o izmjenama i dopunama Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o službenicima i namještenicima u lokalnoj i područnoj (regionalnoj) samoupravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1354",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 31,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1354.html",
+     "sha256": "ef73b0cffc03074c3db86b57c9c02d2602c71c6b558efaedeaab0a5f5f2a13ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1355",
+   "path": "zakon/2011/1355",
+   "short": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "title": "Zakon o izmjenama i dopunama Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1355",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1355.html",
+     "sha256": "45751afebdf64afa3421896aa4725166db7f3886b52a1778672a42e894c5e69c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1356",
+   "path": "zakon/2011/1356",
+   "short": "Zakon o izmjenama i dopunama Zakona o financiranju političkih aktivnosti izborne promidžbe",
+   "title": "Zakon o izmjenama i dopunama Zakona o financiranju političkih aktivnosti izborne promidžbe",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1356",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1356.html",
+     "sha256": "e067c51e941b6200038b91599045f47787ca975fda4bce2a7f1d89f8df3be69c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1357",
+   "path": "zakon/2011/1357",
+   "short": "Zakon o izmjeni Obiteljskog zakona",
+   "title": "Zakon o izmjeni Obiteljskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1357",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1357.html",
+     "sha256": "3c4abe3118fc12275ba3e9538fe147a9f10b2a6a8f0eb1c484caa1730f280e86"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1358",
+   "path": "zakon/2011/1358",
+   "short": "Zakon o izmjenama i dopunama Zakona o doplatku za djecu",
+   "title": "Zakon o izmjenama i dopunama Zakona o doplatku za djecu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1358",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1358.html",
+     "sha256": "a2d0fbc570b47d64e9f1d25c4ee251ae504b8399296fcbcc89dc76a5b6bfa451"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1359",
+   "path": "zakon/2011/1359",
+   "short": "Zakon o izmjenama i dopunama Zakona o poticanju ulaganja",
+   "title": "Zakon o izmjenama i dopunama Zakona o poticanju ulaganja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1359",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1359.html",
+     "sha256": "1a5b82782952818e98d626786bc88e6b41daca25d719b0299820866904151f1a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1360",
+   "path": "zakon/2011/1360",
+   "short": "Zakon o izmjenama Zakona o sigurnosti u željezničkom prometu",
+   "title": "Zakon o izmjenama Zakona o sigurnosti u željezničkom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1360",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1360.html",
+     "sha256": "ad4e46fe5e768ff842fb3cf8e6398cb91eca0980d6df0ceba8d7878f4329edf8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1361",
+   "path": "zakon/2011/1361",
+   "short": "Zakon o izmjenama Zakona o Agenciji za regulaciju tržišta željezničkih usluga",
+   "title": "Zakon o izmjenama Zakona o Agenciji za regulaciju tržišta željezničkih usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1361",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1361.html",
+     "sha256": "533349cf7b8de29e0370dcffdf5a7415618988e037316169632b0deeff57585e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1362",
+   "path": "zakon/2011/1362",
+   "short": "Zakon o izmjenama Zakona o žičarama za prijevoz osoba",
+   "title": "Zakon o izmjenama Zakona o žičarama za prijevoz osoba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1362",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1362.html",
+     "sha256": "647e0366a2fc5880fa78c6390127cd270e57244f83feaeaddb544b8582d30bbb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1363",
+   "path": "zakon/2011/1363",
+   "short": "Zakon o izmjenama Zakona o poštanskim uslugama",
+   "title": "Zakon o izmjenama Zakona o poštanskim uslugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1363",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1363.html",
+     "sha256": "bd2edea146142f502829f98c0f35ba9d96445462aabf0de63077cab1e8e03ffc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1364",
+   "path": "zakon/2011/1364",
+   "short": "Zakon o izmjenama Zakona o obavljanju geodetske djelatnosti",
+   "title": "Zakon o izmjenama Zakona o obavljanju geodetske djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1364",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1364.html",
+     "sha256": "ce33fbf3e5b43ce6abe827a2b2ea0317860893299852ec9a6d269dc286ac67c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1365",
+   "path": "zakon/2011/1365",
+   "short": "Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu",
+   "title": "Zakon o izmjenama i dopunama Zakona o šumskom reprodukcijskom materijalu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1365",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1365.html",
+     "sha256": "88d61080800b007dc14b1329322e1c1afb4173329814e54ac7960ca9a8d6f36a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1366",
+   "path": "zakon/2011/1366",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti i očuvanju kulturnih dobara",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/61/1366",
+   "versions": [
+    {
+     "from": "2011-06-11",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_61_1366.html",
+     "sha256": "cea123c520ee0221206c056b76ee654ac749fd6eeacec5fbd4fd0b1505de4e84"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1401",
+   "path": "zakon/2011/1401",
+   "short": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "title": "Zakon o izmjenama i dopunama Zakona o poljoprivrednom zemljištu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/63/1401",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_63_1401.html",
+     "sha256": "0b0773a7ff68138744b3cb3b40b5a8a4811bcbbcbac3fc2d5b3e62c3455ad748"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1402",
+   "path": "zakon/2011/1402",
+   "short": "Zakon o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju",
+   "title": "Zakon o dopuni Zakona o znanstvenoj djelatnosti i visokom obrazovanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/63/1402",
+   "versions": [
+    {
+     "from": "2011-06-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_06_63_1402.html",
+     "sha256": "c17e5e9c0da90a9650599b173e3ca385ef4b5400c86755754c2e2de4a317548d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1575",
+   "path": "zakon/2011/1575",
+   "short": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sigurnosti prometa na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/74/1575",
+   "versions": [
+    {
+     "from": "2011-07-09",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_74_1575.html",
+     "sha256": "fe3b61f9d142d809c82eefd9480c0ae04885e77251d54174399d73e18ed55318"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1576",
+   "path": "zakon/2011/1576",
+   "short": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj",
+   "title": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/74/1576",
+   "versions": [
+    {
+     "from": "2011-07-09",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_74_1576.html",
+     "sha256": "30e709f02bf276cb00c2b021a9de40f45bf192a4b76d399e362b3ad46138cb5e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1631",
+   "path": "zakon/2011/1631",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravu na pristup informacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/77/1631",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_77_1631.html",
+     "sha256": "1581c0a59a6bc6ccebd0aefe1aa61a36620f22e7db7c2a779e047ad1a57f1085"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1701",
+   "path": "zakon/2011/1701",
+   "short": "Zakon o Državnom uredu za reviziju",
+   "title": "Zakon o Državnom uredu za reviziju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1701",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 29,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_80_1701.html",
+     "sha256": "2bdd0f98cc81de01fb2b483a2fcd6ec6d6d7452f2b873e81a88e7a2e97f7b09f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1705",
+   "path": "zakon/2011/1705",
+   "short": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o kaznenom postupku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1705",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 52,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_80_1705.html",
+     "sha256": "807510e4f8cc94ff58cdb5b5059ea302d566b24f4345f2c8d5b199eb32cda5b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1706",
+   "path": "zakon/2011/1706",
+   "short": "Zakon o dopuni Zakona o osnivanju Sveučilišta u Dubrovniku",
+   "title": "Zakon o dopuni Zakona o osnivanju Sveučilišta u Dubrovniku",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/80/1706",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_80_1706.html",
+     "sha256": "352384a310bf512657b6d6efe748727cdd478b84280f6c8742ed3ef30c713a58"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1721",
+   "path": "zakon/2011/1721",
+   "short": "Zakon o izmjenama i dopunama Zakona o besplatnoj pravnoj pomoći",
+   "title": "Zakon o izmjenama i dopunama Zakona o besplatnoj pravnoj pomoći",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/81/1721",
+   "versions": [
+    {
+     "from": "2011-07-15",
+     "units": 57,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_81_1721.html",
+     "sha256": "8be3b56aa0ff2d5c7299bb91a61a9d8354bc8935f557309cabcc644a8434ca18"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1791",
+   "path": "zakon/2011/1791",
+   "short": "Zakon o obeštećenju radnika trgovačkog društva Salonit d.d. u stečaju Vranjic",
+   "title": "Zakon o obeštećenju radnika trgovačkog društva Salonit d.d. u stečaju Vranjic",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1791",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1791.html",
+     "sha256": "fd90236f778dd60d2ebfb351e3081c5b7878ef760b8957f814c0135bb99856c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1793",
+   "path": "zakon/2011/1793",
+   "short": "Zakon o područjima i sjedištima državnih odvjetništava",
+   "title": "Zakon o područjima i sjedištima državnih odvjetništava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1793",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1793.html",
+     "sha256": "cfb8d8475f9888488f685d32be1c61b3cebaad746a4a938d48596bd1b3665694"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1795",
+   "path": "zakon/2011/1795",
+   "short": "Zakon o izmjenama i dopunama Zakon o medijima",
+   "title": "Zakon o izmjenama i dopunama Zakon o medijima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1795",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1795.html",
+     "sha256": "4945caf8c550537ddc155a231b88ef24a5587a0212137dee84f7860c0e113cc6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1796",
+   "path": "zakon/2011/1796",
+   "short": "Zakon o izmjenama i dopunama Zakona o elektroničkim medijima",
+   "title": "Zakon o izmjenama i dopunama Zakona o elektroničkim medijima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1796",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1796.html",
+     "sha256": "3fdf2c9cb05885acd1a75827cb7ca8e9264c936d0ad54e4fcdc3a6622d69dd88"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1797",
+   "path": "zakon/2011/1797",
+   "short": "Zakon o dopunama Zakona o suzbijanju zlouporabe droge",
+   "title": "Zakon o dopunama Zakona o suzbijanju zlouporabe droge",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1797",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1797.html",
+     "sha256": "3300539680cbc4877f679434e5e93cc600ae6879c6618b188a75e50efbb89398"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1798",
+   "path": "zakon/2011/1798",
+   "short": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "title": "Zakon o izmjenama i dopunama Zakona o zdravstvenoj zaštiti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1798",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1798.html",
+     "sha256": "fa8190554b3c2aa253e618bf41d968cf650ce2960926ec27f529a91951e06268"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1799",
+   "path": "zakon/2011/1799",
+   "short": "Zakon o izmjenama i dopunama Zakona o zračnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o zračnom prometu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/84/1799",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 86,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_07_84_1799.html",
+     "sha256": "cf87fd3afdb426ced2584ef9c24440e053217bc17cc60d3507fcb16d4b5a1bff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1918",
+   "path": "zakon/2011/1918",
+   "short": "Zakon o procjeni učinaka propisa",
+   "title": "Zakon o procjeni učinaka propisa",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1918",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1918.html",
+     "sha256": "55d0765616afd61f81f301396d2a2754cb80e45b7cfb39037b83a9c162871de0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1919",
+   "path": "zakon/2011/1919",
+   "short": "Zakon o javnoj nabavi",
+   "title": "Zakon o javnoj nabavi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1919",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 190,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1919.html",
+     "sha256": "bc9c5690b29fc82163464ee4dad287350d9f368c319fd6362132948b691e98fb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1921",
+   "path": "zakon/2011/1921",
+   "short": "Zakon o udomiteljstvu",
+   "title": "Zakon o udomiteljstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1921",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 65,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1921.html",
+     "sha256": "8cec7084eddade392f9b8f08a265dc3eae06aa1716dabf67499176ac34f5c585"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1922",
+   "path": "zakon/2011/1922",
+   "short": "Zakon o postupanju s nezakonito izgrađenim zgradama",
+   "title": "Zakon o postupanju s nezakonito izgrađenim zgradama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1922",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 33,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1922.html",
+     "sha256": "e84de3cc665801593d67aa540a8f5e8934e50dd8fa26c9c1baadb0cc32d89d57"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1923",
+   "path": "zakon/2011/1923",
+   "short": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju i gradnji",
+   "title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju i gradnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1923",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 120,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1923.html",
+     "sha256": "38ae25298c6775acbc7d46d8cb00c0f203147697d0acd31ed0b903c2c1a0f020"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1924",
+   "path": "zakon/2011/1924",
+   "short": "Zakon o izmjenama i dopunama Zakon o sudskom registru",
+   "title": "Zakon o izmjenama i dopunama Zakon o sudskom registru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1924",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1924.html",
+     "sha256": "a9089ea39f6fb3e435f01e43062254a27dd2cda44879604a28f01228e5e99a17"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1925",
+   "path": "zakon/2011/1925",
+   "short": "Zakon o izmjenama i dopunama Zakona o prikupljanju podataka po osiguranicima o doprinosima za obvezna mirovinska osiguranja",
+   "title": "Zakon o izmjenama i dopunama Zakona o prikupljanju podataka po osiguranicima o doprinosima za obvezna mirovinska osiguranja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1925",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1925.html",
+     "sha256": "51a9983ab71ea7f702080dfaac44e4ed99c04080e7fa4baab8db92a9b9951237"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1926",
+   "path": "zakon/2011/1926",
+   "short": "Zakon o dopuni Zakona o Umirovljeničkom fondu",
+   "title": "Zakon o dopuni Zakona o Umirovljeničkom fondu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1926",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1926.html",
+     "sha256": "1424e6fffb9eae390c84d3e02e908f8ffd1c4b650c3ae24f42b77dab0f60a0a0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1927",
+   "path": "zakon/2011/1927",
+   "short": "Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "title": "Zakon o izmjenama i dopunama Zakona o odgoju i obrazovanju u osnovnoj i srednjoj školi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1927",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1927.html",
+     "sha256": "79c6d5b44c77011e957c75fd7cc6d635249a595e81fba22650a89a2da58a4078"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1928",
+   "path": "zakon/2011/1928",
+   "short": "Zakon o izmjenama i dopunama Zakona o kreditnim unijama",
+   "title": "Zakon o izmjenama i dopunama Zakona o kreditnim unijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1928",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1928.html",
+     "sha256": "6453e3c378cdbe9e4db0547b488e4dc36324408a3550b676eb3d64126f525235"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1929",
+   "path": "zakon/2011/1929",
+   "short": "Zakon o izmjenama i dopunama Zakona i elektroničkim komunikacijama",
+   "title": "Zakon o izmjenama i dopunama Zakona i elektroničkim komunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1929",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 126,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1929.html",
+     "sha256": "f3c8c86a67f2510969f4c7794c0cec360583cdcb302445cfcec3ff50824caf47"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-1930",
+   "path": "zakon/2011/1930",
+   "short": "Zakon o izmjenama i dopuni Zakona o audiovizualnim djelatnostima",
+   "title": "Zakon o izmjenama i dopuni Zakona o audiovizualnim djelatnostima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1930",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_08_90_1930.html",
+     "sha256": "f05f14616b0f725cf665aae8de15c3d5e5fca727919eee0340f2c2ea8dd00d20"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2221",
+   "path": "zakon/2011/2221",
+   "short": "Zakon o zaštiti od svjetlosnog onečišćenja",
+   "title": "Zakon o zaštiti od svjetlosnog onečišćenja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2221",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2221.html",
+     "sha256": "06e481df77d77bb8d7fe0248565ca5158d2d6bdae223ef955a5063380bc57e28"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2223",
+   "path": "zakon/2011/2223",
+   "short": "Zakon o dopuni Zakona o mirovinskom osiguranju",
+   "title": "Zakon o dopuni Zakona o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2223",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2223.html",
+     "sha256": "6d838cc7defd295d940ef22fefdaed6f234ea93735d85ffd19c777362899574b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2224",
+   "path": "zakon/2011/2224",
+   "short": "Zakon o dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju",
+   "title": "Zakon o dopuni Zakona o dodatku na mirovine ostvarene prema Zakonu o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2224",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2224.html",
+     "sha256": "dcee2a9656388c84d7fcf58a54d348e6cf45860381a0cf1b42821b8a9a5db2f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2225",
+   "path": "zakon/2011/2225",
+   "short": "Zakon o izmjeni Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+   "title": "Zakon o izmjeni Zakona o obveznim i dobrovoljnim mirovinskim fondovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2225",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2225.html",
+     "sha256": "c40ad688f88cafb782c6cbb1bf56ec43c23c02ad7260f438f227301d551615ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2226",
+   "path": "zakon/2011/2226",
+   "short": "Zakon o dopuni Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje",
+   "title": "Zakon o dopuni Zakona o mirovinskim osiguravajućim društvima i isplati mirovina na temelju individualne kapitalizirane štednje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2226",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2226.html",
+     "sha256": "c29f31f7efd922afdd006775d934871bbefc438fa40122d2decaed6c0b038a89"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2227",
+   "path": "zakon/2011/2227",
+   "short": "Zakon o izmjenama i dopuni Zakona o porezu na dohodak",
+   "title": "Zakon o izmjenama i dopuni Zakona o porezu na dohodak",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2227",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2227.html",
+     "sha256": "87a600f97159a8ccb3fcb1547665d28a47c1862c2fe9eca728a33e602a5c3a5f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2228",
+   "path": "zakon/2011/2228",
+   "short": "Zakon o izmjeni Zakona o tržištu plina",
+   "title": "Zakon o izmjeni Zakona o tržištu plina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/114/2228",
+   "versions": [
+    {
+     "from": "2011-10-15",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_10_114_2228.html",
+     "sha256": "01901cc3a0c48e9da292d6febf493dc84543510f90b41cf33fb526c4576de4bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2472",
+   "path": "zakon/2011/2472",
+   "short": "Zakon o kvaliteti zdravstvene zaštite i socijalne skrbi",
+   "title": "Zakon o kvaliteti zdravstvene zaštite i socijalne skrbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2472",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 68,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2472.html",
+     "sha256": "22e70682aa49f65187d5289a15939f925b99c607550cf7320e8f10cc38dbacb6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2473",
+   "path": "zakon/2011/2473",
+   "short": "ZAKON O DJELATNOSTI SOCIJALNOG RADA",
+   "title": "ZAKON O DJELATNOSTI SOCIJALNOG RADA",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2473",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 44,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2473.html",
+     "sha256": "b7c52bdcc8bc8269254c9e7a9039be4a1c87e4ab25c61429478f0d24e4c06fc4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2474",
+   "path": "zakon/2011/2474",
+   "short": "Zakon o edukacijsko-rehabilitacijskoj djelatnosti",
+   "title": "Zakon o edukacijsko-rehabilitacijskoj djelatnosti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2474",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 42,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2474.html",
+     "sha256": "1d853c4affdb3b45741b286c267fcd652ef59068fe52f6230c5d09c94789b289"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2475",
+   "path": "zakon/2011/2475",
+   "short": "Zakon o dopuni Zakona o medicinskoj oplodnji",
+   "title": "Zakon o dopuni Zakona o medicinskoj oplodnji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2475",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2475.html",
+     "sha256": "077edb866fb2facf846d887c7fe66f6ab2d0c994a906c279f368daa799302342"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2476",
+   "path": "zakon/2011/2476",
+   "short": "Zakon o izmjenama i dopunama Zakona o krvi i krvnim pripravcima",
+   "title": "Zakon o izmjenama i dopunama Zakona o krvi i krvnim pripravcima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2476",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2476.html",
+     "sha256": "06c3d1912814be4acb0bb31c44f836a398d33313b20b0df9327781376fae4dc9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2477",
+   "path": "zakon/2011/2477",
+   "short": "Zakon o izmjenama i dopunama Zakona o lijekovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o lijekovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2477",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2477.html",
+     "sha256": "beb5bf7093b48ac5d1828538627ecc17ad25628bb2b21601cb0ecb6d0e152971"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2478",
+   "path": "zakon/2011/2478",
+   "short": "Zakon o izmjenama i dopunama Zakona o medicinskim proizvodima",
+   "title": "Zakon o izmjenama i dopunama Zakona o medicinskim proizvodima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2478",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2478.html",
+     "sha256": "275f8ccf88a7fdb7a0b8e28b70f9dcafb685c374a0f56b5a25c994df98b176b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2479",
+   "path": "zakon/2011/2479",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnoj potpori poljoprivredi i ruralnom razvoju",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnoj potpori poljoprivredi i ruralnom razvoju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2479",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 38,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2479.html",
+     "sha256": "2560b1984c321ba5d2b7654d93ecd7b40115f800f5458fd3e8e657b9f82cd88e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2481",
+   "path": "zakon/2011/2481",
+   "short": "Zakon o dopunama Zakona o zaštiti biljnih sorti",
+   "title": "Zakon o dopunama Zakona o zaštiti biljnih sorti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2481",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2481.html",
+     "sha256": "275dc10f99f29be68291b67bf412f5917e3bcdbc6a98fa20e11fd32d90c00be7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2482",
+   "path": "zakon/2011/2482",
+   "short": "Zakon o izmjenama i dopunama Zakona o športu",
+   "title": "Zakon o izmjenama i dopunama Zakona o športu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/124/2482",
+   "versions": [
+    {
+     "from": "2011-11-12",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_124_2482.html",
+     "sha256": "20acfe4a068a8950582895b76fcc18eb973ab9b64a43d9c3d951579a3dbb1d9d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2499",
+   "path": "zakon/2011/2499",
+   "short": "Zakon o pučkom pravobranitelju",
+   "title": "Zakon o pučkom pravobranitelju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2499",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "units": 53,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_125_2499.html",
+     "sha256": "1fd7bf76d924d6d28a2227f34f451141ef078c2dcc3493d781feb638f3c8c2e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2501",
+   "path": "zakon/2011/2501",
+   "short": "Zakon o rokovima ispunjenja novčanih obveza",
+   "title": "Zakon o rokovima ispunjenja novčanih obveza",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2501",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_125_2501.html",
+     "sha256": "fb31602d59735b396fe9c12c9f22525e3d9a767767a5c9d03a7b870333304b0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2502",
+   "path": "zakon/2011/2502",
+   "short": "Zakon o javnoovršiteljskim pristojbama",
+   "title": "Zakon o javnoovršiteljskim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2502",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 28,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_125_2502.html",
+     "sha256": "555b833ff5dc841861bfe7ed4a9f48f6c7b714ee2002a352a8adf65608d72716"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2503",
+   "path": "zakon/2011/2503",
+   "short": "Zakon o izmjeni i dopuni Zakona o primjeni Statuta Međunarodnog kaznenog suda i progonu za kaznena djela protiv međunarodnog ratnog humanitarnog prava",
+   "title": "Zakon o izmjeni i dopuni Zakona o primjeni Statuta Međunarodnog kaznenog suda i progonu za kaznena djela protiv međunarodnog ratnog humanitarnog prava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2503",
+   "versions": [
+    {
+     "from": "2011-11-15",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_125_2503.html",
+     "sha256": "fff06152744a1ea58d6f1c174d6e8823f18093dce0079374cf45dd2aaa0b5350"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2504",
+   "path": "zakon/2011/2504",
+   "short": "Zakon o izmjenama i dopunama Ovršnog zakona",
+   "title": "Zakon o izmjenama i dopunama Ovršnog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2504",
+   "versions": [
+    {
+     "from": "2011-11-15",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_125_2504.html",
+     "sha256": "a722f3bb4d4b6aa6ba20024ffb7ca7c499f4ae8024abb2af8a91629c079bc99e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2505",
+   "path": "zakon/2011/2505",
+   "short": "Zakon o izmjenama i dopunama Zakona o sudskim pristojbama",
+   "title": "Zakon o izmjenama i dopunama Zakona o sudskim pristojbama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/125/2505",
+   "versions": [
+    {
+     "from": "2011-11-15",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_125_2505.html",
+     "sha256": "5ca7e96d13ea2e651534a47285fbc4bf503eaa77f689a1a0adbd3e5d90be4a35"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2600",
+   "path": "zakon/2011/2600",
+   "short": "Zakon o strancima",
+   "title": "Zakon o strancima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2600",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 239,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2600.html",
+     "sha256": "421ee94e6ad784c577691a10fbbab977c5b4389c17aefe4150850a898844ccbd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2601",
+   "path": "zakon/2011/2601",
+   "short": "Zakon o zaštiti zraka",
+   "title": "Zakon o zaštiti zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2601",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 160,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2601.html",
+     "sha256": "bc9d671dd550fbe45536ea32ff900a66375929b783915b4ca8c7caae46e2864a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2603",
+   "path": "zakon/2011/2603",
+   "short": "Zakon o izmjenama Zakona o sudovima",
+   "title": "Zakon o izmjenama Zakona o sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2603",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2603.html",
+     "sha256": "ec566e8fa7182723cb43388bbd1d21f77f46341f9943ad8b34abcc0c8c91d8db"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2604",
+   "path": "zakon/2011/2604",
+   "short": "Zakon o izmjeni i dopuni Zakona o Državnom sudbenom vijeću",
+   "title": "Zakon o izmjeni i dopuni Zakona o Državnom sudbenom vijeću",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2604",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2604.html",
+     "sha256": "f6e15e151637418ae66d9103687f0be7a97fc51ce6d52ae50c89e5ca387980f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2605",
+   "path": "zakon/2011/2605",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnom odvjetništvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2605",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2605.html",
+     "sha256": "2cbf659016c9c7cb9b413968f25377a985908a5f03ececf6d478ecdadbc1251e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2606",
+   "path": "zakon/2011/2606",
+   "short": "Zakon o izmjeni Zakona o područjima i sjedištima državnih odvjetništava",
+   "title": "Zakon o izmjeni Zakona o područjima i sjedištima državnih odvjetništava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2606",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2606.html",
+     "sha256": "67d0f3b54021d35243a721151e85c5476f27d6eb6d38251e443b46a4a41777d0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2607",
+   "path": "zakon/2011/2607",
+   "short": "Zakon o izmjeni Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju",
+   "title": "Zakon o izmjeni Zakona o smanjenju mirovina određenih, odnosno ostvarenih prema posebnim propisima o mirovinskom osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2607",
+   "versions": [
+    {
+     "from": "2011-12-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2607.html",
+     "sha256": "6c4f8ef66ac0304b5ad4909618c9cabf436114c18dd1d728462108511e1e73f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2610",
+   "path": "zakon/2011/2610",
+   "short": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+   "title": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2610",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2610.html",
+     "sha256": "18f9d611f598e88a2c4318f6bd3c79fb214874b9732615ee7e884f925b814259"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2611",
+   "path": "zakon/2011/2611",
+   "short": "Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini",
+   "title": "Zakon o izmjenama i dopunama Zakona o elektroničkoj trgovini",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2611",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2611.html",
+     "sha256": "bab25f132ff17a1d9c43ce6d0350830acdb965d33a7c94f60e6ff340658cf5ff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2612",
+   "path": "zakon/2011/2612",
+   "short": "Zakon o izmjenama i dopunama Zakona o vodama",
+   "title": "Zakon o izmjenama i dopunama Zakona o vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2612",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2612.html",
+     "sha256": "1e94bf21cce7738cdcc55e80ee2ecc3f41d915db32122bcba73ee3690c10c4ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2613",
+   "path": "zakon/2011/2613",
+   "short": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj",
+   "title": "Zakon o dopuni Zakona o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2613",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2613.html",
+     "sha256": "2850569f085b5a6c9e54b04c94da4a8044ed44e51e64feabe8fb0e39cb6b9fc4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2614",
+   "path": "zakon/2011/2614",
+   "short": "Zakon o prestanku važenja Zakona o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama",
+   "title": "Zakon o prestanku važenja Zakona o naknadi za pružanje usluga u pokretnim elektroničkim komunikacijskim mrežama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2614",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2614.html",
+     "sha256": "f365a0774ea88d611ceeeb4dcee572697e522b6f921b4c03d77532dbbd5eb238"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-2615",
+   "path": "zakon/2011/2615",
+   "short": "Zakon o prestanku važenja Zakona o igralištima za golf",
+   "title": "Zakon o prestanku važenja Zakona o igralištima za golf",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/130/2615",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_11_130_2615.html",
+     "sha256": "cff88bd6093dae19cef058951fcba581f7af878c4ff8a1c3f7d0dcbdfa4eb255"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-263",
+   "path": "zakon/2011/263",
+   "short": "Zakon o dopuni Zakona o tržištu električne energije",
+   "title": "Zakon o dopuni Zakona o tržištu električne energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/14/263",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_14_263.html",
+     "sha256": "601d0895ed7dcbb486c077eda4881f0acd4d4ba53b7a967a9f1beb08ca175b12"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-264",
+   "path": "zakon/2011/264",
+   "short": "Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "title": "Zakon o dopunama Zakona o plaćama sudaca i drugih pravosudnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/14/264",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_14_264.html",
+     "sha256": "09cf45a31a0228f2cca39b445c0fd5eb2decbe00ba6a21e9e9da02b88f897822"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-265",
+   "path": "zakon/2011/265",
+   "short": "Zakon o izmjenama dopunama Zakona o zračnim lukama",
+   "title": "Zakon o izmjenama dopunama Zakona o zračnim lukama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/14/265",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_02_14_265.html",
+     "sha256": "afea0f6b4cd9534b99162ae9cdc9bbb0a7c3e0b2e14c968e2a518a11d9336f0f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-3085",
+   "path": "zakon/2011/3085",
+   "short": "Zakon o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "title": "Zakon o ustrojstvu i djelokrugu ministarstava i drugih središnjih tijela državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3085",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 45,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3085.html",
+     "sha256": "af46bf17aee568ac6855fc4a29a5e3a69bb6e7beec626ab7d7a3568d251ab66e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-3086",
+   "path": "zakon/2011/3086",
+   "short": "Zakon o sustavu državne uprave",
+   "title": "Zakon o sustavu državne uprave",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3086",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 95,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3086.html",
+     "sha256": "b9a7b76f245b69f72c50df65af4a5d961b158ef432209c01212baf74924eeb33"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-3087",
+   "path": "zakon/2011/3087",
+   "short": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "title": "Zakon o izmjenama i dopunama Zakona o obvezama i pravima državnih dužnosnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3087",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3087.html",
+     "sha256": "fab9d686fd57e176f2be387ba9cb7052975b332243a60e291e79e2b51241a943"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-3089",
+   "path": "zakon/2011/3089",
+   "short": "Zakon o izmjeni Zakona o lokalnoj i područnoj (regionalnoj) samoupravi",
+   "title": "Zakon o izmjeni Zakona o lokalnoj i područnoj (regionalnoj) samoupravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3089",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3089.html",
+     "sha256": "75b89dd8f16c553f48370b11b2879f7b2715f926b7458fc0b9d190ae24e55187"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-3090",
+   "path": "zakon/2011/3090",
+   "short": "Zakon o izmjeni Zakona o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba",
+   "title": "Zakon o izmjeni Zakona o izborima općinskih načelnika, gradonačelnika, župana i gradonačelnika Grada Zagreba",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/150/3090",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2011_12_150_3090.html",
+     "sha256": "6ff6fc01c53695e921770940f0b304282f3b42776ab6754ac11edcc8826d04be"
+    }
+   ]
+  },
+  {
    "slug": "naputak-2012-1673",
    "path": "naputak/2012/1673",
    "short": "Naputak o otkrivanju, postupanju i izvješćivanju o nepravilnostima u upravljanju sredstvima proračuna, proračunskih i izvanproračunskih korisnika",
@@ -168239,6 +170099,36 @@
    ]
   },
   {
+   "slug": "uredba-2021-1527",
+   "path": "uredba/2021/1527",
+   "short": "Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima",
+   "title": "Uredba o tvarima koje oštećuju ozonski sloj i fluoriranim stakleničkim plinovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/83/1527",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_07_83_1527.html",
+     "sha256": "1041a6c2686440100fae2d4c318b3963063c0e901cdf1cbde7b6f3e5a573ca70"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-1563",
+   "path": "uredba/2021/1563",
+   "short": "Uredba o razvrstavanju željezničkih pruga",
+   "title": "Uredba o razvrstavanju željezničkih pruga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/84/1563",
+   "versions": [
+    {
+     "from": "2021-07-31",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_07_84_1563.html",
+     "sha256": "986316497d7ecafe4c718400587954f34e5e5d929fea94bef80b4e5aba4a3977"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-1586",
    "path": "uredba/2021/1586",
    "short": "Uredba o graničnim vrijednostima sadržaja hlapivih organskih spojeva u određenim bojama i lakovima koji se koriste u graditeljstvu i proizvodima za završnu obradu vozila",
@@ -168269,6 +170159,36 @@
    ]
   },
   {
+   "slug": "uredba-2021-1661",
+   "path": "uredba/2021/1661",
+   "short": "Uredba o viznom sustavu",
+   "title": "Uredba o viznom sustavu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/92/1661",
+   "versions": [
+    {
+     "from": "2021-08-28",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_08_92_1661.html",
+     "sha256": "6c5a52625e88a7721f1301006f461f694cb91a54de508e1eec8b18aadfac51e4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-1662",
+   "path": "uredba/2021/1662",
+   "short": "Uredba o Tarifi upravnih pristojbi",
+   "title": "Uredba o Tarifi upravnih pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/92/1662",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_08_92_1662.html",
+     "sha256": "b76a4c034b4cd0e8ba120f38b2d430d21e37a6fd8df7f29714101099b7672ee6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-1663",
    "path": "uredba/2021/1663",
    "short": "Uredba o izmjenama i dopunama Uredbe o Tarifi sudskih pristojbi",
@@ -168284,6 +170204,51 @@
    ]
   },
   {
+   "slug": "uredba-2021-1782",
+   "path": "uredba/2021/1782",
+   "short": "Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda",
+   "title": "Uredba o izmjenama i dopunama Uredbe o osnivanju Imunološkog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/99/1782",
+   "versions": [
+    {
+     "from": "2021-09-18",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_99_1782.html",
+     "sha256": "4d4c920fe79c152748a8fe986485791fe8981d227b81af0d3cfd6186c9bc84da"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-1819",
+   "path": "uredba/2021/1819",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/101/1819",
+   "versions": [
+    {
+     "from": "2021-09-25",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_101_1819.html",
+     "sha256": "e05e365e71b10ed0a4aef4db10ac9b50bc982c68109e46c9efe7751345d3360a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-1845",
+   "path": "uredba/2021/1845",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/104/1845",
+   "versions": [
+    {
+     "from": "2021-10-05",
+     "units": 117,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_104_1845.html",
+     "sha256": "c4d4f5636bf40e1659be49482ed4f33f2bd0909ea82094a3772192ed6983974b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-1846",
    "path": "uredba/2021/1846",
    "short": "Uredba o izmjenama Uredbe o unutarnjem ustrojstvu Državnog inspektorata",
@@ -168295,6 +170260,51 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_09_104_1846.html",
      "sha256": "4aa80dff9b312e9ca4e7232a9bd09355a697783f07f313e2791cd06eae28a033"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-1881",
+   "path": "uredba/2021/1881",
+   "short": "Uredba o izmjenama Uredbe o Popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "title": "Uredba o izmjenama Uredbe o Popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/107/1881",
+   "versions": [
+    {
+     "from": "2021-10-07",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_10_107_1881.html",
+     "sha256": "290d7e31c18a087706f90942c789c6d0e6d1c1f7a6128900efb508e36be0bd32"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-193",
+   "path": "uredba/2021/193",
+   "short": "Uredba o izmjenama Uredbe o mjerilima razvoja elektroničke komunikacijske infrastrukture i druge povezane opreme",
+   "title": "Uredba o izmjenama Uredbe o mjerilima razvoja elektroničke komunikacijske infrastrukture i druge povezane opreme",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/10/193",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_02_10_193.html",
+     "sha256": "5990953351388202e0c51ec60fdcf81cf59d079cc7955453d2ab3e3c2cf07ace"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-1949",
+   "path": "uredba/2021/1949",
+   "short": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "title": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/112/1949",
+   "versions": [
+    {
+     "from": "2021-10-16",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_10_112_1949.html",
+     "sha256": "a5bb73018ce4802dd931ea869b73493f14f4fbabeac37976e000415d7d4581e1"
     }
    ]
   },
@@ -168340,6 +170350,72 @@
      "units": 60,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_11_119_2043.html",
      "sha256": "8319d8ea3961d71e7aa5d0bb8f88370f7643775c1058ba08e169407cc52a2872"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-2083",
+   "path": "uredba/2021/2083",
+   "short": "Uredba o izmjenama Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "title": "Uredba o izmjenama Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/121/2083",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_11_121_2083.html",
+     "sha256": "a5248c725c9f44b002901e00a929576093630a7164c461e5e7180ae5c8c4b8ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-2198",
+   "path": "uredba/2021/2198",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva prostornoga uređenja, graditeljstva i državne imovine",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva prostornoga uređenja, graditeljstva i državne imovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/131/2198",
+   "versions": [
+    {
+     "from": "2021-12-11",
+     "units": 179,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_131_2198.html",
+     "sha256": "c7e472558e07cadc7669e8f0a3c000b9fb5c9eb481dc2ef1cc95510dea776a75"
+    },
+    {
+     "from": "2023-03-11",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_28_472.html",
+     "sha256": "862003c17eb9e6cf9221ee5e0bff93401fbcb44bdf6ef265d10f229a05699e41"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-2211",
+   "path": "uredba/2021/2211",
+   "short": "Uredba o prestanku važenja Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "title": "Uredba o prestanku važenja Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/133/2211",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_133_2211.html",
+     "sha256": "e44c9e2658b10ad8b1c5bbcb200b29593b34db5fdf5559fb429b50c23fcce4dd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-2317",
+   "path": "uredba/2021/2317",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/138/2317",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_12_138_2317.html",
+     "sha256": "1cf4d87dcda5b970ef98efbe0b7ac7594f8da3b8fa927e46ae54c7c01e6b026a"
     }
    ]
   },
@@ -168406,6 +170482,21 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_01_2_26.html",
      "sha256": "150f64fe6328ac5f189337ec9e747e110cd4aa75eb028afa7419a4964c978afb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-273",
+   "path": "uredba/2021/273",
+   "short": "Uredba o načinu izračuna i visini sredstava za uzdržavanje državljanina treće zemlje u Republici Hrvatskoj",
+   "title": "Uredba o načinu izračuna i visini sredstava za uzdržavanje državljanina treće zemlje u Republici Hrvatskoj",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/14/273",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_02_14_273.html",
+     "sha256": "b5a71f66315fc4a025d21968f63b5fd9cb201ecea830ce030e3aad2cad117dba"
     }
    ]
   },
@@ -168515,6 +170606,27 @@
    ]
   },
   {
+   "slug": "uredba-2021-452",
+   "path": "uredba/2021/452",
+   "short": "Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode",
+   "title": "Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/20/452",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_02_20_452.html",
+     "sha256": "a53744ff3666cb07c883a80cec0f12ba137ac330402fd819b36efcc32b3c0abc"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2523.html",
+     "sha256": "20fe231db18265400c643500ebb31f4cf269fdb749504d52bdf6fc0989a6af31"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-569",
    "path": "uredba/2021/569",
    "short": "Uredba o Državnoj ergeli Đakovo i Lipik",
@@ -168526,6 +170638,36 @@
      "units": 18,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_03_26_569.html",
      "sha256": "fd1dc4a4ecdeb9c5c9422d88e682765b00919b4e38be607740a6cd48cb292b1b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-570",
+   "path": "uredba/2021/570",
+   "short": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/26/570",
+   "versions": [
+    {
+     "from": "2021-03-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_03_26_570.html",
+     "sha256": "a26ce502430f0fa30bee2acaa6495aa1499e56ad612e7ed06346b63be7d20c8f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-648",
+   "path": "uredba/2021/648",
+   "short": "Uredba o izmjenama i dopunama Uredbe o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja",
+   "title": "Uredba o izmjenama i dopunama Uredbe o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/30/648",
+   "versions": [
+    {
+     "from": "2021-04-03",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_03_30_648.html",
+     "sha256": "28e0392717bae1d35ea963fd27e7d2e9f6344b391b3f51f828627a0011dbd497"
     }
    ]
   },
@@ -168560,6 +170702,21 @@
    ]
   },
   {
+   "slug": "uredba-2021-834",
+   "path": "uredba/2021/834",
+   "short": "Uredba o postupku sklapanja ugovora o javnim uslugama",
+   "title": "Uredba o postupku sklapanja ugovora o javnim uslugama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/43/834",
+   "versions": [
+    {
+     "from": "2021-04-24",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_43_834.html",
+     "sha256": "ae0d183f913aac9f5d954e101bd1a66d953b3b84b470d4a0dc78cfcc3c3e0150"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-934",
    "path": "uredba/2021/934",
    "short": "Uredba o izmjeni Uredbe o jediničnim naknadama, korektivnim koeficijentima i pobližim kriterijima i mjerilima za utvrđivanje naknade na emisiju u okoliš ugljikovog dioksida",
@@ -168571,6 +170728,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_46_934.html",
      "sha256": "29c24ec6799f509ce983a5bd8dec7330cf39b245c8af7a81f0980945aeea6563"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-935",
+   "path": "uredba/2021/935",
+   "short": "Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta«",
+   "title": "Uredba o izmjenama Uredbe o tijelima u sustavima upravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem »Ulaganje za rast i radna mjesta«",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2021/46/935",
+   "versions": [
+    {
+     "from": "2021-05-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2021_04_46_935.html",
+     "sha256": "2ba498bcfcb643afc1a81b00ac6cafcd10f3548d68899abd3d7b4bb0d2b679e2"
     }
    ]
   },
@@ -183119,6 +185291,66 @@
    ]
   },
   {
+   "slug": "uredba-2022-1038",
+   "path": "uredba/2022/1038",
+   "short": "Uredba o dopunama Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "title": "Uredba o dopunama Uredbe o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/70/1038",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_06_70_1038.html",
+     "sha256": "8112bae83287764bf1cb46357f928665ac4804031fab012d8ccc6fd1bdfc60a6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1062",
+   "path": "uredba/2022/1062",
+   "short": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjeni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/72/1062",
+   "versions": [
+    {
+     "from": "2022-07-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_06_72_1062.html",
+     "sha256": "6cf6fdf9108ea0b4e7254e99b8cdff82c5a56b7546f3c2707b84f738b10c853a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1097",
+   "path": "uredba/2022/1097",
+   "short": "Uredba o izmjenama i dopunama Uredbe o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja",
+   "title": "Uredba o izmjenama i dopunama Uredbe o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/75/1097",
+   "versions": [
+    {
+     "from": "2022-07-02",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_75_1097.html",
+     "sha256": "1126f5ca441d89557f03f4165ae410805cb6fe8876a71016dfb9d9b99146a702"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1119",
+   "path": "uredba/2022/1119",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/76/1119",
+   "versions": [
+    {
+     "from": "2022-07-05",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_76_1119.html",
+     "sha256": "6f21506b92b81b608f55bd6e9e4f6b298cffdbf0e241fb271129b41232500cee"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-1147",
    "path": "uredba/2022/1147",
    "short": "Uredba o izmjeni Uredbe o osnivanju Središnje agencije za financiranje i ugovaranje programa i projekata Europske unije",
@@ -183134,6 +185366,36 @@
    ]
   },
   {
+   "slug": "uredba-2022-1226",
+   "path": "uredba/2022/1226",
+   "short": "Uredba o izmjenama i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o izmjenama i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/82/1226",
+   "versions": [
+    {
+     "from": "2022-07-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_82_1226.html",
+     "sha256": "cc566797c372080610487dd8e489baa5d81501e9b7d6716af67964d9099ac9ef"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1252",
+   "path": "uredba/2022/1252",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/83/1252",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_83_1252.html",
+     "sha256": "2e085b66ed942967f81ec00ea7a1d0f515f4b081bbce33b2756010d47ebcf936"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-127",
    "path": "uredba/2022/127",
    "short": "Uredba o ljetnom računanju vremena u 2022., 2023., 2024., 2025. i 2026. godini",
@@ -183145,6 +185407,141 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_13_127.html",
      "sha256": "dc2c8e3216c4c1c6d74f93ef90928e562767e9e5442a6979d8891605e8093358"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-129",
+   "path": "uredba/2022/129",
+   "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "title": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/13/129",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_13_129.html",
+     "sha256": "569bda91063ab8daef1304255cbf4fa01559c9a42a98a0b3b63ed687d46a3673"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1300",
+   "path": "uredba/2022/1300",
+   "short": "Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu",
+   "title": "Uredba o izmjeni i dopuni Zakona o udžbenicima i drugim obrazovnim materijalima za osnovnu i srednju školu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/85/1300",
+   "versions": [
+    {
+     "from": "2022-07-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_85_1300.html",
+     "sha256": "6ae2abdf42025ed4688fbc1ced8adf3d341fe43d96689ab1b79538ace804ed56"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1358",
+   "path": "uredba/2022/1358",
+   "short": "Uredba o dopuni Uredbe o graničnim prijelazima Republike Hrvatske",
+   "title": "Uredba o dopuni Uredbe o graničnim prijelazima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/88/1358",
+   "versions": [
+    {
+     "from": "2022-08-06",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_88_1358.html",
+     "sha256": "95f70c5cfea7c8c60f024ee81fe93940253de71497a751817ef2d974a3953bc2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1381",
+   "path": "uredba/2022/1381",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/89/1381",
+   "versions": [
+    {
+     "from": "2022-08-02",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_89_1381.html",
+     "sha256": "e705c73b27ebd3c83eba1764057a9b768d0db60a5e20e426c4ad642833343370"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1424",
+   "path": "uredba/2022/1424",
+   "short": "Uredba o funkcijama, zadaćama i odgovornosti Koordinacijskog tijela u institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj u financijskom razdoblju od 2021. do 2027. godine",
+   "title": "Uredba o funkcijama, zadaćama i odgovornosti Koordinacijskog tijela u institucionalnom okviru za korištenje fondova Europske unije u Republici Hrvatskoj u financijskom razdoblju od 2021. do 2027. godine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/96/1424",
+   "versions": [
+    {
+     "from": "2022-08-27",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1424.html",
+     "sha256": "fc580aee70b1da61b8aa00dfef31fbf71931a35e33f0092aa4dbd1daf37f5245"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1425",
+   "path": "uredba/2022/1425",
+   "short": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu programa kojima se podržava cilj »Europska teritorijalna suradnja« u Republici Hrvatskoj u financijskom razdoblju 2021. - 2027.",
+   "title": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu programa kojima se podržava cilj »Europska teritorijalna suradnja« u Republici Hrvatskoj u financijskom razdoblju 2021. - 2027.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/96/1425",
+   "versions": [
+    {
+     "from": "2022-08-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1425.html",
+     "sha256": "8ed6a3f4ce96985e5cdbbc245897b8f95268ebe43a060c34832b713f71184059"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1426",
+   "path": "uredba/2022/1426",
+   "short": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu programa iz područja konkurentnosti i kohezije za financijsko razdoblje 2021. - 2027.",
+   "title": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu programa iz područja konkurentnosti i kohezije za financijsko razdoblje 2021. - 2027.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/96/1426",
+   "versions": [
+    {
+     "from": "2022-08-27",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1426.html",
+     "sha256": "447cc6fb35aa5182b4bbbca235955e52efa1beba1d4f318f6aa54086eaa343aa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1427",
+   "path": "uredba/2022/1427",
+   "short": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu programa iz područja teritorijalnih ulaganja i pravedne tranzicije za financijsko razdoblje 2021. - 2027.",
+   "title": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu programa iz područja teritorijalnih ulaganja i pravedne tranzicije za financijsko razdoblje 2021. - 2027.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/96/1427",
+   "versions": [
+    {
+     "from": "2022-08-27",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1427.html",
+     "sha256": "5ec3b24c51e40dc88f93444277af66346c301c944b195e9bb5844afa7b750c22"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1428",
+   "path": "uredba/2022/1428",
+   "short": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu Programa za ribarstvo i akvakulturu Republike Hrvatske za programsko razdoblje 2021. - 2027.",
+   "title": "Uredba o tijelima u sustavu upravljanja i kontrole za provedbu Programa za ribarstvo i akvakulturu Republike Hrvatske za programsko razdoblje 2021. - 2027.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/96/1428",
+   "versions": [
+    {
+     "from": "2022-08-27",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1428.html",
+     "sha256": "7f441a6f9ab34b0be3948dd0ceb66e872d1758638c4042ef97b48304c20844e0"
     }
    ]
   },
@@ -183179,6 +185576,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-1431",
+   "path": "uredba/2022/1431",
+   "short": "Uredba o tijelima u Sustavu upravljanja i kontrole za provedbu Programa Fonda za unutarnju sigurnost, Fonda za azil, migracije i integraciju i Fonda za integrirano upravljanje granicama Instrumenta za financijsku potporu u području upravljanja granicama i vizne politike za programsko razdoblje 2021. - 2027.",
+   "title": "Uredba o tijelima u Sustavu upravljanja i kontrole za provedbu Programa Fonda za unutarnju sigurnost, Fonda za azil, migracije i integraciju i Fonda za integrirano upravljanje granicama Instrumenta za financijsku potporu u području upravljanja granicama i vizne politike za programsko razdoblje 2021. - 2027.",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/96/1431",
+   "versions": [
+    {
+     "from": "2022-08-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_96_1431.html",
+     "sha256": "02d126d6b5e98e3c31a084adb8ccc7a6ea5d12c93214dc0c3b2292b5c29e7a86"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-1445",
    "path": "uredba/2022/1445",
    "short": "Uredba o izmjeni i dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
@@ -183190,6 +185602,81 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_99_1445.html",
      "sha256": "735d71b60b3563cc36b4fc0bf3f718bc02eb5980a8dde18237c165e23d51127b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1462",
+   "path": "uredba/2022/1462",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/100/1462",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_08_100_1462.html",
+     "sha256": "10e971c58020d377fcfa69563400c4cda886ce745c7966dffcdbd40e186da1c9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1519",
+   "path": "uredba/2022/1519",
+   "short": "Uredba o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/104/1519",
+   "versions": [
+    {
+     "from": "2022-09-10",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_104_1519.html",
+     "sha256": "74ff563f0933d78b7914f268b1c53169fc710ef4258ab7e93de58bad508d2a94"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1520",
+   "path": "uredba/2022/1520",
+   "short": "Uredba o nadoknadi dijela troška dizelskog goriva koje se koristi kao pogonsko gorivo u komercijalnom cestovnom prijevozu putnika",
+   "title": "Uredba o nadoknadi dijela troška dizelskog goriva koje se koristi kao pogonsko gorivo u komercijalnom cestovnom prijevozu putnika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/104/1520",
+   "versions": [
+    {
+     "from": "2022-09-10",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_104_1520.html",
+     "sha256": "f881e7cea2375d3cc1210a13e95c80fdf89ae0f6054635d64e1b975cc51f8b29"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1521",
+   "path": "uredba/2022/1521",
+   "short": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "title": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/104/1521",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_104_1521.html",
+     "sha256": "88d44325dd055ce16d3677a63975f8de659c99af29fcc31bc1e37d1e3091109b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1549",
+   "path": "uredba/2022/1549",
+   "short": "Uredba o izmjeni i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjeni i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/106/1549",
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_106_1549.html",
+     "sha256": "07518d4ccf9418867fc2636854f308d95f316d52e761340cd75c38c4152f1b29"
     }
    ]
   },
@@ -183209,6 +185696,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-1566",
+   "path": "uredba/2022/1566",
+   "short": "Uredba o utvrđivanju popisa mjernih mjesta za praćenje koncentracija pojedinih onečišćujućih tvari u zraku i lokacija mjernih postaja u državnoj mreži za trajno praćenje kvalitete zraka",
+   "title": "Uredba o utvrđivanju popisa mjernih mjesta za praćenje koncentracija pojedinih onečišćujućih tvari u zraku i lokacija mjernih postaja u državnoj mreži za trajno praćenje kvalitete zraka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/107/1566",
+   "versions": [
+    {
+     "from": "2022-09-24",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_107_1566.html",
+     "sha256": "d5650c1696ffbdd50b9d425c36cc9533f85727310f918e1379a6e9a85b5fec75"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-157",
    "path": "uredba/2022/157",
    "short": "Uredba o izmjenama Uredbe o metodologijama vještačenja",
@@ -183220,6 +185722,66 @@
      "units": 30,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_16_157.html",
      "sha256": "55370574a6b622e4484f7e3c2f6160f78636fdb4a7f15b42ca5a1ac1616f0dff"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1661",
+   "path": "uredba/2022/1661",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/113/1661",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_09_113_1661.html",
+     "sha256": "80d5b998ff4da0667997f6eb84d51f3f8fbacf367f96b2bd40c42dcfa53478d5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-177",
+   "path": "uredba/2022/177",
+   "short": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "title": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/17/177",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_02_17_177.html",
+     "sha256": "223469ba1dd65791ad0775a3e93b8ae3f6ea5b871ef384d7e4e69e3ff4799181"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1852",
+   "path": "uredba/2022/1852",
+   "short": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "title": "Uredba o utvrđivanju najviših maloprodajnih cijena naftnih derivata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/120/1852",
+   "versions": [
+    {
+     "from": "2022-10-18",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_120_1852.html",
+     "sha256": "3cf61a56d6df385d9130dc30f3232e74d75f7d4eee1ff746893930959d9c3cc9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-1861",
+   "path": "uredba/2022/1861",
+   "short": "Uredba o izmjeni i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjeni i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/121/1861",
+   "versions": [
+    {
+     "from": "2022-10-20",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_121_1861.html",
+     "sha256": "d629d2233bd5bb80b022f240b805f4f2a803f8a3515d7ed64a5ae10fa2a0f04c"
     }
    ]
   },
@@ -183239,6 +185801,36 @@
    ]
   },
   {
+   "slug": "uredba-2022-1916",
+   "path": "uredba/2022/1916",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/126/1916",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_126_1916.html",
+     "sha256": "5944e80859d4cc59195e46dca746bb26cc135dab0490c922a923d76133ae5f11"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2076",
+   "path": "uredba/2022/2076",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/138/2076",
+   "versions": [
+    {
+     "from": "2022-11-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_138_2076.html",
+     "sha256": "c2d8054f708bfe0927604612b620762c61038190205958e793e695dc385aa7b7"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-2089",
    "path": "uredba/2022/2089",
    "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u državnoj službi",
@@ -183250,6 +185842,36 @@
      "units": 13,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_11_139_2089.html",
      "sha256": "7cec1ce1d59bf5f8ca3564064a4844a87266ff25ed7a745f887854d990027262"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2122",
+   "path": "uredba/2022/2122",
+   "short": "Uredba o izmjenama Uredbe o visini naknade za korištenje voda",
+   "title": "Uredba o izmjenama Uredbe o visini naknade za korištenje voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/140/2122",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_140_2122.html",
+     "sha256": "fe560f0c2a28c51a14d0b7e673b732557e1d7d7cd0ac8e9c53bc5f4ffccf81ad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2294",
+   "path": "uredba/2022/2294",
+   "short": "Uredba o izmjeni Uredbe o plaćama policijskih službenika",
+   "title": "Uredba o izmjeni Uredbe o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/149/2294",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_149_2294.html",
+     "sha256": "6453576c2970fcad26a979ed4bec21ef99b79c1297ccce773bbbf8245bfe7d23"
     }
    ]
   },
@@ -183269,6 +185891,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-2297",
+   "path": "uredba/2022/2297",
+   "short": "Uredba o izmjenama i dopunama Uredbe o policijskim zvanjima",
+   "title": "Uredba o izmjenama i dopunama Uredbe o policijskim zvanjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/149/2297",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_149_2297.html",
+     "sha256": "3c1c79935343eb5ccf8a7d139f2e8fe0eeb63d7849b844e7fac6aedf46138710"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-2298",
    "path": "uredba/2022/2298",
    "short": "Uredba o izmjenama i dopunama Uredbe o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
@@ -183280,6 +185917,21 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_149_2298.html",
      "sha256": "4f81014e4aa88354ddc0607fc7b90c72525605dd21a0c3a95d9750a1bd681cbb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2299",
+   "path": "uredba/2022/2299",
+   "short": "Uredba o izmjenama i dopunama Uredbe o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja",
+   "title": "Uredba o izmjenama i dopunama Uredbe o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/149/2299",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_149_2299.html",
+     "sha256": "b370a43e687a3a307f4253a9cb5971a47b7a47aa8836b66733c104c6809271ce"
     }
    ]
   },
@@ -183335,6 +185987,36 @@
    ]
   },
   {
+   "slug": "uredba-2022-2520",
+   "path": "uredba/2022/2520",
+   "short": "Uredba o Tarifi upravnih pristojbi",
+   "title": "Uredba o Tarifi upravnih pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2520",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2520.html",
+     "sha256": "17ea69d07240cc95691a2d222c6555476333ce661c9e11a2f582a498c658ed2a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2521",
+   "path": "uredba/2022/2521",
+   "short": "Uredba o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2521",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2521.html",
+     "sha256": "1e1235416e61e8eeaff2e0ecf5e6b6feab6c94f30a3b54b52dfbf8c03d4f1f85"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-2522",
    "path": "uredba/2022/2522",
    "short": "Uredba o visini trošarine na alkohol i alkoholna pića",
@@ -183346,6 +186028,27 @@
      "units": 12,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2522.html",
      "sha256": "b6d78d9086f82b0e527fab9cb310db8ee55d3e88daa18b99274fb4a9d82a9d2e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2523",
+   "path": "uredba/2022/2523",
+   "short": "Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode",
+   "title": "Uredba o visini trošarine na duhanske prerađevine i duhanske proizvode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2523",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2523.html",
+     "sha256": "20fe231db18265400c643500ebb31f4cf269fdb749504d52bdf6fc0989a6af31"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_95_1291.html",
+     "sha256": "cb93c4975070875dbd9f521e61078fb375bd25a427a6d8fdbf5f952221d2b4a6"
     }
    ]
   },
@@ -183410,6 +186113,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-2528",
+   "path": "uredba/2022/2528",
+   "short": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "title": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2528",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2528.html",
+     "sha256": "919dfd1dba8ca8cb7835123dfb3641095413a452e9c52fce54dbb393b9e5bd12"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-2529",
    "path": "uredba/2022/2529",
    "short": "Uredba o izmjenama Uredbe o načinu i uvjetima za ostvarivanje materijalnih prava mobiliziranih pripadnika postrojbi civilne zaštite za vrijeme sudjelovanja u aktivnostima u sustavu civilne zaštite",
@@ -183421,6 +186139,21 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2529.html",
      "sha256": "5d6af63eb4ea91d8a4a962b9cb8bbef5c5c74936b79557ddbfcf7fd82f68a215"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-2530",
+   "path": "uredba/2022/2530",
+   "short": "Uredba o izmjeni i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjeni i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/156/2530",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_156_2530.html",
+     "sha256": "5ea8e73319c7aa774926f1f98d22f68df0e9378c56bc436dce8dc96d31f7f0f2"
     }
    ]
   },
@@ -183455,6 +186188,36 @@
    ]
   },
   {
+   "slug": "uredba-2022-357",
+   "path": "uredba/2022/357",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/28/357",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_28_357.html",
+     "sha256": "6abaf13dd66d18e43264adc035bb94e236c3fcc5adb55b13d89c9415fd22effd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-373",
+   "path": "uredba/2022/373",
+   "short": "Uredba o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "title": "Uredba o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/31/373",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_31_373.html",
+     "sha256": "2c5cc7c04ecbf4d855001cc9733af5da94dcded6e62ad7a4ed342ccae3f46b92"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-374",
    "path": "uredba/2022/374",
    "short": "Uredba o izmjenama i dopuni Uredbe o kriterijima za stjecanje statusa ugroženih kupaca energije iz umreženih sustava",
@@ -183470,6 +186233,36 @@
    ]
   },
   {
+   "slug": "uredba-2022-375",
+   "path": "uredba/2022/375",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/31/375",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_31_375.html",
+     "sha256": "dc26bb0bf3b28bd21a7a21ecce1bce71213ad97fa3fa58b19b980871b998fbc6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-412",
+   "path": "uredba/2022/412",
+   "short": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "title": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/35/412",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_35_412.html",
+     "sha256": "96175e51ff1e63a8fb0eaea16df0865777b382dc0ac5ac1fd618e3071f680553"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-434",
    "path": "uredba/2022/434",
    "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva rada, mirovinskoga sustava, obitelji i socijalne politike",
@@ -183481,6 +186274,87 @@
      "units": 31,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_03_36_434.html",
      "sha256": "2c61952622b125192abdcfb973c46cffbdf8ed022082650e6c0727a2f3d80527"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-51",
+   "path": "uredba/2022/51",
+   "short": "Uredba o naknadi štete po osnovi otuđenja mineralne sirovine",
+   "title": "Uredba o naknadi štete po osnovi otuđenja mineralne sirovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/6/51",
+   "versions": [
+    {
+     "from": "2022-01-15",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_6_51.html",
+     "sha256": "c9eea9efbc53ec7043d2125b1326209569552c2f1a64ed26ada2cf94cac4d14f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_44_763.html",
+     "sha256": "f3a816546a56c6a9de911c71fb237b8ac42b15b0fd735c8b62ae62305a7ca0d4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-65",
+   "path": "uredba/2022/65",
+   "short": "Uredba o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja",
+   "title": "Uredba o područjima, sjedištima, vrstama i kategorijama policijskih uprava i policijskih postaja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/7/65",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 213,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_7_65.html",
+     "sha256": "259745c6a043c941b0750ddb09fda339d144434a995230f085753cc3c25d1a3f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-66",
+   "path": "uredba/2022/66",
+   "short": "Uredba o plaćama policijskih službenika",
+   "title": "Uredba o plaćama policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/7/66",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_7_66.html",
+     "sha256": "f196943ab74badeb28d70773ba825d74cfae58c08dfafafb33cac9563b8a137d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-67",
+   "path": "uredba/2022/67",
+   "short": "Uredba o klasifikaciji radnih mjesta policijskih službenika",
+   "title": "Uredba o klasifikaciji radnih mjesta policijskih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/7/67",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_7_67.html",
+     "sha256": "30d05e216645e4a8992f33974cf8a7d7d7c2d8dddc40784900278a31ed37bd4a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-69",
+   "path": "uredba/2022/69",
+   "short": "Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "title": "Uredba o radnim mjestima policijskih službenika kojima se staž osiguranja računa u povećanom trajanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/7/69",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_7_69.html",
+     "sha256": "40a74b3125ff0d264ee6a7db642faea5748864bacb013dd0e8227e127b523fa5"
     }
    ]
   },
@@ -183517,6 +186391,21 @@
      "units": 0,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_72_1224.html",
      "sha256": "1a842dfe0062adfb5aa86ab8d83698bea2319b4673957a31d6c77756326132ae"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-71",
+   "path": "uredba/2022/71",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva unutarnjih poslova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/7/71",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 264,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_7_71.html",
+     "sha256": "6f83d79366eaf0f7bde684bf04d600bd24118ee97d6de208cad8e9a3aeb70c96"
     }
    ]
   },
@@ -183592,6 +186481,27 @@
      "units": 27,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_01_9_84.html",
      "sha256": "d9413a9656250149c85be336f6c6aa12a279a6a534efa418a3e532739cffca05"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-922",
+   "path": "uredba/2022/922",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2022/64/922",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_06_64_922.html",
+     "sha256": "781d29798afcb43aba034402f745655cdab6dc98866fa751679556f540378bbd"
+    },
+    {
+     "from": "2022-07-05",
+     "units": 0,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2022_07_76_1119.html",
+     "sha256": "6f21506b92b81b608f55bd6e9e4f6b298cffdbf0e241fb271129b41232500cee"
     }
    ]
   },
@@ -201140,6 +204050,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-1016",
+   "path": "uredba/2023/1016",
+   "short": "Uredba o Popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "title": "Uredba o Popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/61/1016",
+   "versions": [
+    {
+     "from": "2023-06-08",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_61_1016.html",
+     "sha256": "2cce85451c1b320ca70e17965542477f69db7211f4637566e88cf859bd7e7586"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-1017",
    "path": "uredba/2023/1017",
    "short": "Uredba o dopunama Uredbe o određivanju građevina, drugih zahvata u prostoru i površina državnog i područnog (regionalnog) značaja",
@@ -201230,6 +204155,51 @@
    ]
   },
   {
+   "slug": "uredba-2023-1179",
+   "path": "uredba/2023/1179",
+   "short": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "title": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/71/1179",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_71_1179.html",
+     "sha256": "2990c35249f6948d46e339636d3c9491106da678d6583f58ef1d6ac759319852"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1180",
+   "path": "uredba/2023/1180",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/71/1180",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_71_1180.html",
+     "sha256": "441db802eddd5b4f9164e746f13320dc9553b076f50802f1908e4f4617712e86"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1206",
+   "path": "uredba/2023/1206",
+   "short": "Uredba o izmjenama i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjenama i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/74/1206",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_74_1206.html",
+     "sha256": "2bf8362642e6d4f30bd71dcff9b0cb08b01052f9a6015c60c2b96a316cc47b56"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-1245",
    "path": "uredba/2023/1245",
    "short": "Uredba o programskom financiranju javnih visokih učilišta i javnih znanstvenih instituta u Republici Hrvatskoj",
@@ -201241,6 +204211,36 @@
      "units": 22,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_78_1245.html",
      "sha256": "da4431508c08c6a61ae960fca8853e2154f900ea81a34a07d5cde7e6112eadad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1246",
+   "path": "uredba/2023/1246",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/78/1246",
+   "versions": [
+    {
+     "from": "2023-07-15",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_78_1246.html",
+     "sha256": "23e307ce3e66497e2383d5989ab784280a5b60b05c678a5f4fc13b5922b55375"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1263",
+   "path": "uredba/2023/1263",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/79/1263",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_79_1263.html",
+     "sha256": "9642b48e604bff2a90077e36b788ae7e47106b912cd20ef8dd87419f5812f09b"
     }
    ]
   },
@@ -201281,6 +204281,36 @@
    ]
   },
   {
+   "slug": "uredba-2023-1372",
+   "path": "uredba/2023/1372",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/88/1372",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_07_88_1372.html",
+     "sha256": "f531c3aa99867537a4e495a4518eab46c83307712eb501e51a07da15a1d9e346"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1419",
+   "path": "uredba/2023/1419",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/94/1419",
+   "versions": [
+    {
+     "from": "2023-08-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_94_1419.html",
+     "sha256": "336a020f9aefa9605329ac1eab810b619267d83cae24016a1fdcf565f282a1b9"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-1430",
    "path": "uredba/2023/1430",
    "short": "Uredba o metodologijama vještačenja",
@@ -201311,6 +204341,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-1453",
+   "path": "uredba/2023/1453",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/98/1453",
+   "versions": [
+    {
+     "from": "2023-08-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_08_98_1453.html",
+     "sha256": "180cbc03dbd083810b59676563a699f861a27500f33fefe775c47b86e86a9070"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-1468",
    "path": "uredba/2023/1468",
    "short": "Uredba o izmjeni Zakona o predškolskom odgoju i obrazovanju",
@@ -201332,6 +204377,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-1469",
+   "path": "uredba/2023/1469",
+   "short": "Uredba o dopuni Zakona o šumama",
+   "title": "Uredba o dopuni Zakona o šumama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/101/1469",
+   "versions": [
+    {
+     "from": "2023-09-02",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_101_1469.html",
+     "sha256": "95a56acf374cac50914ffe2a708e2011d66c93e5b4babe7ca31ea9868e4d181b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-1470",
    "path": "uredba/2023/1470",
    "short": "Uredba o izmjeni i dopunama Uredbe o plaćama, dodacima i naknadama u službi vanjskih poslova",
@@ -201347,6 +204407,81 @@
    ]
   },
   {
+   "slug": "uredba-2023-1476",
+   "path": "uredba/2023/1476",
+   "short": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "title": "Uredba o izmjenama i dopunama Uredbe o unutarnjem ustrojstvu Ministarstva poljoprivrede",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/102/1476",
+   "versions": [
+    {
+     "from": "2023-09-12",
+     "units": 187,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_102_1476.html",
+     "sha256": "cc25b6c146a08b72248877b3dbe7a7274d39a30d925d4ab72a8d8fb2ad4bfde9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1485",
+   "path": "uredba/2023/1485",
+   "short": "Uredba o dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/104/1485",
+   "versions": [
+    {
+     "from": "2023-09-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_104_1485.html",
+     "sha256": "70a729fb5bcfaef796422392c1cf8d1d877af6bfb47e8eb15fb9e0f60a84cd3b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1507",
+   "path": "uredba/2023/1507",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/105/1507",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_105_1507.html",
+     "sha256": "f2f55a4f15e42ebdf904e5aef4c6fbd4499a6b0c277d4ced6c1b4ab7200ee661"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1529",
+   "path": "uredba/2023/1529",
+   "short": "Uredba o mehanizmima financiranja u okviru sustava trgovanja emisijama stakleničkih plinova",
+   "title": "Uredba o mehanizmima financiranja u okviru sustava trgovanja emisijama stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/107/1529",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 24,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_107_1529.html",
+     "sha256": "a9e96b7e76b5e238ac7948214f3c138b143c589b965c1dc4ca0d772c8fea4985"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1530",
+   "path": "uredba/2023/1530",
+   "short": "Uredba o izmjenama i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjenama i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/107/1530",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_107_1530.html",
+     "sha256": "35908ba18415bf1a9d538eb91b6605831a630bfedeaa88c88a0154ba83daf667"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-156",
    "path": "uredba/2023/156",
    "short": "Uredba o načinu financiranja decentraliziranih funkcija te izračuna iznosa pomoći izravnanja za decentralizirane funkcije jedinica lokalne i područne (regionalne) samouprave za 2023. godinu",
@@ -201358,6 +204493,96 @@
      "units": 14,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_01_8_156.html",
      "sha256": "cae110dfd0a42b5c945104ed1ceea2f3595c84a377200df2d68aa668a96d67c0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1562",
+   "path": "uredba/2023/1562",
+   "short": "Uredba o kriterijima i mjerilima za utvrđivanje iznosa sredstava za fiskalnu održivost dječjih vrtića",
+   "title": "Uredba o kriterijima i mjerilima za utvrđivanje iznosa sredstava za fiskalnu održivost dječjih vrtića",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/109/1562",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_109_1562.html",
+     "sha256": "0f0a53a3d1fc7662635167438c56cc8218d533a50f5755b9ac3cbdc254efdcf3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1578",
+   "path": "uredba/2023/1578",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/110/1578",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_09_110_1578.html",
+     "sha256": "ee76d16e7eea76736fc9519210349f52d70b5f76ee6bbcdec8cdf245b68345fb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1648",
+   "path": "uredba/2023/1648",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/116/1648",
+   "versions": [
+    {
+     "from": "2023-10-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_10_116_1648.html",
+     "sha256": "4ede35280c6360145d32ae259f85688b2e639896fb0e0a51c95ca64620b89315"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1661",
+   "path": "uredba/2023/1661",
+   "short": "Uredba o izmjenama Uredbe o ekološkoj mreži i nadležnostima javnih ustanova za upravljanje područjima ekološke mreže",
+   "title": "Uredba o izmjenama Uredbe o ekološkoj mreži i nadležnostima javnih ustanova za upravljanje područjima ekološke mreže",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/119/1661",
+   "versions": [
+    {
+     "from": "2023-10-21",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_10_119_1661.html",
+     "sha256": "4e08cca12c174c39a55122de338a07349dd943b6b5a2e35659313c43b5603910"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1683",
+   "path": "uredba/2023/1683",
+   "short": "Uredba o izmjeni i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjeni i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/122/1683",
+   "versions": [
+    {
+     "from": "2023-10-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_10_122_1683.html",
+     "sha256": "20241dda0da70d314f11bdec425b2eb73e68bec33272152a96a5a1d8ca27664e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1708",
+   "path": "uredba/2023/1708",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/123/1708",
+   "versions": [
+    {
+     "from": "2023-10-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_10_123_1708.html",
+     "sha256": "da4c5ba999f417c2c5f2bfc2205e6824469289a0c173c53f3f2e330878f37f77"
     }
    ]
   },
@@ -201403,6 +204628,111 @@
      "units": 22,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_11_131_1800.html",
      "sha256": "9f840c9bf7b71b533d80de880c5f977d666c6270bba4899da921c94659ad7e6d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1814",
+   "path": "uredba/2023/1814",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/132/1814",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_11_132_1814.html",
+     "sha256": "94a01f959230c4bf06dde7c37e921ed1a0173a8259132c19756fa2f5f1177dc4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1896",
+   "path": "uredba/2023/1896",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/139/1896",
+   "versions": [
+    {
+     "from": "2023-11-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_11_139_1896.html",
+     "sha256": "a87a852c4f8213dc0886543ced8a665c1694dd365affbbc584f8b337364d7124"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-1984",
+   "path": "uredba/2023/1984",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/144/1984",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_144_1984.html",
+     "sha256": "55f722a65b2d4a611556f123b8014a61d512ff33163773742af6e19993e85592"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-2",
+   "path": "uredba/2023/2",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/1/2",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_01_1_2.html",
+     "sha256": "f7db6e05c41330c84ad6ce56d4dabde2973ec80800462191ea2d5c0b2b9f2610"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-206",
+   "path": "uredba/2023/206",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/10/206",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_01_10_206.html",
+     "sha256": "6e59698661c471da31394f8b13b7ddee85088129a90a5b82afaa28439a26b92d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-2190",
+   "path": "uredba/2023/2190",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/151/2190",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_151_2190.html",
+     "sha256": "86b9aee4cb76bb1e57c8302789716602f29983798c10625a6f262f582b56749b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-2367",
+   "path": "uredba/2023/2367",
+   "short": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "title": "Uredba o dopuni Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/155/2367",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_155_2367.html",
+     "sha256": "7981f6cc1eab8f7081fba1a60e4973298a433778bf382e6c39c7cb7682930c99"
     }
    ]
   },
@@ -201454,6 +204784,66 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_158_2506.html",
      "sha256": "2f10cf35f0e51e471e13b03594edf89691e2c8102e4467a6184417b79b94df85"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-2507",
+   "path": "uredba/2023/2507",
+   "short": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "title": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/158/2507",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_158_2507.html",
+     "sha256": "6282c605c6eb281d9e6ac4213ab2d5232a97eeb00350cb712871c800a561d476"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-2508",
+   "path": "uredba/2023/2508",
+   "short": "Uredba o izmjenama Uredbe o visini naknade za korištenje voda",
+   "title": "Uredba o izmjenama Uredbe o visini naknade za korištenje voda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/158/2508",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_12_158_2508.html",
+     "sha256": "d32379e949e8eef1f0c3d0f7e6eae9ab03f3ad3e1fa5fe415f002442a40b7cd6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-3",
+   "path": "uredba/2023/3",
+   "short": "Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske",
+   "title": "Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/1/3",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_01_1_3.html",
+     "sha256": "b47bf487e8d3ab30bc076aa13ce6fa4a2a895165d78f46925a718d3f2d729b62"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-371",
+   "path": "uredba/2023/371",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/22/371",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_02_22_371.html",
+     "sha256": "617c98ea4875d0c9410020cbba076a734fed76b69bfffdd80f000646f9fc8938"
     }
    ]
   },
@@ -201569,6 +204959,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-531",
+   "path": "uredba/2023/531",
+   "short": "Uredba o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/31/531",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 16,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_31_531.html",
+     "sha256": "03cf4205cbb89d966ee49ecc55c8cf1b29e94caa54b667d2b12d8514711074f5"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-532",
    "path": "uredba/2023/532",
    "short": "Uredba o nadoknadi dijela troška dizelskog goriva koje se koristi kao pogonsko gorivo u komercijalnom cestovnom prijevozu putnika",
@@ -201665,6 +205070,51 @@
    ]
   },
   {
+   "slug": "uredba-2023-623",
+   "path": "uredba/2023/623",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/37/623",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_03_37_623.html",
+     "sha256": "566e58cecab7b0cf6e4eb2685b73c8acff14459d6cbf9d74ef5e6d44381329bf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-725",
+   "path": "uredba/2023/725",
+   "short": "Uredba o Uredu Vlade Republike Hrvatske za unutarnju reviziju",
+   "title": "Uredba o Uredu Vlade Republike Hrvatske za unutarnju reviziju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/41/725",
+   "versions": [
+    {
+     "from": "2023-04-22",
+     "units": 19,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_04_41_725.html",
+     "sha256": "dd993127ba6f082c3eefe9d6a337a0861989381a8c57a3baf86651b3d49ae367"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-760",
+   "path": "uredba/2023/760",
+   "short": "Uredba o izmjenama i dopuni Uredbe o naknadi za istraživanje i eksploataciju ugljikovodika",
+   "title": "Uredba o izmjenama i dopuni Uredbe o naknadi za istraživanje i eksploataciju ugljikovodika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/43/760",
+   "versions": [
+    {
+     "from": "2023-04-29",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_04_43_760.html",
+     "sha256": "9747080caaabb6c1df3f7ae692c150806a32512cf5a22eb77dac89a07e644c5e"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-791",
    "path": "uredba/2023/791",
    "short": "Uredba o financijskoj strukturi omotnice za program izravnih plaćanja u 2022. godini",
@@ -201680,6 +205130,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-792",
+   "path": "uredba/2023/792",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/46/792",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_04_46_792.html",
+     "sha256": "25970f26ca3eff65363c4c14cd75bf2658965eea9943743c504fabb81be238f5"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-793",
    "path": "uredba/2023/793",
    "short": "Uredba o izmjenama i dopunama Uredbe o nazivima radnih mjesta i koeficijentima složenosti poslova u javnim službama",
@@ -201691,6 +205156,51 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_04_46_793.html",
      "sha256": "31d9323f836028d0e39095bc1e2eb524ec4c7f222add59686f8fe705013fa34f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-820",
+   "path": "uredba/2023/820",
+   "short": "Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi",
+   "title": "Uredba o izmjenama Uredbe o klasifikaciji radnih mjesta u lokalnoj i područnoj (regionalnoj) samoupravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/48/820",
+   "versions": [
+    {
+     "from": "2023-05-13",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_48_820.html",
+     "sha256": "f40937dd242d3dac33169aa5c13eea09c5dded8d97683fe6fd9da9a4a8ef0c98"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-920",
+   "path": "uredba/2023/920",
+   "short": "Uredba o izmjeni Uredbe o načinima i uvjetima napredovanja državnih službenika",
+   "title": "Uredba o izmjeni Uredbe o načinima i uvjetima napredovanja državnih službenika",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/53/920",
+   "versions": [
+    {
+     "from": "2023-05-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_53_920.html",
+     "sha256": "683f64d5fbf1861d34f94a8e07bfe3e5b4e8caee45dae71a4793095d4bee1e11"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-958",
+   "path": "uredba/2023/958",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/56/958",
+   "versions": [
+    {
+     "from": "2023-06-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2023_05_56_958.html",
+     "sha256": "50284a54a86c0a5a3207acc3018348761f89dceefb6093e4b7b35b009cf25b40"
     }
    ]
   },
@@ -213539,6 +217049,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-1013",
+   "path": "uredba/2024/1013",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/60/1013",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_05_60_1013.html",
+     "sha256": "d6f55e79494bd3134188fa07c9ffec3115bdb43b7e08b8ddb75d632395a94d7a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-1050",
    "path": "uredba/2024/1050",
    "short": "Uredba o prestanku važenja Uredbe o Uredu potpredsjednice Vlade Republike Hrvatske",
@@ -213550,6 +217075,36 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_05_62_1050.html",
      "sha256": "8b72a53527b78a6009512abc6dac8bc938d4f8cb63cd29533806a82c20a51bcf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-108",
+   "path": "uredba/2024/108",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/6/108",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_01_6_108.html",
+     "sha256": "0379ec70a186ef8a79d37685858917d0da2ecd550493721cbd24ed12c42f4ad1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-1146",
+   "path": "uredba/2024/1146",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/66/1146",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_66_1146.html",
+     "sha256": "128a266885614f7651b1827d0ade63672a813deeb5388bd9d3bb5fb1db9d091b"
     }
    ]
   },
@@ -213674,6 +217229,36 @@
    ]
   },
   {
+   "slug": "uredba-2024-1229",
+   "path": "uredba/2024/1229",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/72/1229",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_72_1229.html",
+     "sha256": "ab534f515994434349f1ef1c4f59d873131e55e5b6adfa3f72590889f2be3d48"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-1300",
+   "path": "uredba/2024/1300",
+   "short": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "title": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/76/1300",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_76_1300.html",
+     "sha256": "0863b79db188e7c60a5d81f75a9f9be58e152f7eda93353ed087e740ffe4f213"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-1313",
    "path": "uredba/2024/1313",
    "short": "Uredba o vrijednosti iznosa za utvrđivanje naknade za pružanje sekundarne pravne pomoći za 2024.",
@@ -213685,6 +217270,21 @@
      "units": 22,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_06_77_1313.html",
      "sha256": "edd84ef76bab866a4c27e8f32194a1bae0db69aa0084676bdb75833568992593"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-1478",
+   "path": "uredba/2024/1478",
+   "short": "Uredba o ustrojstvu i načinu rada Odbora za državnu službu",
+   "title": "Uredba o ustrojstvu i načinu rada Odbora za državnu službu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/85/1478",
+   "versions": [
+    {
+     "from": "2024-07-27",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_07_85_1478.html",
+     "sha256": "e0c8eab267f6317a89a76d9c9f9dde220740e2c765fa097a1a081e07a6f06afe"
     }
    ]
   },
@@ -213740,6 +217340,36 @@
    ]
   },
   {
+   "slug": "uredba-2024-1802",
+   "path": "uredba/2024/1802",
+   "short": "Uredba o izmjenama i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjenama i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/104/1802",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_09_104_1802.html",
+     "sha256": "c733e1edc94b468034d684f2258378e64962bf7bac82a830399bee321ee8dbfd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-1803",
+   "path": "uredba/2024/1803",
+   "short": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "title": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/104/1803",
+   "versions": [
+    {
+     "from": "2024-09-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_09_104_1803.html",
+     "sha256": "ca23b750baf62ede9c9a96d41e623bd3b4fbd7db49ec05cdb0002ef0bff20033"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-1870",
    "path": "uredba/2024/1870",
    "short": "Uredba o Vijeću za vodne usluge",
@@ -213785,6 +217415,36 @@
    ]
   },
   {
+   "slug": "uredba-2024-2",
+   "path": "uredba/2024/2",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/1/2",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_01_1_2.html",
+     "sha256": "9877e042ac85c641ad39dfdb4747189f13f399c6daa2a21698905c5095522e62"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-204",
+   "path": "uredba/2024/204",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/11/204",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_01_11_204.html",
+     "sha256": "01d8a29f9d44c270f45d3bf6f0c6cf076cdf6825986314e60ddb2bcd7be40569"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-2072",
    "path": "uredba/2024/2072",
    "short": "Uredba o visini minimalne plaće za 2025. godinu",
@@ -213796,6 +217456,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_10_124_2072.html",
      "sha256": "469af0e182b5b9a6dde9f898afa129d529003c9dfc98656b34d6cd7ecf2e3217"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-2073",
+   "path": "uredba/2024/2073",
+   "short": "Uredba o postupku zapošljavanja u državnoj službi",
+   "title": "Uredba o postupku zapošljavanja u državnoj službi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/124/2073",
+   "versions": [
+    {
+     "from": "2024-10-26",
+     "units": 48,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_10_124_2073.html",
+     "sha256": "aa37cd0b9a34e5aa84dd382d8ee1e97fa7a2f97908840d3aba24a0800505b6d0"
     }
    ]
   },
@@ -213845,6 +217520,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-2190",
+   "path": "uredba/2024/2190",
+   "short": "Uredba o izmjenama i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjenama i dopunama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/132/2190",
+   "versions": [
+    {
+     "from": "2024-11-16",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_11_132_2190.html",
+     "sha256": "b7456e841c8bfe9788cfdc9de8db8f5d1589b4becfeccdb783fc2f72279cf698"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-2217",
    "path": "uredba/2024/2217",
    "short": "Uredba o kibernetičkoj sigurnosti",
@@ -213890,6 +217580,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-2259",
+   "path": "uredba/2024/2259",
+   "short": "Uredba o jediničnoj naknadi za odlaganje otpada",
+   "title": "Uredba o jediničnoj naknadi za odlaganje otpada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/137/2259",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_11_137_2259.html",
+     "sha256": "fdd917fd3a2695503e297069b94574fc45a2c01fd8f3a1fcfc53d55d76d66154"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-2301",
    "path": "uredba/2024/2301",
    "short": "Uredba o izmjenama i dopuni Uredbe o nacionalnim obvezama smanjenja emisija određenih onečišćujućih tvari u zraku u Republici Hrvatskoj",
@@ -213901,6 +217606,21 @@
      "units": 14,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_140_2301.html",
      "sha256": "6fe6104bfac63acfa7ab53297f2e02d76d8cee8fe1a380d26a81e5f79540810b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-2379",
+   "path": "uredba/2024/2379",
+   "short": "Uredba o izmjenama i dopunama Uredbe o mehanizmima financiranja u okviru sustava trgovanja emisijama stakleničkih plinova",
+   "title": "Uredba o izmjenama i dopunama Uredbe o mehanizmima financiranja u okviru sustava trgovanja emisijama stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/145/2379",
+   "versions": [
+    {
+     "from": "2024-12-14",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_145_2379.html",
+     "sha256": "f9df3b590cd6e1ef0258ae1d3b567d3eb4bef590f0c1f655a93e2c5d6a9be1cb"
     }
    ]
   },
@@ -213920,6 +217640,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-2534",
+   "path": "uredba/2024/2534",
+   "short": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "title": "Uredba o izmjeni Uredbe o posebnoj naknadi za okoliš zbog nestavljanja biogoriva na tržište i zbog nesmanjivanja emisije stakleničkih plinova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/153/2534",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_153_2534.html",
+     "sha256": "0694d203d8f01306ee58b8b4913d0d9132fb138150bfb2f6d339970131ff5e76"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-2535",
    "path": "uredba/2024/2535",
    "short": "Uredba o izmjenama Uredbe o visini naknade za korištenje voda",
@@ -213931,6 +217666,66 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_12_153_2535.html",
      "sha256": "f8c936aabe4487626c002b34a91d6fb4a284d612f09c3492a086cbae02ed0b44"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-274",
+   "path": "uredba/2024/274",
+   "short": "Uredba o vrstama djelatnosti i visini minimalne naknade za dodjelu dozvola na pomorskom dobru",
+   "title": "Uredba o vrstama djelatnosti i visini minimalne naknade za dodjelu dozvola na pomorskom dobru",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/16/274",
+   "versions": [
+    {
+     "from": "2024-02-10",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_16_274.html",
+     "sha256": "79fd1aa07b02c2898878c127191eddb3dd86c13e35a54ba5b9422976aab14eb9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-275",
+   "path": "uredba/2024/275",
+   "short": "Uredba o uređenju zakupa na dijelovima kampa u vlasništvu Republike Hrvatske",
+   "title": "Uredba o uređenju zakupa na dijelovima kampa u vlasništvu Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/16/275",
+   "versions": [
+    {
+     "from": "2024-02-17",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_16_275.html",
+     "sha256": "544cf35ec3dd545cd7d183b0589ca5b6c22dd09f802abe81d1afe022a54f27ac"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-276",
+   "path": "uredba/2024/276",
+   "short": "Uredba o uređenju zakupa na turističkom zemljištu na kojemu su izgrađeni hoteli i turistička naselja",
+   "title": "Uredba o uređenju zakupa na turističkom zemljištu na kojemu su izgrađeni hoteli i turistička naselja",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/16/276",
+   "versions": [
+    {
+     "from": "2024-02-17",
+     "units": 15,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_16_276.html",
+     "sha256": "3ba76fdbfdebf5414e20823255303a8cce988a076c58be744f0ca46bfaa3bc2f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-289",
+   "path": "uredba/2024/289",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/17/289",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_17_289.html",
+     "sha256": "decbd0f9c61e485462cbf1d6d5a99e85eedaddbb175ae87ecaa9ee37e8e306f6"
     }
    ]
   },
@@ -214025,6 +217820,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-360",
+   "path": "uredba/2024/360",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/22/360",
+   "versions": [
+    {
+     "from": "2024-02-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_02_22_360.html",
+     "sha256": "f5f103292c0eb34cb4431bce7a1996c588998a211573053ebc2e55fcb675f20a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-425",
    "path": "uredba/2024/425",
    "short": "Uredba o Nacionalnom planu traganja i spašavanja osoba u pogibelji na moru",
@@ -214055,6 +217865,36 @@
    ]
   },
   {
+   "slug": "uredba-2024-427",
+   "path": "uredba/2024/427",
+   "short": "Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu ( »Narodne novine« broj 142/11.)",
+   "title": "Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu ( »Narodne novine« broj 142/11.)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/28/427",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_28_427.html",
+     "sha256": "62b3f965ad9169428459ff95da15c360c170d4075d88950d66a86958d550c71b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-428",
+   "path": "uredba/2024/428",
+   "short": "Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu ( »Narodne novine«, broj 163/98.)",
+   "title": "Uredba o izmjeni Uredbe o prihvaćanju povećanja kvote Republike Hrvatske u Međunarodnom monetarnom fondu ( »Narodne novine«, broj 163/98.)",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/28/428",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_28_428.html",
+     "sha256": "379508b70524de821041f15531271c2260b5caeb97d8aa8a5c037eba47d238d6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-429",
    "path": "uredba/2024/429",
    "short": "Uredba o izmjenama i dopunama Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
@@ -214066,6 +217906,21 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_28_429.html",
      "sha256": "cd858013ecc188e771f5ac5489d78877e11ef3a1f8fc7c8fb4326b3578361857"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-456",
+   "path": "uredba/2024/456",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/29/456",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_29_456.html",
+     "sha256": "f0049c16dd46c325547a037539e3b7f1a7787b7b84e23640e357cc514de5b6aa"
     }
    ]
   },
@@ -214096,6 +217951,21 @@
      "units": 8,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_32_488.html",
      "sha256": "60da4cecd31f579a534235cf9fa945638b4d49fa0ff96146cdb435a39f903dcb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-490",
+   "path": "uredba/2024/490",
+   "short": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "title": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/32/490",
+   "versions": [
+    {
+     "from": "2024-03-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_32_490.html",
+     "sha256": "caf70327a3ba5cc6ed6fb593d9d7bcbf22b4cfdc15355f70a6d0594a4128cc8a"
     }
    ]
   },
@@ -214160,6 +218030,66 @@
    ]
   },
   {
+   "slug": "uredba-2024-582",
+   "path": "uredba/2024/582",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/36/582",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_36_582.html",
+     "sha256": "a21b5b669cff71f949631c6197edd92e378a9e3a6d88d79af5cb5838a658fca1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-601",
+   "path": "uredba/2024/601",
+   "short": "Uredba o kriterijima za bodovanje prijava za stambeno zbrinjavanje",
+   "title": "Uredba o kriterijima za bodovanje prijava za stambeno zbrinjavanje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/38/601",
+   "versions": [
+    {
+     "from": "2024-04-06",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_38_601.html",
+     "sha256": "25838f38ed844d0a731fb6ce98ffc7a53437badd49d0bda58b1dbfc8e0a4449e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-602",
+   "path": "uredba/2024/602",
+   "short": "Uredba o prodajnoj cijeni obiteljske kuće ili stana u državnom vlasništvu na potpomognutim područjima",
+   "title": "Uredba o prodajnoj cijeni obiteljske kuće ili stana u državnom vlasništvu na potpomognutim područjima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/38/602",
+   "versions": [
+    {
+     "from": "2024-04-06",
+     "units": 23,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_03_38_602.html",
+     "sha256": "ffa462a22b3aab9a8dedf3a3a097fdef7fad18dc9a0295fd30c9134d41586019"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-738",
+   "path": "uredba/2024/738",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/41/738",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_41_738.html",
+     "sha256": "3340a79ffcef5bde7a8b477cdf23a56114f081283f4bb49ec29009ddd3378b47"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-762",
    "path": "uredba/2024/762",
    "short": "Uredba o pripajanju Muzejsko-memorijalnog centra Dražen Petrović Hrvatskom športskom muzeju",
@@ -214171,6 +218101,66 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_44_762.html",
      "sha256": "c856cf6e9688bf9462f595809b3f361bd53d5cba7e22d62efa1537021f07e3f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-763",
+   "path": "uredba/2024/763",
+   "short": "Uredba o naknadi štete po osnovi otuđenja mineralne sirovine",
+   "title": "Uredba o naknadi štete po osnovi otuđenja mineralne sirovine",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/44/763",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_44_763.html",
+     "sha256": "f3a816546a56c6a9de911c71fb237b8ac42b15b0fd735c8b62ae62305a7ca0d4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-799",
+   "path": "uredba/2024/799",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/47/799",
+   "versions": [
+    {
+     "from": "2024-04-23",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_47_799.html",
+     "sha256": "4f5c90872b835dc6361401f4958d7c4320b39b0a87de5f9c9ab3e56949198c50"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-847",
+   "path": "uredba/2024/847",
+   "short": "Uredba o izmjenama Uredbe o popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "title": "Uredba o izmjenama Uredbe o popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/50/847",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_04_50_847.html",
+     "sha256": "fcc17fd69226d836d745e41705d0b8364accf354ae93ea7ce7e759c9bc9f47a8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-920",
+   "path": "uredba/2024/920",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2024/53/920",
+   "versions": [
+    {
+     "from": "2024-05-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2024_05_53_920.html",
+     "sha256": "19fdd3d9e2136e26e679948865d8b603fa6147b51ec69a6218e941e6712f1b8c"
     }
    ]
   },
@@ -226184,6 +230174,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-1007",
+   "path": "uredba/2025/1007",
+   "short": "Uredba o izmjenama Uredbe o popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "title": "Uredba o izmjenama Uredbe o popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/77/1007",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_05_77_1007.html",
+     "sha256": "fb7d25d3679995df6bd1062d83f215934dfb1f37a32c52cf6933e6858ef36530"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-1091",
    "path": "uredba/2025/1091",
    "short": "Uredba o institucionalnom okviru sustava za suzbijanje nepravilnosti i prijevara",
@@ -226240,6 +230245,21 @@
      "units": 14,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_05_83_1094.html",
      "sha256": "07e4c618da3f9e57a47de7e6e83eef11ab4b47ceaed59f3af50336652ff4e612"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-1185",
+   "path": "uredba/2025/1185",
+   "short": "Uredba o izmjeni Uredbe o ekološkoj mreži i nadležnostima javnih ustanova za upravljanje područjima ekološke mreže",
+   "title": "Uredba o izmjeni Uredbe o ekološkoj mreži i nadležnostima javnih ustanova za upravljanje područjima ekološke mreže",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/87/1185",
+   "versions": [
+    {
+     "from": "2025-06-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_87_1185.html",
+     "sha256": "2a27ee862f30b879413330e3c88d601cc0ac4ce0c9b7885e7d64a5f4bee181db"
     }
    ]
   },
@@ -226321,6 +230341,21 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_06_95_1292.html",
      "sha256": "cbb28958306d9a78a7b4c741565b0b4c394d14aaf5aadfc157ecf6ee3229fd20"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-1361",
+   "path": "uredba/2025/1361",
+   "short": "Uredba o naknadi i sadržaju zahtjeva za posebnu upotrebu pomorskog dobra",
+   "title": "Uredba o naknadi i sadržaju zahtjeva za posebnu upotrebu pomorskog dobra",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/98/1361",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 12,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_07_98_1361.html",
+     "sha256": "6a38b589e457a61c150d9e5520756284abccdf77c64cbb272ca4a0bc9eb8ecac"
     }
    ]
   },
@@ -226475,6 +230510,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-170",
+   "path": "uredba/2025/170",
+   "short": "Uredba o Agenciji za pravni promet i posredovanje nekretninama",
+   "title": "Uredba o Agenciji za pravni promet i posredovanje nekretninama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/19/170",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 22,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_19_170.html",
+     "sha256": "1e6f0956756044bfdd18227726be12fbba9dbf2f97f107da885bcec07a02391a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-1707",
    "path": "uredba/2025/1707",
    "short": "Uredba o uvjetima i načinima upravljanja privremeno oduzetom imovinom",
@@ -226501,6 +230551,36 @@
      "units": 10,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_09_121_1721.html",
      "sha256": "a3af8584f443fa9d4d58856c63890942175ada9bdc237e6bad382a9f9899b869"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-1723",
+   "path": "uredba/2025/1723",
+   "short": "Uredba o izmjenama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjenama Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/121/1723",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_09_121_1723.html",
+     "sha256": "a927792ab3707d74aec7a24dec777af889c1a9b773f4a9a71c7c556188094b7c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-1724",
+   "path": "uredba/2025/1724",
+   "short": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "title": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/121/1724",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_09_121_1724.html",
+     "sha256": "d75c4f0282a4183e53666b0f0c6605b13668f4cf151ce22aaf94b705516a5350"
     }
    ]
   },
@@ -226655,6 +230735,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-2300",
+   "path": "uredba/2025/2300",
+   "short": "Uredba o visini naknade i načinu financiranja jedinice lokalne i područne (regionalne) samouprave na čijem području se uspostavlja ili nalazi Centar za zbrinjavanje radioaktivnog otpada",
+   "title": "Uredba o visini naknade i načinu financiranja jedinice lokalne i područne (regionalne) samouprave na čijem području se uspostavlja ili nalazi Centar za zbrinjavanje radioaktivnog otpada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/154/2300",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 11,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_154_2300.html",
+     "sha256": "fcc0f43dd5e68213b2e750eeb9fad3aa9f768ccd9ca42f80938de53195e71dae"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-2348",
    "path": "uredba/2025/2348",
    "short": "Uredba o udjelu u neto isporučenoj električnoj energiji povlaštenih proizvođača koji su opskrbljivači električne energije dužni preuzeti od operatora tržišta električne energije za 2026. godinu",
@@ -226756,6 +230851,21 @@
      "units": 20,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_12_158_2391.html",
      "sha256": "8ab7dc0400f07a930067837b5779ebea2446d2189a140a1ee6b7f68a8dca5c72"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-327",
+   "path": "uredba/2025/327",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva financija",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva financija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/31/327",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 137,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_02_31_327.html",
+     "sha256": "2c885935b08056b6d426a4e84a3781c3590a0183b83f082b61878513f65f6791"
     }
    ]
   },
@@ -226985,6 +231095,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-608",
+   "path": "uredba/2025/608",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva kulture i medija",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva kulture i medija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/46/608",
+   "versions": [
+    {
+     "from": "2025-03-22",
+     "units": 105,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_46_608.html",
+     "sha256": "16589141ce43c12d391a04c4c56ac460bdbe22122063da13364d2d6b6ba02268"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-7",
    "path": "uredba/2025/7",
    "short": "Uredba o mogućnosti fleksibilnog radnog vremena i rada s nepunim radnim vremenom u državnoj službi",
@@ -227011,6 +231136,36 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_56_711.html",
      "sha256": "c0d38cae796ff52b7ccc307b80e462e54b33eaf3e78a68e799397bb4f9ce9aa9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-712",
+   "path": "uredba/2025/712",
+   "short": "Uredba o izmjenama i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "title": "Uredba o izmjenama i dopuni Uredbe o otklanjanju poremećaja na domaćem tržištu energije",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/56/712",
+   "versions": [
+    {
+     "from": "2025-03-30",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_56_712.html",
+     "sha256": "43c6833b469fa90ed9d2de238461bebd0b8d960fe52a3a3ec901c5e53a60c785"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-713",
+   "path": "uredba/2025/713",
+   "short": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "title": "Uredba o izmjeni Uredbe o mjesečnom iznosu naknade za ugroženog kupca energenata, načinu sudjelovanja u podmirenju troškova energenata korisnika naknade i postupanju Hrvatskog zavoda za socijalni rad",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/56/713",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_03_56_713.html",
+     "sha256": "cff2064f930aaadaccd612639651727b0e8b40eba1b13105871875549c533188"
     }
    ]
   },
@@ -227150,6 +231305,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-86",
+   "path": "uredba/2025/86",
+   "short": "Uredba o unutarnjem ustrojstvu Ministarstva turizma i sporta",
+   "title": "Uredba o unutarnjem ustrojstvu Ministarstva turizma i sporta",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/11/86",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 72,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_11_86.html",
+     "sha256": "26af1993e4bd1185f1bd9982ae655a98ca6169b84b8ee9496437152c235610d6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-87",
    "path": "uredba/2025/87",
    "short": "Uredba o unutarnjem ustrojstvu Državnog inspektorata",
@@ -227161,6 +231331,21 @@
      "units": 134,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_11_87.html",
      "sha256": "824c028099546de8975e041dc78d21afba213dd2275391cc2091af01593c001a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-88",
+   "path": "uredba/2025/88",
+   "short": "Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda",
+   "title": "Uredba o unutarnjem ustrojstvu Državnog hidrometeorološkog zavoda",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/11/88",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 130,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2025_01_11_88.html",
+     "sha256": "f26ad7534ebd550f947a393d87e2af4664aa12c9b5e0ad636c1f6ef5f999930e"
     }
    ]
   },
@@ -234812,6 +238997,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-1009",
+   "path": "uredba/2026/1009",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/82/1009",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_82_1009.html",
+     "sha256": "426cb4b18c7c223cacaf528fd1e208a8984d55f0877f160fbff0871255421bb4"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-1042",
    "path": "uredba/2026/1042",
    "short": "Uredba o naknadi za zadržavanje nezakonito izgrađene zgrade u prostoru",
@@ -234838,6 +239038,81 @@
      "units": 11,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_84_1043.html",
      "sha256": "57280e55eba6aa1a5f671926e0714b189411a137f20d14de14c72a638de58fc5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1086",
+   "path": "uredba/2026/1086",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/87/1086",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_87_1086.html",
+     "sha256": "241773b233844ef73bc8e30c43bf6ecd72e485832822f722c0c20fdf13bb3ad9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1129",
+   "path": "uredba/2026/1129",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/90/1129",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_90_1129.html",
+     "sha256": "382ef40931bfd64a6d3cdb634a7731536295347fbd2cc55a44ed8fa2d5f539be"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1140",
+   "path": "uredba/2026/1140",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/93/1140",
+   "versions": [
+    {
+     "from": "2026-08-25",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_93_1140.html",
+     "sha256": "d5427803f04e258ffaddc5020385e4fcb8956b422ab3b993a50bffa7293ed359"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1174",
+   "path": "uredba/2026/1174",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/96/1174",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_08_96_1174.html",
+     "sha256": "d39f5c707811917667d172d0db9ceb7656282b5c642c9e5fe2868a3e9c44dbb2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1192",
+   "path": "uredba/2026/1192",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/99/1192",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_99_1192.html",
+     "sha256": "72b3b1199619279938cfbfeedffb37ac4c82cd846820918fb96d5e3a39826f52"
     }
    ]
   },
@@ -234872,6 +239147,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-1237",
+   "path": "uredba/2026/1237",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/102/1237",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_102_1237.html",
+     "sha256": "72591b6c612213e1da0a38750f7f7ff331511f53e544393cf4f06395246a18a3"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-1241",
    "path": "uredba/2026/1241",
    "short": "Uredba o izmjenama i dopuni Uredbe o prodajnoj cijeni obiteljske kuće ili stana u državnom vlasništvu na potpomognutim područjima",
@@ -234902,6 +239192,36 @@
    ]
   },
   {
+   "slug": "uredba-2026-1279",
+   "path": "uredba/2026/1279",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/106/1279",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_106_1279.html",
+     "sha256": "35bbb29af48dbc8264885e056429ada03bc7b099e58e0c4e79d098f6ebc407ee"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1302",
+   "path": "uredba/2026/1302",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/109/1302",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_09_109_1302.html",
+     "sha256": "fc2f728565729d01d3b29977bfad73ed8b207d9e99895bb77968c79d6c293887"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-1316",
    "path": "uredba/2026/1316",
    "short": "Uredba o jedinstvenom sučelju za formalnosti u pomorskom prometu",
@@ -234917,6 +239237,36 @@
    ]
   },
   {
+   "slug": "uredba-2026-1361",
+   "path": "uredba/2026/1361",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/113/1361",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_113_1361.html",
+     "sha256": "8696610d2c2e5be90747bef81a0fae85ad0710bc3c6b15af3fe8f461a64f77dd"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1380",
+   "path": "uredba/2026/1380",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/116/1380",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_116_1380.html",
+     "sha256": "c2f6b25363c16a91323d6bc64dbd5521ac4da2928e6344de2c4f9988947767fd"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-1405",
    "path": "uredba/2026/1405",
    "short": "Uredba o izmjenama Uredbe o graničnim prijelazima Republike Hrvatske",
@@ -234928,6 +239278,36 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_118_1405.html",
      "sha256": "d0d6e60e8b4b247b31aaf84e3534b11ff8ff213118949f40beb962b9b601b715"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1416",
+   "path": "uredba/2026/1416",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/119/1416",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_119_1416.html",
+     "sha256": "1fb604ea2b9ef0bd590442906a54f035a4b5006c2d51731eb16c02cdb976d520"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-1458",
+   "path": "uredba/2026/1458",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/122/1458",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_10_122_1458.html",
+     "sha256": "8ddcbcf7267ec836053ae6e69c57cb5ce1e706cb51baa8c4e55c9dcd009999b4"
     }
    ]
   },
@@ -234958,6 +239338,21 @@
      "units": 9,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_02_16_173.html",
      "sha256": "60d2cebeb5617f7e8ab29e4d6b7d393a09b5db610eb999a6d7f676377d9dd3e9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-274",
+   "path": "uredba/2026/274",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/24/274",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_03_24_274.html",
+     "sha256": "f088542a87e880e19ff97fbb7756429b9f9c29d769a80e6e8499394789f8305b"
     }
    ]
   },
@@ -235003,6 +239398,21 @@
      "units": 6,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_03_28_324.html",
      "sha256": "bf0bc63e1df4ad7f60d7614228a0f10e2a4c2ac35f3fdd2df14960c76fbcd153"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-335",
+   "path": "uredba/2026/335",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/29/335",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_03_29_335.html",
+     "sha256": "58f9304d1f6b61c789f0bfbd79561e25291872cca46b926a401e8897484437c1"
     }
    ]
   },
@@ -235082,6 +239492,36 @@
    ]
   },
   {
+   "slug": "uredba-2026-432",
+   "path": "uredba/2026/432",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/36/432",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_04_36_432.html",
+     "sha256": "87afe1549f14a1691533d461310ea253f9ca47c95c5b57f7dcd20c09871eacd1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-502",
+   "path": "uredba/2026/502",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/41/502",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_04_41_502.html",
+     "sha256": "e1c3810d7cde9ae140ccc13634cb43e2a3d152f5b8214f9bc3d398a493a46ec7"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-514",
    "path": "uredba/2026/514",
    "short": "Uredba o kriterijima, mjerilima i postupku davanja u zakup nekretnina u vlasništvu Republike Hrvatske organizacijama civilnog društva",
@@ -235093,6 +239533,21 @@
      "units": 24,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_04_44_514.html",
      "sha256": "1c277762a9bd7f272f9986cebf2f62a37147b3cddbae5a4abbe1f7e20a7910b1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-554",
+   "path": "uredba/2026/554",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/46/554",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_46_554.html",
+     "sha256": "37e479f14533243ae18e1e97279b850936dc9c03f073595412e441357f7abd7e"
     }
    ]
   },
@@ -235187,6 +239642,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-643",
+   "path": "uredba/2026/643",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/51/643",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_05_51_643.html",
+     "sha256": "c79c3ca528ae7d8d590efab028ba5fbe70ef551560fc91d3b8ad644e427a98f5"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-660",
    "path": "uredba/2026/660",
    "short": "Uredba o unutarnjem ustrojstvu Državnog zavoda za statistiku",
@@ -235202,6 +239672,21 @@
    ]
   },
   {
+   "slug": "uredba-2026-710",
+   "path": "uredba/2026/710",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/57/710",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_57_710.html",
+     "sha256": "e8c9f88916f2874cab4eba1f237ab4ec45afaee8770ed580d53696a375d2cb6a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-711",
    "path": "uredba/2026/711",
    "short": "Uredba o izmjenama Uredbe o Popisu robe vojne namjene, obrambenih proizvoda i nevojnih ubojnih sredstava",
@@ -235213,6 +239698,21 @@
      "units": 7,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_57_711.html",
      "sha256": "226417f39085be69f3eb9c188d750e2e71998f4d03a81abfb8303f40e14c05a3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-773",
+   "path": "uredba/2026/773",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/62/773",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_62_773.html",
+     "sha256": "7d3e75c0f306df4bfdc8c1804002879db75bc7ace2db8b051ee2745b01feea80"
     }
    ]
   },
@@ -235243,6 +239743,36 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_65_786.html",
      "sha256": "5a5de9fe1a343b7254b3b27e1e9c9d792a60cc844fa00802201e05711c5c3a9a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-838",
+   "path": "uredba/2026/838",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/69/838",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_06_69_838.html",
+     "sha256": "820d171d4455123e330185c1834496d66217c5b15f54e149cbf7cd4cc408045c"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-890",
+   "path": "uredba/2026/890",
+   "short": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "title": "Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/75/890",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/2026_07_75_890.html",
+     "sha256": "132fb071e55255535716d337ed6d8a63af6cf24f74be62fdee850fb273a052fc"
     }
    ]
   },
