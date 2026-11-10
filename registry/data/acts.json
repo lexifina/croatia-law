@@ -19663,6 +19663,39 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/3/28"
 },
 {
+"slug": "zakon-1993-50",
+"path": "zakon/1993/50",
+"kind": "zakon",
+"year": "1993",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o sigurnosti prometa na cestama",
+"short": "Zakon o izmjeni Zakona o sigurnosti prometa na cestama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1993-01-15",
+"latest": "1993-01-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/5/50",
+"amended_by": [
+{
+"ref": "nn:1993/6/68",
+"title": "Ispravak Zakona o sigurnosti prometa na cestama (NN 6/1993)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/6/68",
+"date": "1993-01-18",
+"how": "amend"
+},
+{
+"ref": "nn:1996/46/906",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o sigurnosti prometa na cestama (NN 46/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/46/906",
+"date": "1996-06-12",
+"how": "amend"
+}
+]
+},
+{
 "slug": "pravilnik-1993-51",
 "path": "pravilnik/1993/51",
 "kind": "pravilnik",
@@ -25129,6 +25162,23 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/27/465"
 },
 {
+"slug": "zakon-1993-466",
+"path": "zakon/1993/466",
+"kind": "zakon",
+"year": "1993",
+"number": "466",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o srednjem školstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o srednjem školstvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1993-04-14",
+"latest": "1993-04-14",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/27/466"
+},
+{
 "slug": "zakon-1993-468",
 "path": "zakon/1993/468",
 "kind": "zakon",
@@ -28340,6 +28390,23 @@
 "from": "1993-05-10",
 "latest": "1993-05-10",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/43/751"
+},
+{
+"slug": "zakon-1993-752",
+"path": "zakon/1993/752",
+"kind": "zakon",
+"year": "1993",
+"number": "752",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o vodama",
+"short": "Zakon o izmjenama Zakona o vodama",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1993-05-10",
+"latest": "1993-05-10",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/43/752"
 },
 {
 "slug": "zakon-1993-754",
@@ -60493,6 +60560,88 @@
 ]
 },
 {
+"slug": "zakon-1993-2277",
+"path": "zakon/1993/2277",
+"kind": "zakon",
+"year": "1993",
+"number": "2277",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi",
+"short": "Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1993-12-31",
+"latest": "1993-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2277",
+"amended_by": [
+{
+"ref": "nn:1995/77/1322",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela novoustrojenih jedinica lokalne samouprave i uprave na području Zagrebačke županije (NN 77/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/77/1322",
+"date": "1995-10-04",
+"how": "amend"
+},
+{
+"ref": "nn:1995/82/1359",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela novoustrojenih jedinica lokalne samouprave i uprave na području Zagrebačke županije (NN 82/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/82/1359",
+"date": "1995-10-12",
+"how": "amend"
+},
+{
+"ref": "nn:1996/63/1256",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o izboru članova predstavničkih tijela jedinica lokalne samouprave i uprave (NN 63/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/63/1256",
+"date": "1996-07-26",
+"how": "amend"
+},
+{
+"ref": "nn:1997/20/291",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 20/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/20/291",
+"date": "1997-02-19",
+"how": "amend"
+},
+{
+"ref": "nn:1997/22/304",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 22/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/22/304",
+"date": "1997-02-21",
+"how": "amend"
+},
+{
+"ref": "nn:1997/24/325",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 24/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/24/325",
+"date": "1997-02-28",
+"how": "amend"
+},
+{
+"ref": "nn:1997/32/478",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 32/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/32/478",
+"date": "1997-03-26",
+"how": "amend"
+},
+{
+"ref": "nn:1997/37/542",
+"title": "Ispravak Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 37/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/37/542",
+"date": "1997-04-09",
+"how": "amend"
+},
+{
+"ref": "nn:1999/91/1581",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o izbornim jedinicama za izbor članova predstavničkih tijela jedinica lokalne samouprave i jedinica lokalne uprave i samouprave (NN 91/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/91/1581",
+"date": "1999-09-09",
+"how": "amend"
+}
+]
+},
+{
 "slug": "odluka-1993-2278",
 "path": "odluka/1993/2278",
 "kind": "odluka",
@@ -60542,6 +60691,70 @@
 "from": "1993-12-31",
 "latest": "1993-12-31",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2282"
+},
+{
+"slug": "zakon-1993-2283",
+"path": "zakon/1993/2283",
+"kind": "zakon",
+"year": "1993",
+"number": "2283",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o stopama doprinosa za zdravstveno osiguranje",
+"short": "Zakon o stopama doprinosa za zdravstveno osiguranje",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1993-12-31",
+"latest": "1993-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2283",
+"amended_by": [
+{
+"ref": "nn:1994/95/1640",
+"title": "Zakon o izmjenama i dopunama Zakona o stopama doprinosa za zdravstveno osiguranje (NN 95/1994)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1640",
+"date": "1994-12-27",
+"how": "amend"
+},
+{
+"ref": "nn:1997/13/198",
+"title": "Zakon o izmjenama i dopuni Zakona o stopama doprinosa za zdravstveno osiguranje (NN 13/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/13/198",
+"date": "1997-02-06",
+"how": "amend"
+},
+{
+"ref": "nn:1998/13/201",
+"title": "Zakona o izmjenama Zakona o stopama doprinosa za zdravstveno osiguranje (NN 13/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/13/201",
+"date": "1998-01-31",
+"how": "amend"
+},
+{
+"ref": "nn:2000/54/1192",
+"title": "Zakon o stopama doprinosa za zdravstveno osiguranje (NN 54/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1192",
+"date": "2000-05-31",
+"how": "replace"
+}
+]
+},
+{
+"slug": "zakon-1993-2284",
+"path": "zakon/1993/2284",
+"kind": "zakon",
+"year": "1993",
+"number": "2284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+"short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1993-12-31",
+"latest": "1993-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2284"
 },
 {
 "slug": "odluka-1993-2285",
@@ -60880,6 +61093,506 @@
 "how": "repeal,replace"
 }
 ]
+},
+{
+"slug": "zakon-1994-31",
+"path": "zakon/1994/31",
+"kind": "zakon",
+"year": "1994",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o sudovima",
+"short": "Zakon o sudovima",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "1994-01-22",
+"latest": "1994-01-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/31",
+"amended_by": [
+{
+"ref": "nn:1996/100/1965",
+"title": "Zakon o izmjenama i dopunama Zakona o sudovima (NN 100/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/100/1965",
+"date": "1996-11-28",
+"how": "amend"
+},
+{
+"ref": "nn:1997/104/1608",
+"title": "Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova (NN 104/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/104/1608",
+"date": "1997-10-08",
+"how": "amend"
+},
+{
+"ref": "nn:1997/131/1891",
+"title": "Zakon o dopuni Zakona o sudovima (NN 131/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/131/1891",
+"date": "1997-12-05",
+"how": "amend"
+},
+{
+"ref": "nn:2000/129/2384",
+"title": "Zakon o izmjenama i dopunama Zakona o sudovima (NN 129/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/129/2384",
+"date": "2000-12-22",
+"how": "amend"
+},
+{
+"ref": "nn:2004/17/486",
+"title": "Zakon o izmjenama i dopunama Zakona o sudovima (NN 17/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/17/486",
+"date": "2004-02-09",
+"how": "amend"
+},
+{
+"ref": "nn:2004/141/2470",
+"title": "Zakon o izmjeni i dopunama Zakona o sudovima (NN 141/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2470",
+"date": "2004-10-13",
+"how": "amend"
+},
+{
+"ref": "nn:2005/121/2251",
+"title": "Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova (NN 121/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2251",
+"date": "2005-10-17",
+"how": "amend"
+},
+{
+"ref": "nn:2005/150/2896",
+"title": "Zakon o sudovima (NN 150/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/150/2896",
+"date": "2005-12-21",
+"how": "repeal,replace"
+},
+{
+"ref": "nn:2006/24/599",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-659/1994 dr. od 8. veljače 2006. (NN 24/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/24/599",
+"date": "2006-03-01",
+"how": "amend"
+},
+{
+"ref": "nn:2009/127/3146",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-248/2006, U-II-584/2009 od 29. rujna 2009. (NN 127/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/127/3146",
+"date": "2009-10-22",
+"how": "amend"
+},
+{
+"ref": "nn:2010/122/3172",
+"title": "Zakon o sudovima (pročišćeni tekst) (NN 122/2010)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/122/3172",
+"date": "2010-11-03",
+"how": "consolidated"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1994/83/1444",
+"title": "Rješenje Ustavnog suda Republlike Hrvatske broj U-I-892/1994. od 14. studenoga 1994. (NN 83/1994)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/83/1444",
+"date": "1994-11-18",
+"how": "cite"
+},
+{
+"ref": "nn:1995/12/239",
+"title": "Rješenje Ustavnog suda Republike broj U-I-130/1995. od 20. veljače 1995. (NN 12/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/12/239",
+"date": "1995-02-24",
+"how": "cite"
+},
+{
+"ref": "nn:1995/75/1276",
+"title": "Zakon o plaćama sudaca i drugih pravosudnih dužnosnika (NN 75/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/75/1276",
+"date": "1995-09-29",
+"how": "cite"
+},
+{
+"ref": "nn:1996/7/114",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-IV-973/1995 od 10. siječnja 1996. (NN 7/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/7/114",
+"date": "1996-01-26",
+"how": "cite"
+},
+{
+"ref": "nn:1996/99/1956",
+"title": "Odluka Ustavnog suda Republike Hrvatske, broj U-I-892/1994 od 20. studenoga 1996. (NN 99/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/99/1956",
+"date": "1996-11-26",
+"how": "cite"
+},
+{
+"ref": "nn:1996/99/1957",
+"title": "Odluka Ustavnog suda Republike Hrvatske, broj U-I-130/1995 od 20. studenoga 1996. (NN 99/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/99/1957",
+"date": "1996-11-26",
+"how": "cite"
+},
+{
+"ref": "nn:1997/80/1405",
+"title": "Sudski poslovnik (NN 80/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/80/1405",
+"date": "1997-08-11",
+"how": "cite"
+},
+{
+"ref": "nn:1997/115/1735",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-I-914/1996 i U-I-34 od 27 (NN 115/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/115/1735",
+"date": "1997-10-30",
+"how": "cite"
+},
+{
+"ref": "nn:1998/20/2410",
+"title": "Izmjene i dopune Sudskog poslovnika (NN 20/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/20/2410",
+"date": "1998-02-17",
+"how": "cite"
+},
+{
+"ref": "nn:1998/70/852",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-45/1997 od 27. travnja 1998. (NN 70/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/70/852",
+"date": "1998-05-15",
+"how": "cite"
+},
+{
+"ref": "nn:1999/25/534",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-709/1998 od 16 (NN 25/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/25/534",
+"date": "1999-03-15",
+"how": "cite"
+},
+{
+"ref": "nn:1999/32/640",
+"title": "Program za provjeru znanja o ustrojstvu sudbene vlasti i državne uprave, te poznavanje pravnog nazivlja (NN 32/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/32/640",
+"date": "1999-04-02",
+"how": "cite"
+},
+{
+"ref": "nn:2000/24/435",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-523/1996 od 16. veljače 2000. (NN 24/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/24/435",
+"date": "2000-02-28",
+"how": "cite"
+},
+{
+"ref": "nn:2000/28/580",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-324/1996. od 1. ožujka 2000. (NN 28/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/28/580",
+"date": "2000-03-10",
+"how": "cite"
+},
+{
+"ref": "nn:2000/31/658",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-437/1996. Od 8. ožujka 2000. (NN 31/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/31/658",
+"date": "2000-03-22",
+"how": "cite"
+},
+{
+"ref": "nn:2000/31/659",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-I-659/1994, U-I-146/1996, U-I-228/1996, U-I-508/1996, U-I-589/1999 od 15. ožujka 2000. (NN 31/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/31/659",
+"date": "2000-03-22",
+"how": "cite"
+},
+{
+"ref": "nn:2000/64/1432",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1029/1999 od 21. lipnja 2000. (NN 64/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/64/1432",
+"date": "2000-07-05",
+"how": "cite"
+},
+{
+"ref": "nn:2001/67/1112",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-190/2001 od 12. srpnja 2001. i Obrazloženje suprotnog glasa pri donošenju Odluke i Rješenja (NN 67/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1112",
+"date": "2001-07-24",
+"how": "cite"
+},
+{
+"ref": "nn:2001/90/1531",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1303/2001 od 4. listopada 2001. (NN 90/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/90/1531",
+"date": "2001-10-19",
+"how": "cite"
+},
+{
+"ref": "nn:2001/118/1995",
+"title": "Izmjene sudskog poslovnika (NN 118/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/118/1995",
+"date": "2001-12-27",
+"how": "cite"
+},
+{
+"ref": "nn:2002/5/174",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-I-55/2001 od 19. prosinca 2001. (NN 5/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/5/174",
+"date": "2002-01-18",
+"how": "cite"
+},
+{
+"ref": "nn:2002/71/1193",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1002/2000 od 20. svibnja 2002. (NN 71/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/71/1193",
+"date": "2002-06-17",
+"how": "cite"
+},
+{
+"ref": "nn:2003/32/426",
+"title": "Program posebnog dijela državnog stručnog ispita iz upravnog područja osiguranja pravosudnih tijela (NN 32/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/32/426",
+"date": "2003-03-04",
+"how": "cite"
+},
+{
+"ref": "nn:2003/34/452",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1283/2000 od 12. veljače 2003. (NN 34/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/34/452",
+"date": "2003-03-06",
+"how": "cite"
+},
+{
+"ref": "nn:2003/49/632",
+"title": "Dopune sudskog poslovnika (NN 49/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/49/632",
+"date": "2003-03-27",
+"how": "cite"
+},
+{
+"ref": "nn:2003/101/1305",
+"title": "Vjerodostojno tumačenje članka 50. stavka 3. Zakona o sudovima (\"Narodne novine\", br. 3/94, 100/96, 131/97. i 129/00) (NN 101/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/101/1305",
+"date": "2003-06-18",
+"how": "cite"
+},
+{
+"ref": "nn:2003/133/1952",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IX-2534/2003 od 14. kolovoza 2003. (NN 133/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/133/1952",
+"date": "2003-08-20",
+"how": "cite"
+},
+{
+"ref": "nn:2003/196/3122",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IX-3597/2003 od 4. prosinca 2003. (NN 196/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/196/3122",
+"date": "2003-12-15",
+"how": "cite"
+},
+{
+"ref": "nn:2004/15/466",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-IV-670/2003. od 28. siječnja 2004. (NN 15/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/15/466",
+"date": "2004-02-04",
+"how": "cite"
+},
+{
+"ref": "nn:2004/32/844",
+"title": "Dopune Sudskog poslovnika (NN 32/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/32/844",
+"date": "2004-03-11",
+"how": "cite"
+},
+{
+"ref": "nn:2004/77/1568",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-III-2962/2002 od 14. svibnja 2004. (NN 77/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/77/1568",
+"date": "2004-06-09",
+"how": "cite"
+},
+{
+"ref": "nn:2004/95/1815",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-2096/2002 od 9. lipnja 2004. (NN 95/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/95/1815",
+"date": "2004-07-13",
+"how": "cite"
+},
+{
+"ref": "nn:2004/151/2642",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1937/2004 od 13. listopada 2004. (NN 151/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/151/2642",
+"date": "2004-10-29",
+"how": "cite"
+},
+{
+"ref": "nn:2004/157/2746",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-669/2003 od 27. listopada 2004. i dva izdvojena mišljenja sudaca (NN 157/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/157/2746",
+"date": "2004-11-12",
+"how": "cite"
+},
+{
+"ref": "nn:2004/162/2841",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-819/2001 od 11. studenoga 2004. (NN 162/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/162/2841",
+"date": "2004-11-22",
+"how": "cite"
+},
+{
+"ref": "nn:2004/183/3169",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj U-III-4696/2004 od 20. prosinca 2004. (NN 183/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/183/3169",
+"date": "2004-12-23",
+"how": "cite"
+},
+{
+"ref": "nn:2005/30/547",
+"title": "Izvješće Ustavnog suda Republike Hrvatske broj: U-X-835/2005 od 24. veljače 2005. (NN 30/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/30/547",
+"date": "2005-03-04",
+"how": "cite"
+},
+{
+"ref": "nn:2005/53/1023",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-612/2000 od 30. ožujka 2005. (NN 53/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/53/1023",
+"date": "2005-04-25",
+"how": "cite"
+},
+{
+"ref": "nn:2005/60/1176",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-33/2003 od 13. travnja 2005. (NN 60/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/60/1176",
+"date": "2005-05-11",
+"how": "cite"
+},
+{
+"ref": "nn:2005/90/1817",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1626/2005 od 13. srpnja 2005. (NN 90/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/90/1817",
+"date": "2005-07-25",
+"how": "cite"
+},
+{
+"ref": "nn:2006/43/1079",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj:U-IX-736/2006 od 23. ožujka 2006. (NN 43/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/43/1079",
+"date": "2006-04-19",
+"how": "cite"
+},
+{
+"ref": "nn:2007/96/2889",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-2839/2007 od 12. rujna 2007. (NN 96/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/96/2889",
+"date": "2007-09-19",
+"how": "cite"
+},
+{
+"ref": "nn:2008/26/898",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj:U-III-3305/2006 od 13. veljače 2008. (NN 26/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/26/898",
+"date": "2008-02-29",
+"how": "cite"
+},
+{
+"ref": "nn:2010/13/334",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3189/2007 od 14. siječnja 2010. (NN 13/2010)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/13/334",
+"date": "2010-01-27",
+"how": "cite"
+},
+{
+"ref": "nn:2013/96/2164",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-736/2005 od 8. srpnja 2013. (NN 96/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/96/2164",
+"date": "2013-07-24",
+"how": "cite"
+},
+{
+"ref": "nn:2013/99/2256",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1706/2005 od 8. srpnja 2013. (NN 99/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/99/2256",
+"date": "2013-07-31",
+"how": "cite"
+},
+{
+"ref": "nn:2015/105/2065",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-IIIA-439/2013 od 2. srpnja 2015. (NN 105/2015)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/105/2065",
+"date": "2015-10-02",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-32",
+"path": "zakon/1994/32",
+"kind": "zakon",
+"year": "1994",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o područjima i sjedištima sudova",
+"short": "Zakon o područjima i sjedištima sudova",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-01-22",
+"latest": "1994-01-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/32",
+"amended_by": [
+{
+"ref": "nn:1997/104/1608",
+"title": "Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova (NN 104/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/104/1608",
+"date": "1997-10-08",
+"how": "amend"
+},
+{
+"ref": "nn:2001/59/964",
+"title": "Zakon o izmjeni Zakona o područjima i sjedištima sudova (NN 59/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/964",
+"date": "2001-06-30",
+"how": "amend"
+},
+{
+"ref": "nn:2005/121/2251",
+"title": "Zakon o izmjenama i dopunama Zakona o područjima i sjedištima sudova (NN 121/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/121/2251",
+"date": "2005-10-17",
+"how": "amend"
+},
+{
+"ref": "nn:2008/85/2730",
+"title": "Zakon o područjima i sjedištima sudova (NN 85/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/85/2730",
+"date": "2008-07-21",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2006/43/1065",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj:U-IIIA-492/2005 od 29. ožujka 2006. (NN 43/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/43/1065",
+"date": "2006-04-19",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-33",
+"path": "zakon/1994/33",
+"kind": "zakon",
+"year": "1994",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+"short": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-01-22",
+"latest": "1994-01-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/33"
 },
 {
 "slug": "pravilnik-1994-73",
@@ -61810,6 +62523,254 @@
 "from": "1994-02-12",
 "latest": "1994-02-12",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/8/153"
+},
+{
+"slug": "zakon-1994-158",
+"path": "zakon/1994/158",
+"kind": "zakon",
+"year": "1994",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o osiguranju",
+"short": "Zakon o osiguranju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-02-18",
+"latest": "1994-02-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/158",
+"amended_by": [
+{
+"ref": "nn:1997/20/280",
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju (NN 20/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/20/280",
+"date": "1997-02-19",
+"how": "amend"
+},
+{
+"ref": "nn:1997/46/666",
+"title": "Zakon o osiguranju (NN 46/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/46/666",
+"date": "1997-05-05",
+"how": "replace"
+},
+{
+"ref": "nn:1999/116/1856",
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju (NN 116/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/116/1856",
+"date": "1999-11-05",
+"how": "amend"
+},
+{
+"ref": "nn:2002/11/277",
+"title": "Zakon o izmjenama i dopunama Zakona o osiguranju (NN 11/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/11/277",
+"date": "2002-02-01",
+"how": "amend"
+},
+{
+"ref": "nn:2005/140/2639",
+"title": "Zakon o Hrvatskoj agenciji za nadzor financijskih usluga (NN 140/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/140/2639",
+"date": "2005-11-28",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2004/37/936",
+"title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+"date": "2004-03-23",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-159",
+"path": "zakon/1994/159",
+"kind": "zakon",
+"year": "1994",
+"number": "159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvlaštenju",
+"short": "Zakon o izvlaštenju",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "1994-02-18",
+"latest": "1994-02-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/159",
+"amended_by": [
+{
+"ref": "nn:1994/35/646",
+"title": "Ispravak Zakona o izvlaštenju (NN 35/1994)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/35/646",
+"date": "1994-05-04",
+"how": "amend"
+},
+{
+"ref": "nn:2001/114/1885",
+"title": "Zakon o izmjenama i dopunama Zakona o izvlaštenju (NN 114/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/114/1885",
+"date": "2001-12-20",
+"how": "amend"
+},
+{
+"ref": "nn:2006/79/1918",
+"title": "Zakon o izmjenama i dopunama Zakona o izvlaštenju (NN 79/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/79/1918",
+"date": "2006-07-17",
+"how": "amend"
+},
+{
+"ref": "nn:2009/2/88",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-I-523/2002, U-I-746/2006 od 10. prosinca 2008. (NN 2/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/2/88",
+"date": "2009-01-03",
+"how": "amend"
+},
+{
+"ref": "nn:2011/45/1048",
+"title": "Zakon o izmjenama Zakona o izvlaštenju (NN 45/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/45/1048",
+"date": "2011-04-20",
+"how": "amend"
+},
+{
+"ref": "nn:2012/34/817",
+"title": "Zakon o izmjenama i dopuni Zakona o izvlaštenju (NN 34/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/34/817",
+"date": "2012-03-21",
+"how": "amend"
+},
+{
+"ref": "nn:2014/74/1389",
+"title": "Zakon o izvlaštenju i određivanju naknade (NN 74/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/74/1389",
+"date": "2014-06-18",
+"how": "repeal"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1996/7/115",
+"title": "Odluka Ustavnog suda republike Hrvatske broj U-III-437/1993 od 17. siječnja 1996 (NN 7/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/7/115",
+"date": "1996-01-26",
+"how": "cite"
+},
+{
+"ref": "nn:1996/48/919",
+"title": "Zakon o dopunama Zakona o cestama (NN 48/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/48/919",
+"date": "1996-06-18",
+"how": "cite"
+},
+{
+"ref": "nn:1996/100/1962",
+"title": "Zakon o javnim cestama (NN 100/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/100/1962",
+"date": "1996-11-28",
+"how": "cite"
+},
+{
+"ref": "nn:1998/149/1852",
+"title": "Odluka Ustavnog suda Republike Hrvatske U-III-601/1996 od 2. studenoga 1998. godine (NN 149/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/149/1852",
+"date": "1998-11-17",
+"how": "cite"
+},
+{
+"ref": "nn:2000/26/522",
+"title": "Program posebnog dijela državnog stručnog ispita za državne službenike u tijelima državne uprave ustrojenim za geodetske i katastarske poslove (NN 26/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/26/522",
+"date": "2000-03-03",
+"how": "cite"
+},
+{
+"ref": "nn:2000/112/2222",
+"title": "Odluka Ustavnog suda Republike Hrvatske br. U-I-745/99 od 8. studenoga 2000. (NN 112/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/112/2222",
+"date": "2000-11-15",
+"how": "cite"
+},
+{
+"ref": "nn:2001/67/1114",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-891/1998 od 12. srpnja 2001. (NN 67/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/67/1114",
+"date": "2001-07-24",
+"how": "cite"
+},
+{
+"ref": "nn:2002/38/839",
+"title": "Strategija energetskog razvitka Republike Hrvatske (NN 38/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/38/839",
+"date": "2002-04-16",
+"how": "cite"
+},
+{
+"ref": "nn:2003/20/297",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1136/1997 od 16. siječnja 2003. (NN 20/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/20/297",
+"date": "2003-02-07",
+"how": "cite"
+},
+{
+"ref": "nn:2007/42/1434",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-III-465/2007 od 22. ožujka 2007. (NN 42/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/42/1434",
+"date": "2007-04-23",
+"how": "cite"
+},
+{
+"ref": "nn:2007/73/2286",
+"title": "Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju igrališta za golf s pratećim sadržajima \"Crveni vrh\" u k.o. Savudrija (NN 73/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/73/2286",
+"date": "2007-07-16",
+"how": "cite"
+},
+{
+"ref": "nn:2008/147/4064",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-2737/2006 od 26. studenoga 2008. (NN 147/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/147/4064",
+"date": "2008-12-18",
+"how": "cite"
+},
+{
+"ref": "nn:2009/158/3955",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-444/2008 od 2. prosinca 2009. (NN 158/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/158/3955",
+"date": "2009-12-31",
+"how": "cite"
+},
+{
+"ref": "nn:2013/71/1428",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-66/2009 od 29. svibnja 2013. (NN 71/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/71/1428",
+"date": "2013-06-14",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-161",
+"path": "zakon/1994/161",
+"kind": "zakon",
+"year": "1994",
+"number": "161",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o prisilnoj nagodbi, stečaju i likvidaciji",
+"short": "Zakon o izmjenama i dopunama Zakona o prisilnoj nagodbi, stečaju i likvidaciji",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-02-18",
+"latest": "1994-02-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/161"
 },
 {
 "slug": "pravilnik-1994-165",
@@ -65520,6 +66481,49 @@
 ]
 },
 {
+"slug": "zakon-1994-492",
+"path": "zakon/1994/492",
+"kind": "zakon",
+"year": "1994",
+"number": "492",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "1994-04-08",
+"latest": "1994-04-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/28/492"
+},
+{
+"slug": "zakon-1994-493",
+"path": "zakon/1994/493",
+"kind": "zakon",
+"year": "1994",
+"number": "493",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o porezu na promet proizvoda i usluga",
+"short": "Zakon o izmjeni Zakona o porezu na promet proizvoda i usluga",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-04-08",
+"latest": "1994-04-08",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/28/493",
+"amended_by": [
+{
+"ref": "nn:1995/7/102",
+"title": "Ispravak Zakona o porezu na promet proizvoda i usluga (NN 7/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/7/102",
+"date": "1995-01-30",
+"how": "amend"
+}
+]
+},
+{
 "slug": "zakon-1994-494",
 "path": "zakon/1994/494",
 "kind": "zakon",
@@ -65569,6 +66573,32 @@
 "from": "1994-04-08",
 "latest": "1994-04-08",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/28/505"
+},
+{
+"slug": "zakon-1994-512",
+"path": "zakon/1994/512",
+"kind": "zakon",
+"year": "1994",
+"number": "512",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o inspekciji rada",
+"short": "Zakon o izmjenama i dopunama Zakona o inspekciji rada",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-04-19",
+"latest": "1994-04-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/512",
+"amended_by": [
+{
+"ref": "nn:1996/94/1876",
+"title": "Ispravak Zakona o inspekciji rada (NN 94/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/94/1876",
+"date": "1996-11-08",
+"how": "amend"
+}
+]
 },
 {
 "slug": "zakon-1994-514",
@@ -65802,6 +66832,758 @@
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2015/120/2275",
 "date": "2015-11-02",
 "how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-520",
+"path": "zakon/1994/520",
+"kind": "zakon",
+"year": "1994",
+"number": "520",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o prostornom uređenju",
+"short": "Zakon o prostornom uređenju",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-04-23",
+"latest": "1994-04-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/520",
+"amended_by": [
+{
+"ref": "nn:1998/68/816",
+"title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju (NN 68/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/816",
+"date": "1998-05-12",
+"how": "amend"
+},
+{
+"ref": "nn:2000/61/1339",
+"title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju (NN 61/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/61/1339",
+"date": "2000-06-23",
+"how": "amend"
+},
+{
+"ref": "nn:2004/100/1897",
+"title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju (NN 100/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/100/1897",
+"date": "2004-07-20",
+"how": "amend"
+},
+{
+"ref": "nn:2007/76/2395",
+"title": "Zakon o prostornom uređenju i gradnji (NN 76/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/76/2395",
+"date": "2007-07-23",
+"how": "amend"
+},
+{
+"ref": "nn:2011/90/1923",
+"title": "Zakon o izmjenama i dopunama Zakona o prostornom uređenju i gradnji (NN 90/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/90/1923",
+"date": "2011-08-02",
+"how": "amend"
+},
+{
+"ref": "nn:2013/153/3220",
+"title": "Zakon o prostornom uređenju (NN 153/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/153/3220",
+"date": "2013-12-18",
+"how": "replace"
+},
+{
+"ref": "nn:2025/155/2315",
+"title": "Zakon o prostornom uređenju (NN 155/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/155/2315",
+"date": "2025-12-23",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1999/117/1879",
+"title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, rudarskog i elektroenergetskog inspektora te inspektora rada i posuda po (NN 117/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/117/1879",
+"date": "1999-11-09",
+"how": "cite"
+},
+{
+"ref": "nn:2000/7/79",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-II-1083/1999 od 12. siječnja 2000. (NN 7/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/7/79",
+"date": "2000-01-20",
+"how": "cite"
+},
+{
+"ref": "nn:2000/26/522",
+"title": "Program posebnog dijela državnog stručnog ispita za državne službenike u tijelima državne uprave ustrojenim za geodetske i katastarske poslove (NN 26/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/26/522",
+"date": "2000-03-03",
+"how": "cite"
+},
+{
+"ref": "nn:2000/40/945",
+"title": "Rješenje o razrješenju predsjednika i članova Savjeta prostornog uređenja države (NN 40/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/40/945",
+"date": "2000-04-14",
+"how": "cite"
+},
+{
+"ref": "nn:2000/40/946",
+"title": "Rješenje o imenovanju predsjednika i članova Savjeta prostornog uređenja države (NN 40/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/40/946",
+"date": "2000-04-14",
+"how": "cite"
+},
+{
+"ref": "nn:2001/18/322",
+"title": "Rješenje o imenovanju novih članova Savjeta prostornog uređenja Države (NN 18/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/18/322",
+"date": "2001-03-07",
+"how": "cite"
+},
+{
+"ref": "nn:2001/24/455",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-593/1997 od 14. ožujka 2001. (NN 24/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/24/455",
+"date": "2001-03-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/37/661",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-1892/2000 i U-II-1893/2000 od 12. travnja 2001. (NN 37/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/37/661",
+"date": "2001-04-25",
+"how": "cite"
+},
+{
+"ref": "nn:2002/32/706",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-1594/2001 od 20. ožujka 2002. (NN 32/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/32/706",
+"date": "2002-03-28",
+"how": "cite"
+},
+{
+"ref": "nn:2004/11/347",
+"title": "Rješenje o razrješenju predsjednika i članova Savjeta prostornog uređenja Države (NN 11/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/347",
+"date": "2004-01-28",
+"how": "cite"
+},
+{
+"ref": "nn:2004/11/348",
+"title": "Rješenje o imenovanju članova Savjeta prostornog uređenja Države (NN 11/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/11/348",
+"date": "2004-01-28",
+"how": "cite"
+},
+{
+"ref": "nn:2004/141/2499",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-1610/2003 od 28. rujna 2004. (NN 141/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2499",
+"date": "2004-10-13",
+"how": "cite"
+},
+{
+"ref": "nn:2004/141/2500",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-1414/2003 i U-II/1641/2003 od 28. rujna 2004. (NN 141/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2500",
+"date": "2004-10-13",
+"how": "cite"
+},
+{
+"ref": "nn:2004/141/2512",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-II-1427/2003 od 28. rujna 2004. (NN 141/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/141/2512",
+"date": "2004-10-13",
+"how": "cite"
+},
+{
+"ref": "nn:2004/143/2527",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3415/2003 od 23. rujna 2004. (NN 143/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/143/2527",
+"date": "2004-10-15",
+"how": "cite"
+},
+{
+"ref": "nn:2005/61/1189",
+"title": "Odluka Ustavnog suda Republike Hrvatske brojU-III-2435/2001 od 20. travnja 2005. (NN 61/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/61/1189",
+"date": "2005-05-16",
+"how": "cite"
+},
+{
+"ref": "nn:2005/88/1765",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-753/2005 od 13. srpnja 2005. (NN 88/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1765",
+"date": "2005-07-20",
+"how": "cite"
+},
+{
+"ref": "nn:2005/141/2659",
+"title": "Rješenje o razrješenju člana Savjeta prostornog uređenja Države (NN 141/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/141/2659",
+"date": "2005-11-30",
+"how": "cite"
+},
+{
+"ref": "nn:2005/141/2660",
+"title": "Rješenje o imenovanju člana Savjeta prostornog uređenja Države (NN 141/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/141/2660",
+"date": "2005-11-30",
+"how": "cite"
+},
+{
+"ref": "nn:2005/147/2837",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-II-2203/2002 od 23. studenoga 2005. (NN 147/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/147/2837",
+"date": "2005-12-14",
+"how": "cite"
+},
+{
+"ref": "nn:2007/18/729",
+"title": "Rješenje o imenovanju člana Savjeta prostornog uređenja Države (NN 18/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/18/729",
+"date": "2007-02-14",
+"how": "cite"
+},
+{
+"ref": "nn:2007/38/1327",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj:U-II-3715/2004 od 21. ožujka 2007. (NN 38/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/38/1327",
+"date": "2007-04-13",
+"how": "cite"
+},
+{
+"ref": "nn:2007/58/1884",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj:U-II-3438/2005 od 16. svibnja 2007. (NN 58/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/58/1884",
+"date": "2007-06-06",
+"how": "cite"
+},
+{
+"ref": "nn:2008/33/1093",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-II-2559/2006 od 27. veljače 2008. (NN 33/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/33/1093",
+"date": "2008-03-21",
+"how": "cite"
+},
+{
+"ref": "nn:2008/69/2324",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-II-3648/2007 od 30. travnja 2008. (NN 69/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/69/2324",
+"date": "2008-06-13",
+"how": "cite"
+},
+{
+"ref": "nn:2008/152/4148",
+"title": "Zakon o arhitektonskim i inženjerskim poslovima i djelatnostima u prostornom uređenju i gradnji (NN 152/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/152/4148",
+"date": "2008-12-24",
+"how": "cite"
+},
+{
+"ref": "nn:2009/135/3308",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-1046/2009 od 14. listopada 2009. (NN 135/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/135/3308",
+"date": "2009-11-11",
+"how": "cite"
+},
+{
+"ref": "nn:2010/86/2452",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-II-3655/2006 od 29. lipnja 2010. (NN 86/2010)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/86/2452",
+"date": "2010-07-12",
+"how": "cite"
+},
+{
+"ref": "nn:2011/25/545",
+"title": "Rješenje Ustavnog suda Republike Hrvatske, broj: U-II-2574/2005 od 15. veljače 2011. (NN 25/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/25/545",
+"date": "2011-02-28",
+"how": "cite"
+},
+{
+"ref": "nn:2014/73/1387",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-43/2012-21 od 30. svibnja 2014. (NN 73/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/73/1387",
+"date": "2014-06-16",
+"how": "cite"
+},
+{
+"ref": "nn:2026/125/1492",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III- 2806/2025 od 23. rujna 2026. (NN 125/2026)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2026/125/1492",
+"date": "2026-11-02",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-521",
+"path": "zakon/1994/521",
+"kind": "zakon",
+"year": "1994",
+"number": "521",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o zaštiti prirode",
+"short": "Zakon o zaštiti prirode",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-04-23",
+"latest": "1994-04-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/521",
+"amended_by": [
+{
+"ref": "nn:1994/72/1251",
+"title": "Zakon o dopuni Zakona o zaštiti prirode (NN 72/1994)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/72/1251",
+"date": "1994-10-10",
+"how": "amend"
+},
+{
+"ref": "nn:2003/162/2321",
+"title": "Zakon o zaštiti prirode (NN 162/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/162/2321",
+"date": "2003-10-15",
+"how": "amend,replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1996/8/119",
+"title": "Zakon o turističkoj djelatnosti (NN 8/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/8/119",
+"date": "1996-01-31",
+"how": "cite"
+},
+{
+"ref": "nn:1996/23/427",
+"title": "Program posebnog dijela državnog stručnog ispita za državne službenike u tijelima Državne uprave za zaštitu kulturne i prirodne baštine (NN 23/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/23/427",
+"date": "1996-03-22",
+"how": "cite"
+},
+{
+"ref": "nn:1998/32/406",
+"title": "Rješenje o imenovanju predsjednika, zamjenice predsjednika i članova Upravnog vijeća Javne ustanove \"Nacionalni park Plitvička jezera (NN 32/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/32/406",
+"date": "1998-03-10",
+"how": "cite"
+},
+{
+"ref": "nn:1998/133/1608",
+"title": "Rješenje o razrješenju Gorane Deljac Stipaničev dužnosti ravnateljice Javne ustanove \"Nacionalni park Krka (NN 133/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/133/1608",
+"date": "1998-10-13",
+"how": "cite"
+},
+{
+"ref": "nn:1998/133/1609",
+"title": "Rješenje o imenovanju dr. Drage Maguša privremenim ravnateljem Javne ustanove \"Nacionalni park Krka (NN 133/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/133/1609",
+"date": "1998-10-13",
+"how": "cite"
+},
+{
+"ref": "nn:2000/29/600",
+"title": "Rješenje o razrješenju predsjednika i članova Upravnog vijeća Javne ustanove Nacionalni park Brijuni (NN 29/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/29/600",
+"date": "2000-03-15",
+"how": "cite"
+},
+{
+"ref": "nn:2000/29/601",
+"title": "Rješenje o razrješenju predsjednika, zamjenice predsjednika i članova Upravnog vijeća Javne ustanove Nacionalni park Plitvička jezera (NN 29/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/29/601",
+"date": "2000-03-15",
+"how": "cite"
+},
+{
+"ref": "nn:2000/40/938",
+"title": "Rješenje o imenovanju predsjednika i članova Upravnog vijeća Javne ustanove »Nacionalni park plitvička jezera« (NN 40/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/40/938",
+"date": "2000-04-14",
+"how": "cite"
+},
+{
+"ref": "nn:2000/45/1027",
+"title": "Rješenje o imenovanju ravnatelja javne ustanove \"Park prirode Telašćica\" (NN 45/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/45/1027",
+"date": "2000-04-28",
+"how": "cite"
+},
+{
+"ref": "nn:2000/45/1028",
+"title": "Rješenje o imenovanju predsjednika i članova Upravnog vijeća Javne ustanove \"Nacionalni park Brijuni\" (NN 45/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/45/1028",
+"date": "2000-04-28",
+"how": "cite"
+},
+{
+"ref": "nn:2000/52/1141",
+"title": "Rješenje o imenovanju ravnatelja javne ustanove \"Nacionalni park Risnjak\" (NN 52/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/52/1141",
+"date": "2000-05-23",
+"how": "cite"
+},
+{
+"ref": "nn:2000/52/1142",
+"title": "Rješenje o imenovanju ravnatelja javne ustanove \"Nacionalni park Paklenica\" (NN 52/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/52/1142",
+"date": "2000-05-23",
+"how": "cite"
+},
+{
+"ref": "nn:2000/67/1461",
+"title": "Rješenje o razrješenju Marka Kesića dužnosti ravnatelja Javne ustanove \"Park prirode Medvednica\" (NN 67/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1461",
+"date": "2000-07-13",
+"how": "cite"
+},
+{
+"ref": "nn:2000/67/1462",
+"title": "Rješenje o imenovanju Darka Stilinovića privremenim ravnatelja Javne ustanove \"Park prirode Medvednica\" (NN 67/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/67/1462",
+"date": "2000-07-13",
+"how": "cite"
+},
+{
+"ref": "nn:2000/70/1529",
+"title": "Rješenje o razrješenju ravnatelja Javne ustanove \"Nacionalni park Brijuni\" (NN 70/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/70/1529",
+"date": "2000-07-18",
+"how": "cite"
+},
+{
+"ref": "nn:2000/70/1530",
+"title": "Rješenje o imenovanju ravnatelja Javne ustavnove \"Nacionalni park Brijuni\" (NN 70/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/70/1530",
+"date": "2000-07-18",
+"how": "cite"
+},
+{
+"ref": "nn:2000/92/1845",
+"title": "Rješenje o razrješenju ravnatelja Javne ustanove \"Nacionalni park Mljet\" (NN 92/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/92/1845",
+"date": "2000-09-30",
+"how": "cite"
+},
+{
+"ref": "nn:2000/92/1846",
+"title": "Rješenje o imenovanju vršiteljice dužnosti ravnatelja Javne ustanove \"Nacionalni park Mljet\" (NN 92/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/92/1846",
+"date": "2000-09-30",
+"how": "cite"
+},
+{
+"ref": "nn:2000/92/1847",
+"title": "Rješenje o imenovanju ravnatelja Javne ustanove \"Nacionalni park Plitvička jezera\" (NN 92/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/92/1847",
+"date": "2000-09-30",
+"how": "cite"
+},
+{
+"ref": "nn:2000/98/1937",
+"title": "Rješenje o imenovanju ravnateljice Javne ustanove \"Park prirode Medvednica\" (NN 98/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/98/1937",
+"date": "2000-10-03",
+"how": "cite"
+},
+{
+"ref": "nn:2000/103/2025",
+"title": "Rješenje o imenovanju Marina Buturića vršiteljem dužnosti ravnatelja Javne ustanove \"Park prirode Telašćica\" (NN 103/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/103/2025",
+"date": "2000-10-19",
+"how": "cite"
+},
+{
+"ref": "nn:2001/4/82",
+"title": "Rješenje o razrješenju ravnatelja Javne ustanove \"Park prirode Kopački rit\" (NN 4/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/4/82",
+"date": "2001-01-18",
+"how": "cite"
+},
+{
+"ref": "nn:2001/4/83",
+"title": "Rješenje o imenovanju ravnateljice Javne ustanove \"Park prirode Kopački rit\" (NN 4/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/4/83",
+"date": "2001-01-18",
+"how": "cite"
+},
+{
+"ref": "nn:2001/6/129",
+"title": "Rješenje o razrješenju Igora Turčinova dužnosti ravnatelja Javne ustanove \"Nacionalni park Kornati\" (NN 6/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/6/129",
+"date": "2001-01-24",
+"how": "cite"
+},
+{
+"ref": "nn:2001/6/130",
+"title": "Rješenje o razrješenju Rajka Čuzele Papata vršiteljem dužnosti ravnatelja Javne ustanove \"Nacionalni park Kornati\" (NN 6/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/6/130",
+"date": "2001-01-24",
+"how": "cite"
+},
+{
+"ref": "nn:2001/46/768",
+"title": "Rješenje o imenovanju Božidara Puhova ravnateljem Javne ustanove \"Park prirode Telašćica\" (NN 46/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/46/768",
+"date": "2001-05-23",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1130",
+"title": "Rješenje o razrješenju mr. sc. Marije Nodilo dužnosti vršiteljice dužnosti ravnateljice Javne ustanove \"Nacionalni park Mljet\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1130",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1131",
+"title": "Rješenje o imenovanju dr. sc. Gorana Mihelčića ravnateljem Javne ustanove \"Nacionalni park Mljet\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1131",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1132",
+"title": "Rješenje o imenovanju Milana Krmpotića ravnateljem Javne ustanove \"Nacionalni park Sjeverni Velebit\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1132",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1133",
+"title": "Rješenje o imenovanju mr. sc. Ivice Samardžića ravnateljem Javne ustanove \"Park prirode Papuk\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1133",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1134",
+"title": "Rješenje o imenovanju ravnatelja dr. sc. Matije Frankovića ravnateljem Javne ustanove \"Park prirode Žumberak-Samoborsko gorje\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1134",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1135",
+"title": "Rješenje o imenovanju Gojka Pintura ravnateljem Javne ustanove \"Park prirode Vransko jezero\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1135",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2001/68/1136",
+"title": "Rješenje o imenovanju Suzi Petričić ravnateljicom Javne ustanove \"Park prirode Učka\" (NN 68/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/68/1136",
+"date": "2001-07-27",
+"how": "cite"
+},
+{
+"ref": "nn:2002/46/924",
+"title": "Nacionalna strategija zaštite okoliša (NN 46/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/46/924",
+"date": "2002-04-29",
+"how": "cite"
+},
+{
+"ref": "nn:2002/47/951",
+"title": "Rješenje o razrješenju vršitelja dužnosti ravnatelja Javne ustanove \"Nacionalni park Kornati\" (NN 47/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/47/951",
+"date": "2002-04-30",
+"how": "cite"
+},
+{
+"ref": "nn:2002/47/952",
+"title": "Rješenje o imenovanju ravnatelja Javne ustanove \"Nacionalni park Kornati\" (NN 47/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/47/952",
+"date": "2002-04-30",
+"how": "cite"
+},
+{
+"ref": "nn:2002/111/1794",
+"title": "Rješenje o imenovanju ravnatelja Javne ustanove \"Park prirode Lonjske polje\" (NN 111/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/111/1794",
+"date": "2002-09-25",
+"how": "cite"
+},
+{
+"ref": "nn:2002/118/1918",
+"title": "Rješenje o razrješenju člana Upravnog vijeća Javne ustanove \"Nacionalni park Brijuni\" (NN 118/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1918",
+"date": "2002-10-10",
+"how": "cite"
+},
+{
+"ref": "nn:2002/118/1919",
+"title": "Rješenje o imenovanju člana Upravnog vijeća Javne ustanove \"Nacionalni park Brijuni\" (NN 118/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1919",
+"date": "2002-10-10",
+"how": "cite"
+},
+{
+"ref": "nn:2003/14/200",
+"title": "Rješenje o razrješenju ravnatelja Javne ustanove \"Nacionalni park Mljet\" (NN 14/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/14/200",
+"date": "2003-01-29",
+"how": "cite"
+},
+{
+"ref": "nn:2003/14/201",
+"title": "Rješenje o imenovanju vršitelja dužnosti ravnatelja Javne ustanove \"Nacionalni park Mljet\" (NN 14/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/14/201",
+"date": "2003-01-29",
+"how": "cite"
+},
+{
+"ref": "nn:2003/94/1205",
+"title": "Rješenje o imenovanju ravnatelja Javne ustanove \"Nacionalni park Mljet\" (NN 94/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/94/1205",
+"date": "2003-06-06",
+"how": "cite"
+},
+{
+"ref": "nn:2003/102/1361",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-870/2002 od 21. svibnja 2003. (NN 102/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/102/1361",
+"date": "2003-06-24",
+"how": "cite"
+},
+{
+"ref": "nn:2003/121/1724",
+"title": "Rješenje o razrješenju predsjednika Upravnog vijeća Javne ustanove \"Nacionalni park Plitvička jezera\" (NN 121/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1724",
+"date": "2003-07-29",
+"how": "cite"
+},
+{
+"ref": "nn:2003/121/1725",
+"title": "Rješenje o imenovanju predsjednika Upravnog vijeća Javne ustanove \"Nacionalni park Plitvička jezera\" (NN 121/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/121/1725",
+"date": "2003-07-29",
+"how": "cite"
+},
+{
+"ref": "nn:2003/124/1796",
+"title": "Rješenje o razrješenju ravnatelja Javne ustanove \"Nacionalni park Kornati\" (NN 124/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/124/1796",
+"date": "2003-08-01",
+"how": "cite"
+},
+{
+"ref": "nn:2003/124/1797",
+"title": "Rješenje o imenovanju vršitelja dužnosti ravnatelja Javne ustanove \"Nacionalni park Kornati\" (NN 124/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/124/1797",
+"date": "2003-08-01",
+"how": "cite"
+},
+{
+"ref": "nn:2003/164/2364",
+"title": "Rješenje o imenovanju ravnatelja Javne ustanove \"Park prirode Biokovo\" (NN 164/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/164/2364",
+"date": "2003-10-17",
+"how": "cite"
+},
+{
+"ref": "nn:2003/164/2365",
+"title": "Rješenje o imenovanju ravnateljice Javne ustanove \"Park prirode Velebit\" (NN 164/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/164/2365",
+"date": "2003-10-17",
+"how": "cite"
+},
+{
+"ref": "nn:2003/167/2423",
+"title": "Rješenje o imenovanju ravnatelja Javne ustanove \"Nacionalni park Krka\" (NN 167/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/167/2423",
+"date": "2003-10-22",
+"how": "cite"
+},
+{
+"ref": "nn:2004/100/1898",
+"title": "Zakon o izmjenama i dopunama Zakona o gradnji (NN 100/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/100/1898",
+"date": "2004-07-20",
+"how": "cite"
+},
+{
+"ref": "nn:2011/63/1412",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj: U-II-3575/2007 i U-II-3182/2010 od 17. svibnja 2011. (NN 63/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/63/1412",
+"date": "2011-06-08",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-522",
+"path": "zakon/1994/522",
+"kind": "zakon",
+"year": "1994",
+"number": "522",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+"short": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "1994-04-23",
+"latest": "1994-04-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/522",
+"amended_by": [
+{
+"ref": "nn:2008/152/4142",
+"title": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma (NN 152/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/152/4142",
+"date": "2008-12-24",
+"how": "repeal,replace"
+}
+]
+},
+{
+"slug": "zakon-1994-524",
+"path": "zakon/1994/524",
+"kind": "zakon",
+"year": "1994",
+"number": "524",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+"short": "Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-04-23",
+"latest": "1994-04-23",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/524",
+"amended_by": [
+{
+"ref": "nn:1995/42/842",
+"title": "Ispravak Zakona o boravišnoj pristojbi (pročišćeni tekst) (NN 42/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/42/842",
+"date": "1995-06-23",
+"how": "amend"
+},
+{
+"ref": "nn:1995/52/1050",
+"title": "Ispravak zakona o boravišnoj pristojbi (NN 52/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/52/1050",
+"date": "1995-07-28",
+"how": "amend"
+},
+{
+"ref": "nn:2009/59/1395",
+"title": "Ispravak Zakona o boravišnoj pristojbi (NN 59/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/59/1395",
+"date": "2009-05-22",
+"how": "amend"
 }
 ]
 },
@@ -67964,6 +69746,347 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/43/773"
 },
 {
+"slug": "zakon-1994-777",
+"path": "zakon/1994/777",
+"kind": "zakon",
+"year": "1994",
+"number": "777",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+"short": "Zakon o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "1994-06-11",
+"latest": "1994-06-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/777",
+"amended_by": [
+{
+"ref": "nn:1998/79/1057",
+"title": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 79/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/79/1057",
+"date": "1998-06-05",
+"how": "amend"
+},
+{
+"ref": "nn:1999/19/401",
+"title": "Zakon o izmjenama Zakona o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 19/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/19/401",
+"date": "1999-02-25",
+"how": "amend"
+},
+{
+"ref": "nn:2004/60/1340",
+"title": "Zakon o izmjenama i dopunama Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 60/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/60/1340",
+"date": "2004-05-12",
+"how": "amend"
+},
+{
+"ref": "nn:2012/12/335",
+"title": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 12/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/12/335",
+"date": "2012-01-26",
+"how": "amend"
+},
+{
+"ref": "nn:2013/15/243",
+"title": "Zakon o izmjeni Zakona o Državnoj agenciji za osiguranje štednih uloga i sanaciju banaka (NN 15/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/15/243",
+"date": "2013-02-06",
+"how": "amend"
+},
+{
+"ref": "nn:2020/146/2825",
+"title": "Zakon o sustavu osiguranja depozita (NN 146/2020)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2020/146/2825",
+"date": "2020-12-28",
+"how": "repeal"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2000/40/949",
+"title": "Rješenje o razrješenju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 40/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/40/949",
+"date": "2000-04-14",
+"how": "cite"
+},
+{
+"ref": "nn:2000/40/950",
+"title": "Rješenje o imenovanju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 40/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/40/950",
+"date": "2000-04-14",
+"how": "cite"
+},
+{
+"ref": "nn:2001/21/391",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-II-932/2000 od 28. veljače 2001. (NN 21/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/21/391",
+"date": "2001-03-16",
+"how": "cite"
+},
+{
+"ref": "nn:2004/37/936",
+"title": "Nacionalni program Republike Hrvatske za pridruživanje Europskoj uniji - 2004. godina (NN 37/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/37/936",
+"date": "2004-03-23",
+"how": "cite"
+},
+{
+"ref": "nn:2004/77/1554",
+"title": "Rješenje o razrješenju predsjednika, zamjenika predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 77/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/77/1554",
+"date": "2004-06-09",
+"how": "cite"
+},
+{
+"ref": "nn:2004/77/1555",
+"title": "Rješenje o imenovanju predsjednika, zamjenika predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 77/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/77/1555",
+"date": "2004-06-09",
+"how": "cite"
+},
+{
+"ref": "nn:2004/131/2353",
+"title": "Rješenje o razrješenju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 131/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/131/2353",
+"date": "2004-09-22",
+"how": "cite"
+},
+{
+"ref": "nn:2004/131/2354",
+"title": "Rješenje o imenovanju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 131/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/131/2354",
+"date": "2004-09-22",
+"how": "cite"
+},
+{
+"ref": "nn:2005/22/392",
+"title": "Rješenje o razrješenju člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 22/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/22/392",
+"date": "2005-02-16",
+"how": "cite"
+},
+{
+"ref": "nn:2005/22/393",
+"title": "Rješenje o imenovanju člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 22/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/22/393",
+"date": "2005-02-16",
+"how": "cite"
+},
+{
+"ref": "nn:2005/29/493",
+"title": "Rješenje o razrješenju predsjednika Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 29/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/493",
+"date": "2005-03-02",
+"how": "cite"
+},
+{
+"ref": "nn:2005/29/494",
+"title": "Rješenje o imenovanju predsjednika Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 29/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/29/494",
+"date": "2005-03-02",
+"how": "cite"
+},
+{
+"ref": "nn:2006/6/151",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj:U-I-1605/2003 od 21. prosinca 2005. (NN 6/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/6/151",
+"date": "2006-01-13",
+"how": "cite"
+},
+{
+"ref": "nn:2008/27/927",
+"title": "Rješenje o razrješenju predsjednika, zamjenika predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 27/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/27/927",
+"date": "2008-03-05",
+"how": "cite"
+},
+{
+"ref": "nn:2008/27/928",
+"title": "Rješenje o imenovanju predsjednika, zamjenika predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 27/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/27/928",
+"date": "2008-03-05",
+"how": "cite"
+},
+{
+"ref": "nn:2008/119/3418",
+"title": "Rješenje o razrješenju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 119/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/119/3418",
+"date": "2008-10-15",
+"how": "cite"
+},
+{
+"ref": "nn:2008/119/3419",
+"title": "Rješenje o imenovanju vršitelja dužnosti direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 119/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/119/3419",
+"date": "2008-10-15",
+"how": "cite"
+},
+{
+"ref": "nn:2009/140/3421",
+"title": "Rješenje o razrješenju predsjednika Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 140/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/140/3421",
+"date": "2009-11-25",
+"how": "cite"
+},
+{
+"ref": "nn:2009/142/3482",
+"title": "Rješenje o razrješenju člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 142/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/142/3482",
+"date": "2009-11-30",
+"how": "cite"
+},
+{
+"ref": "nn:2009/142/3483",
+"title": "Rješenje o imenovanju predsjednika i člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 142/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/142/3483",
+"date": "2009-11-30",
+"how": "cite"
+},
+{
+"ref": "nn:2011/8/173",
+"title": "Rješenje o razrješenju predsjednika Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 8/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/173",
+"date": "2011-01-19",
+"how": "cite"
+},
+{
+"ref": "nn:2011/8/174",
+"title": "Rješenje o imenovanu predsjednika Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 8/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/8/174",
+"date": "2011-01-19",
+"how": "cite"
+},
+{
+"ref": "nn:2011/119/2321",
+"title": "Rješenje o razrješenju člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 119/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2321",
+"date": "2011-10-21",
+"how": "cite"
+},
+{
+"ref": "nn:2011/121/2392",
+"title": "Rješenje o razrješenju vršitelja dužnosti direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 121/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2392",
+"date": "2011-10-28",
+"how": "cite"
+},
+{
+"ref": "nn:2011/121/2393",
+"title": "Rješenje o imenovanju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 121/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/121/2393",
+"date": "2011-10-28",
+"how": "cite"
+},
+{
+"ref": "nn:2012/29/715",
+"title": "Rješenje o razrješenju predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 29/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/29/715",
+"date": "2012-03-07",
+"how": "cite"
+},
+{
+"ref": "nn:2012/29/716",
+"title": "Rješenje o imenovanju predsjednika, zamjenika predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 29/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/29/716",
+"date": "2012-03-07",
+"how": "cite"
+},
+{
+"ref": "nn:2012/40/1040",
+"title": "Rješenje o razrješenju direktora Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 40/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/40/1040",
+"date": "2012-04-06",
+"how": "cite"
+},
+{
+"ref": "nn:2012/40/1041",
+"title": "Rješenje o imenovanju direktorice Državne agencije za osiguranje štednih uloga i sanaciju (NN 40/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/40/1041",
+"date": "2012-04-06",
+"how": "cite"
+},
+{
+"ref": "nn:2014/72/1350",
+"title": "Rješenje o imenovanju predsjednika Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 72/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/72/1350",
+"date": "2014-06-13",
+"how": "cite"
+},
+{
+"ref": "nn:2014/132/2473",
+"title": "Rješenje o razrješenju člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 132/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/132/2473",
+"date": "2014-11-12",
+"how": "cite"
+},
+{
+"ref": "nn:2014/132/2474",
+"title": "Rješenje o imenovanju člana Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 132/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/132/2474",
+"date": "2014-11-12",
+"how": "cite"
+},
+{
+"ref": "nn:2016/23/643",
+"title": "Rješenje o razrješenju predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 23/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/23/643",
+"date": "2016-03-16",
+"how": "cite"
+},
+{
+"ref": "nn:2016/23/644",
+"title": "Rješenje o imenovanju predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 23/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/23/644",
+"date": "2016-03-16",
+"how": "cite"
+},
+{
+"ref": "nn:2016/102/2179",
+"title": "Rješenje o razrješenju predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 102/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/102/2179",
+"date": "2016-11-09",
+"how": "cite"
+},
+{
+"ref": "nn:2016/102/2180",
+"title": "Rješenje o imenovanju predsjednika i članova Uprave Državne agencije za osiguranje štednih uloga i sanaciju banaka (NN 102/2016)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2016/102/2180",
+"date": "2016-11-09",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-778",
+"path": "zakon/1994/778",
+"kind": "zakon",
+"year": "1994",
+"number": "778",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+"short": "Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-06-11",
+"latest": "1994-06-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/778",
+"amended_by": [
+{
+"ref": "nn:1994/47/827",
+"title": "Ispravak Zakona o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo (NN 47/1994)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/47/827",
+"date": "1994-06-16",
+"how": "amend"
+}
+]
+},
+{
 "slug": "zakon-1994-779",
 "path": "zakon/1994/779",
 "kind": "zakon",
@@ -69203,6 +71326,93 @@
 ]
 },
 {
+"slug": "zakon-1994-903",
+"path": "zakon/1994/903",
+"kind": "zakon",
+"year": "1994",
+"number": "903",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o posebnom porezu na alkohol",
+"short": "Zakon o posebnom porezu na alkohol",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-07-11",
+"latest": "1994-07-11",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/903",
+"amended_by": [
+{
+"ref": "nn:1998/141/1732",
+"title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol (NN 141/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/141/1732",
+"date": "1998-10-27",
+"how": "amend"
+},
+{
+"ref": "nn:2001/107/1765",
+"title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na alkohol (NN 107/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/107/1765",
+"date": "2001-12-05",
+"how": "amend"
+},
+{
+"ref": "nn:2002/136/2199",
+"title": "Zakon o posebnom porezu na alkohol (pročišćeni tekst) (NN 136/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/136/2199",
+"date": "2002-11-21",
+"how": "consolidated"
+},
+{
+"ref": "nn:2007/107/3145",
+"title": "Zakon o dopunama Zakona o posebnom porezu na alkohol (NN 107/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/107/3145",
+"date": "2007-10-19",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1996/19/333",
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga (NN 19/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/19/333",
+"date": "1996-03-08",
+"how": "cite"
+},
+{
+"ref": "nn:2000/127/2353",
+"title": "Opći porezni zakon (NN 127/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/127/2353",
+"date": "2000-12-20",
+"how": "cite"
+},
+{
+"ref": "nn:2009/83/2020",
+"title": "Zakon o trošarinama (NN 83/2009)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2009/83/2020",
+"date": "2009-07-15",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-918",
+"path": "zakon/1994/918",
+"kind": "zakon",
+"year": "1994",
+"number": "918",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o cestama",
+"short": "Zakon o izmjenama i dopunama Zakona o cestama",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-07-07",
+"latest": "1994-07-07",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/918"
+},
+{
 "slug": "zakon-1994-919",
 "path": "zakon/1994/919",
 "kind": "zakon",
@@ -69235,6 +71445,32 @@
 "from": "1994-07-07",
 "latest": "1994-07-07",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/920"
+},
+{
+"slug": "zakon-1994-921",
+"path": "zakon/1994/921",
+"kind": "zakon",
+"year": "1994",
+"number": "921",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz domovinskog rata",
+"short": "Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz domovinskog rata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-07-15",
+"latest": "1994-07-15",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/921",
+"amended_by": [
+{
+"ref": "nn:2013/33/605",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o pravima hrvatskih branitelja iz Domovinskog rata i članova njihovih obitelji (NN 33/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/33/605",
+"date": "2013-03-20",
+"how": "amend"
+}
+]
 },
 {
 "slug": "zakon-1994-922",
@@ -69336,6 +71572,153 @@
 "from": "1994-07-07",
 "latest": "1994-07-07",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/949"
+},
+{
+"slug": "zakon-1994-950",
+"path": "zakon/1994/950",
+"kind": "zakon",
+"year": "1994",
+"number": "950",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o pošti",
+"short": "Zakon o pošti",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-07-16",
+"latest": "1994-07-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/950",
+"amended_by": [
+{
+"ref": "nn:2003/172/2490",
+"title": "Zakon o pošti (NN 172/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/172/2490",
+"date": "2003-10-29",
+"how": "replace"
+},
+{
+"ref": "nn:2004/15/469",
+"title": "Ispravak Zakona o pošti (NN 15/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/15/469",
+"date": "2004-02-04",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2002/118/1921",
+"title": "Program posebnog dijela državnog stručnog ispita iz upravnih područja: pomorstva, unutarnje plovidbe, cestovnog prometa i cesta, željezničkog prometa, civilnog zrakoplovstva te pošte i telekomunikacij (NN 118/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1921",
+"date": "2002-10-10",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-951",
+"path": "zakon/1994/951",
+"kind": "zakon",
+"year": "1994",
+"number": "951",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o telekomunikacijama",
+"short": "Zakon o telekomunikacijama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-07-16",
+"latest": "1994-07-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/951",
+"amended_by": [
+{
+"ref": "nn:1999/76/1359",
+"title": "Zakon o telekomunikacijama (NN 76/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1359",
+"date": "1999-07-19",
+"how": "amend,replace"
+},
+{
+"ref": "nn:2003/120/1699",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-2188/2001 od 9. srpnja 2003., te dva izdvojena mišljenja sudaca od 17. srpnja 2003. (NN 120/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/120/1699",
+"date": "2003-07-26",
+"how": "amend"
+},
+{
+"ref": "nn:2003/158/2289",
+"title": "Ispravak Zakona o telekomunikacijama (NN 158/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/158/2289",
+"date": "2003-10-07",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1999/119/1933",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-III-280/1999, od 13. listopada 1999. (NN 119/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/119/1933",
+"date": "1999-11-16",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-952",
+"path": "zakon/1994/952",
+"kind": "zakon",
+"year": "1994",
+"number": "952",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o hrvatskim željeznicama",
+"short": "Zakon o hrvatskim željeznicama",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-07-16",
+"latest": "1994-07-16",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/952",
+"amended_by": [
+{
+"ref": "nn:1998/162/1997",
+"title": "Zakon o izmjenama i dopunama Zakona o hrvatskim željeznicama (NN 162/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/162/1997",
+"date": "1998-12-22",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1998/41/507",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-920/1995 i U-I-950/1996 od 11. ožujka 1998. (NN 41/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/41/507",
+"date": "1998-03-24",
+"how": "cite"
+},
+{
+"ref": "nn:1998/98/1362",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-I-920/1995, U-I-950/1996 od 15. srpnja 1998. (NN 98/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/98/1362",
+"date": "1998-07-20",
+"how": "cite"
+},
+{
+"ref": "nn:1999/74/1352",
+"title": "Rješenje Ustavnog suda Republike Hrvatske U-I-76 od 9 (NN 74/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/74/1352",
+"date": "1999-07-14",
+"how": "cite"
+},
+{
+"ref": "nn:2002/118/1921",
+"title": "Program posebnog dijela državnog stručnog ispita iz upravnih područja: pomorstva, unutarnje plovidbe, cestovnog prometa i cesta, željezničkog prometa, civilnog zrakoplovstva te pošte i telekomunikacij (NN 118/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/118/1921",
+"date": "2002-10-10",
+"how": "cite"
+}
+]
 },
 {
 "slug": "odluka-1994-956",
@@ -72902,6 +75285,76 @@
 ]
 },
 {
+"slug": "zakon-1994-1248",
+"path": "zakon/1994/1248",
+"kind": "zakon",
+"year": "1994",
+"number": "1248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija",
+"short": "Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-10-18",
+"latest": "1994-10-18",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/72/1248",
+"amended_by": [
+{
+"ref": "nn:1996/92/1601",
+"title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (NN 92/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/92/1601",
+"date": "1996-10-30",
+"how": "amend"
+},
+{
+"ref": "nn:1997/131/1890",
+"title": "Zakon o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (NN 131/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/131/1890",
+"date": "1997-12-05",
+"how": "amend"
+},
+{
+"ref": "nn:1999/48/925",
+"title": "Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (NN 48/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/48/925",
+"date": "1999-05-18",
+"how": "amend,replace"
+},
+{
+"ref": "nn:2000/20/288",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija (NN 20/2000)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2000/20/288",
+"date": "2000-02-16",
+"how": "amend"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1996/95/1904",
+"title": "Rješenje o imenovanju dr. Jurja Njavre ravnateljem Državne uprave za skrb o razvojačenim braniteljima i civilnim žrtvama Domovinskog rata (NN 95/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/95/1904",
+"date": "1996-11-13",
+"how": "cite"
+},
+{
+"ref": "nn:1998/28/338",
+"title": "Rješenje o imenovanju Branka Jordanića glavnim inspektorom Državnog inspektorata (NN 28/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/28/338",
+"date": "1998-03-03",
+"how": "cite"
+},
+{
+"ref": "nn:1998/68/814",
+"title": "Zakon o hidrografskoj djelatnosti (NN 68/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/814",
+"date": "1998-05-12",
+"how": "cite"
+}
+]
+},
+{
 "slug": "zakon-1994-1250",
 "path": "zakon/1994/1250",
 "kind": "zakon",
@@ -73146,6 +75599,97 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/73/1283"
 },
 {
+"slug": "zakon-1994-1289",
+"path": "zakon/1994/1289",
+"kind": "zakon",
+"year": "1994",
+"number": "1289",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o morskom ribarstvu",
+"short": "Zakon o morskom ribarstvu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-10-26",
+"latest": "1994-10-26",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1289",
+"amended_by": [
+{
+"ref": "nn:1996/57/1162",
+"title": "Zakon o izmjenama i dopunama Zakona o morskom ribarstvu (NN 57/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/57/1162",
+"date": "1996-07-12",
+"how": "amend"
+},
+{
+"ref": "nn:1997/46/670",
+"title": "Zakon o morskom ribarstvu (pročišćeni tekst) (NN 46/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/46/670",
+"date": "1997-05-05",
+"how": "consolidated"
+},
+{
+"ref": "nn:1999/76/1360",
+"title": "Zakon o Državnom inspektoratu (NN 76/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/76/1360",
+"date": "1999-07-19",
+"how": "amend"
+},
+{
+"ref": "nn:2005/48/933",
+"title": "Zakon o izmjenama i dopunama Zakona o morskom ribarstvu (NN 48/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/48/933",
+"date": "2005-04-13",
+"how": "amend"
+},
+{
+"ref": "nn:2010/56/1341",
+"title": "Zakon o morskom ribarstvu (NN 56/2010)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2010/56/1341",
+"date": "2010-05-07",
+"how": "amend,replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1994/93/1617",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-328/1994. od 30. studenoga 1994. (NN 93/1994)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/93/1617",
+"date": "1994-12-16",
+"how": "cite"
+},
+{
+"ref": "nn:1995/27/567",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-62/1992. od 12. travnja 1995. godine (NN 27/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/27/567",
+"date": "1995-04-24",
+"how": "cite"
+},
+{
+"ref": "nn:1998/66/804",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-I-6/1997 i U-II-212/1997 od 22. travnja 1998. (NN 66/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/66/804",
+"date": "1998-05-06",
+"how": "cite"
+},
+{
+"ref": "nn:1999/117/1879",
+"title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, rudarskog i elektroenergetskog inspektora te inspektora rada i posuda po (NN 117/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/117/1879",
+"date": "1999-11-09",
+"how": "cite"
+},
+{
+"ref": "nn:2002/81/1338",
+"title": "Program posebnog dijela državnog stručnog ispita za zvanja gospodarskog inspektora, gospodarskog inspektora treće vrste zvanja, inspektora rada, elektroenergetskog inspektora, rudarskog inspektora i inspektora posuda pod tlakom (NN 81/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/81/1338",
+"date": "2002-07-09",
+"how": "cite"
+}
+]
+},
+{
 "slug": "zakon-1994-1290",
 "path": "zakon/1994/1290",
 "kind": "zakon",
@@ -73192,6 +75736,66 @@
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/119/2348",
 "date": "2011-10-21",
 "how": "repeal"
+}
+]
+},
+{
+"slug": "zakon-1994-1300",
+"path": "zakon/1994/1300",
+"kind": "zakon",
+"year": "1994",
+"number": "1300",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+"short": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-10-29",
+"latest": "1994-10-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1300"
+},
+{
+"slug": "zakon-1994-1301",
+"path": "zakon/1994/1301",
+"kind": "zakon",
+"year": "1994",
+"number": "1301",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+"short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-10-29",
+"latest": "1994-10-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1301"
+},
+{
+"slug": "zakon-1994-1302",
+"path": "zakon/1994/1302",
+"kind": "zakon",
+"year": "1994",
+"number": "1302",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+"short": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-10-29",
+"latest": "1994-10-29",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1302",
+"amended_by": [
+{
+"ref": "nn:2002/32/707",
+"title": "Ispravak Pravilnika o radu liječničkih povjerenstava u postupku ostvarivanja prava po Zakonu o zaštiti vojnih i civilnih invalida rata (NN 32/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/32/707",
+"date": "2002-03-28",
+"how": "amend"
 }
 ]
 },
@@ -73248,6 +75852,23 @@
 ]
 },
 {
+"slug": "zakon-1994-1312",
+"path": "zakon/1994/1312",
+"kind": "zakon",
+"year": "1994",
+"number": "1312",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o elektroprivredi",
+"short": "Zakon o izmjenama i dopunama Zakona o elektroprivredi",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-11-03",
+"latest": "1994-11-03",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/78/1312"
+},
+{
 "slug": "odluka-1994-1316",
 "path": "odluka/1994/1316",
 "kind": "odluka",
@@ -73301,6 +75922,39 @@
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/112/1688",
 "date": "1997-10-24",
 "how": "replace"
+}
+]
+},
+{
+"slug": "zakon-1994-1322",
+"path": "zakon/1994/1322",
+"kind": "zakon",
+"year": "1994",
+"number": "1322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+"short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+"code": null,
+"status": "cited later, not consolidated",
+"versions": 1,
+"from": "1994-10-27",
+"latest": "1994-10-27",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/79/1322",
+"cited_by": [
+{
+"ref": "nn:1996/61/1218",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-II-394/93, U-II-426/93, U-II-459/93, U-II-25/94, U-II-384/96 od 10. srpnja 1996. (NN 61/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/61/1218",
+"date": "1996-07-19",
+"how": "cite"
+},
+{
+"ref": "nn:2023/20/349",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-II-5706/2016, U-II-5809/2016 od 7. veljače 2023. i Podupiruće izdvojeno mišljenje suca (NN 20/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/20/349",
+"date": "2023-02-20",
+"how": "cite"
 }
 ]
 },
@@ -73797,6 +76451,230 @@
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/22/418",
 "date": "2014-02-19",
 "how": "amend"
+}
+]
+},
+{
+"slug": "zakon-1994-1390",
+"path": "zakon/1994/1390",
+"kind": "zakon",
+"year": "1994",
+"number": "1390",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o zaštiti okoliša",
+"short": "Zakon o zaštiti okoliša",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-11-19",
+"latest": "1994-11-19",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/82/1390",
+"amended_by": [
+{
+"ref": "nn:1999/128/2027",
+"title": "Zakon o izmjenama i dopunama Zakona o zaštiti okoliša (NN 128/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/128/2027",
+"date": "1999-11-30",
+"how": "amend"
+},
+{
+"ref": "nn:2007/110/3226",
+"title": "Zakon o zaštiti okoliša (NN 110/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/110/3226",
+"date": "2007-10-25",
+"how": "replace"
+},
+{
+"ref": "nn:2013/80/1659",
+"title": "Zakon o zaštiti okoliša (NN 80/2013)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2013/80/1659",
+"date": "2013-06-28",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1995/97/1599",
+"title": "Rješenje Ustavnog suda Republike Hrvatske broj U-II-680/1995, U-II-691/1995, U-II-696/1995, U-II-726/1995, U-II-752/1995, od 22. studenoga 1995. (NN 97/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/97/1599",
+"date": "1995-12-01",
+"how": "cite"
+},
+{
+"ref": "nn:1997/8/120",
+"title": "Plan intervencija kod iznenadnog onečišćenja mora u Republici Hrvatskoj (NN 8/1997)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1997/8/120",
+"date": "1997-01-28",
+"how": "cite"
+},
+{
+"ref": "nn:1999/57/1066",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj U-II-538/1996 od 5 (NN 57/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/57/1066",
+"date": "1999-06-07",
+"how": "cite"
+},
+{
+"ref": "nn:1999/82/1487",
+"title": "Plan intervencija u zaštiti okoliša (NN 82/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/82/1487",
+"date": "1999-08-06",
+"how": "cite"
+},
+{
+"ref": "nn:1999/121/1955",
+"title": "Vjerodostojno tumačenje članka 2., 7. i 8. Zakona o izmjenama i dopunama Zakona o trgovačkim društvima (\"Narodne novine\", broj 34/99) (NN 121/1999)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1999/121/1955",
+"date": "1999-11-19",
+"how": "cite"
+},
+{
+"ref": "nn:2001/12/234",
+"title": "Izmjena Plana intervencija u zaštiti okoliša (NN 12/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/12/234",
+"date": "2001-02-14",
+"how": "cite"
+},
+{
+"ref": "nn:2001/18/322",
+"title": "Rješenje o imenovanju novih članova Savjeta prostornog uređenja Države (NN 18/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/18/322",
+"date": "2001-03-07",
+"how": "cite"
+},
+{
+"ref": "nn:2002/46/924",
+"title": "Nacionalna strategija zaštite okoliša (NN 46/2002)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2002/46/924",
+"date": "2002-04-29",
+"how": "cite"
+},
+{
+"ref": "nn:2003/177/2586",
+"title": "Rješenje Ustavnog suda Republike Hrvatske brroj U-II-2328/2002. od 23. listopada 2003. (NN 177/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/177/2586",
+"date": "2003-11-07",
+"how": "cite"
+},
+{
+"ref": "nn:2004/57/1280",
+"title": "Rješenje o imenovanju članova Savjeta za zaštitu okoliša Države (NN 57/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/57/1280",
+"date": "2004-05-05",
+"how": "cite"
+},
+{
+"ref": "nn:2004/178/3082",
+"title": "Zakon o zaštiti zraka (NN 178/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/178/3082",
+"date": "2004-12-16",
+"how": "cite"
+},
+{
+"ref": "nn:2005/70/1383",
+"title": "Rješenje o razrješenju dijela članova Savjeta za zaštitu okoliša Države (NN 70/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/70/1383",
+"date": "2005-06-08",
+"how": "cite"
+},
+{
+"ref": "nn:2005/70/1384",
+"title": "Rješenje o imenovanju dijela članova Savjeta za zaštitu okoliša Države (NN 70/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/70/1384",
+"date": "2005-06-08",
+"how": "cite"
+},
+{
+"ref": "nn:2005/88/1765",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-II-753/2005 od 13. srpnja 2005. (NN 88/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/88/1765",
+"date": "2005-07-20",
+"how": "cite"
+},
+{
+"ref": "nn:2005/130/2398",
+"title": "Strategija gospodarenja otpadom Republike Hrvatske (NN 130/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/130/2398",
+"date": "2005-11-02",
+"how": "cite"
+},
+{
+"ref": "nn:2005/151/2945",
+"title": "Izmjene i dopune javnobilježničkog poslovnika (NN 151/2005)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2005/151/2945",
+"date": "2005-12-23",
+"how": "cite"
+},
+{
+"ref": "nn:2006/30/716",
+"title": "Rješenje o razrješenju člana Savjeta za zaštitu okoliša Države (NN 30/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/30/716",
+"date": "2006-03-17",
+"how": "cite"
+},
+{
+"ref": "nn:2006/30/717",
+"title": "Rješenje o imenovanju člana Savjeta za zaštitu okoliša Države (NN 30/2006)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2006/30/717",
+"date": "2006-03-17",
+"how": "cite"
+},
+{
+"ref": "nn:2007/122/3551",
+"title": "Odluka i Rješenje Ustavnog suda Republike Hrvatske broj: U-II-3570/2005 od 30. listopada 2007. (NN 122/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/122/3551",
+"date": "2007-11-28",
+"how": "cite"
+},
+{
+"ref": "nn:2008/61/2094",
+"title": "Plan zaštite i poboljšanja kakvoće zraka u Republici Hrvatskoj za razdoblje od 2008. do 2011. godine (NN 61/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/61/2094",
+"date": "2008-05-29",
+"how": "cite"
+},
+{
+"ref": "nn:2008/143/3961",
+"title": "Nacionalna strategija kemijske sigurnosti (NN 143/2008)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/143/3961",
+"date": "2008-12-11",
+"how": "cite"
+},
+{
+"ref": "nn:2011/152/3144",
+"title": "Zakon o trgovačkim društvima (pročišćeni tekst) (NN 152/2011)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2011/152/3144",
+"date": "2011-12-27",
+"how": "cite"
+},
+{
+"ref": "nn:2012/115/2516",
+"title": "Izmjene i dopune Javnobilježničkog poslovnika (NN 115/2012)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2012/115/2516",
+"date": "2012-10-18",
+"how": "cite"
+},
+{
+"ref": "nn:2014/7/118",
+"title": "Presuda Visokog upravnog suda Republike Hrvatske broj: Usoz-36/2012-7 od 11. prosinca 2013. (NN 7/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/7/118",
+"date": "2014-01-20",
+"how": "cite"
+},
+{
+"ref": "nn:2014/120/2294",
+"title": "Poslovnik o izmjeni Javnobilježničkog poslovnika (NN 120/2014)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2014/120/2294",
+"date": "2014-10-10",
+"how": "cite"
+},
+{
+"ref": "nn:2025/137/2059",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-5807/2020 od 17. rujna 2025. (NN 137/2025)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2025/137/2059",
+"date": "2025-11-07",
+"how": "cite"
 }
 ]
 },
@@ -74998,6 +77876,32 @@
 ]
 },
 {
+"slug": "zakon-1994-1519",
+"path": "zakon/1994/1519",
+"kind": "zakon",
+"year": "1994",
+"number": "1519",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjeni i dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske",
+"short": "Zakon o izmjeni i dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-11-30",
+"latest": "1994-11-30",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/87/1519",
+"amended_by": [
+{
+"ref": "nn:1996/14/228",
+"title": "Ispravak Zakona o dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske (NN 14/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/14/228",
+"date": "1996-02-21",
+"how": "amend"
+}
+]
+},
+{
 "slug": "odluka-1994-1520",
 "path": "odluka/1994/1520",
 "kind": "odluka",
@@ -76011,6 +78915,150 @@
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/91/1566"
 },
 {
+"slug": "zakon-1994-1571",
+"path": "zakon/1994/1571",
+"kind": "zakon",
+"year": "1994",
+"number": "1571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o proračunu",
+"short": "Zakon o proračunu",
+"code": null,
+"status": "replaced, not consolidated",
+"versions": 1,
+"from": "1994-12-22",
+"latest": "1994-12-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1571",
+"amended_by": [
+{
+"ref": "nn:2003/96/1216",
+"title": "Zakon o proračunu (NN 96/2003)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2003/96/1216",
+"date": "2003-06-10",
+"how": "replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:2001/59/957",
+"title": "Zakon o izmjenama i dopunama Zakona o financiranju jedinica lokalne samouprave i uprave (NN 59/2001)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2001/59/957",
+"date": "2001-06-30",
+"how": "cite"
+},
+{
+"ref": "nn:2004/164/2904",
+"title": "Odluka Ustavnog suda Republike Hrvatske broj: U-III-3221/2002 od 10. studenoga 2004. (NN 164/2004)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2004/164/2904",
+"date": "2004-11-26",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-1572",
+"path": "zakon/1994/1572",
+"kind": "zakon",
+"year": "1994",
+"number": "1572",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o državnim robnim zalihama",
+"short": "Zakon o državnim robnim zalihama",
+"code": null,
+"status": "repealed, not consolidated",
+"versions": 1,
+"from": "1994-12-22",
+"latest": "1994-12-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1572",
+"amended_by": [
+{
+"ref": "nn:1995/2/21",
+"title": "Ispravak Zakona o državnim robnim zalihama (NN 2/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/2/21",
+"date": "1995-01-10",
+"how": "amend"
+},
+{
+"ref": "nn:1998/68/813",
+"title": "Zakon o državnim robnim zalihama (NN 68/1998)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1998/68/813",
+"date": "1998-05-12",
+"how": "repeal,replace"
+}
+],
+"cited_by": [
+{
+"ref": "nn:1996/2/50",
+"title": "Program posebnog dijela državnog stručnog ispita za državne službenike Državnog ravnateljstva za robne zalihe (NN 2/1996)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1996/2/50",
+"date": "1996-01-10",
+"how": "cite"
+}
+]
+},
+{
+"slug": "zakon-1994-1573",
+"path": "zakon/1994/1573",
+"kind": "zakon",
+"year": "1994",
+"number": "1573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Carinskog zakona",
+"short": "Zakon o izmjenama i dopunama Carinskog zakona",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-12-22",
+"latest": "1994-12-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1573"
+},
+{
+"slug": "zakon-1994-1574",
+"path": "zakon/1994/1574",
+"kind": "zakon",
+"year": "1994",
+"number": "1574",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o rudarstvu",
+"short": "Zakon o izmjenama i dopunama Zakona o rudarstvu",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1994-12-22",
+"latest": "1994-12-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1574"
+},
+{
+"slug": "zakon-1994-1575",
+"path": "zakon/1994/1575",
+"kind": "zakon",
+"year": "1994",
+"number": "1575",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+"short": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-12-22",
+"latest": "1994-12-22",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1575",
+"amended_by": [
+{
+"ref": "nn:2007/8/372",
+"title": "Ispravak Zakona o izmjenama i dopunama Zakona o nadzoru državne granice (NN 8/2007)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2007/8/372",
+"date": "2007-01-22",
+"how": "amend"
+}
+]
+},
+{
 "slug": "uredba-1994-1600",
 "path": "uredba/1994/1600",
 "kind": "uredba",
@@ -76505,6 +79553,49 @@
 "from": "1994-12-22",
 "latest": "1994-12-22",
 "portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/94/1633"
+},
+{
+"slug": "zakon-1994-1637",
+"path": "zakon/1994/1637",
+"kind": "zakon",
+"year": "1994",
+"number": "1637",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina",
+"short": "Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "1995-01-04",
+"latest": "1995-01-04",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1637"
+},
+{
+"slug": "zakon-1994-1638",
+"path": "zakon/1994/1638",
+"kind": "zakon",
+"year": "1994",
+"number": "1638",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakona o izmjenama i dopunama Zakona o porezu na dobit",
+"short": "Zakona o izmjenama i dopunama Zakona o porezu na dobit",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1995-01-04",
+"latest": "1995-01-04",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1638",
+"amended_by": [
+{
+"ref": "nn:2023/9/201",
+"title": "Ispravak Zakona o dodatnom porezu na dobit (NN 9/2023)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/2023/9/201",
+"date": "2023-01-25",
+"how": "amend"
+}
+]
 },
 {
 "slug": "zakon-1994-1640",
@@ -77797,6 +80888,39 @@
 "title": "Ispravak Izmjene i dopune Upute za provedbu Odluke o uvjetima i načinu obavljanja platnog prometa s inozemstvom (NN 4/2008)",
 "url": "https://narodne-novine.nn.hr/eli/sluzbeni/2008/4/94",
 "date": "2008-01-09",
+"how": "amend"
+}
+]
+},
+{
+"slug": "zakon-1994-1718",
+"path": "zakon/1994/1718",
+"kind": "zakon",
+"year": "1994",
+"number": "1718",
+"withdrawn_by": null,
+"reason": null,
+"title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu",
+"short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "1994-12-31",
+"latest": "1994-12-31",
+"portal": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/98/1718",
+"amended_by": [
+{
+"ref": "nn:1995/9/149",
+"title": "Ispravak Zakona o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu (NN 9/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/9/149",
+"date": "1995-02-10",
+"how": "amend"
+},
+{
+"ref": "nn:1995/56/1074",
+"title": "Odluka o proglašenju Zakona o izmjenama i dopunama Zakona o izvršavanju državnog proračuna Republike Hrvatske za 1995. godinu (NN 56/1995)",
+"url": "https://narodne-novine.nn.hr/eli/sluzbeni/1995/56/1074",
+"date": "1995-08-07",
 "how": "amend"
 }
 ]

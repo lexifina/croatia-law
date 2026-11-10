@@ -1,6 +1,6 @@
 # Every act in this repository
 
-32954 acts, 33,380 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+32998 acts, 33,424 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (205, of which 29 amending acts)
 
@@ -30067,7 +30067,7 @@
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1458/`](uredba/2026/1458/) | in force | 1 | 2026-10-27 | 2026-10-27 |
 | Uredba o izmjeni Uredbe o visini trošarine na energente i električnu energiju | [`uredba/2026/1488/`](uredba/2026/1488/) | in force | 1 | 2026-11-03 | 2026-11-03 |
 
-## zakon (2924, of which 1569 amending acts)
+## zakon (2968, of which 1580 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -30229,6 +30229,7 @@
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje radnika u 1993. godini | [`zakon/1992/2367/`](zakon/1992/2367/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Zakon o plaćanju doprinosa za doplatak za djecu isplatu plaća. u 1993. godini | [`zakon/1992/2370/`](zakon/1992/2370/) | in force | 1 | 1992-12-31 | 1992-12-31 |
 | Zakon o izmjenama i dopunama Zakona a izborima zastupnika u Sabor Republike Hrvatske | [`zakon/1993/3/`](zakon/1993/3/) | amending act | 1 | 1993-01-06 | 1993-01-06 |
+| Zakon o izmjeni Zakona o sigurnosti prometa na cestama | [`zakon/1993/50/`](zakon/1993/50/) | amended, not consolidated | 1 | 1993-01-15 | 1993-01-15 |
 | Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga | [`zakon/1993/437/`](zakon/1993/437/) | amending act | 1 | 1993-04-08 | 1993-04-08 |
 | Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o neposrednim porezima | [`zakon/1993/438/`](zakon/1993/438/) | amending act | 1 | 1993-04-08 | 1993-04-08 |
 | Ukaz o proglašenju Zakona o prihvaćanju članstva Republike Hrvatske u Europskoj banci za obnovu i razvoj | [`zakon/1993/439/`](zakon/1993/439/) | in force | 1 | 1993-03-31 | 1993-03-31 |
@@ -30240,8 +30241,10 @@
 | Ukaz o proglašenju Zakona o povlasticama u unutarnjem putničkom prometu | [`zakon/1993/463/`](zakon/1993/463/) | in force | 1 | 1993-04-14 | 1993-04-14 |
 | Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o društvenoj brizi o djeci predškolske dobi | [`zakon/1993/464/`](zakon/1993/464/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
 | Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o osnovnom školstvu | [`zakon/1993/465/`](zakon/1993/465/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
+| Zakon o izmjenama i dopunama Zakona o srednjem školstvu | [`zakon/1993/466/`](zakon/1993/466/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
 | Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o fondovima za kulturu | [`zakon/1993/468/`](zakon/1993/468/) | amending act | 1 | 1993-04-14 | 1993-04-14 |
 | Zakon o izmjeni i dopuni Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi | [`zakon/1993/751/`](zakon/1993/751/) | amending act | 1 | 1993-05-10 | 1993-05-10 |
+| Zakon o izmjenama Zakona o vodama | [`zakon/1993/752/`](zakon/1993/752/) | in force | 1 | 1993-05-10 | 1993-05-10 |
 | Zakon o izmjeni Zakona o oružju | [`zakon/1993/754/`](zakon/1993/754/) | in force | 1 | 1993-05-10 | 1993-05-10 |
 | Zakon o plaćanju doplatne marke "Zrinski i Frankopani" u unutarnjem poštanskom prometu | [`zakon/1993/755/`](zakon/1993/755/) | in force | 1 | 1993-05-18 | 1993-05-18 |
 | Zakon o plaćanju doplatne marke "Dr. Alojzije Stepinac, 1898. - 1960." u unutarnjem poštanskom prometu | [`zakon/1993/756/`](zakon/1993/756/) | in force | 1 | 1993-05-10 | 1993-05-10 |
@@ -30327,22 +30330,63 @@
 | Zakon o dopunama Zakona o morskom ribarstvu | [`zakon/1993/2123/`](zakon/1993/2123/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o izmjenama i dopunama Zakona o vanjskotrgovinskom poslovanju | [`zakon/1993/2124/`](zakon/1993/2124/) | amending act | 1 | 1993-12-15 | 1993-12-15 |
 | Zakon o financiranju jedinica lokalne samouprave i uprave | [`zakon/1993/2276/`](zakon/1993/2276/) | repealed, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi | [`zakon/1993/2277/`](zakon/1993/2277/) | amended, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
 | Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1994. godini | [`zakon/1993/2280/`](zakon/1993/2280/) | in force | 1 | 1993-12-31 | 1993-12-31 |
 | Zakon o plaćanju doprinosa za doplatak za djecu u 1994. godini | [`zakon/1993/2282/`](zakon/1993/2282/) | in force | 1 | 1993-12-31 | 1993-12-31 |
+| Zakon o stopama doprinosa za zdravstveno osiguranje | [`zakon/1993/2283/`](zakon/1993/2283/) | amended, not consolidated | 1 | 1993-12-31 | 1993-12-31 |
+| Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/1993/2284/`](zakon/1993/2284/) | amending act | 1 | 1993-12-31 | 1993-12-31 |
 | NN 91A/93 - Zakon o osnovama deviznog sustava, deviznog poslovanja i prometu zlata | [`zakon/1993/17711/`](zakon/1993/17711/) | in force | 1 | 1993-10-19 | 1993-10-19 |
+| Zakon o sudovima | [`zakon/1994/31/`](zakon/1994/31/) | repealed, not consolidated | 1 | 1994-01-22 | 1994-01-22 |
+| Zakon o područjima i sjedištima sudova | [`zakon/1994/32/`](zakon/1994/32/) | amended, not consolidated | 1 | 1994-01-22 | 1994-01-22 |
+| Zakon o izmjenama i dopunama Zakona o obveznim odnosima | [`zakon/1994/33/`](zakon/1994/33/) | amending act | 1 | 1994-01-22 | 1994-01-22 |
+| Zakon o osiguranju | [`zakon/1994/158/`](zakon/1994/158/) | amended, not consolidated | 1 | 1994-02-18 | 1994-02-18 |
+| Zakon o izvlaštenju | [`zakon/1994/159/`](zakon/1994/159/) | repealed, not consolidated | 1 | 1994-02-18 | 1994-02-18 |
+| Zakon o izmjenama i dopunama Zakona o prisilnoj nagodbi, stečaju i likvidaciji | [`zakon/1994/161/`](zakon/1994/161/) | amending act | 1 | 1994-02-18 | 1994-02-18 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu | [`zakon/1994/492/`](zakon/1994/492/) | in force | 1 | 1994-04-08 | 1994-04-08 |
+| Zakon o izmjeni Zakona o porezu na promet proizvoda i usluga | [`zakon/1994/493/`](zakon/1994/493/) | amended, not consolidated | 1 | 1994-04-08 | 1994-04-08 |
 | Zakon o dopunama Zakona o financijskoj policiji | [`zakon/1994/494/`](zakon/1994/494/) | amending act | 1 | 1994-04-08 | 1994-04-08 |
+| Zakon o izmjenama i dopunama Zakona o inspekciji rada | [`zakon/1994/512/`](zakon/1994/512/) | amended, not consolidated | 1 | 1994-04-19 | 1994-04-19 |
 | Zakon o dopunama Zakona o izmjenama i dopunama zakona kojima su određene novčane kazne za privredne prijestupe i prekršaje | [`zakon/1994/514/`](zakon/1994/514/) | amending act | 1 | 1994-04-19 | 1994-04-19 |
+| Zakon o prostornom uređenju | [`zakon/1994/520/`](zakon/1994/520/) | amended, not consolidated | 1 | 1994-04-23 | 1994-04-23 |
+| Zakon o zaštiti prirode | [`zakon/1994/521/`](zakon/1994/521/) | amended, not consolidated | 1 | 1994-04-23 | 1994-04-23 |
+| Zakon o turističkim zajednicama i promicanju hrvatskog turizma | [`zakon/1994/522/`](zakon/1994/522/) | repealed, not consolidated | 1 | 1994-04-23 | 1994-04-23 |
+| Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi | [`zakon/1994/524/`](zakon/1994/524/) | amended, not consolidated | 1 | 1994-04-23 | 1994-04-23 |
+| Zakon o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka | [`zakon/1994/777/`](zakon/1994/777/) | repealed, not consolidated | 1 | 1994-06-11 | 1994-06-11 |
+| Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`zakon/1994/778/`](zakon/1994/778/) | amended, not consolidated | 1 | 1994-06-11 | 1994-06-11 |
 | Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju | [`zakon/1994/779/`](zakon/1994/779/) | amending act | 1 | 1994-06-11 | 1994-06-11 |
+| Zakon o posebnom porezu na alkohol | [`zakon/1994/903/`](zakon/1994/903/) | amended, not consolidated | 1 | 1994-07-11 | 1994-07-11 |
+| Zakon o izmjenama i dopunama Zakona o cestama | [`zakon/1994/918/`](zakon/1994/918/) | amending act | 1 | 1994-07-07 | 1994-07-07 |
 | Zakon o izmjenama i dopunama Zakona o zaštiti spomenika kulture | [`zakon/1994/919/`](zakon/1994/919/) | amending act | 1 | 1994-07-15 | 1994-07-15 |
 | Zakon o izmjeni Zakona o Hrvatskom fondu za privatizaciju | [`zakon/1994/920/`](zakon/1994/920/) | in force | 1 | 1994-07-07 | 1994-07-07 |
+| Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz domovinskog rata | [`zakon/1994/921/`](zakon/1994/921/) | amended, not consolidated | 1 | 1994-07-15 | 1994-07-15 |
 | Zakon o dopunama Zakona o pravima bivših političkih zatvorenika | [`zakon/1994/922/`](zakon/1994/922/) | amending act | 1 | 1994-07-07 | 1994-07-07 |
 | Zakon o izmjeni Zakona o zapošljavanju stranaca | [`zakon/1994/923/`](zakon/1994/923/) | in force | 1 | 1994-07-15 | 1994-07-15 |
+| Zakon o pošti | [`zakon/1994/950/`](zakon/1994/950/) | amended, not consolidated | 1 | 1994-07-16 | 1994-07-16 |
+| Zakon o telekomunikacijama | [`zakon/1994/951/`](zakon/1994/951/) | amended, not consolidated | 1 | 1994-07-16 | 1994-07-16 |
+| Zakon o hrvatskim željeznicama | [`zakon/1994/952/`](zakon/1994/952/) | amended, not consolidated | 1 | 1994-07-16 | 1994-07-16 |
+| Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija | [`zakon/1994/1248/`](zakon/1994/1248/) | amended, not consolidated | 1 | 1994-10-18 | 1994-10-18 |
 | Zakon o izmjenama i dopunama Zakona o ovjeravanju potpisa, rukopisa i prijepisa | [`zakon/1994/1250/`](zakon/1994/1250/) | amending act | 1 | 1994-10-10 | 1994-10-10 |
 | Zakon o dopuni Zakona o zaštiti prirode | [`zakon/1994/1251/`](zakon/1994/1251/) | amending act | 1 | 1994-10-18 | 1994-10-18 |
 | Zakon o prestanku važenja Zakona o radu organa koji postupaju po predstavkama i prijedlozima | [`zakon/1994/1252/`](zakon/1994/1252/) | in force | 1 | 1994-10-18 | 1994-10-18 |
+| Zakon o morskom ribarstvu | [`zakon/1994/1289/`](zakon/1994/1289/) | amended, not consolidated | 1 | 1994-10-26 | 1994-10-26 |
 | Zakon o izmjenama i dopuni Pomorskog zakona | [`zakon/1994/1290/`](zakon/1994/1290/) | amending act | 1 | 1994-10-26 | 1994-10-26 |
+| Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima | [`zakon/1994/1300/`](zakon/1994/1300/) | amending act | 1 | 1994-10-29 | 1994-10-29 |
+| Zakon o izmjenama i dopunama Zakona o zapošljavanju | [`zakon/1994/1301/`](zakon/1994/1301/) | amending act | 1 | 1994-10-29 | 1994-10-29 |
+| Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata | [`zakon/1994/1302/`](zakon/1994/1302/) | amended, not consolidated | 1 | 1994-10-29 | 1994-10-29 |
+| Zakon o izmjenama i dopunama Zakona o elektroprivredi | [`zakon/1994/1312/`](zakon/1994/1312/) | amending act | 1 | 1994-11-03 | 1994-11-03 |
+| Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske | [`zakon/1994/1322/`](zakon/1994/1322/) | cited later, not consolidated | 1 | 1994-10-27 | 1994-10-27 |
+| Zakon o zaštiti okoliša | [`zakon/1994/1390/`](zakon/1994/1390/) | amended, not consolidated | 1 | 1994-11-19 | 1994-11-19 |
+| Zakon o izmjeni i dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske | [`zakon/1994/1519/`](zakon/1994/1519/) | amended, not consolidated | 1 | 1994-11-30 | 1994-11-30 |
+| Zakon o proračunu | [`zakon/1994/1571/`](zakon/1994/1571/) | replaced, not consolidated | 1 | 1994-12-22 | 1994-12-22 |
+| Zakon o državnim robnim zalihama | [`zakon/1994/1572/`](zakon/1994/1572/) | repealed, not consolidated | 1 | 1994-12-22 | 1994-12-22 |
+| Zakon o izmjenama i dopunama Carinskog zakona | [`zakon/1994/1573/`](zakon/1994/1573/) | amending act | 1 | 1994-12-22 | 1994-12-22 |
+| Zakon o izmjenama i dopunama Zakona o rudarstvu | [`zakon/1994/1574/`](zakon/1994/1574/) | amending act | 1 | 1994-12-22 | 1994-12-22 |
+| Zakon o izmjenama i dopunama Zakona o nadzoru državne granice | [`zakon/1994/1575/`](zakon/1994/1575/) | amended, not consolidated | 1 | 1994-12-22 | 1994-12-22 |
+| Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina | [`zakon/1994/1637/`](zakon/1994/1637/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
+| Zakona o izmjenama i dopunama Zakona o porezu na dobit | [`zakon/1994/1638/`](zakon/1994/1638/) | amended, not consolidated | 1 | 1995-01-04 | 1995-01-04 |
 | Zakon o izmjenama i dopunama Zakona o stopama doprinosa za zdravstveno osiguranje | [`zakon/1994/1640/`](zakon/1994/1640/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
 | Zakon o izmjeni i dopuni Zakona o zapošljavanju | [`zakon/1994/1645/`](zakon/1994/1645/) | amending act | 1 | 1995-01-04 | 1995-01-04 |
+| Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu | [`zakon/1994/1718/`](zakon/1994/1718/) | amended, not consolidated | 1 | 1994-12-31 | 1994-12-31 |
 | Zakon o izmjenama i dopunama Zakona o prekršajima | [`zakon/1995/652/`](zakon/1995/652/) | amended, not consolidated | 1 | 1995-05-27 | 1995-05-27 |
 | Zakon o komunalnom gospodarstvu | [`zakon/1995/721/`](zakon/1995/721/) | repealed, not consolidated | 1 | 1995-06-09 | 1995-06-09 |
 | Zakon o zadrugama | [`zakon/1995/723/`](zakon/1995/723/) | repealed, not consolidated | 1 | 1995-06-09 | 1995-06-09 |

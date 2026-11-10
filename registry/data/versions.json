@@ -14297,6 +14297,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-2277",
+   "path": "zakon/1993/2277",
+   "short": "Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi",
+   "title": "Zakon o izmjenama i dopunama Zakona o lokalnoj samoupravi i upravi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2277",
+   "versions": [
+    {
+     "from": "1993-12-31",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_117_2277.html",
+     "sha256": "586093fe3e6f2a380365b593d9a3ab4dd6f9a4ddf7922ca1210b8a9199d98de9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-2280",
    "path": "zakon/1993/2280",
    "short": "Zakon o plaćanju doprinosa za mirovinsko i invalidsko osiguranje samostalnih privrednika u 1994. godini",
@@ -14323,6 +14338,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_117_2282.html",
      "sha256": "30156857ea665901d7f58448b4a0acd0e62e4e88a6d4ea72a97f97ca9dddfb7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2283",
+   "path": "zakon/1993/2283",
+   "short": "Zakon o stopama doprinosa za zdravstveno osiguranje",
+   "title": "Zakon o stopama doprinosa za zdravstveno osiguranje",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2283",
+   "versions": [
+    {
+     "from": "1993-12-31",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_117_2283.html",
+     "sha256": "894b816548e79e0f70cd3013adafdf6b4562845d2004e046256dfc2449de18fe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-2284",
+   "path": "zakon/1993/2284",
+   "short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/117/2284",
+   "versions": [
+    {
+     "from": "1993-12-31",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_12_117_2284.html",
+     "sha256": "a1a957010e0ff3e02d2299e26740f426ee99a136cbb4d29baeb8905fd85a3a65"
     }
    ]
   },
@@ -14507,6 +14552,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-466",
+   "path": "zakon/1993/466",
+   "short": "Zakon o izmjenama i dopunama Zakona o srednjem školstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o srednjem školstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/27/466",
+   "versions": [
+    {
+     "from": "1993-04-14",
+     "units": 8,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_04_27_466.html",
+     "sha256": "660561c12ff10174c795cba1c4aaf3e62e56218fcff74079edf9ee51560d02a1"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-468",
    "path": "zakon/1993/468",
    "short": "Ukaz o proglašenju Zakona o izmjenama i dopunama Zakona o fondovima za kulturu",
@@ -14522,6 +14582,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-50",
+   "path": "zakon/1993/50",
+   "short": "Zakon o izmjeni Zakona o sigurnosti prometa na cestama",
+   "title": "Zakon o izmjeni Zakona o sigurnosti prometa na cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/5/50",
+   "versions": [
+    {
+     "from": "1993-01-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_01_5_50.html",
+     "sha256": "e27d2e1a799ef86afad0c1283707e42aae18b55643b9a2452d9152be40e4dd40"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-751",
    "path": "zakon/1993/751",
    "short": "Zakon o izmjeni i dopuni Zakona o premijama za određene proizvode u poljoprivredi i regresu dijela kamata za prioritetne namjene u poljoprivredi",
@@ -14533,6 +14608,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_43_751.html",
      "sha256": "2371265bd1f70fc8c76d230abe0aa5f3a5d3633027bd99ec1f196cd0d041375d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1993-752",
+   "path": "zakon/1993/752",
+   "short": "Zakon o izmjenama Zakona o vodama",
+   "title": "Zakon o izmjenama Zakona o vodama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1993/43/752",
+   "versions": [
+    {
+     "from": "1993-05-10",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1993_05_43_752.html",
+     "sha256": "aa509b2e3823ad155d96197116fda3f02e1d09a33b45797391943dc9b3a7e44c"
     }
    ]
   },
@@ -23837,6 +23927,21 @@
    ]
   },
   {
+   "slug": "zakon-1994-1248",
+   "path": "zakon/1994/1248",
+   "short": "Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija",
+   "title": "Zakon o ustrojstvu i djelokrugu ministarstava i državnih upravnih organizacija",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/72/1248",
+   "versions": [
+    {
+     "from": "1994-10-18",
+     "units": 2,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_72_1248.html",
+     "sha256": "8ee9d88e760f36f398a30efb77964771b2fa1c3116b03b345eff549695f41634"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1994-1250",
    "path": "zakon/1994/1250",
    "short": "Zakon o izmjenama i dopunama Zakona o ovjeravanju potpisa, rukopisa i prijepisa",
@@ -23882,6 +23987,21 @@
    ]
   },
   {
+   "slug": "zakon-1994-1289",
+   "path": "zakon/1994/1289",
+   "short": "Zakon o morskom ribarstvu",
+   "title": "Zakon o morskom ribarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/74/1289",
+   "versions": [
+    {
+     "from": "1994-10-26",
+     "units": 79,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_74_1289.html",
+     "sha256": "d081fa0d0c6f2cfb0e81b11bff781097c9318a8e9756fedaa45e7aeeae31ae4c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1994-1290",
    "path": "zakon/1994/1290",
    "short": "Zakon o izmjenama i dopuni Pomorskog zakona",
@@ -23893,6 +24013,261 @@
      "units": 5,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_74_1290.html",
      "sha256": "7a9a30de08d1a23cfdef005b3a0d784e3554c90cae9228d0a749304333f9369d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1300",
+   "path": "zakon/1994/1300",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutarnjim poslovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1300",
+   "versions": [
+    {
+     "from": "1994-10-29",
+     "units": 39,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_76_1300.html",
+     "sha256": "398f465566737a7d96f97a833c61c046a7f796f01b430bb6ff232b2ae639b4ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1301",
+   "path": "zakon/1994/1301",
+   "short": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "title": "Zakon o izmjenama i dopunama Zakona o zapošljavanju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1301",
+   "versions": [
+    {
+     "from": "1994-10-29",
+     "units": 7,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_76_1301.html",
+     "sha256": "cb37b89c46648dd67323995c05f45a379a626b548afcce3f6ce7794c625459e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1302",
+   "path": "zakon/1994/1302",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti vojnih i civilnih invalida rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/76/1302",
+   "versions": [
+    {
+     "from": "1994-10-29",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_76_1302.html",
+     "sha256": "2a65fbb1a7abbe0a341284d07177c1b4fa669ee7cf4d46c5f2c8af947b30faf3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1312",
+   "path": "zakon/1994/1312",
+   "short": "Zakon o izmjenama i dopunama Zakona o elektroprivredi",
+   "title": "Zakon o izmjenama i dopunama Zakona o elektroprivredi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/78/1312",
+   "versions": [
+    {
+     "from": "1994-11-03",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_78_1312.html",
+     "sha256": "8fba28bf2def528b82504bca0f8405f2d96f473cf32a6b2dc8fe9928ef79a6a1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1322",
+   "path": "zakon/1994/1322",
+   "short": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+   "title": "Zakon o ovlasti Vlade Republike Hrvatske da uredbama uređuje pojedina pitanja iz djelokruga Zastupničkog doma Sabora Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/79/1322",
+   "versions": [
+    {
+     "from": "1994-10-27",
+     "units": 4,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_10_79_1322.html",
+     "sha256": "fe69f2a4af6f6160eba01b6e651c7476720e3f172d19ef3b4898a63dc4d17228"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1390",
+   "path": "zakon/1994/1390",
+   "short": "Zakon o zaštiti okoliša",
+   "title": "Zakon o zaštiti okoliša",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/82/1390",
+   "versions": [
+    {
+     "from": "1994-11-19",
+     "units": 26,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_82_1390.html",
+     "sha256": "575e03eff5821712bd809bdbd82d298b7661e01623c8decb57db8684ba3de04d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1519",
+   "path": "zakon/1994/1519",
+   "short": "Zakon o izmjeni i dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske",
+   "title": "Zakon o izmjeni i dopuni Zakona o pravima zastupnika u Saboru Republike Hrvatske",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/87/1519",
+   "versions": [
+    {
+     "from": "1994-11-30",
+     "units": 5,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_11_87_1519.html",
+     "sha256": "22efb9dbcf066e231e43f77774cb3bac57f2f316483c9fed434a352acfe6aa4c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1571",
+   "path": "zakon/1994/1571",
+   "short": "Zakon o proračunu",
+   "title": "Zakon o proračunu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1571",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 56,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_92_1571.html",
+     "sha256": "75c6445103c91370070ca7a372826f11ba5590dd8c0775d26af55f1d2799876f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1572",
+   "path": "zakon/1994/1572",
+   "short": "Zakon o državnim robnim zalihama",
+   "title": "Zakon o državnim robnim zalihama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1572",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 54,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_92_1572.html",
+     "sha256": "c4893052191e60dcab87b593a9618189770a52a9f6225942aca29f372b25d6fe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1573",
+   "path": "zakon/1994/1573",
+   "short": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "title": "Zakon o izmjenama i dopunama Carinskog zakona",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1573",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_92_1573.html",
+     "sha256": "9ea515771e6ae25929a85be73ff43cb8d215307722c371fd3b1444edb55e5324"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1574",
+   "path": "zakon/1994/1574",
+   "short": "Zakon o izmjenama i dopunama Zakona o rudarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o rudarstvu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1574",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 32,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_92_1574.html",
+     "sha256": "1694d867b037c7ad5a571a91d8570fc3d1747ef40c91e8c9edfad1f3aca85b12"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1575",
+   "path": "zakon/1994/1575",
+   "short": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+   "title": "Zakon o izmjenama i dopunama Zakona o nadzoru državne granice",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/92/1575",
+   "versions": [
+    {
+     "from": "1994-12-22",
+     "units": 13,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_92_1575.html",
+     "sha256": "c3700ea3c074d1d6467a3b3b0dc92cdfb984c5cd34adfd5076b666d1f4597710"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-158",
+   "path": "zakon/1994/158",
+   "short": "Zakon o osiguranju",
+   "title": "Zakon o osiguranju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/158",
+   "versions": [
+    {
+     "from": "1994-02-18",
+     "units": 110,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_9_158.html",
+     "sha256": "6c8c91bcb69892d6de17aa5768935833cd048ec016af433c0268934e9de7d571"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-159",
+   "path": "zakon/1994/159",
+   "short": "Zakon o izvlaštenju",
+   "title": "Zakon o izvlaštenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/159",
+   "versions": [
+    {
+     "from": "1994-02-18",
+     "units": 51,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_9_159.html",
+     "sha256": "fb1a5ee45f144d9eceb8f70fb39539b5c17827b520dc5396cb6482650ca480a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-161",
+   "path": "zakon/1994/161",
+   "short": "Zakon o izmjenama i dopunama Zakona o prisilnoj nagodbi, stečaju i likvidaciji",
+   "title": "Zakon o izmjenama i dopunama Zakona o prisilnoj nagodbi, stečaju i likvidaciji",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/9/161",
+   "versions": [
+    {
+     "from": "1994-02-18",
+     "units": 20,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_02_9_161.html",
+     "sha256": "f2d7cb807a9181c0f5d28ae37225a86e84ef7895c86192f05d4efbe9386af9a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1637",
+   "path": "zakon/1994/1637",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet nekretnina",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1637",
+   "versions": [
+    {
+     "from": "1995-01-04",
+     "units": 14,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_95_1637.html",
+     "sha256": "38d861937dfeb12cf3163a5036b9d3421f1b4348e5869a3d85fcbd6feabb0845"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-1638",
+   "path": "zakon/1994/1638",
+   "short": "Zakona o izmjenama i dopunama Zakona o porezu na dobit",
+   "title": "Zakona o izmjenama i dopunama Zakona o porezu na dobit",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/95/1638",
+   "versions": [
+    {
+     "from": "1995-01-04",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_95_1638.html",
+     "sha256": "169f054150d5dce592ff464414d2f91ce4f7c4ffd5266c8bdd3e2492704796c2"
     }
    ]
   },
@@ -23927,6 +24302,96 @@
    ]
   },
   {
+   "slug": "zakon-1994-1718",
+   "path": "zakon/1994/1718",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1995. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/98/1718",
+   "versions": [
+    {
+     "from": "1994-12-31",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_12_98_1718.html",
+     "sha256": "26c235b2c1a68ef57c55decafca3e0e10a7d7eab0769679150de68226876174b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-31",
+   "path": "zakon/1994/31",
+   "short": "Zakon o sudovima",
+   "title": "Zakon o sudovima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/31",
+   "versions": [
+    {
+     "from": "1994-01-22",
+     "units": 43,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_3_31.html",
+     "sha256": "6aa2e2945d246f53e34988deab8cad04e87aeac6d103c08b5025bbb6d3a47b74"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-32",
+   "path": "zakon/1994/32",
+   "short": "Zakon o područjima i sjedištima sudova",
+   "title": "Zakon o područjima i sjedištima sudova",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/32",
+   "versions": [
+    {
+     "from": "1994-01-22",
+     "units": 18,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_3_32.html",
+     "sha256": "974aec7fdb495b1c039e9253a015844bca095868e34a6519e4d8809b66aae458"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-33",
+   "path": "zakon/1994/33",
+   "short": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o obveznim odnosima",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/3/33",
+   "versions": [
+    {
+     "from": "1994-01-22",
+     "units": 10,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_01_3_33.html",
+     "sha256": "97e9cf40e3995d0ab5657bd563d25201c8f54cfb721603f08846c171af2fa819"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-492",
+   "path": "zakon/1994/492",
+   "short": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu",
+   "title": "Zakon o izvršavanju Državnog proračuna Republike Hrvatske za 1994. godinu",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/28/492",
+   "versions": [
+    {
+     "from": "1994-04-08",
+     "units": 46,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_28_492.html",
+     "sha256": "04e820e0a3cbca507b63085db1c28e68c744b3e0e35965172521b0c10aa66baa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-493",
+   "path": "zakon/1994/493",
+   "short": "Zakon o izmjeni Zakona o porezu na promet proizvoda i usluga",
+   "title": "Zakon o izmjeni Zakona o porezu na promet proizvoda i usluga",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/28/493",
+   "versions": [
+    {
+     "from": "1994-04-08",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_28_493.html",
+     "sha256": "c56f52e2fc18794b8c3da5f5577bf5703f17281d47b4726e5849ca9be78ef386"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1994-494",
    "path": "zakon/1994/494",
    "short": "Zakon o dopunama Zakona o financijskoj policiji",
@@ -23938,6 +24403,21 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_28_494.html",
      "sha256": "2b26705afc07dd5f4a035d4a0c4d9ddc2c3b4ab12729333bcdf00ec67b479453"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-512",
+   "path": "zakon/1994/512",
+   "short": "Zakon o izmjenama i dopunama Zakona o inspekciji rada",
+   "title": "Zakon o izmjenama i dopunama Zakona o inspekciji rada",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/29/512",
+   "versions": [
+    {
+     "from": "1994-04-19",
+     "units": 17,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_29_512.html",
+     "sha256": "724d31375091a7151c8a992499331b6b18e02cac3eb452e04f4d4a2d77d86c32"
     }
    ]
   },
@@ -23957,6 +24437,96 @@
    ]
   },
   {
+   "slug": "zakon-1994-520",
+   "path": "zakon/1994/520",
+   "short": "Zakon o prostornom uređenju",
+   "title": "Zakon o prostornom uređenju",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/520",
+   "versions": [
+    {
+     "from": "1994-04-23",
+     "units": 25,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_30_520.html",
+     "sha256": "dece7cd20846bf69a6ba3f7f7bbb127dad74c562bf4780314af76647eb3e7990"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-521",
+   "path": "zakon/1994/521",
+   "short": "Zakon o zaštiti prirode",
+   "title": "Zakon o zaštiti prirode",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/521",
+   "versions": [
+    {
+     "from": "1994-04-23",
+     "units": 62,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_30_521.html",
+     "sha256": "340c69ea0c94c0226e3fcb94b2b93a9c62823265c8c6d1cf2eb0b0c101068c41"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-522",
+   "path": "zakon/1994/522",
+   "short": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+   "title": "Zakon o turističkim zajednicama i promicanju hrvatskog turizma",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/522",
+   "versions": [
+    {
+     "from": "1994-04-23",
+     "units": 66,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_30_522.html",
+     "sha256": "790ea14947cb0fc6a1877836da50de903b61dd2a647184f2b4093d8620ea7543"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-524",
+   "path": "zakon/1994/524",
+   "short": "Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+   "title": "Zakon o izmjenama i dopunama Zakona o boravišnoj pristojbi",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/30/524",
+   "versions": [
+    {
+     "from": "1994-04-23",
+     "units": 21,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_04_30_524.html",
+     "sha256": "521fcbbe69f2bfab89369cd9b4203d588f02ab8a37d9e855f8637cf193133ae0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-777",
+   "path": "zakon/1994/777",
+   "short": "Zakon o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+   "title": "Zakon o državnoj agenciji za osiguranje štednih uloga i sanaciju banaka",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/777",
+   "versions": [
+    {
+     "from": "1994-06-11",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_44_777.html",
+     "sha256": "d5b4b30246b8619cc1182a9b4b1b2d698d29931d3b3f10cbf0dd2645efab27ed"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-778",
+   "path": "zakon/1994/778",
+   "short": "Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Zakon o izmjenama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/44/778",
+   "versions": [
+    {
+     "from": "1994-06-11",
+     "units": 6,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_44_778.html",
+     "sha256": "e9136cfa5fb0367d441f3a287463b4596cff4326938afbb7549abe4c9f12db8d"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1994-779",
    "path": "zakon/1994/779",
    "short": "Zakon o izmjenama i dopunama Zakona o mirovinskom i invalidskom osiguranju",
@@ -23968,6 +24538,36 @@
      "units": 4,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_06_44_779.html",
      "sha256": "bf94abfe0cfdc4c211526accb19493927af59622b17de99078232b014377afe7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-903",
+   "path": "zakon/1994/903",
+   "short": "Zakon o posebnom porezu na alkohol",
+   "title": "Zakon o posebnom porezu na alkohol",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/51/903",
+   "versions": [
+    {
+     "from": "1994-07-11",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_51_903.html",
+     "sha256": "a434b9ba162bb910f8b781f3d06ba273bf17125edd16e5b5efe029e91ff809c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-918",
+   "path": "zakon/1994/918",
+   "short": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "title": "Zakon o izmjenama i dopunama Zakona o cestama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/918",
+   "versions": [
+    {
+     "from": "1994-07-07",
+     "units": 9,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_52_918.html",
+     "sha256": "363378e1362927ab960b276ba5b1dcbe25f982e14ae5d9b208e61283c1372b17"
     }
    ]
   },
@@ -24002,6 +24602,21 @@
    ]
   },
   {
+   "slug": "zakon-1994-921",
+   "path": "zakon/1994/921",
+   "short": "Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz domovinskog rata",
+   "title": "Zakon o izmjeni Zakona o pravima hrvatskih branitelja iz domovinskog rata",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/52/921",
+   "versions": [
+    {
+     "from": "1994-07-15",
+     "units": 3,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_52_921.html",
+     "sha256": "9ac5623a6f49b01bca45d81f1e402033b327d2b8c4511fdae94cd55b27b84e6f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1994-922",
    "path": "zakon/1994/922",
    "short": "Zakon o dopunama Zakona o pravima bivših političkih zatvorenika",
@@ -24028,6 +24643,51 @@
      "units": 3,
      "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_52_923.html",
      "sha256": "ef9248fbb04c97050c2ef1754339a322b27ba35dd8236519a0c9ebba2cb4dc50"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-950",
+   "path": "zakon/1994/950",
+   "short": "Zakon o pošti",
+   "title": "Zakon o pošti",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/950",
+   "versions": [
+    {
+     "from": "1994-07-16",
+     "units": 56,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_53_950.html",
+     "sha256": "94d3b04a69d15224df1800904d83466d01f7f4b681790c42fa9d8c88a307c684"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-951",
+   "path": "zakon/1994/951",
+   "short": "Zakon o telekomunikacijama",
+   "title": "Zakon o telekomunikacijama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/951",
+   "versions": [
+    {
+     "from": "1994-07-16",
+     "units": 100,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_53_951.html",
+     "sha256": "774ee11b60dc9d59bb9f200a606fd798a3747d78d7d322bab9a5cb768dbe6834"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1994-952",
+   "path": "zakon/1994/952",
+   "short": "Zakon o hrvatskim željeznicama",
+   "title": "Zakon o hrvatskim željeznicama",
+   "url": "https://narodne-novine.nn.hr/eli/sluzbeni/1994/53/952",
+   "versions": [
+    {
+     "from": "1994-07-16",
+     "units": 36,
+     "source_url": "https://narodne-novine.nn.hr/clanci/sluzbeni/1994_07_53_952.html",
+     "sha256": "3fd0e959e23d74aa8d5ff7f862b3c0e503b454b8cc53bf734ad30d0bfbb40f78"
     }
    ]
   },
