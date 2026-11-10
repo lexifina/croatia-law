@@ -1,0 +1,53 @@
+# Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife
+
+Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife · 1 versions, from 1998-10-09 (latest in force: 1998-10-09) · <https://narodne-novine.nn.hr/eli/sluzbeni/1998/129/5840>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Naslov | [naslov.md](naslov.md) | 0 |  |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
+| Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `odluka-1998-5840` (tags `odluka-1998-5840/<day>`; `python registry/tools/on.py <day> odluka-1998-5840`).
+
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 132/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/132/1601)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 140/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/140/1718)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 151/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/151/1859)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 157/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/157/1928)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz dodatka A Carinske tarife (NN 163/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/163/2007)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 10/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/10/248)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 38/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/38/766)
+- [Ispravak Odluke o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 39/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/39/797)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 45/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/45/879)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 54/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/54/1003)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 66/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/66/1222)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 90/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/90/1559)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 98/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/98/1635)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 110/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/110/1791)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 127/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/127/1995)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A carinske tarife (NN 24/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/24/429)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 36/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/36/845)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 41/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/41/962)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 49/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/49/1109)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 54/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/54/1203)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 60/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/60/1329)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 69/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/69/1520)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 83/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/83/1729)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 91/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/91/1835)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 98/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/98/1923)
+- [Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih i prehrambenih proizvoda iz Dodatka A Carinske tarife (NN 102/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/102/1989)
+
+## Decisions made by hand
+
+- An act is published here as first printed in Narodne novine, one version, from its page on narodne-novine.nn.hr; the issuer's name, the document number and the signature block (Klasa, Urbroj, place and date, signature) are not part of its text; for a law, the President's proclamation above it is not either.
+- Its one version takes effect on the day its own entry-into-force sentence names: the publication day ("danom objave"), the Nth day after it ("osmoga dana od dana objave" = publication day + 8), a calendar date, the first day of the next month, or the adoption day ("danom donošenja": the ELI date_document, else the place and date above the signature). When the sentence also names another gazette or a website, only a calendar date or the adoption day is read.
+- An act is published once every later document of the official part has been read. When one of them amends, corrects or repeals it by its ELI metadata, names it in an amending, correcting or repealing title, reuses its title, or cites it by name and Narodne novine number with a later number after its own or next to wording that changes or repeals it, the act is published as enacted and labelled ("amended, not consolidated", "repealed, not consolidated", "replaced, not consolidated" or "cited later, not consolidated"), with those documents listed (amended_by, cited_by). Before 2026-11-09 such acts were held back.
+- Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
+- An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
+- Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.
