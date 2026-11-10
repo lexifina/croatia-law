@@ -1,0 +1,57 @@
+# Odluka o visini novčane naknade za nezaposlenu osobu
+
+Odluka o visini novčane naknade za nezaposlenu osobu · 1 versions, from 1996-11-22 (latest in force: 1996-11-22) · <https://narodne-novine.nn.hr/eli/sluzbeni/1996/98/1931>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Naslov | [naslov.md](naslov.md) | 0 |  |
+| Prilog | [prilog.md](prilog.md) | 0 |  |
+| Tekst | [tekst.md](tekst.md) | 0 |  |
+| Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `odluka-1996-1931` (tags `odluka-1996-1931/<day>`; `python registry/tools/on.py <day> odluka-1996-1931`).
+
+## Status
+
+**replaced, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 19/1997)](https://narodne-novine.nn.hr/eli/sluzbeni/1997/19/273)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 30/1997)](https://narodne-novine.nn.hr/eli/sluzbeni/1997/30/440)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 41/1997)](https://narodne-novine.nn.hr/eli/sluzbeni/1997/41/580)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 74/1997)](https://narodne-novine.nn.hr/eli/sluzbeni/1997/74/1312)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 108/1997)](https://narodne-novine.nn.hr/eli/sluzbeni/1997/108/1658)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 118/1997)](https://narodne-novine.nn.hr/eli/sluzbeni/1997/118/1755)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 32/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/32/408)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 44/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/44/545)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 64/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/64/778)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 84/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/84/1154)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 112/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/112/1514)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 118/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/118/1548)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 129/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/129/5850)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 139/1998)](https://narodne-novine.nn.hr/eli/sluzbeni/1998/139/1717)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 15/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/15/328)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 24/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/24/506)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 43/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/43/856)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 46/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/46/904)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 72/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/72/1312)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 77/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/77/1391)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 100/1999)](https://narodne-novine.nn.hr/eli/sluzbeni/1999/100/1670)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 22/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/22/400)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 42/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/42/994)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 72/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/72/1569)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 87/2000)](https://narodne-novine.nn.hr/eli/sluzbeni/2000/87/1795)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 20/2001)](https://narodne-novine.nn.hr/eli/sluzbeni/2001/20/369)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 48/2001)](https://narodne-novine.nn.hr/eli/sluzbeni/2001/48/778)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 83/2001)](https://narodne-novine.nn.hr/eli/sluzbeni/2001/83/1423)
+- [Odluka o visini novčane naknade za nezaposlenu osobu (NN 21/2002)](https://narodne-novine.nn.hr/eli/sluzbeni/2002/21/505)
+
+## Decisions made by hand
+
+- An act is published here as first printed in Narodne novine, one version, from its page on narodne-novine.nn.hr; the issuer's name, the document number and the signature block (Klasa, Urbroj, place and date, signature) are not part of its text; for a law, the President's proclamation above it is not either.
+- Its one version takes effect on the day its own entry-into-force sentence names: the publication day ("danom objave"), the Nth day after it ("osmoga dana od dana objave" = publication day + 8), a calendar date, the first day of the next month, or the adoption day ("danom donošenja": the ELI date_document, else the place and date above the signature). When the sentence also names another gazette or a website, only a calendar date or the adoption day is read.
+- An act is published once every later document of the official part has been read. When one of them amends, corrects or repeals it by its ELI metadata, names it in an amending, correcting or repealing title, reuses its title, or cites it by name and Narodne novine number with a later number after its own or next to wording that changes or repeals it, the act is published as enacted and labelled ("amended, not consolidated", "repealed, not consolidated", "replaced, not consolidated" or "cited later, not consolidated"), with those documents listed (amended_by, cited_by). Before 2026-11-09 such acts were held back.
+- Decisions about named people (appointments, dismissals, pardons, decorations, citizenship), Constitutional Court decisions and corrections (Ispravak) are left out.
+- An act repealed as a whole and changed by nothing else gets a second, empty version on the day the repeal takes effect, credited to the repealing act, when Narodne novine's ELI metadata names that act as repealing it and the repealing act has exactly one sentence ending it ("prestaje važiti") that cites it by its own Narodne novine number with no later numbers, names no articles or parts and gives no day of its own; the repeal day is then the repealing act's own entry-into-force day, read without exceptions.
+- Consolidated texts (pročišćeni tekst) are left out: one is not a new act, it states no day of its own, older ones renumber articles and omit the amending acts' closing provisions (Ustavni sud U-X-80/2005, U-X-1435/2011), and one text often covers several amendments, so it is not used as a later version either.

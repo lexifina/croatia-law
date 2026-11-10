@@ -1,6 +1,6 @@
 # Every act in this repository
 
-30340 acts, 30,766 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+30640 acts, 31,066 versions. Each act lives in a folder named by its kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their own folder, listed in data/paths.json); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## naputak (197, of which 28 amending acts)
 
@@ -1521,7 +1521,7 @@
 | Naredba o dopuni Naredbe o razvrstaju luka otvorenih za javni promet na području Primorsko-goranske županije | [`naredba/2026/1220/`](naredba/2026/1220/) | amending act | 1 | 2026-09-19 | 2026-09-19 |
 | Naredba o mjerama kontrole za suzbijanje afričke svinjske kuge u Republici Hrvatskoj | [`naredba/2026/1289/`](naredba/2026/1289/) | in force | 1 | 2026-09-24 | 2026-09-24 |
 
-## odluka (13055, of which 1671 amending acts)
+## odluka (13355, of which 1686 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -2811,26 +2811,37 @@
 | Odluka o ponavljanju izbora za Općinsko vijeće Općine Tordinci | [`odluka/1995/778/`](odluka/1995/778/) | in force | 1 | 1995-06-09 | 1995-06-09 |
 | Odluka o raspisivanju izbora za Općinsko vijeće Općine Orahovica | [`odluka/1995/779/`](odluka/1995/779/) | amended, not consolidated | 1 | 1995-06-09 | 1995-06-09 |
 | Odluka o obvezi banaka da održavaju određen odnos između deviznih potraživanja i deviznih obveza | [`odluka/1995/801/`](odluka/1995/801/) | amended, not consolidated | 1 | 1995-06-14 | 1995-06-14 |
+| Odluka o dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne Banke Hrvatske | [`odluka/1995/802/`](odluka/1995/802/) | amending act | 1 | 1995-06-14 | 1995-06-14 |
+| Odluka o osnovnim obilježjima novčanica od 10 kuna | [`odluka/1995/803/`](odluka/1995/803/) | amended, not consolidated | 1 | 1995-06-14 | 1995-06-14 |
 | Odluka o puštanju u optjecaj novčanice od 10 kuna | [`odluka/1995/804/`](odluka/1995/804/) | in force | 1 | 1995-06-14 | 1995-06-14 |
+| Odluka o određivanju vodećeg broja depozitne institucije | [`odluka/1995/805/`](odluka/1995/805/) | amended, not consolidated | 1 | 1995-06-14 | 1995-06-14 |
+| Odluka o osnivanju konzulata Republike Hrvatske u Saveznoj Republici Brazil, sa sjedištem u Sao Paulu | [`odluka/1995/813/`](odluka/1995/813/) | in force | 1 | 1995-06-05 | 1995-06-05 |
 | Odluka o utvrđivanju visine boravišne pristojbe za 1996. Godinu | [`odluka/1995/816/`](odluka/1995/816/) | in force | 1 | 1995-06-16 | 1995-06-16 |
+| Odluka o izmjeni Odluke o raspisivanju izbora za Općinsko vijeće Općine Orahovica | [`odluka/1995/817/`](odluka/1995/817/) | in force | 1 | 1995-06-16 | 1995-06-16 |
+| Odluka o određivanju robe i drugih stvari koje se uvoze iz drugih država ili područja nastalih raspadom bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1995/831/`](odluka/1995/831/) | amended, not consolidated | 1 | 1995-06-23 | 1995-06-23 |
 | Odluka o davanju suglasnosti za osnivanje generalnog konzulata Republike Slovenije u Republici Hrvatskoj, sa sjedištem u Splitu | [`odluka/1995/844/`](odluka/1995/844/) | in force | 1 | 1995-06-21 | 1995-06-21 |
 | Odluka o davanju suglasnosti za osnivanje konzulata Kraljevine Španjolske u Republici Hrvatskoj, sa sjedištem u Splitu | [`odluka/1995/845/`](odluka/1995/845/) | in force | 1 | 1995-06-21 | 1995-06-21 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu Republike Hrvatske Javnom poduzeću "Hrvatske ceste" | [`odluka/1995/856/`](odluka/1995/856/) | in force | 1 | 1995-06-30 | 1995-06-30 |
 | Odluka o izmjeni i dopuni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1995. godinu | [`odluka/1995/866/`](odluka/1995/866/) | amending act | 1 | 1995-07-08 | 1995-07-08 |
+| Odluka o ustrojavanju službeničkih sudova | [`odluka/1995/870/`](odluka/1995/870/) | repealed, not consolidated | 1 | 1995-07-05 | 1995-07-05 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju rimokatoličke crkve u naselju Potpićan | [`odluka/1995/871/`](odluka/1995/871/) | in force | 1 | 1995-07-05 | 1995-07-05 |
 | Odluka o kriterijima i mjerilima za utvrđivanje visine naknade za korištenje cestovnog zemljišta i visine naknade od obavljanja pratećih djelatnosti na javnim cestama | [`odluka/1995/890/`](odluka/1995/890/) | in force | 1 | 1995-07-06 | 1995-07-06 |
+| Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u prvom polugodištu 1995. godine | [`odluka/1995/942/`](odluka/1995/942/) | amended, not consolidated | 1 | 1995-07-13 | 1995-07-13 |
 | Odluka o zatvaranju Generalnog konzulata Republike Hrvatske u Južnoafričkoj Republici, sa sjedištem u Johannesburgu | [`odluka/1995/960/`](odluka/1995/960/) | in force | 1 | 1995-06-26 | 1995-06-26 |
 | Odluka o puštanju u optjecaj kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka na naličju kovanog novca | [`odluka/1995/968/`](odluka/1995/968/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o puštanju u optjecaj prigodnog kovanog novca kuna i lipa "FAO" | [`odluka/1995/969/`](odluka/1995/969/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o puštanju u optjecaj prigodnog kovanog novca od 5 kuna "500. obljetnica tiskanja senjskog glagoljskog Misala" | [`odluka/1995/970/`](odluka/1995/970/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja "1995." | [`odluka/1995/971/`](odluka/1995/971/) | in force | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o osnovnim obilježjima kovanog novca kuna i lipa s latinskim nazivima životinja i biljaka na naličju kovanog novca | [`odluka/1995/972/`](odluka/1995/972/) | cited later, not consolidated | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o osnovnim obilježjima prigodnog kovanog novca od 5 kuna "500. obljetnica tiskanja senjskog glagoljskog Misala" | [`odluka/1995/973/`](odluka/1995/973/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka s osnovnim obilježjima prigodnog kovanog novca kuna i lipa "FAO" | [`odluka/1995/974/`](odluka/1995/974/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o načinu i uvjetima odobravanja posebnog kredita s osnove isplate devizne štednje građana | [`odluka/1995/975/`](odluka/1995/975/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o prestanku važenja Odluke o posebnoj obveznoj rezervi na porast određenih plasmana banaka | [`odluka/1995/976/`](odluka/1995/976/) | in force | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o dopuni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1995/977/`](odluka/1995/977/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1995/978/`](odluka/1995/978/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o izmjeni i dopuni Odluke o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja minimalne likvidnosti u 1995. godini | [`odluka/1995/979/`](odluka/1995/979/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
 | Odluka o izmjeni i dopuni Odluke o obvezi banaka da održavaju određeni odnos između deviznih potraživanja i devizni obveza | [`odluka/1995/980/`](odluka/1995/980/) | amending act | 1 | 1995-07-12 | 1995-07-12 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini osnovica osiguranja iz godine 1995 | [`odluka/1995/984/`](odluka/1995/984/) | in force | 1 | 1995-07-20 | 1995-07-20 |
 | Odluka o utvrđivanju visine novčanih primanja i naknada vojnim i civilnim invalidima rata, osiguranicima na dodatnom porodiljskom dopustu i skraćenom radnom vremenu te za opremu novorođenog djeteta | [`odluka/1995/1003/`](odluka/1995/1003/) | cited later, not consolidated | 1 | 1995-07-25 | 1995-07-25 |
 | Odluka o izmjeni Odluke o raspisivanju izbora za Općinsko vijeće Općine Orahovica | [`odluka/1995/1007/`](odluka/1995/1007/) | in force | 1 | 1995-07-17 | 1995-07-17 |
 | Odluka o izdavanju Kompleta optjecajnog kovanog novca Republike Hrvatske kuna i lipa | [`odluka/1995/1030/`](odluka/1995/1030/) | cited later, not consolidated | 1 | 1995-07-21 | 1995-07-21 |
@@ -2933,11 +2944,23 @@
 | Odluka o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1995/1802/`](odluka/1995/1802/) | repealed, not consolidated | 1 | 1996-01-01 | 1996-01-01 |
 | Odluka o izmjeni odluke o obvezi banaka da održavaju određeni odnos između deviznih potraživanja i deviznih obveza | [`odluka/1995/1803/`](odluka/1995/1803/) | in force | 1 | 1995-12-29 | 1995-12-29 |
 | Odluka o uputama za provedbu politike plaća u 1996. godini | [`odluka/1996/8/`](odluka/1996/8/) | in force | 1 | 1996-01-05 | 1996-01-05 |
+| Odluka o izmjeni Odluke o načinu obavljanja platnog prometa s inozemstvom | [`odluka/1996/51/`](odluka/1996/51/) | amended, not consolidated | 1 | 1996-01-10 | 1996-01-10 |
 | Odluka o dopuni Odluke o obveznom upisu blagajničih zapisa Narodne banke Hrvatske | [`odluka/1996/52/`](odluka/1996/52/) | amending act | 1 | 1996-01-10 | 1996-01-10 |
+| Odluka o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1996. godinu | [`odluka/1996/55/`](odluka/1996/55/) | amended, not consolidated | 1 | 1996-01-10 | 1996-01-10 |
+| Odluka o privremenim valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995 | [`odluka/1996/60/`](odluka/1996/60/) | cited later, not consolidated | 1 | 1996-01-13 | 1996-01-13 |
 | Odluka o privremenim valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995. radi određivanja naknade plaće zbog manje plaće na drugom poslu | [`odluka/1996/61/`](odluka/1996/61/) | in force | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. listopada 1995. | [`odluka/1996/62/`](odluka/1996/62/) | replaced, not consolidated | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku zanimanja obavljaju profesio | [`odluka/1996/63/`](odluka/1996/63/) | replaced, not consolidated | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu | [`odluka/1996/64/`](odluka/1996/64/) | replaced, not consolidated | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni kod | [`odluka/1996/65/`](odluka/1996/65/) | replaced, not consolidated | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za produženo mirovinsko i in | [`odluka/1996/66/`](odluka/1996/66/) | in force | 1 | 1996-01-20 | 1996-01-20 |
 | Odluka o osnivici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1996/67/`](odluka/1996/67/) | in force | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završene izobrazbe nalaze na | [`odluka/1996/68/`](odluka/1996/68/) | replaced, not consolidated | 1 | 1996-01-20 | 1996-01-20 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima | [`odluka/1996/69/`](odluka/1996/69/) | repealed, not consolidated | 1 | 1996-01-20 | 1996-01-20 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju poslova, odnosno radnih zadataka na kojima se staž osiguranja računa s povećanim trajanjem | [`odluka/1996/70/`](odluka/1996/70/) | amending act | 1 | 1996-01-13 | 1996-01-13 |
 | Odluka o privremenim valorizacijskim koeficijientima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1955 | [`odluka/1996/71/`](odluka/1996/71/) | in force | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1996/72/`](odluka/1996/72/) | replaced, not consolidated | 1 | 1996-01-13 | 1996-01-13 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. listopada 1995. | [`odluka/1996/73/`](odluka/1996/73/) | replaced, not consolidated | 1 | 1996-01-13 | 1996-01-13 |
 | Odluka o računanju vremena u 1996. godini | [`odluka/1996/86/`](odluka/1996/86/) | in force | 1 | 1996-01-30 | 1996-01-30 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju i izgradnju ceste Lokve-Bikarac-Podi | [`odluka/1996/88/`](odluka/1996/88/) | in force | 1 | 1996-01-22 | 1996-01-22 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju i rekonstrukciju LC Hum na Sutli-Lupinjak | [`odluka/1996/89/`](odluka/1996/89/) | in force | 1 | 1996-01-22 | 1996-01-22 |
@@ -2948,39 +2971,83 @@
 | Zakon o izmjeni Zakona o privremenom preuzimanju i upravljanju određenom imovinom | [`odluka/1996/105/`](odluka/1996/105/) | in force | 1 | 1996-01-26 | 1996-01-26 |
 | Zakon o izmjeni Zakona o obveznim odnosima | [`odluka/1996/106/`](odluka/1996/106/) | in force | 1 | 1996-02-03 | 1996-02-03 |
 | Zakon o izmjeni Zakona o osnovnom školstvu | [`odluka/1996/107/`](odluka/1996/107/) | in force | 1 | 1996-01-26 | 1996-01-26 |
+| Zakon o upravnim pristojbama | [`odluka/1996/118/`](odluka/1996/118/) | repealed, not consolidated | 1 | 1996-02-08 | 1996-02-08 |
 | Odluka o prijenosu sredstava iz Zavoda za zapošljavanje u korist Državnog proračuna | [`odluka/1996/141/`](odluka/1996/141/) | in force | 1 | 1996-02-06 | 1996-02-06 |
 | Odluka o izmjenama i dopunama Odluke o utvrđivanju visine zakupnine za poslovne prostore u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/148/`](odluka/1996/148/) | amending act | 1 | 1995-12-21 | 1995-12-21 |
+| Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1996/156/`](odluka/1996/156/) | amending act | 1 | 1996-02-09 | 1996-02-09 |
+| Odluka o plaćama i drugim primanjima sudaca Ustavnog suda Republike Hrvatske i drugih dužnosnika koje imenuje i razrješuje Sabor Republike Hrvatske | [`odluka/1996/157/`](odluka/1996/157/) | cited later, not consolidated | 1 | 1996-02-09 | 1996-02-09 |
+| Odluka o Stručnoj službi Sabora Republike Hrvatske | [`odluka/1996/158/`](odluka/1996/158/) | repealed, not consolidated | 1 | 1996-02-01 | 1996-02-01 |
+| Odluka o dopuni Odluke o sezonskim graničnim prijelazima u Republici Hrvatskoj | [`odluka/1996/170/`](odluka/1996/170/) | amending act | 1 | 1996-02-09 | 1996-02-09 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju uređaja za predtretman za biološko pročišćavanje voda u k. o. Batomalj | [`odluka/1996/171/`](odluka/1996/171/) | in force | 1 | 1996-02-09 | 1996-02-09 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju vodovoda "Sv. Nedjelja - Kolići - crpna stanica Zagorje" | [`odluka/1996/172/`](odluka/1996/172/) | in force | 1 | 1996-02-09 | 1996-02-09 |
+| Odluka o izmjenama i dopunama Tarife o nagradama i naknadi troškova za rad odvjetnika | [`odluka/1996/177/`](odluka/1996/177/) | amending act | 1 | 1996-02-09 | 1996-02-09 |
+| Odluka o prirezu na porez na dohodak | [`odluka/1996/178/`](odluka/1996/178/) | amended, not consolidated | 1 | 1996-01-30 | 1996-01-30 |
+| Odluka o posebnim mjerama carinskog nadzora pri uvozu, izvozu ili provozu određenih roba | [`odluka/1996/184/`](odluka/1996/184/) | amended, not consolidated | 1 | 1996-02-22 | 1996-02-22 |
 | Odluka o izmjenama i dopunama Odluke o ustanovljenju medalja za sudjelovanje u vojnoredarstvenim operacijama i u iznimnim pothvatima | [`odluka/1996/216/`](odluka/1996/216/) | amending act | 1 | 1996-02-21 | 1996-02-21 |
 | Odluka o izmjenama Odluke o uvjetima pod kojima strane osobe mogu stjecati potraživanja u valuti Republike Hrvatske | [`odluka/1996/217/`](odluka/1996/217/) | in force | 1 | 1996-02-21 | 1996-02-21 |
 | Odluka o određivanju poljoprivrednih i prehrambenih proizvoda za koje se pri uvozu plaća zaštitna pristojba | [`odluka/1996/250/`](odluka/1996/250/) | in force | 1 | 1996-02-28 | 1996-02-28 |
 | Odluka o sanaciji "Valjaonice čelika" d.d., Kumrovec | [`odluka/1996/251/`](odluka/1996/251/) | in force | 1 | 1996-02-28 | 1996-02-28 |
 | Odluka o sanaciji "TPK-EPO" d.d., Zagreb | [`odluka/1996/252/`](odluka/1996/252/) | in force | 1 | 1996-02-28 | 1996-02-28 |
+| Odluka o najnižoj osnovici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje i za plaćanje doprinosa za doplatak za djecu | [`odluka/1996/257/`](odluka/1996/257/) | replaced, not consolidated | 1 | 1996-03-07 | 1996-03-07 |
+| Odluka o određivanju proizvoda koji podliježu nadzoru kakvoće pri uvozu i izvozu | [`odluka/1996/316/`](odluka/1996/316/) | amended, not consolidated | 1 | 1996-03-06 | 1996-03-06 |
 | Odluka o dopunama Odluke o posebnim mjerama carinskog nadzora pri uvozu, izvozu ili provozu određenih roba | [`odluka/1996/317/`](odluka/1996/317/) | amending act | 1 | 1996-03-06 | 1996-03-06 |
 | Odluka o otvaranju posebnog žiro računa Hrvatskog zavoda za zdravstveno osiguranje za transferna sredstva iz Državnog proračuna Republike Hrvatske | [`odluka/1996/324/`](odluka/1996/324/) | in force | 1 | 1996-03-06 | 1996-03-06 |
 | Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i zdravstvenim djelatnicima privatne prakse za 1996. godinu | [`odluka/1996/325/`](odluka/1996/325/) | in force | 1 | 1996-03-06 | 1996-03-06 |
+| Odluka o izmjeni i dopuni Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1996/326/`](odluka/1996/326/) | amending act | 1 | 1996-03-14 | 1996-03-14 |
+| Zakon o izmjenama i dopunama Zakona o financiranju vodnog gospodarstva | [`odluka/1996/334/`](odluka/1996/334/) | amending act | 1 | 1996-03-16 | 1996-03-16 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za sanaciju i adaptaciju drvenih kuća i gospodarskih objekata _ Ruralne cjeline u Crkvenoj ulici u Kutini, te njihove revitalizacije novim sadržajima | [`odluka/1996/353/`](odluka/1996/353/) | in force | 1 | 1996-03-08 | 1996-03-08 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za proširenje groblja u Novskoj | [`odluka/1996/354/`](odluka/1996/354/) | in force | 1 | 1996-03-08 | 1996-03-08 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za proširenje groblja u Kršanu | [`odluka/1996/355/`](odluka/1996/355/) | in force | 1 | 1996-03-08 | 1996-03-08 |
+| Odluka o popisu državnih voda | [`odluka/1996/367/`](odluka/1996/367/) | repealed, not consolidated | 1 | 1996-03-21 | 1996-03-21 |
+| Odluka o utvrđivanju slivnih područja | [`odluka/1996/368/`](odluka/1996/368/) | repealed, not consolidated | 1 | 1996-03-21 | 1996-03-21 |
+| Odluka o utvrđivanju granica vodnih područja | [`odluka/1996/369/`](odluka/1996/369/) | repealed, not consolidated | 1 | 1996-03-21 | 1996-03-21 |
 | Odluka o prijenosu osnivačkih prava nad javnom ustanovom Dječje odmaralište "Karlovac", p.o., Selce | [`odluka/1996/370/`](odluka/1996/370/) | in force | 1 | 1996-03-13 | 1996-03-13 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Cochabambi, Republika Bolivija | [`odluka/1996/401/`](odluka/1996/401/) | in force | 1 | 1996-03-11 | 1996-03-11 |
 | Odluka o izuzimanju nekretnina u k.o. Čepin od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/420/`](odluka/1996/420/) | in force | 1 | 1996-03-22 | 1996-03-22 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske u Republici Hrvatskoj, sa sjedištem u Splitu | [`odluka/1996/421/`](odluka/1996/421/) | in force | 1 | 1996-03-07 | 1996-03-07 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Ujedinjene Kraljevine Velike Britanije i Sjeverne Irske u Republici Hrvatskoj, sa sjedištem u Dubrovniku | [`odluka/1996/422/`](odluka/1996/422/) | in force | 1 | 1996-03-07 | 1996-03-07 |
+| Odluka o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/452/`](odluka/1996/452/) | amended, not consolidated | 1 | 1996-03-21 | 1996-03-21 |
 | Odluka o davanju ovlaštenja Ministarstvu obrane Republike Hrvatske za prodaju nekretnina u vlasništvu Republike Hrvatske | [`odluka/1996/453/`](odluka/1996/453/) | in force | 1 | 1996-03-21 | 1996-03-21 |
+| Odluka o izuzimanju nekretnina u k. o. Split od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/469/`](odluka/1996/469/) | replaced, not consolidated | 1 | 1996-03-29 | 1996-03-29 |
+| Odluka o izmjenama Odluke o gradskim porezima i o prirezu na porez na dohodak | [`odluka/1996/473/`](odluka/1996/473/) | amended, not consolidated | 1 | 1996-04-06 | 1996-04-06 |
 | Odluka o postupcima za ustroj i provedbu projekta Sustava Državne riznice | [`odluka/1996/477/`](odluka/1996/477/) | in force | 1 | 1996-04-03 | 1996-04-03 |
+| Odluka o sanaciji "Cromax-a" d.d., Bjelovar | [`odluka/1996/478/`](odluka/1996/478/) | amended, not consolidated | 1 | 1996-04-03 | 1996-04-03 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995. | [`odluka/1996/506/`](odluka/1996/506/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995. | [`odluka/1996/507/`](odluka/1996/507/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
 | Odluka o naknadi za troškove smještaja i prehrane za vrijeme prekvalifikacije ili dokvalifikacije izvan mjesta prebivališta korisnika u godini 1996. | [`odluka/1996/508/`](odluka/1996/508/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1996. | [`odluka/1996/509/`](odluka/1996/509/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u | [`odluka/1996/510/`](odluka/1996/510/) | in force | 1 | 1996-04-04 | 1996-04-04 |
 | Odluka o naknadi putnih troškova u svezi s ostvarivanjem prava iz mirovinskog i invalidskog osiguranja i najvišoj svoti naknade selidbenih troškova za godinu 1996. | [`odluka/1996/511/`](odluka/1996/511/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. siječnja 1996. | [`odluka/1996/512/`](odluka/1996/512/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1996. | [`odluka/1996/513/`](odluka/1996/513/) | amended, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima | [`odluka/1996/514/`](odluka/1996/514/) | replaced, not consolidated | 1 | 1996-04-03 | 1996-04-03 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike privremeno izvan radnog odnosa | [`odluka/1996/515/`](odluka/1996/515/) | replaced, not consolidated | 1 | 1996-04-11 | 1996-04-11 |
 | Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja individualnih poljoprivrednika od 1. siječnja 1996. | [`odluka/1996/516/`](odluka/1996/516/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1996. | [`odluka/1996/518/`](odluka/1996/518/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini osnovica osiguranja iz godine 1996. | [`odluka/1996/519/`](odluka/1996/519/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje osnovice osiguranja i plaća iz prijašnjih godina prema razini plaća iz godine 1995. | [`odluka/1996/520/`](odluka/1996/520/) | cited later, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o visini prihoda kućanstva korisnika mirovine o kojima ovisi stjecanje prava na zaštitni dodatak uz mirovinu u godini 1996. | [`odluka/1996/521/`](odluka/1996/521/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o izmjeni Odluke o otpremnini bračnom drugu | [`odluka/1996/522/`](odluka/1996/522/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o izmjeni Odluke o novčanoj naknadi udovici osiguranika koja nije stekla pravo na obiteljsku mirovinu | [`odluka/1996/523/`](odluka/1996/523/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o izmjeni Odluke o naknadi dijela troškova za smještaj djece ometene u psihičkom ili fizičkom razvoju u organizacijama internatskog tipa | [`odluka/1996/524/`](odluka/1996/524/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o uvjetima pod kojima se smatra da je osiguranik uzdržavao članove obitelji kao i o uvjetima prestanka prava na obiteljsku mirovinu uslijed nastale promjene u imovnom stanju odnosno prihodima u | [`odluka/1996/525/`](odluka/1996/525/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o najnižoj svoti naknade plaće u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. siječnja 1996. | [`odluka/1996/526/`](odluka/1996/526/) | replaced, not consolidated | 1 | 1996-04-04 | 1996-04-04 |
 | Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini plaća iz godine 1995. radi određivanja naknade plaće zbog manje plaće na drugom poslu | [`odluka/1996/540/`](odluka/1996/540/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/541/`](odluka/1996/541/) | amending act | 1 | 1996-04-10 | 1996-04-10 |
 | Odluka o dopuni Poslovnika Županijskog doma Sabora Republike Hrvatske | [`odluka/1996/557/`](odluka/1996/557/) | amending act | 1 | 1996-03-27 | 1996-03-27 |
 | Odluka o izmjenama Odluke o određivanju proizvoda koji podliježu nadzoru kakvoće pri uvozu i izvozu | [`odluka/1996/561/`](odluka/1996/561/) | in force | 1 | 1996-04-12 | 1996-04-12 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Caracasu, Republika Venezuela | [`odluka/1996/577/`](odluka/1996/577/) | in force | 1 | 1996-04-04 | 1996-04-04 |
+| Odluka o izuzimanju nekretnina u k.o. Split od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/587/`](odluka/1996/587/) | replaced, not consolidated | 1 | 1996-04-17 | 1996-04-17 |
 | Odluka o izuzimanju nekretnina u k.o. Petrijevci od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/588/`](odluka/1996/588/) | in force | 1 | 1996-04-17 | 1996-04-17 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Općini Cernik | [`odluka/1996/589/`](odluka/1996/589/) | in force | 1 | 1996-04-05 | 1996-04-05 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju i proširenje Ulice Domovinskog rata od Dubrovačke ulice do raskrižja sa Solinskom ulicom u Splitu - II faza | [`odluka/1996/590/`](odluka/1996/590/) | in force | 1 | 1996-04-17 | 1996-04-17 |
 | Odluka o izmjeni Odluke o prodaji stanova u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/591/`](odluka/1996/591/) | in force | 1 | 1996-04-11 | 1996-04-11 |
+| Odluka o kriterijima za utvrđivanje minimalnog broja zaposlenika uprave doma zdravlja | [`odluka/1996/599/`](odluka/1996/599/) | repealed, not consolidated | 1 | 1996-04-25 | 1996-04-25 |
+| Odluka o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1996/600/`](odluka/1996/600/) | amended, not consolidated | 1 | 1996-04-25 | 1996-04-25 |
+| Odluka o sanaciji i restrukturiranju Splitske banke d.d., Split | [`odluka/1996/643/`](odluka/1996/643/) | amended, not consolidated | 1 | 1996-04-24 | 1996-04-24 |
+| Odluka o sanaciji i restrukturiranju Riječke banke d.d., Rijeka | [`odluka/1996/644/`](odluka/1996/644/) | amended, not consolidated | 1 | 1996-04-24 | 1996-04-24 |
+| Odluka o mjerilima za razvrstaj luka otvorenih za javni promet | [`odluka/1996/645/`](odluka/1996/645/) | repealed, not consolidated | 1 | 1996-05-02 | 1996-05-02 |
+| Odluka o izuzimanju nekretnina u k.o. Split od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/646/`](odluka/1996/646/) | in force | 1 | 1996-04-24 | 1996-04-24 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Dubrovačke ulice s tunelom i pratećim sadržajima | [`odluka/1996/647/`](odluka/1996/647/) | in force | 1 | 1996-04-24 | 1996-04-24 |
 | Odluka o zaštitnoj cijeni pšenice roda 1996. godine | [`odluka/1996/648/`](odluka/1996/648/) | in force | 1 | 1996-05-02 | 1996-05-02 |
 | Odluka o zaštitnoj cijeni šećerne repe roda 1996. godine | [`odluka/1996/649/`](odluka/1996/649/) | in force | 1 | 1996-05-02 | 1996-05-02 |
@@ -2989,9 +3056,14 @@
 | Odluka o zaštitnoj cijeni soje roda 1996. godine | [`odluka/1996/652/`](odluka/1996/652/) | in force | 1 | 1996-05-02 | 1996-05-02 |
 | Odluka o zaštitnoj cijeni lista duhana roda 1996. godine | [`odluka/1996/653/`](odluka/1996/653/) | in force | 1 | 1996-05-02 | 1996-05-02 |
 | Odluka o osnivanju i zadaćama Hrvatskog nacionalnog odbora Svjetske izložbe EXPO "98 | [`odluka/1996/655/`](odluka/1996/655/) | in force | 1 | 1996-04-18 | 1996-04-18 |
+| Odluka o izmjeni i dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/664/`](odluka/1996/664/) | amending act | 1 | 1996-06-01 | 1996-06-01 |
 | Odluka o osnivanju Odbora za obilježavanje 15. svibnja kao Spomendana Bleiburških žrtava i žrtava Križnog puta | [`odluka/1996/676/`](odluka/1996/676/) | in force | 1 | 1996-05-08 | 1996-05-08 |
 | Odluka o raspuštanju Gradske skupštine Grada Zagreba | [`odluka/1996/682/`](odluka/1996/682/) | in force | 1 | 1996-04-30 | 1996-04-30 |
+| Odluka o visini doprinosa u korist Hrvatskog Crvenog križa | [`odluka/1996/683/`](odluka/1996/683/) | repealed, not consolidated | 1 | 1996-04-30 | 1996-04-30 |
+| Odluka o izuzimanju nekretnine u k.o. Zagreb od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/713/`](odluka/1996/713/) | replaced, not consolidated | 1 | 1996-05-08 | 1996-05-08 |
+| Odluka o izuzimanju nekretnine u k.o. Zagreb od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/714/`](odluka/1996/714/) | replaced, not consolidated | 1 | 1996-05-08 | 1996-05-08 |
 | Odluka o produženju roka za osnivanje lučke uprave u lukama u kojima je bio prekinut promet | [`odluka/1996/715/`](odluka/1996/715/) | in force | 1 | 1996-05-16 | 1996-05-16 |
+| Odluka o izdavanju obveznica Republike Hrvatske serije JDB za refinanciranje drugog obroka javnoga duga dospjelog 31. prosinca 1995. godine | [`odluka/1996/716/`](odluka/1996/716/) | cited later, not consolidated | 1 | 1996-05-16 | 1996-05-16 |
 | Odluka o prestanku važenja Odluke o visini posebne pristojbe koja se plaća pri izvozu određenih proizvoda | [`odluka/1996/717/`](odluka/1996/717/) | in force | 1 | 1996-05-08 | 1996-05-08 |
 | Odluka o raspisivanju savjetodavnog referenduma za područje Zagrebačke županije | [`odluka/1996/729/`](odluka/1996/729/) | in force | 1 | 1996-05-10 | 1996-05-10 |
 | Odluka o raspisivanju savjetodavnog referenduma za područje Grada Ivanić-Grada | [`odluka/1996/730/`](odluka/1996/730/) | in force | 1 | 1996-05-10 | 1996-05-10 |
@@ -3001,10 +3073,16 @@
 | Odluka o raspisivanju savjetodavnog referenduma za područje općine Podgorač | [`odluka/1996/736/`](odluka/1996/736/) | in force | 1 | 1996-05-10 | 1996-05-10 |
 | Odluka o raspisivanju savjetodavnog referenduma za područje Grada Novske | [`odluka/1996/738/`](odluka/1996/738/) | in force | 1 | 1996-05-10 | 1996-05-10 |
 | Odluka o osnivanju Generalnog konzulata Republike Hrvatske u St. Paulu, Savezna Država Minnesota, Sjedinjene Američke Države | [`odluka/1996/758/`](odluka/1996/758/) | in force | 1 | 1996-05-06 | 1996-05-06 |
+| Odluka o razvrstaju luka posebne namjene | [`odluka/1996/762/`](odluka/1996/762/) | amended, not consolidated | 1 | 1996-05-22 | 1996-05-22 |
 | Odluka o odobrenju zamjene nekretnina u vlasništvu Republike Hrvatske | [`odluka/1996/763/`](odluka/1996/763/) | in force | 1 | 1996-05-14 | 1996-05-14 |
 | Odluka o dodjeli koncesije za polaganje i gospodarsko korištenje podmorske vodovodne cijevi na pomorskom dobru Cesarica uvala Vlaška Vela | [`odluka/1996/764/`](odluka/1996/764/) | in force | 1 | 1996-05-09 | 1996-05-09 |
+| Odluka o dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/773/`](odluka/1996/773/) | amending act | 1 | 1996-05-14 | 1996-05-14 |
 | Odluka o puštanju u optjecaj kovanog novca kuna i lipa s oznakom godine kovanja 1996. | [`odluka/1996/774/`](odluka/1996/774/) | in force | 1 | 1996-05-14 | 1996-05-14 |
 | Odluka o davanju suglasnosti za osnivanje Konzulata Kraljevine Nizozemske u Republici Hrvatskoj, sa sjedištem u Dubrovniku | [`odluka/1996/817/`](odluka/1996/817/) | in force | 1 | 1996-05-23 | 1996-05-23 |
+| Odluka o davanju na korištenje nekretnina Gradu Splitu | [`odluka/1996/818/`](odluka/1996/818/) | repealed, not consolidated | 1 | 1996-05-17 | 1996-05-17 |
+| Odluka o osnivanju Lučke uprave Rijeka | [`odluka/1996/832/`](odluka/1996/832/) | repealed, not consolidated | 1 | 1996-05-28 | 1996-05-28 |
+| Odluka o naknadi troškova nadzora kakvoće proizvoda pri uvozu i izvozu | [`odluka/1996/833/`](odluka/1996/833/) | amended, not consolidated | 1 | 1996-05-28 | 1996-05-28 |
+| Odluka o izuzimanju nekretnine u k.o. Split od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/834/`](odluka/1996/834/) | in force | 1 | 1996-05-28 | 1996-05-28 |
 | Odluka o puštanju u optjecaj prigodnog kovanog novca "Olimpijske igre - Atlanta 1996." | [`odluka/1996/861/`](odluka/1996/861/) | in force | 1 | 1996-06-05 | 1996-06-05 |
 | Odluka o osnovnim obilježjima prigodnog kovanog novca "Olimpijske igre - Atlanta 1996." | [`odluka/1996/862/`](odluka/1996/862/) | in force | 1 | 1996-06-05 | 1996-06-05 |
 | Odluka o puštanju u optjecaj prigodnog kovanog novca od 10 lipa "OUN" | [`odluka/1996/863/`](odluka/1996/863/) | in force | 1 | 1996-06-05 | 1996-06-05 |
@@ -3012,35 +3090,66 @@
 | Odluka o puštanju u optjecaj prigodnog kovanog novca od 50 lipa "Europsko nogometno prvenstvo - Engleska 1996." | [`odluka/1996/865/`](odluka/1996/865/) | in force | 1 | 1996-06-05 | 1996-06-05 |
 | Odluka o osnovnim obilježjima prigodnog kovanog novca od 50 lipa "Europsko nogometno prvenstvo - Engleska 1996." | [`odluka/1996/866/`](odluka/1996/866/) | in force | 1 | 1996-06-05 | 1996-06-05 |
 | Odluka o dopuni Odluke o sezonskim graničnim prijelazima u Republici Hrvatskoj | [`odluka/1996/877/`](odluka/1996/877/) | amending act | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o načinu i uvjetima korištenja obvezne rezerve banaka i štedionica za održavanje njihove dnevne likvidnosti | [`odluka/1996/892/`](odluka/1996/892/) | replaced, not consolidated | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o izmjeni i dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/893/`](odluka/1996/893/) | amending act | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o izmjeni i dopuni Odluke o sprečavanju izloženosti devizne pozicije banaka valutnom riziku | [`odluka/1996/894/`](odluka/1996/894/) | amended, not consolidated | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o izdavanju i prodaji prigodnog srebrenog kovanog novca u povodu održavanja XXVI. Olimpijskih igara u Atlanti | [`odluka/1996/895/`](odluka/1996/895/) | cited later, not consolidated | 1 | 1996-06-12 | 1996-06-12 |
 | Odluka o izuzimanju određenih vrsta radova i nabave opreme od primjene Uredbe o postupku nabave roba i usluga i ustupanju radova | [`odluka/1996/909/`](odluka/1996/909/) | in force | 1 | 1996-06-12 | 1996-06-12 |
 | Odluka o izuzimanju nekretnine u k.o. Novska od zabrane prijenosa prava raspolaganja i korištenja | [`odluka/1996/910/`](odluka/1996/910/) | in force | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o osnivanju i zadaćama Nacionalnog odbora za obrazovanje o ljudskim pravima | [`odluka/1996/911/`](odluka/1996/911/) | repealed, not consolidated | 1 | 1996-06-06 | 1996-06-06 |
 | Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske Hrvatskom savezu slijepih | [`odluka/1996/912/`](odluka/1996/912/) | in force | 1 | 1996-06-06 | 1996-06-06 |
+| Odluka o osnivanju Generalnog konzulata Republike Hrvatske u Bosni i Hercegovini | [`odluka/1996/938/`](odluka/1996/938/) | amended, not consolidated | 1 | 1996-06-12 | 1996-06-12 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Republici Boliviji sa sjedištem u Santa Cruz de la Sierra | [`odluka/1996/939/`](odluka/1996/939/) | in force | 1 | 1996-06-12 | 1996-06-12 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom | [`odluka/1996/945/`](odluka/1996/945/) | repealed, not consolidated | 1 | 1996-06-26 | 1996-06-26 |
+| Zakon o carinskoj tarifi | [`odluka/1996/947/`](odluka/1996/947/) | amended, not consolidated | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka o osnivanju Vijeća za poljoprivrednu politiku | [`odluka/1996/949/`](odluka/1996/949/) | amended, not consolidated | 1 | 1996-06-29 | 1996-06-29 |
+| Odluka o izmjenama Odluke o gradskim porezima i o prirezu na porez na dohodak | [`odluka/1996/969/`](odluka/1996/969/) | amended, not consolidated | 1 | 1996-07-04 | 1996-07-04 |
 | Odluka o utvrđivanju visine boravišne pristojbe za 1997. godinu | [`odluka/1996/973/`](odluka/1996/973/) | in force | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka o izmjeni Odluke o određivanju robe i drugih stvari koje se uvoze iz drugih država ili područja nastalih raspadom bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1996/974/`](odluka/1996/974/) | in force | 1 | 1996-06-29 | 1996-06-29 |
 | Odluka o prestanku važenja Odluke o plaćanju posebne pristojbe na uvezenu robu u 1996. godini | [`odluka/1996/975/`](odluka/1996/975/) | in force | 1 | 1996-06-28 | 1996-06-28 |
 | Odluka o prijenosu nekretnina u vlasništvo Gradu Splitu | [`odluka/1996/976/`](odluka/1996/976/) | in force | 1 | 1996-06-20 | 1996-06-20 |
 | Odluka o najpovoljnijoj ponudi za zakup poljoprivrednog zemljišta u vlasništvu države na području Županije Koprivničko-Križevačke | [`odluka/1996/994/`](odluka/1996/994/) | in force | 1 | 1996-06-28 | 1996-06-28 |
+| Odluka o izmjeni Odluke o početku izdavanja iskaznice zdravstveno osigurane osobe i vremenu trajanja zamjene postojeće iskaznice | [`odluka/1996/998/`](odluka/1996/998/) | in force | 1 | 1996-07-11 | 1996-07-11 |
 | Odluka o davanju suglasnosti za osnivanje privremenog konzularnog predstavništva Republike Češke u Republici Hrvatskoj, sa sjedištem u Opatiji | [`odluka/1996/1058/`](odluka/1996/1058/) | in force | 1 | 1996-07-04 | 1996-07-04 |
+| Odluka o osnivanju Posebnog računa za kreditiranje razvitka i obnove poljoprivrede | [`odluka/1996/1059/`](odluka/1996/1059/) | amended, not consolidated | 1 | 1996-07-08 | 1996-07-08 |
 | Odluka o dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/1062/`](odluka/1996/1062/) | amending act | 1 | 1996-07-08 | 1996-07-08 |
 | Odluka o izmjeni i dopuni Odluke o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1996/1063/`](odluka/1996/1063/) | amending act | 1 | 1996-07-08 | 1996-07-08 |
 | Odluka o izmjeni i dopuni Odluke o obvezi banaka da održavaju određeni odnos između deviznih potraživanja i deviznih obveza | [`odluka/1996/1064/`](odluka/1996/1064/) | amending act | 1 | 1996-07-08 | 1996-07-08 |
+| Odluka o izmjeni Odluke o naknadama i nagradi za rad predsjednika i članova Državnog sudbenog vijeća | [`odluka/1996/1074/`](odluka/1996/1074/) | in force | 1 | 1996-07-04 | 1996-07-04 |
 | Odluka o raspuštanju Općinskog vijeća Općine Vir | [`odluka/1996/1075/`](odluka/1996/1075/) | in force | 1 | 1996-07-10 | 1996-07-10 |
+| Odluka o određivanju robe koja se izvozi na temelju kontingenta | [`odluka/1996/1179/`](odluka/1996/1179/) | repealed, not consolidated | 1 | 1996-07-15 | 1996-07-15 |
+| Odluka o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1996/1180/`](odluka/1996/1180/) | amended, not consolidated | 1 | 1996-07-15 | 1996-07-15 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju vodospreme "Zavalatica" | [`odluka/1996/1195/`](odluka/1996/1195/) | in force | 1 | 1996-07-19 | 1996-07-19 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Seoulu, Republika Koreja | [`odluka/1996/1221/`](odluka/1996/1221/) | in force | 1 | 1996-07-11 | 1996-07-11 |
+| Odluka o sniženju stope carine za uvoz opreme, uređaja, aparata i vozila i njihovih dijelova u koje su ugrađeni dijelovi proizvedeni u Republici Hrvatskoj | [`odluka/1996/1240/`](odluka/1996/1240/) | amended, not consolidated | 1 | 1996-08-03 | 1996-08-03 |
+| Odluka o visini posebnih troškova postupka i troškova za pružanje informacijskih usluga Državnog zavoda za patente | [`odluka/1996/1241/`](odluka/1996/1241/) | repealed, not consolidated | 1 | 1996-07-26 | 1996-07-26 |
 | Odluka o prijenosu osnivačkih prava nad javnom ustanovom "Dom mladih", Rijeka | [`odluka/1996/1259/`](odluka/1996/1259/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Odluka o davanju državnih lovišta u zakup | [`odluka/1996/1260/`](odluka/1996/1260/) | in force | 1 | 1996-07-25 | 1996-07-25 |
+| Odluka o koncesiji prava lova na lovištima u vlasništvu države | [`odluka/1996/1261/`](odluka/1996/1261/) | amended, not consolidated | 1 | 1996-07-25 | 1996-07-25 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju priključne ceste naselja Kučište - odvojak "Zamošće" | [`odluka/1996/1262/`](odluka/1996/1262/) | in force | 1 | 1996-07-30 | 1996-07-30 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Javnom poduzeću "Hrvatske ceste" | [`odluka/1996/1263/`](odluka/1996/1263/) | in force | 1 | 1996-07-30 | 1996-07-30 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/1996/1273/`](odluka/1996/1273/) | replaced, not consolidated | 1 | 1996-07-30 | 1996-07-30 |
+| Odluka o dopuni Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1996/1287/`](odluka/1996/1287/) | amended, not consolidated | 1 | 1996-08-07 | 1996-08-07 |
 | Odluka o izmjenama i dopunama Odluke o Republičkom fondu "Kralj Zvonimir" | [`odluka/1996/1288/`](odluka/1996/1288/) | amending act | 1 | 1996-08-15 | 1996-08-15 |
+| Odluka o eskontnoj stopi Narodne banke Hrvatske | [`odluka/1996/1297/`](odluka/1996/1297/) | replaced, not consolidated | 1 | 1996-08-09 | 1996-08-09 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1996/1298/`](odluka/1996/1298/) | in force | 1 | 1996-08-09 | 1996-08-09 |
 | Odluka o izmjeni i dopuni Odluke o obveznom upisu blagajničkih zapisa Narodne banke Hrvatske | [`odluka/1996/1299/`](odluka/1996/1299/) | amending act | 1 | 1996-08-09 | 1996-08-09 |
 | Odluka o izmjenama i dopunama Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1996/1322/`](odluka/1996/1322/) | amending act | 1 | 1996-08-31 | 1996-08-31 |
+| Odluka o izmjenama i dopunama Odluke o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1996/1323/`](odluka/1996/1323/) | amending act | 1 | 1996-08-31 | 1996-08-31 |
 | Odluka o visini osnovice za obavezno zdravstveno osiguranje i mirovinsko i invalidsko osiguranje za nezaposlenu osobu iz članka 30., 31. i 33. Zakona o zapošljavanju | [`odluka/1996/1327/`](odluka/1996/1327/) | in force | 1 | 1996-08-30 | 1996-08-30 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1996/1328/`](odluka/1996/1328/) | replaced, not consolidated | 1 | 1996-09-07 | 1996-09-07 |
 | Odluka o produženju roka iz članka 20. stavka 3. Zakona o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1996/1353/`](odluka/1996/1353/) | amending act | 1 | 1996-09-11 | 1996-09-11 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Sabirnoga, transportnoga i elektroenergetskoga sustava naftnog polja Galovac-Pavljani u k. o. Galovac i k. o. Brezovac | [`odluka/1996/1355/`](odluka/1996/1355/) | in force | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o uvjetima za odobrenje kratkoročnih kredita na osnovi zaloga vrijednosnih papira (lombardni kredit) | [`odluka/1996/1359/`](odluka/1996/1359/) | amended, not consolidated | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o kamatnim stopama Narodne banke Hrvatske | [`odluka/1996/1360/`](odluka/1996/1360/) | amended, not consolidated | 1 | 1996-09-11 | 1996-09-11 |
 | Odluka o dopuni Odluke o odobravanju dnevnih kredita za štedne uloge i tekuće račune građana u kunama | [`odluka/1996/1361/`](odluka/1996/1361/) | amending act | 1 | 1996-09-11 | 1996-09-11 |
 | Odluka o izmjeni i dopuni Odluke o obveznoj rezervi banaka i štedionica | [`odluka/1996/1362/`](odluka/1996/1362/) | amending act | 1 | 1996-09-11 | 1996-09-11 |
+| Odluka o obvezi prijave cjenika odnosno tarifa određenih pravnih osoba | [`odluka/1996/1368/`](odluka/1996/1368/) | repealed, not consolidated | 1 | 1996-09-13 | 1996-09-13 |
 | Odluka o vraćanju cijena određenih proizvoda na određenu razinu | [`odluka/1996/1369/`](odluka/1996/1369/) | in force | 1 | 1996-09-14 | 1996-09-14 |
 | Odluka o dopuni Odluke o osnivanju i zadaćama Hrvatskog nacionalnog odbora Svjetske izložbe EXPO ž98 | [`odluka/1996/1396/`](odluka/1996/1396/) | amending act | 1 | 1996-09-26 | 1996-09-26 |
 | Odluka o raspuštanju općinskog vijeća općine Opuzen | [`odluka/1996/1401/`](odluka/1996/1401/) | in force | 1 | 1996-10-02 | 1996-10-02 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz dodatka A Zakona o carinskoj tarifi | [`odluka/1996/1402/`](odluka/1996/1402/) | replaced, not consolidated | 1 | 1996-10-10 | 1996-10-10 |
+| Odluka o kratkoročnom zaduženju Republike Hrvatske kod Union Bank of Switzerland | [`odluka/1996/1403/`](odluka/1996/1403/) | replaced, not consolidated | 1 | 1996-09-26 | 1996-09-26 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države općini Vodnjan | [`odluka/1996/1404/`](odluka/1996/1404/) | in force | 1 | 1996-10-02 | 1996-10-02 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Mati Antoliću | [`odluka/1996/1405/`](odluka/1996/1405/) | in force | 1 | 1996-10-02 | 1996-10-02 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Darku Laberu | [`odluka/1996/1406/`](odluka/1996/1406/) | in force | 1 | 1996-10-02 | 1996-10-02 |
@@ -3048,40 +3157,113 @@
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Mladenu Hanževačkom | [`odluka/1996/1408/`](odluka/1996/1408/) | in force | 1 | 1996-10-02 | 1996-10-02 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Ladislavu Deželiću | [`odluka/1996/1409/`](odluka/1996/1409/) | in force | 1 | 1996-10-02 | 1996-10-02 |
 | Odluka o dopuni Odluke o prodaji garaža u vlasništvu Republike Hrvatske kojima upravlja Ministarstvo obrane | [`odluka/1996/1414/`](odluka/1996/1414/) | amending act | 1 | 1996-09-26 | 1996-09-26 |
+| Odluka o osnivanju i zadacima Nacionalnog odbora za izradbu Nacionalnog programa djelovanja za djecu u Republici Hrvatskoj | [`odluka/1996/1415/`](odluka/1996/1415/) | repealed, not consolidated | 1 | 1996-09-26 | 1996-09-26 |
 | Odluka o prijenosu u vlasništvo zemljišta (šume) | [`odluka/1996/1424/`](odluka/1996/1424/) | in force | 1 | 1996-10-02 | 1996-10-02 |
 | Odluka o zaduženju Republike Hrvatske kod Dresdner Bank Luxembourg | [`odluka/1996/1435/`](odluka/1996/1435/) | in force | 1 | 1996-10-03 | 1996-10-03 |
 | Odluka o osnivanju Povjerenstva za provedbu izbora u Istočnoj Slavoniji, Baranji i Zapadnom Srijemu | [`odluka/1996/1436/`](odluka/1996/1436/) | in force | 1 | 1996-10-04 | 1996-10-04 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Đuri Mikšecu | [`odluka/1996/1437/`](odluka/1996/1437/) | in force | 1 | 1996-10-04 | 1996-10-04 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Željku Urhu | [`odluka/1996/1438/`](odluka/1996/1438/) | in force | 1 | 1996-10-04 | 1996-10-04 |
+| Odluka o usklađivanju mirovina od 1. rujna 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1996/1450/`](odluka/1996/1450/) | in force | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. rujna 1996. | [`odluka/1996/1451/`](odluka/1996/1451/) | cited later, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o visini minimalne mirovine od 1. rujna 1996. | [`odluka/1996/1452/`](odluka/1996/1452/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. rujna 1996. | [`odluka/1996/1453/`](odluka/1996/1453/) | cited later, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od 1. rujna 1996. | [`odluka/1996/1454/`](odluka/1996/1454/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. rujna 1996. | [`odluka/1996/1455/`](odluka/1996/1455/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju mirovina od 1. rujna 1996. | [`odluka/1996/1456/`](odluka/1996/1456/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od 1. rujna 1996. | [`odluka/1996/1457/`](odluka/1996/1457/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. rujna 1996. | [`odluka/1996/1458/`](odluka/1996/1458/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. rujna 1996. | [`odluka/1996/1459/`](odluka/1996/1459/) | in force | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju mirovina od 1. rujna 1996. | [`odluka/1996/1460/`](odluka/1996/1460/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o graničnoj svoti najnižega mirovinskog primanja od 1. rujna 1996. | [`odluka/1996/1461/`](odluka/1996/1461/) | in force | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknade plaće u svezi s pravom na zaposlenje od 1. rujna 1996. | [`odluka/1996/1462/`](odluka/1996/1462/) | cited later, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanju novčanih naknada za tjelesno oštećenje od 1. rujna 1996. | [`odluka/1996/1463/`](odluka/1996/1463/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. rujna 1996. | [`odluka/1996/1464/`](odluka/1996/1464/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
 | Odluka o usklađivanju mirovina individualnih poljoprivrednika od 1. rujna 1996. | [`odluka/1996/1465/`](odluka/1996/1465/) | in force | 1 | 1996-10-05 | 1996-10-05 |
+| Odluka o visini minimalne mirovine od 1. rujna 1996. | [`odluka/1996/1468/`](odluka/1996/1468/) | replaced, not consolidated | 1 | 1996-10-05 | 1996-10-05 |
 | Odluka o zatvaranju Veleposlanstva Republike Hrvatske u Alžirskoj Narodnoj Demokratskoj Republici | [`odluka/1996/1494/`](odluka/1996/1494/) | in force | 1 | 1996-10-02 | 1996-10-02 |
 | Odluka o najnižem iznosu nadoknade plaće | [`odluka/1996/1505/`](odluka/1996/1505/) | in force | 1 | 1996-10-09 | 1996-10-09 |
+| Odluka o najnižem iznosu osnovice za naplatu doprinosa za obvezno zdravstveno osiguranje osiguranika poljoprivrednika | [`odluka/1996/1506/`](odluka/1996/1506/) | replaced, not consolidated | 1 | 1996-10-09 | 1996-10-09 |
+| Odluka o osnovici za naplatu doprinosa za obvezno zdravstveno osiguranje za osiguranike koji primaju mirovinu i invalidninu isključivo od stranog nositelja osiguranja | [`odluka/1996/1507/`](odluka/1996/1507/) | replaced, not consolidated | 1 | 1996-10-09 | 1996-10-09 |
+| Odluka o visini novčane naknade za nezaposlene osobe | [`odluka/1996/1513/`](odluka/1996/1513/) | replaced, not consolidated | 1 | 1996-10-11 | 1996-10-11 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka i štedionica | [`odluka/1996/1530/`](odluka/1996/1530/) | in force | 1 | 1996-10-16 | 1996-10-16 |
+| Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske kuna i lipa s oznakom godine kovanja 1996 | [`odluka/1996/1531/`](odluka/1996/1531/) | cited later, not consolidated | 1 | 1996-10-16 | 1996-10-16 |
 | Odluka o izdavanju numizmatičkih kompleta prigodnog opticajnog kovanog novca Republike Hrvatske kuna i lipa izdanog u razdoblju 1994-1996. godine | [`odluka/1996/1532/`](odluka/1996/1532/) | in force | 1 | 1996-10-16 | 1996-10-16 |
+| Odluka o izdavanju i prodaji prigodnog zlatnog i srebrenog kovanog novca u povodu 800. obljetnice spomena imena grada Osijeka | [`odluka/1996/1533/`](odluka/1996/1533/) | cited later, not consolidated | 1 | 1996-10-16 | 1996-10-16 |
+| Odluka o izdavanju i prodaji prigodnog zlatnog i srebrenog kovanog novca u povodu šest stoljeća sveučilišne nastave u Zadru | [`odluka/1996/1534/`](odluka/1996/1534/) | cited later, not consolidated | 1 | 1996-10-16 | 1996-10-16 |
 | Odluka o izmjeni i dopuni Odluke o osnivanju Hrvatskog savjeta za sigurnost prometa na cestama | [`odluka/1996/1549/`](odluka/1996/1549/) | amending act | 1 | 1996-10-26 | 1996-10-26 |
 | Odluka o određivanju granice pomorskog dobra na dijelu k.o. Pula - lokacija Radio far | [`odluka/1996/1563/`](odluka/1996/1563/) | in force | 1 | 1996-10-17 | 1996-10-17 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Kostrena-Sveta Lucija | [`odluka/1996/1564/`](odluka/1996/1564/) | replaced, not consolidated | 1 | 1996-10-17 | 1996-10-17 |
 | Odluka o osnivanju Istražnog povjerenstva radi utvrđivanja zakonitosti rada Državnog ravnateljstva za robne zalihe i drugih državnih tijela u svezi s izvozom pšenice i kukuruza i opravdanosti uvoza pš | [`odluka/1996/1587/`](odluka/1996/1587/) | in force | 1 | 1996-11-02 | 1996-11-02 |
+| Odluka o odobravanju sredstava za poticanje zapošljavanja | [`odluka/1996/1591/`](odluka/1996/1591/) | repealed, not consolidated | 1 | 1996-10-25 | 1996-10-25 |
 | Odluka o izmjeni Odluke o obvezi ovlaštenih banaka da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1996/1611/`](odluka/1996/1611/) | in force | 1 | 1996-10-30 | 1996-10-30 |
 | Odluka o osnivanju Konzulata Republike Hrvatske u Arapskoj Republici Egipat | [`odluka/1996/1615/`](odluka/1996/1615/) | in force | 1 | 1996-10-28 | 1996-10-28 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Saveznoj Republici Brazil | [`odluka/1996/1616/`](odluka/1996/1616/) | in force | 1 | 1996-10-28 | 1996-10-28 |
 | Odluka o raspuštanju Općinskog vijeća Općine Kijevo | [`odluka/1996/1619/`](odluka/1996/1619/) | in force | 1 | 1996-11-06 | 1996-11-06 |
 | Odluka o raspuštanju Općinskog vijeća Općine Benkovac | [`odluka/1996/1620/`](odluka/1996/1620/) | in force | 1 | 1996-11-06 | 1996-11-06 |
 | Odluka o prestanku važenja Odluke o raspodjeli sredstava radio pretplate | [`odluka/1996/1621/`](odluka/1996/1621/) | in force | 1 | 1996-10-31 | 1996-10-31 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1996/1622/`](odluka/1996/1622/) | replaced, not consolidated | 1 | 1996-11-14 | 1996-11-14 |
 | Odluka o izmjeni Odluke o početku izdavanja iskaznice zdravstveno osigurane osobe i vremenu trajanja zamjene postojeće iskaznice | [`odluka/1996/1641/`](odluka/1996/1641/) | in force | 1 | 1996-11-14 | 1996-11-14 |
+| Odluka o utvrđivanju minimalnih uvjeta za ocjenu nastavne i stručne aktivnosti u postupku izbora u znanstveno-nastavna zvanja i nastavna zvanja | [`odluka/1996/1872/`](odluka/1996/1872/) | cited later, not consolidated | 1 | 1996-11-08 | 1996-11-08 |
+| Odluka o utvrđivanju minimalnih uvjeta za ocjenu nastavne i stručne aktivnosti u postupku izbora u znanstveno-nastavna zvanja i nastavna zvanja u poljima umjetnosti | [`odluka/1996/1873/`](odluka/1996/1873/) | cited later, not consolidated | 1 | 1996-11-08 | 1996-11-08 |
 | Odluka o raspisivanju javnog natječaja za dodjelu koncesije za osnivanje slobodnih zona | [`odluka/1996/1900/`](odluka/1996/1900/) | in force | 1 | 1996-11-11 | 1996-11-11 |
+| Odluka o izmjeni i dopuni Odluke o osnivanju Vijeća obrane i nacionalne sigurnosti | [`odluka/1996/1926/`](odluka/1996/1926/) | amending act | 1 | 1996-11-11 | 1996-11-11 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/1996/1931/`](odluka/1996/1931/) | replaced, not consolidated | 1 | 1996-11-22 | 1996-11-22 |
+| Odluka o sanaciji Remontnog brodogradilišta Šibenik | [`odluka/1996/1940/`](odluka/1996/1940/) | in force | 1 | 1996-12-04 | 1996-12-04 |
 | Odluka o dopunama Odluke o kriterijima za carinski kontingent | [`odluka/1996/1983/`](odluka/1996/1983/) | amending act | 1 | 1996-12-04 | 1996-12-04 |
+| Odluka o izmjeni Odluke o određivanju robe koja se izvozi na temelju kontingenata | [`odluka/1996/1984/`](odluka/1996/1984/) | in force | 1 | 1996-12-04 | 1996-12-04 |
 | Odluka o dopuni Odluke o opsegu kontingenata za izvoz i uvoz robe u 1996. godini | [`odluka/1996/1985/`](odluka/1996/1985/) | amending act | 1 | 1996-12-04 | 1996-12-04 |
 | Odluka o izmjeni Odluke o davanju državnih lovišta u zakup | [`odluka/1996/1986/`](odluka/1996/1986/) | in force | 1 | 1996-12-04 | 1996-12-04 |
 | Odluka o ustrojavanju vojnostegovnih sudova i vojnostegovnih tužiteljstava | [`odluka/1996/1995/`](odluka/1996/1995/) | in force | 1 | 1996-12-14 | 1996-12-14 |
 | Odluka o osnivanju Komisije za ratne zločine | [`odluka/1996/1997/`](odluka/1996/1997/) | in force | 1 | 1996-12-06 | 1996-12-06 |
+| Odluka o naknadi za eksploataciju mineralnih sirovina | [`odluka/1996/2007/`](odluka/1996/2007/) | repealed, not consolidated | 1 | 1996-12-11 | 1996-12-11 |
 | Odluka o prijenosu nekretnina u vlasništvo Općine Baška Voda | [`odluka/1996/2016/`](odluka/1996/2016/) | in force | 1 | 1996-12-13 | 1996-12-13 |
+| Odluka o zamjeni nekretnina | [`odluka/1996/2017/`](odluka/1996/2017/) | cited later, not consolidated | 1 | 1996-12-05 | 1996-12-05 |
+| Odluka o sanaciji i restrukturiranju Privredne banke Zagreb, dioničko društvo, Zagreb | [`odluka/1996/2032/`](odluka/1996/2032/) | amended, not consolidated | 1 | 1996-12-17 | 1996-12-17 |
+| ODLUKU O IZMJENI I DOPUNI ODLUKE O OSNIVANJU VIJEĆA OBRANE I NACIONALNE SIGURNOSTI | [`odluka/1996/2052/`](odluka/1996/2052/) | amending act | 1 | 1996-12-16 | 1996-12-16 |
+| ODLUKU O OPSEGU KONTINGENATA ZA IZVOZ ROBE U 1997. GODINI | [`odluka/1996/2054/`](odluka/1996/2054/) | amended, not consolidated | 1 | 1996-12-28 | 1996-12-28 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - OPĆI PROPISI (1996) | [`odluka/1996/2059/`](odluka/1996/2059/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - TRUP (1996) | [`odluka/1996/2060/`](odluka/1996/2060/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - OPREMA TRUPA (1996) | [`odluka/1996/2061/`](odluka/1996/2061/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
 | ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - STABILITET (1996) | [`odluka/1996/2062/`](odluka/1996/2062/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - PREGRAĐIVANJE (1996) | [`odluka/1996/2063/`](odluka/1996/2063/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - NADVOĐE (1996) | [`odluka/1996/2064/`](odluka/1996/2064/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - STROJNI UREĐAJ (1996) | [`odluka/1996/2065/`](odluka/1996/2065/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - CJEVOVODI (1996) | [`odluka/1996/2066/`](odluka/1996/2066/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - STROJEVI (1996) | [`odluka/1996/2067/`](odluka/1996/2067/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - KOTLOVI, IZMJENJIVAČI TOPLINE I POSUDE POD TLAKOM (1996) | [`odluka/1996/2068/`](odluka/1996/2068/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - RASHLADNI UREĐAJ (1996) | [`odluka/1996/2069/`](odluka/1996/2069/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - ELEKTRIČNA OPREMA (1996) | [`odluka/1996/2070/`](odluka/1996/2070/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - AUTOMATIZACIJA (1996) | [`odluka/1996/2071/`](odluka/1996/2071/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - RADIOOPREMA (1996) | [`odluka/1996/2072/`](odluka/1996/2072/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - SREDSTVA ZA SIGNALIZACIJU (1996) | [`odluka/1996/2073/`](odluka/1996/2073/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - POMAGALA ZA NAVIGACIJU (1996) | [`odluka/1996/2074/`](odluka/1996/2074/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - PROTUPOŽARNA ZAŠTITA (1996) | [`odluka/1996/2075/`](odluka/1996/2075/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - SREDSTVA ZA SPAŠAVANJE (1996) | [`odluka/1996/2076/`](odluka/1996/2076/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
 | ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA-UREĐAJ ZA RUKOVANJE TERETOM I NAPRAVE ZA DIZANJE (1996) | [`odluka/1996/2077/`](odluka/1996/2077/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - ZAŠTITA PRI RADU I SMJEŠTAJ POSADE (1996) | [`odluka/1996/2078/`](odluka/1996/2078/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - PRIJEVOZ PUTNIKA (1996) | [`odluka/1996/2079/`](odluka/1996/2079/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - SPREČAVANJE ZAGAĐIVANJA (1996) | [`odluka/1996/2080/`](odluka/1996/2080/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - PRIJEVOZ TERETA (1996) | [`odluka/1996/2081/`](odluka/1996/2081/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - BAŽDARENJE (1996) | [`odluka/1996/2082/`](odluka/1996/2082/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
 | ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - MATERIJALI (1996) | [`odluka/1996/2083/`](odluka/1996/2083/) | in force | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - TANKERI ZA KEMIKALIJE (1996) | [`odluka/1996/2085/`](odluka/1996/2085/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O TEHNIČKIM PRAVILIMA HRVATSKOG REGISTRA BRODOVA - KONTEJNERI (1996) | [`odluka/1996/2086/`](odluka/1996/2086/) | replaced, not consolidated | 1 | 1997-01-01 | 1997-01-01 |
+| ODLUKU O OBVEZNICIMA, STOPI I OSNOVICI ZA PLAĆANJE KOMORSKOG DOPRINOSA HRVATSKOJ OBRTNIČKOJ KOMORI ZA 1997. GODINU | [`odluka/1996/2087/`](odluka/1996/2087/) | amended, not consolidated | 1 | 1996-12-20 | 1996-12-20 |
 | Odluka o davanju pomoći građanima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u 1996. godini | [`odluka/1996/2097/`](odluka/1996/2097/) | in force | 1 | 1996-12-24 | 1996-12-24 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje osobnim radom, samostalno, u obliku zanimanja obavljaju profesio | [`odluka/1996/2121/`](odluka/1996/2121/) | replaced, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osiguranika zaposlenih u inozemstvu | [`odluka/1996/2122/`](odluka/1996/2122/) | replaced, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
 | Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja za osiguranike koji su na području Republike Hrvatske zaposleni kod stranih i međunarodnih organizacija i ustanova, stranih konzularnih i diplomatskih predstavništava ili u osobnoj službi stranih državljana | [`odluka/1996/2123/`](odluka/1996/2123/) | in force | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o osnovici za obračunavanje i plaćanje doprinosa za mirovinsko i invalidsko osiguranje za osiguranike na neplaćenom dopustu, pod suspenzijom, u istražnom zatvoru i na izdržavanju kazne zatvora | [`odluka/1996/2125/`](odluka/1996/2125/) | replaced, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o osnovicama osiguranja koje se uzimaju za obračunavanje i plaćanje doprinosa i za određivanje prava iz mirovinskog i invalidskog osiguranja za osobe koje se nakon završene izobrazbe nalaze na obveznom praktičnom radu ili na dobrovoljnoj praksi ako rade s punim radnim vremenom | [`odluka/1996/2126/`](odluka/1996/2126/) | in force | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o stalnim svotama doprinosa za mirovinsko i invalidsko osiguranje osoba osiguranih u određenim okolnostima | [`odluka/1996/2127/`](odluka/1996/2127/) | repealed, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o osnovicama za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja pomoraca na hrvatskim brodovima u međunarodnoj plovidbi pod hrvatskom zastavom | [`odluka/1996/2128/`](odluka/1996/2128/) | repealed, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja osoba koje pružaju njegu i pomoć hrvatskim ratnim vojnim invalidima | [`odluka/1996/2129/`](odluka/1996/2129/) | replaced, not consolidated | 1 | 1996-12-23 | 1996-12-23 |
 | Odluka o izmjenama odluke o usklađivanju doplatka za djecu i cenzusa prihoda kao uvjeta za stjecanje prava na doplatak za djecu u godini 1996. | [`odluka/1996/2130/`](odluka/1996/2130/) | in force | 1 | 1996-12-24 | 1996-12-24 |
+| Odluka o osnovicama osiguranja za obračunavanje i plaćanje doprinosa i za ostvarivanje prava iz mirovinskog i invalidskog osiguranja samostalnih privrednika Hrvatske | [`odluka/1996/2131/`](odluka/1996/2131/) | replaced, not consolidated | 1 | 1996-12-24 | 1996-12-24 |
 | Odluka o stopi i osnovici za obračunavanje doprinosa Hrvatskoj gospodarskoj komori u 1997. godini | [`odluka/1996/2132/`](odluka/1996/2132/) | in force | 1 | 1996-12-23 | 1996-12-23 |
 | Odluka o visini i načinu obračuna naknade za vađenje pijeska i šljunka | [`odluka/1996/2162/`](odluka/1996/2162/) | in force | 1 | 1996-12-30 | 1996-12-30 |
+| Odluka o produljenju roka iz članka 4. stavka 2. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1996/2171/`](odluka/1996/2171/) | repealed, not consolidated | 1 | 1996-12-31 | 1996-12-31 |
+| Odluka o izmjeni Odluke o određivanju robe i drugih stvari koje se uvoze iz drugih država ili područja nastalih raspadom bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1996/2172/`](odluka/1996/2172/) | in force | 1 | 1996-12-31 | 1996-12-31 |
 | Odluka o vrstama vojnih odora u oružanim snagama Republike Hrvatske | [`odluka/1997/4/`](odluka/1997/4/) | in force | 1 | 1997-01-11 | 1997-01-11 |
 | Odluka o dodjeli sredstava za pomoć, liječnje i rekreaciju Matici hrvatskih umirovljenika u godini 1996. | [`odluka/1997/12/`](odluka/1997/12/) | in force | 1 | 1997-01-03 | 1997-01-03 |
 | Odluka o dodjeli sredstava za pomoć, liječenje i rekreaciju Sindikatu umirovljenika Hrvatske u godini 1996. | [`odluka/1997/13/`](odluka/1997/13/) | in force | 1 | 1997-01-03 | 1997-01-03 |
@@ -3094,6 +3276,7 @@
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Robertu Rezleru | [`odluka/1997/91/`](odluka/1997/91/) | in force | 1 | 1997-01-22 | 1997-01-22 |
 | Odluka o darovanju poljoprivrednog zemljišta u vlasništvu države Rimokatoličkoj župi Uzvišenja sv. Križa | [`odluka/1997/92/`](odluka/1997/92/) | in force | 1 | 1997-01-22 | 1997-01-22 |
 | Odluka o ostavljanju u zvanju veleposlanika u Ministarstvu vanjskih poslova mr. Miljenka Žagara za vrijeme trajanja dužnosti ravnatelja Hrvatskog informativno-kulturnog zavoda | [`odluka/1997/103/`](odluka/1997/103/) | in force | 1 | 1996-12-20 | 1996-12-20 |
+| Odluka o minimalnim stopama i visinama slivne vodne naknade | [`odluka/1997/117/`](odluka/1997/117/) | cited later, not consolidated | 1 | 1997-02-05 | 1997-02-05 |
 | Odluka o izmjeni Odluke o sanaciji i restrukturiranju Privredne banke, dioničko društvo, Zagreb | [`odluka/1997/118/`](odluka/1997/118/) | in force | 1 | 1997-01-28 | 1997-01-28 |
 | Odluka o davanju suglasnosti na sklapanje ugovora o kreditu između Republike Hrvatske i Export Development Corporation iz Ottawe, Kanada | [`odluka/1997/125/`](odluka/1997/125/) | in force | 1 | 1997-01-10 | 1997-01-10 |
 | Odluka o dopuni Odluke o određivanju proizvoda koji podliježu nadzoru kakvoće pri uvozu i izvozu | [`odluka/1997/164/`](odluka/1997/164/) | amending act | 1 | 1997-02-08 | 1997-02-08 |
@@ -3175,14 +3358,85 @@
 | Odluka o utvrđivanju interesa Republike Hrvatske za rekonstrukciju i formiranje eksploatacijskog polja na k.č. broj 356/288, upisanoj u z.k.ul. broj 995, u k.o. Kunj | [`odluka/1997/985/`](odluka/1997/985/) | in force | 1 | 1997-06-20 | 1997-06-20 |
 | Odluka o zatvaranju Veleposlanstva Republike Hrvatske u Ujedinjenim Arapskim Emiratima | [`odluka/1997/996/`](odluka/1997/996/) | in force | 1 | 1997-06-16 | 1997-06-16 |
 | Odluka o izmjeni Odluke o određivanju robe i drugih stvari koje se uvoze iz drugih država ili područja nastalih raspadom bivše SFRJ, a ne smatraju se carinskom robom | [`odluka/1997/1034/`](odluka/1997/1034/) | in force | 1 | 1997-06-27 | 1997-06-27 |
+| Odluka o koncesiji pomorskog dobra u svrhu gospodarskog korištenja luke posebne namjene - industrijske luke Koromačno | [`odluka/1997/1035/`](odluka/1997/1035/) | amended, not consolidated | 1 | 1997-06-26 | 1997-06-26 |
+| Odluka o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju | [`odluka/1997/1036/`](odluka/1997/1036/) | amended, not consolidated | 1 | 1997-06-26 | 1997-06-26 |
+| Odluka o visini osiguranih štednih uloga od 20. lipnja 1997. | [`odluka/1997/1039/`](odluka/1997/1039/) | in force | 1 | 1997-06-27 | 1997-06-27 |
 | Odluka o usklađivanju mirovina od 1. veljače 1995. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1058/`](odluka/1997/1058/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. veljače 1995. | [`odluka/1997/1059/`](odluka/1997/1059/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. veljače 1995. | [`odluka/1997/1060/`](odluka/1997/1060/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. veljače 1995. | [`odluka/1997/1061/`](odluka/1997/1061/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanje novčanih naknada za tjelesno oštećenje od 1. veljače 1995. | [`odluka/1997/1062/`](odluka/1997/1062/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. veljače 1995. | [`odluka/1997/1063/`](odluka/1997/1063/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina od 1. lipnja 1995. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1064/`](odluka/1997/1064/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. lipnja 1995. | [`odluka/1997/1065/`](odluka/1997/1065/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. lipnja 1995. | [`odluka/1997/1066/`](odluka/1997/1066/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1995. | [`odluka/1997/1067/`](odluka/1997/1067/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1995. | [`odluka/1997/1068/`](odluka/1997/1068/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1995. | [`odluka/1997/1069/`](odluka/1997/1069/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina od 1. srpnja 1995. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1070/`](odluka/1997/1070/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. srpnja 1995. | [`odluka/1997/1071/`](odluka/1997/1071/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. srpnja 1995. | [`odluka/1997/1072/`](odluka/1997/1072/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. srpnja 1995. | [`odluka/1997/1073/`](odluka/1997/1073/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1995. | [`odluka/1997/1074/`](odluka/1997/1074/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1995. | [`odluka/1997/1075/`](odluka/1997/1075/) | in force | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina od 1. siječnja 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1076/`](odluka/1997/1076/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. siječnja 1996. | [`odluka/1997/1077/`](odluka/1997/1077/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. siječnja 1996. | [`odluka/1997/1078/`](odluka/1997/1078/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. siječnja 1996. | [`odluka/1997/1079/`](odluka/1997/1079/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanje novčanih naknada za tjelesno oštećenje od 1. siječnja 1996. | [`odluka/1997/1080/`](odluka/1997/1080/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1996. | [`odluka/1997/1081/`](odluka/1997/1081/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina od 1. svibnja 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1082/`](odluka/1997/1082/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. svibnja 1996. | [`odluka/1997/1083/`](odluka/1997/1083/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. svibnja 1996. | [`odluka/1997/1084/`](odluka/1997/1084/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. svibnja 1996. | [`odluka/1997/1085/`](odluka/1997/1085/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. svibnja 1996. | [`odluka/1997/1086/`](odluka/1997/1086/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1996. | [`odluka/1997/1087/`](odluka/1997/1087/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina od 1. srpnja 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1088/`](odluka/1997/1088/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. srpnja 1996. | [`odluka/1997/1089/`](odluka/1997/1089/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. srpnja 1996. | [`odluka/1997/1090/`](odluka/1997/1090/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknadu plaća u svezi s pravom na zaposlenje od 1. srpnja 1996. | [`odluka/1997/1091/`](odluka/1997/1091/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1996. | [`odluka/1997/1092/`](odluka/1997/1092/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1996. | [`odluka/1997/1093/`](odluka/1997/1093/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina od 1. prosinca 1996. i o najvišoj starosnoj i invalidskoj mirovini | [`odluka/1997/1094/`](odluka/1997/1094/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o visini minimalne mirovine od 1. prosinca 1996. | [`odluka/1997/1095/`](odluka/1997/1095/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. prosinca 1996. | [`odluka/1997/1096/`](odluka/1997/1096/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. prosinca 1996. | [`odluka/1997/1097/`](odluka/1997/1097/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1996. | [`odluka/1997/1098/`](odluka/1997/1098/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1996. | [`odluka/1997/1099/`](odluka/1997/1099/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. veljače 1995. | [`odluka/1997/1100/`](odluka/1997/1100/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. veljače 1995. | [`odluka/1997/1101/`](odluka/1997/1101/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanje naknada za tjelesno oštećenje od 1. veljače 1995. | [`odluka/1997/1103/`](odluka/1997/1103/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. veljače 1995. | [`odluka/1997/1104/`](odluka/1997/1104/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. lipnja 1995. | [`odluka/1997/1105/`](odluka/1997/1105/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. lipnja 1995. | [`odluka/1997/1106/`](odluka/1997/1106/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. lipnja 1995. | [`odluka/1997/1107/`](odluka/1997/1107/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. lipnja 1995. | [`odluka/1997/1108/`](odluka/1997/1108/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. lipnja 1995. | [`odluka/1997/1109/`](odluka/1997/1109/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. srpnja 1995. | [`odluka/1997/1110/`](odluka/1997/1110/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. srpnja 1995. | [`odluka/1997/1111/`](odluka/1997/1111/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. srpnja 1995. | [`odluka/1997/1112/`](odluka/1997/1112/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1995. | [`odluka/1997/1113/`](odluka/1997/1113/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od od 1. srpnja 1995. | [`odluka/1997/1114/`](odluka/1997/1114/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. siječnja 1996. | [`odluka/1997/1115/`](odluka/1997/1115/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. siječnja 1996. | [`odluka/1997/1116/`](odluka/1997/1116/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. siječnja 1996. | [`odluka/1997/1117/`](odluka/1997/1117/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o osnovici za određivanje novčanih naknada za tjelesno oštećenje i usklađivanje novčanih naknada za tjelesno oštećenje od 1. siječnja 1996. | [`odluka/1997/1118/`](odluka/1997/1118/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. siječnja 1996. | [`odluka/1997/1119/`](odluka/1997/1119/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. svibnja 1996. | [`odluka/1997/1120/`](odluka/1997/1120/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. svibnja 1996. | [`odluka/1997/1121/`](odluka/1997/1121/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. svibnja 1996. | [`odluka/1997/1122/`](odluka/1997/1122/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. svibnja 1996. | [`odluka/1997/1123/`](odluka/1997/1123/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. svibnja 1996. | [`odluka/1997/1124/`](odluka/1997/1124/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. srpnja 1996. | [`odluka/1997/1125/`](odluka/1997/1125/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. srpnja 1996. | [`odluka/1997/1126/`](odluka/1997/1126/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknada plaća u svezi s pravom na zaposlenje od 1. srpnja 1996. | [`odluka/1997/1127/`](odluka/1997/1127/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. srpnja 1996. | [`odluka/1997/1128/`](odluka/1997/1128/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. srpnja 1996. | [`odluka/1997/1129/`](odluka/1997/1129/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju mirovina od 1. prosinca 1996. | [`odluka/1997/1130/`](odluka/1997/1130/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o graničnoj svoti najnižeg mirovinskog primanja od 1. prosinca 1996. | [`odluka/1997/1131/`](odluka/1997/1131/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju naknada plaća u svezi s pravom na prekvalifikaciju ili dokvalifikaciju i naknadu plaća u svezi s pravom na zaposlenje od 1. prosinca 1996. | [`odluka/1997/1132/`](odluka/1997/1132/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju novčanih naknada za tjelesno oštećenje od 1. prosinca 1996. | [`odluka/1997/1133/`](odluka/1997/1133/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o usklađivanju doplatka za pomoć i njegu od 1. prosinca 1996. | [`odluka/1997/1134/`](odluka/1997/1134/) | replaced, not consolidated | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. veljače 1995. | [`odluka/1997/1139/`](odluka/1997/1139/) | in force | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. lipnja 1995. | [`odluka/1997/1145/`](odluka/1997/1145/) | in force | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o određivanju osnovice za utvrđivanje novčane naknade za tjelesno oštećenje od 1. srpnja 1995. | [`odluka/1997/1151/`](odluka/1997/1151/) | in force | 1 | 1997-07-01 | 1997-07-01 |
@@ -3198,18 +3452,34 @@
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. svibnja 1996. | [`odluka/1997/1181/`](odluka/1997/1181/) | in force | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. srpnja 1996. | [`odluka/1997/1182/`](odluka/1997/1182/) | in force | 1 | 1997-07-01 | 1997-07-01 |
 | Odluka o usklađivanju mirovina, doplatka za pomoć i njegu i novčanih naknada za tjelesno oštećenje od 1. prosinca 1996. | [`odluka/1997/1183/`](odluka/1997/1183/) | in force | 1 | 1997-07-01 | 1997-07-01 |
+| Odluka o valorizacijskim koeficijentima za preračunavanje plaća iz prijašnjih godina prema razini osnovica osiguranja iz godine 1997. | [`odluka/1997/1184/`](odluka/1997/1184/) | in force | 1 | 1997-07-08 | 1997-07-08 |
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju srednjetlačnoga distributivnoga plinovoda oko Grada Bjelovara | [`odluka/1997/1217/`](odluka/1997/1217/) | in force | 1 | 1997-07-07 | 1997-07-07 |
 | Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda u prvih pet mjeseci 1997. godine | [`odluka/1997/1223/`](odluka/1997/1223/) | in force | 1 | 1997-07-10 | 1997-07-10 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Republici Finskoj, sa sjedištem u Helsinkiju | [`odluka/1997/1229/`](odluka/1997/1229/) | in force | 1 | 1997-06-30 | 1997-06-30 |
+| Odluka o načinu i rokovima dostavljanja izvješća o kupljenim odnosno prodanim devizama na deviznom tržištu | [`odluka/1997/1243/`](odluka/1997/1243/) | replaced, not consolidated | 1 | 1997-09-30 | 1997-09-30 |
+| Odluka o izmjeni Odluke o obveznoj rezervi banaka i štedionica | [`odluka/1997/1244/`](odluka/1997/1244/) | in force | 1 | 1997-07-09 | 1997-07-09 |
+| Odluka o davanju koncesije na pomorsko dobro u svrhu izgradnje i gospodarskog korištenja obale za prihvat ugljena i sustava rashladne vode, luke posebne namjene - industrijske luke Plomin | [`odluka/1997/1261/`](odluka/1997/1261/) | amended, not consolidated | 1 | 1997-07-11 | 1997-07-11 |
 | Odluka o promjeni svote carine po mjernoj jednici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1997/1262/`](odluka/1997/1262/) | in force | 1 | 1997-07-14 | 1997-07-14 |
 | Odluka o zatvaranju Veleposlanstva Republike Hrvatske u Republici Kazakstan, sa sjedištem u Almaty | [`odluka/1997/1264/`](odluka/1997/1264/) | in force | 1 | 1997-09-01 | 1997-09-01 |
 | Odluka o izdavanju euroobveznica Republike Hrvatske u iznosu od DEM 300.000.000,00 | [`odluka/1997/1266/`](odluka/1997/1266/) | in force | 1 | 1997-07-11 | 1997-07-11 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/1997/1312/`](odluka/1997/1312/) | replaced, not consolidated | 1 | 1997-07-16 | 1997-07-16 |
 | Odluka o izmjenama i dopunama Statuta Republičkog fonda mirovinskog i invalidskog osiguranja individualnih poljoprivrednika Hrvatske | [`odluka/1997/1314/`](odluka/1997/1314/) | amending act | 1 | 1997-07-16 | 1997-07-16 |
 | Odluka o osnivanju Vijeća za strateške odluke | [`odluka/1997/1316/`](odluka/1997/1316/) | in force | 1 | 1997-07-08 | 1997-07-08 |
+| Odluka o vrstama radijskih postaja za koje se ne izdaje dozvola | [`odluka/1997/1318/`](odluka/1997/1318/) | amended, not consolidated | 1 | 1997-07-21 | 1997-07-21 |
 | Odluka o izmjeni Pravilnika o izmjenama i dopunama Pravilnika o naknadama za javnu izvedbu i priopćavanje javnosti glazbenih djela te naknadama za korištenje glazbenih izvedbenih materijala | [`odluka/1997/1333/`](odluka/1997/1333/) | amending act | 1 | 1997-05-20 | 1997-05-20 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1997/1339/`](odluka/1997/1339/) | replaced, not consolidated | 1 | 1997-07-25 | 1997-07-25 |
 | Odluka o utvrđivanju visine godišnjeg paušalnog iznosa boravišne pristojbe za korisnike stalnog veza u luci nautičkog turizma | [`odluka/1997/1340/`](odluka/1997/1340/) | in force | 1 | 1997-07-25 | 1997-07-25 |
+| Odluka o zaduženosti određenih poduzeća | [`odluka/1997/1341/`](odluka/1997/1341/) | amended, not consolidated | 1 | 1997-07-25 | 1997-07-25 |
+| Odluka o prestanku sanacije određenih poduzeća | [`odluka/1997/1342/`](odluka/1997/1342/) | amended, not consolidated | 1 | 1997-07-25 | 1997-07-25 |
+| Odluka o najnižem iznosu osnovice za naplatu doprinosa za obvezno zdravstveno osiguranje osiguranika poljoprivrednika | [`odluka/1997/1394/`](odluka/1997/1394/) | replaced, not consolidated | 1 | 1997-08-08 | 1997-08-08 |
 | Odluka o dopuni Odluke o osnovicama, stopama, načinu obračuna i plaćanja sredstava za ostvarivanje prava iz obveznog zdravstvenog osiguranja | [`odluka/1997/1395/`](odluka/1997/1395/) | amending act | 1 | 1997-08-16 | 1997-08-16 |
+| Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1997/1396/`](odluka/1997/1396/) | amended, not consolidated | 1 | 1997-08-08 | 1997-08-08 |
+| Odluka o izmjeni Odluke o sudjelovanju osiguranih osoba u pokriću dijela troškova zdravstvene zaštite | [`odluka/1997/1397/`](odluka/1997/1397/) | in force | 1 | 1997-08-16 | 1997-08-16 |
+| Odluka o izmjeni Odluke o sanaciji određenih poduzeća | [`odluka/1997/1406/`](odluka/1997/1406/) | amended, not consolidated | 1 | 1997-08-20 | 1997-08-20 |
+| Odluka o davanju suglasnosti na izdavanje jamstva (garancije) Republike Hrvatske Export Development Corporation iz Ottawe, Kanada, kao sredstva osiguranja za obvezu povrata zajma odobrenog RH Alan d.o | [`odluka/1997/1423/`](odluka/1997/1423/) | replaced, not consolidated | 1 | 1997-08-22 | 1997-08-22 |
+| Odluka o obustavi investicijskih ulaganja u zdravstvenim ustanovama uključenim u mrežu zdravstvene djelatnosti Republike Hrvatske | [`odluka/1997/1426/`](odluka/1997/1426/) | replaced, not consolidated | 1 | 1997-08-27 | 1997-08-27 |
 | Odlukom o davanju suglasnosti na izdavanje jamstva (garancije) Republike Hrvatske Export Development Corporation iz Ottawe, Kanada, kao sredstva osiguranja za obvezu povrata zajma odobrenog RH Alan d. | [`odluka/1997/1438/`](odluka/1997/1438/) | in force | 1 | 1997-08-22 | 1997-08-22 |
+| Odluka o dopuni Odluke o određivanju robe koja se izvozi i uvozi na temelju dozvola | [`odluka/1997/1486/`](odluka/1997/1486/) | amending act | 1 | 1997-09-20 | 1997-09-20 |
 | Odluka o zajamčenoj cijeni suncokreta roda 1998. godine | [`odluka/1997/1488/`](odluka/1997/1488/) | in force | 1 | 1997-09-20 | 1997-09-20 |
 | Odluka o zajamčenoj cijeni soje roda 1998. godine | [`odluka/1997/1489/`](odluka/1997/1489/) | in force | 1 | 1997-09-20 | 1997-09-20 |
 | Odluka o zajamčenoj cijeni uljane repice roda 1998. godine | [`odluka/1997/1490/`](odluka/1997/1490/) | in force | 1 | 1997-09-20 | 1997-09-20 |
@@ -3217,19 +3487,30 @@
 | Odluka o određivanju granice pomorskog dobra na dijelu k.o. Bakarac | [`odluka/1997/1492/`](odluka/1997/1492/) | in force | 1 | 1997-09-11 | 1997-09-11 |
 | Odluka o određivanju granice pomorskog dobra u dijelu k.o. Kostrena - Sveta Lucija | [`odluka/1997/1493/`](odluka/1997/1493/) | in force | 1 | 1997-09-11 | 1997-09-11 |
 | Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Zakona o carinskoj tarifi | [`odluka/1997/1508/`](odluka/1997/1508/) | in force | 1 | 1997-09-24 | 1997-09-24 |
+| Odluka o odobravanju dnevnog kredita za premošćivanje problema tekuće nelikvidnosti | [`odluka/1997/1512/`](odluka/1997/1512/) | amended, not consolidated | 1 | 1997-09-16 | 1997-09-16 |
+| Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1997/1513/`](odluka/1997/1513/) | in force | 1 | 1997-09-16 | 1997-09-16 |
 | Odluka o davanju suglasnosti brodograđevnoj industriji Ż3 majŽ d.d. Rijeka na sklapanje Ugovora o kreditu i jamstvu za gradnju dva broda Nov. 673 i Nov. 674 "3. maj" brodogradilište d.d. Rijeka za I | [`odluka/1997/1527/`](odluka/1997/1527/) | in force | 1 | 1997-09-12 | 1997-09-12 |
 | Odluka o osnivanju Veleposlanstva Republike Hrvatske u Državi Izrael | [`odluka/1997/1532/`](odluka/1997/1532/) | in force | 1 | 1997-09-19 | 1997-09-19 |
 | Odluka o zatvaranju Konzulata Republike Hrvatske u Republici Finskoj | [`odluka/1997/1533/`](odluka/1997/1533/) | in force | 1 | 1997-09-19 | 1997-09-19 |
 | Odluka o kratkoročnom zaduženju Republike Hrvatske kod Union Bank of Switzerland | [`odluka/1997/1536/`](odluka/1997/1536/) | in force | 1 | 1997-09-18 | 1997-09-18 |
+| Odluka o izmjeni Odluke o osnovama za sklapanje ugovora sa zdravstvenim ustanovama i privatnim zdravstvenim djelatnicima za 1997. godinu | [`odluka/1997/1539/`](odluka/1997/1539/) | in force | 1 | 1997-09-24 | 1997-09-24 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Carinske tarife | [`odluka/1997/1576/`](odluka/1997/1576/) | amended, not consolidated | 1 | 1997-09-30 | 1997-09-30 |
+| Odluka o davanju koncesije za osnivanje Slobodne zone Zagreb | [`odluka/1997/1577/`](odluka/1997/1577/) | amended, not consolidated | 1 | 1997-09-25 | 1997-09-25 |
 | Odluka o dopuni Odluke o zabrani uvoza šećera | [`odluka/1997/1583/`](odluka/1997/1583/) | amending act | 1 | 1997-10-04 | 1997-10-04 |
+| Odluka o zabrani izvoza pšenice i pšeničnog brašna | [`odluka/1997/1584/`](odluka/1997/1584/) | repealed, not consolidated | 1 | 1997-10-03 | 1997-10-03 |
 | Odluka o izdavanju jamstva Vlade Republike Hrvatske za kredit Bayerische Landesbank Girocentrale, Minchen, društvu Đuro Đaković Holding d.d., Slavonski Brod, za kreditiranje plasmana kombajna, berača | [`odluka/1997/1585/`](odluka/1997/1585/) | in force | 1 | 1997-10-01 | 1997-10-01 |
 | Odluka o raspuštanju Županijske skupštine Primorsko-goranske županije | [`odluka/1997/1597/`](odluka/1997/1597/) | in force | 1 | 1997-10-06 | 1997-10-06 |
+| Odluka o produljenju roka za sklapanje Ugovora o kupoprodaji državnog stana, iz Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1997/1598/`](odluka/1997/1598/) | repealed, not consolidated | 1 | 1997-10-06 | 1997-10-06 |
 | Odluka o davanju u posjed nekretnina u vlasništvu Republike Hrvatske Obrtničkoj školi "Antun Horvat" u Đakov | [`odluka/1997/1599/`](odluka/1997/1599/) | in force | 1 | 1997-10-02 | 1997-10-02 |
 | Odluka o izmjeni Odluke o kamatnim stopama Narodne banke Hrvatske | [`odluka/1997/1603/`](odluka/1997/1603/) | in force | 1 | 1997-10-06 | 1997-10-06 |
 | Odluka o osnovnim obilježjima prigodnog optjecajnog kovanog novca od 25 kuna "PRIMANJE REPUBLIKE HRVATSKE U ORGANIZACIJU UJEDINJENIH NARODA | [`odluka/1997/1604/`](odluka/1997/1604/) | in force | 1 | 1997-10-06 | 1997-10-06 |
+| Odluka o izdavanju numizmatičkih kompleta kovanog novca Republike Hrvatske kuna i lipa s oznakom godine kovanja 1997. | [`odluka/1997/1605/`](odluka/1997/1605/) | cited later, not consolidated | 1 | 1997-10-06 | 1997-10-06 |
 | Odluka o puštanju u opticaj prigodnog opticajnog kovanog novca od 25 kuna "Primanje Republike Hrvatske u Organizaciju ujedinjenih naroda | [`odluka/1997/1615/`](odluka/1997/1615/) | in force | 1 | 1997-10-08 | 1997-10-08 |
 | Odluka o određivanju granice pomorskog dobra na dijelu k.o. Kostrena-Sv. Barbara | [`odluka/1997/1637/`](odluka/1997/1637/) | in force | 1 | 1997-10-09 | 1997-10-09 |
 | Odluka o osnivanju nacionalnog odbora za ostvarivanje programa uspostave povjerenja, ubrzanog povratka i normalizacije života na ratom stradalim područjima Republike Hrvatske | [`odluka/1997/1649/`](odluka/1997/1649/) | in force | 1 | 1997-10-09 | 1997-10-09 |
+| Odluka o izmjeni Odluke o osnivanju Nacionalnog povjerenstva za provedbu Konvencije o zabrani razvijanja, proizvodnje, gomilanja i korištenja kemijskog oružja i o njegovu uništenju | [`odluka/1997/1656/`](odluka/1997/1656/) | in force | 1 | 1997-10-16 | 1997-10-16 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/1997/1658/`](odluka/1997/1658/) | replaced, not consolidated | 1 | 1997-10-17 | 1997-10-17 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Carinske tarife | [`odluka/1997/1684/`](odluka/1997/1684/) | amended, not consolidated | 1 | 1997-10-27 | 1997-10-27 |
 | Odluka o raspuštanju Općinskog vijeća Općine Nerežišća | [`odluka/1997/1685/`](odluka/1997/1685/) | in force | 1 | 1997-10-24 | 1997-10-24 |
 | Odluka o raspuštanju Općinskog vijeća Općine Gradac | [`odluka/1997/1686/`](odluka/1997/1686/) | in force | 1 | 1997-10-24 | 1997-10-24 |
 | Odluka o raspisivanju izbora za članove Županijske skupštine Primorsko-goranske županije | [`odluka/1997/1732/`](odluka/1997/1732/) | in force | 1 | 1997-10-30 | 1997-10-30 |
@@ -3237,18 +3518,37 @@
 | Odluka o utvrđivanju interesa Republike Hrvatske za izgradnju Magistralnoga plinovoda DN 500 Zagreb-Karlovac | [`odluka/1997/1739/`](odluka/1997/1739/) | in force | 1 | 1997-11-04 | 1997-11-04 |
 | Odluka o prijenosu nekretnina u vlasništvu Republike Hrvatske u vlasništvo Dubrovačke Biskupije | [`odluka/1997/1740/`](odluka/1997/1740/) | in force | 1 | 1997-10-30 | 1997-10-30 |
 | Odluka o određivanju granice pomorskog dobra na dijelu k.o. Plat | [`odluka/1997/1741/`](odluka/1997/1741/) | in force | 1 | 1997-10-30 | 1997-10-30 |
+| Odluka o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`odluka/1997/1742/`](odluka/1997/1742/) | replaced, not consolidated | 1 | 1997-10-30 | 1997-10-30 |
+| Odluka o sanaciji određenih poduzeća | [`odluka/1997/1749/`](odluka/1997/1749/) | repealed, not consolidated | 1 | 1997-11-05 | 1997-11-05 |
 | Odluka o izmjenama Odluke o zaduženosti određenih poduzeća | [`odluka/1997/1750/`](odluka/1997/1750/) | in force | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o visini novčane naknade za nezaposlenu osobu | [`odluka/1997/1755/`](odluka/1997/1755/) | replaced, not consolidated | 1 | 1997-11-05 | 1997-11-05 |
+| Odluka o promjeni svote carine po mjernoj jedinici pri uvozu pojedinih poljoprivrednih proizvoda iz Dodatka A Carinske tarife | [`odluka/1997/1764/`](odluka/1997/1764/) | amended, not consolidated | 1 | 1997-11-11 | 1997-11-11 |
 | Odluka o prestanku važenja Odluke o produljenju roka iz članka 4. stavka 2. Zakona o prodaji stanova na kojima postoji stanarsko pravo | [`odluka/1997/1765/`](odluka/1997/1765/) | in force | 1 | 1997-11-07 | 1997-11-07 |
 | Odluka o izmjeni Odluke o opsegu kontingenata za izvoz robe u 1997. godini | [`odluka/1997/1766/`](odluka/1997/1766/) | in force | 1 | 1997-11-07 | 1997-11-07 |
 | Odluka o izmjeni i dopuni Odluke o zabrani uvoza šećera | [`odluka/1997/1767/`](odluka/1997/1767/) | amending act | 1 | 1997-11-07 | 1997-11-07 |
+| Odluka o izdavanju i prodaji zlatnog i srebrenog kovanog novca "BARANJA | [`odluka/1997/1789/`](odluka/1997/1789/) | cited later, not consolidated | 1 | 1997-11-12 | 1997-11-12 |
 | Odluka o davanju suglasnosti na Odluku o zamjeni nekretnina | [`odluka/1997/1837/`](odluka/1997/1837/) | in force | 1 | 1997-11-20 | 1997-11-20 |
 | Odluka o prijenosu prava vlasništva na nekretnini u vlasništvu Republike Hrvatske na Općinu Jelsa | [`odluka/1997/1869/`](odluka/1997/1869/) | in force | 1 | 1997-12-02 | 1997-12-02 |
 | Odluka o određivanju granice pomorskog dobra na dijelu k.o. Zavrelje | [`odluka/1997/1870/`](odluka/1997/1870/) | in force | 1 | 1997-11-27 | 1997-11-27 |
 | Odluka o određivanju granice pomorskog dobra na dijelu k.o. Dubrovnik | [`odluka/1997/1871/`](odluka/1997/1871/) | in force | 1 | 1997-11-27 | 1997-11-27 |
 | Odluka o izdavanju jamstva Vlade Republike Hrvatske za otplatu kredita Bayerische Landesbank Girocentrale, Munchen, koji će se koristiti za kreditiranje poljoprivredne mehanizacije poljoprivrednim gos | [`odluka/1997/1880/`](odluka/1997/1880/) | in force | 1 | 1997-11-28 | 1997-11-28 |
+| Odluka o izmjeni Odluke o utvrđivanju Liste lijekova Hrvatskog zavoda za zdravstveno osiguranje | [`odluka/1997/1883/`](odluka/1997/1883/) | amended, not consolidated | 1 | 1997-12-03 | 1997-12-03 |
 | Odluka o dopuni Odluke o sanaciji određenih poduzeća | [`odluka/1997/1896/`](odluka/1997/1896/) | amending act | 1 | 1997-12-09 | 1997-12-09 |
+| Odluka o izmjeni Odluke o visini nadoknade za prostore koje koriste objekti za proizvodnju električne energije | [`odluka/1997/1897/`](odluka/1997/1897/) | in force | 1 | 1997-12-09 | 1997-12-09 |
+| Odluka o davanju potpore za rast i razvoj malog gospodarstva | [`odluka/1997/1921/`](odluka/1997/1921/) | repealed, not consolidated | 1 | 1997-12-10 | 1997-12-10 |
+| Odluka o davanju potpore poduzetnicima za korištenje usluga konzultanata, članova Hrvatske mreže konzultanata | [`odluka/1997/1922/`](odluka/1997/1922/) | repealed, not consolidated | 1 | 1997-12-10 | 1997-12-10 |
 | Odluka o uvjetima za obavljanje pojedinih bankovnih poslova | [`odluka/1997/1932/`](odluka/1997/1932/) | in force | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o obvezi ovlaštenih banaka i štedionica da drže određeni iznos u devizama u inozemstvu radi održavanja opće likvidnosti | [`odluka/1997/1933/`](odluka/1997/1933/) | repealed, not consolidated | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o načinu i rokovima dostavljanja izvješća o stanju deviznih sredstava ovlaštene banke i štedionice | [`odluka/1997/1934/`](odluka/1997/1934/) | replaced, not consolidated | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o sprečavanju izloženosti devizne pozicije ovlaštenih banaka i štedionica valutnom riziku | [`odluka/1997/1935/`](odluka/1997/1935/) | amended, not consolidated | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o dopuni Odluke o načinu obavljanja mjenjačkih poslova | [`odluka/1997/1936/`](odluka/1997/1936/) | amended, not consolidated | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o izmjeni Odluke o načinu izračunavanja adekvatnosti kapitala i ponderirane rizične aktive banaka i štedionica | [`odluka/1997/1937/`](odluka/1997/1937/) | in force | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o izmjeni Odluke o visini i načinu formiranja posebnih rezervi za osiguranje od potencijalnih gubitaka banaka i štedionica | [`odluka/1997/1938/`](odluka/1997/1938/) | in force | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o izmjeni Odluke o raspoređivanju aktivnih bilančnih i izvanbilančnih stavaka banaka i štedionica | [`odluka/1997/1939/`](odluka/1997/1939/) | in force | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o izmjeni Odluke o načinu izračunavanja kapitala banaka i štedionica | [`odluka/1997/1940/`](odluka/1997/1940/) | in force | 1 | 1997-12-12 | 1997-12-12 |
+| Odluka o izdavanju numizmatičkog kompleta prigodnoga optjecajnog kovanog novca od 25 kuna s oznakom godine kovanja "1997. | [`odluka/1997/1941/`](odluka/1997/1941/) | cited later, not consolidated | 1 | 1997-12-12 | 1997-12-12 |
 | Odluka o osnovici i stopi za obračunavanje i plaćanje doprinosa Hrvatskoj gospodarskoj komori u 1998. godini | [`odluka/1997/1942/`](odluka/1997/1942/) | in force | 1 | 1997-12-20 | 1997-12-20 |
+| Odluka o obveznicama, visini i osnovici za plaćanje doprinosa Hrvatskoj obrtničkoj komori | [`odluka/1997/1971/`](odluka/1997/1971/) | amended, not consolidated | 1 | 1997-12-19 | 1997-12-19 |
 | Odluka o davanju pomoći gradovima i općinama za djelomično ublažavanje posljedica štete od elementarnih nepogoda za razdoblje od lipnja do listopada 1997. godine | [`odluka/1997/1980/`](odluka/1997/1980/) | in force | 1 | 1997-12-24 | 1997-12-24 |
 | Odluka o stavljanju izvan snage Odluke o osnivanju dioničkog društva Autocesta Rijeka-Zagreb- Goričan d.d. i dodjeli koncesije za građenje i gospodarenje autocestom Rijeka-Zagreb-Goričan | [`odluka/1997/1993/`](odluka/1997/1993/) | in force | 1 | 1997-12-23 | 1997-12-23 |
 | Odluka o isključenju iz opće uporabe dijela pomorskog dobra radi izgradnje objekta infrastrukture od interesa za Republiku Hrvatsku, na lokaciji "Plat-Dubrovnik | [`odluka/1997/1995/`](odluka/1997/1995/) | in force | 1 | 1997-12-18 | 1997-12-18 |
